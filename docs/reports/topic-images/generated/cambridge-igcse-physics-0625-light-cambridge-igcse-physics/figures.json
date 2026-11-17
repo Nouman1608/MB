@@ -6,7 +6,7 @@
   "after": "## Reflection at a plane mirror",
   "alt": "Left: a ray strikes a plane mirror at 25° to its surface, so the angle of incidence measured from the normal is 65° and the angle of reflection is also 65°. Right (Extended): the image I of a point O is on the perpendicular line, the same distance d behind the mirror; a dashed line from I to the eye fixes where the real ray reflects.",
   "caption": "Measure angles from the normal; the image is as far behind the mirror as the object is in front.",
-  "bytes": 82372
+  "bytes": 83886
  },
  {
   "file": "cambridge-igcse-physics-0625-light-cambridge-igcse-physics--02-refraction-block.webp",
@@ -15,7 +15,7 @@
   "after": "## Refraction and refractive index",
   "alt": "A ray in air meets a plastic block of refractive index 1.60 at 50° to the normal, bends towards the normal to 28.6° inside, and leaves parallel to its original direction, shifted sideways. Calculations give r = 28.6°, a speed of 1.9 × 10⁸ m/s in the plastic and a critical angle of 38.7°.",
   "caption": "Light bends towards the normal entering a slower material and away from it leaving.",
-  "bytes": 75062
+  "bytes": 74620
  },
  {
   "file": "cambridge-igcse-physics-0625-light-cambridge-igcse-physics--03-critical-angle-tir.webp",
@@ -33,7 +33,7 @@
   "after": "## Thin lenses",
   "alt": "Scale ray diagram: a 2.0 cm object 15 cm from a converging lens of focal length 5.0 cm. A ray parallel to the axis refracts through the far principal focus and a ray through the centre goes straight on; they cross 7.5 cm beyond the lens, 1.0 cm below the axis, giving a real, inverted, diminished image.",
   "caption": "Two construction rays fix the image: here real, inverted and diminished.",
-  "bytes": 72614
+  "bytes": 75514
  },
  {
   "file": "cambridge-igcse-physics-0625-light-cambridge-igcse-physics--05-magnifying-glass.webp",

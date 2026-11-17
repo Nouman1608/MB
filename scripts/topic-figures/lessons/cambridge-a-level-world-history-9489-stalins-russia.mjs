@@ -541,9 +541,9 @@ F('03-why-terror', 'Why the Terror? Three groups of explanation', 'A strong essa
 
 // 04 Terror to scale
 F('04-terror-timeline', 'The course of the Terror, 1934-38', 'Drawn to scale: the trials and the mass operations', [
-  (y) => htl(y, 1934.5, 1938.6, {
+  (y) => htl(y, 1934.5, 1939.1, {
     x0: 70, x1: 830, lg: 50,
-    ticks: [1935, 1936, 1937, 1938].map((v) => ({ v, label: String(v) })),
+    ticks: [1935, 1936, 1937, 1938, 1939].map((v) => ({ v, label: String(v) })),
     spans: [
       { a: 1936.6, b: 1938.9, label: 'Yezhov heads the NKVD (1936-38)', fill: C.cream, edge: C.olive },
       { a: md(1937, 7), b: 1938.9, label: 'Mass operations: quotas', fill: C.panel, edge: C.rust },

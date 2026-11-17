@@ -105,14 +105,14 @@ const hatchV = (x, y1, y2) => { let s = W(x, y1, x, y2, C.ink, 5); for (let y = 
   // image construction
   const mx = 680, O = [590, 320], I = [770, 320], E = [530, 210];
   const my = O[1] + (E[1] - O[1]) * ((mx - I[0]) / (E[0] - I[0])) * 0 + I[1] + (E[1] - I[1]) * ((mx - I[0]) / (E[0] - I[0])) - I[1];
-  let b = hatchV(mx, 170, 470) + dot(O[0], O[1], 7, C.rust) + t(O[0] - 12, O[1] + 6, 'O', { size: 19, weight: 700, anchor: 'end', fill: C.rust }) + circ(I[0], I[1], 7, '#ffffff', C.rust, 2.5) + t(I[0] + 14, I[1] + 6, 'I', { size: 19, weight: 700, fill: C.rust });
+  let b = hatchV(mx, 175, 410) + dot(O[0], O[1], 7, C.rust) + t(O[0] - 12, O[1] + 6, 'O', { size: 19, weight: 700, anchor: 'end', fill: C.rust }) + circ(I[0], I[1], 7, '#ffffff', C.rust, 2.5) + t(I[0] + 14, I[1] + 6, 'I', { size: 19, weight: 700, fill: C.rust });
   b += seg(O[0], O[1], I[0], I[1], C.muted, 1.5, '5 5') + dim(O[0], O[1] + 40, mx, O[1] + 40, '') + dim(mx, O[1] + 40, I[0], O[1] + 40, '') + t((O[0] + mx) / 2, O[1] + 66, 'd', { size: 17, weight: 700, anchor: 'middle' }) + t((I[0] + mx) / 2, O[1] + 66, 'd', { size: 17, weight: 700, anchor: 'middle' });
-  b += seg(I[0], I[1], mx, my, C.rust, 2.5, '8 6') + ray(O[0], O[1], mx, my) + ray(mx, my, E[0] + 10, E[1] + 5) + `<path d="M${E[0] - 14},${E[1] - 6} q-14,6 0,14 q10,-7 0,-14 z" fill="${C.ink}"/>` + t(E[0] - 16, E[1] - 16, 'eye', { size: 15, anchor: 'middle', fill: C.muted });
+  b += seg(I[0], I[1], mx, my, C.rust, 2.5, '8 6') + ray(O[0], O[1], mx, my) + ray(mx, my, E[0] + 10, E[1] + 5) + `<path d="M${E[0] - 22},${E[1] - 2} q14,-14 28,0 q-14,14 -28,0 z" fill="#ffffff" stroke="${C.ink}" stroke-width="2"/>` + dot(E[0] - 8, E[1] - 2, 4) + t(E[0] - 8, E[1] - 18, 'eye', { size: 15, anchor: 'middle', fill: C.muted });
   b += t(680, 440, 'image: same size, same distance', { size: 16, anchor: 'middle', weight: 700 }) + t(680, 462, 'behind, virtual', { size: 16, anchor: 'middle', weight: 700 });
   add('01-plane-mirror',
     svg(900, 620, 'Reflection in a plane mirror',
       panel(30, 110, 410, 380) + t(235, 145, 'Law of reflection', { size: 20, weight: 700, anchor: 'middle' }) + a +
-      panel(460, 110, 410, 380) + t(665, 145, 'Locating the image', { size: 20, weight: 700, anchor: 'middle' }) + ext(700, 125) + b +
+      panel(460, 110, 410, 380) + t(484, 145, 'Locating the image', { size: 20, weight: 700 }) + ext(700, 124) + b +
       note(30, 505, 840, 90, ['1.5 m from the mirror → 3.0 m from the image.', 'Walk 0.5 m closer: 1.0 m from the mirror, 2.0 m from the image.'], { size: 18, lh: 28, fill: C.cream })),
     'Left: a ray strikes a plane mirror at 25° to its surface, so the angle of incidence measured from the normal is 65° and the angle of reflection is also 65°. Right (Extended): the image I of a point O is on the perpendicular line, the same distance d behind the mirror; a dashed line from I to the eye fixes where the real ray reflects.',
     'Measure angles from the normal; the image is as far behind the mirror as the object is in front.',
@@ -121,15 +121,14 @@ const hatchV = (x, y1, y2) => { let s = W(x, y1, x, y2, C.ink, 5); for (let y = 
 
 // 02 Refraction through a block, worked example
 {
-  const bx = 90, bw = 300, top = 220, bot = 440, i = 50 * D, r = Math.asin(Math.sin(i) / 1.6), P = [170, top];
+  const bx = 90, bw = 300, top = 260, bot = 450, i = 50 * D, r = Math.asin(Math.sin(i) / 1.6), P = [170, top];
   const Q = [P[0] + (bot - top) * Math.tan(r), bot];
-  let s = rect(bx, top, bw, bot - top, C.tealLight, C.ink, 3, 2) + t(bx + bw - 12, bot - 14, 'plastic, n = 1.60', { size: 16, anchor: 'end', weight: 700, fill: C.tealDark });
+  let s = rect(bx, top, bw, bot - top, C.tealLight, C.ink, 3, 2) + t(bx + 12, bot - 14, 'plastic, n = 1.60', { size: 16, weight: 700, fill: C.tealDark });
   s += normal(P[0], top - 110, P[0], top + 120) + normal(Q[0], bot - 90, Q[0], bot + 100);
   const S = [P[0] - 135 * Math.sin(i), top - 135 * Math.cos(i)], E = [Q[0] + 135 * Math.sin(i), bot + 135 * Math.cos(i)];
   s += ray(S[0], S[1], (S[0] + P[0]) / 2, (S[1] + P[1]) / 2) + seg((S[0] + P[0]) / 2, (S[1] + P[1]) / 2, P[0], P[1]) + ray(P[0], P[1], (P[0] + Q[0]) / 2, (P[1] + Q[1]) / 2) + seg((P[0] + Q[0]) / 2, (P[1] + Q[1]) / 2, Q[0], Q[1]) + ray(Q[0], Q[1], E[0], E[1]);
   s += seg(P[0], P[1], P[0] + 200 * Math.sin(i), P[1] + 200 * Math.cos(i), C.muted, 1.5, '4 5');
-  s += ang(P[0], P[1], 55, -Math.PI / 2 - i, -Math.PI / 2, 'i = 50°', P[0] - 62, P[1] - 62) + ang(P[0], P[1], 70, Math.PI / 2 - r, Math.PI / 2, 'r', P[0] + 14, P[1] + 92);
-  s += t(P[0] + 26, P[1] + 92, '= 28.6°', { size: 17, weight: 700 });
+  s += ang(P[0], P[1], 55, -Math.PI / 2 - i, -Math.PI / 2, 'i = 50°', P[0] - 62, P[1] - 62) + ang(P[0], P[1], 50, Math.PI / 2 - r, Math.PI / 2, '', 0, 0) + t(P[0] + 40, P[1] + 40, 'r = 28.6°', { size: 17, weight: 700 });
   s += t(240, 560, 'towards the normal going in, away coming out;', { size: 16, anchor: 'middle', fill: C.muted }) + t(240, 582, 'the ray leaves parallel to the way it entered', { size: 16, anchor: 'middle', fill: C.muted });
   const k = calc(460, 130, 410, 'Worked example 1', ['sin r = sin 50° / 1.60', '= 0.766 / 1.60 = 0.479', ['r = 28.6°  (29°)', 700, C.rust], 'speed = 3.0 × 10⁸ / 1.60', ['= 1.9 × 10⁸ m/s', 700, C.rust], 'sin c = 1 / 1.60 = 0.625', ['c = 38.7°', 700, C.rust]], { lh: 32, size: 18 });
   add('02-refraction-block',
@@ -179,10 +178,10 @@ const hatchV = (x, y1, y2) => { let s = W(x, y1, x, y2, C.ink, 5); for (let y = 
   g += W(X(-16), ay, X(15), ay, C.ink, 2);
   g += `<path d="M${lx},${Y(4.2)} Q${lx + 22},${ay} ${lx},${Y(-3.2)} Q${lx - 22},${ay} ${lx},${Y(4.2)} Z" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="3"/>`;
   [[-5, 'F'], [5, 'F'], [-10, '2F'], [10, '2F']].forEach(([c, l]) => { g += dot(X(c), ay, 5) + t(X(c), ay + 26, l, { size: 16, weight: 700, anchor: 'middle' }); });
-  g += arrow(X(-15), ay, X(-15), Y(2) + 4, { w: 4, color: C.tealDark, marker: 'ahT' }) + t(X(-15), Y(2) - 12, 'object 2.0 cm', { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark });
+  g += arrow(X(-15), ay, X(-15), Y(2) + 4, { w: 4, color: C.tealDark, marker: 'ahT' }) + t(X(-15) - 8, Y(2) - 14, 'object 2.0 cm', { size: 16, weight: 700, fill: C.tealDark });
   g += ray(X(-15), Y(2), X(-6), Y(2)) + seg(X(-6), Y(2), lx, Y(2)) + ray(lx, Y(2), X(10), Y(2) + (10 * sc) * 0.4) + seg(X(10), Y(2) + 4 * sc, X(13), Y(2) + 0.4 * 13 * sc);
   g += ray(X(-15), Y(2), X(-5), Y(2) + (10 / 15) * 2 * sc) + seg(X(-5), Y(2) + (20 / 15) * sc, X(13), Y(2) + (28 / 15) * 2 * sc);
-  g += arrow(X(7.5), ay, X(7.5), Y(-1) - 4, { w: 4, color: C.rust, marker: 'ahR' }) + t(X(7.5) + 10, Y(-1) + 30, 'image 1.0 cm, at 7.5 cm', { size: 16, weight: 700, fill: C.rust, anchor: 'middle' });
+  g += arrow(X(7.5), ay, X(7.5), Y(-1) - 4, { w: 4, color: C.rust, marker: 'ahR' }) + t(X(7.5) + 8, ay - 16, 'image 1.0 cm tall,', { size: 16, weight: 700, fill: C.rust }) + t(X(7.5) + 8, ay - 38, '7.5 cm from the lens', { size: 16, weight: 700, fill: C.rust });
   g += t(X(-15) + 0, ay + 52, '← 15 cm from the lens', { size: 15, fill: C.muted });
   add('04-lens-real-image',
     svg(900, 600, 'Converging lens: object beyond 2F',

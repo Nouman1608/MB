@@ -238,7 +238,7 @@ const money = (n, cur = '$') => (n < 0 ? '-' : '') + cur + Math.abs(n).toLocaleS
   opt.forEach(([h, rw, rk, f, e], i) => {
     const y = 280 + i * 120;
     b += rect(30, y, 840, 106, f, e) + para(50, y + 44, h, 200, { size: 18, weight: 700 }) + para(270, y + 40, rw, 250, { size: 16 }) + para(560, y + 40, rk, 290, { size: 16 });
-    if (i === 1) b += rect(50, y + 74, 120, 26, C.tealDark, C.tealDark, 13) + tx(110, y + 93, 'recommended', { size: 15, weight: 700, anchor: 'middle', fill: '#ffffff' });
+    if (i === 1) b += rect(730, y + 64, 120, 26, C.tealDark, C.tealDark, 13) + tx(790, y + 83, 'recommended', { size: 15, weight: 700, anchor: 'middle', fill: '#ffffff' });
   });
   b += takeaway(650, 'Recommend one option and justify it from the case.', 'Pennant should compete on quality and service, because it cannot win on price against a business with much larger scale.');
   add('08-pennant-cycles-options',
