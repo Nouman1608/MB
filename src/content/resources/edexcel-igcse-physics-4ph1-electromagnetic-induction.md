@@ -163,7 +163,7 @@ Vp / Vs = Np / Ns
 Ns = 2000 × 11.5 / 230 = 100 turns
 ```
 
-**Example 2 (power and current).** The same transformer, assumed 100%
+**Example 2 (power and current).** A transformer, assumed 100%
 efficient, supplies 2.0 A to a device at 12 V from a 230 V primary.
 Calculate the primary current.
 

@@ -535,7 +535,7 @@ F('03-turning-points', 'Five turning points, 1861-65', 'Drawn to scale', [
   (y) => table(y, [{ w: 0.8, head: 'Turning point' }, { w: 2, head: 'Why it mattered' }], [
     ['Bull Run', 'Ended Northern hopes of a short war'],
     ['Antietam', 'Gave Lincoln the victory he needed to announce emancipation'],
-    ['Gettysburg, Vicksburg', 'Lee never again invaded the North; the Mississippi split the Confederacy'],
+    ['Gettysburg, Vicksburg', 'Lee never again invaded the North; Union control of the Mississippi split the Confederacy'],
     ['Atlanta', 'Northern morale; Lincoln re-elected in November 1864'],
     ['Appomattox', 'Lee surrenders: the effective end of the war'],
   ], { size: 16, hsize: 17 }),
