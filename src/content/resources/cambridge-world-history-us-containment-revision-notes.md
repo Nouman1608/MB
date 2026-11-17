@@ -22,6 +22,7 @@ reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
+updatedDate: 2026-11-17
 featured: false
 reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words. 2026-11-08 recheck: added a short comparison section; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 ---
@@ -50,7 +51,8 @@ is in the
 |---|---|
 | 25 June 1950 | North Korea invades the South |
 | June 1950 | UN Security Council (USSR absent) backs military help for South Korea |
-| September 1950 | Inchon landings; UN forces push north past the 38th parallel |
+| September 1950 | Inchon landings; North Korean forces pushed back to the 38th parallel |
+| October 1950 | UN forces cross the 38th parallel towards the Yalu |
 | Oct–Nov 1950 | China enters the war; UN forces driven back |
 | April 1951 | Truman dismisses MacArthur |
 | 27 July 1953 | Armistice at Panmunjom; border near the 38th parallel |
