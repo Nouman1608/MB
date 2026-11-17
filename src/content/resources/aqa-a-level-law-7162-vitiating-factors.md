@@ -69,6 +69,16 @@ reason (**JEB Fasteners v Marks Bloom, 1983**, where it must have played a real 
 - But a claimant who **could** have discovered the truth and did not is still induced: **Redgrave v Hurd
   (1881)**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--01-misrep-elements.webp" width="900" height="821" alt="Four elements of misrepresentation: a statement (silence only in exceptions); untrue and of fact rather than opinion, intention or law; made before or at the time of contracting; and inducing the contract, playing a real part (JEB Fasteners). Attwood v Small shows no inducement where the buyers relied on their own report; Redgrave v Hurd shows a claimant who could have checked is still induced. The result is a voidable contract." loading="lazy">
+  <figcaption>Statement, fact, timing, inducement: check each before naming the type.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--02-fact-or-not.webp" width="900" height="578" alt="Silence becomes a statement in three cases: half-truths (Dimmock v Hallett), change of circumstances (With v O’Flanagan) and contracts of utmost good faith; otherwise the buyer must ask. An honest opinion is not fact (Bisset v Wilkinson), but an opinion from superior knowledge can imply facts (Smith v Land and House), and a stated intention not actually held misstates a fact (Edgington v Fitzmaurice)." loading="lazy">
+  <figcaption>Half-truths, stale statements and false intentions all count as statements of fact.</figcaption>
+</figure>
+
 ## The three types and their damages
 
 | Type | Test | Damages | Measure |
@@ -83,6 +93,11 @@ correct figure was in documents the company held, so it could not prove reasonab
 liable. The claimant does not have to prove fraud, which is hard (Derry v Peek), or a duty of care.
 A claim for negligent misstatement at common law under **Hedley Byrne v Heller (1964)** is possible but
 usually less attractive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--03-three-types.webp" width="900" height="659" alt="Three types. Fraudulent: made knowingly, without belief or recklessly (Derry v Peek), giving deceit damages for all direct losses (Doyle v Olby). Negligent under s2(1) Misrepresentation Act 1967: no reasonable grounds for belief, with damages assessed as if fraudulent (Royscot). Innocent: reasonable grounds, with no damages as of right but possible damages in lieu of rescission under s2(2). Under s2(1) the maker must prove reasonable grounds (Howard Marine v Ogden)." loading="lazy">
+  <figcaption>Under s2(1) the defendant must disprove negligence, and damages follow the fraud measure.</figcaption>
+</figure>
 
 ## Remedies for misrepresentation
 
@@ -106,6 +121,11 @@ in four situations:
 Damages follow the table above. Under s2(2) the court may refuse rescission and award damages instead
 for any non-fraudulent misrepresentation, where that is more equitable, for example where the
 misrepresentation was minor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--04-rescission-bars.webp" width="900" height="671" alt="Rescission sets the contract aside and restores the original positions. It is barred by affirmation (Long v Lloyd), lapse of time (Leaf v International Galleries), third-party rights (avoided by acting quickly, as in Car and Universal Finance v Caldwell) and where restitution is impossible. Under s2(2) the court may award damages instead for a non-fraudulent misrepresentation." loading="lazy">
+  <figcaption>Act quickly and do not affirm, or the right to rescind is lost.</figcaption>
+</figure>
 
 ## Economic duress
 
@@ -151,6 +171,16 @@ duress**. In **Williams v Roffey Bros (1991)** a promise to pay more for existin
 because of a practical benefit, provided there was no duress. Duress is the safeguard that stops the
 practical benefit rule being used to enforce extorted promises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--05-duress-elements.webp" width="900" height="548" alt="Three elements of economic duress from DSND Subsea: pressure amounting to compulsion or no practical choice, which is illegitimate, and which significantly caused the contract. Pao On v Lau Yiu Long asks whether the victim protested, had an alternative, took advice and tried to avoid the contract. The contract is voidable and the remedy is rescission. Duress is the safeguard on Williams v Roffey’s practical benefit rule." loading="lazy">
+  <figcaption>Illegitimate pressure that leaves no practical choice makes a contract voidable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--06-duress-cases.webp" width="900" height="525" alt="Four outcomes. Atlas Express v Kafco and B and S Contracts v Victor Green: threats leaving no time for alternatives were duress. The Atlantic Baron: duress, but the buyers affirmed by waiting eight months. Pakistan International Airline v Times Travel: a lawful act is duress only in very narrow circumstances." loading="lazy">
+  <figcaption>Duress needs illegitimate pressure, and delay can still lose the remedy.</figcaption>
+</figure>
+
 ## Worked example
 
 *Facts: Theo buys a café from Mel. Mel says it "makes about £1,000 profit a week", which was true a year
@@ -170,6 +200,11 @@ Remedies:       Rescission – acted within three weeks, so no lapse of time;
                 he should not affirm by continuing to trade. Damages in
                 deceit or under s2(1) on the fraud measure (Royscot).
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--07-worked-example-theo.webp" width="900" height="583" alt="Theo’s case. The profit statement was true a year ago but not corrected (With v O’Flanagan) and is at least negligent under s2(1). The lease statement misstates Mel’s intention (Edgington v Fitzmaurice) and is fraudulent (Derry v Peek). Both induced the purchase. Theo can rescind, having acted within three weeks, provided he does not affirm, and claim damages on the fraud measure (Royscot)." loading="lazy">
+  <figcaption>Classify each statement separately, then check the bars to rescission.</figcaption>
+</figure>
 
 ## Common mistakes
 

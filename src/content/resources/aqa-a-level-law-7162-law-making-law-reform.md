@@ -31,6 +31,11 @@ The **Law Commission** was created by the **Law Commissions Act 1965** as an ind
 
 Its duty under section 3 of the 1965 Act is to review the law "with a view to its systematic development and reform", including codification, the elimination of anomalies, the repeal of obsolete and unnecessary enactments, the reduction of the number of separate enactments and, generally, the simplification and modernisation of the law.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-law-reform--01-law-commission-membership.webp" width="900" height="609" alt="The Law Commission has a chair who is a High Court or Court of Appeal judge, four other commissioners drawn from judges, practising lawyers and legal academics, and support from research lawyers and parliamentary draftsmen. Its section 3 duty covers codification, eliminating anomalies, repealing obsolete enactments, reducing separate enactments, simplification and modernisation." loading="lazy">
+  <figcaption>A judge-led body of five commissioners with a duty to keep the whole law under review.</figcaption>
+</figure>
+
 ## How a project works
 
 1. **Choosing the work.** Projects come from the Commission's **programmes of law reform**, which it draws up after public consultation and the Lord Chancellor approves, or from **references** by government departments asking it to look at a particular area.
@@ -45,6 +50,11 @@ Two later developments aim to improve implementation:
 - The **Law Commission Act 2009** requires the Lord Chancellor to report to Parliament each year on the government's progress in implementing Law Commission proposals.
 
 The House of Lords also has a **special procedure** for uncontroversial Law Commission Bills, sending them to a committee that can take evidence, which saves time on the floor of the House.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-law-reform--02-law-commission-project.webp" width="900" height="797" alt="Five steps of a Law Commission project: choosing the work through programmes or references, research and scoping, a consultation paper, a final report usually with a draft Bill, and the government response and implementation. Three later changes target implementation: the Law Commission Act 2009 annual report, the 2010 protocol and a House of Lords special procedure." loading="lazy">
+  <figcaption>The Commission researches, consults and drafts; implementation rests with government and Parliament.</figcaption>
+</figure>
 
 ## The four functions with examples
 
@@ -74,6 +84,21 @@ Combining several Acts on one subject into a single Act **without changing the l
 
 Removing obsolete and unnecessary laws. The Commission prepares **Statute Law (Repeals) Bills**, which have removed thousands of spent provisions, such as Acts dealing with long-closed railways or abolished institutions. This makes the statute book shorter and clearer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-law-reform--03-four-functions.webp" width="900" height="406" alt="Four functions in a grid. Reform changes the law to improve it, as in the Fraud Act 2006. Codification gathers statute and case law on a topic into one code; the draft Criminal Code of 1989 was never enacted. Consolidation combines several Acts into one without changing substance, as in the Sentencing Act 2020. Repeal removes obsolete laws through Statute Law (Repeals) Bills." loading="lazy">
+  <figcaption>Reform changes the law; codification, consolidation and repeal reorganise and tidy it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-law-reform--04-reform-acts.webp" width="900" height="798" alt="A timeline of Acts based on Law Commission work: Computer Misuse Act 1990, Law Reform (Year and a Day Rule) Act 1996, Contracts (Rights of Third Parties) Act 1999, Fraud Act 2006, Coroners and Justice Act 2009 (partly implementing the 2006 homicide report), Electronic Trade Documents Act 2023 and Automated Vehicles Act 2024." loading="lazy">
+  <figcaption>Commission reports lie behind Acts across criminal, contract and commercial law.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-law-reform--05-codification-consolidation.webp" width="900" height="640" alt="Codification combines Acts and case law on a topic into one code; consolidation combines several Acts into one Act without changing their substance. Codification has largely been abandoned: the 1989 draft Criminal Code and the Offences Against the Person reports were not implemented. Consolidation continues, as with the Sentencing Act 2020, using a fast-track procedure." loading="lazy">
+  <figcaption>Codification takes in case law and changes the shape of the law; consolidation only gathers statutes.</figcaption>
+</figure>
+
 ## Advantages of reform through the Law Commission
 
 - **Independence.** It is not controlled by any political party, so it can recommend reform on its legal merits.
@@ -93,6 +118,11 @@ Removing obsolete and unnecessary laws. The Commission prepares **Statute Law (R
 - **Selection of work** depends on government support under the 2010 protocol, so the Commission may be steered away from areas the government does not wish to touch.
 
 **Balancing point:** the improvements since 2009 (annual implementation reports, the protocol and the Lords procedure) have increased the rate at which reports become law, so the main disadvantage is reduced but not removed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-law-reform--06-evaluation-balance.webp" width="900" height="558" alt="Two columns. Advantages: independence, expertise, wide consultation, draft Bills, whole-area review, technical areas and a clearer statute book. Disadvantages: no power to implement, delay and partial implementation, political reluctance, failed codification, and selection of work depending on government support. The balancing point notes that reforms since 2009 have reduced but not removed the implementation problem." loading="lazy">
+  <figcaption>Quality of work is high; the weak link is getting reports enacted.</figcaption>
+</figure>
 
 ## Worked example: annotated answer
 

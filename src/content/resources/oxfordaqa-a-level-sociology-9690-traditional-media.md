@@ -34,11 +34,21 @@ The [People and technology study guide](/resources/oxfordaqa-a-level-sociology-9
 - **Telegraph**: Samuel Morse's line between Washington and Baltimore (1844) and a lasting transatlantic cable (1866) carried messages almost instantly. James Carey ("Technology and Ideology: The Case of the Telegraph", 1989) argued it separated communication from transport, which made national markets, standard time and wire-service news possible.
 - **Telephone**: patented by Alexander Graham Bell in 1876. Claude Fischer (*America Calling*, 1992) found that telephone companies first marketed it for business, but users, especially women, made it a tool for sociability; this supports a social constructionist reading of technology.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-traditional-media--01-communication.webp" width="900" height="609" alt="A timeline of the 1840 penny post, the telegraph of 1844 and 1866 with Carey’s argument that it separated communication from transport, and the 1876 telephone, which Fischer found users turned into a tool for sociability." loading="lazy">
+  <figcaption>Each medium changed society, but users also changed each medium.</figcaption>
+</figure>
+
 ## Newspapers, broadcasting and film
 
 - **Newspapers**: Benedict Anderson (*Imagined Communities*, 1983) argued that "print capitalism" let readers who would never meet imagine themselves as one nation, reading the same news on the same day. Jürgen Habermas (*The Structural Transformation of the Public Sphere*, 1962) traced a **public sphere** of debate in eighteenth-century coffee houses and newspapers, which he argued was later weakened by commercial mass media.
 - **Broadcasting**: radio and then television brought live events into homes. John Reith, first director-general of the BBC, defined its purpose as to "inform, educate and entertain", the model of **public service broadcasting**. Commercial broadcasting, funded by advertising, grew alongside it and dominates in many countries.
 - **Film/cinema**: the Hollywood studio system controlled production, distribution and cinemas; India's Hindi film industry and Nigeria's video-film industry ("Nollywood", which grew from the early 1990s) show that mass cinema is not only Western.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-traditional-media--02-print-broadcast.webp" width="900" height="655" alt="Anderson’s imagined communities, Habermas’s public sphere, Reith’s public service broadcasting and non-Western film industries, with three views of popular culture: Frankfurt School, Gramsci and active audiences." loading="lazy">
+  <figcaption>Mass media built nations and publics, and are contested sites of culture.</figcaption>
+</figure>
 
 ## Growth of popular and mass culture
 
@@ -56,6 +66,11 @@ The **mass culture** critique (the Frankfurt School, in the unit guide) sees sta
 
 **Evaluation.** Marxists say news values and gatekeeping reflect owners' and advertisers' interests; pluralists say they reflect professional judgements and audience demand. Neo-Marxists, such as the Glasgow University Media Group, argue that journalists' shared middle-class assumptions produce bias without any instruction from owners.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-traditional-media--03-news-selection.webp" width="900" height="719" alt="Events pass through gatekeeping and news values to become the news, which sets the agenda of what people think about. Cards cite White’s Mr Gates, Galtung and Ruge’s news values and McCombs and Shaw’s agenda-setting." loading="lazy">
+  <figcaption>News is selected, not simply reported.</figcaption>
+</figure>
+
 ## Ownership, control and concentration
 
 - **Horizontal integration**: one company owning several outlets of the same type (many newspapers).
@@ -64,6 +79,11 @@ The **mass culture** critique (the Frankfurt School, in the unit guide) sees sta
 - Ben Bagdikian (*The Media Monopoly*, 1983) documented how a shrinking number of corporations came to own most US media.
 
 The key distinction for evaluation is between **allocative control** (owners decide budgets, editors and direction) and **operational control** (editors and journalists decide daily content). Marxists stress allocative power; pluralists stress operational independence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-traditional-media--04-ownership.webp" width="900" height="491" alt="Horizontal, vertical and cross-media ownership, Bagdikian on concentration, and the distinction between owners’ allocative control, stressed by Marxists, and journalists’ operational control, stressed by pluralists." loading="lazy">
+  <figcaption>Who sets budgets and who writes the news are different kinds of control.</figcaption>
+</figure>
 
 ## Misinformation, disinformation and propaganda
 
@@ -80,12 +100,22 @@ Historical cases show how traditional media served state propaganda. Nazi German
 
 Evaluate representation claims by asking whether patterns are changing (more diverse casting), whether audiences accept or reject them (see audience models below), and whether content analysis captures meaning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-traditional-media--05-representations.webp" width="900" height="701" alt="A grid of media representations of social class, gender, ethnicity and age, each with a pattern and a thinker such as Owen Jones, Tuchman, Mulvey, Hall, van Dijk and Cohen, plus three evaluation questions." loading="lazy">
+  <figcaption>Representations follow patterns, but audiences may reject them.</figcaption>
+</figure>
+
 ## Media and audiences: testing the models
 
 - **Hypodermic syringe**: Albert Bandura's "Bobo doll" experiments (1961 onwards) found that children who watched an adult hitting an inflatable doll were more likely to copy the behaviour. Critics note the artificial laboratory setting and that a doll designed to be hit is not a person.
 - **Two step flow**: Katz and Lazarsfeld's opinion leaders (in the unit guide). Later "multi-step flow" models recognise many layers of influence.
 - **Cultural effects**: George Gerbner's **cultivation theory** found that heavy television viewers in the US were more likely to overestimate crime and see the world as dangerous, which he called the "mean world syndrome". Hall's **encoding/decoding** model (1973) argued that audiences can take a dominant, negotiated or oppositional reading of the same message; David Morley's study of audiences for the BBC programme *Nationwide* (1980) found readings varied by class and occupation.
 - **Uses and gratifications**: Jay Blumler and Elihu Katz (1974) developed the idea that people choose media to meet needs; the unit guide lists McQuail, Blumler and Brown's four needs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-traditional-media--06-audience-tests.webp" width="900" height="565" alt="Four audience models from passive to active, each with research that tests it: Bandura’s Bobo doll, opinion leaders, Gerbner’s cultivation and Hall’s encoding/decoding, and uses and gratifications. Morley’s Nationwide study shows readings vary by class." loading="lazy">
+  <figcaption>Research evidence pushes the models towards an active audience.</figcaption>
+</figure>
 
 ## Annotated model answer
 

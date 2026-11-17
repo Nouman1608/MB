@@ -34,6 +34,11 @@ This guide covers **The legal system: the civil courts and other forms of disput
   - **Family Division:** complex family cases.
 - **Where to start:** a claim for money should not normally be started in the High Court unless it is worth more than £100,000, or more than £50,000 for a personal injury claim. Below those values, claims start in the County Court.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution--01-first-instance-courts.webp" width="900" height="545" alt="The County Court, one national court at many hearing centres, hears most civil claims before district and circuit judges. The High Court has three divisions: King’s Bench (higher-value contract and tort, Commercial Court), Chancery (business, property, trusts, insolvency, probate) and Family. A money claim normally starts in the High Court only if worth more than £100,000, or £50,000 for personal injury." loading="lazy">
+  <figcaption>Most claims start in the County Court; only high-value claims start in the High Court.</figcaption>
+</figure>
+
 ## A claim from start to finish
 
 1. **Pre-action conduct.** Before issuing, the parties are expected to follow the relevant **pre-action protocol** or general practice direction: exchange information, try to settle and consider alternatives to court. Ignoring this can lead to costs penalties.
@@ -45,6 +50,11 @@ This guide covers **The legal system: the civil courts and other forms of disput
 
 These procedures come from the **Civil Procedure Rules 1998**, introduced after Lord Woolf's report *Access to Justice* (1996). The rules' **overriding objective** is to deal with cases justly and at proportionate cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution--02-claim-start-to-finish.webp" width="900" height="788" alt="Six numbered stages of a civil claim: pre-action conduct under a protocol, issuing a claim form, the defendant’s response, allocation to a track, case management and trial, and enforcement. The Civil Procedure Rules 1998 aim to deal with cases justly and at proportionate cost." loading="lazy">
+  <figcaption>Settlement is expected before issue; a defended claim is then allocated to a track.</figcaption>
+</figure>
+
 ## The track system
 
 | Track | Normal value | Features |
@@ -55,6 +65,11 @@ These procedures come from the **Civil Procedure Rules 1998**, introduced after 
 | **Multi-track** | Over £100,000, or complex cases | Active case management by the judge; County Court or High Court |
 
 **Value is not the only factor.** The judge also considers the complexity of the facts and law, the number of parties, the amount of oral evidence, the importance of the claim to people who are not parties, and the parties' views. A complex £20,000 claim may go to a higher track.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution--03-track-system.webp" width="900" height="691" alt="Four tracks along a value scale: small claims up to £10,000 (informal, costs generally not recoverable), fast track £10,000 to £25,000 (one-day trial), intermediate track £25,000 to £100,000 from October 2023 (up to three days) and multi-track over £100,000 or complex. Small claims limits are lower for personal injury, road traffic injury and housing disrepair. Complexity, parties, oral evidence, wider importance and the parties’ views also matter." loading="lazy">
+  <figcaption>Value sets the normal track, but complexity can push a claim higher.</figcaption>
+</figure>
 
 ## The appeal system
 
@@ -69,6 +84,11 @@ Court of Appeal                 ->  Supreme Court (point of law of general publi
 
 - **Second appeals:** where a case has already had one appeal, the Court of Appeal will hear a further appeal only if it raises an **important point of principle or practice** or there is **some other compelling reason**.
 - **Leapfrog appeals:** in limited cases an appeal on a point of law of general public importance can go directly from the High Court to the Supreme Court, skipping the Court of Appeal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution--04-appeal-routes.webp" width="900" height="734" alt="An appeal ladder: district judge to circuit judge, circuit judge to High Court judge, High Court to Court of Appeal (Civil Division), Court of Appeal to Supreme Court on a point of law of general public importance. A leapfrog route goes from the High Court straight to the Supreme Court. Appeals need permission and succeed only if the decision was wrong or unjust through serious procedural irregularity; second appeals need an important point of principle or practice or another compelling reason." loading="lazy">
+  <figcaption>Each appeal goes one level up, with permission, and is not a rehearing.</figcaption>
+</figure>
 
 ## Tribunals
 
@@ -99,6 +119,11 @@ The **Franks Report (1957)** said tribunals should be marked by openness, fairne
 | Specialist expertise of judges and members | Less formal procedure can still intimidate users |
 | Informal and accessible | Limited precedent at first-tier level |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution--05-tribunal-structure.webp" width="900" height="733" alt="The First-tier Tribunal hears cases at first instance in chambers such as Social Entitlement, Immigration and Asylum, Tax and Property. Appeals on points of law go to the Upper Tribunal (Administrative Appeals, Immigration and Asylum, Tax and Chancery, Lands), then with permission to the Court of Appeal. Employment Tribunals and the Employment Appeal Tribunal sit outside the two tiers, with ACAS early conciliation first." loading="lazy">
+  <figcaption>Two tiers of chambers, then the Court of Appeal; employment sits alongside.</figcaption>
+</figure>
+
 ## Mediation
 
 A **neutral mediator** helps the parties communicate and reach their **own agreement**; the mediator does not impose a decision. Agreements are not binding unless the parties put them into an enforceable contract or court order.
@@ -108,12 +133,22 @@ A **neutral mediator** helps the parties communicate and reach their **own agree
 - **Uses:** small money claims through the court's mediation service; neighbour and business disputes; family disputes, where an applicant must usually attend a mediation information and assessment meeting before applying to court about children or finances.
 - **Strengths:** cheap, quick, private, flexible outcomes, preserves relationships. **Weaknesses:** no guarantee of settlement; a weaker party may be pressured; no precedent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution--06-mediation-cases.webp" width="900" height="621" alt="A timeline of court attitudes to mediation: Dunnett v Railtrack (2002), a winner denied costs for refusing to consider mediation; Halsey (2004), courts cannot compel mediation but can penalise unreasonable refusal; Churchill v Merthyr Tydfil (2023), courts can order non-court dispute resolution if fair and proportionate. Below: uses, strengths and weaknesses of mediation." loading="lazy">
+  <figcaption>Courts moved from encouraging mediation to being able to order it.</figcaption>
+</figure>
+
 ## Negotiation
 
 The parties, or their lawyers, discuss the dispute directly and agree a settlement. It is the most common way disputes end: most civil claims settle before trial. **Part 36 offers** under the Civil Procedure Rules encourage this: if a party rejects an offer and then fails to do better at trial, it faces costs consequences.
 
 - **Strengths:** private, cheapest, the parties keep full control, can happen at any time.
 - **Weaknesses:** unequal bargaining power; no neutral helper; may stall if the parties are hostile.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution--07-who-decides.webp" width="900" height="580" alt="Three methods on a scale of control. In negotiation the parties or their lawyers agree a settlement themselves; in mediation a neutral mediator helps them reach their own agreement, binding only if made a contract or court order; a tribunal or court imposes a binding decision. Part 36 offers encourage negotiated settlement by penalising a party who rejects an offer and does no better at trial." loading="lazy">
+  <figcaption>The more neutral help is added, the less control the parties keep.</figcaption>
+</figure>
 
 ## Worked example: advising on a forum
 
@@ -130,6 +165,11 @@ If still no agreement: small claims hearing before a district judge;
    informal; Kim can represent herself; costs generally not recoverable.
 Appeal: only with permission, to a circuit judge, if the decision was wrong.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution--08-worked-example-kim.webp" width="900" height="677" alt="Kim’s route in six steps: negotiate with a letter before claim; follow pre-action conduct; issue in the County Court on the small claims track as the claim is under £10,000; the court’s free mediation service; a small claims hearing before a district judge; and an appeal only with permission to a circuit judge." loading="lazy">
+  <figcaption>Negotiate, mediate, then the small claims track: the right forum for £6,500.</figcaption>
+</figure>
 
 ## Common mistakes
 

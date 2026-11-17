@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--01-compressions-rarefactions.webp",
+  "width": 900,
+  "height": 600,
+  "after": "## How sound is produced and travels",
+  "alt": "A vibrating loudspeaker cone sends a series of compressions (particles close together, higher pressure) and rarefactions (particles spread out, lower pressure) through the air. The particles vibrate back and forth along the direction of travel. The wavelength is from the centre of one compression to the centre of the next.",
+  "caption": "Compressions and rarefactions travel; the particles only vibrate in place.",
+  "bytes": 52286
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--02-bell-in-a-vacuum.webp",
+  "width": 900,
+  "height": 620,
+  "after": "## How sound is produced and travels",
+  "alt": "An electric bell rings inside a sealed glass jar. With air in the jar it is heard; as a vacuum pump removes the air the sound fades until it can hardly be heard, although the hammer can still be seen striking the bell.",
+  "caption": "Sound is passed on by particles, so it cannot cross a vacuum.",
+  "bytes": 47330
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--03-audible-range.webp",
+  "width": 900,
+  "height": 532,
+  "after": "## The audible range and ultrasound",
+  "alt": "A frequency scale: humans hear from about 20 Hz to 20 000 Hz, and sound above 20 kHz is ultrasound. With a speed of 340 m/s, a 20 Hz sound has a wavelength of 17 m and a 20 000 Hz sound 0.017 m.",
+  "caption": "Humans hear 20 Hz to 20 kHz; ultrasound is above 20 kHz.",
+  "bytes": 56452
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--04-loudness-and-pitch.webp",
+  "width": 900,
+  "height": 600,
+  "after": "## Loudness and pitch",
+  "alt": "Four traces on the same scales. Compared with the original, a louder sound has taller peaks with the same spacing; a higher-pitched sound has more waves across the same width with the same height; a louder, higher sound has both.",
+  "caption": "Amplitude sets loudness; frequency sets pitch.",
+  "bytes": 91196
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--05-echo-speed-of-sound.webp",
+  "width": 900,
+  "height": 676,
+  "after": "## Measuring the speed of sound in air",
+  "alt": "A student 85 m from a wall claps; the sound travels 85 m to the wall and 85 m back. Timing 20 intervals between claps that coincide with echoes gives 10.2 s, so each interval is 0.51 s and the speed is 170 / 0.51 = 333 m/s.",
+  "caption": "An echo travels there and back: double the distance.",
+  "bytes": 79656
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--06-ultrasound-flaw.webp",
+  "width": 900,
+  "height": 792,
+  "after": "## Uses of ultrasound (Extended only)",
+  "alt": "An ultrasound probe on one end of a 0.30 m steel section receives an echo from the far end after 1.0 × 10⁻⁴ s and a smaller, earlier echo after 4.0 × 10⁻⁵ s. The speed is 2 × 0.30 / 1.0 × 10⁻⁴ = 6000 m/s, so the flaw is 6000 × 4.0 × 10⁻⁵ / 2 = 0.12 m from the end.",
+  "caption": "distance = speed × time ÷ 2; an earlier, extra echo means a flaw.",
+  "bytes": 60940
+ }
+]

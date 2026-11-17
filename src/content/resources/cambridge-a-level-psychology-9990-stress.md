@@ -48,6 +48,16 @@ The [Health Psychology study guide](/resources/a-level-psychology-health-psychol
 
 **Effects on health.** Long-term stress is linked to cardiovascular disease, through raised blood pressure and heart rate, and to lowered immunity, making infections more likely. The GAS was based largely on animal research, so generalising to humans needs care, and it gives little role to how a person *appraises* a stressor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-stress--01-two-stress-pathways.webp" width="900" height="572" alt="From the hypothalamus, the fast sympathomedullary pathway stimulates the adrenal medulla to release adrenaline and noradrenaline, raising heart rate, blood pressure and breathing (fight or flight). The slower HPA axis has the pituitary release ACTH so the adrenal cortex releases cortisol, which releases glucose but in the long term suppresses the immune system." loading="lazy">
+  <figcaption>Adrenaline acts fast; cortisol acts slower and, over time, weakens immunity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--19-he-general-adaptation-syndrome.webp" width="900" height="900" alt="A schematic curve of resistance to stress against time with a dashed normal level, in three stages: alarm (initial dip, fight-or-flight), resistance (above normal while the body copes) and exhaustion (resources run out, falls below normal, illness risk up)." loading="lazy">
+  <figcaption>Selye's three stages of the general adaptation syndrome.</figcaption>
+</figure>
+
 ## Causes of stress
 
 **Life events.** Holmes and Rahe developed the Social Readjustment Rating Scale (SRRS), listing 43 life events, each with a value in life change units (LCUs) reflecting how much readjustment it demands. Death of a spouse scores 100; marriage, 50. Scores are summed over the past year, and higher totals are associated with a greater risk of illness. Note that positive events, such as marriage or a holiday, also count, because the scale measures change, not unpleasantness.
@@ -55,6 +65,11 @@ The [Health Psychology study guide](/resources/a-level-psychology-health-psychol
 **Work.** Chandola et al. (2008) analysed data from the Whitehall II study of British civil servants and found that work stress was associated with coronary heart disease. The link was stronger in younger workers and appeared to operate partly through health behaviours and partly through biological changes. The large longitudinal sample is a strength, but civil servants are one occupational group, so findings may not generalise to manual or self-employed workers.
 
 **Type A personality.** Friedman and Rosenman, two cardiologists, described **Type A** behaviour: competitiveness, time urgency (always in a hurry, impatient) and hostility. **Type B** people are more relaxed. In their Western Collaborative Group Study of men in California, Type A men were about twice as likely as Type B men to develop coronary heart disease over the follow-up period. Later research suggests hostility is the most harmful component.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-stress--02-causes-of-stress.webp" width="900" height="749" alt="The SRRS lists 43 life events scored in life change units, from marriage at 50 to death of a spouse at 100; units are summed over a year and higher totals predict more illness, and positive events count because the scale measures change. Chandola et al. linked work stress to coronary heart disease in civil servants; Type A men were about twice as likely as Type B men to develop it." loading="lazy">
+  <figcaption>Life change, work stress and Type A behaviour all raise the risk of illness.</figcaption>
+</figure>
 
 ## 3.4.2 Measuring stress
 
@@ -70,6 +85,11 @@ The [Health Psychology study guide](/resources/a-level-psychology-health-psychol
 **Evans and Wener (2007)** studied train commuters and found that those seated with more people close around them had higher salivary cortisol. The density of people *near the seat* mattered more than how crowded the carriage was overall. This shows cortisol can detect stress in real-life settings.
 
 **Self-report of Type A.** Type A can be assessed by questionnaires that ask about impatience, competitiveness and hostility. Holmes and Rahe's SRRS is the life events questionnaire. Both are psychometric measures; a key evaluation is whether they are reliable (consistent on retesting) and valid (measuring stress, not, say, general unhappiness).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-stress--03-measuring-in-studies.webp" width="900" height="886" alt="Wang et al. (2005) found that stressful mental arithmetic increased blood flow in the right prefrontal cortex on fMRI, which related to self-reported stress and salivary cortisol. Evans and Wener (2007) found commuters with more people close around their seat had higher salivary cortisol; density near the seat mattered more than overall crowding." loading="lazy">
+  <figcaption>Biological and self-report measures agreeing strengthens validity.</figcaption>
+</figure>
 
 ## 3.4.3 Managing stress
 
@@ -94,11 +114,31 @@ The [Health Psychology study guide](/resources/a-level-psychology-health-psychol
 2. **Skill acquisition and rehearsal**: the client learns coping skills, such as relaxation, positive self-talk and problem-solving, and practises them.
 3. **Application and follow-through**: the client uses the skills in increasingly stressful real situations, with follow-up sessions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-stress--04-biofeedback.webp" width="900" height="684" alt="A loop: a device measures a body process such as muscle tension, shows it as a sound or visual signal, the person relaxes to change it, and the falling signal is rewarding so learning is reinforced; with practice the person can control the process without the device. Biofeedback has no side effects but needs equipment and treats symptoms rather than the source of stress." loading="lazy">
+  <figcaption>A falling signal rewards relaxation until the person can do it unaided.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-stress--05-bridge-study.webp" width="900" height="904" alt="Study card for Bridge et al. (1988): a six-week randomised controlled trial with 154 women having radiotherapy. Three conditions: control (talking about themselves, mood worsened), relaxation and relaxation plus imagery (both lower mood disturbance; combined group more relaxed). Women 55 and over benefited most; there was no difference on separate depression and anxiety scales." loading="lazy">
+  <figcaption>Relaxation and imagery lowered mood disturbance; the control group got worse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-stress--06-stress-inoculation.webp" width="900" height="522" alt="Three phases of stress inoculation training: conceptualisation (exploring stressors and how the client thinks about them), skill acquisition and rehearsal (relaxation, positive self-talk, problem-solving) and application and follow-through in increasingly stressful real situations." loading="lazy">
+  <figcaption>Understand the stress, learn the skills, then apply them for real.</figcaption>
+</figure>
+
 ## Annotated answer: a 4-mark comparison
 
 *Compare biofeedback and stress inoculation training as ways of managing stress.* [4]
 
 "Both teach the person a skill they can use themselves without a therapist after training (1). Biofeedback targets the body's response, using a device to show muscle tension or heart rate so the person learns to reduce it (1), whereas SIT targets thinking, teaching coping self-talk and problem-solving through three phases (1). So SIT may deal with the source of stress, while biofeedback mainly reduces the physical symptoms (1)."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-stress--07-compare-answer.webp" width="900" height="486" alt="A similarity (both teach a skill used without a therapist), two differences (biofeedback targets the body's response with a device; SIT targets thinking in three phases) and a consequence (SIT may address the source of stress, biofeedback mainly the symptoms), one mark each." loading="lazy">
+  <figcaption>Similarity, two differences, then the consequence.</figcaption>
+</figure>
 
 ## Common mistakes
 

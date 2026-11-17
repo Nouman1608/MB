@@ -50,6 +50,16 @@ featured: false
 
 **Lesson for essays:** Moscow tolerated variation (Gomułka, Kádár's later "goulash communism") but not departure from the party's monopoly or the Pact.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-soviet-empire-eastern-europe--01-satellite-control.webp" width="900" height="595" alt="A hub of one-party states surrounded by six tools of control: the Warsaw Pact (1955), COMECON (1949), Moscow's approval of leaders, censorship, security police such as the Stasi, and pressure on churches with restrictions on emigration. A note states the rule: variation tolerated, departure from the party monopoly or the Pact not." loading="lazy">
+  <figcaption>Moscow allowed variation, but not an end to party rule or Pact membership.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-soviet-empire-eastern-europe--02-challenges-1953-68.webp" width="900" height="664" alt="Five paired rows: East Germany (June 1953) crushed by tanks; Poland (October 1956) accepted under Gomułka; Hungary (October-November 1956) invaded after Nagy announced leaving the Pact; Berlin (August 1961) sealed by the Wall; Czechoslovakia (August 1968) invaded, followed by the Brezhnev Doctrine." loading="lazy">
+  <figcaption>Poland kept party rule and the Pact and was spared; Hungary and Czechoslovakia were not.</figcaption>
+</figure>
+
 ## 7.2 Stagnation, 1964-85
 
 **Leadership.** Brezhnev (1964-82) promised "stability of cadres" after Khrushchev's reorganisations. The **nomenklatura** -- officials appointed from party-approved lists -- gained job security and privileges, and corruption spread, notably in Uzbekistan and the Caucasus. The leadership aged into a **gerontocracy**; Brezhnev's successors **Andropov** (1982-84), who began a discipline and anti-corruption campaign, and **Chernenko** (1984-85) were both ill and died within months of each other.
@@ -59,6 +69,11 @@ featured: false
 **Foreign relations.** Détente brought SALT I (1972) and the **Helsinki Accords (1975)**, whose human rights clauses dissidents used. The **invasion of Afghanistan (December 1979)** became a costly war that damaged morale and international standing, and helped start the **Second Cold War** with Reagan's rearmament.
 
 **The satellite states.** Many borrowed heavily from the West in the 1970s to fund consumption and investment; debt and price rises became political dangers. Challenges came from Western radio and television, dissident groups such as Czechoslovakia's **Charter 77** (1977), and the Church -- strengthened in Poland by the election of the Polish Pope **John Paul II** (1978) and his visit in 1979.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-soviet-empire-eastern-europe--03-stagnation.webp" width="900" height="542" alt="Three columns of causes. Political: Brezhnev's stability of cadres, nomenklatura corruption and an ageing leadership. Economic: diluted Kosygin reforms, a 10th Five Year Plan that missed targets, grain imports and oil earnings masking problems. External: defence spending, Afghanistan from 1979 and the Second Cold War. Below, debt and dissent in the satellites." loading="lazy">
+  <figcaption>An ageing leadership, a slowing economy and costly commitments fed each other.</figcaption>
+</figure>
 
 ## 7.3 Gorbachev's response
 
@@ -75,6 +90,11 @@ featured: false
 
 **Foreign relations.** Summits at **Geneva (1985)**, **Reykjavik (1986)** and **Washington (1987)**, where the INF Treaty was signed, ended the Second Cold War. Withdrawal from Afghanistan was completed in 1989.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-soviet-empire-eastern-europe--04-gorbachev-reforms.webp" width="900" height="611" alt="Three reforms with their effects. Perestroika (1987-88 laws) disrupted planning without creating a market. Glasnost, widened after Chernobyl, let criticism reach the party. Demokratizatsiya brought contested elections in 1989 and ended the party's monopoly in 1990. Below, summits at Geneva, Reykjavik and Washington and withdrawal from Afghanistan." loading="lazy">
+  <figcaption>Each reform weakened the system it was meant to save.</figcaption>
+</figure>
+
 ## 7.4 Collapse
 
 **Solidarity.** Debt, falling living standards and meat price rises (July 1980) led to strikes; at the **Gdańsk** shipyard in **August 1980** workers led by Lech **Wałęsa** issued **21 Demands**, including free trade unions and the right to strike. The government conceded, and Solidarity grew to around ten million members. Under Soviet pressure, General **Jaruzelski** imposed **martial law** in December 1981 and banned Solidarity, avoiding a Soviet invasion.
@@ -82,6 +102,11 @@ featured: false
 **Gorbachev's impact.** He told Eastern European leaders they would no longer be propped up by force -- the **Sinatra Doctrine** ("do it their way"), named in October 1989. **Solidarity was re-legalised** in April 1989 after round-table talks, and won the semi-free election of June 1989. Hungary opened its border with Austria in 1989; East Germans fled west, mass protests followed, and the **Berlin Wall fell on 9 November 1989**. The Velvet Revolution in Czechoslovakia and the violent fall of Ceaușescu in Romania followed in December. Within the USSR, riots in Kazakhstan (1986) and independence movements in the **Baltic states** -- Lithuania declared independence in March 1990 -- met a mix of concessions and force, including the killings in Vilnius in January 1991.
 
 **The end of the USSR.** Conservatives opposed Gorbachev's reforms and a new union treaty; reformers led by Boris Yeltsin wanted faster change. The **August 1991 coup** by hardliners collapsed within three days after Yeltsin led resistance in Moscow and troops refused to fire. It discredited the party and destroyed Gorbachev's authority. Republics declared independence; Russia, Ukraine and Belarus founded the Commonwealth of Independent States in December 1991, and Gorbachev resigned on 25 December 1991.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-soviet-empire-eastern-europe--05-collapse-timeline.webp" width="900" height="1120" alt="Two cards set the background: Solidarity in Poland (1980-81) and Gorbachev's first years (1985-86). A vertical timeline from January 1989 to January 1992 drawn to scale follows. Eastern Europe on the left: Solidarity's return and election win, Hungary's open border, the fall of the Berlin Wall (9 November 1989) and December's revolutions. The USSR on the right: the Sinatra Doctrine, Lithuania (March 1990), Vilnius (January 1991), the failed coup (August 1991) and the end of the USSR (December 1991)." loading="lazy">
+  <figcaption>The satellites fell within months in 1989; the USSR followed two years later.</figcaption>
+</figure>
 
 ## Worked example: setting up a judgement
 
@@ -91,6 +116,11 @@ featured: false
 2. **For:** debt and shortages created Solidarity (1980) and the protests of 1989; Soviet economic weakness made subsidies and military intervention unaffordable.
 3. **Against:** Gorbachev's decision not to use force (the Sinatra Doctrine) was a political choice; nationalism and the Church gave movements their identity; Western influence and Helsinki rights gave them a language.
 4. **Judgement:** economic failure created the pressure, but without Gorbachev's refusal to intervene, the 1953, 1956 and 1968 pattern of repression could have repeated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-soviet-empire-eastern-europe--06-economic-failure-judgement.webp" width="900" height="575" alt="A balance. Economic failure: debt and shortages behind Solidarity and the 1989 protests, and the cost of subsidies and intervention. Other causes: Gorbachev's choice not to use force, nationalism and the Church, and Western influence and Helsinki rights. The judgement: economics created the pressure, but Gorbachev's refusal to intervene was the difference from 1953, 1956 and 1968." loading="lazy">
+  <figcaption>Pressure had existed before; what changed in 1989 was Moscow's refusal to use force.</figcaption>
+</figure>
 
 ## Common mistakes
 

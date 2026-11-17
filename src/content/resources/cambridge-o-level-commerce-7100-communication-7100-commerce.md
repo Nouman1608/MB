@@ -46,6 +46,11 @@ The [outsourcing, wholesaling and communication overview](/resources/o-level-cam
 
 A **type** describes the *form* of the message; a **method** is the *way* it is sent. One method can belong to more than one type. An email is written *and* electronic. A videoconference is oral, visual *and* electronic. A poster is visual and usually written. Naming the right type for a method is a common one-mark question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-communication-7100-commerce--01-types-of-communication.webp" width="900" height="685" alt="Four cards give the meaning, main strength and main weakness of written, oral, electronic and visual communication. Below, one method can be several types: an email is written and electronic, a videoconference is oral, visual and electronic, and a poster is visual and usually written." loading="lazy">
+  <figcaption>A type is the form of a message; one method can belong to more than one type.</figcaption>
+</figure>
+
 ## The eight methods of communication
 
 | Method | Advantages | Disadvantages | Typical commercial use |
@@ -58,6 +63,11 @@ A **type** describes the *form* of the message; a **method** is the *way* it is 
 | Web-based chat (including chatbots) | Instant answers on a website; chatbots answer routine questions at any hour without staff | Chatbots struggle with complex or unusual problems; customers may find them frustrating | Customer service on retail sites |
 | Social media | Reaches very many people quickly and cheaply; two-way; can be shared | Complaints and mistakes are public; messages are short-lived; not secure | Promotions, product launches, answering public questions |
 | Posters | Visual; seen by everyone passing; cheap for local messages | One-way; limited detail; only reaches people at that place | Safety notices, in-store offers, staff notice boards |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-communication-7100-commerce--02-eight-methods.webp" width="900" height="720" alt="Eight cards, one per method, each with a main advantage, a main disadvantage and a typical commercial use: letters for contract terms, telephone for urgent queries, face to face for large contracts, videoconferencing for overseas suppliers, email for orders and invoices, web chat for customer service, social media for promotions and posters for safety notices." loading="lazy">
+  <figcaption>Each method has a typical commercial use that matches its strengths.</figcaption>
+</figure>
 
 ## The six factors and how to apply them
 
@@ -74,6 +84,16 @@ A **type** describes the *form* of the message; a **method** is the *way* it is 
 **Importance of the message.** Important matters often need a formal record or personal attention: a signed letter for contract terms, a face-to-face meeting to deal with a serious complaint or a staff matter.
 
 The factors often pull in different directions. An urgent but confidential message might suit a telephone call followed by an encrypted email that confirms the details in writing. Good answers say which factor matters **most** in the situation and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-communication-7100-commerce--03-urgency-security-scales.webp" width="900" height="645" alt="Two scales. Urgency: telephone, web chat and face to face reply immediately, email within hours and a letter in days. Security: face to face is hardest to intercept, then a sealed letter, then encrypted email, while social media and posters are public." loading="lazy">
+  <figcaption>When factors pull apart, combine methods: a call for speed, then a secure written record.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-communication-7100-commerce--04-six-factors.webp" width="900" height="595" alt="Six cards for urgency, cost, security, distance, availability of networks and importance of the message, each with the question it raises and the methods it points to." loading="lazy">
+  <figcaption>The six factors often pull in different directions, so weigh the most important one.</figcaption>
+</figure>
 
 ## Worked example: choosing three methods
 
@@ -92,6 +112,11 @@ The factors often pull in different directions. An urgent but confidential messa
 > Choice: telephone call. It is urgent and the driver cannot read emails while driving (urgency). Mobile internet may be weak in rural areas, but a voice call can work on a basic signal (availability of networks).
 
 Notice the pattern in each answer: **method → factor named → reason linked to the situation**. This is what "appropriateness in given situations" means.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-communication-7100-commerce--05-riverbend-three-messages.webp" width="900" height="685" alt="Three messages from a food wholesaler. A promotion to 2,000 retailers goes by social media plus email (urgency, cost, security). New terms with an overseas supplier go by videoconference then a signed document (distance, importance, security). A changed address for a rural driver goes by telephone (urgency, networks)." loading="lazy">
+  <figcaption>Each choice names the method, the factor and a reason tied to the situation.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -83,6 +83,16 @@ astronaut: W = 70 × 1.6 = 112 N  ≈ 110 N
 
 Notice what the question gave you: a force and a mass. Always convert grams to kilograms first: 250 g is 0.250 kg, not 250 kg.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--01-rover-earth-mars.webp" width="900" height="640" alt="A 900 kg rover on the Earth (g = 9.8 N/kg) has a weight of 8820 N, about 8800 N; on Mars (g = 3.7 N/kg) its weight is 3330 N, about 3300 N. The weight arrows are drawn to scale; the mass is 900 kg in both places." loading="lazy">
+  <figcaption>Mass stays the same; weight depends on the gravitational field strength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--02-finding-g-on-a-moon.webp" width="900" height="500" alt="A 2.5 kg mass hangs from a newton meter reading 4.0 N on a newly explored moon, so g = 4.0 / 2.5 = 1.6 N/kg and a 70 kg astronaut there weighs 70 × 1.6 = 112 N, about 110 N. Near the Earth g = 9.8 N/kg, equivalent to a free-fall acceleration of 9.8 m/s²." loading="lazy">
+  <figcaption>g = W/m: a force divided by a mass, in N/kg.</figcaption>
+</figure>
+
 ## Measuring and comparing: balances
 
 Statement 4 says weights (and masses) can be **compared using a balance**.
@@ -95,6 +105,16 @@ Statement 4 says weights (and masses) can be **compared using a balance**.
 
 Hang a newton meter from a clamp. Hang masses of 100 g, 200 g, up to 500 g from it in turn, reading the weight each time with your eye level with the pointer. Convert each mass to kilograms and plot weight (y-axis) against mass (x-axis). The points lie on a straight line through the origin, and its **gradient** is g. For example, a gradient of 4.9 N ÷ 0.50 kg = 9.8 N/kg.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--03-beam-and-spring-balance.webp" width="900" height="640" alt="A beam balance with an unknown object in one pan and standard masses in the other is level when their weights are equal; because both pans are in the same field, the masses are equal too, even on the Moon. A spring balance reads weight directly, so the same object gives a smaller reading on the Moon than on the Earth." loading="lazy">
+  <figcaption>A beam balance compares weights and so masses; a spring balance reads weight.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--04-finding-g-graph.webp" width="900" height="740" alt="Weight plotted against mass for 0.10 to 0.50 kg gives a straight line through the origin. A gradient triangle from the origin to 0.50 kg rises 4.9 N, so g = 4.9 ÷ 0.50 = 9.8 N/kg." loading="lazy">
+  <figcaption>Plot weight against mass in kilograms; the gradient is g.</figcaption>
+</figure>
+
 ## Weight as the effect of a gravitational field (Extended only)
 
 A **gravitational field** is a region in which a mass experiences a force. Weight is the effect of that field on a mass: the field is there whether or not an object is in it, and any mass placed in it is pulled with a force W = mg in the direction of the field.
@@ -106,6 +126,11 @@ Using this idea:
 - **Weight is a vector** pointing along the field, towards the centre of the planet or moon. On opposite sides of the Earth, two people's weights point in opposite directions.
 
 Typical questions: compare the weight of an object on two planets, given g for each; explain why a beam balance gives the same reading on the Moon; explain why a dropped hammer and feather fall together on the airless Moon (same field strength, so the same acceleration for every mass).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--05-gravitational-field.webp" width="900" height="660" alt="Field lines point inwards from all directions to the centre of a planet. Objects on opposite sides have weight arrows pointing in opposite directions, each towards the centre. A satellite further away has a smaller weight, but not zero." loading="lazy">
+  <figcaption>Any mass in a gravitational field is pulled along the field with force W = mg.</figcaption>
+</figure>
 
 ## Common mistakes
 

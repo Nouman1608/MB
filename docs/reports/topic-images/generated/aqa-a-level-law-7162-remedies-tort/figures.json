@@ -1,0 +1,65 @@
+[
+ {
+  "file": "aqa-a-level-law-7162-remedies-tort--01-tort-looks-backwards.webp",
+  "width": 900,
+  "height": 651,
+  "after": "## Compensatory damages: the aim",
+  "alt": "A timeline with three points: before the tort, the tort, and the position if a contract had been performed. Tort damages look back to the claimant’s position before the tort (Livingstone v Rawyards Coal Co); contract damages look forward to the position if the contract had been performed. Damages are usually one lump sum.",
+  "caption": "Tort damages restore the position before the wrong; contract damages look forward.",
+  "bytes": 116430
+ },
+ {
+  "file": "aqa-a-level-law-7162-remedies-tort--02-personal-injury-heads.webp",
+  "width": 900,
+  "height": 670,
+  "after": "## Damages for physical injury",
+  "alt": "Personal injury damages split two ways. By type: pecuniary losses (earnings before trial, future earnings, medical and care costs, adapting a home) and non-pecuniary losses (pain and suffering, loss of amenity). By proof: special damages, calculated precisely to trial and pleaded, and general damages, assessed by the court (Heil v Rankin). Future losses are the annual loss multiplied by the years it will continue, adjusted because a lump sum can be invested.",
+  "caption": "Every head of damages is both a type of loss and either special or general.",
+  "bytes": 127784
+ },
+ {
+  "file": "aqa-a-level-law-7162-remedies-tort--03-lump-sum-alternatives.webp",
+  "width": 900,
+  "height": 418,
+  "after": "## Damages for physical injury",
+  "alt": "Three ways to pay for future loss. A lump sum is paid once and for all. Provisional damages under s32A Senior Courts Act 1981 let the claimant return if a specified serious deterioration such as epilepsy develops. Periodical payments under the Damages Act 1996 spread future losses over time.",
+  "caption": "Provisional damages and periodical payments soften the once-and-for-all lump sum.",
+  "bytes": 87254
+ },
+ {
+  "file": "aqa-a-level-law-7162-remedies-tort--04-property-damage.webp",
+  "width": 900,
+  "height": 548,
+  "after": "## Damages for damage to property",
+  "alt": "If repair is reasonable the measure is the cost of repair; if the item is destroyed or repair is uneconomic, the measure is the diminution in value or the market value of a replacement. Consequential losses such as hire charges or lost profit are added; in Lagden v O’Connor a claimant who could not afford ordinary hire recovered credit hire costs.",
+  "caption": "Repair or replacement value, plus consequential losses.",
+  "bytes": 89926
+ },
+ {
+  "file": "aqa-a-level-law-7162-remedies-tort--05-mitigation-ria.webp",
+  "width": 900,
+  "height": 681,
+  "after": "## Mitigation of loss",
+  "alt": "Bar chart of Ria’s claim: repairs £3,000 are recoverable; the £2,000 of lost earnings is struck out because hiring a van at £80 a day for 10 days (£800) would have avoided it; the total recoverable is £3,800. Below: the mitigation rule, Darbishire v Warran (only market value recovered) and Geest v Lansiquot (burden on the defendant).",
+  "caption": "Failing to mitigate loses only the avoidable part, not the whole claim.",
+  "bytes": 98722
+ },
+ {
+  "file": "aqa-a-level-law-7162-remedies-tort--06-injunction-types.webp",
+  "width": 900,
+  "height": 539,
+  "after": "## Injunctions",
+  "alt": "Injunctions sorted two ways. By what they order: prohibitory (stop, the usual form in nuisance) and mandatory (do something). By timing: quia timet before a threatened wrong occurs, interim before trial on the balance of convenience (American Cyanamid v Ethicon), and final after trial.",
+  "caption": "Prohibitory or mandatory in content; quia timet, interim or final in timing.",
+  "bytes": 77086
+ },
+ {
+  "file": "aqa-a-level-law-7162-remedies-tort--07-injunction-or-damages.webp",
+  "width": 900,
+  "height": 720,
+  "after": "## Injunctions",
+  "alt": "The court may refuse an injunction where damages are adequate, the claimant delayed or acted unfairly, or it would be oppressive. Kennaway v Thompson limited powerboat racing; Miller v Jackson refused an injunction for cricket; Dennis v MoD gave damages for jet noise. Damages in lieu (s50 Senior Courts Act 1981) followed the four Shelfer conditions, but Coventry v Lawrence says they must not be applied mechanically.",
+  "caption": "An injunction is discretionary: it can be limited, refused, or replaced by damages.",
+  "bytes": 162200
+ }
+]

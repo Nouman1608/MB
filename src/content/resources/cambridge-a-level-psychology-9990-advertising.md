@@ -61,6 +61,21 @@ The model is useful because each feature can be varied in an experiment while th
 | Place | Convenience | How easily can the customer buy it? |
 | Promotion | Communication | Is there a two-way conversation, not just a one-way message? |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-advertising--01-eye-tracking-eeg.webp" width="900" height="662" alt="Eye-tracking shows which parts of an advert are looked at and for how long; EEG records brain activity as an indication of attention and emotional engagement. Both give objective data, as in Ciceri et al. (2020), but show physiological reactions rather than liking or intention to buy." loading="lazy">
+  <figcaption>Objective measures of attention, but not of liking or buying.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-advertising--02-four-ps-to-four-cs.webp" width="900" height="564" alt="Four rows map each of the seller's 4 Ps to a consumer-side C: product to consumer wants and needs, price to cost, place to convenience, promotion to communication, each with the question the advertiser asks." loading="lazy">
+  <figcaption>Each P becomes a C when you take the customer's point of view.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--14-co-yale-model.webp" width="900" height="940" alt="Source (who), message (says what), medium (print, television, internet, smartphone), audience (to whom) and effect." loading="lazy">
+  <figcaption>The five features of the Yale model of communication.</figcaption>
+</figure>
+
 ## Key study: Snyder and DeBono (1985)
 
 **Context.** Adverts tend to use either an **image appeal** (what using the product says about you) or a **quality claim** (what the product does). Snyder had developed the concept of **self-monitoring**: high self-monitors adjust their behaviour to suit the social situation and care about the image they present, whereas low self-monitors behave according to their inner attitudes and values.
@@ -80,9 +95,19 @@ The model is useful because each feature can be varied in an experiment while th
 - *Generalisation*: participants were students, a narrow sample in age and income.
 - *Determinism versus free will*: personality appears to determine response, yet people can choose to ignore adverts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-advertising--03-snyder-debono-card.webp" width="900" height="999" alt="Definitions of high and low self-monitors, then a study card for Snyder and DeBono (1985) study 3: aim, procedure using the Self-Monitoring Scale and image or quality adverts, and results. A conclusion note and an evaluation grid covering application, self-reports, generalisation and determinism follow." loading="lazy">
+  <figcaption>Image appeals suit high self-monitors; quality claims suit low self-monitors.</figcaption>
+</figure>
+
 ## Product placement
 
 Product placement is the paid inclusion of a branded product in a film or television programme. Auty and Lewis (2004) showed children a clip from the film *Home Alone* in which Pepsi appears, or a control clip without the brand. When later offered a choice of cola, children who had seen the placement were more likely to choose Pepsi, and the effect was strongest for children who had seen the film before, which supports a **reminder** explanation. **Mere exposure** (Zajonc) offers a second explanation: repeated exposure to a stimulus increases liking for it, even without conscious recognition. Research with children raises the issue of informed consent, so parental consent is needed, and the question of whether children can recognise placement as advertising.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-advertising--05-auty-lewis-placement.webp" width="900" height="903" alt="Children watched either a Home Alone clip in which Pepsi appears or a control clip, then chose a cola. Those who saw the placement more often chose Pepsi, most of all if they had seen the film before. Two explanations follow: reminder and mere exposure." loading="lazy">
+  <figcaption>Placement nudged choice, most strongly as a reminder for children who knew the film.</figcaption>
+</figure>
 
 ## 2.5.3 Brand awareness and recognition
 
@@ -92,11 +117,26 @@ Product placement is the paid inclusion of a branded product in a film or televi
 
 **Slogans.** A slogan is a short phrase that communicates the brand's identity. Functions include increasing awareness, building a brand image, differentiating the brand from rivals and giving continuity across campaigns. Kohli, Leuthesser and Suri (2007) set out guidelines for effective slogans, including treating the slogan as a long-term investment, using it to position the brand, linking it clearly to the brand name, and keeping it consistent and repeated over time so that the link is learned.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-advertising--06-fischer-logos.webp" width="900" height="500" alt="Study card for Fischer et al. (1991): children aged 3 to 6 matched logos to product pictures; recognition rose with age and many matched Old Joe the Camel to a cigarette. An application point and validity limits follow." loading="lazy">
+  <figcaption>Young children recognise brands before they understand what advertising is for.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-advertising--07-brands-and-slogans.webp" width="900" height="531" alt="Brand awareness (recognising or recalling a brand) is contrasted with brand image (associations and feelings). Below, the four functions of slogans and Kohli et al.'s (2007) guidelines for effective slogans." loading="lazy">
+  <figcaption>Awareness is recognition; image is association. Slogans build both.</figcaption>
+</figure>
+
 ## Worked example: applying self-monitoring
 
 *A watch company has two adverts: one shows a celebrity at a glamorous party; the other describes the watch's accuracy and water resistance. Suggest which audience should see each advert.* [4]
 
 "High self-monitors care about the image they present in social situations (1), so they should see the celebrity advert, which is an image appeal (1). Low self-monitors act on their values and care about what a product does (1), so they should see the quality-claim advert about accuracy (1)."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-advertising--04-matching-appeal.webp" width="900" height="579" alt="A two-by-two grid: high self-monitors pay more for a product with an image appeal, low self-monitors pay more for one with a quality claim. Applied to the watch example, the celebrity party advert goes to high self-monitors and the accuracy advert to low self-monitors." loading="lazy">
+  <figcaption>The finding is an interaction: neither appeal wins for everyone.</figcaption>
+</figure>
 
 ## Common mistakes
 

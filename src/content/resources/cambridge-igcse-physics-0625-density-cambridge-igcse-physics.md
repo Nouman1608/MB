@@ -58,6 +58,21 @@ W = m g = 28.8 × 9.8 = 282 N   (about 280 N)
 
 Keep the units consistent: lengths in metres give a volume in m³, which pairs with kg/m³.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-density-cambridge-igcse-physics--01-density-equation-units.webp" width="900" height="660" alt="A formula triangle with m on top and ρ and V below gives ρ = m/V, m = ρV and V = m/ρ. Beside it, kilograms with cubic metres give kg/m³ and grams with cubic centimetres give g/cm³, and 1 g/cm³ = 0.001 ÷ 0.000 001 = 1000 kg/m³; water is about 1.0 g/cm³ or 1000 kg/m³." loading="lazy">
+  <figcaption>ρ = m/V, with mass and volume in matching units; 1 g/cm³ = 1000 kg/m³.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-density-cambridge-igcse-physics--02-density-is-a-material-property.webp" width="900" height="620" alt="A copper block of mass m and volume V is cut into two halves. Each half has mass m/2 and volume V/2, so its density (m/2) ÷ (V/2) is still m/V." loading="lazy">
+  <figcaption>Halving mass and volume together leaves the density unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-density-cambridge-igcse-physics--03-slab-worked-example.webp" width="900" height="520" alt="A concrete slab 0.60 m by 0.40 m by 0.050 m with density 2400 kg/m³. Its volume is 0.012 m³, its mass 2400 × 0.012 = 28.8 kg and its weight 28.8 × 9.8 = 282 N." loading="lazy">
+  <figcaption>Find the volume in m³ first, then m = ρV, then W = mg.</figcaption>
+</figure>
+
 ## The three experiments
 
 Each experiment needs a **mass** (from a balance) and a **volume** (found differently each time).
@@ -95,6 +110,16 @@ Precautions: lower the object gently so no water splashes out; make sure it is f
 
 The method only works for objects that sink: a floating object is not fully under water, so it displaces less than its own volume.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-density-cambridge-igcse-physics--04-regular-solid-and-liquid.webp" width="900" height="700" alt="Left: a brass cuboid 5.0 cm by 3.0 cm by 2.0 cm on a balance reading 255 g; V = 30 cm³ and ρ = 255/30 = 8.5 g/cm³ = 8500 kg/m³. Right: an empty measuring cylinder reads 86.4 g and 126.4 g with 50.0 cm³ of liquid, so the liquid has mass 40.0 g and density 0.800 g/cm³." loading="lazy">
+  <figcaption>Volume from a ruler or a measuring cylinder; mass from a balance; then ρ = m/V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-density-cambridge-igcse-physics--05-volume-by-displacement.webp" width="900" height="760" alt="Method A: a stone on a thread is lowered into a part-filled measuring cylinder and its volume is the rise in the reading. Method B: the stone is lowered into a full displacement can and the water that runs out of the spout into a measuring cylinder equals its volume. Precautions are listed below." loading="lazy">
+  <figcaption>The object's volume is the rise in level, or the volume of water pushed out.</figcaption>
+</figure>
+
 ## Floating and sinking
 
 An object **floats** in a liquid if its density is **less** than the liquid's density, and **sinks** if its density is **greater**.
@@ -122,6 +147,16 @@ bead rests at the boundary between Y and water
 ```
 
 Two liquids that **do** mix (such as water and alcohol) do not form layers, which is why the syllabus states "given that the liquids do not mix".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-density-cambridge-igcse-physics--06-float-or-sink.webp" width="900" height="600" alt="A tank of water of density 1.0 g/cm³. Ice (0.92 g/cm³) and a pine block (0.50 g/cm³) float, while brass (8.5 g/cm³) and plastic of density 1.2 g/cm³ rest on the bottom." loading="lazy">
+  <figcaption>An object floats if it is less dense than the liquid and sinks if it is denser.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-density-cambridge-igcse-physics--07-liquid-layers.webp" width="900" height="640" alt="A jar holds three liquids that do not mix: Y (0.86 g/cm³) on top, water (1.00 g/cm³) in the middle and X (1.26 g/cm³) at the bottom. A bead of density 0.95 g/cm³ sinks through Y but floats on the water, so it rests at the Y–water boundary." loading="lazy">
+  <figcaption>Layers stack in order of density; an object settles between a less dense and a denser liquid.</figcaption>
+</figure>
 
 ## Common mistakes
 

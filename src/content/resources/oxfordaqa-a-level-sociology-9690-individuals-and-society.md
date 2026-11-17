@@ -53,6 +53,11 @@ language). Three features matter in answers:
 ruling-class ideas, so it serves the powerful. Interactionists see culture as continually
 negotiated in everyday interaction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--01-culture.webp" width="900" height="569" alt="Culture divided into material and non-material forms, its three features (learned, shared, varies), and functionalist, Marxist and interactionist views of it." loading="lazy">
+  <figcaption>Culture is learned, shared and variable, and each perspective reads it differently.</figcaption>
+</figure>
+
 ## Norms and values
 
 **Values** are general beliefs about what is good, right and worth striving for, such as respect for
@@ -65,6 +70,11 @@ breach brings mild disapproval, from **mores**, norms with strong moral weight w
 outrage. Some mores become **laws**, backed by formal sanctions. Norms vary: what is polite dress or
 greeting in one society may be offensive in another, and norms change, as shown by shifting
 expectations about women's employment or smoking in public.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--02-values-norms.webp" width="900" height="542" alt="A value such as respect for elders is put into practice by norms such as standing when an older person enters. Sumner’s folkways, mores and laws rise in the strength of sanction, from mild disapproval to outrage to formal sanctions." loading="lazy">
+  <figcaption>Values are general; norms are specific rules enforced with sanctions of varying strength.</figcaption>
+</figure>
 
 ## Roles and status
 
@@ -81,6 +91,11 @@ once, which can produce **role conflict** (incompatible demands from two roles, 
 carer) and **role strain** (pressure within one role). A **master status** is one that dominates how
 others see a person, a concept that links to stigma in 3.1.2.4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--03-status-role.webp" width="900" height="547" alt="Linton’s ascribed status, fixed at birth such as sex, caste or age, compared with achieved status earned through merit such as a qualification, with definitions of role conflict, role strain and master status." loading="lazy">
+  <figcaption>Statuses are ascribed or achieved, and holding many can create conflict.</figcaption>
+</figure>
+
 ## Stereotypes
 
 A **stereotype** is an oversimplified, generalised image of a group, applied to all its members.
@@ -93,6 +108,11 @@ stereotypes as "pictures in our heads". Stereotypes:
 - are reproduced by agencies of socialisation, especially the media.
 
 Stereotypes link this section to identity (3.1.2.3) and to othering (3.1.2.4).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--04-stereotypes.webp" width="900" height="456" alt="A chain from a stereotype, Lippmann’s pictures in our heads, to prejudiced attitudes, discriminatory actions and a self-fulfilling prophecy. A note explains why stereotypes persist." loading="lazy">
+  <figcaption>A simplified image can become attitudes, actions and finally a self-fulfilling prophecy.</figcaption>
+</figure>
 
 ## Subcultures, including ethnic groups in multicultural societies
 
@@ -115,6 +135,11 @@ Debates to use in evaluation:
   (3.1.2.3).
 - **Power**: conflict theorists note that a dominant group defines what counts as "mainstream", so
   minority subcultures may be marginalised.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--05-subcultures.webp" width="900" height="576" alt="Examples of multicultural societies (Singapore, Canada), how ethnic subcultures are maintained, and three evaluation debates: integration versus distinctiveness, change through hybridity, and power." loading="lazy">
+  <figcaption>Subcultures survive through institutions but also blend and face marginalisation.</figcaption>
+</figure>
 
 ## The sociological imagination (Mills)
 
@@ -142,6 +167,11 @@ populations and social policy.
 towards public relevance, which links to Burawoy's public sociology in 3.1.3.5. Critics note that
 the idea is a way of thinking rather than a testable theory, and interactionists would add that
 individuals also shape structures through their choices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--06-mills.webp" width="900" height="643" alt="Mills’s personal troubles, located in individual character and relationships, set against public issues rooted in social institutions, illustrated by one unemployed person versus mass unemployment and by graduate underemployment and elder care." loading="lazy">
+  <figcaption>The same problem is a trouble for one person and an issue for a society.</figcaption>
+</figure>
 
 ## Worked example: annotated 8-mark answer
 

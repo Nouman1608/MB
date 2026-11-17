@@ -1,0 +1,65 @@
+[
+ {
+  "file": "edexcel-a-level-business-ybs11-financial-planning--01-pennant-costs.webp",
+  "width": 900,
+  "height": 670,
+  "after": "## Sales, revenue and costs",
+  "alt": "Pennant Print’s fixed costs of $18,000 stay the same while variable costs at $2.50 a unit rise from $15,000 at 6,000 units to $22,500 at 9,000. Total cost rises from $33,000 to $40,500, but average cost falls from $5.50 to $4.50.",
+  "caption": "Spreading the same fixed costs over more units lowers average cost.",
+  "bytes": 98666
+ },
+ {
+  "file": "edexcel-a-level-business-ybs11-financial-planning--02-sales-forecasting.webp",
+  "width": 900,
+  "height": 836,
+  "after": "## Sales forecasting",
+  "alt": "Consumer trends, economic variables and competitors’ actions shape a sales forecast, which is used to plan production and inventory, staffing, cash-flow forecasts and budgets, and finance applications. Difficulties include no sales history, changing tastes, unpredictable economies and rivals, and owner optimism.",
+  "caption": "Every plan built on a forecast inherits its errors.",
+  "bytes": 124794
+ },
+ {
+  "file": "edexcel-a-level-business-ybs11-financial-planning--03-pennant-break-even.webp",
+  "width": 900,
+  "height": 850,
+  "after": "## Break-even analysis",
+  "alt": "A break-even chart for Pennant Print with fixed costs of $18,000, total cost rising at $2.50 a unit and total revenue at $8.50 a unit. The lines cross at 3,000 units and $25,500. With expected sales of 4,200 units the margin of safety is 1,200 units.",
+  "caption": "Pennant breaks even at 3,000 units and expects a 1,200-unit margin of safety.",
+  "bytes": 110542
+ },
+ {
+  "file": "edexcel-a-level-business-ybs11-financial-planning--04-ink-cost-break-even.webp",
+  "width": 900,
+  "height": 840,
+  "after": "## Break-even analysis",
+  "alt": "When Pennant’s variable cost rises from $2.50 to $3.50, the total cost line becomes steeper and break-even moves from 3,000 to 3,600 units. Against forecast sales of 4,200, the margin of safety halves from 1,200 to 600 units.",
+  "caption": "A $1 rise in unit cost halves Pennant’s margin of safety.",
+  "bytes": 93710
+ },
+ {
+  "file": "edexcel-a-level-business-ybs11-financial-planning--05-break-even-chart-changes.webp",
+  "width": 900,
+  "height": 790,
+  "after": "## Break-even analysis",
+  "alt": "Two simple break-even charts. A price rise makes the total revenue line steeper, so break-even moves left. A rise in fixed costs shifts the total cost line up, so break-even moves right. Limitations: all output sold, constant price and unit cost, fixed costs at every output, many products and an uncertain forecast.",
+  "caption": "A steeper revenue line pulls break-even left; higher fixed costs push it right.",
+  "bytes": 104070
+ },
+ {
+  "file": "edexcel-a-level-business-ybs11-financial-planning--06-holloway-cash-flow.webp",
+  "width": 900,
+  "height": 1002,
+  "after": "## Cash-flow forecasts",
+  "alt": "Holloway Tiles receives half of each month’s sales at once and half the next month, so inflows are $11,000, $13,500 and $16,500 for January to March. Against outflows of $12,500, $14,000 and $15,000, the closing balance falls from $4,000 to $2,500 and $2,000 before rising to $3,500.",
+  "caption": "Credit sales delay cash, so a growing business can still run short.",
+  "bytes": 135854
+ },
+ {
+  "file": "edexcel-a-level-business-ybs11-financial-planning--07-holloway-variances.webp",
+  "width": 900,
+  "height": 849,
+  "after": "## Budgets and variance analysis",
+  "alt": "A waterfall from budgeted profit of $11,000 to actual profit of $7,300: revenue $4,000 adverse, materials $1,500 favourable, labour $1,200 adverse and overheads on budget, a total of $3,700 adverse.",
+  "caption": "Judge each variance by its effect on profit, then ask what caused it.",
+  "bytes": 83344
+ }
+]

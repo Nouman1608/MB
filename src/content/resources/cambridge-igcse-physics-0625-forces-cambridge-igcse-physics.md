@@ -92,6 +92,26 @@ Qualitatively:
 
 So a car taking a tight bend fast needs a large sideways friction force; on an icy road friction is small and the car cannot follow the bend. No equation (F = mv²/r) is needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-forces-cambridge-igcse-physics--01-load-extension-graph.webp" width="900" height="760" alt="Load against extension for a spring of original length 15.0 cm: points at 1.6, 3.2, 4.8 and 6.4 cm for 1.0 to 4.0 N lie on a straight line through the origin, then 8.3 cm at 5.0 N and 10.8 cm at 6.0 N curve away. The limit of proportionality is at about 4.0 N, and k = 4.0 ÷ 0.064 = 63 N/m." loading="lazy">
+  <figcaption>Straight through the origin up to the limit of proportionality, then curving.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-forces-cambridge-igcse-physics--02-resultant-and-balanced.webp" width="900" height="640" alt="In a tug of war, 850 N to the left and 780 N to the right give a resultant of 70 N to the left. A car cruising at a steady 25 m/s has a driving force equal to the resistive forces, so the resultant is zero and its velocity stays constant." loading="lazy">
+  <figcaption>Opposite forces subtract; a zero resultant means constant velocity, not necessarily rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-forces-cambridge-igcse-physics--03-f-equals-ma.webp" width="900" height="600" alt="A 1200 kg car with 3000 N driving force and 600 N resistive forces has a resultant of 2400 N forwards and accelerates at 2.0 m/s² forwards. When braking with a resultant of 4800 N backwards it accelerates at 4.0 m/s² backwards, decelerating while still moving forwards." loading="lazy">
+  <figcaption>Use the resultant force; the acceleration is in the same direction as it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-forces-cambridge-igcse-physics--04-circular-motion.webp" width="900" height="650" alt="An object moving round a circle at three points: the velocity is along the tangent and the force acts at right angles to it, towards the centre. With mass and radius fixed, a larger force means a larger speed; with mass and speed fixed, a larger force means a smaller radius; a larger mass needs a larger force for the same speed and radius." loading="lazy">
+  <figcaption>A force towards the centre changes the direction of the velocity, not the speed.</figcaption>
+</figure>
+
 ## Turning effect of forces (1.5.2)
 
 The **moment** of a force is its turning effect:
@@ -126,6 +146,16 @@ The rule is uniform and pivoted at its centre, so its own weight acts through th
 
 **Experiment: no resultant moment in equilibrium (Extended only).** Balance a metre rule on a pivot (a knife-edge) through its centre. Hang different known weights at various positions on both sides, using thread loops, and slide them until the rule balances horizontally. Record each weight and its distance from the pivot. Calculate the total clockwise and total anticlockwise moments: they are equal (within experimental error) every time, so there is no resultant moment. Repeat with new positions and weights.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-forces-cambridge-igcse-physics--05-moments-door-seesaw.webp" width="900" height="820" alt="A 15 N push on a door 0.80 m from the hinge gives a moment of 12 N m; at 0.20 m it gives only 3.0 N m. On a see-saw, a 300 N child 1.5 m from the pivot is balanced by a 450 N child 1.0 m from the pivot on the other side, since 300 × 1.5 = 450 × 1.0 = 450 N m." loading="lazy">
+  <figcaption>The further from the pivot, the bigger the turning effect; balance means equal moments.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-forces-cambridge-igcse-physics--06-metre-rule-moments.webp" width="900" height="744" alt="A uniform metre rule pivoted at the 50 cm mark carries 2.0 N at 10 cm (0.40 m from the pivot) and 1.0 N at 30 cm (0.20 m) on one side and W at 80 cm (0.30 m) on the other. Anticlockwise moments total 1.00 N m, so W = 1.00 / 0.30 = 3.3 N." loading="lazy">
+  <figcaption>Add all the moments on each side, then set clockwise equal to anticlockwise.</figcaption>
+</figure>
+
 ## Centre of gravity (1.5.3)
 
 The **centre of gravity** of an object is the point through which its whole weight appears to act. For a uniform ruler it is at the centre; for an irregular lamina it is found with a plumb line, as described in the topic guide.
@@ -138,6 +168,11 @@ An object is **more stable** when it has:
 - a **wide base**.
 
 Examples: racing cars are low and wide; a laboratory stand has a heavy base; a double-decker bus is loaded so most of its mass is low down; a tall, narrow vase tips over more easily than a short, wide bowl of the same mass.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-forces-cambridge-igcse-physics--07-stability.webp" width="900" height="680" alt="A short, wide block and a tall, narrow block are tilted by the same angle about one bottom edge. For the wide block, the vertical line through its centre of gravity stays inside the base, so its weight turns it back. For the tall block the line falls outside the base and its weight tips it over." loading="lazy">
+  <figcaption>An object topples when the line of its weight passes outside its base.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -48,6 +48,16 @@ of Topic 6. What differs between resources is what drives the turbine:
 - **solar cells** are the exception: they transfer energy from light directly electrically, with no turbine or
   generator.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--01-thermal-power-station-chain.webp" width="900" height="710" alt="Fossil fuels, nuclear fuel, geothermal heat and large-scale solar heating all heat water into high-pressure steam. The steam spins a turbine, the turbine turns a generator, and energy goes to the grid electrically, with much wasted heating cooling water and air." loading="lazy">
+  <figcaption>Thermal stations make steam to spin the turbine; the generator does the final step.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--03-direct-and-solar.webp" width="900" height="990" alt="Wind, falling water, tides and waves spin a turbine directly with no boiler, and the turbine turns a generator. Solar cells below convert radiation to electricity directly with no turbine or generator." loading="lazy">
+  <figcaption>Wind, water, tides and waves spin a turbine directly; solar cells skip the turbine and generator.</figcaption>
+</figure>
+
 ## The energy transfers, resource by resource (4.18P)
 
 | Resource | Energy transfers to describe |
@@ -63,6 +73,11 @@ of Topic 6. What differs between resources is what drives the turbine:
 
 At each stage some energy is dissipated, mainly by heating the surroundings. In thermal power stations a large part of
 the energy from the fuel is wasted in the cooling water and air, which is why their efficiency is well below 100%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--02-energy-transfer-chains.webp" width="900" height="740" alt="Eight chains, each ending electrically: wind from the kinetic store of moving air; hydroelectric from the gravitational store of high water; tides and waves from moving sea water; geothermal from hot rocks; solar heating and solar cells from radiation; fossil fuels from a chemical store; nuclear from a nuclear store." loading="lazy">
+  <figcaption>Start at the original store, name each stage, and finish with &quot;electrically&quot;.</figcaption>
+</figure>
 
 ## Weighing the resources (4.19P)
 
@@ -90,6 +105,11 @@ Strong answers compare resources on several criteria rather than repeating "rene
 A key idea for evaluation: the variable renewables (wind, solar, waves) cannot be switched on when demand rises, so a
 grid that uses them also needs resources that can be controlled, such as hydroelectric or gas.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--03-reliability-and-control.webp" width="900" height="560" alt="Resources sorted by how their output can be matched to demand. Variable: wind, solar, waves and tidal (predictable but varying). Steady: nuclear, geothermal and coal. Controllable and quick to start: hydroelectric and gas-fired stations." loading="lazy">
+  <figcaption>Variable renewables need backup from resources that can be controlled.</figcaption>
+</figure>
+
 ## Worked example: an efficiency calculation
 
 This sub-topic sits inside Topic 4, so a question can ask for an efficiency (statement 4.4) in a power-station context.
@@ -102,6 +122,11 @@ electrically to the grid.
 efficiency = 900 / 2500 × 100% = 36%
 energy wasted each second = 2500 − 900 = 1600 MJ, mainly by heating the cooling water and air
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--04-power-station-efficiency.webp" width="900" height="805" alt="A Sankey diagram for a coal-fired power station: 2500 MJ each second splits into 900 MJ transferred electrically to the grid and 1600 MJ wasted heating the cooling water and air. Efficiency = 900 ÷ 2500 × 100% = 36%." loading="lazy">
+  <figcaption>Only 36% reaches the grid; the rest heats the cooling water and air.</figcaption>
+</figure>
 
 ## Annotated model answer
 
@@ -121,6 +146,11 @@ disadvantages of building a wind farm compared with a nuclear power station.*
 Notice that each sentence makes one developed point, both resources are judged on the same criteria, and the answer
 ends with a conclusion. That matches the specification's meaning of "discuss": explore all aspects of the issue and
 reason about them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--05-wind-vs-nuclear-discussion.webp" width="900" height="650" alt="A comparison table of a wind farm and a nuclear power station on the same criteria: renewable or not, carbon dioxide, reliability, scale, fuel and waste, and cost, followed by a judgement that nuclear is better for a reliable supply while wind needs controllable backup." loading="lazy">
+  <figcaption>A strong &quot;discuss&quot; answer compares both on the same criteria and ends with a judgement.</figcaption>
+</figure>
 
 ## Common mistakes
 

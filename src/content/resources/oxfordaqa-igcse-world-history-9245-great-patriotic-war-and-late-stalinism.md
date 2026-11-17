@@ -34,6 +34,11 @@ Germany invaded on **22 June 1941** (Operation Barbarossa). In the first months 
 - **Food.** With farmland occupied and men and horses taken by the army, food was strictly rationed. Many people survived on bread and what they could grow.
 - **Allied aid.** Lend-Lease supplies from the USA and Britain, especially lorries, food and raw materials, helped the war effort.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism--01-war-economy.webp" width="900" height="683" alt="After the German invasion of June 1941 captured Ukraine and besieged Leningrad, the USSR responded by moving over 1,500 factories east, mobilising the whole economy, rationing food strictly and receiving Lend-Lease aid from the USA and Britain." loading="lazy">
+  <figcaption>Moving industry east and total mobilisation kept the war effort going.</figcaption>
+</figure>
+
 ## Social problems
 
 - **Loss of life.** Around 27 million Soviet citizens died, soldiers and civilians, the greatest loss of any country in the war.
@@ -41,6 +46,11 @@ Germany invaded on **22 June 1941** (Operation Barbarossa). In the first months 
 - **Occupation.** In occupied areas people suffered mass killings, including the murder of Soviet Jews, the burning of villages and deportation to Germany for forced labour.
 - **Homelessness and orphans.** Millions of homes were destroyed, and many children lost their parents.
 - **Deportation of nationalities.** Stalin accused whole peoples of collaboration: the Volga Germans (1941), the Chechens and Ingush (1944) and the Crimean Tatars (1944) were deported to Central Asia and Siberia, and many died.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism--02-human-cost.webp" width="900" height="525" alt="Around 27 million Soviet citizens died. Four further effects: civilian deaths in the siege of Leningrad, killings and deportations under occupation, millions of homes destroyed and children orphaned, and the deportation of whole nationalities in 1941 and 1944." loading="lazy">
+  <figcaption>No country lost more people in the war than the USSR.</figcaption>
+</figure>
 
 ## Stalin's wartime leadership
 
@@ -52,6 +62,11 @@ Germany invaded on **22 June 1941** (Operation Barbarossa). In the first months 
 
 **Changing tone.** Propaganda stressed Russian history and the defence of the motherland more than communism; in 1943 the Orthodox Church was allowed to elect a patriarch.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism--03-stalin-war-leader.webp" width="900" height="540" alt="Balance of Stalin's war leadership: weaknesses (ignored warnings, purged officers, encirclements in 1941) against strengths (State Defence Committee, staying in Moscow, patriotic appeals, reliance on Zhukov). Below, the harsh Order No. 227 and a changed propaganda tone." loading="lazy">
+  <figcaption>Stalin's leadership was neither wholly good nor wholly bad.</figcaption>
+</figure>
+
 ## Women in the Great Patriotic War
 
 **On the home front**, women replaced men in factories, mines, transport and on the collective farms, where they did most of the work. They dug defences around cities and served in civil defence.
@@ -62,6 +77,11 @@ Germany invaded on **22 June 1941** (Operation Barbarossa). In the first months 
 
 **After the war**, most women in the forces were demobilised, and the state again stressed motherhood; many women veterans found their service little recognised for years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism--04-women-in-the-war.webp" width="900" height="528" alt="Three stages for women: replacing men on the home front, serving in the armed forces (over 800,000 by common estimates, including the Night Witches), and demobilisation after the war. Below, women in propaganda: The Motherland Calls! poster and the tour of the sniper Lyudmila Pavlichenko." loading="lazy">
+  <figcaption>Women were vital to the war effort and to its propaganda, but little recognised afterwards.</figcaption>
+</figure>
+
 ## Post-war reconstruction
 
 **Industry.** The Fourth Five-Year Plan (1946-50) again put heavy industry first. Factories, mines, railways and the Dnieper dam were rebuilt, and official figures claimed that industrial output had overtaken pre-war levels by 1950. Resources were also poured into the atomic project: the USSR tested its first atomic bomb in 1949.
@@ -69,6 +89,11 @@ Germany invaded on **22 June 1941** (Operation Barbarossa). In the first months 
 **Agriculture and stagnation.** Collective farms were short of men, horses and machinery. In 1946 drought combined with continued grain procurement caused a **famine** in 1946-47. Peasants were heavily taxed on their private plots, and collective farmers received little for their work, so agriculture stagnated.
 
 **Standard of living by 1953.** Rationing ended in December 1947, alongside a currency reform that wiped out many people's savings. Housing remained desperately short; many families shared rooms in communal flats or lived in barracks and dugouts. Consumer goods were scarce. Living standards for most people were little better than in 1940.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism--05-post-war-reconstruction.webp" width="900" height="507" alt="Three columns on reconstruction to 1953: industry was rebuilt under the Fourth Five-Year Plan and the atomic bomb tested in 1949; agriculture stagnated, with famine in 1946-47; and living standards were little better than in 1940." loading="lazy">
+  <figcaption>Heavy industry recovered; farming and living standards did not.</figcaption>
+</figure>
 
 ## High Stalinism
 
@@ -80,6 +105,11 @@ Germany invaded on **22 June 1941** (Operation Barbarossa). In the first months 
 
 **Beria and the NKVD.** **Lavrentiy Beria** had headed the NKVD, the secret police, from 1938. After the war he oversaw the security organs as deputy prime minister and directed the atomic bomb project. He was one of the most feared men in the USSR.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism--06-high-stalinism.webp" width="900" height="778" alt="Timeline of High Stalinism: Zhdanov's attacks on culture from 1946, the anti-cosmopolitan campaign from 1948, the Leningrad Affair, Stalin's seventieth birthday in 1949, the Gulag peak, the Doctors' Plot in January 1953, Stalin's death on 5 March 1953 and Beria's arrest and execution." loading="lazy">
+  <figcaption>Terror and the cult grew again after 1945, until Stalin's death in March 1953.</figcaption>
+</figure>
+
 ## The death of Stalin
 
 Stalin suffered a stroke at his dacha near Moscow on 1 March 1953; his guards, afraid to disturb him, delayed help. He died on **5 March 1953**. Millions mourned, and crowds at his lying-in-state were so large that people were crushed to death. His successors soon released the Doctors' Plot defendants; Beria was arrested in June 1953 and executed in December.
@@ -89,6 +119,11 @@ Stalin suffered a stroke at his dacha near Moscow on 1 March 1953; his guards, a
 *Explain one way in which the Second World War changed the lives of Soviet people living in the countryside.* **[6]**
 
 > One way was that **villages were left with far fewer workers**. Millions of men and many horses and tractors were taken by the army, so women, children and the elderly had to do almost all the work on the collective farms while still meeting the state's demands for grain. This meant longer hours and greater hardship, as the food they produced went first to the army and the cities. The change lasted beyond 1945: so many men had died that the countryside remained short of labour, which helps explain why agriculture stagnated after the war.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism--07-six-mark-answer.webp" width="900" height="576" alt="Four steps of a model 6-mark answer: name one way (fewer workers in the villages), support it with detail, explain its effect on people, and show the change lasted beyond 1945." loading="lazy">
+  <figcaption>One way, developed with detail, effect and lasting consequence.</figcaption>
+</figure>
 
 ## Common mistakes
 

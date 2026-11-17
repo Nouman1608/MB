@@ -45,6 +45,11 @@ The specification names five forms. Learning each as a short cause-and-effect ch
 
 **International competition.** Foreign businesses can sell in the home market too. *Chain:* a home-country bicycle maker faces cheaper imported bikes, so it must cut costs, improve quality or find a niche, or it will lose market share.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business--01-five-forms-chains.webp" width="900" height="784" alt="Five rows, one per form of globalisation, each as a three-step chain: specialisation (tea grown in volume at lower cost), relative cost advantage (assembly moved abroad, home jobs lost), movement of labour (skilled staff recruited from abroad), larger markets (exports to ten countries, lower unit cost) and international competition (cheaper imports force cost cuts or a niche)." loading="lazy">
+  <figcaption>Learn each form as a cause-and-effect chain ending in an effect on the business.</figcaption>
+</figure>
+
 ## Benefits and drawbacks: four different viewpoints
 
 The specification asks about businesses **and** economies, in **developed and developing** countries. The same change can help one and harm another.
@@ -57,6 +62,16 @@ The specification asks about businesses **and** economies, in **developed and de
 | A developing economy | New jobs and incomes; government receives more tax; investment in roads and factories | Local firms may close; skilled workers may emigrate; profits of foreign-owned firms may leave the country |
 
 In an answer, state the viewpoint first. "Globalisation is good" earns little; "globalisation lets a developing-country garment maker win large export orders because its labour costs are lower, which creates local jobs" is a developed chain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business--02-four-viewpoints.webp" width="900" height="926" alt="A two-by-two grid of benefits and drawbacks of globalisation for businesses and economies in developed and developing countries, for example larger markets but low-cost rivals for a developed-country business, and new jobs but emigrating skilled workers for a developing economy." loading="lazy">
+  <figcaption>Who gains and who loses depends on the viewpoint.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business--03-weak-vs-developed-answer.webp" width="900" height="660" alt="A bare claim, “Globalisation is good”, earns little. A developed chain states the viewpoint (a developing-country garment maker), the cause (lower labour costs), the effect (large export orders) and the wider effect (local jobs)." loading="lazy">
+  <figcaption>Name the viewpoint, then link cause to effect.</figcaption>
+</figure>
 
 ## Exchange rates: sales and profit
 
@@ -83,6 +98,16 @@ Option B: cut the price to $27 so foreign buyers pay about the same
 
 Here keeping the price loses less profit, but the decision depends on how sensitive foreign buyers are to price. If sales fell to 7,000 under option A, profit would be $84,000 and option B would be better. Velden might also lose long-term customers under option A, which the figures do not show.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business--04-exchange-rate-directions.webp" width="900" height="705" alt="A grid of exchange-rate effects. When the home currency strengthens, exporters’ goods cost more for foreign buyers so sales tend to fall, while importers’ costs fall. When it weakens, export sales tend to rise and importers’ costs rise." loading="lazy">
+  <figcaption>A stronger currency hurts exporters and helps importers; a weaker one does the reverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business--05-velden-sales-or-profit.webp" width="900" height="969" alt="Velden Ceramics made $120,000 profit (10,000 vases × $12). After the home currency strengthens, keeping the $30 price with sales of 8,500 gives $102,000; cutting to $27 keeps 10,000 sales at $9 each, $90,000. If sales under option A fell to 7,000, profit would be $84,000 and option B would be better." loading="lazy">
+  <figcaption>A stronger currency cuts either sales or profit per unit; which hurts less depends on buyers.</figcaption>
+</figure>
+
 ## Severe fluctuations
 
 A small, gradual change in the exchange rate can be planned for. A **severe fluctuation**, a large or sudden swing, causes wider problems:
@@ -93,6 +118,11 @@ A small, gradual change in the exchange rate can be planned for. A **severe fluc
 - **Lost contracts:** a sharp rise in the home currency can make an exporter uncompetitive almost overnight.
 
 Businesses reduce the risk by agreeing prices in their own currency where customers accept it, buying from suppliers at home, or selling in several countries so that one currency's movement matters less.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business--06-severe-fluctuations.webp" width="900" height="880" alt="A severe, sudden exchange-rate swing brings four problems: uncertain costs and revenues, difficult pricing, harder planning and lost contracts. Businesses reduce the risk by pricing in their own currency, buying from home suppliers and selling in several countries." loading="lazy">
+  <figcaption>Sudden swings make costs, prices and plans uncertain; spreading currencies reduces the risk.</figcaption>
+</figure>
 
 ## Common mistakes
 

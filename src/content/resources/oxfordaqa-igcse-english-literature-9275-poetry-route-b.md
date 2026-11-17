@@ -54,6 +54,11 @@ about 45 minutes for each.
 The anthology and the set-text lists can change between specification versions, so check with your
 teacher which edition of *People and Places* applies to your exam series.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--01-paper-2b.webp" width="900" height="665" alt="Paper 2b lasts 90 minutes for 60 marks: Section A on the People and Places anthology and Section B on an unseen poem, 30 marks and about 45 minutes each. Within the paper, AO1 and AO2 are each about 40% and AO3 about 20%." loading="lazy">
+  <figcaption>Two equal sections, and ideas and methods weighted equally.</figcaption>
+</figure>
+
 ## What the marks reward
 
 The specification's assessment objective weightings give Paper 2b 16% of the qualification for AO1,
@@ -88,6 +93,11 @@ Use real anthology titles in your own grid. Three habits make it work:
 3. Mark the pairs that **contrast** within a theme. Two poems that treat belonging differently give
    you more to compare than two that agree.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--02-theme-grid.webp" width="900" height="687" alt="A grid with themes (belonging, memory, power of a place) down the side and three poems across the top; each cell notes how the poem treats the theme, and a contrasting pair on belonging is highlighted. Three habits for using the grid follow." loading="lazy">
+  <figcaption>A grid of themes and methods prepares you for any pairing question.</figcaption>
+</figure>
+
 ## Writing precisely about form
 
 Form comments are where many answers stay general ("the poem has four stanzas"). A form comment
@@ -104,12 +114,22 @@ earns AO2 credit when it links the shape of the poem to its meaning. Useful form
 - **Line length and enjambment**: ask where the poem speeds up, slows down or pauses, and what the
   reader feels at that point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--03-form.webp" width="900" height="714" alt="Five forms to recognise, sonnet, dramatic monologue, free verse, regular stanzas and rhyme, and line length and enjambment, each paired with the question to ask about how it shapes meaning." loading="lazy">
+  <figcaption>A form comment earns credit when it explains what the shape does.</figcaption>
+</figure>
+
 ## Using context well
 
 Context includes when and where a poem was written, the situation it describes and the experiences
 that shape its ideas. It works best as a single sentence that explains a choice in the poem: "Writing
 as someone who has migrated, the poet presents the old home through present-tense memories, so it
 stays alive rather than lost." It works badly as a paragraph of biography before any analysis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--04-context.webp" width="900" height="541" alt="Context works well as a single sentence explaining a choice in the poem, illustrated by the guide’s example about a migrant poet’s present-tense memories, and badly as a paragraph of biography before analysis." loading="lazy">
+  <figcaption>Use context to explain a choice, not to fill a paragraph.</figcaption>
+</figure>
 
 ## Worked example: comparing voice and form
 
@@ -136,6 +156,11 @@ A comparative paragraph:
 Notice how the paragraph names a shared idea (AO1), compares a method in each poem with its effect
 (AO2), and builds a personal argument with comparative connectives (AO3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--05-compare-voice-form.webp" width="900" height="839" alt="The guide’s two original extracts about a hill compared: both show a gap between outsiders and insiders, but Extract X uses a challenging dramatic monologue and the body’s effort, while Extract Y uses a detached observer and the language of measurement, giving anger against irony." loading="lazy">
+  <figcaption>One shared idea, then voice, method and effect compared side by side.</figcaption>
+</figure>
+
 ## A model opening and ending
 
 **Opening:** "Both poets explore how a place shapes the people who live in it, but while one
@@ -155,6 +180,11 @@ one spacious, makes the reader feel that difference."
 3. **Argue (3 minutes).** Write a one-sentence argument covering both poems.
 4. **Write (30 minutes).** Three or four comparative paragraphs.
 5. **Check (5 minutes).** Make sure every paragraph mentions both poems.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--06-planning-45.webp" width="900" height="926" alt="A 45-minute bar and five steps for the anthology question: choose (2 minutes), annotate (5), argue in one sentence (3), write three or four comparative paragraphs (30) and check every paragraph mentions both poems (5)." loading="lazy">
+  <figcaption>Most of the time goes on writing, but the first ten minutes decide the argument.</figcaption>
+</figure>
 
 ## Common mistakes
 

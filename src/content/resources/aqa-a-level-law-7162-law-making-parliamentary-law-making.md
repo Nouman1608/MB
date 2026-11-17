@@ -35,6 +35,11 @@ Most government Bills begin as policy inside a government department. Consultati
 
 **Evaluation:** consultation improves quality and legitimacy, but government decides whether to consult, how long to allow and whether to take any notice of the responses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-parliamentary-law-making--01-green-white-papers.webp" width="900" height="469" alt="A Green Paper sets out options and invites comment from anyone; a White Paper sets out the government’s settled proposals and is often followed by a Bill; a draft Bill may be published for pre-legislative scrutiny by a committee. Consultation improves quality and legitimacy, but government controls whether and how it consults." loading="lazy">
+  <figcaption>Green means options, White means settled proposals.</figcaption>
+</figure>
+
 ## Kinds of Bill in more detail
 
 | Type | Introduced by | Example |
@@ -45,6 +50,11 @@ Most government Bills begin as policy inside a government department. Consultati
 | Hybrid Bill | Government; a public Bill that also affects particular private interests | High Speed Rail (London - West Midlands) Act 2017 |
 
 Private members' Bills enter through three routes in the Commons: the **ballot** at the start of each session, which gives the most debating time; the **Ten Minute Rule**, which allows a short speech and is mainly a way of raising an issue; and **presentation**, with no speech. Few succeed without government support, because government controls most parliamentary time. The Voyeurism (Offences) Act 2019, which made "upskirting" an offence, began as a private member's Bill that was blocked by a single objection, after which the government adopted the measure as its own Bill.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-parliamentary-law-making--02-private-members-bills.webp" width="900" height="534" alt="Private members’ Bills enter the Commons by the ballot, which gives most debating time, the Ten Minute Rule, a short speech mainly raising an issue, or presentation with no speech. The upskirting Bill was blocked by one objection and then adopted by the government, becoming the Voyeurism (Offences) Act 2019. The Murder (Abolition of Death Penalty) Act 1965 was a private member’s Bill by Sydney Silverman." loading="lazy">
+  <figcaption>Backbench Bills usually need government time to become law.</figcaption>
+</figure>
 
 ## The formal legislative process: the detail
 
@@ -65,6 +75,16 @@ Private members' Bills enter through three routes in the Commons: the **ballot**
 ### When the Lords and Commons disagree
 
 The **Parliament Act 1911** removed the Lords' power to veto most public Bills: money Bills could be delayed for only one month and other Bills for two years. The **Parliament Act 1949** reduced the delay for non-money Bills to one year. The Acts have been used rarely; besides the War Crimes Act 1991 and the Hunting Act 2004, they were used for the European Parliamentary Elections Act 1999 and the Sexual Offences (Amendment) Act 2000. The **Salisbury Convention** means the Lords do not usually block, at second reading, a government Bill delivering a commitment in its election manifesto.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-parliamentary-law-making--03-legislative-process.webp" width="900" height="878" alt="Five stages in the first House: first reading (formal), second reading (main debate and vote), committee stage (a Public Bill Committee of about 16 to 50 MPs or a Committee of the whole House), report stage and third reading; then the same five in the other House. Ping-pong resolves amendments, Royal Assent is notified under the 1967 Act, and commencement may be on assent, on a stated date or by commencement order." loading="lazy">
+  <figcaption>Debate on principle, detailed scrutiny, agreement of both Houses, assent, then commencement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-parliamentary-law-making--04-parliament-acts.webp" width="900" height="559" alt="The Parliament Act 1911 removed the Lords’ veto over most public Bills, allowing a delay of one month for money Bills and two years for others; the Parliament Act 1949 cut the delay for non-money Bills to one year. The Acts were used for the War Crimes Act 1991, European Parliamentary Elections Act 1999, Sexual Offences (Amendment) Act 2000 and Hunting Act 2004. Under the Salisbury Convention the Lords do not usually block manifesto Bills at second reading." loading="lazy">
+  <figcaption>The Lords can delay, not veto, most public Bills.</figcaption>
+</figure>
 
 ## Influences on Parliament: new examples and evaluation
 
@@ -105,6 +125,11 @@ Elected MPs respond to constituents, petitions and polls.
 - *Advantages:* keeps law in line with social attitudes.
 - *Disadvantages:* opinion can be volatile, poorly informed or hostile to minorities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-parliamentary-law-making--05-influences-evaluated.webp" width="900" height="546" alt="A table of five influences, each with how it works, an advantage and a disadvantage: pressure groups (insider and outsider, Gina Martin, Finn’s Law), the media, political parties and manifestos, the Law Commission (Fraud Act 2006) and public opinion." loading="lazy">
+  <figcaption>Each influence needs an example plus its own advantage and disadvantage.</figcaption>
+</figure>
+
 ## Parliamentary supremacy and its limits
 
 ### The doctrine
@@ -120,6 +145,11 @@ Elected MPs respond to constituents, petitions and polls.
 - **Devolution.** The Scotland Act 1998, Government of Wales Act 1998 and Northern Ireland Act 1998 gave law-making powers to devolved bodies. The **Sewel Convention**, that Westminster will not normally legislate on devolved matters without consent, is now written into statute, but in *R (Miller) v Secretary of State for Exiting the European Union* (2017) the Supreme Court held it is a political convention that courts cannot enforce.
 - **European Union membership** (historical): *Factortame* allowed courts to disapply Acts that conflicted with EU law while the UK was a member. Withdrawal removed this limit.
 - **Practical and political limits:** the electorate, public opinion and international obligations restrain what Parliament will actually do.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-parliamentary-law-making--06-supremacy-limits.webp" width="900" height="615" alt="The doctrine has three parts: Parliament can make or unmake any law; it cannot bind its successors (Vauxhall Estates; Ellen Street Estates); and no court can set aside an Act (Pickin). Limits: constitutional statutes (Thoburn), the Human Rights Act sections 3, 4 and 19, devolution and the unenforceable Sewel Convention (Miller), historical EU membership (Factortame), and practical and political limits." loading="lazy">
+  <figcaption>Legally supreme, but constrained by constitutional statutes, the HRA, devolution and politics.</figcaption>
+</figure>
 
 ## Worked example: evaluation of one influence
 

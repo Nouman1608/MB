@@ -62,6 +62,11 @@ input (primary) voltage / output (secondary) voltage = primary turns / secondary
 the right-hand side is a number of turns divided by a number of turns, so the left-hand side must also be a pure
 number. That is why both voltages can be in V, or both in kV, as long as they match: the unit cancels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-magnetism--01-a-v-w-link.webp" width="900" height="680" alt="Current in amperes multiplied by voltage in volts gives power in watts: 1 W = 1 A × 1 V, since (C/s) × (J/C) = J/s. In a transformer V_p × I_p = V_s × I_s, both sides in watts, for 100% efficiency. The turns ratio V_p / V_s = N_p / N_s has no unit, so both voltages need only the same unit." loading="lazy">
+  <figcaption>Amperes times volts gives watts; a turns ratio has no unit.</figcaption>
+</figure>
+
 ## Prefixes you will meet
 
 | Prefix | Symbol | Multiply by | Typical Topic 6 use |
@@ -72,6 +77,11 @@ number. That is why both voltages can be in V, or both in kV, as long as they ma
 
 Remember that **m** (milli) and **M** (mega) differ by a factor of a thousand million. A reading of 25 mV on a
 sensitive meter in an induction experiment is 0.025 V.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-magnetism--02-prefixes.webp" width="900" height="670" alt="Prefix ladder: mega (M, × 10⁶) for power station output in MW; kilo (k, × 10³) for transmission voltages in kV and motors in kW; the base units A, V and W; milli (m, × 10⁻³) for small currents in mA and induced voltages in mV. m and M differ by a factor of a thousand million; 25 mV = 0.025 V." loading="lazy">
+  <figcaption>Convert mA, mV, kV, kW and MW to A, V and W before calculating.</figcaption>
+</figure>
 
 ## Worked examples
 
@@ -116,6 +126,21 @@ energy transferred in 2.0 minutes = P × t = 3.0 × 120 = 360 J
 for a real transformer the output power is a little less than the input power, mainly because the coils and core
 heat up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-magnetism--03-step-down-example.webp" width="900" height="895" alt="A transformer steps 230 V mains down to 5.0 V with an output current of 2.0 A. Output power = 5.0 × 2.0 = 10 W, which equals the input power for 100% efficiency, so the input current is 10 / 230 = 0.043 A = 43 mA. The turns ratio is 230 / 5.0 = 46, with no unit." loading="lazy">
+  <figcaption>Same power on both sides: low voltage, large current; high voltage, small current.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-magnetism--04-transmission-example.webp" width="900" height="700" alt="A generator delivers 400 MW at 25 kV; a step-up transformer raises it to 400 kV for the cables, and a step-down transformer reduces it near homes. At 25 kV the current is 400 × 10⁶ / 25 × 10³ = 16 000 A; at 400 kV it is 1000 A, sixteen times smaller, shown by bars to scale. The voltage ratio is 16, so less energy is wasted heating the cables." loading="lazy">
+  <figcaption>Step up the voltage and the same power needs a sixteen times smaller current.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-magnetism--05-motor-and-efficiency.webp" width="900" height="490" alt="A d.c. motor on 6.0 V drawing 0.50 A has power 0.50 × 6.0 = 3.0 W and transfers 3.0 × 120 = 360 J in 2.0 minutes. A real transformer with input 12 W and output 10.8 W has efficiency 10.8 / 12 × 100% = 90%, because the coils and core heat up." loading="lazy">
+  <figcaption>P = I × V gives watts; a real transformer outputs a little less than it takes in.</figcaption>
+</figure>
+
 ## Checking your answer
 
 - In a step-up transformer the output voltage is **bigger** than the input and the output current is **smaller**. In a
@@ -123,6 +148,11 @@ heat up.
 - For an ideal transformer, the output power cannot exceed the input power. If your output power is bigger, recheck.
 - Mains-voltage currents for everyday devices are usually a few amperes or less; transmission currents are hundreds
   or thousands of amperes; induced voltages in a classroom coil are often only millivolts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-magnetism--06-step-up-step-down.webp" width="900" height="690" alt="A step-up transformer has more turns on the output coil: the output voltage is bigger and the output current smaller than the input. A step-down transformer has fewer output turns: the output voltage is smaller and the current bigger. The current ratio is the inverse of the voltage ratio, and output power cannot exceed input power." loading="lazy">
+  <figcaption>Voltage up means current down, and the other way round.</figcaption>
+</figure>
 
 ## Common mistakes
 

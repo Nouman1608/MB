@@ -65,6 +65,11 @@ expansionist and would respond only to firmness. In March 1946, at Fulton, Misso
 said an "iron curtain" had descended across Europe. Soviet troops stayed in northern Iran beyond the agreed date until
 American and UN pressure forced them out. Each side now saw the other's actions as proof of hostile intent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-blame-cold-war--01-yalta-potsdam.webp" width="900" height="579" alt="A comparison of the two 1945 conferences. Yalta (February): Roosevelt, Churchill and Stalin agreed zones, Soviet entry against Japan and a UN, with a vague deal on Poland. Potsdam (July-August): Truman, Attlee and Stalin confirmed four zones and the Oder-Neisse line but clashed over reparations, and Truman mentioned a new weapon." loading="lazy">
+  <figcaption>By Potsdam the leaders, the mood and the balance of power had all changed.</figcaption>
+</figure>
+
 ## How had the USSR gained control of Eastern Europe by 1948?
 
 The key fact is that the **Red Army** was already there in 1945. Stalin wanted a buffer zone of friendly states,
@@ -88,6 +93,11 @@ The method was usually gradual:
 Stalin tightened his grip with **Cominform** (1947), which co-ordinated communist parties, and **Comecon** (1949),
 which tied the satellites' economies to the USSR.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-blame-cold-war--02-salami-tactics.webp" width="900" height="732" alt="Three numbered steps: coalition governments with communists holding the police, removal of opponents slice by slice, and rigged elections with merged parties. A table applies them to Poland, Hungary, Romania and Bulgaria, and Czechoslovakia, with Yugoslavia as the independent exception." loading="lazy">
+  <figcaption>Coalition, salami tactics, rigged elections: the same method country by country.</figcaption>
+</figure>
+
 ## How did the United States react?
 
 - **The Truman Doctrine (March 1947).** When Britain could no longer afford to support the Greek government against
@@ -96,6 +106,11 @@ which tied the satellites' economies to the USSR.
 - **The Marshall Plan (announced June 1947).** Economic aid to rebuild Europe, on the reasoning that poverty bred
   communism. About $13 billion went to western Europe from 1948. Stalin forbade the satellites to accept it and called
   it dollar imperialism; to Moscow it looked like an attempt to buy influence in its sphere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-blame-cold-war--03-action-reaction.webp" width="900" height="1087" alt="A vertical timeline from 1946 to 1949 drawn to scale. Western moves on the right: the Long Telegram and Fulton speech (1946), the Truman Doctrine (March 1947), the Marshall Plan (June 1947), the Deutschmark (June 1948) NATO (April 1949) and the Federal Republic (May 1949). Bizonia (1947) is also on the right. Soviet moves on the left: rigged Polish elections (January 1947), Cominform (1947), the Czech takeover (February 1948), the Berlin Blockade (24 June 1948) and its lifting (May 1949). A note adds Comecon, the GDR and the Warsaw Pact (1955)." loading="lazy">
+  <figcaption>Each side's move looked like aggression to the other, and drew a reply.</figcaption>
+</figure>
 
 ## The occupation of Germany and the Berlin Blockade
 
@@ -113,6 +128,11 @@ the division of Germany: the Federal Republic (West Germany) was set up in May 1
 promised to treat an attack on one as an attack on all. When West Germany joined NATO in 1955, the USSR formed the
 **Warsaw Pact** (May 1955).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-blame-cold-war--04-berlin-blockade.webp" width="900" height="614" alt="Three causes, different aims for Germany, Bizonia (1947) and the Deutschmark (June 1948), lead to the Blockade and Airlift from 24 June 1948 to 12 May 1949. Three consequences follow: a propaganda defeat for Stalin, two German states in 1949, and NATO (April 1949)." loading="lazy">
+  <figcaption>The blockade backfired: it divided Germany and created NATO.</figcaption>
+</figure>
+
 ## Who was more to blame?
 
 This is the judgement the (c) part asks for. Historians have argued three broad positions: the USSR was to blame
@@ -129,6 +149,11 @@ need historians' names; you need evidence on both sides.
 
 A strong judgement often distinguishes **intentions from actions**: Stalin may have acted mainly from security fears,
 but his methods in Eastern Europe convinced the West that he intended expansion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-blame-cold-war--05-who-to-blame.webp" width="900" height="579" alt="A balance tilted against the USSR. The case against the USSR: broken Yalta promises, control by force and fraud, revolutionary ideology and the Berlin Blockade. The case against the USA: the atomic monopoly, Truman's hard line, the Marshall Plan and Western currency reform. A note separates Stalin's intentions from his actions." loading="lazy">
+  <figcaption>Separate intentions from actions to reach a judgement.</figcaption>
+</figure>
 
 ## Worked example: a (b) answer
 
@@ -153,6 +178,11 @@ the top level for (b).
    reform provoked the blockade; Soviet security fears were real after two invasions.
 3. **Judgement:** for example, both sides acted defensively, but Stalin's methods in Eastern Europe were the first
    concrete breach of wartime agreements, so the USSR carries more of the blame for *starting* it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-blame-cold-war--06-c-plan.webp" width="900" height="477" alt="A three-step plan: agree (the Soviet takeover broke the Declaration on Liberated Europe; the Czech coup and Blockade looked aggressive); disagree (the Truman Doctrine, Marshall Plan and currency reform, and genuine Soviet security fears); and a judgement based on who first broke wartime agreements." loading="lazy">
+  <figcaption>Both sides, then a judgement that names its criterion.</figcaption>
+</figure>
 
 ## Common mistakes
 

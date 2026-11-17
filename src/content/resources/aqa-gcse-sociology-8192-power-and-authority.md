@@ -36,6 +36,11 @@ Weber defined **power** as the chance of a person or group getting their own way
 
 A teacher who asks a class to be quiet usually relies on authority: pupils accept the teacher's right to ask. A bully who takes another pupil's phone uses coercion: there is no accepted right, only fear. The distinction matters because authority is more stable. A ruler who relies only on coercion must keep spending resources on force; one with authority gains willing obedience.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-and-authority--01-authority-coercion.webp" width="900" height="537" alt="Power, getting your own way even against resistance, takes two forms. Authority is accepted as legitimate, as when pupils accept a teacher’s right to ask for quiet, and is stable. Coercion rests on force or fear, as when a bully takes a phone, and is costly to maintain." loading="lazy">
+  <figcaption>Authority is power people accept as rightful; coercion is power based on fear.</figcaption>
+</figure>
+
 ## Weber's three types of authority
 
 The specification's summary of Weber names three sources: charismatic, traditional and rational-legal. Each rests on a different reason for obedience.
@@ -82,6 +87,26 @@ Government departments, large companies, hospitals and schools are bureaucracies
 
 Real leaders often combine types. A monarch may hold traditional authority but act within constitutional rules; a prime minister holds rational-legal authority but may rely on personal charisma to win elections. Weber's types are **ideal types**: pure models used for comparison, not exact descriptions of any real leader.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-and-authority--02-strengths-weaknesses.webp" width="900" height="705" alt="A table comparing traditional, charismatic and rational-legal authority: why people obey, examples, strengths and weaknesses. Traditional authority is stable but resists change; charismatic authority inspires but is unstable; rational-legal authority is predictable but can become rigid red tape." loading="lazy">
+  <figcaption>Each type of authority gains legitimacy in a different way, and can lose it in a different way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-and-authority--03-routinisation.webp" width="900" height="428" alt="A chain: a charismatic leader with devoted followers faces a crisis when the leader fails or dies; followers set up an organisation, rules or a line of succession; the authority becomes lasting rules or traditions." loading="lazy">
+  <figcaption>Charisma is unstable, so followers turn it into rules or traditions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-and-authority--04-bureaucracy.webp" width="900" height="533" alt="A pyramid of offices, each supervised by the one above, beside a list of features: hierarchy, written rules, specialisation, impersonality, and appointment on qualifications and merit. Bureaucracy is the organisational form of rational-legal authority, found in government departments, companies, hospitals and schools." loading="lazy">
+  <figcaption>Bureaucracy puts rational-legal authority into practice through rules and a hierarchy of offices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--07-weber-authority.webp" width="900" height="766" alt="Three cards. Traditional authority rests on custom and inherited status, as in a monarchy. Charismatic authority rests on devotion to an exceptional leader. Rational-legal authority rests on shared impersonal rules, as in a bureaucracy or elected government. Below, formal and informal sources of power." loading="lazy">
+  <figcaption>Authority is accepted power, based on tradition, charisma or rules.</figcaption>
+</figure>
+
 ## Formal and informal sources of power
 
 | | Formal sources | Informal sources |
@@ -118,6 +143,11 @@ Feminists point to **male domination** of positions of formal power: men have hi
 
 **Pluralists** argue that power in a democracy is spread among many competing groups, including political parties, **pressure groups**, trade unions and businesses. No single group dominates, and elections allow citizens to remove governments. Marxists and feminists reply that some groups, such as large businesses, have far more resources than others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-and-authority--05-who-holds-power.webp" width="900" height="606" alt="Four cards. Functionalists say power serves society through value consensus. Marxists say it serves the ruling class through ideology. Feminists say men dominate formal and informal power. Pluralists say power is spread among competing groups. Each card ends with a criticism." loading="lazy">
+  <figcaption>The perspectives disagree about whether authority in the UK is genuinely legitimate.</figcaption>
+</figure>
+
 ## Worked example: applying Weber to an item
 
 > *Item (fictional):* At Ashgrove Mosque, the imam is respected for his knowledge and personal kindness, and many people seek his advice. The mosque's finance committee follows a written constitution and elects its treasurer every three years.
@@ -125,6 +155,11 @@ Feminists point to **male domination** of positions of formal power: men have hi
 > **Model answer:** The imam's influence draws partly on charismatic authority, because people follow him for his personal qualities, and his advice is an informal source of power since no rule obliges anyone to follow it. The treasurer holds rational-legal authority: her position comes from an election under a written constitution, so members obey the role rather than the person, and a new treasurer would inherit the same authority.
 
 Notice that the answer names the type, links it to a detail in the item and explains *why* it fits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-and-authority--06-worked-item.webp" width="900" height="571" alt="A fictional item about a mosque. The imam’s influence is charismatic and informal, because people follow his personal qualities and no rule obliges them. The treasurer holds rational-legal, formal authority, because she is elected under a written constitution and a successor would inherit the same authority." loading="lazy">
+  <figcaption>Name the type, link it to the item, and explain why it fits.</figcaption>
+</figure>
 
 ## Common mistakes
 

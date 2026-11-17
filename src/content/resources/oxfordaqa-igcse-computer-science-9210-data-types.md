@@ -43,6 +43,11 @@ controls three things:
 So when a question asks "why does a program need data types?", a complete answer links the type to the
 operations allowed and to how the value is stored, rather than simply listing the five types.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-types--01-what-a-data-type-controls.webp" width="900" height="574" alt="A data type decides three things: which values are allowed (an integer cannot hold 2.5 or &quot;hello&quot;), which operations make sense (multiply integers, join strings), and how the binary pattern stored for the value is interpreted, for example as a number or a character." loading="lazy">
+  <figcaption>One choice of type fixes the allowed values, the valid operations and how the binary is read.</figcaption>
+</figure>
+
 ## The five types in detail
 
 ### Integer
@@ -76,6 +81,11 @@ the symbol 7, and it has a character code (see the [string handling study guide]
 A **sequence of characters**, which may be empty or contain many characters: `"Karachi"`, `"07700 900123"`,
 `""`. Use it for names, addresses, postcodes, passwords and any code that contains letters or symbols.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-types--02-five-data-types.webp" width="900" height="692" alt="Integer holds whole numbers such as -12, 0 and 365 for things you count. Real holds numbers with a fractional part such as 3.75 for things you measure. Boolean holds only True or False. Character holds exactly one symbol such as A, 7 or ?. String holds a sequence of characters, such as &quot;Karachi&quot; or the empty string." loading="lazy">
+  <figcaption>Count with integer, measure with real, yes/no with Boolean, one symbol is a character, text is a string.</figcaption>
+</figure>
+
 ## Numbers that should be strings
 
 This is the most tested judgement in 3.2.1. Some data **looks** numeric but must be stored as a string:
@@ -90,6 +100,11 @@ This is the most tested judgement in 3.2.1. Some data **looks** numeric but must
 The test is simple: **will you ever do arithmetic on it?** If adding two of them, or finding their average, is
 meaningless, it is an identifier and belongs in a string. A good exam answer gives the reason that applies to the
 specific data, such as "an integer would remove the leading zero".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-types--03-numbers-as-strings.webp" width="900" height="683" alt="Stored as an integer, the telephone number 07700900123 becomes 7700900123 and the student ID 00452 becomes 452, losing the leading zeros. The test: if you will never do arithmetic on it, it is an identifier and belongs in a string. Postcodes contain letters and spaces, card security codes such as 045 keep their leading zero." loading="lazy">
+  <figcaption>If adding or averaging it is meaningless, store it as a string.</figcaption>
+</figure>
 
 ## Data type and operations together
 
@@ -117,6 +132,11 @@ average ← total / count
 fractional part, depending on the language. The arithmetic operators themselves are covered in the
 [arithmetic operations study guide](/resources/oxfordaqa-igcse-computer-science-9210-arithmetic-operations/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-types--04-type-and-operations.webp" width="900" height="610" alt="Left: a and b hold the strings &quot;12&quot; and &quot;30&quot;, so a + b concatenates them and c becomes &quot;1230&quot;, not 42. Right: count is 7 and total is 10, both integers, but total / count is real division giving about 1.43, so average must be a real." loading="lazy">
+  <figcaption>With strings + joins; with / the answer is real even when both operands are integers.</figcaption>
+</figure>
+
 ## Worked example: choosing types for a record
 
 A gym stores the following about each member. Choose the most appropriate data type for each item and justify it.
@@ -132,6 +152,11 @@ A gym stores the following about each member. Choose the most appropriate data t
 
 Notice that each justification names a property of **that** data. "Because it is a number" is not a
 justification for integer; "because it is always a whole number of years" is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-types--05-gym-record-types.webp" width="900" height="768" alt="A gym member record with a type for each item: membership number 000731 as a string (leading zeros), surname as a string, age 34 as an integer, monthly fee 27.50 as a real, membership level G as a character and has paid this month as a Boolean, each with a reason tied to the data." loading="lazy">
+  <figcaption>Each justification names a property of that particular data.</figcaption>
+</figure>
 
 ## Annotated model answer
 
@@ -169,6 +194,11 @@ answer from a partial one when the command word is "explain".
   value is stored.
 - When a table asks for a type for each field, look for the traps: identifiers with leading zeros, single-letter
   codes, yes/no fields and money.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-types--06-choosing-a-type.webp" width="900" height="650" alt="A decision path. Only two states: Boolean. Otherwise, if you will do arithmetic on it, choose real when it can have a fractional part and integer when it cannot. If not, one symbol is a character and anything else, including IDs and phone numbers, is a string." loading="lazy">
+  <figcaption>Ask the questions in order and give the reason tied to the data.</figcaption>
+</figure>
 
 ## Next steps
 

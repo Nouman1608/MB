@@ -56,6 +56,16 @@ For the same temperature rise, **gases expand most, liquids less and solids leas
 | tight metal lid on a glass jar | running hot water over the lid makes the metal expand more than the glass | the lid becomes easier to unscrew |
 | thick glass cracking with hot water | the inside surface expands before the outside | uneven expansion causes stress and cracks |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-thermal-properties-and-temperature-cambridge-igcse-physics--01-expansion-order.webp" width="900" height="600" alt="Bars show that for the same temperature rise at constant pressure a solid expands least, a liquid more and a gas most. For Extended: strong forces hold solid particles in place; liquid particles are close but less strongly held; gas particles are far apart with very weak forces." loading="lazy">
+  <figcaption>Weaker forces between particles mean more expansion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-thermal-properties-and-temperature-cambridge-igcse-physics--02-expansion-applications.webp" width="900" height="610" alt="Four applications: gaps between rails allow them to lengthen on hot days without buckling; a bimetallic strip bends when heated because one metal expands more, operating a switch; the liquid in a thermometer expands more than the glass and rises up the tube; overhead cables are hung slack so they can contract in cold weather without snapping." loading="lazy">
+  <figcaption>Engineers leave room for expansion, or use it.</figcaption>
+</figure>
+
 ## Specific heat capacity (2.2.2)
 
 **Core.** A rise in the temperature of an object increases its **internal energy**.
@@ -102,6 +112,16 @@ The value is higher than 4200 J/(kg °C) because some of the energy supplied hea
 
 For a **solid**, use a metal block with holes for the heater and thermometer, a few drops of oil in the thermometer hole for good contact, and insulation round the block; the calculation is the same.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-thermal-properties-and-temperature-cambridge-igcse-physics--03-specific-heat-capacity.webp" width="900" height="508" alt="Heating 0.50 kg of water from 20 °C to 80 °C needs 0.50 × 4200 × 60 = 126 000 J. A 2.0 kg metal block with c = 450 J/(kg °C) given 18 000 J warms by 18 000 / (2.0 × 450) = 20 °C." loading="lazy">
+  <figcaption>Energy = mass × specific heat capacity × temperature change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-thermal-properties-and-temperature-cambridge-igcse-physics--04-liquid-shc-experiment.webp" width="900" height="640" alt="An insulated beaker of 0.40 kg of water with an immersion heater connected to a joulemeter, a thermometer and a lid. 12 600 J raises the temperature by 7.2 °C, giving c = 12 600 / (0.40 × 7.2) = 4375 J/(kg °C), about 4400, higher than 4200 because some energy heats the beaker and surroundings." loading="lazy">
+  <figcaption>Measure mass, energy and temperature rise; energy losses make c come out too high.</figcaption>
+</figure>
+
 ## Melting, boiling and evaporation (2.2.3)
 
 ### Melting and boiling
@@ -134,6 +154,16 @@ Wet washing dries fastest on a warm, windy day when it is spread out.
 ### Cooling an object in contact with an evaporating liquid (Extended only)
 
 When a liquid evaporates from an object, the liquid cools; energy is then transferred by conduction from the warmer object to the cooler liquid, so the object cools too. Examples: sweat evaporating from skin; a wet cloth wrapped round a water bottle; a drop of alcohol on the back of the hand feels cold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-thermal-properties-and-temperature-cambridge-igcse-physics--05-evaporation.webp" width="900" height="540" alt="Particles in a liquid move at a range of speeds; the most energetic ones near the surface escape, so the average kinetic energy of those left falls and the liquid cools. For Extended, evaporation is faster at higher temperature, with a larger surface area and with air moving over the surface, and an object in contact with an evaporating liquid cools too." loading="lazy">
+  <figcaption>The fastest particles leave, so the liquid left behind is cooler.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
+</figure>
 
 ## Common mistakes
 

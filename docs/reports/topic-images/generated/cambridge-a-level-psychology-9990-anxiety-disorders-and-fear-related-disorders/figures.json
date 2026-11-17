@@ -1,0 +1,65 @@
+[
+ {
+  "file": "cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--01-three-conditions.webp",
+  "width": 900,
+  "height": 601,
+  "after": "## 1.4.1 Diagnosis and measurement",
+  "alt": "Three columns compare generalised anxiety disorder (worry with no specific object, lasting months), agoraphobia (fear of situations where escape is hard, avoided or endured) and blood-injection-injury phobia (fear of blood, injury or injections, with a vasovagal response that can cause fainting).",
+  "caption": "GAD has no feared object; agoraphobia centres on escape; BII phobia can cause fainting.",
+  "bytes": 142312
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--02-vasovagal-response.webp",
+  "width": 900,
+  "height": 652,
+  "after": "## 1.4.1 Diagnosis and measurement",
+  "alt": "A schematic line for heart rate and blood pressure rises at first after seeing blood or a needle, then drops sharply below the usual level, when fainting is possible. The curve is illustrative, with no data from the lesson.",
+  "caption": "Heart rate and blood pressure rise, then drop sharply: the vasovagal response.",
+  "bytes": 75286
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--03-gad7-and-bipi.webp",
+  "width": 900,
+  "height": 737,
+  "after": "## 1.4.1 Diagnosis and measurement",
+  "alt": "The GAD-7 has seven items scored 0 to 3, giving a total of 0 to 21; a bar marks thresholds at 5, 10 and 15 for mild, moderate and severe anxiety. The BIPI records cognitive, physiological and behavioural responses to blood and injection situations. Strengths and weaknesses of both follow.",
+  "caption": "GAD-7 totals 0 to 21, with cut-offs at 5, 10 and 15.",
+  "bytes": 105164
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--04-little-albert.webp",
+  "width": 900,
+  "height": 862,
+  "after": "### Behavioural: classical conditioning",
+  "alt": "Four stages of the Little Albert study: a white rat caused no fear while a loud noise caused startle; the rat was paired with the noise; the rat alone then caused crying and crawling away; the fear generalised to a rabbit, dog, fur coat and mask. Two-process theory adds that avoidance maintains the fear through negative reinforcement.",
+  "caption": "Fear is learned by pairing, spreads by generalisation and is kept by avoidance.",
+  "bytes": 119724
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--05-little-hans.webp",
+  "width": 900,
+  "height": 699,
+  "after": "### Psychodynamic: Little Hans",
+  "alt": "Little Hans feared horses after seeing a bus horse collapse. Freud read the fear as displaced anxiety about his father in the Oedipus complex, linking horses' black mouths and blinkers to the father's moustache and glasses; a simpler explanation is classical conditioning after the accident. Strength and weaknesses follow.",
+  "caption": "Freud saw a hidden fear of father; conditioning after the accident fits more simply.",
+  "bytes": 128766
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--06-sd-vs-applied-tension.webp",
+  "width": 900,
+  "height": 668,
+  "after": "## 1.4.3 Treatment and management",
+  "alt": "Two columns contrast systematic desensitisation (learn relaxation, build a hierarchy, work up it while relaxed, based on reciprocal inhibition) with applied tension (tense large muscles until the face feels warm, release, repeat) which raises blood pressure. A note explains that relaxation can worsen fainting in BII phobia.",
+  "caption": "Relaxation suits most phobias; tension stops the fainting in BII phobia.",
+  "bytes": 143978
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--07-chapman-delapp.webp",
+  "width": 900,
+  "height": 784,
+  "after": "### Key study: Chapman and DeLapp (2013)",
+  "alt": "Study card for Chapman and DeLapp (2013): method and nine-session CBT treatment with applied tension from session 5; five exposure steps from a tourniquet to having his own blood drawn; Beck Anxiety Inventory falling from 41 to 7 with gains kept up to 12 months; strengths and weaknesses.",
+  "caption": "Graded exposure with applied tension cut T's BAI score from 41 to 7.",
+  "bytes": 138324
+ }
+]

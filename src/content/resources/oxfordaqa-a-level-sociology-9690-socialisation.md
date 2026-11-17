@@ -53,6 +53,11 @@ New Right writers, such as Charles Murray, linked crime and welfare dependency t
 whose children were said to be inadequately socialised. Critics reply that this blames poor
 families for structural problems.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-socialisation--01-four-types.webp" width="900" height="527" alt="Primary socialisation in the family, secondary socialisation beyond it, re-socialisation such as military training or prison, and inadequate socialisation shown by the Genie case and contested New Right claims." loading="lazy">
+  <figcaption>Isolation cases suggest much of “human nature” is learned.</figcaption>
+</figure>
+
 ## Agencies and their processes
 
 | Agency | Processes and methods | Notes for analysis |
@@ -70,6 +75,11 @@ Two distinctions help in **explain** questions:
   informal.
 - **Deliberate vs unintended**: a parent teaching manners is deliberate; a child copying a parent's
   attitudes to money is unintended.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-socialisation--02-agencies.webp" width="900" height="815" alt="A grid of six agencies of socialisation, families, schools, peers, media, religions and the workplace, with their methods and points for analysis, plus formal versus informal and deliberate versus unintended methods." loading="lazy">
+  <figcaption>Link an agency to a method, then to a perspective.</figcaption>
+</figure>
 
 ## Perspectives on socialisation
 
@@ -98,6 +108,11 @@ also spread dominant ideas.
 *Criticism*: deterministic; Paul Willis's *Learning to Labour* (1977) showed working-class "lads"
 resisting school values, though their resistance led them into manual work anyway.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-socialisation--05-correspondence.webp" width="900" height="565" alt="Bowles and Gintis’s correspondence principle: obedience to teachers, acceptance of school hierarchy and motivation by grades mirror obedience, hierarchy and wages at work. Willis’s lads resisted but still entered manual work." loading="lazy">
+  <figcaption>For Marxists, the hidden curriculum prepares obedient workers.</figcaption>
+</figure>
+
 ### Feminist
 
 Feminists see socialisation as reproducing **gender roles and patriarchy**. Oakley's canalisation
@@ -121,6 +136,16 @@ individuals can reinterpret or resist what agencies teach.
 
 *Criticism*: can underplay structural constraints of class, gender and ethnicity on how far
 individuals can reinterpret norms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-socialisation--04-perspectives.webp" width="900" height="692" alt="A grid of functionalist, Marxist, feminist and interactionist views of socialisation: what is passed on, key evidence such as Parsons, Bowles and Gintis, Oakley, Sharpe and Mead, and a criticism of each." loading="lazy">
+  <figcaption>Each perspective reads the same process as consensus, ideology, patriarchy or negotiation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-socialisation--03-mead.webp" width="900" height="528" alt="Mead’s stages from imitation through play and games to the generalised other, and Cooley’s looking-glass self, in which how we imagine others see us shapes how we see ourselves." loading="lazy">
+  <figcaption>For interactionists, the self is built through taking the role of others.</figcaption>
+</figure>
 
 ## Worked example: annotated 8-mark answer
 

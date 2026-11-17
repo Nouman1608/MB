@@ -34,6 +34,11 @@ The [research methods study guide](/resources/aqa-gcse-sociology-8192-research-m
 
 The test is **who collected the data and why**, not what type of data it is. An interview transcript is primary data for the researcher who carried out the interview, but secondary data for a later researcher who reads it. Official statistics are secondary data for any sociologist who uses them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-primary-and-secondary-sources--01-who-collected.webp" width="900" height="621" alt="The same interview transcript is primary data for the researcher who carried out the interview, and secondary data for another researcher who reads it later. Below, definitions of primary and secondary data and the test: who collected the data and why." loading="lazy">
+  <figcaption>The same data can be primary for one researcher and secondary for another.</figcaption>
+</figure>
+
 ## Primary sources
 
 The main primary methods in the specification are:
@@ -85,6 +90,11 @@ The main primary methods in the specification are:
 - Documents may be biased, incomplete or written for an audience.
 - Data may be out of date.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-primary-and-secondary-sources--02-primary-secondary-compared.webp" width="900" height="669" alt="Two panels. Primary data fit the aim, are up to date and let the researcher control the sample, but cost time and money, face access and ethical issues and cannot reach the past. Secondary data are cheap, cover large groups and the past and allow comparison, but were collected for another purpose and may use different definitions or be biased." loading="lazy">
+  <figcaption>Primary data fit the aim; secondary data reach further, but were made for someone else.</figcaption>
+</figure>
+
 ## Judging a document: four questions
 
 When you assess a document, such as a diary, a letter or a school report, ask:
@@ -95,6 +105,11 @@ When you assess a document, such as a diary, a letter or a school report, ask:
 4. **Is its meaning clear?** Can the researcher understand what the author meant, especially in older documents or texts using slang?
 
 A school's published behaviour policy, for example, is genuine and clear, but may describe how the school wants to be seen rather than what actually happens in classrooms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-primary-and-secondary-sources--03-judging-documents.webp" width="900" height="543" alt="Four numbered questions for judging a document: is it genuine, is it believable, is it typical, and is its meaning clear? Below, a school behaviour policy is genuine and clear but may show how the school wants to be seen rather than what happens in classrooms." loading="lazy">
+  <figcaption>Always ask whether a document is genuine, believable, typical and clear.</figcaption>
+</figure>
 
 ## Content analysis
 
@@ -109,6 +124,11 @@ A school's published behaviour policy, for example, is genuine and clear, but ma
 
 Content analysis is usually based on secondary sources, but the counting and coding are the researcher's own work, so it produces new primary findings from secondary material.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-primary-and-secondary-sources--04-content-analysis.webp" width="900" height="796" alt="Left: quantitative content analysis counts how often something appears using a coding sheet, such as men and women doing housework in adverts. Right: qualitative content analysis examines meanings, such as how news reports describe young people. Below, strengths and limitations, and a note that it turns secondary material into new primary findings." loading="lazy">
+  <figcaption>Content analysis turns secondary material into the researcher’s own findings.</figcaption>
+</figure>
+
 ## Combining sources
 
 Most studies use both types:
@@ -119,11 +139,21 @@ Most studies use both types:
 
 **Example:** a study of why some pupils are excluded from school might begin with official exclusion figures to see which groups are most affected, then interview excluded pupils and their parents to understand the reasons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-primary-and-secondary-sources--05-combining-sources.webp" width="900" height="464" alt="A chain: secondary sources show what is known and help design the study, primary research fills the gap, and comparing the two gives triangulation. Example: official exclusion figures show which groups are most affected, then interviews with excluded pupils and parents explain why." loading="lazy">
+  <figcaption>Most studies start with secondary sources and use primary research to fill the gap.</figcaption>
+</figure>
+
 ## Worked example: choosing sources for a specific area
 
 *Area: changes in how fathers take part in childcare over the past fifty years.*
 
 > The researcher could use secondary sources to cover the past, because primary research cannot reach fathers in the 1970s. Earlier studies of family life, such as Young and Willmott's survey, show what was found at the time, and official statistics on working patterns show changes in mothers' and fathers' employment. However, earlier studies used different definitions and questions, so comparisons may not be exact. Primary research, such as interviews with fathers today, would show how they see their role now. Combining the two allows the researcher to compare past and present, while recognising that the secondary data were collected for different purposes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-primary-and-secondary-sources--06-worked-example.webp" width="900" height="569" alt="A fifty-year timeline. Secondary sources, such as Young and Willmott’s survey and official employment statistics, cover the past, which primary research cannot reach. Interviews with fathers today cover the present. A note warns that earlier studies used different definitions, so comparisons may not be exact." loading="lazy">
+  <figcaption>Use secondary sources for the past and primary research for the present, then compare with care.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -57,6 +57,16 @@ The symptoms are time-consuming (for example more than an hour a day) or cause s
 
 The MOCI is quick and cheap, but true/false answers give little detail about severity. The Y-BOCS rates severity whatever the type of symptom and is widely used to measure change in treatment trials, but as a clinician-rated interview it needs training and depends on inter-rater reliability. Both are **psychometric** measures, and the syllabus links this part to interviews, case studies, quantitative and qualitative data and validity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd--01-obsessions-compulsions.webp" width="900" height="716" alt="Obsessions (intrusive thoughts, images or urges) drive compulsions (behaviours or mental acts). Four pairs follow: contamination leads to washing; harm to checking; symmetry to ordering; unwanted aggressive, sexual or religious thoughts to mental rituals, praying or reassurance-seeking. Cards cover severity and the insight specifier." loading="lazy">
+  <figcaption>Each type of obsession has its typical compulsion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd--02-moci-ybocs.webp" width="900" height="660" alt="The MOCI is a self-report of 30 true or false items with checking, cleaning, slowness and doubting subscales. The Y-BOCS is a clinician-rated interview of 10 items, five on obsessions and five on compulsions, each scored 0 to 4 for a total of 0 to 40. Evaluation points for each follow." loading="lazy">
+  <figcaption>MOCI: 30 quick true/false items. Y-BOCS: 10 clinician-rated items, 0 to 40.</figcaption>
+</figure>
+
 ## 1.5.2 Explanations
 
 ### Biological
@@ -72,6 +82,21 @@ The MOCI is quick and cheap, but true/false answers give little detail about sev
 **Behavioural (operant conditioning).** Anxiety becomes linked to a trigger, and the compulsion reduces the anxiety. Because the compulsion removes an unpleasant state, it is **negatively reinforced** and repeated, and the person never discovers that the feared outcome would not have happened. Evaluation: it explains maintenance well and leads directly to ERP, but it is less good at explaining the specific content of obsessions.
 
 **Psychodynamic.** Freud linked OCD to conflict between the id's unacceptable impulses and the ego's attempts to control them, with fixation in the anal stage, for example through very strict toilet training, producing a preoccupation with order and cleanliness. Defence mechanisms include **undoing** (a compulsion that symbolically cancels an unacceptable thought), **isolation** (separating a thought from its emotion) and **reaction formation** (acting in the opposite way to an unacceptable impulse). Evaluation: it considers the meaning of symptoms, but is unfalsifiable and has little empirical support.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd--03-cognitive-explanation.webp" width="900" height="722" alt="An intrusive thought, which most people have, is interpreted as meaningful and dangerous through thinking errors: inflated responsibility, overestimation of threat and thought-action fusion. The compulsion is an attempt to prevent harm and reduce responsibility. An evaluation line follows." loading="lazy">
+  <figcaption>Thinking errors turn ordinary intrusive thoughts into obsessions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd--04-psychodynamic.webp" width="900" height="650" alt="Conflict between the id's unacceptable impulses and the ego's attempts to control them, with anal-stage fixation producing a preoccupation with order and cleanliness. Three defence mechanisms are shown: undoing, isolation and reaction formation. A strength and weaknesses follow." loading="lazy">
+  <figcaption>Freud saw compulsions as defences against unacceptable impulses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--07-cl-ocd-cycle.webp" width="900" height="960" alt="A clockwise loop: obsession, anxiety rises, compulsion, relief as anxiety falls, which rewards the compulsion so it repeats. A gold bar marks where exposure and response prevention blocks the compulsion." loading="lazy">
+  <figcaption>Negative reinforcement keeps OCD going; ERP breaks the loop.</figcaption>
+</figure>
 
 ### Comparing explanations
 
@@ -105,6 +130,16 @@ The MOCI is quick and cheap, but true/false answers give little detail about sev
 **Conclusions.** Telephone CBT is as effective as face-to-face CBT, making treatment more accessible.
 
 **Evaluation.** Random allocation and standard measures give strong internal validity. Patients and therapists could not be blind to how therapy was delivered, which could affect expectations, and the sample came from people already referred to clinics in one country, which limits generalisation, including across cultures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd--06-lovell-2006.webp" width="900" height="864" alt="Seventy-two patients with OCD were randomly allocated to ten weekly sessions of ERP-based CBT by telephone or face to face, measured with the Y-BOCS, the Beck Depression Inventory and a satisfaction questionnaire. At six months Y-BOCS scores were almost identical and both groups were satisfied. Strengths and weaknesses follow." loading="lazy">
+  <figcaption>Telephone CBT matched face-to-face CBT at six months.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd--05-erp-habituation.webp" width="900" height="668" alt="An illustrative graph of anxiety after a trigger. If the compulsion is performed, anxiety drops quickly, which negatively reinforces it. If the response is prevented, anxiety rises and then falls on its own through habituation, so the person learns the feared outcome does not occur." loading="lazy">
+  <figcaption>Preventing the ritual lets anxiety fall on its own and breaks the reinforcement.</figcaption>
+</figure>
 
 ## Common mistakes
 

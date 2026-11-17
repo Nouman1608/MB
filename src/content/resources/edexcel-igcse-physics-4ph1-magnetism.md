@@ -58,6 +58,11 @@ an unmagnetised piece of iron. **Repulsion is the only proof that an
 object is a magnet.** Bring one end of the bar up to each pole of a known
 magnet in turn: if either end is repelled, the bar is magnetised.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-magnetism--03-repulsion-test.webp" width="900" height="675" alt="Iron, steel, nickel and cobalt are magnetic; copper, aluminium, brass, wood, plastic and glass are not. A test bar repelled by either pole of a known magnet is a magnet. A steel bar attracted to both ends is not, because the magnet induces an unlike pole in its nearer end." loading="lazy">
+  <figcaption>A magnet attracts unmagnetised iron too, so only repulsion proves a magnet.</figcaption>
+</figure>
+
 ## Magnetically hard and soft materials
 
 | Property | Magnetically hard (e.g. steel) | Magnetically soft (e.g. iron) |
@@ -73,6 +78,11 @@ keeps the magnetism) and links the property to the use. Iron is chosen for
 an electromagnet core because the magnetism must switch off when the
 current is switched off; steel would stay magnetised and keep holding the
 load.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--05-hard-soft-magnetic.webp" width="900" height="888" alt="Two bars near a magnet become magnets and hold clips. When the magnet is removed the hard bar keeps its poles and clips; the soft bar loses its poles and the clips fall." loading="lazy">
+  <figcaption>Hard materials keep their magnetism; soft materials lose it.</figcaption>
+</figure>
 
 ## Magnetic field lines
 
@@ -91,6 +101,11 @@ with its N end pointing in the direction of the arrow. This is why
 Earth's magnetic field makes a compass point north: the compass is lining
 up with Earth's field lines.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-magnetism--01-bar-magnet-field-lines.webp" width="900" height="635" alt="Curved field lines leave the N pole and enter the S pole of a bar magnet, crowded together at the poles and spreading out further away. Two plotting compasses line up with the field, their N ends pointing along the arrows. A list gives the rules for drawing field lines." loading="lazy">
+  <figcaption>Field lines run from N to S, never cross, and crowd together where the field is strong.</figcaption>
+</figure>
+
 ## Induced magnetism
 
 When a piece of magnetic material is placed in a magnetic field, it
@@ -105,6 +120,11 @@ magnet: each clip becomes magnetised by the field and holds the next one.
 If the clips are iron (magnetically soft), the chain falls apart when the
 magnet is removed. If they are steel, some magnetism stays and the clips
 may still cling together weakly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--05-induced-magnet.webp" width="900" height="940" alt="A bar magnet near an iron nail. With an N pole near, the nail end nearest becomes S and the far end N; with an S pole near the nearest end becomes N. Both cases attract. With the magnet removed the nail loses most of its magnetism." loading="lazy">
+  <figcaption>Induced magnetism always gives attraction.</figcaption>
+</figure>
 
 ## Required practical: field patterns (6.6)
 
@@ -135,6 +155,16 @@ compass for the arrows.
 Work on a flat surface away from steel objects and other magnets, since
 either distorts the pattern.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-magnets-magnetic-fields-and-electromagnets--01-mag-plot-compass.webp" width="900" height="1130" alt="A bar magnet with a plotting compass. The needle ends are marked with dots, the compass is slid so its tail sits on the last dot, and the dots are joined into one field line from the north pole round to the south pole. Below, iron filings round the same magnet line up along the field and show its pattern but not its direction." loading="lazy">
+  <figcaption>A plotting compass traces one field line with a direction; iron filings show only the pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--04-magnet-pair-fields.webp" width="900" height="1130" alt="Field lines computed from point poles. Unlike poles facing: lines run straight across the gap from N to S. Like poles facing: lines curve away without crossing and the field is zero at a point midway. Between flat opposite poles the field is uniform with parallel, equally spaced lines." loading="lazy">
+  <figcaption>Field patterns for unlike poles, like poles and a uniform field.</figcaption>
+</figure>
+
 ## Producing a uniform field (6.7)
 
 A **uniform** magnetic field has the same strength and direction
@@ -153,6 +183,11 @@ the uniform region a larger fraction of the space between the magnets.
 This arrangement is the field used later in the motor effect, which is why
 diagrams of motors and loudspeakers show parallel lines between the
 poles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-magnetism--02-uniform-field-two-magnets.webp" width="900" height="720" alt="Two flat magnets placed parallel with a north face above a south face. In the central part of the gap the field lines are straight, parallel and equally spaced, pointing from N to S; near the edges they bulge outwards." loading="lazy">
+  <figcaption>Opposite flat poles facing across a small gap give a uniform field in the middle.</figcaption>
+</figure>
 
 ## Worked examples
 

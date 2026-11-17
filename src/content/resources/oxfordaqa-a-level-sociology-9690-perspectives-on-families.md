@@ -79,6 +79,16 @@ remaining functions became more important, not less.
 - **Determinism**: family members appear to absorb roles passively; social action views stress
   negotiation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-perspectives-on-families--01-family-functions.webp" width="900" height="682" alt="Murdock’s four universal functions (sexual, reproductive, economic, educational) narrow through structural differentiation to Parsons’s two irreducible functions: primary socialisation and stabilisation of adult personalities." loading="lazy">
+  <figcaption>Industrial society strips the family to two functions that matter more than ever.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-perspectives-on-families--02-fit-thesis.webp" width="900" height="626" alt="Parsons argued the isolated nuclear family fits industrial society because it is geographically and socially mobile and has a clear instrumental and expressive division of labour. Laslett and Anderson challenge the history." loading="lazy">
+  <figcaption>Historical evidence questions whether industry created the nuclear family.</figcaption>
+</figure>
+
 ## Marxism
 
 Marxists see society as divided between a ruling class, which owns the means of production, and a
@@ -104,6 +114,11 @@ Marxists put class before gender and miss the specific oppression of women; and 
 family life in societies that called themselves communist suggests families are not purely a
 product of capitalism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-perspectives-on-families--03-marxist-family.webp" width="900" height="685" alt="Four Marxist arguments: Engels on inheritance of property, Althusser on the family as an ideological state apparatus, the family as a unit of consumption, and Zaretsky’s haven that props up capitalism, with evaluation." loading="lazy">
+  <figcaption>For Marxists, the family reproduces class inequality and makes capitalism bearable.</figcaption>
+</figure>
+
 ## Feminisms
 
 The specification says **feminisms**, plural, because feminists disagree.
@@ -120,6 +135,11 @@ private family to public power; but they may underplay change (more equal roles 
 treat women as passive victims, and, in radical versions, see all families as oppressive. Their
 internal debates are themselves good evaluation material.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-perspectives-on-families--04-feminisms.webp" width="900" height="703" alt="A grid of liberal, Marxist, radical and Black or intersectional feminisms, each with its key argument about families and a sociologist: Oakley, Benston, Delphy and Leonard, and bell hooks." loading="lazy">
+  <figcaption>Feminists agree families shape gender inequality but disagree on why.</figcaption>
+</figure>
+
 ## Comparing the three perspectives
 
 | | Functionalism | Marxism | Feminisms |
@@ -129,6 +149,11 @@ internal debates are themselves good evaluation material.
 | Domestic roles | Natural complementary roles | Unpaid reproduction of labour | Exploitation of women |
 | View of change | Families adapt to fit society | Change follows the economy | Change depends on struggle |
 | Main weakness | Ignores conflict | Ignores gender and diversity | May ignore choice and progress |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-perspectives-on-families--05-compare-perspectives.webp" width="900" height="588" alt="A grid comparing functionalism, Marxism and feminisms on who benefits from the family, socialisation, domestic roles, view of change and main weakness." loading="lazy">
+  <figcaption>Ask whose needs the family meets: society’s, capitalism’s or men’s.</figcaption>
+</figure>
 
 ## Worked example: annotated 8-mark paragraph
 
@@ -146,6 +171,11 @@ internal debates are themselves good evaluation material.
 
 The paragraph earns marks by naming the mechanism, the sociologist and the consequence for
 capitalism each time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-perspectives-on-families--06-paragraph-structure.webp" width="900" height="473" alt="Each point names a mechanism, the sociologist and the consequence for capitalism: inheritance of property (Engels) reproduces class inequality; the ideological apparatus (Althusser) legitimises capitalism." loading="lazy">
+  <figcaption>Mechanism, sociologist, consequence: every time.</figcaption>
+</figure>
 
 ## Common mistakes
 

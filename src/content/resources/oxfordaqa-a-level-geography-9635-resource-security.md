@@ -34,6 +34,11 @@ A resource is any part of the environment that people value and can use. The eco
 
 The specification's main classification is **stock** (finite on human timescales, such as fossil fuels, uranium and fossil groundwater) against **flow** (renewed continuously, such as sunlight, wind and river flow). Some flow resources become stock-like when overused: an aquifer pumped faster than it recharges behaves as a finite store.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--01-stock-and-flow.webp" width="900" height="685" alt="Two panels: stock resources such as fossil fuels, uranium and fossil groundwater are finite on human timescales, like a tank with no refill; flow resources such as sunlight, wind and river flow are renewed continuously. A note says an over-pumped aquifer becomes stock-like." loading="lazy">
+  <figcaption>Stock resources run down; flow resources renew, unless used faster than they recharge.</figcaption>
+</figure>
+
 ## Evaluating stock resources
 
 The specification lists four categories: **measured reserves, indicated reserves, inferred resources and possible resources**. These are often shown on a **McKelvey box**, which has two axes:
@@ -51,6 +56,16 @@ This does *not* mean the oil runs out in 20 years. Reserves are revised as explo
 
 **Development over time** follows exploration, exploitation and development. The **resource frontier** moves into harder places -- deep-water fields off Brazil, the Arctic, Canada's oil sands -- as technology and prices allow. **Resource peak** is the point at which output reaches a maximum before declining; the date depends as much on economics and demand as on geology.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--02-mckelvey-box.webp" width="900" height="588" alt="A McKelvey box with geological certainty across the top (measured, indicated, inferred, possible) and economic feasibility down the side. Only well-known, economic material in the top-left is a reserve. An arrow shows material crossing the dashed economic boundary when prices rise or technology improves." loading="lazy">
+  <figcaption>Reserves are only what is both well known and economic; the boundary moves with price and technology.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--03-reserves-to-production.webp" width="900" height="832" alt="Worked ratio: 2,400 million barrels of reserves divided by 120 million barrels a year gives 20 years, but reserves are revised and production changes, so it is only a snapshot. Notes cover development over time and the moving resource frontier, and an illustrative curve shows output rising to a resource peak, then declining." loading="lazy">
+  <figcaption>Twenty years of reserves at today's output is not twenty years until the oil runs out.</figcaption>
+</figure>
+
 ## Environmental impact assessment
 
 The specification links **sustainable resource development** with **environmental impact assessment (EIA)**. A typical EIA works in stages:
@@ -65,6 +80,11 @@ The specification links **sustainable resource development** with **environmenta
 
 Evaluate EIA as a tool: it improves decisions only if it is independent, if consultation genuinely includes affected groups and if monitoring is enforced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--04-eia-stages.webp" width="900" height="791" alt="Seven numbered stages of an environmental impact assessment in sequence: screening, scoping, baseline study, prediction, mitigation, consultation and decision, and monitoring. A note says it only improves decisions if independent, inclusive and enforced." loading="lazy">
+  <figcaption>Seven stages from screening to monitoring; its value depends on independence and enforcement.</figcaption>
+</figure>
+
 ## Physical geography and supply
 
 For both water and energy, the specification asks how **climate, geology and drainage** affect supply in volume and quality.
@@ -77,11 +97,21 @@ For both water and energy, the specification asks how **climate, geology and dra
 
 Iceland shows how one physical setting can lower energy costs: active volcanism gives abundant geothermal energy, and glacial rivers give hydro-electric power, so almost all its electricity comes from renewable sources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--05-physical-controls.webp" width="900" height="812" alt="Schematic cross-section, not to scale: rain and sun above, a steep mountain river with hydro-electric potential, a permeable aquifer beneath a plain, a sedimentary basin holding oil, gas and coal, and a volcano with heat near the surface for geothermal energy. A table summarises climate, geology and drainage controls on water and energy supply." loading="lazy">
+  <figcaption>The same physical controls, climate, geology and drainage, set both water and energy supply.</figcaption>
+</figure>
+
 ## Major schemes and their impacts
 
 **Water -- the Aswan High Dam, Egypt (completed 1970):** it created Lake Nasser, stores water across years to irrigate farmland and generates hydro-electricity. But it traps the Nile's sediment, so the delta has lost its natural supply and parts of the coast have eroded; farmers rely more on artificial fertiliser; and Nubian communities were displaced when the reservoir filled.
 
 **Energy -- the Alberta oil sands, Canada:** extraction by open-pit mining and in-situ steam methods has cleared boreal forest, created large tailings ponds and uses large volumes of water from the Athabasca River. Pipelines carrying the oil to markets have been contested on environmental and Indigenous rights grounds; the Keystone XL extension was cancelled in 2021.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--06-aswan-high-dam.webp" width="900" height="526" alt="Schematic, not to scale: the Nile flows into Lake Nasser behind the Aswan High Dam, where sediment is trapped, so less reaches the delta. Below, benefits (water stored across years, irrigation, hydro-electricity) and costs (delta and coastal erosion, more fertiliser, displaced Nubian communities)." loading="lazy">
+  <figcaption>The dam secures water and power but starves the delta of sediment.</figcaption>
+</figure>
 
 ## Energy in a globalising world
 
@@ -105,6 +135,11 @@ The **first case study** examines water *or* energy issues in a global or region
 *Question: Assess the view that water scarcity inevitably leads to conflict.* **[9]**
 
 > Shared rivers can create tension where upstream states control supply, as with the Grand Ethiopian Renaissance Dam on the Blue Nile, which has caused long-running disputes with Egypt and Sudan over how fast its reservoir is filled **(evidence for)**. However, scarcity also drives cooperation: the Indus Waters Treaty has survived since 1960 despite wider hostility between India and Pakistan **(counter-evidence)**. Within countries, conflict is often local, between farmers and growing cities, and is usually resolved through pricing or allocation rules rather than violence **(scale)**. Technology such as desalination and virtual water trade can reduce pressure **(alternative outcome)**. Scarcity therefore raises the risk of conflict, but institutions and technology decide whether that risk becomes conflict **(judgement)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--07-scarcity-and-conflict.webp" width="900" height="828" alt="Five steps of the model answer: evidence for (the Grand Ethiopian Renaissance Dam dispute), counter-evidence (the Indus Waters Treaty since 1960), scale (local disputes resolved by rules), alternative outcomes (desalination, virtual water) and a judgement that institutions and technology decide whether risk becomes conflict." loading="lazy">
+  <figcaption>Weigh evidence both ways, consider scale and alternatives, then judge.</figcaption>
+</figure>
 
 ## Exam technique
 

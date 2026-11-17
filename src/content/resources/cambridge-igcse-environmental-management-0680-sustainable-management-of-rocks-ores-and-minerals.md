@@ -38,6 +38,16 @@ The definition of a finite resource is about **rates**, not about the total amou
 
 The definition of sustainable management has two halves, and both are needed for full marks: meeting **present** needs, and not compromising **future generations**. A strategy that conserves minerals but leaves people today without housing or jobs does not meet the first half.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-and-minerals--01-rates-and-dispersal.webp" width="900" height="715" alt="Top: rock is replaced by the rock cycle over millions of years but extracted at tonnes per day, so use far outpaces replacement. Bottom: metal concentrated in ore is spread out by use into products, waste and landfill, where it is much harder to recover." loading="lazy">
+  <figcaption>Use is far faster than replacement, and used metal ends up spread out and hard to recover.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--21-ro-finite-sustainable.webp" width="900" height="980" alt="Two tanks of water stand for a resource. A finite resource is used up at a faster rate than it is replaced, so the tank runs low. Sustainable management uses strategies that ensure the needs of the present are met without compromising the ability of future generations to meet their own. The seven strategies are shown as groups: take out less (reduce and reuse, efficient extraction, alternative materials, avoiding depletion), put material back (recycling), and make it work (legislation and enforcement). Tank levels and flows are illustrative." loading="lazy">
+  <figcaption>Finite resource versus sustainable management shown as tank flows, with the seven strategies grouped (grouping is a teaching aid).</figcaption>
+</figure>
+
 ## The seven strategies
 
 ### 1. Reduce and reuse
@@ -93,6 +103,26 @@ Replacing a scarce material with another that does the same job. Examples includ
 - Benefits: reduces demand for a scarce mineral; the alternative may be lighter, cheaper or better.
 - Limitations: the alternative may itself be finite or harmful (plastics are made from petroleum); it may be more expensive or perform less well; switching may need new equipment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-and-minerals--02-reduce-reuse-recycle.webp" width="900" height="575" alt="Three columns. Reduce: use less, such as thinner cans, lighter car parts and longer-lasting goods. Reuse: use the object again without processing, such as reclaimed bricks, refillable bottles and repaired electronics. Recycle: process waste into raw material, such as melting cans, recovering copper and crushing concrete." loading="lazy">
+  <figcaption>Reuse keeps the object; recycling turns it back into raw material.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-and-minerals--03-recycling-conditions.webp" width="900" height="612" alt="Accessibility (nearby collection), ease (simple sorting and labelled bins) and education (knowing what, how and why) all lead to more material being recycled. Recycling reduces demand for new ore, usually saves energy and cuts landfill, but costs money and energy, struggles with mixed materials and contamination, and can only supply what is thrown away." loading="lazy">
+  <figcaption>Accessibility, ease and education decide how much is actually recycled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-and-minerals--04-seven-strategies-weighed.webp" width="900" height="715" alt="One benefit and one limitation for each of the seven strategies: reduce and reuse, recycling, efficient extraction, avoiding depletion, legislation, enforcement and alternative materials. For example, legislation applies to everyone but has no effect unless enforced." loading="lazy">
+  <figcaption>Every strategy has a benefit and a limitation; legislation needs enforcement to work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-and-minerals--05-alternative-materials.webp" width="900" height="625" alt="Three swaps: fibre-optic glass cables replace copper telecom cables, plastic pipes replace copper pipes, and recycled crushed concrete replaces newly quarried rock. Alternatives cut demand for scarce minerals and may be lighter or cheaper, but may themselves be finite or harmful, cost more or need new equipment." loading="lazy">
+  <figcaption>Swapping materials eases demand for scarce minerals, but the substitute has its own costs.</figcaption>
+</figure>
+
 ## Worked example 1: how long will a reserve last?
 
 A country has a known reserve of 600 million tonnes of an ore and extracts 20 million tonnes a year. (Figures invented for practice.)
@@ -101,6 +131,11 @@ A country has a known reserve of 600 million tonnes of an ore and extracts 20 mi
 - If recycling and reduction meet one quarter of demand, new extraction falls to 20 × 0.75 = 15 million tonnes a year, and the reserve lasts 600 ÷ 15 = **40 years**.
 
 Two points earn credit in interpretation: the strategies **extend** the life of the reserve but do not make the resource renewable, and the estimate assumes demand stays the same. If demand rises, the reserve runs out sooner.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-and-minerals--06-reserve-lifetime.webp" width="900" height="655" alt="A graph of a 600 million tonne reserve. Extracting 20 million tonnes a year empties it in 30 years; if recycling and reduction meet a quarter of demand, extraction falls to 15 million tonnes a year and it lasts 40 years. The estimate assumes demand stays the same." loading="lazy">
+  <figcaption>Cutting extraction from 20 to 15 Mt a year stretches the reserve from 30 to 40 years.</figcaption>
+</figure>
 
 ## Worked example 2: does making recycling easier work?
 
@@ -111,6 +146,11 @@ A town's households throw away 18,000 tonnes of metal waste a year. Before a ker
 - Increase in mass recycled: (7,200 − 4,500) ÷ 4,500 × 100 = **60%**.
 
 This supports the syllabus point that **accessibility** and **ease** raise recycling. A good answer adds that 60% of the metal is still not recycled, which suggests a need for **education** as well.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-and-minerals--07-recycling-scheme.webp" width="900" height="570" alt="Two bars out of 18,000 tonnes of metal waste. Before a kerbside scheme 4,500 tonnes (25%) were recycled; after it, 7,200 tonnes (40%). The mass recycled rose by 60%, but 60% of the metal is still not recycled, suggesting education is also needed." loading="lazy">
+  <figcaption>Recycling rose from 25% to 40%, a 60% increase in mass, but most metal is still not recycled.</figcaption>
+</figure>
 
 ## Worked example 3: an annotated discuss answer
 

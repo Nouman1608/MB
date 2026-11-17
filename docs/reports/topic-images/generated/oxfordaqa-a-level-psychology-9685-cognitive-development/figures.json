@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-cognitive-development--01-piaget-stages-tasks.webp",
+  "width": 900,
+  "height": 770,
+  "after": "## Piaget's stages and the tasks behind them",
+  "alt": "Four rising steps: sensorimotor (0-2), pre-operational (2-7), concrete operational (7-11) and formal operational (11+). Rows give the tasks: object permanence at about 8 months, the three mountains task for egocentrism, liquid conservation, class inclusion with beads, logical reasoning about concrete objects, and abstract reasoning in the formal stage.",
+  "caption": "Each stage is defined by what children can and cannot do on Piaget’s tasks.",
+  "bytes": 137256
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-cognitive-development--02-challenges-to-piaget.webp",
+  "width": 900,
+  "height": 654,
+  "after": "## Challenges to Piaget's methods",
+  "alt": "Hughes (1975): about 90 percent of children aged three and a half to five hid a boy doll from policeman dolls. McGarrigle and Donaldson (1974): about 62 percent of four to six year olds conserved number when a naughty teddy disarranged the counters, against 16 percent when the experimenter did it. These support Piaget's sequence but challenge his ages.",
+  "caption": "Tasks that make sense to children reveal abilities earlier than Piaget claimed.",
+  "bytes": 115700
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-cognitive-development--03-baillargeon-carrots.webp",
+  "width": 900,
+  "height": 764,
+  "after": "## Baillargeon's violation of expectation research",
+  "alt": "Two schematic scenes: a short carrot slides behind a screen below its window and is never seen; a tall carrot should appear in the window but does not. Infants of about three and a half months looked longer at the impossible tall-carrot event, suggesting object permanence earlier than Piaget claimed, though longer looking may only reflect novelty.",
+  "caption": "Longer looking at the impossible event suggests infants expected the carrot to exist.",
+  "bytes": 112058
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-cognitive-development--04-scaffolding-and-speech.webp",
+  "width": 900,
+  "height": 727,
+  "after": "## Vygotsky's theory",
+  "alt": "Scaffolding from a more knowledgeable other fades from direct demonstration to hints to encouragement until the child works alone. Language moves from social speech to private speech to inner speech, a tool of thought. Vygotsky's ideas shaped guided group work and peer tutoring, but the ZPD is hard to measure.",
+  "caption": "Support fades as competence grows; speech turns inward and becomes thought.",
+  "bytes": 99136
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-cognitive-development--05-sally-anne.webp",
+  "width": 900,
+  "height": 747,
+  "after": "## Social cognition",
+  "alt": "Four steps: Sally puts a marble in her basket, leaves, Anne moves it to her box, and children are asked where Sally will look (correct answer: the basket). Bars: about 85 percent of typically developing children and 86 percent of children with Down syndrome answered correctly, against 20 percent of autistic children.",
+  "caption": "Most autistic children failed the false-belief question that other groups passed.",
+  "bytes": 110704
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-cognitive-development--06-mirror-neurons.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## Social cognition",
+  "alt": "The same mirror neurons fire when performing an action and when watching someone else perform it. In humans a similar system is proposed to support understanding of actions and intentions, theory of mind and empathy. Brain imaging supports this, but most recordings come from monkeys and Hickok (2009) argues the role is overstated.",
+  "caption": "Neurons that fire for doing and for watching may help us read others.",
+  "bytes": 92742
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-cognitive-development--07-noor-application.webp",
+  "width": 900,
+  "height": 560,
+  "after": "## Worked example: an application answer",
+  "alt": "Six rows: three Piaget points (pre-operational stage and no conservation, centration on height, disequilibrium leading to accommodation) and three Vygotsky points (the teacher as more knowledgeable other, scaffolding within the ZPD, support withdrawn as Noor becomes competent), each applied to the scenario.",
+  "caption": "Three Piaget points for Noor, three Vygotsky points for the teacher.",
+  "bytes": 104090
+ }
+]

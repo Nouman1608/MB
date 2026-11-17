@@ -56,6 +56,11 @@ still keep it open. Two broad families of answers compete:
 Strong answers also use **contingent or material explanations**, such as geography and access to
 energy, which fit neither camp neatly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-the-great-divide--01-explanation-types.webp" width="900" height="482" alt="Three kinds of explanation for the Great Divergence: internal (modernisation theory, Weber), external or relational (dependency, enslavement, imperialism) and contingent or material (geography, energy), with the debate over when the gap opened." loading="lazy">
+  <figcaption>Ask whether Europe’s rise came from within, from others, or from circumstance.</figcaption>
+</figure>
+
 ## Imperialism: from trade to rule
 
 **Exploration and trade.** Portuguese voyages around Africa, Columbus's crossing of the Atlantic in
@@ -83,6 +88,16 @@ sociologist, has argued that structural adjustment programmes imposed by the Int
 Monetary Fund and World Bank from the 1980s opened poorer economies to foreign competition on unequal
 terms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-the-great-divide--02-imperialism-timeline.webp" width="900" height="630" alt="A timeline from voyages of exploration in 1492–1498 and the chartered East India Companies, through the Atlantic slave trade and nineteenth-century colonial rule, to neocolonial influence after 1945 through debt and loan conditions." loading="lazy">
+  <figcaption>European control moved from trade, to enslavement and rule, to debt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-the-great-divide--03-colonial-economy.webp" width="900" height="460" alt="A chain showing colonial economies built around mines and plantations, railways running to ports, raw materials exported and manufactured goods imported, with Indian deindustrialisation and Rodney on the slave trade’s effects on Africa." loading="lazy">
+  <figcaption>Colonies were organised to supply raw materials, not to develop.</figcaption>
+</figure>
+
 ## Industrialisation, urbanisation and capitalism
 
 **Karl Polanyi** (*The Great Transformation*, 1944) argued that nineteenth-century Britain created
@@ -105,6 +120,11 @@ work, creating crowded cities with high death rates before public health reforms
 today's rapidly urbanising societies are useful in exams, but note that many cities in less
 developed countries have grown without equivalent industrial employment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-the-great-divide--04-polanyi-braudel.webp" width="900" height="621" alt="Polanyi’s chain from market society and fictitious commodities to social dislocation and a protective double movement, and Braudel’s three layers of economic life: material life, the market economy and capitalism at the top." loading="lazy">
+  <figcaption>Polanyi and Braudel give the divergence long roots in market society and trade.</figcaption>
+</figure>
+
 ## Why Europe industrialised: deepening the four explanations
 
 | Explanation | Core claim | Extra depth for evaluation |
@@ -120,6 +140,11 @@ that poor countries can be caught in a **poverty trap** without outside investme
 and James Robinson (*Why Nations Fail*, 2012) argue that colonial powers built **extractive
 institutions** in some colonies, which persisted after independence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-the-great-divide--05-four-explanations.webp" width="900" height="727" alt="A grid of modernisation theory, Weber’s Protestant work ethic, dependency theory and enslavement, each with its core claim and extra evaluation such as McClelland, rationalisation, Frank and Wallerstein, and Drescher. Sachs and Acemoglu and Robinson are also credited." loading="lazy">
+  <figcaption>Each explanation has a core claim and a point that complicates it.</figcaption>
+</figure>
+
 ## Legacies of colonialism and enslavement
 
 - **Economic**: dependence on a narrow range of primary exports; infrastructure built for
@@ -130,6 +155,11 @@ institutions** in some colonies, which persisted after independence.
   and government; diasporas created by forced and indentured migration.
 - **Example**: after the Haitian Revolution (1791–1804), France demanded a large indemnity in 1825
   for recognising Haitian independence, a burden that weighed on Haiti's economy for generations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-the-great-divide--06-legacies.webp" width="900" height="473" alt="Economic, political and social or cultural legacies of colonialism and enslavement, with the example of the indemnity France demanded from Haiti in 1825." loading="lazy">
+  <figcaption>Colonial legacies persist in economies, borders and cultures.</figcaption>
+</figure>
 
 ## Factors and changes associated with development
 
@@ -151,6 +181,11 @@ or with growing inequality.
   and merchant capitalism; Sachs and others stress geography and resources (**evaluation**).
 - **Judgement**: enslavement was a significant contributor to Britain's lead but works best
   combined with institutional and material explanations (**conclusion**).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-the-great-divide--07-essay-plan.webp" width="900" height="614" alt="A three-step plan for a 12-mark answer: evidence for enslavement as the explanation, counter-arguments from Drescher, Weber, Polanyi, Braudel and Sachs, and a combined judgement." loading="lazy">
+  <figcaption>Weigh enslavement against values, institutions and geography, then judge.</figcaption>
+</figure>
 
 ## Common mistakes
 

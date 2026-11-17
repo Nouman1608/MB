@@ -31,6 +31,16 @@ The [research methods study guide](/resources/aqa-gcse-sociology-8192-research-m
 
 Sociologists study people, often about private, painful or illegal parts of their lives. Research can affect participants' wellbeing, reputations and relationships. Ethical guidelines protect participants, protect the reputation of research so that people continue to take part, and protect researchers themselves. In the UK, sociologists follow the British Sociological Association's Statement of Ethical Practice, and universities usually require research plans to be approved by an ethics committee before work begins.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-ethical-issues--01-why-ethics.webp" width="900" height="603" alt="Ethical guidelines protect three things: participants, the reputation of research so people keep taking part, and researchers themselves. Below, UK sociologists follow the British Sociological Association’s Statement of Ethical Practice, and ethics committees approve plans first." loading="lazy">
+  <figcaption>Ethics protect participants, the reputation of research and researchers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-ethical-issues--02-three-issues.webp" width="900" height="583" alt="A grid of the three ethical issues in the specification. For consent, confidentiality and harm it shows what each means, where it is hardest to manage, and practical ways to address it, such as information sheets, pseudonyms and debriefing." loading="lazy">
+  <figcaption>For each issue, know where it is hard and what a researcher would actually do.</figcaption>
+</figure>
+
 ## Consent
 
 ### What it means
@@ -74,6 +84,11 @@ Sociologists study people, often about private, painful or illegal parts of thei
 - Report findings in a way that prevents identification, for example combining small groups.
 - Explain the limits of confidentiality before research begins.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-ethical-issues--03-confidentiality-anonymity.webp" width="900" height="506" alt="Two panels. Confidentiality means not revealing information in a way that identifies people, for example by using pseudonyms. Anonymity means identity is not recorded at all, so not even the researcher can link answers to a person, as with anonymous questionnaires. Below, the limit for disclosures of abuse." loading="lazy">
+  <figcaption>Confidentiality hides what people said; anonymity means their identity is never recorded.</figcaption>
+</figure>
+
 ## Harm to participants
 
 ### What it means
@@ -96,6 +111,11 @@ Research must not damage participants **physically**, **emotionally** (psycholog
 - Protect identities to avoid social and legal harm.
 - Consider harm to the researcher too, for example in dangerous settings.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-ethical-issues--04-four-harms.webp" width="900" height="518" alt="Four cards: physical harm, emotional harm from distressing topics, social harm to relationships or reputation, and legal harm such as exposure to arrest. Below, ways to reduce harm: piloting, letting people skip or stop, debriefing, support contacts and protecting identities." loading="lazy">
+  <figcaption>Harm can be physical, emotional, social or legal; each has practical safeguards.</figcaption>
+</figure>
+
 ## Covert research: the central debate
 
 Covert observation breaks informed consent and often involves **deception**. So why do some sociologists use it?
@@ -112,6 +132,11 @@ Covert observation breaks informed consent and often involves **deception**. So 
 - It can damage the reputation of research and make other groups less willing to take part.
 
 **Possible compromises:** protecting identities carefully; seeking consent after the observation ends, before publishing; using covert methods only when no open method could work and the benefits are significant. Many ethics committees allow covert research only in exceptional cases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-ethical-issues--05-covert-debate.webp" width="900" height="809" alt="A balance weighs the value of the knowledge against the ethical costs. For covert research: it may be the only way to study some groups, behaviour is natural and the knowledge may benefit society. Against: deception, illegal acts, harm and damage to research’s reputation. Below, compromises such as consent before publishing." loading="lazy">
+  <figcaption>Weigh the value of the knowledge against the ethical cost; never just say “unethical”.</figcaption>
+</figure>
 
 ## Applying ethics to specific areas of research
 
@@ -130,6 +155,11 @@ Covert observation breaks informed consent and often involves **deception**. So 
 > For **consent**, the researcher should give teenagers and their parents an information sheet, gain written consent from both, and make clear the teenager can withdraw at any time. For **confidentiality**, she should use pseudonyms, avoid naming the school, and store recordings securely in line with data protection law, while explaining that she would have to pass on information if a young person disclosed they were at serious risk. For **harm**, she should let participants skip questions about painful experiences, end with a debrief, and provide contacts for support services.
 
 This answer addresses all three issues the specification names, gives specific actions, and fits them to the topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-ethical-issues--06-explain-how-answer.webp" width="900" height="591" alt="Three rows map a model answer about interviewing teenagers on cyberbullying. Consent: information sheets, written consent from teenagers and parents and the right to withdraw. Confidentiality: pseudonyms, not naming the school and secure storage. Harm: skipping questions, debriefing and support contacts." loading="lazy">
+  <figcaption>Name each issue, then give a specific action that fits the topic.</figcaption>
+</figure>
 
 ## Common mistakes
 

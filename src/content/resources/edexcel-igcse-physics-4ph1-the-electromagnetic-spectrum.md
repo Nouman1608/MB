@@ -63,6 +63,11 @@ All EM waves travel at the **same speed in free space** (a vacuum),
 used in air. Because v is fixed, v = f × λ means that a shorter
 wavelength always goes with a higher frequency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-the-electromagnetic-spectrum--01-em-spectrum-order.webp" width="900" height="810" alt="A continuous band of seven regions in order: radio waves, microwaves, infrared, visible light, ultraviolet, x-rays and gamma rays. From left to right the wavelength decreases and the frequency increases. All travel at 3.0 × 10⁸ m/s in free space, so by v = f × λ a shorter wavelength means a higher frequency." loading="lazy">
+  <figcaption>Radio to gamma: wavelength down, frequency up, same speed in free space.</figcaption>
+</figure>
+
 ## The order (3.11)
 
 In order of **decreasing wavelength** and **increasing frequency**:
@@ -97,6 +102,16 @@ x-ray: f = 3.0 × 10⁸ / 1.0 × 10⁻¹⁰ = 3.0 × 10¹⁸ Hz
 
 The x-ray frequency is 1.5 × 10¹³ times larger, because its wavelength is
 that many times shorter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-the-electromagnetic-spectrum--02-visible-spectrum.webp" width="900" height="550" alt="The visible spectrum from red at about 700 nm through orange, yellow, green, blue and indigo to violet at about 400 nm, with wavelength decreasing and frequency increasing. Infrared lies next to red and ultraviolet next to violet." loading="lazy">
+  <figcaption>Red sits next to infrared; violet sits next to ultraviolet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-the-electromagnetic-spectrum--03-frequency-comparison.webp" width="900" height="570" alt="A radio wave of wavelength 1500 m has f = 3.0 × 10⁸ / 1500 = 2.0 × 10⁵ Hz. An x-ray of wavelength 1.0 × 10⁻¹⁰ m has f = 3.0 × 10¹⁸ Hz. The x-ray frequency is 1.5 × 10¹³ times larger because its wavelength is that many times shorter." loading="lazy">
+  <figcaption>Same speed, so f = v / λ: a far shorter wavelength gives a far higher frequency.</figcaption>
+</figure>
 
 ## Uses and why each works (3.12)
 
@@ -135,6 +150,16 @@ a property.
   penetrate packaging and kill bacteria and other microorganisms, so
   equipment can be sterilised after it is sealed, without heating it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-the-electromagnetic-spectrum--04-uses.webp" width="900" height="824" alt="A table of uses: radio waves for broadcasting and communications; microwaves for cooking and satellite transmissions; infrared for heaters and night vision; visible light for optical fibres and photography; ultraviolet for fluorescent lamps; x-rays for seeing internal structure; gamma rays for sterilising food and medical equipment. Each is paired with the property that makes it suitable." loading="lazy">
+  <figcaption>For each use, give the property of the radiation that makes it work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-the-electromagnetic-spectrum--05-x-ray-imaging.webp" width="900" height="570" alt="X-rays from a source pass through the soft tissue of an arm and reach a detector, but are absorbed by the denser bone. The detector records where x-rays pass and where they are stopped, giving an image of the bone." loading="lazy">
+  <figcaption>X-rays pass through soft tissue but are absorbed by bone.</figcaption>
+</figure>
+
 ## Harmful effects and protection (3.13)
 
 | Radiation | Effect of excessive exposure | Simple protective measures |
@@ -160,6 +185,11 @@ much smaller [1]."
 
 *Why it scores:* it names the specific harm from 3.13 and links the
 measure to how it reduces exposure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-the-electromagnetic-spectrum--06-hazards-protection.webp" width="900" height="686" alt="A table. Microwaves cause internal heating of body tissue; ovens have a metal case and door mesh and switch off when opened. Infrared causes skin burns; keep a distance and use guards and gloves. Ultraviolet damages surface cells and can cause blindness; use sunscreen, clothing, hats and UV-blocking sunglasses. Gamma rays cause cancer and mutation; use lead or concrete shielding, distance, limited time and dose badges. Higher frequency is broadly more harmful." loading="lazy">
+  <figcaption>Name the specific harm, then the measure that cuts exposure to it.</figcaption>
+</figure>
 
 ## Common mistakes
 

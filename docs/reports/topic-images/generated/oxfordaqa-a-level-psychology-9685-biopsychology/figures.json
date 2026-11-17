@@ -1,0 +1,56 @@
+[
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-biopsychology--01-nervous-system.webp",
+  "width": 900,
+  "height": 617,
+  "after": "## Divisions of the nervous system",
+  "alt": "A tree: the nervous system divides into the central nervous system (brain and spinal cord) and the peripheral nervous system; the peripheral divides into somatic (voluntary movement and sensory information) and autonomic (involuntary control of organs and glands); the autonomic divides into sympathetic (fight or flight) and parasympathetic (rest and digest), which work antagonistically.",
+  "caption": "The autonomic system sits in the PNS and has two opposing branches.",
+  "bytes": 100438
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-biopsychology--02-neurons-reflex-arc.webp",
+  "width": 900,
+  "height": 727,
+  "after": "## Neurons",
+  "alt": "Three schematic neurons: sensory (long dendrites, short axon, cell body to one side) carries impulses from receptors to the CNS; relay (short dendrites, short axon) connects neurons within the CNS; motor (short dendrites, long myelinated axon) carries impulses to muscles and glands. A reflex arc runs pain receptor, sensory, relay, motor, withdrawing the hand before the brain registers pain.",
+  "caption": "Sensory, relay, motor: the order of a reflex arc.",
+  "bytes": 94920
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-biopsychology--03-synaptic-transmission.webp",
+  "width": 900,
+  "height": 950,
+  "after": "## Synaptic transmission",
+  "alt": "A schematic synapse: vesicles in the presynaptic terminal release neurotransmitter into the synaptic cleft, it diffuses across and binds to receptor sites on the postsynaptic neuron, and transmission is one-way. Five numbered steps end with removal by reuptake or enzymes. Excitatory neurotransmitters make firing more likely, inhibitory ones less likely, and summation decides whether threshold is reached.",
+  "caption": "Release, diffuse, bind, change charge, remove: in one direction only.",
+  "bytes": 161806
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-biopsychology--04-fight-or-flight.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## The fight or flight response",
+  "alt": "A chain from the amygdala detecting a threat, to the hypothalamus, to the sympathetic branch, to the adrenal medulla releasing adrenaline, which raises heart rate and blood pressure, speeds breathing, dilates pupils, releases glucose, diverts blood to muscles and inhibits digestion. The parasympathetic branch restores rest. Evaluation: mismatch with modern stressors, Gray's freeze response and Taylor et al.'s tend and befriend.",
+  "caption": "Amygdala to hypothalamus to sympathetic nerves to adrenaline, then back to rest.",
+  "bytes": 131936
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-biopsychology--05-split-brain.webp",
+  "width": 900,
+  "height": 708,
+  "after": "## Hemispheric lateralisation and split-brain research",
+  "alt": "An image flashed to the right visual field goes to the left hemisphere and can be named; one flashed to the left visual field goes to the right hemisphere and cannot be named, though the left hand can pick it out by touch. The corpus callosum is cut, so the hemispheres cannot share the information. The procedure was controlled but samples were small and unusual.",
+  "caption": "Right visual field to the left hemisphere: only that side can name what it saw.",
+  "bytes": 115704
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-biopsychology--06-plasticity-recovery.webp",
+  "width": 900,
+  "height": 762,
+  "after": "## Plasticity and functional recovery",
+  "alt": "Illustrative bars show the posterior hippocampus larger in London taxi drivers than controls, and larger still with more years in the job (Maguire et al., 2000). Four recovery mechanisms after trauma: axonal sprouting, recruitment of homologous areas, reformation of blood vessels and denervation supersensitivity; recovery is greater in younger people and with rehabilitation.",
+  "caption": "The brain changes with experience and can reorganise after damage.",
+  "bytes": 134194
+ }
+]

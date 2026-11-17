@@ -46,6 +46,11 @@ The question asks *how secure*, so keep a running judgement. Soviet control rest
 loyal to Moscow, secret police, the Warsaw Pact (1955) and Comecon. Each crisis showed that control survived when
 Moscow was willing to use force, and collapsed in 1989 when it was not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-ussr-control-eastern-europe--01-crises-timeline.webp" width="900" height="568" alt="A timeline from 1953 to 1989 drawn to scale: the Secret Speech (February 1956), the invasion of Hungary (November 1956), the Berlin Wall (August 1961), the invasion of Czechoslovakia (August 1968), Solidarity (August 1980), martial law (December 1981), Gorbachev (1985) and the opening of the Wall (November 1989). Below, the tools of control and the judgement: secure only by force." loading="lazy">
+  <figcaption>Every crisis was settled by force, until Moscow stopped using it.</figcaption>
+</figure>
+
 ## Hungary, 1956
 
 **Why opposition grew.** Rákosi's Stalinist rule brought secret police terror (the ÁVH), forced collectivisation,
@@ -63,6 +68,11 @@ was installed as leader and Nagy was later tried and executed (1958).
 **Why the USSR reacted so harshly.** Leaving the Warsaw Pact threatened the whole buffer zone: if Hungary went, others
 might follow. The West was divided by the **Suez Crisis**, and despite encouragement from western radio broadcasts,
 the USA would not risk war in the Soviet sphere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-ussr-control-eastern-europe--02-hungary-1956.webp" width="900" height="780" alt="Grievances under Rákosi and hope from de-Stalinisation lead to three steps: demonstrations on 23 October 1956, the announcement on 1 November that Hungary would leave the Warsaw Pact (highlighted), and the Soviet invasion of 4 November. A note: leaving the Pact threatened the buffer zone, and the West, divided by Suez, did not act." loading="lazy">
+  <figcaption>Announcing withdrawal from the Warsaw Pact brought the tanks.</figcaption>
+</figure>
 
 ## Czechoslovakia, 1968
 
@@ -94,6 +104,11 @@ in any member state.
 Both ended in invasion and a hard-line leader, and both proved the West would not intervene. The key difference is
 that Hungary challenged Soviet security directly, while Czechoslovakia challenged the model of communism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-ussr-control-eastern-europe--03-hungary-czech.webp" width="900" height="671" alt="A comparison grid of Hungary 1956 and Czechoslovakia 1968 by trigger, leaders' aims, invaders, resistance, result and Western response. Both ended in invasion and a hard-line leader without Western action; the key difference is that Hungary threatened Soviet security while Czechoslovakia challenged the model of communism." loading="lazy">
+  <figcaption>Same outcome, different challenge: security in 1956, the model of communism in 1968.</figcaption>
+</figure>
+
 ## Why was the Berlin Wall built in 1961?
 
 East Germans could cross freely into West Berlin and from there to West Germany. Millions left between 1949 and 1961,
@@ -106,6 +121,11 @@ concrete wall with watchtowers and a "death strip".
 **Significance.** The exodus stopped and East Germany stabilised. But the Wall became the clearest symbol of
 communism's failure: a system that had to imprison its own people. Kennedy's visit in June 1963 showed the West would
 defend West Berlin, but also accepted the division.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-ussr-control-eastern-europe--04-berlin-wall.webp" width="900" height="571" alt="A chain: millions of often skilled East Germans leave through Berlin (1949-61), draining the economy; Khrushchev's demands and the Vienna meeting fail; the border is sealed on 12-13 August 1961. Below, the Wall stabilised East Germany but became a symbol of failure; its purpose was to stop emigration." loading="lazy">
+  <figcaption>The Wall saved East Germany's economy at the cost of communism's image.</figcaption>
+</figure>
 
 ## Solidarity in Poland
 
@@ -121,6 +141,11 @@ in 1983, and economic failure continued.
 **Significance.** Solidarity showed that millions of workers, the class communism claimed to represent, rejected the
 system. In 1989, round-table talks led to partly free elections in June, which Solidarity won overwhelmingly, and a
 non-communist prime minister took office. Poland was the first domino of 1989, and the USSR did not intervene.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-ussr-control-eastern-europe--05-solidarity.webp" width="900" height="568" alt="A timeline from 1978 to 1989 drawn to scale: a Polish pope (1978) and his visit (1979), the Gdańsk strikes and legal Solidarity (August 1980), martial law (December 1981), Wałęsa's Nobel Prize (1983) and Solidarity's election victory (June 1989). Below, its roughly ten million members and its role as the first domino of 1989." loading="lazy">
+  <figcaption>Solidarity survived repression and became the first domino of 1989.</figcaption>
+</figure>
 
 ## How far was Gorbachev responsible for the collapse of Soviet control?
 
@@ -142,6 +167,11 @@ communist governments fell in Czechoslovakia, Bulgaria and Romania by the end of
 **Judgement.** Gorbachev did not plan the collapse; he hoped to reform communism. But his refusal to use force was
 the condition that let the long-term pressures succeed, so many answers argue he was the essential trigger rather than
 the sole cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-ussr-control-eastern-europe--06-gorbachev.webp" width="900" height="668" alt="A hub with the collapse of control in 1989 at the centre. Gorbachev's refusal to use force is highlighted, with long-term reliance on force, the war in Afghanistan, economic stagnation and popular movements around it. A judgement: he hoped to reform communism, but his refusal to use force let the other pressures succeed." loading="lazy">
+  <figcaption>Gorbachev was the essential trigger; long-term weakness made collapse possible.</figcaption>
+</figure>
 
 ## Worked example: a (b) answer
 

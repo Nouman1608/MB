@@ -36,6 +36,11 @@ A **social construct** is something whose meaning is created by people in a soci
 
 Some acts are both (assault). Some are deviant but legal (picking your nose at a job interview). Some are illegal but widely tolerated (minor speeding). The overlap is never fixed, which is exactly the point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--01-crime-deviance-social-construction.webp" width="900" height="833" alt="Two overlapping circles: crime breaks the law, deviance breaks social norms, and some acts are both. Below, three cards show that what counts as crime or deviance varies between societies, over time and by situation, such as killing in peacetime versus war." loading="lazy">
+  <figcaption>Crime and deviance are defined by people with power, so they change with society, time and situation.</figcaption>
+</figure>
+
 ## Three ways definitions vary
 
 ### Over time
@@ -58,6 +63,11 @@ The same act can be legal in one country and a serious crime in another. The leg
 
 The context changes the meaning. Killing is murder in peacetime but may be honoured as duty in war. Nudity is deviant in a supermarket but normal in a changing room. Shouting is deviant in a library and expected at a football match.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-social-construction-of-crime-and-deviance--01-changing-laws.webp" width="900" height="709" alt="A timeline of legal change in England and Wales: 1967, the breathalyser and drink-drive limit, and the partial decriminalisation of sex between men in private; 1983, seat belts; 1991, the ruling that a husband can be guilty of raping his wife; 2007, the smoking ban in enclosed public places." loading="lazy">
+  <figcaption>New definitions, not new acts, create or remove crimes.</figcaption>
+</figure>
+
 ## Who makes the definitions?
 
 If crime is a social definition, sociologists ask who has the power to define it. Laws are made by Parliament and enforced by agents of social control such as the police and courts. This links 3.5.1 to the perspectives the specification lists.
@@ -74,6 +84,11 @@ The specification lists five kinds of explanation. Learn which sociologist or pe
 | **Labelling** | An act becomes deviant when others label it so | Becker |
 | **Interactionist theory** | Deviance is created through interaction between offenders and those who react to them | Becker |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-social-construction-of-crime-and-deviance--02-five-explanations.webp" width="900" height="695" alt="Five explanations named in the specification: anomie and structural theories linked to Merton (and Marxists for structure); subcultural theories linked to Albert Cohen; labelling and interactionist theory linked to Becker. Below, Merton is a functionalist, and Becker should not be confused with Cohen." loading="lazy">
+  <figcaption>Learn which sociologist or perspective each explanation belongs to.</figcaption>
+</figure>
+
 ## Merton on the causes of crime
 
 Robert K. Merton, writing from a functionalist perspective, argued that deviance results from the **culture and structure** of society. He started from **value consensus**: everyone shares the goal of success. But people hold different positions in the social structure, for example by class, so they do not have the same opportunity to reach that goal by legitimate means.
@@ -89,6 +104,11 @@ Merton described five responses. The specification adds detail on who is most li
 - **Rebellion:** people who reject and replace both goals and means, wanting a new society; Merton saw them as typically members of a "rising" social class who may attempt revolution.
 
 **Criticisms:** Merton ignores power relations, such as who makes laws and who benefits from them; assumes a value consensus exists; is deterministic, failing to explain why only some people who experience anomie turn to crime; and exaggerates working-class crime while underestimating white collar crime.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-social-construction-of-crime-and-deviance--03-merton.webp" width="900" height="957" alt="Everyone shares the goal of success but class limits access to legitimate means; American society stressed success over means, producing anomie. A table shows five responses: conformity accepts both; innovation accepts goals but not means and is most likely lower down society; ritualism rejects goals but keeps the rules; retreatism rejects both; rebellion replaces both. Below, criticisms." loading="lazy">
+  <figcaption>Innovation, accepting the goal but rejecting the means, is Merton’s main explanation of crime.</figcaption>
+</figure>
 
 ## Becker on the causes of crime
 
@@ -107,6 +127,16 @@ Becker also used the term **moral entrepreneurs** for individuals and groups who
 
 **Criticisms:** labelling does not explain why people commit the first deviant act; it can seem to treat offenders as victims of labels; and some people resist labels rather than accepting them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-social-construction-of-crime-and-deviance--04-moral-entrepreneurs.webp" width="900" height="446" alt="A chain: moral entrepreneurs campaign for a new rule; the rule is created; rule-breakers are then labelled by agents of social control. Below, criticisms of labelling: it does not explain the first act, may treat offenders as victims, and ignores people who resist labels." loading="lazy">
+  <figcaption>Deviance needs a rule-maker before it needs a rule-breaker.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--03-becker-labelling.webp" width="900" height="838" alt="Five linked steps: an act is labelled deviant by others; whether the label sticks depends on who, when, where and who sees it, with police and courts holding power; the label becomes a master status; the person accepts it as a self-fulfilling prophecy; rejection leads to a deviant career and joining an organised deviant group." loading="lazy">
+  <figcaption>For Becker, deviance is created by the label, not by the act itself.</figcaption>
+</figure>
+
 ## The four perspectives compared
 
 | Perspective | View of how crime and deviance are constructed |
@@ -115,6 +145,11 @@ Becker also used the term **moral entrepreneurs** for individuals and groups who
 | **Marxist** | Laws are made in the interests of the ruling class, such as protecting private property, and are enforced more harshly against the working class. Crimes of the powerful, such as corporate crime, are less often defined or prosecuted as crime. |
 | **Feminist** | Definitions of crime have reflected men's power. The 1991 ruling on rape in marriage shows how long some harms to women were not treated as crimes. |
 | **Interactionist** | Deviance is created by the reaction to an act, not the act itself (Becker). |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-social-construction-of-crime-and-deviance--05-four-perspectives.webp" width="900" height="556" alt="Four cards. Functionalists: rules reflect consensus, Durkheim saw some crime as useful, Merton explains crime by strain. Marxists: laws serve the ruling class and corporate crime is rarely prosecuted. Feminists: definitions reflected men’s power, as the 1991 marital rape ruling shows. Interactionists: deviance is created by the reaction to an act." loading="lazy">
+  <figcaption>Each perspective answers who has the power to define crime differently.</figcaption>
+</figure>
 
 ## Worked example: an annotated 4-mark answer
 

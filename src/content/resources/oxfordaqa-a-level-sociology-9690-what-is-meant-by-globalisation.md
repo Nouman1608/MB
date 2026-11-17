@@ -37,6 +37,11 @@ Examiners reward a definition that says *what changes*, not just "the world gett
 
 A useful way to organise any answer is to separate **flows** (people, goods, money, images, ideas) from **structures** (the institutions that manage them, such as states, corporations and international bodies). The specification's three types map onto these flows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-what-is-meant-by-globalisation--01-definitions.webp" width="900" height="495" alt="Giddens defines globalisation as the intensification of worldwide social relations that shape local events and vice versa; Harvey describes time-space compression. Answers can separate flows of people, goods, money, images and ideas from the structures that manage them." loading="lazy">
+  <figcaption>Say what changes: intensifying links and compressed time and space.</figcaption>
+</figure>
+
 ## Cultural globalisation in more depth
 
 The specification names languages, religious beliefs, popular culture, the internet and global communication, the global village and cultural imperialism.
@@ -59,6 +64,11 @@ His point is that these flows move at different speeds and in different directio
 
 **Language.** English has become a common language of business, science and the internet. Linguists warn that many smaller languages are endangered as young people switch to national or global languages. Yet digital media also allow minority-language communities to publish and broadcast cheaply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-what-is-meant-by-globalisation--02-scapes.webp" width="900" height="699" alt="Appadurai’s five scapes, ethnoscapes, mediascapes, technoscapes, financescapes and ideoscapes, each with what flows and an example of a disjuncture between them." loading="lazy">
+  <figcaption>Uneven flows mean global culture is not simply Westernisation.</figcaption>
+</figure>
+
 ## Political globalisation in more depth
 
 The specification lists democracy, human rights and gender equality.
@@ -68,6 +78,11 @@ The specification lists democracy, human rights and gender equality.
 - **Democracy**: after the end of the Cold War, Francis Fukuyama ("The End of History?", 1989) argued that liberal democracy had no serious ideological rival left. Critics point to the persistence and revival of authoritarian government, which suggests political globalisation is far from complete.
 
 Political globalisation spreads norms more easily than it enforces them: states sign treaties and then interpret them selectively.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-what-is-meant-by-globalisation--03-political.webp" width="900" height="599" alt="A timeline of global political norms: the 1948 Universal Declaration of Human Rights, CEDAW in 1979, Fukuyama in 1989, the Beijing Platform in 1995 and the International Criminal Court from 2002, with a note that norms are unevenly enforced." loading="lazy">
+  <figcaption>Global norms are widely signed but selectively practised.</figcaption>
+</figure>
 
 ## Economic globalisation in more depth
 
@@ -87,11 +102,21 @@ The specification asks you to judge "the extent to which different types of glob
 
 A strong answer judges each type separately. Economic flows of capital are highly globalised; labour is not, because borders, passports and visas restrict people far more than money. Cultural flows are wide but often hybrid. Political norms are widely signed but unevenly practised.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-what-is-meant-by-globalisation--04-extent.webp" width="900" height="575" alt="Hyperglobalist, sceptical (Hirst and Thompson) and transformationalist views of how far globalisation has gone, with a reminder to judge capital, labour, culture and political norms separately." loading="lazy">
+  <figcaption>Capital is global; people are not.</figcaption>
+</figure>
+
 ## Who has gained and who has lost?
 
 Branko Milanovic (*Global Inequality*, 2016) summarised research on world incomes between 1988 and 2008 as an "elephant curve". The largest income gains went to the middle of the global distribution, mostly in Asia, and to the richest 1 per cent worldwide; the smallest gains went to the lower-middle classes of rich countries. This helps explain why globalisation is popular in some places and resented in others, and why both neo-liberal and negative globalist views can find supporting evidence.
 
 Losers also include the very poorest, who lack the infrastructure or skills to join global markets, and workers in industries exposed to sudden competition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-what-is-meant-by-globalisation--05-elephant-curve.webp" width="900" height="671" alt="A schematic elephant-shaped curve of income gains from 1988 to 2008 across the global income distribution: the largest gains in the global middle, mostly in Asia, and the richest 1 per cent, and the smallest gains among the lower-middle classes of rich countries." loading="lazy">
+  <figcaption>Globalisation’s gains were unequal, which explains both support and resentment.</figcaption>
+</figure>
 
 ## The global and the local: how the local survives
 
@@ -100,6 +125,11 @@ The Unit 3 overview introduces Robertson's glocalisation. Three further ideas ad
 - **Grobalisation**: George Ritzer (*The Globalization of Nothing*, 2004) coined this for the drive of corporations and states to impose standardised forms on local areas. He contrasted centrally designed "nothing" (a chain store identical everywhere) with locally rooted "something" (a family restaurant with a local history). Glocalisation and grobalisation operate at the same time.
 - **Hybridisation**: Jan Nederveen Pieterse (*Globalization and Culture: Global Mélange*, 2004) argued that mixing is the normal result of contact between cultures, so there is no "pure" local culture to lose.
 - **Resistance and revival**: Benjamin Barber (*Jihad vs. McWorld*, 1995) described a clash between homogenising consumer capitalism and movements that reassert local, religious or ethnic identity. Local languages, foods, crafts and festivals can be revived as markers of identity precisely because global culture is everywhere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-what-is-meant-by-globalisation--06-global-local.webp" width="900" height="638" alt="Four ways global and local interact: Robertson’s glocalisation, Ritzer’s grobalisation, Nederveen Pieterse’s hybridisation and Barber’s resistance and revival, with an exam tip on distinct mechanisms." loading="lazy">
+  <figcaption>The local adapts, mixes and pushes back as well as being standardised.</figcaption>
+</figure>
 
 ## Annotated model answer
 

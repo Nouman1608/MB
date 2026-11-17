@@ -30,6 +30,11 @@ featured: false
 
 Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 2027 and 2029 and on **Paper 1 (Historical Sources)** in 2028. The syllabus's own example of a Paper 2 part (a) comes from this topic: "Explain why the League of Nations was involved in a dispute over the Aaland Islands in 1921." Revise with the [International relations 1919-29 revision notes](/resources/cambridge-a-level-world-history-9489-international-relations-1919-29-revision-notes/) and practise with the [International relations 1919-29 practice questions](/resources/cambridge-a-level-world-history-9489-international-relations-1919-29-practice/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-international-1870-1945--01-wh-int-rotation.webp" width="900" height="732" alt="A grid of the three International Option topics against 2027, 2028 and 2029. Gold cells mark the year a topic is on Paper 1 (Historical Sources); teal cells mark Paper 2 (Outline Study). Each topic is Paper 1 exactly once." loading="lazy">
+  <figcaption>Each topic is on Paper 1 once in three years and on Paper 2 in the other two.</figcaption>
+</figure>
+
 ## 8.1 Why was there such dissatisfaction with the peace settlements?
 
 **Negotiating the treaties.** The **Big Three** wanted different things. Clemenceau wanted security against Germany -- reparations, disarmament and, if possible, a buffer in the Rhineland. Wilson wanted a peace based on his Fourteen Points: self-determination, open diplomacy and a League of Nations. Lloyd George wanted Germany punished but able to trade, and British naval and imperial interests protected. The defeated powers were not represented, Soviet Russia was excluded, and smaller allies had little say once decisions moved to the Council of Four.
@@ -50,6 +55,16 @@ Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 202
 
 **Reparations.** Article 231 made Germany accept responsibility for loss and damage; Germans read it as a "war guilt" clause. The Reparations Commission set the total at 132 billion gold marks in 1921. Arguments over whether Germany could pay -- and whether it was deliberately defaulting -- dominated the next three years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--01-big-three-aims.webp" width="900" height="493" alt="Three cards. Clemenceau wanted security: reparations, disarmament and a Rhineland buffer. Lloyd George wanted Germany punished but able to trade, with British naval and imperial interests protected. Wilson wanted self-determination, open diplomacy and a League. Below: the defeated powers and Soviet Russia had no voice, and smaller allies little say." loading="lazy">
+  <figcaption>Three different aims produced compromises that satisfied no one fully.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--02-reactions.webp" width="900" height="517" alt="Eight cards. France thought the treaty too lenient and lost its guarantee; Britain had doubts, encouraged by Keynes; the USA refused to ratify; Italy spoke of a mutilated victory; Japan gained Shandong but had its racial equality clause rejected; Germany called it a Diktat; Russia was excluded. A final card notes that self-determination was applied inconsistently." loading="lazy">
+  <figcaption>Every power, winners included, found something to resent.</figcaption>
+</figure>
+
 ## 8.2 Why was the League created and what challenges did it face?
 
 **Creation.** The League was the fourteenth of Wilson's Fourteen Points, and its **Covenant** was written into all the peace treaties. Its aims were to prevent war through collective security, encourage disarmament, settle disputes and improve living and working conditions. Its structure: an **Assembly** of all members, a **Council** (permanent members Britain, France, Italy and Japan, plus elected members), a **Secretariat** in Geneva, the **Permanent Court of International Justice** at The Hague, and specialist agencies and commissions.
@@ -69,6 +84,16 @@ Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 202
 
 **The agencies.** The **Commission for Refugees**, under Fridtjof Nansen, returned prisoners of war and issued "Nansen passports" to stateless people. The **International Labour Organisation** gathered information and promoted standards on working hours and conditions. The **Slavery Commission** investigated forced labour and led to the Slavery Convention of 1926. The **Disarmament Commission** prepared for a conference but achieved little in the 1920s. The **Mandates Commission** received reports on former German and Ottoman territories but could not compel the mandatory powers. The agencies are often judged the League's most lasting success.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--03-league-structure.webp" width="900" height="746" alt="An organisation chart: the Assembly of all members; the Council with permanent members Britain, France, Italy and Japan; the Secretariat in Geneva; and the Permanent Court at The Hague. Below, five agencies (refugees, ILO, slavery, disarmament, mandates) and the League's weaknesses: restricted membership, unanimous voting, no army and divided leadership." loading="lazy">
+  <figcaption>A full structure, but no army and decisions that needed unanimity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--04-league-disputes.webp" width="900" height="782" alt="Six disputes ranked from most to least effective: the Aaland Islands (ruling accepted), the Greco-Bulgarian border (success against a small power), Upper Silesia (a compromise), Teschen (decided by the Conference of Ambassadors), Memel (a fait accompli accepted) and Vilna (seized by Poland, which kept it)." loading="lazy">
+  <figcaption>The League worked when both sides accepted a ruling, or the aggressor was small.</figcaption>
+</figure>
+
 ## 8.3 Why did tensions remain high after Versailles?
 
 **Crises.** In **Fiume**, the poet D'Annunzio seized the city in 1919; it became a Free State in 1920 and was annexed by Italy in 1924. In **Corfu** (1923), after an Italian general was murdered on the Greek-Albanian border, Mussolini bombarded and occupied the island; the Conference of Ambassadors made Greece pay compensation, and Italy withdrew -- a precedent for rewarding aggression. In the **Ruhr crisis** (January 1923), France and Belgium occupied the Ruhr after German defaults on deliveries; passive resistance and the printing of money produced **hyperinflation**, until Stresemann ended resistance in September 1923. The **successor states** faced minorities, border disputes, weak economies and fragile democracies.
@@ -83,6 +108,11 @@ Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 202
 
 **Changing relations.** Britain and France disagreed over Germany: France sought enforcement, Britain recovery. Italy under Mussolini from 1922 was restless. The Soviet Union, through the **Comintern**, was seen as a revolutionary threat; Britain recognised it in 1924 but broke off relations in 1927.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--05-decade-timeline.webp" width="900" height="1054" alt="A vertical timeline from 1919 to 1930 drawn to scale. Before 1924 most events are crises: Fiume, the Little Entente, Rapallo, the Ruhr occupation (January 1923) and Corfu. From 1924 most are co-operation: the Dawes Plan, Locarno (1925), Germany joining the League (1926), Kellogg-Briand (1928) and the Young Plan (1929), until Stresemann's death and the Crash in October 1929." loading="lazy">
+  <figcaption>Crises cluster before 1924; agreements cluster after it.</figcaption>
+</figure>
+
 ## 8.4 How and why did relations improve, 1924-29?
 
 **Economic recovery.** The **Dawes Plan (1924)** scheduled reparations to rise gradually, reorganised the Reichsbank and provided an American loan; French troops left the Ruhr in 1925. As Foreign Minister from 1923 to 1929, **Stresemann** pursued "fulfilment" -- meeting obligations to win revision. Germany **joined the League** in 1926 with a permanent Council seat. The **Young Plan (1929)** reduced the total and extended payments over decades.
@@ -93,11 +123,21 @@ Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 202
 
 **Reality or illusion?** The "Locarno spirit" was real -- no major war threat existed in 1925-29 -- but rested on American loans and on the personal relationship of Stresemann and Briand; eastern borders remained open questions. Japan and the USA co-operated under the Washington system, though the US Immigration Act of 1924 offended Japan. Stresemann died in October 1929 and the **Wall Street Crash** followed weeks later: American loans were recalled, German recovery collapsed and the Young Plan lost its basis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--06-locarno-borders.webp" width="900" height="672" alt="A labelled schematic, not a map. Germany sits between France and Belgium on one side and Poland and Czechoslovakia on the other. The western border is drawn as a solid line, accepted by Germany and guaranteed by Britain and Italy; the eastern border is a dashed line, covered only by arbitration treaties." loading="lazy">
+  <figcaption>Locarno settled Germany's western borders but left the eastern ones open.</figcaption>
+</figure>
+
 ## Worked example: a Paper 2 part (b)
 
 *"The Locarno Treaties were the main reason for the improvement in international relations, 1924-29." How far do you agree?* **[20]**
 
 Explain the case for Locarno (western borders settled voluntarily; Germany accepted as an equal; the path to League entry). Then weigh alternatives: the Dawes Plan, without which France and Germany could not have negotiated; the Stresemann-Briand partnership; American money; exhaustion after the Ruhr crisis. A strong judgement might argue that Dawes made improvement possible and Locarno made it visible -- but that both depended on American loans.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--07-locarno-foundations.webp" width="900" height="695" alt="A pyramid of three layers. At the top, Locarno (1925), which made improvement visible. In the middle, the Dawes Plan (1924), the Stresemann-Briand partnership and exhaustion after the Ruhr, which made it possible. At the base, American loans, which were recalled after the Wall Street Crash." loading="lazy">
+  <figcaption>Locarno sat on the Dawes Plan, and both sat on American loans.</figcaption>
+</figure>
 
 ## Common mistakes
 

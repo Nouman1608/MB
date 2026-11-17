@@ -30,6 +30,11 @@ featured: false
 
 Under the 2027-2029 rotation this topic is on **Paper 1 (Historical Sources)** in 2027 and on **Paper 2 (Outline Study)** in 2028 and 2029. Paper 1 sets a 15-mark comparison of two sources and a 25-mark question on four sources; Paper 2 sets "Explain why" (10 marks) and a comparative judgement (20 marks). Use the [Imperialism and world powers revision notes](/resources/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers-revision-notes/) for recall and the [Imperialism and world powers practice questions](/resources/a-level-world-history-imperialism-world-powers-practice/) for exam work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-international-1870-1945--01-wh-int-rotation.webp" width="900" height="732" alt="A grid of the three International Option topics against 2027, 2028 and 2029. Gold cells mark the year a topic is on Paper 1 (Historical Sources); teal cells mark Paper 2 (Outline Study). Each topic is Paper 1 exactly once." loading="lazy">
+  <figcaption>Each topic is on Paper 1 once in three years and on Paper 2 in the other two.</figcaption>
+</figure>
+
 ## 7.1 Why was imperialism a significant force in Africa from 1870?
 
 **Motives.** The syllabus groups motives under three headings.
@@ -53,6 +58,21 @@ Under the 2027-2029 rotation this topic is on **Paper 1 (Historical Sources)** i
 
 **African resistance.** In the **Anglo-Zulu War (1879)**, the Zulu destroyed a British column at Isandlwana before losing at Ulundi. The **Ndebele rebellion** (1896-97) rose against the British South Africa Company's seizure of land and cattle and was crushed. At **Adwa** (March 1896) Menelik II's Ethiopian army defeated Italy, securing Ethiopia's independence. In German South West Africa, the **Herero War** (1904-07) was answered by General von Trotha's order to drive the Herero into the desert; most of the Herero people died, and the Nama suffered heavily too. Adwa succeeded where others failed because Ethiopia had modern rifles, unity and numbers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--01-motives.webp" width="900" height="544" alt="Three motive cards: economic (raw materials, gold and diamonds, Hobson's surplus capital), religious and cultural (missionaries and the civilising mission) and national and strategic (prestige for Germany and Italy). Below, Britain's strategic chain: the route to India through the Suez Canal led to buying the Khedive's shares (1875), occupying Egypt (1882), and concern for the Nile and the Sudan." loading="lazy">
+  <figcaption>Three kinds of motive; for Britain, strategy led from Suez to the Sudan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--02-direct-indirect-rule.webp" width="900" height="630" alt="Two chains of command. Direct rule, as in French assimilation or the Congo Free State: European officials replace local rulers. Indirect rule, associated with Lugard in Northern Nigeria: a few officials supervise existing chiefs and emirs. A note says indirect rule was cheaper but froze local hierarchies." loading="lazy">
+  <figcaption>Direct rule replaced local rulers; indirect rule worked through them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--03-african-resistance.webp" width="900" height="683" alt="A table of four cases: the Zulu won at Isandlwana but lost at Ulundi (1879); the Ndebele rebellion (1896-97) was crushed; Ethiopia defeated Italy at Adwa (March 1896); the Herero War (1904-07) ended with most Herero dead. Below, modern rifles, unity and numbers explain Ethiopia's success." loading="lazy">
+  <figcaption>Resistance usually failed; Adwa shows what success required.</figcaption>
+</figure>
+
 ## 7.2 What was the impact of imperial expansion on international relations?
 
 The **Berlin Conference (1884-85)** set rules for claims and is covered in the practice set. Rivalries then followed three main lines:
@@ -65,6 +85,11 @@ The **Berlin Conference (1884-85)** set rules for claims and is covered in the p
 
 **The situation in 1914.** Only Ethiopia and Liberia in Africa remained independent. Colonial disputes had been settled by agreement, but each settlement tied Britain closer to France and taught Germany that it was being "encircled". Contemporaries divided: imperialists such as Cecil Rhodes and Joseph Chamberlain saw empire as national strength; Lenin, in *Imperialism, the Highest Stage of Capitalism* (1916), saw it as a cause of war.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--04-rivalries-settlements.webp" width="900" height="1230" alt="After a note on Egypt (1882) and the Berlin Conference (1884-85), a vertical timeline from 1896 to 1912 drawn to scale. On the left, clashes: the Kruger Telegram (1896), Weltpolitik and the Navy Laws, Fashoda (1898), the Boer War, and the Moroccan crises of 1905-06 and 1911. On the right, agreements: the Anglo-Japanese Treaty (1902), the Entente Cordiale (1904), Algeciras (1906) and the November 1911 convention." loading="lazy">
+  <figcaption>Colonial disputes were settled by agreement, but the agreements built rival blocs.</figcaption>
+</figure>
+
 ## 7.3 Why did Japan emerge as a world power?
 
 **Relations with the West.** Commodore Perry's US squadron (1853-54) forced Japan to open its ports. The **unequal treaties** of 1854-58 gave Western powers extraterritoriality (their citizens were tried by their own consuls) and fixed low tariffs. Humiliation convinced reformers that Japan must modernise or be colonised.
@@ -74,6 +99,11 @@ The **Berlin Conference (1884-85)** set rules for claims and is covered in the p
 **Recognition as a world power.** Japan's main objective was **Korea**, which it saw as a "dagger pointed at the heart of Japan". Victory over China (1894-95) brought Taiwan and Korean "independence", but the **Triple Intervention** of Russia, France and Germany forced Japan to return the Liaodong peninsula -- which Russia then leased. The **Anglo-Japanese Treaty (1902)** arose from shared fear of Russia in Manchuria and Britain's wish to reduce its naval burden in the Pacific. Its consequence was that Japan could fight Russia knowing no third power would join. Victory in the **Russo-Japanese War** (1904-05), ended by the Treaty of Portsmouth, made Japan the first Asian state in modern times to defeat a European great power. Korea became a protectorate (1905) and was annexed in 1910; the unequal treaties had been fully revised by 1911.
 
 **The First World War.** Japan joined the Allies in 1914, seized Germany's base at **Qingdao** and its Pacific islands (the Marshalls, Marianas and Carolines), sent warships to escort Allied convoys in the Mediterranean, and pressed China with the Twenty-One Demands (1915). From 1918 it sent the largest foreign force to **Siberia** during the Russian Civil War. By 1918 Japan sat among the great powers at the peace conference.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--05-japan-rise.webp" width="900" height="1179" alt="A vertical timeline from 1850 to 1920 drawn to scale. On the left, reform and relations: Perry (1853-54), the unequal treaties, the Meiji Restoration (1868), conscription (1873), the constitution (1889), the Anglo-Japanese Treaty (1902) and treaty revision (1911). On the right, expansion: war with China (1894-95), victory over Russia (1904-05), Korea (1905, 1910), the First World War gains and Siberia (1918)." loading="lazy">
+  <figcaption>Decades of reform came before Japan's military victories.</figcaption>
+</figure>
 
 ## 7.4 Why did the USA emerge as a world power?
 
@@ -85,11 +115,21 @@ The **Berlin Conference (1884-85)** set rules for claims and is covered in the p
 
 **Entry into the First World War.** Wilson declared neutrality, but trade and loans tied the USA to Britain and France. German **U-boats** sank the *Lusitania* (May 1915), killing over a hundred Americans; Germany paused, then resumed unrestricted submarine warfare in February 1917. The **Zimmermann Telegram**, proposing a German alliance with Mexico, was published in March, and Congress declared war in April 1917 despite opposition from pacifists, socialists and some German- and Irish-Americans. American troops and supplies helped the Allies win in 1918, and Wilson's Fourteen Points made him a central figure at the peace.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--06-usa-rise.webp" width="900" height="995" alt="A vertical timeline from 1890 to 1918 drawn to scale. Ideas and triggers on the left: the closed frontier (1890), Turner and the Panic of 1893, the Cuban rising (1895), the Maine (February 1898), the Lusitania (May 1915), and U-boats and the Zimmermann Telegram (February-March 1917). Actions on the right: war with Spain (1898), the Philippine-American War, the Platt Amendment, Panama, the Great White Fleet, Nicaragua (1912), the canal (1914) and war (April 1917)." loading="lazy">
+  <figcaption>Two bursts of activity: 1898-1903 overseas expansion, and 1917 entry into world war.</figcaption>
+</figure>
+
 ## Worked example: a Paper 2 part (a)
 
 *Explain why Britain signed a treaty with Japan in 1902.* **[10]**
 
 Link several reasons: Russia's advance into Manchuria after the Boxer Rising threatened British interests in China; the Boer War had exposed Britain's isolation; Britain could not match every naval rival everywhere and wanted Japan's fleet to share the burden in the Pacific; Japan, recently modernised, was a credible partner after 1895. The strongest answers connect them: isolation plus naval overstretch made an alliance necessary, and Russia made Japan the obvious ally.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--07-anglo-japanese-reasons.webp" width="900" height="659" alt="Four reasons in two linked pairs. Isolation exposed by the Boer War and naval overstretch made an alliance necessary. Russia's advance into Manchuria and Japan's rise as a credible partner made Japan the obvious ally. Both lines lead to the Anglo-Japanese Treaty of 1902." loading="lazy">
+  <figcaption>Isolation plus overstretch made an alliance necessary; Russia made Japan the ally.</figcaption>
+</figure>
 
 ## Common mistakes
 

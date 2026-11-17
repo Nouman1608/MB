@@ -65,6 +65,16 @@ Relativity matters because it shows that crime and deviance are **socially const
 power to make rules decide what counts. This idea is developed in labelling theory in key question
 6.2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--01-crime-and-deviance.webp" width="900" height="684" alt="Two overlapping circles. Deviance breaks norms; crime breaks the criminal law. Most crimes fall in the overlap. Talking loudly in a library is deviant but not criminal; minor speeding in some places is criminal but barely deviant. A note adds that deviance can be positive, such as unusual bravery." loading="lazy">
+  <figcaption>Most crime is deviant, but not all deviance is crime.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--02-relativity.webp" width="900" height="520" alt="Four dimensions of relativity with examples: between societies (drinking alcohol), within a society between cultures (dress, diet, celebration), between situations (killing in a fight versus self-defence or war) and across time (smoking indoors in public places)." loading="lazy">
+  <figcaption>Always say which dimension of relativity your example shows.</figcaption>
+</figure>
+
 ## Formal social control (6.1.2)
 
 **Social control** is the set of methods used to make people conform to norms and laws. **Formal
@@ -80,6 +90,11 @@ social control** is carried out by official agencies using written rules and leg
 
 Formal control relies on **negative sanctions** (fines, imprisonment) and on **deterrence**: the
 expectation that offenders will be caught and punished.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--03-formal-control.webp" width="900" height="695" alt="Five formal agencies with how each controls behaviour: police patrol and arrest, courts decide guilt and sentence, armed forces act in emergencies, government makes laws and funds agencies, and the penal system punishes, incapacitates and rehabilitates. A note explains negative sanctions and deterrence." loading="lazy">
+  <figcaption>Formal control uses written rules, legal sanctions and deterrence.</figcaption>
+</figure>
 
 ## Informal social control (6.1.3)
 
@@ -102,6 +117,11 @@ Travis Hirschi's control theory (1969) explains why informal control works: peop
 **bonds** to society, through attachment to others, commitment to goals such as a career, involvement
 in conventional activities and belief in rules, have more to lose by offending.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--04-informal-control-bonds.webp" width="900" height="612" alt="A table of six informal agencies and their sanctions, from family curfews to religious teachings, followed by Hirschi’s four social bonds: attachment, commitment, involvement and belief, which give people more to lose by offending." loading="lazy">
+  <figcaption>Informal control works because people value their relationships and goals.</figcaption>
+</figure>
+
 ## How effective is social control? (6.1.4)
 
 | | Formal control | Informal control |
@@ -112,6 +132,11 @@ in conventional activities and belief in rules, have more to lose by offending.
 A balanced judgement: informal control does most of the work of producing conformity, while formal
 control handles what informal control fails to prevent. Their effectiveness also depends on the
 type of crime: informal control does little to stop corporate fraud or cyber crime by strangers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--05-effectiveness.webp" width="900" height="508" alt="Strengths and limitations of formal control, which is backed by law but misses most crime, and informal control, which works daily through internalised norms but is weaker in anonymous cities. The judgement: informal control does most of the work, formal control handles the rest, depending on the type of crime." loading="lazy">
+  <figcaption>Effectiveness depends on the type of crime as well as the type of control.</figcaption>
+</figure>
 
 ## Types of crime (6.1.5)
 
@@ -131,6 +156,11 @@ type of crime: informal control does little to stop corporate fraud or cyber cri
 
 Many crimes fit more than one type. A gang robbery is gang, violent and instrumental crime at once.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--06-types-of-crime.webp" width="900" height="570" alt="Eleven types of crime with examples: violent, property, white-collar or corporate, expressive, instrumental, gang, green, global or organised, cyber, hate and domestic. A final card notes that types overlap: a gang robbery is gang, violent and instrumental crime." loading="lazy">
+  <figcaption>Many crimes fit more than one type.</figcaption>
+</figure>
+
 ## Measuring crime (6.1.6)
 
 | Method | What it is | Strengths | Limitations |
@@ -149,6 +179,11 @@ Many crimes fit more than one type. A gang robbery is gang, violent and instrume
 Interpretivists add that statistics are **socially constructed**: Aaron Cicourel (1968) found that
 police and officials' stereotypes of "typical delinquents" shaped who was arrested and charged, so
 statistics tell us about policing as well as offending.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--07-measuring-crime.webp" width="900" height="690" alt="Narrowing bars: all crime, crime victims know about, crime reported and crime recorded by police. Self-report studies reach the widest level, victim surveys reach crime victims know about and official statistics only recorded crime. The gap is the dark figure, explained by unreported and unrecorded crime and Cicourel’s point about stereotypes." loading="lazy">
+  <figcaption>Each measure captures a different slice of crime; none captures it all.</figcaption>
+</figure>
 
 ## Worked example: an annotated "explain" answer
 

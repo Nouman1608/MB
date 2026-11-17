@@ -33,6 +33,11 @@ A population changes in only three ways: people are born, people die, and people
 
 The first bracket is **natural change**; the second is **net migration**. Every factor in 7.2.1 works through one of these.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-size--01-population-equation.webp" width="900" height="700" alt="A tank labelled population has two inflows, births and immigrants, and two outflows, deaths and emigrants. Births minus deaths is natural change; immigrants minus emigrants is net migration; together they give population change." loading="lazy">
+  <figcaption>Population change = natural change (births − deaths) + net migration (immigrants − emigrants).</figcaption>
+</figure>
+
 ## Factors that change populations (7.2.1)
 
 ### (a) Birth rates: children per woman
@@ -73,6 +78,26 @@ Most migration within a country is from the countryside to towns and cities. Typ
 
 **Urbanisation** is the increase in the proportion of a country's population living in urban areas. It happens through rural-urban migration and through natural increase in cities, which is often high because migrants are young adults who start families there. Note the word "proportion": if both rural and urban populations grow at the same rate, the total urban population grows but urbanisation does not increase.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-size--02-fertility-high-low.webp" width="900" height="660" alt="A scale of children per woman marks about 2.1 as replacement level: above it a population tends to grow, below it, without migration, it eventually shrinks. Two lists give the conditions where fertility tends to be high and where it tends to be low." loading="lazy">
+  <figcaption>About 2.1 children per woman replaces each generation; local conditions push fertility above or below it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-size--03-life-expectancy-death-rates.webp" width="900" height="715" alt="Better healthcare and vaccination, clean water and sanitation, reliable food and safer housing and work raise life expectancy; famine, war, epidemics and poverty lower it. A schematic graph shows the death rate falling faster than the birth rate, widening the gap of natural increase." loading="lazy">
+  <figcaption>When the death rate falls faster than the birth rate, the gap widens and the population grows quickly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-size--04-push-pull-migration.webp" width="900" height="650" alt="Push factors such as unemployment, poverty, war, persecution, natural hazards, drought and lack of services drive people from one place; pull factors such as jobs, higher wages, safety, better healthcare and education and family attract them to another. Migrants are most often young working-age adults, so the working population falls where they leave and rises, with future births, where they arrive." loading="lazy">
+  <figcaption>Push factors act on the place people leave; pull factors act on the place they go to.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-size--05-rural-urban-urbanisation.webp" width="900" height="735" alt="Rural push factors (low farm incomes, few jobs, poor services, land degraded by drought or erosion) and urban pull factors (factory, service and informal jobs, schools, hospitals, the perception of a better life) drive rural-urban migration. Urbanisation, a rising proportion of people in urban areas, comes from this migration plus natural increase in cities." loading="lazy">
+  <figcaption>Urbanisation grows through rural-urban migration and natural increase among young city migrants.</figcaption>
+</figure>
+
 ## Impacts of population growth (7.2.2)
 
 The syllabus lists twelve impacts. Learn them in three groups.
@@ -95,6 +120,11 @@ The syllabus lists twelve impacts. Learn them in three groups.
 - **Traffic congestion**: more vehicles than roads can carry, causing delays, accidents and air pollution.
 - **Changes in employment opportunities**: growth can create jobs in construction, services and trade, but if the working population grows faster than jobs, unemployment and informal work increase.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-size--06-twelve-impacts.webp" width="900" height="775" alt="The twelve syllabus impacts in three groups. Where people live: informal settlements, megacities, availability of land. Resources and services: resources, energy usage, water supply, sanitation, management of waste, facilities and infrastructure. Environment and economy: six types of pollution, traffic congestion, changes in employment. An example chain links population growth to more waste and to land and water pollution." loading="lazy">
+  <figcaption>Learn the twelve impacts in three groups, and link each one to an environmental effect.</figcaption>
+</figure>
+
 ## Worked example 1: population change
 
 The data are invented. A city of 2,000,000 people recorded in one year: 60,000 births, 20,000 deaths, 15,000 immigrants and 5,000 emigrants.
@@ -104,6 +134,11 @@ The data are invented. A city of 2,000,000 people recorded in one year: 60,000 b
 3. Total change = 40,000 + 10,000 = +50,000.
 4. Percentage growth = 50,000 ÷ 2,000,000 × 100 = 2.5% in the year.
 5. Natural change provides 40,000 ÷ 50,000 × 100 = 80% of the growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-size--07-worked-example-waterfall.webp" width="900" height="740" alt="A waterfall chart: 60,000 births minus 20,000 deaths gives natural change of +40,000; 15,000 immigrants minus 5,000 emigrants adds +10,000, for a total change of +50,000. On 2,000,000 people that is 2.5% growth, 80% of it from natural change." loading="lazy">
+  <figcaption>Natural change +40,000 plus net migration +10,000 gives +50,000, or 2.5% growth.</figcaption>
+</figure>
 
 ## Worked example 2: is the country urbanising?
 
@@ -118,6 +153,11 @@ The data are invented.
 2. Urban share at second census = 6,300,000 ÷ 12,600,000 × 100 = 50%.
 
 The urban share rose from 40% to 50%, so the country is urbanising. Notice that the rural population also grew, from 5,400,000 to 6,300,000; urbanisation is about proportion, not about rural areas emptying.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-size--08-worked-example-urban-share.webp" width="900" height="700" alt="Stacked bars for two censuses. First: 3.6 million urban out of 9.0 million, 40%. Second: 6.3 million urban out of 12.6 million, 50%. The rural population also grew, from 5.4 to 6.3 million, yet the country is urbanising because the urban share rose." loading="lazy">
+  <figcaption>The urban share rose from 40% to 50% even though the rural population grew too.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -64,6 +64,11 @@ When asked to **explain** the difference, compare the direction of
 oscillation with the direction of energy transfer for **both** types in
 one answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-properties-of-waves--01-transverse-longitudinal.webp" width="900" height="910" alt="A transverse wave with crests and troughs whose points oscillate up and down, at right angles to the direction of travel. A longitudinal wave on a slinky with compressions (C) and rarefactions (R) whose coils oscillate backwards and forwards, along the direction of travel." loading="lazy">
+  <figcaption>Compare the direction of oscillation with the direction the wave travels.</figcaption>
+</figure>
+
 ## Definitions (3.3)
 
 | Term | Definition |
@@ -81,6 +86,11 @@ Wavelength is a distance along the direction of travel, not a height.
 For a longitudinal wave, the wavelength is the distance from the centre
 of one compression to the centre of the next.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-properties-of-waves--02-wave-definitions.webp" width="900" height="950" alt="A transverse wave: wavelength is from one crest to the next; amplitude is from the rest position to a crest, while crest to trough is twice the amplitude. For a longitudinal wave the wavelength is from the centre of one compression to the centre of the next. Wavefronts seen from above are lines along the crests, one wavelength apart." loading="lazy">
+  <figcaption>Amplitude is measured from the rest position; wavelength is a distance along the wave.</figcaption>
+</figure>
+
 ## Energy and information, not matter (3.4)
 
 A cork floating on a pond bobs up and down as ripples pass but does not
@@ -89,6 +99,11 @@ backwards and forwards about fixed positions and do not travel from the
 loudspeaker to your ear. What travels is energy (the cork gains kinetic
 energy; your eardrum is made to vibrate) and information (speech, music,
 television and radio signals, data in optical fibres).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-properties-of-waves--03-energy-not-matter.webp" width="900" height="770" alt="Three snapshots of ripples moving to the right past a floating cork. The wave shape moves on, but the cork stays on the same vertical line and only bobs up and down. Waves transfer energy and information; the water and air particles oscillate about fixed positions." loading="lazy">
+  <figcaption>The wave moves on; the cork, like the water, just bobs about one place.</figcaption>
+</figure>
 
 ## The wave equations (3.5–3.7)
 
@@ -126,6 +141,11 @@ travels at 340 m/s in air.
 λ = v / f = 340 / 256 = 1.33 m ≈ 1.3 m
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-properties-of-waves--04-wave-equations.webp" width="900" height="890" alt="v = f × λ and f = 1 / T, since a wave moves one wavelength in one period. In a ripple tank, 12 waves in 4.0 s gives f = 3.0 Hz; 5 wavelengths across 7.5 cm gives λ = 0.015 m; so v = 0.045 m/s and T = 0.33 s. A 256 Hz tuning fork in air at 340 m/s gives λ = 1.33 m." loading="lazy">
+  <figcaption>Find f and λ from what you measure, convert to m, then v = f × λ.</figcaption>
+</figure>
+
 ## Reflection and refraction (3.9)
 
 All waves can be **reflected** (bounce back from a surface) and
@@ -153,6 +173,11 @@ deep:    λ = 0.30 / 5.0 = 0.060 m
 shallow: λ = 0.20 / 5.0 = 0.040 m
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-properties-of-waves--05-reflection-refraction.webp" width="900" height="795" alt="Left: plane water waves hit a wall and are reflected back. Right: water waves cross from deep to shallow water at an angle; in shallow water they are slower, the wavefronts are closer together and they change direction towards the normal. Worked example: at 5.0 Hz, 0.30 m/s gives λ = 0.060 m and 0.20 m/s gives λ = 0.040 m." loading="lazy">
+  <figcaption>In refraction speed and wavelength change; frequency stays the same.</figcaption>
+</figure>
+
 ## The Doppler effect (3.8)
 
 When a source of waves moves towards an observer, each wave is emitted a
@@ -167,6 +192,11 @@ values change, and only while there is relative motion between source and
 observer. Examples: the pitch of a passing siren falls as it goes past;
 light from galaxies moving away from us is shifted to longer wavelengths
 (red-shifted), which is used in Topic 8.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-properties-of-waves--06-doppler-effect.webp" width="900" height="790" alt="A source moving to the right emits circular wavefronts, each centred where the source was when it was emitted. Ahead, observer A receives squashed wavefronts: shorter wavelength, higher frequency. Behind, observer B receives spread-out wavefronts: longer wavelength, lower frequency. The source frequency itself does not change." loading="lazy">
+  <figcaption>Bunched wavefronts ahead mean shorter wavelength and higher observed frequency.</figcaption>
+</figure>
 
 ## Common mistakes
 

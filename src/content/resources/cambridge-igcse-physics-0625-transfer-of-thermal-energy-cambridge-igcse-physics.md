@@ -49,6 +49,16 @@ Good thermal conductors: metals (copper, aluminium, iron). Bad conductors (therm
 - **Gases and most liquids:** the particles are further apart (very far apart in a gas), so energy is passed on only when particles happen to collide, and there is no lattice and no free electrons. Conduction is therefore bad.
 - **In between:** many solids, such as glass, brick, concrete and stone, conduct better than thermal insulators like foam and wool but much less well than metals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics--01-water-poor-conductor.webp" width="900" height="680" alt="A test tube of cold water with ice wrapped in wire gauze at the bottom is heated near the top. The water at the top boils while the ice stays unmelted for some time, because convection is prevented and conduction through water is very slow." loading="lazy">
+  <figcaption>Boiling water above, unmelted ice below: water conducts poorly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics--02-lattice-and-free-electrons.webp" width="900" height="560" alt="Left: in any solid, heated particles at the hot end vibrate more and pass the vibrations along the lattice, which is slow. Right: in a metal, free electrons also gain kinetic energy and carry it quickly to colder regions, so metals conduct best. Gases and most liquids conduct poorly." loading="lazy">
+  <figcaption>Lattice vibrations in all solids; free electrons make metals fast.</figcaption>
+</figure>
+
 ## Convection (2.3.2)
 
 Convection is the main way thermal energy moves through **liquids and gases**. It cannot happen in solids, because the particles cannot move from place to place.
@@ -63,6 +73,11 @@ Convection is the main way thermal energy moves through **liquids and gases**. I
 **Experiment: convection in air.** A box has a glass front and two chimneys on top. A lit candle stands under one chimney. Hold smouldering paper (or a smoke source) over the other chimney. The smoke is drawn **down** that chimney, across the box and **up** the chimney above the candle. Air above the candle is heated, becomes less dense and rises; cooler air is drawn in to replace it.
 
 A paper spiral hung above a heater turns as the warm air rising past it pushes it round.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics--03-convection-chimney-box.webp" width="900" height="580" alt="A box with a glass front and two chimneys has a lit candle under one chimney. Smoke from smouldering paper held over the other chimney is drawn down it, across the box and up the chimney above the candle, because air heated by the candle expands, becomes less dense and rises while cooler, denser air sinks to replace it." loading="lazy">
+  <figcaption>Heated fluid expands, becomes less dense and rises; cooler fluid sinks.</figcaption>
+</figure>
 
 ## Radiation (2.3.3)
 
@@ -92,6 +107,11 @@ Examples: solar water-heating panels are painted dull black; buildings in hot co
 
 Keep everything else the same: volume, starting temperature, distance, size of can, lids on.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics--04-radiation-surfaces.webp" width="900" height="700" alt="Dull black surfaces are the best absorbers and emitters of infrared and the worst reflectors; shiny white or silver surfaces are the reverse. For Extended: two identical cans of hot water, one black and one shiny, show the black can cools faster; two cans of cold water equidistant from an infrared lamp show the black can warms faster." loading="lazy">
+  <figcaption>Dull black absorbs and emits best; shiny reflects best.</figcaption>
+</figure>
+
 ## Consequences and applications (2.3.4)
 
 **Core: a saucepan.** The base is metal (a good conductor) so energy passes quickly from the hob to the food. The handle is plastic or wood (an insulator) so it stays cool to hold. The base may be thick copper or aluminium to spread energy evenly.
@@ -107,6 +127,16 @@ Keep everything else the same: volume, starting temperature, distance, size of c
 > The air next to the heater is heated, expands and becomes less dense [1]. This warm air rises and cooler, denser air sinks to replace it [1]. A convection current forms that circulates warm air through the room [1].
 
 Each mark needs a cause and its effect; "hot air rises" alone earns at most one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics--05-heating-a-room.webp" width="900" height="510" alt="A heater near the floor warms the air next to it; the air expands, becomes less dense and rises to the ceiling, moves across, cools and sinks on the far side, and returns along the floor, so a convection current heats the whole room. An air conditioner is placed high up because cool, dense air sinks." loading="lazy">
+  <figcaption>Put heaters low and coolers high to drive a convection current.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics--06-vacuum-flask.webp" width="900" height="600" alt="A vacuum flask: the stopper reduces convection and evaporation from the top, the vacuum between the double walls stops conduction and convection, and the silvered walls reflect infrared back to reduce radiation." loading="lazy">
+  <figcaption>Each feature of the flask blocks a different transfer process.</figcaption>
+</figure>
 
 ## Common mistakes
 

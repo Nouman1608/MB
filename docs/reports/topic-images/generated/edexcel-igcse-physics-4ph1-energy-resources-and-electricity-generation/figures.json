@@ -1,0 +1,47 @@
+[
+ {
+  "file": "edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--01-thermal-power-station-chain.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## The common chain: turbine and generator",
+  "alt": "Fossil fuels, nuclear fuel, geothermal heat and large-scale solar heating all heat water into high-pressure steam. The steam spins a turbine, the turbine turns a generator, and energy goes to the grid electrically, with much wasted heating cooling water and air.",
+  "caption": "Thermal stations make steam to spin the turbine; the generator does the final step.",
+  "bytes": 90698
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--02-energy-transfer-chains.webp",
+  "width": 900,
+  "height": 740,
+  "after": "## The energy transfers, resource by resource (4.18P)",
+  "alt": "Eight chains, each ending electrically: wind from the kinetic store of moving air; hydroelectric from the gravitational store of high water; tides and waves from moving sea water; geothermal from hot rocks; solar heating and solar cells from radiation; fossil fuels from a chemical store; nuclear from a nuclear store.",
+  "caption": "Start at the original store, name each stage, and finish with \"electrically\".",
+  "bytes": 159448
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--03-reliability-and-control.webp",
+  "width": 900,
+  "height": 560,
+  "after": "## Weighing the resources (4.19P)",
+  "alt": "Resources sorted by how their output can be matched to demand. Variable: wind, solar, waves and tidal (predictable but varying). Steady: nuclear, geothermal and coal. Controllable and quick to start: hydroelectric and gas-fired stations.",
+  "caption": "Variable renewables need backup from resources that can be controlled.",
+  "bytes": 89994
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--04-power-station-efficiency.webp",
+  "width": 900,
+  "height": 805,
+  "after": "## Worked example: an efficiency calculation",
+  "alt": "A Sankey diagram for a coal-fired power station: 2500 MJ each second splits into 900 MJ transferred electrically to the grid and 1600 MJ wasted heating the cooling water and air. Efficiency = 900 ÷ 2500 × 100% = 36%.",
+  "caption": "Only 36% reaches the grid; the rest heats the cooling water and air.",
+  "bytes": 75738
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--05-wind-vs-nuclear-discussion.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## Annotated model answer",
+  "alt": "A comparison table of a wind farm and a nuclear power station on the same criteria: renewable or not, carbon dioxide, reliability, scale, fuel and waste, and cost, followed by a judgement that nuclear is better for a reliable supply while wind needs controllable backup.",
+  "caption": "A strong \"discuss\" answer compares both on the same criteria and ends with a judgement.",
+  "bytes": 107336
+ }
+]

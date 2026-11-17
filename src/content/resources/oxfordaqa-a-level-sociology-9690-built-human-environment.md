@@ -36,6 +36,11 @@ The fourteenth-century scholar **Ibn Khaldun** (*Muqaddimah*, 1377) offered one 
 
 States have long pressed nomads to settle. Under Soviet collectivisation in the early 1930s, forced settlement of Kazakh herders and the seizure of their livestock contributed to a devastating famine. Today, pressures come from national borders that cut across grazing routes, privatisation of rangeland, conservation areas and drought. Nomads are often seen by states as hard to tax, school and count, which helps explain this pressure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--01-ibn-khaldun-cycle.webp" width="900" height="695" alt="A cycle: desert nomads with strong group solidarity conquer settled peoples, settle in cities where comfort and luxury weaken their solidarity, and are replaced by a new group." loading="lazy">
+  <figcaption>For Ibn Khaldun, settling in cities slowly dissolves group solidarity.</figcaption>
+</figure>
+
 ## Rural areas: peasants and landless labourers
 
 **Peasants** farm small plots mainly with household labour, producing partly for their own use and partly for sale. Eric Wolf (*Peasants*, 1966) stressed that peasants are always tied to wider states and markets that take a share of their output through rent, taxes or prices.
@@ -45,6 +50,11 @@ States have long pressed nomads to settle. Under Soviet collectivisation in the 
 **Resistance.** James C. Scott (*Weapons of the Weak*, 1985), studying a Malaysian village, showed that poor farmers resist through "everyday" tactics such as foot-dragging, gossip, pilfering and false compliance, rather than open revolt. Organised resistance includes Brazil's Landless Workers' Movement (covered in the unit guide).
 
 **Rural depopulation** removes young adults, leaving ageing villages, abandoned farmland and closing schools. In China, internal migration has left many "left-behind children" living with grandparents. Remittances may sustain households, but the community loses labour and leadership. Since the 2008 food price spike, large-scale purchases or leases of farmland by investors and foreign states ("land grabs") have added pressure on smallholders in parts of Africa, Asia and Latin America.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--02-rural-power.webp" width="900" height="523" alt="Peasants farm with household labour but lose a share of output to states and markets; landless labourers face sharecropping and debt bondage; Scott shows everyday resistance. A note covers rural depopulation and land grabs." loading="lazy">
+  <figcaption>Control of land and credit, not just productivity, shapes rural poverty.</figcaption>
+</figure>
 
 ## Urbanisation and social life in cities
 
@@ -58,6 +68,11 @@ The United Nations estimates that the world's urban population passed its rural 
 
 Herbert Gans (*The Urban Villagers*, 1962) challenged Wirth by showing close-knit Italian American neighbourhoods in Boston: cities contain villages. The Chicago School's concentric zone model (Ernest Burgess, 1925) described rings of land use around a central business district, with the poorest in the "zone of transition".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--03-urban-theories.webp" width="900" height="607" alt="A grid of Tönnies, Simmel and Wirth on city life, each with a limitation, and Gans’s finding of close-knit urban villages in Boston." loading="lazy">
+  <figcaption>Classic theories saw cities weakening community; Gans found villages inside them.</figcaption>
+</figure>
+
 ## Slums and informal housing
 
 The specification puts 'slums' in inverted commas because the word can stigmatise. Debates to know:
@@ -69,11 +84,21 @@ The specification puts 'slums' in inverted commas because the word can stigmatis
 
 These views set against Davis's bleaker *Planet of Slums* give a balanced evaluation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--04-slums-debate.webp" width="900" height="617" alt="Perlman, Turner, de Soto and the Orangi Pilot Project offer four views of informal housing, set against Mike Davis’s bleaker Planet of Slums." loading="lazy">
+  <figcaption>Informal settlements can be seen as integrated, self-built and improvable, not only as failures.</figcaption>
+</figure>
+
 ## Suburbia, segregation and gated communities
 
 - **Suburbia**: after 1945, mass-built suburbs such as Levittown in the United States spread car-based, low-density family housing. Critics linked them to conformity, isolation of housewives and racial exclusion.
 - **Segregation**: separation can be legal, as under South Africa's Group Areas Act (1950), which assigned residential areas by race, or the result of markets, prejudice and housing policy. Loïc Wacquant (*Urban Outcasts*, 2008) described "advanced marginality" in stigmatised neighbourhoods of Chicago and Paris.
 - **Gated communities**: Teresa Caldeira (*City of Walls*, 2000) showed that fear of crime in São Paulo produced "fortified enclaves" that separate the rich from public space. Setha Low (*Behind the Gates*, 2003) found that residents of US gated communities cited safety but also wanted "niceness" and social homogeneity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--05-separation.webp" width="900" height="478" alt="Suburbia, segregation and gated communities compared: Levittown-style suburbs, legal and market-based segregation including the Group Areas Act and Wacquant, and Caldeira’s and Low’s studies of gated enclaves." loading="lazy">
+  <figcaption>Suburbs, segregation and gates separate people in different ways.</figcaption>
+</figure>
 
 ## Megacities and non-places
 
@@ -81,10 +106,20 @@ Megacities concentrate opportunity and risk. They draw investment and migrants, 
 
 For **non-places**, deepen the overview with Augé's contrast: an **anthropological place** is relational (people know each other), historical (it carries memory) and concerned with identity; a **non-place** is none of these. Evaluation: digital life may turn even homes into points of transit, but non-places can also offer anonymity and freedom, for example to people escaping village surveillance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--06-non-places.webp" width="900" height="509" alt="Augé contrasts an anthropological place, which is relational, historical and concerned with identity, with a non-place that is none of these. Evaluation notes digital transit and the freedom of anonymity." loading="lazy">
+  <figcaption>A non-place lacks relationships, memory and identity, which can also mean freedom.</figcaption>
+</figure>
+
 ## Power and inequalities in rural and urban areas
 
 - **Rural**: landownership, caste or lineage, access to credit and irrigation, and gender norms about inheritance shape who gains from farming.
 - **Urban**: **gentrification**, a term coined by Ruth Glass (1964), describes middle-class newcomers renovating working-class areas and displacing original residents through rising rents. Henri Lefebvre's **"right to the city"** (1968) argued that all residents, not only property owners, should shape urban space. Evictions for infrastructure or "beautification" projects show who holds this power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--07-gentrification.webp" width="900" height="513" alt="Gentrification as a chain: middle-class newcomers renovate a working-class area, rents rise and original residents are displaced. Cards list sources of rural power and Lefebvre’s right to the city." loading="lazy">
+  <figcaption>Gentrification and evictions show who holds power over space.</figcaption>
+</figure>
 
 ## Cities and changing environment and climate
 
@@ -98,6 +133,11 @@ The overview gives the four stages. To evaluate fully:
 - **Urbanisation and fertility**: in cities, children cost more (housing, schooling) and contribute less labour, and women have more access to education and paid work, so urbanisation helps explain stage 3.
 - **A fifth stage?** Some countries, such as Japan and South Korea, now have fertility well below replacement level and shrinking populations, which the original model did not predict.
 - **Limits**: based on European history; timing differs widely; state policy and religion shape fertility; migration is left out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--08-malthus-boserup.webp" width="900" height="527" alt="Malthus argued population outgrows food until famine and disease check it; Boserup argued population pressure drives innovation. A note evaluates demographic transition theory: urbanisation and fertility, a possible fifth stage and its limits." loading="lazy">
+  <figcaption>Malthus and Boserup disagree on whether population pressure is a threat or a spur.</figcaption>
+</figure>
 
 ## Annotated model answer
 

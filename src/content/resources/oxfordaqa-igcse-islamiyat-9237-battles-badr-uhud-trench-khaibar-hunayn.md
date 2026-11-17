@@ -29,6 +29,16 @@ featured: false
 
 After the Hijrah, the Quraysh had seized the property of the Muslims who left Makkah and remained determined to destroy the new community in Madinah. Permission to fight in self-defence was given in Madinah, and the rule was set: "Fight in the way of Allah those who fight against you but do not transgress" (2:190). Keep this in view: the specification treats the battles as part of the Prophet's (pbuh) life and teaching, so answers should show the moral lessons, not only military events. Army sizes below are the traditional figures given in the sources and are approximate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--01-numbers-and-outcomes.webp" width="900" height="662" alt="Bars of the approximate traditional army sizes: about 313 Muslims against about 1,000 Makkans at Badr, which was a victory; about 700 against about 3,000 at Uhud, with heavy losses; about 10,000 confederates at the Trench, whose siege failed; and about 12,000 Muslims at Hunayn, who were ambushed before winning." loading="lazy">
+  <figcaption>The smallest army won at Badr and the largest nearly lost at Hunayn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--06-battles-and-treaties.webp" width="900" height="608" alt="A scaled timeline from 624 to 632 marking Badr (624, victory), Uhud (625, losses), the Trench (627, siege fails), Hudaibiyah and Khaibar (628), the conquest of Makkah and Hunayn (630), the Year of Delegations (630–631) and the Farewell Pilgrimage (632)." loading="lazy">
+  <figcaption>Eight years from Badr to the Farewell Pilgrimage.</figcaption>
+</figure>
+
 ## Badr (624 CE)
 
 **Cause.** The Muslims went out to intercept a rich Makkan caravan returning from Syria under Abu Sufyan. The caravan escaped by another route, but a Makkan army of about 1,000, led by Abu Jahl, marched out to fight.
@@ -43,6 +53,11 @@ After the Hijrah, the Quraysh had seized the property of the Muslims who left Ma
 - It established the Muslims as a power in Arabia and raised the morale of the community.
 - The treatment of prisoners showed justice and the value of education.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--02-badr.webp" width="900" height="563" alt="Badr in three steps: the Muslims set out to intercept a Makkan caravan, which escaped, and a Makkan army came out; at the wells of Badr in Ramadhan the Muslims won decisively; prisoners were treated well and literate captives could earn freedom by teaching. Below, four points of importance." loading="lazy">
+  <figcaption>Badr is the “day of criterion”: victory came from Allah, not numbers.</figcaption>
+</figure>
+
 ## Uhud (625 CE)
 
 **Cause.** The Quraysh wanted revenge for Badr. About 3,000 men marched on Madinah under Abu Sufyan.
@@ -56,6 +71,11 @@ After the Hijrah, the Quraysh had seized the property of the Muslims who left Ma
 - **Leadership:** the Prophet's consultation (shura), even when he disagreed, is a model for Muslim decision-making.
 - **Patience in defeat:** the community recovered and continued.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--03-uhud-chain.webp" width="900" height="768" alt="Five numbered steps at Uhud: consultation and going out to the mountain, the withdrawal of Abdullah ibn Ubayy, the order to the archers, most archers leaving the hill for spoils, and Khalid ibn al-Walid’s cavalry attacking from behind. Below, the lessons: obedience, greed, hypocrisy exposed, shura and patience." loading="lazy">
+  <figcaption>Uhud was lost through disobedience, not because the Muslims were outnumbered.</figcaption>
+</figure>
+
 ## The Trench, or Ahzab (627 CE)
 
 **Cause.** Leaders of the Banu Nadir, expelled from Madinah, encouraged the Quraysh and other tribes to form an alliance (al-Ahzab, "the confederates") of about 10,000 to destroy Madinah.
@@ -68,6 +88,11 @@ After the Hijrah, the Quraysh had seized the property of the Muslims who left Ma
 - It shows leadership by example: the Prophet worked with his own hands.
 - Surah al-Ahzab describes the fear and the faith of the believers in this siege.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--04-trench-schematic.webp" width="900" height="706" alt="A schematic, not to scale: a trench dug across the open northern side of Madinah stops the cavalry of about 10,000 confederates. Beside it: Salman al-Farsi’s idea, the Prophet (pbuh) digging with the companions, a siege of several weeks with the Banu Qurayza breaking their agreement, and a cold wind before the confederates withdrew." loading="lazy">
+  <figcaption>A Persian convert’s idea saved the city in the last great Makkan attack.</figcaption>
+</figure>
+
 ## Khaibar (628 CE)
 
 **Cause.** Khaibar was a fortified oasis north of Madinah where leaders of the expelled Banu Nadir had settled; it had supported the confederates and remained a threat.
@@ -78,6 +103,11 @@ After the Hijrah, the Quraysh had seized the property of the Muslims who left Ma
 - It removed the threat to Madinah from the north, so the community could live securely under the truce with Makkah.
 - The terms allowed the defeated people to keep their homes and religion, showing mercy after victory.
 - It strengthened the economy of Madinah.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--05-khaibar.webp" width="900" height="465" alt="Khaibar in three steps: a fortified oasis that had supported the confederates was a threat from the north; soon after Hudaibiyah its forts were besieged and Hazrat Ali (RA) captured the one that held out; the people stayed and farmed, giving half the produce. Its importance: security, mercy and a stronger economy." loading="lazy">
+  <figcaption>Khaibar secured Madinah and showed mercy after victory.</figcaption>
+</figure>
 
 ## Hunayn (630 CE)
 
@@ -90,11 +120,21 @@ After the Hijrah, the Quraysh had seized the property of the Muslims who left Ma
 - The Prophet's courage when others fled is a model of steadfastness.
 - His treatment of the Ansar and the Hawazin shows wisdom and mercy in victory.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--06-hunayn.webp" width="900" height="690" alt="Five steps at Hunayn: a large army of about 12,000 felt confident, was ambushed at dawn and many fled, the Prophet (pbuh) stood firm, Hazrat Abbas (RA) called the Ansar back and the Muslims won, then spoils were shared and captives returned. A note quotes 9:25." loading="lazy">
+  <figcaption>Reliance must be on Allah, not numbers: that is the lesson of Hunayn.</figcaption>
+</figure>
+
 ## Aam ul Wufood: the Year of Delegations (630–631 CE)
 
 After the conquest of Makkah and the victory at Hunayn, tribes from all over Arabia sent delegations (*wufood*) to Madinah. They included the Thaqif of Ta'if, who had stoned the Prophet years before; the Banu Tamim; and Christians from Najran, who discussed their beliefs with the Prophet (pbuh) and kept their religion under an agreement with the Muslims. The Prophet received the delegations with hospitality in the mosque, taught them Islam and sent companions back with them as teachers and governors, such as Hazrat Mu'adh ibn Jabal (RA) to Yemen.
 
 **Significance.** Most of Arabia accepted Islam peacefully, fulfilling Surah an-Nasr (110): "you see the people entering into the religion of Allah in multitudes". It showed the Prophet (pbuh) as a statesman uniting the tribes, and it showed that the battles had defended a community whose message then spread by persuasion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--07-aam-ul-wufood.webp" width="900" height="595" alt="Delegations came to Madinah in 630–631 CE, including the Thaqif of Ta’if, the Banu Tamim and Christians from Najran. They were received with hospitality and taught Islam, and companions such as Mu’adh ibn Jabal (RA) were sent back as teachers and governors. Most of Arabia accepted Islam peacefully." loading="lazy">
+  <figcaption>Aam ul Wufood is about peaceful acceptance of Islam, not a battle.</figcaption>
+</figure>
 
 ## Worked example: a 6-mark answer
 

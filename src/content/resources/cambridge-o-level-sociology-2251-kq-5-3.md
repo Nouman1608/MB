@@ -89,6 +89,21 @@ support.
 - **Marxist explanations**: the myth of meritocracy and the reproduction of class (Bowles and Gintis;
   Willis), which tie the in-school and out-of-school factors to capitalism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-3--01-class-explanations.webp" width="900" height="509" alt="Class explanations sorted by where they operate. Outside school: material factors, Sugarman’s cultural factors, Bourdieu’s cultural capital, Douglas on parental interest and Bernstein’s speech codes. Inside school: Hargreaves on subcultures, selective and private education, labelling and Marxist explanations. A note covers compensatory education." loading="lazy">
+  <figcaption>Sort each explanation by where it operates and how it affects achievement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-3--02-bernstein-codes.webp" width="900" height="510" alt="Bernstein’s restricted code is short and context-bound; the elaborated code is detailed and explicit. Schools use the elaborated code, which middle-class children are more likely to learn at home, giving them an advantage." loading="lazy">
+  <figcaption>Schools speak the elaborated code, which middle-class children already know.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-3--03-labelling-to-subculture.webp" width="900" height="702" alt="A chain: a teacher judges pupils against the ideal pupil, a label is applied, a self-fulfilling prophecy follows, and lower-stream boys form an anti-school subculture. Labelling can be deterministic, since some pupils reject the label." loading="lazy">
+  <figcaption>Labels can become self-fulfilling and push pupils into subcultures.</figcaption>
+</figure>
+
 ## Explanations based on ethnicity (5.3.3)
 
 - **Institutional racism**: discrimination built into the routine policies of an organisation rather
@@ -112,6 +127,11 @@ support.
 - **Labelling theory**: Bernard Coard (1971) argued that the British school system wrongly labelled
   many West Indian children as less able. Labels may lead to lower sets and lower expectations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-3--02-ethnicity-explanations.webp" width="900" height="578" alt="Ethnicity explanations inside school, such as institutional racism and educational triage, an ethnocentric curriculum, few role models and Coard’s labelling argument, and outside school, such as language, poverty, aspirations and supplementary schools. Fuller’s and Sewell’s studies show varied pupil responses." loading="lazy">
+  <figcaption>Minority groups do not all achieve the same, so explanations must allow for difference.</figcaption>
+</figure>
+
 ## Explanations based on gender (5.3.4)
 
 - **Differential gendered socialisation and social control**: girls are often more closely supervised,
@@ -130,6 +150,11 @@ support.
 - **Feminist explanations**: patriarchy shapes subject choice, expectations and careers; feminists
   note that girls' higher grades have not removed male dominance in high-status careers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-3--03-gender-explanations.webp" width="900" height="511" alt="Factors helping girls, such as gendered socialisation, teacher expectations and Sharpe’s finding that girls’ priorities moved towards careers, set against factors holding some boys back, such as laddish cultures, Mac an Ghaill’s macho lads and labelling. Feminists add that patriarchy still shapes careers and access." loading="lazy">
+  <figcaption>Use sociological reasons, not “girls are cleverer”.</figcaption>
+</figure>
+
 ## Global differences (5.3.5)
 
 - **Availability of schools**: rural areas may have few schools, especially secondary schools.
@@ -141,6 +166,11 @@ support.
   varies.
 - **Internet and digital resources**: access to online learning and information is unequal between
   and within countries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-3--04-global-differences.webp" width="900" height="504" alt="Six factors behind global differences in achievement: availability of schools, poverty, access to education for girls, including restrictions in Afghanistan since 2021, class sizes, norms and values, and access to the internet and digital resources." loading="lazy">
+  <figcaption>Explain why each factor affects achievement, not just that it exists.</figcaption>
+</figure>
 
 ## Weighing the explanations (5.3.6)
 
@@ -156,6 +186,11 @@ support.
 
 **Interaction:** class, ethnicity and gender combine. A working-class boy from a minority group may
 face several factors at once, so the strongest answers show how explanations overlap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-3--05-weighing-explanations.webp" width="900" height="758" alt="A table of seven types of explanation with a strength and limitation each: material, cultural, cultural capital, in-school and labelling, institutional racism, feminist and global. A note says class, ethnicity and gender interact." loading="lazy">
+  <figcaption>The strongest answers show how explanations overlap.</figcaption>
+</figure>
 
 ## Worked example: an annotated "explain" answer
 

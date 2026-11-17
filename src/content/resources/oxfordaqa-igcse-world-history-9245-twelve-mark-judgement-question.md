@@ -49,6 +49,11 @@ The specification describes progression in quality of thinking, using Point-Evid
 
 So a well-explained essay on two factors that never compares them is stuck at Level 3. Level 4 needs the factors to talk to each other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-twelve-mark-judgement-question--01-levels-staircase.webp" width="900" height="719" alt="A staircase of four levels: Level 1 basic knowledge, Level 2 a point with evidence, Level 3 an explicit explanation linked to the question, and Level 4 factors linked together to judge their relative importance. A note says uncompared factors stay at Level 3." loading="lazy">
+  <figcaption>Explanation reaches Level 3; only linking and comparing factors reaches Level 4.</figcaption>
+</figure>
+
 ## Building a line of reasoning
 
 A **line of reasoning** means every paragraph moves your argument forward towards your conclusion. A reliable structure:
@@ -59,6 +64,11 @@ A **line of reasoning** means every paragraph moves your argument forward toward
 4. **Comparison.** Show how the factors connect and which mattered more: did one make another possible? Was one necessary but not sufficient? Did one decide the timing and another the outcome?
 5. **Conclusion.** A clear judgement that follows from your comparison, not a summary.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-twelve-mark-judgement-question--02-line-of-reasoning.webp" width="900" height="645" alt="Five-part structure for the 12-mark answer: an introduction stating the answer, the given factor, one or two other factors, a comparison of how they connect, and a conclusion that follows from the comparison." loading="lazy">
+  <figcaption>State the answer first, explain the factors, compare them, then conclude.</figcaption>
+</figure>
+
 ## Tools for comparing factors
 
 | Comparison test | Sentence starter |
@@ -68,6 +78,11 @@ A **line of reasoning** means every paragraph moves your argument forward toward
 | **Chain** | "X led to Y, so X is the more fundamental cause." |
 | **Counterfactual** | "Even if X had not happened, Y would probably still have produced the outcome because..." |
 | **Scope** | "X affected only..., whereas Y affected..." |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-twelve-mark-judgement-question--03-comparison-tests.webp" width="900" height="637" alt="Five comparison tests, each with a small diagram and sentence starter: necessary condition, trigger versus underlying cause, chain, counterfactual (X removed, Y still produces the outcome) and scope (Y affected more than X)." loading="lazy">
+  <figcaption>Use a comparison test to decide which factor mattered more.</figcaption>
+</figure>
 
 ## Worked plan 1: Détente and the collapse of communism
 
@@ -85,6 +100,11 @@ A **line of reasoning** means every paragraph moves your argument forward toward
 
 **Judgement:** I agree to a large extent. Afghanistan was the main reason because it turned a weakening relationship into open hostility within weeks, but it worked on existing weaknesses, and Reagan made the collapse deeper.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-twelve-mark-judgement-question--04-detente-plan.webp" width="900" height="516" alt="Plan for the détente question in three linked phases: weaknesses before 1979 explain why the reaction was strong, the invasion of Afghanistan in December 1979 decided the timing, and Reagan from 1980 explains why the collapse lasted. Judgement: agree to a large extent." loading="lazy">
+  <figcaption>Afghanistan decided when détente ended; earlier weaknesses and Reagan explain why and how long.</figcaption>
+</figure>
+
 ## Worked plan 2: Hitler's foreign policy
 
 *"The remilitarisation of the Rhineland was the most important step in increasing tension in Europe in the years 1933-38." How far do you agree?* **[12]**
@@ -101,6 +121,11 @@ A **line of reasoning** means every paragraph moves your argument forward toward
 
 Notice that the paragraph never describes a factor in isolation: each sentence compares or connects.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-twelve-mark-judgement-question--05-rhineland-plan.webp" width="900" height="862" alt="A chain of Hitler's steps: rearmament and conscription in 1935 made the Rhineland possible; the remilitarisation of March 1936 made the Anschluss safe; the Anschluss of March 1938 was the direct cause of the Sudeten crisis. A note gives an example judgement that the Rhineland was most important." loading="lazy">
+  <figcaption>Each step made the next one possible or safe: that is how to compare factors.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Only the given factor**, or the other factors mentioned in one line.
@@ -113,6 +138,11 @@ Notice that the paragraph never describes a factor in isolation: each sentence c
 ## Exam technique
 
 Paper 1 lasts 1 hour 45 minutes for 60 marks, so the 12-mark question deserves about 18 minutes, including three minutes to plan. Jot the given factor, two other factors and the comparison test you will use before you write. Write the judgement first in your plan, then make every paragraph lead to it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-twelve-mark-judgement-question--06-twelve-mark-plan.webp" width="900" height="601" alt="Time bar: about 3 minutes planning and 15 writing. Four things to jot down first: the judgement, the given factor, two other factors and a comparison test. Chips list mistakes to avoid, such as narrative, separate essays and fence-sitting." loading="lazy">
+  <figcaption>Plan the judgement first, then make every paragraph lead to it.</figcaption>
+</figure>
 
 ## Further practice
 

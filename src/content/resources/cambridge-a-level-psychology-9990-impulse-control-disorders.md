@@ -42,6 +42,21 @@ What links these disorders is a **repeated failure to resist an impulse, drive o
 
 **Evaluating the K-SAS.** It gives quantitative, comparable data and focuses on the past week, so it is sensitive to change during treatment. But it is subjective self-report about behaviour that is illegal and embarrassing, so under-reporting is likely, and it gives no qualitative detail about why the person steals. The syllabus also lists case studies and objective versus subjective data for this part: a case study adds the idiographic detail that a scale lacks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--01-impulse-cycle.webp" width="900" height="586" alt="A loop: rising tension or arousal before the act; the act itself (stealing, fire-setting or gambling); pleasure or relief during and just after; often guilt or regret afterwards, before tension rises again. The centre notes short-term reward and longer-term harm." loading="lazy">
+  <figcaption>Tension, act, relief, regret: the loop shared by all three disorders.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--02-three-disorders.webp" width="900" height="556" alt="A table of kleptomania (stealing items not needed, tension then relief), pyromania (fire-setting with fascination with fire) and gambling disorder (impaired control, increasing priority, continued despite harm), with what rules each diagnosis out, such as revenge or money motives." loading="lazy">
+  <figcaption>Motive decides it: need, money or revenge rule out kleptomania and pyromania.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--03-k-sas.webp" width="900" height="561" alt="Five things the K-SAS asks about the past week: urges, time spent thinking about stealing, control, distress and how often stealing occurred, with higher totals meaning more severe symptoms. Strengths and weaknesses of the scale follow." loading="lazy">
+  <figcaption>A past-week self-report that tracks change but invites under-reporting.</figcaption>
+</figure>
+
 ## 1.3.2 Explanations
 
 ### Biological: dopamine
@@ -55,6 +70,16 @@ Operant conditioning explains the disorders through consequences. Winning money,
 ### Cognitive: Miller's feeling-state theory
 
 Miller proposed that an impulse control disorder begins when an intense positive feeling becomes fixed to a specific behaviour during a past experience, creating a **feeling-state**. For example, a big early win might fix a feeling of "I am a winner" to gambling, or a theft might become linked to a feeling of power. Later, events that trigger a need for that feeling (often linked to underlying negative beliefs about oneself) activate the urge to repeat the behaviour. His Feeling-State Addiction Protocol aims to identify the feeling-state and process it so that the link between feeling and behaviour is broken. Evaluation: it explains why the urge is so specific to one behaviour and treats the cause, not just the behaviour. However, the supporting evidence is mainly from case reports, so it lacks nomothetic support.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--05-feeling-state.webp" width="900" height="633" alt="Four steps: a past experience such as a big early win; an intense positive feeling becomes fixed to the behaviour, forming a feeling-state; later events trigger a need for that feeling; the urge to repeat the behaviour is activated. The Feeling-State Addiction Protocol aims to break the link." loading="lazy">
+  <figcaption>A feeling fixed to one behaviour drives the urge; therapy breaks the link.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--04-three-explanations.webp" width="900" height="597" alt="Three columns: dopamine in the reward pathway (supported by Parkinson's medication cases), positive reinforcement (variable-ratio wins, near misses, relief as negative reinforcement) and Miller's feeling-state theory (a positive feeling fixed to a behaviour). Each has an evaluation card beneath." loading="lazy">
+  <figcaption>Biology explains the reward, learning the repetition, feeling-states the specific urge.</figcaption>
+</figure>
 
 ## 1.3.3 Treatment and management
 
@@ -72,6 +97,11 @@ Miller proposed that an impulse control disorder begins when an intense positive
 
 **Evaluation.** Double-blind placebo control and a large pooled sample support internal validity and generalisation. But pooling two trials with different drugs and durations adds variability, and a family history reflects both genes and environment, so it does not separate nature from nurture. The placebo response shows expectations alone can reduce symptoms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--06-grant-2008.webp" width="900" height="919" alt="Two double-blind placebo-controlled trials, nalmefene for 16 weeks and naltrexone for 18 weeks, were pooled to give 284 people. Response meant at least a 35% reduction sustained for a month. A family history of alcoholism best predicted drug response; stronger urges predicted response at higher doses; younger age predicted placebo response." loading="lazy">
+  <figcaption>A family history of alcoholism best predicted response to the drug.</figcaption>
+</figure>
+
 ### Psychological (cognitive-behavioural) therapies
 
 **Covert sensitisation** pairs the *imagined* urge or act with an *imagined* aversive consequence, such as nausea, being caught or public humiliation, so the behaviour becomes associated with something unpleasant. Because everything happens in imagination, it avoids the ethical problems of real aversive stimuli. Glover (1985) described using covert sensitisation with a woman with kleptomania, a case study that gives detail but cannot be generalised.
@@ -79,6 +109,11 @@ Miller proposed that an impulse control disorder begins when an intense positive
 **Imaginal desensitisation** first teaches relaxation, then has the client imagine a sequence of trigger situations (for example passing a betting shop and feeling the urge) and imagine leaving without acting on it, while staying relaxed. The urge is weakened because relaxation replaces arousal. Blaszczynski and Nower (2003) describe the technique for problem gambling.
 
 **Comparing treatments.** Drugs need little effort but may not suit everyone (Grant et al. show response varies) and do not address learned habits. Covert sensitisation adds aversion; imaginal desensitisation removes arousal. Both psychological therapies are short, tailored to the client's own triggers (idiographic) and teach self-control, but depend on vivid imagery and motivation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--07-imagery-therapies.webp" width="900" height="615" alt="Two columns: covert sensitisation pairs an imagined urge with imagined aversive consequences such as nausea or being caught (Glover, 1985); imaginal desensitisation pairs relaxation with imagined trigger situations so relaxation replaces arousal (Blaszczynski and Nower, 2003). A note compares both with drug treatment." loading="lazy">
+  <figcaption>Covert sensitisation adds aversion; imaginal desensitisation adds relaxation.</figcaption>
+</figure>
 
 ## Common mistakes
 

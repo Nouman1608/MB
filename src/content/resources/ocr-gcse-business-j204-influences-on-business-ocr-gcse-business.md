@@ -49,6 +49,11 @@ Learn the "points to include" as a checklist. Examiners build questions around t
 that names the right point, such as "sourcing of materials" rather than "being nice", shows precise
 knowledge from the start.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--01-points-to-include.webp" width="900" height="919" alt="A checklist of the specification’s points to include: ethical (treatment of workers, suppliers and customers, sourcing of materials, marketing decisions), environmental (sustainability, waste disposal, pollution, climate change), economic climate (consumer income, unemployment) and globalisation (multinationals, location, international branding, competing internationally)." loading="lazy">
+  <figcaption>Learn the points to include as a checklist: questions are built around them.</figcaption>
+</figure>
+
 ## 6.1 Ethical considerations: the trade-off with profit
 
 An ethical decision is one judged by what is right, not only by what is legal or profitable. The
@@ -86,6 +91,16 @@ If Kestrel absorbs the cost, the margin falls by 7.5 percentage points. Raising 
 some of it, but only if customers value the certification enough to keep buying. A good answer uses
 the figures to show the cost, then judges whether the target customers are likely to pay more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--02-ethics-cost-benefit.webp" width="900" height="760" alt="Five ethical areas, each with a possible cost and benefit: treating workers well (higher wages, but lower turnover), suppliers (fair prices, but reliable supply), customers (honest labelling, but trust), sourcing (certified inputs cost more, but a selling point) and marketing (no misleading claims, but a lasting reputation)." loading="lazy">
+  <figcaption>Ethics has a cost and a possible benefit; the balance depends on the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--03-kestrel-ethical-sourcing.webp" width="900" height="939" alt="Kestrel sells 4,000 packs at £6.00. With tea at £2.10 gross profit is £15,600, a 65.0% margin. Certified tea at £2.55 cuts gross profit to £13,800 (57.5%). Raising the price to £6.50 with sales of 3,800 gives £15,010 on revenue of £24,700, a 60.8% margin." loading="lazy">
+  <figcaption>Fair-trade tea costs 7.5 margin points unless customers accept a higher price.</figcaption>
+</figure>
+
 ## 6.1 Environmental considerations
 
 The four points to include each affect a business in a different way:
@@ -103,6 +118,11 @@ How businesses respond is the second half of the specification point. Typical re
 redesigning products, changing suppliers, investing in energy-efficient equipment and using an
 environmental record in marketing. Each response involves operations, finance and marketing, which
 links section 6 to section 7.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--04-environmental-considerations.webp" width="900" height="820" alt="Four environmental points and their impact: sustainability raises costs now but protects supply; cutting waste lowers costs; pollution harms the community and image; climate change disrupts supply, shifts customers to lower-carbon products and raises the importance of energy costs. Responses include redesigning products, changing suppliers, efficient equipment and green marketing." loading="lazy">
+  <figcaption>Each environmental point affects the business differently, and each response crosses functions.</figcaption>
+</figure>
 
 ## 6.2 The economic climate
 
@@ -136,6 +156,16 @@ customer fell. Larkspur could respond with a cheaper set menu, mid-week offers o
 hours. A nearby discount supermarket (invented) might see the opposite: more customers cooking at
 home. That contrast is exactly what "impact on businesses" questions reward.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--05-economic-climate.webp" width="900" height="650" alt="Rising unemployment lowers total household income, and people in work spend more cautiously. Non-essential businesses such as restaurants lose sales first, essentials and budget versions lose less or gain, and employers find recruitment easier. An analysis chain runs from unemployment to fewer meals out, falling revenue and fixed costs that are harder to cover." loading="lazy">
+  <figcaption>A downturn hits non-essentials hardest, and can help budget sellers and employers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--06-larkspur-bistro.webp" width="900" height="866" alt="Two revenue rectangles: 600 meals at an average £24 gives £14,400 a week; after unemployment rises, 510 meals at £22 gives £11,220. Meals fall 15% but revenue falls 22.1%, because both the number of meals and the spend per customer fall." loading="lazy">
+  <figcaption>Fewer customers spending less each: revenue falls faster than meals.</figcaption>
+</figure>
+
 ## 6.3 Globalisation
 
 **Globalisation** is the growing connection between countries' economies, so that goods, services,
@@ -168,6 +198,16 @@ sells imported bikes at £320. Pennant's options:
 A strong answer recommends one option and justifies it from the case, for example: Pennant should
 compete on quality and service, because it cannot win on price against a business with much larger
 scale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--07-globalisation-four-points.webp" width="900" height="800" alt="Globalisation’s four points: multinationals can be a threat (strong brands, low prices) or an opportunity (a customer or supplier); location choices now include sites abroad, where low wages are only one factor; branding ranges from one global brand to local adaptation; and businesses compete internationally on price, quality, brand, service and e-commerce." loading="lazy">
+  <figcaption>Apply each globalisation point to the business in the case.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--08-pennant-cycles-options.webp" width="900" height="789" alt="Pennant Cycles sells UK-built bikes at £410 against imported bikes at £320. Cutting price keeps price-sensitive buyers but may wipe out margins; competing on quality and service keeps loyal customers in a smaller market; selling online abroad opens new markets with delivery costs. The recommended option is quality and service." loading="lazy">
+  <figcaption>A small business rarely wins on price against a multinational’s scale.</figcaption>
+</figure>
 
 ## Exam technique
 

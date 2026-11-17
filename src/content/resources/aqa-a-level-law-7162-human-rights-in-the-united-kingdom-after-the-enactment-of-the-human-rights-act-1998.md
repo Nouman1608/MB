@@ -44,6 +44,11 @@ Instead, **section 1** and **Schedule 1** define the "Convention rights" that UK
 - **Derogations and reservations** made by the UK can be designated so that the rights apply subject to
   them (sections 14 and 15).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-rights-act-1998--01-schedule-1-rights.webp" width="900" height="504" alt="Schedule 1 includes Articles 2 to 12 and 14, Articles 1 to 3 of Protocol 1 and Article 1 of Protocol 13, read with Articles 16 to 18. It leaves out Article 1, the state’s duty to secure rights, and Article 13, the right to an effective remedy, because the government said the Act itself provides the remedy. Derogations and reservations can be designated under sections 14 and 15." loading="lazy">
+  <figcaption>Most Convention rights came in; Articles 1 and 13 were left out.</figcaption>
+</figure>
+
 ## Method of incorporation: the "dialogue" model
 
 The Act was designed to protect rights **without giving courts power to strike down Acts of
@@ -97,6 +102,21 @@ It is unlawful for a **public authority** to act incompatibly with Convention ri
 tribunals** are public authorities (section 6(3)), but **Parliament** is not. A public authority has a
 defence if primary legislation required it to act as it did (section 6(2)).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-rights-act-1998--02-section-3-limits.webp" width="900" height="425" alt="A scale from interpretation to amendment. R v A (No 2) read an implied fair-trial provision into a restriction on sexual history evidence; Ghaidan v Godin-Mendoza read “as his or her wife or husband” to include a same-sex partner, going with the grain of the Act. Re S and Re W marks the limit: a new scheme of court supervision of care plans would be amendment, not interpretation." loading="lazy">
+  <figcaption>Section 3 can stretch words, but not against a fundamental feature of the Act.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-rights-act-1998--03-dialogue-model.webp" width="900" height="790" alt="Courts can make a declaration of incompatibility under section 4, which leaves the law valid; Parliament and ministers respond by changing the law, by section 10 remedial order, and through section 19 statements of compatibility. Examples: Bellinger led to the Gender Recognition Act 2004; Anderson to the Criminal Justice Act 2003; Nicklinson declined a declaration; the Communications Act 2003 had no s19 statement. Section 6 binds public authorities including courts, but not Parliament." loading="lazy">
+  <figcaption>Courts declare, Parliament decides: the final word stays with Parliament.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-nature-of-law-and-english-legal-system--08-law2-hra-section3-4.webp" width="900" height="951" alt="A flow chart. Legislation is read under section 3 of the Human Rights Act 1998 so far as it is possible, compatibly with Convention rights. If a compatible reading is possible, the court adopts it, as in Ghaidan v Godin-Mendoza (2004). If not, higher courts may make a declaration of incompatibility under section 4, as in Bellinger v Bellinger (2003), and the Act stays in force until Parliament changes it." loading="lazy">
+  <figcaption>Section 3 asks for a compatible reading; if impossible, section 4 allows a declaration, but the Act remains law.</figcaption>
+</figure>
+
 ## Impact on constitutional arrangements
 
 - **Parliamentary sovereignty preserved in form.** Courts cannot invalidate Acts of Parliament. In
@@ -110,6 +130,11 @@ defence if primary legislation required it to act as it did (section 6(2)).
   express words will do.
 - **Change across ordinary law.** The Act has shaped privacy law (Campbell v MGN, 2004), the law on
   inquests into deaths involving the state, police powers and housing law.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-rights-act-1998--04-constitutional-impact.webp" width="900" height="435" alt="Four impacts: parliamentary sovereignty is preserved in form, though governments usually change the law after declarations; courts review proportionality, more intensely than Wednesbury, on sensitive issues such as A v Secretary of State; Thoburn treats the Act as a constitutional statute that cannot be impliedly repealed; and ordinary law has changed in privacy, inquests, police powers and housing." loading="lazy">
+  <figcaption>Sovereignty survives in form, but courts now play a larger constitutional role.</figcaption>
+</figure>
 
 ## Entrenchment in the devolution settlements
 
@@ -135,6 +160,11 @@ So devolved legislation can be **struck down** for incompatibility, unlike an Ac
 Repealing or weakening the Act would therefore affect the devolved settlements and, under the Sewel
 convention, Westminster would not normally legislate on devolved matters without consent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-rights-act-1998--05-devolution-entrenchment.webp" width="900" height="602" alt="Three columns. At Westminster an Act of Parliament cannot be struck down. In Scotland an incompatible Act of the Scottish Parliament is not law (Scotland Act 1998 s29(2)(d)), ministers cannot act incompatibly and the HRA cannot be modified; Salvesen v Riddell and Christian Institute struck provisions down. In Northern Ireland incompatible Assembly legislation is outside competence and the HRA is an entrenched enactment. Repealing or weakening the Act would affect the devolved settlements, given the Sewel convention." loading="lazy">
+  <figcaption>Devolved law can be struck down for incompatibility; Acts of Parliament cannot.</figcaption>
+</figure>
+
 ## Criticisms of Human Rights
 
 | From those who want less judicial or European influence | From those who want stronger protection |
@@ -145,6 +175,11 @@ convention, Westminster would not normally legislate on devolved matters without
 | Strasbourg influence through section 2 conflicts with national sovereignty (prisoner voting after Hirst v UK (No 2), 2005) | Private bodies performing public services may fall outside section 6 |
 
 These criticisms drive the debate covered in the [Reform study guide](/resources/aqa-a-level-law-7162-reform/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-rights-act-1998--06-criticisms-two-sides.webp" width="900" height="391" alt="Two columns of criticism. Those wanting less judicial or European influence point to section 3 rewriting statutes, Article 8 in deportation cases, Smith v Ministry of Defence and prisoner voting after Hirst. Those wanting stronger protection point to the lack of entrenchment, non-binding declarations, no economic and social rights, and private bodies outside section 6." loading="lazy">
+  <figcaption>Some say the Act gives judges too much power; others say it protects too little.</figcaption>
+</figure>
 
 ## Common mistakes
 

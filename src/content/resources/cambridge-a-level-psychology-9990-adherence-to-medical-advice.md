@@ -59,6 +59,21 @@ The [Health Psychology study guide](/resources/a-level-psychology-health-psychol
 
 **Evaluating the explanations.** Both explain non-adherence as a decision, which suits patients who stop deliberately. Neither explains unintentional non-adherence well, such as simply forgetting, so prompts and routines are needed as well. The Health Belief Model is reductionist: it reduces behaviour to a few beliefs and leaves out emotion, social support and habit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-adherence-to-medical-advice--01-types-and-problems.webp" width="900" height="653" alt="Two cards show the types of non-adherence: failing to follow treatments (missed, wrong or early-stopped doses, ignored lifestyle advice) and failing to attend appointments. Below, the problems: for the patient, illness lasts longer or returns; for health services, wasted time and money and wrongly stronger prescriptions." loading="lazy">
+  <figcaption>Non-adherence harms both the patient and the health service.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-adherence-to-medical-advice--02-rational-or-forgetting.webp" width="900" height="748" alt="Two columns contrast rational non-adherence, a reasoned decision after weighing side effects, cost, inconvenience and doubts, with unintentional non-adherence such as forgetting. Decision-based explanations fit the first but not the second, which needs prompts and routines. Notes summarise Laba et al. (2012) and the reductionism of the Health Belief Model." loading="lazy">
+  <figcaption>Decision-based explanations fit rational non-adherence, not forgetting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--15-he-health-belief-model.webp" width="900" height="1040" alt="Perceived susceptibility, perceived severity and cues to action feed a weighing-up of perceived benefits against perceived barriers. Benefits outweighing barriers leads to action; barriers outweighing benefits leads to no action." loading="lazy">
+  <figcaption>The health belief model as a balance of benefits and barriers.</figcaption>
+</figure>
+
 ## 3.2.2 Measuring non-adherence
 
 | Type | Examples | Strengths | Weaknesses |
@@ -72,6 +87,16 @@ The [Health Psychology study guide](/resources/a-level-psychology-health-psychol
 **Pill counting and dispensers.** A pill count compares the number of pills left with the number that should be left. An electronic dispenser, such as a cap with a microchip, records the date and time of every opening. Chung and Naya (2000) is the syllabus example of using an electronic device to monitor medication-taking, which can reveal missed doses and irregular timing that patients do not report.
 
 **Choosing a measure.** In an exam scenario, match the measure to the purpose. To find out *why* a patient misses doses, use an interview. To find out *how many* doses are missed, use a dispenser. To confirm that the drug has been taken, use a biological test. Using two measures together allows each to check the validity of the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-adherence-to-medical-advice--03-choosing-a-measure.webp" width="900" height="710" alt="Three rows link a question to a measure: to find out why doses are missed, use an interview; how many are missed, an electronic dispenser; whether the drug has been taken, a blood or urine test. A note advises using two measures so each checks the other." loading="lazy">
+  <figcaption>Why: interview. How many: dispenser. Taken: biological test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--17-he-measuring-adherence.webp" width="900" height="1030" alt="Subjective (interviews): cheap, gives reasons, patients may overstate. Objective (pill counts, electronic dispensers): no honesty needed, opened does not mean taken. Biological (blood, urine): most valid, invasive, costly and shows recent use only." loading="lazy">
+  <figcaption>Strengths and weaknesses of three ways to measure non-adherence.</figcaption>
+</figure>
 
 ## 3.2.3 Improving adherence
 
@@ -93,11 +118,31 @@ The [Health Psychology study guide](/resources/a-level-psychology-health-psychol
 - *Conclusion*: simple, targeted prompts are an efficient way to improve attendance, while incentives and better access produce larger gains at greater cost.
 - *Evaluation*: large sample and random allocation support generalisation and causal conclusions; immunisation records avoid self-report bias; the study was in one community and one era, so cultural and service differences may limit generalisation; the use of children's records requires parental consent and confidentiality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-adherence-to-medical-advice--04-improving-adherence.webp" width="900" height="586" alt="A table lists five ways to improve adherence: the Funhaler for children, contracts, prompts, customising treatment and community interventions, with what each involves and the barrier it tackles, such as dislike of treatment, low commitment, forgetting or a regime that does not fit daily life." loading="lazy">
+  <figcaption>Pick the technique that targets the patient's barrier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-adherence-to-medical-advice--05-yokley-glenwick-card.webp" width="900" height="850" alt="Study card for Yokley and Glenwick (1984): aim, sample of 1,133 families and immunisation records as the measure; six randomly allocated conditions (four interventions, two controls); results ranking incentive, access, specific prompt and general prompt; the conclusion; and strengths and weaknesses." loading="lazy">
+  <figcaption>Specific prompts were the most cost-effective; incentives gave the biggest effect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--21-he-yokley-glenwick.webp" width="900" height="960" alt="Six groups of families: four interventions ranked by effect (specific prompt plus money, plus easier access, specific prompt alone, general prompt) and two control groups. All interventions except the general prompt improved on controls; specific prompts alone were most cost-effective." loading="lazy">
+  <figcaption>Ranking of the interventions to improve immunisation.</figcaption>
+</figure>
+
 ## Worked example: a 6-mark describe answer
 
 *Describe ways of measuring non-adherence.* [6]
 
 "Subjective measures ask patients about their adherence, for example in a clinical or semi-structured interview (1), which can reveal reasons for missed doses (1). Objective measures include pill counting, comparing pills left with pills that should be left (1), and electronic medication dispensers that record each time the container is opened (1). Biological measures test blood or urine samples for the drug or its by-products (1), which directly shows whether the drug has been taken recently (1)."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-adherence-to-medical-advice--06-six-mark-frame.webp" width="900" height="424" alt="Three columns, one per type of measure, each worth two marks: subjective interviews and the reasons they reveal, objective pill counts and electronic dispensers, and biological blood or urine tests that show recent use. A note gives the pattern of three types times two marks." loading="lazy">
+  <figcaption>Three types, each named with an example plus one detail, earn the six marks.</figcaption>
+</figure>
 
 ## Common mistakes
 

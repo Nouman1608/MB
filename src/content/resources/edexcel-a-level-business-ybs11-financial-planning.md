@@ -59,6 +59,11 @@ Average cost falls as output rises because the same fixed costs are spread over 
 
 **Ways of improving sales volumes and revenues** include promotion, better distribution, improving the product, entering new markets and changing price. A price change only raises revenue in the right direction for the product's price elasticity: a cut helps if demand is elastic, a rise helps if it is inelastic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--01-pennant-costs.webp" width="900" height="670" alt="Pennant Print’s fixed costs of $18,000 stay the same while variable costs at $2.50 a unit rise from $15,000 at 6,000 units to $22,500 at 9,000. Total cost rises from $33,000 to $40,500, but average cost falls from $5.50 to $4.50." loading="lazy">
+  <figcaption>Spreading the same fixed costs over more units lowers average cost.</figcaption>
+</figure>
+
 ## Sales forecasting
 
 A **sales forecast** predicts future sales volume or revenue. Its **purposes** are to plan production and inventory, plan staffing, prepare cash-flow forecasts and budgets, and support applications for finance.
@@ -66,6 +71,11 @@ A **sales forecast** predicts future sales volume or revenue. Its **purposes** a
 The specification names three groups of **factors** that affect forecasts. **Consumer trends**, such as a shift towards healthier food, change what people buy over time. **Economic variables**, such as incomes, inflation, interest rates and exchange rates, change customers' ability to spend. **Actions of competitors**, such as a new rival or a price cut, change a firm's share of what is bought.
 
 **Difficulties:** new businesses and new products have no sales history; tastes can change quickly; economic conditions are hard to predict; rivals' actions are unknown in advance; and an over-optimistic owner may bias the figures. A wrong forecast feeds errors into every plan based on it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--02-sales-forecasting.webp" width="900" height="836" alt="Consumer trends, economic variables and competitors’ actions shape a sales forecast, which is used to plan production and inventory, staffing, cash-flow forecasts and budgets, and finance applications. Difficulties include no sales history, changing tastes, unpredictable economies and rivals, and owner optimism." loading="lazy">
+  <figcaption>Every plan built on a forecast inherits its errors.</figcaption>
+</figure>
 
 ## Break-even analysis
 
@@ -91,6 +101,21 @@ If ink costs push the variable cost up to $3.50, contribution falls to $5.00, br
 
 **Limitations:** it assumes all output is sold; it assumes price and variable cost per unit stay constant, ignoring bulk discounts or price cuts; it treats fixed costs as fixed at every output; it is hard to use for a business selling many products; and it is only as reliable as the sales forecast behind it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--03-pennant-break-even.webp" width="900" height="850" alt="A break-even chart for Pennant Print with fixed costs of $18,000, total cost rising at $2.50 a unit and total revenue at $8.50 a unit. The lines cross at 3,000 units and $25,500. With expected sales of 4,200 units the margin of safety is 1,200 units." loading="lazy">
+  <figcaption>Pennant breaks even at 3,000 units and expects a 1,200-unit margin of safety.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--04-ink-cost-break-even.webp" width="900" height="840" alt="When Pennant’s variable cost rises from $2.50 to $3.50, the total cost line becomes steeper and break-even moves from 3,000 to 3,600 units. Against forecast sales of 4,200, the margin of safety halves from 1,200 to 600 units." loading="lazy">
+  <figcaption>A $1 rise in unit cost halves Pennant’s margin of safety.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--05-break-even-chart-changes.webp" width="900" height="790" alt="Two simple break-even charts. A price rise makes the total revenue line steeper, so break-even moves left. A rise in fixed costs shifts the total cost line up, so break-even moves right. Limitations: all output sold, constant price and unit cost, fixed costs at every output, many products and an uncertain forecast." loading="lazy">
+  <figcaption>A steeper revenue line pulls break-even left; higher fixed costs push it right.</figcaption>
+</figure>
+
 ## Cash-flow forecasts
 
 A cash-flow forecast predicts cash **inflows** and **outflows** each month. Net cash flow = inflows − outflows; closing balance = opening balance + net cash flow; and each month's closing balance becomes the next month's opening balance.
@@ -111,6 +136,11 @@ A cash-flow forecast predicts cash **inflows** and **outflows** each month. Net 
 Sales rise every month, yet cash falls in January and February because half of each month's sales are not received until the next month. The forecast lets Holloway see this in advance and arrange an overdraft or shorten credit terms.
 
 **Uses:** spotting shortfalls in time to arrange finance, supporting a loan application and setting targets. **Limitations:** it depends on sales and cost forecasts that may be wrong; customers may pay late; and unexpected costs, such as repairs, are not included.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--06-holloway-cash-flow.webp" width="900" height="1002" alt="Holloway Tiles receives half of each month’s sales at once and half the next month, so inflows are $11,000, $13,500 and $16,500 for January to March. Against outflows of $12,500, $14,000 and $15,000, the closing balance falls from $4,000 to $2,500 and $2,000 before rising to $3,500." loading="lazy">
+  <figcaption>Credit sales delay cash, so a growing business can still run short.</figcaption>
+</figure>
 
 ## Budgets and variance analysis
 
@@ -133,6 +163,11 @@ A **variance** is the difference between budgeted and actual figures. A **favour
 The materials variance looks good, but it may simply reflect lower sales volume rather than better buying. Labour is over budget despite lower sales, which is the variance to investigate first.
 
 **Difficulties of budgeting:** forecasts behind the budget may be inaccurate; targets set too high demotivate, while targets set too low invite slack; unexpected events make budgets out of date; and setting them takes managers' time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--07-holloway-variances.webp" width="900" height="849" alt="A waterfall from budgeted profit of $11,000 to actual profit of $7,300: revenue $4,000 adverse, materials $1,500 favourable, labour $1,200 adverse and overheads on budget, a total of $3,700 adverse." loading="lazy">
+  <figcaption>Judge each variance by its effect on profit, then ask what caused it.</figcaption>
+</figure>
 
 ## Common mistakes
 

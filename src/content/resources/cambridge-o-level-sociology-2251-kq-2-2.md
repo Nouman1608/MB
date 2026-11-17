@@ -66,6 +66,11 @@ The strongest control of all is **internalised**: through socialisation we come 
 right, so we feel guilt or shame before anyone else reacts. External sanctions mainly deal with the
 cases where internal control fails.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--01-sanctions-grid.webp" width="900" height="664" alt="A two-by-two grid of formal and informal control against positive and negative sanctions: a bravery award is formal positive, a court sentence formal negative, a parent’s praise informal positive and being ignored by friends informal negative. A note explains that internalised control is the strongest." loading="lazy">
+  <figcaption>Sanctions can be formal or informal, positive or negative.</figcaption>
+</figure>
+
 ## Formal agencies and their methods
 
 | Agency | Main methods | Effective when… | Less effective when… |
@@ -88,6 +93,16 @@ observed. Surveillance works in the same way: knowing you might be watched chang
 Critics point to privacy, the risk of misuse by governments and the fact that some groups are
 watched more closely than others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--02-formal-agencies.webp" width="900" height="608" alt="A table of five formal agencies, government, police, courts, penal system and armed forces, with their main methods and when they are more or less effective. A note explains that coercion is a last resort and that conformity through fear is less stable." loading="lazy">
+  <figcaption>Formal control works best when people see the rules and penalties as legitimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--03-panopticon-surveillance.webp" width="900" height="666" alt="Plan of a panopticon: a ring of cells around a central watchtower. Because prisoners could not tell when a guard was looking, they behaved as though always observed. Digital surveillance such as CCTV, facial recognition, number-plate cameras and phone location data works the same way; critics raise privacy and misuse." loading="lazy">
+  <figcaption>Knowing you might be watched changes behaviour.</figcaption>
+</figure>
+
 ## Informal agencies and their methods
 
 The syllabus names six informal agencies; their power comes from relationships people value.
@@ -108,6 +123,11 @@ Informal control is usually more effective in everyday life because it is consta
 people whose opinion matters. It is weaker in large, anonymous cities, where people do not know their
 neighbours, and among people who do not care about the group's approval.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--04-informal-agencies.webp" width="900" height="565" alt="A table of six informal agencies with their positive and negative sanctions, from parental treats and grounding to promotion and dismissal. Below: informal control is usually more effective because it is constant, but weaker in anonymous cities and among people who do not care about approval." loading="lazy">
+  <figcaption>Informal control draws its power from relationships people value.</figcaption>
+</figure>
+
 ## The theoretical debate
 
 **Functionalism (consensus).** Social control protects shared values that benefit everyone. Émile
@@ -126,6 +146,11 @@ is fair. Ideological control is cheaper and more effective, because people polic
 responsibilities, in public through fear of male violence and concern for reputation, and at work by
 male supervisors. This helps explain why women commit fewer crimes, and shows informal control
 falling unequally on women.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--05-theories-of-control.webp" width="900" height="626" alt="Functionalism sees control protecting shared values, with Durkheim’s idea that punishment unites society. Marxism sees it serving the ruling class; Althusser separates repressive state apparatuses that use force from ideological ones that persuade. Feminism, through Heidensohn, sees control maintaining patriarchy at home, in public and at work." loading="lazy">
+  <figcaption>One consensus view and two conflict views of who benefits from control.</figcaption>
+</figure>
 
 ## Resistance: protest groups and subcultures
 
@@ -148,6 +173,11 @@ status unavailable elsewhere (Albert Cohen's idea of status frustration among wo
 1955); excitement and rebellion; and the influence of friends. Note the irony: subcultures resist
 mainstream control but usually impose strong informal control of their own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--06-resistance.webp" width="900" height="665" alt="Deviant behaviour breaks norms; non-conformist behaviour rejects expectations without breaking the law. Four kinds of resistance: protest groups such as the school climate strikes, youth subcultures such as punk, online subcultures and religious subcultures. Reasons for joining include belonging, grievances, status, excitement and friends." loading="lazy">
+  <figcaption>Subcultures resist mainstream control but usually impose strong control of their own.</figcaption>
+</figure>
+
 ## Worked example: an evaluation plan (practice)
 
 *Evaluate the view that social control mainly benefits the powerful.*
@@ -160,6 +190,11 @@ mainstream control but usually impose strong informal control of their own.
   families and religious communities often reflects genuine agreement.
 - **Judgement:** some control clearly protects everyone, but who makes the rules and who is
   watched most closely suggests that the powerful benefit more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--07-evaluation-plan.webp" width="900" height="652" alt="A balance weighing conflict arguments that control benefits the powerful, from Marxists and Heidensohn, against consensus arguments that it benefits everyone, such as laws against violence and Durkheim’s view of punishment. It tips slightly towards the conflict side, and the judgement says the powerful benefit more." loading="lazy">
+  <figcaption>Set conflict against consensus, then reach a judgement.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -60,11 +60,21 @@ An unmagnetised piece of magnetic material is attracted by **either** pole of a 
 
 **Why this scores:** it uses the idea that attraction is not proof correctly, and the end-to-middle test really does separate the magnet from the iron. Repulsion is not available as a test here, because there is only one magnet.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-simple-phenomena-of-magnetism-cambridge-igcse-physics--01-identifying-a-magnet.webp" width="900" height="710" alt="Two magnets attract with unlike poles and repel with like poles; a magnet attracts unmagnetised iron at either pole and never repels it, so only repulsion proves both are magnets. Touching the end of bar X to the middle of bar Y: strong attraction means X is the magnet; little or none means Y is the magnet, because a magnet's middle has almost no magnetic effect." loading="lazy">
+  <figcaption>Only repulsion proves both are magnets; the end-to-middle test separates magnet from iron.</figcaption>
+</figure>
+
 ## Induced magnetism
 
 When a piece of unmagnetised magnetic material is placed near (or touching) a magnet, it **becomes a magnet itself**: this is **induced magnetism**. The end nearest the magnet becomes the **opposite** pole, so the two attract. That is why a magnet attracts iron from either pole: an N pole induces an S pole in the near end of the iron, and an S pole induces an N pole.
 
 Induced magnetism explains a chain of iron nails hanging from one pole of a magnet: each nail is magnetised by the one above it and attracts the next.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--05-induced-magnet.webp" width="900" height="940" alt="A bar magnet near an iron nail. With an N pole near, the nail end nearest becomes S and the far end N; with an S pole near the nearest end becomes N. Both cases attract. With the magnet removed the nail loses most of its magnetism." loading="lazy">
+  <figcaption>Induced magnetism always gives attraction.</figcaption>
+</figure>
 
 ## Temporary and permanent magnets
 
@@ -79,6 +89,11 @@ A clear demonstration: hang a chain of soft-iron nails from one magnet and a cha
 
 **Choosing a material** in an exam question comes down to one test: does the magnetism need to **switch off** (soft iron) or **stay** (steel)?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-simple-phenomena-of-magnetism-cambridge-igcse-physics--02-soft-iron-vs-steel.webp" width="900" height="610" alt="Left: a chain of soft-iron nails hangs from a magnet and falls apart as soon as the magnet is removed, because soft iron is a temporary magnet. Right: a chain of steel pins stays partly stuck together after the magnet is removed, because steel keeps its magnetism." loading="lazy">
+  <figcaption>Soft iron when the magnetism must switch off; steel when it must stay.</figcaption>
+</figure>
+
 ## Magnetic fields
 
 A **magnetic field** is a region in which a magnetic pole experiences a force. The **direction** of the field at a point is the direction of the force on an **N pole** placed there. That is why field lines are drawn leaving N poles and entering S poles, and why a small plotting compass lines up along the field: its own N pole is pushed along the field direction and its S pole the opposite way.
@@ -92,6 +107,16 @@ Rules for drawing field lines:
 
 **Plotting compass or iron filings?** Iron filings sprinkled on card over a magnet show the whole pattern quickly, but every filing is magnetised by induction and lines up along the field without indicating which way it points, so filings give **no direction**. A plotting compass is slower, but its needle shows the **direction** at each point; mark its tip, move it on, and join the dots.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-simple-phenomena-of-magnetism-cambridge-igcse-physics--03-compass-vs-filings.webp" width="900" height="600" alt="Left: small plotting compasses around a bar magnet point along the field, their N ends showing its direction from the N pole round to the S pole; marking and joining the positions draws a field line. Right: iron filings show the whole pattern at once but give no direction." loading="lazy">
+  <figcaption>Compasses show direction; filings show only the shape of the pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--01-bar-magnet-field.webp" width="900" height="760" alt="A bar magnet with N on the left and S on the right, with curved field lines leaving N and entering S, arrows pointing N to S. Lines are closest together near the poles (strong field) and spread out far from the magnet (weaker field)." loading="lazy">
+  <figcaption>Field lines run from N to S and are closest together where the field is strongest.</figcaption>
+</figure>
+
 ## Interacting fields (Extended only)
 
 The forces between magnets are due to **interactions between their magnetic fields**. Placing two magnets close together produces a combined field:
@@ -101,6 +126,11 @@ The forces between magnets are due to **interactions between their magnetic fiel
 - **Between the flat, wide poles of a U-shaped (horseshoe) magnet:** lines are parallel, evenly spaced and run from N to S: a **uniform** field, the same strength everywhere in that region.
 
 The **relative strength** of a field is shown by the spacing of the lines: closer lines, stronger field. So the field of a bar magnet is strongest at its poles and gets weaker with distance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--04-magnet-pair-fields.webp" width="900" height="1130" alt="Field lines computed from point poles. Unlike poles facing: lines run straight across the gap from N to S. Like poles facing: lines curve away without crossing and the field is zero at a point midway. Between flat opposite poles the field is uniform with parallel, equally spaced lines." loading="lazy">
+  <figcaption>Field patterns for unlike poles, like poles and a uniform field.</figcaption>
+</figure>
 
 ## Uses of permanent magnets and electromagnets
 

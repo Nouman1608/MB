@@ -62,6 +62,11 @@ Write each factor as a chain:
   better off, and a middle generation that may care for young children and frail parents at the same
   time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-3--01-demographic-chains.webp" width="900" height="597" alt="Four chains from cause to effect: contraception, lower infant mortality and the cost of children lead to falling birth rates and smaller families; better diet and medicine raise life expectancy and create beanpole families; both produce an ageing population with more care for parents; delayed parenthood produces older parents and a middle generation caring both ways." loading="lazy">
+  <figcaption>Write each demographic change as a chain: cause, change, effect on family life.</figcaption>
+</figure>
+
 ## Industrialisation and urbanisation (4.3.2)
 
 **Industrialisation** is the shift from agricultural work to factory and service work; **urbanisation**
@@ -80,6 +85,11 @@ changes did to family structure and roles.
 - **Urbanisation today:** in many countries young adults move to cities for work, forming nuclear or
   single-person households while keeping ties to rural relatives through visits, phones and money
   sent home. The result is often a modified extended family rather than the end of kinship.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-3--02-industrialisation-debate.webp" width="900" height="616" alt="Young and Willmott’s three stages: the pre-industrial family as a unit of production, an early industrial stage of extended kin networks, and a later home-centred symmetrical family. Parsons’s functional fit theory is set against historians who found nuclear households before industrialisation. Urbanisation today often produces modified extended families." loading="lazy">
+  <figcaption>The link between industry and the nuclear family is debated, not settled.</figcaption>
+</figure>
 
 ## Why are marriage, divorce and cohabitation changing? (4.3.3)
 
@@ -104,6 +114,16 @@ Each named factor needs a mechanism, not just a label.
 - **Late modern and postmodern writers:** Anthony Giddens (1992) described the **pure relationship**,
   which lasts only as long as both partners are satisfied. Ulrich Beck and Elisabeth Beck-Gernsheim
   linked rising divorce to **individualisation**, as tradition gives way to personal choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-3--03-six-factors.webp" width="900" height="483" alt="Six factors around the trends in marriage, divorce and cohabitation, each with its mechanism: legislation, changing attitudes, the internet, secularisation, cultural expectations and female empowerment." loading="lazy">
+  <figcaption>Each factor needs a mechanism, not just a label.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-3--04-perspectives-on-divorce.webp" width="900" height="437" alt="Four perspectives on rising divorce: functionalists, through Fletcher, see high expectations of marriage and remarriage; the New Right see family breakdown harming children; feminists see women’s independence; late modern writers see the pure relationship (Giddens) and individualisation (Beck and Beck-Gernsheim)." loading="lazy">
+  <figcaption>The same trend means decline to some and progress to others.</figcaption>
+</figure>
 
 ## Alternatives to marriage (4.3.4)
 
@@ -139,6 +159,16 @@ medieval Europe children joined adult work and life early. Today:
 work, **economic support** such as help with housing, and **wisdom and advice**. Later in life they may
 become **dependent**, needing care that falls mainly on the middle generation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-3--05-changing-roles.webp" width="900" height="559" alt="Conjugal roles are moving towards the symmetrical and dual worker family, though feminists say women keep the main responsibility. Children have become an economic cost, families more child-centred, and boomerang children return home. Grandparents give childcare, economic support and advice, but may later become dependent." loading="lazy">
+  <figcaption>Longer lives and longer childhoods have changed what each generation does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--04-sandwich-generation.webp" width="900" height="616" alt="Three generations stacked: middle-aged adults in the middle care for their ageing parents above and their own children below at the same time." loading="lazy">
+  <figcaption>Longer lives and later parenthood squeeze the middle generation from both sides.</figcaption>
+</figure>
+
 ## Worked example: an annotated "explain" answer
 
 **Question:** Explain **two** reasons why divorce rates have risen in many societies.
@@ -153,6 +183,11 @@ progress rather than breakdown **[mechanism and perspective]**."
 
 *Why it works:* each reason is separate, explained with *how* it raises divorce, and connected to a
 concept or perspective.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-3--06-explain-two-reasons.webp" width="900" height="464" alt="Two reasons laid out as point, mechanism and link: easier divorce laws let unhappy couples end marriages legally, reducing empty shell marriages; female empowerment means women can leave because they are financially independent, which feminists see as progress." loading="lazy">
+  <figcaption>Change, mechanism, effect: the chain every explain answer needs.</figcaption>
+</figure>
 
 ## Common mistakes
 

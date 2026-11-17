@@ -46,11 +46,21 @@ A fear appeal tries to change behaviour by showing the harmful consequences of n
 
 **Evaluation.** The experiment had a control group and standardised talks, but behaviour was self-reported and measured after only a week, so long-term effects are unknown. There are ethical concerns about deliberately frightening young people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--01-janis-feshbach.webp" width="900" height="709" alt="Four groups heard a strong, moderate or minimal fear talk on dental hygiene, or a talk on another topic. A week later the minimal fear group showed the most change in reported behaviour and the strong fear group the least; bars show order only. Notes explain why strong fear can backfire, followed by evaluation." loading="lazy">
+  <figcaption>Minimal fear changed behaviour most; strong fear least.</figcaption>
+</figure>
+
 ## 3.5.1 Providing information
 
 Information campaigns assume that people will change once they know what to do. **Lewin et al. (1992)** gave patients who had had a heart attack a self-help rehabilitation programme, the Heart Manual, which contained information, exercise and relaxation guidance. A comparison group received standard information and informal counselling. Patients with the manual showed better psychological adjustment, such as less anxiety and depression, and made less use of health services in the months that followed. The use of follow-up measures over months links to the syllabus methodology of longitudinal studies.
 
 **Limits of information.** Knowing what is healthy does not guarantee action. Many smokers know smoking is harmful. Information works best when it is specific, comes from a credible source and tells people *how* to change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--02-providing-information.webp" width="900" height="693" alt="Heart attack patients given the Heart Manual (information, exercise and relaxation guidance) showed better adjustment and less use of health services over months than a comparison group given standard information. A note explains that information works best when specific, credible and practical, and a final row compares fear arousal (emotion) with information (knowledge)." loading="lazy">
+  <figcaption>Information helps most when it shows people how to change.</figcaption>
+</figure>
 
 ## 3.5.2 Schools: healthy eating
 
@@ -58,17 +68,32 @@ Information campaigns assume that people will change once they know what to do. 
 
 **Evaluation.** Measuring how much fruit and vegetables children actually eat gives objective data, unlike asking them. Schools vary, so there may be confounding variables between schools. Ethically, the use of children in research requires parental consent and care not to create pressure around eating. Whether eating habits persist once rewards stop is a key question for any reward-based scheme.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--03-food-dudes.webp" width="900" height="726" alt="The Food Dudes programme combines modelling (children imitate admired video peers who enjoy fruit and vegetables) with positive reinforcement (stickers for eating the target foods). Consumption rose at school and in some measures at home. An evaluation grid covers objective data, confounds, ethics with children and persistence." loading="lazy">
+  <figcaption>Modelling plus rewards increased fruit and vegetable eating.</figcaption>
+</figure>
+
 ## 3.5.2 Worksites: health and safety
 
 **Fox et al. (1987)** introduced a **token economy** at two open-pit mines in the USA, where accident rates had been high. Workers earned trading stamps for working without lost-time accidents, for following safety rules and for safety suggestions; stamps were lost if they or their team had an accident. Stamps could be exchanged for goods. The number of days lost to accidents fell sharply and remained low over the following years, and the cost of accidents fell by more than the cost of the stamps.
 
 **Evaluation.** The long time period makes this a longitudinal field study with high ecological validity. However, a reward for *reported* accident-free periods could encourage workers not to report minor injuries, so some of the fall may reflect under-reporting. There was no randomised control group.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--04-fox-token-economy.webp" width="900" height="604" alt="Miners earned trading stamps for working without lost-time accidents, following safety rules and making safety suggestions, lost them if they or their team had an accident, and exchanged them for goods. Days lost to accidents fell sharply and stayed low, and accident costs fell by more than the stamps cost. A strength and weaknesses follow." loading="lazy">
+  <figcaption>Rewards for safe work cut accidents, though some fall may be under-reporting.</figcaption>
+</figure>
+
 ## 3.5.3 Unrealistic optimism
 
 **Unrealistic optimism** is the belief that negative events are less likely to happen to oneself than to others. **Weinstein (1980)** asked college students to rate how likely a range of events was to happen to them compared with other students of the same sex at their college. On average, students rated their chances of negative events (such as a heart attack or a drinking problem) as below average and their chances of positive events as above average. Logically, the average person cannot be below average, so the bias is a group-level error.
 
 **Link to health promotion.** If people think "it won't happen to me", they disregard advice about screening, safe driving or diet. Campaigns can counter this by showing that people like the audience are affected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--05-unrealistic-optimism.webp" width="900" height="561" alt="A scale centred on the average student. On average, students placed their chances of negative events such as a heart attack below average and their chances of positive events above average. A note explains why this is an error and how campaigns can counter it. Positions are illustrative." loading="lazy">
+  <figcaption>Students rated bad events as less likely, and good events as more likely, for themselves.</figcaption>
+</figure>
 
 ## 3.5.3 Positive psychology
 
@@ -93,6 +118,16 @@ Information campaigns assume that people will change once they know what to do. 
 - *Confounding variables*: groups were not randomly allocated individuals, so differences between schools or classes could explain results.
 - *Cultural differences*: a programme developed in one country may not transfer to cultures with different ideas about happiness.
 - *Idiographic versus nomothetic*: group averages may hide students who did not benefit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--06-seligman-three-lives.webp" width="900" height="395" alt="Three cards: the pleasant life (positive emotions about past, present and future), the good or engaged life (using strengths in absorbing activities) and the meaningful life (using strengths for something larger than oneself). A note warns not to confuse the good life with the pleasant life." loading="lazy">
+  <figcaption>Pleasant: positive emotion. Good: engagement. Meaningful: something larger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--07-shoshani-steinmetz.webp" width="900" height="850" alt="Study card for Shoshani and Steinmetz (2014): aim, design with intervention and control classes without individual random allocation, and before-and-after questionnaires; results showing reduced distress and gains in self-esteem and optimism; conclusion; and an evaluation grid." loading="lazy">
+  <figcaption>A class-based programme reduced distress and raised self-esteem and optimism.</figcaption>
+</figure>
 
 ## Annotated answer: a Paper 4 style suggestion
 

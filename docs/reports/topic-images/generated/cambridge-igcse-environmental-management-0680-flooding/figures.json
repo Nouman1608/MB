@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-igcse-environmental-management-0680-flooding--01-water-to-river.webp",
+  "width": 900,
+  "height": 706,
+  "after": "## How water reaches a river",
+  "alt": "Cross-section of a slope down to a river. Rain is intercepted by trees, infiltrates into the soil and moves slowly through it, or flows quickly over the surface as run-off into the river channel.",
+  "caption": "Run-off reaches rivers quickly; infiltrated water moves slowly.",
+  "bytes": 72908
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-flooding--02-causes-by-mechanism.webp",
+  "width": 900,
+  "height": 558,
+  "after": "## Causes of flooding (6.3.1)",
+  "alt": "Causes of flooding sorted by how they work. More and faster run-off: steep slopes, saturated or compacted soil, deforestation, farming practices, urbanisation and more intense rainstorms. Less channel space: soil erosion. Water collecting: low-lying flat land. Coastal flooding by sea water: sea-level rise, storm surges and tsunamis.",
+  "caption": "Link each cause to run-off, channel capacity or the sea.",
+  "bytes": 94740
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-flooding--03-management-stages.webp",
+  "width": 900,
+  "height": 628,
+  "after": "## Managing the impacts (6.3.3)",
+  "alt": "Strategies arranged before, during and after a flood. Before: monitoring and warning, land use zoning, the structure of buildings and disaster preparation. During: evacuation. During and after: shelters. After: rebuilding and international aid.",
+  "caption": "Eight strategies, sorted by when they act.",
+  "bytes": 106430
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-flooding--04-land-use-zoning.webp",
+  "width": 900,
+  "height": 680,
+  "after": "## Discussing the strategies (6.3.4)",
+  "alt": "Cross-section of a river valley. The floodplain below flood level is used for parks and playing fields, while homes, schools and hospitals are placed on higher ground. Cards give the benefit and the limitation of zoning.",
+  "caption": "Zoning controls what is built where; it is cheap but hard where land is scarce.",
+  "bytes": 79048
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-flooding--05-opportunities.webp",
+  "width": 900,
+  "height": 680,
+  "after": "## Opportunities provided by flooding (6.3.5)",
+  "alt": "Cross-section of a floodplain under floodwater. As the water spreads and slows it drops a layer of nutrient-rich silt on the farmland, and water soaks down to refill an aquifer. Cards summarise silt deposition and recharge of water stores.",
+  "caption": "Floods fertilise floodplains and refill water stores for the dry season.",
+  "bytes": 67942
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-flooding--06-urban-run-off.webp",
+  "width": 900,
+  "height": 615,
+  "after": "## Worked example 1: urban run-off",
+  "alt": "Bar chart of run-off from 45,000 m³ of rain: 9,000 m³ from woodland where 20% runs off, and 38,250 m³ from a built-over area where 85% runs off. The working shows an extra 29,250 m³ reaches the river.",
+  "caption": "Impermeable surfaces send over four times as much water to the river.",
+  "bytes": 67438
+ }
+]

@@ -38,11 +38,21 @@ Each part of the definition carries meaning and should appear in your answer:
 - **From shale rock**: the fuel is held inside shale, the fine-grained sedimentary rock from 1.1.
 - **By hydraulic fracturing**: "hydraulic" means using liquid under pressure; "fracturing" means cracking the rock.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--01-definition.webp" width="900" height="596" alt="The definition of fracking split into three parts, each explained: the extraction of natural gas or petroleum (a fossil fuel, not a new resource), from shale rock (impermeable sedimentary rock), by hydraulic fracturing (cracking rock with liquid under pressure)." loading="lazy">
+  <figcaption>Extraction of gas or oil, from shale, by hydraulic fracturing: all three parts earn the mark.</figcaption>
+</figure>
+
 ## Why shale needs to be fractured
 
 Sub-topics 1.1 and 1.4 explain why fracking exists. Oil and gas form from organic matter buried in fine mud, which becomes shale. In a **conventional** deposit, some of the oil and gas has moved out of the shale and up through permeable rock until it is trapped under impermeable rock; a well drilled into that permeable reservoir lets the fuel flow out on its own.
 
 Much of the gas, however, never leaves the shale. Shale is **impermeable**: its pores are tiny and not connected, so the gas cannot flow through it towards a well. Drilling into shale releases very little. Cracking the rock creates pathways for the gas to escape. That is the purpose of hydraulic fracturing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--02-why-fracture-shale.webp" width="900" height="706" alt="Cross-section of rock layers. A conventional well taps gas and oil that moved up long ago into permeable rock beneath a cap rock, and the fuel flows out on its own. A well into the impermeable shale below reaches gas held in tiny unconnected pores, so very little flows." loading="lazy">
+  <figcaption>Shale is impermeable, so its gas cannot reach a well until the rock is cracked.</figcaption>
+</figure>
 
 ## How the process works
 
@@ -53,6 +63,11 @@ Much of the gas, however, never leaves the shale. Shale is **impermeable**: its 
 5. **Flowback and production**: some of the fluid returns to the surface as wastewater, and gas or oil flows up the well to be collected.
 
 This sequence is the source of nearly every limitation. Large volumes of water are used at step 3, chemicals are involved at steps 3 and 5, and pressure is applied to rock deep underground.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-energy-management-and-fracking--05-fracking-process.webp" width="900" height="1110" alt="A well goes down through soil and groundwater then sideways through shale. Water, sand and chemicals are pumped in at high pressure and crack the shale. Sand holds the cracks open and gas flows up the well." loading="lazy">
+  <figcaption>Fracking cracks shale with high-pressure fluid so trapped gas can flow out.</figcaption>
+</figure>
 
 ## Benefits, explained
 
@@ -79,6 +94,11 @@ This sequence is the source of nearly every limitation. Large volumes of water a
 
 Notice the pattern: many benefits are **national** (energy security, tax), while many limitations are **local** (tremors, traffic, water). Pointing this out is an effective way to show understanding in a discuss answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--03-benefits-limitations.webp" width="900" height="762" alt="Two columns. Benefits: energy security, jobs and income, lower prices, lower emissions than coal, existing networks and new reserves, mostly tagged national. Limitations: induced earthquakes, ground water contamination, heavy water use, wastewater, methane leakage, continued fossil fuel use and local disruption, mostly tagged local." loading="lazy">
+  <figcaption>Many benefits are national; many limitations fall on the local area.</figcaption>
+</figure>
+
 ## Managing the limitations
 
 A balanced answer often recognises that limitations can be reduced, though not removed:
@@ -92,6 +112,11 @@ A balanced answer often recognises that limitations can be reduced, though not r
 
 The limitation of all of these is cost and enforcement: rules only work if they are monitored and obeyed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--04-limitations-and-controls.webp" width="900" height="820" alt="Five rows link a step of the fracking process to the limitation it causes and a way to reduce it: drilling and sealing to ground water contamination, controlled by well laws and testing; high-pressure fracturing to induced earthquakes, controlled by monitoring; fluid to heavy water use; flowback to wastewater and methane leaks, controlled by treatment and leak repair; the well pad to local disruption, reduced by siting wells away from homes and habitats." loading="lazy">
+  <figcaption>Each limitation comes from a step in the process, and each can be reduced but not removed.</figcaption>
+</figure>
+
 ## Worked example 1: putting the water use in context
 
 A proposed site has six wells. Each well needs 15,000 m³ of water for fracturing. A nearby town uses 2,500 m³ of water a day. (Figures invented for practice.)
@@ -100,6 +125,11 @@ A proposed site has six wells. Each well needs 15,000 m³ of water for fracturin
 - Equivalent days of the town's supply: 90,000 ÷ 2,500 = **36 days**.
 
 Calculations like this turn a general point ("fracking uses a lot of water") into strong evidence ("the six wells would use as much water as the town uses in 36 days"), which is more convincing in a discuss answer, especially if the source mentions a dry climate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--05-water-use.webp" width="900" height="721" alt="Six wells each needing 15,000 m³ of water add up to 90,000 m³. A grid of 36 squares shows this equals 36 days of a town’s supply at 2,500 m³ a day." loading="lazy">
+  <figcaption>Turn a general point into evidence: 90,000 m³ is 36 days of the town’s water.</figcaption>
+</figure>
 
 ## Worked example 2: a full discuss answer
 
@@ -116,6 +146,11 @@ Calculations like this turn a general point ("fracking uses a lot of water") int
 > Overall, the national benefits are real, but at this site the risks to ground water and from earthquakes are high. Fracking should only be allowed with strict monitoring of ground water and ground movement, or Country Z could invest in energy conservation and renewables instead.
 
 **Why it scores well:** it uses every source detail (imports, farmland, wells, 2 km, earthquakes), explains each point with "because" or "so", covers both sides and reaches a reasoned judgement linked to the site.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--06-discuss-structure.webp" width="900" height="570" alt="Three stacked steps for a discuss answer: benefits linked to the source, such as reducing imports; limitations linked to the source, such as farm wells, a town 2 km away and natural earthquakes; and a judgement weighing national gains against local risks, with conditions." loading="lazy">
+  <figcaption>Both sides, each tied to the source, then a judgement about this site.</figcaption>
+</figure>
 
 ## Common mistakes
 

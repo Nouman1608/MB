@@ -31,6 +31,11 @@ featured: false
 
 Historians often describe Nazi control as resting on **persuasion** (propaganda, censorship, culture) and **coercion** (the police state, camps and fear). For exam answers, the key point is that each made the other work. Propaganda made the regime popular enough that many Germans co-operated with the police, while fear made people reluctant to question the propaganda. A judgement about which mattered more needs evidence of both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-nazi-control-and-opposition--01-persuasion-and-coercion.webp" width="900" height="667" alt="Two circles, persuasion (propaganda, censorship, culture) and coercion (police state, camps, fear), joined by arrows: popularity made many Germans co-operate with the police, and fear made people reluctant to question the propaganda." loading="lazy">
+  <figcaption>Persuasion and terror reinforced each other, so weigh both.</figcaption>
+</figure>
+
 ## Goebbels, propaganda and censorship
 
 **Joseph Goebbels** became Reich Minister for Popular Enlightenment and Propaganda in March 1933. His task was to make Germans think as the regime wished, through every medium:
@@ -43,9 +48,19 @@ Historians often describe Nazi control as resting on **persuasion** (propaganda,
 
 **Censorship** was the other side of propaganda. On 10 May 1933 students burned books by Jewish, socialist and other banned authors. The **Reich Chamber of Culture** (1933), under Goebbels, controlled who could work as a writer, musician, artist, actor or journalist: anyone not accepted could not work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-nazi-control-and-opposition--02-goebbels-propaganda.webp" width="900" height="526" alt="Goebbels at the centre of six methods: radio, the press, rallies, film, posters and symbols, and censorship through book burning and the Reich Chamber of Culture." loading="lazy">
+  <figcaption>Propaganda reached Germans through every medium; censorship removed the alternatives.</figcaption>
+</figure>
+
 ## Nazi culture
 
 The regime wanted culture to express its ideas about race, nation and the "people's community". Art was meant to show heroic workers, soldiers and peasant families; modern art was condemned, and the **Degenerate Art** exhibition of 1937 in Munich mocked works by artists the regime rejected. Jazz was attacked as "un-German". Architecture favoured huge neoclassical buildings, with Albert Speer as Hitler's architect. Culture was also tied to leisure through **Strength through Joy**, which organised concerts, theatre trips and holidays. The aim was not only to entertain but to make Germans feel part of a single national community with shared values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-nazi-control-and-opposition--03-nazi-culture.webp" width="900" height="591" alt="Table of Nazi culture. Promoted: heroic art, huge neoclassical architecture by Speer, and Strength through Joy leisure. Condemned: modern art, mocked in the 1937 Degenerate Art exhibition, and jazz." loading="lazy">
+  <figcaption>Culture was meant to bind Germans into one national community.</figcaption>
+</figure>
 
 ## Repression and the police state
 
@@ -54,6 +69,11 @@ The regime wanted culture to express its ideas about race, nation and the "peopl
 The **Gestapo**, the secret state police, was set up in Prussia in 1933 and came under Himmler's control. It could arrest people without trial and send them to concentration camps. It had relatively few officers for a country of Germany's size, so it relied heavily on **informers** and on denunciations from ordinary Germans, sometimes made for personal reasons. **Block wardens** reported on the households in their area.
 
 The first concentration camp, **Dachau**, opened in March 1933 for political prisoners such as communists and socialists. Later the camps held trade unionists, church critics, Jews, Roma and Sinti, homosexual men and others the regime persecuted. The legal system was brought under control: judges had to join the Nazi lawyers' organisation, and the **People's Court** (1934) tried "political" crimes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-nazi-control-and-opposition--04-police-state.webp" width="900" height="685" alt="Organisation chart: Himmler at the top leads the SS, which ran the camps, and controls the Gestapo, which relied on informers and block wardens. Below, judges were brought under control and the People's Court tried political crimes." loading="lazy">
+  <figcaption>Few Gestapo officers, many informers: terror depended on ordinary Germans.</figcaption>
+</figure>
 
 ## Opposition and resistance
 
@@ -69,6 +89,11 @@ Because open opposition meant arrest, most dissent was small-scale: grumbling, r
 
 Opposition also came from some churchmen, such as Pastor **Martin Niemöller** of the Confessing Church, who was sent to concentration camps from 1938.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-nazi-control-and-opposition--05-range-of-opposition.webp" width="900" height="915" alt="A ladder of opposition from everyday dissent at the bottom, through the Swing Youth and Edelweiss Pirates, to the White Rose leaflet campaign and the July 1944 bomb plot at the top, with who took part and what happened to them." loading="lazy">
+  <figcaption>Most dissent was small-scale; the named groups range from youth nonconformity to assassination.</figcaption>
+</figure>
+
 ## Why was opposition so limited?
 
 - **Terror:** the Gestapo, informers and camps made resistance extremely dangerous.
@@ -77,6 +102,11 @@ Opposition also came from some churchmen, such as Pastor **Martin Niemöller** o
 - **Division:** communists, socialists, churches and conservatives distrusted one another.
 - **Loyalty oaths:** the army had sworn personal loyalty to Hitler in 1934, making many officers reluctant to act.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-nazi-control-and-opposition--06-why-opposition-limited.webp" width="900" height="481" alt="Five reasons around a central circle: terror, the regime's popularity, the army's 1934 loyalty oath, the banning of parties and trade unions in 1933, and division between opposition groups." loading="lazy">
+  <figcaption>Fear, popularity, banned organisations, division and oaths kept opposition small.</figcaption>
+</figure>
+
 ## Worked example: a question 5 answer
 
 *In what ways were the lives of young people in Germany affected by Nazi control? Explain your answer.* **[8]**
@@ -84,6 +114,11 @@ Opposition also came from some churchmen, such as Pastor **Martin Niemöller** o
 > One way was that young people's free time was brought under the regime's control. Membership of the Hitler Youth and League of German Maidens became compulsory, so activities that had been a matter of choice, such as camping and sport, became a means of training boys for war and girls for motherhood. A second way was that young people who did not conform faced repression. The Swing Youth in Hamburg listened to American jazz, which the regime called un-German, and in 1942 Himmler ordered that leaders be sent to concentration camps. The Edelweiss Pirates in Cologne avoided the Hitler Youth and some attacked Nazi targets during the war; in November 1944 some of those linked to them were publicly hanged. This shows that control changed young lives in two directions: most were drawn into organised Nazi activities, while a minority who rejected them were treated as enemies of the state.
 
 The answer identifies two changes, gives precise evidence for each, and explains *how* lives were affected, which is what question 5 rewards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-nazi-control-and-opposition--07-question-5-young-people.webp" width="900" height="474" alt="Two ways young people's lives were affected: free time brought under control through compulsory Hitler Youth and League of German Maidens, and nonconformists such as the Swing Youth and Edelweiss Pirates repressed." loading="lazy">
+  <figcaption>Two changes, precise evidence for each, and an explanation of how lives were affected.</figcaption>
+</figure>
 
 ## Common mistakes
 

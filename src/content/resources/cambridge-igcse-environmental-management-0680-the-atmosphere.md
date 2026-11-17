@@ -40,6 +40,11 @@ A memory aid built from the first letters, T, S, M, T, helps with order; make up
 
 Ozone is a form of oxygen. In the lower stratosphere it absorbs much of the Sun's ultraviolet radiation before it reaches the surface. This is why damage to the ozone layer, covered in sub-topic 4.4, raises the amount of ultraviolet radiation reaching living things. When a question asks where the ozone layer is, give the syllabus answer in full, "in the lower stratosphere", rather than just "in the atmosphere".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-the-atmosphere--01-four-layers.webp" width="900" height="720" alt="A schematic column, not to scale. From the surface up: troposphere, where we live and almost all weather happens; stratosphere, with the ozone layer in its lower part absorbing much of the Sun’s ultraviolet radiation; mesosphere; and thermosphere, the highest of the four." loading="lazy">
+  <figcaption>Troposphere, stratosphere, mesosphere, thermosphere: the ozone layer is in the lower stratosphere.</figcaption>
+</figure>
+
 ## Composition of clean air (4.1.1 c)
 
 The syllabus gives the percentage composition of clean, dry air as **78% nitrogen** and **21% oxygen**, with **carbon dioxide, argon and water vapour** making up the rest. You need the two percentages exactly and the names of the three other gases.
@@ -54,11 +59,21 @@ The syllabus gives the percentage composition of clean, dry air as **78% nitroge
 
 "Clean air" matters in the definition: polluted air also contains gases such as sulfur dioxide, oxides of nitrogen and particulates, which belong to later sub-topics.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-the-atmosphere-and-human-activities-study-guide--08-air-composition.webp" width="900" height="720" alt="A grid of 100 squares showing air by volume. 78 squares are nitrogen, 21 are oxygen and 1 is other gases: argon, carbon dioxide (about 0.04 per cent) and variable water vapour. The percentages are approximate." loading="lazy">
+  <figcaption>About 78 per cent of air is nitrogen and about 21 per cent oxygen, with small amounts of argon, carbon dioxide and variable water vapour.</figcaption>
+</figure>
+
 ## Climate (4.1.2)
 
 The syllabus defines **climate as the weather conditions in a location based on the weather over many years**. Weather is the condition of the atmosphere at a given time: temperature, rainfall, wind, cloud cover and humidity today or this week. Climate summarises those conditions over a long period, often 30 years, so it describes what is typical for a place.
 
 The distinction matters in climate change questions. One very hot summer is weather; a rise in average summer temperatures over several decades is a change in climate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-the-atmosphere--02-weather-vs-climate.webp" width="900" height="695" alt="A schematic graph of summer temperatures over many years. Each dot is one year’s weather and jumps up and down; one very hot summer is weather. The trend line through them, rising over decades, is a change in climate. Climate is the weather conditions in a location based on the weather over many years." loading="lazy">
+  <figcaption>One hot summer is weather; a rising average over decades is a change in climate.</figcaption>
+</figure>
 
 ## The natural greenhouse effect (4.1.3)
 
@@ -80,6 +95,16 @@ Without the natural greenhouse effect, the Earth's average surface temperature w
 | Result | Earth warm enough to support life | Global warming, which can result in climate change |
 | Sub-topic | 4.1 | 4.2 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-the-atmosphere--03-natural-greenhouse-steps.webp" width="900" height="994" alt="A schematic cross-section. 1: solar radiation passes through the atmosphere. 2: some is absorbed by land and oceans, heating the Earth. 3: some is reflected back to space by clouds and light surfaces. 4: heat given off by the surface is absorbed by greenhouse gases and clouds and re-emitted back to the surface. 5: this keeps the Earth warm enough for life, about 15 °C instead of about −18 °C." loading="lazy">
+  <figcaption>Pass through, absorb, reflect, absorb and re-emit, warm enough for life: one mark per step.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-the-atmosphere-and-human-activities-study-guide--02-atm-greenhouse-natural-enhanced.webp" width="900" height="1080" alt="Two panels show heat rising from the Earth through a layer of greenhouse gas molecules. With few molecules (natural) most heat escapes and some is sent back; with extra molecules (enhanced) fewer arrows escape and more heat is sent back down, so average temperature rises." loading="lazy">
+  <figcaption>The natural effect keeps Earth warm enough for life; extra gases from human activity enhance it.</figcaption>
+</figure>
+
 ## Worked example 1: composition calculations
 
 Question: a 500 cm³ sample of clean air is analysed. Calculate the volumes of nitrogen and oxygen, and the volume of all other gases combined.
@@ -95,6 +120,11 @@ Question: draw a pie chart of the composition. Each 1% is 360 / 100 = 3.6°.
 - Other gases: 1 × 3.6 = 3.6°, about 4°.
 
 Check that the angles add to 360°: 280.8 + 75.6 + 3.6 = 360.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-the-atmosphere--04-composition-pie.webp" width="900" height="605" alt="A pie chart of clean air: nitrogen 78% (about 281°), oxygen 21% (about 76°) and other gases 1% (about 4°), using 3.6° per 1%. In a 500 cm³ sample there are 390 cm³ of nitrogen, 105 cm³ of oxygen and 5 cm³ of other gases." loading="lazy">
+  <figcaption>Each 1% is 3.6°: nitrogen 281°, oxygen 76°, other gases 4°.</figcaption>
+</figure>
 
 ## Worked example 2: an annotated model answer
 
@@ -113,6 +143,11 @@ Exam diagrams often show arrows for incoming solar radiation, reflected radiatio
 - Arrows leaving the surface, then turning back from the gas layer, are **absorption and re-emission** by greenhouse gases and clouds.
 
 If percentages are shown, they should add up for each stage. Roughly 30% of incoming solar radiation is reflected back to space overall; if a question gives figures, use those instead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-the-atmosphere--05-reading-arrows.webp" width="900" height="595" alt="Three panels explain arrow types. Reflection: arrows bounce off clouds or ice. Absorption: arrows end at the ground or sea. Absorption and re-emission: arrows leave the surface and turn back from the greenhouse gas layer. Greenhouse gases absorb and re-emit heat rather than reflect it; roughly 30% of incoming solar radiation is reflected overall." loading="lazy">
+  <figcaption>Bounce off = reflected; end at the surface = absorbed; turn back from the gas layer = re-emitted.</figcaption>
+</figure>
 
 ## Common mistakes
 

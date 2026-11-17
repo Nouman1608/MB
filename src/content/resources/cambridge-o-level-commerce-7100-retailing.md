@@ -48,6 +48,11 @@ The syllabus lists the ten types together without dividing them. The grouping be
 | Street market | Stalls on set days in an open space or covered hall | Low rent so low prices; bargaining; lively atmosphere | Open only on certain days; exposed to weather; little after-sales service |
 | Speciality shop | Concentrates on one product type, such as sports goods or musical instruments | Deep range of that product; expert advice | Higher prices; depends on demand for one product type |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--01-ten-retailer-types.webp" width="900" height="615" alt="The ten retailer types in their usual grouping. Small-scale: itinerant retailer, vending machine, independent retailer, street market and speciality shop. Large-scale: online retailer, multiple chain store, supermarket, hypermarket and department store, each with its main feature." loading="lazy">
+  <figcaption>Learn one identifying feature for each type; judge an online retailer’s scale from the case.</figcaption>
+</figure>
+
 ## Large-scale retailers
 
 | Type | Features | Advantages | Disadvantages |
@@ -58,6 +63,11 @@ The syllabus lists the ten types together without dividing them. The grouping be
 | Hypermarket | Very large self-service store, often out of town, with food and non-food goods and large car parks | Lowest prices from huge volumes; free parking; everything under one roof | Needs a car or transport; draws trade away from town centres |
 | Department store | Large store, usually in a city centre, with many separate departments under one roof | Wide range; comfortable surroundings; services such as cafés, delivery and gift wrapping | High prices; high running costs; can feel expensive to customers |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--02-big-stores-compared.webp" width="900" height="530" alt="Three columns compare a supermarket (self-service, mainly food), a hypermarket (very large, out of town, food and non-food, car parks) and a department store (city centre, many departments), each with one advantage and one disadvantage." loading="lazy">
+  <figcaption>Use the distinguishing features, not just size, to tell the large stores apart.</figcaption>
+</figure>
+
 ## Why the small-scale retailer often survives
 
 The syllabus gives three examples, and they work because large retailers find them hard to copy:
@@ -67,6 +77,11 @@ The syllabus gives three examples, and they work because large retailers find th
 - **Additional services**: home delivery for elderly customers, informal credit, or selling mobile phone credit and taking bill payments.
 
 Other reasons you can apply include convenient **location** close to homes, and selling small quantities for people who want to buy only what they need today. Voluntary chains, in which independent shops buy together through one wholesaler, also help them; this is covered in the [wholesaling study guide](/resources/cambridge-o-level-commerce-7100-wholesaling/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--03-small-retailer-survival.webp" width="900" height="630" alt="A small retailer survives through the three syllabus examples: personal service, flexible opening hours and additional services. Further reasons are a location close to homes, selling small quantities and joining a voluntary chain." loading="lazy">
+  <figcaption>Small shops survive by offering what large retailers find hard to copy.</figcaption>
+</figure>
 
 ## Retail selling techniques
 
@@ -84,6 +99,11 @@ Other reasons you can apply include convenient **location** close to homes, and 
 | Informal credit | Letting trusted customers pay later without a formal agreement | Keeps customers loyal, especially to small shops |
 | Cash on delivery | Customer pays when the goods arrive | Builds trust for online buyers who fear fraud |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--04-selling-techniques.webp" width="900" height="680" alt="The eleven selling techniques grouped by how they raise sales: recognition (branding, logos, packaging), price and cost (own brands, self service), loyalty (loyalty programmes, direct mail, informal credit), confidence (after-sales service, cash on delivery) and speed (barcoding)." loading="lazy">
+  <figcaption>Explain a technique by saying how it raises sales or loyalty for the shop described.</figcaption>
+</figure>
+
 ## Digital retail trends
 
 Two of the eleven trends are often confused. **Multi-channel retailing** means selling through several channels, such as a shop, a website and an app, which may run separately. **Omnichannel retailing** joins those channels into one experience: the same account, prices, stock information and loyalty points whether the customer is online or in store, so a customer can start a purchase on the app and finish it in the shop.
@@ -100,6 +120,16 @@ Two of the eleven trends are often confused. **Multi-channel retailing** means s
 | Dropshipping | The retailer sells goods it does not stock; the supplier sends them straight to the customer |
 | Smartphone apps | A retailer's own app for browsing, ordering, payment and offers |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--05-omnichannel-vs-multichannel.webp" width="900" height="630" alt="Left: multi-channel retailing sells through a shop, website and app that may run separately. Right: omnichannel retailing links the channels to one account, the same prices, stock information and loyalty points, so a customer can start on the app and finish in the shop." loading="lazy">
+  <figcaption>Omnichannel joins the channels into one experience; multi-channel channels may run separately.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--06-barcode-and-epos.webp" width="900" height="475" alt="A barcode on the product is scanned at an EPoS till, a computerised till that records each sale and updates stock records." loading="lazy">
+  <figcaption>Do not confuse the barcode on the product with the EPoS till that reads it.</figcaption>
+</figure>
+
 ## Effects of ecommerce on traditional commerce
 
 | Positive impacts (syllabus examples) | Negative impacts (syllabus examples) |
@@ -112,11 +142,21 @@ Two of the eleven trends are often confused. **Multi-channel retailing** means s
 
 For a shop owner the overall effect depends on the product and the customers: a bookshop adding a website can reach readers nationwide, but must pay for packaging, couriers and keeping the site secure and up to date.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--07-ecommerce-effects.webp" width="900" height="595" alt="Five positive impacts of ecommerce on traditional commerce, such as 24/7 selling and more customers, beside four negative impacts, such as delivery and website maintenance costs. A bookshop adding a website reaches readers nationwide but pays for packaging, couriers and site upkeep." loading="lazy">
+  <figcaption>The overall effect depends on the product and the customers, so weigh both sides.</figcaption>
+</figure>
+
 ## Annotated model answer
 
 *Original question:* "A family clothing shop is losing customers to a hypermarket. Recommend **one** retail selling technique it should use." (4 marks)
 
 > The shop should start a loyalty programme (technique). Customers would earn points each time they buy, which they can spend on future purchases (explains how it works). This gives regular customers a reason to keep returning instead of trying the hypermarket (links to the problem). Because the shop is small, it can also use the data to send personal offers on customers' birthdays, which a hypermarket is unlikely to do (justifies the choice for this shop).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--08-model-answer.webp" width="900" height="590" alt="Four steps of the answer for a family clothing shop losing customers to a hypermarket: name a loyalty programme, explain how points work, link it to keeping customers from the hypermarket, and justify it with personal offers a hypermarket is unlikely to make." loading="lazy">
+  <figcaption>Name, explain, link to the problem, then justify for this shop.</figcaption>
+</figure>
 
 ## Common mistakes
 

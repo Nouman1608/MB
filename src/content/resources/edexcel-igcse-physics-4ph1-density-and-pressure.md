@@ -80,6 +80,16 @@ mass of oil = 128.0 − 82.0 = 46.0 g
 fraction of the measurement. Repeating and averaging reduces the effect of random errors. Air bubbles clinging to a
 stone in the cylinder make its volume look too big, so tap them off.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-density-and-pressure--01-density-of-solids.webp" width="900" height="625" alt="Three methods. A regular block: measure length, width and height and find its mass. An irregular stone: the rise in a measuring cylinder reading when it is lowered in on a thread is its volume. A large object: the water overflowing from a displacement can filled to the spout is its volume." loading="lazy">
+  <figcaption>Find the mass on a balance; find the volume by measuring or by displacement; ρ = m ÷ V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-density-and-pressure--02-density-of-a-liquid.webp" width="900" height="645" alt="An empty measuring cylinder reads 82.0 g on a balance; with 50.0 cm³ of oil it reads 128.0 g. The oil has mass 46.0 g, so its density is 46.0 ÷ 50.0 = 0.920 g/cm³, or 920 kg/m³." loading="lazy">
+  <figcaption>Subtract the mass of the empty cylinder before dividing by the volume.</figcaption>
+</figure>
+
 ## Pressure on a surface (5.5)
 
 Pressure is the force acting at right angles to a surface, per unit area. The same force over a smaller area gives a
@@ -97,6 +107,11 @@ That is why snowshoes stop you sinking into snow and why narrow heels can dent a
 wide tyres on tractors (low pressure on soft ground) and sharp knives and needles (very small area, so a large pressure
 from a small force).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-density-and-pressure--03-same-force-different-area.webp" width="900" height="680" alt="A 600 N person stands on three different areas. Flat shoes of area 0.040 m² give 15 000 Pa, snowshoes of 0.30 m² give 2000 Pa, and one heel of 1.0 × 10⁻⁴ m² gives 6.0 × 10⁶ Pa." loading="lazy">
+  <figcaption>The same 600 N force gives a much larger pressure on a smaller area.</figcaption>
+</figure>
+
 ## Pressure in a fluid acts in all directions (5.6)
 
 In a liquid or gas at rest, the particles move randomly in every direction and collide with any surface they meet, so
@@ -107,6 +122,11 @@ You can see this with a plastic bottle of water that has several small holes pun
 height**: water spurts out sideways from every hole with equal force. Holes punched **lower down** spurt further,
 because the pressure is greater at greater depth. Gas pressure behaves the same way, which is why a balloon inflates
 into a rounded shape.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-density-and-pressure--04-pressure-in-all-directions.webp" width="900" height="575" alt="Left: at one point in a liquid, equal arrows push outwards in every direction while particles move randomly. Right: water spurts sideways equally from two holes at the same height in a bottle, and further from a hole lower down." loading="lazy">
+  <figcaption>At any point in a fluid at rest, pressure acts equally in all directions and increases with depth.</figcaption>
+</figure>
 
 ## Pressure difference with depth (5.7)
 
@@ -141,6 +161,21 @@ Combining `p = h × ρ × g` with `p = F / A` like this is a common two-step que
 **Worked example 5: a water tower.** A tap is 15 m below the water surface in a storage tank on a hill. The pressure
 difference driving water out of the tap is `15 × 1000 × 10 = 150 000 Pa`. A tap in a house further down the hill,
 and so further below the tank's surface, has a larger pressure difference and the water flows out faster.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-density-and-pressure--05-diver-pressure-at-depth.webp" width="900" height="615" alt="A diver 25 m below the sea surface. The pressure difference is 25 × 1030 × 10 = 257 500 Pa; adding atmospheric pressure of 1.0 × 10⁵ Pa gives a total of 3.6 × 10⁵ Pa." loading="lazy">
+  <figcaption>p = h × ρ × g gives the extra pressure; add atmospheric pressure for the total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-density-and-pressure--06-submarine-window-force.webp" width="900" height="595" alt="A submarine 200 m below the sea surface with a window of area 0.050 m². The water pressure is 200 × 1030 × 10 = 2.06 × 10⁶ Pa, so the extra force on the window is 2.06 × 10⁶ × 0.050 = 1.03 × 10⁵ N." loading="lazy">
+  <figcaption>Find the pressure from the depth, then multiply by the area for the force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-density-and-pressure--07-water-tower-vertical-height.webp" width="900" height="710" alt="A storage tank on a hill feeds a tap 15 m below the water surface, giving a pressure difference of 150 000 Pa. A house further down the hill has a larger vertical height below the surface and a larger pressure difference." loading="lazy">
+  <figcaption>h is the vertical depth below the water surface, never the length of pipe.</figcaption>
+</figure>
 
 ## Common mistakes
 

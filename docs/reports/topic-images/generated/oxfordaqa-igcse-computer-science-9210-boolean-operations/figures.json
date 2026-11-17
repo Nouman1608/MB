@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-boolean-operations--01-and-or-not-truth-table.webp",
+  "width": 900,
+  "height": 652,
+  "after": "## The three operators",
+  "alt": "Logic symbols for AND, OR and NOT beside a truth table for inputs A and B. A AND B is True only in the row where both are True; A OR B is True in every row except False, False; NOT A is True when A is False.",
+  "caption": "AND needs both, OR needs at least one, NOT flips a single value.",
+  "bytes": 71768
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-boolean-operations--02-and-versus-or.webp",
+  "width": 900,
+  "height": 762,
+  "after": "## Compound conditions in selection",
+  "alt": "Two overlapping circles for temperature > 30 and humidity > 70. With AND only the overlap is shaded, so the warning shows only when both hold; with OR both circles are shaded, so it warns on every hot day and every humid day. A note says \"students and pensioners\" needs OR.",
+  "caption": "Choose AND or OR from the meaning of the rule; the English word \"and\" can mean either.",
+  "bytes": 92154
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-boolean-operations--03-compound-loop-conditions.webp",
+  "width": 900,
+  "height": 788,
+  "after": "## Compound conditions in iteration",
+  "alt": "Two flowcharts. WHILE lives > 0 AND NOT won tests before each turn and loops back while True. REPEAT PlayTurn() UNTIL NOT (lives > 0 AND NOT won) plays a turn first, then stops when the reversed condition is True, so it always plays at least one turn.",
+  "caption": "Putting NOT around the whole WHILE condition gives the matching UNTIL condition.",
+  "bytes": 86886
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-boolean-operations--04-range-checks.webp",
+  "width": 900,
+  "height": 622,
+  "after": "## Range checks: AND inside, OR outside",
+  "alt": "Three number lines marked 0 and 100. mark ≥ 0 AND mark ≤ 100 shades the range between the limits. mark < 0 OR mark > 100 shades both ends beyond the limits. mark < 0 AND mark > 100 shades nothing, because no number is both below 0 and above 100.",
+  "caption": "Inside a range needs both limits (AND); outside needs either one broken (OR).",
+  "bytes": 58332
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-boolean-operations--05-boolean-flag.webp",
+  "width": 900,
+  "height": 538,
+  "after": "## Boolean variables as flags",
+  "alt": "Pseudocode that sets found to False, loops through codes[0] to codes[9] setting found to True on a match, then outputs \"Code not recognised\" if NOT found. Beside it, the flag switches from False to True on any match and is never switched back inside the loop.",
+  "caption": "A flag starts False, can only be switched to True in the loop, and is tested after it.",
+  "bytes": 80418
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-boolean-operations--06-order-of-evaluation.webp",
+  "width": 900,
+  "height": 688,
+  "after": "## Order of evaluation",
+  "alt": "With hasKey True, isAdmin False and isLoggedIn False, two evaluation trees are compared. hasKey OR (isAdmin AND isLoggedIn), the default reading, evaluates the AND to False and the OR to True. (hasKey OR isAdmin) AND isLoggedIn evaluates the OR to True and the AND to False.",
+  "caption": "hasKey OR isAdmin AND isLoggedIn means hasKey OR (isAdmin AND isLoggedIn); brackets remove the doubt.",
+  "bytes": 81750
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-boolean-operations--07-cinema-condition-table.webp",
+  "width": 900,
+  "height": 671,
+  "after": "## Worked example: evaluating a condition for several inputs",
+  "alt": "The condition age ≥ 15 OR (withAdult AND age ≥ 12) evaluated for four inputs. Age 16 without an adult and age 13 with an adult are Allowed; age 13 without an adult and age 10 with an adult are Not allowed, because neither part is True.",
+  "caption": "Give each part of the condition its own column, then combine them.",
+  "bytes": 81458
+ }
+]

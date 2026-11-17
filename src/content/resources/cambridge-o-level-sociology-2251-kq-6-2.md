@@ -55,6 +55,11 @@ risk is concentrated rather than spread evenly.
 Every pattern comes with a question: does it show who **offends**, or who is **policed, reported and
 recorded**? The answer usually involves both, and saying so is the first step of evaluation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-2--01-offending-and-victimisation.webp" width="900" height="555" alt="A table of recorded offending and victimisation by age, class, gender and ethnicity: young, working-class and male people have the highest recorded offending, while young men, poorer areas, women and minority groups face particular kinds of victimisation. A note on repeat victimisation and how statistics are produced." loading="lazy">
+  <figcaption>Learn both sides: who offends and who is victimised.</figcaption>
+</figure>
+
 ## Two kinds of explanation
 
 The lists in 6.2.2 to 6.2.5 mix two different kinds of explanation, and sorting them is a useful
@@ -67,6 +72,11 @@ exam skill:
   self-fulfilling prophecy.
 
 A strong answer on any pattern includes at least one of each, then judges which matters more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-2--02-two-kinds-of-explanation.webp" width="900" height="576" alt="When a group appears more often in crime statistics, explanations of offending ask whether they really commit more, through lack of opportunity, status frustration, gangs, deprivation, masculinity or socialisation; explanations of the statistics ask whether they are more likely to be caught, through targeting, stereotyping, institutional racism, chivalry or the self-fulfilling prophecy." loading="lazy">
+  <figcaption>Use one explanation of each kind, then judge which matters more.</figcaption>
+</figure>
 
 ## Building explanation chains
 
@@ -89,6 +99,11 @@ Each named explanation should be written as a chain: **cause → mechanism → c
 | Chivalry thesis (gender) | Lenient treatment of women by police and courts → female crime under-recorded (Otto Pollak, 1950) |
 | Self-fulfilling prophecy (age) | Young person labelled as trouble → treated as such → accepts the label and offends further |
 | Power inequalities (class) | The powerful shape laws and avoid prosecution → working-class crime more visible (Steven Box, 1983) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-2--03-explanation-chains.webp" width="900" height="576" alt="Five explanations written as cause, mechanism and outcome: status frustration, lack of opportunity, relative deprivation, police targeting and the chivalry thesis. The first three explain offending; the last two explain the statistics." loading="lazy">
+  <figcaption>Cause, mechanism, crime outcome: the shape of every developed point.</figcaption>
+</figure>
 
 ## The five theories in depth (6.2.6)
 
@@ -133,6 +148,16 @@ the act itself, and Stephen Lyng (1990) used the term **edgework** for voluntary
 offers excitement in a controlled, routine society. Postmodernists also point to new forms of crime,
 such as cyber crime and global crime, that older theories did not anticipate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-2--04-merton-adaptations.webp" width="900" height="632" alt="Merton’s strain theory: society sets goals but blocks legitimate means for some. A table shows five adaptations: conformity, innovation (such as theft), ritualism, retreatism (such as some drug addicts) and rebellion. A note adds Cloward and Ohlin’s criminal, conflict and retreatist subcultures." loading="lazy">
+  <figcaption>Innovation, using crime to reach accepted goals, is Merton’s explanation of most property crime.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-2--05-labelling-amplification.webp" width="900" height="729" alt="Labelling: primary deviance that is not labelled becomes secondary deviance once a label, possibly a master status, is applied. Below, Stanley Cohen’s deviancy amplification: media reporting of mods and rockers created folk devils, leading to tougher policing and more confrontation. A note adds Hall’s study of the mugging panic." loading="lazy">
+  <figcaption>Reactions to deviance can produce more of it.</figcaption>
+</figure>
+
 ## Strengths and limitations (6.2.7)
 
 - **Age explanations:** status frustration and lack of opportunity explain youth property crime and
@@ -148,6 +173,11 @@ such as cyber crime and global crime, that older theories did not anticipate.
   reactions but not the first deviant act; Marxism highlights power but neglects working-class victims;
   feminism explains gender but may treat women as one group; postmodernism captures variety but offers
   no single cause for policy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-2--06-theories-evaluated.webp" width="900" height="521" alt="A table of five theories of crime with a key idea and limitation: functionalism does not explain middle-class crime, interactionism does not explain the first act, Marxism neglects working-class victims, feminism may treat women as one group and postmodernism offers no single cause for policy." loading="lazy">
+  <figcaption>Every theory explains some patterns and misses others.</figcaption>
+</figure>
 
 ## Worked example: an annotated essay plan
 

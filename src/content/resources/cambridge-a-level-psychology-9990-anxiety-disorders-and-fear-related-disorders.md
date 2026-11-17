@@ -43,6 +43,21 @@ Revise with the [anxiety and fear-related disorders revision notes](/resources/c
 
 Mas et al. (2010) is the syllabus's suggested study for the BIPI, examining it as a psychometric measure. Both scales are quick and give quantitative data that can track change, but both are subjective self-report: people may under-report anxiety, and a questionnaire about imagined situations may not match behaviour in a real clinic. The syllabus lists validity and reliability alongside these measures, so be ready to discuss test-retest reliability and whether scores match clinical interviews.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--01-three-conditions.webp" width="900" height="601" alt="Three columns compare generalised anxiety disorder (worry with no specific object, lasting months), agoraphobia (fear of situations where escape is hard, avoided or endured) and blood-injection-injury phobia (fear of blood, injury or injections, with a vasovagal response that can cause fainting)." loading="lazy">
+  <figcaption>GAD has no feared object; agoraphobia centres on escape; BII phobia can cause fainting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--02-vasovagal-response.webp" width="900" height="652" alt="A schematic line for heart rate and blood pressure rises at first after seeing blood or a needle, then drops sharply below the usual level, when fainting is possible. The curve is illustrative, with no data from the lesson." loading="lazy">
+  <figcaption>Heart rate and blood pressure rise, then drop sharply: the vasovagal response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--03-gad7-and-bipi.webp" width="900" height="737" alt="The GAD-7 has seven items scored 0 to 3, giving a total of 0 to 21; a bar marks thresholds at 5, 10 and 15 for mild, moderate and severe anxiety. The BIPI records cognitive, physiological and behavioural responses to blood and injection situations. Strengths and weaknesses of both follow." loading="lazy">
+  <figcaption>GAD-7 totals 0 to 21, with cut-offs at 5, 10 and 15.</figcaption>
+</figure>
+
 ## 1.4.2 Explanations of fear-related disorders
 
 ### Biological: genetic
@@ -57,11 +72,21 @@ Watson and Rayner (1920) tested "Little Albert", an infant who at about nine mon
 
 Evaluation: the study shows fear can be learned, and it leads directly to exposure-based therapies. But it is a single case, the conditioning was not fully standardised, and it breaks ethical guidelines on harm and on removing the fear before the child left. Many people with phobias recall no traumatic event, and conditioning cannot explain why some fears are far more common than others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--04-little-albert.webp" width="900" height="862" alt="Four stages of the Little Albert study: a white rat caused no fear while a loud noise caused startle; the rat was paired with the noise; the rat alone then caused crying and crawling away; the fear generalised to a rabbit, dog, fur coat and mask. Two-process theory adds that avoidance maintains the fear through negative reinforcement." loading="lazy">
+  <figcaption>Fear is learned by pairing, spreads by generalisation and is kept by avoidance.</figcaption>
+</figure>
+
 ### Psychodynamic: Little Hans
 
 Freud (1909) analysed "Little Hans", a five-year-old boy with a fear of horses, especially that a horse would bite him or fall down. The fear began after he saw a horse pulling a bus collapse in the street. Freud, working mostly from letters by Hans's father and meeting Hans only briefly, interpreted the phobia as displaced anxiety about his father, part of the Oedipus complex: features Hans mentioned, such as the black around horses' mouths and their blinkers, were linked to his father's moustache and glasses. The phobia resolved as Hans worked through fantasies that Freud saw as resolving the complex.
 
 Evaluation: the case gives rich, idiographic detail, but interpretations are subjective and unfalsifiable, the father was a supporter of Freud and may have led his son's answers, and a simpler explanation (classical conditioning after seeing the accident) fits the facts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--05-little-hans.webp" width="900" height="699" alt="Little Hans feared horses after seeing a bus horse collapse. Freud read the fear as displaced anxiety about his father in the Oedipus complex, linking horses' black mouths and blinkers to the father's moustache and glasses; a simpler explanation is classical conditioning after the accident. Strength and weaknesses follow." loading="lazy">
+  <figcaption>Freud saw a hidden fear of father; conditioning after the accident fits more simply.</figcaption>
+</figure>
 
 ## 1.4.3 Treatment and management
 
@@ -81,6 +106,16 @@ Evaluation: the case gives rich, idiographic detail, but interpretations are sub
 | Exposure steps | Tourniquet on the arm; videos of blood draws; finger-prick with a glucometer; watching blood donation; finally having his own blood drawn in session 9 |
 | Results | SUDS ratings fell within and across sessions; less need for applied tension; BAI fell from 41 to 7; gains maintained at follow-ups up to 12 months |
 | Evaluation | Rich detail and a replicable manualised approach; but one participant, self-report measures, and no control comparison |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--07-chapman-delapp.webp" width="900" height="784" alt="Study card for Chapman and DeLapp (2013): method and nine-session CBT treatment with applied tension from session 5; five exposure steps from a tourniquet to having his own blood drawn; Beck Anxiety Inventory falling from 41 to 7 with gains kept up to 12 months; strengths and weaknesses." loading="lazy">
+  <figcaption>Graded exposure with applied tension cut T's BAI score from 41 to 7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders--06-sd-vs-applied-tension.webp" width="900" height="668" alt="Two columns contrast systematic desensitisation (learn relaxation, build a hierarchy, work up it while relaxed, based on reciprocal inhibition) with applied tension (tense large muscles until the face feels warm, release, repeat) which raises blood pressure. A note explains that relaxation can worsen fainting in BII phobia." loading="lazy">
+  <figcaption>Relaxation suits most phobias; tension stops the fainting in BII phobia.</figcaption>
+</figure>
 
 ## Common mistakes
 

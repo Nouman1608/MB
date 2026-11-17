@@ -56,6 +56,11 @@ do one of two things:
 In both cases the energy stored in the system increases. Which one happens depends on whether the substance is at its
 melting or boiling point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--01-energy-raises-temperature-or-changes-state.webp" width="900" height="735" alt="Energy from heating goes into the thermal store. It either makes the particles move faster, raising the temperature, or overcomes the forces between particles to change the state, with no rise in temperature." loading="lazy">
+  <figcaption>Heating either raises the temperature or changes the state; both increase the stored energy.</figcaption>
+</figure>
+
 ## Particles in the three states (5.10P)
 
 - **Solid:** particles closely packed in a regular arrangement, held by strong forces; they vibrate about fixed
@@ -64,6 +69,11 @@ melting or boiling point.
   around and slide past each other. A liquid flows and takes the shape of its container.
 - **Gas:** particles far apart, with almost no forces between them, moving quickly and randomly in all directions. A
   gas fills its container and is easily compressed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--02-particles-in-three-states.webp" width="900" height="590" alt="Three boxes of particles. A solid has particles packed in regular rows that vibrate in place; a liquid has touching particles in an irregular arrangement; a gas has a few widely spaced particles moving fast in random directions." loading="lazy">
+  <figcaption>Same particles, different arrangement, forces and motion.</figcaption>
+</figure>
 
 ## Melting, evaporating and boiling (5.9P)
 
@@ -86,6 +96,11 @@ a larger surface area, or air moving across the surface.
 | Temperature | Any temperature | Only at the boiling point |
 | Effect on liquid | Cools it | Temperature stays constant |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--03-evaporation-vs-boiling.webp" width="900" height="780" alt="Two beakers. In evaporation only the fastest particles at the surface escape, so the liquid left behind has a lower average kinetic energy and cools. In boiling, bubbles of gas form throughout the liquid at the boiling point and the temperature stays constant." loading="lazy">
+  <figcaption>Evaporation: surface only, any temperature, cools the liquid. Boiling: throughout, at the boiling point.</figcaption>
+</figure>
+
 ## The temperature-time graph practical (5.11P)
 
 **Heating ice to steam.** Put crushed ice from a freezer into a beaker with a thermometer, heat it steadily, and
@@ -106,6 +121,16 @@ releasing energy as its particles settle into fixed positions, which keeps the t
 
 Good practice: heat steadily, stir, take readings at regular short intervals, and read the thermometer at eye level.
 The flat sections are easier to spot with frequent readings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--04-heating-curve-ice-to-steam.webp" width="900" height="650" alt="Temperature against time for ice heated at a steady rate. The line rises to 0 °C, stays flat while the ice melts, rises to 100 °C, then stays flat for longer while the water boils." loading="lazy">
+  <figcaption>Flat at 0 °C while melting and at 100 °C while boiling; the boiling section is longer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--05-cooling-curve-melted-solid.webp" width="900" height="610" alt="Temperature against time for a melted solid cooling in air. The temperature falls, stays flat at the melting point while the substance solidifies, then falls again as the solid cools." loading="lazy">
+  <figcaption>The flat section of a cooling curve is at the melting (freezing) point.</figcaption>
+</figure>
 
 ## Specific heat capacity (5.12P, 5.13P)
 
@@ -129,6 +154,11 @@ time = energy / power = 267 750 / 2200 = 122 s (3 s.f.)
 ```
 
 The real time is longer, because some energy heats the kettle itself and the surrounding air.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--06-kettle-worked-example.webp" width="900" height="645" alt="A 2.2 kW kettle holding 0.75 kg of water heated from 15 °C to 100 °C. ΔQ = 0.75 × 4200 × 85 = 267 750 J, and the minimum time is 267 750 ÷ 2200 = 122 s." loading="lazy">
+  <figcaption>Find ΔQ with m × c × ΔT, then divide by the power for the minimum time.</figcaption>
+</figure>
 
 ## The specific heat capacity practical (5.14P)
 
@@ -158,6 +188,16 @@ The accepted value for aluminium is about 900 J/kg °C. The measured value is **
 energy supplied heated the surroundings, not the block, so the temperature rise was smaller than it should have been.
 Better insulation and a lid reduce this; waiting to record the highest temperature after switching off allows for
 the time energy takes to spread through the block.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--07-shc-practical-setup.webp" width="900" height="715" alt="An insulated aluminium block with an electric heater and a thermometer in its holes, a drop of oil around the thermometer bulb. The heater is connected to a power supply with an ammeter in series and a voltmeter across the heater." loading="lazy">
+  <figcaption>Measure I, V and t for the energy, and m and ΔT for the block, then c = E ÷ (m × ΔT).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--08-shc-results-evaluation.webp" width="900" height="700" alt="Worked calculation: E = 4.0 × 12.0 × 300 = 14 400 J, ΔT = 14.4 °C, so c = 1000 J/kg °C. A bar chart compares this with the accepted value of about 900 J/kg °C; the measured value is too high because energy heated the surroundings." loading="lazy">
+  <figcaption>Energy lost to the surroundings makes ΔT too small, so the measured c is too high.</figcaption>
+</figure>
 
 ## Common mistakes
 

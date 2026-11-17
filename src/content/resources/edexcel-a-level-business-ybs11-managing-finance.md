@@ -48,6 +48,11 @@ Profit for the year margin = profit for the year / revenue x 100
 
 **Cost of sales** is the direct cost of the goods sold, such as materials or goods bought for resale. **Other operating expenses** are overheads: rent, salaries, marketing, utilities. The statement of comprehensive income sets these out in order, so reading down it shows where profit is lost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-finance--01-three-levels-of-profit.webp" width="900" height="740" alt="A ladder: revenue minus cost of sales gives gross profit; minus other operating expenses gives operating profit; minus interest (and tax) gives profit for the year. Each profit level divided by revenue and multiplied by 100 gives its margin." loading="lazy">
+  <figcaption>Each level of profit takes away one more layer of cost.</figcaption>
+</figure>
+
 ## Worked example 1: comparing two years
 
 Lindqvist Furniture's results (in $000):
@@ -67,6 +72,11 @@ Lindqvist Furniture's results (in $000):
 
 Revenue grew by 12.5%, but cost of sales grew by about 21.9%, so gross profit actually fell. The main problem is in the cost of each item sold, perhaps dearer timber or discounts given to win sales, rather than overheads, which rose only $10,000. The fall in the gross margin points the owner to the right place to look.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-finance--02-lindqvist-profit-margins.webp" width="900" height="849" alt="Lindqvist’s revenue rises from $800,000 to $900,000, but cost of sales rises from $480,000 to $585,000, so gross profit falls from $320,000 to $315,000. Margins fall: gross 40.0% to 35.0%, operating 15.0% to 11.7%, profit for the year 12.5% to 8.9%. Overheads rose only $10,000." loading="lazy">
+  <figcaption>Cost of sales grew faster than revenue, so every margin fell.</figcaption>
+</figure>
+
 ## Increasing profit and profitability
 
 **Ways to increase profit:** raise prices (if demand is price inelastic), raise sales volume, cut cost of sales (cheaper suppliers, less waste, bulk buying) or cut overheads (cheaper premises, more efficient staffing). **Improving profitability** means raising profit as a percentage of revenue, which needs either a higher price relative to direct cost or lower overheads relative to sales. Each method has a risk: cheaper materials may lower quality, price rises may lose customers, and staff cuts may hurt service.
@@ -74,6 +84,11 @@ Revenue grew by 12.5%, but cost of sales grew by about 21.9%, so gross profit ac
 ## Profit is not cash
 
 Profit compares revenue with costs over a period; cash is the money actually in the bank. They differ because sales on credit count as revenue before cash arrives; inventory is paid for before it is sold; loans bring in cash but are not revenue; and buying equipment uses cash but spreads its cost over several years. A profitable business can run out of cash and fail, while an unprofitable one can survive for a while on borrowed cash.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-finance--03-profit-is-not-cash.webp" width="900" height="710" alt="Four reasons profit and cash differ: credit sales count as revenue before cash arrives; inventory is paid for before it is sold; a loan brings cash but is not revenue; equipment uses cash now but its cost is spread over years. A profitable business can fail for lack of cash." loading="lazy">
+  <figcaption>Profit measures a period’s performance; cash is what is actually in the bank.</figcaption>
+</figure>
 
 ## The statement of financial position and liquidity
 
@@ -124,9 +139,24 @@ Total received              = $58,200
 
 Lindqvist gives up $1,800 of profit to receive $48,000 immediately. That trade is worth making if the cash prevents a missed payment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-finance--04-lindqvist-liquidity.webp" width="900" height="946" alt="Before: current assets of $75,000 (inventory 40, receivables 30, cash 5, in $000) against liabilities of $50,000 (payables 35, overdraft 15), a current ratio of 1.5 and acid test of 0.7. After cutting inventory by $15,000 with JIT and repaying the overdraft: $60,000 against $35,000, ratios 1.71 and 1.0." loading="lazy">
+  <figcaption>Less inventory and no overdraft lift both liquidity ratios.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-finance--05-factoring.webp" width="900" height="746" alt="A bar of $60,000 of invoices split into $48,000 paid now (80%), $10,200 paid when customers pay and a $1,800 fee (3%). Lindqvist receives $58,200 in total, trading $1,800 of profit for immediate cash." loading="lazy">
+  <figcaption>Factoring swaps a small fee for cash now.</figcaption>
+</figure>
+
 ## Working capital: the importance of cash
 
 Working capital is the finance available for day-to-day operations. Too little, and the business cannot pay suppliers and staff on time; too much tied up in inventory or receivables earns nothing. Managing it means keeping inventory low but sufficient, collecting debts promptly and timing payments carefully.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-finance--06-working-capital.webp" width="900" height="695" alt="Working capital, current assets minus current liabilities, must be balanced. Too little and the business cannot pay suppliers and staff on time; too much and money sits in inventory or receivables earning nothing. It is managed by keeping inventory low but sufficient, collecting debts promptly and timing payments." loading="lazy">
+  <figcaption>Working capital needs balance: too little stops payments, too much earns nothing.</figcaption>
+</figure>
 
 ## Why businesses fail
 
@@ -142,6 +172,11 @@ Working capital is the finance available for day-to-day operations. Too little, 
 | | Natural phenomena, such as floods |
 
 Failure usually comes from a combination. An external shock, such as a rise in interest rates, does most damage to a business already weakened internally, for example by heavy borrowing to fund overtrading.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-finance--07-why-businesses-fail.webp" width="900" height="850" alt="Six internal causes of failure within a firm’s control, such as poor cash-flow management and overtrading, and eight external causes outside it, such as recession, interest rates and natural phenomena. An external shock does most damage to a business already weakened internally, for example by heavy borrowing to fund overtrading." loading="lazy">
+  <figcaption>An external shock hits hardest where internal weaknesses already exist.</figcaption>
+</figure>
 
 ## Common mistakes
 

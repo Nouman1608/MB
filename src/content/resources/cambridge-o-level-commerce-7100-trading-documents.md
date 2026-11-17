@@ -65,6 +65,11 @@ If Lakeview pays within 14 days, it deducts the cash discount: 5% x $480 = $24, 
 
 **Trade discount** is given to traders buying for resale and is deducted on the invoice. **Cash discount** rewards prompt payment and is taken only if the buyer pays in time. Both are financial terms in Topic 5 (5.4.1).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trading-documents--01-invoice-calculation.webp" width="900" height="695" alt="An invoice for 40 shirts at $15: $600 less a 20% trade discount of $120 gives $480 due. If Lakeview pays within 14 days it deducts a 5% cash discount of $24 and pays $456; otherwise it pays $480." loading="lazy">
+  <figcaption>Trade discount comes off first; cash discount is taken only if the buyer pays in time (invented figures).</figcaption>
+</figure>
+
 ## Worked example 2: credit note and statement
 
 Four shirts were damaged. The credit note values them at the price Lakeview was charged: 4 x $15 = $60, less 20% trade discount ($12) = **$48**.
@@ -81,6 +86,11 @@ Suppose Lakeview owed $200 at the start of the month, received the invoice for $
 
 Working: 200 + 480 − 48 − 200 = 432. On a statement, invoices **increase** the amount owed; credit notes and payments **reduce** it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trading-documents--02-credit-note-statement.webp" width="900" height="765" alt="A credit note for 4 damaged shirts is worth 4 × $15 = $60 less $12 trade discount = $48. A waterfall then shows the statement: $200 brought forward, plus the $480 invoice, less the $48 credit note, less a $200 payment, leaving $432 due." loading="lazy">
+  <figcaption>On a statement, invoices push the balance up and credit notes and payments bring it down (invented figures).</figcaption>
+</figure>
+
 ## Documents of international trade
 
 When goods cross borders, buyer and seller are far apart, often do not know each other, and goods pass through customs. Four documents deal with these problems.
@@ -93,6 +103,16 @@ When goods cross borders, buyer and seller are far apart, often do not know each
 | **Documentary credit (letter of credit)** | The importer's bank | A promise by the bank to pay the exporter once the exporter presents the agreed documents, such as the bill of lading |
 
 The documentary credit reduces risk for **both** sides: the exporter knows a bank will pay, and the importer knows payment is made only when documents prove the goods have been shipped as agreed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trading-documents--03-international-documents.webp" width="900" height="650" alt="Four cards: the certificate of origin, issued in the exporting country, states where goods were made; the bill of lading, from the shipping company, is a document of title; the air waybill, from the airline, is not; and documentary credit is the importer’s bank’s promise to pay once documents are presented." loading="lazy">
+  <figcaption>Only the bill of lading is a document of title; documentary credit is a bank’s promise to pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trading-documents--04-documentary-credit.webp" width="900" height="625" alt="Four lanes: exporter, shipping company, importer’s bank and importer. The bank promises to pay; the exporter ships and gets a bill of lading; it presents the documents and the bank pays; the documents prove to the importer that goods were shipped as agreed." loading="lazy">
+  <figcaption>The exporter is sure of payment and the importer pays only against proof of shipment.</figcaption>
+</figure>
 
 ## Online ordering: from browsing to receiving
 
@@ -109,6 +129,11 @@ The syllabus asks for the stages of the online ordering process. A clear sequenc
 
 Several paper documents have digital equivalents in this process: the basket and checkout replace the written order, the confirmation email replaces the paper receipt, and the tracking page shows what a delivery note would.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trading-documents--05-online-ordering.webp" width="900" height="660" alt="Eight numbered stages: browse, add to basket, checkout with delivery details, choose delivery option, pay securely, receive an order confirmation, dispatch with a tracking link, and receive the order. The basket replaces the written order, the confirmation the receipt and tracking the delivery note." loading="lazy">
+  <figcaption>Online ordering follows the paper sequence with digital equivalents.</figcaption>
+</figure>
+
 ## Digital technology in trading documents
 
 | Technology | What it does | Benefit |
@@ -120,6 +145,11 @@ Several paper documents have digital equivalents in this process: the basket and
 | Etickets | Tickets for travel or events held on a phone or printed from an email | Instant delivery; cannot be lost in the post; easy to check at the gate |
 
 Drawbacks to weigh: the risk of hacking and data theft, dependence on internet access and power, the cost of secure systems and staff training, and difficulty for customers without smartphones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trading-documents--06-digital-technology.webp" width="900" height="705" alt="Five technologies with what each does and its benefit: digital signatures, secure access, cloud-based storage, electronic receipts and etickets. Below, the drawbacks: hacking, dependence on internet and power, system and training costs, and customers without smartphones." loading="lazy">
+  <figcaption>Digital documents are faster and harder to lose, but bring security and access risks.</figcaption>
+</figure>
 
 ## Common mistakes
 

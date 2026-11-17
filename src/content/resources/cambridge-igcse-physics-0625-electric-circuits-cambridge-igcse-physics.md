@@ -45,6 +45,16 @@ This guide covers one subtopic of the Cambridge IGCSE Physics 0625 syllabus (for
 
 A diode placed in a circuit "backwards" acts like an open switch: no current flows in that branch, and any lamp in series with it stays off.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electric-circuits-cambridge-igcse-physics--01-diode-thermistor-ldr.webp" width="900" height="660" alt="Two circuits with a cell, a diode and a lamp. With the diode pointing the way the current flows the lamp is on; reversed, no current flows and the lamp stays off. Below, an NTC thermistor's resistance decreases as temperature increases and an LDR's resistance decreases as light intensity increases." loading="lazy">
+  <figcaption>A diode conducts one way only; thermistor and LDR resistance both fall as temperature or light increases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
 ## Series circuits
 
 In series there is only one path, so:
@@ -68,6 +78,16 @@ check: 2.0 + 4.0 + 6.0 = 12 V
 ```
 
 The largest resistor takes the largest share of the supply p.d., as the Core rule predicts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electric-circuits-cambridge-igcse-physics--02-series-worked-example.webp" width="900" height="686" alt="A 12 V battery in series with 10 Ω, 20 Ω and 30 Ω resistors and an ammeter. The current is 0.20 A everywhere and the p.d.s are 2.0 V, 4.0 V and 6.0 V, which add up to 12 V." loading="lazy">
+  <figcaption>In series the current is the same everywhere and the largest resistor takes the largest p.d.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electric-circuits-cambridge-igcse-physics--03-reversed-cell.webp" width="900" height="470" alt="Three 1.5 V cells in a row with the middle one reversed. The two cells facing the same way give +1.5 V each and the reversed one −1.5 V, so the total e.m.f. is 1.5 V." loading="lazy">
+  <figcaption>A reversed cell subtracts its e.m.f. from the total.</figcaption>
+</figure>
 
 ## Parallel circuits
 
@@ -98,6 +118,11 @@ Note the check that 4.0 Ω is less than both 6.0 Ω and 12 Ω. If your parallel 
 
 **Quick checks for parallel pairs:** two equal resistors in parallel give half of one (two 20 Ω → 10 Ω). For unequal pairs, product over sum gives the same answer as the reciprocal method: (20 × 30) / (20 + 30) = 12 Ω.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electric-circuits-cambridge-igcse-physics--04-parallel-worked-example.webp" width="900" height="578" alt="A 12 V supply drives 1.5 A through a 4.0 Ω resistor, which takes 6.0 V. The remaining 6.0 V is across both parallel branches, so 1.0 A flows through 6.0 Ω and 0.50 A through 12 Ω; the pair is equivalent to 4.0 Ω and the total is 8.0 Ω." loading="lazy">
+  <figcaption>Find the pair's resistance, then the supply current, then share out the p.d. and the current.</figcaption>
+</figure>
+
 ## Potential dividers
 
 Two resistors in series across a supply share the supply p.d. in the ratio of their resistances.
@@ -116,6 +141,11 @@ Two resistors in series across a supply share the supply p.d. in the ratio of th
 So an LDR in the R₂ position gives a rising output as night falls, which can switch on a lamp (through a relay, for example). To make the output rise when it gets **brighter** instead, swap the positions of the LDR and the fixed resistor and take the output across the fixed resistor.
 
 The reasoning in words, which is what "describe the action" questions want: as it gets darker, the LDR's resistance increases, so it takes a larger share of the supply p.d., so the p.d. across it rises, while the p.d. across the fixed resistor falls by the same amount.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electric-circuits-cambridge-igcse-physics--05-potential-divider.webp" width="900" height="730" alt="Left: a 6.0 V supply across 1.2 kΩ and 3.6 kΩ in series; the ratio 1 : 3 gives 1.5 V and 4.5 V. Right: with an LDR in place of the lower resistor, getting darker raises the LDR's resistance, so it takes a larger share of the supply p.d. and the output across it rises." loading="lazy">
+  <figcaption>The larger resistance takes the larger share of the supply p.d.: R₁/R₂ = V₁/V₂.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -1,0 +1,47 @@
+[
+ {
+  "file": "aqa-a-level-law-7162-preliminary-offence--01-s1-anatomy.webp",
+  "width": 900,
+  "height": 714,
+  "after": "## The statutory definition",
+  "alt": "Section 1(1) broken into parts: intent to commit an offence (mens rea), to which the section applies (offences triable on indictment, so not assault or battery), an act (not normally an omission), more than merely preparatory (actus reus). The maximum sentence equals the full offence; attempted murder carries a maximum, not mandatory, life sentence. Attempts are punished for dangerous intention, early intervention and equal blameworthiness.",
+  "caption": "Intent plus an act beyond preparation, for an indictable offence.",
+  "bytes": 124186
+ },
+ {
+  "file": "aqa-a-level-law-7162-preliminary-offence--02-preparation-line.webp",
+  "width": 900,
+  "height": 731,
+  "after": "## Actus reus: \"more than merely preparatory\"",
+  "alt": "Cases on either side of the line. Still preparing: Gullefer (greyhound track), Campbell (outside a post office) and Geddes (school toilets). Embarked on the crime proper: Tosti (examining a padlock), Boyle and Boyle (damaged door), Jones (pointing a shotgun) and A-G’s Reference (No 1 of 1992), showing the last act is not needed. The Geddes question and the judge and jury split under s4(3).",
+  "caption": "An attempt starts when the defendant moves from planning to execution, before the last act.",
+  "bytes": 158510
+ },
+ {
+  "file": "aqa-a-level-law-7162-preliminary-offence--03-attempt-mens-rea.webp",
+  "width": 900,
+  "height": 414,
+  "after": "## Mens rea: intention",
+  "alt": "Attempt requires intention to commit the full offence (Mohan). Murder can be committed with intention to kill or to cause GBH, but attempted murder needs intention to kill (Whybrow). Oblique intention can apply (Walker and Hayles); recklessness as to circumstances may suffice (Khan; A-G’s Ref No 3 of 1992); conditional intention needs a charge of “some or all of the contents” (Easom).",
+  "caption": "Attempted murder has a narrower mens rea than murder itself.",
+  "bytes": 95306
+ },
+ {
+  "file": "aqa-a-level-law-7162-preliminary-offence--04-impossibility.webp",
+  "width": 900,
+  "height": 569,
+  "after": "## Impossibility",
+  "alt": "Anderton v Ryan (1985) acquitted a woman who wrongly believed a video recorder was stolen; less than a year later Shivpuri (1987) overruled it using the Practice Statement, convicting a man who believed harmless vegetable matter was drugs. Under s1(2) and s1(3) it is no defence that the pocket was empty, the drugs fake or the victim already dead. Withdrawal after the attempt is no defence.",
+  "caption": "Judge the defendant on the facts as he believed them; impossibility is no defence.",
+  "bytes": 112898
+ },
+ {
+  "file": "aqa-a-level-law-7162-preliminary-offence--05-quinn-worked-example.webp",
+  "width": 900,
+  "height": 698,
+  "after": "## Worked example",
+  "alt": "A timeline of Quinn’s acts: buying gloves and watching the house for a week are mere preparation (compare Geddes); holding a crowbar against the door frame is embarking on the crime proper (Gullefer; compare Tosti and Boyle and Boyle). He intended to steal (Mohan); under s4(3) the judge and jury divide the question. He is likely guilty of attempted theft.",
+  "caption": "Place each act on the preparation line, then check intention.",
+  "bytes": 97820
+ }
+]

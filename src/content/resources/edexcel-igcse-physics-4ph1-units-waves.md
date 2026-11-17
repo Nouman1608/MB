@@ -51,6 +51,11 @@ The refractive index equations, n = sin i ÷ sin r and sin c = 1 ÷ n, use
 angles in degrees, but n itself has **no unit**: it is a ratio of two
 sines.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-waves--01-five-units.webp" width="900" height="770" alt="Five units: degree (°) for angles, hertz (Hz) for frequency, metre (m) for wavelength, amplitude and distance, metre/second (m/s) for wave speed, second (s) for time period. Unit checks: Hz × m = m/s in v = f × λ; 1/s = Hz in f = 1/T; refractive index n is a ratio of sines and has no unit." loading="lazy">
+  <figcaption>Hz × m gives m/s; refractive index has no unit.</figcaption>
+</figure>
+
 ## The hertz
 
 Frequency is the number of waves passing a point (or the number of
@@ -85,6 +90,11 @@ everywhere in Topic 3.
 Watch the capital and lower-case letters. **M** (mega, a million) and
 **m** (milli, a thousandth) differ by a factor of 10⁹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-waves--02-prefixes.webp" width="900" height="770" alt="A prefix ladder with wave examples: giga, 2.4 GHz = 2.4 × 10⁹ Hz; mega, 98 MHz = 9.8 × 10⁷ Hz; kilo, 2.5 kHz = 2500 Hz; centi, 1.5 cm = 0.015 m; milli, 4.0 ms = 0.0040 s; micro, 10 μm = 1.0 × 10⁻⁵ m; nano, 600 nm = 6.0 × 10⁻⁷ m. M and m differ by 10⁹." loading="lazy">
+  <figcaption>From GHz to nm: convert every prefix before using v = f × λ.</figcaption>
+</figure>
+
 ## Standard form for electromagnetic waves
 
 All electromagnetic waves travel at the same speed in free space; questions
@@ -114,6 +124,11 @@ answer, which matches the idea that very short wavelengths have very high
 frequencies. Check the answer's size: visible light has frequencies of
 order 10¹⁴ Hz, so 6.0 × 10¹⁴ Hz is sensible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-waves--03-standard-form-examples.webp" width="900" height="610" alt="A 100 MHz radio wave: f = 1.00 × 10⁸ Hz, so λ = 3.0 × 10⁸ / 1.00 × 10⁸ = 3.0 m. Green light of 500 nm: λ = 5.00 × 10⁻⁷ m, so f = 3.0 × 10⁸ / 5.00 × 10⁻⁷ = 6.0 × 10¹⁴ Hz. Use the EXP key or brackets, and check the size of the answer." loading="lazy">
+  <figcaption>Convert prefixes to standard form, then divide with brackets or EXP.</figcaption>
+</figure>
+
 ## Time units and the period
 
 Times in wave questions are often given in milliseconds, especially on an
@@ -129,6 +144,11 @@ f = 1 / T = 1 / 0.0025 = 400 Hz
 ```
 
 Using T = 2.5 directly would give f = 0.4 Hz, a thousand times too small.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-waves--04-period-in-ms.webp" width="900" height="710" alt="A displacement against time trace with a time axis in ms; one complete wave takes T = 2.5 ms. Converting, T = 0.0025 s, so f = 1 / 0.0025 = 400 Hz and λ = 340 / 400 = 0.85 m. Using 2.5 directly would give 0.4 Hz, a thousand times too small." loading="lazy">
+  <figcaption>Convert ms to s before f = 1 / T.</figcaption>
+</figure>
 
 ## The degree
 
@@ -152,6 +172,11 @@ n = sin i / sin r = sin 40° / sin 25° = 0.643 / 0.423 = 1.52
 n has no unit. A quick sense check: n for glass is about 1.5, and it is
 always greater than 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-waves--05-degrees-normal.webp" width="900" height="740" alt="Light passes from air into glass. The angle of incidence, 40°, and the angle of refraction, 25°, are both measured from the dashed normal at 90° to the surface. n = sin 40° / sin 25° = 0.643 / 0.423 = 1.52, with no unit. 30° from the normal is 60° from the surface, and the calculator must be in degree mode." loading="lazy">
+  <figcaption>Angles are measured from the normal, with the calculator in degree mode.</figcaption>
+</figure>
+
 ## Reading the axes of wave graphs
 
 Two kinds of wave graph look alike but give different quantities, and the
@@ -167,6 +192,11 @@ unit on the horizontal axis tells you which is which.
 On both, the amplitude is read from the vertical axis, from the rest line
 to a crest, in metres. Always check the axis label before deciding whether
 a length you have measured is a λ or a T.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-waves--06-two-wave-graphs.webp" width="900" height="745" alt="Two wave graphs with the same shape. Displacement against distance, with the axis in metres, is a snapshot: the repeat length is the wavelength. Displacement against time, with the axis in seconds, shows one point moving: the repeat length is the time period, and f = 1 / T. On both, amplitude is from the rest line to a crest." loading="lazy">
+  <figcaption>The horizontal axis unit tells you whether the repeat length is λ or T.</figcaption>
+</figure>
 
 ## Common mistakes
 

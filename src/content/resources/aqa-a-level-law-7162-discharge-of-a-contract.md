@@ -57,6 +57,16 @@ and allow a party to escape a bad bargain on a technicality.
 | Prevented performance | A party prevented from completing by the other may claim a reasonable sum (quantum meruit) | **Planché v Colburn (1831)**: author paid for work done on a book after the publisher abandoned the series |
 | Tender of performance | Offering to perform in line with the contract, which is wrongly refused, counts as performance | **Startup v Macdonald (1843)**: oil delivered late on a Saturday evening but within the agreed time |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--01-performance-strict-rule.webp" width="900" height="538" alt="Two strict-rule cases: Cutter v Powell, where a sailor’s widow recovered nothing because the voyage was not completed, and Re Moore and Landauer, where wrongly packed tins could be rejected. Below, bars show Hoenig v Isaacs, where the price was payable less the cost of defects of about £56 on a £750 contract, and Bolton v Mahadeva, where serious defects meant nothing was payable." loading="lazy">
+  <figcaption>The strict rule is harsh; substantial performance earns the price less the cost of repairs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--02-ways-round-strict-rule.webp" width="900" height="437" alt="Four further exceptions. Severable contracts: payment for each completed stage. Acceptance of partial performance: only with a genuine choice to accept (Sumpter v Hedges). Prevented performance: a reasonable sum on a quantum meruit (Planché v Colburn). Tender of performance: a wrongly refused offer to perform counts (Startup v Macdonald)." loading="lazy">
+  <figcaption>Stages, genuine acceptance, prevention and tender can all earn payment.</figcaption>
+</figure>
+
 ## Discharge by breach
 
 A breach does not automatically end the contract. A **repudiatory** breach gives the innocent party a
@@ -89,6 +99,16 @@ The innocent party has two options.
    recovered the full price. But affirmation keeps the contract alive for **both** sides, which is risky:
    in **Avery v Bowden (1855)** a charterer refused to load, the shipowner waited, and the outbreak of the
    Crimean War then frustrated the contract, so the shipowner lost his claim.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--03-breach-choices.webp" width="900" height="612" alt="Actual breach happens when performance is due; anticipatory breach before it is due. A repudiatory breach, meaning breach of a condition, a serious breach of an innominate term or a refusal to perform, lets the innocent party choose to terminate and claim damages or affirm and continue. A minor breach gives damages only." loading="lazy">
+  <figcaption>A repudiatory breach gives a choice: terminate or affirm. A minor one gives damages only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--04-anticipatory-breach.webp" width="900" height="477" alt="A timeline from contract to repudiation to the date performance is due. In Hochster v De la Tour the courier was told in May he would not be needed from 1 June. Option 1: accept the repudiation and sue at once, with damages assessed by reference to the performance date and a duty to mitigate (Hochster; Frost v Knight). Option 2: affirm and wait, as in White and Carter v McGregor, but at the risk shown in Avery v Bowden, where war frustrated the contract and the claim was lost." loading="lazy">
+  <figcaption>Accepting lets you sue at once; affirming keeps the contract alive for both sides.</figcaption>
+</figure>
 
 ## Discharge by frustration
 
@@ -136,6 +156,21 @@ adjusts the position between the parties.
 - **Section 1(3)**: a party who has received a **valuable benefit**, other than money, before frustration
   may be ordered to pay a just sum for it (**BP Exploration v Hunt (No 2)**).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--05-frustration-categories.webp" width="900" height="481" alt="Five categories of frustration with cases: destruction of the subject matter (Taylor v Caldwell), death or incapacity in a personal contract (Robinson v Davison; Condor v Baron Knights), supervening illegality (Metropolitan Water Board v Dick Kerr), purpose defeated (Krell v Henry) and long interruption (Jackson v Union Marine Insurance). The test from Davis Contractors is performance radically different from what was undertaken." loading="lazy">
+  <figcaption>An event after formation, without fault, that makes performance radically different.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--06-frustration-limits.webp" width="900" height="572" alt="Bars show Davis Contractors, where a job planned for 8 months took 22 and cost more but was not frustrated. Four further limits: harder or dearer is not enough (Tsakiroglou); the purpose must be wholly defeated (Herne Bay Steam Boat v Hutton, contrasted with Krell v Henry); self-induced frustration does not count (Maritime National Fish; The Super Servant Two); and an express clause such as force majeure governs instead." loading="lazy">
+  <figcaption>More time, more cost or a partly defeated purpose is not frustration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--07-frustrated-contracts-act.webp" width="900" height="337" alt="The Law Reform (Frustrated Contracts) Act 1943. Section 1(2): money paid before frustration is recoverable and money payable ceases to be payable, but the court may allow the payee expenses up to that amount. Section 1(3): a party who received a valuable non-money benefit may be ordered to pay a just sum (BP Exploration v Hunt)." loading="lazy">
+  <figcaption>Money comes back, less allowed expenses; other benefits are paid for with a just sum.</figcaption>
+</figure>
+
 ## Worked example
 
 *Facts: Dana hires a marquee company to provide a marquee for her open-air wedding on 20 June for
@@ -157,6 +192,11 @@ Consequence:      As in Avery v Bowden, her claim for the earlier breach is
 1943 Act:         s1(2) – she can recover the £1,000 deposit, subject to the
                   court allowing the company its expenses up to that sum.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--08-dana-marquee.webp" width="900" height="787" alt="Dana’s case: the April refusal is an anticipatory breach; she affirms, keeping the contract alive; the 18 June ban on events likely frustrates it; so, as in Avery v Bowden, her claim for the earlier breach is lost; under section 1(2) of the 1943 Act she recovers her £1,000 deposit less any expenses the court allows." loading="lazy">
+  <figcaption>Affirming an anticipatory breach can backfire if the contract is then frustrated.</figcaption>
+</figure>
 
 ## Common mistakes
 

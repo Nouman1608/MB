@@ -52,6 +52,11 @@ A business that sees **staff as an asset** invests in training, consults employe
 
 Under an **individual approach**, terms are agreed with each employee, which gives flexibility to reward individuals. Under **collective bargaining**, managers negotiate with representatives, usually a trade union, for a whole group. Collective bargaining takes longer to reach agreement, but one agreement covers many workers and can reduce conflict.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--01-staff-asset-or-cost.webp" width="900" height="646" alt="Seeing staff as an asset means investing in training, consulting and keeping employees, because skills and loyalty raise productivity and quality, as in a premium hotel. Seeing staff as a cost means keeping wages low and flexible, as in a warehouse with seasonal swings." loading="lazy">
+  <figcaption>Whether staff are treated as an asset or a cost depends on the business.</figcaption>
+</figure>
+
 ## Recruitment, selection and training
 
 **Internal recruitment** is cheaper and quicker, the candidate already knows the business, and promotion motivates others; but it brings no new ideas and leaves another vacancy to fill. **External recruitment** widens the pool and brings fresh skills, but costs more in advertising, agency fees and induction, and the appointee is less known.
@@ -78,6 +83,21 @@ The wide span removes 130 management posts, which saves salary costs and shorten
 
 **Centralised** decision making keeps control at the top, which gives consistency and fast decisions in a crisis but ignores local knowledge. **Decentralised** decision making delegates to lower levels, which motivates managers and speeds up local responses but can lead to inconsistent decisions. A **matrix** structure places staff in project teams across departments, so each person reports to a functional manager and a project manager; it suits project-based work but can cause conflict over priorities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--02-corlan-span-of-control.webp" width="900" height="890" alt="With a span of 5, Corlan’s 625 operatives need 125 team leaders, 25 supervisors, 5 managers and a director: 4 levels and 156 managers. With a span of 25 they need 25 managers and a director: 2 levels and 26 managers, 130 fewer posts, but each manager supervises 25 people and there are fewer promotion steps." loading="lazy">
+  <figcaption>A wider span means fewer levels and managers, but needs more self-reliant staff.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--03-centralised-decentralised.webp" width="900" height="680" alt="Two organisation trees. Centralised: decisions stay at head office, giving consistency and fast crisis decisions but ignoring local knowledge. Decentralised: decisions are delegated to branches, motivating managers and speeding local responses but risking inconsistency." loading="lazy">
+  <figcaption>Centralise for control and consistency; decentralise for speed and local knowledge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--06-matrix-structure.webp" width="900" height="760" alt="A grid of three departments and two projects with six workers. One highlighted worker reports to both a department head and a project manager." loading="lazy">
+  <figcaption>In a matrix structure a worker can have two line managers, one for the department and one for the project.</figcaption>
+</figure>
+
 ## Motivation in theory and practice
 
 Motivated staff produce more, make fewer errors, are absent less often and are less likely to leave, which lowers recruitment costs. Each theory implies a different management approach.
@@ -93,6 +113,16 @@ Motivated staff produce more, make fewer errors, are absent less often and are l
 
 **Non-financial methods:** **delegation** passes authority for a task down; **consultation** asks staff for views before deciding; **empowerment** lets staff make decisions themselves; **team working** gives groups shared tasks; **flexible working** lets staff vary when or where they work. **Job enrichment** adds responsibility and more challenging tasks (vertical); **job enlargement** adds more tasks at the same level (horizontal); **job rotation** moves staff between tasks for variety.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--04-maslow-hierarchy.webp" width="900" height="640" alt="A five-level pyramid from physiological at the base through safety, social and esteem to self-actualisation at the top. A satisfied need stops motivating, so managers find the level staff have reached and offer the next; the levels are hard to measure and may differ between people." loading="lazy">
+  <figcaption>Each satisfied need stops motivating; the next level up takes over.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--05-enrichment-enlargement-rotation.webp" width="900" height="646" alt="Three grids of tasks. Job enrichment adds a task at a higher level: more responsibility and challenge. Job enlargement adds more tasks at the same level. Job rotation moves the worker between tasks for variety." loading="lazy">
+  <figcaption>Enrichment goes up, enlargement goes across, rotation moves around.</figcaption>
+</figure>
+
 ## Leadership
 
 **Management** is about planning, organising and controlling resources to meet objectives; **leadership** is about setting direction and inspiring people to follow. A good manager is not always a good leader.
@@ -104,11 +134,21 @@ Motivated staff produce more, make fewer errors, are absent less often and are l
 
 **From entrepreneur to leader.** A founder who did everything personally must learn to delegate as the business grows. The difficulty is that the founder's habits, such as checking every decision, create bottlenecks, and skilled staff leave if given no authority.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--06-leadership-styles.webp" width="900" height="755" alt="Four styles from the leader deciding alone to staff deciding: autocratic (fast, suits emergencies, can demotivate skilled staff), paternalistic (leader decides but considers welfare and explains), democratic (motivating but slower) and laissez-faire (suits skilled teams, risks drift). A growing founder must learn to delegate." loading="lazy">
+  <figcaption>Match the style to the staff and situation in the source.</figcaption>
+</figure>
+
 ## Worked example 2: an annotated answer
 
 *Question: Analyse how Herzberg's two-factor theory could help a call centre with high staff turnover.* (6 marks)
 
 > Herzberg argued that hygiene factors, such as pay and working conditions, only prevent dissatisfaction, while motivators, such as responsibility and recognition, create satisfaction **[knowledge]**. If the call centre's pay is below rival centres in the area, staff will leave because a hygiene factor is unmet, so matching local pay should reduce turnover **[chain 1]**. But scripted calls give little sense of achievement, so even well-paid staff may leave; empowering experienced staff to resolve complaints without referral would add responsibility, a motivator, giving them a reason to stay **[chain 2, applied]**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--07-herzberg-call-centre.webp" width="900" height="790" alt="Hygiene factors such as pay move staff from dissatisfied to neutral; motivators such as responsibility move them from neutral to satisfied. For a call centre: pay below rivals makes staff leave, so match local pay; scripted calls give no achievement, so empower experienced staff to resolve complaints." loading="lazy">
+  <figcaption>Fix hygiene factors to stop people leaving; add motivators to give them a reason to stay.</figcaption>
+</figure>
 
 ## Common mistakes
 

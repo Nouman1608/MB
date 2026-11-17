@@ -54,6 +54,11 @@ The Big Bang was not an explosion of matter into empty space from one
 place. Space itself has been expanding everywhere at once, carrying the
 galaxies apart.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--01-big-bang-history.webp" width="900" height="775" alt="A widening cone from a tiny hot point about 13.8 billion years ago to today. Along it: the universe expands and cools, the first particles and atoms of hydrogen and helium form, gravity builds stars and galaxies, and the universe is still expanding." loading="lazy">
+  <figcaption>From tiny, hot and dense to the expanding universe of stars and galaxies today.</figcaption>
+</figure>
+
 ## The Doppler effect (8.15P)
 
 When a wave source moves relative to an observer, the waves are
@@ -68,6 +73,11 @@ Light from a source moving away is shifted towards longer wavelengths,
 the red end of the visible spectrum: this is **red-shift**. Light from a
 source moving towards us is shifted towards the blue end (blue-shift).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-waves--01-doppler-effect.webp" width="900" height="770" alt="Circular wavefronts sent out from a source moving right are closer together ahead (shorter wavelength, higher pitch) and further apart behind (longer wavelength, lower pitch)." loading="lazy">
+  <figcaption>A moving source squeezes wavefronts together ahead and stretches them behind.</figcaption>
+</figure>
+
 ## Red-shift in galaxies
 
 Elements absorb light at particular wavelengths, producing dark lines in
@@ -77,6 +87,11 @@ from distant galaxies, the same pattern of lines appears, but every line
 is shifted to a longer wavelength. The pattern is recognisably the same,
 so we know it is the same element; the shift tells us the galaxy is
 moving away.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--02-red-shifted-spectral-lines.webp" width="900" height="575" alt="Two absorption spectra. The laboratory spectrum has dark lines at the reference wavelengths. The galaxy spectrum shows the same pattern of lines, each moved towards the longer-wavelength red end." loading="lazy">
+  <figcaption>Same pattern of lines, all moved to longer wavelengths: the galaxy is moving away.</figcaption>
+</figure>
 
 ## The red-shift equation (8.16P)
 
@@ -112,12 +127,22 @@ v / c = 1.5 × 10⁷ / 3.0 × 10⁸ = 0.050
 Remember to add Δλ to λ₀ when a question asks for the observed
 wavelength, not just the change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--03-red-shift-worked-examples.webp" width="900" height="555" alt="Two worked examples. A 486 nm line seen at 495.72 nm gives Δλ / λ₀ = 0.020 and v = 6.0 × 10⁶ m/s. A galaxy receding at 1.5 × 10⁷ m/s gives v / c = 0.050, Δλ = 20.5 nm and an observed 410 nm line at 430.5 nm." loading="lazy">
+  <figcaption>Find Δλ, divide by λ₀, and multiply by c; or work backwards and add Δλ to λ₀.</figcaption>
+</figure>
+
 ## Red-shift and distance (8.17P)
 
 Measurements of many galaxies show two patterns:
 
 - **Almost all distant galaxies are red-shifted**: they are moving away from us.
 - **The further away a galaxy is, the greater its red-shift**: more distant galaxies are moving away faster.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--04-red-shift-and-distance.webp" width="900" height="650" alt="Three galaxies at increasing distances from Earth, each moving away, the furthest fastest. Under each a spectrum strip shows the same line moved further from its reference position the more distant the galaxy." loading="lazy">
+  <figcaption>The further away a galaxy is, the bigger its red-shift and the faster it is moving away.</figcaption>
+</figure>
 
 ## Why red-shift shows the universe is expanding (8.18P)
 
@@ -133,6 +158,16 @@ Running this expansion backwards in time means that galaxies were once
 much closer together. Ultimately the whole universe was in a tiny, hot,
 dense state, which is the Big Bang.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--05-balloon-analogy.webp" width="900" height="720" alt="A balloon with five dots, small and then inflated. As the balloon stretches every dot moves away from every other, and dots that started further apart move apart more. No dot is at the centre." loading="lazy">
+  <figcaption>Space stretches between all galaxies, so every observer sees the others moving away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--06-red-shift-explanation-chain.webp" width="900" height="535" alt="A chain of five boxes: almost all galaxies are red-shifted; further ones are moving away faster; so space is expanding; running this backwards, galaxies were once closer; so the universe began tiny, hot and dense, the Big Bang." loading="lazy">
+  <figcaption>Link the observations in order: red-shift, faster with distance, expanding space, Big Bang.</figcaption>
+</figure>
+
 ## Cosmic microwave background radiation (8.14P)
 
 The **CMB** is weak microwave radiation that reaches Earth from **every
@@ -146,6 +181,11 @@ universe. The Big Bang theory predicts this radiation; the rival Steady
 State theory, in which the universe has always existed in the same
 state, gives no explanation for it, which is why the discovery of the CMB
 was strong evidence for the Big Bang.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--07-cosmic-microwave-background.webp" width="900" height="730" alt="Three waves, each longer than the last: high-energy radiation in the hot early universe is stretched as the universe expands and is detected today as microwaves. Arrows reach Earth from every direction with almost the same intensity." loading="lazy">
+  <figcaption>Expansion stretched the early radiation into the microwaves now arriving from every direction.</figcaption>
+</figure>
 
 ## Main arguments for the Big Bang (8.13P, 8.14P)
 

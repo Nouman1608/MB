@@ -60,6 +60,16 @@ The lower four are **deficiency needs**: lacking them creates tension. Self-actu
 
 *Application*: a manager can match roles to needs, giving a high-nAch employee a target-based project and a high-nAff employee a team role. *Evaluation*: needs were often measured with projective tests (interpreting ambiguous pictures), which have questionable reliability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-motivation-to-work--01-mcclelland-needs.webp" width="900" height="652" alt="Three needs: achievement (succeeding at challenging tasks, preferring moderately difficult goals and feedback), affiliation (being liked, preferring cooperation) and power (influencing others). A manager can give a high-achievement employee a target-based project and a high-affiliation employee a team role. Projective measures limit reliability." loading="lazy">
+  <figcaption>Three learned needs; match each employee's role to their strongest one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--02-org-maslow.webp" width="900" height="830" alt="A five-level pyramid: physiological (pay), safety (job security), love and belonging (colleagues), esteem (recognition), self-actualisation (challenging work), with an arrow showing lower needs are largely met first." loading="lazy">
+  <figcaption>Maslow’s levels and what meets each one at work.</figcaption>
+</figure>
+
 ## 4.1.2 Cognitive theories
 
 **Goal-setting theory (Latham and Locke).** Specific, difficult goals lead to higher performance than easy or vague "do your best" goals. Goal-setting principles include:
@@ -82,6 +92,21 @@ Because the beliefs multiply, if any one is zero, motivation is zero. A salesper
 
 **Comparing need and cognitive theories.** Need theories explain *what* motivates (the content). Cognitive theories explain *how* motivation is produced (the process). Need theories are more deterministic, implying behaviour is driven by needs; cognitive theories give people an active role in judging goals and rewards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-motivation-to-work--02-goal-setting.webp" width="900" height="459" alt="Five goal-setting principles: clarity, challenge, commitment, feedback and task complexity. Below, a vague goal (&quot;Improve customer service&quot;) is turned into a SMART goal (&quot;Answer 90% of customer emails within 24 hours by the end of March&quot;)." loading="lazy">
+  <figcaption>Turn vague aims into specific, measurable, time-bound goals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-motivation-to-work--03-content-vs-process.webp" width="900" height="439" alt="A table compares need theories (Maslow, McClelland: what motivates, unmet needs, more deterministic) with cognitive theories (goal-setting, VIE: how motivation is produced, goals and beliefs, an active worker)." loading="lazy">
+  <figcaption>Need theories explain what motivates; cognitive theories explain how.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--01-org-vie.webp" width="900" height="955" alt="A chain from effort to performance to reward. Expectancy links effort to performance, instrumentality links performance to reward, and valence is how much the reward is valued. A second chain shows instrumentality at zero, so motivation is low." loading="lazy">
+  <figcaption>Vroom’s three beliefs; if any one is zero, motivation is low.</figcaption>
+</figure>
+
 ## 4.1.3 Motivators at work
 
 **Extrinsic motivators** come from outside the task:
@@ -96,6 +121,11 @@ Because the beliefs multiply, if any one is zero, motivation is zero. A salesper
 **Intrinsic motivators** are non-monetary rewards: praise, respect, recognition, empowerment (being given authority to make decisions) and a sense of belonging.
 
 **Self-determination theory (Deci and Ryan)** proposes three basic psychological needs: **competence** (feeling effective), **autonomy** (feeling in control of one's actions) and **relatedness** (feeling connected to others). When these are satisfied, people show more **autonomous** (intrinsic) motivation. Rewards that feel **controlling** can frustrate autonomy and undermine intrinsic motivation; rewards that feel **informational**, showing appreciation of competence, can support it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-motivation-to-work--04-motivators-sdt.webp" width="900" height="623" alt="Extrinsic motivators (pay, bonus, profit-sharing, performance-related pay) and intrinsic motivators (praise, respect, recognition, empowerment, belonging). Self-determination theory's three needs, competence, autonomy and relatedness, follow; informational rewards can support intrinsic motivation while controlling rewards can undermine it." loading="lazy">
+  <figcaption>The same reward can support or undermine motivation depending on how it feels.</figcaption>
+</figure>
 
 ## Key study: Landry et al. (2019), study 1
 
@@ -114,6 +144,11 @@ Because the beliefs multiply, if any one is zero, motivation is zero. A salesper
 - *Self-report*: need satisfaction and motivation were measured by questionnaire.
 - *Application*: managers can describe bonuses as recognition rather than as pressure to meet standards.
 - *Reductionism versus holism*: a single framing manipulation is a narrow slice of workplace motivation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--03-org-landry.webp" width="900" height="980" alt="123 students were randomly allocated to two conditions, both offered the same 10 dollar gift card framed differently, then did the same anagram task. Autonomy-supportive: more need satisfaction, intrinsic motivation and better performance. Controlling: more need frustration and extrinsic motivation, which did not predict performance." loading="lazy">
+  <figcaption>Study 1: the same reward framed in two ways gave different results.</figcaption>
+</figure>
 
 ## Worked example: applying VIE theory
 

@@ -45,6 +45,16 @@ Condense this guide with the [learning approach revision notes](/resources/cambr
 
 **Evaluative learning**, named by the syllabus for Saavedra and Silverman, is a form of classical conditioning in which the *liking* or *disliking* of a stimulus changes because it is paired with something pleasant or unpleasant. It is relevant because disgust, unlike fear, does not reduce easily with exposure alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-learning-approach--01-processes-to-studies.webp" width="900" height="656" alt="Three learning processes, each linked to a core study: social learning to Bandura et al., operant conditioning to Fagen et al., and classical conditioning with evaluative learning to Saavedra and Silverman. A note explains that all three measure directly observable behaviour." loading="lazy">
+  <figcaption>Social learning, operant conditioning and association: one study for each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-learning-approach--02-reinforcement-terms.webp" width="900" height="660" alt="Pairs of definitions: positive reinforcement adds something pleasant and negative reinforcement removes something unpleasant, both making behaviour more likely; primary reinforcers meet a biological need while secondary reinforcers gain value by pairing; shaping reinforces approximations and chaining links steps." loading="lazy">
+  <figcaption>Positive adds, negative removes; secondary means learned value, not negative.</figcaption>
+</figure>
+
 ## Bandura et al. (1961): transmission of aggression
 
 **Aim.** To test whether children would imitate aggression they had seen an adult perform, even when the model was no longer present, and whether the sex of the model and the child mattered.
@@ -59,6 +69,16 @@ Condense this guide with the [learning approach revision notes](/resources/cambr
 
 **Evaluation.** The standardised model behaviour, matched groups and timed observation with more than one observer make the study reliable. But the Bobo doll is designed to be hit, the model was a stranger, and the setting was artificial, so the findings may not show how children learn aggression from family or media. Ethically, children were deliberately frustrated and exposed to aggression that they might repeat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-learning-approach--03-bandura-design.webp" width="900" height="780" alt="Seventy-two children: 24 in a control group with no model, and the other 48 split by aggressive or non-aggressive model and by same-sex or opposite-sex model, giving a two by two set of conditions. Children were matched on existing aggression rated by two raters." loading="lazy">
+  <figcaption>A control group plus four model conditions: aggressive or not, same sex or not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-learning-approach--04-bandura-procedure.webp" width="900" height="674" alt="Three rooms in sequence: watching an adult model either assemble toys or attack a Bobo doll; a mild frustration phase; and 20 minutes in a room with aggressive and non-aggressive toys, observed through a one-way mirror every five seconds. Results and evaluation follow." loading="lazy">
+  <figcaption>Watch, be frustrated, then be observed: aggression was imitated without reward.</figcaption>
+</figure>
+
 ## Fagen et al. (2014): elephant learning
 
 **Aim.** To test whether positive reinforcement training could teach working juvenile elephants in Nepal to take part in a trunk wash, a procedure for testing for tuberculosis, as a humane alternative to traditional training based on punishment and dominance.
@@ -69,6 +89,11 @@ Condense this guide with the [learning approach revision notes](/resources/cambr
 
 **Evaluation.** The behavioural checklist gives clear, quantitative records of progress. However, the sample is tiny and specific to one setting, and not every elephant reached the full behaviour, so results may not generalise. Ethically, replacing aversive methods with reward meets the guideline on minimising harm and on reward, deprivation and aversive stimuli.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-learning-approach--05-fagen-trunk-wash.webp" width="900" height="683" alt="A bridge signal paired with food becomes a secondary reinforcer, with food as the primary reinforcer. The trunk wash is broken into steps (raise the trunk, hold it up while liquid is put in, lower it), each shaped and then chained into the full behaviour. Result and evaluation follow." loading="lazy">
+  <figcaption>A bridge signal, shaping and chaining built the trunk wash step by step.</figcaption>
+</figure>
+
 ## Saavedra and Silverman (2002): button phobia
 
 **Background.** A nine-year-old boy had developed a phobia of buttons after an incident at school when he was about five, when a bowl of buttons fell on him. His response involved **disgust** as well as fear; plastic buttons were the most distressing.
@@ -78,6 +103,11 @@ Condense this guide with the [learning approach revision notes](/resources/cambr
 **Treatment.** First, exposure-based therapy with contingency management: he worked up the hierarchy and was positively reinforced for approaching buttons. This reduced his distress only a little. Next came disgust-focused imagery, an **evaluative learning** technique, in which he imagined buttons touching him while thinking about his disgust reactions, alongside further exposure. After this his distress ratings dropped markedly and improvement was maintained at follow-up.
 
 **Evaluation.** The case study gives detailed, idiographic data and suggests a new direction for treatment. But one child cannot represent all phobias, and as the two treatments happened in sequence, improvement in the second phase could partly be the delayed effect of the first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-learning-approach--06-saavedra-silverman.webp" width="900" height="779" alt="An illustrative line of the boy's distress: in phase 1, exposure with contingency management lowers it only a little; in phase 2, disgust-focused imagery (evaluative learning) with exposure produces a marked drop kept at follow-up. Background, method and evaluation cards follow." loading="lazy">
+  <figcaption>Exposure alone helped little; adding disgust imagery cut distress markedly.</figcaption>
+</figure>
 
 ## Annotated answer
 

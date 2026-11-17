@@ -34,21 +34,41 @@ Elizabeth inherited a divided country. Her father Henry VIII had broken with Rom
 
 In the 1560s Elizabeth was relatively tolerant: in a phrase later attributed to her, she did not wish to "make windows into men's souls", so outward conformity was enough, and many Catholics, especially in the north, attended church while keeping their private beliefs. After 1568 the arrival of Mary Queen of Scots turned religion into a question of **loyalty and succession**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--01-religious-settlement-1559.webp" width="900" height="507" alt="Three parts of the 1559 Settlement: the Act of Supremacy made Elizabeth Supreme Governor, the Act of Uniformity required church attendance with a twelve-pence fine for recusants, and some traditional features were kept. Below, tolerance in the 1560s gives way to questions of loyalty after Mary arrives in 1568." loading="lazy">
+  <figcaption>The Settlement asked for outward conformity; Mary's arrival made religion a question of loyalty.</figcaption>
+</figure>
+
 ## Mary Queen of Scots: background and challenge
 
 Mary was the granddaughter of Henry VIII's elder sister Margaret, so she had a strong claim to be Elizabeth's heir. Many Catholics regarded Elizabeth, the daughter of Anne Boleyn, as illegitimate, and therefore saw Mary as the rightful queen. Mary had been queen of Scotland since infancy and had been married to the king of France. After the murder of her second husband, Lord Darnley, in 1567 and her marriage to the Earl of Bothwell, the suspected murderer, Scottish nobles forced her to abdicate in favour of her infant son James. She escaped, was defeated at Langside, and in May 1568 fled to England.
 
 Mary posed a **dilemma**. Freeing her might put a Catholic claimant at the head of rebellion or return her to Scotland against England's Protestant allies; sending her to France might bring French support for her claim; executing an anointed queen might encourage others to kill monarchs, including Elizabeth. So Elizabeth kept her in **custody for nineteen years**, moving her between houses such as Tutbury, Sheffield and Chartley.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--02-what-to-do-with-mary.webp" width="900" height="603" alt="Four options for Elizabeth: freeing Mary, sending her to France or executing her each carried a risk, so Elizabeth kept her in custody for nineteen years. A note explains Mary's claim through Margaret, Henry VIII's elder sister." loading="lazy">
+  <figcaption>Every option was risky, so Elizabeth chose nineteen years of custody.</figcaption>
+</figure>
+
 ## The Northern Rebellion, 1569
 
 The Catholic Earls of **Northumberland and Westmorland** resented their loss of influence to new men such as Cecil and to Protestant officials in the north. A plan to marry Mary to the **Duke of Norfolk** was linked to their rising in November 1569. The rebels celebrated Mass in **Durham Cathedral** and marched south, aiming to free Mary, but the rising collapsed as royal forces approached. Hundreds of rebels were executed, Northumberland was later executed, and Westmorland fled abroad. The rebellion showed that Mary could act as a focus for Catholic discontent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--03-northern-rebellion.webp" width="900" height="664" alt="Two causes, the earls' lost influence and the plan to marry Mary to Norfolk, lead to the rising of November 1569 with Mass at Durham Cathedral, its collapse, and the punishment of the rebels. Its significance: Mary could be a focus for Catholic discontent." loading="lazy">
+  <figcaption>The rising showed that Mary could be a focus for Catholic discontent.</figcaption>
+</figure>
 
 ## Excommunication and the missionaries
 
 In 1570 Pope Pius V issued a papal bull, *Regnans in Excelsis*, **excommunicating** Elizabeth and releasing Catholics from obedience to her. English Catholics now faced a choice between pope and queen, and the government began to see Catholicism as potential treason. A 1571 Act made it treason to deny that Elizabeth was the lawful queen.
 
 **William Allen** founded a college at **Douai** in 1568 to train English priests. **Seminary priests** began arriving in England in 1574, and the first **Jesuits**, including **Edmund Campion**, came in 1580. They travelled secretly between Catholic households, often hidden in priest holes. Campion was captured in 1581 and executed. The government's laws tightened: in **1581** the recusancy fine rose to £20 a month, and converting someone to Catholicism became treason; in **1585** Jesuits and seminary priests were ordered to leave the country, and remaining became treason. More than a hundred priests were executed during the reign.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--04-catholic-threat-and-response.webp" width="900" height="789" alt="Table of years from 1568 to 1585 pairing Catholic challenges (Douai college, excommunication, seminary priests, Jesuits) with government responses (treason act of 1571, the £20 fine of 1581, the 1585 order expelling priests)." loading="lazy">
+  <figcaption>Each new Catholic challenge brought harsher laws.</figcaption>
+</figure>
 
 ## Catholic plots
 
@@ -60,6 +80,11 @@ In 1570 Pope Pius V issued a papal bull, *Regnans in Excelsis*, **excommunicatin
 
 After Throckmorton, the **Bond of Association** (1584) bound its signatories to kill anyone in whose name a plot was made, and an Act of 1585 provided for the trial of anyone on whose behalf such a plot was attempted. The Babington letters gave Walsingham the evidence. Mary was tried at **Fotheringhay** in October 1586 and found guilty.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--05-plots-to-execution.webp" width="900" height="790" alt="Vertical timeline: Ridolfi Plot 1571, Throckmorton Plot 1583, Bond of Association 1584, the 1585 Act, Babington Plot 1586, trial at Fotheringhay in October 1586 and Mary's execution on 8 February 1587." loading="lazy">
+  <figcaption>The Bond and the 1585 Act meant Babington's letters could bring Mary to trial.</figcaption>
+</figure>
+
 ## Execution and its impact
 
 Elizabeth hesitated for months before signing the death warrant. Mary was executed on **8 February 1587**. Elizabeth claimed the warrant had been sent without her consent and punished her secretary, William Davison. The impact:
@@ -67,6 +92,11 @@ Elizabeth hesitated for months before signing the death warrant. Mary was execut
 - **The main Catholic claimant was removed**; the heir was now Mary's Protestant son, James VI of Scotland, who protested but accepted the execution.
 - **Philip II of Spain** no longer had to fear that a successful invasion would put a French-influenced queen on the throne, and the execution added to his reasons for the Armada of 1588.
 - At home, the Catholic threat was reduced, and the Armada's defeat encouraged most Catholics to remain loyal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--06-impact-of-execution.webp" width="900" height="334" alt="Three consequences: the main Catholic claimant was removed and the Protestant James VI became heir; Philip II gained another reason for the Armada of 1588; and the Catholic threat at home was reduced." loading="lazy">
+  <figcaption>The execution ended the threat at home but helped bring war with Spain.</figcaption>
+</figure>
 
 ## Puritans and Puritanism
 
@@ -77,6 +107,11 @@ Elizabeth saw Puritanism as a challenge to her authority as Supreme Governor. Wh
 ## Linking the strands
 
 Religion and the succession were inseparable: Mary's claim made Catholic loyalty a political danger; excommunication made Catholicism look treasonable; missionaries and plots led to harsher laws; Mary's execution reduced the threat but helped bring war with Spain. Puritans, meanwhile, challenged the settlement from the opposite direction, showing that Elizabeth's "middle way" was attacked from both sides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--07-middle-way-under-attack.webp" width="900" height="541" alt="The 1559 Settlement sits in the centre, with Catholic pressures (Mary, excommunication, missionaries, plots) pushing from one side and Puritan pressures (vestments, prophesyings, separatists) from the other. A note links religion to the succession." loading="lazy">
+  <figcaption>Religion and the succession were inseparable, and the Settlement was challenged from both sides.</figcaption>
+</figure>
 
 ## Worked example: question 3 account
 

@@ -37,6 +37,11 @@ opinions** and **to receive and impart information and ideas** without interfere
 and regardless of frontiers. Its final sentence allows states to require the **licensing of
 broadcasting, television or cinema enterprises**. Article 10 is a **qualified** right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-10-of-the-european-convention-on-human-rights-1953--01-article-10-1-parts.webp" width="900" height="555" alt="Article 10.1 contains three freedoms: to hold opinions, to receive information and ideas, and to impart information and ideas, without interference by public authority and regardless of frontiers. Its final sentence lets states license broadcasting, television or cinema, and it is a qualified right limited under Article 10.2." loading="lazy">
+  <figcaption>Three freedoms, held against the state; limits come later, under Article 10.2.</figcaption>
+</figure>
+
 ## What counts as "expression"
 
 The Court gives "expression" a wide meaning. It covers speech and writing, art, broadcasting, online
@@ -63,6 +68,16 @@ The Court applies stronger protection to some kinds of expression than others.
   International v United Kingdom (2013)** the Grand Chamber upheld the UK ban on paid political
   advertising on television and radio.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-10-of-the-european-convention-on-human-rights-1953--02-handyside-principle.webp" width="900" height="546" alt="Expression covers speech and writing, art, broadcasting, online content, advertising and some forms of protest. Handyside v United Kingdom (1976) held that Article 10 protects ideas that offend, shock or disturb, but the UK’s seizure of the book was still found justified." loading="lazy">
+  <figcaption>Handyside set the “offend, shock or disturb” principle but found no breach.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-10-of-the-european-convention-on-human-rights-1953--03-speech-protection-levels.webp" width="900" height="671" alt="Three kinds of expression with bars of decreasing length. Political speech has the highest protection (Lingens v Austria, breach). Artistic expression gives states more room on morals or religion (Müller v Switzerland, Otto-Preminger-Institut v Austria, no breach). Commercial and broadcast advertising can be restricted more readily (Animal Defenders International v UK)." loading="lazy">
+  <figcaption>Political speech is protected most; artistic and commercial speech give the state more room.</figcaption>
+</figure>
+
 ## Communicating information and ideas
 
 ### The press as "public watchdog"
@@ -84,6 +99,11 @@ journalist was convicted for broadcasting an interview in which young men made r
 Court found a breach: the programme was a serious report on racism, and punishing a journalist for
 helping to spread others' statements would seriously hamper the press.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-10-of-the-european-convention-on-human-rights-1953--04-press-watchdog-cases.webp" width="900" height="539" alt="A table of four press cases. Sunday Times v UK: an injunction on a thalidomide article was not necessary. Observer and Guardian v UK: Spycatcher injunctions failed once the book was published in the United States. Goodwin v UK: forcing a journalist to reveal his source breached Article 10. Jersild v Denmark: convicting a journalist for broadcasting others’ racist remarks breached Article 10." loading="lazy">
+  <figcaption>In each case the Court protected the press’s role in informing the public.</figcaption>
+</figure>
+
 ## Receiving information and ideas
 
 The right to receive information mainly stops the state from **blocking information that others are
@@ -95,6 +115,11 @@ non-governmental organisation acting as a watchdog. In **Kennedy v Charity Commi
 Supreme Court held that Article 10 did not give a journalist a general right to receive information
 from a public body; the claim had to be approached through statute, including the Freedom of Information
 Act 2000, and the common law.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-10-of-the-european-convention-on-human-rights-1953--05-receiving-information.webp" width="900" height="502" alt="Three cases on a line from no access to limited access. Leander v Sweden: no right of access to a secret police register. Kennedy v Charity Commission: no general right to receive information from a public body; use the Freedom of Information Act 2000 and the common law. Magyar Helsinki Bizottság v Hungary: a right can arise where access is instrumental to a press or NGO watchdog." loading="lazy">
+  <figcaption>The right to receive stops the state blocking willing speakers; it is not a general right to demand information.</figcaption>
+</figure>
 
 ## How English law gives effect to Article 10
 
@@ -114,6 +139,11 @@ Holdings v Banerjee (2004)** the House of Lords held that "likely" normally mean
 not**. The criminal and civil provisions that restrict expression are covered in the
 [Human Rights and English law study guide](/resources/aqa-a-level-law-7162-human-rights-and-english-law/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-10-of-the-european-convention-on-human-rights-1953--06-section-12-hra.webp" width="900" height="789" alt="Two common law cases valued expression before 1998: Derbyshire County Council v Times Newspapers and ex parte Simms. Then a flow: when a court considers relief that might affect expression, section 12 requires particular regard to the right; under section 12(3) there is no pre-trial restraint unless the applicant is likely to succeed, which Cream Holdings v Banerjee says normally means more likely than not." loading="lazy">
+  <figcaption>Before trial, the applicant must show it is more likely than not to win.</figcaption>
+</figure>
+
 ## Worked example
 
 *Facts: Ruth runs a blog about her council. She posts a leaked council report showing that a children's
@@ -131,6 +161,11 @@ Source order:    Goodwin v UK: compelling disclosure of a source needs an
                  overriding requirement in the public interest.
 Next stage:      Apply Article 10.2 to see whether either order is justified.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-10-of-the-european-convention-on-human-rights-1953--07-ruth-worked-example.webp" width="900" height="831" alt="Ruth’s case in five steps: Article 10.1 is engaged (Sunday Times); public-interest speech about local government gets strong protection (Lingens, Derbyshire); section 12(3) and Cream Holdings require the council to show it is more likely than not to win; Goodwin requires an overriding public interest to force disclosure of a source; then Article 10.2 decides justification." loading="lazy">
+  <figcaption>Engage the right, rate the speech, apply section 12, then move to Article 10.2.</figcaption>
+</figure>
 
 ## Common mistakes
 

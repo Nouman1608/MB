@@ -52,6 +52,11 @@ many employed women perform a **triple shift**: paid work, domestic labour and e
 Hochschild's *The Second Shift* (1989) had already described employed American women returning home
 to a second shift of housework and childcare.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--01-roles-triple-shift.webp" width="900" height="634" alt="Parsons’s instrumental breadwinner role for husbands and expressive caring role for wives, then the triple shift of paid work, domestic labour and emotion work carried by many employed women." loading="lazy">
+  <figcaption>Women’s expressive role becomes a triple shift once they also take paid work.</figcaption>
+</figure>
+
 ### Changes to roles, and reasons
 
 | Reason | How it changes roles |
@@ -67,6 +72,11 @@ Michael Young and Peter Willmott (*The Symmetrical Family*, 1973) argued that ro
 Jonathan Gershuny's idea of **lagged adaptation** suggests men's share of housework rises slowly
 behind women's move into paid work, as each generation is socialised into new norms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--02-changing-roles.webp" width="900" height="697" alt="Five reasons roles change: women’s employment, feminist ideas and equality laws, decline of manual industry, smaller families and technology, and changing fatherhood. These lead to Young and Willmott’s symmetrical family or Gershuny’s lagged adaptation." loading="lazy">
+  <figcaption>Roles are changing, but how far and how fast is disputed.</figcaption>
+</figure>
+
 ### The division of domestic labour
 
 Ann Oakley's research on housewives, published in 1974, challenged Young and Willmott: she found
@@ -81,6 +91,11 @@ any evidence:
   men more often do occasional, flexible tasks (repairs).
 - **Paid help**: in some societies, middle-class dual-earner couples buy domestic help, so
   equality between partners rests on the labour of other, often migrant, women.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--03-domestic-labour.webp" width="900" height="643" alt="A grid applying three distinctions, tasks versus responsibility, routine versus occasional work and paid help, to men’s and women’s domestic work, with Edgell and Pahl on power and money." loading="lazy">
+  <figcaption>Counting tasks hides who carries responsibility and power.</figcaption>
+</figure>
 
 ### Power and decision making
 
@@ -101,6 +116,11 @@ explain variation by class. Measurement is difficult: much violence is never rep
 figures underestimate it, and victims may fear the consequences of disclosure. Violence against
 children includes physical punishment, neglect and abuse; what counts as acceptable discipline is
 itself socially constructed and differs between societies and over time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--04-violence.webp" width="900" height="504" alt="Three explanations of family violence: Dobash and Dobash on patriarchal authority, radical feminists on control, and others on poverty, stress and alcohol. A note covers under-reporting and changing ideas of discipline." loading="lazy">
+  <figcaption>Feminists see control where others see stress, and much violence goes unrecorded.</figcaption>
+</figure>
 
 ## Part 2: age
 
@@ -125,6 +145,16 @@ parenting. Critics argue that adults still control children's time, space and bo
 used the term **age patriarchy** for adult domination of children. Child centredness also varies by
 class and between societies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--05-childhood.webp" width="900" height="601" alt="A timeline from medieval Europe, where children joined the adult world early, through the growth of a separate childhood and child labour and education laws, to Postman’s claim that television blurs the boundary. Cards contrast children in rural Bolivia with wealthy societies." loading="lazy">
+  <figcaption>Childhood differs over time and between societies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--06-child-centredness.webp" width="900" height="519" alt="Smaller families, lower infant mortality, rising living standards and expert parenting advice lead to the child-centred family. Gittins’s idea of age patriarchy and class variation qualify it." loading="lazy">
+  <figcaption>Child centredness grew, but adults still hold power over children.</figcaption>
+</figure>
+
 ### Adult children and "boomerang" families
 
 A **boomerang family** forms when adult children return to the parental home after a period of
@@ -132,6 +162,11 @@ independence. Reasons include housing costs, student debt, insecure work, relati
 and, in some societies, the cultural expectation that unmarried children live with parents. The
 effects are mixed: parents may give support well into their children's adulthood, which delays
 independence and may strain resources, yet it can also strengthen intergenerational ties.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--07-adult-children-older.webp" width="900" height="663" alt="Reasons adult children return home to form boomerang families and the mixed effects, then a comparison of older people’s status where filial obligation is strong or status is tied to paid work, and grandparent roles." loading="lazy">
+  <figcaption>Generational roles stretch as children return and lives lengthen.</figcaption>
+</figure>
 
 ### Older people and grandparent roles
 

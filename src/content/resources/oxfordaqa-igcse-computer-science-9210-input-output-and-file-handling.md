@@ -50,6 +50,11 @@ Two habits make input code reliable:
 
 In Python, the equivalent is `age = int(input("Enter your age: "))`, where the prompt is passed to `input`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--01-keyboard-input.webp" width="900" height="586" alt="The display shows the prompt &quot;Enter your age&quot; and the user types 16. USERINPUT arrives as the string &quot;16&quot;, which STRING_TO_INT converts to the integer 16, ready for arithmetic. The pseudocode is OUTPUT &quot;Enter your age&quot; followed by age ← STRING_TO_INT(USERINPUT); in Python, age = int(input(&quot;Enter your age: &quot;))." loading="lazy">
+  <figcaption>Prompt the user, then convert the string that arrives before doing arithmetic.</figcaption>
+</figure>
+
 ## Output to the display
 
 `OUTPUT` sends data to the screen. A useful output combines fixed text with the values of variables, so the user
@@ -63,12 +68,22 @@ Here `+` joins two strings, so the number is converted first. Many languages als
 separated by commas, which avoids the conversion. "Data and information" in the specification is a reminder that
 output should be meaningful: `Total cost: 14.5` is information; `14.5` on its own is just data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--02-output-data-information.webp" width="900" height="544" alt="Two displays: 14.5 on its own is just data, while &quot;Total cost: 14.5&quot; is information because the user knows what the number means. The statement OUTPUT &quot;Total cost: &quot; + REAL_TO_STRING(total) joins fixed text to the number after converting it to a string." loading="lazy">
+  <figcaption>Label every value you output so it becomes information.</figcaption>
+</figure>
+
 ## Why use text files?
 
 Variables lose their values when a program ends. A **text file** stores data on secondary storage, so it is still
 there next time the program runs, and it can be shared with other programs. Typical uses are saving high scores,
 keeping a log of events, storing settings, and loading a list of words or questions. A text file holds lines of
 characters, so numbers read from it are strings until converted, exactly as with keyboard input.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--03-why-text-files.webp" width="900" height="624" alt="Variables in a running program lose their values when it ends, but data saved to a text file on secondary storage is still there next time and can be shared with other programs. Typical uses are high scores, event logs, settings and lists of words or questions. Numbers read from a file are strings until converted." loading="lazy">
+  <figcaption>A text file makes data persist after the program ends.</figcaption>
+</figure>
 
 ## The pattern for reading a file
 
@@ -109,6 +124,11 @@ The `with` block closes the file automatically when it ends. A `WHILE` loop with
 the right structure in pseudocode because an **empty file** should cause zero reads. Note that this example would
 then divide by zero: a robust version checks `count > 0` before dividing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--04-reading-a-file.webp" width="900" height="700" alt="A flowchart: open the file for reading, test for the end of the file, and while it is not reached read a line, process it and test again; at the end, close the file. Beside it, pseudocode that totals and counts the numbers in scores.txt and outputs total / count, with a note to check count > 0 so an empty file does not divide by zero." loading="lazy">
+  <figcaption>Open, loop until end of file reading one line at a time, then close.</figcaption>
+</figure>
+
 ## The pattern for writing a file
 
 Writing has two modes, and choosing the wrong one is a common source of lost data:
@@ -130,6 +150,11 @@ next item is joined onto the same line.
 
 **Closing** the file matters: it makes sure all the data is actually saved to storage, and it releases the file so
 that other programs can use it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--05-write-versus-append.webp" width="900" height="766" alt="A log file holds two existing lines. Opened in write mode, it is replaced and holds only the new line. Opened in append mode, the new line is added after the two existing lines. The pseudocode opens log.txt for appending, writes &quot;Login by &quot; + username and closes the file." loading="lazy">
+  <figcaption>Write mode replaces the file; append mode adds to the end.</figcaption>
+</figure>
 
 ## Worked example: a high-score table
 
@@ -162,6 +187,11 @@ again for reading; every line is read in a loop that stops at the end of the fil
 comparison; and the result is output with a label. Starting `best` at 0 is safe here because scores cannot be
 negative in this game.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--06-high-score-sequence.webp" width="900" height="758" alt="The high-score pseudocode in four stages: input the score and convert it to an integer; open highscores.txt in append mode, write the score as a string and close; open the file for reading and loop to the end, converting each line and keeping the best; close the file and output &quot;Best score: &quot; with the result." loading="lazy">
+  <figcaption>Convert, append, close, read every line, close, output: each step earns a mark.</figcaption>
+</figure>
+
 ## Worked example: writing a table
 
 ```
@@ -175,6 +205,11 @@ CLOSE_FILE(file)
 This creates (or replaces) `seven.txt` with 12 lines, from `1 x 7 = 7` to `12 x 7 = 84`. The file is opened
 **once**, before the loop, and closed **once**, after it. Opening inside the loop in write mode would wipe the
 file on each pass, leaving only the last line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--07-open-once-outside-loop.webp" width="900" height="760" alt="Pseudocode opens seven.txt in write mode, writes i x 7 = i * 7 for i from 1 to 12, then closes the file, giving 12 lines from 1 x 7 = 7 to 12 x 7 = 84. If the file were opened in write mode inside the loop, each pass would wipe it and only 12 x 7 = 84 would remain." loading="lazy">
+  <figcaption>Open once before the loop and close once after it.</figcaption>
+</figure>
 
 ## Annotated model answer
 

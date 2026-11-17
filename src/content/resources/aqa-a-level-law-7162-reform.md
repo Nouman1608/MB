@@ -58,6 +58,11 @@ before an exam and present proposals as proposals, not as law.
   services may fall outside section 6, though Parliament later closed that particular gap for publicly
   arranged care.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-reform--01-criticisms-both-sides.webp" width="900" height="658" alt="The Human Rights Act is pulled two ways. Those wanting less judicial or European influence point to section 3 rewriting statutes (Ghaidan), section 2 and the Ullah mirror principle, prisoner voting after Hirst, and expanding obligations. Those wanting stronger protection point to no entrenchment, non-binding section 4 declarations, no social rights and gaps in section 6 (YL v Birmingham)." loading="lazy">
+  <figcaption>Every reform option answers one side’s criticisms and sharpens the other’s.</figcaption>
+</figure>
+
 ## The main reform options
 
 | Option | Supporters' case | Objections |
@@ -67,6 +72,11 @@ before an exam and present proposals as proposals, not as law.
 | Replace it with a UK Bill of Rights, staying in the Convention | Greater "ownership" of rights; could add rights such as jury trial | The UK would still be bound in international law by Strasbourg judgments, so gaps would lead to more adverse rulings |
 | Withdraw from the Convention | Full national control over rights | Article 58 allows denunciation on six months' notice, but withdrawal would raise serious problems for devolution and the Belfast (Good Friday) Agreement, and would remove an external check |
 | Strengthen protection: entrenchment, a written constitution or social rights | Rights would be harder to remove and wider in scope | Entrenchment conflicts with parliamentary sovereignty; social rights raise questions about judges deciding spending |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-reform--02-reform-options.webp" width="900" height="642" alt="A table of five options ordered from less external check to stronger protection: withdraw from the Convention, replace the HRA with a UK Bill of Rights while staying in the Convention, amend sections 2 and 3, keep the HRA unchanged, or strengthen protection by entrenchment, a written constitution or social rights, each with supporters’ case and objections." loading="lazy">
+  <figcaption>Replacing the HRA is not the same as leaving the Convention.</figcaption>
+</figure>
 
 ## What has actually been proposed
 
@@ -87,6 +97,11 @@ before an exam and present proposals as proposals, not as law.
   The Safety of Rwanda (Asylum and Immigration) Act 2024 disapplied key sections of the HRA in relation to
   that Act. The Rwanda policy was abandoned after the 2024 general election.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-reform--03-proposals-timeline.webp" width="900" height="748" alt="A timeline: the Commission on a Bill of Rights (2011 to 2012) found majority support in principle but no agreed content; the 2015 manifesto pledged to scrap the HRA; the Independent Human Rights Act Review (2020 to 2021) found it working broadly well; the Bill of Rights Bill was introduced in June 2022 and dropped in June 2023; the Safety of Rwanda Act 2024 disapplied parts of the HRA before the policy was abandoned." loading="lazy">
+  <figcaption>Repeal has been proposed repeatedly, but the HRA remains in force.</figcaption>
+</figure>
+
 ## Constraints on reform
 
 - **Devolution.** The Scotland Act 1998, the Government of Wales Act 2006 and the Northern Ireland Act 1998
@@ -99,6 +114,11 @@ before an exam and present proposals as proposals, not as law.
 - **International obligations.** As long as the UK remains a party, Article 46 obliges it to abide by
   final judgments against it, whatever domestic law says.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-reform--04-reform-constraints.webp" width="900" height="517" alt="Four constraints around “changing the HRA”: devolution statutes make incompatible devolved acts outside competence, entrenching the HRA in the settlement; the Sewel Convention, though not legally enforceable; the Belfast (Good Friday) Agreement’s commitment to incorporate the Convention in Northern Ireland; and Article 46, binding the UK to final Strasbourg judgments." loading="lazy">
+  <figcaption>Devolution, Northern Ireland and Article 46 limit what Westminster can do alone.</figcaption>
+</figure>
+
 ## Reform at Strasbourg
 
 Reform also happens at Council of Europe level. Conferences at **Interlaken (2010)** and **Brighton
@@ -107,6 +127,11 @@ Brighton Declaration led to **Protocol 15**, in force from 2021, which added ref
 **subsidiarity** and the **margin of appreciation** to the Convention's preamble and cut the time limit
 for applications from six months to four. Earlier, **Protocol 14** (in force 2010) introduced
 single-judge decisions and the significant disadvantage criterion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-reform--05-strasbourg-reform.webp" width="900" height="376" alt="A timeline of Strasbourg reform: Protocol 14 in force in 2010 with single-judge decisions and the significant disadvantage criterion; the Interlaken conference in 2010; the Brighton conference in 2012, whose Declaration led to Protocol 15; and Protocol 15 in force in 2021, adding subsidiarity and the margin of appreciation to the preamble and cutting the time limit from six months to four." loading="lazy">
+  <figcaption>Strasbourg has reformed itself to give national authorities more room.</figcaption>
+</figure>
 
 ## Annotated plan: "Discuss whether the Human Rights Act 1998 should be replaced by a UK Bill of Rights."
 
@@ -123,6 +148,11 @@ Point 4:    Alternative reforms: targeted amendment, or strengthening rights.
 Conclusion: Reach a judgement, e.g. that targeted amendment answers the
             criticisms with fewer risks than replacement.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-reform--06-bill-of-rights-plan.webp" width="900" height="697" alt="An essay plan: an introduction setting out the HRA model; the case for replacement (Ghaidan, Ullah, Hirst, evaluated with Horncastle); the case against (Article 46 and the Independent Review’s findings); constraints from devolution and the Belfast Agreement; alternative reforms; and a conclusion, for example preferring targeted amendment." loading="lazy">
+  <figcaption>A sustained argument weighing options against the criticisms they are meant to fix.</figcaption>
+</figure>
 
 ## Common mistakes
 

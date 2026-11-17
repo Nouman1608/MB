@@ -1,0 +1,65 @@
+[
+ {
+  "file": "edexcel-a-level-law-yla1-trespass-to-land--01-forms-of-entry.webp",
+  "width": 900,
+  "height": 834,
+  "after": "## Unlawful entry",
+  "alt": "A cross-section of land at a boundary. Trespass by entry includes crane jibs swinging over (Anchor Brewhouse), signs or fans overhanging (Kelsen; Laiqat v Majid), a ladder or object placed against a wall (Westripp v Baldock) and oil wells drilled far below (Bocardo v Star Energy). An aircraft at a reasonable height is not a trespass (Bernstein v Skyviews).",
+  "caption": "Entry covers the surface, the airspace needed for ordinary use and the ground beneath.",
+  "bytes": 111344
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-trespass-to-land--02-visitor-to-trespasser.webp",
+  "width": 900,
+  "height": 598,
+  "after": "## Unlawful entry",
+  "alt": "A visitor who exceeds permission becomes a trespasser (The Calgarth: invited to use the staircase, not to slide down the banisters). Once told to leave, a visitor has a reasonable time to go, after which staying is trespass (Robson v Hallett). On a highway, uses beyond passing and other reasonable purposes can be trespass (Harrison v Duke of Rutland; Hickman v Maisey), but peaceful assembly can be reasonable (DPP v Jones).",
+  "caption": "Permission has limits: exceed it, outstay it or misuse the highway, and the visitor is a trespasser.",
+  "bytes": 117058
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-trespass-to-land--03-intentional-and-direct.webp",
+  "width": 900,
+  "height": 612,
+  "after": "## Intentional and direct interference",
+  "alt": "Trespass needs an intentional entry: an involuntary entry is not trespass (Smith v Stone), but a mistake about the boundary is no defence (Basely v Clarkson), and a hunt master can be liable for hounds (League Against Cruel Sports v Scott). The interference must also be direct; indirect interference such as roots, smells, noise or seeping water is nuisance, which needs proof of damage.",
+  "caption": "Intend the entry and act directly: trespass. Indirect interference: nuisance.",
+  "bytes": 98298
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-trespass-to-land--04-continuing-trespass.webp",
+  "width": 900,
+  "height": 539,
+  "after": "## Continuing trespass",
+  "alt": "An object or structure left on another’s land is a continuing trespass, giving a fresh cause of action every day it remains (Holmes v Wilson, where buttresses supporting a road stayed on the claimant’s land). This matters for time limits, since each day starts a new claim, and for remedies, such as an injunction to remove the object.",
+  "caption": "While the object stays, the trespass renews every day.",
+  "bytes": 85730
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-trespass-to-land--05-trespass-defences.webp",
+  "width": 900,
+  "height": 510,
+  "after": "## Defences",
+  "alt": "Four defences: licence, express or implied, lost if exceeded or revoked; lawful authority such as police powers under PACE 1984 (without it, even officials trespass: Entick v Carrington); statutory access such as the Access to Neighbouring Land Act 1992; and necessity to prevent serious, imminent danger (Rigby v Chief Constable of Northamptonshire).",
+  "caption": "Permission, legal authority, a statutory right or genuine necessity justifies entry.",
+  "bytes": 93096
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-trespass-to-land--06-trespass-remedies.webp",
+  "width": 900,
+  "height": 525,
+  "after": "## Remedies",
+  "alt": "Damages are nominal where there is no loss, or compensate for harm or use (Bocardo recovered a modest sum). A prohibitory injunction stops future trespass (Anchor Brewhouse) and a mandatory one orders removal (Kelsen), with damages in lieu if an injunction would be oppressive (Jaggard v Sawyer). Occupiers may use reasonable force after asking (Collins v Renison), re-enter peacefully or seek possession; some trespasses are crimes.",
+  "caption": "Damages even without loss, injunctions to stop or remove, and limited self-help.",
+  "bytes": 118022
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-trespass-to-land--07-femi-and-gita.webp",
+  "width": 900,
+  "height": 744,
+  "after": "## Worked example",
+  "alt": "The scaffolding against Gita’s wall is an entry and a continuing trespass (Westripp; Holmes v Wilson); the crane over her garden trespasses in her airspace (Anchor Brewhouse); the builder becomes a trespasser after being told to leave and given a reasonable time (Robson v Hallett). No damage is needed. Gita can seek injunctions, damages and use reasonable force; Femi might apply under the Access to Neighbouring Land Act 1992.",
+  "caption": "Possession, entry, intention and directness, continuing or not, defences, then remedies.",
+  "bytes": 146880
+ }
+]

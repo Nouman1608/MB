@@ -45,9 +45,19 @@ A metre rule or 30 cm ruler reads to the nearest millimetre, so record lengths s
 - **Parallax.** Look straight down at the scale, at right angles to it. Viewing from one side shifts the reading. Rulers are thick, so place the scale edge against the object.
 - **Awkward objects.** For the diameter of a ball, trap it between two wooden blocks held at right angles to the ruler and measure the gap between the blocks. For a curved path, lay a thread along it, mark the thread, then straighten it against the ruler.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-cambridge-igcse-physics--01-using-a-ruler.webp" width="900" height="600" alt="An object is measured from the 1.0 cm mark to the 4.4 cm mark, giving 3.4 cm, as a way round a worn zero end. An eye looking straight down at the scale reads correctly while one looking from the side gives a parallax error. A ball's diameter is the gap between two blocks placed against it at right angles to the ruler." loading="lazy">
+  <figcaption>Subtract the start reading, look straight down, and use blocks for round objects.</figcaption>
+</figure>
+
 ## Measuring a volume with a measuring cylinder
 
 Stand the cylinder on a level bench. Water forms a curved surface, the **meniscus**; read the bottom of the curve with your eye level with it. Choose the smallest cylinder that holds the volume: a 25 cm³ cylinder marked every 0.5 cm³ gives a more precise reading of 18 cm³ than a 250 cm³ cylinder marked every 5 cm³. Volumes in this syllabus are usually in cm³ (1 cm³ = 1 ml); 1 m³ = 1 000 000 cm³.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-cambridge-igcse-physics--02-meniscus-and-cylinder-choice.webp" width="900" height="610" alt="Left: a measuring cylinder on a level bench, read with the eye level with the bottom of the curved meniscus. Right: 18 cm³ of water in a 25 cm³ cylinder marked every 0.5 cm³ and in a 250 cm³ cylinder marked every 5 cm³; the smaller cylinder gives the more precise reading." loading="lazy">
+  <figcaption>Read the bottom of the meniscus at eye level, in the smallest suitable cylinder.</figcaption>
+</figure>
 
 ## Measuring time intervals
 
@@ -76,6 +86,16 @@ The **period** is the time for one complete oscillation: from one side, across t
 3. Start the stopwatch as the bob passes the mark, counting "zero", and count each time it passes in the **same direction**.
 4. Time 20 oscillations, then repeat and take the mean.
 5. Divide the mean time by 20.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-cambridge-igcse-physics--03-measuring-multiples.webp" width="900" height="570" alt="Three examples of measuring multiples. A stack of 20 coins is 37.0 mm tall, so one coin is 1.85 mm thick. Thirty touching turns of wire on a pencil span 12.0 mm, so the wire is 0.40 mm across. Timing from drip &quot;zero&quot; to the tenth drip gives 6.5 s for 10 intervals, or 0.65 s each." loading="lazy">
+  <figcaption>Dividing a multiple shares the measuring uncertainty between all the items.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-cambridge-igcse-physics--04-pendulum-period.webp" width="900" height="640" alt="A pendulum swinging between two positions either side of a fiducial mark below its centre. One oscillation is a swing across and back again. Release the bob a small distance to one side, start timing as it passes the mark counting &quot;zero&quot;, count passes in the same direction, time 20 oscillations, repeat, and divide the mean time by 20." loading="lazy">
+  <figcaption>Time many oscillations from the centre mark, then divide.</figcaption>
+</figure>
 
 ## Scalars and vectors (Extended only)
 
@@ -115,6 +135,11 @@ check: √(600² + 450²) = 750 N;  tan θ = 450/600, θ = 37°
 ```
 
 Choose a scale that makes the diagram large (at least 5 cm per side). A tiny drawing makes a 1 mm error in length, or a 1° error in angle, a large fraction of the answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-cambridge-igcse-physics--05-resultant-vectors.webp" width="900" height="798" alt="Left: a boat heading across a river at 3.0 m/s with a 1.2 m/s current has a resultant velocity of 3.2 m/s at 22° downstream from straight across. Right: forces of 600 N east and 450 N north drawn tip to tail at 1 cm to 100 N give a 7.5 cm resultant, 750 N at 37° north of east." loading="lazy">
+  <figcaption>Draw the vectors tip to tail; use Pythagoras and tan θ, and always state the reference direction.</figcaption>
+</figure>
 
 ## Common mistakes
 

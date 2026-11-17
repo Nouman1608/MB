@@ -67,6 +67,16 @@ expectations by others, and come to see themselves in those terms. A girl repeat
 "the responsible one" may come to define herself that way; a stereotype that boys are poor readers
 may lead some boys to stop trying.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-1--01-building-blocks-of-culture.webp" width="900" height="610" alt="Inside culture, values such as respect for elders become norms such as giving up a seat, and long-lasting norms become customs. Roles bundle norms for a position; status is the position itself, ascribed at birth or achieved. Stereotypes are fixed, oversimplified beliefs about groups." loading="lazy">
+  <figcaption>Values, norms, customs, roles, status and stereotypes together make up culture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-1--02-expectations-shape-identity.webp" width="900" height="419" alt="Three steps: people know what is expected of their roles and statuses, others judge them against those expectations, and they come to see themselves in those terms. Examples: a girl told she is the responsible one, and boys affected by the stereotype that they are poor readers." loading="lazy">
+  <figcaption>The 2.1.1 concepts influence identity through expectation.</figcaption>
+</figure>
+
 ## Nature or nurture?
 
 The **nature** side argues that behaviour is largely inborn, shaped by genes and biology. The
@@ -91,6 +101,16 @@ proof.
 
 A balanced answer accepts that biology sets some limits (for example, physical development), but that
 how a society interprets and responds to those differences is cultural.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-1--03-nature-or-nurture.webp" width="900" height="718" alt="A balance tipped towards nurture. On the nurture side: Genie, who could barely speak when found aged 13 in 1970, the relativity of culture and Mead’s study of three New Guinea peoples. On the nature side: genes and biology. A note warns that isolation cases and Mead’s study have limitations." loading="lazy">
+  <figcaption>Sociologists stress nurture, but a balanced answer accepts that biology sets some limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-1--04-mead-three-societies.webp" width="900" height="382" alt="Three New Guinea peoples studied by Margaret Mead in 1935. Among the Arapesh both sexes were expected to be gentle and cooperative; among the Mundugumor both were expected to be aggressive; among the Tchambuli women were the more dominant and practical sex." loading="lazy">
+  <figcaption>If temperament varies this much between societies, it is largely cultural, not biological.</figcaption>
+</figure>
 
 ## Agencies and processes: how socialisation actually works
 
@@ -118,6 +138,16 @@ Angela McRobbie's study of the teenage magazine *Jackie* (1978) is an example of
 representations**: she argued that the magazine taught girls that romance and finding a boyfriend
 were their central concerns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-1--05-agencies-of-socialisation.webp" width="900" height="650" alt="A table of six agencies of socialisation with the process each uses, why it is effective and why its effect is limited: family, education, peer group, media, religion and workplace. A note separates primary socialisation in the family from secondary socialisation later in life." loading="lazy">
+  <figcaption>Name the process each agency uses and weigh how effective it is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-1--06-oakley-gender-processes.webp" width="900" height="498" alt="Ann Oakley’s four family processes of gender socialisation: manipulation, such as fussing over a girl’s appearance; canalisation, such as dolls for girls and construction sets for boys; verbal appellations such as “good girl”; and different activities. A note adds McRobbie’s study of Jackie magazine." loading="lazy">
+  <figcaption>Named processes turn “the family teaches gender” into a developed answer.</figcaption>
+</figure>
+
 ## The theoretical debate
 
 **Consensus: functionalism.** Functionalists see socialisation as the way society passes on shared
@@ -139,6 +169,11 @@ many recognise and challenge inequality.
 dominance and paid work. Oakley's processes and McRobbie's study of *Jackie* provide evidence.
 *Criticism:* gender roles have changed considerably, and feminists may underestimate girls' and
 women's ability to reject these messages.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-1--07-theories-of-socialisation.webp" width="900" height="599" alt="A tree splitting theories of socialisation into consensus and conflict. Functionalism: shared values, value consensus and cohesion, with crime explained by inadequate socialisation. Marxism: capitalist ideology and reproduction of class, with Althusser’s ideological state apparatus. Feminism: gender role socialisation. Each has a criticism." loading="lazy">
+  <figcaption>Each theory says what socialisation is for; that is the point to make in the exam.</figcaption>
+</figure>
 
 ## Worked example: a "discuss" answer (practice)
 

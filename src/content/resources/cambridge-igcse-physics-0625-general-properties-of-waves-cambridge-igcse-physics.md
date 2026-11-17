@@ -60,6 +60,11 @@ On a wavefront diagram, the distance between neighbouring wavefronts is one wave
 
 **Counting carefully.** If 10 wavefronts are spread over 18 cm, there are only **9** gaps between them, so λ = 18 ÷ 9 = 2.0 cm. If a source produces 5 complete waves in 2.0 s, f = 5 ÷ 2.0 = 2.5 Hz.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-general-properties-of-waves-cambridge-igcse-physics--01-describing-a-wave.webp" width="900" height="780" alt="A transverse wave drawn against a dashed rest position, with crests and a trough marked. The wavelength is the distance between neighbouring crests and the amplitude is from the rest position to a crest. Below, straight wavefronts seen from above are one wavelength apart." loading="lazy">
+  <figcaption>Wavelength is crest to neighbouring crest; amplitude is rest position to crest.</figcaption>
+</figure>
+
 ## The wave equation
 
 ```
@@ -84,6 +89,11 @@ water, f = 0.25 Hz, λ = 20 m:          v = 0.25 × 20 = 5.0 m/s
 
 Convert prefixes first: 1 kHz = 1000 Hz, 1 MHz = 10⁶ Hz, 1 cm = 0.01 m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-general-properties-of-waves-cambridge-igcse-physics--02-wave-equation-counting.webp" width="900" height="616" alt="Ten wavefronts span 18 cm with nine gaps between them, so λ = 2.0 cm = 0.020 m and, at 12 Hz, v = 12 × 0.020 = 0.24 m/s. Other examples: sound at 340 m/s and 680 Hz has λ = 0.50 m; radio of λ 3.0 m has f = 1.0 × 10⁸ Hz; water waves of 0.25 Hz and 20 m travel at 5.0 m/s." loading="lazy">
+  <figcaption>n wavefronts have n − 1 gaps; then v = fλ in m, Hz and m/s.</figcaption>
+</figure>
+
 ## Transverse and longitudinal waves
 
 | | Transverse | Longitudinal |
@@ -93,6 +103,11 @@ Convert prefixes first: 1 kHz = 1000 Hz, 1 MHz = 10⁶ Hz, 1 cm = 0.01 m.
 | Shown on a spring by | moving the end from side to side | pushing and pulling the end along the spring |
 
 A useful check: in a transverse wave the particles move across the wave's path; in a longitudinal wave they move back and forth along it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-general-properties-of-waves-cambridge-igcse-physics--03-transverse-longitudinal.webp" width="900" height="740" alt="A transverse wave on a rope: each point vibrates up and down, at right angles to the direction the wave travels; examples are electromagnetic radiation, water waves and seismic S-waves. A longitudinal wave on a spring: each coil vibrates back and forth along the direction of travel; examples are sound and seismic P-waves." loading="lazy">
+  <figcaption>Transverse: vibration across the direction of travel. Longitudinal: along it.</figcaption>
+</figure>
 
 ## Reflection, refraction and diffraction
 
@@ -129,6 +144,16 @@ shallow:  λ = 0.18 / 12 = 0.015 m = 1.5 cm
 Consequences: you can hear someone talking round the corner of a doorway, because sound wavelengths (around a metre) are comparable to the doorway, but you cannot see them, because light wavelengths are far smaller. Long-wavelength radio waves diffract round hills better than short-wavelength ones.
 
 When drawing diffracted wavefronts, keep the **spacing the same** before and after the gap: diffraction does not change the wavelength.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-general-properties-of-waves-cambridge-igcse-physics--04-reflection-refraction.webp" width="900" height="742" alt="Left: straight wavefronts hit a plane barrier and reflect at the same angle on the other side of the normal, with speed, wavelength and frequency unchanged. Right: wavefronts entering shallower water slow down, so they are closer together and change direction; the frequency stays the same. At 12 Hz the wavelength is 2.0 cm in deep water (0.24 m/s) and 1.5 cm in shallow water (0.18 m/s)." loading="lazy">
+  <figcaption>Reflection changes only direction; refraction changes speed and wavelength, not frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-general-properties-of-waves-cambridge-igcse-physics--05-diffraction-gap-edge.webp" width="900" height="710" alt="Three plan views of straight water wavefronts. Through a gap about one wavelength wide they spread into nearly semicircular wavefronts. Through a gap much wider than the wavelength they pass mostly straight with slight spreading at the edges. Past a single edge they curve round into the shadow region. The spacing of the wavefronts stays the same." loading="lazy">
+  <figcaption>Diffraction is greatest when the gap is about the size of the wavelength.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-a-level-geography-9635-resource-security--01-stock-and-flow.webp",
+  "width": 900,
+  "height": 685,
+  "after": "## What makes something a resource",
+  "alt": "Two panels: stock resources such as fossil fuels, uranium and fossil groundwater are finite on human timescales, like a tank with no refill; flow resources such as sunlight, wind and river flow are renewed continuously. A note says an over-pumped aquifer becomes stock-like.",
+  "caption": "Stock resources run down; flow resources renew, unless used faster than they recharge.",
+  "bytes": 100358
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-resource-security--02-mckelvey-box.webp",
+  "width": 900,
+  "height": 588,
+  "after": "## Evaluating stock resources",
+  "alt": "A McKelvey box with geological certainty across the top (measured, indicated, inferred, possible) and economic feasibility down the side. Only well-known, economic material in the top-left is a reserve. An arrow shows material crossing the dashed economic boundary when prices rise or technology improves.",
+  "caption": "Reserves are only what is both well known and economic; the boundary moves with price and technology.",
+  "bytes": 92876
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-resource-security--03-reserves-to-production.webp",
+  "width": 900,
+  "height": 832,
+  "after": "## Evaluating stock resources",
+  "alt": "Worked ratio: 2,400 million barrels of reserves divided by 120 million barrels a year gives 20 years, but reserves are revised and production changes, so it is only a snapshot. Notes cover development over time and the moving resource frontier, and an illustrative curve shows output rising to a resource peak, then declining.",
+  "caption": "Twenty years of reserves at today's output is not twenty years until the oil runs out.",
+  "bytes": 142430
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-resource-security--04-eia-stages.webp",
+  "width": 900,
+  "height": 791,
+  "after": "## Environmental impact assessment",
+  "alt": "Seven numbered stages of an environmental impact assessment in sequence: screening, scoping, baseline study, prediction, mitigation, consultation and decision, and monitoring. A note says it only improves decisions if independent, inclusive and enforced.",
+  "caption": "Seven stages from screening to monitoring; its value depends on independence and enforcement.",
+  "bytes": 119310
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-resource-security--05-physical-controls.webp",
+  "width": 900,
+  "height": 812,
+  "after": "## Physical geography and supply",
+  "alt": "Schematic cross-section, not to scale: rain and sun above, a steep mountain river with hydro-electric potential, a permeable aquifer beneath a plain, a sedimentary basin holding oil, gas and coal, and a volcano with heat near the surface for geothermal energy. A table summarises climate, geology and drainage controls on water and energy supply.",
+  "caption": "The same physical controls, climate, geology and drainage, set both water and energy supply.",
+  "bytes": 144366
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-resource-security--06-aswan-high-dam.webp",
+  "width": 900,
+  "height": 526,
+  "after": "## Major schemes and their impacts",
+  "alt": "Schematic, not to scale: the Nile flows into Lake Nasser behind the Aswan High Dam, where sediment is trapped, so less reaches the delta. Below, benefits (water stored across years, irrigation, hydro-electricity) and costs (delta and coastal erosion, more fertiliser, displaced Nubian communities).",
+  "caption": "The dam secures water and power but starves the delta of sediment.",
+  "bytes": 93564
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-resource-security--07-scarcity-and-conflict.webp",
+  "width": 900,
+  "height": 828,
+  "after": "## Worked example: an annotated answer",
+  "alt": "Five steps of the model answer: evidence for (the Grand Ethiopian Renaissance Dam dispute), counter-evidence (the Indus Waters Treaty since 1960), scale (local disputes resolved by rules), alternative outcomes (desalination, virtual water) and a judgement that institutions and technology decide whether risk becomes conflict.",
+  "caption": "Weigh evidence both ways, consider scale and alternatives, then judge.",
+  "bytes": 138618
+ }
+]

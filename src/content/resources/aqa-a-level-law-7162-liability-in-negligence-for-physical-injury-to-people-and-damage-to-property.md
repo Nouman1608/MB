@@ -35,6 +35,11 @@ The claimant must prove, on the balance of probabilities, that:
 
 Physical injury and property damage are the "core" kinds of harm in negligence: once duty, breach and causation are shown, the law compensates them readily, unlike pure economic loss or psychiatric injury.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--01-negligence-stages.webp" width="900" height="1120" alt="A flow of three stages: duty of care, breach, and damage, with damage split into factual cause and legal cause. A claim fails if any one stage is not met. If all three are made out the claim is established." loading="lazy">
+  <figcaption>Negligence runs duty, breach, damage in a fixed order, and failing any one stage defeats the claim.</figcaption>
+</figure>
+
 ## Duty of care
 
 ### The neighbour principle
@@ -59,6 +64,16 @@ Cases illustrating each question:
 
 In an exam, most physical injury problems involve an established duty. Spending a paragraph on *Caparo* for a driver who hits a pedestrian wastes time and suggests you have not read *Robinson*.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-to-property--01-caparo-cases.webp" width="900" height="648" alt="Established categories such as road users, doctor and patient, employer and employee, and manufacturer and consumer need no fresh test; novel situations are decided incrementally. A table links each Caparo question to a case: Bourhill v Young (foreseeability), Kent v Griffiths (proximity), Hill (fair, just and reasonable) and Robinson (positive act)." loading="lazy">
+  <figcaption>Use Caparo’s questions for novel situations; established categories just need an authority.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--02-duty-route.webp" width="900" height="980" alt="A decision picture: if the duty situation is already established by precedent, the duty exists and Caparo need not be applied. If the situation is novel, the Caparo three-part test is applied. Either way the next question is breach." loading="lazy">
+  <figcaption>Check precedent first; use the Caparo test only for a novel duty situation.</figcaption>
+</figure>
+
 ## Breach of duty
 
 ### The objective standard
@@ -79,6 +94,16 @@ The court weighs four factors together. Additional cases beyond the headline one
 - **Foreseeable vulnerability.** In *Haley v London Electricity Board* (1964) workmen left a hole in a pavement guarded only by a hammer; a blind man tripped and was injured. Blind people walking alone were foreseeable, so the precautions were inadequate.
 - **Social utility.** In *Daborn v Bath Tramways* (1946) using a left-hand-drive ambulance in wartime was justified by its purpose.
 - **Cost against risk.** The question is proportion. A cheap precaution against a serious risk will be expected; an extravagant precaution against a small risk will not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-to-property--02-standard-of-care.webp" width="900" height="601" alt="A table of special standards: learners are judged as competent practitioners (Nettleship v Weston); children against a reasonable child of the same age (Orchard v Lee); amateurs as reasonable amateurs (Wells v Cooper); professionals by a responsible, logical body of opinion (Bolam; Bolitho); and knowledge at the time (Roe)." loading="lazy">
+  <figcaption>The test is objective, but the reasonable person is matched to the defendant’s position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-to-property--03-risk-balance.webp" width="900" height="668" alt="A balance: risk on one pan, precaution on the other, weighed as a question of proportion. Haley v London Electricity Board shows foreseeable vulnerability (a blind pedestrian) raising the precautions needed; Daborn v Bath Tramways shows social utility justifying a risk. A cheap precaution against a serious risk is expected; an extravagant one against a small risk is not." loading="lazy">
+  <figcaption>Breach is a balance: the greater the risk, the more precaution a reasonable person takes.</figcaption>
+</figure>
 
 ## Damage: causation and remoteness
 
@@ -103,6 +128,11 @@ The defendant is liable only for damage of a **reasonably foreseeable type** (*T
 
 The same three stages apply. The Wagon Mound itself was a property claim. A driver who carelessly crashes into a parked car, a builder whose falling scaffolding dents a neighbour's roof, or a contractor whose spark sets fire to a shed all face the ordinary rules: established duty, objective breach, causation and foreseeable type of damage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-to-property--04-causation-remoteness.webp" width="900" height="808" alt="Three hurdles: factual causation by the but for test (McWilliams failed it); no intervening act breaking the chain (Knightley v Johns); and remoteness, where the type of damage must be foreseeable (Wagon Mound). Hughes, Jolley and Bradford show a foreseeable type is enough; Doughty shows a different type is too remote; the thin skull rule applies once some harm is foreseeable (Smith v Leech Brain)." loading="lazy">
+  <figcaption>But for, then no break in the chain, then a foreseeable type of damage.</figcaption>
+</figure>
+
 ## Worked problem
 
 *Sana, a newly qualified electrician, rewires a café. To save time she leaves a live cable exposed behind a counter, where an approved code of practice says cables must be covered. Theo, a waiter, brushes against it and receives a shock. Because Theo has an unusual heart condition, the shock causes a cardiac arrest. Sparks from the cable also scorch the café's fridge.*
@@ -125,6 +155,11 @@ Conclusion: Sana is likely liable for Theo's injuries and the fridge.
 ```
 
 Each step names the rule, gives the authority and applies the facts. Notice that inexperience is dealt with at breach and does not lower the standard.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-to-property--05-sana-worked-problem.webp" width="900" height="734" alt="The worked problem in four steps: an established duty (Donoghue; Robinson); breach judged against a competent electrician despite inexperience (Nettleship; Bolam), with the code of practice as evidence; but for causation with no intervening act; and remoteness, with the thin skull rule covering the cardiac arrest and the fridge damage a foreseeable type (Wagon Mound). Sana is likely liable." loading="lazy">
+  <figcaption>Each element: rule, authority, application.</figcaption>
+</figure>
 
 ## Common mistakes
 

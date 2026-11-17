@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-igcse-environmental-management-0680-energy-resources--01-coal-formation.webp",
+  "width": 900,
+  "height": 510,
+  "after": "## How fossil fuels formed",
+  "alt": "Four stages. 1: large plants grow in a warm swampy forest. 2: dead plants fall into waterlogged ground with little oxygen and form partly decayed peat. 3: sediment buries the peat and pressure and heat drive out water and gases over millions of years. 4: a seam of coal lies between layers of sedimentary rock.",
+  "caption": "Plants, waterlogged peat, burial, then heat and pressure over millions of years.",
+  "bytes": 90740
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-energy-resources--02-oil-gas-trap.webp",
+  "width": 900,
+  "height": 610,
+  "after": "## How fossil fuels formed",
+  "alt": "Cross-section of folded rock layers. Oil and gas formed from plankton in a source rock rise through permeable rock such as sandstone until they meet impermeable cap rock at the top of a dome. Natural gas collects at the top, oil beneath it and water below.",
+  "caption": "Without an impermeable cap rock, the oil and gas would escape to the surface.",
+  "bytes": 79022
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-energy-resources--03-classification.webp",
+  "width": 900,
+  "height": 570,
+  "after": "## Classifying energy resources",
+  "alt": "Two columns. Renewable: the four biofuels (bioethanol, biomass, biogas and wood), geothermal, hydro-electric, tidal, wave, solar and wind power. Non-renewable: the fossil fuels coal, petroleum and natural gas, and nuclear power using uranium.",
+  "caption": "Nuclear is non-renewable: uranium is finite, however low-carbon its electricity.",
+  "bytes": 88454
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-energy-resources--04-turbine-generator.webp",
+  "width": 900,
+  "height": 630,
+  "after": "## How each resource generates electricity",
+  "alt": "Three groups of resources turn a turbine, which turns a generator that produces electricity: those that make steam (fossil fuels, biofuels, nuclear, geothermal), those that use moving water (HEP, tidal, wave) and wind. Solar photovoltaic cells skip the turbine and convert light directly into electricity.",
+  "caption": "Ask what turns the turbine; only solar cells skip the turbine altogether.",
+  "bytes": 96356
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-energy-resources--05-demand-factors.webp",
+  "width": 900,
+  "height": 606,
+  "after": "## Factors affecting demand for energy",
+  "alt": "Eight cards: transport, wealth, climate, population size and industry, each explaining why demand rises; and disruption to supply, unreliable supply and scarcity, which make people cut use or switch resources.",
+  "caption": "Name the factor, say what changes, then explain why energy use changes.",
+  "bytes": 123410
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-energy-resources--06-electricity-mix.webp",
+  "width": 900,
+  "height": 540,
+  "after": "## Worked example 1: interpreting an electricity mix",
+  "alt": "A bar of 250 TWh split into coal 100, natural gas 60, nuclear 30, HEP 35, wind 20 and solar 5. Brackets show fossil fuels 64%, all non-renewables 76% and renewables 24%.",
+  "caption": "Share = part ÷ total × 100, and keep nuclear on the non-renewable side.",
+  "bytes": 61860
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business--01-ict-across-the-business.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## How changing ICT changes what a business does",
+  "alt": "Five business areas, each with how ICT changes it and the likely effect: operations (automatic reordering, fewer stock-outs), marketing (targeted online promotion), human resources (online adverts and home working, wider applicant pool), finance (faster payments) and customer service (help outside opening hours).",
+  "caption": "Name the activity that changes, then its effect on costs, revenue, customers or staff.",
+  "bytes": 123666
+ },
+ {
+  "file": "oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business--02-keeping-up-with-ict.webp",
+  "width": 900,
+  "height": 520,
+  "after": "## How changing ICT changes what a business does",
+  "alt": "A line from too slow to too fast. A business that does not keep up with changing ICT may lose customers to rivals with faster ordering; one that adopts new ICT too quickly may pay for systems customers do not yet use.",
+  "caption": "ICT needs steady investment: too slow loses customers, too fast wastes money.",
+  "bytes": 66432
+ },
+ {
+  "file": "oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business--03-b2c-and-b2b.webp",
+  "width": 900,
+  "height": 600,
+  "after": "## E-commerce and wider markets",
+  "alt": "Business to consumer: a business sells to households through a website, app or online marketplace. Business to business: a wholesaler sells to shop customers, who reorder through an online portal.",
+  "caption": "E-commerce is either business to consumer or business to business.",
+  "bytes": 59494
+ },
+ {
+  "file": "oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business--04-wider-markets.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## E-commerce and wider markets",
+  "alt": "E-commerce removes the limits of location (anyone with a delivery address can buy) and time (orders 24 hours a day), and makes niche markets worth serving because a few buyers in each town add up. It also brings website and delivery costs, instant price comparison, system and data risks and slower delivery abroad.",
+  "caption": "E-commerce removes limits of place and time, but adds costs and competition.",
+  "bytes": 105894
+ },
+ {
+  "file": "oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business--05-choosing-digital-method.webp",
+  "width": 900,
+  "height": 779,
+  "after": "## Digital communication with stakeholders",
+  "alt": "Five kinds of message matched to a digital method: the same information for many people by email or website, discussions by video conferencing, a written record by email, short urgent messages by messaging app or text, and public messages by website or social media.",
+  "caption": "Choose the digital method that suits the message and the stakeholder.",
+  "bytes": 129318
+ },
+ {
+  "file": "oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business--06-corrigan-online-portal.webp",
+  "width": 900,
+  "height": 799,
+  "after": "## Worked example 1: ICT changes how orders are handled",
+  "alt": "Taking 1,200 orders by phone uses 240 staff hours a month at $15, costing $3,600. Online orders take 40 hours, $600, plus a $1,100 portal, $1,700 in total. Staff costs fall by $3,000 and the net saving is $1,900 a month.",
+  "caption": "The portal saves Corrigan $1,900 a month, if customers switch to it.",
+  "bytes": 113800
+ },
+ {
+  "file": "oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business--07-saffron-lane-chains.webp",
+  "width": 900,
+  "height": 680,
+  "after": "## Worked example 2: an annotated analysis answer",
+  "alt": "Two analysis chains for Saffron Lane. Place: sales are limited to one town; a nationwide website reaches distant cooks; light, long-lasting blends are cheap to deliver, so revenue rises. Time: sales only happen on market days; the website takes orders while the stall is closed.",
+  "caption": "Analysis follows each point through to its effect, using case details.",
+  "bytes": 101342
+ }
+]

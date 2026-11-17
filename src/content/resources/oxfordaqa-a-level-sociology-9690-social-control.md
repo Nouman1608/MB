@@ -55,6 +55,11 @@ ideas of sin), workplace (colleagues' approval, appraisal). Formal: government a
 other enforcement agencies (customs, regulators), and the criminal justice system (courts, prisons,
 probation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-control--01-sanctions-grid.webp" width="900" height="616" alt="A two-by-two grid: formal positive sanctions such as awards, formal negative sanctions such as fines and prison, informal positive sanctions such as praise, and informal negative sanctions such as gossip and ostracism. Agencies of each type are listed below." loading="lazy">
+  <figcaption>Cross formal and informal with reward and punishment to generate examples.</figcaption>
+</figure>
+
 ## Consensus and conflict views
 
 - **Consensus** (functionalist) views see control as protecting shared values that benefit everyone.
@@ -75,6 +80,11 @@ backward, justifying colonial rule. Stanley Cohen's *Folk Devils and Moral Panic
 media reaction to clashes between Mods and Rockers in 1960s England turned young people into
 **folk devils**, leading to calls for tougher control. Othering legitimises harsher treatment of
 the othered group by police, courts and the public.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-control--02-stigma-othering.webp" width="900" height="609" alt="Goffman’s three types of stigma (physical differences, perceived flaws of character and tribal stigma) and his distinction between the discredited and the discreditable. Othering, shown by Said and Cohen, legitimises harsher treatment." loading="lazy">
+  <figcaption>Stigma and othering control people by marking them as less than whole.</figcaption>
+</figure>
 
 ## Aims and types of punishment
 
@@ -99,6 +109,16 @@ which works through surveillance and self-discipline. He used Jeremy Bentham's d
 **panopticon** prison, where inmates could be watched at any time without knowing when, so they
 learn to police themselves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-control--03-punishment-aims.webp" width="900" height="642" alt="A grid of six aims of punishment, retribution, deterrence, incapacitation, rehabilitation, reparation and denunciation, each with its meaning and typical forms." loading="lazy">
+  <figcaption>Each aim of punishment implies a different kind of sentence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-control--04-durkheim-foucault.webp" width="900" height="762" alt="Durkheim’s shift from repressive to restitutive law and Foucault’s shift from sovereign to disciplinary power, with a plan of Bentham’s panopticon: cells around a central tower, so inmates never know when they are watched." loading="lazy">
+  <figcaption>Modern control works through surveillance and self-discipline.</figcaption>
+</figure>
+
 ## Crime prevention: policing and surveillance
 
 **Types of policing**
@@ -118,6 +138,11 @@ displaced elsewhere.
 Mathiesen's **synopticon** describes the many watching the few, for example through media and
 smartphone filming of police. Shoshana Zuboff's *surveillance capitalism* extends the debate to
 corporations collecting behavioural data, which can be shared with states.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-control--05-policing.webp" width="900" height="676" alt="Four approaches to crime prevention: community policing, zero-tolerance policing based on broken windows, intelligence-led and predictive policing, and Clarke’s situational crime prevention, with surveillance concepts from Mathiesen and Zuboff." loading="lazy">
+  <figcaption>Policing ranges from building trust to targeting data and design.</figcaption>
+</figure>
 
 ## State apparatuses, interpellation and hegemony
 
@@ -139,6 +164,11 @@ the ruling class wins acceptance for its worldview as "common sense", through ci
 challenged by **counter-hegemonic** ideas, which gives more room for resistance than Althusser's
 model.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-control--06-rsa-isa.webp" width="900" height="687" alt="Althusser’s repressive state apparatuses (police, courts, prisons, army) and ideological state apparatuses (education, family, religion, media); interpellation as a police officer’s call that a person recognises as addressed to them; and Gramsci’s hegemony through consent." loading="lazy">
+  <figcaption>Force is visible; ideology works when people accept identities as their own.</figcaption>
+</figure>
+
 ## Perspectives on social control
 
 | Perspective | Argument | Sociologists |
@@ -147,6 +177,11 @@ model.
 | **Marxist** | Control protects capitalism; the law is enforced selectively against the working class; ideology secures consent | Althusser; Gramsci |
 | **Feminist** | Women face distinctive, often informal, control at home, in public and at work, which limits their freedom | Frances Heidensohn's *Women and Crime* (1985) |
 | **Social action / interactionist** | Control creates deviance through labelling; agents of control use discretion and stereotypes | Howard Becker's *Outsiders* (1963); Goffman; Stanley Cohen |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-control--07-perspectives.webp" width="900" height="626" alt="A grid of functionalist, Marxist, feminist and interactionist views of social control, each with its argument and sociologists such as Durkheim, Hirschi, Althusser, Gramsci, Heidensohn, Becker, Goffman and Cohen." loading="lazy">
+  <figcaption>Consensus views see control protecting everyone; conflict views see it protecting the powerful.</figcaption>
+</figure>
 
 ## Worked example: annotated 8-mark answer
 

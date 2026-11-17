@@ -48,6 +48,21 @@ Attempt is a good test of the principle: no harm has happened, yet the law punis
 
 **Harm and consent: the hard case.** In *R v Brown* (1993) the House of Lords upheld s47 and s20 convictions of men who consented to sado-masochistic injuries in private; Lord Templeman said that society is entitled to protect itself against "a cult of violence". Critics argue there was no harm to anyone who had not consented, so the decision reflects moralism or paternalism rather than Mill. Compare *R v Wilson* (1996), where a husband who branded his initials on his wife's buttocks at her request was not guilty: the court treated it as akin to tattooing between spouses. The European Court of Human Rights found no breach of Article 8 in *Laskey, Jaggard and Brown v UK* (1997).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-criminal-law--01-kinds-of-harm.webp" width="900" height="628" alt="Five kinds of harm and the offences that protect against them: physical injury and death (murder to battery); psychiatric injury (s47 in Chan-Fook, s20 in Burstow); fear of violence (assault, Ireland); loss of property (theft, robbery); and risk of harm not yet caused (attempt), which tests the harm principle because no harm has yet happened." loading="lazy">
+  <figcaption>Each kind of harm has offences to match; attempt punishes harm not yet caused.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-criminal-law--02-justifications.webp" width="900" height="435" alt="Four justifications around a central question: the harm principle (Mill: prevent harm to others), legal paternalism (protect people from themselves, such as seatbelts and drug offences), legal moralism (Devlin’s enforcement of shared morality, opposed by Hart) and offence to others." loading="lazy">
+  <figcaption>Mill’s harm principle competes with paternalism, moralism and offence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-criminal-law--03-brown-wilson.webp" width="900" height="465" alt="R v Brown upheld s47 and s20 convictions for consensual sado-masochistic injuries, with Lord Templeman citing a cult of violence, and Laskey v UK found no breach of Article 8. R v Wilson acquitted a husband who branded his wife at her request, treating it like tattooing. Critics say Brown reflects moralism or paternalism, not Mill." loading="lazy">
+  <figcaption>Brown and Wilson show consent and harm being weighed differently.</figcaption>
+</figure>
+
 ## Autonomy, fault and individual responsibility
 
 **Autonomy** means treating people as free, rational agents who choose how to act. It has two sides in criminal law: people should be **free** to make choices that affect only themselves, and people should be **held responsible** for the choices they make.
@@ -65,6 +80,16 @@ Attempt is a good test of the principle: no harm has happened, yet the law punis
 **Strict liability** is the main exception to the fault principle. It is justified as protecting the public in regulatory areas, but criticised for punishing people who took all reasonable care, as in *Harrow LBC v Shah* (1999), where a newsagent was convicted when an employee sold a lottery ticket to a boy under 16 despite the shop's precautions.
 
 **Individual responsibility** means people answer for their own conduct, not for what others freely choose to do. *Kennedy* is the clearest example; transferred malice is a limited exception, justified because the defendant still chose to cause the same kind of harm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-criminal-law--04-autonomy.webp" width="900" height="631" alt="Autonomy has two sides: freedom to make choices affecting only oneself, and responsibility for one’s choices. It shapes voluntariness (automatism), omissions (no general duty to act), free choices of others (Kennedy No 2) and duress (Hasan). Individual responsibility means people answer for their own conduct; transferred malice is a limited exception." loading="lazy">
+  <figcaption>Autonomy explains why choice matters to liability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-criminal-law--05-fault-principle.webp" width="900" height="588" alt="Fault in three bands: intention for murder and s18; subjective recklessness for s20 and assault; strict liability, the main exception, criticised in Harrow LBC v Shah. R v G overruled the objective Caldwell test after cases like Elliott v C, and Sweet v Parsley presumes Parliament intends mens rea (B v DPP)." loading="lazy">
+  <figcaption>Liability should follow blameworthiness; strict liability is the exception.</figcaption>
+</figure>
 
 ## The four principles
 
@@ -87,6 +112,16 @@ By contrast, s18 (intention to cause GBH) and theft broadly comply.
 - **"More than merely preparatory"** in attempt, which has produced hard-to-reconcile outcomes in *Campbell* (1991) and *Tosti* (1997).
 
 **No retrospective liability.** No one should be punished for conduct that was not criminal when it was done (Article 7 ECHR). In *R v R* (1991) the House of Lords abolished the marital rape exemption and upheld the husband's conviction for conduct before the ruling. The European Court of Human Rights held in *SW v UK* (1995) that there was no breach, because the change was a reasonably foreseeable development of the law. Parliament has occasionally legislated retrospectively, as in the War Crimes Act 1991.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-criminal-law--06-correspondence.webp" width="900" height="653" alt="A matching chart. s18 complies: intention to cause GBH matches GBH. Four offences require less mens rea than the harm caused: s20 (foresee some harm, Mowatt), s47 (mens rea of assault or battery, Savage and Roberts), murder (intent to cause GBH, Vickers) and unlawful act manslaughter (Newbury and Jones). Supporters and critics of this constructive liability are summarised below." loading="lazy">
+  <figcaption>s18 corresponds; s20, s47, murder and unlawful act manslaughter ask for less mens rea than the harm caused.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-criminal-law--07-four-principles.webp" width="900" height="648" alt="Four principles with examples. Fair labelling (Ashworth): murder and manslaughter cover very different killings. Correspondence: broken by s47, s20, murder and unlawful act manslaughter. Maximum certainty: gross negligence (Adomako; Misra and Srivastava), dishonesty (Ivey; Barton and Booth) and attempt (Campbell; Tosti). No retrospective liability: R v R and SW v UK, and the War Crimes Act 1991." loading="lazy">
+  <figcaption>Each principle is a yardstick for judging a specific offence.</figcaption>
+</figure>
 
 ## Worked example: using theory to evaluate
 

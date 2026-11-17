@@ -40,6 +40,11 @@ card with a name, number and email: each organises data so that it can be found 
 Without data structures, storing 30 marks would need 30 separately named variables, and finding their total would
 need 30 separate additions. With an array, one loop does the job whatever the number of marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--01-why-data-structures.webp" width="900" height="470" alt="Left: storing 30 marks without a data structure needs variables mark1 to mark30 and 30 separate additions. Right: an array called marks holds them all under one name with numbered indexes, and a single loop can total them whatever the number of marks." loading="lazy">
+  <figcaption>A data structure stores related items under one name so one loop can process them all.</figcaption>
+</figure>
+
 ## One-dimensional arrays
 
 A **one-dimensional array** stores a fixed number of items of the **same data type** in order. Each item is an
@@ -72,6 +77,16 @@ Starting `highest` at the first element (rather than at 0) means the code still 
 negative. The loop then starts at index 1, since index 0 is already counted. For the array above (after the
 change to `temps[1]`), the output is `21`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--02-one-dimensional-array.webp" width="900" height="553" alt="The array temps holds 14, 17, 21, 19 and 16 at indexes 0 to 4. temps[0] is 14 and temps[3] is 19; temps[1] ← 18 replaces 17; LEN(temps) is 5, so the last index is 4 and temps[5] does not exist." loading="lazy">
+  <figcaption>Indexes start at 0, so the last index is always one less than the length.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--03-find-highest-trace.webp" width="900" height="747" alt="Pseudocode that sets highest to temps[0] and loops from index 1 to LEN(temps) - 1. With temps holding 14, 18, 21, 19 and 16, highest starts at 14, becomes 18 at i = 1 and 21 at i = 2, and stays 21 for i = 3 and i = 4, so 21 is output." loading="lazy">
+  <figcaption>Start from the first element, then compare the rest one index at a time.</figcaption>
+</figure>
+
 ## Two-dimensional arrays
 
 A **two-dimensional array** stores a table: rows and columns of items of the same type. Each element needs **two**
@@ -94,6 +109,11 @@ sales ← [[5, 8, 2, 6],
 
 `sales[1][2]` is shop 1, day 2: **4**. `sales[2][0]` is **9**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--04-two-dimensional-array.webp" width="900" height="595" alt="The sales array as a grid of 3 shops (rows 0 to 2) by 4 days (columns 0 to 3). The first index selects the row and the second the column, so sales[1][2] is 4 (shop 1, day 2) and sales[2][0] is 9 (shop 2, day 0)." loading="lazy">
+  <figcaption>Two indexes: the first picks the row, the second picks the column.</figcaption>
+</figure>
+
 ## Worked example: totals from a two-dimensional array
 
 ```
@@ -112,6 +132,11 @@ The outer loop selects a row; the inner loop walks along it. The outputs are **2
 To total each **day** instead (each column), swap the loops so that `day` is the outer counter and `shop` the
 inner one, and reset a `dayTotal` for each day: the results are 21, 18, 6 and 14. Both methods give a grand
 total of 59, which is a useful check.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--05-row-and-column-totals.webp" width="900" height="750" alt="The sales grid with row totals 21, 15 and 23 for shops 0 to 2 and column totals 21, 18, 6 and 14 for days 0 to 3; both add up to a grand total of 59. Below, nested FOR loops reset shopTotal to 0 inside the outer loop and add sales[shop][day] along each row." loading="lazy">
+  <figcaption>Outer loop picks the row, inner loop walks along it; both directions give the same grand total, 59.</figcaption>
+</figure>
 
 ## Records
 
@@ -135,6 +160,11 @@ p.average ← 70.0
 The specification lists equivalents in common languages: **structs** in C#, **structures** in Visual Basic, and in
 Python a **class** used in a non-object-oriented way, with each field set as an attribute.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--06-record-fields.webp" width="900" height="672" alt="A Pupil record p with four fields: name (String, &quot;Farah&quot;), yearGroup (Integer, 10), average (Real, 68.5) and hasLocker (Boolean, True). p.name gives Farah and p.average ← 70.0 changes one field; fields are reached by name, so p[1] is wrong. Equivalents: struct in C#, structure in Visual Basic, a class used without OOP in Python." loading="lazy">
+  <figcaption>A record’s fields can have different data types and are reached by name, not by index.</figcaption>
+</figure>
+
 ## Arrays of records
 
 Real problems often combine the two structures: an **array of records**, where each element is one record. This
@@ -151,6 +181,11 @@ ENDFOR
 `form[i]` selects a record; `.hasLocker` selects a field inside it. Reading the expression from left to right in
 that way makes even long expressions straightforward.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--07-array-of-records.webp" width="900" height="768" alt="The array form shown as a row of Pupil records, form[0], form[1], form[2] and so on, each with the fields name, yearGroup, average and hasLocker. The expression form[i].hasLocker is read left to right: form[i] selects a record, then .hasLocker selects a field inside it. A loop outputs the name of each pupil without a locker." loading="lazy">
+  <figcaption>Read left to right: the index picks the record, the dot picks the field.</figcaption>
+</figure>
+
 ## Choosing a structure
 
 | Situation | Best structure | Why |
@@ -160,6 +195,11 @@ that way makes even long expressions straightforward.
 | One customer's name, phone number, balance and VIP status | Record | Several fields of different types |
 | Every customer of a shop | Array of records | Many items, each with mixed fields |
 | Marks for 25 pupils in 6 tests | 2D array (25 × 6) | A table of one data type |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--08-choosing-a-structure.webp" width="900" height="644" alt="A decision tree. One item with several fields of mixed types: a record, such as one customer’s details. Many items each with mixed fields: an array of records, such as every customer. Many items of one type: a 1D array for a list, such as 12 monthly rainfall totals, or a 2D array for a grid, such as a chessboard or marks for 25 pupils in 6 tests." loading="lazy">
+  <figcaption>Same type in a list or grid: an array. Mixed types: a record. Many mixed items: an array of records.</figcaption>
+</figure>
 
 ## Annotated model answer
 

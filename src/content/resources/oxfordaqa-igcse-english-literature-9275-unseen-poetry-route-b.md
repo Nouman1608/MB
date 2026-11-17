@@ -48,6 +48,11 @@ Two consequences matter:
 - **The skills transfer.** The comparison work you did in Section A helps here: comparing the start
   of the unseen poem with its end, or one image with another, gives the same analytical depth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--01-section-b.webp" width="900" height="569" alt="Paper 2b split into Section A on the anthology and Section B on the unseen poem, 30 marks and about 45 minutes each. Section B comes second, so time must be protected, and comparison skills from Section A transfer." loading="lazy">
+  <figcaption>Protect a full 45 minutes for the unseen poem.</figcaption>
+</figure>
+
 ## Four lenses from the specification
 
 The specification names four key features. Read the poem once through each lens and note one or two
@@ -62,6 +67,11 @@ points under each heading.
 
 Structure is the lens most often left out, yet it is the one most poems reward. Always ask: what
 changes between the first stanza and the last, and where exactly does it change?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--02-four-lenses.webp" width="900" height="637" alt="A grid of the four lenses named in the specification, content, theme, structure and use of language, each with the question to ask and what it gives the answer. Structure is highlighted as the lens most often missed." loading="lazy">
+  <figcaption>Content, theme, structure, language: and never skip structure.</figcaption>
+</figure>
 
 ## Coping with a difficult poem
 
@@ -79,6 +89,11 @@ Every candidate meets a line they do not understand. Strong candidates handle it
 
 Tentative language ("perhaps", "this could suggest", "the reader might feel") is a strength here, as
 long as each suggestion is supported by a quotation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--03-difficult-poem.webp" width="900" height="687" alt="Five strategies for a difficult unseen poem: work from what is clear, infer unfamiliar words or write about their effect, rearrange older word order, offer two possible speakers, and weigh two readings of an ambiguous ending." loading="lazy">
+  <figcaption>Start from what is clear and treat uncertainty as interpretation.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -134,6 +149,11 @@ effect only in general terms ("sad"), and does not connect the detail to the res
 The stronger version opens with an argument (AO1), analyses the verb, the image and the line break
 (AO2), and uses tentative, precise phrasing ("perhaps anxiously") to show a personal response (AO3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--05-competent-stronger.webp" width="900" height="581" alt="The guide’s competent and stronger paragraphs on Night Shift compared: the stronger one opens with an argument, analyses the verb, image and line break, explains a precise effect and uses tentative, personal phrasing." loading="lazy">
+  <figcaption>Argue, analyse the exact method, explain the precise effect.</figcaption>
+</figure>
+
 ### Developing the argument through structure
 
 > The middle stanza turns the speaker into a carer. The parallel lines "All night the hospital keeps
@@ -143,6 +163,11 @@ The stronger version opens with an argument (AO1), analyses the verb, the image 
 > "and the house, at last, lets go", is broken by commas that slow the reading, so the release of
 > tension feels like a long breath out. Her feelings are never named; they are carried by the house.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--04-night-shift-structure.webp" width="900" height="675" alt="The guide’s original poem Night Shift traced through its three stanzas: evening, when the mother leaves and her slippers point in; night, when hospital and child both keep watch; and morning, when the house at last lets go." loading="lazy">
+  <figcaption>The three stanzas move from leaving, to waiting, to release.</figcaption>
+</figure>
+
 ## Planning your 45 minutes
 
 1. **Read for sense** (3 minutes) and write a one-sentence summary.
@@ -150,6 +175,11 @@ The stronger version opens with an argument (AO1), analyses the verb, the image 
 3. **Argument** (2 minutes): one sentence that answers the question directly.
 4. **Order** (2 minutes): three or four points that move through the poem, ending with the ending.
 5. **Write** (about 30 minutes), then check the final paragraph returns to your argument.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--06-planning-45.webp" width="900" height="904" alt="A 45-minute bar and five steps for the unseen poem: read for sense (3 minutes), apply the four lenses (6), write a one-sentence argument (2), order three or four points ending with the ending (2), and write for about 30 minutes before checking." loading="lazy">
+  <figcaption>Thirteen minutes of thinking make thirty minutes of writing focused.</figcaption>
+</figure>
 
 ## Common mistakes
 

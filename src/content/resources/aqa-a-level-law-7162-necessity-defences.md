@@ -44,6 +44,16 @@ This guide covers the section 3.2 row **Necessity defences** in AQA A-level Law 
 
 **All or nothing.** If the force was excessive, the defence fails completely. A soldier who fired a fourth shot at a car that had already passed his checkpoint was guilty of murder (*R v Clegg*, 1995). There is no partial defence of excessive self-defence, although loss of control based on fear of serious violence may reduce murder to manslaughter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-necessity-defences--01-self-defence-questions.webp" width="900" height="750" alt="Question 1: was force necessary, judged on the facts as the defendant honestly believed them (Williams; Beckford), except where the mistake came from voluntary intoxication; pre-emptive force can be necessary and there is no duty to retreat. Question 2: was the degree of force reasonable, objectively but on the believed facts, with allowance for the heat of the moment; householders lose the defence only for grossly disproportionate force; characteristics are irrelevant. Both yes: a complete defence. Otherwise no defence (Clegg)." loading="lazy">
+  <figcaption>Necessity on the honest belief; reasonableness objectively; all or nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-necessity-defences--02-householder-force.webp" width="900" height="556" alt="A scale from proportionate to grossly disproportionate force. In an ordinary case only proportionate force is reasonable. For a householder defending against an intruder in a dwelling, proportionate force is reasonable, disproportionate force may or may not be depending on all the circumstances, and grossly disproportionate force is never reasonable (Collins)." loading="lazy">
+  <figcaption>Householders get extra latitude, but grossly disproportionate force is never reasonable.</figcaption>
+</figure>
+
 ## Duress by threats
 
 **The test.** From *R v Graham* (1982), approved by the House of Lords in *R v Howe* (1987) and restated in *R v Hasan* (2005):
@@ -63,6 +73,16 @@ This guide covers the section 3.2 row **Necessity defences** in AQA A-level Law 
 
 **Offences excluded.** Duress is no defence to **murder** (*Howe*, overruling *Lynch* in this respect), even for a 13-year-old acting under his father's threats (*R v Wilson*, 2007), and no defence to **attempted murder** (*R v Gotts*, 1992).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-necessity-defences--03-duress-graham.webp" width="900" height="670" alt="The Graham test has a subjective stage, a reasonably believed threat of death or serious injury, and an objective stage, whether a sober person of reasonable firmness sharing the defendant’s characteristics would have responded the same way. The threat must be of death or serious injury, against the defendant or someone he is responsible for, aimed at the particular offence (Cole), and immediate with no evasive action (Hasan). Bowen sets out relevant characteristics." loading="lazy">
+  <figcaption>Two stages, plus strict requirements about the threat itself.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-necessity-defences--04-duress-barriers.webp" width="900" height="470" alt="Duress is unavailable for murder (Howe; Wilson), for attempted murder (Gotts), and where the defendant voluntarily associated with people he foresaw might threaten violence (Hasan): joining a violent gang defeats it (Sharp), a group not known for violence may not (Shepherd). Excluding murder protects life but can be harsh." loading="lazy">
+  <figcaption>Check the offence and the defendant’s associations before applying the Graham test.</figcaption>
+</figure>
+
 ## Duress of circumstances
 
 Here the threat comes from the **situation**, not from a person demanding that a crime be committed. The same two-stage *Graham* test applies, together with the same exclusions for murder and attempted murder (*R v Pommell*, 1995).
@@ -77,6 +97,11 @@ Here the threat comes from the **situation**, not from a person demanding that a
 | *DPP v Bell* (1992) | Drove after drinking to escape men threatening him | The defence covers the offence only for as long as the threat continues |
 
 **Necessity and murder.** *R v Dudley and Stephens* (1884), where shipwrecked sailors killed and ate the cabin boy to survive, established that necessity is no defence to murder.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-necessity-defences--05-duress-of-circumstances.webp" width="900" height="672" alt="Duress by threats involves a person demanding a crime; duress of circumstances arises from the situation. Cases: Willer (pavement driving), Conway (reckless driving to save a passenger), Martin (Colin) (driving while disqualified), Pommell (all crimes except murder, attempted murder and some treason), Abdul-Hussain (imminent peril) and DPP v Bell (only while the threat continues). Dudley and Stephens: necessity is no defence to murder." loading="lazy">
+  <figcaption>Who or what makes the threat decides which form of duress applies.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -93,6 +118,11 @@ Assoc.:    no voluntary association with criminals.
 Offence:   driving offence, not murder - defence available.
 Conclusion: duress likely to succeed; acquittal.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-necessity-defences--06-zac-worked-example.webp" width="900" height="675" alt="A checklist for Zac: duress by threats; a threat to kill his girlfriend (Hasan); linked to the driving offence (Cole); immediate, with no chance to go to the police; the Graham test met; no voluntary association; and a driving offence, not murder. Duress is likely to succeed." loading="lazy">
+  <figcaption>Name the defence, then tick off each stage with an authority.</figcaption>
+</figure>
 
 ## Evaluation
 

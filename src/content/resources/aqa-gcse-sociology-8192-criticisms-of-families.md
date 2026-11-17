@@ -31,6 +31,11 @@ For the whole of Paper 1, start with the [Families and Education overview](/reso
 
 Functionalists such as Parsons present the family as meeting the needs of its members and of society. The criticisms in 3.3.5 come from people who think this picture is too rosy. Some criticisms are about **structure** (the family is too small and cut off); some are about **power** (the family benefits some members more than others); some are about **harm** (families can damage the people in them). In an exam, say which kind of criticism you are making and which perspective makes it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criticisms-of-families--01-three-kinds.webp" width="900" height="538" alt="Three cards sort the criticisms. Structure: isolation and idealisation, loss of functions and lack of contact with kin. Power: the status of women, Zaretsky and Delphy and Leonard. Harm: marital breakdown and dysfunctional families." loading="lazy">
+  <figcaption>Each criticism is about the family’s structure, its power relations or the harm it can do.</figcaption>
+</figure>
+
 ## The six criticisms in the specification
 
 ### 1. Isolation and unrealistic idealisation
@@ -59,6 +64,16 @@ Marital breakdown includes **divorce**, separation and **empty shell marriages**
 
 A **dysfunctional family** is one that harms its members rather than meeting their needs. Examples include domestic abuse, child abuse and neglect, and constant conflict. Because the family is private, harm can be hidden for a long time. Radical feminists see domestic violence as a product of male power; Dobash and Dobash's research in Scotland (1979) linked husbands' violence to their sense of authority over wives. Functionalists tend to treat dysfunctional families as exceptions; critics argue they reveal what the private family can conceal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criticisms-of-families--02-six-criticisms.webp" width="900" height="809" alt="A table of the six criticisms: isolation and unrealistic idealisation, loss of traditional functions, lack of contact with wider kin, the status and role of women, marital breakdown and dysfunctional families, each with the problem it names and the writers or perspective behind it." loading="lazy">
+  <figcaption>Name the criticism, explain the problem, and say who makes it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criticisms-of-families--03-isolation-kin.webp" width="900" height="695" alt="Left: a family in Bethnal Green surrounded by relatives, with daily contact and help with childcare. Right: after moving to a new estate outside London the family is home-centred and isolated, with kin far away. Below, the counter-argument that the modified extended family keeps in touch by phone, video calls, visits and money." loading="lazy">
+  <figcaption>Moving away from kin made families more home-centred and more isolated.</figcaption>
+</figure>
+
 ## Zaretsky: a Marxist view of developments in families
 
 Eli Zaretsky wrote *Capitalism, the Family and Personal Life* (1976). His key ideas, from the specification's summary:
@@ -74,6 +89,11 @@ Eli Zaretsky wrote *Capitalism, the Family and Personal Life* (1976). His key id
 
 **Evaluating Zaretsky.** Feminists argue he says too little about men's power over women within the family. Functionalists argue the family does meet many emotional needs. His solution, socialism, is hard to test, and family inequality has existed in socialist as well as capitalist societies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criticisms-of-families--04-zaretsky-cycle.webp" width="900" height="765" alt="A cycle: a worker in a dull, insecure job comes home to the family, which cushions him, so the job feels bearable and he does not challenge the system; the family spends wages on goods, which returns profit to capitalists. Below, Zaretsky’s points that the private family is an illusion and only socialism would end the problem." loading="lazy">
+  <figcaption>By cushioning workers, the family keeps capitalism going.</figcaption>
+</figure>
+
 ## Delphy and Leonard: a feminist critique
 
 Christine Delphy and Diana Leonard wrote *Familiar Exploitation* (1992). Their key ideas:
@@ -88,6 +108,11 @@ Christine Delphy and Diana Leonard wrote *Familiar Exploitation* (1992). Their k
 
 **Evaluating Delphy and Leonard.** Critics argue they underplay change, such as men doing more domestic work and couples choosing more equal arrangements. Not all women experience the family as oppressive, and patterns differ by class and ethnicity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criticisms-of-families--05-delphy-leonard-appropriation.webp" width="900" height="793" alt="A dual-earner couple: both have full-time paid jobs, but the woman also does the cooking, cleaning and organising of the children, and her labour gives the man free time and comfort. Below, Delphy and Leonard’s argument that the family is an economic system in which men exploit women’s work, with criticisms." loading="lazy">
+  <figcaption>For Delphy and Leonard, men, not capitalists, gain from women’s work in the family.</figcaption>
+</figure>
+
 ## Comparing Zaretsky with Delphy and Leonard
 
 | | Zaretsky | Delphy and Leonard |
@@ -100,9 +125,19 @@ Christine Delphy and Diana Leonard wrote *Familiar Exploitation* (1992). Their k
 
 **Similarities:** both are conflict perspectives; both reject the functionalist view that the family benefits everyone; both focus on women's domestic labour. **Difference:** for Zaretsky, the family's problems come from capitalism; for Delphy and Leonard, from patriarchy, which could survive the end of capitalism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--03-zaretsky-delphy-leonard.webp" width="900" height="699" alt="Two panels. Zaretsky, a Marxist, says the family benefits capitalism: the idea of a separate private life is an illusion and unpaid domestic labour props the system up. Delphy and Leonard, feminists, say the family benefits men, who exploit women’s work, so it maintains patriarchy." loading="lazy">
+  <figcaption>Zaretsky blames capitalism; Delphy and Leonard blame patriarchy.</figcaption>
+</figure>
+
 ## The functionalist response
 
 Functionalists accept that some families fail but argue that criticisms describe the exception, not the rule. Most families still socialise children and give emotional support, which is why most people still choose to live in families. They may see high divorce as a sign that people value marriage enough to leave a bad one and try again.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criticisms-of-families--06-functionalist-response.webp" width="900" height="571" alt="Two panels. Critics say the family is isolated, benefits capitalism or men, places unrealistic demands on couples and can hide harm. Functionalists reply that these are exceptions: most families socialise children and give emotional support, and high divorce may show people value marriage." loading="lazy">
+  <figcaption>Judge whether each criticism applies to all families or only some.</figcaption>
+</figure>
 
 ## Worked example: 4 marks
 

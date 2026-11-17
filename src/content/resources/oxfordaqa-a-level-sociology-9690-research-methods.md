@@ -47,6 +47,11 @@ routine for reading tables, charts and qualitative extracts.
   **interpretivists** seek the meanings people give to actions and prefer qualitative, valid
   methods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-introducing-sociology--06-research-concepts.webp" width="900" height="641" alt="A grid comparing positivist methods, which are reliable and generalisable but may lack validity, with interpretivist methods, which are valid and in-depth but less reliable. Practical, ethical and theoretical factors and six sampling methods are listed beneath." loading="lazy">
+  <figcaption>Reliability and validity often trade off against each other.</figcaption>
+</figure>
+
 ## The main methods (3.1.3.2)
 
 | Method | Key features | Strengths | Limitations |
@@ -80,6 +85,16 @@ pupils would "spurt" ahead; Laud Humphreys' **covert observation** in *Tearoom T
 standard example of contested research ethics; and William Thomas and Florian Znaniecki's use of
 **letters** in *The Polish Peasant in Europe and America* (1918–1920).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods--01-asking-questions.webp" width="900" height="830" alt="A grid of surveys and interviews (postal and telephone, online, self-completion, structured, unstructured and group) with a strength and a limitation of each, and types of survey question." loading="lazy">
+  <figcaption>More structure brings reliability; less structure brings depth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods--02-other-methods.webp" width="900" height="993" alt="A grid of observation types, laboratory and field experiments, longitudinal studies and qualitative and quantitative secondary sources, each with a strength and a limitation, plus classic examples." loading="lazy">
+  <figcaption>Natural settings gain validity; controlled settings gain cause and effect.</figcaption>
+</figure>
+
 ## Issues in research (3.1.3.3)
 
 - **Operationalisation** means turning a concept into something measurable. "Religiosity" might be
@@ -105,6 +120,16 @@ standard example of contested research ethics; and William Thomas and Florian Zn
 - **Representativeness and generalisability**: whether the sample reflects the population, and so
   whether findings can be applied more widely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods--03-sampling.webp" width="900" height="617" alt="A chain from population to sampling frame to sample, then six types of sample: random, systematic and stratified random; quota, multistage and snowball." loading="lazy">
+  <figcaption>The sample can only be as good as the frame it is drawn from.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods--04-measurement-problems.webp" width="900" height="729" alt="Religiosity can be operationalised as worship, prayer or belief, each giving a different result. Two variables that move together may both be caused by a third factor. Notes list interviewer bias, the Hawthorne effect and social desirability." loading="lazy">
+  <figcaption>How you measure, and what else might explain a link, shape every finding.</figcaption>
+</figure>
+
 ## Interpreting data (3.1.3.4)
 
 **Quantitative routine (TREND):**
@@ -117,6 +142,11 @@ standard example of contested research ethics; and William Thomas and Florian Zn
 **Qualitative routine**: for field notes or interview extracts, identify what participants say and
 do, the meanings they appear to give, the researcher's possible influence, and how far one setting
 can be generalised.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods--05-trend.webp" width="900" height="923" alt="The TREND routine for quantitative data: title and units, read extremes, examine change and comparison, note percentage points versus relative change, and doubt the source. A note gives the routine for qualitative extracts." loading="lazy">
+  <figcaption>TREND turns an unseen table into marks.</figcaption>
+</figure>
 
 ## Worked example: reading a table
 
@@ -136,6 +166,11 @@ The data below are fictional, invented for practice.
 
 *Suggest one limitation of these data.* Percentages alone hide sample size and how "using" was
 operationalised (once a year, or weekly?), so they may overstate everyday use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods--06-tarnia-chart.webp" width="900" height="747" alt="A bar chart of fictional data: urban households using mobile money rose from 30% in 2015 to 74% in 2025, rural from 12% to 51%. The gap widened in percentage points while rural use grew faster in relative terms." loading="lazy">
+  <figcaption>Percentage points and relative change can tell different stories.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -42,9 +42,19 @@ The syllabus defines a **greenhouse gas as a gas that absorbs radiation and emit
 
 For cement, the chemistry is simple enough to quote: calcium carbonate → calcium oxide + carbon dioxide. The kiln is also usually heated by burning fossil fuels, so cement releases carbon dioxide in two ways.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-climate-change--01-causes-by-gas.webp" width="900" height="832" alt="Six causes of rising greenhouse gas concentrations linked to the gas each releases. Fossil fuel combustion, deforestation, cement manufacture and increasing population and energy use add carbon dioxide; agriculture and changes in land use such as draining wetlands add methane." loading="lazy">
+  <figcaption>Learn each cause with its gas: four add carbon dioxide, two add methane.</figcaption>
+</figure>
+
 ## The enhanced greenhouse effect (4.2.4)
 
 The syllabus states two linked points: **greenhouse gases absorb solar radiation causing global warming**, and **global warming can result in climate change**. Higher concentrations of greenhouse gases mean more of the radiation given off by the Earth is absorbed and re-emitted back to the surface, so average temperatures rise. That warming is global warming; the resulting long-term changes in temperature, rainfall, wind and extreme weather are climate change. Keep the order: gases → warming → climate change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-climate-change--02-enhanced-greenhouse-effect.webp" width="900" height="720" alt="Left: solar radiation reaches the Earth’s surface; radiation from the surface is absorbed by a layer of greenhouse gases and re-emitted back down, while some escapes. Right: higher gas concentrations lead to global warming, which leads to climate change. Below: the definition of a greenhouse gas and the three named gases." loading="lazy">
+  <figcaption>Keep the order: more gas, then global warming, then climate change.</figcaption>
+</figure>
 
 ## Impacts of climate change (4.2.5)
 
@@ -68,6 +78,16 @@ Grouping the twelve impacts makes them easier to recall and to link in extended 
 - Change in crop yields: some cold regions may gain a longer growing season, while hotter, drier regions lose yield.
 - Food shortages where yields fall, extreme weather destroys crops and fisheries decline.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-climate-change--03-impacts-grouped.webp" width="900" height="736" alt="Climate change branches into three groups of impacts. Physical changes: warmer land and ocean surfaces, melting ice and rising sea level, ocean acidification and more extreme weather. Effects on living things: disrupted food chains, biodiversity change, habitat loss, forced migration, pests and invasive species. Effects on food: changing crop yields and food shortages." loading="lazy">
+  <figcaption>Group the twelve impacts, then link them as cause and effect in longer answers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-climate-change--04-sea-level-rise.webp" width="900" height="705" alt="Cross-section of land carrying an ice sheet beside the ocean. Meltwater from the land ice flows into the sea and warmer water expands, so sea level rises from a dashed earlier line to a higher line. Floating sea ice sits in the water and is marked as not significantly raising sea level." loading="lazy">
+  <figcaption>Sea level rises from melting land ice and expanding warmer water, not from melting sea ice.</figcaption>
+</figure>
+
 ## Reducing carbon footprints (4.2.6)
 
 A carbon footprint is the total greenhouse gas emissions caused by a person, product, organisation or country, usually expressed as carbon dioxide equivalent. The syllabus names twelve strategies.
@@ -87,6 +107,11 @@ A carbon footprint is the total greenhouse gas emissions caused by a person, pro
 | Research and climate models | Computer models predict future climate, helping governments plan and test policies |
 | Use of artificial intelligence (AI) | Predicting impacts of climate change and developing strategies to reduce them |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-climate-change--05-footprint-strategies.webp" width="900" height="744" alt="The twelve named strategies in four groups. Use less fossil energy: reduced fossil fuel use, energy efficiency, transport policies, fewer children per woman. Cut farm emissions: sustainable food choices, less livestock farming. Take carbon dioxide out of the air: reforestation and afforestation, carbon sequestration. Steer and plan: international agreements, taxation, research and climate models, AI." loading="lazy">
+  <figcaption>Grouping the twelve strategies by what they do makes them easier to recall and explain.</figcaption>
+</figure>
+
 ## Adaptation (4.2.7 and 4.2.8)
 
 The syllabus defines **climate change adaptation as altering behaviour, practices and infrastructure to adapt to the impacts of climate change**. Reducing footprints tackles the cause; adaptation copes with the effects. The four named strategies are:
@@ -95,6 +120,11 @@ The syllabus defines **climate change adaptation as altering behaviour, practice
 - **Improve flood defences**: sea walls, embankments, flood barriers, restored wetlands that store water.
 - **Legislation about building near coasts and on floodplains**, limiting new homes in areas at risk.
 - **Building design and materials**: raised floors, flood-resistant materials, shading, insulation and reflective roofs to keep buildings cool.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-climate-change--06-mitigation-vs-adaptation.webp" width="900" height="618" alt="A chain from emissions to more greenhouse gases, global warming and climate change impacts. Reducing carbon footprints acts at the start of the chain; adaptation acts at the end. Below are the four adaptation strategies: resistant crops, better flood defences, legislation on building in risky areas, and building design." loading="lazy">
+  <figcaption>Footprint strategies reduce the cause; adaptation strategies reduce the harm.</figcaption>
+</figure>
 
 ## Worked example 1: a carbon footprint calculation
 
@@ -106,6 +136,11 @@ The figures are invented for practice. A family's yearly car travel is 15,000 km
 4. Bus emissions for one person = 6,000 × 0.05 = 300 kg.
 5. New total = 1,620 + 300 = 1,920 kg, a saving of 780 kg.
 6. Percentage saving = 780 / 2,700 × 100 = 28.9%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-climate-change--07-footprint-calculation.webp" width="900" height="600" alt="Bar chart of yearly carbon dioxide from travel. Before: 2,700 kg, all from the car. After switching 40% of journeys to the bus: 1,620 kg from the car plus 300 kg from the bus, 1,920 kg in total, a saving of 780 kg or 28.9%. The working is listed beside the chart." loading="lazy">
+  <figcaption>Work out each part, add them, then find the saving as a percentage of the original.</figcaption>
+</figure>
 
 ## Worked example 2: an annotated "discuss" answer
 

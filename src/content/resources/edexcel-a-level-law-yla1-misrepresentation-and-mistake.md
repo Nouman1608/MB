@@ -29,6 +29,11 @@ This guide covers the first two bullets of content area **2.1.4** of Pearson Ede
 
 A contract that has been properly formed can still be challenged because one party's consent was flawed. **Misrepresentation** makes a contract **voidable**: it stands until the innocent party chooses to set it aside. An **operative mistake** usually makes it **void**: it was never a contract at all. The difference matters most when goods have been sold on to an innocent third party.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--01-voidable-or-void.webp" width="900" height="556" alt="Misrepresentation makes a contract voidable: it stands until the innocent party chooses to set it aside. An operative mistake usually makes it void: it was never a contract. The difference matters most when goods have been sold on to an innocent third party." loading="lazy">
+  <figcaption>Misrepresentation: voidable. Operative mistake: void.</figcaption>
+</figure>
+
 ## Misrepresentation: the elements
 
 A misrepresentation is an **untrue statement of fact**, made by one party to the other **before or at the time** of the contract, which **induces** the other party to enter into it.
@@ -56,6 +61,11 @@ The statement must have been **relied on**.
 - But a claimant who **could have** checked and did not is still relying: *Redgrave v Hurd* (1881).
 - The statement need not be the only reason, provided it was a real inducement (*Edgington v Fitzmaurice*).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--02-misrepresentation-elements.webp" width="900" height="546" alt="A misrepresentation is an untrue statement of fact that induces the contract. 1: a statement, by words or conduct (Spice Girls); silence generally is not (Fletcher v Krell) except half-truths, changed circumstances and utmost good faith. 2: of fact, not opinion (Bisset v Wilkinson), though expert opinion (Esso v Mardon) and lies about present intention (Edgington) count. 3: inducement: no reliance after the claimant’s own check (Attwood v Small), but failing to check does not matter (Redgrave v Hurd)." loading="lazy">
+  <figcaption>Test each element with a case: statement, fact, inducement.</figcaption>
+</figure>
+
 ## The three types and their remedies
 
 | Type | Test | Remedies |
@@ -69,9 +79,19 @@ The statement must have been **relied on**.
 
 **Exclusion clauses:** under **s 3** of the 1967 Act, a term excluding liability for misrepresentation is effective only if it satisfies the reasonableness test in the Unfair Contract Terms Act 1977.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--03-types-and-remedies.webp" width="900" height="787" alt="Fraudulent misrepresentation (Derry v Peek) gives rescission and damages in deceit for all direct losses (Doyle v Olby). Negligent misrepresentation under s 2(1) gives rescission and damages measured as if fraudulent (Royscot), and the maker must prove reasonable belief (Howard Marine v Ogden). Negligent misstatement at common law (Hedley Byrne) gives damages in tort. Innocent misrepresentation gives rescission, or damages instead under s 2(2). Section 3 subjects exclusion clauses to the UCTA reasonableness test." loading="lazy">
+  <figcaption>The type decides the remedy; s 2(1) puts the burden on the maker of the statement.</figcaption>
+</figure>
+
 ## The Law Reform (Contributory Negligence) Act 1945
 
 Under the 1945 Act, where a claimant suffers damage partly through their own fault, damages can be **reduced** to the extent the court thinks just. In *Gran Gelato v Richcliff* [1992] the court accepted that damages under **s 2(1)** could in principle be reduced for the claimant's own carelessness where the defendant was also liable in negligence, although on the facts no reduction was made. Contributory negligence is **not** a defence to fraudulent misrepresentation (*Standard Chartered Bank v Pakistan National Shipping Corporation (No 2)* [2002]): a fraudster cannot complain that the victim should have been more careful.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--05-contributory-negligence.webp" width="900" height="438" alt="Under the 1945 Act damages can be reduced where the claimant was partly at fault. Damages under s 2(1) can in principle be reduced where the defendant was also liable in negligence (Gran Gelato v Richcliff, though no reduction was made), but contributory negligence is no defence to fraud (Standard Chartered v Pakistan National Shipping)." loading="lazy">
+  <figcaption>A careless claimant may lose some damages for negligent misrepresentation, never for fraud.</figcaption>
+</figure>
 
 ## Rescission and its bars
 
@@ -80,6 +100,11 @@ Rescission sets the contract aside and puts the parties back where they were. It
 - there is **undue delay** (*Leaf v International Galleries* [1950]);
 - **restitution is impossible**, because the subject matter cannot be returned (*Clarke v Dickson* (1858));
 - an **innocent third party** has acquired rights in the goods for value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--04-rescission-bars.webp" width="900" height="592" alt="Rescission sets the contract aside and restores the parties, but as an equitable remedy it is lost by affirmation (Long v Lloyd), undue delay (Leaf v International Galleries), impossibility of restitution (Clarke v Dickson), or an innocent third party acquiring rights for value." loading="lazy">
+  <figcaption>Rescission is lost by affirming, delaying, being unable to give back, or third-party rights.</figcaption>
+</figure>
 
 ## Mistake
 
@@ -104,6 +129,16 @@ The law is reluctant to let a party escape a contract because they were mistaken
   - **Written contracts:** the identity of the named party is usually vital, so the contract is void. In *Cundy v Lindsay* (1878) a rogue signed letters to look like those of a respectable firm; in *Shogun Finance v Hudson* [2003] the House of Lords held a written hire-purchase agreement in a stolen identity void.
   - **Face to face:** the seller is presumed to intend to deal with the person in front of them, so the contract is only voidable: *Phillips v Brooks* [1919]; *Lewis v Averay* [1972]. *Ingram v Little* [1961], where such a contract was held void, is usually treated as exceptional.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--06-three-kinds-of-mistake.webp" width="900" height="695" alt="Common mistake: both parties make the same mistake, operative for non-existent subject matter (Couturier v Hastie) or res sua (Cooper v Phibbs) but almost never for quality (Bell v Lever Bros; Great Peace). Mutual mistake: cross-purposes, as with the two ships Peerless (Raffles v Wichelhaus) and hemp or tow (Scriven v Hindley). Unilateral mistake: one party is mistaken and the other knows, as to terms (Hartog v Colin and Shields) or identity, void in writing (Cundy v Lindsay; Shogun) but voidable face to face (Phillips v Brooks; Lewis v Averay)." loading="lazy">
+  <figcaption>Same mistake, cross-purposes, or one side mistaken and the other aware.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--07-mistake-as-to-identity.webp" width="900" height="560" alt="When a rogue uses a false identity, a written contract is usually void because the named party’s identity is vital (Cundy v Lindsay; Shogun Finance v Hudson). Face to face, the seller is presumed to deal with the person in front of them, so the contract is only voidable (Phillips v Brooks; Lewis v Averay), with Ingram v Little treated as exceptional." loading="lazy">
+  <figcaption>In writing, identity is vital and the contract is void; face to face, it is only voidable.</figcaption>
+</figure>
+
 ## Worked example
 
 *Sana buys a café from Bilal. Bilal says, "It makes £800 a week." That was true a year ago, but takings fell to £400 after a new road closed the street; Bilal knew. Sana did not check the accounts she was offered. Advise Sana.*
@@ -120,6 +155,11 @@ Remedy      rescission plus damages for all direct losses; if fraud,
             no reduction for her failure to check (Standard Chartered)
 Bars        act promptly and do not affirm (Long v Lloyd)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--08-sana-worked-example.webp" width="900" height="726" alt="Bilal’s statement &quot;it makes £800 a week&quot; is a statement of fact that became untrue and was not corrected (With v O’Flanagan). Sana relied on it, and failing to check does not matter (Redgrave v Hurd). As Bilal knew the truth it is fraudulent (Derry v Peek), or at least s 2(1). She can claim rescission and damages, with no reduction for carelessness if it is fraud (Standard Chartered), provided she acts promptly and does not affirm (Long v Lloyd)." loading="lazy">
+  <figcaption>IRAC each element: statement, fact, inducement, type, remedy, bars.</figcaption>
+</figure>
 
 ## Common mistakes
 

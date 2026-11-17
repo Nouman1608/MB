@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-programming-concepts--01-three-combining-principles.webp",
+  "width": 900,
+  "height": 649,
+  "after": "## The six statement types",
+  "alt": "Three small flowcharts: sequence runs statements one after another; selection tests a condition and runs block A if True or block B if False; iteration repeats a loop body while the answer to \"repeat?\" is yes. Below, the six statement types are grouped: declaration, constant and assignment store values; selection and iteration control flow; a subroutine call reuses named code.",
+  "caption": "Every program combines the six statement types using sequence, selection and iteration.",
+  "bytes": 87120
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-programming-concepts--02-assignment-right-to-left.webp",
+  "width": 900,
+  "height": 597,
+  "after": "## Declaration and assignment are different",
+  "alt": "In total ← total + price, the right-hand side total + price is worked out first using the current value of total, and the answer is then stored back in total on the left. Declaration gives a variable its name (and in C# or Visual Basic a type); assignment stores a value in it.",
+  "caption": "Work out the right-hand side first, then store the answer on the left.",
+  "bytes": 69540
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-programming-concepts--03-named-constants.webp",
+  "width": 900,
+  "height": 698,
+  "after": "## Why named constants and variables are used",
+  "alt": "Left: the literal 0.2 appears in several calculations, so its meaning is unclear and every copy must be changed. Right: CONSTANT VatRate ← 0.2 is declared once and used as price * VatRate and in other calculations. Benefits: one change updates every use, the code explains itself, and the value cannot be changed accidentally while the program runs.",
+  "caption": "A named constant is declared once, explains itself and cannot change while the program runs.",
+  "bytes": 89582
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-programming-concepts--04-while-versus-repeat.webp",
+  "width": 900,
+  "height": 754,
+  "after": "## Definite and indefinite iteration",
+  "alt": "Both programs start with n ← 10. The WHILE loop tests n < 5 first, which is False, so the body never runs and 10 is output. The REPEAT loop runs the body once, making n 11, then tests n ≥ 5, which is True, so it stops and outputs 11.",
+  "caption": "A condition at the start allows zero runs; a condition at the end guarantees at least one.",
+  "bytes": 81238
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-programming-concepts--05-choosing-a-loop.webp",
+  "width": 900,
+  "height": 520,
+  "after": "## Definite and indefinite iteration",
+  "alt": "FOR is definite iteration, for when the count is known, such as processing 30 students. WHILE is indefinite with the test at the start, for when the loop might not need to run, such as reading while there is data. REPEAT … UNTIL tests at the end, for when the body must run once first, such as asking a question then checking the answer.",
+  "caption": "Known count: FOR. Might not run: WHILE. Must run once: REPEAT … UNTIL.",
+  "bytes": 72204
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-programming-concepts--06-nested-loop-trace.webp",
+  "width": 900,
+  "height": 658,
+  "after": "## Worked example: tracing nested iteration",
+  "alt": "Nested FOR loops with MaxRows set to 3. For row 1 the inner loop runs once, for row 2 twice and for row 3 three times, 6 times in all, outputting *, ** and ***. If line ← \"\" were moved above the outer loop, the line would never reset and the outputs would be *, *** and ******.",
+  "caption": "The inner loop finishes completely for each pass of the outer loop; reset the line inside the outer loop.",
+  "bytes": 79372
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-programming-concepts--07-nested-selection.webp",
+  "width": 900,
+  "height": 687,
+  "after": "## Worked example: nested selection",
+  "alt": "A decision flow: if age ≥ 18 is False, the output is \"Too young\"; if True, the inner test hasTicket decides between \"Enter\" and \"Buy a ticket\". With age 20 and no ticket the output is \"Buy a ticket\"; with age 15 and a ticket it is \"Too young\", because the inner IF is never reached.",
+  "caption": "The inner condition is only tested when the outer condition is True.",
+  "bytes": 64978
+ }
+]

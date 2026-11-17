@@ -125,10 +125,6 @@ The specification groups these under two headings. Learn both lists.
 | | Few hydrogen filling stations |
 | | Making the hydrogen may use fossil fuels |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells--08-h2-storage-volume.webp" width="900" height="1006" alt="Two squares with areas in proportion to volume: 5.0 kg of hydrogen is 2500 mol and fills 60 m3 at room temperature and pressure, against a 0.125 m3 tank, so it must be squeezed into a space 480 times smaller." loading="lazy">
-  <figcaption>5.0 kg of hydrogen fills 60 m3, 480 times the volume of the tank.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells--08-h2-storage-volume.webp" width="900" height="880" alt="Chain 5.0 kg to 2500 mol to 60 000 dm3 (60 m3) and two cubes drawn to scale beside a 0.125 m3 tank: 480 times smaller. " loading="lazy">

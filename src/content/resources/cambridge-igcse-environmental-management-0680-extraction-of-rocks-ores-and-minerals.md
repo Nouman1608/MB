@@ -61,6 +61,21 @@ Biological methods use living organisms to recover metals from **low-grade ore**
 
 Both are slow and produce small quantities, but they need far less digging and energy, produce less waste, and can recover metal from land that has already been mined.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals--01-surface-extraction.webp" width="900" height="790" alt="Top: an open pit dug through overburden down to a deposit, with stepped benches on the walls and a waste heap beside it. Bottom: strip mining of a flat seam; after the seam is taken from one strip, overburden from the next strip is dumped into the gap." loading="lazy">
+  <figcaption>Surface methods remove the overburden and dig the deposit out from above.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals--02-subsurface-extraction.webp" width="900" height="676" alt="Cross-section of a vertical shaft from a headframe at the surface down to an inclined ore body, with horizontal tunnels that follow the ore. The ground above old workings has sunk. A note lists the benefits and risks of underground mining." loading="lazy">
+  <figcaption>Underground mining disturbs less land but costs more and is riskier for miners.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals--03-biological-extraction.webp" width="900" height="680" alt="Two flow rows. Phytomining: plants grown on low-grade ore absorb metal compounds, are harvested and burned, and metal is extracted from the ash. Bioleaching: bacteria break down low-grade ore, releasing metal compounds into a leachate from which the metal is recovered. Benefits and limitations are listed below." loading="lazy">
+  <figcaption>Phytomining uses plants; bioleaching uses bacteria; both suit low-grade ore.</figcaption>
+</figure>
+
 ## Factors in the decision to extract
 
 A mine opens only if it is expected to make a profit and its impacts are acceptable. The eight factors fit three groups.
@@ -81,6 +96,11 @@ A mine opens only if it is expected to make a profit and its impacts are accepta
 - **Supply and demand**: when demand rises faster than supply, the price rises and lower-grade or less accessible deposits become worth mining.
 - **Cost and profit**: the expected selling price must exceed the costs of exploration, extraction, processing, transport, wages and restoration.
 - **Environmental impact assessment (EIA)**: a study, carried out before permission is granted, of the likely effects of the project on the environment and people, with proposals to reduce them. An unfavourable EIA can stop or change a project.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals--04-decision-factors.webp" width="900" height="715" alt="Eight factors in three groups feed one decision. Physical: exploration, geology, accessibility and terrain, climate. Deposit: quantity and quality (ore grade). Economic and environmental: supply and demand, cost and profit, and the environmental impact assessment. A mine opens only if it should make a profit and its impacts are acceptable." loading="lazy">
+  <figcaption>Profit and acceptable impacts decide; the eight factors feed into both.</figcaption>
+</figure>
 
 ## Impacts of extraction
 
@@ -124,6 +144,11 @@ Learn the impacts in three columns so that an extended answer can balance them.
 
 The best answers make the point that restoration only happens if it is planned and paid for before mining starts. That is why laws often require companies to set money aside for restoration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals--05-mine-life-and-land.webp" width="900" height="746" alt="A timeline from before mining (exploration, EIA, restoration plan) through extraction to after closure. Two panels list the options for the land: restoration by replacing overburden, soil improvement, bioremediation and tree planting; or repurposing as landfill, lakes, recreation or nature reserves." loading="lazy">
+  <figcaption>Plan and fund restoration before mining starts, or it may never happen.</figcaption>
+</figure>
+
 ## Worked example 1: ore grade calculation
 
 A company needs 60 tonnes of copper. Deposit X has an ore grade of 1.2% copper; deposit Y has 0.4%.
@@ -132,6 +157,11 @@ A company needs 60 tonnes of copper. Deposit X has an ore grade of 1.2% copper; 
 - Deposit Y: 60 ÷ 0.004 = **15,000 tonnes of ore**.
 
 Deposit Y requires three times as much rock to be dug, moved and processed, so it costs more, uses more energy and water, and creates more waste for the same copper. This is why ore grade is a key factor, and why low-grade deposits are candidates for bioleaching.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals--06-ore-grade.webp" width="900" height="590" alt="Bar chart of ore needed for 60 tonnes of copper: 5,000 tonnes from deposit X at 1.2% grade and 15,000 tonnes from deposit Y at 0.4% grade, three times as much rock." loading="lazy">
+  <figcaption>A lower grade means more rock dug, moved and processed for each tonne of metal.</figcaption>
+</figure>
 
 ## Worked example 2: a "discuss" answer
 

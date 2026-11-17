@@ -43,6 +43,11 @@ Igneous rocks form when molten rock cools and **crystallises**. Molten rock belo
 
 Both are made of interlocking crystals with no pore spaces between them, which is why igneous rocks are impermeable. Neither contains fossils, because no organism survives being melted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-formation-of-rocks--01-granite-basalt.webp" width="900" height="715" alt="Cross-section of a volcano. Magma deep underground cools slowly and forms granite; lava flowing over the surface cools quickly and forms basalt. Close-ups show granite with large, pale interlocking crystals and basalt with tiny dark crystals." loading="lazy">
+  <figcaption>Slow cooling underground gives coarse granite; fast cooling at the surface gives fine basalt.</figcaption>
+</figure>
+
 ## Sedimentary rocks: particles laid down in layers
 
 Sedimentary rocks form from fragments of older rock, or from the remains of living things, that are laid down in layers and turned into solid rock. The sequence is the same for all three named rocks:
@@ -63,6 +68,11 @@ What changes between the three rocks is the **type and size of material**:
 
 Shale is the odd one out among the three. Its particles are so fine and so tightly compacted that the tiny spaces between them are not connected, so water cannot pass through. This is why the syllabus lists shale as impermeable even though it is sedimentary.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-formation-of-rocks--02-sedimentary-sequence.webp" width="900" height="636" alt="Five panels in order: weathering breaks rock down in place; erosion and transportation carry fragments away; deposition and sedimentation build layers; compaction squeezes out water; cementation glues the particles together. Below, limestone forms from shells in warm shallow seas, sandstone from sand grains, and shale from fine mud in calm water." loading="lazy">
+  <figcaption>Weathering, erosion, transport, deposition, sedimentation, compaction, cementation: in that order.</figcaption>
+</figure>
+
 ## Metamorphic rocks: changed without melting
 
 Metamorphic rocks form when an existing rock is altered by **heat and/or pressure** without melting. The minerals recrystallise into a new arrangement, producing a harder rock. This can happen when rock is close to a body of hot magma, or when it is buried deeply and squeezed during mountain building.
@@ -71,6 +81,11 @@ Metamorphic rocks form when an existing rock is altered by **heat and/or pressur
 - **Slate** forms from **shale** under pressure. The minerals line up in parallel, so slate splits cleanly into thin, flat sheets; this is why it has long been used for roofing.
 
 Learn these as pairs: limestone to marble, shale to slate. A common error is to say marble forms from granite or slate from sandstone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-formation-of-rocks--03-metamorphic-pairs.webp" width="900" height="630" alt="Two rows. Limestone, with grains and a fossil, is changed by heat into marble with interlocking crystals. Shale, in fine layers, is changed by pressure into slate, whose minerals line up so it splits into thin sheets. Neither melts." loading="lazy">
+  <figcaption>Heat turns limestone into marble; pressure turns shale into slate.</figcaption>
+</figure>
 
 ## The rock cycle as a set of links
 
@@ -86,6 +101,11 @@ Two pairs of terms are easily confused:
 - **Weathering vs erosion.** Weathering is the breakdown of rock **in place**, by physical, chemical or biological action. Erosion is the **removal** of the broken material by a moving agent. If nothing moves, it is weathering.
 - **Deposition vs sedimentation.** Deposition is the act of dropping material when the agent loses energy. Sedimentation is the build-up of that material in layers over time. Deposition happens first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-formation-of-rocks--04-rock-cycle.webp" width="900" height="665" alt="Rock cycle diagram. Magma or lava crystallises into igneous rock. Igneous and metamorphic rock are weathered, eroded and transported to form sediment, which becomes sedimentary rock through deposition, sedimentation, compaction and cementation. Heat and pressure change sedimentary rock into metamorphic rock, which can melt back into magma." loading="lazy">
+  <figcaption>Read each arrow: out of magma is crystallisation; surface rock to sediment is weathering and erosion.</figcaption>
+</figure>
+
 ## Permeability and why it matters
 
 Permeability is the ability of water to pass through the pore spaces of rock and soil. A rock can only be permeable if it has pore spaces and those spaces are connected.
@@ -94,6 +114,11 @@ Permeability is the ability of water to pass through the pore spaces of rock and
 - **Impermeable:** **igneous** rocks (granite, basalt) and **metamorphic** rocks (marble, slate), because their crystals interlock; and some sedimentary rocks such as **shale**, because its pores are tiny and unconnected.
 
 Permeability links 1.1 to later sub-topics. Permeable rock can store ground water as an aquifer (3.1). Natural gas and oil can move upwards through permeable rock until trapped under an impermeable layer (1.4). Gas held within shale itself cannot flow to a well at all, which is the reason for hydraulic fracturing (1.6).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-formation-of-rocks--05-permeability.webp" width="900" height="596" alt="Three magnified rock textures. Sandstone has rounded grains with connected pore spaces, so water passes through. Shale has tiny unconnected pores and granite has interlocking crystals, so water cannot pass. Below are the definition of permeability and the classification of the seven named rocks." loading="lazy">
+  <figcaption>Permeable rock needs pore spaces that connect; shale is the sedimentary exception.</figcaption>
+</figure>
 
 ## Worked example 1: interpreting rock samples
 
@@ -127,6 +152,11 @@ A class pours 100 cm³ of water onto equal-sized blocks of four rocks and measur
 | Granite | 0 |
 
 The rate for sandstone is 42 ÷ 5 = **8.4 cm³ per minute**; for limestone, 30 ÷ 5 = **6.0 cm³ per minute**. Sandstone is the most permeable because its rounded grains leave connected pore spaces. Shale lets almost nothing through because its pores are not connected; the small volume may have run along the surface or a crack. To make the test fair, blocks must be the same size and the same volume of water used each time; repeating it three times and taking a mean improves reliability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-formation-of-rocks--06-permeability-test.webp" width="900" height="605" alt="Bar chart of water drained through four rock blocks in 5 minutes: sandstone 42 cm³ (8.4 cm³ per minute), limestone 30 cm³ (6.0 cm³ per minute), shale 2 cm³ and granite 0 cm³. A side note lists how to make the test fair." loading="lazy">
+  <figcaption>Rate = volume ÷ time; connected pores make sandstone the most permeable.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -71,6 +71,16 @@ than replacing it.
 of industrial society: it is small enough to move where jobs are, and status in it is not tied to an
 extended kin network.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-2--01-functions-of-the-family.webp" width="900" height="556" alt="Murdock’s four functions of the nuclear family: sexual, reproductive, economic and educational. Parsons’s two basic and irreducible functions: primary socialisation of children and stabilisation of adult personalities, the warm bath theory, in which a stressed working husband relaxes at home so he stays productive and society stays stable." loading="lazy">
+  <figcaption>Functionalists explain the family by what it does for society.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--03-loss-of-functions.webp" width="900" height="583" alt="With industrialisation, factories took over production, schools took over formal education and the state took over health care and welfare. Parsons says the family became more specialised, not less important; Fletcher says its functions have grown." loading="lazy">
+  <figcaption>Specialised, not unimportant: the family changed its job.</figcaption>
+</figure>
+
 ## Marxism: the family serves capitalism
 
 Marxists see society as divided between the ruling class, who own the means of production, and the
@@ -90,6 +100,11 @@ working class. Their question is: *how does the family help capitalism continue?
 - **Family and ideological control.** Children learn in the family to accept hierarchy and authority,
   which prepares them to accept inequality at work. Louis Althusser listed the family among the
   institutions that spread ruling-class ideas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-2--02-marxist-family.webp" width="900" height="432" alt="Four ways the family serves capitalism around a centre: reproducing class through inheritance (Engels), exploiting women’s unpaid domestic work (Benston), acting as a unit of consumption (Zaretsky), and ideological control by teaching acceptance of hierarchy (Althusser)." loading="lazy">
+  <figcaption>A Marxist point must explain inheritance, consumption, exploitation or ideology, not just say “capitalism”.</figcaption>
+</figure>
 
 ## Feminism: the family serves patriarchy
 
@@ -117,6 +132,11 @@ work, who holds power, and who is harmed?*
 Feminists differ among themselves: liberal feminists see gradual progress towards equality, while
 radical and Marxist feminists see the family as a core source of women's oppression.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-2--03-feminist-family.webp" width="900" height="720" alt="Bars show the dual burden of paid work plus domestic labour, and the triple shift, which adds emotion work. Bott’s segregated and joint conjugal roles follow, then evidence from Oakley on housework, Edgell on decision-making and Dobash and Dobash on domestic violence, with a note on gendered socialisation." loading="lazy">
+  <figcaption>Feminists argue the family benefits men more than women.</figcaption>
+</figure>
+
 ## Weighing the three views (4.2.4)
 
 | View | Strengths | Limitations |
@@ -124,6 +144,11 @@ radical and Marxist feminists see the family as a core source of women's oppress
 | Functionalist | Explains why the family exists in some form in most societies; links family to other institutions | Idealised and based on middle-class nuclear families; ignores conflict, abuse and inequality; assumes family members share interests |
 | Marxist | Explains inheritance of wealth and the commercial pressure on families | Ignores benefits families give members; ignores gender inequality within the working class; does not explain families in non-capitalist societies |
 | Feminist | Exposes unequal work, power and violence that other views ignore | May understate change towards joint roles and dual-earner equality; may treat all women as having the same experience regardless of class or ethnicity |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-2--04-weighing-three-views.webp" width="900" height="435" alt="A table of strengths and limitations: functionalism explains the family’s place in society but is idealised; Marxism explains inheritance and consumption but ignores benefits and gender; feminism exposes inequality and violence but may understate change and differences between women." loading="lazy">
+  <figcaption>Give each view at least one strength and one limitation.</figcaption>
+</figure>
 
 ## Positive or negative? (4.2.5)
 
@@ -136,6 +161,11 @@ This is a debate in its own right, so it needs evidence on both sides.
   under such pressure that it becomes a source of discontent rather than a haven.
 - **Judgement:** experience varies by gender, age, class and family type. The same family may be
   positive for one member and harmful for another, which is the strongest line for a conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-2--05-positive-or-negative.webp" width="900" height="684" alt="A balance between positive experiences of family life, such as support, care, socialisation and security, and negative ones, such as violence, unequal work, control and conflict, including Leach’s view of the nuclear family under pressure. The judgement: it depends on which member." loading="lazy">
+  <figcaption>The strongest conclusion asks: positive for which member?</figcaption>
+</figure>
 
 ## Worked example: an annotated essay plan
 
@@ -154,6 +184,11 @@ This is a debate in its own right, so it needs evidence on both sides.
    genuine support and change. *Judges each view, not only the claim.*
 6. **Conclusion:** families benefit many members, but not equally; the claim needs to ask "which
    members?" *Answers the question directly.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-2--06-essay-plan.webp" width="900" height="604" alt="A six-step essay plan: introduction setting out the debate, points for from Parsons, Murdock and Fletcher, Marxist points against, feminist points against, evaluation of each view, and a conclusion that families benefit members unequally." loading="lazy">
+  <figcaption>Judge each view, then answer the question directly.</figcaption>
+</figure>
 
 ## Common mistakes
 

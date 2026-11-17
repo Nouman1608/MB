@@ -1,0 +1,65 @@
+[
+ {
+  "file": "aqa-gcse-sociology-8192-interpretation-of-data--01-pattern-trend.webp",
+  "width": 900,
+  "height": 643,
+  "after": "## Patterns and trends",
+  "alt": "Two panels. A pattern is a regular relationship at one point in time, shown as grouped bars where one group is always higher. A trend is a general direction over time, shown as one rising and one falling line. Below: describe it, quote figures with units and note exceptions.",
+  "caption": "A pattern compares groups at one time; a trend follows change over time.",
+  "bytes": 63802
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-interpretation-of-data--02-data-routine.webp",
+  "width": 900,
+  "height": 518,
+  "after": "## A routine for any data item",
+  "alt": "Seven numbered steps: read the title, check the units, check the source and sample, find the overall pattern or trend, quote figures, note exceptions, and ask what the data cannot show.",
+  "caption": "Check what the data measure before describing them, and what they miss before concluding.",
+  "bytes": 95346
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-interpretation-of-data--03-percentage-points.webp",
+  "width": 900,
+  "height": 608,
+  "after": "## Calculations you should be able to do",
+  "alt": "Line chart of a fictional household survey, 2005 to 2025. Couples with dependent children fell from 38% to 30%, one-person households rose from 28% to 31%, other households went from 25% to 27%, and lone-parent households rose from 9% to 12%. The lone-parent rise is 3 percentage points, which is a 33% increase.",
+  "caption": "A rise from 9% to 12% is 3 percentage points but a 33% increase.",
+  "bytes": 96826
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-interpretation-of-data--04-rates.webp",
+  "width": 900,
+  "height": 664,
+  "after": "## Calculations you should be able to do",
+  "alt": "District A has 24,000 pupils and 360 exclusions, a rate of 15 per 1,000. District B has 9,000 pupils and 180 exclusions, a rate of 20 per 1,000. District B had fewer exclusions but a higher rate.",
+  "caption": "A rate lets groups of different sizes be compared fairly.",
+  "bytes": 86632
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-interpretation-of-data--05-mean-median.webp",
+  "width": 900,
+  "height": 560,
+  "after": "## Calculations you should be able to do",
+  "alt": "Eleven people are placed along an income line, most clustered at the low end and two far to the right. The median, the middle person, sits among the cluster; the mean is pulled upwards by the few high earners. Below, definitions of mean, median and mode.",
+  "caption": "A few very high earners pull the mean up, so the median gives a fairer middle.",
+  "bytes": 62538
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-interpretation-of-data--06-worked-example.webp",
+  "width": 900,
+  "height": 665,
+  "after": "## Worked example: a full data answer",
+  "alt": "Line graph of fictional recorded violent incidents per 1,000 residents in Haverford: 18 in 2015, 21 in 2017, 24 in 2019, 19 in 2021, 26 in 2023 and 28 in 2025. Labels mark the first and last values and the 2021 exception. Below: the direction, the exception and a limitation of recorded figures.",
+  "caption": "Give the direction, quote first and last figures, pick out the exception, then explain a limitation.",
+  "bytes": 80836
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-interpretation-of-data--07-eight-traps.webp",
+  "width": 900,
+  "height": 694,
+  "after": "## Traps when reading data",
+  "alt": "Eight cards: numbers versus rates, percentages versus percentage points, truncated axes, missing years, correlation versus causation, small samples, changing definitions, and groups missing from the data, each with a short example.",
+  "caption": "Before trusting a figure, check it against each trap.",
+  "bytes": 129004
+ }
+]

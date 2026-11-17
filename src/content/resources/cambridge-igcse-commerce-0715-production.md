@@ -47,6 +47,11 @@ Section 1.2 of the Cambridge IGCSE Commerce (0715) syllabus looks at how goods a
 
 A useful check: ask what the business **sells**. A raw material points to primary; a manufactured product or building to secondary; a service to tertiary; and a digital or information-based product to quaternary.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--01-sectors-of-production.webp" width="900" height="705" alt="Four rows for the primary, secondary, tertiary and quaternary sectors, each with its features, examples and what it sells: a raw material, a product or building, a service, or a digital or information product." loading="lazy">
+  <figcaption>Ask what the business sells to place it in the right sector.</figcaption>
+</figure>
+
 ## What is specialisation? (1.2.1)
 
 **Specialisation** is concentrating on producing a limited range of goods or services, or on one task within a production process, instead of trying to do everything. The syllabus asks for advantages and disadvantages at three levels, so learn them as a grid.
@@ -58,6 +63,11 @@ A useful check: ask what the business **sells**. A raw material points to primar
 | Country | Produces what it is best placed to make, using its climate, resources or skills; earns export income to buy what it does not make | Depends on imports for other goods; exposed if world demand or price for its main product falls |
 
 Specialisation only works because of **trade**: a specialist must exchange its output for everything else it needs. This links 1.2 back to the interdependence in 1.1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--02-specialisation-grid.webp" width="900" height="730" alt="A grid of advantages and disadvantages of specialisation for an individual, a factory and a country, such as skill and speed against boring work, lower unit cost against dependence on one product, and export income against dependence on imports." loading="lazy">
+  <figcaption>Use the level the question names: individual, factory or country.</figcaption>
+</figure>
 
 ## In-house or outsourced production? (1.2.2)
 
@@ -72,6 +82,11 @@ Specialisation only works because of **trade**: a specialist must exchange its o
 
 Judgement depends on the situation. A firm with a secret formula, or one whose brand depends on quality, has strong reasons to keep production in-house. A small firm launching a new product with little capital may gain more from outsourcing. Section 2.2 returns to the growth of outsourcing through contract manufacturing and logistics.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--03-in-house-vs-outsourced.webp" width="900" height="605" alt="Two panels. In-house production gives control of quality and information, flexibility and independence. Outsourced production gives expertise, cost savings, no machinery or training costs and focus on core activities. Below, a secret formula points to in-house; a small firm with little capital points to outsourcing." loading="lazy">
+  <figcaption>The right choice depends on the business: control versus expertise and cost.</figcaption>
+</figure>
+
 ## What is a global supply chain? (1.2.3)
 
 A **supply chain** is the sequence of businesses and activities that turn raw materials into a product and deliver it to the consumer.
@@ -80,6 +95,11 @@ A **supply chain** is the sequence of businesses and activities that turn raw ma
 - A **global supply chain** has stages in more than one country, for example cotton grown in one country, spun and sewn in another, and sold in a third.
 
 Topic 3 (section 3.2) develops how global supply chains are managed and what risks they face.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--04-domestic-vs-global-chain.webp" width="900" height="615" alt="Top: a domestic supply chain with a dairy farm, local processor and local shops all inside one country. Bottom: a global supply chain with cotton grown in one country, spun and sewn in a second, and sold in a third." loading="lazy">
+  <figcaption>The difference is whether the stages stay in one country or cross borders.</figcaption>
+</figure>
 
 ## Who are the intermediaries in a supply chain? (1.2.4)
 
@@ -95,6 +115,11 @@ An **intermediary** is a business that stands between the producer and the consu
 - **Agent**: a business or person that arranges sales or purchases in another country on behalf of a producer or buyer (the principal). The agent does not own the goods and is usually paid **commission**. An agent's knowledge of the local market, language and laws helps an exporter enter a new country.
 - **Factor**: an agent that is given **possession** of the goods and sells them on the principal's behalf, usually in its own name, also for commission. Holding the goods lets the factor deliver quickly to local buyers. Do not confuse this with debt factoring, a source of finance in Topic 5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--05-intermediaries.webp" width="900" height="690" alt="Home trade runs producer, wholesaler, retailer, consumer, with the wholesaler breaking bulk. International trade adds an agent, who arranges sales without holding the goods, and a factor, who has possession of the goods and sells them in its own name; both are paid commission." loading="lazy">
+  <figcaption>An agent never holds the goods; a factor holds them but still does not own them.</figcaption>
+</figure>
+
 ## How does digital technology affect production? (1.2.5)
 
 **Automation** means using machines and computer-controlled systems, such as **robotics**, to carry out tasks once done by people.
@@ -106,6 +131,11 @@ An **intermediary** is a business that stands between the producer and the consu
 
 - Positive impacts: orders are placed instantly when stock runs low; fewer errors from retyping; lower paperwork costs; easier to hold less stock because supplies arrive when needed.
 - Negative impacts: set-up cost and the need for compatible systems; dependence on networks; risk of cyber attack or data errors spreading automatically.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--06-automation-and-edi.webp" width="900" height="725" alt="Top: with EDI, a buyer’s system sends an order automatically to the supplier’s system when stock runs low, and the invoice comes back electronically. Below, positive and negative impacts of automation and of EDI are listed with ticks and crosses." loading="lazy">
+  <figcaption>Both technologies cut costs and errors, but cost money to set up and create new dependencies.</figcaption>
+</figure>
 
 ## Which costs are involved in trade, commerce and production? (1.2.6)
 
@@ -141,6 +171,11 @@ The syllabus names ten types of cost:
 Cost per kettle = 5,950 / 400 = **$14.875**, about **$14.88**.
 
 Method points: work out each percentage on the correct base (duty on the value of the goods, commission on the sales value), show each line, and give the unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--07-kettle-costs.webp" width="900" height="690" alt="A cost table for 400 imported kettles: inventory 4,800, customs duty 240 (5% of the goods’ value), transport 350, packaging 200, warehousing 60 and commission 300 (3% of sales of 10,000). Total 5,950, or $14.875 per kettle." loading="lazy">
+  <figcaption>Duty is on the value of the goods and commission on the sales value; the total is $5,950, about $14.88 a kettle.</figcaption>
+</figure>
 
 ## What are the common mistakes in 1.2?
 

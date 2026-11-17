@@ -29,6 +29,11 @@ Sub-topic 3.5 of Cambridge IGCSE Environmental Management (0680) follows a clear
 
 Two properties explain most impacts and most clean-up methods. Crude oil is **less dense than water**, so most of it floats and spreads into a thin slick driven by wind and currents. It is also **sticky and does not mix with water**, so it coats anything it touches. Some lighter parts evaporate in the first days, and waves can whip the rest into a thick emulsion or break it into droplets. Heavier residues may sink or wash ashore as tar.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--01-fate-of-spilled-oil.webp" width="900" height="830" alt="A cross-section, not to scale. Oil from a tanker floats and spreads as a thin slick driven by wind and currents; lighter parts evaporate in the first days; waves make an emulsion or break it into droplets; heavier residues sink; some washes ashore as tar." loading="lazy">
+  <figcaption>Oil floats, spreads, evaporates, breaks up and sinks or strands: its properties explain the impacts.</figcaption>
+</figure>
+
 ## Causes (3.5.1)
 
 | Cause | How oil escapes |
@@ -40,6 +45,11 @@ Two properties explain most impacts and most clean-up methods. Crude oil is **le
 | Refineries | Leaks, spills and oily wastewater from coastal refineries reach the sea |
 
 Large tanker accidents and platform blowouts make headlines, but frequent smaller releases from shipping, tank cleaning and land-based sources also add a great deal of oil over time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--02-five-causes.webp" width="900" height="905" alt="A coastal scene, not to scale, with five numbered sources: oil extraction at a sea platform and at a land oilfield that drains into a river; a leaking pipeline on the sea bed; a tanker aground on rocks; a ship pumping oily tank-washing water overboard; and a coastal refinery. Frequent small releases add a great deal of oil over time." loading="lazy">
+  <figcaption>Oil reaches the sea from extraction, pipelines, shipping, tank cleaning and refineries.</figcaption>
+</figure>
 
 ## Impacts (3.5.2)
 
@@ -55,12 +65,27 @@ The syllabus limits impacts to effects on seven groups. Knowledge of specific sp
 
 A useful exam habit: for each group, give the **physical** effect (coating, smothering) and the **toxic** effect (poisoning, contamination), then a **knock-on** effect on food chains or people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--03-seven-groups-impacts.webp" width="900" height="815" alt="A grid of the seven syllabus groups with a physical, a toxic or lethal, and a knock-on effect for each: birds, marine mammals, fish, crustaceans, seaweeds, coral reefs and beaches. For example, oil mats birds’ feathers, is swallowed during preening and stops oiled eggs hatching." loading="lazy">
+  <figcaption>Physical, toxic, knock-on: three effects to give for each of the seven groups.</figcaption>
+</figure>
+
 ## Prevention strategies (3.5.3)
 
 - **MARPOL (International Convention for the Prevention of Pollution from Ships)**: an international agreement, made through the International Maritime Organization, that sets rules on what ships may discharge at sea. For oil it restricts discharges, requires oily waste to be kept on board and unloaded at port facilities, and requires records to be kept so inspectors can check.
 - **Double-hulled oil tankers**: a second, inner hull with a gap between it and the outer hull. If the outer hull is holed in a collision or grounding, the inner hull keeps the oil contained.
 - **Risk assessments**: identifying what could go wrong, how likely it is and how serious it would be, before drilling, building a pipeline or planning a shipping route, so precautions are put in place.
 - **Regular maintenance**: inspecting and repairing pipelines, platforms, valves and ships so corrosion and equipment failure are caught before they cause leaks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--04-double-hull-marpol.webp" width="900" height="725" alt="Two tanker cross-sections, each holed in the outer hull. In the single-hulled tanker oil escapes; in the double-hulled tanker the inner hull, separated by a gap, keeps the oil in. Below, MARPOL is shown as an international convention that restricts discharges, requires oily waste to be kept on board and unloaded at port, and requires records for inspectors." loading="lazy">
+  <figcaption>A double hull reduces the oil released if the outer hull is holed; MARPOL controls what ships discharge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--13-wa-oil-prevent-minimise.webp" width="900" height="900" alt="A sea scene shows a double-hulled tanker, an oil slick held by a floating boom, and a skimmer boat. Two lists give the lesson strategies: prevention (MARPOL, double-hulled tankers, risk assessments, regular maintenance) and minimising impact (improved navigation, booms and sorbents, detergent sprays, skimmers, controlled burning)." loading="lazy">
+  <figcaption>Prevention strategies are separate from strategies for minimising the impact of a spill.</figcaption>
+</figure>
 
 ## Strategies to minimise impacts (3.5.4)
 
@@ -74,6 +99,11 @@ A useful exam habit: for each group, give the **physical** effect (coating, smot
 
 Notice that three issues recur in the limitations column: weather, toxicity and waste. They give you ready-made limitations for a "discuss" question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--05-minimise-limitations.webp" width="900" height="815" alt="A grid of five strategies against four recurring limitations. Improved navigation is limited by cost and human error; booms and sorbents by weather and oily waste; detergent sprays by toxicity; skimmers by rough water and slowness; controlled burning by the need for calm conditions and by smoke and carbon dioxide." loading="lazy">
+  <figcaption>Weather, toxicity and waste recur as the limitations of clean-up methods.</figcaption>
+</figure>
+
 ## Worked example: matching a strategy to a scenario
 
 Scenario: a tanker runs aground in a storm 5 km from a coral reef and a tourist beach. Rough seas are expected for three days.
@@ -84,6 +114,11 @@ Scenario: a tanker runs aground in a storm 5 km from a coral reef and a tourist 
 
 An answer like this scores because each choice is justified by the conditions given in the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--06-scenario-plan.webp" width="900" height="650" alt="A schematic map: a tanker aground in a storm 5 km from a coral reef and a tourist beach, with rough seas for three days. Booms, skimmers and burning are ruled out by the weather; detergent sprays would push oil towards the reef; the plan is booms at the beach and reef entrance when possible, sorbents on the shore and skimming once calm." loading="lazy">
+  <figcaption>Let the weather and location in the question decide which methods you choose.</figcaption>
+</figure>
+
 ## Worked example: a short calculation
 
 The figures are invented for practice. A clean-up removes 1,800 tonnes of a 6,000-tonne spill by skimming and 900 tonnes by sorbents. What percentage was recovered?
@@ -92,6 +127,11 @@ The figures are invented for practice. A clean-up removes 1,800 tonnes of a 6,00
 2. Percentage = 2,700 / 6,000 × 100 = 45%.
 
 A follow-up "suggest" question might ask where the rest went: evaporation, dispersal into the water, sinking, and stranding on beaches.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--07-recovery-calculation.webp" width="900" height="605" alt="A bar for a 6,000-tonne spill split into 1,800 tonnes skimmed, 900 tonnes taken up by sorbents and 3,300 tonnes not recovered. 2,700 out of 6,000 is 45%. The rest may have evaporated, dispersed into the water, sunk or stranded on beaches." loading="lazy">
+  <figcaption>Skimming and sorbents recovered 2,700 of 6,000 tonnes: 45%.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -52,6 +52,16 @@ The burden is on the state to justify the interference. If any requirement fails
 The list of aims is **exhaustive**. Article 18 adds that restrictions may be applied only for the
 purposes for which they are prescribed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--01-three-requirements.webp" width="900" height="703" alt="A flow chart. An interference with a right under Article 8.1, 10.1 or 11.1 must pass three requirements in turn: in accordance with or prescribed by law, a legitimate aim from the listed aims, and necessary in a democratic society. Failing any one means the right is breached; passing all three means the interference is justified." loading="lazy">
+  <figcaption>All three requirements must be met, and the burden of showing them is on the state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--02-second-paragraphs.webp" width="900" height="723" alt="A table comparing Articles 8.2, 10.2 and 11.2: their opening words and their extra aims (economic well-being for 8.2; territorial integrity, confidential information and the judiciary for 10.2; restrictions on armed forces, police and state administration in 11.2). Five aims are shared by all three, from national security to protection of the rights of others. The list is exhaustive, and Article 18 limits restrictions to their prescribed purposes." loading="lazy">
+  <figcaption>Five aims are common to all three; each paragraph then adds its own.</figcaption>
+</figure>
+
 ## Requirement 1: prescribed by law
 
 The measure must have a basis in domestic law, and the law must have a certain **quality**. In **Sunday
@@ -65,6 +75,11 @@ Quinton v United Kingdom (2010)** the stop and search power in sections 44 to 47
 2000, which needed no reasonable suspicion, was not "in accordance with the law" under Article 8 because
 it was insufficiently circumscribed and lacked adequate safeguards against abuse. The power was later
 repealed and replaced by a narrower one under the Protection of Freedoms Act 2012.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--03-prescribed-by-law.webp" width="900" height="652" alt="Sunday Times v UK requires a basis in domestic law that is adequately accessible and precise enough for a citizen to regulate their conduct; common law can satisfy this. The requirement fails with no legal basis (Malone v UK, telephone tapping) or a law too broad to protect against arbitrary use (Gillan and Quinton v UK, stop and search without reasonable suspicion), which led to a narrower power under the Protection of Freedoms Act 2012." loading="lazy">
+  <figcaption>The law must exist, be accessible and be precise enough to guard against arbitrary use.</figcaption>
+</figure>
 
 ## Requirement 2: legitimate aim
 
@@ -92,6 +107,16 @@ four questions:
 
 Question 3 is often where a ban fails: conditions, a warning or a narrower order may achieve the same aim.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--04-necessary-scale.webp" width="900" height="546" alt="A scale from stricter to looser. Handyside v UK placed “necessary” between “indispensable” and “reasonable” or “useful”: it implies a pressing social need. The state’s reasons must be relevant and sufficient and the interference proportionate to the aim." loading="lazy">
+  <figcaption>“Necessary” is less than indispensable but more than useful.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--05-bank-mellat.webp" width="900" height="486" alt="Four numbered questions from Bank Mellat v HM Treasury: sufficiently important objective; rational connection; whether a less intrusive measure could have been used, highlighted as the usual point where a ban fails; and whether the measure strikes a fair balance." loading="lazy">
+  <figcaption>Question 3, a less intrusive alternative, is where most measures fail.</figcaption>
+</figure>
+
 ## The margin of appreciation
 
 The European Court allows states a **margin of appreciation**, recognising that national authorities are
@@ -104,6 +129,11 @@ often better placed to judge local needs. Its width varies.
 
 The margin is an international doctrine. Domestic courts do not apply it as such, but they give weight to
 Parliament's judgment in areas of social policy, sometimes called a **discretionary area of judgment**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--06-margin-of-appreciation.webp" width="900" height="619" alt="A wedge from wide to narrow. The margin is wide where there is no European consensus or the issue is moral, social or economic (Handyside; A, B and C v Ireland; Hatton v UK) and narrow for intimate private life (Dudgeon v UK) or political speech. English courts instead use a discretionary area of judgment." loading="lazy">
+  <figcaption>No consensus means a wide margin; core identity or political speech means a narrow one.</figcaption>
+</figure>
 
 ## General limits on restrictions
 
@@ -122,6 +152,11 @@ their values conflict, there must be an **intense focus on the comparative impor
 rights claimed; the justifications for interfering with each must be considered; and the
 proportionality test must be applied to each. Campbell v MGN (2004) applied this balancing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--07-re-s-balance.webp" width="900" height="622" alt="A balance with Article 8 (privacy) on one side and Article 10 (the press) on the other, level because neither has automatic priority. Below, Lord Steyn’s four propositions from Re S: no precedence, intense focus on comparative importance, consider the justifications for each, and apply proportionality to each. Campbell v MGN applied this." loading="lazy">
+  <figcaption>Privacy and expression are weighed case by case; neither wins automatically.</figcaption>
+</figure>
+
 ## Worked example
 
 *Facts: A city council bans a planned march against a new incinerator, using a power under a local Act,
@@ -138,6 +173,11 @@ Necessary?    Pressing social need: some disruption near a hospital, yes.
 Conclusion:   Likely breach of Article 11, because the ban was
               disproportionate when a condition would have met the aim.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--08-worked-example-march.webp" width="900" height="757" alt="The march scenario worked through in five steps: the right is Article 11.1 and 10.1; the statutory power is likely prescribed by law; the aims are public safety and the rights of patients; the total ban fails the less-intrusive-means question because re-routing was offered; so Article 11 is likely breached." loading="lazy">
+  <figcaption>Take the requirements in order and say which one decides the case.</figcaption>
+</figure>
 
 ## Common mistakes
 

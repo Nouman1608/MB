@@ -51,6 +51,11 @@ The image in a plane mirror is **the same size** as the object, **the same dista
 
 Distance calculations follow from the image rule. A person standing 1.5 m from a mirror is 3.0 m from their image. If they walk 0.5 m towards the mirror, they are 1.0 m from it and 2.0 m from the image: the gap closes by twice the distance walked.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-light-cambridge-igcse-physics--01-plane-mirror.webp" width="900" height="620" alt="Left: a ray strikes a plane mirror at 25° to its surface, so the angle of incidence measured from the normal is 65° and the angle of reflection is also 65°. Right (Extended): the image I of a point O is on the perpendicular line, the same distance d behind the mirror; a dashed line from I to the eye fixes where the real ray reflects." loading="lazy">
+  <figcaption>Measure angles from the normal; the image is as far behind the mirror as the object is in front.</figcaption>
+</figure>
+
 ## Refraction and refractive index
 
 Light changes speed when it crosses a boundary between two materials. Entering a material where it travels more slowly (air to glass, air to water), a ray bends **towards** the normal; leaving it, the ray bends **away** from the normal. A ray travelling along the normal changes speed but not direction. Through a parallel-sided block, the ray that emerges is parallel to the ray that entered, but shifted sideways.
@@ -77,6 +82,16 @@ r = 28.6°   (29° to 2 s.f.)
 speed in plastic = 3.0 × 10⁸ / 1.60 = 1.9 × 10⁸ m/s
 sin c = 1 / n = 1 / 1.60 = 0.625,  so c = 38.7°
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-light-cambridge-igcse-physics--02-refraction-block.webp" width="900" height="640" alt="A ray in air meets a plastic block of refractive index 1.60 at 50° to the normal, bends towards the normal to 28.6° inside, and leaves parallel to its original direction, shifted sideways. Calculations give r = 28.6°, a speed of 1.9 × 10⁸ m/s in the plastic and a critical angle of 38.7°." loading="lazy">
+  <figcaption>Light bends towards the normal entering a slower material and away from it leaving.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-light-cambridge-igcse-physics--03-critical-angle-tir.webp" width="900" height="700" alt="Three semicircular plastic blocks with n = 1.60. A ray inside meeting the flat surface at 25° partly refracts out and partly reflects. At the critical angle, 38.7°, the refracted ray runs along the surface. At 55° there is no refracted ray: total internal reflection. Below, light zigzags along an optical fibre by repeated total internal reflection." loading="lazy">
+  <figcaption>Total internal reflection needs light inside the denser material and an angle above the critical angle.</figcaption>
+</figure>
 
 ## Thin lenses
 
@@ -105,6 +120,21 @@ An object 2.0 cm tall stands 15 cm from a converging lens of focal length 5.0 cm
 
 **Extended only.** A magnifying glass is a single converging lens held so that the object is closer than F. The rays leaving the lens diverge; traced back, they meet behind the object, giving a virtual, upright, enlarged image. A short-sighted eye focuses distant light in front of the retina and is corrected with a diverging lens; a long-sighted eye would focus near light behind the retina and is corrected with a converging lens.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-light-cambridge-igcse-physics--04-lens-real-image.webp" width="900" height="600" alt="Scale ray diagram: a 2.0 cm object 15 cm from a converging lens of focal length 5.0 cm. A ray parallel to the axis refracts through the far principal focus and a ray through the centre goes straight on; they cross 7.5 cm beyond the lens, 1.0 cm below the axis, giving a real, inverted, diminished image." loading="lazy">
+  <figcaption>Two construction rays fix the image: here real, inverted and diminished.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-light-cambridge-igcse-physics--05-magnifying-glass.webp" width="900" height="640" alt="An object between a converging lens and its principal focus. The ray parallel to the axis refracts through the far focus and the ray through the centre goes straight on; the two rays diverge, and traced back as dashed lines they meet behind the object, giving a virtual, upright, enlarged image. Short sight is corrected with a diverging lens and long sight with a converging lens." loading="lazy">
+  <figcaption>Object closer than F: the image is virtual, upright and enlarged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--05-lens-focus.webp" width="900" height="890" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
+  <figcaption>A converging lens brings parallel rays to a focus; a diverging lens spreads them as if from a focus.</figcaption>
+</figure>
+
 ## Dispersion
 
 White light passed through a glass prism splits into a spectrum because each colour refracts by a slightly different amount: violet bends most and red least. This separation is **dispersion**. The seven traditional colours are:
@@ -112,6 +142,11 @@ White light passed through a glass prism splits into a spectrum because each col
 **red, orange, yellow, green, blue, indigo, violet**
 
 In this order frequency **increases** and wavelength **decreases**, so red has the longest wavelength and lowest frequency. **Extended only:** light of a single frequency is called **monochromatic**; a monochromatic beam passed through a prism is refracted but not split.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-light-cambridge-igcse-physics--06-dispersion.webp" width="900" height="700" alt="White light enters a glass prism and leaves as a spectrum: red bends least and violet most, giving red, orange, yellow, green, blue, indigo and violet. From red to violet the frequency increases and the wavelength decreases." loading="lazy">
+  <figcaption>Each colour refracts by a different amount, so white light splits into a spectrum.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -55,6 +55,11 @@ Three cases test whether you understand the "in the direction of the force" part
 - **Carrying a bag along a level corridor:** your upward force on the bag is at right angles to the motion, so it
   does no work on the bag. The bag's gravitational store does not change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-work-and-power--01-when-is-work-done.webp" width="900" height="705" alt="Three cases. Pushing a trolley 15 m with a steady 120 N force does 120 × 15 = 1800 J of work. Holding a bag still does no work on it, because it does not move. Carrying a bag along a level floor does no work on it, because the upward force is at right angles to the motion." loading="lazy">
+  <figcaption>Work needs movement in the direction of the force.</figcaption>
+</figure>
+
 ## Gravitational potential energy and kinetic energy (4.13, 4.14)
 
 `GPE = m × g × h` gives the energy transferred to (or from) an object's gravitational store when its height changes by
@@ -62,6 +67,11 @@ Three cases test whether you understand the "in the direction of the force" part
 
 `KE = ½ × m × v²` depends on the square of the speed: doubling the speed multiplies the kinetic energy by four, while
 doubling the mass only doubles it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-work-and-power--02-ke-speed-squared.webp" width="900" height="640" alt="Bars comparing kinetic energy: starting with mass m and speed v as one unit, doubling the mass gives twice the KE, while doubling the speed gives four times the KE, because KE = ½ × m × v²." loading="lazy">
+  <figcaption>Double the speed and the kinetic energy goes up four times.</figcaption>
+</figure>
 
 ## Conservation links GPE, KE and work (4.15)
 
@@ -118,6 +128,21 @@ d = 112 500 / 4500 = 25 m
 Because KE depends on v², doubling the speed to 30 m/s would make the braking distance four times longer (100 m)
 with the same force.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-work-and-power--03-falling-and-rising.webp" width="900" height="790" alt="A ball dropped from 5.0 m transfers GPE to KE: g × h = ½ × v² gives 10 × 5.0 = 0.5 × v², v² = 100, so v = 10 m/s. A ball thrown up at 8.0 m/s rises until its KE is all GPE: h = 8.0² / 20 = 3.2 m. Mass cancels when air resistance is ignored." loading="lazy">
+  <figcaption>Loss in GPE equals gain in KE, and the mass cancels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-work-and-power--04-roller-coaster.webp" width="900" height="740" alt="A 500 kg roller-coaster car starts at rest at the top of a 20 m drop and reaches 18 m/s at the bottom of a 250 m track. GPE lost is 100 000 J; KE gained is 81 000 J; so 19 000 J of work is done against friction, transferred to the thermal store. The average friction force is 19 000 / 250 = 76 N." loading="lazy">
+  <figcaption>GPE lost minus KE gained gives the work done against friction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-work-and-power--05-braking-distance.webp" width="900" height="670" alt="A 1000 kg car at 15 m/s has KE = 112 500 J. The brakes do this much work, so with a 4500 N force the braking distance is 112 500 / 4500 = 25 m. Doubling the speed to 30 m/s with the same force gives four times the distance, 100 m, shown by bars to scale." loading="lazy">
+  <figcaption>Braking distance grows with speed squared: twice as fast, four times as far.</figcaption>
+</figure>
+
 ## Power is a rate (4.16, 4.17)
 
 Power is the **rate** of transferring energy, or the rate of doing work: the energy transferred each second. One watt
@@ -143,6 +168,11 @@ work done per minute = 300 × 10 × 8.0 = 24 000 J
 P = 24 000 / 60 = 400 W
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-work-and-power--06-stairs-power.webp" width="900" height="775" alt="A 60 kg student runs up stairs with a vertical height of 4.5 m in 5.4 s. Work against gravity = 60 × 10 × 4.5 = 2700 J, so power = 2700 / 5.4 = 500 W. To measure it, use a bathroom scale for mass, a tape measure for the vertical height and a stopwatch for the time." loading="lazy">
+  <figcaption>Power is work done divided by time: 2700 J in 5.4 s is 500 W.</figcaption>
+</figure>
+
 ## Choosing the right equation
 
 | The question gives you... | Use |
@@ -153,6 +183,11 @@ P = 24 000 / 60 = 400 W
 | energy or work and a time | `P = W / t` |
 | a fall or a rise, and asks for a speed or height | `m × g × h = ½ × m × v²` |
 | a speed lost to braking or friction over a distance | `F × d = ½ × m × v²` |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-work-and-power--07-choose-equation.webp" width="900" height="640" alt="A guide: force and distance in its direction, use W = F × d; mass and change in height, GPE = m × g × h; mass and speed, KE = ½ × m × v²; energy and time, P = W / t; a fall or rise asking for speed or height, m × g × h = ½ × m × v²; speed lost to braking or friction over a distance, F × d = ½ × m × v²." loading="lazy">
+  <figcaption>Match what the question gives you to the equation that uses it.</figcaption>
+</figure>
 
 ## Common mistakes
 

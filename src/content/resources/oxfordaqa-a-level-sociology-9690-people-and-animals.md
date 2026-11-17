@@ -34,12 +34,27 @@ Clifton Bryant's article "The Zoological Connection: Animal-Related Human Behavi
 
 Arnold Arluke and Clinton Sanders (*Regarding Animals*, 1996) developed this with the **sociozoologic scale**: societies rank animals by how well they fit human purposes. "Good" animals, such as pets and useful "tools" like working dogs, are protected; "bad" animals, such as "vermin" that cross boundaries into homes, can be killed with little concern. The same species can move up or down the scale in different settings: a rat is vermin in a kitchen, a tool in a laboratory and a pet in a child's bedroom. This shows that the status of animals is socially constructed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-animals--01-zoological-connection.webp" width="900" height="677" alt="Animals at the centre, linked to work, crime, family life, religion, leisure and social status, following Bryant’s argument that animals appear in almost every area sociologists study." loading="lazy">
+  <figcaption>Ignoring animals leaves gaps in the study of human behaviour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-animals--02-sociozoologic-scale.webp" width="900" height="647" alt="A vertical scale from good animals that are protected, such as pets and working dogs, to bad animals such as vermin that are killed. The rat appears as a pet in a bedroom, a tool in a laboratory and vermin in a kitchen." loading="lazy">
+  <figcaption>The same species can be pet, tool or vermin depending on setting.</figcaption>
+</figure>
+
 ## Views of humans and animals
 
 - **Animals as machines**: the philosopher René Descartes (seventeenth century) argued that animals were automata without minds, which was later used to justify their use without moral concern.
 - **Suffering matters**: Jeremy Bentham (1789) wrote that the question is not whether animals can reason or talk, but "Can they suffer?". This underpins welfare and Singer's utilitarian case.
 - **Speciesism**: Richard Ryder coined the term in 1970 for discrimination based on species membership; Singer made it widely known.
 - **Cultural and religious diversity**: many religious traditions set rules for the treatment and slaughter of animals, and some regard certain animals as sacred. Answers should avoid presenting the Western "pet or meat" division as universal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-animals--03-views-of-animals.webp" width="900" height="545" alt="A timeline from Descartes’s view of animals as machines, through Bentham’s question “Can they suffer?” in 1789, to Ryder’s term speciesism in 1970, with a reminder that religious traditions vary." loading="lazy">
+  <figcaption>Thinking moved from animals as machines to animals as beings that suffer.</figcaption>
+</figure>
 
 ## Welfare, cruelty and rights
 
@@ -49,6 +64,11 @@ Arnold Arluke and Clinton Sanders (*Regarding Animals*, 1996) developed this wit
 
 Evaluation: welfare reforms can make the use of animals more acceptable and so entrench it, which is why rights theorists criticise them; welfarists reply that reforms reduce suffering now.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-animals--04-welfare-rights.webp" width="900" height="582" alt="The welfare view and the Five Freedoms from the Brambell Report set against the rights view that rejects any use of animals as means. A note shows cruelty is socially defined." loading="lazy">
+  <figcaption>Welfare reduces suffering now; rights theorists say it entrenches use.</figcaption>
+</figure>
+
 ## Domestication, livestock and slaughter
 
 Domestication turned some wild species into working animals and food over thousands of years, beginning with dogs. Today, the scale of industrial livestock production is the central sociological issue.
@@ -56,6 +76,11 @@ Domestication turned some wild species into working animals and food over thousa
 - Barbara Noske (*Humans and Other Animals*, 1989) used the term **animal-industrial complex** for the network of farming, processing, pharmaceutical and retail interests that treats animals as raw material.
 - Norbert Elias (*The Civilizing Process*, 1939) noted that carving whole animals at the table moved "behind the scenes" as European manners changed, so meat was separated from the living animal.
 - Timothy Pachirat (*Every Twelve Seconds*, 2011), who worked undercover in a US slaughterhouse, described a **"politics of sight"**: killing is divided into many tasks and hidden from consumers and even most workers, which makes it socially acceptable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-animals--05-hidden-slaughter.webp" width="900" height="480" alt="A chain from living animal through hidden killing to meat separated from the animal, explained by Noske’s animal-industrial complex, Elias’s civilizing process and Pachirat’s politics of sight." loading="lazy">
+  <figcaption>Industrial meat depends on hiding the killing.</figcaption>
+</figure>
 
 ## Pets and therapeutic use
 
@@ -67,6 +92,11 @@ James Serpell (*In the Company of Animals*, 1986) examined why people keep compa
 - **Drivers**: deforestation, wildlife trade, intensive farming that crowds animals together, and urban growth into forest edges.
 - **Antimicrobial resistance**: heavy use of antibiotics in livestock contributes to resistant bacteria that threaten human medicine.
 - **One Health**: an approach used by international health bodies that treats human, animal and environmental health as linked.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-animals--06-one-health.webp" width="900" height="712" alt="The One Health triangle links human, animal and environmental health. Cards list drivers of zoonoses such as deforestation and wildlife trade, and cases: Nipah, Ebola and antimicrobial resistance." loading="lazy">
+  <figcaption>Zoonoses arise where people, livestock and wildlife meet.</figcaption>
+</figure>
 
 ## The Columbian Exchange in depth
 
@@ -85,9 +115,19 @@ Crosby later developed his argument in *Ecological Imperialism* (1986): European
 - **Zoos and reintroduction**: the Arabian oryx, extinct in the wild by the early 1970s, was bred in captivity and reintroduced to Oman in 1982. Zoos present this as proof they are "arks"; critics argue that only a small share of zoo species are in such programmes.
 - **De-extinction**: in 2003 scientists cloned the Pyrenean ibex (bucardo), extinct since 2000; the kid died minutes after birth. Critics argue de-extinction diverts money from protecting living species and raises the question of whether a cloned or gene-edited animal is the same species.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-animals--07-conservation-debates.webp" width="900" height="581" alt="Three responses to biodiversity loss compared with their criticisms: protected areas and CITES versus Brockington’s fortress conservation, zoo reintroduction of the Arabian oryx, and de-extinction of the Pyrenean ibex." loading="lazy">
+  <figcaption>Each way of saving species has costs and critics.</figcaption>
+</figure>
+
 ## Biotechnology, genomics and experimentation
 
 Dolly the sheep, cloned in 1996 at the Roslin Institute in Scotland, showed that adult cells could be used to clone mammals. In 2015 US regulators approved a genetically modified salmon for food. Gene-editing tools now allow precise changes to animal genomes. For experimentation, William Russell and Rex Burch (1959) set out the **3Rs**: replace animals where possible, reduce numbers, refine methods to reduce suffering. The European Union banned the marketing of cosmetics tested on animals from 2013.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-animals--08-three-rs.webp" width="900" height="468" alt="Russell and Burch’s 3Rs: replace, reduce and refine. Below, Dolly the sheep in 1996, the EU cosmetics testing ban from 2013 and approval of genetically modified salmon in 2015." loading="lazy">
+  <figcaption>Replace, reduce, refine: the rules for animal experiments.</figcaption>
+</figure>
 
 ## Annotated model answer
 

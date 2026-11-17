@@ -49,6 +49,11 @@ have three features that answers should use:
 - **Multiple and changing**: people hold several identities at once, and their importance shifts
   with context and over time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--01-identity.webp" width="900" height="454" alt="Individual identity, what makes a person distinctive, set against collective identity, belonging to a group, with three features: identities are socially constructed, relational, and multiple and changing." loading="lazy">
+  <figcaption>Identities are built socially, defined against others and always shifting.</figcaption>
+</figure>
+
 ## The seven bases of identity
 
 | Basis | Key idea | Useful sociology |
@@ -64,6 +69,11 @@ have three features that answers should use:
 A good exam habit is to say how each identity is **constructed** (through which agencies) and how it
 can **change**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--02-seven-bases.webp" width="900" height="891" alt="A grid of the seven bases of identity, age, gender, ethnicity, class, religion, disability and nationality, each with its key idea and useful sociology such as Mannheim, Butler, Fanon, Savage, Oliver, Anderson and Billig." loading="lazy">
+  <figcaption>For each basis, say how it is constructed and how it changes.</figcaption>
+</figure>
+
 ## Social change and identities
 
 ### Gender identities: masculinity and femininity
@@ -76,6 +86,11 @@ loss of manual jobs that once underpinned male breadwinner identities. Femininit
 diversified as women's education and employment have expanded, although expectations about
 appearance and care persist, and social media can intensify pressure over bodies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--03-gender-identities.webp" width="900" height="485" alt="Connell’s hegemonic masculinity, Mac an Ghaill’s crisis of masculinity among young working-class men, and diversifying femininities with persisting pressures over appearance and care." loading="lazy">
+  <figcaption>Gender identities have widened, but dominant ideals and pressures persist.</figcaption>
+</figure>
+
 ### Hybrid ethnic identities and diasporas
 
 A **hybrid identity** combines elements of more than one culture. A **diaspora** is a population
@@ -87,6 +102,11 @@ fashion and food. Robin Cohen's *Global Diasporas* (1997) classified diasporas, 
 victim, labour, trade or imperial diasporas. (Robin Cohen is a different sociologist from Stanley
 Cohen, who is named in the specification for his work on moral panics and denial.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--04-hybrid-identity.webp" width="900" height="653" alt="Two overlapping circles, heritage culture and culture of settlement, with hybrid identity in the overlap. Cards summarise Hall’s view of diaspora identity as becoming and Robin Cohen’s types of diaspora." loading="lazy">
+  <figcaption>Hybrid identities combine cultures and keep being reworked.</figcaption>
+</figure>
+
 ### Online identities
 
 Social media and virtual communities allow people to create and manage identities. Goffman's
@@ -97,6 +117,11 @@ communities can give marginalised or isolated people collective identity and sup
 data to predict and shape users' behaviour for profit, so online identities are formed inside
 systems designed by corporations. Algorithms that reward certain content can also narrow the
 identities people present.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--05-online-identity.webp" width="900" height="399" alt="Goffman’s impression management, with users performing a front-stage self and finding support in online communities, set against Zuboff’s argument that platforms harvest data and shape identities for profit." loading="lazy">
+  <figcaption>Users perform identities online, but inside systems built for profit.</figcaption>
+</figure>
 
 ### Consumption and globalisation
 
@@ -111,6 +136,11 @@ defensive reassertions of local, national or religious identities.
 sociologists reply that class, gender, ethnicity and disability still constrain which identities
 are available and how they are judged. Consumption-based identity depends on money, so poorer groups
 have fewer choices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--06-choice-structure.webp" width="900" height="631" alt="Bauman, Giddens and postmodernists see identity becoming chosen through consumption and globalisation; structural sociologists argue class, gender, ethnicity, disability and money still constrain it. A plan applies this to whether class still matters." loading="lazy">
+  <figcaption>Identities feel chosen, but structures and money limit the choices.</figcaption>
+</figure>
 
 ## Worked example: annotated 20-mark plan
 

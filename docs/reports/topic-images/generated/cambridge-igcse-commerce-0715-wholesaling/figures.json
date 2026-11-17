@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-igcse-commerce-0715-wholesaling--01-chain-of-distribution.webp",
+  "width": 900,
+  "height": 570,
+  "after": "## Where does the wholesaler sit in the chain?",
+  "alt": "The traditional chain of distribution runs manufacturer, wholesaler, retailer, consumer. The wholesaler buys lorry loads and sells cases or cartons, mostly to retailers but also to hotels, restaurants, schools and other businesses.",
+  "caption": "The wholesaler is the link between manufacturers and retailers in home trade.",
+  "bytes": 65612
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-wholesaling--02-wholesaler-functions.webp",
+  "width": 900,
+  "height": 570,
+  "after": "## What functions and services does a wholesaler provide?",
+  "alt": "Nine tiles: breaking bulk, storage, bearing risk, assortment, transport and delivery, credit, advice and information, packing and labelling, and price stability, each with a one-line description.",
+  "caption": "Breaking bulk is the core function; the other eight add services for both sides.",
+  "bytes": 97650
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-wholesaling--03-benefits-both-sides.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## Why is the wholesaler important to the retailer?",
+  "alt": "The wholesaler in the centre helps two sides. The manufacturer gets fewer, larger orders, saved storage, continuous production, transferred risk and market information. The retailer gets small quantities, wide choice, less storage, credit, and delivery with advice.",
+  "caption": "The same wholesaler gives different benefits to the manufacturer and the retailer.",
+  "bytes": 101068
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-wholesaling--04-bypassing-wholesaler.webp",
+  "width": 900,
+  "height": 665,
+  "after": "## Why do some businesses bypass the wholesaler?",
+  "alt": "Four ways the wholesaler is bypassed: large retailers buying direct, manufacturers selling direct, ecommerce, and perishable or made-to-order goods. Below, breaking bulk, storing and delivering still have to be done by someone.",
+  "caption": "Cutting out the wholesaler moves its functions and costs to someone else.",
+  "bytes": 92630
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-wholesaling--05-cafe-cash-and-carry.webp",
+  "width": 900,
+  "height": 575,
+  "after": "## Worked example: delivered wholesale or cash and carry? (invented figures)",
+  "alt": "Two options for 40 cases. Delivered: 40 × $18.00 = $720, paid in 30 days. Cash and carry: 40 × $16.50 = $660 plus $35 to collect = $695, paid today. Cash and carry saves $25 but loses the credit.",
+  "caption": "Cash and carry is $25 cheaper, but the delivered wholesaler gives a month to pay (invented figures).",
+  "bytes": 79566
+ }
+]

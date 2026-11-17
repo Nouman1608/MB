@@ -1,0 +1,56 @@
+[
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-structured-programming--01-module-anatomy.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## The structured approach in one paragraph",
+  "alt": "A module carries out one clearly defined task. Data goes in through parameters and the result comes out as a return value; working data is kept in local variables that nothing else can see or change; and the interface is documented. The main program becomes a short sequence of calls to modules.",
+  "caption": "Modules with one task, parameters in, a return value out, local variables inside and a documented interface.",
+  "bytes": 61894
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-structured-programming--02-library-structure-chart.webp",
+  "width": 900,
+  "height": 560,
+  "after": "## Modularised programming",
+  "alt": "A structure chart. The main program shows a menu and calls LoanBook, ReturnBook or ShowOverdue. LoanBook uses IsMemberValid and IsBookAvailable, which return True or False; ReturnBook uses DaysLate, which returns an integer, and Fine, which returns a real.",
+  "caption": "Decomposition: each sub-problem becomes a small module with one job.",
+  "bytes": 70370
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-structured-programming--03-documented-interface.webp",
+  "width": 900,
+  "height": 612,
+  "after": "## Interfaces",
+  "alt": "The comment block for the Fine subroutine gives its name, what it does, its parameter daysLate (integer, days after the due date) and its return value (real, the fine in dollars, 0.0 if not late). Treated as a black box, Fine(8) returns 2.0 without the caller reading its code.",
+  "caption": "The interface tells a caller everything needed to use a module without reading its code.",
+  "bytes": 79340
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-structured-programming--04-local-variables.webp",
+  "width": 900,
+  "height": 680,
+  "after": "## Local variables",
+  "alt": "The main program and SumArray each have their own variable called total; SumArray’s total and i are local and are discarded when it finishes, so they do not interfere. Below, if subroutines A and B share one program-wide counter i and A calls B inside its loop, B changes i and breaks A’s loop.",
+  "caption": "Local variables stop one module accidentally changing another module’s data.",
+  "bytes": 80624
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-structured-programming--05-restructuring-marks.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## Worked example: restructuring a program",
+  "alt": "Before, input checking, adding and averaging are mixed in one block. After, input checking lives in GetMark, which asks until a mark from 0 to 100 is entered and returns it, and Mean returns total / count; the main program just loops NumMarks times adding GetMark() and outputs Mean(sum, NumMarks). GetMark can be tested alone with −1, 0, 100 and 101.",
+  "caption": "Pull each job into its own module and the main program becomes a readable plan.",
+  "bytes": 110800
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-structured-programming--06-features-to-advantages.webp",
+  "width": 900,
+  "height": 668,
+  "after": "## Advantages of the structured approach",
+  "alt": "Three features linked to six advantages. Modules with one job make a program easier to understand, easier to test and debug, and suit team development. Documented interfaces make it easier to maintain, allow reuse and let a team rely on agreed interfaces. Local variables mean fewer side effects.",
+  "caption": "For each advantage, say which feature causes it and what it allows or prevents.",
+  "bytes": 94386
+ }
+]

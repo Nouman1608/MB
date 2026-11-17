@@ -42,6 +42,16 @@ The specification asks you to relate each **characteristic human response** -- f
 
 **Perception** sits behind all of these. Its **economic** determinants include income, insurance and the cost of moving; its **cultural** determinants include religious belief, community memory of past events and trust in authorities. A farmer on a fertile volcanic slope may perceive the volcano as a benefit as much as a threat, which explains why people return to hazardous land after an eruption.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--01-properties-steer-responses.webp" width="900" height="591" alt="Six human responses (fatalism, prediction, adjustment, mitigation, management, risk-sharing) above a table explaining how incidence, intensity, magnitude, distribution and level of development each steer which response is chosen." loading="lazy">
+  <figcaption>Link each response to a hazard property, not just a list.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--02-hazard-perception.webp" width="900" height="539" alt="Hazard perception in the centre, shaped by economic determinants (income, insurance, the cost of moving) and cultural determinants (religious belief, community memory, trust in authorities). A note gives the example of a farmer on a fertile volcanic slope." loading="lazy">
+  <figcaption>Economic and cultural factors shape how people perceive, and so respond to, a hazard.</figcaption>
+</figure>
+
 ## Using the Park model and the management cycle
 
 The **Park model** plots quality of life (or level of normality) against time. A strong answer does more than name the phases of relief, rehabilitation and reconstruction; it reads the *shape* of the curve:
@@ -54,6 +64,16 @@ The **Park model** plots quality of life (or level of normality) against time. A
 
 The **hazard management cycle** links four stages -- **preparedness, response, recovery, mitigation** -- so that lessons from one event shape preparation for the next. The two models work together: the Park model describes what happens to one community after one event, while the cycle describes how management should improve between events. In an evaluation, argue that a place "moved round the cycle" when, for example, rebuilding included new building codes, which is mitigation for the next event.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--03-park-model.webp" width="900" height="800" alt="An illustrative Park model curve of quality of life against time: a small pre-event dip, a steep fall at the hazard event, then relief, rehabilitation and reconstruction phases, ending above the pre-event level. Five numbered notes explain what the depth of the fall, length of relief, slope of recovery, end level and pre-event dip each show." loading="lazy">
+  <figcaption>Read the curve's depth, length, slope and end level, not just the phase names.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--04-management-cycle.webp" width="900" height="536" alt="A cycle of four stages, preparedness, response, recovery and mitigation, with arrows running round. Beside it, the Park model describes one community after one event while the cycle describes improvement between events; rebuilding with new building codes counts as mitigation for the next event." loading="lazy">
+  <figcaption>The cycle turns recovery into preparation for the next event.</figcaption>
+</figure>
+
 ## Describing hazard patterns in the specification's terms
 
 For volcanic, seismic and storm hazards the specification names the same set of descriptive terms: **spatial distribution, magnitude, frequency, regularity and predictability** (and for seismic hazards, **randomness**). Use them as a checklist:
@@ -62,6 +82,11 @@ For volcanic, seismic and storm hazards the specification names the same set of 
 - **Magnitude:** the moment magnitude scale is logarithmic, so each whole number represents about 32 times more energy released. Volcanic eruptions are compared on the **Volcanic Explosivity Index (VEI)**. Tropical storm strength is described on the Saffir-Simpson scale.
 - **Frequency and regularity:** small earthquakes are far more frequent than large ones. Some volcanoes erupt almost continuously, others after centuries of dormancy. Tropical storms follow a season, so they are regular in timing but not in exact track.
 - **Randomness and predictability:** earthquakes are effectively random in timing; the location can be forecast as a probability but not the date. Volcanoes give measurable warnings. Storm tracks are forecast days ahead with improving accuracy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--05-describing-hazard-patterns.webp" width="900" height="634" alt="Table describing volcanic, seismic and storm hazards by spatial distribution, magnitude scale, frequency and regularity, and predictability. Below, a chain from M4 to M8 shows each whole number of moment magnitude releases about 32 times more energy, so M8 is far more than twice M4." loading="lazy">
+  <figcaption>Describe each hazard by distribution, magnitude, frequency, regularity and predictability.</figcaption>
+</figure>
 
 ## Building the required case studies
 
@@ -78,6 +103,11 @@ The specification requires impacts and responses for a recent volcanic event, a 
 
 **The local-scale place in a hazardous setting** asks how a community's **economic, social and political character** reflects the hazard. Choose somewhere small enough to describe in detail: one town, district or valley. Strong studies explain, for example, how insurance costs shape the local property market, how community groups organise drills, or how hazard zoning has shaped where people may build.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--06-case-study-bank.webp" width="900" height="662" alt="Table of six recent hazard case studies with dates, deaths and key points: Soufrière Hills (from 1995), Christchurch (2011), Cyclone Nargis (2008), Hurricane Katrina (2005), the Camp Fire (2018) and the Tōhoku earthquake and tsunami (2011). Chips list the common headings for organising each." loading="lazy">
+  <figcaption>Use the same headings for every case study so they can be compared.</figcaption>
+</figure>
+
 ## Worked example: an annotated paragraph
 
 *Question: Assess the importance of the level of development in determining the impacts of tropical storms.* **[9]**
@@ -85,6 +115,11 @@ The specification requires impacts and responses for a recent volcanic event, a 
 > Level of development strongly shapes impacts because it determines vulnerability and capacity to cope **(links to the risk idea)**. Cyclone Nargis's surge reached a densely populated, low-lying delta where many homes were lightly built and warnings did not reach many villages, and delays in admitting foreign aid lengthened the relief phase **(specific evidence)**. However, Hurricane Katrina shows development is not decisive on its own: New Orleans lies largely below sea level, and the failure of its levees, together with the poverty of residents without cars, produced over 1,800 deaths in a high-income country **(counter-evidence)**. Physical factors -- surge height, coastal shape and the storm's track -- set the scale of the threat, while development decides how much of that threat becomes disaster **(judgement that weighs both)**.
 
 Notice the structure: a claim, named evidence, a counter-case, then a weighted judgement. "Assess" questions reward that final weighing more than extra description.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--07-assess-development.webp" width="900" height="591" alt="Four steps of the model &quot;assess&quot; paragraph: a claim linking development to vulnerability, evidence from Cyclone Nargis, counter-evidence from Hurricane Katrina, and a weighted judgement that physical factors set the threat while development decides how much becomes disaster." loading="lazy">
+  <figcaption>Claim, named evidence, counter-case, then a weighted judgement.</figcaption>
+</figure>
 
 ## Exam technique for 3.1.1
 

@@ -47,6 +47,11 @@ and the topic overview,
 | second | s | Time; orbital period | T in v = 2πr / T |
 | newton/kilogram | N/kg | Gravitational field strength g | Comparing g on planets and the Moon |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-astrophysics--01-seven-units.webp" width="900" height="650" alt="Seven unit cards: kilogram (kg) for mass; metre (m) for distance and orbital radius; metre/second (m/s) for speed and velocity; metre/second² (m/s²) for acceleration; newton (N) for force including weight; second (s) for time and orbital period; newton/kilogram (N/kg) for gravitational field strength g." loading="lazy">
+  <figcaption>Each unit belongs to one quantity; learn the pairs.</figcaption>
+</figure>
+
 ## Mass, weight and gravitational field strength
 
 Mass and weight are different quantities with different units, and
@@ -71,6 +76,11 @@ gives 1 kg an acceleration of 1 m/s². So a planet's g, in N/kg, is also
 the acceleration, in m/s², of an object falling freely near its surface,
 ignoring air resistance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-astrophysics--02-mass-weight-g.webp" width="900" height="750" alt="A 75 kg astronaut has a weight of 75 × 10 = 750 N on Earth and 75 × 1.6 = 120 N on the Moon, with weight arrows drawn to the same scale; the mass is 75 kg in both places. W = m × g, so N = kg × N/kg, and N/kg is equivalent to m/s²." loading="lazy">
+  <figcaption>Mass in kg is unchanged; weight in N depends on g.</figcaption>
+</figure>
+
 ## Orbital speed: metres and seconds
 
 The orbital speed equation from statement 8.6 is:
@@ -94,6 +104,16 @@ or years, so convert first:
 The orbital radius is measured from the **centre** of the body being
 orbited. If a question gives a satellite's height above the surface, add
 the planet's radius to get r.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-astrophysics--03-convert-m-and-s.webp" width="900" height="720" alt="Conversion arrows: 1 km × 1000 = 1000 m; 1 h × 3600 = 3600 s; 1 day × 24 × 3600 = 86 400 s; 1 year × 365 × 86 400 ≈ 3.15 × 10⁷ s. Converting before substituting into v = 2πr / T gives m/s; otherwise the answer comes out in km/h." loading="lazy">
+  <figcaption>Kilometres to metres and hours, days or years to seconds, before substituting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-astrophysics--04-orbital-radius.webp" width="900" height="610" alt="A satellite orbits a planet. The orbital radius r runs from the centre of the planet to the satellite, so it equals the planet's radius plus the satellite's height above the surface." loading="lazy">
+  <figcaption>Orbital radius = planet radius + height above the surface.</figcaption>
+</figure>
 
 ## Speeds in astrophysics
 
@@ -127,6 +147,11 @@ used correctly:
 
 If the units of your answer do not match the quantity asked for, look
 for the step where a unit was not converted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-astrophysics--05-unit-checks.webp" width="900" height="710" alt="Unit checks: in v = 2πr / T, m ÷ s gives m/s; in W = m × g, kg × N/kg gives N; in T = 2πr / v, m ÷ m/s gives s; in Δλ / λ₀ = v / c, both sides cancel to a pure number. An answer in km/h or m/day means a conversion was missed." loading="lazy">
+  <figcaption>Treat units like algebra: they should cancel to the unit asked for.</figcaption>
+</figure>
 
 ## Worked examples
 
@@ -166,6 +191,11 @@ r = 3.8 × 10⁸ m, v = 1000 m/s
 T = 2π × 3.8 × 10⁸ / 1000 = 2.4 × 10⁶ s
 in days: 2.4 × 10⁶ / 86 400 ≈ 28 days
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-astrophysics--06-worked-orbits.webp" width="900" height="710" alt="Three worked examples. A satellite at 26 600 km = 2.66 × 10⁷ m with T = 12 × 3600 = 43 200 s has v = 3.9 × 10³ m/s. Earth at 1.5 × 10¹¹ m with T = 3.15 × 10⁷ s has v = 3.0 × 10⁴ m/s. The Moon at 3.8 × 10⁸ m moving at 1000 m/s has T = 2.4 × 10⁶ s, about 28 days." loading="lazy">
+  <figcaption>Write each conversion on its own line, then substitute.</figcaption>
+</figure>
 
 ## Common mistakes
 

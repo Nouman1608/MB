@@ -50,6 +50,11 @@ Sub-topic 2.1 explains what soil is made of and why that matters to a farmer. It
 
 **Water** is held in the pore spaces and as thin films around particles. It carries dissolved mineral ions to plant roots.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--01-soil-components.webp" width="900" height="765" alt="Four components of soil: mineral particles from weathered rock; organic content, both living organisms and decomposed organic matter (humus); gases such as oxygen and carbon dioxide; and water in pore spaces. Below, sand, silt and clay particles compared: sand is largest with large pores that drain quickly; silt is medium; clay is smallest with tiny pores that hold water and nutrients." loading="lazy">
+  <figcaption>Soil is mineral particles, organic content, gases and water; particle size sets drainage and nutrients.</figcaption>
+</figure>
+
 ## Why composition matters for crops
 
 **Mineral particles.** The mix of sand, silt and clay controls how much water the soil holds, how quickly it drains and how many nutrients it keeps. A very sandy soil dries out and loses nutrients as water drains through it (leaching). A heavy clay soil holds water and nutrients well but can become waterlogged.
@@ -74,6 +79,21 @@ Organic content supplies these ions slowly as it decomposes; inorganic ions may 
 
 **Ease of cultivation.** Farmers must plough, dig and plant. Clay is heavy and sticky when wet and sets hard when dry. Sandy soil is light and easy to work. A soil that is easy to cultivate saves time, fuel and labour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--02-three-ions.webp" width="900" height="725" alt="Three panels. Nitrate (NO3−) supplies nitrogen for proteins and leaf growth; without it plants are stunted with yellowing leaves. Phosphate (PO4 3−) supplies phosphorus for healthy roots; deficiency gives poor roots and purple-tinged leaves. Potassium (K+) is needed for healthy flowers and fruit; deficiency gives yellow leaf edges and poor fruit." loading="lazy">
+  <figcaption>Nitrate for leaves, phosphate for roots, potassium for flowers and fruit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--03-pore-spaces.webp" width="900" height="715" alt="Two close-ups of soil. In well-drained soil the pore spaces between particles hold air and some water, so roots get oxygen to respire. In waterlogged soil the pores are full of water, oxygen runs out and roots can die. The ideal soil holds enough water but lets the excess drain." loading="lazy">
+  <figcaption>Roots need both water and oxygen, so pore spaces must not stay full of water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-land--08-land-ol-crop-needs-soil.webp" width="900" height="1000" alt="A cross-section shows a plant with roots in soil. Roots take in water and air (oxygen) from the gaps between particles, and mineral ions: nitrate NO3-, phosphate PO4 3- and potassium K+. Below, a pH strip runs from acidic through neutral to alkaline: most crops grow best close to neutral, and very acidic or alkaline soil limits growth." loading="lazy">
+  <figcaption>Roots take water, air and the ions nitrate, phosphate and potassium from soil; most crops grow best near neutral pH.</figcaption>
+</figure>
+
 ## Why loam is a good medium for crop growth
 
 Loam is a mixture of sand, silt and clay with plenty of organic matter. The syllabus gives five reasons it suits crops; each one links to a point above:
@@ -86,11 +106,21 @@ Loam is a mixture of sand, silt and clay with plenty of organic matter. The syll
 
 A strong answer avoids simply repeating "it has a good mix"; it says what each component contributes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--17-land-ig-loam.webp" width="900" height="930" alt="A soil cross-section shows the four parts of soil: mineral particles (sand, silt and clay), organic content, air and water in the pore spaces. Loam is a good medium for crop growth because it has the right mix of particles and pore spaces, retains moisture, contains organic content and inorganic ions, drains excess water and is easy to cultivate." loading="lazy">
+  <figcaption>Loam combines the soil parts in a mix that holds moisture, drains and is easy to work.</figcaption>
+</figure>
+
 ## Weather, seasons and crop growth
 
 **Weather** is the day-to-day conditions of the atmosphere in a location: temperature, rainfall, sunshine, wind and humidity on a given day. It is different from climate, which describes the average conditions over many years.
 
 Some areas of the world have **wet seasons and dry seasons**. In these places, crops are usually planted at the start of the wet season so that they have water while growing, and harvested as the dry season begins. A late or failed wet season can ruin a harvest, and growing crops in the dry season needs irrigation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--04-wet-dry-seasons.webp" width="900" height="665" alt="Weather is the day-to-day state of the atmosphere in a place; climate is the average over many years. In places with wet and dry seasons, crops are planted at the start of the wet season and harvested as the dry season begins; growing in the dry season needs irrigation, and a late or failed wet season can ruin a harvest." loading="lazy">
+  <figcaption>Plant at the start of the wet season; a failed wet season can ruin the harvest.</figcaption>
+</figure>
 
 ## Conditions for the optimum rate of photosynthesis and crop growth
 
@@ -106,6 +136,11 @@ Three conditions in the syllabus control how fast this happens and for how long:
 
 **Interpreting graphs.** On a graph of photosynthesis rate against light intensity, the rate rises steeply at first and then levels off. The levelling shows that something else, such as temperature or carbon dioxide, is now limiting the rate. On a graph against temperature, the rate rises to a peak at the optimum and then falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--05-photosynthesis-graphs.webp" width="900" height="700" alt="Two schematic graphs. Photosynthesis rate against light intensity rises steeply then levels off, showing another factor such as temperature or carbon dioxide now limits it. Rate against temperature rises to a peak at the optimum and then falls as enzymes work less well. Length of growing season, optimum weather and daylight hours set the rate and how long it lasts." loading="lazy">
+  <figcaption>Light: rises then levels off. Temperature: rises to an optimum, then falls.</figcaption>
+</figure>
+
 ## Worked example 1: a drainage experiment
 
 A student pours 100 cm³ of water through 100 g of each soil in a funnel and measures the water collected after 10 minutes. (Results invented for practice.)
@@ -118,6 +153,11 @@ A student pours 100 cm³ of water through 100 g of each soil in a funnel and mea
 
 **Interpretation:** sandy soil drains fastest because its large particles leave large, connected pore spaces; it retains little water, so crops may suffer in dry weather. Clay retains most water because its tiny pores hold water tightly, so it may become waterlogged. Loam lies in between: it drains excess water but retains nearly half, which is why it suits crops. For a fair test, the same mass of soil, the same volume of water and the same time must be used; repeating each test improves reliability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--06-drainage-experiment.webp" width="900" height="635" alt="Stacked bars for 100 cm³ of water poured through 100 g of soil for 10 minutes. Sandy soil drains 78 and retains 22; loam drains 52 and retains 48; clay drains 15 and retains 85. Loam drains the excess but keeps nearly half, which suits crops." loading="lazy">
+  <figcaption>Sand drains most, clay retains most, loam sits in between.</figcaption>
+</figure>
+
 ## Worked example 2: finding the growing season
 
 A crop needs a mean monthly temperature of at least 10 °C and at least 50 mm of rain in a month. (Data invented for practice.)
@@ -128,6 +168,11 @@ A crop needs a mean monthly temperature of at least 10 °C and at least 50 mm of
 | Rainfall (mm) | 60 | 55 | 40 | 70 | 85 | 75 | 65 | 80 |
 
 April meets both conditions; May is warm enough but too dry (40 mm); June to September meet both; October is too cold. The growing season is therefore **April, then June to September: five months**, with May a dry month in which the crop may need irrigation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--07-growing-season.webp" width="900" height="745" alt="Monthly bar charts from March to October with thresholds of 10 °C and 50 mm. April and June to September meet both and are shaded. May is warm enough but has only 40 mm of rain; March and October are too cold. The growing season is five months." loading="lazy">
+  <figcaption>Only months that meet both thresholds count: April and June to September, five months.</figcaption>
+</figure>
 
 ## Common mistakes
 

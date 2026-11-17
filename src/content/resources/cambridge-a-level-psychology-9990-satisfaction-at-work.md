@@ -47,6 +47,11 @@ Herzberg asked engineers and accountants to describe times when they had felt ex
 
 *Evaluation*: the method may be biased, because people tend to credit themselves for good events (achievement) and blame others for bad ones (supervision, policy), which would produce the two-factor pattern by itself. The original sample was narrow: professional men in one region. Pay can motivate some workers, which the theory underplays.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--01-herzberg-two-scales.webp" width="900" height="866" alt="Two separate scales. Hygiene factors (pay, company policy, supervision, working conditions, relationships, security) move a worker between dissatisfied and not dissatisfied. Motivators (achievement, recognition, the work itself, responsibility, advancement) move a worker from not satisfied to satisfied. Limitations are a self-serving bias in the method and a narrow sample." loading="lazy">
+  <figcaption>Hygiene factors only remove dissatisfaction; motivators create satisfaction.</figcaption>
+</figure>
+
 ## 4.5.1 Hackman and Oldham's job characteristics theory
 
 Hackman and Oldham proposed that five **core job characteristics** produce three **critical psychological states**, which lead to outcomes such as high internal motivation, satisfaction and quality of work.
@@ -63,6 +68,16 @@ The theory also proposes a **motivating potential score (MPS)**: the average of 
 
 *Evaluation*: the model is specific and testable, and it guides practical redesign; but characteristics are usually rated by job holders themselves, so satisfied workers may simply rate their jobs more positively. Individuals differ in how much they want growth from their work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--02-job-characteristics.webp" width="900" height="809" alt="Skill variety, task identity and task significance lead to experienced meaningfulness; autonomy leads to experienced responsibility for outcomes; feedback leads to knowledge of results. The three states lead to high internal motivation, satisfaction and quality of work. The model is testable but relies on job holders rating their own jobs." loading="lazy">
+  <figcaption>Five job characteristics work through three psychological states.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--03-motivating-potential-score.webp" width="900" height="518" alt="The motivating potential score is the average of skill variety, task identity and task significance, multiplied by autonomy and by feedback. A varied job with no autonomy or no feedback has a motivating potential of zero." loading="lazy">
+  <figcaption>Autonomy and feedback multiply, so either at zero gives a score of zero.</figcaption>
+</figure>
+
 ## 4.5.1 Techniques of job design
 
 | Technique | What changes | Example |
@@ -72,6 +87,11 @@ The theory also proposes a **motivating potential score (MPS)**: the average of 
 | Job rotation | Moving between jobs at intervals | A shop assistant moves between till, stockroom and customer service |
 
 Enrichment links to Herzberg's motivators and to autonomy in Hackman and Oldham. Enlargement and rotation add variety but critics describe enlargement as "more of the same". Belias and Sklikas (2013) is the syllabus example discussing these techniques.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--04-job-design.webp" width="900" height="735" alt="Enrichment loads a job vertically with planning and decisions, enlargement loads it horizontally with more tasks at the same level, and rotation moves a worker between jobs at intervals. A table gives examples: a cleaner planning the rota, a packer also labelling, a shop assistant moving between till, stockroom and customer service." loading="lazy">
+  <figcaption>Enrichment adds responsibility; enlargement adds tasks; rotation adds movement.</figcaption>
+</figure>
 
 ## 4.5.2 Measuring job satisfaction
 
@@ -90,6 +110,11 @@ Enrichment links to Herzberg's motivators and to autonomy in Hackman and Oldham.
 
 A **QWL evaluation scale** asks employees to rate how far each condition is met. Compared with the JDI, QWL takes a broader view, including work–life balance and the organisation's social responsibility.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--05-jdi-and-qwl.webp" width="900" height="710" alt="The JDI measures five facets (work itself, pay, promotion opportunities, supervision, co-workers), with workers answering yes, no or ? to adjectives such as routine or fascinating. Walton's quality of working life lists eight conditions, rated on a QWL evaluation scale; it is broader than the JDI because it includes work-life balance and social relevance." loading="lazy">
+  <figcaption>The JDI profiles five facets; QWL takes a broader view of working life.</figcaption>
+</figure>
+
 ## 4.5.3 Workplace sabotage
 
 **Sabotage** is deliberate behaviour intended to damage an organisation's property, products, production or reputation. Methods range from slowing work down to destroying equipment.
@@ -104,6 +129,11 @@ A **QWL evaluation scale** asks employees to rate how far each condition is met.
 
 **Evaluation.** The study links to the situational explanation of behaviour. It measures *attitudes* about sabotage through self-report, not actual sabotage, so it may not predict behaviour. The sample came from one unionised workplace, limiting generalisation. Asking about justification rather than personal sabotage may reduce social desirability bias.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--06-giacalone-rosenfeld.webp" width="900" height="899" alt="Study card for Giacalone and Rosenfeld (1987): unionised factory workers rated reasons that might justify sabotage and four methods (slowdowns, destructiveness, dishonesty, causing chaos). Those accepting more reasons justified every method except dishonesty. Conclusion: sabotage signals grievances. Evaluation covers attitudes versus behaviour, one workplace, reduced social desirability and situational explanations." loading="lazy">
+  <figcaption>Workers who accepted more reasons justified more sabotage, except dishonesty.</figcaption>
+</figure>
+
 ## 4.5.3 Blau and Boal's model of absenteeism and commitment
 
 Blau and Boal combined two attitudes: **job involvement** (how much a person identifies with their job) and **organisational commitment** (how much they identify with the organisation). This gives four categories:
@@ -117,11 +147,21 @@ Blau and Boal combined two attitudes: **job involvement** (how much a person ide
 
 The model predicts that the category affects how much absence occurs and why. Institutionalised stars are expected to be absent least, mainly for unavoidable reasons such as illness. Apathetic employees, with no attachment to the job or the organisation, are expected to be absent most, often by choice. Distinguishing **involuntary** absence (such as genuine illness) from **voluntary** absence (choosing not to attend) is central to applying the model.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--07-blau-boal.webp" width="900" height="753" alt="A two-by-two grid of job involvement against organisational commitment: institutionalised stars (high, high) are absent least and mainly involuntarily; lone wolves have high involvement and low commitment; corporate citizens have low involvement and high commitment; apathetic employees (low, low) are absent most, often voluntarily." loading="lazy">
+  <figcaption>Low involvement and low commitment predict the most, and most voluntary, absence.</figcaption>
+</figure>
+
 ## Annotated answer: a 4-mark application
 
 *A bank's call centre has high staff turnover. Staff say the work is repetitive and they never see the results of their efforts. Using Hackman and Oldham's theory, suggest two changes.* [4]
 
 "Increase task identity by letting each employee handle a customer's problem from start to finish rather than passing it on (1); this increases experienced meaningfulness (1). Give regular feedback, for example weekly reports of customers helped and satisfaction ratings (1); this gives knowledge of results, which the theory says increases satisfaction and motivation (1)."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--08-application-answer.webp" width="900" height="464" alt="Two rows: increasing task identity by handling each problem start to finish, linked to experienced meaningfulness; and giving weekly feedback reports, linked to knowledge of results and so to satisfaction and motivation. Each change and each theory link earns one mark." loading="lazy">
+  <figcaption>Change, then link it to the characteristic and the psychological state.</figcaption>
+</figure>
 
 ## Common mistakes
 

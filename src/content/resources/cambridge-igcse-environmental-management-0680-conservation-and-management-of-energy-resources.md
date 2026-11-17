@@ -40,6 +40,11 @@ Every strategy does one of two things:
 
 Sorting strategies this way helps in discuss questions. Demand-side strategies are usually cheaper and quicker; supply-side strategies are usually larger and more expensive but can transform a country's energy mix.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources--01-demand-and-supply.webp" width="900" height="610" alt="Two columns. Reduce demand: reducing consumption, insulation, energy-efficient devices, education and transport policies, usually cheaper and quicker. Change or secure supply: exploiting existing resources, battery storage and new energy resources, usually larger and more expensive but able to transform the energy mix." loading="lazy">
+  <figcaption>Sort each strategy as demand-side or supply-side before you weigh it.</figcaption>
+</figure>
+
 ## The strategies at three scales
 
 | Strategy | Household | Town or business | National government |
@@ -65,6 +70,11 @@ Using the scale named in a question is often what separates a general answer fro
 
 **Transport policies.** Transport is a major user of petroleum, so policies that move people from cars to buses, trains and bicycles reduce demand. Congestion charges and fuel taxes raise the cost of driving; bus lanes and cycle lanes make the alternatives faster and safer. Policies work best when good alternatives exist; otherwise they are resented.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources--02-battery-storage.webp" width="900" height="706" alt="Sketch graph over one day. Solar output rises to a peak at noon and falls to zero at night; demand peaks in the evening. The midday surplus charges a battery, which releases the electricity in the evening when demand is higher than solar output." loading="lazy">
+  <figcaption>Batteries shift surplus renewable electricity to when people need it.</figcaption>
+</figure>
+
 ## New energy resources (1.5.2)
 
 **Hydrogen fuel** releases energy in a fuel cell or when burned, and the only product is water. It can power vehicles, especially buses and lorries, and supply heat for industry.
@@ -78,6 +88,16 @@ Using the scale named in a question is often what separates a general answer fro
 - An **air source heat pump** absorbs heat from outside air through a fan unit on an outside wall. It is cheaper and easier to fit than a ground source pump but less efficient in very cold weather.
 
 Both use electricity to run, but deliver more heat energy than the electrical energy they use, and produce no emissions on site.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources--03-blue-green-hydrogen.webp" width="900" height="688" alt="Two flow rows. Blue hydrogen is made from natural gas and also produces carbon dioxide, so it is low-carbon only if that is captured and stored. Green hydrogen is made by splitting water with renewable electricity, giving hydrogen and oxygen with very low emissions. Using hydrogen produces only water." loading="lazy">
+  <figcaption>Blue comes from natural gas; green comes from water and renewable electricity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources--04-heat-pumps.webp" width="900" height="766" alt="Two houses. Ground source: fluid in buried pipes absorbs heat from the ground and a pump concentrates it to heat the house, giving steady output. Air source: a fan unit on an outside wall absorbs heat from the air; it is cheaper to fit but less efficient in very cold weather. Both use electricity to move existing heat." loading="lazy">
+  <figcaption>A heat pump transfers existing heat from the ground or air; it does not create it.</figcaption>
+</figure>
 
 ## Worked example 1: comparing insulation options
 
@@ -94,6 +114,11 @@ A household is choosing between two improvements. (Costs are in invented currenc
 - Cavity wall: 1,800 ÷ 200 = **9 years**.
 
 Loft insulation repays its cost sooner, so it is the better first choice for a household with limited money. Cavity wall insulation still saves more each year, so over a long period both are worthwhile.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources--05-payback-time.webp" width="900" height="630" alt="Graph of money saved against years. Loft insulation saves 150 a year and reaches its cost of 600 after 4 years. Cavity wall insulation saves 200 a year and reaches its cost of 1,800 after 9 years, but its line is steeper, so it saves more each year." loading="lazy">
+  <figcaption>Loft insulation pays back sooner; cavity wall insulation saves more each year.</figcaption>
+</figure>
 
 ## Worked example 2: energy-efficient lighting
 
@@ -113,6 +138,11 @@ A house needs 12,000 kWh of heat a year. Assume the heat pump delivers 3 kWh of 
 - Saving: 8,000 kWh, which is 8,000 ÷ 12,000 × 100 = **66.7%**.
 
 The house must be well insulated for the heat pump to supply enough heat, which shows how strategies work best in combination.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources--06-heat-pump-saving.webp" width="900" height="610" alt="Bar chart of electricity used to supply 12,000 kWh of heat a year: 12,000 kWh for an electric heater and 4,000 kWh for a heat pump, a saving of 8,000 kWh or 66.7%. A side panel shows the heat pump turning 1 kWh of electricity into 3 kWh of heat." loading="lazy">
+  <figcaption>Delivering 3 kWh of heat per kWh of electricity cuts electricity use by two-thirds.</figcaption>
+</figure>
 
 ## Writing a discuss answer
 

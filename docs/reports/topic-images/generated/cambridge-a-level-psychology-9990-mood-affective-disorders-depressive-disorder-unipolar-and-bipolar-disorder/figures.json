@@ -1,0 +1,74 @@
+[
+ {
+  "file": "cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--01-mood-patterns.webp",
+  "width": 900,
+  "height": 782,
+  "after": "## 1.2.1 Diagnosis and measurement",
+  "alt": "Three schematic mood lines. Depressive disorder dips below usual mood for an episode of at least two weeks. Bipolar type I rises into mania lasting at least a week and usually falls into depression. Bipolar type II rises only into milder hypomania and falls into a depressive episode. A card lists signs of a manic episode.",
+  "caption": "Unipolar moves one way; bipolar I includes mania; bipolar II hypomania and depression.",
+  "bytes": 123928
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--02-bdi-scoring.webp",
+  "width": 900,
+  "height": 526,
+  "after": "## 1.2.1 Diagnosis and measurement",
+  "alt": "Twenty-one item boxes, each scored 0 to 3, give a total of 0 to 63. A bar shows the usual BDI-II bands: 0 to 13 minimal, 14 to 19 mild, 20 to 28 moderate and 29 to 63 severe. Strengths and psychometric limits, including cultural differences, follow.",
+  "caption": "Totals run 0 to 63; 29 or more is usually read as severe.",
+  "bytes": 81566
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--03-monoamine-timing.webp",
+  "width": 900,
+  "height": 658,
+  "after": "### Biochemical",
+  "alt": "An illustrative graph: after starting an antidepressant, monoamine levels rise within hours, but mood improves only after several weeks. Cards give the supporting evidence from antidepressants and the criticism that the delay means low monoamines cannot be the whole story.",
+  "caption": "Drugs raise monoamines in hours but lift mood only after weeks.",
+  "bytes": 93828
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--04-oruc-1997.webp",
+  "width": 900,
+  "height": 852,
+  "after": "### Genetic: key study Oruč et al. (1997)",
+  "alt": "Study card for Oruč et al. (1997): an association study of the 5-HT2C receptor and serotonin transporter genes in 42 bipolar I patients and 40 controls. No significant association overall, with trends in women. The conclusion and an evaluation grid follow.",
+  "caption": "No significant link overall; only trends in women, suggesting a minor genetic effect.",
+  "bytes": 152112
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--05-beck-model.webp",
+  "width": 900,
+  "height": 878,
+  "after": "### Beck's cognitive theory",
+  "alt": "A sequence: negative schemas form in childhood through criticism or loss, are triggered by a later stressful event and produce automatic negative thoughts. These form the negative triad of views of the self, the world and the future, kept in place by four cognitive errors: overgeneralisation, selective abstraction, magnification and minimisation, and personalisation.",
+  "caption": "Schemas, triggered by stress, produce the triad; cognitive errors keep it going.",
+  "bytes": 110784
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--06-helplessness-attributions.webp",
+  "width": 900,
+  "height": 592,
+  "after": "### Learned helplessness and attributional style",
+  "alt": "Dogs exposed to inescapable shocks later failed to escape when they could; applied to humans, uncontrollable bad events may lead to passivity and hopelessness. The reformulated theory adds an internal, stable and global attributional style. A note summarises Seligman et al. (1988).",
+  "caption": "Uncontrollable events teach helplessness; internal, stable, global explanations sustain it.",
+  "bytes": 113594
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--07-antidepressants.webp",
+  "width": 900,
+  "height": 765,
+  "after": "## 1.2.3 Treatment and management",
+  "alt": "A schematic synapse shows monoamines released into the gap, a reuptake route back into the sending neuron marked as blocked, and the MAO enzyme that breaks monoamines down. Cards explain that tricyclics block reuptake of serotonin and noradrenaline, MAOIs inhibit monoamine oxidase, and SSRIs selectively block serotonin reuptake, with side effects.",
+  "caption": "Tricyclics and SSRIs block reuptake; MAOIs stop the enzyme breaking monoamines down.",
+  "bytes": 111784
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--08-rebt-abcde.webp",
+  "width": 900,
+  "height": 797,
+  "after": "## 1.2.3 Treatment and management",
+  "alt": "An activating event leads to a belief, such as \"I must be liked by everyone\", which produces a consequence. Disputing challenges the belief logically, empirically or pragmatically, leading to effective new beliefs. A final row compares Beck's collaborative approach with Ellis's more direct one.",
+  "caption": "Dispute the irrational belief to reach an effective new one.",
+  "bytes": 89908
+ }
+]

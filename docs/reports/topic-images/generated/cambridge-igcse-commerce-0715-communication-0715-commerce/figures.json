@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-igcse-commerce-0715-communication-0715-commerce--01-types-of-communication.webp",
+  "width": 900,
+  "height": 615,
+  "after": "## What are the four types of communication? (2.6.1)",
+  "alt": "Four cards define written, oral, electronic and visual communication with examples. Below, an email is shown as both written and electronic, and a videoconference as oral, visual and electronic.",
+  "caption": "Types overlap, so give each type’s main feature and the example that fits it best.",
+  "bytes": 87852
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-communication-0715-commerce--02-methods-compared.webp",
+  "width": 900,
+  "height": 680,
+  "after": "## What methods of communication are there? (2.6.2)",
+  "alt": "Eight cards, one for each method: letter, telephone, face to face, videoconferencing, email, web-based chat, social media and posters. Each card gives the method’s main advantage with a tick and main disadvantage with a cross.",
+  "caption": "Every method has a trade-off; the situation decides which one matters.",
+  "bytes": 126894
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-communication-0715-commerce--03-chatbot-routing.webp",
+  "width": 900,
+  "height": 565,
+  "after": "## What methods of communication are there? (2.6.2)",
+  "alt": "A customer question goes to a chatbot. Simple, repeated questions such as opening times or order tracking are answered automatically at any hour; unusual or complex problems are passed to human staff.",
+  "caption": "Chatbots handle the simple, repeated questions and pass complex ones to people.",
+  "bytes": 75046
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-communication-0715-commerce--04-six-factors.webp",
+  "width": 900,
+  "height": 750,
+  "after": "## Which factors affect the choice of method? (2.6.3)",
+  "alt": "Six rows: urgency, cost, security, distance, availability of networks and importance of the message. Each gives the question to ask and the methods it favours, with social media to avoid for security and travel to avoid for cost.",
+  "caption": "Name the factors in the scenario, then pick the method they favour.",
+  "bytes": 125426
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-communication-0715-commerce--05-matching-method.webp",
+  "width": 900,
+  "height": 760,
+  "after": "## Worked example: matching method to situation",
+  "alt": "Seven situations, each with its key factors and the recommended method: telephone for an urgent repair, a letter or secure app for a PIN, videoconferencing for a team in four countries, posters and social media for a local sale, recorded post where internet is weak, face to face for job changes, and a chatbot for routine order questions.",
+  "caption": "The key factors in each situation point to one method.",
+  "bytes": 126474
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-communication-0715-commerce--06-model-answer-structure.webp",
+  "width": 900,
+  "height": 590,
+  "after": "## Annotated model answer",
+  "alt": "Four steps of the TravelEase answer, one mark each: recommend email, apply the need for a written record, apply cost and speed with etickets attached, then explain why email beats a letter despite the hacking risk.",
+  "caption": "Recommend, apply two factors, then say why your choice beats an alternative.",
+  "bytes": 86948
+ }
+]

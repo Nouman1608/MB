@@ -54,6 +54,16 @@ Lord Bingham, in *The Rule of Law* (2010), set out a **thicker** account in eigh
 
 **Using the theories:** Raz and Bingham disagree about whether human rights are part of the rule of law. You can use that disagreement in evaluation: a law that is clear and prospective but violates rights satisfies Raz but not Bingham.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rule-of-law--01-three-accounts.webp" width="900" height="621" alt="Three theorists from formal to thicker. Dicey (1885): no punishment except for breach of law before the ordinary courts, everyone subject to the ordinary law, rights secured by judicial decisions. Raz (1977): a formal account in which law must be able to guide behaviour, so a system could comply and still be unjust. Bingham (2010): eight principles including human rights. A clear, prospective law that violates rights satisfies Raz but not Bingham." loading="lazy">
+  <figcaption>Raz and Bingham disagree about whether human rights belong in the rule of law.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rule-of-law--02-bingham-eight.webp" width="900" height="557" alt="Lord Bingham’s eight principles: accessible and clear law; rights decided by law not discretion; equality except where objectively justified; officials acting in good faith and within limits; protection of fundamental human rights; civil disputes resolved without prohibitive cost or delay; fair procedures; compliance with international law. Principle 5, human rights, is highlighted." loading="lazy">
+  <figcaption>Bingham’s account goes beyond form to include rights and access to justice.</figcaption>
+</figure>
+
 ## Applying the three elements: fresh authorities
 
 ### No person shall be sanctioned except in accordance with the law
@@ -74,6 +84,11 @@ Lord Bingham, in *The Rule of Law* (2010), set out a **thicker** account in eigh
 - *R (Miller) v Prime Minister; Cherry v Advocate General* (2019): the Supreme Court held that advice to prorogue Parliament for five weeks was unlawful because it frustrated Parliament's constitutional functions without reasonable justification. Even the Prime Minister's prerogative powers have legal limits.
 - *Anisminic v Foreign Compensation Commission* (1969) and *R (Privacy International) v Investigatory Powers Tribunal* (2019): the courts read clauses that appeared to exclude judicial review narrowly, so that bodies could not make legal errors without any court being able to check them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rule-of-law--03-three-elements-cases.webp" width="900" height="511" alt="Three columns of authorities. No sanction except in accordance with the law: Laporte (coaches turned back unlawfully), Lord Atkin’s dissent in Liversidge v Anderson, Article 7 ECHR. Equality before the law: M v Home Office (minister in contempt), R v Chaytor (MPs not protected by privilege), with exceptions for diplomats and the monarch. Fairness and clarity: Evans v Attorney General, Miller and Cherry (prorogation), Anisminic and Privacy International (ouster clauses read narrowly)." loading="lazy">
+  <figcaption>Each element is backed by modern cases where the courts held power to account.</figcaption>
+</figure>
+
 ## Applying the doctrine to each area
 
 | Area | Rule of law respected | Rule of law under strain |
@@ -84,11 +99,26 @@ Lord Bingham, in *The Rule of Law* (2010), set out a **thicker** account in eigh
 
 **Retrospective judicial change: a balanced example.** In *R v R* (1991) the House of Lords held that a husband could be guilty of raping his wife. The European Court of Human Rights in *SW v United Kingdom* (1995) held there was no breach of Article 7, because the change was a foreseeable development of the law and the removal of marital immunity was consistent with respect for human dignity. This is a strong evaluation point: a rule of law principle (no retrospective liability) was balanced against another value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rule-of-law--04-three-areas.webp" width="900" height="548" alt="A table for the three areas. Law making: published, prospective statutes and section 19 HRA statements, against retrospective legislation, Henry VIII powers and ouster clauses. The legal system: independent judges, open courts, appeals and juries, against cost, reduced legal aid and delay. Substantive law: offences defined in advance and the presumption of mens rea, against vague common law offences, strict liability and retrospective judicial change." loading="lazy">
+  <figcaption>In each area, show where the doctrine is respected and where it is under strain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rule-of-law--05-r-v-r-balance.webp" width="900" height="540" alt="A balance tipped towards respect for human dignity over the principle of no retrospective liability. In R v R (1991) the House of Lords held a husband could be guilty of raping his wife; in SW v UK (1995) the European Court found no breach of Article 7 because the change was a foreseeable development consistent with human dignity." loading="lazy">
+  <figcaption>One rule of law principle can be outweighed by another value.</figcaption>
+</figure>
+
 ## Worked example: annotated answer
 
 **Question:** Explain how the rule of law applies to the legal system. (5 marks)
 
 > The rule of law requires that disputes about legal rights are decided by independent courts applying the law fairly *[core principle]*. Equality before the law means the government is subject to the courts' decisions; in *M v Home Office* (1993) the Home Secretary was found in contempt for ignoring a court order *[element + case]*. Fairness requires that people can actually reach the courts, so access to justice is part of the doctrine; this was why employment tribunal fees were quashed in *UNISON* (2017) *[second element + case]*. Bingham's sixth principle, that civil disputes should be resolved without prohibitive cost or inordinate delay, supports this *[theory linked]*, but reductions in legal aid mean that in practice some people cannot enforce their rights *[evaluative point]*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rule-of-law--06-answer-frame.webp" width="900" height="635" alt="Five building blocks of the annotated answer: the core principle of independent courts; equality with M v Home Office; fairness and access to courts with UNISON; Bingham’s sixth principle; and an evaluative point that legal aid cuts leave some unable to enforce rights." loading="lazy">
+  <figcaption>Principle, element and case, second element and case, theory, then evaluation.</figcaption>
+</figure>
 
 ## Common mistakes
 

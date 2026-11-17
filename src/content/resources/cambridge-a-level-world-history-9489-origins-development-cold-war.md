@@ -39,6 +39,11 @@ featured: false
 - Reinterpretations in the light of new archival sources.
 - The emergence of the "New" Cold War history: post-post-revisionism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-development-cold-war--01-context-1941-49.webp" width="900" height="1181" alt="A vertical timeline from 1943 to 1949 drawn to scale. Western actions on the right include Tehran, the second front (June 1944), Bretton Woods, Truman meeting Molotov (April 1945), the end of Lend-Lease, the Long Telegram, Fulton (March 1946) and the Marshall Plan (1947). Soviet actions on the left include Yalta, communist-led governments in Poland and Romania, the Novikov telegram, the Paris walk-out, Cominform, the Czech coup and the Berlin Blockade." loading="lazy">
+  <figcaption>Know the sequence: every interpretation argues about which action answered which.</figcaption>
+</figure>
+
 ## The three questions behind every interpretation
 
 The syllabus's first three content points are the variables historians weigh. When you read an extract, locate it on each.
@@ -53,6 +58,11 @@ The syllabus's first three content points are the variables historians weigh. Wh
 - *Economics:* US plans for an open world economy (Bretton Woods, 1944), the abrupt end of Lend-Lease (1945), and the Marshall Plan (1947), which the USSR rejected and blocked for Eastern Europe.
 
 An extract's weighting of these three is often the quickest way to its school.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-development-cold-war--02-three-questions.webp" width="900" height="710" alt="Two scales and a set of three cards. Inherent tensions: bound to resurface, or real wartime co-operation that broke down. Personalities: decisive or secondary. Factors: ideology, security (Soviet losses of about 27 million) or economics (Bretton Woods, the end of Lend-Lease, the Marshall Plan)." loading="lazy">
+  <figcaption>An extract's weighting of these three is often the quickest way to its school.</figcaption>
+</figure>
 
 ## Traditionalism: blaming the Soviet Union
 
@@ -78,15 +88,30 @@ An extract's weighting of these three is often the quickest way to its school.
 
 **Approach and context.** Written as détente encouraged less moralised history and more US records became available. The approach is often structural or systemic, and attentive to perception and domestic politics.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-development-cold-war--05-yalta-riga-axioms.webp" width="900" height="445" alt="Two linked cards: the Yalta axioms, seeing the USSR as a traditional great power to deal with, and the Riga axioms, seeing it as an ideologically driven revolutionary state; Yergin argued Truman's administration moved from the first to the second. Below, Gaddis (1972) on domestic constraints and Leffler (1992) on a preponderance of power." loading="lazy">
+  <figcaption>Post-revisionists explain the Cold War through perception and constraint, not blame.</figcaption>
+</figure>
+
 ## Russian perspectives and new archives
 
 **Soviet-era writing** followed the official line: Western imperialism, atomic diplomacy and the Fulton speech caused the Cold War, while Soviet policy defended peace and socialism.
 
 **After 1991** historians gained partial access to Soviet, East European and Chinese archives, published through bodies such as the Cold War International History Project (founded 1991). Documents such as the Novikov telegram (September 1946), which read US policy as a drive for world supremacy, and US releases such as the Venona decrypts of Soviet espionage (1995), changed the evidence base. Russian-born historians Vladislav Zubok and Constantine Pleshakov (*Inside the Kremlin's Cold War*, 1996) described a "revolutionary-imperial paradigm" in which ideology and traditional Russian security concerns combined. Vojtech Mastny (*The Cold War and Soviet Insecurity*, 1996) stressed how Stalin's pursuit of absolute security produced the insecurity he feared. Geoffrey Roberts (*Stalin's Wars*, 2006) argued that Stalin hoped for continued co-operation after 1945.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-development-cold-war--03-blame-spectrum.webp" width="900" height="547" alt="A spectrum from &quot;the USSR to blame&quot; to &quot;the USA to blame&quot;. From left to right: traditionalists (Feis, Schlesinger) with Gaddis's We Now Know (1997), post-revisionists (Gaddis 1972, Yergin, Leffler) in the middle, Roberts (2006), revisionists (Williams, Alperovitz, Kolko) and the Soviet official line." loading="lazy">
+  <figcaption>Place an extract on the line, then explain how its approach puts it there.</figcaption>
+</figure>
+
 ## Post-post-revisionism and the "New" Cold War history
 
 Gaddis's *We Now Know* (1997) used the new archives to return much of the responsibility to Stalin, arguing that his authoritarian personality and ideology made a cold war very likely while he ruled. Because this restated part of the traditionalist case with new evidence, it is often called post-post-revisionism or neo-orthodoxy. The wider "New" Cold War history also stresses ideology, uses multi-archival and international sources, and widens the lens beyond Washington and Moscow -- Odd Arne Westad's *The Global Cold War* (2005) is an example. Critics, including Leffler, argued that the new evidence did not settle the debate and that the US role still needed explaining.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-development-cold-war--04-historiography-timeline.webp" width="900" height="714" alt="Five lanes on a time scale from 1945 to 2010. Traditionalism, written in the late 1940s and 1950s, with Schlesinger in 1967. Revisionism: Williams (1959), Alperovitz (1965), Kolko (1968). Post-revisionism: Gaddis (1972), Yergin (1977), Leffler (1992). After the 1991 opening of archives: Zubok and Pleshakov and Mastny (1996), Roberts (2006). The &quot;New&quot; Cold War history: Gaddis (1997), Westad (2005)." loading="lazy">
+  <figcaption>Each school reflects when it wrote and which archives it could read.</figcaption>
+</figure>
 
 ## Worked example: reading an extract's approach
 
@@ -96,6 +121,11 @@ Suppose an extract argues that Stalin "never intended a breach with his allies" 
 2. **Approach:** focus on Soviet decision-making, probably using Soviet archives; interest in contingency and reaction rather than ideology -- closest to Roberts or some post-revisionist work, with revisionist elements.
 3. **Test with knowledge:** support -- Soviet withdrawal from the Paris conference (July 1947) and the founding of Cominform (September 1947) followed the Marshall Plan; challenge -- coalition governments in Poland and Romania were already dominated by communists in 1945-46.
 4. **Conclusion:** explain the interpretation as a whole and how the approach produces it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-development-cold-war--06-extract-frame.webp" width="900" height="570" alt="Four numbered steps applied to an extract arguing Stalin never intended a breach: state the interpretation (Soviet policy was reactive); explain the approach (Soviet archives, contingency; closest to Roberts); test it (the Paris walk-out and Cominform followed the Marshall Plan, but communists dominated Poland and Romania in 1945-46); and conclude on interpretation and approach together." loading="lazy">
+  <figcaption>Interpretation, approach, test, conclude: never stop at the label.</figcaption>
+</figure>
 
 ## Common mistakes
 

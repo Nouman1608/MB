@@ -46,6 +46,16 @@ When a question shows a map, describe the pattern before you explain anything:
 
 At a world scale, people are very unevenly distributed. Dense areas tend to be lowland river valleys, coastal plains and areas with a reliable water supply, fertile soil, moderate climate and jobs. Sparse areas tend to be hot and cold deserts, high mountains and dense forest, where farming, building and transport are difficult.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-density-distribution-and-structure--01-describing-distribution.webp" width="900" height="610" alt="Schematic dot map of an invented country: dots cluster along the west coast and a river valley, with few in the northern mountains and the south-east desert apart from one oasis town. Beside it, five steps for describing a distribution: overall pattern, where it is dense, where it is sparse, data and anomaly." loading="lazy">
+  <figcaption>Pattern, dense areas, sparse areas, data, anomaly: describe before you explain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-density-distribution--01-density-vs-distribution.webp" width="900" height="715" alt="Two countries with the same area and the same number of people, so the same average density. In country X the dots are spread evenly; in country Y almost all are clustered along a river valley. Below, six small dot maps illustrate the words uneven, clustered, linear, dispersed, sparse and dense." loading="lazy">
+  <figcaption>The same average density can hide very different distributions.</figcaption>
+</figure>
+
 ## Interpreting population pyramids (7.1.2)
 
 A population pyramid is a pair of horizontal bar charts placed back to back. Each bar is an age group, usually five years wide; males are normally on the left and females on the right. The bars show either numbers of people or percentages of the total population.
@@ -65,6 +75,11 @@ The syllabus asks you to use a pyramid to describe three things:
 5. Compare **left and right**.
 6. Look for **bulges and notches**: a bulge can show a past baby boom or in-migration of working-age adults; a notch can show a war, an epidemic or a period of low births.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-structure--01-reading-a-pyramid.webp" width="900" height="650" alt="A schematic population pyramid with males on the left and females on the right, youngest at the bottom. Callouts: the width of the base shows recent birth rates; how fast the sides narrow shows the death rate and life expectancy; the width of the top shows the share of elderly people; bulges and notches record past baby booms, wars, epidemics or migration. A note says to read whether the axis shows numbers or percentages first." loading="lazy">
+  <figcaption>Base, sides, top and irregularities each tell a different story.</figcaption>
+</figure>
+
 ## World Bank income groups (7.1.3)
 
 The World Bank classifies the economies of countries by income per person (gross national income per capita). The syllabus uses three groups:
@@ -74,6 +89,11 @@ The World Bank classifies the economies of countries by income per person (gross
 - **High-income countries (HICs)**: the highest income per person.
 
 The income limits for each group are updated every year, so you do not need to learn the figures. Remember that this is a classification of national economies by average income, so it hides differences between rich and poor people within a country.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-density-distribution-and-structure--03-income-groups.webp" width="900" height="530" alt="A bar of rising income per person divided into low-income, middle-income (split into lower-middle and upper-middle) and high-income countries. Notes say the limits change every year and that a national average hides differences within a country." loading="lazy">
+  <figcaption>Three groups by income per person; the limits change each year.</figcaption>
+</figure>
 
 ## Comparing an LIC and an HIC (7.1.4)
 
@@ -88,6 +108,11 @@ The income limits for each group are updated every year, so you do not need to l
 | Female and male | Similar on both sides | More women than men in the oldest groups |
 
 "Compare" means you must give similarities and differences, and each point should mention both countries in the same sentence: "The LIC has a much wider base than the HIC, showing a higher proportion of children."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-density-distribution-and-structure--02-lic-hic-pyramids.webp" width="900" height="650" alt="Two schematic population pyramids. The typical LIC pyramid is triangular, with a wide base of young dependants that narrows quickly and few elderly. The typical HIC pyramid is a column with a narrow base, straight sides and a wide top, with more women than men in the oldest group." loading="lazy">
+  <figcaption>Wide base and narrow top for an LIC; straight sides and a wide top for an HIC.</figcaption>
+</figure>
 
 ## Worked example 1: comparing densities
 
@@ -104,6 +129,11 @@ The data are invented.
 
 This shows why density, not total population, is used to compare how crowded places are.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-density-distribution-and-structure--04-comparing-densities.webp" width="900" height="686" alt="Two invented regions. Upland North has 2,400,000 people on 60,000 km², 40 people per km², shown as a sparsely dotted square. Coastal South has 900,000 people on 1,500 km², 600 people per km², shown as a densely dotted square: 15 times as dense despite fewer people." loading="lazy">
+  <figcaption>Density = population ÷ area: fewer people can still mean far more crowding.</figcaption>
+</figure>
+
 ## Worked example 2: reading structure data
 
 The data are invented percentages of each country's total population.
@@ -119,6 +149,11 @@ The data are invented percentages of each country's total population.
 3. Country X is the LIC: its dependants are mostly young. Country Y is the HIC: its dependants are mostly elderly, and elderly women outnumber elderly men.
 
 The two countries face different pressures: X needs schools and jobs for a growing number of young people; Y needs healthcare and pensions for an ageing population.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-density-distribution-and-structure--05-dependants-per-100.webp" width="900" height="655" alt="Two stacked bars of population by age. Country X: 42% aged 0 to 14, 55% aged 15 to 64 and 3% aged 65 and over, giving 81.8 dependants per 100 workers. Country Y: 15%, 64% and 21%, giving 56.3. X is the LIC with mostly young dependants; Y is the HIC with mostly elderly dependants." loading="lazy">
+  <figcaption>Same idea, opposite pressures: young dependants in the LIC, elderly in the HIC.</figcaption>
+</figure>
 
 ## Common mistakes
 

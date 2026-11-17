@@ -36,11 +36,21 @@ Fast access has two sides:
 - **Opportunity**: education, health information and news available to anyone connected; easier organising across borders.
 - **New gatekeepers**: search engines and recommendation systems now decide what is visible, replacing newspaper editors as the main filters for many people. Information abundance also means attention, not information, is scarce.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-internet-social-and-new-media--01-gatekeepers.webp" width="900" height="601" alt="Gatekeeping has moved from newspaper editors to search engines and recommendation systems, so attention becomes scarce. Castells’s network society and mass self-communication sit below." loading="lazy">
+  <figcaption>Algorithms have replaced editors as the main filters of what people see.</figcaption>
+</figure>
+
 ## Changes in communication
 
 - **Networked publics**: danah boyd (*It's Complicated*, 2014), studying American teenagers, identified four features of online communication: **persistence** (posts last), **visibility** (large potential audiences), **spreadability** (content is easily shared) and **searchability** (content can be found later).
 - **Context collapse**: Alice Marwick and danah boyd (2011) described how social media merge audiences (family, friends, teachers, employers) who would be separated offline, so users must manage one self for many audiences.
 - **Connection or isolation?** Sherry Turkle (*Alone Together*, 2011) argued that constant connection can replace deep conversation with shallow contact. Others reply that online communication sustains relationships across distance, especially for diasporas and for young people from minority groups who find support online.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-internet-social-and-new-media--02-networked-publics.webp" width="900" height="715" alt="boyd’s four features of networked publics: persistence, visibility, spreadability and searchability. Below, family, friends, teachers and employers collapse into one audience for a single online self, with Turkle’s isolation argument and a reply." loading="lazy">
+  <figcaption>Online, posts last and spread, and separate audiences collapse into one.</figcaption>
+</figure>
 
 ## Social media and mental health: evaluating the evidence
 
@@ -52,6 +62,11 @@ The unit guide contrasts Haidt with Orben and Przybylski. Add:
 
 A strong answer concludes that effects probably differ by user, platform and type of use, and that the evidence for large, universal harm is contested.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-internet-social-and-new-media--03-mental-health.webp" width="900" height="535" alt="Mechanisms by which social media might harm young people, from Twenge and others, set against methodological problems such as correlation, inaccurate self-reports, reverse causation and crude screen-time measures." loading="lazy">
+  <figcaption>Plausible mechanisms, but weak evidence of universal harm.</figcaption>
+</figure>
+
 ## Ownership and control of new and social media
 
 - **Platform capitalism**: Nick Srnicek (*Platform Capitalism*, 2016) argued that platforms profit by positioning themselves between users, advertisers and producers, and that **network effects** (a platform becomes more valuable as more people use it) push markets towards a few giants.
@@ -61,6 +76,11 @@ A strong answer concludes that effects probably differ by user, platform and typ
 
 **Marxist and pluralist readings.** Marxists see platform owners as a new media elite with greater reach than newspaper owners. Pluralists point out that anyone can publish, and that users have abandoned once-dominant platforms before.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-internet-social-and-new-media--04-platform-capitalism.webp" width="900" height="799" alt="A platform sits between users, advertisers and producers, and network effects favour a few giants (Srnicek). Zuboff’s chain turns users’ behaviour into data that predicts and influences behaviour and is sold to advertisers. Marxist and pluralist readings and the Cambridge Analytica case follow." loading="lazy">
+  <figcaption>Platforms profit from their position between groups and from users’ data.</figcaption>
+</figure>
+
 ## Misinformation, disinformation and conspiracy theories
 
 - **Filter bubbles**: Eli Pariser (*The Filter Bubble*, 2011) argued that personalised algorithms show users more of what they already like, narrowing their view. **Echo chambers** (Cass Sunstein, *Republic.com*, 2001) describe groups that only hear like-minded voices.
@@ -69,6 +89,11 @@ A strong answer concludes that effects probably differ by user, platform and typ
 - **Conspiracy theories**: QAnon, which emerged online in 2017, shows how anonymous posts can grow into a movement. Uscinski and Parent's finding that conspiracy talk did not rise over a century cautions against assuming the internet created conspiracism.
 
 **Evaluation.** Axel Bruns (*Are Filter Bubbles Real?*, 2019) argued that evidence for strong filter bubbles is weak: most users encounter a range of sources, and polarisation has deeper political causes. Algorithms amplify, but people choose what to share.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-internet-social-and-new-media--05-filter-bubbles.webp" width="900" height="549" alt="Pariser’s filter bubble, Sunstein’s echo chambers and the finding that false news spreads faster, set against Bruns’s argument that strong filter bubbles are weakly supported and Uscinski and Parent’s century of conspiracy talk." loading="lazy">
+  <figcaption>Algorithms amplify falsehood, but people choose what to share.</figcaption>
+</figure>
 
 ## Audience involvement: creators, citizen journalists, influencers
 
@@ -80,6 +105,11 @@ A strong answer concludes that effects probably differ by user, platform and typ
 - Evgeny Morozov (*The Net Delusion*, 2011) criticised **cyber-utopianism**, the belief that the internet naturally empowers citizens; authoritarian states also use it for surveillance and propaganda.
 - Malcolm Gladwell ("Small Change", 2010) argued that online activism relies on weak ties and often amounts to **slacktivism**: low-cost support, such as liking a post, that brings little change.
 - Platforms profit from user content, and only a small share of creators earn a living, so "audience power" is unevenly spread.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-internet-social-and-new-media--06-audience.webp" width="900" height="545" alt="Three forms of audience involvement: prosumers and produsers, citizen journalists in Tunisia, Egypt and Minneapolis, and influencers as microcelebrities. Evaluation from Morozov, Gladwell and the economics of platforms." loading="lazy">
+  <figcaption>Audiences now produce content, but power and profit stay uneven.</figcaption>
+</figure>
 
 ## Annotated model answer
 

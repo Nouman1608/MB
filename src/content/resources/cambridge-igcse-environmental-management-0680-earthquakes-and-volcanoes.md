@@ -34,6 +34,11 @@ The syllabus limits structure to three layers:
 
 You must be able to identify the seven continents on a map: **Africa, Antarctica, Asia, Europe, North America, Oceania and South America**. Questions may give a world map of earthquakes and ask you to describe the pattern using continent and ocean names, so practise phrases such as "a chain along the west coast of South America".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--01-earth-structure.webp" width="900" height="950" alt="Cut-away of the Earth showing a thin rigid crust, a thick mantle of slowly moving hot rock and a very hot dense core of iron and nickel. Below, oceanic crust is drawn thinner and denser than continental crust." loading="lazy">
+  <figcaption>Crust, mantle and core: heat from the core drives movement in the mantle.</figcaption>
+</figure>
+
 ## Distribution of earthquakes and volcanoes (6.1.3)
 
 Most earthquakes and volcanoes lie in narrow belts that follow the edges of **tectonic plates**, the large slabs into which the crust is broken. The clearest belt surrounds the Pacific Ocean (often called the Ring of Fire). Another runs down the middle of the Atlantic Ocean.
@@ -41,6 +46,11 @@ Most earthquakes and volcanoes lie in narrow belts that follow the edges of **te
 A few volcanoes are far from any boundary. These form over **hotspots**, where an unusually hot plume of mantle rock rises beneath the middle of a plate and melts through it. The Hawaiian Islands are the standard example: as the Pacific Plate moves over the hotspot, a chain of volcanoes forms, oldest furthest from the hotspot.
 
 When you describe a distribution, give the general pattern (linear belts along plate boundaries), a named location, and the exception (hotspots).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--02-hotspot-chain.webp" width="900" height="766" alt="Cross-section of an ocean plate moving over a fixed plume of hot mantle rock. An active volcano sits over the plume; extinct volcanoes further along the direction of plate movement get older and lower with distance. Below: how to describe a distribution with a pattern, named locations and the hotspot exception." loading="lazy">
+  <figcaption>Most volcanoes follow plate boundaries; hotspots are the exception.</figcaption>
+</figure>
 
 ## Convection currents and plate boundaries (6.1.4)
 
@@ -54,6 +64,11 @@ Heat from the core warms mantle rock, which becomes less dense and rises. Near t
 
 The syllabus wording to reuse: at convergent boundaries, **subduction of one plate beneath another causes earthquakes and a line of volcanoes**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--03-plate-boundaries.webp" width="900" height="1008" alt="Top: convection currents in the mantle; hot rock rises, spreads, cools and sinks, dragging the plates above. Below, three boundaries: divergent, where plates move apart and magma forms new crust; convergent, where the denser oceanic plate is subducted and a line of volcanoes forms; conservative, where plates slide past and cause earthquakes only." loading="lazy">
+  <figcaption>Movement, process, hazard: subduction at convergent boundaries gives earthquakes and a line of volcanoes.</figcaption>
+</figure>
+
 ## Features of earthquakes (6.1.5)
 
 - **Release of energy**: stress builds as plates lock together; when the rock suddenly slips, stored energy is released as seismic waves that shake the ground.
@@ -63,6 +78,11 @@ The syllabus wording to reuse: at convergent boundaries, **subduction of one pla
 
 A shallow focus usually causes more damage at the surface than a deep one, because the waves lose less energy before they arrive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--04-earthquake-features.webp" width="900" height="720" alt="Cross-section with the focus underground, seismic waves spreading out from it, and the epicentre on the surface directly above where shaking is strongest. Below, a magnitude 6.0, 7.0 and 8.0 earthquake are linked by steps of about 32 times more energy, so 8.0 releases about 1,000 times the energy of 6.0." loading="lazy">
+  <figcaption>The focus is underground, the epicentre above it; each magnitude step is about 32 times the energy.</figcaption>
+</figure>
+
 ## Features of volcanic eruptions (6.1.6)
 
 - **Magma rising to the surface to form lava**: molten rock underground is magma; once it erupts it is called lava.
@@ -71,6 +91,11 @@ A shallow focus usually causes more damage at the surface than a deep one, becau
 - **Acid rain**: sulfur dioxide dissolves in rainwater to form acid, damaging vegetation and water bodies.
 - **Volcanic bombs**: large lumps of lava thrown out that cool and harden as they fly.
 - **Pyroclastic flows**: fast-moving clouds of hot gas, ash and rock that rush down the volcano's slopes, destroying everything in their path.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--05-eruption-features.webp" width="900" height="640" alt="Cross-section of an erupting volcano: magma rises from underground and pours out as lava; an ash cloud rises above the crater; volcanic bombs are thrown out; a pyroclastic flow of hot gas, ash and rock rushes downslope; gases including sulfur dioxide drift away and fall as acid rain." loading="lazy">
+  <figcaption>Magma underground becomes lava at the surface; ash, gases, bombs and pyroclastic flows are the other features.</figcaption>
+</figure>
 
 ## Impacts on people and the environment (6.1.7)
 
@@ -101,6 +126,11 @@ Arrange strategies by stage. This matches the syllabus wording "before, during a
 | After | Rebuilding of damaged areas | Restores homes and services; a chance to build more safely | Slow and costly |
 | After | International aid | Money, rescue teams, medical care and supplies where local resources are overwhelmed | Can arrive late, miss remote areas or create dependency |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--06-management-stages.webp" width="900" height="648" alt="Three columns on a timeline around the event. Before: monitoring and warning, land use zoning, the structure of buildings and disaster preparation. During: evacuation. After: rebuilding and international aid. Shelters span both during and after. Each card gives a benefit or limitation." loading="lazy">
+  <figcaption>Sort strategies into before, during and after, then weigh each one.</figcaption>
+</figure>
+
 ## Opportunities provided by volcanoes (6.1.10)
 
 - **Fertile soils**: weathered ash and lava release minerals, so farms give high yields.
@@ -108,6 +138,11 @@ Arrange strategies by stage. This matches the syllabus wording "before, during a
 - **Building materials**: rocks such as basalt are quarried for construction.
 - **Geothermal power**: hot rock heats underground water, producing steam to turn turbines; Iceland uses geothermal energy widely.
 - **Tourism**: visitors come to see craters, hot springs and geysers, creating jobs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--07-opportunities.webp" width="900" height="854" alt="A volcano landscape numbered 1 to 5: fields on fertile lower slopes, mineral deposits such as sulfur, a quarry for basalt, a geothermal power station using water heated by hot rock, and tourists at the crater. A key explains each opportunity." loading="lazy">
+  <figcaption>Fertile soils, minerals, building stone, geothermal power and tourism can outweigh the risk.</figcaption>
+</figure>
 
 ## Worked example 1: comparing magnitudes
 

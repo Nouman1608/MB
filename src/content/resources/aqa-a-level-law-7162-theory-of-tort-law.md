@@ -39,6 +39,11 @@ Most theory answers rest on a short list of aims. Name the aim before you judge 
 
 These aims pull against each other. Compensation favours wide liability; corrective justice favours liability only where there is real fault; the fear of over-burdening defendants and the courts favours narrow liability. The five issues in the specification are each a point where the courts have struck a balance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-tort-law--01-aims-of-tort.webp" width="900" height="634" alt="Five aims of tort law around a hub: compensation, corrective justice, deterrence, loss spreading and protecting interests in land, each with where it shows in the rules. They pull against each other: compensation favours wide liability, corrective justice requires real fault, and fear of over-burdening defendants and courts favours narrow liability." loading="lazy">
+  <figcaption>The five specification issues are each a balance between competing aims.</figcaption>
+</figure>
+
 ## Issue 1: policy and the Caparo test
 
 The third limb of *Caparo Industries v Dickman* (1990), whether it is **fair, just and reasonable** to impose a duty, is openly a policy question. The courts have used it to refuse a duty even where harm was foreseeable and the parties were close.
@@ -49,11 +54,26 @@ The third limb of *Caparo Industries v Dickman* (1990), whether it is **fair, ju
 
 **Evaluation.** Supporters say a policy filter keeps the law workable and stops liability spreading to every case of careless public service. Critics answer that "policy" is vague, that judges have no evidence that defensive practice actually follows liability, and that the claimant in *Hill* was left without a remedy in negligence. Note also that *Michael v Chief Constable of South Wales Police* (2015) refused a negligence duty to a victim whose emergency call was mishandled, while allowing a human rights claim to continue, which shows the policy limits still operate for omissions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-tort-law--02-caparo-policy.webp" width="900" height="558" alt="Policy cases at Caparo’s third stage: Hill (no duty, fear of defensive policing), Marc Rich (no duty, the loss already carried by others) and Michael (no duty for a mishandled call, though a human rights claim continued). Robinson limits this: no general police immunity where police positively cause injury. Supporters say the filter keeps the law workable; critics say policy is vague and unevidenced." loading="lazy">
+  <figcaption>Policy can deny a duty even where harm was foreseeable and the parties close.</figcaption>
+</figure>
+
 ## Issue 2: policy and pure economic loss and psychiatric injury
 
 **Pure economic loss.** Financial loss can ripple outwards without limit: one cut power cable can stop production in a hundred factories. The classic statement of the fear is Cardozo J's warning in the American case *Ultramares v Touche* (1931) against "liability in an indeterminate amount for an indeterminate time to an indeterminate class". Courts respond by allowing recovery only where there is a special relationship (*Hedley Byrne v Heller*, 1964) and refusing it for negligent acts. Further reasons given in *Spartan Steel v Martin* (1973) are that businesses can insure against interruptions and that the loss is spread thinly across many claimants. **Evaluation:** the line is clear and predictable, but it can be arbitrary, since recovery depends on whether the claimant's loss happened to follow physical damage.
 
 **Psychiatric injury.** The control mechanisms in *Alcock v Chief Constable of South Yorkshire Police* (1992) exist because the number of people who can be affected by witnessing an accident, especially one shown on television, is potentially vast. Courts also worry about fraudulent or exaggerated claims and about burdening defendants out of proportion to their fault. **Evaluation:** the result can seem unjust. In *White v Chief Constable of South Yorkshire* (1998) police officers at the same disaster failed, partly because it would have been unfair for officers to recover where bereaved relatives in *Alcock* had not. The Law Commission's 1998 report on liability for psychiatric illness recommended relaxing the proximity requirements for people with a close tie to the victim, but Parliament has not acted, and *Paul v Royal Wolverhampton NHS Trust* (2024) confirmed that the courts will not widen the categories themselves.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-tort-law--03-economic-loss-ripple.webp" width="900" height="597" alt="Ripples spread from one cut power cable to many factories, illustrating Cardozo J’s fear of liability to an indeterminate class (Ultramares v Touche). Spartan Steel adds that businesses can insure and the loss is spread thinly. Recovery is allowed within a Hedley Byrne special relationship but refused for negligent acts; the line is predictable but can be arbitrary." loading="lazy">
+  <figcaption>Financial loss ripples outward without limit, so the courts draw a firm line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-tort-law--04-psychiatric-policy.webp" width="900" height="635" alt="Three policy reasons for limiting psychiatric injury claims: the vast numbers who can witness an event, fear of fraudulent claims, and disproportionate burdens on defendants. A timeline: Alcock (1992) set the controls; White (1998) refused police officers’ claims; the Law Commission (1998) recommended relaxing proximity but nothing was enacted; Paul (2024) confirmed the courts will not widen the categories." loading="lazy">
+  <figcaption>The controls give certainty at the cost of some arbitrary results.</figcaption>
+</figure>
 
 ## Issue 3: the objective standard of care
 
@@ -67,6 +87,11 @@ The balancing factors (probability, seriousness, cost of precautions and social 
 
 **Evaluation.** The objective standard can be harsh on the inexperienced, who are found "at fault" for doing their honest best. It is better understood as allocating risk than as moral blame. Critics of the 2006 and 2015 Acts argue they restate what courts already did, and that they respond to fears of a "compensation culture" more than to changes in liability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-tort-law--05-standard-of-care.webp" width="900" height="794" alt="A balance: probability and seriousness of harm weigh towards taking a precaution; cost and social utility weigh against. The objective standard gives certainty and equal protection, reflects insurance (Nettleship v Weston), is adjusted for children and professionals (Mullin; Bolam; Bolitho), and allows for social utility (Daborn; Compensation Act 2006; the 2015 Act). It can be harsh on the inexperienced." loading="lazy">
+  <figcaption>Breach weighs the risk against the cost and value of the activity.</figcaption>
+</figure>
+
 ## Issue 4: injunctions and conflicting interests
 
 An injunction is an equitable, discretionary remedy, so the court can weigh interests that damages cannot. The claimant's right to use and enjoy land is set against the defendant's activity and sometimes the interest of the wider community.
@@ -77,11 +102,21 @@ An injunction is an equitable, discretionary remedy, so the court can weigh inte
 
 **Evaluation.** Flexibility lets the court find a compromise, but it means a claimant who proves a nuisance may still have to tolerate it in exchange for money, which can look like the defendant buying a right to commit a wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-tort-law--06-injunction-interests.webp" width="900" height="650" alt="An injunction weighs the claimant’s enjoyment of land, the defendant’s activity and sometimes the community. Outcomes range from a full injunction, to a limited one (Kennaway v Thompson, powerboat events), to damages instead (Miller v Jackson, cricket). Coventry v Lawrence says Shelfer must not be applied mechanically. Flexibility can look like the defendant buying a right to commit a wrong." loading="lazy">
+  <figcaption>Discretion lets courts compromise, at the price of some claimants’ rights.</figcaption>
+</figure>
+
 ## Issue 5: the nature and purpose of vicarious liability
 
 Vicarious liability makes an employer liable for an employee's tort without any fault of its own. In *Various Claimants v Catholic Child Welfare Society* (2012) Lord Phillips gave five policy reasons: the employer is more likely to be able to pay and to be insured; the tort arose from an activity carried out on the employer's behalf; that activity is part of the employer's business; by employing the person the employer created the risk; and the employee was under the employer's control to some degree. In *Cox v Ministry of Justice* (2016) Lord Reed treated the "enterprise risk" idea as central: a body that benefits from an activity should bear the risks it creates.
 
 **Evaluation.** The doctrine secures compensation and encourages careful recruitment and supervision. Against that, it imposes liability on a party who did nothing wrong, and its expansion to abuse cases and relationships "akin to employment" has made the boundaries less certain, which is why the Supreme Court drew limits in *Various Claimants v Barclays Bank* (2020).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-tort-law--07-vicarious-reasons.webp" width="900" height="585" alt="Lord Phillips’ five policy reasons in Various Claimants: the employer can pay and is insured; the tort arose from an activity on its behalf; the activity is part of its business; it created the risk, the enterprise risk idea Lord Reed made central in Cox v MoJ; and it controlled the employee. For: compensation and careful supervision. Against: liability without fault and uncertain boundaries, limited in Barclays Bank." loading="lazy">
+  <figcaption>Whoever benefits from the activity should bear the risks it creates.</figcaption>
+</figure>
 
 ## Annotated model paragraph
 

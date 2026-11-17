@@ -34,6 +34,11 @@ Section 2.2 of the Cambridge IGCSE Commerce (0715) syllabus has a single stateme
 
 In both cases the business keeps ownership of its brand and its relationship with customers. What it hands over is a **process**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--01-outsourcing-types.webp" width="900" height="900" alt="Two panels. In contract manufacturing a brand owner who designs, brands and sells sends an agreed design to a specialist factory that makes the goods. In contract logistics the brand owner sends stock to a logistics firm, which stores and packs it in a warehouse, then delivers it by truck to the customer." loading="lazy">
+  <figcaption>Contract manufacturing and contract logistics are the two outsourcing areas the syllabus names.</figcaption>
+</figure>
+
 ## How does contract manufacturing work in practice?
 
 A typical arrangement runs through five stages:
@@ -45,6 +50,11 @@ A typical arrangement runs through five stages:
 5. **Delivery.** Finished goods are sent to the brand owner's warehouse or directly to retailers.
 
 Contract manufacturing is common where production needs expensive specialist equipment or large-scale factories, such as electronics, clothing, cosmetics, medicines and toys. A small brand may design a product in one country and have it made in another where a manufacturer has the machinery and skilled staff.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-outsourcing--01-contract-manufacturing-stages.webp" width="900" height="715" alt="Five numbered stages: specification, quotation and contract, sample approval, production and inspection, and delivery. Stages 3 and 4 are marked as the points where quality is checked." loading="lazy">
+  <figcaption>The brand owner controls quality through the specification, the sample and inspection before shipping.</figcaption>
+</figure>
 
 ## How does contract logistics work in practice?
 
@@ -61,6 +71,11 @@ A contract logistics firm can take over some or all of these activities:
 
 Because one warehouse and one delivery network serve many clients, the logistics firm spreads its costs and can offer each client a lower cost per order than the client could achieve alone, especially when orders are small or uneven.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-outsourcing--02-contract-logistics.webp" width="900" height="705" alt="Several client firms send stock into one logistics firm, which receives, stores, picks and packs, and delivers goods to customers. Returns come back to be checked and restocked, and stock records are shared with clients online." loading="lazy">
+  <figcaption>Sharing one warehouse and network across many clients lowers each client’s cost per order.</figcaption>
+</figure>
+
 ## Why has outsourcing grown?
 
 Each reason below explains part of the growth. A strong answer explains the **cause** and its **effect** on the business.
@@ -73,6 +88,11 @@ Each reason below explains part of the growth. A strong answer explains the **ca
 - **Pressure on costs.** Competition pushes firms to cut costs; outsourcing avoids the capital cost of factories, machinery, warehouses and vehicles.
 - **Flexibility.** Demand can rise sharply at festivals or in sales periods. Contractors can supply extra output or storage for a few weeks, instead of the business owning capacity that stands idle for the rest of the year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-outsourcing--03-why-outsourcing-grew.webp" width="900" height="730" alt="Seven causes each linked to an effect: globalisation of production, better transport, digital communication, growth of ecommerce, specialisation, pressure on costs and flexibility, with what each lets a business do." loading="lazy">
+  <figcaption>Explain each cause and the effect it has on the business.</figcaption>
+</figure>
+
 ## What are the risks of outsourcing, and how can they be reduced?
 
 | Risk | How a business can reduce it |
@@ -83,6 +103,11 @@ Each reason below explains part of the growth. A strong answer explains the **ca
 | Dependence on one contractor | Use more than one supplier for important products |
 | Reputation damage from poor working conditions or pollution at the contractor | Visit and audit factories; choose contractors with good records |
 | Less direct contact with customers (logistics) | Agree service standards for delivery times and packaging |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-outsourcing--04-outsourcing-risks.webp" width="900" height="650" alt="Six risks, each paired with a way to reduce it: falling quality, late delivery, copied designs, dependence on one contractor, reputation damage at the contractor and less contact with customers." loading="lazy">
+  <figcaption>Every outsourcing risk has a matching safeguard the business can put in the contract or process.</figcaption>
+</figure>
 
 ## Worked example 1: should a brand outsource manufacturing? (invented figures)
 
@@ -102,6 +127,11 @@ Each reason below explains part of the growth. A strong answer explains the **ca
 
 Outsourcing saves 22,000 - 19,800 = **$2,200** a year, or $0.44 per cover. A full answer then weighs the non-cost factors: CaseCraft loses direct control of quality and must wait for shipments, but avoids tying up money in machinery and can change designs without retraining staff.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-outsourcing--05-casecraft-costs.webp" width="900" height="690" alt="Two cost columns for 5,000 phone covers. In-house: lease 6,000, labour 9,000, materials 6,000 and utilities 1,000 give $22,000, or $4.40 a cover. Outsourced: contract 17,500, transport 1,500 and inspection 800 give $19,800, or $3.96 a cover." loading="lazy">
+  <figcaption>Outsourcing saves $2,200 a year once transport and inspection are included (invented figures).</figcaption>
+</figure>
+
 ## Worked example 2: in-house warehouse or contract logistics? (invented figures)
 
 *An online shop could run its own warehouse at a cost of $12,500 a month (rent $4,000, staff $6,000, delivery van $2,500). A contract logistics firm charges $5.40 per order for storage, picking, packing and delivery.*
@@ -111,6 +141,11 @@ Outsourcing saves 22,000 - 19,800 = **$2,200** a year, or $0.44 per cover. A ful
 - Costs are equal at 12,500 / 5.40, about **2,315 orders** a month.
 
 The lesson: contract logistics suits businesses with low or uneven order numbers, because they pay only for the orders they send. Once volumes are high and steady, running their own warehouse may cost less per order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-outsourcing--06-logistics-break-even.webp" width="900" height="740" alt="A graph of monthly cost against orders. The own warehouse is a flat $12,500; contract logistics rises at $5.40 per order, costing $5,400 at 1,000 orders and $16,200 at 3,000. The lines cross at about 2,315 orders." loading="lazy">
+  <figcaption>Below about 2,315 orders a month contract logistics is cheaper; above it the own warehouse costs less (invented figures).</figcaption>
+</figure>
 
 ## What are the common mistakes in 2.2?
 

@@ -33,6 +33,11 @@ A **power relationship** is any relationship in which one person or group is abl
 
 The 3.6.5 sub-section asks *what kinds* of power and authority exist. This sub-section asks *which social factors* make some groups more powerful than others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-relationships--01-power-relationships.webp" width="900" height="670" alt="Five settings for power relationships: families, workplaces, schools, politics and criminal justice, with the pairs involved in each. Below, the difference between 3.6.5, which asks what kinds of power exist, and 3.6.6, which asks which social factors make some groups more powerful." loading="lazy">
+  <figcaption>Power relationships run through families, work, school, politics and justice.</figcaption>
+</figure>
+
 ## Factors affecting power relationships
 
 ### Social class
@@ -75,6 +80,16 @@ Religious organisations can hold power over members through rules and moral auth
 
 Use laws carefully in evaluation: they change formal power, but Walby argues equal opportunities laws are seldom enforced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-relationships--02-seven-factors.webp" width="900" height="742" alt="A table of seven factors: social class, gender, sexuality, race, age, disability, and religion and beliefs. For each it shows how power is unequal, such as owners deciding pay or institutional racism, and what has balanced it, such as trade unions, voting or equality laws." loading="lazy">
+  <figcaption>Each factor shifts who holds power, and each has forces pushing back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-relationships--03-equality-laws.webp" width="900" height="639" alt="Four laws, the Equal Pay Act 1970, Sex Discrimination Act 1975, Race Relations Act 1976 and Disability Discrimination Act 1995, feed into the Equality Act 2010, which protects several characteristics. Below, laws change formal power but Walby argues they are seldom enforced." loading="lazy">
+  <figcaption>Laws shift formal power, but they do not end inequality on their own.</figcaption>
+</figure>
+
 ## Walby's theory of patriarchy
 
 Sylvia Walby (*Theorizing Patriarchy*, 1990) wrote from a feminist perspective. She argued that the concept of **patriarchy** is central to understanding society, and described six structures that restrict women and help maintain male domination.
@@ -111,6 +126,16 @@ The key point is that patriarchy has not disappeared; it has moved from the home
 - Some argue women's gains in education and professions suggest the structures are weakening faster than she allows.
 - The theory is about Western society, so it may not apply elsewhere in the same way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-relationships--04-evaluating-walby.webp" width="900" height="535" alt="Two panels. Strengths of Walby: several connected structures, a private to public shift that explains persisting inequality, and links across the course. Limitations: less attention to differences between women by class and ethnicity, possible underestimation of women’s gains, and a focus on Western society." loading="lazy">
+  <figcaption>Walby explains why inequality persists, but may underplay differences between women.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--08-walby-patriarchy.webp" width="900" height="610" alt="Six numbered cards show Walby’s patriarchal structures: paid work, patriarchal relations of production, culture, sexuality, male violence and the state. Below, an arrow shows the shift from private patriarchy, direct control by fathers or husbands, to public patriarchy, where women are in public life but in low-paid, low-status jobs." loading="lazy">
+  <figcaption>Patriarchy works through six structures and has shifted from private to public.</figcaption>
+</figure>
+
 ## Perspectives on power relationships
 
 **Feminist.** Gender is the key power relationship. Walby's six structures show male domination in public and private life. Feminists differ in emphasis: some stress gradual change through laws and education, others stress male violence and sexuality, and others link patriarchy to capitalism.
@@ -121,9 +146,19 @@ The key point is that patriarchy has not disappeared; it has moved from the home
 
 **Comparing them:** feminists and Marxists both see power relationships as unequal and in conflict, but disagree about which division is fundamental. Functionalists see consensus and complementary roles where others see inequality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-relationships--06-perspectives.webp" width="900" height="516" alt="Three cards. Feminists see gender as the key power relationship, shown by Walby’s structures. Marxists see class, rooted in ownership, with racism and sexism dividing workers. Functionalists see complementary roles, such as Parsons’ instrumental and expressive roles, and legitimate power." loading="lazy">
+  <figcaption>Feminists and Marxists both see conflict but disagree on whether gender or class comes first.</figcaption>
+</figure>
+
 ## Worked paragraph
 
 > Walby argues that public patriarchy keeps women in low-paid, low-status jobs. For example, in a care home where most care assistants are women and the regional director is a man, women are present in paid work but held below the senior posts. This shows patriarchy now works through segregation in public life rather than direct control at home. However, critics argue Walby underplays differences between women: a female manager in the same company may hold power over the care assistants, so class divides women too.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-relationships--05-care-home-example.webp" width="900" height="500" alt="A three-level hierarchy in a care home: a male regional director at the top, a female manager in the middle and mostly female care assistants in low-paid work at the bottom. Walby would see public patriarchy; critics note the female manager’s power over other women shows class divides women too." loading="lazy">
+  <figcaption>Women are present in paid work but held below senior posts, and class also divides them.</figcaption>
+</figure>
 
 ## Common mistakes
 

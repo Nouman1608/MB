@@ -66,6 +66,16 @@ Britain had avoided permanent alliances, a policy later called "splendid isolati
 | Military plans, such as Germany's Schlieffen Plan, assumed a two-front war | Italy did not join Germany in 1914, showing alliances did not automatically decide action |
 | Alliance support made allies bolder in crises, as Germany's backing of Austria in 1914 showed | Crises between 1905 and 1913 were settled without war |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-causes-first-world-war--01-alliances-timeline.webp" width="900" height="572" alt="A timeline from 1879 to 1907 drawn to scale: the Dual Alliance (1879), Triple Alliance (1882) and Reinsurance Treaty (1887); Bismarck's dismissal and the treaty's lapse (1890); the Franco-Russian Alliance (1894); the Anglo-Japanese Alliance (1902); the Entente Cordiale (1904) and the Anglo-Russian Convention (1907). Below, the two blocs." loading="lazy">
+  <figcaption>After 1890 Germany lost Russia; by 1907 Europe had two blocs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-causes-first-world-war--02-alliances-balance.webp" width="900" height="488" alt="A balance. More likely: two armed camps, German encirclement and reliance on Austria-Hungary, the Schlieffen Plan, and bolder allies. Less likely: alliances were defensive, the ententes were not binding, Italy stayed out in 1914, and the crises of 1905-13 ended without war." loading="lazy">
+  <figcaption>The alliances explain how the war spread more than why it began.</figcaption>
+</figure>
+
 ## The arms race
 
 - **Naval race:** Germany's Navy Laws of 1898 and 1900, driven by Admiral Tirpitz, aimed to build a fleet to challenge
@@ -78,6 +88,11 @@ Britain had avoided permanent alliances, a policy later called "splendid isolati
 
 The arms race did not start the war, but it created fear and mistrust, especially between Britain and Germany, and
 made governments believe that if war came it was better to fight sooner than later.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-causes-first-world-war--03-arms-race.webp" width="900" height="679" alt="A timeline from 1898 to 1913: the German Navy Laws (1898, 1900), HMS Dreadnought (1906), &quot;We want eight&quot; (1909), and French and Russian army expansion (1913). Two cards contrast the naval race between Britain and Germany with conscript armies and the Schlieffen Plan." loading="lazy">
+  <figcaption>The arms race bred fear and a belief that war was better sooner than later.</figcaption>
+</figure>
 
 ## Colonial rivalries
 
@@ -95,6 +110,11 @@ made governments believe that if war came it was better to fight sooner than lat
 drove Britain and France closer. But colonial disputes were also settled by negotiation, and the war began in the
 Balkans, not over colonies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-causes-first-world-war--04-colonial-crises.webp" width="900" height="673" alt="Four paired rows: the Kruger Telegram (1896) angered Britain; Fashoda (1898) showed Anglo-French rivalry, later settled in the Entente Cordiale; the First Moroccan Crisis (1905-06) ended at Algeciras with Germany isolated; the Agadir crisis (1911) brought Britain behind France. A note says colonial disputes were settled and the war began in the Balkans." loading="lazy">
+  <figcaption>Colonial crises hardened the blocs but did not start the war.</figcaption>
+</figure>
+
 ## The Balkans: why the problems were hard to solve
 
 1. **Ottoman decline** left a power vacuum that Austria-Hungary and Russia both wanted to fill.
@@ -108,6 +128,11 @@ Balkans, not over colonies.
 
 The problems were hard to solve because the great powers' interests were directly opposed, and each crisis left one
 side resentful.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-causes-first-world-war--05-balkans.webp" width="900" height="523" alt="A schematic hub with Ottoman decline at the centre. Austria-Hungary, backed by Germany, annexed Bosnia in 1908-09. Serbia led Slav nationalism and nearly doubled its territory in 1912-13. Russia, protector of the Slavs, backed down in 1909 and was determined not to be humiliated again." loading="lazy">
+  <figcaption>Opposed interests and resentment after each crisis made the Balkans explosive.</figcaption>
+</figure>
 
 ## The crisis of June-July 1914
 
@@ -127,6 +152,11 @@ side resentful.
 confident; Russian mobilisation in support of Serbia set off the Schlieffen Plan, which meant war with France and the
 invasion of Belgium; the violation of Belgian neutrality, guaranteed by Britain in 1839, brought Britain in.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-causes-first-world-war--06-july-crisis-chain.webp" width="900" height="805" alt="Six linked steps: the assassination on 28 June; the blank cheque (5-6 July); the ultimatum and Austrian declaration of war on Serbia (23-28 July); Russian mobilisation (30 July), which set off the Schlieffen Plan; German declarations of war on Russia and France (1-3 August); and the invasion of Belgium and Britain's entry (4 August)." loading="lazy">
+  <figcaption>Explain the links: alliances and the Schlieffen Plan turned a Balkan war into a European one.</figcaption>
+</figure>
+
 ## Annotated model answer
 
 An original practice question: *"The Alliance System was the main cause of the First World War." How far do you
@@ -139,6 +169,11 @@ agree? [10]*
 > product of the arms race and military planning. *[Disagree, explained.]* The alliances explain how the war spread,
 > but Balkan rivalry explains why it began and military plans explain why diplomacy had so little time. *[Judgement
 > separating cause, spread and speed.]*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-causes-first-world-war--07-cause-spread-speed.webp" width="900" height="443" alt="Three cards separate the causes: Balkan rivalry explains why the war began, the alliances explain how it spread, and the Schlieffen Plan explains why diplomacy had so little time. A note: Italy stayed neutral and Britain entered over Belgium." loading="lazy">
+  <figcaption>A strong judgement separates cause, spread and speed.</figcaption>
+</figure>
 
 ## Common mistakes
 

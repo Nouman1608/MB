@@ -1,0 +1,74 @@
+[
+ {
+  "file": "oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--01-three-exposure-questions.webp",
+  "width": 900,
+  "height": 756,
+  "after": "## Interest rates: who feels a change most?",
+  "alt": "Three questions sort businesses into less and more exposed to a rate change: how much they borrow (little versus a large loan or overdraft), whether borrowing is fixed or variable (overdrafts most exposed), and whether customers borrow to buy items such as cars, furniture, houses or holidays.",
+  "caption": "Debt size, fixed or variable borrowing, and customers’ borrowing decide the impact.",
+  "bytes": 124684
+ },
+ {
+  "file": "oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--02-direct-and-indirect-effects.webp",
+  "width": 900,
+  "height": 750,
+  "after": "## Interest rates: who feels a change most?",
+  "alt": "A rate rise works through three chains. Directly, variable loans and overdrafts cost more, so profit falls. Indirectly, households pay more on mortgages and loans and buy less, and other businesses put off investment, so equipment suppliers lose orders even with no debt. A fall reverses each chain.",
+  "caption": "A rate rise hits a business through its own debt and through its customers.",
+  "bytes": 101284
+ },
+ {
+  "file": "oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--03-atherley-and-pellow.webp",
+  "width": 900,
+  "height": 779,
+  "after": "## Worked example 1: same rise, different effects",
+  "alt": "After a 2-point rise, Atherley Garage’s fixed-rate $80,000 loan still costs $4,800 a year, but its customers may delay repairs. Pellow Florist pays $1,000 more on a $50,000 variable loan (7% to 9%) and $300 more on a $15,000 overdraft (10% to 12%), $1,300 extra a year.",
+  "caption": "Fixed-rate debt delays the direct effect; variable debt feels it at once.",
+  "bytes": 128710
+ },
+ {
+  "file": "oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--04-sharia-compliant-finance.webp",
+  "width": 900,
+  "height": 746,
+  "after": "## Sharia compliant alternatives",
+  "alt": "Four forms of finance without interest: murabaha (asset bought and resold at an agreed higher price in instalments), ijara (asset leased for an agreed rent), musharaka (partnership sharing profit and loss) and mudaraba (money from one party, skill from the other, profits shared). A rate rise has a smaller direct effect, but customers still spend less.",
+  "caption": "Sharia compliant finance softens the direct effect of a rate rise, not the indirect one.",
+  "bytes": 142026
+ },
+ {
+  "file": "oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--05-employment-effects.webp",
+  "width": 900,
+  "height": 790,
+  "after": "## The level of employment",
+  "alt": "When employment rises, spending rises, vacancies are harder to fill, pay pressure grows and restaurants and leisure gain. When it falls, spending falls, there are more applicants, less pay pressure and low-price retailers and repair services gain. A local factory closure hits nearby shops, cafés and taxi firms.",
+  "caption": "Employment changes demand, recruitment and wages, and helps some businesses as it hurts others.",
+  "bytes": 124382
+ },
+ {
+  "file": "oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--06-what-households-cut.webp",
+  "width": 900,
+  "height": 670,
+  "after": "## Consumer spending as incomes fluctuate",
+  "alt": "A scale from cut first to changes least. When incomes fall, households cut things they enjoy but do not need, such as eating out, holidays, new technology and premium brands, delay large purchases and trade down; spending on necessities such as basic food changes least.",
+  "caption": "Non-essentials and big purchases are cut first; necessities hold up.",
+  "bytes": 74176
+ },
+ {
+  "file": "oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--07-rowanbrook-furniture.webp",
+  "width": 900,
+  "height": 929,
+  "after": "## Consumer spending as incomes fluctuate",
+  "alt": "After a rate rise and an income squeeze, Rowanbrook’s sofa revenue falls from $108,000 (120 sofas) to $86,400 (96), down 20%, while cushions and throws fall only from $18,000 to $17,280, down 4%. Total revenue falls $22,320, about 17.7%, and $21,600 of that is sofas.",
+  "caption": "Delayable, credit-funded purchases take almost all of the fall.",
+  "bytes": 123822
+ },
+ {
+  "file": "oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--08-exam-answer-ladder.webp",
+  "width": 900,
+  "height": 630,
+  "after": "## Exam technique for this section",
+  "alt": "Explain: an overdraft rate rise increases interest costs and reduces profit. Analyse: rate rise, higher mortgage payments, less spending, fewer sales. Evaluate: judge the effect using the business’s debt, whether borrowing is fixed or variable, and whether it sells necessities or luxuries.",
+  "caption": "Explain one effect, analyse through customers, then judge using the case.",
+  "bytes": 78830
+ }
+]

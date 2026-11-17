@@ -1,0 +1,56 @@
+[
+ {
+  "file": "aqa-a-level-law-7162-the-rules-of-tort-law--01-tort-and-crime.webp",
+  "width": 900,
+  "height": 705,
+  "after": "## What a tort claim is",
+  "alt": "The same incident, a driver killing a pedestrian, can lead to a negligence claim and a criminal charge, which are separate. A table compares them: the claimant sues in tort but the CPS usually prosecutes; tort uses the balance of probabilities and crime beyond reasonable doubt; tort gives liability and a remedy, crime a conviction and sentence; tort aims at compensation, crime at punishment.",
+  "caption": "Tort compensates the claimant; crime punishes on behalf of society.",
+  "bytes": 102576
+ },
+ {
+  "file": "aqa-a-level-law-7162-the-rules-of-tort-law--02-sources-of-tort.webp",
+  "width": 900,
+  "height": 541,
+  "after": "## Where the rules come from",
+  "alt": "Common law torts built case by case: negligence (Donoghue, Caparo, Robinson), private nuisance (Hunter v Canary Wharf), Rylands v Fletcher (Transco), vicarious liability (Various Claimants, Lister) and consent (Smith v Baker, ICI v Shatwell). Statutory rules: the Occupiers’ Liability Acts 1957 and 1984 and the Contributory Negligence Act 1945. In negligence, established precedent comes first and Caparo is only for novel situations.",
+  "caption": "Negligence grows case by case; occupiers’ liability starts from the Acts’ wording.",
+  "bytes": 117020
+ },
+ {
+  "file": "aqa-a-level-law-7162-the-rules-of-tort-law--03-who-proves-what.webp",
+  "width": 900,
+  "height": 608,
+  "after": "## Who has to prove what",
+  "alt": "The claimant proves each element of the tort on the balance of probabilities, and the defendant proves any defence. Barnett v Chelsea and Kensington shows a claim failing on causation. Res ipsa loquitur (Scott v London and St Katherine Docks) and a criminal conviction used as evidence under s11 Civil Evidence Act 1968 can help the claimant.",
+  "caption": "The claimant proves the tort; the defendant proves the defence.",
+  "bytes": 130694
+ },
+ {
+  "file": "aqa-a-level-law-7162-the-rules-of-tort-law--04-fault-spectrum.webp",
+  "width": 900,
+  "height": 715,
+  "after": "## Liability and fault across the torts",
+  "alt": "A spectrum from personal fault needed to no personal fault. Negligence is fault-based (Vaughan v Menlove; Bolton v Stone; Paris v Stepney). Occupiers’ liability is a fault-based statutory duty. Private nuisance asks whether use of land was unreasonable (Christie v Davey on malice). Rylands v Fletcher is strict but requires foreseeable damage (Cambridge Water). Vicarious liability requires no personal fault by the employer.",
+  "caption": "From negligence to vicarious liability, the need for personal fault falls away.",
+  "bytes": 142068
+ },
+ {
+  "file": "aqa-a-level-law-7162-the-rules-of-tort-law--05-defences.webp",
+  "width": 900,
+  "height": 669,
+  "after": "## Defences and remedies as part of the rules",
+  "alt": "Illustrative bars show full damages with no defence, reduced damages with contributory negligence and nothing with consent. Contributory negligence under the 1945 Act reduces damages by a just share, for example 25% or 15% for not wearing a seat belt (Froom v Butcher). Consent is complete where the claimant knew of and freely agreed to the risk (Smith v Baker; Morris v Murray), but rescuers do not consent (Haynes v Harwood). Nuisance and Rylands have specific defences.",
+  "caption": "Contributory negligence reduces damages; consent defeats the claim.",
+  "bytes": 106836
+ },
+ {
+  "file": "aqa-a-level-law-7162-the-rules-of-tort-law--06-worked-example-kit.webp",
+  "width": 900,
+  "height": 696,
+  "after": "## Worked example",
+  "alt": "Parties: Kit sues Jas in negligence and SpeedyParcels Ltd through vicarious liability. Duty is established (Robinson); breach by using a phone while reversing (Vaughan v Menlove); damage by but for causation (Barnett) and foreseeable harm (Wagon Mound); Jas acted in the course of employment; Kit ignored a warning sign so damages are reduced for contributory negligence, though consent is unlikely.",
+  "caption": "Identify every party who might pay, then end with defences and remedies.",
+  "bytes": 139444
+ }
+]

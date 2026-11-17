@@ -1,0 +1,56 @@
+[
+ {
+  "file": "aqa-a-level-law-7162-remedies-law-of-contract--01-damages-filter.webp",
+  "width": 900,
+  "height": 626,
+  "after": "## Compensatory damages",
+  "alt": "Starting from the claimant’s loss, damages pass three filters: causation (the breach must be an effective cause; Quinn v Burch Brothers), remoteness (Hadley v Baxendale, judged at the time of contracting) and mitigation (British Westinghouse). What remains is recoverable as of right, compensatory, not punitive.",
+  "caption": "Loss is reduced by causation, remoteness and mitigation before damages are paid.",
+  "bytes": 134218
+ },
+ {
+  "file": "aqa-a-level-law-7162-remedies-law-of-contract--02-categories-of-loss.webp",
+  "width": 900,
+  "height": 447,
+  "after": "## Compensatory damages",
+  "alt": "Six categories: expectation loss (Robinson v Harman), reliance loss (Anglia Television v Reed), loss of a chance (Chaplin v Hicks), loss of amenity where cure is disproportionate (Ruxley v Forsyth, £2,500), and non-pecuniary loss, generally barred (Addis) but recoverable where pleasure or peace of mind is a major object (Jarvis; Farley v Skinner).",
+  "caption": "Expectation is the default; the others fill gaps where it cannot be measured.",
+  "bytes": 107520
+ },
+ {
+  "file": "aqa-a-level-law-7162-remedies-law-of-contract--03-remoteness-hadley.webp",
+  "width": 900,
+  "height": 525,
+  "after": "## Compensatory damages",
+  "alt": "Hadley v Baxendale’s two limbs: losses arising naturally (with The Heron II’s “not unlikely” test) and losses in both parties’ contemplation because of special knowledge, judged at contracting. Cases: Hadley (lost mill profits too remote), Victoria Laundry (ordinary profits recovered, lucrative contracts not), Parsons v Uttley Ingham (type contemplated, full extent recovered) and The Achilleas (assumption of responsibility).",
+  "caption": "What the defendant knew when contracting sets the limit of liability.",
+  "bytes": 130366
+ },
+ {
+  "file": "aqa-a-level-law-7162-remedies-law-of-contract--04-equitable-remedies.webp",
+  "width": 900,
+  "height": 557,
+  "after": "## Equitable remedies",
+  "alt": "Specific performance orders the contract to be carried out where damages are inadequate: granted for land, unique goods (Falcke v Gray) and in Beswick v Beswick; refused for personal service, constant supervision (Co-operative Insurance v Argyll), severe hardship (Patel v Ali) or unfairness and delay. Rescission sets the contract aside for misrepresentation or economic duress, and is lost by affirmation, lapse of time, third-party rights or impossible restitution.",
+  "caption": "Both depend on the court’s discretion, unlike damages.",
+  "bytes": 118104
+ },
+ {
+  "file": "aqa-a-level-law-7162-remedies-law-of-contract--05-termination-for-breach.webp",
+  "width": 900,
+  "height": 724,
+  "after": "## Termination of contract for breach",
+  "alt": "Termination is available for breach of a condition (Poussard v Spiers), a serious breach of an innominate term (Hong Kong Fir; not The Hansa Nord) or renunciation. The innocent party elects to terminate, ending future obligations with damages for the lost bargain, or to affirm. Rescission undoes a contract from the start; termination ends it for the future. Consumers have statutory rights to reject under the Consumer Rights Act 2015.",
+  "caption": "Termination ends the future; rescission unwinds the past.",
+  "bytes": 119628
+ },
+ {
+  "file": "aqa-a-level-law-7162-remedies-law-of-contract--06-leah-oven.webp",
+  "width": 900,
+  "height": 570,
+  "after": "## Worked example",
+  "alt": "Leah’s wedding profit of £6,000 is not too remote because Ovenco was told (Victoria Laundry); the unmentioned £9,000 banquet profit is too remote. A similar oven was available for £11,000 on 10 April, so under Payzu v Saunders a court may limit damages to the £1,000 extra cost rather than £6,000. Specific performance is irrelevant.",
+  "caption": "Remoteness removes the banquet; mitigation may shrink the rest to £1,000.",
+  "bytes": 108906
+ }
+]

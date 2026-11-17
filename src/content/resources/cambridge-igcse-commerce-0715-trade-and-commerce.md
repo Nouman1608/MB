@@ -50,6 +50,11 @@ Three differences are worth learning as a set:
 
 A definition question ("Define commerce") needs both halves: buying and selling **and** the services that support it. "Commerce is buying and selling" describes trade, not commerce, and does not earn the mark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--01-commerce-tree.webp" width="900" height="655" alt="A tree. Commerce splits into trade and aids to trade. Trade divides into home trade (retail and wholesale) and international trade (exports and imports). The six aids to trade are communications, transport, warehousing, advertising, banking and insurance." loading="lazy">
+  <figcaption>Trade is only one part of commerce; commerce adds the services that make trade possible.</figcaption>
+</figure>
+
 ## What are home trade and international trade? (1.1.1)
 
 **Home trade** (domestic trade) is buying and selling within one country. The syllabus divides it into two kinds:
@@ -60,6 +65,11 @@ A definition question ("Define commerce") needs both halves: buying and selling 
 **International trade** is buying and selling between countries. **Exports** are goods and services sold to buyers in other countries, so money flows **into** the exporting country. **Imports** are goods and services bought from other countries, so money flows **out**.
 
 A quick test: ask where the buyer and seller are. A tea grower selling to a packer in the same country is home trade; selling to a buyer abroad is an export for the grower's country and an import for the buyer's.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--02-home-and-international-trade.webp" width="900" height="630" alt="Inside Country A, a producer sells in bulk to a wholesaler (wholesale trade) and a retailer sells small quantities to consumers (retail trade). Goods sold to a buyer in Country B are exports, bringing money in; goods bought from Country B are imports, sending money out." loading="lazy">
+  <figcaption>Ask where the buyer and seller are: same country is home trade, different countries is international trade.</figcaption>
+</figure>
 
 ## What are aids to trade? (1.1.2)
 
@@ -76,6 +86,11 @@ A quick test: ask where the buyer and seller are. A tea grower selling to a pack
 
 Linking each aid to its barrier turns a list into an explanation. The aids are studied in depth later: communication in 2.6, transport and warehousing in Topic 4, the other three in Topic 5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--03-aids-remove-barriers.webp" width="900" height="635" alt="Between producer and consumer stand six barriers, each removed by one aid to trade: lack of information by communications, distance by transport, time by warehousing, lack of knowledge by advertising, payment and finance by banking, and risk by insurance." loading="lazy">
+  <figcaption>Link each aid to the barrier it removes to turn a list into an explanation.</figcaption>
+</figure>
+
 ## What is logistics? (1.1.2)
 
 **Logistics** is the planning and management of the movement and storage of goods through a supply chain, so that the right goods arrive at the right place, at the right time, in the right quantity and at the lowest reasonable cost.
@@ -87,6 +102,11 @@ The syllabus names three **elements of logistics in a supply chain**:
 - **Warehousing**: storing goods safely until they are needed, so that supply can meet demand.
 
 Transport and warehousing are also aids to trade; logistics is the idea of managing them, with the freight forwarder, as one flow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--04-logistics.webp" width="900" height="650" alt="Top: goods move by transport from supplier to producer, warehouse, retailer and consumer. Middle: a freight forwarder combines small loads from several customers into one shipment, booking space and helping prepare documents. Bottom: the aim of logistics." loading="lazy">
+  <figcaption>Logistics manages transport, freight forwarding and warehousing as one flow.</figcaption>
+</figure>
 
 ## What are the four types of commerce? (1.1.3)
 
@@ -100,6 +120,11 @@ The syllabus defines each type by **where or how** the buying and selling happen
 | Scommerce (social commerce) | Buying and selling goods and/or services via social media channels | Buying a handmade bag directly through a seller's social media shop |
 
 Mcommerce and scommerce are both forms of ecommerce, because they use the internet. The distinction an examiner looks for is the **channel**: a website (ecommerce), a mobile device (mcommerce) or a social media platform (scommerce). A purchase through a social media shop is scommerce even when it is made on a phone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--05-four-types-of-commerce.webp" width="900" height="605" alt="Traditional commerce happens at a physical location. Ecommerce happens via the internet and contains two forms: mcommerce via a mobile device and scommerce via social media channels, each with an example." loading="lazy">
+  <figcaption>The channel decides the type: a place, a website, a mobile device or social media.</figcaption>
+</figure>
 
 ## How are production, trade and commerce interdependent? (1.1.4)
 
@@ -116,6 +141,11 @@ Mcommerce and scommerce are both forms of ecommerce, because they use the intern
 
 > A chocolate manufacturer produces bars in its factory, but it produces far more than it could use, so it depends on **trade**, selling to wholesalers and retailers, to earn revenue [1]. The retailers depend on the manufacturer's **production** because without it they would have nothing to sell [1]. Trade itself relies on **commerce**: the bars must be transported in refrigerated trucks and stored in warehouses before sale, and the manufacturer needs insurance against damage in transit [1]. In turn, the transport firms and insurers earn their income only because chocolate is being produced and traded, so all three depend on each other [1].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--06-interdependence.webp" width="900" height="725" alt="Four links: production needs trade to sell its goods; trade needs production for something to sell; trade needs commerce because buyers and sellers are far apart and exposed to risk; and commerce needs production and trade for its income." loading="lazy">
+  <figcaption>Show the dependence running in more than one direction.</figcaption>
+</figure>
+
 ## Worked example: classifying transactions
 
 *Classify each transaction as home trade (retail or wholesale) or international trade (export or import) for Country X, and name the type of commerce.*
@@ -126,6 +156,11 @@ Mcommerce and scommerce are both forms of ecommerce, because they use the intern
 | A furniture maker in Country X sells 200 chairs to a hotel chain abroad through its website | International trade, export | Ecommerce |
 | A shop owner in Country X buys 50 cartons of juice from a local wholesaler using the wholesaler's app | Home trade, wholesale | Mcommerce |
 | A shopper in Country X buys a dress from an overseas designer through a social media shop | International trade, import | Scommerce |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--07-classifying-transactions.webp" width="900" height="570" alt="Four transactions for Country X: a supermarket selling bread is home retail trade by traditional commerce; chairs sold abroad via a website are an export by ecommerce; juice bought from a wholesaler’s app is home wholesale trade by mcommerce; a dress bought from an overseas social media shop is an import by scommerce." loading="lazy">
+  <figcaption>Classify the trade by where buyer and seller are, and the commerce by the channel used.</figcaption>
+</figure>
 
 ## What are the common mistakes in 1.1?
 

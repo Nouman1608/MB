@@ -30,6 +30,11 @@ featured: false
 
 Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 2027 and 2029 and on **Paper 1 (Historical Sources)** in 2028. Paper 2 part (a) asks "Explain why..." for 10 marks and part (b) a 20-mark comparative judgement; Paper 1 sets a 15-mark comparison of two sources and a 25-mark question on four sources. Revise with the [Great Depression and New Deal revision notes](/resources/cambridge-a-level-world-history-9489-great-depression-new-deal-revision-notes/) and practise with the [Great Depression and New Deal practice questions](/resources/cambridge-a-level-world-history-9489-great-depression-new-deal-practice/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-usa-1820-1941--13-wh-usa-rotation.webp" width="900" height="732" alt="A grid of the three American Option topics against 2027, 2028 and 2029. Gold marks Paper 1 (Historical Sources), teal marks Paper 2 (Outline Study). The Gilded Age is Paper 1 in 2027, the Great Crash and New Deal in 2028, the Civil War and Reconstruction in 2029." loading="lazy">
+  <figcaption>Each topic is on Paper 1 once in three years and on Paper 2 in the other two.</figcaption>
+</figure>
+
 ## 6.1 What caused the Great Crash and the Great Depression?
 
 **Republican government, 1921-29.** Presidents Harding and Coolidge, with Andrew Mellon at the Treasury, cut taxes on high incomes, kept regulation light and raised tariffs (Fordney-McCumber, 1922). Their belief that prosperity came from business confidence encouraged the boom but left it unsupervised.
@@ -44,6 +49,16 @@ Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 202
 - **Banks and the Federal Reserve.** Thousands of small, independent banks held weak reserves; many had already failed in rural areas in the 1920s. The Federal Reserve tightened credit in 1928-29 and then failed to act as lender of last resort as banks collapsed in waves from 1930. Economists Milton Friedman and Anna Schwartz later made this the centre of their explanation.
 - **Overproduction and underconsumption.** Factories and farms produced more than consumers, many already in debt, could buy. The new industries had saturated their markets by the late 1920s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--01-margin-spiral.webp" width="900" height="732" alt="Above, the build-up: share prices rising faster than profits from 1927, buying on the margin with borrowed money, investment trusts and almost no regulation. A loop shows how falling confidence in autumn 1929 lowered prices, which triggered margin calls and forced sales, which lowered prices further. Below: Black Thursday (24 October), Black Tuesday (29 October) and a loss of almost 90 per cent by mid-1932." loading="lazy">
+  <figcaption>Margin buying turned falling prices into a self-feeding spiral.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--02-crash-to-depression.webp" width="900" height="708" alt="A loop of loans: American loans went to Germany, which paid reparations to Britain and France, which repaid war debts to the USA. A broken arrow shows American lending stopping after 1928-29, followed by the Hawley-Smoot Tariff of 1930. Two more cards: weak banks and a Federal Reserve that failed to act as lender of last resort, and overproduction with underconsumption." loading="lazy">
+  <figcaption>Three deeper problems, not the Crash alone, made the Depression so deep.</figcaption>
+</figure>
+
 ## 6.2 What was the impact of the Crash and the Depression?
 
 **Immediate effects.** The fall in share values ruined speculators and many ordinary investors, and bankrupted brokers, banks and insurance companies. Demand for regulation of Wall Street grew.
@@ -54,6 +69,11 @@ Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 202
 
 **The 1932 election.** Franklin Roosevelt promised "a new deal for the American people" and won 42 of the 48 states. His victory began to build the **New Deal coalition**: urban workers, immigrants and their children, Catholics and Jews, the white South, many farmers and, increasingly, African Americans and union members.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--03-hoover-response.webp" width="900" height="597" alt="A timeline from 1929 to 1933 drawn to scale: the Federal Farm Board (1929), the Crash (October 1929), the war-debt moratorium (1931), the Reconstruction Finance Corporation (January 1932), the Emergency Relief and Construction Act and the eviction of the Bonus Marchers (both July 1932), and Roosevelt taking office (4 March 1933). Below, Hoover's limits and the criticism of the RFC." loading="lazy">
+  <figcaption>Hoover acted, but within limits set by his belief in self-reliance.</figcaption>
+</figure>
+
 ## 6.3 How successful was the first New Deal?
 
 **March 1933.** Between the election and the inauguration, banks failed across the country and many states declared bank holidays. Roosevelt took office on 4 March, telling Americans that "the only thing we have to fear is fear itself". He relied on advisers from universities -- the **Brains Trust** (including Raymond Moley, Rexford Tugwell and Adolf Berle) -- and on large Democratic majorities in Congress.
@@ -63,6 +83,16 @@ Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 202
 **Success?** Confidence and the banking system recovered quickly; millions received relief or work; farm incomes rose. But the NRA codes were complex and often written by large firms, the AAA helped landowners more than tenants, and unemployment remained high.
 
 **Critics and the Court.** On the **Left**, socialists and communists said the New Deal saved capitalism; Dr Francis **Townsend** demanded generous pensions for the elderly; the radio priest Father Charles **Coughlin** attacked bankers; Senator Huey **Long** of Louisiana proposed "Share Our Wealth". On the **Right**, Republicans, the business-funded American Liberty League, many newspapers and some Southern Democrats attacked spending and federal power. The **Supreme Court** struck down the NIRA (*Schechter*, 1935) and the AAA (*Butler*, 1936). After re-election, Roosevelt proposed in 1937 to add up to six justices -- the **court-packing plan**. Congress rejected it, but the Court began upholding New Deal laws, and retirements let Roosevelt appoint new justices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--04-hundred-days.webp" width="900" height="816" alt="The Emergency Banking Act and the first fireside chat reopen sound banks. Three columns follow: relief (CCC, FERA), recovery (AAA, NIRA, TVA) and reform (Glass-Steagall, the Securities Act and the SEC). Below, what worked (confidence, relief, farm incomes) and what fell short (complex NRA codes, help for landowners over tenants, high unemployment)." loading="lazy">
+  <figcaption>Judge each agency on what it set out to do: relief, recovery or reform.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--05-critics-and-court.webp" width="900" height="642" alt="A left-right spectrum. On the left, socialists and communists, and Townsend, Coughlin and Long; in the centre, Roosevelt's New Deal; on the right, Republicans, the American Liberty League, newspapers and some Southern Democrats. Below, the Court: Schechter (1935) and Butler (1936) struck down the NIRA and AAA; the 1937 court-packing plan failed, but the Court began upholding New Deal laws." loading="lazy">
+  <figcaption>Roosevelt faced critics on both flanks and a hostile Court until 1937.</figcaption>
+</figure>
 
 ## 6.4 Why was there a second New Deal and how successful was it?
 
@@ -75,6 +105,16 @@ Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 202
 **The recession of 1937-38.** Believing recovery secure, Roosevelt cut spending to balance the budget; the Federal Reserve tightened credit and new Social Security taxes reduced purchasing power. Output fell and unemployment rose sharply, hurting business and families. Renewed spending in 1938 and, from 1939-41, rearmament brought recovery.
 
 **Impact by 1941.** Unionised workers, the elderly, many farmers and homeowners gained. Sharecroppers, many African Americans (agricultural and domestic workers were excluded from Social Security), and women, often paid less under the codes, gained least. The federal government had taken permanent responsibility for welfare, banking regulation and labour relations. But full recovery came only with war production.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--06-second-new-deal.webp" width="900" height="817" alt="Four pressures converge on the second New Deal of 1935-37: the Left (Long, Coughlin, Townsend), Court defeats, the coming 1936 election and a wish for lasting reform. A table lists its measures: the WPA, the Social Security Act, the Wagner Act, the Revenue Act, rural electrification and, in 1938, the Fair Labor Standards Act." loading="lazy">
+  <figcaption>Political pressure and Court defeats pushed Roosevelt towards lasting reform.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--07-recession-1937.webp" width="900" height="588" alt="Three causes of the 1937-38 recession, spending cuts to balance the budget, tighter Federal Reserve credit and new Social Security taxes, lead to falling output and sharply rising unemployment. Recovery followed renewed spending in 1938 and rearmament in 1939-41, with full recovery only through war production." loading="lazy">
+  <figcaption>Cutting spending in 1937 caused a new slump; war production ended the Depression.</figcaption>
+</figure>
 
 ## Worked example: a Paper 2 part (a)
 

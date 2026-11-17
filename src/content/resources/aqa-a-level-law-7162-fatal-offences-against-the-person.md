@@ -42,6 +42,21 @@ This guide covers the section 3.2 row **Fatal offences against the person** in A
 - **Direct intention:** the defendant's aim or purpose.
 - **Oblique intention:** the jury is entitled to find intention where death or serious injury was a virtual certainty as a result of the defendant's actions and the defendant appreciated that this was the case (*R v Nedrick*, 1986, as modified by *R v Woollin*, 1998). In *R v Matthews and Alleyne* (2003) the Court of Appeal treated this as a rule of evidence: foresight of virtual certainty is evidence from which intention may be found, not intention itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-fatal-offences-against-the-person--01-murder-actus-reus.webp" width="900" height="592" alt="The actus reus of murder: a reasonable creature in being, meaning a human born alive (A-G’s Reference No 3 of 1994); brain-stem death (Malcherek and Steel); an unlawful killing, not lawful self-defence; no time limit since the 1996 Act. Causation must be factual (White) and legal, with cases on medical treatment (Smith, Cheshire, Jordan), thin skull (Blaue), escape (Roberts) and third parties (Pagett)." loading="lazy">
+  <figcaption>A human being, killed unlawfully, with factual and legal causation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-fatal-offences-against-the-person--02-malice-aforethought.webp" width="900" height="643" alt="Malice aforethought is either express, an intention to kill, or implied, an intention to cause GBH (Vickers; Cunningham). Either may be direct, the defendant’s aim, or oblique: under Nedrick as modified by Woollin, the jury is entitled to find intention where death or serious injury was a virtual certainty and the defendant appreciated it; Matthews and Alleyne treats this as a rule of evidence." loading="lazy">
+  <figcaption>Intent to kill or to cause GBH, found directly or from foresight of virtual certainty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--01-cr-homicide-path.webp" width="900" height="1005" alt="Decision path for homicide. An unlawful killing with malice aforethought, meaning an intention to kill or to cause grievous bodily harm, is murder with a mandatory life sentence. If loss of control or diminished responsibility applies, murder is reduced to voluntary manslaughter. A killing without malice aforethought is involuntary manslaughter, through an unlawful and dangerous act or gross negligence." loading="lazy">
+  <figcaption>A decision path from an unlawful killing to murder, voluntary manslaughter or involuntary manslaughter.</figcaption>
+</figure>
+
 ## Voluntary manslaughter: the partial defences
 
 Both are **partial defences to murder only**. If successful, the defendant is convicted of manslaughter, and the judge has discretion over the sentence.
@@ -73,6 +88,16 @@ The defendant must prove, on the balance of probabilities (s2(2)), that he was s
 - *R v Dietschmann* (2003): where the defendant was drunk and also had an abnormality, the jury asks whether the abnormality substantially impaired him despite the drink.
 - *R v Wood* (2008): alcohol dependency syndrome can found the defence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-fatal-offences-against-the-person--03-loss-of-control.webp" width="900" height="714" alt="Loss of control has three elements: a loss of self-control, which need not be sudden but excludes considered revenge (Jewell); a qualifying trigger of fear of serious violence or anger at extremely grave circumstances; and the normal person test. Triggers incited as an excuse and sexual infidelity are excluded, though Clinton allows infidelity as context. Once there is sufficient evidence, the prosecution must disprove the defence." loading="lazy">
+  <figcaption>Lost control, a qualifying trigger, and a normal person might have done the same.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-fatal-offences-against-the-person--04-diminished-responsibility.webp" width="900" height="672" alt="Diminished responsibility requires an abnormality of mental functioning that arose from a recognised medical condition, substantially impaired the defendant’s ability to understand, judge rationally or exercise self-control, and provides an explanation for the acts. Cases: Golds (substantially means important or weighty), Dowds (voluntary intoxication is not a condition), Dietschmann (drink plus abnormality) and Wood (alcohol dependency syndrome)." loading="lazy">
+  <figcaption>A recognised condition that substantially impaired the defendant and explains the killing.</figcaption>
+</figure>
+
 ## Involuntary manslaughter
 
 Involuntary manslaughter is an unlawful killing **without** malice aforethought. It has no fixed sentence; the maximum is life.
@@ -101,6 +126,16 @@ The test comes from *R v Adomako* (1995), building on *R v Bateman* (1925): the 
 4. **Causation** of death.
 5. **Gross negligence**: so bad, in all the circumstances, as to amount to a crime.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-fatal-offences-against-the-person--05-unlawful-act-manslaughter.webp" width="900" height="629" alt="Four elements of unlawful act manslaughter: a criminal act, not an omission (Franklin, Lamb, Lowe); dangerous on the objective Church test, with the reasonable person knowing what the defendant knew (Dawson, Watson, JM and SM); causing death, with the chain broken by the victim’s free and informed act (Kennedy) but not in Cato; and only the mens rea of the unlawful act (Newbury and Jones), even if not aimed at the victim (Goodfellow, Mitchell)." loading="lazy">
+  <figcaption>A dangerous criminal act that causes death, with only the mens rea of that act.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-fatal-offences-against-the-person--06-gross-negligence-manslaughter.webp" width="900" height="487" alt="Five elements of gross negligence manslaughter from Adomako: a duty of care, which can arise in an illegal enterprise (Wacker) or from creating a dangerous situation (Evans); breach; a serious and obvious risk of death, not injury (Misra and Srivastava), judged on information at the time (Rose); causation of death; and negligence so gross as to be criminal. The jury asks whether the conduct deserves criminal punishment." loading="lazy">
+  <figcaption>Duty, breach, obvious risk of death, causation, and negligence bad enough to be a crime.</figcaption>
+</figure>
+
 ## Worked example
 
 *Kai and Leo argue outside a pub. Leo says Kai's sister is a thief. Kai, furious, punches Leo once in the face. Leo falls, hits his head on the kerb and dies.*
@@ -119,6 +154,11 @@ Conclusion: Kai is likely to be guilty of unlawful act manslaughter.
 ```
 
 The order matters: test murder first, then the partial defence if murder is made out, then involuntary manslaughter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-fatal-offences-against-the-person--07-kai-leo-worked-example.webp" width="900" height="607" alt="Kai punches Leo once and Leo dies after hitting his head. Murder is unlikely because one punch shows no intention to kill or cause GBH. Loss of control is not needed, and an insult about a sister is unlikely to be extremely grave. Unlawful act manslaughter is likely: battery is a dangerous unlawful act that caused death." loading="lazy">
+  <figcaption>Murder fails on mens rea; a single punch that kills is classic unlawful act manslaughter.</figcaption>
+</figure>
 
 ## Common mistakes
 

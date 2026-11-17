@@ -29,6 +29,11 @@ Sub-topic 6.3 of Cambridge IGCSE Environmental Management (0680, 2027-2029) has 
 
 A flood happens when water arrives faster than a river channel, or the land, can carry it away, so it spills onto land that is normally dry. Rain that falls can be intercepted by plants, soak into the ground (**infiltration**), or flow over the surface (**surface run-off**). Water that infiltrates moves slowly; run-off reaches rivers quickly. Almost every cause of flooding works by increasing run-off or by reducing the space for water in the channel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--01-water-to-river.webp" width="900" height="706" alt="Cross-section of a slope down to a river. Rain is intercepted by trees, infiltrates into the soil and moves slowly through it, or flows quickly over the surface as run-off into the river channel." loading="lazy">
+  <figcaption>Run-off reaches rivers quickly; infiltrated water moves slowly.</figcaption>
+</figure>
+
 ## Causes of flooding (6.3.1)
 
 The syllabus groups the causes into five statements.
@@ -48,6 +53,11 @@ The syllabus groups the causes into five statements.
 **(d) Climate change.** A **rise in sea level** puts low-lying coasts at greater risk, and an **increase in extreme weather events** means more frequent intense rainstorms that deliver more water than the ground can absorb.
 
 **(e) Storm surges and tsunamis.** These cause coastal flooding by sea water. A storm surge is a rise in sea level driven by wind and low pressure during a storm; a tsunami is a series of waves caused when an undersea earthquake or landslide displaces water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--02-causes-by-mechanism.webp" width="900" height="558" alt="Causes of flooding sorted by how they work. More and faster run-off: steep slopes, saturated or compacted soil, deforestation, farming practices, urbanisation and more intense rainstorms. Less channel space: soil erosion. Water collecting: low-lying flat land. Coastal flooding by sea water: sea-level rise, storm surges and tsunamis." loading="lazy">
+  <figcaption>Link each cause to run-off, channel capacity or the sea.</figcaption>
+</figure>
 
 ## Impacts of flooding (6.3.2)
 
@@ -76,6 +86,11 @@ The flood list has eight strategies, including land use zoning.
 | After | Rebuilding of damaged areas | Repairing homes, roads and services, ideally to flood-resistant standards |
 | After | International aid | Money, food, clean water, medical teams and equipment from other countries |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--03-management-stages.webp" width="900" height="628" alt="Strategies arranged before, during and after a flood. Before: monitoring and warning, land use zoning, the structure of buildings and disaster preparation. During: evacuation. During and after: shelters. After: rebuilding and international aid." loading="lazy">
+  <figcaption>Eight strategies, sorted by when they act.</figcaption>
+</figure>
+
 ## Discussing the strategies (6.3.4)
 
 - **Monitoring and warning.** *Benefit*: river floods often build over hours or days, so warnings give time to move people and belongings. *Limitation*: flash floods after intense storms rise very quickly, giving little warning; equipment needs maintenance.
@@ -87,10 +102,20 @@ The flood list has eight strategies, including land use zoning.
 - **Rebuilding.** *Benefit*: a chance to rebuild to better standards. *Limitation*: slow and expensive; may rebuild in the same risky place.
 - **International aid.** *Benefit*: resources beyond local capacity. *Limitation*: may arrive late or unevenly and can create dependency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--04-land-use-zoning.webp" width="900" height="680" alt="Cross-section of a river valley. The floodplain below flood level is used for parks and playing fields, while homes, schools and hospitals are placed on higher ground. Cards give the benefit and the limitation of zoning." loading="lazy">
+  <figcaption>Zoning controls what is built where; it is cheap but hard where land is scarce.</figcaption>
+</figure>
+
 ## Opportunities provided by flooding (6.3.5)
 
 - **Deposition of nutrient-rich silt on farmland.** When a river spreads over its floodplain, the water slows and drops the fine silt it was carrying. This adds nutrients and new soil, raising crop yields; it is why many farming communities have long lived on floodplains.
 - **Recharge of surface water and ground water stores.** Floodwater fills lakes, wetlands and reservoirs, and soaks down to refill aquifers, providing water for drinking and irrigation in the dry season.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--05-opportunities.webp" width="900" height="680" alt="Cross-section of a floodplain under floodwater. As the water spreads and slows it drops a layer of nutrient-rich silt on the farmland, and water soaks down to refill an aquifer. Cards summarise silt deposition and recharge of water stores." loading="lazy">
+  <figcaption>Floods fertilise floodplains and refill water stores for the dry season.</figcaption>
+</figure>
 
 ## Worked example 1: urban run-off
 
@@ -103,6 +128,11 @@ The figures are invented. A storm drops 30 mm of rain on a 1.5 km² area. Assume
 5. Extra water reaching the river = 38,250 − 9,000 = 29,250 m³, more than four times the woodland figure.
 
 This shows numerically why urbanisation is a cause of flooding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--06-urban-run-off.webp" width="900" height="615" alt="Bar chart of run-off from 45,000 m³ of rain: 9,000 m³ from woodland where 20% runs off, and 38,250 m³ from a built-over area where 85% runs off. The working shows an extra 29,250 m³ reaches the river." loading="lazy">
+  <figcaption>Impermeable surfaces send over four times as much water to the river.</figcaption>
+</figure>
 
 ## Worked example 2: annotated "explain" answer
 

@@ -31,6 +31,11 @@ featured: false
 
 Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 2027 and 2028 and on **Paper 1 (Historical Sources)** in 2029. Revise with the [International history 1929-39 revision notes](/resources/cambridge-a-level-world-history-9489-international-history-1929-39-revision-notes/) and practise with the [International history 1929-39 practice questions](/resources/cambridge-a-level-world-history-9489-international-history-1929-39-practice/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-international-1870-1945--01-wh-int-rotation.webp" width="900" height="732" alt="A grid of the three International Option topics against 2027, 2028 and 2029. Gold cells mark the year a topic is on Paper 1 (Historical Sources); teal cells mark Paper 2 (Outline Study). Each topic is Paper 1 exactly once." loading="lazy">
+  <figcaption>Each topic is on Paper 1 once in three years and on Paper 2 in the other two.</figcaption>
+</figure>
+
 ## 9.1 How did the rise of extremism affect international relations?
 
 **The Depression changed politics.** In **Germany**, mass unemployment and the recall of American loans destroyed faith in the Weimar parties; the Nazis rose from a fringe party in 1928 to the largest party in the Reichstag in July 1932, and Hitler became Chancellor in January 1933. In **Japan**, the collapse of silk exports and rural distress discredited party government; nationalist officers assassinated Prime Minister Inukai in 1932, after which party cabinets ended and the army's influence grew. In **Italy**, economic difficulty pushed Mussolini towards foreign success to restore prestige. In the **USA**, the Depression strengthened isolation: Congress passed Neutrality Acts from 1935 to keep the country out of foreign wars.
@@ -46,6 +51,16 @@ Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 202
 
 **The USSR.** Alarmed by Nazism, Stalin switched to **collective security**: the USSR joined the League in 1934 and signed pacts with France and Czechoslovakia in 1935, and the Comintern called for Popular Fronts against fascism. Yet fear of communism in Britain and France made them reluctant partners, and the purges of 1936-38 led them to doubt Soviet military value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--01-depression-extremism.webp" width="900" height="578" alt="The Depression branches into four effects: in Germany the Nazis rose to become the largest party and Hitler Chancellor in January 1933; in Japan the army's influence grew after Inukai's assassination in 1932; in Italy Mussolini sought foreign success; in the USA, Neutrality Acts from 1935 strengthened isolation." loading="lazy">
+  <figcaption>The Depression pushed three powers towards expansion and the USA towards isolation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--02-shifting-alignments.webp" width="900" height="405" alt="Three columns. In 1934-35 the USSR joined the League and signed pacts with France and Czechoslovakia. In April 1935 Britain, France and Italy formed the Stresa Front, which collapsed within months. In 1936-37 Germany and Italy formed the Rome-Berlin Axis and joined Japan in the Anti-Comintern Pact. An arrow shows Italy moving from Stresa to the Axis after Abyssinia and Spain." loading="lazy">
+  <figcaption>Italy's move from Stresa to the Axis reshaped the balance in Europe.</figcaption>
+</figure>
+
 ## 9.2 Why did the League fail to keep the peace in the 1930s?
 
 **Manchuria (1931-33).** After the Mukden incident (September 1931), the Kwantung Army occupied Manchuria and created the puppet state of **Manchukuo**. The League sent the **Lytton Commission**, whose report condemned Japan but proposed autonomy for Manchuria under Chinese sovereignty. When the Assembly adopted it in February 1933, Japan announced its withdrawal from the League. No sanctions were imposed: Manchuria was distant, Britain and France had little military power in the Far East, and the USA was not a member.
@@ -57,6 +72,11 @@ Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 202
 **The Spanish Civil War (1936-39).** The League did not respond because the war was treated as an internal conflict and because Britain and France preferred a separate arrangement. The **Non-Intervention Agreement (1936)**, supervised by a committee in London, failed because Germany and Italy sent aircraft, weapons and troops to Franco, and the USSR supplied the Republic; Britain and France lacked the commitment to enforce it, and France under Blum, though sympathetic to the Republic, would not act without Britain. The Comintern organised **International Brigades** of foreign volunteers for the Republic. The war tested German weapons -- the bombing of Guernica (1937) -- and drew Hitler and Mussolini together.
 
 **Causes of failure.** The League could not achieve **disarmament**; major powers were **absent**; it **relied on Britain and France**, whose own interests came first; the **Depression** made members unwilling to pay the cost of sanctions; and rising **nationalism** produced states that rejected the League's principles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--03-manchuria-abyssinia.webp" width="900" height="605" alt="A comparison table. Manchuria: the Mukden incident (September 1931) and Manchukuo, the Lytton Commission, no sanctions and Japan's withdrawal in February 1933. Abyssinia: the Walwal clash, Italy's invasion in October 1935, limited sanctions, the Hoare-Laval Plan and conquest by May 1936. Below, five causes of failure: no disarmament, absent powers, reliance on Britain and France, the Depression and nationalism." loading="lazy">
+  <figcaption>In both crises the League condemned the aggressor but would not stop it.</figcaption>
+</figure>
 
 ## 9.3 Why, and with what effects, did Britain and France pursue appeasement?
 
@@ -70,6 +90,16 @@ Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 202
 
 **Failures.** Appeasement **increased the dictators' resources** -- Austrian reserves, Czech fortifications and the Skoda arms works -- and their **morale**: Hitler concluded the Western leaders would not fight. **Opposition grew**: Churchill warned throughout, Eden resigned in 1938, and Duff Cooper resigned over Munich.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--04-why-appease.webp" width="900" height="525" alt="Two columns. Britain: limited money for arms, run-down forces after the Ten-Year Rule, apparently pacifist opinion, fear of bombing, and elite sympathy for fascism and German grievances. France: economic problems, political division, fear of communism and the Popular Front, dependence on Britain and the defensive Maginot Line." loading="lazy">
+  <figcaption>Appeasement had economic, military and political reasons in both countries.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--05-appeasement-balance.webp" width="900" height="463" alt="A balance scale. Successes: war postponed to 1939, time to rearm with fighters and radar, and popular and Dominion consent for war. Failures: Germany gained Austrian reserves, Czech fortifications and the Skoda works; Hitler concluded the West would not fight; and opposition grew, with Churchill's warnings and the resignations of Eden and Duff Cooper." loading="lazy">
+  <figcaption>Appeasement bought time, but it also made Hitler stronger and bolder.</figcaption>
+</figure>
+
 ## 9.4 Why did war break out in 1939?
 
 **Hitler's aims and actions.** Hitler aimed to overturn Versailles, unite German-speakers and win *Lebensraum* in the east. He announced rearmament and conscription (1935), remilitarised the Rhineland (1936), annexed Austria and the Sudetenland (1938) and destroyed Czechoslovakia (1939). Each success raised his confidence and weakened his opponents.
@@ -80,11 +110,21 @@ Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 202
 
 **Poland.** Hitler demanded **Danzig** and a route across the **Polish Corridor**. Britain and France's **guarantee to Poland** (March 1939) marked the end of appeasement. Some in the **German High Command** feared a general war -- General Beck had resigned in 1938 -- but Hitler overrode them; he expected Britain and France to back down again. Germany invaded Poland on 1 September 1939; Britain and France declared war on 3 September.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--06-road-to-war.webp" width="900" height="569" alt="A timeline from 1935 to 1939 drawn to scale. Above, German moves: rearmament (1935), the Rhineland (March 1936), the Anschluss (March 1938), Prague (March 1939) and Poland (1 September 1939). Below, responses: the Anglo-German Naval Agreement (1935), Munich (September 1938), the guarantee to Poland (March 1939), the Nazi-Soviet Pact (23 August 1939) and war (3 September 1939)." loading="lazy">
+  <figcaption>Each unopposed step raised Hitler's confidence; the Nazi-Soviet Pact set the timing.</figcaption>
+</figure>
+
 ## Worked example: a Paper 2 part (b)
 
 *"Hitler's foreign policy was the main reason for the outbreak of war in 1939." How far do you agree?* **[20]**
 
 Explain the case for Hitler: aims, expansion and the decision to invade Poland. Weigh alternatives: appeasement encouraged him; the League's failure removed restraint; the Nazi-Soviet Pact removed the risk of a two-front war; the guarantee to Poland created a commitment Hitler did not believe. Judge, for example, that Hitler's aims made war likely and the Nazi-Soviet Pact determined its timing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--07-hitler-main-reason.webp" width="900" height="585" alt="Four alternative factors, appeasement, the League's failure, the Nazi-Soviet Pact and the guarantee to Poland, point to the stated factor: Hitler's aims and his decision to invade Poland. A possible judgement: his aims made war likely and the Pact set its timing." loading="lazy">
+  <figcaption>Separate what made war likely from what decided when it came.</figcaption>
+</figure>
 
 ## Common mistakes
 

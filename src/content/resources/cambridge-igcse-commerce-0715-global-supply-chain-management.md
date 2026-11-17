@@ -34,6 +34,11 @@ A **global supply chain** links businesses in different countries that together 
 
 A complex chain has more stages, so more businesses add cost and profit, and there are more points where something can go wrong. It also reaches many more consumers, because each intermediary brings its own market knowledge and customers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--06-gt-supply-chains.webp" width="900" height="1060" alt="Two vertical chains. Simple: supplier (upstream), manufacturer (enterprise), consumer (downstream). Complex: supplier, agent, wholesaler, retailer, consumer." loading="lazy">
+  <figcaption>A complex chain adds agents, wholesalers and retailers to a simple one.</figcaption>
+</figure>
+
 ## What are upstream, the enterprise and downstream? (3.2.1)
 
 The syllabus describes supply chain management in three parts, viewed from the business at the centre:
@@ -54,6 +59,11 @@ The syllabus describes supply chain management in three parts, viewed from the b
 
 Managing the chain means coordinating all three: ordering enough beans before a poor harvest, keeping the factory supplied without excess stock, and getting bars to shops before festive seasons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-global-supply-chain-management--01-upstream-enterprise-downstream.webp" width="900" height="755" alt="Three columns viewed from the business. Upstream is everything flowing in, such as cocoa farmers, a sugar producer and shipping. The enterprise is the business’s own activities, such as roasting, moulding and packaging. Downstream is everything flowing out, through transport, wholesalers and supermarkets to consumers." loading="lazy">
+  <figcaption>Upstream flows in, the enterprise makes, downstream flows out to the consumer.</figcaption>
+</figure>
+
 ## Why are suppliers so important? (3.2.1)
 
 - **Quality**: the finished product can be no better than its materials and components.
@@ -63,6 +73,11 @@ Managing the chain means coordinating all three: ordering enough beans before a 
 - **Ethics and reputation**: if a supplier pollutes or treats workers badly, customers blame the brand that sells the product.
 
 For these reasons many businesses build long-term relationships with key suppliers, share sales forecasts with them, and check their factories.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-global-supply-chain-management--02-why-suppliers-matter.webp" width="900" height="715" alt="Five supplier factors feed into the business and its brand: quality, reliability, cost, innovation, and ethics and reputation. Because of them, businesses build long-term relationships with key suppliers, share sales forecasts and check factories." loading="lazy">
+  <figcaption>A business is only as good, as reliable and as ethical as its suppliers.</figcaption>
+</figure>
 
 ## What are the benefits of global supply chain management? (3.2.1)
 
@@ -88,6 +103,11 @@ The syllabus names six categories. In exam answers, always name the category **a
 
 Notice the link with 3.1.4: a new tariff or embargo is both a trade restriction and a **political** supply chain risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-global-supply-chain-management--03-six-risks.webp" width="900" height="735" alt="Six cards for environmental, natural disaster, financial, ethical, technological and political risk. Each gives examples, such as floods, child labour or cyber attacks, and a possible effect, such as ports closed, reputation damage or production halted." loading="lazy">
+  <figcaption>Each risk category has typical examples and a typical effect on the business.</figcaption>
+</figure>
+
 ## Why is risk assessment important? (3.2.2)
 
 **Risk assessment** means identifying what could go wrong in the supply chain, judging how likely each risk is and how serious its impact would be, and planning how to reduce it. It matters because:
@@ -110,6 +130,16 @@ Notice the link with 3.1.4: a new tariff or embargo is both a trade restriction 
 | Currency change raises cost | Financial | 4 | 2 | 8 | Agree prices in advance; review pricing |
 
 The flood risk scores highest, so the first priority is reducing dependence on a single supplier. This is the kind of reasoning examiners reward when they ask why risk assessment matters: it ranks risks and leads to action.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-global-supply-chain-management--04-risk-assessment.webp" width="900" height="530" alt="Three steps: identify what could go wrong, judge how likely and how serious each risk is, and plan how to reduce it. Five reasons it matters follow, including acting before a problem and focusing spending on the most serious risks." loading="lazy">
+  <figcaption>Risk assessment ranks risks so the business can act before supplies stop.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-global-supply-chain-management--05-risk-matrix.webp" width="900" height="685" alt="A five-by-five grid of likelihood against impact with four risks plotted. Flood scores 3 × 5 = 15, child labour 2 × 5 = 10, a hacked ordering system 2 × 4 = 8 and a currency change 4 × 2 = 8, each with its action." loading="lazy">
+  <figcaption>Multiplying likelihood by impact ranks the risks: the flood (15) comes first (invented scores).</figcaption>
+</figure>
 
 ## What are the common mistakes in 3.2?
 

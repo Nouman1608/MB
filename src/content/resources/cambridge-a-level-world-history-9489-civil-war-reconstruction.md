@@ -30,6 +30,11 @@ featured: false
 
 Under the 2027-2029 rotation, this topic is assessed on **Paper 2 (Outline Study)** in 2027 and 2028 and on **Paper 1 (Historical Sources)** in 2029. Paper 2 sets two-part questions: part (a), "Explain why", for 10 marks, and part (b), a 20-mark comparative judgement. Paper 1 sets a 15-mark comparison of two sources and a 25-mark "How far do the sources support..." question on four sources. Revise with the [Civil War and Reconstruction revision notes](/resources/cambridge-a-level-world-history-9489-civil-war-reconstruction-revision-notes/) and test yourself with the [Civil War and Reconstruction practice questions](/resources/cambridge-a-level-world-history-9489-civil-war-reconstruction-practice/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-usa-1820-1941--13-wh-usa-rotation.webp" width="900" height="732" alt="A grid of the three American Option topics against 2027, 2028 and 2029. Gold marks Paper 1 (Historical Sources), teal marks Paper 2 (Outline Study). The Gilded Age is Paper 1 in 2027, the Great Crash and New Deal in 2028, the Civil War and Reconstruction in 2029." loading="lazy">
+  <figcaption>Each topic is on Paper 1 once in three years and on Paper 2 in the other two.</figcaption>
+</figure>
+
 ## 4.1 Why did tension grow between North and South before 1860?
 
 **Two economies.** The North industrialised, with factories, immigrant labour and growing cities; the South depended on cotton grown by enslaved people and exported to Britain. Northern manufacturers wanted protective tariffs; Southern planters, who bought manufactured goods and sold cotton abroad, saw tariffs as a tax on them. The "Tariff of Abominations" (1828) led South Carolina to claim the right to nullify federal law in 1832-33 -- an early test of states' rights.
@@ -42,6 +47,16 @@ Under the 2027-2029 rotation, this topic is assessed on **Paper 2 (Outline Study
 
 **The party system broke.** The Whigs collapsed after 1852 because they could not hold Northern and Southern members together. The **Republican Party** (1854) was purely Northern, pledged to stop slavery's expansion. In the **Lincoln-Douglas debates** (1858), Lincoln pressed Douglas to reconcile popular sovereignty with the Dred Scott ruling; Douglas's Freeport Doctrine kept his Senate seat but cost him Southern trust.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--01-sectional-crises-timeline.webp" width="900" height="611" alt="A timeline from 1820 to 1860 drawn to scale. Early events are spread out: the Missouri Compromise (1820), the 1828 tariff and the nullification crisis (1832-33). From 1845 they crowd together: Texas, the Wilmot Proviso, the Mexican War, the Free Soil Party, the Compromise of 1850, the Kansas-Nebraska Act, the Brooks-Sumner attack, Dred Scott, Lecompton, the Lincoln-Douglas debates and John Brown's raid." loading="lazy">
+  <figcaption>Crises came faster after 1845, and almost all were about slavery in new land.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--02-territorial-question.webp" width="900" height="726" alt="A table of four measures. The Missouri Compromise (1820) drew a line at 36°30′. The Compromise of 1850 used popular sovereignty in Utah and New Mexico and passed a tougher Fugitive Slave Act. The Kansas-Nebraska Act (1854) applied popular sovereignty north of the old line. Dred Scott (1857) ruled that Congress could not ban slavery in the territories." loading="lazy">
+  <figcaption>Each answer to the territorial question made the next crisis worse.</figcaption>
+</figure>
+
 ## 4.2 Why did war break out in April 1861?
 
 **Abolitionism and Southern fear.** Harriet Beecher Stowe's *Uncle Tom's Cabin* (1852) sold in huge numbers and made slavery a moral issue for many Northern readers; Southerners saw it as slander. **John Brown's raid on Harpers Ferry** (October 1859), an attempt to arm enslaved people, failed, but Northern sympathy for Brown after his execution convinced many Southerners that the North intended to destroy them.
@@ -51,6 +66,11 @@ Under the 2027-2029 rotation, this topic is assessed on **Paper 2 (Outline Study
 **The election of 1860.** The Democrats split into Northern (Douglas) and Southern (Breckinridge) wings; John Bell ran for the Constitutional Union Party. Lincoln won with about 40 per cent of the popular vote, carrying almost every free state and winning a clear majority in the electoral college without a single Southern electoral vote. To the Deep South this meant permanent rule by a hostile section.
 
 **Secession in two stages.** South Carolina seceded in December 1860, and by February 1861 seven Deep South states had formed the Confederacy under Jefferson Davis. Compromise (the Crittenden proposals) failed because Lincoln would not accept slavery's expansion. Lincoln's inaugural (March 1861) promised not to touch slavery where it existed but to hold federal property. When Confederate forces fired on **Fort Sumter** (12 April 1861) and Lincoln called for volunteers, four Upper South states -- Virginia, Arkansas, Tennessee and North Carolina -- seceded rather than supply troops.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--03-secession-two-stages.webp" width="900" height="765" alt="Lincoln won the 1860 election with about 40 per cent of the vote and no Southern electoral votes against a split field. Stage 1: South Carolina seceded in December 1860 and seven Deep South states formed the Confederacy by February 1861. After Fort Sumter on 12 April 1861 and Lincoln's call for volunteers, stage 2 followed: Virginia, Arkansas, Tennessee and North Carolina seceded. The four Border States stayed in the Union." loading="lazy">
+  <figcaption>The Deep South left over Lincoln's election; the Upper South left over the call for troops.</figcaption>
+</figure>
 
 ## 4.3 Why did the Civil War last four years?
 
@@ -66,6 +86,11 @@ Under the 2027-2029 rotation, this topic is assessed on **Paper 2 (Outline Study
 
 **Foreign powers.** **Britain** stayed neutral: "King Cotton" diplomacy failed because Britain had stockpiles and other sources, and the *Trent* affair (1861) was resolved. **France** under Napoleon III was sympathetic to the South but would not act without Britain and was busy in Mexico. **Russia** was friendly to the Union.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--04-why-four-years.webp" width="900" height="850" alt="A table of six factors. For each, one column shows why the war dragged on, such as the Confederacy fighting defensively and Lee and Jackson's success in the east, and another shows what favoured the Union, such as Grant's and Sherman's western victories, Northern population and industry, Union finance, emancipation and British neutrality." loading="lazy">
+  <figcaption>Resources explain the Union victory; strategy and leadership explain its length.</figcaption>
+</figure>
+
 ## 4.4 What were the aims of Reconstruction and how successful was it?
 
 **The problem in 1865.** The South was devastated, four million people had been freed, and no one agreed on terms of readmission. **Radical Republicans** (Thaddeus Stevens, Charles Sumner) wanted to transform Southern society and protect freedpeople; **Conservatives** wanted rapid reunion; **Copperheads** and Democrats opposed Black rights.
@@ -80,11 +105,26 @@ Under the 2027-2029 rotation, this topic is assessed on **Paper 2 (Outline Study
 
 **Success or failure?** It succeeded in reuniting the nation, ending slavery and writing citizenship and equal protection into the Constitution -- foundations later used in the civil rights era. It failed to give freedpeople land, security or lasting political rights, and white supremacy was restored in the South.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--05-reconstruction-plans.webp" width="900" height="810" alt="Four steps: Lincoln's Ten Percent Plan (1863); Congress's Wade-Davis Bill (1864), pocket-vetoed; Johnson's pardons and Black Codes from April 1865; and Radical Reconstruction after the 1866 elections, with military districts in 1867 and Johnson's impeachment in 1868. Below, the three positions: Radical Republicans, Conservatives and Copperheads." loading="lazy">
+  <figcaption>Control passed from the President to a Radical-led Congress after 1866.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--06-reconstruction-timeline.webp" width="900" height="650" alt="A timeline from 1863 to 1877 drawn to scale. The advances cluster between 1865 and 1871: the 13th Amendment, the Reconstruction Acts, the 14th Amendment and impeachment, the 15th Amendment and the Force Acts. The retreat follows: the Amnesty Act (1872), the Panic of 1873 and Colfax, a barely enforced Civil Rights Act (1875) and the Compromise of 1877." loading="lazy">
+  <figcaption>Gains came fast from 1865 to 1871; after 1872 the North pulled back.</figcaption>
+</figure>
+
 ## Worked example: a Paper 2 part (b)
 
 *"Reconstruction was a failure." How far do you agree?* **[20]**
 
 A strong plan sets criteria first: reunion, the end of slavery, civil and political rights, economic independence for freedpeople. It then weighs failure (sharecropping, Black Codes, Klan violence, redemption, 1877) against success (the Union restored; three amendments; Black officeholding and schooling). The judgement might be that Reconstruction succeeded in its aims as Lincoln and moderate Republicans defined them but failed in the aims the Radicals set, because Northern commitment did not last.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--07-reconstruction-criteria.webp" width="900" height="568" alt="Four criteria cards. Reunion and the end of slavery are marked as successes; civil and political rights are mixed, written into the Constitution but undone by terror and redemption; economic independence is a failure, as freedpeople received no land and most became sharecroppers. A note gives a possible judgement." loading="lazy">
+  <figcaption>Judge Reconstruction against criteria: whose aims, and which ones?</figcaption>
+</figure>
 
 ## Common mistakes
 

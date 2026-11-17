@@ -37,6 +37,11 @@ An **aim** is a statement of what the study intends to investigate, for example 
 
 Use a directional hypothesis when previous research suggests which way the result will go. A good hypothesis includes both operationalised variables.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-methodological-concepts-as--01-hypotheses.webp" width="900" height="666" alt="The null hypothesis predicts no difference in names recalled by doodlers and non-doodlers. The alternative hypothesis predicts a difference and comes in two versions: directional (doodlers will recall more) and non-directional (there will be a difference). A note explains when to choose a directional hypothesis." loading="lazy">
+  <figcaption>Null says no difference; directional says which way; non-directional just says different.</figcaption>
+</figure>
+
 ## Variables and operationalisation
 
 The **independent variable (IV)** is the one the researcher changes; the **dependent variable (DV)** is the one measured. An **operational definition** states exactly how a variable is manipulated or measured, so that another researcher could repeat it. "Stress" is not operationalised; "score on a 10-item stress questionnaire, 0 to 40" is.
@@ -44,6 +49,11 @@ The **independent variable (IV)** is the one the researcher changes; the **depen
 Dependent variables can be measured in several ways: counts (number of words recalled), time (seconds to respond), scores on a scale, ratings by observers or physiological measures such as heart rate.
 
 *Application*: in a study of whether caffeine improves concentration, the IV could be "drinking 200 ml of coffee or 200 ml of decaffeinated coffee 30 minutes before the test", and the DV "number of target letters crossed out in a two-minute letter-search task".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-methodological-concepts-as--02-caffeine-variables.webp" width="900" height="700" alt="The caffeine study's independent variable (200 ml of coffee or decaffeinated coffee 30 minutes before) and dependent variable (target letters crossed out in two minutes). Below, controls: the same time of day, no caffeine beforehand, and a standardised procedure. A note defines confounding." loading="lazy">
+  <figcaption>Define the IV and DV precisely, then hold everything else constant.</figcaption>
+</figure>
 
 ## Controlling variables
 
@@ -78,6 +88,11 @@ The **population** is the group the researcher wants to draw conclusions about; 
 
 **Generalisation** is applying findings beyond the sample. The more representative the sample, the more confidently findings can be generalised.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-methodological-concepts-as--03-sampling.webp" width="900" height="737" alt="Three panels each show a population of 40 dots with 8 picked. Opportunity sampling picks a cluster of whoever is available (quick, but unrepresentative); random sampling picks scattered dots (more representative, needs a full list); volunteer sampling picks those who respond to an advert (easy, but volunteers differ). A note covers generalisation." loading="lazy">
+  <figcaption>Opportunity is quick, random is fairest, volunteers may differ from everyone else.</figcaption>
+</figure>
+
 ## Ethics
 
 For **human participants** the syllabus lists: minimising harm (and maximising benefit), valid consent including informed consent, the right to withdraw, lack of deception, confidentiality, privacy and debriefing. Children need consent from a parent or guardian, and their own agreement where possible.
@@ -86,6 +101,11 @@ For **animals** it lists: minimising harm (and maximising benefit), replacement 
 
 *Application*: "Evaluate the study based on ethical guidelines" needs a guideline named, applied to a specific feature of the study, and, ideally, the researcher's justification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--17-ethics-two-sets.webp" width="900" height="870" alt="Human participants: minimising harm, consent, withdrawal, deception, confidentiality, privacy, debriefing. Animals: minimising harm, replacement, species, numbers, pain, housing, reward and deprivation." loading="lazy">
+  <figcaption>The two sets of ethical considerations.</figcaption>
+</figure>
+
 ## Validity
 
 **Validity** is whether a study measures what it claims to measure. **Ecological validity** is how far findings apply to real-life settings. Studies are evaluated for validity in terms of:
@@ -93,6 +113,11 @@ For **animals** it lists: minimising harm (and maximising benefit), replacement 
 - **Subjectivity and objectivity**: subjective measures can be biased by interpretation.
 - **Demand characteristics**: cues that tell participants what the study is about, so they change their behaviour, for example trying to help the researcher.
 - **Generalisability**: whether the sample allows conclusions about the wider population.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--16-validity-vs-reliability.webp" width="900" height="950" alt="Three targets: reliable but not valid, valid but not reliable, valid and reliable. Below, the validity and reliability types named in the lesson." loading="lazy">
+  <figcaption>Validity is about measuring what is claimed; reliability is about consistency.</figcaption>
+</figure>
 
 ## Reliability and replicability
 
@@ -116,6 +141,16 @@ You need to **present and interpret data in tables** and recognise and find meas
 - **Standard deviation** shows how spread scores are around the mean; a larger standard deviation means scores vary more.
 
 Graphs: a **bar chart** shows separate categories, such as mean scores for two conditions, with gaps between bars; a **histogram** shows the frequency of continuous data in intervals, with no gaps; a **scatter graph** shows the relationship between two co-variables.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-methodological-concepts-as--04-central-tendency.webp" width="900" height="758" alt="Dot plots of the invented scores on a 0 to 10 scale. Doodling: 4, 5, 5, 6, 7, 8, 9, with mode 5, median 6, mean about 6.3 and range 5. Control: 3, 3, 4, 4, 4, 5, 6, with mode 4, median 4, mean about 4.1 and range 3." loading="lazy">
+  <figcaption>Doodlers scored higher on every average and their scores were more spread out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-methodological-concepts-as--05-graph-types.webp" width="900" height="597" alt="Three small graphs: a bar chart with gaps between bars for separate categories, a histogram with no gaps for the frequency of continuous data, and a scatter graph for the relationship between two co-variables. The shapes are illustrative." loading="lazy">
+  <figcaption>Bars with gaps for categories, no gaps for continuous data, points for relationships.</figcaption>
+</figure>
 
 ## Common mistakes
 

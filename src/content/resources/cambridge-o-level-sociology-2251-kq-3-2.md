@@ -74,6 +74,16 @@ together and protects characteristics including age, disability, race, religion 
 constitution provides for reservations in education, government jobs and legislatures for Scheduled
 Castes and Scheduled Tribes, an attempt to counter inequality rooted in caste.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-2--01-progressive-tax.webp" width="900" height="584" alt="Two income bars using the lesson’s invented rates of 10% on the first 25,000 and 40% above. A person earning 15,000 pays 1,500, which is 10%. A person earning 60,000 pays 2,500 plus 14,000, a total of 16,500, which is 27.5% of their income." loading="lazy">
+  <figcaption>The richer person pays a higher percentage, not just a larger amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-2--02-legal-measures.webp" width="900" height="572" alt="A table of legal measures against inequality: means-tested, universal and conditional benefits such as Brazil’s Bolsa Família, the UK minimum wage of 1999, the Equality Act 2010 and India’s reservations for Scheduled Castes and Tribes, with how each works and a limitation where the lesson gives one." loading="lazy">
+  <figcaption>For each law, explain the mechanism and then judge its effect.</figcaption>
+</figure>
+
 ## Welfare states and life chances
 
 A **welfare state** is a system in which the government takes responsibility for citizens' basic
@@ -95,6 +105,11 @@ not they work. It is mostly trialled rather than fully adopted. Finland's experi
 while the effect on employment was small. Supporters say UBI removes stigma and the poverty trap;
 critics point to its cost and argue it may reduce the incentive to work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-2--03-five-giants.webp" width="900" height="706" alt="The five giants of the Beveridge Report (1942) linked to welfare provisions and life chances: Want to benefits, pensions and basic income; Disease to free healthcare; Ignorance to free education; Squalor to low-cost housing; Idleness to unemployment benefits. A note describes Finland’s basic income trial." loading="lazy">
+  <figcaption>Each welfare provision targets a “giant” and improves a specific life chance.</figcaption>
+</figure>
+
 ## NGOs: four kinds of work
 
 Non-governmental organisations are independent, non-profit bodies, from small local charities to large
@@ -109,6 +124,11 @@ international organisations.
   shared the Nobel Peace Prize in 2006.
 - **Improving education:** The Citizens Foundation in Pakistan, founded in 1995, runs schools in
   low-income areas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-2--04-ngo-work.webp" width="900" height="614" alt="Four kinds of NGO work with examples: reducing poverty (BRAC, 1972), medical assistance (Médecins Sans Frontières, 1971), promoting business through microcredit (Grameen Bank) and improving education (The Citizens Foundation, 1995). A note lists criticisms of NGOs." loading="lazy">
+  <figcaption>NGOs fill gaps, but critics question their accountability and reach.</figcaption>
+</figure>
 
 ## How successful have these attempts been?
 
@@ -138,6 +158,11 @@ domestic labour, the "dual burden" of paid and unpaid work, or the glass ceiling
 argued that the Beveridge model assumed a male breadwinner and a dependent wife, building gender
 inequality into the welfare state.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-2--05-views-of-success.webp" width="900" height="615" alt="The welfare state between two critics: the New Right, with Murray, say it does too much and creates an underclass; Marxists say it does too little and leaves wealth ownership unchanged. Below: the culture of poverty, feminist criticisms of equality laws and Beveridge, and criticisms of NGOs, with responses." loading="lazy">
+  <figcaption>Do not confuse the New Right (welfare does too much) with Marxists (welfare does too little).</figcaption>
+</figure>
+
 ## Worked example: an annotated "explain three" answer (practice)
 
 *Explain three ways a welfare state may improve life chances.*
@@ -150,6 +175,11 @@ inequality into the welfare state.
 
 **Why it works:** each point names a provision, explains the mechanism and links it to a specific
 life chance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-2--06-explain-three.webp" width="900" height="450" alt="Three rows showing how to explain the effect of welfare: free education leads to qualifications and mobility, free healthcare to earlier treatment and longer life, and unemployment benefits to income that prevents absolute poverty." loading="lazy">
+  <figcaption>Each point names a provision, explains how it works and links it to a life chance.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -1,0 +1,65 @@
+[
+ {
+  "file": "cambridge-igcse-environmental-management-0680-marine-aquaculture--01-overfishing-collapse.webp",
+  "width": 900,
+  "height": 645,
+  "after": "## Exploitation of marine species (3.4.1)",
+  "alt": "Rising demand, larger boats, sonar and huge nets let fishers catch fish faster than the population replaces itself. Too many breeding adults are removed, fewer young are produced, catches fall year after year and the stock can collapse.",
+  "caption": "Remove too many breeding adults and fewer young replace them, until the stock collapses.",
+  "bytes": 81026
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-marine-aquaculture--02-target-bycatch.webp",
+  "width": 900,
+  "height": 715,
+  "after": "## Exploitation of marine species (3.4.1)",
+  "alt": "A net holds the target fish and bycatch such as small non-target fish, a turtle and a dolphin. Heavy fishing removes the largest, oldest target fish, so average size falls; bycatch of non-target fish, juveniles, turtles, dolphins, sharks and seabirds is often thrown back dead or dying.",
+  "caption": "Fishing harms both the target species and the bycatch caught alongside it.",
+  "bytes": 112126
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-marine-aquaculture--03-food-chain-effects.webp",
+  "width": 900,
+  "height": 755,
+  "after": "## Exploitation of marine species (3.4.1)",
+  "alt": "Two food chains. When a prey fish is overfished, its predators such as seabirds, seals and larger fish have less food and decline. When a predator is overfished, its prey can increase and may overgraze their own food.",
+  "caption": "Overfishing one species changes the numbers of the species above and below it.",
+  "bytes": 93716
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-marine-aquaculture--04-three-forms.webp",
+  "width": 900,
+  "height": 705,
+  "after": "## Defining marine aquaculture (3.4.2)",
+  "alt": "A coastal cross-section, not to scale. Crustaceans such as shrimps or prawns are raised in coastal ponds; fish are kept in floating net cages in a sheltered bay; seaweeds are grown on ropes or lines in the sea. In captivity the organisms are contained, fed if necessary, protected from predators and harvested at market size.",
+  "caption": "Marine aquaculture farms fish, crustaceans and seaweeds in captivity.",
+  "bytes": 100308
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-marine-aquaculture--05-eight-impacts.webp",
+  "width": 900,
+  "height": 920,
+  "after": "## Impacts of marine aquaculture (3.4.3)",
+  "alt": "A cross-section of a floating fish cage. Two benefits: less exploitation of wild fisheries and more food. Six numbered concerns: fish escaping through a torn net, disease spreading among crowded fish, wild fish attracted to waste feed, feed and faeces enriching the water below, energy used by boats and pumps, and feed pellets made partly from wild-caught fish. Seaweed farms need no feed and avoid several concerns.",
+  "caption": "Aquaculture brings two benefits and six concerns; seaweed farming avoids several of the concerns.",
+  "bytes": 160388
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-marine-aquaculture--06-harvest-strategies.webp",
+  "width": 900,
+  "height": 672,
+  "after": "## Managing the harvest of marine species (3.4.4)",
+  "alt": "The nine strategies grouped by what they control. Gear: limits on boat and net size, larger mesh size, pole and line. Amount: quotas. Time: closed seasons and limited fishing days. Place: protected areas. Rules: conservation laws and international agreements with implementation and monitoring.",
+  "caption": "Harvest controls limit the gear, the amount, the time, the place, or set the rules.",
+  "bytes": 124442
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-marine-aquaculture--07-quota-worked-example.webp",
+  "width": 900,
+  "height": 615,
+  "after": "## Worked example: a quota calculation",
+  "alt": "A stock of 180,000 tonnes with a 15% limit gives a total quota of 27,000 tonnes; shared between 90 boats that is 300 tonnes each. A bar shows 15% caught and 85% left. The quota could still fail through illegal landings, discards that die, or a wrong stock estimate.",
+  "caption": "15% of 180,000 t is 27,000 t, or 300 t per boat, but only if catches are honest and the estimate is right.",
+  "bytes": 80200
+ }
+]

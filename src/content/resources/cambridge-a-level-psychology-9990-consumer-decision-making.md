@@ -48,6 +48,16 @@ The syllabus also names the issues and methods most relevant to each sub-topic, 
 
 **How the models compare.** Utility theory predicts that the way an offer is described should not matter if the outcome is the same; prospect theory predicts that it will, because a description shifts the reference point. Satisficing predicts that people stop searching early. An exam answer that sets these predictions side by side is comparing, not just describing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-consumer-decision-making--01-three-models.webp" width="900" height="612" alt="Three cards: utility theory (weigh all information, choose the highest expected value), satisficing (bounded rationality, accept the first option that meets a minimum standard) and prospect theory (gains and losses from a reference point, loss aversion). A table compares their predictions about framing and search." loading="lazy">
+  <figcaption>Setting the models' predictions side by side is comparing, not just describing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-consumer-decision-making--02-prospect-theory-curve.webp" width="900" height="697" alt="An S-shaped curve through a reference point: the gains side rises and flattens, the losses side falls more steeply, so an equal loss feels worse than an equal gain feels good. Notes explain loss aversion and diminishing sensitivity. The shape is illustrative." loading="lazy">
+  <figcaption>Measured from a reference point, losses hurt more than equal gains please.</figcaption>
+</figure>
+
 ## Strategies: compensatory, non-compensatory and partially compensatory
 
 These strategies describe how a shopper combines information about the attributes of products.
@@ -57,6 +67,11 @@ These strategies describe how a shopper combines information about the attribute
 - **Partially compensatory**: options are compared attribute by attribute, and the option that wins on the most attributes is chosen. Some trade-off happens, but the size of each difference is ignored.
 
 **Internet shopping.** Website design can support one strategy more than another. A filter that removes every phone without a certain camera supports a non-compensatory strategy; a table placing several products side by side with scores on every feature supports a compensatory one. Jedetski et al. (2002) is the syllabus example of research on how decision tools on shopping websites interact with consumers' strategies. The applied point is that a site matching the strategy its customers want to use is easier to use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--11-co-decision-strategies.webp" width="900" height="1010" alt="Three illustrative laptops rated 1 to 5. Compensatory: totals 7, 11, 10 so B. Non-compensatory: price rating must be 3 or more so B is out. Partly compensatory: features won 0, 1, 2 so C." loading="lazy">
+  <figcaption>The three strategies applied to the same options.</figcaption>
+</figure>
 
 ## Choice heuristics (2.3.2)
 
@@ -74,6 +89,11 @@ A heuristic is a mental shortcut that gives a fast, usually good-enough answer.
 
 **Decision-making styles.** del Campo et al. (2016) is the suggested study for linking heuristic use to a person's decision-making style, such as a more rational or a more intuitive style. This supports an individual explanation: two shoppers facing the same display may rely on heuristics to different degrees.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-consumer-decision-making--03-wansink-anchoring.webp" width="900" height="653" alt="Three in-store offers, multiple unit pricing (4 for £2), suggestive selling (buy 18 for your freezer) and a purchase limit (limit 12 per person), each supply a number that acts as an anchor. Shoppers adjust down from it too little, so they buy more items." loading="lazy">
+  <figcaption>The number in the offer anchors how many items shoppers buy.</figcaption>
+</figure>
+
 ## Mistakes in decision-making (2.3.3)
 
 **System 1 and system 2.** Kahneman distinguished **system 1**, which is fast, automatic, intuitive and effortless, from **system 2**, which is slow, deliberate, logical and effortful. Shleifer (2012) reviewed this framework and its value to economists. A classic system 1 error: "A bat and a ball cost £1.10 in total. The bat costs £1 more than the ball. How much is the ball?" The intuitive answer, 10p, is wrong; system 2 checking gives 5p. Many consumer errors arise when system 1 answers a question that deserves system 2, such as judging value from a large "SALE" sign.
@@ -89,6 +109,21 @@ A heuristic is a mental shortcut that gives a fast, usually good-enough answer.
 **Evaluating Hall et al.** The supermarket setting and real products give high ecological validity, and the standardised containers allowed a controlled manipulation. Deception was essential, so a full debrief was needed. Detection was judged partly from what participants said, which needs reliable coding; two observers agreeing on what counts as a detection improves reliability. The findings challenge the free-will assumption behind utility theory.
 
 **Memory for advertising.** Burke and Srull (1988) showed that memory for an advert is impaired by adverts for competing brands in the same product category. **Retroactive interference** occurs when later adverts disrupt memory of an earlier one; **proactive interference** occurs when earlier adverts disrupt learning of a later one. A practical implication is that adverts for one brand should avoid being shown next to adverts for direct competitors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-consumer-decision-making--04-system-1-system-2.webp" width="900" height="649" alt="System 1 is fast, automatic and intuitive; system 2 is slow, deliberate and effortful. In the bat and ball problem, system 1 gives the wrong answer 10p while system 2 checking gives 5p. A note links this to consumer errors such as judging value from a SALE sign." loading="lazy">
+  <figcaption>Errors happen when fast intuition answers a question that needs slow checking.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-consumer-decision-making--05-hall-choice-blindness.webp" width="900" height="905" alt="A double-ended container with a hidden divider is turned over so a shopper who chose jam or tea A is given the rejected B to re-sample and justify. Results: no more than a third of switches detected, no more than half even for very different pairs. A conclusion and an evaluation grid follow." loading="lazy">
+  <figcaption>Most shoppers missed the switch and defended a choice they had not made.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-consumer-decision-making--06-interference.webp" width="900" height="729" alt="Two timelines. Retroactive: a rival advert shown later disrupts memory of an earlier Brand A advert, so the arrow points backwards. Proactive: an earlier rival advert disrupts learning of a later Brand A advert, so the arrow points forwards. The implication is to keep adverts away from direct competitors." loading="lazy">
+  <figcaption>Retroactive works backwards on old memories; proactive works forwards on new learning.</figcaption>
+</figure>
 
 ## Worked example: a 6-mark describe answer
 

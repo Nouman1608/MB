@@ -37,6 +37,16 @@ The interest rate is the cost of borrowing money. Not every business is affected
 
 **Business spending** is affected too. When rates rise, other businesses put off buying new machinery, vans or premises, because the loans to pay for them cost more. So a supplier of equipment to other businesses can lose orders even if it has no debt itself. When rates fall, the reverse happens: borrowing is cheaper, households have more to spend after loan repayments, and businesses are more willing to invest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--01-three-exposure-questions.webp" width="900" height="756" alt="Three questions sort businesses into less and more exposed to a rate change: how much they borrow (little versus a large loan or overdraft), whether borrowing is fixed or variable (overdrafts most exposed), and whether customers borrow to buy items such as cars, furniture, houses or holidays." loading="lazy">
+  <figcaption>Debt size, fixed or variable borrowing, and customers’ borrowing decide the impact.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--02-direct-and-indirect-effects.webp" width="900" height="750" alt="A rate rise works through three chains. Directly, variable loans and overdrafts cost more, so profit falls. Indirectly, households pay more on mortgages and loans and buy less, and other businesses put off investment, so equipment suppliers lose orders even with no debt. A fall reverses each chain." loading="lazy">
+  <figcaption>A rate rise hits a business through its own debt and through its customers.</figcaption>
+</figure>
+
 ## Worked example 1: same rise, different effects
 
 Interest rates rise by 2 percentage points. Two local businesses are affected differently.
@@ -53,6 +63,11 @@ Pellow Florist: variable-rate loan of $50,000 and average overdraft of $15,000
 
 The florist's costs rise at once, so its profit falls unless it raises prices. The garage's own costs are protected for now, but it is not unaffected: car owners with mortgages and loans have less to spend, so they may delay servicing or repairs. A complete answer names both the direct effect on the business's borrowing and the indirect effect through customers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--03-atherley-and-pellow.webp" width="900" height="779" alt="After a 2-point rise, Atherley Garage’s fixed-rate $80,000 loan still costs $4,800 a year, but its customers may delay repairs. Pellow Florist pays $1,000 more on a $50,000 variable loan (7% to 9%) and $300 more on a $15,000 overdraft (10% to 12%), $1,300 extra a year." loading="lazy">
+  <figcaption>Fixed-rate debt delays the direct effect; variable debt feels it at once.</figcaption>
+</figure>
+
 ## Sharia compliant alternatives
 
 Islamic law does not allow interest (**riba**) to be charged or paid. Business owners and customers who follow this principle use finance structured in other ways. The specification names "Sharia compliant alternatives" without listing them; the common forms are:
@@ -66,6 +81,11 @@ Islamic law does not allow interest (**riba**) to be charged or paid. Business o
 
 **How a change in interest rates affects a business using them.** Because the price, rent or profit share is agreed in advance or linked to the business's results, a rise in conventional interest rates does not automatically increase the cost of finance already arranged, so the direct effect is smaller. The indirect effect still applies: if customers face higher mortgage and loan costs, they spend less, whatever finance the business itself uses. Sharia compliant finance is not free: the agreed price or profit share can be a large cost, and new agreements may reflect market conditions at the time they are made.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--04-sharia-compliant-finance.webp" width="900" height="746" alt="Four forms of finance without interest: murabaha (asset bought and resold at an agreed higher price in instalments), ijara (asset leased for an agreed rent), musharaka (partnership sharing profit and loss) and mudaraba (money from one party, skill from the other, profits shared). A rate rise has a smaller direct effect, but customers still spend less." loading="lazy">
+  <figcaption>Sharia compliant finance softens the direct effect of a rate rise, not the indirect one.</figcaption>
+</figure>
+
 ## The level of employment
 
 The level of employment means how many people who want to work have jobs. Changes affect a business in several ways.
@@ -78,6 +98,11 @@ The level of employment means how many people who want to work have jobs. Change
 | Which businesses gain | Restaurants, leisure, non-essential retail | Low-price retailers, repair services, some recruitment agencies |
 
 Employment can change in one town while the national picture stays the same. If a large factory closes, local shops, cafés and taxi firms lose customers, because the factory's workers and their families have less to spend.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--05-employment-effects.webp" width="900" height="790" alt="When employment rises, spending rises, vacancies are harder to fill, pay pressure grows and restaurants and leisure gain. When it falls, spending falls, there are more applicants, less pay pressure and low-price retailers and repair services gain. A local factory closure hits nearby shops, cafés and taxi firms." loading="lazy">
+  <figcaption>Employment changes demand, recruitment and wages, and helps some businesses as it hurts others.</figcaption>
+</figure>
 
 ## Consumer spending as incomes fluctuate
 
@@ -95,6 +120,16 @@ Of which sofas  = $108,000 - $86,400  = $21,600
 
 Sofa sales fall by 20% while accessories fall by only 4%, because a sofa is a large purchase that can be delayed and usually needs borrowing. Rowanbrook could respond by promoting accessories, offering sofas through a cheaper range, holding less sofa stock to protect its cash, or offering payment plans without interest charges, although that last option costs the business money.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--06-what-households-cut.webp" width="900" height="670" alt="A scale from cut first to changes least. When incomes fall, households cut things they enjoy but do not need, such as eating out, holidays, new technology and premium brands, delay large purchases and trade down; spending on necessities such as basic food changes least." loading="lazy">
+  <figcaption>Non-essentials and big purchases are cut first; necessities hold up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--07-rowanbrook-furniture.webp" width="900" height="929" alt="After a rate rise and an income squeeze, Rowanbrook’s sofa revenue falls from $108,000 (120 sofas) to $86,400 (96), down 20%, while cushions and throws fall only from $18,000 to $17,280, down 4%. Total revenue falls $22,320, about 17.7%, and $21,600 of that is sofas." loading="lazy">
+  <figcaption>Delayable, credit-funded purchases take almost all of the fall.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - Explaining only the effect on the business's own loans and missing the effect on customers' spending.
@@ -106,6 +141,11 @@ Sofa sales fall by 20% while accessories fall by only 4%, because a sofa is a la
 ## Exam technique for this section
 
 For **explain** answers, give one effect and the reason for it, linked to the business in the question: "The overdraft rate rises, so interest costs increase, reducing profit." For **analyse** answers, follow the chain through customers too: rate rise, higher mortgage payments, less spending, fewer sales. For **evaluate** answers, judge how much the change matters for this business, using its level of debt, whether its borrowing is fixed or variable, and whether its products are necessities or luxuries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--08-exam-answer-ladder.webp" width="900" height="630" alt="Explain: an overdraft rate rise increases interest costs and reduces profit. Analyse: rate rise, higher mortgage payments, less spending, fewer sales. Evaluate: judge the effect using the business’s debt, whether borrowing is fixed or variable, and whether it sells necessities or luxuries." loading="lazy">
+  <figcaption>Explain one effect, analyse through customers, then judge using the case.</figcaption>
+</figure>
 
 ## Related resources
 

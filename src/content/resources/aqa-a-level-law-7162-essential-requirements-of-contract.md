@@ -35,6 +35,11 @@ An offer is a statement of the terms on which the offeror is willing to be bound
 
 **Communication.** An offer must be communicated to the offeree. A person who performs the act requested in a reward offer without knowing of the offer is generally treated as not having accepted it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--01-offer-or-not.webp" width="900" height="588" alt="Statements that are not offers: “may be prepared to sell” (Gibson v Manchester City Council) and a stated lowest price (Harvey v Facey). Goods on display, most adverts and website listings are invitations to treat. At an auction the request for bids is an invitation to treat, each bid is an offer that can be withdrawn, and the fall of the hammer is acceptance (Payne v Cave). An offer must be communicated." loading="lazy">
+  <figcaption>Look at the words: an offer shows intention to be bound on acceptance.</figcaption>
+</figure>
+
 ## How an offer ends
 
 | Method | Rule | Authority |
@@ -47,6 +52,11 @@ An offer is a statement of the terms on which the offeror is willing to be bound
 | Death | May end the offer, depending on the contract | General rule |
 
 **Revoking a unilateral offer.** Once the offeree has started performing, the offeror cannot revoke. In *Errington v Errington* (1952) a father promised his son and daughter-in-law that the house would be theirs if they paid off the mortgage; while they continued paying, the promise could not be withdrawn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--02-how-an-offer-ends.webp" width="900" height="428" alt="Two columns. Things that end an offer: revocation communicated to the offeree (Byrne v Van Tienhoven), revocation through a reliable third party (Dickinson v Dodds), rejection or counter-offer (Hyde v Wrench), lapse of time (Ramsgate Victoria Hotel v Montefiore) and possibly death. Things that do not: a posted revocation not yet received, a request for information (Stevenson v McLean), and revoking a unilateral offer once performance has begun (Errington v Errington)." loading="lazy">
+  <figcaption>Revocation must reach the offeree; a counter-offer kills the offer, an inquiry does not.</figcaption>
+</figure>
 
 ## Acceptance
 
@@ -65,6 +75,16 @@ Acceptance is a final and unqualified agreement to all the terms of the offer.
 | Telex or similar to a business | When received, or when it would reasonably be read in office hours | *The Brimnes* (1975); *Brinkibon* (1983) |
 | Unilateral contract | By performance; no need to communicate | *Carlill* (1893) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--03-battle-of-the-forms.webp" width="900" height="566" alt="Butler Machine Tool v Ex-Cell-O: the buyer’s order on its own terms was a counter-offer; the seller’s return of the buyer’s tear-off acknowledgment slip accepted it; so the buyer’s terms governed. Below: acceptance can be by conduct, as in Brogden v Metropolitan Railway." loading="lazy">
+  <figcaption>New terms make a counter-offer; whoever’s terms are accepted last governs here.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--14-ct-acceptance-timing.webp" width="900" height="920" alt="Two timelines. By post, acceptance is effective when posted (Adams v Lindsell). By instant methods, acceptance takes effect when received (Entores v Miles Far East). Two things that are not acceptance: a counter-offer, which destroys the original offer (Hyde v Wrench), and silence (Felthouse v Bindley)." loading="lazy">
+  <figcaption>Postal rule against receipt rule, and two things that are not acceptance.</figcaption>
+</figure>
+
 ## Consideration
 
 **Definition.** "Some right, interest, profit or benefit accruing to the one party, or some forbearance, detriment, loss or responsibility given, suffered or undertaken by the other" (*Currie v Misa*, 1875). Each side must give something in return for the other's promise.
@@ -79,6 +99,11 @@ Acceptance is a final and unqualified agreement to all the terms of the offer.
 - **Existing contractual duty:** not consideration (*Stilk v Myrick*, 1809), unless the promisee does more than the contract requires (*Hartley v Ponsonby*, 1857, where so many crew had deserted that the remaining sailors' duties changed) or the promisor obtains a practical benefit without duress (*Williams v Roffey Bros*, 1991).
 - **Part payment of a debt:** not consideration for a promise to forgive the rest (*Pinnel's Case*, 1602; *Foakes v Beer*, 1884), unless something different is given, such as early payment or a different item. **Promissory estoppel** may prevent the creditor going back on the promise where the debtor relied on it: *Central London Property Trust v High Trees House* (1947), where wartime rent reductions were binding for the war years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--04-consideration-rules.webp" width="900" height="746" alt="The Currie v Misa definition, then a table of rules. Consideration must move from the promisee (Tweddle v Atkinson); it need not be adequate (Thomas v Thomas; Chappell v Nestlé) but must be real (White v Bluett); it must not be past (Re McArdle) unless requested and understood to be paid (Lampleigh; Pao On); an existing public duty (Collins v Godefroy) or contractual duty (Stilk v Myrick) is not enough unless exceeded (Glasbrook; Hartley v Ponsonby) or a practical benefit arises (Williams v Roffey); part payment is not consideration (Pinnel; Foakes v Beer) unless something different is given, and promissory estoppel may apply (High Trees)." loading="lazy">
+  <figcaption>Each side must give something real; doing only what you already must is not enough.</figcaption>
+</figure>
+
 ## Privity of contract
 
 Only the parties to a contract can enforce it or be bound by it (*Dunlop v Selfridge*, 1915, where a manufacturer could not enforce a price agreement between a wholesaler and a retailer).
@@ -88,6 +113,11 @@ Only the parties to a contract can enforce it or be bound by it (*Dunlop v Selfr
 - **Agency:** a principal can enforce a contract made by an agent on their behalf.
 - **Contracts for the benefit of others:** in *Jackson v Horizon Holidays* (1975) a father recovered damages for his family's spoiled holiday as well as his own.
 - **Beswick v Beswick** (1968): the widow could not sue personally, but succeeded as administratrix of her husband's estate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--05-privity.webp" width="900" height="740" alt="In Dunlop v Selfridge a manufacturer could not enforce a price agreement between a wholesaler and a retailer, because it was not a party. Exceptions: the Contracts (Rights of Third Parties) Act 1999 section 1; agency; contracts for the benefit of others (Jackson v Horizon Holidays); and suing as a personal representative (Beswick v Beswick)." loading="lazy">
+  <figcaption>Only parties can enforce, unless the 1999 Act or another exception applies.</figcaption>
+</figure>
 
 ## Intention to create legal relations
 
@@ -103,6 +133,11 @@ The courts use presumptions, which can be rebutted by evidence.
 - *Edwards v Skyways* (1964): an "ex gratia" redundancy payment promised to a pilot was binding; the words did not rebut the presumption.
 - *Rose & Frank v Crompton* (1925): rebutted by an "honour clause" stating the agreement was not a formal legal agreement.
 - *Kleinwort Benson v Malaysia Mining Corporation* (1989): a "letter of comfort" stating a company's policy was a statement of present fact, not a contractual promise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--06-intention-presumptions.webp" width="900" height="419" alt="Social and domestic agreements are presumed not binding (Balfour v Balfour; Jones v Padavatton), rebutted in Merritt v Merritt and Simpkins v Pays. Commercial agreements are presumed binding (Edwards v Skyways), rebutted by an honour clause (Rose &amp; Frank v Crompton) or a letter of comfort stating present fact (Kleinwort Benson)." loading="lazy">
+  <figcaption>Start with the presumption, then look for evidence that rebuts it.</figcaption>
+</figure>
 
 ## Worked problem
 
@@ -121,6 +156,11 @@ Thursday:     Acceptance comes after revocation, so it is too late.
 Conclusion:   No contract between Rhys and Bea, whichever view is taken of
               Tuesday's email.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--07-rhys-bea-timeline.webp" width="900" height="678" alt="Rhys’s drum kit, day by day. Monday: an offer open until Friday. Tuesday: Bea’s question is an inquiry or a counter-offer. Wednesday: revocation through a reliable third party (Dickinson v Dodds); the promise to keep the offer open needed consideration. Thursday: acceptance is too late. So there is no contract." loading="lazy">
+  <figcaption>Classify each communication in time order; the revocation arrives before the acceptance.</figcaption>
+</figure>
 
 ## Common mistakes
 

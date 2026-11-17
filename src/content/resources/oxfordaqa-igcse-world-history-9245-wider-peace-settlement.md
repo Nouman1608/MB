@@ -31,6 +31,11 @@ By the time the peacemakers met in Paris in January 1919, the empires of Central
 
 Wilson's principle of **self-determination**, the right of peoples to govern themselves, guided much of the redrawing, but it clashed with other aims: rewarding allies, punishing the defeated, securing strategic frontiers and protecting British and French imperial interests.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--01-why-a-wider-settlement.webp" width="900" height="674" alt="The collapse of Austria-Hungary in late 1918 and the loss of Ottoman Arab provinces left the peacemakers to recognise new states and draw borders. Self-determination, the right of peoples to govern themselves, sits at the centre, clashing with four other aims: rewarding allies, punishing the defeated, strategic frontiers and imperial interests." loading="lazy">
+  <figcaption>Self-determination guided the redrawing but clashed with the victors' other aims.</figcaption>
+</figure>
+
 ## The treaties
 
 | Treaty | Date | Defeated state | Main terms |
@@ -41,13 +46,28 @@ Wilson's principle of **self-determination**, the right of peoples to govern the
 | Sèvres | August 1920 | Ottoman Empire | Arab lands became mandates; Smyrna under Greek administration; eastern Thrace to Greece; the Straits under international control; Armenian independence |
 | Lausanne | July 1923 | Turkey | Replaced Sèvres: Turkey kept Anatolia, Smyrna and eastern Thrace; no reparations; the Straits demilitarised but open to shipping; exchange of populations with Greece |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--02-five-treaties.webp" width="900" height="622" alt="Timeline of the five treaties: Saint-Germain with Austria (September 1919), Neuilly with Bulgaria (November 1919), Trianon with Hungary (June 1920), Sèvres with the Ottoman Empire (August 1920, never enforced) and Lausanne with Turkey (July 1923), with the main terms of each." loading="lazy">
+  <figcaption>Saint-Germain, Neuilly, Trianon, Sèvres, then Lausanne, which replaced Sèvres.</figcaption>
+</figure>
+
 ## Austria: a small state with a large capital
 
 Austria became a small, landlocked republic of German speakers, its capital Vienna built for an empire of over fifty million people. It lost its industrial areas and its markets in the new successor states, which put up tariffs against each other. Many Austrians wanted union with Germany as the obvious solution, but the treaty forbade it, which seemed to contradict self-determination. By 1922 Austria needed a loan arranged through the League of Nations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--03-austria-problems.webp" width="900" height="525" alt="Four linked steps: Austria became a small landlocked republic with a capital built for an empire; it lost industry and markets behind new tariffs; union with Germany was forbidden, seeming to contradict self-determination; and by 1922 it needed a League of Nations loan." loading="lazy">
+  <figcaption>Too small to stand alone and forbidden to unite with Germany, Austria needed a League loan by 1922.</figcaption>
+</figure>
+
 ## Hungary: the most resented treaty
 
 Hungary lost about two-thirds of its land, and over three million Hungarians found themselves living in neighbouring states, especially in Romanian Transylvania and in Czechoslovakia. Hungary had been through a short-lived communist revolution and a Romanian invasion in 1919, and Trianon was signed by a government in no position to resist. Resentment of the treaty, summed up in the slogan "No, no, never!", dominated Hungarian politics between the wars, and Hungary's wish to recover its lost lands later drew it towards Germany and Italy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--04-hungary-trianon.webp" width="900" height="611" alt="A bar to scale shows Hungary kept about one-third of its territory and lost about two-thirds: Transylvania to Romania, Slovakia and Ruthenia to Czechoslovakia, Croatia to Yugoslavia. Cards note over three million Hungarians outside the borders, the treaty signed from weakness, the slogan &quot;No, no, never!&quot; and later revisionism." loading="lazy">
+  <figcaption>Losing two-thirds of its land made Trianon the most resented treaty.</figcaption>
+</figure>
 
 ## Bulgaria
 
@@ -59,11 +79,21 @@ During the war Britain and France had secretly agreed in the **Sykes-Picot Agree
 
 The Sultan's government signed Sèvres, but Turkish nationalists led by **Mustafa Kemal** rejected it. They defeated Armenian and French forces, and in the war with Greece (1919-22) drove the Greek army out of Anatolia, retaking Smyrna in September 1922. Britain came close to war with the nationalists at **Chanak** in 1922, but no ally was willing to fight. Sèvres was never put into effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--05-sevres-to-lausanne.webp" width="900" height="741" alt="Timeline from the Sykes-Picot Agreement (1916) and Balfour Declaration (1917) to the Treaty of Sèvres (1920), Kemal's victories of 1919-22 including Smyrna, the Chanak crisis (1922), the Treaty of Lausanne (July 1923) and the Turkish republic (October 1923)." loading="lazy">
+  <figcaption>Kemal's victories and the Allies' unwillingness to fight replaced Sèvres with Lausanne.</figcaption>
+</figure>
+
 ## The Treaty of Lausanne, 1923
 
 At Lausanne the Allies negotiated with the Turkish nationalists as equals. Turkey kept all of Anatolia, Smyrna and eastern Thrace, paid no reparations and ended the special legal privileges foreign powers had enjoyed. The Straits were demilitarised but opened to shipping. Greece and Turkey agreed a compulsory **exchange of populations**: over a million Greek Orthodox Christians left Turkey, and several hundred thousand Muslims left Greece. The mandates in the Arab lands stayed in place. In October 1923 Turkey became a republic, with Kemal as president.
 
 Lausanne is significant because it was the **only peace treaty negotiated rather than imposed**, and because it showed that a defeated nation could overturn a treaty by force when the victors were unwilling to enforce it, a lesson later noted by others.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--06-sevres-vs-lausanne.webp" width="900" height="767" alt="Table comparing the Treaty of Sèvres (1920) with the Treaty of Lausanne (1923) on Smyrna, eastern Thrace, Armenia, the Straits, reparations, the Greek-Turkish population exchange and the Arab mandates. A note explains Lausanne was the only negotiated treaty." loading="lazy">
+  <figcaption>Lausanne reversed most of Sèvres: the only treaty negotiated rather than imposed.</figcaption>
+</figure>
 
 ## Strengths and difficulties
 
@@ -83,6 +113,11 @@ Lausanne is significant because it was the **only peace treaty negotiated rather
 - **Arab disappointment**: hopes of independence were replaced by British and French mandates.
 - **Revisionism**: Hungary, Bulgaria and later Austria's supporters of union looked for ways to overturn the treaties.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--07-strengths-and-difficulties.webp" width="900" height="479" alt="Two columns. Strengths: new nations for Poles, Czechs, Slovaks, Romanians and South Slavs, democracies, minority treaties, a League role and a stable Greek-Turkish border. Difficulties: minorities, economic damage, weak states, Italian and Arab disappointment, and revisionism." loading="lazy">
+  <figcaption>Self-determination created new nations but left minorities and resentment everywhere.</figcaption>
+</figure>
+
 ## Using this knowledge with sources
 
 In Section A your knowledge is used to judge sources. When you meet a source on the wider settlement:
@@ -98,6 +133,11 @@ In Section A your knowledge is used to judge sources. When you meet a source on 
 *Use the source and your contextual knowledge to support the claim that Hungarians resented the Treaty of Trianon.*
 
 > The postcard shows most of Hungary's map being cut away, and its question "Can a nation live like this?" expresses bitterness that the country has been mutilated. This supports the claim because my knowledge shows that Trianon took about two-thirds of Hungary's territory and left over three million Hungarians outside the new borders, especially in Transylvania. The provenance strengthens the support: a postcard is made to be bought and sent by ordinary people, so its existence in 1921 suggests resentment was widely shared, not limited to politicians.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--08-question-1-postcard.webp" width="900" height="601" alt="A question 1 answer on an invented 1921 Hungarian postcard: the content shows the map cut away, knowledge adds the loss of two-thirds of the land and three million Hungarians, and the provenance shows resentment was widely shared. A note says to check provenance against the treaty described." loading="lazy">
+  <figcaption>Content, precise knowledge and provenance together support the claim.</figcaption>
+</figure>
 
 ## Common mistakes
 

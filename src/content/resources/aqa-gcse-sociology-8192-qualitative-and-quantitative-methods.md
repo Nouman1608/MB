@@ -39,6 +39,11 @@ The [research methods study guide](/resources/aqa-gcse-sociology-8192-research-m
 
 Use the words **reliability**, **validity** and **representativeness** in every evaluation. They are the three tests examiners expect you to apply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--03-methods-spectrum.webp" width="900" height="744" alt="A line runs from quantitative methods, which are more reliable and easy to compare, to qualitative methods, which give more depth and validity. Questionnaires, structured interviews, unstructured interviews and participant observation are placed along it with a strength and a weakness each. Below, mixed methods combine both." loading="lazy">
+  <figcaption>Quantitative methods favour reliability; qualitative methods favour validity; mixed methods combine them.</figcaption>
+</figure>
+
 ## Questionnaires
 
 A questionnaire is a list of written questions answered by **respondents**.
@@ -59,6 +64,11 @@ Questionnaires suit research that needs a **large sample** and **comparable** an
 - **Strengths:** cheap per respondent; quick to analyse; reliable because every respondent gets the same questions; anonymity may encourage honesty about private behaviour.
 - **Weaknesses:** low response rates can make the sample unrepresentative; closed questions impose the researcher's categories; respondents cannot ask what a question means; people may give **socially desirable** answers, choosing what sounds acceptable rather than what is true; the researcher cannot check whether the right person completed the form.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--01-questionnaire-design.webp" width="900" height="719" alt="Closed questions give quantitative data and open questions give qualitative data. Three wording traps: leading questions suggest an answer, loaded questions use emotive words, and double-barrelled questions ask two things at once. Below, delivery choices affect response rates." loading="lazy">
+  <figcaption>Every question type and every word choice affects the data a questionnaire produces.</figcaption>
+</figure>
+
 ## Interviews
 
 An interview is a conversation in which the researcher asks questions and records the answers.
@@ -78,6 +88,11 @@ Unstructured interviews suit sensitive or complex topics where trust and depth m
 
 - **Strengths:** higher response rates than postal questionnaires; the interviewer can explain questions; unstructured interviews build **rapport** and allow people to explain their views in their own words, increasing validity.
 - **Weaknesses:** expensive and time-consuming, especially transcribing; **interviewer bias** or the **interviewer effect**, where the interviewer's age, gender, ethnicity or manner shapes answers; unstructured interviews are hard to repeat and compare, so reliability is low; samples are usually small.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--02-interview-types.webp" width="900" height="741" alt="A line from quantitative to qualitative. Structured interviews ask the same questions in the same order, as in Young and Willmott’s survey. Semi-structured interviews add freedom to probe. Unstructured interviews are guided conversations, as Carlen used. Focus groups discuss a topic together. Below, strengths and weaknesses." loading="lazy">
+  <figcaption>The less structured the interview, the more depth and the less comparability.</figcaption>
+</figure>
 
 ## Observation
 
@@ -101,6 +116,11 @@ Observation suits topics where what people **do** may differ from what they **sa
 - **Strengths:** high validity, because behaviour is seen in its natural setting; the researcher may discover issues they had not thought to ask about; covert observation avoids people changing their behaviour.
 - **Weaknesses:** in overt observation people may act differently because they know they are watched (the **observer effect**, sometimes called the Hawthorne effect after studies in a US factory in the 1920s and 1930s); the researcher may become too involved and lose objectivity, known as **going native**; recording is difficult, as field notes are often written later from memory; covert work raises serious ethical issues of consent and deception; small groups and one-off settings give low reliability and representativeness.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--03-observation-types.webp" width="900" height="791" alt="A two-by-two grid. Overt participant: joining a staff room with permission. Overt non-participant: sitting at the back of a classroom. Covert participant: taking a job without revealing the research. Covert non-participant: watching a public place unnoticed. Overt observation risks the observer effect; covert observation raises consent and deception. Below, going native and ethnography." loading="lazy">
+  <figcaption>Joining or watching, openly or in secret: each choice trades validity against other problems.</figcaption>
+</figure>
+
 ## Matching a method to a topic
 
 | Area of research | Suitable method | Reason |
@@ -110,6 +130,11 @@ Observation suits topics where what people **do** may differ from what they **sa
 | Experiences of domestic violence | Unstructured interview | Sensitive; needs trust, privacy and depth |
 | Parents' views on choosing schools | Focus group | Shows how opinions form through discussion |
 | Attitudes to crime across age groups | Structured interview | Comparable answers with a good response rate |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--04-matching-methods.webp" width="900" height="725" alt="Five research questions matched to methods: a closed-question questionnaire for how many couples share housework; participant observation for why pupils join anti-school groups; unstructured interviews for domestic violence; a focus group for parents’ views on school choice; and structured interviews for attitudes to crime across age groups." loading="lazy">
+  <figcaption>Choose the method that fits what the question asks: how many, why, or how people experience it.</figcaption>
+</figure>
 
 ## Mixed methods
 
@@ -126,6 +151,11 @@ Observation suits topics where what people **do** may differ from what they **sa
 - The researcher needs skills in several methods.
 - Results from different methods may conflict, and it may be unclear which to trust.
 - Combining a small qualitative sample with a survey does not automatically make the whole study representative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--05-mixed-methods.webp" width="900" height="735" alt="Two sequences: interviews can help design a questionnaire, or a questionnaire can show the scale of a pattern and identify people to interview. Below, uses such as triangulation and Willis’s combined methods, and limits such as cost and conflicting results." loading="lazy">
+  <figcaption>Numbers show how big a pattern is; words explain why it happens.</figcaption>
+</figure>
 
 ## Annotated model paragraph
 
