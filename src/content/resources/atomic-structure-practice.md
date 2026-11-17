@@ -66,11 +66,11 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 
 **6.** Write the electronic configuration of a chloride ion, Cl⁻ (proton number 17), and explain how it differs from the configuration of a chlorine atom. **[2]**
 
-**7.** *(0620 Extended, 5070 required)* Copper exists as two isotopes, ⁶³Cu (69% abundance) and ⁶⁵Cu (31% abundance). Calculate the relative atomic mass of copper, giving your answer to one decimal place. **[3]**
+**7.** *(0620 Extended, 5070 required)* Copper exists as two isotopes, ⁶³Cu (69% abundance) and ⁶⁵Cu (31% abundance). Calculate the relative atomic mass of copper, giving your answer to one decimal place. **[2]**
 
 **8.** A student is given a sample and told it is either a pure compound or a mixture of two substances.
 
-**(a)** Suggest one physical method the student could use to help decide, and state what result would indicate a mixture. **[2]**
+**(a)** The student moves a magnet over the sample. The magnet pulls out some of the solid but leaves the rest behind. State what this shows about the sample, and explain your answer. **[2]**
 **(b)** State one way in which a mixture's composition differs from a compound's. **[1]**
 
 **9.** Write the isotope symbol notation for an atom of carbon-14 (mass number 14, proton number 6), and explain what each number represents. **[2]**
@@ -79,9 +79,7 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 
 **11.** Sodium (proton number 11) has electronic configuration 2,8,1 as a neutral atom. Write the configuration of the sodium ion Na⁺, and explain the change. **[2]**
 
-**12.** Explain why Group VIII noble gases are unreactive, in terms of electronic configuration. **[2]**
-
----
+**12.** State what the electronic configurations of the Group VIII noble gases have in common, and write the electronic configurations of neon (proton number 10) and argon (proton number 18). **[2]**
 
 **13.** *(0620 Extended, 5070 required)* A sample of gallium contains 60.1% of the isotope gallium-69 and 39.9% of the isotope gallium-71. Calculate the relative atomic mass of gallium, to one decimal place. **[2]**
 
@@ -93,18 +91,17 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 
 **3.** **Proton number** is the number of protons in the nucleus [1]. **Mass number** is the total number of protons and neutrons in the nucleus [1].
 
-**4.** Isotopes are atoms of the **same element** (same proton number) with **different numbers of neutrons** [1] (and therefore different mass numbers) [1]. They have the **same number of electrons**, and therefore the same electronic configuration, and since chemical properties depend on electron arrangement, their chemical properties are identical [1].
+**4.** Isotopes are different atoms of the **same element** that have the same number of protons but **different numbers of neutrons** [1]. Isotopes of the same element have the **same number of electrons** [1] and therefore the **same electronic configuration**, so they react in the same way and have the same chemical properties [1]. The second and third marks are for the Extended part of the question.
 
 **5. (a)** **2,8,2** [1].
 **(b)** **Group II**, because the outer shell has 2 electrons [1]; **Period 3**, because 3 shells are occupied [1].
 
 **6.** Chlorine atom: **2,8,7**. Chloride ion: **2,8,8** [1]. The ion has **gained one electron** to fill its outer shell, while the number of protons (and therefore the element) stays the same [1].
 
-**7.** *(0620 Extended, 5070 required)* Ar = (63 × 69 + 65 × 31) / 100 [1] = (4347 + 2015) / 100 = 6362 / 100 [1] = **63.6** [1].
+**7.** *(0620 Extended, 5070 required)* (63 × 69) + (65 × 31) = 4347 + 2015 = 6362 [1]; 6362 ÷ 100 = 63.62, which is **63.6** to one decimal place [1]. This is the correct answer for the abundances given in the question. A Periodic Table may show a slightly different value for copper, because the real abundances and isotope masses differ a little from the rounded figures used here. Always calculate from the data in the question.
 
-**8. (a)** Compare the sample's **melting or boiling point** with the known value for the pure compound [1]; a mixture melts/boils over a **range** of temperatures rather than at a single sharp point [1].
+**8. (a)** The sample is a **mixture** [1]. Its substances are not chemically combined, so each keeps its own properties and they can be separated by a physical method such as using a magnet [1].
 **(b)** A mixture's composition can **vary** (not a fixed ratio), whereas a compound always has the **same fixed ratio** of its constituent elements [1].
-*Any other valid physical method (e.g. chromatography for a mixture of soluble substances) should be credited in (a).*
 
 **9.** **¹⁴₆C** [1]. The **top number (14)** is the mass number — protons plus neutrons; the **bottom number (6)** is the proton number — protons only, which identifies the element [1].
 
@@ -112,11 +109,11 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 
 **11.** **2,8** [1]. The sodium atom has **lost one electron** to form the +1 ion; the number of protons — and therefore the element — stays the same [1].
 
-**12.** Noble gases have a **full outer shell** of electrons [1], so they have no tendency to gain, lose or share electrons in a chemical reaction, making them extremely unreactive [1].
+**12.** Each noble gas has a **full outer shell** of electrons [1]. Neon is **2,8** and argon is **2,8,8** [1].
 
-**13.** *(0620 Extended, 5070 required)* (69 × 60.1) + (71 × 39.9) = 4146.9 + 2832.9 = 6979.8 [1]; 6979.8 ÷ 100 = **69.8** [1].
+**13.** *(0620 Extended, 5070 required)* (69 × 60.1) + (71 × 39.9) = 4146.9 + 2832.9 = 6979.8 [1]; 6979.8 ÷ 100 = 69.798, which is **69.8** to one decimal place [1].
 
-*Examiner insight (June 2025):* common errors were to average the two mass numbers without using the percentages (which gives 70.0 here), or to divide the wrong way round. Multiply each mass by its percentage, add, then divide by 100. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 43, Question 2.
+*What the examiners reported:* for a calculation of this type in June 2025 (Cambridge IGCSE Chemistry 0620, Paper 43, Question 2(b)(ii)), the Principal Examiner Report for Teachers lists three common errors: averaging the two isotope masses without using the percentage abundances (which gives 70.0 here), writing a Periodic Table value with no working, and rounding a correct answer wrongly. It also advises candidates to show all their working. Multiply each mass by its percentage, add, then divide by 100. *Try the real question next:* Cambridge IGCSE Chemistry 0620, June 2025, Paper 43, Question 2.
 
 ---
 
@@ -127,9 +124,9 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 - Forgetting an ion's electron count changes but its proton number — and therefore the element — does not.
 - Averaging isotope masses without weighting by abundance.
 - Saying isotopes have different chemical properties because their mass differs.
-- In an "identify the isotope" question, picking an atom with a different proton number (a different element entirely) rather than one with the same proton number but a different mass number/neutron count.
-- Writing the mass number and proton number the wrong way round in isotope symbol notation.
-- Forgetting that removing an electron to form a positive ion never changes the proton number or the element.
+- Writing the mass number and proton number the wrong way round in isotope symbol notation, as in question 9.
+- Rounding a relative atomic mass wrongly, or not giving the number of decimal places the question asks for.
+- Writing only a final answer for a calculation. Show the working, so a correct method can earn credit.
 
 ## Frequently asked questions
 
@@ -140,7 +137,14 @@ Questions on calculating relative atomic mass from isotope abundances (7 and 13)
 Proton number is the number of protons in the nucleus and identifies the element. Mass number is the total number of protons and neutrons, and it varies between isotopes of the same element.
 
 **How do you calculate relative atomic mass from isotope abundances?**
-Multiply each isotope's mass number by its percentage abundance, add the results and divide by 100. Averaging the masses without weighting by abundance is a common mistake.
+Multiply the relative mass of each isotope by its percentage abundance, add the results and divide by 100. Averaging the masses without weighting by abundance is a common mistake.
 
 **Does forming an ion change the element?**
 No. Forming an ion changes only the number of electrons. The proton number, and therefore the element, stays the same.
+
+## Official syllabuses
+
+These questions are written for sub-topics 2.1, 2.2 and 2.3 of two syllabuses. The content is the same in both, but 0620 separates Core from Supplement (Extended) content and 5070 has no tiers.
+
+- [Cambridge IGCSE Chemistry 0620 syllabus for examination in 2026, 2027 and 2028 (PDF on cambridgeinternational.org)](https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf)
+- [Cambridge O Level Chemistry 5070 syllabus for examination in 2026, 2027 and 2028 (PDF on cambridgeinternational.org)](https://www.cambridgeinternational.org/Images/697326-2026-2028-syllabus.pdf)

@@ -22,7 +22,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "atoms-elements-and-compounds"
     subtopic: "isotopes"
-description: "Study guide for Cambridge IGCSE Chemistry 0620 sub-topics 2.1-2.3: elements, compounds, mixtures, atomic structure, shells and isotopes, worked."
+description: "Cambridge IGCSE Chemistry 0620 sub-topics 2.1 to 2.3: elements, compounds and mixtures, atomic structure, electron shells and isotopes, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
@@ -38,19 +38,21 @@ Use it alongside the [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/che
 
 ## What these sub-topics cover
 
-| 0620 outcome | What you must be able to do | Tier |
+The table summarises each learning outcome in Marlbridge's own words. For the exact wording, read the official syllabus linked at the end of this page. The syllabus numbers the outcomes 1, 2, 3 and so on inside each sub-topic; this guide writes the sub-topic first, so 2.3.4 means sub-topic 2.3, outcome 4.
+
+| Sub-topic and outcome | What you must be able to do (our summary) | Tier |
 |---|---|---|
 | 2.1.1 | Describe the differences between elements, compounds and mixtures | Core |
-| 2.2.1 | Describe the atom as a central nucleus of protons and neutrons, surrounded by electrons in shells | Core |
+| 2.2.1 | Describe the structure of the atom: a central nucleus containing neutrons and protons, surrounded by electrons in shells | Core |
 | 2.2.2 | State the relative charges and relative masses of a proton, a neutron and an electron | Core |
 | 2.2.3 | Define proton number / atomic number | Core |
 | 2.2.4 | Define mass number / nucleon number | Core |
 | 2.2.5 | Determine the electronic configuration of elements and their ions, proton number 1 to 20 | Core |
-| 2.2.6 | State the links between electronic configuration, group and period | Core |
+| 2.2.6 | State three facts: (a) Group VIII noble gases have a full outer shell; (b) outer shell electrons equal the group number in Groups I to VII; (c) occupied shells equal the period number | Core |
 | 2.3.1 | Define isotopes | Core |
 | 2.3.2 | Interpret and use symbols for atoms and ions | Core |
-| 2.3.3 | State why isotopes of an element have the same chemical properties | Extended only |
-| 2.3.4 | Calculate relative atomic mass from isotope masses and abundances | Extended only |
+| 2.3.3 | State that isotopes of the same element have the same chemical properties, and why | Extended only |
+| 2.3.4 | Calculate the relative atomic mass of an element from the relative masses and abundances of its isotopes | Extended only |
 
 ## 2.1 Elements, compounds and mixtures
 
@@ -136,9 +138,12 @@ From these two numbers you can work out everything else:
 ```
 protons   = proton number
 neutrons  = mass number − proton number
-electrons = proton number   (for a neutral atom)
-electrons = proton number − charge   (for an ion)
+electrons = proton number                        (for a neutral atom)
+electrons = proton number − number of charges    (for a positive ion)
+electrons = proton number + number of charges    (for a negative ion)
 ```
+
+A positive ion has lost electrons, so subtract: Al³⁺ has 13 − 3 = 10 electrons. A negative ion has gained electrons, so add: S²⁻ has 16 + 2 = 18 electrons. The figure below writes both cases as one rule, electrons = protons − charge, where the charge keeps its sign: for S²⁻, 16 − (−2) = 18.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-chemistry-0620-elements-atomic-structure-and-isotopes--02-counting-ion-particles.webp" width="900" height="920" alt="Bars for protons, neutrons and electrons: Al 13, 14, 13; Al3+ 13, 14, 10; S2- 16, 16, 18; Ca2+ 20, 20, 18. Only the electron count changes when an ion forms." loading="lazy">
@@ -286,22 +291,34 @@ Which of these pairs are isotopes of each other? (i) ⁴⁰₁₈Ar and ⁴⁰�
 (iii) same protons (8), neutrons 8 and 10 -> isotopes
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-chemistry-0620-elements-atomic-structure-and-isotopes--03-isotopes-or-not.webp" width="900" height="930" alt="Ar-40 and Ca-40 are not isotopes (different protons). F-19 and F- are an atom and its ion, not isotopes. O-16 and O-18 have the same protons but 8 and 10 neutrons, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same proton number and different neutron numbers.</figcaption>
+</figure>
+
 ### Why isotopes have the same chemical properties (Extended only)
 
 Isotopes of the same element have the **same number of electrons** and therefore the **same electronic configuration**. Chemical reactions depend on electrons, so isotopes react in the same way. A full answer needs both links: same number of electrons, so same configuration, so same chemical properties. Saying only "same number of protons" does not explain it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
+</figure>
 
 ### Calculating relative atomic mass (Extended only)
 
 Relative atomic mass, Aᵣ, is an average of the masses of an element's isotopes, weighted by how common each one is. (Sub-topic 3.2 describes Aᵣ as the average mass of the isotopes compared with 1/12 of the mass of an atom of carbon-12; see [formulae, equations and the mole](/resources/formulae-equations-and-the-mole/).)
 
 ```
-Ar = sum of (relative isotopic mass × abundance) ÷ total abundance
+relative atomic mass = sum of (relative mass of isotope × abundance) ÷ total abundance
 ```
+
+On this page Aᵣ, with a small r, always means relative atomic mass. Ar, with a full-size r, is the symbol for the element argon.
 
 When abundances are percentages, the total is 100.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-chemistry-0620-elements-atomic-structure-and-isotopes--01-ar-percentages-boron-magnesium.webp" width="900" height="1200" alt="Boron 20 percent boron-10 and 80 percent boron-11 gives Ar 10.8, not the plain average 10.5. Magnesium 79, 10 and 11 percent of masses 24, 25 and 26 gives 2432 divided by 100, 24.3 to 1 d.p. Number lines show each answer nearer the commonest isotope." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-chemistry-0620-elements-atomic-structure-and-isotopes--01-ar-percentages-boron-magnesium.webp" width="900" height="1200" alt="Boron 20 percent boron-10 and 80 percent boron-11 gives a relative atomic mass of 10.8, not the plain average 10.5. Magnesium 79, 10 and 11 percent of masses 24, 25 and 26 gives 2432 divided by 100, 24.3 to 1 d.p. Number lines show each answer nearer the commonest isotope." loading="lazy">
   <figcaption>Weight each isotope mass by its percentage abundance, add, and divide by 100.</figcaption>
 </figure>
 
@@ -316,13 +333,13 @@ When abundances are percentages, the total is 100.
 Boron is about 20% boron-10 and 80% boron-11. Calculate its relative atomic mass.
 
 ```
-Ar = (10 × 20 + 11 × 80) ÷ 100
-   = (200 + 880) ÷ 100
-   = 1080 ÷ 100
-   = 10.8
+relative atomic mass = (10 × 20 + 11 × 80) ÷ 100
+                     = (200 + 880) ÷ 100
+                     = 1080 ÷ 100
+                     = 10.8
 ```
 
-The answer lies between 10 and 11 and closer to 11, because boron-11 is more common. That is a quick sense check. A plain average, (10 + 11) ÷ 2 = 10.5, ignores abundance and scores no credit.
+The answer lies between 10 and 11 and closer to 11, because boron-11 is more common. That is a quick sense check. A plain average, (10 + 11) ÷ 2 = 10.5, ignores abundance, so it is wrong.
 
 ### Worked example 10: three isotopes (Extended only)
 
@@ -330,22 +347,12 @@ Magnesium is about 79% magnesium-24, 10% magnesium-25 and 11% magnesium-26. Calc
 
 ```
 check abundances: 79 + 10 + 11 = 100
-Ar = (24 × 79 + 25 × 10 + 26 × 11) ÷ 100
-   = (1896 + 250 + 286) ÷ 100
-   = 2432 ÷ 100
-   = 24.32
-   = 24.3 (1 d.p.)
+relative atomic mass = (24 × 79 + 25 × 10 + 26 × 11) ÷ 100
+                     = (1896 + 250 + 286) ÷ 100
+                     = 2432 ÷ 100
+                     = 24.32
+                     = 24.3 (1 d.p.)
 ```
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-chemistry-0620-elements-atomic-structure-and-isotopes--03-isotopes-or-not.webp" width="900" height="930" alt="Ar-40 and Ca-40 are not isotopes (different protons). F-19 and F- are an atom and its ion, not isotopes. O-16 and O-18 have the same protons but 8 and 10 neutrons, so they are isotopes." loading="lazy">
-  <figcaption>Isotopes have the same proton number and different neutron numbers.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
-  <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
-</figure>
 
 
 ## Common errors
@@ -381,4 +388,4 @@ Calculating relative atomic mass from isotope abundances is Extended content, as
 
 ## Official syllabus
 
-Cambridge IGCSE Chemistry 0620 syllabus for examination in 2026, 2027 and 2028, version 2 (August 2026), Cambridge University Press & Assessment. Sub-topics 2.1, 2.2 and 2.3.
+[Cambridge IGCSE Chemistry 0620 syllabus for examination in 2026, 2027 and 2028 (PDF on cambridgeinternational.org)](https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf), version 2 (August 2026), Cambridge University Press & Assessment. Sub-topics 2.1, 2.2 and 2.3 are in section 3, Subject content.
