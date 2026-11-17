@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
     subtopic: "law-making-delegated-legislation-7162"
-description: "Revision notes on the three types of delegated legislation, parliamentary and judicial controls, reasons and evaluation, with cases and a self-test for AQA Law 7162."
+description: "Revision notes on the three types of delegated legislation, its controls, reasons and evaluation, with cases, key terms and a self-test for AQA Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

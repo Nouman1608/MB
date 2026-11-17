@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
     subtopic: "law-making-the-european-union-7162"
-description: "Revision notes on the EU institutions, treaties, regulations and directives, direct and indirect effect, and EU law's impact on England and Wales, for AQA Law 7162."
+description: "Revision notes on the EU institutions, treaties, regulations and directives, direct and indirect effect, and impact on English law, for AQA Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

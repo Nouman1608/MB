@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "solids-liquids-and-gases-edexcel"
     subtopic: "ideal-gas-molecules"
-description: "Original 4PH1 questions on gas pressure, absolute zero from data, Kelvin conversions, molecular kinetic energy and both gas laws, including a rising bubble, with full answers."
+description: "Original 4PH1 questions on gas pressure, absolute zero from data, Kelvin conversions, molecular energy and both gas laws, with full answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
     subtopic: "law-making-statutory-interpretation-7162"
-description: "Original practice questions with full answers on the rules of statutory interpretation, aids, language rules, EU law and the HRA, with scenarios for AQA Law 7162."
+description: "Original practice questions with full answers on statutory interpretation rules, aids, language rules, EU law and the HRA, with scenarios for AQA Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves"
     subtopic: "light-and-sound"
-description: "Original 4PH1 questions on reflection, refractive index, critical angle, prisms, fibres, the speed of sound and oscilloscope traces, with full mark-scheme answers."
+description: "Original 4PH1 questions on reflection, refractive index, critical angle, prisms, fibres, the speed of sound and oscilloscopes, with mark-scheme answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

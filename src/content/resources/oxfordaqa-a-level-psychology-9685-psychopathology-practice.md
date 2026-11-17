@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-introductory-topics-9685"
     subtopic: "psychopathology-9685"
-description: "Twelve original OxfordAQA 9685 psychopathology questions: definitions, treatment outcome data, phobia and depression scenarios and extended evaluations, with answers."
+description: "Twelve original OxfordAQA 9685 psychopathology questions: definitions, treatment data, phobia and depression scenarios and extended evaluations, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
     subtopic: "law-making-law-reform-7162"
-description: "Law reform for AQA A Level Law 7162: how the Law Commission works, reform, codification, consolidation and repeal, examples of success and failure, and evaluation."
+description: "Law reform for AQA A Level Law 7162: how the Law Commission works, reform, codification, consolidation and repeal, its successes and failures, and evaluation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

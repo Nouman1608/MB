@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "energy-resources-and-energy-transfers"
     subtopic: "energy-resources-and-electricity-generation"
-description: "Recall notes for 4PH1 sub-topic 4d: energy transfer chains for each resource, pros and cons for large-scale generation, evaluation criteria and a 12-question self-test."
+description: "Recall notes for 4PH1 sub-topic 4d: transfer chains for each energy resource, pros and cons for large-scale generation and a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

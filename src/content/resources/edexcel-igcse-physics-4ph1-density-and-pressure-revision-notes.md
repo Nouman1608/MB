@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "solids-liquids-and-gases-edexcel"
     subtopic: "density-and-pressure"
-description: "Recall notes for 4PH1 sub-topic 5b: density, the density practical for solids and liquids, p = F/A, fluid pressure in all directions and p = hρg, with a self-test."
+description: "Recall notes for 4PH1 sub-topic 5b: density, the density practical, p = F/A, fluid pressure in all directions and p = hρg, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

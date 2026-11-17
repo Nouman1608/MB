@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "solids-liquids-and-gases-edexcel"
     subtopic: "density-and-pressure"
-description: "Original 4PH1 questions on density, the liquid and solid density practicals, pressure on surfaces, fluid pressure and p = hρg force problems, with full answers."
+description: "Original 4PH1 questions on density, the density practicals, pressure on surfaces, fluid pressure and p = hρg force problems, with full answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

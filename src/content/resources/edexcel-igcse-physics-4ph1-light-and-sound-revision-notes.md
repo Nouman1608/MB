@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves"
     subtopic: "light-and-sound"
-description: "Recall notes for 4PH1 sub-topic 3d: ray rules, n = sin i / sin r, critical angle, optical fibres, speed of sound and oscilloscope readings, with a self-test."
+description: "Recall notes for 4PH1 sub-topic 3d: ray rules, n = sin i / sin r, critical angle, optical fibres, speed of sound and oscilloscope readings."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

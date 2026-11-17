@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "energy-resources-and-energy-transfers"
     subtopic: "energy-transfers"
-description: "Recall notes for 4PH1 sub-topic 4b: stores and pathways, efficiency, Sankey diagrams, conduction, convection, radiation, the practical and a 12-question self-test."
+description: "Recall notes for 4PH1 sub-topic 4b: stores and pathways, efficiency, Sankey diagrams, conduction, convection, radiation, the practical and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "solids-liquids-and-gases-edexcel"
     subtopic: "units-solids-liquids-and-gases"
-description: "Original 4PH1 practice on Topic 5 units: cm² and cm³ conversions, g/cm³ to kg/m³, Celsius and kelvin, pascals and J/kg °C in calculations, with full answers."
+description: "Original 4PH1 practice on Topic 5 units: cm² and cm³ conversions, g/cm³ to kg/m³, Celsius and kelvin, pascals and J/kg °C, with full answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

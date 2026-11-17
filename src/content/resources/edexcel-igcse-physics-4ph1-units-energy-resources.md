@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "energy-resources-and-energy-transfers"
     subtopic: "units-energy-resources"
-description: "The units of Topic 4 in Edexcel International GCSE Physics 4PH1: kg, J, m, m/s, m/s², N, s and W, how they link, prefixes and converting data before you calculate."
+description: "The units of Topic 4 in Edexcel IGCSE Physics 4PH1: kg, J, m, m/s, m/s², N, s and W, how they link, prefixes and converting data before you calculate."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

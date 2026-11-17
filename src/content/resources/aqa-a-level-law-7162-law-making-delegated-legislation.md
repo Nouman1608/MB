@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
     subtopic: "law-making-delegated-legislation-7162"
-description: "Delegated legislation for AQA A Level Law 7162: orders in council, statutory instruments and bylaws, controls by Parliament and the courts, reasons, and evaluation."
+description: "Delegated legislation for AQA A Level Law 7162: orders in council, statutory instruments and bylaws, parliamentary and judicial controls, reasons and evaluation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

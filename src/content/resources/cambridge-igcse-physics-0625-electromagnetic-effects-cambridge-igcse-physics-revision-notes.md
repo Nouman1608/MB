@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "electricity-and-magnetism-cambridge-igcse-physics"
     subtopic: "electromagnetic-effects-cambridge-igcse-physics"
-description: "Revision notes for Cambridge IGCSE Physics 0625 section 4.5: induction, generators, fields of currents, motor effect, transformers and cable losses, with a self-test."
+description: "Revision notes for Cambridge IGCSE Physics 0625 section 4.5: induction, generators, the motor effect, transformers and cable losses, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

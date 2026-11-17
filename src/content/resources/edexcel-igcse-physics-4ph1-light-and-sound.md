@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves"
     subtopic: "light-and-sound"
-description: "Reflection, refraction practicals, refractive index, critical angle, optical fibres and the sound practicals for Edexcel International GCSE Physics 4PH1, 3d."
+description: "Reflection, refraction practicals, refractive index, critical angle, optical fibres and the sound practicals for Edexcel IGCSE Physics 4PH1, sub-topic 3d."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

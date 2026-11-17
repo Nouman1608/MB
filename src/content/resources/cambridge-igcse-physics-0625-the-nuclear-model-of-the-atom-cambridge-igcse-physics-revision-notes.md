@@ -93,6 +93,13 @@ These notes condense section 5.1 The nuclear model of the atom of the Cambridge 
 ²₁H + ³₁H → ⁴₂He + ¹₀n
 ```
 
+## Must-know distinctions
+
+- **Isotope vs ion:** isotopes differ in neutrons; ions differ from their atoms in electrons.
+- **Proton number vs nucleon number:** Z counts protons only; A counts protons and neutrons.
+- **Atom vs nucleus:** the nucleus is tiny but holds almost all the mass; the electrons occupy the space around it.
+- **Fission vs fusion (Extended only):** splitting a heavy nucleus vs joining light ones; both release energy.
+
 ## Key terms
 
 | Term | Meaning |

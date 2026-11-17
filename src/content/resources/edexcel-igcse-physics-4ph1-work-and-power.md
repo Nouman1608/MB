@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "energy-resources-and-energy-transfers"
     subtopic: "work-and-power"
-description: "Work done, GPE, kinetic energy, the energy link between them and power as a rate, with multi-step worked examples, for Edexcel International GCSE Physics 4PH1, 4c."
+description: "Work done, GPE, kinetic energy, the energy link between them and power as a rate, with multi-step worked examples, for Edexcel IGCSE Physics 4PH1, 4c."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

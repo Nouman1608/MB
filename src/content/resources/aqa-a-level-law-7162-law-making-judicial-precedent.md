@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
     subtopic: "law-making-judicial-precedent-7162"
-description: "Judicial precedent for AQA A Level Law 7162: the court hierarchy, stare decisis, ratio and obiter, law reporting, following, overruling, distinguishing and evaluation."
+description: "Judicial precedent for AQA A Level Law 7162: court hierarchy, stare decisis, ratio and obiter, law reporting, following, overruling, distinguishing and evaluation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

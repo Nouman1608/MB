@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
     subtopic: "law-making-parliamentary-law-making-7162"
-description: "Parliamentary law making for AQA A Level Law 7162: Green and White Papers, the legislative process, influences on Parliament, and parliamentary supremacy and its limits."
+description: "Parliamentary law making for AQA A Level Law 7162: Green and White Papers, the legislative process, influences, and parliamentary supremacy and its limits."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

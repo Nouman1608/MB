@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-introductory-topics-9685"
     subtopic: "psychopathology-9685"
-description: "Study guide to OxfordAQA 9685 section 3.1.3 Psychopathology: definitions of abnormality, phobias, depression, behavioural and cognitive treatments, model answers."
+description: "Study guide to OxfordAQA 9685 section 3.1.3 Psychopathology: definitions of abnormality, phobias, depression, behavioural and cognitive treatments."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

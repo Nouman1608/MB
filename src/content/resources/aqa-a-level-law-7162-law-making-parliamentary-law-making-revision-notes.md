@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
     subtopic: "law-making-parliamentary-law-making-7162"
-description: "Revision notes on Green and White Papers, Bill stages, the Parliament Acts, influences on Parliament and supremacy and its limits, with a self-test for AQA Law 7162."
+description: "Revision notes on Green and White Papers, Bill stages, Parliament Acts, influences on Parliament and supremacy's limits, with a self-test for AQA Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

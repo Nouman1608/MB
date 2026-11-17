@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
     subtopic: "the-rule-of-law-7162"
-description: "Original practice questions with full answers on the rule of law, its three elements, Raz and Bingham, and its application to three areas of law, for AQA Law 7162."
+description: "Original practice questions with full answers on the rule of law, its three elements, Raz and Bingham, and its application to three areas, for AQA Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

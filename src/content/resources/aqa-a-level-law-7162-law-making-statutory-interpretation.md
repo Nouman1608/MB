@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
     subtopic: "law-making-statutory-interpretation-7162"
-description: "Statutory interpretation for AQA A Level Law 7162: the literal, golden and mischief rules, the purposive approach, intrinsic and extrinsic aids, EU law and the HRA."
+description: "Statutory interpretation for AQA A Level Law 7162: literal, golden and mischief rules, the purposive approach, aids, and the impact of EU law and the HRA."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

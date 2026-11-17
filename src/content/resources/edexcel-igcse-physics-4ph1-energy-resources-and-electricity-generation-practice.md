@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "energy-resources-and-energy-transfers"
     subtopic: "energy-resources-and-electricity-generation"
-description: "Original 4PH1 questions on energy transfers in power stations, geothermal, solar, hydroelectric and nuclear generation, with a six-mark discussion and full answers."
+description: "Original 4PH1 questions on energy transfers in power stations, geothermal, solar, hydroelectric and nuclear generation, with a six-mark discussion."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

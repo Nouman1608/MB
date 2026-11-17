@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "energy-resources-and-energy-transfers"
     subtopic: "work-and-power"
-description: "Original 4PH1 questions on work done, GPE, kinetic energy, the energy link, braking distances and power, including a stair-climbing practical, with full answers."
+description: "Original 4PH1 questions on work done, GPE, kinetic energy, the energy link, braking distances and power, including a stair-climbing practical."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

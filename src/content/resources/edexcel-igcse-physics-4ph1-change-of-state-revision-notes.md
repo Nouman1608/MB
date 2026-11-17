@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "solids-liquids-and-gases-edexcel"
     subtopic: "change-of-state"
-description: "Recall notes for 4PH1 sub-topic 5c: heating and stored energy, melting, evaporation and boiling, temperature-time graphs, ΔQ = mcΔT and both practicals, with a self-test."
+description: "Recall notes for 4PH1 sub-topic 5c: melting, evaporation and boiling, temperature-time graphs, ΔQ = mcΔT and both practicals, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

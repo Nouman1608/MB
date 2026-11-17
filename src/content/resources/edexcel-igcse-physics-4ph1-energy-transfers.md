@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "energy-resources-and-energy-transfers"
     subtopic: "energy-transfers"
-description: "Energy stores and pathways, conservation, efficiency and Sankey diagrams, conduction, convection, radiation and the thermal practicals for Edexcel IGCSE Physics 4PH1, 4b."
+description: "Energy stores and pathways, efficiency, Sankey diagrams, conduction, convection, radiation and the thermal practicals for Edexcel IGCSE Physics 4PH1, 4b."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

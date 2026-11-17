@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
     subtopic: "law-making-judicial-precedent-7162"
-description: "Original practice questions with full answers on the court hierarchy, ratio and obiter, law reporting and following, overruling and distinguishing, for AQA Law 7162."
+description: "Original practice questions with full answers on the court hierarchy, ratio and obiter, law reporting, overruling and distinguishing, for AQA Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
