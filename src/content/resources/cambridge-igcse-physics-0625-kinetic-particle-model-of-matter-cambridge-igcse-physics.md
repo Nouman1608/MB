@@ -44,6 +44,11 @@ This guide teaches section 2.1, Kinetic particle model of matter, of the Cambrid
 
 **Changes of state:** solid → liquid is **melting**; liquid → solid is **solidification** (freezing); liquid → gas is **boiling** or **evaporation**; gas → liquid is **condensation**. Direct gas ↔ solid changes are not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-cambridge-igcse-physics--01-states-and-changes.webp" width="900" height="660" alt="Solids have a fixed shape and volume, do not flow and are almost incompressible; liquids take the shape of their container, have a fixed volume and flow; gases fill their container, flow and are easily compressed. Melting turns solid to liquid and solidification reverses it; boiling or evaporation turns liquid to gas and condensation reverses it." loading="lazy">
+  <figcaption>Four named changes of state link the three states.</figcaption>
+</figure>
+
 ## The particle model (2.1.2)
 
 | | Solid | Liquid | Gas |
@@ -68,11 +73,21 @@ The particles of matter (atoms, molecules, ions and electrons) attract each othe
 - In a liquid, the forces still keep the particles close (fixed volume) but are not strong enough to hold them in place against their motion: it flows.
 - In a gas, the particles are far apart and the forces between them are very weak: the particles move freely and fill the container, and the gas is easily compressed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
+</figure>
+
 ## Gas pressure
 
 **Core.** Gas particles move randomly and collide with the walls of their container. Each collision pushes on the wall, and the huge number of collisions every second produces the **pressure** of the gas. More frequent or harder collisions mean a larger pressure.
 
 **Extended only.** When a particle hits a wall and rebounds, its momentum changes, so the wall exerts a force on it and it exerts an equal force on the wall. The total force from all the collisions, divided by the area of the wall, is the pressure: **pressure is the force per unit area** created by particles colliding with the surface.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-cambridge-igcse-physics--02-gas-pressure-collisions.webp" width="900" height="600" alt="Gas particles in a box move fast and randomly; one rebounds from the right-hand wall and pushes on it. Many collisions each second produce the pressure; more frequent or harder collisions give a larger pressure. For Extended, the force from the collisions divided by the wall area is the pressure." loading="lazy">
+  <figcaption>Pressure comes from particles colliding with the walls, not with each other.</figcaption>
+</figure>
 
 ## Brownian motion
 
@@ -81,6 +96,11 @@ Place smoke in a small glass cell, light it from the side and look through a mic
 **Explanation.** The air molecules are far too small to see. They move quickly and randomly, colliding with each smoke particle from all sides. At any instant more collisions happen on one side than the other, so the smoke particle is pushed in a random direction, then another. The random motion of microscopic particles in a suspension is **evidence for the kinetic particle model**: it shows that the fluid around them is made of moving particles.
 
 **Extended only.** The smoke particles are **microscopic particles**, large enough to see in a microscope; the air particles hitting them are **molecules** (or atoms). Use these words carefully: "the molecules move randomly" is right, and "the smoke molecules move randomly" is wrong. A microscopic particle is much more massive than a molecule, but because the molecules are **light and moving fast**, their collisions can still move it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-cambridge-igcse-physics--03-brownian-motion.webp" width="900" height="770" alt="Smoke in a small glass cell is lit from the side and viewed through a microscope. Each smoke particle appears as a bright speck moving in a random, jerky, zigzag path. Fast-moving air molecules, too small to see, hit it unevenly from all sides, so the net push keeps changing direction." loading="lazy">
+  <figcaption>Uneven hits from invisible, fast-moving molecules jostle the visible smoke particles.</figcaption>
+</figure>
 
 ## Gases and the absolute scale of temperature (2.1.3)
 
@@ -128,6 +148,16 @@ V₂ = p₁V₁ / p₂ = (3.0 × 10⁵ × 2.0) / 1.0 × 10⁵ = 6.0 cm³
 Pressure and volume can be in any units, provided each is in the same units on both sides.
 
 **The graph.** A graph of p against V is a curve that falls steeply and then levels off, never touching either axis: halving the volume doubles the pressure. A graph of p against 1/V is a **straight line through the origin**, which shows that p is inversely proportional to V. To test results, multiply each pair of p and V: the products should be the same (within experimental error).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-cambridge-igcse-physics--04-pressure-and-kelvin.webp" width="900" height="760" alt="Three boxes of the same gas particles: heated at constant volume they move faster and hit the walls more often and harder; squeezed into a smaller volume at constant temperature they hit each unit area more often. Both raise the pressure. Below, a °C scale beside a kelvin scale: −273 °C is 0 K, −196 °C is 77 K, 0 °C is 273 K, 37 °C is 310 K and 100 °C is 373 K." loading="lazy">
+  <figcaption>Hotter or squeezed, the walls are hit more often: higher pressure. Add 273 to convert °C to K.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-cambridge-igcse-physics--05-pv-constant.webp" width="900" height="752" alt="For a fixed mass of gas at constant temperature, p against V is a falling curve that never meets the axes, through (60 cm³, 100 kPa) and (24 cm³, 250 kPa); p against 1/V is a straight line through the origin. In the syringe example 100 × 60 = p₂ × 24 gives 250 kPa; a 2.0 cm³ bubble at 3.0 × 10⁵ Pa becomes 6.0 cm³ at 1.0 × 10⁵ Pa." loading="lazy">
+  <figcaption>Halve the volume and the pressure doubles; p against 1/V is a straight line.</figcaption>
+</figure>
 
 ## Common mistakes
 

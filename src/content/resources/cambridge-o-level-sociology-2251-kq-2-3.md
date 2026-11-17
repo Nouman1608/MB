@@ -95,6 +95,11 @@ confidence.
 identity has weakened as traditional industries have declined; others argue class still shapes
 identity even when people do not use class labels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-3--01-four-aspects-of-identity.webp" width="900" height="562" alt="Four cards: age, with Ariès’s argument that medieval children were treated like small adults; gender, with Connell’s hegemonic masculinity; ethnicity, which becomes more visible for minorities; and social class, with Bourdieu’s cultural capital. Each card gives the aspect’s impact." loading="lazy">
+  <figcaption>Age, gender, ethnicity and class are all given meaning by society, not just biology.</figcaption>
+</figure>
+
 ## The digital self
 
 Erving Goffman's *The Presentation of Self in Everyday Life* (1959) argued that people manage the
@@ -109,6 +114,11 @@ online.
 | Support from people with similar experiences, such as rare illnesses or minority identities | Cyberbullying and online harassment |
 | Staying connected with family and diaspora communities abroad | Privacy risks; a digital record that cannot be erased |
 | Platforms for creativity and activism | "Echo chambers" that reinforce narrow views |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-3--02-digital-self.webp" width="900" height="599" alt="Goffman’s idea of impression management applied to online profiles, followed by four positive impacts of social media on identity, such as support and connection with diaspora, and four negative impacts, such as pressure to look perfect, cyberbullying, privacy risks and echo chambers." loading="lazy">
+  <figcaption>Online identity brings real benefits and real harms: the syllabus asks for both.</figcaption>
+</figure>
 
 ## Globalisation and identity
 
@@ -135,6 +145,16 @@ The syllabus also asks for positive and negative impacts of:
 - **Global culture** (shared media, music, sport and brands): connects people across countries, but
   may weaken local languages and traditions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-3--03-globalisation-three-directions.webp" width="900" height="482" alt="Globalisation leads in three directions: homogenisation, where identities become alike, as in Ritzer’s McDonaldization; hybrid identities, where young people of migrant heritage mix cultures; and cultural defence, where groups strengthen traditional identities, as Bruce showed for religion in communist Poland." loading="lazy">
+  <figcaption>Hybrid means mixing cultures; homogenisation means cultures becoming alike.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-3--04-diversity-impacts.webp" width="900" height="393" alt="A table of positive and negative impacts on identity: cultural diversity widens understanding but may cause tension; multiculturalism, such as Canada’s 1971 policy, supports minorities but may keep communities apart; global culture connects people but may weaken local languages and traditions." loading="lazy">
+  <figcaption>Each global influence has a positive and a negative side for identity.</figcaption>
+</figure>
+
 ## Postmodernism: identity as chosen
 
 Postmodernists argue that traditional sources of identity, such as class, religion, family and local
@@ -146,6 +166,11 @@ different selves on different platforms.
 **Evaluation:** choice requires money, so consumer identities are easier for the well-off; family
 expectations, religion and law still limit many people's choices; and ascribed characteristics such
 as ethnicity, age and gender continue to shape how others treat us, whatever identity we choose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-3--05-pick-and-mix.webp" width="900" height="524" alt="Left: postmodernists say people build a pick-and-mix identity through consumption, lifestyle and digital identities. Right: critics reply that money, family expectations, religion, law and ascribed characteristics such as ethnicity, age and gender still limit choice." loading="lazy">
+  <figcaption>Choice has grown, but it is shaped by money and by characteristics people cannot choose.</figcaption>
+</figure>
 
 ## Worked example: an evaluation plan (practice)
 
@@ -159,6 +184,11 @@ as ethnicity, age and gender continue to shape how others treat us, whatever ide
   to inherited identities; family and religious expectations remain strong in many societies.
 - **Judgement:** choice has increased, especially for young and affluent people online, but
   traditional influences still set the limits within which people choose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-3--06-evaluation-plan.webp" width="900" height="701" alt="A balance weighing arguments that identity is now chosen, such as pick-and-mix consumption, digital identities, hybrid identities and flexible gender roles, against arguments that it is still limited by class, ascribed status, cultural defence and family and religious expectations. The judgement: choice has grown within traditional limits." loading="lazy">
+  <figcaption>Weigh newer influences against traditional ones, then judge.</figcaption>
+</figure>
 
 ## Common mistakes
 

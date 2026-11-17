@@ -31,6 +31,11 @@ For the whole of Paper 1, start with the [Families and Education overview](/reso
 
 Sociologists separate two ideas. A **household** is a person or group of people living at the same address and sharing facilities, such as a kitchen. A **family** is a group linked by kinship, marriage, civil partnership or cohabitation. A student house share is a household but not a family; a grandmother living two streets away is family but not part of the household. Keeping these apart stops you counting single-person households as a "family form".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-family-forms--01-family-household.webp" width="900" height="636" alt="Two overlapping circles. A household is people at the same address sharing facilities; a family is people linked by kinship, marriage, civil partnership or cohabitation. A student house share is a household but not a family; a grandmother two streets away is family but not household; a couple and children at home are both." loading="lazy">
+  <figcaption>Households share an address; families share kinship ties. Keep the two apart.</figcaption>
+</figure>
+
 ## The five family forms in the specification
 
 **Nuclear family.** Two generations: a couple and their dependent children, living together. Functionalists such as Parsons saw it as the family best suited to industrial society because it is small and geographically mobile. Oakley called the married version of it the **conventional family**.
@@ -51,6 +56,16 @@ A related idea is the **beanpole family**, associated with Julia Brannen: long a
 
 Other terms from the specification's key terms list are worth using accurately: **cohabitation** (living together as a couple without being married), the **empty nest family** (a couple whose children have left home), and the **commune** (a group sharing property and child rearing outside conventional family ties).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-family-forms--02-five-family-forms.webp" width="900" height="747" alt="Five cards with simple figures. Nuclear: a couple and dependent children. Extended: three generations. Reconstituted: a couple with children from a previous relationship, including step-children. Lone parent: one parent with children, usually a mother. Single sex: a same-sex couple, with or without children. A sixth card defines cohabitation, the empty nest family and the commune." loading="lazy">
+  <figcaption>Name the form, then say who lives together and how it forms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-family-forms--03-extended-family-shapes.webp" width="900" height="688" alt="Four panels. A vertically extended family has three or more generations under one roof. A horizontally extended family includes kin of the same generation. A modified extended family lives in separate homes but keeps close contact. Brannen’s beanpole family has several generations with few members in each." loading="lazy">
+  <figcaption>Extended families can stretch up through the generations, sideways, or across separate homes.</figcaption>
+</figure>
+
 ## The Rapoports on family diversity
 
 Robert and Rhona Rapoport wrote "British families in transition" (1982). They argued that diversity, not one standard type, is the central feature of British family life. The specification lists their five aspects of diversity. Learn each with a UK example.
@@ -65,6 +80,11 @@ Robert and Rhona Rapoport wrote "British families in transition" (1982). They ar
 
 Two points earn credit in evaluation. First, the specification notes that their work "predates the emergence of gay and lesbian households as a more open and accepted feature of society", so their typology needs updating for single sex families. Second, the types overlap: a working-class Bangladeshi family with teenage children shows class, cultural and life course diversity at once. A good answer uses one type at a time but recognises that real families combine them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-family-forms--04-rapoports-diversity.webp" width="900" height="821" alt="Five types of diversity surround one family: organisational, cultural, class, life course and cohort. A working-class Bangladeshi family with teenage children is linked to three of them at once: class, cultural and life course. Below, the work predates the open acceptance of gay and lesbian households." loading="lazy">
+  <figcaption>Diversity is the central feature of British family life, and the types overlap.</figcaption>
+</figure>
+
 ## Family forms in a global context
 
 The specification also asks how family forms differ "within a global context". Use these ideas to show that the UK pattern is not universal.
@@ -77,6 +97,11 @@ The specification also asks how family forms differ "within a global context". U
 
 These examples are used in exams to challenge the claim, associated with Murdock, that the nuclear family is universal. They also show that family forms are **social constructs** shaped by law, religion and economics, not by biology alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-family-forms--05-global-forms.webp" width="900" height="855" alt="A tree: marriage divides into monogamy, the only legal form in the UK, with serial monogamy below it, and polygamy, which divides into polygyny (one husband, several wives) and polyandry (one wife, several husbands). Below, extended families, the kibbutz and matriarchal families, which challenge the idea that the nuclear family is universal." loading="lazy">
+  <figcaption>Global examples show the nuclear family is not universal but socially constructed.</figcaption>
+</figure>
+
 ## Perspectives on family diversity
 
 - **Functionalist:** the nuclear family fits industrial society best (Parsons). Other forms may struggle to perform functions such as primary socialisation, though many functionalists accept that diverse families can perform them.
@@ -84,6 +109,11 @@ These examples are used in exams to challenge the claim, associated with Murdock
 - **Marxist:** whatever its form, the family still acts as a unit of consumption and reproduces the labour force, so diversity changes little about whom the family serves.
 
 A useful counter-argument is Robert Chester's (1985) claim that most people still spend part of their lives in a nuclear family, which he called **neo-conventional** because both partners often work. Diversity may be greater in a snapshot of households than across people's lifetimes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-family-forms--06-snapshot-lifetime.webp" width="900" height="621" alt="Left: a snapshot of households shows many forms side by side. Right: one person’s lifetime moves from a nuclear family with young children, often neo-conventional with both partners working, to an empty nest family. Chester argued most people pass through a nuclear family at some point." loading="lazy">
+  <figcaption>The nuclear family may be one stage of life rather than a fixed type.</figcaption>
+</figure>
 
 ## Worked example: 4 marks
 

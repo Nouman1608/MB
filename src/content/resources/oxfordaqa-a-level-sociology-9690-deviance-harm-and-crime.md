@@ -64,6 +64,16 @@ new technologies create new offences. Durkheim added that some deviance is **nor
 functional**: reactions to it clarify the boundaries of acceptable behaviour, and deviance can be
 the first step towards social change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--01-crime-deviance.webp" width="900" height="759" alt="Two overlapping circles: deviance breaks social norms and crime breaks the criminal law. Rudeness is deviant but not criminal; minor speeding in many places is criminal but not seen as deviant." loading="lazy">
+  <figcaption>Not all deviance is crime, and not all crime is seen as deviant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--02-social-construction.webp" width="900" height="536" alt="Three arguments: Becker’s labelling and moral entrepreneurs; Cohen’s and Hall’s moral panics; and the Marxist view that law reflects ruling-class interests. Durkheim adds that deviance is normal and functional." loading="lazy">
+  <figcaption>Labels, panics and power all shape what counts as crime.</figcaption>
+</figure>
+
 ## Types of crime: what makes each sociologically interesting
 
 - **Violent and property crime** dominate police records and media coverage, shaping public images of
@@ -87,6 +97,16 @@ the first step towards social change.
   such as some drug use or gambling, where the victim is disputed.
 - **Cybercrime** uses digital technology: fraud, hacking, ransomware and online abuse. It crosses
   borders, so jurisdiction and recording are difficult.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--03-crime-types.webp" width="900" height="542" alt="Cards for violent and property, white-collar, corporate, state, green, “victimless” and cyber crime, each with what makes it sociologically interesting, and a reminder separating white-collar from corporate crime." loading="lazy">
+  <figcaption>Crimes of the powerful are less visible than violent and property crime.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--04-states-of-denial.webp" width="900" height="420" alt="Three types of denial from Cohen’s States of Denial: literal denial that it happened, interpretive denial that it was something else, and implicatory denial that accepts the facts but denies their moral implications." loading="lazy">
+  <figcaption>State crime is hidden by literal, interpretive and implicatory denial.</figcaption>
+</figure>
 
 ## Social harm
 
@@ -117,6 +137,16 @@ Interactionists such as Aaron Cicourel argued that statistics are **socially con
 decisions of police and courts; positivists use them as useful, if imperfect, indicators. The
 strongest answers compare sources rather than dismissing one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--05-crime-funnel.webp" width="900" height="677" alt="A funnel narrowing from an act taking place, through being noticed, recognised as a crime, reported and recorded, to arrest, charge and conviction. Crime drops out at each stage, creating the dark figure." loading="lazy">
+  <figcaption>Recorded crime is only the narrow end of the funnel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--06-crime-sources.webp" width="900" height="567" alt="Official statistics, victim surveys and self-report studies compared by what each is best used for and its main problem." loading="lazy">
+  <figcaption>Each source catches a different part of the dark figure.</figcaption>
+</figure>
+
 ## Explaining patterns of offending and victimisation
 
 | Pattern | Explanations to use |
@@ -125,6 +155,11 @@ strongest answers compare sources rather than dismissing one.
 | **Social class**: working-class people are over-represented in recorded crime and prisons | Marxists (Box) argue the crimes of the powerful are under-policed; left realists John Lea and Jock Young (1984) link street crime to **relative deprivation**, marginalisation and subcultures |
 | **Age**: recorded offending peaks in the late teens and early twenties; young people are also frequent victims | More time in public spaces, peer influence, fewer adult commitments; higher police attention to youth |
 | **Ethnicity**: some minority groups are over-represented in arrests and prisons in some societies; minorities may suffer hate crime | Debate between explanations stressing discriminatory policing and labelling (Hall and colleagues) and those stressing deprivation and marginalisation (left realists) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--07-patterns.webp" width="900" height="729" alt="A grid of offending and victimisation patterns by gender, social class, age and ethnicity, each with explanations such as Pollak’s chivalry thesis, Messerschmidt, Box, Lea and Young, and Hall." loading="lazy">
+  <figcaption>Every pattern needs an explanation, and every explanation has a rival.</figcaption>
+</figure>
 
 ## Worked example: annotated 20-mark plan
 
@@ -142,6 +177,11 @@ are not treated as crimes.*
 - **Application**: named society, for example a recent industrial disaster or air-pollution policy.
 - **Conclusion**: a judgement, for example that the criminal law captures visible individual harm
   but under-captures diffuse harm caused by powerful organisations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--08-essay-plan.webp" width="900" height="898" alt="A five-step plan for a 20-mark essay on social harm: definitions, arguments for (Box, Bhopal, state crime, zemiology), arguments against (left realists, measurement), application to a named society, and a judgement." loading="lazy">
+  <figcaption>Define, argue both sides, apply to a society, then judge.</figcaption>
+</figure>
 
 ## Common mistakes
 

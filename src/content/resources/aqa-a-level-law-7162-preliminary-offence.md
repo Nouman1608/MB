@@ -36,6 +36,11 @@ Section 1(1): "If, with intent to commit an offence to which this section applie
 - **Which offences?** Section 1(4) applies the Act to offences triable on indictment, which includes either-way offences such as theft, s47 and s20, but not purely summary offences. There is no offence of attempting assault or battery.
 - **An act** is required, so an attempt cannot normally be committed by omission.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-preliminary-offence--01-s1-anatomy.webp" width="900" height="714" alt="Section 1(1) broken into parts: intent to commit an offence (mens rea), to which the section applies (offences triable on indictment, so not assault or battery), an act (not normally an omission), more than merely preparatory (actus reus). The maximum sentence equals the full offence; attempted murder carries a maximum, not mandatory, life sentence. Attempts are punished for dangerous intention, early intervention and equal blameworthiness." loading="lazy">
+  <figcaption>Intent plus an act beyond preparation, for an indictable offence.</figcaption>
+</figure>
+
 ## Actus reus: "more than merely preparatory"
 
 The 1981 Act replaced older tests (such as the "last act" and "proximity" tests) with a single phrase, and its meaning has been worked out case by case. The leading statement is Lord Lane CJ's in *R v Gullefer* (1990): the attempt begins when the defendant **embarks on the crime proper**, which may be before the last act but must be beyond mere preparation.
@@ -54,6 +59,16 @@ The 1981 Act replaced older tests (such as the "last act" and "proximity" tests)
 
 **The *Geddes* question.** The Court of Appeal suggested asking whether the defendant had actually tried to commit the offence, and whether he had moved from planning or preparation to execution or implementation. It is a useful question to apply in an exam answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-preliminary-offence--02-preparation-line.webp" width="900" height="731" alt="Cases on either side of the line. Still preparing: Gullefer (greyhound track), Campbell (outside a post office) and Geddes (school toilets). Embarked on the crime proper: Tosti (examining a padlock), Boyle and Boyle (damaged door), Jones (pointing a shotgun) and A-G’s Reference (No 1 of 1992), showing the last act is not needed. The Geddes question and the judge and jury split under s4(3)." loading="lazy">
+  <figcaption>An attempt starts when the defendant moves from planning to execution, before the last act.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--04-cr-attempt-line.webp" width="900" height="1050" alt="A vertical track runs from preparation, through a dashed line marked more than merely preparatory, to attempt and then the completed offence. Lurking near a post office and being in school toilets with a knife and tape were only preparation. Examining a padlock on a barn door was an attempt. The mens rea is intention to commit the full offence, and impossibility is no defence." loading="lazy">
+  <figcaption>Where preparation becomes an attempt under s1(1) Criminal Attempts Act 1981.</figcaption>
+</figure>
+
 ## Mens rea: intention
 
 **Intention as to the consequence.** The defendant must intend to commit the full offence. Lord Justice James in *R v Mohan* (1976) described this as a decision to bring about the commission of the offence, so far as it lies within the defendant's power, whether or not he desired that consequence.
@@ -65,6 +80,11 @@ The 1981 Act replaced older tests (such as the "last act" and "proximity" tests)
 
 **Conditional intention.** A defendant who intends to steal only if there is something worth stealing should be charged with attempting to steal "some or all of the contents", since a charge naming particular items may fail where he never intended to take those items (*R v Easom*, 1971; *Attorney-General's References (Nos 1 and 2 of 1979)*, 1979).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-preliminary-offence--03-attempt-mens-rea.webp" width="900" height="414" alt="Attempt requires intention to commit the full offence (Mohan). Murder can be committed with intention to kill or to cause GBH, but attempted murder needs intention to kill (Whybrow). Oblique intention can apply (Walker and Hayles); recklessness as to circumstances may suffice (Khan; A-G’s Ref No 3 of 1992); conditional intention needs a charge of “some or all of the contents” (Easom)." loading="lazy">
+  <figcaption>Attempted murder has a narrower mens rea than murder itself.</figcaption>
+</figure>
+
 ## Impossibility
 
 Section 1(2) provides that a person may be guilty of attempt "even though the facts are such that the commission of the offence is impossible". Section 1(3) adds that the defendant is judged on the facts **as he believed them to be**.
@@ -75,6 +95,11 @@ Section 1(2) provides that a person may be guilty of attempt "even though the fa
 So it is no defence that the pocket was empty, the "drugs" were fake or the victim was already dead, as long as the defendant intended the offence and did an act more than merely preparatory to it on the facts as he believed them.
 
 **Withdrawal.** Once the attempt is complete, changing one's mind is not a defence, though it may reduce the sentence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-preliminary-offence--04-impossibility.webp" width="900" height="569" alt="Anderton v Ryan (1985) acquitted a woman who wrongly believed a video recorder was stolen; less than a year later Shivpuri (1987) overruled it using the Practice Statement, convicting a man who believed harmless vegetable matter was drugs. Under s1(2) and s1(3) it is no defence that the pocket was empty, the drugs fake or the victim already dead. Withdrawal after the attempt is no defence." loading="lazy">
+  <figcaption>Judge the defendant on the facts as he believed them; impossibility is no defence.</figcaption>
+</figure>
 
 ## Evaluation
 
@@ -102,6 +127,11 @@ MR:        Intention to steal (Mohan) - shown by his plan.
 s4(3):     Judge decides there is evidence; jury decides.
 Conclusion: Likely guilty of attempted theft.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-preliminary-offence--05-quinn-worked-example.webp" width="900" height="698" alt="A timeline of Quinn’s acts: buying gloves and watching the house for a week are mere preparation (compare Geddes); holding a crowbar against the door frame is embarking on the crime proper (Gullefer; compare Tosti and Boyle and Boyle). He intended to steal (Mohan); under s4(3) the judge and jury divide the question. He is likely guilty of attempted theft." loading="lazy">
+  <figcaption>Place each act on the preparation line, then check intention.</figcaption>
+</figure>
 
 ## Common mistakes
 

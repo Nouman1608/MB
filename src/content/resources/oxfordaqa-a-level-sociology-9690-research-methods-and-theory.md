@@ -51,6 +51,11 @@ we know about it?**
 - **Realists and mixed-methods researchers** argue that both structures and meanings matter, which
   justifies **triangulation**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods-and-theory--01-theory-method.webp" width="900" height="545" alt="Positivism sees society as measurable social facts and favours quantitative methods, as in Durkheim’s use of suicide statistics; interpretivism sees society as meanings and favours qualitative methods, as in Atkinson’s study of coroners. Realists justify triangulation." loading="lazy">
+  <figcaption>A view of what society is leads to a view of how to study it.</figcaption>
+</figure>
+
 ## Values and value freedom
 
 Can sociology be objective? Three positions are worth comparing.
@@ -64,6 +69,11 @@ Can sociology be objective? Three positions are worth comparing.
 Feminists add that supposedly neutral research often reflected male assumptions. Ann Oakley's
 essay on interviewing women (1981) argued that a detached, hierarchical interview is neither
 possible nor ethical in research with women, favouring a more equal, reciprocal relationship.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods-and-theory--02-value-freedom.webp" width="900" height="557" alt="A spectrum from value-free science (Comte, Durkheim) through Weber’s value relevance with objective method to value commitment (Gouldner, Becker), with Oakley’s feminist critique of detached interviewing." loading="lazy">
+  <figcaption>Weber’s middle position separates choosing a topic from conducting the research.</figcaption>
+</figure>
 
 ## Public sociology and activism
 
@@ -81,6 +91,11 @@ activism may bias research, damage credibility with policymakers and blur the li
 and advocacy. A balanced answer notes that Weber's distinction between choosing topics by values and
 conducting research objectively offers a middle path.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods-and-theory--03-burawoy.webp" width="900" height="598" alt="Burawoy’s four types of sociology: professional, policy, critical and public, with arguments for and against sociologists acting as activists and Weber’s middle path." loading="lazy">
+  <figcaption>Public sociology takes research beyond the university to civil society.</figcaption>
+</figure>
+
 ## Structure and agency
 
 **Structural** theories (functionalism, Marxism, many feminisms) explain behaviour through social
@@ -90,6 +105,11 @@ theory** (*The Constitution of Society*, 1984) argues for a **duality of structu
 constrain action and are reproduced or changed by it, as language rules constrain speech yet exist
 only because people keep speaking. The debate maps onto method choice: structural theories lean
 towards large-scale quantitative data, action theories towards small-scale qualitative studies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods-and-theory--04-structure-agency.webp" width="900" height="622" alt="Structural theories stress constraint and favour quantitative data; social action theories stress agency and favour qualitative studies. Giddens’s structuration: structures constrain action, and action reproduces or changes structures, as language rules exist only because people keep speaking." loading="lazy">
+  <figcaption>Structures constrain action, and action keeps structures alive.</figcaption>
+</figure>
 
 ## The main theories in brief
 
@@ -106,6 +126,11 @@ consumer-based, media-saturated); *postmodernism* refers to theories that reject
 Critics such as Giddens and Ulrich Beck accept major change but describe it as **late** or
 **reflexive modernity** rather than a break with modernity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods-and-theory--05-theories.webp" width="900" height="1065" alt="A grid of functionalism, Marxism, feminisms, symbolic interactionism and postmodernism, each with its core claim, later developments and typical methods." loading="lazy">
+  <figcaption>Each theory comes with its own preferred methods.</figcaption>
+</figure>
+
 ## Writing the 20-mark extended response
 
 A strong structure for a question such as *"Evaluate the view that sociology can and should be
@@ -120,6 +145,11 @@ value free"*:
 5. **Evaluate** throughout, not only at the end, using "however" and "this suggests".
 6. **Conclude** with a judgement that follows from the argument (for example, that full value
    freedom is impossible, but transparent methods and Weber's distinction protect objectivity).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods-and-theory--06-twenty-mark.webp" width="900" height="996" alt="Six steps for a 20-mark answer on value freedom: define, present the view, develop alternatives, apply to research examples, evaluate throughout and conclude with a judgement." loading="lazy">
+  <figcaption>Evaluate throughout, then let the conclusion follow from the argument.</figcaption>
+</figure>
 
 ## Worked example: annotated paragraph
 

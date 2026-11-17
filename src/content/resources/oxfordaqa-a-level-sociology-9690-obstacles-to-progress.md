@@ -32,6 +32,11 @@ The [Unit 3 People and development study guide](/resources/oxfordaqa-a-level-soc
 
 Every answer depends on what counts as progress. Modernisation theory equates it with economic growth and Western-style institutions. Amartya Sen (*Development as Freedom*, 1999) defined development as expanding people's real freedoms or **capabilities**: to be healthy, educated, safe and able to take part in decisions. On Sen's view, an obstacle is anything that limits capabilities, even in a country whose income is rising. State which definition you are using; it shapes which obstacles look most important.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-obstacles-to-progress--01-progress.webp" width="900" height="453" alt="Modernisation theory equates progress with economic growth and Western institutions; Sen defines development as expanding capabilities such as health, education, safety and participation." loading="lazy">
+  <figcaption>The definition of progress decides which obstacles matter most.</figcaption>
+</figure>
+
 ## Modernisation theory: values and practices
 
 Modernisation theorists drew on Talcott Parsons's **pattern variables**, which contrast traditional and modern orientations:
@@ -52,6 +57,11 @@ Applied to development, obstacles include hiring relatives rather than the best 
 - **Tradition can support growth**: family networks have financed many businesses, and East Asian economies combined rapid growth with strong family and group loyalties.
 - **Some support**: corruption and patronage (forms of particularism) are widely recognised as barriers, including by governments of less developed countries themselves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-obstacles-to-progress--02-pattern-variables.webp" width="900" height="697" alt="A table of Parsons’s five pattern variables: ascription versus achievement, particularism versus universalism, collectivity versus self-orientation, affectivity versus affective neutrality, and diffuseness versus specificity, with evaluation of modernisation theory." loading="lazy">
+  <figcaption>Modernisation theory treats traditional orientations as obstacles; critics call this ethnocentric.</figcaption>
+</figure>
+
 ## Marxist views: globalisation and capitalism
 
 Marxists place the obstacle in the structure of the world capitalist economy, not in local culture.
@@ -65,6 +75,11 @@ Marxists place the obstacle in the structure of the world capitalist economy, no
 
 **Evaluation.** The growth of China, South Korea and other East Asian economies shows that peripheral status is not permanent; neo-liberals argue those countries succeeded by joining global markets. Marxists reply that they did so with strong state direction, not free markets alone. Critics also say Marxist views underplay internal factors such as corruption, which modernisation theorists stress.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-obstacles-to-progress--03-marxist-obstacles.webp" width="900" height="627" alt="Four Marxist mechanisms keeping poorer countries poor: commodity dependence, debt, rich states kicking away the ladder, and accumulation by dispossession, with Bello’s deglobalisation and evaluation." loading="lazy">
+  <figcaption>For Marxists, poverty is produced by how poorer countries are tied into world capitalism.</figcaption>
+</figure>
+
 ## Feminist views: globalisation and patriarchy
 
 - **Ester Boserup** (*Woman's Role in Economic Development*, 1970) showed that women did much of the farming in many regions, yet development projects gave training, land titles and new technology mainly to men, so modernisation could lower women's status.
@@ -73,6 +88,11 @@ Marxists place the obstacle in the structure of the world capitalist economy, no
 - **Globalised labour**: Mies, Elson and Pearson, and Hochschild (in the Unit 3 overview) show global production and care chains relying on women's undervalued work.
 
 **Evaluation.** Liberal feminists point to large rises in girls' school enrolment and women's paid employment as evidence that globalisation can erode patriarchy. Radical and Marxist feminists reply that paid work is often added to unpaid domestic work, producing a "double burden".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-obstacles-to-progress--04-wid-gad.webp" width="900" height="536" alt="Women in Development sought to add women to existing projects; Gender and Development argued power relations must change. Notes cover Boserup, Sen’s missing women and the debate over a double burden." loading="lazy">
+  <figcaption>Adding women to projects is not the same as changing gender power.</figcaption>
+</figure>
 
 ## Why inequalities in health and education persist
 
@@ -91,6 +111,11 @@ Inequalities persist between and within countries. Useful mechanisms:
 
 The point for evaluation is that these gaps are partly **produced** by global processes (debt, migration, markets) and partly by **national** choices (spending priorities, gender norms), which is where the three perspectives can be weighed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-obstacles-to-progress--05-health-education.webp" width="900" height="672" alt="A grid of reasons health and education inequalities persist: the inverse care law, user fees, health-worker migration, neglected diseases and living conditions; and barriers to school access, Pritchett’s gap between schooling and learning, and within-country gaps." loading="lazy">
+  <figcaption>Inequalities come from both global processes and national choices.</figcaption>
+</figure>
+
 ## Globalisation, the climate crisis and sustainable development
 
 - **Responsibility**: the UN Framework Convention on Climate Change (1992) adopted the principle of "common but differentiated responsibilities": all states must act, but those that industrialised first bear more responsibility.
@@ -98,6 +123,11 @@ The point for evaluation is that these gaps are partly **produced** by global pr
 - **Sustainable development** (Brundtland, 1987) assumes growth and environmental protection can be reconciled. Kate Raworth (*Doughnut Economics*, 2017) argued that development must meet a social foundation of human needs without exceeding an ecological ceiling. Degrowth writers such as Jason Hickel (*Less Is More*, 2020) argue that rich countries must reduce material consumption so that poorer ones can develop.
 
 This tension is an obstacle in itself: the model of progress that made rich countries rich is the model that drives climate change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-obstacles-to-progress--06-doughnut.webp" width="900" height="957" alt="Raworth’s doughnut: development must meet a social foundation of human needs without exceeding an ecological ceiling, leaving a safe and just space between. Cards cover common but differentiated responsibilities, offshoring and degrowth." loading="lazy">
+  <figcaption>Progress must lift everyone above the social foundation without breaking the ecological ceiling.</figcaption>
+</figure>
 
 ## Effects of wars and conflicts
 
@@ -107,6 +137,11 @@ This tension is an obstacle in itself: the model of progress that made rich coun
 - **Resource curse**: diamonds funded armed groups in Sierra Leone's civil war (1991 to 2002); the Kimberley Process certification scheme (2003) was created to stop "conflict diamonds" entering the market.
 
 **Evaluation.** Marxists add that global demand for minerals and arms sales by richer countries feed conflicts, so war is not only a local failure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-obstacles-to-progress--07-conflict.webp" width="900" height="626" alt="Direct effects of war such as deaths and destroyed infrastructure, and indirect effects such as displacement and lost schooling. A chain shows lootable resources creating profit opportunities that fuel civil war, as in Sierra Leone, with the Kimberley Process and a Marxist critique." loading="lazy">
+  <figcaption>War destroys development directly and is fed by resources and global demand.</figcaption>
+</figure>
 
 ## Annotated model answer
 

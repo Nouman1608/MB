@@ -29,6 +29,11 @@ A **wholesaler** buys goods in large quantities from manufacturers and sells the
 
 The traditional chain of distribution is **manufacturer, then wholesaler, then retailer, then consumer**. The wholesaler is a home trade intermediary (1.2.4). Its customers are mostly retailers, but also hotels, restaurants, schools and other businesses that buy for their own use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-wholesaling--01-chain-of-distribution.webp" width="900" height="570" alt="The traditional chain of distribution runs manufacturer, wholesaler, retailer, consumer. The wholesaler buys lorry loads and sells cases or cartons, mostly to retailers but also to hotels, restaurants, schools and other businesses." loading="lazy">
+  <figcaption>The wholesaler is the link between manufacturers and retailers in home trade.</figcaption>
+</figure>
+
 ## What functions and services does a wholesaler provide?
 
 | Function | What the wholesaler does |
@@ -42,6 +47,11 @@ The traditional chain of distribution is **manufacturer, then wholesaler, then r
 | Advice and information | Tells manufacturers which products sell well and passes news of new products to retailers |
 | Packing and labelling | Some wholesalers grade, pack or label goods before selling them on |
 | Price stability | By storing goods when supply is high and releasing them when it is low, it evens out price swings |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-wholesaling--02-wholesaler-functions.webp" width="900" height="570" alt="Nine tiles: breaking bulk, storage, bearing risk, assortment, transport and delivery, credit, advice and information, packing and labelling, and price stability, each with a one-line description." loading="lazy">
+  <figcaption>Breaking bulk is the core function; the other eight add services for both sides.</figcaption>
+</figure>
 
 ## Why is the wholesaler important to the manufacturer?
 
@@ -59,6 +69,11 @@ The traditional chain of distribution is **manufacturer, then wholesaler, then r
 - **Credit.** Paying later helps the retailer's cash flow.
 - **Delivery and advice.** Goods come to the door, with information about new and popular lines.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-wholesaling--03-benefits-both-sides.webp" width="900" height="640" alt="The wholesaler in the centre helps two sides. The manufacturer gets fewer, larger orders, saved storage, continuous production, transferred risk and market information. The retailer gets small quantities, wide choice, less storage, credit, and delivery with advice." loading="lazy">
+  <figcaption>The same wholesaler gives different benefits to the manufacturer and the retailer.</figcaption>
+</figure>
+
 ## Why do some businesses bypass the wholesaler?
 
 The survival question makes more sense once you see the pressure on wholesalers:
@@ -69,6 +84,11 @@ The survival question makes more sense once you see the pressure on wholesalers:
 - **Perishable or made-to-order goods**, such as fresh bread or custom furniture, are often sold direct to keep them fresh or meet exact needs.
 
 Removing the wholesaler does not remove its functions: someone still has to break bulk, store and deliver. The large retailer or manufacturer simply takes on those costs itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-wholesaling--04-bypassing-wholesaler.webp" width="900" height="665" alt="Four ways the wholesaler is bypassed: large retailers buying direct, manufacturers selling direct, ecommerce, and perishable or made-to-order goods. Below, breaking bulk, storing and delivering still have to be done by someone." loading="lazy">
+  <figcaption>Cutting out the wholesaler moves its functions and costs to someone else.</figcaption>
+</figure>
 
 ## Why does the independent wholesaler survive? (2.4.1)
 
@@ -92,6 +112,11 @@ A **voluntary chain** is formed when a wholesaler and a group of independent ret
 - The retailers gain **lower prices**, **own-brand goods** under the group name, **joint advertising**, shop-fitting advice and a recognisable shopfront, helping them compete with chain stores.
 - The drawbacks for retailers: they must buy a share of stock from the group, follow its rules on layout and promotions, and may pay a membership fee, so they lose some independence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--06-wholesaler-survival.webp" width="900" height="1040" alt="Top panel: a retailer with a trolley collects goods from a cash and carry warehouse and pays immediately. There is no credit and no delivery, so prices are lower. Bottom panel: a wholesaler supplies four independently owned shops that buy most of their stock from it and share a brand name and joint promotions, giving lower prices." loading="lazy">
+  <figcaption>Cash and carry and voluntary chains are the two ways independent wholesalers survive.</figcaption>
+</figure>
+
 ## Worked example: delivered wholesale or cash and carry? (invented figures)
 
 *A café owner needs 40 cases of soft drinks. Her usual wholesaler delivers at $18.00 a case and gives 30 days' credit. A cash and carry charges $16.50 a case, but she must collect, costing $35 in fuel and time.*
@@ -101,6 +126,11 @@ A **voluntary chain** is formed when a wholesaler and a group of independent ret
 - Saving from cash and carry = 720 - 695 = **$25**.
 
 The judgement: the cash and carry is $25 cheaper, but she pays a month earlier. If her cash is short, the delivered wholesaler's credit may be worth more than the saving.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-wholesaling--05-cafe-cash-and-carry.webp" width="900" height="575" alt="Two options for 40 cases. Delivered: 40 × $18.00 = $720, paid in 30 days. Cash and carry: 40 × $16.50 = $660 plus $35 to collect = $695, paid today. Cash and carry saves $25 but loses the credit." loading="lazy">
+  <figcaption>Cash and carry is $25 cheaper, but the delivered wholesaler gives a month to pay (invented figures).</figcaption>
+</figure>
 
 ## Annotated model answer
 

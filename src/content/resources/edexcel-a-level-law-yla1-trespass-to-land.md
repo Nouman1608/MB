@@ -34,6 +34,11 @@ Trespass to land is an **unjustifiable, direct and intentional interference with
 
 "Land" includes the surface, buildings on it, the ground beneath and the airspace above, to the extent needed for ordinary use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-individual--05-trespass-to-land.webp" width="900" height="637" alt="A neighbour's sign overhangs the claimant's land at a low height, marked as trespass (Kelsen v Imperial Tobacco), while an aircraft flies high above, marked as not trespass (Bernstein v Skyviews). Cards note that trespass is actionable without proof of damage, that a continuing trespass gives a fresh cause of action each day, and the defences of permission and lawful authority." loading="lazy">
+  <figcaption>Trespass needs no damage and reaches the airspace needed for ordinary use, but not high-flying aircraft.</figcaption>
+</figure>
+
 ## Unlawful entry
 
 The commonest trespass is **going onto** the land without permission. But "entry" covers more than walking on:
@@ -49,6 +54,16 @@ The commonest trespass is **going onto** the land without permission. But "entry
 
 **The highway.** The public may use a highway to pass and repass and for other reasonable purposes. Using it for something else can be trespass against the owner of the land beneath: in *Harrison v Duke of Rutland* [1893] a man who used a highway to disrupt grouse shooting was a trespasser, as was a man who watched racehorse trials from the road in *Hickman v Maisey* [1900]. In *DPP v Jones* [1999] the House of Lords accepted that peaceful, non-obstructive assembly can be a reasonable use of the highway.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-trespass-to-land--01-forms-of-entry.webp" width="900" height="834" alt="A cross-section of land at a boundary. Trespass by entry includes crane jibs swinging over (Anchor Brewhouse), signs or fans overhanging (Kelsen; Laiqat v Majid), a ladder or object placed against a wall (Westripp v Baldock) and oil wells drilled far below (Bocardo v Star Energy). An aircraft at a reasonable height is not a trespass (Bernstein v Skyviews)." loading="lazy">
+  <figcaption>Entry covers the surface, the airspace needed for ordinary use and the ground beneath.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-trespass-to-land--02-visitor-to-trespasser.webp" width="900" height="598" alt="A visitor who exceeds permission becomes a trespasser (The Calgarth: invited to use the staircase, not to slide down the banisters). Once told to leave, a visitor has a reasonable time to go, after which staying is trespass (Robson v Hallett). On a highway, uses beyond passing and other reasonable purposes can be trespass (Harrison v Duke of Rutland; Hickman v Maisey), but peaceful assembly can be reasonable (DPP v Jones)." loading="lazy">
+  <figcaption>Permission has limits: exceed it, outstay it or misuse the highway, and the visitor is a trespasser.</figcaption>
+</figure>
+
 ## Intentional and direct interference
 
 **Intentional.** The defendant must intend to **enter** the land, not to trespass. A mistake about the boundary or about who owns the land is no defence: in *Basely v Clarkson* (1681) a man who mowed grass beyond his boundary, believing it to be his own, was liable. But an entry that is **involuntary** is not a trespass: in *Smith v Stone* (1647) a man carried onto land by others was not liable; the people who carried him were.
@@ -57,9 +72,19 @@ The commonest trespass is **going onto** the land without permission. But "entry
 
 **Direct.** The interference must be a **direct** physical act. Indirect interference, such as tree roots spreading, smells, noise or water seeping across, is dealt with by the tort of **nuisance**, which requires proof of damage. This line between direct (trespass) and indirect (nuisance) is often the first issue in a scenario.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-trespass-to-land--03-intentional-and-direct.webp" width="900" height="612" alt="Trespass needs an intentional entry: an involuntary entry is not trespass (Smith v Stone), but a mistake about the boundary is no defence (Basely v Clarkson), and a hunt master can be liable for hounds (League Against Cruel Sports v Scott). The interference must also be direct; indirect interference such as roots, smells, noise or seeping water is nuisance, which needs proof of damage." loading="lazy">
+  <figcaption>Intend the entry and act directly: trespass. Indirect interference: nuisance.</figcaption>
+</figure>
+
 ## Continuing trespass
 
 A trespass that persists, such as an object left on the land or a structure built on it, is a **continuing trespass**. It gives rise to a **fresh cause of action every day** it continues. In *Holmes v Wilson* (1839) buttresses built on the claimant's land to support a road were a continuing trespass; paying damages once did not stop a later action while they remained. Continuing trespass matters for **time limits** (each day starts a new claim) and for **remedies** (an injunction to remove the object).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-trespass-to-land--04-continuing-trespass.webp" width="900" height="539" alt="An object or structure left on another’s land is a continuing trespass, giving a fresh cause of action every day it remains (Holmes v Wilson, where buttresses supporting a road stayed on the claimant’s land). This matters for time limits, since each day starts a new claim, and for remedies, such as an injunction to remove the object." loading="lazy">
+  <figcaption>While the object stays, the trespass renews every day.</figcaption>
+</figure>
 
 ## Defences
 
@@ -70,6 +95,11 @@ A trespass that persists, such as an object left on the land or a structure buil
 | **Statutory access** | Statutes giving rights to enter | Access to Neighbouring Land Act 1992 for necessary repairs |
 | **Necessity** | Entry to prevent a serious, imminent danger | Police firing a canister into a shop to flush out a gunman were not trespassers, though liable in negligence for the fire (*Rigby v Chief Constable of Northamptonshire* [1985]) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-trespass-to-land--05-trespass-defences.webp" width="900" height="510" alt="Four defences: licence, express or implied, lost if exceeded or revoked; lawful authority such as police powers under PACE 1984 (without it, even officials trespass: Entick v Carrington); statutory access such as the Access to Neighbouring Land Act 1992; and necessity to prevent serious, imminent danger (Rigby v Chief Constable of Northamptonshire)." loading="lazy">
+  <figcaption>Permission, legal authority, a statutory right or genuine necessity justifies entry.</figcaption>
+</figure>
+
 ## Remedies
 
 - **Damages.** Because trespass is actionable per se, **nominal** damages are available where there is no loss. Where there is loss, damages compensate for harm to the land or for the value of the use made of it. In *Bocardo* the claimant recovered only a modest sum, because the drilling had caused no harm.
@@ -77,6 +107,11 @@ A trespass that persists, such as an object left on the land or a structure buil
 - **Self-help.** An occupier may ask a trespasser to leave and, if they refuse, use **reasonable force** to remove them. Force must be no more than necessary: in *Collins v Renison* (1754) throwing a man off a ladder was excessive.
 - **Re-entry and possession orders.** A person dispossessed may re-enter peacefully or seek a court order for possession.
 - **Criminal law.** Trespass is usually a civil wrong, but some forms are crimes, such as aggravated trespass under the Criminal Justice and Public Order Act 1994 and squatting in a residential building under the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-trespass-to-land--06-trespass-remedies.webp" width="900" height="525" alt="Damages are nominal where there is no loss, or compensate for harm or use (Bocardo recovered a modest sum). A prohibitory injunction stops future trespass (Anchor Brewhouse) and a mandatory one orders removal (Kelsen), with damages in lieu if an injunction would be oppressive (Jaggard v Sawyer). Occupiers may use reasonable force after asking (Collins v Renison), re-enter peacefully or seek possession; some trespasses are crimes." loading="lazy">
+  <figcaption>Damages even without loss, injunctions to stop or remove, and limited self-help.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -98,6 +133,11 @@ Remedies     injunction to remove scaffolding and stop crane oversailing;
 Defence?     Femi could apply under the Access to Neighbouring Land
              Act 1992 if access is genuinely needed for works
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-trespass-to-land--07-femi-and-gita.webp" width="900" height="744" alt="The scaffolding against Gita’s wall is an entry and a continuing trespass (Westripp; Holmes v Wilson); the crane over her garden trespasses in her airspace (Anchor Brewhouse); the builder becomes a trespasser after being told to leave and given a reasonable time (Robson v Hallett). No damage is needed. Gita can seek injunctions, damages and use reasonable force; Femi might apply under the Access to Neighbouring Land Act 1992." loading="lazy">
+  <figcaption>Possession, entry, intention and directness, continuing or not, defences, then remedies.</figcaption>
+</figure>
 
 ## Common mistakes
 

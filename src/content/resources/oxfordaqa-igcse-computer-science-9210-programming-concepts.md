@@ -46,6 +46,11 @@ The specification's additional information names three **combining principles** 
 built on: **sequence** (statements run one after another), **iteration/repetition** and **selection/choice**.
 Every program you write or read in the exam is these statement types combined using those three principles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--01-three-combining-principles.webp" width="900" height="649" alt="Three small flowcharts: sequence runs statements one after another; selection tests a condition and runs block A if True or block B if False; iteration repeats a loop body while the answer to &quot;repeat?&quot; is yes. Below, the six statement types are grouped: declaration, constant and assignment store values; selection and iteration control flow; a subroutine call reuses named code." loading="lazy">
+  <figcaption>Every program combines the six statement types using sequence, selection and iteration.</figcaption>
+</figure>
+
 ## Declaration and assignment are different
 
 **Declaring** a variable gives it a name, and in languages such as C# and Visual Basic also a data type, before it
@@ -55,6 +60,11 @@ the two ideas are still separate: the name exists, and then a value is stored un
 Assignment always works **right to left**. In `total ← total + price`, the computer first works out
 `total + price` using the current value of `total`, then stores the answer back in `total`. That is why
 `count ← count + 1` makes sense in a program even though it is impossible in algebra.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--02-assignment-right-to-left.webp" width="900" height="597" alt="In total ← total + price, the right-hand side total + price is worked out first using the current value of total, and the answer is then stored back in total on the left. Declaration gives a variable its name (and in C# or Visual Basic a type); assignment stores a value in it." loading="lazy">
+  <figcaption>Work out the right-hand side first, then store the answer on the left.</figcaption>
+</figure>
 
 ## Why named constants and variables are used
 
@@ -68,6 +78,11 @@ rounds in a game or the maximum length of a username. Their benefits are specifi
   every `0.2` in the code, and cannot miss one.
 - **Readability.** `price * VatRate` explains itself; `price * 0.2` does not say what 0.2 is.
 - **Safety.** The value cannot be changed accidentally by a later assignment while the program runs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--03-named-constants.webp" width="900" height="698" alt="Left: the literal 0.2 appears in several calculations, so its meaning is unclear and every copy must be changed. Right: CONSTANT VatRate ← 0.2 is declared once and used as price * VatRate and in other calculations. Benefits: one change updates every use, the code explains itself, and the value cannot be changed accidentally while the program runs." loading="lazy">
+  <figcaption>A named constant is declared once, explains itself and cannot change while the program runs.</figcaption>
+</figure>
 
 ## Definite and indefinite iteration
 
@@ -109,6 +124,16 @@ forms (Python, for example, has no built-in condition-at-the-end loop).
 might not need to run at all (keep reading while there is data); use `REPEAT...UNTIL` when the body must run
 once before you can test (ask a question, then check the answer).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--04-while-versus-repeat.webp" width="900" height="754" alt="Both programs start with n ← 10. The WHILE loop tests n &lt; 5 first, which is False, so the body never runs and 10 is output. The REPEAT loop runs the body once, making n 11, then tests n ≥ 5, which is True, so it stops and outputs 11." loading="lazy">
+  <figcaption>A condition at the start allows zero runs; a condition at the end guarantees at least one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--05-choosing-a-loop.webp" width="900" height="520" alt="FOR is definite iteration, for when the count is known, such as processing 30 students. WHILE is indefinite with the test at the start, for when the loop might not need to run, such as reading while there is data. REPEAT … UNTIL tests at the end, for when the body must run once first, such as asking a question then checking the answer." loading="lazy">
+  <figcaption>Known count: FOR. Might not run: WHILE. Must run once: REPEAT … UNTIL.</figcaption>
+</figure>
+
 ## Nested selection and nested iteration
 
 **Nesting** means placing one structure inside another. The specification's examples are a `FOR` loop inside a
@@ -141,6 +166,11 @@ the outer loop, the outputs would be `*`, `***` and `******`, a common error to 
 Changing the constant `MaxRows` to 5 would draw five rows without touching any other line, which is the constant
 earning its place.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--06-nested-loop-trace.webp" width="900" height="658" alt="Nested FOR loops with MaxRows set to 3. For row 1 the inner loop runs once, for row 2 twice and for row 3 three times, 6 times in all, outputting *, ** and ***. If line ← &quot;&quot; were moved above the outer loop, the line would never reset and the outputs would be *, *** and ******." loading="lazy">
+  <figcaption>The inner loop finishes completely for each pass of the outer loop; reset the line inside the outer loop.</figcaption>
+</figure>
+
 ## Worked example: nested selection
 
 ```
@@ -157,6 +187,11 @@ ENDIF
 
 For `age ← 20, hasTicket ← False` the output is `Buy a ticket`. For `age ← 15, hasTicket ← True` it is
 `Too young`: the inner `IF` is never reached, so the ticket does not matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--07-nested-selection.webp" width="900" height="687" alt="A decision flow: if age ≥ 18 is False, the output is &quot;Too young&quot;; if True, the inner test hasTicket decides between &quot;Enter&quot; and &quot;Buy a ticket&quot;. With age 20 and no ticket the output is &quot;Buy a ticket&quot;; with age 15 and a ticket it is &quot;Too young&quot;, because the inner IF is never reached." loading="lazy">
+  <figcaption>The inner condition is only tested when the outer condition is True.</figcaption>
+</figure>
 
 ## Meaningful identifier names
 

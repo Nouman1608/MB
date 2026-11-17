@@ -56,6 +56,16 @@ Townsend (*Poverty in the United Kingdom*, 1979) argued that how you define pove
 
 **How to use Townsend.** He is your best evidence that poverty is about exclusion from normal life, and that it is shaped by **material deprivation**, a lack of resources, rather than values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-poverty-as-a-social-issue--01-four-definitions.webp" width="900" height="535" alt="Four cards. Absolute poverty is lacking basic necessities for survival. Relative poverty is falling well below the usual standard of living in a society. Subjective poverty is whether people see themselves as poor. Environmental poverty is living in a poor local environment." loading="lazy">
+  <figcaption>How poverty is defined decides how much of it is found.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-poverty-as-a-social-issue--02-townsend.webp" width="900" height="741" alt="Three measures for 1968–69: the state standard found just over 6% in poverty, the relative income standard a little over 9%, and Townsend’s relative deprivation measure more than 22%. Below, his questionnaire method and deprivation index, and the criticism that missing items may reflect choice." loading="lazy">
+  <figcaption>The same society showed 6%, 9% or 22% in poverty depending on the measure.</figcaption>
+</figure>
+
 ## Interpretation 1: the culture of poverty
 
 The **culture of poverty** explanation, associated with the anthropologist Oscar Lewis, says that poor people develop a distinct set of values in response to their situation, such as fatalism (a belief that nothing can change), living for the present and a sense of not belonging to wider society. These values are passed from parents to children through socialisation, so poverty continues across generations. This is a version of the **cycle of deprivation**.
@@ -70,6 +80,16 @@ The **culture of poverty** explanation, associated with the anthropologist Oscar
 - Many of those labelled "underclass" hold conventional attitudes and want stable relationships and paid work.
 - Viewed sympathetically, they are victims of inequality rather than its cause.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-poverty-as-a-social-issue--03-cycle-of-deprivation.webp" width="900" height="695" alt="A cycle: adults living in poverty develop distinct values such as fatalism and living for the present; these are passed to children through socialisation; the next generation stays in poverty, and the cycle repeats." loading="lazy">
+  <figcaption>On this view, values passed between generations keep families poor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-poverty-as-a-social-issue--04-murray-underclass.webp" width="900" height="925" alt="Four steps: higher benefits encourage dependence; self-sufficiency is discouraged and single parents and young people lose interest in jobs; an underclass with an alternative value system grows; it is seen as a burden on taxpayers and a cause of crime. Below, criticisms of Murray’s evidence and his neglect of economic causes." loading="lazy">
+  <figcaption>Murray blames welfare for creating an underclass; critics blame missing economic causes.</figcaption>
+</figure>
+
 ## Interpretation 2: material deprivation
 
 The **material deprivation** explanation says poverty is caused by a lack of money and resources, not by values. Causes include:
@@ -82,6 +102,11 @@ The **material deprivation** explanation says poverty is caused by a lack of mon
 
 On this view, any "culture" among the poor is a sensible response to lack of opportunity. Give people decent jobs and incomes, and the values change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-poverty-as-a-social-issue--05-culture-vs-material.webp" width="900" height="610" alt="Two panels. The culture of poverty blames values such as fatalism and, for Murray and the New Right, welfare dependency. Material deprivation blames low pay, unemployment, low benefits, high housing costs and the costs of disability or caring, and sees any culture as a response to lack of opportunity." loading="lazy">
+  <figcaption>Is poverty caused by the values of the poor, or by a lack of money and jobs?</figcaption>
+</figure>
+
 ## How governments have tried to alleviate poverty and unemployment
 
 - **The welfare state.** The Beveridge Report (1942) identified "five giants" to be tackled: Want, Disease, Ignorance, Squalor and Idleness. The post-war welfare state introduced national insurance and, in 1948, the National Health Service.
@@ -93,6 +118,11 @@ On this view, any "culture" among the poor is a sensible response to lack of opp
 
 **Evaluation.** Supporters say these measures stopped absolute poverty for most people. Critics from a material deprivation view argue benefits and low wages still leave many in relative poverty. New Right critics argue welfare creates dependency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-poverty-as-a-social-issue--06-government-action.webp" width="900" height="779" alt="A timeline: the 1942 Beveridge Report named five giants, the welfare state and NHS followed in 1948, the national minimum wage came in 1999 and Universal Credit from 2013. Below, universal benefits avoid stigma while means-tested selective benefits cost less but can create a poverty trap, followed by three evaluations." loading="lazy">
+  <figcaption>Policies have reduced poverty, but each side of the debate criticises them differently.</figcaption>
+</figure>
+
 ## The impact of globalisation
 
 **Globalisation** is the growing interconnection of economies and cultures across the world.
@@ -101,6 +131,11 @@ On this view, any "culture" among the poor is a sensible response to lack of opp
 - **Positive impacts:** cheaper goods lower the cost of living; new jobs in services and technology; more trade and investment.
 
 Globalisation supports a structural explanation: people in former industrial towns did not lose their work ethic; their jobs left.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-poverty-as-a-social-issue--07-globalisation.webp" width="900" height="759" alt="One town where generations have not worked is read two ways: Murray blames benefits and values; a structural reading blames the closure of the main employer when production moved abroad. Below, negative and positive impacts of globalisation." loading="lazy">
+  <figcaption>Globalisation supports a structural explanation: the jobs left, not the work ethic.</figcaption>
+</figure>
 
 ## Perspectives on poverty
 

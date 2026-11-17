@@ -56,6 +56,11 @@ Two letters cause most of the trouble. **W** is the symbol for *work done* in `W
 the *watt*. **m** is the symbol for *mass* and the unit symbol for the *metre*. Read each one from its position: in an
 equation it stands for a quantity; after a number it is a unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-energy-resources--01-quantities-and-units.webp" width="900" height="810" alt="A table pairing each quantity with its unit: mass in kilograms (kg), energy and work done in joules (J), distance and height in metres (m), speed in m/s, g in m/s² (the same as N/kg), force in newtons (N), time in seconds (s), power in watts (W), and efficiency with no unit. W can mean work done or watt, and m can mean mass or metre." loading="lazy">
+  <figcaption>Each quantity has one unit; W and m each have two meanings.</figcaption>
+</figure>
+
 ## How the units connect
 
 Each Topic 4 unit can be built from the others, which is why an answer's unit can be checked.
@@ -71,6 +76,11 @@ GPE = m × g × h                     so   kg × m/s² × m = N × m = J
 The last two lines show that kinetic energy and gravitational potential energy both come out in joules, as they must if
 one store can transfer into the other. If your working gives kg m/s or kg m²/s for an energy, the equation has been
 misused (for example, `v` not squared).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-energy-resources--02-units-connect.webp" width="900" height="740" alt="Unit links: 1 J = 1 N × 1 m; 1 W = 1 J / 1 s; 1 N = 1 kg × 1 m/s². For kinetic energy, kg × (m/s)² = kg m²/s² = N m = J; for gravitational potential energy, kg × m/s² × m = N × m = J. Both stores are in joules." loading="lazy">
+  <figcaption>Every Topic 4 unit can be built from the others, so units can be checked.</figcaption>
+</figure>
 
 ## Prefixes and conversions
 
@@ -90,6 +100,11 @@ Other conversions you will meet:
 - **centimetres to metres:** divide by 100 (45 cm = 0.45 m);
 - **minutes to seconds:** multiply by 60; **hours to seconds:** multiply by 3600;
 - **km/h to m/s:** multiply by 1000 then divide by 3600, which is the same as dividing by 3.6 (72 km/h = 20 m/s).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-energy-resources--03-conversions.webp" width="900" height="700" alt="Prefix conversions: 250 mJ = 0.25 J, 3.5 kJ = 3500 J, 2.2 kW = 2200 W, 1.8 MJ = 1.8 × 10⁶ J. Other conversions: 500 g ÷ 1000 = 0.500 kg, 45 cm ÷ 100 = 0.45 m, minutes × 60 and hours × 3600 give seconds, and 72 km/h ÷ 3.6 = 20 m/s." loading="lazy">
+  <figcaption>Grams, centimetres, minutes, km/h and prefixed units all convert before substituting.</figcaption>
+</figure>
 
 ## Worked examples
 
@@ -122,6 +137,16 @@ P = W / t = 225 000 / 1500 = 150 W
 
 If a question had given her rucksack as 8000 g, it would become 8.0 kg before entering the equation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-energy-resources--04-ke-kmh-example.webp" width="900" height="750" alt="A 1200 kg car at 72 km/h: v = 72 / 3.6 = 20 m/s, so KE = 0.5 × 1200 × 20² = 240 000 J = 240 kJ. Substituting 72 directly gives 3 110 400 J, almost thirteen times too big, shown by bars drawn to scale." loading="lazy">
+  <figcaption>Convert km/h to m/s before squaring, or the error is squared too.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-energy-resources--05-power-time-examples.webp" width="900" height="650" alt="A lift motor with useful power 4.5 kW = 4500 W runs for 2.0 × 60 = 120 s, transferring 540 000 J = 0.54 MJ. A 75 kg climber gains 75 × 10 × 300 = 225 000 J of GPE in 1500 s, an average power of 150 W." loading="lazy">
+  <figcaption>Convert kW to W and minutes to seconds on separate lines first.</figcaption>
+</figure>
+
 ## Checking an answer with units
 
 Units let you test a rearranged equation. Rearranging `KE = ½ × m × v²` for speed gives `v = √(2 × KE / m)`. The units
@@ -130,6 +155,11 @@ rearrangement such as `v = √(KE × m / 2)` would give kg m/s, which is not a s
 
 The same habit catches power and energy mix-ups: a quantity divided by a time in seconds is a rate. Joules divided by
 seconds is watts; watts multiplied by seconds is joules.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-energy-resources--06-unit-checks.webp" width="900" height="680" alt="Rearranging KE = ½mv²: v = √(2 × KE / m) has units √(J/kg) = √(m²/s²) = m/s, a speed, while the wrong v = √(KE × m / 2) gives kg m/s. J ÷ s = W and W × s = J, so a 2 kW heater transfers 2 kJ each second; efficiency is J ÷ J and has no unit." loading="lazy">
+  <figcaption>If the units of a rearranged equation do not give the right quantity, it is wrong.</figcaption>
+</figure>
 
 ## Significant figures and standard form
 

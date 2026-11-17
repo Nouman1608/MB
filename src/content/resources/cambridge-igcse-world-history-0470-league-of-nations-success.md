@@ -66,6 +66,16 @@ slow; without an army, action depended on members who were reluctant to fight. T
 disputes in the 1920s with the same structure, which suggests that failure depended on circumstances, especially the
 attitude of the great powers and the economic crisis after 1929.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-league-of-nations-success--01-collective-security.webp" width="900" height="557" alt="Three rising steps: moral condemnation, economic sanctions and, as a last resort, military action using members' own forces. A box notes the weak point: no army of its own and unanimous decisions, so every step depended on willing members." loading="lazy">
+  <figcaption>Collective security depended on members being willing to act.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-league-of-nations-success--02-membership.webp" width="900" height="651" alt="Bars on a 1920-1940 scale show membership: Britain and France throughout, Italy until 1937, Japan until 1933, Germany from 1926 to 1933, the USSR from 1934 until its expulsion in 1939, and the USA never." loading="lazy">
+  <figcaption>Only Britain and France were members throughout.</figcaption>
+</figure>
+
 ## Peacekeeping in the 1920s
 
 | Dispute | What happened | Verdict |
@@ -77,6 +87,11 @@ attitude of the great powers and the economic crisis after 1929.
 
 **Pattern to explain:** the League succeeded when the disputing countries were smaller states and the great powers
 agreed; it failed when a great power was involved or when Britain and France had a reason not to act.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-league-of-nations-success--03-disputes-1920s.webp" width="900" height="609" alt="A table of four disputes: Vilna (1920) a failure, the Aaland Islands (1920-21) a success, Corfu (1923) a failure, and Bulgaria (1925) a success. The pattern: success with smaller states, failure when a great power was involved." loading="lazy">
+  <figcaption>The League worked for small states, not against great powers.</figcaption>
+</figure>
 
 ## Humanitarian work
 
@@ -91,6 +106,11 @@ agreed; it failed when a great power was involved or when Britain and France had
 peacekeeping failed. Some historians regard it as the League's most lasting achievement, because its agencies and
 methods passed to the United Nations. But it was not the League's main aim, which was to prevent war, so it cannot
 on its own make the League a success.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-league-of-nations-success--04-humanitarian.webp" width="900" height="592" alt="Four cards: Nansen's refugee work, the Health Organisation, the ILO (whose proposals many members did not adopt) and the Slavery Convention of 1926. A note: lasting, but not the League's main aim." loading="lazy">
+  <figcaption>Lasting achievements, but not in the League's main task of preventing war.</figcaption>
+</figure>
 
 ## The 1930s: the Depression, Manchuria and Abyssinia
 
@@ -121,6 +141,11 @@ seemed a solution.
 - **Consequences:** collective security was discredited; Italy moved towards Germany (the Rome-Berlin Axis, 1936) and
   left the League in 1937; while attention was on Abyssinia, Hitler remilitarised the Rhineland (March 1936).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-league-of-nations-success--05-manchuria-abyssinia.webp" width="900" height="645" alt="A comparison of Manchuria (1931-33) and Abyssinia (1935-36) by cause, trigger, League action, outcome and wider effect. In Manchuria the Lytton Commission condemned Japan but no sanctions followed; in Abyssinia sanctions excluded oil, Suez stayed open and the Hoare-Laval Pact leaked. Both aggressors kept their gains." loading="lazy">
+  <figcaption>In both crises the League condemned the aggressor and the aggressor kept its gains.</figcaption>
+</figure>
+
 ## Annotated model answer
 
 An original practice question: *"The League of Nations failed because the USA was not a member." How far do you
@@ -132,6 +157,11 @@ agree? [10]*
 > fearing war with Italy and hoping to keep Mussolini as an ally against Hitler, as the Hoare-Laval Pact showed.
 > *[Disagree, explained.]* The USA's absence made sanctions harder, but the League failed mainly because its leading
 > members put their own interests before collective security. *[Judgement.]*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-league-of-nations-success--06-usa-absence.webp" width="900" height="550" alt="A balance. In Manchuria, US absence mattered: sanctions were pointless while the USA kept trading with Japan. In Abyssinia it did not: Britain and France chose not to ban oil or close Suez. Judgement: the leading members' own interests mattered more." loading="lazy">
+  <figcaption>Abyssinia shows the League failed mainly through its own leading members.</figcaption>
+</figure>
 
 ## Common mistakes
 

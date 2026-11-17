@@ -67,6 +67,21 @@ Illustrations:
 - **Unpaid advice from a friend:** in *Chaudhry v Prabhakar* (1989) a friend who claimed knowledge of cars and agreed to find a car that had not been in an accident owed a duty.
 - **References:** in *Spring v Guardian Assurance* (1994) an employer giving a reference owed a duty to the former employee who was its subject.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury--01-classify-economic-loss.webp" width="900" height="625" alt="If financial loss follows physical damage to the claimant’s own person or property it is consequential and recoverable, such as lost wages. Otherwise it is pure economic loss: caused by a negligent act it is generally not recoverable (Spartan Steel, Weller, Murphy, with Junior Books as an exception), but caused by a negligent misstatement it can be, where there is a special relationship (Hedley Byrne)." loading="lazy">
+  <figcaption>Classify the loss first: only pure loss from a misstatement has a clear route to recovery.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury--02-spartan-steel.webp" width="900" height="530" alt="A bar split into three parts: the damaged melt and the profit on it were recovered, but the profit on further melts that could not be carried out during the power cut was pure economic loss and not recovered. Lord Denning said businesses should insure against power cuts. In Weller, auctioneers with no damage to their own property recovered nothing." loading="lazy">
+  <figcaption>Loss tied to damaged property was recovered; profit lost only because of the power cut was not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury--03-special-relationship.webp" width="900" height="771" alt="Four elements of a special relationship: special skill or knowledge, a claimant known to the defendant, a particular purpose, and reasonable reliance. No duty was owed to investors in Caparo; a duty was owed in Smith v Eric S Bush, Chaudhry v Prabhakar and Spring v Guardian Assurance. In Hedley Byrne the bank escaped because of its disclaimer." loading="lazy">
+  <figcaption>Advice for a known purpose to a known person who reasonably relies on it can create a duty.</figcaption>
+</figure>
+
 ## Part 2: psychiatric injury
 
 ### The threshold
@@ -95,6 +110,16 @@ In *Alcock* a claimant who was at the ground and lost two brothers still failed 
 
 In *Chadwick v British Railways Board* (1967) a man who helped at a rail crash scene for hours recovered for psychiatric illness. After *White v Chief Constable of South Yorkshire* (1998), rescuers and employees are treated as primary victims only if they were in physical danger or reasonably believed they were; otherwise they must satisfy the secondary victim rules like anyone else. *Chadwick* is now explained on the basis that he was himself in danger in the wreckage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury--04-primary-secondary.webp" width="900" height="717" alt="Every claimant needs a recognised psychiatric illness, traditionally from a sudden shock. Those in the zone of physical danger are primary victims (Dulieu v White; Page v Smith). Those who witness harm to another are secondary victims who must pass all four Alcock controls and need an external accident (Paul). Rescuers and employees are primary only if in danger (White; Chadwick)." loading="lazy">
+  <figcaption>Classify the victim first: only secondary victims face the Alcock controls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury--05-alcock-controls.webp" width="900" height="624" alt="The four Alcock controls: a close tie of love and affection, proximity in time and space to the event or its immediate aftermath, perception with one’s own unaided senses (live television was not enough), and reasonable fortitude. On a timeline, McLoughlin v O’Brian at about two hours was within the aftermath; identifying a body about eight hours later in Alcock was too late." loading="lazy">
+  <figcaption>All four controls must be met; arriving hours later or watching on screen can defeat a claim.</figcaption>
+</figure>
+
 ## Worked problem
 
 *Wren, an accountant, tells her neighbour Ade at a barbecue that a local company is "a safe investment". Ade invests and loses money. Separately, a crane operated by Bolt Ltd collapses in the street. Ade's wife Cleo is on the pavement and is narrowly missed; she develops PTSD. Ade's brother Dev, at home, sees the collapse on a local news livestream and later suffers depression after learning Ade's son was hurt.*
@@ -112,6 +137,11 @@ Dev v Bolt   (psychiatric): a secondary victim. Uncle - close tie must be
              proved. Not present; saw a broadcast (Alcock: not own unaided
              senses). Likely to fail.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury--06-worked-problem.webp" width="900" height="628" alt="Three claims. Ade against Wren for casual investment advice at a barbecue: likely no special relationship, so no duty. Cleo against Bolt Ltd, narrowly missed by the crane: a primary victim with PTSD under Page v Smith, likely to succeed. Dev against Bolt Ltd: a secondary victim who must prove a close tie and who saw a livestream, so likely to fail under Alcock." loading="lazy">
+  <figcaption>Each claimant is classified first, then tested only against the rules for that category.</figcaption>
+</figure>
 
 ## Common mistakes
 

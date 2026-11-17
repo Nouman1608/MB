@@ -31,6 +31,11 @@ The [outsourcing, wholesaling and communication overview](/resources/o-level-cam
 
 **Outsourcing** is when a business pays another business to carry out an activity it could do itself. The business that outsources is often called the *client*; the firm doing the work is the *contractor* or *provider*. In 1.2.2 you met the comparison with **in-house production**, where the business uses its own staff and equipment. Sub-topic 2.2 asks why outsourcing has *grown*, using the two areas the syllabus names.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--08-o-outsourcing-types.webp" width="900" height="900" alt="Two panels. In contract manufacturing a brand owner who designs, brands and sells sends an agreed design to a specialist factory that makes the goods. In contract logistics the brand owner sends stock to a logistics firm, which stores and packs it in a warehouse, then delivers it by truck to the customer." loading="lazy">
+  <figcaption>Contract manufacturing and contract logistics are the two outsourcing areas the syllabus names.</figcaption>
+</figure>
+
 ## Contract manufacturing
 
 **Contract manufacturing** means a business pays another firm to make its products, or parts of them, to the client's own design and specification. The product is usually sold under the client's brand, so customers may never know who made it.
@@ -50,6 +55,16 @@ Typical arrangements:
 - **Focus on core activities.** The client concentrates on design, branding and selling, where it adds most value.
 - **Global supply chains and digital communication.** Designs, orders and quality reports can be exchanged instantly, so a contractor in another country is easy to manage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-outsourcing--01-contract-manufacturing-examples.webp" width="900" height="585" alt="Three pairs: a juice brand and a bottling plant, a cosmetics company and a laboratory-equipped factory, and an electronics brand and a specialist assembler abroad. In each, the client sends the design and the contractor sends back the goods." loading="lazy">
+  <figcaption>The client designs, brands and sells; the contractor makes the goods to its specification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-outsourcing--02-why-contract-manufacturing-grew.webp" width="900" height="620" alt="Six reasons each linked to its effect: lower start-up costs, specialist expertise and equipment, economies of scale, flexibility, focus on core activities, and global supply chains with digital communication." loading="lazy">
+  <figcaption>Explain why each reason makes contract manufacturing attractive to a client.</figcaption>
+</figure>
+
 ## Contract logistics
 
 **Contract logistics** means a business pays a specialist logistics firm to manage the storage and movement of its goods. Services can include:
@@ -67,6 +82,11 @@ Typical arrangements:
 - **Global trade.** Moving goods across borders needs knowledge of routes, documents and customs that a logistics specialist already has.
 - **Cost and flexibility.** The client pays per order or per pallet stored, so costs rise and fall with sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-outsourcing--03-contract-logistics.webp" width="900" height="625" alt="A provider receives and stores goods, picks and packs orders, delivers them and handles returns, and can arrange export documents and customs with freight forwarders. Four reasons for growth: ecommerce, customer expectations, global trade, and costs that move with sales." loading="lazy">
+  <figcaption>Contract logistics covers storage, packing, delivery, returns and documents, not just transport.</figcaption>
+</figure>
+
 ## Benefits and risks to judge
 
 | Benefits to the client | Risks to the client |
@@ -78,6 +98,11 @@ Typical arrangements:
 | Management time freed for design and selling | Communication delays, especially across time zones |
 
 These connect directly to 1.2.2, where the syllabus names **control on quality and information** as benefits of in-house production and **accessing expertise and cost savings** as benefits of outsourcing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-outsourcing--04-benefits-and-risks.webp" width="900" height="580" alt="Five benefits of outsourcing, such as no need to buy factories and lower cost per unit, beside five risks, such as less control over quality, dependence on the contractor and reputation damage." loading="lazy">
+  <figcaption>A judgement weighs benefits against risks for the particular product.</figcaption>
+</figure>
 
 ## Worked example: should an online seller outsource logistics?
 
@@ -97,6 +122,11 @@ These connect directly to 1.2.2, where the syllabus names **control on quality a
 Now suppose sales fall to 800 orders in a quiet month. Rent, staff and van costs stay at $7,200, and packaging falls to 800 x $0.40 = $320, so in-house costs are $7,520, or $7,520 / 800 = **$9.40 per order**. The provider would charge 800 x $3.50 = **$2,800**.
 
 **Interpretation.** Outsourcing is cheaper at both levels, and the gap widens when sales are low, because in-house costs are mostly fixed. Before deciding, Bloom Box should also weigh control: its gift boxes are judged on presentation, so it would need the provider to agree packing standards and allow inspections.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-outsourcing--05-bloom-box-logistics.webp" width="900" height="665" alt="In-house logistics for 2,000 orders costs $8,000 ($4.00 per order) against $7,000 from a provider at $3.50 per order. At 800 orders in-house costs $7,520 ($9.40 per order) against $2,800 from the provider." loading="lazy">
+  <figcaption>Mostly fixed in-house costs make outsourcing even cheaper when sales are low.</figcaption>
+</figure>
 
 ## How to answer outsourcing questions
 

@@ -47,6 +47,16 @@ Atkinson and Shiffrin (1968) proposed that information flows through three separ
 
 **Evaluation.** Case studies support separate stores: after surgery to remove parts of his medial temporal lobes, patient HM (Scoville and Milner, 1957) could not form new long-term memories but had a normal immediate memory span. However, patient KF (Shallice and Warrington, 1970) had poor short-term recall of spoken information but better recall of visual information, suggesting STM is not a single store -- a problem the working memory model addresses. The model also over-emphasises rehearsal: people remember many things they never rehearse, which Craik and Lockhart's (1972) levels of processing approach explains by depth of processing. Much supporting research used artificial stimuli such as trigrams, which may not reflect everyday memory.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--01-multi-store-model.webp" width="900" height="486" alt="Three stores in a row. The sensory register is modality-specific, very large and very brief; attention moves information into short-term memory, which is mainly acoustic, holds about 7 plus or minus 2 items and lasts about 18 to 30 seconds without rehearsal; a rehearsal loop keeps it there and transfers it to long-term memory, which is mainly semantic, effectively unlimited and potentially lifelong; retrieval brings it back." loading="lazy">
+  <figcaption>Attention, rehearsal and retrieval move information between three stores.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--02-msm-evidence.webp" width="900" height="998" alt="Evidence cards: Jacobs found spans of about 9 digits and 7 letters, Miller proposed 7 plus or minus 2 chunks and Cowan about 4; Baddeley (1966) found acoustic coding in STM and semantic in LTM. Bars show Peterson and Peterson's recall falling from about 90 percent at 3 seconds to about 10 percent or less at 18 seconds, and Bahrick et al.'s recognition of classmates at about 90 percent within 15 years and 70 percent after 48. Evaluation uses HM, KF, levels of processing and artificial stimuli." loading="lazy">
+  <figcaption>Each store’s capacity, duration and coding rests on a named study.</figcaption>
+</figure>
+
 ## The working memory model
 
 Baddeley and Hitch (1974) replaced the single short-term store with a multi-component system for actively working on information.
@@ -60,6 +70,11 @@ Baddeley and Hitch (1974) replaced the single short-term store with a multi-comp
 
 **Evaluation.** **Dual-task studies** support separate components: two tasks using the same component (such as two visual tasks) interfere with each other, while tasks using different components (one visual, one verbal) can be done together with little loss. KF's pattern fits damage to the phonological loop with an intact sketchpad. A limitation is that the central executive is poorly specified: saying it "controls attention" does not explain how, which makes it hard to test.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--03-working-memory-model.webp" width="900" height="849" alt="The central executive directs attention, has very limited capacity and stores nothing. Below it: the phonological loop (acoustic; phonological store and articulatory process; about two seconds of speech), the episodic buffer (added in 2000; multi-modal; a few chunks) and the visuo-spatial sketchpad (visual and spatial; a few objects). The word length effect and dual-task studies support it; the central executive is poorly specified." loading="lazy">
+  <figcaption>Each component has its own coding and its own limited capacity.</figcaption>
+</figure>
+
 ## Types of long-term memory
 
 Tulving (1972) distinguished episodic from semantic memory, and procedural memory is added as a third type.
@@ -72,6 +87,11 @@ Tulving (1972) distinguished episodic from semantic memory, and procedural memor
 
 Evidence comes from brain damage. Clive Wearing, a musician who developed severe amnesia after a viral brain infection, lost most episodic memories yet could still play the piano (procedural) and knew many facts (semantic). HM could learn a new mirror-drawing skill while having no memory of practising it. These cases suggest the types are stored at least partly separately, although case studies of unusual individuals are hard to generalise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--04-types-of-ltm.webp" width="900" height="657" alt="Three cards: episodic memory (personal experiences, explicit), semantic (facts, explicit) and procedural (skills, implicit). A table shows Clive Wearing lost most episodic memories but kept facts and could play the piano, and HM learned mirror-drawing without remembering practising. The types seem partly separate, but case studies are hard to generalise." loading="lazy">
+  <figcaption>Amnesia can remove episodic memory while leaving skills intact.</figcaption>
+</figure>
+
 ## Eyewitness testimony
 
 **Leading questions.** Loftus and Palmer (1974) showed students films of car crashes. When asked "About how fast were the cars going when they *smashed* into each other?", estimates averaged 40.5 mph, compared with 31.8 mph when the verb was "contacted". In a second experiment a week later, 32% of the "smashed" group falsely reported seeing broken glass, compared with 14% of the "hit" group and 12% of the control group. Two explanations compete: **response bias** (the wording influences the answer but not the memory) and **substitution** (the wording alters the stored memory itself); the broken-glass finding supports substitution.
@@ -79,6 +99,16 @@ Evidence comes from brain damage. Clive Wearing, a musician who developed severe
 **Post-event discussion.** Gabbert et al. (2003) showed pairs of participants different films of the same crime, then let them discuss it. 71% of participants who discussed the event later reported details they could only have learned from their partner, compared with 0% in a control group. This **memory conformity** may reflect a wish to agree, or genuine incorporation of the other witness's details.
 
 **Evaluation.** Laboratory films lack the emotional consequences of a real crime. Yuille and Cutshall (1986) interviewed witnesses to a real shooting months later and found their accounts remained highly accurate, and misleading questions had little effect. This suggests laboratory studies may overstate the problem.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--05-loftus-palmer.webp" width="900" height="613" alt="Bars: mean speed estimates of 40.5 mph with the verb smashed against 31.8 mph with contacted. A week later, 32 percent of the smashed group falsely reported broken glass, against 14 percent for hit and 12 percent for controls. The broken-glass finding supports substitution, where the memory itself is altered, over response bias." loading="lazy">
+  <figcaption>“Smashed” raised speed estimates and created false memories of broken glass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--06-post-event-discussion.webp" width="900" height="601" alt="Bars show 71 percent of participants who discussed the crime reported details only their partner could have seen, against 0 percent of controls: memory conformity. Laboratory films lack real emotional consequences; Yuille and Cutshall (1986) found witnesses to a real shooting stayed highly accurate months later, suggesting lab studies may overstate the problem." loading="lazy">
+  <figcaption>Discussion led 71% to report details they never saw.</figcaption>
+</figure>
 
 ## The cognitive interview
 
@@ -91,6 +121,11 @@ Fisher and Geiselman developed the cognitive interview to improve recall. Its fo
 
 **Evaluation.** A meta-analysis by Köhnken et al. (1999) found that the cognitive interview produced more correct information than standard interviews, but also a small increase in incorrect details. It takes more time than a standard police interview and needs trained officers, so in practice forces often use only some of the techniques.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--07-cognitive-interview.webp" width="900" height="629" alt="Four techniques with reasons: report everything (trivial details cue others), reinstate the context (cues from encoding), reverse the order (disrupts schemas that fill gaps) and change perspective (reduces the witness's own schemas). Köhnken et al. (1999) found more correct information, with a small rise in incorrect details, more time and a need for training." loading="lazy">
+  <figcaption>Four techniques, each explained by how it cues or protects memory.</figcaption>
+</figure>
+
 ## Worked example: an application answer
 
 *Scenario: Amira hears a new phone number, repeats it to herself and dials it a few seconds later. Next day she cannot remember it. Use the multi-store model to explain this.* **[4]**
@@ -98,6 +133,11 @@ Fisher and Geiselman developed the cognitive interview to improve recall. Its fo
 > The number entered Amira's sensory register and, because she paid attention, passed into short-term memory **(attention)**. Repeating it was maintenance rehearsal, which kept it in STM long enough to dial **(rehearsal, linked to the scenario)**. STM holds about 7 plus or minus 2 items for up to about 30 seconds, so once she stopped rehearsing, the number decayed **(duration, capacity)**. Because rehearsal was brief, it was not transferred to long-term memory, so it could not be retrieved the next day **(transfer)**.
 
 Each sentence pairs a feature of the model with a detail from the scenario -- that link is what application (AO2) marks reward.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--08-amira-application.webp" width="900" height="630" alt="Four steps applying the multi-store model to Amira: attention moved the number into STM, maintenance rehearsal kept it there long enough to dial, STM's limited duration meant it decayed once rehearsal stopped, and brief rehearsal did not transfer it to LTM." loading="lazy">
+  <figcaption>Pair every feature of the model with a detail from the scenario.</figcaption>
+</figure>
 
 ## Exam technique
 

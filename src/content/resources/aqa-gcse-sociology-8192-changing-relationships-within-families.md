@@ -55,6 +55,16 @@ In the twentieth century the **privatised nuclear family** became more common: h
 - more married women in paid work;
 - home-based leisure, such as television, which kept couples at home together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--01-three-periods.webp" width="900" height="764" alt="Three columns run along a time line. Pre-industrial families worked together as a unit of production, and Laslett found most households were nuclear. Industrial families lost their production role, and Anderson found more extended kin in 1851 Preston. Contemporary families became privatised, home-centred and nuclear." loading="lazy">
+  <figcaption>The family moved from a unit of production to a privatised, home-centred unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--02-privatised-family-causes.webp" width="900" height="584" alt="Five causes point to the privatised nuclear family: rising living standards and better housing, geographical mobility, smaller families, more married women in paid work, and home-based leisure such as television." loading="lazy">
+  <figcaption>Five twentieth-century changes pulled families into a smaller, home-centred unit.</figcaption>
+</figure>
+
 ## Willmott and Young: the symmetrical family
 
 Willmott and Young wrote *The Symmetrical Family* (1973) from a functionalist perspective. It was based on "a large scale social survey" in which "nearly 2,000 people were interviewed in Greater London and surrounding areas".
@@ -76,6 +86,21 @@ Willmott and Young wrote *The Symmetrical Family* (1973) from a functionalist pe
 
 **Criticism.** The theory "has been criticised by feminists who saw little evidence of either 'symmetry' or a move towards Stage 4 amongst working class families". Oakley's research on housework is the usual evidence: few husbands did a large share. Note the contradiction feminists point out: Stage 4 is less equal than Stage 3, so if stratified diffusion works, family life may become less symmetrical, not more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--03-four-stages.webp" width="900" height="997" alt="A staircase of four stages. Stage 1, pre-industrial: a unit of production. Stage 2, early industrial: men work long hours and women rely on female kin. Stage 3, symmetrical: a privatised, home-centred nuclear family. Stage 4, managing director: work-centred, and less equal than Stage 3." loading="lazy">
+  <figcaption>Willmott and Young saw family change as gradual progress, but Stage 4 is less equal than Stage 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--04-symmetry-balance.webp" width="900" height="600" alt="A balanced pair of scales holds each partner’s contribution. The tasks are different and not interchangeable, but they are of equal importance, so the scales balance. Symmetry means similar contributions such as shared chores and decisions, not identical jobs." loading="lazy">
+  <figcaption>Symmetry means roles of equal importance, not identical roles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--05-stratified-diffusion.webp" width="900" height="712" alt="Three class layers with an arrow pointing down: the Stage 4 managing director family starts among managers at the top and spreads downwards. Functionalists see this as progress; feminists found little evidence of symmetry, and point out that Stage 4 is less equal than Stage 3." loading="lazy">
+  <figcaption>Change starts at the top and spreads down, but Stage 4 would make families less equal.</figcaption>
+</figure>
+
 ## Contemporary family issues
 
 **Quality of parenting.** Families are now more **child-centred**: parents spend more time, money and attention on fewer children, and childhood is seen as a protected stage. This has raised expectations of parents, and politicians and the media often debate whether parenting is "good enough". The state increasingly sets standards: Scotland and Wales have removed the defence of reasonable punishment, so smacking a child is no longer lawful there. Feminists note that criticism of parenting usually focuses on mothers.
@@ -85,6 +110,16 @@ Willmott and Young wrote *The Symmetrical Family* (1973) from a functionalist pe
 **Care of the disabled and elderly.** An ageing population means more families care for older relatives, sometimes while still raising children. The **beanpole family**, with several living generations, makes this more common. Much informal care is unpaid and, feminists argue, falls mainly on women, adding to the dual burden. Functionalists see this as the family still performing a caring function alongside the welfare state; Marxists note that unpaid family care saves the state and employers money.
 
 **Arranged marriage.** In an arranged marriage, families play a central part in choosing or introducing partners, but both partners consent. It is practised in some South Asian, Middle Eastern and other communities in the UK, and can link families and maintain cultural and religious traditions. It must not be confused with **forced marriage**, in which one or both partners do not consent; forcing someone to marry is a criminal offence in England and Wales. Many younger people from these communities describe a more "assisted" process, in which they have a strong say, which shows arranged marriage itself changing over time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--06-contemporary-issues.webp" width="900" height="679" alt="Four cards. Quality of parenting: families are more child-centred and the state sets standards. Teenagers and adults: relationships are more democratic but dependence lasts longer. Care of the disabled and elderly: an ageing population and beanpole families mean more unpaid care, mostly by women. Arranged marriage: families help choose partners but both consent, and the process is becoming more assisted." loading="lazy">
+  <figcaption>Each issue shows family relationships changing, and each can be linked to a perspective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--07-arranged-vs-forced.webp" width="900" height="535" alt="Two panels. In an arranged marriage families choose or introduce partners but both partners consent, and the process is becoming more assisted. In a forced marriage one or both partners do not consent, and forcing someone to marry is a criminal offence in England and Wales." loading="lazy">
+  <figcaption>Consent is the difference between an arranged and a forced marriage.</figcaption>
+</figure>
 
 ## Perspectives compared
 

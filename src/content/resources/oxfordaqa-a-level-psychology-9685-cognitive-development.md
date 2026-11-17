@@ -37,6 +37,11 @@ Piaget saw children as active learners who construct understanding through inter
 - **Accommodation** changes a schema, or creates a new one, when information does not fit: told the fox is not a dog, the child forms a separate schema.
 - **Equilibration** is the drive towards balance. New information that does not fit creates **disequilibrium**, an uncomfortable state that motivates accommodation until balance is restored.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--04-psy-piaget-adaptation.webp" width="900" height="880" alt="Two panels use a shape-fitting picture. Assimilation: a square block drops into a square hole in a frame that stands for a schema, so the schema stays the same. Accommodation: a triangular block does not fit a square hole, so the schema is reshaped with a triangular hole. Arrows from both panels lead to equilibration, balance restored." loading="lazy">
+  <figcaption>New experience is fitted into a schema (assimilation) or the schema is changed (accommodation), restoring equilibrium.</figcaption>
+</figure>
+
 ## Piaget's stages and the tasks behind them
 
 **Sensorimotor (0-2 years).** Infants learn through senses and actions. **Object permanence** -- understanding that objects continue to exist when out of sight -- develops at around 8 months: Piaget found younger infants stopped reaching for a toy when it was covered with a cloth.
@@ -51,6 +56,11 @@ Piaget saw children as active learners who construct understanding through inter
 
 **Formal operational (11 and over).** Abstract and hypothetical reasoning becomes possible, such as solving problems systematically by changing one variable at a time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--01-piaget-stages-tasks.webp" width="900" height="770" alt="Four rising steps: sensorimotor (0-2), pre-operational (2-7), concrete operational (7-11) and formal operational (11+). Rows give the tasks: object permanence at about 8 months, the three mountains task for egocentrism, liquid conservation, class inclusion with beads, logical reasoning about concrete objects, and abstract reasoning in the formal stage." loading="lazy">
+  <figcaption>Each stage is defined by what children can and cannot do on Piaget’s tasks.</figcaption>
+</figure>
+
 ## Challenges to Piaget's methods
 
 Several studies suggest Piaget underestimated children because his tasks were confusing or lacked human sense.
@@ -60,6 +70,11 @@ Several studies suggest Piaget underestimated children because his tasks were co
 
 These studies support Piaget's sequence but challenge his ages and his claim that thinking is limited by stage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--02-challenges-to-piaget.webp" width="900" height="654" alt="Hughes (1975): about 90 percent of children aged three and a half to five hid a boy doll from policeman dolls. McGarrigle and Donaldson (1974): about 62 percent of four to six year olds conserved number when a naughty teddy disarranged the counters, against 16 percent when the experimenter did it. These support Piaget's sequence but challenge his ages." loading="lazy">
+  <figcaption>Tasks that make sense to children reveal abilities earlier than Piaget claimed.</figcaption>
+</figure>
+
 ## Baillargeon's violation of expectation research
 
 Baillargeon developed the **violation of expectation** method because reaching tasks require motor skills that young infants lack. Infants are shown a "possible" and an "impossible" event; if they look longer at the impossible one, they are assumed to have expected something else -- and therefore to understand something about objects.
@@ -67,6 +82,11 @@ Baillargeon developed the **violation of expectation** method because reaching t
 In the "carrot" study (Baillargeon and DeVos, 1991), infants of about three and a half months watched short and tall carrots slide behind a screen with a window in its upper half. A tall carrot should have appeared in the window. When it did not (the impossible event), infants looked longer, suggesting they knew the carrot still existed behind the screen -- object permanence months earlier than Piaget claimed.
 
 **Evaluation.** The method removes the need for motor responses and shows infants know more than reaching tasks suggest. However, longer looking may reflect novelty or perceptual interest rather than understanding, so interpretation is debated. It suggests early knowledge may be partly innate, which supports a nature position in the nature-nurture debate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--03-baillargeon-carrots.webp" width="900" height="764" alt="Two schematic scenes: a short carrot slides behind a screen below its window and is never seen; a tall carrot should appear in the window but does not. Infants of about three and a half months looked longer at the impossible tall-carrot event, suggesting object permanence earlier than Piaget claimed, though longer looking may only reflect novelty." loading="lazy">
+  <figcaption>Longer looking at the impossible event suggests infants expected the carrot to exist.</figcaption>
+</figure>
 
 ## Vygotsky's theory
 
@@ -82,6 +102,16 @@ Vygotsky argued that cognitive development is fundamentally **social and cultura
 
 **Comparing Piaget and Vygotsky.** Piaget saw the child as a lone scientist moving through universal stages, with language a product of thought; Vygotsky saw the child as an apprentice whose thinking develops through social interaction, with language a cause of thought. Both see children as active participants.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--04-scaffolding-and-speech.webp" width="900" height="727" alt="Scaffolding from a more knowledgeable other fades from direct demonstration to hints to encouragement until the child works alone. Language moves from social speech to private speech to inner speech, a tool of thought. Vygotsky's ideas shaped guided group work and peer tutoring, but the ZPD is hard to measure." loading="lazy">
+  <figcaption>Support fades as competence grows; speech turns inward and becomes thought.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--05-psy-piaget-vs-vygotsky.webp" width="900" height="1200" alt="Top panel, Piaget: a staircase of four steps with a child standing alone on the second step and an upward arrow labelled stages, to show an internal, stage-based process. Bottom panel, Vygotsky: three concentric rings with a child in the centre. The inner ring is what the child can do alone, the middle ring is the zone of proximal development, what the child can do with help, and the outer ring is not yet possible. A helper outside the rings gives scaffolding by reaching into the middle ring." loading="lazy">
+  <figcaption>Piaget: an internal, stage-based process. Vygotsky: development driven socially and culturally, through scaffolding in the zone of proximal development.</figcaption>
+</figure>
+
 ## Social cognition
 
 **Theory of mind** means recognising that each person has their own mental states -- beliefs, desires and intentions -- which may differ from one's own and from reality. It is usually tested with **false-belief tasks**. Wimmer and Perner (1983) found that most children pass such tasks at around four years of age.
@@ -94,11 +124,26 @@ Vygotsky argued that cognitive development is fundamentally **social and cultura
 
 **Evaluation.** Brain imaging suggests areas in humans respond to both doing and observing actions. However, most direct recordings of single mirror neurons come from monkeys, and critics such as Hickok (2009) argue that the role of mirror neurons in understanding intentions has been overstated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--05-sally-anne.webp" width="900" height="747" alt="Four steps: Sally puts a marble in her basket, leaves, Anne moves it to her box, and children are asked where Sally will look (correct answer: the basket). Bars: about 85 percent of typically developing children and 86 percent of children with Down syndrome answered correctly, against 20 percent of autistic children." loading="lazy">
+  <figcaption>Most autistic children failed the false-belief question that other groups passed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--06-mirror-neurons.webp" width="900" height="700" alt="The same mirror neurons fire when performing an action and when watching someone else perform it. In humans a similar system is proposed to support understanding of actions and intentions, theory of mind and empathy. Brain imaging supports this, but most recordings come from monkeys and Hickok (2009) argues the role is overstated." loading="lazy">
+  <figcaption>Neurons that fire for doing and for watching may help us read others.</figcaption>
+</figure>
+
 ## Worked example: an application answer
 
 *Scenario: Five-year-old Noor insists that her brother has more juice after it is poured from her short, wide cup into his tall, thin glass. Her teacher shows her how to measure the juice using a jug, then asks her to try it alone. Explain Noor's behaviour using Piaget's theory, and the teacher's approach using Vygotsky's theory.* **[6]**
 
 > Noor is in the pre-operational stage, so she cannot yet conserve volume **(stage, applied)**. She focuses on the height of the liquid rather than recognising that pouring does not change the amount **(centration on one feature)**. When the measured jug shows the amounts are equal, this may cause disequilibrium, prompting accommodation of her schema **(mechanism)**. The teacher acts as a more knowledgeable other **(Vygotsky term)**. By demonstrating first and then letting Noor try alone, she scaffolds the task within Noor's zone of proximal development **(ZPD and scaffolding)**. The support is gradually withdrawn as Noor becomes competent **(fading)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--07-noor-application.webp" width="900" height="560" alt="Six rows: three Piaget points (pre-operational stage and no conservation, centration on height, disequilibrium leading to accommodation) and three Vygotsky points (the teacher as more knowledgeable other, scaffolding within the ZPD, support withdrawn as Noor becomes competent), each applied to the scenario." loading="lazy">
+  <figcaption>Three Piaget points for Noor, three Vygotsky points for the teacher.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -49,6 +49,11 @@ Second World War changed this view.
   of the abuses. Two followed: the United Nations at global level and the Council of Europe at regional
   level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-international-law--01-war-to-new-order.webp" width="900" height="550" alt="Three wartime lessons: atrocities carried out by states under their own laws, Roosevelt’s four freedoms of 1941, and the Nuremberg trials establishing individual responsibility for crimes against humanity. These led states to build two institutions: the United Nations at global level, with the Charter in 1945 and the Universal Declaration in 1948, and the Council of Europe at regional level, with the Convention signed in 1950 and in force in 1953." loading="lazy">
+  <figcaption>The war showed rights needed protection above the state: the UN globally, the Council of Europe regionally.</figcaption>
+</figure>
+
 ## The United Nations and the Universal Declaration of Human Rights 1948
 
 ### The United Nations
@@ -83,6 +88,11 @@ Together with the Declaration they are often called the **International Bill of 
 Covenants are monitored mainly by expert committees that review state reports. Their enforcement
 mechanisms are much weaker than a court with binding judgments, which is the key contrast with the
 European system.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-international-law--03-international-bill.webp" width="900" height="717" alt="The Universal Declaration was drafted by the UN Commission on Human Rights chaired by Eleanor Roosevelt and adopted in Paris on 10 December 1948 by 48 votes to none with eight abstentions. It is a General Assembly resolution, not a treaty. With the two binding 1966 Covenants, ICCPR and ICESCR, it forms the International Bill of Human Rights; the Covenants are monitored by expert committees, a weaker mechanism than a court." loading="lazy">
+  <figcaption>A non-binding declaration became binding treaties in 1966, but with weak enforcement.</figcaption>
+</figure>
 
 ## The Council of Europe and the European Convention on Human Rights 1953
 
@@ -124,6 +134,16 @@ The **Committee of Ministers**, made up of the foreign ministers of member state
 supervises the execution of the Court's judgments. Membership has grown to include most European states;
 **Russia was expelled in 2022** after its invasion of Ukraine and ceased to be a party to the Convention.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-international-law--02-international-timeline.webp" width="900" height="797" alt="A timeline: 1941 four freedoms; 1945 UN Charter; 1945 to 1946 Nuremberg; 10 December 1948 Universal Declaration; 5 May 1949 Council of Europe; 4 November 1950 Convention signed in Rome; March 1951 UK ratifies first; 3 September 1953 Convention in force; 1954 Commission and 1959 Court; 1966 Covenants and UK acceptance of individual petition; 1998 Protocol 11; 2022 Russia expelled." loading="lazy">
+  <figcaption>Signed in 1950, in force in 1953: the Convention sits within a wider post-war sequence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-international-law--04-council-of-europe-not-eu.webp" width="900" height="547" alt="Two panels. The Council of Europe, created by the Treaty of London on 5 May 1949 and based in Strasbourg, promotes democracy, the rule of law and human rights through the Convention and its Court; the UK remains a member. The European Union is separate, with its Court of Justice in Luxembourg and its own Charter; the UK left in 2020. Below, the ten founding states of the Council of Europe." loading="lazy">
+  <figcaption>The Convention belongs to the Council of Europe, which the UK never left.</figcaption>
+</figure>
+
 ## Comparing the instruments
 
 | Feature | UDHR 1948 | ICCPR and ICESCR 1966 | ECHR (in force 1953) |
@@ -132,6 +152,11 @@ supervises the execution of the Court's judgments. Membership has grown to inclu
 | Legal form | Resolution, not a treaty | Treaties | Treaty |
 | Rights | Civil, political, economic and social | Civil and political; economic, social and cultural | Civil and political, plus protocols |
 | Enforcement | None directly | Reporting to expert committees | Court with binding judgments, supervised by the Committee of Ministers |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-international-law--05-instrument-comparison.webp" width="900" height="625" alt="Three instruments with bars growing in enforcement strength. The UDHR 1948 is a UN General Assembly resolution with no direct enforcement. The ICCPR and ICESCR 1966 are UN treaties enforced by reporting to expert committees. The ECHR, in force 1953, is a Council of Europe treaty enforced by a court with binding judgments supervised by the Committee of Ministers." loading="lazy">
+  <figcaption>Only the European Convention has a court whose judgments bind states.</figcaption>
+</figure>
 
 ## Annotated plan: "Explain how the Second World War led to the creation of the European Convention on Human Rights."
 
@@ -147,6 +172,11 @@ Point 4   Council of Europe 1949: regional organisation of like-minded
 Point 5   ECHR signed 1950, in force 1953: enforceable rights, with a
           Commission and Court; later strengthened by Protocol 11.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-international-law--06-war-to-convention-plan.webp" width="900" height="791" alt="An essay plan in five linked points: atrocities under domestic law; the Nuremberg trials; the UN Charter and the non-binding UDHR; the Council of Europe as a group of democracies able to agree a binding treaty; and the Convention signed in 1950 and in force in 1953, later strengthened by Protocol 11." loading="lazy">
+  <figcaption>Each point adds what the one before lacked, ending in enforceable rights.</figcaption>
+</figure>
 
 ## Common mistakes
 

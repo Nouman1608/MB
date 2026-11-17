@@ -48,6 +48,16 @@ The key to 6.1.1 is matching each **observation** to the right **motion**:
 
 **Phases of the Moon.** The Moon does not produce light; it reflects sunlight. One half of the Moon is always lit by the Sun. As the Moon orbits the Earth, we see **different amounts of the lit half**: none at new Moon (the Moon lies roughly between Earth and Sun), half the disc at first quarter, all of it at full Moon (the Earth lies roughly between Sun and Moon), then decreasing again. The full cycle takes about one month.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-the-earth-and-the-solar-system-cambridge-igcse-physics--01-seasons-and-cycles.webp" width="900" height="630" alt="The Earth at two opposite points of its orbit with its axis tilted the same way in space. When the north is tilted towards the Sun it is northern summer; half an orbit later it is tilted away: northern winter. Below: rotation in about 24 hours gives day and night, the orbit in about 365 days gives the seasons, and the Moon's orbit in about one month gives its phases." loading="lazy">
+  <figcaption>The tilt, not the distance from the Sun, causes the seasons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-the-earth-and-the-solar-system-cambridge-igcse-physics--02-phases-of-the-moon.webp" width="900" height="640" alt="Sunlight from the left lights one half of the Moon at every point of its orbit round the Earth. At new Moon, between the Earth and the Sun, none of the lit half is seen; a quarter of the way round, half the disc; at full Moon, with the Earth between, the whole disc; then half again as it decreases." loading="lazy">
+  <figcaption>Phases come from how much of the always-lit half faces the Earth.</figcaption>
+</figure>
+
 ## Average orbital speed (Extended only)
 
 For a roughly circular orbit, the distance travelled in one orbit is the circumference, 2πr, so:
@@ -66,6 +76,11 @@ v = 1.0 × 10³ m/s   (about 1 km/s)
 
 The commonest error is leaving T in days, which gives an answer in metres per day. Convert first: 1 day = 86 400 s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-the-earth-and-the-solar-system-cambridge-igcse-physics--04-moon-orbital-speed.webp" width="900" height="600" alt="The Moon orbits the Earth at an average radius of 3.8 × 10⁸ m in 27.3 days, which is 2.36 × 10⁶ s. Its average orbital speed is v = 2πr/T = 1.0 × 10³ m/s, about 1 km/s." loading="lazy">
+  <figcaption>Distance round the orbit is 2πr; divide by the period in seconds.</figcaption>
+</figure>
+
 ## Members of the Solar System
 
 The Solar System contains:
@@ -78,6 +93,11 @@ The Solar System contains:
 
 The first four are small and **rocky**; the outer four are large and **gaseous**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--03-solar-system.webp" width="900" height="930" alt="Four small rocky planets and the asteroid belt sit in the hot inner region; four large gaseous planets sit in the cold outer region. Planet sizes are to scale with each other. Near the Sun only rock and metal stayed solid; further out gas and ice also formed large planets." loading="lazy">
+  <figcaption>Small rocky planets formed where it was hot, large gaseous planets where it was cold.</figcaption>
+</figure>
+
 ## The accretion model
 
 The syllabus asks you to explain the rocky–gaseous difference using an accretion model with three named features:
@@ -87,6 +107,11 @@ The syllabus asks you to explain the rocky–gaseous difference using an accreti
 3. **Rotation and an accretion disc:** the cloud was rotating, so it flattened into a spinning disc of material around the young Sun.
 
 Near the Sun the disc was **hot**, so light gases could not remain; only rocky and metallic material came together, forming small, rocky planets. Further out it was **cold**, so gases (and ices) were plentiful; large cores formed and their strong gravity attracted huge amounts of gas, forming the gas giants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-the-earth-and-the-solar-system-cambridge-igcse-physics--03-accretion-model.webp" width="900" height="640" alt="An interstellar cloud of gas and dust containing many elements collapses under gravity, rotates and flattens into an accretion disc around the young Sun. Near the Sun it is hot, so only rock and metal collect into small rocky planets; further out it is cold, so large cores gather gas and become gas giants." loading="lazy">
+  <figcaption>Gravity, many elements and a rotating disc, hot near the Sun and cold far away.</figcaption>
+</figure>
 
 ## Gravity in the Solar System
 
@@ -109,11 +134,21 @@ Jupiter orbits at an average radius of 7.8 × 10¹¹ m. Calculate (a) how long s
 
 Part (a) is Core (light travel time); part (b) is Extended. Compare (b) with the Earth's orbital speed of about 3 × 10⁴ m/s: the further planet is slower, as the Supplement statement predicts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-the-earth-and-the-solar-system-cambridge-igcse-physics--05-jupiter-light-and-speed.webp" width="900" height="654" alt="Jupiter orbits at 7.8 × 10¹¹ m from the Sun. Sunlight takes 7.8 × 10¹¹ / 3.0 × 10⁸ = 2600 s, about 43 minutes, to reach it. With a period of 12 years (3.78 × 10⁸ s) its orbital speed is 1.3 × 10⁴ m/s, slower than the Earth's 3 × 10⁴ m/s." loading="lazy">
+  <figcaption>Further from the Sun: weaker field, lower orbital speed, longer period.</figcaption>
+</figure>
+
 ## Elliptical orbits (Extended only)
 
 Planets, minor planets and comets have **elliptical** orbits. The Sun is **not at the centre** of an elliptical orbit, except when the orbit is approximately circular (as most planetary orbits nearly are). Comets have very stretched ellipses.
 
 An object in an elliptical orbit travels **faster when closer to the Sun**. Explain this with **conservation of energy**: as it falls inwards towards the Sun, it loses gravitational potential energy and gains the same amount of kinetic energy, so it speeds up. As it moves away again, kinetic energy is converted back to gravitational potential energy and it slows down. Its total energy stays constant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--04-elliptical-orbit.webp" width="900" height="990" alt="An ellipse with the Sun at a focus, not the centre. A long arrow at the closest point and a short arrow at the farthest point show the planet is faster when closer. Moving towards the Sun GPE is transferred to KE; moving away KE is transferred to GPE; total energy is constant." loading="lazy">
+  <figcaption>A planet moves faster when closer to the Sun because GPE is transferred to KE.</figcaption>
+</figure>
 
 ## Analysing planetary data (Extended only)
 

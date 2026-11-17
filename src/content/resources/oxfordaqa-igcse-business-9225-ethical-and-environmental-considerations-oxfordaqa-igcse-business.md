@@ -43,6 +43,16 @@ Ethics is about doing what is morally right, beyond what the law requires. The s
 
 **Charitable giving** includes donating money or products, sponsoring local events and giving staff paid time to volunteer. It builds goodwill in the community, but every dollar donated is a dollar less profit for the owners.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-ethical-and-environmental-considerations-oxfordaqa-igcse-business--01-ethics-by-stakeholder.webp" width="900" height="740" alt="Five stakeholders with what fair and honest behaviour looks like and what unethical behaviour looks like: employees (fair pay versus unpaid hours), customers (truthful labelling versus hidden charges), suppliers (paying on time versus delaying payment), the local community and owners (accurate reporting versus hiding problems)." loading="lazy">
+  <figcaption>Analyse an ethical issue by asking which stakeholder is affected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-ethical-and-environmental-considerations-oxfordaqa-igcse-business--02-observance-and-giving.webp" width="900" height="670" alt="Religious observance, such as prayer rooms, adjusted shifts, closing on holy days and suitable food, helps keep staff and customers but costs rearranged rotas or trading hours. Charitable giving, through donations, sponsorship and volunteering time, builds goodwill but reduces profit." loading="lazy">
+  <figcaption>Each ethical choice brings a benefit and a cost to the business.</figcaption>
+</figure>
+
 ## The trade-off between ethics and profit
 
 A **trade-off** means gaining one thing by giving up some of another. Ethical behaviour often costs money now, while its benefits come later and are less certain.
@@ -65,6 +75,16 @@ Price rise per bag to cover the cost = $30,000 / 200,000 = $0.15
 
 Profit falls by a third unless Tamarind can raise its price. Whether customers will pay 15 cents more per bag depends on how much they value ethical sourcing and how close rival prices are. A strong answer weighs the certain cost against the uncertain gain in loyalty and reputation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-ethical-and-environmental-considerations-oxfordaqa-igcse-business--03-ethics-profit-tradeoff.webp" width="900" height="710" alt="Drawbacks of ethical behaviour are certain and immediate: higher costs, lower margins, being undercut by rivals and benefits that are hard to measure. Benefits come later and are less certain: reputation and loyalty, a higher price, easier recruitment and less risk of boycotts." loading="lazy">
+  <figcaption>Ethics costs money now for benefits that arrive later and are less certain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-ethical-and-environmental-considerations-oxfordaqa-igcse-business--04-tamarind-fair-price.webp" width="900" height="740" alt="Paying growers $4.60 instead of $4.00 a kg on 50,000 kg adds $30,000 a year, cutting profit from $90,000 to $60,000 if nothing else changes. Covering it would need a price rise of $0.15 on each of 200,000 bags." loading="lazy">
+  <figcaption>A fair price for growers cuts profit by a third unless customers pay 15 cents more.</figcaption>
+</figure>
+
 ## Environmental considerations
 
 Customers, local communities and governments increasingly expect businesses to take responsibility for their effect on the environment. The specification names four areas.
@@ -75,6 +95,11 @@ Customers, local communities and governments increasingly expect businesses to t
 - **Noise and air pollution:** machinery, vehicles and late-night working disturb neighbours; fumes affect health. Quieter equipment, cleaner vehicles and limited working hours reduce complaints but cost money.
 
 **Costs and benefits of environmental responsibility.** Costs include new equipment, staff time, higher-priced materials and changed working practices. Benefits include lower waste and energy bills, an improved reputation, customers who choose green businesses, and fewer complaints from the community.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-ethical-and-environmental-considerations-oxfordaqa-igcse-business--05-environmental-areas.webp" width="900" height="770" alt="Four areas, each with its problem and a business response: traffic congestion (deliver outside rush hours), recycling (reduces waste but takes time and space), waste disposal (reduce packaging) and noise and air pollution (quieter equipment, cleaner vehicles). Costs include equipment and staff time; benefits include lower bills and a better reputation." loading="lazy">
+  <figcaption>Each environmental issue has a fix, and each fix has a cost and a benefit.</figcaption>
+</figure>
 
 ## Sustainability
 
@@ -92,6 +117,16 @@ Payback period = cost of investment / annual saving
 
 In the short term, profit falls, because $24,000 is spent before any saving arrives. Over the long term, the system pays for itself after 6 years and then saves $4,000 a year, as well as cutting emissions. For a business that is short of cash, or unsure it will still occupy the building in six years, the trade-off may not be worth it; for a stable business, it probably is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-ethical-and-environmental-considerations-oxfordaqa-igcse-business--06-sustainability-issues.webp" width="900" height="650" alt="Global warming comes from burning fossil fuels; businesses can use renewable energy, efficient machinery and lower-emission vehicles. Scarce resources such as water, timber and metals can be used less, replaced with renewable or recycled materials, or saved by products that last longer." loading="lazy">
+  <figcaption>Sustainable businesses cut emissions and use scarce resources more carefully.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-ethical-and-environmental-considerations-oxfordaqa-igcse-business--07-larkspur-payback.webp" width="900" height="865" alt="Bars show cumulative gas savings of $4,000 a year rising past the $24,000 installation cost in year 6, so payback is $24,000 ÷ $4,000 = 6 years. After that the system saves $4,000 a year." loading="lazy">
+  <figcaption>Solar heating costs profit now and pays back after six years.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - Treating ethical behaviour as free: the specification asks you to identify a trade-off with profit.
@@ -103,6 +138,11 @@ In the short term, profit falls, because $24,000 is spent before any saving arri
 ## Exam technique for this section
 
 **Explain** questions want a point and its effect on the named business: "Recycling cardboard reduces waste collection charges, which lowers costs." **Analyse** questions want a chain that includes the trade-off: the action, its cost, its benefit, and what happens to profit. **Evaluate** questions want both sides and a judgement that depends on something in the case, such as how price-sensitive customers are, how large the cost is compared with profit, or how long the benefit takes to arrive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-ethical-and-environmental-considerations-oxfordaqa-igcse-business--08-analyse-evaluate-chain.webp" width="900" height="840" alt="An analysis chain for Tamarind: the action (pay growers $4.60 a kg), its cost ($30,000 a year), its benefit (loyalty and reputation) and the effect on profit (down to $60,000 unless the price rises 15 cents). Evaluation depends on price sensitivity, the size of the cost and how long the benefit takes." loading="lazy">
+  <figcaption>Action, cost, benefit, profit: then judge what the answer depends on.</figcaption>
+</figure>
 
 ## Related resources
 

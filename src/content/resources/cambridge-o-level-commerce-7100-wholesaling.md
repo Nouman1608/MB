@@ -51,6 +51,16 @@ A **wholesaler** buys goods in large quantities from manufacturers (or importers
 
 **Keeping supplies and prices steady.** By storing goods when supply is plentiful and releasing them when it is short, for example with seasonal crops, a wholesaler can make supplies more regular through the year and reduce sudden price changes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--01-breaking-bulk.webp" width="900" height="535" alt="A manufacturer sells biscuits by the pallet of 2,000 packets; the wholesaler splits the pallet into cases; a corner shop buys perhaps 48 packets." loading="lazy">
+  <figcaption>Breaking bulk lets small retailers buy from large producers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--02-wholesaler-functions.webp" width="900" height="570" alt="Nine tiles: breaking bulk, warehousing, bearing risk, financing, transport, providing a range, information and advice, preparing goods for sale, and keeping supplies and prices steady." loading="lazy">
+  <figcaption>Name the function, then explain why it matters to the manufacturer or retailer in the question.</figcaption>
+</figure>
+
 ## Why the wholesaler is important to each side
 
 | To the manufacturer | To the retailer |
@@ -62,6 +72,11 @@ A **wholesaler** buys goods in large quantities from manufacturers (or importers
 | Reaches thousands of retailers it could not contact itself | Gets advice on new products and displays |
 | Receives market information from retailers | Can keep prices steadier for customers |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--03-importance-each-side.webp" width="900" height="690" alt="Six benefits to the manufacturer, such as large orders, saved storage, removed risk and prompt payment, and six to the retailer, such as small quantities, quick restocking, wide choice, credit and advice." loading="lazy">
+  <figcaption>The manufacturer and the retailer gain different things from the same wholesaler.</figcaption>
+</figure>
+
 ## Worked example 1: fewer transactions
 
 *Invented figures.* Five manufacturers each supply twenty small shops.
@@ -71,9 +86,19 @@ A **wholesaler** buys goods in large quantities from manufacturers (or importers
 
 The wholesaler cuts the number of transactions by 75, which lowers transport, paperwork and administration costs across the chain. This is a strong point to use when a question asks why a wholesaler is still useful.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--04-fewer-transactions.webp" width="900" height="815" alt="Five manufacturers and twenty shops. Without a wholesaler every manufacturer deals with every shop: 5 × 20 = 100 sets of orders, deliveries and invoices. With a wholesaler each deals only with it: 5 + 20 = 25 sets, 75 fewer." loading="lazy">
+  <figcaption>Multiplying becomes adding: 100 transactions fall to 25 when a wholesaler sits in the middle.</figcaption>
+</figure>
+
 ## Why the independent wholesaler faces pressure
 
 Large supermarket chains and multiple stores often buy **direct from manufacturers**, using their own regional warehouses. Manufacturers can also sell direct to consumers online. Both routes cut out the wholesaler and its profit margin. The syllabus asks how independent wholesalers survive despite this.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--12-o-wholesaler-survival.webp" width="900" height="1040" alt="Top panel: a retailer with a trolley collects goods from a cash and carry warehouse and pays immediately. There is no credit and no delivery, so prices are lower. Bottom panel: a wholesaler supplies four independently owned shops that buy most of their stock from it and share a brand name and joint promotions, giving lower prices." loading="lazy">
+  <figcaption>Cash and carry and voluntary chains are the two ways independent wholesalers survive.</figcaption>
+</figure>
 
 ## Cash and carry
 
@@ -92,6 +117,11 @@ A **cash and carry** is a large self-service wholesale warehouse. Retailers and 
 
 The cash and carry saves $15, but the shopkeeper must pay at once and lose a morning travelling. A shop short of cash might prefer the delivered wholesaler's credit despite the higher price.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--05-cash-and-carry-comparison.webp" width="900" height="565" alt="Delivered wholesaler: 50 cases × $12.00 = $600 with free delivery and 30 days’ credit. Cash and carry: 50 × $11.20 = $560 plus $25 own transport = $585, paid at once. Cash and carry saves $15." loading="lazy">
+  <figcaption>Cash and carry is $15 cheaper here, but the shop pays at once and gives up a morning (invented figures).</figcaption>
+</figure>
+
 ## Voluntary chains
 
 A **voluntary chain** is formed when a wholesaler and a group of independent retailers agree that the retailers will buy most of their stock from that wholesaler. The shops trade under a **common name and logo**, share **joint advertising and promotions**, and may receive help with shop layout and training. Each shop is still **independently owned**.
@@ -100,11 +130,21 @@ A **voluntary chain** is formed when a wholesaler and a group of independent ret
 - **Benefits to the wholesaler:** a guaranteed, regular flow of orders from loyal customers, so it can plan stock and compete with the chains' direct buying.
 - **Drawbacks to retailers:** less freedom over which products to stock; a fee or a minimum purchase agreement may apply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--06-voluntary-chain.webp" width="900" height="620" alt="A wholesaler supplies a group of independent shops that trade under a common name and logo, with joint advertising and help with layout and training. Retailers gain lower prices and a recognised name; the wholesaler gains regular orders; retailers lose some freedom and may pay a fee." loading="lazy">
+  <figcaption>A voluntary chain gives independent shops chain-store buying power while they stay independently owned.</figcaption>
+</figure>
+
 ## Annotated model answer
 
 *Original question:* "Discuss whether the wholesaler is still needed by small retailers." (6 marks)
 
 > Small retailers buy only a few cases at a time, so they rely on the wholesaler to break bulk (point); without it, they could not buy from manufacturers that sell only by the pallet (development). Wholesalers also give credit and delivery, helping cash flow (point). However, some small shops now order direct from manufacturers' websites (counter-point), and large online platforms deliver small quantities too (counter-point). On balance, the wholesaler is still needed, especially through cash and carry and voluntary chains, because these offer prices and services that let small retailers compete with large chains (judgement).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--07-discuss-structure.webp" width="900" height="500" alt="Points for the wholesaler (breaking bulk, credit and delivery) are weighed against counter-points (ordering direct from manufacturers’ websites, online platforms delivering small quantities) to reach a judgement: still needed, especially through cash and carry and voluntary chains." loading="lazy">
+  <figcaption>Points, counter-points, then a judgement linked to small retailers.</figcaption>
+</figure>
 
 ## Common mistakes
 

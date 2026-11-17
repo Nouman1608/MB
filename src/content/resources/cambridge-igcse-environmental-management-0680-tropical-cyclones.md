@@ -29,6 +29,11 @@ Sub-topic 6.2 of Cambridge IGCSE Environmental Management (0680, 2027-2029) has 
 
 The syllabus says "tropical cyclones: storms, hurricanes and typhoons". These are the same kind of weather system with different regional names. **Hurricane** is used over the North Atlantic and the north-east Pacific, **typhoon** over the north-west Pacific, and **cyclone** over the Indian Ocean and South Pacific. Weaker systems are called tropical storms. If a question uses any of these names, the same formation conditions and management strategies apply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--01-latitude-and-names.webp" width="900" height="800" alt="A schematic latitude band, not a map. Tropical cyclones form between 5° and 30° north and south of the Equator; closer than 5° the air does not spin and beyond about 30° the sea is usually too cool. The same storm is called a hurricane over the North Atlantic and north-east Pacific, a typhoon over the north-west Pacific and a cyclone over the Indian Ocean and South Pacific." loading="lazy">
+  <figcaption>Between 5° and 30° of the Equator; hurricane, typhoon and cyclone are the same storm.</figcaption>
+</figure>
+
 ## Where and why they form (6.2.1 b to d)
 
 Learn the three numerical conditions exactly as the syllabus gives them:
@@ -42,6 +47,16 @@ Learn the three numerical conditions exactly as the syllabus gives them:
 **How the storm grows.** Warm, moist air rises from the sea surface, creating very low pressure. As the air rises it cools and the water vapour condenses into towering clouds, releasing heat that warms the air and makes it rise faster. More air is drawn in across the sea surface, and the Earth's rotation makes it spiral. A calm, cloud-free **eye** forms at the centre, surrounded by a wall of the strongest winds and heaviest rain.
 
 **How the storm dies.** Once the cyclone moves over land or cooler water, it loses its supply of warm, moist air. Friction with the land also slows the winds. This explains why coastal areas suffer most and why damage falls inland, though heavy rain can still cause floods far from the coast.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--02-three-conditions.webp" width="900" height="705" alt="Three cards give the syllabus values: latitude between 5° and 30° north or south, ocean temperature at least 27 °C and a warm layer at least 60 m deep. A cross-section shows a warm surface layer at least 60 m deep over cooler water below." loading="lazy">
+  <figcaption>Learn the numbers: 5° to 30°, at least 27 °C, at least 60 m.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--03-growth-and-decay.webp" width="900" height="815" alt="A schematic cross-section over warm sea. Warm, moist air rises, creating very low pressure; it cools and condenses into towering clouds, releasing heat that drives faster rising; more air is drawn in and spirals because of Earth’s rotation, around a calm, clear eye. Over land the storm loses its supply of warm, moist air and friction slows it." loading="lazy">
+  <figcaption>Warm sea feeds rising, condensing air; over land the supply is cut and the storm weakens.</figcaption>
+</figure>
 
 ## Impacts on people and the environment (6.2.2)
 
@@ -60,6 +75,16 @@ The syllabus lists ten impacts. The three physical processes behind them are **s
 
 Make the chains clear. For example: storm surge → sea water floods farmland → salt left in the soil → crops fail for more than one season → food shortages and lost income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--04-three-processes-ten-impacts.webp" width="900" height="780" alt="Strong winds, heavy rainfall and storm surge drive the ten syllabus impacts: damage to buildings and infrastructure, loss of crops, livestock and habitats, evacuation, flooding, landslides, contaminated drinking water, water-related disease, financial losses and human health. An example chain: storm surge floods farmland, leaves salt in the soil, crops fail for more than one season, causing food shortages and lost income." loading="lazy">
+  <figcaption>Link every impact to wind, rain or storm surge, then follow the chain to people.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--18-h-storm-surge.webp" width="900" height="700" alt="A cross-section from sea to low coast. Strong wind and low pressure raise the sea surface above normal sea level, and this storm surge flows onto the low coast and floods it. The lesson says this is often the cause of the greatest loss of life." loading="lazy">
+  <figcaption>A storm surge is a rise in sea level driven by wind and low pressure.</figcaption>
+</figure>
+
 ## Managing the impacts (6.2.3)
 
 The syllabus lists seven strategies. Note that, unlike the earthquake and flood lists, **land use zoning is not one of them** for cyclones.
@@ -76,6 +101,11 @@ The syllabus lists seven strategies. Note that, unlike the earthquake and flood 
 **After the cyclone**
 - **Rebuilding of damaged areas**, ideally to stronger standards.
 - **International aid**: money, food, temporary housing, water purification and medical teams from other countries and organisations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--05-before-during-after.webp" width="900" height="715" alt="Before the cyclone: monitoring and warning, stronger building structure and disaster preparation. During: evacuation and shelters, such as Bangladesh’s raised cyclone shelters. After: rebuilding to stronger standards and international aid. The strategies depend on each other, and land use zoning is not one of the cyclone strategies." loading="lazy">
+  <figcaption>Prepare before, protect people during, rebuild and receive aid after.</figcaption>
+</figure>
 
 ## Discussing the strategies (6.2.4)
 
@@ -108,6 +138,11 @@ The data are invented. Which ocean location could produce a tropical cyclone?
 - D: warm layer shallower than 60 m. No.
 
 Only location B meets all three conditions. In the exam, state the condition each location fails, using the syllabus number.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--06-which-location.webp" width="900" height="595" alt="A checklist grid for four invented ocean locations. A at 2° N fails latitude. B at 15° S, 28 °C and 90 m meets all three conditions. C fails with sea at 25 °C. D fails because its warm layer is only 40 m deep." loading="lazy">
+  <figcaption>Only location B meets all three conditions; name the condition each other one fails.</figcaption>
+</figure>
 
 ## Worked example 2: annotated "discuss" answer
 

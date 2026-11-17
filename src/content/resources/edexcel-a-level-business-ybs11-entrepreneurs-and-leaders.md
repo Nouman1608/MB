@@ -48,9 +48,24 @@ An entrepreneur spots an opportunity, organises the resources to exploit it and 
 
 **Anticipating risk and uncertainty.** Entrepreneurs reduce risk by researching the market, writing a business plan, starting small and testing before committing large sums. They cannot remove uncertainty, so they also need financial reserves and flexibility, such as renting rather than buying equipment at first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--01-entrepreneur-role.webp" width="900" height="770" alt="Three stages of the entrepreneur’s role: create and set up (spot a gap, test, raise finance), run the business (day-to-day decisions, often harder than start-up) and expand or develop (new products or markets, employ managers and delegate). Below, intrapreneurship: an employee innovating inside an existing firm, which gains innovation while the employee gains freedom with less risk." loading="lazy">
+  <figcaption>The role shifts from creating to running to delegating; intrapreneurs innovate from inside.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--02-barriers-and-risk.webp" width="900" height="700" alt="Five barriers to entrepreneurship: finance without a track record, lack of experience, regulations, established rivals with brand loyalty and scale, and personal financial risk. Risk is reduced by research, a business plan, starting small and testing; uncertainty cannot be removed, so entrepreneurs keep reserves and flexibility." loading="lazy">
+  <figcaption>Research and planning reduce risk; reserves and flexibility help with uncertainty.</figcaption>
+</figure>
+
 ## Characteristics and skills
 
 Commonly cited characteristics are determination and resilience, willingness to take calculated risks, creativity and initiative, and self-confidence. Useful skills include planning, communication, financial understanding, selling and the ability to build a team. In an exam, link a characteristic to a specific situation in the source: resilience matters when early sales disappoint; communication matters when persuading a bank or a supplier.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--03-characteristics-and-skills.webp" width="900" height="640" alt="Characteristics (determination and resilience, calculated risk-taking, creativity and initiative, self-confidence) and skills (planning, communication, financial understanding, selling, team building). Each should be linked to a case: resilience matters when early sales disappoint; communication matters when persuading a bank or supplier." loading="lazy">
+  <figcaption>Link a characteristic to the moment in the case when it matters.</figcaption>
+</figure>
 
 ## Why people set up businesses
 
@@ -65,6 +80,11 @@ Commonly cited characteristics are determination and resilience, willingness to 
 
 Satisficing is common in small businesses. An owner who could earn more by opening seven days a week, but chooses five to protect family time, is satisficing. This is a rational choice, not a failure: the owner values the time more than the extra profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--04-entrepreneur-motives.webp" width="900" height="780" alt="Motives split into financial (profit maximisation and profit satisficing) and non-financial (ethical stance, social entrepreneurship, independence and home working). An owner who opens five days instead of seven to protect family time is satisficing, a rational choice." loading="lazy">
+  <figcaption>Not every owner maximises profit: many satisfice or have non-financial aims.</figcaption>
+</figure>
+
 ## Business objectives
 
 **Survival** is the main objective for a new business, or for any business in a crisis: covering costs and keeping enough cash to pay bills. **Profit maximisation** follows once a business is established and has the capacity to grow. The other objectives in the specification can compete with profit:
@@ -77,6 +97,11 @@ Satisficing is common in small businesses. An owner who could earn more by openi
 - **Social objectives** address community or environmental aims, such as local sourcing.
 
 Which objectives a business chooses depends on its size and stage of development, its ownership (a sole trader may satisfice, while shareholders may press for profit), the state of the market and the economy, and the values of its leaders.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--05-business-objectives.webp" width="900" height="786" alt="Survival comes first for a new business or one in crisis, then profit maximisation once established. Six other objectives can compete with profit: sales maximisation, market share, cost efficiency, employee welfare, customer satisfaction and social objectives. The choice depends on size and stage, ownership, the market and economy and leaders’ values." loading="lazy">
+  <figcaption>Objectives change with the business’s stage, and most compete with profit.</figcaption>
+</figure>
 
 ## Opportunity cost and trade-offs
 
@@ -103,6 +128,16 @@ Contribution after = 240,000 x ($1.10 - $0.80) = $72,000 a month
 ```
 
 Sales volume rises by 20%, but contribution falls by $8,000 a month. The dairy is trading short-term profit for market share. Whether that is wise depends on whether the larger share brings later gains, such as lower unit costs or the power to raise prices again.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--06-amara-opportunity-cost.webp" width="900" height="799" alt="Amara gives up a $38,000 salary and $1,000 interest (4% on $25,000 savings), an opportunity cost of $39,000. Her studio makes $30,000 in year one, leaving her $9,000 worse off in money terms than staying employed." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up: here $39,000 against $30,000 profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--07-kessington-trade-off.webp" width="900" height="879" alt="Two rectangles show contribution. Now: 200,000 litres × $0.40 ($1.20 − $0.80) = $80,000 a month. After a price cut to $1.10: 240,000 litres × $0.30 = $72,000. Sales rise 20% but contribution falls $8,000 a month." loading="lazy">
+  <figcaption>A wider, flatter rectangle: more litres, less contribution.</figcaption>
+</figure>
 
 ## Common mistakes
 

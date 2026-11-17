@@ -52,6 +52,11 @@ The words "billions" in both statements are deliberate: an answer that
 says a galaxy is "a group of stars" or the universe is "lots of galaxies"
 may not earn full credit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-motion-in-the-universe--01-scale-of-the-universe.webp" width="900" height="630" alt="Four panels in order of size: a planet such as Earth orbiting a star; the solar system of the Sun with its planets, moons, dwarf planets, asteroids and comets; a galaxy of billions of stars, our Milky Way, with our solar system marked; and the universe of billions of galaxies." loading="lazy">
+  <figcaption>Planet, solar system, galaxy, universe: each is part of the next.</figcaption>
+</figure>
+
 ## Why g varies (8.3)
 
 Gravitational field strength g is the gravitational force on each
@@ -71,6 +76,11 @@ stay in orbit rather than drifting away.
 
 So the same object has the **same mass** everywhere, but its **weight**
 (W = m × g) is different on each planet and on the Moon.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-motion-in-the-universe--02-why-g-varies.webp" width="900" height="900" alt="A bar chart of g at the surface: about 1.6 N/kg on the Moon, about 10 N/kg on Earth and about 25 N/kg at Jupiter's cloud tops. g is larger for more massive bodies and smaller further from the centre, so it falls a little at a mountain top and much more at a distant satellite, but is never zero." loading="lazy">
+  <figcaption>g depends on the mass of the planet and the distance from its centre.</figcaption>
+</figure>
 
 ## Gravity causes orbits (8.4)
 
@@ -93,6 +103,11 @@ towards the centre, even at a steady speed. If gravity suddenly
 disappeared, the body would fly off in a straight line along the
 direction it was moving at that instant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-motion-in-the-universe--03-gravity-causes-orbits.webp" width="900" height="770" alt="A body on a circular orbit has its velocity along the tangent and the gravitational force pointing to the centre, at 90 degrees to the velocity. A dashed line shows it would travel in a straight line if gravity vanished. Below: a moon orbits a planet, a planet and a comet orbit the Sun, and a satellite orbits the Earth, each pulled by the gravity of the larger body." loading="lazy">
+  <figcaption>Gravity towards the centre changes the direction of motion, so the body keeps orbiting.</figcaption>
+</figure>
+
 ## Comparing orbits (8.5)
 
 | Feature | Planets | Moons | Comets |
@@ -113,6 +128,16 @@ Sun, the weaker the Sun's gravitational field there, so the planet moves
 more slowly and, with a longer path to travel, takes much longer to
 complete an orbit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-motion-in-the-universe--04-comparing-orbits.webp" width="900" height="905" alt="A planet orbits the Sun and a moon orbits a planet, both on nearly circular paths. A comet orbits the Sun on a highly elliptical path; its velocity arrow is long where it is closest to the Sun, where it moves fastest, and short at the far end, where it moves slowest." loading="lazy">
+  <figcaption>Planet and moon orbits are nearly circular; comet orbits are highly elliptical.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-motion-in-the-universe--05-comet-energy.webp" width="900" height="820" alt="A comet on a highly elliptical orbit. Moving towards the Sun, gravity does work and gravitational potential energy is transferred to kinetic energy, so it speeds up; moving away, kinetic energy is transferred back and it slows down. Illustrative bars show large GPE and small KE far away, and the reverse at the closest point." loading="lazy">
+  <figcaption>Falling towards the Sun turns GPE into KE, so the comet is fastest at its closest point.</figcaption>
+</figure>
+
 ## Orbital speed (8.6)
 
 In one orbit the body travels the circumference of a circle, 2πr, in one
@@ -127,6 +152,11 @@ v = 2πr / T
 - v is in m/s.
 
 Rearranged: **T = 2πr / v** and **r = vT / 2π**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-motion-in-the-universe--06-orbital-speed-equation.webp" width="900" height="670" alt="A circular orbit of radius r measured from the centre. In one time period T the body travels the circumference 2πr, so v = 2πr / T, which rearranges to T = 2πr / v and r = vT / 2π. v is in m/s, r in m and T in s; a time in days is multiplied by 86 400 to give seconds." loading="lazy">
+  <figcaption>Orbital speed is one circumference, 2πr, divided by one time period, T.</figcaption>
+</figure>
 
 ## Worked examples
 
@@ -158,6 +188,11 @@ from the Sun changes [1]. As it moves towards the Sun, the Sun's
 gravitational force speeds it up: gravitational potential energy is
 transferred to kinetic energy [1]. Its kinetic energy, and so its speed,
 is therefore greatest at the closest point [1].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-motion-in-the-universe--07-orbital-speed-worked.webp" width="900" height="690" alt="The Moon: T = 27.3 × 86 400 = 2.36 × 10⁶ s, so v = 2π × 3.84 × 10⁸ / 2.36 × 10⁶ = 1.02 × 10³ m/s. Mars: T = 687 × 86 400 = 5.94 × 10⁷ s, so v = 2π × 2.28 × 10¹¹ / 5.94 × 10⁷ = 2.4 × 10⁴ m/s, slower than Earth's 3.0 × 10⁴ m/s." loading="lazy">
+  <figcaption>Convert days to seconds first; Mars, further out, moves more slowly than Earth.</figcaption>
+</figure>
 
 ## Common mistakes
 

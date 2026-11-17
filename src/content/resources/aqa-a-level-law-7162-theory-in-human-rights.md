@@ -87,6 +87,16 @@ These theories ask what having a right means.
 The Convention fits the interest theory better: Article 2 protects the life of a person who cannot
 choose, and some rights, such as freedom from torture, cannot be waived.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-human-rights--01-where-rights-come-from.webp" width="900" height="598" alt="Three theories of where rights come from. Natural rights exist because people are human (Locke, Paine, the UDHR’s inherent dignity): a standard to criticise unjust law, but with no agreed list. Positivism says rights come from law (Bentham; Hart’s minimum content of natural law): enforceable, but removable by the state. Dworkin’s rights as trumps override collective goals and protect minorities, but give judges a large role." loading="lazy">
+  <figcaption>Natural rights, positivism and trumps each answer the source question differently.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-human-rights--02-will-interest.webp" width="900" height="461" alt="Will theory (Hart): a right gives control to enforce or waive another’s duty, but struggles with young children, people lacking capacity and unwaivable rights. Interest theory (Raz): well-being is sufficient reason to impose a duty, but risks treating every interest as a right. The Convention fits the interest theory: Article 2 protects those who cannot choose, and freedom from torture cannot be waived." loading="lazy">
+  <figcaption>The Convention protects people who cannot choose, so interest theory fits it better.</figcaption>
+</figure>
+
 ## Rights contrasted with liberties
 
 ### Hohfeld's analysis
@@ -123,6 +133,16 @@ interference) with **positive liberty** (the capacity to act and control one's l
 political rights such as Article 10 mostly protect negative liberty, while positive obligations and
 social rights move towards positive liberty.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-human-rights--03-hohfeld.webp" width="900" height="655" alt="Hohfeld’s four positions and their correlatives: claim-right and duty (a right to be paid, a duty to pay); liberty and no-right (free to walk on public land, no right to stop it); power and liability (making a will); immunity and disability (the state lacks power to remove a protected status). A claim-right imposes a duty on another; a liberty does not." loading="lazy">
+  <figcaption>A right puts a duty on someone else; a liberty does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-human-rights--04-liberty-vs-right.webp" width="900" height="591" alt="Before 1998 the UK relied on residual liberties: anything not forbidden was allowed, which Dicey thought the ordinary courts protected well. But the state could also do anything not forbidden: in Malone, telephone tapping was lawful and Mr Malone had no right of privacy. A right places a duty on the state to justify interference. Berlin contrasted negative liberty (freedom from interference) with positive liberty (capacity to act)." loading="lazy">
+  <figcaption>A liberty gave Malone nothing to assert; a right makes the state justify itself.</figcaption>
+</figure>
+
 ## The scope of "fundamental human" rights
 
 The specification's phrase invites the question: which rights are fundamental, who has them, and against
@@ -154,6 +174,11 @@ Rights belong to individuals, but the Convention lets companies, groups and non-
 organisations bring some claims; **Sunday Times v UK (1979)** was brought by a newspaper publisher.
 Rights are held mainly **against the state**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-human-rights--05-generations-scope.webp" width="900" height="809" alt="Vasak’s three generations: civil and political rights (life, liberty, expression), where the ECHR mainly sits; economic, social and cultural rights (work, health, education); and collective rights (development, environment). Universality (Vienna Declaration 1993) is set against cultural relativism. Below: the hierarchy of rights, conflicts between rights, responsibilities in Article 10.2, and who holds rights (Sunday Times v UK)." loading="lazy">
+  <figcaption>The ECHR covers mainly first-generation rights, held mainly against the state.</figcaption>
+</figure>
+
 ## Annotated plan: "Discuss the view that human rights are no more than liberties granted by law."
 
 ```
@@ -172,6 +197,11 @@ Point 5       Scope: absolute rights such as Article 3 cannot be reduced to
 Conclusion    Reasoned judgement, e.g. legal recognition is needed to enforce
               rights, but their justification is moral, not legal.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-human-rights--06-essay-plan.webp" width="900" height="799" alt="Seven steps in the essay plan: define right and liberty using Hohfeld; positivist support from Bentham and the HRA; natural rights against (Locke, UDHR); the failure of residual liberties in Malone; Dworkin’s trumps; absolute rights such as Article 3; and a conclusion that legal recognition enforces rights but their justification is moral." loading="lazy">
+  <figcaption>Define, argue both ways with theorists and cases, then judge.</figcaption>
+</figure>
 
 ## Common mistakes
 

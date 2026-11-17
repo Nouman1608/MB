@@ -58,6 +58,16 @@ This guide covers the **Law making: the European Union** row of AQA A-level Law 
   - **enforcement actions** against member states brought by the Commission;
   - reviewing the legality of acts of the EU institutions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-the-european-union--01-eu-institutions.webp" width="900" height="758" alt="The Commission proposes legislation; the Parliament, directly elected, and the Council, of national ministers, adopt it together under the ordinary legislative procedure; the Court of Justice, with one judge per state and Advocates General, interprets and enforces the law. The European Council of heads of government sets direction but does not legislate." loading="lazy">
+  <figcaption>The Commission proposes, Parliament and Council decide, the Court interprets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-the-european-union--02-preliminary-ruling.webp" width="900" height="393" alt="A national court facing a question on EU law refers it to the Court of Justice, which interprets the law; the national court then applies the ruling to the facts. Under CILFIT a court of final appeal must normally refer unless the answer is clear or settled; Bulmer v Bollinger gave Lord Denning’s guidelines for English courts." loading="lazy">
+  <figcaption>The CJEU decides what EU law means; the national court decides the case.</figcaption>
+</figure>
+
 ## The sources of EU law
 
 ### Treaties
@@ -86,6 +96,21 @@ When a state fails to implement a directive properly:
 | Purpose | Uniform rules | Harmonised outcomes, flexible method |
 | Example | Tachograph regulation | Working Time Directive |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-the-european-union--03-direct-effect.webp" width="900" height="566" alt="Two scenes. Treaty articles have vertical direct effect against the state and horizontal direct effect against private parties, as in Defrenne v Sabena and Macarthys v Smith. Directives have vertical direct effect against the state or its emanations (Marshall; Foster v British Gas) but no horizontal direct effect (Faccini Dori)." loading="lazy">
+  <figcaption>Treaty articles work against anyone; directives only against the state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-the-european-union--04-regulation-directive.webp" width="900" height="610" alt="A regulation passes automatically into the law of every member state: binding entirely and directly applicable, as Leonesio shows. A directive is binding as to the result, and each state implements it in its own way by a deadline, as the UK did for the Working Time Directive with the Working Time Regulations 1998." loading="lazy">
+  <figcaption>Regulations need no national law; directives must be implemented.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-the-european-union--05-directive-not-implemented.webp" width="900" height="419" alt="When a state fails to implement a directive: an individual may rely on it against the state or an emanation of the state (Marshall; Foster v British Gas); against a private party there is no horizontal direct effect (Faccini Dori), but national law must be read in its light (Von Colson; Marleasing); and loss may be claimed from the state (Francovich)." loading="lazy">
+  <figcaption>Vertical direct effect, indirect effect and state liability fill the gap a missing directive leaves.</figcaption>
+</figure>
+
 ## The impact of EU law on the law of England and Wales
 
 ### During membership (1973 to 2020)
@@ -103,6 +128,11 @@ When a state fails to implement a directive properly:
 - The **Retained EU Law (Revocation and Reform) Act 2023** renamed it **assimilated law** from 1 January 2024 and ended the principle of supremacy of EU law and the general principles of EU law for this body of law.
 - The Court of Appeal and the Supreme Court can depart from retained EU case law, and UK courts are no longer bound by new CJEU decisions.
 - **Lasting effect:** much of English employment, consumer and equality law still has EU origins, and the purposive approach remains dominant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-the-european-union--06-eu-impact-timeline.webp" width="900" height="778" alt="A timeline: the European Communities Act 1972 gave EU law effect; Factortame (1990) disapplied an Act; the Withdrawal Act 2018 repealed the 1972 Act from exit day, 31 January 2020; EU-derived law was retained at the end of 2020; and from 1 January 2024 it became assimilated law under the 2023 Act, ending supremacy. During membership EU law shaped interpretation and substantive rights; after withdrawal the senior courts may depart from retained case law." loading="lazy">
+  <figcaption>EU law was supreme during membership; what remains is now ordinary assimilated law.</figcaption>
+</figure>
 
 ## Worked example: an annotated paragraph
 

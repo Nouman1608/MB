@@ -40,6 +40,16 @@ For centuries, medicine in Britain rested on ideas such as the Four Humours and 
 
 **Impact on treatment in Britain.** Germ theory did not change treatment overnight. Many British doctors were slow to accept it, and few new cures existed before the twentieth century. Most people still relied on **everyday remedies**: home cures, herbal medicines, and **patent medicines** sold by chemists and travelling sellers, often with exaggerated claims. Doctors cost money, so the poor used them rarely. Germ theory's main early impact was on **prevention**: it gave scientific support to cleaning up water and sewage, and to hygiene in hospitals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-health-revolution-in-medicine--01-germ-theory-timeline.webp" width="900" height="766" alt="Vertical timeline from 1861 to 1909: Pasteur's germ theory, Koch's identification of anthrax, tuberculosis and cholera bacteria, Pasteur's vaccines for chicken cholera, anthrax and rabies, and Ehrlich's Salvarsan in 1909, colour-coded by team." loading="lazy">
+  <figcaption>Germ theory came first; the first chemical cure did not arrive until 1909.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-health-revolution-in-medicine--02-swan-necked-flask.webp" width="900" height="858" alt="A round flask of broth with a long S-shaped neck. Microbes from the air are caught in the curve of the neck and never reach the broth, which stays sterile. Below, the old idea of spontaneous generation is contrasted with Pasteur's germ theory of 1861." loading="lazy">
+  <figcaption>If microbes cannot reach the liquid, it does not decay: decay comes from germs in the air.</figcaption>
+</figure>
+
 ## A revolution in surgery
 
 At the start of the century surgeons faced three problems: **pain**, **infection** and **blood loss**. Operations had to be fast, and many patients died of shock or infection afterwards.
@@ -51,6 +61,16 @@ At the start of the century surgeons faced three problems: **pain**, **infection
 **Aseptic surgery.** From the 1880s surgeons moved from killing germs during operations (antiseptic) to keeping them out altogether (**aseptic**): instruments were sterilised with steam, theatres were scrubbed, and surgeons wore gowns, masks and, from the 1890s, rubber gloves.
 
 **Surgical procedures.** With pain and infection controlled, surgeons could operate inside the body. In 1902 King Edward VII's coronation was postponed so that his appendix abscess could be operated on, a sign of how routine such surgery had become. Blood loss remained a problem until blood groups and storage were developed in the twentieth century.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-health-revolution-in-medicine--03-three-problems-of-surgery.webp" width="900" height="556" alt="Table of the three problems of surgery. Pain was tackled by anaesthetics (ether 1846, Simpson's chloroform 1847); infection by Lister's antiseptics (1865) and later aseptic methods; blood loss remained unsolved until the twentieth century." loading="lazy">
+  <figcaption>Pain and infection were solved in the nineteenth century; blood loss was not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-health-revolution-in-medicine--04-black-period-to-aseptic.webp" width="900" height="642" alt="A chain from anaesthetics to the black period of infection, then Lister's antiseptics and aseptic surgery from the 1880s. Below, antiseptic methods kill germs during the operation, while aseptic methods keep them out altogether." loading="lazy">
+  <figcaption>Antiseptic surgery kills germs; aseptic surgery keeps them out.</figcaption>
+</figure>
 
 ## Improvements in public health
 
@@ -73,6 +93,16 @@ At the start of the century surgeons faced three problems: **pain**, **infection
 | Context | Cholera of 1848; Chadwick's report; belief in *laissez-faire* | Snow's findings, germ theory, the Great Stink, and the 1867 Reform Act giving the vote to many working men in towns |
 | Limits | Many towns did nothing; the General Board was abolished in 1854 | Enforcement varied, but it set national standards |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-health-revolution-in-medicine--05-snow-broad-street.webp" width="900" height="626" alt="A schematic street grid of Soho in 1854 with cholera deaths marked as small squares, densest around the Broad Street pump. Steps beside it: map the deaths, spot the cluster, remove the pump handle, and conclude that cholera spread through water." loading="lazy">
+  <figcaption>Snow linked cholera to water before the germ was identified.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-health-revolution-in-medicine--06-public-health-acts.webp" width="900" height="500" alt="Comparison table of the 1848 and 1875 Public Health Acts by nature, main terms, context and limits. The 1848 Act let towns act; the 1875 Act made councils provide clean water, drainage, sewage disposal and a Medical Officer of Health." loading="lazy">
+  <figcaption>The 1848 Act allowed action; the 1875 Act required it.</figcaption>
+</figure>
+
 ## The factors at work
 
 | Factor | Evidence in Part three |
@@ -92,6 +122,11 @@ At the start of the century surgeons faced three problems: **pain**, **infection
 > At the time, Lister's work was significant because it tackled infection, the main cause of death after surgery. Using Pasteur's germ theory, he treated wounds and theatres with carbolic acid from 1865, and published his results in 1867, showing that far fewer of his patients died. This began to end the "black period" that had followed the introduction of anaesthetics. However, his significance was limited at first, because many surgeons disliked the spray and doubted germ theory. Over time, Lister's work was more significant still, because it changed surgeons' thinking: once they accepted that germs caused infection, they moved to aseptic methods such as sterilised instruments, gowns and gloves. Together with anaesthetics, this made safe internal surgery possible, so Lister's work underlies modern surgery.
 
 The answer considers significance **at the time** and **over time**, which is what the specification means by significance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-health-revolution-in-medicine--07-significance-frame.webp" width="900" height="499" alt="Two linked columns for a significance answer on Lister: at the time he tackled infection with carbolic acid but met resistance; over time his ideas led to aseptic surgery and, with anaesthetics, safe internal surgery." loading="lazy">
+  <figcaption>Judge significance at the time and over time.</figcaption>
+</figure>
 
 ## Common mistakes
 

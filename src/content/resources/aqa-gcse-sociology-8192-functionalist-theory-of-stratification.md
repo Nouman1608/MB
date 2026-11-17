@@ -33,6 +33,11 @@ Every known society ranks people unequally. Functionalists start from a puzzle: 
 
 This links to ideas you meet elsewhere in the course. In education, Parsons sees schools as meritocratic and as selecting people for future roles. Davis and Moore extend that logic to the whole of society: the reward system is the mechanism that finishes the job schools start.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functionalist-theory-of-stratification--01-functionalist-question.webp" width="900" height="662" alt="Because every known society ranks people unequally, functionalists ask what inequality does for society, not whether it is fair. Below, Parsons’ view that schools select people for roles links to Davis and Moore, for whom the reward system finishes the job schools start." loading="lazy">
+  <figcaption>Functionalists ask what inequality does for society, not whether it is fair.</figcaption>
+</figure>
+
 ## Davis and Moore's argument, step by step
 
 Davis and Moore set out their theory in "Some principles of stratification" (1945). The specification's summary describes stratification as, in their view, a "universal necessity" for every known human society. Their argument works as a chain.
@@ -63,11 +68,21 @@ The result, for Davis and Moore, is that stratification is functional. It motiva
 - **Ascribed status:** a position fixed at birth, such as an inherited title.
 - **Value consensus:** broad agreement on shared values, which functionalists say makes people accept the ranking as fair.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--01-davis-moore-role-allocation.webp" width="900" height="667" alt="Four needs (roles must be filled, by the most able, with training, and performed conscientiously) lead to unequal rewards for functionally important roles, which make people compete so the most talented win. Below, criticisms including Tumin, and Marxist and feminist views." loading="lazy">
+  <figcaption>Davis and Moore see unequal rewards as the way society gets the right people into key roles.</figcaption>
+</figure>
+
 ## How to apply the theory to an example
 
 Examiners reward students who can apply the theory to a realistic case. Take an air traffic controller. The role needs rare skills and carries responsibility for many lives. Training is long and selective. On Davis and Moore's view, the high pay and prestige of the job attract able candidates, make the training seem worthwhile and encourage controllers to work carefully. Compare a role that almost anyone could learn quickly: lower rewards are enough to fill it.
 
 When you apply the theory, name the four needs or the idea of functional importance and say how the example fits. Do not stop at "doctors earn a lot".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functionalist-theory-of-stratification--02-applying-the-theory.webp" width="900" height="533" alt="Two panels. An air traffic controller needs rare skills, carries responsibility for many lives and trains for a long time, so high pay and prestige attract and motivate able people. A role almost anyone could learn quickly can be filled with lower rewards." loading="lazy">
+  <figcaption>Higher rewards go where skills are rare and responsibility is high, according to Davis and Moore.</figcaption>
+</figure>
 
 ## Criticisms: the core evaluation
 
@@ -82,6 +97,16 @@ The specification's summary of Davis and Moore lists several criticisms. Learn t
 ### Tumin's response
 
 Melvin Tumin replied to Davis and Moore in 1953. He argued that stratification can be **dysfunctional** as well as functional. Unequal access to education and training means many able people never get the chance to compete, so talent is wasted rather than discovered. Tumin also questioned whether training is really a "sacrifice" that needs large rewards, and argued that stratification can create hostility and distrust between groups instead of binding society together. Use Tumin to show that a functionalist mechanism can fail on its own terms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functionalist-theory-of-stratification--03-five-criticisms.webp" width="900" height="641" alt="Five criticisms, each with an example: low-paid roles such as nursing can be vital; pay may reflect bargaining power, as with MPs; there is no proof exceptional talent is needed, since ministers need no formal qualifications; the pool of talent may be larger; and the Prime Minister is paid far less than a major chief executive." loading="lazy">
+  <figcaption>Each criticism needs its own example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functionalist-theory-of-stratification--04-tumin.webp" width="900" height="569" alt="A chain: unequal access to education and training means able people never get the chance to compete, so talent is wasted rather than discovered. Two more points: training may not be a sacrifice needing large rewards, and stratification can create hostility and distrust between groups." loading="lazy">
+  <figcaption>For Tumin, stratification can waste talent instead of finding it.</figcaption>
+</figure>
 
 ## Alternative perspectives the specification names
 
@@ -106,6 +131,11 @@ Feminists point out that the theory ignores **unpaid work**. Housework, childcar
 > **Point:** Davis and Moore argue that unequal rewards are needed to make sure functionally important roles are filled by the most able people. **Application:** For example, a hospital consultant must train for many years, so high pay is the incentive that makes the training worthwhile. **Analysis:** This suggests stratification is functional, because without the reward fewer able people would choose to train, and the health service would suffer. **Evaluation:** However, feminists note that nurses and care workers are also essential to patient safety but are paid much less, and most of them are women. This suggests rewards follow gender and bargaining power as much as functional importance.
 
 Why it works: the point names the theory accurately, the example is specific, the analysis explains *why* the mechanism matters, and the evaluation uses a named perspective rather than a vague "some people disagree".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functionalist-theory-of-stratification--05-model-paragraph.webp" width="900" height="548" alt="Four rows build a paragraph. Point: Davis and Moore’s claim about unequal rewards. Application: a hospital consultant’s long training. Analysis: why the reward matters for the health service. Evaluation: feminists note nurses and care workers are essential but low paid and mostly women." loading="lazy">
+  <figcaption>Point, application, analysis, then evaluation from a named perspective.</figcaption>
+</figure>
 
 ## Common mistakes
 

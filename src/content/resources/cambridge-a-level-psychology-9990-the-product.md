@@ -47,6 +47,11 @@ The syllabus asks why gifts are wrapped, what givers and recipients believe abou
 
 An exam answer can apply these beliefs: a shop offering free gift-wrapping benefits because givers believe wrapping increases appreciation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-product--01-gift-wrapping.webp" width="900" height="768" alt="Wrapping hides a gift, marks it as a gift and signals the giver's effort. Rixom et al. (2020) found a neatly wrapped gift from a friend raised expectations so the gift was liked less, while sloppy wrapping set low expectations that the gift exceeded. Givers believe elaborate wrapping increases appreciation; Howard (1992) proposed wrapping creates a positive mood. Types range from none to boxes, neat to untidy." loading="lazy">
+  <figcaption>Neat wrapping can backfire by raising expectations the gift must meet.</figcaption>
+</figure>
+
 ## Key study: Becker et al. (2011)
 
 **Context.** Packaging is often the first contact a consumer has with a product. Becker, van Rompay, Schifferstein and Galetzka asked whether the *look* of a package changes how the food inside *tastes*, not just whether it is bought. The idea draws on sensory transfer: impressions from one sense carry over to another.
@@ -66,11 +71,21 @@ An exam answer can apply these beliefs: a shop offering free gift-wrapping benef
 - *Reductionism versus holism*: isolating shape and colour shows each effect clearly but ignores how brand, price and label text combine with them.
 - *Objective and subjective data*: taste ratings are subjective, so participants' interpretations of rating scales may differ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-product--02-becker-packaging.webp" width="900" height="883" alt="A two-by-two schematic of yoghurt pots: angular or rounded, high or low colour saturation, with angular and highly saturated giving the strongest expected taste. Study card: participants rated expectations, tasted yoghurt and rated intensity; angular shapes and saturated colours led to stronger taste ratings, most for those who value visual design." loading="lazy">
+  <figcaption>Angular, strongly coloured pots made the yoghurt seem more intense.</figcaption>
+</figure>
+
 ## Attention and shelf position
 
 A **planogram** is a diagram that shows exactly where each product should sit on a shelf. Retailers use it to keep displays consistent and to give the best positions to products they want to sell. **Eye-tracking** records where and for how long a shopper looks, giving objective data on attention.
 
 Atalay, Bodur and Rasolofoarison (2012) used eye-tracking with shelf displays and identified the **central gaze cascade effect**: products in the horizontal centre of a display receive more visual attention, and attention to the centre option increases just before the choice is made, so central products are chosen more often. This suggests position works partly through attention rather than through any belief about the product. The limitation is that looking is not buying; eye-tracking in a simulated display may not reflect a busy real shop.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-product--03-central-gaze-cascade.webp" width="900" height="804" alt="An illustrative shelf display with an attention hot spot over the horizontal centre. Centre products get more visual attention, attention to the centre rises just before the choice, and central products are chosen more often. Planograms fix where products sit; a limitation is that looking is not buying." loading="lazy">
+  <figcaption>Attention drifts to the horizontal centre just before people choose.</figcaption>
+</figure>
 
 ## 2.4.2 Selling the product
 
@@ -88,6 +103,16 @@ Atalay, Bodur and Rasolofoarison (2012) used eye-tracking with shelf displays an
 
 **Cialdini's six ways to close a sale.** Reciprocity (a free sample creates a sense of obligation), commitment and consistency (a small agreement leads to a larger one), social proof (others are buying it), liking (we agree with people we like), authority (an expert recommends it) and scarcity (only a few left).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-product--04-disrupt-then-reframe.webp" width="900" height="628" alt="Disrupt-then-reframe: an odd price of 300 pennies briefly confuses, the reframe &quot;that's $3, it's a bargain&quot; resolves it, and sales increased. Kardes et al. (2007) linked it to need for cognitive closure: time pressure, fatigue and noise raise the need, and people high in it grab the reframe because it ends the confusion." loading="lazy">
+  <figcaption>Confuse, then offer an easy answer: it works best on tired, hurried buyers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-product--05-cialdini-six.webp" width="900" height="540" alt="Six cards: reciprocity (a free sample creates obligation), commitment and consistency (a small agreement leads to a larger one), social proof (others are buying it), liking (we agree with people we like), authority (an expert recommends it) and scarcity (only a few left)." loading="lazy">
+  <figcaption>Six principles, each a different reason to say yes.</figcaption>
+</figure>
+
 ## 2.4.3 Buying the product
 
 **The Engel Kollat Blackwell model** has five stages: problem recognition, information search, evaluation of alternatives, purchase, and post-purchase outcomes. Information search can be internal (memory) or external (reviews, friends). The model is useful for planned, high-involvement purchases but less so for impulse buys, where stages are skipped.
@@ -95,6 +120,11 @@ Atalay, Bodur and Rasolofoarison (2012) used eye-tracking with shelf displays an
 **Deciding where to buy.** Reasons for store choice include location and convenience, product range, price, service and atmosphere. Sinha et al. (2002) is the suggested study of store choice among Indian shoppers, which found that reasons varied with demographic factors such as age and gender. Cultural and demographic differences limit how far any one list of reasons generalises.
 
 **Post-purchase cognitive dissonance.** Festinger's cognitive dissonance is the discomfort of holding conflicting cognitions. After buying, the cognition "I chose this" can conflict with "the rejected option had good features". Dissonance is greater when the purchase is expensive, important or hard to reverse, and when the rejected alternatives were attractive. It is reduced by seeking information that supports the choice, playing down the rejected option, or returning the item. Nordvall (2014) is the suggested study.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-product--06-ekb-dissonance.webp" width="900" height="697" alt="The Engel Kollat Blackwell model runs through problem recognition, information search (internal or external), evaluation of alternatives, purchase and post-purchase outcomes. Post-purchase dissonance is the conflict between &quot;I chose this&quot; and &quot;the rejected option had good features&quot;; it is greater for expensive, important, hard-to-reverse purchases and attractive alternatives, and reduced by seeking supporting information, playing down the rejected option or returning the item." loading="lazy">
+  <figcaption>Dissonance follows the purchase and is worst for costly, hard-to-reverse choices.</figcaption>
+</figure>
 
 ## Annotated model answer: a 4-mark application
 

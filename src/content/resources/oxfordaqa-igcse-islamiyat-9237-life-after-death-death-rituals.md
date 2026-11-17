@@ -33,6 +33,11 @@ Belief in the Last Day (Yaum e Akhirah) is one of the key beliefs in 3.1.1.2. It
 - **Justice:** wrongs that go unpunished in this life will be put right, which gives hope to the oppressed.
 - **Perspective:** wealth and status end at death, so Muslims are encouraged not to be greedy or proud.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--01-why-akhirah-matters.webp" width="900" height="412" alt="Qur’an 3:185 above three consequences of belief in the Last Day: accountability, so Muslims act well when unobserved; justice, so wrongs will be put right; and perspective, so wealth and status are not chased." loading="lazy">
+  <figcaption>This world is a test and the next is permanent: three consequences follow.</figcaption>
+</figure>
+
 ## The stages after death
 
 ### 1. Death (Mawt)
@@ -59,6 +64,26 @@ On a day only Allah knows, Israfil (AS) will blow the trumpet. "The Horn will be
 
 **Jannah** (Paradise) is described as gardens beneath which rivers flow, with peace, reunion with loved ones and, above all, nearness to Allah. **Jahannam** (Hell) is a place of fire and regret for those who rejected Allah and did evil. The prescribed passage contrasts the two groups: some faces "bright, laughing, rejoicing", others covered with dust and darkness. Many scholars teach that believers who are punished for their sins will eventually leave Jahannam through Allah's mercy, while disbelief brings lasting punishment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--02-stages-after-death.webp" width="900" height="656" alt="Five numbered stages: death at the decreed time, when the Angel of Death takes the soul; Barzakh, the barrier between death and resurrection; resurrection when Israfil (AS) blows the trumpet; the Day of Judgement with the book of deeds and scales; and Jannah or Jahannam." loading="lazy">
+  <figcaption>Barzakh comes before resurrection and is temporary; final judgement follows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--03-barzakh-questions.webp" width="900" height="505" alt="According to the Hadith, two angels often named Munkar and Nakir ask the dead three questions: who is your Lord, what is your religion, and who is the man sent to you. A believer answers and the grave becomes peaceful; a disbeliever cannot answer. Barzakh is a foretaste, not the final outcome." loading="lazy">
+  <figcaption>Barzakh is a foretaste of reward or punishment, not the final judgement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--04-day-of-judgement.webp" width="900" height="429" alt="Five features of the Day of Judgement with Qur’anic references: the book of deeds given in the right or left hand, the scales of justice, nothing too small to count, the body as witness, and Allah’s mercy with the Prophet’s (pbuh) intercession." loading="lazy">
+  <figcaption>Judgement is complete and just, and mercy is greater than anger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--07-deeds-that-continue.webp" width="900" height="358" alt="A Hadith in Sahih Muslim: when a person dies their deeds end except for three, ongoing charity, knowledge that benefits others and a righteous child who prays for them, which is why Muslims build wells, fund schools and pray for their parents." loading="lazy">
+  <figcaption>This Hadith explains why Muslims build wells, fund schools and pray for parents.</figcaption>
+</figure>
+
 ## Death rituals, in order
 
 | Stage | What is done | Why it matters |
@@ -73,6 +98,11 @@ On a day only Allah knows, Israfil (AS) will blow the trumpet. "The Horn will be
 
 **Martyrs:** in Sunni practice a person killed fighting in the way of Allah (a *shaheed*) is traditionally buried in the clothes they died in, without ghusl, as a sign of honour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--05-death-rituals.webp" width="900" height="730" alt="Seven rituals in order with why each matters: Qur’an and the Shahadah near death, closing the eyes and covering the body, ghusl, the white kafan, Salat al-Janazah, burial facing the Qiblah, and mourning, including the widow’s iddah of four months and ten days." loading="lazy">
+  <figcaption>Each ritual expresses a belief: Tawhid, purity, equality or community.</figcaption>
+</figure>
+
 ## Different Muslim death rituals
 
 The specification asks for different rituals, so you need examples of variation, not just one standard account.
@@ -82,6 +112,11 @@ The specification asks for different rituals, so you need examples of variation,
 - **Gatherings after burial:** in some communities, especially in South Asia, families hold gatherings on set days, such as the third or fortieth day, to read Qur'an and pray for the deceased. Other Muslims regard these as cultural customs rather than religious requirements.
 - **Visiting graves:** the Prophet (pbuh) encouraged visiting graves to remember death. Some Muslims visit regularly and pray there; some groups object to building over graves or asking anything of the dead.
 - **Cremation and delay:** Muslims do not cremate. Where local law requires a post-mortem or delays burial, Muslims accept the delay but still bury as soon as they can.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--06-different-rituals.webp" width="900" height="548" alt="A table of differences in death rituals: four takbirs for Sunni and five for Shi’a Muslims in the Janazah prayer; how openly grief is shown; gatherings on set days in some South Asian communities seen by others as custom; differing views on visiting graves; A note covers cremation, delays and martyrs." loading="lazy">
+  <figcaption>Show at least one difference and explain what it reveals.</figcaption>
+</figure>
 
 ## Worked example: a 4-mark answer
 

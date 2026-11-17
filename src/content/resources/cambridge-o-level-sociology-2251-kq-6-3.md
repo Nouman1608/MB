@@ -65,6 +65,16 @@ can be deserved yet fail to reduce reoffending, or reduce reoffending yet seem t
 - **John Braithwaite** (1989) distinguished **disintegrative shaming**, which labels and excludes the
   offender, from **reintegrative shaming**, which condemns the act but welcomes the offender back.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-3--01-aims-of-punishment.webp" width="900" height="643" alt="Retribution looks backward to the crime and asks whether a punishment is deserved. Four aims look forward to preventing crime: protection of citizens, deterrence (individual and general), incapacitation and rehabilitation, each with the question it asks." loading="lazy">
+  <figcaption>Retribution looks back at the crime; the other four aims look ahead.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-3--02-views-of-punishment.webp" width="900" height="458" alt="Four views of punishment: Durkheim sees it expressing shared values, moving from retributive to restitutive justice; Marxists see it controlling the working class; Foucault describes a shift from sovereign to disciplinary power and the panopticon; Braithwaite contrasts disintegrative and reintegrative shaming." loading="lazy">
+  <figcaption>Each view asks what punishment does for society, not just for the offender.</figcaption>
+</figure>
+
 ## Matching punishments to aims (6.3.2)
 
 The most useful revision tool for 6.3.2 is to ask which aim each punishment serves best.
@@ -99,6 +109,16 @@ The most useful revision tool for 6.3.2 is to ask which aim each punishment serv
 - **Online vigilantism**: after the 2013 Boston Marathon bombing, amateur online investigators wrongly
   named innocent people as suspects, showing the risk of punishment without due process.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-3--03-punishments-and-aims.webp" width="900" height="858" alt="A grid of twelve punishments against the five aims, with the main doubt about each. For example, prison serves protection, retribution and incapacitation but has high reoffending; probation serves rehabilitation; financial penalties serve retribution and deterrence but hurt the poor more; tagging partly incapacitates." loading="lazy">
+  <figcaption>Never call a punishment effective without saying which aim it is effective at.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-3--04-examples-different-societies.webp" width="900" height="604" alt="Five examples from different societies: exile, from Napoleon to modern deportation; Amish shunning as ostracism; Norway’s Bastøy prison as rehabilitation; New Zealand’s 1989 family group conferences as restorative justice; and the wrong naming of innocent people online after the 2013 Boston Marathon bombing." loading="lazy">
+  <figcaption>Use examples from more than one society.</figcaption>
+</figure>
+
 ## Policing and law enforcement (6.3.3)
 
 **Targeting and stop and search.** Police concentrate on people and places thought to be linked to
@@ -129,6 +149,16 @@ Kinsey, John Lea and Jock Young (1986) argued that when police lose public coope
 towards military-style policing, which alienates communities further and leads to even less
 information from the public: a vicious circle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-3--05-policing-styles.webp" width="900" height="695" alt="Policing styles from community policing, which relies on cooperation, through targeting and stop and search, to military-style policing that relies on force. Below, Kinsey, Lea and Young’s vicious circle: losing cooperation leads to military-style policing, which alienates communities and brings even less information." loading="lazy">
+  <figcaption>Policing that loses public trust tends to lose information too.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-3--06-prevention-surveillance.webp" width="900" height="561" alt="Three approaches to prevention: situational crime prevention reduces opportunities, including Newman’s defensible space; social crime prevention tackles causes; zero tolerance follows broken windows theory, with doubts about its effect. Below, surveillance aids detection and may deter, but raises displacement, privacy and bias." loading="lazy">
+  <figcaption>Prevention can reduce crime without punishment, but each method has costs.</figcaption>
+</figure>
+
 ## Worked example: an annotated essay plan
 
 **Question:** Evaluate the view that harsher punishments are the best way to reduce crime.
@@ -145,6 +175,11 @@ information from the public: a vicious circle.
    crime can be reduced without punishment.*
 5. **Conclusion:** harsh punishment may serve retribution and incapacitation, but rehabilitation and
    prevention are more likely to reduce crime overall. *Judges against the aim in the question.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-3--07-essay-plan.webp" width="900" height="542" alt="A five-step essay plan: introduce the aims behind harsh punishment, give points for such as incapacitation and deterrence, points against such as reoffending and rehabilitative prisons, add policing alternatives, and conclude that rehabilitation and prevention are more likely to reduce crime overall." loading="lazy">
+  <figcaption>Judge punishment against the aim the question names.</figcaption>
+</figure>
 
 ## Common mistakes
 

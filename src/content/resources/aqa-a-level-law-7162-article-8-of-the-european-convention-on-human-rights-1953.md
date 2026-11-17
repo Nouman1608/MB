@@ -40,6 +40,11 @@ failure in a **positive obligation**), and then moves to 8.2.
 Note the wording: the right is to **respect for** private and family life. This gives states room to
 decide how to protect the interests, and it is the textual basis for positive obligations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-8-of-the-european-convention-on-human-rights-1953--01-article-8-answer-order.webp" width="900" height="443" alt="Three steps in order: identify which Article 8.1 interest is affected, show an interference or a failure in a positive obligation, then move to Article 8.2. A note explains that the right is to respect for private and family life, which gives states room and grounds positive obligations; Article 8 is qualified." loading="lazy">
+  <figcaption>Interest, interference, then justification under 8.2.</figcaption>
+</figure>
+
 ## The four interests in Article 8.1
 
 ### Private life
@@ -99,6 +104,26 @@ Correspondence covers letters, telephone calls, emails and other communications.
   telephone breached Article 8. She had a reasonable expectation of privacy, and the 1985 Act did not
   regulate internal networks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-8-of-the-european-convention-on-human-rights-1953--02-four-interests.webp" width="900" height="391" alt="Article 8.1 at the centre with four interests: private life, with no exhaustive definition; family life, a question of fact based on real and close ties; home, where a person lives, protected against searches and serious environmental nuisance; and correspondence, covering letters, calls, emails and other communications." loading="lazy">
+  <figcaption>Name the interest before arguing interference.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-8-of-the-european-convention-on-human-rights-1953--03-private-life-strands.webp" width="900" height="659" alt="A table of seven strands of private life with their cases: integrity (X and Y v Netherlands), sexual life (Dudgeon v UK), identity (Goodwin v UK, leading to the Gender Recognition Act 2004), personal data (S and Marper v UK, leading to the Protection of Freedoms Act 2012), image (Peck v UK, Von Hannover v Germany), medical information (Campbell v MGN) and ending one’s life (Pretty v UK, Purdy)." loading="lazy">
+  <figcaption>Private life is wide: body, identity, data, image, health and end-of-life choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-8-of-the-european-convention-on-human-rights-1953--04-family-and-home.webp" width="900" height="490" alt="Marckx v Belgium: family life between an unmarried mother and child, with a breach of Article 8 with Article 14. Below, two home cases: López Ostra v Spain, fumes from a waste plant breached Article 8; Hatton v UK, the Heathrow night-flight scheme did not, because the state struck a fair balance with a wide margin." loading="lazy">
+  <figcaption>Family life depends on real ties; nuisance can breach the home, but the margin is wide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-8-of-the-european-convention-on-human-rights-1953--05-correspondence-timeline.webp" width="900" height="588" alt="A timeline. 1975 Golder v UK: stopping a prisoner writing to a solicitor breached Article 8. 1984 Malone v UK: police phone tapping had no clear legal basis. 1985: the Interception of Communications Act followed. 1997 Halford v UK: interception of a senior officer’s office calls breached Article 8 because the 1985 Act did not regulate internal networks." loading="lazy">
+  <figcaption>Interference with communications needs a clear legal basis.</figcaption>
+</figure>
+
 ## Positive obligations and the press
 
 Article 8 binds the state, but its protection reaches disputes between private parties in two ways.
@@ -112,6 +137,11 @@ courts developed breach of confidence into **misuse of private information** (Ca
 whether the claimant had a **reasonable expectation of privacy** and, if so, whether that is outweighed
 by the publisher's Article 10 rights. In **Google Inc v Vidal-Hall (2015)** the Court of Appeal confirmed
 that misuse of private information is a tort in its own right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-8-of-the-european-convention-on-human-rights-1953--06-misuse-of-private-information.webp" width="900" height="822" alt="Two routes take Article 8 into private disputes: positive obligations on the state, and the court as a public authority under section 6 HRA. Then a flow: Wainwright found no general privacy tort; Campbell developed misuse of private information; the test asks whether there is a reasonable expectation of privacy and whether it is outweighed by Article 10; Vidal-Hall confirmed it is a tort in its own right." loading="lazy">
+  <figcaption>Reasonable expectation of privacy first, then the balance against Article 10.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -134,6 +164,11 @@ Next stage:      Balance against Article 10 and apply 8.2 to the council
 
 The 8.2 and Article 10 stages are developed in the Restrictions and Article 10 guides. The point here is
 that the first stage is fully argued with authority before moving on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-8-of-the-european-convention-on-human-rights-1953--07-tom-worked-example.webp" width="900" height="755" alt="Tom’s case in four steps: the photographs engage private life and the camera engages private life and home; the website is not a public authority but the court is, so Tom sues for misuse of private information; an addiction support group gives a strong expectation of privacy, as in Campbell; then balance against Article 10 and apply 8.2 to the camera." loading="lazy">
+  <figcaption>Argue the first stage fully, with authority, before moving to 8.2.</figcaption>
+</figure>
 
 ## Common mistakes
 

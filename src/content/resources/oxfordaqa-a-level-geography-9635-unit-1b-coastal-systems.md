@@ -34,6 +34,16 @@ Wave energy depends on wind speed, wind duration and **fetch** (the distance of 
 
 **Tides** set the height at which waves attack. On a coast with a small tidal range, wave energy is focused on a narrow band of cliff, encouraging a notch; a large range spreads attack over a wider zone and helps form broad wave-cut platforms. **Currents**, including longshore and rip currents, move sediment once it has been released.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--01-tidal-range-attack.webp" width="900" height="623" alt="Two schematic cliff cross-sections. With a small tidal range, high and low tide lines are close together, wave attack is focused on a narrow band and a notch forms. With a large tidal range, attack is spread over a wide zone and a broad wave-cut platform forms. Below, wave energy depends on wind speed, duration and fetch, and currents move released sediment." loading="lazy">
+  <figcaption>A small tidal range focuses erosion into a notch; a large range spreads it into a platform.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-geography-coastal-environments--13-wave-refraction.webp" width="900" height="880" alt="Seen from above, waves approach a coast with a headland in the middle and a bay each side. The wave fronts curve to follow the coast and the arrows showing wave direction bunch together at the headland and spread apart at the bays. This shows wave energy concentrated on the headland, which erodes, and spread in the bays, where sediment is deposited." loading="lazy">
+  <figcaption>Refraction concentrates wave energy on headlands and spreads it in bays, so headlands erode and bays tend to receive deposition.</figcaption>
+</figure>
+
 ## Sediment cells and budgets in practice
 
 A sediment budget compares gains with losses in one cell over a set period. A worked example with invented figures:
@@ -42,6 +52,11 @@ A sediment budget compares gains with losses in one cell over a set period. A wo
 > Budget = (12,000 + 4,000) - (9,000 + 2,500) = **+4,500 m^3 a year**.
 
 The beach is likely to widen. Now suppose a sea wall stops cliff erosion entirely: inputs fall to 4,000 m^3, the budget becomes 4,000 - 11,500 = **-7,500 m^3 a year**, and the beach narrows. This shows numerically why protecting a cliff can starve beaches within the same cell -- a strong evaluation point for management questions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--02-sediment-budget-sea-wall.webp" width="900" height="704" alt="Two bar diagrams to scale. In the natural bay, inputs of 12,000 cubic metres from cliffs and 4,000 from a river exceed outputs of 9,000 by drift and 2,500 by storms, giving plus 4,500 a year. After a sea wall stops cliff erosion, inputs fall to 4,000 against the same outputs, giving minus 7,500 a year." loading="lazy">
+  <figcaption>Stopping cliff erosion turns a gaining beach into a losing one.</figcaption>
+</figure>
 
 ## Writing landform sequences
 
@@ -57,6 +72,21 @@ Landform answers earn marks for each linked process, so write them as an ordered
 
 **Sand dunes.** Dry sand on a wide beach is blown inland and trapped by obstacles and pioneer plants. Succession runs from embryo dunes to fore dunes, yellow dunes and grey dunes, with more organic matter and less exposure away from the sea.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--03-cliff-and-platform.webp" width="900" height="760" alt="Six schematic cross-sections: waves attack the cliff base between high and low tide; a notch is cut; the overhang collapses; debris is removed and the cliff retreats; a wave-cut platform widens; and retreat slows because waves break further offshore, a negative feedback." loading="lazy">
+  <figcaption>Notch, collapse, retreat: the platform that is left eventually slows the retreat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--04-cliff-profile-geology.webp" width="900" height="620" alt="Two schematic cross-sections. Where rock beds dip seawards, blocks slide along the bedding planes and the cliff slopes at about the angle of dip. Where beds dip landwards, the cliff is steep. Below, strong jointed rock forms high vertical faces, weak clays slump, and sub-aerial processes lower the top while marine erosion steepens the base." loading="lazy">
+  <figcaption>Dip, rock strength and the balance of sub-aerial and marine processes set a cliff's profile.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--18-coast-spit-recurves.webp" width="900" height="970" alt="Two plan views. Where the coastline changes direction, longshore drift carries sediment straight on into open water and builds a spit. A simple spit has one recurved end. A compound spit has several recurves on its landward side, numbered 1 to 4 from oldest to current end, each recording an earlier end of the spit. Schematic." loading="lazy">
+  <figcaption>A spit grows where drift continues past a change in coastline direction; each recurve of a compound spit records an earlier end.</figcaption>
+</figure>
+
 ## Sea level change and its landforms
 
 The specification asks for **eustatic, isostatic and tectonic** change and major sea level changes in the **last 10,000 years**. As the last glacial period ended, meltwater from shrinking ice sheets returned to the oceans and global sea level rose substantially (eustatic). At the same time, land that had been depressed under ice sheets began to rise (isostatic rebound), so in some places the land rose faster than the sea.
@@ -64,6 +94,11 @@ The specification asks for **eustatic, isostatic and tectonic** change and major
 - **Emergence** (land rising relative to sea) leaves **raised beaches** and **marine platforms** above the present shoreline, often backed by old cliffs.
 - **Submergence** (sea rising relative to land) drowns valleys: **rias** where river valleys are flooded (Galicia, Spain); **fjords** where glacial troughs are flooded (Norway); and **Dalmatian coasts**, where the sea fills valleys running parallel to the shore so the ridges between them survive as long, narrow islands (Croatia).
 - **Recent and predicted climate change:** expansion of warming ocean water and melting ice raise sea level, threatening low-lying deltas, atolls and barrier islands with flooding, erosion and saltwater intrusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-geography-coastal-environments--18-sea-level-change-landforms.webp" width="900" height="1000" alt="Two boxes name the causes of sea level change: eustatic, a change in the volume of ocean water, and isostatic, a change in land level. Two valley cross-sections show a relative rise: a V-shaped river valley flooded to form a ria and a U-shaped glaciated valley flooded to form a fjord. A coastal profile shows a relative fall, leaving a raised beach platform and a relict cliff above the present sea level." loading="lazy">
+  <figcaption>Eustatic and isostatic change can raise or lower sea level relative to the land, forming rias and fjords or raised beaches and relict cliffs.</figcaption>
+</figure>
 
 ## Evaluating coastal management
 
@@ -73,6 +108,11 @@ The specification separates **traditional approaches** (hard and soft engineerin
 - **Soft engineering** -- beach nourishment, dune stabilisation and managed realignment -- works with natural processes. The Netherlands' **Sand Motor**, completed in 2011, placed about 21.5 million cubic metres of sand on one stretch of shore so that waves and currents would spread it along the coast over many years.
 - **Shoreline management plans** set policies for each stretch -- hold the line, advance the line, managed realignment or no active intervention -- based on the whole sediment cell.
 - **Integrated coastal zone management** coordinates all users and agencies over a whole coastline so that decisions in one place do not damage another.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--05-management-options.webp" width="900" height="680" alt="Hard engineering (sea walls, groynes, rip-rap, revetments) gives immediate protection but costs more and interrupts sediment supply; soft engineering works with natural processes, as in the Netherlands Sand Motor of 2011. Below, the four shoreline management plan policies and integrated coastal zone management." loading="lazy">
+  <figcaption>Judge each option by its effects on the whole sediment cell, not one town.</figcaption>
+</figure>
 
 ## Case studies (3.1.3.6)
 

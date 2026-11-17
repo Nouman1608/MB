@@ -35,6 +35,11 @@ The prescribed passage for 3.1.2.4 is Qur'an 2:183-185. It contains the command,
 - **The month:** "The month of Ramadhan [is that] in which was revealed the Qur'an".
 - **The spirit:** "Allah intends for you ease and does not intend for you hardship".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--01-passage-2-183-185.webp" width="900" height="454" alt="The prescribed passage, Qur’an 2:183-185, broken into five ideas: the command to fast, the purpose of taqwa, the concession for the ill and travellers, Ramadhan as the month of revelation, and the spirit of ease rather than hardship." loading="lazy">
+  <figcaption>Use the passage for purpose, compassion and the balance of obligation and mercy.</figcaption>
+</figure>
+
 ## The rulings of a valid fast
 
 1. **Niyyah:** the intention to fast, made before dawn for an obligatory fast. It is in the heart; saying it aloud is not required.
@@ -42,6 +47,11 @@ The prescribed passage for 3.1.2.4 is Qur'an 2:183-185. It contains the command,
 3. **Suhoor:** the meal before dawn, a Sunnah the Prophet (pbuh) said contains blessing.
 4. **Iftar:** breaking the fast promptly at sunset, often with dates and water, following the Sunnah.
 5. **Abstaining:** from food, drink and sexual relations during daylight, and from lying, backbiting and anger, which do not break the fast technically but destroy its reward.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--02-the-fasting-day.webp" width="900" height="506" alt="A day bar: suhoor is eaten before true dawn, the fast runs from Fajr to Maghrib with no food, drink or sexual relations and no lying, backbiting or anger, and iftar is taken promptly at sunset. A note explains the intention before dawn and the white and black thread of 2:187." loading="lazy">
+  <figcaption>The fast runs from true dawn to sunset, framed by suhoor and iftar.</figcaption>
+</figure>
 
 ## Acts that invalidate a fast
 
@@ -55,6 +65,11 @@ The prescribed passage for 3.1.2.4 is Qur'an 2:183-185. It contains the command,
 | Eating or drinking by **genuine mistake** | **Not** broken: the Prophet (pbuh) said that Allah fed him and gave him drink (Sahih al-Bukhari) |
 
 The **kaffarah** for deliberately breaking a Ramadhan fast through sexual relations is to fast sixty consecutive days, or if that is impossible, to feed sixty poor people. Some schools, such as the Hanafi, apply kaffarah also to deliberate eating and drinking.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--03-what-breaks-a-fast.webp" width="900" height="665" alt="Acts that invalidate a fast and their effect: deliberate eating or drinking, deliberate sexual relations, which also requires kaffarah of sixty days’ fasting or feeding sixty poor people, deliberate vomiting, the start of menstruation, and smoking. Eating by genuine mistake does not break the fast." loading="lazy">
+  <figcaption>Deliberate acts break the fast; genuine forgetfulness does not.</figcaption>
+</figure>
 
 ## Exemptions and what is owed afterwards
 
@@ -70,6 +85,11 @@ The **kaffarah** for deliberately breaking a Ramadhan fast through sexual relati
 
 The distinction to learn is **qada** (making up the same number of days) versus **fidya** (feeding someone for each missed day when a person will never be able to fast).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--04-qada-or-fidya.webp" width="900" height="500" alt="Two groups of exemption. Qada, making up the days later: the temporarily ill, travellers, pregnant or breastfeeding women who fear harm, and women in menstruation or post-natal bleeding. Fidya, feeding a poor person for each day: the elderly and the chronically ill who will not recover (2:184). Children and the insane owe nothing." loading="lazy">
+  <figcaption>Qada makes up the days; fidya feeds the poor when fasting will never be possible.</figcaption>
+</figure>
+
 ## Benefits of fasting
 
 - **Spiritual:** taqwa, the stated purpose in 2:183; a closer relationship with Allah because the fast is known only to Him and the faster; more Qur'an recitation in the month it was revealed.
@@ -77,6 +97,11 @@ The distinction to learn is **qada** (making up the same number of days) versus 
 - **Social:** empathy with the hungry; more charity, including Zakat-ul-Fitr before Eid; families and mosques sharing iftar; the whole Ummah fasting together.
 
 Health benefits are sometimes mentioned, but they are a side effect, not the reason Muslims fast. Keep them brief.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--05-benefits.webp" width="900" height="440" alt="Benefits of fasting in three categories: spiritual, such as taqwa and more Qur’an recitation; moral, such as self-discipline, honesty and patience; and social, such as empathy with the hungry, charity and shared iftar. Health benefits are a side effect." loading="lazy">
+  <figcaption>Use the specification’s three headings: spiritual, moral and social.</figcaption>
+</figure>
 
 ## Taraweeh
 
@@ -98,6 +123,11 @@ Surah 97 is devoted to it: "Indeed, We sent the Qur'an down during the Night of 
 - **When:** the Prophet (pbuh) told Muslims to seek it in the odd nights of the last ten nights of Ramadhan (Sahih al-Bukhari). Many observe the 27th night especially, but its exact date is not known.
 - **What Muslims do:** night prayer, Qur'an recitation and du'a, including the supplication the Prophet (pbuh) taught Aisha (RA): "O Allah, You are pardoning and love to pardon, so pardon me" (Tirmidhi).
 - **Importance:** worship on that night is worth more than a thousand months, which is longer than a lifetime of eighty years; whoever stands in prayer on it with faith and hope of reward is forgiven past sins (Sahih al-Bukhari).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--06-ramadhan-nights.webp" width="900" height="602" alt="A strip of the thirty nights of Ramadhan: Taraweeh is prayed every night after Isha, Itikaaf is usually observed in the last ten days, and Laylat ul-Qadr is sought in the odd nights of the last ten. Cards explain Taraweeh, Itikaaf and Laylat ul-Qadr." loading="lazy">
+  <figcaption>Itikaaf in the last ten days keeps a Muslim in worship whenever Laylat ul-Qadr falls.</figcaption>
+</figure>
 
 ## Worked example: a 4-mark answer
 

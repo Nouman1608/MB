@@ -81,6 +81,16 @@ Crime is partly hidden by its nature: offenders try not to be caught, and some v
 - Usually limited to minor offences; few people admit serious crimes.
 - Samples are often of young people, so they say little about white collar crime.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-data-on-crime--01-three-sources.webp" width="900" height="646" alt="A table comparing three sources. Police recorded crime counts crimes reported and recorded under counting rules; it shows national trends but misses the dark figure. Victim surveys ask a random sample about crimes they suffered; they reveal unreported crime but miss corporate crime and homicide. Self-report studies ask people what offences they committed; they reveal hidden offending but miss serious and white collar crime." loading="lazy">
+  <figcaption>Each source sees a different part of crime, and each has its own blind spots.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-data-on-crime--02-recording-not-behaviour.webp" width="900" height="615" alt="Four boxes, changes in counting rules, recording practice, police priorities and the law, all point to a change in recorded crime figures even when behaviour has not changed. Below, the 2014 withdrawal of National Statistics status and the later-2010s rise linked partly to better recording." loading="lazy">
+  <figcaption>Always ask whether a change reflects behaviour or recording.</figcaption>
+</figure>
+
 ## The dark figure of crime
 
 The **dark figure** is crime that is **unreported** or **unrecorded**, so it never appears in official statistics. Think of it as two filters between an offence and the official figures:
@@ -89,6 +99,16 @@ The **dark figure** is crime that is **unreported** or **unrecorded**, so it nev
 2. **Reported → recorded?** Lost if police discretion, lack of evidence or recording rules mean it is not counted.
 
 Victim surveys reach some crime lost at the first filter. Self-report studies reach some offending never detected at all. No source measures the whole dark figure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-data-on-crime--03-two-filters.webp" width="900" height="662" alt="A flow from offence committed, through filter 1 (is it reported?) and filter 2 (is it recorded?), to the official statistics. Crime is lost at filter 1 if the victim does not know, care, feels afraid or distrusts the police, and at filter 2 through police discretion, lack of evidence or recording rules. Victim surveys and self-report studies each reach some of the lost crime." loading="lazy">
+  <figcaption>The dark figure is crime lost at reporting or at recording, not unsolved crime.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--08-dark-figure.webp" width="900" height="843" alt="An iceberg: only the tip, crime recorded by police, appears in official statistics. Below the waterline is the dark figure: crime reported but not recorded, and crime never reported. Victim surveys and self-report studies reach parts of the hidden crime. Below, functionalist, Marxist and feminist views of crime statistics." loading="lazy">
+  <figcaption>Official statistics show only the tip of crime; the dark figure lies below.</figcaption>
+</figure>
 
 ## Patterns and trends
 
@@ -100,6 +120,16 @@ The specification asks you to describe patterns and trends "using relevant stati
 - Recorded offending is concentrated among young people and men (see 3.5.3).
 
 **How to describe data in the exam:** state the overall direction (rise, fall, stable), quote the start and end figures, note any exception or turning point, and, if asked, calculate a difference or percentage change. Then ask whether a change reflects behaviour or recording.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-data-on-crime--04-trends-timeline.webp" width="900" height="540" alt="A timeline. 1982: the British Crime Survey begins. Mid-1990s: CSEW estimates of crime peak, then fall over two decades for crimes such as burglary. 2012: renamed the Crime Survey for England and Wales. Mid-2010s: fraud and computer misuse added. Later 2010s: police recorded crime rises, partly because of better recording." loading="lazy">
+  <figcaption>Survey crime fell from the mid-1990s; recorded crime’s later rise partly reflects better recording.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-data-on-crime--05-describing-data.webp" width="900" height="794" alt="Five numbered steps for describing crime data: state the overall direction, quote the start and end figures, note any exception or turning point, calculate a difference or percentage change if asked, then ask whether the change reflects behaviour or recording." loading="lazy">
+  <figcaption>Describe the numbers first, then question what they really measure.</figcaption>
+</figure>
 
 ## Perspectives on the use of data on crime
 

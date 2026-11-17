@@ -35,6 +35,11 @@ Afterwards, use the [social approach revision notes](/resources/cambridge-a-leve
 
 The three kinds of presence in the second assumption map onto the studies. In Piliavin et al. the presence of other passengers is *actual*. In Milgram the experimenter's authority is actual, but the "learner" in the next room is a presence known only from sounds, which makes it partly *implied*. In Perry et al., participants judged distances from figures on a screen or in pictures, so the other person is *imagined*.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-social-approach--01-assumptions-presence.webp" width="900" height="482" alt="Two assumptions: behaviour, cognitions and emotions are influenced by social contexts and groups, and by the actual, implied or imagined presence of others. Presence is actual in Piliavin et al. (other passengers), partly implied in Milgram (the learner known only from sounds) and imagined in Perry et al. (figures on a screen or in pictures)." loading="lazy">
+  <figcaption>Actual, implied and imagined presence: one core study for each.</figcaption>
+</figure>
+
 ## Milgram (1963): obedience
 
 **Aim.** To investigate how far people would go in obeying an instruction to harm another person, and the conflict between obedience to authority and personal conscience. The syllabus asks you to consider dispositional and situational hypotheses: are some people simply obedient types, or does the situation produce obedience?
@@ -53,6 +58,16 @@ The three kinds of presence in the second assumption map onto the studies. In Pi
 - *Weaknesses*: a single sample of American men limits generalisation; some participants may have doubted that the shocks were real.
 - *Ethics*: deception about the shocks and the purpose; severe distress; the prods made withdrawal difficult. Milgram's defence was the debrief, a reunion with the unharmed learner, and a follow-up questionnaire in which most participants said they were glad to have taken part.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-social-approach--02-milgram-procedure.webp" width="900" height="730" alt="The experimenter gives prods to the teacher (the real participant), who gives shocks to the learner, a confederate in the next room. The generator has 30 switches from 15 to 450 volts labelled from Slight Shock to Danger: Severe Shock and XXX. At 300 volts the learner pounded on the wall and stopped answering; after 315 he pounded again and went silent." loading="lazy">
+  <figcaption>A rigged draw, a 30-switch generator and four standard prods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-social-approach--03-milgram-results.webp" width="900" height="914" alt="Forty participant icons, 26 coloured for those who went to 450 volts. Bars show all 40 reached 300 volts, 26 of 40 (65 percent) reached 450 volts, against a prediction by psychology students of around 1 percent. Conclusion: the situation produced obedience. Evaluation covers replicability, sample limits, ethics and Milgram's defence." loading="lazy">
+  <figcaption>Every participant reached 300 volts and 65% went to 450, against a prediction of about 1%.</figcaption>
+</figure>
+
 ## Perry et al. (2015): personal space
 
 **Aim.** To test how oxytocin, a social hormone, affects interpersonal distance, and whether its effect depends on how empathic a person is.
@@ -67,6 +82,11 @@ The three kinds of presence in the second assumption map onto the studies. In Pi
 
 **Evaluation.** The placebo and double-blind procedure control expectation effects, and two experiments with different measures showing the same pattern add confidence. But imagined or pictured distances may not match real behaviour, and the effect on a laboratory scale may not hold in crowded everyday settings.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-social-approach--04-perry-oxytocin.webp" width="900" height="950" alt="Experiment 1 used a computerised Comfortable Interpersonal Distance Scale; Experiment 2 used pictures of rooms. An illustrative graph shows that under oxytocin, compared with placebo, high-empathy participants preferred to be closer and low-empathy participants preferred more distance. Conclusion: the effect depends on empathy." loading="lazy">
+  <figcaption>Oxytocin moved high-empathy people closer and low-empathy people further away.</figcaption>
+</figure>
+
 ## Piliavin et al. (1969): subway Samaritans
 
 **Aim.** To investigate helping in a real emergency and the factors that affect it, including the type of victim, the victim's race, the presence of a model who helps, and group size, and to test diffusion of responsibility.
@@ -78,6 +98,16 @@ The three kinds of presence in the second assumption map onto the studies. In Pi
 **Conclusions.** Diffusion of responsibility did not appear in this setting, probably because the victim was clearly visible and escape was impossible. The researchers proposed the **arousal: cost–reward model**: seeing an emergency causes unpleasant arousal, which the bystander reduces by the response that costs least, such as helping, leaving or deciding help is not needed. Helping a drunk is more costly (disgust, possible harm) and not helping is less blameworthy.
 
 **Evaluation.** High ecological validity and no demand characteristics, because passengers did not know they were being studied. But there was no consent, no right to withdraw and no debrief, and conditions were not perfectly equal (fewer drunk trials and only one black victim).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-social-approach--05-piliavin-procedure.webp" width="900" height="588" alt="A schematic subway carriage: the male victim collapses in the critical area 70 seconds after the train leaves, a male model helps at a set time if no one else does, and two female observers record passengers' race, sex and location, time to help and comments. In the cane condition the victim appeared sober; in the drunk condition he smelled of alcohol and carried a bottle." loading="lazy">
+  <figcaption>Four researchers per trial: victim, model and two observers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-social-approach--06-piliavin-results-model.webp" width="900" height="895" alt="Bars show spontaneous help on 62 of 65 cane trials and 19 of 38 drunk trials. Other findings: faster help for the cane victim, mostly male first helpers, slight same-race helping and no drop with larger groups, so no diffusion of responsibility. The arousal: cost-reward model runs from seeing an emergency to unpleasant arousal to the least costly response." loading="lazy">
+  <figcaption>The cane victim was helped on 62 of 65 trials; helping a drunk seemed more costly.</figcaption>
+</figure>
 
 ## Annotated answer
 

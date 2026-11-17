@@ -105,6 +105,16 @@ Use dry materials and conditions: in damp air, moisture on the surface
 lets charge leak away. Hold the rod by one end and do not touch the
 rubbed area.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--01-polythene-and-acetate-charging.webp" width="900" height="700" alt="A polythene rod rubbed with a cloth gains electrons from the cloth, so the rod becomes negative and the cloth positive. An acetate rod rubbed with a cloth loses electrons to the cloth, so the rod becomes positive and the cloth negative." loading="lazy">
+  <figcaption>Gain electrons: negative. Lose electrons: positive. Only electrons move.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--02-charged-rods-practical.webp" width="900" height="600" alt="A rubbed polythene rod hangs in a paper stirrup. Bringing a second rubbed polythene rod near one end makes it turn away; bringing a rubbed acetate rod near makes it turn towards the acetate." loading="lazy">
+  <figcaption>Polythene repels polythene but attracts acetate, so the two gain opposite charges.</figcaption>
+</figure>
+
 ## Forces between charges (2.25P)
 
 **Like charges repel; unlike charges attract.** The forces act on both
@@ -117,6 +127,16 @@ slightly away, so the nearby surface is left slightly positive. The
 attraction between the balloon and the nearby positive region is stronger
 than the repulsion from the more distant negative region, so the balloon
 sticks. Small pieces of paper jump to a charged comb for the same reason.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--03-balloon-attracts-neutral-wall.webp" width="900" height="700" alt="A negatively charged balloon near a neutral wall. Electrons in the wall surface are repelled slightly away, leaving the nearby surface slightly positive. The pull from the near positive region is bigger than the push from the further negative region." loading="lazy">
+  <figcaption>A charged object attracts a neutral one because the nearer opposite charge wins.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--11-charge-forces.webp" width="900" height="950" alt="Two positive charges and two negative charges are pushed apart; a positive and a negative charge are pulled together. Forces are equal and opposite." loading="lazy">
+  <figcaption>Like charges repel; unlike charges attract.</figcaption>
+</figure>
 
 ## Explaining phenomena with electrons (2.26P)
 
@@ -135,6 +155,11 @@ Each explanation has three steps: rubbing transfers electrons; the
 objects have opposite (or the same) charge; the result is attraction,
 repulsion or a flow of electrons (discharge).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--04-explaining-static-phenomena.webp" width="900" height="695" alt="Three examples set out in three steps. Brushing hair transfers electrons so strands gain the same charge and repel. Walking on a nylon carpet charges a person, and touching a metal handle lets electrons flow suddenly, giving a shock. Rubbing fabrics in a dryer gives opposite charges that attract." loading="lazy">
+  <figcaption>Rubbing transfers electrons; the charges produced cause attraction, repulsion or a discharge.</figcaption>
+</figure>
+
 ## Dangers (2.27P)
 
 **Fuelling aircraft and tankers.** Fuel flowing quickly through a pipe
@@ -150,6 +175,11 @@ enough to cause a spark.
 
 Other dangers follow the same pattern: sparks in places with flammable
 gas or dust, and shocks when touching a highly charged object.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--05-fuelling-danger-and-earthing.webp" width="900" height="560" alt="Left: fuel flowing into an aircraft transfers electrons, charge builds up and a spark can ignite fuel vapour. Right: the aircraft is joined to earth by a conducting cable, so electrons flow continuously and no large charge builds up." loading="lazy">
+  <figcaption>Earthing lets electrons flow away continuously, so no spark can form near fuel vapour.</figcaption>
+</figure>
 
 ## Uses (2.28P)
 
@@ -172,6 +202,16 @@ image.
 **Spray painting** is a further example: charged paint droplets repel one
 another into a fine spray and are attracted to an object given the
 opposite charge, giving an even coat with less waste.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--06-photocopier-steps.webp" width="900" height="530" alt="Five steps. The drum is charged all over; light from white parts of the page removes charge there; oppositely charged toner sticks only to the charged areas; charged paper attracts the toner; heat melts the toner onto the paper." loading="lazy">
+  <figcaption>Toner sticks only where the drum is still charged, which is where the page was dark.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--07-inkjet-printer.webp" width="900" height="620" alt="Charged ink drops leave a nozzle and pass between a positive and a negative deflecting plate. Negative drops curve towards the positive plate; drops with a bigger charge are deflected further before reaching the paper." loading="lazy">
+  <figcaption>Bigger charge, bigger deflection: the plates steer each drop to its place on the paper.</figcaption>
+</figure>
 
 ## Worked answer: an annotated explanation
 

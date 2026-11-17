@@ -52,6 +52,16 @@ and American defence spending rose sharply. From then on, containment meant a wi
 aid. Eisenhower's **domino theory** (1954) widened it further: the loss of one country would lead to the loss of its
 neighbours, so even small states mattered.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-containment-communism--01-containment-widens.webp" width="900" height="388" alt="Four linked steps: the Truman Doctrine (1947), NSC-68 (April 1950), the Korean War (June 1950) and the domino theory (1954). A bar below shows containment growing from sending aid, to a willingness to fight, to defending every state." loading="lazy">
+  <figcaption>Containment grew from a promise of aid into a commitment to fight anywhere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--15-containment-dominoes.webp" width="900" height="880" alt="Two rows of dominoes. In the domino theory row, one domino has fallen and the others topple in sequence, showing neighbours following. In the containment row a barrier stops the first fallen domino and the rest stand. A note says containment meant stopping communism spreading to new countries rather than overthrowing it where it already ruled." loading="lazy">
+  <figcaption>Containment (Truman Doctrine, 1947) set against the domino theory (Eisenhower, 1954).</figcaption>
+</figure>
+
 ## Korea, 1950-53: key decisions
 
 | Decision | Why it was taken | Effect |
@@ -65,6 +75,11 @@ neighbours, so even small states mattered.
 **Judging Korea.** Measured against the original aim, containment worked: the South survived. Measured against the
 October 1950 aim of uniting Korea, it failed. Korea also widened the Cold War: the USA now treated China as an enemy,
 built up its forces and signed defensive pacts in Asia.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-containment-communism--02-korea-decisions.webp" width="900" height="852" alt="Five numbered decisions: intervene at once (June 1950), act through the UN, cross the 38th parallel (October 1950, highlighted as the turn to rollback that brought China in), dismiss MacArthur (April 1951) and accept an armistice (July 1953). Below, success against the original aim and failure against the aim of uniting Korea." loading="lazy">
+  <figcaption>Judged by the original aim Korea was a success; by the aim of October 1950, a failure.</figcaption>
+</figure>
 
 ## Cuba, 1959-62: a containment failure, then a success
 
@@ -93,6 +108,11 @@ Robert privately assured the Soviet ambassador that the Turkish missiles would g
 things worse. But the crisis kept Soviet nuclear missiles out of the Americas without war, and the hotline and Partial
 Test Ban Treaty of 1963 began a period of more careful superpower relations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-containment-communism--03-cuba-options.webp" width="900" height="591" alt="Four rejected options, each crossed out with its drawback: do nothing, diplomacy alone, air strikes and invasion. The chosen option, a naval quarantine, stopped more weapons arriving and gave Khrushchev time. Below, Khrushchev's two letters of 26 and 27 October: the first publicly accepted, the second privately accepted." loading="lazy">
+  <figcaption>The quarantine showed firmness but left Khrushchev a way out.</figcaption>
+</figure>
+
 ## Vietnam, 1955-75: why containment failed
 
 **Reasons for involvement:** the domino theory; the creation of **SEATO** (1954) to defend South-East Asia; backing for
@@ -117,6 +137,11 @@ were withdrawn, and improved relations with China and the USSR made Vietnam seem
 Yet the wider dominoes, such as Thailand, Malaysia and Indonesia, did not fall, which some use to argue the policy
 bought time for the rest of the region.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-containment-communism--04-vietnam-in-out.webp" width="900" height="404" alt="Three linked columns. Why involved: the domino theory, SEATO, backing Diem and credibility after Korea. Why it failed: a war of attrition with body counts, firepower that killed civilians, resented strategic hamlets and the Ho Chi Minh Trail. Why withdrawal: Tet, casualties and protest, Vietnamisation and détente, then Paris (1973) and the fall of Saigon (1975)." loading="lazy">
+  <figcaption>Firepower could not beat guerrillas, and opinion at home turned against the war.</figcaption>
+</figure>
+
 ## How to judge "how effectively"
 
 Use explicit criteria and apply them to each case:
@@ -127,6 +152,11 @@ Use explicit criteria and apply them to each case:
 
 A sound overall judgement often ranks the cases: Korea as a limited success, Cuba as mixed, Vietnam as a failure,
 then asks whether the policy improved as the USA learned the limits of its power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-containment-communism--05-effectiveness-grid.webp" width="900" height="579" alt="A grid of three criteria (aim achieved, cost, wider effects) against Korea, Cuba and Vietnam. Korea: the South survived, a limited success. Cuba: communism stayed but the missiles went, mixed. Vietnam: three states became communist in 1975, a failure, though wider dominoes did not fall." loading="lazy">
+  <figcaption>Define &quot;effective&quot;, then rank the cases: Korea, then Cuba, then Vietnam.</figcaption>
+</figure>
 
 ## Worked example: a (c) plan
 
@@ -151,6 +181,11 @@ reliable a source is, and how far the sources support a statement. For containme
   purposes.
 - **Use your case-study knowledge to test claims**, for example whether Kennedy's public statements matched the secret
   Turkish deal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-containment-communism--06-source-checks.webp" width="900" height="430" alt="Three checks for each source: the precise date, such as during the Missile Crisis of 16-28 October 1962; the author's position; and testing claims with knowledge, such as the secret Turkish deal. Below, typical Paper 2 demands: a cartoon's message, why produced then, whether one source proves another wrong, usefulness or reliability, and how far sources support a statement." loading="lazy">
+  <figcaption>Date, author and knowledge: three checks before you judge a source.</figcaption>
+</figure>
 
 ## Common mistakes
 

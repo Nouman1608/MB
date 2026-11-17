@@ -65,6 +65,16 @@ The two main theories explain the relationship differently.
 - **Law changing morality.** Law can lead as well as follow. Seatbelt and drink-driving laws are often said to have helped make driving without a seatbelt, or after drinking, socially unacceptable.
 - **Hard cases.** When law and morality conflict, judges face pressure to adapt the law, and Parliament faces pressure to act.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-morality--01-law-morality-overlap.webp" width="900" height="699" alt="Two overlapping circles. Law and morality coincide for murder, rape and theft. Law alone covers morally neutral rules such as which side of the road to drive on or registering a company. Morality alone covers lying to a friend, breaking a non-contractual promise and failing to rescue a stranger. In a pluralist society, laws on disputed issues enforce one group’s view." loading="lazy">
+  <figcaption>Law and morality overlap, but each also covers ground the other does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-morality--02-natural-law-positivism.webp" width="900" height="551" alt="Three positions. Natural law (Aquinas): an immoral law is a corruption of law. Fuller’s middle path: law has an inner morality of eight requirements, from being general and public to being applied as announced. Positivism (Austin, Hart): law is valid if made by the recognised process. In the post-war German informer cases Fuller said the laws lacked the qualities of law; Hart said they were law, but wicked." loading="lazy">
+  <figcaption>Natural law builds morality into validity; positivism keeps the two questions apart.</figcaption>
+</figure>
+
 ## The legal enforcement of moral values
 
 ### Moralism, paternalism and the harm principle
@@ -94,11 +104,31 @@ The contrast between *Brown* and *Wilson* is especially useful. Both involved co
 - Removing the crime but keeping restrictions: the Suicide Act 1961 abolished the offence of suicide but kept assisting suicide as an offence.
 - Changing the legal recognition of relationships: the Marriage (Same Sex Couples) Act 2013.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-morality--03-harm-moralism-paternalism.webp" width="900" height="517" alt="Three justifications: Mill’s harm principle (prevent harm to others), Devlin’s legal moralism (enforce shared morality, tested by intolerance, indignation and disgust) and legal paternalism (protect people from themselves, partly accepted by Hart). The Misuse of Drugs Act 1971 can be defended as harm prevention or paternalism, or criticised as moralism." loading="lazy">
+  <figcaption>Ask whose harm a law prevents: others’, the person’s own, or none but moral offence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-morality--04-brown-wilson.webp" width="900" height="660" alt="R v Brown (1993) upheld convictions for consensual sadomasochistic injuries, supporting Devlin; R v Wilson (1996) quashed a husband’s conviction for branding his wife at her request. Critics say the difference reflects moral judgement about the relationship. Other cases: Knuller v DPP, R v Gibson, Re A (Conjoined Twins) and Nicklinson." loading="lazy">
+  <figcaption>Similar facts, different results: the strongest evidence that courts make moral choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-morality--05-parliament-responses.webp" width="900" height="472" alt="Five responses by Parliament: decriminalising (Sexual Offences Act 1967 after Wolfenden), permitting under conditions (Abortion Act 1967), removing a crime while keeping restrictions (Suicide Act 1961), keeping a prohibition with prosecutorial discretion (DPP consent under section 2), and changing legal recognition (Marriage (Same Sex Couples) Act 2013)." loading="lazy">
+  <figcaption>Parliament rarely just bans or allows: it often permits under conditions or keeps a discretion.</figcaption>
+</figure>
+
 ## Worked example: annotated paragraph
 
 **Question extract:** Discuss the extent to which the law should enforce moral values.
 
 > In *R v Brown* (1993) the House of Lords upheld convictions for consensual sadomasochistic injuries inflicted in private, which supports Devlin's view that society may protect its shared morality even where no unwilling victim exists *[case linked to theory]*. However, in *R v Wilson* (1996) a husband who branded his wife at her request was not liable, which suggests the courts' approach is inconsistent and may reflect disapproval of particular relationships rather than harm *[counter-case and evaluation]*. In a pluralist society this inconsistency is hard to justify, which supports Hart's argument that the law should intervene only to prevent harm to others *[link to pluralism and judgement]*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-morality--06-paragraph-structure.webp" width="900" height="492" alt="The annotated paragraph has three moves: link a case to a theory (Brown supports Devlin), add a counter-case and evaluate (Wilson suggests inconsistency), then link to pluralism and reach a judgement (supporting Hart’s harm-based view)." loading="lazy">
+  <figcaption>Case and theory, counter-case, then a judgement tied to pluralism.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -46,6 +46,11 @@ Two theorists help you explain why law takes the forms it does.
 
 A **Marxist** critique offers the counterpoint: law protects the interests of those with economic power, for example by prioritising property rights. You do not need to agree, but using it shows you can question whether law serves everyone equally.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-society--01-social-role-theories.webp" width="900" height="713" alt="Three views. Roscoe Pound: law as social engineering, balancing individual, public and social interests. Émile Durkheim: simple societies rely on repressive law that punishes, complex societies on restitutive law that restores, matching the growth of civil law. A Marxist critique: law protects those with economic power." loading="lazy">
+  <figcaption>Pound explains balancing, Durkheim the growth of civil law, Marx the doubts.</figcaption>
+</figure>
+
 ## Enforceable rights
 
 A right is only as good as the means to enforce it. Law turns expectations into **enforceable rights** by giving a person standing to go to a court or tribunal and a remedy if they succeed.
@@ -56,6 +61,11 @@ A right is only as good as the means to enforce it. Law turns expectations into 
 - **Rights in tort:** a person injured by negligence can claim damages, a right that exists because of the common law developed from *Donoghue v Stevenson* (1932).
 
 Evaluation point: rights on paper can be undermined in practice by cost, delay and lack of advice. In *R (UNISON) v Lord Chancellor* (2017) the Supreme Court quashed employment tribunal fees partly because claims fell sharply once they were introduced, showing that an enforceable right means little if people cannot afford to enforce it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-society--02-enforceable-rights.webp" width="900" height="578" alt="A right becomes enforceable through a chain: an expectation is recognised in law, gives standing before a court or tribunal, and leads to a remedy. Examples: the Consumer Rights Act 2015, unfair dismissal, the Human Rights Act 1998 and negligence damages. In R (UNISON) v Lord Chancellor, tribunal fees caused claims to fall sharply and the Supreme Court quashed them." loading="lazy">
+  <figcaption>Cost, delay and lack of advice can leave a right on paper only.</figcaption>
+</figure>
 
 ## Balancing competing interests
 
@@ -76,6 +86,11 @@ In *Campbell v MGN Ltd* (2004) the House of Lords weighed a model's right to pri
 ### Public policy limiting claims
 
 In *Hill v Chief Constable of West Yorkshire* (1989) the House of Lords held that the police owed no duty of care to a future victim of a serial killer they had failed to catch. Part of the reasoning was the public interest in the police not being diverted into defensive practices. The individual's interest in compensation was outweighed by a perceived public interest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-society--03-balancing-interests.webp" width="900" height="534" alt="Four pairings of competing interests: public and private (Kennaway v Thompson’s limiting injunction; Coventry v Lawrence), individual and state (police powers and safeguards under the Police and Criminal Evidence Act 1984), individual and individual (privacy against expression in Campbell v MGN), and public policy against a claimant (Hill v Chief Constable of West Yorkshire)." loading="lazy">
+  <figcaption>Almost every rule weighs one interest against another; courts often split the difference.</figcaption>
+</figure>
 
 ## The meaning and importance of fault
 
@@ -103,6 +118,16 @@ In *Hill v Chief Constable of West Yorkshire* (1989) the House of Lords held tha
 | Respects autonomy: people control their liability by their choices | Objective standards can impose "fault" on people doing their best (*Nettleship*) |
 | Grades offences and sentences by blame | Strict liability can be justified to protect public health and safety |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-society--04-criminal-fault-ladder.webp" width="900" height="609" alt="A narrowing ladder of fault: intention at the top, then subjective recklessness, negligence and finally strict liability, which needs no fault for at least one element. Fault grades the offence (murder or manslaughter) and the sentence (culpability). Alphacell v Woodward and Harrow LBC v Shah show strict liability; Sweet v Parsley shows the presumption of mens rea." loading="lazy">
+  <figcaption>The more blameworthy the mind, the more serious the offence and sentence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-society--05-civil-fault.webp" width="900" height="596" alt="Civil law uses objective fault in negligence (Nettleship v Weston), reduces damages for the claimant’s own fault (contributory negligence; Froom v Butcher), and imposes some liability without fault (vicarious liability, Rylands v Fletcher, Consumer Protection Act 1987). A table weighs arguments for fault-based liability against relying only on fault." loading="lazy">
+  <figcaption>Fault is the default in civil law too, but not the only basis for liability.</figcaption>
+</figure>
+
 ## Worked example: an extended answer plan
 
 **Question:** Discuss the importance of fault in criminal law.
@@ -118,6 +143,11 @@ In *Hill v Chief Constable of West Yorkshire* (1989) the House of Lords held tha
 ```
 
 A strong answer keeps returning to the question word **importance**: each point should say why fault matters, not merely that it exists.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-society--06-fault-answer-plan.webp" width="900" height="643" alt="A six-step plan: define fault and link it to mens rea; set out the hierarchy of fault; show how it grades offences and sentences; introduce strict liability (Alphacell; Harrow v Shah); evaluate using Sweet v Parsley; and conclude that fault is central with limited, justified departures." loading="lazy">
+  <figcaption>Each step should say why fault matters, not just that it exists.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -49,6 +49,11 @@ Boolean operators combine or reverse **Boolean values**, usually the results of 
 Truth tables for logic gates also appear in Topic 4 (Boolean logic), but in this section the same operators are
 written inside program conditions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-boolean-operations--01-and-or-not-truth-table.webp" width="900" height="652" alt="Logic symbols for AND, OR and NOT beside a truth table for inputs A and B. A AND B is True only in the row where both are True; A OR B is True in every row except False, False; NOT A is True when A is False." loading="lazy">
+  <figcaption>AND needs both, OR needs at least one, NOT flips a single value.</figcaption>
+</figure>
+
 ## Compound conditions in selection
 
 A compound condition joins two or more comparisons. Each side of `AND` or `OR` must be a **complete** comparison:
@@ -63,6 +68,11 @@ Both conditions must hold for the warning. Changing `AND` to `OR` would warn on 
 day, which is a different program. Deciding between AND and OR is about the meaning of the rule in the question,
 so read the rule carefully: "a discount for students and pensioners" usually means a person who is **either**,
 which needs `OR`, even though the English uses "and".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-boolean-operations--02-and-versus-or.webp" width="900" height="762" alt="Two overlapping circles for temperature > 30 and humidity > 70. With AND only the overlap is shaded, so the warning shows only when both hold; with OR both circles are shaded, so it warns on every hot day and every humid day. A note says &quot;students and pensioners&quot; needs OR." loading="lazy">
+  <figcaption>Choose AND or OR from the meaning of the rule; the English word &quot;and&quot; can mean either.</figcaption>
+</figure>
 
 ## Compound conditions in iteration
 
@@ -88,6 +98,11 @@ UNTIL NOT (lives > 0 AND NOT won)
 (Remember the difference: this version always plays at least one turn.) Combined Boolean conditions are also how
 a search loop stops either when the item is found or when every item has been checked.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-boolean-operations--03-compound-loop-conditions.webp" width="900" height="788" alt="Two flowcharts. WHILE lives > 0 AND NOT won tests before each turn and loops back while True. REPEAT PlayTurn() UNTIL NOT (lives > 0 AND NOT won) plays a turn first, then stops when the reversed condition is True, so it always plays at least one turn." loading="lazy">
+  <figcaption>Putting NOT around the whole WHILE condition gives the matching UNTIL condition.</figcaption>
+</figure>
+
 ## Range checks: AND inside, OR outside
 
 Two patterns appear constantly:
@@ -101,6 +116,11 @@ A value **inside** a range must satisfy both limits, so the limits are joined wi
 range breaks one limit or the other, so the limits are joined with `OR`. Writing `mark < 0 AND mark > 100` gives a
 condition that can never be True, because no number is both below 0 and above 100. This is the logic behind the
 range checks in [robust and secure programming](/resources/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-boolean-operations--04-range-checks.webp" width="900" height="622" alt="Three number lines marked 0 and 100. mark ≥ 0 AND mark ≤ 100 shades the range between the limits. mark &lt; 0 OR mark > 100 shades both ends beyond the limits. mark &lt; 0 AND mark > 100 shades nothing, because no number is both below 0 and above 100." loading="lazy">
+  <figcaption>Inside a range needs both limits (AND); outside needs either one broken (OR).</figcaption>
+</figure>
 
 ## Boolean variables as flags
 
@@ -123,6 +143,11 @@ Here `found` starts False and is only set to True if a match occurs on any pass.
 True only when no item matched. Notice that the flag is never set back to False inside the loop: doing so would
 mean only the last comparison counted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-boolean-operations--05-boolean-flag.webp" width="900" height="538" alt="Pseudocode that sets found to False, loops through codes[0] to codes[9] setting found to True on a match, then outputs &quot;Code not recognised&quot; if NOT found. Beside it, the flag switches from False to True on any match and is never switched back inside the loop." loading="lazy">
+  <figcaption>A flag starts False, can only be switched to True in the loop, and is tested after it.</figcaption>
+</figure>
+
 ## Order of evaluation
 
 In most languages `NOT` is applied first, then `AND`, then `OR`, in the same way that multiplication comes before
@@ -134,6 +159,11 @@ With `hasKey ← True`, `isAdmin ← False`, `isLoggedIn ← False`, the result 
 With brackets placed differently, `(hasKey OR isAdmin) AND isLoggedIn` is **False**. Because the two readings give
 different answers, always use brackets when a condition mixes `AND` and `OR`. Examiners and other programmers can
 then see exactly what you intended.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-boolean-operations--06-order-of-evaluation.webp" width="900" height="688" alt="With hasKey True, isAdmin False and isLoggedIn False, two evaluation trees are compared. hasKey OR (isAdmin AND isLoggedIn), the default reading, evaluates the AND to False and the OR to True. (hasKey OR isAdmin) AND isLoggedIn evaluates the OR to True and the AND to False." loading="lazy">
+  <figcaption>hasKey OR isAdmin AND isLoggedIn means hasKey OR (isAdmin AND isLoggedIn); brackets remove the doubt.</figcaption>
+</figure>
 
 ## Worked example: evaluating a condition for several inputs
 
@@ -159,6 +189,11 @@ ENDIF
 
 Evaluating each part in its own column, then combining, is the most reliable way to answer "state the output for
 these inputs" questions. It also shows the examiner your reasoning if one value goes wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-boolean-operations--07-cinema-condition-table.webp" width="900" height="671" alt="The condition age ≥ 15 OR (withAdult AND age ≥ 12) evaluated for four inputs. Age 16 without an adult and age 13 with an adult are Allowed; age 13 without an adult and age 10 with an adult are Not allowed, because neither part is True." loading="lazy">
+  <figcaption>Give each part of the condition its own column, then combine them.</figcaption>
+</figure>
 
 ## Worked example: correcting a broken condition
 

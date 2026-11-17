@@ -41,6 +41,16 @@ Sub-section 3.4.3 looks mostly at factors outside school, such as family income.
 
 A practical consequence of setting at GCSE is **tiered entry**: some subjects offer a foundation tier, which caps the highest grade available. A pupil in a low set may be entered for that tier, so the placement directly limits the grade they can achieve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-processes-within-schools--01-tiered-entry.webp" width="900" height="498" alt="A chain: a pupil in a low GCSE set is entered for the foundation tier, which caps the highest grade available. Below, arguments for and against streaming, setting and mixed ability teaching." loading="lazy">
+  <figcaption>Through tiered entry, a set placement can directly limit the grade a pupil can achieve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--07-streaming-setting-mixed.webp" width="900" height="650" alt="Three panels follow one highlighted pupil across maths, English and science. With streaming the pupil is in the lower group for every subject. With setting the pupil is in the top set for maths and science but a lower set for English. With mixed ability everyone is taught together." loading="lazy">
+  <figcaption>Streaming fixes one group for all subjects; setting can differ subject by subject.</figcaption>
+</figure>
+
 ## Labelling and the self-fulfilling prophecy
 
 **Labelling** means attaching a definition to a pupil, such as "bright", "lazy" or "troublemaker". Labels are often based on surface features such as appearance, behaviour, accent or which set a pupil is in, rather than on careful assessment of ability.
@@ -56,6 +66,16 @@ Becker, who is named elsewhere in the specification for his work on deviance, al
 
 A well-known experiment that is not named in the specification, Rosenthal and Jacobson's *Pygmalion in the Classroom* (1968), told teachers that a randomly chosen group of pupils were about to make rapid progress. Many of those pupils did make greater gains, suggesting teacher expectations alone can change outcomes. It is useful supporting evidence, but treat it as a bonus rather than a key study.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-processes-within-schools--02-self-fulfilling-prophecy.webp" width="900" height="683" alt="A four-step cycle: a teacher labels a pupil as not academic; the teacher gives easier work and less praise; the pupil sees themselves through the label and loses effort; achievement falls, which seems to confirm the label." loading="lazy">
+  <figcaption>A label becomes a self-fulfilling prophecy only when it comes true.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-processes-within-schools--03-ideal-pupil.webp" width="900" height="717" alt="Concentric circles with the teacher’s ideal pupil at the centre. Middle-class pupils sit close to the centre; working-class pupils sit further out and are more likely to be seen as badly behaved. Below, Rosenthal and Jacobson’s experiment as bonus evidence that expectations can change outcomes." loading="lazy">
+  <figcaption>Teachers judged pupils against an ideal that was closest to middle-class pupils.</figcaption>
+</figure>
+
 ## Ball on teacher expectations
 
 Stephen Ball's *Beachside Comprehensive* (1981) is based on three years of fieldwork as a **participant observer** in a south coast comprehensive. It followed two cohorts: one **banded by ability** and one taught in **mixed ability** classes.
@@ -69,6 +89,11 @@ Stephen Ball's *Beachside Comprehensive* (1981) is based on three years of field
 
 **Evaluation:** participant observation over three years produces rich, valid data on everyday school life. But it is a single school, so it may not be representative, and the researcher's presence might have changed how people behaved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-processes-within-schools--04-ball-beachside.webp" width="900" height="765" alt="Two cohorts. In the banded cohort, middle-class pupils were more often placed in band 1 and prepared for higher-status exams, while band 2 was steered to lower-status courses and developed anti-school attitudes: polarisation. In the mixed ability cohort polarisation was less marked, but teachers’ expectations still favoured middle-class pupils." loading="lazy">
+  <figcaption>Banding worked as an institutional label that shaped pupils’ attitudes and exams.</figcaption>
+</figure>
+
 ## Willis on counter school cultures
 
 Paul Willis's *Learning to Labour* (1977) focused on twelve working-class boys, "the lads", at a Midlands school on a working-class housing estate. He used observation and participant observation, group discussions, informal interviews and diaries to understand school from the pupils' point of view.
@@ -79,6 +104,11 @@ Paul Willis's *Learning to Labour* (1977) focused on twelve working-class boys, 
 - Willis concluded that rejecting school made them suitable for male-dominated, unskilled or semi-skilled manual work, which was relatively easy to get in the 1970s.
 
 **Link to labelling:** Willis shows pupils are not passive. The lads were not simply labelled into failure; they actively chose an identity that rejected school. This is a different process from Ball's, where the institution's grouping shaped pupils' attitudes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-processes-within-schools--05-willis-lads.webp" width="900" height="835" alt="The lads formed a counter school culture, felt superior to teachers and to conformist ear’oles, and aimed to have a laff. Rejecting school suited them to male-dominated manual work, easy to get in the 1970s. Below, Ball shows the institution shaping pupils while Willis shows pupils actively resisting." loading="lazy">
+  <figcaption>Willis shows pupils actively choosing resistance, which still led to manual work.</figcaption>
+</figure>
 
 ## Perspectives compared
 

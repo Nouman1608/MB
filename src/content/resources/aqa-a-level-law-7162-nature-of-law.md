@@ -50,6 +50,16 @@ You are not required to learn legal theorists for this row, but two ideas help y
 - **John Austin** described law as a command of the sovereign, backed by a sanction. This captures enforceability but struggles with laws that grant powers rather than order behaviour, such as the rules on making a valid will.
 - **H. L. A. Hart**, in *The Concept of Law* (1961), described a legal system as a union of **primary rules** (rules of conduct, such as "do not steal") and **secondary rules** (rules about rules): a rule of recognition identifying what counts as law, rules of change, and rules of adjudication. On this view, a school rule is not law because the legal system's rule of recognition does not recognise the school as a law-maker.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law--01-legal-or-other-rule.webp" width="900" height="684" alt="Legal rules are made by a state authority, bind everyone, are enforced by the courts, change at an identifiable moment and are challenged through legal processes; other rules are made by groups, bind members, are enforced socially and change gradually. A golf club can expel a cheat, but only the state’s law can prosecute fraud. Smoking in enclosed workplaces moved from manners to an offence under the Health Act 2006." loading="lazy">
+  <figcaption>Importance or obedience does not make a rule legal; enforcement by the state does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law--02-austin-hart.webp" width="900" height="643" alt="A rule is specific, like a 30 mph limit; a principle is broad, like “no one may profit from their own wrong”, and guides judges when rules run out. Austin saw law as a sovereign’s command backed by a sanction. Hart saw a legal system as primary rules of conduct united with secondary rules of recognition, change and adjudication, so a school rule is not law." loading="lazy">
+  <figcaption>Hart’s rule of recognition explains why a school rule is not law.</figcaption>
+</figure>
+
 ## Criminal law and civil law
 
 The comparison table in the main section 3.1 guide covers purpose, parties, standard of proof, courts and outcomes. Four further points earn credit.
@@ -58,6 +68,11 @@ The comparison table in the main section 3.1 guide covers purpose, parties, stan
 2. **Terminology.** A defendant in a criminal case is found **guilty** or **not guilty**; in a civil case the defendant is **liable** or **not liable**. Using "guilty" for a civil case is a common slip examiners notice.
 3. **One event, two cases.** A single incident can lead to both. A driver who injures a cyclist through careless driving may be prosecuted for the driving offence and separately sued in negligence for compensation. Because the standards of proof differ, the driver could be acquitted in the criminal court yet found liable in the civil one.
 4. **Purpose and outcome.** Criminal law protects society as a whole, so the victim does not control the case and the sentence is decided by the court. Civil law protects private rights, so the remedy is aimed at the claimant: damages to restore their position, or an injunction to stop the wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law--03-one-event-two-cases.webp" width="900" height="618" alt="A careless driver who injures a cyclist can face a criminal prosecution by the Crown Prosecution Service, with a verdict of guilty or not guilty and a sentence decided by the court, and a separate civil claim in negligence by the cyclist, who decides whether to sue and may settle, with an outcome of liable or not liable and damages. Because the standards of proof differ, the outcomes can differ." loading="lazy">
+  <figcaption>Same facts, two cases, different language and possibly different results.</figcaption>
+</figure>
 
 ## Sources of law: custom, statute and common law
 
@@ -90,6 +105,16 @@ Common law (judicial precedent)
 Custom (only if it passes every test, and only locally)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law--04-custom-tests.webp" width="900" height="430" alt="Four tests for a local custom: existence since time immemorial (1189); exercise peaceably, openly and as of right; reasonableness and certainty; and consistency with statute. Mercer v Denne succeeded (drying nets); Simpson v Wells failed on time immemorial; Wolstanton failed as unreasonable." loading="lazy">
+  <figcaption>A custom must pass all four tests, and most modern claims fail.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law--05-sources-ranking.webp" width="900" height="657" alt="Statute, including delegated legislation within its powers, is highest because of parliamentary supremacy and overrides the common law, which is made by judges through precedent (murder; Donoghue v Stevenson). The common law overrides custom, which survives only locally if every test is met. Example: the Law Reform (Year and a Day Rule) Act 1996 abolished a common law rule." loading="lazy">
+  <figcaption>Statute beats common law; common law beats custom.</figcaption>
+</figure>
+
 ## Worked example: a short-answer question
 
 **Question:** Explain the difference between a legal rule and a moral or social rule, using an example.
@@ -97,6 +122,11 @@ Custom (only if it passes every test, and only locally)
 **Model answer (annotated):** A legal rule is made by a recognised state authority, such as Parliament, and is binding on everyone within the jurisdiction *[source and scope]*. It is enforced by the state through the courts, which can impose sanctions such as a fine or imprisonment *[enforceability]*. A social rule, such as a club's dress code, is made by a group and binds only its members; breaking it may lead to disapproval or expulsion, but not to a court-imposed sanction *[contrast]*. Some social rules become legal rules when Parliament decides they need state enforcement, as when smoking in enclosed workplaces became an offence under the Health Act 2006 *[example showing the line can move]*.
 
 The answer earns its marks by naming a feature, explaining it, and contrasting it, then grounding the point in a real example.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law--06-short-answer-anatomy.webp" width="900" height="582" alt="The model answer in four moves: the source and scope of a legal rule, its enforceability by the state, a contrast with a club’s dress code, and an example of a social rule becoming law under the Health Act 2006." loading="lazy">
+  <figcaption>Name a feature, explain it, contrast it, then ground it in an example.</figcaption>
+</figure>
 
 ## Common mistakes
 

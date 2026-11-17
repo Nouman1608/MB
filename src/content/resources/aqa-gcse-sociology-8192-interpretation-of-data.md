@@ -34,6 +34,11 @@ The [research methods study guide](/resources/aqa-gcse-sociology-8192-research-m
 
 Good descriptions say what the pattern or trend is, **quote figures with units**, and note any **exceptions**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--01-pattern-trend.webp" width="900" height="643" alt="Two panels. A pattern is a regular relationship at one point in time, shown as grouped bars where one group is always higher. A trend is a general direction over time, shown as one rising and one falling line. Below: describe it, quote figures with units and note exceptions." loading="lazy">
+  <figcaption>A pattern compares groups at one time; a trend follows change over time.</figcaption>
+</figure>
+
 ## A routine for any data item
 
 1. **Read the title.** What is being measured, where and when?
@@ -43,6 +48,11 @@ Good descriptions say what the pattern or trend is, **quote figures with units**
 5. **Quote figures.** Use the highest, lowest, first and last values.
 6. **Note exceptions.** Is there a year or group that does not fit?
 7. **Ask what the data cannot show.** Causes, meanings, groups not included.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--02-data-routine.webp" width="900" height="518" alt="Seven numbered steps: read the title, check the units, check the source and sample, find the overall pattern or trend, quote figures, note exceptions, and ask what the data cannot show." loading="lazy">
+  <figcaption>Check what the data measure before describing them, and what they miss before concluding.</figcaption>
+</figure>
 
 ## Types of presentation
 
@@ -97,6 +107,21 @@ A **rate** compares a number with the size of a population, so groups of differe
 
 Income data often use the median, because a few very high earners pull the mean upwards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--03-percentage-points.webp" width="900" height="608" alt="Line chart of a fictional household survey, 2005 to 2025. Couples with dependent children fell from 38% to 30%, one-person households rose from 28% to 31%, other households went from 25% to 27%, and lone-parent households rose from 9% to 12%. The lone-parent rise is 3 percentage points, which is a 33% increase." loading="lazy">
+  <figcaption>A rise from 9% to 12% is 3 percentage points but a 33% increase.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--04-rates.webp" width="900" height="664" alt="District A has 24,000 pupils and 360 exclusions, a rate of 15 per 1,000. District B has 9,000 pupils and 180 exclusions, a rate of 20 per 1,000. District B had fewer exclusions but a higher rate." loading="lazy">
+  <figcaption>A rate lets groups of different sizes be compared fairly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--05-mean-median.webp" width="900" height="560" alt="Eleven people are placed along an income line, most clustered at the low end and two far to the right. The median, the middle person, sits among the cluster; the mean is pulled upwards by the few high earners. Below, definitions of mean, median and mode." loading="lazy">
+  <figcaption>A few very high earners pull the mean up, so the median gives a fairer middle.</figcaption>
+</figure>
+
 ## Traps when reading data
 
 - **Numbers versus rates.** A larger town may have more crimes simply because it has more people.
@@ -108,6 +133,11 @@ Income data often use the median, because a few very high earners pull the mean 
 - **Definitions.** If "poverty" or "crime" is defined differently in two years, a trend may be false.
 - **Who is missing.** A survey of school pupils says nothing about young people not in school.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--07-eight-traps.webp" width="900" height="694" alt="Eight cards: numbers versus rates, percentages versus percentage points, truncated axes, missing years, correlation versus causation, small samples, changing definitions, and groups missing from the data, each with a short example." loading="lazy">
+  <figcaption>Before trusting a figure, check it against each trap.</figcaption>
+</figure>
+
 ## Worked example: a full data answer
 
 > **Item (fictional):** Recorded violent incidents per 1,000 residents in Haverford: 2015: 18; 2017: 21; 2019: 24; 2021: 19; 2023: 26; 2025: 28.
@@ -117,6 +147,11 @@ Income data often use the median, because a few very high earners pull the mean 
 > **Answer:** Overall, recorded violent incidents rose from 18 per 1,000 residents in 2015 to 28 per 1,000 in 2025, an increase of 10 incidents per 1,000. The rise was steady until 2019, when the rate reached 24, but it fell to 19 in 2021 before rising again to 26 in 2023 and 28 in 2025. These figures may not show the true level of violence because they are recorded incidents: some victims do not report violence, especially within families, and changes in police recording practices could increase the figures even if violence itself did not rise.
 
 Notice that the answer gives the overall direction, quotes the first and last figures with units, picks out the exception (2021), and explains a limitation using a sociological concept.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--06-worked-example.webp" width="900" height="665" alt="Line graph of fictional recorded violent incidents per 1,000 residents in Haverford: 18 in 2015, 21 in 2017, 24 in 2019, 19 in 2021, 26 in 2023 and 28 in 2025. Labels mark the first and last values and the 2021 exception. Below: the direction, the exception and a limitation of recorded figures." loading="lazy">
+  <figcaption>Give the direction, quote first and last figures, pick out the exception, then explain a limitation.</figcaption>
+</figure>
 
 ## Linking data to sociology
 

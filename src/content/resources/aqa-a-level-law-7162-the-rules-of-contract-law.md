@@ -35,6 +35,11 @@ Is there a     What was    Is the agreement     How did the    What can the
 contract?      promised?   flawed?              contract end?  innocent party get?
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-contract-law--01-life-of-a-contract.webp" width="900" height="542" alt="Five arrow-shaped stages in order: formation (is there a contract?), terms (what was promised?), vitiating factors (is the agreement flawed?), discharge (how did it end?) and remedies (what can the innocent party get?). Problem answers work through only the stages the facts raise, in order." loading="lazy">
+  <figcaption>Formation, terms, vitiating factors, discharge, remedies: the order of every answer.</figcaption>
+</figure>
+
 ## Where the rules come from
 
 Contract is mainly **common law**, built up by judges from the nineteenth century onwards, with statute added where Parliament wanted to protect weaker parties or fix problems the courts could not.
@@ -56,6 +61,11 @@ Contract is mainly **common law**, built up by judges from the nineteenth centur
 
 Two consequences follow. First, many rules are **case-based**, so a definition without an authority is weak. Second, where a statute applies it **overrides** the common law: for example, s31 Consumer Rights Act 2015 prevents a trader excluding the statutory implied terms, whatever the contract says.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-contract-law--02-sources-of-rules.webp" width="900" height="574" alt="Three sources of contract rules. Common law: offer and acceptance (Carlill, Adams v Lindsell), consideration (Currie v Misa, Williams v Roffey), intention (Balfour), implied terms (The Moorcock), economic duress (Atlas Express) and damages (Hadley v Baxendale). Statute: the 1999, 2015, 1977, 1967 and 1943 Acts. Equity: specific performance and rescission. Rules are case-based, and statute overrides common law." loading="lazy">
+  <figcaption>Cite a case for common law rules; check whether a statute overrides them.</figcaption>
+</figure>
+
 ## Proving a contract claim
 
 Contract claims are civil. The claimant must prove the contract, its terms and the breach on the **balance of probabilities**. A defendant who relies on a vitiating factor or a discharge, such as frustration, must prove it to the same standard.
@@ -65,6 +75,11 @@ Contract claims are civil. The claimant must prove the contract, its terms and t
 Courts judge agreement **objectively**: what would a reasonable person in the position of the other party understand from the words and conduct, not what one party privately meant. In *Smith v Hughes* (1871) a buyer bought oats thinking they were old oats, when they were new; the seller had said nothing about age. The court held that the buyer's private mistake about the quality of the oats, which the seller had not caused, did not prevent a binding contract: the question was what a reasonable person would have understood the seller to be promising.
 
 The objective approach explains several rules: an offer is judged by how it appears to a reasonable offeree; acceptance must be communicated in a way the offeror can see; and intention to create legal relations is presumed from the context rather than proved from inner thoughts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-contract-law--03-objective-approach.webp" width="900" height="571" alt="In Smith v Hughes the seller sold new oats without mentioning age; the buyer privately believed they were old. The court asked what a reasonable person would understand the seller to be promising, so the buyer’s private mistake did not prevent a binding contract. The same objective approach applies to offers, acceptance and intention." loading="lazy">
+  <figcaption>Courts ask what a reasonable person would understand, not what one party privately meant.</figcaption>
+</figure>
 
 ## Consumer or business?
 
@@ -78,6 +93,11 @@ Many rules depend on the type of contract, so classify it early.
 
 Getting this wrong is costly: applying s9 Consumer Rights Act 2015 to a sale between two friends, or UCTA's reasonableness test to a consumer contract, misstates the law.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-contract-law--04-classify-contract.webp" width="900" height="568" alt="Three types of contract and their law: a trader and a consumer make a consumer contract under the Consumer Rights Act 2015; two businesses are governed by UCTA 1977 and common law; two private individuals by common law with limited statutory protection. Section 2 CRA 2015 defines trader and consumer." loading="lazy">
+  <figcaption>Who the parties are decides which statute applies.</figcaption>
+</figure>
+
 ## Valid, void, voidable and unenforceable
 
 | Status | Meaning | Example |
@@ -89,9 +109,19 @@ Getting this wrong is costly: applying s9 Consumer Rights Act 2015 to a sale bet
 
 The distinction controls remedies. A voidable contract can be **rescinded**, unwinding it, but the right can be lost through affirmation, delay or third-party rights. A breach of a valid contract gives damages and sometimes termination.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-contract-law--05-contract-status.webp" width="900" height="503" alt="Four statuses. Valid: binding and enforceable. Voidable: valid until the innocent party rescinds, as with misrepresentation or economic duress; the right can be lost by affirmation, delay or third-party rights. Unenforceable: valid but not enforceable in court, such as an unwritten guarantee under the Statute of Frauds. Void: no contract at all, such as where there is no acceptance." loading="lazy">
+  <figcaption>The status decides the remedy: rescission for voidable, damages for breach of a valid contract.</figcaption>
+</figure>
+
 ## Bilateral and unilateral contracts
 
 In a **bilateral** contract each side promises something: a promise is exchanged for a promise. In a **unilateral** contract one party promises in return for an act, as in *Carlill*, where the company promised £100 to anyone who used the smoke ball as directed and still caught influenza. The distinction matters for when acceptance happens and whether an offer can be withdrawn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-contract-law--06-bilateral-unilateral.webp" width="900" height="489" alt="Two panels. Bilateral: each party exchanges a promise for a promise. Unilateral: one party promises in return for an act, as in Carlill v Carbolic Smoke Ball Co, where £100 was promised to anyone who used the smoke ball as directed and still caught influenza. The type affects when acceptance happens and whether an offer can be withdrawn." loading="lazy">
+  <figcaption>Bilateral: promise for promise. Unilateral: promise for an act.</figcaption>
+</figure>
 
 ## A method for problem questions
 
@@ -124,6 +154,11 @@ Conclusion:  Asha can reject the laptop for a full refund if she acts in time.
 ```
 
 The answer works because it classifies the contract before choosing the statute, and moves through the stages in order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-contract-law--07-worked-example-asha.webp" width="900" height="712" alt="Asha’s case in five steps: a contract is formed when TechWorld confirms her order; it is a consumer contract under the Consumer Rights Act 2015; the faulty keyboard breaches s9 satisfactory quality; the “No refunds” term cannot restrict her rights under s31; she can use the short-term right to reject within 30 days or seek repair or replacement." loading="lazy">
+  <figcaption>Classify the contract before choosing the statute, then move through the stages.</figcaption>
+</figure>
 
 ## Common mistakes
 

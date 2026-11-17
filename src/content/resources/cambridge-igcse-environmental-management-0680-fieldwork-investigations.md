@@ -39,6 +39,16 @@ The syllabus lists nine parts. Think of them as the stages of one investigation.
 8. **Identify and process anomalies.** An anomaly is a result that does not fit the pattern. Check for an error, then exclude it from the mean or repeat the measurement, and say that you have done so.
 9. **Form conclusions.** State whether the data support the hypothesis, quote figures, and note how reliable the conclusion is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fieldwork-investigations--01-scientific-method.webp" width="900" height="520" alt="A snaking flow of nine numbered stages: aims and hypotheses, plan methods, measured and control variables, independent and dependent variables, repeats and replicates, record data, analyse data, identify anomalies, and form conclusions." loading="lazy">
+  <figcaption>Each stage of the scientific method feeds the next, from hypothesis to conclusion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fieldwork-investigations--02-variables.webp" width="900" height="646" alt="Habitat type, the independent variable, affects the number of beetles, the dependent variable. Trap size, time left out and time of day are control variables kept the same. Below, repeats are measurements taken again; replicates are extra samples at different places." loading="lazy">
+  <figcaption>Change one variable, measure one, and keep the rest the same.</figcaption>
+</figure>
+
 ## Sampling strategies (5.4.2 and 5.4.3)
 
 You sample because counting every organism is impossible. The strategy decides **where** samples are taken.
@@ -52,6 +62,11 @@ You sample because counting every organism is impossible. The strategy decides *
 - Limitations: can miss organisms between sample points; can give biased results if the interval matches a regular pattern on the ground, such as plough lines.
 
 Choose systematic sampling when the question describes a gradient and random sampling when it asks you to compare two similar areas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fieldwork-investigations--03-random-systematic.webp" width="900" height="706" alt="Left: a grid laid out with two tape measures, with quadrats at randomly chosen coordinates. Right: a transect at right angles to a footpath with a 0.5 m quadrat every 2 m, sampling the gradient away from the path." loading="lazy">
+  <figcaption>Random for comparing similar areas; systematic for change along a gradient.</figcaption>
+</figure>
 
 ## Sampling techniques (5.4.4 and 5.4.5)
 
@@ -69,6 +84,11 @@ The technique decides **how** organisms are caught or counted.
 
 When a question asks you to choose a technique, match it to the organism: pitfall traps for ground beetles, sweep nets for grassland insects, quadrats for plants, drones for herds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fieldwork-investigations--04-sampling-techniques.webp" width="900" height="574" alt="Seven cards with simple drawings: a pitfall trap for ground beetles, a pooter for very small invertebrates, a sweep net for insects in long grass, a quadrat for plants, a transect for gradients, a drone for herds and vegetation cover, and a camera trap for shy or night-active animals." loading="lazy">
+  <figcaption>Pick the technique that fits the organism and where it lives.</figcaption>
+</figure>
+
 ## Worked example 1: an anomaly and a mean
 
 The data are invented. A student set five pitfall traps in woodland and counted beetles after 24 hours: 4, 6, 5, 21, 5.
@@ -78,6 +98,11 @@ The data are invented. A student set five pitfall traps in woodland and counted 
 3. Mean excluding it = (4 + 6 + 5 + 5) ÷ 4 = 20 ÷ 4 = 5.0 beetles per trap.
 
 The second mean better represents the woodland. Say in the method that the anomaly was excluded, and suggest repeating that trap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fieldwork-investigations--05-anomaly-mean.webp" width="900" height="625" alt="Bar chart of beetles in five pitfall traps: 4, 6, 5, 21 and 5. The value 21 is marked as an anomaly. A dashed line shows the mean including it, 8.2; a solid line shows the mean excluding it, 5.0." loading="lazy">
+  <figcaption>One anomaly can drag a mean far from the typical value.</figcaption>
+</figure>
 
 ## Worked example 2: annotated planning answer
 

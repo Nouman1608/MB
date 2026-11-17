@@ -40,11 +40,31 @@ Overfishing means catching fish faster than the population can replace itself by
 
 Removing a species changes the food chain around it. If a prey fish is overfished, its predators, such as seabirds, seals and larger fish, have less food and their numbers fall. If a predator is overfished, its prey can increase, which may then overgraze their own food. Because many marine species are linked in food webs, the effects spread well beyond the fished species.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-marine-aquaculture--01-overfishing-collapse.webp" width="900" height="645" alt="Rising demand, larger boats, sonar and huge nets let fishers catch fish faster than the population replaces itself. Too many breeding adults are removed, fewer young are produced, catches fall year after year and the stock can collapse." loading="lazy">
+  <figcaption>Remove too many breeding adults and fewer young replace them, until the stock collapses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-marine-aquaculture--02-target-bycatch.webp" width="900" height="715" alt="A net holds the target fish and bycatch such as small non-target fish, a turtle and a dolphin. Heavy fishing removes the largest, oldest target fish, so average size falls; bycatch of non-target fish, juveniles, turtles, dolphins, sharks and seabirds is often thrown back dead or dying." loading="lazy">
+  <figcaption>Fishing harms both the target species and the bycatch caught alongside it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-marine-aquaculture--03-food-chain-effects.webp" width="900" height="755" alt="Two food chains. When a prey fish is overfished, its predators such as seabirds, seals and larger fish have less food and decline. When a predator is overfished, its prey can increase and may overgraze their own food." loading="lazy">
+  <figcaption>Overfishing one species changes the numbers of the species above and below it.</figcaption>
+</figure>
+
 ## Defining marine aquaculture (3.4.2)
 
 The syllabus defines **marine aquaculture as the farming of marine species in captivity**, limited to **fish, crustaceans and seaweeds**. Knowledge of specific species is not required, so describe groups: farmed fish kept in floating net cages in sheltered bays, crustaceans such as shrimps or prawns raised in coastal ponds, and seaweeds grown on ropes or lines in the sea.
 
 The key word is captivity: the organisms are contained and managed, fed if necessary, protected from predators and harvested when they reach market size.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-marine-aquaculture--04-three-forms.webp" width="900" height="705" alt="A coastal cross-section, not to scale. Crustaceans such as shrimps or prawns are raised in coastal ponds; fish are kept in floating net cages in a sheltered bay; seaweeds are grown on ropes or lines in the sea. In captivity the organisms are contained, fed if necessary, protected from predators and harvested at market size." loading="lazy">
+  <figcaption>Marine aquaculture farms fish, crustaceans and seaweeds in captivity.</figcaption>
+</figure>
 
 ## Impacts of marine aquaculture (3.4.3)
 
@@ -63,6 +83,11 @@ The syllabus lists eight impacts. Learn them as two benefits and six concerns.
 
 Seaweed farming is a useful contrast in answers: seaweeds need no feed and take up nutrients from the water as they grow, so they avoid several of the concerns in the table.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-marine-aquaculture--05-eight-impacts.webp" width="900" height="920" alt="A cross-section of a floating fish cage. Two benefits: less exploitation of wild fisheries and more food. Six numbered concerns: fish escaping through a torn net, disease spreading among crowded fish, wild fish attracted to waste feed, feed and faeces enriching the water below, energy used by boats and pumps, and feed pellets made partly from wild-caught fish. Seaweed farms need no feed and avoid several concerns." loading="lazy">
+  <figcaption>Aquaculture brings two benefits and six concerns; seaweed farming avoids several of the concerns.</figcaption>
+</figure>
+
 ## Managing the harvest of marine species (3.4.4)
 
 | Strategy | How it works |
@@ -77,6 +102,11 @@ Seaweed farming is a useful contrast in answers: seaweeds need no feed and take 
 | Conservation laws | Laws protecting endangered species or banning damaging methods, enforced with fines |
 | International agreements: implementation and monitoring | Fish move across borders, so countries agree shared limits and then check that they are followed, for example by inspections and vessel tracking |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-marine-aquaculture--06-harvest-strategies.webp" width="900" height="672" alt="The nine strategies grouped by what they control. Gear: limits on boat and net size, larger mesh size, pole and line. Amount: quotas. Time: closed seasons and limited fishing days. Place: protected areas. Rules: conservation laws and international agreements with implementation and monitoring." loading="lazy">
+  <figcaption>Harvest controls limit the gear, the amount, the time, the place, or set the rules.</figcaption>
+</figure>
+
 ## Worked example: a quota calculation
 
 The figures are invented for practice. Scientists estimate that a fish stock contains 180,000 tonnes. They advise that no more than 15% of the stock is caught each year. The quota is shared equally between 90 licensed boats.
@@ -85,6 +115,11 @@ The figures are invented for practice. Scientists estimate that a fish stock con
 2. Quota per boat = 27,000 / 90 = 300 tonnes.
 
 A follow-up question might ask why the quota could still fail. Strong answers mention that boats may land more than their quota illegally, that undersized or over-quota fish may be discarded at sea and die, and that the stock estimate itself may be wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-marine-aquaculture--07-quota-worked-example.webp" width="900" height="615" alt="A stock of 180,000 tonnes with a 15% limit gives a total quota of 27,000 tonnes; shared between 90 boats that is 300 tonnes each. A bar shows 15% caught and 85% left. The quota could still fail through illegal landings, discards that die, or a wrong stock estimate." loading="lazy">
+  <figcaption>15% of 180,000 t is 27,000 t, or 300 t per boat, but only if catches are honest and the estimate is right.</figcaption>
+</figure>
 
 ## Worked example: an annotated "discuss" answer
 

@@ -52,6 +52,11 @@ themselves, so goods moved freely across most of Germany. Austria stayed outside
 Its limits are also worth knowing: economic co-operation did not make states politically loyal. Bavaria, Saxony and
 Hanover were Zollverein members but fought on Austria's side in 1866.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-germany--01-zollverein.webp" width="900" height="589" alt="A schematic: Prussia at the centre of a customs union of German states with no tariffs inside, and Austria outside. Notes list why it mattered: Prussian economic leadership, railways and trade, and coal and iron to pay for an army. Below, its limits: Bavaria, Saxony and Hanover were members but fought for Austria in 1866." loading="lazy">
+  <figcaption>The Zollverein made Prussia the economic leader, but not the political one.</figcaption>
+</figure>
+
 ## Why was Germany not unified in 1848-50?
 
 In March 1848 street fighting in Berlin forced **Frederick William IV** to withdraw his troops and promise a
@@ -71,6 +76,11 @@ backed by Russia, forced Prussia to abandon it at **Olmütz (November 1850)**, a
 humiliation. The old Confederation was restored under Austrian leadership. The lesson was clear: Austria would have
 to be defeated before Germany could be united under Prussia.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-germany--02-why-not-1848.webp" width="900" height="561" alt="Four reasons the Frankfurt Parliament failed: no army or taxes, disagreement over borders, the princes' recovery and Frederick William IV's refusal of the crown in April 1849. Below, a chain: the Erfurt Union (1849-50), the humiliation of Olmütz (November 1850), and the lesson that Austria had to be defeated first." loading="lazy">
+  <figcaption>1848-50 showed that Austria would block unification under Prussia.</figcaption>
+</figure>
+
 ## Bismarck as Minister-President
 
 In 1862 King **William I** was in conflict with the Prussian parliament, whose liberal majority refused to pay for
@@ -79,6 +89,11 @@ September 1862. Bismarck told the parliament's budget committee that the great q
 not by speeches and majority votes, "the great mistake of 1848 and 1849", but by "iron and blood". He collected taxes
 and carried out the reforms without parliamentary approval. Under the chief of staff **Moltke**, the army was trained
 to use railways and the breech-loading needle gun.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-germany--03-three-wars.webp" width="900" height="627" alt="A timeline from 1862 to 1871 drawn to scale with three wars: Denmark (1864), Austria (summer 1866) and France (July 1870 to January 1871). Events: Bismarck appointed (September 1862), Gastein and Biarritz (1865), Königgrätz (3 July 1866), the North German Confederation (1867), the Ems Telegram, Sedan (September 1870) and the proclamation of the Empire (18 January 1871)." loading="lazy">
+  <figcaption>Three short wars in seven years, each isolating the next enemy.</figcaption>
+</figure>
 
 ## Schleswig-Holstein, 1864
 
@@ -107,6 +122,11 @@ Hanover, Hesse-Kassel, Nassau and Frankfurt, and created the **North German Conf
 leadership. The southern states (Bavaria, Württemberg, Baden and southern Hesse) stayed independent but signed secret
 military alliances with Prussia. Leniency mattered: Austria would not seek revenge, and Bismarck might need it later.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-germany--04-isolating-austria.webp" width="900" height="571" alt="A hub with Austria isolated at the centre. Russia was friendly after the Polish rising of 1863; France was neutral after Biarritz (1865); Italy was an ally for three months from April 1866 in return for Venetia; and the pretext came over Holstein. A note on the lenient Treaty of Prague." loading="lazy">
+  <figcaption>Bismarck isolated Austria first, then made a lenient peace.</figcaption>
+</figure>
+
 ## How did Bismarck bring about France's defeat in 1870?
 
 Napoleon III had expected a long war in 1866 and got nothing. His attempt to buy **Luxembourg (1867)** was blocked.
@@ -121,6 +141,11 @@ At **Sedan (September 1870)** Napoleon III was captured; Paris was besieged unti
 William I was proclaimed **German Emperor** in the Hall of Mirrors at Versailles. The **Treaty of Frankfurt (May
 1871)** gave Germany **Alsace and part of Lorraine** and a war indemnity of 5 billion francs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-germany--05-ems-chain.webp" width="900" height="699" alt="Five steps: the Luxembourg purchase blocked (1867); Leopold's candidacy for the Spanish throne and its withdrawal (1870); the French demand at Ems, refused by William I; Bismarck's edited telegram (highlighted); and France's declaration of war on 19 July 1870, which brought the southern states to Prussia's side." loading="lazy">
+  <figcaption>By editing a real report, Bismarck made France look like the aggressor.</figcaption>
+</figure>
+
 ## How far was Bismarck responsible?
 
 | Bismarck's role | Other factors |
@@ -133,6 +158,11 @@ William I was proclaimed **German Emperor** in the Hall of Mirrors at Versailles
 
 Historians disagree about whether Bismarck followed a long-term plan or exploited opportunities as they came. A
 strong answer can argue that he was an opportunist who used Prussian strength skilfully.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-germany--06-bismarck-responsible.webp" width="900" height="561" alt="A balance between Bismarck's role (isolating enemies, choosing timing, a lenient peace, the Ems Telegram, winning over liberals) and other factors (Prussian economic strength, Roon and Moltke, William I, Austria's weakness after 1859 and Napoleon III's mistakes)." loading="lazy">
+  <figcaption>Bismarck's skill worked because Prussia was already strong.</figcaption>
+</figure>
 
 ## Annotated model answer
 

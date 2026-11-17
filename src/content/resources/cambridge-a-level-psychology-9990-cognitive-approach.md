@@ -39,6 +39,16 @@ The first assumption is about what is universal: everyone takes in information, 
 
 A useful habit is to label the input, process and output in each study. For Andrade the input is the telephone message, the process is attention and memory, and the output is the names written down and recalled. For Baron-Cohen et al. the input is a photograph of eyes, the process is inferring a mental state, and the output is the chosen word. For Pozzulo et al. the input is a target face, the process is encoding and later recognition, and the output is the line-up decision.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-cognitive-approach--01-input-process-output.webp" width="900" height="566" alt="A table of three rows labels input, process and output: Andrade (telephone message, attention and memory, names recalled), Baron-Cohen et al. (photograph of eyes, inferring a mental state, chosen word) and Pozzulo et al. (target face, encoding and recognition, line-up decision). A note links each study to an assumption." loading="lazy">
+  <figcaption>Every study fits the same input, process, output route.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-approaches-issues-and-debates--17-psy-cognitive-route.webp" width="900" height="870" alt="A vertical flow: Input, then a large Process box containing four chips (attention, language, thinking, memory), then Output. A note says people differ in each process." loading="lazy">
+  <figcaption>The cognitive approach: information is processed along an input, process, output route, with individual differences in attention, language, thinking and memory.</figcaption>
+</figure>
+
 ## Andrade (2010): doodling
 
 **Psychology investigated.** Attention and memory. When a task is boring, people may daydream, which uses up the processing capacity needed for the task. Doodling might help by giving just enough to do to stop the mind wandering.
@@ -55,6 +65,11 @@ A useful habit is to label the input, process and output in each study. For Andr
 - *Weaknesses*: the shading task is not free doodling, and listening to a recorded message in a laboratory differs from a real call or lecture, so ecological validity is limited. Daydreaming was not measured directly, so the explanation is inferred.
 - *Ethics*: the surprise test is a mild deception, justified because telling participants would have changed the dependent variable; a debrief removed any harm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-cognitive-approach--02-andrade-doodling.webp" width="900" height="984" alt="Forty probably bored participants listened to a dull telephone message and wrote down party guests' names. Half shaded printed shapes while listening. In a surprise recall test the doodling group recalled about 29% more than the control group and were more accurate on the monitoring task." loading="lazy">
+  <figcaption>Shading shapes during a dull message raised recall by about 29%.</figcaption>
+</figure>
+
 ## Baron-Cohen et al. (2001): the eyes test
 
 **Psychology investigated.** Theory of mind: the ability to attribute mental states such as beliefs and feelings to others. The syllabus also names social sensitivity.
@@ -69,6 +84,16 @@ A useful habit is to label the input, process and output in each study. For Andr
 
 **Evaluation.** Four answer choices and 36 items reduce guessing and ceiling effects, improving validity. However, photographs of eyes are static and lack the context of real social situations, so the test may not reflect everyday theory of mind. The autism group was small, which limits generalisation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-cognitive-approach--03-eyes-test-revised.webp" width="900" height="626" alt="A table compares the original Eyes test (two answer choices, too few items, a ceiling effect) with the revised version (four words, 36 photographs, a glossary, better separation of people). A schematic item shows a photograph of the eye region with one target word and three foils." loading="lazy">
+  <figcaption>Four choices and 36 items reduced guessing and the ceiling effect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-cognitive-approach--04-eyes-test-design.webp" width="900" height="799" alt="Two parts of the design: a quasi-experiment comparing four adult groups, and a correlation between Eyes test and Autism Spectrum Quotient scores. The autism group scored significantly lower, and an illustrative scatter shows that higher AQ scores went with lower Eyes test scores." loading="lazy">
+  <figcaption>More autistic traits went with lower Eyes test scores.</figcaption>
+</figure>
+
 ## Pozzulo et al.: line-ups
 
 **Psychology investigated.** Eyewitness testimony and false positive responses. A **false positive** is choosing someone from a line-up when the culprit is not in it.
@@ -78,6 +103,11 @@ A useful habit is to label the input, process and output in each study. For Andr
 **Results and conclusion.** Children made more false positive responses than adults in target-absent line-ups. This shows that young children are more likely to pick an innocent person when the culprit is not present, which matters for how police use child witnesses.
 
 **Evaluation.** Using both cartoon and human faces allowed the researchers to see whether the type of face mattered, and identical line-ups for every participant gave standardisation. However, seeing a face on a screen with no threat or emotion is very different from witnessing a crime, so ecological validity is low. Ethically, children cannot give informed consent themselves, so parental consent was needed, and they had to be protected from feeling they had "failed".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-cognitive-approach--05-pozzulo-lineups.webp" width="900" height="744" alt="Two line-ups of four people. In the target-present line-up the culprit (gold) is included; in the target-absent line-up the culprit is missing, so choosing anyone is a false positive. Children made more false positive responses than adults in target-absent line-ups." loading="lazy">
+  <figcaption>In a target-absent line-up any choice is a false positive, and children made more.</figcaption>
+</figure>
 
 ## Annotated answer
 

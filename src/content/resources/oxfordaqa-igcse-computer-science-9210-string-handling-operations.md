@@ -53,12 +53,22 @@ Here `SUBSTRING` includes both the start and end positions, so `SUBSTRING(1, 3, 
 Python's slices work differently (`"Accra"[1:4]` gives `"ccr"`, excluding the end), which is why it is worth
 stating your convention in an exam answer whenever positions matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--01-string-positions.webp" width="900" height="545" alt="The string &quot;Accra&quot; with its characters at positions 0 to 4. LEN(&quot;Accra&quot;) is 5, so the last position is 4. POSITION(&quot;Accra&quot;, &quot;r&quot;) is 3. SUBSTRING(1, 3, s) includes both ends and returns &quot;ccr&quot;, while Python’s &quot;Accra&quot;[1:4] gives the same result by excluding the end." loading="lazy">
+  <figcaption>Positions start at 0, so the last character is at LEN(s) − 1.</figcaption>
+</figure>
+
 ## Length and position
 
 `LEN` counts every character, including spaces and punctuation: `LEN("New York")` is `8`. The last character of
 any string `s` is at position `LEN(s) - 1`. `POSITION` returns where a character **first** appears, so
 `POSITION("banana", "a")` is `1`, not 3 or 5. Some languages return −1 when the character is not present; check
 what the question says.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--02-length-and-position.webp" width="900" height="620" alt="&quot;New York&quot; has 8 characters, because the space counts. In &quot;banana&quot;, the letter a appears at positions 1, 3 and 5, but POSITION(&quot;banana&quot;, &quot;a&quot;) returns 1, the first appearance." loading="lazy">
+  <figcaption>LEN counts every character; POSITION finds only the first match.</figcaption>
+</figure>
 
 ## Processing a string one character at a time
 
@@ -79,6 +89,11 @@ OUTPUT vowels
 `SUBSTRING(i, i, word)` extracts one character. The output is `3` (o, a, i). The same loop structure underlies
 reversing a string, counting spaces to count words, and checking whether a password contains a digit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--03-character-loop.webp" width="900" height="673" alt="A FOR loop runs i from 0 to LEN(word) - 1 over &quot;programming&quot;, taking one character each pass with SUBSTRING(i, i, word). The vowels o, a and i at positions 2, 5 and 8 are counted, so the output is 3." loading="lazy">
+  <figcaption>Loop over every position and take one character with SUBSTRING(i, i, s).</figcaption>
+</figure>
+
 ## Position and substring together
 
 `POSITION` is often used to find **where** to cut a string, and `SUBSTRING` then does the cutting. To split a
@@ -95,6 +110,11 @@ The space is at position 5, so `first` is characters 0 to 4, `"Amara"`, and `las
 `"Diallo"`. The `- 1` and `+ 1` exclude the space itself. The same pattern splits an email address at `"@"` or a
 time such as `"14:05"` at the colon (followed by `STRING_TO_INT` on each part if the numbers are needed).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--04-split-at-space.webp" width="900" height="596" alt="In &quot;Amara Diallo&quot; the space is at position 5, so gap is 5. first is SUBSTRING(0, 4), giving &quot;Amara&quot;, and last is SUBSTRING(6, 11), giving &quot;Diallo&quot;; the − 1 and + 1 leave out the space." loading="lazy">
+  <figcaption>Find the separator with POSITION, then cut either side of it with SUBSTRING.</figcaption>
+</figure>
+
 ## Character codes
 
 Every character is stored as a number, its **character code**. In ASCII (covered in Topic 3, Data
@@ -106,6 +126,11 @@ codes is meaningful:
 - **Upper to lower case:** add 32, so `CODE_TO_CHAR(CHAR_TO_CODE("G") + 32)` gives `"g"`.
 - **Is it a capital letter?** `code ≥ 65 AND code ≤ 90`.
 - **Is it a digit?** `code ≥ 48 AND code ≤ 57`.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--05-character-codes.webp" width="900" height="699" alt="In ASCII, A to Z have codes 65 to 90, a to z have 97 to 122 and the digits 0 to 9 have 48 to 57. Because they run in sequence, adding 1 to the code of D gives E, adding 32 to the code of G gives g, and range tests on the code check for a capital letter or a digit." loading="lazy">
+  <figcaption>Codes run in sequence, so arithmetic on them moves through the alphabet.</figcaption>
+</figure>
 
 ## Worked example: a shift cipher
 
@@ -130,6 +155,11 @@ OUTPUT secret
 
 The output is `CRR`. Subtracting 65 turns A–Z into 0–25, so `MOD 26` can wrap the alphabet; adding 65 turns the
 result back into a code. The string `secret` starts empty and grows by concatenation on each pass.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--06-shift-cipher.webp" width="900" height="846" alt="The cipher subtracts 65 to turn A to Z into 0 to 25, adds 3, wraps with MOD 26 and adds 65 back. Z (90) becomes 28, then 2, then 67, which is C; each O (79) becomes 17, then 82, which is R. &quot;ZOO&quot; is output as CRR." loading="lazy">
+  <figcaption>Subtract 65, shift, MOD 26 to wrap from Z to A, then add 65 back.</figcaption>
+</figure>
 
 ## String conversion
 
@@ -160,6 +190,11 @@ OUTPUT username
 The output is `Oka09`. Notice the choice of method for the year. `INT_TO_STRING(year MOD 100)` would give `"9"`,
 losing the leading zero, so the year is converted to a string first and the last two characters are taken as a
 substring. This is a typical "explain your choice" point in an exam answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--07-building-a-username.webp" width="900" height="688" alt="The username takes SUBSTRING(0, 2) of &quot;Okafor&quot;, which is &quot;Oka&quot;, and SUBSTRING(2, 3) of the year converted to the string &quot;2009&quot;, which is &quot;09&quot;, joining them as &quot;Oka09&quot;. Using INT_TO_STRING(year MOD 100) instead would give &quot;9&quot; and lose the leading zero." loading="lazy">
+  <figcaption>Convert the year to a string first, so the substring keeps the leading zero.</figcaption>
+</figure>
 
 ## Common mistakes
 

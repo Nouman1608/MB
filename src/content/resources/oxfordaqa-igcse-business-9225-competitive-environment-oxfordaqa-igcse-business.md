@@ -33,6 +33,11 @@ A **market** is wherever buyers and sellers come together to exchange goods or s
 
 Competitors are not only businesses selling the same product. A cinema's **direct competitors** are other cinemas; its **indirect competitors** include streaming services, bowling alleys and restaurants, because they compete for the same customers' leisure money. Noticing indirect competition often strengthens an answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--01-direct-indirect-competitors.webp" width="900" height="839" alt="A cinema sits inside a ring of direct competitors, other cinemas selling the same product, which sits inside a wider ring of indirect competitors: streaming services, bowling alleys and restaurants that compete for the same leisure money." loading="lazy">
+  <figcaption>Direct competitors sell the same product; indirect competitors chase the same customers’ money.</figcaption>
+</figure>
+
 ## The impact of competition on a business
 
 | Area | Effect of strong competition |
@@ -45,6 +50,11 @@ Competitors are not only businesses selling the same product. A cinema's **direc
 | Survival | Weaker businesses may close or be forced out |
 
 Competition is not all bad for a business. It pushes managers to become more efficient, to understand customers better and to improve products, which can make the business stronger. Businesses respond by competing on **price**, **quality**, a **unique feature**, **customer service**, **location** or **brand**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--02-effects-of-competition.webp" width="900" height="740" alt="Strong competition, where customers can switch, affects six areas: price is held down, quality and service must improve, there is pressure to innovate, promotion costs rise, profit margins fall and weaker businesses may not survive. Businesses respond by competing on price, quality, a unique feature, service, location or brand." loading="lazy">
+  <figcaption>Competition squeezes price and profit, but also pushes a business to improve.</figcaption>
+</figure>
 
 ## Worked example 1: competition arrives
 
@@ -61,6 +71,11 @@ Option 2: keep the $35 price; expected to lose 30% of members
 
 Either way, revenue falls by more than $8,000 a month: the arrival of competition is costly. Keeping the higher price earns slightly more revenue and, with fewer members, may lower running costs. It also keeps Hartwell's image as the better-equipped gym. But it depends on the 30% forecast being right. A third route is to compete on something other than price, such as classes or personal training, which the budget gym may not offer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--03-hartwell-two-responses.webp" width="900" height="879" alt="Bars show Hartwell Fitness monthly revenue: $28,000 now (800 × $35), $19,000 if it matches the $25 price and keeps 760 members, and $19,600 if it keeps $35 and loses 30% of members, leaving 560. Option 2 is $600 higher, but both fall by more than $8,000." loading="lazy">
+  <figcaption>Competition costs Hartwell over $8,000 a month whichever price it chooses.</figcaption>
+</figure>
+
 ## Minimal or no competition
 
 Some businesses face little or no competition. Situations to recognise include:
@@ -72,6 +87,11 @@ Some businesses face little or no competition. Situations to recognise include:
 - **A dominant business:** one very large firm with a strong brand and low costs that others cannot match.
 
 With little competition, a business can usually charge higher prices and earn higher profits, and it faces less pressure to spend on promotion. The drawbacks are that it may become complacent, letting quality and service slip, and that high profits attract new rivals, as Hartwell Fitness found.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--04-minimal-competition.webp" width="900" height="740" alt="Five situations lead to little or no competition: a remote location, a new invention, high start-up costs, government licences and a dominant business. The benefits are higher prices, profits and less promotion; the drawbacks are complacency and high profits that attract new rivals, bringing competition back." loading="lazy">
+  <figcaption>Little competition allows higher prices, but high profits invite rivals in.</figcaption>
+</figure>
 
 ## Risk and uncertainty
 
@@ -91,6 +111,16 @@ A **risk** is the chance that something will go wrong and cause a loss. **Uncert
 
 Each reason is followed by its effect on the business, which is what turns a statement into an explanation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--05-sources-of-uncertainty.webp" width="900" height="740" alt="Risk is the chance that something goes wrong and causes a loss; uncertainty means the future cannot be known. Five sources feed uncertainty: changing customer tastes, unpredictable competitors, a changing economy, changing laws and unexpected events such as floods or fires." loading="lazy">
+  <figcaption>Customers, rivals, the economy, the law and the unexpected all make the future unknowable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--06-reason-effect-answer.webp" width="900" height="630" alt="Two rows of an answer about a new café. Changing customer tastes leads to sales that are hard to predict; a rival café opening leads to lost customers, price cuts and uncertain profit. Reason plus effect makes an explanation." loading="lazy">
+  <figcaption>Follow every reason with its effect on the business.</figcaption>
+</figure>
+
 ## Why entrepreneurs take the risk
 
 Entrepreneurs start businesses despite the risks because they hope to **earn a profit** or more income than in a job; want **independence** and to be their own boss; have an **idea or passion** they want to turn into a product; want **flexibility** in their working life; or want to **help others** through a social or ethical aim. The possible reward, financial or personal, is what makes the risk worth taking.
@@ -109,9 +139,19 @@ Entrepreneurs start businesses despite the risks because they hope to **earn a p
 
 None of these removes risk completely; they reduce the chance or the size of a loss.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--07-risk-and-reward.webp" width="900" height="919" alt="A balance with risk, a chance of a loss, on one side and five rewards on the other: profit, independence, an idea or passion, flexibility and helping others. Seven activities from market research to supplier agreements make the risk smaller but never remove it." loading="lazy">
+  <figcaption>Entrepreneurs accept risk for the reward, and reduce it where they can.</figcaption>
+</figure>
+
 ## How developing countries compete with developed countries
 
 The specification gives **lower cost advantage** as the main example. Businesses in developing countries often have lower wages, cheaper land and lower rents, so they can produce goods such as clothing, furniture or food products more cheaply and win orders on price. Some also compete by specialising in products their country is well placed to make, by improving quality to meet foreign buyers' standards, and by using e-commerce to reach customers abroad directly. Their challenges include higher transport costs to distant markets, less well-known brands and competition from businesses in other developing countries with even lower costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--08-lower-cost-advantage.webp" width="900" height="726" alt="Lower wages, cheaper land and lower rents give lower production costs and lower prices, so businesses win orders on price for goods such as clothing, furniture and food. They also specialise, improve quality and use e-commerce, but face higher transport costs, less known brands and even cheaper rivals." loading="lazy">
+  <figcaption>Lower cost advantage wins orders on price, but it is not the only route or a guarantee.</figcaption>
+</figure>
 
 ## Common mistakes
 

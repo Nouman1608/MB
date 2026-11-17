@@ -36,6 +36,11 @@ A useful way to organise any answer is to split explanations into two kinds:
 - **External factors**: influences from outside school, such as family income, home resources, parents' attitudes and culture.
 - **Internal factors**: influences inside school, such as setting, labelling and pupil subcultures. These belong mainly to 3.4.4, so in a 3.4.3 answer use them briefly and focus on the wider factors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-educational-achievement--01-external-internal.webp" width="900" height="659" alt="Outside the school are external factors: family income, home resources, parents’ attitudes and culture, the focus of this sub-section. Inside the school are internal factors: setting, labelling and pupil subcultures, covered mainly in 3.4.4. A note says to look for patterns between groups, not individual cases." loading="lazy">
+  <figcaption>Sort every explanation: from outside the school, or from inside it?</figcaption>
+</figure>
+
 ## Social class
 
 ### Halsey, Heath and Ridge on class-based inequalities
@@ -60,6 +65,16 @@ Cultural deprivation is criticised for blaming working-class families. Critics a
 
 An indicator often used in official figures for England is eligibility for **free school meals**, which depends on low family income. Pupils eligible for free school meals achieve lower results on average than other pupils, a pattern consistent with material explanations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-educational-achievement--02-halsey-class-chances.webp" width="900" height="658" alt="Bar chart: compared with a working-class boy, a service-class boy had four times the chance of being at school at 16, eight times at 17, ten times at 18 and eleven times the chance of attending university. Below: the gap widens, challenges meritocracy, but the sample was male only and educated long ago." loading="lazy">
+  <figcaption>The longer education goes on, the wider the class gap becomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-educational-achievement--03-class-explanations.webp" width="900" height="675" alt="Three cards. Material deprivation blames lack of money, such as no laptop or quiet room. Cultural deprivation blames working-class family values and language. Cultural capital blames schools for rewarding middle-class culture. Critics of cultural deprivation say working-class culture is different, not deficient. Below, free school meal eligibility as an indicator." loading="lazy">
+  <figcaption>Cultural deprivation blames the home; cultural capital blames the school.</figcaption>
+</figure>
+
 ## Ball on parental choice and competition between schools
 
 The specification names a second key study for this sub-section: Ball, Bowe and Gewirtz, "Market forces and parental choice" (1994). The specification prints the third author's name as "Gerwitz".
@@ -71,6 +86,16 @@ The specification names a second key study for this sub-section: Ball, Bowe and 
 In a related book, *Markets, Choice and Equity in Education* (1995), Gewirtz, Ball and Bowe described parents as **privileged or skilled choosers**, **semi-skilled choosers** and **disconnected choosers**. Skilled choosers, mostly middle class, had the money, time and knowledge to research schools, visit, appeal and travel. Disconnected choosers, mostly working class, tended to choose the nearest school. Choice that looks equal on paper is unequal in practice.
 
 **Why this matters for achievement:** if successful schools fill with middle-class pupils and less successful schools concentrate on their most able pupils, inequality between classes may widen. This links class inequality to the way the education system is organised, not just to families.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-educational-achievement--04-three-choosers.webp" width="900" height="576" alt="Three rows. Privileged or skilled choosers, mostly middle class, had the money, time and knowledge to research, visit, appeal and travel. Semi-skilled choosers fall in between. Disconnected choosers, mostly working class, tended to choose the nearest school. Choice that looks equal is unequal in practice." loading="lazy">
+  <figcaption>Parents with more resources make more effective school choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--06-ball-marketisation.webp" width="900" height="646" alt="Parental choice and league tables make schools compete. Schools reintroduce streaming and setting and focus on the more able, while middle-class parents are better placed to use choice, so the market can widen class inequality." loading="lazy">
+  <figcaption>Competition between schools can help the middle class more than the working class.</figcaption>
+</figure>
 
 ## Gender
 
@@ -89,6 +114,11 @@ Girls now outperform boys at most levels, including GCSE. The specification asks
 
 **Continuing inequality:** subject choice remains gendered. Girls remain less likely to take subjects such as physics and computing, and boys less likely to take subjects linked to caring. Feminists argue this channels women into lower-paid work and helps explain the **glass ceiling**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-educational-achievement--05-gender.webp" width="900" height="610" alt="Two cards. Girls’ achievement rose because of feminism, shown by Sharpe’s study, equal opportunities laws and the national curriculum, and changes in jobs and family. Some boys fall behind because manual jobs declined and some masculine identities see hard work as uncool. Below, subject choice remains gendered, linked to the glass ceiling." loading="lazy">
+  <figcaption>Explain both sides: why girls rose and why some boys fall behind.</figcaption>
+</figure>
+
 ## Ethnicity
 
 Achievement varies widely between ethnic groups, and between pupils within each group. Explanations include:
@@ -102,6 +132,11 @@ Achievement varies widely between ethnic groups, and between pupils within each 
 ### Class, gender and ethnicity together
 
 The factors overlap. Official figures for England have shown that white British pupils eligible for free school meals, especially boys, are among the lowest-attaining groups. This shows why a single-factor answer is weak: class, gender and ethnicity combine, and part of an apparent "ethnic" gap may be a class gap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-educational-achievement--06-overlapping-factors.webp" width="900" height="855" alt="Three overlapping circles for class, gender and ethnicity. Where free school meal eligibility, being a boy and being white British meet are some of the lowest-attaining pupils in England. Below, a reminder that factors combine and that part of an ethnic gap may be a class gap." loading="lazy">
+  <figcaption>Factors combine, so judge how much of one gap is really another.</figcaption>
+</figure>
 
 ## Perspectives compared
 

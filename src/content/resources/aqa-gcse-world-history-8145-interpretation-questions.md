@@ -40,6 +40,11 @@ Every interpretation comes with an **ascription**: a line telling you who wrote 
 | **What kind of work** -- memoir, textbook, speech, newspaper column | How much the author was trying to persuade, remember or explain |
 | **Where or for whom** -- a national history, a local newspaper, a party pamphlet | Who the audience was and what they wanted to hear |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--01-reading-the-ascription.webp" width="900" height="604" alt="An interpretation, formed afterwards with hindsight, is contrasted with a contemporary source. Below, four details in an ascription: who wrote it, when, what kind of work, and where or for whom." loading="lazy">
+  <figcaption>Treat the ascription as evidence: who, when, what kind of work, and for whom.</figcaption>
+</figure>
+
 ## Question 1: how do the interpretations differ? (4 marks)
 
 The task is to identify **a difference in what the interpretations say** about the issue in the question, and support it from both. This question is about content only: you do not yet need to explain *why* they differ.
@@ -49,6 +54,11 @@ The task is to identify **a difference in what the interpretations say** about t
 - Aim for the **main** difference in overall view, not a small detail. If A and B disagree about *how much* something changed, say so; a difference of emphasis counts if you can show it.
 
 A list of small differences rarely does better than one well-supported difference in their overall argument.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--02-question-1-frame.webp" width="900" height="611" alt="Three steps for question 1: state the main difference in one sentence, then support A and B with short quotations. Two notes: aim for the overall view rather than small details, and leave provenance for question 2." loading="lazy">
+  <figcaption>One clear sentence stating the difference, supported from both interpretations.</figcaption>
+</figure>
 
 ## Question 2: why might the authors have different interpretations? (4 marks)
 
@@ -61,6 +71,11 @@ Useful lines of reasoning:
 - **Purpose and audience:** a politician's memoir may defend his record; a textbook aims to give a balanced overview for students.
 - **Focus:** two authors may simply be looking at different groups, places or parts of the period.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--03-question-2-reasons.webp" width="900" height="601" alt="Four reasons authors differ: experience, hindsight, purpose and audience, and focus. Below, weak answers that just say &quot;biased&quot; are contrasted with strong answers that connect provenance to the particular difference." loading="lazy">
+  <figcaption>Explain the difference through each author's experience, date, purpose and audience.</figcaption>
+</figure>
+
 ## Question 3: which interpretation is more convincing? (8 marks)
 
 This is the highest-tariff interpretation question, so give it about ten minutes. "Convincing" means **supported by accurate historical knowledge**. You test each interpretation against what you know, then reach a judgement.
@@ -70,6 +85,11 @@ This is the highest-tariff interpretation question, so give it about ten minutes
 3. **Judgement:** say which is more convincing *and why*, based on the weight of the evidence. A judgement such as "A is more convincing about the scale of change, but B is right that it did not reach everyone" is acceptable if you then decide which matters more for the question asked.
 
 Provenance can support your judgement but should not replace it. An eyewitness can be right; a historian can be one-sided. The deciding factor is how well each view fits the evidence you know.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--04-question-3-structure.webp" width="900" height="599" alt="Each interpretation is tested against knowledge that supports and challenges its main claim, leading to a judgement based on the weight of evidence. A note defines convincing as supported by accurate historical knowledge." loading="lazy">
+  <figcaption>Test both interpretations against your knowledge, then commit to a judgement.</figcaption>
+</figure>
 
 ## Worked example: AD America, the New Deal
 
@@ -91,6 +111,16 @@ Provenance can support your judgement but should not replace it. An eyewitness c
 - *B is limited* because the leaf-raking image is a hostile caricature: work schemes built roads, schools, dams and bridges, and the Tennessee Valley Authority brought electricity to a poor region.
 - *Judgement:* for the issue of whether the New Deal *ended* the Depression, B is more convincing, and A concedes the point. For whether it *changed America*, A is stronger. A top answer commits to one view in relation to the question's exact wording.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--05-new-deal-why-they-differ.webp" width="900" height="526" alt="Table comparing two invented interpretations of the New Deal. A, a historian writing in 1985, judges it by long-term change in government and sees success; B, a factory owner writing in 1952, judges it by private-sector jobs and credits the war." loading="lazy">
+  <figcaption>Each author's circumstances explain what they judge the New Deal by.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--06-new-deal-q3-plan.webp" width="900" height="636" alt="Four boxes test each New Deal interpretation: evidence that A is convincing and limited, and that B is convincing and limited. Below, the judgement depends on wording: B is stronger on ending the Depression, A on changing America." loading="lazy">
+  <figcaption>The exact wording of the question decides which interpretation is more convincing.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Question 1:** summarising A, then summarising B, with no sentence that states the difference.
@@ -103,6 +133,11 @@ Provenance can support your judgement but should not replace it. An eyewitness c
 ## Exam technique and timing
 
 Section A is worth 40 marks in about an hour, so the three interpretation questions together deserve roughly 20-25 minutes. Read both ascriptions **before** the interpretations; underline the date and the author's role. Use the command phrase in your opening line each time: "B differs from A because...", "They differ because the authors...", "A is more convincing because...". Question 3 is where your period-study knowledge is rewarded, so make sure every paragraph contains at least two precise facts, dates or names.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--07-interpretation-timing.webp" width="900" height="568" alt="Bar showing marks for questions 1 to 3 (4, 4 and 8). Question 1 uses content, question 2 provenance, and question 3 the student's own knowledge. A note says to read both ascriptions first and open with the command phrase." loading="lazy">
+  <figcaption>Content for question 1, provenance for question 2, knowledge for question 3.</figcaption>
+</figure>
 
 ## Practice and revision
 

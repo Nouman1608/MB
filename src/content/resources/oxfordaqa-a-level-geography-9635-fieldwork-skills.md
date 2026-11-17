@@ -32,6 +32,11 @@ The [geographical and fieldwork skills study guide](/resources/oxfordaqa-a-level
 
 The specification says the investigation should ideally be practical, but where that is not possible, alternative methods may be used. It lists three: enquiries **within the school grounds**, **interviewing people** in school or at home, and working with **raw, unprocessed data** provided by the teacher, so that you help plan the investigation, select samples from the larger data set and consider its relevance and reliability. What is not acceptable is being handed pre-processed data ready for analysis: "there must be some element of planning and selecting". Keep records of every decision you made -- they are the evidence for familiar fieldwork answers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-fieldwork-skills--01-enquiry-stages.webp" width="900" height="603" alt="Five linked stages of a fieldwork enquiry, from planning to conclusions, with their specification numbers. A bar to scale shows 15 of Unit 5's 60 marks assess the student's own investigation. Below, acceptable alternatives to practical fieldwork and what is not acceptable." loading="lazy">
+  <figcaption>Five stages of enquiry; 15 of the 60 marks are on your own investigation.</figcaption>
+</figure>
+
 ## 3.5.2.1 Planning and preparation
 
 **Aims, hypotheses and research questions.** An aim states what you want to find out. A hypothesis is a testable prediction based on theory; a research question is an open question used when a prediction is not appropriate, for example with qualitative data. The specification asks you to **establish and justify** the hypothesis or question, so link it to a concept you have studied.
@@ -52,6 +57,16 @@ The specification says the investigation should ideally be practical, but where 
 | Fast-flowing water in a river | Low to medium | High | Do not enter above knee depth; check river levels beforehand |
 | Hot weather | Medium | Medium | Carry water; work in shade; limit time outdoors |
 | Lone working | Low | High | Work in groups; agree a meeting time and carry a phone |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-fieldwork-skills--02-aim-to-hypothesis.webp" width="900" height="703" alt="Three linked boxes using the invented Marton example: the aim (how footfall changes with distance from the centre), the hypothesis (footfall decreases with distance from the main square) and its justification in bid-rent theory. A note explains when to use a research question instead." loading="lazy">
+  <figcaption>Aim, then a testable hypothesis, justified by a theory you have studied.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-fieldwork-skills--03-risk-assessment.webp" width="900" height="787" alt="A three-by-three grid of likelihood against severity, with four numbered hazards placed on it: traffic (medium, high), fast-flowing river water (low to medium, high), hot weather (medium, medium) and lone working (low, high). A table gives the control measure for each." loading="lazy">
+  <figcaption>Judge each hazard's likelihood and severity, then set a control measure.</figcaption>
+</figure>
 
 ## 3.5.2.2 Collection of data
 
@@ -79,9 +94,29 @@ This makes the sample representative of age groups, which matters if views on th
 
 A footfall count taken once on a rainy Monday may be accurate for that moment but neither reliable nor valid as a measure of typical footfall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-fieldwork-skills--04-stratified-sample.webp" width="900" height="491" alt="A bar to scale divides 80 questionnaires by the area's age shares: 28% aged 18-34 gives 22 people, 47% aged 35-64 gives 38, and 25% aged 65 and over gives 20. Eighty circles show the split, which checks to 80. A note explains why stratifying by age matters." loading="lazy">
+  <figcaption>Multiply the sample size by each group's share, round, then check the total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-fieldwork-skills--05-sampling-grid.webp" width="900" height="762" alt="A three-by-three grid of schematic plan views: random, systematic and stratified sampling, each applied at points, along line transects and within area quadrats. In the stratified column a shaded zone receives samples in proportion to its size." loading="lazy">
+  <figcaption>Any of the three methods can be applied at points, along lines or within areas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-fieldwork-skills--06-accuracy-precision-reliability-validity.webp" width="900" height="588" alt="Four cards define accuracy (close to the true value), precision (fineness of scale), reliability (similar results if repeated) and validity (measuring what the hypothesis is about). An example: one footfall count on a rainy Monday may be accurate for that moment but is neither reliable nor valid as typical footfall." loading="lazy">
+  <figcaption>Accurate is not the same as reliable, and neither guarantees validity.</figcaption>
+</figure>
+
 ## 3.5.2.3 Presentation of data
 
 The specification asks for maps, graphs, photographs, field sketches, tables and interview quotations "as appropriate to the enquiry" **with justification for their selection**. Match technique to data: located proportional circles for footfall at named sites, a scatter graph for footfall against distance, a cross-section for river channel shape, annotated photographs for land use. Integrate presentation with location: putting graphs on a base map often shows spatial pattern more clearly than separate charts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-fieldwork-skills--07-matching-techniques.webp" width="900" height="686" alt="Table matching data to presentation and analysis techniques: proportional circles for footfall at sites, scatter graph and Spearman's rank for footfall against distance, cross-section for channel shape, annotated photographs for land use, chi-square for categories, central tendency and dispersion for comparing sites, and coding for interviews." loading="lazy">
+  <figcaption>Choose each technique to fit the data, and justify the choice.</figcaption>
+</figure>
 
 ## 3.5.2.4 Analysis of data
 
@@ -102,6 +137,11 @@ Analysis means identifying patterns, trends, relationships and anomalies, using 
 *Question: With reference to your own fieldwork, evaluate the sampling strategy you used.* **[9]**
 
 > I used systematic sampling, counting pedestrians for five minutes every 100 m along a transect from Marton's main square **(states the method precisely)**. This gave even coverage and allowed me to plot footfall against distance for my Spearman's rank test **(strength linked to the hypothesis)**. However, it could miss small clusters of shops lying between sampling points, and one site happened to be next to a bus stop, which inflated its count **(limitations with evidence)**. Counts were taken on one afternoon, so the sample in time was very small **(reliability)**. A stratified sample by land-use zone, repeated on a weekday and a weekend, would have been more representative **(specific improvement)**. Overall, the strategy was adequate for showing the overall trend but limited for explaining local anomalies **(judgement)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-fieldwork-skills--08-familiar-answer.webp" width="900" height="656" alt="Six steps of a model familiar fieldwork answer on sampling: state the method, give a strength linked to the hypothesis, limitations with evidence, reliability, a specific improvement and an overall judgement." loading="lazy">
+  <figcaption>Method, strength, limitation, reliability, improvement, judgement.</figcaption>
+</figure>
 
 ## Worked example: an unfamiliar fieldwork answer
 

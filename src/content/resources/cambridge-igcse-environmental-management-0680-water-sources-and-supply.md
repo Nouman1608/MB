@@ -65,6 +65,11 @@ A **store** is where water is held; a **transfer** is a process that moves water
 
 **How human activity changes the cycle:** cutting down forests reduces interception and transpiration and increases run-off; paving towns stops infiltration, so run-off reaches rivers faster.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--07-wa-water-cycle.webp" width="900" height="1020" alt="A landscape cross-section, not to scale. Five stores are shown as navy labels: atmosphere, oceans of salt water, glaciers and ice sheets, lakes and rivers, and ground water. Arrows show transfers: evaporation, condensation, precipitation, interception, transpiration, surface run-off, infiltration, through-flow and ground water flow." loading="lazy">
+  <figcaption>The water cycle is a set of stores linked by transfers.</figcaption>
+</figure>
+
 ## Sources of fresh water
 
 | Source | Examples | How it is obtained |
@@ -75,6 +80,11 @@ A **store** is where water is held; a **transfer** is a process that moves water
 | Oceans | Desalination plants | Salt is removed from seawater |
 
 The link to 1.1 is direct: an aquifer is permeable rock, such as sandstone or limestone, that stores ground water above impermeable rock.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-sources-and-supply--01-four-sources.webp" width="900" height="770" alt="A schematic cross-section, not to scale. 1: the atmosphere, with rain collected from a roof. 2: surface water in a river and a reservoir behind a dam. 3: ground water reached by a well drilled into an aquifer of permeable rock above impermeable rock. 4: the ocean, used by a desalination plant." loading="lazy">
+  <figcaption>Fresh water comes from the atmosphere, surface water, ground water and, by desalination, the ocean.</figcaption>
+</figure>
 
 ## The world's oceans
 
@@ -91,6 +101,11 @@ The syllabus names five: **Pacific** (the largest), **Atlantic**, **Indian**, **
 
 Order matters: each stage removes smaller material than the one before, and chlorination works best on clear water.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--08-wa-treatment.webp" width="900" height="1100" alt="Four rows in order: screening (bars hold back debris), sedimentation (particles settle in a tank), filtration (water passes down through sand and gravel) and chlorination (chlorine added), ending with potable water from a tap." loading="lazy">
+  <figcaption>Water is treated in four stages: screening, sedimentation, filtration and chlorination.</figcaption>
+</figure>
+
 ## Comparing the availability of potable water
 
 **Water-rich and water-poor regions.** Water-rich regions have high rainfall spread through the year, large rivers or lakes, or plentiful aquifers. Water-poor regions have low or unreliable rainfall, high evaporation in hot climates and few permanent rivers. Availability also depends on the number of people sharing the water.
@@ -98,6 +113,11 @@ Order matters: each stage removes smaller material than the one before, and chlo
 **Urban and rural regions.** Cities usually have treatment works and piped supplies, because many people in a small area make infrastructure worth building. Rural areas may rely on wells, rivers or rainwater, which may be untreated, and people may walk long distances to collect water. However, rapidly growing cities can outstrip their infrastructure, leaving informal settlements without safe supplies.
 
 **Global inequalities in water availability and sewage treatment.** Wealthier countries can afford reservoirs, treatment works, pipe networks and sewage treatment, so most people have safe water and wastewater is cleaned before release. In many lower-income countries, fewer people have piped potable water, and untreated sewage may enter rivers that are also used for drinking, which spreads water-related diseases (3.3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-sources-and-supply--02-availability-compared.webp" width="900" height="670" alt="Three comparisons. Water-rich regions have high, year-round rainfall, large rivers or aquifers, whereas water-poor regions have low or unreliable rain, high evaporation and few permanent rivers. Urban areas usually have piped, treated supplies, whereas rural areas may rely on untreated wells or rivers. Wealthier countries afford treatment and sewage works, whereas in many lower-income countries untreated sewage may enter rivers used for drinking." loading="lazy">
+  <figcaption>Rainfall, settlement type and wealth decide who has safe drinking water.</figcaption>
+</figure>
 
 ## Desalination
 
@@ -113,6 +133,11 @@ Desalination removes salt from seawater to make potable water. The syllabus desc
 | Does not depend on rainfall, so it is reliable in droughts | Very salty waste water (brine) returned to the sea can harm marine life |
 | Useful for dry coastal countries with few rivers | Only practical near the coast; piping inland adds cost |
 | Reduces pressure on rivers and aquifers | High cost of building the plant; poorer countries may not afford it |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--09-wa-desalination.webp" width="900" height="1100" alt="Two panels. Distillation: salt water is heated, vapour passes into a cooled pipe where it condenses, and fresh water collects while salt stays behind. Reverse osmosis: high pressure pushes salty water against a membrane so that water passes to the fresh side and salt stays. A note says to weigh cost and energy use against water security." loading="lazy">
+  <figcaption>Distillation boils and condenses; reverse osmosis uses pressure and a membrane.</figcaption>
+</figure>
 
 ## Multipurpose dams
 
@@ -135,6 +160,16 @@ A multipurpose dam is built to serve several uses at once:
 | Jobs in construction, tourism and fishing | Blocks fish migration; changes river flow and ecosystems downstream |
 | Protects towns downstream from floods | Water lost by evaporation from the reservoir surface; disputes with countries downstream |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-sources-and-supply--03-dam-weighed.webp" width="900" height="725" alt="A schematic dam and reservoir with silt trapped behind the dam and a steadier river protecting towns downstream. Benefits: water, energy and flood control together; renewable electricity; reliable irrigation; jobs; flood protection. Limitations: very high cost; people displaced and land flooded; silt fills the reservoir and is lost to farms downstream; fish migration blocked; evaporation and disputes downstream." loading="lazy">
+  <figcaption>A dam brings water, power and flood control, but floods land, traps silt and changes the river.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--10-wa-dam.webp" width="900" height="900" alt="A dam cross-section, not to scale, with eight numbered uses: flood control, hydro-electric power, irrigation, storage, transport, recreation, tourism and fish farming. A legend lists them." loading="lazy">
+  <figcaption>A multipurpose dam has eight listed uses, each with a possible limitation.</figcaption>
+</figure>
+
 ## Worked example: how long will a reservoir last?
 
 A reservoir holds 12 million m³ of water. A town uses 40,000 m³ a day. (Figures invented for practice.)
@@ -143,6 +178,11 @@ A reservoir holds 12 million m³ of water. A town uses 40,000 m³ a day. (Figure
 - If the town's population grows by 25% and use per person stays the same, daily use becomes 40,000 × 1.25 = 50,000 m³, and the reservoir would last 12,000,000 ÷ 50,000 = **240 days**.
 
 **Interpretation:** population growth cuts the time the store can supply the town by 60 days, showing why growing cities seek new sources such as desalination or extra reservoirs, or reduce demand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-sources-and-supply--04-reservoir-days.webp" width="900" height="655" alt="A graph of a 12 million cubic metre reservoir emptying with no rain. At 40,000 cubic metres a day it lasts 300 days; after 25% population growth, at 50,000 a day, it lasts 240 days, 60 days fewer." loading="lazy">
+  <figcaption>A 25% rise in demand cuts the reservoir’s life from 300 to 240 days.</figcaption>
+</figure>
 
 ## Common mistakes
 

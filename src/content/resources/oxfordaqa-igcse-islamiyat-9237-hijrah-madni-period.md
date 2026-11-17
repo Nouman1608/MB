@@ -29,6 +29,11 @@ featured: false
 
 By the end of the Makkan period the Muslims had endured persecution, the boycott of Banu Hashim and the Year of Sorrow, in which Hazrat Khadija (RA) and Abu Talib died. The Prophet (pbuh) had lost his uncle's protection, and the people of Ta'if had rejected him. Islam needed a place where Muslims could worship freely and live as a community. That place came from an unexpected direction: Yathrib, an oasis town to the north, divided by years of conflict between its two Arab tribes, the Aws and the Khazraj, and home also to Jewish tribes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period--01-why-migration.webp" width="900" height="356" alt="Two columns. In Makkah: persecution, the boycott of Banu Hashim, the Year of Sorrow, loss of Abu Talib’s protection and rejection at Ta’if. In Yathrib, to the north: an oasis divided between the Aws and the Khazraj, also home to Jewish tribes, which could offer a place to worship freely." loading="lazy">
+  <figcaption>Makkah had become unsafe; Yathrib offered a place to live as a community.</figcaption>
+</figure>
+
 ## The pledges of Aqaba
 
 **First contact.** During the pilgrimage season a small group from the Khazraj met the Prophet (pbuh) near Makkah, listened to the Qur'an and accepted Islam. They had heard from the Jews of Yathrib that a prophet was expected.
@@ -38,6 +43,11 @@ By the end of the Makkan period the Muslims had endured persecution, the boycott
 **The second pledge of Aqaba.** A year later, more than seventy men and two women came secretly at night. This time they pledged to **protect the Prophet (pbuh) as they protected their own families**, and invited him to come to Yathrib. The second pledge turned a religious commitment into a political and military alliance; it is why the Prophet could leave Makkah.
 
 **Importance of the pledges:** they show Islam spreading by teaching and conviction; they created the Ansar; and they set the pattern of a pledge (*bay'ah*) between a leader and his community.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period--02-pledges-of-aqaba.webp" width="900" height="636" alt="Three steps: first contact with a small group from the Khazraj; the first pledge of Aqaba by twelve men about belief and conduct, after which Mus’ab ibn Umair (RA) taught in Yathrib; and the second pledge by more than seventy men and two women to protect the Prophet (pbuh). A note gives the importance of the pledges." loading="lazy">
+  <figcaption>The first pledge was about belief and conduct; the second added protection.</figcaption>
+</figure>
 
 ## The journey
 
@@ -49,11 +59,26 @@ By the end of the Makkan period the Muslims had endured persecution, the boycott
 
 **The pursuit.** The Quraysh offered a reward for their capture. Suraqa ibn Malik caught up with them, but his horse stumbled repeatedly; he asked for a written promise of safety and turned back.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period--03-roles-ali-abu-bakr.webp" width="900" height="513" alt="The Quraysh plot to strike together, then two columns. Hazrat Ali (RA) slept in the Prophet’s bed and stayed to return the goods held in trust before walking to Madinah. Hazrat Abu Bakr (RA) prepared camels and a guide, left by night heading south and hid in the Cave of Thawr, helped by his family." loading="lazy">
+  <figcaption>Ali (RA) had two roles: he slept in the bed and returned the trusts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period--04-journey-sequence.webp" width="900" height="558" alt="Six steps of the journey: leaving Makkah by night heading south, three days in the Cave of Thawr, Suraqa ibn Malik turning back, arrival at Quba in 622 CE and founding the first mosque, the first Jummah prayer, and arrival in Madinah where al-Qaswa knelt on land the Prophet (pbuh) paid for." loading="lazy">
+  <figcaption>The Prophet (pbuh) did not go straight to Madinah: Thawr and Quba came first.</figcaption>
+</figure>
+
 ## The first mosque: Quba
 
 The Prophet (pbuh) arrived first at **Quba**, a village on the edge of Madinah, in 622 CE. He stayed there for some days and laid the foundation of the **Mosque of Quba**, the first mosque built in Islam, working on it himself with the companions.
 
 The prescribed passage, Qur'an 9:108, refers to "a mosque founded on righteousness from the first day", whose people "love to purify themselves". Many scholars identify this mosque as Quba; some identify it with the Prophet's Mosque in Madinah. The verse contrasts it with a mosque built by hypocrites to divide the believers (9:107), which the Prophet was told never to pray in. The lesson for Muslims is that a mosque's value lies in the intention and righteousness of those who build and use it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period--05-two-mosques.webp" width="900" height="517" alt="Two columns comparing the Mosque of Quba, the first mosque in Islam, founded in 622 CE and linked by many scholars to Qur’an 9:108, with Masjid an-Nabawi in Madinah, built of mud brick and palm with a suffah, and used for teaching, judging and planning. A note gives the lesson of 9:107–108." loading="lazy">
+  <figcaption>Quba came first; the Prophet’s Mosque became the centre of the community.</figcaption>
+</figure>
 
 ## Arrival in Madinah and the Prophet's Mosque
 
@@ -76,6 +101,16 @@ The mosque was more than a place of prayer: it was where the Prophet taught, jud
 - The valley of Madinah is a **sacred, protected area**.
 
 **Why it matters:** it ended the long conflict between the Aws and the Khazraj, gave security to everyone in the city, protected religious freedom, and placed law above tribal loyalty. Many describe it as one of the earliest written constitutions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period--06-charter-of-madinah.webp" width="900" height="660" alt="Six terms of the Charter of Madinah, each linked to what it achieved: one Ummah ending the Aws and Khazraj conflict, religious freedom for Jewish tribes, shared defence, justice above tribal loyalty, disputes referred to Allah and the Prophet (pbuh), and Madinah as a protected area." loading="lazy">
+  <figcaption>Describe each term with the problem it solved.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period--07-brotherhood.webp" width="900" height="488" alt="Each Muhajir, a migrant who had lost everything, was paired as a brother with an Ansari helper from Madinah to share homes, work and property. Example: Sa’d ibn al-Rabi’ (RA) offered half his wealth to Abdur Rahman ibn Awf (RA), who asked only to be shown the market." loading="lazy">
+  <figcaption>The brotherhood solved a social and economic crisis without conflict.</figcaption>
+</figure>
 
 ## Worked example: a 6-mark answer
 

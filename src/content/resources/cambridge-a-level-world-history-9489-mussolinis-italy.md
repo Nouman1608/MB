@@ -45,6 +45,21 @@ featured: false
 
 **How complete was control by 1926?** The king, army, Church and big business remained independent centres of power -- the key limit on any claim that Italy became "totalitarian".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-mussolinis-italy--01-liberal-italy-vulnerable.webp" width="900" height="471" alt="Four pressures converge: the war (around 600,000 dead and Caporetto), the peace (the &quot;mutilated victory&quot; and d'Annunzio at Fiume), the economy (inflation and the Biennio Rosso) and parliament (Socialists and Popolari as the largest parties and four prime ministers by 1922). Together they left a weak state facing both left and right." loading="lazy">
+  <figcaption>War, peace, economic crisis and deadlock left the liberal state exposed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-mussolinis-italy--02-dual-policy.webp" width="900" height="715" alt="Two tracks: force, as squads led by ras such as Balbo attacked the left and broke the August 1922 strike, and negotiation, through 35 deputies in Giolitti's blocs, the PNF and talks with liberals. Both lead to the squads converging on Rome in late October 1922, the king refusing martial law on 28 October and Mussolini's legal appointment." loading="lazy">
+  <figcaption>Mussolini did not seize power: the king handed it to him.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-mussolinis-italy--03-building-dictatorship.webp" width="900" height="1014" alt="A vertical timeline from October 1922 to 1927 drawn to scale. Mussolini is appointed in October 1922, creates the Grand Council and Militia and passes the Acerbo Law. The April 1924 election and the Matteotti murder in June 1924 bring crisis; on 3 January 1925 he takes responsibility; the December 1925 law and the 1926 bans and Special Tribunal complete the dictatorship." loading="lazy">
+  <figcaption>The Matteotti crisis of 1924-25 pushed Mussolini from coalition to dictatorship.</figcaption>
+</figure>
+
 ## 1.2 Coercion, consent and the limits of government
 
 - **Coercion was real but selective.** OVRA, the secret police under Arturo Bocchini, watched opponents; the Special Tribunal tried political cases; thousands were sent into internal exile (*confino*). Executions were few by Nazi or Soviet standards.
@@ -52,6 +67,11 @@ featured: false
 - **Party versus state.** In 1927 prefects, who were state officials, were made superior to the party in the provinces, and appointed *podestà* replaced elected mayors from 1926. Mussolini preferred the state machine to party radicals, and the PNF became a job-seeking bureaucracy.
 - **The 1938 antisemitic laws** expelled Jews from schools, universities, the civil service and the party and banned mixed marriages.
 - **Foreign policy.** Aims: prestige, Mediterranean dominance (*mare nostrum*) and African empire. Early methods mixed bullying and diplomacy -- the bombardment and occupation of Corfu in 1923, the gain of Fiume by treaty with Yugoslavia in 1924, signing Locarno (1925) and a protectorate over Albania from 1926. Abyssinia (1935-36) was a military success but cost huge sums, provoked League sanctions and pushed Italy towards Germany: the Axis (1936), the Anti-Comintern Pact (1937), the Pact of Steel (1939). Albania was annexed in April 1939, but the failed attack on Greece (October 1940) and defeats in North Africa in 1940-41 exposed military weakness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-mussolinis-italy--04-foreign-policy.webp" width="900" height="628" alt="A timeline from 1923 to 1941 drawn to scale. Early steps mix bullying and diplomacy: Corfu (1923), Fiume (1924), Locarno (1925), Albania (1926). After Abyssinia (1935-36) come the Axis (1936), the Anti-Comintern Pact (1937), the annexation of Albania and the Pact of Steel (1939), then failure in Greece (October 1940) and North Africa (1940-41)." loading="lazy">
+  <figcaption>Abyssinia was the turning point: from independent diplomacy to dependence on Germany.</figcaption>
+</figure>
 
 ## 1.3 The economy: propaganda success, economic cost
 
@@ -64,6 +84,16 @@ featured: false
 **Corporate State.** Built step by step: the **Palazzo Vidoni Pact** (1925) recognised only fascist unions and employers' Confindustria; the **Rocco Law** (1926) banned strikes and lockouts and set up labour courts; a Ministry of Corporations (1926), the **Charter of Labour** (1927), the National Council of Corporations (1930) and 22 corporations (1934) followed. Sold as a "Third Way", it shielded employers and controlled workers.
 
 **Living standards.** Welfare grew (the maternity agency ONMI, family allowances, pensions), but real wages fell for many workers in the late 1920s and early 1930s and diets stayed poor by western European standards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-mussolinis-italy--05-economic-battles.webp" width="900" height="610" alt="A table of four battles. Grain (1925) raised wheat output but displaced olives and fruit and raised bread prices. Lira (1927) fixed Quota 90, hurting exporters and causing deflation. Land drained the Pontine Marshes but reclaimed far less than planned. Births (from 1927) used loans and taxes, but the birth rate kept falling." loading="lazy">
+  <figcaption>Each battle won headlines and lost money.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-mussolinis-italy--06-corporate-state.webp" width="900" height="738" alt="Five numbered steps: the Palazzo Vidoni Pact (1925), the Rocco Law and Ministry of Corporations (1926), the Charter of Labour (1927), the National Council of Corporations (1930) and 22 corporations (1934). Below, employers are shielded while workers lose independent unions and the right to strike." loading="lazy">
+  <figcaption>Built over nine years, the Corporate State shielded employers and controlled workers.</figcaption>
+</figure>
 
 ## 1.4 Society: how deep did fascism reach?
 
@@ -85,6 +115,11 @@ featured: false
 2. **For:** the Acerbo Law and the 1924 election; Matteotti and the failure of the Aventine; the December 1925 law; opposition parties banned and the Special Tribunal in 1926; press controls. *Each point must show a check removed.*
 3. **Against:** the king could still dismiss Mussolini (as he did in 1943); the army, Church and industrialists kept autonomy; the PNF itself was divided between ras and moderates; mass consent was not yet organised (the ONB and OND were new).
 4. **Judgement:** a personal dictatorship over parliament and parties existed by the end of 1926, but it was a compromise with traditional elites rather than total control.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-mussolinis-italy--07-dictatorship-by-1926.webp" width="900" height="502" alt="Two columns. For a dictatorship: the Acerbo Law and 1924 election, the failed Aventine Secession, the December 1925 law, the 1926 bans and Special Tribunal, and press controls. Against: the king could still dismiss Mussolini, the army, Church and industrialists kept autonomy, the party was divided and mass consent was not yet organised." loading="lazy">
+  <figcaption>By 1926 parliament and parties were beaten, but the old elites were not.</figcaption>
+</figure>
 
 ## Common mistakes
 

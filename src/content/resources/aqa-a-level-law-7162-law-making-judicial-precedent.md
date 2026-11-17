@@ -33,6 +33,11 @@ This guide covers the **Law making: judicial precedent** row of AQA A-level Law 
 - **persuasive**: a court may follow it but need not. Persuasive sources include decisions of lower courts, obiter dicta, dissenting judgments, decisions of the Judicial Committee of the Privy Council, and decisions from other common law countries;
 - **original**: where there is no earlier decision on the point, the judge decides it, creating a new precedent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-judicial-precedent--01-binding-persuasive-original.webp" width="900" height="364" alt="Three kinds of precedent. Binding precedent must be followed when it comes from a court above (or sometimes the same court) and the material facts are sufficiently similar. Persuasive precedent, from lower courts, obiter dicta, dissents, the Privy Council or other common law countries, may be followed. Original precedent is made where no earlier decision exists." loading="lazy">
+  <figcaption>Binding must be followed, persuasive may be, and original precedent fills a gap.</figcaption>
+</figure>
+
 ## Ratio decidendi and obiter dicta
 
 The **ratio decidendi** ("reason for deciding") is the legal principle on which the decision is based, applied to the material facts. Only the ratio binds. **Obiter dicta** ("things said by the way") are other remarks, such as comments on hypothetical facts.
@@ -40,6 +45,11 @@ The **ratio decidendi** ("reason for deciding") is the legal principle on which 
 Obiter can later become law. In *R v Howe* (1987) the House of Lords held that duress is not a defence to murder, and said obiter that it should not be a defence to attempted murder either. In *R v Gotts* (1992) the House of Lords followed that obiter statement and held that duress was not available for attempted murder.
 
 **Finding the ratio** is not always easy: judgments do not label it, and in an appeal court each judge may give different reasons, so later courts sometimes disagree about what the ratio was.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-judicial-precedent--02-howe-gotts-obiter.webp" width="900" height="569" alt="The ratio decidendi is the binding legal principle; obiter dicta are other remarks and only persuasive. In R v Howe (1987) the ratio was that duress is no defence to murder, with an obiter remark that it should not cover attempted murder either; in R v Gotts (1992) the House of Lords followed that obiter remark." loading="lazy">
+  <figcaption>An obiter remark in Howe became the rule in Gotts.</figcaption>
+</figure>
 
 ## The hierarchy of the courts
 
@@ -77,6 +87,21 @@ Lord Denning argued in *Davis v Johnson* (1979) that the Court of Appeal should 
 
 The Judicial Committee of the Privy Council hears appeals from some Commonwealth countries and overseas territories. Its decisions are normally **persuasive** only, but highly so because its judges are usually Supreme Court justices. *The Wagon Mound (No 1)* (1961), a Privy Council case on remoteness of damage, was followed by English courts. In *R v James* (2006) the Court of Appeal followed the Privy Council in *Attorney General for Jersey v Holley* (2005) rather than an earlier House of Lords decision, because the Privy Council had sat with nine judges to settle the point. In *Willers v Joyce* (2016) the Supreme Court confirmed that the Privy Council can expressly direct that its decision represents English law, in which case English courts should follow it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-judicial-precedent--03-court-hierarchy.webp" width="900" height="859" alt="The courts from top to bottom: the Supreme Court binds all below and may depart from its own decisions; the Court of Appeal Civil Division is bound by itself subject to Young v Bristol Aeroplane, the Criminal Division generally so; the Divisional Courts; the High Court, which binds lower courts but not other High Court judges; and the Crown Court, County Court and magistrates’ courts, which create no binding precedent." loading="lazy">
+  <figcaption>Each court binds those below it; only the Supreme Court may freely depart from its own decisions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-judicial-precedent--04-practice-statement-uses.webp" width="900" height="683" alt="A timeline of Practice Statement cases: Conway v Rimmer (1968); Herrington (1972) overruling Addie v Dumbreck; Knuller v DPP (1972) refusing to overrule Shaw v DPP; R v Shivpuri (1986) overruling Anderton v Ryan; R v G (2003) overruling R v Caldwell; and Austin v Southwark (2010) confirming the Statement applies to the Supreme Court." loading="lazy">
+  <figcaption>The power is real but used sparingly, as Knuller shows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-judicial-precedent--05-court-of-appeal-young.webp" width="900" height="546" alt="The Court of Appeal Civil Division follows its own decisions except, under Young v Bristol Aeroplane, where its own decisions conflict, where a later House of Lords or Supreme Court decision conflicts, or where the earlier decision was per incuriam. Lord Denning’s call for freedom in Davis v Johnson was rejected; the Criminal Division may depart where liberty is at stake (Taylor; Gould)." loading="lazy">
+  <figcaption>Three Young exceptions for the Civil Division; extra flexibility for the Criminal Division.</figcaption>
+</figure>
+
 ## Law reporting: outline and reasons
 
 Precedent cannot work unless judges and lawyers can find exactly what earlier courts decided.
@@ -87,6 +112,11 @@ Precedent cannot work unless judges and lawyers can find exactly what earlier co
 - Since 2001 judgments carry **neutral citations**, a court-based reference that does not depend on any publisher. Judgments are now published online, including by the National Archives.
 
 **Reasons for law reporting:** to provide an accurate record of the ratio and reasoning; to allow lawyers to advise clients on the likely outcome; to allow judges to identify binding authority; to promote consistency and certainty; and to make the law accessible, which supports the rule of law.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-judicial-precedent--06-law-reporting.webp" width="900" height="588" alt="Four stages of law reporting: Year Books from the late thirteenth century, private reports, The Law Reports of the Incorporated Council of Law Reporting from 1865, and neutral citations since 2001. Five reasons for reporting: an accurate record, advice to clients, identifying binding authority, consistency and certainty, and accessibility supporting the rule of law." loading="lazy">
+  <figcaption>Reliable reports are what make a system of binding precedent workable.</figcaption>
+</figure>
 
 ## The operation of precedent
 
@@ -101,6 +131,11 @@ A court finds that the **material facts** of the present case differ from the ea
 ### Overruling
 
 A **higher court** holds that a legal rule in an **earlier, different case** was wrong, so it ceases to be law, as *Herrington* overruled *Addie*. The Supreme Court can also overrule its own earlier decisions using the Practice Statement. Because overruling operates **retrospectively**, the parties in the later case are bound by a rule that did not exist when they acted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-nature-of-law-and-english-legal-system--09-law2-precedent.webp" width="900" height="1010" alt="An earlier decision has a ratio decidendi that binds and obiter dicta that persuade. A later court asks whether the material facts are sufficiently similar. If yes, it follows the precedent. If there is a material factual difference, it distinguishes, which any court can do. Separately, a higher court can overrule, declaring the earlier decision wrong law, and the Supreme Court can depart from its own past decisions under the Practice Statement 1966." loading="lazy">
+  <figcaption>Precedent is followed, distinguished on material facts, or overruled by a higher court; the Supreme Court may depart from its own decisions.</figcaption>
+</figure>
 
 ## Advantages and disadvantages
 
@@ -127,6 +162,11 @@ She cannot overrule: only a higher court can
 Long term: the Court of Appeal (via Young exceptions) or the
    Supreme Court (Practice Statement / overruling) can change the rule
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-judicial-precedent--07-high-court-judge-options.webp" width="900" height="546" alt="The High Court judge is bound by the Court of Appeal if the material facts are sufficiently similar. She may distinguish on the material facts, or follow while criticising the decision to invite an appeal; she cannot overrule it. In the long term the Court of Appeal or the Supreme Court can change the rule." loading="lazy">
+  <figcaption>Distinguish or follow and criticise; only a higher court can overrule.</figcaption>
+</figure>
 
 ## Common mistakes
 

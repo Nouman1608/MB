@@ -29,6 +29,11 @@ This guide covers the section 3.3 row **Occupiers' liability** in AQA A-level La
 
 Neither Act defines "occupier"; the 1957 Act (s1(2)) adopts the common law. The test is **control** of the premises, from *Wheat v E Lacon & Co* (1966). A brewery owned a pub run by a manager who lived upstairs with his wife and took in paying guests. A guest fell on a back staircase with a short handrail and no light. The House of Lords held that both the brewery and the manager were occupiers, because each had a sufficient degree of control. There can be more than one occupier, and the owner need not be in possession. The claim failed on breach: the staircase was not unreasonably dangerous.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-occupiers-liability--01-five-step-route.webp" width="900" height="689" alt="Five steps: identify the occupier by control (Wheat v Lacon, where brewery and manager were both occupiers); check the premises, including movable structures; classify the claimant as visitor or trespasser at the moment of injury; then apply the 1957 Act common duty of care to visitors, covering injury and property, or the 1984 Act to trespassers, covering personal injury only if the s1(3) conditions are met." loading="lazy">
+  <figcaption>Occupier, premises, status, then the right Act.</figcaption>
+</figure>
+
 ## Step 2: what are premises?
 
 Under s1(3)(a) the 1957 Act applies to land and buildings and to "any fixed or movable structure, including any vessel, vehicle or aircraft". Ladders, scaffolding and lifts have all been treated as premises. The 1984 Act adopts the same meaning.
@@ -42,6 +47,16 @@ A **visitor** has express or implied permission to be on the premises. A **tresp
 - People entering under a **legal right**, such as police with a warrant, are treated as visitors (s2(6)).
 
 Classify the claimant at the moment of injury: in *Tomlinson v Congleton BC* (2003) a lawful visitor to a park became a trespasser when he dived into a lake where swimming was prohibited.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-occupiers-liability--02-visitor-to-trespasser.webp" width="900" height="592" alt="Permission can be implied by long acquiescence (Lowery v Walker), and those entering under a legal right are visitors (s2(6)). Permission is limited by area, time and purpose; exceeding any limit makes a visitor a trespasser, as Scrutton LJ’s banisters remark in The Calgarth shows. In Tomlinson a park visitor became a trespasser by diving into a lake where swimming was banned." loading="lazy">
+  <figcaption>Status is fixed at the moment of injury, and permission has limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--05-occupiers-acts.webp" width="900" height="1020" alt="A fenced plot of land with a house. A lawful visitor enters through the gate and the Occupiers' Liability Act 1957 applies. A trespasser crosses the fence and the Occupiers' Liability Act 1984 applies, with more limited liability. The standard of care and scope of duty differ." loading="lazy">
+  <figcaption>The 1957 Act governs lawful visitors and the 1984 Act governs trespassers.</figcaption>
+</figure>
 
 ## Step 4: the 1957 Act duty to visitors
 
@@ -75,6 +90,16 @@ Section 2(1) allows the duty to be restricted or excluded by notice or agreement
 
 **Damage covered:** personal injury and damage to property.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-occupiers-liability--03-1957-duty-factors.webp" width="900" height="488" alt="The common duty of care adjusts to the visitor. Children: occupiers must expect less care, so Glasgow Corporation v Taylor and Jolley v Sutton found liability, but in Phipps parents were expected to accompany a five-year-old. Specialists guard against risks of their calling (Roles v Nathan). Warnings must enable safety, and obvious dangers need none (Staples; Darby)." loading="lazy">
+  <figcaption>Expect more from occupiers towards children, less towards specialists and obvious risks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-occupiers-liability--04-independent-contractors.webp" width="900" height="485" alt="Three checks under s2(4)(b): reasonable to entrust the work, reasonable steps to check competence, and where possible a check that the work was done properly. Haseldine v Daw: not liable for a specialist lift repair. Woodward v Hastings: liable for an icy step anyone could check. Bottomley v Todmorden: liable for hiring an unchecked amateur fireworks team." loading="lazy">
+  <figcaption>Technical work can be left to experts; simple work and unchecked hires cannot.</figcaption>
+</figure>
+
 ## Step 5: the 1984 Act duty to trespassers
 
 Before 1984, *British Railways Board v Herrington* (1972) recognised a limited "common duty of humanity" after a six-year-old was electrocuted on a railway line behind a broken fence. The 1984 Act replaced it.
@@ -94,6 +119,11 @@ Before 1984, *British Railways Board v Herrington* (1972) recognised a limited "
 
 **Damage covered:** personal injury only; s1(8) excludes property damage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-occupiers-liability--05-1984-act-conditions.webp" width="900" height="595" alt="Three conditions under s1(3), each with a case where it failed: awareness of the danger (Rhind v Astbury Water Park), knowledge that the trespasser may be in the vicinity (Donoghue v Folkestone Properties), and a risk the occupier can reasonably be expected to protect against (Ratcliff; Tomlinson; Keown). If met, the duty under s1(4) can be discharged by warnings (s1(5)) and covers personal injury only (s1(8))." loading="lazy">
+  <figcaption>No duty unless all three conditions are met; even then, no property damage.</figcaption>
+</figure>
+
 ## Worked problem
 
 *Ivy owns a disused quarry with a flooded pit, fenced on three sides. She knows teenagers often get in through the unfenced side to swim, and has put up one small sign. Rob, 15, swims there and is injured by a submerged shopping trolley Ivy knew had been dumped. His phone is ruined.*
@@ -112,6 +142,11 @@ Damage:    Personal injury recoverable; the phone is not (s1(8)).
 Defences:  Contributory negligence may reduce damages for a 15-year-old who
            chose to trespass.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-occupiers-liability--06-ivy-worked-problem.webp" width="900" height="601" alt="A checklist for Ivy’s quarry: Ivy is the occupier; Rob is a trespasser under the 1984 Act; she knew of the trolley and that teenagers swam there; a hidden hazard is one she could be expected to protect against; one small sign may not be enough. Rob recovers for injury but not for his phone (s1(8)); contributory negligence may reduce damages." loading="lazy">
+  <figcaption>Status and the s1(3) conditions usually decide the claim.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -55,6 +55,11 @@ Between 1820 and 1850 Congress repeatedly found a deal. After 1850 it could not.
 The final attempt, the **Crittenden Compromise** (December 1860), proposed extending the old 36°30′ line to the
 Pacific. Lincoln, as president-elect, opposed any extension of slavery into the territories, and it failed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--01-compromise-fails.webp" width="900" height="525" alt="Three changes converge: each compromise left one side cheated (the Fugitive Slave Act of 1850), the national parties broke apart (Whig collapse, a Northern Republican Party, the Democratic split of April 1860), and positions hardened (Dred Scott, Freeport). The result: the Crittenden Compromise failed in December 1860." loading="lazy">
+  <figcaption>After 1850 there was no party able to broker a deal between the sections.</figcaption>
+</figure>
+
 ## The significance of Lincoln's election
 
 Lincoln's election in November 1860 was significant because of what it **showed**, not what he did.
@@ -73,6 +78,11 @@ Lincoln's election in November 1860 was significant because of what it **showed*
 A useful way to weigh significance: the election was the **trigger**, while slavery and its expansion were the
 **underlying cause**. Without the long dispute over slavery, a Republican victory would not have led to secession.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--02-trigger-cause.webp" width="900" height="621" alt="Slavery and its expansion are shown as the underlying cause, above a chain of triggers: Lincoln's election in November 1860, South Carolina's secession on 20 December 1860, the inaugural of 4 March 1861 and Fort Sumter on 12 April 1861, after which four more states seceded. A note explains what the election showed the South." loading="lazy">
+  <figcaption>The election triggered secession; slavery's expansion caused it.</figcaption>
+</figure>
+
 ## How the war was won and lost
 
 ### The course of the war in five turning points
@@ -84,6 +94,11 @@ A useful way to weigh significance: the election was the **trigger**, while slav
 | July 1863 | Gettysburg (1-3 July) and the fall of Vicksburg (4 July) | Lee never again invaded the North; the Union controlled the Mississippi, splitting the Confederacy |
 | September 1864 | Sherman takes Atlanta | Boosted Northern morale and helped Lincoln win re-election in November 1864 |
 | April 1865 | Lee surrenders at Appomattox (9 April) | Effective end of the war |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--03-turning-points.webp" width="900" height="740" alt="A timeline from 1861 to 1865 drawn to scale: Bull Run (July 1861), Antietam (September 1862), the Emancipation Proclamation (1 January 1863), Gettysburg and Vicksburg (July 1863), Atlanta (September 1864) and Appomattox (9 April 1865). A table explains why each mattered." loading="lazy">
+  <figcaption>Each turning point shifted the war towards the Union.</figcaption>
+</figure>
 
 ### Why the North won
 
@@ -111,6 +126,11 @@ A useful way to weigh significance: the election was the **trigger**, while slav
 - **Manpower:** the Confederacy could not replace its losses; it agreed to enlist enslaved men only in March 1865,
   far too late.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--04-north-south.webp" width="900" height="600" alt="A balance tipped towards the Union. Union strengths: economic power, the naval blockade, emancipation and about 180,000 Black soldiers, and Grant and Sherman. Confederate weaknesses: failed cotton diplomacy, states' rights, inflation and bread riots, class resentment over conscription, and manpower." loading="lazy">
+  <figcaption>Northern strength told once generals like Grant and Sherman used it.</figcaption>
+</figure>
+
 ## The role of Lincoln
 
 Lincoln kept the **border states** (Kentucky, Missouri, Maryland, Delaware) in the Union, partly by insisting at first
@@ -118,6 +138,11 @@ that the war was to save the Union, not to end slavery. He changed generals unti
 turned the war into a war for freedom with the Emancipation Proclamation and pushed the **13th Amendment** through
 Congress in January 1865. His **Gettysburg Address** (November 1863) gave the war a democratic purpose. He was
 assassinated in April 1865, days after Lee's surrender, before he could shape Reconstruction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--05-lincoln-role.webp" width="900" height="675" alt="Five steps of Lincoln's leadership: keeping the border states by first presenting the war as saving the Union, changing generals, the Emancipation Proclamation (1 January 1863), the Gettysburg Address (November 1863) and pushing the 13th Amendment through Congress (January 1865), before his assassination in April 1865." loading="lazy">
+  <figcaption>Lincoln moved carefully from saving the Union to ending slavery.</figcaption>
+</figure>
 
 ## Did the war change anything? Judging Reconstruction
 
@@ -133,6 +158,11 @@ It ended with the **Compromise of 1877**, when federal troops were withdrawn aft
 | Black men's right to vote (15th, 1870); Black officeholders such as Senator Hiram Revels | Violence by the Ku Klux Klan and others drove Black voters from the polls |
 | Freedmen's Bureau schools; new Black colleges and churches | Land was not redistributed; "forty acres and a mule" was reversed |
 | Federal government stronger; secession ended for good | White Democrats regained control of every Southern state by 1877 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--06-reconstruction.webp" width="900" height="826" alt="A timeline from 1863 to 1877 with three phases: Lincoln's Ten Per Cent Plan, Johnson's presidential Reconstruction with Black Codes, and Radical Reconstruction from 1867 to the Compromise of 1877. Below, paired rows: the 13th, 14th and 15th Amendments and Freedmen's Bureau schools against sharecropping, narrowing courts, Klan violence and no land redistribution." loading="lazy">
+  <figcaption>Reconstruction succeeded in law but failed in enforcement by 1877.</figcaption>
+</figure>
 
 ## Annotated model answer
 

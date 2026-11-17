@@ -29,6 +29,11 @@ featured: false
 
 Content areas 3.2.2.8 to 3.2.2.10 ask how the Qur'an and Sunnah shape a Muslim's character. 3.2.2.9 is about character **towards other people**: how a Muslim treats the people next door, the trust others place in them, and the attitudes and words that damage relationships. Every answer should therefore have two parts: **what the source teaches** and **what difference it makes in society**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--01-teaching-to-impact.webp" width="900" height="650" alt="Answers need two parts: what the source teaches and what difference it makes in society. A table gives a key source and social impact for neighbours, amanat, backbiting, arrogance and jealousy." loading="lazy">
+  <figcaption>“Social impact” questions need the effect on society, not just the teaching.</figcaption>
+</figure>
+
 ## The rights of neighbours
 
 The Qur'an lists neighbours among those to whom Muslims must do good: "Worship Allah and associate nothing with Him, and to parents do good, and to relatives, orphans, the needy, the near neighbour, the neighbour farther away, the companion at your side, the traveller" (4:36). Scholars explain "near" and "farther away" as closeness of kinship or of distance, and many include non-Muslim neighbours.
@@ -51,6 +56,11 @@ The Hadith make the duty very strong:
 
 **Why it matters:** the Bukhari passage links faith itself to the neighbour's safety, so a Muslim who prays but harms the neighbour has an incomplete faith. Socially, good neighbours create safe, trusting streets and break down barriers between communities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--02-rights-of-neighbours.webp" width="900" height="633" alt="The prescribed Bukhari Hadith links faith to the neighbour’s safety. Five rights follow: safety from harm, kindness and gifts, help in need, respect for privacy and patience. A note cites Qur’an 4:36 and the Hadith about Jibril (AS) advising on neighbours." loading="lazy">
+  <figcaption>Safety is the minimum right: faith is linked to how a neighbour is treated.</figcaption>
+</figure>
+
 ## Amanat: trust
 
 *Amanah* (plural *amanat*) means a trust: anything placed in a person's care, whether property, a secret, a job, a promise or a responsibility.
@@ -64,6 +74,11 @@ The Hadith make the duty very strong:
 
 **Link to neighbours:** the neighbour trusts you with their safety, privacy and reputation, so keeping amanah and honouring the neighbour are closely connected.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--03-forms-of-amanah.webp" width="900" height="536" alt="Forms of amanah around a centre: goods left for safekeeping, as Ali (RA) returned on the night of the Hijrah, secrets, one’s job, public office and money, one’s body and abilities, and the neighbour’s safety, privacy and reputation. A note gives Qur’an 4:58 and the signs of a hypocrite." loading="lazy">
+  <figcaption>Amanah includes secrets, jobs, promises and responsibilities, not only money.</figcaption>
+</figure>
+
 ## The prohibition of backbiting (ghibah)
 
 The Qur'an gives a vivid image: "do not spy or backbite each other. Would one of you like to eat the flesh of his brother when dead? You would detest it" (49:12). The Prophet (pbuh) defined backbiting as saying about your brother what he would dislike. When asked what if it is true, he said that if it is true you have backbitten him, and if it is not true you have slandered him (*buhtan*) (Sahih Muslim).
@@ -75,6 +90,11 @@ The Qur'an gives a vivid image: "do not spy or backbite each other. Would one of
 
 This connects with 3.2.2.8, hiding the faults of others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--04-backbiting-or-slander.webp" width="900" height="630" alt="Saying about someone what they would dislike is backbiting if it is true and slander if it is not. Qur’an 49:12 compares backbiting to eating a dead brother’s flesh. Muslims should defend the absent person; scholars allow limited exceptions such as reporting wrongdoing or giving an honest warning when asked." loading="lazy">
+  <figcaption>Backbiting is wrong even when it is true.</figcaption>
+</figure>
+
 ## The prohibition of arrogance (kibr)
 
 - The first sin was arrogance: Iblis refused to prostrate to Adam (AS), saying "I am better than him" (7:12).
@@ -82,6 +102,11 @@ This connects with 3.2.2.8, hiding the faults of others.
 - The Prophet (pbuh) said that no one will enter Paradise who has an atom's weight of arrogance in his heart, and explained that arrogance is rejecting the truth and looking down on people (Sahih Muslim). In the same Hadith he made clear that liking good clothes is not arrogance, because "Allah is beautiful and loves beauty".
 
 **Social impact:** arrogance divides people by wealth, race or status, the opposite of the equality taught in the Farewell Sermon and shown in the rows of Salah and the white clothes of Hajj. Humility makes a Muslim easy to approach, willing to accept correction and fair to others.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--05-arrogance-humility.webp" width="900" height="606" alt="Arrogance began with Iblis refusing to prostrate to Adam (AS). Arrogance is rejecting the truth and looking down on people (Sahih Muslim; Qur’an 31:18); liking good clothes is not arrogance, because Allah is beautiful and loves beauty. Arrogance divides people; humility supports equality." loading="lazy">
+  <figcaption>Arrogance means rejecting truth and looking down on people, not liking good things.</figcaption>
+</figure>
 
 ## The prohibition of jealousy (hasad)
 
@@ -91,6 +116,11 @@ This connects with 3.2.2.8, hiding the faults of others.
 - **Permitted "envy" (ghibtah):** the Prophet (pbuh) said there is no envy except in two cases: a person whom Allah has given wealth and who spends it rightly, and a person whom Allah has given wisdom and who judges and teaches by it (Sahih al-Bukhari). Wishing to have the same good as someone, without wanting them to lose it, is allowed.
 
 **Why it is serious:** hasad is a quarrel with Allah's decree, since it resents what Allah has given another; it leads to backbiting, hatred and sometimes harm. The cure the sources point to is contentment, gratitude and du'a for the other person.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--06-hasad-or-ghibtah.webp" width="900" height="485" alt="When seeing another’s blessing, hasad wants them to lose it, resents Allah’s decree and leads to hatred; it is forbidden. Ghibtah wishes for the same good without wanting them to lose it, as in the Hadith of the two cases of wealth spent rightly and wisdom; it is allowed. The cure is contentment, gratitude and du’a." loading="lazy">
+  <figcaption>Wishing for the same blessing is allowed; wishing someone to lose it is not.</figcaption>
+</figure>
 
 ## Worked example: a 6-mark answer
 

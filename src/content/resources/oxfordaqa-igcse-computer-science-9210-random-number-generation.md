@@ -53,6 +53,11 @@ Languages provide the same facility with different rules, which is why it pays t
 Python's `random.random()` gives a real number from 0 up to (but not including) 1, which some programs scale to
 the range they need.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--01-inclusive-ranges.webp" width="900" height="762" alt="RANDOM_INT(1, 6) in pseudocode and random.randint(1, 6) in Python can each return 1, 2, 3, 4, 5 or 6, with both ends included. In C#, rnd.Next(1, 7) excludes the upper value 7, so its maximum is 6." loading="lazy">
+  <figcaption>Pseudocode and Python include both ends; C# excludes the upper value.</figcaption>
+</figure>
+
 ## Choosing the right range
 
 The most common error in this section is an off-by-one range. Work out the smallest and largest values the
@@ -70,6 +75,11 @@ The array index case is worth memorising: indexes run from 0 to `LEN(items) - 1`
 would sometimes produce an index that does not exist. The letter case uses the fact that the character codes for
 A to Z run in sequence from 65 to 90 (see the [string handling study
 guide](/resources/oxfordaqa-igcse-computer-science-9210-string-handling-operations/)).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--02-random-index-range.webp" width="900" height="730" alt="An array items has indexes 0 to LEN − 1. RANDOM_INT(0, LEN(items) - 1) covers exactly those indexes. RANDOM_INT(0, LEN(items)) can produce LEN, which does not exist, and RANDOM_INT(1, LEN(items)) misses index 0 and can also go past the end." loading="lazy">
+  <figcaption>For a random index, use RANDOM_INT(0, LEN(items) - 1).</figcaption>
+</figure>
 
 ## Using a random number for a choice
 
@@ -99,6 +109,11 @@ ENDIF
 `IF RANDOM_INT(1, 4) = 1 THEN ... ELSE IF RANDOM_INT(1, 4) = 2 THEN ...` generates a **different** number for each
 test, which changes the chances and makes the code hard to follow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--03-random-chances.webp" width="900" height="690" alt="RANDOM_INT(1, 10) ≤ 3 is True for 3 of the 10 equally likely values, a 30% chance. For several outcomes, r ← RANDOM_INT(1, 4) is stored once and tested: 1 gives Sun, 2 gives Rain, and 3 or 4 give Cloud, so Cloud has a 2 in 4 chance and the others 1 in 4." loading="lazy">
+  <figcaption>Compare with a threshold for one chance; store one value and test it for several outcomes.</figcaption>
+</figure>
+
 ## Worked example: a guessing game
 
 ```
@@ -124,6 +139,11 @@ the problem because the user must guess at least once.
 To trace a program like this, a question will tell you the random value. If `target` is 29 and the guesses are
 40, 20 and 29, the outputs are `Too high`, `Too low`, then `Correct in 3 guesses`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--04-guessing-game-trace.webp" width="900" height="770" alt="The guessing game pseudocode generates target with RANDOM_INT(1, 50) once, before a REPEAT … UNTIL loop. On a number line from 1 to 50 with target 29, the guesses 40, 20 and 29 give the outputs Too high, Too low, then Correct in 3 guesses." loading="lazy">
+  <figcaption>Generate the target once, before the loop; a trace question tells you its value.</figcaption>
+</figure>
+
 ## Worked example: simulating dice rolls
 
 Random numbers let a program **simulate** events many times and count the results:
@@ -144,6 +164,11 @@ should appear roughly 100 times, but the exact counts change every run. That var
 program does not produce the same output twice, which is why it cannot be tested by comparing against one fixed
 expected output.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--05-dice-simulation-counts.webp" width="900" height="674" alt="An array counts holds six counters at indexes 0 to 5. Each of 600 rolls from RANDOM_INT(1, 6) adds 1 to counts[roll - 1], so a roll of 1 is counted at index 0 and a roll of 6 at index 5. Each face should appear roughly 100 times, but the counts change every run." loading="lazy">
+  <figcaption>Faces 1 to 6 are counted at indexes 0 to 5, so use roll − 1 as the index.</figcaption>
+</figure>
+
 ## Two dice are not one bigger dice
 
 Simulating the total of two dice with `RANDOM_INT(2, 12)` is a classic error. It makes every total from 2 to 12
@@ -153,6 +178,11 @@ total of 2 can happen in only one way. The correct simulation calls the function
 ```
 total ← RANDOM_INT(1, 6) + RANDOM_INT(1, 6)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--06-two-dice-not-one.webp" width="900" height="696" alt="RANDOM_INT(2, 12) makes every total from 2 to 12 equally likely. A grid of the 36 pairs from two real dice shows that a total of 7 happens in six ways (1+6, 2+5, 3+4, 4+3, 5+2, 6+1) but a total of 2 in only one way (1+1). The correct simulation adds two calls: RANDOM_INT(1, 6) + RANDOM_INT(1, 6)." loading="lazy">
+  <figcaption>Simulate two dice with two calls added together, not one call from 2 to 12.</figcaption>
+</figure>
 
 ## Testing programs that use random numbers
 

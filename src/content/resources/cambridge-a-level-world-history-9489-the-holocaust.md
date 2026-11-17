@@ -51,6 +51,11 @@ Paper 3 (1 hour 15 minutes, 40 marks) sets one unattributed extract of up to 600
 | April 1943 | Warsaw Ghetto Uprising; Bermuda Conference |
 | Jan 1944 | US War Refugee Board |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-the-holocaust--01-context-timeline.webp" width="900" height="1138" alt="Two cards for the 1933 boycott and the 1935 Nuremberg Laws, then a vertical timeline from 1938 to 1944 drawn to scale. Nazi policy on the left: Kristallnacht (1938), the January 1939 prophecy, T4 and ghettos, the Madagascar plan, Göring's July 1941 authorisation, Wannsee (January 1942) and the 1942-43 death camps. War and the world on the right: Evian, the invasion of the USSR (June 1941), Chełmno and US entry (December 1941), the Warsaw Ghetto Uprising and Bermuda (April 1943), and the War Refugee Board (January 1944)." loading="lazy">
+  <figcaption>Eight years of persecution; mass murder from mid-1941, once the war turned east.</figcaption>
+</figure>
+
 ## The debate, content point by content point
 
 ### How far was the Holocaust a consequence of racist ideas that existed before the Nazis?
@@ -60,6 +65,11 @@ Some historians trace the Holocaust's roots to long-standing ideas: Christian ho
 ### Intentionalism: was the Holocaust planned in advance by Hitler?
 
 Intentionalists place Hitler and his ideology at the centre. Lucy Dawidowicz (*The War Against the Jews*, 1975) argued that Hitler had decided on annihilation early and waited for the right moment. Gerald Fleming (*Hitler and the Final Solution*, 1982) traced a line of intention from Hitler's early statements. Eberhard Jäckel analysed Hitler's world view as a coherent programme. Evidence they cite includes the 1919 letter in which Hitler called for the "removal" of the Jews, *Mein Kampf*, and the Reichstag "prophecy" of January 1939. The approach focuses on the leader, ideology and decisions from the top.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-the-holocaust--02-four-schools.webp" width="900" height="747" alt="Four school cards: long-term ideas (Mosse, Goldhagen), intentionalism (Dawidowicz, Fleming, Jäckel), structuralism (Broszat, Mommsen) and functionalism (Schleunes, Aly). Below, the synthesis of Kershaw, Browning, Gerlach and Friedländer: ideology set the goal and war set the pace. A note separates structuralism from functionalism." loading="lazy">
+  <figcaption>Ask what an extract puts at the centre: ideas, Hitler, the state, or the war.</figcaption>
+</figure>
 
 ### Structuralism: how far did the nature of the Nazi state determine the Holocaust?
 
@@ -73,9 +83,19 @@ Functionalists emphasise circumstances. Karl Schleunes described "the twisted ro
 
 Most recent historians combine elements. Ian Kershaw's idea of "working towards the Führer" explains how officials took initiatives they believed Hitler wanted, linking his ideology to a competitive state. Christopher Browning (*The Origins of the Final Solution*, 2004) argued that the decisive decisions were taken in stages in 1941, encouraged by the "euphoria of victory" in the east. Christian Gerlach argued that Hitler announced a decision for the murder of all European Jews in December 1941, after the USA entered the war. Saul Friedländer (*Nazi Germany and the Jews*, 1997 and 2007) placed what he called "redemptive antisemitism" at the centre while integrating the experience of victims. Syntheses usually hold that ideology set the goal and war set the pace.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-the-holocaust--03-top-down-bottom-up.webp" width="900" height="415" alt="A spectrum from decisions at the top to initiatives from below: Dawidowicz and Fleming (an early decision), Gerlach (December 1941), Kershaw and Browning in the middle, Schleunes and Aly (improvisation), and Broszat and Mommsen (regional initiative and cumulative radicalisation)." loading="lazy">
+  <figcaption>Most recent work sits in the middle: Hitler's aims, officials' initiative.</figcaption>
+</figure>
+
 ### Perpetrators: who carried out the Holocaust, and why?
 
 Raul Hilberg (*The Destruction of the European Jews*, 1961) showed how ordinary bureaucratic processes -- definition, expropriation, concentration, deportation -- involved thousands of officials. Hannah Arendt, reporting Adolf Eichmann's trial (1961), used the phrase "the banality of evil". Christopher Browning's *Ordinary Men* (1992) studied Reserve Police Battalion 101 and found that conformity, deference to authority and peer pressure mattered alongside ideology; most men took part though some refused without serious punishment. Goldhagen studied the same battalion and stressed antisemitic conviction. The Wehrmacht exhibition of the 1990s challenged the belief that the regular army had kept its hands clean. **Non-German participation** is a growing field: Jan Gross's *Neighbors* (2001) described the murder of the Jews of Jedwabne by their Polish neighbours in 1941; Robert Paxton and Michael Marrus showed Vichy France's role in deportations; Lithuanian, Latvian, Ukrainian and Romanian forces took part in killings. Timothy Snyder's *Bloodlands* (2010) placed the killing in the lands between Germany and the USSR, where states had been destroyed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-the-holocaust--04-perpetrators-victims-bystanders.webp" width="900" height="431" alt="Three columns. Perpetrators: Hilberg's bureaucracy, Arendt's banality of evil, Browning against Goldhagen on Battalion 101, and non-German participation (Gross, Paxton and Marrus, Snyder). Victims: criticism of the Jewish councils, Bauer's amidah, Ringelblum's archive and armed revolts. Bystanders: Evian, the White Paper, the Riegner telegram, Bermuda, no bombing of Auschwitz, and the Wyman-Rubinstein debate." loading="lazy">
+  <figcaption>Not every extract is about decisions: some are about who acted, resisted or stood by.</figcaption>
+</figure>
 
 ### Victims: how far did Jews resist, and how should resistance be defined?
 
@@ -94,6 +114,11 @@ At Evian (1938), almost no state offered to take more refugees. Britain admitted
 - **Interpretation:** murder emerged from below, through rivalry and initiative.
 - **Approach:** structuralist/functionalist, focusing on regional officials and the competitive state.
 - **Test:** support -- Einsatzgruppen escalation in summer 1941 and the Warthegau gassings at Chełmno; challenge -- Hitler's prophecy, Göring's authorisation of July 1941 and Wannsee show central direction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-the-holocaust--05-identify-approach.webp" width="900" height="651" alt="A constructed sentence with three phrases highlighted: &quot;not ordered from Berlin&quot;, &quot;invented on the ground&quot; and &quot;competing&quot;. Below, the interpretation (murder emerged from below), the approach (structuralist or functionalist), supporting evidence (Einsatzgruppen escalation, Chełmno) and challenging evidence (the prophecy, Göring's authorisation, Wannsee)." loading="lazy">
+  <figcaption>The key phrases reveal the approach; test it with evidence on both sides.</figcaption>
+</figure>
 
 ## Common mistakes
 

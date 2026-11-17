@@ -41,6 +41,11 @@ A desert landscape is an **open system**: energy and matter cross its boundaries
 
 A negative budget means the store is shrinking: dunes lower and migrate away, exposing the surface beneath. If irrigation upstream reduced the river's sediment supply, the deficit would grow -- a clear way to link human activity to a physical system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--01-dune-field-sediment-budget.webp" width="900" height="725" alt="A dune field store with sand inputs of 40,000 tonnes a year from a dry riverbed and 5,000 tonnes from weathering, and an output of 52,000 tonnes downwind, drawn with arrow widths to scale. The budget is minus 7,000 tonnes a year, so the store shrinks. Below, the three energy inputs: insolation, wind and runoff." loading="lazy">
+  <figcaption>Outputs exceed inputs by 7,000 tonnes a year, so the dune field shrinks.</figcaption>
+</figure>
+
 ## Measuring dryness: the aridity index
 
 The aridity index divides annual precipitation (P) by annual potential evapotranspiration (PET), both in millimetres. In the widely used UNEP bands, an index under 0.05 is hyper-arid, from 0.05 up to 0.20 is arid, and from 0.20 up to 0.50 is semi-arid.
@@ -53,6 +58,11 @@ The aridity index divides annual precipitation (P) by annual potential evapotran
 
 Two places with the same rainfall can fall in different classes if one has higher PET, which is why rainfall alone does not define a desert. The **water balance** makes the same point: where PET far exceeds P, soils have a moisture deficit for most of the year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--02-aridity-index.webp" width="900" height="736" alt="A scale of P/PET from 0 to 0.5 with bands: hyper-arid below 0.05, arid 0.05 to 0.20 and semi-arid 0.20 to 0.50. Three fictional stations are plotted: Wadi Seer at 0.017, Tarik Plain at 0.067 and Baran Hills at 0.30, with their rainfall and PET in a table." loading="lazy">
+  <figcaption>Divide precipitation by potential evapotranspiration, then read the band.</figcaption>
+</figure>
+
 ## Applying the causes of aridity to real deserts
 
 The specification lists five causes: pressure, winds, continentality, relief and cold ocean currents. Examiners reward answers that show several working together in one place.
@@ -61,6 +71,11 @@ The specification lists five causes: pressure, winds, continentality, relief and
 - **Atacama Desert:** subtropical high pressure, the cold **Humboldt (Peru) Current** offshore cooling the lower air so it cannot rise to form rain, and the **rain shadow** of the Andes blocking moist air from the east. This combination makes parts of it among the driest places on Earth.
 - **Namib Desert:** the cold **Benguela Current** produces fog along the coast but very little rain.
 - **Taklamakan Desert (mid-latitude):** **continentality** -- it lies deep inside Asia -- combined with high mountains on three sides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--03-causes-of-aridity.webp" width="900" height="737" alt="A matrix of four deserts against five causes of aridity. Sahara and Arabian: subtropical high pressure and winds from land. Atacama: high pressure, the Andes rain shadow and the cold Humboldt Current. Namib: the cold Benguela Current. Taklamakan: continentality and surrounding mountains." loading="lazy">
+  <figcaption>Most deserts are dry for more than one reason.</figcaption>
+</figure>
 
 ## Explaining landforms as sequences
 
@@ -71,6 +86,16 @@ Landform marks go to the *process chain*, not the label. Write formation as numb
 **Pediment and inselberg.** (1) A mountain front retreats through weathering and sheet flooding. (2) The slope retreats parallel to itself rather than wearing down. (3) A gently sloping rock surface, the pediment, is left at its foot. (4) Isolated remnants of resistant rock remain as inselbergs. The time needed is very long, and some of the shaping may have occurred in wetter past climates.
 
 **Desert pavement.** (1) Deflation removes fine silt and sand. (2) Larger stones are left behind and settle together. (3) Sheet wash may help pack them. (4) The armoured surface then protects finer material beneath -- negative feedback that slows further deflation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--04-barchan-dune.webp" width="900" height="864" alt="Plan view and profile of a barchan, not to scale: a crescent with its gentle windward slope facing the wind and horns pointing downwind; in profile, sand saltates up the windward slope and avalanches down a slip face of about 30 to 34 degrees, and the dune migrates downwind. Five numbered steps explain the formation." loading="lazy">
+  <figcaption>Saltation up, avalanching down and faster-moving horns keep a barchan's shape as it migrates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--05-pavement-and-pediment.webp" width="900" height="676" alt="Three panels show a desert pavement forming: deflation removes fine material, larger stones settle together, and the armoured surface protects fines below. Below, a schematic cross-section shows a mountain front retreating parallel to itself, leaving a gently sloping pediment with an isolated inselberg of resistant rock." loading="lazy">
+  <figcaption>Explain landforms as numbered process steps, not labels.</figcaption>
+</figure>
 
 ## Reading desert landscapes
 
@@ -84,6 +109,11 @@ The specification asks how related landforms combine into **characteristic lands
 
 A mountain-front landscape shows the link between **process, time, landforms and landscapes** most clearly: flash floods cut wadis in the mountains, drop their load as fans where they emerge, the fans merge into a bahada, and fine sediment reaches a central playa. The whole assemblage reflects one sediment cascade from source to sink. Many wadis are larger than present-day floods could cut, which suggests they partly formed in wetter periods -- an example of inherited landforms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--06-mountain-front-landscape.webp" width="900" height="837" alt="Schematic cross-section, not to scale, of a mountain-front landscape: wadis cut in the mountains, alluvial fans merging into a bahada at the mountain foot, a playa of fine sediment in the basin and an inselberg beyond. A table compares sand sea, stony desert and rocky desert landscapes by processes and landforms." loading="lazy">
+  <figcaption>Landforms combine into landscapes through one cascade of sediment.</figcaption>
+</figure>
+
 ## Desertification: from causes to futures
 
 The specification's sequence is: **changing extent over the last 10,000 years -> causes -> areas at risk -> impacts -> predicted climate change -> alternative futures**. Follow it in long answers.
@@ -93,6 +123,11 @@ The specification's sequence is: **changing extent over the last 10,000 years ->
 - **Areas at risk:** semi-arid and dry sub-humid margins, such as the Sahel, where rainfall is variable and population pressure is high.
 - **Impacts:** ecosystems lose cover and species; landscapes show gullying, dune advance and crusted soils; populations face falling yields, food insecurity and migration.
 - **Alternative futures:** continued degradation and out-migration; adaptation through drought-resistant crops and water harvesting; or restoration, as in parts of Niger, where farmers protecting tree regrowth on their fields (farmer-managed natural regeneration) have re-greened large areas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--07-desertification-sequence.webp" width="900" height="610" alt="A chain following the specification: changing extent over 10,000 years, climatic and human causes, areas at risk such as the Sahel, and impacts on land and people. A note explains how drought and grazing reinforce each other. Three alternative futures: continued degradation, adaptation, or restoration as in parts of Niger." loading="lazy">
+  <figcaption>Causes reinforce each other, but the future depends on how land is managed.</figcaption>
+</figure>
 
 ## Case studies and field data (3.1.2.5 and 3.1.2.6)
 

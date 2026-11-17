@@ -41,6 +41,11 @@ The **House of Wisdom** in Baghdad, associated especially with the Caliph al-Ma'
 
 The movement **preserved** ancient knowledge that might otherwise have been lost and **combined** traditions from three continents. Physicians did not simply copy: they tested, criticised and added to what they read.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine--01-translation-movement.webp" width="900" height="645" alt="Greek, Persian and Indian medical texts flow into Baghdad's House of Wisdom, where they were translated into Arabic. The results: ancient knowledge preserved, three traditions combined, and ideas tested and added to. A note explains the role of trade routes and paper." loading="lazy">
+  <figcaption>Translation preserved, combined and improved knowledge from three continents.</figcaption>
+</figure>
+
 ## Universities and centres of learning
 
 Learning was supported by mosques, libraries, hospitals and wealthy patrons. Among the oldest continuously operating places of learning are **al-Qarawiyyin** in Fez, founded in 859 by Fatima al-Fihri, and **al-Azhar** in Cairo, founded in the 970s. Medicine was often taught through apprenticeship and in hospitals, where students watched experienced physicians examine patients. Large libraries in Baghdad, Cairo and Córdoba held medical texts for study.
@@ -52,6 +57,11 @@ Learning was supported by mosques, libraries, hospitals and wealthy patrons. Amo
 **Al-Razi** (c854-c925), known in Europe as Rhazes, directed hospitals in Rayy and Baghdad. He stressed careful **observation** of patients and recording of cases. His treatise on **smallpox and measles** was the first to distinguish clearly between the two diseases. He wrote *Doubts about Galen*, showing a willingness to question the greatest ancient authority when observation disagreed with it, and his huge medical notebook was compiled after his death as *The Comprehensive Book*. He also wrote a guide for people who could not reach a doctor.
 
 **Ibn Sina** (980-1037), known in Europe as Avicenna, was a physician and philosopher from Bukhara. His *Canon of Medicine*, completed around 1025, organised the medical knowledge of Greek, Islamic and other traditions into five books covering the body, diseases, treatments and drugs. It discussed the spread of disease by contagion and set out rules for testing whether a drug worked. The *Canon* became a standard textbook in the Islamic world and, after its Latin translation, in European universities for centuries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine--02-physicians-who-is-who.webp" width="900" height="732" alt="Six figures with lifespan bars on a scale from 800 to 1300: Al-Kindi, Hunayn ibn Ishaq (died 873), Al-Razi, Al-Zahrawi, Ibn Sina and Ibn al-Baytar (died 1248), each with their main contribution." loading="lazy">
+  <figcaption>Al-Razi observed and questioned, Ibn Sina organised, Al-Zahrawi operated, Al-Kindi and Ibn al-Baytar advanced pharmacy.</figcaption>
+</figure>
 
 ## Hospitals: bimaristans
 
@@ -65,6 +75,11 @@ The word **bimaristan** comes from Persian words meaning "place of the sick". La
 
 Bimaristans were centres of both care and learning, very different from most religious hospitals in Europe at the time, which offered rest and prayer rather than medical treatment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine--03-bimaristan.webp" width="900" height="687" alt="Illustrative layout of a bimaristan with separate wards for fevers, eye diseases, surgery and mental illness, separate men's and women's wards, and a pharmacy, library, kitchen and teaching space, with free treatment and patient records. Below, a comparison with European religious hospitals." loading="lazy">
+  <figcaption>Bimaristans were centres of both care and learning.</figcaption>
+</figure>
+
 ## Surgery: Al-Zahrawi
 
 **Al-Zahrawi** (c936-1013), known in Europe as Albucasis, worked in Córdoba. His encyclopaedia, *Kitab al-Tasrif* (*The Method of Medicine*), ended with a volume on surgery that described operations and included drawings of around two hundred surgical instruments, many of his own design. He wrote on cauterisation to stop bleeding, tying blood vessels, stitching wounds (including the use of catgut), setting bones, removing bladder stones, dentistry and childbirth. Its Latin translation influenced European surgeons for centuries.
@@ -75,6 +90,11 @@ Bimaristans were centres of both care and learning, very different from most rel
 - **Water supply.** Aqueducts, underground channels (*qanats*), wells and public fountains supplied towns.
 - **Sanitation.** Some cities had drains and systems for removing waste.
 - **Regulation.** Market inspectors (*muhtasib*) checked the cleanliness of markets, the quality of food and the honesty of traders.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine--04-public-health.webp" width="900" height="422" alt="Four features of public health in Islamic cities: washing (ritual washing and public baths), water supply (aqueducts, qanats, wells, fountains), sanitation (drains and waste removal) and regulation by market inspectors." loading="lazy">
+  <figcaption>Religion, engineering and inspection together kept cities cleaner.</figcaption>
+</figure>
 
 ## Pharmacology
 
@@ -90,11 +110,21 @@ Pharmacy became a separate profession, and pharmacists were inspected.
 
 **Asia.** The tradition spread east with scholars and rulers to Persia, Central Asia and India, where it developed into **Unani** medicine ("Greek" medicine), still practised in South Asia today.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine--05-passing-knowledge-on.webp" width="900" height="649" alt="Arabic medical texts at the centre pass west to Europe through Spain, Sicily and southern Italy, translated by Constantine the African and Gerard of Cremona and used at Salerno and Montpellier, and east to Persia, Central Asia and India, where they became Unani medicine." loading="lazy">
+  <figcaption>Latin translations carried Islamic medicine into European universities; in Asia it became Unani medicine.</figcaption>
+</figure>
+
 ## Worked example: a 6-mark answer
 
 *Explain one way in which the Translation Movement affected medicine.* **[6]**
 
 > One way was that it **preserved and combined medical knowledge from different civilisations**. In Baghdad, scholars at the House of Wisdom, such as Hunayn ibn Ishaq, translated the works of Galen and Hippocrates into Arabic, alongside Persian and Indian texts. This meant that physicians had access to a wider range of knowledge than any single tradition offered, so they could compare and test ideas, as Al-Razi did when he wrote *Doubts about Galen*. As a result, the knowledge was not only kept alive but improved, and it later passed to Europe when Arabic works such as Ibn Sina's *Canon* were translated into Latin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine--06-six-mark-answer.webp" width="900" height="576" alt="Four steps of a model 6-mark answer on the Translation Movement: name the way, support it with detail about the House of Wisdom, explain the effect on physicians, and show the later consequence for Europe." loading="lazy">
+  <figcaption>One way, supported, explained and carried through to its consequence.</figcaption>
+</figure>
 
 ## Common mistakes
 

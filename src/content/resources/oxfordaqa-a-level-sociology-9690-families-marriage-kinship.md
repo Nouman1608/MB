@@ -51,6 +51,11 @@ Three terms are often blurred and should be kept apart.
 Keeping these apart lets you answer questions about living alone or communes, which are household
 arrangements outside the family rather than family types.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-families-marriage-kinship--01-family-household.webp" width="900" height="697" alt="Overlapping circles for family and household inside a frame for kinship. A family split across two countries is a family but not a household; a student flat-share, living alone or a commune is a household but not a family." loading="lazy">
+  <figcaption>A family need not share a home, and a household need not be a family.</figcaption>
+</figure>
+
 ## Types of family
 
 **Nuclear family.** Two generations: parents (traditionally a married couple) and their dependent
@@ -74,6 +79,11 @@ before families were rehoused to new estates.
 of a partner or birth outside a couple. Most are headed by mothers in most societies, though the
 reasons for single parenthood, and how it is viewed, differ widely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-families-marriage-kinship--02-extended-families.webp" width="900" height="737" alt="Left: a vertically extended family of grandmother, son, daughter-in-law and grandchildren across three generations. Right: a horizontally extended family of two married brothers and their children sharing one compound." loading="lazy">
+  <figcaption>Vertical extension adds generations; horizontal extension adds same-generation kin.</figcaption>
+</figure>
+
 ## Alternatives to families
 
 | Alternative | What it involves | Sociological point |
@@ -84,6 +94,11 @@ reasons for single parenthood, and how it is viewed, differ widely.
 
 A useful evaluation point: alternatives often depend on family-like relationships. Kibbutz children
 still knew and visited their parents; people living alone usually keep kin and friendship ties.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-families-marriage-kinship--03-alternatives.webp" width="900" height="605" alt="Communes, living alone and foster care or children’s homes compared by what each involves and its sociological point, such as the kibbutz challenge to Murdock and Klinenberg’s Going Solo." loading="lazy">
+  <figcaption>Alternatives show child-rearing and living can be organised outside the family.</figcaption>
+</figure>
 
 ## Therborn's types of family system
 
@@ -104,6 +119,11 @@ fell almost everywhere. For exam purposes, Therborn is valuable because he:
   requires in selected extended answers;
 - warns against treating the Western nuclear family as the "normal" end point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-families-marriage-kinship--04-therborn.webp" width="900" height="682" alt="Therborn compares family systems on patriarchy, marriage and fertility. He identifies five major systems and two interstitial ones, and finds patriarchy declining at different speeds, marriage diverging and fertility falling." loading="lazy">
+  <figcaption>Family systems change at different speeds, not towards one Western model.</figcaption>
+</figure>
+
 ## Matriarchal and patriarchal families
 
 A **patriarchal** family is one in which men, usually the eldest male, hold authority over decisions,
@@ -117,6 +137,11 @@ north-east India, where property traditionally passes to the youngest daughter, 
 West Sumatra, and the Mosuo of south-west China, whose "walking marriage" lets partners live apart in
 their maternal households. In several matrilineal societies, mothers' brothers still hold
 significant authority, which is a strong evaluation point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-families-marriage-kinship--05-patriarchal-matrilineal.webp" width="900" height="579" alt="Patriarchal families give men authority, with patrilineal descent and patrilocal residence. Most so-called matriarchal examples, such as the Khasi, Minangkabau and Mosuo, are matrilineal, and mothers’ brothers may still hold authority." loading="lazy">
+  <figcaption>Matrilineal descent does not mean women rule.</figcaption>
+</figure>
 
 ## Types of marriage
 
@@ -132,6 +157,11 @@ significant authority, which is a strong evaluation point.
 
 The specification notes that other types, such as polygamy, may be taught where appropriate to
 the local context; they are not directly assessed but are credited if used relevantly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-families-marriage-kinship--06-marriage-types.webp" width="900" height="621" alt="A scale from arranged marriage, where families lead the choice, through assisted marriage with the couple’s veto, to love marriage, where the couple choose. Forced marriage is shown apart as abuse. A note defines monogamy and serial monogamy." loading="lazy">
+  <figcaption>Arranged and love marriage differ in who chooses; forced marriage lacks consent.</figcaption>
+</figure>
 
 ## Worked example: an 8-mark answer
 

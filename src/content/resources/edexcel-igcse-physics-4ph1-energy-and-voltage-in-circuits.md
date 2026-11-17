@@ -72,6 +72,16 @@ V_supply = V_1 + V_2. In parallel, each coulomb passes through only one
 branch, and each branch connects directly across the supply, so the
 voltage across each parallel component is the same (2.18).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--01-charge-current-energy.webp" width="900" height="545" alt="A 6.0 V battery and a lamp in a loop. Conventional current runs from + to −, electrons drift the other way. Each coulomb gains 6.0 J in the battery and transfers it in the lamp. Side notes: Q = I × t, voltage is energy per unit charge, E = Q × V." loading="lazy">
+  <figcaption>Charge is not used up: each coulomb picks up energy at the supply and transfers it in the components.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--02-junction-and-voltage-rules.webp" width="900" height="545" alt="Left: 0.80 A enters a junction and splits into 0.30 A and 0.50 A. Middle: in series the supply voltage is shared, V supply = V₁ + V₂. Right: in parallel each branch has the full supply voltage." loading="lazy">
+  <figcaption>Current in equals current out at a junction; series shares the voltage, parallel branches each get all of it.</figcaption>
+</figure>
+
 ## Series and parallel: choosing (2.7)
 
 | Feature | Series | Parallel |
@@ -87,6 +97,11 @@ voltage, works at its correct brightness, can be switched on its own, and
 keeps working if another lamp fails. **Series** suits a switch or fuse,
 which must carry the same current as the device it controls, and some
 decorative strings of low-voltage lamps.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--03-series-vs-parallel-lighting.webp" width="900" height="565" alt="Left: three lamps in series with one broken; all go out. Right: three lamps in parallel, each with its own switch; one lamp is broken but the other two stay lit." loading="lazy">
+  <figcaption>In parallel each lamp gets the full voltage, has its own switch and keeps working if another fails.</figcaption>
+</figure>
 
 ## Current in a series circuit (2.8, 2.10)
 
@@ -120,6 +135,11 @@ energy from battery:   E = Q × V = 6.0 × 9.0 = 54 J
 larger resistor takes the larger share of the voltage. The voltages add
 up to the supply voltage, a quick check worth writing down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--04-series-worked-example.webp" width="900" height="500" alt="A 9.0 V battery with 120 Ω and 60 Ω resistors in series. Total 180 Ω gives 0.050 A, so the resistors have 6.0 V and 3.0 V across them. In 2.0 minutes 6.0 C flows and the battery transfers 54 J." loading="lazy">
+  <figcaption>Total resistance first, then current, then each voltage; check they add to the supply.</figcaption>
+</figure>
+
 ## I−V characteristics and how to investigate them (2.9)
 
 **Circuit.** Connect the component in series with an ammeter, a variable
@@ -148,6 +168,16 @@ in parallel across the component.
 
 Resistance at any point is R = V ÷ I, using the readings at that point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--05-iv-investigation-circuit.webp" width="900" height="550" alt="Circuit with a supply, an ammeter and a variable resistor in series with the component under test, and a voltmeter connected across the component. Steps: take at least six readings, reverse the component, and plot current against voltage." loading="lazy">
+  <figcaption>Vary the resistor, read V and I, reverse the component, and plot I against V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--06-iv-characteristics.webp" width="900" height="555" alt="Current against voltage for three components. A wire or resistor gives a straight line through the origin. A filament lamp gives a curve that flattens in both directions. A diode passes almost no current in reverse and a steeply rising current once a small forward voltage is exceeded." loading="lazy">
+  <figcaption>Straight line: constant resistance. Flattening curve: resistance rising. Diode: one direction only.</figcaption>
+</figure>
+
 ## LDRs and thermistors (2.11)
 
 An **LDR**'s resistance decreases as illumination increases. A
@@ -157,6 +187,11 @@ the thermistor makes the current rise, and the voltage across the fixed
 resistor rises while the voltage across the sensor falls. This is how
 these sensors are used in circuits that respond to light (outdoor lamps)
 or temperature (fire alarms, thermostats).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--07-ldr-thermistor-circuits.webp" width="900" height="615" alt="An LDR and, separately, a thermistor each in series with a fixed resistor, an ammeter and a battery. More light or a higher temperature lowers the sensor resistance, so the current and the voltage across the fixed resistor rise while the voltage across the sensor falls." loading="lazy">
+  <figcaption>More light or more warmth: lower sensor resistance, larger current.</figcaption>
+</figure>
 
 ## Lamps and LEDs as indicators (2.12)
 
@@ -177,6 +212,11 @@ at 6.0 V: R = 6.0 / 0.30 = 20 Ω
 The resistance doubles because the filament is hotter at the higher
 current. This is why V = I × R gives a different R at each point on the
 curve.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--08-lamp-resistance-two-points.webp" width="900" height="590" alt="A filament lamp I–V curve with two marked points: 2.0 V at 0.20 A gives 10 Ω, and 6.0 V at 0.30 A gives 20 Ω." loading="lazy">
+  <figcaption>On a curve, find R = V ÷ I at each point: here 10 Ω rises to 20 Ω.</figcaption>
+</figure>
 
 ## Common mistakes
 

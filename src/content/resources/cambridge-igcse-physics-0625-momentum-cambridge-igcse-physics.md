@@ -77,6 +77,11 @@ average force = Δp / Δt = 5.25 / 0.010 = 525 N   (about 530 N)
 
 Writing Δp = 0.15 × (20 − 15) = 0.75 kg m/s is the commonest error: it ignores the reversal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-momentum-cambridge-igcse-physics--01-ball-rebound-impulse.webp" width="900" height="616" alt="A 0.15 kg ball hits a wall at +20 m/s (momentum +3.0 kg m/s) and rebounds at −15 m/s (−2.25 kg m/s). The change in momentum is −5.25 kg m/s, an impulse of 5.25 N s away from the wall; over 0.010 s the average force is 525 N." loading="lazy">
+  <figcaption>A rebound reverses the velocity, so the change in momentum is the sum of the two sizes.</figcaption>
+</figure>
+
 ## Conservation of momentum
 
 **The principle:** when objects collide or push each other apart, the **total momentum before = total momentum after**, provided no external resultant force acts on them. The forces the objects exert on each other are equal and opposite and act for the same time, so the momentum one gains, the other loses.
@@ -117,6 +122,16 @@ after:  2.0 v + 4.0 × 2.0 = 2.0 v + 8.0
 
 Momentum is always conserved in these problems, but kinetic energy (section 1.7) usually is not: in example 2 the trolleys have 5.0 + 1.2 = 6.2 J of kinetic energy before and 0.32 J after; the rest is transferred mainly to the internal stores of the trolleys and surroundings, and some by sound.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-momentum-cambridge-igcse-physics--02-trolleys-stick-together.webp" width="900" height="746" alt="A 0.40 kg trolley moving right at 5.0 m/s meets a 0.60 kg trolley moving left at 2.0 m/s and they stick together. Total momentum before is 2.0 − 1.2 = 0.80 kg m/s, so afterwards the 1.00 kg pair moves at 0.80 m/s to the right. Kinetic energy falls from 6.2 J to 0.32 J." loading="lazy">
+  <figcaption>Total momentum before equals total momentum after; signs show direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-momentum-cambridge-igcse-physics--03-push-apart-and-bounce.webp" width="900" height="560" alt="Left: 60 kg and 40 kg skaters at rest push apart; the 40 kg skater moves at 1.5 m/s, so the 60 kg skater moves at 1.0 m/s the opposite way and the total stays zero. Right: a 2.0 kg trolley at 3.0 m/s hits a stationary 4.0 kg trolley, which moves off at 2.0 m/s; the 2.0 kg trolley bounces back at 1.0 m/s." loading="lazy">
+  <figcaption>Starting from rest, the momenta after are equal and opposite.</figcaption>
+</figure>
+
 ## Resultant force and rate of change of momentum
 
 **Resultant force is the change in momentum per unit time:**
@@ -149,6 +164,11 @@ stopped by an airbag,     Δt = 0.10 s:    F = 70 / 0.10  =  700 N
 | crash mat | soft surface increases stopping time |
 
 In each, the **change in momentum is the same**; only the time changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-momentum-cambridge-igcse-physics--04-airbag-force.webp" width="900" height="640" alt="A 5.0 kg head moving at 14 m/s has a change in momentum of 70 kg m/s when stopped. Against a hard dashboard in 0.010 s the force is 7000 N; with an airbag over 0.10 s it is 700 N. The bars are to scale. Longer stopping time, same change in momentum, smaller force." loading="lazy">
+  <figcaption>Same change in momentum over ten times the time: one tenth of the force.</figcaption>
+</figure>
 
 ## Common mistakes
 

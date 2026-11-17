@@ -42,6 +42,11 @@ The [Health Psychology study guide](/resources/a-level-psychology-health-psychol
 
 **Medical terminology.** Jargon can block understanding. McKinlay (1975) studied women on a maternity ward, comparing the medical terms staff used with them against the women's understanding of those terms. Understanding of many terms was poor, and staff used terms even when they did not expect patients to understand them. The practical message is that practitioners should check understanding and use plain language, but the sample was narrow, so it may not generalise to other patient groups.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship--01-communication.webp" width="900" height="645" alt="McKinstry and Wang (1991) found patients rating photographs generally preferred formally dressed doctors, especially older patients; ratings of photographs may not match real meetings. McKinlay (1975) found women on a maternity ward understood many medical terms poorly although staff still used them; the message is to use plain language, but the sample was narrow." loading="lazy">
+  <figcaption>Formal dress reassures; jargon blocks understanding.</figcaption>
+</figure>
+
 ## 3.1.2 Making and presenting a diagnosis
 
 **Disclosure.** The practitioner decides how much to tell the patient and when. Too little information can leave the patient anxious and unable to make choices; too much at once can overwhelm them.
@@ -58,6 +63,16 @@ A false negative can delay treatment, which is dangerous for serious illnesses. 
 **Presenting a diagnosis.** Delivering bad news well involves a private setting, checking what the patient already knows, giving information in manageable amounts, allowing time for questions and agreeing next steps.
 
 **Practitioner style.** A **doctor-centred (directed)** style has the doctor controlling the consultation, asking closed questions and giving clear instructions. A **patient-centred (sharing)** style invites the patient's views, uses open questions and reaches decisions together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship--02-presenting-diagnosis.webp" width="900" height="598" alt="Disclosure is a balance: too little information leaves the patient anxious and unable to choose, too much at once overwhelms them. Five steps for delivering bad news: a private setting, check what the patient knows, give manageable amounts, allow time for questions and agree next steps." loading="lazy">
+  <figcaption>Tell enough, in manageable amounts, then agree what happens next.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--16-he-false-positive-negative.webp" width="900" height="800" alt="A two by two grid: ill and told ill is correct; ill but told not ill is a false negative (illness missed, treatment delayed); well but told ill is a false positive (unneeded worry and treatment); well and told not ill is correct." loading="lazy">
+  <figcaption>False positive and false negative diagnoses.</figcaption>
+</figure>
 
 ## Key study: Savage and Armstrong (1990)
 
@@ -84,6 +99,11 @@ A false negative can delay treatment, which is dangerous for serious illnesses. 
 - *Cultural differences*: preferences for authority in medicine vary between cultures.
 - *Determinism versus free will*: random allocation meant patients did not choose their style, which raises an ethical point but was necessary for control.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship--03-savage-armstrong.webp" width="900" height="869" alt="Directing (doctor-centred) and sharing (patient-centred) styles are defined. Study card: 359 patients of one inner London GP were randomly allocated to a style; satisfaction was measured immediately (89 percent returned) and a week later (58 percent). Directing gave higher satisfaction on almost all measures, especially for physical problems and prescriptions." loading="lazy">
+  <figcaption>Patients were more satisfied with the directing style, especially for physical problems.</figcaption>
+</figure>
+
 ## 3.1.3 Misusing health services
 
 **Delay in seeking treatment.** Safer et al. (1979) interviewed patients waiting at clinics about the time between noticing a symptom and attending. They divided delay into stages:
@@ -106,11 +126,31 @@ Interviews gave detailed, qualitative reasons, but they rely on accurate memory 
 
 **Diagnostic features of Munchausen syndrome.** *Essential features*: repeated feigned or self-induced illness, pathological lying, and moving from hospital to hospital. *Supporting features*: extensive medical knowledge, many scars from previous procedures, aggressive or evasive behaviour when challenged, discharging oneself against advice, and few visitors. The name was given by Asher (1951). Aleem and Ajarim (1995) is the syllabus example of a case report. Case studies give rich detail about a rare condition but cannot be generalised, and they rely on records that the patient may have falsified.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship--04-safer-delay-stages.webp" width="900" height="516" alt="A timeline from noticing a symptom to attending, split into appraisal delay (deciding the symptom means illness), illness delay (deciding to seek care) and utilisation delay (actually attending). Interviews gave detailed reasons but rely on memory." loading="lazy">
+  <figcaption>Delay builds up in three stages before a patient attends.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship--05-munchausen-malingering.webp" width="900" height="746" alt="A table compares Munchausen syndrome (feigning or inducing illness for attention and the sick role, motive internal) with malingering (faking or exaggerating for an external reward, deliberate). Essential features of Munchausen syndrome are repeated feigned illness, pathological lying and moving between hospitals; supporting features include medical knowledge, scars, evasiveness, self-discharge and few visitors." loading="lazy">
+  <figcaption>Same behaviour, different motive: the sick role or an external reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--15-he-health-belief-model.webp" width="900" height="1040" alt="Perceived susceptibility, perceived severity and cues to action feed a weighing-up of perceived benefits against perceived barriers. Benefits outweighing barriers leads to action; barriers outweighing benefits leads to no action." loading="lazy">
+  <figcaption>The health belief model as a balance of benefits and barriers.</figcaption>
+</figure>
+
 ## Worked example: a 4-mark application
 
 *Mr Hassan has had a cough for two months but has not seen a doctor. He says he is busy at work and thinks it is "just a cold". Using the health belief model, explain his delay.* [4]
 
 "The health belief model says action depends on perceived threat and on benefits weighed against barriers (1). Mr Hassan sees the cough as 'just a cold', so perceived severity is low (1). Being busy at work is a perceived barrier that outweighs the benefits of attending (1). He has had no cue to action, such as the cough worsening, so he does not seek help (1)."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship--06-hbm-application.webp" width="900" height="530" alt="Four rows, one mark each: state the model, then apply low perceived severity (just a cold), a barrier (busy at work) outweighing benefits, and the lack of a cue to action to explain why Mr Hassan delays seeing a doctor." loading="lazy">
+  <figcaption>One mark for the model, then one for each part applied to Mr Hassan.</figcaption>
+</figure>
 
 ## Common mistakes
 

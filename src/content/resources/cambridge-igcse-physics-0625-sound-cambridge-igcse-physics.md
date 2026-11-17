@@ -48,11 +48,26 @@ Every sound comes from something **vibrating**: a guitar string, the cone of a l
 
 **Extended only: speed in different materials.** In general sound travels fastest in **solids**, more slowly in **liquids** and most slowly in **gases**. In a solid the particles are close together and strongly linked, so each vibration is passed on quickly. Typical values to use when a question gives them: about 340 m/s in air, about 1500 m/s in water and several thousand metres per second in steel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--01-compressions-rarefactions.webp" width="900" height="600" alt="A vibrating loudspeaker cone sends a series of compressions (particles close together, higher pressure) and rarefactions (particles spread out, lower pressure) through the air. The particles vibrate back and forth along the direction of travel. The wavelength is from the centre of one compression to the centre of the next." loading="lazy">
+  <figcaption>Compressions and rarefactions travel; the particles only vibrate in place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--02-bell-in-a-vacuum.webp" width="900" height="620" alt="An electric bell rings inside a sealed glass jar. With air in the jar it is heard; as a vacuum pump removes the air the sound fades until it can hardly be heard, although the hammer can still be seen striking the bell." loading="lazy">
+  <figcaption>Sound is passed on by particles, so it cannot cross a vacuum.</figcaption>
+</figure>
+
 ## The audible range and ultrasound
 
 Humans can hear frequencies from about **20 Hz to 20 000 Hz** (20 kHz). Sound with a frequency **above 20 kHz** is **ultrasound**: it is still sound (a longitudinal mechanical wave), just too high-pitched for humans to hear.
 
 You can use v = fλ from section 3.1 with sound. With v = 340 m/s, a 20 Hz sound has λ = 340 / 20 = 17 m, and a 20 000 Hz sound has λ = 340 / 20 000 = 0.017 m (1.7 cm).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--03-audible-range.webp" width="900" height="532" alt="A frequency scale: humans hear from about 20 Hz to 20 000 Hz, and sound above 20 kHz is ultrasound. With a speed of 340 m/s, a 20 Hz sound has a wavelength of 17 m and a 20 000 Hz sound 0.017 m." loading="lazy">
+  <figcaption>Humans hear 20 Hz to 20 kHz; ultrasound is above 20 kHz.</figcaption>
+</figure>
 
 ## Loudness and pitch
 
@@ -64,6 +79,11 @@ You can use v = fλ from section 3.1 with sound. With v = 340 m/s, a 20 Hz sound
 | Lower frequency | Lower pitch | Fewer, more widely spaced waves |
 
 Amplitude and frequency are independent: a sound can be loud and low, or quiet and high. When comparing two traces drawn on the same scales, compare peak height for loudness and the number of complete waves for pitch. Plucking a guitar string harder increases the amplitude (louder) but not the frequency; shortening or tightening the string increases the frequency (higher pitch).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--04-loudness-and-pitch.webp" width="900" height="600" alt="Four traces on the same scales. Compared with the original, a louder sound has taller peaks with the same spacing; a higher-pitched sound has more waves across the same width with the same height; a louder, higher sound has both." loading="lazy">
+  <figcaption>Amplitude sets loudness; frequency sets pitch.</figcaption>
+</figure>
 
 ## Measuring the speed of sound in air
 
@@ -85,6 +105,11 @@ speed = 170 / 0.51 = 333 m/s   (330 m/s to 2 s.f.)
 
 The answer lies in the expected range of 330–350 m/s, which is a useful check. Forgetting the factor of 2 gives 167 m/s, which should immediately look wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--05-echo-speed-of-sound.webp" width="900" height="676" alt="A student 85 m from a wall claps; the sound travels 85 m to the wall and 85 m back. Timing 20 intervals between claps that coincide with echoes gives 10.2 s, so each interval is 0.51 s and the speed is 170 / 0.51 = 333 m/s." loading="lazy">
+  <figcaption>An echo travels there and back: double the distance.</figcaption>
+</figure>
+
 ## Uses of ultrasound (Extended only)
 
 All three uses work the same way: a short pulse of ultrasound is sent out, part of it reflects from a boundary, and the time for the echo to return is measured. Then:
@@ -105,6 +130,11 @@ flaw depth = (6000 × 4.0 × 10⁻⁵) / 2 = 0.12 m from the end
 ```
 
 Ultrasound is used for these tasks because its short wavelength gives detailed reflections and, in medicine, because it is not ionising.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--06-ultrasound-flaw.webp" width="900" height="792" alt="An ultrasound probe on one end of a 0.30 m steel section receives an echo from the far end after 1.0 × 10⁻⁴ s and a smaller, earlier echo after 4.0 × 10⁻⁵ s. The speed is 2 × 0.30 / 1.0 × 10⁻⁴ = 6000 m/s, so the flaw is 6000 × 4.0 × 10⁻⁵ / 2 = 0.12 m from the end." loading="lazy">
+  <figcaption>distance = speed × time ÷ 2; an earlier, extra echo means a flaw.</figcaption>
+</figure>
 
 ## Common mistakes
 

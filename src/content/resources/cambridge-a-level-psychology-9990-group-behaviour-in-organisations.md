@@ -50,6 +50,11 @@ Tuckman proposed that groups pass through stages; adjourning was added later wit
 
 *Evaluation*: a useful description, but groups do not always pass through stages in order; some return to storming when membership changes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--01-tuckman-stages.webp" width="900" height="537" alt="Five stages in sequence: forming, storming, norming, performing and adjourning, each with what happens. A dashed arrow shows that groups may return from performing to storming when membership changes. A project-team example runs along the bottom." loading="lazy">
+  <figcaption>Groups form, storm, norm, perform and adjourn, but not always in order.</figcaption>
+</figure>
+
 ## Belbin's nine team roles
 
 Belbin observed management teams and found that balanced teams, covering a range of roles, performed better than teams of similarly able individuals.
@@ -67,6 +72,11 @@ Belbin observed management teams and found that balanced teams, covering a range
 | Action | Completer finisher | Checks details and deadlines |
 
 *Evaluation*: widely used in team building; roles are measured by self-report, and people may play different roles in different teams.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--02-belbin-roles.webp" width="900" height="504" alt="Belbin's nine roles in three groups: thinking (plant, monitor evaluator, specialist), people (co-ordinator, teamworker, resource investigator) and action (shaper, implementer, completer finisher), each with its contribution. A strength and weaknesses follow." loading="lazy">
+  <figcaption>A balanced team covers thinking, people and action roles.</figcaption>
+</figure>
 
 ## Faulty decision-making
 
@@ -91,6 +101,11 @@ Belbin observed management teams and found that balanced teams, covering a range
 
 Strategies include using structured decision procedures and checking that all relevant information has been shared.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--03-groupthink.webp" width="900" height="652" alt="Eight features of groupthink, each with a workplace example, from illusion of invulnerability to mindguards. An arrow leads to five strategies: an impartial leader who speaks last, a devil's advocate, outside experts, subgroups and a second-chance meeting." loading="lazy">
+  <figcaption>Eight warning signs of groupthink, and five ways to break it.</figcaption>
+</figure>
+
 ## 4.3.2 Social facilitation and social loafing
 
 **Social facilitation** is improved performance on simple or well-learned tasks in the presence of others, with worse performance on complex or new tasks. **Drive theory** (Zajonc) explains this: others raise arousal, which increases the likelihood of the **dominant response**; on easy tasks this is correct, on hard tasks it is often wrong. **Evaluation apprehension** (Cottrell) argues it is concern about being judged, not mere presence, that raises arousal.
@@ -98,6 +113,16 @@ Strategies include using structured decision procedures and checking that all re
 **Social loafing** is reduced individual effort when working collectively, especially when individual contributions cannot be identified. **Social impact theory** (Latané) proposes that the influence of others depends on their **strength** (status or importance), **immediacy** (closeness) and **number**. When an instruction is directed at a group, its impact is divided among members, so each feels less responsible.
 
 **Loafing across cultures.** Earley (1993) compared managers from the USA (individualist) with managers from China and Israel (collectivist). American managers performed best working alone. Chinese and Israeli managers performed best when working with an in-group and loafed when working with an out-group. So loafing is not universal; it depends on cultural values and who the group is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--04-drive-theory.webp" width="900" height="763" alt="A flow from the presence of others to raised arousal to a more likely dominant response. On simple or well-learned tasks the dominant response is correct and performance improves; on complex or new tasks it is often wrong and performance worsens. A note gives Cottrell's evaluation apprehension alternative." loading="lazy">
+  <figcaption>Others raise arousal: good for easy tasks, bad for hard ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--05-social-loafing.webp" width="900" height="661" alt="The three factors of social impact theory (strength, immediacy, number), and a picture of an instruction's impact divided among one, three and ten people. A table of Earley (1993) shows American managers performing best alone, while Chinese and Israeli managers performed best with an in-group and loafed with an out-group." loading="lazy">
+  <figcaption>Impact is divided among the group; culture changes who loafs.</figcaption>
+</figure>
 
 ## Key study: Claypoole and Szalma (2019), experiment 1
 
@@ -107,6 +132,11 @@ Strategies include using structured decision procedures and checking that all re
 - *Measures*: performance on the vigilance task, such as correct detections of critical signals.
 - *Findings*: being monitored, including electronically, affected vigilance performance compared with working unmonitored, which the authors interpreted as social facilitation operating through monitoring as well as physical presence.
 - *Evaluation*: laboratory control allows causal conclusions; a vigilance task resembles some monitoring jobs, such as security screening, but a single laboratory session is not a full working day, and participants were not employees whose jobs depended on the data. There are ethical questions about monitoring workers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--06-claypoole-szalma.webp" width="900" height="763" alt="Study card for Claypoole and Szalma (2019), experiment 1: aim, vigilance task and measure; conditions such as working alone, with an observer or under electronic monitoring; the finding that monitoring affected vigilance compared with working unmonitored; strengths and weaknesses." loading="lazy">
+  <figcaption>Being watched electronically can act like being watched in person.</figcaption>
+</figure>
 
 ## 4.3.3 Conflict at work
 
@@ -125,6 +155,16 @@ Strategies include using structured decision procedures and checking that all re
 | Accommodating | Low | High | Preserving a relationship |
 
 **Bullying at work.** Einarsen (1999) described bullying as repeated negative acts over time against someone who finds it hard to defend themselves. He distinguished **work-related** bullying (such as unreasonable deadlines or withholding information) from **person-related** bullying (such as insults or spreading rumours), and **predatory** bullying (the target is singled out without having done anything to provoke it) from **dispute-related** bullying (arising from an escalating conflict). He described bullying as developing through phases, from aggressive behaviour, to bullying, to stigmatisation of the target, to severe trauma. Causes include the bully's personality, the target's position and organisational factors such as poor leadership and high stress.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--07-thomas-kilmann.webp" width="900" height="712" alt="A grid with cooperativeness across and assertiveness up. Competing is high assertive, low cooperative; collaborating is high on both; compromising sits in the middle; avoiding is low on both; accommodating is low assertive, high cooperative. Each mode lists when it is useful." loading="lazy">
+  <figcaption>Five modes set by how assertive and how cooperative you are.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--08-bullying.webp" width="900" height="610" alt="Four types of bullying in two pairs: work-related and person-related, predatory and dispute-related, with examples. Four phases follow in sequence: aggressive behaviour, bullying, stigmatisation of the target and severe trauma. A note lists causes." loading="lazy">
+  <figcaption>Bullying escalates from aggressive acts to severe trauma.</figcaption>
+</figure>
 
 ## Annotated answer: a 4-mark application
 

@@ -32,6 +32,11 @@ The [Unit 3 People and development study guide](/resources/oxfordaqa-a-level-soc
 
 For every actor, ask three questions: **what resources does it have** (money, law, votes, people, knowledge), **whose interests does it serve**, and **who holds it to account**? Answers that use these questions analyse power rather than list organisations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-who-is-involved-in-globalisation--01-three-questions.webp" width="900" height="491" alt="Three questions to ask of every actor in globalisation: what resources it has (money, law, votes, people, knowledge), whose interests it serves and who holds it to account." loading="lazy">
+  <figcaption>Ask about resources, interests and accountability, not just names.</figcaption>
+</figure>
+
 ## Nation states
 
 **More developed states.** Rich states write many of the rules of the global economy. Voting power in the International Monetary Fund and the World Bank is weighted by each member's financial contribution, so the largest economies have the most influence. Rich states also set trade policy through bodies such as the World Trade Organization and through regional blocs, and they provide most aid. Ha-Joon Chang (*Kicking Away the Ladder*, 2002) argued that today's rich countries protected their own industries with tariffs while they industrialised, then pressed poorer countries to open their markets, denying them the same route.
@@ -41,6 +46,11 @@ For every actor, ask three questions: **what resources does it have** (money, la
 - **The developmental state**: governments such as South Korea and Taiwan from the 1960s directed banks, protected new industries and set export targets. This shows less developed states can shape globalisation rather than simply receive it.
 
 **Is the state declining?** Kenichi Ohmae (*The End of the Nation State*, 1995) argued that regional economies and global markets were replacing states. Susan Strange (*The Retreat of the State*, 1996) argued that power had shifted from states to markets and corporations. Against both, states still control borders, armies, taxes and citizenship, and states such as China have used globalisation to increase their power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-who-is-involved-in-globalisation--02-states.webp" width="900" height="588" alt="More developed states write global rules and, Chang argues, kicked away the ladder; less developed states either compete for investment or act as developmental states like South Korea and Taiwan. A note weighs Ohmae and Strange against continuing state power." loading="lazy">
+  <figcaption>States still shape globalisation, though unequally.</figcaption>
+</figure>
 
 ## Transnational corporations (TNCs)
 
@@ -52,6 +62,11 @@ TNCs are firms that operate production or sales in more than one country. Their 
 Two cases show what is at stake. The **Bhopal** disaster in India (1984), a gas leak at a Union Carbide pesticide plant, killed thousands of people and raised questions about whether TNCs apply lower safety standards abroad. The **Rana Plaza** collapse in Bangladesh (2013), a building housing garment factories that supplied Western brands, killed more than 1,100 workers. It led to the Accord on Fire and Building Safety, signed by many brands and trade unions, which supporters cite as evidence that global pressure can change TNC behaviour.
 
 Leslie Sklair (*Globalization: Capitalism and its Alternatives*, 2002) argued that a **transnational capitalist class** of corporate executives, globalising politicians and professionals, and consumerist media elites now pursues shared interests across borders. This is a Marxist reading: TNCs are not just firms but part of a global ruling class.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-who-is-involved-in-globalisation--03-tncs.webp" width="900" height="579" alt="Benefits of TNCs (investment, jobs, technology, markets, tax) set against costs (profits flowing out, footloose production, blurred responsibility), with Bhopal, Rana Plaza and Sklair’s transnational capitalist class." loading="lazy">
+  <figcaption>TNC power is real but can be contested, as the Rana Plaza accord shows.</figcaption>
+</figure>
 
 ## Transnational and UN agencies
 
@@ -66,6 +81,11 @@ Leslie Sklair (*Globalization: Capitalism and its Alternatives*, 2002) argued th
 - The **Millennium Development Goals** (2000 to 2015) were followed by the **Sustainable Development Goals** (2015 to 2030).
 
 Evaluation: UN agencies depend on voluntary funding and cannot enforce most of their targets, while the IMF and World Bank have real leverage over borrowing countries. This is why many sociologists see the lending bodies as more powerful actors in globalisation than the UN agencies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-who-is-involved-in-globalisation--04-agencies.webp" width="900" height="702" alt="A grid contrasting the IMF, World Bank and WTO, which use loan conditions and trade rules, with UN agencies such as UNDP, WHO, UNICEF, UNHCR and the ILO, which set norms and deliver services but cannot enforce most targets." loading="lazy">
+  <figcaption>Lenders have leverage; UN agencies mostly set norms.</figcaption>
+</figure>
 
 ## Non-governmental organisations (NGOs)
 
@@ -84,6 +104,11 @@ Grassroots movements organise from below, often against states or corporations.
 
 These cases show that globalisation from below uses the same tools as globalisation from above: international networks, media attention and appeals to global rights.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-who-is-involved-in-globalisation--05-from-below.webp" width="900" height="557" alt="NGOs with their strengths and weaknesses, grassroots movements such as the Zapatistas, La Via Campesina and Narmada Bachao Andolan, and indigenous peoples with free, prior and informed consent and Standing Rock." loading="lazy">
+  <figcaption>Movements from below use the same global tools as those above.</figcaption>
+</figure>
+
 ## Indigenous peoples
 
 Indigenous peoples are often affected first by mining, logging, dams and pipelines on their land. The UN Declaration on the Rights of Indigenous Peoples (2007) sets out the principle of **free, prior and informed consent** before projects affect their land. The protests at Standing Rock in the United States (2016) against the Dakota Access Pipeline showed indigenous groups forming global alliances. Indigenous peoples are also actors in their own right, for example by promoting traditional ecological knowledge in climate negotiations.
@@ -95,6 +120,11 @@ Distinguish the **types** before you evaluate: bilateral (government to governme
 - **For aid**: modernisation theory sees aid as providing the investment needed for take-off; Sachs's "big push" argument; humanitarian aid saves lives in disasters; health aid has supported vaccination and disease control.
 - **Against aid (right-leaning)**: Moyo argues aid breeds dependency and corruption; William Easterly (*The White Man's Burden*, 2006) contrasts top-down "planners" with "searchers" who find what works locally.
 - **Against aid (left-leaning)**: Teresa Hayter (*Aid as Imperialism*, 1971) argued that aid serves donors' political and economic interests. Tied aid and loan conditions support this dependency reading.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-who-is-involved-in-globalisation--06-aid.webp" width="900" height="536" alt="Four distinctions between types of aid, including tied aid, and the 0.7% target, then arguments for aid (modernisation, Sachs, humanitarian and health aid) and against from the right (Moyo, Easterly) and the left (Hayter)." loading="lazy">
+  <figcaption>Distinguish the type of aid before judging whether it helps.</figcaption>
+</figure>
 
 ## Annotated model answer
 

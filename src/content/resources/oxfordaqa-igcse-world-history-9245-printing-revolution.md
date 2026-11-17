@@ -33,6 +33,11 @@ featured: false
 
 **Europe before printing.** Books were copied by hand, by monks in monasteries and later by professional scribes in university towns. A single book could take months to copy, so books were rare and expensive, and errors crept in with each copy. Paper, which had spread from China through the Islamic world, was replacing parchment by the fourteenth century, making cheaper books possible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--01-printing-before-gutenberg.webp" width="900" height="605" alt="Timeline: woodblock printing and the Diamond Sutra in China (868), Bi Sheng's clay movable type (1040s), Korean metal type and the Jikji (1377), paper replacing parchment in Europe by the fourteenth century, and Gutenberg's press in the 1440s-50s." loading="lazy">
+  <figcaption>Printing existed in China and Korea centuries before Gutenberg.</figcaption>
+</figure>
+
 ## Gutenberg and the printing press
 
 **Johannes Gutenberg** of Mainz developed a printing system in the 1440s and 1450s that combined several technologies:
@@ -44,6 +49,11 @@ featured: false
 
 His most famous work, the **Gutenberg Bible**, was completed around 1455. Gutenberg borrowed heavily to finance his workshop, and in 1455 a lawsuit by his backer Johann Fust cost him much of his equipment: a reminder that printing was a business as well as an invention.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--02-gutenberg-system.webp" width="900" height="616" alt="Four technologies feed into Gutenberg's printing system: metal type cast in a hand mould, a screw press adapted from wine and oil presses, oil-based ink and widely available paper. A note records the 1455 lawsuit by his backer Johann Fust." loading="lazy">
+  <figcaption>Gutenberg's achievement was to combine existing technologies into one system.</figcaption>
+</figure>
+
 ## The economies of book production
 
 Printing changed the costs of making books:
@@ -53,15 +63,30 @@ Printing changed the costs of making books:
 - **Risk:** printers had to judge what would sell; many went bankrupt.
 - **Investors and markets:** printers relied on merchants for finance and on fairs, such as Frankfurt's, to sell books across Europe.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--03-book-economics.webp" width="900" height="593" alt="Illustrative graph: the cost per copy of a hand-copied manuscript stays high, while the cost per printed copy falls steeply as high start-up costs are spread over more copies. Below, the risk of bankruptcy and the role of investors and book fairs." loading="lazy">
+  <figcaption>High start-up costs, but each extra printed copy was cheap.</figcaption>
+</figure>
+
 ## The printing industry, typefaces and layouts
 
 Printing spread rapidly: by 1500 presses were working in more than two hundred European towns. **Venice** became a major centre, where **Aldus Manutius** printed small, portable editions of classical texts and introduced **italic** type in 1501. **William Caxton** set up the first press in England at Westminster in 1476 and printed works such as Chaucer's *Canterbury Tales*.
 
 Early books imitated manuscripts, using heavy **Gothic (blackletter)** type. **Roman** type, based on humanist handwriting, spread from Italy and became standard in much of Europe. Printers gradually developed **title pages**, page numbers, chapter headings, indexes and printed illustrations from woodcuts and later engravings, making books easier to use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--04-printing-revolution-timeline.webp" width="900" height="876" alt="Compact timeline of seventeen dated events from the Gutenberg Bible around 1455 to the Encyclopédie of 1751-72, colour-coded by theme: industry and spread, Renaissance and Reformation, science and learning, and law, news and politics." loading="lazy">
+  <figcaption>Within a century printing spread across Europe and reshaped religion, science and law.</figcaption>
+</figure>
+
 ## New professions and opportunities, including for women
 
 Printing created new jobs: **typefounders**, compositors who set type, pressmen, proofreaders, illustrators, engravers, bookbinders, booksellers and publishers. Printing workshops were often family businesses, and when a printer died his **widow** often took over: in sixteenth-century Paris, Charlotte Guillard ran a leading press for many years. Women also worked as compositors, binders and sellers, and printing gave some women writers a wider audience.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--05-new-professions.webp" width="900" height="480" alt="The new trades of printing in order: typefounder, compositor, pressman, proofreader, then illustrator or engraver, bookbinder and bookseller or publisher. A note describes women's opportunities, such as Charlotte Guillard running a Paris press." loading="lazy">
+  <figcaption>Printing created a chain of new trades, and opened some of them to women.</figcaption>
+</figure>
 
 ## Vernacular languages, copyright and intellectual property
 
@@ -69,11 +94,21 @@ Most early printed books were in **Latin**, the language of the Church and unive
 
 Because anyone could reprint a successful book, printers sought **privileges** from rulers, giving them the sole right to print a work for a period; Venice granted many. In England the **Stationers' Company** received a royal charter in 1557, controlling printing and registering titles. The **Statute of Anne** (1710) is often seen as the first copyright law, giving rights to authors for a fixed term: the beginning of the idea of **intellectual property**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--06-towards-copyright.webp" width="900" height="562" alt="Chain from printers' privileges granted by rulers, to the Stationers' Company charter of 1557, to the Statute of Anne in 1710, which gave rights to authors for a fixed term. Below, printing in vernacular languages and the standardising of spelling and grammar." loading="lazy">
+  <figcaption>Rights moved from printers to authors: the start of intellectual property.</figcaption>
+</figure>
+
 ## The Renaissance and the Reformation
 
 **Renaissance.** Printing spread classical and humanist texts quickly and in accurate editions; scholars across Europe could read and compare the same books. **Erasmus** published his Greek New Testament in 1516, encouraging scholars to study the Bible in its original language.
 
 **Reformation.** When Luther published his criticisms of the Church in 1517, printers produced copies of his writings in huge numbers. Pamphlets with woodcut pictures carried Protestant ideas to people who could barely read, and the Bible in the vernacular let people read scripture for themselves. The Catholic Church responded with its own printing and with censorship, including the **Index of Prohibited Books** (1559).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--07-printing-and-reformation.webp" width="900" height="639" alt="Four steps: Luther's 1517 criticisms printed in huge numbers, woodcut pamphlets for people who could barely read, the vernacular Bible, and the Catholic response including the Index of 1559. A note on the Renaissance and Erasmus's Greek New Testament of 1516." loading="lazy">
+  <figcaption>Printing let Reformation ideas spread faster than they could be suppressed.</figcaption>
+</figure>
 
 ## Literacy, society and politics
 
@@ -86,6 +121,11 @@ Printed books made libraries larger and more widespread. The **Bodleian Library*
 ## Printing and global scientific progress
 
 Printing allowed **identical copies** of texts, diagrams and tables to be shared, so errors could be spotted and corrected and scientists could build on each other's work. In 1543 **Copernicus** published his theory that the Earth moves around the Sun, and **Vesalius** published *On the Fabric of the Human Body* with detailed printed illustrations. In 1665 the Royal Society began publishing *Philosophical Transactions*, among the first scientific journals, and Newton's *Principia* followed in 1687. Printing also spread beyond Europe: presses were set up in Mexico City in the sixteenth century, and Ibrahim Müteferrika opened the first Ottoman Turkish press in Istanbul in the 1720s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--08-printing-and-science.webp" width="900" height="566" alt="Chain: printing made identical copies, so errors could be spotted and scientists could build on each other's work. A table gives examples: Vesalius and Copernicus in 1543, Philosophical Transactions from 1665, Newton's Principia in 1687, and presses in Mexico City and Istanbul." loading="lazy">
+  <figcaption>Identical copies let scientists check and build on each other's work.</figcaption>
+</figure>
 
 ## Worked example: a 9-mark answer
 

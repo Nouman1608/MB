@@ -60,6 +60,11 @@ The function depends on **meritocracy**: rewards based on ability and effort, no
 
 *Marxist view:* the "shared" values are those of the ruling class, so cohesion means accepting inequality. *Feminist view:* a shared culture has often reflected men's interests, for example in which historical figures are taught.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-roles-and-functions-of-education--01-three-functions.webp" width="900" height="626" alt="A grid of the three functions. Serving the economy works through skills and role allocation; social mobility through qualifications and meritocracy; social cohesion through shared norms and values. Rows give an example of each, then the Marxist and feminist judgement, such as the myth of meritocracy and the glass ceiling." loading="lazy">
+  <figcaption>For each function, show how it works and how each perspective judges it.</figcaption>
+</figure>
+
 ## Durkheim on education
 
 Émile Durkheim (*Moral Education*, 1925) saw the major function of education as the **transmission of society's norms and values**. Build an answer from five ideas.
@@ -71,6 +76,11 @@ The function depends on **meritocracy**: rewards based on ability and effort, no
 5. **Society in miniature.** Durkheim described the school as a small version of society, in which children practise living by impersonal rules. He also argued that complex industrial societies need people with specialist skills, which schools provide.
 
 **Evaluation.** Marxists argue the norms passed on are ruling-class norms. In diverse societies it is harder to say which values are "shared". Pupils may reject school values, as Willis's lads did.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-roles-and-functions-of-education--02-durkheim.webp" width="900" height="603" alt="Five cards set out Durkheim’s ideas: education welds individuals into a united whole, history links individuals to society, school teaches cooperation with non-kin, strict rules teach self-discipline, and the school is a society in miniature. A sixth card gives evaluation: ruling-class norms, diverse societies, and pupils such as Willis’s lads rejecting school values." loading="lazy">
+  <figcaption>For Durkheim, school turns a mass of individuals into a united whole.</figcaption>
+</figure>
 
 ## Parsons on education
 
@@ -86,6 +96,16 @@ Talcott Parsons ("The school class as a social system", 1961) also wrote from a 
 
 **Durkheim and Parsons compared.** Both are functionalists who see school as passing on shared values. Durkheim emphasises **cohesion and moral discipline**; Parsons emphasises **meritocracy, achieved status and selection**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-roles-and-functions-of-education--03-durkheim-parsons.webp" width="900" height="543" alt="Two panels. Durkheim emphasises cohesion, moral discipline and the school as society in miniature. Parsons emphasises meritocracy, achieved status, selection and the school as a bridge to universalistic standards. Below, two criticisms quoted in the specification." loading="lazy">
+  <figcaption>Cohesion and discipline: Durkheim. Meritocracy and universalistic standards: Parsons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--02-parsons-bridge.webp" width="900" height="917" alt="A bridge labelled school joins the family on one side to wider society on the other. In the family children are judged by particularistic standards; in society everyone is judged by universalistic standards. School is meritocratic, builds a value consensus and selects people for future roles." loading="lazy">
+  <figcaption>School moves children from particularistic family rules to the universalistic rules of society.</figcaption>
+</figure>
+
 ## Types of school
 
 | Type | Description | Sociological issue |
@@ -98,6 +118,11 @@ Talcott Parsons ("The school class as a social system", 1961) also wrote from a 
 | Grammar schools | Selective state schools that admit pupils by an entrance test | Whether selection helps mobility or favours better-off families |
 | Private (independent, fee-paying) | Funded mainly by fees; not required to follow the National Curriculum; the oldest and most famous are often called "public schools" | Marxists see them as reproducing elite advantage through resources, cultural capital and social networks |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-roles-and-functions-of-education--04-types-of-school.webp" width="900" height="793" alt="Primary schools take ages 4 or 5 to 11 and secondary schools 11 to 16 or 18. State-funded schools are free and include community schools, academies and free schools, selective grammar schools and faith schools. Private schools are fee-paying and need not follow the National Curriculum; Marxists say they reproduce elite advantage." loading="lazy">
+  <figcaption>Sort schools by age, then by who funds and controls them.</figcaption>
+</figure>
+
 ## Alternative forms of educational provision
 
 **Home schooling.** In England, parents must make sure their child receives a suitable, efficient full-time education, "either by regular attendance at school or otherwise", so educating a child at home is legal. Parents may choose it because of bullying, special educational needs, religious or philosophical beliefs, or dissatisfaction with local schools. Sociological questions include whether home-schooled children miss out on secondary socialisation with peers, and how far the state can check what they learn. Home schooling also depends on parents' time, money and education, which links it to class.
@@ -105,6 +130,11 @@ Talcott Parsons ("The school class as a social system", 1961) also wrote from a 
 **De-schooling.** Ivan Illich, in *Deschooling Society* (1971), argued that schools should be replaced rather than reformed. He claimed schools teach pupils to confuse being taught with learning, and to depend on institutions to meet their needs. He proposed **learning webs**: networks through which people could share skills and resources and learn what they chose. De-schooling is a **critique of the institution of school**, not just a different place to learn.
 
 **The key difference:** home schooling moves education out of school but keeps a planned education; de-schooling rejects formal schooling itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-roles-and-functions-of-education--05-home-de-schooling.webp" width="900" height="623" alt="Two panels. Home schooling is legal in England and keeps a planned education outside school, chosen for reasons such as bullying or beliefs, and depends on parents’ resources. De-schooling, from Illich, rejects schools, which he said teach pupils to confuse being taught with learning, and proposes learning webs." loading="lazy">
+  <figcaption>Home schooling moves education out of school; de-schooling rejects school itself.</figcaption>
+</figure>
 
 ## Worked example: 4 marks
 

@@ -61,6 +61,11 @@ wavelengths, so its light shifts from the red end of the spectrum
 towards the blue end. Colour is therefore a property of the star's
 surface, not of its distance or its size.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-stellar-evolution--01-colour-temperature.webp" width="900" height="700" alt="Five stars from coolest to hottest: red at about 3000 K, orange, yellow (the Sun, about 5800 K), white, and blue above 10 000 K. Hotter objects emit more radiation at shorter wavelengths, so their light shifts from red towards blue." loading="lazy">
+  <figcaption>Red stars are coolest and blue stars hottest; the Sun is yellow.</figcaption>
+</figure>
+
 ## A star like the Sun (8.9)
 
 The specification names four stages. Each change has a cause you should
@@ -70,6 +75,16 @@ be able to give.
 2. **Star (main sequence).** When the core is hot and dense enough, hydrogen nuclei fuse to form helium, releasing energy. The star is **stable** for a very long time because the inward pull of **gravity** is balanced by the outward **pressure** from the energy released by fusion. The Sun is at this stage.
 3. **Red giant.** When the hydrogen in the core runs out, the balance is lost. The core contracts and heats up, while the outer layers **expand and cool**, so the star becomes much larger and redder.
 4. **White dwarf.** The outer layers drift away into space, leaving the hot, dense core: a white dwarf. It is very small and no longer fuses hydrogen, so it slowly cools and fades.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-stellar-evolution--02-sun-like-star.webp" width="900" height="800" alt="Four stages in order. A nebula of gas and dust collapses under gravity and heats up. A main sequence star fuses hydrogen into helium and is stable; the Sun is at this stage. When the core hydrogen runs out it becomes a red giant whose outer layers expand and cool. The outer layers drift away, leaving a white dwarf that slowly cools and fades." loading="lazy">
+  <figcaption>Nebula, main sequence, red giant, white dwarf, with a cause for each change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-stellar-evolution--03-main-sequence-balance.webp" width="900" height="600" alt="A star with arrows pointing inwards for gravity and outwards for the pressure from energy released by fusion in the core. The two are balanced, so the star stays stable for a very long time; the balance is lost when the core hydrogen runs out." loading="lazy">
+  <figcaption>Inward gravity balances outward pressure from fusion energy.</figcaption>
+</figure>
 
 ## A star more massive than the Sun (8.10)
 
@@ -85,6 +100,11 @@ The key comparison is that **mass decides the fate**: Sun-like stars
 end as white dwarfs; much more massive stars end, after a supernova, as
 neutron stars or black holes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-stellar-evolution--04-mass-decides-fate.webp" width="900" height="870" alt="Two paths from a nebula. A star of similar mass to the Sun becomes a main sequence star with a long lifetime, then a red giant, then a white dwarf. A much more massive star is hotter and brighter with a shorter main sequence life, becomes a red supergiant, explodes as a supernova whose material can form new nebulae, and leaves a neutron star or, for the most massive, a black hole." loading="lazy">
+  <figcaption>Sun-like stars end as white dwarfs; much more massive stars as neutron stars or black holes.</figcaption>
+</figure>
+
 ## Absolute magnitude (8.11P)
 
 How bright a star looks from Earth (its apparent brightness) depends on
@@ -99,6 +119,11 @@ Two features of the magnitude scale cause most errors:
 
 - **Smaller numbers mean brighter stars.** A star of absolute magnitude −5 is far brighter than one of +10.
 - **The values can be negative.** The very brightest stars have negative absolute magnitudes. The Sun's is about +5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-stellar-evolution--05-absolute-magnitude.webp" width="900" height="780" alt="A dim nearby star can look brighter from Earth than a powerful distant star, so stars are compared at a standard distance of 10 parsecs. On the absolute magnitude scale from −5 to +10, smaller numbers mean brighter stars; the Sun is about +5 and the brightest stars are negative." loading="lazy">
+  <figcaption>Absolute magnitude compares stars at one distance; smaller numbers are brighter.</figcaption>
+</figure>
 
 ## The Hertzsprung–Russell diagram (8.12P)
 
@@ -121,6 +146,11 @@ The Sun's life can be traced on the diagram: on the main sequence now,
 it will move up and to the right to become a red giant, then down and
 to the left to become a white dwarf.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-stellar-evolution--06-hr-diagram.webp" width="900" height="810" alt="An HR diagram with absolute magnitude on the vertical axis, brighter at the top, and surface temperature on the horizontal axis, hot and blue on the left, cool and red on the right. The main sequence runs diagonally from top left to bottom right with the Sun near the middle; red giants sit above it on the right, supergiants across the top and white dwarfs below it on the left. The Sun will move up and right to the red giants, then down and left to the white dwarfs." loading="lazy">
+  <figcaption>Hot on the left, bright at the top: four regions to label.</figcaption>
+</figure>
+
 ## Worked example: using HR positions
 
 *Illustrative data.* Classify each star.
@@ -130,6 +160,11 @@ to the left to become a white dwarf.
 | P | 4000 K | −2 | Red giant: cool (red) but very bright |
 | Q | 10 000 K | +12 | White dwarf: hot but very dim |
 | R | 6000 K | +5 | Main sequence, similar to the Sun |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-stellar-evolution--07-classify-stars.webp" width="900" height="720" alt="Three stars plotted on an HR diagram. P at 4000 K and absolute magnitude −2 lies above the main sequence on the right: a red giant, cool but very bright. Q at 10 000 K and +12 lies below it on the left: a white dwarf, hot but very dim. R at 6000 K and +5 lies on the main sequence, similar to the Sun." loading="lazy">
+  <figcaption>Position on the HR diagram classifies a star.</figcaption>
+</figure>
 
 ## Common mistakes
 

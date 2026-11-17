@@ -61,6 +61,16 @@ the same element (same Z) with different numbers of neutrons (different
 A). Carbon-12 (¹²₆C) and carbon-14 (¹⁴₆C) are isotopes; carbon-14 is
 unstable and radioactive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--01-nuclide-notation.webp" width="900" height="810" alt="The symbol for carbon-14 with mass number 14 at the top left (protons plus neutrons) and atomic number 6 at the bottom left (protons only), so it has 14 − 6 = 8 neutrons. Carbon-12 and carbon-14 both have Z = 6, so they are isotopes; carbon-14 is radioactive." loading="lazy">
+  <figcaption>Top number: protons + neutrons. Bottom number: protons. Neutrons = A − Z.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--01-atom-isotopes.webp" width="900" height="920" alt="Two carbon atoms side by side. Carbon-12 has 6 protons, 6 neutrons and 6 electrons; carbon-14 has 6 protons, 8 neutrons and 6 electrons. Same proton number means the same element, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same number of protons but different numbers of neutrons.</figcaption>
+</figure>
+
 ## The radiations (7.4, 7.5, 7.7)
 
 Unstable nuclei emit radiation **randomly**: you cannot predict when a
@@ -86,6 +96,16 @@ and the electron is emitted. That is why Z rises by 1 while A stays the
 same. Gamma emission only removes energy from the nucleus, so it usually
 follows alpha or beta decay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--02-emissions-a-and-z.webp" width="900" height="800" alt="A table of four emissions. Alpha: 2 protons and 2 neutrons, symbol ⁴₂He, charge +2, A falls by 4 and Z by 2. Beta-minus: a fast electron from the nucleus, ⁰₋₁e, charge −1, A unchanged, Z rises by 1. Gamma: an electromagnetic wave, ⁰₀γ, no change. Neutron: ¹₀n, A falls by 1, Z unchanged. In beta-minus decay a neutron becomes a proton and the electron is emitted." loading="lazy">
+  <figcaption>Alpha: A −4, Z −2. Beta-minus: Z +1. Gamma: no change. Neutron: A −1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp" width="900" height="780" alt="Alpha is stopped by paper. Beta passes paper but is stopped by a few millimetres of aluminium. Gamma passes both and is only reduced by thick lead. Ionising effect runs the opposite way: alpha strongest, gamma weakest." loading="lazy">
+  <figcaption>Alpha, beta and gamma are stopped by different barriers.</figcaption>
+</figure>
+
 ## Balancing nuclear equations (7.8)
 
 The top numbers must add up to the same total on each side (mass
@@ -98,6 +118,11 @@ conserved), and so must the bottom numbers (charge conserved).
 **Neutron emission (illustrative nucleus X):** ⁸⁷₃₆X → ⁸⁶₃₆X + ¹₀n. Check:
 87 = 86 + 1; 36 = 36 + 0. The element is unchanged because Z is
 unchanged; a lighter isotope of the same element is left.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--03-balancing-equations.webp" width="900" height="830" alt="Three nuclear equations with checks. Alpha: radium-226 (Z 88) becomes radon-222 (Z 86) plus helium-4 (Z 2): 226 = 222 + 4 and 88 = 86 + 2. Beta-minus: strontium-90 (Z 38) becomes yttrium-90 (Z 39) plus an electron (Z −1). Neutron emission: X-87 becomes X-86 plus a neutron, with Z 36 unchanged." loading="lazy">
+  <figcaption>Check both rows: top numbers and bottom numbers must each add up.</figcaption>
+</figure>
 
 ## The penetration practical (7.6)
 
@@ -114,6 +139,11 @@ Safety: handle sources with tongs, keep them pointed away from people,
 minimise the time they are out of their lead-lined box, and keep your
 distance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--04-penetration-practical.webp" width="900" height="870" alt="A source held at a fixed distance from a Geiger-Müller tube connected to a counter, with an absorber between them. Paper, then aluminium of increasing thickness, then lead are added, recording the count rate each time and subtracting background; the absorber that brings the corrected count to about zero identifies the radiation." loading="lazy">
+  <figcaption>Subtract background, then find which absorber brings the count to about zero.</figcaption>
+</figure>
+
 ## Detection and background (7.9, 7.10)
 
 Ionising radiation can be detected with **photographic film** (it darkens
@@ -127,6 +157,11 @@ sources from **Earth and space**:
 
 Human activity, such as medical X-rays and nuclear industry, adds a
 smaller amount.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--05-detection-background.webp" width="900" height="850" alt="Radiation is detected by photographic film, which darkens where exposed, or by a Geiger-Müller tube and counter. Background radiation reaches a person from space as cosmic rays, mostly absorbed by the atmosphere, and from Earth as rocks, soil and building materials, radon gas from the ground, and food and drink such as potassium-40; medical X-rays and nuclear industry add a smaller amount." loading="lazy">
+  <figcaption>Background radiation comes from Earth and space, with a smaller human-made share.</figcaption>
+</figure>
 
 ## Activity and half-life (7.11 to 7.13)
 
@@ -146,6 +181,11 @@ activity falls from 900 Bq to 450 Bq between t = 0 and t = 3.2 h, and from
 3.2 h, so the half-life is **3.2 h**. After four half-lives (12.8 h), the
 activity is 900 ÷ 2⁴ = 900 ÷ 16 ≈ 56 Bq.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--06-half-life-graph.webp" width="900" height="730" alt="A decay curve of activity against time. Construction lines show the activity falling from 900 Bq at 0 h to 450 Bq at 3.2 h, and from 600 Bq at 1.9 h to 300 Bq at 5.1 h; both give a half-life of 3.2 h. After four half-lives, 12.8 h, the activity is 900 ÷ 16 ≈ 56 Bq." loading="lazy">
+  <figcaption>Halve the activity twice from different starting points; both give 3.2 h.</figcaption>
+</figure>
+
 ## Uses in industry and medicine (7.14)
 
 The choice of source depends on the radiation's penetration and the
@@ -157,6 +197,11 @@ isotope's half-life.
 - **Sterilising medical equipment and food (gamma):** gamma passes through packaging and kills bacteria. The item does not become radioactive.
 - **Medical tracers (gamma, short half-life):** detected from outside the body, then decays quickly.
 - **Radiotherapy (gamma):** carefully aimed beams kill cancer cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--07-uses.webp" width="900" height="750" alt="A table of uses. Smoke detectors use alpha, which ionises the air and is absorbed by smoke. Paper and foil thickness monitoring uses beta, which is partly absorbed. Finding pipe leaks, sterilising equipment and food, medical tracers and radiotherapy all use gamma, chosen for its penetration and, for tracers, a short half-life." loading="lazy">
+  <figcaption>Each use matches a radiation’s penetration and the isotope’s half-life.</figcaption>
+</figure>
 
 ## Contamination, irradiation and dangers (7.15, 7.16)
 
@@ -176,6 +221,11 @@ reduced by sealing waste in containers, shielding it (concrete, lead,
 water), storing it securely, often deep underground in stable rock, and
 monitoring the site. Workers reduce their dose by limiting time, keeping
 their distance and using shielding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--08-irradiation-contamination.webp" width="900" height="820" alt="Irradiation: a source outside the body sends radiation to a person; it stops when they move away or the source is removed, and they do not become radioactive. Contamination: radioactive material on or in the body keeps irradiating until removed, and alpha inside the body is most dangerous. Workers limit time, keep their distance and use shielding." loading="lazy">
+  <figcaption>Irradiation stops when you leave the source; contamination stays with you.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -35,6 +35,11 @@ Human Rights Act 1998. Only after those routes are exhausted can they apply to t
 Human Rights** in Strasbourg. This order reflects the principle of **subsidiarity**: states have the
 primary responsibility to secure rights, and the Court is a supervisory safety net.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-human-rights-study-guide--10-hr-enforcement-route.webp" width="900" height="997" alt="Five steps. A public authority such as the police acts incompatibly with a Convention right under section 6. The victim claims in the domestic courts under section 7, normally within one year. The court may give a just and appropriate remedy including damages under section 8. If domestic remedies are exhausted, the victim may apply to the European Court of Human Rights within four months. If a violation is found the Court may award just satisfaction and the Committee of Ministers supervises execution." loading="lazy">
+  <figcaption>Five steps of enforcement with the one-year and four-month limits.</figcaption>
+</figure>
+
 ## Claims before the European Court of Human Rights
 
 ### The Court
@@ -75,6 +80,16 @@ If the Court finds a violation, it may award **just satisfaction** under Article
 compensation and costs. A Chamber judgment can be referred to the Grand Chamber within three months in
 exceptional cases (Article 43). The Court cannot quash a national law or overturn a domestic decision.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-enforcement--01-strasbourg-court.webp" width="900" height="580" alt="Four court formations from largest to smallest: a Grand Chamber of seventeen for the most serious issues, a Chamber of seven, a committee of three and a single judge, who can only declare clearly inadmissible applications inadmissible. The Court belongs to the Council of Europe, has been a single full-time court since Protocol 11, and has one judge per state." loading="lazy">
+  <figcaption>Strasbourg is a Council of Europe court with four formations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-enforcement--02-who-may-apply-admissibility.webp" width="900" height="776" alt="Individual victims apply under Article 34 and states under Article 33 (Ireland v UK). A narrowing funnel of Article 35 admissibility criteria: domestic remedies exhausted, application within four months, not anonymous or repeated, not manifestly ill-founded, and a significant disadvantage. Only then is the case examined on the merits. Rule 39 interim measures can be used in urgent cases." loading="lazy">
+  <figcaption>A victim, exhausted remedies and four months: most applications fail at admissibility.</figcaption>
+</figure>
+
 ## The effect of decisions on states and claimants
 
 Under **Article 46** states undertake to abide by final judgments in cases to which they are parties.
@@ -101,6 +116,11 @@ comply.
 For the claimant, a judgment gives a formal finding of violation and possibly compensation, but it comes
 years after the events and cannot itself undo the domestic outcome.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-enforcement--03-effect-of-judgments.webp" width="900" height="830" alt="A violation leads to just satisfaction under Article 41, and under Article 46 the Committee of Ministers supervises execution through individual measures for the claimant and general measures to prevent repetition. A table of UK responses: Sunday Times to the Contempt of Court Act 1981, Malone to the Interception of Communications Act 1985, Goodwin to the Gender Recognition Act 2004, S and Marper to the Protection of Freedoms Act 2012; after Hirst the UK delayed over a decade." loading="lazy">
+  <figcaption>Judgments bind states, and usually change UK law, but execution can be slow.</figcaption>
+</figure>
+
 ## The role of domestic courts
 
 The Human Rights Act 1998 makes the domestic courts the first and main forum.
@@ -124,6 +144,11 @@ The Human Rights Act 1998 makes the domestic courts the first and main forum.
   judicial dialogue.
 - **Sections 3 and 4**: interpretation and declarations of incompatibility, covered in the
   [Human Rights study guide](/resources/aqa-a-level-law-human-rights-study-guide/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-enforcement--04-hra-domestic-courts.webp" width="900" height="601" alt="Four HRA sections. Section 6: public authorities, core and hybrid, must act compatibly (YL v Birmingham City Council, reversed by the Care Act 2014). Section 7: only a victim may claim, normally within one year. Section 8: a just and appropriate remedy, with damages only where necessary (Greenfield). Section 2: courts take Strasbourg case law into account (Ullah; Horncastle)." loading="lazy">
+  <figcaption>Who is bound, who may sue, what remedy, and how far to follow Strasbourg.</figcaption>
+</figure>
 
 ## The process of judicial review
 
@@ -149,6 +174,11 @@ the best decision.
    refuse relief if it is **highly likely** that the outcome would not have been substantially different
    without the conduct complained of (section 31(2A) of the Senior Courts Act 1981).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-enforcement--05-judicial-review-steps.webp" width="900" height="710" alt="Six stages of judicial review: a pre-action letter; a claim form in the Administrative Court promptly and within three months; standing, meaning sufficient interest or victim status for HRA claims; permission if there is an arguable case; a full hearing on illegality, irrationality and procedural impropriety (CCSU), with proportionality where Convention rights are engaged (Daly); and discretionary remedies such as a quashing order." loading="lazy">
+  <figcaption>Letter, claim, standing, permission, grounds, remedy: six stages with filters along the way.</figcaption>
+</figure>
+
 ## Worked example
 
 *Facts: A prison governor stops Jo, a prisoner, sending letters to a newspaper about her conviction. Jo
@@ -167,6 +197,11 @@ Remedy:     Quashing order and declaration; damages only if needed (s8,
 If she loses at the final domestic level: application to Strasbourg within
 four months.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-enforcement--06-jo-worked-example.webp" width="900" height="817" alt="Jo’s case in six steps: judicial review in the Administrative Court relying on Article 10; she is a victim under section 7(3); a pre-action letter then a claim within three months; grounds of illegality and proportionality (Daly); a quashing order and declaration, with damages only if needed (Greenfield); and, if she loses domestically, Strasbourg within four months." loading="lazy">
+  <figcaption>Domestic courts first, with tight time limits; Strasbourg is the last resort.</figcaption>
+</figure>
 
 ## Common mistakes
 

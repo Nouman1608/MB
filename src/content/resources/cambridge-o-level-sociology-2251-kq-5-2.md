@@ -41,6 +41,11 @@ Notice that **socialisation**, **social control**, the **curriculum** and **sett
 under more than one view. The same school practice is read in different ways, which is what makes
 these views easy to set against each other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-2--01-one-practice-three-readings.webp" width="900" height="508" alt="A table showing how functionalists, Marxists and feminists read the same school practices: socialisation and social control, the curriculum, setting by ability, and testing and meritocracy." loading="lazy">
+  <figcaption>The same practice means different things to each view, which is why they are easy to set against each other.</figcaption>
+</figure>
+
 ## The functionalist view: education meets society's needs
 
 Functionalists ask what education contributes to a stable, efficient society. The syllabus names
@@ -85,6 +90,16 @@ schooling is meritocratic; Melvin Tumin (1953) criticised Davis and Moore's argu
 it assumes that highly rewarded jobs must be the most important; the view assumes shared values and
 ignores conflict in schools.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--02-functionalist-roles.webp" width="900" height="515" alt="Parsons saw school as the bridge from the family, where children are judged by particularistic standards, to wider society, where universalistic standards apply and status is achieved. Below, the four roles: socialisation, social control, economic and selective." loading="lazy">
+  <figcaption>School moves children from family standards to the same standards for everyone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--03-meritocracy-or-myth.webp" width="900" height="616" alt="Two chains. Functionalist: ability and effort, measured by standardised tests and setting, lead to role allocation and social mobility. Marxist: class background predicts outcomes, belief in merit disguises this, those who fail blame themselves, and inequality looks fair." loading="lazy">
+  <figcaption>Functionalists see a meritocracy; Marxists see a myth that legitimates inequality.</figcaption>
+</figure>
+
 ## The Marxist view: education reproduces class inequality
 
 Marxists argue that education serves the interests of the ruling class. The syllabus frames the whole
@@ -120,6 +135,16 @@ inequality can look fair.
 many working-class pupils succeed; schools also teach critical thinking; the view says little about
 gender or ethnicity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-2--02-marxist-mechanisms.webp" width="900" height="549" alt="Six Marxist points around reproduction of class inequality: Althusser’s ideological state apparatus, Bourdieu’s cultural capital, the myth of meritocracy from Bowles and Gintis, material factors such as access to devices, setting by ability, and Willis’s lads, who reproduced their class through their own resistance." loading="lazy">
+  <figcaption>Each Marxist concept is a mechanism that keeps working-class children in working-class jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--04-correspondence-principle.webp" width="900" height="538" alt="School mirrors the workplace: obeying teachers corresponds to obeying bosses, and working for grades rather than interest corresponds to working for wages. Bowles and Gintis call this the correspondence principle; Willis’s lads, who resisted school, challenge it." loading="lazy">
+  <figcaption>For Marxists, school rehearses the obedience that work demands.</figcaption>
+</figure>
+
 ## The feminist view: education perpetuates gender inequality
 
 Feminists argue that education has reproduced **patriarchy**, though they disagree about how much
@@ -149,6 +174,16 @@ education globally; links schooling to wider patriarchy.
 disadvantage girls; the view may ignore class and ethnic differences among girls; liberal feminists
 would point to real progress through equal-opportunity policies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-2--03-feminist-mechanisms.webp" width="900" height="581" alt="Six feminist mechanisms: male power in school hierarchies, few female role models in science or leadership, girls’ access to education, a gendered curriculum (Kelly), teacher expectations (Stanworth and Spender) and peer control (Lees). A note says girls now outperform boys in many countries." loading="lazy">
+  <figcaption>Feminists show how gender inequality is built into school life, but must explain girls’ success.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-2--04-evaluating-three-views.webp" width="900" height="456" alt="A table of strengths and limitations of functionalist, Marxist and feminist views of education, including Tumin’s criticism of Davis and Moore, Willis’s evidence of resistance and girls now outperforming boys." loading="lazy">
+  <figcaption>Use each view’s limitations as the starting point for the next view.</figcaption>
+</figure>
+
 ## Worked example: an annotated "discuss" plan
 
 **Question:** Discuss the Marxist view that education reproduces class inequality.
@@ -164,6 +199,11 @@ would point to real progress through equal-opportunity policies.
   class is not the only inequality *[at least two criticisms]*.
 - **Mini-conclusion:** the view explains persistent gaps but overstates pupils' passivity *[a
   judgement]*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-2--05-discuss-plan.webp" width="900" height="538" alt="A six-step discuss plan: set out the Marxist view, give three distinct mechanisms (correspondence principle, cultural capital, material factors and setting), evaluate with Willis, functionalists and feminists, and end with a judgement that the view overstates passivity." loading="lazy">
+  <figcaption>Three distinct mechanisms, two criticisms, one judgement.</figcaption>
+</figure>
 
 ## Common mistakes
 

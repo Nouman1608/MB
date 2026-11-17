@@ -48,6 +48,11 @@ These are not exclusive categories. A large commercial farm can be intensive, ar
 
 **Crop yield** is the amount of crop produced per unit area, usually in tonnes per hectare. Raising yield means more food from the same land, which is central to the definition of sustainable food production.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-food-production-and-crop-yield--01-types-of-agriculture.webp" width="900" height="658" alt="Three rows of questions. What is produced: arable, pastoral or mixed. Who is it for: subsistence or commercial. How is it farmed: intensive or monoculture. A note says one farm can belong to several categories at once." loading="lazy">
+  <figcaption>Answer all three questions to classify a farm fully.</figcaption>
+</figure>
+
 ## Strategies to increase food production and crop yield
 
 **(a) Mixed cropping, intercropping and crop rotation.** Mixed cropping grows two or more crops together on the same land; intercropping grows them in alternating rows. Different crops use different nutrients and have roots at different depths, and a pest of one crop may not attack another. Crop rotation changes the crop grown in a field each year, so nutrients are not exhausted and pests and diseases specific to one crop do not build up. Including legumes, such as beans or peas, adds nitrogen, because bacteria in their root nodules convert nitrogen from the air into compounds plants can use.
@@ -74,6 +79,16 @@ These are not exclusive categories. A large commercial farm can be intensive, ar
 
 **(l) Biological control of pests.** Using a natural predator, parasite or disease of the pest to reduce its numbers, for example ladybirds that eat aphids. It avoids chemicals and the pest is unlikely to become resistant, but it is slower and the control organism must not become a pest itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-food-production-and-crop-yield--02-strategies-by-mechanism.webp" width="900" height="590" alt="Five columns feed into higher crop yield. Water: trickle irrigation, rainwater harvesting, automated watering. Nutrients: crop rotation with legumes, NPK and organic fertilisers, agroforestry. Pests, weeds and disease: mixed cropping, pesticides, biological control, GMOs. Protect the soil: livestock rotation, agroforestry, mulch. More land, time or control: mechanisation, greenhouses, hydroponics and aeroponics, urban farming." loading="lazy">
+  <figcaption>For each strategy, say what limiting factor it removes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-food-production-and-crop-yield--03-controlled-environments.webp" width="900" height="630" alt="Three sketches. A greenhouse where temperature, water and carbon dioxide are controlled. Hydroponics, with plant roots in a nutrient solution instead of soil. Aeroponics, with roots hanging in air and sprayed with a nutrient mist. Benefits and limitations are listed below." loading="lazy">
+  <figcaption>Control the conditions and crops grow faster, but at a cost in money and energy.</figcaption>
+</figure>
+
 ## Impacts of unsustainable agricultural practices
 
 Each impact is best written as a chain: **practice → process → consequence**.
@@ -94,6 +109,16 @@ Each impact is best written as a chain: **practice → process → consequence**
 
 **The pest resurgence chain:** insecticide kills the pest and its natural predators → surviving or incoming pests breed quickly with no predators to control them → pest numbers rise above their original level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-food-production-and-crop-yield--04-eutrophication.webp" width="900" height="620" alt="Six numbered steps: fertiliser leaches into a river or lake; nitrate and phosphate enrich the water; algae grow rapidly over the surface; light is blocked so plants below die; bacteria decompose the dead material and use up oxygen; fish and other animals die. Below, a lake sketch shows algae on the surface and dead fish." loading="lazy">
+  <figcaption>Write every link: nutrients, algae, no light, decomposers, no oxygen, death.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-food-production-and-crop-yield--05-pest-resurgence.webp" width="900" height="690" alt="Sketch graph of pest and predator numbers over time. After insecticide is sprayed both fall; the predators stay low while the pest breeds quickly and rises above its original level. Cards distinguish pest resurgence from pesticide resistance." loading="lazy">
+  <figcaption>Kill the predators along with the pest and the pest comes back stronger.</figcaption>
+</figure>
+
 ## Worked example 1: calculating a change in yield
 
 A farm of 40 hectares produced 96 tonnes of maize. After introducing intercropping with beans and drip irrigation, it produced 120 tonnes from the same area. (Figures invented for practice.)
@@ -103,6 +128,11 @@ A farm of 40 hectares produced 96 tonnes of maize. After introducing intercroppi
 - Percentage increase: (3.0 − 2.4) ÷ 2.4 × 100 = **25%**.
 
 **Explanation:** beans add nitrogen to the soil through their root nodules; drip irrigation supplies water directly to roots in dry spells. Both raise yield without needing more land.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-food-production-and-crop-yield--06-yield-change.webp" width="900" height="615" alt="Bar chart of maize yield on a 40 hectare farm: 2.4 tonnes per hectare before and 3.0 after intercropping with beans and drip irrigation, a 25% increase." loading="lazy">
+  <figcaption>Divide by area first, then find the change as a percentage of the original yield.</figcaption>
+</figure>
 
 ## Worked example 2: an annotated explain answer
 

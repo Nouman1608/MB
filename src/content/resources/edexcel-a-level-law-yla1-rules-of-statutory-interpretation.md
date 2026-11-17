@@ -37,6 +37,16 @@ Parliament writes statutes in general words to cover future cases. Judges must t
 
 Every interpretation question is about the same tension: judges must respect **parliamentary supremacy** (Parliament makes law, judges apply it) while producing a **sensible and just result** in the case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--01-why-interpret.webp" width="900" height="606" alt="Judges need to interpret statutes because of broad terms (Brock v DPP), ambiguity, drafting errors, new developments (R (Quintavalle)) and changes in language. Every question involves a tension between parliamentary supremacy and producing a sensible, just result." loading="lazy">
+  <figcaption>General words meet specific facts: judges balance Parliament’s supremacy against a just result.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--02-spectrum-of-approaches.webp" width="900" height="518" alt="The four approaches on a line from the words to the purpose: the literal rule gives the plain meaning even if absurd (Whiteley v Chappell); the golden rule starts literally but departs to avoid absurdity (R v Allen; Re Sigsworth); the mischief rule from Heydon’s Case looks at the defect the Act cures (Smith v Hughes); the purposive approach looks at the purpose of the whole Act (Jones v Tower Boot)." loading="lazy">
+  <figcaption>Each approach sits further from the bare words and closer to Parliament’s purpose.</figcaption>
+</figure>
+
 ## The literal rule
 
 **The rule.** Give the words their plain, ordinary, dictionary meaning, even if the result is absurd. Lord Esher put it at its strongest in *R v Judge of the City of London Court* [1892]: if the words are clear, they must be followed "even though they lead to a manifest absurdity".
@@ -56,6 +66,11 @@ Every interpretation question is about the same tension: judges must respect **p
 - Assumes perfect drafting; the Law Commission in 1969 criticised it for assuming an unattainable perfection in draftsmanship.
 - Words often have more than one "plain" meaning, so the rule does not always give one answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--03-literal-rule.webp" width="900" height="633" alt="The literal rule gives words their plain meaning even if absurd (Lord Esher, 1892). In Whiteley v Chappell a man who voted as a dead person was not guilty; in Fisher v Bell a knife in a shop window was not &quot;offered for sale&quot;; in LNER v Berriman oiling points was not &quot;relaying or repairing&quot;. It respects supremacy and certainty but can produce absurd results and assumes perfect drafting." loading="lazy">
+  <figcaption>Certain and respectful of Parliament, but capable of absurd results.</figcaption>
+</figure>
+
 ## The golden rule
 
 **The rule.** Start with the literal meaning, but if that leads to an absurdity or a result Parliament cannot have intended, the court may adopt a different meaning to avoid it. It comes from Lord Wensleydale in *Grey v Pearson* (1857).
@@ -70,6 +85,11 @@ Every interpretation question is about the same tension: judges must respect **p
 **Advantages.** It corrects the worst results of the literal rule while staying close to the text; it respects Parliament by assuming it did not intend absurdity.
 
 **Disadvantages.** There is no test of what counts as "absurd", so outcomes depend on the judge; it is used only occasionally and unpredictably; in the broad approach judges are effectively rewriting the words.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--04-golden-rule.webp" width="900" height="614" alt="The golden rule from Grey v Pearson starts with the literal meaning but departs from it to avoid absurdity. The narrow approach chooses between meanings: &quot;marry&quot; in R v Allen and &quot;in the vicinity of&quot; in Adler v George. The broad approach overrides a single repugnant meaning: in Re Sigsworth a murderer could not inherit from his victim. It corrects literal absurdities but has no test of absurdity." loading="lazy">
+  <figcaption>Literal first; the narrow approach picks a meaning, the broad one avoids a repugnant result.</figcaption>
+</figure>
 
 ## The mischief rule
 
@@ -91,6 +111,11 @@ The judge then interprets the Act to suppress the mischief and advance the remed
 
 **Disadvantages.** It was designed when statutes were short and supplemented the common law; it relies on judges identifying the mischief, which may require extrinsic aids; it risks judges deciding what Parliament "should" have done, as the dissenting judges argued in the *Royal College of Nursing* case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--05-mischief-rule.webp" width="900" height="775" alt="Heydon’s Case sets four questions: the common law before the Act, the mischief, Parliament’s remedy and the reason for it. In Smith v Hughes the mischief was soliciting people in the street, so prostitutes tapping on windows from balconies were guilty. Elliott v Grey and Royal College of Nursing v DHSS also applied the rule. Weaknesses: it suited short statutes, may need extrinsic aids and risks judicial law-making." loading="lazy">
+  <figcaption>Find the defect the Act was passed to cure, then read the words to suppress it.</figcaption>
+</figure>
+
 ## The purposive approach
 
 **The approach.** The court looks for the overall **purpose** of the legislation and interprets the words to achieve it, even if that means reading in words. It is broader than the mischief rule, which looks only at the defect in the old law, and it is now the dominant modern approach, influenced by European law and by s 3 of the Human Rights Act 1998.
@@ -103,6 +128,11 @@ The judge then interprets the Act to suppress the mischief and advance the remed
 **Advantages.** It produces sensible, just results; it can handle new technology; it fits modern drafting and Convention rights.
 
 **Disadvantages.** Judges may substitute their own view of the purpose; outcomes are less predictable; finding the purpose may require *Hansard* and other material that is costly to research.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--06-purposive-approach.webp" width="900" height="730" alt="The purposive approach reads the words to achieve the purpose of the whole Act. In Jones v Tower Boot &quot;in the course of employment&quot; was read broadly, and in R (Quintavalle) cloned embryos were covered. In Magor and St Mellons Lord Denning said judges should &quot;fill in the gaps&quot;; Lord Simonds called this &quot;a naked usurpation of the legislative function&quot;. It gives just results but is less predictable." loading="lazy">
+  <figcaption>Purpose over wording: just results, at the cost of predictability and judicial restraint.</figcaption>
+</figure>
 
 ## Worked example: applying all four rules
 
@@ -123,6 +153,11 @@ Purposive the purpose is safe enjoyment of parks: Ruth probably
 Conclude  the rule chosen changes the outcome, which is the main
           criticism of having no single binding rule.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--07-vehicles-in-the-park.webp" width="900" height="694" alt="Under a fictional Act banning vehicles from a public park, the literal rule makes both Ruth’s bicycle and an ambulance offences, which is absurd for the ambulance. The golden rule avoids that by not reading &quot;vehicle&quot; to cover emergency vehicles. The mischief rule may catch the bicycle if the mischief is danger and noise, but not a life-saving ambulance. The purposive approach probably catches Ruth while the ambulance advances the purpose of safety." loading="lazy">
+  <figcaption>Same words, different rules, different outcomes.</figcaption>
+</figure>
 
 ## Common mistakes
 

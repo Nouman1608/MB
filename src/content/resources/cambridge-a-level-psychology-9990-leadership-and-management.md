@@ -46,6 +46,11 @@ Universalist theories assume that the qualities of a good leader are the same in
 
 **Transformational leadership.** Transformational leaders motivate followers to put the group's goals above their own interests and to perform beyond expectations. The approach is often described through four components: idealised influence (acting as a role model), inspirational motivation (communicating a vision), intellectual stimulation (encouraging new ideas) and individualised consideration (attending to each follower's needs). It is often contrasted with **transactional** leadership, which exchanges rewards for performance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-leadership-and-management--01-universalist-theories.webp" width="900" height="710" alt="Three universalist theories: great person (born with special traits), charismatic (personal appeal and vision) and transformational (followers put group goals first). The four components of transformational leadership are idealised influence, inspirational motivation, intellectual stimulation and individualised consideration, contrasted with transactional leadership. Evaluation points follow." loading="lazy">
+  <figcaption>Universalist theories say one set of qualities makes a leader everywhere.</figcaption>
+</figure>
+
 ## 4.2.1 Behavioural theories
 
 Behavioural theories focus on what leaders *do*, so leadership can be learned.
@@ -58,6 +63,11 @@ Behavioural theories focus on what leaders *do*, so leadership can be learned.
 | Key implication | Leaders high on both are often seen as most effective | Employee-centred leaders were associated with more productive groups |
 
 *Evaluation*: both approaches suggest leaders can be trained, which is useful, but they rely on questionnaires and do not show which behaviour is best in a given situation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-leadership-and-management--02-ohio-michigan.webp" width="900" height="656" alt="Left: the Ohio studies as two independent axes, initiating structure and consideration, with leaders high on both often seen as most effective. Right: the Michigan studies as one line from job-centred to employee-centred, with employee-centred leaders associated with more productive groups. A note evaluates both." loading="lazy">
+  <figcaption>Ohio: two separate dimensions. Michigan: originally one line with two ends.</figcaption>
+</figure>
 
 ## Heifetz and adaptive leadership
 
@@ -72,6 +82,11 @@ Heifetz distinguished **technical problems**, which experts can solve with exist
 
 *Evaluation*: this is a situational approach suited to change, such as a merger or a shift to remote working; it is harder to test experimentally than behavioural theories.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-leadership-and-management--03-heifetz-adaptive.webp" width="900" height="697" alt="Technical problems are solved by experts with existing knowledge; adaptive challenges need people to change, so the leader mobilises them. Six numbered principles follow: get on the balcony, identify the adaptive challenge, regulate distress, maintain disciplined attention, give the work back, and protect voices of leadership from below." loading="lazy">
+  <figcaption>Adaptive leaders mobilise people to solve problems that need them to change.</figcaption>
+</figure>
+
 ## 4.2.2 Leadership style
 
 **Muczyk and Reimann** combined two dimensions: participation in **decision-making** (autocratic or democratic) and how closely the leader directs **execution** of the task (directive or permissive), giving four styles. A **directive autocrat** decides alone and supervises closely, which suits new or inexperienced staff and emergencies. A **permissive autocrat** decides alone but lets staff choose how to carry out the decision, suiting skilled staff when time is short. A **directive democrat** involves staff in decisions but supervises their execution closely. A **permissive democrat** involves staff in decisions and lets them work independently, suiting experienced, motivated teams.
@@ -81,6 +96,16 @@ Heifetz distinguished **technical problems**, which experts can solve with exist
 - **Public leadership**: behaviour towards a group, such as setting a shared vision and running meetings.
 - **Private leadership**: one-to-one behaviour, such as coaching and giving feedback to individuals.
 - **Personal leadership**: the inner level, the leader's self-awareness, technical know-how and attitudes, which underpins the other two.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-leadership-and-management--04-scouller-levels.webp" width="900" height="620" alt="Nested circles: personal leadership at the core, inside private leadership, inside public leadership. Labels explain public (behaviour towards a group, such as setting a vision), private (one-to-one coaching and feedback) and personal (self-awareness, know-how and attitudes, which underpins the others)." loading="lazy">
+  <figcaption>Public is the group, private is one-to-one, personal is the inner self.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--04-org-muczyk.webp" width="900" height="750" alt="A two by two grid: autocratic or democratic across the top (how far staff take part in decisions) and directive or permissive down the side (how closely staff are directed), giving four styles." loading="lazy">
+  <figcaption>Two dimensions give four leadership styles.</figcaption>
+</figure>
 
 ## Key study: Cuadrado et al. (2008)
 
@@ -93,6 +118,11 @@ Heifetz distinguished **technical problems**, which experts can solve with exist
 - *Conclusion*: in this setting, democratic and relationship-oriented styles were valued for any leader.
 
 **Evaluation.** The fictional scenario controls extraneous variables, allowing cause and effect, but reading about a leader is not the same as working for one. Students are not employees with real experience of managers. One gender-neutral setting was used; results might differ in stereotypically male or female workplaces. The findings apply to everyday life by suggesting relationship-oriented styles are valued.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-leadership-and-management--05-cuadrado-2008.webp" width="900" height="863" alt="A two by two design crossing leader sex with masculine or feminine style, in a hospital emergency story. Contrary to role congruity theory, leaders of both sexes were rated higher with the feminine, democratic and relationship-oriented style, with no differences by leader or evaluator sex." loading="lazy">
+  <figcaption>Feminine styles were rated higher for leaders of both sexes.</figcaption>
+</figure>
 
 ## 4.2.3 Leaders and followers
 
@@ -109,6 +139,11 @@ Heifetz distinguished **technical problems**, which experts can solve with exist
 The LPI has a self-report version for the leader and an observer version for colleagues, so self-ratings can be compared with others' views.
 
 **Kelley's (1988) followership.** Followership is the role of actively supporting a leader and the group's goals. Kelley used two dimensions, **independent critical thinking** and **active engagement**, to define five styles: **exemplary** (high on both), **alienated** (critical but passive), **conformist** (active but uncritical), **passive** (low on both) and **pragmatist** (moderate on both, adapting to what is safe). Kelley argued organisations need exemplary followers as much as good leaders.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--05-org-kelley.webp" width="900" height="900" alt="A chart with active engagement across and independent critical thinking up. Exemplary is high on both, alienated is critical but passive, conformist is active but uncritical, passive is low on both and pragmatist is in the middle." loading="lazy">
+  <figcaption>Kelley’s five followership styles on two dimensions.</figcaption>
+</figure>
 
 ## Annotated answer: a 4-mark application
 

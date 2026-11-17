@@ -43,11 +43,21 @@ This guide covers one subtopic of the Cambridge IGCSE Physics 0625 syllabus (for
 
 The danger is the **live** wire. A person touching it while also in contact with the ground (or with the neutral) becomes part of a circuit, and current flows through their body: an electric shock.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--01-live-neutral-earth.webp" width="900" height="610" alt="A mains supply connected to an appliance with a metal case. The live wire, at a high p.d., runs through a fuse and a switch to the working parts; the neutral wire, close to 0 V, completes the circuit; the earth wire, at 0 V, connects to the metal case and carries current only when there is a fault." loading="lazy">
+  <figcaption>Fuse and switch sit in the live wire; the earth wire joins the metal case to the ground.</figcaption>
+</figure>
+
 ## Why the switch goes in the live wire
 
 With the switch in the live wire, turning the appliance **off** disconnects it from the high p.d. Everything beyond the switch is then safe to touch.
 
 If the switch were in the **neutral** wire, the appliance would stop working when switched off, because the circuit is broken, but its internal parts would **still be connected to the live wire** at the mains voltage. Someone changing a lamp or touching an internal fault could still receive a shock. The same reasoning puts **fuses** in the live wire: a blown fuse must disconnect the live supply, not just stop the current.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--02-switch-in-live-wire.webp" width="900" height="620" alt="Two circuits with the switch off. With the switch in the live wire, the lamp holder is cut off from the high p.d. and is safe. With the switch in the neutral wire, the lamp goes out but the holder is still connected to the live wire, so it can still give a shock." loading="lazy">
+  <figcaption>Both switch positions turn the lamp off, but only a live-wire switch makes it safe.</figcaption>
+</figure>
 
 ## The four hazards
 
@@ -59,6 +69,11 @@ If the switch were in the **neutral** wire, the appliance would stop working whe
 | **Overloading** | Too many appliances on one plug, extension lead or socket | Total current is too large; cables and sockets overheat; fire |
 
 **Overloading in numbers.** Each appliance in parallel draws its own current, and the currents add. On a 230 V supply, a 2.5 kW kettle (10.9 A), a 2.0 kW heater (8.7 A) and a 1.2 kW iron (5.2 A) on one extension lead draw a total of about 24.8 A. If the lead is designed for 13 A, its cable heats up far beyond its safe limit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--03-overloading.webp" width="900" height="580" alt="A kettle (2.5 kW, 10.9 A), a heater (2.0 kW, 8.7 A) and an iron (1.2 kW, 5.2 A) plugged into one extension lead designed for 13 A on 230 V. The currents add to 24.8 A, so the cable overheats, its insulation can melt and a fire can start." loading="lazy">
+  <figcaption>Each appliance adds its own current; too many on one lead overheats the cable.</figcaption>
+</figure>
 
 ## Fuses
 
@@ -82,11 +97,21 @@ Fuses of 3 A, 5 A and 13 A are available. Choose the fuse for (a) a 1.2 kW hair 
 
 Always show the current: a correct fuse with no calculation usually scores only part of the marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--04-choosing-a-fuse.webp" width="900" height="684" alt="A current scale from 0 to 14 A with fuse ratings of 3 A, 5 A and 13 A. A 650 W drill draws 2.8 A, so the 3 A fuse is chosen; a 1.2 kW hair dryer draws 5.2 A, above 5 A, so it needs the 13 A fuse." loading="lazy">
+  <figcaption>Calculate I = P/V, then pick the smallest rating just above it.</figcaption>
+</figure>
+
 ## Trip switches
 
 A **trip switch** (circuit breaker) does the same job as a fuse but is an automatic switch rather than a wire that melts. When the current exceeds its **setting**, the switch **opens** (trips), cutting off the live supply. Once the fault is fixed it can simply be **reset** by hand, so nothing needs replacing.
 
 Choosing a trip switch setting follows the same rule as a fuse: just above the normal maximum current of the circuit it protects. A circuit of appliances totalling 4.0 kW on 230 V carries 17.4 A; from settings of 6 A, 20 A and 32 A, choose **20 A**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--05-fuse-vs-trip-switch.webp" width="900" height="600" alt="A fuse is a thin wire in the live wire that melts when the current exceeds its rating and must be replaced; a trip switch opens when the current exceeds its setting and is reset by hand. A 4.0 kW circuit on 230 V carries 17.4 A, so from 6 A, 20 A and 32 A the 20 A setting is chosen." loading="lazy">
+  <figcaption>Both cut off the live supply when the current is too large; a trip switch can be reset.</figcaption>
+</figure>
 
 ## Earthing a metal casing
 
@@ -102,11 +127,21 @@ Many appliances (kettles, toasters, washing machines) have **metal** cases. The 
 
 **Without** an earth wire, the case would stay at the mains p.d. with no current flowing, and the fault would go unnoticed until someone touched the case and the current flowed through their body instead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--06-earthing-chain.webp" width="900" height="610" alt="A loose live wire touches the metal case of an appliance. A large current flows from the live wire through the case and the earth wire to the ground, the fuse in the live wire melts, the appliance is disconnected and the case is safe to touch." loading="lazy">
+  <figcaption>Fault, large current to earth, fuse melts, live disconnected.</figcaption>
+</figure>
+
 ## Double insulation
 
 A **double-insulated** appliance has an outer casing made of a **non-conducting** material such as plastic, with the live parts also insulated inside. Even if a wire comes loose, the case cannot become live, so **no earth wire is needed**. Hair dryers and many power tools are made this way.
 
 Such an appliance still has a **fuse** in its plug or circuit. With no earth wire, the fuse is not there to protect the user from a live case; it **protects the circuit and the cabling**, melting if a fault such as a short circuit makes the current too large.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--07-double-insulation.webp" width="900" height="520" alt="A double-insulated appliance has a plastic, non-conducting case around insulated live parts and only live and neutral wires, with no earth wire. A fuse in the live wire remains to protect the circuit and the cabling." loading="lazy">
+  <figcaption>A non-conducting case cannot become live; the fuse protects the circuit and cabling.</figcaption>
+</figure>
 
 ## Common mistakes
 

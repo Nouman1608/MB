@@ -46,6 +46,11 @@ Physical conditions include lighting, temperature, noise, space and layout. Poor
 
 **Why the Hawthorne effect still matters for research.** When workers know they are part of a study, their behaviour may change, which is a threat to validity. Researchers reduce this by using longer study periods, so novelty wears off, or by using data collected routinely, such as output records.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-organisational-work-conditions--01-hawthorne-kompier.webp" width="900" height="794" alt="The Hawthorne studies seemed to show productivity rising whatever changed, leading to the popular conclusion that attention changes behaviour. Kompier (2006) points to small groups, many simultaneous changes, no controls and changes in pay and supervision. A note explains how researchers still guard against the effect." loading="lazy">
+  <figcaption>A famous finding can rest on weak methodology.</figcaption>
+</figure>
+
 ## 4.4.1 Open-plan offices
 
 Open-plan offices remove walls and private offices so that many employees share one space. They are cheaper and intended to increase communication.
@@ -53,6 +58,11 @@ Open-plan offices remove walls and private offices so that many employees share 
 **Oldham and Brass (1979)** studied employees of a newspaper who moved from a conventional office to an open-plan office, a naturally occurring quasi-experiment, with measurements taken before and after the move. After the move, employees' satisfaction and internal motivation fell. Problems included more distraction and interruptions, less privacy and difficulty concentrating.
 
 *Evaluation*: the before-and-after design with real employees gives high ecological validity, and the longitudinal element shows change over time; but because the move was not randomly assigned, other changes at the same time could have contributed. Questionnaires give quantitative data but may be influenced by employees' general feelings about the company.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-organisational-work-conditions--02-oldham-brass.webp" width="900" height="602" alt="Newspaper employees moved from a conventional office to an open-plan office. Afterwards their satisfaction and internal motivation fell, with more distraction and interruptions, less privacy and difficulty concentrating. Strengths and weaknesses of the before-and-after quasi-experiment follow." loading="lazy">
+  <figcaption>After the move to open-plan, satisfaction and motivation fell.</figcaption>
+</figure>
 
 ## 4.4.2 Temporal conditions
 
@@ -66,6 +76,16 @@ Open-plan offices remove walls and private offices so that many employees share 
 **Effects on health.** Shiftwork disrupts circadian rhythms, the roughly 24-hour cycles of sleep, body temperature and hormone release. Night workers try to sleep when their body clock is set for being awake, so daytime sleep is shorter and of poorer quality. Rapid rotation means the body clock never fully adjusts; slow rotation allows partial adjustment, but each change causes a longer period of disruption. Rotating forwards (mornings, then afternoons, then nights) is generally easier to adjust to than rotating backwards, because the body clock adapts more readily to a later schedule.
 
 **Gold et al. (1992)** surveyed hospital nurses in the USA and found that nurses on rotating shifts reported poorer sleep and more accidents, errors and near-misses related to sleepiness than nurses on fixed day or evening shifts. The study used self-report questionnaires, which are efficient for large samples but may be affected by memory and honesty; however, the findings are consistent with what is known about circadian disruption.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-organisational-work-conditions--03-shift-patterns.webp" width="900" height="671" alt="Four patterns: rapid rotation (two mornings, two afternoons, two nights, then days off), slow rotation (three weeks of nights then three weeks of days), flexitime (start between 7 and 10 a.m., everyone present 10 a.m. to 3 p.m.) and on-call (available at short notice, such as a doctor called in overnight)." loading="lazy">
+  <figcaption>Rotation speed, flexible starts and on-call each shape when people work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-organisational-work-conditions--04-shiftwork-health.webp" width="900" height="607" alt="Shiftwork disrupts circadian rhythms, so daytime sleep is shorter and poorer. Rapid rotation means the body clock never adjusts; slow rotation allows partial adjustment but longer disruption at each change; forward rotation is easier than backward. Gold et al. (1992) found rotating-shift nurses reported poorer sleep and more accidents and errors." loading="lazy">
+  <figcaption>Rotating shifts disrupt the body clock, worsening sleep and safety.</figcaption>
+</figure>
 
 ## 4.4.3 Human and system errors
 
@@ -85,6 +105,11 @@ Open-plan offices remove walls and private offices so that many employees share 
 
 The distinction matters because blaming individuals for system errors leaves the poor design in place for the next operator.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-organisational-work-conditions--05-human-system-errors.webp" width="900" height="675" alt="Four human errors with examples: omission (forgetting to record a dose), commission (pressing delete instead of save), sequencing (starting a machine before fitting the guard) and timing (braking too late). Two system errors: poorly designed displays, as at Three Mile Island, and confusing controls, with design fixes." loading="lazy">
+  <figcaption>Human errors are the person's; system errors are built into the design.</figcaption>
+</figure>
+
 ## Reducing and monitoring accidents
 
 **Token economy.** Fox et al. (1987) introduced a token economy at two open-pit mines: workers earned trading stamps for periods without lost-time accidents, exchangeable for goods. Days lost through accidents fell and stayed lower over several years. It applies operant conditioning: safe behaviour is positively reinforced.
@@ -98,6 +123,11 @@ The distinction matters because blaming individuals for system errors leaves the
 - *Conclusion*: minor injuries, especially those needing first aid, and the circumstances of accidents should be recorded, and housekeeping should be included in safety monitoring.
 
 **Evaluation.** Using records over time gives objective, longitudinal data, but the finding that most incidents go unreported shows that official records underestimate risk. The four plants were in one country, so generalisation to other industries and safety cultures needs care. The study supports a situational explanation of accidents (housekeeping and management) over a purely individual one (careless workers).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-organisational-work-conditions--06-swat-1997.webp" width="900" height="847" alt="Swat analysed 83 accidents from 1993 in four plants employing 2,964 workers. Bars show that at least 45.8% of accidents involved breaches of basic housekeeping, and that a 1994 follow-up at the meat-processing plant estimated 95% of incidents were never reported. The conclusion and evaluation follow." loading="lazy">
+  <figcaption>Housekeeping breaches featured in at least 45.8% of accidents; most incidents went unreported.</figcaption>
+</figure>
 
 ## Annotated answer: a 6-mark describe question
 

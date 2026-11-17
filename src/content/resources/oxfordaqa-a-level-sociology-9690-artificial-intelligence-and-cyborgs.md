@@ -41,6 +41,11 @@ The [People and technology study guide](/resources/oxfordaqa-a-level-sociology-9
 
 **Why the differences matter sociologically.** Rule-based systems carry the biases of the people who wrote the rules; machine-learning systems carry the biases in their **training data**. Both look neutral, which makes their decisions harder to challenge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--01-how-ai-works.webp" width="900" height="748" alt="A grid comparing rule-based AI, machine learning and deep learning by how each works, an example, where bias comes from and a weakness. A note separates narrow AI, which exists, from AGI and hypothetical superintelligence." loading="lazy">
+  <figcaption>Rule-based systems carry their authors’ biases; learning systems carry the biases in their data.</figcaption>
+</figure>
+
 ## Algorithms: power and inequality
 
 Additional cases and concepts:
@@ -57,6 +62,16 @@ Additional cases and concepts:
 
 **Evaluation.** Supporters argue that algorithms can be audited and corrected more easily than human prejudice, and that human decision-makers are also biased. Critics reply that scale, opacity and the appearance of objectivity make algorithmic bias harder to see and resist.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--02-algorithm-cases.webp" width="900" height="689" alt="Four cases: COMPAS risk scores in US courts, Amazon’s abandoned hiring tool, England’s 2020 A-level grading algorithm and the Dutch childcare benefits scandal, with Benjamin’s New Jim Code and Pasquale’s black box." loading="lazy">
+  <figcaption>Each case shows past inequality fed into a system that looked neutral.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--03-feedback-loop.webp" width="900" height="809" alt="A cycle: a prediction flags an area, more officers are sent, more crime is recorded there, and the new data confirms the prediction. A note weighs auditing against scale and opacity." loading="lazy">
+  <figcaption>The prediction produces the data that seems to prove it right.</figcaption>
+</figure>
+
 ## The extent of AI use and its effects
 
 **Extent.** AI is used in search, translation, recommendations, fraud detection, medical imaging, customer service, logistics, policing and education. Use is uneven between countries, sectors and social groups.
@@ -69,6 +84,16 @@ Additional cases and concepts:
 
 **Evaluation.** Benefits include faster diagnosis, translation that widens access to information and help for disabled users. Effects depend on who owns the systems and who bears the costs, so a Marxist reading stresses profit and control, while a more optimistic reading stresses productivity and access.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--04-jobs-debate.webp" width="900" height="506" alt="Frey and Osborne’s 2013 estimate that 47% of US jobs were at high risk looked at whole occupations; later task-based studies gave much lower estimates because most jobs mix tasks machines can and cannot do." loading="lazy">
+  <figcaption>Whether you count jobs or tasks changes the answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--05-hidden-costs.webp" width="900" height="577" alt="Mined minerals, energy-hungry data centres, cheap labour and data taken from users all feed an apparently automated AI service. Crawford calls AI an extractive industry; Gray and Suri describe the hidden ghost work of data labelling." loading="lazy">
+  <figcaption>Behind “automated” services sit material costs and hidden human labour.</figcaption>
+</figure>
+
 ## Merging human and machine
 
 - **Medical technologies**: the first fully implanted pacemaker (Sweden, 1958); cochlear implants; deep brain stimulation for Parkinson's disease; advanced prosthetic limbs; brain-computer interfaces, including the first human implant by the company Neuralink in 2024.
@@ -76,12 +101,22 @@ Additional cases and concepts:
 - **Contested meanings**: some members of Deaf communities have opposed routine cochlear implants for children, arguing that deafness is a cultural identity with its own language, not a defect to be fixed. This shows that "repair" and "enhancement" are socially defined.
 - **Transhumanism** seeks to enhance human abilities through technology; **posthumanism** questions the idea of a fixed, separate "human". N. Katherine Hayles (*How We Became Posthuman*, 1999) traced how information came to be seen as separable from the body.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--06-human-machine.webp" width="900" height="569" alt="Examples of human-machine merging: pacemakers, cochlear implants, deep brain stimulation and prosthetics; Warwick’s 1998 chip; Neuralink’s 2024 implant. A note explains Deaf community objections and contrasts transhumanism with posthumanism." loading="lazy">
+  <figcaption>Whether a device repairs or enhances depends on who defines “normal”.</figcaption>
+</figure>
+
 ## Robots and cyborgs
 
 - **Industrial robots**: Unimate, the first industrial robot arm, began work at a General Motors plant in 1961.
 - **Care robots**: Japan has developed robots for elder care, such as Paro, a robotic baby seal used with people with dementia. Turkle (*Alone Together*) questioned whether robotic companionship is a substitute for human care.
 - **Military uses**: armed drones and debates at the UN about autonomous weapons that select targets without human control.
 - **Theory**: Haraway's cyborg (in the unit guide) and Latour's actor-network theory, which treats robots and algorithms as actants that shape outcomes alongside humans.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--07-timeline.webp" width="900" height="837" alt="A timeline from Turing’s 1950 imitation game and the 1956 Dartmouth workshop, through the 1958 pacemaker, the 1961 Unimate robot, 1980s expert systems and Warwick’s 1998 implant, to public chatbots in late 2022 and Neuralink in 2024." loading="lazy">
+  <figcaption>AI and human-machine merging both have long histories.</figcaption>
+</figure>
 
 ## Annotated model answer
 

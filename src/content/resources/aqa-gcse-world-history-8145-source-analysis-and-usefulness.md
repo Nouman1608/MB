@@ -41,6 +41,11 @@ A **source** in Section B is evidence from the time: a cartoon, poster, photogra
 
 The best answers connect all three: the content shows a view, the provenance explains why that view was held, and contextual knowledge shows how the source fits the events.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--01-content-provenance-context.webp" width="900" height="493" alt="Three cards: content (what the source says and shows), provenance (who made it, when, why and for whom) and context (what was happening and what you know). Below, a chain: content shows a view, provenance explains why, context shows how it fits." loading="lazy">
+  <figcaption>Content, provenance and context: connect all three.</figcaption>
+</figure>
+
 ## Reading a cartoon
 
 Cartoons appear often because they compress an argument into one image. Work through them in order:
@@ -52,6 +57,11 @@ Cartoons appear often because they compress an argument into one image. Work thr
 5. **Message.** Put the cartoonist's opinion into one sentence.
 6. **Provenance.** A British cartoon of 1938 and a German one of 1938 on the same event may say opposite things; the publication and date tell you why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--02-reading-a-cartoon.webp" width="900" height="479" alt="Six steps for reading a cartoon, in order: caption and labels, figures and caricature, symbols, action, the message in one sentence, and provenance, which can explain why two cartoons of the same event disagree." loading="lazy">
+  <figcaption>Work from labels and symbols to the message, then use provenance to explain it.</figcaption>
+</figure>
+
 ## Question 1: source analysis (4 marks)
 
 The question typically states a view and asks how you know the source supports it, for example: "Source A opposes the Munich Agreement. How do you know? Explain your answer using Source A and your contextual knowledge." To answer:
@@ -61,6 +71,11 @@ The question typically states a view and asks how you know the source supports i
 - **Use provenance where it helps.** The cartoonist's country, the newspaper's politics or the date may explain the attitude.
 
 Two well-explained details, one supported by context and one by provenance, are better than a long description of everything in the picture.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--03-question-1-frame.webp" width="900" height="527" alt="Question 1 frame: an example question on the Munich Agreement, then two details from the source, one supported by contextual knowledge and one by provenance." loading="lazy">
+  <figcaption>Two explained details, one backed by context and one by provenance.</figcaption>
+</figure>
 
 ## Question 2: how useful are two sources? (12 marks)
 
@@ -73,6 +88,11 @@ For each source:
 3. **What it is less useful for:** gaps or one-sidedness, explained in terms of provenance, not just "it is biased".
 
 A biased source can still be very useful; the skill is to say **what for**. A Soviet newspaper's account of the Hungarian rising of 1956 is poor evidence of what happened in Budapest, but good evidence of how the Soviet leadership justified the invasion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--04-question-2-each-source.webp" width="900" height="771" alt="Three steps for each source in question 2: content and context, provenance, and what it is less useful for. Below, a table of what different source types are useful evidence of, including a Soviet newspaper on Hungary in 1956." loading="lazy">
+  <figcaption>Every source is useful for something: the skill is saying what for.</figcaption>
+</figure>
 
 ## Worked example: BD Conflict and tension in Asia
 
@@ -89,6 +109,16 @@ A biased source can still be very useful; the skill is to say **what for**. A So
 >
 > **Together**, B shows how political leaders and allies saw MacArthur as a danger, while C shows why his strategy had lost support among the troops, so they are most useful when combined.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--05-korean-war-context.webp" width="900" height="541" alt="Vertical timeline: Inchon landings in September 1950 and the advance towards the Yalu, Chinese intervention in October 1950, MacArthur's call for attacks on China, retreat below the 38th parallel in winter 1950-51, and his dismissal in April 1951." loading="lazy">
+  <figcaption>The contextual knowledge that makes Sources B and C useful.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--06-sources-b-and-c.webp" width="900" height="652" alt="Table evaluating two invented sources on MacArthur's dismissal by content, context, provenance and limits: a British cartoon of April 1951 and an American soldier's letter of January 1951. A note shows they are most useful together." loading="lazy">
+  <figcaption>Evaluate each source on content, context and provenance, then combine them.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Describing the source** in detail without saying what it shows about the question.
@@ -101,6 +131,11 @@ A biased source can still be very useful; the skill is to say **what for**. A So
 ## Exam technique
 
 Questions 1 and 2 together are 16 of Section B's 40 marks, so allow around 20 minutes: about five for question 1 and fifteen for question 2. Annotate each source quickly: circle the date and author, underline two content details, note one fact you know. Write a paragraph per source in question 2, and finish with a sentence comparing them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--07-section-b-timing.webp" width="900" height="505" alt="Time bar: about five minutes for question 1 and fifteen for question 2. Annotate each source by circling the date and author, underlining two content details and noting one fact. Write one paragraph per source and a comparing sentence." loading="lazy">
+  <figcaption>About five minutes for question 1, fifteen for question 2.</figcaption>
+</figure>
 
 ## Further practice
 

@@ -78,6 +78,21 @@ In a **Sankey diagram** for this, the arrow starts 26 460 J wide; 12 000 J conti
 
 Ignoring friction, the skier's speed would follow from mgΔh = ½mv²: v = √(2gΔh) = √(2 × 9.8 × 45) = 30 m/s. The mass cancels, so any skier would reach the same speed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-energy-work-and-power-cambridge-igcse-physics--01-stores-and-transfers.webp" width="900" height="700" alt="Seven energy stores: kinetic, gravitational potential, chemical, elastic, nuclear, electrostatic and internal. Energy moves between them by forces, electrical current, heating and waves. In a battery-powered fan, energy leaves the chemical store, is transferred by an electrical current and then the motor's forces, and ends in the kinetic store of the blades and air and the internal store of the motor." loading="lazy">
+  <figcaption>Name the store energy leaves, how it is transferred and the store it goes to.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-energy-work-and-power-cambridge-igcse-physics--02-kinetic-energy-speed.webp" width="900" height="470" alt="Bars for a 1200 kg car: at 15 m/s its kinetic energy is 135 000 J; at 30 m/s it is 540 000 J, four equal parts of the first bar, because v is squared." loading="lazy">
+  <figcaption>Kinetic energy depends on speed squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-energy-work-and-power-cambridge-igcse-physics--03-skier-sankey.webp" width="900" height="740" alt="A Sankey diagram for a 60 kg skier descending 45 m. The 26 460 J of gravitational potential energy lost splits into 12 000 J of kinetic energy at 20 m/s and 14 460 J transferred by friction and air resistance to the internal store of the snow, skis and air. Arrow widths are in proportion." loading="lazy">
+  <figcaption>Energy in = useful out + wasted out; the arrow widths add up.</figcaption>
+</figure>
+
 ## Work (1.7.2)
 
 **Mechanical or electrical work done is equal to the energy transferred.**
@@ -95,6 +110,11 @@ the box's gravitational potential store increases by 294 J
 ```
 
 If the force and the motion are at right angles, no work is done by that force: carrying the box horizontally at a steady height does no work against gravity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-energy-work-and-power-cambridge-igcse-physics--04-work-lifting-a-box.webp" width="900" height="620" alt="A 25 kg box is lifted steadily onto a shelf 1.2 m high. The lifting force equals its weight, 25 × 9.8 = 245 N, so the work done is 245 × 1.2 = 294 J and its gravitational potential store rises by 294 J." loading="lazy">
+  <figcaption>Use the weight in newtons, not the mass, as the force in W = Fd.</figcaption>
+</figure>
 
 ## Energy resources (1.7.3)
 
@@ -127,6 +147,11 @@ efficiency = useful power output  / total power input    (× 100%)
 
 Radiation from the **Sun** is the main source of energy for all our resources **except geothermal, nuclear and tidal**. The Sun releases its energy by **nuclear fusion**. Research is being carried out into using energy released by nuclear fusion to generate electricity on a large scale.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-energy-work-and-power-cambridge-igcse-physics--05-resources-to-electricity.webp" width="900" height="710" alt="Fossil fuels, biofuels, nuclear fuel and geothermal energy heat water in a boiler to make steam, which drives a turbine. Moving water (hydroelectric, tides, waves) and wind turn the turbine directly. The turbine turns a generator. Solar cells transfer light straight to electricity with no turbine. For Extended, the Sun is the main source except for geothermal, nuclear and tidal." loading="lazy">
+  <figcaption>Most resources turn a turbine and generator; they differ in what turns the turbine.</figcaption>
+</figure>
+
 ## Power (1.7.4)
 
 **Power** is the work done per unit time, and also the energy transferred per unit time:
@@ -146,6 +171,11 @@ useful power output = 47 040 / 20 = 2352 W  ≈ 2.4 kW
 **Worked example 5.** A 2.4 kW kettle runs for 2.5 minutes. Energy transferred = P × t = 2400 × 150 = 360 000 J = 360 kJ.
 
 Two people climbing the same stairs do the same work if they have the same weight; the one who climbs faster has the greater power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-energy-work-and-power-cambridge-igcse-physics--06-crane-power-efficiency.webp" width="900" height="550" alt="A crane lifts 400 kg through 12 m in 20 s: the work done is 47 040 J and the useful power output is 2352 W, about 2.4 kW. Its motor takes 3500 W, so the efficiency is 67%. A 2.4 kW kettle running for 150 s transfers 360 000 J." loading="lazy">
+  <figcaption>Power is energy transferred per second; efficiency compares useful output with input.</figcaption>
+</figure>
 
 ## Common mistakes
 

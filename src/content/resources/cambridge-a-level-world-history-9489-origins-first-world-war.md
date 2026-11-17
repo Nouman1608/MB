@@ -32,6 +32,11 @@ Paper 3 (1 hour 15 minutes, 40 marks) sets one unattributed extract of up to 600
 
 **The context you test extracts against** is c.1890-1914: tensions between the Great Powers, the alliance system, militarism, the arms race, Balkan instability, war plans, Sarajevo and the July crisis, mobilisation and declarations of war.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-first-world-war--01-interpretation-approach.webp" width="900" height="620" alt="Two cards define interpretation (the claims and conclusions inferred from the extract as a whole) and approach (the historian's interests, questions, ideology and beliefs). A bar splits the 40 marks equally between AO4 and AO1. Below, the c.1890-1914 context to test extracts against." loading="lazy">
+  <figcaption>Find the claim and what the historian brings to it; marks are split evenly.</figcaption>
+</figure>
+
 ## The debate, content point by content point
 
 ### Was tension between the Great Powers likely to lead to war?
@@ -40,9 +45,19 @@ Paper 3 (1 hour 15 minutes, 40 marks) sets one unattributed extract of up to 600
 
 **Critics** note that Anglo-German relations had improved by 1914, that the powers co-operated to contain the Balkan Wars of 1912-13, and that earlier crises had passed without war. If the system made war inevitable, why did it hold until 1914? An extract that emphasises structure will usually play down individual choice; an extract stressing détente before 1914 will usually lead towards decisions in July.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-first-world-war--02-structure-or-decisions.webp" width="900" height="676" alt="Two columns. Structural explanations: the alliances of 1882, 1894, 1904 and 1907, the naval race and army laws, Lenin, Joll's unspoken assumptions and Taylor's timetables. Decision-centred explanations: the leaders in Berlin, Vienna, St Petersburg, Paris and London. Below, the critics' question: if war was inevitable, why did the system hold until 1914?" loading="lazy">
+  <figcaption>Which an extract favours, structure or choice, is often the key to its approach.</figcaption>
+</figure>
+
 ### How important were the decisions of key individuals?
 
 This approach studies the men who decided: Wilhelm II, Bethmann Hollweg and Moltke in Berlin; Berchtold and Conrad in Vienna; Sazonov and Nicholas II in St Petersburg; Poincaré in Paris; Grey in London. Key decisions include Germany's "blank cheque" to Austria-Hungary (5-6 July), the Austrian ultimatum to Serbia (23 July), Russia's general mobilisation (30 July), the German declarations of war on Russia (1 August) and France (3 August), and the invasion of Belgium that brought in Britain (4 August). Historians in this tradition ask what each leader knew, feared and intended.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-first-world-war--03-july-crisis.webp" width="900" height="551" alt="A day-scale timeline from 1 July to 5 August 1914: the German blank cheque (5-6 July), the Austrian ultimatum to Serbia (23 July), Russian general mobilisation (30 July), German declarations of war on Russia (1 August) and France (3 August), and the invasion of Belgium that brought in Britain (4 August)." loading="lazy">
+  <figcaption>A slow start, then a general war within days of Russian mobilisation.</figcaption>
+</figure>
 
 ### How did Article 231 shape the debate?
 
@@ -60,6 +75,11 @@ After 1945, many West German historians, such as Gerhard Ritter, presented Nazis
 
 In *Griff nach der Weltmacht* (1961, translated as *Germany's Aims in the First World War*), Fritz Fischer used government files, including those held in East Germany, to argue that Germany's leaders bore the main responsibility: they sought European dominance and world-power status, and in July 1914 they deliberately risked a general war. The **September Programme** (1914), listing annexations and a German-dominated central Europe, showed aims he traced back before the war. In *War of Illusions* (1969) he went further, pointing to the **War Council of December 1912** and to domestic pressure -- the rise of the Social Democrats -- as reasons the elites sought war. His approach linked foreign policy to domestic politics and suggested **continuity** between the Kaiser's Germany and Hitler's.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-first-world-war--04-debate-timeline.webp" width="900" height="1201" alt="A vertical timeline from 1915 to 2015 drawn to scale. Left, views stressing German responsibility: Article 231 (1919), Fischer (1961, 1969) and Hastings (2013). Right, wider blame: the German document collections (1922-27), Barnes and Fay (1926-28), the 1951 Franco-German agreement, the 1964 controversy, Ferguson (1998), McMeekin and Clark (2011-12) and MacMillan (2013)." loading="lazy">
+  <figcaption>The debate swung from German guilt to shared blame, back to Germany, then outwards again.</figcaption>
+</figure>
+
 ### The German reaction to Fischer
 
 The reaction was fierce. Ritter accused Fischer of reading wartime aims back into July 1914. The "Fischer controversy" dominated the German historians' congress of 1964, and the West German Foreign Office withdrew funding for Fischer's lecture tour of the United States in the same year. Andreas Hillgruber offered a middle position: Bethmann Hollweg took a "calculated risk", hoping for a localised war but accepting a wider one. Younger historians, notably Hans-Ulrich Wehler, built on Fischer's link between domestic politics and foreign policy.
@@ -68,9 +88,19 @@ The reaction was fierce. Ritter accused Fischer of reading wartime aims back int
 
 Critics argued that war aims drawn up after war began do not prove intentions before it; that Fischer studied German archives closely but other powers' decisions little; and that the War Council of 1912 led to no immediate plan. Later scholarship divided. John Röhl and Annika Mombauer, using sources on the Kaiser and on Moltke, reinforced the weight of German decisions. Terence Zuber questioned whether a fixed "Schlieffen Plan" existed at all, which complicates arguments about war plans driving events.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-first-world-war--05-fischer-evidence.webp" width="900" height="542" alt="Two columns. Fischer's evidence: government files, the September Programme (1914), the War Council of December 1912 and domestic pressure from the Social Democrats. Objections: aims written after war began, a narrow German focus, no plan from the War Council, and Zuber's doubts about the Schlieffen Plan. Below, Hillgruber's calculated risk and Röhl and Mombauer's reinforcement." loading="lazy">
+  <figcaption>Fischer's case rests on aims and archives; critics question what they prove about July.</figcaption>
+</figure>
+
 ### Modern interpretations of other nations' responsibility
 
 From the 1990s, historians widened the lens. Samuel Williamson stressed Austria-Hungary's own decision for war on Serbia. Niall Ferguson (*The Pity of War*, 1998) argued that Britain's entry turned a continental war into a world war. Sean McMeekin (*The Russian Origins of the First World War*, 2011) emphasised Russia's ambitions and early military preparations. Christopher Clark (*The Sleepwalkers*, 2012) examined Serbia, Austria-Hungary, Russia, France, Germany and Britain together and argued that responsibility was spread among decision-makers who were "blind to the reality of the horror they were about to bring into the world".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-first-world-war--06-where-blame-falls.webp" width="900" height="484" alt="A hub with the question &quot;Who or what was to blame?&quot; at the centre. Left: Germany (Fischer, Röhl, Mombauer, Hastings), Austria-Hungary (Williamson) and Russia (McMeekin; Barnes, with France). Right: Britain (Ferguson), shared responsibility (Fay, Lloyd George, Clark) and the system or chance (Lenin, Joll, Taylor, Lebow)." loading="lazy">
+  <figcaption>Since the 1990s historians have looked at every capital, not only Berlin.</figcaption>
+</figure>
 
 ### Long-term and short-term factors
 
@@ -91,6 +121,11 @@ Some historians stress chance and the unpredictable: the assassination succeeded
 - **Interpretation:** shared responsibility, through choices rather than plans.
 - **Approach:** a multi-capital, decision-centred study of the July crisis, close to Clark.
 - **Test with knowledge:** support -- Russian mobilisation on 30 July and the Austrian ultimatum; challenge -- the blank cheque and German pressure on Vienna to act quickly, as Fischer and Röhl argue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-first-world-war--07-annotated-extract.webp" width="900" height="615" alt="A constructed sentence with two phrases highlighted: &quot;No capital wanted the war that came&quot; and &quot;every capital made choices in July&quot;. Below, the interpretation (shared responsibility through choices), the approach (multi-capital and decision-centred, close to Clark), supporting knowledge (Russian mobilisation, the ultimatum) and challenging knowledge (the blank cheque and German pressure on Vienna)." loading="lazy">
+  <figcaption>Name the claim, the approach, then test both with July 1914 knowledge.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -38,6 +38,11 @@ Conformity is a change in behaviour or belief in response to real or imagined gr
 
 The specification names internalisation and compliance; knowing identification helps you show they lie on a scale of depth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--08-psy-conformity-levels.webp" width="900" height="1030" alt="Three rows, each showing a person who says &quot;Agree&quot; in a speech bubble while a thought bubble shows what they think. Compliance: public agreement only, the person thinks No. Identification: adopting the group view while with the group, thinks Yes. Internalisation: genuine private acceptance, thinks Yes. Two boxes below give the explanations: normative social influence, the desire to be liked, and informational social influence, the desire to be right." loading="lazy">
+  <figcaption>Conformity occurs at three levels (compliance, identification, internalisation) and is explained by the wish to be liked or to be right.</figcaption>
+</figure>
+
 ## Explanations: normative and informational influence
 
 Deutsch and Gerard (1955) distinguished two motives.
@@ -46,6 +51,11 @@ Deutsch and Gerard (1955) distinguished two motives.
 - **Informational social influence** -- conforming because you believe others are right, especially when a situation is ambiguous. It usually produces **internalisation**. Jenness (1932) asked people to estimate the number of beans in a jar alone and then after group discussion; individual estimates moved towards the group's, as people used others' views as information.
 
 **Evaluation.** The two explanations are hard to separate in practice: a participant may conform both to be right and to be liked. Individual differences also matter: people with a high need for affiliation appear more open to normative influence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-social-psychology--01-normative-informational.webp" width="900" height="581" alt="Normative social influence is conforming to be liked and avoid rejection, as with Asch participants who went along to avoid looking foolish; it usually produces compliance. Informational social influence is conforming because others seem right, especially in ambiguous situations, as in Jenness's bean-jar study; it usually produces internalisation. The two are hard to separate." loading="lazy">
+  <figcaption>Conform to be liked: compliance. Conform to be right: internalisation.</figcaption>
+</figure>
 
 ## Asch's research and its variables
 
@@ -59,6 +69,11 @@ In Asch's line-judgement studies, a genuine participant sat with confederates wh
 
 **Evaluation of Asch.** The task was artificial and trivial: there were no consequences for being wrong, so findings may not generalise to important decisions. The sample was American male students, limiting generalisation. A meta-analysis by Bond and Smith (1996), covering 133 Asch-type studies in 17 countries, found higher conformity in collectivist cultures than individualist ones. Participants were deceived about the purpose of the study and some felt stressed, raising ethical issues.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-social-psychology--02-asch-variables.webp" width="900" height="949" alt="Baseline: conformity on about 37 percent of critical trials, about 75 percent conformed at least once, about 25 percent never, and almost no errors alone. Bars show conformity rising from about 3 percent with one confederate to 13 with two and 32 with three, with little increase beyond. A correct dissenter cut conformity to about 5.5 percent; harder tasks raised it. Evaluation covers the artificial task and Bond and Smith's cross-cultural meta-analysis." loading="lazy">
+  <figcaption>Three confederates are enough; one dissenter breaks the pressure.</figcaption>
+</figure>
+
 ## Explanations for obedience
 
 Obedience is following a direct order from a person in authority.
@@ -68,6 +83,11 @@ Obedience is following a direct order from a person in authority.
 **Legitimacy of authority.** Societies are organised hierarchically, and people are socialised to accept that some individuals have legitimate power to give orders, such as police officers, teachers or doctors. Obedience depends on the authority being seen as legitimate; when status is reduced, obedience falls.
 
 **Evaluation.** Both explanations fit Milgram's variations, especially the fall in obedience when the experimenter was replaced by an ordinary member of the public. However, the agentic state does not explain why a third of participants in the baseline study refused to continue, and many who obeyed showed great distress rather than calm acceptance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-social-psychology--03-agentic-state.webp" width="900" height="832" alt="The agentic shift moves a person from the autonomous state, feeling responsible, to the agentic state, acting for another who is responsible; moral strain is felt but binding factors keep them obeying. Legitimacy of authority: societies are hierarchical and people are socialised to obey legitimate figures such as police, teachers and doctors; when status is reduced, obedience falls." loading="lazy">
+  <figcaption>Obedience follows a shift of responsibility to a legitimate authority.</figcaption>
+</figure>
 
 ## Milgram's research and situational variables
 
@@ -79,17 +99,32 @@ In Milgram's (1963) baseline study, 40 men from the New Haven area were told the
 
 **Evaluation.** Hofling et al. (1966) found that 21 of 22 nurses were prepared to give an excessive dose of an unfamiliar drug on a telephone order from an unknown doctor, suggesting obedience to legitimate authority occurs in real settings. Burger (2009) ran a partial replication stopping at 150 volts for ethical reasons and found about 70% of participants were willing to continue past that point. Critics argued some participants may not have believed the shocks were real, although Sheridan and King (1972), using real shocks to a puppy, still found high obedience. Ethical criticisms include deception and psychological distress, although Milgram debriefed participants and most later said they were glad to have taken part.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-social-psychology--04-milgram-variations.webp" width="900" height="841" alt="Bars of obedience to 450 volts: 65 percent at baseline, 40 with the learner in the same room, 30 with the hand on a shock plate, 20.5 with orders by telephone, 47.5 in a run-down Bridgeport office, and 10 when two peers refused. Proximity and location explain the falls. Supporting evidence: Hofling et al.'s nurses, Burger's replication and Sheridan and King's real shocks." loading="lazy">
+  <figcaption>Closeness to the victim, distance from authority and a lowly setting all cut obedience.</figcaption>
+</figure>
+
 ## Resistance to social influence
 
 **Social support.** Having an ally reduces pressure. In Asch's unanimity variation, a single dissenter cut conformity sharply. In one of Milgram's variations, when two confederate "teachers" refused to continue, obedience to 450 volts fell to 10%. The dissenter shows that resistance is possible and shares the social cost of disobeying.
 
 **Locus of control.** Rotter (1966) described a continuum from an **internal** locus of control (believing outcomes result from your own actions) to an **external** one (believing outcomes are controlled by luck or others). People with an internal locus of control are more likely to rely on their own judgement and resist pressure. Holland (1967) repeated Milgram's procedure and reported that participants with an internal locus of control were more likely to resist. Later research has given mixed support, so locus of control may matter less than situational factors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-social-psychology--05-resistance.webp" width="900" height="788" alt="Social support: Asch's conformity fell from about 37 percent to about 5.5 percent with one dissenter, and Milgram's obedience fell from 65 to 10 percent when two peers refused, because a dissenter shows resistance is possible and shares the cost. Locus of control runs from internal (more likely to resist) to external; Holland (1967) supported this but later research is mixed." loading="lazy">
+  <figcaption>An ally and an internal locus of control both help people resist.</figcaption>
+</figure>
+
 ## Worked example: an application answer
 
 *Scenario: In a football club, most new players follow the captain's rule that everyone stays late to clean the changing room, even though the coach has never asked for it. When one new player openly refuses, two others stop staying too. Use psychological research to explain the players' behaviour.* **[6]**
 
 > Staying late is likely to be compliance driven by normative influence: the new players want to be accepted by the team, not because they believe the rule is right **(type and explanation, linked)**. The captain is a group member rather than a legitimate authority, so this is conformity, not obedience **(precise distinction)**. Asch found that conformity collapsed when unanimity was broken -- one dissenter cut it to about 5.5% **(evidence)**. Similarly, once one player refused, the majority was no longer unanimous, giving the other two social support to resist **(application of resistance)**. Those who refused first may have an internal locus of control, trusting their own judgement **(individual difference)**. The team setting has real consequences for belonging, so normative pressure may be stronger than in Asch's laboratory **(evaluation linked to scenario)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-social-psychology--06-football-application.webp" width="900" height="568" alt="Six rows: compliance driven by normative influence; conformity rather than obedience because the captain is not a legitimate authority; Asch's finding that one dissenter cut conformity to about 5.5 percent; the refusal giving the others social support; a possible internal locus of control; and an evaluation that real belonging may make normative pressure stronger than in the laboratory." loading="lazy">
+  <figcaption>Name the type, cite the evidence, apply it, then evaluate in context.</figcaption>
+</figure>
 
 ## Common mistakes
 

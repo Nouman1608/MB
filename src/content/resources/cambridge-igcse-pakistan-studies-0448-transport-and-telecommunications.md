@@ -73,6 +73,11 @@ to Chaman; the N-35 Karakoram Highway to China; motorways such as the M-2 (Lahor
 the M-1 (Islamabad to Peshawar); the main railway line from Karachi to Peshawar via Lahore, and the
 line to Quetta through the Bolan Pass.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications--01-network-pattern.webp" width="900" height="678" alt="A schematic line, not a map, of the main road and railway corridor running north-east to south-west along the Indus valley through Peshawar, Lahore, Multan, Hyderabad and Karachi. Cards describe the densest network on the Indus Plain, sparse routes in Balochistan, the deserts and the north, and air links to remote towns. A note lists key routes." loading="lazy">
+  <figcaption>Describe the pattern as linear, dense or sparse, and locate it by province and river.</figcaption>
+</figure>
+
 ## What helps and hinders transport?
 
 | Factor | Helps | Hinders |
@@ -87,6 +92,11 @@ line to Quetta through the Bolan Pass.
 
 Maintenance is part of the syllabus too: overloaded lorries break road surfaces, floods destroy
 embankments, and old track and locomotives slow the railways.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications--02-helps-and-hinders.webp" width="900" height="758" alt="A table of seven factors with how each helps and hinders transport: relief, rivers, climate, ground, population and economy, finance and security. A note covers maintenance problems such as overloaded lorries, floods and old railway stock." loading="lazy">
+  <figcaption>The same factor can help in one region and hinder in another.</figcaption>
+</figure>
 
 ## Recent improvements and feasibility
 
@@ -103,6 +113,11 @@ embankments, and old track and locomotives slow the railways.
 whether there is enough traffic; the physical difficulty of the land; the effect on the environment
 and on people who lose land; and whether it can be maintained.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications--03-improvements-feasibility.webp" width="900" height="668" alt="A timeline of improvements: the M-2 motorway in the 1990s followed by other motorways, the Karakoram Highway realigned after the 2010 Attabad landslide, Islamabad International Airport in 2018, urban bus and metro schemes, and a planned main railway upgrade. Below, five feasibility questions." loading="lazy">
+  <figcaption>Feasibility asks whether a scheme is practical and worth it.</figcaption>
+</figure>
+
 ## Road, rail or air? Choosing for a purpose
 
 | Task | Best choice | Reason |
@@ -112,6 +127,11 @@ and on people who lose land; and whether it can be maintained.
 | Business trip from Karachi to Islamabad | Air | Saves a long journey; time matters more than cost |
 | Supplies to a mountain village | Road (jeep) | Only option on narrow tracks |
 | Passengers to Skardu | Air, weather permitting | Avoids a long, difficult road journey |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications--04-road-rail-air.webp" width="900" height="555" alt="Five transport tasks matched to the best mode: road for fresh mangoes from Multan to Lahore, rail for bulk coal or cement, air for a business trip from Karachi to Islamabad, a jeep road for a mountain village, and air to Skardu when the weather allows." loading="lazy">
+  <figcaption>The best mode depends on the goods, the distance and how urgent the journey is.</figcaption>
+</figure>
 
 ## Evaluating motorway and airport development
 
@@ -124,6 +144,11 @@ not spent on rural roads or railways.
 
 A strong answer reaches a judgement, for example: motorways have boosted trade between the large
 cities, but improving the railways would move bulky goods more cheaply and with less pollution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications--05-evaluating-motorways.webp" width="900" height="684" alt="A balance of the benefits of motorway and airport development, such as faster journeys, lower costs, industry and jobs, against costs such as debt, lost farmland, tolls, uneven benefits and pollution. The judgement weighs motorways against improving the railways." loading="lazy">
+  <figcaption>A strong evaluation reaches a judgement, not a one-sided list.</figcaption>
+</figure>
 
 ## International transport
 
@@ -160,6 +185,16 @@ paperwork near their factories, reduce theft and damage, and cut costs for inlan
 and Sialkot. Airports need large areas of flat land, a site clear of high buildings and hills, good
 weather, road links and enough demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-trade-transport-and-telecommunications--06-international-routes.webp" width="900" height="773" alt="A schematic with Pakistan at the centre. Roads run to China over the Khunjerab Pass on the Karakoram Highway, to Afghanistan through the Khyber Pass at Torkham and via Chaman, to Iran via Taftan (also by rail from Quetta) and to India at Wagah. The seaports of Keamari, Port Qasim and Gwadar face the Arabian Sea." loading="lazy">
+  <figcaption>Each neighbour is reached through a named crossing; three seaports face the Arabian Sea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-trade-transport-and-telecommunications--07-dry-port.webp" width="900" height="405" alt="A chain from an inland factory to a dry port such as Lahore or Faisalabad, where goods are cleared through customs and loaded into containers, then travel sealed by rail or road to the seaport. Dry ports save time, reduce congestion at Karachi and help exporters in inland industrial cities." loading="lazy">
+  <figcaption>A dry port brings customs clearance to inland cities.</figcaption>
+</figure>
+
 ## Telecommunications
 
 | Field | How telecommunications help |
@@ -176,6 +211,11 @@ damage from floods; insecurity in some regions.
 **Evaluating their role in development:** they lower costs, create jobs in information technology
 and spread education and information; but the gap between connected cities and poorly served rural
 areas can widen inequality, and they cannot replace roads for moving goods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications--06-telecommunications.webp" width="900" height="666" alt="How telecommunications help education, industry, services and trade, with examples such as the Allama Iqbal Open University and mobile banking. Below, problems of providing them, such as mountains, scattered villages and power cuts, and an evaluation of their role in development." loading="lazy">
+  <figcaption>Say how each type of telecommunication helps a named field.</figcaption>
+</figure>
 
 ## Worked example
 

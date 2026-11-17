@@ -55,6 +55,11 @@ Dalia runs a hotel and needs new chairs.
 
 The delivery note and invoice can arrive in either order; some sellers send the invoice with the goods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commercial-operations--19-co-documents.webp" width="900" height="900" alt="Eight documents between buyer and seller: enquiry, quotation, order, delivery note, invoice after delivery, credit note if goods are returned, statement of account and receipt." loading="lazy">
+  <figcaption>The eight home-trade documents in a typical order.</figcaption>
+</figure>
+
 ## Worked example: the figures on the documents (invented figures)
 
 **Invoice**
@@ -79,6 +84,11 @@ The balance owed is **$648.00**. If Dalia pays within 14 days and takes the 5% c
 
 Points examiners test: the **trade discount** is deducted on the invoice because Dalia is buying as a business; the **cash discount** is only taken if she pays quickly; the credit note value must also have the trade discount removed, because she was never charged the full $45.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trading-documents--01-dalia-money-trail.webp" width="900" height="790" alt="Four document cards. Invoice: 20 chairs at $45 = $900, less 20% trade discount of $180, total $720. Credit note: 2 chairs = $90 less $18, value $72. Statement: 720 − 72 leaves $648 owed. Paying within 14 days: 5% cash discount of $32.40, so Dalia pays $615.60." loading="lazy">
+  <figcaption>Take off trade discount first, then cash discount only if payment is made in time (invented figures).</figcaption>
+</figure>
+
 ## What are the documents of international trade? (2.5.2)
 
 Exporting adds distance, customs and the risk of not being paid, so four more documents are named.
@@ -91,6 +101,16 @@ Exporting adds distance, customs and the risk of not being paid, so four more do
 | Documentary credit (letter of credit) | A promise by the importer's bank to pay the exporter once the exporter presents the agreed documents, such as the bill of lading | Reduces the risk of non-payment: the exporter relies on a bank, not only on an unknown buyer abroad |
 
 **Bill of lading versus air waybill**: both prove the carrier received the goods, but only the bill of lading is a document of title. That difference matters because sea journeys are long and goods may be sold while still at sea.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trading-documents--02-international-documents.webp" width="900" height="705" alt="Four cards: the certificate of origin states where goods were made for customs; the bill of lading is a receipt, contract evidence and document of title for sea freight; the air waybill is a receipt and contract evidence for air freight but not a document of title; documentary credit is a bank’s promise to pay the exporter." loading="lazy">
+  <figcaption>Both carriage documents prove the goods were received, but only the bill of lading is a document of title.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trading-documents--03-documentary-credit.webp" width="900" height="700" alt="Four lanes: exporter, shipping company, importer’s bank and importer. The bank promises to pay; the exporter ships the goods and receives a bill of lading; the exporter presents the documents and the bank pays; the bill of lading passes to the buyer, who claims the goods at the port." loading="lazy">
+  <figcaption>Payment depends on presenting the agreed documents, so the risk of non-payment falls.</figcaption>
+</figure>
 
 ## How does the online ordering process work? (2.5.3)
 
@@ -106,6 +126,11 @@ The syllabus asks for the stages **from buyer browsing website to receiving orde
 8. **Receive the order**, sometimes with an electronic proof of delivery.
 
 Each stage replaces a paper document. The basket and checkout replace the order; the confirmation email replaces the receipt; tracking and electronic proof of delivery replace the signed delivery note.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trading-documents--04-online-ordering.webp" width="900" height="665" alt="Eight numbered stages: browse, select into a basket, log in or check out as a guest, enter delivery details, pay securely, receive an order confirmation, receive dispatch notification with tracking, and receive the order. The basket replaces the paper order, the confirmation replaces the receipt and tracking replaces the delivery note." loading="lazy">
+  <figcaption>Online ordering follows the same steps as paper trading, with electronic records instead of documents.</figcaption>
+</figure>
 
 ## Which digital technology is used in trading documents? (2.5.3)
 

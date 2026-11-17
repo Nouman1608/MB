@@ -49,6 +49,11 @@ The syllabus names six causes. Learn each with its mechanism, the reason the tre
 
 Several causes often act together: a mining company builds a road, the road brings settlers, and settlers clear land for farming. Linking causes like this is a strong way to answer an "explain" question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-forest-ecosystems--01-causes-map.webp" width="900" height="754" alt="Schematic map of a forest. A road brings a settlement and a fishbone of farm clearings; a logging track, a commercial plantation, a small subsistence plot, a mine with waste tips and a reservoir behind an HEP dam each remove forest. A note adds climate change through drought and wildfire." loading="lazy">
+  <figcaption>Causes link up: a road opens the forest to logging, farming and settlement.</figcaption>
+</figure>
+
 ## Impacts of deforestation (5.2.2)
 
 The syllabus lists seven impacts. Each one should be explained, not just named.
@@ -61,9 +66,19 @@ The syllabus lists seven impacts. Each one should be explained, not just named.
 - **Changes to rainfall patterns.** Forests return large amounts of water vapour to the air by transpiration, and this vapour forms clouds and rain further inland. Remove the trees and less moisture is recycled, so local rainfall can fall and dry seasons lengthen.
 - **Genetic depletion.** As populations shrink and species disappear, the variety of genes in the forest falls. This removes material that could be used to breed crops, develop medicines or help species adapt to change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-forest-ecosystems--02-impact-chains.webp" width="900" height="630" alt="Four chains from deforestation. Habitat loss leads to loss of biodiversity and genetic depletion. Less interception and bare soil lead to soil erosion and desertification, then silting and flooding. Less transpiration means less water vapour recycled and changes to rainfall. Burning or rotting trees release carbon dioxide, causing global warming." loading="lazy">
+  <figcaption>Explain each impact as a chain, not as a single word.</figcaption>
+</figure>
+
 ## Defining sustainable management (5.2.3)
 
 Learn the syllabus definition word for word: sustainable management of forests means **balancing the needs of the environment, wildlife and humans while conserving forests for future generations.** A definition question will reward all three groups (environment, wildlife, humans) plus the idea of future generations. Leaving out humans is the most common slip, because it turns sustainable management into simple preservation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-forest-ecosystems--03-sustainable-management.webp" width="900" height="670" alt="Three circles, environment, wildlife and humans, joined in a triangle labelled balance, with an arrow towards future generations. Below is the syllabus definition of sustainable management of forests." loading="lazy">
+  <figcaption>All three groups, plus future generations: leave one out and the definition fails.</figcaption>
+</figure>
 
 ## Why forests need sustainable management (5.2.4)
 
@@ -79,6 +94,11 @@ These seven reasons are the services a forest provides. If a question asks why f
 
 Notice that several reasons are the reverse of the impacts in 5.2.2: forests prevent erosion, control floods and regulate climate, and deforestation removes those services. Seeing this link lets you reuse your knowledge in both directions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-forest-ecosystems--04-forest-water-cycle.webp" width="900" height="706" alt="Two slopes side by side. In the forest, leaves intercept rain, roots take up water, trees transpire and water soaks into the soil, so there is little run-off. On cleared land with only stumps, rain hits bare soil and much more runs off quickly to rivers, washing topsoil away." loading="lazy">
+  <figcaption>Interception, uptake, transpiration and less run-off: the forest services that clearance removes.</figcaption>
+</figure>
+
 ## Worked example 1: rate of forest loss
 
 The figures below are invented for practice. A forest reserve covered 5,400 km² in one survey and 4,860 km² in a survey six years later.
@@ -89,6 +109,11 @@ The figures below are invented for practice. A forest reserve covered 5,400 km²
 4. If that rate continued, the remaining 4,860 km² would last 4,860 ÷ 90 = 54 more years.
 
 State the assumption in step 4: the rate stays constant, which is unlikely, because clearance often speeds up once roads reach a forest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-forest-ecosystems--05-rate-of-loss.webp" width="900" height="625" alt="Graph of forest area: 5,400 km² at the first survey and 4,860 km² six years later, a loss of 540 km² or 10%, at 90 km² a year. A dashed line extends the trend to zero after 54 more years, marked as an assumption." loading="lazy">
+  <figcaption>Loss, percentage and rate: then state the assumption behind any projection.</figcaption>
+</figure>
 
 ## Worked example 2: annotated model answer
 

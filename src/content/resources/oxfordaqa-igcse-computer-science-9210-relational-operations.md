@@ -48,6 +48,11 @@ uses to choose a branch and what a `WHILE` or `REPEAT...UNTIL` uses to decide wh
 The middle column is the one to study: when the two values are **equal**, only `=`, `≤` and `≥` give True. Most
 errors with relational operators happen exactly at that point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--01-relational-truth-grid.webp" width="900" height="652" alt="A grid of the six relational operators applied to 7 and 7, 5 and 9, and 9 and 5. For equal values only =, ≤ and ≥ are True. For 5 and 9, ≠, &lt; and ≤ are True; for 9 and 5, ≠, > and ≥ are True." loading="lazy">
+  <figcaption>Each comparison gives True or False; the equal case is where the operators differ most.</figcaption>
+</figure>
+
 ## The same operators in different languages
 
 | Exam symbol | Python | C# | Visual Basic |
@@ -80,6 +85,11 @@ boundary value is included are the ones to underline:
 When a requirement could be read two ways, such as "between 1 and 10", state your interpretation (inclusive or
 not) in your answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--02-words-to-operators.webp" width="900" height="710" alt="Six phrases and their conditions on a number line around 50. &quot;At least 50&quot; is mark ≥ 50 and &quot;no more than 50&quot; is mark ≤ 50, both including 50. &quot;More than 50&quot; is mark > 50 and &quot;less than 50&quot; is mark &lt; 50, both excluding 50. &quot;Exactly 50&quot; is mark = 50 and &quot;anything except 50&quot; is mark ≠ 50." loading="lazy">
+  <figcaption>The boundary words decide whether 50 itself is included.</figcaption>
+</figure>
+
 ## Opposite operators
 
 Every relational operator has an opposite that is True exactly when it is False:
@@ -94,6 +104,11 @@ You need these when converting a `WHILE` loop into a `REPEAT...UNTIL` loop. `WHI
 the condition is true; the matching end-condition loop stops when the opposite becomes true, so it is
 `UNTIL count ≥ 10`. A frequent mistake is to pair `<` with `>`, which leaves out the equal case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--03-opposite-operators.webp" width="900" height="656" alt="Number lines split at 10. count &lt; 10 covers everything below 10 and its opposite count ≥ 10 covers 10 and above; count ≤ 10 and count > 10 split the line the other way. count = 10 is the opposite of count ≠ 10. So WHILE count &lt; 10 becomes UNTIL count ≥ 10, not UNTIL count > 10." loading="lazy">
+  <figcaption>Opposites split the line with no gap: &lt; with ≥, > with ≤, = with ≠.</figcaption>
+</figure>
+
 ## Comparing strings and other types
 
 Relational operators work on any values of the same type, not only numbers. `password = "Kestrel42"` compares
@@ -102,6 +117,11 @@ why a menu program that expects `"Y"` will not accept `"y"` unless the condition
 operator, covered in the [Boolean operations study
 guide](/resources/oxfordaqa-igcse-computer-science-9210-boolean-operations/)). Comparing a string such as `"12"`
 with the integer `12` is a type mismatch: convert first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--04-string-comparison-case.webp" width="900" height="651" alt="The strings &quot;yes&quot; and &quot;Yes&quot; are compared character by character; the first characters differ in case, so &quot;yes&quot; = &quot;Yes&quot; is False, while &quot;yes&quot; = &quot;yes&quot; is True. A menu expecting &quot;Y&quot; will not accept &quot;y&quot; unless the condition allows both, and &quot;12&quot; must be converted before it is compared with the integer 12." loading="lazy">
+  <figcaption>String comparison checks every character, including case.</figcaption>
+</figure>
 
 ## Worked example: choosing a band from a value
 
@@ -130,6 +150,11 @@ reaches it has already failed `time < 20`. The trace includes the values **20** 
 the boundaries; they show whether `<` or `≤` was the right choice. If the club's rule were "20 minutes or under is
 Fast", the first test should be `time ≤ 20`, and a time of exactly 20 would move group.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--05-band-boundaries.webp" width="900" height="788" alt="An IF … ELSE IF chain puts times under 20 in Fast, times from 20 up to under 30 in Steady, and 30 or more in Starter. On a number line the boundaries are at 20 and 30. A trace of 18, 20, 29 and 30 gives Fast, Steady, Steady and Starter; 20 and 30 are the boundary values." loading="lazy">
+  <figcaption>Tests run in order, and boundary values reveal whether &lt; or ≤ was the right choice.</figcaption>
+</figure>
+
 ## Worked example: counting loop boundaries
 
 ```
@@ -143,6 +168,11 @@ ENDWHILE
 This outputs `0, 1, 2, 3, 4`: five values. Changing `<` to `≤` outputs `0, 1, 2, 3, 4, 5`: six values. One
 symbol changes the number of repetitions, which is why "how many times does this loop run?" questions are really
 relational-operator questions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--06-loop-boundary.webp" width="900" height="640" alt="Two WHILE loops start count at 0 and output it before adding 1. With WHILE count &lt; 5 the output is 0, 1, 2, 3, 4: five values. With WHILE count ≤ 5 the output is 0, 1, 2, 3, 4, 5: six values." loading="lazy">
+  <figcaption>Changing &lt; to ≤ adds one more pass of the loop.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -52,6 +52,11 @@ second, giving a steady total force. **Pressure is that force divided by the are
 Because the motion is random, collisions happen at the same rate on every wall, so the pressure is the same on all of
 them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-ideal-gas-molecules--01-gas-pressure-from-collisions.webp" width="900" height="610" alt="Gas molecules moving randomly in a box. One molecule bounces off the right-hand wall and pushes on it with a force. Huge numbers of collisions every second give a steady force, and pressure is that force divided by the wall area." loading="lazy">
+  <figcaption>Pressure = the total force of molecules hitting a wall ÷ the area of the wall.</figcaption>
+</figure>
+
 ## Temperature and molecular speed (5.18, 5.19)
 
 Heating a gas transfers energy to the kinetic store of its molecules, so they move faster on average. The molecules
@@ -65,6 +70,11 @@ average kinetic energy of molecules ∝ T (in kelvin)
 
 So heating a gas from 300 K to 600 K doubles the average kinetic energy of its molecules. Heating it from 20 °C to
 40 °C does **not** double it: in kelvin that is 293 K to 313 K, an increase of only about 7%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-and-gases--07-absolute-zero-ke.webp" width="900" height="840" alt="Boxes of particles at 0 K, 273 K and 373 K with bars showing mean kinetic energy proportional to Kelvin temperature." loading="lazy">
+  <figcaption>Absolute zero is the temperature of minimum kinetic energy.</figcaption>
+</figure>
 
 ## Absolute zero and the Kelvin scale (5.16, 5.17)
 
@@ -97,6 +107,16 @@ T (K) = θ (°C) + 273          θ (°C) = T (K) − 273
 | Room temperature (typical) | 20 | 293 |
 | Water boils | 100 | 373 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-ideal-gas-molecules--02-finding-absolute-zero.webp" width="900" height="705" alt="Pressure against temperature in °C for a sealed flask: 100 kPa at 0 °C and 136.6 kPa at 100 °C. Extending the straight line back reaches zero pressure at −273 °C. The pressure rises 0.366 kPa per °C, and 100 ÷ 0.366 = 273." loading="lazy">
+  <figcaption>Extend the pressure–temperature line back to zero pressure: it always meets −273 °C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-ideal-gas-molecules--03-kelvin-and-celsius.webp" width="900" height="705" alt="Two scales side by side: absolute zero is −273 °C and 0 K, water freezes at 0 °C and 273 K, room temperature is about 20 °C or 293 K, and water boils at 100 °C or 373 K." loading="lazy">
+  <figcaption>Add 273 to change °C to K; the steps are the same size.</figcaption>
+</figure>
+
 ## Pressure and volume at constant temperature (5.20, 5.22)
 
 If a fixed mass of gas is squashed into a smaller volume without changing its temperature:
@@ -122,6 +142,11 @@ is pushed in slowly (so the temperature stays constant) until the volume is 50 c
 p₂ = p₁V₁ / V₂ = 100 × 150 / 50 = 300 kPa
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-ideal-gas-molecules--04-compressing-at-constant-temperature.webp" width="900" height="660" alt="A bicycle pump with 150 cm³ of air at 100 kPa is pushed in slowly to 50 cm³; the molecules hit the walls more often and the pressure becomes 100 × 150 ÷ 50 = 300 kPa. A graph of p against V is a curve that gets less steep as V increases." loading="lazy">
+  <figcaption>One third of the volume, three times the pressure: p₁V₁ = p₂V₂.</figcaption>
+</figure>
+
 ## Pressure and temperature at constant volume (5.20, 5.21)
 
 If a fixed mass of gas in a rigid container is heated:
@@ -144,6 +169,11 @@ T₁ = 7 + 273 = 280 K        T₂ = 37 + 273 = 310 K
 p₂ = p₁ × T₂ / T₁ = 2.4 × 10⁵ × 310 / 280 = 2.7 × 10⁵ Pa (2 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-ideal-gas-molecules--05-heating-at-constant-volume.webp" width="900" height="625" alt="Two identical boxes of gas; in the hotter one the molecules move faster, so they hit the walls more often and harder and the pressure rises. Worked example: a tyre at 2.4 × 10⁵ Pa and 280 K heated to 310 K reaches 2.7 × 10⁵ Pa." loading="lazy">
+  <figcaption>Hotter means more frequent and harder collisions; use kelvin in p₁/T₁ = p₂/T₂.</figcaption>
+</figure>
+
 ## Combining with pressure in liquids
 
 Gas-law questions can link to `p = h × ρ × g` from sub-topic 5(b).
@@ -159,6 +189,11 @@ V₂ = 6.0 cm³
 ```
 
 The bubble triples in volume as it rises, because the pressure on it falls to a third.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-ideal-gas-molecules--06-rising-bubble.webp" width="900" height="600" alt="A 2.0 cm³ bubble released 20 m deep in fresh water, where the total pressure is 3.0 × 10⁵ Pa, rises to the surface at 1.0 × 10⁵ Pa. With p₁V₁ = p₂V₂ its volume becomes 6.0 cm³." loading="lazy">
+  <figcaption>Total pressure falls to a third, so the volume triples.</figcaption>
+</figure>
 
 ## Common mistakes
 

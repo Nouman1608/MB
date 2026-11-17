@@ -44,6 +44,11 @@ For the whole of Topic 1 in one place, see the [Commerce and Production overview
 
 The difference examiners look for is one of **scope**: all trade is part of commerce, but not all commerce is trade. A bank that lends a shopkeeper money to buy stock is part of commerce, yet the bank is not buying or selling the rice. A precise answer states the relationship in one sentence: *commerce = trade + aids to trade*.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trade-and-commerce--01-commerce-tree.webp" width="900" height="665" alt="A tree. Commerce splits into trade and aids to trade. Trade divides into home trade (wholesale and retail) and international trade (exports and imports). The six aids to trade are communications, transport, warehousing, advertising, banking and insurance." loading="lazy">
+  <figcaption>Commerce is wider than trade: it adds the services that make trade possible.</figcaption>
+</figure>
+
 ## Home trade and international trade
 
 **Home trade** (domestic trade) is buying and selling within one country. The syllabus names its two branches:
@@ -57,6 +62,11 @@ The difference examiners look for is one of **scope**: all trade is part of comm
 - **Imports** are goods and services bought from sellers in other countries. Money flows *out* of the importing country.
 
 A frequent slip is to define an export by the direction the goods travel but forget the money: a textile firm in Pakistan selling towels to a buyer in Germany is exporting, and Pakistan earns foreign currency from the sale. The same transaction is an import for Germany. Services count too: a tourist from abroad paying for a hotel stay is buying an exported service, even though nothing is shipped.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trade-and-commerce--02-exports-imports.webp" width="900" height="585" alt="A textile firm in Pakistan sells towels to a buyer in Germany. Towels go one way and money comes back, so the sale is an export for Pakistan and an import for Germany. A foreign tourist paying for a hotel stay is buying an exported service." loading="lazy">
+  <figcaption>One transaction is an export for the seller’s country and an import for the buyer’s.</figcaption>
+</figure>
 
 ## Aids to trade
 
@@ -73,6 +83,11 @@ A frequent slip is to define an export by the direction the goods travel but for
 
 Linking each aid to the barrier it removes is what turns a list into an explanation. Topic 5 covers advertising, banking and insurance in depth; transport and warehousing return in Topic 4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trade-and-commerce--03-aids-remove-barriers.webp" width="900" height="635" alt="Between producer and consumer stand six barriers, each removed by one aid to trade: no contact by communications, distance by transport, timing by warehousing, lack of awareness by advertising, payment and finance by banking, and fear of loss by insurance." loading="lazy">
+  <figcaption>Link each aid to the barrier it removes to turn a list into an explanation.</figcaption>
+</figure>
+
 ## Logistics and its three elements
 
 **Logistics** is the planning and management of the movement and storage of goods through a supply chain, so that the right goods arrive in the right place, at the right time and at the lowest reasonable cost.
@@ -84,6 +99,11 @@ The syllabus names three elements of logistics in a supply chain:
 3. **Warehousing**: storing goods safely until they are needed, and often sorting, packing and dispatching them.
 
 Notice the overlap: transport and warehousing are both aids to trade *and* elements of logistics. Logistics is the joined-up management of them, not a seventh aid to trade.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trade-and-commerce--04-logistics-elements.webp" width="900" height="645" alt="The three elements of logistics: transport, freight forwarders and warehousing. A freight forwarder books space with carriers, combines small loads, prepares shipping documents and arranges customs clearance, often using other firms’ vehicles." loading="lazy">
+  <figcaption>Logistics manages transport, freight forwarding and warehousing together.</figcaption>
+</figure>
 
 ## The four types of commerce
 
@@ -99,6 +119,11 @@ The syllabus defines each type by **where or how** the buying and selling happen
 Mcommerce and scommerce are both forms of ecommerce, because they also take place over the internet. In an exam, choose the most specific term the evidence supports. If a case study says customers "browse the seller's posts and buy without leaving the app", that is scommerce. If it says "customers use the store's own smartphone app", that is mcommerce. If it only says "orders are placed online", ecommerce is the safe answer.
 
 Many businesses use more than one type: a furniture shop may sell in its showroom (traditional), on its website (ecommerce) and through a social media shop (scommerce).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trade-and-commerce--05-types-of-commerce.webp" width="900" height="690" alt="Four checks on the evidence: a physical location means traditional commerce; buying through social media posts or messages means scommerce; using a mobile device such as the store’s own app means mcommerce; only “placed online” means ecommerce. Each has an example." loading="lazy">
+  <figcaption>Choose the most specific term that the evidence in the case supports.</figcaption>
+</figure>
 
 ## How production, trade and commerce depend on each other
 
@@ -118,6 +143,11 @@ This interdependence grows with **specialisation**: when producers concentrate o
 > A mango farm produces fruit, which is primary production (1). The farm cannot use thousands of mangoes itself, so it needs trade: it sells them to a wholesaler, who sells to retailers and consumers (1). This trade depends on aids to trade, for example refrigerated transport to carry the fruit to cities before it spoils, and insurance against loss in transit (1). In turn, wholesalers and retailers depend on the farm for supplies, so if the harvest fails, trade and the commercial services linked to it fall as well (1).
 
 Why it scores: each sentence makes a separate link (production needs trade; trade needs aids; trade needs production) and every point is applied to mangoes rather than stated in general terms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trade-and-commerce--06-mango-farm-interdependence.webp" width="900" height="600" alt="Four linked steps, one mark each: the farm produces mangoes; it needs trade to sell them through wholesalers and retailers; trade needs aids such as refrigerated transport and insurance; and traders depend on the farm, so a failed harvest hits trade and commercial services." loading="lazy">
+  <figcaption>Each sentence makes a separate link, applied to the mango farm.</figcaption>
+</figure>
 
 ## Common mistakes
 

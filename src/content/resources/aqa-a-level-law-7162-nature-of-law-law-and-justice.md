@@ -46,6 +46,16 @@ English law protects procedural fairness through two rules of **natural justice*
 - **No one should be a judge in their own cause.** In *Dimes v Grand Junction Canal* (1852) a decision of the Lord Chancellor was set aside because he held shares in the canal company that was a party. In *R v Bow Street Magistrate, ex p Pinochet (No 2)* (1999) the House of Lords set aside its own earlier decision because Lord Hoffmann had links to Amnesty International, which had intervened in the case.
 - **Both sides must be heard.** In *Ridge v Baldwin* (1964) a chief constable's dismissal was void because he had not been told the case against him or given a chance to answer it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-justice--01-types-of-justice.webp" width="900" height="680" alt="Five kinds of justice, each with its question and a legal example: formal (like cases alike; precedent), substantive (fair content and outcome; the mandatory life sentence in a mercy killing), procedural (fair process; jury trial), distributive (fair sharing; taxation and legal aid) and corrective (putting a wrong right; compensatory damages). Formal and substantive justice can conflict." loading="lazy">
+  <figcaption>Name the kind of justice before judging whether the law achieves it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-justice--02-natural-justice.webp" width="900" height="489" alt="Two rules of natural justice. No one should be a judge in their own cause: Dimes v Grand Junction Canal (shareholding Lord Chancellor) and ex p Pinochet (No 2) (Lord Hoffmann’s links to Amnesty International). Both sides must be heard: Ridge v Baldwin (a chief constable dismissed without hearing the case against him)." loading="lazy">
+  <figcaption>An impartial decision-maker and a chance to answer the case.</figcaption>
+</figure>
+
 ## Theories of justice
 
 Learn each theory as **core idea + what it implies for law + a weakness**.
@@ -56,6 +66,11 @@ Learn each theory as **core idea + what it implies for law + a weakness**.
 - **Karl Marx**: in a capitalist society law serves the interests of the property-owning class; a just society would distribute "from each according to his ability, to each according to his needs". *For law:* invites criticism of rules that protect property over people. *Weakness:* offers little guidance for law in existing societies.
 - **John Rawls**: principles of justice are those people would choose behind a **veil of ignorance**, not knowing their position in society; inequalities are acceptable only if they benefit the least advantaged. *For law:* supports legal aid and protection for minorities. *Weakness:* critics question whether people behind the veil would really choose his principles.
 - **Robert Nozick**: justice lies in respecting **entitlements**: property acquired and transferred fairly belongs to its owner, so redistribution is unjust. *For law:* supports property and contract rights and limits on state taxation. *Weakness:* it can leave serious need unaddressed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-justice--03-theories-of-justice.webp" width="900" height="652" alt="A table of six theories with core idea, implication for law and weakness: Aristotle (distributive and corrective justice), Bentham and Mill (greatest happiness), Perelman (formal justice by category), Marx (law serves the property-owning class), Rawls (veil of ignorance) and Nozick (entitlements)." loading="lazy">
+  <figcaption>Learn each theory as core idea, link to law, and a weakness.</figcaption>
+</figure>
 
 ## The extent to which the law achieves justice
 
@@ -90,6 +105,16 @@ A good answer weighs evidence on both sides, in civil and/or criminal law, and r
 - **Legal aid cuts** under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 removed most civil areas from scope, increasing litigants in person.
 - **Fault requirements** leave some victims uncompensated where no one was negligent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-justice--04-criminal-law-justice.webp" width="900" height="532" alt="Two columns for criminal law. Achieves justice: the criminal standard of proof, jury trial, appeals and the Criminal Cases Review Commission, grading by fault, and retrial on new evidence (Gary Dobson). Fails: miscarriages (Guildford Four, Sally Clark, Andrew Malkinson), the mandatory life sentence, strict liability and legal aid reductions. Below, a wrongful conviction passes through review and appeal to be quashed." loading="lazy">
+  <figcaption>Strong on procedure; weaker on substance; with mechanisms to correct its own errors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-justice--05-civil-law-justice.webp" width="900" height="426" alt="Two columns for civil law. Achieves justice: corrective damages, flexible remedies such as injunctions, judicial development in Donoghue v Stevenson, and the Woolf reforms leading to the Civil Procedure Rules 1998. Fails: cost and delay, inequality of arms, legal aid cuts under LASPO 2012, and fault requirements leaving some victims uncompensated." loading="lazy">
+  <figcaption>Civil law’s remedies are just in principle; cost and access undermine them in practice.</figcaption>
+</figure>
+
 ## Worked example: a conclusion paragraph
 
 **Question:** Discuss the extent to which criminal law achieves justice.
@@ -97,6 +122,11 @@ A good answer weighs evidence on both sides, in civil and/or criminal law, and r
 > Overall, criminal law achieves a high degree of procedural justice through the standard of proof, jury trial and the right of appeal, and it achieves formal justice by grading offences according to fault. Its failures are real: cases such as Sally Clark and Andrew Malkinson show that procedural safeguards do not always prevent wrongful conviction, and rules such as the mandatory life sentence can produce substantively unjust outcomes. However, the existence of the Criminal Cases Review Commission and the eventual quashing of these convictions shows that the system contains mechanisms to correct injustice, even if too slowly. The law therefore achieves justice to a considerable but incomplete extent, with substantive justice the weakest dimension.
 
 The conclusion uses the **types** of justice to organise the judgement, refers back to evidence, and answers "extent" directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-justice--06-conclusion-by-type.webp" width="900" height="638" alt="The worked conclusion organised by kind of justice: procedural justice is strong (standard of proof, juries, appeals), formal justice is strong (grading by fault), correcting errors is partial (the Criminal Cases Review Commission works, but slowly) and substantive justice is weakest (Sally Clark, Malkinson, the mandatory life sentence). The judgement: considerable but incomplete." loading="lazy">
+  <figcaption>Use the kinds of justice to say how far, and in which sense, the law succeeds.</figcaption>
+</figure>
 
 ## Common mistakes
 

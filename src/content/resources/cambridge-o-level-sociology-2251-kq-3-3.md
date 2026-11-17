@@ -92,6 +92,16 @@ as taking jobs, lowering wages or increasing crime, and become scapegoats during
 Media coverage can amplify these fears. Negative perceptions feed discrimination in housing and work,
 reproducing inequality inside the receiving society as well.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-3--01-push-pull-obstacles.webp" width="900" height="524" alt="Everett Lee’s model: push factors in the place of origin, such as unemployment, conflict and environmental disaster, and pull factors in the destination, such as jobs, safety and family, are filtered by intervening obstacles: cost, distance, visas and family ties." loading="lazy">
+  <figcaption>Migration needs money and contacts, so the poorest often cannot move.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-3--02-migration-two-societies.webp" width="900" height="518" alt="Two columns. For receiving societies, migration fills labour shortages, adds taxes, businesses and diversity, but migrants may be in low-paid work and face negative perceptions. For sending societies, remittances support families, but the brain drain of doctors, nurses and engineers weakens services." loading="lazy">
+  <figcaption>Show both effects, for both societies.</figcaption>
+</figure>
+
 ## Global ecological issues
 
 ### Transnational companies
@@ -132,6 +142,16 @@ fastest in lower-income countries, driven by rural poverty and the pull of urban
 opportunities, but rapid growth often outpaces housing and services, producing large informal
 settlements such as Dharavi in Mumbai, with crowded housing and limited sanitation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-3--03-tnc-profits-and-risks.webp" width="900" height="522" alt="A transnational company sends profits to shareholders in richer countries while environmental and human costs fall on communities in poorer countries with low wages and weak regulation. It also brings jobs, investment and technology. Examples: the Bhopal gas leak in India (1984) and oil spills in the Niger Delta." loading="lazy">
+  <figcaption>Profits flow to the powerful; risks fall on those least able to resist.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-3--04-ecological-issues.webp" width="900" height="632" alt="Three ecological issues with why they fall unequally and an example: climate change hits poorer countries hardest, as rising seas threaten Tuvalu and the Maldives; pollution concentrates where regulation is weak, as at Agbogbloshie in Ghana; urbanisation outpaces housing, as in Dharavi, Mumbai." loading="lazy">
+  <figcaption>Each issue hurts most where people have least power and money to respond.</figcaption>
+</figure>
+
 ## Explaining global inequality
 
 ### Marxist views of capitalist exploitation
@@ -164,6 +184,16 @@ they are seen as cheap and compliant. Arlie Hochschild (2000) described **global
 women from poorer countries migrate to care for children in richer ones, while their own children are
 cared for by relatives or lower-paid workers at home.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-3--05-world-systems.webp" width="900" height="600" alt="Wallerstein’s world-systems theory shown as rings: a wealthy core, a semi-periphery and a periphery supplying cheap labour and raw materials, with wealth flowing inwards. Frank’s dependency theory says rich metropolis nations developed by exploiting poor satellite nations." loading="lazy">
+  <figcaption>For Marxists, global inequality is what capitalism produces when it spreads worldwide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-3--06-colonialism-and-feminism.webp" width="900" height="438" alt="Colonialism: European colonies, including the carving up of Africa agreed in Berlin in 1884–1885, were organised to export raw materials, undermining local industry, and debts and trade patterns continue. Feminism: women do unpaid work but own little land, export factories rely on low-paid young women, and Hochschild describes global care chains." loading="lazy">
+  <figcaption>Name the explanation, then explain its lasting mechanism.</figcaption>
+</figure>
+
 ## Worked example: an evaluation plan (practice)
 
 *Evaluate the view that transnational companies increase inequalities between societies.*
@@ -176,6 +206,11 @@ cared for by relatives or lower-paid workers at home.
   colonial history, conflict and climate.
 - **Judgement:** TNCs bring benefits, but the terms on which they operate tend to favour richer
   societies, so they more often widen than narrow global gaps.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-3--07-evaluate-tncs.webp" width="900" height="701" alt="A balance weighing arguments that transnational companies increase global inequality, such as profits flowing to richer countries, Bhopal and Marxist and feminist views, against arguments that they create jobs, transfer technology and that inequality has other causes. It tips towards the view that they more often widen gaps." loading="lazy">
+  <figcaption>Weigh the benefits of TNCs against the terms they operate on.</figcaption>
+</figure>
 
 ## Common mistakes
 

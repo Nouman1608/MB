@@ -35,6 +35,11 @@ Compensatory damages aim to put the claimant, so far as money can, in the positi
 
 Damages are usually paid as a **lump sum**, once and for all. The claimant cannot return to court because their condition turns out worse than expected, except under the arrangements below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--01-tort-looks-backwards.webp" width="900" height="651" alt="A timeline with three points: before the tort, the tort, and the position if a contract had been performed. Tort damages look back to the claimant’s position before the tort (Livingstone v Rawyards Coal Co); contract damages look forward to the position if the contract had been performed. Damages are usually one lump sum." loading="lazy">
+  <figcaption>Tort damages restore the position before the wrong; contract damages look forward.</figcaption>
+</figure>
+
 ## Damages for physical injury
 
 Personal injury damages are divided in two ways.
@@ -59,6 +64,16 @@ Personal injury damages are divided in two ways.
 - **Provisional damages** under s32A Senior Courts Act 1981 allow a claimant to return to court if a specified serious deterioration, such as epilepsy, later develops.
 - **Periodical payments** under the Damages Act 1996 allow future losses to be paid regularly over time, reducing the risk that a lump sum runs out or proves too large.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--02-personal-injury-heads.webp" width="900" height="670" alt="Personal injury damages split two ways. By type: pecuniary losses (earnings before trial, future earnings, medical and care costs, adapting a home) and non-pecuniary losses (pain and suffering, loss of amenity). By proof: special damages, calculated precisely to trial and pleaded, and general damages, assessed by the court (Heil v Rankin). Future losses are the annual loss multiplied by the years it will continue, adjusted because a lump sum can be invested." loading="lazy">
+  <figcaption>Every head of damages is both a type of loss and either special or general.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--03-lump-sum-alternatives.webp" width="900" height="418" alt="Three ways to pay for future loss. A lump sum is paid once and for all. Provisional damages under s32A Senior Courts Act 1981 let the claimant return if a specified serious deterioration such as epilepsy develops. Periodical payments under the Damages Act 1996 spread future losses over time." loading="lazy">
+  <figcaption>Provisional damages and periodical payments soften the once-and-for-all lump sum.</figcaption>
+</figure>
+
 ## Damages for damage to property
 
 The usual measure is:
@@ -66,6 +81,11 @@ The usual measure is:
 - the **diminution in value** or the **market value** of a replacement, if the item is destroyed or repair would be uneconomic.
 
 **Consequential losses** are also recoverable, such as the cost of hiring a replacement car while yours is repaired, or profit lost while a damaged machine is out of use. In *Lagden v O'Connor* (2003) a claimant who could not afford ordinary hire charges recovered the higher cost of a credit hire car, because his lack of money was a consequence of the situation the defendant must take as found.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--04-property-damage.webp" width="900" height="548" alt="If repair is reasonable the measure is the cost of repair; if the item is destroyed or repair is uneconomic, the measure is the diminution in value or the market value of a replacement. Consequential losses such as hire charges or lost profit are added; in Lagden v O’Connor a claimant who could not afford ordinary hire recovered credit hire costs." loading="lazy">
+  <figcaption>Repair or replacement value, plus consequential losses.</figcaption>
+</figure>
 
 ## Damages for economic loss
 
@@ -91,6 +111,11 @@ Recoverable for loss of use:    £800 (the cost of reasonable mitigation),
 Total:                          £3,000 + £800 = £3,800
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--05-mitigation-ria.webp" width="900" height="681" alt="Bar chart of Ria’s claim: repairs £3,000 are recoverable; the £2,000 of lost earnings is struck out because hiring a van at £80 a day for 10 days (£800) would have avoided it; the total recoverable is £3,800. Below: the mitigation rule, Darbishire v Warran (only market value recovered) and Geest v Lansiquot (burden on the defendant)." loading="lazy">
+  <figcaption>Failing to mitigate loses only the avoidable part, not the whole claim.</figcaption>
+</figure>
+
 ## Injunctions
 
 ### Types
@@ -114,6 +139,16 @@ An injunction is equitable, so it is not available as of right. The court may re
 ### Damages in lieu of an injunction
 
 The court has power to award damages instead of an injunction (now s50 Senior Courts Act 1981, originally Lord Cairns' Act 1858). In *Shelfer v City of London Electric Lighting* (1895) A.L. Smith LJ suggested damages should replace an injunction only if the injury is small, capable of being estimated in money, adequately compensated by a small money payment, and an injunction would be oppressive. In *Coventry v Lawrence* (2014) the Supreme Court said this working rule must not be applied mechanically: the court has a wide discretion and may consider public benefit and planning permission.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--06-injunction-types.webp" width="900" height="539" alt="Injunctions sorted two ways. By what they order: prohibitory (stop, the usual form in nuisance) and mandatory (do something). By timing: quia timet before a threatened wrong occurs, interim before trial on the balance of convenience (American Cyanamid v Ethicon), and final after trial." loading="lazy">
+  <figcaption>Prohibitory or mandatory in content; quia timet, interim or final in timing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--07-injunction-or-damages.webp" width="900" height="720" alt="The court may refuse an injunction where damages are adequate, the claimant delayed or acted unfairly, or it would be oppressive. Kennaway v Thompson limited powerboat racing; Miller v Jackson refused an injunction for cricket; Dennis v MoD gave damages for jet noise. Damages in lieu (s50 Senior Courts Act 1981) followed the four Shelfer conditions, but Coventry v Lawrence says they must not be applied mechanically." loading="lazy">
+  <figcaption>An injunction is discretionary: it can be limited, refused, or replaced by damages.</figcaption>
+</figure>
 
 ## Common mistakes
 

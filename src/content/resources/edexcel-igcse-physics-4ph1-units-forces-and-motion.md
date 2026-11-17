@@ -64,6 +64,11 @@ Three units (kg, m, s) are **base units**. The other six are **derived**:
 each is built by multiplying or dividing base units in the same way the
 defining equation multiplies or divides the quantities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-forces-and-motion--01-base-and-derived.webp" width="900" height="725" alt="Three base units: kilogram for mass, metre for distance and second for time. Six derived units: m/s for speed (distance ÷ time), m/s² for acceleration (change in velocity ÷ time), N for force (mass × acceleration), N/kg for g (weight ÷ mass), and the Physics-only Nm for moment (force × perpendicular distance) and kg m/s for momentum (mass × velocity)." loading="lazy">
+  <figcaption>Three base units; the other six are built from them like their equations.</figcaption>
+</figure>
+
 ## How the derived units are built
 
 **Speed.** average speed = distance moved ÷ time taken, so the unit is
@@ -99,6 +104,16 @@ momentum can also be written force × time, in newton seconds (N s). This
 is the same unit, but the specification lists kg m/s, so give that unless
 the question asks otherwise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-forces-and-motion--02-derived-unit-chains.webp" width="900" height="670" alt="One newton is 1 kg × 1 m/s² = 1 kg m/s². So N/kg = (kg m/s²)/kg = m/s², which is why g = 10 N/kg and free fall is at 10 m/s². A moment is N × m = Nm, and momentum is kg × m/s = kg m/s, the same as N s." loading="lazy">
+  <figcaption>Since 1 N = 1 kg m/s², N/kg and m/s² are the same unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-forces-and-motion--03-meaning-of-ms2.webp" width="900" height="590" alt="Bars show a velocity u, then u + 3, u + 6, u + 9 and u + 12 m/s after 1, 2, 3 and 4 seconds: an acceleration of 3 m/s² adds 3 m/s to the velocity in each second." loading="lazy">
+  <figcaption>m/s² means the velocity changes by that many m/s every second.</figcaption>
+</figure>
+
 ## Converting data before you substitute
 
 Questions often give data in convenient everyday units. Convert first,
@@ -118,6 +133,11 @@ then substitute, then calculate.
 The km/h conversion trips up many candidates. One kilometre is 1000 m and
 one hour is 3600 s, so 1 km/h = 1000 ÷ 3600 m/s, which is about 0.28 m/s.
 A speed in m/s is always a **smaller** number than the same speed in km/h.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-forces-and-motion--04-conversions.webp" width="900" height="690" alt="Conversions: 850 g = 0.850 kg, 35 cm = 0.35 m, 12 mm = 0.012 m, 1.6 km = 1600 m, 2.5 min = 150 s, 1.5 h = 5400 s, 90 km/h = 25 m/s and 1.2 tonnes = 1200 kg. 1 km/h = 1000 m ÷ 3600 s, about 0.28 m/s, so km/h values are divided by 3.6." loading="lazy">
+  <figcaption>Everyday units go into kg, m and s before any equation.</figcaption>
+</figure>
 
 ## Using units to check an equation
 
@@ -142,6 +162,11 @@ A unit check also works on answers. If your "acceleration" comes out in
 m/s, you have forgotten to divide by a time. If your "moment" is a number
 of newtons, you have forgotten the distance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-forces-and-motion--05-unit-checks.webp" width="900" height="680" alt="Unit checks. v² = u² + 2as has m²/s² on both sides, so it is consistent. v = u² + 2as has m/s on the left but m²/s² on the right, so it is wrong. F = (mv − mu) ÷ t gives kg m/s ÷ s = kg m/s², a newton. An acceleration in m/s or a moment in N signals a missing step." loading="lazy">
+  <figcaption>Both sides of a correct equation have the same units.</figcaption>
+</figure>
+
 ## Worked example 1: a chain of calculations
 
 A trolley of mass 600 g starts from rest and reaches 1.8 m/s in 1.2 s.
@@ -161,6 +186,11 @@ moment's thought shows is absurd for a toy trolley. Each answer has its own
 unit, and the final answer is given to two significant figures to match
 the data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-forces-and-motion--06-trolley-example.webp" width="900" height="750" alt="A 600 g trolley goes from rest to 1.8 m/s in 1.2 s. With m = 0.600 kg: acceleration = 1.8 / 1.2 = 1.5 m/s²; force = 0.600 × 1.5 = 0.90 N; momentum = 0.600 × 1.8 = 1.08, about 1.1 kg m/s. Substituting 600 would give 900 N, a thousand times too large." loading="lazy">
+  <figcaption>Convert the mass once, then each answer carries its own unit.</figcaption>
+</figure>
+
 ## Worked example 2: moments with centimetres
 
 A spanner is 25 cm long. A force of 40 N is applied at right angles to the
@@ -173,6 +203,11 @@ moment = force × perpendicular distance = 40 × 0.25 = 10 Nm
 
 Using 25 directly gives 1000, which is the moment in newton centimetres,
 not in Nm. Convert the distance first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-forces-and-motion--07-spanner-moment.webp" width="900" height="640" alt="A spanner 25 cm long with a 40 N force at right angles to its end. Converting 25 cm to 0.25 m, the moment about the nut is 40 × 0.25 = 10 Nm; using 25 directly gives 1000, a value in newton centimetres." loading="lazy">
+  <figcaption>Convert centimetres to metres so the moment comes out in Nm.</figcaption>
+</figure>
 
 ## Mass and weight: two different units
 

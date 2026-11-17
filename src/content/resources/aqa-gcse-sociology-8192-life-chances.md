@@ -36,6 +36,11 @@ Two points make answers stronger:
 - Life chances are about **probabilities, not certainties**. Saying a group has poorer life chances means its members are *less likely* to reach good outcomes, not that every member will fail.
 - Life chances can be measured across **several areas**. The most useful are health and life expectancy, education, employment and income, housing, and treatment by the criminal justice system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-life-chances--01-what-life-chances-are.webp" width="900" height="672" alt="Five areas of life chances: health and life expectancy, education, employment and income, housing, and treatment by the criminal justice system. Below, two schematic groups of twenty dots: more members of one group reach a good outcome, but some members of the other group still do." loading="lazy">
+  <figcaption>Life chances are about probabilities across several areas, not certainties.</figcaption>
+</figure>
+
 ## A grid for explaining any factor
 
 When a question names a factor, explain *how* it affects life chances by picking one or two areas and giving a mechanism.
@@ -69,6 +74,21 @@ When a question names a factor, explain *how* it affects life chances by picking
 ### The role of the law
 
 The **Equality Act 2010** brought earlier equality laws together and protects people from discrimination on several grounds, including age, disability, race, religion or belief, sex and sexual orientation. Use it in evaluation: the law offers protection, but discrimination can be hard to prove and some inequalities, such as unpaid caring, are not covered by anti-discrimination law at all.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-life-chances--02-factor-mechanism-outcome.webp" width="900" height="646" alt="A chain from factor to mechanism to outcome: social class works through low income, damp housing and a poor diet to raise the risk of illness. Below, four more chains: gender through unpaid caring and the glass ceiling, age through ageism, disability through barriers and attitudes, and sexuality through prejudice and bullying." loading="lazy">
+  <figcaption>Name the factor, give the mechanism, then the outcome it affects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-life-chances--03-equality-act.webp" width="900" height="482" alt="Left: the Equality Act 2010 protects against discrimination on grounds including age, disability, race, religion or belief, sex and sexual orientation. Right: its limits: discrimination is hard to prove, unpaid caring is not covered, and prejudice has not disappeared." loading="lazy">
+  <figcaption>The law offers protection, but it cannot remove every inequality in life chances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--03-life-chances.webp" width="900" height="712" alt="Seven factors surround life chances: class, gender, race and ethnicity, sexuality, age, disability, and religion and belief, each with an example of how it affects a person’s chances of good health, education, a good job and housing." loading="lazy">
+  <figcaption>Seven factors in the specification shape a person’s chances of a good life.</figcaption>
+</figure>
 
 ## Devine: affluent workers revisited
 
@@ -104,6 +124,11 @@ Devine shows that rising incomes improved some life chances, such as housing and
 - **Strengths:** interviews gave detailed, meaningful accounts; including wives added a view of home life; returning to Luton allowed comparison over time.
 - **Limitations:** one workplace in one town limits generalisation; the sample was of male manual workers in one industry; the study is now over thirty years old and manufacturing employs fewer people today.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--04-devine-affluent-worker.webp" width="900" height="597" alt="Left: what was predicted in the 1960s, privatised instrumentalism and affluent workers becoming middle class. Right: what Devine found in Luton in the late 1980s: lifestyles not as home-centred as predicted, no embourgeoisement, resentment of inherited wealth, and lost faith in the Labour Party." loading="lazy">
+  <figcaption>Devine found affluent workers kept a working-class sense of injustice: no embourgeoisement.</figcaption>
+</figure>
+
 ## Perspectives on life chances
 
 **Functionalist.** Differences in life chances reflect differences in talent and effort in a broadly meritocratic society. Social mobility allows able people to improve their chances. Inequality motivates people to work hard.
@@ -113,6 +138,11 @@ Devine shows that rising incomes improved some life chances, such as housing and
 **Feminist.** Patriarchy limits women's life chances through unpaid domestic work, lower pay, the glass ceiling and male violence. Feminists also point out that outcomes differ between women by class and ethnicity.
 
 **Comparing them:** functionalists see differences as fair outcomes; Marxists and feminists see them as the product of structured inequality, but disagree about whether class or gender is the main cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-life-chances--04-perspectives.webp" width="900" height="466" alt="Functionalists see differences in life chances as fair outcomes of talent and effort, with social mobility. Against them, Marxists and feminists both see structured inequality but disagree on the main cause: class and capitalism for Marxists, patriarchy for feminists." loading="lazy">
+  <figcaption>Functionalists see fair outcomes; Marxists and feminists see structured inequality, but disagree on its cause.</figcaption>
+</figure>
 
 ## Worked paragraph
 

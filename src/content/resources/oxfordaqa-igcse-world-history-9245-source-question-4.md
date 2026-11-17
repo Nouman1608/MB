@@ -35,6 +35,11 @@ Questions 1-3 each focus on one or two named sources. Question 4 asks you to use
 
 The question can target Part 1 or Part 2 of your option's content, so it may draw on sources you have studied for weeks alongside two you meet for the first time in the exam.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-source-question-4--01-question-4-at-a-glance.webp" width="900" height="621" alt="Five sources, three pre-released (A to C) and two unseen (D and E), plus own knowledge, feed into a judgement on the issue. Question 4 rewards range, linking and judgement." loading="lazy">
+  <figcaption>Use the whole booklet: range, links and a judgement.</figcaption>
+</figure>
+
 ## Preparing the pre-release for Question 4
 
 The three pre-released sources arrive on 1 February for the May/June series and 1 July for October/November. You may not take notes into the exam, so preparation means knowing the sources well enough to use them quickly.
@@ -44,6 +49,11 @@ The three pre-released sources arrive on 1 February for the May/June series and 
 - **Learn the provenance and its consequences.** Who made it, when, and what that makes it good evidence of.
 - **Rehearse links.** Which pre-released source agrees with which? Where do they disagree, and why?
 - **Learn knowledge that extends each source.** One or two precise facts per source, ready to add.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-source-question-4--02-preparing-the-pre-release.webp" width="900" height="645" alt="Five preparation steps for the three pre-released sources: list the issues each could serve, decide which side of likely debates it supports, learn the provenance, rehearse links between sources, and learn one or two facts to extend each." loading="lazy">
+  <figcaption>Know each pre-released source well enough to use it quickly on any issue.</figcaption>
+</figure>
 
 ## A four-step method in the exam
 
@@ -61,6 +71,11 @@ Most booklets include at least one source on each side, and one that can be used
 
 **Step 4: judge (about 2 minutes).** Finish with a clear answer to the question, explaining which evidence is weightier and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-source-question-4--03-four-step-method.webp" width="900" height="578" alt="Time bar for the four steps: about 1 minute reading the issue, 3 sorting the sources, 12 writing linked paragraphs and 2 judging. Cards explain each step." loading="lazy">
+  <figcaption>Spend most of the time writing paragraphs organised by argument.</figcaption>
+</figure>
+
 ## Ways of linking sources
 
 | Link | What it looks like |
@@ -70,6 +85,11 @@ Most booklets include at least one source on each side, and one that can be used
 | **Cause and effect** | "Source C shows the decision; Source E shows its consequences two years later." |
 | **Scale or detail** | "Source A gives the overall policy; Source D shows how it worked in one case." |
 | **Context fills a gap** | "None of the sources mentions the USA's absence from the League, but my knowledge shows..." |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-source-question-4--04-ways-of-linking.webp" width="900" height="570" alt="Five link types, each with a small diagram: corroboration (two sources agree), contradiction explained by provenance, cause and effect, scale or detail (overall policy and one case), and context filling a gap the sources leave." loading="lazy">
+  <figcaption>Link sources by agreement, explained disagreement, cause, scale or a gap.</figcaption>
+</figure>
 
 ## Using provenance to weigh sources
 
@@ -98,6 +118,16 @@ In Question 4 provenance helps you decide **how much weight** a source can bear.
 > Overall, I largely disagree. Sources A, C and D show the League was successful when small powers were involved and the great powers agreed, but Sources B, D and E together show that when a great power or a determined state used force, the League could not stop it. Its 1920s record suggests success in minor disputes rather than in keeping peace among the powers that mattered most.
 
 The answer uses all five sources, links them in each paragraph, uses provenance to weigh A and D, adds own knowledge, and reaches a judgement that explains *why* one side is stronger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-source-question-4--05-sorting-the-sources.webp" width="900" height="539" alt="Sorting grid for the worked example: Sources A and C support the view that the League kept the peace, B and E challenge it, and D can be used both ways. Below, provenance makes A strong, C in need of checking and D weighty." loading="lazy">
+  <figcaption>Sort first, then let provenance decide how much each source can bear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-source-question-4--06-answer-structure.webp" width="900" height="698" alt="The model answer as three linked blocks: a paragraph on successes using Sources A, D and C, a paragraph on limits using D, B and E, each with own knowledge, and a judgement that largely disagrees. Chips list what the answer does." loading="lazy">
+  <figcaption>Two argued paragraphs, each linking several sources, then a reasoned judgement.</figcaption>
+</figure>
 
 ## Common mistakes
 

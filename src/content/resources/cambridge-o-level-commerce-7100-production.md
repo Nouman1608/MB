@@ -49,6 +49,11 @@ The [Commerce and Production overview](/resources/o-level-cambridge-commerce-com
 
 To place an activity, ask what the worker actually does. A geologist searching for oil works for a mining company, but a cashier in that company's office is providing a service. In exam answers, place the *activity* named in the question, not the whole firm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--01-sectors-of-production.webp" width="900" height="715" alt="Four rows give the feature and examples of the primary, secondary, tertiary and quaternary sectors. Below, a reminder to place the activity: in a mining company a geologist is primary but an office cashier is tertiary, and a delivery driver is tertiary." loading="lazy">
+  <figcaption>Ask what the worker actually does to place the activity in a sector.</figcaption>
+</figure>
+
 ## Specialisation in three contexts
 
 **Specialisation** means concentrating on producing one product, or on one part of a production process, instead of trying to make everything.
@@ -60,6 +65,11 @@ To place an activity, ask what the worker actually does. A geologist searching f
 | Country | Uses its natural advantages (climate, minerals, skills) to produce more; earns export income | Depends on other countries for goods it does not make; vulnerable if world demand or prices for its main product fall |
 
 An exam answer gains by naming the context. "Workers become bored" is a disadvantage for an individual; "the whole line stops when one stage breaks down" is a factory disadvantage; "over-dependence on one export" is a country disadvantage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--02-specialisation-contexts.webp" width="900" height="705" alt="A grid of advantages and disadvantages of specialisation for an individual, a factory and a country, such as becoming skilled against boring work, higher output per worker against the whole line stopping, and export income against dependence on other countries." loading="lazy">
+  <figcaption>Each context has its own advantages and disadvantages; use the one the question names.</figcaption>
+</figure>
 
 ## In-house or outsourced production?
 
@@ -79,9 +89,19 @@ An exam answer gains by naming the context. "Workers become bored" is a disadvan
 
 Sub-topic 2.2 later looks at why outsourcing has grown; see the [outsourcing study guide](/resources/cambridge-o-level-commerce-7100-outsourcing/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--03-in-house-vs-outsourced.webp" width="900" height="525" alt="Two panels. In-house production gives control on quality, control of information and fewer supplier delays. Outsourced production gives access to expertise, cost savings and lets managers focus on what the business does best." loading="lazy">
+  <figcaption>In-house means control; outsourcing means expertise and cost savings.</figcaption>
+</figure>
+
 ## Global and domestic supply chains
 
 A **supply chain** is the sequence of businesses and activities that turn raw materials into a product in the customer's hands. In a **domestic supply chain** every stage takes place within one country. In a **global supply chain** at least some stages, such as sourcing materials, making components or assembly, take place in other countries. A bicycle with a frame welded in one country, gears from another and final assembly in a third has a global supply chain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--04-global-supply-chain.webp" width="900" height="615" alt="A domestic supply chain has every stage in one country. A global one, such as a bicycle, has the frame welded in one country and the gears made in another, both sent to a third country for final assembly." loading="lazy">
+  <figcaption>A supply chain is global when at least some stages take place in other countries.</figcaption>
+</figure>
 
 ## Intermediaries
 
@@ -94,11 +114,21 @@ An **intermediary** stands between producer and consumer.
 
 The key difference between agent and factor is **possession**: the factor holds the goods; the agent does not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--05-agent-and-factor.webp" width="900" height="665" alt="Home trade runs producer, wholesaler, retailer, consumer. In international trade an agent finds buyers or sellers and arranges deals without holding the goods; a factor takes possession of the goods and sells them for the owner. Neither owns the goods; both earn commission." loading="lazy">
+  <figcaption>The factor holds the goods and the agent does not; neither owns them.</figcaption>
+</figure>
+
 ## Digital technology and production
 
 **Automation** uses machines, such as robots, to carry out tasks with little human involvement. Output becomes faster and more consistent, robots can work around the clock, and dangerous jobs can be removed from workers. Against this, machines are expensive to buy and maintain, some jobs are lost, and remaining workers need retraining.
 
 **Electronic data interchange (EDI)** is the computer-to-computer exchange of business documents, such as orders and invoices, in a standard format. A supermarket's system can send a new order to a supplier automatically when stock falls to a set level. EDI cuts paperwork and errors and speeds up re-ordering, but both firms need compatible systems, and a system failure can stop orders flowing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--06-automation-and-edi.webp" width="900" height="600" alt="Top: with EDI, a supermarket’s system sends an order to the supplier automatically when stock falls to a set level, and documents such as invoices come back electronically. Below, the gains and drawbacks of automation and of EDI." loading="lazy">
+  <figcaption>Both technologies speed up production and ordering but bring set-up costs and new risks.</figcaption>
+</figure>
 
 ## Costs of trade, commerce and production
 
@@ -121,6 +151,11 @@ The syllabus names ten costs: **advertising, bank charges, commission, customs d
 Cost per jacket = $4,045 / 500 = **$8.09**.
 
 Method points: convert each percentage to an amount before adding; keep the units ($) on every line; show the addition so that a slip in one line does not lose all the marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--07-export-consignment-costs.webp" width="900" height="690" alt="A cost table for 500 exported jackets worth $20,000: transport 1,800, packaging 300, customs duties 1,000 (5%), agent’s commission 600 (3%), warehousing 300 and bank charges 45. Total $4,045, or $8.09 per jacket." loading="lazy">
+  <figcaption>Convert each percentage to dollars, add every line, then divide: $4,045 is $8.09 a jacket.</figcaption>
+</figure>
 
 ## Common mistakes
 

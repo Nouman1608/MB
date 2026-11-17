@@ -42,6 +42,11 @@ For the whole of Paper 1, start with the [Families and Education overview](/reso
 
 The **domestic division of labour** is how housework, childcare and other unpaid work are divided between partners. It is the main evidence sociologists use to judge whether roles are joint or segregated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--01-segregated-joint-roles.webp" width="900" height="644" alt="Two panels. Segregated roles: husband and wife each sit in a close-knit network of their own friends and relatives, with separate tasks and leisure. Joint roles: the couple are strongly linked to each other and share tasks, decisions and leisure, with looser outside ties, as Bott found." loading="lazy">
+  <figcaption>Bott linked segregated roles to close-knit networks and joint roles to looser ones.</figcaption>
+</figure>
+
 ## Traditional and contemporary families
 
 **Traditional families.** The specification's "traditional family" usually means the male breadwinner model. Parsons described an **instrumental role** for husbands (earning and providing) and an **expressive role** for wives (care and emotional support), and saw this division as functional for society. Roles were segregated, and a wife's paid work, if any, was treated as secondary.
@@ -53,6 +58,16 @@ The **domestic division of labour** is how housework, childcare and other unpaid
 - Yet studies repeatedly find that women still do more housework and childcare, even when both partners work full time. Feminists call this the **dual burden** or **double shift**.
 - Duncombe and Marsden added **emotion work**, such as keeping the peace and remembering birthdays, to make a **triple shift**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--02-traditional-contemporary.webp" width="900" height="580" alt="Two panels. In the traditional male breadwinner family, Parsons described an instrumental role for husbands and an expressive role for wives. In the contemporary family most mothers do paid work and men do more at home, yet women still do more housework and childcare." loading="lazy">
+  <figcaption>Roles look more joint today, but women still do more at home.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--03-dual-burden-triple-shift.webp" width="900" height="738" alt="Three stacked columns show a woman’s load. In the male breadwinner model she does housework and childcare. With the dual burden she adds paid work. Duncombe and Marsden’s triple shift adds emotion work, such as keeping the peace and remembering birthdays." loading="lazy">
+  <figcaption>Paid work was added to women’s load, not swapped for housework.</figcaption>
+</figure>
+
 ## Oakley and the conventional family
 
 Ann Oakley is the writer the specification names for 3.3.3. In "Conventional families" (1982) she addressed the idea of the conventional family, defined in the specification as "nuclear families composed of legally married couples, voluntarily choosing the parenthood of one or more children". Her argument has four parts, and you should be able to explain each.
@@ -63,6 +78,11 @@ Ann Oakley is the writer the specification names for 3.3.3. In "Conventional fam
 4. **Social control.** The idea acts as social control, pressuring people to conform and making other ways of living seem deviant.
 
 The specification notes that her paper predates civil partnerships and same-sex marriage, but that she concluded official stereotypes were coming to seem "increasingly archaic". In earlier research, *The Sociology of Housework* (1974), Oakley interviewed London housewives and found few husbands who did a large share of housework, which she used to challenge claims that marriage had become equal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--04-oakley-conventional-family.webp" width="900" height="901" alt="Four numbered steps of Oakley’s argument: the idea of the conventional family is powerful, it has social origins in industrialisation, living up to it causes strain, and it acts as social control. A note adds that she found official stereotypes increasingly archaic." loading="lazy">
+  <figcaption>Oakley treats the conventional family as a powerful idea that controls people, not a natural fact.</figcaption>
+</figure>
 
 ## The five contemporary issues
 
@@ -76,6 +96,16 @@ The specification notes that her paper predates civil partnerships and same-sex 
 
 **Leisure activities.** In segregated relationships, leisure was often separate: men's leisure outside the home, women's mainly in the home and combined with childcare. Joint leisure, such as watching television, family meals and holidays, became more common in home-centred families. Feminists argue women still have less free time, and their leisure is more often interrupted by domestic tasks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--05-edgell-pahl-power.webp" width="900" height="744" alt="Top: Edgell found husbands made decisions seen as very important, such as moving house and major finance, while wives decided on less important matters such as decoration, food and children’s clothes. Bottom: Pahl’s allowance system, where the husband gives the wife a set sum, and pooling into a joint account, where men still often had more say." loading="lazy">
+  <figcaption>Who decides and who controls money reveal inequality that a list of chores misses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--06-five-issues.webp" width="900" height="678" alt="A table of the five issues. Decision making, money management, dual career families, child rearing and leisure each look more joint than in the past, but in each case evidence shows women still have less power, more routine work or less free time." loading="lazy">
+  <figcaption>In all five issues, change towards joint roles is real but incomplete.</figcaption>
+</figure>
+
 ## Perspectives compared
 
 | Perspective | View of conjugal roles |
@@ -83,6 +113,11 @@ The specification notes that her paper predates civil partnerships and same-sex 
 | Functionalist | Clear instrumental and expressive roles suit society (Parsons); Willmott and Young, also functionalists, saw a move towards more equal, symmetrical roles |
 | Feminist | Roles remain unequal and benefit men: Oakley on the conventional family, Delphy and Leonard on men exploiting women's work, the dual burden and triple shift |
 | Marxist | Women's unpaid domestic labour reproduces and maintains the workforce at no cost to capitalism; men's frustration at work may be taken out at home, where they have power |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--07-who-gains.webp" width="900" height="645" alt="Women’s unpaid domestic work sits at the top. Feminists and Marxists agree it is exploited, but feminists say men gain while Marxists say capitalism gains. Below, functionalists Parsons and Willmott and Young take a more positive view." loading="lazy">
+  <figcaption>Feminists and Marxists agree women’s work is exploited but disagree about who gains.</figcaption>
+</figure>
 
 ## Worked example: 4 marks
 

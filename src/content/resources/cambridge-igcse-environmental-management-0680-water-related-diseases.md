@@ -36,6 +36,11 @@ Sub-topic 3.3 of Cambridge IGCSE Environmental Management (0680) covers two dise
 
 Keeping this table in your head prevents the most common error in this sub-topic: suggesting mosquito nets for cholera or chlorination for malaria.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-related-diseases--01-two-diseases.webp" width="900" height="685" alt="A comparison of malaria and cholera. Malaria is caused by the Plasmodium parasite, reaches people through the bite of an infected female Anopheles mosquito, and is linked to water because larvae develop in still water. Cholera is caused by a bacterium, spreads through water or food contaminated with faeces, and is linked to untreated sewage." loading="lazy">
+  <figcaption>Malaria travels by mosquito; cholera travels in water contaminated with faeces.</figcaption>
+</figure>
+
 ## How mosquitoes spread malaria (3.3.1)
 
 The syllabus breaks the transmission cycle into three points, and you should be able to write each one in order.
@@ -47,6 +52,11 @@ The syllabus breaks the transmission cycle into three points, and you should be 
 The cycle needs all three: people, mosquitoes and the parasite. Every control strategy breaks one link. Personal protection stops the bite; vector control reduces the number of mosquitoes; drugs and vaccination reduce infection in people, so fewer mosquitoes pick up the parasite.
 
 Water matters because female mosquitoes lay eggs on the surface of still water, such as ponds, puddles, irrigation channels, blocked drains and water containers left uncovered. The larvae live in the water until they become adults.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-related-diseases--02-malaria-cycle.webp" width="900" height="810" alt="A cycle. 1: the vector is the female Anopheles mosquito, which needs blood to make eggs. 2: an infected mosquito passes the Plasmodium parasite to a human when it bites. 3: a non-infected mosquito picks up the parasite when it feeds on an infected human; the parasite develops inside it. Females lay eggs on still water, where larvae live." loading="lazy">
+  <figcaption>Human to mosquito and mosquito to human: the cycle needs people, mosquitoes and the parasite.</figcaption>
+</figure>
 
 ## Strategies to control malaria (3.3.2)
 
@@ -64,12 +74,22 @@ Water matters because female mosquitoes lay eggs on the surface of still water, 
 - **Sterilising male mosquitoes**: large numbers of sterilised males are released. Females that mate with them produce no offspring, so the population falls over several generations.
 - **Biological control**: a natural predator or disease of the mosquito is introduced, such as fish that eat mosquito larvae in ponds and water tanks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-related-diseases--03-malaria-strategies.webp" width="900" height="590" alt="Malaria strategies grouped by the link they break. Stop the bite: insecticide-treated bed nets and repellent. Fewer mosquitoes: cover or drain breeding areas, spray insecticides, release sterilised males, biological control such as larva-eating fish. Less infection in people: vaccination of young children and antimalarial drugs." loading="lazy">
+  <figcaption>Stop the bite, cut the mosquito numbers, or cut infection in people.</figcaption>
+</figure>
+
 ## Strategies to control cholera (3.3.3)
 
 - **Handwashing** with soap after using the toilet and before handling food removes bacteria from hands, breaking the faeces-to-mouth route.
 - **Adequate sanitation and sewage treatment** keeps human waste away from drinking water and removes or kills bacteria before wastewater reaches rivers.
 - **Potable water supply** means water that is safe to drink. **Boiling** kills bacteria; **chlorination** adds chlorine, which kills bacteria in treated supplies and continues to protect water in pipes.
 - **Vaccination** with oral cholera vaccine gives protection, often used during outbreaks or in high-risk areas such as camps for displaced people.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-related-diseases--04-cholera-barriers.webp" width="900" height="660" alt="Cholera passes from an infected person’s faeces into water or food and then into another person. Barrier A keeps faeces out of water through handwashing and sanitation with sewage treatment. Barrier B makes water safe by boiling or chlorination. C protects the person with oral cholera vaccine. Cholera has no vector." loading="lazy">
+  <figcaption>Keep faeces out of water, make water safe, or vaccinate the person.</figcaption>
+</figure>
 
 ## Benefits and limitations (3.3.4)
 
@@ -90,6 +110,16 @@ This is where the highest marks sit. A good answer gives a benefit and a limitat
 | Boiling | Simple, kills bacteria | Needs fuel; burning wood adds to deforestation and indoor smoke |
 | Chlorination | Treats large volumes; protects water in pipes | Needs chemicals, trained staff and monitoring |
 | Cholera vaccination | Rapid protection during outbreaks | Protection is not lifelong; does not fix the water supply |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-related-diseases--05-malaria-weighed.webp" width="900" height="760" alt="A benefit and a limitation for each malaria strategy. Treated nets are cheap but only protect in bed at night and face resistance. Repellent must be reapplied. Vaccination gives partial protection. Drugs face cost and resistance. Draining breeding sites is impossible over huge wetlands. Spraying harms pollinators. Sterile males are expensive and slow. Biological control may harm native species." loading="lazy">
+  <figcaption>Every malaria strategy has a catch: resistance, cost, scale or harm to other species.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-related-diseases--06-cholera-weighed.webp" width="900" height="560" alt="A benefit and a limitation for each cholera strategy. Handwashing is very cheap but needs soap, water and behaviour change. Sanitation and sewage treatment remove the cause permanently but cost a lot and take time. Boiling kills bacteria but needs fuel. Chlorination treats large volumes but needs chemicals and staff. Vaccination protects quickly but is not lifelong and does not fix the water supply." loading="lazy">
+  <figcaption>Sanitation fixes the cause but is slow and costly; quicker measures do not fix the water supply.</figcaption>
+</figure>
 
 ## Worked example: an annotated "discuss" answer
 

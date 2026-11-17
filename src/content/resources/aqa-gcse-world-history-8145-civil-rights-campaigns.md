@@ -33,9 +33,19 @@ After the Civil War, Southern states passed **Jim Crow laws** that separated Bla
 
 Outside the South there were no Jim Crow laws, but discrimination in housing and jobs kept many Black Americans in poor city districts, often called ghettos. This **de facto** segregation became important in the 1960s, when campaigns moved north.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--01-two-kinds-of-segregation.webp" width="900" height="595" alt="Two columns. In the South, Jim Crow laws separated Black and white Americans, backed by Plessy v Ferguson (1896), voting barriers and Klan violence. In the North there were no such laws, but housing and job discrimination kept many Black Americans in poor districts." loading="lazy">
+  <figcaption>Segregation was written into law in the South and enforced by discrimination in the North.</figcaption>
+</figure>
+
 ## Legal challenges: Brown and Little Rock
 
 The **NAACP** (National Association for the Advancement of Colored People) challenged segregation in the courts. Its lawyer **Thurgood Marshall** won **Brown v Board of Education of Topeka (1954)**, in which the Supreme Court ruled that segregated schools were unconstitutional. Many Southern states resisted. In 1957 the governor of Arkansas used the state's National Guard to stop nine Black students, the **Little Rock Nine**, entering Central High School; President **Eisenhower** sent federal troops to protect them. Little Rock showed that court rulings needed federal enforcement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--02-brown-to-little-rock.webp" width="900" height="691" alt="Four numbered steps: the NAACP and Thurgood Marshall challenge segregation; the Supreme Court rules segregated schools unconstitutional in Brown v Board (1954); Arkansas resists at Little Rock in 1957; Eisenhower sends federal troops." loading="lazy">
+  <figcaption>Brown won the legal argument; Little Rock showed that rulings needed federal force behind them.</figcaption>
+</figure>
 
 ## Martin Luther King and peaceful protest
 
@@ -53,6 +63,16 @@ The **NAACP** (National Association for the Advancement of Colored People) chall
 
 It won the **moral argument**: non-violent protesters met by violence made segregation look brutal to the rest of America and the world. It used **television** to reach a national audience. It put **pressure on presidents** and Congress at a time when the USA claimed to defend freedom in the Cold War. It drew on the organisation of the **Black churches**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--04-why-peaceful-protest-worked.webp" width="900" height="388" alt="Four factors around a central circle: winning the moral argument, television coverage, pressure on presidents and Congress during the Cold War, and the organisation of the Black churches." loading="lazy">
+  <figcaption>Non-violence won sympathy because television showed the violence it met.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--03-peaceful-protest-timeline.webp" width="900" height="783" alt="Vertical timeline: Montgomery Bus Boycott 1955-56, SCLC 1957, Greensboro sit-in 1960 and SNCC, Freedom Rides 1961, Birmingham 1963, March on Washington August 1963, and Selma 1965 leading to the Voting Rights Act." loading="lazy">
+  <figcaption>Each campaign built pressure on the federal government for new laws.</figcaption>
+</figure>
+
 ## Malcolm X and the Black Power Movement
 
 **Malcolm X** became the best-known spokesman of the **Nation of Islam**, which argued that white America would never treat Black people equally and called for Black separation rather than integration. He criticised King's non-violence and argued that Black people had the right to defend themselves "by any means necessary". He left the Nation of Islam in 1964, began to speak of co-operation with other groups, and was assassinated in February 1965.
@@ -60,6 +80,11 @@ It won the **moral argument**: non-violent protesters met by violence made segre
 By the mid-1960s many young activists were frustrated by slow progress, poverty in the northern cities and continued violence. In 1966 **Stokely Carmichael** of SNCC popularised the slogan **"Black Power"**, emphasising Black pride, self-reliance and control of Black communities. The **Black Panther Party**, founded in Oakland, California, in 1966, organised armed patrols to monitor the police and community programmes such as free breakfasts for children. At the 1968 Olympics in Mexico City, the American sprinters Tommie Smith and John Carlos raised gloved fists on the medal podium.
 
 Riots broke out in many cities, beginning with **Watts** in Los Angeles in 1965, reflecting anger at poverty, unemployment and police treatment. After King was assassinated in Memphis on 4 April 1968, riots spread to over a hundred cities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--05-king-malcolm-black-power.webp" width="900" height="651" alt="Comparison table of King, Malcolm X and Black Power by organisation, aim, method and key moment: King sought integration by non-violence, Malcolm X separation and self-defence, Black Power pride and community control." loading="lazy">
+  <figcaption>The movement divided over aims and methods by the mid-1960s.</figcaption>
+</figure>
 
 ## The Civil Rights Acts
 
@@ -71,6 +96,11 @@ Riots broke out in many cities, beginning with **Watts** in Los Angeles in 1965,
 
 Legal segregation in the South was ended, and Black voter registration rose after 1965. But poverty, unequal schooling and housing discrimination continued; the 1968 Act was weakly enforced at first. A judgement should distinguish **legal equality**, largely won by 1968, from **social and economic equality**, which was not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--06-civil-rights-acts.webp" width="900" height="667" alt="Three cards: the 1964 Civil Rights Act on public places and jobs, the 1965 Voting Rights Act, and the 1968 Fair Housing Act. Below, legal equality was largely won by 1968, but social and economic equality was not." loading="lazy">
+  <figcaption>Separate legal equality, largely won, from social and economic equality, which was not.</figcaption>
+</figure>
+
 ## Worked example: a question 6 plan
 
 *Which of the following was the more important reason for the passing of the Civil Rights Act of 1964: Martin Luther King's peaceful protests; the actions of Presidents Kennedy and Johnson? Explain your answer with reference to both reasons.* **[12]**
@@ -78,6 +108,11 @@ Legal segregation in the South was ended, and Black voter registration rose afte
 1. **King:** Birmingham's televised violence (1963) forced the issue; Kennedy proposed his bill weeks later; the March on Washington showed mass support.
 2. **Presidents:** Kennedy sent the bill to Congress; after his assassination Johnson used his political skill and the national mood to push it through Congress against Southern opposition.
 3. **Judgement:** for example, King's campaigns created the pressure that made a bill unavoidable, while Johnson's leadership turned that pressure into law; decide which was the necessary condition and explain why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--07-question-6-plan.webp" width="900" height="547" alt="Two reason cards, King's peaceful protests and the actions of Kennedy and Johnson, each with supporting points, feed into a judgement box asking which was the necessary condition for the 1964 Act." loading="lazy">
+  <figcaption>Explain both reasons, then judge which was the necessary condition.</figcaption>
+</figure>
 
 ## Common mistakes
 

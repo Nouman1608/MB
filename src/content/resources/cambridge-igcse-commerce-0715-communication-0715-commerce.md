@@ -36,6 +36,11 @@ Communication is the first aid to trade named in Topic 1: buyers and sellers can
 
 The types overlap. An email is both **written** and **electronic**; a videoconference is **oral**, **visual** and **electronic**. If a question asks you to distinguish types, give the main feature of each type and an example that fits it best.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--01-types-of-communication.webp" width="900" height="615" alt="Four cards define written, oral, electronic and visual communication with examples. Below, an email is shown as both written and electronic, and a videoconference as oral, visual and electronic." loading="lazy">
+  <figcaption>Types overlap, so give each type’s main feature and the example that fits it best.</figcaption>
+</figure>
+
 ## What methods of communication are there? (2.6.2)
 
 | Method | Advantages | Disadvantages |
@@ -50,6 +55,16 @@ The types overlap. An email is both **written** and **electronic**; a videoconfe
 | Posters | Visual and eye-catching; seen by everyone passing; cheap to produce | One-way; limited information; only seen in one place |
 
 A **chatbot** is a computer program that answers customer questions automatically in a chat window, using set answers or artificial intelligence. Businesses use chatbots to handle simple, repeated questions (opening times, order tracking) and pass complex ones to human staff.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--02-methods-compared.webp" width="900" height="680" alt="Eight cards, one for each method: letter, telephone, face to face, videoconferencing, email, web-based chat, social media and posters. Each card gives the method’s main advantage with a tick and main disadvantage with a cross." loading="lazy">
+  <figcaption>Every method has a trade-off; the situation decides which one matters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--03-chatbot-routing.webp" width="900" height="565" alt="A customer question goes to a chatbot. Simple, repeated questions such as opening times or order tracking are answered automatically at any hour; unusual or complex problems are passed to human staff." loading="lazy">
+  <figcaption>Chatbots handle the simple, repeated questions and pass complex ones to people.</figcaption>
+</figure>
 
 ## Which factors affect the choice of method? (2.6.3)
 
@@ -66,6 +81,11 @@ The syllabus names six factors. Each one pushes the choice in a particular direc
 
 Most situations involve two or three factors, sometimes pulling in opposite directions. A strong answer names the factors in the scenario, recommends a method and says why it beats an alternative.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--04-six-factors.webp" width="900" height="750" alt="Six rows: urgency, cost, security, distance, availability of networks and importance of the message. Each gives the question to ask and the methods it favours, with social media to avoid for security and travel to avoid for cost." loading="lazy">
+  <figcaption>Name the factors in the scenario, then pick the method they favour.</figcaption>
+</figure>
+
 ## Worked example: matching method to situation
 
 | Situation | Key factors | Recommended method | Why not the obvious alternative? |
@@ -78,6 +98,11 @@ Most situations involve two or three factors, sometimes pulling in opposite dire
 | A manager must tell an employee that their job is changing | Importance, sensitivity | Face to face, followed by a letter | Email feels impersonal and cannot respond to the employee's reaction |
 | An online shop receives hundreds of "where is my order?" questions daily | Cost, urgency, 24-hour demand | Web-based chatbot, with option to reach a person | Telephone staff for every query would be expensive |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--05-matching-method.webp" width="900" height="760" alt="Seven situations, each with its key factors and the recommended method: telephone for an urgent repair, a letter or secure app for a PIN, videoconferencing for a team in four countries, posters and social media for a local sale, recorded post where internet is weak, face to face for job changes, and a chatbot for routine order questions." loading="lazy">
+  <figcaption>The key factors in each situation point to one method.</figcaption>
+</figure>
+
 ## Annotated model answer
 
 *Question: TravelEase, a travel agency, wants to confirm flight bookings for its customers. Recommend a method of communication and justify your choice.* **[4]**
@@ -85,6 +110,11 @@ Most situations involve two or three factors, sometimes pulling in opposite dire
 > TravelEase should use **email** [1]. Bookings need a **written record** of flight times, prices and booking references that the customer can keep and show at the airport, which a telephone call does not give [1]. Email is also **cheap and fast**, so many confirmations can be sent in seconds, and attachments such as **etickets** can be included [1]. Although email could be hacked, the importance of a permanent record and its low cost make it more suitable than a letter, which would be too slow for customers travelling soon [1].
 
 Why it scores: a clear recommendation, two factors from the syllabus applied to TravelEase, and a comparison with alternatives.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--06-model-answer-structure.webp" width="900" height="590" alt="Four steps of the TravelEase answer, one mark each: recommend email, apply the need for a written record, apply cost and speed with etickets attached, then explain why email beats a letter despite the hacking risk." loading="lazy">
+  <figcaption>Recommend, apply two factors, then say why your choice beats an alternative.</figcaption>
+</figure>
 
 ## What are the common mistakes in 2.6?
 

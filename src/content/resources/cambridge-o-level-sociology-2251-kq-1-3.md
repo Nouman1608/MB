@@ -63,6 +63,11 @@ Research is a sequence of decisions, and each stage limits the next.
    questions, missing answer options and how long the method takes, saving time and money before the
    main study.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-3--01-research-design-stages.webp" width="900" height="852" alt="Seven stages of research design in order: selection of topic, aims, hypothesis, target population, methods, operationalisation and pilot study, each with an example from the lesson. Operationalisation is highlighted: social class might be measured by parents’ occupation." loading="lazy">
+  <figcaption>Research is a chain of decisions, and each stage limits the next.</figcaption>
+</figure>
+
 ## Sampling
 
 A **sampling frame** is a list of the target population from which a sample is drawn, such as a
@@ -76,6 +81,11 @@ member a known chance of selection.
 | **Stratified** | Population divided into groups (strata), such as by gender or age, and a proportionate random sample taken from each | Ensures key groups are represented in correct proportions | Requires a frame with information about each person's group |
 | **Snowball** | Participants recruit others they know | Reaches hidden or hard-to-reach groups with no frame | Not representative; people recruit others like themselves |
 | **Quota** | Interviewer fills set numbers in each category, such as 20 men and 20 women over 60, choosing whoever is available | Quick and cheap; no frame needed | Not random: interviewers may pick approachable people, introducing bias |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-research-approaches-data-and-investigation--05-sampling-techniques.webp" width="900" height="970" alt="A sampling frame is the list; a technique is how people are picked from it. Five rows of twenty dots show each technique: random picks by chance, systematic picks every fourth, stratified keeps the same mix of groups as the population, snowball follows a chain of recruits, and quota fills set numbers with the first people found." loading="lazy">
+  <figcaption>Each technique picks people from the list in a different way, with different risks of bias.</figcaption>
+</figure>
 
 ## Primary methods
 
@@ -109,6 +119,16 @@ overt or covert (open or hidden).
 - **Non-participant:** watching a classroom from the back; less involvement in the group but more
   chance that behaviour changes because people know they are watched.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-3--02-interview-types.webp" width="900" height="611" alt="Structured, semi-structured and unstructured interviews placed on a line from more comparable and reliable to more depth and validity, with group interviews below. Ann Oakley’s 1974 in-depth interviews with 40 London housewives are the example." loading="lazy">
+  <figcaption>The less structured the interview, the more depth it gives and the harder it is to compare.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-3--03-observation-choices.webp" width="900" height="656" alt="A grid of observation types. Overt participant: Whyte’s Street Corner Society (1943) gained access through “Doc”, allowing consent but risking the observer effect. Covert participant: Patrick secretly joined a Glasgow gang (1973), reducing the observer effect but using deception. Non-participant: watching a classroom from the back." loading="lazy">
+  <figcaption>Participant or not, overt or covert: two separate choices.</figcaption>
+</figure>
+
 ## Types of question
 
 | Type | Example | Use |
@@ -117,6 +137,11 @@ overt or covert (open or hidden).
 | **Closed** | "Do you live with both parents? Yes / No" | Quick quantitative answers; reliable but may not fit everyone |
 | **Multiple choice** | "How do you travel to school? Walk / bus / car / other" | Allows several options while staying countable |
 | **Scaled** | "School prepares me for work: strongly agree … strongly disagree" | Measures strength of opinion; respondents may avoid extremes |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-3--04-question-types.webp" width="900" height="436" alt="A table of four question types with an example and use: open questions give answers in the respondent’s own words, closed questions give quick yes or no answers, multiple choice offers several countable options, and scaled questions measure strength of opinion." loading="lazy">
+  <figcaption>Open questions favour validity; closed and scaled questions favour comparison.</figcaption>
+</figure>
 
 ## Theoretical, practical and ethical issues
 
@@ -137,6 +162,16 @@ and later interviewed some of them in disguise as part of a different survey. Th
 five issues at once: no consent, risk to privacy, deception, potential harm if identities became
 known, and questions of legality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-3--05-three-pressures.webp" width="900" height="400" alt="Three groups of pressure on method choice. Theoretical: positivists favour questionnaires and structured interviews, interpretivists unstructured interviews and participant observation. Practical: access, response rate, funding and time. Ethical: informed consent, privacy and confidentiality, deception, prevention of harm and legality." loading="lazy">
+  <figcaption>Every method choice balances theory, practicality and ethics.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-3--06-humphreys-ethics.webp" width="900" height="668" alt="Left: the steps of Laud Humphreys’s Tearoom Trade (1970), from covert observation to noting car numbers, tracing addresses and interviewing men in disguise. Right: the five ethical issues it raised: no informed consent, risk to privacy, deception, potential harm and questions of legality." loading="lazy">
+  <figcaption>Tearoom Trade breached all five ethical principles the syllabus names.</figcaption>
+</figure>
+
 ## Worked example: a research plan for part (e)
 
 *You have been asked to investigate how teenagers decide which subjects to study. Explain the primary
@@ -155,6 +190,11 @@ research methods, sampling and secondary evidence you would use, and give reason
 **Why it works:** each choice is named and justified against the aim; method, sampling and secondary
 evidence are all present; ethics is covered briefly; there is no evaluation, which part (e) does not
 require.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-3--07-part-e-plan.webp" width="900" height="714" alt="A research plan on how teenagers choose subjects, set out as choice and reason: semi-structured interviews for depth and comparison, a pilot to check questions, a stratified sample from three schools’ registers, national subject-entry figures for context, and informed consent with confidentiality." loading="lazy">
+  <figcaption>Name each choice and justify it against the aim; do not evaluate.</figcaption>
+</figure>
 
 ## Common mistakes
 

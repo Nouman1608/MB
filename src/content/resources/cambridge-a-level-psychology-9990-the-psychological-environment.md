@@ -41,6 +41,11 @@ Revise with the [psychological environment revision notes](/resources/cambridge-
 
 Dogu and Erkip (2000) is the suggested study. They surveyed shoppers in a shopping mall about how signs, maps and the building layout affected their ability to find their way, and examined how familiarity with the mall made a difference. Evaluation: questionnaires give quick access to many shoppers' experiences but are subjective, and a single mall in one country may not represent malls with different layouts or cultures of use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-psychological-environment--01-wayfinding.webp" width="900" height="786" alt="Four factors help wayfinding: directional and identification signs, aligned &quot;you are here&quot; maps at entrances and junctions, landmarks and a simple layout, and familiarity. A schematic contrasts an aligned map, where up means straight ahead, with one that is not aligned. Dogu and Erkip (2000) surveyed shoppers in one mall." loading="lazy">
+  <figcaption>Signs, aligned maps, landmarks and familiarity all help shoppers find their way.</figcaption>
+</figure>
+
 ### Shopper movement
 
 The syllabus names four **types of trip**:
@@ -56,6 +61,11 @@ It also names five **spatial behaviour patterns**: specialist, native, tourist, 
 
 **CCTV tracking.** Gil et al. (2009) is the suggested study. Tracking shoppers' routes through a supermarket gives objective data about real movement, which can be grouped into patterns, rather than relying on what shoppers remember or report. Evaluation: tracking is objective and reliable (another researcher would code the same path in the same way), but it shows *where* people go, not *why*, and it raises privacy issues if shoppers have not agreed to be tracked. Reducing shopping to five patterns is also reductionist: real shoppers may mix patterns within one trip.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-psychological-environment--02-trip-types.webp" width="900" height="737" alt="Four schematic store plans: a short trip enters, visits one area and leaves; a round trip follows the outer edge; a central trip goes through the central aisles; a wave trip zig-zags up and down the aisles. Five spatial behaviour patterns range from focused specialist and native visits, through broad tourist and explorer routes, to fast raider visits. Gil et al. (2009) tracked routes by CCTV." loading="lazy">
+  <figcaption>Trip types describe routes; spatial patterns describe styles of shopping.</figcaption>
+</figure>
+
 ## 2.2.2 Menu design psychology
 
 ### Features of menu design
@@ -67,9 +77,19 @@ Pavesic (2005) is the suggested source on features of menus that have positive a
 
 **Eye-tracking** can test these ideas objectively by recording where diners look first, how long they look and in what order, rather than asking them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-psychological-environment--03-menu-design.webp" width="900" height="782" alt="Two schematic menus: a positive one with clear categories and a boxed, highlighted item, and a negative one with prices in a neat column that invites comparing by price. Lists of positive features (highlighting, clear categories, accurate descriptions, readable font) and negative features (price column, too many items, clutter) follow; eye-tracking can test them objectively." loading="lazy">
+  <figcaption>Highlight what you want to sell; do not line prices up for comparison.</figcaption>
+</figure>
+
 ### Item position: primacy and recency
 
 Dayan and Bar-Hillel (2011) found that items placed at the beginning or end of a list within a menu category were chosen more often than the same items in the middle. This fits the **primacy** and **recency** effects from memory research: the first and last items in a list receive more attention and are better remembered. Position effects measured on real orders have more ecological validity than choices from a hypothetical menu, though real orders also depend on price, hunger and recommendations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-psychological-environment--04-menu-position.webp" width="900" height="652" alt="A menu category of five items: the first and last are chosen more often than the same items in the middle, matching primacy and recency effects in which first and last items get more attention and are better remembered." loading="lazy">
+  <figcaption>Put the dishes you want to sell first or last in a category.</figcaption>
+</figure>
 
 ### Food names
 
@@ -92,6 +112,16 @@ Personal space has three functions named in the syllabus:
 - **Arousal**: closeness raises arousal, which is interpreted as pleasant with a partner or unpleasant with strangers.
 - **Behaviour constraint**: when others are too close, our freedom to act (to talk privately, to move) is reduced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-psychological-environment--05-personal-space-functions.webp" width="900" height="476" alt="Three functions of personal space: overload (keeping distance reduces overwhelming stimulation), arousal (closeness is pleasant with a partner, unpleasant with strangers) and behaviour constraint (others too close limit freedom to talk or move). Applied to close restaurant tables, overheard conversations and limits on what diners say explain why the romantic scenario was most affected." loading="lazy">
+  <figcaption>Distance protects us from overload, unwanted arousal and constraint.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--09-co-personal-space-zones.webp" width="900" height="1210" alt="Concentric circles drawn to scale (100 px = 1 m): intimate up to 45 cm, personal 45 cm to 1.2 m, social 1.2 to 3.6 m, public beyond 3.6 m." loading="lazy">
+  <figcaption>Hall's four zones of personal space.</figcaption>
+</figure>
+
 ### Key study: Robson et al. (2011)
 
 **Context.** Restaurants can fit more tables by placing them closer together, but this may reduce diners' comfort. Earlier research on personal space suggested close spacing would cause stress.
@@ -107,6 +137,11 @@ Personal space has three functions named in the syllabus:
 - *Generalisation*: an American sample; preferred distances differ across cultures.
 - *Application*: managers must balance the extra income from more tables against lower satisfaction and return visits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--10-co-robson-table-spacing.webp" width="900" height="1180" alt="Three table pairs with a gap drawn in proportion to 6, 12 and 24 inches. At 6 inches diners had more stress and less privacy and control than at 12 or 24. 1,013 people, 3 distances by 3 scenarios." loading="lazy">
+  <figcaption>Closer tables caused more stress and less control.</figcaption>
+</figure>
+
 ### Defending a place in a queue
 
 Milgram et al. (1986) is the suggested study. Confederates pushed into real queues in New York, for example at ticket counters, and observers recorded how people responded.
@@ -117,6 +152,11 @@ Milgram et al. (1986) is the suggested study. Confederates pushed into real queu
 - **Responses**: mostly verbal objections; also non-verbal signs such as looks and gestures; physical action was rare.
 
 Evaluation: observing real queues gives high ecological validity and both quantitative (how often objections occurred) and qualitative (what people said) data. But people were deceived and did not consent, and intrusion may have caused irritation, so ethics must be considered; queuing norms also vary across cultures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-psychological-environment--06-queue-intrusion.webp" width="900" height="835" alt="A schematic queue: an intruder steps in with a brief neutral comment; people directly behind the intrusion point object most, those in front less. Two intruders caused more objection than one; passive buffers behind the intruder reduced objection; responses were mostly verbal, physical action rare. Real queues give ecological validity but raise ethical and cultural issues." loading="lazy">
+  <figcaption>People who lost their place objected most; buffers took the pressure off.</figcaption>
+</figure>
 
 ## Common mistakes
 

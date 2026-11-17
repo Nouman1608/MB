@@ -45,6 +45,11 @@ Sub-topic 3.2 of Cambridge IGCSE Environmental Management (0680) asks three thin
 
 **Agricultural practices** add fertilisers (nitrate and phosphate ions), animal manure and slurry, and pesticides. These reach water by runoff over the surface after rain, or by leaching down through the soil to groundwater and then into rivers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-pollution--01-five-sources.webp" width="900" height="855" alt="A schematic catchment, not to scale, with five numbered sources draining to one river: domestic waste from houses, sewage from a pipe, plastic litter, industrial wastewater from a factory, and fertiliser, manure and pesticides from farmland, reaching the river by runoff over the surface and by leaching through the soil." loading="lazy">
+  <figcaption>Domestic waste, sewage, plastic, industry and farming all drain to the same river.</figcaption>
+</figure>
+
 ## Impacts on people and the environment
 
 ### Cholera
@@ -81,6 +86,21 @@ Eutrophication is the sequence that follows nutrient enrichment of water. The sy
 
 Organic content shortens this chain: bacteria feed directly on sewage, so oxygen can fall even before an algal bloom forms. In an exam, the marks are for the links between steps, especially "bacteria decompose" and "respiration uses oxygen".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-pollution--02-eutrophication-steps.webp" width="900" height="805" alt="Six linked steps: nitrate and phosphate ions arrive; algae grow rapidly into a bloom; the bloom blocks light so plants below die; the algae die; bacteria decompose the dead material and their respiration uses up dissolved oxygen; fish die or leave. A side arrow shows that organic content such as sewage feeds bacteria directly, so oxygen can fall before a bloom forms." loading="lazy">
+  <figcaption>Nutrients, bloom, light blocked, algae die, bacteria use the oxygen, fish die.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-pollution--03-acid-rain-lakes.webp" width="900" height="655" alt="Acid rain falls on a catchment and the lake becomes more acidic. Many fish, eggs and invertebrates such as insect larvae and snails cannot survive below certain pH values, so populations fall and the food web is disrupted. Acidic water also releases aluminium from soils into lakes, which damages fish gills." loading="lazy">
+  <figcaption>Acidic water kills sensitive species and releases aluminium that damages fish gills.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--12-wa-bio-accumulation-magnification.webp" width="900" height="990" alt="Top panel: the same fish shown three times with more toxin dots each time, for bioaccumulation inside a single organism over time. Bottom panel: prey, predator and top predator joined by eaten-by arrows with more toxin dots at each level, for biomagnification up a food chain." loading="lazy">
+  <figcaption>Bioaccumulation happens within one organism; biomagnification increases up a food chain.</figcaption>
+</figure>
+
 ## Strategies for improving water quality
 
 **Improved sanitation** means safe, hygienic disposal of human waste: toilets connected to sewers, or well-built pit latrines and septic tanks sited away from wells and rivers. It stops faeces reaching drinking water, so it tackles cholera at its source.
@@ -94,6 +114,16 @@ Organic content shortens this chain: bacteria feed directly on sewage, so oxygen
 | Improved sanitation | Cuts disease at source | High cost of sewers; latrines can contaminate groundwater if badly sited |
 | Sewage treatment | Removes pathogens and organic matter; protects rivers | Expensive to build and run; works can overflow in storms |
 | Legislation | Applies to every polluter; fines fund clean-up | Needs inspectors and honest monitoring; weak where enforcement is poor |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-pollution--05-sewage-treatment.webp" width="900" height="620" alt="Four stages: screening removes solid objects and grit; solids settle in tanks; bacteria break down organic matter in well-aerated tanks; further treatment can remove nitrates and phosphates. Treatment protects rivers and reduces eutrophication downstream, but is expensive and can overflow in storms." loading="lazy">
+  <figcaption>Screen, settle, let aerated bacteria break down organic matter, then strip out nutrients.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-pollution--06-match-strategies.webp" width="900" height="690" alt="Four rows link source, impact and strategy. Sewage causes cholera: improved sanitation and sewage treatment. Fertilisers, sewage and detergents cause eutrophication: nutrient removal at treatment works, limits on fertiliser near rivers and buffer strips. Industry causes toxic accumulation: legislation with discharge limits, permits, on-site treatment and fines. Pesticides bioaccumulate: banning the most persistent ones." loading="lazy">
+  <figcaption>Each source needs its own strategy; sewage treatment does not fix industrial pollution.</figcaption>
+</figure>
 
 ## Worked example 1: interpreting biomagnification data
 
@@ -114,6 +144,11 @@ Question: calculate how many times more concentrated the pesticide is in the bir
 3. Explanation: the pesticide is not broken down or excreted, so each organism stores what it takes in (bioaccumulation). Each consumer eats many organisms from the level below, so the amount stored increases at each trophic level (biomagnification). The bird is at the top, so it has the highest concentration.
 
 Notice that the answer uses both terms correctly and links them to the data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-pollution--04-biomagnification-data.webp" width="900" height="755" alt="A log-scale bar chart of pesticide concentration in parts per million: water 0.00005, plankton 0.04, small fish 0.5, large fish 2.0 and fish-eating bird 25. The bird’s concentration is 500,000 times that of the water because the pesticide is stored in each organism and increases at each trophic level." loading="lazy">
+  <figcaption>The bird holds the pesticide at 500,000 times the concentration in the water.</figcaption>
+</figure>
 
 ## Worked example 2: an annotated model answer
 

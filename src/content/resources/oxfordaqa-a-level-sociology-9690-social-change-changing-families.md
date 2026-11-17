@@ -57,6 +57,16 @@ The point for exams is to connect each change to family structure: lower fertili
 produce families with more generations but fewer members in each, which is the basis of the
 **beanpole family**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-change-changing-families--01-demographic-changes.webp" width="900" height="797" alt="A grid of family size, birth rate, death rate, infant and child mortality and ageing, each with what has happened and its main explanations, plus internal and international migration." loading="lazy">
+  <figcaption>Each demographic change reshapes the structure of families.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-change-changing-families--02-beanpole.webp" width="900" height="652" alt="Left: an earlier family shape with few generations and many members in each. Right: a beanpole family of four generations with one or two members each and a pivot generation in the middle. Falling fertility and rising life expectancy produce the change." loading="lazy">
+  <figcaption>Lower fertility and longer lives make families long and thin.</figcaption>
+</figure>
+
 ## Families, industrialisation and urbanisation
 
 Three positions are worth comparing.
@@ -79,6 +89,11 @@ towards smaller households. Yet many urban families in developing societies keep
 rural kin through visits, money and childcare, so households shrink while family networks remain
 extended.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-change-changing-families--03-industrialisation.webp" width="900" height="508" alt="Three positions on families and industrialisation: Parsons and Goode’s functionalist fit, Laslett and Anderson’s historical challenge, and Young and Willmott’s stages ending in the symmetrical family, with a note on urbanisation." loading="lazy">
+  <figcaption>Households shrink in cities, but family networks often stay extended.</figcaption>
+</figure>
+
 ## Family diversity: the named newer types
 
 | Type | Definition | Link to social change |
@@ -99,6 +114,11 @@ three children, produced a "4-2-1" structure of four grandparents, two parents a
 Welfare, housing and parental leave policies shape whether young adults can leave home, whether
 lone parents can work, and how care for older people is shared.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-change-changing-families--04-diversity-types.webp" width="900" height="808" alt="A grid of pivot generation, reconstituted, living apart together, child-free and beanpole families with definitions and links to social change, and a note on laws such as divorce reform and China’s one-child policy." loading="lazy">
+  <figcaption>Each newer family type has a demographic, legal or cultural driver.</figcaption>
+</figure>
+
 ## Individualisation and personal life (Smart)
 
 **Individualisation** theorists argue that traditional ties of class, religion and kinship have
@@ -118,6 +138,11 @@ California's Silicon Valley and found women creating new arrangements after divo
 **divorce-extended family** linking former in-laws, which she saw as evidence of a postmodern
 family with no single dominant form.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-change-changing-families--05-individualisation-smart.webp" width="900" height="519" alt="Individualisation theorists Beck, Beck-Gernsheim and Giddens see relationships as freely chosen and fragile; Smart argues people stay embedded in webs of relationships and proposes personal life. Stacey’s divorce-extended family illustrates postmodern diversity." loading="lazy">
+  <figcaption>Smart: choices are real, but made within relationships and histories.</figcaption>
+</figure>
+
 ## Diasporas and transnational families
 
 A **diaspora** is a population dispersed from a homeland that keeps a sense of shared identity. A
@@ -128,6 +153,11 @@ calls, letters and remittances. Arlie Hochschild's idea of **global care chains*
 migrant woman cares for a richer family's children while her own children are cared for by
 relatives or paid help at home. Cheap video calls and money transfer apps have made
 "doing family" at a distance easier but do not remove the emotional costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-change-changing-families--06-care-chains.webp" width="900" height="511" alt="A global care chain: a migrant woman cares for a richer family’s children abroad while her own children are cared for by relatives or paid help. Cards cover Parreñas on transnational families and families of choice, personal communities and pets." loading="lazy">
+  <figcaption>Care and family life now stretch across borders and beyond kin.</figcaption>
+</figure>
 
 ## Friends as family and pets as family
 
@@ -157,6 +187,11 @@ cause of family diversity.*
   a society with high emigration.
 - **Conclusion:** demographic change is a necessary condition, but laws and cultural change decide
   which forms appear.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-change-changing-families--07-essay-plan.webp" width="900" height="898" alt="A five-step plan for a 20-mark essay on demographic causes of family diversity: introduction, arguments for, arguments against, application to a named society and a conclusion." loading="lazy">
+  <figcaption>Demography sets the conditions; laws and culture decide the forms.</figcaption>
+</figure>
 
 ## Common mistakes
 

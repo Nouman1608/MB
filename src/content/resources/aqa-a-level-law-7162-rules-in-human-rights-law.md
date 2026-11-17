@@ -51,6 +51,11 @@ speech about government. In **R v Secretary of State for the Home Department, ex
 Lord Hoffmann described the **principle of legality**: Parliament can legislate against fundamental
 rights, but must do so with clear words, so general words in a statute are read as not overriding them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-rules-in-human-rights-law--01-layers-of-sources.webp" width="900" height="753" alt="Five layers of human rights rules, each with an example: the Convention text (Article 10.1 and 10.2), Strasbourg case law (Handyside v UK), the Human Rights Act 1998 (the section 6 duty), statute (PACE 1984) and common law (Entick v Carrington; Derbyshire CC v Times Newspapers). Below: Derbyshire stops a council suing for defamation, and Simms sets out the principle of legality." loading="lazy">
+  <figcaption>Convention, case law, the HRA, statute and common law each supply part of the rules.</figcaption>
+</figure>
+
 ## The five rights at a glance
 
 | Right | Article | Type | How it can be limited |
@@ -68,6 +73,11 @@ is **necessary in a democratic society**, meaning proportionate to a pressing so
 tests are in the [Restrictions study guide](/resources/aqa-a-level-law-7162-restrictions/). For
 contrast, **absolute** rights such as Article 3 (torture, inhuman or degrading treatment) allow no
 balancing at all.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-rules-in-human-rights-law--02-rights-by-type.webp" width="900" height="654" alt="Three columns. Absolute rights, such as Article 3, allow no balancing. Limited rights, Article 2 (life) and Article 5 (liberty and security), can be restricted only in the ways the Article lists. Qualified rights, Articles 8, 10 and 11, can be restricted if prescribed by law, for a legitimate aim, and necessary in a democratic society." loading="lazy">
+  <figcaption>Limited rights use the Article’s own list; qualified rights use the three-part test.</figcaption>
+</figure>
 
 ## Principles that apply to every right
 
@@ -113,6 +123,21 @@ free-standing: it must be argued alongside another Article. In **A v Secretary o
 Department (2004)** detention of foreign nationals only was discriminatory under Article 14 taken with
 Article 5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-rules-in-human-rights-law--03-negative-positive.webp" width="900" height="610" alt="Two panels. Negative obligation: the state must not interfere with an individual’s right without justification. Positive obligation: the state must step in to protect an individual, including against a private person. Examples: X and Y v Netherlands (Article 8), Osman v UK (Article 2) and protecting a lawful demonstration from counter-protesters (Article 11)." loading="lazy">
+  <figcaption>Every right restrains the state; many also require it to protect people from others.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-rules-in-human-rights-law--04-interpretation-principles.webp" width="900" height="534" alt="Five interpretation principles: living instrument (Tyrer v UK, birching), practical and effective rights (Airey v Ireland, access to court), autonomous meaning (Engel v Netherlands, “criminal charge”), the margin of appreciation, and proportionality." loading="lazy">
+  <figcaption>The Convention is read as a living, practical document with its own meanings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-rules-in-human-rights-law--05-vertical-horizontal.webp" width="900" height="580" alt="Left: vertical effect, where an individual relies on Convention rights against the state or a public authority under HRA section 6. Right: indirect horizontal effect, where a court, itself a public authority, develops the law between private parties such as a model and a newspaper (Campbell v MGN). Article 14 on discrimination must be argued with another Article (A v Home Secretary, with Article 5)." loading="lazy">
+  <figcaption>Rights bind the state directly and reach private disputes through the courts.</figcaption>
+</figure>
+
 ## A method for any human rights problem
 
 Paper 3 scenarios often raise several rights at once. The same sequence works for each.
@@ -127,6 +152,11 @@ Paper 3 scenarios often raise several rights at once. The same sequence works fo
 5. **Is it justified?** Apply the listed exceptions for a limited right, or the three-part test for a
    qualified right.
 6. **Enforcement and remedy**: who can claim, in which court, and what they can obtain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-rules-in-human-rights-law--06-six-step-method.webp" width="900" height="710" alt="Six numbered steps: identify the right and Article; classify it as limited or qualified; ask whether it is engaged; identify the interference or failure to protect; test justification by the listed exceptions or the three-part test; then enforcement and remedy." loading="lazy">
+  <figcaption>Identify, classify, engaged, interference, justified, remedy.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -150,6 +180,11 @@ Art 5:         Arrest needs a 5.1(c) ground (reasonable suspicion) and
 Remedy:        Police are a public authority (HRA s6); Sam is a victim (s7);
                damages or a declaration (s8).
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-rules-in-human-rights-law--07-worked-example-sam.webp" width="900" height="465" alt="Sam’s facts mapped to rights. Intercepting his calls engages Article 8, where a vague by-law may fail “in accordance with the law”. Banning the march and arresting him engage Articles 10 and 11, where a total ban is hard to justify. Holding him 40 hours engages Article 5, needing a 5.1(c) ground and prompt appearance under 5.3. Remedy under HRA sections 6 to 8." loading="lazy">
+  <figcaption>Each fact engages its own Article, and each Article has its own test.</figcaption>
+</figure>
 
 ## Common mistakes
 

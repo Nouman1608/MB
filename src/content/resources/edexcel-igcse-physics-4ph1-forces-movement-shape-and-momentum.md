@@ -79,6 +79,11 @@ stays at rest or keeps moving at constant velocity. Only an **unbalanced**
 motion) between surfaces. Air resistance and water resistance (drag) are
 types of friction that increase with speed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-forces-movement-shape-and-momentum--01-resultant-force-boat.webp" width="900" height="600" alt="A 400 kg boat with an engine force of 1500 N forwards, water resistance of 900 N and a wind force of 200 N backwards. The resultant force is 400 N forwards, so a = 400 ÷ 400 = 1.0 m/s²." loading="lazy">
+  <figcaption>Add forces in the positive direction, subtract the others, then use F = m × a.</figcaption>
+</figure>
+
 ## Weight
 
 Weight is the gravitational force on a mass: W = m × g, with g = 10 N/kg
@@ -107,6 +112,11 @@ For a given speed, thinking distance = speed × reaction time. A driver
 with a reaction time of 0.70 s at 20 m/s has a thinking distance of
 20 × 0.70 = 14 m. At 40 m/s it doubles to 28 m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-forces-movement-shape-and-momentum--02-stopping-distance.webp" width="900" height="660" alt="A bar split into thinking distance, travelled at constant speed during the reaction time, and braking distance, travelled while the brakes act. Factors: speed and reaction time affect thinking distance; speed, mass, road conditions and worn tyres or brakes affect braking distance. At 0.70 s, 20 m/s gives 14 m and 40 m/s gives 28 m." loading="lazy">
+  <figcaption>Mass and road conditions affect braking distance only; reaction time affects thinking distance only.</figcaption>
+</figure>
+
 ## Falling objects and terminal velocity (1.21)
 
 An object falling through air has two forces on it: weight downwards and
@@ -124,6 +134,11 @@ Opening a parachute greatly increases the surface area and so the air
 resistance. Air resistance becomes larger than weight, the resultant force
 is upwards, and the skydiver decelerates until the forces balance again at
 a lower terminal velocity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-forces-movement-shape-and-momentum--03-terminal-velocity-parachute.webp" width="900" height="715" alt="A velocity-time graph for a skydiver: velocity rises and levels off at terminal velocity, then drops when the parachute opens and levels at a lower terminal velocity. Force diagrams: air resistance less than weight while accelerating, equal at terminal velocity, greater just after the parachute opens, and equal again." loading="lazy">
+  <figcaption>Air resistance grows with speed until it equals weight; a parachute makes it bigger, so the skydiver slows to a lower terminal velocity.</figcaption>
+</figure>
 
 ## Forces and shape (1.22–1.24)
 
@@ -152,6 +167,11 @@ it is elastic.
 shape after the forces causing deformation are removed. A spring loaded
 too far does not return to its original length: it has been permanently
 deformed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-forces-movement-shape-and-momentum--04-spring-practical-and-graph.webp" width="900" height="680" alt="A spring hangs from a clamp beside a metre rule with a pointer and 100 g masses. A force-extension graph: the spring gives a straight line through the origin up to the limit of proportionality, then curves; a rubber band gives a curve." loading="lazy">
+  <figcaption>Extension is proportional to force in the initial straight region: Hooke's law.</figcaption>
+</figure>
 
 ## Momentum (1.25P–1.28P)
 
@@ -194,6 +214,16 @@ F = −1050 / 0.50 = −2100 N, so 2100 N against the motion
 Without them, stopping in about 0.05 s against the dashboard would need a
 force ten times larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-forces-movement-shape-and-momentum--05-explosion-momentum.webp" width="900" height="640" alt="Two trolleys of 2.0 kg and 3.0 kg at rest with a spring between them. After release the 3.0 kg trolley moves right at 0.40 m/s. Momentum before is zero, so 1.2 + 2.0v = 0 and the 2.0 kg trolley moves left at 0.60 m/s." loading="lazy">
+  <figcaption>Total momentum stays zero: the lighter trolley moves off faster the other way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-forces-movement-shape-and-momentum--06-safety-features-force-time.webp" width="900" height="720" alt="Force against time for stopping a 70 kg passenger moving at 15 m/s. Over 0.50 s with a seat belt and airbag the force is 2100 N; over about 0.05 s against a dashboard it is ten times larger. The momentum change, 1050 kg m/s, is the same." loading="lazy">
+  <figcaption>The same change in momentum over a longer time needs a smaller force.</figcaption>
+</figure>
+
 ## Newton's third law (1.29P)
 
 If body A exerts a force on body B, body B exerts a force on body A that
@@ -224,6 +254,11 @@ towards B, R_B increases and R_A decreases; with the load at the centre
 each support carries 300 N. Taking moments about one support removes that
 support's unknown force from the equation, which is why you should always
 choose a support as the pivot.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-forces-movement-shape-and-momentum--07-beam-on-two-supports.webp" width="900" height="610" alt="A light 2.0 m beam on supports A and B with a 600 N load 0.50 m from A. Taking moments about A gives R_B × 2.0 = 600 × 0.50, so R_B = 150 N, and R_A = 600 − 150 = 450 N." loading="lazy">
+  <figcaption>Take moments about one support, then balance the upward and downward forces.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -37,6 +37,11 @@ Parliament
       -> Local authority or public body: bylaw
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-law-nature-of-law-and-english-legal-system--07-law2-delegated-legislation.webp" width="900" height="1000" alt="Parliament passes an enabling Act. Under it, statutory instruments, byelaws and Orders in Council are made. Below, two controls: parliamentary (affirmative and negative resolution, scrutiny committees) and judicial (review for procedural or substantive ultra vires, and unreasonableness). Advantages: speed, expertise, flexibility. Dangers: volume, sub-delegation, lack of publicity." loading="lazy">
+  <figcaption>Delegated legislation is made under an enabling Act, with parliamentary and judicial controls.</figcaption>
+</figure>
+
 ## The three types
 
 ### Orders in Council
@@ -59,6 +64,11 @@ Made by **government ministers and their departments** under powers in an enabli
 
 Made by **local authorities** for their own area and by **public bodies** for the places they manage. A district council may make bylaws on matters such as dog fouling or the use of parks; transport bodies make bylaws governing conduct on their railways and stations. Bylaws usually need approval from the relevant government department before they take effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-delegated-legislation--01-three-types.webp" width="900" height="476" alt="Three types. Orders in Council are made by the King and Privy Council on ministers’ advice, for transferring responsibilities, bringing Acts into force and emergencies under the Civil Contingencies Act 2004. Statutory instruments, the most common, are made by ministers, such as minimum wage rates and the 2020 coronavirus regulations. Bylaws are made by local authorities and public bodies, such as rules on dog fouling, parks or railway conduct." loading="lazy">
+  <figcaption>Who makes it tells you the type: Privy Council, minister, or local or public body.</figcaption>
+</figure>
+
 ## The reasons for using delegated legislation
 
 The specification separates reasons from advantages, so keep them distinct: reasons explain **why** Parliament delegates; advantages are **benefits** of the result.
@@ -69,6 +79,11 @@ The specification separates reasons from advantages, so keep them distinct: reas
 4. **Speed and emergencies.** A statutory instrument can be made in days, which was why most coronavirus restrictions were imposed this way.
 5. **Flexibility.** Rules that must change often, such as minimum wage rates, can be updated without a new Act.
 6. **Consultation.** Many enabling Acts require consultation with interested parties before rules are made.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-delegated-legislation--02-reasons.webp" width="900" height="463" alt="Six reasons for delegated legislation around a central circle: lack of parliamentary time, technical expertise, local knowledge, speed in emergencies such as coronavirus restrictions, flexibility for rules like minimum wage rates, and consultation required by many enabling Acts." loading="lazy">
+  <figcaption>Time, expertise, local knowledge, speed, flexibility and consultation.</figcaption>
+</figure>
 
 ## Parliamentary controls
 
@@ -83,6 +98,11 @@ The specification separates reasons from advantages, so keep them distinct: reas
 | Questions and debates | MPs can question ministers | Publicity | Limited time |
 
 The House of Lords **Delegated Powers and Regulatory Reform Committee** also examines Bills before they become Acts, checking whether the powers they would delegate are appropriate. This is a control at source.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-delegated-legislation--03-parliamentary-controls.webp" width="900" height="658" alt="Parliamentary controls: the enabling Act at source, checked by the Lords Delegated Powers and Regulatory Reform Committee; negative resolution, where an instrument is law unless annulled within about 40 days; affirmative resolution, which forces a vote but cannot amend; the rare super-affirmative procedure; the Joint Committee on Statutory Instruments on technical grounds; the Lords Secondary Legislation Scrutiny Committee on merits; and questions and debates." loading="lazy">
+  <figcaption>Most instruments pass under the negative procedure with little debate.</figcaption>
+</figure>
 
 ## Judicial controls
 
@@ -105,6 +125,11 @@ The courts will also strike down delegated legislation that is so unreasonable n
 
 **Limit of judicial control:** it is retrospective (the court acts only after a challenge), depends on someone bringing a case, and cannot be used against the enabling Act itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-delegated-legislation--04-judicial-controls.webp" width="900" height="493" alt="Three grounds of judicial review. Procedural ultra vires: the required procedure was not followed (Aylesbury Mushrooms). Substantive ultra vires: rules beyond the powers given (Cure &amp; Deeley; Public Law Project). Unreasonableness on the Wednesbury standard (Strickland v Hayes, though Kruse v Johnson upheld a bylaw). Limits: retrospective, needs a challenger, and cannot attack the enabling Act." loading="lazy">
+  <figcaption>Wrong procedure, too much power, or unreasonable: then the court can declare it void.</figcaption>
+</figure>
+
 ## Advantages and disadvantages
 
 | Advantages | Disadvantages |
@@ -115,6 +140,11 @@ The courts will also strike down delegated legislation that is so unreasonable n
 | Flexible: easy to update | **Sub-delegation**: power passed down again, further from Parliament |
 | Consultation can improve quality | **Henry VIII powers** allow ministers to amend Acts themselves, weakening parliamentary supremacy in practice |
 | Controls exist in Parliament and the courts | **Weak controls**: negative procedure rarely leads to debate; Parliament cannot amend; judicial review depends on a challenge |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-delegated-legislation--05-advantages-disadvantages.webp" width="900" height="386" alt="Advantages: saving parliamentary time, expertise and local knowledge, speed in emergencies, flexibility, consultation and the existence of controls. Disadvantages: it is undemocratic, made in large volume with little debate or publicity, open to sub-delegation and Henry VIII powers, and the controls are weak." loading="lazy">
+  <figcaption>Efficient and flexible, but less democratic and weakly controlled.</figcaption>
+</figure>
 
 ## Worked example: applying judicial control
 
@@ -128,6 +158,11 @@ Substantive ultra vires: power limited to sales to under-18s;
 Unreasonableness: possibly also argued, but the clearer grounds are ultra vires
 Conclusion: a retailer could seek judicial review; regulations likely void
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-delegated-legislation--06-fireworks-worked-example.webp" width="900" height="687" alt="A fictional Act allows the Home Secretary to restrict firework sales to under-18s after consulting retailers. She bans all sales without consulting. This is procedural ultra vires (Aylesbury Mushrooms) and substantive ultra vires (Cure &amp; Deeley); unreasonableness may also be argued. A retailer could seek judicial review and the regulations are likely void." loading="lazy">
+  <figcaption>Compare what was done with the exact words of the enabling power.</figcaption>
+</figure>
 
 ## Common mistakes
 

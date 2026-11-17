@@ -47,6 +47,11 @@ Most skills questions are really choice questions: "suggest an appropriate metho
 
 A justification needs **two parts**: what the technique shows, and why that suits this data. "A scatter graph, because it shows whether two continuous variables are related and reveals anomalies" earns more than "a scatter graph, because it is clear".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--01-choosing-a-technique.webp" width="900" height="783" alt="Table matching ten types of data to suitable presentation and statistics, from located proportional symbols for values at points to dispersion diagrams and standard deviation for the spread of one data set. A note says a justification needs what the technique shows and why it suits the data." loading="lazy">
+  <figcaption>Choose the technique from the type of data, then justify it in two parts.</figcaption>
+</figure>
+
 ## Core skills: annotation, literacy and numeracy
 
 **Annotation** explains; labelling names. On a field sketch, "cliff" is a label; "steep cliff of jointed limestone -- joints exploited by hydraulic action" is an annotation linking feature to process.
@@ -62,6 +67,11 @@ A justification needs **two parts**: what the technique shows, and why that suit
 
 **Questionnaires and interviews** need careful design. Closed questions and rating scales (for example 1 to 5) produce data that can be counted and tested; open questions produce richer but harder-to-compare answers. Avoid leading wording ("Don't you agree the new road is dangerous?"), pilot the questions, and record where and when each response was collected.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--02-percentage-and-rate-of-change.webp" width="900" height="533" alt="Two bars to scale: a town of 48,000 grows to 61,200, an increase of 13,200 shown in gold. Formulas below: percentage change = 13,200 / 48,000 x 100 = 27.5%, and mean rate of change over 12 years = 1,100 people a year." loading="lazy">
+  <figcaption>Percentage change compares with the starting value; rate of change divides by time.</figcaption>
+</figure>
+
 ## Cartographic skills: constructing to scale
 
 **Isoline interpolation.** To draw an isoline you estimate where the value falls between two measured points. Point A records 140 and point B records 190; they are 25 mm apart on the map. The 160 isoline lies (160 - 140) / (190 - 140) = 20 / 50 = 0.4 of the distance from A, so **10 mm from A**. Interpolation assumes the value changes evenly between points, which is why isoline maps need dense data.
@@ -72,6 +82,16 @@ A justification needs **two parts**: what the technique shows, and why that suit
 
 **Choropleth maps** should show rates or densities. Choose a small number of classes (often four to six), use a single colour that darkens as values rise, and remember that the map implies sudden change at boundaries.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--03-isoline-interpolation.webp" width="900" height="695" alt="Points A (140) and B (190) lie 25 mm apart on a scale bar. The 160 isoline crosses 10 mm from A, because 160 is 0.4 of the way from 140 to 190. Steps show the calculation and the assumption that values change evenly between points." loading="lazy">
+  <figcaption>Find the fraction of the value gap, then take that fraction of the distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--04-symbols-and-flow-lines.webp" width="900" height="622" alt="Three circles drawn to scale: 2,500 visitors with a radius of 8 mm, 6,400 visitors with 12.8 mm and 10,000 visitors with 16 mm, showing that four times the value doubles the radius. Below, a flow line 7.5 mm wide for 3,750 vehicles a day at 1 mm per 500 vehicles." loading="lazy">
+  <figcaption>Scale circle area, not radius, to the value; scale flow-line width to volume.</figcaption>
+</figure>
+
 ## Graphical skills: reading and judging
 
 **Triangular graphs.** A soil sample with 20% clay, 30% silt and 50% sand is plotted where the three gridlines meet; check that the three values add to 100% before plotting. Points that cluster show samples of similar composition.
@@ -79,6 +99,11 @@ A justification needs **two parts**: what the technique shows, and why that suit
 **Logarithmic scales.** Each cycle is ten times the one below (1-10, 10-100, 100-1,000). Read values by counting cycles first, then the position within the cycle -- the gridlines inside a cycle are not evenly spaced. On a log scale, a straight rising line means a constant **percentage** rate of growth.
 
 **Best fit lines and residuals.** Draw the line through the general trend so roughly equal numbers of points lie on each side. Points well away from it are **residuals**; explaining them is often where analysis marks are found.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--05-triangular-graph.webp" width="900" height="620" alt="A triangular graph with corners at 100% clay, 100% silt and 100% sand and gridlines every 10%. Dashed lines at 20% clay, 30% silt and 50% sand meet at a single plotted point. Notes say to check the three values add to 100% and that clustered points show similar samples." loading="lazy">
+  <figcaption>Check the three values total 100%, then plot where the three gridlines meet.</figcaption>
+</figure>
 
 ## Statistical skills: interpreting spread and testing relationships
 
@@ -108,6 +133,21 @@ Sum of d^2 = 164. rs = 1 - (6 x 164) / (8^3 - 8) = 1 - 984 / 504 = **-0.952**. T
 | Total | 55 | 45 | 100 |
 
 Expected value = row total x column total / grand total. For "within 200 m, aware": 50 x 55 / 100 = 27.5. The four expected values are 27.5, 22.5, 27.5 and 22.5. Chi-square = sum of (O - E)^2 / E = 1.54 + 1.88 + 1.54 + 1.88 = **6.83**. Degrees of freedom = (2 - 1) x (2 - 1) = 1. Critical values for df = 1 are 3.84 (0.05) and 6.63 (0.01), so the difference is significant at the 0.01 level. The test confirms a difference exists; explaining it requires geographical reasoning, such as direct experience of past floods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--06-same-mean-different-spread.webp" width="900" height="674" alt="Dispersion diagram of two sets of seven infiltration times with the same mean of 22 seconds. Set A clusters between 18 and 26 seconds with a standard deviation of 2.4 s; set B spreads from 8 to 36 seconds with 9.6 s. Shaded bands show one standard deviation either side of the mean." loading="lazy">
+  <figcaption>The same mean can hide very different spread: report both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--07-spearman-negative.webp" width="900" height="641" alt="Scatter graph of eight invented sites: recorded crimes fall from 42 at 0.2 km to 15 at 3.7 km from the centre. The calculation gives rs = -0.952; on a scale from 0 to 1 its size lies beyond the critical values 0.738 (0.05) and 0.881 (0.01), so the null hypothesis is rejected at the 0.01 level." loading="lazy">
+  <figcaption>A strong negative correlation, significant at 0.01, but it does not prove cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--08-chi-square-two-by-two.webp" width="900" height="720" alt="Paired bars compare observed and expected counts: within 200 m of the river 34 aware and 16 not aware against expected 27.5 and 22.5; over 200 m 21 and 29 against the same expected values. Chi-square = 6.83 with 1 degree of freedom, beyond the critical values 3.84 and 6.63, so the difference is significant at the 0.01 level." loading="lazy">
+  <figcaption>Observed counts differ from expected enough to be significant at 0.01.</figcaption>
+</figure>
 
 ## ICT skills: judging digital sources
 

@@ -55,6 +55,16 @@ Informal social control is based on **unwritten rules**: norms and expectations 
 
 Most people conform mainly because of informal control. They have **internalised** norms through socialisation, so the formal system is needed only when informal control fails.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-control--01-formal-informal.webp" width="900" height="623" alt="A comparison. Formal social control rests on written rules such as laws and school rules, enforced by police, courts, prisons, government, schools and employers. Informal control rests on unwritten norms, enforced by family, peers, colleagues, religion and the media through grounding, teasing or exclusion." loading="lazy">
+  <figcaption>Formal control is written and officially enforced; informal control works through everyday relationships.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-control--02-why-people-conform.webp" width="900" height="564" alt="Three narrowing layers: socialisation, through which norms are internalised; informal control by family, peers, colleagues, religion and media, which keeps most people in line; and formal control, needed only when informal control fails." loading="lazy">
+  <figcaption>Formal control is the back-up: most conformity comes from socialisation and informal control.</figcaption>
+</figure>
+
 ## Sanctions
 
 A **sanction** is a reward or punishment that encourages conformity. The specification names sanctions directly, and a two-by-two grid is the clearest way to learn them:
@@ -66,6 +76,11 @@ A **sanction** is a reward or punishment that encourages conformity. The specifi
 
 Two points earn credit in explanations. First, sanctions work through anticipation: people conform to avoid a negative sanction, not only after receiving one. Second, the same agent can use both kinds: a school gives formal detentions but also uses a teacher's informal praise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-control--03-sanctions.webp" width="900" height="735" alt="A two-by-two grid. Formal positive sanctions: medals, awards, promotions, certificates. Formal negative: fines, prison, exclusion, police cautions. Informal positive: praise, a smile, being included. Informal negative: a frown, gossip, ridicule, being ignored. Below, sanctions work through anticipation, and one agent can use both kinds." loading="lazy">
+  <figcaption>Sanctions are rewards as well as punishments, formal or informal.</figcaption>
+</figure>
+
 ## Perspectives on social control
 
 | Perspective | Whose interests control serves | How it works |
@@ -76,6 +91,11 @@ Two points earn credit in explanations. First, sanctions work through anticipati
 | **Interactionist** | The question is how control is applied | Agents of social control use discretion and label some groups more readily than others; control can create further deviance through labelling (Becker) |
 
 Notice the difference in emphasis. Functionalists and Marxists are **structural** perspectives: they look at what control does for society or the ruling class. Interactionists look at **face-to-face** decisions by police officers, teachers and others about whom to stop, warn or label.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-control--04-perspectives.webp" width="900" height="432" alt="Four cards. Functionalists say control serves society by maintaining consensus and order. Marxists say it serves the ruling class by protecting property. Feminists say it serves men through heavier control of women. Interactionists look at face-to-face decisions by agents who label some groups, which can create more deviance." loading="lazy">
+  <figcaption>Structural views ask whom control serves; interactionists ask how it is applied face to face.</figcaption>
+</figure>
 
 ## Heidensohn on female conformity
 
@@ -104,6 +124,16 @@ She identifies control in three settings.
 **Evaluation:** Heidensohn has been criticised for making generalisations that do not apply to all women and for not always supporting her claims with strong research-based evidence. Her ideas may also apply less today, as more women work full time and gender roles have changed, although the persistence of harassment and domestic violence suggests many forms of control continue.
 
 **Link to 3.5.3:** Carlen also uses control theory, but explains why some working-class women *do* commit crime: the rewards promised for conformity fail. Heidensohn explains conformity; Carlen explains its breakdown.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-control--05-heidensohn.webp" width="900" height="685" alt="Heidensohn argues patriarchal societies control women more effectively than men. At home through housework, the threat of violence, breadwinners’ financial power and closer control of daughters; in public through fear of sexual violence, reputation and separate spheres; at work through male hierarchies and harassment. Below, criticisms." loading="lazy">
+  <figcaption>Heidensohn explains women’s lower offending by control, not by nature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-control--06-heidensohn-carlen.webp" width="900" height="447" alt="Two panels. Heidensohn uses control theory to explain why most women conform: patriarchal control at home, in public and at work. Carlen uses it to explain why some working-class women offend: the rewards promised by the class and gender deals fail." loading="lazy">
+  <figcaption>Heidensohn explains conformity; Carlen explains its breakdown.</figcaption>
+</figure>
 
 ## Worked example: an annotated 4-mark answer
 

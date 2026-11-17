@@ -47,6 +47,21 @@ You must also evaluate the use of **experimental and control groups or condition
 
 **Order effects** are changes in performance caused by doing conditions in sequence. **Practice effects** improve performance in later conditions; **fatigue effects** worsen it. **Counterbalancing** gives half the participants condition A then B, and half B then A, so order effects are spread equally. **Random allocation** gives each participant an equal chance of being in each condition, so participant variables are likely to be spread evenly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--13-experimental-designs.webp" width="900" height="1060" alt="Independent measures: different people per condition. Matched pairs: pairs split across conditions. Repeated measures: same people in both conditions." loading="lazy">
+  <figcaption>Who takes part in which condition under each design.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--14-counterbalancing.webp" width="900" height="850" alt="Everyone doing A then B risks order effects. Counterbalancing has half do A then B and half B then A." loading="lazy">
+  <figcaption>Counterbalancing spreads order effects across conditions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-research-methods-as--01-lab-v-field.webp" width="900" height="652" alt="Laboratory experiments, such as Andrade's doodling study, have strong control and are easy to replicate but are artificial with more demand characteristics. Field experiments, such as Piliavin et al. on the subway, have higher ecological validity but weaker control and ethical problems. A control group with no model gave Bandura et al. a baseline for comparison." loading="lazy">
+  <figcaption>Laboratory or field depends on the setting, not on whether there is a control group.</figcaption>
+</figure>
+
 ## Self-reports
 
 Self-reports ask participants to report their own thoughts, feelings or behaviour.
@@ -57,11 +72,21 @@ Self-reports ask participants to report their own thoughts, feelings or behaviou
 
 Evaluate self-reports in terms of **social desirability bias** (giving answers that make you look good), whether people can accurately report on themselves, and the trade-off between closed questions (easy to compare, reliable) and open questions (detailed, more valid for complex experiences).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-research-methods-as--02-self-reports.webp" width="900" height="875" alt="Questionnaires can be paper or online and use open questions giving qualitative data or closed questions giving quantitative data. Interviews vary in format, from structured through semi-structured to unstructured, and in technique, face-to-face or telephone. Evaluation points are social desirability bias, accuracy of self-knowledge and the open versus closed trade-off." loading="lazy">
+  <figcaption>Format and technique are two separate ways interviews differ.</figcaption>
+</figure>
+
 ## Case studies
 
 A case study is a detailed investigation of a **single participant or unit**, such as one person, one family or one organisation. Saavedra and Silverman's study of a boy with button phobia is the core example. Case studies usually combine techniques, such as interviews, observation and questionnaires, so the findings can be checked against each other.
 
 Strengths: rich, detailed, often qualitative data; they can study rare cases that could not be created experimentally. Weaknesses: findings may not generalise from one case, the researcher may become subjective, and retrospective information depends on memory.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-research-methods-as--03-case-study.webp" width="900" height="711" alt="A single person, family or organisation at the centre is studied with interviews, observation and questionnaires, whose findings are checked against each other; Saavedra and Silverman's boy with button phobia is the core example. Strengths are rich data and access to rare cases; weaknesses are limited generalisation, subjectivity and reliance on memory." loading="lazy">
+  <figcaption>One case, several techniques: rich data that may not generalise.</figcaption>
+</figure>
 
 ## Observations
 
@@ -74,15 +99,30 @@ The syllabus names four pairs of features:
 
 Fagen et al.'s elephant study is a structured observation using a behavioural checklist. Observations record what people actually do rather than what they say, but covert observation raises consent and privacy issues, and overt observation risks participants changing their behaviour. With more than one observer, **inter-observer reliability** can be checked.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--15-observation-pairs.webp" width="900" height="940" alt="Overt or covert; participant or non-participant; structured or unstructured; naturalistic or controlled." loading="lazy">
+  <figcaption>The four descriptive pairs for observations.</figcaption>
+</figure>
+
 ## Correlations
 
 A correlation measures the relationship between two **co-variables**, neither of which is manipulated. In a **positive correlation** both increase together; in a **negative correlation** one increases as the other decreases. **Strength** describes how closely the points on a scatter graph fit a line, from strong to weak to no correlation. Baron-Cohen et al.'s finding that Eyes test scores fell as Autism Spectrum Quotient scores rose is a negative correlation.
 
 The key weakness is **lack of causality**: a correlation does not show that one variable causes the other, as a third variable may affect both. Co-variables must be **operationally defined**, for example "hours of sleep the previous night, from a sleep diary" rather than just "sleep".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-research-methods-as--04-correlations.webp" width="900" height="836" alt="Three illustrative scatter graphs show positive, negative and no correlation. Baron-Cohen et al. found Eyes test scores fell as Autism Spectrum Quotient scores rose, a negative correlation. A diagram shows two co-variables linked by a dashed line with a possible third variable affecting both, so no cause is shown." loading="lazy">
+  <figcaption>A correlation shows a relationship, not a cause: a third variable may affect both.</figcaption>
+</figure>
+
 ## Longitudinal studies
 
 A longitudinal study follows the same participants over time, measuring them more than once. An **experiment with a longitudinal design** combines this with a manipulated IV, as in Hölzel et al., where brain scans were taken before and after an eight-week mindfulness programme and compared with a control group. Strengths: development and change can be tracked within the same people, so participant variables are controlled. Weaknesses: they take a long time, and **attrition** (participants dropping out) may leave a biased sample; repeated testing may also cause practice effects.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-research-methods-as--05-longitudinal.webp" width="900" height="531" alt="Two lanes: the mindfulness group has a brain scan, an eight-week programme and a second scan; the control group has the same scans with no programme, as in Hölzel et al. Longitudinal studies track change within the same people, controlling participant variables, but take a long time and suffer attrition and practice effects." loading="lazy">
+  <figcaption>Measuring the same people twice tracks change, but some drop out.</figcaption>
+</figure>
 
 ## Worked planning example
 
@@ -98,6 +138,11 @@ A longitudinal study follows the same participants over time, measuring them mor
 > **Data**: quantitative (minutes per visit).
 
 This covers the general features (procedure, validity, reliability, types of data) and the features required for a field experiment (IV, DV, controls, design, location). The syllabus does not require aims, hypotheses, sampling or ethics in a Paper 2 plan.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-research-methods-as--06-planning-frame.webp" width="900" height="684" alt="A planning frame for a field experiment on background music in a school library: IV, DV, location, design, controls (the field-experiment features) and reliability, validity and data (general features). A note says aims, hypotheses, sampling and ethics are not required in a Paper 2 plan." loading="lazy">
+  <figcaption>Cover the method’s own features plus procedure, validity, reliability and data.</figcaption>
+</figure>
 
 ## Common mistakes
 

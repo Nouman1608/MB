@@ -63,6 +63,26 @@ The court balances the defendant's right to use land against the claimant's righ
 
 Planning permission is not a defence, but it may change the character of a locality. In *Gillingham BC v Medway (Chatham) Dock Co* (1993) permission to turn a naval dockyard into a commercial port changed the locality, so night-time lorry noise was not a nuisance. In *Wheeler v JJ Saunders* (1996) permission for pig units did not change the locality, and the smell was a nuisance. *Coventry v Lawrence* (2014) confirmed that planning permission is generally of limited relevance to liability, though it can matter to the remedy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things--01-types-of-nuisance.webp" width="900" height="486" alt="Three plan sketches across a boundary between the defendant’s and claimant’s land: encroachment by tree roots and branches; physical damage from fumes damaging crops, where locality is irrelevant (St Helen’s Smelting v Tipping); and interference with comfort and enjoyment from noise, where the balancing factors decide." loading="lazy">
+  <figcaption>Physical damage is a nuisance anywhere; comfort claims depend on balancing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things--02-who-sues-who.webp" width="900" height="541" alt="Claimants need a proprietary interest in the land, as an owner or tenant; in Hunter v Canary Wharf family members without an interest could not sue. Defendants can be the creator of the nuisance, the occupier where they adopt or continue a trespasser’s or natural nuisance (Sedleigh-Denfield; Leakey v National Trust), or a landlord who authorised it." loading="lazy">
+  <figcaption>Only those with an interest in land can sue; creators, occupiers and authorising landlords can be sued.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things--03-unreasonableness-factors.webp" width="900" height="491" alt="Factors deciding unreasonableness: locality (Sturges v Bridgman), duration and timing (Halsey v Esso), sensitivity (Robinson v Kilvert, now foreseeability in Network Rail v Morris), malice (Christie v Davey; Hollywood Silver Fox Farm) and new forms (Fearn v Tate Gallery). Taking care is not an answer: the result for the neighbour matters." loading="lazy">
+  <figcaption>Locality, timing, sensitivity and malice tip the balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things--04-planning-permission.webp" width="900" height="525" alt="Planning permission is not a defence, but it may change the locality. In Gillingham v Medway Dock it did, so night-time lorry noise was not a nuisance; in Wheeler v JJ Saunders pig units did not change the locality and the smell was a nuisance. Coventry v Lawrence: limited relevance to liability, possible relevance to remedy." loading="lazy">
+  <figcaption>Ask whether the permission changed the neighbourhood, not whether the activity was permitted.</figcaption>
+</figure>
+
 ## Part 2: the rule in Rylands v Fletcher
 
 ### Origin
@@ -87,6 +107,11 @@ In *Rylands v Fletcher* (1868) the defendants had a reservoir built on their lan
 
 In *Stannard v Gore* (2012) a fire at a tyre business spread to neighbouring property. The Court of Appeal held that *Rylands* did not apply: tyres are not exceptionally dangerous, and it was the fire, not the tyres themselves, that escaped.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things--05-rylands-elements.webp" width="900" height="729" alt="Five elements of Rylands v Fletcher, each with a case where it failed or was met: accumulation (Giles v Walker), something likely to do mischief (Transco), non-natural use (Rickards v Lothian; Cambridge Water), escape (Read v J Lyons) and damage of a foreseeable type (Cambridge Water). After Transco the claimant needs an interest in land and cannot recover for personal injury; Stannard v Gore shows fire cases rarely fit." loading="lazy">
+  <figcaption>All five elements are needed; most claims fail on one of them.</figcaption>
+</figure>
+
 ## Worked problem
 
 *Kemi runs a car-body repair shop in a mixed area of shops and flats. She works until midnight with loud compressors. Her neighbour Leo, who owns his flat, cannot sleep; his lodger, Ana, also complains. Kemi stores large drums of paint thinner in her yard; one leaks and the thinner seeps under the fence, killing Leo's garden plants.*
@@ -105,6 +130,11 @@ Rylands - Leo:   thinner brought onto land and accumulated; likely to do
 Remedies:        damages for plants; injunction limiting hours of noisy work
                  (see remedies row).
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things--06-kemi-worked-problem.webp" width="900" height="660" alt="A plan of Kemi’s repair shop, with compressors and drums of paint thinner, next to Leo’s flat, where Leo owns and Ana lodges. Noise until midnight crosses the fence and thinner seeps under it into Leo’s garden. Leo can sue in nuisance (Halsey) and under Rylands; Ana cannot sue (Hunter v Canary Wharf). Remedies: damages and an injunction limiting hours." loading="lazy">
+  <figcaption>Same facts, two torts: deal with each separately and check who can sue.</figcaption>
+</figure>
 
 ## Common mistakes
 

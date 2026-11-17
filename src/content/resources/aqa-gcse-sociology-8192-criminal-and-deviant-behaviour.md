@@ -31,6 +31,11 @@ For the whole topic, start with the [Crime and deviance study guide](/resources/
 
 Before explaining any pattern, ask whether it shows who **commits** crime or who is **caught, recorded and convicted**. Official statistics measure the second. A group can appear in the statistics more often because it offends more, because it is policed more, or both. Every factor below needs this question applied to it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criminal-and-deviant-behaviour--01-committing-vs-recorded.webp" width="900" height="692" alt="A narrowing funnel from everyone who commits crime, to those caught, recorded by police and convicted. Official statistics measure the lower stages. Below, three reasons a group can appear more often: it offends more, it is policed more, or both." loading="lazy">
+  <figcaption>Official statistics show who is caught and recorded, not simply who offends.</figcaption>
+</figure>
+
 ## Social class
 
 **Pattern:** working-class people, especially young working-class men, are over-represented in official statistics for crimes such as theft, burglary and criminal damage.
@@ -55,6 +60,16 @@ Albert Cohen (*Delinquent Boys*, 1955), writing from a functionalist perspective
 
 Cohen explains non-financial crime such as vandalism, which Merton's focus on money does not. **Criticism:** some argue working-class youths do not accept mainstream goals at all, but act out of resentment towards those whose values they do not share, such as teachers and successful middle-class pupils.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criminal-and-deviant-behaviour--02-class-explanations.webp" width="900" height="458" alt="Two panels. Explanations of more working-class offending: Merton’s blocked opportunities, Albert Cohen’s status frustration and material deprivation. Explanations of how recording skews the pattern: interactionist labelling by police, and Marxist arguments that white collar and corporate crime are under-represented." loading="lazy">
+  <figcaption>Some explanations say the working class offend more; others say they are simply recorded more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criminal-and-deviant-behaviour--03-albert-cohen.webp" width="900" height="1035" alt="Five steps: working-class boys share mainstream success goals; educational failure and poor job prospects block them; they suffer status frustration; they join a delinquent subculture valuing stealing, vandalism and truancy; success in it brings prestige. Below, a strength and a criticism." loading="lazy">
+  <figcaption>For Albert Cohen, the subculture gives blocked boys another way to win status.</figcaption>
+</figure>
+
 ## Gender
 
 **Pattern:** men commit far more recorded crime than women, especially violent crime, and make up the large majority of the prison population.
@@ -77,6 +92,16 @@ Pat Carlen (*Women, Crime and Poverty*, 1988), writing from a feminist perspecti
 
 **Evaluation:** the sample was relatively small (39 women), but the study supports the view that crime becomes more likely when social control breaks down. Unstructured interviews give detailed, valid insight into the women's own accounts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criminal-and-deviant-behaviour--04-gender-explanations.webp" width="900" height="489" alt="Three cards. Heidensohn: patriarchal societies control women more at home, in public and at work. Socialisation: boys are encouraged to take risks, girls to be careful. Pollak’s chivalry thesis: the justice system treats women more leniently, though critics say women who break gender norms are treated more harshly." loading="lazy">
+  <figcaption>Two explanations are about offending; the chivalry thesis is about recording.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criminal-and-deviant-behaviour--05-carlen-deals.webp" width="900" height="855" alt="Carlen interviewed 39 convicted women and used control theory. In the class deal women give wage labour for consumer goods; in the gender deal they give love and domestic labour for psychological and material rewards from a male breadwinner. When the rewards are unavailable, through poverty, unemployment, abuse or care, crime becomes a viable alternative." loading="lazy">
+  <figcaption>When the class and gender deals fail, crime becomes a rational choice.</figcaption>
+</figure>
+
 ## Ethnicity
 
 **Pattern:** some ethnic minority groups, particularly Black people, are over-represented in official figures for stop and search, arrest and imprisonment in England and Wales.
@@ -95,6 +120,11 @@ The debate is whether the statistics reflect differences in offending, differenc
 
 **Explanations:** young people spend more time in public spaces where they are more visible to police; peer group pressure and subcultures matter more; they have less to lose, as most do not yet have careers, mortgages or children; and adolescence involves risk-taking. In England and Wales the age of criminal responsibility is 10, so children from 10 can be prosecuted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criminal-and-deviant-behaviour--06-ethnicity-and-age.webp" width="900" height="654" alt="Left: some minority groups, particularly Black people, are over-represented in stop and search, arrest and prison; explanations are discrimination and labelling (the Macpherson Report), deprivation and media stereotypes. Right: a schematic curve of recorded offending peaking in the late teens and early twenties, with reasons such as visibility, peer pressure and having less to lose." loading="lazy">
+  <figcaption>For ethnicity and age, ask whether the pattern reflects offending, policing, or both.</figcaption>
+</figure>
+
 ## Public debates over crime
 
 | Debate | What the argument is about |
@@ -106,6 +136,11 @@ The debate is whether the statistics reflect differences in offending, differenc
 | **Media coverage of crime** | Whether news values exaggerate rare, violent crime, create fear and produce **moral panics** |
 
 On media coverage, Stanley Cohen's *Folk Devils and Moral Panics* (1972), about reactions to mods and rockers, described how exaggerated reporting can turn a group into **folk devils** and produce **deviancy amplification**: more police attention and public concern lead to more recorded deviance. Stanley Cohen is not named in the specification, but the terms are in its key terms list. Do not confuse him with Albert Cohen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criminal-and-deviant-behaviour--07-moral-panic.webp" width="900" height="477" alt="A chain: exaggerated reporting turns a group into folk devils, raising public concern and police attention, which leads to more recorded deviance, called deviancy amplification. Below, a reminder not to confuse Albert Cohen, on delinquent subcultures, with Stanley Cohen, on moral panics." loading="lazy">
+  <figcaption>Exaggerated media coverage can create the very rise in deviance it reports.</figcaption>
+</figure>
 
 ## Perspectives compared
 

@@ -51,6 +51,11 @@ The [Unit 2 study guide](/resources/a-level-oxfordaqa-psychology-biopsychology-d
 
 **Correlations** analyse the relationship between two **co-variables** measured, not manipulated. A **positive** correlation means both increase together; a **negative** correlation means one increases as the other decreases; a **zero** correlation means no relationship. Correlations cannot show cause and effect, because a third variable may explain both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--01-types-of-experiment.webp" width="900" height="677" alt="Laboratory experiments manipulate the IV in a controlled setting (cause and effect, but artificial); field experiments manipulate it in a natural setting (natural behaviour, less control); natural experiments use an IV that varies naturally (ethical, but no random allocation). An arrow runs from more control to more natural. Cards summarise observation, self-report and correlation." loading="lazy">
+  <figcaption>Moving from laboratory to natural trades control for realism.</figcaption>
+</figure>
+
 ## Scientific processes
 
 **Aims and hypotheses.** An aim is a general statement of what the study investigates. A hypothesis is a precise, testable prediction. A **directional** hypothesis states which way the difference or relationship will go; a **non-directional** hypothesis predicts a difference or relationship without stating its direction. Researchers choose a directional hypothesis when previous research suggests the likely outcome.
@@ -76,6 +81,21 @@ The [Unit 2 study guide](/resources/a-level-oxfordaqa-psychology-biopsychology-d
 
 **Questionnaire questions.** **Closed questions** have fixed answers (yes/no, rating scales), producing quantitative data that are easy to analyse. **Open questions** let people answer freely, producing qualitative data that are richer but harder to compare.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--02-experimental-designs.webp" width="900" height="634" alt="Three rows. Independent groups: different people in conditions A and B; weakness, participant variables may differ; fix, random allocation. Repeated measures: the same people do both; weakness, order effects; fix, counterbalancing. Matched pairs: pairs matched on a variable such as IQ are split across conditions; weakness, time-consuming and never perfect." loading="lazy">
+  <figcaption>Each design solves one problem and creates another, with its own fix.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--03-sampling.webp" width="900" height="736" alt="Two schematic populations of 50: in random sampling the chosen people are spread across the population; in opportunity sampling they are clustered among whoever is available. Random sampling gives everyone an equal chance and avoids researcher bias but needs a full list; opportunity sampling is quick but likely biased. Random sampling differs from random allocation." loading="lazy">
+  <figcaption>Random sampling avoids bias; opportunity sampling is quick but may not generalise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--04-variables.webp" width="900" height="692" alt="The IV (music or silence) is manipulated and its effect on the DV (words recalled) is measured, while extraneous variables are controlled with standardised instructions, the same room and the same time of day. Memory is operationalised as the number of words correctly recalled from a list of 20 within two minutes. Cards explain demand characteristics and behavioural categories." loading="lazy">
+  <figcaption>Operationalising turns a vague idea into something you can count.</figcaption>
+</figure>
+
 ## Ethics
 
 The specification names seven issues. Know what each means and how researchers deal with it:
@@ -90,6 +110,11 @@ The specification names seven issues. Know what each means and how researchers d
 | Confidentiality | Personal data kept secure and not identifiable | Use numbers instead of names |
 | Privacy | Not observing people where they expect privacy | Observe only in public places |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--05-ethics.webp" width="900" height="604" alt="Seven cards: consent (consent form, parental consent), deception (only when necessary, full debrief), debrief (explain the aim, offer to withdraw data), right to withdraw (stated at the start), protection from harm (stop if distressed), confidentiality (numbers not names) and privacy (observe only in public). For each, know what it means and how researchers deal with it." loading="lazy">
+  <figcaption>Every ethical issue has a matching way to deal with it.</figcaption>
+</figure>
+
 ## Data handling and analysis
 
 - **Quantitative** data are numerical; **qualitative** data are descriptive, such as interview quotations. Quantitative data are easy to analyse but may lack depth; qualitative data give depth but are harder to compare.
@@ -98,6 +123,11 @@ The specification names seven issues. Know what each means and how researchers d
 - **Range** (highest minus lowest) is quick but distorted by extreme scores. **Standard deviation** measures the average spread around the mean: a larger value means scores are more spread out.
 - **Graphs:** tables summarise data; **bar charts** compare categories, with gaps between bars; **line graphs** show change across a continuous variable; **scattergrams** show correlations.
 - **Normal distribution:** symmetrical, bell-shaped, with mean, median and mode equal. **Positive skew:** a tail of high scores pulls the mean above the median. **Negative skew:** a tail of low scores pulls the mean below the median.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--06-distributions.webp" width="900" height="870" alt="Three illustrative curves: a symmetrical normal distribution with mean, median and mode equal; a positive skew with a tail of high scores pulling the mean above the median; and a negative skew with a tail of low scores pulling the mean below the median. A table defines the mean, median, mode, range and standard deviation with a key point for each." loading="lazy">
+  <figcaption>The tail pulls the mean towards it; the mode stays at the peak.</figcaption>
+</figure>
 
 ## Worked example: designing and analysing a study
 
@@ -117,6 +147,11 @@ Invented results:
 | Silence | 11, 12, 13, 13, 14, 15, 16, 18 | 112 / 8 = 14 | (13 + 14) / 2 = 13.5 | 13 | 18 - 11 = 7 |
 
 The silence group's mean is 4 words higher, a difference of 40% relative to the music group (4 / 10 x 100), with identical ranges, so the spread of scores was similar. The results are consistent with the hypothesis, although only an inferential test, met at A-level, could show whether the difference is significant. A bar chart of the two means would present this clearly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--07-worked-example.webp" width="900" height="777" alt="A table of the lesson's invented scores: music group mean 10, median 9.5, mode 9, range 7; silence group mean 14, median 13.5, mode 13, range 7. A bar chart shows mean recall of 10 with music and 14 in silence. The silence mean is 4 words, or 40 percent, higher with identical ranges; only an inferential test could show significance." loading="lazy">
+  <figcaption>Silence beat music by 4 words on average, with the same spread.</figcaption>
+</figure>
 
 ## Common mistakes
 

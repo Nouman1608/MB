@@ -76,6 +76,16 @@ swaps the poles.
 When drawing any of these, apply the field-line rules: arrows on every
 line, no crossing lines, and closer spacing where the field is stronger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--01-field-patterns.webp" width="900" height="1205" alt="Three field patterns computed numerically. A straight wire with current towards the viewer has concentric anticlockwise circles that get weaker further out. A flat coil seen edge-on has field lines through its centre looping round outside, like a short bar magnet. A solenoid has closely spaced nearly parallel lines inside, leaving the north end and returning round the outside." loading="lazy">
+  <figcaption>A straight wire, a flat coil and a solenoid each have a different field pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-revision-notes--03-grip-rule.webp" width="900" height="910" alt="A vertical wire carries current upwards (thumb). The field forms circles round it, anticlockwise seen from above (fingers). In end view, current towards you gives an anticlockwise field and current away from you a clockwise field." loading="lazy">
+  <figcaption>Thumb along the current, fingers curl the way the field goes; reverse the current and the field reverses.</figcaption>
+</figure>
+
 ## Electromagnets (6.9P)
 
 An electromagnet is a **coil of insulated wire** (usually a solenoid)
@@ -88,6 +98,11 @@ wound round a **soft iron core**, connected to a supply through a switch.
 The strength increases with **more turns** on the coil, a **larger
 current**, and the presence of the iron core. Electromagnets are used in
 scrap-metal cranes, relays and electric bells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetism--01-electromagnet-construction.webp" width="900" height="745" alt="A coil of insulated wire wound round a soft iron core, connected to a cell through a switch, attracting iron clips. Notes explain the insulation, the soft iron core, and that more turns and a larger current make it stronger." loading="lazy">
+  <figcaption>Insulated coil plus soft iron core: a magnet that switches on and off with the current.</figcaption>
+</figure>
 
 ## Force on a moving charged particle (6.11P)
 
@@ -102,6 +117,11 @@ For the direction, treat the moving charge as a current. A positive
 particle's motion is the current direction. Electrons are negative, so
 the conventional current is **opposite** to the direction the electrons
 move.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--06-charged-particle-force.webp" width="900" height="928" alt="A positive charge moving across a field into the page feels a force at right angles to its velocity and moves in a semicircle. A charge moving along the field feels no force." loading="lazy">
+  <figcaption>A force acts on a moving charge unless it moves parallel to the field.</figcaption>
+</figure>
 
 ## The motor effect (6.12, 6.13, 6.14)
 
@@ -150,6 +170,21 @@ cone pushes on the air and produces a **sound wave** of the same
 frequency. A larger current gives a larger force, larger vibrations and a
 louder sound.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--02-motor-effect.webp" width="900" height="1290" alt="Three end views of a current-carrying wire between a north and a south pole. Current towards the viewer with the field to the right gives an upward force. Reversing the current gives a downward force; reversing the field instead also gives a downward force. A key shows the left-hand rule with first finger field, second finger current and thumb force." loading="lazy">
+  <figcaption>Reversing either the current or the field reverses the force on the wire.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-revision-notes--04-dc-motor-commutator.webp" width="900" height="1140" alt="Three end views of a coil between N and S poles. With current flowing, forces on the two sides turn the coil anticlockwise. When the coil is vertical the gaps in the split ring are at the brushes and no current flows. After the halves swap brushes the current in each side reverses, so the coil still turns the same way." loading="lazy">
+  <figcaption>The split ring reverses the current every half turn so the coil keeps turning one way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--07-loudspeaker.webp" width="900" height="950" alt="Cross-section of a loudspeaker: a coil in a radial field attached to a cone. Current one way gives a force towards the magnet; reversing the current reverses the force so the cone vibrates." loading="lazy">
+  <figcaption>Alternating current in the coil reverses the force, so the cone moves in and out.</figcaption>
+</figure>
+
 ## Worked examples
 
 **Example 1 (left-hand rule).** A horizontal wire runs from west to
@@ -172,6 +207,11 @@ The current is alternating, so it keeps reversing direction [1]; each
 time it reverses, the force on the coil reverses [1]. The coil, and the
 cone attached to it, are pushed backwards and forwards, so the cone
 vibrates at the frequency of the current [1].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetism--02-left-hand-rule-example.webp" width="900" height="790" alt="A horizontal wire carries current from west to east between magnet poles, with the field pointing horizontally from north to south. By the left-hand rule the force on the wire is vertically downwards; reversing current or field makes it upwards." loading="lazy">
+  <figcaption>Field south, current east: the thumb, and the force, point straight down.</figcaption>
+</figure>
 
 ## Common mistakes
 

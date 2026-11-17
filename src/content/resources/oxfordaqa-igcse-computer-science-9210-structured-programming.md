@@ -38,6 +38,11 @@ module has a **clear, documented interface** that states what data it needs (its
 back (its **return value**). Inside a module, working data is held in **local variables**, which no other part of
 the program can see or change. The main program then becomes a short sequence of calls to these modules.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--01-module-anatomy.webp" width="900" height="650" alt="A module carries out one clearly defined task. Data goes in through parameters and the result comes out as a return value; working data is kept in local variables that nothing else can see or change; and the interface is documented. The main program becomes a short sequence of calls to modules." loading="lazy">
+  <figcaption>Modules with one task, parameters in, a return value out, local variables inside and a documented interface.</figcaption>
+</figure>
+
 ## Modularised programming
 
 Modularising means **decomposing** a problem into smaller sub-problems and writing a subroutine for each. A
@@ -55,6 +60,11 @@ program for a school library might be planned like this:
 Each module is small enough to understand completely, and some are used by more than one other module. The
 specification's subroutine material, including procedures and functions, is covered in the [subroutines study
 guide](/resources/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--02-library-structure-chart.webp" width="900" height="560" alt="A structure chart. The main program shows a menu and calls LoanBook, ReturnBook or ShowOverdue. LoanBook uses IsMemberValid and IsBookAvailable, which return True or False; ReturnBook uses DaysLate, which returns an integer, and Fine, which returns a real." loading="lazy">
+  <figcaption>Decomposition: each sub-problem becomes a small module with one job.</figcaption>
+</figure>
 
 ## Interfaces
 
@@ -85,6 +95,11 @@ Anyone calling `Fine(8)` knows to expect `2.0` without needing to look inside. A
 the module receives all its data through parameters and sends all its results back through the return value,
 rather than reading and changing variables elsewhere in the program.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--03-documented-interface.webp" width="900" height="612" alt="The comment block for the Fine subroutine gives its name, what it does, its parameter daysLate (integer, days after the due date) and its return value (real, the fine in dollars, 0.0 if not late). Treated as a black box, Fine(8) returns 2.0 without the caller reading its code." loading="lazy">
+  <figcaption>The interface tells a caller everything needed to use a module without reading its code.</figcaption>
+</figure>
+
 ## Local variables
 
 A **local variable** is declared inside a subroutine. It exists only while the subroutine is running and can be
@@ -106,6 +121,11 @@ variable), which any subroutine can change. Suppose two subroutines both used on
 their loops, and one called the other from inside its loop: the inner subroutine would change `i` and break the
 outer loop, a bug that is very hard to find by reading either subroutine alone. Local variables prevent this kind
 of unintended interaction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--04-local-variables.webp" width="900" height="680" alt="The main program and SumArray each have their own variable called total; SumArray’s total and i are local and are discarded when it finishes, so they do not interfere. Below, if subroutines A and B share one program-wide counter i and A calls B inside its loop, B changes i and breaks A’s loop." loading="lazy">
+  <figcaption>Local variables stop one module accidentally changing another module’s data.</figcaption>
+</figure>
 
 ## Worked example: restructuring a program
 
@@ -155,6 +175,11 @@ with values such as −1, 0, 100 and 101, and reused anywhere a mark is needed. 
 module has a documented interface. The main program is four lines that read as a plan: get five marks, add them,
 output the mean.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--05-restructuring-marks.webp" width="900" height="690" alt="Before, input checking, adding and averaging are mixed in one block. After, input checking lives in GetMark, which asks until a mark from 0 to 100 is entered and returns it, and Mean returns total / count; the main program just loops NumMarks times adding GetMark() and outputs Mean(sum, NumMarks). GetMark can be tested alone with −1, 0, 100 and 101." loading="lazy">
+  <figcaption>Pull each job into its own module and the main program becomes a readable plan.</figcaption>
+</figure>
+
 ## Advantages of the structured approach
 
 | Advantage | Explanation |
@@ -165,6 +190,11 @@ output the mean.
 | Reuse | A module with a clear interface can be used again in this or other programs |
 | Team development | Programmers can write different modules at the same time, relying only on the agreed interfaces |
 | Fewer side effects | Local variables mean one module cannot accidentally change another module's data |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--06-features-to-advantages.webp" width="900" height="668" alt="Three features linked to six advantages. Modules with one job make a program easier to understand, easier to test and debug, and suit team development. Documented interfaces make it easier to maintain, allow reuse and let a team rely on agreed interfaces. Local variables mean fewer side effects." loading="lazy">
+  <figcaption>For each advantage, say which feature causes it and what it allows or prevents.</figcaption>
+</figure>
 
 ## Annotated model answer
 

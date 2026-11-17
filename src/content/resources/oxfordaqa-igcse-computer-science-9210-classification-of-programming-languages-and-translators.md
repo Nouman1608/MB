@@ -43,6 +43,11 @@ different family.
 The specification's key consequence: **all program code written in high-level or assembly languages must
 ultimately be translated into machine code** before a processor can carry it out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--01-levels-of-language.webp" width="900" height="664" alt="Three stacked levels: high-level languages such as Python, C# and Visual Basic; assembly language with mnemonics and a 1:1 match to machine code; and binary machine code from one processor’s instruction set. High-level code reaches machine code through a compiler or interpreter and assembly through an assembler, because the processor runs only machine code." loading="lazy">
+  <figcaption>Whatever the language, the processor only ever runs machine code.</figcaption>
+</figure>
+
 ## Assembly language
 
 Writing binary directly is slow and error-prone, so **assembly language** replaces each binary instruction with a
@@ -65,6 +70,11 @@ executed directly; assembly uses mnemonics, is easier for people to read and wri
 before it can run. Because of the 1:1 correspondence, an assembly programmer still controls exactly which
 instructions the processor executes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--02-one-to-one-correspondence.webp" width="900" height="658" alt="The high-level statement total ← price + tax becomes three assembly instructions, LOAD price, ADD tax and STORE total, and each assembly line becomes exactly one machine code instruction shown as an illustrative bit pattern. Below, machine code and assembly language are compared: both are processor-specific, but assembly uses mnemonics and must be assembled." loading="lazy">
+  <figcaption>High-level to machine code is one-to-many; assembly to machine code is exactly 1:1.</figcaption>
+</figure>
+
 ## High-level languages
 
 Python, C# and Visual Basic are **high-level languages**. Their statements are closer to English and mathematical
@@ -77,6 +87,11 @@ students should understand that **most programs are written in high-level langua
   rewritten for each instruction set;
 - they provide **built-in features** such as selection, iteration, data structures and string handling, which in
   assembly would need many instructions each.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--03-portability.webp" width="900" height="690" alt="One high-level source program is translated separately for processor A and processor B. An assembly program written for processor A is assembled for A but will not run on processor B, which has a different instruction set, so it must be rewritten." loading="lazy">
+  <figcaption>High-level source can be translated for any processor; assembly must be rewritten for each instruction set.</figcaption>
+</figure>
 
 ## Why low-level languages are still used
 
@@ -92,6 +107,11 @@ hardware components**. In these situations its advantages matter:
 The disadvantages explain why it is not used for most software: it is **harder and slower to write**, **harder to
 read, debug and maintain**, and **not portable**, because it is tied to one processor's instruction set.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--04-low-level-trade-offs.webp" width="900" height="670" alt="Advantages of low-level languages: direct control of the hardware, very efficient code and precise control of what runs. Disadvantages: harder and slower to write, harder to read, debug and maintain, and not portable. So assembly is used for embedded systems and controlling specific hardware, not for most software." loading="lazy">
+  <figcaption>Control and efficiency win for embedded systems and hardware; ease and portability win everywhere else.</figcaption>
+</figure>
+
 ## The three translators
 
 | | Compiler | Interpreter | Assembler |
@@ -105,6 +125,11 @@ The interpreter row is the one most often answered wrongly. The specification is
 not generate machine code directly**: the interpreter is itself a machine code program, and for each statement it
 analyses, it runs its own pre-written machine code routines that carry that statement out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--05-three-translators.webp" width="900" height="822" alt="A compiler translates a whole high-level program into an executable file that can be run again without translating. An interpreter takes each statement in turn and carries it out by calling machine code routines within its own code, generating no machine code and no executable. An assembler converts each assembly instruction into one machine code instruction." loading="lazy">
+  <figcaption>Only the interpreter does not generate machine code: it carries out each statement with its own routines.</figcaption>
+</figure>
+
 ## When to use each translator
 
 **Interpreter, during development.** The program can be run as soon as a statement is written, without waiting for
@@ -117,6 +142,11 @@ code.
 
 **Assembler, for assembly language.** Whenever the program, or part of it, has been written in assembly language
 (for example, a routine that controls a device's hardware), an assembler is needed to produce the machine code.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--06-choosing-a-translator.webp" width="900" height="538" alt="Three cards. Interpreter for development: run statements straight away, stop at the error and test changes immediately. Compiler for distribution: an executable that runs without the translator, usually faster, without giving away source code. Assembler whenever part of a program is in assembly language, such as a routine that controls hardware." loading="lazy">
+  <figcaption>Interpreter while developing, compiler for distribution, assembler for anything in assembly language.</figcaption>
+</figure>
 
 ## Annotated model answer
 

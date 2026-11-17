@@ -46,6 +46,11 @@ The first assumption is that **behaviour, cognitions and emotions can be explain
 
 The second assumption is that **similarities and differences between people can be understood in terms of biological factors and their interaction with other factors**. The phrase "interaction with other factors" matters. Hölzel et al. show the environment changing biology: eight weeks of training altered grey-matter concentration. Hassett et al. do not claim socialisation is irrelevant; they argue that hormones may contribute to a difference that socialisation then strengthens.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-biological-approach--01-assumptions-map.webp" width="900" height="866" alt="Assumption 1 (brain, hormones, genetics and evolution explain behaviour) is tested by Dement and Kleitman through brain activity, Hassett et al. through hormones and evolution, and Hölzel et al. through brain structure. Assumption 2 (interaction with other factors) is shown by Hassett et al. (socialisation strengthens a difference) and Hölzel et al. (training changes the brain)." loading="lazy">
+  <figcaption>Each study tests a different part of the assumptions.</figcaption>
+</figure>
+
 ## Dement and Kleitman (1957): sleep and dreams
 
 **Background.** Earlier work had found that sleepers show periods of rapid eye movement (REM), alternating with periods of slower brain waves. If REM could be shown to go with dreaming, dreams could be studied objectively rather than relying only on what people remember the next morning.
@@ -64,6 +69,16 @@ The second assumption is that **similarities and differences between people can 
 - *Weaknesses*: the sample is small and the sleeping conditions (electrodes, an unfamiliar room, repeated waking) are unlike normal sleep, which lowers ecological validity. Dream reports are subjective self-reports and cannot be checked directly.
 - *Ethics*: risk of harm was low, but repeated waking disrupts sleep, so participants needed to know this beforehand and be able to withdraw.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-biological-approach--02-dement-kleitman-procedure.webp" width="900" height="667" alt="Five numbered steps: participants avoided caffeine and alcohol and arrived near bedtime, were connected to an EEG, were woken by a doorbell without being told their sleep stage, reported dreams into a recorder, and in one part estimated whether a dream had lasted five or fifteen minutes." loading="lazy">
+  <figcaption>Standardised waking and reporting made the procedure replicable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-biological-approach--03-dement-kleitman-results.webp" width="900" height="744" alt="Bars show 152 of 191 REM awakenings produced a dream report compared with 11 of 160 NREM awakenings, and 92 of 111 five-or-fifteen-minute estimates were correct. Vertical eye movements matched a dream of climbing ladders; horizontal movements matched watching two people throw tomatoes." loading="lazy">
+  <figcaption>Dream reports came mostly from REM, but not only from REM.</figcaption>
+</figure>
+
 ## Hassett et al. (2008): monkey toy preferences
 
 **Background.** Boys and girls tend to prefer different toys. Socialisation explains this through parents and peers rewarding "sex-appropriate" play; a hormonal explanation says prenatal androgens influence preferences. Rhesus monkeys are assumed to be less affected by human gender socialisation, so a similar difference in monkeys would support a biological contribution.
@@ -73,6 +88,11 @@ The second assumption is that **similarities and differences between people can 
 **Results and conclusions.** Male monkeys interacted more with wheeled toys than with plush toys, as boys tend to. Female monkeys interacted with both types much more evenly. Because the male preference appears without human-style socialisation, the researchers concluded that biological factors, such as hormonal influences, may help produce sex differences in toy preference, which socialisation may then strengthen.
 
 **Evaluation.** Coding with a behavioural checklist allows two observers to check inter-observer reliability. Monkeys living in their normal social group give high ecological validity for monkey behaviour, but generalising from rhesus monkeys to children is questionable, and monkeys do learn socially from each other, so socialisation is not fully removed. Ethically, the animals were not harmed or deprived, and observing them in their normal social group fits the guideline on housing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-biological-approach--04-hassett-toys.webp" width="900" height="748" alt="Monkeys were given a wheeled toy and a plush toy together and contacts were coded with a behavioural checklist. Illustrative bars show males interacting more with wheeled toys and females more evenly. The conclusion: hormones may contribute to the difference, which socialisation may strengthen." loading="lazy">
+  <figcaption>Males preferred wheeled toys, as boys tend to; females were more even.</figcaption>
+</figure>
 
 ## Hölzel et al. (2011): mindfulness and brain scans
 
@@ -86,6 +106,11 @@ The second assumption is that **similarities and differences between people can 
 
 **Evaluation.** The longitudinal (before-and-after) design with a control group lets changes be attributed to the programme more convincingly than a one-off comparison. MRI is objective and replicable. However, the samples were small, participants knew which group they were in, and MBSR combines several activities (group support, yoga-based movement and meditation), so the active ingredient is unclear.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-biological-approach--05-holzel-design.webp" width="900" height="867" alt="Sixteen MBSR participants and seventeen controls had MRI scans and a mindfulness questionnaire before and after eight weeks; only the MBSR group took the programme. Results show increased grey-matter concentration in the left hippocampus and other regions. Strengths and weaknesses of the design follow." loading="lazy">
+  <figcaption>Scanning before and after, with a control group, links the change to the programme.</figcaption>
+</figure>
+
 ## Worked example
 
 *Question: Explain one way in which the study by Dement and Kleitman supports the main assumptions of the biological approach. [2]*
@@ -93,6 +118,11 @@ The second assumption is that **similarities and differences between people can 
 > A strong answer: "The biological approach assumes that cognitions can be explained by the working of the brain (1). Dement and Kleitman found that dream reports were far more likely after waking from REM sleep, a distinct pattern of brain activity recorded by the EEG, than after NREM sleep, so a mental experience is linked to a measurable brain state (1)."
 
 The first mark comes from stating the assumption accurately; the second from a precise finding tied to it. Writing "dreams are biological" without the finding earns little.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-biological-approach--06-two-mark-structure.webp" width="900" height="391" alt="Two linked cards: the first mark comes from stating the assumption accurately (cognitions explained by the brain); the second from a precise finding tied to it (dream reports far more likely after REM than NREM awakenings). A note warns that a vague claim without a finding earns little." loading="lazy">
+  <figcaption>State the assumption, then tie a precise finding to it.</figcaption>
+</figure>
 
 ## Common mistakes
 

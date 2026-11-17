@@ -85,6 +85,16 @@ respondent receives the same questions in the same order. **Reliability** means 
 researcher using the same method would obtain the same results. The two ideas support each other: if a
 study can be repeated with the same findings, personal bias is less likely to explain them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-1--01-positivist-scientific-method.webp" width="900" height="760" alt="Five steps of the scientific method used by positivists: form a hypothesis, collect quantitative data from a large sample, identify patterns and trends, test whether the variables are linked and causal, then accept, reject or refine the hypothesis and publish the method." loading="lazy">
+  <figcaption>Because social facts are external and measurable, positivists study them with the scientific method.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-1--02-correlation-not-causation.webp" width="900" height="584" alt="Three panels. A third variable: population size may cause both more police officers and more recorded crime. Reversed direction: reading more may lead to doing well at school, or doing well may lead to reading more. Coincidence: with enough data some variables move together by chance." loading="lazy">
+  <figcaption>Naming one of the three problems scores more than saying &quot;correlation does not prove causation&quot;.</figcaption>
+</figure>
+
 ## Interpretivism: why meanings come first
 
 Interpretivists reject the starting claim. People are not objects that react to forces; they are
@@ -106,6 +116,16 @@ it was one, using clues such as a note, the method of death and the person's rec
 statistics are therefore a record of coroners' interpretations, not a neutral measure of a social
 fact. To understand suicide statistics, you have to study how people construct them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-1--03-positivism-vs-interpretivism.webp" width="900" height="576" alt="Positivism and interpretivism compared. Positivism, linked to Durkheim, sees people as shaped by social facts, takes a macro view, seeks patterns and causes with quantitative data and values objectivity and reliability. Interpretivism, linked to Weber, sees people as conscious actors, takes a micro view, seeks verstehen through qualitative data and values validity." loading="lazy">
+  <figcaption>Each approach follows from a different claim about what society is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-1--04-two-readings-of-suicide.webp" width="900" height="533" alt="Left: Durkheim used official suicide statistics, found stable rates with Protestant areas higher than Catholic ones, and explained this by social integration. Right: Atkinson argued a death only becomes a suicide statistic after a coroner interprets clues such as a note, the method and recent history, so the figures record decisions." loading="lazy">
+  <figcaption>Positivists treat statistics as facts to explain; interpretivists ask how the statistics were made.</figcaption>
+</figure>
+
 ## Combining approaches
 
 Most sociologists today use whatever fits the aim, and the syllabus names two ways of combining
@@ -121,6 +141,11 @@ British Millennium Cohort Study has followed children born in the United Kingdom
 studies reveal change and the order in which events happen, which helps with questions of cause. Their
 problems are cost, the long wait for findings, and **attrition**: participants who drop out may differ
 from those who stay, so the sample becomes less representative over time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-1--05-triangulation-longitudinal.webp" width="900" height="652" alt="Left: triangulation, shown by Willis’s Learning to Labour (1977), which combined observing lessons, interviews and group discussions to check what twelve working-class boys said against what they did. Right: a longitudinal study follows the same people in waves, such as the Millennium Cohort Study; some drop out at each wave, which is attrition." loading="lazy">
+  <figcaption>Triangulation cross-checks one question with several methods; a longitudinal study returns to the same people.</figcaption>
+</figure>
 
 ## Judging research choices: the 1.1.4 toolkit
 
@@ -139,6 +164,11 @@ concept and then say exactly how it affects the research in front of you.
 - **Reliability:** would the method give the same results if repeated?
 - **Representativeness:** is the sample typical of the population being studied?
 - **Generalisability:** can the findings be applied beyond the sample?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-1--06-evaluation-toolkit.webp" width="900" height="706" alt="A table of seven evaluation concepts and the question each asks: bias, interviewer effect, the Hawthorne or observer effect, validity, reliability, representativeness and generalisability. A note explains that the Hawthorne effect is named after research at the Hawthorne works where attention, not conditions, seemed to raise productivity." loading="lazy">
+  <figcaption>Name the concept, then say exactly how it affects the research in front of you.</figcaption>
+</figure>
 
 ## Worked example: a short "explain" answer
 
@@ -169,6 +199,11 @@ question)
   interviews; even "objective" official statistics depend on people's decisions, as Atkinson showed.
 - **Judge:** complete objectivity is unlikely, but researchers can reduce bias by triangulating and by
   being open about their methods and values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-1--07-evaluation-plan.webp" width="900" height="502" alt="A four-step plan for evaluating whether sociologists can be objective: introduce by defining objectivity, give points for such as standardised methods and replication, points against such as value-laden topics, interviewer effects and Atkinson’s point about statistics, then judge that bias can be reduced but not removed." loading="lazy">
+  <figcaption>An evaluation answer weighs both sides and ends with a reasoned judgement.</figcaption>
+</figure>
 
 ## Common mistakes
 

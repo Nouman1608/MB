@@ -57,6 +57,11 @@ The danger from mains electricity is a large current passing through a
 person, for example if the live wire touches something the person holds.
 Each safety feature in 2.2 deals with this in a different way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--01-live-neutral-earth.webp" width="900" height="605" alt="An appliance with a metal case. Current flows in through the live wire, which contains the fuse, through the heating element and back through the neutral wire. The earth wire joins the metal case to the ground and carries no current in normal use." loading="lazy">
+  <figcaption>Live in, neutral back; the earth wire carries current only when there is a fault.</figcaption>
+</figure>
+
 ## The five safety features
 
 **Insulation.** Each wire is covered in plastic, an electrical insulator,
@@ -99,6 +104,16 @@ connected to the live wire.
 | fuse | appliance and wiring (and user, with earthing) | melts when current exceeds rating |
 | circuit breaker | appliance and wiring (and user, with earthing) | switch trips when current is too large; can be reset |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--02-earthing-in-a-fault.webp" width="900" height="625" alt="Three steps. The live wire touches the metal case. A large current flows through the case and the low-resistance earth wire to the ground rather than through a person. The large current melts the fuse, disconnecting the live wire." loading="lazy">
+  <figcaption>Earthing gives the fault current an easy path, and that large current blows the fuse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--03-fuse-breaker-double-insulation.webp" width="900" height="680" alt="Double insulation: live parts inside an insulating case, with the square-in-a-square symbol and no earth wire. A fuse melts when the current is too large and must be replaced; a circuit breaker trips open and can be reset. Both go in the live side." loading="lazy">
+  <figcaption>Each safety feature protects in its own way; fuses and breakers always go in the live wire.</figcaption>
+</figure>
+
 ## Why a current heats a resistor (2.3)
 
 In a metal, current is a flow of electrons. As the electrons move through
@@ -112,6 +127,11 @@ heaters, hairdryers and electric showers, which use a heating element of
 high-resistance wire. It is also why a fuse works. The same heating is
 wasteful in cables, which is why cables are made from low-resistance
 copper and why a cable carrying too large a current becomes hot.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--04-why-current-heats-a-resistor.webp" width="900" height="645" alt="Electrons drifting through a metal resistor collide with the positive ions of the metal and transfer energy to them, so the ions vibrate more and the temperature rises. This is useful in heating elements and fuses and wasteful in cables." loading="lazy">
+  <figcaption>Electron–ion collisions make the ions vibrate more: electrical energy becomes thermal energy.</figcaption>
+</figure>
 
 ## Power and fuse selection (2.4)
 
@@ -145,6 +165,11 @@ A 13 A fuse would also let the lamp work, but a fault current of, say,
 rated equal to the normal current is also wrong: it would blow in normal
 use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--05-fuse-selection.webp" width="900" height="680" alt="Two number lines with 3 A, 5 A and 13 A fuses. A 1.4 kW, 230 V hairdryer takes 6.1 A, so the 13 A fuse is chosen. A 60 W, 230 V lamp takes 0.26 A, so the 3 A fuse is chosen." loading="lazy">
+  <figcaption>Work out I = P ÷ V, then pick the smallest fuse rating above it.</figcaption>
+</figure>
+
 ## Energy transferred (2.5)
 
 ```
@@ -165,6 +190,11 @@ E = 8.7 × 230 × 7200 = 14 407 200 J ≈ 1.4 × 10⁷ J
 *Commentary.* Convert the time first. The large answer is best given in
 standard form, or as 14 MJ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--06-energy-worked-example.webp" width="900" height="425" alt="A heater takes 8.7 A from 230 V for 2.0 hours. The time is 7200 s, so E = 8.7 × 230 × 7200 = 14 407 200 J, about 1.4 × 10⁷ J." loading="lazy">
+  <figcaption>Convert hours to seconds, then E = I × V × t.</figcaption>
+</figure>
+
 ## a.c. and d.c. (2.6)
 
 **Direct current (d.c.)** flows in one direction only. Cells and batteries
@@ -176,6 +206,11 @@ positive, then negative, then positive again.
 
 When you **know the difference**, give both halves: "a.c. changes direction
 continually; d.c. flows in one direction only."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--07-ac-and-dc.webp" width="900" height="640" alt="Two voltage–time graphs. d.c. from a cell or battery is a horizontal line. a.c. from the mains is a wave that goes positive, then negative, then positive again." loading="lazy">
+  <figcaption>d.c. flows one way; mains a.c. keeps reversing direction.</figcaption>
+</figure>
 
 ## Common mistakes
 

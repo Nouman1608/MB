@@ -42,6 +42,11 @@ Before industrialisation, much production was done by skilled craft workers who 
 | **Fordism** (Henry Ford's moving assembly line, 1913) | Standardised products made in huge numbers; fixed tasks; relatively high wages so workers could buy the goods | Blauner: high alienation on the line; Gramsci later used "Fordism" for a whole way of life |
 | **Post-Fordism** (Michael Piore and Charles Sabel, *The Second Industrial Divide*, 1984) | Flexible specialisation; smaller runs for niche markets; multi-skilled teams; computer-controlled machines | Optimists: reskilling and autonomy. Critics: flexibility often means insecure contracts |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-pre-and-non-digital-technologies--01-taylor-ford.webp" width="900" height="623" alt="A grid comparing Taylorism, Fordism and post-Fordism by source, key features and sociological reading, with a note that the Luddites opposed how machines were used rather than machines themselves." loading="lazy">
+  <figcaption>What matters is not the machine but how it is used.</figcaption>
+</figure>
+
 ### Extraction, manufacturing and services
 
 - **Extraction** (mining, oil, quarrying) created tightly knit occupational communities. Norman Dennis, Fernando Henriques and Clifford Slaughter's *Coal Is Our Life* (1956) described a Yorkshire mining town where dangerous shared work produced strong male solidarity and sharply divided gender roles. Mechanisation and pit closures later broke up such communities.
@@ -49,6 +54,11 @@ Before industrialisation, much production was done by skilled craft workers who 
 - **Service industries** now employ most workers in richer economies. Arlie Hochschild (*The Managed Heart*, 1983), studying flight attendants, showed that service work demands **emotional labour**: managing one's own feelings to produce the right emotion in customers. Technology in services (scripts, call monitoring, checkouts) can control emotional as well as physical work.
 
 **Evaluation.** The deskilling debate is not settled. Braverman explains routine factory and office work well; Bell and post-Fordist writers explain the growth of skilled technical work. A strong answer says which kinds of workers each describes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-pre-and-non-digital-technologies--02-sectors.webp" width="900" height="507" alt="Three sectors of work: extraction, with the mining community of Coal Is Our Life; manufacturing, with factory discipline; and services, with Hochschild’s emotional labour. A note frames the deskilling debate." loading="lazy">
+  <figcaption>Each sector shaped community, control and emotion at work differently.</figcaption>
+</figure>
 
 ## Mobilities and mass transport
 
@@ -62,6 +72,11 @@ Mimi Sheller and John Urry ("The New Mobilities Paradigm", 2006) argued that mov
 
 **Effects on the environment.** Transport is a major source of greenhouse gases and urban air pollution, and roads and airports take land and split habitats. This links to Unit 4's content on mass transport and commuting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-pre-and-non-digital-technologies--03-mobilities.webp" width="900" height="560" alt="Railways, cars and air travel compared: Schivelbusch on rail perception and standard time, the Model T, car-based cities that disadvantage people without cars, and unevenly shared air travel, with environmental effects." loading="lazy">
+  <figcaption>Each transport revolution brought freedom for some and costs for many.</figcaption>
+</figure>
+
 ## Consumerism and conspicuous consumption
 
 - **Veblen** (in the unit guide) explains display by the wealthy.
@@ -70,6 +85,11 @@ Mimi Sheller and John Urry ("The New Mobilities Paradigm", 2006) argued that mov
 - **Planned obsolescence**: products designed to wear out or go out of fashion. The Phoebus cartel of lightbulb manufacturers (from 1924) agreed to limit bulb life, a well-documented early case.
 
 **Evaluation.** Consumption is also a source of creativity and identity, for example in youth subcultures that rework mass-produced goods. Green critics link consumerism to waste and emissions; others note that much consumption is ordinary and necessary rather than conspicuous.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-pre-and-non-digital-technologies--04-consumption.webp" width="900" height="655" alt="Four explanations of consumption: Veblen’s display, Bourdieu’s taste and cultural capital, Baudrillard’s sign value and planned obsolescence such as the Phoebus cartel, with evaluation." loading="lazy">
+  <figcaption>Consumption signals status and class as well as meeting needs.</figcaption>
+</figure>
 
 ## Technological determinism versus social construction: further cases
 
@@ -83,6 +103,11 @@ Mimi Sheller and John Urry ("The New Mobilities Paradigm", 2006) argued that mov
 - Judy Wajcman (*Feminism Confronts Technology*, 1991) argued that technology is shaped by gender relations: men have dominated design and engineering, so technologies often reflect men's interests.
 
 **A middle position.** Latour's actor-network theory (in the unit guide) treats technologies and people as acting together. Another middle route is **soft determinism**: technologies make some outcomes easier and others harder, but people decide how to use them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-pre-and-non-digital-technologies--05-determinism-construction.webp" width="900" height="689" alt="A spectrum from determinist cases (White’s stirrup, Marx, McLuhan) through middle positions (Latour, soft determinism) to constructionist cases (Winner, Cowan, Wajcman). A diagram shows the two reasons household machines did not reduce women’s housework time." loading="lazy">
+  <figcaption>Technologies make some outcomes easier, but social choices shape how they are used.</figcaption>
+</figure>
 
 ## Annotated model answer
 

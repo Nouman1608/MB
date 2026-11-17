@@ -29,6 +29,11 @@ This guide covers content areas **2.2.8** and **2.2.9** of Pearson Edexcel Inter
 
 A general defence can apply to many offences. The defendant must raise **evidence** of it; the **prosecution** must then disprove it **beyond reasonable doubt**. Duress is a **complete defence**: if it succeeds, the defendant is acquitted. Intoxication is not really a defence at all: it is a way of arguing that the defendant lacked the *mens rea*.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-duress-and-intoxication--01-general-defences-burden.webp" width="900" height="481" alt="The defendant must raise evidence of a general defence, and the prosecution must then disprove it beyond reasonable doubt. Duress is a complete defence leading to acquittal; intoxication is really an argument that the defendant lacked the mens rea." loading="lazy">
+  <figcaption>D raises the defence; the prosecution must disprove it beyond reasonable doubt.</figcaption>
+</figure>
+
 ## Duress of threats
 
 Duress applies where the defendant commits a crime because someone threatens them with death or serious injury unless they do so. Lord Bingham set out the limits in *R v Hasan* [2005]. Work through these steps in order:
@@ -53,6 +58,16 @@ Which characteristics count? In *R v Bowen* [1996] the Court of Appeal said rele
 
 **7. Not available for murder or attempted murder.** *R v Howe* [1987] (murder, whether as principal or accessory); *R v Gotts* [1992] (attempted murder); and in *R v Wilson* [2007] a 13-year-old who helped his father kill his mother under threats could not rely on duress either.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-duress-and-intoxication--02-duress-of-threats-steps.webp" width="900" height="804" alt="Seven steps from R v Hasan: a threat of death or serious injury (Valderrama-Vega; Quayle); against D, immediate family or someone D feels responsible for; directed at a particular crime (Cole); immediacy and no chance to escape (Hasan, disapproving Hudson and Taylor); the Graham test; no voluntary association with criminals (Hasan; Sharp; Shepherd); and never for murder or attempted murder (Howe; Gotts; Wilson)." loading="lazy">
+  <figcaption>Fail any one step and duress fails; the last two shut it out completely.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-duress-and-intoxication--03-graham-test-bowen.webp" width="900" height="593" alt="Stage 1 asks whether D was compelled to act because they reasonably believed they faced death or serious injury. Stage 2 asks whether a sober person of reasonable firmness sharing D’s characteristics would have responded the same way. Under R v Bowen, age, sex, pregnancy, serious physical disability and recognised psychiatric illness count; a low IQ short of mental impairment and being unusually timid or vulnerable do not." loading="lazy">
+  <figcaption>Both stages must be met; only Bowen characteristics shape the reasonable person.</figcaption>
+</figure>
+
 ## Duress of circumstances
 
 The same test applies where the threat comes from the **situation** rather than from a person's demand that the defendant commit a particular crime.
@@ -63,6 +78,11 @@ The same test applies where the threat comes from the **situation** rather than 
 - *DPP v Bell* [1992]: a drunk man drove off to escape an attack; the defence was available because he drove only as far as necessary.
 - *R v Pommell* [1995]: a man took a gun from someone intending to shoot another and kept it overnight; the court held the defence could be left to the jury, but the defendant must stop committing the offence as soon as the danger has passed.
 - *R v Abdul-Hussain* [1999]: Iraqi men who hijacked a plane to escape feared execution; the trial judge was wrong to withdraw the defence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-duress-and-intoxication--04-duress-of-circumstances.webp" width="900" height="594" alt="Duress of circumstances uses the same test where the threat comes from the situation. Cases: Willer (pavement driving to escape a gang), Conway (fleeing feared attackers who were police), Martin (driving while disqualified after a suicide threat), DPP v Bell (driving only as far as necessary), Pommell (must stop once the danger has passed) and Abdul-Hussain (hijacking to escape execution)." loading="lazy">
+  <figcaption>The danger comes from the circumstances, and the defence lasts only as long as the danger.</figcaption>
+</figure>
 
 ## Intoxication
 
@@ -92,6 +112,16 @@ Intoxication is involuntary where D's drink is **spiked**, or where D takes a dr
 
 A defendant who, because of voluntary intoxication, mistakenly believes they need to defend themselves **cannot** rely on that mistake (*R v O'Grady* [1987]; *R v Hatton* [2005]). The exception is criminal damage, where s 5(2) of the Criminal Damage Act 1971 allows an honest belief, even a drunken one (*Jaggard v Dickinson* [1981]).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-duress-and-intoxication--05-intoxication-decision-tree.webp" width="900" height="781" alt="A decision tree. Voluntary intoxication is no defence to basic intent offences such as manslaughter, s 20 and s 47 OAPA, assault and criminal damage (Majewski; Lipman; Heard); for specific intent offences such as murder, s 18, theft, robbery and burglary it helps only if D did not form the intent (Sheehan and Moore). Involuntary intoxication is a defence to both if no intent was formed, but not if intent was formed (Kingston)." loading="lazy">
+  <figcaption>The questions are always: voluntary or not, which kind of offence, and was the intent formed?</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-duress-and-intoxication--06-intoxication-traps.webp" width="900" height="339" alt="Dutch courage: if D forms the intent sober and drinks to act, intoxication is no defence even to a specific intent offence (Gallagher). A drunken mistaken belief in the need for self-defence cannot be relied on (O’Grady; Hatton). The exception is criminal damage, where s 5(2) Criminal Damage Act 1971 allows an honest belief, even a drunken one (Jaggard v Dickinson)." loading="lazy">
+  <figcaption>Drinking for courage and drunken mistakes do not help, except under s 5(2) for criminal damage.</figcaption>
+</figure>
+
 ## Worked example
 
 *Ravi owes money to a gang. They tell him to set fire to a rival's shop that night or they will break his legs; they wait outside his flat. Before going, he drinks heavily "for courage". At the shop he punches a passer-by he wrongly thinks is about to attack him.*
@@ -109,6 +139,11 @@ Assault on the passer-by
   Mistake  drunken belief in the need for self-defence: not available
            (O'Grady; Hatton).
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-duress-and-intoxication--07-ravi-worked-example.webp" width="900" height="755" alt="For arson, Ravi’s duress argument has a threat of serious injury and a nominated crime, and immediacy is arguable, but voluntary association with a gang he owed money to is likely to remove it (Hasan); drinking for courage is no defence (Gallagher), and criminal damage is basic intent (Majewski). For the assault, his drunken mistaken belief in self-defence is not available (O’Grady; Hatton)." loading="lazy">
+  <figcaption>Take one offence and one defence at a time: element, facts, case, conclusion.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -65,6 +65,11 @@ State the numbers of protons, neutrons and electrons in (a) a neutral atom of st
     charge −2 means 2 extra electrons: 16 + 2 = 18 electrons
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom-cambridge-igcse-physics--01-ions-and-counting.webp" width="900" height="638" alt="Simplified atoms with two protons: a neutral atom has two electrons, a positive ion of charge +2 has lost both, and a negative ion of charge −2 has gained two; the nucleus is unchanged. Strontium-90 (Z = 38) has 38 protons, 52 neutrons and 38 electrons; the sulfur-32 ion of charge −2 has 16 protons, 16 neutrons and 18 electrons." loading="lazy">
+  <figcaption>Ions form by losing or gaining electrons; neutrons = A − Z.</figcaption>
+</figure>
+
 ## Nuclide notation
 
 A nucleus is written as ᴬ_Z X, printed here with a superscript and a subscript, for example ²³₁₁Na:
@@ -76,11 +81,26 @@ A nucleus is written as ᴬ_Z X, printed here with a superscript and a subscript
 
 **Extended only.** The **relative charge** of a nucleus equals **Z** (each proton contributes +1, neutrons nothing). The **relative mass** of a nucleus equals **A** (each nucleon has a relative mass of about 1). So the nucleus ⁵⁶₂₆Fe has a relative charge of +26 and a relative mass of 56.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom-cambridge-igcse-physics--02-nuclide-notation.webp" width="900" height="600" alt="Sodium-23 in nuclide notation: the nucleon number A = 23 (protons plus neutrons) at the top, the proton number Z = 11 at the bottom, then the symbol Na, so it has 23 − 11 = 12 neutrons. For Extended, iron-56 with Z = 26 has a nucleus of relative charge +26 and relative mass 56." loading="lazy">
+  <figcaption>A on top, Z underneath; neutrons = A − Z.</figcaption>
+</figure>
+
 ## Isotopes
 
 **Isotopes** are atoms of the same element (same proton number) with **different numbers of neutrons** (different nucleon numbers). An element may have more than one isotope. Hydrogen has three: ¹₁H (no neutrons), ²₁H (one neutron) and ³₁H (two neutrons). Carbon-12, ¹²₆C, and carbon-14, ¹⁴₆C, are isotopes of carbon with 6 and 8 neutrons.
 
 Isotopes of one element have the same number of protons and, as neutral atoms, the same number of electrons; only the neutron number differs. A question that gives two nuclides with **different Z** is describing two different elements, never isotopes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom-cambridge-igcse-physics--03-hydrogen-isotopes.webp" width="900" height="600" alt="Three isotopes of hydrogen, each with one proton and one electron: hydrogen-1 has no neutrons, hydrogen-2 has one and hydrogen-3 has two. Same proton number, different nucleon numbers." loading="lazy">
+  <figcaption>Isotopes share a proton number but differ in neutron number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--01-atom-isotopes.webp" width="900" height="920" alt="Two carbon atoms side by side. Carbon-12 has 6 protons, 6 neutrons and 6 electrons; carbon-14 has 6 protons, 8 neutrons and 6 electrons. Same proton number means the same element, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same number of protons but different numbers of neutrons.</figcaption>
+</figure>
 
 ## Alpha-particle scattering (Extended only)
 
@@ -101,6 +121,11 @@ The marks are for linking **each observation to its own conclusion**. "The alpha
 > "Alpha particles are positively charged. Some were deflected through large angles as they passed near a nucleus, which means they were pushed away by a strong repulsive force, so the nucleus must carry a positive charge like the alpha particle."
 
 **Why this scores:** it states the alpha particle's charge, gives the observation (large-angle deflection) and links repulsion to like charges. Saying only "the nucleus repels alpha particles" loses the first point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
+</figure>
 
 ## Fission and fusion (Extended only)
 
@@ -123,6 +148,11 @@ Fusion:   ²₁H + ³₁H → ⁴₂He + ¹₀n
 ```
 
 If a question asks how many neutrons are released, subtract the product nucleon numbers from the total on the left: 236 − 140 − 94 = 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom-cambridge-igcse-physics--04-fission-and-fusion.webp" width="900" height="588" alt="Fission: uranium-235 absorbs a neutron and splits into xenon-140, strontium-94 and two neutrons; nucleon numbers 235 + 1 = 140 + 94 + 2 and proton numbers 92 = 54 + 38. Fusion: hydrogen-2 and hydrogen-3 join into helium-4 and a neutron; 2 + 3 = 4 + 1 and 1 + 1 = 2 + 0. In both the products have slightly less mass and energy is released." loading="lazy">
+  <figcaption>Fission splits a large nucleus; fusion joins light ones; both release energy.</figcaption>
+</figure>
 
 ## Common mistakes
 

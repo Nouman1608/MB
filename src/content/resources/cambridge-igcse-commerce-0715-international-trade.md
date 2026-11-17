@@ -37,6 +37,11 @@ The syllabus names five. Each needs a reason, not just a label.
 | More investment | Foreign firms set up factories, offices and warehouses to trade with the country, bringing capital and technology |
 | Creation of jobs | Export industries, ports, transport firms and shops selling imports all employ people |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--02-gt-benefits.webp" width="900" height="960" alt="Two countries exchange goods. Five benefit cards show a wider choice of goods, higher standard of living, lower cost of imports, more investment and creation of jobs." loading="lazy">
+  <figcaption>International trade brings five benefits to a country.</figcaption>
+</figure>
+
 ## What challenges do exporters and importers face? (3.1.2)
 
 | Challenge | What it means for traders |
@@ -62,6 +67,16 @@ A manufacturer in Country A prices a lamp at **A$100**.
 - If it falls to A$1 = 0.80 euros, the buyer pays **80 euros**, so exports become more competitive.
 
 For an **importer** in Country A, the effect is reversed: a stronger currency makes imports cheaper.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-international-trade--01-trader-challenges.webp" width="900" height="745" alt="The eleven challenges grouped in three panels: getting goods there (distance, transport, documentation), money and payment (methods of payment, non-payment, currencies, exchange rates, customs duties) and doing business abroad (language, competition, different legal systems)." loading="lazy">
+  <figcaption>Name the challenge, then say how it affects the trader’s cost, risk or sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-international-trade--02-exchange-rate-lamp.webp" width="900" height="735" alt="Bars show what a European buyer pays for an A$100 lamp: 80 euros at A$1 = 0.80 euros, 90 euros at 0.90 and 100 euros at 1.00. A falling currency makes exports more competitive; a rising one makes them dearer abroad." loading="lazy">
+  <figcaption>A stronger currency makes exports dearer abroad; a weaker one makes them cheaper (invented figures).</figcaption>
+</figure>
 
 ## How do the Balance of Trade and Balance of Payments differ? (3.1.3)
 
@@ -93,6 +108,21 @@ For an **importer** in Country A, the effect is reversed: a stronger currency ma
 - A foreign MNC building a factory brings an **investment inflow**; when it later sends profits home, money flows out.
 - A manufacturer that starts exporting through ecommerce raises **visible exports**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-international-trade--03-bot-inside-bop.webp" width="900" height="555" alt="A large box for the Balance of Payments contains three parts: trade in goods, trade in services and financial flows. Only the trade in goods part is the Balance of Trade. Below, a surplus is exports greater than imports and a deficit is imports greater than exports." loading="lazy">
+  <figcaption>The Balance of Trade covers goods only; the Balance of Payments covers everything.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-international-trade--04-bop-waterfall.webp" width="900" height="705" alt="A waterfall chart. The Balance of Trade is 540 − 610 = −70, a deficit. Services add 230 − 150 = +80, giving +10 on goods and services. A net investment inflow of +25 gives a Balance of Payments surplus of +35." loading="lazy">
+  <figcaption>A goods deficit of $70 million is more than covered by services and investment, giving +$35 million.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-international-trade--05-activities-and-balances.webp" width="900" height="705" alt="Six activities linked to the balance they affect: tourists at a hotel are service exports, food imports are visible imports, insuring foreign ships is an invisible export, ecommerce sales abroad are visible exports, a foreign MNC’s factory is an investment inflow, and its profits sent home are an outflow." loading="lazy">
+  <figcaption>Ask whether money flows in or out, and whether it is goods, services or investment.</figcaption>
+</figure>
+
 ## Free trade, trading blocs and trade restrictions (3.1.4)
 
 **Free trade** is international trade without barriers such as tariffs, quotas or embargoes.
@@ -121,6 +151,16 @@ A **trading bloc** is a group of countries that agree to reduce or remove trade 
 - **International trade fairs**: exhibitions where exporters meet foreign buyers, show products and learn about markets.
 - **Cheaper bank loans**: finance at lower interest to help exporters fund production and wait for payment.
 - **Insurance guarantees**: cover against the risk of a foreign buyer not paying, so exporters can sell to new markets with confidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-international-trade--06-trade-restrictions.webp" width="900" height="635" alt="Three panels: a tariff is a tax on imports that raises their price, a quota limits the quantity imported and causes shortages, and an embargo bans trade so it stops completely. Below, a $50 shoe with a 20% tariff costs $50 + $10 = $60." loading="lazy">
+  <figcaption>A tariff taxes, a quota limits and an embargo bans.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-international-trade--07-trading-bloc.webp" width="900" height="715" alt="Three member countries inside a bloc trade freely, while a non-member’s goods meet a common external tariff at the bloc’s edge. Below, four advantages of joining (larger market, cheaper imports, investment, political cooperation) sit beside four disadvantages." loading="lazy">
+  <figcaption>A bloc opens markets between members but brings competition and shared rules.</figcaption>
+</figure>
 
 ## What are the common mistakes in 3.1?
 

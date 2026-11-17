@@ -45,6 +45,11 @@ It is organised in three sections.
 | Section II | 19 to 51 | The European Court of Human Rights: composition, procedure and judgments |
 | Section III | 52 to 59 | Miscellaneous provisions, including reservations and denunciation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--01-treaty-structure.webp" width="900" height="537" alt="A timeline: the Universal Declaration 1948, referred to in the preamble; the Convention signed in Rome on 4 November 1950; in force on 3 September 1953. A bar shows its structure: Article 1 (obligation to respect rights), Section I Articles 2 to 18 (rights and general provisions), Section II Articles 19 to 51 (the Court) and Section III Articles 52 to 59 (miscellaneous)." loading="lazy">
+  <figcaption>Rights sit in Section I; the Court takes up most of the text in Section II.</figcaption>
+</figure>
+
 ## Article 1: whom does the Convention protect?
 
 Under Article 1, states "shall secure to everyone within their jurisdiction" the rights in Section I.
@@ -55,6 +60,11 @@ Under Article 1, states "shall secure to everyone within their jurisdiction" the
   Grand Chamber held that the UK had jurisdiction over Iraqi civilians killed in security operations by
   British soldiers in Basra, where the UK exercised public powers, and found a breach of the duty under
   Article 2 to investigate the deaths.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--02-article-1-jurisdiction.webp" width="900" height="462" alt="States must secure the rights to everyone within their jurisdiction: citizens, foreign nationals, prisoners and asylum seekers. Jurisdiction is primarily territorial but can reach abroad where a state exercises authority and control, as in Al-Skeini v UK, where the UK had jurisdiction over civilians killed by British soldiers in Basra." loading="lazy">
+  <figcaption>Jurisdiction is mainly territorial, but follows authority and control abroad.</figcaption>
+</figure>
 
 ## The rights in Section I
 
@@ -77,6 +87,11 @@ Under Article 1, states "shall secure to everyone within their jurisdiction" the
 The specification focuses on Articles **2, 5, 8, 10 and 11**. Knowing where they sit among the others
 helps with classification and with evaluation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--03-section-one-rights.webp" width="900" height="524" alt="A grid of Articles 2 to 14: life, torture, slavery, liberty, fair trial, no punishment without law, private life, religion, expression, assembly, marriage, effective remedy and discrimination. Articles 2, 5, 8, 10 and 11, the specification focus, are highlighted." loading="lazy">
+  <figcaption>The specification’s five Articles sit among thirteen in Section I.</figcaption>
+</figure>
+
 ## Classification of rights
 
 The Convention does not use the labels "absolute", "limited" and "qualified", but the structure of each
@@ -88,6 +103,11 @@ Article supports them.
 - **Qualified**: a first paragraph sets out the right and a second paragraph allows restrictions that
   are prescribed by law, pursue a listed aim and are necessary in a democratic society. **Articles 8, 9,
   10 and 11** follow this pattern.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--04-classification.webp" width="900" height="467" alt="Three bands. Absolute rights, with no exceptions or balancing: Article 3, Article 4.1 and Article 7. Limited rights, where the Article lists the only exceptions: Article 2 (2.2) and Article 5 (5.1(a) to (f)). Qualified rights, with restrictions in a second paragraph: Articles 8, 9, 10 and 11." loading="lazy">
+  <figcaption>The structure of each Article tells you how far it can be restricted.</figcaption>
+</figure>
 
 ## General provisions that affect every right
 
@@ -105,6 +125,11 @@ Article 10 to spread propaganda aimed at destroying the rights of others. **Arti
 the UK after Brogan v UK (1988) and after the attacks of 11 September 2001, the derogation that the House
 of Lords quashed in A v Secretary of State for the Home Department (2004).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--05-general-provisions.webp" width="900" height="668" alt="Cards for the general Articles: 13 effective remedy, 14 discrimination (not free-standing), 16 political activity of aliens, 17 abuse of rights, 18 improper purposes. Article 15 allows derogation in war or a public emergency, but never from Article 2 (except lawful acts of war), Article 3, Article 4.1 or Article 7; the UK used it after Brogan and after 11 September 2001, quashed in A v Home Secretary." loading="lazy">
+  <figcaption>Article 15 allows derogation, but never from the core four.</figcaption>
+</figure>
+
 ## The protocols
 
 Protocols are additional treaties. Some add rights; others change the Court's procedure. A state is bound
@@ -121,6 +146,11 @@ only by the protocols it has ratified.
 | Protocol 14 | Single-judge filtering, a "significant disadvantage" admissibility criterion, infringement proceedings | Procedural |
 | Protocol 15 (in force 2021) | Adds subsidiarity and the margin of appreciation to the preamble; time limit for applications cut from six months to four | Procedural |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--06-protocols-uk.webp" width="900" height="538" alt="Protocols grouped by status. Ratified by the UK: Protocol 1 (property, education, elections), Protocol 6 and Protocol 13 (death penalty). Not ratified: Protocol 4 (freedom of movement) and Protocol 12 (free-standing discrimination). Procedural: Protocol 11 (single full-time Court), Protocol 14 (filtering and admissibility) and Protocol 15 (margin of appreciation in the preamble, four-month time limit)." loading="lazy">
+  <figcaption>Some protocols add rights the UK has not accepted; others reshape the Court.</figcaption>
+</figure>
+
 ## The Court
 
 - **Judges**: one judge for each state party, elected by the Parliamentary Assembly of the Council of
@@ -133,6 +163,11 @@ only by the protocols it has ratified.
 - **Judgments**: the Court may award **just satisfaction** (Article 41). States undertake to abide by
   final judgments (Article 46), and the Committee of Ministers supervises execution. Detailed rules on
   admissibility and execution are in the [Enforcement study guide](/resources/aqa-a-level-law-7162-enforcement/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--07-the-court.webp" width="900" height="688" alt="A stepped pyramid of the Court’s formations: single judges filter inadmissible cases, committees of three decide well-established case law, chambers of seven decide most others, and a Grand Chamber of 17 hears the most important cases. Applications come from states (Article 33) or victims (Article 34); judgments may award just satisfaction (Article 41), bind states (Article 46) and are supervised by the Committee of Ministers." loading="lazy">
+  <figcaption>Four formations, from single-judge filtering to the Grand Chamber of 17.</figcaption>
+</figure>
 
 ## How the Convention is interpreted
 

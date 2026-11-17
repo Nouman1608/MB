@@ -29,6 +29,11 @@ This guide covers the section 3.1 row **The legal system: access to justice and 
 
 Rights are only useful if people can enforce them. Access to justice means that a person with a legal problem can find out what their rights are, get advice and, if necessary, be represented in a court or tribunal, whatever their means. Two obstacles recur: **knowledge** (people may not realise their problem is legal) and **cost** (lawyers' fees, court fees and the risk of paying the other side's costs if a civil claim fails). The three specification items answer these obstacles in turn: free advice, private ways of paying, and state funding.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--01-obstacles-answers.webp" width="900" height="527" alt="Two obstacles to access to justice, knowledge (not realising a problem is legal) and cost (fees and the risk of paying the other side’s costs), are answered by three routes: free advice from help lines, Citizens Advice, law centres and trade unions; private funding through own resources, insurance and conditional fee agreements; and civil and criminal state funding." loading="lazy">
+  <figcaption>Free advice tackles knowledge; private and state funding tackle cost.</figcaption>
+</figure>
+
 ## Alternative sources of legal advice
 
 | Source | Who runs it | What it offers | Limits |
@@ -39,6 +44,11 @@ Rights are only useful if people can enforce them. Access to justice means that 
 | **Trade unions** | Unions for their members | Advice and representation in employment disputes and workplace injury claims, often through union solicitors | Only for members, and usually only for work-related problems |
 
 **Evaluation points.** Free advice is most valuable at an early stage, before a problem becomes a court case. But much of it depends on charitable or local authority funding, so provision is uneven; some parts of the country have little specialist advice, sometimes described as "advice deserts".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--02-advice-sources.webp" width="900" height="659" alt="Four advice sources with who runs them, what they offer and their limits: help lines (advice only), Citizens Advice (free advice from trained volunteers, generally not lawyers), law centres (advice and representation in social welfare law, but unevenly spread) and trade unions (members only, work problems). Provision is uneven, leaving advice deserts." loading="lazy">
+  <figcaption>Free advice works best early, but its uneven funding leaves gaps.</figcaption>
+</figure>
 
 ## Private funding
 
@@ -56,6 +66,16 @@ Rights are only useful if people can enforce them. Access to justice means that 
 - LASPO also permitted **damages-based agreements**, where the lawyer takes a percentage of the damages won.
 
 **Evaluation points.** CFAs have widened access for personal injury claimants, who would never have qualified for legal aid, but lawyers prefer cases with good prospects, so weaker or complex claims may not find a lawyer; and a client who wins still loses part of the damages to the success fee.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--03-bte-ate.webp" width="900" height="534" alt="A timeline split at the point a dispute arises. Before-the-event insurance is taken out before any dispute, often as a cheap add-on to home or motor cover. After-the-event insurance is bought once a dispute exists, mainly to cover the other side’s costs if the claim fails, and premiums can be high." loading="lazy">
+  <figcaption>BTE is bought before trouble; ATE once the dispute exists.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--04-cfa-no-win-no-fee.webp" width="900" height="648" alt="If a CFA case is lost the lawyer takes no fee or a reduced fee; if won, the normal fee plus a success fee of up to 100%. A timeline: CFAs were permitted by the Courts and Legal Services Act 1990 (not for criminal or family cases); under the Access to Justice Act 1999 the success fee and ATE premium were recoverable from the loser; from April 2013 under LASPO the success fee comes from the client’s damages, capped at 25% in personal injury. LASPO also allowed damages-based agreements." loading="lazy">
+  <figcaption>Since LASPO, a winning client pays the success fee out of their damages.</figcaption>
+</figure>
 
 ## Public funding: state legal aid
 
@@ -80,6 +100,16 @@ Where a case is out of scope but refusing funding would breach the person's huma
 
 **Evaluation points.** Police station advice protects suspects at the most vulnerable stage. But LASPO's cuts to civil scope have left many people to represent themselves (**litigants in person**), especially in family courts, which can lengthen hearings and disadvantage the unrepresented side. Fixed legal aid fees have made criminal work less attractive to lawyers, and eligibility limits mean some people who cannot realistically afford a lawyer still do not qualify.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--05-civil-legal-aid.webp" width="900" height="629" alt="Three questions in order for civil legal aid. Scope: care proceedings, domestic abuse protection, home at risk, asylum and mental health tribunal cases are in; most private family law, clinical negligence, employment, welfare benefits and debt are out, though exceptional case funding under LASPO section 10 is possible if refusal would breach human rights. Then a means test on disposable income and capital, then a merits test." loading="lazy">
+  <figcaption>Scope comes first: since LASPO, many civil matters are simply outside legal aid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--06-criminal-legal-aid.webp" width="900" height="431" alt="Two stages of criminal legal aid. At the police station, advice is free to anyone detained through the duty solicitor scheme, with the right to a solicitor under s58 PACE 1984. Representation in court needs the interests of justice test and a means test, with Crown Court contributions. A duty solicitor at the magistrates’ court helps unrepresented defendants." loading="lazy">
+  <figcaption>Police station advice is free to all; court representation is tested on justice and means.</figcaption>
+</figure>
+
 ## Worked example: advising in a scenario
 
 *Ayo has been dismissed from his job and thinks it was unfair. He has little money and is a member of a trade union. Advise him on where he could get advice and how his case could be funded.* **[6]**
@@ -99,6 +129,11 @@ Conclusion: Ayo should contact his union first.
 ```
 
 Each point names a source, explains what it gives Ayo and applies it to his facts, which is how application marks are earned.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--07-worked-example-ayo.webp" width="900" height="679" alt="Ayo’s options. Advice: his trade union (best first step), Citizens Advice or a law centre, and Acas. Funding: a union-funded solicitor is most realistic; civil legal aid is unlikely as most employment matters are out of scope; own resources or a CFA are possible; check for BTE cover. Conclusion: contact the union first." loading="lazy">
+  <figcaption>Match each source to the person’s actual problem and means.</figcaption>
+</figure>
 
 ## Common mistakes
 

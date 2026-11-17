@@ -38,6 +38,11 @@ The [People and technology study guide](/resources/oxfordaqa-a-level-sociology-9
 - **Commercialisation**: in-game purchases and "loot boxes" (paid random rewards) have led some regulators to examine whether they resemble gambling.
 - **Moral panics**: violent games were blamed after school shootings, such as Columbine in 1999. Research on whether games cause real-world violence remains contested, and many researchers find no clear link to serious violence, so this is a good case for Cohen's model.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-digital-technologies--01-magic-circle.webp" width="900" height="799" alt="Huizinga’s magic circle of play, with friendships, money, identity and work crossing between online games and everyday life. A note lists themes: community, Gamergate, loot boxes and moral panics after Columbine." loading="lazy">
+  <figcaption>In online games, friendships, money, identity and work cross the boundary of play.</figcaption>
+</figure>
+
 ## How 'traditional' media adapt to the digital age
 
 - **Convergence**: Jenkins's idea that content flows across platforms; one story now appears as print, video, podcast and social post.
@@ -47,6 +52,11 @@ The [People and technology study guide](/resources/oxfordaqa-a-level-sociology-9
 
 **Evaluation**: adaptation has kept some traditional brands powerful, while local newspapers in many countries have closed, which reduces reporting on local government.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-digital-technologies--02-media-adapt.webp" width="900" height="596" alt="Four adaptations: convergence across platforms, Anderson’s long tail, the move from schedules to on-demand viewing in 2007, and newspapers shifting from advertising to subscriptions and paywalls." loading="lazy">
+  <figcaption>Adaptation keeps big brands strong while local news shrinks.</figcaption>
+</figure>
+
 ## Health, fitness, quantification and gamification
 
 - **The Quantified Self**: Gary Wolf and Kevin Kelly founded the Quantified Self movement in 2007 for people who track their own data. Lupton's work (in the unit guide) analyses this.
@@ -55,6 +65,11 @@ The [People and technology study guide](/resources/oxfordaqa-a-level-sociology-9
 - **Gamification beyond fitness**: points and streaks in language-learning apps, ratings and badges for gig-economy drivers. Critics argue gamification at work turns pressure into "play" and hides control.
 
 **Evaluation**: tracking can motivate and give useful information, especially for long-term conditions; the questions are who owns the data and whether insurers or employers use it to sort people.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-digital-technologies--03-healthism.webp" width="900" height="583" alt="A chain from fitness tracking to healthism, blaming ill or inactive people, and ignoring social causes such as poverty. Cards add Foucault’s biopower and gamification at work." loading="lazy">
+  <figcaption>Self-tracking can turn health into a personal duty and hide its social causes.</figcaption>
+</figure>
 
 ## Surveillance
 
@@ -68,6 +83,11 @@ Go beyond the panopticon and synopticon with these concepts.
 
 **Evaluation**: supporters cite crime prevention and safety; critics stress the chilling effect on free expression, unequal targeting of minorities and poorer areas, and that "nothing to hide" arguments ignore how data can be misused later.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-digital-technologies--04-surveillance.webp" width="900" height="813" alt="Scattered data from cards, phones, cameras and online activity combine into a data double that is sorted into categories such as risky or safe. Cards show state surveillance, sousveillance and everyday surveillance." loading="lazy">
+  <figcaption>Surveillance now combines scattered data into data doubles that sort people.</figcaption>
+</figure>
+
 ## Cybercrimes, cyber security and hacking
 
 - **Scale and anonymity**: Majid Yar (*Cybercrime and Society*, 2006) applied routine activity theory online: crime occurs when a motivated offender meets a suitable target without capable guardianship, and the internet makes targets plentiful and guardians scarce.
@@ -75,6 +95,11 @@ Go beyond the panopticon and synopticon with these concepts.
 - **Attacks on states**: Estonia suffered a wave of cyber attacks on government, bank and media websites in 2007, which led it to invest heavily in cyber defence.
 - **Hacking** ranges from criminal intrusion to "ethical" hacking, paid by firms to find weaknesses, and **hacktivism**, hacking for political causes, associated with the loose collective Anonymous.
 - **Cyber security**: passwords, encryption, two-factor authentication, laws and international cooperation. Victims often do not report, so official figures understate cybercrime.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-digital-technologies--05-routine-activity.webp" width="900" height="680" alt="Routine activity theory: a motivated offender, a suitable target and no capable guardian produce crime; online, targets are plentiful and guardians scarce. Cases: WannaCry, Estonia 2007 and types of hacking." loading="lazy">
+  <figcaption>Online, suitable targets are many and capable guardians few.</figcaption>
+</figure>
 
 ## Digital divides in depth
 
@@ -84,6 +109,11 @@ Norris's three divides (in the unit guide) can be deepened:
 - **Types of access**: Jan van Dijk (*The Deepening Divide*, 2005) separated motivational access (wanting to use technology), material access, skills access and usage access.
 - **Patterns**: divides by income, age, rural or urban location, disability and gender; in many low- and middle-income countries women are less likely than men to own a mobile phone or use mobile internet.
 - **A case**: school closures during the COVID-19 pandemic showed the divide sharply, as children without devices, data or a quiet space fell behind.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-digital-technologies--06-digital-divide.webp" width="900" height="725" alt="Three rising steps: first-level access, second-level skills and use (Hargittai), and third-level unequal outcomes. Cards add van Dijk’s four types of access, patterns by income, age, location, disability and gender, and the COVID-19 school closures." loading="lazy">
+  <figcaption>The divide is about skills and outcomes, not only access.</figcaption>
+</figure>
 
 ## Annotated model answer
 
