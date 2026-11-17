@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "depth-study-usa-9489"
     subtopic: "time-of-challenges-usa-9489"
-description: "Twelve original practice questions on Cambridge 9489 USA 1961-74: short recall items and Paper 4-style essays on presidents, Vietnam and civil rights, with answers."
+description: "Twelve original practice questions on Cambridge 9489 USA 1961-74: recall items and Paper 4-style essays on presidents, Vietnam and civil rights, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

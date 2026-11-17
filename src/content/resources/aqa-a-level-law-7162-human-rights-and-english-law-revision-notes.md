@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "human-rights-7162"
     subtopic: "human-rights-and-english-law-7162"
-description: "Condensed recall for AQA A Level Law 7162 on English law and Convention rights: homicide, self-defence, protective policing, inquests, liberty, privacy and protest."
+description: "Condensed recall for AQA A Level Law 7162 on English law and Convention rights: homicide, self-defence, policing duties, inquests, liberty, privacy and protest."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

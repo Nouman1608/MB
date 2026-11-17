@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "electricity-and-magnetism-cambridge-igcse-physics"
     subtopic: "electric-circuits-cambridge-igcse-physics"
-description: "Revision notes for Cambridge IGCSE Physics 0625 section 4.3: component behaviour, series and parallel rules, combined resistance, potential dividers and a self-test."
+description: "Revision notes for Cambridge IGCSE Physics 0625 section 4.3: components, series and parallel rules, combined resistance, potential dividers and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -79,6 +79,13 @@ These notes condense section 4.1 Simple phenomena of magnetism of the Cambridge 
 | Loudspeakers, motors, compasses, door catches | Scrap-metal cranes, relays, electric bells, sorting iron from waste |
 | Steady field, no power needed | Can be switched off and its strength varied |
 
+## Must-know distinctions
+
+- **Magnetic vs magnetised:** a magnetic material can be attracted and magnetised; a magnetised object already has its own N and S poles.
+- **Temporary vs permanent:** the test is what happens when the magnetising field is removed.
+- **Pattern vs direction:** iron filings give the pattern; a compass gives the direction.
+- **Attraction vs repulsion:** attraction has two possible causes; repulsion has only one.
+
 ## Key terms
 
 | Term | Meaning |

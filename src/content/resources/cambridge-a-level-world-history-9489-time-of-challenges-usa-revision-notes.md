@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "depth-study-usa-9489"
     subtopic: "time-of-challenges-usa-9489"
-description: "Revision notes for Cambridge 9489 Paper 4, the USA 1961-74: key terms, a dated timeline, presidents, Vietnam and civil rights condensed, exam traps and a self-test."
+description: "Revision notes for Cambridge 9489 Paper 4, the USA 1961-74: key terms, a timeline, presidents, Vietnam and civil rights condensed, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

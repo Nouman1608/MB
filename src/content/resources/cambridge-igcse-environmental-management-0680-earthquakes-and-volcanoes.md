@@ -129,6 +129,13 @@ So a single magnitude 8.0 earthquake releases roughly the energy of a thousand m
 - Listing acid rain as an earthquake impact rather than an eruption feature.
 - Saying earthquakes can be predicted precisely.
 
+## Exam technique
+
+- **Identify** continents or boundary types from a map: use the exact names.
+- **Describe** a distribution: pattern, named locations, exceptions such as hotspots.
+- **Explain** a boundary: movement, process (subduction, rising magma, friction) and resulting hazard.
+- **Discuss** strategies: sort them into before, during and after, give a benefit and limitation for each, and end with a judgement.
+
 ## Next steps
 
 Revise with the [Earthquakes and volcanoes revision notes](/resources/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes-revision-notes/) and test yourself with the [Earthquakes and volcanoes practice questions](/resources/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes-practice/).

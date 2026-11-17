@@ -120,6 +120,13 @@ Only location B meets all three conditions. In the exam, state the condition eac
 - Learning the cyclone strategies as a copy of the earthquake list; land use zoning is named for earthquakes and floods but not for cyclones, so spend your revision time on the seven cyclone strategies.
 - Writing "wind damage" for every impact instead of linking each to wind, rain or storm surge.
 
+## Exam technique
+
+- **State** the formation conditions with the syllabus numbers and units: 5° to 30°, at least 27 °C, at least 60 m.
+- **Explain** an impact: link it to wind, rain or storm surge, then to people or the environment.
+- **Discuss**: give a benefit and a limitation for each strategy and show how they depend on each other.
+- **Using the source**: quote figures such as wind speed or distance flooded.
+
 ## Next steps
 
 Condense this with the [Tropical cyclones revision notes](/resources/cambridge-igcse-environmental-management-0680-tropical-cyclones-revision-notes/), then practise with the [Tropical cyclones practice questions](/resources/cambridge-igcse-environmental-management-0680-tropical-cyclones-practice/).
