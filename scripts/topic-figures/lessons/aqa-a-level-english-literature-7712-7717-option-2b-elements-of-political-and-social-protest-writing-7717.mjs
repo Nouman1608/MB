@@ -273,7 +273,7 @@ const rich = (x, y, segs, o = {}) => `<text x="${x}" y="${y}" font-size="${o.siz
 
 // 01 The set texts
 {
-  const Y = 110;
+  const Y = 124;
   let s = '';
   const cols = [
     ['Post-2000 prose', C.tealLight, C.tealDark, [['Harvest', 'Jim Crace', false], ['Brotherless Night', 'V. V. Ganeshananthan', false], ['The Kite Runner', 'Khaled Hosseini', false]]],
@@ -297,7 +297,7 @@ const rich = (x, y, segs, o = {}) => `<text x="${x}" y="${y}" font-size="${o.siz
     maxH = Math.max(maxH, y);
   });
   const r = row(maxH + 10, [
-    { title: 'One of the three must be pre-1900', body: 'Any column can supply it.', fill: C.cream, edge: C.olive },
+    { title: 'One of the three must be pre-1900', body: 'Here, from the poetry or further-text options.', fill: C.cream, edge: C.olive },
     { title: 'A Doll’s House: Meyer translation', body: 'Treated as Ibsen’s own words; that edition must be used.', fill: C.panel },
   ], { gap: 18, card: { tsize: 17, size: 16, pad: 16 } });
   s += r.s;
