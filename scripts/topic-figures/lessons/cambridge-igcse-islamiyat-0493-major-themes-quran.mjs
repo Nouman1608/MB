@@ -120,10 +120,10 @@ const chipE = (x, y, w, label, f, e, size = 16) => `<rect x="${x}" y="${y}" widt
   ];
   let y = 110;
   G.forEach(([h, d, ps, f, e], i) => {
-    b += panel(30, y, 840, 172, f, e) + badge(70, y + 40, 20, String(i + 1), C.cream) + T(106, y + 47, h, { size: 21, weight: 700 });
+    b += panel(30, y, 840, 180, f, e) + badge(70, y + 40, 20, String(i + 1), C.cream) + T(106, y + 47, h, { size: 21, weight: 700 });
     b += para(54, y + 82, d, 790, { size: 16, fill: C.muted, lh: 21 }).s;
-    ps.forEach((p, k) => { b += chipE(54 + k * 160, y + 118, 148, 'Sura ' + p, C.panel, e === C.panelEdge ? C.ink : e); });
-    y += 186;
+    ps.forEach((p, k) => { b += chipE(54 + k * 160, y + 126, 148, 'Sura ' + p, C.panel, e === C.panelEdge ? C.ink : e); });
+    y += 194;
   });
   b += T(450, y + 18, 'Fifteen passages: check the syllabus appendix for your exam year.', { size: 17, fill: C.muted, anchor: 'middle' });
   add('01-three-groups',
@@ -253,15 +253,15 @@ const chipE = (x, y, w, label, f, e, size = 16) => `<rect x="${x}" y="${y}" widt
   ];
   W.forEach(([s, g, a, im], i) => {
     const x = 30 + i * 430;
-    b += panel(x, 110, 410, 620) + T(x + 20, 148, s, { size: 22, weight: 700 }) + chipE(x + 20, 162, 370, g, i ? C.panel : C.tealLight, i ? C.ink : C.tealDark, 15);
-    b += `<rect x="${x + 14}" y="218" width="382" height="290" rx="10" fill="${C.cream}"/>` + T(x + 30, 248, '(a) Theme', { size: 18, weight: 700, fill: C.olive });
+    b += panel(x, 110, 410, 520) + T(x + 20, 148, s, { size: 22, weight: 700 }) + chipE(x + 20, 162, 370, g, i ? C.panel : C.tealLight, i ? C.ink : C.tealDark, 15);
+    b += `<rect x="${x + 14}" y="218" width="382" height="206" rx="10" fill="${C.cream}"/>` + T(x + 30, 248, '(a) Theme', { size: 18, weight: 700, fill: C.olive });
     b += bullets2(x + 30, 282, a, 350);
-    b += `<rect x="${x + 14}" y="522" width="382" height="194" rx="10" fill="${C.tealLight}"/>` + T(x + 30, 552, '(b) Importance today', { size: 18, weight: 700, fill: C.tealDark });
-    b += bullets2(x + 30, 586, im, 350);
+    b += `<rect x="${x + 14}" y="436" width="382" height="180" rx="10" fill="${C.tealLight}"/>` + T(x + 30, 466, '(b) Importance today', { size: 18, weight: 700, fill: C.tealDark });
+    b += bullets2(x + 30, 500, im, 350);
   });
-  b += T(450, 768, '(a): name the group, give the teaching, point to the wording. (b): say what a Muslim actually does.', { size: 16, fill: C.muted, anchor: 'middle' });
+  b += T(450, 668, '(a): name the group, give the teaching, point to the wording. (b): say what a Muslim actually does.', { size: 16, fill: C.muted, anchor: 'middle' });
   add('07-worked-example',
-    SV(796, 'Worked example: two passages', b),
+    SV(696, 'Worked example: two passages', b),
     'The worked answer laid out: Sura 2.21-22 (created world) teaches worship of the Lord who provides, so no rivals, and leads to gratitude and avoiding waste; Sura 6.75-79 (Messengers) shows Ibrahim rejecting star, moon and sun for the Creator, and leads to reflection on nature and calm explanation of belief.',
     'Group, teaching and wording for (a); a specific action for (b).',
     '## Worked example');
