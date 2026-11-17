@@ -82,6 +82,11 @@ Fuller explanation is in the
 - Jane Pilcher's *Age and Generation in Modern Britain* (1995) argues age is a basis for both
   identity and inequality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-identity-methods--03-identity-chain.webp" width="900" height="705" alt="Three linked steps: 1.1 construction, where agencies of socialisation transmit norms and values; 1.2 maintenance, where social control keeps conformity and deviance theories explain breakdowns; 1.3 change, where identities shift and globalisation creates hybrid identities." loading="lazy">
+  <figcaption>Socialisation builds identity, social control maintains it, and social change reshapes it.</figcaption>
+</figure>
+
 ## How identities are changing
 
 | Change named in 1.3 | Argument | Counter-argument |
@@ -91,6 +96,11 @@ Fuller explanation is in the
 | **New/hybrid identities** | Stuart Hall and Homi Bhabha (*The Location of Culture*, 1994) describe identities mixed from more than one culture | Hybridity may be stronger among the young and urban; many people keep single, traditional identities |
 | **Gender change** | Women's paid work and education have widened femininities; Mac an Ghaill (*The Making of Men*, 1994) describes a crisis of masculinity | Gender inequality in pay and domestic labour persists, so change is partial |
 | **Age change** | Longer life expectancy and consumer markets create new identities in later life and extended youth | Older people still face ageism; youth transitions depend on class |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-social-control-and-identity--06-changing-identities.webp" width="900" height="646" alt="Four cards on changing identities: class (Pakulski and Waters versus Savage), gender (Connell, Mac an Ghaill, Butler), ethnicity (Hall, Bhabha’s hybridity, globalisation) and age (socially constructed stages reshaped by consumer markets and longer lives). Below, the debate about increased choice." loading="lazy">
+  <figcaption>Identities are becoming more fluid and hybrid, but structure still limits the choices.</figcaption>
+</figure>
 
 ## Worked example: a 6-mark "explain the view" answer
 

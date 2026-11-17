@@ -43,6 +43,11 @@ net migration = immigrants - emigrants
 rate per 1,000 = net migration / population x 1,000
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-migration--01-naming-migrants.webp" width="900" height="710" alt="A decision tree. Voluntary migrants moving mainly for work are economic migrants. Forced migrants who stay in their own country are internally displaced persons; those who cross a border because of persecution, conflict or violence are refugees, and those who have applied for refugee status and await a decision are asylum seekers. A side box lists other ways to classify: distance, time and direction." loading="lazy">
+  <figcaption>Ask: by choice or forced? Then: did they cross a border?</figcaption>
+</figure>
+
 ## Push, pull and obstacles
 
 | | Push | Pull |
@@ -57,6 +62,11 @@ rate per 1,000 = net migration / population x 1,000
 - Migrants are often **young adults**, frequently male at first.
 - Pull factors are **perceived** and often better than the reality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-migration--02-push-pull-obstacles.webp" width="900" height="610" alt="A source area with push factors (unemployment, low incomes, land shortage, poor services, conflict, drought) and a destination with perceived pull factors (jobs, wages, services, family, safety, reliable water). Migrants, often young adults, move between them past a wall of intervening obstacles: cost, distance, immigration laws, language and lack of information." loading="lazy">
+  <figcaption>Push and pull explain why people want to move; obstacles explain why many do not.</figcaption>
+</figure>
+
 ## Impacts: always cover both places
 
 **Source area**
@@ -67,6 +77,11 @@ rate per 1,000 = net migration / population x 1,000
 - + Fills labour shortages; taxpayers; young workers slow ageing; cultural diversity.
 - − Pressure on housing and services; possible tension or discrimination; some low-paid
   exploitation of migrants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-migration--03-migration-impacts.webp" width="900" height="690" alt="Young adults move from the source area to the receiving area; remittances flow back, and return migrants bring skills, savings and ideas. A table compares impacts: remittances versus filled labour shortages; brain drain versus pressure on services; an ageing source population versus a younger receiving one; separated families versus cultural diversity and possible tension." loading="lazy">
+  <figcaption>Every impact has a source-area side and a receiving-area side.</figcaption>
+</figure>
 
 ## Case studies
 
@@ -94,6 +109,11 @@ rate per 1,000 = net migration / population x 1,000
 **Pakistan: forced internal movement**: the 2022 monsoon floods displaced millions of people
 inside the country, mainly in Sindh and Balochistan. They were internally displaced persons, not
 refugees; many returned once the water receded, although some areas stayed flooded for months. Contrast this with the voluntary flow to the Gulf.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-migration--04-migration-case-studies.webp" width="900" height="780" alt="Top: workers move from Pakistan to Saudi Arabia and the UAE on temporary contracts, pushed by few well-paid jobs and pulled by higher wages; remittances flow back. Bottom: from 2011 Syrians fled civil war, with the largest number going to Turkey, many others to Lebanon and Jordan and a smaller share on to Europe, notably Germany in 2015. Arrow widths are schematic." loading="lazy">
+  <figcaption>One voluntary and one forced flow: learn causes and impacts for each.</figcaption>
+</figure>
 
 ## Explaining a migration: the chain
 

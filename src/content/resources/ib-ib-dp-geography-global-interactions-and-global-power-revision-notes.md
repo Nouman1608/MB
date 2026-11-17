@@ -42,6 +42,11 @@ to shape outcomes.
 
 Nye later used **smart power** for the skilful combination of hard and soft power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--15-power-forms.webp" width="900" height="800" alt="Three rows. Hard power is coercion or payment, for example military force, sanctions and economic pressure. Soft power is influence through attraction, for example culture, values, education, aid and diplomacy. Economic power comes from control of markets, capital, technology and resources, and membership of trade blocs. Below, non-state actors also hold power: transnational corporations, international organisations, NGOs and influential individuals." loading="lazy">
+  <figcaption>Forms of power and the non-state actors that hold it.</figcaption>
+</figure>
+
 ## Measuring power
 
 No single indicator captures power, so combine several:
@@ -114,6 +119,11 @@ about a **multipolar** world.
 
 Criticisms of Mackinder: air power, missiles and cyberspace reduce the importance of controlling a
 land heartland, and the theory reflects a European imperial viewpoint.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--16-core-periphery.webp" width="900" height="820" alt="A large circle split into an inner core and an outer ring. The core is wealthy and well-connected. The periphery ring supplies resources and labour and has less influence. Four arrows point inwards from the periphery to the core to show resources and labour flowing to the core. Schematic." loading="lazy">
+  <figcaption>Core and periphery as a simple concentric model.</figcaption>
+</figure>
 
 ## Model paragraph (discuss)
 

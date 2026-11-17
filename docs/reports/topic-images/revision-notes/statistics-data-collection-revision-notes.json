@@ -1,0 +1,8 @@
+{ "page": "statistics-data-collection-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--08-types-of-data.webp", "after": "## Classifying data"},
+ {"src": "https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--10-recorded-height-is-an-interval.webp", "after": "## Class boundaries for continuous data (previewing Topic 3 -- Frequency Distributions)"},
+ {"src": "https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--11-census-or-sample.webp", "after": "## Census vs sample"},
+ {"src": "https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--12-four-sampling-methods.webp", "after": "## Sampling methods"},
+ {"src": "https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--13-stratified-sample-worked.webp", "after": "## Sampling methods"},
+ {"src": "https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--14-sample-size-and-bias.webp", "after": "## Bias"}
+] }

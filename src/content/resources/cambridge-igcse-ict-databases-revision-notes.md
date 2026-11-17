@@ -60,6 +60,11 @@ Condensed for revision. For the full explanation, use the
 | Query | A search that selects records meeting criteria |
 | Report | A formatted output of data for printing or display |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--01-db-table-anatomy.webp" width="900" height="805" alt="A table called Books with five records (rows) and five fields (columns): BookID, Title, Genre, Price and InStock. One record, Iron Garden, is outlined as a row and the Genre field is outlined as a column. A row under the headings shows each field's data type: Text for Title and Genre, Currency for Price and Integer for InStock, with BookID marked as the primary key." loading="lazy">
+  <figcaption>Each row is a record, each column is a field, and each field has a data type; BookID is the primary key.</figcaption>
+</figure>
+
 ## 18.1 Which data type should each field have?
 
 | Data type | Use | Example |
@@ -81,6 +86,11 @@ Phone numbers are **text**: they can start with 0 and are never calculated.
 | Structure | One table | Several linked tables |
 | Advantages | Simple to set up and use | Less data duplication (redundancy), so less storage and fewer inconsistencies; data updated in one place; more complex queries |
 | Disadvantages | Repeated data; harder to keep consistent | More complex to design and set up |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--02-db-keys.webp" width="900" height="908" alt="Two linked tables with illustrative data. The Customers table has CustomerID as its primary key, plus Name and Address. The Orders table has OrderID as its primary key and a CustomerID column marked as a foreign key. An arrow from the foreign key points up to the matching primary key in Customers. Ali's address is stored once even though Ali has two orders." loading="lazy">
+  <figcaption>A foreign key holds the value of another table's primary key, so one customer record can serve many orders.</figcaption>
+</figure>
 
 ### Good form design
 
@@ -116,6 +126,16 @@ Wildcards: `*` stands for any number of characters; `?` for one character (in so
 
 Both conditions on different fields in the same criteria row are joined by AND; the OR is within MemberType.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--05-db-query-worked.webp" width="900" height="1160" alt="Step 1: the five Books records are tested against Genre equals Fiction AND InStock greater than 0. Records 1 (Tidewater) and 4 (Night Rivers) pass; record 2 fails because stock is 0, and records 3 and 5 fail because they are Science. Step 2: a calculated field StockValue equals Price times InStock gives 107.88 for Tidewater and 65.25 for Night Rivers, sorted with the dearest price first. Step 3: the report titled Fiction books in stock lists both rows with a total of 173.13." loading="lazy">
+  <figcaption>Criteria keep records 1 and 4, StockValue is worked out in the query, and the report totals 173.13.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--04-db-criteria.webp" width="900" height="1170" alt="Top: two rows of whole numbers 8 to 13. For &quot;more than 10&quot; (greater than 10) the numbers 11, 12 and 13 are marked as matching and 10 is not. For &quot;at least 10&quot; (greater than or equal to 10) the numbers 10, 11, 12 and 13 match. Bottom: a two-circle diagram of the five Books records. Fiction contains records 1, 2 and 4; InStock above 0 contains records 1, 3, 4 and 5. AND keeps only the overlap, records 1 and 4. OR keeps every record from either circle, records 1 to 5." loading="lazy">
+  <figcaption>Greater than leaves out the boundary value, greater-or-equal keeps it; AND keeps the overlap, OR keeps everything in either circle.</figcaption>
+</figure>
+
 ## 18.3 How should a report be presented?
 
 - Show **all required fields and labels in full** — widen controls so nothing is cut off.
@@ -123,6 +143,11 @@ Both conditions on different fields in the same criteria row are joined by AND; 
 - Choose **tabular** (records in rows under column headings) or **columnar** (each record as a block of label: value pairs) layout.
 - **Right-align numbers** and use decimal alignment so decimal points line up.
 - Set numeric display: decimal places, currency symbol, percentage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--06-db-report-quality.webp" width="900" height="860" alt="Two printouts of the same data. The poor report has no title, an extra BookID column and a StockValue heading that is cut off because the column is too narrow. The good report has the title Fiction books in stock, only the three fields asked for, headings that are fully visible and a total of 173.13 at the bottom." loading="lazy">
+  <figcaption>A report loses marks for missing titles, cut-off headings, extra fields or the wrong order; a good one shows only what was asked.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

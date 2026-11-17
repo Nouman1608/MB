@@ -63,6 +63,11 @@ knowledge of the text, understanding of literal and deeper meanings,
 recognising how writers use language to create effect, and
 communicating an informed, personal response.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--01-paper-2-structure.webp" width="900" height="584" alt="Paper 2 Texts, 50% of 3247, has three parts: Part 1 Unseen Passage (20 marks, one passage-based question), Part 2 Poetry (15 marks, one of two essay questions on ten ghazals and three nazms) and Part 3 Prose (15 marks, one of two essay questions on eight articles). All test AO3 Literature." loading="lazy">
+  <figcaption>An unseen extract for 20 marks, then one poetry and one prose essay for 15 each.</figcaption>
+</figure>
+
 ## How to approach it
 
 Part 1's Unseen Passage cannot be prepared by memorising a text, so
@@ -79,6 +84,11 @@ scheme. Because candidates choose one question from two in both Part
 2 and Part 3, make sure your preparation covers enough of the
 prescribed list that you are never left with only one usable option
 on the day.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--04-two-kinds-of-preparation.webp" width="900" height="522" alt="Part 1 needs a skill: practise unseen Urdu poetry and prose, identifying word choice, imagery and structure. Parts 2 and 3 need close knowledge of the set texts with quotations, and enough coverage that both question choices remain open." loading="lazy">
+  <figcaption>Practise unseen analysis; memorise set texts with quotations.</figcaption>
+</figure>
 
 ## Official syllabus
 
@@ -99,6 +109,11 @@ the Poetry/Prose mark schemes explicitly require sustained,
 perceptive engagement with the writer's craft, not just accurate
 comprehension.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--03-mark-scheme-rewards.webp" width="900" height="674" alt="Four qualities rewarded in increasing depth: a personal, informed response; understanding beyond the literal; explicit engagement with the writer's craft (word choice, imagery, structure, tone); and close, well-selected reference to the text. The top levels need sustained, perceptive engagement with craft." loading="lazy">
+  <figcaption>Accurate comprehension is not enough: the top levels reward how the writer works.</figcaption>
+</figure>
+
 ## The set texts at a glance
 
 | Part | Marks | Basis |
@@ -113,6 +128,11 @@ its themes, its language, and at least a few precise quotations that
 can be deployed to support an argument -- rather than something to
 recognise in outline only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--02-set-texts.webp" width="900" height="684" alt="Part 2 Poetry: ten ghazals by Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms by Hali (Musadas Hali, 17 stanzas), Syed Zameer Jafree (Admee) and Mirza Mahmood Sarhadi (Qitaat). Part 3 Prose: eight articles, including two of Ghalib's letters." loading="lazy">
+  <figcaption>Know each prescribed text in depth, with quotations ready.</figcaption>
+</figure>
+
 ## Worked example
 
 A Part 2 Poetry question asks candidates to discuss how a named poet
@@ -122,6 +142,11 @@ poem, explains the imagery or word choice used, and connects that
 language choice explicitly to the emotion or theme named in the
 question -- rather than summarising the poem's general subject matter
 without close reference to its actual wording.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--05-worked-example.webp" width="900" height="516" alt="A strong poetry answer identifies specific lines (sher), explains the imagery or word choice in them, and connects that language to the emotion or theme in the question. A weak answer summarises the poem's subject without close reference." loading="lazy">
+  <figcaption>Quote, explain the language, then tie it to the question.</figcaption>
+</figure>
 
 ## Common mistakes
 
@@ -147,3 +172,8 @@ leaving insufficient time for the two essay-based parts.
   response with sustained, specific textual reference.
 - Time each part of Paper 2 in practice so no single part crowds out
   the others in the real exam.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--06-coverage-targets.webp" width="900" height="580" alt="The guide's revision targets: know at least six of the ten prescribed ghazals, two of the three nazms and five of the eight prose articles in close textual detail, and time each part so Part 1 does not crowd out the essays." loading="lazy">
+  <figcaption>Enough depth across the list to keep both questions open.</figcaption>
+</figure>

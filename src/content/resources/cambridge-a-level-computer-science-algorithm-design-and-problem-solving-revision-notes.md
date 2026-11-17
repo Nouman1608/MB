@@ -69,10 +69,20 @@ Bubble sort and linear search are in 10.2; structure charts are in 12.2.
 
 **Example**: a model of a school bus route keeps the stops, their order and the times between them, and leaves out the colour of the bus and the driver's name.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--15-abstraction-model.webp" width="900" height="900" alt="A real rail network with stations, trains and clouds becomes an abstract model of stations and journey times; train colour is left out." loading="lazy">
+  <figcaption>Abstraction keeps only the details the problem needs.</figcaption>
+</figure>
+
 ## Why use decomposition?
 
 - Each sub-problem is smaller and easier to solve, test and debug.
 - Sub-problems become **modules** (procedures and functions) that can be written by different programmers at the same time and reused in other programs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--16-decomposition-modules.webp" width="900" height="700" alt="A shop problem split into input loop, highest price update, expensive item count and output, each a module." loading="lazy">
+  <figcaption>Decomposing a problem leads to modules that can be written and tested separately.</figcaption>
+</figure>
 
 ## The three basic constructs
 
@@ -81,6 +91,11 @@ Bubble sort and linear search are in 10.2; structure charts are in 12.2.
 | Sequence | Steps carried out one after another | Statements in order |
 | Selection | A choice of path depending on a condition | `IF ... THEN ... ELSE ... ENDIF`, `CASE OF ... ENDCASE` |
 | Iteration | Repeating steps | `FOR ... NEXT`, `REPEAT ... UNTIL`, `WHILE ... ENDWHILE` |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--18-three-constructs.webp" width="900" height="920" alt="Three mini flowcharts with the Cambridge pseudocode keywords for each construct." loading="lazy">
+  <figcaption>The three constructs and their Cambridge pseudocode keywords.</figcaption>
+</figure>
 
 ## Flowchart symbols
 
@@ -143,6 +158,11 @@ ENDIF
 
 The rogue value 999 ends input; the check on Count prevents dividing by zero. As a flowchart: START → set Total, Count → INPUT Temperature → decision "Temperature <> 999?" → Yes: process box (update Total and Count) → INPUT → back to the decision; No: decision "Count > 0?" → OUTPUT → STOP.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--17-flowchart-temperature.webp" width="900" height="965" alt="Flowchart with START, initialise, input, a loop decision on 999, an update box, a Count &gt; 0 decision with two OUTPUT exits, and STOP." loading="lazy">
+  <figcaption>The flowchart for the worked example, using the standard symbols.</figcaption>
+</figure>
+
 ## Worked example: stepwise refinement
 
 Top level: *Process the exam marks for a class.*
@@ -152,6 +172,11 @@ Top level: *Process the exam marks for a class.*
 3. Output the results → 3.1 Output the average to 1 decimal place; 3.2 Output the highest mark and the pass count.
 
 Each step at the lowest level is small enough to translate directly into one or a few pseudocode statements.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--19-stepwise-refinement.webp" width="900" height="950" alt="A top-level step refined into three steps and seven lowest-level steps; 2.2 is highlighted." loading="lazy">
+  <figcaption>Each step is refined until it can be programmed directly.</figcaption>
+</figure>
 
 ## Logic statements
 
@@ -164,6 +189,11 @@ ENDIF
 ```
 
 Brackets make the order of evaluation explicit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--21-free-delivery-logic.webp" width="900" height="810" alt="Two bars show free delivery from 30.00 for members and from 50.00 for non-members; 29.99 is charged and 30.00 is free for a member." loading="lazy">
+  <figcaption>The free-delivery condition shown on order-total bars.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

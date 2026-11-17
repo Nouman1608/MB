@@ -39,6 +39,11 @@ English Literature (YET01). For the full method and a worked plan, use the
 | AOs | AO1, AO2, AO3, AO5 (no AO4) |
 | Format | Open book |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--01-section-a-at-a-glance.webp" width="900" height="558" alt="Section A is worth 25 of Unit 4’s 50 marks: one open-book essay, from a choice of two, on one play from Hamlet, King Lear, Measure for Measure and The Taming of the Shrew. The question is a statement to respond to, considering context and different interpretations, assessed on AO1, AO2, AO3 and AO5." loading="lazy">
+  <figcaption>One essay testing a statement about one of four Shakespeare plays.</figcaption>
+</figure>
+
 ## Play recall grid
 
 | Play | Genre | Structural features | Lines worth knowing |
@@ -49,6 +54,11 @@ English Literature (YET01). For the full method and a worked plan, use the
 | *The Taming of the Shrew* | Comedy with a frame | Christopher Sly Induction; wooing; taming; wager scene | "Kiss me, Kate"; "Thy husband is thy lord, thy life, thy keeper" |
 
 Quotations are open-book in the exam, but knowing where key lines sit saves time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--04-four-plays-debates.webp" width="900" height="547" alt="A table of the four set plays. Hamlet: soliloquies, the play-within-the-play and revenge conventions; debates on delay, Ophelia and Gertrude, and the Ghost. King Lear: the double plot, storm and Fool; redemption or nihilism and Tate’s adapted ending. Measure for Measure: the disguised Duke, bed-trick and uneasy comic ending; justice and mercy and Isabella’s silence. The Taming of the Shrew: the Sly Induction and wager; Katherina’s final speech and farce or criticism." loading="lazy">
+  <figcaption>Each play has dramatic features to analyse and debates to weigh.</figcaption>
+</figure>
 
 ## Dramatic terms
 
@@ -65,6 +75,11 @@ Quotations are open-book in the exam, but knowing where key lines sit saves time
 | Hamartia | A tragic flaw or error |
 | Anagnorisis | A moment of tragic recognition |
 | Problem play | A play mixing comic and tragic elements that leaves moral questions unresolved |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--03-dramatic-methods.webp" width="900" height="616" alt="Six methods with small icons: verse and prose shifts that mark status, intimacy, madness or loss of control; soliloquy and aside, giving the audience knowledge others lack; structure, from scene placing to parallel plots and the final act; staging, including entrances, exits and silent characters; recurring imagery clusters; and endings, asking what order is restored and at what cost." loading="lazy">
+  <figcaption>Analyse the play as theatre: verse, soliloquy, structure, staging, imagery and endings.</figcaption>
+</figure>
 
 ## AO3: contexts to have ready
 
@@ -84,6 +99,11 @@ Quotations are open-book in the exam, but knowing where key lines sit saves time
 
 Weigh each view against the text. A view you reject still counts if you show why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--02-four-aos-and-audiences.webp" width="900" height="693" alt="The statement, described by the specification as an invitation, sits at the centre of four objectives: AO1, a personal argument with dramatic terminology; AO2, dramatic methods; AO3, contexts of writing and reception; and AO5, interpretations from critics, productions, audiences and class debate. Below, the word audiences: treat the play as performed and received." loading="lazy">
+  <figcaption>The statement invites different readings; treat the play as performed and received.</figcaption>
+</figure>
+
 ## An AO5 sentence: weak to strong
 
 **Weak:** *"Some critics think Katherina is being ironic in her last speech."*
@@ -95,6 +115,11 @@ though it does not remove the speech's discomfort for a modern audience."*
 
 The strong version names an interpretation, tests it against dramatic evidence and reaches a judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--07-model-paragraph-ophelia.webp" width="900" height="612" alt="Two panels compare Ophelia before Act 4, with brief obedient replies such as “I shall obey, my lord”, and in madness, where bawdy songs and pointed flowers give her a freedom of speech. Two production readings follow: pathetic collapse inviting pity, or unsettling accusation of the court. The judgement: she is both victim and disturbing witness." loading="lazy">
+  <figcaption>Madness gives Ophelia a voice, and productions decide whether it pities or accuses.</figcaption>
+</figure>
+
 ## Statement method
 
 1. Unpack the key terms.
@@ -103,6 +128,11 @@ The strong version names an interpretation, tests it against dramatic evidence a
 4. Analyse dramatic methods.
 5. Bring in context and alternative readings where they explain evidence.
 6. Judge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--05-responding-to-statement.webp" width="900" height="730" alt="Six steps: unpack the statement’s key terms and assumptions, take a position, test it across the play, analyse dramatic methods in each piece of evidence, introduce alternative readings and contexts where they explain the evidence, and reach a judgement. A bar of the whole play marks an early scene, a turning point and the ending as test points." loading="lazy">
+  <figcaption>Unpack, take a position, test across the play, then judge.</figcaption>
+</figure>
 
 ## Traps
 

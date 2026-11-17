@@ -76,6 +76,11 @@ settlement. Mountains in the north, the Balochistan plateau and deserts such as 
 are sparsely populated because of steep land, aridity, extreme temperatures and limited jobs and
 services.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-people-and-economy--01-birth-death-rates.webp" width="900" height="738" alt="A schematic graph from independence to today. The death rate falls sharply while the birth rate falls much more slowly, leaving a wide gap, the natural increase, which narrows but stays high. Cards give reasons: vaccination, antibiotics, cleaner water and better food cut deaths; girls’ schooling, later marriage and family planning narrow the gap." loading="lazy">
+  <figcaption>Deaths fell fast and births slowly, so the population grew rapidly.</figcaption>
+</figure>
+
 ## Why do people migrate within and from Pakistan?
 
 **Internal migration** is mainly rural to urban: push factors include low farm incomes, small
@@ -90,6 +95,11 @@ diaspora communities spread Pakistani culture abroad; but the country loses skil
 doctors and engineers ("brain drain"). Internal migration fuels urban growth and informal
 settlements, while villages lose young workers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-people-and-economy--02-migration.webp" width="900" height="731" alt="Rural push factors (low farm incomes, small holdings, mechanisation, floods, poor services) and urban pull factors (jobs and better schools and hospitals) drive rural-to-urban migration. Internationally, millions work in the Gulf and live in the UK, Europe and North America, while Afghan refugees have arrived since 1979. Gains include remittances; losses include brain drain." loading="lazy">
+  <figcaption>Migration brings remittances but drains skills from Pakistan and young workers from villages.</figcaption>
+</figure>
+
 ## How has the economy changed over the past 100 years?
 
 At independence, Pakistan's economy was overwhelmingly agricultural, with little industry. Since
@@ -98,6 +108,11 @@ then:
 - **Primary sector:** agriculture's share of GDP has fallen steadily, but it still employs more than a third of workers, more than any other single sector. Farming is concentrated on the irrigated plains of Punjab and Sindh, where flat land, fertile alluvial soil, canal water and a long growing season support wheat, cotton, rice and sugar cane.
 - **Secondary sector:** manufacturing grew from the 1950s, led by cotton textiles, then cement, fertiliser, sugar, steel, cars and pharmaceuticals. Factories cluster in **Karachi** (port, labour, market), **Lahore**, **Faisalabad** (textiles, close to cotton) and **Sialkot** (sports goods and surgical instruments). Textiles remain the largest manufacturing employer and exporter.
 - **Tertiary and quaternary sectors:** services now produce the largest share of GDP. They include retail, transport, banking, telecommunications, health, education and government. Quaternary activities, such as software development, IT outsourcing and research, are growing in Lahore, Karachi and Islamabad, where skilled graduates, fast internet and investment are concentrated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-people-and-economy--03-economic-sectors.webp" width="900" height="532" alt="From a mainly agricultural economy at independence to four sectors: primary farming on the irrigated plains, still the largest single employer; secondary manufacturing led by textiles in Karachi, Lahore, Faisalabad and Sialkot; tertiary services, now the largest share of GDP; and growing quaternary IT and research in Lahore, Karachi and Islamabad." loading="lazy">
+  <figcaption>Services now produce most output, but farming still employs the most workers.</figcaption>
+</figure>
 
 ## How is economic development measured?
 
@@ -112,6 +127,11 @@ then:
 Pakistan is classed by the UN Development Programme among countries with lower human development,
 which reflects low adult literacy and high child mortality as well as income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-people-and-economy--04-development-indicators.webp" width="900" height="570" alt="A table of five indicators (GDP, GDP per capita, HDI, FDI and trade) with what each shows and its limitation. HDI is highlighted because it combines life expectancy, education and income; Pakistan is classed among countries with lower human development." loading="lazy">
+  <figcaption>Every indicator shows something and hides something; use more than one.</figcaption>
+</figure>
+
 ## What does Pakistan trade, and with whom?
 
 **Exports:** textiles and clothing (the largest group), rice, leather goods, sports goods, surgical
@@ -125,6 +145,11 @@ world prices, energy costs, exchange rates, quality standards and political rela
 access to the EU; Pakistan has a free-trade agreement with China and belongs to the Economic
 Cooperation Organization and SAARC. As a member of the **World Trade Organization**, it follows global
 trade rules and can bring disputes to the WTO.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-people-and-economy--05-trade-and-deficit.webp" width="900" height="726" alt="Exports are led by textiles and clothing, rice and leather; imports by petroleum and LNG, machinery, chemicals and palm oil. Schematic bars show the import bill larger than export earnings, a trade deficit that remittances help to cover. Key partners are China, the USA, the UAE and Saudi Arabia, and the UK and EU." loading="lazy">
+  <figcaption>Imports cost more than exports earn; remittances help fill the gap.</figcaption>
+</figure>
 
 ## What are the opportunities and challenges of urbanisation?
 
@@ -142,6 +167,11 @@ waste.
 **Strategies:** low-cost housing schemes; upgrading informal settlements with water and sanitation,
 as the community-led Orangi Pilot Project in Karachi showed; mass transit such as bus rapid transit
 lines; tree planting and controls on brick kilns and crop burning to reduce smog.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-people-and-economy--06-urbanisation.webp" width="900" height="571" alt="A three-column table. Opportunities of city growth include jobs, education, start-ups and infrastructure such as Lahore’s Orange Line. Challenges include too few formal jobs, katchi abadis, congestion, smog and sewage. Strategies include low-cost housing, upgrading settlements as in the Orangi Pilot Project, mass transit and smog controls." loading="lazy">
+  <figcaption>Cities offer jobs and services but face housing, traffic and pollution problems that need planned strategies.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

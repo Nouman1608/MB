@@ -44,12 +44,22 @@ Condensed, exam-focused notes for Paper 2 of Cambridge International A Level Eng
 - Set text list rotates by examination year — always confirm the current set-text grid for your own
   series.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-2-prose-and-unseen--13-paper2-two-sections.webp" width="900" height="880" alt="Section A is a set prose text. Section B has two unseen passages drawn from two of prose, poetry and drama; one question is answered from a choice of two." loading="lazy">
+  <figcaption>Paper 2 pairs a studied prose text with unseen passages.</figcaption>
+</figure>
+
 ## Section A: preparing the set text
 
 - Build genuine familiarity with the whole novel, not just memorable extracts — track how a theme or
   character develops **chronologically** across the text.
 - Strong answers draw on the text as a whole; weak answers treat it as disconnected moments.
 - Practise linking narrative technique to its effect on meaning, not just naming the technique.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-prose--03-who-tells-who-sees.webp" width="900" height="902" alt="Four narrative voices: first person, with intimacy, limited knowledge and a question of reliability; third-person omniscient, moving between minds; third-person limited, close to one character; and free indirect discourse, which blends third-person grammar with a character’s vocabulary and attitude. Below, two focalisers view the same theme from different positions, as Desai’s novel moves between characters and between India and New York." loading="lazy">
+  <figcaption>Ask who tells the story and whose perspective shapes each scene.</figcaption>
+</figure>
 
 ## Section B: the unseen method
 
@@ -66,6 +76,16 @@ A repeatable three-step method for the unseen passage, adapted to whichever form
   on genuinely new extracts, across all forms that could be set, builds this skill reliably.
 - Never speculate about plot or context beyond what the passage itself provides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-2-prose-and-unseen--15-unseen-method-by-form.webp" width="900" height="950" alt="Prose: narrative voice, pacing, scene structure. Poetry: form, rhyme and metre, line breaks, shape on the page. Drama: stage directions, dialogue rhythm, live audience. Always name the feature then explain its effect." loading="lazy">
+  <figcaption>Which features to notice shifts with the form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-unseen--02-choosing-the-passage.webp" width="900" height="559" alt="Two printed passages are skimmed for two or three minutes. Choose the passage you can argue about, one with a shift, tension or ambiguity, rather than one that seems simple. Weigh the form without avoiding one by habit, read the question’s wording, then commit: changing passage after fifteen minutes is the costliest mistake." loading="lazy">
+  <figcaption>Pick the passage with a shift or tension to argue about, then commit.</figcaption>
+</figure>
+
 ## The technique-then-effect habit
 
 The single most common weakness across both sections is naming a technique ("the writer uses short
@@ -75,6 +95,11 @@ character's hesitant movement, building unease before anything is stated directl
 left unexplained earns far less credit than the same device linked to a concrete effect on meaning, tone
 or characterisation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-unseen--06-technique-effect-meaning.webp" width="900" height="646" alt="Three chains from the model paragraph. Polysyndeton in the list of bills mimics a growing pile and shows dread through delay. The long sentence of small actions makes tea-making a ritual of postponement. The short final sentence is abrupt and decisive, ending the avoidance and sharpening suspense. The unknown contents are treated as a deliberate choice." loading="lazy">
+  <figcaption>Each point moves from technique to effect to meaning.</figcaption>
+</figure>
+
 ## Time management
 
 - Section A rewards depth of textual knowledge built up over the whole course.
@@ -82,6 +107,11 @@ or characterisation.
 - Rehearse both sections together under full exam timing, not revised separately, so pacing reflects the
   real paper rather than each section practised in isolation — candidates who only revise separately
   often run out of time on the section they find less comfortable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-2-prose-and-unseen--17-two-kinds-of-practice.webp" width="900" height="850" alt="Section A needs depth: tracking themes and characters across the whole novel. Section B needs a fast method on fresh extracts. Both are practised together under exam timing." loading="lazy">
+  <figcaption>Practise depth and method separately, then together under timing.</figcaption>
+</figure>
 
 ## Worked comparison: naming vs explaining a technique
 
@@ -96,6 +126,11 @@ stated effect, rather than simply asserting that an effect exists. Building the 
 specifically, does this produce that effect" after every observation — for both the studied Section A
 text and the unseen Section B extract — is the most direct route from a mid-band to a high-band response
 on this paper.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-2-prose-and-unseen--16-weak-vs-strong-annotation.webp" width="900" height="1110" alt="An empty-house plan and clipped sentence bars illustrate the extract. The weak response only names short sentences creating tension; the strong response explains slowed pace, mirrored hesitation, isolating silence and quiet unease." loading="lazy">
+  <figcaption>The difference is explaining the effect, not extra knowledge.</figcaption>
+</figure>
 
 ## Revising the set text without over-relying on quotations
 

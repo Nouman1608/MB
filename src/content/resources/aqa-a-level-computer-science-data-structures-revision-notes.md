@@ -50,6 +50,11 @@ Arrays hold elements of the **same data type**. AQA sets no pseudocode conventio
 - A 2-D array is useful for representing a **matrix**.
 - More generally, an n-dimensional array is a set of elements with the same data type, indexed by a **tuple** of n integers — an ordered list of index values, one per dimension.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--01-ds-vector.webp" width="900" height="700" alt="A row of seven array cells numbered 0 to 6, each holding one value of the same type. One index, 3, points at one cell, which holds 23 (illustrative value)." loading="lazy">
+  <figcaption>A one-dimensional array is a vector: an ordered list of same-type values, each reached with a single index.</figcaption>
+</figure>
+
 ## Worked example: choosing the right dimensionality
 
 A program must store the temperature at 7am, 1pm and 7pm for each of 7 days.
@@ -67,6 +72,16 @@ Justification: index 1 = day (0-6); index 2 = time slot (0-2);
 
 **Justify the choice by how the data will actually be accessed**, not just that "it fits" — this is what the sub-topic is really testing. Stating the number of dimensions needed, and naming what each index represents, is a stronger answer than simply writing "use an array."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--02-ds-matrix.webp" width="900" height="810" alt="A grid with 7 rows for days 0 to 6 and 3 columns for the 7am, 1pm and 7pm readings, giving 21 cells. The cell at row 4, column 1 is highlighted and labelled temperatures[4][1]." loading="lazy">
+  <figcaption>temperatures[7][3] stores 3 readings x 7 days = 21 values; the first index is the day and the second is the time slot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--03-ds-access.webp" width="900" height="690" alt="Three copies of the 7 by 3 temperature grid. In the first, one cell is highlighted: a single reading. In the second, one row of 3 cells: all readings for one day. In the third, one column of 7 cells: one time slot across all days." loading="lazy">
+  <figcaption>Two indices let a program reach one reading, a whole day, or one time slot across all days, instead of 21 separate variables.</figcaption>
+</figure>
+
 ## Distinguishing dimensionality from size
 
 Two different ideas that are easy to blur:
@@ -75,6 +90,11 @@ Two different ideas that are easy to blur:
 - **Size** — how many elements the array holds in total (e.g. a 7×3 array holds 21 elements).
 
 An array can be large in size but still one-dimensional (a 1-D array of 100 values), or small in size but two-dimensional (a 2×2 array of 4 values) — keep these independent when describing or declaring an array in an answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--04-ds-dimensions.webp" width="900" height="1060" alt="Three arrays. A 1D array of 5 cells needs 1 index. A 2D array of 3 rows by 4 columns has 12 elements and needs 2 indices. A 3D array of 2 by 3 by 4 has 24 elements and needs 3 indices. Dimensions count the indices; size counts the elements." loading="lazy">
+  <figcaption>Dimensionality is how many indices locate an element; size is how many elements the array holds.</figcaption>
+</figure>
 
 ## Why this content underpins the rest of the specification
 
@@ -87,6 +107,11 @@ Data structures and arrays are the foundation the rest of Topic 2 builds on: fie
 ## Practising array operations directly
 
 Beyond defining and justifying array structures, be comfortable writing and tracing short pseudocode that declares an array, loops through it, and reads or updates a specific element -- for example, a FOR loop that sums every value in a one-dimensional array, or nested FOR loops that visit every element of a two-dimensional array row by row. Exam questions frequently combine the conceptual justification (why this structure) with a short practical task (write or complete the code that uses it), so revising the two together, rather than treating theory and practical coding as separate revision activities, better matches how this sub-topic is actually assessed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--05-ds-index-origin.webp" width="900" height="740" alt="The same four-cell array A, B, C, D drawn twice. Indexed from 0 the cells are numbered 0 to 3, so the third element C is at index 2. Indexed from 1 they are numbered 1 to 4, so C is at index 3." loading="lazy">
+  <figcaption>The same element has a different index depending on the origin your course uses, so check it before relying on either.</figcaption>
+</figure>
 
 ## Common mistakes
 

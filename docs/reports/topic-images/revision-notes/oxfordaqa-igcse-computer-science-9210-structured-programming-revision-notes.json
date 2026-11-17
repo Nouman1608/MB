@@ -1,0 +1,8 @@
+{ "page": "oxfordaqa-igcse-computer-science-9210-structured-programming-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--01-module-anatomy.webp", "after": "## The approach in five points"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--02-library-structure-chart.webp", "after": "## The approach in five points"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--03-documented-interface.webp", "after": "## What an interface documents"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--04-local-variables.webp", "after": "## Local variables"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--06-features-to-advantages.webp", "after": "## Advantages, with reasons"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--05-restructuring-marks.webp", "after": "## Mini example"}
+] }

@@ -60,6 +60,11 @@ Section 3.1 lists seven things you must know and understand:
 | Master status | A label that overrides all other identities | "Criminal" after a conviction |
 | Anomie | Normlessness, when rules break down | Merton: "anything goes" to get rich |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--01-values-norms-socialisation.webp" width="900" height="660" alt="A chain from values, such as honesty, to norms that put them into practice, such as queuing, to sanctions that make people follow them. Below, primary socialisation in the family leads into secondary socialisation through schools, peer groups, religion and mass media, with cards on ascribed and achieved status and roles." loading="lazy">
+  <figcaption>Values become norms, norms are backed by sanctions, and all are learned through socialisation.</figcaption>
+</figure>
+
 ## Perspectives at a glance
 
 | Perspective | Big idea | Consensus or conflict? | Named writers in the specification |
@@ -71,6 +76,11 @@ Section 3.1 lists seven things you must know and understand:
 
 The New Right, linked by the specification to Murray, is a further view that criticises both Marxism and the welfare state.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--04-four-perspectives.webp" width="900" height="622" alt="Four cards. Functionalism asks what institutions do for society; Marxism sees the bourgeoisie exploiting the proletariat; feminism sees society as patriarchal; interactionism studies meanings and labels. Each lists its writers, a strength and a limitation." loading="lazy">
+  <figcaption>Each perspective asks a different question about society.</figcaption>
+</figure>
+
 ## Classical sociologists at a glance
 
 | Who | Time and place | View of the world | Contribution | One evaluation point |
@@ -78,6 +88,16 @@ The New Right, linked by the specification to Murray, is a further view that cri
 | Émile Durkheim (1858-1917) | France, Third Republic, industrialising society | Shared norms and values hold society together; anomie when rules break down | Sociology as a science of "social facts"; first European department of sociology (1895); *Suicide* (1897) | Overstates consensus; official statistics he relied on may be socially constructed |
 | Karl Marx (1818-1883) | Born in Prussia; in London from 1849; 19th-century industrial Britain | Class struggle drives change; ruling class ideology and false class consciousness | Founded the conflict tradition; *Communist Manifesto* with Engels (1848) | Predicted revolution and polarisation did not happen in Britain |
 | Max Weber (1864-1920) | Industrialising Germany, early 20th century | Class, status and party; market situation shapes life chances | Three types of authority; meaning behind social action; *The Protestant Ethic* (1904-05) | Marxists argue ownership remains the key division |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--05-founders-timeline.webp" width="900" height="660" alt="A timeline from 1820 to 1920. Marx (1818–1883) published the Communist Manifesto in 1848, moved to London in 1849 and published Capital in 1867. Durkheim (1858–1917) in France published The Rules of Sociological Method and set up the first department in 1895, then Suicide in 1897. Weber (1864–1920) in Germany published The Protestant Ethic in 1904–05." loading="lazy">
+  <figcaption>Marx wrote a generation before Durkheim and Weber, in the first industrial capitalist society.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--06-founders-compared.webp" width="900" height="605" alt="A table comparing Durkheim, Marx and Weber by time and place, central idea, contribution and criticism. Durkheim asked what holds society together; Marx saw class struggle driving change; Weber added status, party and three types of authority." loading="lazy">
+  <figcaption>Each founder’s ideas reflect the society he lived in.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -90,6 +110,16 @@ The New Right, linked by the specification to Murray, is a further view that cri
 - **Primary vs secondary socialisation.** Family first; school, peers, religion, media and workplace later.
 - **Marx vs Weber on class.** Marx: two main classes defined by ownership, which polarise. Weber: market situation creates more divisions, and the middle class expands.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--02-consensus-conflict.webp" width="900" height="588" alt="Two sides. Consensus approaches, mainly functionalism, see society as resting on shared values, with institutions working like organs of a body. Conflict approaches, Marxism and feminism, see powerful groups shaping institutions for their own benefit. Each has a strength and a limitation; interactionism fits neither." loading="lazy">
+  <figcaption>Consensus theories explain order; conflict theories explain inequality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--03-two-debates-map.webp" width="900" height="710" alt="A grid with consensus on the left and conflict on the right, structure at the top and agency at the bottom. Functionalism sits in consensus and structure, Marxism in conflict and structure, feminism on the conflict side, and interactionism on the agency side, between consensus and conflict." loading="lazy">
+  <figcaption>Place each perspective on two debates: consensus or conflict, and structure or agency.</figcaption>
+</figure>
+
 ## How ideas change over time: quick evidence bank
 
 - Parsons (1959): later criticised for an idealised, middle-class picture of family life.
@@ -100,6 +130,11 @@ The New Right, linked by the specification to Murray, is a further view that cri
 - Walby (1990): patriarchy has shifted from private to public forms.
 
 Use these in evaluation by explaining what has changed, not just that a study is old.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--07-ideas-over-time.webp" width="900" height="682" alt="A timeline of studies: Parsons 1959, Willis 1977, Halsey and colleagues 1980, the Rapoports 1982, Murray 1984, Walby 1990 and Devine 1992, each with how its time shaped it. Side bands show functionalism influential in the mid-20th century, conflict and feminist approaches growing from the 1970s, and New Right ideas from Murray." loading="lazy">
+  <figcaption>Every study reflects its time, so ask what has changed since it was written.</figcaption>
+</figure>
 
 ## Mini essay plan
 

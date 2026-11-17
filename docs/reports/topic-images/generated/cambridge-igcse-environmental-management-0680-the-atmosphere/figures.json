@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-igcse-environmental-management-0680-the-atmosphere--01-four-layers.webp",
+  "width": 900,
+  "height": 720,
+  "after": "## Structure of the atmosphere (4.1.1 a and b)",
+  "alt": "A schematic column, not to scale. From the surface up: troposphere, where we live and almost all weather happens; stratosphere, with the ozone layer in its lower part absorbing much of the Sun’s ultraviolet radiation; mesosphere; and thermosphere, the highest of the four.",
+  "caption": "Troposphere, stratosphere, mesosphere, thermosphere: the ozone layer is in the lower stratosphere.",
+  "bytes": 84340
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-the-atmosphere--02-weather-vs-climate.webp",
+  "width": 900,
+  "height": 695,
+  "after": "## Climate (4.1.2)",
+  "alt": "A schematic graph of summer temperatures over many years. Each dot is one year’s weather and jumps up and down; one very hot summer is weather. The trend line through them, rising over decades, is a change in climate. Climate is the weather conditions in a location based on the weather over many years.",
+  "caption": "One hot summer is weather; a rising average over decades is a change in climate.",
+  "bytes": 76026
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-the-atmosphere--03-natural-greenhouse-steps.webp",
+  "width": 900,
+  "height": 994,
+  "after": "## The natural greenhouse effect (4.1.3)",
+  "alt": "A schematic cross-section. 1: solar radiation passes through the atmosphere. 2: some is absorbed by land and oceans, heating the Earth. 3: some is reflected back to space by clouds and light surfaces. 4: heat given off by the surface is absorbed by greenhouse gases and clouds and re-emitted back to the surface. 5: this keeps the Earth warm enough for life, about 15 °C instead of about −18 °C.",
+  "caption": "Pass through, absorb, reflect, absorb and re-emit, warm enough for life: one mark per step.",
+  "bytes": 134618
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-the-atmosphere--04-composition-pie.webp",
+  "width": 900,
+  "height": 605,
+  "after": "## Worked example 1: composition calculations",
+  "alt": "A pie chart of clean air: nitrogen 78% (about 281°), oxygen 21% (about 76°) and other gases 1% (about 4°), using 3.6° per 1%. In a 500 cm³ sample there are 390 cm³ of nitrogen, 105 cm³ of oxygen and 5 cm³ of other gases.",
+  "caption": "Each 1% is 3.6°: nitrogen 281°, oxygen 76°, other gases 4°.",
+  "bytes": 81112
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-the-atmosphere--05-reading-arrows.webp",
+  "width": 900,
+  "height": 595,
+  "after": "## Interpreting diagrams",
+  "alt": "Three panels explain arrow types. Reflection: arrows bounce off clouds or ice. Absorption: arrows end at the ground or sea. Absorption and re-emission: arrows leave the surface and turn back from the greenhouse gas layer. Greenhouse gases absorb and re-emit heat rather than reflect it; roughly 30% of incoming solar radiation is reflected overall.",
+  "caption": "Bounce off = reflected; end at the surface = absorbed; turn back from the gas layer = re-emitted.",
+  "bytes": 90008
+ }
+]

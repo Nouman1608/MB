@@ -1,0 +1,9 @@
+{ "page": "ib-dp-ess-climate-biomes-succession-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--06-productivity-succession.webp", "after": "## Formulas and ratios"},
+ {"src": "https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--01-insolation-latitude.webp", "after": "## Climate controls in one box"},
+ {"src": "https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--02-tricellular-model.webp", "after": "## Climate controls in one box"},
+ {"src": "https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--03-biomes-temperature-precipitation.webp", "after": "## Biome recall grid"},
+ {"src": "https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--04-climate-graph-station-k.webp", "after": "## Method in steps: identifying a biome from a climate graph"},
+ {"src": "https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--05-succession-sere.webp", "after": "## Method in steps: describing a succession"},
+ {"src": "https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--07-disturbance-plagioclimax.webp", "after": "## Must-know distinctions"}
+] }

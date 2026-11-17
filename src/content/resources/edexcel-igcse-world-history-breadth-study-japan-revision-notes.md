@@ -71,6 +71,11 @@ Quick-recall notes for Breadth Study B3 of Pearson Edexcel International GCSE Hi
 | 1941 | US oil embargo; Pearl Harbor |
 | Aug 1945 | Hiroshima, Nagasaki; surrender |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-japan--01-jp-timeline.webp" width="900" height="1120" alt="A scaled timeline shows the five key topics of Japan 1853 to 1945 as bands with key events; wars are gold. Spacing shows how short the opening and late periods were compared with the long Meiji era." loading="lazy">
+  <figcaption>Japan 1853–1945 to scale, with the five key topics and main events.</figcaption>
+</figure>
+
 ## The five themes traced
 
 | Theme | 1853–95 | 1895–1931 | 1931–45 |
@@ -80,6 +85,11 @@ Quick-recall notes for Breadth Study B3 of Pearson Edexcel International GCSE Hi
 | Economy | State-led modernisation; railways | Zaibatsu, steel, textiles; 1920s recession | Depression; war economy |
 | Society | Samurai abolished; Western fashions | Taisho culture; modern girls; labour movement | Mobilisation; Tenko; wartime hardship |
 | Politics | Meiji Constitution; emperor sovereign | Party government; male suffrage | Military dominance; assassinations |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-japan--06-jp-taisho.webp" width="900" height="968" alt="Two lanes of events in order. Democracy grew with Emperor Taisho (1912), Hara (1918) and male suffrage (1925). Limits and shocks were the Kanto Earthquake (1923), the Public Security Preservation Law (1925) and the Depression from 1929." loading="lazy">
+  <figcaption>Taisho democracy grew, but shocks and security laws limited it.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -105,6 +115,11 @@ with the West in 1902.* (6 marks)
 2. **Power:** in 1858 Japan could not resist Western warships; by 1902 it had a modern army and navy and
    had defeated China, making it a regional power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-japan--02-jp-fall.webp" width="900" height="931" alt="A flow chart from Perry in 1853 to Meiji rule in 1868. Unequal treaties led to rising prices, humiliated samurai and a weak-looking shogunate, which fed the slogan to revere the emperor. Choshu and Satsuma allied in 1866, the last shogun gave up power in late 1867 and imperial rule was restored in January 1868." loading="lazy">
+  <figcaption>Why the Tokugawa shogunate fell, from Perry (1853) to Meiji rule (1868).</figcaption>
+</figure>
+
 ## Essay plan in outline
 
 *"Contact with the West was the main reason for Japan's transformation in the years 1853–1912." How far
@@ -116,12 +131,32 @@ do you agree?*
   existing literacy and commerce; war with China and Russia as engines of change.
 - **Judgement:** the West provided the shock and the models; Japanese leaders chose how to use them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-japan--03-jp-reforms.webp" width="900" height="760" alt="Five icon rows pair each Meiji change with its result: domains to prefectures (1871), samurai lose privileges, conscription (1873) creates a national army, a land tax funds the state, and the Iwakura Mission (1871-73) studies Western countries." loading="lazy">
+  <figcaption>The main Meiji reforms and what each did.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-japan--04-jp-constitution.webp" width="900" height="765" alt="A power diagram: the emperor keeps sovereignty; the elected Diet and the army sit below him; the army answers to the emperor, not to parliament, shown by a crossed-out link. The constitution was modelled partly on Prussia." loading="lazy">
+  <figcaption>Under the Meiji Constitution the army answered to the emperor, not parliament.</figcaption>
+</figure>
+
 ## Turning points to argue about
 
 - **1853–54:** the end of seclusion — the start of every later change.
 - **1868:** the Restoration — new leaders with a programme of modernisation.
 - **1905:** victory over Russia — Japan recognised as a great power.
 - **1931:** Manchuria — the army acts independently and the road to war begins.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-japan--05-jp-rise.webp" width="900" height="929" alt="A rising staircase of seven steps from the Sino-Japanese War (1894-95, Taiwan) through the Boxer Rebellion, the Anglo-Japanese Alliance, the Russo-Japanese War, annexing Korea (1910) and the First World War to Versailles in 1919, where a racial equality proposal was rejected." loading="lazy">
+  <figcaption>Seven steps in Japan’s rise to world-power status, 1894–1919.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-japan--07-jp-collapse.webp" width="900" height="933" alt="A chain from the Mukden Incident (1931) through Manchukuo, the assassination of Inukai, leaving the League (1933), the 1936 coup attempt, war with China (1937), the National Mobilisation Law (1938), the oil embargo and Pearl Harbor (1941), to the atomic bombs and surrender on 15 August 1945." loading="lazy">
+  <figcaption>From the Mukden Incident to surrender in 1945.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

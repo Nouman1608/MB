@@ -36,6 +36,11 @@ Recall notes for subtopic 1.1 of Cambridge International AS & A Level Law (9084)
 - **Justice:** formal, substantive, corrective.
 - **Fault:** central to crime (mens rea) and tort (negligence); strict liability is the exception (*Gammon v Attorney-General of Hong Kong* (1985)).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--01-rule-of-law.webp" width="900" height="620" alt="Dicey’s three ideas of the rule of law: no punishment without a breach proved in the ordinary courts, equality before the law, and rights secured by the ordinary law, illustrated by Entick v Carrington. The principle is applied to law making, the legal system and substantive law (A v Secretary of State for the Home Department)." loading="lazy">
+  <figcaption>Three ideas from Dicey, tested in law making, the legal system and substantive law.</figcaption>
+</figure>
+
 ## 1.1.2 Parliament
 
 **Sequence:** green paper (consultation) → white paper (firm proposals) → First Reading → Second Reading → Committee → Report → Third Reading → other House → Royal Assent.
@@ -48,6 +53,11 @@ Recall notes for subtopic 1.1 of Cambridge International AS & A Level Law (9084)
 
 **Law Commission:** Law Commissions Act 1965; chair is a senior judge plus four commissioners; researches, consults, drafts Bills. Hits: Contracts (Rights of Third Parties) Act 1999, Fraud Act 2006. Miss: draft Criminal Code never enacted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--02-bill-to-act.webp" width="900" height="916" alt="A green paper consults and a white paper sets out proposals. The Bill passes First Reading, Second Reading, Committee Stage, Report Stage and Third Reading in each House, then receives Royal Assent. Below, the Parliament Acts let the Commons pass most Bills after about a year and money Bills after one month (War Crimes Act 1991, Hunting Act 2004, Jackson), and parliamentary supremacy means no court can invalidate an Act (Pickin)." loading="lazy">
+  <figcaption>Five stages in each House, then Royal Assent; the Commons can override the Lords.</figcaption>
+</figure>
+
 ## 1.1.3 Delegated legislation
 
 | Form | Made by |
@@ -59,6 +69,11 @@ Recall notes for subtopic 1.1 of Cambridge International AS & A Level Law (9084)
 - **Legislative and Regulatory Reform Act 2006:** ministers may amend Acts by order to remove burdens – criticised as executive power.
 - **Parliament:** pre-drafting consultation; affirmative resolution (must be approved); negative resolution (law unless annulled); scrutiny committees (report only).
 - **Courts:** locus standi needed. Procedural ultra vires – *Aylesbury Mushrooms* (1972). Substantive ultra vires – *R (Public Law Project) v Lord Chancellor* (2016). Unreasonableness – *Wednesbury* (1948), *Strickland v Hayes* (1896).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--03-delegated-legislation.webp" width="900" height="715" alt="An enabling Act gives power to make Orders in Council, statutory instruments and bylaws. Parliament controls them through consultation, affirmative and negative resolution and scrutiny committees; the courts by judicial review for procedural ultra vires (Aylesbury Mushrooms), substantive ultra vires (Public Law Project) and unreasonableness (Wednesbury; Strickland v Hayes). The Legislative and Regulatory Reform Act 2006 is noted." loading="lazy">
+  <figcaption>Delegated legislation exists only under an enabling Act, and both Parliament and the courts police it.</figcaption>
+</figure>
 
 ## 1.1.4 Interpretation
 
@@ -77,6 +92,16 @@ Recall notes for subtopic 1.1 of Cambridge International AS & A Level Law (9084)
 - **EU law:** purposive reading during membership (*Pickstone v Freemans* (1988)).
 - **Human Rights Act s3:** read compatibly "so far as possible" (*Ghaidan v Godin-Mendoza* (2004)).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--04-interpretation-approaches.webp" width="900" height="722" alt="Four approaches, each with its case: the literal rule (Whiteley v Chappell), the golden rule (Adler v George), the mischief rule (Smith v Hughes) and the purposive approach (Quintavalle). Purposive reading was encouraged by EU membership (Pickstone v Freemans) and by s3 Human Rights Act 1998 (Ghaidan v Godin-Mendoza)." loading="lazy">
+  <figcaption>From the plain words to the purpose: state the approach, cite the case, show the result.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--05-language-rules-and-aids.webp" width="900" height="603" alt="Three rules of language with their cases: ejusdem generis (Powell v Kempton Park), expressio unius (Tempest v Kilner) and noscitur a sociis (IRC v Frere). Intrinsic aids sit inside the Act; extrinsic aids, including Hansard, sit outside it. Pepper v Hart allows Hansard only where the words are ambiguous and a ministerial statement clearly resolves the point." loading="lazy">
+  <figcaption>Words take meaning from their neighbours; Hansard is a limited, conditional aid.</figcaption>
+</figure>
+
 ## 1.1.5 Precedent
 
 - **Binding:** ratio of a higher court. **Original:** first decision on a point (*Donoghue v Stevenson* (1932)). **Persuasive:** obiter, lower courts, Privy Council (*Holley* followed in *R v James and Karimi* (2006)), foreign courts.
@@ -84,6 +109,11 @@ Recall notes for subtopic 1.1 of Cambridge International AS & A Level Law (9084)
 - **Practice Statement 1966:** *Herrington* (1972) overruled *Addie* (1929); *Shivpuri* (1986) overruled *Anderton v Ryan* (1985).
 - ***Young v Bristol Aeroplane* (1944):** conflicting Court of Appeal decisions; conflict with later House of Lords or Supreme Court decision; *per incuriam*.
 - **Avoidance:** distinguishing (*Balfour* / *Merritt*), overruling, reversing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--06-precedent-flexibility.webp" width="900" height="600" alt="The Supreme Court can depart from its own decisions under the Practice Statement 1966 (Herrington; Shivpuri). The Court of Appeal is bound by its own decisions except in the three Young v Bristol Aeroplane situations. Below: original precedent (Donoghue), persuasive precedent (James and Karimi following Holley), and avoidance by distinguishing (Balfour and Merritt), overruling and reversing." loading="lazy">
+  <figcaption>The Supreme Court uses the Practice Statement; the Court of Appeal has only the Young exceptions.</figcaption>
+</figure>
 
 ## Key terms
 

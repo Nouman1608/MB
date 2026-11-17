@@ -33,6 +33,11 @@ Theme 2, Topic 4: holidays, transport, booking, describing and comparing destina
 effects of tourism, examined through Paper 1 (Reading, Grammar and Meaning, with English-to-Urdu
 translation) and Paper 2 (Writing).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-travel-tourism--01-topic-map.webp" width="900" height="820" alt="Five strands with Urdu words: holidays and trips (چھٹیاں, سیر کرنا, ٹھہرنا), transport (ہوائی جہاز, ٹرین, ہوائی اڈا), planning and booking (ٹکٹ, ہوٹل, پاسپورٹ), destinations (ساحلِ سمندر, پہاڑ, عجائب گھر), and tourism as an issue, which brings work but also pollution." loading="lazy">
+  <figcaption>Holidays, transport, booking and destinations, plus tourism as an issue.</figcaption>
+</figure>
+
 ## Key terms
 
 | Urdu | English | Note |
@@ -52,6 +57,11 @@ translation) and Paper 2 (Writing).
 | ساحلِ سمندر | beach, seaside | |
 | یادگار | memorable | |
 | روزگار | employment, livelihood | for tourism as an issue |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-travel-tourism--02-safar-and-chhutti.webp" width="900" height="526" alt="سفر (journey) is masculine, so لمبا سفر is right and لمبی سفر wrong; چھٹی (holiday) is feminine, so اچھی چھٹی is right and اچھا چھٹی wrong. سفر is the journey itself; سیر is sightseeing or an outing." loading="lazy">
+  <figcaption>Check each travel noun’s gender before choosing the adjective ending.</figcaption>
+</figure>
 
 ## Five structures to have ready
 
@@ -78,6 +88,11 @@ Is the verb transitive (does it take an object) AND simple past?
 Habitual past (کرتے تھے) never takes نے.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-travel-tourism--03-past-tense-ne.webp" width="900" height="700" alt="A decision for past-tense verbs. Intransitive and habitual verbs take no نے and agree with the subject (ہم ٹرین سے لاہور گئے, ہر روز ہم ساحل پر جاتے تھے). Transitive simple-past verbs take نے and agree with the object (ہم نے بادشاہی مسجد دیکھی). ہم نے لاہور گئے and ہم نے مسجد دیکھا are wrong." loading="lazy">
+  <figcaption>Go and come take no نے; see and do take نے and agree with the object.</figcaption>
+</figure>
+
 ## A reliable shape for a travel answer
 
 1. Where and when (past): پچھلی گرمیوں میں ہم کراچی گئے۔
@@ -85,6 +100,11 @@ Habitual past (کرتے تھے) never takes نے.
 3. What you did (past, with one detail): ہم نے اونٹ کی سواری کی۔
 4. Opinion with a reason: میرے خیال میں ... کیونکہ ...
 5. Next time (future or a wish): اگلے سال میں ... جانا چاہتا ہوں / چاہتی ہوں۔
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-travel-tourism--05-plan-the-time-frames.webp" width="900" height="716" alt="Five Urdu sentences across time frames: past events (ہم ٹرین سے لاہور گئے), past description (موسم بہت گرم تھا), a superlative judgement (یہ میری سب سے یادگار چھٹی تھی), a future plan (اگلے سال ہم مری جائیں گے) and an unreal condition (اگر میرے پاس پیسے ہوتے تو میں ترکی جاتا)." loading="lazy">
+  <figcaption>Travel tasks invite past, present and future: plan which point needs which.</figcaption>
+</figure>
 
 ## Tourism as an issue
 

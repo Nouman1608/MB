@@ -49,6 +49,11 @@ Three features define the task:
   heading (for example, a number of bullet points or lines). Treat that number as the number of
   separate points you need.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-3-note-making--01-exercise-at-a-glance.webp" width="900" height="490" alt="Exercise 3 is worth 9 marks, needs about 15-18 minutes, tests R1 to R4 and uses the same text as the Exercise 4 summary. The headings are supplied, notes are brief phrases, and the space shows how many separate points are needed." loading="lazy">
+  <figcaption>Brief, separate points under the headings you are given.</figcaption>
+</figure>
+
 ## What a good note looks like
 
 A note is the shortest phrase that still carries the full point.
@@ -75,6 +80,16 @@ Lifting key words from the text is normal in note-making; this task tests whethe
 selected the right information, not whether you can paraphrase it. Paraphrasing becomes important in
 Exercise 4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-3-note-making--02-topic-versus-point.webp" width="900" height="806" alt="Four text sentences with a weak note and a good note. The weak notes name only a topic (breakfast, bicycle, ticket, walking); the good notes state the point, such as بغیر ناشتے کے اسکول آنا and دل مضبوط ہوتا ہے." loading="lazy">
+  <figcaption>The shortest phrase that still carries the full point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-3-note-making--03-ways-to-shorten.webp" width="900" height="632" alt="Four techniques: drop the helper verb (یہاں پانی کم ہوتا جا رہا ہے becomes پانی کی کمی), use a verbal noun (پودوں کو پانی دینا, مرمت), keep the specific detail (دس سال, not کچھ وقت), and keep negatives, since ٹکٹ ضروری and ٹکٹ ضروری نہیں are opposites." loading="lazy">
+  <figcaption>Cut the grammar, keep the detail and the negative.</figcaption>
+</figure>
+
 ## One note, one point
 
 Each bullet should carry one separate point. Two common errors:
@@ -84,6 +99,11 @@ Each bullet should carry one separate point. Two common errors:
    "بچوں کے لیے جھولے" / "بزرگوں کے لیے سایہ دار بنچ".
 2. **The same point twice.** "پانی کی کمی" and "پانی کم ملتا ہے" are one point written twice and will
    normally be credited once.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-3-note-making--04-one-note-one-point.webp" width="900" height="718" alt="Two errors. A bullet reading جھولے اور سایہ دار بنچ packs two points into one and should be split into بچوں کے لیے جھولے and بزرگوں کے لیے سایہ دار بنچ. And پانی کی کمی and پانی کم ملتا ہے are the same point written twice, credited once." loading="lazy">
+  <figcaption>Each bullet carries one separate point; repeats earn nothing extra.</figcaption>
+</figure>
 
 ## Placing points under the right heading
 
@@ -100,6 +120,11 @@ Watch especially for:
   This is the R3 and R4 part of the task.
 - **Background facts.** The opening of the text often sets the scene. Unless a heading asks for it,
   background earns nothing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-3-note-making--05-right-heading.webp" width="900" height="805" alt="Points from four parts of a text are drawn to two headings, Advantages and Problems, crossing the paragraph boundaries. Three warnings: points are scattered across the text, solutions are not problems, and background facts earn nothing unless a heading asks for them." loading="lazy">
+  <figcaption>Paragraphs and headings do not always line up: sort each point by what it says.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -130,6 +155,11 @@ points. At most one of these notes would be credited.
 Each note is a phrase, each carries one point, and each sits under the heading it answers. The
 "تاہم" (however) in the text was the signal that a problem was coming.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-3-note-making--06-worked-example.webp" width="900" height="810" alt="Three headings from the worked example: (a) مہم کا طریقہ with two notes, (b) مہم کا فائدہ and (c) ایک مسئلہ with one each. Weak notes such as ڈبا and کتابیں name topics; good notes such as ہر جماعت میں کاغذ کا ڈبا state a point under the right heading. The word تاہم signals the problem." loading="lazy">
+  <figcaption>Each good note is a phrase with one point, under the heading it answers.</figcaption>
+</figure>
+
 ## A reliable method
 
 1. **Read the headings first** and note how many points each needs. They tell you what the text is about
@@ -142,6 +172,11 @@ Each note is a phrase, each carries one point, and each sits under the heading i
 5. **Write the notes**: one point per bullet, specific, brief.
 6. **Check** each note against its heading: does it answer that heading, and is it different from the
    other notes there?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-3-note-making--07-reliable-method.webp" width="900" height="892" alt="Six steps: read the headings first, read the whole text once, reread marking points with heading letters, check for scattered points, write one brief point per bullet, and check each note against its heading. Turn words such as تاہم، لیکن and اس کے علاوہ often introduce a point for another heading." loading="lazy">
+  <figcaption>Headings first, then two readings, then one point per bullet.</figcaption>
+</figure>
 
 ## Exam technique and timing
 

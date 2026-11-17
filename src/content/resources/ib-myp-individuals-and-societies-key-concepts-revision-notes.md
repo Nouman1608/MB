@@ -38,6 +38,11 @@ Then test yourself with the [key concepts practice questions](/resources/ib-myp-
 - **Statement of inquiry** -- one transferable sentence that places conceptual understanding in a global context.
 - **Inquiry questions** -- factual, conceptual and debatable questions drawn from the statement of inquiry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--01-sixteen-key-concepts.webp" width="900" height="780" alt="The sixteen MYP key concepts in three groups. Four are contributed by individuals and societies: change, global interactions, systems, and time, place and space. Culture, development and communities are named as often important in the subject. Nine others complete the set." loading="lazy">
+  <figcaption>Four key concepts belong to I&amp;S, three more often help, and nine complete the MYP set.</figcaption>
+</figure>
+
 ## The four I&S key concepts
 
 | Key concept | Core idea (own words) | What to analyse | Watch-word |
@@ -57,6 +62,16 @@ Then test yourself with the [key concepts practice questions](/resources/ib-myp-
 | Global interactions | Panama Canal (opened 1914): world shipping link and US--Panama relations | Ethiopia's Blue Nile dam and the concerns of Egypt and Sudan | 1973 OAPEC oil embargo: oil rose from about 3 to nearly 12 dollars a barrel |
 | Systems | Concert of Europe (1815) and the strain of the Crimean War | Drainage basin as an open system | A market and its equilibrium price |
 | Time, place and space | Constantinople's capture (1453) and its Bosphorus position | Singapore: absolute vs relative location | Clustering of firms in Silicon Valley |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--03-shared-river.webp" width="900" height="683" alt="A schematic of the Blue Nile flowing from Ethiopia, where the Grand Ethiopian Renaissance Dam was built from 2011 and inaugurated in September 2025, downstream to Sudan and Egypt, which raised concerns about how much water would reach them." loading="lazy">
+  <figcaption>Interdependence: an upstream decision changes what downstream states receive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--05-absolute-relative-location.webp" width="900" height="644" alt="Left: Singapore’s absolute location as a point on a grid at a latitude of about 1 degree north. Right: its relative location, off the southern tip of the Malay Peninsula beside the Strait of Malacca, a busy shipping lane between the Indian and Pacific Oceans." loading="lazy">
+  <figcaption>Where a place is in relation to others often matters more than its coordinates.</figcaption>
+</figure>
 
 ## Method in steps: analysing a case through a key concept
 
@@ -84,6 +99,16 @@ Then test yourself with the [key concepts practice questions](/resources/ib-myp-
 3. Explain the opportunities and constraints that location gives.
 4. Name the scale (local, regional, national, global) and any flows across space.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--02-change-cause-process-consequence.webp" width="900" height="525" alt="Three linked boxes. Cause: defeat in the Crimean War exposed Russia’s backwardness. Process: reform from above by decree, the 1861 Emancipation Manifesto. Consequences: about 23 million serfs freed in law, but too little land and 49 years of redemption payments fed unrest, an unintended result." loading="lazy">
+  <figcaption>Describe change through all three: causes, process and consequences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--04-drainage-basin-system.webp" width="900" height="640" alt="A drainage basin as an open system. Precipitation is the input; soil water, groundwater and lakes are stores; infiltration, throughflow and surface runoff are flows; river discharge and evaporation are outputs. Deforestation cuts interception, so runoff is faster and flood peaks higher." loading="lazy">
+  <figcaption>Name the parts of a system and show how a change to one affects the rest.</figcaption>
+</figure>
+
 ## Method in steps: building a statement of inquiry
 
 1. Choose **one key concept**.
@@ -102,6 +127,11 @@ It fits Constantinople on the Bosphorus and Singapore on the Strait of Malacca, 
 
 **Weak vs strong.** "Singapore is a busy port" is a fact about one place. "Ports grow where trade routes meet" is conceptual and transferable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--06-statement-of-inquiry.webp" width="900" height="624" alt="Three ingredients, key concept systems, related concepts scarcity and sustainability, and global context globalization and sustainability, combine into one statement: when people take more from a natural system than it can replace, the system and dependent communities can be damaged. Checks: no named place or date, uses all the concepts, links to a global issue." loading="lazy">
+  <figcaption>One key concept, related concepts and a global context make one transferable sentence.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Key concept vs related concept.** Key concepts are broad and cross-subject (change). Related concepts are narrower and discipline-based (causality).
@@ -118,6 +148,11 @@ It fits Constantinople on the Bosphorus and Singapore on the Strait of Malacca, 
 | Factual | When, where, who, what | Which empire captured Constantinople in 1453? |
 | Conceptual | How does, why does, what is the relationship between | How does relative location affect a port's growth? |
 | Debatable | Should, to what extent, is it ever | Should a country build a dam that reduces water for its neighbours? |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--07-question-types.webp" width="900" height="643" alt="Three tests in sequence. If a textbook settles it, the question is factual, such as which countries border Lake Chad. If it works for a different place unchanged, it is conceptual. If informed people could argue opposite answers with evidence, it is debatable, such as whether a government should put farm exports ahead of a local fishing industry." loading="lazy">
+  <figcaption>Three quick tests sort any inquiry question.</figcaption>
+</figure>
 
 ## Where concepts appear in assessment
 

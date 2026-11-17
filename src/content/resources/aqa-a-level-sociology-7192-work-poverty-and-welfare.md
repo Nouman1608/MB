@@ -70,6 +70,16 @@ AO1 is knowledge and understanding, AO2 is application, and AO3 is analysis and 
 **Worked paragraph (persistence of poverty).**
 > Cultural theorists such as Murray argue that poverty persists because welfare dependency creates an underclass with different values (knowledge). Applied to an estate where several generations of a family have claimed benefits, this view would explain the pattern by values learned at home rather than by a lack of jobs (application). However, it rests on the assumption that values cause behaviour, when behaviour may be a response to blocked opportunities (analysis). Shildrick et al.'s research found no three-generation workless families and found that young people held conventional attitudes to work, which suggests that structural barriers such as poor local labour markets may matter more (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-work-poverty-and-welfare--01-measuring-poverty.webp" width="900" height="586" alt="Three studies in sequence: Rowntree’s absolute poverty line (1899), Townsend’s relative deprivation index (1979) and Mack and Lansley’s consensual approach (1985), with definitions of absolute and relative poverty and the UK’s 60% of median income measure." loading="lazy">
+  <figcaption>Measures of poverty moved from survival needs to what is normal in a society.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-work-poverty-and-welfare--02-poverty-persists.webp" width="900" height="579" alt="Cultural explanations from Lewis and Murray blame values and welfare dependency; structural explanations from Townsend and Marxists blame low pay, unemployment and capitalism. Rodman, MacDonald and Marsh, and Shildrick challenge the cultural view." loading="lazy">
+  <figcaption>Is poverty caused by values or by blocked opportunities?</figcaption>
+</figure>
+
 ## 2. The distribution of poverty, wealth and income
 
 **Key terms**
@@ -88,6 +98,11 @@ AO1 is knowledge and understanding, AO2 is application, and AO3 is analysis and 
 
 **Worked paragraph (distribution).**
 > Feminists argue that poverty is gendered because women do most unpaid care (knowledge). For a lone mother working part-time around school hours, this means lower earnings and fewer pension contributions (application). This shows that poverty is shaped by the division of labour in the home as well as by the labour market (analysis). However, treating "women" as one group hides big differences by class and ethnicity, so an intersectional approach gives a fuller picture (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-work-poverty-and-welfare--03-income-wealth.webp" width="900" height="725" alt="Income is shown as a flow of money over time and wealth as a stock of assets. Wealth is more unequal because it builds up and is inherited. Below, groups more likely to be poor and explanations by gender, ethnicity and class." loading="lazy">
+  <figcaption>Wealth accumulates, so it is far more unequal than income.</figcaption>
+</figure>
 
 ## 3. Responses and solutions to poverty
 
@@ -113,6 +128,16 @@ AO1 is knowledge and understanding, AO2 is application, and AO3 is analysis and 
 **Worked paragraph (welfare pluralism).**
 > Welfare pluralism means the state shares responsibility with private, voluntary and informal providers (knowledge). A town where food banks and church groups now provide emergency food shows the voluntary sector filling gaps left by benefit delays (application). New Right thinkers see this as healthy, because communities take responsibility rather than relying on the state (analysis). However, social democrats argue that voluntary help is uneven and depends on donations, so it cannot guarantee a minimum standard in the way a legal entitlement can (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-work-poverty-and-welfare--04-welfare-providers.webp" width="900" height="601" alt="Welfare pluralism combines four providers: the state (from the Beveridge Report to Universal Credit), the private sector (pensions and insurance), the voluntary sector (charities such as food banks) and informal care by family and neighbours." loading="lazy">
+  <figcaption>Welfare comes from the state, private, voluntary and informal sectors together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-work-poverty-and-welfare--05-welfare-perspectives.webp" width="900" height="559" alt="Social democrats favour redistribution and universal benefits; the New Right sees welfare creating dependency; Marxists see it stabilising capitalism; feminists see it relying on women’s unpaid care." loading="lazy">
+  <figcaption>Each perspective sees a different purpose and problem in welfare.</figcaption>
+</figure>
+
 ## 4. Organisation and control of the labour process
 
 **Key terms**
@@ -135,6 +160,16 @@ AO1 is knowledge and understanding, AO2 is application, and AO3 is analysis and 
 **Worked paragraph (technology and skill).**
 > Braverman argued that capitalists use technology to deskill work and increase control (knowledge). In a call centre where scripts and software dictate each step of a call, workers have little room to use their own judgement (application). This supports the view that technology is used to cut labour costs rather than to raise skill (analysis). However, Gallie's survey evidence found little widespread deskilling, and Blauner argued that more advanced technology can raise skill and discretion, so the effect of technology depends on how it is used and on the type of work (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-work-poverty-and-welfare--06-deskilling-debate.webp" width="900" height="528" alt="Braverman argues managers use Taylorism and machinery to deskill and control workers; Blauner argues advancing technology makes work more skilled with more discretion. Gallie’s survey found polarisation rather than widespread deskilling." loading="lazy">
+  <figcaption>The effect of technology depends on how it is used and the type of work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-work-poverty-and-welfare--07-flexible-firm.webp" width="900" height="560" alt="Two rings: a skilled, secure core of staff surrounded by a peripheral group on temporary or part-time terms. Side panels show Piore and Sabel’s flexible specialisation and the criticism that flexibility means insecurity." loading="lazy">
+  <figcaption>The flexible firm keeps a secure core and an insecure periphery.</figcaption>
+</figure>
+
 ## 5. The significance of work and worklessness, including globalisation
 
 **Key terms**
@@ -153,6 +188,11 @@ AO1 is knowledge and understanding, AO2 is application, and AO3 is analysis and 
 
 **Worked paragraph (worklessness).**
 > Jahoda argued that employment meets hidden needs such as time structure and social contact (knowledge). A factory worker made redundant after a plant moves overseas loses not only wages but also daily routine and workplace friendships (application). This explains why unemployment is linked to poorer mental health even when benefits cover basic needs (analysis). However, people with strong family or community roles may find other sources of structure, so the effect of worklessness varies with social networks and class (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-work-poverty-and-welfare--08-jahoda-latent-functions.webp" width="900" height="729" alt="Paid employment at the centre with five latent functions around it: time structure, social contact, shared purpose, status and identity, and regular activity." loading="lazy">
+  <figcaption>Unemployment harms people by removing the hidden benefits of work as well as the wage.</figcaption>
+</figure>
 
 ## Common errors
 

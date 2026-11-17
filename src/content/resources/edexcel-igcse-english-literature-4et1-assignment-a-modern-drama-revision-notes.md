@@ -41,6 +41,16 @@ coursework essay of about 650–800 words on a modern drama set text, marked out
 | Task | Set by the teacher; learners may help choose it |
 | Marking | By the centre, moderated by Pearson |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--13-c3-assignment-marks.webp" width="900" height="700" alt="Two equal bars of 30 marks. Assignment A is split 15 marks for AO1 and 15 for AO2. Assignment B is split 10 marks each for AO1, AO2 and AO4, and AO4 appears only in Assignment B." loading="lazy">
+  <figcaption>Assignment A uses AO1 and AO2 equally; Assignment B adds AO4 for context.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--15-c3-word-count.webp" width="900" height="640" alt="A ruler from 0 to 1000 words has the 650 to 800 word range shaded and labelled target range. A note says the range is a target, not a ceiling or floor, and that going past 800 carries no stated penalty but focus can drift." loading="lazy">
+  <figcaption>Aim for a tightly argued answer of about 650 to 800 words.</figcaption>
+</figure>
+
 ## What 15 + 15 looks like
 
 - **AO1 (15):** a personal, critical argument that answers the task from the first sentence and is
@@ -51,6 +61,11 @@ coursework essay of about 650–800 words on a modern drama set text, marked out
 With no AO4 marks and an advisory 650–800 words, every sentence should either advance the argument
 or analyse a method. Coursework conditions mean quotations and act and scene references should be
 exact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--16-c3-pair-every-point.webp" width="900" height="900" alt="Three balance scales show an essay that only narrates tipping towards AO1, an essay that pairs technique with evidence staying balanced, and an essay that only lists techniques tipping towards AO2. Below, techniques such as stage directions are paired with the evidence they rest on." loading="lazy">
+  <figcaption>Pair every technique (AO2) with its evidence (AO1) to keep the two equally weighted objectives in balance.</figcaption>
+</figure>
 
 ## Turning a task into three moments
 
@@ -88,6 +103,11 @@ method to analyse.
 | *Kindertransport* | Past and present on stage together; a figure from a folk tale haunting the action; objects in boxes carrying memory |
 | *Death and the King's Horseman* | Song, dance and verse in the market scenes; contrasting settings; a reversal between father and son |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-a-modern-drama--01-stage-methods.webp" width="900" height="986" alt="A stage seen from the audience, marked with seven dramatic methods: stage directions such as a pause, an exit through a door, the set, an ensemble of actors, a clock for time, dialogue between two characters, and the audience’s own position. Cards below give the question to ask about each method." loading="lazy">
+  <figcaption>For a play, AO2 “form” includes everything the audience sees and hears.</figcaption>
+</figure>
+
 ## Annotated model paragraph
 
 Task: *How does Miller use Alfieri to shape the audience's response to Eddie in* A View from the
@@ -117,12 +137,22 @@ Bridge*?*
 Introduction 60, four paragraphs of about 160, conclusion 50. Use the beginning, a turning point and
 the ending of the play.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-a-modern-drama--03-essay-plan-750.webp" width="900" height="750" alt="A bar splits 750 words into an introduction of 60, four paragraphs of 160 and a conclusion of 50. The four paragraphs move from the beginning to the end of the play, each with a moment and a method: song and verse in the market, structure in the bride request, setting at the Residency, and reversal at the climax." loading="lazy">
+  <figcaption>Each paragraph pairs a moment with a method, moving through the whole play.</figcaption>
+</figure>
+
 ## Process rules
 
 - Work must be your own; you and your teacher sign the authentication sheet.
 - At draft stage your teacher may give general advice only, not corrections.
 - No rewriting after marking.
 - Acknowledge any sources.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-a-modern-drama--04-coursework-process.webp" width="900" height="781" alt="Six numbered steps: understand the task, gather evidence from across the play, plan an argument, draft with only general feedback from your teacher, revise and submit with no rewriting after marking, and authenticate the work as your own." loading="lazy">
+  <figcaption>Feedback is general only, and marked work cannot be rewritten.</figcaption>
+</figure>
 
 ## Common mistakes
 

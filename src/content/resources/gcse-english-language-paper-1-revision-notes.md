@@ -40,6 +40,11 @@ see the [Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/).
 - One creative writing task, linked in theme to the reading source.
 - Reading and writing are equally weighted within the paper.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-1--05-p1-periods.webp" width="900" height="720" alt="A grid of three centuries, the 19th, 20th and 21st. In one possible series the Paper 1 text is from the 20th century and the Paper 2 sources are from the 19th and 21st. In the other, Paper 1 is 21st century and Paper 2 uses the 19th and 20th. Paper 1 is never from the 19th century." loading="lazy">
+  <figcaption>Paper 1 uses a 20th- or 21st-century text; Paper 2 pairs the 19th century with whichever of those Paper 1 did not use.</figcaption>
+</figure>
+
 ## Paper structure and marks
 
 ```
@@ -62,6 +67,11 @@ in particular — at 20 of Section A's 40 marks, it is worth as much as
 Questions 1–3 combined, which should shape how revision and exam time
 are both allocated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-1--01-p1-marks.webp" width="900" height="790" alt="Two bars show the 80 marks of Paper 1. Section A, Reading, is 40 marks made of questions worth 4, 8, 8 and 20. Section B, Writing, is 40 marks made of 24 for content and organisation and 16 for technical accuracy. The paper lasts 1 hour 45 minutes." loading="lazy">
+  <figcaption>Paper 1 is 80 marks: 4 + 8 + 8 + 20 for reading and 24 + 16 for writing.</figcaption>
+</figure>
+
 ## Assessment objectives tested
 
 ```
@@ -77,6 +87,16 @@ Paper 1 does **not** assess AO3 (comparing writers across texts) —
 that belongs entirely to Paper 2, since Section A here works from a
 single extract with nothing to compare it against.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-1--03-p1-ao.webp" width="900" height="880" alt="Section A, Reading, assesses AO1 (identify and interpret ideas), AO2 (how language and structure achieve effects) and AO4 (evaluate the text critically). Section B, Writing, assesses AO5 (communicate clearly and organise ideas) and AO6 (accurate vocabulary, spelling and punctuation). AO3, comparing writers, is not tested on Paper 1; it belongs to Paper 2." loading="lazy">
+  <figcaption>Paper 1 tests AO1, AO2 and AO4 in reading and AO5 and AO6 in writing, but not AO3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-1--04-p1-gcse-weights.webp" width="900" height="790" alt="Two bars each represent all 160 marks of the GCSE. By paper, Paper 1 and Paper 2 are 80 marks (50%) each. By skill, reading is 80 marks (50%), AO5 writing content and organisation is 48 marks (30%) and AO6 technical accuracy is 32 marks (20%)." loading="lazy">
+  <figcaption>Across both papers, reading is 50% of the marks, AO5 is 30% and AO6 is 20%.</figcaption>
+</figure>
+
 ## Reading question ladder
 
 | Question type | What it rewards |
@@ -86,6 +106,11 @@ single extract with nothing to compare it against.
 | Structure analysis | Explaining how the writer has shaped and sequenced the whole extract |
 | Evaluate | Judging how successfully the writer achieves an effect, using the text as evidence |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-1--02-p1-ladder.webp" width="900" height="890" alt="A bar chart of the four Section A questions in their fixed order: Question 1 is 4 marks (short form), Questions 2 and 3 are 8 marks each (longer form), and Question 4 is 20 marks (extended evaluation), the stretch question. The marks add up to 40." loading="lazy">
+  <figcaption>Section A rises from a 4-mark short question to a 20-mark evaluative question.</figcaption>
+</figure>
+
 ## Reading technique
 
 - Quote **precisely** — a single well-chosen word or short phrase beats a long, imprecise quotation.
@@ -93,12 +118,27 @@ single extract with nothing to compare it against.
 - For structure questions, track the extract's **shape**: opening focus, shifts, zooming in/out, and the ending.
 - For evaluation, keep returning to the specific statement or focus given in the question — don't drift into general praise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--05-name-explain-evaluate.webp" width="900" height="838" alt="Three rising steps. “The writer uses a verb” is accurate but inert. “The verb ‘clawed’ gives the wind the violence of an animal” explains an effect. Evaluation judges why the choice is right at this moment or how it shapes the whole passage, with phrases such as “particularly effective because”." loading="lazy">
+  <figcaption>A term earns credit only when it leads to an effect, and then to a judgement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--04-structure-map.webp" width="900" height="706" alt="A text drawn as a column of paragraphs, with labels from top to bottom: opening, shifts in focus, time, repetition and patterning (a dashed arrow loops from the end back to the start), paragraphing (a one-line paragraph) and ending." loading="lazy">
+  <figcaption>Structure is the order and shape of the whole text, from opening to ending.</figcaption>
+</figure>
+
 ## Creative writing
 
 - The task is linked to the reading extract's theme, but is your own original piece — not a continuation of the extract.
 - Plan before writing: a clear structure (opening hook, development, turning point, ending) outperforms a technically fluent piece with no shape.
 - A varied range of sentence structures and precise vocabulary is rewarded more than length.
 - Leave time to check punctuation and spelling — technical accuracy is assessed as part of writing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-paper-1--06-p1-writing.webp" width="900" height="1000" alt="A flow chart. Choose one of three stimuli: a scenario, a written prompt or a visual image. Plan for two to three minutes: opening, development, turning point, ending. Then write your own narrative or descriptive piece. It is not a continuation of the Section A extract. Marks are 24 for content and organisation and 16 for technical accuracy." loading="lazy">
+  <figcaption>Choose one stimulus, plan a shape, then write your own piece, not a continuation of the extract.</figcaption>
+</figure>
 
 ## Exam traps
 

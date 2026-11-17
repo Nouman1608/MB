@@ -63,6 +63,11 @@ Paper 2 rule, as printed: Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 o
 | Social closure | A group restricts entry to protect its rewards (Weberian) |
 | Deprofessionalisation | Loss of professional monopoly as lay knowledge grows (Haug) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--03-illness-iceberg.webp" width="900" height="789" alt="An iceberg: the small tip above the water is illness that reaches health services and is recorded; the much larger mass below is illness that never comes to their attention." loading="lazy">
+  <figcaption>Only a small share of illness ever reaches a doctor.</figcaption>
+</figure>
+
 ## Theories and studies at a glance
 
 | Who | What | Key point | One evaluation |
@@ -89,6 +94,21 @@ Paper 2 rule, as printed: Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 o
 | McKeown (1976) | Role of medicine | Mortality fell mainly from better living standards, especially nutrition | Szreter: underplays public health measures |
 | Goldacre (2012) | *Bad Pharma* | Negative trial results often go unpublished, distorting evidence | Focuses on drug trials, not the wider health system |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--02-sick-role.webp" width="900" height="641" alt="Parsons’ sick role gives the sick person two rights, exemption from duties and freedom from blame, and two obligations, wanting to get well and seeking competent help, with the doctor as gatekeeper." loading="lazy">
+  <figcaption>The sick role manages illness as a form of temporary, approved deviance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--07-brown-harris.webp" width="900" height="581" alt="Severe life events and long-term difficulties, combined with vulnerability factors such as having no one to confide in, no paid work outside the home or losing one’s mother before 11, lead to depression." loading="lazy">
+  <figcaption>Depression arises from life events acting on social vulnerability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--05-inverse-care-law.webp" width="900" height="669" alt="A schematic with two crossing lines: need for care is highest in the most deprived areas, while the availability of good care is highest in the least deprived areas." loading="lazy">
+  <figcaption>Good care tends to be least available where it is most needed.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Disease vs illness vs sickness**: a biological condition; how the person feels it; the social status of being sick.
@@ -99,6 +119,16 @@ Paper 2 rule, as printed: Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 o
 - **Provision vs access**: what services exist vs who actually uses and benefits from them.
 - **Realist vs social constructionist views of mental illness**: real conditions with causes vs labels applied by the powerful.
 - **Medicalisation vs iatrogenesis**: medicine's spread into life vs harm caused by medicine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--06-mental-illness-approaches.webp" width="900" height="593" alt="The realist approach treats mental illness as real distress with social causes; the social constructionist approach, from Szasz, Scheff and Goffman, sees it as defined and reinforced by those with power to label." loading="lazy">
+  <figcaption>Realists study causes of distress; constructionists study the power to define it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--08-iatrogenesis.webp" width="900" height="440" alt="Illich’s three kinds of iatrogenesis: clinical harm from treatment, social harm from medicalisation, and cultural harm from losing traditional ways of coping. McKeown and Szreter debate why death rates fell." loading="lazy">
+  <figcaption>Critics question how much medicine itself improves health.</figcaption>
+</figure>
 
 ## Mini essay plan
 
@@ -112,6 +142,11 @@ Paper 2 rule, as printed: Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 o
 6. **Theory link:** Marxist view of capitalism and health; New Right emphasis on individual responsibility.
 7. **Methods comment:** official statistics on death certificates and occupation; strengths and limits.
 8. **Conclusion:** a judgement on which explanations work together, backed by your strongest evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--04-class-explanations.webp" width="900" height="576" alt="Four explanations of class inequalities in health: artefact, social selection, cultural or behavioural, and material or structural, which the Black Report favoured. The Whitehall studies add a psychosocial explanation based on low control and stress." loading="lazy">
+  <figcaption>Material explanations dominate, but the Whitehall gradient needs a psychosocial account too.</figcaption>
+</figure>
 
 ## Quick self-test
 

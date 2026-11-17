@@ -58,6 +58,11 @@ people or forces; it takes a person outside Islam. **Minor shirk** includes show
 (*riya'*) to gain praise; it damages the reward of good deeds. The Qur'an warns that Allah does not
 forgive shirk if a person dies without repenting from it (4.48).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-beliefs-and-teachings--01-tawhid-and-shirk.webp" width="900" height="640" alt="Three aspects of tawhid: al-Rububiyyah (Allah alone is Lord), al-Uluhiyyah (Allah alone is worshipped) and al-Asma wa al-Sifat (His names and attributes are unique). Below, major shirk, such as worshipping idols, takes a person outside Islam; minor shirk, such as showing off in worship, damages the reward of good deeds." loading="lazy">
+  <figcaption>Three aspects of oneness, and two degrees of its opposite.</figcaption>
+</figure>
+
 ## What are the key beliefs of Islam?
 
 Muslims believe in **Allah** (Tawhid), **angels** (Malaikah), **revealed books** (Kutub),
@@ -65,6 +70,11 @@ Muslims believe in **Allah** (Tawhid), **angels** (Malaikah), **revealed books**
 and bad ultimately come from Allah's decree. These beliefs are stated together in the Hadith of
 Jibril and in Qur'an 2.285. Together they give Muslims a purpose (to worship Allah), guidance (books
 and prophets), accountability (angels recording deeds and the Last Day) and trust (Al-Qadr).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-beliefs-and-teachings--02-key-beliefs-and-their-effects.webp" width="900" height="654" alt="Six beliefs on the left link to four effects on the right: belief in Allah gives purpose; revealed books and prophethood give guidance; angels and the Last Day give accountability; and Al-Qadr gives trust in Allah." loading="lazy">
+  <figcaption>Each belief does a job in a Muslim's life: purpose, guidance, accountability or trust.</figcaption>
+</figure>
 
 ## What do the names of Allah teach?
 
@@ -80,6 +90,11 @@ named in the specification:
 Every sura but one opens with "In the name of Allah, the Most Gracious, the Most Merciful", showing
 how central mercy is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-beliefs-and-teachings--03-five-names-of-allah.webp" width="900" height="670" alt="A table of five names: Qudrah, the All-Powerful, so Muslims rely on Him; Al-Khaliq, the Creator, so creation is a trust; Ar-Rahman and Ar-Rahim, the Most Gracious and Most Merciful, the names that open every sura but one; and Al-Alim, the All-Knowing, so Muslims act sincerely." loading="lazy">
+  <figcaption>Each name says something about Allah and something about how Muslims should live.</figcaption>
+</figure>
+
 ## What are angels and what does the Hadith of Jibril teach?
 
 Angels are created from light, do not disobey Allah and carry out His commands. **Jibril (AS)**
@@ -94,6 +109,11 @@ though you do not see Him, He sees you), and then about the signs of the Hour. T
 his companions that it was Jibril who had come to teach them their religion. Its teachings are that
 faith has three levels, practice, belief and excellence, and that Muslims should seek knowledge
 respectfully.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-beliefs-and-teachings--04-hadith-of-jibril-levels.webp" width="900" height="646" alt="A stepped pyramid. The wide base is Islam, practice, the five pillars; above it is iman, belief in Allah, angels, books, messengers, the Last Day and qadr; at the top is ihsan, excellence, worshipping Allah as though you see Him." loading="lazy">
+  <figcaption>Practice, belief and excellence: the three levels of faith Jibril taught.</figcaption>
+</figure>
 
 ## What is Al-Qadr and how does it influence Muslims?
 
@@ -118,6 +138,11 @@ gatherings to pray for the deceased, and Sunni and Shi'a Muslims differ in some 
 funeral prayer. These rituals honour the dead, remind the living of their own death, and express
 equality, since everyone is buried simply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-beliefs-and-teachings--05-life-after-death.webp" width="900" height="672" alt="A sequence from death to Barzakh, resurrection and the Day of Judgement, splitting into Heaven for the righteous and Hell for the wicked. Below, the death rituals in order: ghusl, the kafan, the funeral prayer and burial facing the qibla, with their purposes." loading="lazy">
+  <figcaption>From death to judgement, and the rituals that honour the dead and remind the living.</figcaption>
+</figure>
+
 ## What do the prophets and holy books teach?
 
 - **Adam (AS):** first human and prophet; taught repentance after his mistake (2.37).
@@ -130,6 +155,11 @@ Muslims believe these books carried Allah's message but that the Qur'an is the f
 revelation. **Hazrat Muhammad (pbuh)** is **Khatam an-Nabiyyin**, the Seal of the Prophets (33.40),
 so there will be no prophet after him.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-beliefs-and-teachings--06-prophets-and-books.webp" width="900" height="688" alt="A table of prophets with a key point and their book: Adam, first human and prophet, taught repentance; Ibrahim, given the Suhuf; Musa, the Tawrat; Dawud, the Zabur; Isa, the Injil; and Muhammad (pbuh), the Seal of the Prophets, the Qur'an." loading="lazy">
+  <figcaption>Earlier books carried the same message; the Qur'an is final and the Prophet (pbuh) is the last.</figcaption>
+</figure>
+
 ## How was the Muslim community led after the Prophet (pbuh)?
 
 The four Rightly Guided Caliphs led the community: **Hazrat Abu Bakr (RA)** (632–634), who kept the
@@ -137,6 +167,11 @@ community united and had the Qur'an gathered; **Hazrat Umar (RA)** (634–644), 
 organised the state; **Hazrat Uthman (RA)** (644–656), who distributed standard copies of the Qur'an;
 and **Hazrat Ali (RA)** (656–661), known for knowledge and justice in a time of conflict. Shi'a
 Muslims believe Ali (RA) should have led immediately after the Prophet (pbuh) as the first Imam.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-beliefs-and-teachings--07-rightly-guided-caliphs.webp" width="900" height="552" alt="A scaled timeline from 632 to 661: Abu Bakr (632–634) kept the community united and had the Qur'an gathered; Umar (634–644) expanded and organised the state; Uthman (644–656) distributed standard copies of the Qur'an; Ali (656–661) was known for knowledge and justice in a time of conflict. A note gives the Shi'a view of Ali as the first Imam." loading="lazy">
+  <figcaption>Four leaders in under thirty years, each remembered for a defining contribution.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

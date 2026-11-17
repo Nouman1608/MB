@@ -47,6 +47,11 @@ study, read the [Tourism study guide](/resources/cambridge-o-level-geography-tou
 Attractions explain *where* people go; enabling factors explain *why
 numbers rise over time*. Use both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-tourism--01-tourism-growth.webp" width="900" height="765" alt="Two boxes feed into tourism growth. Attractions: physical (beaches, sunny climates, reefs, mountains, volcanoes, wildlife) and human (historic and religious sites, museums, cities, festivals, local culture). Enabling factors: rising incomes and paid holidays, cheaper flights, internet booking and social media, and government promotion. A strip shows a beach that only became a major destination once hotels, an airport and affordable flights arrived." loading="lazy">
+  <figcaption>Attractions explain where people go; enabling factors explain why numbers rose.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -73,6 +78,11 @@ numbers rise over time*. Use both.
 **Who controls tourism decides the balance**: local ownership means a
 stronger multiplier and less leakage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-tourism--02-multiplier-leakage.webp" width="900" height="700" alt="Two flows of tourist spending. With local control, a locally owned hotel buys from local farms, builders and shops, and wages are spent again in the area: the multiplier effect. With foreign control, a foreign-owned resort sends profits abroad and imports food and supplies, so only local wages stay: leakage." loading="lazy">
+  <figcaption>Local ownership strengthens the multiplier; foreign ownership means leakage.</figcaption>
+</figure>
+
 ## Management measures (say why each works)
 
 | Measure | Why it is sustainable |
@@ -84,6 +94,11 @@ stronger multiplier and less leakage.
 | Off-season promotion | Spreads pressure through the year |
 | Sewage and waste systems | Stop pollution of the attraction itself |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-tourism--03-sustainable-tourism.webp" width="900" height="820" alt="Seven measures surround the aim of keeping the attraction for the future: limiting numbers with permits and quotas; zoning; protected marine and national parks; ecotourism; local ownership and training; spreading demand to off-season and less-visited places; and infrastructure such as sewage treatment and waste collection sized for peak numbers." loading="lazy">
+  <figcaption>Sustainable tourism protects the very thing visitors come for.</figcaption>
+</figure>
+
 ## Case study outline: the Maldives
 
 - About 1,200 low-lying coral islands in the Indian Ocean; capital Malé.
@@ -94,6 +109,11 @@ stronger multiplier and less leakage.
   Thilafushi landfill island; reef damage from construction and
   divers; coral bleaching in marine heatwaves and sea-level rise
   threaten the attractions themselves.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-tourism--04-maldives.webp" width="900" height="800" alt="A schematic of coral atolls in the Indian Ocean, with the capital Malé and its airport, a resort on its own island (“one island, one resort”) and Thilafushi, the landfill island. Side boxes list attractions (beaches, reefs, climate, luxury resorts), growth from the early 1970s with the airport and long-haul flights, and problems: leakage, waste and reef damage. An inset shows land only 1 to 2 metres above sea level, threatened by sea-level rise." loading="lazy">
+  <figcaption>Reefs and beaches draw visitors; leakage, waste and rising seas threaten the gains.</figcaption>
+</figure>
 
 ## Second example: tourism in northern Pakistan
 
@@ -123,6 +143,11 @@ are large, but they depend on the reefs and beaches, so the industry is only sus
 environmental damage is controlled."
 
 Both sides, place-specific detail, and a judgement linked to sustainability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-tourism--05-evaluate-answer.webp" width="900" height="569" alt="Four stacked steps for a 6-mark evaluate answer about the Maldives: name the area; give a benefit (jobs and income for public services); give a disadvantage (leakage from foreign ownership and imports, and the landfill island near Malé); and finish with a judgement that the gains are real but smaller for local people and last only if waste and reef damage are managed." loading="lazy">
+  <figcaption>Benefit, disadvantage, then a judgement that depends on the evidence.</figcaption>
+</figure>
 
 ## Exam traps
 

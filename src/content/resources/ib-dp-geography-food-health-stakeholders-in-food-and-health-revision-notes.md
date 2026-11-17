@@ -51,6 +51,11 @@ Alongside them, **philanthropic foundations** and **public-private partnerships*
 
 At the **household** scale, decisions about who eats first, how income is spent and who cares for children shape nutrition, and women's education is strongly linked to child health. At the **national** scale, governments set subsidies, taxes and health budgets. At the **global** scale, trade rules, aid flows and the research priorities of large firms influence which crops and medicines are developed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-food-health-study-guide--06-f-stakeholders.webp" width="900" height="900" alt="Six stakeholders are linked to a central circle labelled food and health: governments set policy and invest; international organisations coordinate aid; NGOs and charities deliver projects and relief; transnational corporations supply seeds through to retail; farmers and communities hold local knowledge; consumers shape demand. A banner gives the three evaluation questions: who gains, who is excluded and is it lasting." loading="lazy">
+  <figcaption>Stakeholders range from governments to consumers, and each strategy should be judged on who gains, who is excluded and whether it lasts.</figcaption>
+</figure>
+
 ## Strategies
 
 - Agricultural innovation: Green Revolution style high-yield seeds, fertiliser and irrigation

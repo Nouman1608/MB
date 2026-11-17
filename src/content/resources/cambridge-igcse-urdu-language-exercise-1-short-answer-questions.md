@@ -51,6 +51,16 @@ what purpose*.
 
 Dictionaries are not allowed and every question and answer is in Urdu.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-1-short-answer-questions--01-exercise-at-a-glance.webp" width="900" height="610" alt="Exercise 1 is worth 8 of Paper 1's 60 marks, uses one short printed text and needs one-word or short-phrase answers in Urdu, in about 10-12 minutes. It tests reading objectives R1 to R4, with most questions on R1 detail." loading="lazy">
+  <figcaption>Eight short Urdu answers on one short text, mostly detail with a little gist.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-1-short-answer-questions--02-text-types.webp" width="900" height="532" alt="Six cards naming the possible Exercise 1 text types in English and Urdu: advertisement, brochure or leaflet, guide, report, manual or instructions, and newspaper or magazine article." loading="lazy">
+  <figcaption>Recognise the text type first: it tells you where the information sits.</figcaption>
+</figure>
+
 ## How each text type helps you
 
 Short practical texts are built to be scanned. Their layout tells you where to look before you read a
@@ -67,6 +77,11 @@ single sentence closely.
 Instructions use the polite imperative ending **ـیے** (رکھیے، بھریے، کیجیے) and the negative **نہ**
 (فلیش استعمال نہ کریں). Recognising these forms quickly tells you that a sentence is a rule or a step,
 which is exactly what "what must you do" questions target.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-1-short-answer-questions--03-layout-clues.webp" width="900" height="847" alt="A table pairing each text type with its layout clues and typical Urdu question words, for example prices and offers in an advertisement leading to questions about cost. Below, the polite imperative ending and the negative نہ mark a rule or step in instructions." loading="lazy">
+  <figcaption>The layout tells you where to look before you read closely.</figcaption>
+</figure>
 
 ## Reading the question word first
 
@@ -88,6 +103,16 @@ look at the text stops you writing a correct-looking detail that answers a diffe
 Two of these need extra care. **کب** and **کتنے دن** are easy to confuse: "when did they work" wants a
 time (چھٹی کے بعد), not a length of time (چھ مہینے). And **کتنے دن** may require a small calculation:
 a fair "from the 15th to the 19th" lasts five days, which the text never states in words.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-1-short-answer-questions--04-question-words.webp" width="900" height="883" alt="A table of Urdu question words with their meanings and the form of answer each needs: کب wants a time, کتنے دن a duration, کہاں a place, کتنا a number, کون a person, کیا a thing, کیسے a method, کیوں a reason and کس مقصد کے لیے the gist." loading="lazy">
+  <figcaption>Predict the answer form from the question word before you look at the text.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-1-short-answer-questions--05-when-versus-how-long.webp" width="900" height="668" alt="Two columns. کب (when) needs a point in time such as چھٹی کے بعد, not a duration. کتنے دن (for how long) needs a duration such as چھ مہینے. Below, a fair from the 15th to the 19th is counted as five days." loading="lazy">
+  <figcaption>کب wants a time; کتنے دن wants a length of time, sometimes counted yourself.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -125,6 +150,11 @@ repeat the permission, not the condition the question asks about.
 This is a gist question (R4). The answer is the purpose of the whole text: **لوگوں کو نمائش دیکھنے کی
 دعوت دینا** or **نمائش کے بارے میں معلومات دینا**. A single detail such as "ٹکٹ کی قیمت بتانا" is too
 narrow, because it describes one line rather than the text.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-1-short-answer-questions--06-qualifier-trap.webp" width="900" height="800" alt="Question B asks the ticket price for a four-year-old. The leaflet gives 50 rupees for children, but the next sentence says entry is free for children under five, so the answer is مفت, not 50 روپے. Below are qualifier words that limit or change a rule: صرف، کم از کم، سے کم، کے علاوہ، مگر، البتہ، سوائے." loading="lazy">
+  <figcaption>The nearest number is often a distractor; the qualifier decides the answer.</figcaption>
+</figure>
 
 ## Writing the answer
 
@@ -172,6 +202,11 @@ Exercise 3 and the writing tasks. A reliable routine:
 
 The Urdu rubric you will meet is short: **ایک لفظ یا مختصر فقرے میں جواب دیجیے** (answer in one word
 or a short phrase). Treat it literally.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-1-short-answer-questions--07-exam-routine.webp" width="900" height="940" alt="Six steps: scan the layout, read the questions and predict answer forms, scan for key words and read around them, answer in order, leave the gist question until last, and check each answer form. The rubric asks for one word or a short phrase." loading="lazy">
+  <figcaption>Predict, scan, read around the key word, then check the form.</figcaption>
+</figure>
 
 ## Where to go next
 

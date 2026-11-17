@@ -1,0 +1,9 @@
+{ "page": "cambridge-a-level-computer-science-system-software-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--07-ss-os.webp", "after": "## What are the key management tasks of an operating system?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--08-ss-interrupt.webp", "after": "## What are the key management tasks of an operating system?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--09-ss-defrag.webp", "after": "## Which utility programs should you know?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--10-ss-dll.webp", "after": "## Why do developers use program libraries and DLLs?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--11-ss-translators.webp", "after": "## How do assemblers, compilers and interpreters compare?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--12-ss-errors.webp", "after": "## How do assemblers, compilers and interpreters compare?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--13-ss-ide.webp", "after": "## What IDE features does the syllabus list?" }
+] }

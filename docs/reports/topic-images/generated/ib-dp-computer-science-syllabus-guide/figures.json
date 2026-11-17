@@ -1,0 +1,29 @@
+[
+ {
+  "file": "ib-dp-computer-science-syllabus-guide--01-hours-by-sub-topic.webp",
+  "width": 900,
+  "height": 878,
+  "after": "## Theme B -- Computational thinking and problem-solving (52 hours SL / 93 hours HL)",
+  "alt": "Paired SL and HL bars for each sub-topic. Theme A: computer fundamentals, networks and databases 11 SL and 18 HL each, machine learning 5 and 18. Theme B: computational thinking 5 and 5, programming 40 and 42, object oriented programming 7 and 23, abstract data types 0 and 23 (HL only).",
+  "caption": "Programming dominates SL; OOP and abstract data types make most of the HL gap.",
+  "bytes": 118550
+ },
+ {
+  "file": "ib-dp-computer-science-syllabus-guide--02-teaching-time-split.webp",
+  "width": 900,
+  "height": 568,
+  "after": "## Internal assessment and collaborative sciences project",
+  "alt": "Two stacked bars. SL, 150 hours: Theme A 38, Theme B 52, case study 15, computational solution internal assessment 35, collaborative sciences project 10. HL, 240 hours: Theme A 72, Theme B 93, case study 30, then the same 35 and 10. Syllabus content is 105 hours at SL and 195 at HL.",
+  "caption": "The extra HL time all goes to syllabus content; the IA and project stay the same.",
+  "bytes": 60338
+ },
+ {
+  "file": "ib-dp-computer-science-syllabus-guide--03-papers-and-themes.webp",
+  "width": 900,
+  "height": 800,
+  "after": "## How to approach it",
+  "alt": "Theme A and the pre-released case study feed Paper 1, which tests conceptual recall and applied understanding of systems. Theme B feeds Paper 2, with object oriented programming at both levels and abstract data types at HL only. The internal assessment, a computational solution worth 35 hours at both levels, applies the specify, decompose, abstract, test and evaluate process.",
+  "caption": "Know which theme a paper tests, and you know what to revise for it.",
+  "bytes": 143708
+ }
+]

@@ -67,6 +67,11 @@ Some groups have legal names you should use precisely:
   international border**.
 - **Economic migrant**: someone who moves voluntarily, mainly for work or higher income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-migration--01-naming-migrants.webp" width="900" height="710" alt="A decision tree. Voluntary migrants moving mainly for work are economic migrants. Forced migrants who stay in their own country are internally displaced persons; those who cross a border because of persecution, conflict or violence are refugees, and those who have applied for refugee status and await a decision are asylum seekers. A side box lists other ways to classify: distance, time and direction." loading="lazy">
+  <figcaption>Ask: by choice or forced? Then: did they cross a border?</figcaption>
+</figure>
+
 ## Key idea 2: push factors, pull factors and obstacles
 
 **Push factors** are conditions that encourage people to leave; **pull factors** are attractions
@@ -89,6 +94,11 @@ Remember that pull factors are **perceived**. A rural migrant may expect a well-
 in the city and end up in the informal sector; the image of the destination is often more
 attractive than the reality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-migration--02-push-pull-obstacles.webp" width="900" height="610" alt="A source area with push factors (unemployment, low incomes, land shortage, poor services, conflict, drought) and a destination with perceived pull factors (jobs, wages, services, family, safety, reliable water). Migrants, often young adults, move between them past a wall of intervening obstacles: cost, distance, immigration laws, language and lack of information." loading="lazy">
+  <figcaption>Push and pull explain why people want to move; obstacles explain why many do not.</figcaption>
+</figure>
+
 ## Key idea 3: impacts on source and receiving areas
 
 Impacts are economic, social, demographic and cultural, and they can be positive or negative for
@@ -103,6 +113,11 @@ Impacts are economic, social, demographic and cultural, and they can be positive
 
 **Return migration** can bring skills, savings and new ideas back to the source area, which is
 worth one extra developed point in an evaluation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-migration--03-migration-impacts.webp" width="900" height="690" alt="Young adults move from the source area to the receiving area; remittances flow back, and return migrants bring skills, savings and ideas. A table compares impacts: remittances versus filled labour shortages; brain drain versus pressure on services; an ageing source population versus a younger receiving one; separated families versus cultural diversity and possible tension." loading="lazy">
+  <figcaption>Every impact has a source-area side and a receiving-area side.</figcaption>
+</figure>
 
 ## Case study material
 
@@ -130,6 +145,11 @@ Lebanon and Jordan, and a smaller share travelled on to Europe, notably to Germa
 - *Receiving impacts:* pressure on housing, schools and health care in border regions and refugee
   camps; humanitarian costs; in the longer term, some refugees fill labour shortages.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-migration--04-migration-case-studies.webp" width="900" height="780" alt="Top: workers move from Pakistan to Saudi Arabia and the UAE on temporary contracts, pushed by few well-paid jobs and pulled by higher wages; remittances flow back. Bottom: from 2011 Syrians fled civil war, with the largest number going to Turkey, many others to Lebanon and Jordan and a smaller share on to Europe, notably Germany in 2015. Arrow widths are schematic." loading="lazy">
+  <figcaption>One voluntary and one forced flow: learn causes and impacts for each.</figcaption>
+</figure>
+
 ## Worked example: reading a migration table
 
 A town recorded 3,600 arrivals and 5,100 departures in one year. Its population is 150,000.
@@ -140,6 +160,11 @@ A town recorded 3,600 arrivals and 5,100 departures in one year. Its population 
 If most of those leaving are aged 18–35, you can **suggest** consequences: a falling birth rate in a
 few years, an ageing population, labour shortages on farms and less demand for local services.
 These data are illustrative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-migration--05-net-migration.webp" width="900" height="550" alt="Bars compare 3,600 arrivals with 5,100 departures. Net migration is 3,600 minus 5,100, which is minus 1,500; with a population of 150,000 the rate is minus 10 per 1,000. If most leavers are aged 18 to 35, likely consequences are a falling birth rate, an ageing population, farm labour shortages and less demand for local services." loading="lazy">
+  <figcaption>Net migration = arrivals − departures; divide by population × 1,000 for a rate.</figcaption>
+</figure>
 
 ## Common mistakes
 

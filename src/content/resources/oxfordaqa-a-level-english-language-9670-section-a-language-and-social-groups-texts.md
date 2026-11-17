@@ -52,6 +52,16 @@ performances where language is used for shared play and pleasure.
 Unit 2 is a 2-hour exam worth 50 marks; Section A is worth 25. Your Section A analysis then becomes the evidence for
 the Section B essay, so note patterns that could support an argument as you go.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-2--01-u2-assessment.webp" width="900" height="1000" alt="Unit 2, Language and Society, is a 2-hour written exam worth 50 marks. Section A is a text analysis of spoken, written or multimodal material and its data feeds Section B, an academic essay. Unit 1 and Unit 2 each count for 50% of the International AS and 20% each of the full International A-level, leaving 60% for other units. Unit 2 gives more weight to AO1 than Unit 1 does, so precise terminology matters." loading="lazy">
+  <figcaption>Unit 2 is one 2-hour, 50-mark exam in which Section A analysis feeds the Section B essay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-2--02-u2-four-functions.webp" width="900" height="1040" alt="Language in use sits at the centre with four arrows to the four social functions named in the specification: group rapport and shared perspectives, assertions of power and status, expressions of identity and relationship, and creative play and performance. Power and status and identity are separate categories; a text may draw on them individually or together." loading="lazy">
+  <figcaption>Four social functions a Section A text may be doing.</figcaption>
+</figure>
+
 ## Frameworks for each credited area
 
 ### Group rapport and shared perspectives
@@ -97,12 +107,27 @@ the Section B essay, so note patterns that could support an argument as you go.
 The same feature can serve more than one function. A nickname can build rapport, express a relationship and be
 playful at once; a teacher's joke can build rapport while confirming who has the right to joke.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-language-and-social-groups-texts--01-features-by-area.webp" width="900" height="770" alt="Four panels of features. Group rapport: in-group lexis, inclusive pronouns, shared references, back-channelling. Power and status: conversational control, forms of address, imperatives and modals, specialist lexis. Identity and relationship: self-presentation, politeness, register and variety, phatic talk. Play: wordplay, banter, performance, shared routines." loading="lazy">
+  <figcaption>Each credited area has its own features; the same feature can serve more than one area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-language-and-social-groups-texts--02-framework-distinctions.webp" width="900" height="835" alt="Four paired concepts: Giles’s converging and diverging; Wareing’s instrumental and influential power; Fairclough’s power in discourse and power behind discourse; Brown and Levinson’s positive and negative face. Below, communities of practice: groups formed around a shared activity develop shared ways of speaking." loading="lazy">
+  <figcaption>Each framework gives a pair of terms; apply them to a specific moment, not in the abstract.</figcaption>
+</figure>
+
 ## Analysing different modes
 
 - **Spoken**: turn-taking, interruption, overlap, adjacency pairs, back-channelling, prosody. Treat non-fluency as normal.
 - **Written**: forms of address, pronouns, register, modality, structure.
 - **Multimodal**: how image, layout, typography and words combine, such as a club's social media post using emoji,
   hashtags and group photos to signal belonging.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-language-and-social-groups-texts--03-modes.webp" width="900" height="545" alt="Three columns. Spoken texts: turn-taking, interruption and overlap, adjacency pairs, back-channelling, prosody, with non-fluency treated as normal. Written texts: forms of address, pronouns, register, modality, structure. Multimodal texts: how image, layout, typography and words combine, such as a club post using emoji, hashtags and group photos." loading="lazy">
+  <figcaption>Section A texts can be spoken, written or multimodal; each mode has its own features to analyse.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -134,6 +159,11 @@ PRIYA:  okay okay (.) Tom (.) what would you change
 The analysis names specific features, uses two frameworks and shows functions overlapping, which is the kind of
 insight the credited areas reward.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-language-and-social-groups-texts--04-annotated-transcript.webp" width="900" height="984" alt="The debating-team transcript with annotations: Priya’s discourse markers, imperative and interruption assert power; Tom’s hedges attend to her negative face; “yes boss” and “the Supreme Leader has spoken” are mock deference that builds rapport; her final question accommodates the group’s challenge." loading="lazy">
+  <figcaption>Power, politeness and banter overlap in the same exchange: the captain’s power is negotiated.</figcaption>
+</figure>
+
 ## A multimodal example in brief
 
 A gaming community's announcement (original, invented) reads *"GG to everyone in last night's raid. Our squad
@@ -144,6 +174,11 @@ napping is **playful self-deprecation** by those with power in the community, so
 supports the words by showing the group's shared success. An analysis should explain how image and language work
 together, not treat the screenshot as decoration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-language-and-social-groups-texts--05-multimodal-example.webp" width="900" height="600" alt="The gaming community post beside a screenshot of celebrating avatars, annotated: “GG”, “raid”, “boss” and “mods” are in-group lexis marking membership; “Our squad” builds rapport; the moderators’ nap joke is playful self-deprecation softening their status; the image shows the shared success." loading="lazy">
+  <figcaption>In a multimodal text, analyse how the image and the words work together.</figcaption>
+</figure>
+
 ## Method
 
 1. **Context first**: who is speaking or writing, to whom, in what setting, with what relationship.
@@ -151,6 +186,11 @@ together, not treat the screenshot as decoration.
 3. **Select** four or five rich moments, especially where functions overlap or shift.
 4. **Name, quote, explain** using precise terminology and at least two frameworks.
 5. **Note** observations that could support a wider argument for Section B.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-language-and-social-groups-texts--06-method.webp" width="900" height="570" alt="Five steps: establish the context; scan for each credited area; select four or five rich moments; name, quote and explain using at least two frameworks; and note observations that could feed the Section B essay." loading="lazy">
+  <figcaption>Context, scan, select, analyse, and bank evidence for the Section B essay.</figcaption>
+</figure>
 
 ## Common mistakes
 

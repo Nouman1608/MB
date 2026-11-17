@@ -61,11 +61,26 @@ empire's decline that you can use in extended answers.
 | Muhammad Shah | 1719–48 | Nadir Shah's invasion; Karnal and sack of Delhi 1739 |
 | Bahadur Shah Zafar | 1837–57 | Last emperor; exiled by the British in 1858 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-mughal-empire--01-emperors-1526-1707.webp" width="900" height="593" alt="Bars for each emperor’s reign: Babur 1526–30, Humayun 1530–40 and 1555–56, Akbar 1556–1605, Jahangir 1605–27, Shah Jahan 1628–58 and Aurangzeb 1658–1707, each with a key event or achievement. A dashed gap marks the years Humayun lost the empire to Sher Shah Suri." loading="lazy">
+  <figcaption>Akbar and Aurangzeb together ruled for almost a century.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-mughal-empire--02-babur-founds-empire.webp" width="900" height="667" alt="A timeline of Babur: descended from Timur and Genghis Khan, he lost Fergana, took Kabul in 1504, defeated Ibrahim Lodi at the First Battle of Panipat in 1526 with artillery and cavalry tactics, and beat the Rajputs under Rana Sanga at Khanwa in 1527." loading="lazy">
+  <figcaption>Two battles, Panipat and Khanwa, gave Babur north India.</figcaption>
+</figure>
+
 ## Achievements to 1658
 
 - **Political and military:** artillery at Panipat; Akbar's conquests and Rajput alliances; centralised provinces (*subas*) under governors.
 - **Economic:** stable silver rupee; land revenue reform; roads and secure routes; textile exports; European trading companies.
 - **Social and cultural:** Persian literature and histories; Mughal miniature painting; music at court; Indo-Persian architecture; madrasas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-mughal-empire--03-akbar-system.webp" width="900" height="494" alt="Five pillars hold up Akbar’s empire: conquest after the Second Battle of Panipat in 1556, alliances with Rajput rulers, the mansabdari system for nobles, land revenue reform with Raja Todar Mal, and religious policy including abolishing the jizya and debates in the Ibadat Khana." loading="lazy">
+  <figcaption>Akbar held his empire together with conquest, alliances and organised government.</figcaption>
+</figure>
 
 ## Buildings and places to name
 
@@ -86,6 +101,11 @@ empire's decline that you can use in extended answers.
 | Reputation for personal piety and justice | Rajput, Jat and Sikh revolts |
 | Sharia-based legal system | Shortage of jagirs for nobles; no succession rule |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-mughal-empire--04-aurangzeb-1707.webp" width="900" height="565" alt="Aurangzeb’s reforms are listed: rule by Sharia, the Fatawa-e-Alamgiri, muhtasibs, the jizya reimposed in 1679, removal of un-Islamic taxes and the Badshahi Mosque. A balance then weighs strengths at his death (the largest territory, a working administration and army) against weaknesses (drained treasury, revolts, too few jagirs, no succession rule)." loading="lazy">
+  <figcaption>In 1707 the empire was at its largest but already financially and politically strained.</figcaption>
+</figure>
+
 ## Causes of decline after 1707
 
 1. **Weak successors** and wars of succession; nobles such as the Sayyid brothers as king-makers.
@@ -95,6 +115,16 @@ empire's decline that you can use in extended answers.
 5. **Sikhs** taking Punjab; Ranjit Singh's kingdom at Lahore.
 6. **East India Company:** Plassey (1757), Bengal revenue (1765).
 7. **British annexations:** Sindh 1843, Punjab 1849, Awadh 1856; end of the dynasty after 1857.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-mughal-empire--05-forces-of-decline.webp" width="900" height="570" alt="Four forces press on Mughal power after 1707: weak leadership and powerful nobles, Nadir Shah’s victory at Karnal and sack of Delhi in 1739, the expansion of the Marathas and Sikhs, and the East India Company after Plassey in 1757." loading="lazy">
+  <figcaption>Weakness inside and pressure from outside combined to break Mughal power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-mughal-empire--06-decline-timeline.webp" width="900" height="734" alt="A timeline of decline: Aurangzeb’s death in 1707, Karnal and the sack of Delhi in 1739, Plassey in 1757, the Company’s right to collect Bengal’s revenue in 1765, the annexation of Sindh, Punjab and Awadh between 1843 and 1856, and the exile of Bahadur Shah Zafar in 1858 after the War of Independence of 1857." loading="lazy">
+  <figcaption>In 150 years Mughal rule shrank from the largest empire to a title in exile.</figcaption>
+</figure>
 
 ## Worked example
 

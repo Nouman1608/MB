@@ -51,6 +51,11 @@ Check every version against three questions: is every element present, does it r
 
 **Method for English → Urdu:** identify the verb first, move it to the end, convert prepositions to postpositions, then check **gender agreement** throughout.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-reading--02-translation-balance.webp" width="900" height="600" alt="Three versions of one Urdu sentence: literal (&quot;On him anger came&quot;, unnatural), too free (&quot;He lost his temper&quot;, loses register) and balanced (&quot;He became angry&quot;, accurate and natural), with three checks: nothing omitted, natural English, register preserved." loading="lazy">
+  <figcaption>Aim between literal and free: everything present, natural, and in the same register.</figcaption>
+</figure>
+
 ## Grammar that decides marks
 
 **Gender agreement** — every noun is masculine or feminine, and adjectives and verbs must agree. A gender error propagates through the sentence, so it costs more than a single mark.
@@ -71,6 +76,11 @@ Check every version against three questions: is every element present, does it r
 
 **Register** — Urdu distinguishes **آپ** (*aap*, formal), **تم** (*tum*, familiar) and **تو** (*tu*, intimate). Choosing the wrong one changes the tone of a whole passage. Formal written Urdu also draws more on Persian and Arabic vocabulary, informal on everyday usage — matching the register of the source is part of accurate translation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-reading--05-accuracy-checklist.webp" width="900" height="624" alt="Five recurring accuracy features for extended Urdu writing: gender agreement across noun, adjective and verb; consistent tense and person; postpositions, especially the ergative with transitive perfective verbs; izafat in formal register; and accurate script." loading="lazy">
+  <figcaption>Leave time to check agreement, postpositions and script.</figcaption>
+</figure>
+
 ## Reading comprehension
 
 - Identify what each question actually asks: *what* questions want located detail, *why* questions want inference, and questions about the writer's attitude want evidence of tone — word choice, irony, emphasis.
@@ -80,9 +90,24 @@ Check every version against three questions: is every element present, does it r
 - For inference questions, quote or paraphrase the supporting evidence rather than asserting.
 - Do not lift long stretches verbatim where the question asks for explanation in your own words.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-reading--03-question-types.webp" width="900" height="500" alt="What-questions want located detail, why-questions want inference, and questions on the writer’s attitude want evidence of tone such as word choice, irony and emphasis. Use your own words, match length to marks, and look around a phrase for its meaning." loading="lazy">
+  <figcaption>Name the question type first: detail, inference or tone.</figcaption>
+</figure>
+
 ## Section C — the research question (40 of Paper 1's 80 marks)
 
 Before the exam, choose **one research subject** from one of the four themes and study **all three aspects of it**, basing your research on **one country/area only** — Pakistan for Themes 1, 3 and 4; Pakistan or one area of India where Urdu is an official language for Theme 2. In the exam you read one unseen Urdu text on the subject and answer a question in Urdu (approximately 320–370 words), using both your research findings and the unseen text. Marks split across three grids: knowledge and understanding of society and culture via research (AO4, 20 marks), understanding of and response to the unseen text (AO2, 10 marks), and accuracy and range of language (AO3, 10 marks). Referring to more than one country/area disadvantages you by wasting time on content that gains no marks: for Themes 1, 3 and 4 examiners mark content based on Pakistan only, and for Theme 2 they mark positively, awarding marks for the content on whichever country/area will gain the highest mark.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-reading--04-section-c-grids.webp" width="900" height="630" alt="Section C is worth 40 marks for about 320 to 370 words: AO4 knowledge and understanding of society and culture via research (20), AO2 use of the unseen text (10) and AO3 accuracy and range of language (10). Research covers all three aspects of one subject in one country or area, and a planned structure prevents drift." loading="lazy">
+  <figcaption>Half the essay marks come from your research; plan before you write.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-2-study-guide--02-research-place-rule.webp" width="900" height="536" alt="For Themes 1, 3 and 4 research must concern Pakistan; for Theme 2 it may concern Pakistan or one area of India where Urdu is an official language, but only one country or area." loading="lazy">
+  <figcaption>Theme 2 allows Pakistan or one Urdu-official area of India, never both.</figcaption>
+</figure>
 
 ## Common errors
 

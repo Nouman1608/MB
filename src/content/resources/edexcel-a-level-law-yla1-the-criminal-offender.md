@@ -33,6 +33,11 @@ This guide covers **section 2.2, The criminal offender**, the second of the thre
 - **General defences (2.2.8 to 2.2.9)**: duress of threats and of circumstances; voluntary and involuntary intoxication.
 - **Sentencing (2.2.10)**: custodial sentences, community orders, fines and discharges under the **Criminal Justice Act 2003**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--11-criminal-liability.webp" width="900" height="1000" alt="A Venn-style picture: actus reus (guilty act) on the left, mens rea (guilty mind) on the right, and criminal liability where they coincide. Notes list causation and omissions under actus reus, and intention and subjective recklessness under mens rea. A strip explains strict liability offences need no mens rea for at least one element." loading="lazy">
+  <figcaption>Criminal liability usually needs a guilty act and a guilty mind together.</figcaption>
+</figure>
+
 ## Actus reus: causation
 
 **Factual causation** asks whether the result would have happened "but for" the defendant's act. In *R v White* [1910] the victim died of a heart attack before the poison could work, so White was not the cause of death (he was guilty of attempted murder). **Legal causation** asks whether the act was an **operating and substantial cause** (*R v Smith* [1959]). The chain can be broken by an intervening act, but:
@@ -40,6 +45,11 @@ This guide covers **section 2.2, The criminal offender**, the second of the thre
 - the defendant must take the victim as they find them (the **thin skull rule**: *R v Blaue* [1975]);
 - poor medical treatment rarely breaks the chain unless it is "palpably wrong" (*R v Jordan* [1956]) or so independent that the original wound is insignificant (*R v Cheshire* [1991]);
 - a victim's reasonably foreseeable reaction in escaping does not break it (*R v Roberts* [1971]).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-criminal-offender--01-causation-chain.webp" width="900" height="569" alt="Two tests in order: factual causation, the but for test (R v White, where the victim died before the poison worked), then legal causation, an operating and substantial cause (R v Smith). Three cards show when the chain is not broken: the thin skull rule (Blaue), poor medical treatment unless palpably wrong or the wound is insignificant (Jordan, Cheshire), and a foreseeable escape (Roberts)." loading="lazy">
+  <figcaption>Prove &quot;but for&quot; and an operating and substantial cause; the chain is rarely broken.</figcaption>
+</figure>
 
 ## Actus reus: omissions
 
@@ -63,6 +73,11 @@ There is no general duty to act, but a duty arises from:
 - **Coincidence**: *actus reus* and *mens rea* must coincide, though a continuing act can satisfy this (*Fagan v Metropolitan Police Commissioner* [1969]).
 
 **Using the OAPA 1861**: s 47 (assault occasioning actual bodily harm) needs only *mens rea* for the assault; s 20 (unlawful wounding or inflicting grievous bodily harm) needs foresight of some harm; s 18 (wounding or causing grievous bodily harm with intent) needs **intention**. These show how *mens rea* separates offences with similar *actus reus*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-criminal-offender--02-mens-rea-oapa.webp" width="900" height="793" alt="Three OAPA 1861 offences with their mens rea: s 47 needs mens rea for the assault only, s 20 needs foresight of some harm and s 18 needs intention. Cards define direct intention (Mohan), oblique intention (Woollin) and subjective recklessness (Cunningham, R v G), then transferred malice (Latimer, but not Pembliton) and coincidence (Fagan)." loading="lazy">
+  <figcaption>Similar actus reus, different mens rea: s 47, s 20 and s 18 are separated by the mental element.</figcaption>
+</figure>
 
 ## Strict liability
 
@@ -94,11 +109,26 @@ The specification states candidates are not examined on a change in the law unti
 
 **Criminal damage (1971 Act, s 1)**: destroying or damaging property belonging to another, intending or being reckless as to that. **Lawful excuse (s 5)**: an honest belief that the owner would consent, or that the property needed protecting from immediate danger; the belief need only be honest (*Jaggard v Dickinson* [1981]).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-criminal-offender--03-theft-elements.webp" width="900" height="658" alt="Five rows give the elements of theft with their sections and cases: dishonestly (s 2, Ivey test and the s 2 exceptions), appropriates (s 3, Morris and Gomez), property (s 4), belonging to another (s 5, including s 5(4)) and intention permanently to deprive (s 6, Lloyd on borrowing)." loading="lazy">
+  <figcaption>Dishonesty, appropriation, property, belonging to another, intention to permanently deprive: ss 2 to 6.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--12-property-offences.webp" width="900" height="1108" alt="A table of seven property offences colour-grouped by statute. Theft Act 1968 covers theft (ss 1-6), robbery (s 8), burglary (s 9) and blackmail (ss 21, 34). Fraud Act 2006 covers fraud (ss 2, 5, 11). Theft Act 1978 covers making off without payment (s 3). Criminal Damage Act 1971 covers criminal damage (s 1)." loading="lazy">
+  <figcaption>Each property offence belongs to a named Act and section; do not mix up the 1968 and 1978 Theft Acts.</figcaption>
+</figure>
+
 ## General defences
 
 **Duress of threats**: a threat of death or serious injury; the *R v Graham* [1982] two-stage test (was D compelled by a reasonable belief in the threat, and would a sober person of reasonable firmness have responded the same way?); not available to murder (*R v Howe* [1987]) or attempted murder (*R v Gotts* [1992]); lost where D voluntarily associated with criminals (*R v Hasan* [2005]). **Duress of circumstances** applies the same test to danger from a situation (*R v Willer* [1986]; *R v Martin* [1989]).
 
 **Intoxication**: voluntary intoxication is no defence to basic-intent offences (*DPP v Majewski* [1977]) but can negate specific intent; "Dutch courage" defeats it (*Attorney General for Northern Ireland v Gallagher* [1963]). Involuntary intoxication helps only if D did not form *mens rea*: an intoxicated intent is still intent (*R v Kingston* [1994]); taking a sedative that has an unexpected effect may count (*R v Hardie* [1985]).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-criminal-offender--04-duress-intoxication.webp" width="900" height="683" alt="Duress of threats: a threat of death or serious injury, then the two-stage Graham test, subjective then objective. It is not available for murder (Howe) or attempted murder (Gotts) and is lost on voluntary association with criminals (Hasan); duress of circumstances uses the same test. Intoxication: voluntary is no defence to basic intent (Majewski); involuntary helps only if mens rea was not formed (Kingston, Hardie)." loading="lazy">
+  <figcaption>Duress needs both Graham stages and never covers murder; intoxication rarely helps if intent was formed.</figcaption>
+</figure>
 
 ## Sentencing
 
@@ -111,6 +141,11 @@ The **Criminal Justice Act 2003** framework, now consolidated in the Sentencing 
 
 Courts consider seriousness (culpability and harm), aggravating factors (previous convictions; hostility based on race or religion), mitigating factors, and a reduction of up to one third for an early guilty plea.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-criminal-offender--05-sentencing.webp" width="900" height="694" alt="Four sentence types stacked from most to least severe: custody (only where nothing less can be justified, may be suspended), community orders with requirements, fines set by seriousness and means, and conditional or absolute discharges. Below, the court considers seriousness, aggravating and mitigating factors, and up to one third off for an early guilty plea." loading="lazy">
+  <figcaption>Custody is the last resort; seriousness, aggravation, mitigation and plea set the level.</figcaption>
+</figure>
+
 ## Worked example: a burglary scenario
 
 *Owen enters a neighbour's garage through an unlocked door, meaning to take a bicycle. He finds the owner inside and pushes her over to get away, without taking anything.*
@@ -119,6 +154,11 @@ Courts consider seriousness (culpability and harm), aggravating factors (previou
 2. **Building or part of one?** A garage is a building.
 3. **Intent on entry?** He intended to steal: s 9(1)(a) burglary is complete on entry.
 4. **Robbery?** No theft occurred, so no robbery (*Robinson*); consider an assault offence for the push.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-criminal-offender--06-burglary-scenario.webp" width="900" height="682" alt="The two routes to burglary: s 9(1)(a), entering as a trespasser with intent, complete on entry; and s 9(1)(b), committing an offence after entering as a trespasser. Four steps apply them to Owen: he is a trespasser, a garage is a building, he intended to steal so s 9(1)(a) is complete, and there is no robbery because nothing was stolen." loading="lazy">
+  <figcaption>Intent at the moment of entry completes s 9(1)(a); no theft means no robbery.</figcaption>
+</figure>
 
 ## Common mistakes
 

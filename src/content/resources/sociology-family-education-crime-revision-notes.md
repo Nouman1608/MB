@@ -54,6 +54,11 @@ will prepare in depth. The layout is fixed: Question 1 is always Family, Questio
 Question 3 Crime, each worth 40 marks with six parts (a)–(f). Cambridge expects two topics to be
 taught; a working knowledge of a third is only a safety net.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-family-education-crime--07-paper-2-structure.webp" width="900" height="430" alt="Question 1 is always Family, Question 2 Education and Question 3 Crime, deviance and social control; each is worth 40 marks with parts (a) to (f). Candidates answer two of the three." loading="lazy">
+  <figcaption>Each question is fixed to one topic, so choose your two topics early.</figcaption>
+</figure>
+
 ## Family — one mechanism per perspective
 
 | Perspective | Mechanism to name |
@@ -74,6 +79,11 @@ belong to changing roles of children (4.3.5), not to the effects of an ageing po
 Six named family structures: nuclear, extended, reconstituted, lone parent, empty nest, childless —
 know how each varies by culture, class and ethnicity before moving to perspectives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-family-education-crime--02-family-change-chain.webp" width="900" height="634" alt="Falling birth rates and rising life expectancy lead to an ageing population, which helps explain beanpole families, the sandwich generation and changing grandparent roles. Boomerang children belong instead to the changing roles of children. Below, the New Right see family diversity as dysfunction and postmodernists see it as choice." loading="lazy">
+  <figcaption>Connect each cause to its effects, and keep boomerang children in the right box.</figcaption>
+</figure>
+
 ## Education — the hidden curriculum first
 
 The **hidden curriculum** (norms, values, punctuality, conformity taught without being named as
@@ -92,6 +102,16 @@ categorise or compare:
 - **Cultural**: e.g. cultural capital, linguistic factors.
 - **In-school**: e.g. labelling, pro-/anti-school subcultures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-family-education-crime--03-achievement-explanation-types.webp" width="900" height="474" alt="Three types of explanation for differences in achievement: material (such as access to digital technology), cultural (cultural capital and linguistic factors) and in-school (labelling and pro- and anti-school subcultures). Below, the hidden curriculum is applied to school uniform policies teaching conformity." loading="lazy">
+  <figcaption>Be ready to sort explanations into material, cultural and in-school.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-1--02-hidden-curriculum.webp" width="900" height="632" alt="Four rows linking how school is organised to what pupils learn: grades and prizes teach respect for authority and competition; bells and registers teach punctuality; uniforms, queuing and rules teach conformity; different expectations of boys and girls teach gender roles." loading="lazy">
+  <figcaption>Bells, uniforms and prizes teach lessons no timetable lists.</figcaption>
+</figure>
+
 ## Crime, deviance and social control
 
 **Foundational distinction, always tested**: crime breaks the law; deviance breaks social norms. They
@@ -105,6 +125,16 @@ societies, cultures and time.
 **Eleven named crime types** (ready vocabulary for classifying exam stimulus material): violent,
 property, white-collar/corporate, expressive, instrumental, gang, green, organised/global, cyber,
 hate, domestic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-family-education-crime--04-crime-and-deviance.webp" width="900" height="612" alt="Two overlapping circles. Deviance is behaviour that breaks social norms; crime is behaviour that breaks the law. They overlap, but some deviance is not criminal, and both are relative across societies, cultures and time." loading="lazy">
+  <figcaption>Crime and deviance overlap but are not the same, and both are relative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-family-education-crime--05-control-agencies-crime-types.webp" width="900" height="563" alt="Formal agencies of social control (police, courts, armed forces, government, penal system) beside informal agencies (family, education, workplace, peer group, media, religion), followed by the eleven named crime types, with organised/global, cyber, hate and domestic crime highlighted." loading="lazy">
+  <figcaption>Learn the control agencies as a paired list and classify crimes with the eleven types.</figcaption>
+</figure>
 
 ## Exam traps
 
@@ -121,6 +151,11 @@ Construct a single three-column table — functionalist / Marxist / feminist —
 mechanism per cell, per topic you choose to prepare. This table transfers directly into exam answers
 across Family, Education, and (where perspectives are examined) Crime, rather than needing three
 separate revision structures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-family-education-crime--08-perspectives-table.webp" width="900" height="498" alt="A table with Family and Education as rows and functionalist, Marxist and feminist as columns. Family: warm bath theory, unit of consumption, conjugal roles and domestic division of labour. Education: meritocracy and role allocation, cultural capital and the myth of meritocracy, patriarchal curriculum and gendered subject choice." loading="lazy">
+  <figcaption>Fill every cell with a specific mechanism; the table transfers straight into exam answers.</figcaption>
+</figure>
 
 ## Why Paper 1 knowledge is assumed throughout Paper 2
 
@@ -143,6 +178,11 @@ them). Recognising this shared structure means that once you have mastered how t
 perspectives question in Family, the same approach — name the perspective, state its specific
 mechanism, apply it to the scenario — transfers directly to Education and, where perspectives are
 examined, to Crime as well.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-family-education-crime--01-pattern-of-every-topic.webp" width="900" height="485" alt="Three steps shared by every Paper 2 topic: factual content, then perspectives (functionalist, Marxist, feminist), then change and explanation. Below, Paper 1 builds the toolkit of methods and perspectives, and Paper 2 applies it; each paper is worth 50%." loading="lazy">
+  <figcaption>Facts, then perspectives, then change: the same route through Family, Education and Crime.</figcaption>
+</figure>
 
 ## One more link worth making: education and crime
 

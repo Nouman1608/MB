@@ -44,6 +44,11 @@ The study route to a career belongs to Topic 3,
 [Education post-16](/resources/oxfordaqa-igcse-urdu-language-9264-education-post-16/). Here the
 focus is on the work itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-jobs-career-choices--01-topic-map.webp" width="900" height="776" alt="Four strands of the topic, each with Urdu words: part-time work and work experience (جز وقتی ملازمت, کام کا تجربہ, گاہک), professions (ڈاکٹر, وکیل, صحافی), career choices (تنخواہ, ذمہ داری, محنتی) and ambitions (پیشہ, ہنر / مہارت, کاروبار)." loading="lazy">
+  <figcaption>Work now, professions, what matters in a job, and ambitions; study routes belong to Topic 3.</figcaption>
+</figure>
+
 ## Where this fits in 9264
 
 This topic has no separate paper. It can be tested in Paper 1 (Reading, Grammar and Meaning), which
@@ -100,6 +105,11 @@ A career ambition needs a justification: میں نرس بننا چاہتی ہو�
 - مجھے امید ہے کہ میں ایک دن اپنا کاروبار شروع کروں گی۔ (I hope I will start my own business one
   day.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-jobs-career-choices--02-banna-vs-banana.webp" width="900" height="716" alt="بننا means to become and بنانا means to make. میں ڈاکٹر بننا چاہتا ہوں and میں صحافی بننا چاہتی ہوں are correct; میں ڈاکٹر بنانا چاہتا ہوں means &quot;I want to make a doctor&quot;. An ambition then needs a reason with کیونکہ." loading="lazy">
+  <figcaption>بننا چاہنا for an ambition, with چاہتا or چاہتی to match the speaker, plus a reason.</figcaption>
+</figure>
+
 ## Worked example 1: part-time work and an ambition
 
 Task (original): *Write about work. Describe a part-time job or work experience, say what you
@@ -128,6 +138,11 @@ priority (comparison)     ... سے زیادہ اہم یہ ہے کہ ... لگے
 
 The ambition links back to the part-time job (talking to people), and the closing comparison shows
 a considered view of what makes a good career.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-jobs-career-choices--04-model-paragraph-anatomy.webp" width="900" height="664" alt="Four moves in the model answer, each with its Urdu frame: a present routine with جہاں, what was learned (اس کام سے میں نے سیکھا ہے کہ), an ambition with a reason (صحافی بننا چاہتا ہوں کیونکہ), and a priority comparison (سے زیادہ اہم یہ ہے کہ)." loading="lazy">
+  <figcaption>Routine, lesson learned, justified ambition, considered priority.</figcaption>
+</figure>
 
 ## Worked example 2: translating into Urdu
 
@@ -165,6 +180,11 @@ How to get there:
 3. The cooking classes are what she does now, not her ambition. An answer that gives "cooking
    classes" as the ambition misreads the time frame and loses the mark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-jobs-career-choices--05-fact-opinion-aspiration.webp" width="900" height="750" alt="The reading text split into clauses: a fact (she works in a bank), the advantage (good pay), the disadvantage after لیکن (the work is boring), what she does now after اس لیے (cooking classes, a trap) and the ambition (her own restaurant one day)." loading="lazy">
+  <figcaption>Separate what someone does now from what they hope to do.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **بنانا for بننا.** میں ڈاکٹر بنانا چاہتا ہوں means "I want to make a doctor".
@@ -175,6 +195,11 @@ How to get there:
   study route is fine, but it should not take over.
 - **ملازمت and نوکری register.** Both mean "job"; ملازمت is slightly more formal and suits
   formal writing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-jobs-career-choices--03-work-time-frames.webp" width="900" height="800" alt="Four Urdu sentences: a present routine in an uncle’s shop, one past work-experience event with میں نے, repeated past tasks in the habitual past without نے (وہاں میں فون سنتی تھی), and a condition about becoming a doctor. میں نے فون سنتی تھی is wrong." loading="lazy">
+  <figcaption>Use نے for one completed transitive event, never for the habitual past.</figcaption>
+</figure>
 
 ## Exam technique
 

@@ -65,6 +65,11 @@ A reader who opens an argument knows nothing yet. They do not know who is speaki
 
 A useful way to hold this: an introduction is a **doorway**. A good doorway is not a room of its own. It frames what is inside and invites you through.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-1-introductions-study-guide--01-introduction-as-doorway.webp" width="900" height="602" alt="A doorway frames “the argument” inside, with an arrow for the reader walking in. Three labels point at the door: orient (introduce the subject and conversation), engage (give a reason to keep reading) and focus (point toward the claim)." loading="lazy">
+  <figcaption>Orient, engage, focus: a doorway, not a room of its own.</figcaption>
+</figure>
+
 ## The strategies available to a writer
 
 An introduction can use one strategy or combine several. The course framework lists them as: presenting the **thesis**, a **quotation**, an **intriguing statement**, an **anecdote**, a **question**, a **statistic or data**, **contextualised information** or a **scenario**. The table shows what each does well, and what it risks.
@@ -82,6 +87,11 @@ An introduction can use one strategy or combine several. The course framework li
 
 None of these is "correct". Each has a rhetorical effect, and the effect either suits the situation or it does not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-1-introductions-study-guide--02-eight-opening-strategies.webp" width="900" height="559" alt="Eight cards for opening strategies, each with what it does well and what can go wrong: thesis first, quotation, intriguing statement, anecdote, question, statistic or data, contextual information and scenario." loading="lazy">
+  <figcaption>No opening is correct in itself; its effect must suit the situation.</figcaption>
+</figure>
+
 ## Choosing by rhetorical situation
 
 The test of an introduction is the **rhetorical situation** from Unit 1: who is the audience, what is the writer's purpose, and what is the moment (context and exigence)? Two writers can argue the same claim and open in opposite ways, both correctly.
@@ -97,6 +107,11 @@ The question to ask is never "which strategy is fanciest?" but "what does *this*
 ### Reading an introduction
 
 When you read an argument you are asked to describe what an introduction does and why. Name the strategy, then name its **effect on the audience** in terms of orienting, engaging or focusing. "The writer opens with a question" is a label. "The writer opens with a question that places the reader in the position of the people the argument is about, so they feel the stakes before the claim arrives" is an analysis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-1-introductions-study-guide--03-one-claim-three-openings.webp" width="900" height="560" alt="One claim, schools should start later, opened three ways: for a school board, context and a statistic about bus routes; for parents, a scenario of a tired teenager at 6:30 a.m.; for science-minded readers, an intriguing statement about body clocks followed by the thesis." loading="lazy">
+  <figcaption>Choose the opening by what this audience needs before it can listen.</figcaption>
+</figure>
 
 ## Weak and strong introductions side by side
 
@@ -119,6 +134,11 @@ Imagine the writing task: *Argue whether school should start later in the mornin
 | Wasted words | "In this essay I will..." | None; each sentence does one job |
 
 Notice what the weak version does wrong in the framework's own terms. It orients only vaguely, gives the reader no reason to care, and tells the reader what the essay will do rather than what it will argue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-1-introductions-study-guide--04-weak-vs-strong-introduction.webp" width="900" height="564" alt="The weak introduction (“Since the beginning of time... In this essay I will discuss both sides”) beside the strong one (a bus driver at 6:40 on a January morning, body clocks, and a clear claim). A scorecard compares how each orients, engages, focuses and wastes words." loading="lazy">
+  <figcaption>The strong version orients with a scene, engages with a reframing and ends on a claim.</figcaption>
+</figure>
 
 ## Worked example 1: rewriting an introduction for a stated audience
 
@@ -165,6 +185,11 @@ Susan B. Anthony delivered a speech in 1873 after she was indicted for voting in
 **Step 3: Link to the argument.** Anthony states her purpose a little later in the same speech, saying it will be her work that evening to prove that in voting she "simply exercised" her rights as a citizen. The opening is built so that this thesis arrives as the answer to a problem the audience already feels.
 
 **Step 4: Write the analysis sentence.** *Anthony begins with her indictment so that her audience, before hearing a single argument, sees a citizen being punished for an act she will go on to defend as her right, which gives her thesis its urgency.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-1-introductions-study-guide--05-anthony-opening-jobs.webp" width="900" height="534" alt="Anthony’s opening sentence divided into parts: “I stand before you tonight under indictment” orients; “the alleged crime of having voted” engages, with “alleged” signalling a contest; “without having a lawful right to vote” focuses on the question the speech will answer. Her thesis that she “simply exercised” her rights follows later." loading="lazy">
+  <figcaption>Name the strategy, then its effect: orienting, engaging or focusing.</figcaption>
+</figure>
 
 ## Common misconceptions
 

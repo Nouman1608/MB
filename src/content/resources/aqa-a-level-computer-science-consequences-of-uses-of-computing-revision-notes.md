@@ -63,6 +63,11 @@ be the scenario.
 
 For each lens, give an **opportunity** and a **risk**, and say **who** is affected.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide--12-four-headings.webp" width="900" height="850" alt="Four boxes: individual (moral), what is right or wrong for a person; social (ethical), effects on groups and society; legal, what the law allows and where it lags; cultural, ways of life and values that differ by place. For each give an opportunity, a risk and who is affected." loading="lazy">
+  <figcaption>Organise issues under individual, social, legal and cultural headings.</figcaption>
+</figure>
+
 ## The three capacities the specification names
 
 1. **Monitoring behaviour** -- CCTV with facial recognition, location tracking from phones, employer
@@ -76,6 +81,11 @@ For each lens, give an **opportunity** and a **risk**, and say **who** is affect
    companies, leaks. *Opportunity:* communication, journalism, whistleblowing. *Risk:* information is
    copied instantly and worldwide and is very hard to remove.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide--13-three-capacities.webp" width="900" height="950" alt="Three capacities computing has transformed: monitoring behaviour (CCTV, location, online activity), amassing and analysing personal information (targeting ads, deciding loans and jobs) and distributing and publishing personal information (worldwide at once, hard to remove)." loading="lazy">
+  <figcaption>Computing has transformed how behaviour is monitored, data is analysed and information is published.</figcaption>
+</figure>
+
 ## Power, values and scale
 
 - **Power and responsibility**: the person who writes the algorithm decides how it treats everyone who
@@ -85,6 +95,16 @@ For each lens, give an **opportunity** and a **risk**, and say **who** is affect
   Biased training data produces biased decisions.
 - **Scale**: one change can reach millions of users at once. A small error or a harmful design is
   multiplied; so is a beneficial one (free education, translation, accessibility tools).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide--14-embedded-values.webp" width="900" height="830" alt="A designer chooses what the software measures, what it optimises and who it was tested on. These choices go into the software, so a design acceptable in one culture may not be in another." loading="lazy">
+  <figcaption>Software carries the values of the people who design it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide--15-scale-good-harm.webp" width="900" height="950" alt="A small team makes one decision in software that reaches millions of users. This can do great good (free access to information, medical tools) or great harm (a security flaw, a biased algorithm, a feature that spreads misinformation)." loading="lazy">
+  <figcaption>At global scale one decision can do great good or great harm.</figcaption>
+</figure>
 
 ## Why is legislating for computing hard?
 
@@ -102,6 +122,11 @@ accurately strengthens a legal point): the Data Protection Act 2018 (personal da
 Act 1990 (unauthorised access), the Copyright, Designs and Patents Act 1988 (copying creative work and
 software) and the Regulation of Investigatory Powers Act 2000 (interception and surveillance by public
 bodies). Always say **what** the law requires, not just its name.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide--16-legislator-challenges.webp" width="900" height="850" alt="Six challenges: pace of change, jurisdiction, enforcement, balancing rights, technical understanding and unforeseen uses, each with a short reason from the lesson table." loading="lazy">
+  <figcaption>Six challenges make it hard for law to keep up with technology.</figcaption>
+</figure>
 
 ## Worked example: planning an extended answer
 
@@ -123,6 +148,11 @@ Judgement                       Acceptable only with clear limits, accuracy test
 ```
 
 Each point: **state it, explain the consequence, link to the scenario**. Finish with a supported judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide--17-answer-plan.webp" width="900" height="870" alt="Six steps for the hospital AI example: opportunity (social), risk (ethical), risk (moral), legal, cultural, then a conclusion with a judgement, each with a short point from the lesson." loading="lazy">
+  <figcaption>Plan one point per paragraph, then weigh both sides in a conclusion.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

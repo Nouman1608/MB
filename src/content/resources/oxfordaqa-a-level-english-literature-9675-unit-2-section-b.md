@@ -51,6 +51,11 @@ Version 5.3 lists four poets, each with a named selection:
 Learn the full list for your poet from the specification; set texts can change between versions,
 and a revised 9675 for teaching from 2027 has a refreshed list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-b--01-four-selections.webp" width="900" height="700" alt="Four cards show the poets and the size of each selection: Wordsworth 8 poems, Frost 12, Hardy 15 and Heaney 15, each drawn as a row of dots, with four of the named poems listed for each poet." loading="lazy">
+  <figcaption>One poet’s selection, of 8 to 15 poems, is your set text.</figcaption>
+</figure>
+
 ## How poems make place
 
 A novel can describe a place over pages; a poem does it in a few lines, so every choice is
@@ -77,6 +82,11 @@ Hardy's "Channel Firing" sets naval gunnery against a quiet churchyard.
 experienced. A tightly rhymed form can contain a wild landscape; a loose form can mirror a mind
 moving through it. Line breaks and enjambment can trace a path or a view.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-b--02-how-poems-make-place.webp" width="900" height="608" alt="A table of five methods with examples: naming (Anahorish; Hardy’s Cornish titles), the speaker’s position (Tintern Abbey; Composed Upon Westminster Bridge), time layered on place (Hardy’s 1912–13 poems), nature and its despoliation (A Brook in the City; Channel Firing), and form." loading="lazy">
+  <figcaption>Names, position, time, nature and form concentrate a place into a few lines.</figcaption>
+</figure>
+
 ## Place as more than landscape
 
 The specification's angles show that place in poetry is often social and political:
@@ -89,6 +99,11 @@ The specification's angles show that place in poetry is often social and politic
 - **History in the ground**: Heaney's bog poems, in which preserved bodies link Iron Age Jutland to
   violence in Northern Ireland; "Requiem for the Croppies", on the 1798 rebellion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-b--03-more-than-landscape.webp" width="900" height="432" alt="A hub labelled place links to four social and political angles with examples: home and homeland (Michael; Heaney’s Derry childhood), relationships (Mending Wall; Hardy’s places of courtship), political space (The Toome Road; Act of Union) and history in the ground (the bog poems; Requiem for the Croppies)." loading="lazy">
+  <figcaption>In poetry, place is often social, personal and political as well as physical.</figcaption>
+</figure>
+
 ## Writing about a selection
 
 Because you have studied a body of poems, the strongest essays usually range across more than one.
@@ -98,6 +113,11 @@ show different aspects of the question rather than repeating one point.
 
 Make your comparisons purposeful: link poems by method (both use place-names) or by idea (both
 present home as lost), then show the difference within the similarity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-b--04-writing-about-a-selection.webp" width="900" height="675" alt="Two full poem sheets are linked by a double arrow for in-depth analysis, with a smaller third sheet for brief reference. Below, comparisons link poems by method or idea, then show the difference within the similarity." loading="lazy">
+  <figcaption>Two poems in depth and a third briefly, linked with purpose.</figcaption>
+</figure>
 
 ## Worked example on an original poem
 
@@ -125,6 +145,11 @@ statement into a refusal: the past remains in the place but cannot be re-entered
 Use the same moves on your poet: position and time, method and form, and what the place finally
 means.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-b--05-the-ford.webp" width="900" height="629" alt="The seven lines of the original poem The Ford are shown with rhyme letters: a, b, a, b, c, then an unrhymed ford, then c. Notes say the form marks the loss and the final monosyllables make a refusal. A table contrasts then and now: a shared ford with loud water and no explanation against a solitary bridge, a quieter river and an official plaque." loading="lazy">
+  <figcaption>Two crossings of one river set private memory against public history.</figcaption>
+</figure>
+
 ## A plan using a set selection
 
 **Question shape (original):** "In the poems, places matter because of the people who are absent
@@ -147,6 +172,11 @@ from them." Explore this view of Hardy's poems.
 
 The plan names poems precisely, gives each a distinct role, and includes a poem that tests the
 view.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-b--06-hardy-plan.webp" width="900" height="644" alt="A balance tips towards the view. Supporting it: At Castle Boterel, where the road is valued for once holding the couple, and Beeny Cliff, where the landscape outlives the absent person. Testing it: Channel Firing, where the dead are present. The conclusion says the view is largely true of the 1912–13 poems and that Hardy’s places matter most when they outlast people." loading="lazy">
+  <figcaption>Give each poem a distinct role, including one that tests the view.</figcaption>
+</figure>
 
 ## Common mistakes
 

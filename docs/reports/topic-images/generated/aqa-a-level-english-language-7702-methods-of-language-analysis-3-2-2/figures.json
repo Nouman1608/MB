@@ -1,0 +1,74 @@
+[
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--01-three-jobs.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## Three jobs for the methods",
+  "alt": "Three columns for the three jobs: identifying and describing features of diversity and change, researching diversity and change through dictionaries, corpora, surveys and research, and analysing how texts present ideas about language. Each shows what it looks like and where it pays off in Paper 2.",
+  "caption": "The same six levels, used for three different jobs in Paper 2.",
+  "bytes": 131452
+ },
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--02-accent-and-respelling.webp",
+  "width": 900,
+  "height": 560,
+  "after": "## Job 1: describing diversity and change precisely",
+  "alt": "Left: accent features named by the sound involved, including h-dropping, TH-fronting, the glottal stop for /t/, and rhotic versus non-rhotic accents. Right: when accent is shown in spelling, a respelling that changes the pronunciation is phonetic respelling, while one that does not, such as \"wuz\" for \"was\", is eye dialect.",
+  "caption": "Name the sound, and distinguish phonetic respelling from eye dialect.",
+  "bytes": 84648
+ },
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--03-grammar-labels.webp",
+  "width": 900,
+  "height": 634,
+  "after": "## Job 1: describing diversity and change precisely",
+  "alt": "Six descriptive labels with the lesson's examples: multiple negation, levelled past tense of BE, non-standard past forms, zero plural after numbers, second-person plural pronouns, and older forms such as -eth endings, thou and thee, and the absence of do-support.",
+  "caption": "Describe dialect and older grammar with labels, not as errors.",
+  "bytes": 93102
+ },
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--04-dialect-utterance.webp",
+  "width": 900,
+  "height": 706,
+  "after": "## Worked example: describing a dialect utterance",
+  "alt": "The lesson's constructed sentence \"We was sat there for ages and there weren't nobody about, so we come home\" with four features highlighted: levelled past tense of BE, \"sat\" for \"sitting\", multiple negation with levelled \"weren't\", and \"come\" as a past tense. Three steps below: describe the grammar, compare with Standard English, place it as a regular pattern.",
+  "caption": "Each feature is a regular pattern of a variety, described precisely, not an error.",
+  "bytes": 110826
+ },
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--05-research-sources.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## Job 2: researching diversity and change",
+  "alt": "Five research sources, each with what it tells you and a caution: historical dictionaries, corpora, frequency tools across books, dialect surveys such as the 1950s Survey of English Dialects, and research findings.",
+  "caption": "Every source answers a different question, and each has a limit to state.",
+  "bytes": 111068
+ },
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--06-normalised-frequency.webp",
+  "width": 900,
+  "height": 615,
+  "after": "## Job 2: researching diversity and change",
+  "alt": "The formula for normalised frequency, raw count divided by corpus size in words, multiplied by one million, with the lesson's hypothetical example: 50 occurrences in a 2-million-word corpus is 25 per million. Concordance lines show each occurrence in context and collocates show habitual word partners.",
+  "caption": "Normalise counts per million words before comparing corpora of different sizes.",
+  "bytes": 75994
+ },
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--07-real-and-apparent-time.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## Job 2: researching diversity and change",
+  "alt": "A real-time study compares the same community at two dates. An apparent-time study compares older, middle and younger speakers at one date, assuming older speakers preserve earlier usage. A caution notes that age-group differences may instead be age grading.",
+  "caption": "Real time compares dates; apparent time compares age groups and risks confusing change with age grading.",
+  "bytes": 77412
+ },
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--08-reading-stance.webp",
+  "width": 900,
+  "height": 675,
+  "after": "## Job 3: analysing how texts present ideas about language",
+  "alt": "Modal verbs of obligation such as \"should\" and \"must\" signal prescriptive views, while hedged claims such as \"may\" and \"research suggests\" signal descriptive ones. Further clues are listed by level: evaluative lexis and metaphors, generic noun phrases, presuppositions and irony, the structure of the argument, and graphology that ridicules quoted errors.",
+  "caption": "The language a writer uses about language reveals their stance.",
+  "bytes": 120030
+ }
+]

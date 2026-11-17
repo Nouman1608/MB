@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-igcse-physics-0625-general-properties-of-waves-cambridge-igcse-physics--01-describing-a-wave.webp",
+  "width": 900,
+  "height": 780,
+  "after": "## Describing a wave",
+  "alt": "A transverse wave drawn against a dashed rest position, with crests and a trough marked. The wavelength is the distance between neighbouring crests and the amplitude is from the rest position to a crest. Below, straight wavefronts seen from above are one wavelength apart.",
+  "caption": "Wavelength is crest to neighbouring crest; amplitude is rest position to crest.",
+  "bytes": 54886
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-general-properties-of-waves-cambridge-igcse-physics--02-wave-equation-counting.webp",
+  "width": 900,
+  "height": 616,
+  "after": "## The wave equation",
+  "alt": "Ten wavefronts span 18 cm with nine gaps between them, so λ = 2.0 cm = 0.020 m and, at 12 Hz, v = 12 × 0.020 = 0.24 m/s. Other examples: sound at 340 m/s and 680 Hz has λ = 0.50 m; radio of λ 3.0 m has f = 1.0 × 10⁸ Hz; water waves of 0.25 Hz and 20 m travel at 5.0 m/s.",
+  "caption": "n wavefronts have n − 1 gaps; then v = fλ in m, Hz and m/s.",
+  "bytes": 58054
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-general-properties-of-waves-cambridge-igcse-physics--03-transverse-longitudinal.webp",
+  "width": 900,
+  "height": 740,
+  "after": "## Transverse and longitudinal waves",
+  "alt": "A transverse wave on a rope: each point vibrates up and down, at right angles to the direction the wave travels; examples are electromagnetic radiation, water waves and seismic S-waves. A longitudinal wave on a spring: each coil vibrates back and forth along the direction of travel; examples are sound and seismic P-waves.",
+  "caption": "Transverse: vibration across the direction of travel. Longitudinal: along it.",
+  "bytes": 82902
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-general-properties-of-waves-cambridge-igcse-physics--04-reflection-refraction.webp",
+  "width": 900,
+  "height": 742,
+  "after": "## Reflection, refraction and diffraction",
+  "alt": "Left: straight wavefronts hit a plane barrier and reflect at the same angle on the other side of the normal, with speed, wavelength and frequency unchanged. Right: wavefronts entering shallower water slow down, so they are closer together and change direction; the frequency stays the same. At 12 Hz the wavelength is 2.0 cm in deep water (0.24 m/s) and 1.5 cm in shallow water (0.18 m/s).",
+  "caption": "Reflection changes only direction; refraction changes speed and wavelength, not frequency.",
+  "bytes": 124498
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-general-properties-of-waves-cambridge-igcse-physics--05-diffraction-gap-edge.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## Reflection, refraction and diffraction",
+  "alt": "Three plan views of straight water wavefronts. Through a gap about one wavelength wide they spread into nearly semicircular wavefronts. Through a gap much wider than the wavelength they pass mostly straight with slight spreading at the edges. Past a single edge they curve round into the shadow region. The spacing of the wavefronts stays the same.",
+  "caption": "Diffraction is greatest when the gap is about the size of the wavelength.",
+  "bytes": 102716
+ }
+]

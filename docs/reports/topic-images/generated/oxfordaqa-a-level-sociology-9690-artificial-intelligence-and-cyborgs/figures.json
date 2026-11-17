@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--01-how-ai-works.webp",
+  "width": 900,
+  "height": 748,
+  "after": "## Differences between types of AI: a fuller picture",
+  "alt": "A grid comparing rule-based AI, machine learning and deep learning by how each works, an example, where bias comes from and a weakness. A note separates narrow AI, which exists, from AGI and hypothetical superintelligence.",
+  "caption": "Rule-based systems carry their authors’ biases; learning systems carry the biases in their data.",
+  "bytes": 164160
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--02-algorithm-cases.webp",
+  "width": 900,
+  "height": 689,
+  "after": "## Algorithms: power and inequality",
+  "alt": "Four cases: COMPAS risk scores in US courts, Amazon’s abandoned hiring tool, England’s 2020 A-level grading algorithm and the Dutch childcare benefits scandal, with Benjamin’s New Jim Code and Pasquale’s black box.",
+  "caption": "Each case shows past inequality fed into a system that looked neutral.",
+  "bytes": 161984
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--03-feedback-loop.webp",
+  "width": 900,
+  "height": 809,
+  "after": "## Algorithms: power and inequality",
+  "alt": "A cycle: a prediction flags an area, more officers are sent, more crime is recorded there, and the new data confirms the prediction. A note weighs auditing against scale and opacity.",
+  "caption": "The prediction produces the data that seems to prove it right.",
+  "bytes": 105980
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--04-jobs-debate.webp",
+  "width": 900,
+  "height": 506,
+  "after": "## The extent of AI use and its effects",
+  "alt": "Frey and Osborne’s 2013 estimate that 47% of US jobs were at high risk looked at whole occupations; later task-based studies gave much lower estimates because most jobs mix tasks machines can and cannot do.",
+  "caption": "Whether you count jobs or tasks changes the answer.",
+  "bytes": 86644
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--05-hidden-costs.webp",
+  "width": 900,
+  "height": 577,
+  "after": "## The extent of AI use and its effects",
+  "alt": "Mined minerals, energy-hungry data centres, cheap labour and data taken from users all feed an apparently automated AI service. Crawford calls AI an extractive industry; Gray and Suri describe the hidden ghost work of data labelling.",
+  "caption": "Behind “automated” services sit material costs and hidden human labour.",
+  "bytes": 80644
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--06-human-machine.webp",
+  "width": 900,
+  "height": 569,
+  "after": "## Merging human and machine",
+  "alt": "Examples of human-machine merging: pacemakers, cochlear implants, deep brain stimulation and prosthetics; Warwick’s 1998 chip; Neuralink’s 2024 implant. A note explains Deaf community objections and contrasts transhumanism with posthumanism.",
+  "caption": "Whether a device repairs or enhances depends on who defines “normal”.",
+  "bytes": 123442
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs--07-timeline.webp",
+  "width": 900,
+  "height": 837,
+  "after": "## Robots and cyborgs",
+  "alt": "A timeline from Turing’s 1950 imitation game and the 1956 Dartmouth workshop, through the 1958 pacemaker, the 1961 Unimate robot, 1980s expert systems and Warwick’s 1998 implant, to public chatbots in late 2022 and Neuralink in 2024.",
+  "caption": "AI and human-machine merging both have long histories.",
+  "bytes": 138276
+ }
+]

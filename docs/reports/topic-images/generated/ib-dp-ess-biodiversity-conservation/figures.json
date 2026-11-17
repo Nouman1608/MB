@@ -1,0 +1,65 @@
+[
+ {
+  "file": "ib-dp-ess-biodiversity-conservation--01-three-levels-of-biodiversity.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## 3.1 Biodiversity and evolution",
+  "alt": "Three zoomed panels. A landscape with forest, pond and meadow shows habitat diversity; a close-up of the meadow with many kinds of flowers and insects shows species diversity; a close-up of one insect species whose individuals differ shows genetic diversity.",
+  "caption": "Biodiversity is measured at habitat, species and genetic levels, and the levels are linked.",
+  "bytes": 101340
+ },
+ {
+  "file": "ib-dp-ess-biodiversity-conservation--02-richness-evenness-meadows.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## 3.1 Biodiversity and evolution",
+  "alt": "Bar charts of two meadows, each with five species and 40 individuals. Meadow P has 12, 10, 8, 6 and 4 individuals and a diversity index of 4.88. Meadow Q has 30, 4, 3, 2 and 1 and an index of 1.75, because species A dominates.",
+  "caption": "Evenness raises the index: a site dominated by one species is less diverse.",
+  "bytes": 71748
+ },
+ {
+  "file": "ib-dp-ess-biodiversity-conservation--03-speciation-isolation.webp",
+  "width": 900,
+  "height": 718,
+  "after": "## 3.1 Biodiversity and evolution",
+  "alt": "Four stages. One varied population interbreeds freely. A barrier such as a river splits it and gene flow stops. The two groups face different selection pressures and change. Eventually they can no longer interbreed to produce fertile offspring and are separate species.",
+  "caption": "Speciation needs isolation: once gene flow stops, the populations diverge.",
+  "bytes": 140010
+ },
+ {
+  "file": "ib-dp-ess-biodiversity-conservation--04-iucn-red-list.webp",
+  "width": 900,
+  "height": 665,
+  "after": "## 3.2 Human impact on biodiversity",
+  "alt": "The Red List categories in order of rising extinction risk: Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct, with Data Deficient set apart. Criteria are population size and decline, range size and fragmentation, number of mature individuals and probability of extinction.",
+  "caption": "A steep decline or a tiny range moves a species up the threat scale.",
+  "bytes": 100332
+ },
+ {
+  "file": "ib-dp-ess-biodiversity-conservation--05-flagship-keystone-umbrella.webp",
+  "width": 900,
+  "height": 620,
+  "after": "## 3.3 Conservation and regeneration",
+  "alt": "Three cards. A flagship species is charismatic and attracts support and funding. A keystone species, like the keystone of an arch, has an effect far larger than its numbers. An umbrella species needs a large area, so protecting it shelters many other species.",
+  "caption": "Keystone is about the size of the effect, not numbers or trophic level.",
+  "bytes": 98622
+ },
+ {
+  "file": "ib-dp-ess-biodiversity-conservation--06-core-area-worked-example.webp",
+  "width": 900,
+  "height": 740,
+  "after": "## 3.3 Conservation and regeneration",
+  "alt": "A 4 km by 4 km reserve and four 2 km by 2 km reserves, both 16 square km in total, with edge effects reaching 0.5 km inside each boundary. The single reserve keeps a 9 square km core (56.25%); the four small ones keep 4 square km (25%).",
+  "caption": "Same total land, but one large reserve has more than twice the core area.",
+  "bytes": 76228
+ },
+ {
+  "file": "ib-dp-ess-biodiversity-conservation--07-reserve-design.webp",
+  "width": 900,
+  "height": 735,
+  "after": "## 3.3 Conservation and regeneration",
+  "alt": "Four comparisons. One large reserve keeps more core area than several small ones, though small ones spread risk. Compact shapes have less edge than long thin ones. Corridors link fragments so animals can move and genes flow. A buffer zone with limited human use surrounds the core.",
+  "caption": "Good design maximises core area and keeps fragments connected.",
+  "bytes": 108548
+ }
+]

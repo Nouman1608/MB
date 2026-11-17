@@ -74,6 +74,11 @@ Think of a thesis in three levels of detail:
 
 All three are acceptable. The third gives a reader the clearest expectations, and in a timed essay it tells the reader quickly that the writer has a plan. The choice depends on the length and complexity of the argument. A short essay may do well with a claim and one governing reason. A long argument with several moves benefits from a preview.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-3-thesis-previewing-reasoning-study-guide--01-three-levels-of-thesis.webp" width="900" height="646" alt="Three versions of a thesis on free public transport, each longer than the last: a claim only; a claim with a governing reason (fares work against the purpose of the service); and a claim with a preview of three reasons (fares exclude riders, consume what they raise, keep drivers in cars)." loading="lazy">
+  <figcaption>A preview is an indication of structure, not a table of contents.</figcaption>
+</figure>
+
 ## Preview, announcement and list
 
 It is easy to confuse a preview with two things that look similar but fail.
@@ -90,6 +95,11 @@ Compare the three side by side.
 | Bare list | "Fares, collection and congestion are all relevant to free transport." | Weak: no claim, no relation between the parts |
 | Preview | "Free transport would repair three failures: fares shut out riders who need the service, collecting them eats revenue, and the price of a ticket sends drivers back to their cars." | Strong: a claim with reasons the reader can test |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-3-thesis-previewing-reasoning-study-guide--02-announcement-list-preview.webp" width="900" height="532" alt="Three thesis versions checked against three tests. The announcement (“This essay will look at fares...”) and the bare list fail to take a position, say what the effect is, or offer something to argue with. The preview (“Free transport would repair three failures...”) passes all three." loading="lazy">
+  <figcaption>A preview makes a claim and signals reasons; an announcement and a list do neither.</figcaption>
+</figure>
+
 ## How a preview signals structure
 
 A thesis can signal structure in several ways:
@@ -100,6 +110,11 @@ A thesis can signal structure in several ways:
 - **A sequence of effects:** "first... and finally..." in an analysis of a speech shows the order of the writer's choices.
 
 For a **rhetorical analysis** essay, a thesis may preview the strategies and their effect: "By beginning with a shared memory and then moving to a statistic, the speaker first earns the audience's trust and then makes the demand for change difficult to refuse." This signals two stages in the speech and the writer's reading of their purpose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-3-thesis-previewing-reasoning-study-guide--03-preview-signal-shapes.webp" width="900" height="672" alt="Four small diagrams of how a thesis signals structure: parallel reasons (a claim branching to A, B and C), a progression (rising steps), a contrast or concession (X acknowledged, then Y), and a sequence of effects (first, then, finally). Below, an analysis thesis that previews two stages of a speech." loading="lazy">
+  <figcaption>Reasons, progression, concession or sequence: the thesis tells the reader what shape to expect.</figcaption>
+</figure>
 
 ## Reading a preview
 
@@ -152,6 +167,11 @@ The three body paragraphs begin:
 
 **Step 5: Note what the preview does not do.** It does not list evidence: it does not say what the cost figures are or which insects. A preview need not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-3-thesis-previewing-reasoning-study-guide--04-preview-matches-body.webp" width="900" height="552" alt="The perennials thesis names three reasons, cost, insects and water, each colour-coded and linked by an arrow to the body paragraph that develops it, in the same order, with “first” and “finally” marking the sequence." loading="lazy">
+  <figcaption>Measure each paragraph against the promise the thesis makes.</figcaption>
+</figure>
+
 ## Weak, better and strong theses for an analysis
 
 Suppose the task is to analyse a short speech in which a captain addresses a rowing team before a race (Marlbridge example).
@@ -161,6 +181,11 @@ Suppose the task is to analyse a short speech in which a captain addresses a row
 | Weak | "The captain uses ethos, pathos and logos." | A list of labels; no claim about effect or purpose |
 | Better | "The captain motivates the team by appealing to their emotions." | A claim, but it does not show how or why |
 | Strong | "By starting from what the team has already endured and then turning to what is still to be earned, the captain converts weariness into pride and makes the final push feel like a debt to themselves." | A claim with a preview of the speech's movement and its effect |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-3-thesis-previewing-reasoning-study-guide--05-analysis-thesis-ladder.webp" width="900" height="421" alt="Three thesis versions for analysing a captain’s speech to a rowing team: weak (“uses ethos, pathos and logos”), better (“motivates the team by appealing to their emotions”) and strong (moves from what the team has endured to what is still to be earned, converting weariness into pride)." loading="lazy">
+  <figcaption>A strong analysis thesis previews the speech’s movement and its effect.</figcaption>
+</figure>
 
 ## Common misconceptions
 

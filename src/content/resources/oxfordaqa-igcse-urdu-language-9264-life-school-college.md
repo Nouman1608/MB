@@ -45,6 +45,11 @@ Subjects and your opinions of them belong to Topic 1,
 [My studies](/resources/oxfordaqa-igcse-urdu-language-9264-my-studies/). A task about "your
 school" may draw on both, but a task about rules or facilities wants this topic's vocabulary.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-life-school-college--01-school-as-a-place.webp" width="900" height="776" alt="Four strands with Urdu words: facilities (لائبریری, لیبارٹری, کینٹین), uniform and rules (وردی / یونیفارم, اصول / قواعد, اجازت), routine (اسمبلی, وقفہ, حاضری) and school life (کلب, تعلیمی دورہ, کھیلوں کا دن)." loading="lazy">
+  <figcaption>Facilities, rules, routine and school life; subjects belong to My studies.</figcaption>
+</figure>
+
 ## Where this fits in 9264
 
 Life at school/college has no separate paper. It can be tested in Paper 1 (Reading, Grammar and
@@ -112,6 +117,11 @@ In careful written Urdu, when the action has a feminine object such as وردی,
 پچھلے مہینے ہماری جماعت تعلیمی دورے پر عجائب گھر گئی۔ (Last month our class went on a trip to a
 museum.) گئی is feminine because جماعت (class) is feminine; no نے, because جانا is intransitive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-life-school-college--02-talking-about-rules.webp" width="900" height="730" alt="Four Urdu structures for rules, with glosses: obligation with ہمیں ... پڑنا (ہمیں وردی پہننی پڑتی ہے), prohibition with کی اجازت نہیں ہے, advice with کو ... چاہیے, and a judgement that a rule is مناسب or غیر منصفانہ with کیونکہ." loading="lazy">
+  <figcaption>Must, may not, should, and is it fair: four kinds of rule language.</figcaption>
+</figure>
+
 ## Worked example 1: describing your school and a rule
 
 Task (original): *Write about your school. Describe its facilities, give your opinion of one rule,
@@ -141,6 +151,11 @@ change (conditional)    اگر ... ہوتا تو ... ہوتا
 
 The paragraph uses three different ways of talking about rules (پڑنا, اجازت, a judgement) and
 finishes with a proposal, so it shows range as well as covering the task.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-life-school-college--03-model-paragraph-anatomy.webp" width="900" height="690" alt="Five moves in the model answer with their Urdu: facilities, an obligation with an opinion (ہمیں ... وردی پہننی پڑتی ہے، جو مجھے پسند نہیں کیونکہ), a prohibition (کی اجازت نہیں ہے), a judgement of a rule, and a conditional change (اگر ... ہوتا تو ... ہوتا)." loading="lazy">
+  <figcaption>Obligation, prohibition and judgement, then a proposal for change.</figcaption>
+</figure>
 
 ## Worked example 2: translating into Urdu
 
@@ -176,6 +191,11 @@ How to get there:
 3. چھٹی کے وقت here means "at the end of the school day", not "in the holidays"; the context of
    the daily routine makes this clear.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-life-school-college--04-three-marks-three-points.webp" width="900" height="656" alt="The reading text in three clauses, one mark each: phones are allowed (اجازت ہے), but they must be handed in at the office (لیکن ... جمع کرانا پڑتا ہے), and they are collected at چھٹی کے وقت, the end of the school day rather than the holidays." loading="lazy">
+  <figcaption>Three marks, three points: the permission, the condition and the end of the day.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Subject form with obligation.** ہم وردی پہننی پڑتی ہے is wrong; the person takes کو, so
@@ -188,6 +208,11 @@ How to get there:
 - **چھٹی confusion.** In a reading text, decide from context whether چھٹی means a holiday or the
   end of the day.
 - **نے with جانا.** ہماری جماعت نے عجائب گھر گئی is wrong; جانا never takes نے.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-life-school-college--05-common-mistakes.webp" width="900" height="660" alt="Three corrections: ہم وردی پہننی پڑتی ہے becomes ہمیں وردی پہننی پڑتی ہے; استعمال کرنا کی اجازت becomes استعمال کرنے کی اجازت; ہماری جماعت نے عجائب گھر گئی becomes ہماری جماعت عجائب گھر گئی." loading="lazy">
+  <figcaption>ہمیں with پڑنا, the oblique before کی اجازت, and no نے with جانا.</figcaption>
+</figure>
 
 ## Exam technique
 

@@ -68,6 +68,21 @@ The syllabus defines an **issue** as "an important subject or problem for discus
 - The **World Bank** reported that in 2023 remittances to low- and middle-income countries were larger than both foreign direct investment and official development assistance. This challenges the assumption that aid is the main outside money reaching poorer countries.
 - The collapse of the **Rana Plaza** building, which housed garment factories, in Bangladesh in April 2013 killed more than 1,100 people, most of them garment workers. It raised questions about who is responsible for conditions in export industries: factory owners, the national government, or the international brands that buy the clothes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-development-trade-and-aid--01-kinds-of-aid.webp" width="900" height="720" alt="A tree divides aid by route (bilateral or multilateral), by purpose (humanitarian or development) and by conditions (tied or untied). Below, three trade tools: a tariff is a tax on imports, a quota limits imports, and fair trade certification aims at fairer prices and conditions." loading="lazy">
+  <figcaption>Name the exact kind of aid or trade measure before you judge it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-development-trade-and-aid--02-uk-aid-target.webp" width="900" height="660" alt="Bar chart of UK aid as a share of gross national income against the UN 0.7% target line from a 1970 resolution: 0.7% before 2021, cut to 0.5% in 2021, and an announced cut to 0.3% by 2027 to help pay for higher defence spending." loading="lazy">
+  <figcaption>A national priority can pull against a global commitment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-development-trade-and-aid--03-rana-plaza-responsibility.webp" width="900" height="599" alt="The Rana Plaza collapse in Bangladesh in April 2013, which killed more than 1,100 people, mostly garment workers, branches to three possible responsible parties: factory owners, the national government and the international brands that buy the clothes." loading="lazy">
+  <figcaption>One disaster raises a question that runs from the local to the global level.</figcaption>
+</figure>
+
 ## Perspectives and why people hold them
 
 The syllabus defines a **perspective** as "a viewpoint on an issue based on evidence and reasoning". That is more than an opinion. When you name a perspective, also explain *why* the person holds it: their role, interests, values and experience.
@@ -84,6 +99,16 @@ Other perspectives you will meet in sources:
 
 **Evaluation:** a perspective is stronger when its evidence is relevant and checkable, and weaker when it rests on assertion or a vested interest. Show this from the source's own words.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-development-trade-and-aid--04-sachs-vs-moyo.webp" width="900" height="564" alt="Jeffrey Sachs (The End of Poverty, 2005) argues more well-planned aid could end extreme poverty; Dambisa Moyo (Dead Aid, 2009) argues long-term government-to-government aid encouraged dependency and corruption and that trade and investment are better. Critics ask whether large programmes can be managed well, and point to vaccination as an area where aid has clear results." loading="lazy">
+  <figcaption>Strong perspectives still have weaknesses that critics can test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-development-trade-and-aid--05-perspectives-by-level.webp" width="900" height="631" alt="Rings for personal, national and global perspectives on development, trade and aid: a farmer or factory worker; an exporters’ association and a donor-country taxpayer or politician; an international organisation working to the Sustainable Development Goals and an aid charity." loading="lazy">
+  <figcaption>Each perspective comes from a role, an interest and a level.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 AO1 asks you to research issues, "their causes and consequences". Build **chains**, not lists. A chain shows how one thing leads to the next.
@@ -91,6 +116,11 @@ AO1 asks you to research issues, "their causes and consequences". Build **chains
 > Tariff on imported clothing is removed -> exporters win more orders -> more factory jobs -> higher household incomes -> but more pressure on workers to meet deadlines -> consequences depend on whether labour standards are enforced.
 
 Separate **short-term** from **long-term** consequences, and ask **who** gains and **who** loses. Cutting aid may save a donor government money in the short term, but its consequences for health services in a receiving country may last for years. Be careful: most issues have several causes, and a source may give only one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-development-trade-and-aid--06-tariff-chain.webp" width="900" height="820" alt="A chain: a tariff on imported clothing is removed, exporters win more orders, factory jobs increase, household incomes rise, but workers face more pressure to meet deadlines. The final outcome splits by whether labour standards are enforced. Below, reminders to separate short- and long-term consequences and to ask who gains and loses." loading="lazy">
+  <figcaption>The end of a chain often depends on conditions the source does not mention.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -112,6 +142,11 @@ Section 4 lists eight terms that help with Component 1. Here they are applied to
 **Worked example (Component 1 style).** An invented source says: *"A survey by a fair trade campaign group in the fictional town of Brennock found that 30 of 120 shoppers (25%) said they always buy fair trade tea. This proves the public wants fair trade."*
 
 > The source claims that the public wants fair trade, and it supports this with a survey in which 25% of shoppers said they always buy fair trade tea (knowledge of the evidence). However, the survey was carried out by a campaign group, which has a vested interest in showing support, and it covers 120 people in one town, so it cannot represent "the public" as a whole (application). In fact the figure may work against the claim: if only a quarter always buy fair trade, three-quarters do not, and what people *say* they do may differ from what they actually buy (analysis). The evidence is therefore weak support for the claim; independent sales data from several areas would be more reliable (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-development-trade-and-aid--07-fair-trade-survey.webp" width="900" height="826" alt="A grid of 120 dots with 30 highlighted shows that 25% of shoppers in an invented survey said they always buy fair trade tea, so 90 did not. Three weaknesses follow: a campaign group ran it, it covers one town, and stated behaviour may differ from actual buying. Independent sales data would be better." loading="lazy">
+  <figcaption>Look at what the number leaves out: here, three-quarters of shoppers.</figcaption>
+</figure>
 
 ## Courses of action
 

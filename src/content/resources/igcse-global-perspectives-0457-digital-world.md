@@ -69,6 +69,21 @@ A topic is too broad to argue about. You need an issue that divides opinion. Her
 - **Social media age limits.** Australia passed the Online Safety Amendment (Social Media Minimum Age) Act in 2024. It requires certain platforms to stop under-16s holding accounts, and it took effect in December 2025. *Perspectives:* supporters argue it protects young people; critics question how ages can be checked and whether young people will move to less regulated sites. *Limitation:* it is recent, so evidence of its effects is still limited.
 - **Mobile money.** M-Pesa, launched in Kenya in 2007, lets people send and store money by mobile phone. It is often cited as an example of technology reaching people without bank accounts. *Limitation:* what worked in one country may not transfer to another with different networks, laws or habits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-digital-world--01-digital-divide.webp" width="900" height="628" alt="A bar split into about 5.5 billion people online and about 2.6 billion offline, from a 2024 International Telecommunication Union estimate, with its strength (data from many countries) and limitation (an estimate that hides differences within countries). Below, the divide at three levels: between countries, between rural areas and cities, and students without a device or data at home." loading="lazy">
+  <figcaption>A global figure is a starting point; the divide also shows up nationally and locally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-digital-world--02-false-information-terms.webp" width="900" height="573" alt="Misinformation is false information shared without intent to mislead; disinformation is shared on purpose. False information appears globally as fake images and videos, nationally in elections and public health messages, and locally as rumours in a group chat. An algorithm is the set of rules that decides what each platform user sees." loading="lazy">
+  <figcaption>The difference between misinformation and disinformation is intent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-digital-world--03-australia-age-limit.webp" width="900" height="701" alt="Timeline: Australia’s Online Safety Amendment (Social Media Minimum Age) Act passed in 2024 and took effect in December 2025, requiring certain platforms to stop under-16s holding accounts. Supporters argue it protects young people; critics question age checks and whether young people will move to less regulated sites. Evidence of effects is still limited." loading="lazy">
+  <figcaption>A new law gives perspectives to weigh but little evidence yet of results.</figcaption>
+</figure>
+
 ## Perspectives: who thinks what, and why
 
 The syllabus asks you to understand "why different people have different perspectives". In the digital world, perspectives usually differ because of:
@@ -80,6 +95,11 @@ The syllabus asks you to understand "why different people have different perspec
 
 **Worked example: perspectives on phones in schools.** A teacher may argue that phones distract students. A parent may want their child reachable on the way home. A student may say phones help with research. A national education ministry may focus on results across all schools. These views differ because each person has different responsibilities and different things to lose. Your job is to explain the reasoning behind each, with empathy, before you judge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-digital-world--04-phones-in-schools.webp" width="900" height="530" alt="Four perspectives around phones in schools: a teacher says phones distract, a parent wants their child reachable, a student says phones help research, and an education ministry focuses on results across all schools. Four drivers of different perspectives: values, experience, vested interest and position." loading="lazy">
+  <figcaption>Each view reflects different responsibilities and different things to lose.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 Analysis means showing how one thing leads to another. Build chains, not lists.
@@ -87,6 +107,11 @@ Analysis means showing how one thing leads to another. Build chains, not lists.
 **Example chain: older people and cashless payments.** Banks close branches because more customers bank online (cause). An older person who does not use online banking must travel further to pay in cash (consequence). That person may become more dependent on relatives, or may stop shopping locally (further consequence). The local shop may lose customers (knock-on consequence for the community).
 
 Notice the links: *because*, *so*, *as a result*, *this means that*. Each link is a small piece of reasoning an examiner can credit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-digital-world--05-cashless-chain.webp" width="900" height="695" alt="A four-step chain joined by the linking words so, as a result, and this means that: banks close branches as more people bank online; an older person must travel further to pay in cash; they depend on relatives or stop shopping locally; the local shop may lose customers." loading="lazy">
+  <figcaption>Linking words turn a list of effects into a chain of reasoning.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -113,6 +138,11 @@ The syllabus says candidates "will benefit from an understanding of the followin
 
 **Worked example paragraph (evaluating evidence).** *Source X, written by a company that makes tablets, claims that "tablets improve learning" and supports this with a survey in which most parents agreed digital skills matter for jobs. [Analysis] The evidence does not match the claim: parents agreeing that digital skills matter is not evidence that tablets improve learning, so there is a gap in the reasoning. [Evaluation] The author also has a vested interest, because the company gains if schools buy tablets, which weakens the source's credibility. [Judgement] The claim is therefore weakly supported; it would be stronger if independent research compared the results of students with and without tablets.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-digital-world--06-tablets-evidence-gap.webp" width="900" height="680" alt="A broken bridge between evidence and claim: parents agreeing that digital skills matter for jobs does not show that tablets improve learning. The source is written by a tablet maker with a vested interest. A better test would compare students with and without tablets. Five questions for any source: who, why, when, how, and does other evidence agree." loading="lazy">
+  <figcaption>Check that the evidence actually supports the claim it is attached to.</figcaption>
+</figure>
+
 ## Courses of action
 
 A **course of action** is a step a person, group or government could take to change, improve or resolve the issue. Judge each one against clear criteria:
@@ -124,6 +154,11 @@ A **course of action** is a step a person, group or government could take to cha
 - **Sustainability:** would it last? The syllabus encourages you to consider sustainability.
 
 **Worked example paragraph (assessing an action).** *One course of action for older residents excluded by cashless payments is free digital skills classes at the library. [Application] This tackles a cause of the problem, because the source shows many older residents do not use online banking. [Analysis] However, some residents may not own a smartphone, so classes alone would not include them. [Evaluation] A second action, requiring shops to accept cash, helps those residents at once but adds costs for shop owners. [Judgement] Classes are the better long-term action because they build lasting skills, but they work best alongside a short-term guarantee that cash is still accepted.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-digital-world--07-cashless-actions.webp" width="900" height="636" alt="Two actions compared: free digital skills classes tackle a cause and build lasting skills but leave out people without smartphones; requiring shops to accept cash helps at once but adds costs for shops. The judgement combines them: classes for the long term, with a short-term guarantee that cash is accepted. Five criteria are listed below." loading="lazy">
+  <figcaption>A long-term action can be paired with a short-term one to cover its gaps.</figcaption>
+</figure>
 
 ## Individual Report ideas
 

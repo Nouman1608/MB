@@ -1,0 +1,9 @@
+{ "page": "cambridge-a-level-computer-science-hardware-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--14-buffer.webp", "after": "## What is a buffer used for?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--15-memory-types-tree.webp", "after": "## How do RAM, ROM, SRAM and DRAM differ?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--16-sram-vs-dram.webp", "after": "## How do RAM, ROM, SRAM and DRAM differ?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--17-prom-eprom-eeprom.webp", "after": "## What is the difference between PROM, EPROM and EEPROM?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--18-monitoring-vs-control.webp", "after": "## What is the difference between monitoring and control?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--19-logic-gates.webp", "after": "## Logic gates in one table" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--20-circuit-truth-table.webp", "after": "## Logic gates in one table" }
+] }

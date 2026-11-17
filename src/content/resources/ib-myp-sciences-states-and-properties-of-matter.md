@@ -72,6 +72,16 @@ Diffusion is the net movement of particles from a region of higher concentration
 
 In a classic demonstration, ammonia and hydrogen chloride diffuse towards each other along a glass tube. A white ring of ammonium chloride forms nearer the hydrogen chloride end, because ammonia particles are lighter and move faster.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--01-particle-model.webp" width="900" height="720" alt="Particle diagrams: a solid has particles touching in a regular pattern, vibrating in place; a liquid has particles touching but random, sliding past each other; a gas has particles far apart, moving fast in all directions. Below each are its forces, shape, volume and how easily it compresses: only the gas compresses easily." loading="lazy">
+  <figcaption>Gases compress because their particles are far apart; solids and liquids are already touching.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--02-diffusion-tube.webp" width="900" height="600" alt="A glass tube has cotton wool soaked in ammonia at one end and hydrogen chloride at the other. Ammonia particles are lighter and move faster, so the white ring of ammonium chloride forms nearer the hydrogen chloride end. Diffusion is fastest in gases, faster at higher temperature and for lighter particles." loading="lazy">
+  <figcaption>The ring forms nearer the heavier gas, because lighter particles diffuse faster.</figcaption>
+</figure>
+
 ## Changes of state
 
 | Change | From → to | Energy |
@@ -99,6 +109,11 @@ Evaporation cools because the particles with the most energy escape from the sur
 ### Purity and melting point
 
 A **pure substance** melts and boils at fixed, sharp temperatures. Pure water boils at 100 °C at standard atmospheric pressure and melts at 0 °C. An **impurity** usually lowers the melting point, makes it melt over a range of temperatures, and raises the boiling point. Salty water boils above 100 °C. So a sharp melting point is evidence of purity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--03-changes-of-state.webp" width="900" height="830" alt="A triangle of solid, liquid and gas. Melting, boiling or evaporation, and sublimation absorb energy; freezing, condensation and deposition release it. During any change of state the temperature stays constant because the energy overcomes forces between particles." loading="lazy">
+  <figcaption>Changes towards gas absorb energy; changes towards solid release it.</figcaption>
+</figure>
 
 ## Heating and cooling curves
 
@@ -133,6 +148,11 @@ A 100 W heater supplies energy at a steady rate to a solid. The melting plateau 
 
 In practice some energy heats the container and air, so the substance absorbs less than this.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--04-heating-curve.webp" width="900" height="750" alt="A heating curve: temperature rises while the solid warms, stays flat for 120 s while it melts, rises while the liquid warms, then stays flat for 600 s while it boils. With a 100 W heater, melting takes 12 000 J and boiling 60 000 J, five times as much, because boiling separates the particles completely." loading="lazy">
+  <figcaption>Flat sections are changes of state; the longer boiling plateau shows boiling needs more energy.</figcaption>
+</figure>
+
 ## Density
 
 Density is the mass per unit volume of a substance.
@@ -164,6 +184,11 @@ A measuring cylinder holds water to the 50.0 cm³ mark. A small metal ornament o
 
 Read the scale at the bottom of the meniscus, with your eye level with the surface. Lower the object gently on a thread so no water splashes out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--05-density-measurement.webp" width="900" height="710" alt="Left: a 6.0 × 3.0 × 2.0 cm block of mass 97.2 g has volume 36 cm³ and density 2.7 g/cm³ (2700 kg/m³), so it sinks in water. Right: an ornament of mass 112.5 g raises the water in a measuring cylinder from 50.0 to 62.5 cm³, a volume of 12.5 cm³ and a density of 9.0 g/cm³." loading="lazy">
+  <figcaption>Measure or displace to find the volume, then divide mass by volume.</figcaption>
+</figure>
+
 ## Gas behaviour (qualitative)
 
 A gas exerts **pressure** because its particles collide with the walls of the container. Each collision pushes on the wall. More frequent or harder collisions mean higher pressure.
@@ -176,6 +201,11 @@ A gas exerts **pressure** because its particles collide with the walls of the co
 | Cool it (balloon in a freezer) | Move slower, fewer and softer collisions | Balloon shrinks |
 
 Always explain in steps: particle speed → frequency or force of collisions → pressure. Don't say the particles themselves get bigger when a gas expands. The particles stay the same size; the space between them grows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--06-gas-pressure.webp" width="900" height="740" alt="Four cases for a fixed amount of gas. Heating a sealed can makes particles faster, with more frequent, harder collisions, so pressure rises. Squashing a syringe gives more collisions per second, so pressure rises. Heating a balloon pushes its walls out, so volume increases. Cooling a balloon slows the particles, so it shrinks." loading="lazy">
+  <figcaption>Pressure comes from particles hitting the walls: change their speed or space and the pressure changes.</figcaption>
+</figure>
 
 ## Mixtures and separation
 
@@ -210,6 +240,16 @@ Both distances are measured from the baseline. Rf is always between 0 and 1. The
 3. Two spots, so the ink is a mixture of at least two dyes.
 
 Draw the baseline in **pencil** (graphite doesn't dissolve and run), and keep it **above** the solvent level so the spots don't wash into the solvent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--07-filtration-distillation.webp" width="900" height="650" alt="Left: filtration through a filter funnel, with sand left as residue on the paper and water passing through as filtrate. Right: simple distillation of seawater. The flask is heated, a thermometer sits at the side arm, vapour passes through a water-cooled condenser with cold water in at the lower end, and pure water collects in a beaker while salt stays behind." loading="lazy">
+  <figcaption>Filtration removes insoluble solids; distillation recovers the solvent from a solution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--08-chromatography-rf.webp" width="900" height="630" alt="A chromatogram with a pencil baseline above the solvent. The solvent front moved 9.0 cm; an ink separated into spots at 3.6 cm and 6.3 cm, giving Rf values of 0.40 and 0.70, so the ink contains at least two dyes. A reference spot level with the 6.3 cm spot would be the same substance." loading="lazy">
+  <figcaption>Rf = spot distance ÷ solvent distance, both from the baseline; a pure substance gives one spot.</figcaption>
+</figure>
 
 ## Common errors
 

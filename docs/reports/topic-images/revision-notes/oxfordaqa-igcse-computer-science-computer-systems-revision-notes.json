@@ -1,0 +1,8 @@
+{ "page": "oxfordaqa-igcse-computer-science-computer-systems-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-systems-study-guide--07-logic-circuit-truth-table.webp", "after": "## Boolean logic"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-systems-study-guide--01-cpu-parts.webp", "after": "## Von Neumann architecture and the CPU"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-systems-study-guide--02-cpu-performance.webp", "after": "## Von Neumann architecture and the CPU"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-systems-study-guide--03-fetch-decode-execute-trace.webp", "after": "## Von Neumann architecture and the CPU"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-systems-study-guide--04-ram-rom-storage.webp", "after": "## Memory and storage"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-systems-study-guide--05-storage-types.webp", "after": "## Memory and storage"}
+] }

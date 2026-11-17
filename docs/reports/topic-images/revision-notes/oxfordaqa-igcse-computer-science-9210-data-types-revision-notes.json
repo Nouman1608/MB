@@ -1,0 +1,8 @@
+{ "page": "oxfordaqa-igcse-computer-science-9210-data-types-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-types--01-what-a-data-type-controls.webp", "after": "## The concept in one line"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-types--02-five-data-types.webp", "after": "## The five types"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-types--06-choosing-a-type.webp", "after": "## Decision rules for choosing a type"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-types--03-numbers-as-strings.webp", "after": "## Typical exam data and the right answer"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-types--05-gym-record-types.webp", "after": "## Typical exam data and the right answer"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-types--04-type-and-operations.webp", "after": "## How type affects operations"}
+] }

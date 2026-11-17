@@ -35,6 +35,11 @@ Revision notes for **sub-theme 3.2** of Theme 3 in Pearson Edexcel A Level Urdu 
 - **Integration and identity**: whether newcomers keep their customs while taking part in wider society; how second and third generations see themselves.
 - **Media and politicians** shape public attitudes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-3-study-guide--01-theme-3-map.webp" width="900" height="640" alt="Theme 3, ہجرت ترکِ وطن اور کثیر الثقافتی معاشرہ (Immigration and the multicultural society), has three sub-themes: positive features of a diverse society, attitudes towards immigration, and emigration from Pakistan (پاکستان سے ہجرت), the research subject." loading="lazy">
+  <figcaption>Three sub-themes; emigration from Pakistan is the research subject.</figcaption>
+</figure>
+
 ## Issues and perspectives
 
 **Why attitudes differ.** People's views of immigration depend on their own experience, their economic situation, what they see in the media and the language politicians use. Someone who works alongside migrants may see them as colleagues; someone competing for scarce housing may see them as rivals. A strong answer explains *why* people hold a view, rather than labelling them as simply good or bad.
@@ -58,6 +63,11 @@ Taking these concerns seriously is not the same as accepting prejudice. You can 
 **Pakistanis as immigrants.** Pakistani-heritage communities in Britain and elsewhere have experienced both welcome and prejudice (**تعصب**), including racism (**نسل پرستی**). The second and third generations (**دوسری اور تیسری نسل**) often describe a double identity: British and Pakistani, or Muslim and European. Debate continues about **انضمام** (integration): does it mean giving up one's customs, or taking part fully in public life while keeping them?
 
 **The role of the media and politicians.** Headlines that repeatedly link migrants to crime or burdens can harden attitudes (**رویہ سخت ہونا**); stories of contribution and personal experience can soften them. Politicians may calm fears with facts or stir them for votes. Ask who benefits from a particular way of describing migrants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-3-study-guide--03-attitudes-two-sides.webp" width="900" height="614" alt="Welcoming attitudes see migrants as contributors and neighbours; worries concern jobs, housing, services and local identity. Related issues are prejudice and discrimination (تعصب, امتیازی سلوک), integration and identity (انضمام, شناخت) and the media. Answer by stating each side, its reasons, then your judgement." loading="lazy">
+  <figcaption>Give both sides with their reasons, then say which convinces you and why.</figcaption>
+</figure>
 
 ## Vocabulary
 
@@ -114,6 +124,11 @@ State what people on each side say, give the reasons they offer, then say which 
 | میرے خیال میں | in my opinion |
 | ایک طرف ... دوسری طرف | on one hand ... on the other |
 | آخر میں | finally |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--06-connectives.webp" width="900" height="512" alt="Six Urdu connectives with meanings: اس کے برعکس in contrast, اس کے علاوہ in addition, نتیجتاً as a result, میرے خیال میں in my opinion, ایک طرف ... دوسری طرف on one hand ... on the other, and آخر میں finally." loading="lazy">
+  <figcaption>Learn connectives as building blocks and use each in a sentence of your own.</figcaption>
+</figure>
 
 ## Discussion and essay prompts
 

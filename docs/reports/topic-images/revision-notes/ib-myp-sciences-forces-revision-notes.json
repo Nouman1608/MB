@@ -1,0 +1,9 @@
+{ "page": "ib-myp-sciences-forces-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-forces--01-forces-and-free-body.webp", "after": "## Definitions" },
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-forces--06-pressure.webp", "after": "## Equations" },
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-forces--03-third-law-pairs.webp", "after": "## Newton's laws in one line each" },
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-forces--04-terminal-velocity.webp", "after": "## Newton's laws in one line each" },
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-forces--02-resultant-force-fma.webp", "after": "## Method in steps" },
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-forces--07-moments-seesaw.webp", "after": "## Method in steps" },
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-forces--05-motion-graphs.webp", "after": "## Graph shapes to recognise" }
+] }

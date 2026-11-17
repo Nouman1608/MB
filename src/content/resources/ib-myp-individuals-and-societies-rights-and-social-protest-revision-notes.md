@@ -61,6 +61,16 @@ For full explanations and worked examples, read the [rights and social protest s
 
 **Articles to quote:** 2 non-discrimination; 3 life, liberty, security; 7 equality before the law; 9 no arbitrary arrest; 13 freedom of movement; 19 expression; 20 peaceful assembly; 21 take part in government and vote; 23 work and equal pay; 26 education.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--02-international-bill.webp" width="900" height="718" alt="The non-binding UDHR of 10 December 1948 leads to two binding 1966 treaties, the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights, in force from 1976 for ratifying states. Together they form the International Bill of Human Rights." loading="lazy">
+  <figcaption>The UDHR is a declaration; the 1966 covenants are the binding treaties.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--03-apartheid-udhr.webp" width="900" height="715" alt="Four apartheid measures linked to the UDHR articles they breached: racial classification under the Population Registration Act breached Article 2; the Group Areas Act and pass laws breached Article 13 on freedom of movement; denying the Black majority the vote breached Article 21." loading="lazy">
+  <figcaption>Name the law, say what it did, then match it to an article.</figcaption>
+</figure>
+
 ## Timelines to know
 
 **US civil rights**
@@ -108,6 +118,11 @@ For full explanations and worked examples, read the [rights and social protest s
 | 1918 | Women over 30 with a property qualification gain the vote |
 | 1928 | Equal Franchise Act: women vote at 21, same as men |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--04-three-movements.webp" width="900" height="780" alt="Three timelines side by side. US civil rights: Brown v. Board 1954, the Montgomery Bus Boycott 1955 to 1956, Greensboro 1960, Birmingham and the March on Washington 1963, the Civil Rights Act 1964 and the Voting Rights Act 1965. Anti-apartheid: the Defiance Campaign 1952 to the first all-race election in 1994. British women’s suffrage: NUWSS 1897 to equal franchise in 1928." loading="lazy">
+  <figcaption>Accurate, dated evidence from each movement is what examiners reward.</figcaption>
+</figure>
+
 ## Methods: one example each
 
 | Method | Example |
@@ -122,6 +137,11 @@ For full explanations and worked examples, read the [rights and social protest s
 | International pressure | UN arms embargo, 1977 |
 
 Gene Sharp (1973) listed 198 non-violent methods in three groups: protest and persuasion, non-cooperation, non-violent intervention.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--05-methods-of-protest.webp" width="900" height="754" alt="Seven categories of protest from persuasion through legal action, non-cooperation and non-violent intervention to militant action against property and armed struggle, plus international pressure, each with an example such as the March on Washington, the Montgomery Bus Boycott or Umkhonto we Sizwe. Three are marked as Gene Sharp’s headings of non-violent action." loading="lazy">
+  <figcaption>Classify a method before explaining why a movement chose it.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -141,6 +161,11 @@ Gene Sharp (1973) listed 198 non-violent methods in three groups: protest and pe
 3. Value: what can it reliably show for this inquiry?
 4. Limitation: what can it not show, and why? Use the same origin or purpose fact.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--06-judging-effectiveness.webp" width="900" height="628" alt="Four questions applied to the Montgomery Bus Boycott: its aim, ending segregated bus seating, was achieved in law in 1956; in practice schools and voting stayed segregated for years; it was a short-term local win that made King a national figure; it worked through economic pressure, unity for 381 days and a parallel court case." loading="lazy">
+  <figcaption>Measure success against the movement’s own aims, in law and in practice, short and long term.</figcaption>
+</figure>
+
 ## Worked reminders
 
 A fictional petition needs 120,000 signatures and has 84,000.
@@ -157,6 +182,11 @@ A fictional march grew from 2,500 to 11,000 people.
 
 Divide by the **starting** value. For rates already in percent, a change from 25% to 65% is **40 percentage points**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--07-registration-data.webp" width="900" height="625" alt="Bars for fictional Norland: the registered share of 480,000 eligible minority adults rose from 25% (120,000) to 65% (312,000) five years after a voting rights law. That is a rise of 40 percentage points, while the number registered rose by 160%." loading="lazy">
+  <figcaption>A rate rising from 25% to 65% is 40 percentage points; registering is not the same as voting.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Human rights vs civil rights.** Everyone's by being human vs guaranteed by a state's law.
@@ -165,6 +195,11 @@ Divide by the **starting** value. For rates already in percent, a change from 25
 - **Suffragists vs suffragettes.** NUWSS lawful methods vs WSPU militancy.
 - **Non-violent vs violent.** The ANC used non-violent mass action until 1960, then added armed struggle from 1961.
 - **Boycott vs strike.** Consumers withhold spending vs workers withhold labour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--01-de-jure-de-facto.webp" width="900" height="595" alt="A de jure right exists in law, as when US law gave Black men the vote in 1870; a de facto right exists in practice, and for decades many could not use that vote in the South. Protests often target the gap between the two. Below, rights split into civil and political, and economic, social and cultural." loading="lazy">
+  <figcaption>A right on paper is not always a right in practice; protests often target the gap.</figcaption>
+</figure>
 
 ## Linking to concepts
 

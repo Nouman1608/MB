@@ -38,6 +38,11 @@ Links: [practice questions](/resources/ib-myp-design-global-contexts-and-design-
 - **Client / target audience** -- the person or group the solution serves. Criterion D asks how the solution will impact on them.
 - **Context-linked success criterion** -- a measurable target that only makes sense because of your chosen context.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-global-contexts-and-design-situations--01-concepts-and-contexts.webp" width="900" height="730" alt="Key concepts (examples: communication, communities, development, systems) and related concepts (examples: adaptation, ergonomics, sustainability, innovation) are explored through six global contexts: identities and relationships; orientation in space and time; personal and cultural expression; scientific and technical innovation; globalization and sustainability; fairness and development." loading="lazy">
+  <figcaption>The global context decides the problem, the research and the tests.</figcaption>
+</figure>
+
 ## The six contexts at a glance
 
 The brief names the six contexts. The "lens" column is Marlbridge's own summary, not IB wording.
@@ -51,6 +56,11 @@ The brief names the six contexts. The "lens" column is Marlbridge's own summary,
 | Globalization and sustainability | Resources, waste and wider effects across the product's life | Mass of waste or energy used, before and after |
 | Fairness and development | Access, cost and who is left out | Share of under-served users who can use it unaided |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-global-contexts-and-design-situations--02-six-contexts-as-lenses.webp" width="900" height="745" alt="Six cards, one per global context, each with the questions it raises in a design project and the evidence it calls for: for example, scientific and technical innovation asks what technology or material could solve the problem better and needs materials or software research; fairness and development asks who is excluded and needs accessibility testing and cost comparisons." loading="lazy">
+  <figcaption>Each context raises different questions and needs different evidence.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 | Do not confuse | With | The difference |
@@ -61,6 +71,11 @@ The brief names the six contexts. The "lens" column is Marlbridge's own summary,
 | Design situation | Problem statement | Situation is open and given to you; statement is narrow and written by you |
 | Problem statement | Design brief | Statement names the need; brief adds what you intend to design |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-global-contexts-and-design-situations--03-concept-or-context.webp" width="900" height="595" alt="Three pairs that are easy to confuse: sustainability (a related concept example) is not the global context globalization and sustainability; innovation (a related concept example) is not scientific and technical innovation; development (a key concept example) is not fairness and development." loading="lazy">
+  <figcaption>A shared word does not make a concept and a context the same thing.</figcaption>
+</figure>
+
 ## Method in steps: situation to problem statement
 
 > **1.** Read the situation and list every difficulty it mentions or implies.
@@ -70,6 +85,21 @@ The brief names the six contexts. The "lens" column is Marlbridge's own summary,
 > **5.** Write one statement: *[audience] need(s) a way to [need] because [evidence], within [constraints].*
 > **6.** Check: one audience, one need, evidence included, no solution named, testable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-global-contexts-and-design-situations--06-one-situation-six-lenses.webp" width="900" height="680" alt="The crowded Kestrel Hill canteen sits in the centre, with six global contexts around it, each picking out a different problem: friends split up, crossing routes at one door, missing food cultures on the menu, slow ordering (the chosen lens), plate waste, and a counter too high for wheelchair users, which needs new evidence." loading="lazy">
+  <figcaption>Change the lens and you change the problem; a context can send you back for new evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-global-contexts-and-design-situations--05-canteen-survey-evidence.webp" width="900" height="675" alt="Bar chart of a survey of 120 students: queue time 54 (45%), food waste 30 (25%), nowhere to sit with friends 24 (20%), menu does not reflect my food 12 (10%). Each problem points to a context; queue time, the top complaint, leads to scientific and technical innovation." loading="lazy">
+  <figcaption>Let the evidence point to the context that drives the need.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-global-contexts-and-design-situations--04-problem-statement-pattern.webp" width="900" height="800" alt="An open design situation is narrowed to a problem statement with four parts: who (students at Kestrel Hill School), the need (a way to get lunch faster), the evidence (45% of 120 students named queue time) and constraints (a school budget, no extra staff). “Design an app for the canteen” is not a problem statement because it names the solution." loading="lazy">
+  <figcaption>Who, need, evidence, constraints: and no solution yet.</figcaption>
+</figure>
+
 ## Method in steps: choosing the context
 
 > **1.** Does it change **who** I research?
@@ -77,6 +107,16 @@ The brief names the six contexts. The "lens" column is Marlbridge's own summary,
 > **3.** Can I get the evidence in the **time** I have?
 > **4.** Is it at the **heart** of the need, not added at the end?
 > If two fit, pick one main lens and mention the other briefly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-global-contexts-and-design-situations--07-choosing-a-context.webp" width="900" height="655" alt="Four checks for choosing a global context: does it change who you research, does it change what you will test, can you get the evidence in the time available, and is it at the heart of the need? If two fit, choose one main lens; trying to serve all six spreads research too thin." loading="lazy">
+  <figcaption>A context earns its place by changing your research and your tests.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-global-contexts-and-design-situations--08-context-shapes-research-and-tests.webp" width="900" height="655" alt="For the canteen under scientific and technical innovation, research times each queue stage and studies ordering technologies, and the test is whether 90% of 30 testers (27) are served within 4 minutes; a fall in average wait from 11 to 7 minutes is 36.4%. Under fairness and development the questions are about counter height and phone access; under globalization and sustainability the test measures plate waste." loading="lazy">
+  <figcaption>Same situation, different context: different research questions and different tests.</figcaption>
+</figure>
 
 ## Small worked reminders
 

@@ -69,6 +69,16 @@ A graph is an abstraction of a real problem: places as nodes and routes as edges
 | Finds | Shortest path from the start to every node | Shortest path to one goal (if h never overestimates) |
 | Efficiency | Explores in every direction | Heads towards the goal, usually expanding fewer nodes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--02-ai-dijkstra-table.webp" width="900" height="924" alt="A step table for Dijkstra. Start: A 0, others infinity. Step 1 A gives B 4, C 2; step 2 C gives B 3, D 10, E 12; step 3 B gives D 8; step 4 D gives E 10, F 14; step 5 E gives F 13; step 6 F. Final values are dark; B improved from 4 to 3." loading="lazy">
+  <figcaption>Each row of the distance table is one step; B improves from 4 to 3 at step 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--03-ai-astar-f-score.webp" width="900" height="830" alt="A path from Start to a node (g, cost so far) and on to the Goal (h, estimate). Two bars: first node g 5 + h 3 = f 8, second g 2 + h 7 = f 9. A* expands the lower f, the first node." loading="lazy">
+  <figcaption>A* expands the node with the lowest f = g + h.</figcaption>
+</figure>
+
 ## Worked example: Dijkstra and A* on the same graph
 
 Edges: S–A 3, S–B 6, S–E 4, A–B 2, A–C 7, B–C 3, B–D 8, C–D 2, C–T 9, D–T 4, E–T 20. Find the shortest route from S to T.
@@ -104,6 +114,11 @@ Same route and cost, but A* never expands E, because its high heuristic shows it
 
 An **artificial neural network** has an **input layer**, one or more **hidden layers** and an **output layer** of nodes. Each connection has a **weight**; each node sums its weighted inputs and applies an activation function. The network learns by **adjusting the weights** from examples, so it can learn patterns that are too complex to program as rules, such as recognising faces, speech or handwriting. With many hidden layers (deep learning), each layer learns more abstract features: edges, then shapes, then objects.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--05-ai-neuron.webp" width="900" height="830" alt="A neuron with inputs 0.5 and 0.8, weights 0.4 and minus 0.2 and bias 0.1 gives a sum of 0.14; a step activation outputs 1." loading="lazy">
+  <figcaption>A neuron multiplies inputs by weights, adds the bias and applies an activation function.</figcaption>
+</figure>
+
 ## Types of machine learning and when to use them
 
 | Type | Data | How it learns | Reason to use / example |
@@ -113,6 +128,11 @@ An **artificial neural network** has an **input layer**, one or more **hidden la
 | Reinforcement | No fixed data set; feedback from an environment | Agent tries actions, receives rewards or penalties, and learns a policy that maximises total reward | When the best action must be discovered by interaction: game playing, robot movement, self-driving control |
 | Deep learning | Very large data sets, often unstructured (images, sound, text) | Neural network with many hidden layers learns features automatically | When the features are too complex to define by hand: image and speech recognition, translation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--04-ai-learning-types.webp" width="900" height="1110" alt="Three panels: supervised learning trains on labelled emails and labels a new email; unsupervised learning groups unlabelled points into clusters; reinforcement learning has an agent send actions to an environment and receive rewards or penalties." loading="lazy">
+  <figcaption>The type of machine learning depends on the data and feedback available.</figcaption>
+</figure>
+
 ## Back-propagation in five steps
 
 1. Input a training example and pass it **forward** through the network to get an output.
@@ -120,6 +140,11 @@ An **artificial neural network** has an **input layer**, one or more **hidden la
 3. Pass the error **backwards** from the output layer through the hidden layers.
 4. Adjust each weight in proportion to how much it contributed to the error, so the error will be smaller next time.
 5. Repeat for many examples (and many passes) until the error is acceptably small.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--06-ai-backpropagation.webp" width="900" height="970" alt="A network with input, hidden and output layers joined by weighted connections. A forward arrow runs from inputs to output; the error is compared with the expected output and passed backwards to adjust the weights, repeated over many examples." loading="lazy">
+  <figcaption>Back-propagation passes the output error backwards to adjust the weights.</figcaption>
+</figure>
 
 ## Regression
 

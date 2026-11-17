@@ -53,6 +53,11 @@ Also useful: [Criterion A practice questions](/resources/ib-myp-design-criterion
 | Existing product analysis | Judging products that already tackle the problem, and drawing out ideas |
 | Design brief | A short summary of your analysis of the research that states what is needed and why |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--02-situation-to-problem.webp" width="900" height="680" alt="A broad design situation about volunteers organising equipment is narrowed down to one problem. That problem belongs to a client, a specific person or organisation you can talk to, and a target audience, the wider group who will use the solution." loading="lazy">
+  <figcaption>Narrow a situation to one problem for precisely named people.</figcaption>
+</figure>
+
 ## Primary and secondary methods
 
 | Primary | Secondary |
@@ -64,6 +69,11 @@ Also useful: [Criterion A practice questions](/resources/ib-myp-design-criterion
 | Hands-on testing of an existing product | Public pages of existing apps and websites |
 
 Quantitative data are numbers (times, counts, masses). Qualitative data are descriptions and opinions (interview comments). Strong inquiry uses both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--04-planning-research.webp" width="900" height="710" alt="Primary research is collected first-hand, by interview, survey, observation, measuring or testing; secondary research has already been published, such as articles, reviews, data and guidance. A research plan table lists each research question, whether it is primary or secondary, the method or source, and what it will decide, with the questions that most change the design first." loading="lazy">
+  <figcaption>Questions first, methods second, and the questions that change the design most go first.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -98,6 +108,21 @@ Quantitative data are numbers (times, counts, masses). Qualitative data are desc
 4. Design goal; product, digital or both.
 5. Known limits (budget, place of use).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--01-criterion-a-workflow.webp" width="900" height="680" alt="Six steps run downwards: design situation, narrowing to a problem with a client and target audience, explaining and justifying the need, planning research, analysing existing products, and writing the design brief, which leads on to Criterion B." loading="lazy">
+  <figcaption>Criterion A ends with a design brief, not a product idea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--03-justifying-the-need.webp" width="900" height="720" alt="Five parts of a strong justification: who has the problem, what it is and when and where it happens, evidence that it is real, consequences if nothing changes, and the gap left by existing solutions. Below, “75% of coaches” is contrasted with “9 of the 12 coaches surveyed (75%)”." loading="lazy">
+  <figcaption>Evidence, with sample sizes, is what turns a claim into a justification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--05-existing-products-analysed.webp" width="900" height="725" alt="Three existing products from the kit-carrier example are judged on what each does well, what it does badly for the client and what idea could be adapted: a mesh ball bag, a folding cart and a large holdall. The conclusion is to adapt the cart’s single-trip capacity, the mesh bag’s ventilation and the holdall’s dry pocket for bibs, and to avoid small wheels on grass." loading="lazy">
+  <figcaption>Analysis says what each product means for your design, then draws a conclusion.</figcaption>
+</figure>
+
 ## Worked reminders
 
 - **Survey percentage**: 18 of 24 users said the current app was confusing. 18 ÷ 24 × 100 = **75%**. Write "18 of 24 (75%)".
@@ -113,6 +138,11 @@ Quantitative data are numbers (times, counts, masses). Qualitative data are desc
 - **Describe vs analyse** (products): describing lists features; analysing says what they mean for your client.
 - **Design brief vs specification**: the brief states what and why (Criterion A); the specification sets measurable requirements (Criterion B).
 - **Problem vs solution**: Criterion A ends with a brief. Deciding "it will be an app" is too early.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--06-brief-vs-specification.webp" width="900" height="560" alt="The design brief is short and states the client or audience, the problem and its evidence, key research findings, the design goal and known limits: what is needed and why. Measurable requirements and tests belong in the specification in Criterion B, not in the brief." loading="lazy">
+  <figcaption>The brief says what and why; measurements and tests wait for the specification.</figcaption>
+</figure>
 
 ## Mini example: from evidence to brief
 

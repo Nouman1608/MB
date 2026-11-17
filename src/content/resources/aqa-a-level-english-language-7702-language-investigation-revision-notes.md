@@ -44,6 +44,11 @@ context, a conclusion linked to the aim, references and appendices.
 | References | All paper and web-based sources |
 | Appendices | Clean copies of data; evidence supporting quantitative approaches |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--09-nea-sections.webp" width="900" height="880" alt="Five boxes in order: introduction (reasons for the focus and aims), methodology (an evaluative account of data collection), analysis (findings, concepts and issues, contextual influences), conclusion (linked back to the aim) and references and appendices (sources and clean copies of the data). A dashed arrow runs from the conclusion back up to the introduction, labelled aim." loading="lazy">
+  <figcaption>The investigation’s required sections, ending by linking back to the aim.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -71,6 +76,16 @@ context, a conclusion linked to the aim, references and appendices.
 - **Attitudes:** questionnaires or interviews; neutral wording; varied sample.
 - **Word lists:** state source, period and inclusion criteria.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-language-investigation--03-comparability.webp" width="900" height="730" alt="Two data sets are matched on length, context and date, and differ only in the factor being studied. If other variables also differ, a difference in the data cannot be put down to that factor." loading="lazy">
+  <figcaption>Hold everything else similar so any difference comes from the factor you are studying.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-language-investigation--04-ethics-observers-paradox.webp" width="900" height="720" alt="Left: ethical steps of informed consent, anonymising speakers as labels such as Speaker A, storing data responsibly, and discussing any covert recording with a teacher. Right: Labov's observer's paradox, where recording people to capture unobserved talk may make their speech more careful or formal. Strategies below are longer recordings, familiar settings and an absorbing activity." loading="lazy">
+  <figcaption>Get consent, anonymise, and reduce the observer's paradox where you can; acknowledge what remains.</figcaption>
+</figure>
+
 ## From aim to research questions (pattern)
 
 ```
@@ -83,11 +98,21 @@ RQ3   How do [audience / purpose / mode] explain the differences?
 Each research question should point to a level of analysis, a data set and a comparison or function, so the
 analysis can be organised around it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-language-investigation--02-aim-to-research-questions.webp" width="900" height="670" alt="The aim of exploring how two football commentators construct excitement splits into three research questions: grammar at moments of high action, prosodic features such as pace, pitch and volume, and the effect of the radio or television context. A note contrasts this with a yes-or-no hypothesis." loading="lazy">
+  <figcaption>An aim says what you want to find out; each research question points to specific features and data.</figcaption>
+</figure>
+
 ## Evaluative methodology: the three moves
 
 1. **What** you did (briefly).
 2. **Why** you did it (justify each choice).
 3. **Limitations and improvements** (what weakens the findings, and what would strengthen them).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-language-investigation--05-descriptive-vs-evaluative.webp" width="900" height="670" alt="The lesson's descriptive sentence about recording a family dinner is set above its evaluative version, which is split into three labelled parts: why the setting was chosen, the weakness of a single meal, and the improvement of a second recording." loading="lazy">
+  <figcaption>An evaluative methodology explains why, names the weakness and suggests an improvement.</figcaption>
+</figure>
 
 ## Analysis checklist
 
@@ -98,6 +123,11 @@ analysis can be organised around it.
 - Context explained throughout: audience, purpose, genre, mode, relationships, setting.
 - Counter-examples and complexities acknowledged.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-language-investigation--06-organising-analysis.webp" width="900" height="740" alt="Analysis organised text by text slides into description, while analysis organised by research question compares all the data at once. Each section then runs through five steps: evidence, interpretation with terminology, testing theory against the data, contextual influences, and counter-examples." loading="lazy">
+  <figcaption>Organise by research question or feature, then give each section the same five moves.</figcaption>
+</figure>
+
 ## Conclusion checklist
 
 - Answer each research question.
@@ -106,11 +136,21 @@ analysis can be organised around it.
 - Suggest further research.
 - Return to the aim in the final sentence, so the investigation reads as one argument rather than a set of findings.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-language-investigation--07-cautious-conclusion.webp" width="900" height="560" alt="Four steps for the conclusion: answer each research question, state what the data suggests, qualify by sample size and context, and identify further research. Cautious wording such as &quot;suggests&quot;, &quot;in this data&quot; and &quot;may&quot; is contrasted with the over-generalisation &quot;all men interrupt&quot;." loading="lazy">
+  <figcaption>Answer each question, then qualify the claim by sample size and context.</figcaption>
+</figure>
+
 ## Assessment focus
 
 The investigation is assessed on methods and terminology with coherent expression (AO1), critical understanding of
 concepts and issues (AO2), and how contextual factors and language features construct meaning (AO3), with AO3
 carrying the largest share of the investigation's marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-language-investigation--08-assessment-objectives.webp" width="900" height="600" alt="AO1 rewards methods of language analysis with terminology and coherent expression, AO2 critical understanding of concepts and issues, and AO3 analysis of how contextual factors and language features construct meaning. A thread of context runs through every section of the analysis." loading="lazy">
+  <figcaption>Contextual analysis (AO3) belongs in every section, not in a single paragraph.</figcaption>
+</figure>
 
 ## Exam-style traps (NEA version)
 

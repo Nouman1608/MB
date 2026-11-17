@@ -36,6 +36,11 @@ Revision notes for **5.6** in the prescribed literary texts and films of Pearson
 
 The specification gives each film as a name and a year only, with no role label, so do not write a name in as 'director' on the strength of the list alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--02-prescribed-works.webp" width="900" height="716" alt="Three literary texts (Aangan آنگن, novel, Khadija Mastur, 1999; Patras Ke Mazameen پطرس کے مضامین, essays, 2011, five essays prescribed; Bisaat بساط, play, Baseer Kazmi, 1987) and three films (Bin Roye بن روئے, 2015; Baaghban باغبان, 2003; Bajrangi Bhaijaan بجرنگی بھائی جان, 2015)." loading="lazy">
+  <figcaption>Three texts and three films; the films are given by name and year only.</figcaption>
+</figure>
+
 ## What the film is about
 
 A young Pakistani girl, **شاہدہ** (Shahida), who cannot speak, is separated from her mother in India after a journey across the border. She is found by **پون** (Pawan), a simple, honest man from India and a devoted follower of the Hindu deity Hanuman (also called Bajrang Bali, which gives Pawan the nickname 'Bajrangi'). Not knowing her name, he calls her **منی** (Munni). When he discovers that she is Pakistani and Muslim, he decides, against every practical obstacle, to take her home himself. On his journey through Pakistan he is helped by a local television reporter, **چاند نواب** (Chand Nawab), whose footage of Pawan's mission reaches ordinary people on both sides of the border. **رسیکا** (Rasika), the woman Pawan loves, supports his decision.
@@ -70,12 +75,27 @@ Use this outline only for orientation. In the exam you need your own specific re
 - You write exactly **two** extended responses: two literary texts, or one literary text and one film. Two films is never allowed.
 - Marking criteria: critical and analytical response with cultural or social insight (AO4), range of grammatical structures and vocabulary (AO3), and accuracy of language (AO3). There are no AO1 or AO2 marks on Paper 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--01-paper-2-structure.webp" width="900" height="626" alt="Paper 2 lasts 2 hours 40 minutes for 110 marks (30% of the A-level). Section A, translation into Urdu, has 20 marks and 30 minutes; each of the two works responses has 45 marks and about 1 hour 5 minutes. Section A is marked in 20 one-mark chunks, and verb and adjective endings must be correct." loading="lazy">
+  <figcaption>Translation first, then two 45-mark essays; endings are never treated as spelling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--05-allowed-combinations.webp" width="900" height="528" alt="The two allowed combinations of works essays: two literary-text essays (Section B twice), or one literary-text essay and one film essay (Sections B and C). Two film essays, or three extended responses, are not allowed." loading="lazy">
+  <figcaption>Two texts, or a text and a film: never two films, never three essays.</figcaption>
+</figure>
+
 ## Approach and skills
 
 - Prepare against five angles: **form and technique, key themes and issues, characterisation, plot structure, social and cultural setting**.
 - Structure each answer as **position, evidence, cultural connection**: state your stance, support it with two or three specific points (not a retelling), then link the writer's or film's treatment of an issue to a broader social or cultural theme.
 - Write in controlled Urdu with correct agreement, tense and spelling, and plan before you write.
 - Use your own prepared references from the work; this page does not replace studying it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--03-five-angles.webp" width="900" height="664" alt="Each studied work is prepared from five angles: form and technique, key themes and issues, characterisation, plot structure, and social and cultural setting, then connected to the qualification’s four themes for AO4." loading="lazy">
+  <figcaption>Revise each work from all five angles and link it to the wider themes.</figcaption>
+</figure>
 
 ## Vocabulary for writing about the film
 
@@ -116,6 +136,11 @@ Task: what message does the film give about the relationship between India and P
 **Translation:** The film *Bajrangi Bhaijaan* gives a message of humanity that goes beyond borders. Pawan, a truthful and simple-hearted man, decides to take a little Pakistani girl, Shahida, who cannot speak, to her home, although their religion and country are both different. On this journey the Pakistani journalist Chand Nawab supports him, and the video he makes changes the hearts of ordinary people in both countries. In this way the film shows that the media can spread love instead of hatred. In my view the film's ending is certainly rather emotional, but its message is very important today.
 
 **Why it works:** a clear position, evidence from character and plot, a cultural link to the media, and a balanced evaluation. In a real answer, add one or two specific scenes and comment on a technique such as music or the journey structure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--04-works-response-structure.webp" width="900" height="710" alt="A works essay states a position, supports it with two or three specific scenes or lines, and closes by connecting the issue to its wider social theme, earning AO3 through precise language and AO4 through cultural context. Chronological retelling is the trap." loading="lazy">
+  <figcaption>Position, evidence, cultural connection: argue, do not retell.</figcaption>
+</figure>
 
 ## Essay prompts to prepare
 

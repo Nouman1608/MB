@@ -74,6 +74,11 @@ Percentage change in exports = (new − old) ÷ old × 100
 
 Keep the minus sign: "7 bn" alone hides whether it is a deficit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--01-balance-of-trade.webp" width="900" height="614" alt="Bars for fictional Norland: exports of 48 billion dollars against imports of 55 billion, a balance of minus 7 billion, which is a trade deficit. Exports rose 20% from 40 billion the year before." loading="lazy">
+  <figcaption>Exports minus imports: a negative answer is a deficit, so keep the sign.</figcaption>
+</figure>
+
 ## Why countries trade: absolute and comparative advantage
 
 A country has an **absolute advantage** in a good if it makes more of it than another country with the same resources.
@@ -124,6 +129,16 @@ Total output rises by 4 sacks and 8 rolls. If Belmar swaps 16 rolls for 24 sacks
 
 **Limits of the model:** it ignores transport costs, assumes workers switch jobs easily, and ignores who gets the gains.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--02-comparative-advantage.webp" width="900" height="706" alt="Per worker per day, Arlen makes 12 sacks of coffee or 6 rolls of textiles; Belmar makes 4 or 4. Arlen has the absolute advantage in both, but Belmar gives up only 1 sack per roll against Arlen’s 2, so Belmar has the comparative advantage in textiles and Arlen in coffee." loading="lazy">
+  <figcaption>The lower opportunity cost, not the bigger output, decides who should specialise in what.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--03-gains-from-trade.webp" width="900" height="710" alt="Before trade Arlen has 60 coffee and 30 textiles and Belmar 20 and 20. After specialising and swapping 16 rolls for 24 sacks, Arlen has 60 coffee and 34 textiles and Belmar 24 and 24. Total output rises from 80 coffee and 50 textiles to 84 and 58." loading="lazy">
+  <figcaption>Specialising by comparative advantage raises total output, and trade shares the gain.</figcaption>
+</figure>
+
 ## Free trade and protectionism
 
 **Free trade** has no government barriers. **Protectionism** uses barriers to shield domestic producers:
@@ -139,6 +154,11 @@ Total output rises by 4 sacks and 8 rolls. If Belmar swaps 16 rolls for 24 sacks
 | Keeps key goods (food, medicine) in national hands | Competition pushes firms to become efficient |
 
 The **World Trade Organization (WTO)** began work in 1995, taking over from the General Agreement on Tariffs and Trade (GATT) of 1947. It sets trade rules for members and settles disputes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--04-protectionism.webp" width="900" height="629" alt="Three protection tools: a tariff, a tax on imports that raises a 200-dollar bicycle to 230 dollars at 15%; a quota limiting import quantity; and a subsidy to domestic producers. Below, arguments for protection (jobs, infant industries, key goods) against arguments for free trade (prices and choice, specialisation, efficiency)." loading="lazy">
+  <figcaption>Tariffs, quotas and subsidies shield home producers, at a cost to consumers and efficiency.</figcaption>
+</figure>
 
 ## Trade blocs
 
@@ -156,6 +176,11 @@ A **trade bloc** is a group of countries that agree to reduce or remove trade ba
 **Costs:** more competition for firms inside; trade **diverted** from cheaper outside producers; less control over national trade policy. Outsiders find it harder to sell to the bloc.
 
 For how the EU and ASEAN work as organisations, see the [superpowers, empires and alliances study guide](/resources/ib-myp-individuals-and-societies-superpowers-empires-alliances/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--05-trade-bloc-levels.webp" width="900" height="733" alt="A staircase of four levels: a free trade area such as USMCA or the African Continental Free Trade Area; a customs union adding a common external tariff, such as Mercosur; a common market adding free movement of labour and capital, such as the EU single market; and an economic union adding shared policies, such as the euro area." loading="lazy">
+  <figcaption>Each step up adds a layer: common tariff, then free movement, then shared policy.</figcaption>
+</figure>
 
 ## Fair trade
 
@@ -177,6 +202,11 @@ Fair-trade share   = 0.64 ÷ 8.40 × 100 = 7.6% (to 1 d.p.)
 The grower's share rises, but most of the price still goes to processing, shipping, shops and tax.
 
 **Debate.** Supporters say fair trade gives stable incomes and funds community projects. Critics say only a small share of trade is certified, certification costs money the poorest farmers may lack, and a guaranteed price may keep farmers in a crop when switching would earn more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--06-fair-trade-share.webp" width="900" height="660" alt="Two bars for a fictional bag of coffee. Conventional: 8.00 dollars, of which the grower gets 0.40, or 5.0%. Fair trade: 8.40 dollars, of which the grower gets 0.64, or 7.6%. Most of the price still goes to processing, shipping, shops and tax. Below, how Fairtrade works and what critics say." loading="lazy">
+  <figcaption>The grower’s share rises under fair trade, but most of the price still goes elsewhere.</figcaption>
+</figure>
 
 ## Aid
 
@@ -216,6 +246,11 @@ Shortfall = 4.2 − 2.7 = 1.5 bn
 
 Debt grew so heavy that the IMF and World Bank launched the **Heavily Indebted Poor Countries (HIPC) Initiative** in 1996 to reduce it. Some argue "trade, not aid" is the better long-term route; others reply that poor countries need aid to build the roads, ports and skills trade requires. Present both views with evidence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--07-types-of-aid.webp" width="900" height="855" alt="Aid can be bilateral, government to government; multilateral, through bodies such as the World Bank; or voluntary, through charities. It is also short-term emergency relief or long-term development, top-down or bottom-up, and sometimes tied to spending on the donor’s goods. The UN target is 0.7% of donor GNI." loading="lazy">
+  <figcaption>Who gives it, for how long and on what terms all shape whether aid helps.</figcaption>
+</figure>
+
 ## Exchange in history
 
 Trade has always moved more than goods.
@@ -224,6 +259,11 @@ Trade has always moved more than goods.
 - **The Columbian Exchange** -- after 1492, maize, potatoes, tomatoes and cacao went from the Americas to Europe, Africa and Asia; horses, cattle, wheat and sugar cane went the other way. Diseases such as smallpox and measles killed very large numbers of Indigenous people in the Americas.
 
 Both show **globalization** at work long before modern trade blocs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--08-columbian-exchange.webp" width="900" height="650" alt="After 1492, maize, potatoes, tomatoes and cacao moved from the Americas to Europe, Africa and Asia, while horses, cattle, wheat and sugar cane moved the other way. Smallpox and measles also crossed and killed very large numbers of Indigenous people in the Americas." loading="lazy">
+  <figcaption>Exchange carried crops, animals and deadly diseases in both directions.</figcaption>
+</figure>
 
 ## Common errors
 

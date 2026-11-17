@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-igcse-sociology-9292-research-methods--01-positivist-interpretivist.webp",
+  "width": 900,
+  "height": 492,
+  "after": "## Approaches to research",
+  "alt": "Positivists model sociology on the natural sciences and use quantitative data from large samples, such as questionnaires and official statistics, to find patterns and causes, as in Durkheim’s study of suicide. Interpretivists seek the meanings behind actions using qualitative methods for depth and validity. Triangulation combines both.",
+  "caption": "Positivists count to find causes; interpretivists listen to find meanings.",
+  "bytes": 100424
+ },
+ {
+  "file": "oxfordaqa-igcse-sociology-9292-research-methods--02-six-sampling-methods.webp",
+  "width": 900,
+  "height": 935,
+  "after": "## Issues in research",
+  "alt": "Six panels: random (equal chance), systematic (every nth name), stratified random (groups such as gender sampled in proportion), quota (set numbers filled by the researcher’s choice), multistage (regions, then schools, then pupils) and snowball (participants introduce others). A random sample needs a sampling frame.",
+  "caption": "Each sampling method selects people differently, which affects how representative the sample is.",
+  "bytes": 177332
+ },
+ {
+  "file": "oxfordaqa-igcse-sociology-9292-research-methods--03-observation-experiments.webp",
+  "width": 900,
+  "height": 691,
+  "after": "## The main methods",
+  "alt": "Four kinds of observation: participant (joining in, as in ethnography), non-participant (watching only), overt (the group knows) and covert (the group does not know, which avoids the Hawthorne effect but deceives). Below, laboratory experiments give control but are artificial; field experiments such as Rosenthal and Jacobson’s are real but less controlled.",
+  "caption": "Observers choose whether to join in and whether to tell; experimenters trade control for realism.",
+  "bytes": 109902
+ },
+ {
+  "file": "oxfordaqa-igcse-sociology-9292-research-methods--04-reliability-validity.webp",
+  "width": 900,
+  "height": 635,
+  "after": "## Issues in research",
+  "alt": "Three targets. Shots clustered tightly away from the centre are reliable but not valid; shots scattered around the centre are valid but not reliable; shots tightly on the bullseye are both. Below, three threats to validity: researcher bias, the Hawthorne effect and social desirability.",
+  "caption": "Reliable means repeatable; valid means true. A study needs both.",
+  "bytes": 103318
+ },
+ {
+  "file": "oxfordaqa-igcse-sociology-9292-research-methods--05-operationalisation-correlation.webp",
+  "width": 900,
+  "height": 494,
+  "after": "## Issues in research",
+  "alt": "Left: the concept of poverty can be measured through income, possessions or both. Right: two lines, A and B, rise together over time, but that correlation does not prove that A causes B.",
+  "caption": "Decide how to measure a concept, and never treat a correlation as proof of cause.",
+  "bytes": 75548
+ },
+ {
+  "file": "oxfordaqa-igcse-sociology-9292-research-methods--06-interpreting-data.webp",
+  "width": 900,
+  "height": 612,
+  "after": "## Interpreting data",
+  "alt": "Left: five steps for tables, charts and graphs: read the title, units and source; state the highest and lowest figures; describe the trend; quantify differences; say what the data does not show. Right: for qualitative extracts, identify meanings, quote a short phrase and consider the observer’s effect.",
+  "caption": "Read the labels, find the extremes and trend, quote figures, then note the limits.",
+  "bytes": 104004
+ },
+ {
+  "file": "oxfordaqa-igcse-sociology-9292-research-methods--07-racism-method-choice.webp",
+  "width": 900,
+  "height": 610,
+  "after": "## Worked example: choosing a method for a Paper 2 topic",
+  "alt": "For a study of young people’s experiences of racism, a questionnaire is anonymous and shows how common racism is but loses meaning; unstructured interviews give rich accounts but use small samples and risk interviewer bias. Ethics require consent, anonymity and support. The judgement is triangulation: a questionnaire for extent, then interviews for meaning.",
+  "caption": "Evaluate methods for this topic, cover ethics, then justify a combination.",
+  "bytes": 110966
+ }
+]

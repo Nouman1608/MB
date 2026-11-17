@@ -57,6 +57,11 @@ The distinction predicts *durability*: NSI changes behaviour only while the grou
 
 **Resistance:** social support and an internal locus of control.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-introductory-topics--17-intro-linked-arguments.webp" width="900" height="850" alt="Social influence runs from why people conform or obey, to what makes it more or less likely, to how people resist, with minority influence as the flip side of majority conformity. In attachment, Lorenz's imprinting and its critical period lead to Bowlby's monotropic theory." loading="lazy">
+  <figcaption>Revise social influence and attachment as one argument each rather than disconnected parts.</figcaption>
+</figure>
+
 ## Memory
 
 **Multi-store model:** sensory register (very brief) → attention → STM (5–9 items, 18–30 s, acoustic coding) → rehearsal → LTM (unlimited, semantic coding).
@@ -72,6 +77,11 @@ The distinction predicts *durability*: NSI changes behaviour only while the grou
 - **Misleading information** — Loftus and Palmer's leading questions ("smashed" vs "hit" changed speed estimates and produced false memories of broken glass); post-event discussion causes memory conformity.
 - **Anxiety** — the weapon focus effect narrows attention, but the **Yerkes-Dodson inverted U** means moderate arousal can *improve* recall. That contradiction is the evaluation.
 - **Cognitive interview** — report everything, reinstate context, reverse the order, change perspective. It improves the **quantity** of correct information without proportionally increasing errors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-introductory-topics--16-intro-memory-models.webp" width="900" height="960" alt="The multi-store model (sensory register, short-term memory, long-term memory) with short-term memory expanded into the working memory model: central executive, phonological loop, visuo-spatial sketchpad and episodic buffer." loading="lazy">
+  <figcaption>The working memory model is a more detailed account of the short-term store, not a rival model.</figcaption>
+</figure>
 
 ## Attachment
 

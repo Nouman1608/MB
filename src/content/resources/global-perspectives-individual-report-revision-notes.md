@@ -36,6 +36,11 @@ Individual Report, applied here to independent, candidate-led research. The syll
 collaboration, which is assessed in the Team Project; the Written Exam assesses research, analysis and
 evaluation only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-individual-report--01-three-components.webp" width="900" height="458" alt="Three cards compare the components of 0457: the Written Exam assesses research, analysis and evaluation; the Individual Report adds reflection and communication; the Team Project is where collaboration is assessed. Below, Component 2 facts: 30% of the qualification, 60 marks, 1500 to 2000 words, internally set and externally marked." loading="lazy">
+  <figcaption>The Individual Report is the most independent component and assesses five of the six skills.</figcaption>
+</figure>
+
 ## Build the question, not the topic
 
 A broad topic title ("Climate change") gives no structure. Build a **research question** with a
@@ -47,6 +52,16 @@ named place, a named issue, and room for more than one perspective:
 This single question already sets up at least two perspectives (an upstream government prioritising
 its own agriculture; a downstream government facing shortages) that the report can research, compare
 and evaluate before proposing a course of action.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-individual-report--02-topic-to-question.webp" width="900" height="756" alt="A narrowing funnel: a topic from the syllabus list, then its context, then a global issue with present-day impact that divides opinion, and finally a global research question that becomes the report title." loading="lazy">
+  <figcaption>Each step narrows the focus until one researchable question is left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-individual-report--06-weak-vs-strong-question.webp" width="900" height="550" alt="Side-by-side comparison. The title Climate change is too broad. A question such as To what extent should a named country restrict a named industry to protect a named resource names a place and an issue, allows more than one perspective and gives enough structure for the word count." loading="lazy">
+  <figcaption>Start with the question, not the topic.</figcaption>
+</figure>
 
 ## Structure in the syllabus's recommended order
 
@@ -65,6 +80,16 @@ differently-ordered report is not marked down for its order alone — but follow
 sequence makes it far easier to evidence everything the criteria reward, and structure and clarity are
 marked in their own right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-individual-report--04-report-sequence.webp" width="900" height="672" alt="Four numbered steps: explain the issue and its perspectives; analyse causes and consequences; evaluate possible courses of action and justify one; reflect and conclude by answering the research question." loading="lazy">
+  <figcaption>Following the recommended sequence makes each requirement easy to evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-individual-report--05-marks-by-ao.webp" width="900" height="567" alt="A bar split into AO1 (40 marks), AO2 reflection (5 marks) and AO3 communication (15 marks). Underneath, the eight marking tables: global issue, causes and consequences, perspectives, courses of action, evaluation of sources, reflection, structure and clarity, and referencing." loading="lazy">
+  <figcaption>Two-thirds of the marks sit in the five AO1 tables.</figcaption>
+</figure>
+
 ## Referencing — start on day one
 
 Keep a running reference list from the **first source read**, not reconstructed at the end.
@@ -78,12 +103,22 @@ style, but it must be **clear and consistently applied**.
 For every source: state its **value to the research**, and whether it is **reliable and credible**.
 Citing a source without evaluating it earns nothing on the evaluation of evidence and sources criterion (AO1).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-individual-report--07-sources-two-jobs.webp" width="900" height="573" alt="One source branches into two jobs. AO1 evaluation: explain its value and judge whether it is reliable and credible. AO3 communication: cite it with a complete, consistent, clearly linked referencing system." loading="lazy">
+  <figcaption>Evaluating a source and referencing it are marked separately.</figcaption>
+</figure>
+
 ## Perspectives must explain "why," not just "what"
 
 It is not enough to state that a group holds a view — explain **why** their perspective differs from
 another's. Contrasting local farmers and local politicians on the same issue, for instance, means
 explaining the different pressures (livelihood vs. budget, short-term vs. long-term) driving each
 view.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-individual-report--03-shared-river-perspectives.webp" width="900" height="806" alt="A river runs from an upstream country to a downstream country. The upstream government prioritises its own agriculture; the downstream government faces shortages. The report compares both perspectives, then weighs actions such as a joint water-sharing treaty or an independent monitoring body." loading="lazy">
+  <figcaption>A good question sets up at least two perspectives that the report can compare.</figcaption>
+</figure>
 
 ## Why "knowledge of content is not assessed" changes how you revise
 

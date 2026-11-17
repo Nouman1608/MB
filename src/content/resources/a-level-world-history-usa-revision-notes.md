@@ -46,6 +46,16 @@ Civil War, 1820-61" topic is merged into a single topic spanning 1820-77.
 - Central unresolved question: what freedom and citizenship would actually mean for formerly enslaved
   people in the post-war South.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-usa-1820-1941--15-wh-usa-civil-war-causes.webp" width="900" height="1070" alt="Three overlapping circles: slavery spreading into new territories, North-South economic differences, and state versus federal power. Gold arrows show the example argument that slavery shaped the other two. The circles lead to the Civil War and then Reconstruction." loading="lazy">
+  <figcaption>The three causes of the Civil War interlock, with slavery’s expansion shaping the other two in the lesson’s example argument.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--06-reconstruction-timeline.webp" width="900" height="650" alt="A timeline from 1863 to 1877 drawn to scale. The advances cluster between 1865 and 1871: the 13th Amendment, the Reconstruction Acts, the 14th Amendment and impeachment, the 15th Amendment and the Force Acts. The retreat follows: the Amnesty Act (1872), the Panic of 1873 and Colfax, a barely enforced Civil Rights Act (1875) and the Compromise of 1877." loading="lazy">
+  <figcaption>Gains came fast from 1865 to 1871; after 1872 the North pulled back.</figcaption>
+</figure>
+
 ## Section 5: The Gilded Age and the Progressive Era, 1870s-1920
 
 - Structure: Gilded Age problems (inequality, corruption, poor urban/working conditions) →
@@ -53,12 +63,22 @@ Civil War, 1820-61" topic is merged into a single topic spanning 1820-77.
 - Name and briefly explain a specific Progressive reform — worth more than a purely descriptive account
   of the period's "atmosphere."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-usa-1820-1941--16-wh-usa-gilded-reforms.webp" width="900" height="810" alt="Three Gilded Age problems, inequality, corruption, and poor urban and working conditions, each pointing to a dashed card for a named Progressive Era reform or law." loading="lazy">
+  <figcaption>Connect each Gilded Age problem to a specific named Progressive reform.</figcaption>
+</figure>
+
 ## Section 6: The Great Crash, the Great Depression and the New Deal, 1920-41
 
 - Causes of the 1929 Crash: speculative excess, structural banking/agricultural weaknesses, limits of
   1920s prosperity.
 - Evaluate New Deal measures individually — some addressed relief, some recovery, some longer-term
   reform. Never treat "the New Deal" as one undifferentiated policy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-usa-1820-1941--17-wh-usa-crash-buildup.webp" width="900" height="850" alt="Three wedges widen from 1920 to 1929 and meet the 1929 Crash: speculative excess, weak banking and agriculture, and the limits of 1920s prosperity. Below: Wall Street Crash, Great Depression, New Deal. Wedge widths are illustrative." loading="lazy">
+  <figcaption>The 1929 Crash grew out of weaknesses that built up through the 1920s.</figcaption>
+</figure>
 
 ## Exam technique for this option
 
@@ -84,6 +104,11 @@ regulation) can be judged on their longer-term structural impact rather than imm
 candidate who evaluates at least one measure from each category, rather than treating "the New Deal"
 as monolithic, demonstrates exactly the kind of differentiated judgement this topic rewards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-usa-1820-1941--18-wh-usa-new-deal.webp" width="900" height="850" alt="The Great Depression leads to Roosevelt’s New Deal, which splits into relief, recovery and longer-term reform. Each group holds named measures to judge on their own terms." loading="lazy">
+  <figcaption>The New Deal was a set of measures aimed at relief, recovery and longer-term reform.</figcaption>
+</figure>
+
 ## Connecting the three topics into one argument
 
 Although Sections 4-6 are taught as three separate topics, strong Paper 1 and Paper 2 answers often draw
@@ -94,6 +119,11 @@ caused the Crash (Section 6) can be linked back to the limited federal economic 
 or not established, during the Gilded Age (Section 5). Building this kind of cross-topic awareness, even
 though each topic is individually revisable, gives candidates material for the more synoptic-style
 questions that occasionally appear.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-usa-1820-1941--14-wh-usa-timeline.webp" width="900" height="760" alt="A timeline from 1820 to 1941 with three bars: Civil War and Reconstruction 1820-77, Gilded Age and Progressive Era 1870-1920, and Great Crash, Depression and New Deal 1920-41. The first two overlap for seven years." loading="lazy">
+  <figcaption>The Civil War and Gilded Age topics overlap by seven years, 1870-77.</figcaption>
+</figure>
 
 ## Common mistakes
 

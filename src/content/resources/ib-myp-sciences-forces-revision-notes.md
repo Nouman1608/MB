@@ -56,6 +56,11 @@ So forces can come up as recall and calculation (A), inside an experiment you de
 - **Pressure** -- force per unit area, acting at right angles to a surface.
 - **Moment** -- turning effect of a force about a pivot.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-forces--01-forces-and-free-body.webp" width="900" height="910" alt="Contact forces (friction, air resistance or drag, tension, normal force, upthrust) and non-contact forces (gravitational, magnetic, electrostatic). A book on a table is drawn as a box with an upward normal force from the table and an equal downward weight from the Earth. A 60 kg astronaut weighs 588 N on Earth and 96 N on the Moon." loading="lazy">
+  <figcaption>A free-body diagram shows one object and only the forces acting on it.</figcaption>
+</figure>
+
 ## Equations
 
 | Quantity | Equation | Units |
@@ -70,11 +75,26 @@ So forces can come up as recall and calculation (A), inside an experiment you de
 
 Take g = 9.8 N/kg near Earth unless a question gives another value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-forces--06-pressure.webp" width="900" height="860" alt="A 600 N walker presses on snow through boots of area 0.030 m², giving 20 000 Pa, or snowshoes of 0.24 m², giving 2 500 Pa, eight times less. Below, water pushes on a dam with arrows that lengthen with depth; at 5.0 m in fresh water the extra pressure is 5.0 × 1000 × 9.8 = 49 000 Pa, so the dam is thicker at the base." loading="lazy">
+  <figcaption>Spread a force over more area for less pressure; liquid pressure grows with depth.</figcaption>
+</figure>
+
 ## Newton's laws in one line each
 
 1. No resultant force → no change in motion (stays at rest or constant velocity).
 2. Resultant force → acceleration in the direction of the force, with F = ma.
 3. A on B means B on A: equal size, opposite direction, same type, different objects.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-forces--03-third-law-pairs.webp" width="900" height="790" alt="Left: a book’s weight and the table’s normal force both act on the book and are different types, so they are not a third-law pair. Right: the Earth pulls the book down and the book pulls the Earth up with an equal gravitational force; they act on different objects, so they are a pair. Below, the three laws in one line each." loading="lazy">
+  <figcaption>Third-law pairs act on different objects and are the same type of force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-forces--04-terminal-velocity.webp" width="900" height="720" alt="A velocity-time curve for a skydiver rises steeply, levels off at terminal velocity, then drops sharply when the parachute opens and levels at a lower terminal velocity. Free-body diagrams show weight constant while air resistance grows until it equals weight, jumps above weight when the parachute opens, then falls back to equal weight." loading="lazy">
+  <figcaption>Terminal velocity is reached when air resistance has grown to equal weight.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -97,6 +117,16 @@ Take g = 9.8 N/kg near Earth unless a question gives another value.
 > 3. Sum of clockwise moments = sum of anticlockwise moments.
 > 4. Solve for the unknown and check units (m or N).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-forces--02-resultant-force-fma.webp" width="900" height="700" alt="A boat with an 850 N engine force forward and 320 N water resistance back has a resultant of 530 N forward. A 1200 kg car with a 3000 N driving force and 600 N of friction and air resistance has a resultant of 2400 N, so its acceleration is 2400 ÷ 1200 = 2.0 m/s²." loading="lazy">
+  <figcaption>Subtract opposing forces first; only the resultant goes into F = ma.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-forces--07-moments-seesaw.webp" width="900" height="750" alt="A seesaw pivoted at its centre: a 300 N child sits 2.0 m to the left and a 400 N child 1.5 m to the right. The anticlockwise moment, 300 × 2.0 = 600 N m, equals the clockwise moment, 400 × 1.5 = 600 N m, so the seesaw balances." loading="lazy">
+  <figcaption>The heavier child balances the seesaw by sitting closer to the pivot.</figcaption>
+</figure>
+
 ## Small worked reminders
 
 - A 1200 kg car with 3000 N driving force and 600 N resistance: resultant 2400 N, a = 2400 / 1200 = **2.0 m/s²**.
@@ -112,6 +142,11 @@ Take g = 9.8 N/kg near Earth unless a question gives another value.
 | Velocity-time | Constant velocity | Constant acceleration | Increasing acceleration |
 
 On a velocity-time graph a line sloping **down** towards zero means deceleration. The area under it still counts as distance travelled.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-forces--05-motion-graphs.webp" width="900" height="860" alt="Three distance-time graphs: a horizontal line for stationary, a straight slope for constant speed and a steepening curve for speeding up. Below, a tram’s velocity-time graph rises to 12 m/s in 4 s (3.0 m/s²), stays at 12 m/s until 10 s, then falls to 0 at 13 s (−4.0 m/s²). The areas 24 m, 72 m and 18 m give 114 m, an average speed of 8.77 m/s." loading="lazy">
+  <figcaption>Gradient gives speed or acceleration; the area under a velocity-time graph gives distance.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

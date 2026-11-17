@@ -66,6 +66,16 @@ Course links: [course hub](/boards/ib/ib-myp/myp-design/), [printable checklist]
 
 **The 6 Rs:** rethink, refuse, reduce, reuse, repair, recycle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--01-life-cycle-stages.webp" width="900" height="645" alt="Five stages in a row: raw materials, manufacture, distribution, use and end of life. Cradle-to-grave thinking looks at all five; cradle-to-cradle thinking loops end-of-life materials back to become raw materials. Designing for disassembly supports reuse, repair and recycling." loading="lazy">
+  <figcaption>Judge a product across its whole life, and design so materials can come back round.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--02-six-rs.webp" width="900" height="715" alt="Six prompts arranged in a ring: rethink a better way to meet the need, refuse unneeded parts, reduce material and energy, reuse, repair with ordinary tools, and recycle using single labelled materials. Reuse, repair and recycle are supported by designing for disassembly." loading="lazy">
+  <figcaption>Run a design through all six Rs before you settle on it.</figcaption>
+</figure>
+
 ## Method in steps: comparing two products' life cycles
 
 1. Choose one measure (e.g. energy in MJ) and one functional unit (e.g. per year).
@@ -77,6 +87,11 @@ Course links: [course hub](/boards/ib/ib-myp/myp-design/), [printable checklist]
 **Break-even for reusable against single-use:** reusable total = embodied + (per-use cost × n); single-use total = per-item cost × n. Set them equal and solve for n.
 
 *Worked reminder (fictional):* a reusable cup costs 30 MJ to make plus 0.2 MJ per wash; a disposable cup costs 1.4 MJ each. 30 + 0.2n = 1.4n gives n = 30 ÷ 1.2 = 25. The two are equal at 25 uses; the reusable cup is lower from the 26th use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--03-lunchbox-functional-unit.webp" width="900" height="755" alt="Stacked bars of fictional life-cycle energy: a polypropylene lunchbox lasting 5 years totals 42 MJ and a stainless-steel one lasting 12 years totals 95 MJ, with raw materials the largest stage in both. Per year of use, P is 8.4 MJ and S about 7.92 MJ, so S wins only if it lasts the full 12 years." loading="lazy">
+  <figcaption>A higher total can still be the better design once you divide by how long it lasts.</figcaption>
+</figure>
 
 ## Materials: must-know trade-offs
 
@@ -97,6 +112,11 @@ Course links: [course hub](/boards/ib/ib-myp/myp-design/), [printable checklist]
 4. Multiply and add. The highest total is your provisional choice.
 5. Check sensitivity: would a small change of weight change the winner? Say so.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--04-materials-matrix-weights.webp" width="900" height="765" alt="Stacked bars of a fictional weighted matrix for an outdoor planter. With durability weighted ×3, FSC timber scores 31 out of 40, ahead of recycled HDPE and galvanised steel on 29 each. With durability weighted ×5, steel scores 39 and wins, with timber and HDPE on 37." loading="lazy">
+  <figcaption>Change one weight and the winner changes, so the weights must be justified.</figcaption>
+</figure>
+
 ## Ergonomics
 
 - **Anthropometric** data: body sizes. **Physiological**: strength, fatigue, comfort. **Psychological**: perception, feedback, clarity.
@@ -107,6 +127,11 @@ Course links: [course hub](/boards/ib/ib-myp/myp-design/), [printable checklist]
 - Match the data set to the target audience (age, region, gender mix).
 
 *Worked reminder (fictional):* 95th percentile hand breadth 92 mm, 8 mm clearance each side. Internal handle length = 92 + 2 × 8 = **108 mm**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--05-stool-adjustment-range.webp" width="900" height="675" alt="A millimetre scale shows fictional popliteal heights for 13 to 16 year olds (5th 380, 50th 425, 95th 470 mm). Adding 25 mm for shoes gives seat heights from 405 to 495 mm, a 90 mm adjustment range. A fixed 450 mm stool would leave small users’ feet dangling and large users’ knees raised." loading="lazy">
+  <figcaption>When one fixed size cannot fit the 5th to 95th percentile, design for adjustment.</figcaption>
+</figure>
 
 ## Inclusive design checklist
 
@@ -128,6 +153,11 @@ The seven principles of universal design: equitable use; flexibility in use; sim
 | No manipulation | No hidden cancel buttons or pressuring pop-ups |
 | Fairness | Test with a varied group to catch bias |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--06-data-ethics.webp" width="900" height="735" alt="Five data-ethics principles for digital design: data minimisation, informed consent asked before collecting, security such as never storing passwords as plain text, transparency and control so users can see, correct and delete their data, and no manipulative dark patterns. Also check local rules and laws such as GDPR, and test with a varied group to catch bias." loading="lazy">
+  <figcaption>The data a digital solution collects is a design decision.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Recyclable** (can be recycled) is not **recycled** (contains recycled material).
@@ -142,6 +172,11 @@ The seven principles of universal design: equitable use; flexibility in use; sim
 **Criterion A research questions:** Which life-cycle stage of existing products has the largest impact? What materials do they use and where do they end up? Which percentiles matter for each dimension of my product? Who is excluded by current products? What data does a digital solution need, and what should it refuse to collect?
 
 **Criterion D impact statement formula:** what changed for the user + evidence from testing + a sustainability or ethical consequence + one honest limitation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--07-impact-statements.webp" width="900" height="665" alt="A weak impact statement just says “My product is eco-friendly.” A stronger one gives specific evidence (70% recycled aluminium), the effect on the user (four screws let a broken arm be replaced) and an honest limit (it still needs energy to recycle). Claims are then tested with real users." loading="lazy">
+  <figcaption>Specific evidence, a real effect on the user, and an honest limitation.</figcaption>
+</figure>
 
 ## Quick self-test
 

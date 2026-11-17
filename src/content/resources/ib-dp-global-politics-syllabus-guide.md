@@ -69,6 +69,16 @@ same three thematic studies alongside the same foundational strand on
 power -- a genuinely shared syllabus core across the whole subject, not
 just a shared assessment structure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-syllabus-guide--01-hours-split.webp" width="900" height="456" alt="Two stacked bars. SL, 150 hours: core 125 and engagement project 25. HL, 240 hours: core 125, engagement project 35 and HL extension 80." loading="lazy">
+  <figcaption>The 125-hour core is identical at SL and HL.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-syllabus-guide--02-concepts-and-thematic-studies.webp" width="900" height="600" alt="Four concepts, power, sovereignty, legitimacy and interdependence, sit above the three thematic studies and feed into each: rights and justice, development and sustainability, and peace and conflict. All three studies are compulsory at SL and HL." loading="lazy">
+  <figcaption>Every student studies all three themes and applies the four concepts in each.</figcaption>
+</figure>
+
 ## Internal assessment -- engagement project (25 hours SL / 35 hours HL)
 
 A written report on a political issue explored through the student's own
@@ -90,6 +100,11 @@ early -- one they can genuinely engage with directly, whether through
 research, interviews or participation -- rather than a broad topic that
 only allows for secondary-source summary.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-syllabus-guide--03-engagement-project-sl-hl.webp" width="900" height="660" alt="Side-by-side columns. SL: 25 hours, a written report on a political issue of up to 2,000 words, marked on criteria A to E. HL: 35 hours, the same report up to 2,400 words, plus further research and a recommendation assessed by an extra criterion F worth 6 marks." loading="lazy">
+  <figcaption>HL adds a real extra task: a recommendation, marked by criterion F.</figcaption>
+</figure>
+
 ## HL extension only -- Global political challenges (80 hours, HL only)
 
 This entire component does not exist for SL students. It is examined
@@ -107,6 +122,11 @@ studies: it is not a synthesis exercise across Rights and justice,
 Development and sustainability and Peace and conflict, although
 concepts and knowledge from the core topic and the thematic studies
 can inform the analysis of a researched case.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-syllabus-guide--04-hl-extension.webp" width="900" height="676" alt="The 80-hour HL-only extension is independent research into cases the student selects, linked to eight topic areas: borders, environment, equality, health, identity, poverty, security and technology. Students research at least two case studies across at least two topic areas, examined in Paper 3, worth 30% of the HL grade." loading="lazy">
+  <figcaption>At least two cases, in at least two topic areas, for a paper worth 30%.</figcaption>
+</figure>
 
 ## How to approach it
 

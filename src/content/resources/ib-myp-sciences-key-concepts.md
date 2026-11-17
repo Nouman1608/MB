@@ -55,6 +55,11 @@ There are sixteen MYP key concepts in total. Here they are, with the three scien
 
 Within sciences, key concepts link biology, chemistry and physics; across subjects, they link science to, say, geography or design. In the guide's example units, each statement of inquiry is built on one key concept. Your teacher's unit plan will name the one for your unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--01-sixteen-key-concepts.webp" width="900" height="630" alt="All sixteen MYP key concepts in a grid. Change, relationships and systems are highlighted as the three that sciences contributes; creativity, development, and time, place and space are marked as also mattering in science." loading="lazy">
+  <figcaption>Sciences contributes change, relationships and systems out of sixteen key concepts.</figcaption>
+</figure>
+
 ## Change
 
 **General meaning.** Change is a movement or conversion from one form, state or value to another. To inquire into change, you look at its causes, the process, and its consequences.
@@ -80,6 +85,16 @@ Within sciences, key concepts link biology, chemistry and physics; across subjec
 **Answer.** The system is the cup of tea and its surroundings. The change is quantitative: the temperature falls by 28 °C, a mean rate of 2.8 °C per minute. It is reversible, because the tea can be reheated. The cause is energy transfer from the hotter tea to the cooler air. The consequence is that the rate of cooling slows as the temperature difference shrinks.
 
 Note the four parts: system, type, cause, consequence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--02-kinds-of-change.webp" width="900" height="815" alt="A grid of reversible, irreversible and self-perpetuating changes in biology, chemistry and physics, such as ice melting and refreezing, methane burning, and a fission chain reaction. Below, qualitative change is a difference in kind, like a tadpole growing legs, and quantitative change is a number or rate, like a falling ball’s speed." loading="lazy">
+  <figcaption>Sort any change by type: reversible, irreversible or self-perpetuating, and qualitative or quantitative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--03-describing-a-change.webp" width="900" height="670" alt="A cooling curve for a cup of tea falling from 80 °C to 52 °C over 10 minutes, flattening as it cools. Four labels describe the change: the system is the tea and its surroundings; it is quantitative and reversible; the cause is energy transfer to cooler air; the consequence is that cooling slows. The mean rate is 2.8 °C per minute." loading="lazy">
+  <figcaption>A full answer names the system, the type of change, its cause and its consequence.</figcaption>
+</figure>
 
 ## Relationships
 
@@ -122,6 +137,16 @@ side 4 cm: SA = 96 cm², V = 64 cm³, SA:V = 1.5 : 1
 
 As side length doubles, SA:V halves. Bigger organisms have less surface per unit of volume, which is why large animals need exchange surfaces such as alveoli. The cube is a model, but the relationship holds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--04-relationship-in-data.webp" width="900" height="600" alt="Magnesium in acid: concentrations 0.5, 1.0 and 2.0 mol/dm³ take 80, 40 and 20 s, so 1/time is 0.0125, 0.025 and 0.050 per second. Plotted against concentration the points lie on a straight line through the origin: rate is directly proportional to concentration, explained by more frequent collisions." loading="lazy">
+  <figcaption>Doubling the concentration halves the time, so rate is proportional to concentration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--05-surface-area-volume.webp" width="900" height="690" alt="Three cubes of side 1, 2 and 4 cm. Their surface areas are 6, 24 and 96 cm² and volumes 1, 8 and 64 cm³, giving SA:V ratios of 6 : 1, 3 : 1 and 1.5 : 1. Each doubling of side halves the ratio, which is why large animals need exchange surfaces." loading="lazy">
+  <figcaption>Bigger means less surface per unit volume: SA:V halves each time the side doubles.</figcaption>
+</figure>
+
 ## Systems
 
 **General meaning.** A system is a set of interacting or interdependent parts. Systems give structure and order to natural, human and built environments. They can be static or dynamic, simple or complex.
@@ -139,6 +164,11 @@ As side length doubles, SA:V halves. Bigger organisms have less surface per unit
 The guide notes that models often use closed systems to simplify or limit variables. A "frictionless" pendulum in a physics model is an example: no energy leaves it.
 
 Later you will meet stricter meanings: in physics and chemistry, a closed system exchanges energy but not matter, and an isolated system exchanges neither.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--06-systems-open-closed.webp" width="900" height="770" alt="An electric circuit of cell, wires, switch and lamp: with the switch open the current stops everywhere. Below, a sealed bottle garden is close to a closed system for matter, recycling water and carbon while light enters; a pond is open, with water, nutrients and organisms entering and leaving." loading="lazy">
+  <figcaption>A system’s parts depend on each other; open systems exchange resources, closed ones do not.</figcaption>
+</figure>
 
 ## Other key concepts that matter in sciences
 
@@ -179,6 +209,11 @@ The statement of inquiry generates three kinds of question.
 | Debatable | Evaluates perspectives and develops theories | Should countries that cause acid rain pay for damage in neighbouring countries? |
 
 A quick test of our own: a textbook settles a factual question; a conceptual answer explains a pattern that applies elsewhere; a debatable one can be argued either way with evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--07-statement-of-inquiry-acid-rain.webp" width="900" height="800" alt="The key concept change, related concepts conditions and consequences, and the global context globalization and sustainability combine for a unit on acid rain and limestone. “Acid rain damages limestone” is weak; the better statement says that conditions humans create can cause changes whose consequences reach far beyond their source. It generates factual, conceptual and debatable questions." loading="lazy">
+  <figcaption>A strong statement of inquiry uses the concepts and would transfer to another topic.</figcaption>
+</figure>
 
 ## Common errors
 

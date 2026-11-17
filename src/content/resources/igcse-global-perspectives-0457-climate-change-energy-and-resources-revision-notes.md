@@ -61,6 +61,11 @@ Component 1 is 100% AO1. Command words printed in the syllabus: **analyse, descr
 | Adaptation | Coping with the effects | Raising flood walls |
 | Energy security | Reliable, affordable energy supply | A country cutting fuel imports |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--02-key-terms.webp" width="900" height="509" alt="Paired definitions: mitigation reduces the causes of climate change while adaptation copes with its effects, such as flood defences; renewable resources such as wind and sunlight are replaced naturally while coal, oil and gas run out. Energy security is reliable, affordable energy without depending too much on others." loading="lazy">
+  <figcaption>Mitigation tackles causes; adaptation copes with effects.</figcaption>
+</figure>
+
 ## Real examples at a glance
 
 You will not be marked for knowing these. Use them as context for research and to test your reasoning.
@@ -74,6 +79,16 @@ You will not be marked for knowing these. Use them as context for research and t
 | Germany's nuclear shutdown (15 April 2023) | Last three nuclear plants closed | Perspectives within one country | Safety concerns on one side, low-carbon supply on the other |
 | Alliance of Small Island States | Group of island and low-lying coastal states | A strong global perspective on urgency | They have a vested interest, but that alone does not weaken their evidence |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--04-germany-nuclear.webp" width="900" height="685" alt="A balance weighs Germany’s closure of its last three nuclear power stations on 15 April 2023. Supporters pointed to safety and waste risks; critics argued nuclear is low-carbon and closure could mean burning more fossil fuel. The evaluation asks about each side’s evidence, reasoning and vested interest." loading="lazy">
+  <figcaption>People within one country can disagree about the same energy decision.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--07-clean-and-green.webp" width="900" height="524" alt="Two sources compared. A fictional energy company leaflet calls its gas plant clean and green but has a vested interest, uses emotive language and gives no emissions figures. IPCC reports summarise many reviewed studies but give projections as ranges. Below, a five-point reliability checklist." loading="lazy">
+  <figcaption>Even a reliable source has limits; a weak one needs independent support.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Fact vs claim.** A fact can be checked. A claim needs evidence before you accept it. A number in a source is only as good as its method.
@@ -84,6 +99,11 @@ You will not be marked for knowing these. Use them as context for research and t
 - **Mitigation vs adaptation.** Cutting emissions vs coping with effects. A course of action can do one without the other.
 - **Global, national, local.** Component 2 needs local and/or national and global perspectives. Component 3 starts from a local issue.
 - **Several courses of action vs one.** In Component 2, consider several, then propose a single course of action and explain how it could be implemented and what its impact would be.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--05-cooling-feedback-loop.webp" width="900" height="567" alt="A loop of five stages: hotter summers lead to more demand for air conditioning, higher electricity use, more emissions if the power comes from fossil fuels, a stronger greenhouse effect, and hotter summers again." loading="lazy">
+  <figcaption>In a feedback loop, a consequence feeds back to strengthen its own cause.</figcaption>
+</figure>
 
 ## Mini essay plan
 
@@ -97,6 +117,11 @@ You will not be marked for knowing these. Use them as context for research and t
 6. **Judgement.** Choose one (or a justified combination). Explain why it beats the others, and what would need to be true for it to work.
 
 Each paragraph should follow: point from the source → apply it → analyse the effect → evaluate with a limitation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--08-actions-and-trade-offs.webp" width="900" height="702" alt="Three columns of actions: globally the Paris Agreement and the COP27 loss and damage fund; nationally carbon taxes, renewable subsidies and building codes; locally community solar, insulation and school energy audits. Below, a general rooftop solar subsidy cuts emissions but mainly helps wealthier districts, while a targeted subsidy is fairer but costs more per panel." loading="lazy">
+  <figcaption>Choosing an action means deciding which criterion matters most.</figcaption>
+</figure>
 
 ## Coursework ideas at a glance
 
@@ -117,6 +142,11 @@ Each paragraph should follow: point from the source → apply it → analyse the
 | Most pupils driven to school | Walk-to-school week | Count cars at the gate on matched days |
 
 For the coursework rules, see the [Individual Report revision notes](/resources/global-perspectives-individual-report-revision-notes/) and the [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--01-energy-issues-by-level.webp" width="900" height="667" alt="Three stacked cards narrow the topic: globally, how fast to cut emissions and who pays, with the Paris Agreement aim of well below 2°C and 1.5°C; nationally, how to produce electricity from coal, gas, nuclear, hydro, solar or wind; locally, rising bills, a new mine or wind farm, or a school wasting electricity." loading="lazy">
+  <figcaption>Turn a broad topic into a specific problem at global, national and local level.</figcaption>
+</figure>
 
 ## Quick self-test
 

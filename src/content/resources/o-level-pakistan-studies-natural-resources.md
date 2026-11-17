@@ -90,6 +90,11 @@ pollution or over-extraction), pair it with a specific solution, and be
 ready to explain how water issues can create conflict between regions
 or user groups competing for the same supply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-natural-resources--01-water-users.webp" width="900" height="730" alt="A water supply controlled by dams such as Mangla, Tarbela and Warsak, plus barrages, feeds agricultural, industrial and domestic users, who compete for the same supply. Below, three steps build an answer: name a specific cause, pair it with a specific solution, then explain the conflict between regions or user groups." loading="lazy">
+  <figcaption>Because every user draws on the same supply, water problems can turn into conflict.</figcaption>
+</figure>
+
 ## Forests (2b)
 
 The plantation-versus-afforestation distinction is the detail most
@@ -102,6 +107,16 @@ fuel) should be paired when explaining forest distribution, since
 "explain" questions here consistently expect both sides of the
 explanation rather than one alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-natural-resources--02-plantation-afforestation.webp" width="900" height="624" alt="Two panels compare forest planting. Plantations are planted in rows on the Indus Plain for commercial or resource use. Afforestation on mountain slopes and plateaux aims to prevent soil erosion and manage water flow." loading="lazy">
+  <figcaption>The two are the detail candidates most often blur: one is for use, the other for protection.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-natural-resources--03-deforestation-chain.webp" width="900" height="630" alt="A four-step chain: deforestation for agriculture or fuel leads to soil erosion, then silting, then flooding. A side panel lists solutions: afforestation on slopes and plateaux and sustainable use of forests." loading="lazy">
+  <figcaption>Deforestation sets off a chain from soil erosion to silting to flooding.</figcaption>
+</figure>
+
 ## Mineral resources (2c)
 
 This sub-section rewards precision with numbers and locations over
@@ -113,6 +128,11 @@ where analysis-focused marks are won: pair a named benefit (for
 example, export revenue or industrial input) with a named environmental
 cost, rather than listing benefits alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-natural-resources--04-minerals-benefit-cost.webp" width="900" height="606" alt="A balance weighs a named benefit of mineral extraction (export revenue or an input for industry) against a named environmental cost tied to a specific resource. Below, limestone, gypsum and rock salt are highlighted as the minerals whose extraction sites must be known." loading="lazy">
+  <figcaption>Pair each named benefit with a named environmental cost to judge sustainability.</figcaption>
+</figure>
+
 ## Fish (2d)
 
 The marine-versus-inland distinction runs through this entire
@@ -123,6 +143,11 @@ pair with the sustainability challenges the industry faces — the
 syllabus explicitly links "improvements" with "problems facing the
 fishing industry," so an answer describing improvements without also
 addressing ongoing sustainability problems is incomplete.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-natural-resources--05-fishing.webp" width="900" height="666" alt="Marine fishing on the Balochistan and Sindh coasts is set beside inland fishing in rivers, lakes and fish farms. Below, improvements in methods and processing are paired with the problems facing the industry, leading to its sustainability and future development." loading="lazy">
+  <figcaption>Never describe improvements without the sustainability problems they are meant to address.</figcaption>
+</figure>
 
 ## Common mistakes
 
@@ -146,6 +171,11 @@ frequently ask candidates to evaluate the sustainability of a named
 resource specifically. Revisit Section 1's map work (dams, rivers,
 coastal regions) alongside this section, since almost every Section 2
 sub-topic asks candidates to locate a feature before analysing it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-natural-resources--06-revision-grid.webp" width="900" height="554" alt="A revision grid with columns for location, use and sustainability issue, filled in for water, forests, minerals and fish from this guide: for example, water from Mangla, Tarbela and Warsak serves agricultural, industrial and domestic users but faces pollution, over-extraction and conflict." loading="lazy">
+  <figcaption>Every Section 2 resource can be revised the same way: where, what for, and how sustainable.</figcaption>
+</figure>
 
 ## Related resources
 

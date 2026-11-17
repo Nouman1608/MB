@@ -56,6 +56,11 @@ Anything else -- strand wording, descriptors, task lengths -- comes from your te
 - **Values and attitudes:** what the writer shows they believe is important, and how they feel about the subject.
 - **Inference:** a conclusion the text supports but does not state directly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-b-reading--02-main-idea-and-details.webp" width="900" height="685" alt="The main idea of Mira’s exchange blog is that helping with everyday jobs, especially cooking, improved her language more than sightseeing. Three supporting details back it up: learning words through need, what she could do by week three, and her advice to say yes to the boring jobs. “I pictured museums and markets” only sets up a contrast." loading="lazy">
+  <figcaption>The main idea is the point the whole text makes; details hold it up.</figcaption>
+</figure>
+
 ## Feature, question, effect
 
 | Feature | Ask | Typical effect |
@@ -68,6 +73,16 @@ Anything else -- strand wording, descriptors, task lengths -- comes from your te
 | Chart or infographic | What trend or comparison? | Gives evidence in a quick visual form |
 | Caption | Does it repeat, add or change the image's meaning? | Adds humour, context or a viewpoint |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-b-reading--04-poster-annotated.webp" width="900" height="725" alt="A schematic community-garden poster with five annotations: the large headline at the top is read first; the photo of two smiling generations suggests the event is open to everyone; three icons match the jobs of digging, watering and harvesting; “312 kg” and a question invite readers to join; the green strip groups the practical details and suggests nature." loading="lazy">
+  <figcaption>Link each visual or spatial feature to a specific effect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-b-reading--03-name-describe-explain.webp" width="900" height="702" alt="Visual, spatial and typographic aspects each prompt a question. A strong answer names the element (the photo), describes it precisely (Mira and her hosts laughing over a chopping board) and explains its effect (the kitchen became a social place, not a chore). “There is a photo of people cooking” is weak." loading="lazy">
+  <figcaption>Name it, describe it precisely, and explain what it does to the message.</figcaption>
+</figure>
+
 ## The three-pass routine
 
 | Pass | What you do | What it gives you |
@@ -75,6 +90,11 @@ Anything else -- strand wording, descriptors, task lengths -- comes from your te
 | 1. Skim | Title, headings, images, captions, first and last lines | Text type, audience, rough main idea |
 | 2. Scan | Question key words, then the same words or synonyms in the text | The right place to look |
 | 3. Close read | The sentences around the match; negatives, contrasts, time words | The precise answer and your evidence |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-b-reading--01-three-pass-reading.webp" width="900" height="665" alt="Three passes: skim for one to two minutes (title, headings, images, captions, first and last lines) to find the text type, audience and topic; scan for the question’s key words or synonyms; then read closely around the match, checking negatives, contrast words and time words." loading="lazy">
+  <figcaption>Skim, scan, then read closely before you answer.</figcaption>
+</figure>
 
 ## In your target language
 
@@ -112,11 +132,21 @@ Anything else -- strand wording, descriptors, task lengths -- comes from your te
 2. Check negatives, contrast words and time words.
 3. Decide, then copy the shortest phrase that proves it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-b-reading--05-purpose-audience-attitude.webp" width="900" height="728" alt="For the blog and the poster: purpose (the blog entertains and advises; the poster informs and persuades), audience (people considering an exchange; local people of any age), perspective (one visitor’s view of the exchange) and attitudes (Mira values everyday contact and is relaxed about her mistakes). Word choice such as “finally trusted” is evidence of attitude." loading="lazy">
+  <figcaption>Label each one, then back it with evidence from words and visuals.</figcaption>
+</figure>
+
 ## Small worked reminders
 
 - Statement: "Volunteers at the community garden must bring their own tools." Text: "Tools and gloves provided." **False** -- "Tools and gloves provided".
 - "Why is the time and place in a separate green strip?" -- It groups the practical details so readers can find them quickly; green links to nature and the garden.
 - Attitude from word choice: "finally trusted with the big knife" shows pride in progress; "allowed to use a knife" would be neutral.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-b-reading--06-question-types.webp" width="900" height="725" alt="Six reading question types and what earns credit: exact words for “find the word”; the right choice plus the shortest proving quotation for true or false; checking every option; rephrasing for “your own words”; name, describe and link for visuals; a label plus evidence for purpose or attitude. Example: “Mira felt confident on her first night” is false, proved by “I was nervous.”" loading="lazy">
+  <figcaption>Match your answer to what the question type rewards.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

@@ -46,6 +46,11 @@ Condensed recall for **5.1 Migration as a component of population change**. For 
 
 Population change = natural increase + net migration. Movements shorter than one year are excluded from the syllabus definition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--05-human-migration-types.webp" width="900" height="760" alt="A tree. Migration (movements shorter than one year excluded) splits into internal and international. Internal migration has four types: rural to urban, urban to rural, urban to urban, and intra-urban movement within a city. International migration is voluntary (for example economic migration) or forced (for example refugee flows)." loading="lazy">
+  <figcaption>Internal migration stays inside one country; international migration crosses borders and may be voluntary or forced.</figcaption>
+</figure>
+
 ## Worked example: the population change equation
 
 A region starts the year with 500 000 people. There are 9000 births, 4000 deaths, 6000 immigrants and 8000 emigrants.
@@ -56,6 +61,11 @@ A region starts the year with 500 000 people. There are 9000 births, 4000 deaths
 - Net migration rate = -2000 / 500 000 x 1000 = **-4 per 1000**.
 
 This shows a region can grow while losing people by migration, if natural increase is larger. In ageing HICs the reverse is common: natural decrease is offset by net in-migration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-population-distribution--10-pd-change.webp" width="900" height="900" alt="Natural change is births minus deaths; net migration is immigration minus emigration. With illustrative numbers, 120 births and 80 deaths give +40, and 30 immigrants and 50 emigrants give −20, so total change is +20." loading="lazy">
+  <figcaption>Population change has two separate components: natural change and net migration.</figcaption>
+</figure>
 
 ## Push and pull factors
 
@@ -86,6 +96,11 @@ This shows a region can grow while losing people by migration, if natural increa
 - Perception matters: people decide on what they believe, not full information.
 
 **Evaluating the models:** they assume people act rationally on economic information, but many moves are driven by family, conflict or chance. They describe patterns well but explain forced migration poorly. Lee's model is useful because it recognises that personal factors and perception filter the same push and pull factors differently for each person.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--06-human-stepped-migration.webp" width="900" height="830" alt="Four rising steps show an illustrative settlement hierarchy: village, small town, large town and city. A person moves up one step at a time (stepped migration) with three short arrows. A single long dashed arrow from village to city shows a direct rural to urban move for comparison." loading="lazy">
+  <figcaption>In stepped migration people move up the settlement hierarchy one level at a time, rather than going straight to the largest city.</figcaption>
+</figure>
 
 ## Processes: chain migration
 

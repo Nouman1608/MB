@@ -1,0 +1,20 @@
+[
+ {
+  "file": "edexcel-igcse-physics-4ph1-electromagnetism--01-electromagnet-construction.webp",
+  "width": 900,
+  "height": 745,
+  "after": "## Electromagnets (6.9P)",
+  "alt": "A coil of insulated wire wound round a soft iron core, connected to a cell through a switch, attracting iron clips. Notes explain the insulation, the soft iron core, and that more turns and a larger current make it stronger.",
+  "caption": "Insulated coil plus soft iron core: a magnet that switches on and off with the current.",
+  "bytes": 104856
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-electromagnetism--02-left-hand-rule-example.webp",
+  "width": 900,
+  "height": 790,
+  "after": "## Worked examples",
+  "alt": "A horizontal wire carries current from west to east between magnet poles, with the field pointing horizontally from north to south. By the left-hand rule the force on the wire is vertically downwards; reversing current or field makes it upwards.",
+  "caption": "Field south, current east: the thumb, and the force, point straight down.",
+  "bytes": 75140
+ }
+]

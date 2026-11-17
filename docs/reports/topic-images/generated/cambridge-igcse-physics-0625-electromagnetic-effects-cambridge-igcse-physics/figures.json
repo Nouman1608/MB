@@ -1,0 +1,65 @@
+[
+ {
+  "file": "cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--01-motor-effect-vs-induction.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## Two effects that mirror each other",
+  "alt": "Motor effect: current plus magnetic field gives a force, transferring electrical energy to kinetic. Induction: motion plus magnetic field gives an induced e.m.f., transferring kinetic energy to electrical. For Extended, the left-hand rule (motors) and right-hand rule (generators) both use the first finger for field and second finger for current, with the thumb for motion; the two rules give opposite current directions for the same field and motion.",
+  "caption": "Left hand for motors, right hand for generators: First finger Field, seCond finger Current, thumb motion.",
+  "bytes": 83920
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--02-induction-magnet-and-coil.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## Electromagnetic induction",
+  "alt": "A bar magnet is pushed, N pole first, into a coil connected to a meter: the near end of the coil becomes an N pole that repels the magnet. Pulling it out makes the near end an S pole that attracts it, and the meter deflects the other way. A bigger e.m.f. comes from faster movement, a stronger magnet or more turns.",
+  "caption": "The induced current always opposes the movement that causes it.",
+  "bytes": 100298
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--03-ac-generator-emf-time.webp",
+  "width": 900,
+  "height": 720,
+  "after": "## The a.c. generator (Extended only)",
+  "alt": "An e.m.f.–time graph for one turn of a coil between N and S poles. The e.m.f. is zero when the coil is perpendicular to the field and at a peak or trough when it is parallel to the field. A dashed curve for faster spinning has higher peaks and more cycles in the same time.",
+  "caption": "Peaks when the coil is parallel to the field, zero when perpendicular.",
+  "bytes": 85538
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--04-wire-and-solenoid-fields.webp",
+  "width": 900,
+  "height": 720,
+  "after": "## Magnetic effect of a current",
+  "alt": "End view of a straight wire with current out of the page, surrounded by anticlockwise concentric circles that get further apart with distance. A solenoid with current flowing down the front of each turn has strong, parallel field lines inside running from S to N and a bar-magnet-like field outside, with the N pole at the right-hand end.",
+  "caption": "Right-hand grip rule: thumb along the current for a wire; thumb to the N pole for a solenoid.",
+  "bytes": 122810
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--05-force-on-conductor.webp",
+  "width": 900,
+  "height": 560,
+  "after": "## Force on a current-carrying conductor",
+  "alt": "Four end views of a wire between magnetic poles. Reversing the current reverses the force, reversing the field reverses the force, and reversing both leaves the force unchanged. For Extended, an electron beam is treated as a current in the opposite direction to the electrons' motion.",
+  "caption": "Reverse one of current or field and the force reverses; reverse both and it does not.",
+  "bytes": 80368
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--06-transformer-worked-example.webp",
+  "width": 900,
+  "height": 598,
+  "after": "## The transformer",
+  "alt": "A soft-iron core with a primary coil of 2300 turns on 230 V a.c. and a secondary coil giving 6.0 V at 0.50 A. Ns = 2300 × 6.0 / 230 = 60 turns, and for Extended Ip = (0.50 × 6.0) / 230 = 0.013 A. An alternating current makes a changing field in the core that induces an e.m.f. in the secondary.",
+  "caption": "Vp/Vs = Np/Ns; with 100% efficiency IpVp = IsVs, so stepping voltage down steps current up.",
+  "bytes": 74580
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--07-transmission-losses.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## The transformer",
+  "alt": "Sending 20 MW through 5.0 Ω cables: at 400 kV the current is 50 A and the loss is 12.5 kW, a tiny fraction; at 20 kV the current is 1000 A and the loss is 5.0 MW, a quarter of the power sent. Twenty times the voltage gives one twentieth of the current and one four-hundredth of the loss.",
+  "caption": "Higher voltage, smaller current, much smaller I²R loss in the cables.",
+  "bytes": 92540
+ }
+]

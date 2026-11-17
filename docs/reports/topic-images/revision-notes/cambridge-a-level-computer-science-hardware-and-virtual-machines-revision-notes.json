@@ -1,0 +1,9 @@
+{ "page": "cambridge-a-level-computer-science-hardware-and-virtual-machines-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--07-pipeline-timing.webp", "after": "## Pipelining" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--08-pipeline-speedup.webp", "after": "## Pipelining" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--09-flynn-classification.webp", "after": "## Flynn's four architectures" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--10-virtual-machine.webp", "after": "## Virtual machines" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--12-full-adder.webp", "after": "## Half adder and full adder" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--13-flip-flops.webp", "after": "## Flip-flops" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--11-kmap-worked-example.webp", "after": "## Karnaugh maps" }
+] }

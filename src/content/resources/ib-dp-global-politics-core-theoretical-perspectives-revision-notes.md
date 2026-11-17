@@ -52,6 +52,11 @@ For full explanations and a worked case, read the [study guide](/resources/ib-dp
 | Gender as a category | Analysing how ideas of masculinity and femininity shape politics |
 | Eurocentrism | Treating European or Western experience as the universal standard |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-theoretical-perspectives--01-theory-model-framework.webp" width="900" height="533" alt="Three tools: a theory explains how politics works, a model simplifies one part into categories such as hard, soft and smart power, and an analytical framework structures questions, such as looking at different scales. They organise, simplify, explain, predict, prescribe and evaluate." loading="lazy">
+  <figcaption>Theories explain, models sort, frameworks structure the questions.</figcaption>
+</figure>
+
 ## The five perspectives at a glance
 
 | Perspective | Main actors | Core assumption | Key names to cite |
@@ -62,6 +67,16 @@ For full explanations and a worked case, read the [study guide](/resources/ib-dp
 | Feminism | People, including those the state ignores | Gender shapes power, security and the economy | Enloe |
 | Postcolonialism | Former colonies, Global South, peoples | Colonial hierarchy still structures world politics | Said (1978); Mignolo |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-theoretical-perspectives--02-realism-liberalism.webp" width="900" height="457" alt="A comparison table. Realism starts from anarchy and self-help, focuses on states and relative gains, and uses ideas such as the security dilemma; thinkers include Morgenthau, Waltz and Mearsheimer. Liberalism accepts anarchy but sees cooperation through institutions, many actors and absolute gains, with complex interdependence and democratic peace; Keohane and Nye are key." loading="lazy">
+  <figcaption>Relative versus absolute gains is the hinge between realism and liberalism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-theoretical-perspectives--03-critical-theories.webp" width="900" height="550" alt="Social constructivism holds that ideas, identities and norms shape interests, as in Wendt’s 1992 article and the landmine campaign. Feminism makes gender a category of analysis, citing Enloe and UN Resolution 1325. Postcolonialism studies how colonialism still shapes the world, citing Said’s Orientalism and Mignolo." loading="lazy">
+  <figcaption>Critical theories ask what ideas, gender and colonial history do to global politics.</figcaption>
+</figure>
+
 ## Key concepts by perspective
 
 | | Power | Sovereignty | Legitimacy | Interdependence |
@@ -71,6 +86,11 @@ For full explanations and a worked case, read the [study guide](/resources/ib-dp
 | Constructivism | Includes ideas | Changing social institution | Shared norms | Builds identity and trust |
 | Feminism | Power over vs power with | Can hide private harm | Who is excluded? | Gendered labour chains |
 | Postcolonialism | Historical hierarchy | Limited in practice | Who sits at the table? | Dependency |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-theoretical-perspectives--05-concept-grid.webp" width="900" height="638" alt="A grid of how realism, liberalism, constructivism, feminism and postcolonialism read power, sovereignty, legitimacy and interdependence; for example realism sees power as material and relative, while postcolonialism sees it as built on historical hierarchy. R2P is read as norm change by constructivists and as selective power by realists." loading="lazy">
+  <figcaption>Each lens reads the same key concept differently.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -98,6 +118,11 @@ For full explanations and a worked case, read the [study guide](/resources/ib-dp
 3. Match the pattern to a perspective.
 4. Name what a rival perspective would say about the same source.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-theoretical-perspectives--07-theory-paragraph.webp" width="900" height="604" alt="Four parts of a theory paragraph, using the COVID-19 pandemic: a realist claim that states protect their own first; the case of export restrictions on vaccines and supplies; a link to sovereignty and national interest; and a limit, with COVAX as a liberal counterpoint and a postcolonial point that lower-income states waited longest." loading="lazy">
+  <figcaption>Claim, case, key concept, limit: then turn to another lens.</figcaption>
+</figure>
+
 ## Worked reminders
 
 **Realism on an alliance.** A state joins a defence pact because a neighbour's army is growing. Realist reading: balancing against a threat to survival. Concept: power and sovereignty.
@@ -112,10 +137,20 @@ For full explanations and a worked case, read the [study guide](/resources/ib-dp
 
 **Liberalism vs realism on sanctions.** A group of states imposes trade sanctions on a rival. Realist reading: economic pressure is a tool of power to weaken the target. Liberal reading: sanctions work best when coordinated through institutions, and interdependence gives them force. Evaluation: both assume states are the key actors, so a feminist or postcolonial lens asks who inside the target state bears the cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-theoretical-perspectives--04-two-mechanisms.webp" width="900" height="540" alt="Left, realism’s security dilemma: A arms for defence, B sees a threat and arms, A sees a threat in turn, and everyone ends up less safe. Right, constructivism: norm entrepreneurs such as the International Campaign to Ban Landmines spread a new norm that led to the 1997 Ottawa Treaty." loading="lazy">
+  <figcaption>Realism explains spirals of fear; constructivism explains how new norms take hold.</figcaption>
+</figure>
+
 ## Using theory in the papers
 
 - **Paper 1** is source-based and draws on the core topics, so a source may reason like a realist or a liberal. Name the pattern and quote the words that show it.
 - **Paper 2** section B asks integrating questions linking the thematic studies and the core. Two or three lenses, each with a limit, meet the markband demand for diverse perspectives.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-theoretical-perspectives--06-paris-five-lenses.webp" width="900" height="744" alt="The 2015 Paris Agreement read through five perspectives: realism (self-set targets protect sovereignty), liberalism (reporting and review build cooperation), constructivism (climate action as a norm of responsible statehood), feminism (who decides and who bears the cost) and postcolonialism (historical emissions and differentiated responsibilities)." loading="lazy">
+  <figcaption>Saying which lens explains which part of a case is the evaluation.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

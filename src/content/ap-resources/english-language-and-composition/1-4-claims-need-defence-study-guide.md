@@ -66,6 +66,11 @@ Writers and students confuse these four constantly.
 
 An effective claim **provokes interest** and **requires a defence**, rather than simply stating an obvious, known fact that requires no defence or justification. That is the standard from the course framework: it asks you to test each sentence by one question. *Could a reasonable person disagree, and would I need evidence or reasoning to persuade them?* If yes, you have a claim. If not, you have a fact, a topic or a preference.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-4-claims-need-defence-study-guide--01-is-it-a-claim.webp" width="900" height="602" alt="A decision tree. A statement that asserts nothing is a topic (“Homework.”). One that reports a personal taste is a preference. One that no reasonable person would dispute is a fact (“The school day currently ends at 3.30 p.m.”). Only a statement a reasonable person could dispute is a claim, which needs a defence." loading="lazy">
+  <figcaption>Ask: could a reasonable person disagree, and would I need evidence to persuade them?</figcaption>
+</figure>
+
 ## Kinds of claim
 
 Claims are not all alike. Recognising the kind helps you decide what evidence to offer:
@@ -77,6 +82,11 @@ Claims are not all alike. Recognising the kind helps you decide what evidence to
 - **Claims of policy**: argue what should be done. "The council should restore the library's hours."
 
 These labels are tools, not exam vocabulary. You do not have to name the kind, but knowing it tells you what must be defended. A claim of cause needs a causal link, not only a correlation; a claim of policy needs both a problem and a workable remedy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-4-claims-need-defence-study-guide--02-kinds-of-claim.webp" width="900" height="585" alt="Five rows name kinds of claim with the lesson’s examples: fact or existence (bypass noise), definition (a library is public infrastructure), cause (later start times improve test scores), value (charging children is wrong) and policy (restore the library’s hours). Cause needs a causal link; policy needs a problem and a workable remedy." loading="lazy">
+  <figcaption>Knowing the kind of claim tells you what the defence must show.</figcaption>
+</figure>
 
 ## Making a claim defensible and interesting
 
@@ -97,6 +107,11 @@ Look at how a weak claim is improved.
 
 Notice that the stronger versions take a side, name specifics, and invite a reader to ask "Why?" That "Why?" is what the rest of the argument answers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-4-claims-need-defence-study-guide--03-weak-to-strong-claims.webp" width="900" height="592" alt="Four tests for a strong claim, arguable, specific, supportable and significant, sit above three upgrades: an obvious statement about social media, a vague one about school lunches and a statement about opinions on uniforms each become a specific position a reader could dispute." loading="lazy">
+  <figcaption>A strong claim takes a side, names specifics and invites the question “Why?”</figcaption>
+</figure>
+
 ## Explicit and implicit claims
 
 Many writers state a main claim outright. Others imply it, or build toward it so that it appears at the end. When you read, you need to find the claim whichever way the writer presents it:
@@ -106,6 +121,11 @@ Many writers state a main claim outright. Others imply it, or build toward it so
 - **Main claim and sub-claims**: a long text has an overarching claim and several smaller claims that support it. Each paragraph usually makes a sub-claim.
 
 The exam asks you to **identify and explain claims and evidence**, so practise stating a text's main claim in one sentence, then listing the sub-claims.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-4-claims-need-defence-study-guide--04-main-claim-sub-claims.webp" width="900" height="626" alt="A tree with the main claim at the top branching to three sub-claims, usually one per paragraph. Below, the main claim may be explicit and quotable, implicit and deduced from evidence and tone, or built toward and revealed at the end." loading="lazy">
+  <figcaption>Find the main claim however it is presented, then list the sub-claims that support it.</figcaption>
+</figure>
 
 ## Two public-domain claims
 
@@ -155,9 +175,19 @@ The exam asks you to **identify and explain claims and evidence**, so practise s
 
 **Check.** Read the new sentence aloud and ask "Why?" and "How do you know?" If you can answer both with evidence, the claim is defensible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-4-claims-need-defence-study-guide--05-building-a-claim.webp" width="900" height="759" alt="A ladder of revisions: “Technology is changing how we learn” gains a specific technology (tablets), a specific setting (school classrooms) and a two-sided assertion, producing “Tablets in school classrooms improve pupils’ access to information but weaken their ability to read at length.”" loading="lazy">
+  <figcaption>Each change adds specificity, scope or a disputable position.</figcaption>
+</figure>
+
 ## Reading tip: ask the sentence the "so what?" question
 
 When reading a passage, a claim is often the sentence you could imagine someone replying to with "No, I don't think so" or "Why?". A fact generates the reply "Is that so?" or "OK". Use this reaction to locate claims quickly under exam conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-4-claims-need-defence-study-guide--06-reader-reaction-test.webp" width="900" height="486" alt="Two columns. A claim, “Homework in primary schools does more harm than good”, draws replies such as “Why?” and “No, I don’t think so.” A fact, “The school day currently ends at 3.30 p.m.”, draws “Is that so?” and “OK.”" loading="lazy">
+  <figcaption>A claim invites “Why?”; a fact invites “OK.”</figcaption>
+</figure>
 
 ## Common misconceptions
 

@@ -55,6 +55,11 @@ Metals share **good thermal and electrical conductivity**, **malleability** (can
 
 *(0620 Extended, 5070 required)* All of these come from the same cause: **metallic bonding** — a lattice of positive ions in a "sea" of delocalised electrons. The delocalised electrons carry charge (conductivity) and heat, while the ions can slide past one another without breaking the bonding (malleability, ductility).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--01-metal-properties.webp" width="900" height="1070" alt="A lattice of positive ions sits in a sea of free electrons. Layers slide when the metal is hammered, free electrons carry current and heat along a wire, and strong ion-electron attraction gives high melting points." loading="lazy">
+  <figcaption>Metallic bonding explains malleability, conduction and high melting points.</figcaption>
+</figure>
+
 ## The reactivity series — learn the order
 
 ```
@@ -65,6 +70,11 @@ MOST reactive ------------------------------> LEAST reactive
 Learn this order directly — potassium, sodium, calcium, magnesium, aluminium, (carbon), zinc, iron, (hydrogen), copper, silver, gold.
 
 Carbon and hydrogen are inserted because they determine **extraction method** and **acid reaction** — neither is a metal, but both act as reference points against which the true metals are judged.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--02-reactivity-ladder.webp" width="900" height="1089" alt="A ladder from potassium (most reactive) to gold (least) with carbon and hydrogen as dashed reference rows. Ticks, half circles and crosses show reaction with cold water, steam and dilute hydrochloric acid; aluminium is starred for its oxide layer." loading="lazy">
+  <figcaption>Position in the series predicts reactions with water, steam and acid.</figcaption>
+</figure>
 
 ## Reactions in one table
 
@@ -93,6 +103,11 @@ Consistent with the reactivity series: Mg sits well above Fe, and Fe is
 above hydrogen while Cu sits below it -- matching Cu's total lack of reaction.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--03-acid-test.webp" width="900" height="970" alt="Three test tubes of dilute hydrochloric acid. Magnesium fizzes fast with many hydrogen bubbles, iron fizzes slowly with a few, and copper shows none, giving the order magnesium, iron, copper." loading="lazy">
+  <figcaption>More vigorous fizzing in dilute acid means a more reactive metal.</figcaption>
+</figure>
+
 ## Displacement *(0620 Extended, 5070 required)*
 
 A more reactive metal displaces a less reactive one from its compound.
@@ -103,6 +118,11 @@ Cu + ZnSO4  ->  NO REACTION
 ```
 
 These are **redox**: the more reactive metal is oxidised (loses electrons); the metal ion is reduced. The same idea underlies **sacrificial protection** below — a more reactive metal is deliberately sacrificed (oxidised) so a less reactive one is not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
+</figure>
 
 ## Extraction — decided by reactivity
 
@@ -122,6 +142,11 @@ aluminium oxide** forms immediately on the surface and seals the metal
 underneath from oxygen, water and acid. If scratched, the exposed aluminium
 instantly forms fresh oxide, so the protection re-forms itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--05-aluminium-oxide-layer.webp" width="900" height="1060" alt="Three stages: oxygen reacts with fresh aluminium; a thin aluminium oxide layer seals the metal against oxygen, water and acid; a scratched layer re-forms immediately." loading="lazy">
+  <figcaption>A thin, self-repairing oxide layer protects aluminium.</figcaption>
+</figure>
+
 ## Rusting
 
 **Both water and oxygen are required.** Salt accelerates it; it is not a cause.
@@ -134,6 +159,16 @@ iron + oxygen + water  ->  hydrated iron(III) oxide
 - *Barrier* — painting, greasing, plastic coating, tin plating.
 - *(0620 Extended, 5070 required)* *Sacrificial protection* — attaching a **more reactive** metal (zinc, magnesium) which corrodes instead.
 - *(0620 Extended, 5070 required)* *Galvanising* — zinc coating: barrier **and** sacrificial, which is why it is preferred.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--06-rusting-conditions.webp" width="900" height="790" alt="Three tubes with iron nails: in air and water the nail rusts; in dry air above a drying agent it does not; in boiled water under oil it does not. Both oxygen and water are required." loading="lazy">
+  <figcaption>Remove either oxygen or water and rusting stops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--07-sacrificial-protection.webp" width="900" height="1000" alt="A scratched painted steel sheet rusts at the scratch because the barrier is broken. A scratched zinc-coated sheet does not rust: zinc, being more reactive, loses electrons and corrodes instead while electrons flow to the steel." loading="lazy">
+  <figcaption>Sacrificial protection keeps working after the barrier is broken.</figcaption>
+</figure>
 
 ## Exam traps
 

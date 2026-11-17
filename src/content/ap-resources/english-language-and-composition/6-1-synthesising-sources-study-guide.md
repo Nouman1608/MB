@@ -68,6 +68,11 @@ Three ideas hold this together. The argument is **yours**: sources serve your cl
 
 The framework also reminds us that a source provides information for an argument, and that **some sources are more reliable or credible than others**. A strong synthesis considers the quality of its sources as well as their content (Topic 6.3 returns to this).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-1-synthesising-sources-study-guide--01-synthesis-funnel.webp" width="900" height="610" alt="Three sources with a few relevant lines highlighted feed a funnel that selects the most relevant information and combines apt, specific material into the writer’s own argument. A note reminds that some sources are more credible than others." loading="lazy">
+  <figcaption>Synthesis selects from several sources and combines them in service of your claim.</figcaption>
+</figure>
+
 ## Summary versus synthesis
 
 A common weakness is the **source-by-source summary**:
@@ -90,6 +95,11 @@ Here the writer's claim is the subject of the sentence; the sources are the evid
 | Commentary | Little or none | The writer explains what the sources show together |
 | Selection | Everything | Only what is relevant |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-1-synthesising-sources-study-guide--02-who-is-the-subject.webp" width="900" height="891" alt="Three summary sentences each begin “Source A says”, “Source B says”, “Source C says”. The synthesis sentence begins with the issue, whether a car park should become green space, and brings in the survey, the shopkeeper and the planner as evidence. A table compares organising principle, relationship, commentary and selection." loading="lazy">
+  <figcaption>In synthesis the claim is the subject of the sentence; the sources are the evidence.</figcaption>
+</figure>
+
 ## Ways of bringing source material in
 
 | Method | When to use it | Example (using the sources in the box below) |
@@ -101,6 +111,11 @@ Here the writer's claim is the subject of the sentence; the sources are the evid
 Whatever the method, you must **attribute** the material and **comment** on it. A quotation dropped into a paragraph with no introduction (a "dropped quote") is weaker than one that is introduced and explained.
 
 **Signal phrases** help: "According to the council's survey...", "As one shopkeeper warns...", "A planner who studied a similar conversion notes that...". Choose verbs that say how the writer is using the source: *notes, warns, concedes, argues, observes, suggests*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-1-synthesising-sources-study-guide--03-quote-paraphrase-summarise.webp" width="900" height="566" alt="Quotation, paraphrase and summary, each with when to use it and an example from the fictional sources: the shopkeeper’s “trees don’t buy bread”, his point about customers spending about £40, and the planner’s account of a northern town. Below, signal verbs and a warning about dropped quotes." loading="lazy">
+  <figcaption>Quote for force, paraphrase a point, summarise a passage: always attribute and comment.</figcaption>
+</figure>
 
 ## Combining sources: four moves
 
@@ -121,6 +136,11 @@ Strong synthesis often uses more than one move in a paragraph.
 >
 > **Source C** (article by an urban planner, fictional): "When a town in the north converted a car park to a market square, footfall rose in the first year, but shops on the far side of the square reported no gain. Careful placement of seating and signs mattered more than the existence of the square."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-1-synthesising-sources-study-guide--04-four-combining-moves.webp" width="900" height="562" alt="Four cards with small diagrams: agreement (two sources point to one idea), extension (one source adds to another), qualification (one source limits another) and conflict (two sources disagree), each with example phrasing." loading="lazy">
+  <figcaption>Agree, extend, qualify or conflict: say how the sources relate.</figcaption>
+</figure>
+
 ## Worked example 1: building a synthesis paragraph
 
 **Task.** Argue whether the town should convert its central car park into a green square, using sources A, B and C.
@@ -140,6 +160,11 @@ Strong synthesis often uses more than one move in a paragraph.
 > The strongest case for converting the car park is that residents want it: in the council's survey of 800, 62% asked for more green space and only 21% for more parking. But that survey asks residents, not the visitors from the villages who, as a shopkeeper points out, spend around £40 each on a Saturday morning, and who might not return if they cannot park. The risk is real, and a planner who studied a similar conversion suggests how to manage it: the benefits did not reach the shops on the far side of the square, and she concludes that careful placement of seating and signs mattered more than the square itself. The town should therefore build the square, but plan its layout around the shops that need the trade.
 
 **Step 5: Check the synthesis.** The claim organises the paragraph. Each source is attributed. The sources are used in relation: A supports, B qualifies, C extends and supplies a remedy. Commentary ("the survey asks residents, not visitors") shows the writer's own thinking.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-1-synthesising-sources-study-guide--05-car-park-paragraph-roles.webp" width="900" height="576" alt="The worked paragraph’s sources in order: Source A, the council survey (62% want green space), supports the claim; Source B, the shopkeeper’s letter about village visitors spending around £40, qualifies A; Source C, the planner’s article on seating and signs, extends B and supplies a remedy. They lead to a qualified claim." loading="lazy">
+  <figcaption>Order by idea: support, then qualify, then extend toward the claim.</figcaption>
+</figure>
 
 ## Worked example 2: improving a weak synthesis
 

@@ -40,6 +40,11 @@ far or how successfully something moved the subcontinent towards a separate Musl
 - **Key Question 9:** How successful were attempts to find solutions 1940–47? Second World War and Quit India; Pakistan Resolution 1940; Cripps Mission 1942; Gandhi–Jinnah talks 1944; Simla Conference 1945; 1945–46 elections; Cabinet Mission 1946; Direct Action Day 1946; June 3 Plan; Radcliffe Award; Indian Independence Act 1947
 - **Key Question 10:** How important were Jinnah, Allama Iqbal and Rahmat Ali to the Pakistan Movement to 1947?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47--01-key-questions-timeline.webp" width="900" height="727" alt="A time axis from 1905 to 1947 with bars for each Key Question: KQ6 from 1905 to 1927, the Khilafat Movement (KQ7) from 1919 to 1924, KQ8 from 1927 to 1939 and KQ9 from 1940 to 1947. Markers show the League founded in 1906, the Lucknow Pact in 1916, the Nehru Report in 1928, the Lahore Resolution in 1940 and independence in 1947." loading="lazy">
+  <figcaption>Five Key Questions cover four overlapping periods and the three leaders who link them.</figcaption>
+</figure>
+
 ## How are Section 2 questions examined?
 
 Paper 1 Section B questions have three parts: a 4-mark knowledge part (one short paragraph), a
@@ -47,6 +52,11 @@ Paper 1 Section B questions have three parts: a 4-mark knowledge part (one short
 two pages. Section A is a compulsory source-based question. Most marks in this section come from
 "explain why" and "how successful" or "how far" questions, so learn every event with its date,
 key people and consequence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47--02-section-b-question-parts.webp" width="900" height="594" alt="Three stacked bars show the parts of a Section B question: a 4-mark knowledge part of one short paragraph, a 7-mark explanation part of at least two developed paragraphs, and a 14-mark evaluation essay of about two pages. Section A is a compulsory source-based question." loading="lazy">
+  <figcaption>Marks rise from recall to explanation to judgement, so answers must grow with them.</figcaption>
+</figure>
 
 ## How did Muslim politics develop between 1905 and 1927? (Key Question 6)
 
@@ -73,6 +83,11 @@ representation by population in Punjab and Bengal.
 **Judgement:** by 1927 the League had won separate electorates, but it was still small and
 divided, so the movement had developed only partly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47--03-kq6-timeline-1905-27.webp" width="900" height="1126" alt="A vertical timeline from the 1905 Partition of Bengal through the Simla Deputation and founding of the Muslim League in 1906, the Morley–Minto Reforms of 1909, the reversal of partition in 1911, the Lucknow Pact of 1916, the events of 1919 and the divisions of the mid-1920s to the Delhi Proposals of 1927. Gains for the League are highlighted." loading="lazy">
+  <figcaption>Separate electorates were won early, but co-operation with Congress did not last.</figcaption>
+</figure>
+
 ## Why did the Khilafat Movement fail? (Key Question 7)
 
 After the First World War, Muslims feared the Allies would break up the Ottoman Empire and remove
@@ -86,6 +101,11 @@ Afghanistan; Afghanistan closed the border, and many returned impoverished.
 (1922); the Moplah uprising (1921) damaged Hindu–Muslim trust; the Turks themselves, under Mustafa
 Kemal, abolished the caliphate in 1924. **Impact:** Muslims lost faith in Congress leadership, but
 the movement had mobilised ordinary Muslims politically and trained a generation of leaders.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47--04-khilafat-movement.webp" width="900" height="779" alt="The aim of the Khilafat Movement, to protect the Ottoman caliph, sits above three events: failed delegations in 1920, the Hijrat to Afghanistan in 1920 and Gandhi’s Non-Cooperation link. Three reasons for failure follow: the Moplah uprising in 1921, Chauri Chaura in 1922 and the abolition of the caliphate in 1924. The impact was a loss of faith in Congress but a politically mobilised Muslim population." loading="lazy">
+  <figcaption>The movement failed in its aim but changed Muslim politics.</figcaption>
+</figure>
 
 ## How successful was the Pakistan Movement between 1927 and 1939? (Key Question 8)
 
@@ -108,6 +128,16 @@ League in the United Provinces. When Congress ministries resigned in 1939, Jinna
 **Day of Deliverance (22 December 1939)**. **Judgement:** electorally the period began badly for
 the League, but Congress rule convinced many Muslims that they needed a separate homeland.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47--05-nehru-report-14-points.webp" width="900" height="544" alt="A chain from the all-British Simon Commission of 1927 to the Nehru Report of 1928 and Jinnah’s 14 Points of 1929. A table compares them: the Nehru Report rejected separate electorates and one-third Muslim representation at the centre; the 14 Points kept both and asked for a federal constitution with provincial autonomy." loading="lazy">
+  <figcaption>The Nehru Report’s rejection of Muslim safeguards led directly to the 14 Points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47--06-congress-rule-1937-39.webp" width="900" height="669" alt="A chain from the 1937 elections, where the League did poorly, to Congress rule from 1937 to 1939, which alienated Muslims through Bande Mataram, the Wardha and Vidya Mandir schemes and refusing to share power in the United Provinces. The ministries resigned in 1939, Jinnah called a Day of Deliverance on 22 December, and many Muslims became convinced they needed a separate homeland." loading="lazy">
+  <figcaption>A poor start in 1937 turned, through Congress rule, into support for a homeland.</figcaption>
+</figure>
+
 ## How was independence achieved between 1940 and 1947? (Key Question 9)
 
 The **Lahore (Pakistan) Resolution of 23 March 1940** demanded independent states in the
@@ -127,11 +157,21 @@ Calcutta. Viceroy Mountbatten's **3 June Plan (1947)** provided for partition, t
 Independence Act (July 1947)** created two dominions on 14–15 August, and the **Radcliffe Award**,
 announced after independence, drew the boundaries in Punjab and Bengal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47--07-solutions-1940-47.webp" width="900" height="1010" alt="A vertical timeline from the Lahore Resolution of 23 March 1940 through the Cripps Mission and Quit India in 1942, the Gandhi–Jinnah talks of 1944, the Simla Conference of 1945, the 1945–46 elections, the Cabinet Mission and Direct Action Day in 1946 and the 3 June Plan to the Indian Independence Act of July 1947." loading="lazy">
+  <figcaption>Each failed solution after 1940 strengthened the case for partition.</figcaption>
+</figure>
+
 ## How important were Jinnah, Iqbal and Rahmat Ali? (Key Question 10)
 
 - **Jinnah** began as an "ambassador of Hindu–Muslim unity" in Congress and in the Lucknow Pact, then led the League from the 1930s, negotiated with the British and Congress, and turned the 1940 Resolution into a state. Most historians see his leadership as decisive.
 - **Allama Iqbal** gave the idea of Muslim nationhood its philosophical basis and encouraged Jinnah to lead the League; he died in 1938, before the 1940 Resolution.
 - **Rahmat Ali** coined the name and campaigned from Britain, but he had little influence on League policy; his scheme differed from Iqbal's in demanding complete separation rather than a Muslim state within a framework of the subcontinent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47--08-jinnah-iqbal-rahmat-ali.webp" width="900" height="633" alt="Three columns. Jinnah moved from Hindu–Muslim unity to leading the League and turning the 1940 Resolution into a state. Iqbal gave Muslim nationhood its philosophical basis and proposed a North-Western Muslim state in 1930 but died in 1938. Rahmat Ali coined the name in 1933 and demanded complete separation but had little influence on League policy." loading="lazy">
+  <figcaption>Iqbal supplied the idea, Rahmat Ali the name, and Jinnah the leadership that made the state.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

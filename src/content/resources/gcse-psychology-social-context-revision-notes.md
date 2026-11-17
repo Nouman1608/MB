@@ -57,12 +57,27 @@ through social (situational) and dispositional factors.
 language (language shapes thought). These are opposite positions, not variations on the same idea —
 confusing them is one of the most common Paper 2 errors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--16-s-language-thought.webp" width="900" height="940" alt="Two rows with opposite arrows. Piaget: thought leads to language, so language depends on thought. Sapir-Whorf: language leads to thought, so thinking depends on language. Cross-cultural evidence cited in the specification is variation in recall and colour recognition." loading="lazy">
+  <figcaption>Piaget and Sapir-Whorf make opposite claims about the direction between language and thought.</figcaption>
+</figure>
+
 ## Conformity vs obedience — keep separate
 
 Distinct processes with distinct named studies: **conformity** (Asch — majority influence, social and
 dispositional factors) and **obedience** (Milgram's Agency Theory — agency, authority, culture,
 proximity, plus Adorno's dispositional Authoritarian Personality). Treating them as the same process
 loses marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--14-s-conformity-obedience.webp" width="900" height="800" alt="Two panels. Conformity (Asch): a group of people influences one person; social factors are group size, anonymity and task difficulty, dispositional factors are personality and expertise. Obedience (Milgram's Agency Theory): an authority figure instructs a person; factors are agency, authority, culture and proximity, with Adorno's Authoritarian Personality as a dispositional explanation." loading="lazy">
+  <figcaption>Conformity follows a majority; obedience follows an authority. They have different studies and factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-social-influence--03-milgram-results.webp" width="900" height="510" alt="A row of 30 switches from 15 to 450 volts. All 40 participants reached at least 300 volts. Below, 40 figures with 26 coloured show that 26 of 40, 65 percent, went to the maximum 450 volts, despite obvious distress." loading="lazy">
+  <figcaption>Every participant reached 300 volts; 65% went all the way to 450.</figcaption>
+</figure>
 
 ## Bystanders and crowds — social vs dispositional factors
 
@@ -76,6 +91,11 @@ loses marks.
 **Piliavin's subway study:** a confederate collapsed on a New York subway train, appearing either ill (with a cane) or drunk. The ill victim was helped far more often and more quickly — people weigh the **cost of helping** against the cost of not helping.
 
 **Asch:** participants judged line lengths after confederates gave the same wrong answer; about a third of critical-trial answers conformed. **Milgram:** all participants gave shocks to at least 300 volts and about two-thirds went to the maximum 450 volts — explained by the **agentic state**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--15-s-bystander-crowd.webp" width="900" height="780" alt="Two panels. Bystander behaviour: a person in need with several bystanders; social factors are presence of others and cost of helping, dispositional factors are similarity to the victim and expertise; Piliavin's subway study. Crowd behaviour: a crowd of people; social factors are social loafing, deindividuation and culture, dispositional factors are personality and morality." loading="lazy">
+  <figcaption>Each behaviour has social (situational) and dispositional (personal) factors the lesson lists.</figcaption>
+</figure>
 
 ## Worked example: comparing explanations of depression
 
@@ -94,6 +114,11 @@ COMPARISON:      biological treats depression as happening TO the
 
 Listing both explanations without explicitly comparing them will not reach the higher mark bands when
 a question asks for comparison specifically.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--20-s-depression.webp" width="900" height="910" alt="Two columns under the word Depression. Biological (nature): an imbalance of neurotransmitters, particularly serotonin, treated with antidepressant medication. Psychological (nurture): negative schemas and attributions learned through experience, treated with cognitive behaviour therapy (CBT). A note says treatments are often combined in practice." loading="lazy">
+  <figcaption>Pair each explanation with its treatment, then compare them: nature versus nurture.</figcaption>
+</figure>
 
 ## The four brain lobes, fast recall
 
@@ -117,6 +142,11 @@ content stick better, since it is the topic students find least intuitive.
   **Tulving's 'gold' memory study** used PET to show episodic and semantic memories involve different
   brain areas.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-brain-and-neuropsychology--06-localisation-of-function.webp" width="900" height="733" alt="A schematic side view of the brain with the frontal, parietal, occipital and temporal lobes and the cerebellum. Labels mark the motor area at the back of the frontal lobe, the somatosensory area at the front of the parietal lobe, the visual area in the occipital lobe, the auditory area and Wernicke's area in the temporal lobe, and Broca's area in the frontal lobe." loading="lazy">
+  <figcaption>Particular areas carry out particular jobs; each side of the brain serves the opposite side of the body.</figcaption>
+</figure>
+
 ## Non-verbal communication and its explanations
 
 Non-verbal behaviour (eye contact, body language, postural echo, touch, personal space) is explained
@@ -125,6 +155,11 @@ versus evidence that some non-verbal behaviour is **learned** (for example, Yuki
 of emoticon use showing culturally specific patterns). As with the other three topics, prepare both
 explanations side by side rather than just one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--17-s-nonverbal.webp" width="900" height="940" alt="Five pictogram cards: eye contact (an eye), body language (a person with arms out), postural echo (two people in the same pose), touch (a hand) and personal space (a person inside a dashed circle with another person outside)." loading="lazy">
+  <figcaption>The five non-verbal channels listed in the specification.</figcaption>
+</figure>
+
 ## The nervous system and fight-or-flight
 
 Learn the autonomic nervous system's role in the fight-or-flight response alongside the James-Lange
@@ -132,6 +167,11 @@ theory of emotion (that physiological arousal precedes and causes the subjective
 emotion, rather than the reverse) — a frequently tested application point when a scenario describes a
 stressful situation and asks candidates to explain the resulting physical and emotional response using
 named psychological theory rather than everyday description.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-brain-and-neuropsychology--02-fight-or-flight.webp" width="900" height="605" alt="Three linked steps: a threat is perceived, the sympathetic branch is activated and the adrenal glands release adrenaline. The body changes: heart rate and breathing rise, pupils dilate, blood goes to the muscles and digestion slows. When the threat passes, the parasympathetic branch returns the body to rest." loading="lazy">
+  <figcaption>Sympathetic activation and adrenaline prepare the body; the parasympathetic branch calms it.</figcaption>
+</figure>
 
 ## Exam traps
 
@@ -153,6 +193,11 @@ about things not present, past or future events) and productivity (generating in
 sentences), whereas most animal communication systems studied are limited to a fixed, immediate
 repertoire of signals. Learn Von Frisch's study alongside this distinction, not as an isolated fact.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-language-thought-communication--03-bee-dances.webp" width="900" height="597" alt="Left: the round dance, a looping path used when food is close, tells bees to search nearby. Right: the waggle dance for food further away; the angle of the waggle run from vertical on the comb shows the direction of food relative to the sun, and its length shows the distance." loading="lazy">
+  <figcaption>Angle shows direction; length shows distance. The round dance means food is nearby.</figcaption>
+</figure>
+
 ## Addiction: characteristics and interventions
 
 Mirror the depression structure for addiction. **Characteristics**: the ICD dependence syndrome
@@ -161,6 +206,11 @@ Mirror the depression structure for addiction. **Characteristics**: the ICD depe
 **Interventions**: aversion therapy (biological/behavioural route) versus self-management programmes
 (psychological route). As with depression, a strong answer pairs each explanation with its matching
 intervention rather than listing explanations and treatments as separate, disconnected lists.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-psychological-problems--05-icd-dependence.webp" width="900" height="562" alt="Six ICD features of dependence surround a central circle: strong desire, difficulty controlling use, withdrawal, tolerance, neglect of other pleasures and persistent use despite harm. Below, substance misuse, substance abuse and addiction or dependence are distinguished." loading="lazy">
+  <figcaption>Six ICD features mark dependence; misuse and abuse are not the same thing.</figcaption>
+</figure>
 
 ## Command words on Paper 2
 

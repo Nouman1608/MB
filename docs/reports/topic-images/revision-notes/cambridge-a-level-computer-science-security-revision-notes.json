@@ -1,0 +1,8 @@
+{ "page": "cambridge-a-level-computer-science-security-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--14-sx-symmetric.webp", "after": "## Symmetric and asymmetric compared" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--15-sx-asymmetric.webp", "after": "## Which key is used?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--17-sx-digital-signature.webp", "after": "## How a digital signature is produced and checked" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--18-sx-digital-certificate.webp", "after": "## How a digital certificate is acquired" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--19-sx-tls-handshake.webp", "after": "## SSL/TLS in client-server communication" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--16-sx-key-count.webp", "after": "## Worked example: counting keys" }
+] }

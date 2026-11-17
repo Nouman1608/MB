@@ -75,6 +75,16 @@ You must be able to draw and label a simple diagram for each method.
 A labelled diagram earns marks for showing the seam or reservoir, the cap rock or overburden, and
 the route the fuel takes to the surface.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-power--01-coal-mining-methods.webp" width="900" height="608" alt="Three cross-sections. Open cast: the overburden is stripped and a seam near the surface is dug from above. Adit: a horizontal tunnel is driven into a hillside where the seam is exposed on the valley side. Shaft: a vertical shaft with horizontal galleries reaches a deep seam." loading="lazy">
+  <figcaption>The depth and position of the seam decide whether coal is mined by open cast, adit or shaft.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-power--02-drilling-oil-gas.webp" width="900" height="667" alt="Cross-section of rock layers. A seismic survey at the surface locates a deposit of oil or gas trapped beneath an arched cap rock. A rig drills a well down to the reservoir, and the oil or gas rises under pressure or is pumped to the surface." loading="lazy">
+  <figcaption>Seismic surveys find the trap; the well taps it.</figcaption>
+</figure>
+
 ## What are Pakistan's non-renewable power resources?
 
 **Coal.** Pakistan has very large coal reserves, most of them in the Thar coalfield in Sindh, but
@@ -100,6 +110,11 @@ to the refinery at Mahmood Kot near Multan, and the rest travels by rail tanker 
 Your textbook figures for production, reserves and years remaining will change from edition to
 edition. Learn the latest figures your teacher gives you, and always quote them with a year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-power--03-fuels-to-users.webp" width="900" height="716" alt="Three rows. Coal: low-grade Thar lignite is burned in power stations near the mine, while imported coal arrives at Karachi’s ports and moves inland by rail and road. Gas: from Sui and other fields it travels by trunk pipeline to cities, while areas off the network use costlier LPG cylinders. Oil: most is imported by tanker to Karachi, refined there or piped to Mahmood Kot near Multan, with rail and road tankers carrying the rest." loading="lazy">
+  <figcaption>Pipelines reach the cities; everywhere else depends on costlier rail, road and cylinders.</figcaption>
+</figure>
+
 ## How is electricity generated in Pakistan?
 
 Electricity comes from three groups of sources:
@@ -108,6 +123,11 @@ Electricity comes from three groups of sources:
 - **Nuclear power stations** use the heat from nuclear fission; Pakistan's plants are at Chashma in Punjab and on the coast near Karachi.
 - **Renewables**: hydel (Tarbela, Mangla and Warsak, plus run-of-river schemes), wind (the Gharo–Jhimpir corridor in Sindh) and solar (for example, the Quaid-e-Azam Solar Park near Bahawalpur).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-power--04-electricity-sources.webp" width="900" height="548" alt="Three groups of power stations: thermal stations burn oil, gas, coal or waste; nuclear stations at Chashma and near Karachi use fission; renewables include hydel at Tarbela, Mangla and Warsak, wind in the Gharo–Jhimpir corridor and solar near Bahawalpur. A chain shows a thermal station: fuel heats water to steam, which drives turbines to make electricity." loading="lazy">
+  <figcaption>Thermal, nuclear and renewable stations all end by turning a turbine.</figcaption>
+</figure>
+
 ## Why are multi-purpose hydel schemes built where they are?
 
 Physical conditions: a narrow, deep valley in hard rock for a dam site; a large, reliable river
@@ -115,6 +135,11 @@ flow fed by snowmelt and monsoon rain; a large basin upstream to store water. Hu
 capital, often from international lenders; technical expertise; demand for both irrigation water and
 electricity downstream; land that can be flooded with the fewest people resettled. "Multi-purpose"
 means the scheme stores water for irrigation, generates electricity and helps flood control.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-power--05-multipurpose-hydel.webp" width="900" height="660" alt="Cross-section of a dam across a valley holding back a reservoir, with water passing through a power station and on downstream. The scheme provides irrigation water, electricity and flood control. Cards list the physical conditions (narrow, deep valley in hard rock, reliable flow, large basin) and human conditions (capital, expertise, downstream demand, few people to resettle)." loading="lazy">
+  <figcaption>A good dam site needs the right valley and river, plus the money, skills and demand to use it.</figcaption>
+</figure>
 
 ## What are the advantages and disadvantages of renewable power?
 
@@ -134,12 +159,22 @@ them costs a great deal. This is why load-shedding (planned power cuts) is commo
 small-scale schemes, such as micro-hydel on mountain streams or village solar systems, can be more
 feasible than grid extension.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-power--06-unreliable-supply.webp" width="900" height="581" alt="Five causes (demand outgrowing capacity, costly imported fuel, low hydel output in winter, high network losses and remote areas far from the grid) lead to frequent load-shedding. This makes small-scale schemes such as micro-hydel and village solar more feasible than grid extension for remote places." loading="lazy">
+  <figcaption>Where the grid cannot reach reliably, small local schemes can be the feasible answer.</figcaption>
+</figure>
+
 ## How to approach Power exam questions
 
 - **Describe** questions: name a source, a place and a fact.
 - **Explain** questions: link a cause to an effect with "because" or "so".
 - **Evaluate / assess** questions (often the final part): give advantages and disadvantages, refer
   to Pakistan, then reach a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-power--07-command-words.webp" width="900" height="456" alt="Three stepped cards. Describe: name a source, a place and a fact. Explain: link a cause to an effect with because or so. Evaluate or assess: give advantages and disadvantages, refer to Pakistan and reach a judgement." loading="lazy">
+  <figcaption>Each command word asks for one step more than the last.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

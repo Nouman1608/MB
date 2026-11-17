@@ -63,6 +63,16 @@ Issues sit at different levels, and the syllabus asks you to consider personal, 
 
 **Skill move:** ask how a fact at one level plays out at another. A national rule on work permits becomes a local issue when a factory cannot fill shifts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--01-migration-levels.webp" width="900" height="756" alt="Four rings from personal to global: a family member who moved for work; local rents, schools and languages; national rules on entry and city planning, such as China’s hukou system; and global figures of 55% urban in 2018, projected 68% by 2050, and about 304 million international migrants in mid-2024." loading="lazy">
+  <figcaption>Link levels: a national rule becomes a local issue when it changes something on the ground.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--02-push-pull-terms.webp" width="900" height="470" alt="Push factors drive people away from a place of origin and pull factors attract them to a destination; people move one way and remittances flow back. Migration can be internal or international. Below, definitions of urbanisation, informal settlement and brain drain." loading="lazy">
+  <figcaption>People flow one way, money often flows back.</figcaption>
+</figure>
+
 ## Perspectives on migration and urbanisation
 
 The syllabus defines a **perspective** as "a viewpoint on an issue based on evidence and reasoning". Migration is a contested subject. Your job is to explain each perspective fairly and to show *why* people hold it, not to decide who is right before you have weighed the evidence.
@@ -80,6 +90,11 @@ Even at the global level, then, there is no single perspective.
 
 **Empathy without agreement.** AO2 asks you to consider perspectives "objectively and with empathy". You can explain why a long-standing resident fears change without endorsing the fear, and you can explain why a migrant moved without ignoring the pressures on the place they moved to.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--03-migration-perspectives.webp" width="900" height="694" alt="A table of six groups with a perspective and a reason: a rural family, long-standing city residents, employers, origin-country governments, destination-country governments and international bodies, noting that some states voted against or abstained on the 2018 Global Compact. Empathy does not require agreement." loading="lazy">
+  <figcaption>Even at the global level there is no single perspective on migration.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 The syllabus aims mention "global issues and their causes and consequences". Strong answers build **chains** rather than lists.
@@ -93,6 +108,11 @@ Three habits earn analysis credit:
 1. **Separate causes at different levels.** A personal cause (wanting to join family) is different from a national cause (a lack of rural jobs) or a global cause (climate change affecting farming).
 2. **Show that one consequence can be positive for one group and negative for another.** Cheaper labour helps an employer and may hold down wages for some local workers. Say who gains and who loses.
 3. **Avoid single-cause stories.** If a source blames migrants alone for a housing shortage, check whether it ignores building rates, land prices or planning rules.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--04-drought-remittance-chains.webp" width="900" height="600" alt="A cause chain: drought reduces harvests, farm incomes fall, young adults move to the city, population grows faster than housing, and informal settlements expand. A consequence chain: remittances rise, families pay school fees, more children stay in school, but villages may lose working-age adults." loading="lazy">
+  <figcaption>Chains, not lists, and say who gains and who loses at each step.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -119,6 +139,11 @@ Imagine a source about the fictional city of Corvanna: "A street survey of 400 r
 
 Look at the moves: identify the claim -> name the evidence -> judge what it can and cannot show -> suggest what extra evidence would test it. That last step matches what Component 1 Question 2 asks for: suggesting ways to research or test a claim.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--05-corvanna-housing.webp" width="900" height="802" alt="Evidence for the fictional city of Corvanna: a street survey where 288 of 400 residents (72%) agreed newcomers make housing harder to find, which shows opinion from one district; and official data showing 21,000 new households but only 9,000 new homes in five years, a gap of 12,000 that slow building could explain. Testing needs the migrant share of new households and earlier building rates." loading="lazy">
+  <figcaption>The evidence shows housing is scarce, not that newcomers are the main cause.</figcaption>
+</figure>
+
 ## Courses of action
 
 The syllabus asks you to consider possible courses of action and, in the Individual Report, to propose a single course of action and explain how it could be implemented and what its impact would be. Component 1 Question 4 asks you to assess actions in response to a global issue.
@@ -140,6 +165,16 @@ Judge actions with clear criteria: **effectiveness** (does it address the cause?
 > Upgrading the settlement in place is likely to be the more effective action because it addresses the immediate problem the sources describe, unsafe water and flooding, without separating residents from the market jobs that brought them to the city. Relocation would provide better homes, but if the new site is far from work, residents may return to informal housing near the centre, so the problem would move rather than end. However, upgrading depends on the landowner accepting residents' right to stay, and the sources give no evidence that this has been agreed. On balance, upgrading is the stronger option only if land rights can be secured first; without that, neither action would be sustainable.
 
 The paragraph states a judgement, gives reasons linked to evidence, considers the alternative, and adds a condition. That conditional ending is a sign of evaluation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--06-upgrade-vs-relocate.webp" width="900" height="559" alt="Two options for an informal settlement. Upgrading in place tackles unsafe water and flooding and keeps residents near jobs but can be slow and face landowner objections. Relocating gives safer homes but may be far from work and break social ties, so the problem may move. Judgement: upgrading is stronger only if land rights are secured first." loading="lazy">
+  <figcaption>A strong judgement names the condition under which it holds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--07-migration-actions.webp" width="900" height="422" alt="A table of three actions with benefits and drawbacks: investing in rural jobs and services, language and job-skills programmes for new arrivals, and ethical recruitment rules such as the non-binding 2010 WHO Global Code of Practice on recruiting health personnel." loading="lazy">
+  <figcaption>Every migration action has a trade-off to weigh.</figcaption>
+</figure>
 
 ## Ideas for the Individual Report
 

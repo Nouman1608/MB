@@ -57,6 +57,11 @@ AQA 7517 specification (Version 1.6, 31 July 2023), section **4.13.1 Aspects of 
 | **Testing** | The implementation is tested for errors with **normal, boundary and erroneous** data, then **acceptance testing** with the users | Test plan and evidence, user feedback |
 | **Evaluation** | The system is judged against **criteria for evaluating** a computer system | Evaluation against the requirements |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--01-dev-stages.webp" width="900" height="1000" alt="Five stages in order: analysis, design, implementation, testing and evaluation, each with what it produces, followed by release and the three kinds of maintenance (corrective, adaptive, perfective)." loading="lazy">
+  <figcaption>The stages of a systematic approach, from analysis to evaluation, with maintenance after release.</figcaption>
+</figure>
+
 ## Analysis
 
 - You cannot solve a problem until it is **defined** and its requirements are agreed with the people who
@@ -66,6 +71,11 @@ AQA 7517 specification (Version 1.6, 31 July 2023), section **4.13.1 Aspects of 
 - The **data model** describes the data the system will hold and how it is related.
 - Requirements may be clarified with a **prototype** that users try out, as in an **agile** approach.
 - Good requirements are **specific and measurable**, so that they can be tested and evaluated later.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--02-analysis-methods.webp" width="900" height="700" alt="Three panels: interviews (deep answers from few people), questionnaires (many people, shallower answers) and observation (shows what people really do)." loading="lazy">
+  <figcaption>Each fact-finding method trades depth against reach.</figcaption>
+</figure>
 
 ## Design
 
@@ -83,6 +93,11 @@ AQA 7517 specification (Version 1.6, 31 July 2023), section **4.13.1 Aspects of 
   critical path first** -- the parts that the rest of the system depends on.
 - You should be able to argue that the program is **correct and efficient** using logical reasoning, test
   data and user feedback.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--07-waterfall-agile.webp" width="900" height="1040" alt="A staircase of five waterfall stages with users seeing the system only at the end, beside three agile cycles each giving a working version and feedback." loading="lazy">
+  <figcaption>Waterfall completes stages in order; agile builds in short cycles with feedback.</figcaption>
+</figure>
 
 ## Testing: choosing test data
 
@@ -104,6 +119,11 @@ Test  Purpose                    Data     Type        Expected result
 
 **Acceptance testing** is carried out **with the intended users** to make sure the solution meets its
 specification. For the NEA you need evidence of **user feedback**, not details of every test the user ran.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--04-off-by-one.webp" width="900" height="790" alt="Expected results for ages 10, 11 and 12 compared with age &gt;= 11 and age &gt; 11; the faulty version rejects 11, so test 3 reveals it." loading="lazy">
+  <figcaption>Testing both sides of a limit is what finds an off-by-one error.</figcaption>
+</figure>
 
 ## Evaluation
 

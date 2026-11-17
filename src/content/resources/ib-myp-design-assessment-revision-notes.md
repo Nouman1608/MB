@@ -34,12 +34,22 @@ attainable range is 0-8, and the four-criterion subject total is 0-32, not 4-32.
 | C — Creating the solution | Planning and making a prototype |
 | D — Evaluating | Testing the solution and reflecting on improvements |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criteria-in-practice--01-four-criteria-scale.webp" width="900" height="700" alt="Four equally weighted criteria: A inquiring and analysing, B developing ideas, C creating the solution and D evaluating. Each is scored from 0 to 8, with levels 1 to 8 in four descriptor bands and level 0 for work below level 1. Design is assessed through an ePortfolio presented as a complete design folder." loading="lazy">
+  <figcaption>Every criterion is worth the same and is marked on the same 0–8 scale.</figcaption>
+</figure>
+
 ## The design cycle drives everything
 
 Inquiring and analysing → developing ideas → creating the solution → evaluating. The cycle has four
 stages, and each of the four criteria maps onto one stage of this
 cycle — work that skips a stage (e.g. building a prototype with no documented specification) will
 lose marks on the criterion tied to the missing stage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-design-cycle--01-design-cycle-and-criteria.webp" width="900" height="840" alt="A clockwise cycle of four stages, each assessed by one criterion: the problem stage (A, inquiring and analysing), the specification stage (B, developing ideas), the build stage (C, creating the solution) and the test stage (D, evaluating). The cycle is used for every project." loading="lazy">
+  <figcaption>Each criterion is one stage of the design cycle made assessable.</figcaption>
+</figure>
 
 ## eAssessment (if your school opts in)
 
@@ -51,13 +61,28 @@ moderated by the IB on a sampled basis.
 
 Each criterion is assessed against level descriptors organised in bands: criterion A rewards identifying a genuine design problem, researching it thoroughly, and developing a clear, evidence-based design brief; criterion B rewards developing a detailed, feasible design specification and generating multiple design ideas before selecting and justifying the strongest one; criterion C rewards following a logical, planned process to create the solution, including evidence of following (or sensibly adapting) that plan during making; criterion D rewards testing the solution rigorously against the original specification and reflecting critically on how it could be improved, not just whether it "worked." A common weakness across criteria A and B is jumping to a design idea before completing genuine research and analysis of the problem -- since criteria A and B specifically reward the depth of investigation and idea-generation, not just the quality of the final concept chosen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-design-cycle--04-honest-evaluation.webp" width="900" height="480" alt="Claiming the solution is already perfect and showing only what worked is contrasted with an honest evaluation: objective tests, real limitations named, and how the solution could be improved. Stage D rewards that transparency." loading="lazy">
+  <figcaption>Naming real weaknesses, with improvements, is what Stage D rewards.</figcaption>
+</figure>
+
 ## Why the design cycle is assessed as a genuine process
 
 The four-stage cycle (inquiring and analysing, developing ideas, creating the solution, evaluating) is not simply a checklist of stages to complete -- it models how design actually happens in practice, and each criterion is built to assess a distinct stage of that process rather than the final product alone. This is why two students who produce visually similar final prototypes can receive very different marks: the criteria reward the *process* documented behind the prototype (the research, the specification, the planning, the testing and reflection) at least as much as the finished object itself. Students who focus revision or coursework time disproportionately on making a polished final product, at the expense of documenting the process, consistently underperform relative to their actual design thinking.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-design-cycle--05-cycle-repeats.webp" width="900" height="600" alt="Three projects in a row, each running through stages A, B, C and D, with the criteria reassessed every time. Treating the cycle as a one-off introduction lets weak documentation habits persist; treating it as a working habit on every project lets them be corrected early." loading="lazy">
+  <figcaption>The design cycle is the structure for every project, not an introductory unit.</figcaption>
+</figure>
+
 ## The ePortfolio in more depth
 
 Where a school assesses Design through ePortfolio rather than through classroom-based assessment alone, the complete design folder -- brief, research, specification, development iterations, final solution, and evaluation -- is submitted as a single body of evidence, marked by the student's own teacher against the published year-5 criteria and then externally moderated by the IB on a representative sample of student folders. Because the whole folder is assessed as a coherent piece of evidence, a strong final prototype accompanied by a thin or missing specification and development record will score well under criterion C but poorly under criteria A, B and D, dragging down the overall achievement level even though the object itself is well made.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-design-cycle--03-documentation-vs-polish.webp" width="900" height="715" alt="Two folders compared with schematic bars. A polished final product with thin documentation of inquiry, specification, process and evaluation typically scores lower. A rougher prototype backed by thorough documentation at every stage typically scores higher, because the ePortfolio is assessed as a complete design folder." loading="lazy">
+  <figcaption>A strong folder beats a polished object with little process behind it.</figcaption>
+</figure>
 
 ## How MYP Design connects to real design practice
 

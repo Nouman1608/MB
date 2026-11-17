@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-string-handling-operations--01-string-positions.webp",
+  "width": 900,
+  "height": 545,
+  "after": "## Conventions used here",
+  "alt": "The string \"Accra\" with its characters at positions 0 to 4. LEN(\"Accra\") is 5, so the last position is 4. POSITION(\"Accra\", \"r\") is 3. SUBSTRING(1, 3, s) includes both ends and returns \"ccr\", while Python’s \"Accra\"[1:4] gives the same result by excluding the end.",
+  "caption": "Positions start at 0, so the last character is at LEN(s) − 1.",
+  "bytes": 66488
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-string-handling-operations--02-length-and-position.webp",
+  "width": 900,
+  "height": 620,
+  "after": "## Length and position",
+  "alt": "\"New York\" has 8 characters, because the space counts. In \"banana\", the letter a appears at positions 1, 3 and 5, but POSITION(\"banana\", \"a\") returns 1, the first appearance.",
+  "caption": "LEN counts every character; POSITION finds only the first match.",
+  "bytes": 56186
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-string-handling-operations--03-character-loop.webp",
+  "width": 900,
+  "height": 673,
+  "after": "## Processing a string one character at a time",
+  "alt": "A FOR loop runs i from 0 to LEN(word) - 1 over \"programming\", taking one character each pass with SUBSTRING(i, i, word). The vowels o, a and i at positions 2, 5 and 8 are counted, so the output is 3.",
+  "caption": "Loop over every position and take one character with SUBSTRING(i, i, s).",
+  "bytes": 76028
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-string-handling-operations--04-split-at-space.webp",
+  "width": 900,
+  "height": 596,
+  "after": "## Position and substring together",
+  "alt": "In \"Amara Diallo\" the space is at position 5, so gap is 5. first is SUBSTRING(0, 4), giving \"Amara\", and last is SUBSTRING(6, 11), giving \"Diallo\"; the − 1 and + 1 leave out the space.",
+  "caption": "Find the separator with POSITION, then cut either side of it with SUBSTRING.",
+  "bytes": 73968
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-string-handling-operations--05-character-codes.webp",
+  "width": 900,
+  "height": 699,
+  "after": "## Character codes",
+  "alt": "In ASCII, A to Z have codes 65 to 90, a to z have 97 to 122 and the digits 0 to 9 have 48 to 57. Because they run in sequence, adding 1 to the code of D gives E, adding 32 to the code of G gives g, and range tests on the code check for a capital letter or a digit.",
+  "caption": "Codes run in sequence, so arithmetic on them moves through the alphabet.",
+  "bytes": 73828
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-string-handling-operations--06-shift-cipher.webp",
+  "width": 900,
+  "height": 846,
+  "after": "## Worked example: a shift cipher",
+  "alt": "The cipher subtracts 65 to turn A to Z into 0 to 25, adds 3, wraps with MOD 26 and adds 65 back. Z (90) becomes 28, then 2, then 67, which is C; each O (79) becomes 17, then 82, which is R. \"ZOO\" is output as CRR.",
+  "caption": "Subtract 65, shift, MOD 26 to wrap from Z to A, then add 65 back.",
+  "bytes": 104166
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-string-handling-operations--07-building-a-username.webp",
+  "width": 900,
+  "height": 688,
+  "after": "## Worked example: building a username",
+  "alt": "The username takes SUBSTRING(0, 2) of \"Okafor\", which is \"Oka\", and SUBSTRING(2, 3) of the year converted to the string \"2009\", which is \"09\", joining them as \"Oka09\". Using INT_TO_STRING(year MOD 100) instead would give \"9\" and lose the leading zero.",
+  "caption": "Convert the year to a string first, so the substring keeps the leading zero.",
+  "bytes": 85592
+ }
+]

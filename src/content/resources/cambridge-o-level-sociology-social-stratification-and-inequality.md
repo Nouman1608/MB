@@ -57,6 +57,11 @@ is shaped by the identity they develop.
 This guide develops the core of 3.1 in depth -- life chances, meritocracy, gender and ethnicity, and a
 Marxist explanation; 3.2 and 3.3 are listed so the whole topic is in view.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-social-stratification-and-inequality--01-topic-3-map.webp" width="900" height="552" alt="Three columns for the sub-topics of Topic 3. 3.1, covered in depth in this guide, is about open and closed societies, life chances, intersectionality and theories such as labelling and Marxism. 3.2 is about legislation, welfare states and NGOs. 3.3 is about migration, ecological issues and global inequality." loading="lazy">
+  <figcaption>Topic 3 moves from what inequality is (3.1) to attempts to reduce it (3.2) to inequality between societies (3.3).</figcaption>
+</figure>
+
 ## How to approach it
 
 This topic rewards candidates who can move between description (what inequality looks like) and
@@ -78,6 +83,11 @@ born into a higher social class typically has statistically better access to the
 someone born into a lower one, independent of individual effort. This is the concept most exam questions
 on this topic ultimately return to, whether the question is framed around class, gender, or ethnicity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-social-stratification-and-inequality--02-life-chances.webp" width="900" height="768" alt="Someone born into a higher social class has statistically better access to good education, secure employment, healthcare and material security than someone born into a lower class, shown as longer bars for the higher class." loading="lazy">
+  <figcaption>Life chances show that stratification has real, measurable consequences.</figcaption>
+</figure>
+
 ## Meritocracy and its sociological critique
 
 A meritocracy is a system in which social position is determined by individual ability and effort rather
@@ -86,6 +96,11 @@ studying stratification frequently challenge this self-image, arguing that unequ
 family wealth, education access, or social networks) mean that outcomes are not purely a reflection of
 individual merit -- a candidate who defines meritocracy but does not also engage with this critique is
 likely missing half of what this part of the topic tests.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-social-stratification-and-inequality--03-meritocracy-critique.webp" width="900" height="860" alt="Two running tracks. In the meritocratic claim all three runners start on the same line. In the sociological critique two runners start ahead because of family wealth, social networks and education access, so finishing positions are not purely down to merit." loading="lazy">
+  <figcaption>Unequal starting points mean outcomes do not purely reflect ability and effort.</figcaption>
+</figure>
 
 ## Gender and ethnicity as forms of stratification
 
@@ -97,6 +112,11 @@ discrimination or unequal access to institutions such as education or employment
 inequality are best understood alongside class, since a full sociological picture of any individual's life
 chances usually requires considering how class, gender and ethnicity combine, rather than treating any
 one factor as the sole explanation for their circumstances.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-social-stratification-and-inequality--04-intersectionality.webp" width="900" height="742" alt="Three overlapping circles for social class, gender and ethnicity meet in the centre at life chances, with age as a further factor. Class covers family wealth and resources, gender covers careers, pay and domestic roles, and ethnicity covers discrimination and unequal access." loading="lazy">
+  <figcaption>Class, gender, ethnicity and age combine to shape one person’s life chances.</figcaption>
+</figure>
 
 ## Worked example: applying a Marxist explanation to a scenario
 
@@ -127,6 +147,11 @@ every child from a given class background follows the same
 outcome.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-social-stratification-and-inequality--05-marxist-four-steps.webp" width="900" height="746" alt="A scenario about two children from different social classes, followed by four numbered steps: name the Marxist concept that education reproduces class inequality, explain the mechanism of tutoring, resources and cultural capital, link it to life chances in adulthood, and add a limitation." loading="lazy">
+  <figcaption>Concept, mechanism, life chances, limitation: use the mechanism, not just the label.</figcaption>
+</figure>
+
 ## Common mistakes
 
 Describing types of inequality (class, gender, ethnicity) without explaining how they specifically affect
@@ -134,6 +159,11 @@ life chances. Defining meritocracy without engaging with the sociological critiq
 society actually is. Applying a Marxist perspective as a label without explaining its specific mechanism
 in the scenario given. Treating class, gender and ethnicity as entirely separate forms of inequality,
 rather than showing awareness that they can intersect and compound one another for a given individual.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-social-stratification-and-inequality--06-weak-strong-answers.webp" width="900" height="444" alt="A two-column table comparing weak and strong answers. Weak answers list types of inequality, only define meritocracy, use Marxism as a label and treat class, gender and ethnicity separately. Strong answers explain effects on life chances, critique meritocracy, explain the Marxist mechanism and show how factors intersect." loading="lazy">
+  <figcaption>Move from describing inequality to explaining why it exists and persists.</figcaption>
+</figure>
 
 ## Quick revision checklist
 

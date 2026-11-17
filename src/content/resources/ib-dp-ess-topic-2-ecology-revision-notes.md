@@ -38,6 +38,11 @@ positive and negative feedback. Revising Topic 2 without a secure grip on Topic 
 (inputs, outputs, storages, transfers, feedback) produces answers that describe ecological facts
 without the conceptual framing the specification expects.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-2-ecology--02-topic-2-content-map.webp" width="900" height="610" alt="Concept map of Topic 2 Ecology with four strands: ecosystem structure, energy flow, nutrient cycling and ecosystem change. Each links to a Topic 1 idea: systems storages and transfers, inputs and outputs, sustainability of cycles, and resilience after disturbance." loading="lazy">
+  <figcaption>Each ecology strand applies a Topic 1 idea.</figcaption>
+</figure>
+
 ## Core content to hold securely
 
 The public subject brief gives Topic 2's name and hours but not its subtopic list, so the four headings
@@ -52,6 +57,16 @@ below are Marlbridge's outline of core ecology content, not the IB's itemised su
   an ecosystem (for example, the carbon or nitrogen cycle).
 - **Ecosystem change** -- succession, and how ecosystems respond to and recover from disturbance,
   connecting directly back to Topic 1's systems concept of resilience.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-2-ecology--01-ecosystem-as-system.webp" width="900" height="665" alt="Trophic levels drawn as storages of decreasing size, from producers to tertiary consumers, linked by feeding transfers. Sunlight is the input and heat is lost as an output from every level. A side panel maps storages, transfers, outputs and feedback, and notes chains rarely go beyond four or five levels." loading="lazy">
+  <figcaption>Describe an ecosystem with Topic 1’s words: storages, transfers, outputs, feedback.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-2-ecology--03-energy-flows-nutrients-cycle.webp" width="900" height="650" alt="Left: energy passes one way from the Sun to producers, consumers and decomposers, and is lost as heat at each step. Right: nutrients cycle from producers to consumers to decomposers to soil, air and water and back to producers, so matter is reused." loading="lazy">
+  <figcaption>Energy is lost as heat; matter is recycled. Never treat them as the same process.</figcaption>
+</figure>
 
 ## Worked example: applying "systems thinking" to energy flow
 
@@ -76,6 +91,11 @@ Conclusion:         because the ecosystem is a system of connected
 
 Explicitly using the word "system" and identifying the cascade of effects -- not just the single
 direct effect -- is what distinguishes a strong ESS answer from a purely descriptive one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-2-ecology--04-trophic-cascade.webp" width="900" height="670" alt="A top predator is removed. The direct effect is that its prey population increases without control. The indirect effect is that the prey over-consumes its own food source, depleting a resource further down the food chain." loading="lazy">
+  <figcaption>Trace the whole cascade, not just the first, direct effect.</figcaption>
+</figure>
 
 ## Sustainability and Topic 2
 

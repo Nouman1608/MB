@@ -37,6 +37,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 Every candidate produces exactly **two** extended responses: either two literary-text essays (B twice, skip C), or one literary text plus one film (B once, then C).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--01-paper-2-structure.webp" width="900" height="626" alt="Paper 2 lasts 2 hours 40 minutes for 110 marks (30% of the A-level). Section A, translation into Urdu, has 20 marks and 30 minutes; each of the two works responses has 45 marks and about 1 hour 5 minutes. Section A is marked in 20 one-mark chunks, and verb and adjective endings must be correct." loading="lazy">
+  <figcaption>Translation first, then two 45-mark essays; endings are never treated as spelling.</figcaption>
+</figure>
+
 ## Section A: translation into Urdu
 
 Marking is **points-based**: the passage is divided into 20 chunks, one mark each.
@@ -60,13 +65,33 @@ Marked against three levels-based criteria:
 
 Paper 2 carries **no AO1 or AO2 marks** at all — unlike Papers 1 and 3, this paper is entirely about accurate, analytical Urdu writing about a text or film, not comprehension or research skills.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--02-prescribed-works.webp" width="900" height="716" alt="Three literary texts (Aangan آنگن, novel, Khadija Mastur, 1999; Patras Ke Mazameen پطرس کے مضامین, essays, 2011, five essays prescribed; Bisaat بساط, play, Baseer Kazmi, 1987) and three films (Bin Roye بن روئے, 2015; Baaghban باغبان, 2003; Bajrangi Bhaijaan بجرنگی بھائی جان, 2015)." loading="lazy">
+  <figcaption>Three texts and three films; the films are given by name and year only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--05-allowed-combinations.webp" width="900" height="528" alt="The two allowed combinations of works essays: two literary-text essays (Section B twice), or one literary-text essay and one film essay (Sections B and C). Two film essays, or three extended responses, are not allowed." loading="lazy">
+  <figcaption>Two texts, or a text and a film: never two films, never three essays.</figcaption>
+</figure>
+
 ## The five preparation angles
 
 Prepare each studied work (whichever two you have) against the same five angles for every text/film: **form and technique, key themes and issues, characterisation, plot structure, social and cultural setting.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--03-five-angles.webp" width="900" height="664" alt="Each studied work is prepared from five angles: form and technique, key themes and issues, characterisation, plot structure, and social and cultural setting, then connected to the qualification’s four themes for AO4." loading="lazy">
+  <figcaption>Revise each work from all five angles and link it to the wider themes.</figcaption>
+</figure>
+
 ## Worked example: structuring a works answer
 
 **Position → Evidence → Cultural connection.** State your overall stance on the question first; support it with two or three specific scenes or lines (not full plot retelling); close by linking the writer's treatment of the issue to one of the qualification's four broader social/cultural themes. This structure rewards AO3 (accurate language throughout) and AO4 (the explicit cultural link) at the same time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--04-works-response-structure.webp" width="900" height="710" alt="A works essay states a position, supports it with two or three specific scenes or lines, and closes by connecting the issue to its wider social theme, earning AO3 through precise language and AO4 through cultural context. Chronological retelling is the trap." loading="lazy">
+  <figcaption>Position, evidence, cultural connection: argue, do not retell.</figcaption>
+</figure>
 
 ## Worked example: chunk-marking in Section A
 

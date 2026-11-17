@@ -96,6 +96,11 @@ Criteria often used:
 
 The idea was developed in work by John Friedmann (the world city hypothesis, 1986) and Saskia Sassen (*The Global City*, 1991). The Globalization and World Cities (GaWC) network classifies cities by their links in advanced business services; London and New York are placed at the top of its hierarchy. Note that a megacity is not automatically a world city: size and global influence are different measures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments--09-ur-venn.webp" width="900" height="760" alt="Two overlapping circles. The left circle is megacity, an urban area of more than 10 million people. The right circle is world city, a city with a major command role in the global economy such as finance, headquarters, media and culture. The middle is the overlap. Lagos is placed in the megacity circle: very large, with a smaller global command role than its size suggests. Singapore is placed in the world city circle: far fewer than 10 million people but a world city." loading="lazy">
+  <figcaption>A megacity is defined by size and a world city by command role; Lagos and Singapore show the difference.</figcaption>
+</figure>
+
 ## Annotated model paragraph
 
 *"Explain why urbanisation is fastest in LICs and MICs."*

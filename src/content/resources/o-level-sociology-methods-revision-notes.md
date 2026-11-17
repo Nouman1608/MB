@@ -64,6 +64,21 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Ethics:** informed consent, confidentiality, protection from harm, no deception, right to withdraw.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-2--01-classify-data-twice.webp" width="900" height="646" alt="A two-by-two grid. Rows ask who collected the data, primary or secondary; columns ask what form it takes, quantitative or qualitative. Examples: a researcher’s own survey is primary quantitative, an unstructured interview transcript is primary qualitative, a government household survey is secondary quantitative and a diary is secondary qualitative." loading="lazy">
+  <figcaption>Primary or secondary is about who collected it; quantitative or qualitative is about its form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-methods-identity-and-inequality--03-four-part-evaluation.webp" width="900" height="520" alt="Four boxes for evaluating a research method: practical issues (time, cost, access), ethical issues (consent, harm, confidentiality), theoretical issues (validity versus reliability) and representativeness of the sample. A note says practical issues alone will not reach the top band." loading="lazy">
+  <figcaption>Cover practical, ethical, theoretical and representativeness points, not just practical ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-methods-identity-and-inequality--06-sampling-matters.webp" width="900" height="518" alt="A population of mixed coloured dots leads to two samples. A representative sample contains the same mix and allows findings to be generalised with more confidence. A small, unrepresentative or self-selecting sample contains only one colour and undermines even a well-designed method." loading="lazy">
+  <figcaption>A good method with a poor sample still gives weak evidence.</figcaption>
+</figure>
+
 ## Culture, socialisation and identity
 
 - **Culture** — the whole way of life of a group: norms, values, roles, beliefs.
@@ -75,6 +90,21 @@ Condensed for the final weeks. For the full explanation, use the
 **Nature versus nurture:** the sociological evidence is cross-cultural variation in norms and gender roles, and feral children cases where individuals raised without human contact fail to develop language or normal social behaviour.
 
 **Subculture** — a group with distinct norms within a wider society. **Counter-culture** — one actively opposed to the mainstream.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-learning-and-influences-on-identity--01-building-blocks-of-culture.webp" width="900" height="751" alt="Culture contains values, which become norms, which settle into customs, each with an example. Roles, status (ascribed or achieved) and stereotypes also shape behaviour. Together they feed identity, because people judge themselves by their roles and statuses and by how others respond." loading="lazy">
+  <figcaption>Social life feels natural, but every building block of it is made by people and learned.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-1--03-nature-or-nurture.webp" width="900" height="718" alt="A balance tipped towards nurture. On the nurture side: Genie, who could barely speak when found aged 13 in 1970, the relativity of culture and Mead’s study of three New Guinea peoples. On the nature side: genes and biology. A note warns that isolation cases and Mead’s study have limitations." loading="lazy">
+  <figcaption>Sociologists stress nurture, but a balanced answer accepts that biology sets some limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-1--05-agencies-of-socialisation.webp" width="900" height="650" alt="A table of six agencies of socialisation with the process each uses, why it is effective and why its effect is limited: family, education, peer group, media, religion and workplace. A note separates primary socialisation in the family from secondary socialisation later in life." loading="lazy">
+  <figcaption>Name the process each agency uses and weigh how effective it is.</figcaption>
+</figure>
 
 ## Inequality
 
@@ -93,6 +123,21 @@ Condensed for the final weeks. For the full explanation, use the
 **Ethnicity:** discrimination in employment and housing, institutional racism, negative media representation. **Ethnic disadvantage overlaps heavily with class disadvantage** — the two interact, and sociologists debate how much of the apparent ethnic effect is attributable to class rather than ethnicity itself. Raising that interaction, rather than treating the two as independent, is worth making.
 
 **Age:** the young and the old both face distinct disadvantages — youth unemployment and low pay at one end, ageism and pension poverty at the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-social-stratification-and-inequality--02-life-chances.webp" width="900" height="768" alt="Someone born into a higher social class has statistically better access to good education, secure employment, healthcare and material security than someone born into a lower class, shown as longer bars for the higher class." loading="lazy">
+  <figcaption>Life chances show that stratification has real, measurable consequences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-social-stratification-and-inequality--04-intersectionality.webp" width="900" height="742" alt="Three overlapping circles for social class, gender and ethnicity meet in the centre at life chances, with age as a further factor. Class covers family wealth and resources, gender covers careers, pay and domestic roles, and ethnicity covers discrimination and unequal access." loading="lazy">
+  <figcaption>Class, gender, ethnicity and age combine to shape one person’s life chances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-social-stratification-and-inequality--03-meritocracy-critique.webp" width="900" height="860" alt="Two running tracks. In the meritocratic claim all three runners start on the same line. In the sociological critique two runners start ahead because of family wealth, social networks and education access, so finishing positions are not purely down to merit." loading="lazy">
+  <figcaption>Unequal starting points mean outcomes do not purely reflect ability and effort.</figcaption>
+</figure>
 
 ## Exam traps
 

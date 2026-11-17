@@ -44,6 +44,11 @@ Course links: [IB MYP Sciences hub](/boards/ib/ib-myp/myp-sciences/) · [printab
 - **Solute / solvent / solution**: the solute dissolves in the solvent to make a solution.
 - **Rf value**: distance moved by a spot ÷ distance moved by the solvent front.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--02-diffusion-tube.webp" width="900" height="600" alt="A glass tube has cotton wool soaked in ammonia at one end and hydrogen chloride at the other. Ammonia particles are lighter and move faster, so the white ring of ammonium chloride forms nearer the hydrogen chloride end. Diffusion is fastest in gases, faster at higher temperature and for lighter particles." loading="lazy">
+  <figcaption>The ring forms nearer the heavier gas, because lighter particles diffuse faster.</figcaption>
+</figure>
+
 ## The three states at a glance
 
 | | Solid | Liquid | Gas |
@@ -54,6 +59,11 @@ Course links: [IB MYP Sciences hub](/boards/ib/ib-myp/myp-sciences/) · [printab
 | Forces | Strong | Medium | Very weak |
 | Shape / volume | Fixed / fixed | Container's / fixed | Container's / container's |
 | Compressible? | No | No | Yes |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--01-particle-model.webp" width="900" height="720" alt="Particle diagrams: a solid has particles touching in a regular pattern, vibrating in place; a liquid has particles touching but random, sliding past each other; a gas has particles far apart, moving fast in all directions. Below each are its forces, shape, volume and how easily it compresses: only the gas compresses easily." loading="lazy">
+  <figcaption>Gases compress because their particles are far apart; solids and liquids are already touching.</figcaption>
+</figure>
 
 ## Changes of state
 
@@ -68,6 +78,11 @@ Course links: [IB MYP Sciences hub](/boards/ib/ib-myp/myp-sciences/) · [printab
 
 **Why the temperature stays constant during a change of state:** the energy supplied overcomes the forces between particles instead of increasing their kinetic energy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--03-changes-of-state.webp" width="900" height="830" alt="A triangle of solid, liquid and gas. Melting, boiling or evaporation, and sublimation absorb energy; freezing, condensation and deposition release it. During any change of state the temperature stays constant because the energy overcomes forces between particles." loading="lazy">
+  <figcaption>Changes towards gas absorb energy; changes towards solid release it.</figcaption>
+</figure>
+
 ## Gas behaviour summary
 
 | Change to a fixed amount of gas | Particles | Result |
@@ -79,12 +94,22 @@ Course links: [IB MYP Sciences hub](/boards/ib/ib-myp/myp-sciences/) · [printab
 
 Keep it qualitative: explain in words, linking particle speed to collisions and then to pressure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--06-gas-pressure.webp" width="900" height="740" alt="Four cases for a fixed amount of gas. Heating a sealed can makes particles faster, with more frequent, harder collisions, so pressure rises. Squashing a syringe gives more collisions per second, so pressure rises. Heating a balloon pushes its walls out, so volume increases. Cooling a balloon slows the particles, so it shrinks." loading="lazy">
+  <figcaption>Pressure comes from particles hitting the walls: change their speed or space and the pressure changes.</figcaption>
+</figure>
+
 ## Heating curve reminders
 
 - Sloping part: one state warming; particle kinetic energy rises.
 - Flat part: change of state; energy overcomes forces between particles.
 - Boiling plateau is longer than melting plateau for the same heater, because particles are separated completely.
 - Cooling curve: flat parts at the condensation and freezing points, where energy is given out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--04-heating-curve.webp" width="900" height="750" alt="A heating curve: temperature rises while the solid warms, stays flat for 120 s while it melts, rises while the liquid warms, then stays flat for 600 s while it boils. With a 100 W heater, melting takes 12 000 J and boiling 60 000 J, five times as much, because boiling separates the particles completely." loading="lazy">
+  <figcaption>Flat sections are changes of state; the longer boiling plateau shows boiling needs more energy.</figcaption>
+</figure>
 
 ## Formulas and relationships
 
@@ -99,6 +124,11 @@ Keep it qualitative: explain in words, linking particle speed to collisions and 
 | Rf | spot distance / solvent-front distance | no unit |
 
 Reference values worth knowing: water 1.00 g/cm³; ice about 0.92 g/cm³; water melts at 0 °C and boils at 100 °C at standard pressure; ethanol boils at 78 °C.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--05-density-measurement.webp" width="900" height="710" alt="Left: a 6.0 × 3.0 × 2.0 cm block of mass 97.2 g has volume 36 cm³ and density 2.7 g/cm³ (2700 kg/m³), so it sinks in water. Right: an ornament of mass 112.5 g raises the water in a measuring cylinder from 50.0 to 62.5 cm³, a volume of 12.5 cm³ and a density of 9.0 g/cm³." loading="lazy">
+  <figcaption>Measure or displace to find the volume, then divide mass by volume.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -126,12 +156,22 @@ Reference values worth knowing: water 1.00 g/cm³; ice about 0.92 g/cm³; water 
 4. Two liquids that mix? → fractional distillation.
 5. Several coloured substances? → chromatography.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--07-filtration-distillation.webp" width="900" height="650" alt="Left: filtration through a filter funnel, with sand left as residue on the paper and water passing through as filtrate. Right: simple distillation of seawater. The flask is heated, a thermometer sits at the side arm, vapour passes through a water-cooled condenser with cold water in at the lower end, and pure water collects in a beaker while salt stays behind." loading="lazy">
+  <figcaption>Filtration removes insoluble solids; distillation recovers the solvent from a solution.</figcaption>
+</figure>
+
 ## Small worked reminders
 
 - A 12 cm³ sample with mass 32.4 g: ρ = 32.4 / 12 = **2.7 g/cm³**.
 - 250 cm³ of oil of density 0.80 g/cm³: m = 0.80 × 250 = **200 g**.
 - Solvent front 6.0 cm, spot 2.4 cm: Rf = 2.4 / 6.0 = **0.40**.
 - 40 W heater for 90 s: E = 40 × 90 = **3600 J**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-states-and-properties-of-matter--08-chromatography-rf.webp" width="900" height="630" alt="A chromatogram with a pencil baseline above the solvent. The solvent front moved 9.0 cm; an ink separated into spots at 3.6 cm and 6.3 cm, giving Rf values of 0.40 and 0.70, so the ink contains at least two dyes. A reference spot level with the 6.3 cm spot would be the same substance." loading="lazy">
+  <figcaption>Rf = spot distance ÷ solvent distance, both from the baseline; a pure substance gives one spot.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

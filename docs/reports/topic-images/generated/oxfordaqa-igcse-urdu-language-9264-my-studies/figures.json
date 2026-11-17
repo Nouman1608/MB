@@ -1,0 +1,47 @@
+[
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-my-studies--01-gender-of-subjects.webp",
+  "width": 900,
+  "height": 776,
+  "after": "## Key vocabulary",
+  "alt": "مضمون is masculine (یہ مضمون اچھا لگتا ہے), subjects such as ریاضی are feminine (مجھے ریاضی اچھی لگتی ہے), and a plural thing liked takes ہیں (مجھے سائنس کے تجربات پسند ہیں). مجھے ریاضی اچھا لگتا ہے is wrong; the plural of مضمون is مضامین.",
+  "caption": "The verb and adjective agree with the subject being described, not with you.",
+  "bytes": 97268
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-my-studies--02-opinion-patterns.webp",
+  "width": 900,
+  "height": 770,
+  "after": "## Structures that carry this topic",
+  "alt": "Two correct patterns: مجھے ریاضی پسند ہے and میں ریاضی پسند کرتا ہوں; mixing them (میں ریاضی پسند ہے) is wrong. لگنا works like پسند (مجھے تاریخ دلچسپ لگتی ہے), and every opinion needs a reason with کیونکہ.",
+  "caption": "Pick one pattern and keep it; then give the reason.",
+  "bytes": 106710
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-my-studies--03-model-paragraph-anatomy.webp",
+  "width": 900,
+  "height": 670,
+  "after": "## Worked example 1: writing about your subjects",
+  "alt": "Four moves in the model answer with their Urdu frames: a favourite subject with کیونکہ, a timetable fact with ہوتے ہیں, a contrasting dislike with اس کے برعکس, and a superlative with a concession (سب سے مفید ... اگرچہ یہ مشکل ہے).",
+  "caption": "Every opinion has a reason, and اس کے برعکس and اگرچہ add range.",
+  "bytes": 95498
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-my-studies--04-old-view-reason-new-view.webp",
+  "width": 900,
+  "height": 706,
+  "after": "## Worked example 3: a short reading question",
+  "alt": "The reading text in three marked clauses: the old view (maths always seemed difficult, لگتی تھی), the reason after لیکن (the new teacher explains with easy examples), and the new view after اب (now it is the favourite).",
+  "caption": "Three marks: the old view, the new view and the reason attached to the teacher.",
+  "bytes": 91252
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-my-studies--05-then-now-next-year.webp",
+  "width": 900,
+  "height": 630,
+  "after": "## Exam technique",
+  "alt": "A vertical timeline: before (پہلے مجھے ریاضی مشکل لگتی تھی), now (لیکن اب یہ آسان لگتی ہے) and next year (اگلے سال میں حیاتیات پڑھوں گا), with English glosses.",
+  "caption": "A change of view or a plan adds past or future to a present-tense topic.",
+  "bytes": 70198
+ }
+]

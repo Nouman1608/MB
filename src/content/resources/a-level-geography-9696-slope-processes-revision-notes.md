@@ -56,6 +56,11 @@ Gravity acting on slope material can be split into two parts: one pulling **alon
 
 **Factor of safety:** a value above 1 means the slope is stable; around 1 means failure is close; below 1 means failure. Any change that lowers strength or raises stress moves the factor towards 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--18-hz-slope-failure.webp" width="900" height="950" alt="A cross-section of a slope with a block of soil on it. An arrow pulls the block down the slope (shear stress) and a shorter arrow resists up the slope (shear strength, from friction and cohesion). The slope fails when stress exceeds strength. Five numbered causes are marked: heavy rain raising pore-water pressure, deforestation removing roots, undercutting of the slope toe by a river or waves, buildings loading the top, and earthquake shaking." loading="lazy">
+  <figcaption>A slope fails when shear stress exceeds shear strength; rain, deforestation, undercutting, loading and earthquakes tip the balance.</figcaption>
+</figure>
+
 ## Classification of mass movement
 
 | Group | Examples | Features |

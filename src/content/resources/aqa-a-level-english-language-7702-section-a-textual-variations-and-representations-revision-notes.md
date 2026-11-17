@@ -33,6 +33,11 @@ You get two unseen texts linked by topic or theme, one contemporary and one olde
 language to create meanings and representations (25 marks each), then compare them (20 marks). Every point should
 connect a precise language feature to what it represents and to the context that explains it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-a-textual-variations-and-representations--01-section-a-structure.webp" width="900" height="620" alt="A contemporary text and an older text linked by topic or theme each have an analysis question worth 25 marks, and a comparison question is worth 20 marks. Below, four boxes show how language is explored: shaped by audience, purpose, genre and mode; shaped by context; used to construct meanings and representations; and used to enact relationships." loading="lazy">
+  <figcaption>Analyse each text for 25 marks, then compare them for 20.</figcaption>
+</figure>
+
 ## What the specification says you explore
 
 | You explore how language is... | In practice, ask... |
@@ -44,6 +49,11 @@ connect a precise language feature to what it represents and to the context that
 
 The exploration also covers **identity construction**, **addressing and positioning audiences**, **text functions**,
 **structure and organisation** and **how representations are produced**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-a-textual-variations-and-representations--02-context-explains-variation.webp" width="900" height="760" alt="Six contextual factors, audience, purpose, genre, mode, time and place, each with the question to ask and the typical language result, such as the density of technical lexis for audience or address forms and spelling for time. A note says the older text's conventions are evidence of context, not mistakes." loading="lazy">
+  <figcaption>Textual variation is explained by context, never just noticed.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -73,12 +83,27 @@ The exploration also covers **identity construction**, **addressing and position
 7. **Selection and voice:** who is quoted, and who is missing?
 8. **Graphology:** which images, fonts and positions reinforce the picture?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-a-textual-variations-and-representations--03-naming-and-modification.webp" width="900" height="610" alt="&quot;Pensioners&quot;, &quot;older residents&quot; and &quot;our grandparents&quot; are placed along a scale from more distance to more warmth, though all refer to the same people. Below, the noun phrase &quot;a sleepy, forgotten harbour&quot; is split into determiner, two evaluative pre-modifiers and the head noun." loading="lazy">
+  <figcaption>Every name and modifier is a choice that builds a representation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-a-textual-variations-and-representations--04-transitivity-and-agency.webp" width="900" height="685" alt="A group placed as the agent of material verbs seems powerful or responsible, while a group always acted upon seems passive or vulnerable. Below, an agentless passive (&quot;Mistakes were made&quot;) and a nominalisation (&quot;the closure&quot;) remove the person responsible, and a presupposition is shown in a question about the council wasting money." loading="lazy">
+  <figcaption>Transitivity, passives and nominalisation decide who looks responsible.</figcaption>
+</figure>
+
 ## Relationships checklist
 
 - **Producer to audience:** pronouns (I, we, you), imperatives, questions, register, humour, deference.
 - **Between participants (transcripts, scripts, interviews):** turn length, interruptions, topic control, address
   terms, hedges and politeness strategies.
 - **Power:** who sets the agenda, who is allowed to evaluate, who must justify themselves?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-a-textual-variations-and-representations--05-identity-positioning.webp" width="900" height="700" alt="A text constructs an identity for its producer, such as an expert, friend, guardian or ordinary person, and a position for its reader, usually an ideal reader who shares its values. Below are Fairclough's synthetic personalisation and the features that show power in relationships within a text, including Brown and Levinson's positive and negative face." loading="lazy">
+  <figcaption>A text builds an identity for its producer and a role for its reader.</figcaption>
+</figure>
 
 ## The older text
 
@@ -87,6 +112,11 @@ The exploration also covers **identity construction**, **addressing and position
 - Ask how social attitudes of its period shape what it represents (roles of men and women, class, health, empire,
   childhood).
 - Change itself as a topic is Paper 2; here the date is context for meaning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-a-textual-variations-and-representations--06-annotated-older-text.webp" width="900" height="760" alt="Six features of the lesson's original Victorian-style guidebook extract about Saltmere, such as the assumed male visitor, the passive crediting the Corporation and the health discourse of &quot;the invalid&quot;, each linked to what it represents. All six feed one claim: a safe, health-giving, well-governed town for respectable male visitors." loading="lazy">
+  <figcaption>Group annotated features under one claim about representation.</figcaption>
+</figure>
 
 ## Comparison method (the 20-mark question)
 
@@ -98,6 +128,11 @@ The exploration also covers **identity construction**, **addressing and position
    purpose, technology, attitudes).
 4. Keep the texts together in every paragraph.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-a-textual-variations-and-representations--07-comparison-grid.webp" width="900" height="709" alt="A grid compares the guidebook with the tourism board post on four points: address, the represented visitor, the represented town, and mode and genre. A shared similarity is that both present the town as existing for the visitor, and a note says each difference needs a cause." loading="lazy">
+  <figcaption>Compare point by point, and explain the cause of every difference.</figcaption>
+</figure>
 
 ## Exam traps
 

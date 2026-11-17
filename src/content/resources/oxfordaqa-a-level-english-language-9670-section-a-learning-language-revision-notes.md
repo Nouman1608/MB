@@ -36,12 +36,22 @@ English Language (9670). For explanations and a worked EAL example, use the
 - Data: **speech, writing or multimodal texts** by **native or EAL speakers**.
 - Show topic knowledge (theories and approaches), data analysis, and academic argument with evaluation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-learning-language--01-section-requirements.webp" width="900" height="600" alt="Unit 3 is a 2-hour exam worth 50 marks and 30% of the A-level; Section A is worth 25 marks and offers a choice of two questions, each with data. The data can be speech, writing or multimodal, from native or EAL speakers, and answers must show knowledge of theories, data analysis and academic argument." loading="lazy">
+  <figcaption>One question from two, 25 marks: read both sets of data before choosing.</figcaption>
+</figure>
+
 ## Early childhood: quick recall
 
 - Pre-verbal, holophrastic, two-word, telegraphic, post-telegraphic.
 - Overgeneralisation ("runned"), overextension, phonological simplification.
 - Theories: behaviourist (Skinner), nativist (Chomsky), cognitive (Piaget), social interactionist (Bruner).
 - Caregiver features: recasts, expansions, questions, repetition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-learning-language--02-span-of-development.webp" width="900" height="560" alt="A timeline in three periods. Early childhood (0–5): phonological simplification, first words, telegraphic speech, overgeneralisation, caregiver interaction. Primary years (5–11): literacy, spelling, longer narratives, subordinate clauses, pragmatic control. Adolescence (11–18): complex syntax, academic vocabulary, register control, slang and identity." loading="lazy">
+  <figcaption>Development continues through the primary years and adolescence, not just early childhood.</figcaption>
+</figure>
 
 ## Later development (5-18)
 
@@ -52,6 +62,11 @@ English Language (9670). For explanations and a worked EAL example, use the
 | Vocabulary | Abstract, academic and subject lexis; idiom; polysemy | "photosynthesis", "on the fence" |
 | Pragmatics | Register shifts, indirect requests, irony and sarcasm, repair | "Would you mind if I...?" |
 | Identity | Peer-group slang and discourse markers | "like", "innit", new coinages |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-learning-language--03-later-development.webp" width="900" height="830" alt="Four areas of later development. Grammar: passives, embedded and relative clauses, nominalisation, cohesive devices. Vocabulary: abstract and subject-specific words, polysemy and figurative meaning. Pragmatics: register, politeness strategies, conversational repair. Adolescent identity: slang and discourse markers, Eckert’s 1989 study, Multicultural London English." loading="lazy">
+  <figcaption>Grammar, vocabulary and pragmatics keep developing, and teenage language marks identity.</figcaption>
+</figure>
 
 ## Adolescent language
 
@@ -75,6 +90,16 @@ English Language (9670). For explanations and a worked EAL example, use the
 **What to analyse**: spelling patterns, punctuation, sentence structure, cohesion, genre conventions, audience
 awareness, influence of teaching and reading.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-learning-language--04-kroll-stages.webp" width="900" height="665" alt="Kroll’s 1981 model as four rising steps: preparation (letter formation and basic spelling), consolidation (writing as they speak, with “and then” chains), differentiation (writing differs from speech; genres and audiences), and integration (a personal voice across forms and purposes)." loading="lazy">
+  <figcaption>Kroll: from forming letters to a controlled personal voice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-learning-language--05-gentry-spelling.webp" width="900" height="720" alt="Gentry’s five spelling stages: pre-communicative (random letters), semi-phonetic (“dg” for “dog”), phonetic (“sed” for “said”), transitional (“tode” for “toad”) and correct." loading="lazy">
+  <figcaption>Each non-standard spelling shows what the child already knows about sounds and patterns.</figcaption>
+</figure>
+
 ## EAL learners
 
 | Concept | Meaning |
@@ -86,6 +111,11 @@ awareness, influence of teaching and reading.
 | Silent period | A phase of listening more than speaking |
 | BICS and CALP (Cummins) | Conversational fluency develops faster than academic language proficiency |
 | Code-switching | Moving between languages as a resource for identity, emphasis or precision |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-learning-language--06-eal-concepts.webp" width="900" height="690" alt="Interlanguage sits between the first language and English, fed by transfer from the first language; overgeneralisation such as “He goed home” also occurs. Below: Krashen’s comprehensible input just beyond the current level, Cummins’s BICS (a couple of years) versus CALP (considerably longer), and code-switching as a skilled resource." loading="lazy">
+  <figcaption>EAL forms come from a rule-governed developing system; describe it, do not treat it as a deficit.</figcaption>
+</figure>
 
 ## Multimodal data
 
@@ -110,6 +140,11 @@ awareness, influence of teaching and reading.
   style and marking the speaker as part of a shared adolescent register.*
 - **EAL speech**: *"Yesterday I go" marks time with the adverb but not the verb, a systematic interlanguage feature
   that may reflect first-language transfer rather than random error.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-learning-language--07-worked-example-eal.webp" width="900" height="710" alt="The learner’s sentence analysed in two columns. Emerging CALP: “Therefore”, “we can conclude” and the relative clause with “which”. Developing interlanguage: “results was” (agreement), “was showing” and “affecting” (progressive for a completed finding), “more fast” (overgeneralised comparative)." loading="lazy">
+  <figcaption>Genre control and developing grammar appear together, and the non-target forms are systematic.</figcaption>
+</figure>
 
 ## Choosing between the two questions
 

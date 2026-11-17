@@ -40,6 +40,11 @@ the [Assignment B literary heritage study guide](/resources/edexcel-igcse-englis
 | Length | 650–800 words advisory |
 | Marking | By the centre, moderated by Pearson |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--13-c3-assignment-marks.webp" width="900" height="700" alt="Two equal bars of 30 marks. Assignment A is split 15 marks for AO1 and 15 for AO2. Assignment B is split 10 marks each for AO1, AO2 and AO4, and AO4 appears only in Assignment B." loading="lazy">
+  <figcaption>Assignment A uses AO1 and AO2 equally; Assignment B adds AO4 for context.</figcaption>
+</figure>
+
 ## What each objective asks for
 
 | AO | Marks | In practice |
@@ -50,6 +55,11 @@ the [Assignment B literary heritage study guide](/resources/edexcel-igcse-englis
 
 Because the three objectives carry equal marks, a paragraph that does only two of them leaves a third
 of its potential unused.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts--05-level-3-to-level-5.webp" width="900" height="788" alt="A Level 3 answer sets a point, a general piece of context about prejudice and an effect side by side without linking them. A Level 5 answer links Shylock’s forceful prose and repeated questions to two contexts, an Elizabethan audience’s expectations and a modern audience’s response, and argues that the play keeps both readings open." loading="lazy">
+  <figcaption>Link specific language to specific contexts to build one argument.</figcaption>
+</figure>
 
 ## Key moments to build an essay around
 
@@ -91,11 +101,26 @@ middle and end, and each return changes who stands on it and who is watching.
 
 Aim to use at least two kinds in one essay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts--03-kinds-of-context.webp" width="900" height="569" alt="The text and task sit at the centre of five kinds of context named by the specification: the writer’s situation, historical setting, social and cultural attitudes, literary context such as genre and tradition, and reception by different audiences. Literary context and reception are highlighted as kinds students often forget." loading="lazy">
+  <figcaption>Use more than one kind of context, and do not forget genre and reception.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts--02-choose-context-for-task.webp" width="900" height="635" alt="For the specification’s model task on city life in Great Expectations, three contexts are ticked: the growing Victorian city, crime and the law, and money and class. The history of the railway and the Victorians in general are crossed out as not relevant to the task." loading="lazy">
+  <figcaption>Pick the two or three contexts that change how your chosen moments read.</figcaption>
+</figure>
+
 ## Coursework versus exam
 
 In the Component 2 exam the challenge is remembering context under time pressure. In Assignment B
 you can research, so the challenge is **selection**: choose the two or three contexts that most
 change the meaning of your chosen moments, and cut the rest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts--01-exam-vs-coursework.webp" width="900" height="672" alt="Two cards compare the routes. The exam gives about 45 minutes, a question chosen on the day and context from memory, so the risk is forgetting context. Coursework gives weeks, a set task and researched context, so the risk is too much context. Below, an essay where context takes over squeezes out analysis, while chosen context leaves room for it." loading="lazy">
+  <figcaption>In coursework the danger is too much context, not too little.</figcaption>
+</figure>
 
 ## 800-word plan
 
@@ -107,6 +132,11 @@ Introduction 70 words; three paragraphs of about 200 (moment, method, context, l
 - Does the context explain *why* the writer made this choice, or how a reader responds?
 - Would the paragraph be weaker without the context sentence? If not, cut it.
 - Is there still a precise AO2 point about language, form or structure?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--17-c3-context-link.webp" width="900" height="880" alt="A top panel shows a generic background paragraph disconnected from the analysis. A bottom panel shows one specific contextual detail linked both ways to one specific textual moment, earning AO4. A banner says to plan at least one precise link." loading="lazy">
+  <figcaption>In Assignment B, tie a specific contextual detail to a specific moment in the text.</figcaption>
+</figure>
 
 ## Annotated model paragraph
 

@@ -50,6 +50,11 @@ thought and action.
 - Small written collections (sahifas) circulated, such as that of Hammam ibn Munabbih from Abu Hurayra.
 - Caliph Umar ibn Abd al-Aziz (717–720) ordered official collection; al-Zuhri took part.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--01-six-stages-of-compilation.webp" width="900" height="664" alt="Six stages: Companions learning in the Prophet's lifetime, mainly by memory; Companions teaching across new cities after 632; Successors travelling and keeping notebooks; the first official collection ordered by Umar ibn Abd al-Aziz (717–720); musannaf and musnad collections; and the sahih and sunan collections of the third Islamic century." loading="lazy">
+  <figcaption>Six stages, from memory to strictly selected collections; the official order of 717–720 is the turning point.</figcaption>
+</figure>
+
 ## What were musannaf and musnad collections?
 
 | | Musannaf | Musnad |
@@ -57,6 +62,11 @@ thought and action.
 | Arranged by | Subject | Companion who narrated |
 | Best for | Finding rulings on a topic | Gathering one companion's narrations |
 | Example | Imam Malik's al-Muwatta | Ahmad ibn Hanbal's Musnad |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--02-musannaf-and-musnad.webp" width="900" height="606" alt="Two panels. A musannaf arranges Hadiths by subject, such as purification, prayer and zakat; al-Muwatta of Imam Malik is the example, useful for finding rulings. A musnad arranges them by the narrating Companion, such as all of Abu Bakr's narrations; the Musnad of Ahmad ibn Hanbal is the example, easier for checking chains but harder for finding rulings." loading="lazy">
+  <figcaption>Musannaf: by subject. Musnad: by narrator.</figcaption>
+</figure>
 
 ## How did scholars test reliability?
 
@@ -68,6 +78,16 @@ Biographical study of narrators was developed for this.
 Prophet's way of speaking.
 
 **Grades:** sahih (sound), hasan (good), da'if (weak), mawdu' (fabricated).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--01-isnad-and-matn.webp" width="900" height="634" alt="The isnad is drawn as a chain: A told me that B said that C heard the Prophet (pbuh) say. Below it the matn, the text itself, reports what the Prophet said, did or approved. A note defines the Sunnah as his way of life, known mainly through Hadiths." loading="lazy">
+  <figcaption>Isnad is the chain of narrators; matn is the text they passed on.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--04-testing-reliability.webp" width="900" height="588" alt="Two checklists. Isnad tests: good character ('adala), accurate memory (dabt) and an unbroken chain, checked in biographical dictionaries. Matn tests: no contradiction of the Qur'an or established Sunna, nothing against reason or known history, and the Prophet's way of speaking. Hadiths are graded sahih, hasan, da'if or mawdu'; only sahih and hasan establish rulings." loading="lazy">
+  <figcaption>Chain and text are both tested; only sahih and hasan Hadiths are used for rulings.</figcaption>
+</figure>
 
 ## Which collections should you know?
 
@@ -82,6 +102,16 @@ al-Nasa'i; Sunan Ibn Majah.
 al-ahkam and al-Istibsar (al-Tusi). They give weight to narrations through the Prophet's family and
 the Imams.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--03-six-sunni-collections.webp" width="900" height="712" alt="The six Sunni collections. Highlighted together as al-Sahihayn: al-Bukhari (d. 870), with the strictest conditions, and Muslim (d. 875), which gathers all versions of a Hadith in one place. Below: Abu Dawud, focused on legal rulings; al-Tirmidhi, commenting on grades and legal views; al-Nasa'i, careful about narrators; and Ibn Majah, with Hadiths not in the other five." loading="lazy">
+  <figcaption>Know one main feature for each of the six books; al-Bukhari and Muslim rank highest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--05-four-shia-collections.webp" width="900" height="620" alt="Three compilers and their four books: al-Kulayni compiled al-Kafi, covering belief as well as law; Ibn Babawayh (al-Shaykh al-Saduq) compiled Man la yahduruhu al-faqih; al-Shaykh al-Tusi compiled Tahdhib al-ahkam and al-Istibsar. The last three focus mainly on law." loading="lazy">
+  <figcaption>Three compilers, four books; only al-Kafi covers belief as well as law.</figcaption>
+</figure>
+
 ## How do Hadiths relate to the other sources of law?
 
 1. **Qur'an** — the primary source.
@@ -92,12 +122,22 @@ the Imams.
 *Example chain:* the Qur'an forbids wine; Hadiths state that every intoxicant is forbidden;
 scholars apply this by qiyas to modern drugs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--05-hadiths-in-law.webp" width="900" height="597" alt="Three rows link a Qur'anic command to the detail supplied by the Hadiths: prayer, whose times, units and actions come from the Sunna; zakat, whose rates and minimum amounts come from the Hadiths; and cases where the Qur'an is silent, such as the ban on gold and silk clothing for men. Cards add ijma', qiyas and Sura 59.7." loading="lazy">
+  <figcaption>Without the Hadiths, Qur'anic commands such as prayer and zakat could not be carried out.</figcaption>
+</figure>
+
 ## Why are Hadiths important to Muslims?
 
 - They show how to practise the Pillars in detail.
 - They model the Prophet's character, the "beautiful example" of Qur'an 33.21.
 - They guide manners, family life, business and community relations.
 - They help scholars respond to new questions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--02-quran-and-hadith.webp" width="900" height="448" alt="Two linked boxes: the Qur'an sets out core principles, and the Hadiths, a second source of guidance, give the practical detail of how they were lived out. A note defines Hadiths as the Prophet's sayings, actions and approvals, preserved through the isnad, distinct from the Qur'an but complementary." loading="lazy">
+  <figcaption>Principles from the Qur'an, practical detail from the Hadiths.</figcaption>
+</figure>
 
 ## Key terms at a glance
 

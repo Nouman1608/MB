@@ -1,0 +1,38 @@
+[
+ {
+  "file": "cambridge-igcse-physics-0625-stars-and-the-universe-cambridge-igcse-physics--01-the-sun-and-stability.webp",
+  "width": 900,
+  "height": 800,
+  "after": "## The Sun as a star",
+  "alt": "The Sun is a medium-sized star made mostly of hydrogen and helium, radiating mostly infrared, visible light and ultraviolet. For Extended, in a stable star the inward gravitational attraction is balanced by an outward force due to the high temperature at the centre, kept hot by fusion of hydrogen into helium.",
+  "caption": "Infrared, visible and ultraviolet: the Sun's three main outputs.",
+  "bytes": 86390
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-stars-and-the-universe-cambridge-igcse-physics--02-galaxies-and-light-years.webp",
+  "width": 900,
+  "height": 668,
+  "after": "## Scale: galaxies and light-years",
+  "alt": "The Sun is one of many billions of stars in the Milky Way galaxy, which is about 100 000 light-years across; the Milky Way is one of many billions of galaxies. A light-year is the distance light travels in a year, 9.5 × 10¹⁵ m (Extended), so Sirius at 8.6 light-years is 8.2 × 10¹⁶ m away.",
+  "caption": "A light-year measures distance: about 9.5 × 10¹⁵ m.",
+  "bytes": 94490
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-stars-and-the-universe-cambridge-igcse-physics--03-redshift-and-cmbr.webp",
+  "width": 900,
+  "height": 680,
+  "after": "## Redshift and the expanding Universe",
+  "alt": "Absorption lines in light from an Earth source and from a distant galaxy: the galaxy's lines are shifted towards longer wavelengths, showing that it is receding. For Extended, the cosmic microwave background radiation was produced shortly after the Universe formed and has been stretched into the microwave region by expansion. Both support the Big Bang Theory.",
+  "caption": "Redshift means a longer observed wavelength from a receding galaxy.",
+  "bytes": 88992
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-stars-and-the-universe-cambridge-igcse-physics--04-hubble-constant.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## The Hubble constant (Extended only)",
+  "alt": "Recession speed against distance is a straight line through the origin with gradient H₀ = 2.2 × 10⁻¹⁸ per second. A galaxy receding at 4.4 × 10⁶ m/s is 2.0 × 10²⁴ m away, about 2.1 × 10⁸ light-years. 1/H₀ = 4.5 × 10¹⁷ s, about 1.4 × 10¹⁰ years, estimates the age of the Universe.",
+  "caption": "v is proportional to d; 1/H₀ estimates the age of the Universe.",
+  "bytes": 75056
+ }
+]

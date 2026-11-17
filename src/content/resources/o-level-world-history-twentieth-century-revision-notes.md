@@ -53,6 +53,11 @@ Condensed, exam-focused notes for Core Content Option B of Cambridge O Level Wor
 - Fair or unfair: judged reasonable given the destruction of WWI, or harsh and short-sighted, fuelling
   German resentment that later fed Nazi propaganda.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--02-versailles-aims-terms.webp" width="900" height="1100" alt="Wilson, Lloyd George and Clemenceau each had a different aim; the Treaty imposed territorial loss, military restriction, reparations and the war guilt clause on Germany, which can be judged reasonable or harsh." loading="lazy">
+  <figcaption>Three different aims produced one Treaty with four terms imposed on Germany.</figcaption>
+</figure>
+
 ## 2.2 Was the League of Nations a success?
 
 - Aims: collective security, disarmament, improving working/living conditions internationally.
@@ -61,6 +66,16 @@ Condensed, exam-focused notes for Core Content Option B of Cambridge O Level Wor
 - Failures: could not stop Japan's invasion of Manchuria (1931) or Italy's invasion of Abyssinia
   (1935-36); had no army of its own and depended on member states to act.
 - Structural weakness: the USA never joined; major powers left or ignored its rulings once challenged.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--03-league-scorecard.webp" width="900" height="970" alt="Three areas (peacekeeping, structure, membership) each with evidence of success and of failure as the lesson tabulates." loading="lazy">
+  <figcaption>The League had real successes but failed on peacekeeping, structure and membership.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--04-league-weakness.webp" width="900" height="1010" alt="The League recommends sanctions but has no army, so member states must enforce them; major powers defying it in the 1930s makes the system fail." loading="lazy">
+  <figcaption>The League could recommend sanctions but not enforce them.</figcaption>
+</figure>
 
 ## 2.3 Was Hitler's foreign policy to blame for war in 1939?
 
@@ -72,6 +87,11 @@ Condensed, exam-focused notes for Core Content Option B of Cambridge O Level Wor
 - Exam approach: never treat Hitler's foreign policy alone — the syllabus explicitly expects a weighed
   judgement against these other factors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--05-ww2-causes-weighed.webp" width="900" height="830" alt="A level balance: four steps of Hitler's foreign policy (Rhineland, Anschluss, Sudetenland, Poland) against appeasement, League weakness and failed collective security." loading="lazy">
+  <figcaption>A strong answer weighs Hitler's foreign policy against other causes before judging.</figcaption>
+</figure>
+
 ## 2.4 Who was to blame for the Cold War?
 
 - Wartime alliance (USSR + Western powers) broke down after 1945 over Eastern Europe's and Germany's
@@ -81,6 +101,11 @@ Condensed, exam-focused notes for Core Content Option B of Cambridge O Level Wor
   sides.
 - Key flashpoints to know: Yalta and Potsdam conferences, the Iron Curtain, the Truman Doctrine, the
   Marshall Plan, the Berlin Blockade/Airlift.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--06-cold-war-origins.webp" width="900" height="1030" alt="The USSR-West alliance breaks after 1945 over Eastern Europe and Germany; the USA responds in 1947 with the Truman Doctrine and Marshall Plan; confrontation hardens and historians disagree on blame." loading="lazy">
+  <figcaption>The wartime alliance broke down and hardened into the Cold War.</figcaption>
+</figure>
 
 ## 2.5 How effectively did the US contain communism?
 
@@ -96,12 +121,27 @@ policy question:
 (The Truman Doctrine and Marshall Plan belong to 2.4, on the origins
 of the Cold War, not to this case-study-based enquiry.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--07-containment-cases.webp" width="900" height="1190" alt="Containment is shown as a ring around communism, then three named case studies (Korea to 1953, Cuba including the 1962 missile crisis, Vietnam), each with a question mark: assess separately." loading="lazy">
+  <figcaption>Containment is judged separately in each of three case studies.</figcaption>
+</figure>
+
 ## 2.6 How secure was Soviet control over Eastern Europe, 1948-c.1989?
 
 - Methods of control: political (puppet communist governments), military (Warsaw Pact, direct
   intervention), economic (Comecon).
 - Challenges to control: Hungary 1956, Czechoslovakia 1968 (Prague Spring), Poland's Solidarity movement
   in the 1980s — each shows growing cracks in Soviet control before its collapse around 1989.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-ussr-control-eastern-europe--01-control-supports.webp" width="900" height="990" alt="A building under a roof labelled Soviet control stands on six supports: Soviet troops, secret police, one-party rule, the Cominform (1947), Comecon (1949) and the Warsaw Pact (1955). The base lists the six Moscow-loyal states: Poland, Hungary, Czechoslovakia, Romania, Bulgaria and East Germany. A dashed box notes that Yugoslavia under Tito was expelled from the Cominform in 1948." loading="lazy">
+  <figcaption>Soviet control after 1948 rested on six supports, and Yugoslavia showed that not every communist state obeyed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-ussr-control-eastern-europe--05-force-then-restraint.webp" width="900" height="1084" alt="Six events in date order. The first three show Soviet force or its symbol: tanks enter Budapest (4 November 1956), the Berlin Wall is built (13 August 1961) and Warsaw Pact forces invade Czechoslovakia (20 to 21 August 1968). A band marks Gorbachev leading from 1985 and abandoning the Brezhnev Doctrine. The last three, all in 1989, show a crossed-out tank: Hungary opens its Austrian border, the Berlin Wall is opened on 9 November, and the Velvet Revolution takes place, with no Soviet intervention." loading="lazy">
+  <figcaption>Soviet control rested on force and ended in 1989 when Moscow would no longer use it.</figcaption>
+</figure>
 
 ## Exam technique for this option
 
@@ -138,6 +178,11 @@ habit — deliberately generating and weighing a counter-argument before reachin
 single most reliable way to convert accurate factual knowledge into the higher mark bands this option
 rewards, since examiners consistently report that candidates who know the facts but never explicitly
 weigh them against an alternative view underperform relative to their actual knowledge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-twentieth-century-1919-1989--01-chain-1919-1989.webp" width="900" height="1010" alt="Six numbered enquiries 2.1 to 2.6 in a vertical chain, with resentment linking Versailles to Hitler and the wartime alliance breaking down into the Cold War." loading="lazy">
+  <figcaption>The six enquiries form one connected chain from 1919 to 1989.</figcaption>
+</figure>
 
 ## Self-test
 

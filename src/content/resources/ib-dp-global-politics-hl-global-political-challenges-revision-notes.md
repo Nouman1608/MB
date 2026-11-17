@@ -53,11 +53,21 @@ Also useful: the [Paper 3 practice set](/resources/ib-dp-global-politics-hl-glob
 - **Security** -- military and non-state threats, plus food, water and energy security; rights abuses as attacks on security.
 - **Technology** -- social media and mobilisation; cyber power; the need for norms in cyberspace.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--02-eight-topic-areas.webp" width="900" height="762" alt="Eight topic areas arranged in a ring and all linked to each other: borders, environment, equality, health, identity, poverty, security and technology." loading="lazy">
+  <figcaption>Eight overlapping areas: the connections matter as much as the areas.</figcaption>
+</figure>
+
 ## Three ways to link the extension to the common syllabus
 
 1. **Explicit mention** in prescribed content -- identity as a cause of conflict; environmental factors of development; conceptions of poverty.
 2. **Expansion** of a prescribed topic -- environmental rights as part of human rights.
 3. **Integration** into a topic area -- identity as a right, as a sign of political development and as a cause of conflict.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--01-three-emphases.webp" width="900" height="618" alt="The HL extension has three emphases: interconnection, complexity and tension, and solutions. Links to the common syllabus come from explicit mention in prescribed content, expanding a prescribed topic, or integrating thematic-study elements. It takes 80 of the 240 HL hours with no extra prescribed content." loading="lazy">
+  <figcaption>Spot connections, weigh tensions, then look for solutions.</figcaption>
+</figure>
 
 ## The six guiding lines of inquiry
 
@@ -72,6 +82,11 @@ Paper 3 question 3 is based on these.
 | 5 | Frameworks, systems, organisations and mechanisms | Named body or agreement and what it achieved |
 | 6 | How cases from different areas change perception or response | What your second case taught you about the first |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--05-lines-of-inquiry.webp" width="900" height="538" alt="Six lines of inquiry: links to the core topics, links to the thematic studies, how far challenges are interconnected, how they are perceived and addressed in different contexts, which frameworks and mechanisms address them, and how cases from different areas change the view." loading="lazy">
+  <figcaption>Gather evidence for all six lines from every case.</figcaption>
+</figure>
+
 ## Paper 3 question types
 
 | Q | AO | Marks | Task | Marking |
@@ -82,6 +97,11 @@ Paper 3 question 3 is based on these.
 | 3 | AO3 | 15 | Synthesise and evaluate your researched cases | Markbands 1--3 up to 13--15 |
 
 Questions 2 and 3 use a question-specific markscheme **and** markbands, applied by best fit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--06-paper-3.webp" width="900" height="685" alt="Paper 3 lasts 90 minutes for 28 marks. Question 1 (3 marks, AO2) about 10 minutes; 2a (4 marks, AO2) about 13; 2b (6 marks, AO3) about 19; question 3 (15 marks, AO3) about 48 minutes. Question 3 is about 16% of the HL grade." loading="lazy">
+  <figcaption>Spend time where the marks are: question 3 deserves about half the paper.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -129,6 +149,16 @@ Claim -> case A (topic area X) -> case B (topic area Y)
 -> compare -> counter-argument / other perspective -> judgement
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--03-case-file.webp" width="900" height="747" alt="Three groups of research questions for each case: background, data and issues; causes, impact and responses; and reflection. A case can be chosen topic-area first or case first. The minimum is two case studies across two topic areas." loading="lazy">
+  <figcaption>Three groups of questions turn a case into usable Paper 3 evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--07-recommendation-frame.webp" width="900" height="581" alt="A five-step frame for question 2b: action, actor, evidence, challenge and mitigation, illustrated with a heat-stoppage rule for the fictional Port Salem. Markbands: a vague recommendation scores 1 to 2; one that ignores difficulties 3 to 4; a well-supported one that considers challenges and consequences 5 to 6." loading="lazy">
+  <figcaption>Recommend, support, name the difficulty, then reduce it: that reaches the top band.</figcaption>
+</figure>
+
 ## Worked reminders
 
 - **Timing:** 90 minutes for 28 marks is about 3.2 minutes per mark. Try 10 / 13 / 19 / 48 minutes for questions 1 / 2a / 2b / 3.
@@ -145,6 +175,11 @@ Each pairing below uses two of the guide's own suggested examples from different
 | Cape Town drought, 2016--2018 (environment) | Ebola in Liberia, 2014--2015 (health) | How states manage a crisis, and what it does to their legitimacy |
 | Disputed claims in the South China Sea (security) | Melting Arctic ice (environment) | When shared spaces lead to cooperation and when to rivalry |
 | Rohingya crisis in Myanmar (equality) | Scottish independence referendum, 2014 (borders) | How identity claims inside a state are handled: exclusion versus a negotiated vote |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--04-cape-town-case.webp" width="900" height="798" alt="The 2016 to 2018 Cape Town drought mapped onto topic areas: environment, security and equality and poverty, where wealthier households could buy boreholes and tanks and poorer ones could not, plus the concepts legitimacy, power and interdependence. A Day Zero warning led to a 50-litre daily limit from February 2018; taps were never shut off." loading="lazy">
+  <figcaption>One case touches several topic areas; a second case adds comparison.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

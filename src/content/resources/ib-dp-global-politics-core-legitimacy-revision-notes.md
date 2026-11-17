@@ -46,6 +46,11 @@ They cover the core prescribed topic **Legitimacy in global politics** for IB Di
 | Delegitimation | Action by others that reduces an actor's legitimacy |
 | Stakeholder | Anyone affected by an issue, even without the means to act |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-legitimacy--01-legitimacy-legality-power.webp" width="900" height="625" alt="Legitimacy means a population broadly accepts an actor or action as proper. It is not the same as power, since a government can rule by coercion without acceptance, and not the same as legality, since legal laws can be rejected and illegal protests seen as justified. Legitimacy has audiences: citizens, other states, regional bodies and UN bodies." loading="lazy">
+  <figcaption>Legitimacy rests on acceptance, and the audience granting it matters.</figcaption>
+</figure>
+
 ## Sources of state and government legitimacy
 
 The guide lists these fifteen. The four groups are a memory aid, not an IB classification.
@@ -58,6 +63,11 @@ The guide lists these fifteen. The four groups are a memory aid, not an IB class
 | Recognition | leadership recognition; international recognition | Do others accept it? |
 
 Remember the guide's framing: democracy or constitutionalism is the most widely accepted modern form of state legitimacy, but hereditary or traditional leadership can also be a source where that is the norm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-legitimacy--03-sources-grouped.webp" width="900" height="603" alt="The guide’s fifteen sources of legitimacy in four study groups: process (elections, representation, consent, transparency), performance (welfare, order, development, quality of governance), identity (history, ideology, national identity) and recognition (leadership and international recognition)." loading="lazy">
+  <figcaption>Process, performance, identity and recognition: most governments draw on several at once.</figcaption>
+</figure>
 
 ## Challenges to legitimacy
 
@@ -84,6 +94,11 @@ The left column comes from the guide's areas to consider. The right column lists
 
 The guide wants legitimacy judged towards governments **and** towards other actors: donors, members, communities and each other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-legitimacy--05-non-state-actors.webp" width="900" height="663" alt="Four areas for judging a non-state actor: representation, interaction, ability and efficacy. Applied to Médecins Sans Frontières: it relies on humanitarian principles rather than representing a group, negotiates access while stressing neutrality, uses medical expertise funded by private donations, and shows visible outcomes." loading="lazy">
+  <figcaption>Representation, interaction, ability and efficacy: apply all four, and name the audience.</figcaption>
+</figure>
+
 ## Legitimation processes
 
 | Process | Direction | Example |
@@ -92,6 +107,11 @@ The guide wants legitimacy judged towards governments **and** towards other acto
 | Self-legitimation | From the actor | Holding elections or referendums; national symbols |
 | Organic recognition | Bottom up | Turnout, membership, donations, trust |
 | (De)legitimation by opponents | Contest | Boycotts, NGO reports, rival claims |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-legitimacy--06-legitimation-processes.webp" width="900" height="743" alt="Four processes act on an actor’s legitimacy: formal recognition from above, such as South Sudan’s UN admission in 2011; self-legitimation through elections, referendums and symbols, which can fail; organic recognition from below through turnout, membership and trust; and delegitimation by rivals through boycotts and name-and-shame reports." loading="lazy">
+  <figcaption>Legitimacy comes from above, from the actor itself, from below, and can be stripped by rivals.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -112,6 +132,11 @@ The guide wants legitimacy judged towards governments **and** towards other acto
 > **Paper 1 compare and contrast**
 > Keep a running comparison. Each paragraph covers one point and refers to both sources. Say where they agree, where they differ, and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-legitimacy--04-tracing-sri-lanka.webp" width="900" height="740" alt="Six steps for Sri Lanka in 2022: performance legitimacy was damaged by shortages of fuel, food and medicine; citizens protested; the president fled and resigned in July 2022; the state stayed legitimate as power passed constitutionally; and a September 2024 election renewed government legitimacy." loading="lazy">
+  <figcaption>Name the source damaged, the audience and the outcome, then check the state separately.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Legitimacy vs power.** Power is the ability to effect change; legitimacy is acceptance. Coercion can keep power without legitimacy.
@@ -121,6 +146,11 @@ The guide wants legitimacy judged towards governments **and** towards other acto
 - **Process vs performance.** Elections versus delivery. Most governments rely on both.
 - **Internal vs external challenge.** Citizens' protests versus sanctions and non-recognition.
 - **Formal vs organic recognition.** Granted by an authority versus earned from audiences.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-legitimacy--02-state-vs-government.webp" width="900" height="543" alt="Government legitimacy sits inside the wider state legitimacy. Sri Lanka in 2022 shows a government rejected while the state stayed accepted; Kosovo since 2008 shows the state itself disputed; Afghanistan since 2021 shows effective control without wide recognition." loading="lazy">
+  <figcaption>A government can lose legitimacy while the state keeps it, and the reverse.</figcaption>
+</figure>
 
 ## Case bank
 

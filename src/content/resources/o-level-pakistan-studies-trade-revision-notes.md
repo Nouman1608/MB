@@ -55,6 +55,11 @@ explanation is in the [Trade study guide](/resources/o-level-pakistan-studies-tr
 | Remittances | Money sent home by people working abroad |
 | Value-added | Extra value gained by processing a raw material into a finished product |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-trade--03-gdp-gnp.webp" width="900" height="610" alt="An equation diagram: GDP, the output produced inside Pakistan, plus income earned abroad by Pakistanis, minus income paid to foreign owners, gives GNP. The last two together are net income from abroad." loading="lazy">
+  <figcaption>GNP adjusts GDP for income flowing in from and out to other countries.</figcaption>
+</figure>
+
 ## Numbers to quote (rounded, fiscal year 2023–24)
 
 - Goods exports: **about US$31 billion**; the textile group a little over half.
@@ -65,6 +70,21 @@ explanation is in the [Trade study guide](/resources/o-level-pakistan-studies-tr
 - Exchange rate: **about Rs 160 per US$ in mid-2021, about Rs 280 by 2024**.
 
 Always write "approximately" and the year; they will change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-trade--01-exports-imports.webp" width="900" height="682" alt="Two bars compare goods exports of about US$30.6 billion with imports of about US$54.7 billion in 2023–24, leaving a deficit of about US$24.1 billion. Lists below show the main exports (textiles, rice, leather, surgical and sports goods) and imports (fuel, machinery, palm oil, chemicals, steel)." loading="lazy">
+  <figcaption>Imports cost almost twice what exports earn, leaving a deficit of about US$24 billion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-trade--02-changing-mix.webp" width="900" height="550" alt="In the 1950s exports were mainly raw cotton and jute; today cotton leaves as yarn, cloth and finished garments of rising value. Three cards note record rice exports in 2023–24, fuel imports that swing with world prices, and new growth in IT services, surgical instruments, pharmaceuticals and seafood." loading="lazy">
+  <figcaption>Pakistan now exports processed cotton goods rather than raw cotton.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-trade--04-deficit-chain.webp" width="900" height="786" alt="Five linked steps: a widening trade deficit causes reserves to fall; the gap is filled by remittances, loans and IMF help; the rupee weakens, making fuel and machinery dearer and raising inflation; loan repayments take money from schools and health. A box shows that higher value-added exports narrow the gap." loading="lazy">
+  <figcaption>A trade deficit drains reserves, weakens the rupee and squeezes spending at home.</figcaption>
+</figure>
 
 ## Partners in one table
 
@@ -78,6 +98,11 @@ Always write "approximately" and the year; they will change.
 | Indonesia, Malaysia | Rice | Palm oil |
 | Afghanistan | Food, cement, medicines | Coal, fruit, vegetables |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-trade--05-trading-partners.webp" width="900" height="740" alt="A schematic hub with Pakistan at the centre and six partner groups around it, each showing what Pakistan exports to and imports from them: the United States, China, the UK and EU, the Gulf states, Indonesia and Malaysia, and Afghanistan." loading="lazy">
+  <figcaption>The US buys the most from Pakistan; China sells the most to it.</figcaption>
+</figure>
+
 ## Promote versus hinder
 
 | Promotes trade | Hinders trade |
@@ -88,6 +113,11 @@ Always write "approximately" and the year; they will change.
 | Land links to China and Afghanistan | Costly, unreliable power and gas |
 | Cheaper rupee helps exporters | Dearer rupee-priced imports raise costs |
 | Overseas Pakistani networks | Tension with India limits regional trade |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-trade--06-promote-hinder.webp" width="900" height="629" alt="Two columns compare factors that promote trade (agreements such as GSP+ and the China FTA, a coastal location near the Gulf, a weaker rupee) with factors that hinder it (a narrow export base, competition, trade barriers, high costs, exchange-rate swings and political tension). A box explains why Pakistan’s share of world exports stays under one per cent." loading="lazy">
+  <figcaption>More factors hold Pakistan’s trade back than push it forward.</figcaption>
+</figure>
 
 ## How to describe a trade graph (worked example)
 

@@ -52,6 +52,11 @@ Analysis must be **systematic**, not impressionistic. Work through the levels:
 Weak: *"The writer uses an imperative."*
 Strong: *"The imperative 'Choose' positions the reader as someone already in control, flattering their autonomy while in fact narrowing the options to those the advertiser offers."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--09-p1-frameworks.webp" width="900" height="950" alt="Six cards in two columns, each with a small icon: form and structure (how a text opens, develops and closes), lexis (semantic fields, connotation, formality), grammar (sentence types, voice, modality), imagery (metaphor, simile, personification), tone and voice (attitude and whether it shifts) and point of view (first, second or third person)." loading="lazy">
+  <figcaption>Work through form, lexis, grammar, imagery, tone and point of view rather than commenting on whatever catches the eye.</figcaption>
+</figure>
+
 ## Grammar features that repay attention
 
 - **Modality** — *must, should, might, could*. High modality asserts certainty and authority; low modality hedges, softens, and lowers the risk of contradiction.
@@ -88,6 +93,16 @@ Before writing, fix: **form, audience, purpose**.
 
 Question 1(b) that follows must **compare your own response with the original text** -- its form, structure and language -- using the frameworks, explaining **why** each feature suits the audience and purpose in each. Treating 1(b) as a description of what you wrote, rather than a comparison against the source, scores in the lower bands. (A reflective commentary on your own choices is a Paper 2 Writing task, not this one.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--11-p1-directed-writing.webp" width="900" height="995" alt="Three cards: form dictates conventions, audience dictates register and vocabulary, purpose dictates structure. Below, a source page passes through three steps, select, reorganise and recast in your own words, to become a new page. A crossed-out arrow shows that copying stretches of the original earns no credit." loading="lazy">
+  <figcaption>The brief shapes the text; the source material is transformed, never copied.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--12-p1-compare.webp" width="900" height="1050" alt="A grid with two columns, my 1(a) response and the source text, and three rows, form, structure and language, joined by double-headed arrows to show comparison point by point. Below, a crossed-out alternative shows two separate descriptions placed side by side with no links. A banner notes that this part carries more marks than the writing task, and that the reflective commentary belongs to Paper 2 Writing, not here." loading="lazy">
+  <figcaption>Compare form, then structure, then language, linking your text with the source at each point.</figcaption>
+</figure>
+
 ## Structuring an analysis answer
 
 1. **Overview** — genre, audience, purpose, in one or two sentences.
@@ -95,6 +110,16 @@ Question 1(b) that follows must **compare your own response with the original te
 3. **Conclusion** — the overall effect and how the language achieves it.
 
 Quote **short**. Embedding a two-word quotation in your own sentence shows more control than copying a full line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-skills-and-techniques--02-two-pass-reading.webp" width="900" height="520" alt="The first pass reads for gist and situation: form, writer, audience and purpose. The second pass, with a pen, marks shifts in tone, time or focus, and sentence pattern. Before annotating, state the text's form, audience and purpose in one sentence." loading="lazy">
+  <figcaption>Establish form, audience and purpose before annotating features.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-skills-and-techniques--04-evidence-process.webp" width="900" height="550" alt="Five steps: select the smallest piece of text that carries the effect, embed it in your own sentence, link it with a precise analytical verb, interpret it for this reader and context, and integrate it into your overall reading. Eight analytical verbs are offered instead of &quot;shows&quot;." loading="lazy">
+  <figcaption>Select, embed, link, interpret, integrate: five skills that form one process.</figcaption>
+</figure>
 
 ## Worked example: analysing a single extract
 
@@ -115,6 +140,11 @@ past tense, third person   detached observation, no consolation offered
 **Effect:** the closure is presented as irreversible, and the reader's sympathy is directed at the loss rather than at any named cause.
 
 Where Paper 1's Question 1(b) asks you to compare your own directed response with the original text, apply the same point-by-point method: form, then structure, then language, relating each to audience and purpose, rather than describing your response and the source one after the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--10-p1-identify-quote-explain.webp" width="900" height="960" alt="The lesson’s example sentence, “The factory stood silent, its chimneys cold, its gates chained.”, sits above three steps. Step 1 identify: personification. Step 2 quote: “stood silent”. Step 3 explain: it suggests death rather than mere closure. A final box links the explanation to the writer’s purpose and the reader’s experience." loading="lazy">
+  <figcaption>Every observation gets the same three steps, with the effect tied to purpose.</figcaption>
+</figure>
 
 ## Exam traps
 

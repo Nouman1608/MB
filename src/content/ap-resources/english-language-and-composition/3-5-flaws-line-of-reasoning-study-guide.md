@@ -73,6 +73,11 @@ Reading for flaws is not about catching writers out. It is a way of testing whet
 
 You do not need to memorise every name. You do need to know **what is wrong** with each pattern.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-5-flaws-line-of-reasoning-study-guide--01-flaw-shapes.webp" width="900" height="934" alt="Nine cards each sketch a flaw with the lesson’s example: hasty generalisation (two cases to everyone), false cause (A then B is not A causes B), false dilemma (two doors shown, others hidden), slippery slope (steps asserted), straw man (a distorted view attacked), ad hominem (the person attacked, not the plan), circular reasoning, faulty analogy and red herring." loading="lazy">
+  <figcaption>Know what is wrong with each pattern, not just its name.</figcaption>
+</figure>
+
 ## Specious and illogical: two kinds of failure
 
 | Type | Description | Example |
@@ -81,6 +86,11 @@ You do not need to memorise every name. You do need to know **what is wrong** wi
 | **Specious** | It looks plausible but depends on a trick, a gap or an emotional shortcut. | "Can you really say no to saving a child's life? Then you must support the new tax." (It hides the question of whether the tax achieves that.) |
 
 Both undermine the writer's **credibility** and the force of the argument. A reader who spots a flaw may doubt other parts of the argument too.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-5-flaws-line-of-reasoning-study-guide--02-specious-vs-illogical.webp" width="900" height="530" alt="Two kinds of failure. Illogical: the choir example, shown as a small circle of choir members inside a larger circle of people good at music, where Ravi could sit outside the choir. Specious: an emotional question about saving a child’s life leaps to supporting a tax, hiding whether the tax achieves it." loading="lazy">
+  <figcaption>Illogical arguments do not follow; specious ones only look as if they do.</figcaption>
+</figure>
 
 ## Questions that expose flaws
 
@@ -110,11 +120,21 @@ When you find a flaw in your own draft, the repair usually takes one of these fo
 | Ad hominem | Address the argument, not the person. |
 | Circular reasoning | Provide independent reasons or evidence. |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-5-flaws-line-of-reasoning-study-guide--03-repairing-flaws.webp" width="900" height="571" alt="Seven flaws, each with its typical repair: narrow a hasty generalisation, show a mechanism for a false cause, acknowledge other options in a false dilemma, evidence each step of a slippery slope, restate a straw man fairly, address the argument instead of the person, and give independent reasons for circular reasoning." loading="lazy">
+  <figcaption>Most flaws are repaired by narrowing, evidencing or stating the other side fairly.</figcaption>
+</figure>
+
 ## Satire and deliberately flawed reasoning: Swift (1729)
 
 Writers sometimes use flawed reasoning on purpose. In "A Modest Proposal" Jonathan Swift's narrator calmly proposes that the poor of Ireland sell their children as food. The narrator reasons with the confident tone of an economist, but the line of reasoning depends on a monstrous premise, that poor people's children are a commodity. Near the end the narrator shuts down alternatives: "Therefore I repeat, let no man talk to me of other expedients", and then lists real remedies, such as taxing absentee landlords, only to dismiss them. This is a **false dilemma** in action: the narrator presents his horrifying plan as the only option and refuses to consider the rest.
 
 The flaw is the point. By making the reasoning visibly specious, Swift invites readers to look at the real premises behind policies of his day and to reject them. When you read satire, ask not only "what is wrong with this argument?" but "why has the writer made it wrong, and what does that show?"
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-5-flaws-line-of-reasoning-study-guide--04-swift-false-dilemma.webp" width="900" height="550" alt="Swift’s narrator presents his plan to sell children as food as the only option, and shuts out real remedies such as taxing absentee landlords with “let no man talk to me of other expedients”. The deliberate false dilemma exposes the real premises behind the policies of his day." loading="lazy">
+  <figcaption>In satire the flaw is the point: ask why the writer made the reasoning wrong.</figcaption>
+</figure>
 
 ## Worked example 1: diagnosing flaws in a paragraph
 
@@ -132,6 +152,11 @@ The flaw is the point. By making the reasoning visibly specious, Swift invites r
 
 **Check.** The answer names three flaws **and** explains why each fails. A bare list of names would earn little.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-5-flaws-line-of-reasoning-study-guide--05-diagnosing-three-flaws.webp" width="900" height="566" alt="The paragraph about the new head split into three parts, each paired with its flaw: concluding she caused the fall in attendance is false cause; “either we remove her or attendance will go on falling” is a false dilemma; dismissing Councillor Hale because he has never taught is ad hominem." loading="lazy">
+  <figcaption>Name each flaw and explain why it fails in this specific argument.</figcaption>
+</figure>
+
 ## Worked example 2: repairing a flawed argument
 
 **Task.** Rewrite the first two sentences of the paragraph in Worked example 1 so that the reasoning is sound.
@@ -147,6 +172,11 @@ The flaw is the point. By making the reasoning visibly specious, Swift invites r
 > Attendance has fallen since September, a change that coincides with the new head's arrival but also with a flu outbreak and a reduction in bus services. Before attributing the fall to any one cause, the governors should compare attendance on routes that kept their buses with those that did not, and check absence reasons against the dates of the outbreak.
 
 **Step 5: Check.** The revision still addresses the problem, avoids the leap from sequence to cause, offers a way to test competing explanations, and treats the head fairly. The tone is more credible, which helps the writer's ethos.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-5-flaws-line-of-reasoning-study-guide--06-rival-causes-test.webp" width="900" height="585" alt="The fall in attendance since September is linked to three coinciding possible causes: the new head’s arrival, a flu outbreak and fewer bus services. Two tests follow: compare routes that kept their buses with those that did not, and check absence reasons against the outbreak dates." loading="lazy">
+  <figcaption>Keep the evidence, name rival causes, and propose a way to test them.</figcaption>
+</figure>
 
 ## How the exam asks about flaws in reasoning
 

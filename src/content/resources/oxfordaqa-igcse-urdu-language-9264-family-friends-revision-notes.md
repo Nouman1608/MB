@@ -54,6 +54,11 @@ translation) and Paper 2 (Writing).
 | خیال رکھنا | to look after | میرا خیال رکھنا |
 | صلح کرنا | to make up | |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-family-friends--01-paternal-maternal-relatives.webp" width="900" height="730" alt="A family tree with Urdu terms. On the father’s side: دادا / دادی (grandparents) and چچا / پھوپھی (uncle and aunt). On the mother’s side: نانا / نانی and ماموں / خالہ. Parents are والد and والدہ; useful extras are والدین, رشتہ دار, مشترکہ خاندان and اکلوتا / اکلوتی." loading="lazy">
+  <figcaption>Urdu names relatives by side of the family, and translation tasks test it.</figcaption>
+</figure>
+
 ## Five rules to apply every time
 
 1. **Possessives agree with the possessed noun.** میرا بھائی, میری بہن, میرے دوست. The writer's
@@ -63,6 +68,16 @@ translation) and Paper 2 (Writing).
    بھائی, مہربان بہن.
 4. **Appearance uses possession.** اس کے بال کالے ہیں; اس کی آنکھیں بھوری ہیں.
 5. **ملنا takes سے and never نے.** میں کل اپنی خالہ سے ملی.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-family-friends--02-agreement-table.webp" width="900" height="640" alt="A table of agreement: the possessive changes with the noun (میرا بھائی, میری بہن, میرے والدین), a marked adjective changes (شرمیلا لڑکا, شرمیلی لڑکی, شرمیلے بچے), and an unmarked adjective stays the same (مہربان استاد, مہربان استانی). میرے دوست کی بہن follows the same rule." loading="lazy">
+  <figcaption>A boy and a girl both say میرا بھائی: agreement follows the noun.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-family-friends--03-respect-and-milna.webp" width="900" height="730" alt="Elders take the plural verb ہیں as a mark of respect: میرے دادا بہت مہربان ہیں, میری والدہ ڈاکٹر ہیں. To say you met someone, use سے and no نے: میں اپنے دوست سے ملا is correct, میں نے اپنے دوست کو ملا is wrong, and ہماری ملاقات اسکول میں ہوئی is an alternative." loading="lazy">
+  <figcaption>Plural of respect for elders; ملنا takes سے, never نے.</figcaption>
+</figure>
 
 ## Relationship phrases worth learning by heart
 
@@ -101,6 +116,11 @@ Notice the plural of respect in every verb about the grandfather (رہتے ہی�
 3. Is the person an elder who needs the plural of respect?
 4. Is the relative on the father's side or the mother's side?
 5. Is the verb transitive (needs نے in the past), or intransitive like ملنا, جانا and آنا?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-family-friends--04-translation-steps.webp" width="900" height="950" alt="Three steps translate a sentence about a kind older brother and a grandmother: put each verb last (مہربان ہے, جھگڑا ہو جاتا ہے, رہتی ہیں), check agreement and respect (میرا بڑا بھائی, رہتی ہیں for an elder), and translate the sense (ہمارا جھگڑا ہو جاتا ہے)." loading="lazy">
+  <figcaption>Verb last, agreement and respect checked, then the sense rather than each word.</figcaption>
+</figure>
 
 ## Exam traps
 

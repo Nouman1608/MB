@@ -1,0 +1,47 @@
+[
+ {
+  "file": "igcse-sociology-research-methods-identity-and-inequality--01-reliability-validity-trade-off.webp",
+  "width": 900,
+  "height": 560,
+  "after": "## Research methods in more depth",
+  "alt": "Quantitative methods such as questionnaires and structured interviews are strong on reliability but weaker on validity. Qualitative methods such as unstructured interviews and participant observation are strong on validity but weaker on reliability. Bars show which is strong and which is weaker.",
+  "caption": "Quantitative methods tend to win on reliability, qualitative methods on validity.",
+  "bytes": 92198
+ },
+ {
+  "file": "igcse-sociology-research-methods-identity-and-inequality--02-sampling-and-ethics-rules.webp",
+  "width": 900,
+  "height": 500,
+  "after": "## Research methods in more depth",
+  "alt": "Three rules: without a sampling frame a researcher is often forced into non-random sampling; a larger sample reduces sampling error but does not remove bias; covert observation breaches consent and is defended only where overt research would be impossible. Ethics require informed consent, confidentiality, protection from harm and a right to withdraw.",
+  "caption": "Size cannot fix a biased method, and covert research needs strong justification.",
+  "bytes": 92618
+ },
+ {
+  "file": "igcse-sociology-research-methods-identity-and-inequality--03-precise-identity-terms.webp",
+  "width": 900,
+  "height": 615,
+  "after": "## Identity and socialisation in more depth",
+  "alt": "Primary socialisation in the family in early childhood is followed by secondary socialisation through school, peers, media, religion and the workplace. Ascribed status is fixed at birth, such as sex; achieved status is earned, such as an occupation. Cross-cultural variation and feral children support nurture over nature.",
+  "caption": "Use exact terms: primary and secondary socialisation, ascribed and achieved status.",
+  "bytes": 105686
+ },
+ {
+  "file": "igcse-sociology-research-methods-identity-and-inequality--04-cycle-of-deprivation.webp",
+  "width": 900,
+  "height": 534,
+  "after": "## Inequality in more depth",
+  "alt": "A four-step cycle: poor housing and diet lead to poor health and educational underachievement, which lead to low-paid or insecure work, which reproduces poverty in the next generation, starting the cycle again.",
+  "caption": "Each disadvantage feeds the next, so poverty passes down the generations.",
+  "bytes": 54486
+ },
+ {
+  "file": "igcse-sociology-research-methods-identity-and-inequality--05-gender-and-ethnic-inequality.webp",
+  "width": 900,
+  "height": 692,
+  "after": "## Inequality in more depth",
+  "alt": "An illustrative organisation with women concentrated in lower levels and a glass ceiling below the senior roles, beside definitions of vertical and horizontal segregation and their causes: gender socialisation, the domestic and caring burden and workplace discrimination. Below, ethnic inequality is explained by discrimination and institutional racism, with a note that ethnicity and class interact.",
+  "caption": "The glass ceiling and segregation explain gender inequality; ethnic inequality interacts with class.",
+  "bytes": 130320
+ }
+]

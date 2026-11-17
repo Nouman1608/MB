@@ -1,0 +1,9 @@
+{ "page": "ib-myp-sciences-cycles-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-cycles--03-water-cycle.webp", "after": "## The four cycles at a glance" },
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-cycles--05-nitrogen-cycle.webp", "after": "## The four cycles at a glance" },
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-cycles--06-rock-cycle.webp", "after": "## The four cycles at a glance" },
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-cycles--02-forest-carbon-budget.webp", "after": "## Small worked reminders" },
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-cycles--04-water-budget.webp", "after": "## Small worked reminders" },
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-cycles--01-carbon-cycle.webp", "after": "## Reading a cycle diagram or data table" },
+ { "src": "https://img.marlbridge.com/ib-myp-sciences-cycles--07-eutrophication.webp", "after": "## Human impacts" }
+] }

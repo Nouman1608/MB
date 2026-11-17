@@ -58,6 +58,11 @@ Command words printed in the syllabus: **Analyse, Describe, Evaluate, Explain, I
 | Vested interest | A personal stake (often money or status) in what others believe |
 | Generalisation | A claim stretched from a few cases to all cases |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-globalisation--01-supply-chain-levels.webp" width="900" height="546" alt="Three linked cards show supply-chain disruption as a global question about risk, a national question about making essential goods at home, and a local shop that cannot restock. Below, glocalisation, popularised by Roland Robertson in the 1990s, describes global products adapted to local cultures, with a strength and a limitation." loading="lazy">
+  <figcaption>The same globalisation issue looks different from the world, a country and one shop.</figcaption>
+</figure>
+
 ## Examples at a glance
 
 Real examples you can research. You will not be asked to recall them; they help you practise evaluating evidence.
@@ -71,6 +76,11 @@ Real examples you can research. You will not be asked to recall them; they help 
 | Global minimum tax, 2021 | More than 130 countries agreed, through the OECD, to a 15% minimum tax rate for large multinationals | A course of action | Each country must pass its own law, so results vary |
 | KOF Globalisation Index | ETH Zurich index scoring economic, social and political globalisation | Measuring the topic | Results depend on the indicators chosen |
 | Friedman (2005) vs Stiglitz (2002) | Two books, broadly supportive and broadly critical | Experts disagree | Both are arguments, not neutral data |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-globalisation--03-causes-consequences.webp" width="900" height="894" alt="Three causes, container shipping from 1956, the World Trade Organization from 1995 and digital communication, lead to long supply chains across many countries. Two consequences follow: a worldwide computer chip shortage in 2020 and 2021 that cut car production, and the Ever Given blocking the Suez Canal for six days in March 2021." loading="lazy">
+  <figcaption>Cheaper shipping, trade rules and the internet linked the world, but long supply chains can be fragile.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -96,6 +106,11 @@ Real examples you can research. You will not be asked to recall them; they help 
 
 Remember: these are typical positions, not fixed rules. A low-income shopper may also be a factory worker. Show that you understand the reasoning behind each view before you judge it (AO2 asks you to consider perspectives "objectively and with empathy").
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-globalisation--02-globalisation-perspectives.webp" width="900" height="635" alt="Three columns of perspectives on globalisation: supportive (cheaper goods, new jobs, spread of ideas), middle ground (managed trade through fair trade and labour standards) and critical (job losses, wage pressure, transport emissions, cultural loss). Friedman’s The World Is Flat (2005) and Stiglitz’s Globalization and Its Discontents (2002) show informed experts disagree." loading="lazy">
+  <figcaption>Informed experts disagree about globalisation, so present each view fairly before judging.</figcaption>
+</figure>
+
 ## Quick checks for any globalisation source
 
 1. **Who wrote it, and what do they gain?** Look for a vested interest.
@@ -104,6 +119,11 @@ Remember: these are typical positions, not fixed rules. A low-income shopper may
 4. **How big and fair is the sample?** One town or one group cannot speak for a country.
 5. **Is the language loaded?** Words such as "flooding", "ruined" or "destroy" signal bias.
 6. **Does the conclusion go further than the evidence?** This is where most marks for evaluation come from.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-globalisation--04-pellmoor-shopkeepers.webp" width="900" height="671" alt="Fifty dots, 31 highlighted, show that 31 of 50 Pellmoor shopkeepers said a global supermarket forced a neighbour to close. The evidence has value as direct experience but is a small sample from one town, from people with a vested interest, reporting beliefs not checked closures; the general conclusion is an unsupported generalisation." loading="lazy">
+  <figcaption>A belief reported by a small, interested group cannot prove a general claim.</figcaption>
+</figure>
 
 ## Mini plan: a typical extended answer
 
@@ -116,6 +136,16 @@ Remember: these are typical positions, not fixed rules. A low-income shopper may
 5. **Qualify.** State one condition that would make your chosen action work better (for example, enforcement).
 
 Reflection is not credited in Component 1, so do not spend time on how your view changed. Save that for the Individual Report and the Reflective Paper.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-globalisation--05-tariff-effects.webp" width="900" height="598" alt="Tariffs on imports branch into three effects: some factory jobs protected in the short term as imports become dearer; consumers, including protected workers, paying higher prices; and other countries replying with tariffs that cost exporting jobs. The judgement: tariffs may move the problem unless temporary and linked to retraining." loading="lazy">
+  <figcaption>Follow an action to everyone it affects before judging it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-globalisation--06-globalisation-actions.webp" width="900" height="602" alt="A table of five actions with a benefit and drawback each: fair trade labelling, the 2021 OECD agreement on a 15% global minimum tax, tariffs, buy-local campaigns and spreading suppliers across countries. Below, four things to judge any action by: likely effect, who carries it out, cost and side effects." loading="lazy">
+  <figcaption>Every action on globalisation has someone who pays for it.</figcaption>
+</figure>
 
 ## Quick self-test
 

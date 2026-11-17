@@ -38,6 +38,11 @@ This guide covers **section 3.1.2 Perception**, the second of the four sections 
 
 **Sensation** is the detection of physical energy by the sense organs: light falling on the retina, sound waves reaching the ear. **Perception** is the brain's organisation and interpretation of that information so that it has meaning. The image on each retina is flat and upside down, yet we see a three-dimensional, upright world: perception adds what sensation alone does not contain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--01-sensation-perception.webp" width="900" height="539" alt="An upright tree in the world forms a flat, upside-down image on the retina, yet we see a three-dimensional, upright tree. Sensation is the detection of physical energy by the sense organs; perception is the brain organising and interpreting it." loading="lazy">
+  <figcaption>Sensation detects; perception interprets and adds what the retinal image lacks.</figcaption>
+</figure>
+
 ## Depth cues and constancy
 
 Depth cues let the brain judge distance from a flat retinal image.
@@ -53,6 +58,11 @@ Depth cues let the brain judge distance from a flat retinal image.
 
 **Size constancy** is our tendency to see an object as staying the same size even though its retinal image shrinks as it moves away. A friend walking away does not seem to shrink. Constancy is usually helpful, but it is also one reason illusions work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--02-depth-cues.webp" width="900" height="692" alt="Four monocular cues with small pictures: height in plane (a boat near the horizon looks further away), relative size (a smaller car seems further), occlusion (a person in front of a door hides part of it) and linear perspective (railway lines meeting in the distance). Two binocular cues: retinal disparity and convergence. A note explains size constancy." loading="lazy">
+  <figcaption>Four monocular and two binocular cues let a flat image show depth.</figcaption>
+</figure>
+
 ## Gibson's direct theory: the influence of nature
 
 Gibson argued that perception is **direct** and **bottom-up**: the light reaching the eye (the **optic array**) contains enough information to perceive the world accurately, with no need for inference from past experience. Because this ability is innate and has helped our species survive, the theory stresses **nature**.
@@ -60,6 +70,11 @@ Gibson argued that perception is **direct** and **bottom-up**: the light reachin
 **Motion parallax** is a key source of that information. When you move, objects near you seem to move past quickly and in the opposite direction, while distant objects move slowly and seem to travel with you. From a train window, the fence by the track flashes past while the hills hardly move, and the brain reads the difference in speed directly as distance.
 
 **Evaluation.** Gibson's theory explains why perception is usually fast and accurate in real, moving environments, such as when catching a ball or landing a plane. Its weakness is that it **cannot easily explain visual illusions**: if perception were direct, we should not be fooled. Supporters reply that most illusions are flat, still drawings, which give much less information than the real world.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--03-motion-parallax.webp" width="900" height="765" alt="A view from a train window. Fence posts close to the track flash past quickly in the opposite direction, shown by a thick arrow, while distant hills move slowly and seem to travel with you. Gibson argued the brain reads this difference in speed directly as distance. Strength and weakness cards follow." loading="lazy">
+  <figcaption>Near objects race past, distant ones creep: the speed difference is direct information about distance.</figcaption>
+</figure>
 
 ## Visual illusions explained
 
@@ -72,11 +87,26 @@ Gibson argued that perception is **direct** and **bottom-up**: the light reachin
 | Müller-Lyer | Two equal lines; the one with outward fins looks longer | **Misinterpreted depth cues and size constancy**: Gregory suggested the fins resemble the corners of rooms and buildings, so one line is read as further away |
 | Ames Room | People in the two back corners look very different in size | **Misinterpreted depth cues**: the room is distorted, but we assume it is rectangular, so one corner is wrongly seen as being as near as the other |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--04-illusion-explanations.webp" width="900" height="679" alt="Three line drawings: Rubin's vase, which can be seen as a vase or two faces; the Necker cube, which flips orientation; and the Kanizsa triangle, whose edges the brain fills in. A table groups illusions by explanation: ambiguity, fiction, misinterpreted depth cues with size constancy (Ponzo, Müller-Lyer) and misinterpreted depth cues (Ames Room)." loading="lazy">
+  <figcaption>Illusions come from ambiguity, fiction, or depth cues and size constancy applied where they do not fit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--04-c-illusions.webp" width="900" height="1010" alt="Two classic illusions with their equal parts shown. In the Ponzo figure two horizontal bars lie between converging lines; both bars are the same length but the upper one looks longer. In the Müller-Lyer figure two shafts are the same length but the one with outward fins looks longer than the one with inward fins. The brain misapplies depth cues." loading="lazy">
+  <figcaption>In both figures the highlighted lines are exactly equal: sensation is the same, perception differs.</figcaption>
+</figure>
+
 ## Gregory's constructivist theory: the influence of nurture
 
 Gregory argued that perception is **indirect** and **top-down**. The sensory information reaching the eye is often incomplete or ambiguous, so the brain constructs a "best guess", using **past experience and knowledge** to make inferences. Because these inferences are learned, the theory stresses **nurture**.
 
 **Evaluation.** The theory explains illusions well: the brain applies rules learned from a three-dimensional world, such as size constancy, to flat drawings where they do not fit. It also explains **perceptual set**, since expectation is a form of top-down influence. However, if perception depended on guesses, it would be **less reliable** than it is, and the theory struggles to explain how perception is so fast and accurate in everyday life. Much of its evidence comes from artificial, still images.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--03-c-perception-theories.webp" width="900" height="980" alt="Two columns. Gibson's direct theory is bottom-up: the visual array (motion parallax, texture gradient, optic flow) leads straight to perception with no inference. Gregory's constructivist theory is top-down: sensory data is interpreted by the brain using prior knowledge and expectation before perception." loading="lazy">
+  <figcaption>Gibson: bottom-up, enough information in the visual array. Gregory: top-down, the brain makes inferences.</figcaption>
+</figure>
 
 ## Factors affecting perception
 
@@ -86,6 +116,11 @@ Gregory argued that perception is **indirect** and **top-down**. The sensory inf
 - **Motivation.** In **Gilchrist and Nesberg's study**, participants who had gone without food for longer judged pictures of food to be brighter than participants who had eaten. Hunger made food stand out. The setting was artificial and judging brightness is not an everyday task, so ecological validity is low.
 - **Emotion.** How we feel can make us more or less likely to notice something; for example, an anxious person may be quicker to notice possible threats.
 - **Culture.** Experience in a particular environment affects how drawings and depth cues are interpreted. Cross-cultural research has suggested that people who grow up surrounded by straight-edged buildings (a "carpentered" environment) may be more strongly affected by the Müller-Lyer illusion, which supports Gregory's emphasis on nurture.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--05-perceptual-set.webp" width="900" height="674" alt="Bruner and Minturn: an ambiguous figure shown between A and C was reported as B, and between 12 and 14 as 13. Cards cover motivation (hungry participants judged food pictures brighter), emotion, culture and the Müller-Lyer illusion, and an evaluation that both studies were artificial." loading="lazy">
+  <figcaption>Expectation, motivation, emotion and culture create a readiness to perceive in a particular way.</figcaption>
+</figure>
 
 ## Worked example 1: explaining an illusion
 

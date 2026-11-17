@@ -47,6 +47,11 @@ real courses only where you are sure of them, and describe the route in plain wo
 [Jobs, career choices and ambitions](/resources/oxfordaqa-igcse-urdu-language-9264-jobs-career-choices/);
 this topic is about study.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-education-post-16--01-post-16-routes.webp" width="900" height="770" alt="After the current exams a student can stay on at school, go to college (کالج) or take vocational training (پیشہ ورانہ تربیت), and later go to university (یونیورسٹی / جامعہ, اعلیٰ تعلیم). Practical words include داخلہ, درخواست دینا, فیس, وظیفہ, بیرونِ ملک and ہاسٹل." loading="lazy">
+  <figcaption>Name the route, then the practicalities; careers belong to Topic 4.</figcaption>
+</figure>
+
 ## Where this fits in 9264
 
 Education post-16 has no separate paper. It can be tested in Paper 1 (Reading, Grammar and
@@ -105,6 +110,11 @@ The future ends in گا for a male speaker and گی for a female one:
 میرے والدین چاہتے ہیں کہ میں اسی اسکول میں رہوں۔ (My parents want me to stay at the same school.)
 Again, the verb after کہ is subjunctive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-education-post-16--02-five-structures.webp" width="900" height="870" alt="Five Urdu structures with examples and glosses: the future (جاؤں گا), intention with ارادہ ہے کہ and the subjunctive, a condition with اگر ... تو, weighing options with ایک طرف ... دوسری طرف, and reporting what parents want." loading="lazy">
+  <figcaption>Future, intention, condition, balance and others’ wishes carry this topic.</figcaption>
+</figure>
+
 ## Worked example 1: writing about your plans
 
 Task (original): *Write about your plans after your exams. Say what you intend to study and where,
@@ -135,6 +145,11 @@ balanced judgement        ایک طرف ...، دوسری طرف ...
 The paragraph does more than state a plan: it compares two routes and weighs cost against
 opportunity, which is what makes a post-16 answer persuasive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-education-post-16--03-model-paragraph-anatomy.webp" width="900" height="690" alt="Five moves in the model answer, each with its Urdu: an intention with the subjunctive, a condition with اگر ... تو, another option in the past tense, a preference, and a balanced judgement with ایک طرف ... دوسری طرف." loading="lazy">
+  <figcaption>A persuasive post-16 answer compares routes, not just states a plan.</figcaption>
+</figure>
+
 ## Worked example 2: translating into Urdu
 
 Task (original): *Translate into Urdu: "After my exams I will go to college. I would like to study at
@@ -150,6 +165,11 @@ Decisions to make:
    like".
 3. "Living there is expensive" reads naturally as "the expenses of living there are very high"
    (وہاں رہنے کے اخراجات بہت زیادہ ہیں). Translating the sense keeps the Urdu natural.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-education-post-16--04-translation-decisions.webp" width="900" height="750" alt="An English sentence about going to college and studying abroad is translated in three decisions: &quot;will go&quot; becomes جاؤں گا or جاؤں گی, &quot;would like to&quot; becomes چاہتا ہوں, and &quot;living there is expensive&quot; becomes وہاں رہنے کے اخراجات بہت زیادہ ہیں." loading="lazy">
+  <figcaption>Check the future ending, use چاہنا for &quot;would like&quot;, and translate the sense.</figcaption>
+</figure>
 
 ## Worked example 3: a short reading question
 
@@ -168,6 +188,11 @@ How to get there:
    connectives, two points.
 3. An answer of "he wanted to go to university" is accurate about the text but answers a different
    question, so it scores nothing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-education-post-16--05-wish-versus-outcome.webp" width="900" height="636" alt="A reading text says the brother wanted (چاہتا تھا) university but chose vocational training. The cause, after کی وجہ سے, is his father’s illness [1]; the purpose, after تاکہ, is to start earning sooner [1]. The wish itself scores nothing." loading="lazy">
+  <figcaption>Follow the connectives: کی وجہ سے gives the cause, تاکہ the purpose.</figcaption>
+</figure>
 
 ## Common mistakes
 

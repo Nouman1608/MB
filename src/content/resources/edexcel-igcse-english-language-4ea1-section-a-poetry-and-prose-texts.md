@@ -46,6 +46,11 @@ achieve their effects.
 AO2 is worth 18 of the 30 marks, so analysis of the writer's methods should drive every paragraph. AO1
 is shown through the ideas you select and the interpretation you build, not through retelling.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts--01-section-a-in-component-2.webp" width="900" height="510" alt="Component 2 lasts 1 hour 30 minutes for 60 marks. Section A takes about 45 minutes for one 30-mark essay, split 12 marks for AO1 and 18 for AO2, on one poem or prose text from Anthology Part 2 that is printed in the exam. Section B is the other 45 minutes and 30 marks." loading="lazy">
+  <figcaption>Section A is half of Component 2, and AO2 is most of Section A.</figcaption>
+</figure>
+
 ## The ten Part 2 texts
 
 | Poetry | Prose |
@@ -72,6 +77,11 @@ Build one revision card per text with five headings:
 Because the text is printed in the exam, you do not need to memorise long quotations. You do need to
 know where the key moments are, so you can find them quickly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts--02-revision-card.webp" width="900" height="667" alt="A revision card with five headings: situation in two sentences; viewpoint and voice; structure (opening, turn, ending, time); three key methods with short references; and ideas and perspectives with one alternative reading." loading="lazy">
+  <figcaption>Five headings per text, and know where the key moments are.</figcaption>
+</figure>
+
 ## Reading a poem for AO2
 
 - **Form and stanza shape:** regular stanzas suggest control; irregular ones can mirror disorder.
@@ -81,6 +91,11 @@ know where the key moments are, so you can find them quickly.
 - **Repetition and refrain:** emphasis, insistence or defiance.
 - **Rhyme and rhythm:** a regular beat can sound confident; broken rhythm can sound hesitant.
 - **Voice and address:** who speaks, and to whom; how the tone changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts--03-poem-prose-toolkits.webp" width="900" height="686" alt="Two columns of AO2 features. For a poem: form and stanza shape, line breaks and enjambment, caesura, repetition and refrain, rhyme and rhythm, and voice and address. For prose: narrative viewpoint, pacing, structure, dialogue, and setting and symbolism, each with its typical effect." loading="lazy">
+  <figcaption>Poems and prose share methods, but each has its own toolkit.</figcaption>
+</figure>
 
 ## Reading a prose text for AO2
 
@@ -120,6 +135,11 @@ Para 5:   The final revelation - structure reframes everything that came before
 What earns credit: an interpretation (AO1), structural analysis of pacing and placement, and a comment
 on narrative style (AO2), all linked to the focus of the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts--04-necklace-plan.webp" width="900" height="774" alt="A five-paragraph plan that follows the story: the opening contrast between Mathilde’s dreams and her home, the ball, the loss and her secret, ten years compressed into plain summary straight after the proud choice, and the final revelation that reframes the story." loading="lazy">
+  <figcaption>Plan in story order so the essay tracks the structure to the ending.</figcaption>
+</figure>
+
 ## Worked example: a poetry paragraph
 
 Question (original): *Explore how Owen presents loss in "Disabled".*
@@ -131,6 +151,11 @@ Question (original): *Explore how Owen presents loss in "Disabled".*
 > repeated question "Why don't they come?", which ends on helplessness rather than resolution: the reader
 > is left with the man's dependence on others, the final form of what the war has taken.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts--05-disabled-now-and-then.webp" width="900" height="599" alt="The poem moves between a dark present, where the man sits alone in a wheelchair waiting for dark, and a remembered past full of light, crowds and admiration. Each return to the present feels like a fresh loss, and the poem ends on the repeated question “Why don’t they come?”." loading="lazy">
+  <figcaption>Owen shows loss through the movement between now and then.</figcaption>
+</figure>
+
 ## Building the essay
 
 - **Introduction:** two or three sentences giving your thesis on the focus. No biography, no
@@ -141,6 +166,11 @@ Question (original): *Explore how Owen presents loss in "Disabled".*
   link back to the question.
 - **Conclusion:** a sentence or two on what the text suggests overall, perhaps with an alternative
   reading.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts--06-building-the-essay.webp" width="900" height="738" alt="An essay of an introduction with a thesis, three or four body paragraphs moving through the opening, a turning point and the ending, and a short conclusion. Every body paragraph runs: point on the focus, short reference, method, effect on the reader, link to the question." loading="lazy">
+  <figcaption>Track the text from opening to ending, one method or moment per paragraph.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -57,6 +57,11 @@ Use your own working definitions, and say where they come from.
 
 The WHO definition is itself a **perspective**. Critics argue that "complete" well-being sets a bar almost nobody reaches. Supporters reply that it reminds governments that mental and social health matter too. Showing that even a definition can be debated is good evaluation practice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-health-and-wellbeing--01-who-definition-debate.webp" width="900" height="508" alt="The WHO Constitution defines health as complete physical, mental and social well-being, not merely the absence of disease. Critics say complete well-being is a bar almost nobody reaches; supporters say it reminds governments that mental and social health matter. Below, working definitions of wellbeing, public health and health inequality." loading="lazy">
+  <figcaption>Showing that a definition can be debated is itself good evaluation.</figcaption>
+</figure>
+
 ## Finding issues at global, national and local level
 
 The syllabus defines an **issue** as "an important subject or problem for discussion". A topic is broad. An issue is a specific problem inside it that people disagree about.
@@ -70,6 +75,11 @@ The syllabus defines an **issue** as "an important subject or problem for discus
 A strong answer shows how the levels link. A national tax on sugary drinks (national) is a response to a pattern seen in many countries (global), and it changes what is sold in your school canteen (local).
 
 The United Nations Sustainable Development Goals, agreed in 2015, include Goal 3: "Ensure healthy lives and promote well-being for all at all ages". You can use this to show that an issue is recognised at global level. Remember that a goal is a **value** statement about what should happen, not evidence about what is happening.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-health-and-wellbeing--02-sugary-drinks-levels.webp" width="900" height="644" alt="Three nested boxes: globally, a pattern seen in many countries; inside it, a national tax on sugary drinks; inside that, a local change in what the school canteen sells. A note adds that SDG 3 is a value statement about what should happen, not evidence of what is happening." loading="lazy">
+  <figcaption>A national response to a global pattern changes something local.</figcaption>
+</figure>
 
 ## Perspectives: who thinks what, and why
 
@@ -90,6 +100,11 @@ Health issues usually involve these groups:
 
 The paragraph names two groups, explains the reasoning behind each, and identifies the **values** underneath. That is the move examiners reward, rather than "some people agree and some disagree".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-health-and-wellbeing--03-marrow-clinics.webp" width="900" height="684" alt="A schematic map of the fictional region of Marrow: three village clinics are crossed out and dashed lines show longer journeys to one new large hospital in the main town. The health authority values quality and efficiency; older village residents, many of whom do not drive, value access and closeness." loading="lazy">
+  <figcaption>Behind two reasoned perspectives lie two different values.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 AO1 asks you to research issues, "their causes and consequences". Health issues rarely have a single cause. Separate them into types:
@@ -108,6 +123,11 @@ AO1 asks you to research issues, "their causes and consequences". Health issues 
 | Few new antibiotics are being developed | Doctors have fewer options; hospital stays become longer and more costly |
 
 Notice that one cause is personal (patient behaviour), one is economic (farming practice) and one is global (research and investment). When you explain a consequence, say **who** is affected and **how**. "It is bad for health" earns little. "Routine operations become riskier because infections after surgery are harder to treat" earns more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-health-and-wellbeing--04-antimicrobial-resistance.webp" width="900" height="729" alt="Four types of cause: individual, social and economic, environmental, and political. Below, three cause-consequence pairs for antimicrobial resistance: misuse of antibiotics in people makes infections harder to treat; use in farm animals spreads resistant bacteria; few new antibiotics leaves doctors fewer options and makes hospital stays longer and costlier." loading="lazy">
+  <figcaption>Name who is affected and how, not just that something is bad for health.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -128,6 +148,11 @@ Questions to ask of any health source:
 
 The paragraph identifies the source, names three specific weaknesses, explains why each matters, and ends with a judgement on how far the evidence supports the claim.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-health-and-wellbeing--05-calmleaf-advert.webp" width="900" height="757" alt="A fictional advert claims 9 out of 10 CalmLeaf users felt less stressed after two weeks. Three weaknesses: the seller has a vested interest, no sample size is given, and results are self-reported with no comparison group. Three explanations compete: the drops worked, people expected to feel better, or the weeks were calmer." loading="lazy">
+  <figcaption>Without a comparison group, you cannot tell whether the product caused the change.</figcaption>
+</figure>
+
 ## Courses of action and their effects
 
 AO1 includes researching "possible course(s) of action". The Written Exam's final question asks candidates to "assess actions in response to the global issue". In the Individual Report you must propose a single course of action and explain how it could be put into practice and what its impact would be.
@@ -143,6 +168,11 @@ Real examples you can use to practise:
 **Worked evaluation paragraph.**
 
 > A tax on sugary drinks is likely to be effective in reducing sugar intake because it targets one clear source of sugar and gives manufacturers a reason to change recipes, as happened when many cut sugar before the UK levy began. However, it treats only one cause; people may switch to sweets or other high-sugar foods. It also raises fairness concerns because poorer families spend more of their income on food. On balance, a tax works best as one part of a wider plan, for example if the money raised funds free water and sport in schools.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-health-and-wellbeing--06-sugar-tax-evaluation.webp" width="900" height="752" alt="Examples of sugary drinks taxes: Mexico’s one peso per litre from 2014 and the UK levy from April 2018, before which many manufacturers cut sugar. A balance weighs effectiveness (targets a clear source, changes recipes) against limits (people may switch to sweets; poorer families pay a larger share). On balance, it works best within a wider plan." loading="lazy">
+  <figcaption>A tax can work and still need other measures to be fair and complete.</figcaption>
+</figure>
 
 ## Ideas for the Individual Report
 
@@ -167,6 +197,11 @@ The Team Project needs a **local** issue and an action your team can carry out a
 | Older neighbours feel isolated | Weekly student visit or phone call scheme | Number of contacts; simple wellbeing scale |
 
 Keep sensitive topics at the level of awareness and signposting to trusted adults and services. Each team member should research a different aspect, such as a different perspective, as section 4 describes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-health-and-wellbeing--07-health-team-projects.webp" width="900" height="590" alt="Four rows link a local health issue to an action and a measure: sugary drinks with a campaign and bottle stations; girls’ sport with a six-week club; poor sleep with an assembly and leaflet; isolated older neighbours with a visit or phone scheme. Sensitive topics stay at awareness and signposting." loading="lazy">
+  <figcaption>Plan how you will measure success at the same time as the action.</figcaption>
+</figure>
 
 ## Common errors
 

@@ -43,6 +43,11 @@ A reaction occurs only when particles collide **with sufficient energy** (the ac
 
 Rate increases if collisions become **more frequent**, **more energetic**, or both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--01-collision-theory.webp" width="900" height="910" alt="Two particles that collide slowly bounce apart, while fast ones with at least the activation energy react." loading="lazy">
+  <figcaption>Slow collisions bounce apart; collisions with at least E_a produce a new substance.</figcaption>
+</figure>
+
 ## The four factors — and the correct explanation for each
 
 | Factor | Effect on rate | Because |
@@ -57,12 +62,22 @@ The "Effect on rate" column is 0620 Core; the "Because" column (collision theory
 
 *(0620 Extended, 5070 required)* Only temperature changes the **energy** of collisions. The others change frequency only — a distinction examiners test directly. At Extended/O Level standard, a temperature rise's dominant effect is the **greater proportion of collisions exceeding Eₐ**, not just the extra frequency — this is why a modest temperature rise speeds a reaction up far more than frequency alone would suggest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--02-rate-factors.webp" width="900" height="1154" alt="Before/after boxes show more particles per volume, a gas squeezed by a piston, a cube crushed into eight (area doubles), and more particles with enough energy at higher temperature." loading="lazy">
+  <figcaption>Each factor increases collision frequency or the share of collisions with enough energy.</figcaption>
+</figure>
+
 ## Catalysts
 
 - Not used up; chemically unchanged at the end.
 - *(0620 Extended, 5070 required)* Lower Eₐ.
 - Do **not** change the position of equilibrium or the yield — only how fast it is reached *(0620 Extended, 5070 required)*.
 - Enzymes are biological catalysts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
 
 ## Measuring rate
 
@@ -75,11 +90,26 @@ Methods: gas volume collected (syringe), mass loss (balance), or time for a cros
 
 On a graph, the **steeper** the curve the faster the rate. The curve **levels off** when a reactant is used up; a larger final volume means more product, not a faster rate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--03-rate-graph.webp" width="900" height="1020" alt="A flask connects to a gas syringe. A graph of gas volume against time shows a steep curve for a fast reaction and a shallow one for a slow reaction, both levelling at 60 cm3." loading="lazy">
+  <figcaption>Steeper gradient means faster rate; the line flattens when the reaction has finished.</figcaption>
+</figure>
+
 ## Reversible reactions and equilibrium
 
 0620 Core: some reactions are reversible (⇌), and changing conditions can reverse a reaction (heating hydrated copper(II) sulfate or cobalt(II) chloride; adding water to the anhydrous salt). The rest of this section is *(0620 Extended, 5070 required)* (0620 6.3 Supplement 3-4).
 
 **Dynamic equilibrium** — forward and reverse rates are **equal**, concentrations remain constant, in a **closed** system. Both reactions continue; nothing stops.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--05-hydrated-anhydrous.webp" width="900" height="970" alt="Copper(II) sulfate: blue hydrated crystals turn white when heated and blue again on adding water. Cobalt(II) chloride: pink hydrated turns blue when heated and pink again with water." loading="lazy">
+  <figcaption>Heating hydrated crystals drives off water; adding water reverses the change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
+</figure>
 
 ## Le Chatelier's principle
 

@@ -65,6 +65,16 @@ The syllabus defines an **issue** as "an important subject or problem for discus
 
 **Worked paragraph (analysing the level of an issue).** *"The source shows road safety is a local issue in the fictional town of Benmoor, where parents want a crossing. It is also global: the WHO reports road crashes are the leading cause of death for people aged 5 to 29. So a crossing helps Benmoor's pupils, but the wider problem also needs national action, such as speed limits."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-transport-travel-and-tourism--01-carrying-capacity.webp" width="900" height="598" alt="A schematic graph: harm to residents and the place rises slowly with visitor numbers, then sharply past the carrying capacity line, where overtourism begins. Below, definitions of sustainable tourism, short-term rental and modal shift." loading="lazy">
+  <figcaption>Past a place’s carrying capacity, each extra visitor does more harm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-transport-travel-and-tourism--02-road-safety-levels.webp" width="900" height="655" alt="Rings for road safety: locally, parents in the fictional town of Benmoor want a crossing; nationally, speed limits and motorbike rules; globally, the WHO 2023 estimate of about 1.19 million road deaths a year, down 5% since 2010, the leading cause of death for ages 5 to 29, mostly in low- and middle-income countries. The WHO data is credible but an estimate." loading="lazy">
+  <figcaption>A crossing helps one school; the wider problem needs national action too.</figcaption>
+</figure>
+
 ## Perspectives: who sees transport and tourism differently, and why
 
 The syllabus defines a **perspective** as "a viewpoint on an issue based on evidence and reasoning". The Individual Report asks you to show that you understand *why* different people hold different perspectives.
@@ -84,6 +94,11 @@ The syllabus defines a **perspective** as "a viewpoint on an issue based on evid
 
 **Worked paragraph (explaining why perspectives differ).** *"The hotel owner in the source wants more flights to the island, while the fisher wants fewer boats in the bay. They differ because the hotel owner's income rises with every visitor, while the fisher bears the cost of crowded water and damaged reefs. Both views are reasonable from their own position, so an action that shares tourism income with fishing families may gain more support than either a ban or unlimited growth."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-transport-travel-and-tourism--03-stockholm-charge.webp" width="900" height="696" alt="Timeline: Stockholm trialled a congestion charge from January to July 2006, held referendums in September 2006 and made the charge permanent in August 2007. City voters said 53% yes; surrounding areas about 40% yes. City residents gained quieter streets; many outside drove in and would pay. Traffic fell about 20 to 25%, and a 2012 study found the fall lasted." loading="lazy">
+  <figcaption>Where people live shaped how they voted on the same charge.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 The Individual Report must analyse "the reasons for conflict or disagreement/causes of problems and the consequences/impacts of the issue". A cause-consequence chain helps you to show links rather than list points.
@@ -102,6 +117,16 @@ Example chain for overtourism in a historic town:
 **Analysis.** This case separates two problems often merged: crowding (short-term) and residents leaving because of housing costs (long-term). The protesters argued that the fee tackled the first but not the second.
 
 **Worked paragraph.** *"On the fictional Kerrow Island, summer-weekend cars on the causeway fell from 5,400 to 4,050 (25%) after a shuttle bus started. This suggests some modal shift. However, the source does not say whether weather or visitor numbers were similar in both years, so other causes cannot be ruled out."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-transport-travel-and-tourism--04-overtourism-chain.webp" width="900" height="534" alt="Two causes, cheaper flights and cruise calls and social media fame for a few spots, lead to consequences at four levels: a resident struggling through crowds, homes becoming holiday lets as rents rise and families leave, higher tax income but higher costs nationally, and more emissions globally." loading="lazy">
+  <figcaption>One crowded street links to housing, public budgets and global emissions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-transport-travel-and-tourism--05-venice-fee.webp" width="900" height="567" alt="Venice charged day-trippers 5 euros on 29 days from 25 April 2024, and in 2025 on 54 days at 5 or 10 euros depending on booking time. The fee targets short-term crowding and gathers data, but protesters argued it does not tackle the long-term problem of residents leaving over housing costs." loading="lazy">
+  <figcaption>An action can fix a short-term problem and miss a long-term one.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -126,6 +151,11 @@ For Component 1, the syllabus says you will benefit from understanding **bias, c
 
 **Worked paragraph (Component 1 style).** *"The fictional Kerrow Hoteliers' Association says 'most visitors oppose the shuttle bus'. This is weak evidence. Only 45 of its 300 members replied (15%), and they reported what guests said rather than asking visitors directly. The association also has a vested interest, as hotels with car parks may lose an advantage. To test the claim, I would survey a random sample of visitors at the ferry port on several days, asking the same neutral question."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-transport-travel-and-tourism--06-kerrow-shuttle.webp" width="900" height="882" alt="For the fictional Kerrow Island, summer-weekend cars on the causeway fell from 5,400 to 4,050 (25%) after a shuttle bus started, suggesting modal shift unless weather or visitor numbers differed. A hoteliers’ association claims most visitors oppose the shuttle, but only 15% of members replied, they reported guests’ views second-hand, and they have a vested interest. A random visitor survey would test it." loading="lazy">
+  <figcaption>Measured counts and second-hand opinions need different checks.</figcaption>
+</figure>
+
 ## Courses of action and their effects
 
 The Written Exam asks you to "assess actions in response to the global issue". The Individual Report must consider different courses of action and propose one, explaining how it could be implemented. Judge each action against clear criteria:
@@ -148,6 +178,11 @@ The Written Exam asks you to "assess actions in response to the global issue". T
 **Real example: changing an action after evidence.** Bhutan charges most international visitors a daily Sustainable Development Fee. When it reopened to tourists in September 2022 the fee rose from 65 to 200 US dollars a night. From 1 September 2023 it was cut to 100 dollars for four years. An official said visitor numbers had not recovered as hoped after the rise. An action can be adjusted once its effects are clear, so when you assess actions, say how success will be measured.
 
 **Worked paragraph.** *"The park-and-ride is the most effective action because it tackles a cause in the sources, that most day visitors arrive by car. A fee alone may cut crowds on busy days, but visitors with no other way to arrive may simply pay. The park-and-ride's weakness is cost, so funding it from a small fee could combine both strengths."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-transport-travel-and-tourism--07-flight-ban-and-bhutan.webp" width="900" height="692" alt="France banned some domestic flights from May 2023 where a train takes under two and a half hours, in practice three routes from Paris-Orly; the government called it climate policy while an airline group called it symbolic. Bhutan’s daily visitor fee rose from 65 to 200 US dollars in September 2022, then was cut to 100 dollars from September 2023 when visitor numbers did not recover." loading="lazy">
+  <figcaption>Say how success will be measured, because actions can be adjusted once effects are clear.</figcaption>
+</figure>
 
 ## Individual Report ideas
 

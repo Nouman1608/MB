@@ -1,0 +1,25 @@
+{
+ "page": "as-chem-redox-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/as-redox-processes--15-redox-oxidation-number-rules.webp",
+   "after": "## Oxidation number rules — in priority order"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-redox-processes--16-redox-mno4-oxidation-number.webp",
+   "after": "## Oxidation number rules — in priority order"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-redox-processes--17-redox-oxidation-reduction.webp",
+   "after": "## Definitions"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-redox-processes--19-redox-balancing.webp",
+   "after": "## Balancing by oxidation-number change (alternative method)"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-redox-processes--18-redox-disproportionation.webp",
+   "after": "## Disproportionation"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{ "page": "igcse-islamiyat-muslim-life-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--02-pillars-conditions-significance.webp", "after": "## The Five Pillars" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--05-daily-prayers.webp", "after": "## Salah" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--06-rakah-pattern.webp", "after": "## Salah" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--07-zakat-significance.webp", "after": "## Zakat and Sawm" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--02-the-fasting-day.webp", "after": "## Zakat and Sawm" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--03-hajj-rites.webp", "after": "## Hajj" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--04-tawhid-consequences.webp", "after": "## Articles of faith" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--06-the-two-eids.webp", "after": "## Festivals" }
+] }

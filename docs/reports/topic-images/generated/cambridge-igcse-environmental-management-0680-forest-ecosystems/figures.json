@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-igcse-environmental-management-0680-forest-ecosystems--01-causes-map.webp",
+  "width": 900,
+  "height": 754,
+  "after": "## Causes of deforestation (5.2.1)",
+  "alt": "Schematic map of a forest. A road brings a settlement and a fishbone of farm clearings; a logging track, a commercial plantation, a small subsistence plot, a mine with waste tips and a reservoir behind an HEP dam each remove forest. A note adds climate change through drought and wildfire.",
+  "caption": "Causes link up: a road opens the forest to logging, farming and settlement.",
+  "bytes": 102442
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-forest-ecosystems--02-impact-chains.webp",
+  "width": 900,
+  "height": 630,
+  "after": "## Impacts of deforestation (5.2.2)",
+  "alt": "Four chains from deforestation. Habitat loss leads to loss of biodiversity and genetic depletion. Less interception and bare soil lead to soil erosion and desertification, then silting and flooding. Less transpiration means less water vapour recycled and changes to rainfall. Burning or rotting trees release carbon dioxide, causing global warming.",
+  "caption": "Explain each impact as a chain, not as a single word.",
+  "bytes": 78568
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-forest-ecosystems--03-sustainable-management.webp",
+  "width": 900,
+  "height": 670,
+  "after": "## Defining sustainable management (5.2.3)",
+  "alt": "Three circles, environment, wildlife and humans, joined in a triangle labelled balance, with an arrow towards future generations. Below is the syllabus definition of sustainable management of forests.",
+  "caption": "All three groups, plus future generations: leave one out and the definition fails.",
+  "bytes": 78946
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-forest-ecosystems--04-forest-water-cycle.webp",
+  "width": 900,
+  "height": 706,
+  "after": "## Why forests need sustainable management (5.2.4)",
+  "alt": "Two slopes side by side. In the forest, leaves intercept rain, roots take up water, trees transpire and water soaks into the soil, so there is little run-off. On cleared land with only stumps, rain hits bare soil and much more runs off quickly to rivers, washing topsoil away.",
+  "caption": "Interception, uptake, transpiration and less run-off: the forest services that clearance removes.",
+  "bytes": 85996
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-forest-ecosystems--05-rate-of-loss.webp",
+  "width": 900,
+  "height": 625,
+  "after": "## Worked example 1: rate of forest loss",
+  "alt": "Graph of forest area: 5,400 km² at the first survey and 4,860 km² six years later, a loss of 540 km² or 10%, at 90 km² a year. A dashed line extends the trend to zero after 54 more years, marked as an assumption.",
+  "caption": "Loss, percentage and rate: then state the assumption behind any projection.",
+  "bytes": 62394
+ }
+]

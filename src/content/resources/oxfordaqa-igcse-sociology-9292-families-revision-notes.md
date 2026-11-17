@@ -35,6 +35,11 @@ Condensed for the final weeks. For the full explanation, use the [families study
 - **Patriarchal** (male authority) v **matriarchal** (female authority).
 - **Marriage**: arranged, love, monogamy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-families--01-family-types.webp" width="900" height="581" alt="Five family diagrams. Nuclear: parents and children. Vertically extended: three generations stacked. Horizontally extended: two brothers and their wives side by side. Single parent: one parent and children. Reconstituted: a couple with a child from a previous relationship. Below, alternatives such as communes, living alone, foster care and children’s homes." loading="lazy">
+  <figcaption>Vertical extension adds generations; horizontal extension adds relatives of the same generation.</figcaption>
+</figure>
+
 ## Perspectives (3.1.1.2)
 
 | Perspective | Sociologist | Key idea | Criticism |
@@ -42,6 +47,11 @@ Condensed for the final weeks. For the full explanation, use the [families study
 | Functionalism | Parsons | Primary socialisation and stabilisation of adult personalities; nuclear family fits industrial society | Laslett: pre-industrial households were mostly nuclear; ignores abuse |
 | Marxism | Engels | Monogamy arose to pass on private property; families as agents of social control | Ignores benefits; overlooks variety |
 | Feminisms | Oakley | Families shape gender inequality; women do most housework | May understate change |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-families--02-family-perspectives.webp" width="900" height="566" alt="A table comparing three perspectives. Parsons: primary socialisation and stabilising adult personalities, with the nuclear family fitting industrial society; criticised by Laslett. Engels: monogamy arose with private property and families act as agents of social control. Oakley: women did most housework. Each column ends with a criticism." loading="lazy">
+  <figcaption>Each perspective has a named sociologist, a key argument and a criticism.</figcaption>
+</figure>
 
 ## Social change (3.1.1.3)
 
@@ -54,6 +64,16 @@ Condensed for the final weeks. For the full explanation, use the [families study
 - **Stacey**: postmodern, negotiated, divorce-extended families. **Smart**: personal life, chosen relationships.
 - **Policy**: China's one-child policy (1980), two-child (2016), three-child (2021).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-families--03-demographic-change.webp" width="900" height="675" alt="Four cause-and-effect rows. Contraception, women’s education and work, and the cost of children lead to falling birth rates. Better nutrition, water, sanitation, vaccination and healthcare lead to falling death rates. Longer lives and fewer births lead to ageing populations such as Japan’s. Moving for work leads to internal and international migration." loading="lazy">
+  <figcaption>Each demographic change has causes you must be able to explain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-families--04-china-family-policy.webp" width="900" height="500" alt="A timeline of China’s population policy: a one-child policy from 1980, replaced by a two-child policy in 2016 and a three-child policy in 2021. The one-child policy reduced family size and contributed to an ageing population. Divorce laws, welfare benefits and childcare also shape families." loading="lazy">
+  <figcaption>Government policy can change family size, as China’s policies show.</figcaption>
+</figure>
+
 ## Gender, age and family life (3.1.1.4)
 
 - **Instrumental** (male breadwinner) v **expressive** (female carer) roles: Parsons.
@@ -62,6 +82,11 @@ Condensed for the final weeks. For the full explanation, use the [families study
 - **Violence**: Dobash and Dobash; WHO estimate about 1 in 3 women worldwide.
 - **Children**: childhood socially constructed (Ariès); **child-centredness**.
 - **Boomerang** families; grandparents' roles; status of older people varies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-families--05-roles-triple-shift.webp" width="900" height="593" alt="Left: Parsons’ traditional roles, the instrumental male breadwinner and the expressive, caring female. Right: the triple shift of paid work, domestic work and emotional work carried by many women. Below, men often make the biggest financial decisions, and Dobash and Dobash link domestic violence to male power." loading="lazy">
+  <figcaption>Many women now carry three loads: paid work, domestic work and emotional work.</figcaption>
+</figure>
 
 ## Perspectives in more depth
 
@@ -103,6 +128,11 @@ Why it works: a claim with a sociologist, a counter-claim with a named sociologi
 - **Describe**: the features, with detail.
 - **Explain**: a reason developed with "because" and "so", or a linked consequence.
 - **Discuss how far**: both sides, with sociologists and examples from a society you know, and a reasoned conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-families--07-command-words.webp" width="900" height="506" alt="Four steps rising from left to right: identify or name needs a brief point; describe gives features with detail; explain gives a developed reason; discuss or evaluate weighs more than one side and reaches a judgement." loading="lazy">
+  <figcaption>The command word tells you how far to develop your answer.</figcaption>
+</figure>
 
 ## Key terms
 

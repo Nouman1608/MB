@@ -67,6 +67,11 @@ Quick-recall notes for Breadth Study B2 of Pearson Edexcel International GCSE Hi
 | 1944 | Penicillin mass-produced in time for D-Day |
 | 5 July 1948 | NHS begins |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--08-med-timeline.webp" width="900" height="1200" alt="A scaled timeline of 1848 to 1948 with five bands for the five key topics and fourteen events from the Public Health Act of 1848 to the launch of the NHS in 1948." loading="lazy">
+  <figcaption>Medicine 1848–1948 to scale, with the five key topics and main events.</figcaption>
+</figure>
+
 ## Themes traced across the century
 
 | Theme | c1848 | c1900 | c1948 |
@@ -77,6 +82,16 @@ Quick-recall notes for Breadth Study B2 of Pearson Edexcel International GCSE Hi
 | Surgery | Pain, infection, bleeding; chloroform | Antiseptic then aseptic; blood groups | Transfusion service; skin grafts |
 | Women | Nightingale's nursing | Women doctors allowed (1876) | Wartime roles expanded |
 | War, science, technology | Crimea | Microscopes, X-rays | Two world wars accelerate change |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--11-med-cause.webp" width="900" height="841" alt="A chain of six steps shows ideas about disease changing from miasma, through Snow and Pasteur’s germ theory and Koch’s bacteriology, to Ehrlich’s magic bullet and penicillin." loading="lazy">
+  <figcaption>How ideas about the cause and treatment of disease changed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--12-med-public-health.webp" width="900" height="828" alt="A staircase of six steps from Chadwick’s report (1842) through the voluntary 1848 Act and compulsory 1875 Act and the Liberal reforms to the Beveridge Report (1942) and the NHS (1948)." loading="lazy">
+  <figcaption>From a voluntary Public Health Act to free treatment for all.</figcaption>
+</figure>
 
 ## Key individuals
 
@@ -94,6 +109,16 @@ Quick-recall notes for Breadth Study B2 of Pearson Edexcel International GCSE Hi
 | Curie | Radioactivity; mobile X-rays in war |
 | Fleming, Florey, Chain | Penicillin |
 | Beveridge, Bevan | Welfare state; NHS |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--09-med-snow.webp" width="900" height="810" alt="Two street schematics. With the pump handle in place, dots (cases, illustrative) cluster round the pump; with the handle removed, far fewer remain. Snow showed cholera spread by water but could not explain why." loading="lazy">
+  <figcaption>Snow linked cholera to a pump (illustrative schematic, not real data).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--13-med-women.webp" width="900" height="779" alt="A chain of six steps: Nightingale at Scutari (1854), the nurses’ training school (1860), Elizabeth Garrett qualifying (1865), the 1876 Act allowing women doctors, and women’s roles in the two world wars." loading="lazy">
+  <figcaption>Women’s role in medicine from 1854 to the Second World War.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -117,6 +142,11 @@ Quick-recall notes for Breadth Study B2 of Pearson Edexcel International GCSE Hi
 2. **Understanding:** in 1850 surgeons did not know germs caused infection; by 1900 germ theory, from
    Pasteur and Koch, explained it and guided practice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--10-med-surgery.webp" width="900" height="830" alt="Three rows pair surgery’s problems with solutions: pain (chloroform, accepted after Queen Victoria), infection (carbolic acid, then aseptic surgery) and bleeding (blood groups, then stored blood). A red arrow notes that longer operations without antiseptics raised infection deaths." loading="lazy">
+  <figcaption>Pain, infection and bleeding, and how each was tackled.</figcaption>
+</figure>
+
 ## Essay plan in outline
 
 *"War was the main reason for change in medicine in the years c1848–c1948." How far do you agree?*
@@ -128,6 +158,11 @@ Quick-recall notes for Breadth Study B2 of Pearson Edexcel International GCSE Hi
   (1865), Koch, blood groups (1901), Fleming (1928); public health acts and Liberal reforms were
   peacetime government action.
 - **Judgement:** war accelerated and spread changes; science and government usually began them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--14-med-science-war.webp" width="900" height="900" alt="Three rows pair a scientific discovery with its wartime use: X-rays, blood groups and penicillin. Science gave discoveries; war gave urgency, funding and practice." loading="lazy">
+  <figcaption>Science provided discoveries and war provided urgency and funding.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

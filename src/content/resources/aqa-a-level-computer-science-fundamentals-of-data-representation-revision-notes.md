@@ -72,6 +72,11 @@ error-prone to read. Write the base as a subscript: 67₁₀, 10011011₂, AE₁
 - **Subtraction** = add the two's complement: 23 - 45 = 00010111 + 11010011 = 11101010 = -22.
 - Two's complement is the only signed representation AQA examines.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--01-twos-complement.webp" width="900" height="800" alt="Writing 45 as 00101101, inverting every bit to 11010010 and adding 1 gives 11010011. The place values are -128, 64, 32, 16, 8, 4, 2 and 1, and the 1 bits sum to -128 + 64 + 16 + 2 + 1 = -45." loading="lazy">
+  <figcaption>Invert every bit and add 1 to negate in two’s complement.</figcaption>
+</figure>
+
 ## Fixed point and floating point
 
 **Fixed point**: the binary point is in a fixed position. With 4 bits after the point, 0110.1010 =
@@ -89,6 +94,11 @@ Mantissa 1.0110000 = -1 + 0.25 + 0.125 = -0.625
 Value = -0.625 × 2² = -2.5
 (Check: move the point 2 places right: 101.10000 = -4 + 1 + 0.5 = -2.5)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--02-floating-point.webp" width="900" height="800" alt="Two examples use an 8-bit mantissa with the binary point after the first bit and a 4-bit exponent. 5.75 is 0.10111 x 2^3, stored as mantissa 01011100 and exponent 0011. -2.5 is 0.101 x 2^2; the mantissa 1.0110000 and exponent 0010 start with two different bits, so they are normalised." loading="lazy">
+  <figcaption>Normalised mantissas start 01 (positive) or 10 (negative), and the exponent moves the point.</figcaption>
+</figure>
 
 ### Normalisation
 
@@ -152,6 +162,16 @@ Sound: 30 s, 44,100 Hz, 16-bit, one channel
   44,100 × 16 × 30 = 21,168,000 bits ÷ 8 = 2,646,000 bytes ≈ 2.6 MB
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--03-bitmap-size.webp" width="900" height="820" alt="An 800 by 600 pixel bitmap stores each pixel as 24 bits. 800 x 600 x 24 = 11,520,000 bits, which is 1,440,000 bytes or 1.44 MB (1,406.25 KiB)." loading="lazy">
+  <figcaption>Bitmap size in bits is width x height x colour depth; divide by 8 for bytes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--04-sound-samples.webp" width="900" height="960" alt="A wave is measured at regular intervals; each dot is a sample stored with a set number of bits. Stereo sound for 40 s at 22,050 Hz and 16 bits is 22,050 x 16 x 40 x 2 = 28,224,000 bits, about 3.53 MB. The sample rate must be at least twice the highest frequency." loading="lazy">
+  <figcaption>Sound size = sample rate x resolution x seconds x channels.</figcaption>
+</figure>
+
 ## Compression and encryption
 
 - **Lossless** compression keeps all the data (needed for text and program files); **lossy** removes
@@ -167,6 +187,16 @@ Sound: 30 s, 44,100 Hz, 16-bit, one channel
   the message and **used once only**. It is the only cipher proven to offer **perfect security**, because
   the ciphertext is uniformly distributed. All other ciphers rely on **computational security** -- they
   could in theory be broken given enough ciphertext and time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--05-run-length-encoding.webp" width="900" height="640" alt="WWWWBBWWWWWWB has four runs, stored as (W,4), (B,2), (W,6), (B,1): 13 characters become 4 pairs. RLE suits long runs and not varied data." loading="lazy">
+  <figcaption>Run-length encoding stores each run as a value and a count.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--06-vernam-cipher.webp" width="900" height="900" alt="Plaintext 1001101 XOR key 0110111 gives ciphertext 1111010. XOR with the same key again returns 1001101. The key must be truly random, as long as the message and used once." loading="lazy">
+  <figcaption>XOR with a random one-use key encrypts, and XOR with the same key decrypts.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

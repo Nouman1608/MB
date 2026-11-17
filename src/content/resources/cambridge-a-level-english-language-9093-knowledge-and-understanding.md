@@ -60,6 +60,16 @@ speech. The table groups some of them by what their conventions are designed to 
 The last column is the point. A convention matters because of the job it does for a reader. If a travel blog suddenly
 adopts the bullet points of a leaflet, you can explain the shift: the writer has moved from storytelling to advice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-knowledge-and-understanding--01-four-strands.webp" width="900" height="645" alt="Four numbered strands: conventions of written textual forms, linguistic elements and literary features, the significance of audience in design and reception, and how genre, purpose and context contribute to meaning. Arrows show the same knowledge serving Paper 1 Reading and Paper 2 Writing." loading="lazy">
+  <figcaption>Four strands of knowledge that explain why a text looks and sounds as it does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-knowledge-and-understanding--02-conventions-and-jobs.webp" width="900" height="740" alt="Seven forms from the syllabus list, each with typical conventions and the job they do for a reader, from the editorial's institutional &quot;we&quot; presenting a collective view to the leaflet's headings and imperatives letting a reader scan and act. A note explains reading a break in convention, such as a travel blog switching to bullet points." loading="lazy">
+  <figcaption>A convention matters because of the job it does for a reader.</figcaption>
+</figure>
+
 ## Strand 2: linguistic elements and literary features
 
 The syllabus example list is long. It is easier to hold if you sort it by level, from the smallest unit to the whole
@@ -92,6 +102,16 @@ informality of tone*, and *pragmatics*, the meaning a reader infers beyond the l
 Note that "voice" appears twice in practice: grammatical voice (active and passive) and authorial voice. Make clear
 which one you mean whenever you use the word.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-knowledge-and-understanding--03-levels-of-analysis.webp" width="900" height="610" alt="The syllabus feature list sorted by level: word (word classes, vocabulary, morphology such as &quot;unmissable&quot; and &quot;feelgood&quot;), sentence (sentence types, fronting, voice, tense and aspect, modality) and text (structure and narrative perspective), with sound features to the side and figurative language, rhetoric, voice, tone and pragmatics working across levels." loading="lazy">
+  <figcaption>Sort features from word to whole text so the long list is easier to hold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-knowledge-and-understanding--04-tense-and-aspect.webp" width="900" height="670" alt="Two timelines. The progressive aspect, &quot;was walking&quot;, shows an action as an ongoing, unfinished stretch. The perfect aspect, &quot;has walked&quot; or &quot;had walked&quot;, links an earlier action to a later moment. A note says tense locates an action in time while aspect describes how it unfolds." loading="lazy">
+  <figcaption>Progressive shows an action in progress; perfect links an earlier action to a later moment.</figcaption>
+</figure>
+
 ## Strand 3: audience in design and reception
 
 The syllabus wording separates two moments. **Design** is what the writer does with an audience in mind: choice of
@@ -108,6 +128,11 @@ Useful distinctions:
 - **Changing reception.** A text read years after it was written, or in a different country, can be received in a
   way its writer never planned.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-knowledge-and-understanding--05-design-and-reception.webp" width="900" height="635" alt="A writer designs a text for an audience and readers receive it, sometimes differently from the intention. Design choices include register, assumed knowledge and forms of address. Three cards explain primary and secondary audiences, the implied reader and assumed knowledge with the lesson's examples." loading="lazy">
+  <figcaption>Design is what the writer intends; reception is what real readers make of it.</figcaption>
+</figure>
+
 ## Strand 4: genre, purpose and context
 
 **Genre** is the type of text, recognised by its conventions. **Purpose** is what the text sets out to do: inform,
@@ -117,6 +142,11 @@ it, when, where, under what constraints) and of reception (where and how it is r
 
 These three explain meaning together. The same sentence, "The water is not safe", means a warning on a sign, a plot
 point in a story and a political accusation in an editorial.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-knowledge-and-understanding--06-genre-purpose-context.webp" width="900" height="555" alt="The sentence &quot;The water is not safe&quot; means a warning on a sign, a plot point in a story and a political accusation in an editorial. Below, purposes stack: a charity leaflet informs in order to persuade." loading="lazy">
+  <figcaption>The same words change meaning with genre, purpose and context.</figcaption>
+</figure>
 
 ## Worked example: knowledge in use
 
@@ -145,6 +175,11 @@ Purpose (strand 4)  describes, entertains and quietly persuades
 
 Notice that each label is joined to an effect and to the reader. The knowledge is the vocabulary; the answer is what
 the vocabulary lets you explain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-knowledge-and-understanding--07-worked-example.webp" width="900" height="715" alt="The lesson's original travel passage about an island, followed by six labelled observations: the travel-writing form, the past perfect &quot;had stopped&quot;, the shift from &quot;I&quot; to &quot;you&quot;, personification of the island, an implied reader tied to a phone, and a purpose that describes, entertains and persuades." loading="lazy">
+  <figcaption>The knowledge supplies the labels; the answer is what they let you explain.</figcaption>
+</figure>
 
 ## Common mistakes
 

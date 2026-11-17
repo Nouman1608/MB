@@ -1,0 +1,8 @@
+{ "page": "cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-cambridge-igcse-physics-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-cambridge-igcse-physics--01-states-and-changes.webp", "after": "## States of matter"},
+ {"src": "https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp", "after": "## States of matter"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-cambridge-igcse-physics--02-gas-pressure-collisions.webp", "after": "## Gas pressure"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-cambridge-igcse-physics--04-pressure-and-kelvin.webp", "after": "## Gas pressure"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-cambridge-igcse-physics--03-brownian-motion.webp", "after": "## Brownian motion"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-cambridge-igcse-physics--05-pv-constant.webp", "after": "## pV = constant (Extended only)"}
+] }

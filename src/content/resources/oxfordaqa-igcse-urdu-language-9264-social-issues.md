@@ -46,6 +46,11 @@ affect the **wider world**.
 The topic is examined through **Paper 1 (Reading)**, which includes translation from English into
 Urdu, and **Paper 2 (Writing)**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-social-issues--01-two-sub-topics.webp" width="900" height="718" alt="Charity and voluntary work (رضاکار, فلاحی ادارہ, چندہ جمع کرنا, عطیہ دینا, ضرورت مند, یتیم خانہ) and healthy and unhealthy living (متوازن غذا, ورزش, نیند, ذہنی دباؤ, موٹاپا, تمباکو نوشی). Poverty belongs to Global issues." loading="lazy">
+  <figcaption>Volunteering and health, about individuals and communities; poverty is a global issue.</figcaption>
+</figure>
+
 ## Vocabulary
 
 **Charity and voluntary work**
@@ -108,6 +113,11 @@ personal relevance: پہلے میں روزانہ کولڈ ڈرنک پیتا تھ
 **7. Describing a volunteering experience.** Simple past with نے for what you did: پچھلی
 گرمیوں میں میں نے ایک فلاحی ادارے میں کام کیا; we collected money: ہم نے چندہ جمع کیا.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-social-issues--02-advice-purpose-cause-hypothesis.webp" width="900" height="730" alt="Four Urdu structures with glosses: advice with کو ... چاہیے (ہمیں روزانہ ورزش کرنی چاہیے), purpose with تاکہ, cause with کی وجہ سے about lack of sleep, and a hypothesis with اگر ... تو about young people sleeping more." loading="lazy">
+  <figcaption>Should, so that, because of, and if ... would: the core of a social-issues answer.</figcaption>
+</figure>
+
 ## Worked example 1: translation into Urdu
 
 English: *I work at a charity's shop every Saturday because I want to help others. If young
@@ -127,6 +137,11 @@ Sentence 2
 
 The common error in sentence 2 is mixing tenses, for example اگر نوجوان زیادہ سوئیں تو وہ ...
 محسوس کرتے. Keep the two halves of a hypothetical in matching forms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-social-issues--03-matching-hypothetical.webp" width="900" height="654" alt="A correct hypothetical keeps both verbs in the same form: اگر نوجوان زیادہ سوتے تو وہ کم ذہنی دباؤ محسوس کرتے. Mixing forms (اگر نوجوان زیادہ سوئیں تو وہ ... محسوس کرتے) is a common error. Every Saturday is ہر ہفتے کے دن." loading="lazy">
+  <figcaption>In &quot;if ... would&quot;, both halves take the matching form.</figcaption>
+</figure>
 
 ## Worked example 2: a paragraph on healthy living
 
@@ -148,6 +163,11 @@ What it does well:
 To push it further, add a hypothetical: اگر ہر محلے میں ایک کھیل کا میدان ہوتا تو بچے زیادہ
 باہر کھیلتے.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-social-issues--04-healthy-living-anatomy.webp" width="900" height="790" alt="Four moves in the model answer: the problem with a cause-and-effect link (جس کی وجہ سے), a trend in the present continuous (موٹاپا بڑھ رہا ہے), a personal then-and-now change, and a solution for schools with a purpose clause (تاکہ طلبہ فٹ رہیں)." loading="lazy">
+  <figcaption>Problem, trend, personal change and a solution with a purpose.</figcaption>
+</figure>
+
 ## Charity: what a developed answer looks like
 
 A weak answer says: میں خیرات دیتا ہوں۔ یہ اچھی بات ہے۔ A developed one adds **what** you did,
@@ -157,6 +177,11 @@ A weak answer says: میں خیرات دیتا ہوں۔ یہ اچھی بات ہ�
 > روزانہ دو گھنٹے سامان کی پیکنگ میں مدد کی۔ جب ہم نے یہ تھیلے بانٹے تو لوگوں کی خوشی دیکھ کر
 > مجھے بہت سکون ملا۔ میرے خیال میں ہر طالب علم کو سال میں کم از کم ایک بار رضاکارانہ کام کرنا
 > چاہیے۔
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-social-issues--05-charity-developed-answer.webp" width="900" height="840" alt="A weak answer (میں خیرات دیتا ہوں۔ یہ اچھی بات ہے۔) against a developed one in four sentences: what was done last Ramadan, the writer’s own part, the difference it made, and a wider view that every student should volunteer." loading="lazy">
+  <figcaption>Say what you did, your part, the difference it made, and a wider view.</figcaption>
+</figure>
 
 ## Common mistakes
 
@@ -201,6 +226,11 @@ shows obligation in the future, a useful alternative to چاہیے.
 
 Each starter is followed by کہ and a full clause, so check that the clause has its own verb.
 Two or three different starters in one answer show range without any risk to accuracy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-social-issues--06-opinion-starters.webp" width="900" height="696" alt="Five Urdu opinion starters with English meanings, from اس میں کوئی شک نہیں کہ to اگر ہم واقعی تبدیلی چاہتے ہیں تو, each followed by a full clause, plus وقت نکالنا ہو گا for a future obligation." loading="lazy">
+  <figcaption>Two or three different starters in one answer show range safely.</figcaption>
+</figure>
 
 ## A quick translation drill
 

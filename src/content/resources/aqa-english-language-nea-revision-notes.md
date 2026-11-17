@@ -50,6 +50,11 @@ For the full explanation, use the
 
 The NEA is A-level only; the AS (7701) has no coursework.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--06-nea-overview.webp" width="900" height="840" alt="The Language in Action non-exam assessment is worth 20% of the A-level. Bars are drawn to scale by word count: a language investigation of 2,000 words excluding data and quotations, and an original piece of writing of 750 words with a 750-word commentary. It is coursework where the student chooses the focus, developed over time rather than under timed exam conditions." loading="lazy">
+  <figcaption>The NEA is two tasks, drawn to scale by word count.</figcaption>
+</figure>
+
 ## The assessment objectives
 
 | AO | Wording | Share of A-level from NEA |
@@ -62,6 +67,11 @@ The NEA is A-level only; the AS (7701) has no coursework.
 
 AO3 carries the most marks in the investigation (20 of 50), and AO5 is the whole of the original-writing
 mark.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-language-investigation--08-assessment-objectives.webp" width="900" height="600" alt="AO1 rewards methods of language analysis with terminology and coherent expression, AO2 critical understanding of concepts and issues, and AO3 analysis of how contextual factors and language features construct meaning. A thread of context runs through every section of the analysis." loading="lazy">
+  <figcaption>Contextual analysis (AO3) belongs in every section, not in a single paragraph.</figcaption>
+</figure>
 
 ## 3.3.1 Language Investigation
 
@@ -81,6 +91,11 @@ other areas your teacher agrees will yield interesting questions.
 | Attitudes-based | How do people feel about this language? |
 | User-based | Who uses this type of language? |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--07-nea-question-types.webp" width="900" height="900" alt="Four cards: genre-based asks what the distinctive features of this type of language use are; function or use-based asks what the language is used to do; attitudes-based asks how people feel about this language; user-based asks who uses this type of language. Whichever is chosen, the focus must be specific and bounded." loading="lazy">
+  <figcaption>The four types of investigation question.</figcaption>
+</figure>
+
 ### Data types
 
 Spoken, written, multimodal, word lists, attitudes to language, uses of language, views about language.
@@ -96,6 +111,11 @@ You should **collect your own data** and select your own approach, in consultati
 | Conclusion | Findings interpreted in relation to the aims |
 | References | All paper and web sources |
 | Appendices | Clean copies of data; evidence for quantitative approaches |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--09-nea-sections.webp" width="900" height="880" alt="Five boxes in order: introduction (reasons for the focus and aims), methodology (an evaluative account of data collection), analysis (findings, concepts and issues, contextual influences), conclusion (linked back to the aim) and references and appendices (sources and clean copies of the data). A dashed arrow runs from the conclusion back up to the introduction, labelled aim." loading="lazy">
+  <figcaption>The investigation’s required sections, ending by linking back to the aim.</figcaption>
+</figure>
 
 ### What the top level looks like (Level 5)
 
@@ -133,6 +153,21 @@ the two contexts (AO3); show genre as a "dynamic process" (AO2); apply language 
 (AO1); write accurately with a coherent structure (AO5). A commentary that discusses only one text is
 capped at 3 marks for AO4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-original-writing--07-commentary-structure.webp" width="900" height="661" alt="Five numbered stages of the commentary: context, the style model, your choices, the writing process, and evaluation. A vertical thread beside them shows connections between the style model and the piece running throughout, and a note warns against narrating the process." loading="lazy">
+  <figcaption>Five stages, with the style model and your piece connected all the way through.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--10-nea-power-categories.webp" width="900" height="960" alt="Three cards for the three areas of original writing. The Power of Persuasion: investigative journalism, a speech on a controversial topic, a letter to an MP. The Power of Storytelling: a short story, a biography extract, a dramatic monologue. The Power of Information: travel journalism, a social-issues blog, local history writing." loading="lazy">
+  <figcaption>The three areas of original writing and the lesson’s example forms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--11-nea-writing-process.webp" width="900" height="1020" alt="Three steps: study a range of style models, analyse one in detail, write the 750-word piece. A 750-word commentary follows and evaluates the style model, the writing process and the effectiveness of the final piece. A dashed arrow shows the style-model analysis feeding the commentary. The submitted folder holds the writing, an annotated style model, the commentary and references." loading="lazy">
+  <figcaption>Style-model analysis feeds the writing and the 750-word commentary.</figcaption>
+</figure>
+
 ## 3.3.3 Methods of language analysis
 
 | Level | Covers |
@@ -144,6 +179,11 @@ capped at 3 marks for AO4.
 | Pragmatics | Contextual aspects of language use |
 | Discourse | Extended communication in different genres, modes and contexts |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-methods-of-language-analysis--05-nea-six-levels.webp" width="900" height="1010" alt="Six language levels surround your data: phonetics, phonology and prosodics; graphology; lexis and semantics; grammar, including morphology; pragmatics; and discourse. Every analysis covers relevant aspects of these levels, but you choose the ones that fit your research question and do not need to apply all six equally." loading="lazy">
+  <figcaption>The six language levels you can use on your own data.</figcaption>
+</figure>
+
 ## Worked example: turning a topic into an investigation
 
 - **Topic (too broad):** "Language and gender."
@@ -154,6 +194,16 @@ capped at 3 marks for AO4.
 - **Concepts (AO2):** deficit, dominance and difference debates; later critiques of binary gender models.
 - **Context (AO3):** the podcast format, audience, expertise roles.
 - **Cautious conclusion:** findings from two podcasts cannot be generalised to all speakers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--08-nea-narrowing.webp" width="900" height="1128" alt="A funnel of boxes getting narrower. Too broad: how does social media affect language? Step 1 narrow the mode to a platform or feature such as hashtags, emoji or abbreviation. Step 2 narrow the population to a specific age group or online community. Step 3 choose the question type, genre-based or attitudes-based. Result: a bounded question comparing abbreviation and emoji use in two age groups’ text messages and their attitudes to each other’s style, with a clear data plan, analytical framework and boundary." loading="lazy">
+  <figcaption>Narrowing a broad interest into a bounded investigation question.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-methods-of-language-analysis--07-nea-hedge-count.webp" width="900" height="980" alt="In 20 minutes of transcribed group talk, Speaker A produces 14 hedges in 52 turns, which is 26.9 percent of turns, and Speaker B produces 4 hedges in 48 turns, which is 8.3 percent. The numbers show a difference, and the analysis must then explain it: do the hedges soften disagreement as a politeness strategy, do they express uncertainty, and do the speakers’ roles, such as who is chairing, explain the pattern? A small sample cannot support broad claims, so the conclusion should be cautious." loading="lazy">
+  <figcaption>Turning hedge counts into percentages, then asking why.</figcaption>
+</figure>
 
 ## Common mistakes / traps
 

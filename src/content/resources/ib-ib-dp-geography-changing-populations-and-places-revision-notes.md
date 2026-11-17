@@ -37,6 +37,11 @@ the full explanation, read the
 State them separately. Illustration: 120 births and 80 deaths gives +40; 30 immigrants and 50
 emigrants gives -20; total change is +20.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-population-distribution--10-pd-change.webp" width="900" height="900" alt="Natural change is births minus deaths; net migration is immigration minus emigration. With illustrative numbers, 120 births and 80 deaths give +40, and 30 immigrants and 50 emigrants give −20, so total change is +20." loading="lazy">
+  <figcaption>Population change has two separate components: natural change and net migration.</figcaption>
+</figure>
+
 ## Key indicators
 
 | Indicator | Meaning |
@@ -67,6 +72,11 @@ ignore its age structure: an elderly country can have a high CDR even with excel
 A pyramid with a narrow base, wide middle and wide top indicates an **ageing population** at a later
 stage of the demographic transition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-population-distribution--13-pd-pyramid-event.webp" width="900" height="810" alt="An illustrative pyramid has one unusually narrow band and a wide band beside it. Such a band can indicate a historical event that affected that age group: war, a baby boom or mass migration." loading="lazy">
+  <figcaption>An unusually narrow or wide age band can mark a historical event.</figcaption>
+</figure>
+
 ## Contrasting pyramid shapes
 
 | Shape | Description | Example |
@@ -79,6 +89,11 @@ stage of the demographic transition.
 Event-related bands to recognise: deficits among older men in countries with heavy wartime losses,
 such as Russia; post-war baby-boom bulges in Europe and North America; and the narrower young
 cohorts in China after decades of birth restrictions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-population-distribution--12-pd-pyramids.webp" width="900" height="790" alt="Two illustrative pyramids with the oldest group at the top. The young population has a wide base (high birth rates) and a sharply narrowing top (high death rates, lower life expectancy). The ageing population has a narrow base (low birth rate) and a relatively wide top (high life expectancy)." loading="lazy">
+  <figcaption>A pyramid shape shows birth rates, death rates and life expectancy.</figcaption>
+</figure>
 
 ## Migration and places
 
@@ -119,6 +134,11 @@ conditions instead of memorising a few examples.
 cohort, showing birth rates have fallen. The top is wide, with a large share over 65 and more
 women than men in the oldest groups, reflecting long life expectancy and higher female survival.
 This suggests rising demand for health care and pensions alongside a shrinking labour force."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-population-distribution--14-pd-reading-chain.webp" width="900" height="960" alt="Four steps: read the shape (narrow base, wide top); say what it means (low birth rate, high life expectancy); link to the demographic transition model (a later stage with low births and deaths); state the consequence (more elderly care and pensions needed)." loading="lazy">
+  <figcaption>Move from shape to meaning to model stage to consequence.</figcaption>
+</figure>
 
 ## Exam traps
 

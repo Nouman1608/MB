@@ -58,11 +58,26 @@ OxfordAQA 9210 specification (Version 3.4), section 3.7:
 
 9210 uses these terms (not entity/attribute) for both real databases and designs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--01-table-terms.webp" width="900" height="640" alt="A Member table with fields MemberID, Name, Age and ClubID. A grey row gives each field its data type. One column is marked as a field, one column of data, and the row for Priya, 103, is marked as a record, all the data about one item." loading="lazy">
+  <figcaption>A table is rows (records) and columns (fields); each field has a data type, such as text with a length.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--02-keys-link.webp" width="900" height="900" alt="The Club table has ClubID as its primary key. The Member table has MemberID as its primary key and ClubID as a foreign key. Colours match each member ClubID to the club row it refers to, and an arrow shows the foreign key pointing to the primary key." loading="lazy">
+  <figcaption>A primary key is unique in its table; a foreign key matches a primary key in another table and links them.</figcaption>
+</figure>
+
 ## Why use a relational database?
 
 In a single "flat" table the same data is repeated -- **data redundancy** -- which wastes space. When one copy is
 changed and another is not, the data becomes contradictory -- **data inconsistency**. Splitting the data into linked
 tables means each fact is stored **once**, which eliminates both problems.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--03-redundancy.webp" width="900" height="1078" alt="One big table repeats Robotics and room C03 in three rows (redundancy). If the room changes and one record is missed, values conflict (inconsistency). With a separate Club table the room is stored once and changed once." loading="lazy">
+  <figcaption>Storing the room once in a Club table avoids repeated data and conflicting values.</figcaption>
+</figure>
 
 ## Designing tables
 
@@ -117,6 +132,21 @@ WHERE Member.TeamID = Team.TeamID
 AND Team.Coach = 'Ms Rahman';
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--04-where-comparison.webp" width="900" height="780" alt="The query SELECT Name FROM Member WHERE Age &gt;= 15 is tested on each of six records. Tomas, Kofi and Lena pass with a tick; Amira, Priya and Omar fail with a cross. The output is Tomas, Kofi, Lena." loading="lazy">
+  <figcaption>WHERE tests every record; only those that pass are shown, and SELECT picks the fields.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--05-where-and.webp" width="900" height="780" alt="Each record is tested for ClubID = 2 and for Age = 14. Only Amira and Priya pass both, so the output is Amira 14 and Priya 14." loading="lazy">
+  <figcaption>With AND a record must meet both conditions to be kept.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--06-two-table-query.webp" width="900" height="932" alt="Step 1 pairs each of six members with its club using the matching ClubID. Step 2 keeps the three Robotics rows. The output is Amira C03, Priya C03, Lena C03. Without the match there would be 18 pairs." loading="lazy">
+  <figcaption>The first WHERE condition matches each member to a club; the second keeps only Robotics; without matching, every member pairs with every club.</figcaption>
+</figure>
+
 ### Changing data
 
 ```sql
@@ -132,6 +162,11 @@ WHERE MemberID = 42;
 ```
 
 Only the `INSERT INTO` form that gives **all the values** of a record is required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--07-change-data.webp" width="900" height="790" alt="Three statements change Member: Tomas moves to club 3, Omar is deleted, and Sana is inserted in club 3. The table then holds six records." loading="lazy">
+  <figcaption>UPDATE edits a record, DELETE FROM removes one, INSERT INTO adds one; Member ends with six records.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

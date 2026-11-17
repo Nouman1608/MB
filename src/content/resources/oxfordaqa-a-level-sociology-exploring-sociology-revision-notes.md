@@ -47,6 +47,16 @@ Two sub-topics complete the International AS alongside Unit 1: **3.1.2 Socialisa
 
 **Pair** a named agency with a named type of control rather than revising the two lists separately — many questions ask exactly this. Truancy, for example, is regulated by *both* routes simultaneously: fines/legal action (formal) and family/peer disapproval (informal).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-exploring-sociology--04-social-control.webp" width="900" height="736" alt="Formal social control through government, police and courts is compared with informal control through families, schools, peers, media, religion and work. Key concepts are stigma and othering, Althusser’s state apparatuses and interpellation, and Gramsci’s hegemony." loading="lazy">
+  <figcaption>Control can be formal or informal, and every agency uses sanctions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-control--01-sanctions-grid.webp" width="900" height="616" alt="A two-by-two grid: formal positive sanctions such as awards, formal negative sanctions such as fines and prison, informal positive sanctions such as praise, and informal negative sanctions such as gossip and ostracism. Agencies of each type are listed below." loading="lazy">
+  <figcaption>Cross formal and informal with reward and punishment to generate examples.</figcaption>
+</figure>
+
 ## 3.1.3 — method choice is theoretical, not just practical
 
 | Tradition | Favoured methods | Why |
@@ -55,6 +65,11 @@ Two sub-topics complete the International AS alongside Unit 1: **3.1.2 Socialisa
 | Interpretivist | Unstructured interviews, participant observation, personal documents | Captures meaning and lived experience |
 
 **Triangulation** — combining quantitative and qualitative methods to offset each one's weaknesses — is the strongest way to end a methods-and-theory answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-exploring-sociology--06-positivism-interpretivism.webp" width="900" height="506" alt="Positivists favour quantifiable methods such as questionnaires and official statistics to find patterns; interpretivists favour unstructured interviews and participant observation to capture meaning. Triangulation combines the two." loading="lazy">
+  <figcaption>Strong answers recognise that triangulation can combine both traditions.</figcaption>
+</figure>
 
 ## Worked example: method choice for a research question
 
@@ -75,6 +90,11 @@ Conclusion:      the choice reflects a genuine theoretical
 
 Don't just describe both methods — explain that the choice is a *theoretical* one, then propose triangulation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-exploring-sociology--07-worked-example.webp" width="900" height="581" alt="Positivist and interpretivist approaches to working-class underachievement compared: official statistics show broad patterns but not causes, while interviews and observation reveal experience but are hard to generalise." loading="lazy">
+  <figcaption>Justify the method choice theoretically, not only practically.</figcaption>
+</figure>
+
 ## Connecting back to Unit 1
 
 Because Unit 2 sits at the end of the International AS, strong answers reuse Unit 1's Families content as worked examples for Unit 2's methodological issues — revise the two units together rather than as fully separate blocks.
@@ -88,6 +108,11 @@ marks, short and extended-response questions) and Section B Research
 methods and theory (20 marks, one extended-response question). A
 specimen question paper and mark scheme for Unit 1 are already
 published on OxfordAQA's 9690 qualification page.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-exploring-sociology--01-where-unit-2-fits.webp" width="900" height="645" alt="Units 1 and 2 make up the International AS; the full A-level adds Units 3 to 5 on development, environment and technology. Unit 2 has 60 marks: Section A on socialisation and social control (40 marks) and Section B on research methods and theory (20 marks)." loading="lazy">
+  <figcaption>Unit 2 completes the International AS and is split 40:20 between two sections.</figcaption>
+</figure>
 
 ## Quick revision checklist
 

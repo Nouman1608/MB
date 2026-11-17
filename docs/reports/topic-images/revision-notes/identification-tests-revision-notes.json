@@ -1,0 +1,9 @@
+{ "page": "identification-tests-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/identification-of-ions-and-gases--04-flame-tests.webp", "after": "## Flame tests" },
+ { "src": "https://img.marlbridge.com/identification-of-ions-and-gases--01-cations-naoh.webp", "after": "## Cation tests — with sodium hydroxide" },
+ { "src": "https://img.marlbridge.com/identification-of-ions-and-gases--02-cations-ammonia.webp", "after": "## Cation tests — with sodium hydroxide" },
+ { "src": "https://img.marlbridge.com/identification-of-ions-and-gases--03-al-zn-ca.webp", "after": "## Cation tests — with sodium hydroxide" },
+ { "src": "https://img.marlbridge.com/identification-of-ions-and-gases--05-halide-sulfate.webp", "after": "## Anion tests" },
+ { "src": "https://img.marlbridge.com/identification-of-ions-and-gases--06-anion-others.webp", "after": "## Anion tests" },
+ { "src": "https://img.marlbridge.com/identification-of-ions-and-gases--07-gas-tests.webp", "after": "## Gas tests" }
+] }

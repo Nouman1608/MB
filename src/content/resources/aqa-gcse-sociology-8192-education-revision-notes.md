@@ -67,6 +67,11 @@ When you have finished, try the [Education practice questions](/resources/aqa-gc
 | De-schooling | Replacing formal schooling altogether (Illich) |
 | Home schooling | Parents educating their child at home instead of at school |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--01-functions-of-education.webp" width="900" height="588" alt="Three cards show the functions in the specification: serving the economy, facilitating social mobility and fostering social cohesion. Below, functionalists say education serves society as a whole, Marxists say it serves capitalism, and feminists say it has reproduced gender inequality." loading="lazy">
+  <figcaption>The specification lists three functions; the perspectives disagree about whom they really serve.</figcaption>
+</figure>
+
 ## Writers at a glance
 
 | Who | Perspective | Key idea | Finding or claim | One evaluation point |
@@ -79,6 +84,21 @@ When you have finished, try the [Education practice questions](/resources/aqa-gc
 | Ball (1981) | Interactionist | Teacher expectations | Beachside: middle-class pupils more likely to be placed in band 1, with higher expectations; band 2 most likely to become anti-school; a second cohort taught in mixed ability classes | One school studied, so findings may not be representative |
 | Willis (1977) | Marxist | Counter school culture | Twelve working-class "lads" rejected school, felt superior to "ear'oles", ended up in manual work | Small all-male sample; such jobs are now much scarcer |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--02-parsons-bridge.webp" width="900" height="917" alt="A bridge labelled school joins the family on one side to wider society on the other. In the family children are judged by particularistic standards; in society everyone is judged by universalistic standards. School is meritocratic, builds a value consensus and selects people for future roles." loading="lazy">
+  <figcaption>School moves children from particularistic family rules to the universalistic rules of society.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--03-correspondence-principle.webp" width="900" height="927" alt="Four matched pairs link school to work: obeying teachers and obeying managers; working for grades and working for wages; separate lessons and narrow tasks; competing for rank and competing for promotion. The result is a docile, obedient workforce too divided to challenge management. Below, alternative views from Willis, functionalists, feminists and interactionists." loading="lazy">
+  <figcaption>Social relationships at school mirror those at work, so school reproduces labour power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--04-halsey-class-chances.webp" width="900" height="809" alt="Bar chart: compared with a working-class boy, a service-class boy was four times as likely to be at school at 16, eight times at 17, ten times at 18 and eleven times as likely to attend university. Below, the three classes by father’s occupation and the all-male sample of over 8,000." loading="lazy">
+  <figcaption>The longer education goes on, the wider the class gap becomes.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Durkheim versus Parsons.** Durkheim stresses **social cohesion** through shared norms and values. Parsons stresses **meritocracy**, universalistic standards and **role selection**.
@@ -90,6 +110,21 @@ When you have finished, try the [Education practice questions](/resources/aqa-gc
 - **State versus private schools.** State schools are funded by taxation and free to attend. Private (independent, fee-paying) schools are funded mainly by fees.
 - **Internal versus external factors.** Setting, labelling and subcultures happen inside school. Material deprivation and cultural capital come from outside it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--08-ball-and-willis.webp" width="900" height="902" alt="Two step-by-step columns. Ball at Beachside: middle-class pupils were more often placed in band 1 with higher teacher expectations, while band 2 was steered to easier exams and developed anti-school attitudes. Willis: twelve working-class lads formed a counter school culture, rejected school, and this suited them to manual work." loading="lazy">
+  <figcaption>Ball shows labelling through banding; Willis shows resistance that still led to manual work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--07-streaming-setting-mixed.webp" width="900" height="650" alt="Three panels follow one highlighted pupil across maths, English and science. With streaming the pupil is in the lower group for every subject. With setting the pupil is in the top set for maths and science but a lower set for English. With mixed ability everyone is taught together." loading="lazy">
+  <figcaption>Streaming fixes one group for all subjects; setting can differ subject by subject.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--05-achievement-factors.webp" width="900" height="570" alt="Three columns of explanations. Class: material deprivation, cultural deprivation and cultural capital. Gender: girls now outperform boys because of feminism, equal opportunities policies and fewer manual jobs for boys, though subject choice stays gendered. Ethnicity: material factors, language, an ethnocentric curriculum and institutional racism." loading="lazy">
+  <figcaption>Class, gender and ethnicity each have their own explanations, and they overlap.</figcaption>
+</figure>
+
 ## Perspectives in one line each
 
 For the perspectives in general, see [The sociological approach](/resources/aqa-gcse-sociology-8192-the-sociological-approach/).
@@ -98,6 +133,11 @@ For the perspectives in general, see [The sociological approach](/resources/aqa-
 - **Marxist:** education reproduces class inequality and legitimises it with the myth of meritocracy.
 - **Feminist:** education has reproduced gender roles through a gendered curriculum and hidden curriculum; girls' rising results have not removed inequality in subject choice or work.
 - **Interactionist (3.4.4):** achievement is shaped by classroom interaction, labels and pupils' responses to them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--06-ball-marketisation.webp" width="900" height="646" alt="Parental choice and league tables make schools compete. Schools reintroduce streaming and setting and focus on the more able, while middle-class parents are better placed to use choice, so the market can widen class inequality." loading="lazy">
+  <figcaption>Competition between schools can help the middle class more than the working class.</figcaption>
+</figure>
 
 ## Mini essay plan
 

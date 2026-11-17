@@ -33,6 +33,11 @@ Revision notes for **sub-theme 1.3** of Theme 1 in Pearson Edexcel A Level Urdu 
 - Keep a file of named sources, dates and figures you have checked yourself. Never quote a statistic you cannot trace.
 - Compare at least two viewpoints on each point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--01-theme-1-map.webp" width="900" height="550" alt="Theme 1, پاکستانی معاشرے کا ارتقا (Evolving Pakistani society), has three sub-themes: family (خاندان), work (کام) and equal access to education (تعلیم), the last being the research subject, which must concern Pakistan." loading="lazy">
+  <figcaption>Three sub-themes; equal access to education is the research subject.</figcaption>
+</figure>
+
 ## Points to investigate
 
 - Access for girls and boys, and for urban and rural children.
@@ -40,6 +45,11 @@ Revision notes for **sub-theme 1.3** of Theme 1 in Pearson Edexcel A Level Urdu 
 - Language of instruction and its effect on opportunity.
 - Constitutional commitment: Article 25A, added in 2010, provides for free and compulsory education for children in a stated age range. Check the wording and age range before you quote it.
 - Barriers: poverty, distance, child labour and the cost of schooling.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--04-education-research-map.webp" width="900" height="744" alt="Six lines of enquiry around equal access to education (مساوی مواقع) in Pakistan: girls and boys (صنفی امتیاز), rural and urban (دیہی / شہری), public and private schools (سرکاری / نجی), language of instruction, barriers such as poverty and distance, and Article 25A, added in 2010." loading="lazy">
+  <figcaption>Compare access across gender, place, school type and language, with checked sources.</figcaption>
+</figure>
 
 ## Issues and perspectives
 

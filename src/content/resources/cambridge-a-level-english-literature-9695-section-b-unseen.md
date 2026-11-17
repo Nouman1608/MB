@@ -47,6 +47,11 @@ For AO1 on this section, the "knowledge" credited is **knowledge and understandi
 what you know about how a poem, a scene or a piece of narrative prose works. That is why form-specific
 reading matters so much.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-unseen--01-syllabus-rules.webp" width="900" height="653" alt="Two unseen passages are printed, drawn from two of three categories, prose, poetry and drama, and you answer one question from the choice of two for 25 marks on AO1 to AO4. Passages come from works originally written in English, authors and dates are not given, and background knowledge is not expected. AO1 credits knowledge of the text type." loading="lazy">
+  <figcaption>No set text, no dates, no background: knowledge here means knowing how the form works.</figcaption>
+</figure>
+
 ## Choosing between the two passages
 
 Spend two or three minutes reading both questions and skimming both passages before choosing.
@@ -59,6 +64,11 @@ Spend two or three minutes reading both questions and skimming both passages bef
   must answer that, not a question you would prefer.
 
 Once you choose, commit. Changing passage after fifteen minutes is the costliest mistake in the section.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-unseen--02-choosing-the-passage.webp" width="900" height="559" alt="Two printed passages are skimmed for two or three minutes. Choose the passage you can argue about, one with a shift, tension or ambiguity, rather than one that seems simple. Weigh the form without avoiding one by habit, read the question’s wording, then commit: changing passage after fifteen minutes is the costliest mistake." loading="lazy">
+  <figcaption>Pick the passage with a shift or tension to argue about, then commit.</figcaption>
+</figure>
 
 ## A timed method (about an hour)
 
@@ -77,6 +87,11 @@ points that follow the passage's movement or build an argument. Note two or thre
 quotation; a conclusion that makes a final judgement.
 
 **Minutes 55–60: check** that every paragraph answers the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-unseen--03-timed-method.webp" width="900" height="798" alt="A 60-minute bar: 0 to 5 minutes choose and read for gist, 5 to 15 annotate, 15 to 20 plan, 20 to 55 write, and 55 to 60 check. Five steps explain each stage, with writing highlighted as the longest." loading="lazy">
+  <figcaption>Read, annotate, plan, write, check: most of the hour goes on writing.</figcaption>
+</figure>
 
 ## Reading by form
 
@@ -104,6 +119,11 @@ The same discipline applies to all three forms, but the features worth noticing 
 - **Dialogue rhythm**: who controls the conversation, who interrupts, who goes quiet.
 - **Dramatic irony** within the extract: what does the audience grasp before a character does?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-unseen--04-reading-by-form.webp" width="900" height="642" alt="Three columns. Prose: narrative voice, pace, sentence shape and what is withheld. Poetry: speaker and situation, form, line endings and the turn. Drama: read it as performance, treat stage directions as evidence, follow dialogue rhythm and spot dramatic irony." loading="lazy">
+  <figcaption>The method stays the same; the features you look for change with the form.</figcaption>
+</figure>
+
 ## Worked example: from annotation to paragraph
 
 The passage below is **original**, written for this guide.
@@ -130,6 +150,16 @@ Letter's contents never stated: suspense.
 The paragraph moves from **technique** to **effect** to **meaning**, and it treats the unknown contents
 of the letter as a deliberate choice, not a gap to fill with guesses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-unseen--05-worked-example-annotation.webp" width="900" height="581" alt="The guide’s original passage about Asha and an unopened letter, with numbered notes. 1: Tuesday as the day for bills suggests routine. 2: the letter buried under bills suggests avoidance. 3: a long sentence of repeated “and” suggests delay and ritual. 4: the short final sentence suggests return and decision. A further note: the contents are never stated, creating suspense." loading="lazy">
+  <figcaption>Short annotations name the feature and its effect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-unseen--06-technique-effect-meaning.webp" width="900" height="646" alt="Three chains from the model paragraph. Polysyndeton in the list of bills mimics a growing pile and shows dread through delay. The long sentence of small actions makes tea-making a ritual of postponement. The short final sentence is abrupt and decisive, ending the avoidance and sharpening suspense. The unknown contents are treated as a deliberate choice." loading="lazy">
+  <figcaption>Each point moves from technique to effect to meaning.</figcaption>
+</figure>
+
 ## Structuring the essay
 
 An introduction for the passage above might go wrong in two ways. A weak one guesses at background
@@ -145,6 +175,11 @@ every later paragraph something to prove.
   but keep each paragraph tied to the question.
 - **Conclusion**: a judgement on the passage as a whole, such as how its ending changes the way we read
   its beginning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-unseen--07-structuring-the-essay.webp" width="900" height="709" alt="Two weak introductions are crossed out: one guesses the background and one announces a list of techniques. A strong introduction gives the situation and an argument: a woman delays opening a letter, and routine becomes a way of postponing an unseen crisis. Below: introduction with thesis, body following the passage’s movement or an argument, and a conclusion with a judgement on the whole passage." loading="lazy">
+  <figcaption>Open with the situation and an argument, never a guess or a list.</figcaption>
+</figure>
 
 ## Common mistakes
 

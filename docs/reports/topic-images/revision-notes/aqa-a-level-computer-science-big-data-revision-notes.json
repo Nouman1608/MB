@@ -1,0 +1,8 @@
+{ "page": "aqa-a-level-computer-science-big-data-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--06-three-vs.webp", "after": "## The three Vs" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--11-volume-estimate.webp", "after": "## The three Vs" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--07-scale-up-or-out.webp", "after": "## Why functional programming for distributed processing?" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--10-map-reduce-count.webp", "after": "### Worked example: counting words across servers" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--08-fact-based-model.webp", "after": "## The fact-based model" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--09-graph-schema.webp", "after": "## Graph schema: nodes, edges and properties" }
+] }

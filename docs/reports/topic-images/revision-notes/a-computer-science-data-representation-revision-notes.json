@@ -1,0 +1,8 @@
+{ "page": "a-computer-science-data-representation-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-computer-science-information-representation--13-ir-denary-binary.webp", "after": "## Number bases" },
+ { "src": "https://img.marlbridge.com/a-level-computer-science-information-representation--14-ir-binary-hex.webp", "after": "## Number bases" },
+ { "src": "https://img.marlbridge.com/a-level-computer-science-information-representation--15-ir-twos-complement.webp", "after": "## Signed integers — two's complement" },
+ { "src": "https://img.marlbridge.com/a-level-computer-science-information-representation--16-ir-image-size.webp", "after": "## Images and sound" },
+ { "src": "https://img.marlbridge.com/a-level-computer-science-information-representation--17-ir-sound-sampling.webp", "after": "## Images and sound" },
+ { "src": "https://img.marlbridge.com/a-level-computer-science-information-representation--19-ir-compression.webp", "after": "## Compression" }
+] }

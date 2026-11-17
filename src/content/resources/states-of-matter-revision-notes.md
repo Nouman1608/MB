@@ -53,6 +53,11 @@ first, then test yourself with the [practice questions](/resources/states-of-mat
 | Volume | Fixed | Fixed | Not fixed |
 | Compressible | No | Almost none | Yes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--01-three-states.webp" width="900" height="990" alt="Three boxes compare the states. Solid particles are closely packed in a regular grid and vibrate in place. Liquid particles are close but irregular and slide past each other, filling the bottom of a container. Gas particles are far apart and move fast in all directions, filling their container." loading="lazy">
+  <figcaption>Arrangement, spacing and movement of particles explain the properties of solids, liquids and gases.</figcaption>
+</figure>
+
 ## Changes of state — learn both directions
 
 ```
@@ -70,6 +75,11 @@ the examinable list.)
 **Energy out** for freezing, condensing.
 
 A change of state is always **physical, not chemical**: no new substance forms, mass is conserved, and the change is fully reversible by reversing the energy transfer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--02-changes-of-state.webp" width="900" height="980" alt="Solid, liquid and gas are stacked with small particle pictures. Melting (solid to liquid) and boiling or evaporating (liquid to gas) take energy in. Freezing (liquid to solid) and condensing (gas to liquid) give energy out." loading="lazy">
+  <figcaption>Melting, boiling or evaporating take in energy; freezing and condensing release it.</figcaption>
+</figure>
 
 ## Must-know definitions
 
@@ -93,6 +103,11 @@ Explaining the curve with kinetic particle theory is Supplement (1.1 outcome 5),
 
 A heating curve plots temperature against time: it **rises**, **flattens at the melting point**, **rises again**, then **flattens at the boiling point**. A cooling curve is the mirror image. The first step in interpreting one is always to identify the **flat sections (plateaus)** and state which change of state each one represents — the slopes just confirm the substance is warming or cooling within a single state.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--03-heating-curve.webp" width="900" height="880" alt="A sketch graph of temperature against time rises, goes flat at the melting point, rises, goes flat at the boiling point and rises again. Five particle boxes A to E match solid, melting, liquid, boiling and gas. The flat parts are changes of state where energy overcomes forces between particles." loading="lazy">
+  <figcaption>The flat parts of a heating curve are the changes of state.</figcaption>
+</figure>
+
 ## Diffusion — what makes it faster
 
 - **Higher temperature** → particles have more kinetic energy → faster.
@@ -100,6 +115,16 @@ A heating curve plots temperature against time: it **rises**, **flattens at the 
 - Fastest in **gases**, slower in liquids, negligible in solids — the same particle-spacing argument used throughout this topic.
 
 *(0620 Extended, 5070 required)* **The standard experiment:** ammonia (Mr 17) and hydrogen chloride (Mr 36.5) diffuse from opposite ends of a tube; the white ring of ammonium chloride forms **nearer the HCl end**, because the lighter NH₃ travels further in the same time — at the same temperature, particles with a smaller relative molecular mass move faster on average.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--05-diffusion.webp" width="900" height="990" alt="Gas or liquid particles that start crowded on one side spread randomly through the whole box, moving net from high to low concentration. In a solid the particles stay in fixed positions, so nothing spreads." loading="lazy">
+  <figcaption>Diffusion is net movement from high to low concentration, caused by random particle motion; it does not happen in solids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--06-ammonia-hcl-tube.webp" width="900" height="1000" alt="A tube has ammonia at the left end and hydrogen chloride at the right. Lighter ammonia (Mr 17) diffuses further than HCl (Mr 36.5), so the white ammonium chloride ring forms nearer the HCl end." loading="lazy">
+  <figcaption>Lighter ammonia travels further, so the white ring forms nearer the hydrogen chloride end.</figcaption>
+</figure>
 
 ## Describe vs explain — the tier trap
 

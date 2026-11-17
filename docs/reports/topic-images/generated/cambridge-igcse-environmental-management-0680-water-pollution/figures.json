@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-igcse-environmental-management-0680-water-pollution--01-five-sources.webp",
+  "width": 900,
+  "height": 855,
+  "after": "## Sources of water pollution",
+  "alt": "A schematic catchment, not to scale, with five numbered sources draining to one river: domestic waste from houses, sewage from a pipe, plastic litter, industrial wastewater from a factory, and fertiliser, manure and pesticides from farmland, reaching the river by runoff over the surface and by leaching through the soil.",
+  "caption": "Domestic waste, sewage, plastic, industry and farming all drain to the same river.",
+  "bytes": 119992
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-water-pollution--02-eutrophication-steps.webp",
+  "width": 900,
+  "height": 805,
+  "after": "## Impacts on people and the environment",
+  "alt": "Six linked steps: nitrate and phosphate ions arrive; algae grow rapidly into a bloom; the bloom blocks light so plants below die; the algae die; bacteria decompose the dead material and their respiration uses up dissolved oxygen; fish die or leave. A side arrow shows that organic content such as sewage feeds bacteria directly, so oxygen can fall before a bloom forms.",
+  "caption": "Nutrients, bloom, light blocked, algae die, bacteria use the oxygen, fish die.",
+  "bytes": 130202
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-water-pollution--03-acid-rain-lakes.webp",
+  "width": 900,
+  "height": 655,
+  "after": "## Impacts on people and the environment",
+  "alt": "Acid rain falls on a catchment and the lake becomes more acidic. Many fish, eggs and invertebrates such as insect larvae and snails cannot survive below certain pH values, so populations fall and the food web is disrupted. Acidic water also releases aluminium from soils into lakes, which damages fish gills.",
+  "caption": "Acidic water kills sensitive species and releases aluminium that damages fish gills.",
+  "bytes": 83082
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-water-pollution--04-biomagnification-data.webp",
+  "width": 900,
+  "height": 755,
+  "after": "## Worked example 1: interpreting biomagnification data",
+  "alt": "A log-scale bar chart of pesticide concentration in parts per million: water 0.00005, plankton 0.04, small fish 0.5, large fish 2.0 and fish-eating bird 25. The bird’s concentration is 500,000 times that of the water because the pesticide is stored in each organism and increases at each trophic level.",
+  "caption": "The bird holds the pesticide at 500,000 times the concentration in the water.",
+  "bytes": 99274
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-water-pollution--05-sewage-treatment.webp",
+  "width": 900,
+  "height": 620,
+  "after": "## Strategies for improving water quality",
+  "alt": "Four stages: screening removes solid objects and grit; solids settle in tanks; bacteria break down organic matter in well-aerated tanks; further treatment can remove nitrates and phosphates. Treatment protects rivers and reduces eutrophication downstream, but is expensive and can overflow in storms.",
+  "caption": "Screen, settle, let aerated bacteria break down organic matter, then strip out nutrients.",
+  "bytes": 101566
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-water-pollution--06-match-strategies.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## Strategies for improving water quality",
+  "alt": "Four rows link source, impact and strategy. Sewage causes cholera: improved sanitation and sewage treatment. Fertilisers, sewage and detergents cause eutrophication: nutrient removal at treatment works, limits on fertiliser near rivers and buffer strips. Industry causes toxic accumulation: legislation with discharge limits, permits, on-site treatment and fines. Pesticides bioaccumulate: banning the most persistent ones.",
+  "caption": "Each source needs its own strategy; sewage treatment does not fix industrial pollution.",
+  "bytes": 111814
+ }
+]

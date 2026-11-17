@@ -37,6 +37,11 @@ Condensed for the final weeks. For the full explanation, use the
 knowledge, literal and deeper meaning, how writers create effect
 through language, and an informed personal response.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--01-paper-2-structure.webp" width="900" height="584" alt="Paper 2 Texts, 50% of 3247, has three parts: Part 1 Unseen Passage (20 marks, one passage-based question), Part 2 Poetry (15 marks, one of two essay questions on ten ghazals and three nazms) and Part 3 Prose (15 marks, one of two essay questions on eight articles). All test AO3 Literature." loading="lazy">
+  <figcaption>An unseen extract for 20 marks, then one poetry and one prose essay for 15 each.</figcaption>
+</figure>
+
 ## Part 1: Unseen Passage — a skill, not memorised content
 
 Cannot be prepared by memorising a text. Practise reading unfamiliar
@@ -44,6 +49,16 @@ extracts and identifying **how** the writer creates effect (word
 choice, imagery, structure) — not just summarising **what** the
 extract says. Use past-question prompts as a model for the kind of
 observation expected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--03-three-passes.webp" width="900" height="560" alt="Three readings: first, what happens or is said, with a one-sentence summary; second, how it feels, marking the words that carry the mood; third, how it is done, naming the technique behind each marked word and its effect." loading="lazy">
+  <figcaption>What, then how it feels, then how it is done.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--04-toolkit.webp" width="900" height="1072" alt="Ten Urdu critical terms with English equivalents and the question each prompts: تشبیہ simile, استعارہ metaphor, پیکر تراشی / منظر نگاری imagery, تضاد contrast, تکرار repetition, علامت symbol, لہجہ tone, کردار نگاری characterisation, مکالمہ dialogue and طنز / مزاح satire and humour. Poetry adds form, such as قافیہ and ردیف." loading="lazy">
+  <figcaption>Every term comes with a question about its effect.</figcaption>
+</figure>
 
 ## Part 2 Poetry — the prescribed list
 
@@ -54,12 +69,27 @@ Jafree's *"Admee"*, Mahmood Sarhadi's *"Qitaat"*.
 
 Choose **1 of 2** essay questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--02-set-texts.webp" width="900" height="684" alt="Part 2 Poetry: ten ghazals by Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms by Hali (Musadas Hali, 17 stanzas), Syed Zameer Jafree (Admee) and Mirza Mahmood Sarhadi (Qitaat). Part 3 Prose: eight articles, including two of Ghalib's letters." loading="lazy">
+  <figcaption>Know each prescribed text in depth, with quotations ready.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--04-ghazal-anatomy.webp" width="900" height="936" alt="A schematic ghazal of independent couplets. In the opening couplet (مطلع) both lines end in the rhyme (قافیہ) and refrain (ردیف); in later couplets only the second line does. The closing couplet (مقطع) usually carries the poet's pen name (تخلص)." loading="lazy">
+  <figcaption>Independent couplets: choose the ones that fit the question.</figcaption>
+</figure>
+
 ## Part 3 Prose — the prescribed list
 
 **8 articles**, including: Muhammad Hussain Azad, Mirza Farhatullah
 Baig, Ghulam Abbas, Ahmad Nadeem Qasmi, Sir Syed Ahmed Khan, Mushtaq
 Ahmed Yousafi, Syed Imtiaz Ali Taj, and two of Ghalib's letters
 (*Khatoot-e-Ghalib*). Choose **1 of 2**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-prose-essay--03-prose-methods.webp" width="900" height="810" alt="Six methods with their Urdu terms: narrator (راوی), structure and rising tension (عروج), characterisation (کردار نگاری), irony and satire (طنز), humour (مزاح) and the conversational style of letters, as in a letter opening بھائی! کیا پوچھتے ہو؟ کیا لکھوں؟. A surprise ending (چونکا دینے والا انجام) can change the whole reading." loading="lazy">
+  <figcaption>Name the method, then show its effect at a specific moment.</figcaption>
+</figure>
 
 ## What the mark schemes actually reward
 
@@ -75,6 +105,11 @@ Increasing depth of the same four qualities, across all three parts:
 engagement with the writer's craft**, not just accurate comprehension
 — this is the single biggest gap between a mid-band and top-band
 response.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--03-mark-scheme-rewards.webp" width="900" height="674" alt="Four qualities rewarded in increasing depth: a personal, informed response; understanding beyond the literal; explicit engagement with the writer's craft (word choice, imagery, structure, tone); and close, well-selected reference to the text. The top levels need sustained, perceptive engagement with craft." loading="lazy">
+  <figcaption>Accurate comprehension is not enough: the top levels reward how the writer works.</figcaption>
+</figure>
 
 ## Worked example: a strong Part 2 answer structure
 
@@ -92,6 +127,11 @@ Strong answer:  Identifies specific sher (couplets), explains the
 
 This identify → explain → connect structure applies equally to Part
 3 Prose essay answers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--05-worked-example.webp" width="900" height="516" alt="A strong poetry answer identifies specific lines (sher), explains the imagery or word choice in them, and connects that language to the emotion or theme in the question. A weak answer summarises the poem's subject without close reference." loading="lazy">
+  <figcaption>Quote, explain the language, then tie it to the question.</figcaption>
+</figure>
 
 ## Why this differs from 3248 Second Language Urdu
 
@@ -115,6 +155,11 @@ textual depth -- with specific quotable lines ready -- than to have a
 shallow, general familiarity with the entire prescribed list. This
 still leaves a genuine fallback option if one particular question
 doesn't suit the texts you know best.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--06-coverage-targets.webp" width="900" height="580" alt="The guide's revision targets: know at least six of the ten prescribed ghazals, two of the three nazms and five of the eight prose articles in close textual detail, and time each part so Part 1 does not crowd out the essays." loading="lazy">
+  <figcaption>Enough depth across the list to keep both questions open.</figcaption>
+</figure>
 
 ## Time management across the three parts
 

@@ -74,6 +74,26 @@ strategy has been.
 - *National:* national parks (Khunjerab, Margalla Hills, Kirthar, Hingol); protection of the Indus river dolphin.
 - *International:* WWF, UN conventions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--01-pollution.webp" width="900" height="455" alt="A table of air, water, soil and noise pollution. Air pollution from vehicles, brick kilns, industry and burning causes winter smog and illness; water pollution from sewage, industrial waste and farm chemicals causes disease and harms fish; soil pollution lowers yields; noise causes stress and hearing damage." loading="lazy">
+  <figcaption>Each type of pollution has its own causes and its own harm to health or livelihoods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--02-deforestation.webp" width="900" height="452" alt="Three linked columns. Causes: fuelwood and timber, clearing land, over-grazing and illegal logging. Impacts: soil erosion and landslides, worse floods, silting of reservoirs such as Tarbela, and habitat and carbon loss. Responses: the Billion Tree Tsunami from 2014, the Ten Billion Tree Tsunami from 2018, mangrove protection, LPG and community management." loading="lazy">
+  <figcaption>Losing forest speeds erosion and flooding; tree planting and protection respond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--03-desertification.webp" width="900" height="508" alt="Three linked columns. Causes: unreliable rainfall and drought, over-grazing, cutting shrubs, over-pumping groundwater and salty irrigation. Impacts: lost farmland and grazing, falling incomes, migration and dust storms. Responses: shelter belts, controlled grazing, drip irrigation, water harvesting and reclaiming saline land." loading="lazy">
+  <figcaption>Natural drought and human misuse together spread desert conditions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--04-biodiversity-scales.webp" width="900" height="700" alt="Three nested rings. Local: markhor trophy-hunting income shared with villages that protect the animals. National: national parks such as Khunjerab, Margalla Hills, Kirthar and Hingol, wildlife laws and protection of the Indus river dolphin. International: work with WWF and the UN and conventions on biodiversity and wetlands." loading="lazy">
+  <figcaption>Conservation works at local, national and international scales.</figcaption>
+</figure>
+
 ## Climate change
 
 **Consequences**
@@ -94,6 +114,16 @@ strategy has been.
 **Agreements:** Paris Agreement (keep warming well below 2°C); National Adaptation Plan (2023); push
 for a loss and damage fund at the 2022 UN climate conference.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--05-climate-change-impacts.webp" width="900" height="613" alt="Pakistan produces a very small share of global emissions but is among the most vulnerable countries. Five consequences follow: heatwaves such as Karachi 2015, glacier melt and outburst floods, extreme monsoon floods such as 2022 (over 1,700 deaths and about US$30 billion of damage and losses), droughts, and sea-level rise in the Indus delta. Together these lower yields, damage infrastructure, spread disease and increase poverty." loading="lazy">
+  <figcaption>Pakistan contributes little to climate change but suffers heavily from it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--06-mitigation-adaptation.webp" width="900" height="589" alt="Agreements and policy (the Paris Agreement, the 2023 National Adaptation Plan and the loss and damage fund) branch into mitigation, which reduces the causes through renewables, electric vehicles, mass transit and reforestation, and adaptation, which reduces the impacts through early warnings, NDMA planning, heatwave plans, flood resilience and glacial lake projects." loading="lazy">
+  <figcaption>Mitigation tackles the causes; adaptation prepares for the impacts.</figcaption>
+</figure>
+
 ## Development and equality
 
 - **Least developed:** Balochistan and the former tribal districts (merged into KP in 2018).
@@ -102,6 +132,11 @@ for a loss and damage fund at the 2022 UN climate conference.
 - **Education:** Article 25A (free schooling 5–16); girls' stipends; local schools; female teachers.
 - **Gender:** reserved seats, anti-harassment and anti-violence laws.
 - **Food security:** price rises, floods and drought threaten supply; child stunting is widespread; strategies include farmer support, water management, wheat reserves, nutrition programmes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--07-uneven-development.webp" width="900" height="749" alt="Four factors (physical, economic, social and political) leave Balochistan and the former tribal districts least developed. A table evaluates three strategies: the National Finance Commission award, whose 2010 version increased the provinces’ share; cash transfers through BISP and Ehsaas, which help the poorest but are small; and CPEC projects, with mixed results so far." loading="lazy">
+  <figcaption>Revenue sharing and cash transfers help, but the gap between regions persists.</figcaption>
+</figure>
 
 ## Judging effectiveness: a quick framework
 

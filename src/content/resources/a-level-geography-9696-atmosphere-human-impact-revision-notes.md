@@ -46,6 +46,11 @@ Condensed recall for **2.4 The human impact** on the atmosphere: the enhanced gr
 
 Shortwave radiation from the sun passes through the atmosphere largely unabsorbed and heats the surface. The surface emits longwave radiation, which greenhouse gases absorb and re-emit in all directions, including back down. Without this natural effect the Earth's average surface temperature would be well below freezing. Adding more greenhouse gases increases the longwave energy returned to the surface, so the lower atmosphere warms further: the **enhanced** effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--01-gc-energy-balance.webp" width="900" height="1040" alt="Shortwave radiation from the Sun passes through the atmosphere to the surface. The surface emits longwave radiation upwards. Greenhouse gases absorb some of it and re-emit it, warming the lower atmosphere, and the rest escapes to space." loading="lazy">
+  <figcaption>Greenhouse gases absorb some outgoing longwave radiation and re-emit it, warming the lower atmosphere.</figcaption>
+</figure>
+
 ## Enhanced greenhouse effect
 
 **Causes (human):** burning fossil fuels, deforestation (less carbon dioxide removed), livestock and rice farming (methane), and fertiliser use. **Natural factors** also change climate: orbital changes, solar output, volcanic eruptions.
@@ -74,6 +79,11 @@ More specific impacts to explain:
 - warming greatest in the Arctic, partly because melting snow and ice lower the albedo, a **positive feedback**;
 - water vapour itself is a greenhouse gas, so warming that raises vapour content amplifies the warming.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--03-gc-albedo-loop.webp" width="900" height="920" alt="Warming melts ice, which lowers albedo so less sunlight is reflected. The surface absorbs more energy, so warming increases further and the loop repeats. Each pass amplifies the warming, so it is a positive feedback loop." loading="lazy">
+  <figcaption>Melting ice lowers albedo, so more energy is absorbed and warming increases further.</figcaption>
+</figure>
+
 ## Required urban climate case study
 
 Choose one urban area and know its effects on:
@@ -82,6 +92,11 @@ Choose one urban area and know its effects on:
 - **Humidity:** usually lower than in rural areas because surfaces are sealed and drained quickly.
 - **Precipitation:** convection over warm cities and pollution particles acting as condensation nuclei can increase rain and thunderstorms.
 - **Winds:** buildings reduce mean speeds, but tall blocks can channel gusts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--05-heat-island.webp" width="900" height="1100" alt="Side view, not to scale: temperature is highest over the dark, built-up centre and lower over suburbs and rural land. Causes: heat-absorbing surfaces, little vegetation and waste heat." loading="lazy">
+  <figcaption>The urban heat island and its three causes from the lesson.</figcaption>
+</figure>
 
 ## Worked case study outline: London
 

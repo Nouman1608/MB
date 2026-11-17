@@ -1,0 +1,65 @@
+[
+ {
+  "file": "cambridge-igcse-commerce-0715-trade-and-commerce--01-commerce-tree.webp",
+  "width": 900,
+  "height": 655,
+  "after": "## How is trade different from commerce? (1.1.1)",
+  "alt": "A tree. Commerce splits into trade and aids to trade. Trade divides into home trade (retail and wholesale) and international trade (exports and imports). The six aids to trade are communications, transport, warehousing, advertising, banking and insurance.",
+  "caption": "Trade is only one part of commerce; commerce adds the services that make trade possible.",
+  "bytes": 90284
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-trade-and-commerce--02-home-and-international-trade.webp",
+  "width": 900,
+  "height": 630,
+  "after": "## What are home trade and international trade? (1.1.1)",
+  "alt": "Inside Country A, a producer sells in bulk to a wholesaler (wholesale trade) and a retailer sells small quantities to consumers (retail trade). Goods sold to a buyer in Country B are exports, bringing money in; goods bought from Country B are imports, sending money out.",
+  "caption": "Ask where the buyer and seller are: same country is home trade, different countries is international trade.",
+  "bytes": 94118
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-trade-and-commerce--03-aids-remove-barriers.webp",
+  "width": 900,
+  "height": 635,
+  "after": "## What are aids to trade? (1.1.2)",
+  "alt": "Between producer and consumer stand six barriers, each removed by one aid to trade: lack of information by communications, distance by transport, time by warehousing, lack of knowledge by advertising, payment and finance by banking, and risk by insurance.",
+  "caption": "Link each aid to the barrier it removes to turn a list into an explanation.",
+  "bytes": 88080
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-trade-and-commerce--04-logistics.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## What is logistics? (1.1.2)",
+  "alt": "Top: goods move by transport from supplier to producer, warehouse, retailer and consumer. Middle: a freight forwarder combines small loads from several customers into one shipment, booking space and helping prepare documents. Bottom: the aim of logistics.",
+  "caption": "Logistics manages transport, freight forwarding and warehousing as one flow.",
+  "bytes": 90986
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-trade-and-commerce--05-four-types-of-commerce.webp",
+  "width": 900,
+  "height": 605,
+  "after": "## What are the four types of commerce? (1.1.3)",
+  "alt": "Traditional commerce happens at a physical location. Ecommerce happens via the internet and contains two forms: mcommerce via a mobile device and scommerce via social media channels, each with an example.",
+  "caption": "The channel decides the type: a place, a website, a mobile device or social media.",
+  "bytes": 92102
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-trade-and-commerce--06-interdependence.webp",
+  "width": 900,
+  "height": 725,
+  "after": "## How are production, trade and commerce interdependent? (1.1.4)",
+  "alt": "Four links: production needs trade to sell its goods; trade needs production for something to sell; trade needs commerce because buyers and sellers are far apart and exposed to risk; and commerce needs production and trade for its income.",
+  "caption": "Show the dependence running in more than one direction.",
+  "bytes": 110722
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-trade-and-commerce--07-classifying-transactions.webp",
+  "width": 900,
+  "height": 570,
+  "after": "## Worked example: classifying transactions",
+  "alt": "Four transactions for Country X: a supermarket selling bread is home retail trade by traditional commerce; chairs sold abroad via a website are an export by ecommerce; juice bought from a wholesaler’s app is home wholesale trade by mcommerce; a dress bought from an overseas social media shop is an import by scommerce.",
+  "caption": "Classify the trade by where buyer and seller are, and the commerce by the channel used.",
+  "bytes": 91744
+ }
+]

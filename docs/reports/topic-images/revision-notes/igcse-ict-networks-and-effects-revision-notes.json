@@ -1,0 +1,14 @@
+{ "page": "igcse-ict-networks-and-effects-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-ict-networks--01-net-router.webp", "after": "## 4.1 The router — three named functions" },
+ { "src": "https://img.marlbridge.com/igcse-ict-networks--02-net-hub-switch-bridge.webp", "after": "## 4.1 Other network devices" },
+ { "src": "https://img.marlbridge.com/igcse-ict-networks--03-net-wifi-bluetooth.webp", "after": "## 4.1 Wi-fi vs Bluetooth" },
+ { "src": "https://img.marlbridge.com/igcse-ict-networks--06-net-cloud-storage.webp", "after": "## 4.1 Cloud computing" },
+ { "src": "https://img.marlbridge.com/igcse-ict-networks--04-net-environments.webp", "after": "## 4.1 Extranet, intranet, internet" },
+ { "src": "https://img.marlbridge.com/igcse-ict-networks--05-net-lan-wlan-wan.webp", "after": "## 4.1 LAN, WLAN, WAN" },
+ { "src": "https://img.marlbridge.com/igcse-ict-network-issues-and-communication--08-sec-passwords.webp", "after": "## 4.2 Passwords" },
+ { "src": "https://img.marlbridge.com/igcse-ict-network-issues-and-communication--09-sec-authentication.webp", "after": "## 4.2 Authentication beyond passwords" },
+ { "src": "https://img.marlbridge.com/igcse-ict-network-issues-and-communication--10-sec-anti-malware.webp", "after": "## 4.2 Anti-malware" },
+ { "src": "https://img.marlbridge.com/igcse-ict-network-issues-and-communication--11-conf-types.webp", "after": "## 4.2 Electronic conferencing" },
+ { "src": "https://img.marlbridge.com/igcse-ict-network-issues-and-communication--12-conf-choose.webp", "after": "## Worked example: matching the tool to the need" },
+ { "src": "https://img.marlbridge.com/igcse-ict-network-issues-and-communication--07-sec-interception.webp", "after": "## Why 4.2 depends on 4.1" }
+] }

@@ -52,6 +52,11 @@ At subduction zones, earthquakes occur along a sloping band within the sinking p
 
 Hawaii is the classic example: as the Pacific Plate moves over the plume, older volcanoes are carried away and become extinct, forming a chain that gets older with distance from the active island.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-geophysical-hazards-study-guide--14-g-plate-boundaries.webp" width="900" height="1110" alt="Three schematic panels. Divergent: two plates move apart and magma rises at a ridge or rift, with shallow earthquakes and basaltic volcanoes. Convergent: an oceanic plate is subducted beneath a continental plate, forming a trench, powerful earthquakes and an explosive volcano. Transform: in plan view two plates slide past each other along a fault, producing strong shallow earthquakes without destroying crust." loading="lazy">
+  <figcaption>Divergent plates move apart, convergent plates move together and may subduct, and transform plates slide past each other.</figcaption>
+</figure>
+
 ## Earthquakes
 
 - Release stored strain energy when rock slips along a fault.
@@ -68,6 +73,16 @@ Hawaii is the classic example: as the Pacific Plate moves over the plume, older 
 
 **Shallow-focus** earthquakes are generally more damaging than deep ones of the same magnitude, because less energy is lost before the waves reach the surface.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-geophysical-hazards-study-guide--15-g-focus-epicentre.webp" width="900" height="830" alt="A cross-section of the ground with a tilted fault. Rock suddenly slips along the fault at a point underground called the focus, shown as a star. The epicentre is the point on the surface directly above the focus, joined to it by a dashed vertical line. Dashed rings spread out from the focus to show seismic waves, and arrows along the surface show surface waves moving away from the epicentre." loading="lazy">
+  <figcaption>The focus is where rock ruptures; the epicentre is the surface point directly above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-geophysical-hazards-study-guide--16-g-magnitude.webp" width="900" height="1055" alt="Comparing a magnitude 7.1 earthquake with a magnitude 5.1 earthquake, a difference of 2 units. Three bars show ground motion amplitude rising tenfold per unit: 1, 10 and 100 times. A grid of 1,000 small squares beside a single square shows that the larger earthquake releases about 1,000 times more energy, because each whole number is about 32 times more energy and 31.6 squared is close to 1,000." loading="lazy">
+  <figcaption>Two magnitude units mean 100 times the ground motion and about 1,000 times the energy.</figcaption>
+</figure>
+
 ## Volcanic hazards
 
 Lava flows, pyroclastic flows, ash fall, gas emissions, lahars, and tsunami for submarine or coastal events. The **Volcanic Explosivity Index** classifies eruption size. Link **magma viscosity and gas content** to eruption style.
@@ -82,6 +97,11 @@ The VEI runs from 0 to 8 and is logarithmic, based mainly on the volume of mater
 
 - **Pyroclastic flow:** a fast, extremely hot avalanche of gas, ash and rock that hugs the ground; the most deadly volcanic hazard close to the vent.
 - **Lahar:** a volcanic mudflow formed when ash and debris mix with water from rain, melting snow and ice, or a crater lake; it can travel far down valleys.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-geophysical-hazards-study-guide--17-g-volcano-hazards.webp" width="900" height="1010" alt="A cross-section of a cone-shaped volcano with a magma chamber below and a conduit to the crater. Numbered hazards: 1 ash fall from the eruption cloud, 2 a pyroclastic flow racing down one slope, 3 a lava flow down the other slope, 4 gas emissions from the vent and 5 a lahar, a mudflow, in the valley at the foot of the volcano." loading="lazy">
+  <figcaption>Volcanic hazards include ash fall, pyroclastic flows, lava flows, gas emissions and lahars.</figcaption>
+</figure>
 
 ## Related hazards
 

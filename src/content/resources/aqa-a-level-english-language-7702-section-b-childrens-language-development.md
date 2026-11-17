@@ -51,6 +51,11 @@ Ages are approximate; children vary widely, and the essay should never treat an 
 | Telegraphic | From around 2 years | Content words with function words and inflections often missing ("mummy go shop") |
 | Post-telegraphic | From around 3 years | Function words, inflections and more complex clauses; virtuous errors |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-childrens-language-development--01-spoken-stages.webp" width="900" height="655" alt="Five stages in order with rough ages: pre-verbal babbling such as &quot;bababa&quot;, holophrastic single words such as &quot;juice&quot;, two-word combinations such as &quot;daddy car&quot;, telegraphic speech such as &quot;mummy go shop&quot;, and post-telegraphic speech with function words, inflections and virtuous errors." loading="lazy">
+  <figcaption>The order is the point; the ages are approximate and children vary widely.</figcaption>
+</figure>
+
 ## Phonological development
 
 Children simplify adult targets in regular, patterned ways. Name the process precisely:
@@ -64,6 +69,11 @@ Children simplify adult targets in regular, patterned ways. Name the process pre
 Berko and Brown's "fis" phenomenon (1960) shows that perception runs ahead of production: a child who says "fis"
 for "fish" may still reject an adult who says "fis".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-childrens-language-development--02-phonological-processes.webp" width="900" height="692" alt="Five processes with the lesson's examples: deletion (&quot;nana&quot; for &quot;banana&quot;), substitution by fronting (&quot;tat&quot; for &quot;cat&quot;), assimilation (&quot;gog&quot; for &quot;dog&quot;), consonant cluster reduction (&quot;pider&quot; for &quot;spider&quot;) and reduplication (&quot;wawa&quot; for &quot;water&quot;). A note explains the &quot;fis&quot; phenomenon." loading="lazy">
+  <figcaption>Children simplify adult words in regular patterns; name the process precisely.</figcaption>
+</figure>
+
 ## Lexical and semantic development
 
 Early vocabulary is dominated by naming words, with action words, social words ("bye-bye") and some modifiers.
@@ -72,6 +82,16 @@ meanings through **overextension** ("dog" for all four-legged animals) and **und
 family pet). Leslie Rescorla's research distinguished categorical, analogical and mismatch overextensions. Jean
 Aitchison describes three processes: **labelling** (linking a word to a thing), **packaging** (finding the limits of
 a word's meaning) and **network building** (relating words to each other, such as opposites and categories).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-childrens-language-development--03-aitchison-processes.webp" width="900" height="580" alt="Jean Aitchison's three processes in order: labelling, linking a word to a thing; packaging, finding the limits of a word's meaning; and network building, relating words to each other through opposites and categories." loading="lazy">
+  <figcaption>Labelling, packaging and network building describe how word meanings are refined.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-1--16-p1-word-meaning.webp" width="900" height="960" alt="Two panels using “dog”. Overextension: the child’s meaning, a dashed circle, is wider than the adult meaning and includes other animals, so any four-legged animal is called dog. Underextension: the child’s meaning is a small dashed circle inside the adult meaning, limited to the family pet. Both are common as children refine word meaning." loading="lazy">
+  <figcaption>Overextension and underextension of a word’s meaning.</figcaption>
+</figure>
 
 ## Grammatical development
 
@@ -84,12 +104,22 @@ a word's meaning) and **network building** (relating words to each other, such a
 - **Questions** typically move from rising intonation ("daddy gone?"), to wh-words without inversion ("where daddy
   going?"), to inversion of subject and auxiliary ("where is daddy going?").
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-childrens-language-development--04-grammar-sequences.webp" width="900" height="700" alt="Inflections appear with &quot;-ing&quot; and plural &quot;-s&quot; early and regular &quot;-ed&quot; and third-person &quot;-s&quot; later. Negatives move from &quot;no bed&quot; to &quot;I no want it&quot; to &quot;I don't want it&quot;, and questions from &quot;daddy gone?&quot; to &quot;where daddy going?&quot; to &quot;where is daddy going?&quot;. Virtuous errors such as &quot;goed&quot; show a rule over-applied." loading="lazy">
+  <figcaption>Inflections, negatives and questions each develop in a typical order.</figcaption>
+</figure>
+
 ## Pragmatic development and functions
 
 Pragmatic development is learning to use language appropriately in context: turn-taking, politeness routines ("say
 please"), repair when misunderstood, and awareness of what a listener knows. Michael Halliday's functions
 (instrumental, regulatory, interactional, personal, heuristic, imaginative, representational) let you classify what
 an utterance *does*, and show functions widening as the child grows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-1--15-p1-halliday.webp" width="900" height="990" alt="An early utterance has arrows to seven boxes, the functions in Halliday’s model: instrumental (satisfying needs, “want juice”); regulatory (controlling others’ behaviour, “go away”); interactional (maintaining relationships); personal (expressing identity or feelings); heuristic (exploring and questioning, “why?”); imaginative (play and storytelling); representational (conveying information and facts)." loading="lazy">
+  <figcaption>Halliday’s seven functions of children’s language.</figcaption>
+</figure>
 
 ## Writing development
 
@@ -100,6 +130,11 @@ differences between speech and writing, and of genre) and **integration** (a per
 audience). Spelling errors are often logical: phonetic spellings ("sed"), over-generalised rules ("cryed"),
 omissions and transpositions. Genres matter: a story, a recount, a letter and a set of instructions each bring
 different structures, and school writing often shows taught features such as time connectives.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-childrens-language-development--05-kroll-writing-stages.webp" width="900" height="635" alt="Barry Kroll's four stages as rising steps: preparation (motor skills and basic spelling), consolidation (writing like speech with &quot;and then&quot; chaining), differentiation (awareness of speech, writing and genre) and integration (a personal voice controlling style for audience). Below, logical spelling errors: phonetic, over-generalised, omissions and transpositions." loading="lazy">
+  <figcaption>Writing moves from mechanics, through speech-like writing, to a controlled personal voice.</figcaption>
+</figure>
 
 ## Theories and research: positions to evaluate
 
@@ -112,6 +147,11 @@ different structures, and school writing often shows taught features such as tim
 
 **Child-directed speech** (higher pitch, simpler syntax, repetition, questions, expansions and recasts) is the
 evidence most often linked to interactionist views.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-childrens-language-development--06-theories-and-limitations.webp" width="900" height="715" alt="Four theoretical positions with their key figures, core claims and a limitation each: behaviourist (Skinner), nativist (Chomsky), cognitive (Piaget) and social interactionist (Bruner and Vygotsky). A note lists features of child-directed speech, the evidence most often linked to interactionist views." loading="lazy">
+  <figcaption>Treat each theory as an explanation with strengths and limits, not a fact.</figcaption>
+</figure>
 
 ## Worked example: data and an essay paragraph
 
@@ -138,6 +178,11 @@ support for development. The data therefore suggests that rule formation and int
 either explaining development alone.*
 
 The paragraph quotes data, names features precisely, links to two theories and reaches a qualified judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-childrens-language-development--07-annotated-transcript.webp" width="900" height="721" alt="The lesson's original transcript of Tom and his mother, with annotations: Tom's virtuous error &quot;goed&quot;, telegraphic omissions and a correct plural, and the mother's recast, tag question, wh-questions and expansion. Two boxes link the data to nativist rule formation and Bruner's interactionist view." loading="lazy">
+  <figcaption>Quote the data, name the feature, then weigh it against more than one theory.</figcaption>
+</figure>
 
 ## Exam technique for the discursive essay
 

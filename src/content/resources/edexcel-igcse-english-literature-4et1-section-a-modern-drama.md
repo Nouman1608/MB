@@ -48,6 +48,11 @@ If your centre follows the coursework route, the same play is assessed through C
 instead; the skills on this page still apply, but the conditions differ (see the
 [Component 3 study guide](/resources/igcse-edexcel-english-literature-component-3/)).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-2--08-c2-paper-layout.webp" width="900" height="780" alt="A clock shows 1 hour 30 minutes for 60 marks. Two equal cards show Section A, Modern drama, 30 marks, assessed on AO1 and AO2, and Section B, Literary heritage, 30 marks, assessed on AO1, AO2 and AO4. Each section asks for one essay chosen from two." loading="lazy">
+  <figcaption>Two 30-mark essays: drama is marked on AO1 and AO2, the heritage text also on AO4.</figcaption>
+</figure>
+
 ## The two assessment objectives
 
 - **AO1**: close knowledge and understanding of the play, a critical style and an informed personal
@@ -78,6 +83,11 @@ you for noticing them.
 
 Always link the method to the **audience**: "an audience would feel..." or "on stage, this would...".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-modern-drama--01-play-as-a-play.webp" width="900" height="716" alt="Eight dramatic methods surround the audience at the centre: stage directions, entrances and exits, dramatic irony, narrators and framing, structure, dialogue, staging and setting, and characters as devices. Below, treating the play like a novel is contrasted with writing about what an audience sees on stage." loading="lazy">
+  <figcaption>AO2 rewards the playwright’s tools beyond words, each linked to the audience.</figcaption>
+</figure>
+
 ## Applying the methods to the set plays
 
 Each play offers distinctive dramatic methods to analyse:
@@ -93,6 +103,11 @@ Each play offers distinctive dramatic methods to analyse:
   writing and highly physical staging to let the audience experience the world from his perspective.
 - *Death and the King's Horseman*: music, drumming, dance and ritual language are central to meaning;
   Soyinka's own note to the play cautions against reading it simply as a clash of cultures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-modern-drama--02-methods-in-set-plays.webp" width="900" height="840" alt="Five rows, one per modern drama set play, each with a small icon of its distinctive method: a lighting change in An Inspector Calls, Alfieri addressing the audience in A View from the Bridge, past and present sharing the stage in Kindertransport, narration and physical staging in The Curious Incident of the Dog in the Night-time, and music and drumming in Death and the King’s Horseman." loading="lazy">
+  <figcaption>Each set play has dramatic methods that only work on stage.</figcaption>
+</figure>
 
 ## Worked example 1: a character question
 
@@ -125,6 +140,16 @@ and, finally, what the family is forced to see.
 The paragraph makes a claim (AO1), analyses structure and stage directions with their effect on an
 audience (AO2) and uses the open-book text precisely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-modern-drama--03-inspector-plan.webp" width="900" height="799" alt="An overview states that the Inspector’s power comes from moral authority and control of the drama. Four planned paragraphs follow the play from his entrance, through his control of structure and his direct language, to his exit and the final telephone call, each tagged with the dramatic method it analyses." loading="lazy">
+  <figcaption>Plan from entrance to exit, and tag each paragraph with a method.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-modern-drama--04-sample-paragraph-anatomy.webp" width="900" height="708" alt="The sample paragraph on the Inspector’s entrance broken into five parts: a claim, the timing of the doorbell as a structural method, the lighting change to “brighter and harder” as a stage direction, the effect on the audience, and a link back to the Inspector’s power. Each part is tagged AO1 or AO2." loading="lazy">
+  <figcaption>Claim, methods, effect on the audience, link back: AO1 and AO2 in one paragraph.</figcaption>
+</figure>
+
 ## Worked example 2: a tension question
 
 If asked how tension is created in a key scene of *A View from the Bridge*, choose a moment where staging
@@ -133,6 +158,11 @@ carries meaning, such as the end of Act One, when Marco lifts the chair. Analyse
 Alfieri's framing has already told us the story will end badly, so the audience watches with dread.
 The method is the same as for any question: claim, method, effect on the audience.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-modern-drama--05-tension-view-from-the-bridge.webp" width="900" height="611" alt="Three methods at the end of Act One of A View from the Bridge feed one effect: Marco silently lifting the chair, the shift in power between Eddie and Marco, and Alfieri’s framing that has already told the audience the story will end badly. Together they make the audience watch with dread. Below: claim, method, effect on the audience." loading="lazy">
+  <figcaption>Staging, a power shift and the narrator’s framing combine to create dread.</figcaption>
+</figure>
+
 ## Open-book technique
 
 - **Know where things are.** Practise finding key scenes, speeches and stage directions quickly from
@@ -140,6 +170,11 @@ The method is the same as for any question: claim, method, effect on the audienc
 - **Use the book, do not copy it.** Quote a few words; long quotations waste time and hide your point.
 - **Plan first.** Decide your three or four moments before opening the text, then look up the evidence.
 - **Watch the clock.** Searching the play can swallow time; limit yourself to a quick check per point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-modern-drama--06-open-book-technique.webp" width="900" height="605" alt="A banner gives about 45 minutes per essay including planning. Four tiles: know where scenes and stage directions are, quote a few words rather than copying, plan three or four moments before opening the text, and limit each look-up to a quick check. The exam copy must be completely unmarked." loading="lazy">
+  <figcaption>The open book saves memorising, but only if you can find things fast.</figcaption>
+</figure>
 
 ## Common mistakes
 

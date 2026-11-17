@@ -68,6 +68,11 @@ Fuller explanations of 2.3: [what influences our social identity study guide](/r
 | **Cultural defence** | Strengthening identity when a culture feels threatened |
 | **Pick and mix identity** | Postmodern idea of choosing identity through consumption and lifestyle |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--01-sanctions-grid.webp" width="900" height="664" alt="A grid of formal and informal control against positive and negative sanctions. Formal positive: reduced sentences, honours, tax relief. Formal negative: fines, arrest, prison. Informal positive: praise, likes, a pay rise. Informal negative: gossip, ostracism, detention." loading="lazy">
+  <figcaption>Formal control rewards as well as punishes; informal control can punish harshly.</figcaption>
+</figure>
+
 ## 2.2 How society controls us
 
 **Formal agencies and methods**
@@ -97,6 +102,21 @@ a sense of belonging, identity or excitement. Examples include environmental pro
 subcultures (for example punks in the 1970s), online subcultures (gaming communities, fandoms) and
 religious subcultures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--04-formal-agencies.webp" width="900" height="722" alt="Formal agencies in sequence with a method and a limit: government makes laws, police arrest and use digital surveillance, courts sentence, and the penal system imprisons, though reoffending is common. The armed forces use coercion in emergencies but risk losing legitimacy." loading="lazy">
+  <figcaption>Each formal agency has its own method and its own limit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--03-perspectives-on-control.webp" width="900" height="517" alt="Functionalism sees control as protecting shared values for everyone; Marxism sees it serving the ruling class through laws and the repressive state apparatus; feminism sees it maintaining patriarchy at home, in public and at work. A criticism sits under each." loading="lazy">
+  <figcaption>One consensus view, two conflict views, each with a weakness.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--07-types-of-resistance.webp" width="900" height="670" alt="Examples of resistance: protest groups such as the suffragettes and Extinction Rebellion; youth sub-cultures such as mods, rockers and punks; online sub-cultures such as gamers, fandoms and hackers; and the Amish as a religious sub-culture." loading="lazy">
+  <figcaption>Control is never complete: resistance takes protest, youth, online and religious forms.</figcaption>
+</figure>
+
 ## 2.3 What influences social identity
 
 - **Age:** life stages are socially constructed and vary between cultures (Pilcher, 1995).
@@ -110,6 +130,21 @@ religious subcultures.
   diversity, multiculturalism and global culture.
 - **Postmodernism:** identity chosen through consumption and lifestyle; critics say choice is limited
   by money and social position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--01-age-socially-constructed.webp" width="900" height="501" alt="Two life-course bars. Where young people take on adult work and marriage early, youth is short; where education is long, youth extends into the twenties. Old age is respected in some cultures and stereotyped as dependent in others. Pilcher (1995) sees age as a source of identity and inequality." loading="lazy">
+  <figcaption>Childhood, youth, adulthood and old age mean different things in different societies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--04-digital-self.webp" width="900" height="678" alt="A level balance weighing positive impacts of the digital self (freedom of expression, virtual communities, ties with distant family, activism) against negative impacts (pressure to look perfect, cyberbullying, filter bubbles, privacy risks). boyd (2014) says social media extends social life; Turkle (2011) warns it may weaken face-to-face relationships." loading="lazy">
+  <figcaption>Online identity brings freedom and connection, but also pressure and risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--06-chosen-or-given.webp" width="900" height="679" alt="A level balance. On one side, postmodernists say identity is chosen in a pick-and-mix society of consumption and lifestyle, with Bauman’s liquid identities and multiple digital selves. On the other, critics say money, class, gender, ethnicity, family and religion still limit choice. The exam asks for a judgement." loading="lazy">
+  <figcaption>Weigh the pick-and-mix view against the limits of class, gender, ethnicity and money.</figcaption>
+</figure>
 
 ## Worked example: an 8-mark "discuss" answer plan
 

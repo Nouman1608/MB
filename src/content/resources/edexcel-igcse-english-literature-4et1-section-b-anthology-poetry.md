@@ -62,6 +62,11 @@ Comparison works on three levels, and strong answers use all three:
 2. **Methods**: how each poet uses language, form and structure to say it.
 3. **Effects**: how the reader's response differs as a result.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-anthology-poetry--01-three-levels-of-comparison.webp" width="900" height="708" alt="Poem 1 and Poem 2 are linked by two-way arrows at three levels: ideas and attitudes about the question’s focus, the methods each poet uses, and the different effects on the reader. A note says AO3 credit comes from the relationship between the poems." loading="lazy">
+  <figcaption>Strong answers compare ideas, methods and effects, not just content.</figcaption>
+</figure>
+
 ## Theme clusters across the sixteen poems
 
 Revising in pairs and clusters prepares you for both question types. The groupings below are starting
@@ -79,6 +84,11 @@ points; most poems belong in more than one.
 For each pair you revise, write three lines: a shared idea, one key difference in attitude, and one key
 difference in method.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-anthology-poetry--02-theme-clusters.webp" width="900" height="946" alt="Six theme clusters on the left are linked to the sixteen anthology poems on the right: parents and children, childhood, death and suffering, love and loss, power and control, and identity and language. Piano, Do not go gentle into that good night, Remember and La Belle Dame sans Merci each belong to two clusters." loading="lazy">
+  <figcaption>Most poems fit more than one cluster, so revise them in pairs.</figcaption>
+</figure>
+
 ## Form as a point of comparison
 
 Several anthology poems use recognisable forms, which give you ready-made comparisons:
@@ -93,6 +103,11 @@ Several anthology poems use recognisable forms, which give you ready-made compar
 
 Saying "both are sonnets" is a start. Saying how each poet uses the sonnet's turn differently is
 comparison.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-anthology-poetry--03-form-comparison.webp" width="900" height="842" alt="Two sonnets drawn as fourteen lines each. Sonnet 116 builds an argument to a closing rhyming couplet; Remember turns after line 8, from request to permission in the sestet. Cards below name other anthology forms: a villanelle, a dramatic monologue, a ballad, and free or broken form." loading="lazy">
+  <figcaption>Compare how each poet uses a form, not just which form it is.</figcaption>
+</figure>
 
 ## Worked example: a named-pair question
 
@@ -119,6 +134,16 @@ remembered but wanting the beloved to be happy."
 Notice the shape: a comparative connective ("Where"), a method in each poem (couplet; sestet), and a
 difference in effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-anthology-poetry--04-sonnet-116-remember-plan.webp" width="900" height="798" alt="An overview, then four comparison points, each setting Sonnet 116 beside Remember: constancy versus release, how each sonnet turns, time and death, and voice and the reader. Every row moves between both poems." loading="lazy">
+  <figcaption>Each paragraph is one point of comparison, with both poems in it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-anthology-poetry--05-comparative-sentence.webp" width="900" height="516" alt="The guide’s sample sentence split into four labelled parts: the connective “Where”, a method in Sonnet 116 (the couplet), a method in Remember (the sestet), and the difference in effect. A row of other comparative connectives follows: whereas, similarly, in contrast, both, however, unlike." loading="lazy">
+  <figcaption>Connective, a method in each poem, and the difference it makes.</figcaption>
+</figure>
+
 ## Worked example: choosing your own second poem
 
 If a question names *Piano* and asks you to compare how memory is presented with a poem of your choice,
@@ -132,6 +157,11 @@ compare memories of childhood told through very different tones. Ask yourself:
 
 Choose in the first two minutes and do not change your mind.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-anthology-poetry--06-choosing-second-poem.webp" width="900" height="738" alt="Piano is named in a question on memory. Two possible partners branch from it: Poem at Thirty-Nine, with two adult speakers remembering a parent, and Half-past Two, with childhood memories in a very different tone. A checklist asks whether the second poem gives three comparable points, differs in method and is known well enough." loading="lazy">
+  <figcaption>Pick a partner that shares the focus but differs in method, and decide fast.</figcaption>
+</figure>
+
 ## Writing the comparison
 
 - **Open with a comparative overview**: one or two sentences covering both poems.
@@ -141,6 +171,11 @@ Choose in the first two minutes and do not change your mind.
 - **Keep quotations short**: a word or phrase from each poem is enough for a precise point.
 - **Finish with a judgement**, not a summary: which presentation is more hopeful, more unsettling or
   more convincing, and why?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--04-e4-section-b-compare.webp" width="900" height="830" alt="Two essay plans. Poem-by-poem blocks leave comparison to the end. The by-point plan shows each point with poem 1 and poem 2 side by side and a double arrow between them in every paragraph." loading="lazy">
+  <figcaption>Organise by point of comparison and keep comparing in every paragraph.</figcaption>
+</figure>
 
 ## Common mistakes
 

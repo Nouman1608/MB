@@ -1,0 +1,9 @@
+{ "page": "oxfordaqa-igcse-computer-science-9210-string-handling-operations-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--01-string-positions.webp", "after": "## Operations on `s ← \"Harare\"` (positions from 0)"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--02-length-and-position.webp", "after": "## Operations on `s ← \"Harare\"` (positions from 0)"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--05-character-codes.webp", "after": "## Character codes (ASCII)"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--06-shift-cipher.webp", "after": "## Character codes (ASCII)"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--07-building-a-username.webp", "after": "## Conversions"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--03-character-loop.webp", "after": "## Template loops"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--04-split-at-space.webp", "after": "## Common patterns"}
+] }

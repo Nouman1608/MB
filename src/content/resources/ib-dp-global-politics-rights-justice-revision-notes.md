@@ -44,6 +44,11 @@ creates with universal rights claims), **legitimacy** (whether a rights claim or
 accepted as valid), and **interdependence** (how rights issues in one place create pressure or
 obligations elsewhere, for example through international human rights law).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-rights-justice--01-four-concepts.webp" width="900" height="673" alt="Rights and justice at the centre linked to the four core concepts: power (who defines or enforces a right), sovereignty (a state’s claim to decide rights internally against universal claims), legitimacy (whether a claim or its denial is accepted) and interdependence (pressure and obligations beyond the state)." loading="lazy">
+  <figcaption>The same four concepts structure every rights answer.</figcaption>
+</figure>
+
 ## Worked example: applying the four concepts to a rights issue
 
 A question asks students to analyse a contemporary human rights issue using the course's core
@@ -69,6 +74,11 @@ Structuring an answer around all four concepts explicitly -- rather than describ
 in isolation -- is the assessed skill this thematic study specifically rewards, and the same structure
 applies equally to Development and sustainability or Peace and conflict.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-rights-justice--02-four-step-analysis.webp" width="900" height="701" alt="Four questions to work through in order: who has the power to define or enforce the right; whether the state claims sovereign authority and how that meets international frameworks; whether positions are accepted as legitimate; and what pressures or obligations reach actors beyond the state." loading="lazy">
+  <figcaption>Work through all four concepts explicitly rather than describing the issue.</figcaption>
+</figure>
+
 ## Building a case-study bank
 
 Because the guide is explicitly built around "contemporary real-world examples," keep a
@@ -85,6 +95,11 @@ Rights; the "Responsibility to protect" (R2P) norm; and civil society organisati
 Rights Watch and Amnesty International. Naming the specific treaty, institution or case a claim rests
 on, rather than referring only to "an international body" in general terms, is itself part of what
 Paper 2 rewards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-rights-justice--03-institutions.webp" width="900" height="708" alt="Anchors for a rights case log: the 1948 Universal Declaration of Human Rights; international bodies (ICJ, UN Human Rights Council, UNHCR, ICC); regional courts in Europe, the Americas and Africa; the Responsibility to Protect norm; and civil society organisations such as Human Rights Watch and Amnesty International." loading="lazy">
+  <figcaption>Precise names of frameworks and institutions are part of what Paper 2 rewards.</figcaption>
+</figure>
 
 ## Engagement project connections
 
@@ -104,6 +119,11 @@ situation (Peace and conflict) also raises rights violations (Rights and justice
 population. This kind of cross-theme fluency, using the same four core concepts throughout, reflects
 the genuinely interconnected way real political issues rarely respect the syllabus's own theme
 boundaries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-rights-justice--04-cross-theme.webp" width="900" height="703" alt="A triangle of the three thematic studies. Rights and justice links to peace and conflict, where conflict raises rights violations for the same population, and to development and sustainability, where unequal outcomes raise questions of distributive justice. The same four core concepts apply throughout." loading="lazy">
+  <figcaption>Real issues cross theme boundaries; so should your examples.</figcaption>
+</figure>
 
 ## Exam traps
 
@@ -127,6 +147,11 @@ the core topics). Because the same two-section format applies
 across all three thematic studies, practising this structure once with Rights and justice content
 builds a technique directly transferable to Development and sustainability and Peace and conflict as
 well.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-rights-justice--05-paper-2.webp" width="900" height="593" alt="Paper 2 has two sections. In section A candidates answer one thematic-study-specific essay, one set per thematic study. In section B they answer one integrating essay linking all three thematic studies and the core topics." loading="lazy">
+  <figcaption>One thematic essay plus one integrating essay: practise both with rights content.</figcaption>
+</figure>
 
 ## Self-test
 

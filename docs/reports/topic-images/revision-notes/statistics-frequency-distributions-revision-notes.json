@@ -1,0 +1,7 @@
+{ "page": "statistics-frequency-distributions-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--15-grouped-and-ungrouped.webp", "after": "## Grouped vs ungrouped (outcome 1)"},
+ {"src": "https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--16-limits-boundaries-midpoints-widths.webp", "after": "## Discrete vs continuous class terminology (outcome 2) -- the most error-prone sub-topic"},
+ {"src": "https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--17-frequency-density-histogram.webp", "after": "## Histograms (outcome 3)"},
+ {"src": "https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--18-frequency-polygons.webp", "after": "## Frequency polygons (outcome 4)"},
+ {"src": "https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--19-cumulative-frequency.webp", "after": "## Cumulative frequency (outcomes 5–6)"}
+] }

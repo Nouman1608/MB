@@ -1,0 +1,11 @@
+{ "page": "a-law-underlying-principles-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-edexcel-law-underlying-principles--21-supremacy-limits.webp", "after": "## Parliamentary law making" },
+ { "src": "https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--02-spectrum-of-approaches.webp", "after": "## Statutory interpretation" },
+ { "src": "https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--03-interpretation-aids.webp", "after": "## Statutory interpretation" },
+ { "src": "https://img.marlbridge.com/edexcel-a-level-law-yla1-doctrine-of-precedent--01-ratio-and-obiter.webp", "after": "## Judicial precedent" },
+ { "src": "https://img.marlbridge.com/edexcel-a-level-law-yla1-doctrine-of-precedent--06-distinguish-overrule-reverse.webp", "after": "## Judicial precedent" },
+ { "src": "https://img.marlbridge.com/edexcel-a-level-law-yla1-doctrine-of-precedent--05-practice-statement-timeline.webp", "after": "## Judicial precedent" },
+ { "src": "https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--02-law-reform-influences.webp", "after": "## Law reform" },
+ { "src": "https://img.marlbridge.com/a-level-edexcel-law-underlying-principles--20-law-and-morality.webp", "after": "## Law and morality" },
+ { "src": "https://img.marlbridge.com/edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--06-hart-devlin-cases.webp", "after": "## Law and morality" }
+] }

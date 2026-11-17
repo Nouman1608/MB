@@ -36,6 +36,11 @@ Language A (4EA1). For explanations and worked paragraphs, use the
 | Marks | 30: AO1 12, AO2 18 |
 | Advised time | About 45 minutes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts--01-section-a-in-component-2.webp" width="900" height="510" alt="Component 2 lasts 1 hour 30 minutes for 60 marks. Section A takes about 45 minutes for one 30-mark essay, split 12 marks for AO1 and 18 for AO2, on one poem or prose text from Anthology Part 2 that is printed in the exam. Section B is the other 45 minutes and 30 marks." loading="lazy">
+  <figcaption>Section A is half of Component 2, and AO2 is most of Section A.</figcaption>
+</figure>
+
 ## Text revision grid
 
 | Text | Situation in brief | Methods worth revising |
@@ -50,6 +55,16 @@ Language A (4EA1). For explanations and worked paragraphs, use the
 | "Significant Cigarettes" (Tremain) | Lev, a migrant travelling to London, meets a fellow passenger | Close third-person viewpoint; cigarettes as a motif; memory of home |
 | "Whistle and I'll Come to You" (Hill) | A narrator staying at an isolated house on the marshes, with only a dog for company, is drawn into danger | First-person retrospective narration; Gothic setting; sound and suspense |
 | "Night" (Munro) | A narrator recalls sleepless nights in her youth and a conversation with her father | Retrospective adult voice; night setting; restrained dialogue |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts--02-revision-card.webp" width="900" height="667" alt="A revision card with five headings: situation in two sentences; viewpoint and voice; structure (opening, turn, ending, time); three key methods with short references; and ideas and perspectives with one alternative reading." loading="lazy">
+  <figcaption>Five headings per text, and know where the key moments are.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts--05-disabled-now-and-then.webp" width="900" height="599" alt="The poem moves between a dark present, where the man sits alone in a wheelchair waiting for dark, and a remembered past full of light, crowds and admiration. Each return to the present feels like a fresh loss, and the poem ends on the repeated question “Why don’t they come?”." loading="lazy">
+  <figcaption>Owen shows loss through the movement between now and then.</figcaption>
+</figure>
 
 ## AO1 and AO2 in practice
 
@@ -82,6 +97,11 @@ Language A (4EA1). For explanations and worked paragraphs, use the
 - **Each paragraph:** point, short reference, method, effect, link to the focus.
 - **Conclusion:** what the writer suggests overall; an alternative reading if you have one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts--06-building-the-essay.webp" width="900" height="738" alt="An essay of an introduction with a thesis, three or four body paragraphs moving through the opening, a turning point and the ending, and a short conclusion. Every body paragraph runs: point on the focus, short reference, method, effect on the reader, link to the question." loading="lazy">
+  <figcaption>Track the text from opening to ending, one method or moment per paragraph.</figcaption>
+</figure>
+
 ## Poetry versus prose: what to look for
 
 | Poetry | Prose |
@@ -91,6 +111,11 @@ Language A (4EA1). For explanations and worked paragraphs, use the
 | Rhyme, rhythm, refrain | Dialogue and silence |
 | Voice and addressee | Narrator and viewpoint |
 | Final line or stanza | Ending: twist, open or closed |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts--03-poem-prose-toolkits.webp" width="900" height="686" alt="Two columns of AO2 features. For a poem: form and stanza shape, line breaks and enjambment, caesura, repetition and refrain, rhyme and rhythm, and voice and address. For prose: narrative viewpoint, pacing, structure, dialogue, and setting and symbolism, each with its typical effect." loading="lazy">
+  <figcaption>Poems and prose share methods, but each has its own toolkit.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -82,6 +82,11 @@ This is not a sign of weakness. It is the difference between an argument that wa
 
 The revised thesis must still be **defensible and specific**, a claim that needs proof. "Homework is complicated" is not a revision; it is a retreat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-4-revising-thesis-study-guide--01-six-ways-to-revise.webp" width="900" height="768" alt="The thesis “Schools should end homework” sits in the centre with six revisions around it: narrow (for children under eleven), qualify (probably limit), add a condition (unless short, regular practice), broaden (all out-of-school work), reverse (keep but cap) and refocus (how much, not whether)." loading="lazy">
+  <figcaption>Narrow, qualify, add a condition, broaden, reverse or refocus, but keep a claim.</figcaption>
+</figure>
+
 ## A method for revising
 
 1. **State the current thesis.**
@@ -94,6 +99,11 @@ The revised thesis must still be **defensible and specific**, a claim that needs
 
 The key rule is that **the evidence shapes the claim**, not the reverse. Selecting only evidence that supports a first idea, and discarding the rest, is a way of fooling yourself, and a sceptical reader will see it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-4-revising-thesis-study-guide--02-revision-method.webp" width="900" height="646" alt="Seven numbered steps: state the current thesis, list the evidence, test the thesis, choose a revision, write the new thesis, revise the line of reasoning, and check commentary, with a loop back to the start as new evidence arrives. A warning against keeping only the evidence that suits the first idea." loading="lazy">
+  <figcaption>Test the thesis against all the evidence, then revise the claim and the paragraphs.</figcaption>
+</figure>
+
 ## Weak and strong responses to new evidence
 
 > **Weak:** The writer finds that a study shows homework helps in maths. The writer ignores it and keeps the thesis "Schools should end homework."
@@ -103,6 +113,11 @@ The key rule is that **the evidence shapes the claim**, not the reverse. Selecti
 > **Strong:** The writer finds the study, weighs it against the other evidence and revises: "Schools should end homework for young children and limit it for older students to short, regular practice in subjects like maths, where it appears to help."
 
 The strong version keeps a clear claim and uses the contrary evidence to make the claim more precise, and arguably more convincing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-4-revising-thesis-study-guide--03-three-responses.webp" width="900" height="433" alt="New evidence that homework helps in maths leads three ways: ignoring it and keeping the thesis (weak), abandoning the argument with “Homework is neither good nor bad” (weak), or revising to end homework for young children and limit it to short practice for older students (strong)." loading="lazy">
+  <figcaption>Use contrary evidence to make the claim more precise, not to drop it.</figcaption>
+</figure>
 
 ## Worked example 1: revising a thesis
 
@@ -136,6 +151,11 @@ The strong version keeps a clear claim and uses the contrary evidence to make th
 
 **Step 6: Check.** The thesis is specific, defensible and consistent with all three pieces of evidence. The paragraphs lead to the claim in a logical order, and the evidence that first seemed to damage the argument now supports its limit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-4-revising-thesis-study-guide--04-homework-revision.webp" width="900" height="678" alt="Three pieces of invented evidence tested against “Schools should end homework”: E1 (maths practice helps) contradicts it, E2 (long homework costs sleep) supports a claim about excess, E3 (no fall in results under eleven) supports ending it for young children. The revised thesis narrows and adds a condition, and the new paragraphs follow E2, E3, E1." loading="lazy">
+  <figcaption>The evidence that first damaged the argument now supports its limit.</figcaption>
+</figure>
+
 ## Worked example 2: noticing a revision in a text
 
 Read this passage (Marlbridge passage).
@@ -153,6 +173,11 @@ Read this passage (Marlbridge passage).
 **Step 5: Describe the effect on the line of reasoning.** The argument now has to show not only that residents want the square but also how it can be designed to protect the shops.
 
 **Step 6: Write the analysis sentence.** *The writer moves from an unqualified claim, based on residents' preferences, to a conditional one, after meeting evidence that the change can harm shops, which makes the final position more credible because it responds to a counter-example.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-4-revising-thesis-study-guide--05-car-park-revision.webp" width="900" height="445" alt="A three-step flow: the original thesis that the town should simply close its car park, new evidence from a planner that shops at the edge of a new square lost trade, and the revised thesis that it should close only if the square is designed around the shops. Notes name the revision as an added condition and its effect on the reasoning." loading="lazy">
+  <figcaption>A condition that answers a counter-example makes the claim more credible.</figcaption>
+</figure>
 
 ## Common misconceptions
 

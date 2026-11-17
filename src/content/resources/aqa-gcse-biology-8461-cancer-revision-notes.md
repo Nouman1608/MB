@@ -74,6 +74,11 @@ means it does not spread, not that it is always harmless.
 5. There they settle and divide, forming secondary tumours.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--07-hl-tumours.webp" width="900" height="1240" alt="A benign tumour of abnormal cells stays contained within a membrane and does not invade. A malignant tumour invades neighbouring tissue, cells travel in the blood and form a secondary tumour elsewhere. Schematic, not to scale." loading="lazy">
+  <figcaption>Benign tumours stay put; malignant tumours invade and spread in the blood.</figcaption>
+</figure>
+
 ## What are the risk factors for cancer?
 
 Scientists have identified **lifestyle** risk factors for various cancers. Some cancers also have **genetic**
@@ -92,6 +97,16 @@ A risk factor raises the chance of a cancer. It does not make the cancer certain
 skin cancer over ten years, compared with 6 in every 10 000 people who did not. 18 / 6 = 3, so the sunbed users
 were **three times** as likely to develop skin cancer. The data show a correlation; to say UV light causes the
 cancer you also need a mechanism (UV damages DNA in skin cells) and a large, representative sample.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--06-hl-lifestyle-links.webp" width="900" height="860" alt="Lines join each lifestyle risk factor to the diseases it raises: diet, exercise and smoking to cardiovascular disease, smoking to lung disease and harm to the unborn baby, alcohol to liver and brain damage and harm to the baby, obesity to Type 2 diabetes, carcinogens to cancer." loading="lazy">
+  <figcaption>Which risk factor is linked to which disease or effect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--05-hl-risk-data.webp" width="900" height="1040" alt="Two grids of 1 000 people each, with 45 highlighted among smokers and 9 among non-smokers, so smokers were 5 times as likely to develop the lung disease. Concluding cause needs a mechanism, a large representative sample and agreeing studies." loading="lazy">
+  <figcaption>45 in 1 000 smokers against 9 in 1 000 non-smokers is a five-fold difference.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

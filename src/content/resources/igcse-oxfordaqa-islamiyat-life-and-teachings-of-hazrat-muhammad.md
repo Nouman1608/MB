@@ -55,6 +55,11 @@ drinking, gambling and lending at interest were common; some families buried inf
 alive; women and slaves had few rights. Muslims call this period **Jahiliya**, the age of ignorance,
 although Arabs also valued hospitality, courage and poetry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--01-pre-islamic-arabia.webp" width="900" height="636" alt="Four panels describe pre-Islamic Arabia: religious (idols around the Ka'ba, a high god, Jewish and Christian communities and hanifs), political (no central state, tribes ruling themselves, the Quraysh controlling Makka), moral and social (blood feuds, drinking, gambling, interest, infanticide, few rights for women and slaves) and the values also held (hospitality, courage, poetry)." loading="lazy">
+  <figcaption>Jahiliya: idol worship, tribal rule and harsh customs, alongside real virtues.</figcaption>
+</figure>
+
 ## How was the Prophet (pbuh) raised?
 
 He was born in Makka around 570 CE, the Year of the Elephant, into the Banu Hashim clan of Quraysh.
@@ -70,6 +75,11 @@ the oppressed. He managed trade for **Hazrat Khadija (RA)**, a respected merchan
 reported his honesty; she proposed marriage, and they were married when he was about twenty-five.
 He was known for fair dealing, generosity to the poor and courage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--02-early-life.webp" width="900" height="614" alt="A timeline of the Prophet's early life: his father Abdullah dies before his birth around 570; he is nursed by Halima Sa'diya; his mother Amina dies when he is about six; his grandfather Abdul Muttalib and then his uncle Abu Talib raise him; Bahira advises protecting him; he becomes known as al-Amin and al-Sadiq; and he marries Hazrat Khadija (RA) at about twenty-five." loading="lazy">
+  <figcaption>A succession of carers, then a reputation for honesty that led to his marriage.</figcaption>
+</figure>
+
 ## How did the call to prophethood happen?
 
 From about the age of forty, the Prophet (pbuh) often withdrew to the **Cave of Hira** near Makka to
@@ -80,6 +90,11 @@ to cover him. **Hazrat Khadija (RA)** reassured him that Allah would never disgr
 to relatives, helped the weak and honoured guests, and became the first to accept Islam. She took
 him to her cousin **Waraqa ibn Nawfal**, a Christian scholar, who said that the same angel who had
 come to Musa (AS) had come to him and warned that his people would drive him out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--03-call-to-prophethood.webp" width="900" height="564" alt="Four stages: retreats to the Cave of Hira from about forty; in Ramadan 610 Jibril commands &quot;Read!&quot; and recites the first verses of Sura 96; at home Khadija reassures him and is the first to accept Islam; Waraqa ibn Nawfal recognises the angel who came to Musa and warns that his people will drive him out." loading="lazy">
+  <figcaption>From reflection in Hira to the first believer and Waraqa's warning.</figcaption>
+</figure>
 
 ## How did the early preaching develop?
 
@@ -105,6 +120,11 @@ and Abu Talib died. At **Ta'if** the Prophet (pbuh) was rejected and stoned, yet
 people rather than for their punishment. Finally the Makkan leaders **plotted to kill him**, choosing
 a young man from each clan so that blame would be shared.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--04-opposition-in-makkah.webp" width="900" height="654" alt="Left: four reasons the Makkan leaders opposed the Prophet (pbuh): the threat to idol-based trade, to their power and status, to ancestral custom, and their mockery of resurrection. Right: the escalation from mockery to persecution, the boycott of Banu Hashim, the Year of Sorrow, rejection at Ta'if and the plot to kill him." loading="lazy">
+  <figcaption>Economic, political and religious threats drove opposition that grew step by step.</figcaption>
+</figure>
+
 ## What happened in the Isra wal Mi'raj?
 
 In one night the Prophet (pbuh) was taken from Makka to al-Aqsa in Jerusalem (the Isra, Qur'an 17.1),
@@ -123,6 +143,11 @@ calendar. In Madinah he stayed with **Hazrat Abu Ayyub Ansari (RA)** while the *
 was built, after building a mosque at Quba on arrival. He paired each Muhajir with an Ansari as
 brothers, and drew up the **Charter of Madinah**, which made Muslims, Jews and other groups one
 community with shared defence, freedom of religion and the Prophet as final judge in disputes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--05-the-hijrah.webp" width="900" height="712" alt="Four numbered stages: the pledges of Aqaba; the night of the plot, with Hazrat Ali (RA) in the Prophet's bed and Hazrat Abu Bakr (RA) leaving with him; hiding in the cave of Thawr; and arrival in Madinah in 622. Below, the first steps there: the mosque at Quba, staying with Abu Ayyub Ansari, building the Prophet's Mosque, pairing Muhajirun with Ansar and the Charter of Madinah." loading="lazy">
+  <figcaption>The migration of 622 and the first steps in building a community in Madinah.</figcaption>
+</figure>
 
 ## Who supported him?
 
@@ -146,6 +171,11 @@ at Uhud. **Hazrat Zubair (RA)**, his cousin, was among the first Muslims and a l
 Islam. In 632 the Prophet (pbuh) led the **Farewell Pilgrimage** and gave the **Farewell Sermon** at
 Arafat. He died in Madinah later that year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--06-battles-and-treaties.webp" width="900" height="608" alt="A scaled timeline from 624 to 632 marking Badr (624, victory), Uhud (625, losses), the Trench (627, siege fails), Hudaibiyah and Khaibar (628), the conquest of Makkah and Hunayn (630), the Year of Delegations (630–631) and the Farewell Pilgrimage (632)." loading="lazy">
+  <figcaption>Eight years from Badr to the Farewell Pilgrimage.</figcaption>
+</figure>
+
 ## What are the key lessons of his life?
 
 The **Farewell Sermon** taught the sanctity of life, property and honour; the equality of all people,
@@ -153,6 +183,11 @@ with no superiority of Arab over non-Arab except by piety; the rights of women; 
 and blood feuds; and holding fast to the Qur'an. His life teaches **kindness to parents** (Qur'an
 17.23), **justice** even against oneself, **honesty** in trade and speech, and **patience** in
 hardship, as at Ta'if.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--07-farewell-sermon-and-lessons.webp" width="900" height="610" alt="Five teachings of the Farewell Sermon: the sanctity of life, property and honour; equality, with no superiority except by piety; the rights of women; the end of interest and blood feuds; and holding fast to the Qur'an. Below, four lessons from his life: kindness to parents, justice, honesty and patience." loading="lazy">
+  <figcaption>The Sermon's principles and the life lessons Muslims draw today.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

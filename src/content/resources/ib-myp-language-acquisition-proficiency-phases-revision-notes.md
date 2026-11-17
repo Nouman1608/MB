@@ -54,6 +54,11 @@ capable or proficient -- a coarser, summative categorisation used only for repor
 results, not for day-to-day classroom teaching. Every "level" reference elsewhere on this page means
 the three reporting levels, not the six teaching phases.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--01-phases-and-levels.webp" width="900" height="650" alt="Two separate scales. Six teaching phases form a continuum that each student moves through individually and that does not match age groups or MYP years. Three reporting levels, emergent, capable and proficient, give a summative course result where a school offers eAssessment. They serve different purposes and are not the same scale." loading="lazy">
+  <figcaption>Phases track learning in class; levels report the result. Do not treat them as one scale.</figcaption>
+</figure>
+
 ## Two mark scales — don't conflate them
 
 Classroom assessment scores each criterion on eight achievement levels (1-8), so a student's
@@ -63,6 +68,11 @@ bands; a **level of 0** is also awarded for work that does not reach any band, s
 scale: it allocates 24 raw marks to each criterion (with the actual distribution permitted to vary
 by up to three marks), so the eAssessment total across all four criteria is out of 96, not 128.
 Every mark figure below is the eAssessment blueprint figure, not the classroom one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--02-two-marking-scales.webp" width="900" height="750" alt="Each criterion, A listening, B reading, C speaking and D writing, is scored 0 to 8 for classroom assessment, giving a total of 0 to 32. Separately, the eAssessment blueprint gives each criterion 24 raw marks: A, B and D in the on-screen paper and C in a separate, internally marked, IB-moderated speaking examination." loading="lazy">
+  <figcaption>Levels 0–8 in class; 24 raw marks each in eAssessment. Do not mix the scales.</figcaption>
+</figure>
 
 ## The four criteria are independently weighted
 
@@ -101,12 +111,22 @@ Consequence:             the capable student should practise varied
 Practising at your confirmed level, rather than either under- or over-reaching, is more productive
 than generic "harder is always better" preparation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--03-matching-preparation-to-level.webp" width="900" height="615" alt="Writing expectations by level: emergent, simple sentences, basic vocabulary and formulaic expressions; capable, a range of structures, more precise vocabulary and register awareness; proficient, complex nuanced structures, idiom and sophisticated audience awareness. A capable student should target the capable column rather than under- or over-reaching." loading="lazy">
+  <figcaption>Neither under-reach nor over-reach: practise what your own level expects.</figcaption>
+</figure>
+
 ## Building a separate speaking-practice routine
 
 Because speaking is internally assessed and externally moderated as its own interactive task, build a
 genuinely separate revision routine for oral fluency — rehearsing spontaneous, interactive
 conversation under time pressure, not prepared monologues — rather than assuming comprehensive written
 revision automatically prepares you for it too.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--04-revision-balance.webp" width="900" height="640" alt="Listening, reading and writing share one on-screen paper and can be revised together; speaking is a separate strand. Each is worth 24 marks. Speaking needs its own routine of spontaneous, interactive conversation under time pressure, and over-investing in writing can hide a gap in speaking." loading="lazy">
+  <figcaption>Equal weights mean no single skill should dominate revision.</figcaption>
+</figure>
 
 ## Common mistakes
 
@@ -146,6 +166,11 @@ bilingual students pursuing courses of study in multiple languages within the MY
 Literature subject group instead. Confirming which pathway applies to you (Language Acquisition versus
 a bilingual Language and Literature route) is a basic but important check before assuming this
 subject's proficiency-level structure applies to your own course.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--05-pathway-check.webp" width="900" height="700" alt="A decision flow: Language Acquisition is compulsory in every MYP year, except for bilingual students studying multiple languages in the Language and Literature subject group instead. Both routes lead on to DP Language Acquisition or DP Studies in Language and Literature, where audience-and-purpose writing and unscripted speaking carry over." loading="lazy">
+  <figcaption>Check your pathway first; strong criterion habits carry into either DP route.</figcaption>
+</figure>
 
 ## Self-test
 

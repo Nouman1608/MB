@@ -1,0 +1,33 @@
+{
+ "page": "as-chem-nitrogen-sulfur-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/as-nitrogen-and-sulfur--01-n2-unreactive.webp",
+   "after": "## Why is nitrogen so unreactive?"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-nitrogen-and-sulfur--02-ammonia-base.webp",
+   "after": "## Why is ammonia a base?"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-nitrogen-and-sulfur--03-ammonium-test.webp",
+   "after": "## Why is ammonia a base?"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-nitrogen-and-sulfur--04-nox-sources.webp",
+   "after": "## Where do oxides of nitrogen come from?"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-nitrogen-and-sulfur--05-catalytic-converter.webp",
+   "after": "## Where do oxides of nitrogen come from?"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-nitrogen-and-sulfur--06-nox-smog-pan.webp",
+   "after": "## Where do oxides of nitrogen come from?"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-nitrogen-and-sulfur--07-nox-acid-rain.webp",
+   "after": "## How do SO₂ and NOₓ cause acid rain?"
+  }
+ ]
+}

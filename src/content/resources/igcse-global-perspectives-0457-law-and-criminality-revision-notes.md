@@ -57,6 +57,11 @@ Assessment objectives: **AO1 Research, analysis and evaluation**, **AO2 Reflecti
 | Recorded crime | Crime reported to and logged by police |
 | Vested interest | Someone gains from a particular outcome |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-law-and-criminality--02-purposes-of-justice.webp" width="900" height="770" alt="Four purposes of punishment around a central sentence: deterrence, retribution, rehabilitation and restorative justice. Reoffending is how many judge a policy. Below, decriminalisation (still against the rules but not a criminal offence, possibly fined) is contrasted with legalisation (the act becomes lawful)." loading="lazy">
+  <figcaption>Different views on crime often rest on different ideas of what punishment is for.</figcaption>
+</figure>
+
 ## Real-world examples at a glance
 
 Use these as research starting points. Verify them again before you cite them.
@@ -67,6 +72,16 @@ Use these as research starting points. Verify them again before you cite them.
 | Portugal, Law 30/2000 (in force July 2001) | Decriminalised personal possession and use of all illegal drugs; trafficking stayed criminal | National case for "crime or health issue?" | Other policies changed too, so causes of later trends are hard to isolate |
 | Minimum age of criminal responsibility | 10 in England and Wales; Scotland raised 8 to 12 by a 2019 Act; UN Committee on the Rights of the Child (General Comment No. 24, 2019) encourages at least 14 | National and global perspectives on one question | Shows values differ even between neighbouring systems |
 | Budapest Convention (2001) and UN Convention against Cybercrime (adopted 24 December 2024) | International treaties on cross-border online crime | Global cooperation as a course of action | Some human rights groups warned of surveillance risks |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-law-and-criminality--03-age-of-responsibility.webp" width="900" height="608" alt="A scale from 6 to 16 years marks the age of criminal responsibility: 10 in England and Wales; Scotland raised from 8 to 12 by its 2019 Act, in force from December 2021; and the UN Committee on the Rights of the Child encouraging at least 14 in General Comment No. 24 (2019)." loading="lazy">
+  <figcaption>One issue shows national differences inside the UK and a global perspective from a UN body.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-law-and-criminality--04-drug-possession-perspectives.webp" width="900" height="567" alt="Portugal decriminalised personal possession and use of drugs in July 2001 under Law 30/2000, with panels referring people to treatment; trafficking stayed a crime, and other policy changes make effects hard to attribute. Around the question of treating drug use as a crime: a police officer (arrests deter), a doctor (records block treatment), a finance department (prison costs) and a bereaved parent (either view)." loading="lazy">
+  <figcaption>Explain the reason behind each view before weighing them.</figcaption>
+</figure>
 
 ## Perspectives at a glance
 
@@ -94,6 +109,16 @@ Explain the reason behind each view with empathy before you weigh them (AO2).
 - **Perspective vs opinion.** A perspective rests on evidence and reasoning; an opinion need not.
 - **Local, national, global.** The Individual Report needs local and/or national *and* global perspectives; the Team Project needs a local issue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-law-and-criminality--07-crime-evidence-traps.webp" width="900" height="529" alt="Four traps in crime evidence: recorded crime is not all crime, so a rise can mean more crime, more reporting or new recording rules; fear of crime is not crime; correlation is not causation; and programmes may report only self-selected participants. A good suggested test names method, sample, comparison and measure." loading="lazy">
+  <figcaption>Ask what a crime figure actually measures before trusting it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-law-and-criminality--06-harwell-lighting.webp" width="900" height="757" alt="Bar chart for the fictional town of Harwell: recorded thefts on newly lit streets fell from 52 to 39 (25%), but in a nearby area with no new lights they fell from 48 to 38 (about 21%). Most of the fall may have happened anyway; a better test compares several lit and unlit streets over two years before and after, with a residents’ survey." loading="lazy">
+  <figcaption>A comparison area shows how much of a change would have happened anyway.</figcaption>
+</figure>
+
 ## Mini essay plan: assessing actions (Component 1 Question 4 style)
 
 *Question type:* "Which action would be most effective in reducing youth crime in the town described in the sources? Explain your judgement with reasons and evidence."
@@ -106,6 +131,11 @@ Explain the reason behind each view with empathy before you weigh them (AO2).
 6. **Judgement**: choose one (or a combination), say why it beats the others, and name the evidence that would make you more confident.
 
 The real exam marks extended answers using levels of response, so the quality of the comparison and judgement matters more than the number of points.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-law-and-criminality--08-patrols-vs-mentoring.webp" width="900" height="610" alt="Two actions on town-centre shoplifting placed on a timeline: police patrols give quick reassurance but do not address causes and may move crime elsewhere; a mentoring scheme targets a cause but takes longer and costs more per person. The judgement uses patrols briefly while mentoring is set up." loading="lazy">
+  <figcaption>Combine a quick action with one that tackles the cause.</figcaption>
+</figure>
 
 ## Quick self-test
 

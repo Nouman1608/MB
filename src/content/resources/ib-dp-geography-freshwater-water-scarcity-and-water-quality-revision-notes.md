@@ -86,6 +86,11 @@ Further quality indicators include **biochemical oxygen demand** (BOD, how much 
 
 Some blooms are of cyanobacteria that produce toxins. In 2014 a toxic bloom in Lake Erie led the city of Toledo, Ohio, to warn hundreds of thousands of residents not to drink tap water for a few days, a clear example of agricultural runoff affecting urban supply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--12-w-eutrophication.webp" width="900" height="940" alt="Three stacked lake cross-sections show eutrophication in order. One: nutrients from fertiliser and sewage enter the lake and algae bloom at the surface, while dissolved oxygen is high. Two: the algae die and sink, and bacteria decomposing them use up dissolved oxygen, so the oxygen gauge falls. Three: oxygen is very low and fish die. Oxygen gauges are illustrative." loading="lazy">
+  <figcaption>Nutrients cause algal blooms; the algae die and decompose, bacteria use up dissolved oxygen, and fish die.</figcaption>
+</figure>
+
 ## Physical versus economic scarcity
 
 | | Physical | Economic |

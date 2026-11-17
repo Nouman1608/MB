@@ -72,6 +72,11 @@ Ask these questions before you design anything:
 
 Being **respectful** of the audience means avoiding language, images or humour that could offend, and not talking down to them. Being **responsive** means changing the solution after finding out what they need, for example by testing a draft with a sample of the audience.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-audience-study-guide--08-audience-three-pages.webp" width="900" height="780" alt="Three simple page sketches: bright cartoon and big text for children 6 to 8, heading, bullets and a bar chart for company managers, and very large high-contrast text with space for elderly residents. Unsuitable choices are listed below." loading="lazy">
+  <figcaption>Suitable design choices differ for children, managers and elderly residents.</figcaption>
+</figure>
+
 ### Worked example: justifying a choice
 
 *A museum is making a touch-screen guide for primary school visitors.* Feature + reason linked to the audience:
@@ -81,6 +86,16 @@ Being **respectful** of the audience means avoiding language, images or humour t
 3. Sound narration, **because** it helps children who cannot yet read every word.
 
 A feature without the "because" linked to the audience is unlikely to gain the mark.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-audience-study-guide--09-justify-feature.webp" width="900" height="830" alt="A nature reserve leaflet sketch beside two chains. Big colourful animal photos, because children stay interested and parents see what to visit. Short headed paragraphs with bullets and a map, because parents find times and trails quickly. Vague words with no audience reason earn no mark." loading="lazy">
+  <figcaption>Each feature needs a reason tied to the audience.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-audience-study-guide--07-audience-factors.webp" width="900" height="850" alt="A circle labelled Audience with six boxes: age, knowledge, interests and purpose, needs and abilities, setting, and culture and language, each with a short example from the lesson." loading="lazy">
+  <figcaption>Six things to adapt to the audience.</figcaption>
+</figure>
 
 ## 9.2 Why is copyright legislation needed?
 
@@ -98,6 +113,11 @@ Without the copyright owner's permission or a licence, it is illegal to:
 - Rent out software, or share it over a network or the internet.
 - Change the software and present it as your own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-audience-study-guide--11-can-i-use-it.webp" width="900" height="1015" alt="A decision chain. If you made it, use it freely. Otherwise ask whether you have permission or a licence; if not, whether it is open licence or public domain; if not, do not copy it. A note says naming the source is not permission." loading="lazy">
+  <figcaption>A short check for whether material may be used.</figcaption>
+</figure>
+
 ### What methods do software producers use to prevent piracy?
 
 | Method | How it works |
@@ -109,6 +129,11 @@ Without the copyright owner's permission or a licence, it is illegal to:
 | Digital rights management (DRM) | Software controls that restrict copying or limit the devices the software can be used on |
 | Encryption of the program code | The code cannot be read or copied without a key |
 | Holograms on packaging | Show buyers the product is genuine |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-audience-study-guide--12-anti-copying.webp" width="900" height="990" alt="Six tiles: licence agreement, product key, original disc or online check, hologram, digital rights management and watermark. A warning says pirated copies may carry malware and get no updates." loading="lazy">
+  <figcaption>Six ways makers discourage illegal copying.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-a-level-psychology-9990-consumer-decision-making--01-three-models.webp",
+  "width": 900,
+  "height": 612,
+  "after": "## Three models of how consumers decide",
+  "alt": "Three cards: utility theory (weigh all information, choose the highest expected value), satisficing (bounded rationality, accept the first option that meets a minimum standard) and prospect theory (gains and losses from a reference point, loss aversion). A table compares their predictions about framing and search.",
+  "caption": "Setting the models' predictions side by side is comparing, not just describing.",
+  "bytes": 131834
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-consumer-decision-making--02-prospect-theory-curve.webp",
+  "width": 900,
+  "height": 697,
+  "after": "## Three models of how consumers decide",
+  "alt": "An S-shaped curve through a reference point: the gains side rises and flattens, the losses side falls more steeply, so an equal loss feels worse than an equal gain feels good. Notes explain loss aversion and diminishing sensitivity. The shape is illustrative.",
+  "caption": "Measured from a reference point, losses hurt more than equal gains please.",
+  "bytes": 88598
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-consumer-decision-making--03-wansink-anchoring.webp",
+  "width": 900,
+  "height": 653,
+  "after": "## Choice heuristics (2.3.2)",
+  "alt": "Three in-store offers, multiple unit pricing (4 for £2), suggestive selling (buy 18 for your freezer) and a purchase limit (limit 12 per person), each supply a number that acts as an anchor. Shoppers adjust down from it too little, so they buy more items.",
+  "caption": "The number in the offer anchors how many items shoppers buy.",
+  "bytes": 76638
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-consumer-decision-making--04-system-1-system-2.webp",
+  "width": 900,
+  "height": 649,
+  "after": "## Mistakes in decision-making (2.3.3)",
+  "alt": "System 1 is fast, automatic and intuitive; system 2 is slow, deliberate and effortful. In the bat and ball problem, system 1 gives the wrong answer 10p while system 2 checking gives 5p. A note links this to consumer errors such as judging value from a SALE sign.",
+  "caption": "Errors happen when fast intuition answers a question that needs slow checking.",
+  "bytes": 99252
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-consumer-decision-making--05-hall-choice-blindness.webp",
+  "width": 900,
+  "height": 905,
+  "after": "## Mistakes in decision-making (2.3.3)",
+  "alt": "A double-ended container with a hidden divider is turned over so a shopper who chose jam or tea A is given the rejected B to re-sample and justify. Results: no more than a third of switches detected, no more than half even for very different pairs. A conclusion and an evaluation grid follow.",
+  "caption": "Most shoppers missed the switch and defended a choice they had not made.",
+  "bytes": 173618
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-consumer-decision-making--06-interference.webp",
+  "width": 900,
+  "height": 729,
+  "after": "## Mistakes in decision-making (2.3.3)",
+  "alt": "Two timelines. Retroactive: a rival advert shown later disrupts memory of an earlier Brand A advert, so the arrow points backwards. Proactive: an earlier rival advert disrupts learning of a later Brand A advert, so the arrow points forwards. The implication is to keep adverts away from direct competitors.",
+  "caption": "Retroactive works backwards on old memories; proactive works forwards on new learning.",
+  "bytes": 90902
+ }
+]

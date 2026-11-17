@@ -62,11 +62,21 @@ There are six components. They are easier to remember as six questions:
 
 The components are not separate boxes. They press on each other. A change in audience changes the purpose that is realistic. A change in context changes what counts as a persuasive message. When you describe a situation, you are describing a web, not a list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-1-rhetorical-situation-study-guide--01-six-components-web.webp" width="900" height="586" alt="Six boxes around a central circle labelled rhetorical situation: exigence (why now?), writer (who is speaking?), audience (who is listening?), purpose (what should it achieve?), context (where and when?) and message (what is being said?). Lines join every box to the centre and to each other." loading="lazy">
+  <figcaption>Describe the situation as a web: change one component and the others shift.</figcaption>
+</figure>
+
 ## Why the situation matters more than the topic
 
 Beginners often describe a text by its **topic** ("this is about libraries"). Topic is only part of the message. Two writers can write about the same topic in very different situations. A council report on library funding and a retired reader's letter to the local paper both concern libraries, but their writer, audience, purpose and context differ, so the diction, evidence and structure differ too. The report will lean on figures and neutral phrasing; the letter will lean on personal experience and direct appeal.
 
 Reading with the situation in mind turns "what does this say?" into the more useful question: **"why is it said this way, to these people, at this moment?"** That question is the doorway to everything else in the course: appeals, evidence, structure and style are all rhetorical *choices*, and a choice can only be judged against the situation it was made for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-1-rhetorical-situation-study-guide--02-same-topic-different-situation.webp" width="900" height="515" alt="One topic, libraries, branches into a council report on library funding and a retired reader’s letter to the local paper. The report leans on figures and neutral phrasing; the letter leans on personal experience and direct appeal." loading="lazy">
+  <figcaption>Topic is only part of the message: the situation decides how a text is written.</figcaption>
+</figure>
 
 ## Describing each component precisely
 
@@ -84,6 +94,16 @@ Precision means naming **who, what and when**, and it means using specific detai
 ### Exigence is not purpose
 
 Students often swap these two. The **exigence** is what *prompts* the writing; it looks backward or around you at a trigger. The **purpose** is what the writer *wants the text to do*; it looks forward to an effect. A writer who writes to a council because it voted to cut library hours has the vote as exigence and "persuade the council to reverse it" as purpose. The next topic, 1.2, takes this distinction further.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-1-rhetorical-situation-study-guide--03-vague-to-precise.webp" width="900" height="638" alt="Four rows turn vague labels into precise descriptions of the Gettysburg Address: “people” becomes citizens at a cemetery dedication and newspaper readers; “a long time ago” becomes November 1863 during a civil war; “to talk about the war” becomes giving the dead a meaning; “the war” becomes the dedication of a national cemetery." loading="lazy">
+  <figcaption>Precise descriptions name who, what and when; vague ones would fit any text.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-1-rhetorical-situation-study-guide--04-exigence-vs-purpose.webp" width="900" height="473" alt="A timeline: the council’s vote to cut library hours (exigence) prompts a letter, which aims to persuade the council to reverse the cut (purpose). Below, message is what the text says and purpose is what the writer wants it to do." loading="lazy">
+  <figcaption>Exigence is the trigger behind the text; purpose is the effect it aims at.</figcaption>
+</figure>
 
 ## A famous example: Lincoln at Gettysburg (1863)
 
@@ -114,6 +134,11 @@ Notice how the situation explains the style. The speech is very short and speaks
 
 **Check.** Each component is tied to a detail of the text or its date, and the final step explains an effect rather than naming a device. The answer would not fit any other speech.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-1-rhetorical-situation-study-guide--05-anthony-opening.webp" width="900" height="665" alt="Anthony’s opening sentence sits above four numbered boxes for exigence, writer, audience and context. A fifth step links two phrases to the situation: “fellow citizens” assumes the point in dispute, and “the alleged crime” uses neutral legal language to put the law on trial." loading="lazy">
+  <figcaption>Each component is tied to a detail, and the final step explains an effect.</figcaption>
+</figure>
+
 ## Worked example 2: an unseen letter (written by Marlbridge)
 
 Read this short letter, written by Marlbridge for practice.
@@ -132,6 +157,11 @@ Read this short letter, written by Marlbridge for practice.
 | Message | A library is part of what makes a town; the hours should be restored. | "It is part of what makes the town a town." |
 
 **Check.** Notice that the audience has two layers. The writer addresses the councillors directly but publishes in the paper. Spotting a **primary and a secondary audience** is often what separates a precise answer from a general one. Notice also how the situation explains the choices: the personal detail about being a bus driver builds the writer's credibility as an ordinary user, and the anticipated objection ("you will say the savings are needed") shows the writer knows what the council will argue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-1-rhetorical-situation-study-guide--06-primary-secondary-audience.webp" width="900" height="588" alt="The retired bus driver’s letter, published in the Larkfield Courier, reaches a primary audience of councillors through direct address and a secondary audience of Courier readers who might add public pressure. Two boxes explain how the personal detail builds credibility and how the anticipated objection shows awareness of the council." loading="lazy">
+  <figcaption>Spotting a primary and a secondary audience separates a precise answer from a general one.</figcaption>
+</figure>
 
 ## How the exam asks about the rhetorical situation
 

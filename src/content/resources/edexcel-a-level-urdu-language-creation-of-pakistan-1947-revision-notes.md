@@ -84,6 +84,11 @@ Theme 4 is پاکستانی سیاست کے رُخ (aspects of Pakistani politic
 
 Give causes, events and consequences in order, name the terms in Urdu, and keep to facts you have checked in a source. Where you give an opinion, support it with a reason and use a connective such as **نتیجتاً** or **اس کے علاوہ**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--06-connectives.webp" width="900" height="512" alt="Six Urdu connectives with meanings: اس کے برعکس in contrast, اس کے علاوہ in addition, نتیجتاً as a result, میرے خیال میں in my opinion, ایک طرف ... دوسری طرف on one hand ... on the other, and آخر میں finally." loading="lazy">
+  <figcaption>Learn connectives as building blocks and use each in a sentence of your own.</figcaption>
+</figure>
+
 ## Useful sentences with grammar notes
 
 1. **پاکستان 14 اگست 1947 کو معرضِ وجود میں آیا۔** (Pakistan came into being on 14 August 1947.) Dates take **کو**; پاکستان takes masculine agreement, so آیا.

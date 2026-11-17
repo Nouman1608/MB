@@ -1,0 +1,65 @@
+[
+ {
+  "file": "ib-dp-ess-human-populations-urban-systems--01-demographic-transition-model.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## 8.1 Human populations",
+  "alt": "Graph of birth rate and death rate across five stages. Both are high in stage 1; the death rate falls fast in stage 2 while birth rate stays high, giving rapid growth; birth rate falls in stage 3; both are low in stage 4; in proposed stage 5 the birth rate drops below the death rate and the population declines.",
+  "caption": "The gap between birth and death rates is natural increase; it widens, then closes.",
+  "bytes": 94538
+ },
+ {
+  "file": "ib-dp-ess-human-populations-urban-systems--02-population-pyramid-shapes.webp",
+  "width": 900,
+  "height": 685,
+  "after": "## 8.1 Human populations",
+  "alt": "Three schematic pyramids of males and females by age band. Expanding: a wide base and narrow top from a high birth rate. Stationary: straight sides from low birth and death rates. Contracting: a narrow base and wider middle and top from a birth rate below replacement.",
+  "caption": "The base shows recent births; the shape records a population’s history.",
+  "bytes": 75606
+ },
+ {
+  "file": "ib-dp-ess-human-populations-urban-systems--03-city-as-system.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## 8.2 Urban systems and urban planning",
+  "alt": "Systems diagram of a city. Inputs of food, water, energy, building materials, goods and people flow in; buildings, infrastructure, people and goods are stored; outputs of solid waste, sewage, air pollutants, greenhouse gases, waste heat, goods and services and people flow out.",
+  "caption": "A city depends on inputs from far beyond its boundary.",
+  "bytes": 88382
+ },
+ {
+  "file": "ib-dp-ess-human-populations-urban-systems--04-urban-heat-island.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## 8.2 Urban systems and urban planning",
+  "alt": "Cross-section from countryside through a city centre of tall buildings and back. A temperature line rises from the rural edges to a peak over the centre. Four causes are labelled: dark surfaces, waste heat, less vegetation and evapotranspiration, and tall buildings that trap heat and reduce wind.",
+  "caption": "Cities run warmer than the countryside, especially at night.",
+  "bytes": 90044
+ },
+ {
+  "file": "ib-dp-ess-human-populations-urban-systems--05-photochemical-smog.webp",
+  "width": 900,
+  "height": 670,
+  "after": "## 8.3 Urban air pollution",
+  "alt": "Four steps: vehicles emit nitrogen monoxide and VOCs, and NO is oxidised to NO₂; sunlight splits NO₂ into NO and an oxygen atom; the atom joins O₂ to form ozone; VOCs react with nitrogen oxides to form PANs and more ozone. A schematic daily graph shows NO₂ peaking in the morning and ozone in the afternoon.",
+  "caption": "Ozone is a secondary pollutant: it peaks hours after the rush-hour emissions.",
+  "bytes": 95138
+ },
+ {
+  "file": "ib-dp-ess-human-populations-urban-systems--06-thermal-inversion.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## 8.3 Urban air pollution",
+  "alt": "Two valley cross-sections with a city. Normally temperature falls with height, so warm polluted air rises and disperses. In an inversion a warm air layer sits above cool air near the ground; the cool, polluted air cannot rise through it and pollutants are trapped. Small graphs show temperature against height.",
+  "caption": "Warm air above cool air stops the polluted air near the ground from rising.",
+  "bytes": 70630
+ },
+ {
+  "file": "ib-dp-ess-human-populations-urban-systems--07-managing-urban-air-pollution.webp",
+  "width": 900,
+  "height": 685,
+  "after": "## 8.3 Urban air pollution",
+  "alt": "Three stacked levels. Altering the human activity, such as public transport and renewable electricity, tackles the cause but is slow. Controlling release, such as catalytic converters and low-emission zones, is faster but needs enforcement. Clean-up, such as street trees and air quality alerts, is weakest for air because pollutants disperse.",
+  "caption": "Changing the activity tackles the cause; clean-up is weakest for air.",
+  "bytes": 105580
+ }
+]

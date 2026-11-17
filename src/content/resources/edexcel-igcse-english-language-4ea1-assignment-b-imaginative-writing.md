@@ -39,6 +39,11 @@ the component fits the qualification.
 - An advisory length of **about 700 words**; there is no penalty for exceeding it.
 - You may write about **real or imagined experiences**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-b-imaginative-writing--01-assignment-b-at-a-glance.webp" width="900" height="414" alt="Assignment B is 30 marks: 18 for AO4 and 12 for AO5. It is a teacher-devised piece of imaginative writing on a selected topic, whose purpose is to narrate, describe or entertain, about real or imagined experiences, in about 700 words." loading="lazy">
+  <figcaption>One imaginative piece of about 700 words: AO4 18 marks, AO5 12.</figcaption>
+</figure>
+
 ## Kinds of task
 
 The specification gives two routes for setting the topic:
@@ -52,6 +57,11 @@ If your task is linked to an Anthology text, use it as a **springboard**, not a 
 continuation should match the original's voice and situation closely enough to be recognisable, but
 the writing, events and images must be your own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-b-imaginative-writing--02-two-routes.webp" width="900" height="502" alt="Route 1 takes a topic from an Anthology piece, such as a piece that begins or ends with a given line, or the next episode in a character’s story. Route 2 is unrelated, perhaps from images: a title such as “The visitor”, a frightening experience or an embarrassing moment. A continuation matches the voice and situation, but the writing, events and images are your own." loading="lazy">
+  <figcaption>Use an Anthology text as a springboard, not a template.</figcaption>
+</figure>
+
 ## What the grids reward
 
 | Level | AO4 (18) key wording | AO5 (12) key wording |
@@ -62,6 +72,11 @@ the writing, events and images must be your own.
 
 The words **deliberate**, **strategically** and **selectively** recur at the top levels. They describe
 choices you can make visible because you have time to revise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-b-imaginative-writing--03-grid-levels.webp" width="900" height="665" alt="A table of Levels 3 to 5. AO4 rises from “communicates clearly” (8–11) through “communicates successfully” (12–15) to “perceptive and subtle” communication “sharply focused on purpose” (16–18). AO5 rises from “varied vocabulary” (5–7) through “wide, selective vocabulary” (8–10) to “extensive vocabulary strategically” (11–12)." loading="lazy">
+  <figcaption>Deliberate, strategic, selective choices mark the top levels.</figcaption>
+</figure>
 
 ## Making 700 words count
 
@@ -74,6 +89,11 @@ one well-crafted ending, and not much more.
   cyclical ending.
 - **Every paragraph doing a job**: establishing, developing, turning, resolving.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-b-imaginative-writing--04-making-700-words-count.webp" width="900" height="662" alt="About five or six paragraphs, each with a job: establishing, developing, turning and resolving. The piece needs one scene or short sequence, a single viewpoint held steadily, and a clear shape such as a zoom from setting to detail, a present scene with one memory, or a cyclical ending." loading="lazy">
+  <figcaption>Seven hundred words fits one situation, one change and one well-crafted ending.</figcaption>
+</figure>
+
 ## Using images or a title as a stimulus
 
 When the task is unrelated to the Anthology, perhaps prompted by a set of images or a title such as
@@ -83,6 +103,11 @@ before it was taken, or what the person outside the frame can see. Specific answ
 give you a situation, a viewpoint and a source of tension, which is what AO4's "sharply focused on
 purpose" requires. Decide early whether the piece will mainly narrate or describe, and keep that
 purpose clear through every draft.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-b-imaginative-writing--05-narrowing-a-stimulus.webp" width="900" height="600" alt="Two ways to narrow a stimulus. For the title “The visitor”: who is the visitor, to whom, and why does the visit matter now? For one image from a set: what happened five minutes before, and what can the person outside the frame see? Specific answers give a situation, a viewpoint and a source of tension." loading="lazy">
+  <figcaption>Specific questions turn a stimulus into a situation with tension.</figcaption>
+</figure>
 
 ## Working within the coursework rules
 
@@ -105,6 +130,11 @@ feedback, revise, proofread, submit.
    adjectives that a stronger noun or verb makes unnecessary.
 5. **Sentence pass:** check variety and the placement of short sentences at moments of emphasis.
 6. **Accuracy pass:** spelling, punctuation (especially dialogue), paragraphing, tense.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-b-imaginative-writing--06-drafting-routine.webp" width="900" height="737" alt="A timeline runs draft, general feedback, revise, proofread, submit, with all changes made before marking. Six passes follow: first draft of the whole shape, structure, voice read aloud, vocabulary (replacing words such as “nice” and “very”), sentence variety, and accuracy including dialogue punctuation." loading="lazy">
+  <figcaption>Revise in separate passes, and finish every change before the work is marked.</figcaption>
+</figure>
 
 ## Worked redraft
 
@@ -138,6 +168,11 @@ What changed, and why it scores higher:
 
 If you write a continuation, check every detail you borrow against the original text so that nothing
 contradicts it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-b-imaginative-writing--07-necklace-redraft.webp" width="900" height="775" alt="A first draft tells: Madame Forestier “felt quite sad and guilty”. The redraft shows: the unopened case at the back of the drawer, then “She had not even opened it, that day. She opened it now.” AO4 gains come from close third person, a telling detail, a pivot and irony; AO5 gains from “gargling”, a deliberate semicolon and colon, and varied sentence lengths." loading="lazy">
+  <figcaption>The redraft shows guilt through a detail instead of naming it.</figcaption>
+</figure>
 
 ## Common mistakes
 

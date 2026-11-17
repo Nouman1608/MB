@@ -47,6 +47,11 @@ These skills match AO2 (apply, about 40% overall) and AO3 (analyse and evaluate,
 
 The aims of the specification (section 4.1) talk about the "relationships and tension between social structures and individual agency". Agency means people's ability to make their own choices. Functionalist and Marxist accounts stress structure; interactionist accounts stress meaning and reactions to labels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--01-structures-processes-issues.webp" width="900" height="680" alt="Three tiers. Social structures such as families and the education system work on people through social processes such as socialisation and labelling, which create social issues such as divorce, underachievement, crime and poverty. Below, a line from structure to agency: functionalist and Marxist accounts stress structure; interactionist accounts stress meanings and labels." loading="lazy">
+  <figcaption>Structures act on people through processes, and the results become debated issues.</figcaption>
+</figure>
+
 ## Comparing and contrasting theories in context
 
 The specification asks for the **key features** of each theory "in the context of a specific topic". Show what a theory says about *this* family pattern, school process or crime figure.
@@ -80,6 +85,16 @@ The specification names interactionism only in 3.4.4 (processes within schools) 
 
 > Both Zaretsky (1976) and Delphy and Leonard (1992) see the family as a site of exploitation rather than the harmonious unit functionalists such as Parsons describe (**knowledge**). They disagree on who gains. For Zaretsky, the family is a prop to capitalism: housewives' unpaid domestic labour reproduces the next generation of workers, and the family is a vital unit of consumption. For Delphy and Leonard, men rather than capitalists are the main beneficiaries, because the family is an economic system in which men appropriate women's work (**analysis**). A dual-earner couple in which the woman still does most of the housework fits Delphy and Leonard better. Zaretsky cannot explain why the husband, a worker himself, gains from her labour (**application**). Yet Zaretsky explains why family spending supports the economy, so capitalism and patriarchy may both benefit at once (**evaluation**).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--02-grouping-perspectives.webp" width="900" height="785" alt="Two overlapping ovals. Functionalism and Marxism both explain behaviour by social structure; Marxism and feminism are both conflict theories that see institutions serving a powerful group, so Marxism sits in the overlap. Interactionism stands apart, starting from small-scale interaction." loading="lazy">
+  <figcaption>Find the similarity first: Marxism shares structure with functionalism and conflict with feminism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--03-who-benefits-family.webp" width="900" height="781" alt="One question in the centre, who benefits from the family, with three answers: Parsons says members and society; Zaretsky says capitalism, through unpaid domestic labour and consumption; Delphy and Leonard say men, who appropriate women’s work. A note judges which fits a dual-earner couple." loading="lazy">
+  <figcaption>Put two theories on the same question, then judge which fits the evidence better.</figcaption>
+</figure>
+
 ## Reading and responding to extracts
 
 Section 3.2 says you will show knowledge of theories "by reading and responding to extracts". Appendix B of the specification summarises the classic texts. For any extract, ask five questions:
@@ -99,6 +114,11 @@ The Appendix B summaries model this last step. Oakley's paper predates civil par
 > "Schools teach every child the same rules, reward effort with grades and prepare young people to take their place in adult society. Pupils learn that they are judged by what they achieve, not by who their parents are."
 
 > The extract reflects a functionalist view (**knowledge**). Phrases such as "the same rules" and "judged by what they achieve, not by who their parents are" echo Parsons's argument that schools apply universalistic standards and operate on meritocratic principles (**application**). However, the extract assumes the rules are neutral. Bowles and Gintis argue the rules mirror the workplace and produce an obedient workforce (**analysis**). Halsey's study of over 8,000 males found that a service-class boy had about eleven times the chance of a working-class boy of attending university, which suggests family background still mattered greatly (**evaluation**).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--04-reading-extracts.webp" width="900" height="909" alt="Five numbered questions: who and when, which perspective, the main claim, the evidence and the limits. Below, signal words: value consensus and functions for functionalists, capitalism and ruling class for Marxists, patriarchy and men benefit for feminists, label and meanings for interactionists." loading="lazy">
+  <figcaption>Ask five questions of every extract; signal words reveal the perspective.</figcaption>
+</figure>
 
 ## Methods and methodological issues in each topic
 
@@ -131,6 +151,16 @@ Perspectives read these figures differently. For Becker, crime figures result fr
 
 > To study why some young people resist school, a researcher could use participant observation (**knowledge**). Willis used observation, group discussions and informal interviews to see school from the pupils' point of view, which a questionnaire with closed questions could not capture (**application**). The method gives high validity because it records what the boys did, not only what they claimed (**analysis**). However, one small group cannot show how common counter school culture is; adding exclusion statistics, a mixed methods design, would test this (**evaluation**).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--05-official-statistics-limits.webp" width="900" height="721" alt="Three columns. Divorce statistics count legal divorces but miss separations and empty shell marriages. Crime statistics count recorded crime but miss the dark figure. Poverty figures depend on the definition: just over 6%, a little over 9% or more than 22% for the same society in 1968–69." loading="lazy">
+  <figcaption>Official statistics are useful, but each topic has gaps the numbers do not show.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--06-named-studies-methods.webp" width="900" height="823" alt="Six named studies sorted by approach. Quantitative: Halsey, Heath and Ridge (over 8,000 males), Townsend (over 2,000 households) and Willmott and Young (nearly 2,000 people). Qualitative: Ball (one school), Willis (one Midlands school) and Carlen (39 women). Each shows its method and one limitation." loading="lazy">
+  <figcaption>Large samples give patterns; small, deep studies give meanings.</figcaption>
+</figure>
+
 ## Contemporary social issues: challenging everyday understandings
 
 Section 3.2 asks you to "challenge everyday understandings of social phenomena from a sociological perspective". Everyday views usually explain issues by individual nature or choice; sociology looks for the structures and processes behind them.
@@ -148,6 +178,11 @@ Murray's idea of an **underclass**, linked to New Right theories, explains pover
 
 > Many people assume poverty results from a lack of effort (**everyday view**). Murray's New Right account partly supports this. He argued that generous benefits encouraged dependency and an alternative value system in a growing underclass (**knowledge**). Townsend instead defined poverty as lacking the resources for the diet, activities and living conditions widely available in society. His deprivation index suggested poverty was far more widespread than the state standard showed (**analysis**). For a household in a fictional area where most local jobs have closed, Townsend's view fits better, because the cause lies in the labour market rather than attitudes (**application**). However, missing items may reflect choice, so a full judgement needs data on both resources and attitudes (**evaluation**).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--07-challenging-everyday-views.webp" width="900" height="803" alt="Four everyday beliefs, each with a sociological challenge: crime statistics reflect labelling (Becker); women are controlled more closely (Heidensohn); class shapes school success (Halsey, Bowles and Gintis); the private family is an illusion (Zaretsky). Below, Murray and Townsend on poverty." loading="lazy">
+  <figcaption>Everyday views blame nature or choice; sociology looks for the structures behind them.</figcaption>
+</figure>
+
 ## Drawing connections between topic areas
 
 The specification asks you to "draw connections between the different topic areas". The same concepts appear across the course:
@@ -158,6 +193,11 @@ The specification asks you to "draw connections between the different topic area
 - **Patriarchy.** Delphy and Leonard on family labour; Walby's six structures.
 
 A connection earns credit when it strengthens an argument: "Becker's master status explains why Ball's low-band pupils might see themselves as failures".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--08-connecting-topics.webp" width="900" height="776" alt="Four concepts that run across the course: labelling links education and crime (Ball, Becker); social control links families and crime (Heidensohn); class links education, crime and stratification (Halsey, Cohen, Carlen); patriarchy links families and stratification (Delphy and Leonard, Walby)." loading="lazy">
+  <figcaption>The same concepts appear in several topics; linking them strengthens an argument.</figcaption>
+</figure>
 
 ## Common errors
 

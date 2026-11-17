@@ -39,6 +39,11 @@ Condensed for the final weeks. For the full method and a worked example, use the
 | Recommended time | 35 minutes |
 | What you need to know beforehand | Nothing about the poem: only the method |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--01-e4-marks-time.webp" width="900" height="760" alt="Two aligned bars show Component 1's 90 marks (20, 30, 40) and the 120 recommended minutes (35, 40, 45). Ribbons show Section A is 22% of marks but 29% of time. A dashed bar shows a proportional split would be 27, 40 and 53 minutes." loading="lazy">
+  <figcaption>The paper gives Section A more time than its marks alone would suggest.</figcaption>
+</figure>
+
 ## AO2 in three strands
 
 | Strand | What to look at | Question to ask |
@@ -49,6 +54,11 @@ Condensed for the final weeks. For the full method and a worked example, use the
 
 "Meanings and effects" is the part of AO2 that earns the credit. Since AO2 is the only objective, a
 top answer weaves all three strands into one argument rather than giving each its own paragraph.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--03-e4-section-a-lenses.webp" width="900" height="870" alt="A schematic poem of three stanzas. A highlighted word is linked to language (imagery, word choice, sound), a dashed box round a stanza to form (rhyme, meter, stanza shape) and a turning arrow to structure (how the poem develops or shifts). Below, a short quotation leads to an explained effect." loading="lazy">
+  <figcaption>Section A rewards analysis of language, form and structure, each rooted in a short quotation.</figcaption>
+</figure>
 
 ## The five-step method
 
@@ -65,6 +75,11 @@ the turn and the overview, about 22 for writing and 2 or 3 to reread.
 Questions usually invite you to **explore how the poet presents** a feeling, relationship, place or
 experience. "How" signals methods and effects, so every paragraph needs at least one named choice and
 what it does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-unseen-poetry--01-reading-method-35-minutes.webp" width="900" height="823" alt="A 35-minute bar: 3 minutes for a first read, 5 for annotating, a short slot to find the turn, decide an overview and plan, about 22 minutes writing and 2 to 3 to reread. Five numbered steps explain each stage, with finding the turn highlighted." loading="lazy">
+  <figcaption>Read, find the turn, annotate for effects, decide an overview, then write.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -85,6 +100,16 @@ what it does.
 
 **Method + short quotation + effect + link to the question.** For example: "The single-line final
 stanza leaves the speaker's decision hanging, so the reader feels her uncertainty."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-unseen-poetry--04-three-levels-of-response.webp" width="900" height="540" alt="The same detail written three ways, as a rising staircase. Feature-spotting only names enjambment; an explained version adds that it makes the reader pause on the speaker; the analysed version links breaking “I / do not ask” across the line to the speaker’s isolation, answering the question." loading="lazy">
+  <figcaption>Aim for method, effect and the question’s focus in every point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-unseen-poetry--05-organise-by-idea.webp" width="900" height="646" alt="Two plans compared. A technique checklist gives one paragraph each to language, form and structure. The stronger plan builds each paragraph on an idea from the poem, such as being close in space but apart in time, and mixes language, form and structure inside it." loading="lazy">
+  <figcaption>Mix language, form and structure inside each paragraph about one idea.</figcaption>
+</figure>
 
 ## Worked mini-example
 

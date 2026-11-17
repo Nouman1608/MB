@@ -53,6 +53,11 @@ Condensed recall for **4.2 Demographic transition** (the model, its stages and i
 
 **Pyramid shapes by stage:** stage 2 has a very wide base and concave sides; stage 3 a base beginning to narrow; stage 4 near-vertical sides; stage 5 a base narrower than the middle (a "beehive" or inverted shape).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-population-distribution--12-pd-pyramids.webp" width="900" height="790" alt="Two illustrative pyramids with the oldest group at the top. The young population has a wide base (high birth rates) and a sharply narrowing top (high death rates, lower life expectancy). The ageing population has a narrow base (low birth rate) and a relatively wide top (high life expectancy)." loading="lazy">
+  <figcaption>A pyramid shape shows birth rates, death rates and life expectancy.</figcaption>
+</figure>
+
 ## Reasons for change
 
 - **Death rate falls:** better food supply, clean water, sanitation, medicine and vaccination, public health.

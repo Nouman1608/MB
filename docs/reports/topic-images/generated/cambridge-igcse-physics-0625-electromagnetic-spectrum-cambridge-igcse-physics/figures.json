@@ -1,0 +1,38 @@
+[
+ {
+  "file": "cambridge-igcse-physics-0625-electromagnetic-spectrum-cambridge-igcse-physics--01-harmful-effects.webp",
+  "width": 900,
+  "height": 600,
+  "after": "## Harmful effects of excessive exposure",
+  "alt": "Microwaves cause internal heating of body cells and infrared causes skin burns: both harm by heating. Ultraviolet damages surface cells and eyes, leading to skin cancer and eye conditions. X-rays and gamma rays cause mutation or damage to cells inside the body.",
+  "caption": "Lower frequencies harm by heating; ultraviolet, X-rays and gamma rays damage cells directly.",
+  "bytes": 71062
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-electromagnetic-spectrum-cambridge-igcse-physics--02-wavelength-from-frequency.webp",
+  "width": 900,
+  "height": 584,
+  "after": "## Speed of electromagnetic waves",
+  "alt": "A radio wave of 100 MHz has wavelength 3.0 × 10⁸ / (100 × 10⁶) = 3.0 m. A 2.45 GHz microwave has wavelength 3.0 × 10⁸ / (2.45 × 10⁹) = 0.122 m, about 12 cm. All electromagnetic waves travel at 3.0 × 10⁸ m/s in a vacuum.",
+  "caption": "With the speed fixed, frequency and wavelength change in opposite directions.",
+  "bytes": 76608
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-electromagnetic-spectrum-cambridge-igcse-physics--03-satellites.webp",
+  "width": 900,
+  "height": 678,
+  "after": "## Satellites",
+  "alt": "Plan view of the Earth with a low orbit satellite close in and a geostationary satellite much further out, orbiting once every 24 hours above the equator in the direction the Earth rotates. For a geostationary satellite 3.6 × 10⁷ m up, a signal up and back down travels 7.2 × 10⁷ m and takes 7.2 × 10⁷ / 3.0 × 10⁸ = 0.24 s.",
+  "caption": "Geostationary satellites stay over one point; low orbit satellites are closer but need a network.",
+  "bytes": 104598
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-electromagnetic-spectrum-cambridge-igcse-physics--04-analogue-vs-digital.webp",
+  "width": 900,
+  "height": 620,
+  "after": "## Digital and analogue signals (Extended only)",
+  "alt": "An analogue signal varies continuously; after travelling it is weaker and noisy, and amplifying it amplifies the noise too. A digital signal has only two values; after travelling it is weak and noisy, but it can be regenerated as clean 1s and 0s because the receiver only decides between two values.",
+  "caption": "Digital signals can be regenerated, so noise is removed and range increases.",
+  "bytes": 97090
+ }
+]

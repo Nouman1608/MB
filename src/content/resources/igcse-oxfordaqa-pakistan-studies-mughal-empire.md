@@ -53,6 +53,11 @@ growth and decline.
 - The expansion of the Sikh and Maratha powers and their impact
 - Further British expansion from the 1750s to the 1850s
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-mughal-empire--01-emperors-1526-1707.webp" width="900" height="593" alt="Bars for each emperor’s reign: Babur 1526–30, Humayun 1530–40 and 1555–56, Akbar 1556–1605, Jahangir 1605–27, Shah Jahan 1628–58 and Aurangzeb 1658–1707, each with a key event or achievement. A dashed gap marks the years Humayun lost the empire to Sher Shah Suri." loading="lazy">
+  <figcaption>Akbar and Aurangzeb together ruled for almost a century.</figcaption>
+</figure>
+
 ## What was the context in 1526?
 
 North India was ruled by the **Lodi Sultanate** of Delhi, weakened by quarrels among Afghan nobles,
@@ -69,6 +74,11 @@ defeated Sultan Ibrahim Lodi. He then defeated the Rajput confederacy under Rana
 (1527)**. His memoir, the *Baburnama*, shows a ruler who was a skilled soldier, poet and lover of
 gardens.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-mughal-empire--02-babur-founds-empire.webp" width="900" height="667" alt="A timeline of Babur: descended from Timur and Genghis Khan, he lost Fergana, took Kabul in 1504, defeated Ibrahim Lodi at the First Battle of Panipat in 1526 with artillery and cavalry tactics, and beat the Rajputs under Rana Sanga at Khanwa in 1527." loading="lazy">
+  <figcaption>Two battles, Panipat and Khanwa, gave Babur north India.</figcaption>
+</figure>
+
 ## How did the empire grow to 1658?
 
 - **Humayun (1530–40, 1555–56):** lost the empire to the Afghan Sher Shah Suri and spent years in exile in Persia before regaining Delhi shortly before his death.
@@ -83,6 +93,11 @@ European companies.
 **Culture:** Persian was the language of government and literature; Mughal painting, music and
 architecture blended Persian, Central Asian and Indian styles; madrasas and libraries spread
 learning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-mughal-empire--03-akbar-system.webp" width="900" height="494" alt="Five pillars hold up Akbar’s empire: conquest after the Second Battle of Panipat in 1556, alliances with Rajput rulers, the mansabdari system for nobles, land revenue reform with Raja Todar Mal, and religious policy including abolishing the jizya and debates in the Ibadat Khana." loading="lazy">
+  <figcaption>Akbar held his empire together with conquest, alliances and organised government.</figcaption>
+</figure>
 
 ## How did Aurangzeb rule, and what state did he leave the empire in?
 
@@ -104,6 +119,11 @@ administration and army. *Weaknesses*: the long Deccan wars had drained the trea
 Jat, Sikh and Maratha revolts continued; there were too few *jagirs* (land grants) for the growing
 number of nobles; and no clear rule of succession.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-mughal-empire--04-aurangzeb-1707.webp" width="900" height="565" alt="Aurangzeb’s reforms are listed: rule by Sharia, the Fatawa-e-Alamgiri, muhtasibs, the jizya reimposed in 1679, removal of un-Islamic taxes and the Badshahi Mosque. A balance then weighs strengths at his death (the largest territory, a working administration and army) against weaknesses (drained treasury, revolts, too few jagirs, no succession rule)." loading="lazy">
+  <figcaption>In 1707 the empire was at its largest but already financially and politically strained.</figcaption>
+</figure>
+
 ## Why did the Mughal Empire decline after 1707?
 
 - **Weak leadership:** frequent wars of succession and short reigns; powerful nobles, such as the Sayyid brothers, controlled emperors.
@@ -111,6 +131,16 @@ number of nobles; and no clear rule of succession.
 - **Marathas and Sikhs:** the Marathas expanded across central and western India, and Sikh chiefs took control of Punjab, where **Ranjit Singh** later built a kingdom with its capital at Lahore.
 - **The East India Company:** at **Plassey (1757)**, Robert Clive defeated Nawab Siraj-ud-Daula of Bengal after securing the defection of Mir Jafar. The Company gained control of Bengal's wealth and in 1765 the right to collect its revenue.
 - **British expansion to the 1850s:** wars against Mysore and the Marathas, the annexation of **Sindh (1843)** and **Punjab (1849)**, and of Awadh (1856). After the War of Independence of 1857, the last emperor, Bahadur Shah Zafar, was exiled in 1858.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-mughal-empire--05-forces-of-decline.webp" width="900" height="570" alt="Four forces press on Mughal power after 1707: weak leadership and powerful nobles, Nadir Shah’s victory at Karnal and sack of Delhi in 1739, the expansion of the Marathas and Sikhs, and the East India Company after Plassey in 1757." loading="lazy">
+  <figcaption>Weakness inside and pressure from outside combined to break Mughal power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-mughal-empire--06-decline-timeline.webp" width="900" height="734" alt="A timeline of decline: Aurangzeb’s death in 1707, Karnal and the sack of Delhi in 1739, Plassey in 1757, the Company’s right to collect Bengal’s revenue in 1765, the annexation of Sindh, Punjab and Awadh between 1843 and 1856, and the exile of Bahadur Shah Zafar in 1858 after the War of Independence of 1857." loading="lazy">
+  <figcaption>In 150 years Mughal rule shrank from the largest empire to a title in exile.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

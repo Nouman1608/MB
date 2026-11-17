@@ -42,6 +42,11 @@ There is nothing to memorise. The poem could be from any period or place, and yo
 to know who wrote it or when. What the examiner is looking for is a reader who can work out what
 the poem is doing and explain, precisely, **how** the poet makes it do that.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--01-e4-marks-time.webp" width="900" height="760" alt="Two aligned bars show Component 1's 90 marks (20, 30, 40) and the 120 recommended minutes (35, 40, 45). Ribbons show Section A is 22% of marks but 29% of time. A dashed bar shows a proportional split would be 27, 40 and 53 minutes." loading="lazy">
+  <figcaption>The paper gives Section A more time than its marks alone would suggest.</figcaption>
+</figure>
+
 ## What AO2 means for an unseen poem
 
 AO2 asks about three things. It helps to keep them separate in your head, then let them overlap in
@@ -59,6 +64,11 @@ your writing.
 "Meanings and effects" is the part many answers forget. Naming a technique earns very little on its
 own; the credit is for explaining what that choice does to the reader's understanding or feeling.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--03-e4-section-a-lenses.webp" width="900" height="870" alt="A schematic poem of three stanzas. A highlighted word is linked to language (imagery, word choice, sound), a dashed box round a stanza to form (rhyme, meter, stanza shape) and a turning arrow to structure (how the poem develops or shifts). Below, a short quotation leads to an explained effect." loading="lazy">
+  <figcaption>Section A rewards analysis of language, form and structure, each rooted in a short quotation.</figcaption>
+</figure>
+
 ## A reading method for 35 minutes
 
 1. **First read, for sense (3 minutes).** Who is speaking, to whom, about what situation? What is
@@ -72,6 +82,11 @@ own; the credit is for explaining what that choice does to the reader's understa
    and the poem moves from A to B."
 5. **Plan three or four paragraphs** that follow the poem's movement, each mixing language, form
    and structure. Write for about 22 minutes and keep two or three minutes to reread.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-unseen-poetry--01-reading-method-35-minutes.webp" width="900" height="823" alt="A 35-minute bar: 3 minutes for a first read, 5 for annotating, a short slot to find the turn, decide an overview and plan, about 22 minutes writing and 2 to 3 to reread. Five numbered steps explain each stage, with finding the turn highlighted." loading="lazy">
+  <figcaption>Read, find the turn, annotate for effects, decide an overview, then write.</figcaption>
+</figure>
 
 ## Worked example 1: an original unseen poem
 
@@ -118,6 +133,16 @@ feel abrupt, matching the mother's sudden exit, and the paradox "The curtains cl
 shows the child adjusting to a reversed day. "I eat my breakfast in her dark" is tender as well as
 lonely: the speaker chooses to share the mother's night.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-unseen-poetry--02-night-shift-annotated.webp" width="900" height="742" alt="The guide’s original poem Night Shift with six details highlighted and annotated by type: the isolated “I” at a line break (structure), the matching negatives and the simile of two clocks set to different towns (language), the rhyme of “share” and “there” and the shortened final stanza (form), and the paradox of curtains closing on morning (language)." loading="lazy">
+  <figcaption>Each short detail is tied to an effect, and language, form and structure all serve one idea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-unseen-poetry--03-poem-movement-overview.webp" width="900" height="580" alt="Night Shift drawn as three stanzas: four lines of close observation, four lines of mother and child side by side on different timetables, and a shorter two-line stanza where the mother is gone and the child adapts. An overview sentence sums up the relationship and the poem’s movement." loading="lazy">
+  <figcaption>An overview names the relationship and how the poem moves from start to end.</figcaption>
+</figure>
+
 ## Worked example 2: from feature-spotting to analysis
 
 The same detail, written three ways:
@@ -131,6 +156,11 @@ The same detail, written three ways:
 Only the third connects the method, its effect and the focus of the question. Aim for that in every
 paragraph.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-unseen-poetry--04-three-levels-of-response.webp" width="900" height="540" alt="The same detail written three ways, as a rising staircase. Feature-spotting only names enjambment; an explained version adds that it makes the reader pause on the speaker; the analysed version links breaking “I / do not ask” across the line to the speaker’s isolation, answering the question." loading="lazy">
+  <figcaption>Aim for method, effect and the question’s focus in every point.</figcaption>
+</figure>
+
 ## Key ideas to carry into any unseen poem
 
 - **Tentative language is a strength.** "Perhaps", "this could suggest" and "a reader might feel"
@@ -141,6 +171,11 @@ paragraph.
   only full rhyme in the stanza makes the absence of togetherness ring louder" is analysis.
 - **Follow the poem's order.** Working through the poem chronologically, while grouping points by
   idea, stops you missing the turn and the ending.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-unseen-poetry--05-organise-by-idea.webp" width="900" height="646" alt="Two plans compared. A technique checklist gives one paragraph each to language, form and structure. The stronger plan builds each paragraph on an idea from the poem, such as being close in space but apart in time, and mixes language, form and structure inside it." loading="lazy">
+  <figcaption>Mix language, form and structure inside each paragraph about one idea.</figcaption>
+</figure>
 
 ## Common mistakes
 

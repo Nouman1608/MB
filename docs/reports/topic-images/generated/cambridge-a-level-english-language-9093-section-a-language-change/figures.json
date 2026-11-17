@@ -1,0 +1,74 @@
+[
+ {
+  "file": "cambridge-a-level-english-language-9093-section-a-language-change--01-three-sources.webp",
+  "width": 900,
+  "height": 610,
+  "after": "## What the question gives you",
+  "alt": "Three sources feed one essay: a prose text of about 300 to 400 words from any time since Early Modern English (c.1500), an n-gram graph of word frequency in printed texts, and a corpus word table of collocates or synonyms. The compulsory question is worth 25 marks, half of Paper 3, and assesses AO2, AO4 and AO5; dictionaries are not allowed.",
+  "caption": "The essay must combine the prose text, the n-gram graph and the word table.",
+  "bytes": 100992
+ },
+ {
+  "file": "cambridge-a-level-english-language-9093-section-a-language-change--02-dating-landmarks.webp",
+  "width": 900,
+  "height": 630,
+  "after": "## Knowing the period: features by language level",
+  "alt": "A timeline from the start of Early Modern English around 1500, through the spread of printing from the late fifteenth century, Johnson's Dictionary in 1755 and Lowth's prescriptive grammar in 1762, to today. Below, variable spelling and -eth endings suggest an early text, while standard spelling with very formal syntax and politeness formulas suggests the eighteenth or nineteenth century.",
+  "caption": "Printing, Johnson and the prescriptive grammars help you place an unseen text.",
+  "bytes": 81198
+ },
+ {
+  "file": "cambridge-a-level-english-language-9093-section-a-language-change--03-word-formation.webp",
+  "width": 900,
+  "height": 724,
+  "after": "## Processes of change: the concept vocabulary",
+  "alt": "Nine word-formation processes with the lesson's examples: derivation (kindness), compounding (smartphone), blending (smog), conversion (text as a verb), backformation (edit from editor), borrowing (bungalow, tsunami, algebra), telescoping (goodbye from God be with you), coalescence (today, anyone) and acronyms (scuba, laser).",
+  "caption": "Have a definition and one example ready for every process.",
+  "bytes": 108828
+ },
+ {
+  "file": "cambridge-a-level-english-language-9093-section-a-language-change--04-semantic-change.webp",
+  "width": 900,
+  "height": 560,
+  "after": "## Processes of change: the concept vocabulary",
+  "alt": "Four panels: broadening, as \"holiday\" widens from a holy day to any day off; narrowing, as \"meat\" once meant food in general; amelioration, as \"nice\" once meant foolish; and pejoration, as \"villain\" once meant a farm labourer.",
+  "caption": "Meanings widen, narrow, improve or worsen: name the direction.",
+  "bytes": 68828
+ },
+ {
+  "file": "cambridge-a-level-english-language-9093-section-a-language-change--05-theories-of-change.webp",
+  "width": 900,
+  "height": 715,
+  "after": "## Theories and theorists",
+  "alt": "Five theories that explain why change happens: random fluctuation, cultural transmission, lexical gaps, substratum and functional theory. Beside them, two models of how languages relate: Schleicher's tree model of branches from common ancestors and Schmidt's wave model of changes rippling out from a centre. A note contrasts prescriptivism and descriptivism.",
+  "caption": "Use a theory to explain why a change happened, not just to label it.",
+  "bytes": 137266
+ },
+ {
+  "file": "cambridge-a-level-english-language-9093-section-a-language-change--06-reading-n-gram.webp",
+  "width": 900,
+  "height": 615,
+  "after": "## Reading the data",
+  "alt": "A schematic n-gram graph with relative frequency against time, where an older form falls and a newer form rises until they cross. Beside it, five steps: state what is plotted, describe each trend, give approximate dates, interpret through a process and theory, and qualify the evidence, since the corpus contains only printed texts.",
+  "caption": "Describe the trend, then interpret it, then qualify what the data can show.",
+  "bytes": 96060
+ },
+ {
+  "file": "cambridge-a-level-english-language-9093-section-a-language-change--07-collocates-awful.webp",
+  "width": 900,
+  "height": 575,
+  "after": "## Reading the data",
+  "alt": "In older corpus data \"awful\" collocates with \"majesty\" and \"power\", meaning awe-inspiring; in recent data it collocates with \"weather\" and \"mistake\", meaning very bad. The shift shows pejoration and weakening into an intensifier.",
+  "caption": "Changing collocates show a word's meaning shifting over time.",
+  "bytes": 57526
+ },
+ {
+  "file": "cambridge-a-level-english-language-9093-section-a-language-change--08-synthesis.webp",
+  "width": 900,
+  "height": 680,
+  "after": "## Worked example: synthesising three sources",
+  "alt": "The lesson's seventeenth-century-style letter, then three paragraphs mapped as text plus data plus concept: orthography (\"shew'd\") with an n-gram crossover and cultural transmission; grammar (\"hath\", \"I doubt not\") with the loss of -eth and of negation without do; and lexis (\"Physick\") with collocates moving to \"medicine\".",
+  "caption": "Each paragraph moves between the prose text, the data and a concept.",
+  "bytes": 132428
+ }
+]

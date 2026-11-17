@@ -53,6 +53,11 @@ each person's importance.
 - The Jihad movement: aims, opponents, achievements
 - His campaigns, death, contribution to revival, and importance to the Ahl-i-Hadith and Deobandi movements
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-islam-in-the-subcontinent--01-time-chart.webp" width="900" height="662" alt="A time axis from 700 to 1900. Bars show the lives of al-Ghazali (1058–1111), Ahmad Sirhindi (1564–1624), Shah Waliullah (1703–1762) and Syed Ahmad Barelvi (1786–1831). Markers show Muhammad bin Qasim’s conquest of Sindh in 711–712, Aurangzeb’s death in 1707, Panipat in 1761, Balakot in 1831 and the founding of Deoband in 1867." loading="lazy">
+  <figcaption>Over a thousand years separate Muhammad bin Qasim from the reformers of the 18th and 19th centuries.</figcaption>
+</figure>
+
 ## What is Sufism and why did it matter in the subcontinent?
 
 Sufism is the inner, spiritual dimension of Islam. It developed in the early centuries of Islam
@@ -67,6 +72,11 @@ founder of the Chishti order in India; and **Bahauddin Zakariya** of Multan of t
 Later the **Qadiri** and **Naqshbandi** orders also spread. Their shrines remain centres of
 devotion and culture today.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-islam-in-the-subcontinent--02-sufism.webp" width="900" height="695" alt="A master (pir or shaikh) with disciples (murids) around him, organised in orders called silsilas and meeting at lodges called khanqahs. A table names Ali Hujwiri of Lahore, Khwaja Moinuddin Chishti of Ajmer (Chishti order) and Bahauddin Zakariya of Multan (Suhrawardi order), with the Qadiri and Naqshbandi orders spreading later." loading="lazy">
+  <figcaption>Sufi orders linked master and disciples, and their khanqahs welcomed everyone.</figcaption>
+</figure>
+
 ## What was the importance of Muhammad bin Qasim?
 
 In 711–712, under the Umayyad Caliphate, the governor Hajjaj bin Yusuf sent the young commander
@@ -77,6 +87,11 @@ Buddhists were granted protected status and allowed to keep their places of wors
 jizya; and trade and learning linked Sindh to the wider Muslim world. This is why Sindh is
 sometimes called *Bab-ul-Islam*, the gateway of Islam.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-islam-in-the-subcontinent--03-muhammad-bin-qasim.webp" width="900" height="554" alt="A chain: the Umayyad governor Hajjaj bin Yusuf sends Muhammad bin Qasim to Sindh; in 711–712 he captures Debal and defeats Raja Dahir, bringing Sindh and southern Punjab including Multan under Muslim rule. Four religious impacts follow, which is why Sindh is called Bab-ul-Islam, the gateway of Islam." loading="lazy">
+  <figcaption>The conquest of Sindh made it the gateway of Islam in the subcontinent.</figcaption>
+</figure>
+
 ## Why was al-Ghazali important?
 
 **Imam Abu Hamid al-Ghazali** (1058–1111) was a Persian scholar who taught in Baghdad. In his great
@@ -85,6 +100,11 @@ both correct practice under the Sharia and inner sincerity. He brought Sufism wi
 Sunni Islam, criticised philosophers who put reason above revelation, and gave later scholars a
 model of combining law and spirituality. His ideas shaped the teaching of madrasas and Sufi
 orders in the subcontinent for centuries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-islam-in-the-subcontinent--04-al-ghazali.webp" width="900" height="556" alt="Two boxes, correct practice under the Sharia and inner sincerity, combine into true faith, al-Ghazali’s argument in The Revival of the Religious Sciences. Three effects follow: Sufism brought into mainstream Sunni Islam, criticism of philosophers who put reason above revelation, and lasting influence on madrasas and Sufi orders in the subcontinent." loading="lazy">
+  <figcaption>al-Ghazali joined law and spirituality, a model later scholars followed.</figcaption>
+</figure>
 
 ## Who was Ahmad Sirhindi?
 
@@ -95,6 +115,11 @@ that Sufism must follow the Sharia strictly. Through hundreds of letters (*Maktu
 urged a return to orthodox practice. He was imprisoned for a time by Jahangir in Gwalior fort,
 then released. His influence helped revive orthodox Sunni Sufism and is often linked to the more
 orthodox policies of **Aurangzeb**, under whom the legal compilation *Fatawa-e-Alamgiri* was produced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-islam-in-the-subcontinent--05-ahmad-sirhindi.webp" width="900" height="685" alt="A timeline of Ahmad Sirhindi: born in Sirhind in 1564, he opposed Akbar’s Din-i-Ilahi, wrote hundreds of letters urging orthodox practice, was imprisoned by Jahangir in Gwalior fort and released, and died in 1624. His influence is linked to Aurangzeb’s more orthodox policies and the Fatawa-e-Alamgiri." loading="lazy">
+  <figcaption>Sirhindi insisted Sufism follow the Sharia, shaping orthodoxy under Aurangzeb.</figcaption>
+</figure>
 
 ## Why were Muslims weak and divided by the early 18th century?
 
@@ -119,6 +144,11 @@ aimed to unite Muslims and return them to the Qur'an and Sunnah:
 Battle of Panipat (1761)**. His family and students, notably his son **Shah Abdul Aziz**, carried
 his ideas into the 19th century.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-islam-in-the-subcontinent--06-shah-waliullah-reforms.webp" width="900" height="647" alt="Four problems facing Muslims after 1707 are matched to Shah Waliullah’s responses: political decline to letters urging rulers such as Ahmad Shah Abdali to act; lack of access to the Arabic Qur’an to his Persian translation; Sunni–Shia division to efforts at reconciliation; and tension between law and popular custom to his stress on Sharia, hadith and Hujjat Allah al-Baligha." loading="lazy">
+  <figcaption>Shah Waliullah’s reforms can be matched to the causes of Muslim weakness.</figcaption>
+</figure>
+
 ## Who was Syed Ahmad Barelvi and what did his Jihad movement achieve?
 
 **Context:** by the early 1800s the British controlled much of India, and in Punjab and the
@@ -137,6 +167,16 @@ leaders, tax disputes and Sikh military strength weakened the movement. Syed Ahm
 were killed at the **Battle of Balakot (1831)**. **Importance:** the movement kept the reform ideas
 of Shah Waliullah's family alive, inspired later reformers, and influenced the **Ahl-i-Hadith** and
 the **Deobandi** movement founded at Deoband in 1867.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-islam-in-the-subcontinent--07-barelvi-jihad.webp" width="900" height="758" alt="A timeline: Syed Ahmad Barelvi, born at Rae Bareli in 1786, studied under Shah Abdul Aziz and served with Amir Khan; he preached the Tariqa-i-Muhammadiya; from 1826 he and Shah Ismail Shaheed fought Sikh rule; they held Peshawar briefly in 1830 but were weakened and killed at Balakot in 1831." loading="lazy">
+  <figcaption>The jihad won early battles but local rivalries and Sikh strength ended it at Balakot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-islam-in-the-subcontinent--08-reform-tradition.webp" width="900" height="666" alt="A family chart: Shah Abdur Rahim, founder of the Madrasa Rahimiya, is father of Shah Waliullah, whose son Shah Abdul Aziz taught Syed Ahmad Barelvi and whose grandson Shah Ismail Shaheed fought alongside Barelvi from 1826. The movement later influenced the Ahl-i-Hadith and the Deobandi movement founded in 1867." loading="lazy">
+  <figcaption>Shah Waliullah’s family and students carried his reforms into the 19th century.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

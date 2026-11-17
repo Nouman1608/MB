@@ -1,0 +1,8 @@
+{ "page": "a-computer-science-procedural-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--12-pp-loops.webp", "after": "## Constructs and operators" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--14-pp-decomposition.webp", "after": "## Subroutines and scope" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--15-pp-parameters.webp", "after": "## Subroutines and scope" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--13-pp-nested-loops.webp", "after": "## Algorithms" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--17-pp-error-types.webp", "after": "## Testing and errors" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--16-pp-test-plan.webp", "after": "## Testing and errors" }
+] }

@@ -84,6 +84,16 @@ section 3.1.2.
 - **Mills** (*The Sociological Imagination*, 1959): unemployment of one person is a personal trouble;
   mass unemployment is a public issue rooted in the economy. Sociology connects the two.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--01-culture.webp" width="900" height="569" alt="Culture divided into material and non-material forms, its three features (learned, shared, varies), and functionalist, Marxist and interactionist views of it." loading="lazy">
+  <figcaption>Culture is learned, shared and variable, and each perspective reads it differently.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--06-mills.webp" width="900" height="643" alt="Mills’s personal troubles, located in individual character and relationships, set against public issues rooted in social institutions, illustrated by one unemployed person versus mass unemployment and by graduate underemployment and elder care." loading="lazy">
+  <figcaption>The same problem is a trouble for one person and an issue for a society.</figcaption>
+</figure>
+
 ## 3.1.2.2 Socialisation
 
 **Agencies and methods**
@@ -110,6 +120,21 @@ the self") and impose new routines.
 | Feminist | Reproduces gender roles and patriarchy (e.g. Oakley on manipulation and canalisation) |
 | Social action / interactionist | Socialisation is active; the self develops through interaction — George Herbert Mead's "I" and "me", taking the role of others and the "generalised other" (*Mind, Self and Society*, 1934) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-socialisation--02-agencies.webp" width="900" height="815" alt="A grid of six agencies of socialisation, families, schools, peers, media, religions and the workplace, with their methods and points for analysis, plus formal versus informal and deliberate versus unintended methods." loading="lazy">
+  <figcaption>Link an agency to a method, then to a perspective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-socialisation--04-perspectives.webp" width="900" height="692" alt="A grid of functionalist, Marxist, feminist and interactionist views of socialisation: what is passed on, key evidence such as Parsons, Bowles and Gintis, Oakley, Sharpe and Mead, and a criticism of each." loading="lazy">
+  <figcaption>Each perspective reads the same process as consensus, ideology, patriarchy or negotiation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-socialisation--03-mead.webp" width="900" height="528" alt="Mead’s stages from imitation through play and games to the generalised other, and Cooley’s looking-glass self, in which how we imagine others see us shapes how we see ourselves." loading="lazy">
+  <figcaption>For interactionists, the self is built through taking the role of others.</figcaption>
+</figure>
+
 ## 3.1.2.3 Identities and social change
 
 **Bases of identity:** age and generation/cohort; sex and gender; race and ethnicity; social class;
@@ -131,6 +156,21 @@ religion; ability/disability; nationality.
   profit from personal data, shaping behaviour.
 - **Consumption and globalisation:** identities increasingly linked to brands, lifestyles and global
   culture; critics argue structural factors still limit choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--02-seven-bases.webp" width="900" height="891" alt="A grid of the seven bases of identity, age, gender, ethnicity, class, religion, disability and nationality, each with its key idea and useful sociology such as Mannheim, Butler, Fanon, Savage, Oliver, Anderson and Billig." loading="lazy">
+  <figcaption>For each basis, say how it is constructed and how it changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--04-hybrid-identity.webp" width="900" height="653" alt="Two overlapping circles, heritage culture and culture of settlement, with hybrid identity in the overlap. Cards summarise Hall’s view of diaspora identity as becoming and Robin Cohen’s types of diaspora." loading="lazy">
+  <figcaption>Hybrid identities combine cultures and keep being reworked.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--05-online-identity.webp" width="900" height="399" alt="Goffman’s impression management, with users performing a front-stage self and finding support in online communities, set against Zuboff’s argument that platforms harvest data and shape identities for profit." loading="lazy">
+  <figcaption>Users perform identities online, but inside systems built for profit.</figcaption>
+</figure>
 
 ## Worked example: an 8-mark answer outline
 

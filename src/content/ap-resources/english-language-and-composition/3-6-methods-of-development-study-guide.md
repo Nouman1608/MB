@@ -66,6 +66,11 @@ Note that a method of development is a way of **developing and organising an ide
 
 Other approaches exist as well, such as giving examples, explaining a process or breaking a topic into parts, and these often work *inside* the five.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-6-methods-of-development-study-guide--01-five-methods.webp" width="900" height="688" alt="Five rows, each with a small icon: narration (a time line), cause-effect (a chain of boxes), comparison-contrast (two boxes side by side), definition (a boundary around a term) and description (an eye). Each lists what the method does, its signal words and the question it answers." loading="lazy">
+  <figcaption>Narration, cause-effect, comparison-contrast, definition, description: each helps readers trace the reasoning.</figcaption>
+</figure>
+
 ## The same topic developed five ways
 
 Below, each paragraph begins from the same subject, the old reading room of a closing library. They were written by Marlbridge for practice.
@@ -82,6 +87,11 @@ Below, each paragraph begins from the same subject, the old reading room of a cl
 
 Each paragraph advances the same thesis (the library is worth keeping) in a different way. The method shapes what the reader feels and understands.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-6-methods-of-development-study-guide--02-reading-room-five-ways.webp" width="900" height="758" alt="The old reading room sits at the centre with five developments around it: narration (Zainab’s visit), cause-effect (cut hours leading to the homework club halving), comparison-contrast (Harbourside’s hours and spending), definition (a public place “without paying”) and description (radiator dust and green lamps)." loading="lazy">
+  <figcaption>The same thesis can be developed five ways; each shapes what the reader feels.</figcaption>
+</figure>
+
 ## Choosing a method
 
 Writers choose a method by asking what the argument needs at that point.
@@ -96,6 +106,11 @@ Writers choose a method by asking what the argument needs at that point.
 
 Other factors: the **audience** (sceptical readers may need cause-effect evidence; a general audience may be moved by narration); the **purpose** (to honour, to inform, to persuade); and the **length** (a short speech may be built on one method; an essay combines several).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-6-methods-of-development-study-guide--03-choosing-a-method.webp" width="900" height="694" alt="Five needs mapped to methods: make a point human (narration), show why it matters (cause-effect), show one option is better (comparison-contrast), fix a term’s meaning (definition), help the audience see a situation (description). Audience, purpose and length also shape the choice." loading="lazy">
+  <figcaption>Choose the method that does the job the argument needs at that point.</figcaption>
+</figure>
+
 ## Methods work together
 
 In a strong argument, methods overlap.
@@ -106,6 +121,11 @@ In a strong argument, methods overlap.
 
 Do not label every sentence. Identify the **dominant** method of a paragraph or section and say what it does for the argument.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-6-methods-of-development-study-guide--04-methods-work-together.webp" width="900" height="610" alt="Three panels show a dominant method containing others: narration with description and cause-effect reflection; definition with a comparison (“A library is unlike a shop because...”); cause-effect with a narrative example." loading="lazy">
+  <figcaption>One method usually dominates a paragraph while others work inside it.</figcaption>
+</figure>
+
 ## A public-domain example: Washington's parable (1895)
 
 In his Atlanta address of 18 September 1895, Booker T. Washington tells a short **narrative**: a ship lost at sea sees another vessel and signals, "Water, water; we die of thirst!" The reply is, "Cast down your bucket where you are." The sailors are puzzled, ask again and get the same answer, and at last they lower the bucket and draw up fresh water, for the ship was at the mouth of a great river.
@@ -113,6 +133,11 @@ In his Atlanta address of 18 September 1895, Booker T. Washington tells a short 
 This is **narration** used as a method of development in an argument, and it works like an **analogy**: the ship is the Southern community, and the fresh water is the opportunity and cooperation that were close at hand. The story lets the audience reach the conclusion itself. It also gives the abstract phrase "Cast down your bucket where you are" a memorable shape, so the reasoning is easier to trace and to remember.
 
 Remember that Washington's speech was criticised by contemporaries, and a rhetorical analysis would note both the method and the way different parts of his audience heard it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-6-methods-of-development-study-guide--05-cast-down-your-bucket.webp" width="900" height="513" alt="Four story steps: a ship lost at sea signals for water; the reply is “Cast down your bucket where you are”; puzzled, they ask again; they lower the bucket and draw fresh water at the mouth of a river. Below, the analogy maps the ship to the Southern community and the water to opportunity and cooperation close at hand." loading="lazy">
+  <figcaption>Narration can carry an argument by analogy, letting the audience reach the conclusion.</figcaption>
+</figure>
 
 ## Worked example 1: identifying the method
 
@@ -131,6 +156,11 @@ Remember that Washington's speech was criticised by contemporaries, and a rhetor
 4. **Narration.** Signals: "In June", a story with an event and a reflection ("I have felt that hand... since").
 
 **Check.** Each identification cites a signal in the text. Passage 4 also contains description and passage 1 might include a narrative example, but one method dominates each.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-6-methods-of-development-study-guide--06-identify-the-method.webp" width="900" height="588" alt="Four passages matched to their dominant method with the signal that shows it: the bridge closure is cause-effect (“so”), the two schools side by side is comparison-contrast, “By ‘fairness’ I do not mean...” is definition, and the fishing trip in June is narration." loading="lazy">
+  <figcaption>Each identification cites a signal in the text; one method dominates each passage.</figcaption>
+</figure>
 
 ## Worked example 2: choosing and applying a method
 
@@ -151,6 +181,11 @@ Remember that Washington's speech was criticised by contemporaries, and a rhetor
 > Weekend homework does more than fill a Saturday. In a survey of our school, 70 percent of pupils said they felt exhausted on Monday mornings, and exhausted pupils learn less in the first lessons of the week. Because the most demanding lessons are timetabled for Monday, the cost falls where it matters most.
 
 **Check.** The choice of method follows from the audience (sceptical), the purpose (persuade) and the available evidence. A different order could also work, provided the writer can explain it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-6-methods-of-development-study-guide--07-ordering-methods.webp" width="900" height="534" alt="A three-step plan for persuading a sceptical headteacher: open with cause-effect (the survey of Monday exhaustion), then comparison-contrast (a neighbouring school that has tried the policy), then narration (the Year 9 pupil’s lost Sunday) to give the case a human face." loading="lazy">
+  <figcaption>Audience, purpose and evidence decide which method comes first.</figcaption>
+</figure>
 
 ## How the exam asks about methods of development
 

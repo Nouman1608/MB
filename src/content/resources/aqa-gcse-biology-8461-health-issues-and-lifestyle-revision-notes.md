@@ -63,6 +63,11 @@ lists every point. To find your weak spots fast, try the [free 10-minute diagnos
 
 A person can have several conditions at once, and one can make another more likely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--01-hl-interactions.webp" width="900" height="790" alt="Four cause and effect links between diseases: immune defects such as HIV lead to more infections, viruses in cells such as HPV can trigger cancer, immune reactions to a pathogen can trigger allergies, and severe physical illness can lead to depression." loading="lazy">
+  <figcaption>Four ways one type of disease can lead to another.</figcaption>
+</figure>
+
 ## Handling disease data
 
 ### Incidence
@@ -77,6 +82,11 @@ rate per 100 000 = (number of cases / population) x 100 000
 **Worked reminder.** A town of 250 000 people has 340 new cases in a year. Rate = 340 / 250 000 x 100 000 =
 **136 per 100 000** per year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--02-hl-rates.webp" width="900" height="870" alt="Bar charts for Town A and Town B. Town A has more cases, 1 020 against 330, but the rate per 100 000 is 170 for Town A and 220 for Town B, so Town B has the higher rate." loading="lazy">
+  <figcaption>Town A has more cases but Town B has the higher rate per 100 000.</figcaption>
+</figure>
+
 ### Which chart?
 
 | Data | Chart |
@@ -89,6 +99,11 @@ rate per 100 000 = (number of cases / population) x 100 000
 In a histogram with **unequal class widths**, the bar height is frequency density = frequency / class width, so
 the **area** of each bar shows the frequency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--03-hl-histogram.webp" width="900" height="1140" alt="A histogram bar for 180 people aged 20 to under 40 has height 9 people per year, so its area is 20 times 9, which is 180. A wider illustrative class of 40 years has height 4.5 and the same area." loading="lazy">
+  <figcaption>With unequal class widths the area of a bar, not its height, shows the frequency.</figcaption>
+</figure>
+
 ### Correlation from a scatter diagram
 
 | Pattern | Meaning |
@@ -98,6 +113,11 @@ the **area** of each bar shows the frequency.
 | No pattern | No correlation |
 
 A correlation shows the variables are linked. It does **not** on its own prove that one causes the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--04-hl-scatter.webp" width="900" height="1120" alt="Three scatter diagrams with illustrative points showing positive correlation, negative correlation and no correlation, with a reminder that correlation does not prove cause." loading="lazy">
+  <figcaption>Points that rise, fall or show no pattern; a link is not proof of cause.</figcaption>
+</figure>
 
 ### Principles of sampling (epidemiological data)
 
@@ -132,6 +152,11 @@ get the disease, while another without it might.
 | Smoking and alcohol in pregnancy | Harm to the unborn baby | Smoking: carbon monoxide cuts the oxygen the blood carries, linked to low birth weight and premature birth. Alcohol: can damage the baby's development, including the brain |
 | Carcinogens, including ionising radiation | Cancer | Damage DNA, so cells may divide uncontrollably. Ionising radiation includes X-rays and gamma rays |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--06-hl-lifestyle-links.webp" width="900" height="860" alt="Lines join each lifestyle risk factor to the diseases it raises: diet, exercise and smoking to cardiovascular disease, smoking to lung disease and harm to the unborn baby, alcohol to liver and brain damage and harm to the baby, obesity to Type 2 diabetes, carcinogens to cancer." loading="lazy">
+  <figcaption>Which risk factor is linked to which disease or effect.</figcaption>
+</figure>
+
 ### Lifestyle at local, national and global levels
 
 The incidence of non-communicable diseases changes with lifestyle in a place. For example, an area where more
@@ -160,6 +185,11 @@ habits change around the world, these diseases are becoming more common in many 
 **Worked reminder.** In a study, 24 in every 1000 smokers and 3 in every 1000 non-smokers developed a disease.
 24 / 3 = 8, so smokers in this sample were **8 times** as likely to develop it. That is a strong correlation; a
 causal link needs a known mechanism and repeated studies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--05-hl-risk-data.webp" width="900" height="1040" alt="Two grids of 1 000 people each, with 45 highlighted among smokers and 9 among non-smokers, so smokers were 5 times as likely to develop the lung disease. Concluding cause needs a mechanism, a large representative sample and agreeing studies." loading="lazy">
+  <figcaption>45 in 1 000 smokers against 9 in 1 000 non-smokers is a five-fold difference.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

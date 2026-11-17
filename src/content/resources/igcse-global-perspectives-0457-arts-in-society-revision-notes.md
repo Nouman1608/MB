@@ -70,6 +70,16 @@ Assessment objectives (section 2): **AO1 Research, analysis and evaluation**; **
 
 Each can be seen at **global**, **national** and **local** level. For example, restitution is global (objects held across continents), national (laws on what national museums may give away) and local (one museum's single item).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-arts-in-society--01-arts-funding-levels.webp" width="900" height="521" alt="Concentric rings for local, national and global levels of the issue of public funding for the arts: a council deciding whether to keep a community arts centre; government budgets for theatres and galleries; and countries funding culture in very different ways." loading="lazy">
+  <figcaption>A good issue can be traced from a local decision up to a global pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-arts-in-society--03-arts-centre-chain.webp" width="900" height="650" alt="A vertical chain: a council cuts an arts centre grant, the centre raises prices, young people from lower-income families take part less, access becomes more unequal, and fewer may later choose creative careers. A side panel asks whether price is really the main barrier, since time, transport or confidence may matter, and suggests surveying non-attenders." loading="lazy">
+  <figcaption>Follow the chain link by link, then test whether the first cause is really the main one.</figcaption>
+</figure>
+
 ## Real-world examples at a glance
 
 You are not marked for knowing these, but accurate examples make your research and reasoning stronger.
@@ -80,6 +90,16 @@ You are not marked for knowing these, but accurate examples make your research a
 | Parthenon Marbles | Held in the British Museum; Greece asks for their return; the British Museum Act 1963 limits disposal of objects | How law shapes a course of action | Law explains why a museum acts as it does, but not whether the law itself is fair |
 | Guggenheim Museum Bilbao | Designed by Frank Gehry, opened in 1997; linked to the phrase "the Bilbao effect" | Causes and consequences; correlation versus causation | Other investment happened at the same time, so the building cannot be credited with all the change |
 | UDHR Article 27 (1948) | States a right "to participate in the cultural life of the community, to enjoy the arts" | Values-based arguments | Supports a value, not a particular level of spending |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-arts-in-society--02-restitution-perspectives.webp" width="900" height="910" alt="Two overlapping circles: a community or government of origin wants objects returned for identity, history and justice; a museum director wants to keep or loan them for access, conservation and legal duties. The overlap shows both might accept a loan. Below, a young person wants to see the objects without travelling, and three statements are labelled a checkable historical claim, a claim needing evidence, and a value." loading="lazy">
+  <figcaption>Perspectives can overlap, and each type of statement is judged in a different way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-arts-in-society--04-bilbao-effect.webp" width="900" height="610" alt="Three possible causes point to the box The city changes: a new cultural building such as the Guggenheim Museum Bilbao (a dashed arrow with a question mark), new transport and other investment. Below, correlation means two things happening together; causation means one caused the other." loading="lazy">
+  <figcaption>A city changes for many reasons at once, so one building cannot be assumed to cause it all.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -99,6 +119,11 @@ You are not marked for knowing these, but accurate examples make your research a
 3. **What evidence supports it, and how was it gathered?** Who was surveyed, how many, and who was left out?
 4. **Does the conclusion follow?** Watch for a jump from one town to a whole country, or from correlation to cause.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-arts-in-society--05-theatre-impact-claim.webp" width="900" height="639" alt="A leaflet claims every pound spent on theatre returns four to the local economy. Three checks fail: the company has a vested interest, the method is not given, and the figure may count spending that would have happened anyway. The claim is weak on its own and would be stronger from an independent researcher who explains the method." loading="lazy">
+  <figcaption>Ask who produced a figure, how, and what it quietly counts.</figcaption>
+</figure>
+
 ## Mini essay plan
 
 **Question type:** Evaluate the possible courses of action a town council could take to increase young people's participation in the arts. (This mirrors the skill in Component 1 of assessing actions; it is not a past-paper question.)
@@ -110,6 +135,11 @@ You are not marked for knowing these, but accurate examples make your research a
 5. **Action 3: artist workshops in schools.** Reaches students who never visit a venue; but depends on school time and long-term funding.
 6. **Perspectives.** Show how taxpayers, young people, artists and the council might each judge these actions, and why.
 7. **Judgement.** Choose one action, or a combination, and justify it against your criteria. Say how success would be measured and what evidence would change your mind.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-arts-in-society--06-access-actions.webp" width="900" height="642" alt="Six criteria for judging actions (effectiveness, cost, feasibility, who benefits and loses, sustainability, unintended effects) above a table comparing free museum days, a discounted youth arts pass and artists’ workshops in schools, each with a strength and a limitation." loading="lazy">
+  <figcaption>Every action has a weakness; the judgement says when it would still be the best choice.</figcaption>
+</figure>
 
 ## Quick self-test
 

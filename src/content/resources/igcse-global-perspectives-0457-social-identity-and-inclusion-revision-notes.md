@@ -55,6 +55,11 @@ Component 1 carries AO1 only. That means the Written Exam rewards analysis and e
 | Integration | Newcomers and residents mixing in shared institutions | Working term |
 | Multiculturalism | Groups keep distinct identities within one society | Working term |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--01-identity-and-inclusion.webp" width="900" height="696" alt="Social identity at the centre of six groups it comes from: family, language, nationality, age group, faith and school. Definitions of inclusion, exclusion and belonging, and two contested ideas: integration, where groups mix and share institutions, and multiculturalism, where groups keep distinct identities within one society." loading="lazy">
+  <figcaption>Identity comes from the groups we belong to; inclusion decides whether we can take part.</figcaption>
+</figure>
+
 ## Source-analysis terms at a glance
 
 The syllabus says you will benefit from understanding these eight terms. Learn one identity-themed example of each.
@@ -70,6 +75,11 @@ The syllabus says you will benefit from understanding these eight terms. Learn o
 | Vested interest | Does the writer gain if you agree? | A translation firm urging more translated signs |
 | Bias | Is relevant evidence left out? | An article that quotes only one community |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--05-kelton-survey.webp" width="900" height="550" alt="Sixty dots, 21 highlighted, show that 21 of 60 older residents surveyed by a fictional Kelton community centre (35%) had no one to talk to most weeks. People who never visit the centre were probably missed, so the real figure could be higher. A cause chain: evening buses stop, residents stop going to events, and they have fewer chances to meet people." loading="lazy">
+  <figcaption>Ask who a survey missed: here, the most isolated people.</figcaption>
+</figure>
+
 ## Real reference points at a glance
 
 | Document or body | What it says or does | One evaluation point |
@@ -78,6 +88,11 @@ The syllabus says you will benefit from understanding these eight terms. Learn o
 | UN Convention on the Rights of Persons with Disabilities | Adopted 2006, in force 2008 | Signing it does not show how well a country carries it out |
 | Sustainable Development Goal 10, target 10.2 | Promote social, economic and political inclusion of all by 2030 | A target is an aim, not proof of progress |
 | World Health Organization estimate | About 1.3 billion people, around 1 in 6, experience significant disability | Global figure; may not match a local situation |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--06-reference-points.webp" width="900" height="672" alt="A table evaluates four reference points: UDHR Article 2, the UN Convention on the Rights of Persons with Disabilities, SDG target 10.2, and the WHO estimate that about 1.3 billion people, 1 in 6, have significant disability. Each has a strength and limitation. Using a global figure to justify a local decision is a jump in reasoning." loading="lazy">
+  <figcaption>A credible source can still be used in weak reasoning.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -90,6 +105,16 @@ The syllabus says you will benefit from understanding these eight terms. Learn o
 - **Reliable vs credible.** A reliable source gives consistent, accurate information. A credible source has expertise and reason to be trusted. Check both.
 - **Integration vs multiculturalism.** Two contested approaches. Explain each fairly before judging.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--02-issue-test.webp" width="900" height="534" alt="A test of whether a statement is an issue: “Discrimination is bad” is not, because almost nobody disagrees; whether school dress rules should allow cultural exceptions is, because people answer differently. A table gives an issue at each level: global accessibility agreements, national quotas, and local wheelchair access." loading="lazy">
+  <figcaption>A good issue divides opinion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--03-dress-rules.webp" width="900" height="574" alt="Four perspectives on school dress rules: some parents and teachers want one uniform to reduce visible wealth differences; a government wants clear national rules; other families want room for cultural dress and hairstyles; students see appearance as self-expression and may feel excluded. Global non-discrimination principles do not settle the detail." loading="lazy">
+  <figcaption>Each perspective rests on a value: fairness, clarity, heritage or self-expression.</figcaption>
+</figure>
+
 ## Cause and consequence chains
 
 - No ramp at the youth club → wheelchair users cannot enter → they miss activities → fewer friendships → feeling of not belonging.
@@ -97,6 +122,11 @@ The syllabus says you will benefit from understanding these eight terms. Learn o
 - Stereotypes in media → employers make assumptions → fewer job offers for a group → income gaps.
 
 Each chain can also be reversed into a course of action: fix the first link and you may break the chain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--04-exclusion-causes-consequences.webp" width="900" height="564" alt="Six causes of exclusion (physical barriers, cost, language differences, stereotypes, rules designed for the majority, lack of information) lead to consequences for individuals (loneliness, missed education or jobs), communities (less trust, wasted talent) and countries (lower output and tension, or where inclusion succeeds, wider skills and ideas)." loading="lazy">
+  <figcaption>Name who is affected by exclusion and how.</figcaption>
+</figure>
 
 ## Mini essay plan
 
@@ -114,6 +144,11 @@ The plan shows the method. Your own conclusion should follow from the evidence y
 
 - **Individual Report:** a global research question that divides opinion, local and/or national and global perspectives, causes and consequences, one proposed course of action, evaluation of sources, your own view and an answer to your question. See [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/).
 - **Team Project:** a local issue such as newcomer belonging or step-free access, a team action you can carry out, evidence of action, a way to measure success and an individual Reflective Paper. See [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--07-culture-club.webp" width="900" height="634" alt="A student-run culture club is assessed: it targets the cause by helping newcomers meet others and valuing their background, at low cost, but depends on committed leaders, may attract confident students and does not reach those who never attend. It works best alongside other actions. Six questions for judging any action follow." loading="lazy">
+  <figcaption>A cheap, targeted action can still need others alongside it.</figcaption>
+</figure>
 
 ## Quick self-test
 

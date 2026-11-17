@@ -53,6 +53,11 @@ For the full explanation, use the
 | 1865–70 | 13th, 14th, 15th Amendments | Freedom, citizenship, vote |
 | 1877 | Compromise of 1877 | Federal troops leave the South: Reconstruction ends |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-civil-war-1820-1877--09-civilwar-slavery-crises.webp" width="900" height="980" alt="A vertical timeline from 1820 to 1859 with years to scale. Gold circles mark slavery-related events: Missouri Compromise 1820, The Liberator 1831, Mexican War 1846 to 48, Compromise of 1850, Uncle Tom’s Cabin 1852, Kansas–Nebraska Act 1854, Dred Scott 1857, John Brown at Harpers Ferry 1859. A copper diamond marks the 1832 to 33 Nullification Crisis over tariffs, settled by compromise." loading="lazy">
+  <figcaption>Almost every crisis from 1820 to 1859 was about slavery in the western territories; the tariff dispute was settled by compromise.</figcaption>
+</figure>
+
 ## Causes: the weighing you need
 
 - **Slavery** — the issue behind almost every crisis, above all its
@@ -66,6 +71,21 @@ For the full explanation, use the
 **Line of argument:** slavery was the underlying cause; the other
 factors were largely expressions of it, and Lincoln's election was the
 trigger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--01-compromise-fails.webp" width="900" height="525" alt="Three changes converge: each compromise left one side cheated (the Fugitive Slave Act of 1850), the national parties broke apart (Whig collapse, a Northern Republican Party, the Democratic split of April 1860), and positions hardened (Dred Scott, Freeport). The result: the Crittenden Compromise failed in December 1860." loading="lazy">
+  <figcaption>After 1850 there was no party able to broker a deal between the sections.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-civil-war-1820-1877--10-civilwar-election-1860.webp" width="900" height="900" alt="Four candidates stood in 1860: Douglas and Breckinridge, whose Democratic Party split between North and South, Bell of the Constitutional Union Party, and Lincoln, the Republican winner. Lincoln took about 40 percent of the popular vote and a majority in the Electoral College but carried no Southern state. He promised not to touch slavery where it existed but opposed its spread." loading="lazy">
+  <figcaption>Lincoln won in 1860 with about 40% of the popular vote and no Southern state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--02-trigger-cause.webp" width="900" height="621" alt="Slavery and its expansion are shown as the underlying cause, above a chain of triggers: Lincoln's election in November 1860, South Carolina's secession on 20 December 1860, the inaugural of 4 March 1861 and Fort Sumter on 12 April 1861, after which four more states seceded. A note explains what the election showed the South." loading="lazy">
+  <figcaption>The election triggered secession; slavery's expansion caused it.</figcaption>
+</figure>
 
 ## Why the North won
 
@@ -81,6 +101,16 @@ trigger.
 **South's strengths:** defending its own ground; Lee and Jackson; high
 morale early on. They were not enough in a long war of resources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-civil-war-1820-1877--12-civilwar-why-north-won.webp" width="900" height="783" alt="A balance scale tips towards the North. The North side lists a bigger population with factories, railways and food, the Union blockade, the 1863 turning points, Grant and Sherman, and about 180,000 Black soldiers. The South side lists only having to defend, skilled commanders Lee and Jackson, and the failed King Cotton hope of recognition by Britain and France. Lee surrendered on 9 April 1865." loading="lazy">
+  <figcaption>The North’s advantages outweighed the South’s real strengths.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-civil-war-1820-1877--13-civilwar-turning-points.webp" width="900" height="836" alt="Six dated steps: Antietam and the announced Emancipation Proclamation in September 1862; the Proclamation in force on 1 January 1863; Gettysburg and Vicksburg in July 1863; Sherman capturing Atlanta in September 1864; Lee’s surrender at Appomattox on 9 April 1865; and Lincoln’s shooting on 14 April 1865 with his death the next day." loading="lazy">
+  <figcaption>Key dates from Antietam in 1862 to Lee’s surrender and Lincoln’s death in April 1865.</figcaption>
+</figure>
+
 ## Reconstruction: success or failure?
 
 - **Successes:** slavery abolished (13th); citizenship and equal
@@ -92,6 +122,11 @@ morale early on. They were not enough in a long war of resources.
 - **Politics:** President Andrew Johnson against the Radical
   Republicans; Reconstruction Acts 1867; Johnson impeached 1868 and
   acquitted by one vote.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-civil-war-1820-1877--14-civilwar-reconstruction.webp" width="900" height="886" alt="Five rows pair a Reconstruction change with its limit: the 13th Amendment against the Black Codes; the 14th Amendment against courts weakening it; the 15th Amendment against violence and literacy tests; the Freedmen’s Bureau against landlessness and sharecropping; Black officials such as Hiram Revels against Ku Klux Klan terror. A closing bar notes that the last federal troops left in 1877 and Redeemers returned." loading="lazy">
+  <figcaption>Each Reconstruction gain met a limit; the last federal troops left in 1877.</figcaption>
+</figure>
 
 ## Key people
 
@@ -107,6 +142,11 @@ morale early on. They were not enough in a long war of resources.
 | Andrew Johnson | President after Lincoln's assassination; clashed with Congress over Reconstruction |
 
 Naming the right person with the right date is one of the quickest ways to make a (b) explanation specific.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--05-lincoln-role.webp" width="900" height="675" alt="Five steps of Lincoln's leadership: keeping the border states by first presenting the war as saving the Union, changing generals, the Emancipation Proclamation (1 January 1863), the Gettysburg Address (November 1863) and pushing the 13th Amendment through Congress (January 1865), before his assassination in April 1865." loading="lazy">
+  <figcaption>Lincoln moved carefully from saving the Union to ending slavery.</figcaption>
+</figure>
 
 ## Advantages at the start of the war
 

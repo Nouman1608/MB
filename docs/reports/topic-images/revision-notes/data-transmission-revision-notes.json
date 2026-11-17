@@ -1,0 +1,9 @@
+{ "page": "data-transmission-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-computer-science-data-transmission--07-dt-packet-structure.webp", "after": "## Packets and packet switching — narrate it as a sequence" },
+ { "src": "https://img.marlbridge.com/igcse-computer-science-data-transmission--08-dt-packet-switching.webp", "after": "## Packets and packet switching — narrate it as a sequence" },
+ { "src": "https://img.marlbridge.com/igcse-computer-science-data-transmission--09-dt-serial-parallel.webp", "after": "## Transmission methods — match scenario to method fast" },
+ { "src": "https://img.marlbridge.com/igcse-computer-science-data-transmission--10-dt-duplex.webp", "after": "## Transmission methods — match scenario to method fast" },
+ { "src": "https://img.marlbridge.com/igcse-computer-science-data-transmission--11-dt-parity.webp", "after": "## Error detection — keep the three methods distinct" },
+ { "src": "https://img.marlbridge.com/igcse-computer-science-data-transmission--12-dt-arq.webp", "after": "## Error detection — keep the three methods distinct" },
+ { "src": "https://img.marlbridge.com/igcse-computer-science-data-transmission--13-dt-encryption.webp", "after": "## Encryption — the one distinction that carries the marks" }
+] }

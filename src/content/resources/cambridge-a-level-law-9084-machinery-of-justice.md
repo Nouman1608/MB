@@ -52,6 +52,16 @@ Since October 2023 an **intermediate track** has sat between fast track and mult
 
 **Appeals.** Permission is normally needed. Appeals go to the next level of judge, then the Court of Appeal and, on points of law of general public importance, the Supreme Court; a "leapfrog" appeal can go from the High Court directly to the Supreme Court.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-machinery-of-justice--01-civil-claim-to-allocation.webp" width="900" height="764" alt="A civil claim begins with a protocol letter of claim and a claim form with particulars. The defendant may admit, file a defence within 14 days (or 28 after acknowledging service), or do nothing and risk judgment in default. A defended claim goes through a directions questionnaire to one of four tracks: small claims up to £10,000, fast track £10,000 to £25,000, the intermediate track up to £100,000 since October 2023, and multi-track." loading="lazy">
+  <figcaption>Defended claims are allocated to a track by value, complexity and evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-machinery-of-justice--02-woolf-reforms.webp" width="900" height="815" alt="Lord Woolf found civil justice too costly, slow and complex. The Civil Procedure Rules 1998 introduced the overriding objective, judicial case management, pre-action protocols, Part 36 offers, single joint experts and encouragement of ADR. Cases settled earlier but costs stayed high, leading to the Jackson review (2010) and a swing from Mitchell (2013) to Denton (2014)." loading="lazy">
+  <figcaption>The CPR gave judges control of cases; costs remained the weak point.</figcaption>
+</figure>
+
 ## 1.2.2 Alternative methods of dispute resolution
 
 - **Negotiation** – the parties settle directly, privately and cheaply.
@@ -66,6 +76,11 @@ Unreasonable refusal can lead to a costs penalty (*Halsey v Milton Keynes Genera
 A **Scott v Avery clause** (*Scott v Avery* (1856)) makes an arbitration award a condition precedent to any court action, so a party cannot sue until arbitration is complete. 
 
 **Evaluation.** Arbitration is private, expert and usually quicker, but appeal is limited, arbitrators' fees can be high and a weaker party may be bound by a clause it never negotiated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--06-adr-methods.webp" width="900" height="909" alt="Four rows of alternative dispute resolution, each with a small picture of the people involved. In negotiation only the two parties talk. In mediation a neutral third party helps without imposing a solution. In conciliation the third party may suggest a solution. In arbitration the arbitrator makes a binding award that a court can enforce." loading="lazy">
+  <figcaption>From negotiation to arbitration, the third party has more and more say over the outcome.</figcaption>
+</figure>
 
 ## 1.2.3 Criminal courts and criminal process
 
@@ -90,6 +105,21 @@ The **Crown Prosecution Service** charges under the Code for Crown Prosecutors: 
 - **Factors** include the nature and seriousness of the offence and likely sentence, the defendant's character, antecedents, associations and community ties, their record of answering bail, and the strength of the evidence.
 - **Conditions** include residence, curfew, reporting to a police station, surrendering a passport, electronic monitoring, a surety or a security.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-machinery-of-justice--03-criminal-appeals.webp" width="900" height="910" alt="Appeal routes: from the Magistrates’ Court the defendant appeals to the Crown Court against conviction (a full rehearing) or sentence, and either side may appeal by case stated to the Divisional Court of the King’s Bench Division. From the Crown Court the defendant needs permission to appeal to the Court of Appeal (Criminal Division), which quashes unsafe convictions. Both routes can reach the Supreme Court on a certified point of law. Below: unduly lenient sentence references, retrial after acquittal and the Criminal Cases Review Commission." loading="lazy">
+  <figcaption>Rehearing or case stated from the magistrates; permission and the “unsafe” test from the Crown Court.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-machinery-of-justice--04-bail.webp" width="900" height="600" alt="Police bail under PACE, with conditions allowed by the Criminal Justice and Public Order Act 1994 and the s25 restriction for serious repeat offences; court bail under s4 Bail Act 1976, refused only on substantial grounds that the defendant would abscond, offend or interfere with witnesses. Below are the factors the court weighs and the conditions it may impose." loading="lazy">
+  <figcaption>Bail is the default; refusal needs substantial grounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--05-offence-classes.webp" width="900" height="820" alt="A grid of three offence types against two courts. Summary offences are tried only in the Magistrates' Court. Either-way offences may be tried in either court, depending on the magistrates' view of their sentencing powers and the defendant's choice. Indictable offences are first heard in the Magistrates' Court but always tried in the Crown Court with a judge and jury." loading="lazy">
+  <figcaption>The class of offence decides which criminal court tries it.</figcaption>
+</figure>
+
 ## 1.2.4 Police powers
 
 **Stop and search.** Section 1 PACE allows a constable to search a person or vehicle in a public place for stolen or prohibited articles (such as offensive weapons), only on reasonable suspicion. Under s2 the officer gives their name, station, the object and grounds of the search, and the right to a record (s3). PACE Code A states that suspicion cannot rest on personal factors such as race, age or appearance alone. Other powers: s23 Misuse of Drugs Act 1971 for controlled drugs; s43 Terrorism Act 2000 for a suspected terrorist, and s47A for authorised searches without individual suspicion, introduced after *Gillan and Quinton v UK* (2010) held the earlier no-suspicion power breached Article 8.
@@ -113,6 +143,11 @@ The **Crown Prosecution Service** charges under the Code for Crown Prosecutors: 
 
 **Impact of breaches.** Under s76 a confession obtained by **oppression**, or in circumstances likely to make it unreliable, must be excluded; in *R v Paris, Abdullahi and Miller* (1993) a confession obtained through hours of hectoring questioning was excluded on appeal. Under s78 the court has a discretion to exclude any evidence whose admission would have an adverse effect on the fairness of the trial; in *R v Samuel* (1988) wrongful refusal of access to a solicitor led to the conviction being quashed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-machinery-of-justice--05-detention-clock.webp" width="900" height="720" alt="A to-scale timeline of detention: up to 24 hours from arrival without charge (s41), up to 36 hours for an indictable offence on a superintendent’s authority (s42), and up to 96 hours in total with a magistrates’ warrant (ss43 to 44), with reviews within 6 hours and then every 9 hours (s40). A table lists the detainee’s rights and their sources." loading="lazy">
+  <figcaption>Detention is time-limited, and each extension needs higher authority.</figcaption>
+</figure>
+
 ## Worked example
 
 *Sami, 19, is stopped because "young men round here carry knives", arrested without being told why and held for 30 hours. His request for a solicitor is refused; he confesses. Advise Sami.*
@@ -122,6 +157,11 @@ The **Crown Prosecution Service** charges under the Code for Crown Prosecutors: 
 3. **Detention:** beyond 24 hours needs a superintendent's authority for an indictable offence (s42); none is mentioned.
 4. **Legal advice:** refusal breaches s58 without proper authority.
 5. **Evidence:** the confession is open to exclusion under s78, applying *Samuel*, and possibly s76 if the conditions were oppressive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-machinery-of-justice--06-sami-worked-example.webp" width="900" height="697" alt="Four breaches in Sami’s case: a stop without reasonable suspicion (s1, Code A), an arrest without reasons (s28) and doubtful necessity (s24), detention beyond 24 hours without a superintendent’s authority (s42), and refusal of a solicitor (s58). His confession is open to exclusion under s78 (Samuel) and possibly s76." loading="lazy">
+  <figcaption>Breaches at every stage put the confession at risk under s78, and possibly s76.</figcaption>
+</figure>
 
 ## Common mistakes
 

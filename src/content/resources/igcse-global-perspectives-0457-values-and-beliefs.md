@@ -55,6 +55,11 @@ The terms below are working vocabulary, not syllabus content.
 - **Universalism**: the view that some values, such as basic human rights, apply to everyone everywhere.
 - **Cultural relativism**: the view that values should be understood within each culture, not judged only by outside standards. Present both as perspectives with reasons, not as right and wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--01-belief-to-perspective.webp" width="900" height="830" alt="A belief held by faith or habit becomes a perspective once reasons and evidence are set out. A spectrum runs from universalism, where some values apply everywhere, to cultural relativism, where values are understood within each culture, with the 1993 Vienna Declaration holding both ideas in the middle. Definitions of value, secular and tolerance follow." loading="lazy">
+  <figcaption>Present universalism and relativism as perspectives with reasons, not as right and wrong.</figcaption>
+</figure>
+
 ## Finding issues at global, national and local level
 
 A topic is too broad to research. An issue is narrow enough to investigate. Practise moving between levels.
@@ -87,6 +92,11 @@ A real reference point: in England and Wales, the Sunday Trading Act 1994 allowe
 
 > Religious groups who want large shops to stay closed on the rest day hold a perspective based on the value of rest and worship. [knowledge] In the source, the claim that "a day without shopping keeps families together" reflects a wider value of family time, which non-religious people may share. [application] This shows that the perspective is not only religious, and it explains why support may be wider than the number of regular worshippers. [analysis] However, the claim gives no evidence that families actually spend more time together when shops close, so the perspective is clearly reasoned but only weakly supported. [evaluation]
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--02-rest-day-perspectives.webp" width="900" height="598" alt="Three groups on whether large shops should open on the day of rest: religious groups and some non-religious families favour closure; small shop owners prefer it; shop workers are divided; free-choice supporters and large retailers favour opening. The Sunday Trading Act 1994 lets large shops open for six hours, balancing values." loading="lazy">
+  <figcaption>Perspectives on one issue come from faith, family, money and freedom, not just religion.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 The syllabus asks you to analyse the reasons for disagreement and the consequences or impacts of an issue. Build chains: cause, effect, further effect.
@@ -103,6 +113,21 @@ One theory to evaluate: the political scientist Ronald Inglehart argued that as 
 **Possible consequences:** individuals may feel respected, or excluded when their beliefs are ignored; communities may cooperate or divide; countries may see new laws, protest or debate about national identity; states may disagree about which rights are universal.
 
 **Practising with invented data:** in a fictional town, Ardley, a youth club asked 80 members whether they had volunteered in the past year. 28 (35%) said yes. An older resident says, "Young people today don't care about their community." Does 35% support that generalisation? There is no comparison with older people, the sample is only club members, and informal help, such as caring for a relative, may not be counted. The evidence cannot settle the claim.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--03-why-values-differ.webp" width="900" height="572" alt="Six sources of a person’s values surround a central hub: upbringing and family, religion or belief, culture and history, economic position, personal experience and generation. Below, causes of value disagreements: different teachings, generational change, migration, economic change and media, and laws written when beliefs were more shared." loading="lazy">
+  <figcaption>Explain why someone holds a value before judging it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--04-inglehart-theory.webp" width="900" height="424" alt="An arrow from survival priorities to self-expression shows Ronald Inglehart’s argument that, as societies become more economically secure, priorities shift towards personal freedom and tolerance, drawing on the World Values Survey first carried out in 1981. Strength: decades of repeated surveys. Limitations: links not cause, and critics say it treats one path as normal for all." loading="lazy">
+  <figcaption>A well-evidenced theory can still show correlation rather than cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--05-ardley-volunteering.webp" width="900" height="696" alt="Eighty dots, 28 shaded, show that 28 of 80 members of a fictional Ardley youth club (35%) volunteered in the past year. Tested against the claim that young people don’t care about their community, the evidence fails: there is no comparison with older people, the sample is only club members, and informal help may be missed." loading="lazy">
+  <figcaption>Without a comparison group, one figure cannot support a generalisation.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -124,6 +149,11 @@ Section 4 says you will benefit from understanding **bias, claim, fact, generali
 
 > The writer states that about a quarter of the world's population is religiously unaffiliated and uses this to argue that rest-day laws are out of date. [knowledge] The figure comes from a Pew Research Center estimate, a credible source. [application] But it is a global figure, and the argument is about one country, where the share could be much higher or lower. Also, being unaffiliated does not mean a person rejects a weekly day of rest. [analysis] So the evidence is reliable, but the reasoning does not connect it to the conclusion, which weakens the argument. [evaluation]
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--06-rights-documents.webp" width="900" height="668" alt="UDHR Articles 18 (freedom of religion) and 19 (freedom of expression) can pull against each other. A table evaluates the UDHR, the ICCPR and a June 2025 Pew report. Using Pew’s global estimate of about 24.2% religiously unaffiliated to argue one country’s rest-day law is outdated is reliable evidence used with weak reasoning." loading="lazy">
+  <figcaption>Check that a reliable figure actually connects to the conclusion drawn from it.</figcaption>
+</figure>
+
 ## Courses of action
 
 Component 1 asks you to assess actions. The Individual Report asks you to consider different courses of action and propose one, explaining how it could be implemented and its impact. Judge each action on who carries it out, cost, who benefits, who loses out, and how success would be measured.
@@ -139,6 +169,11 @@ Examples for this topic:
 **Worked example paragraph (course of action):**
 
 > A school could offer a weekly menu that includes vegetarian and other belief-based options, chosen after a student survey. [knowledge] For students whose beliefs limit what they can eat, this tackles the cause of the problem directly: food that does not meet their needs. [application] It may raise costs and need new suppliers, and students who are not surveyed may still be missed. [analysis] It is likely to work if the school measures uptake and asks students again after a term, so it is a realistic first step rather than a complete solution. [evaluation]
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--07-values-actions.webp" width="900" height="673" alt="Denmark passed a law in December 2023, by 94 votes to 77, protecting religious objects from public destruction with a fine or up to two years in prison; the government cited security and critics cited freedom of expression. Other actions: compromise laws, dialogue groups and flexible policies such as menu choices or festival time off." loading="lazy">
+  <figcaption>Contested actions should be presented with both sides’ reasons.</figcaption>
+</figure>
 
 ## Individual Report ideas
 

@@ -39,6 +39,11 @@ Condensed recall for **5.4 Managing tourism and sport for the future** (IB DP Ge
 
 **Ecotourism** is responsible travel to natural areas that conserves the environment, supports the well-being of local people and includes education. **Greenwashing** is when operators use the label without meeting these standards, which is why certification and enforcement matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--07-sustainable-balance.webp" width="900" height="900" alt="Three overlapping circles labelled environmental, social and economic. Where they overlap in the centre is sustainable balance. Below are four management tools: ecotourism, visitor limits, planning controls and certification." loading="lazy">
+  <figcaption>Sustainable tourism balances environmental, social and economic goals, using the listed management tools.</figcaption>
+</figure>
+
 ## Approaches
 
 | Approach | Example |
@@ -50,6 +55,11 @@ Condensed recall for **5.4 Managing tourism and sport for the future** (IB DP Ge
 | Sport | Sustainable event design, reuse of existing venues, planned legacy |
 
 **Rejuvenation strategies** for a stagnating destination include diversifying products (events, conferences, heritage, wellness), upgrading accommodation, improving the public realm and targeting new markets. They correspond to the rejuvenation branch of Butler's model.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--02-butler-cycle.webp" width="900" height="820" alt="A smooth rising S-shaped curve of visitor numbers over time, split into five numbered stages: exploration, involvement, development, consolidation and stagnation. After stagnation the line splits into two possible futures: rejuvenation (visitor numbers rise again) or decline (they fall). Not to scale." loading="lazy">
+  <figcaption>Butler’s tourism area life cycle: visitor numbers rise through stages and then either decline or are rejuvenated.</figcaption>
+</figure>
 
 ## Case studies
 

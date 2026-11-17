@@ -50,6 +50,21 @@ Condensed for the final weeks. For the full explanation, use the
 
 Revise with **labelled diagrams** (nervous system divisions, a neuron with synapse, localised brain regions) rather than prose alone — this content rewards precise anatomical vocabulary.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--01-psy-nervous-divisions.webp" width="900" height="680" alt="A tree diagram. The nervous system splits into the central nervous system (CNS) and the peripheral nervous system (PNS). The PNS splits into the somatic and autonomic divisions. A dashed outline around the PNS, somatic and autonomic boxes shows that the autonomic division sits inside the PNS and is not a separate category." loading="lazy">
+  <figcaption>The autonomic nervous system is a division of the peripheral nervous system, not a separate category.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--02-psy-neuron-synapse.webp" width="900" height="980" alt="Three neurons in a row, labelled sensory neuron, relay neuron and motor neuron, with the signal travelling left to right. A small gap, the synapse, lies between each pair. A magnified view of one synapse shows neurotransmitter dots crossing the gap from the sending neuron to the next neuron, which results in excitation or inhibition. Schematic, not to scale." loading="lazy">
+  <figcaption>Messages pass along sensory, relay and motor neurons; at each synapse neurotransmitters cross the gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--03-psy-brain-localisation.webp" width="900" height="920" alt="A side-view brain outline with the front on the left. Coloured regions mark the motor area and the somatosensory area as two vertical bands near the middle, the visual area at the back, the auditory area in the lower middle, Broca's area at the lower front and Wernicke's area at the lower back; Broca's and Wernicke's are the language centres. Schematic, not to scale." loading="lazy">
+  <figcaption>Localisation of function: different regions of the brain carry out different functions.</figcaption>
+</figure>
+
 ## Cognitive development — Piaget vs Vygotsky
 
 | | Piaget | Vygotsky |
@@ -61,11 +76,26 @@ Also: Baillargeon's violation-of-expectation research (challenges Piaget on obje
 
 Exam questions frequently ask you to **compare** Piaget and Vygotsky directly, not describe either alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--05-psy-piaget-vs-vygotsky.webp" width="900" height="1200" alt="Top panel, Piaget: a staircase of four steps with a child standing alone on the second step and an upward arrow labelled stages, to show an internal, stage-based process. Bottom panel, Vygotsky: three concentric rings with a child in the centre. The inner ring is what the child can do alone, the middle ring is the zone of proximal development, what the child can do with help, and the outer ring is not yet possible. A helper outside the rings gives scaffolding by reaching into the middle ring." loading="lazy">
+  <figcaption>Piaget: an internal, stage-based process. Vygotsky: development driven socially and culturally, through scaffolding in the zone of proximal development.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--04-psy-piaget-adaptation.webp" width="900" height="880" alt="Two panels use a shape-fitting picture. Assimilation: a square block drops into a square hole in a frame that stands for a schema, so the schema stays the same. Accommodation: a triangular block does not fit a square hole, so the schema is reshaped with a triangular hole. Arrows from both panels lead to equilibration, balance restored." loading="lazy">
+  <figcaption>New experience is fitted into a schema (assimilation) or the schema is changed (accommodation), restoring equilibrium.</figcaption>
+</figure>
+
 ## Research methods 1 — cumulative foundations
 
 Experimental methods (lab, field, natural); observation types (naturalistic, controlled, covert/overt, participant/non-participant); self-report (questionnaires, interviews); correlations; sampling and its implications; pilot studies; experimental designs (repeated measures, independent groups, matched pairs); random allocation, counterbalancing, demand characteristics, ethics; descriptive statistics (mean, median, mode, range, standard deviation); normal/skewed distributions.
 
 Everything here is assumed knowledge for Research Methods 2 at A2 — build it securely now.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--02-experimental-designs.webp" width="900" height="634" alt="Three rows. Independent groups: different people in conditions A and B; weakness, participant variables may differ; fix, random allocation. Repeated measures: the same people do both; weakness, order effects; fix, counterbalancing. Matched pairs: pairs matched on a variable such as IQ are split across conditions; weakness, time-consuming and never perfect." loading="lazy">
+  <figcaption>Each design solves one problem and creates another, with its own fix.</figcaption>
+</figure>
 
 ## Worked example: interpreting a correlation
 
@@ -83,6 +113,16 @@ Evaluation:    efficient and ethical, no variable manipulation, but
 
 Always name a specific, plausible third variable rather than gesturing at "other factors."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--06-psy-correlation-scatter.webp" width="900" height="780" alt="A scatter graph of hours of sleep against hours of screen time before bed. The twelve illustrative points slope downwards from left to right and a straight line of best fit slopes down. The correlation coefficient computed from these points is r = -0.70, a strong negative correlation: more screen time goes with less sleep." loading="lazy">
+  <figcaption>A coefficient of -0.7 is a strong negative correlation: as screen time rises, sleep tends to fall (illustrative data).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--07-psy-third-variable.webp" width="900" height="780" alt="Three boxes in a triangle: screen time and sleep at the bottom, joined by a dashed line marked r = -0.7, and stress at the top with arrows to both. The picture shows that stress, a possible third variable, could cause both more screen use and less sleep, so the correlation does not show that screen time causes poor sleep." loading="lazy">
+  <figcaption>A correlation between two co-variables does not show cause: a third variable such as stress could affect both.</figcaption>
+</figure>
+
 ## The endocrine system and fight-or-flight
 
 The endocrine system communicates via **hormones** released by glands directly into the bloodstream,
@@ -94,6 +134,11 @@ pupil dilation) that prepare the body for rapid action. Learn this as a single c
 (threat → amygdala and hypothalamus → sympathetic activation → adrenaline → physiological changes) rather than as
 a list of disconnected facts, since exam questions often ask you to explain the *sequence*, not just
 name the hormone involved.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-biopsychology--04-fight-or-flight.webp" width="900" height="700" alt="A chain from the amygdala detecting a threat, to the hypothalamus, to the sympathetic branch, to the adrenal medulla releasing adrenaline, which raises heart rate and blood pressure, speeds breathing, dilates pupils, releases glucose, diverts blood to muscles and inhibits digestion. The parasympathetic branch restores rest. Evaluation: mismatch with modern stressors, Gray's freeze response and Taylor et al.'s tend and befriend." loading="lazy">
+  <figcaption>Amygdala to hypothalamus to sympathetic nerves to adrenaline, then back to rest.</figcaption>
+</figure>
 
 ## Split-brain research and lateralisation
 
@@ -120,6 +165,11 @@ explained by mechanisms including the recruitment of homologous (equivalent) are
 hemisphere and axonal sprouting, where undamaged neurons form new connections to compensate for lost
 pathways.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-biopsychology--05-split-brain.webp" width="900" height="708" alt="An image flashed to the right visual field goes to the left hemisphere and can be named; one flashed to the left visual field goes to the right hemisphere and cannot be named, though the left hand can pick it out by touch. The corpus callosum is cut, so the hemispheres cannot share the information. The procedure was controlled but samples were small and unusual." loading="lazy">
+  <figcaption>Right visual field to the left hemisphere: only that side can name what it saw.</figcaption>
+</figure>
+
 ## Exam traps
 
 - Treating the autonomic nervous system as separate from the peripheral system.
@@ -139,6 +189,11 @@ demonstrates the child can represent another person's mental state as distinct f
 **mirror neuron system** is cited as a possible biological basis for this and related social-cognitive
 abilities, since these neurons fire both when performing an action and when observing someone else
 perform it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--05-sally-anne.webp" width="900" height="747" alt="Four steps: Sally puts a marble in her basket, leaves, Anne moves it to her box, and children are asked where Sally will look (correct answer: the basket). Bars: about 85 percent of typically developing children and 86 percent of children with Down syndrome answered correctly, against 20 percent of autistic children." loading="lazy">
+  <figcaption>Most autistic children failed the false-belief question that other groups passed.</figcaption>
+</figure>
 
 ## Self-test
 

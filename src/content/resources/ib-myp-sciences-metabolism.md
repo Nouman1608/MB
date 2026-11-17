@@ -53,6 +53,11 @@ The brief's eAssessment has three tasks: Knowing and understanding (criterion A,
 
 Two of the brief's related concepts fit this unit closely. **Energy**: respiration releases energy stored in glucose; photosynthesis stores light energy as chemical energy. **Transformation**: substances change into new substances, and energy changes form. **Models** is a third: the lock-and-key model of enzymes is a simplified picture you should be able to use and criticise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--01-anabolic-catabolic.webp" width="900" height="620" alt="Left: anabolic reactions join small units into a large molecule and need energy in, as in photosynthesis, glucose to starch and amino acids to proteins. Right: catabolic reactions break a large molecule into small units and often release energy, as in respiration and digestion." loading="lazy">
+  <figcaption>Anabolic reactions build and need energy; catabolic reactions break down and often release it.</figcaption>
+</figure>
+
 ## Enzymes
 
 An **enzyme** is a biological catalyst. It speeds up a reaction without being used up. Enzymes are proteins. Each has an **active site** with a specific shape. Only a **substrate** with a complementary shape fits, forming an **enzyme–substrate complex**. The reaction happens, the **products** leave, and the enzyme can be used again. This is why enzymes are **specific**: amylase breaks down starch but not protein.
@@ -93,6 +98,16 @@ A student timed how long amylase took to break down all the starch in a sample (
 
 **Step 5 -- explain with science.** Below 35 °C, more frequent collisions raise the rate. Above it, the active site changes shape and the enzyme is denatured, so fewer complexes form.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--02-lock-and-key.webp" width="900" height="590" alt="An enzyme’s active site has a shape complementary to its substrate. The substrate fits to form an enzyme–substrate complex, the products leave and the enzyme is reused. A molecule of the wrong shape does not fit, which is why enzymes are specific." loading="lazy">
+  <figcaption>Only a substrate that matches the active site can react; the enzyme is not used up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--03-enzyme-temperature-data.webp" width="900" height="640" alt="Rate (1000/time) for amylase against temperature: 5.56 at 15 °C, 11.1 at 25 °C, a peak of 25.0 at 35 °C, 16.7 at 45 °C and 3.33 at 55 °C. The band from 25 to 45 °C is shaded because the true optimum could lie anywhere in it. Rate rises with more collisions, then falls as the active site changes shape and the enzyme is denatured." loading="lazy">
+  <figcaption>Peak at about 35 °C; with 10 °C steps the true optimum is only known to lie between 25 and 45 °C.</figcaption>
+</figure>
+
 ## Respiration
 
 **Respiration** is a chemical reaction in every living cell that releases energy from glucose. It is not the same as breathing, which only moves air in and out of the lungs.
@@ -117,6 +132,16 @@ Yeast in sugar solution at 30 °C produces 18 cm³ of carbon dioxide in 5 minute
 Rate = volume ÷ time = 18 ÷ 5 = **3.6 cm³ min⁻¹**.
 
 Always give units. A rate with no unit can cost marks even if the number is right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--04-aerobic-anaerobic.webp" width="900" height="640" alt="Three columns. Aerobic respiration uses oxygen: glucose + oxygen → carbon dioxide + water, mainly in mitochondria. Anaerobic respiration in muscles: glucose → lactic acid, leaving an oxygen debt. Anaerobic respiration in yeast (fermentation) and plants: glucose → ethanol + carbon dioxide. Anaerobic respiration releases much less energy per glucose." loading="lazy">
+  <figcaption>Without oxygen, glucose is only partly broken down, so much less energy is released.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--05-yeast-respiration-rate.webp" width="900" height="610" alt="A flask of yeast in sugar solution sits in a 30 °C water bath. Carbon dioxide passes along a delivery tube into a gas syringe, which collects 18 cm³ in 5 minutes. Rate = 18 ÷ 5 = 3.6 cm³ per minute." loading="lazy">
+  <figcaption>Rate = volume of gas ÷ time, always with its unit.</figcaption>
+</figure>
 
 ## Photosynthesis
 
@@ -146,6 +171,11 @@ Lamp moved from 10 cm to 5 cm: intensity changes by (10/5)² = **4 times** its v
 
 A common error is to assume doubling the distance halves the intensity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--06-limiting-factors.webp" width="900" height="800" alt="Rate of photosynthesis against light intensity rises then levels off; at higher carbon dioxide the plateau is higher, so carbon dioxide was limiting there. Below, a plant at 10 cm from a lamp moved to 5 cm gets four times the light intensity, and moved to 20 cm gets a quarter, because intensity is proportional to 1/d²." loading="lazy">
+  <figcaption>On the rising part light limits the rate; on the plateau something else does.</figcaption>
+</figure>
+
 ## Digestion basics
 
 Large, insoluble food molecules cannot pass through the gut wall. Digestion breaks them into small, soluble molecules that can be absorbed into the blood, mainly through the villi of the small intestine.
@@ -163,6 +193,11 @@ Large, insoluble food molecules cannot pass through the gut wall. Digestion brea
 
 Digestion is catabolic. The products feed anabolic reactions in cells: amino acids are rebuilt into your own proteins, and glucose is respired or stored.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--07-digestive-enzymes.webp" width="900" height="750" alt="Amylase breaks starch into maltose and then glucose, made in the salivary glands and pancreas. Protease, such as pepsin, breaks proteins into amino acids, made in the stomach, pancreas and small intestine. Lipase breaks lipids into fatty acids and glycerol, made in the pancreas and small intestine. Bile is not an enzyme: it emulsifies fats and neutralises stomach acid." loading="lazy">
+  <figcaption>Each enzyme breaks one kind of large molecule into small, soluble ones.</figcaption>
+</figure>
+
 ## Designing an investigation (criterion B)
 
 Worked plan: *How does pH affect the activity of catalase in potato?* Catalase breaks down hydrogen peroxide into water and oxygen.
@@ -176,6 +211,11 @@ Worked plan: *How does pH affect the activity of catalase in potato?* Catalase b
 - **Safety:** hydrogen peroxide irritates skin and eyes -- wear eye protection and gloves.
 
 For more on how each criterion is judged, read [the criteria in practice](/resources/ib-myp-sciences-criteria-in-practice/) and the [investigation skills exam preparation](/resources/ib-myp-sciences-investigation-skills-exam-preparation/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--08-catalase-investigation.webp" width="900" height="790" alt="A boiling tube in a water bath holds a buffer, hydrogen peroxide and a same-sized potato cylinder; oxygen bubbles pass along a delivery tube into a gas syringe read at 60 s. The independent variable is pH 4 to 9, the dependent variable is oxygen volume in 60 s, and potato size, peroxide volume and concentration, temperature and time are controlled." loading="lazy">
+  <figcaption>Change pH only, measure oxygen in 60 s, and control everything else.</figcaption>
+</figure>
 
 ## Common errors
 

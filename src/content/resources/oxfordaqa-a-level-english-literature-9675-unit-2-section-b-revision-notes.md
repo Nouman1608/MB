@@ -46,6 +46,11 @@ Condensed notes for the poetry essay on place. For the full method and a model r
 The selections are 8 poems (Wordsworth), 12 (Frost), 15 (Hardy) and 15 (Heaney) in Version 5.3.
 Check your list: a revised 9675 for teaching from 2027 has a refreshed set-text list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-b--01-four-selections.webp" width="900" height="700" alt="Four cards show the poets and the size of each selection: Wordsworth 8 poems, Frost 12, Hardy 15 and Heaney 15, each drawn as a row of dots, with four of the named poems listed for each poet." loading="lazy">
+  <figcaption>One poet’s selection, of 8 to 15 poems, is your set text.</figcaption>
+</figure>
+
 ## Poems to pair by idea
 
 - **Return and memory**: "Tintern Abbey"; Hardy's "After a Journey" and "At Castle Boterel".
@@ -58,6 +63,11 @@ Check your list: a revised 9675 for teaching from 2027 has a refreshed set-text 
 
 Choose poems that differ within a shared idea, so comparison produces an argument.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-b--03-more-than-landscape.webp" width="900" height="432" alt="A hub labelled place links to four social and political angles with examples: home and homeland (Michael; Heaney’s Derry childhood), relationships (Mending Wall; Hardy’s places of courtship), political space (The Toome Road; Act of Union) and history in the ground (the bog poems; Requiem for the Croppies)." loading="lazy">
+  <figcaption>In poetry, place is often social, personal and political as well as physical.</figcaption>
+</figure>
+
 ## How poems build place
 
 1. **Naming**: place-names carry history and sound ("Anahorish", "Beeny Cliff").
@@ -67,6 +77,16 @@ Choose poems that differ within a shared idea, so comparison produces an argumen
 5. **Form and structure**: sonnet, blank verse, quatrains, free verse; line breaks tracing movement.
 6. **Imagery and symbol**: a wall, a tree, a bog, a ship.
 7. **Voice and dialect**: local words that root the poem in a community.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-b--02-how-poems-make-place.webp" width="900" height="608" alt="A table of five methods with examples: naming (Anahorish; Hardy’s Cornish titles), the speaker’s position (Tintern Abbey; Composed Upon Westminster Bridge), time layered on place (Hardy’s 1912–13 poems), nature and its despoliation (A Brook in the City; Channel Firing), and form." loading="lazy">
+  <figcaption>Names, position, time, nature and form concentrate a place into a few lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-b--05-the-ford.webp" width="900" height="629" alt="The seven lines of the original poem The Ford are shown with rhyme letters: a, b, a, b, c, then an unrhymed ford, then c. Notes say the form marks the loss and the final monosyllables make a refusal. A table contrasts then and now: a shared ford with loud water and no explanation against a solitary bridge, a quieter river and an official plaque." loading="lazy">
+  <figcaption>Two crossings of one river set private memory against public history.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -99,6 +119,16 @@ Choose poems that differ within a shared idea, so comparison produces an argumen
 3. Brief reference to a third poem that tests or extends the argument.
 4. Methods analysed in each: naming, position, time, form, imagery.
 5. Context only where it explains the words; a conclusion that weighs the view.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-b--04-writing-about-a-selection.webp" width="900" height="675" alt="Two full poem sheets are linked by a double arrow for in-depth analysis, with a smaller third sheet for brief reference. Below, comparisons link poems by method or idea, then show the difference within the similarity." loading="lazy">
+  <figcaption>Two poems in depth and a third briefly, linked with purpose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-b--06-hardy-plan.webp" width="900" height="644" alt="A balance tips towards the view. Supporting it: At Castle Boterel, where the road is valued for once holding the couple, and Beeny Cliff, where the landscape outlives the absent person. Testing it: Channel Firing, where the dead are present. The conclusion says the view is largely true of the 1912–13 poems and that Hardy’s places matter most when they outlast people." loading="lazy">
+  <figcaption>Give each poem a distinct role, including one that tests the view.</figcaption>
+</figure>
 
 ## Exam traps
 

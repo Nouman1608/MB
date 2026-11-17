@@ -64,6 +64,16 @@ ratio = (1 × 10⁻¹⁰) ÷ (1 × 10⁻¹⁴)
 
 The atom is about 10 000 times wider than its nucleus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--01-models-of-the-atom.webp" width="900" height="800" alt="Four stages in order: Thomson’s 1897 plum pudding of electrons in a ball of positive charge; Rutherford’s 1911 nuclear model with a tiny dense positive nucleus in mostly empty space; Bohr’s 1913 electrons in fixed energy levels; and Chadwick’s 1932 discovery of the neutron in the nucleus." loading="lazy">
+  <figcaption>The atomic model is a model: it was replaced each time new evidence demanded it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-atomic-structure--01-plum-pudding-vs-nuclear.webp" width="900" height="1090" alt="Alpha particles fired at one atom. With plum pudding positive charge spread out, every path bends only a few degrees. With a tiny nucleus most pass straight, some deflect and a few bounce back. Large deflections were seen, so the model was replaced." loading="lazy">
+  <figcaption>Scattering results fit a concentrated nucleus, not a spread-out positive charge.</figcaption>
+</figure>
+
 ## Subatomic particles
 
 | Particle | Relative mass | Relative charge | Location |
@@ -88,6 +98,11 @@ In nuclide notation the mass number is written top left and the atomic number bo
 2. Neutrons = 23 − 11 = **12**.
 3. Neutral atom, so electrons = protons = **11**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--02-nuclide-notation.webp" width="900" height="730" alt="Sodium-23 written with mass number 23 top left and atomic number 11 bottom left gives 11 protons, 23 − 11 = 12 neutrons and 11 electrons. Below, cards give the proton (mass 1, charge +1, nucleus), neutron (mass 1, charge 0, nucleus) and electron (mass about 1/1840, charge −1, shells)." loading="lazy">
+  <figcaption>Z gives the protons, A − Z the neutrons, and a neutral atom has as many electrons as protons.</figcaption>
+</figure>
+
 ## Isotopes and relative atomic mass
 
 **Isotopes** are atoms of the same element with the same number of protons but different numbers of neutrons. Chlorine-35 and chlorine-37 both have 17 protons; they have 18 and 20 neutrons.
@@ -111,6 +126,11 @@ Aᵣ = (35 × 75 + 37 × 25) ÷ 100
 
 Check that your answer lies between the lightest and heaviest isotope, and closer to the more abundant one. 35.5 is closer to 35, which matches.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--03-isotopes-relative-atomic-mass.webp" width="900" height="750" alt="Chlorine-35 and chlorine-37 both have 17 protons, 17 electrons and arrangement 2,8,7 but have 18 and 20 neutrons. With 75% chlorine-35 and 25% chlorine-37, the weighted mean is 35.5, closer to 35." loading="lazy">
+  <figcaption>Isotopes differ only in neutrons; Aᵣ is pulled towards the more abundant isotope.</figcaption>
+</figure>
+
 ## Electron arrangement
 
 For the first 20 elements, electrons fill shells in order: up to **2** in the first shell, then up to **8** in the second, then up to **8** in the third. The 19th and 20th electrons go into the fourth shell.
@@ -132,6 +152,11 @@ Two links to the periodic table follow directly:
 - The **number of outer-shell electrons** equals the **group** number for groups 1 and 2, and the last digit for groups 13 to 17 (for example chlorine, group 17, has 7). Noble gases have full outer shells.
 
 Elements in the same group react similarly because they have the same number of outer electrons -- the key concept of **relationships** in action.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--04-electron-arrangement.webp" width="900" height="800" alt="Shell diagrams for lithium 2,1, sodium 2,8,1, chlorine 2,8,7 and calcium 2,8,8,2. The number of occupied shells gives the period (2, 3, 3 and 4) and the outer electrons give the group (1, 1, 17 and 2)." loading="lazy">
+  <figcaption>Number of shells = period; outer electrons = group (last digit for groups 13 to 17).</figcaption>
+</figure>
 
 ## Ions
 
@@ -170,6 +195,11 @@ In a **dot-and-cross diagram**, show the electrons of one atom as dots and the o
 - **Conduct electricity when molten or dissolved**, because the ions are then free to move and carry charge. They **do not conduct as solids**: the ions are fixed in place.
 - Often soluble in water; hard but **brittle** -- a shift in the layers puts like charges next to each other and they repel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--05-ionic-dot-and-cross.webp" width="900" height="860" alt="Dot-and-cross diagram: a sodium atom 2,8,1 passes its outer electron to a chlorine atom 2,8,7, giving [Na]+ with 2,8 and [Cl]− with a full outer shell of eight, one of them a dot from sodium. Below, two Al3+ (+6) balance three O2− (−6), giving Al2O3." loading="lazy">
+  <figcaption>Metal atoms lose electrons, non-metal atoms gain them, and the ions’ charges must balance.</figcaption>
+</figure>
+
 ## Covalent bonding
 
 When non-metal atoms bond, they **share** pairs of electrons. A **covalent bond** is a shared pair of electrons, held by the attraction of both nuclei to that pair.
@@ -200,6 +230,16 @@ Some substances are huge networks of atoms, all joined by covalent bonds.
 
 Diamond and graphite are the same element. Their different properties come from different structures -- a clear example of the key concept of **systems**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--06-covalent-dot-and-cross.webp" width="900" height="880" alt="Dot-and-cross diagrams with overlapping outer shells. Water has two shared pairs and two lone pairs on oxygen; ammonia has three shared pairs and one lone pair on nitrogen; methane has four shared pairs; carbon dioxide has two double bonds. Each atom except hydrogen ends with 8 outer electrons; hydrogen has 2." loading="lazy">
+  <figcaption>Every atom except hydrogen ends with eight outer electrons; hydrogen ends with two.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--07-simple-vs-giant-covalent.webp" width="900" height="820" alt="Three structures. Simple molecules have strong bonds inside each molecule but weak forces between molecules, so low melting points and no conduction. Diamond is a network in which each carbon forms four bonds: very hard, very high melting point, non-conducting. Graphite has layers of carbons with three bonds each, weak forces between layers and a delocalised electron, so it is soft and conducts." loading="lazy">
+  <figcaption>Whether melting breaks weak forces or strong covalent bonds decides the melting point.</figcaption>
+</figure>
+
 ## Metallic bonding
 
 A metal is a **lattice of positive ions** in a "sea" of **delocalised electrons**. The metallic bond is the strong attraction between the positive ions and the delocalised electrons.
@@ -209,6 +249,11 @@ A metal is a **lattice of positive ions** in a "sea" of **delocalised electrons*
 - Usually **high melting points**: strong attractions throughout the lattice.
 
 An **alloy** is a mixture of a metal with other elements. The atoms of a different size distort the layers, so they slide less easily. Alloys such as steel are therefore harder than the pure metal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--01-metal-properties.webp" width="900" height="1070" alt="A lattice of positive ions sits in a sea of free electrons. Layers slide when the metal is hammered, free electrons carry current and heat along a wire, and strong ion-electron attraction gives high melting points." loading="lazy">
+  <figcaption>Metallic bonding explains malleability, conduction and high melting points.</figcaption>
+</figure>
 
 ## Using this content in criterion B, C and D tasks
 

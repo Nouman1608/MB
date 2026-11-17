@@ -1,0 +1,11 @@
+{ "page": "igcse-oxfordaqa-sociology-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--01-family-types.webp", "after": "## Families (3.1.1)" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--02-family-perspectives.webp", "after": "## Families (3.1.1)" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--03-beanpole-pivot.webp", "after": "## Families (3.1.1)" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--05-curriculum-and-perspectives.webp", "after": "## Education (3.1.2)" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--04-labelling-prophecy.webp", "after": "## Education (3.1.2)" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--06-attainment-explanations.webp", "after": "## Education (3.1.2)" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods--04-reliability-validity.webp", "after": "## Research methods (3.1.3 — shared with Paper 2)" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--07-methods-scorecard.webp", "after": "## Research methods (3.1.3 — shared with Paper 2)" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--05-researching-children.webp", "after": "## Research methods (3.1.3 — shared with Paper 2)" }
+] }

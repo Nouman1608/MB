@@ -50,6 +50,11 @@ Keep the [Cambridge A Level Sociology hub](/boards/cambridge/a-level/sociology/)
 
 Questions 1-3 share the remaining 24 marks; your teacher will confirm the split. Paper 3 is 21% of the A Level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--01-paper-3-structure.webp" width="900" height="785" alt="Paper 3 lasts 1 hour 15 minutes, is worth 50 marks and 21% of the A Level. Four compulsory questions rise in marks from a short answer (AO1) to two explanations, two arguments against a quotation, and a 26-mark essay testing AO1, AO2 and AO3." loading="lazy">
+  <figcaption>Four compulsory questions climb in marks to a 26-mark essay.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |
@@ -103,6 +108,21 @@ Questions 1-3 share the remaining 24 marks; your teacher will confirm the split.
 | Jackson (1968) | Hidden curriculum | Coined the term in *Life in Classrooms* | Rules are now often written down openly |
 | Illich (1971) | Hidden curriculum | Schooling as an institution cannot deliver true education for all | Critics doubt his informal "learning webs" could replace schools at scale |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--02-parsons-bridge.webp" width="900" height="619" alt="In the family a child is judged by particularistic standards and has ascribed status; school acts as a bridge to wider society, where everyone is judged by universalistic standards and status is achieved. Below, Davis and Moore’s role allocation and Tumin’s criticism." loading="lazy">
+  <figcaption>School moves children from family standards to the universal standards of society.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--03-correspondence-principle.webp" width="900" height="652" alt="School life mirrors work life: pupils accept teachers’ authority as workers accept managers’, pupils work for grades as workers work for wages, and grades reward perseverance and punctuality, producing an obedient workforce. Willis shows pupils can resist, though reproduction still happens." loading="lazy">
+  <figcaption>For Bowles and Gintis, school life mirrors work life under capitalism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--06-diploma-disease.webp" width="900" height="683" alt="A cycle: more people gain a qualification, employers ask for a higher one, each qualification is worth less, and people seek higher credentials, so qualification inflation continues." loading="lazy">
+  <figcaption>As credentials spread, employers raise the bar and each one is worth less.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Functionalist vs Marxist hidden curriculum.** Functionalists: it teaches shared values everyone needs. Marxists: it trains a compliant workforce for capitalism.
@@ -111,6 +131,21 @@ Questions 1-3 share the remaining 24 marks; your teacher will confirm the split.
 - **Absolute vs relative mobility.** More upward movement (absolute) can happen while class chances stay just as unequal (relative).
 - **Cultural reproduction vs cultural capital.** Cultural reproduction is the process; cultural capital is the resource that makes it work.
 - **Formal vs hidden curriculum.** Formal is the planned subjects; hidden is what the organisation of school teaches.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--04-new-right-social-democratic.webp" width="900" height="495" alt="Social democrats such as Halsey support state action for equal opportunity and draw on human capital theory; Wolf questions the link to growth. The New Right, following Chubb and Moe, wants marketisation through choice and competition; Gewirtz, Ball and Bowe show choice favours middle-class parents." loading="lazy">
+  <figcaption>Social democrats want the state to equalise; the New Right wants markets to raise standards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--05-absolute-relative-mobility.webp" width="900" height="665" alt="A schematic of the occupational structure growing more middle-class jobs over time, so absolute upward mobility rises, while relative mobility stays stable because middle-class children keep their head start. Below, Goldthorpe’s study, the 1958 and 1970 cohort comparison and the Great Gatsby curve." loading="lazy">
+  <figcaption>More upward movement does not mean fairer chances: relative mobility can stay the same.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--08-cultural-capital.webp" width="900" height="565" alt="Bourdieu’s three forms of cultural capital: embodied (manner, speech, tastes), objectified (books, art, instruments) and institutionalised (qualifications). A chain shows habitus learned at home meeting a curriculum that rewards middle-class cultural capital, so middle-class pupils start ahead." loading="lazy">
+  <figcaption>Schools turn middle-class home culture into qualifications.</figcaption>
+</figure>
 
 ## Mini essay plan
 

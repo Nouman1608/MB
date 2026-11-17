@@ -50,6 +50,11 @@ Three points follow from this.
 
 The guide notes that democracy or constitutionalism, where the governed regularly choose who governs, is the most widely accepted form of state legitimacy today. Where that is not the norm, other sources, such as hereditary or traditional leadership, may be claimed. Treat the concept as contestable: different stakeholders weigh the sources differently.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-legitimacy--01-legitimacy-legality-power.webp" width="900" height="625" alt="Legitimacy means a population broadly accepts an actor or action as proper. It is not the same as power, since a government can rule by coercion without acceptance, and not the same as legality, since legal laws can be rejected and illegal protests seen as justified. Legitimacy has audiences: citizens, other states, regional bodies and UN bodies." loading="lazy">
+  <figcaption>Legitimacy rests on acceptance, and the audience granting it matters.</figcaption>
+</figure>
+
 ## State legitimacy and government legitimacy
 
 The guide asks you to keep these apart.
@@ -64,6 +69,11 @@ The reverse also happens. Kosovo declared independence in 2008. Many states reco
 ### Links with sovereignty
 
 Sovereignty describes a state's independence and control over its territory. Legitimacy describes acceptance. The two often go together, but not always. After the Taliban took control of Afghanistan in August 2021, they held effective control of the territory, yet their government has received very limited formal recognition from other states. Control without wide acceptance shows sovereignty and legitimacy coming apart. The [sovereignty study guide](/resources/ib-dp-global-politics-core-sovereignty/) covers the other side.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-legitimacy--02-state-vs-government.webp" width="900" height="543" alt="Government legitimacy sits inside the wider state legitimacy. Sri Lanka in 2022 shows a government rejected while the state stayed accepted; Kosovo since 2008 shows the state itself disputed; Afghanistan since 2021 shows effective control without wide recognition." loading="lazy">
+  <figcaption>A government can lose legitimacy while the state keeps it, and the reverse.</figcaption>
+</figure>
 
 ## Sources of state and government legitimacy
 
@@ -92,6 +102,11 @@ Most real governments combine several sources. A democracy relies mainly on proc
 
 Each source is named, linked to the case and explained. Step 4 is not required for "explain", but it shows the evaluative habit you need for higher-mark questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-legitimacy--03-sources-grouped.webp" width="900" height="603" alt="The guide’s fifteen sources of legitimacy in four study groups: process (elections, representation, consent, transparency), performance (welfare, order, development, quality of governance), identity (history, ideology, national identity) and recognition (leadership and international recognition)." loading="lazy">
+  <figcaption>Process, performance, identity and recognition: most governments draw on several at once.</figcaption>
+</figure>
+
 ## Challenges to state and government legitimacy
 
 The guide asks you to consider challenges from **within the state** and from **external stakeholders**. Its areas to consider are political, economic and social instability; inability to govern effectively; inability to ensure the well-being of citizens; excessive use of force and threats; and violence, oppression and human-rights violations.
@@ -118,6 +133,11 @@ A challenge to legitimacy does not always remove a government. Some keep power t
 5. **State legitimacy:** intact. The constitution was used to transfer power.
 6. **Recovery:** a presidential election in September 2024, won by Anura Kumara Dissanayake, renewed government legitimacy through process.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-legitimacy--04-tracing-sri-lanka.webp" width="900" height="740" alt="Six steps for Sri Lanka in 2022: performance legitimacy was damaged by shortages of fuel, food and medicine; citizens protested; the president fled and resigned in July 2022; the state stayed legitimate as power passed constitutionally; and a September 2024 election renewed government legitimacy." loading="lazy">
+  <figcaption>Name the source damaged, the audience and the outcome, then check the state separately.</figcaption>
+</figure>
+
 ## Sources of legitimacy of non-state actors
 
 The guide puts strong emphasis here. Non-state actors include NGOs, social movements, companies, resistance movements and other groups. Their legitimacy matters towards governments, but also towards other actors: donors, members, communities, IGOs and each other. The guide gives four areas to consider.
@@ -136,6 +156,11 @@ The guide puts strong emphasis here. Non-state actors include NGOs, social movem
 
 The last row shows why the audience matters. The same actor can be seen as legitimate by one constituency and illegitimate by others. Present such cases in balance and avoid personal verdicts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-legitimacy--05-non-state-actors.webp" width="900" height="663" alt="Four areas for judging a non-state actor: representation, interaction, ability and efficacy. Applied to Médecins Sans Frontières: it relies on humanitarian principles rather than representing a group, negotiates access while stressing neutrality, uses medical expertise funded by private donations, and shows visible outcomes." loading="lazy">
+  <figcaption>Representation, interaction, ability and efficacy: apply all four, and name the audience.</figcaption>
+</figure>
+
 ## Legitimation processes and loss of legitimacy
 
 Legitimacy is not fixed. The guide describes it as something that can be gained, strengthened, reduced or lost through actions, interactions and outcomes. It lists four processes.
@@ -144,6 +169,11 @@ Legitimacy is not fixed. The guide describes it as something that can be gained,
 2. **Self-legitimation by the actor.** Holding elections or referendums, publishing reports, using national symbols or ideology. Self-legitimation can fail: the referendums Russia organised in occupied regions of Ukraine in 2022 were declared invalid by a UN General Assembly resolution.
 3. **Organic recognition from stakeholders or audiences.** Turnout, membership, donations and public trust that build from below.
 4. **(De)legitimation by opposing or alternative actors.** Opposition boycotts, NGO reports that name and shame, rival claims to represent the people.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-legitimacy--06-legitimation-processes.webp" width="900" height="743" alt="Four processes act on an actor’s legitimacy: formal recognition from above, such as South Sudan’s UN admission in 2011; self-legitimation through elections, referendums and symbols, which can fail; organic recognition from below through turnout, membership and trust; and delegitimation by rivals through boycotts and name-and-shame reports." loading="lazy">
+  <figcaption>Legitimacy comes from above, from the actor itself, from below, and can be stripped by rivals.</figcaption>
+</figure>
 
 ## Using this topic in the exam
 

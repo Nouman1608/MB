@@ -1,0 +1,9 @@
+{ "page": "igcse-computer-science-algorithm-design-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--14-ad-break.webp", "after": "## 7.1 The program development life cycle" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--15-ad-flow.webp", "after": "## 7.2 Decomposition and design methods" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--16-ad-trace.webp", "after": "### Totalling, counting, maximum, minimum and average" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--18-ad-linear.webp", "after": "### Linear search" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--17-ad-bubble.webp", "after": "### Bubble sort" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--19-ad-valver.webp", "after": "## 7.5 Validation and verification" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--20-ad-testdata.webp", "after": "## 7.6 Test data" }
+] }

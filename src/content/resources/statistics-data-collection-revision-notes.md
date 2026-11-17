@@ -41,6 +41,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Primary** = collected first-hand for this purpose, giving control over exactly what is measured and how. **Secondary** = already exists, collected by someone else for a different original purpose — faster and cheaper to obtain, but with no control over its accuracy or the exact definitions used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--08-types-of-data.webp" width="900" height="920" alt="Tree: data is qualitative (eye colour, car brand) or quantitative; quantitative is discrete (counting: children, shoe size) or continuous (measuring: height, mass, time). Shoe size is discrete even though sizes include halves." loading="lazy">
+  <figcaption>Qualitative describes a quality; discrete counts; continuous measures.</figcaption>
+</figure>
+
 ## Class boundaries for continuous data (previewing Topic 3 -- Frequency Distributions)
 
 Class boundaries are examined fully under Topic 3, but the underlying idea is needed as soon as continuous
@@ -53,6 +58,11 @@ data is recorded to a stated accuracy, so it is previewed here. A value recorded
 
 Lower bound uses **≤**, upper bound uses **<** — the convention avoids two adjacent classes ever overlapping at a shared boundary value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--10-recorded-height-is-an-interval.webp" width="900" height="780" alt="Number line showing that every true height from 167.5 up to but not including 168.5 is recorded as 168 cm. The lower end is included and the upper end is not." loading="lazy">
+  <figcaption>A recorded continuous value stands for an interval.</figcaption>
+</figure>
+
 ## Census vs sample
 
 | | Census | Sample |
@@ -61,6 +71,11 @@ Lower bound uses **≤**, upper bound uses **<** — the convention avoids two a
 | Accuracy | Complete | Subject to sampling error |
 | Cost/time | High | Lower |
 | Use when | Population small, accuracy vital | Population large, or testing destroys the item |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--11-census-or-sample.webp" width="900" height="880" alt="Two grids of 48 people: a census asks everyone (accurate, expensive, slow, impossible if testing destroys the item); a sample asks part of the population and the method decides whether conclusions are valid." loading="lazy">
+  <figcaption>A census asks everyone; a sample asks part.</figcaption>
+</figure>
 
 ## Sampling methods
 
@@ -93,6 +108,16 @@ KS5: 150 / 15 = 10    -> 10
 ```
 Round carefully so the parts still total the sample size — a frequent source of a lost mark when two roundings go the same way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--12-four-sampling-methods.webp" width="900" height="930" alt="Four panels of 40 members with 8 chosen: simple random (needs a full frame), systematic (every 5th from start 3; pattern bias), stratified (groups 20, 12, 8 sampled 4, 2, 2; groups must be known), quota (interviewer fills set numbers; not random)." loading="lazy">
+  <figcaption>Each method picks its sample differently, and each has a weakness.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--13-stratified-sample-worked.webp" width="900" height="880" alt="Population bar of 900 (KS3 400, KS4 350, KS5 150) scaled by 1/15 to a sample of 60 (27, 23, 10). 26.7 rounds to 27 and 23.3 to 23, and the parts total 60." loading="lazy">
+  <figcaption>Multiply each group by the sampling fraction and round so the total is 60.</figcaption>
+</figure>
+
 ## Questionnaire design
 
 A good questionnaire uses clear, unambiguous language, avoids leading
@@ -106,6 +131,11 @@ before the full survey runs.
 Sources: incomplete sampling frame, non-response, self-selection, leading questions, interviewer effect — and, for a questionnaire specifically, overlapping or non-exhaustive response options.
 
 **A larger sample reduces sampling error but does NOT remove bias.** A biased method stays biased at any size — the two concepts (random sampling error, and systematic bias in the method) are frequently confused but need to be argued separately.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-data-and-its-collection--14-sample-size-and-bias.webp" width="900" height="1090" alt="Three strip charts of twelve repeated sample results. Small sample, fair method: wide scatter around the true value. Large sample, fair method: tight scatter around it. Large sample, biased method: tight scatter away from it." loading="lazy">
+  <figcaption>A bigger sample reduces scatter, not bias.</figcaption>
+</figure>
 
 ## Exam traps
 

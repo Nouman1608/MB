@@ -1,0 +1,7 @@
+{ "page": "igcse-geography-0460-weather-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-geography-weather--17-wx-instruments.webp", "after": "## Instruments and what they measure" },
+ { "src": "https://img.marlbridge.com/igcse-geography-weather--15-wx-stevenson-screen.webp", "after": "## The Stevenson screen" },
+ { "src": "https://img.marlbridge.com/igcse-geography-weather--16-wx-screen-siting.webp", "after": "## The Stevenson screen" },
+ { "src": "https://img.marlbridge.com/igcse-geography-weather--18-wx-mean-range.webp", "after": "## Calculations" },
+ { "src": "https://img.marlbridge.com/igcse-geography-weather--19-wx-climate-graph.webp", "after": "## Reading climate graphs" }
+] }

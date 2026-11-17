@@ -68,6 +68,16 @@ source questions with the [A5 practice questions](/resources/edexcel-igcse-world
 | 1 July 1990 | Monetary union |
 | 3 Oct 1990 | Reunification |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--14-eg-timeline.webp" width="900" height="1160" alt="A timeline of East Germany from 1958 to 1990 drawn to scale, with bands for the Wall crisis, Ulbricht’s economy, Honecker’s GDR and the Peaceful Revolution." loading="lazy">
+  <figcaption>East Germany from Khrushchev’s demand in 1958 to reunification in 1990, drawn to scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--15-eg-why-wall.webp" width="900" height="856" alt="27 icons, each 100,000 people, cross the open Berlin border from the GDR to the West: 2.7 million left in 1949–61, many young and skilled. This threatened the economy and legitimacy, and the border was sealed on 12–13 August 1961." loading="lazy">
+  <figcaption>Mass emigration of skilled people led to the sealing of the border in 1961.</figcaption>
+</figure>
+
 ## Ulbricht and Honecker compared
 
 | | Ulbricht (to 1971) | Honecker (1971–89) |
@@ -76,6 +86,16 @@ source questions with the [A5 practice questions](/resources/edexcel-igcse-world
 | Relations with FRG | Hostile; built the Wall | Ostpolitik agreements; 1987 visit to Bonn |
 | Identity | One Germany under socialism | Separate GDR identity (1974 constitution) |
 | Weakness | Tension with Moscow over reforms | Rising debt; refused Gorbachev's reforms |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--17-eg-economy.webp" width="900" height="800" alt="A flow: New Economic System 1963, Economic System of Socialism 1968, improved growth and Comecon trade, Honecker’s 1971 shift to consumer goods, housing and subsidies, then 1980s borrowing from the West and scarce poor goods." loading="lazy">
+  <figcaption>Reform brought growth, but Honecker’s welfare spending led to 1980s strain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--19-eg-ostpolitik.webp" width="900" height="819" alt="A staircase from Brandt’s 1969 policy through the 1970 treaties, the 1971 Four Power Agreement, the 1972 Basic Treaty and UN membership in 1973 to Honecker’s 1987 visit. Gains were recognition, credits and travel; the cost was dependence on the West." loading="lazy">
+  <figcaption>Ostpolitik brought recognition and credits but made the GDR more dependent on the West.</figcaption>
+</figure>
 
 ## Methods of control
 
@@ -86,6 +106,11 @@ source questions with the [A5 practice questions](/resources/edexcel-igcse-world
 | Church | Pressure, then 1978 agreement; churches later sheltered opposition |
 | Media | Censored press, radio and TV; Western TV still widely watched |
 | Welfare | Jobs, cheap housing and subsidies to win acceptance |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--18-eg-control.webp" width="900" height="870" alt="The SED sits at the centre with arrows to the Stasi (about 90,000 staff plus informers), youth organisations, the Church, and the media, and a dashed link to the USSR whose troops were stationed in the GDR." loading="lazy">
+  <figcaption>The SED relied on the Stasi, youth organisations, pressure on the Church, controlled media and Soviet backing.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -109,6 +134,11 @@ source questions with the [A5 practice questions](/resources/edexcel-igcse-world
 2. **Armed border guards** in watchtowers had orders to stop escapers, and many people were shot dead
    trying to cross, such as Peter Fechter in 1962.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--16-eg-wall.webp" width="900" height="940" alt="Two schematic panels, not to scale. First, barbed wire on the night of 12–13 August 1961. Then a concrete wall, a death strip, a watchtower and an armed guard." loading="lazy">
+  <figcaption>The barbed wire of August 1961 became a fortified frontier.</figcaption>
+</figure>
+
 ## Why did the GDR collapse? Factors to weigh
 
 | Factor | Evidence |
@@ -119,6 +149,11 @@ source questions with the [A5 practice questions](/resources/edexcel-igcse-world
 | Economic failure | Debt, subsidies, shortages, poor-quality goods |
 | SED weakness | Honecker's removal; Krenz's confusion; accidental opening of the Wall |
 | West Germany | Attraction of the deutschmark; Kohl's push for unity in 1990 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--20-eg-revolution.webp" width="900" height="937" alt="A staircase: Gorbachev’s reforms, Hungary opens its border in September 1989, Gorbachev signals no intervention, Leipzig demonstrations grow, Honecker is forced out on 18 October, the Wall falls on 9 November, the March 1990 election and reunification on 3 October 1990." loading="lazy">
+  <figcaption>Soviet restraint, mass protest and open borders ended the GDR in 1990.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

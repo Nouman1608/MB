@@ -1,0 +1,29 @@
+[
+ {
+  "file": "cambridge-igcse-physics-0625-simple-phenomena-of-magnetism-cambridge-igcse-physics--01-identifying-a-magnet.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## Poles and forces",
+  "alt": "Two magnets attract with unlike poles and repel with like poles; a magnet attracts unmagnetised iron at either pole and never repels it, so only repulsion proves both are magnets. Touching the end of bar X to the middle of bar Y: strong attraction means X is the magnet; little or none means Y is the magnet, because a magnet's middle has almost no magnetic effect.",
+  "caption": "Only repulsion proves both are magnets; the end-to-middle test separates magnet from iron.",
+  "bytes": 91712
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-simple-phenomena-of-magnetism-cambridge-igcse-physics--02-soft-iron-vs-steel.webp",
+  "width": 900,
+  "height": 610,
+  "after": "## Temporary and permanent magnets",
+  "alt": "Left: a chain of soft-iron nails hangs from a magnet and falls apart as soon as the magnet is removed, because soft iron is a temporary magnet. Right: a chain of steel pins stays partly stuck together after the magnet is removed, because steel keeps its magnetism.",
+  "caption": "Soft iron when the magnetism must switch off; steel when it must stay.",
+  "bytes": 63470
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-simple-phenomena-of-magnetism-cambridge-igcse-physics--03-compass-vs-filings.webp",
+  "width": 900,
+  "height": 600,
+  "after": "## Magnetic fields",
+  "alt": "Left: small plotting compasses around a bar magnet point along the field, their N ends showing its direction from the N pole round to the S pole; marking and joining the positions draws a field line. Right: iron filings show the whole pattern at once but give no direction.",
+  "caption": "Compasses show direction; filings show only the shape of the pattern.",
+  "bytes": 65946
+ }
+]

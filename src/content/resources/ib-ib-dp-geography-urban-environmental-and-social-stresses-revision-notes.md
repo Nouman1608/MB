@@ -40,6 +40,11 @@ environments). For the full explanation, read the
 - **Ecological footprint:** often far exceeds the city's own area, because cities draw on resources
   from a wide hinterland.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--06-urban-flood.webp" width="900" height="900" alt="Two cross-sections, not to scale. On green land most rain soaks in and the river stays low. On built-up land most rain runs off, drains are overloaded and the river floods." loading="lazy">
+  <figcaption>Impermeable surfaces send more rain to the river.</figcaption>
+</figure>
+
 ## Explaining the stresses
 
 - **Urban heat island in detail:** concrete, asphalt and brick absorb heat by day and release it at
@@ -58,6 +63,11 @@ environments). For the full explanation, read the
 - **Waste:** rapid growth can outpace collection, so rubbish blocks drains and is burned in the open.
   E-waste processing sites such as Agbogbloshie in Accra, Ghana, became known for toxic burning of
   cables to recover metal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--05-heat-island.webp" width="900" height="1100" alt="Side view, not to scale: temperature is highest over the dark, built-up centre and lower over suburbs and rural land. Causes: heat-absorbing surfaces, little vegetation and waste heat." loading="lazy">
+  <figcaption>The urban heat island and its three causes from the lesson.</figcaption>
+</figure>
 
 ## Social stresses
 

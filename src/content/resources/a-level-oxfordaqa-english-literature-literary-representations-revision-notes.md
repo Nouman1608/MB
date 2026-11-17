@@ -37,6 +37,16 @@ The specification uses representation "to emphasise the process of showing a vie
 than the actual world itself, and thus opening up texts to varieties of interpretation". You are
 rewarded for your ability to **find meanings in texts**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide--02-rep-choices-lens.webp" width="900" height="982" alt="A flow from top to bottom. Something to be shown: a person, group, place or idea. It passes through the writer’s choices, four boxes: voice and viewpoint, language, structure and form, and setting and symbol. Out comes the portrayal the reader meets, a construction and not a mirror. A final strip with two clocks reminds you that context covers both when the text was written and when it is read." loading="lazy">
+  <figcaption>A subject becomes a portrayal through the writer’s choices, read in context.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide--01-rep-five-questions.webp" width="900" height="1196" alt="Five numbered questions, each with a small picture. 1: Who is shown, and who is missing? A solid figure beside a dashed outline figure. 2: Who is doing the representing: a narrator, speaker or character? A person with a speech bubble. 3: What is emphasised, and what is left out? A page with one line highlighted. 4: What attitude does the text invite: sympathy, admiration, fear, laughter or suspicion? A smiling and a frowning face. 5: Is the portrayal stable, or complicated or undermined by the text? A straight line that zigzags. Below: a representation is not the same as reality." loading="lazy">
+  <figcaption>Five questions to ask of any representation.</figcaption>
+</figure>
+
 ## The four broad areas
 
 1. Representations of **childhood**
@@ -59,6 +69,11 @@ contextual knowledge of them or to refer to wider reading. They frame your analy
 | Number of texts | More than one unseen text may appear in each section | One poetry text, one prose text |
 | Assessment | External | Teacher assessed, moderated by the board |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide--07-rep-unit4-glance.webp" width="900" height="928" alt="Unit 4 is worth 50 marks and 30 percent of the International A-level on either route. Unit 4a is a 2 hour 30 minute exam on unseen texts: unseen prose, including literary non-fiction, for 25 marks, and unseen poetry for 25 marks. Unit 4b is a non-exam assessment of two essays of 1,250 to 1,500 words each, on different texts, one poetry and one prose, assessed by teachers and moderated." loading="lazy">
+  <figcaption>Unit 4a is an exam on unseen texts and Unit 4b is a two-essay non-exam assessment.</figcaption>
+</figure>
+
 ## Unit 4a: how the questions work
 
 - Questions guide you "towards specific elements of the unseen texts", so this is not a "completely
@@ -74,6 +89,16 @@ contextual knowledge of them or to refer to wider reading. They frame your analy
 3. Analyse methods: narrative voice, focalisation, imagery, structure, form, register.
 4. Consider how the date or context given might shape meaning.
 5. Offer more than one interpretation and weigh them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide--05-rep-method-steps.webp" width="900" height="1078" alt="Six numbered steps joined by arrows. 1 Define: who or what is shown, and with what attitude. 2 Choose evidence from different parts of the text. 3 Analyse methods: voice, language, structure, form and setting. 4 Effect and meaning: what the reader thinks or feels. 5 Bring in context and other readings only where they deepen the argument. 6 Reach a judgement: is the representation straightforward, ambiguous or critical?" loading="lazy">
+  <figcaption>Six steps from defining the representation to reaching a judgement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide--03-rep-voice.webp" width="900" height="904" alt="Four panels. First person: a character with a speech bubble containing I, showing self and others subjectively. Third person: an eye above two figures; the narration may seem objective, but selection and tone still guide judgement. Poetry: a speaker with an arrow to the person addressed, drawn dashed. Drama: a stage with two figures and a dashed absent figure; representation comes through dialogue, action, staging and what others say about the absent person." loading="lazy">
+  <figcaption>Who is speaking shapes how a subject is seen in each form.</figcaption>
+</figure>
 
 ## Unit 4b: rules for the NEA
 

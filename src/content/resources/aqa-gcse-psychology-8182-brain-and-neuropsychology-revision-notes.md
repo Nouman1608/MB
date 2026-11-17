@@ -37,6 +37,11 @@ full explanations and evaluation, read the
   - **autonomic** -- involuntary functions; **sympathetic** (fight-or-flight) and
     **parasympathetic** (rest and digest).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-brain-and-neuropsychology--01-nervous-system-divisions.webp" width="900" height="688" alt="A tree diagram. The nervous system divides into the central nervous system (brain and spinal cord) and the peripheral nervous system (all other nerves). The peripheral system divides into the somatic system (senses and voluntary movement) and the autonomic system (involuntary functions), which has sympathetic (fight or flight) and parasympathetic (rest and digest) branches." loading="lazy">
+  <figcaption>CNS decides; PNS carries messages. The autonomic branch runs involuntary functions.</figcaption>
+</figure>
+
 ## Fight-or-flight, in order
 
 Threat perceived → sympathetic branch activated → adrenal glands release **adrenaline** → heart
@@ -47,6 +52,11 @@ parasympathetic branch restores rest.
 
 **Somatic or autonomic?** Deciding to pick up a pen is **somatic** (voluntary, skeletal muscle). Your pupils widening in the dark or your heart pounding before a race is **autonomic** (involuntary).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-brain-and-neuropsychology--02-fight-or-flight.webp" width="900" height="605" alt="Three linked steps: a threat is perceived, the sympathetic branch is activated and the adrenal glands release adrenaline. The body changes: heart rate and breathing rise, pupils dilate, blood goes to the muscles and digestion slows. When the threat passes, the parasympathetic branch returns the body to rest." loading="lazy">
+  <figcaption>Sympathetic activation and adrenaline prepare the body; the parasympathetic branch calms it.</figcaption>
+</figure>
+
 ## James-Lange theory of emotion
 
 Event → **bodily change** → brain interprets the change → **emotion**. "We feel afraid because our
@@ -55,6 +65,11 @@ cord injuries is mixed: some studies found weaker emotions after injury (which w
 theory), while others found emotions were still felt strongly (which would not).
 
 *For:* the theory explains why emotions feel physical, and why noticing a racing heart can make anxiety grow. *Further against:* the same bodily arousal (a pounding heart) occurs in fear, anger and excitement, so arousal alone cannot tell us which emotion we feel; emotions can also be felt very quickly, before bodily changes have time to develop. In an exam, name the order (event, physiological arousal, interpretation, emotion) before evaluating.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-brain-and-neuropsychology--03-james-lange.webp" width="900" height="574" alt="Two rows of three steps. Common sense: see a bear, feel afraid, then the heart races. James-Lange: see a bear, the body reacts, then we interpret that change as fear. Evaluation cards: panic after a near miss supports the theory; similar bodily changes across emotions and emotions reported after spinal cord injury challenge it." loading="lazy">
+  <figcaption>James-Lange reverses common sense: the body reacts first and the emotion is our interpretation.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -70,6 +85,11 @@ theory), while others found emotions were still felt strongly (which would not).
 | Cell assembly | Group of neurons strengthened by firing together (Hebb) |
 | Localisation of function | Particular brain areas do particular jobs |
 | Cognitive neuroscience | Study of how brain structure and function relate to thought and behaviour |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--19-s-neurons.webp" width="900" height="820" alt="A stimulus enters a sensory neuron, which passes the message across a synapse to a relay neuron, which passes it across a second synapse to a motor neuron, which produces a response. The relay neuron is labelled with dendrites, cell body, axon and terminals. The picture is schematic and not to scale." loading="lazy">
+  <figcaption>Sensory, relay and motor neurons pass messages in one direction, linked by synapses.</figcaption>
+</figure>
 
 ## Synaptic transmission in four steps
 
@@ -87,6 +107,16 @@ theory), while others found emotions were still felt strongly (which would not).
 brain ("fire together, wire together").
 Hebb's ideas help explain why practice improves skills and why revision spread over time strengthens memories: repeated use makes the pathways more efficient. *Evaluation:* the theory was influential and later research on brain plasticity supports the general idea, but Hebb proposed it before brain activity could be observed directly in this detail.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-brain-and-neuropsychology--04-synaptic-transmission.webp" width="900" height="728" alt="A presynaptic axon terminal with an electrical impulse and vesicles of neurotransmitter faces a postsynaptic neuron across a synapse. Neurotransmitter crosses the gap and binds to receptors. Four steps: impulse to the terminal, release from vesicles, binding to receptors, and excitation or inhibition of the next neuron." loading="lazy">
+  <figcaption>The impulse is electrical along the neuron; a chemical neurotransmitter crosses the gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-brain-and-neuropsychology--05-hebb-cell-assemblies.webp" width="900" height="468" alt="Two pairs of neurons. Rarely active together, they share a thin, weak connection; after repeated activity together, a thick, stronger connection. Cards explain cell assemblies, that learning physically changes the brain, and that frequently used pathways become more efficient." loading="lazy">
+  <figcaption>Repeated activity strengthens connections: learning physically changes the brain.</figcaption>
+</figure>
+
 ## Brain areas
 
 | Area | Function |
@@ -102,6 +132,11 @@ Each hemisphere controls the **opposite** side of the body.
 **Language areas:** **Broca's area** (usually left frontal lobe) is linked to **producing** speech; damage gives slow, effortful speech with comprehension largely kept. **Wernicke's area** (usually left temporal lobe) is linked to **understanding** language; damage can give fluent speech that makes little sense, with poor understanding of what others say.
 
 **Cognitive neuroscience** links these structures to mental processes: for example, memory to the temporal lobe and to frontal areas (Tulving), and planning and decision-making to the frontal lobe.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-brain-and-neuropsychology--06-localisation-of-function.webp" width="900" height="733" alt="A schematic side view of the brain with the frontal, parietal, occipital and temporal lobes and the cerebellum. Labels mark the motor area at the back of the frontal lobe, the somatosensory area at the front of the parietal lobe, the visual area in the occipital lobe, the auditory area and Wernicke's area in the temporal lobe, and Broca's area in the frontal lobe." loading="lazy">
+  <figcaption>Particular areas carry out particular jobs; each side of the brain serves the opposite side of the body.</figcaption>
+</figure>
 
 ## Studies at a glance
 
@@ -133,6 +168,11 @@ inconsistent results.
 on the opposite side; Broca's area damage → difficulty producing speech; frontal damage → changes in
 planning, self-control and personality.
 The classic case is **Phineas Gage**, a nineteenth-century railway worker whose behaviour was described as changing after an iron rod passed through his frontal lobe.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-brain-and-neuropsychology--07-scans-and-tulving.webp" width="900" height="837" alt="A table compares scans: CT combines X-rays to show structure; PET uses an injected radioactive tracer and fMRI detects blood oxygen changes to show activity. A brain schematic for Tulving's gold study shows episodic memories linked to the frontal cortex and semantic memories to the back of the cortex." loading="lazy">
+  <figcaption>CT shows structure; PET and fMRI show activity. Tulving linked memory types to different areas.</figcaption>
+</figure>
 
 ## Applying it to a scenario
 

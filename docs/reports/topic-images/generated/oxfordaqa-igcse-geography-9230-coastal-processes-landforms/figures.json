@@ -1,0 +1,47 @@
+[
+ {
+  "file": "oxfordaqa-igcse-geography-9230-coastal-processes-landforms--01-weathering.webp",
+  "width": 900,
+  "height": 655,
+  "after": "## Weathering",
+  "alt": "Freeze-thaw in four stages: water enters a crack, freezes and expands, widens the crack and finally breaks a fragment off. Salt weathering forces rock apart as salt crystals grow in cracks; carbonation dissolves limestone and chalk with slightly acidic rainwater.",
+  "caption": "Weathering breaks rock down in place and prepares cliffs for erosion.",
+  "bytes": 116540
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-coastal-processes-landforms--02-mass-movement.webp",
+  "width": 900,
+  "height": 566,
+  "after": "## Mass movement",
+  "alt": "Three cliff cross-sections. Sliding: a block moves down a flat surface. Slumping: saturated clay rotates down a curved surface, leaving a curved scar. Rock fall: fragments break from a steep cliff, often one undercut by the sea, and fall to its foot.",
+  "caption": "Sliding, slumping and rock falls are all movement of material downhill under gravity.",
+  "bytes": 94274
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-coastal-processes-landforms--03-discordant-concordant.webp",
+  "width": 900,
+  "height": 617,
+  "after": "## How geology influences coastal forms",
+  "alt": "Two plan views. On a discordant coast, hard and soft bands meet the sea at right angles: soft rock erodes into bays with beaches and hard rock stands out as headlands. On a concordant coast the bands run parallel to the shore; a resistant band protects softer rock until the sea breaks through and a rounded cove forms.",
+  "caption": "The direction of the rock bands decides whether you get headlands and bays or coves.",
+  "bytes": 78524
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-coastal-processes-landforms--04-wave-cut-platform.webp",
+  "width": 900,
+  "height": 582,
+  "after": "## Erosional landforms",
+  "alt": "Three cross-sections. Waves cut a notch at the cliff base between high and low tide; the overhang above collapses and the cliff retreats; repeated over time, a gently sloping wave-cut platform is left at the foot of the cliff, exposed at low tide.",
+  "caption": "Undercutting and collapse, repeated, move the cliff back and leave a platform.",
+  "bytes": 94070
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-coastal-processes-landforms--05-spit-to-bar.webp",
+  "width": 900,
+  "height": 615,
+  "after": "## Depositional landforms",
+  "alt": "Two plan views of a bay. Longshore drift builds a spit part-way across it, with calm water behind. When the ridge reaches the land on the other side it becomes a bar, trapping a shallow lagoon.",
+  "caption": "A bar is a spit that has closed off the bay, trapping a lagoon.",
+  "bytes": 63696
+ }
+]

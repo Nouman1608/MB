@@ -33,6 +33,11 @@ method** (e.g. questionnaires, unstructured interviews, participant observation)
 or teachers' labelling practices). It rewards genuine methodological reasoning applied to a
 concrete situation, not memorised definitions of methods in isolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-methods-in-context--02-two-knowledge-bases.webp" width="900" height="673" alt="Research methods knowledge from 3.1.3 Theory and Methods and substantive knowledge from 3.1.1 Education feed into 3.1.2 Methods in Context, which applies the first to the second." loading="lazy">
+  <figcaption>Methods in Context combines two other content areas instead of adding new content.</figcaption>
+</figure>
+
 ## The two things you must always combine
 
 ```
@@ -51,6 +56,11 @@ answer (e.g. "pupils might lie to a teacher") also scores low. The highest marks
 that explain how a **specific feature of the method** interacts with a **specific feature of
 researching that topic in an educational setting**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-methods-in-context--03-where-marks-are.webp" width="900" height="691" alt="Two overlapping circles: a feature of the method and a feature of the education context. Method-only and context-only answers score low; the overlap, explaining how the two interact, earns top-band marks." loading="lazy">
+  <figcaption>Marks come from linking a method feature to a feature of the education setting.</figcaption>
+</figure>
+
 ## Common practical issues, applied to education
 
 | Issue | Applied to schools/education |
@@ -59,6 +69,11 @@ researching that topic in an educational setting**.
 | Power/status | Pupils may see researchers as authority figures, similar to teachers |
 | Time constraints | School timetables limit when research can take place |
 | Vulnerability | Working with children raises informed consent and safeguarding issues |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-methods-in-context--04-issue-bank.webp" width="900" height="471" alt="Four education-specific issues to prepare: gatekeeper access through head teachers and parents, school timetabling constraints, the power imbalance between adult researchers and pupils, and informed consent with minors." loading="lazy">
+  <figcaption>Four practical and ethical issues that recur in school-based research.</figcaption>
+</figure>
 
 ## Practical, ethical and theoretical issues
 
@@ -81,6 +96,11 @@ as a generic weakness of interviews. A well-developed answer works through sever
 points in depth, rather than covering many points shallowly, and reaches an overall judgement about
 whether the method suits the topic on balance — the published mark scheme sets no target number of
 points and does not require every possible point to be covered for full marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-methods-in-context--05-worked-example.webp" width="900" height="589" alt="Three answers about using structured interviews to study teachers’ expectations of pupils: a method-only point and a context-only point both score low, while a combined point linking quick, standardised interviews to teachers’ time and the sensitivity of the topic scores high." loading="lazy">
+  <figcaption>The combined point links the method’s features to the features of this topic.</figcaption>
+</figure>
 
 ## Using the item
 
@@ -121,6 +141,11 @@ method rather than describing them side by side. Closing with an explicit judgem
 method, on balance, well suited to researching this specific topic in this specific setting — is
 what distinguishes an answer that merely lists relevant points from one that actually answers the
 question asked.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-methods-in-context--06-answer-plan.webp" width="900" height="674" alt="Four steps: read the item for specific details, build points that combine a method feature with a context feature, develop three or four in depth while returning to the item, and finish with an overall judgement on whether the method suits the topic." loading="lazy">
+  <figcaption>Fewer, deeper combined points, ending with a judgement.</figcaption>
+</figure>
 
 ## Self-test
 

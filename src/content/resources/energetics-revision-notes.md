@@ -49,6 +49,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 The sign convention is from the **system's** point of view: exothermic loses energy, so ΔH is negative — even though the thermometer reading goes up. It helps to picture the reacting chemicals as "the system" and everything else (the water bath, the container, the air) as "the surroundings" — ΔH always describes what happens to the system's own stored energy, not what a thermometer placed in the surroundings records.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--01-temperature-change.webp" width="900" height="920" alt="Two beakers with thermometers. Exothermic: arrows leave the beaker and the temperature rises from 20 to 35 degrees C. Endothermic: arrows enter the beaker and the temperature falls from 20 to 8 degrees C." loading="lazy">
+  <figcaption>An exothermic reaction gives energy out and warms the surroundings; an endothermic one takes energy in and cools them.</figcaption>
+</figure>
+
 ## Reaction pathway diagrams
 
 ```
@@ -79,6 +84,16 @@ Label every diagram with: reactants, products, **activation energy Eₐ** (react
 
 **Activation energy** — the minimum energy colliding particles need to react. It is always measured **from the reactants up to the peak** of the curve, never from the peak down to the products — a frequent source of a lost mark when labelling a diagram under time pressure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--02-exothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit lower than reactants, so delta H is negative and energy is released. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an exothermic reaction the products end lower than the reactants, so delta H is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--03-endothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an endothermic reaction the products end higher than the reactants, so delta H is positive.</figcaption>
+</figure>
+
 ## Bond energy calculations
 
 Breaking bonds is **endothermic** (energy in). Making bonds is **exothermic** (energy out).
@@ -98,6 +113,16 @@ Broken:  436 + 242            = 678
 Formed:  2 x 431              = 862
 dH = 678 - 862 = -184 kJ/mol   -> EXOTHERMIC
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--04-bond-energy-calculation.webp" width="900" height="1050" alt="H2 and Cl2 molecules have their bonds broken (436+242=678 kJ/mol in), then two H-Cl bonds are made (2x431=862 kJ/mol out). Delta H = 678-862 = -184 kJ/mol, so the reaction is exothermic." loading="lazy">
+  <figcaption>Breaking bonds takes in 678 kJ/mol and making bonds releases 862 kJ/mol, so delta H is -184 kJ/mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--05-bond-energy-ladder.webp" width="900" height="930" alt="Energy levels drawn to scale: H2 + Cl2 rises 678 to separate atoms, then falls 862 to 2HCl, which is 184 kJ/mol below the reactants. Delta H is -184 kJ/mol." loading="lazy">
+  <figcaption>Up 678 to break bonds, down 862 as bonds form: a net fall of 184 kJ/mol.</figcaption>
+</figure>
 
 ## Calorimetry — measuring ΔH experimentally
 

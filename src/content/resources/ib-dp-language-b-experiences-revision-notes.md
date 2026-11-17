@@ -54,6 +54,11 @@ Possible questions   1. How does our past shape our present and our future?
 - One-line contrast: Identities = who we are; Experiences = what happened to us and what it means
   now; Sharing the planet = challenges communities face.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-experiences--01-experiences-theme-map.webp" width="900" height="624" alt="The guiding principle of Experiences sits above a central circle surrounded by its six optional recommended topics: leisure activities, holidays and travel, life stories, rites of passage, customs and traditions, and migration. Below, the two possible questions are shown as lenses." loading="lazy">
+  <figcaption>A prescribed theme, six optional topics and two questions to read any text through.</figcaption>
+</figure>
+
 ## Vocabulary map
 
 | Topic | Nouns | Verbs | Evaluative language |
@@ -67,6 +72,11 @@ Possible questions   1. How does our past shape our present and our future?
 
 Make the same table in your target language. The evaluative column is the one most often missing: it shows what the experience meant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-experiences--02-three-vocabulary-layers.webp" width="900" height="565" alt="Three stacked layers of vocabulary: nouns such as a ceremony or a suitcase, verbs such as to celebrate or to settle, and evaluative language such as unforgettable or bittersweet, marked as the layer most often missing. An arrow shows that adding evaluative language turns a list of events into an experience." loading="lazy">
+  <figcaption>The third layer, evaluative language, turns a list of events into an experience.</figcaption>
+</figure>
+
 ## Narrative toolkit
 
 | Tool | English model | What to find in your target language |
@@ -79,6 +89,11 @@ Make the same table in your target language. The evaluative column is the one mo
 | Reported speech | He said that he *had* arrived alone. | Tense and pronoun shifts after "said that" |
 | Future hope | One day I *hope to* go back. | Future and wish structures |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-experiences--03-story-timeline.webp" width="900" height="741" alt="A timeline runs from the earlier past (had left) through the past, where completed events (arrived, ate) are dots set against a band of background or habit (was raining, used to spend), to now and the future. A bridge arrow labelled since then links past to present. Cards list past, bridge and present or future time markers, and a note shows reflective and hypothetical structures." loading="lazy">
+  <figcaption>Mark completed events against background, then build a bridge from the past to now.</figcaption>
+</figure>
+
 ## Method in steps: telling an experience
 
 ```
@@ -89,6 +104,21 @@ Make the same table in your target language. The evaluative column is the one mo
 5. Bridge            since then / now / these days — link to the present
 6. Meaning           one sentence answering a possible question
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-experiences--04-list-to-story.webp" width="900" height="652" alt="A flat account of a cousin's graduation in five short sentences is turned into a story by five steps: two kinds of past, an earlier past, evaluative detail, a bridge to the present and cultural meaning. The last two are highlighted because they answer the theme's two possible questions." loading="lazy">
+  <figcaption>Same content, five changes: the last two answer the theme's possible questions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-experiences--05-paper-1-plan.webp" width="900" height="761" alt="Step 1 sets context, audience and purpose; step 2 chooses a magazine article in a neutral but warm register. Step 3 plans six parts in time order: opening, before, the move, settling, now and close, with the last two highlighted as the bridge to the present. A note says HL answers weigh gains and losses or compare generations." loading="lazy">
+  <figcaption>Tell it in time order, then bridge to now and reflect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-experiences--06-oral-past-present-future.webp" width="900" height="625" alt="A framed image of a festival, station platform or graduation sits between two cards: what came before it, and what it will lead to, with the image labelled what event is this. Below, the SL stimulus is a visual image and the HL stimulus an excerpt from a literary work, where turning points, departures and ceremonies link to the theme." loading="lazy">
+  <figcaption>Give the image the theme's past–present–future shape.</figcaption>
+</figure>
 
 ## Method in steps: reading a narrative text
 

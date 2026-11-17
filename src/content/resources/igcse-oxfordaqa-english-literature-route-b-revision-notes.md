@@ -50,6 +50,16 @@ explanation, use the
 | Coursework | None | **NEA, 30 marks, 20%** |
 | Total scaled mark | 150 | 150 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry--01-route-a-route-b.webp" width="900" height="564" alt="Two paper bars drawn to the same time scale. Route A’s Paper 2a (2 h 15 min, 90 marks, 60%) has anthology poetry, unseen poetry and unseen prose; Route B’s Paper 2b (1 h 30 min, 60 marks, 40%) has anthology poetry and unseen poetry. On both, the anthology question is 30 marks and about 45 minutes." loading="lazy">
+  <figcaption>The anthology question is identical on both routes; only the paper around it changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-route-b-poetry-and-non-exam-assessment-study-guide--14-routeb-glance.webp" width="900" height="910" alt="Two cards. Paper 2b is an exam of 1 hour 30 minutes, worth 60 marks and 40 percent, open book, on anthology poetry and one unseen poem. The non-exam assessment is one extended response to a prose fiction text of your choice that is not on the set-text list, worth 30 marks and 20 percent. Each card has a bar showing its weighting out of 100 percent." loading="lazy">
+  <figcaption>Paper 2b is a 40% open-book exam and the non-exam assessment is 20%.</figcaption>
+</figure>
+
 ## 3.3.1 Poetry: Paper 2b Section A (30 marks)
 
 - Study the OxfordAQA Exams poetry anthology ***People and Places***: 20 poems, thematically linked, from
@@ -61,6 +71,16 @@ explanation, use the
   [Poetry and Unseen Texts revision notes](/resources/igcse-oxfordaqa-english-literature-poetry-unseen-revision-notes/),
   which cover the same anthology for Route A.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--02-theme-grid.webp" width="900" height="687" alt="A grid with themes (belonging, memory, power of a place) down the side and three poems across the top; each cell notes how the poem treats the theme, and a contrasting pair on belonging is highlighted. Three habits for using the grid follow." loading="lazy">
+  <figcaption>A grid of themes and methods prepares you for any pairing question.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-route-b-poetry-and-non-exam-assessment-study-guide--10-poem-compare-by-idea.webp" width="900" height="1128" alt="Three steps. 1 Choose the poem that fits the question best, not just the one you prefer: three poem pages with the middle one ticked. 2 Compare around ideas: two poems either side, joined to idea boxes in the middle, such as memory, and a second shared idea. 3 Explain why the methods differ, in language, form and structure." loading="lazy">
+  <figcaption>Choose the best-fitting poem, compare around ideas and explain why methods differ.</figcaption>
+</figure>
+
 ## 3.3.2 Unseen poetry: Paper 2b Section B (30 marks)
 
 - Answer **one question on a previously unseen poem**.
@@ -69,6 +89,16 @@ explanation, use the
 
 Quick method: situation and speaker → shifts and structure → language and imagery → themes and ideas →
 your personal interpretation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--02-four-lenses.webp" width="900" height="637" alt="A grid of the four lenses named in the specification, content, theme, structure and use of language, each with the question to ask and what it gives the answer. Structure is highlighted as the lens most often missed." loading="lazy">
+  <figcaption>Content, theme, structure, language: and never skip structure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--06-planning-45.webp" width="900" height="904" alt="A 45-minute bar and five steps for the unseen poem: read for sense (3 minutes), apply the four lenses (6), write a one-sentence argument (2), order three or four points ending with the ending (2), and write for about 30 minutes before checking." loading="lazy">
+  <figcaption>Thirteen minutes of thinking make thirty minutes of writing focused.</figcaption>
+</figure>
 
 ## 3.3.3 Non-exam assessment (30 marks)
 
@@ -85,6 +115,11 @@ The Paper 1 prose set texts, which you **cannot** use for the NEA, are *Great Ex
 Mockingbird*, *Purple Hibiscus*, *Never Let Me Go*, *The Book Thief* and the OxfordAQA Exams Short Stories
 Anthology.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--01-choosing-nea-text.webp" width="900" height="703" alt="Four narrowing filters for the non-exam assessment text: a substantial whole prose fiction text, not on the 9275 prescribed list, from the canon of the British Isles or seminal world literature of any period, and similar in challenge to the Paper 1 set texts. Jane Eyre, Frankenstein and Things Fall Apart are given as examples." loading="lazy">
+  <figcaption>A good NEA novel passes every filter and rewards rereading.</figcaption>
+</figure>
+
 ## Assessment objectives
 
 | AO | Wording | Paper 2b | NEA | Overall |
@@ -92,6 +127,11 @@ Anthology.
 | AO1 | Understanding of, and engagement with, themes, ideas and contexts | 16% | 8% | 40% |
 | AO2 | Analysis of how writers create meanings and effects | 16% | 8% | 40% |
 | AO3 | Informed, personal responses, using appropriate terminology and coherent, accurate writing | 8% | 4% | 20% |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--01-paper-2b.webp" width="900" height="665" alt="Paper 2b lasts 90 minutes for 60 marks: Section A on the People and Places anthology and Section B on an unseen poem, 30 marks and about 45 minutes each. Within the paper, AO1 and AO2 are each about 40% and AO3 about 20%." loading="lazy">
+  <figcaption>Two equal sections, and ideas and methods weighted equally.</figcaption>
+</figure>
 
 ## NEA levels (30 marks)
 
@@ -107,6 +147,11 @@ Anthology.
 The word **"whole text"** appears in every level from Level 3 upwards, so the essay must range across the
 novel, not one chapter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--02-nea-marking.webp" width="900" height="714" alt="A bar splits the NEA’s 20% into AO1 8%, AO2 8% and AO3 4%. A six-step ladder of levels shows Level 1 (1–5 marks) as simple, narrative or descriptive comments, Level 4 (16–20) as clear understanding and Level 6 (26–30) as convincing, critical analysis. From Level 3 up, the descriptors refer to the whole text." loading="lazy">
+  <figcaption>Higher levels need a whole-text, critical response, not a few chapters.</figcaption>
+</figure>
+
 ## Choosing an NEA text and task
 
 | Good choice | Why |
@@ -117,6 +162,11 @@ novel, not one chapter.
 
 A good task asks **how** the writer presents an idea across the whole text: "How does Charlotte Brontë
 present Jane's search for independence in *Jane Eyre*?"
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--03-weak-to-strong-task.webp" width="900" height="601" alt="Three weak tasks, such as “Write about the main character”, are each turned into a strong “How does the writer…” or “How far…” task about duty and desire, structure and sympathy, or the ending and belonging. A strong task has a focus, invites an argument and points to the writer’s methods." loading="lazy">
+  <figcaption>Ask how the writer presents something, so the task demands an argument.</figcaption>
+</figure>
 
 ## Worked example: a Level 5–6 NEA paragraph
 

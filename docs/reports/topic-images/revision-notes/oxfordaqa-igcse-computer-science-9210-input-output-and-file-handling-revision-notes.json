@@ -1,0 +1,9 @@
+{ "page": "oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--01-keyboard-input.webp", "after": "## Keyboard input"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--02-output-data-information.webp", "after": "## Display output"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--03-why-text-files.webp", "after": "## Why text files"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--04-reading-a-file.webp", "after": "## Reading a text file: four steps"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--05-write-versus-append.webp", "after": "## Writing a text file"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--07-open-once-outside-loop.webp", "after": "## Writing a text file"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--06-high-score-sequence.webp", "after": "## Template code"}
+] }

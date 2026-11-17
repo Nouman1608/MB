@@ -48,6 +48,11 @@ time between the sources to explain differences of perspective, briefly.
 - Paper 1 has one source, so it never asks you to compare.
 - Sources: one 19th-century, one 20th- or 21st-century, non-fiction or literary non-fiction, on a linked subject.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-comparing-texts--01-question-2-vs-question-4.webp" width="900" height="685" alt="Paper 2 Question 2 is worth 8 marks for AO1 and compares only what the sources show about a focus. Question 4 is worth 16 marks for AO3 and compares the writers’ perspectives and the methods that convey them, across the whole of a 19th-century source and a 20th- or 21st-century source." loading="lazy">
+  <figcaption>Question 2 compares what; Question 4 compares what and how.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -60,6 +65,11 @@ time between the sources to explain differences of perspective, briefly.
 | Integrated comparison | Each paragraph discusses both sources on one aspect |
 | Comparative connective | A word that links and weighs two points |
 | Assumption | Something a writer takes for granted, revealing perspective |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-comparing-texts--02-perspective-viewpoint-attitude-tone.webp" width="900" height="653" alt="Perspective, the wider way of seeing shaped by experience, time and values, produces a viewpoint, the position a writer takes, such as “zoos should close”. Attitude is the writer’s feeling, such as admiring or scornful, and tone is how that feeling sounds, such as ironic or urgent." loading="lazy">
+  <figcaption>Perspective produces the viewpoint; tone is how the attitude sounds.</figcaption>
+</figure>
 
 ## What to compare: the six-aspect grid
 
@@ -74,6 +84,11 @@ time between the sources to explain differences of perspective, briefly.
 
 Pick three or four rows with the sharpest contrasts or most interesting similarities. Each becomes a paragraph.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-comparing-texts--03-methods-like-with-like.webp" width="900" height="706" alt="Five kinds of method: vocabulary, grammar, form, structure, and evidence and voice, each with examples. Below, Source A and Source B are paired opening with opening, ending with ending and anecdote with anecdote." loading="lazy">
+  <figcaption>Compare methods of the same kind so the difference is visible.</figcaption>
+</figure>
+
 ## The comparative paragraph
 
 ```
@@ -83,6 +98,11 @@ Comparative judgement on perspective
  -> Source B method + quotation + effect
  -> brief reason for the difference (purpose, audience or time)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-comparing-texts--05-three-structures.webp" width="900" height="713" alt="Three strips of paragraph blocks. Integrated answers move between Source A and Source B in every paragraph. Alternating blocks put A then B, with each B paragraph linked back to A. Two separate essays describe A, then B, and compare only at the end, which tends to stay in the lower levels." loading="lazy">
+  <figcaption>Keep comparison constant: integrated paragraphs are safest.</figcaption>
+</figure>
 
 ## Comparative connectives
 
@@ -98,6 +118,11 @@ Comparative judgement on perspective
 - **Conventions:** long balanced sentences and formal address are choices that shape tone.
 - **Assumptions:** what does each writer never question?
 - **Context:** one clause is enough, and only if it explains a difference.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-comparing-texts--04-comparing-across-time.webp" width="900" height="552" alt="A table compares the 19th-century and modern sources by audience (one person against thousands of strangers), conventions (long, balanced sentences and formal address treated as choices that shape tone) and assumptions (what one writer takes for granted, the other may question)." loading="lazy">
+  <figcaption>Audience, conventions and assumptions turn the time gap into evidence.</figcaption>
+</figure>
 
 ## From description to comparison
 

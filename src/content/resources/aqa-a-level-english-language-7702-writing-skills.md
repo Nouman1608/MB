@@ -38,6 +38,11 @@ summarises the directed writing task; this page teaches the craft behind all thr
 
 The common thread is control: choosing the register that the task demands and sustaining it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--01-three-skills.webp" width="900" height="625" alt="Three columns: the academic essay for the Section A evaluative essay (30 marks, formal, cautious and evidence-led), analytical writing for the Section B analysis of two texts (40 marks, formal, precise and comparative), and directed writing for a non-specialist audience (30 marks, register set by the form and audience)." loading="lazy">
+  <figcaption>Each skill has its own register; the task decides which one you sustain.</figcaption>
+</figure>
+
 ## Skill 1: the academic essay
 
 **Structure.** An introduction that defines the terms of the question and states a line of argument; paragraphs
@@ -64,6 +69,16 @@ Evaluation   This suggests the question overstates technology's role as a cause,
   first person.
 - **Counter-argument**: an essay that only agrees is not evaluating.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--02-essay-paragraph.webp" width="900" height="631" alt="The lesson's model paragraph in four labelled steps: a claim that technology speeds the spread of new forms, evidence from the conversion of &quot;text&quot; from noun to verb, an explanation that only the speed is new, and an evaluation that the question overstates technology as a cause." loading="lazy">
+  <figcaption>Claim, evidence, explanation, evaluation: one evaluative claim per paragraph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--03-academic-register.webp" width="900" height="600" alt="Six features of academic register, each with what to avoid and what to use: hedging instead of certainty, &quot;levelled past tense of BE&quot; instead of &quot;bad grammar&quot;, named research instead of &quot;experts say&quot;, signposting, impersonal or reasoned first person instead of chatty first person, and counter-argument instead of only agreeing." loading="lazy">
+  <figcaption>Hedge, name, attribute and signpost; and always argue against yourself.</figcaption>
+</figure>
+
 ## Skill 2: analytical writing about texts
 
 Analytical writing about Section B texts treats each text as a *contribution to a discourse*. Each paragraph should
@@ -79,6 +94,11 @@ a fragile object*, not a long quotation followed by "this shows".
 
 **Terminology with purpose.** Name the feature, then explain its contribution to meaning; terminology alone earns
 little.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--04-analytical-writing.webp" width="900" height="620" alt="&quot;The writer says&quot; leads to summary, while verbs such as represents, constructs, positions, frames and presupposes lead to analysis. Below, a quotation embedded in the writer's own syntax (&quot;Text A's verb 'mangle' represents English as a fragile object&quot;) and a row of comparative connectives." loading="lazy">
+  <figcaption>Choose analytical verbs, embed short quotations and compare as you go.</figcaption>
+</figure>
 
 ## Skill 3: writing for a non-specialist audience
 
@@ -118,6 +138,21 @@ ask whether every paragraph sounds as if the same writer is speaking to the same
 language study (prestige, accommodation, change as natural, the difference between accent and dialect) but lets the
 reader feel informed rather than lectured.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--05-explaining-accessibly.webp" width="900" height="660" alt="Four techniques with the lesson's examples: example first and label second (elision in &quot;gonna&quot;), analogy (dialects as local recipes), an everyday scenario such as a job interview, and a brief definition in passing for &quot;prescriptivists&quot;. A note says real linguistic ideas should leave the reader informed rather than lectured." loading="lazy">
+  <figcaption>Carry accurate linguistic ideas in a voice the audience will read.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--06-form-conventions.webp" width="900" height="640" alt="Five forms with their conventions: an opinion article (headline, standfirst, line of argument, hook, memorable close), a blog post (personal voice, direct address, shorter paragraphs), a speech or talk (greeting, inclusive pronouns, rhetorical patterning, call to action), a letter (salutation, reason for writing, courteous register) and a leaflet or guide (headings, imperatives, practical advice)." loading="lazy">
+  <figcaption>Use the conventions of the form the task names.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--07-openings-endings-voice.webp" width="900" height="705" alt="Four openings (an anecdote, a provocative question, a striking quotation, a familiar scenario) beside four endings (return to the opening image, a call to action, a reframed question, a short punchy statement). Below, three slips that break the voice: essay phrasing in an article, unexplained terms, and a summary instead of an ending." loading="lazy">
+  <figcaption>Choose a strong way in and out, and keep one voice in between.</figcaption>
+</figure>
+
 ## Worked example: one idea, three ways
 
 Idea: *Regional accents are judged unfairly, and that judgement is social rather than linguistic.*
@@ -136,6 +171,11 @@ intelligence. You're hearing a habit our society taught you, and habits can be u
 
 Each version carries the same linguistic idea, but register, sentence structure, address and evidence change with
 the task.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--08-one-idea-three-ways.webp" width="900" height="585" alt="The idea that regional accents are judged unfairly is written three ways: an academic sentence with hedging, an analytical sentence about Text B relocating the problem from speaker to listener, and the start of a school magazine article for parents with an everyday scenario and direct address." loading="lazy">
+  <figcaption>The linguistic idea stays the same; the register follows the task.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -43,6 +43,11 @@ Condensed for the final weeks. For the full explanation and a worked example, us
 The syllabus does not publish a split of the 10 marks. This site's practice convention is up to 5 for
 content and up to 5 for language.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--01-task-in-five-facts.webp" width="900" height="730" alt="The summary is worth 10 marks: one paragraph of no more than 100 words on the named aspect or aspects of the Exercise 3 text, in your own words. It is marked against R2 and R3 and all five writing objectives, W1 to W5." loading="lazy">
+  <figcaption>A summary is marked as writing as well as reading.</figcaption>
+</figure>
+
 ## The five-step routine
 
 1. **Aspect:** write the aspect(s) in a few words. Two aspects means two halves.
@@ -50,6 +55,11 @@ content and up to 5 for language.
 3. **Paraphrase:** own words for each point.
 4. **Link:** one paragraph, with connectives.
 5. **Count and check:** ≤100 words; agreement, نے, spelling.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--02-five-steps.webp" width="900" height="650" alt="Five steps: read the aspect named in the question, collect the relevant points, put them in your own words, link them into one paragraph, and check the word count." loading="lazy">
+  <figcaption>Aspect first, then points, own words, links and the count.</figcaption>
+</figure>
 
 ## Paraphrase toolkit
 
@@ -63,6 +73,11 @@ content and up to 5 for language.
 | Voice | تنظیموں نے ورکشاپس منعقد کیں | ورکشاپس منعقد کی گئیں |
 | Combine | میلہ کامیاب رہا۔ کچھ لوگوں کو ٹکٹ نہیں ملے۔ | میلہ کامیاب رہا، تاہم کچھ لوگ ٹکٹ سے محروم رہے۔ |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--04-own-words.webp" width="900" height="752" alt="A table of five paraphrase techniques with Urdu examples: synonym (کمی to قلت), changing the word class, generalising (سیب، آم اور کیلے to پھل), active to passive, and combining two sentences with a connective (شدید بارش کے باعث)." loading="lazy">
+  <figcaption>Own words means no lifted phrases, not replacing every single word.</figcaption>
+</figure>
+
 ## Connectives by job
 
 | Job | Urdu |
@@ -74,6 +89,11 @@ content and up to 5 for language.
 
 **تاہم** is the natural hinge between two aspects, such as problems and solutions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--05-connectives.webp" width="900" height="874" alt="Connectives grouped by function: addition (اس کے علاوہ، نیز), contrast (تاہم، لیکن), cause (کیونکہ، کے باعث), result (اس لیے، لہٰذا) and sequence (پہلے، پھر، آخر میں). Contrast is highlighted as the hinge for two-aspect questions. Write in neutral third person without an empty opener." loading="lazy">
+  <figcaption>تاہم is the natural hinge between the two halves of a two-aspect summary.</figcaption>
+</figure>
+
 ## Leave out
 
 - the introduction and background
@@ -82,12 +102,22 @@ content and up to 5 for language.
 - your own opinion
 - openers such as "اس مضمون میں بتایا گیا ہے کہ"
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--03-collecting-points.webp" width="900" height="564" alt="Merge repeated points, drop background, examples and quotations, and generalise lists: پودینہ، دھنیا اور ٹماٹر becomes جلدی اگنے والی سبزیاں. Six to eight points is typical for a 100-word, two-aspect summary." loading="lazy">
+  <figcaption>Fewer, broader points: merge repeats and turn lists into one general idea.</figcaption>
+</figure>
+
 ## Cutting words in Urdu
 
 - Prefer a noun phrase to a clause: "بحالی کی کوشش" rather than "ان کو دوبارہ زندہ کرنے کی کوشش کی جا رہی ہے".
 - Merge two short sentences with a connective.
 - Remove intensifiers: بہت زیادہ، کافی حد تک.
 - Cut order when over the limit: repeats → openers → examples → weakest point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--06-cutting-order.webp" width="900" height="672" alt="A narrowing list of what to cut when over the limit: repeated ideas first, then introductory phrases, then examples, and finally the least important point. Postpositions and helper verbs such as کے لیے and ہو گیا ہے add words quickly." loading="lazy">
+  <figcaption>Cut repetition and padding before you cut a point.</figcaption>
+</figure>
 
 ## Mini worked example
 
@@ -177,6 +207,11 @@ Work through these in order once the paragraph is written:
 
 Under this site's practice convention, the first two checks protect the content credit and the last
 four the language credit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--08-timing.webp" width="900" height="465" alt="A 15-minute timeline: 4 minutes to collect points, 8 to write and 3 to count and check. Draft in your head or in brief notes, and check once for meaning and once for accuracy." loading="lazy">
+  <figcaption>You already know the text from Exercise 3, so most of the time goes on writing.</figcaption>
+</figure>
 
 ## More connectives for summaries
 

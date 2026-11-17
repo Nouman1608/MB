@@ -1,0 +1,11 @@
+[
+ {
+  "file": "cambridge-a-level-computer-science-software-development-study-guide--04-sd-test-data-v2.webp",
+  "width": 900,
+  "height": 700,
+  "after": "### Test data",
+  "alt": "A number line from 10 to 22 for an age input that accepts 13 to 19. 14 and 18 are normal. 13 and 19, the smallest and largest accepted values, are extreme. The boundary pairs are 12 and 13, and 19 and 20: the last value accepted and the first rejected on each side. Minus 5, 30 and the word ten are abnormal.",
+  "caption": "Normal, extreme, boundary and abnormal test data for an input accepting ages 13 to 19.",
+  "bytes": 81942
+ }
+]

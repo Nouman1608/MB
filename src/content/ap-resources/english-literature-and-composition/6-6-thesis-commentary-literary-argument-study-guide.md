@@ -63,6 +63,11 @@ A literary argument is a **defended interpretation**. It says what a work, or pa
 
 The course puts it this way: a **thesis statement expresses an interpretation of a literary text, and requires a defence, through use of textual evidence and a line of reasoning, both of which are explained in an essay through commentary**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--01-argument-structure.webp" width="900" height="705" alt="A thesis at the top is supported by three claims in a logical sequence, the line of reasoning. Each claim rests on evidence from the text, joined to it by commentary, which explains how the evidence supports the claim and how the claims support the thesis." loading="lazy">
+  <figcaption>Thesis, evidence and commentary: commentary is what joins the evidence to the claim.</figcaption>
+</figure>
+
 ## The thesis
 
 ### What a thesis is not
@@ -100,6 +105,16 @@ A thesis **may preview the development or line of reasoning** of an interpretati
 
 Notice how Version 4 is built: a **claim about the work's choice** (a conscience that argues against the crime), a **direction** (then ambition overrules it), and a **significance** (evil as betrayal, tragedy as self-division). It does not list evidence, yet the reader can see the path the argument will take.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--03-thesis-ladder.webp" width="900" height="672" alt="Four versions of a Macbeth thesis. Version 1 states a plot fact, version 2 lists devices, version 3 makes a general claim that could fit many works. Version 4 is split into a claim about the work's choice, a direction and a significance: evil as betrayal, tragedy as self-division." loading="lazy">
+  <figcaption>The strong thesis names a choice, shows a direction and says what it means.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--02-thesis-or-not.webp" width="900" height="576" alt="Left: five kinds of sentence that are not a thesis: summary, fact, topic, list of devices and restating the prompt. Right: a strong thesis makes a claim about meaning or function, is defensible, is specific to the work, responds to the question and says why it matters." loading="lazy">
+  <figcaption>A thesis is a defensible claim about meaning, not a summary, a fact, a topic or a list.</figcaption>
+</figure>
+
 ## The line of reasoning
 
 A **line of reasoning** is the **logical sequence of claims that work together to defend the overarching thesis**. It is not a list of examples. Each claim should build on or deepen the last, and each should be something that needs proof.
@@ -107,6 +122,11 @@ A **line of reasoning** is the **logical sequence of claims that work together t
 A **weak** line of reasoning is a list: "First, a soliloquy. Second, a quotation about blood. Third, another scene." A **strong** line of reasoning moves: "Macbeth's conscience is established. It is overruled by ambition. The consequences show betrayal rather than ignorance."
 
 You can test a line by asking of each claim: **why does this claim come here, and what does it add to the one before?** If you can reorder the claims without changing anything, you probably have a list.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--04-list-or-line.webp" width="900" height="818" alt="Top: a list of three items, a soliloquy, a quotation about blood and another scene, that could be swapped around. Bottom: a rising line of three claims, Macbeth's conscience is established, it is overruled by ambition, the consequences show betrayal rather than ignorance, each building on the last." loading="lazy">
+  <figcaption>If you can reorder the claims without loss, you have a list, not a line of reasoning.</figcaption>
+</figure>
 
 ## Commentary: the part that makes it an argument
 
@@ -120,6 +140,11 @@ A reliable commentary chain has four moves.
 | 2. **Explain how** | Point to the words or choices that produce the meaning | "the verb", "the repetition", "the placement" |
 | 3. **Connect to the claim** | Show how this supports the topic claim | "so", "which supports", "this matters because" |
 | 4. **Connect to the thesis** | Say how it moves the whole argument forward | "this deepens", "thereby", "which shows that" |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--05-commentary-chain.webp" width="900" height="732" alt="Four stacked moves lead from evidence to thesis: interpret what the evidence shows, explain how the words produce the meaning, connect it to the topic claim, and connect it to the thesis. Each move has typical signal words such as &quot;suggests&quot;, &quot;the verb&quot;, &quot;which supports&quot; and &quot;thereby&quot;." loading="lazy">
+  <figcaption>Good commentary interprets, explains how, and connects to the claim and then the thesis.</figcaption>
+</figure>
 
 ## Worked example 1: from weak thesis to strong thesis
 
@@ -138,6 +163,11 @@ A reliable commentary chain has four moves.
 **Draft 4 (strong).** "By setting Miss Tarrant's composed public refusal beside her private count of the school's needs, the narrator presents her principle as a decision made with open eyes and at real cost, and so makes independence in the novel a matter of sacrifice rather than pride."
 
 **Why Draft 4 works.** It makes a claim about function and meaning (principle as costly decision). It is defensible: a reader could argue she is simply proud. It previews a line (public refusal, then private cost, then what this means for independence). It does not list the evidence, but the reader can see where the argument will go.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--06-miss-tarrant-drafts.webp" width="900" height="723" alt="Three rejected drafts about Miss Tarrant: a plot fact, a list of devices and the label &quot;hypocrite&quot;. The strong fourth draft presents her principle as a costly decision and previews a line from public refusal to private cost to independence as sacrifice." loading="lazy">
+  <figcaption>Only the fourth draft makes a defensible claim and shows where the argument will go.</figcaption>
+</figure>
 
 ## Worked example 2: building an evidence-to-commentary chain
 
@@ -158,6 +188,11 @@ A reliable commentary chain has four moves.
 
 **A line of reasoning for the whole essay.** (1) Her public refusal presents independence as a lesson for the girls. (2) Her private count exposes what the lesson costs her. (3) Later events test whether she will keep paying it. Each claim builds on the one before, and none could be moved without breaking the argument.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--07-commentary-on-the-count.webp" width="900" height="807" alt="The quotation about Miss Tarrant counting the panes, desks and coming winter leads to two paths. A weak comment only says she is worried. The strong chain interprets, explains how the list builds to winter, connects to the claim about her costly refusal, and connects to the thesis about sacrifice." loading="lazy">
+  <figcaption>Strong commentary keeps going until it reaches the thesis.</figcaption>
+</figure>
+
 ## Self-assessment table (suggested Marlbridge rubric)
 
 Rate a draft thesis and a body paragraph from 1 (not yet) to 3 (secure).
@@ -169,6 +204,11 @@ Rate a draft thesis and a body paragraph from 1 (not yet) to 3 (secure).
 | The claims form a line of reasoning | A list | Some logic | Each claim builds on the last |
 | Evidence is specific and relevant | General references | Quoted but loosely linked | Precise and clearly linked |
 | Commentary explains how the evidence supports the claim | Restates the evidence | Interprets without explaining how | Interprets, explains how and connects to the thesis |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--08-self-assessment-rubric.webp" width="900" height="610" alt="A grid rating five features from 1 (not yet) to 3 (secure): an interpretive thesis, a thesis that responds to the question, claims that form a line of reasoning, specific evidence, and commentary that explains how. Level 3 cells describe a specific, defensible thesis, building claims, precise evidence and commentary that connects to the thesis." loading="lazy">
+  <figcaption>Use the rubric to move each feature from &quot;not yet&quot; towards &quot;secure&quot;.</figcaption>
+</figure>
 
 ## Common misconceptions
 

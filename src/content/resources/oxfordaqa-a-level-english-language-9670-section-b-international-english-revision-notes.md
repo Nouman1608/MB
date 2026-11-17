@@ -35,6 +35,11 @@ English Language (9670). For explanations and a model paragraph, use the
 - "International English" covers **established world English** and **English as a global lingua franca**.
 - Builds on Unit 2 Section B essay skills: thesis, evidence, counter-argument, judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--01-section-requirements.webp" width="900" height="575" alt="Unit 3 is a 2-hour exam worth 50 marks and 30% of the A-level. Section B, International English, is worth 25 marks; students answer one question from two, each setting out an issue for discussion and building on the Unit 2 essay. Answers need knowledge of theories, use of any material as evidence, and academic argument." loading="lazy">
+  <figcaption>An issue to argue, not a topic to survey: 25 marks, one question from two.</figcaption>
+</figure>
+
 ## Two strands, kept distinct
 
 | | World Englishes | English as a lingua franca (ELF) |
@@ -43,6 +48,11 @@ English Language (9670). For explanations and a model paragraph, use the
 | Unit of study | A national or regional variety | An interaction |
 | Key question | Are local norms legitimate? | What makes communication succeed? |
 | Example | Nigerian English, Singapore English | A meeting of engineers from Brazil, Korea and Germany |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--02-two-strands.webp" width="900" height="608" alt="Two columns. Established world Englishes are long-standing national and regional varieties with their own norms, such as Indian, Nigerian and Singaporean English, studied through models of spread. English as a lingua franca is a shared language between speakers with different first languages, studied through the Lingua Franca Core, the VOICE corpus and accommodation." loading="lazy">
+  <figcaption>World Englishes research studies varieties tied to places; ELF research studies communication between speakers from anywhere.</figcaption>
+</figure>
 
 ## Models
 
@@ -53,6 +63,16 @@ English Language (9670). For explanations and a model paragraph, use the
 - **Schneider**: Dynamic Model; foundation, exonormative stabilisation, nativisation, endonormative stabilisation,
   differentiation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--03-models-of-spread.webp" width="900" height="840" alt="Three models and a set of features. Kachru’s inner, outer and expanding circles recognise outer-circle varieties but are nation-based with the inner circle at the centre. McArthur’s wheel puts World Standard English at the hub with regional varieties around it. Modiano puts proficient international users at the centre. Features such as “prepone”, invariant “isn’t it” and “lah” are systematic." loading="lazy">
+  <figcaption>Each model puts a different group at the centre; evaluate the model, do not just describe it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--04-schneider-dynamic-model.webp" width="900" height="560" alt="Schneider’s Dynamic Model as five rising steps: foundation, exonormative stabilisation, nativisation, endonormative stabilisation and differentiation, showing how a postcolonial English becomes an accepted local variety." loading="lazy">
+  <figcaption>Schneider’s five phases explain how a postcolonial English becomes accepted locally.</figcaption>
+</figure>
+
 ## ELF research
 
 - **Jenkins (2000)**: Lingua Franca Core; the pronunciation features that matter most for intelligibility between
@@ -60,6 +80,11 @@ English Language (9670). For explanations and a model paragraph, use the
 - **Seidlhofer**: VOICE corpus of spoken ELF; observed features such as omitting third-person "-s" and an invariant
   "isn't it?" tag that rarely impede understanding.
 - **Accommodation strategies**: repetition, paraphrase, clarification requests, checking understanding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--05-elf-research.webp" width="900" height="705" alt="Jenkins’s Lingua Franca Core: most consonant sounds and vowel length matter most for intelligibility, the “th” sounds matter less. The VOICE corpus shows omitted third-person “-s” and “isn’t it?” as a universal tag rarely impede understanding. Accommodation strategies: repetition, paraphrase, checking understanding, adjusting for the listener." loading="lazy">
+  <figcaption>ELF research measures success by intelligibility and accommodation, not native-like accuracy.</figcaption>
+</figure>
 
 ## Debates
 
@@ -71,6 +96,11 @@ English Language (9670). For explanations and a model paragraph, use the
 | Teaching models | Native-speaker model (British or American) | Local standard or ELF intelligibility; critique of native-speakerism |
 | Power | Phillipson: linguistic imperialism | Crystal: speakers adopt English for their own purposes |
 | Future | Fragmentation into separate languages | Continued family of varieties with an international style |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--06-connecting-debates.webp" width="900" height="850" alt="Five debates as opposing positions: Quirk’s single standard against Kachru’s legitimate outer-circle norms, with Widdowson on ownership; intelligibility against identity; native, local or ELF teaching models and native-speakerism; Phillipson’s linguistic imperialism against Crystal’s view of speakers adopting English; and whether English will fragment, converge or continue as a family of varieties." loading="lazy">
+  <figcaption>Each debate has a case on both sides, so the essay must weigh them and judge.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -100,6 +130,11 @@ English Language (9670). For explanations and a model paragraph, use the
 4. A counter-argument that you take seriously.
 5. A judgement that answers the issue.
 6. Use any material the question provides as evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--07-worked-plan.webp" width="900" height="790" alt="A six-part plan for the native-speaker question: a thesis that intelligibility matters more than native-like speech; the case for the view (Quirk); the case against from ELF (Jenkins) and world Englishes (Kachru, Schneider); evaluation of identity, ownership and native-speakerism (Widdowson); and a qualified conclusion." loading="lazy">
+  <figcaption>Test the claim from both sides, using both strands, and end with a qualified judgement.</figcaption>
+</figure>
 
 ## Model argument sentences
 

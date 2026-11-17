@@ -44,9 +44,19 @@ Condensed recall for **4.4 Future resilience and adaptation** (IB DP Geography, 
 - **Tsunami sea walls and vertical evacuation towers:** block or give refuge from waves where higher ground is far away.
 - **Lava diversion:** barriers or cooling with water. In 1973 on Heimaey, Iceland, residents pumped seawater onto advancing lava, helping to slow it and protect the harbour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-geophysical-hazards-future-resilience-and-adaptation-revision-notes--01-structural-measures.webp" width="900" height="720" alt="A building on flexible base-isolation bearings, with cross-bracing, dampers and a wrapped, retrofitted column, above shaking ground. Side panels show a tsunami sea wall and vertical evacuation tower, and seawater being pumped onto lava to protect a harbour as at Heimaey in 1973." loading="lazy">
+  <figcaption>Structural measures absorb, spread or block hazard energy before it reaches people.</figcaption>
+</figure>
+
 ### Finance and insurance
 
 Insurance spreads the cost of recovery but is often unaffordable for the poorest. **Parametric insurance** pays out automatically when a measured trigger is reached (for example a given magnitude near a city), giving fast cash. The Caribbean Catastrophe Risk Insurance Facility pools risk between governments in this way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-geophysical-hazards-future-resilience-and-adaptation-revision-notes--02-parametric-insurance.webp" width="900" height="740" alt="Three steps: a measured trigger such as a given magnitude near a city is reached, the policy pays out automatically, and fast cash arrives for recovery. Below, several governments pay into a shared pool, as in the Caribbean Catastrophe Risk Insurance Facility. Insurance helps recovery but does not reduce physical damage and is often unaffordable for the poorest." loading="lazy">
+  <figcaption>A measured trigger, not a damage claim, releases the money, so cash arrives fast.</figcaption>
+</figure>
 
 ## The international framework
 
@@ -58,6 +68,11 @@ The **Sendai Framework for Disaster Risk Reduction 2015-2030**, adopted by UN me
 4. Enhancing preparedness for effective response, and to "build back better" in recovery and reconstruction.
 
 It shifts attention from managing disasters after they happen to reducing risk before they happen. It is voluntary, so progress depends on national action and funding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-geophysical-hazards-future-resilience-and-adaptation-revision-notes--03-sendai-framework.webp" width="900" height="750" alt="The Sendai Framework, adopted in 2015 after the Hyogo Framework, has four priorities: understanding disaster risk, strengthening disaster risk governance, investing in disaster risk reduction for resilience, and enhancing preparedness and building back better. It shifts attention from managing disasters afterwards to reducing risk beforehand." loading="lazy">
+  <figcaption>Sendai moves the focus from responding after disasters to reducing risk before them.</figcaption>
+</figure>
 
 ## What may change future risk
 
@@ -76,6 +91,11 @@ Japan has strict building standards that were strengthened after major earthquak
 ### Indian Ocean tsunami warning system
 
 In 2004 there was no regional warning system in the Indian Ocean, and the tsunami killed people in many countries hours after the earthquake. A regional system was set up afterwards, with seismic sensors, sea-level gauges and national warning centres. Evaluation: detection is now much better, but warnings still have to reach remote coastal villages through the "last mile", which depends on local communication and education.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-geophysical-hazards-future-resilience-and-adaptation-revision-notes--04-tsunami-warning-last-mile.webp" width="900" height="710" alt="The regional warning chain set up after 2004: seismic sensors, sea-level gauges and national warning centres. A final dashed box shows the last mile, where warnings must still reach remote coastal villages through local communication and education." loading="lazy">
+  <figcaption>Sensors are not enough: a warning only works if it reaches the last village.</figcaption>
+</figure>
 
 ### Turkey and Syria, 2023
 

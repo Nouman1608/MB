@@ -43,6 +43,11 @@ The brief describes criterion D in four parts. This guide takes each in turn.
 
 Criterion D is the last stage of the design cycle, but it depends on criterion B. The brief says your specification "drives the development of a solution". It also drives the evaluation. A vague specification makes a strong evaluation almost impossible, because you have nothing precise to test against. See the [criterion B study guide](/resources/ib-myp-design-criterion-b-developing-ideas/) for writing measurable specification points.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-d-evaluating--01-specification-drives-evaluation.webp" width="900" height="548" alt="The Criterion B specification feeds all four parts of criterion D: designing tests, carrying them out and judging each point, identifying improvements, and explaining the impact on the client or target audience. A vague specification leaves nothing precise to test against." loading="lazy">
+  <figcaption>Every test, judgement and improvement traces back to a specification point.</figcaption>
+</figure>
+
 ## Running example: a folding music stand
 
 A fictional client, Ms Harker, runs a junior school band. Her players carry music stands between rooms and the old metal ones are heavy and fiddly. You designed and built a folding plywood stand. Five points from your specification:
@@ -95,6 +100,11 @@ A test plan links every specification point to a method. For each point, decide:
 | 4. Cost | Add up material costs from receipts | ≤ £12 | Cost list |
 | 5. Carrying | 12 band members carry it between rooms, then rate 1–5 | Most (over half) rate 4 or 5 | Ratings and comments |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-d-evaluating--02-test-plan-and-test-types.webp" width="900" height="685" alt="Each specification point gets a method, a success measure taken from the specification, data to record, and who tests it where; for example, the sag test loads 2 kg three times against a 5 mm target. Below, test types run from quantitative (performance tests, questionnaires) through both (user trials, comparison tests) to qualitative (interviews, expert appraisal)." loading="lazy">
+  <figcaption>Plan the test, the pass mark and the data before you test; use numbers and comments together.</figcaption>
+</figure>
+
 ## Part 2: Carrying out tests and evaluating success
 
 "Objectively" means your judgement follows the data, not your hopes. Report results that fall short. An honest "not met" with a clear reason is stronger evaluation than a claim of success with no evidence.
@@ -115,6 +125,16 @@ A clear way to present this is a table with four columns: spec point, result, me
 
 Use "partly met" when a result meets some of the target but not all of it, or when results are mixed across trials. Say exactly which part was met. Don't use it to soften a clear failure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-d-evaluating--03-results-and-judgements.webp" width="900" height="770" alt="Five specification points with target, result and judgement. Sag: mean 4.0 mm against 5 mm, met. Mass: 1.35 kg against 1.20 kg, 12.5% over, not met. Folding: 70% under 20 seconds against 80%, not met. Cost: £9.40 against £12, met. Carrying: 75% rated 4 or 5, met. The overall judgement links the two failures to the heavy hinge." loading="lazy">
+  <figcaption>Judge each point from the data, and report the failures honestly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-d-evaluating--04-mean-versus-proportion.webp" width="900" height="615" alt="Dot plot of ten folding times from 13 to 25 seconds against a 20-second limit. The mean is 18.0 seconds, under the limit, but only 7 of the 10 players (70%) folded the stand in under 20 seconds, so the target of at least 80% is not met." loading="lazy">
+  <figcaption>Test what the specification actually asked for: here a proportion, not a mean.</figcaption>
+</figure>
+
 ## Part 3: Explaining improvements
 
 An improvement must come from your test evidence, say what you would change, and explain how the change would fix the problem.
@@ -133,6 +153,11 @@ That paragraph:
 
 Also consider improvements to your **testing** -- for example, testing with more players or in the real band room.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-d-evaluating--05-strong-improvement.webp" width="900" height="745" alt="A weak improvement just says “make it lighter and easier to fold”. A strong one names the evidence, gives a specific change such as a lighter hinge or a larger thumb catch, explains why it would work, checks it does not undo the passed sag test, and plans a re-test." loading="lazy">
+  <figcaption>An improvement comes from a test result and ends with a plan to re-test.</figcaption>
+</figure>
+
 ## Part 4: Explaining the impact on the client or target audience
 
 The brief asks you to explain how your solution "will impact on the client or target audience". Impact is the difference the solution makes to their lives, work or environment. Think in categories:
@@ -146,6 +171,11 @@ The brief asks you to explain how your solution "will impact on the client or ta
 Include negative or uncertain impacts. If the stand is too heavy for the youngest players, some may still need help, which limits the benefit. Base claims on evidence where you have it (the ratings, Ms Harker's interview) and say where an impact is a prediction.
 
 Connect impact to the global context your teacher set for the unit. The brief lists six, for example "Identities and relationships" and "Globalization and sustainability".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-d-evaluating--06-impact-categories.webp" width="900" height="810" alt="Five categories of impact for the music stand: use (faster set-up, fewer trips), wellbeing and ergonomics (lighter, but corners need rounding), cost and resources, environment (recyclable plywood, reusable hinge) and the wider community. A negative impact is included: the stand is too heavy for the youngest players." loading="lazy">
+  <figcaption>Impact is the difference the solution makes to people, good and bad, not a list of features.</figcaption>
+</figure>
 
 ## Digital design: the same four parts
 

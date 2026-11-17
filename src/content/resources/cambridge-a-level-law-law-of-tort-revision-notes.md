@@ -103,6 +103,21 @@ Constable of West Yorkshire, 1989), for example to avoid defensive practice or f
 - Possible reform: the Law Commission (Liability for Psychiatric Illness, Law Com No 249, 1998)
   recommended removing the proximity and own-senses requirements for those with a close tie.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--01-tort-negligence-elements.webp" width="900" height="1060" alt="A top-to-bottom flow of three boxes then a result. Box 1, duty of care: the defendant owed a duty to the claimant, shown by two people joined by arrows. Box 2, breach: the defendant’s conduct fell below the standard of the reasonable person, shown by a person below a dashed standard line. Box 3, damage: the breach caused damage that was not too remote, shown as a breach box linked to a damage box. If all three are proved on the balance of probabilities the defendant is liable." loading="lazy">
+  <figcaption>A claimant must prove duty of care, breach and damage caused by the breach that is not too remote, on the balance of probabilities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--02-tort-duty-of-care.webp" width="900" height="1062" alt="A flow chart. First ask whether this is an established duty situation, such as driver to road user or doctor to patient. If yes, a duty is owed. If no, apply the Caparo test, where all three parts are needed: harm reasonably foreseeable, sufficient proximity between the parties, and it is fair, just and reasonable to impose a duty. Then a duty is owed. A footer notes the origin in the neighbour principle of Donoghue v Stevenson (1932) and that special rules apply to psychiatric harm and pure economic loss." loading="lazy">
+  <figcaption>Established duty situations need no further analysis; otherwise Caparo asks for foreseeability, proximity and that it is fair, just and reasonable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--03-tort-causation-remoteness.webp" width="900" height="1110" alt="A flow chart with two filters after a breach by the defendant. Filter 1, factual cause, the but for test: would the damage have happened anyway? If yes there is no liability, as in Barnett (1969) where the patient would have died anyway. Filter 2, legal cause or remoteness: is the kind of damage reasonably foreseeable? If not it is too remote, as in The Wagon Mound (No 1) (1961). Passing both makes the damage recoverable. A lower panel shows that if the kind of harm is foreseeable, a greater extent due to the claimant’s weakness is still recoverable (Smith v Leech Brain, 1962)." loading="lazy">
+  <figcaption>Factual causation (but for) and legal causation (foreseeable kind of damage) are two separate filters; a greater extent of harm from a weakness is still recoverable.</figcaption>
+</figure>
+
 ## What are the torts affecting land? (4.2)
 
 **Occupiers' Liability Act 1957 - lawful visitors**
@@ -146,6 +161,21 @@ objects on it. Intention to enter is enough even if mistaken about ownership (Ba
 airspace (Kelsen v Imperial Tobacco, 1957, limited by Bernstein v Skyviews, 1978); continuing
 trespass while an object stays on the land (Holmes v Wilson, 1839).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--04-tort-land.webp" width="900" height="1150" alt="Three panels, each showing the defendant’s land on the left and the claimant’s land on the right, separated by a dashed boundary. Trespass to land: a person walks directly across the boundary onto the claimant’s land; it is a direct, unjustified interference and needs no proof of damage. Private nuisance: smoke from the defendant’s chimney drifts over the boundary to the claimant’s house, an indirect and unreasonable interference with use and enjoyment. Rylands v Fletcher: a tank of something dangerous on the defendant’s land escapes across the boundary onto the claimant’s land; it requires a non-natural use of land." loading="lazy">
+  <figcaption>Trespass is direct entry, private nuisance is indirect interference with enjoyment, and Rylands v Fletcher concerns the escape of a dangerous thing from a non-natural use.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-land--01-visitor-or-trespasser.webp" width="900" height="865" alt="A comparison of the Occupiers’ Liability Acts. The 1957 Act protects lawful visitors with the common duty of care, covers property damage and allows limited exclusion; the 1984 Act protects trespassers only when the s1(3) conditions are met, covers injury only, can be discharged by warnings and is silent on exclusion." loading="lazy">
+  <figcaption>Visitor: the 1957 Act. Trespasser: the narrower 1984 Act, for injury only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-land--03-private-nuisance.webp" width="900" height="727" alt="Four factors for unreasonable interference: locality (Sturges v Bridgman; St Helen’s Smelting; Coventry v Lawrence), duration and timing (Crown River Cruises; De Keyser’s), sensitivity (Robinson v Kilvert; Network Rail) and malice (Christie v Davey; Hollywood Silver Fox Farm). The parties (Hunter v Canary Wharf; Sedleigh-Denfield; Tetley v Chitty) and defences of prescription and statutory authority follow, with coming to the nuisance and public benefit not defences." loading="lazy">
+  <figcaption>Locality, duration, sensitivity and malice decide whether neighbours must tolerate it.</figcaption>
+</figure>
+
 ## What are the torts affecting the person? (4.3)
 
 | Tort | Elements | Key cases |
@@ -157,6 +187,16 @@ trespass while an object stays on the land (Holmes v Wilson, 1839).
 Defences to battery: consent (medical consent to the broad nature of the act, Chatterton v Gerson,
 1981); self-defence using reasonable force (Lane v Holloway, 1968); necessity (F v West Berkshire HA,
 1990; Leigh v Gladstone, 1909).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--05-tort-trespass-person.webp" width="900" height="1150" alt="Three panels for the three trespasses to the person, all direct acts that are intentional or reckless and actionable without proof of damage. Assault: one person raises a fist and the other, a short distance away, is afraid of immediate unlawful force; no contact is needed. Battery: the fist makes contact with the other person; even a slight unlawful touch counts, but ordinary everyday touching does not (Collins v Wilcock). False imprisonment: a person in a room with all exits shut is totally restrained, but a room with one exit open is not enough (Bird v Jones)." loading="lazy">
+  <figcaption>Assault, battery and false imprisonment are direct acts, intentional or reckless, actionable without proof of damage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-the-person--01-trespass-or-negligence.webp" width="900" height="584" alt="A flow chart: if the harm followed directly from an intentional or reckless act, the claim is trespass to the person, actionable without proof of damage. If the act was unintentional, the claim lies in negligence and damage must be proved (Letang v Cooper). All are proved on the balance of probabilities." loading="lazy">
+  <figcaption>Direct and intentional: trespass, no damage needed. Unintentional: negligence, damage needed.</figcaption>
+</figure>
 
 ## Which general defences and remedies apply? (4.4)
 
@@ -182,6 +222,16 @@ Defences to battery: consent (medical consent to the broad nature of the act, Ch
   Shelfer v City of London Electric Lighting (1895), applied more flexibly in Coventry v Lawrence (2014);
   Miller v Jackson (1977); Kennaway v Thompson (1981).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--06-tort-defences.webp" width="900" height="1056" alt="Four rows showing what each general defence does to a claim, using the lesson’s example of a 60,000 pound loss. Contributory negligence reduces damages by a just and equitable share: with the claimant 20 per cent to blame, 12,000 pounds is removed and the award is 48,000 pounds. Consent (volenti non fit injuria, Smith v Baker 1891) is a complete defence, so the award is nothing. Illegality (ex turpi causa, Pitts v Hunt 1991) bars a claim founded on the claimant’s own serious wrongdoing. Limitation sets a time limit: three years for personal injury under the Limitation Act 1980, subject to extension." loading="lazy">
+  <figcaption>Contributory negligence reduces damages; consent and illegality defeat the claim; limitation sets a time limit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-general-defences-and-remedies--04-types-of-damages.webp" width="900" height="827" alt="A tree. Compensatory damages restore the claimant (Livingstone v Rawyards) and divide into special damages, quantifiable losses to trial, and general damages such as pain, suffering, loss of amenity and future losses. Other kinds of damages are nominal, contemptuous (Grobbelaar, £1), aggravated, which compensate extra injury to feelings, and exemplary, which punish, the last only in the three Rookes v Barnard categories." loading="lazy">
+  <figcaption>Most damages compensate; exemplary damages punish, and only in three categories.</figcaption>
+</figure>
+
 ## Worked example: secondary victim
 
 Rana sees on live television that her son's school bus has crashed. She drives to the hospital two
@@ -194,6 +244,11 @@ hours later and sees him injured. She develops post-traumatic stress disorder.
    though Alcock held that identifying a body some hours later was not.
 5. Own senses: live television alone is not enough (Alcock), but seeing her son at hospital may be.
 Conclusion: arguable, turning on the aftermath point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-the-tort-of-negligence--06-nervous-shock.webp" width="900" height="643" alt="Primary victims, within the range of physical injury, recover for psychiatric illness (Page v Smith). Secondary victims must pass the three Alcock controls: a close tie, proximity in time and space including the immediate aftermath (McLoughlin v O’Brian), and their own unaided senses; the Law Commission would keep only the close tie. White and Paul show rescuers and relatives in medical cases get no special treatment." loading="lazy">
+  <figcaption>Primary victims need foreseeable physical danger; secondary victims face three controls.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

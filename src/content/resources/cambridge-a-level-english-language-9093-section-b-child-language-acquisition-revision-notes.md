@@ -43,6 +43,11 @@ Condensed recall for Paper 3 Section B. For explanations and an annotated transc
 - **Post-telegraphic** (3 years on): function words, inflections, inverted questions, subordinate clauses.
 - **Ages 4-8**: complex sentences, narrative sequencing, pragmatic control, influence of schooling and reading.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-child-language-acquisition--01-stages-and-ages.webp" width="900" height="710" alt="Six stages with the lesson's rough ages and examples: pre-verbal crying and cooing (0 to 4 months), babbling such as &quot;bababa&quot; (about 6 to 12 months), holophrastic &quot;up&quot; for &quot;pick me up&quot; (12 to 18 months), two-word &quot;more juice&quot; (18 to 24 months), telegraphic &quot;mummy put cup table&quot; (24 to 36 months) and post-telegraphic speech from about 3 years." loading="lazy">
+  <figcaption>Learn the order; treat the ages as rough guides only.</figcaption>
+</figure>
+
 ## Grammar to spot
 
 - **Overgeneralisation** (virtuous error): "runned", "foots", "goodest".
@@ -50,6 +55,11 @@ Condensed recall for Paper 3 Section B. For explanations and an annotated transc
 - **Negation path**: "no sleep" to "I no sleep" to "I don't want to sleep".
 - **Question path**: rising intonation ("Mummy go?") to "wh-" without inversion ("Where mummy go?") to adult form.
 - **Coordination to subordination**: "and... and... and" to "because", "when", "so that".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-child-language-acquisition--02-development-3-to-8.webp" width="900" height="640" alt="Questions move from &quot;Where daddy going?&quot; without inversion to &quot;Where is daddy going?&quot;. Negation moves from &quot;no bed&quot; to &quot;I no want it&quot; to &quot;I don't want it&quot;. Below, later development in grammar (subordination with because, when and if), narrative sequencing and pragmatics such as politeness and repair." loading="lazy">
+  <figcaption>Development continues after 3: questions, negation, subordination, narrative and pragmatics.</figcaption>
+</figure>
 
 ## Phonology to spot
 
@@ -61,6 +71,11 @@ Condensed recall for Paper 3 Section B. For explanations and an annotated transc
 | Substitution (e.g. gliding) | "yeyo" for "yellow" |
 | Assimilation | "gock" for "sock" |
 | Reduplication | "wawa" for "water" |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-child-language-acquisition--03-phonological-processes.webp" width="900" height="640" alt="Five processes with the lesson's examples: deletion (&quot;ca&quot; for &quot;cat&quot;, &quot;nana&quot; for &quot;banana&quot;), consonant cluster reduction (&quot;pider&quot; for &quot;spider&quot;), substitution of /w/ for /r/ (&quot;wed&quot; for &quot;red&quot;), assimilation (&quot;gog&quot; for &quot;dog&quot;) and reduplication (&quot;dada&quot;, &quot;bibi&quot;)." loading="lazy">
+  <figcaption>Children simplify sounds systematically; name the process each time.</figcaption>
+</figure>
 
 ## Semantics to spot
 
@@ -80,6 +95,11 @@ Condensed recall for Paper 3 Section B. For explanations and an annotated transc
 | Heuristic | Tell me why | "Why moon there?" |
 | Imaginative | Let's pretend | "This is my rocket." |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-child-language-acquisition--04-halliday-functions.webp" width="900" height="695" alt="Halliday's seven functions with the lesson's child examples: instrumental (&quot;Want biscuit.&quot;), regulatory (&quot;Stop it!&quot;), interactional (&quot;Love you, mummy.&quot;), personal (&quot;Me sad.&quot;), representational (&quot;Doggy gone outside.&quot;), heuristic (&quot;What that?&quot;) and imaginative (&quot;I'm a lion, roar!&quot;). A note shows one utterance serving two functions." loading="lazy">
+  <figcaption>Say what an utterance does, and notice when it does two things at once.</figcaption>
+</figure>
+
 ## Theories: claim, for, against
 
 | Theory | Claim | For | Against |
@@ -89,6 +109,11 @@ Condensed recall for Paper 3 Section B. For explanations and an annotated transc
 | LASS (Bruner) | Caregivers scaffold language | Routines, book reading, turn-structuring | Language develops where child-directed interaction is limited |
 | Cognitive development (Piaget) | Concepts before words | "Allgone" after object permanence | Language and cognition can develop separately |
 | Child-directed speech | Adults adapt speech to support learning | Recasts, expansions, questions | Varies across cultures; children learn without it |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-child-language-acquisition--05-theories-for-against.webp" width="900" height="705" alt="Four theories, each with its claim, evidence for and a limitation: Skinner's imitation and reinforcement, Chomsky's language acquisition device, Bruner's language acquisition support system and Piaget's cognitive theory. A fifth panel lists features of child-directed speech, which supports interactionist views but varies across cultures." loading="lazy">
+  <figcaption>Know each theory's claim, the evidence for it and a limitation.</figcaption>
+</figure>
 
 ## Adult speech features
 
@@ -106,6 +131,11 @@ Condensed recall for Paper 3 Section B. For explanations and an annotated transc
 - /slashes/: phonemic transcription
 - [brackets] or italics: context
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-child-language-acquisition--06-transcript-conventions.webp" width="900" height="595" alt="A key of common transcript conventions: (.) for a micro-pause, (2) for a two-second pause, slashes or brackets for overlap, bold or underlining for stress, arrows for intonation, slashes around phonemic transcription, and bracketed context notes. Two examples show rising intonation turning &quot;Juice?&quot; into a question and an adult's pause leaving space for the child." loading="lazy">
+  <figcaption>Pauses, overlaps and intonation are evidence, not decoration.</figcaption>
+</figure>
+
 ## Paragraph formula
 
 1. **Quote** the exact form, with notation if relevant: "cow eated" or "/wed/".
@@ -117,6 +147,11 @@ Condensed recall for Paper 3 Section B. For explanations and an annotated transc
 Example chain: *"Want ball ↗" (rising intonation) is a telegraphic utterance functioning as a question; the child
 signals interrogative meaning through intonation before using auxiliaries or inversion, which suggests pragmatic
 intent develops ahead of grammatical form.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-child-language-acquisition--07-worked-transcript.webp" width="900" height="689" alt="The lesson's invented transcript of Ava and her father, annotated: Ava's virtuous error &quot;eated&quot;, omitted article and auxiliary, and &quot;me do it&quot; as regulatory and personal; her father's recast &quot;ate&quot;, wh-question, praise and overlap. Two boxes weigh the evidence for Chomsky and for Bruner's LASS." loading="lazy">
+  <figcaption>Use both speakers, and weigh two theories against the same evidence.</figcaption>
+</figure>
 
 ## Exam traps
 

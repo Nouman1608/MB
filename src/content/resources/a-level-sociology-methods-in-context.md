@@ -42,6 +42,11 @@ separate content of its own — it is a skill applied to content already covered
 paper, which is exactly why it cannot be revised as a standalone topic in the way Education or
 Theory and Methods can.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-methods-in-context--01-paper-1-structure.webp" width="900" height="502" alt="Paper 1 is a 2-hour written exam worth 80 marks and 33.3% of the A-level. Education carries 50 marks, Methods in Context 20 marks and Theory and Methods 10 marks." loading="lazy">
+  <figcaption>Methods in Context is a 20-mark extended-writing question within Paper 1.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **AQA A-LEVEL SOCIOLOGY (7192) — 3.1.2 METHODS IN CONTEXT**
@@ -55,6 +60,11 @@ practical, ethical and theoretical considerations influencing choice of method),
 substantive knowledge of education from 3.1.1 (the role and functions of education, differential
 achievement, in-school relationships and processes, and educational policy). The methods-in-context
 question tests whether a student can apply the first body of knowledge specifically to the second.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-methods-in-context--02-two-knowledge-bases.webp" width="900" height="673" alt="Research methods knowledge from 3.1.3 Theory and Methods and substantive knowledge from 3.1.1 Education feed into 3.1.2 Methods in Context, which applies the first to the second." loading="lazy">
+  <figcaption>Methods in Context combines two other content areas instead of adding new content.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -71,6 +81,16 @@ involves children, always have a bank of education-specific practical and ethica
 draw on — gatekeeper access via head teachers and parents, school timetabling constraints, the power
 imbalance between adult researchers and pupils, and the informed-consent complications of working
 with minors — since these recur across many different methods-in-context items.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-methods-in-context--03-where-marks-are.webp" width="900" height="691" alt="Two overlapping circles: a feature of the method and a feature of the education context. Method-only and context-only answers score low; the overlap, explaining how the two interact, earns top-band marks." loading="lazy">
+  <figcaption>Marks come from linking a method feature to a feature of the education setting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-methods-in-context--04-issue-bank.webp" width="900" height="471" alt="Four education-specific issues to prepare: gatekeeper access through head teachers and parents, school timetabling constraints, the power imbalance between adult researchers and pupils, and informed consent with minors." loading="lazy">
+  <figcaption>Four practical and ethical issues that recur in school-based research.</figcaption>
+</figure>
 
 ## Worked example: applying a method to an education research topic
 
@@ -97,6 +117,11 @@ standardised administration) and a feature of the education context (teachers' l
 the sensitivity of admitting to differential treatment) and explains how the two interact, rather
 than stating either fact in isolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-methods-in-context--05-worked-example.webp" width="900" height="589" alt="Three answers about using structured interviews to study teachers’ expectations of pupils: a method-only point and a context-only point both score low, while a combined point linking quick, standardised interviews to teachers’ time and the sensitivity of the topic scores high." loading="lazy">
+  <figcaption>The combined point links the method’s features to the features of this topic.</figcaption>
+</figure>
+
 ## Common mistakes
 
 Writing generic method strengths and weaknesses without connecting them to education specifically —
@@ -117,6 +142,11 @@ depth and reaching an overall judgement about whether the method suits the topic
   point directly from it.
 - Aim for three or four genuinely combined points explored in depth, closing with an explicit
   judgement, rather than many shallow points.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-methods-in-context--06-answer-plan.webp" width="900" height="674" alt="Four steps: read the item for specific details, build points that combine a method feature with a context feature, develop three or four in depth while returning to the item, and finish with an overall judgement on whether the method suits the topic." loading="lazy">
+  <figcaption>Fewer, deeper combined points, ending with a judgement.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

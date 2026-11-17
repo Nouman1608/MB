@@ -35,6 +35,11 @@ Condensed recall for Paper 4 Section B. For full explanations and a model paragr
 - Refer to specific details and to theories, theorists and studies.
 - AO1, AO2, AO4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--14-p4-stimulus-approach.webp" width="900" height="920" alt="Three steps with icons: first ground the answer in a detail from the unseen stimulus text (a page with a highlighted line and magnifier); then widen out to a named theory or example (arrows spreading outward); then take a position on the issue (a flag). Below, a bar shows the 50 marks split into two equal 25-mark sections: Section A English in the World and Section B Language and the Self, with equal time for each." loading="lazy">
+  <figcaption>Start from the stimulus, widen out to named knowledge, then take a position; the two sections are equally weighted.</figcaption>
+</figure>
+
 ## Strand 1: innateness and learning
 
 | Position | Claim | Key names |
@@ -51,6 +56,16 @@ Evidence to cite with care:
 - **Nicaraguan Sign Language** (1980s): deaf children developed a grammatically structured sign language.
 - **Poverty of the stimulus**: children acquire rules not clearly present in their input.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--01-born-or-made.webp" width="900" height="665" alt="A scale from learned to innate. On the learned side, empiricism (Locke's blank slate) and Skinner's behaviourism; on the innate side, innatism and Chomsky's nativism with the poverty of the stimulus, popularised by Pinker. Most linguists now take an interactionist middle position." loading="lazy">
+  <figcaption>Four positions on one question: how much of language is born and how much is made.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--02-evidence-innateness.webp" width="900" height="470" alt="Three pieces of evidence: Lenneberg's critical period hypothesis (1967), that language is acquired most readily before puberty; Genie, found in 1970, who learned vocabulary but struggled with grammar, with the caution that her abuse makes conclusions difficult; and Nicaraguan Sign Language, developed by deaf children in schools in the 1980s." loading="lazy">
+  <figcaption>Each case is evidence to weigh, and Genie's needs a caution.</figcaption>
+</figure>
+
 ## Strand 2: language and thought
 
 | Position | Claim | Evidence or example |
@@ -62,6 +77,11 @@ Evidence to cite with care:
 
 Applied to the self: labels, euphemism and framing ("person with diabetes" against "diabetic") influence
 self-perception without determining it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--03-language-and-thought.webp" width="900" height="745" alt="Four positions, each with a small arrow diagram and evidence: linguistic determinism (language determines thought; Whorf on Hopi, challenged by Malotki), linguistic relativity (language influences thought; Kay and Kempton, compass-direction languages), universalism (thought shapes language; Berlin and Kay) and Fodor's language of thought (mentalese expressed in language)." loading="lazy">
+  <figcaption>Separate the strong and weak versions of Sapir-Whorf, and set them against universalism and mentalese.</figcaption>
+</figure>
 
 ## Strand 3: language and social identity
 
@@ -77,6 +97,21 @@ self-perception without determining it.
 - **Genderlect**: Lakoff (1975), deficit; Tannen (1990), difference; Cameron (2007) argues differences are overstated.
 - **Accommodation** (Giles): convergence and divergence.
 - **Inclusion and exclusion**: slang, jargon, in-jokes, and accent judgements mark insiders and outsiders.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--04-varieties-nested.webp" width="900" height="705" alt="Nested circles: an individual's idiolect sits inside a dialect or sociolect, which sits inside a speech community with shared norms. Beside them, the lesson's examples: fillers and favourite words, &quot;youse&quot; as a plural you, professional jargon, and a school, city or online fandom." loading="lazy">
+  <figcaption>Every speaker has an idiolect inside wider shared varieties.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--05-prestige-accommodation.webp" width="900" height="630" alt="Overt prestige, from the standard, is illustrated by Labov's 1966 New York department store study; covert prestige, from non-standard forms, by Trudgill's 1974 Norwich study. Below, Giles's accommodation: convergence moves speech towards a listener and divergence away. A note cites Labov's Martha's Vineyard study (1963)." loading="lazy">
+  <figcaption>Prestige can be overt or covert, and speakers converge or diverge to signal identity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--06-genderlect-debate.webp" width="900" height="460" alt="A timeline of the genderlect debate: Robin Lakoff's deficit view (1975), Deborah Tannen's difference view (1990) and Deborah Cameron's critique of the &quot;Mars and Venus&quot; model (2007)." loading="lazy">
+  <figcaption>Genderlect research is a debate between positions, not a settled fact.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -97,6 +132,11 @@ self-perception without determining it.
 2. Select and rank three or four issues from the text.
 3. Each paragraph: quotation, concept, study, evaluation.
 4. Conclude with a judgement answering the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--07-worked-example.webp" width="900" height="565" alt="The lesson's original extract about losing an accent at university. At university the writer converges towards the dominant accent after smiles at &quot;bath&quot;; at home the brother's label &quot;posh&quot; makes the same move divergence, where the local accent has covert prestige. The closing line suggests identity is performed for each speech community." loading="lazy">
+  <figcaption>One change of accent is convergence in one community and divergence in another.</figcaption>
+</figure>
 
 ## Exam traps
 

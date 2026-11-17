@@ -82,12 +82,27 @@ Use a three-step answer: **what was done → who is affected → consequence**.
 | Employee keeps professional standing | Employee may be dismissed or expelled from the professional body |
 | Problems are fixed before release | Problems found later cost more to fix and may cause harm |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-ethics-and-ownership-study-guide--05-ethics-steps.webp" width="900" height="1000" alt="Three steps with a worked example about a developer told to hide a known fault in a medical dosage calculator. Step 1, name the principle: public interest, honesty and integrity. Step 2, apply it to the facts: patients could be harmed and the client is misled. Step 3, state the outcome: report the fault, record it, then escalate or refuse. Saying only that something is unethical gains little." loading="lazy">
+  <figcaption>Name the principle, apply it to the facts, state the outcome, shown with the dosage calculator example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-ethics-and-ownership-study-guide--06-licence-dilemma.webp" width="900" height="1110" alt="A flow chart. A colleague copies 400 lines from an open-source library whose licence says any product including the code must also be open source, so the licence conditions are broken. Those affected are the library author, the company, the colleague and customers. The programmer tells the colleague and team lead, then chooses one of three actions: remove the code and rewrite it, get a different licence from the author, or release the product under a compatible licence. Doing nothing because nobody will find out fails the honesty principle and risks legal action." loading="lazy">
+  <figcaption>Flow chart of the copied-code dilemma, the stakeholders and the three acceptable actions.</figcaption>
+</figure>
+
 ## Why is copyright legislation needed?
 
 - It protects the creator's work (code, documentation, images, music, video) from being copied, sold or adapted without permission.
 - It lets creators earn money from their work, so it encourages people and companies to invest in developing software.
 - It gives a legal remedy against piracy (illegal copying and distribution of software).
 - Copyright protects the **expression** (the actual code), not the underlying idea.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-ethics-and-ownership-study-guide--03-copyright-scope.webp" width="900" height="850" alt="Two panels. Protected by copyright, which arises automatically when original work is made: source code, documentation, images, music and video. Not usually protected: an idea or an algorithm as such. The summary reads: copyright protects the expression, not the idea." loading="lazy">
+  <figcaption>Copyright arises automatically and protects how work is expressed (code, documentation, images, music, video), not the idea or algorithm.</figcaption>
+</figure>
 
 ## How do the software licence types compare?
 
@@ -99,6 +114,16 @@ Use a three-step answer: **what was done → who is affected → consequence**.
 | Commercial | Paid (one-off or subscription) | Not available | Copying and modification not allowed; use limited to the licence terms (e.g. number of users) | Software with support and guaranteed updates |
 
 "Free" in Free Software Foundation means **freedom**, not zero price. November 2024 Paper 1 questions tested software licences.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-ethics-and-ownership-study-guide--01-licence-types.webp" width="900" height="990" alt="Five software licence types in two groups. Source code closed: commercial (bought or subscribed to, no copying), shareware (free trial or limited version, pay to unlock) and freeware (free to use, author keeps the copyright). Source code available: free software from the Free Software Foundation (freedom to run, study, change and share) and open source from the Open Source Initiative (source code can be modified and redistributed)." loading="lazy">
+  <figcaption>The five licence types sorted by whether the source code is closed or available.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-ethics-and-ownership-study-guide--02-freeware-vs-free-software.webp" width="900" height="840" alt="Two panels. Freeware: free of cost, shown with a zero-pound coin, but the author keeps the copyright, the source code is closed behind a padlock and it cannot be modified. Free software: users have four freedoms, to run, study, change and share the software; the source code is available behind an open padlock and the software may still be sold. The banner reads: free means freedom, not price." loading="lazy">
+  <figcaption>Freeware is free of cost but closed; free software gives freedom to run, study, change and share.</figcaption>
+</figure>
 
 ## What are the applications and impact of AI?
 

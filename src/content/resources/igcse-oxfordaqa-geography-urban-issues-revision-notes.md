@@ -35,6 +35,11 @@ happened. Fix the order: **cause (migration, natural increase) → growth
 follows this chain; skipping the cause step is the single easiest fix
 for a mid-range answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-urban-issues-and-challenges--10-urb-case-study-frame.webp" width="900" height="880" alt="Five stacked steps joined by arrows: name the city; cause of growth (rural-urban migration, push and pull factors); opportunity (industry creates jobs); challenge (growth outpaces infrastructure, squatter settlements lack clean water and sanitation); response (a named planning scheme, with an assessment of how effective it was)." loading="lazy">
+  <figcaption>A full case-study answer runs: named city, cause, opportunity, challenge, response, then judges how effective the response was.</figcaption>
+</figure>
+
 ## Push and pull factors, and natural increase — kept distinct
 
 - **Migration (push-pull)** — push factors drive people from rural
@@ -46,6 +51,16 @@ rate, entirely separate from migration.
 A scenario may involve both simultaneously — name which mechanism a
 given fact demonstrates rather than defaulting to "migration" for every
 instance of urban growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-urban-issues-and-challenges--08-urb-push-pull.webp" width="900" height="730" alt="A rural area on the left and a city skyline on the right with an arrow of people moving from one to the other. Push factors at the rural end: rural poverty and limited services. Pull factors at the city end: jobs, education and healthcare." loading="lazy">
+  <figcaption>Migration to a city is driven by push factors that drive people out of rural areas and pull factors that attract them to the city.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-urban-issues-and-challenges--09-urb-two-causes.webp" width="900" height="920" alt="A bar showing how a city grows each year in an illustrative example. Natural increase (births minus deaths): 30 births minus 10 deaths gives 20 per 1,000 people. Migration into the city adds 15 per 1,000 people. Together the city grows by 35 per 1,000 people, which is 3.5 percent. The two causes are separate mechanisms." loading="lazy">
+  <figcaption>Natural increase and migration are two separate causes of urban growth; do not mix them up. Example numbers are illustrative.</figcaption>
+</figure>
 
 ## The required LIC/NEE case study — a fixed template
 
@@ -62,6 +77,11 @@ Prepare one real, named city with specific recall for each slot:
 A generic, unnamed answer scores poorly against a question that
 explicitly requires a case study — the named specifics are not optional
 decoration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-urban-issues-and-challenges--11-urb-growth-outpaces-services.webp" width="900" height="830" alt="A graph over time, with illustrative curves. City population rises steeply. The number of people the services can supply (water, sanitation) rises slowly. The gap between the two curves widens and is shaded: people there live in squatter settlements without clean water or sanitation." loading="lazy">
+  <figcaption>Rapid, unplanned growth can outpace infrastructure, leaving a gap filled by squatter settlements lacking clean water and sanitation. Curves are illustrative.</figcaption>
+</figure>
 
 ## London or New York — one world city in detail
 
@@ -90,6 +110,11 @@ recall for each slot:
 | Main features | What the project built or changed |
 | Impact | Social, economic and environmental effects, with a judgement |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-urban-issues-and-challenges--12-urb-regeneration-frame.webp" width="900" height="940" alt="A left-to-right flow. A derelict building labelled why the area needed regeneration (for example dereliction or deprivation). A crane labelled the main features of the project. Three impact symbols labelled social, economic and environmental, followed by a judgement." loading="lazy">
+  <figcaption>Prepare one named regeneration project: why it was needed, its main features, and its social, economic and environmental impact, judged not just listed.</figcaption>
+</figure>
+
 ## Key term precision
 
 Define, don't gesture at: **urbanisation** (rising proportion of a
@@ -100,6 +125,11 @@ housing without legal permission or planning, often lacking services),
 **urban sprawl** (unplanned outward spread into surrounding
 countryside). Confusing natural increase with migration is the most
 frequent term-precision error examiners report.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-urban-issues-and-challenges--13-urb-sprawl.webp" width="900" height="870" alt="A city seen from above as a solid block in the centre. Dashed outward rings and arrows show built-up land spreading unplanned into the surrounding countryside fields." loading="lazy">
+  <figcaption>Urban sprawl is the unplanned outward spread of a city into surrounding countryside.</figcaption>
+</figure>
 
 ## Evaluating the planning response, not just describing it
 

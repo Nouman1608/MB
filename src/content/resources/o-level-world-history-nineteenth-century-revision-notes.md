@@ -49,6 +49,11 @@ They **failed** because the revolutionaries split between liberals and radicals,
 
 **The lesson drawn shaped everything after:** unification would come through force and diplomacy rather than through parliaments.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--13-nc-1848-rise-fall.webp" width="900" height="1060" alt="Four causes feed the 1848 revolutions; four recurring factors then undid them; results by country (Frankfurt by 1849, Austria by 1849, France Louis Napoleon)." loading="lazy">
+  <figcaption>The 1848 revolutions broke out for four reasons and unravelled for four others.</figcaption>
+</figure>
+
 ## Unification
 
 **Italy (1859–70).** Obstacles: Austrian control of the north, the Papal States splitting the peninsula, regional loyalties, poor communications. **Cavour** provided Piedmontese diplomacy and the French alliance; **Garibaldi** delivered the south with the Expedition of the Thousand; **Mazzini** supplied the nationalist ideology; **Victor Emmanuel II** became king.
@@ -61,6 +66,21 @@ They **failed** because the revolutionaries split between liberals and radicals,
 
 The **Ems Telegram** provoked France into declaring war, so the southern German states joined Prussia against a foreign aggressor rather than being annexed. That is why the sequence ended in a German Empire rather than a Prussian conquest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--14-nc-italy-unification.webp" width="900" height="1060" alt="Four obstacles (Austrian control of the north, Papal States, regional loyalties, poor communications) and four makers (Cavour, Garibaldi, Mazzini, Victor Emmanuel II)." loading="lazy">
+  <figcaption>Italy overcame four obstacles through four contributions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--15-nc-germany-method.webp" width="900" height="1040" alt="Bismarck's three-part method repeated in wars against Denmark 1864, Austria 1866 and France 1870-71, then the Ems Telegram chain to the unified German Empire." loading="lazy">
+  <figcaption>Bismarck isolated, fought a limited war, and stopped, three times.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--16-nc-unification-compare.webp" width="900" height="860" alt="Bars for Italian unification 1859-70 (11 years) and German unification 1864-71 (7 years) with their different methods." loading="lazy">
+  <figcaption>Italy and Germany both began fragmented but were unified by different methods.</figcaption>
+</figure>
+
 ## Alliances
 
 | Bloc | Members |
@@ -71,6 +91,11 @@ The **Ems Telegram** provoked France into declaring war, so the southern German 
 Britain abandoned "splendid isolation" — first with the **Anglo-Japanese Alliance (1902)** — and German naval expansion pushed it towards France and Russia; the *Entente Cordiale* (1904) and the Anglo-Russian agreement (1907) settled colonial disputes.
 
 **Alliances turned a local crisis into a general war** — but they were also intended to deter one, and noting both sides is what raises an answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--17-nc-alliance-blocs.webp" width="900" height="1060" alt="The Triple Alliance 1882 (Germany, Austria-Hungary, Italy) against the Triple Entente 1907 (Britain, France, Russia); how German naval expansion led Britain away from splendid isolation; the agreements were not a formal military alliance." loading="lazy">
+  <figcaption>Europe divided into two blocs before 1914.</figcaption>
+</figure>
 
 ## The Balkans and imperialism
 
@@ -88,6 +113,16 @@ Key crises: **Bosnian Crisis 1908–09** (Austria annexed Bosnia; Russia backed 
 
 **Motives for imperialism:** **economic** (raw materials such as rubber and cotton, and new markets); **strategic** (routes such as the Suez Canal and the Cape, and coaling stations for naval power); **national prestige and rivalry** (colonies as a mark of great-power status, and seizing territory to deny it to a rival); **ideological/religious** (the "civilising mission" and missionary activity).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--02-empire-three-systems.webp" width="900" height="993" alt="Three horizontal bands show chains of authority. France in Senegal: French officials rule Africans directly, with assimilation giving few people citizenship. Britain in Nigeria: a High Commissioner rules through emirs and their courts. Belgium in the Congo: King Leopold II and the Force Publique impose rubber quotas. The verbs replaced, used and exploited summarise each system." loading="lazy">
+  <figcaption>French rule replaced local authority, British rule used it, and Leopold’s regime exploited it for profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--01-empire-motives.webp" width="900" height="868" alt="Five icons show the motives for empire in the lesson: economic (raw materials, markets, investment), military (naval bases, coaling stations, sea routes), geopolitical (rivalry and prestige), religious (missions) and cultural (the civilising mission), each with the lesson’s example. It reminds the reader to link motives rather than list them." loading="lazy">
+  <figcaption>Five motives for imperialism, each with an example from the lesson.</figcaption>
+</figure>
+
 ## Long-term causes — MANIA
 
 | | |
@@ -98,11 +133,21 @@ Key crises: **Bosnian Crisis 1908–09** (Austria annexed Bosnia; Russia backed 
 | **I**mperialism | Colonial rivalry; the Moroccan crises of 1905 and 1911 |
 | **A**ssassination | Franz Ferdinand at Sarajevo, 28 June 1914 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--18-nc-ww1-causes.webp" width="900" height="960" alt="Four barrels for the long-term causes (militarism, alliances, nationalism, imperial rivalry) and a flame for the trigger, the Sarajevo assassination on 28 June 1914." loading="lazy">
+  <figcaption>Long-term causes supplied the fuel and Sarajevo the spark.</figcaption>
+</figure>
+
 ## The July Crisis
 
 Assassination → Austrian ultimatum, backed by Germany's **"blank cheque"** → Serbia's near-total but incomplete acceptance → Austria declares war → Russia mobilises → Germany mobilises and executes the **Schlieffen Plan** → Belgium invaded → Britain enters under the 1839 treaty.
 
 **Why it escalated in days rather than months:** the Schlieffen Plan required Germany to defeat France quickly before turning east, so Russian mobilisation removed the diplomatic window entirely. Military timetables, not diplomats, set the pace.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-nineteenth-century-1848-1914--19-nc-ww1-escalation.webp" width="900" height="1070" alt="Germany had to beat France fast before Russia could fully mobilise. Chain: Sarajevo, Russia mobilising, German timetable leaving no room for diplomacy, general war within weeks." loading="lazy">
+  <figcaption>The Schlieffen Plan turned a crisis into general war within weeks.</figcaption>
+</figure>
 
 ## The causation essay
 

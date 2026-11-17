@@ -82,12 +82,32 @@ Rotation reminder: Paper 1 (sources) in 2027; Paper 2 (essays) in 2028 and 2029.
 4. **Light-touch government:** high tariffs, land grants, no central bank -- private capital (Morgan) and foreign investment.
 5. **Technology and attitudes:** telephone, typewriter, electricity, steel processes, patents; admiration of success (Carnegie's "Gospel of Wealth").
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-gilded-age-progressive-era-study-guide--15-gil-why-industrialise.webp" width="900" height="797" alt="Six boxes with arrows pointing into a central bar labelled rapid industrialisation. Left: the Civil War legacy (Homestead and Pacific Railway Acts 1862, first transcontinental railroad 1869); people (population roughly doubled 1870-1900, mass immigration); resources (coal, iron ore, timber, copper, oil after 1859). Right: government (high tariffs, land grants, no central bank until 1913); technology (telephone 1876, Edison from 1879-82, Bessemer steel); attitudes (Carnegie’s Gospel of Wealth 1889, Horatio Alger stories)." loading="lazy">
+  <figcaption>Six causes fed the rapid growth of US industry after 1870.</figcaption>
+</figure>
+
 ## 5.2 Consequences -- who won and who lost?
 
 - **Winners:** industrialists and financiers; consumers who gained from cheaper goods; the expanding middle class.
 - **Losers:** tenement dwellers with poor housing and health; workers facing long hours and wage cuts after Panics; farmers squeezed by falling prices and freight rates.
 - **Politics:** trusts influenced parties and state legislatures; urban Bosses ran cities.
 - **Responses:** Knights of Labor (all workers, declined after 1886), AFL (skilled crafts, Gompers); Grangers (co-operatives, state railroad laws), Greenback Party (paper money), later Populists.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-gilded-age-progressive-era-study-guide--16-gil-boom-and-bust.webp" width="900" height="820" alt="A schematic line chart from 1870 to 1900. Overall growth rises, with sharp dips at the Panic of 1873 and the Panic of 1893, each marked by a dashed line. The height of the line is illustrative, not data; only the timing of the two Panics comes from the lesson. Below, causes: speculation in railroads, over-expansion and weak banking. Effects: bank failures, mass unemployment and wage cuts." loading="lazy">
+  <figcaption>Growth was interrupted by severe Panics in 1873 and 1893.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-gilded-age-progressive-era-study-guide--17-gil-labour-and-farmers.webp" width="900" height="950" alt="Two groups. Workers: the National Labor Union (1866) sought an eight-hour day; the Knights of Labor, open to unskilled workers and women, grew in the mid-1880s but declined after the Haymarket bombing (1886); the American Federation of Labor (1886) under Samuel Gompers organised skilled craft workers for bread-and-butter gains. Farmers: the Grangers set up co-operatives and won state railroad laws; the Greenback Party wanted paper money to raise prices; in the 1890s the Populist Party took these demands into national politics." loading="lazy">
+  <figcaption>Workers and farmers each built organisations to answer the problems of rapid growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-gilded-age-progressive-era-study-guide--18-gil-trusts-and-antitrust.webp" width="900" height="703" alt="Vertical timeline of federal action against trusts. 1887: Interstate Commerce Act, weakly enforced. 1890: Sherman Anti-Trust Act, weakly enforced and at first used more against unions than corporations. 1901: Morgan’s US Steel formed. Roosevelt years: Northern Securities case. 1911 under Taft: Standard Oil broken up. 1914 under Wilson: Clayton Anti-Trust Act and Federal Trade Commission." loading="lazy">
+  <figcaption>Federal laws against trusts were weak at first and became stronger in the Progressive Era.</figcaption>
+</figure>
 
 ## 5.3 Why Progressivism? -- remember "MTB-UW"
 
@@ -99,6 +119,11 @@ Rotation reminder: Paper 1 (sources) in 2027; Paper 2 (essays) in 2028 and 2029.
 
 **Aims:** democratise politics (secret ballot, primaries, direct election of Senators, civil service reform) and regulate the economy (unions, conditions, banks, insurance, trusts, stock market).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-gilded-age-progressive-era-study-guide--19-gil-progressive-causes-aims.webp" width="900" height="1000" alt="Five causes on the left feed into a central bar labelled Progressive Movement: muckrakers, temperance, banking panics and concentrated wealth, urbanisation and corruption, and women’s groups. Two aims on the right: reform democracy (secret ballot, direct primaries, initiative, referendum and recall, direct election of Senators, civil service reform) and regulate business and conditions (working hours, child labour, factory safety, unions, banks, insurance, trusts, stock market)." loading="lazy">
+  <figcaption>Five causes produced a movement with two broad aims: reform democracy and regulate business.</figcaption>
+</figure>
+
 ## 5.4 Success -- the evidence in one place
 
 **Presidents.** Roosevelt -- Square Deal, Northern Securities, 1906 consumer laws, conservation. Taft -- more antitrust cases, Standard Oil broken up, Mann-Elkins Act. Wilson -- Underwood Tariff, Federal Reserve, Clayton Act, FTC.
@@ -106,6 +131,16 @@ Rotation reminder: Paper 1 (sources) in 2027; Paper 2 (essays) in 2028 and 2029.
 **Amendments.** 16th income tax; 17th direct election of Senators; 18th Prohibition; 19th women's vote.
 
 **Limits.** Weak enforcement and court challenges; segregation tightened (including federal offices under Wilson); Native Americans and immigrants gained little; women still unequal at work; rural poverty persisted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-gilded-age-progressive-era-study-guide--20-gil-three-presidents.webp" width="900" height="764" alt="A time bar from 1900 to 1921 shows three presidencies drawn to scale: Theodore Roosevelt 1901-09, William Howard Taft 1909-13 and Woodrow Wilson 1913-21. Under each, key measures. Roosevelt: Square Deal, Northern Securities case, Hepburn Act, Pure Food and Drug and Meat Inspection Acts, national forests. Taft: Standard Oil broken up 1911, Mann-Elkins Act, split the Republicans. Wilson: New Freedom, Underwood Tariff with income tax, Federal Reserve Act, Clayton Act and Federal Trade Commission." loading="lazy">
+  <figcaption>Roosevelt, Taft and Wilson each added to the regulation of business, with different results.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-gilded-age-progressive-era-study-guide--21-gil-progressive-amendments.webp" width="900" height="591" alt="Vertical timeline of four constitutional amendments. 1913: the 16th allowed a federal income tax and the 17th provided direct election of Senators. 1919: the 18th, ratified, introduced Prohibition. 1920: the 19th gave women the vote, the result of decades of pressure-group campaigning." loading="lazy">
+  <figcaption>Four amendments between 1913 and 1920 wrote Progressive aims into the Constitution.</figcaption>
+</figure>
 
 ## Worked example: Paper 1 part (b) structure
 

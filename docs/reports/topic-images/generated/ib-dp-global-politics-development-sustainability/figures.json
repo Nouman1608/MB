@@ -1,0 +1,74 @@
+[
+ {
+  "file": "ib-dp-global-politics-development-sustainability--01-contested-meanings.webp",
+  "width": 900,
+  "height": 588,
+  "after": "## Contested meanings",
+  "alt": "Four contested terms. Development as growth, human development or institutional change; sustainability in three dimensions, with the Brundtland definition; poverty as lack of resources (absolute) or opportunities (relative); inequality as economic, political and social, linked to power asymmetries.",
+  "caption": "Each key term has several meanings, and actors choose the one that suits them.",
+  "bytes": 107386
+ },
+ {
+  "file": "ib-dp-global-politics-development-sustainability--02-actors.webp",
+  "width": 900,
+  "height": 708,
+  "after": "## Interactions of political stakeholders and actors",
+  "alt": "Five kinds of actor around development and sustainability: states and governments, such as Brazil’s Bolsa Família; IGOs and financial institutions such as the World Bank, IMF and WTO; civil society such as the Green Belt Movement; TNCs, as in garment supply chains after Rana Plaza; and marginalised groups who are often excluded.",
+  "caption": "Each actor wants different things and holds different power over the rules.",
+  "bytes": 105174
+ },
+ {
+  "file": "ib-dp-global-politics-development-sustainability--03-measures.webp",
+  "width": 900,
+  "height": 562,
+  "after": "## Nature, practice and study of development and sustainability",
+  "alt": "A table of development measures with what each combines and its main limitation: the HDI, the Multidimensional Poverty Index, the Happy Planet Index, the Gini index, corruption and trust indices, and sustainability and governance indices.",
+  "caption": "Every index captures something and misses something; say which.",
+  "bytes": 113448
+ },
+ {
+  "file": "ib-dp-global-politics-development-sustainability--04-mpi-example.webp",
+  "width": 900,
+  "height": 594,
+  "after": "## Nature, practice and study of development and sustainability",
+  "alt": "Two fictional districts each with 1,000 people, 340 of them multidimensionally poor, so H is 0.34. In district 1 the average intensity A is 0.50, giving an MPI of 0.17; in district 2 A is 0.40, giving 0.136.",
+  "caption": "Same headcount, lower intensity, lower MPI.",
+  "bytes": 105392
+ },
+ {
+  "file": "ib-dp-global-politics-development-sustainability--05-hdi-geometric-mean.webp",
+  "width": 900,
+  "height": 633,
+  "after": "## Nature, practice and study of development and sustainability",
+  "alt": "Country A scores 0.90 for health, 0.50 for education and 0.85 for income; country B scores 0.75 in all three. Both have an arithmetic mean of 0.75, but the geometric mean gives A an HDI of about 0.726 and B 0.75.",
+  "caption": "The geometric mean penalises uneven development.",
+  "bytes": 72162
+ },
+ {
+  "file": "ib-dp-global-politics-development-sustainability--06-pathways.webp",
+  "width": 900,
+  "height": 541,
+  "after": "## Nature, practice and study of development and sustainability",
+  "alt": "Six pathways with their core idea and main criticism: modernization, market-led, state-led, dependency and world-systems, human development, and community-led sustainable development.",
+  "caption": "Every pathway carries a theory of why states are poor, and a weakness.",
+  "bytes": 116186
+ },
+ {
+  "file": "ib-dp-global-politics-development-sustainability--07-resource-curse.webp",
+  "width": 900,
+  "height": 465,
+  "after": "## Nature, practice and study of development and sustainability",
+  "alt": "Oil or mineral wealth, an environmental and economic factor, can feed corruption and conflict, a political factor, so some resource-rich states develop more slowly than resource-poor ones. Below, the five sets of factors: political, economic, social, institutional and environmental.",
+  "caption": "One factor can trigger another: resource wealth can slow development through politics.",
+  "bytes": 76666
+ },
+ {
+  "file": "ib-dp-global-politics-development-sustainability--08-debates.webp",
+  "width": 900,
+  "height": 620,
+  "after": "## Debates on development and sustainability",
+  "alt": "Arguments for globalization, such as export-led growth and falling extreme poverty in East Asia, against arguments such as rising inequality and loss of policy space. The 17 SDGs offer a shared framework but are criticised as growth-based and non-binding. Alternatives include de-growth, regenerative approaches, the doughnut, buen vivir and Gross National Happiness.",
+  "caption": "Argue both sides of globalization and the SDGs, then weigh the alternatives.",
+  "bytes": 122784
+ }
+]

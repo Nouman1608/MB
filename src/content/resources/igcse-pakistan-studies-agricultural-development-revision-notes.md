@@ -57,6 +57,11 @@ evaluate.
 | Salinity | Salt left on or in the soil after water evaporates |
 | Transhumance | Seasonal movement of herds between summer and winter pastures |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--01-farm-as-a-system.webp" width="900" height="662" alt="Inputs such as land, water, seeds, labour and capital pass through processes such as ploughing, sowing, irrigating and harvesting to give outputs such as crops, milk, income and crop residue. A feedback arrow shows income from a cash crop farm becoming an input for the next season." loading="lazy">
+  <figcaption>Every farm turns inputs into outputs; what happens to the outputs decides the farm type.</figcaption>
+</figure>
+
 ## The four main crops
 
 | Crop | Season | Main areas | Needs | Uses |
@@ -66,17 +71,42 @@ evaluate.
 | Sugar cane | Kharif | Central Punjab, central Sindh, Peshawar valley | Heat; long season; heavy water | Sugar, gur; molasses; bagasse fuel |
 | Wheat | Rabi | Irrigated Punjab and Sindh; barani Potwar | Cool growing season, warm dry ripening | Staple flour; straw for fodder |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--02-kharif-rabi-seasons.webp" width="900" height="620" alt="A year wheel of summer, autumn, winter and spring. Kharif crops such as cotton, rice and sugar cane are sown in summer and harvested in autumn; rabi crops such as wheat, pulses and oilseeds are sown in winter and harvested in spring." loading="lazy">
+  <figcaption>Kharif crops use the hot, wet summer; rabi crops use the cooler, drier winter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--03-main-crops-where-why.webp" width="900" height="552" alt="A table of the four main crops. Cotton, rice and sugar cane are kharif crops grown in parts of Punjab, Sindh and the Peshawar valley where it is hot and water is plentiful. Wheat is a rabi crop grown on the irrigated plains and on rain-fed land in the Potwar Plateau." loading="lazy">
+  <figcaption>Each crop is grown where its needs for heat, water and soil are met.</figcaption>
+</figure>
+
 ## Livestock
 
 - **Buffalo and cattle:** milk, meat, hides for leather, dung for fuel and manure, draught power.
 - **Goats and sheep:** meat, milk, wool and hair, skins; herded in Balochistan and the north.
 - **Poultry:** eggs and meat; commercial farms near large cities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--05-livestock-transhumance.webp" width="900" height="589" alt="A mountain profile shows transhumance: herders move sheep and goats up to high summer pastures and back down to the valleys in winter. Cards below compare buffalo and cattle on small farms, which give milk, draught power and dung, with nomadic and semi-nomadic herding." loading="lazy">
+  <figcaption>Transhumance follows the grass: up in summer, down in winter.</figcaption>
+</figure>
+
 ## Irrigation at a glance
 
 - **Canal:** inundation (flood season only) and perennial (all year, from barrages); karez (underground, Balochistan).
 - **Lift:** Persian wheel (animal-powered) and tubewell (pumped).
 - **Structures:** dam (store) → barrage (divert) → link canal (transfer) → distribution canal → field channel → bund.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--06-river-to-field.webp" width="900" height="768" alt="Five steps of the irrigation network: a dam stores water, a barrage raises the river level and diverts water into canals, link canals move water between rivers, distribution canals and field channels carry it to farms, and bunds hold it on the fields." loading="lazy">
+  <figcaption>Dams store, barrages divert, canals carry and bunds hold: one network from river to crop.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--04-karez-oasis.webp" width="900" height="721" alt="Cross-section from the hills to a desert oasis. Groundwater at the foot of the hills flows by gravity along a sloping underground channel to an oasis where dates and vegetables are grown. Little water is lost to evaporation, but the channels need constant cleaning and nearby tubewells lower the water table." loading="lazy">
+  <figcaption>A karez moves groundwater by gravity and keeps it out of the sun.</figcaption>
+</figure>
 
 ## Waterlogging and salinity
 
@@ -86,6 +116,11 @@ evaporation draws salt to the surface.
 **Restoration:** tubewells to lower the water table; surface and tile drains; flushing salts;
 salt-tolerant crops.
 **Prevention:** lining canals and watercourses; measured irrigation; drainage built into schemes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--07-waterlogging-salinity.webp" width="900" height="734" alt="Cross-section of a field beside an unlined canal. Seepage and over-watering raise the water table near the surface so crop roots cannot breathe; evaporation in the hot climate then leaves salts on the surface. Cards list ways to restore damaged land and to prevent the problem." loading="lazy">
+  <figcaption>Seepage raises the water table; evaporation leaves the salt behind.</figcaption>
+</figure>
 
 ## Government action
 

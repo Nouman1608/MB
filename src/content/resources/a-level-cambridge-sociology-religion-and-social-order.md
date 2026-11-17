@@ -78,6 +78,11 @@ Cambridge International AS & A Level Sociology 9699 (2024–2026), Paper 4 Secti
   secular ones.
 - **Private belief** cannot be observed directly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-religion-and-social-order--01-measuring-religiosity.webp" width="900" height="590" alt="Religiosity at the centre with five dimensions from Glock and Stark: belief, practice, experience, knowledge and consequences. Beside it, four reasons measurement is hard: attendance figures, survey wording, social desirability and private belief." loading="lazy">
+  <figcaption>Religiosity has several dimensions, and each is measured imperfectly.</figcaption>
+</figure>
+
 ## How does religiosity vary between social groups?
 
 - **Gender** — in many societies women report higher belief and attendance than men; explanations
@@ -95,6 +100,11 @@ Cambridge International AS & A Level Sociology 9699 (2024–2026), Paper 4 Secti
 humanism also offer explanations of the world. Debate centres on whether these are rivals to
 religion, functional equivalents, or open versus closed belief systems.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-religion-and-social-order--02-religiosity-groups.webp" width="900" height="506" alt="Four cards. Women often report higher belief because of socialisation, child-rearing and the life course; older people may be more religious through ageing or generation; minority ethnic groups through community, cultural defence and cultural transition; and class groups differ, with Weber’s theodicy of disprivilege for the disadvantaged." loading="lazy">
+  <figcaption>Religiosity varies by gender, age, ethnicity and class, each with its own explanations.</figcaption>
+</figure>
+
 ## How does religion maintain social order? Functionalist views
 
 - **Durkheim** (*The Elementary Forms of Religious Life*, 1912) studied Aboriginal Australian
@@ -111,6 +121,11 @@ religion, functional equivalents, or open versus closed belief systems.
 ceremonies. **Limitations:** ignores conflict between and within religions; struggles with
 religious diversity; based on small-scale societies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-religion-and-social-order--03-malinowski-fishing.webp" width="900" height="575" alt="Two fishing scenes from Malinowski’s study of the Trobriand Islanders: in the safe lagoon no ritual is needed, but before dangerous open-ocean fishing they perform magic and ritual." loading="lazy">
+  <figcaption>Ritual appears where outcomes are dangerous and uncertain.</figcaption>
+</figure>
+
 ## Does religion support oppression? Marxist views
 
 - **Karl Marx** (1844) called religion "the opium of the people": it eases the pain of exploitation
@@ -124,6 +139,11 @@ religious diversity; based on small-scale societies.
 **Strengths:** explains religion's link to power and inequality. **Limitations:** ignores
 religion's role in social change; assumes false consciousness; less relevant where religion has
 declined.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-religion-and-social-order--04-functionalism-marxism.webp" width="900" height="605" alt="A comparison grid. Functionalists say religion creates solidarity, values and coping; Marxists say it is ideology that legitimates inequality and offers compensation. Each view’s key thinkers, strengths and limitations are listed." loading="lazy">
+  <figcaption>Both see religion as conservative: functionalists call it integration, Marxists call it ideology.</figcaption>
+</figure>
 
 ## Can religion cause social change?
 
@@ -150,6 +170,16 @@ in 1980. Liberation theology shows religion opposing an unjust order — a chall
 - **The Ayatollahs and the Iranian revolution** — in 1979 a mass movement led by Ayatollah
   Khomeini overthrew the Shah and established an Islamic republic, showing religion as a
   revolutionary force.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-religion-and-social-order--05-protestant-ethic.webp" width="900" height="620" alt="Top chain, Weber: Calvinist ideas produced a disciplined work ethic and reinvestment, which helped capitalism rise in Northern Europe. Bottom chain, Tawney and Marxists: economic change came first and Protestantism adapted to it." loading="lazy">
+  <figcaption>Weber and his critics disagree about which came first: religious ideas or economic change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-religion-and-social-order--06-religion-and-change.webp" width="900" height="552" alt="Three case studies of religion and change: liberation theology in Latin America, the Moral Majority in US politics from 1979, and the 1979 Iranian revolution led by Ayatollah Khomeini." loading="lazy">
+  <figcaption>Religion can drive change as well as maintain order, though its success varies.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

@@ -1,0 +1,10 @@
+{ "page": "cambridge-a-level-computer-science-data-types-and-structures-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--15-dt-data-types.webp", "after": "## Choosing a data type" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--16-dt-record.webp", "after": "## Records" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--17-dt-array-2d.webp", "after": "## Arrays" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--18-dt-file-modes.webp", "after": "## Text files" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--20-dt-stack-queue.webp", "after": "## Abstract data types" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--19-dt-stack-trace.webp", "after": "### How each ADT is stored in arrays" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--22-dt-linked-arrays.webp", "after": "### How each ADT is stored in arrays" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--21-dt-linked-insert.webp", "after": "## Worked example: inserting into a linked list held in arrays" }
+] }

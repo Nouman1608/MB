@@ -59,6 +59,11 @@ Every story offers more details than an essay can use. Choosing is part of the a
 
 Topic 6.7 introduced those jobs. This topic concentrates on **selection**: how to decide which details to use, and how to know when you have used enough.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-8-selecting-relevant-sufficient-evidence-study-guide--01-evidence-is-chosen.webp" width="900" height="711" alt="A funnel: the many details a story offers pass through an audit, and only a few chosen details come out, showing what the writer thinks matters. Some details are left out, and they may be the ones that would complicate the case. Evidence is effective when commentary explains it and sufficient when its quantity and quality support the reasoning." loading="lazy">
+  <figcaption>Selecting evidence is already part of the argument.</figcaption>
+</figure>
+
 ## The evidence audit
 
 An **audit** is a short table you fill in before writing. For each candidate detail ask five questions.
@@ -71,6 +76,11 @@ An **audit** is a short table you fill in before writing. For each candidate det
 | 4. **Does it complicate?** | Does it conflict with the claim in any way? | Honest handling of counter-evidence makes the argument stronger |
 | 5. **Does the set cover the claim?** | Is every part of the claim supported? | Sufficiency depends on coverage, not count |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-8-selecting-relevant-sufficient-evidence-study-guide--02-five-question-audit.webp" width="900" height="759" alt="Five questions asked of each candidate detail: is it relevant to the claim; what job does it do; where in the story is it; does it complicate the claim; and does the whole set cover every part of the claim. Each has a reason, such as &quot;sufficiency depends on coverage, not count&quot;." loading="lazy">
+  <figcaption>Audit each detail for relevance, job, position and complication, then check coverage.</figcaption>
+</figure>
+
 ## Quality as well as quantity
 
 Sufficient evidence is a matter of **quality** and **quantity**.
@@ -79,9 +89,19 @@ Sufficient evidence is a matter of **quality** and **quantity**.
 - **Quantity**: enough pieces to support the claim, which for a claim about a **pattern** means evidence from more than one place in the text.
 - **Balance**: one broad claim supported by a single detail is thin; many details supporting a narrow claim are repetitive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-8-selecting-relevant-sufficient-evidence-study-guide--03-quality-and-quantity.webp" width="900" height="717" alt="A two-by-two grid. A broad claim or pattern with one detail is thin; with evidence from several places it is apt. A narrow point with one quotation can be apt; with many details it is repetitive. Below, quality means specific words, short embedded quotations and details that bear close reading." loading="lazy">
+  <figcaption>Match the amount of evidence to the size of the claim, and choose details that carry meaning.</figcaption>
+</figure>
+
 ## The recursive loop
 
 Developing an interpretation is **recursive**. You may start with a claim and look for evidence, or start with evidence and form a claim. In both cases, you go back and forth: if the evidence does not support the claim, revise the claim; if the claim opens new questions, look for new evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-8-selecting-relevant-sufficient-evidence-study-guide--04-recursive-loop.webp" width="900" height="450" alt="A loop between claim and evidence. You can start at either end. If the claim opens new questions, look for new evidence; if the evidence does not support the claim, revise the claim." loading="lazy">
+  <figcaption>Interpretation goes back and forth between claim and evidence.</figcaption>
+</figure>
 
 ## Public-domain example: Poe's Montresor
 
@@ -114,6 +134,11 @@ This claim has **three parts**: (1) he presents revenge as justified, (2) his ac
 
 **A model body sentence.** "Montresor's refusal to name Fortunato's 'thousand injuries' leaves his justification unsupported, and the gap between his claim of punishment and his smile 'at the thought of his immolation' suggests that what he calls justice is pleasure."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-8-selecting-relevant-sufficient-evidence-study-guide--05-montresor-coverage.webp" width="900" height="752" alt="A coverage grid for a three-part claim about Montresor. Detail (a), from the opening, covers parts 1 and 2; (c), from the middle, and (e), from the ending, cover part 3. Detail (b) can qualify and (d) is set aside. Using (a), (c) and (e) covers every part from three positions." loading="lazy">
+  <figcaption>Sufficiency is coverage: every part of the claim, from more than one place.</figcaption>
+</figure>
+
 ## Worked example 2: revising a claim when the evidence pushes back
 
 **Original passage written by Marlbridge for practice.**
@@ -138,6 +163,11 @@ This claim has **three parts**: (1) he presents revenge as justified, (2) his ac
 
 **A model body sentence.** "By letting the pan tip for the widow and the thumb press for the steward, the narrator presents Pike's fairness as selective: a private justice that redistributes rather than weighs."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-8-selecting-relevant-sufficient-evidence-study-guide--06-pike-revising-the-claim.webp" width="900" height="667" alt="Two scales. For Widow Lamb the pan of tea is tipped a little in her favour; for Sir Anthony's steward Pike's thumb rests on the sugar-pan, making it seem heavier. The first claim, that Pike is honest, fails; the revised claim says his scales serve loyalty, giving to the poor what they take from the powerful." loading="lazy">
+  <figcaption>When the evidence pushes back, revise the claim to account for all of it.</figcaption>
+</figure>
+
 ## Stems for introducing evidence
 
 How you lead into a quotation shows what you want it to do. Compare these stems.
@@ -150,6 +180,11 @@ How you lead into a quotation shows what you want it to do. Compare these stems.
 | Qualify | "Yet ..." or "Although ..." | Yet the "low voice" suggests that the cheer is partly private encouragement. |
 
 Choosing the stem is a small way of making sure that you know what each piece of evidence is doing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-8-selecting-relevant-sufficient-evidence-study-guide--07-stems-for-evidence.webp" width="900" height="546" alt="Four jobs, each with a stem and an example: illustrate with &quot;The narrator shows ... when ...&quot;, exemplify with &quot;One example is ...&quot;, amplify with &quot;This is intensified when ...&quot;, and qualify with &quot;Yet ...&quot; or &quot;Although ...&quot;." loading="lazy">
+  <figcaption>Choose a lead-in that matches the job the evidence is doing.</figcaption>
+</figure>
 
 ## Common misconceptions
 

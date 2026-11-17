@@ -61,6 +61,21 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Implication for eyewitness testimony:** because recall is reconstructive, a witness's account can be **altered by leading questions and by information encountered after the event**, without the witness being aware of any change. This is why police interviews should use **open, non-leading questions**, and why witnesses should be interviewed **separately and as promptly as possible** — before their memories can be influenced by each other or by media coverage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-cognition-and-behaviour--13-ox-multi-store.webp" width="900" height="740" alt="Three stores in a row. Sensory store: modality-specific encoding, very large capacity, under 2 seconds. Short-term store: mainly acoustic encoding, 5 to 9 items, 18 to 30 seconds. Long-term store: mainly semantic encoding, unlimited capacity, up to a lifetime. Attention moves information from sensory to short-term; rehearsal moves it to long-term. Long-term memory divides into episodic (personal events), semantic (facts) and procedural (skills)." loading="lazy">
+  <figcaption>Information flows from the sensory store to short-term (attention) and long-term (rehearsal) memory; long-term memory has three types.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-memory--04-working-memory-model.webp" width="900" height="639" alt="The central executive, modality-free with very limited capacity, sits above three components: the phonological loop (acoustic, about two seconds of speech), the episodic buffer (combines information, limited, links to long-term memory) and the visuo-spatial sketchpad (visual and spatial, a few objects or locations)." loading="lazy">
+  <figcaption>Four components, each with its own coding and its own limited capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-memory--06-war-of-the-ghosts.webp" width="900" height="962" alt="Three pages shrink as the story is reproduced again and again. Changes: the story became shorter, lost details that made no sense such as the supernatural elements, and changed to fit English culture, so canoes became boats. Schemas and effort after meaning explain the changes. Evaluation: clear qualitative examples, but the procedure was not standardised and the story was deliberately strange." loading="lazy">
+  <figcaption>Recall is a reconstruction: each version became shorter and more familiar.</figcaption>
+</figure>
+
 ## Perception
 
 **Sensation** is the raw sensory data; **perception** is the brain's interpretation of it.
@@ -76,6 +91,21 @@ Condensed for the final weeks. For the full explanation, use the
 - **Gibson** — direct, bottom-up. The sensory information is sufficient in itself. Explains accurate everyday perception; cannot explain illusions.
 - **Gregory** — constructivist, top-down. The brain infers from expectation and experience. Explains illusions; struggles to explain the speed and general accuracy of perception.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--02-depth-cues.webp" width="900" height="692" alt="Four monocular cues with small pictures: height in plane (a boat near the horizon looks further away), relative size (a smaller car seems further), occlusion (a person in front of a door hides part of it) and linear perspective (railway lines meeting in the distance). Two binocular cues: retinal disparity and convergence. A note explains size constancy." loading="lazy">
+  <figcaption>Four monocular and two binocular cues let a flat image show depth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--03-illusions-explanations.webp" width="900" height="802" alt="Six simplified illusions with their explanations: the Müller-Lyer and Ponzo illusions are misinterpreted depth cues; the Ames Room is size constancy misapplied; Rubin's vase and the Necker cube are ambiguity; the Kanizsa triangle is fiction, because the brain adds edges that are not drawn." loading="lazy">
+  <figcaption>Each illusion is explained by one of four terms: ambiguity, misinterpreted depth cues, fiction or size constancy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--05-gibson-vs-gregory.webp" width="900" height="743" alt="A comparison table. Gibson's bottom-up theory says input contains enough information, picked up directly, supported by motion parallax but weak on illusions. Gregory's top-down theory says input is incomplete and the brain infers from cues and past experience, supported by illusions and perceptual set but based on artificial images. A note suggests the theories can be combined." loading="lazy">
+  <figcaption>Gibson: bottom-up and direct. Gregory: top-down and inferred. Each fits different conditions.</figcaption>
+</figure>
+
 ## Biopsychology
 
 **Nervous system:** central (brain, spinal cord) and peripheral (somatic — voluntary; autonomic — involuntary control of internal organs).
@@ -89,6 +119,21 @@ Condensed for the final weeks. For the full explanation, use the
 **Scanning techniques:** CT (structure, X-ray), PET (metabolic activity via tracer), fMRI (blood-oxygen changes). **Tulving's 'gold' memory study:** PET scans showed episodic and semantic memory are processed in different brain regions.
 
 Neurological damage (stroke, injury) can affect motor abilities and behaviour depending on the area damaged.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--01-nervous-system-divisions.webp" width="900" height="711" alt="A tree diagram. The nervous system divides into the central nervous system (brain and spinal cord), which processes information and makes decisions, and the peripheral nervous system (all other nerves), which carries messages to and from the body. The peripheral system divides into the somatic system for voluntary movement and sensation and the autonomic system for involuntary functions such as heart rate, breathing and digestion." loading="lazy">
+  <figcaption>The CNS decides; the PNS carries messages. Somatic is voluntary, autonomic is involuntary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--05-synaptic-transmission.webp" width="900" height="866" alt="A sending neuron's axon terminal holds vesicles of neurotransmitter. Five steps: the impulse arrives, neurotransmitters are released into the gap, they bind to receptors on the next neuron, the effect is excitatory or inhibitory, and leftover neurotransmitter is taken back by reuptake or broken down. The next neuron fires only if excitation outweighs inhibition overall." loading="lazy">
+  <figcaption>Electrical along the neuron, chemical across the gap; reuptake by the sending neuron ends the signal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--07-localisation-of-function.webp" width="900" height="730" alt="A schematic side view of the brain showing the frontal, parietal, temporal and occipital lobes and the cerebellum. The motor area is at the back of the frontal lobe with Broca's area lower in the frontal lobe; the somatosensory area is at the front of the parietal lobe; the auditory area and Wernicke's area are in the temporal lobe; the visual area is in the occipital lobe." loading="lazy">
+  <figcaption>Specific areas carry out specific functions: Broca's is frontal, Wernicke's is temporal.</figcaption>
+</figure>
 
 ## Research methods
 
@@ -109,6 +154,16 @@ Neurological damage (stroke, injury) can affect motor abilities and behaviour de
 **Ethics** must follow BPS guidelines: informed consent, protection from harm, right to withdraw, confidentiality, debriefing. **Deception** is not an outright ban — it is justified where scientifically necessary, provided participants are debriefed and can withdraw their data; several landmark studies (e.g. Milgram, Asch) deceived participants and were still considered ethically defensible once debriefed. Deception is an issue to be **managed**, not banned.
 
 **Repeated measures designs** (the same participants complete every condition) risk **order effects** — practice may improve performance in whichever condition comes second, or fatigue and boredom may worsen it — and **demand characteristics**, since completing several conditions makes it easier for a participant to guess the aim and change their behaviour accordingly. Both are addressed by **counterbalancing**, where the order of conditions is varied systematically across participants (half do condition A first, half do condition B first), and by using different but equivalent materials in each condition so practice on the actual content cannot occur.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--03-types-of-experiment.webp" width="900" height="554" alt="Three cards: a laboratory experiment has a controlled setting with the IV manipulated; a field experiment has a natural setting with the IV still manipulated; a natural experiment has an IV that varies naturally. A bar runs from more control to more true to life, and each card has a matching weakness." loading="lazy">
+  <figcaption>Moving from laboratory to natural experiments trades control for realism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--04-experimental-designs.webp" width="900" height="694" alt="Three rows. Independent groups: different participants in conditions A and B, controlled by random allocation. Repeated measures: the same participants in both conditions, controlled by counterbalancing. Matched pairs: matched participants split one per condition, using pre-testing to match. Each row gives a strength or weakness." loading="lazy">
+  <figcaption>Different people, the same people, or matched pairs: each design has its own control.</figcaption>
+</figure>
 
 ## Exam traps
 

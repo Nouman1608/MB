@@ -63,6 +63,11 @@ than we use them.
 - **Fuelwood**: wood and charcoal burned for cooking and heating. It is
   renewable only if trees are replanted as fast as they are cut.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--07-en-stock-flow.webp" width="900" height="780" alt="Two tanks. The left tank has a falling liquid level and no inflow, labelled stock, used up: coal, oil, natural gas and uranium. The right tank is kept full by a pipe flowing in and another flowing out, labelled flow, replaced: wind, sunlight, moving water and the Earth’s heat. A warning box says nuclear power is low-carbon but uranium is a non-renewable stock." loading="lazy">
+  <figcaption>Non-renewable energy comes from a stock that is used up; renewable energy comes from a flow that is naturally replaced.</figcaption>
+</figure>
+
 ## How energy use varies with development
 
 | Development level | Typical energy pattern | Reasons |
@@ -77,6 +82,11 @@ need power. Second, the *mix* changes: as incomes rise, people move
 from fuelwood to electricity and gas, and richer countries can afford
 the high building costs of nuclear and renewable schemes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-energy--01-energy-and-development.webp" width="900" height="790" alt="Three columns. Low-income countries rely on fuelwood and charcoal, use little energy per person and many lack mains electricity, because wood is cheap and grids do not reach villages. Middle-income countries see fast-growing demand and heavy coal and oil use, driven by industry and cities. High-income countries use the most per person, with fossil fuels still important but a rising share of renewables and, in some, nuclear." loading="lazy">
+  <figcaption>Use per person rises with development, and the mix of sources shifts.</figcaption>
+</figure>
+
 ## Evaluating nuclear power
 
 | Benefits | Disadvantages |
@@ -90,6 +100,11 @@ France is a well-known example of a country that generates most of its
 electricity from nuclear power, which shows the scale it can reach in a
 wealthy country.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-energy--02-nuclear-power.webp" width="900" height="660" alt="Four steps: uranium atoms split giving heat, the heat boils water to steam, steam drives turbines and generators make electricity. Benefits: large steady output, very low carbon dioxide while operating, little fuel needed, less reliance on imported oil and gas. Disadvantages: very high building and decommissioning costs, long-lived radioactive waste, rare severe accidents such as Chernobyl and Fukushima, and the need for skill, regulation and public support." loading="lazy">
+  <figcaption>Nuclear is reliable and low-carbon; its costs are money, waste and risk.</figcaption>
+</figure>
+
 ## Evaluating renewable sources
 
 | Benefits | Disadvantages |
@@ -101,6 +116,11 @@ wealthy country.
 
 Evaluate by source, not "renewables" as one block: a solar panel on a
 village school and a large HEP dam have very different impacts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-energy--03-renewables-by-source.webp" width="900" height="650" alt="Three renewable schemes compared. A solar panel on a village school supplies remote areas cheaply but varies with weather and time of day. A wind farm does not run out and emits little greenhouse gas but varies, needs back-up and is large, noisy and visually intrusive. A large HEP dam does not run out and improves energy security but floods valleys, displaces people and traps sediment." loading="lazy">
+  <figcaption>A village solar panel and a giant dam are both “renewable” but have very different impacts.</figcaption>
+</figure>
 
 ## Case study: energy supply in Iceland
 
@@ -128,6 +148,11 @@ Iceland is unusual because its physical geography gives it plentiful
 geothermal and HEP resources. When you evaluate, say that the same mix
 could not be copied by a country without volcanic heat or large rivers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-energy--04-iceland-energy.webp" width="900" height="762" alt="A schematic west-to-east section of Iceland. In the west, hot rocks near the surface at the Mid-Atlantic Ridge feed boreholes at the Hellisheiði geothermal station, which pipes hot water to homes in Reykjavík. In the east, glaciers and steep valleys feed the Kárahnjúkar HEP dams, which power an aluminium smelter at Reyðarfjörður. Below: HEP gives the larger share, geothermal most of the rest; drawbacks include flooded wilderness and hydrogen sulphide; oil is still imported for transport and fishing." loading="lazy">
+  <figcaption>Iceland’s geology and climate give it almost all-renewable electricity; few countries can copy it.</figcaption>
+</figure>
+
 ## Worked example: an energy mix calculation
 
 **Illustrative data**: a fictional country, Taravia, produces 80 units
@@ -144,6 +169,11 @@ A question might then ask you to suggest why Taravia relies on coal
 (local coal reserves, cheap to build coal power stations, existing
 mines and jobs) and to evaluate a plan to replace coal with wind power
 (cleaner, but output varies and needs back-up such as gas or HEP).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-energy--05-energy-mix-calculation.webp" width="900" height="670" alt="A pie chart of a fictional country’s 80 units of electricity: coal 36, natural gas 20, HEP 12, nuclear 8, wind and solar 4. Beside it, three calculations: fossil fuels give (36 + 20) ÷ 80 × 100 = 70 per cent, renewables (12 + 4) ÷ 80 × 100 = 20 per cent, and the coal slice is 36 ÷ 80 × 360 = 162 degrees." loading="lazy">
+  <figcaption>Share = part ÷ total × 100; pie angle = part ÷ total × 360.</figcaption>
+</figure>
 
 ## Common mistakes
 

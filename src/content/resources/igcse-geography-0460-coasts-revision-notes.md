@@ -44,6 +44,11 @@ material away before the next swash can push it back.
 - **Swash** -- water rushing up the beach after a wave breaks.
 - **Backwash** -- water flowing back down the beach under gravity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-coasts--07-co-waves.webp" width="900" height="1090" alt="Two side views of waves reaching a beach. A constructive wave is low with a long wavelength and low frequency; its swash arrow up the beach is longer than its backwash arrow, so the beach builds up. A destructive wave is steeper with a short wavelength and high frequency; its backwash arrow is longer than its swash, so the beach is worn away." loading="lazy">
+  <figcaption>Constructive waves have a stronger swash and add material; destructive waves have a stronger backwash and remove it.</figcaption>
+</figure>
+
 ## Processes
 
 - **Erosion:** hydraulic action, abrasion (corrasion), attrition, solution (corrosion).
@@ -66,6 +71,11 @@ waves and gravity can remove it more easily.
 **Deposition** happens when waves lose energy: in sheltered bays, where the coast changes direction,
 or behind obstacles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-coasts--08-co-erosion-processes.webp" width="900" height="990" alt="Four small pictures. Hydraulic action: waves force trapped air into a crack in a cliff. Abrasion: pebbles carried by waves are thrown against the cliff. Attrition: pebbles collide with each other and become smaller and rounder. Solution: mildly acidic seawater dissolves soluble rock such as limestone or chalk." loading="lazy">
+  <figcaption>Hydraulic action, abrasion, attrition and solution are the four wave erosion processes.</figcaption>
+</figure>
+
 ## Erosional landforms
 
 - **Wave-cut platform:** waves undercut a cliff to form a notch; the cliff collapses and retreats,
@@ -85,6 +95,16 @@ Less resistant rock such as clay erodes quickly into bays; resistant rock such a
 granite is left jutting out as headlands. Once headlands stick out, waves bend (**refract**) around
 them, concentrating energy on the headlands and spreading it out in the bays, where beaches form.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-coasts--10-co-platform-bays.webp" width="900" height="1060" alt="Top: a side view of a cliff with a gently sloping wave-cut platform at its base, exposed at low tide, with a dashed outline showing the rock removed as the cliff retreats. Bottom: a plan view of a coast where hard rock strips stand out as headlands and soft rock strips are eroded back into bays." loading="lazy">
+  <figcaption>A wave-cut platform is left as a cliff retreats; harder rock stays as headlands while softer rock erodes into bays.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-coasts--09-co-cave-to-stump.webp" width="900" height="880" alt="Four pictures in order. 1: waves erode a line of weakness in a headland to make a cave. 2: continued erosion cuts through to leave an arch. 3: the arch roof collapses, leaving an isolated pillar of rock, a stack, separated from the cliff. 4: further erosion wears the stack down to a low stump." loading="lazy">
+  <figcaption>Cave, arch, stack, stump: the erosion sequence in the order to learn it.</figcaption>
+</figure>
+
 ## Depositional landforms
 
 - **Beach:** sand or shingle left where wave energy is too low to remove it.
@@ -99,6 +119,11 @@ direction and waves bending around the tip. The sheltered water behind it is cal
 **Dune formation:** at low tide, wind dries the sand and blows it inland. It is trapped by obstacles
 such as driftwood, building small embryo dunes. Plants with long roots such as marram grass bind the
 sand, so the dunes grow higher and more stable further from the sea.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-coasts--11-co-longshore-spit.webp" width="900" height="1040" alt="A plan view of a coast. Waves arrive at an angle, so swash carries sediment diagonally up the beach while backwash drains straight back down, giving a zig-zag path that moves sediment along the coast. Where the coastline changes direction the sediment carries on into open water and builds a narrow ridge, a spit, with a curved end and sheltered water behind it." loading="lazy">
+  <figcaption>Swash moves sediment up the beach at an angle, backwash returns it straight down, and the zig-zag carries it along the coast until it builds a spit where the coastline turns.</figcaption>
+</figure>
 
 ## Coral reefs and mangroves
 
@@ -120,6 +145,11 @@ a lagoon).
 overfishing; tourism and coral collecting. Mangroves are cleared for shrimp farms, tourism and
 building, which removes natural coastal protection.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-coasts--13-co-reef-mangrove-conditions.webp" width="900" height="1060" alt="Two pictures with their required conditions. A coral reef grows in warm, clear, shallow, nutrient-poor water where sunlight reaches the coral. A mangrove swamp needs warm temperatures and sheltered, low-energy conditions such as an estuary or lagoon, where fine sediment settles and salt-tolerant mangrove trees take root." loading="lazy">
+  <figcaption>Coral reefs need warm, clear, shallow, nutrient-poor water; mangrove swamps need warmth and sheltered, low-energy coasts.</figcaption>
+</figure>
+
 ## Hazards, opportunities, management
 
 - **Hazards:** coastal erosion and tropical storms.
@@ -137,6 +167,11 @@ farming and building, and oil and gas landing points.
 | **Beach nourishment** | Sand or shingle added to the beach | Looks natural, but must be repeated |
 | **Dune stabilisation** | Planting marram grass, fencing off paths | Cheap and natural, slow to work |
 | **Managed retreat** | Allow the sea to flood low-value land | Cheap and creates habitats, but people lose land and homes |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-coasts--12-co-hard-soft-management.webp" width="900" height="1120" alt="Top: a plan view of three groynes built out into the sea. Sediment drifting along the coast piles up beside each groyne, building a wider beach on the side the drift comes from. Middle: a side view of a sea wall resisting waves. Bottom: hard engineering such as sea walls and groynes contrasted with softer approaches that work with natural processes." loading="lazy">
+  <figcaption>Hard engineering resists the sea (groynes trap drifting sediment); softer approaches work with natural processes.</figcaption>
+</figure>
 
 ## Case study
 

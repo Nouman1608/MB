@@ -42,6 +42,11 @@ Condensed for the final weeks. For the full method and worked examples, use the
 Night-time* (adapted by Simon Stephens), *Kindertransport*, *Death and the King's Horseman*. Set texts
 change with the specification issue, so confirm yours.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-2--08-c2-paper-layout.webp" width="900" height="780" alt="A clock shows 1 hour 30 minutes for 60 marks. Two equal cards show Section A, Modern drama, 30 marks, assessed on AO1 and AO2, and Section B, Literary heritage, 30 marks, assessed on AO1, AO2 and AO4. Each section asks for one essay chosen from two." loading="lazy">
+  <figcaption>Two 30-mark essays: drama is marked on AO1 and AO2, the heritage text also on AO4.</figcaption>
+</figure>
+
 ## What the two objectives look like in a paragraph
 
 - **AO1 (15 marks):** a clear argument that answers the question from the first sentence, an informed
@@ -65,6 +70,11 @@ interpretation, but it earns no separate marks here.
 | *Kindertransport* (Diane Samuels) | Two acts. Faith finds the boxes of papers in the storage room; the child Eva and the adult Evelyn share the stage; Helga's return after the war; the Ratcatcher appears at moments of threat | Past and present overlapping; objects carrying memory; one actor doubling the Ratcatcher with the officials | Identity, memory, mothers and daughters, loss and survival |
 | *Death and the King's Horseman* (Wole Soyinka) | Elesin's joyful market scenes and his marriage on the day of his duty; Pilkings's intervention; Olunde's return from medical studies in England; the reversal between father and son; Iyaloja's judgement at the end | Song, drumming, dance and verse; contrasting settings of market and Residency; ritual language | Duty and honour, the world of the dead and the living, colonial power, failure of will |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-modern-drama--02-methods-in-set-plays.webp" width="900" height="840" alt="Five rows, one per modern drama set play, each with a small icon of its distinctive method: a lighting change in An Inspector Calls, Alfieri addressing the audience in A View from the Bridge, past and present sharing the stage in Kindertransport, narration and physical staging in The Curious Incident of the Dog in the Night-time, and music and drumming in Death and the King’s Horseman." loading="lazy">
+  <figcaption>Each set play has dramatic methods that only work on stage.</figcaption>
+</figure>
+
 ## Planning in five minutes
 
 1. Underline the focus of the question (a character, a relationship, a theme, or how tension is
@@ -74,6 +84,11 @@ interpretation, but it earns no separate marks here.
    climax, the ending.
 4. Beside each, note one dramatic method and its effect on the audience.
 5. Only then open the prescribed edition to find two or three short quotations or stage directions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-modern-drama--03-inspector-plan.webp" width="900" height="799" alt="An overview states that the Inspector’s power comes from moral authority and control of the drama. Four planned paragraphs follow the play from his entrance, through his control of structure and his direct language, to his exit and the final telephone call, each tagged with the dramatic method it analyses." loading="lazy">
+  <figcaption>Plan from entrance to exit, and tag each paragraph with a method.</figcaption>
+</figure>
 
 ## Dramatic methods checklist
 
@@ -89,6 +104,16 @@ interpretation, but it earns no separate marks here.
 | Character as device | A figure who tests others or voices the playwright's ideas |
 
 **Always add the audience:** "On stage, this would..." or "An audience would feel...".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-modern-drama--01-play-as-a-play.webp" width="900" height="716" alt="Eight dramatic methods surround the audience at the centre: stage directions, entrances and exits, dramatic irony, narrators and framing, structure, dialogue, staging and setting, and characters as devices. Below, treating the play like a novel is contrasted with writing about what an audience sees on stage." loading="lazy">
+  <figcaption>AO2 rewards the playwright’s tools beyond words, each linked to the audience.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-modern-drama--05-tension-view-from-the-bridge.webp" width="900" height="611" alt="Three methods at the end of Act One of A View from the Bridge feed one effect: Marco silently lifting the chair, the shift in power between Eddie and Marco, and Alfieri’s framing that has already told the audience the story will end badly. Together they make the audience watch with dread. Below: claim, method, effect on the audience." loading="lazy">
+  <figcaption>Staging, a power shift and the narrator’s framing combine to create dread.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -126,6 +151,11 @@ The paragraph contains no history lesson: it earns its marks from argument and m
 - Plan your moments first, then look up short quotations to support them.
 - Quote a few words, not whole speeches.
 - Cap the time you spend searching.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-modern-drama--06-open-book-technique.webp" width="900" height="605" alt="A banner gives about 45 minutes per essay including planning. Four tiles: know where scenes and stage directions are, quote a few words rather than copying, plan three or four moments before opening the text, and limit each look-up to a quick check. The exam copy must be completely unmarked." loading="lazy">
+  <figcaption>The open book saves memorising, but only if you can find things fast.</figcaption>
+</figure>
 
 ## Traps
 

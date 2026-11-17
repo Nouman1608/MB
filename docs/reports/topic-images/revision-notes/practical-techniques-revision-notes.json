@@ -1,0 +1,10 @@
+{ "page": "practical-techniques-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--01-apparatus.webp", "after": "## Apparatus (12.1)"},
+ {"src": "https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--02-titration.webp", "after": "## Acid–base titration (12.2)"},
+ {"src": "https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp", "after": "## Paper chromatography (12.3)"},
+ {"src": "https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--04-reading-chromatogram.webp", "after": "## Paper chromatography (12.3)"},
+ {"src": "https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--05-rf-value.webp", "after": "### Colourless substances and Rf *(0620 Extended, 5070 required)*"},
+ {"src": "https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--06-filter-crystallise.webp", "after": "## Separation and purification (12.4)"},
+ {"src": "https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--07-distillation.webp", "after": "## Separation and purification (12.4)"},
+ {"src": "https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--08-purity-melting-boiling.webp", "after": "## Separation and purification (12.4)"}
+] }

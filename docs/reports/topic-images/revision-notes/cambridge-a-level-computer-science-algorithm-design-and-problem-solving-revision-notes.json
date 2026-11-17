@@ -1,0 +1,29 @@
+{
+ "page": "cambridge-a-level-computer-science-algorithm-design-and-problem-solving-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--15-abstraction-model.webp",
+   "after": "## Why use abstraction?"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--16-decomposition-modules.webp",
+   "after": "## Why use decomposition?"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--18-three-constructs.webp",
+   "after": "## The three basic constructs"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--17-flowchart-temperature.webp",
+   "after": "## Worked example: structured English to pseudocode"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--19-stepwise-refinement.webp",
+   "after": "## Worked example: stepwise refinement"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--21-free-delivery-logic.webp",
+   "after": "## Logic statements"
+  }
+ ]
+}

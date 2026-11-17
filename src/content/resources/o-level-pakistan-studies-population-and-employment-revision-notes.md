@@ -72,6 +72,16 @@ education. Full explanations are in the
 | Emigrant workers | more than 800,000 registered | 2023 |
 | Lowest density | Balochistan, about 43 per km² | 2023 census |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-population-and-employment--01-census-growth.webp" width="900" height="636" alt="A bar chart on a true time scale shows census populations of about 34 million in 1951, 84 million in 1981, 132 million in 1998, 208 million in 2017 and 241.5 million in 2023, with growth of about 2.55% a year between 2017 and 2023." loading="lazy">
+  <figcaption>Pakistan’s population has grown about sevenfold since 1951.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-population-and-employment--07-workforce.webp" width="900" height="694" alt="A full-width bar splits employment in 2020–21 into agriculture 37.4%, industry 25.4% and services 37.2%, with agriculture falling slowly and services growing fastest. Below, unemployment and underemployment are defined with their rural and urban causes, leading to lower GNP and GDP." loading="lazy">
+  <figcaption>Farming and services each employ over a third of workers; idle labour holds GDP down.</figcaption>
+</figure>
+
 ## Reading a pyramid: four-step method
 
 1. **Base:** wide means high birth rate; narrowing means births are falling.
@@ -81,6 +91,11 @@ education. Full explanations are in the
 
 Then link each feature to an effect: wide base → schools and child health; youth bulge → jobs;
 widening top → pensions and care.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-population-and-employment--03-population-pyramid.webp" width="900" height="710" alt="A schematic pyramid with a broad base (a third or more under 15), a slightly narrower bottom bar as birth rates begin to fall, a bulge in the 15–29 groups and a narrow top with few over 65. Boxes below list effects now and projected effects, including the demographic dividend." loading="lazy">
+  <figcaption>A broad base and a youth bulge: a dividend if jobs are created, a problem if not.</figcaption>
+</figure>
 
 ## Reading a birth- and death-rate graph (worked example)
 
@@ -92,6 +107,11 @@ widening top → pensions and care.
 > 1,000 at the start and 27 − 7 = 20 per 1,000 at the end, so growth stayed high for decades.
 > **Reason:** medical advances cut deaths quickly, while social attitudes to family size change
 > slowly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-population-and-employment--02-natural-increase.webp" width="900" height="644" alt="A schematic graph from independence to today. The death rate falls steeply while the birth rate falls much more slowly, so the shaded gap between them, natural increase, stays wide." loading="lazy">
+  <figcaption>Deaths fell fast and births fell slowly, so natural increase stayed high.</figcaption>
+</figure>
 
 ## Migration grid
 
@@ -106,6 +126,11 @@ widening top → pensions and care.
 sanitation, regularising katchi abadis, standpipes and clean water. **Adverse outcomes:** upgrading
 can pull in more migrants; some schemes leave overcrowded, poor housing far from jobs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-population-and-employment--05-push-pull-migration.webp" width="900" height="710" alt="Push factors in the countryside (landlessness, low wages, floods and drought, few services) and pull factors in the city (jobs, education, health care) drive migrants to Karachi and Lahore, while remittances flow back. Boxes show the effects on each side and the measures used, with their limits." loading="lazy">
+  <figcaption>People are pushed from the countryside and pulled to the city; money flows back.</figcaption>
+</figure>
+
 ## Density: between and within
 
 - **Between:** Punjab most populous and dense; Balochistan largest by area and least dense;
@@ -114,6 +139,11 @@ can pull in more migrants; some schemes leave overcrowded, poor housing far from
   sparse in Cholistan, Thal, Thar, Kirthar, Chitral, and Gilgit-Baltistan's high ground.
 - **Factors:** physical (relief, water, soil, climate); economic (jobs, irrigation, ports);
   social (services, kinship); political (capital city, investment, security).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-population-and-employment--06-density-by-province.webp" width="900" height="670" alt="Horizontal bars of approximate 2023 density: Islamabad Capital Territory about 2,600 people per km², Punjab 620, Khyber Pakhtunkhwa 400, Sindh 395 and Balochistan 43, with populations of 2.4, 127.7, 40.9, 55.7 and 14.9 million." loading="lazy">
+  <figcaption>Density ranges from about 43 people per km² in Balochistan to 2,600 in Islamabad.</figcaption>
+</figure>
 
 ## Exam traps
 

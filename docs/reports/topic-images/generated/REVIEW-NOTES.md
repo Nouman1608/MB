@@ -1,0 +1,59 @@
+# Topic figures: review notes
+
+All 330 pages in [`topic-images-needed.csv`](../topic-images-needed.csv) (284 topic lessons + 46 AP study guides) now have figures: 2,114 new figures plus 63 reused existing ones. Every figure was rendered and checked by eye; every "place after" heading matches a heading in its lesson.
+
+## Before upload
+
+- **Reused figures** point at images already on img.marlbridge.com, except 3 in `igcse-sociology-research-methods-identity-and-inequality`, which reuse the new O Level figures in `o-level-sociology-research-methods-identity-and-inequality`. Upload those O Level images first.
+- **AP pages** (`ap-…` folders) normally carry inline `<svg>` figures, not img.marlbridge.com images. Each folder's `svg/` has the source if you prefer inline SVG there.
+- **Urdu figures** (`*urdu*` folders): reviewed by a teacher (owner's confirmation, 17 Nov 2026).
+- Figures that show a shape, not data (graphs, pyramids, bar heights) are labelled "illustrative", "schematic" or "shape only" on the figure. Maps are schematics marked "not to scale".
+
+## Lesson-text points: resolved (17 Nov 2026, D-487)
+
+Fixed in the lessons (and, where shown, in a redrawn figure with a new file name): AQA GCSE sampling methods (figure 03), Bourdieu's label (figure 05), Willis as Marxist, the Arafat wording, the sources-of-authority checklist, the 4ET1 word budget (figure 06), O Level/IGCSE Paper 2 advice, IGCSE family structures, "Medina" to "Madinah" (caliphs figures 02 and 03) and the MYP Design holdall idea (figure 05).
+
+Checked and correct as written: 9699 Paper 2 weighting, the OxfordAQA 9292 section titles, the GP 9239 links, the two MYP Design stool datasets (separate fictional examples), the Makkan surah descriptions, Beck's dates and the time-sensitive facts.
+
+Teacher review: the owner confirmed on 17 Nov 2026 that a teacher has reviewed these notes, including the MYP Language Acquisition eAssessment marks and the Urdu figure sets. No open items remain from this list.
+
+## Points for a teacher: the 352 D-490 lessons (17 Nov 2026, D-494)
+
+2,252 new figures plus 157 reused across 352 lessons in 25 courses. Every figure was rendered and checked by eye, and every "place after" heading matches its lesson. The figures follow their lessons as written; these points are about the lesson text and are open for a teacher to decide:
+
+- Psychology: Chapman and DeLapp described differently in `a-level-psychology-clinical-psychology` (phlebotomy at a blood bank; own blood pressure; follow-ups at 4, 10 and 12 months) and `cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders` (watching blood donation; follow-ups up to 12 months). One may need correcting.
+- Psychology 9990 mood disorders: the antidepressant synapse figure shows MAO generically in the synaptic gap; MAO acts mainly inside the presynaptic neuron. A teacher may prefer that shown.
+- AQA Law 7162: Murphy v Brentwood DC is dated 1990 in one lesson and 1991 in the economic-loss lesson; R v Shivpuri 1987 in the preliminary-offence lesson and 1986 in the precedent lesson. Both are decision-year vs report-year differences ([1991] 1 AC 398; [1987] AC 1); pick one convention across the course.
+- Commerce: the O Level 7100 retailing lesson groups vending machines as small-scale and online retailers as large-scale, while the IGCSE 0715 lesson says both can be either. Worth aligning.
+- OxfordAQA 9685 social psychology: quotes Asch's baseline (about 37%) and the three-confederate figure (about 32%) without saying the baseline used a larger group (six to eight confederates), so the two numbers can look contradictory. A short clause would help.
+- AQA GCSE 8192 primary and secondary sources: cites Young and Willmott's survey as earlier evidence on fathers' childcare, a slightly loose use of that study. AQA GCSE 8192 educational achievement names Gewirtz's "semi-skilled choosers" without describing them.
+- Edexcel 4PH1 radioactivity: the lesson's two half-life readings (900 to 450 Bq over 0 to 3.2 h; 600 to 300 Bq over 1.9 to 5.1 h) are labelled illustrative and are only approximately consistent with one exponential (600 Bq is reached at about 1.87 h). The figure plots a true 3.2 h curve.
+- Cambridge IGCSE Env Management 0680 climate change (4.2.4): the lesson says greenhouse gases "absorb solar radiation"; strictly they absorb and re-emit long-wave radiation from the Earth (the lesson's own fuller explanation says this). Fracking: the lesson names no control for heavy water use; figure 04 says "no control listed".
+- AQA GCSE WH 8145 health: the Broad Street map's death positions are invented and labelled "illustrative". The OxfordAQA 9245 printing (cost per copy) and 9635 resource-peak curves are labelled "Illustrative shape only" because the lessons give no numbers.
+- RESOLVED (D-492): tropical cyclones. The 0680 syllabus (6.2.1) says at least 27 °C and 60 m; the natural-hazards study guide now gives the syllabus values and notes that many textbooks quote about 26.5 °C. The new 0680 figure uses 27 °C. The older natural-hazards figure image still says 26.5 °C (its alt text explains); replacing it needs a new file name.
+- FIXED: Edexcel 4PH1 electromagnetic induction Example 2 said "The same transformer" supplies 12 V, but Example 1's transformer outputs 11.5 V. Changed to "A transformer" (figure unchanged; numbers 12 V x 2.0 A = 24 W, Ip = 0.10 A still hold).
+
+## Points for a teacher: revision notes and IB overviews (17 Nov 2026, D-495)
+
+Revision notes now carry copies of their study guide's figures. Where a lesson figure and the revision notes disagree, the figure was left off the notes; the lesson (or the notes) may need aligning. Points:
+
+- ICT file management (chunk 4): the lesson figure `--16-file-formats` marks only .csv, .txt, .rtf and .pdf as generic; the revision notes' syllabus list also counts .css, .htm, .jpg and .png as generic. Not placed on the notes; check the lesson figure/text against the syllabus.
+- Urdu Exercise 3 note-making: lesson figure `--06-worked-example` gives one note under headings (b) and (c); the notes' worked example asks for two. Urdu Exercise 2: figure shows seven steps, notes say "six steps". Not placed; lesson and notes could be aligned.
+- FIXED: Cambridge 9618 software-development study guide figure `--04-sd-test-data` labels accepted limits 13/19 "boundary" and 12/20 "abnormal"; 9618 terms are extreme = 13/19, boundary = 12/13 and 19/20 pairs. Notes are right; lesson figure likely wrong.
+- Commerce 0715 global supply chain: lesson figure `--04-risk-assessment` has 3 steps; notes teach 4 (identify, judge, rank, plan). Env 0680 managing biodiversity: figure groups 10 strategies into 5 groups vs the notes' "three groups" hook whose table has four rows.
+- OxfordAQA IGCSE CS computer networks: study-guide figure `--20-net-layers` names the IP layer "internet"; the notes use the specification's "Network" layer. Hijrah/Madni period: lesson figure shows six terms of the Charter of Madinah, the notes list seven. OxfordAQA English Language NEA: lesson figures say the student chooses the focus and a commentary is needed "if required"; the notes say the centre sets the task and the commentary is required. Not placed; lessons and notes should be aligned.
+- Cambridge world history US civil war: lesson figure says about 4 million enslaved (all slave states, 1860 census); notes say about 3.5 million of 9 million (the 11 Confederate states). Both defensible; say which scope.
+- Commerce commercial operations: lesson figure puts the delivery note before the invoice; the notes give invoice then delivery note. Align.
+- US containment / Korea: lesson figure dates the UN crossing of the 38th parallel to October 1950 (correct: 1 Oct 1950 for ROK, 7-9 Oct for UN forces); the notes put it in the September 1950 row with Inchon. Notes need the date fixed.
+- Edexcel 4ET1 Assignment B: the lesson figure (fixed in D-487) budgets 100+3x200+100 words; the revision notes' 800-word plan uses 70-word introduction and conclusion. Both add up; align if wanted.
+- Edexcel A Level Urdu 9UR0: no Theme 4 study guide exists, so creation-of-pakistan-1947 and feudal-system revision notes got only 1 figure each.
+- IB overviews: the DP Psychology syllabus guide describes the legacy course, last examined November 2026, so it will soon be out of date. Language A: Literature shows 9/13 works (guide) and notes the IB webpage's 7/10. Global Politics gives only Paper 3's 30% HL weighting, so the figure shows only that. The reused MYP Language Acquisition phases figure calls reporting levels "a comparable external result", wording the overview page does not use.
+- AQA A Level CS computer organisation: lesson figures `--09-cpu-buses`, `--10-fetch-cycle` say MDR; AQA's term (used in the notes) is MBR. Cambridge 9093 Paper 3: lesson figure gives pre-verbal as 0-4 months, notes say 0-6 months. OxfordAQA English Language Unit 4: lesson figure gives the report five sections, the notes six. OxfordAQA crime and mystery: lesson figure "seven elements" vs the specification's 14 in the notes. Not placed; align.
+- Cambridge 9696 diurnal energy budgets revision notes: no suitable figure exists (drawn new in this batch).
+- AQA A Level Law 7162 lay people: the lesson figure `--08-jury-evaluation` lists Ponting as a perverse verdict (against juries); the notes use Ponting as jury equity (for juries). Both readings exist; make the lesson and notes agree. AQA Law nature: lesson's magistrates figure says benches of "two or three", the notes "in threes". AQA GCSE English Literature skills: lesson figure `--07-time-budget` uses 30 of 80 marks / 120 minutes, the notes give Paper 1 as 64 marks / 1 h 45 min. AQA 8192 data on crime: five-step vs four-step routine. AQA 8700 comparing texts: four vs six aspects.
+- IB DP History assessment revision notes describe the old course (six key concepts, 25-mark IA in 3 sections with Reflection, 12 world history topics); the history lessons' figures describe the new course. The notes may be out of date.
+- IB DP Language B: the assessment revision notes give exact SL/HL durations and preparation times; the Paper 2 and oral notes say timings are not in the brief. The pages contradict each other.
+- AQA GCSE psychology cognition: lesson figure says the sensory register lasts "under 2 seconds", the notes "<0.5 s". AQA 8192 crime: lesson figure 01 draws crime and deviance as overlapping circles, other pages nest crime inside deviance.
+- IB World History topic 11: the lesson and its figure say three empires broke up (Austro-Hungarian, Ottoman, Russian); the notes add Germany. Both readings hold (Germany became a republic but was not broken up); the figure was left off the notes. IB History HL options: time-allocation figure 30 + 5 min vs notes 35 + ~5 min. IB Psychology: bystander figure 3 steps vs Latane and Darley's 5 in the notes; health determinants labelled biological/cognitive/sociocultural vs biopsychosocial in the notes. IGCSE Commerce 0715: wholesaling figure nine functions vs the notes' six.
+- IB DP ESS assessment revision notes say ESS includes the collaborative sciences project (10 of its 50 experimental-programme hours); check this against the current ESS subject guide. The new figures leave it out.
+- O Level Commerce: globalisation figure "four benefits / eleven challenges" vs the notes' five and ten; outsourcing figure five risks vs the notes' four; aids-to-trade figure says "net profit", the notes "profit for the year". O Level Environmental Management: cyclone figure "about 26 to 27 °C" vs 27 °C in the notes and syllabus; energy figure groups nuclear with solar and wind as "without combustion" (true, but nuclear still raises steam). OxfordAQA Islamiyat sources of authority: figure says "not a required ranking", the notes call it a fixed hierarchy.

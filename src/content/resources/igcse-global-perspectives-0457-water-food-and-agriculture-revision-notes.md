@@ -63,6 +63,11 @@ Component 1 is 100% AO1. Component 2 is 67% AO1, 8% AO2 and 25% AO3. Component 3
 | Virtual water | Water used to produce a good (idea developed by Tony Allan) | Importing wheat "imports" the water used to grow it |
 | Food sovereignty | Communities deciding how their own food is produced (promoted by La Via Campesina) | A perspective that challenges free trade in food |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-water-food-and-agriculture--01-food-water-terms.webp" width="900" height="656" alt="The 1996 World Food Summit definition of food security, followed by two tanks: physical scarcity, where the water is not there, and economic scarcity, where it exists but people cannot afford or reach it. Below, subsistence and commercial farming, and virtual water, the water used to produce a product, an idea developed by Tony Allan." loading="lazy">
+  <figcaption>Water can be scarce because it is missing or because people cannot reach it.</figcaption>
+</figure>
+
 ## Real examples at a glance
 
 You will not be marked for knowing these. Use them as context for research and to test your reasoning.
@@ -78,6 +83,21 @@ You will not be marked for knowing these. Use them as context for research and t
 | India's rice export ban (July 2023) | Ban on exports of non-basmati white rice | National vs global perspectives on food prices | Protected domestic buyers; raised costs for importers |
 | Cape Town "Day Zero" (2018) | 50 litres per person per day limit from February 2018; Day Zero avoided | Household and city responses to drought | Shows demand cuts work, but rain also returned, so not all the credit goes to the limits |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-water-food-and-agriculture--04-grain-chain.webp" width="900" height="698" alt="A timeline: Russia’s full-scale invasion in February 2022 blocked Ukraine’s Black Sea grain ports; the UN and Turkey brokered the Black Sea Grain Initiative in July 2022; Russia withdrew in July 2023. The general chain: war or drought cuts a harvest, exports fall, world prices rise, and poorer families in importing countries eat less." loading="lazy">
+  <figcaption>A conflict in one region reaches prices in distant local markets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-water-food-and-agriculture--02-rice-export-ban.webp" width="900" height="707" alt="India’s July 2023 ban on non-basmati white rice exports kept rice affordable at home but raised prices for families in rice-importing countries. Both want stable prices; the difference is who carries the cost. Other perspectives: smallholders, large farms and food firms, environmental groups and La Via Campesina’s food sovereignty." loading="lazy">
+  <figcaption>A national action that protects one group can shift hardship to another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-water-food-and-agriculture--05-cape-town-day-zero.webp" width="900" height="571" alt="Rings show one cause reaching three levels in Cape Town, South Africa: a multi-year drought with rising demand nationally, a city warning of Day Zero when taps could be turned off, and households asked from February 2018 to use no more than 50 litres per person per day. Water use fell, rain returned and Day Zero was avoided." loading="lazy">
+  <figcaption>One cause, low rainfall plus rising demand, reached households, a city and a nation.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Fact vs claim.** "The well is 30 metres deep" can be checked. "Wells are drying because of export farms" is a claim about a cause and needs evidence.
@@ -88,6 +108,11 @@ You will not be marked for knowing these. Use them as context for research and t
 - **Physical vs economic scarcity.** The best action differs: a new pipe solves one; it cannot solve the other.
 - **Global, national, local.** Component 2 needs local and/or national and global perspectives. Component 3 starts from a local issue.
 - **Several courses of action vs one.** In Component 2, consider several, then propose a single course of action and explain how it could be implemented and its impact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-water-food-and-agriculture--03-groundwater-chain.webp" width="900" height="702" alt="A cross-section shows a falling water table: a poorer farmer’s shallow well dries first while a richer farmer drills a deeper well. Agriculture uses about 70% of fresh water withdrawn worldwide (FAO). A chain: cheap pumping lets thirsty crops spread, groundwater falls faster than rain refills it, and a supply problem becomes one of inequality." loading="lazy">
+  <figcaption>When the water table falls, those with the shallowest wells lose first.</figcaption>
+</figure>
 
 ## Mini essay plan
 
@@ -101,6 +126,16 @@ You will not be marked for knowing these. Use them as context for research and t
 6. **Judgement.** Choose one, or a justified combination. Say why it beats the others and what must be true for it to work.
 
 Each paragraph: point from the source → apply it → analyse the effect → evaluate with a limitation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-water-food-and-agriculture--06-food-waste-evidence.webp" width="900" height="760" alt="Five tiles with one shaded show the UNEP Food Waste Index Report 2024 estimate that about a fifth of food available to consumers was wasted in 2022, mostly by households. It is strong but an estimate. A fictional fertiliser leaflet claiming farmers always get bumper harvests has a vested interest, a generalisation and no figures; an independent multi-season comparison would be better." loading="lazy">
+  <figcaption>Even a strong source gives an estimate; a weak one gives no evidence at all.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-water-food-and-agriculture--07-food-donation-rule.webp" width="900" height="585" alt="Food waste actions at three levels: SDG target 12.3 to halve waste per person by 2030; France’s 2016 law requiring large supermarkets to offer edible unsold food to charities; and local canteen schemes and school gardens. For the fictional city of Ostley, a donation rule fails because food is ready late and the food bank opens three days a week; adding refrigerated storage removes the barrier." loading="lazy">
+  <figcaption>An action works only if it removes the main practical barrier.</figcaption>
+</figure>
 
 ## Coursework ideas at a glance
 

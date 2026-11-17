@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-igcse-physics-0625-thermal-properties-and-temperature-cambridge-igcse-physics--01-expansion-order.webp",
+  "width": 900,
+  "height": 600,
+  "after": "## Thermal expansion (2.2.1)",
+  "alt": "Bars show that for the same temperature rise at constant pressure a solid expands least, a liquid more and a gas most. For Extended: strong forces hold solid particles in place; liquid particles are close but less strongly held; gas particles are far apart with very weak forces.",
+  "caption": "Weaker forces between particles mean more expansion.",
+  "bytes": 75786
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-thermal-properties-and-temperature-cambridge-igcse-physics--02-expansion-applications.webp",
+  "width": 900,
+  "height": 610,
+  "after": "## Thermal expansion (2.2.1)",
+  "alt": "Four applications: gaps between rails allow them to lengthen on hot days without buckling; a bimetallic strip bends when heated because one metal expands more, operating a switch; the liquid in a thermometer expands more than the glass and rises up the tube; overhead cables are hung slack so they can contract in cold weather without snapping.",
+  "caption": "Engineers leave room for expansion, or use it.",
+  "bytes": 80538
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-thermal-properties-and-temperature-cambridge-igcse-physics--03-specific-heat-capacity.webp",
+  "width": 900,
+  "height": 508,
+  "after": "## Specific heat capacity (2.2.2)",
+  "alt": "Heating 0.50 kg of water from 20 °C to 80 °C needs 0.50 × 4200 × 60 = 126 000 J. A 2.0 kg metal block with c = 450 J/(kg °C) given 18 000 J warms by 18 000 / (2.0 × 450) = 20 °C.",
+  "caption": "Energy = mass × specific heat capacity × temperature change.",
+  "bytes": 85744
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-thermal-properties-and-temperature-cambridge-igcse-physics--04-liquid-shc-experiment.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## Specific heat capacity (2.2.2)",
+  "alt": "An insulated beaker of 0.40 kg of water with an immersion heater connected to a joulemeter, a thermometer and a lid. 12 600 J raises the temperature by 7.2 °C, giving c = 12 600 / (0.40 × 7.2) = 4375 J/(kg °C), about 4400, higher than 4200 because some energy heats the beaker and surroundings.",
+  "caption": "Measure mass, energy and temperature rise; energy losses make c come out too high.",
+  "bytes": 89450
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-thermal-properties-and-temperature-cambridge-igcse-physics--05-evaporation.webp",
+  "width": 900,
+  "height": 540,
+  "after": "## Melting, boiling and evaporation (2.2.3)",
+  "alt": "Particles in a liquid move at a range of speeds; the most energetic ones near the surface escape, so the average kinetic energy of those left falls and the liquid cools. For Extended, evaporation is faster at higher temperature, with a larger surface area and with air moving over the surface, and an object in contact with an evaporating liquid cools too.",
+  "caption": "The fastest particles leave, so the liquid left behind is cooler.",
+  "bytes": 75972
+ }
+]

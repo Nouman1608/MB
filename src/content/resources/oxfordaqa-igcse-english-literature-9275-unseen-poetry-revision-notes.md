@@ -44,6 +44,11 @@ These notes serve **Route A (3.2.2)** and **Route B (3.3.2)**.
 
 No prior knowledge of the poem or poet is expected. Everything comes from the page.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry--01-unseen-poetry-on-each-route.webp" width="900" height="520" alt="On Route A, unseen poetry is Section B of Paper 2a, between the anthology and unseen prose, so the poem must be finished on time. On Route B it is Section B of Paper 2b, after the anthology. On both it is 30 marks and about 45 minutes." loading="lazy">
+  <figcaption>The unseen poem question is the same on both routes; Route A has unseen prose to follow.</figcaption>
+</figure>
+
 ## What the marks reward
 
 | AO | What it means for one unseen poem | How to show it |
@@ -71,6 +76,11 @@ comment that does.
 
 A workable split of the 45 minutes: about 3 minutes for sense, 3 for shape, 4 for detail, 3 to 5
 to plan and about 30 to write.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry--02-five-step-method.webp" width="900" height="826" alt="A 45-minute bar: 3 minutes reading for sense, 3 for shape, 4 for detail, 3 to 5 planning and about 30 writing. Five numbered steps explain each, with reading for shape and marking the turn highlighted." loading="lazy">
+  <figcaption>Grasp the surface meaning first, then the shape, then the details.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -147,6 +157,11 @@ reward.
 - The **turn**: what changes, and why there.
 - The **ending**: how it resolves, or refuses to resolve, the poem.
 - At least one **structural** point, not only language.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry--04-lighthouse-poem-movement.webp" width="900" height="494" alt="Three stanzas of The Lighthouse Keeper’s Daughter shown as a sequence: a heroic first stanza, a domestic and tender second stanza, and a final stanza of loss. A dashed arrow links the father’s counting at the end back to the child counting his steps at the start." loading="lazy">
+  <figcaption>Follow the poem’s shift from heroic to tender to loss, and comment on the ending.</figcaption>
+</figure>
 
 ## Exam traps
 

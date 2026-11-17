@@ -95,6 +95,16 @@ Use these notes with the [Tort study guide](/resources/aqa-a-level-law-tort/) an
 - Legal causation/remoteness: foreseeable type of harm (The Wagon Mound (No 1), 1961); manner need not be
   foreseen (Hughes v Lord Advocate, 1963); take your victim as you find them (Smith v Leech Brain, 1962).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--01-negligence-stages.webp" width="900" height="1120" alt="A flow of three stages: duty of care, breach, and damage, with damage split into factual cause and legal cause. A claim fails if any one stage is not met. If all three are made out the claim is established." loading="lazy">
+  <figcaption>Negligence runs duty, breach, damage in a fixed order, and failing any one stage defeats the claim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--02-duty-route.webp" width="900" height="980" alt="A decision picture: if the duty situation is already established by precedent, the duty exists and Caparo need not be applied. If the situation is novel, the Caparo three-part test is applied. Either way the next question is breach." loading="lazy">
+  <figcaption>Check precedent first; use the Caparo test only for a novel duty situation.</figcaption>
+</figure>
+
 ## When is there liability for economic loss and psychiatric injury?
 
 **Pure economic loss**
@@ -117,6 +127,16 @@ Use these notes with the [Tort study guide](/resources/aqa-a-level-law-tort/) an
 - Medical negligence cases: relatives who later witness a death from an earlier undiagnosed condition
   cannot recover (Paul v Royal Wolverhampton NHS Trust, Supreme Court, 2024).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--03-restricted-harm.webp" width="900" height="1010" alt="Three rows with a claim arrow meeting a gate. Physical injury and property damage meet a wide gate. Pure economic loss and psychiatric injury meet narrow gates because courts are wary of unlimited liability. Gate widths are illustrative." loading="lazy">
+  <figcaption>Pure economic loss and psychiatric injury are treated more restrictively than physical injury or property damage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--04-psychiatric-victims.webp" width="900" height="970" alt="A schematic, not to scale. An incident sits at the centre of a danger zone. A primary victim is inside the actual danger zone. A secondary victim is a witness outside it and faces extra control mechanisms before a claim succeeds." loading="lazy">
+  <figcaption>Primary victims are in the danger zone; secondary victims witness events and face additional control mechanisms.</figcaption>
+</figure>
+
 ## What do the Occupiers' Liability Acts require?
 
 | | OLA 1957 (visitors) | OLA 1984 (trespassers) |
@@ -131,6 +151,11 @@ Use these notes with the [Tort study guide](/resources/aqa-a-level-law-tort/) an
 
 Occupier = person with sufficient control (Wheat v E Lacon, 1966).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--05-occupiers-acts.webp" width="900" height="1020" alt="A fenced plot of land with a house. A lawful visitor enters through the gate and the Occupiers' Liability Act 1957 applies. A trespasser crosses the fence and the Occupiers' Liability Act 1984 applies, with more limited liability. The standard of care and scope of duty differ." loading="lazy">
+  <figcaption>The 1957 Act governs lawful visitors and the 1984 Act governs trespassers.</figcaption>
+</figure>
+
 ## Private nuisance and Rylands v Fletcher
 
 **Private nuisance:** unlawful, indirect interference with the use or enjoyment of land.
@@ -144,6 +169,16 @@ Occupier = person with sufficient control (Wheat v E Lacon, 1966).
 **Rylands v Fletcher (1868):** defendant brings on to land something likely to do mischief if it
 escapes; non-natural use (Rickards v Lothian, 1913; Transco v Stockport MBC, 2003, "extraordinary and
 unusual"); escape (Read v J Lyons, 1947); foreseeable type of damage (Cambridge Water, 1994).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things--03-unreasonableness-factors.webp" width="900" height="491" alt="Factors deciding unreasonableness: locality (Sturges v Bridgman), duration and timing (Halsey v Esso), sensitivity (Robinson v Kilvert, now foreseeability in Network Rail v Morris), malice (Christie v Davey; Hollywood Silver Fox Farm) and new forms (Fearn v Tate Gallery). Taking care is not an answer: the result for the neighbour matters." loading="lazy">
+  <figcaption>Locality, timing, sensitivity and malice tip the balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things--05-rylands-elements.webp" width="900" height="729" alt="Five elements of Rylands v Fletcher, each with a case where it failed or was met: accumulation (Giles v Walker), something likely to do mischief (Transco), non-natural use (Rickards v Lothian; Cambridge Water), escape (Read v J Lyons) and damage of a foreseeable type (Cambridge Water). After Transco the claimant needs an interest in land and cannot recover for personal injury; Stannard v Gore shows fire cases rarely fit." loading="lazy">
+  <figcaption>All five elements are needed; most claims fail on one of them.</figcaption>
+</figure>
 
 ## How does vicarious liability work?
 
@@ -166,6 +201,11 @@ encourages careful selection and training.
 - Close connection test for wrongful acts: Lister v Hesley Hall (2001); Mohamud v WM Morrison (2016); no
   liability where the employee pursues a personal vendetta (WM Morrison v Various Claimants, 2020).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vicarious-liability--02-two-stage-test.webp" width="900" height="391" alt="Two stages. Stage 1: is the wrongdoer an employee or in a relationship akin to employment? If not, for example an independent contractor, there is no vicarious liability. Stage 2: was the tort closely connected with what the wrongdoer was authorised to do? If not, for example a frolic or personal vendetta, there is no liability. If both are met, the employer is vicariously liable." loading="lazy">
+  <figcaption>Relationship first, then connection: both are needed.</figcaption>
+</figure>
+
 ## Which defences and remedies apply?
 
 **Defences**
@@ -186,6 +226,16 @@ encourages careful selection and training.
 - Injunctions: discretionary, prohibitory or mandatory; balancing the claimant's rights against the
   defendant's and the public's interests (Kennaway v Thompson, 1981; Miller v Jackson, 1977); damages in
   lieu (Shelfer, 1895; Coventry v Lawrence, 2014).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-tort-law--05-defences.webp" width="900" height="669" alt="Illustrative bars show full damages with no defence, reduced damages with contributory negligence and nothing with consent. Contributory negligence under the 1945 Act reduces damages by a just share, for example 25% or 15% for not wearing a seat belt (Froom v Butcher). Consent is complete where the claimant knew of and freely agreed to the risk (Smith v Baker; Morris v Murray), but rescuers do not consent (Haynes v Harwood). Nuisance and Rylands have specific defences." loading="lazy">
+  <figcaption>Contributory negligence reduces damages; consent defeats the claim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--07-injunction-or-damages.webp" width="900" height="720" alt="The court may refuse an injunction where damages are adequate, the claimant delayed or acted unfairly, or it would be oppressive. Kennaway v Thompson limited powerboat racing; Miller v Jackson refused an injunction for cricket; Dennis v MoD gave damages for jet noise. Damages in lieu (s50 Senior Courts Act 1981) followed the four Shelfer conditions, but Coventry v Lawrence says they must not be applied mechanically." loading="lazy">
+  <figcaption>An injunction is discretionary: it can be limited, refused, or replaced by damages.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

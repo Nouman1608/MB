@@ -61,6 +61,11 @@ The course framework puts it like this: **an effective argument contains suffici
 
 Both matter. Ten weak pieces do not equal one strong one, and one strong piece may not be enough for a broad claim. The two measures also interact: **better quality can compensate for lower quantity** (a rigorous study of 5,000 people beats ten anecdotes), but only up to a point, because no single source can support a very broad claim by itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-5-sufficient-evidence-study-guide--01-quantity-and-quality.webp" width="900" height="576" alt="A two-by-two grid of quantity against quality. Few weak pieces, such as one rumour, fail; many weak pieces, such as ten anecdotes, still fail; one strong study of 5,000 people compensates only up to a point; several strong, independent pieces give apt support." loading="lazy">
+  <figcaption>Sufficient means enough of the right kind for this particular claim.</figcaption>
+</figure>
+
 ## The scope of the claim sets the standard
 
 The bigger or stronger the claim, the more evidence it needs. Look at the words in the claim:
@@ -75,6 +80,11 @@ The bigger or stronger the claim, the more evidence it needs. Look at the words 
 
 A reliable way to improve an argument is to **narrow the claim to what the evidence can support**. "Most pupils in Years 10 and 11 report that the timetable leaves too little time to eat" is easier to defend than "The timetable is unbearable."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-5-sufficient-evidence-study-guide--02-scope-sets-the-standard.webp" width="900" height="552" alt="A staircase of claims about the timetable: “some pupils” needs a few cases, “most pupils” a representative sample, and “all pupils” is almost impossible to support. Side cards show that “causes” needs evidence of cause and “the worst in the country” needs a comparison. Below, a narrowed claim is easier to defend." loading="lazy">
+  <figcaption>Narrow the claim to what the evidence can support.</figcaption>
+</figure>
+
 ## Common ways evidence falls short
 
 1. **Too little.** A single example offered for a general claim. This is sometimes called a *hasty generalisation*.
@@ -85,6 +95,11 @@ A reliable way to improve an argument is to **narrow the claim to what the evide
 6. **Only one type.** A claim supported only by anecdote, or only by statistics, may leave gaps a sceptic will notice.
 7. **Evidence without explanation.** A good fact left unexplained may not show why it supports the claim (Topic 3.1).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-5-sufficient-evidence-study-guide--03-where-evidence-falls-short.webp" width="900" height="544" alt="Seven numbered cards list how evidence falls short: too little, unrepresentative, irrelevant, out of date, from an unreliable source, of only one type, or left unexplained. An eighth card warns that too much can also bury the strongest example." loading="lazy">
+  <figcaption>Check quantity, representativeness, relevance, currency, source, variety and explanation.</figcaption>
+</figure>
+
 ## Too much can also be a problem
 
 Sufficiency does not mean piling up. A paragraph that lists nine near-identical examples can bore the audience and bury the strongest one. A writer should choose **enough** evidence, then spend words on commentary. If three examples show the point, adding six more adds little. The goal is apt support, not exhaustive support.
@@ -93,11 +108,21 @@ Sufficiency does not mean piling up. A paragraph that lists nine near-identical 
 
 An audience already inclined to agree needs less; a sceptical or hostile audience needs more, and more varied, evidence. A specialist audience expects rigorous sources; a general audience may be satisfied by a clear example and a trusted statistic. Writers who sense resistance often add several **types** of evidence (a statistic, an example, an authority) so that readers with different standards each find something persuasive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-5-sufficient-evidence-study-guide--04-audience-sets-the-bar.webp" width="900" height="550" alt="Four audiences ranked by how much evidence they need: one already inclined to agree needs less, a general audience a clear example and trusted statistic, a specialist audience rigorous sources, and a sceptical or hostile audience more and more varied evidence. A side note recommends several types of evidence when resistance is likely." loading="lazy">
+  <figcaption>A sceptical audience needs more, and more varied, evidence than a friendly one.</figcaption>
+</figure>
+
 ## A public-domain example: "Let Facts be submitted"
 
 The Declaration of Independence (1776) makes a very large claim: that the King of Great Britain has pursued "a long train of abuses and usurpations" showing a design to impose "absolute Despotism" on the colonies. The authors know that such a claim requires heavy support, and they say so: "To prove this, let Facts be submitted to a candid world."
 
 What follows is a list of grievances, each beginning "He has...". The list works as evidence by **quantity**: dozens of specific complaints, each concrete and checkable by the colonists who experienced them. The claim is broad (a *design* of despotism), so a single complaint would have been insufficient. The accumulation shows a **pattern**, which is what the claim asserts. The writers also frame the list as facts for a "candid", that is, fair-minded, world, which signals their awareness of the audience's need to be convinced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-5-sufficient-evidence-study-guide--06-pattern-needs-quantity.webp" width="900" height="594" alt="Two panels. A single grievance is one point with no direction, insufficient for a broad claim. Dozens of “He has...” grievances line up into a pattern, which is what the Declaration’s claim about a design of despotism asserts. The framing sentence “let Facts be submitted to a candid world” signals awareness that proof is needed." loading="lazy">
+  <figcaption>Only a series of related acts can show the pattern a broad claim asserts.</figcaption>
+</figure>
 
 ## Worked example 1: diagnosing insufficient evidence
 
@@ -124,6 +149,11 @@ What follows is a list of grievances, each beginning "He has...". The list works
 > Schools should ban mobile phones during lessons. In a study of 12 schools, pupils in the six that introduced a lesson-time ban gained on average four marks more on a standard test than pupils in the six that did not (invented figures). In a survey of 90 teachers, 71 said phones were the most frequent cause of interruption. A ban would not need to apply at break time or in emergencies, so pupils could still contact their families.
 
 **Check.** The new version has a narrower, defensible claim, two types of evidence (study, survey), representative numbers and a concession. It is sufficient for the claim it now makes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-5-sufficient-evidence-study-guide--05-closing-the-gap.webp" width="900" height="547" alt="Before: a claim that phones should be banned in all schools rests on two anecdotes, leaving a wide gap. After: the claim is narrowed to lessons and supported by a study of 12 schools, a survey of 90 teachers and a concession, closing the gap." loading="lazy">
+  <figcaption>Narrow the claim and strengthen the evidence until they meet.</figcaption>
+</figure>
 
 ## Worked example 2: why the Declaration needs so many facts
 

@@ -1,0 +1,8 @@
+{ "page": "igcse-computer-science-boolean-logic-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--07-gate-symbols.webp", "after": "## The six gates" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--08-two-input-table.webp", "after": "## Two-input truth tables" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--11-sentence-to-expression.webp", "after": "## Writing a logic expression" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--10-truth-table-three.webp", "after": "## Completing a three-input truth table" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--12-xor-nor-table.webp", "after": "## Completing a three-input truth table" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--09-circuit-to-expression.webp", "after": "## Drawing a circuit from an expression" }
+] }

@@ -60,6 +60,11 @@ That explanation, with "different sized atoms" and "layers cannot slide", follow
 | Mild steel | Iron + small % carbon | Car bodies, construction |
 | Duralumin | Aluminium + copper | Aircraft — light and strong |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--01-alloy-layers.webp" width="900" height="1290" alt="Two particle diagrams: a pure metal with same-size atoms in neat layers that slide when pushed, and an alloy with some larger atoms that jam the layers. Atoms of two different sizes mark a diagram as an alloy." loading="lazy">
+  <figcaption>Different-sized atoms stop the layers sliding, so an alloy is harder than the pure metal.</figcaption>
+</figure>
+
 ## Extraction method depends on reactivity
 
 | Position vs carbon | Method | Metals |
@@ -71,6 +76,11 @@ That explanation, with "different sized atoms" and "layers cannot slide", follow
 **Why aluminium needs electrolysis, not carbon reduction.** Aluminium is *more reactive than carbon*, so carbon cannot reduce aluminium oxide back to the metal — it's not simply that nobody has tried a cheaper method. Iron sits below carbon in reactivity, so carbon reduction works for it, but not for aluminium.
 
 The general rule linking reactivity to ease of extraction: the **less reactive** a metal, the **less energy** is needed to reduce its compound back to the metal, so it can be extracted more easily and cheaply — which is also why very unreactive metals like gold occur **native** (uncombined) rather than needing extraction at all.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--02-extraction-method.webp" width="900" height="920" alt="A ladder of metals from most to least reactive with carbon marked in the middle. Metals above carbon, such as aluminium, are extracted by electrolysis; zinc and iron below carbon by heating with carbon; gold is found uncombined." loading="lazy">
+  <figcaption>Carbon can only reduce oxides of metals less reactive than itself; more reactive metals need electrolysis.</figcaption>
+</figure>
 
 ## Blast furnace — iron from haematite
 
@@ -90,6 +100,21 @@ Limestone removes acidic impurities:
 
 Molten iron sinks; **slag** floats on top and is tapped off separately.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--03-blast-furnace.webp" width="900" height="1000" alt="A furnace cross-section: hematite, coke and limestone go in at the top, hot air near the bottom, waste gases out of the top. Five numbered reactions are marked up the furnace, and molten slag floats on molten iron at the base, each tapped off." loading="lazy">
+  <figcaption>The blast furnace turns hematite into iron using coke, limestone and hot air.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--04-iron-steps.webp" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron." loading="lazy">
+  <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--05-slag.webp" width="900" height="910" alt="Limestone breaks down to lime and carbon dioxide, then lime reacts with silica (sand) to make slag. The slag floats on top of the molten iron and is drawn off separately." loading="lazy">
+  <figcaption>Slag carries away the silica impurity and floats on the iron.</figcaption>
+</figure>
+
 ## Aluminium — electrolysis
 
 > **0620 Core** needs only: the main ore is bauxite, and aluminium is extracted by electrolysis. Cryolite, the anodes and the half-equations below are **0620 Extended** (syllabus 9.6). 5070 candidates need all of it.
@@ -104,6 +129,11 @@ Anode   (+):  2O2-        ->  O2 + 4e-    (oxidation)
 The **carbon anodes burn away** in the oxygen produced and must be replaced regularly — a standard exam point.
 
 Aluminium is expensive because electrolysis uses enormous quantities of electricity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
+</figure>
 
 ## Uses linked to properties
 

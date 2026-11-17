@@ -45,6 +45,11 @@ Condensed for the final weeks. For the full explanation, use the
 **A frequent slip**: describing a monitoring
 scenario when the question asks about control, or vice versa.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-monitoring-and-control--01-mc-monitor-vs-control.webp" width="900" height="900" alt="Monitoring is a sensor feeding a log or display, with a person deciding what happens next. Control is a sensor feeding a microprocessor that drives an actuator, and the loop returns to the sensor so it keeps re-checking. Control acts automatically with no human decision." loading="lazy">
+  <figcaption>Monitoring records a value for people; control uses the reading to trigger an automatic response in a closed loop.</figcaption>
+</figure>
+
 ## 3.1 Sensors and calibration
 
 **Named sensors**: light/UV, temperature, pressure, humidity, pH, gas
@@ -86,6 +91,11 @@ heating, air conditioning, burglar alarms, traffic/pedestrian flow
 (smart motorways), car park barriers, traffic lights, wireless
 sensor/actuator networks, smart homes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-monitoring-and-control--03-mc-sensors-uses.webp" width="900" height="1085" alt="Six sensors each paired with the property they sense and one use: infrared for body heat in a burglar alarm, proximity for a nearby object in a phone screen, touch for fluid level in cooling water, light for a car park barrier, moisture for soil water content, and sound in a burglar alarm." loading="lazy">
+  <figcaption>A good answer names the sensor, what it senses and why that fits the job.</figcaption>
+</figure>
+
 ## Worked example: sensor → microprocessor → actuator chain
 
 A greenhouse vent system:
@@ -105,6 +115,16 @@ A flowchart answer must show the sensor reading, a **decision box**
 comparing it to the threshold, and the actuator action as the
 decision's outcome — this is the topic 4 (Algorithms and
 flowcharts) link the syllabus asks for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-monitoring-and-control--05-mc-greenhouse-loop.webp" width="900" height="860" alt="A greenhouse with a temperature sensor inside, a microprocessor outside and a motorised actuator on the roof vent. The sensor reading goes to the microprocessor, which compares it with a stored threshold. If the reading is too high a signal goes to the actuator, which opens the vent. The system then keeps checking the sensor." loading="lazy">
+  <figcaption>The worked example: temperature sensor, microprocessor with a threshold, and an actuator that opens the vent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-monitoring-and-control--06-mc-greenhouse-flowchart.webp" width="900" height="1090" alt="A flowchart reads the sensor, asks whether the temperature is above the threshold, opens the vent if yes and closes it if no, then repeats. A graph produced by running that rule shows the temperature rising while the vent is closed and falling while it is open, so it keeps returning to the threshold." loading="lazy">
+  <figcaption>The flowchart of the worked example, and the temperature it produces when run (illustrative numbers).</figcaption>
+</figure>
 
 ## Second worked example: a car park barrier system
 
@@ -144,6 +164,11 @@ the true value by a consistent offset — exactly the kind of
 systematic error that only calibration, not repeated readings, can
 correct.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-monitoring-and-control--02-mc-calibration.webp" width="900" height="980" alt="Three graphs show how much error a temperature sensor has left after calibration. One-point calibration fixes the error only at one reference value. Two-point calibration fixes it at the low and high ends, so the error is smaller in between. Multipoint calibration uses several points across the range, so the error stays smallest, which suits a response that is not perfectly linear." loading="lazy">
+  <figcaption>More calibration points leave less error across the working range (illustrative sensor).</figcaption>
+</figure>
+
 ## Worked example: choosing a calibration type
 
 A pressure sensor is known to respond in a genuinely linear way
@@ -179,6 +204,11 @@ keep re-checking the sensor after acting, not act once and stop.
 breaking it into the sensor → processing → actuator chain.
 - Mixing up which calibration type suits a linear vs non-linear
 sensor response.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-monitoring-and-control--04-mc-actuators.webp" width="900" height="990" alt="A sensor takes a reading from the physical world, while an actuator produces physical movement in response; they are different components. A piston shows linear movement and a turning wheel shows rotary movement. Soft, hydraulic, pneumatic, electric, thermal, magnetic and mechanical actuators are also listed in the syllabus." loading="lazy">
+  <figcaption>A sensor reads the world; an actuator acts on it.</figcaption>
+</figure>
 
 ## Self-test
 

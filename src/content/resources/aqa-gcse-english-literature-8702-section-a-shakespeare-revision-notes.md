@@ -37,6 +37,11 @@ Quick-recall notes for the Shakespeare question. For the full method with a work
 | Split in AQA mark schemes | AO1 12, AO2 12, AO3 6, then AO4 4 |
 | Book | Closed: quotations from the wider play come from memory |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-shakespeare--01-marks-and-question.webp" width="900" height="636" alt="A bar splits 34 marks: AO1 12, AO2 12 and AO3 6 make the 30-mark question, marked as a whole, plus 4 for AO4. Below, the usual question wording is annotated: starting with this extract means two bullets, explore means weigh more than one reading, and presents means focus on the dramatist’s choices. A note says Section A is 34 of the paper’s 64 marks." loading="lazy">
+  <figcaption>Thirty marks for the answer plus four for AO4; the key words tell you what to do.</figcaption>
+</figure>
+
 ## Core recall
 
 - **"Presents"** means focus on Shakespeare's choices. Name the dramatist as the agent of every
@@ -53,6 +58,11 @@ Quick-recall notes for the Shakespeare question. For the full method with a work
   extract.
 - **Context belongs inside analysis.** Attach a contextual point to a specific line, and only if it
   explains why that line matters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-1--12-p1-extract-outward.webp" width="900" height="850" alt="A long bar stands for the whole play with a gold extract segment in the middle. Arrows lead from the extract to earlier and later points in the play. Below, two panels say strong answers cover what a line says and how it is spoken or staged." loading="lazy">
+  <figcaption>Start from the extract and reach outward; comment on staging as well as words.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -71,6 +81,16 @@ Quick-recall notes for the Shakespeare question. For the full method with a work
 | Motif | Repeated image or idea | Tracks a theme across the whole play |
 | Embedded stage direction | Action implied in dialogue | Shows awareness of performance |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-shakespeare--02-dramatic-methods.webp" width="900" height="620" alt="A table of seven dramatic methods and their effects: soliloquy, aside, dramatic irony, entrances and exits, embedded stage directions, juxtaposition of scenes and shared lines." loading="lazy">
+  <figcaption>Each method changes what the audience knows, sees or feels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-shakespeare--03-verse-prose-rhyme.webp" width="900" height="616" alt="Three panels. Blank verse: unrhymed lines of about ten syllables in a da-DUM rhythm, often for high-status or serious speech. Prose: no metre, often for lower-status characters, comedy, letters or a mind breaking down. Rhyming couplets: two rhymed lines closing a scene or speech. A note says the exceptions, such as a noble slipping into prose or a caesura, are the moments to analyse." loading="lazy">
+  <figcaption>Notice the mode, and especially when a character moves out of it.</figcaption>
+</figure>
+
 ## Planning in five minutes
 
 1. Circle the focus word in the question.
@@ -79,6 +99,11 @@ Quick-recall notes for the Shakespeare question. For the full method with a work
 4. List two or three other moments, ideally one earlier and one later, each with a short quotation or
    precise event.
 5. Choose one context point that fits a specific moment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-shakespeare--07-five-step-plan.webp" width="900" height="774" alt="Five numbered steps: read the question and extract twice, write a one-sentence argument, analyse the extract first, move outward to an earlier and a later moment, and conclude with a judgement about the end of the play." loading="lazy">
+  <figcaption>One argument carries the answer from the extract out across the play.</figcaption>
+</figure>
 
 ## Paragraph checklist
 
@@ -116,6 +141,11 @@ Use whichever fits your play and question:
 - Religion and the supernatural, where the play uses them.
 - Genre expectations: a tragedy moves towards death and loss; a comedy towards marriage and
   reconciliation, often with darker undertones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-shakespeare--05-context-that-earns-credit.webp" width="900" height="544" alt="A hub labelled context of writing links to four areas: the theatre (the audience, no women on the public stage, a bare stage), beliefs about hierarchy, gender, religion and authority, genre expectations, and how original and modern audiences might respond differently. Below, context linked to a specific moment earns credit; a paragraph of unlinked history earns little." loading="lazy">
+  <figcaption>Use only relevant context, and tie it to a specific moment in the play.</figcaption>
+</figure>
 
 ## Self-test
 

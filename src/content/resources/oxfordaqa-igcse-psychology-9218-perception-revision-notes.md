@@ -43,6 +43,11 @@ Psychology (9218). For full explanations and a worked example, use the
 | **Fiction** | The brain perceives something that is not physically there |
 | **Perceptual set** | A readiness to perceive things in a particular way |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--01-sensation-perception.webp" width="900" height="416" alt="Sensation is the detection of physical energy by the sense organs, such as light reaching the retina, and is the same for anyone with working senses. Perception is the brain's organisation and interpretation of that input, and can differ between people looking at the same thing." loading="lazy">
+  <figcaption>Sensation detects; perception interprets, which is why two people can see the same thing differently.</figcaption>
+</figure>
+
 ## Depth cues
 
 | Monocular | Binocular |
@@ -55,6 +60,11 @@ Psychology (9218). For full explanations and a worked example, use the
 Memory hook for the monocular four: **H**eight, **R**elative size, **O**cclusion, **L**inear
 perspective.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--02-depth-cues.webp" width="900" height="692" alt="Four monocular cues with small pictures: height in plane (a boat near the horizon looks further away), relative size (a smaller car seems further), occlusion (a person in front of a door hides part of it) and linear perspective (railway lines meeting in the distance). Two binocular cues: retinal disparity and convergence. A note explains size constancy." loading="lazy">
+  <figcaption>Four monocular and two binocular cues let a flat image show depth.</figcaption>
+</figure>
+
 ## Two theories compared
 
 | | **Gibson: direct** | **Gregory: constructivist** |
@@ -64,6 +74,16 @@ perspective.
 | Key concept | Motion parallax | Hypotheses; misapplied size constancy |
 | Explains well | Fast, accurate perception when moving in the real world | Illusions and perceptual set |
 | Struggles with | Illusions | Why everyday perception is usually accurate |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--02-motion-parallax.webp" width="900" height="788" alt="A view from a train window. Near fence posts flash past quickly, shown by a thick arrow, while distant hills drift slowly, shown by a thin arrow. Gibson argued the difference in speed tells us directly how far away things are. Cards summarise his bottom-up theory, a strength and a limitation." loading="lazy">
+  <figcaption>Near objects race past and far ones drift: speed difference is direct information about distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--05-gibson-vs-gregory.webp" width="900" height="743" alt="A comparison table. Gibson's bottom-up theory says input contains enough information, picked up directly, supported by motion parallax but weak on illusions. Gregory's top-down theory says input is incomplete and the brain infers from cues and past experience, supported by illusions and perceptual set but based on artificial images. A note suggests the theories can be combined." loading="lazy">
+  <figcaption>Gibson: bottom-up and direct. Gregory: top-down and inferred. Each fits different conditions.</figcaption>
+</figure>
 
 ## Illusions and explanations
 
@@ -76,6 +96,11 @@ perspective.
 | Necker cube | Ambiguity | Two equally likely front faces |
 | Kanizsa triangle | Fiction | Edges of a triangle are seen that are not drawn |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--03-illusions-explanations.webp" width="900" height="802" alt="Six simplified illusions with their explanations: the Müller-Lyer and Ponzo illusions are misinterpreted depth cues; the Ames Room is size constancy misapplied; Rubin's vase and the Necker cube are ambiguity; the Kanizsa triangle is fiction, because the brain adds edges that are not drawn." loading="lazy">
+  <figcaption>Each illusion is explained by one of four terms: ambiguity, misinterpreted depth cues, fiction or size constancy.</figcaption>
+</figure>
+
 ## Perceptual set studies
 
 | Factor | Study | Key finding | Use in exams |
@@ -87,6 +112,11 @@ perspective.
 
 **Evaluation shortcuts:** high control in laboratory studies; artificial stimuli reduce real-life
 relevance; cultural groups are not uniform.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--06-perceptual-set.webp" width="900" height="718" alt="Bruner and Minturn: the same ambiguous figure was seen as B among the letters A and C, and as 13 among the numbers 12 and 14. Cards summarise motivation (hungry participants rated food pictures brighter), emotion (briefly flashed shapes were later preferred), culture (holistic versus analytic perception) and an evaluation of the studies." loading="lazy">
+  <figcaption>Expectation, motivation, emotion and culture each create a readiness to see things a certain way.</figcaption>
+</figure>
 
 ## Spotting the factor in a scenario
 
@@ -103,6 +133,11 @@ Illusions are evidence for **Gregory**: the information on the page is correct, 
 wrong, so the brain must be adding inferences. **Gibson** would reply that illusions are flat,
 still images lacking motion parallax and other real-world information, so they are an unfair test of
 everyday perception.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--04-gregory-inference.webp" width="900" height="633" alt="A Ponzo figure: two equal bars between converging lines, the upper one looking longer. Four steps: the converging lines are read as linear perspective, past experience says the upper bar is further away, and a further object with the same retinal image must be bigger. For the Müller-Lyer illusion, fins out resemble the inside corner of a room and fins in the outside corner of a building." loading="lazy">
+  <figcaption>For Gregory, illusions show the brain inferring from cues and experience, and sometimes getting it wrong.</figcaption>
+</figure>
 
 ## Exam traps
 

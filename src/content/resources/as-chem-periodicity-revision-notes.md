@@ -63,9 +63,24 @@ Ar  (monatomic)   only weak id-id (London dispersion) forces
 
 The peak at silicon is the key feature; the drop after it is because the **structure changes**, not because bonds get weaker.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-periodicity-across-period-3--01-p3-melting-point.webp" width="900" height="1070" alt="Bar chart of approximate melting points across Period 3: sodium 98, magnesium 650, aluminium 660 (metallic, all conduct), silicon 1410 degrees Celsius, the highest (giant covalent, semiconductor), phosphorus 44, sulfur 115, chlorine minus 101 (simple molecular, no conduction) and argon minus 189 (monatomic, no conduction)." loading="lazy">
+  <figcaption>Approximate melting points across Period 3: metals rise to Si, then simple molecules and argon are low.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-periodicity-across-period-3--02-p3-giant-vs-molecular.webp" width="900" height="1030" alt="Top: silicon drawn as a lattice of atoms with strong covalent bonds in every direction, so melting breaks many strong bonds and the melting point is 1410 degrees Celsius. Bottom: three P4 molecules, each atom bonded to three others by strong covalent bonds, with only weak forces (dashed) between molecules; melting overcomes only those weak forces so the melting point is 44 degrees Celsius. S8 and Cl2 behave like P4." loading="lazy">
+  <figcaption>Si melts high because melting breaks many strong covalent bonds; P4 melts low because only weak forces between molecules are overcome.</figcaption>
+</figure>
+
 ## Oxidation number across the period
 
 The oxidation number of each element in its oxide/chloride **rises steadily** across the period: Na (+1), Mg (+2), Al (+3), Si (+4), P (+5), S (+6 in SO₃) — because each element uses progressively more of its outer-shell electrons in bonding as the number of valence electrons increases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-periodicity-across-period-3--03-p3-oxidation-number.webp" width="900" height="990" alt="Bar chart of oxidation number across Period 3 in the oxides: Na +1 (Na2O), Mg +2 (MgO), Al +3 (Al2O3), Si +4 (SiO2), P +5 (P4O10), S +6 (SO3). Chlorides show the same values where they exist: NaCl, MgCl2, AlCl3, SiCl4, PCl5. Each bar has one dot per outer-shell electron used in bonding, from one to six." loading="lazy">
+  <figcaption>Oxidation number in the oxide (and chloride) rises from +1 for Na to +6 for S, one for each outer electron used.</figcaption>
+</figure>
 
 ## The oxides with water
 
@@ -87,6 +102,16 @@ Al2O3 + 2NaOH  ->  2NaAlO2 + H2O       (reacts with base)
 
 MgO gives only a weakly alkaline pH because Mg(OH)₂ is **sparingly soluble**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-periodicity-across-period-3--04-p3-oxides-ph.webp" width="900" height="970" alt="A pH scale from 0 to 14 with approximate positions of Period 3 oxides after adding water: SO3 about pH 0, P4O10 pH 0 to 1 and SO2 pH 2 to 3 are acidic; MgO pH 9 to 10 and Na2O pH 13 to 14 are alkaline. Al2O3 (amphoteric) and SiO2 do not react with water because they are insoluble." loading="lazy">
+  <figcaption>Na2O and MgO give alkaline solutions; SO3, P4O10 and SO2 give acidic ones; Al2O3 and SiO2 are insoluble.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-periodicity-across-period-3--05-p3-amphoteric-al2o3.webp" width="900" height="1000" alt="Three beakers each containing solid aluminium oxide. With hydrochloric acid it reacts: Al2O3 + 6HCl gives 2AlCl3 + 3H2O. With sodium hydroxide it reacts: Al2O3 + 2NaOH gives 2NaAlO2 + H2O. With water there is no reaction. Amphoteric means reacting with both an acid and a base." loading="lazy">
+  <figcaption>Al2O3 is amphoteric: it reacts with HCl and with NaOH but not with water.</figcaption>
+</figure>
+
 ## The chlorides with water
 
 | Chloride | With water | pH |
@@ -102,6 +127,11 @@ NaCl dissolves unchanged; MgCl₂ and AlCl₃ dissolve to give increasingly acid
 **Why the split happens where it does:** electronegativity increases across the period while chlorine's stays fixed, so the electronegativity *difference* shrinks — NaCl and MgCl₂ are ionic and dissolve as ions, while Si–Cl and P–Cl bonds are covalent enough that water attacks the bond directly, hydrolysing it. MgCl₂ (pH ≈ 6) is only weakly acidic because the small, doubly-charged Mg²⁺ ion polarises coordinated water enough to release a little H⁺; AlCl₃ (pH ≈ 3) is more acidic still because Al³⁺ is smaller and more highly charged, polarising coordinated water even more strongly.
 
 **Worked example — predicting properties.** An unknown Period 3 element X forms a solid oxide that dissolves in water to give a strongly acidic solution, and a chloride that hydrolyses violently, "fuming" in moist air. Identify X. A violently hydrolysing chloride is **covalent** (SiCl₄ or PCl₅); SiO₂ does not react with water, so the strongly acidic solution rules out silicon and points to P₄O₁₀ — X is **phosphorus**, on the right-hand side of the period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-periodicity-across-period-3--06-p3-chlorides-water.webp" width="900" height="920" alt="Five chlorides left to right with the electronegativity difference to chlorine shrinking. NaCl: ions separate, pH about 7. MgCl2: Mg2+ polarises water and releases H+, pH about 6. AlCl3: Al3+ (smaller, more highly charged) releases more H+, pH about 3. SiCl4 and PCl5 are covalent and are hydrolysed completely, fuming: SiCl4 + 2H2O gives SiO2 + 4HCl, and PCl5 + 4H2O gives H3PO4 + 5HCl." loading="lazy">
+  <figcaption>Ionic chlorides dissolve, with Mg2+ and Al3+ making the solution acidic; SiCl4 and PCl5 are hydrolysed completely.</figcaption>
+</figure>
 
 ## Exam traps
 

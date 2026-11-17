@@ -51,6 +51,11 @@ Questions 1-4 each target Part 1 or Part 2 of the option's content. For Question
 specification states that evaluating a source's limitations, how it is *not* useful, is not
 required: concentrate on what the source can show.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-a--01-section-a-structure.webp" width="900" height="573" alt="Five source cards: Sources A to C are pre-released and D and E are unseen. A bar to scale shows the marks for the four questions: 4, 6, 8 and 12, with Question 4 using a range of sources and knowledge. Spend about 50 minutes, leaving fifteen to eighteen for Question 4." loading="lazy">
+  <figcaption>Marks rise from 4 to 12: give Question 4 the most time.</figcaption>
+</figure>
+
 ## Using the pre-release well
 
 You cannot take notes in, so preparation means **understanding**, not memorising annotations. For
@@ -62,6 +67,11 @@ each pre-released source, work out:
    date.
 4. **Links**: which other topics it could be used for, since the question may target either part of
    the option.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-a--02-pre-release-four-checks.webp" width="900" height="446" alt="Four checks for each pre-released source: provenance (who, when, for whom, why), content (what it says or shows), context (the events it relates to) and links (other topics it could serve)." loading="lazy">
+  <figcaption>Provenance, content, context and links for every pre-released source.</figcaption>
+</figure>
 
 ## Method for each question
 
@@ -81,6 +91,11 @@ useful for one person's reaction.
 **Question 4 (range of sources and knowledge).** Plan for both sides of the issue. Use and *link*
 several sources, both unseen and pre-released, add your own knowledge, and finish with a supported
 judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-a--03-method-per-question.webp" width="900" height="552" alt="Four rows. Question 1: a supporting detail from the source plus one piece of contextual knowledge. Question 2: state the difference, show it from both sources, explain why they differ. Question 3: what the content shows, confirmed by knowledge, and how provenance makes it useful; limitations are not required. Question 4: plan both sides, link several sources with own knowledge and reach a judgement." loading="lazy">
+  <figcaption>Each question has its own job: support, difference, usefulness, then a judgement.</figcaption>
+</figure>
 
 ## Option 1: Peacemaking and the League of Nations, c1919-1939
 
@@ -117,6 +132,16 @@ sanctions did not include oil while Britain and France negotiated the secret **H
 Britain and France followed **non-intervention** in the Spanish Civil War; the **World Disarmament
 Conference** (1932-34) collapsed after Germany walked out in 1933.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-a--04-peace-settlement.webp" width="900" height="719" alt="Three cards give the aims of the Big Three: Clemenceau wanted security and a weaker Germany; Lloyd George wanted to punish Germany but let trade recover; Wilson's Fourteen Points included self-determination and a League. Germany called Versailles a Diktat. The wider settlement: Saint-Germain and Neuilly (1919), Trianon and Sèvres (1920), with Sèvres replaced by Lausanne (1923)." loading="lazy">
+  <figcaption>Different aims among the Big Three, and five treaties beyond Versailles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-a--05-league-record.webp" width="900" height="995" alt="A timeline of the League: Vilna (1920) a failure; the Aaland Islands and Upper Silesia (1921) settled; Corfu (1923) bypassed by the Conference of Ambassadors; Bulgaria (1925) settled; Locarno and Kellogg-Briand outside the League; Germany joins (1926); Japan invades Manchuria (1931); Germany and Japan leave (1933); the USSR joins (1934); Italy invades Abyssinia (1935); Italy leaves (1937)." loading="lazy">
+  <figcaption>Some successes in the 1920s; great powers bypassed or defied the League, above all in the 1930s.</figcaption>
+</figure>
+
 ## Option 2: Crises of the Cold War, 1960-1975
 
 **Part 1: threats to peace in the 1960s.** In May 1960 an American **U2** spy plane was shot down
@@ -148,6 +173,16 @@ war into Cambodia and Laos; four students were killed at **Kent State University
 visited China in 1972; the **Paris Peace Accords** of 1973 ended direct US involvement; Saigon fell
 in April 1975.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-a--06-cuban-missile-crisis.webp" width="900" height="545" alt="A timeline: Castro takes power in 1959; the Bay of Pigs invasion fails in April 1961; in October 1962 U2 photographs reveal Soviet missile sites and Kennedy announces a quarantine; after thirteen days Khrushchev removes the missiles in return for a no-invasion pledge and the secret removal of US missiles from Turkey; a hotline and the Partial Test Ban Treaty follow in 1963." loading="lazy">
+  <figcaption>Thirteen days of crisis ended in a trade, then new steps to manage the risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-a--07-vietnam-escalation-withdrawal.webp" width="900" height="737" alt="A timeline of US involvement in Vietnam: Kennedy increases advisers and backs Strategic Hamlets; the Gulf of Tonkin incident (1964); bombing and ground troops from 1965; the Tet Offensive and My Lai (1968); Nixon's Vietnamisation; Kent State (1970); Nixon in China (1972); the Paris Peace Accords (1973); and the fall of Saigon in April 1975." loading="lazy">
+  <figcaption>Escalation to 1968, then a turn against the war and a staged withdrawal.</figcaption>
+</figure>
+
 ## Worked example: Question 3
 
 **Source (invented for this guide, not a real document):** a report written in September 1923 by a
@@ -167,6 +202,11 @@ Greece was told to pay."
 > questioned in 1923, not only after its failures in the 1930s.
 
 The answer uses content, knowledge and provenance, and stays on what the source *can* show.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-a--08-usefulness-frame.webp" width="900" height="465" alt="Three linked steps for a usefulness answer, using the guide's invented Corfu example: what the content shows about the issue, confirmation from own knowledge, and why the provenance adds value. Below: stay on what the source can show, and do not judge usefulness by source type alone." loading="lazy">
+  <figcaption>Content, knowledge, provenance: three reasons a source is useful.</figcaption>
+</figure>
 
 ## Common mistakes
 

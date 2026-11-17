@@ -38,6 +38,11 @@ questions through to extended, purpose-driven writing -- giving a full
 picture of a candidate's reading and writing ability within a single
 paper.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-1-reading-writing--01-where-paper-1-fits.webp" width="900" height="510" alt="Paper 1 Reading and Writing is worth 67% of the qualification (2 hours, 60 marks) and Paper 2 Listening 33%. Component 5 Speaking is optional, separately endorsed and not counted in the overall grade." loading="lazy">
+  <figcaption>Paper 1 carries two thirds of the IGCSE grade.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE URDU (0539) — PAPER 1 READING AND WRITING**
@@ -58,6 +63,11 @@ specified purpose, format and audience
 piece of continuous prose, of approximately 200 words, for a specified
 purpose, format and audience
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-1-reading-writing--02-six-exercises.webp" width="900" height="720" alt="Bars showing the marks for each Paper 1 exercise: 1 short answers 8, 2 multiple matching 9, 3 note-making 9, 4 summary 10, 5 writing 8 and 6 extended writing 16, a total of 60." loading="lazy">
+  <figcaption>Exercise 6 alone is worth 16 marks; the two writing tasks carry 24 of 60.</figcaption>
+</figure>
+
 ## How to approach it
 
 Exercises 1-3 test reading skills of increasing depth -- from simple
@@ -70,6 +80,11 @@ most marks (24 of the paper's 60) and both require close attention to
 the specified purpose, format and audience, so before writing, check
 these three elements are clearly reflected in your response, since
 marks are awarded for appropriateness as well as accuracy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-1-reading-writing--03-progression.webp" width="900" height="446" alt="Exercises 1 to 3 build reading from gist to detailed note-making; Exercise 4 bridges to writing with a summary in your own words; Exercises 5 and 6 are purpose-driven writing worth 24 of the 60 marks." loading="lazy">
+  <figcaption>Reading deepens, the summary bridges, and writing carries the most marks.</figcaption>
+</figure>
 
 ## Official syllabus
 
@@ -96,6 +111,11 @@ A reliable method:
 
 Watch for questions asking *why* rather than *what* — these require inference, and quoting the text back is not an answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-1-reading-writing--04-reading-method.webp" width="900" height="705" alt="Five steps: read the questions first, read the passage once for sense, locate and read around each answer, use your own words where asked, and match answer length to the marks. Why questions need inference, not quotation." loading="lazy">
+  <figcaption>Questions first, whole passage next, then answers sized to the marks.</figcaption>
+</figure>
+
 ## Writing
 
 Exercise 5's functional writing and Exercise 6's extended writing are both **prompt-driven, not title-choice** — each sets a specified purpose, format and audience (such as an email or an article) rather than offering a choice between narrative, descriptive or discursive titles.
@@ -114,6 +134,11 @@ Urdu writing marks concentrate on a small number of recurring features:
 - **Izafat and compound constructions** in more formal registers.
 - **Script accuracy** — correct dots and diacritics; a misplaced dot changes the word.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-1-reading-writing--05-accuracy.webp" width="900" height="644" alt="Five recurring accuracy features: gender agreement, verb tense and person, postpositions including the ergative ne, izafat and compound constructions, and script accuracy with dots and diacritics." loading="lazy">
+  <figcaption>A short list of features costs most marks: check them every time.</figcaption>
+</figure>
+
 ## Worked example
 
 A question asks: *Why did the writer decide to leave the village?* The passage states he found no work and his children's school had closed.
@@ -130,6 +155,11 @@ Then check:   does the answer address WHY, not WHAT?
               is it in your own words?
               is the length right for the marks?
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-1-reading-writing--06-worked-example.webp" width="900" height="548" alt="A why question about leaving the village. The weak answer copies two sentences; the strong answer explains economic necessity and concern for the children's education in the candidate's own Urdu, then checks reason, wording and length." loading="lazy">
+  <figcaption>Explain the reason in your own words; do not copy the lines that contain it.</figcaption>
+</figure>
 
 ## Common mistakes
 

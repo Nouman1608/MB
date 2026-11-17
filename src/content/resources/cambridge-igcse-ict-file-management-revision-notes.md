@@ -52,6 +52,16 @@ Condensed for revision. For the full explanation, use the
 
 The syllabus lists: a document, screenshots, database reports, data tables, graphs/charts, a web page in **browser view** and a web page in **HTML view** (the source code).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-file-management-study-guide--14-file-names-folders.webp" width="900" height="796" alt="The file name Year9_Geography_Coursework_Draft2.docx split into parts: Year9_Geography_Coursework says what the file is, Draft2 is the version and .docx is the extension. A folder tree shows School, Year9, Geography and Coursework folders holding two drafts of the file. A vague name such as work1 is marked as poor." loading="lazy">
+  <figcaption>A meaningful name with a version, kept in clearly named folders, makes the latest file easy to find.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-file-management-study-guide--15-file-save-saveas.webp" width="900" height="790" alt="Top: Save writes over the existing file, so only one Draft2.docx remains. Bottom: Save as keeps the original Draft2.docx and creates a second file with a different name, location or format, shown as Draft2.pdf." loading="lazy">
+  <figcaption>Save overwrites the file; Save as makes a new file and leaves the original alone.</figcaption>
+</figure>
+
 ## Application formats and generic formats
 
 | Application package formats (syllabus list) | Generic formats (syllabus list) |
@@ -93,6 +103,16 @@ An **application format** is the native format of one software package and keeps
 
 **Method**: compress the file or files into a **.zip** or **.rar** archive. Several files can be grouped into one archive, which is easier to send. The receiver extracts (unzips) the archive to use the files.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-file-management-study-guide--18-file-lossless-lossy.webp" width="900" height="830" alt="Two rows of blocks standing for data. Lossless: ten blocks are packed into a smaller file and unpacked into the same ten blocks, an exact copy, with a smaller saving. Lossy: ten blocks are reduced to a much smaller file, and the result has only part of the original, so the original cannot be rebuilt, with a much larger saving. Block counts are illustrative." loading="lazy">
+  <figcaption>Lossless keeps every bit of data; lossy throws some away for a bigger saving and cannot be reversed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-file-management-study-guide--19-file-size-worked.webp" width="900" height="940" alt="A 4 000 by 3 000 pixel photo at 24 bits per pixel has 12 000 000 pixels, which is 288 000 000 bits or 36 000 000 bytes, so 36 MB. Saved as a JPEG it is 2.4 MB, a 15 to 1 compression ratio and about 6.7 percent of the original. Two bars drawn to scale compare 36 MB with 2.4 MB. Over an 8 megabit per second connection the uncompressed photo takes 36 seconds and the JPEG 2.4 seconds." loading="lazy">
+  <figcaption>Compression cuts both the storage needed and the sending time: 36 MB becomes 2.4 MB, and 36 seconds becomes 2.4 seconds.</figcaption>
+</figure>
+
 ## Worked example: choosing a format
 
 *A teacher has a class list in a spreadsheet. She needs to send it to the school office, which uses a different database program, and to parents as a document that must not change.*
@@ -100,6 +120,11 @@ An **application format** is the native format of one software package and keeps
 - To the office: export as **.csv**, because it is a generic format that the database can import, keeping the fields and records.
 - To parents: save as **.pdf**, because the layout is fixed and it can be opened on almost any device without the original software.
 - Several class lists at once: put them in a **.zip** file to reduce the size and send one attachment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-file-management-study-guide--20-file-choose-method.webp" width="900" height="845" alt="Three scenarios and the format chosen. A school website photo gallery uses JPEG at reduced dimensions, because some quality loss is acceptable and pages must load quickly. A legal document that must not change uses lossless compression such as ZIP, or a PDF. A logo with flat colours and a transparent background uses PNG." loading="lazy">
+  <figcaption>Match the method to the job: lossy for fast photos, lossless when nothing may change, PNG for flat-colour logos.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

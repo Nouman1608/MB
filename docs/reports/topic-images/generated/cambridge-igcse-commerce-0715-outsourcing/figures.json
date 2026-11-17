@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-igcse-commerce-0715-outsourcing--01-contract-manufacturing-stages.webp",
+  "width": 900,
+  "height": 715,
+  "after": "## How does contract manufacturing work in practice?",
+  "alt": "Five numbered stages: specification, quotation and contract, sample approval, production and inspection, and delivery. Stages 3 and 4 are marked as the points where quality is checked.",
+  "caption": "The brand owner controls quality through the specification, the sample and inspection before shipping.",
+  "bytes": 115688
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-outsourcing--02-contract-logistics.webp",
+  "width": 900,
+  "height": 705,
+  "after": "## How does contract logistics work in practice?",
+  "alt": "Several client firms send stock into one logistics firm, which receives, stores, picks and packs, and delivers goods to customers. Returns come back to be checked and restocked, and stock records are shared with clients online.",
+  "caption": "Sharing one warehouse and network across many clients lowers each client’s cost per order.",
+  "bytes": 106308
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-outsourcing--03-why-outsourcing-grew.webp",
+  "width": 900,
+  "height": 730,
+  "after": "## Why has outsourcing grown?",
+  "alt": "Seven causes each linked to an effect: globalisation of production, better transport, digital communication, growth of ecommerce, specialisation, pressure on costs and flexibility, with what each lets a business do.",
+  "caption": "Explain each cause and the effect it has on the business.",
+  "bytes": 133128
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-outsourcing--04-outsourcing-risks.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## What are the risks of outsourcing, and how can they be reduced?",
+  "alt": "Six risks, each paired with a way to reduce it: falling quality, late delivery, copied designs, dependence on one contractor, reputation damage at the contractor and less contact with customers.",
+  "caption": "Every outsourcing risk has a matching safeguard the business can put in the contract or process.",
+  "bytes": 114600
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-outsourcing--05-casecraft-costs.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## Worked example 1: should a brand outsource manufacturing? (invented figures)",
+  "alt": "Two cost columns for 5,000 phone covers. In-house: lease 6,000, labour 9,000, materials 6,000 and utilities 1,000 give $22,000, or $4.40 a cover. Outsourced: contract 17,500, transport 1,500 and inspection 800 give $19,800, or $3.96 a cover.",
+  "caption": "Outsourcing saves $2,200 a year once transport and inspection are included (invented figures).",
+  "bytes": 95266
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-outsourcing--06-logistics-break-even.webp",
+  "width": 900,
+  "height": 740,
+  "after": "## Worked example 2: in-house warehouse or contract logistics? (invented figures)",
+  "alt": "A graph of monthly cost against orders. The own warehouse is a flat $12,500; contract logistics rises at $5.40 per order, costing $5,400 at 1,000 orders and $16,200 at 3,000. The lines cross at about 2,315 orders.",
+  "caption": "Below about 2,315 orders a month contract logistics is cheaper; above it the own warehouse costs less (invented figures).",
+  "bytes": 88292
+ }
+]

@@ -59,6 +59,11 @@ China's economic reforms from 1978 created huge demand for factory and construct
 
 Migrants move up the hierarchy in stages: hamlet or village to a small town, then to a regional city, then to the capital or a major city. Each move builds savings, skills and contacts that make the next possible. Stepped migration helps explain why small towns in LICs and MICs often grow quickly as well as megacities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--06-human-stepped-migration.webp" width="900" height="830" alt="Four rising steps show an illustrative settlement hierarchy: village, small town, large town and city. A person moves up one step at a time (stepped migration) with three short arrows. A single long dashed arrow from village to city shows a direct rural to urban move for comparison." loading="lazy">
+  <figcaption>In stepped migration people move up the settlement hierarchy one level at a time, rather than going straight to the largest city.</figcaption>
+</figure>
+
 ## Impacts
 
 | Area | Positive | Negative |
@@ -80,6 +85,11 @@ Counterurbanisation: people leave large cities for quality of life, lower housin
 | Intra-urban (inwards) | Young single adults, students | Nightlife, jobs, short commutes | City-centre apartments, gentrification |
 
 Life-cycle stage is a useful way to explain these flows: young adults move towards central areas, families move outwards, and some older people move to the coast or countryside on retirement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--05-human-migration-types.webp" width="900" height="760" alt="A tree. Migration (movements shorter than one year excluded) splits into internal and international. Internal migration has four types: rural to urban, urban to rural, urban to urban, and intra-urban movement within a city. International migration is voluntary (for example economic migration) or forced (for example refugee flows)." loading="lazy">
+  <figcaption>Internal migration stays inside one country; international migration crosses borders and may be voluntary or forced.</figcaption>
+</figure>
 
 ## Interpreting internal migration data
 

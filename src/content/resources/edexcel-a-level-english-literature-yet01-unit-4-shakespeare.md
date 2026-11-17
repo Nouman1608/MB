@@ -46,6 +46,11 @@ covers the drama skills it builds on.
 
 The set plays are fixed by specification issue; confirm them with your teacher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--01-section-a-at-a-glance.webp" width="900" height="558" alt="Section A is worth 25 of Unit 4’s 50 marks: one open-book essay, from a choice of two, on one play from Hamlet, King Lear, Measure for Measure and The Taming of the Shrew. The question is a statement to respond to, considering context and different interpretations, assessed on AO1, AO2, AO3 and AO5." loading="lazy">
+  <figcaption>One essay testing a statement about one of four Shakespeare plays.</figcaption>
+</figure>
+
 ## What the learning outcomes ask
 
 The 4.3 outcomes include understanding how Shakespeare **uses dramatic forms to shape meaning and
@@ -69,6 +74,11 @@ The specification describes each statement as "an invitation" to show that texts
 different ways, and says learners may also draw on wider critical reading, class discussion, or
 "performances they have seen or viewed".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--02-four-aos-and-audiences.webp" width="900" height="693" alt="The statement, described by the specification as an invitation, sits at the centre of four objectives: AO1, a personal argument with dramatic terminology; AO2, dramatic methods; AO3, contexts of writing and reception; and AO5, interpretations from critics, productions, audiences and class debate. Below, the word audiences: treat the play as performed and received." loading="lazy">
+  <figcaption>The statement invites different readings; treat the play as performed and received.</figcaption>
+</figure>
+
 ## Dramatic methods to analyse
 
 - **Verse and prose:** shifts between them often mark status, intimacy, madness or loss of control.
@@ -79,6 +89,11 @@ different ways, and says learners may also draw on wider critical reading, class
   the play.
 - **Endings:** what order is restored, and at what cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--03-dramatic-methods.webp" width="900" height="616" alt="Six methods with small icons: verse and prose shifts that mark status, intimacy, madness or loss of control; soliloquy and aside, giving the audience knowledge others lack; structure, from scene placing to parallel plots and the final act; staging, including entrances, exits and silent characters; recurring imagery clusters; and endings, asking what order is restored and at what cost." loading="lazy">
+  <figcaption>Analyse the play as theatre: verse, soliloquy, structure, staging, imagery and endings.</figcaption>
+</figure>
+
 ## The four plays: debates worth knowing
 
 | Play | Dramatic features | Interpretive debates |
@@ -88,6 +103,11 @@ different ways, and says learners may also draw on wider critical reading, class
 | *Measure for Measure* | Disguised Duke; bed-trick; a comic ending with unsettling silences | Justice and mercy; the Duke as providential or manipulative; Isabella's silence at the end |
 | *The Taming of the Shrew* | Induction with Christopher Sly; disguise; the wager scene | Katherina's final speech as sincere, ironic or strategic; the play as farce or social criticism |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--04-four-plays-debates.webp" width="900" height="547" alt="A table of the four set plays. Hamlet: soliloquies, the play-within-the-play and revenge conventions; debates on delay, Ophelia and Gertrude, and the Ghost. King Lear: the double plot, storm and Fool; redemption or nihilism and Tate’s adapted ending. Measure for Measure: the disguised Duke, bed-trick and uneasy comic ending; justice and mercy and Isabella’s silence. The Taming of the Shrew: the Sly Induction and wager; Katherina’s final speech and farce or criticism." loading="lazy">
+  <figcaption>Each play has dramatic features to analyse and debates to weigh.</figcaption>
+</figure>
+
 ## Responding to the statement
 
 1. **Unpack the statement.** Identify the key terms and what they assume.
@@ -96,6 +116,11 @@ different ways, and says learners may also draw on wider critical reading, class
 4. **Analyse dramatic methods** in each piece of evidence.
 5. **Introduce alternative readings** (AO5) and **contexts** (AO3) where they explain the evidence.
 6. **Reach a judgement** that answers the statement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--05-responding-to-statement.webp" width="900" height="730" alt="Six steps: unpack the statement’s key terms and assumptions, take a position, test it across the play, analyse dramatic methods in each piece of evidence, introduce alternative readings and contexts where they explain the evidence, and reach a judgement. A bar of the whole play marks an early scene, a turning point and the ending as test points." loading="lazy">
+  <figcaption>Unpack, take a position, test across the play, then judge.</figcaption>
+</figure>
 
 ## Worked example: Hamlet
 
@@ -138,6 +163,16 @@ Conclusion: a victim of the play's male world, but the play's staging of her
 What earns credit: an argued response to the statement (AO1); analysis of form (verse to song) and
 staging (AO2); alternative production readings weighed, not listed (AO5); early modern ideas of
 obedience and dramatic convention (AO3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--06-worked-plan-ophelia.webp" width="900" height="862" alt="A plan for the statement that Ophelia is Hamlet’s true victim. Thesis: she is the most fully sacrificed but also given a disruptive voice. Five paragraphs: her obedience and use as bait, Hamlet’s cruelty, her madness in Act 4, her reported death, and reception from Victorian painting to feminist criticism, each with its assessment objectives. Conclusion: a victim whose madness gives her a voice denied her in sanity." loading="lazy">
+  <figcaption>Each paragraph tests the statement with evidence, method and a named objective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--07-model-paragraph-ophelia.webp" width="900" height="612" alt="Two panels compare Ophelia before Act 4, with brief obedient replies such as “I shall obey, my lord”, and in madness, where bawdy songs and pointed flowers give her a freedom of speech. Two production readings follow: pathetic collapse inviting pity, or unsettling accusation of the court. The judgement: she is both victim and disturbing witness." loading="lazy">
+  <figcaption>Madness gives Ophelia a voice, and productions decide whether it pities or accuses.</figcaption>
+</figure>
 
 ## Using critics and productions well
 

@@ -58,6 +58,16 @@ Note: the specification names exactly three Vs. Do not add "veracity" or "value"
 Sources named in the specification: **networked sensors, smartphones, video surveillance, mouse clicks** --
 all continuously streamed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--06-three-vs.webp" width="900" height="950" alt="Three panels. Volume: more data than a single server can hold. Velocity: readings and payments streaming in continuously to a server, needing a response in milliseconds to seconds. Variety: structured, unstructured, text and multimedia data." loading="lazy">
+  <figcaption>Big data is defined by volume, velocity and variety.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--11-volume-estimate.webp" width="900" height="1030" alt="25,000 sensors times 43,200 readings a day gives 1,080,000,000 readings; times 12 bytes is 12.96 GB a day, about 4.7 TB a year. A log-scale chart compares one reading, one sensor for a day, all sensors for a day and for a year." loading="lazy">
+  <figcaption>One reading is tiny, but the rate makes the total large.</figcaption>
+</figure>
+
 ## Why is structure the hard part?
 
 The specification says that while size gets the attention, the most difficult aspect is the **lack of
@@ -94,12 +104,27 @@ fold:   combine pairs with the same word by adding the counts
 No step changes shared data, so the servers never need to coordinate mid-task.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--10-map-reduce-count.webp" width="900" height="920" alt="Five log lines, each split into (word, 1) pairs, ten in all. The reduce step adds per word: login 3, fail 3, ok 2, search 2, a total of 10." loading="lazy">
+  <figcaption>Map turns each word into a pair; reduce adds the pairs per word.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--07-scale-up-or-out.webp" width="900" height="800" alt="Left: scaling up means one ever bigger server, expensive and eventually impossible. Right: scaling out splits the data into parts held on many machines." loading="lazy">
+  <figcaption>Scaling up runs out; scaling out distributes the data.</figcaption>
+</figure>
+
 ## The fact-based model
 
 Each **fact** captures a **single piece of information**, e.g. "user 512 liked post 98" or "user 512's
 email is ali@example.org". Instead of one wide row per user that is overwritten when something changes, the
 data is a growing collection of small, separate facts. This copes with data that arrives in many forms and
 fits the immutable approach of functional processing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--08-fact-based-model.webp" width="900" height="850" alt="Top: updating in place overwrites Leeds with York for customer 17, so Leeds is lost. Bottom: a fact-based model keeps the timestamped fact for Leeds on 3 October and adds a new fact beneath it, so the old fact stays as history." loading="lazy">
+  <figcaption>New facts are added and old facts are kept as history.</figcaption>
+</figure>
 
 ## Graph schema: nodes, edges and properties
 
@@ -118,6 +143,11 @@ A **graph schema** captures the structure of the data set:
 ```
 
 Draw nodes as shapes, edges as labelled arrows, and attach properties to the nodes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--09-graph-schema.webp" width="900" height="870" alt="Five people drawn as nodes with name properties; directed edges labelled follows: Ana follows Ben and Dev, Ben follows Cai, Dev follows Eli. A since 2023 property sits on one edge. Cai and Eli, highlighted, are two steps from Ana." loading="lazy">
+  <figcaption>Nodes are entities, edges are relationships and properties are attributes; friends of friends is a short walk.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

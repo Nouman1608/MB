@@ -1,0 +1,156 @@
+---
+title: "AQA A Level Law (7162): Liability in Negligence for Economic Loss and Psychiatric Injury -- Revision Notes"
+resourceType: "revision-notes"
+subject: "law"
+level: ["a-levels"]
+topic: "Tort"
+boards: ["aqa"]
+qualifications: ["a-level"]
+syllabusCodes: ["7162"]
+syllabusSeries: "For teaching from September 2017 onwards, A-level exams 2019 onwards"
+order: 3.04
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "tort-7162"
+    subtopic: "liability-in-negligence-for-economic-loss-and-psychiatric-injury-7162"
+description: "Recall notes on pure economic loss, Hedley Byrne special relationships, primary and secondary victims and the Alcock controls for AQA A Level Law 7162 tort."
+author: "marlbridge-academic-team"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+publishedDate: 2026-11-17
+featured: false
+---
+
+Condensed notes for the section 3.3 row **Liability in negligence for economic loss and psychiatric injury**: "pure economic loss caused by negligent acts and negligent misstatements" and "psychiatric injury sustained by primary and secondary victims". For explanation and a worked problem, use the [economic loss and psychiatric injury study guide](/resources/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury/).
+
+## Economic loss: classify first
+
+```
+Financial loss
+   |-- follows injury or damage to claimant's own property -> CONSEQUENTIAL -> recoverable
+   |-- no such damage -> PURE
+          |-- caused by negligent ACT -> generally NOT recoverable
+          |-- caused by negligent STATEMENT/advice -> recoverable if SPECIAL RELATIONSHIP
+```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury--01-classify-economic-loss.webp" width="900" height="625" alt="If financial loss follows physical damage to the claimant’s own person or property it is consequential and recoverable, such as lost wages. Otherwise it is pure economic loss: caused by a negligent act it is generally not recoverable (Spartan Steel, Weller, Murphy, with Junior Books as an exception), but caused by a negligent misstatement it can be, where there is a special relationship (Hedley Byrne)." loading="lazy">
+  <figcaption>Classify the loss first: only pure loss from a misstatement has a clear route to recovery.</figcaption>
+</figure>
+
+## Negligent acts
+
+| Case | Facts | Result |
+|---|---|---|
+| *Spartan Steel v Martin* (1973) | Power cable cut; melt damaged | Damaged melt and its profit recoverable; further lost profits not |
+| *Weller v Foot and Mouth Disease Research Institute* (1966) | Virus escaped; markets closed | Auctioneers' lost business not recoverable |
+| *Murphy v Brentwood DC* (1991) | Defective foundations | Repair cost is pure economic loss; not recoverable |
+| *Junior Books v Veitchi* (1983) | Defective floor by subcontractor | Recovered, but treated as exceptional |
+
+**Reasons for the rule:** indeterminate liability; businesses can insure; loss spread thinly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury--02-spartan-steel.webp" width="900" height="530" alt="A bar split into three parts: the damaged melt and the profit on it were recovered, but the profit on further melts that could not be carried out during the power cut was pure economic loss and not recovered. Lord Denning said businesses should insure against power cuts. In Weller, auctioneers with no damage to their own property recovered nothing." loading="lazy">
+  <figcaption>Loss tied to damaged property was recovered; profit lost only because of the power cut was not.</figcaption>
+</figure>
+
+## Negligent misstatements
+
+**Source:** *Hedley Byrne v Heller* (1964): bank reference; special relationship can create a duty; disclaimer protected the bank.
+
+**Special relationship checklist:**
+- Defendant has special skill or knowledge.
+- Defendant knows the claimant (or an identified group) will rely on it.
+- For a particular purpose known to the defendant.
+- Claimant reasonably relies.
+
+| Case | Point |
+|---|---|
+| *Caparo v Dickman* (1990) | Auditors owed no duty to investors buying shares |
+| *Smith v Eric S Bush* (1990) | Surveyor owed duty to house buyer; disclaimer unreasonable under UCTA 1977 |
+| *Chaudhry v Prabhakar* (1989) | Unpaid friend who undertook to find a car owed duty |
+| *Spring v Guardian Assurance* (1994) | Duty to the subject of a reference |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury--03-special-relationship.webp" width="900" height="771" alt="Four elements of a special relationship: special skill or knowledge, a claimant known to the defendant, a particular purpose, and reasonable reliance. No duty was owed to investors in Caparo; a duty was owed in Smith v Eric S Bush, Chaudhry v Prabhakar and Spring v Guardian Assurance. In Hedley Byrne the bank escaped because of its disclaimer." loading="lazy">
+  <figcaption>Advice for a known purpose to a known person who reasonably relies on it can create a duty.</figcaption>
+</figure>
+
+## Psychiatric injury
+
+**Threshold:** recognised psychiatric illness (not grief, fear or distress), caused by sudden shock (*Alcock*); a sequence over 36 hours treated as one event in *North Glamorgan NHS Trust v Walters* (2002).
+
+**Primary victim:** in the zone of physical danger or reasonably believes so.
+- *Dulieu v White* (1901): barmaid feared for herself when a van crashed into the pub.
+- *Page v Smith* (1996): physical injury foreseeable is enough; no need for psychiatric injury to be foreseeable.
+
+**Secondary victim:** witnesses harm to another; must satisfy all *Alcock* (1992) controls.
+
+| Control | Detail | Case |
+|---|---|---|
+| Close tie of love and affection | Presumed for parent/child, spouses; others must prove | *Alcock* |
+| Proximity in time and space | Event or immediate aftermath | *McLoughlin v O'Brian* (1983), hospital about two hours later: yes; *Alcock*, mortuary about eight hours later: no |
+| Own unaided senses | Live TV not enough | *Alcock* |
+| Reasonable fortitude | A person of ordinary fortitude would have suffered | *Alcock* |
+
+**Medical negligence:** no secondary victim claim for witnessing the later effects of an earlier medical failure: *Paul v Royal Wolverhampton NHS Trust* (2024).
+
+**Rescuers and employees:** primary victim only if in danger: *White v CC South Yorkshire* (1998). *Chadwick v BRB* (1967) explained on that basis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury--04-primary-secondary.webp" width="900" height="717" alt="Every claimant needs a recognised psychiatric illness, traditionally from a sudden shock. Those in the zone of physical danger are primary victims (Dulieu v White; Page v Smith). Those who witness harm to another are secondary victims who must pass all four Alcock controls and need an external accident (Paul). Rescuers and employees are primary only if in danger (White; Chadwick)." loading="lazy">
+  <figcaption>Classify the victim first: only secondary victims face the Alcock controls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury--05-alcock-controls.webp" width="900" height="624" alt="The four Alcock controls: a close tie of love and affection, proximity in time and space to the event or its immediate aftermath, perception with one’s own unaided senses (live television was not enough), and reasonable fortitude. On a timeline, McLoughlin v O’Brian at about two hours was within the aftermath; identifying a body about eight hours later in Alcock was too late." loading="lazy">
+  <figcaption>All four controls must be met; arriving hours later or watching on screen can defeat a claim.</figcaption>
+</figure>
+
+## Evaluation points
+
+- **Economic loss:** a clear rule that prevents indeterminate liability, but recovery turns on the chance of whether physical damage came first (*Spartan Steel*).
+- **Misstatements:** *Caparo* keeps auditors' liability within limits; *Smith v Eric S Bush* shows the law protecting a less powerful party.
+- **Psychiatric injury:** *Alcock* gives certainty, but sharp lines on time and relationship produce hard cases; reform proposed by the Law Commission in 1998 has not been enacted.
+
+## Key terms
+
+| Term | Meaning |
+|---|---|
+| Pure economic loss | Financial loss not consequential on injury or damage to the claimant's property |
+| Consequential loss | Financial loss flowing from physical injury or property damage |
+| Special relationship | Relationship of reliance giving rise to a duty for statements |
+| Disclaimer | A notice denying responsibility for advice, subject to UCTA 1977 |
+| Recognised psychiatric illness | Medically identified condition, such as PTSD |
+| Primary victim | Claimant in the zone of physical danger |
+| Secondary victim | Claimant who witnesses danger or injury to another |
+| Immediate aftermath | The period soon after an event while victims are still in the condition caused |
+
+## Exam traps
+
+- Lost earnings after an injury are not "pure" economic loss.
+- *Hedley Byrne* created the principle but the bank won because of its disclaimer.
+- Do not use *Page v Smith* for secondary victims.
+- A sibling must prove the close tie.
+- After *Paul* (2024), relatives in medical negligence cases are generally not secondary victims.
+
+## Self-test
+
+1. What is the general rule for pure economic loss caused by a negligent act? *It is not recoverable.*
+2. What could the claimant recover in *Spartan Steel*? *The damaged melt and the profit on that melt.*
+3. Why did the auctioneers fail in *Weller*? *They suffered pure economic loss; none of their property was damaged.*
+4. Why was the claim in *Murphy* classed as pure economic loss? *The defect had not damaged other property; the loss was repair cost and lost value.*
+5. Why did the bank escape liability in *Hedley Byrne*? *Its reference was given "without responsibility".*
+6. Why was no duty owed in *Caparo*? *The audit was not prepared for investors deciding whether to buy shares.*
+7. What happened to the disclaimer in *Smith v Eric S Bush*? *It failed the reasonableness test under UCTA 1977.*
+8. Define a primary victim. *Someone in the zone of physical danger or who reasonably believed they were.*
+9. What did *Page v Smith* decide? *If physical injury is foreseeable, the defendant is liable for psychiatric injury even if none was foreseeable.*
+10. List the four *Alcock* controls. *Close tie; proximity in time and space; own unaided senses; reasonable fortitude.*
+11. Why did the claimant succeed in *McLoughlin v O'Brian*? *She saw her family in the immediate aftermath at the hospital.*
+12. What did *Paul* (2024) decide? *Witnessing a death caused by earlier medical negligence does not make a relative a secondary victim.*
+
+## Related resources
+
+[Economic loss and psychiatric injury practice questions](/resources/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury-practice/) | [Theory of tort law revision notes](/resources/aqa-a-level-law-7162-theory-of-tort-law-revision-notes/)

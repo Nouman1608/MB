@@ -78,6 +78,16 @@ Tavoria: nominal GDP rises from 1,000 (deflator 125) to 1,071 (deflator 130). Re
 
 Tavoria's total GDP is larger, but output per person is higher in the neighbour. Converting at PPP rather than the market exchange rate then adjusts for differences in the cost of living, so the comparison shows what incomes can buy in each country.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--01-gdp-and-gni.webp" width="900" height="880" alt="GNI equals GDP plus net income from abroad. With illustrative numbers, GDP of 100 and net income of +20 gives GNI of 120; with net income of -15, GNI is 85. GNI can therefore be above or below GDP." loading="lazy">
+  <figcaption>GNI is GDP plus net income from abroad, which can be positive or negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--03-ad-components.webp" width="900" height="920" alt="A stacked bar shows AD as C 60 plus I 20 plus G 22 plus net exports 8 (exports 18 less imports 10), totalling 110. A change in any component shifts AD." loading="lazy">
+  <figcaption>AD is the sum of consumption, investment, government spending and net exports.</figcaption>
+</figure>
+
 ## GDP and well-being (3.1)
 
 GDP per capita is a poor guide to well-being on its own, because it:
@@ -147,6 +157,11 @@ A fall in inflation from 5% to 2% is **disinflation**. Steady 2% inflation still
 
 Tavoria: weights 50 (food), 30 (transport), 20 (other); indices 108, 102, 95. (50 x 108 + 30 x 102 + 20 x 95) / 100 = (5,400 + 3,060 + 1,900) / 100 = **103.6**, so prices rose 3.6% since the base year. Categories with a bigger share of spending move the index more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--09-weighted-price-index-hl.webp" width="900" height="990" alt="A weighted price index multiplies each item's price index by its weight and sums: 50 x 110 + 30 x 104 + 20 x 120 over 100 gives 55 + 31.2 + 24 = 110.2, so prices are 10.2% above the base year." loading="lazy">
+  <figcaption>An HL weighted price index is built from supplied weights and price indices.</figcaption>
+</figure>
+
 ### Causes: demand-pull versus cost-push
 
 | | Demand-pull | Cost-push |
@@ -160,6 +175,21 @@ Tavoria: weights 50 (food), 30 (transport), 20 (other); indices 108, 102, 95. (5
 **Consequences of inflation.** Loss of purchasing power for people whose incomes do not keep up; savers lose if interest rates are below inflation; borrowers gain because the real value of debt falls; uncertainty makes firms less willing to invest; exports become less price-competitive if inflation is higher than in trading partners; firms face menu costs of changing prices.
 
 **Consequences of deflation.** Consumers may put off purchases expecting lower prices, which cuts AD further; the real value of debt rises, so borrowers struggle and bankruptcies can increase; firms' revenues fall while wages are hard to cut, so they reduce output and jobs; monetary policy has little room once interest rates are close to zero. Deflation caused by a rise in aggregate supply (for example from new technology) comes with rising output and is less harmful than deflation caused by falling AD.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--06-shifts-of-sras.webp" width="900" height="900" alt="With AD fixed, a leftward SRAS shift (higher costs) cuts output from 120 to 90 and raises the price level from 80 to 95. A rightward shift raises output to 150 and lowers prices to 65." loading="lazy">
+  <figcaption>A change in production costs, productivity or capacity shifts AS.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

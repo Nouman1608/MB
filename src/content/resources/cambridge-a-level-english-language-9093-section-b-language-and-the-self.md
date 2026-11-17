@@ -40,6 +40,11 @@ theorists and studies from your wider research. The question assesses **AO1**, *
 The specified aspect might focus on one strand (for example accent and identity) or ask you to connect two (for
 example whether the language we grow up with shapes how we think). Read it carefully before you read the text.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-language-paper-4-language-topics--14-p4-stimulus-approach.webp" width="900" height="920" alt="Three steps with icons: first ground the answer in a detail from the unseen stimulus text (a page with a highlighted line and magnifier); then widen out to a named theory or example (arrows spreading outward); then take a position on the issue (a flag). Below, a bar shows the 50 marks split into two equal 25-mark sections: Section A English in the World and Section B Language and the Self, with equal time for each." loading="lazy">
+  <figcaption>Start from the stimulus, widen out to named knowledge, then take a position; the two sections are equally weighted.</figcaption>
+</figure>
+
 ## Strand 1: innateness and learning
 
 The syllabus examples are behaviourism, innatism, nativism and empiricism. These are positions on one question: how
@@ -64,6 +69,16 @@ together in schools in the 1980s, is cited as evidence that children create gram
 For the self, the point is this: if language is largely innate, part of what makes us human is shared; if it is
 largely learned, our language, and perhaps our identity, is shaped by our environment. Most linguists now take an
 interactionist middle position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--01-born-or-made.webp" width="900" height="665" alt="A scale from learned to innate. On the learned side, empiricism (Locke's blank slate) and Skinner's behaviourism; on the innate side, innatism and Chomsky's nativism with the poverty of the stimulus, popularised by Pinker. Most linguists now take an interactionist middle position." loading="lazy">
+  <figcaption>Four positions on one question: how much of language is born and how much is made.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--02-evidence-innateness.webp" width="900" height="470" alt="Three pieces of evidence: Lenneberg's critical period hypothesis (1967), that language is acquired most readily before puberty; Genie, found in 1970, who learned vocabulary but struggled with grammar, with the caution that her abuse makes conclusions difficult; and Nicaraguan Sign Language, developed by deaf children in schools in the 1980s." loading="lazy">
+  <figcaption>Each case is evidence to weigh, and Genie's needs a caution.</figcaption>
+</figure>
 
 ## Strand 2: language and thought
 
@@ -91,6 +106,11 @@ Applied to the self: euphemism, labels and framing can shape how we see ourselve
 "a diabetic" rather than "a person with diabetes" may experience the label differently. The weak relativist view
 explains this influence without claiming it is absolute.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--03-language-and-thought.webp" width="900" height="745" alt="Four positions, each with a small arrow diagram and evidence: linguistic determinism (language determines thought; Whorf on Hopi, challenged by Malotki), linguistic relativity (language influences thought; Kay and Kempton, compass-direction languages), universalism (thought shapes language; Berlin and Kay) and Fodor's language of thought (mentalese expressed in language)." loading="lazy">
+  <figcaption>Separate the strong and weak versions of Sapir-Whorf, and set them against universalism and mentalese.</figcaption>
+</figure>
+
 ## Strand 3: language and social identity
 
 The syllabus examples are speech communities, prestige, idiolect, dialect, sociolect, genderlect, variation, standard
@@ -111,6 +131,21 @@ Labov's study on Martha's Vineyard (1963) found that islanders who identified st
 distinctive local vowel pronunciation more, an early demonstration that accent can be an act of identity. **Inclusion and
 exclusion** work through shared lexis, slang and in-jokes, which mark insiders and shut out others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--04-varieties-nested.webp" width="900" height="705" alt="Nested circles: an individual's idiolect sits inside a dialect or sociolect, which sits inside a speech community with shared norms. Beside them, the lesson's examples: fillers and favourite words, &quot;youse&quot; as a plural you, professional jargon, and a school, city or online fandom." loading="lazy">
+  <figcaption>Every speaker has an idiolect inside wider shared varieties.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--05-prestige-accommodation.webp" width="900" height="630" alt="Overt prestige, from the standard, is illustrated by Labov's 1966 New York department store study; covert prestige, from non-standard forms, by Trudgill's 1974 Norwich study. Below, Giles's accommodation: convergence moves speech towards a listener and divergence away. A note cites Labov's Martha's Vineyard study (1963)." loading="lazy">
+  <figcaption>Prestige can be overt or covert, and speakers converge or diverge to signal identity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--06-genderlect-debate.webp" width="900" height="460" alt="A timeline of the genderlect debate: Robin Lakoff's deficit view (1975), Deborah Tannen's difference view (1990) and Deborah Cameron's critique of the &quot;Mars and Venus&quot; model (2007)." loading="lazy">
+  <figcaption>Genderlect research is a debate between positions, not a settled fact.</figcaption>
+</figure>
+
 ## Worked example: using the text
 
 **Extract from a stimulus** (original, written for this guide):
@@ -129,6 +164,11 @@ exclusion** work through shared lexis, slang and in-jokes, which mark insiders a
 > home, where the local accent carries covert prestige of the kind Trudgill identified. The final sentence, "belong
 > properly to neither", suggests identity is not a fixed possession but something performed differently for each
 > speech community, and that the cost of accommodation can be a sense of displacement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-b-language-and-the-self--07-worked-example.webp" width="900" height="565" alt="The lesson's original extract about losing an accent at university. At university the writer converges towards the dominant accent after smiles at &quot;bath&quot;; at home the brother's label &quot;posh&quot; makes the same move divergence, where the local accent has covert prestige. The closing line suggests identity is performed for each speech community." loading="lazy">
+  <figcaption>One change of accent is convergence in one community and divergence in another.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -59,6 +59,11 @@ All terms below appear in Appendix A of the specification except "social structu
 | Reliability | How far the same results would be obtained if the research were repeated |
 | Selective use of data | Choosing only the figures that support an argument |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--01-structures-processes-issues.webp" width="900" height="680" alt="Three tiers. Social structures such as families and the education system work on people through social processes such as socialisation and labelling, which create social issues such as divorce, underachievement, crime and poverty. Below, a line from structure to agency: functionalist and Marxist accounts stress structure; interactionist accounts stress meanings and labels." loading="lazy">
+  <figcaption>Structures act on people through processes, and the results become debated issues.</figcaption>
+</figure>
+
 ## Perspectives at a glance
 
 | Perspective | One-line key feature | Strong in | One evaluation point |
@@ -69,6 +74,11 @@ All terms below appear in Appendix A of the specification except "social structu
 | Interactionism | Meanings and labels are created in interaction | Explaining self-fulfilling prophecies | Can neglect where the power to label comes from |
 
 Remember which perspectives the specification names. Interactionism appears for processes within schools (3.4.4) and for crime and deviance in 3.5.1 to 3.5.3. Data on crime (3.5.4), the other education points, families and stratification name functionalist, feminist and Marxist.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--02-grouping-perspectives.webp" width="900" height="785" alt="Two overlapping ovals. Functionalism and Marxism both explain behaviour by social structure; Marxism and feminism are both conflict theories that see institutions serving a powerful group, so Marxism sits in the overlap. Interactionism stands apart, starting from small-scale interaction." loading="lazy">
+  <figcaption>Find the similarity first: Marxism shares structure with functionalism and conflict with feminism.</figcaption>
+</figure>
 
 ## Named studies at a glance (methods focus)
 
@@ -84,6 +94,11 @@ Remember which perspectives the specification names. Interactionism appears for 
 | Becker (1963) | Interactionist | (theory) | Labels, master status, deviant career | Neglects source of power |
 | Murray (1984) | New Right | (argument) | Underclass shaped by benefit dependency | Criticised for a poor evidence base |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--06-named-studies-methods.webp" width="900" height="823" alt="Six named studies sorted by approach. Quantitative: Halsey, Heath and Ridge (over 8,000 males), Townsend (over 2,000 households) and Willmott and Young (nearly 2,000 people). Qualitative: Ball (one school), Willis (one Midlands school) and Carlen (39 women). Each shows its method and one limitation." loading="lazy">
+  <figcaption>Large samples give patterns; small, deep studies give meanings.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Compare vs contrast.** Compare = similarities *and* differences; contrast = differences only. A "compare and contrast" answer needs both.
@@ -94,6 +109,11 @@ Remember which perspectives the specification names. Interactionism appears for 
 - **Everyday vs sociological understanding.** Everyday views stress individual nature or choice; sociology looks for structures and processes.
 - **Structure vs agency.** Structural theories (functionalism, Marxism) vs interactionism, which stresses meaning and reaction to labels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--03-who-benefits-family.webp" width="900" height="781" alt="One question in the centre, who benefits from the family, with three answers: Parsons says members and society; Zaretsky says capitalism, through unpaid domestic labour and consumption; Delphy and Leonard say men, who appropriate women’s work. A note judges which fits a dual-earner couple." loading="lazy">
+  <figcaption>Put two theories on the same question, then judge which fits the evidence better.</figcaption>
+</figure>
+
 ## Extract routine: five questions
 
 1. Who wrote it, and when?
@@ -103,6 +123,11 @@ Remember which perspectives the specification names. Interactionism appears for 
 5. What are its limits: change since, who was left out, what rivals say?
 
 Appendix B gives ready-made limits: Oakley predates civil partnerships; the Rapoports predate open acceptance of gay and lesbian households; Halsey excluded females.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--04-reading-extracts.webp" width="900" height="909" alt="Five numbered questions: who and when, which perspective, the main claim, the evidence and the limits. Below, signal words: value consensus and functions for functionalists, capitalism and ruling class for Marxists, patriarchy and men benefit for feminists, label and meanings for interactionists." loading="lazy">
+  <figcaption>Ask five questions of every extract; signal words reveal the perspective.</figcaption>
+</figure>
 
 ## Mini essay plan
 
@@ -115,12 +140,22 @@ Appendix B gives ready-made limits: Oakley predates civil partnerships; the Rapo
 5. **Counter-argument:** without statistics, the trends in divorce or crime could not be seen at all, and qualitative studies such as Carlen's 39 interviews cannot show how common a pattern is.
 6. **Judgement:** statistics are useful for showing *what* and *how much*, less for *why*; mixed methods combine their strengths with qualitative depth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--05-official-statistics-limits.webp" width="900" height="721" alt="Three columns. Divorce statistics count legal divorces but miss separations and empty shell marriages. Crime statistics count recorded crime but miss the dark figure. Poverty figures depend on the definition: just over 6%, a little over 9% or more than 22% for the same society in 1968–69." loading="lazy">
+  <figcaption>Official statistics are useful, but each topic has gaps the numbers do not show.</figcaption>
+</figure>
+
 ## Connections across topics
 
 - **Labelling:** Ball (teacher expectations) and Becker (master status) both show self-fulfilling prophecies.
 - **Social control:** Heidensohn links control in the home to women's lower crime.
 - **Class:** Halsey, Albert Cohen (status frustration), Carlen (class deal), Marx.
 - **Patriarchy:** Delphy and Leonard, Heidensohn, Walby's six structures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-structures-processes-issues--08-connecting-topics.webp" width="900" height="776" alt="Four concepts that run across the course: labelling links education and crime (Ball, Becker); social control links families and crime (Heidensohn); class links education, crime and stratification (Halsey, Cohen, Carlen); patriarchy links families and stratification (Delphy and Leonard, Walby)." loading="lazy">
+  <figcaption>The same concepts appear in several topics; linking them strengthens an argument.</figcaption>
+</figure>
 
 ## Quick self-test
 

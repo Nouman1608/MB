@@ -49,6 +49,11 @@ them.
 sentence, and some paragraphs may be used more often than others. Do not cross a letter off after one
 use unless the instructions say each letter is used once.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-2-multiple-matching--01-how-the-task-works.webp" width="900" height="794" alt="Exercise 2 is worth 9 marks, takes about 12-15 minutes and tests R1 to R3. Each sentence is matched to one paragraph by writing its letter; in the example paragraph B matches two sentences, because a letter can be used more than once unless the rubric says otherwise." loading="lazy">
+  <figcaption>Match meaning, not words, and check whether letters can repeat.</figcaption>
+</figure>
+
 ## The core skill: recognising paraphrase
 
 The writer of the task deliberately rewords. These are the patterns you will meet most often.
@@ -66,6 +71,11 @@ The writer of the task deliberately rewords. These are the patterns you will mee
 
 Building a habit of noticing these relationships is the best preparation. When you read any Urdu text,
 pause on a sentence and ask: how else could this be said?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-2-multiple-matching--02-paraphrase-patterns.webp" width="900" height="936" alt="A table of eight paraphrase patterns, each with the paragraph wording and the reworded sentence, for example آسان نہیں تھا in the paragraph becoming مشکل تھا in the sentence, and فٹ بال اور کرکٹ becoming کھیل." loading="lazy">
+  <figcaption>The sentence almost never repeats the paragraph: look for the same idea in new words.</figcaption>
+</figure>
 
 ## The traps
 
@@ -85,6 +95,11 @@ someone else's. Sentences frequently turn on this difference.
 
 **5. Time words.** پہلے، اب، اگلے سال، دو سال پہلے and ابھی تک anchor events in time. A sentence such
 as "this place will soon be unavailable" needs a future event, not a past one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-2-multiple-matching--03-five-traps.webp" width="900" height="1025" alt="Five traps: a shared word such as بینڈ that points to the wrong paragraph, a paragraph that matches only half a two-part sentence, wanted versus did (چاہتا تھا, ارادہ ہے, کیا), whose opinion it is (میرے خیال میں versus میری امی کا خیال ہے), and time words such as پہلے، اب، اگلے سال." loading="lazy">
+  <figcaption>Check the meaning, both parts, the action, the speaker and the time.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -116,6 +131,11 @@ hotel and B describes a demanding Saturday, but only C describes paid work (بی
 ہیں). Paragraph B is the tempting wrong answer for anyone matching "busy Saturday" rather than "earns
 money".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-2-multiple-matching--04-worked-example.webp" width="900" height="806" alt="Three sentences matched to paragraphs by evidence rather than shared words: helping an elder matches Zainab (A) through نانی and وہ اکیلی نہیں جا سکتیں; someone else trusting his ability more matches Hamza (B) through his coach's view; a changed Saturday routine matches Maryam (C) through پہلے… مگر اب…." loading="lazy">
+  <figcaption>For every match, point to the words in the paragraph that prove it.</figcaption>
+</figure>
+
 ## A reliable method
 
 1. **Read the sentences first.** For each, underline the key idea in your own words in the margin
@@ -128,6 +148,11 @@ money".
 5. **Check both parts** of every two-part sentence.
 6. **Resolve the hard ones by elimination**, but still check the evidence in the paragraph you choose.
 7. **Answer every sentence.** There is no penalty for a wrong letter, so never leave a blank.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-2-multiple-matching--05-reliable-method.webp" width="900" height="809" alt="Seven steps: read the sentences first, read each paragraph once, match the easiest first, find the evidence for every match, check both parts of two-part sentences, eliminate and then verify, and answer every sentence." loading="lazy">
+  <figcaption>Evidence for every letter, both parts checked, no blanks.</figcaption>
+</figure>
 
 ## Exam technique and timing
 
@@ -160,6 +185,11 @@ Paraphrase recognition improves with deliberate practice:
 - Learn **feeling and attitude words** (خوش، مطمئن، پریشان، مایوس، حیران، شکر گزار), because sentences
   frequently describe a feeling the paragraph shows without naming.
 - Learn **time and change markers** (پہلے، اب، شروع میں، آخرکار، آئندہ، ارادہ).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-2-multiple-matching--06-word-banks.webp" width="900" height="634" alt="Three word banks with English glosses: synonym pairs such as مشکل / دشوار, feeling words such as خوش, مطمئن and مایوس, and time and change markers such as پہلے, اب, آخرکار and آئندہ." loading="lazy">
+  <figcaption>Collect synonyms, feelings and time markers: they are what the sentences reword.</figcaption>
+</figure>
 
 ## Where to go next
 

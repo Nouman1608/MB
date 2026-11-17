@@ -1,0 +1,9 @@
+{ "page": "metals-reactivity-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/metal-properties-and-reactivity--01-metal-properties.webp", "after": "## Physical properties" },
+ { "src": "https://img.marlbridge.com/metal-properties-and-reactivity--02-reactivity-ladder.webp", "after": "## The reactivity series — learn the order" },
+ { "src": "https://img.marlbridge.com/metal-properties-and-reactivity--03-acid-test.webp", "after": "## Reactions in one table" },
+ { "src": "https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp", "after": "## Displacement *(0620 Extended, 5070 required)*" },
+ { "src": "https://img.marlbridge.com/metal-properties-and-reactivity--05-aluminium-oxide-layer.webp", "after": "## Aluminium's apparent unreactivity *(0620 Extended, 5070 required)*" },
+ { "src": "https://img.marlbridge.com/metal-properties-and-reactivity--06-rusting-conditions.webp", "after": "## Rusting" },
+ { "src": "https://img.marlbridge.com/metal-properties-and-reactivity--07-sacrificial-protection.webp", "after": "## Rusting" }
+] }

@@ -51,6 +51,21 @@ Allama Iqbal and Rahmat Ali).
 | 1920s | Shuddhi and sangathan; tabligh and tanzim | Rising communalism and riots |
 | 1927 | Delhi Proposals | Muslims offer joint electorates for safeguards |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--01-timeline-1905-47.webp" width="900" height="1080" alt="A vertical timeline of the events in this section, from the 1905 Partition of Bengal and the founding of the Muslim League in 1906 to the Pakistan Resolution of 1940 and the Indian Independence Act of July 1947, with each event coloured by its Key Question." loading="lazy">
+  <figcaption>Forty years of events in one sequence: learn the order before the detail.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--03-league-founded-1906.webp" width="900" height="778" alt="Three causes (Sir Syed’s advice to stay out of Congress, Hindu agitation against the 1905 Partition of Bengal, and the successful Simla Deputation of 1 October 1906) lead to the founding of the League at Dhaka in December 1906, which had three aims." loading="lazy">
+  <figcaption>Bengal was the trigger; protecting Muslim interests as councils grew was the deeper cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--04-relations-1916-27.webp" width="900" height="650" alt="A line falls from the Lucknow Pact of 1916, the high point of co-operation, through the Khilafat and Non-Cooperation campaigns, to a breakdown after 1922 marked by communal riots and rival revival movements, ending with the Delhi Proposals of 1927 as a final Muslim offer." loading="lazy">
+  <figcaption>Co-operation peaked in 1916 and broke down after 1922.</figcaption>
+</figure>
+
 ## Timeline 2: the Khilafat and Hijrat Movements (Key Question 7)
 
 | Date | Event | Significance |
@@ -64,6 +79,11 @@ Allama Iqbal and Rahmat Ali).
 
 **Impact on Muslims:** political mobilisation of ordinary people; new leadership; loss of trust in
 Congress; economic hardship from Hijrat.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--05-khilafat-failure.webp" width="900" height="870" alt="The aim of the Khilafat Movement sits above five blows in order: delegations to Britain rejected, the Hijrat of 1920, Gandhi’s suspension of Non-Cooperation after Chauri Chaura in 1922, the Moplah uprising, and Turkey’s abolition of the caliphate in 1924." loading="lazy">
+  <figcaption>Five blows ended the movement; 1922 and 1924 are the two to weigh against each other.</figcaption>
+</figure>
 
 ## Timeline 3: 1927–1939 (Key Question 8)
 
@@ -81,6 +101,11 @@ Congress; economic hardship from Hijrat.
 | 1937–39 | Congress ministries | Bande Mataram, Wardha and Vidya Mandir schemes anger Muslims |
 | 22 Dec 1939 | Day of Deliverance | League celebrates end of Congress rule |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--06-nehru-report-14-points.webp" width="900" height="636" alt="A chain runs from the all-British Simon Commission to the Nehru Report of 1928, the rejection of Jinnah’s amendments and the 14 Points of March 1929. A grid compares the two documents on electorates, the Muslim share of central seats, the balance of power and the protection of Muslim culture." loading="lazy">
+  <figcaption>The 14 Points answered the Nehru Report point by point.</figcaption>
+</figure>
+
 ## Timeline 4: 1940–1947 (Key Question 9)
 
 | Date | Event | Significance |
@@ -97,11 +122,21 @@ Congress; economic hardship from Hijrat.
 | Jul 1947 | Indian Independence Act | Two dominions from 14–15 August |
 | Aug 1947 | Radcliffe Award | Punjab and Bengal boundaries drawn |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--07-solutions-1940-47.webp" width="900" height="892" alt="A staircase of six steps from the Pakistan Resolution of 1940 through the Cripps Mission, Quit India, the Gandhi–Jinnah talks and the Simla Conference to the League’s victory in the 1945–46 elections. Below, four boxes run from the Cabinet Mission of 1946 to the Indian Independence Act of July 1947." loading="lazy">
+  <figcaption>Every failed solution left the League stronger, until Britain accepted partition.</figcaption>
+</figure>
+
 ## Key individuals (Key Question 10)
 
 - **Muhammad Ali Jinnah:** Lucknow Pact 1916; 14 Points 1929; returned to lead the League in the mid-1930s; 1940 Resolution; negotiator with Cripps, Gandhi, Wavell, the Cabinet Mission and Mountbatten; first Governor-General.
 - **Allama Muhammad Iqbal:** poet-philosopher; Allahabad address 1930; urged Jinnah to lead Muslims; died 1938.
 - **Choudhary Rahmat Ali:** Cambridge student; *Now or Never* (1933); coined "Pakistan"; wanted complete separation, unlike Iqbal's proposal of a Muslim state in the north-west.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--08-jinnah-iqbal-rahmat-ali.webp" width="900" height="624" alt="Three columns list each leader’s contribution: Jinnah reorganised the League, wrote the 14 Points, led the 1940 Resolution, the 1945–46 elections and the 1946–47 negotiations; Iqbal gave the idea of a Muslim homeland in 1930; Rahmat Ali gave the name “Pakistan” in his 1933 pamphlet but had little political influence." loading="lazy">
+  <figcaption>Two men shaped the idea; one turned it into a state.</figcaption>
+</figure>
 
 ## Worked example
 

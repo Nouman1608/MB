@@ -67,6 +67,16 @@ The three assessment objectives apply:
 No background knowledge about the poet is expected or needed. Everything you write should come from
 the poem on the page.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry--01-unseen-poetry-on-each-route.webp" width="900" height="520" alt="On Route A, unseen poetry is Section B of Paper 2a, between the anthology and unseen prose, so the poem must be finished on time. On Route B it is Section B of Paper 2b, after the anthology. On both it is 30 marks and about 45 minutes." loading="lazy">
+  <figcaption>The unseen poem question is the same on both routes; Route A has unseen prose to follow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts--17-lit-oaqa-unseen.webp" width="900" height="750" alt="A sheet of text in the centre with arrows to what can be analysed from it: structure, language choices, tone and effect, and, for prose, narrative viewpoint. Below, two crossed-out dashed boxes show what not to rely on: the writer’s biography and guessing at a wider plot." loading="lazy">
+  <figcaption>Analyse structure, language, tone and effect from the page itself, not from the writer’s life or an imagined wider plot.</figcaption>
+</figure>
+
 ## A method that works under pressure
 
 ### Step 1: read for sense (3 minutes)
@@ -96,6 +106,11 @@ Each point should combine a method and its effect.
 
 Open with your interpretation. Write three or four developed paragraphs. End with a short conclusion
 that returns to the poem's overall effect, often by commenting on the ending.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry--02-five-step-method.webp" width="900" height="826" alt="A 45-minute bar: 3 minutes reading for sense, 3 for shape, 4 for detail, 3 to 5 planning and about 30 writing. Five numbered steps explain each, with reading for shape and marking the turn highlighted." loading="lazy">
+  <figcaption>Grasp the surface meaning first, then the shape, then the details.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -147,6 +162,16 @@ from what she notices.
 
 This plan earns credit across all three assessment objectives: a clear interpretation (AO1), methods
 and effects (AO2), and an organised, personal reading (AO3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry--03-lighthouse-poem-annotated.webp" width="900" height="776" alt="The guide’s original poem The Lighthouse Keeper’s Daughter with four groups of lines marked and explained in order: the father as a heroic figure, tenderness and fragility in the second stanza, loss through the blunt final-stanza sentences, and the isolated last line “and counts.” that brings the poem full circle." loading="lazy">
+  <figcaption>Four points that move through the poem from beginning to end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry--04-lighthouse-poem-movement.webp" width="900" height="494" alt="Three stanzas of The Lighthouse Keeper’s Daughter shown as a sequence: a heroic first stanza, a domestic and tender second stanza, and a final stanza of loss. A dashed arrow links the father’s counting at the end back to the child counting his steps at the start." loading="lazy">
+  <figcaption>Follow the poem’s shift from heroic to tender to loss, and comment on the ending.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -1,0 +1,56 @@
+[
+ {
+  "file": "oxfordaqa-igcse-geography-9230-ecosystems--01-pond-ecosystem.webp",
+  "width": 900,
+  "height": 566,
+  "after": "## A small-scale ecosystem: a freshwater pond",
+  "alt": "Cross-section of a freshwater pond. Abiotic parts: sunlight, water, dissolved oxygen, temperature, mud and dissolved nutrients. Biotic parts: reeds, water lilies and pondweed as producers, a snail and fish as consumers, a heron as top predator, and bacteria and fungi in the mud as decomposers.",
+  "caption": "An ecosystem is living things and the non-living environment they interact with.",
+  "bytes": 102920
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-ecosystems--02-pond-food-web.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## A small-scale ecosystem: a freshwater pond",
+  "alt": "A pond food web in four levels: algae and pondweed as producers; water fleas, snails and insect larvae as primary consumers; frogs, small fish and dragonfly larvae as secondary consumers; herons and pike as top predators. The chain algae, water flea, small fish, heron is highlighted, with arrows pointing from eaten to eater.",
+  "caption": "Most organisms depend on several others, so a change to one spreads through the web.",
+  "bytes": 94200
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-ecosystems--03-nutrient-cycle.webp",
+  "width": 900,
+  "height": 763,
+  "after": "## Nutrient cycling in the pond",
+  "alt": "A five-stage cycle: producers take up nutrients such as nitrates from water and mud, consumers gain them by eating, dead material and waste sink to the bed, decomposers break it down, and nutrients are released back into the water and mud for producers to take up again.",
+  "caption": "Decomposers close the loop that keeps nutrients available to producers.",
+  "bytes": 84438
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-ecosystems--04-balance.webp",
+  "width": 900,
+  "height": 718,
+  "after": "## Balance between components",
+  "alt": "A loop: more water fleas eat more algae, so with less food their numbers fall and the algae recover. Balance is also kept by predators limiting consumer numbers and depends on enough light, oxygen, nutrients and a suitable temperature.",
+  "caption": "Linked populations keep each other within limits.",
+  "bytes": 66102
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-ecosystems--05-changing-one-component.webp",
+  "width": 900,
+  "height": 584,
+  "after": "## The impact of changing one component",
+  "alt": "Eutrophication in six steps: fertiliser adds nitrates and phosphates, algae bloom, plants below die from lack of light, decomposers use up oxygen, fish die, and herons leave. Below, removing pike lets small fish increase, water fleas decrease, algae increase and the pond turns green and murky.",
+  "caption": "Follow the chain of effects through the whole web, not just the first step.",
+  "bytes": 113912
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-ecosystems--06-biomes-latitude.webp",
+  "width": 900,
+  "height": 637,
+  "after": "## Global ecosystems: distribution and characteristics",
+  "alt": "A schematic north–south strip of biome belts: tropical rainforest at the equator, savanna either side, hot deserts around 15 to 30 degrees north and south, then Mediterranean, temperate forest and grassland, boreal forest and tundra towards the pole. Rising air at the equator brings heavy rain; sinking air around 30 degrees brings dry conditions.",
+  "caption": "Latitude controls climate, and climate controls where each biome is found.",
+  "bytes": 87550
+ }
+]

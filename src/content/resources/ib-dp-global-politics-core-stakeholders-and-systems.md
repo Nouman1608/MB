@@ -67,6 +67,16 @@ You need all of these. Learn a one-line description and one example for each.
 
 The guide stresses that similar actors can have very different power and legitimacy in different contexts. A private company may be seen as a partner of government in one country and treated with suspicion in another. Organised civil society may be free to campaign in one state and closely restricted in the next. So never assume that an actor's type tells you its power. Ask: in this system, what can this actor actually do, and who accepts that it should?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-stakeholders-and-systems--01-actors-stakeholders.webp" width="900" height="683" alt="A large set of stakeholders, anyone affected by an issue, contains a smaller set of actors, those with the agency and means to exercise power. A child downstream of a dam is a stakeholder; the ministry that approved it is an actor. Residents who organise and go to court move from stakeholder to actor." loading="lazy">
+  <figcaption>All actors are stakeholders; stakeholders become actors when they gain the means to act.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-stakeholders-and-systems--02-actor-types.webp" width="900" height="754" alt="A grid of the actor types in the guide, each with an example: states, subnational and local governments, IGOs, organised civil society, companies, social movements, resistance movements, political parties, interest and pressure groups, political leaders, formal and informal forums, the media, and other individual and collective actors." loading="lazy">
+  <figcaption>Know each type with one example, but judge power case by case.</figcaption>
+</figure>
+
 ## 2. Systems -- structures and dynamics
 
 A **political system** is a set of actors plus the rules and patterns that govern how they interact. You can study a system at any **scale**. The guide lists global, international, regional, national, subnational, local and community levels.
@@ -84,6 +94,16 @@ The guide's central point is that structures and dynamics **regulate interaction
 
 - In the UN Security Council, five permanent members hold a veto. That structure means a resolution can fail even with wide support, so other actors often turn to the General Assembly or to regional bodies instead.
 - In the WTO dispute settlement system, only member governments can be parties. A company harmed by a trade barrier must persuade its own government to bring the case.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-stakeholders-and-systems--03-structure-dynamics.webp" width="900" height="613" alt="Seven scales at which a political system can be studied, from global to community. Structure is the stable arrangement: authority, decision rules, distribution of power and whether anything sits above. Dynamics are how interactions change: cooperation, competition, alliances, new actors, rule changes and crises." loading="lazy">
+  <figcaption>Structure sets the rules of the game; dynamics are how the game changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-stakeholders-and-systems--04-structure-limits-action.webp" width="900" height="560" alt="Two examples. In the UN Security Council, five permanent members hold a veto, so a resolution can fail despite wide support and actors turn to the General Assembly or regional bodies. In WTO dispute settlement, only governments can be parties, so a harmed company must persuade its government to bring the case." loading="lazy">
+  <figcaption>The rules of a system decide which routes are open, and actors route around the closed ones.</figcaption>
+</figure>
 
 ## 3. Legal frameworks, norms and institutions
 
@@ -117,6 +137,11 @@ Rules, norms and institutions do three things you can use in an answer:
 - **Limit** approaches -- they rule some options out (for example, a veto blocks action).
 - **Cause** issues -- sometimes the rule is the problem, such as a border agreement that splits a community, or trade rules that one group sees as unfair.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-stakeholders-and-systems--05-law-norms-institutions.webp" width="900" height="710" alt="A scale from binding to non-binding: hard law such as the UN Charter, soft law such as the Universal Declaration of Human Rights, and norms such as the taboo on chemical weapons. Institutions are both formal organisations and social structures of rules. Together they shape, limit or even cause political issues." loading="lazy">
+  <figcaption>Binding or not, rules and norms shape options, rule some out, and can cause issues themselves.</figcaption>
+</figure>
+
 ## Worked example: mapping a real case
 
 **Task.** Identify the actors and stakeholders in the negotiation of the Paris Agreement, and explain how the system's structure shaped the outcome.
@@ -140,6 +165,11 @@ Rules, norms and institutions do three things you can use in an answer:
 **Step 5 -- Apply norms and law.** The Agreement is a treaty (hard law), but its core targets work more like soft law, relying on reporting, peer pressure and reputation.
 
 **Conclusion.** A consensus-based structure, protective of sovereignty, shaped a treaty with near-universal participation but self-set targets. That is the kind of linked explanation examiners reward.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-stakeholders-and-systems--06-paris-actor-map.webp" width="900" height="660" alt="An actor map around the 2015 Paris Agreement: states, the UN climate secretariat, the Conference of the Parties, NGOs, cities and regions, companies and the media, with stakeholders who had little voice such as low-lying coastal communities, future generations and fossil-fuel workers. Consensus decision-making led to self-set national targets: wide participation, weak enforcement." loading="lazy">
+  <figcaption>Name the actors, the voiceless stakeholders, then link the structure to the outcome.</figcaption>
+</figure>
 
 ## Common errors
 

@@ -1,0 +1,65 @@
+[
+ {
+  "file": "cambridge-igcse-environmental-management-0680-drought--01-measured-against-normal.webp",
+  "width": 900,
+  "height": 742,
+  "after": "## Definition (6.4.1)",
+  "alt": "Two sketch bar charts of yearly rainfall. A desert receives close to its normal small amount, so it is not in drought. A rainforest region receives far less than its own normal, so it is in drought, even though it still gets more rain than the desert’s normal.",
+  "caption": "Compare rainfall with what the place normally receives, not with other places.",
+  "bytes": 68676
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-drought--02-causes.webp",
+  "width": 900,
+  "height": 669,
+  "after": "## Causes (6.4.2)",
+  "alt": "Lack of rain and climate change both lead to water stores not being refilled or drying out faster. Climate change works through higher temperatures, which increase evaporation and transpiration, and more extreme weather events. The result is drought. A note says human water use is not a named cause but worsens the impacts.",
+  "caption": "Name both syllabus causes; human water use only makes the impacts worse.",
+  "bytes": 91972
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-drought--03-impact-chains.webp",
+  "width": 900,
+  "height": 725,
+  "after": "## Impacts on people and the environment (6.4.3)",
+  "alt": "Lack of water branches into three chains. Centre: crops fail and livestock die, food prices rise and stores run out, leading to famine, malnutrition and migration. Left: dry, bare soil is eroded, leading to desertification. Right: dry vegetation feeds wildfires that reduce air quality and cause breathing problems.",
+  "caption": "Explain impacts as chains: lack of water, then the effect, then the consequence.",
+  "bytes": 93630
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-drought--04-strategies.webp",
+  "width": 900,
+  "height": 766,
+  "after": "## Managing the impacts (6.4.4)",
+  "alt": "Cross-section showing four ways to increase water supply: a dam storing a reservoir, a well drawing ground water from an aquifer, a house collecting rainwater from its roof into a tank, and a coastal desalination plant taking in sea water. Below, cards list monitoring and warning, emergency supplies, water conservation and international aid.",
+  "caption": "Increasing supply means storing, pumping, collecting or making fresh water.",
+  "bytes": 92442
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-drought--05-judgement.webp",
+  "width": 900,
+  "height": 676,
+  "after": "## Discussing the strategies (6.4.5)",
+  "alt": "Three bands. Cheap and work everywhere: water conservation and monitoring and warning. Cost more but give longer-term security: dams and reservoirs, aquifers and wells, desalination and rainwater harvesting. Last resort when drought becomes famine: international aid.",
+  "caption": "Combine cheap, everyday measures with supply schemes; keep aid for when drought becomes famine.",
+  "bytes": 92438
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-drought--06-percentage-of-normal.webp",
+  "width": 900,
+  "height": 580,
+  "after": "## Worked example 1: how severe is the drought?",
+  "alt": "Bar chart: normal rainfall 800 mm a year against 440 mm this year, a shortfall of 360 mm. Working beside the chart gives 55% of normal, or 45% below normal.",
+  "caption": "Describe a drought’s severity as a percentage of normal rainfall.",
+  "bytes": 48416
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-drought--07-rainwater-harvesting.webp",
+  "width": 900,
+  "height": 528,
+  "after": "## Worked example 2: rainwater harvesting",
+  "alt": "Four steps: 0.6 m of rain on a 50 m² roof gives 30 m³; collecting 80% gives 24 m³; that is 24,000 litres; at 100 litres a day it lasts 240 days. A note shows that 300 mm of rain would halve the store to 12,000 litres.",
+  "caption": "Convert rainfall to metres, multiply by area, then by the share collected.",
+  "bytes": 87020
+ }
+]

@@ -1,0 +1,25 @@
+{
+ "page": "as-chem-stoichiometry-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/as-atoms-molecules-and-stoichiometry--07-ionic-formula-from-charges.webp",
+   "after": "## Ionic formulas and equations"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-atoms-molecules-and-stoichiometry--08-ionic-equation-spectators.webp",
+   "after": "## Ionic formulas and equations"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-atoms-molecules-and-stoichiometry--11-mole-route-three-steps.webp",
+   "after": "## The universal four-step method"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-atoms-molecules-and-stoichiometry--10-limiting-reagent-moles.webp",
+   "after": "## Limiting reagent"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-atoms-molecules-and-stoichiometry--09-percentage-yield-over-100.webp",
+   "after": "## Percentage yield vs atom economy"
+  }
+ ]
+}

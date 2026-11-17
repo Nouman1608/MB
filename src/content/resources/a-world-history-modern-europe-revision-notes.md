@@ -51,6 +51,16 @@ Key events: Tennis Court Oath, storming of the Bastille (July 1789), Declaration
 
 **The Terror** is usually explained by a combination of foreign invasion, internal counter-revolution in the Vendée, economic crisis, and the ideology of the Committee of Public Safety. A strong answer weighs whether it was primarily a response to circumstance or a product of ideology.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-france-1774-1814-study-guide--01-fr-estates-taille.webp" width="900" height="850" alt="Schematic of the three Estates beneath the Crown. The clergy (First Estate) and nobility (Second Estate) are largely exempt from the taille, shown as blocked dashed lines. The Third Estate, made up of peasants and a wealthy bourgeoisie, pays it, shown as a thick arrow. A note says French support for the American War of Independence added enormously to royal debt." loading="lazy">
+  <figcaption>The main direct tax, the taille, fell on the Third Estate because the clergy and nobility were largely exempt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-modern-europe-1750-1921--10-wh-eur-france-chain.webp" width="900" height="984" alt="Top: financial crisis, social inequality and Enlightenment ideas as three unlinked boxes. Below: the same causes as a chain, financial crisis exposed by war debt, worsened by social inequality, given shape by Enlightenment ideas, together producing revolution, whose instability led to Napoleon’s rise." loading="lazy">
+  <figcaption>A strong answer links the causes into a chain from financial crisis to Napoleon’s rise.</figcaption>
+</figure>
+
 ## Napoleon
 
 **Domestic:** the Napoleonic Code, the Concordat with the Church, the Bank of France, the *lycée* system, and a centralised administration through prefects.
@@ -62,6 +72,11 @@ Key events: Tennis Court Oath, storming of the Bastille (July 1789), Declaration
 
 **Fall:** the Continental System failed and alienated allies; the Peninsular War drained resources; the Russian campaign of 1812 destroyed the Grande Armée; and nationalism, which he had helped awaken, turned against him.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-france-1774-1814-study-guide--06-fr-napoleon-rise-fall.webp" width="900" height="1164" alt="A line chart with years 1795 to 1815 along the bottom. The line climbs through eight numbered points: 1795 crushing the Paris rising, 1796-97 Italian campaign, November 1799 Brumaire coup and First Consul, 1802 Consul for life, 1804 Emperor, then a peak in 1812 when the Empire was at its greatest extent but the Russian campaign destroyed the Grande Armee. It falls with defeat at Leipzig in 1813 and abdication in April 1814. Height is schematic: higher means more power, not measured data." loading="lazy">
+  <figcaption>Napoleon climbed from army reputation to Emperor in nine years, and lost everything between 1812 and 1814.</figcaption>
+</figure>
+
 ## German unification, 1815-71
 
 **Germany (1864–71):** Bismarck's *Realpolitik*. Three deliberately limited wars — Denmark, Austria, France — each fought only after the opponent had been **diplomatically isolated**, and each ended once its objective was secured. The Ems Telegram provoked France into declaring war, so the southern German states joined Prussia against an aggressor rather than being absorbed.
@@ -69,6 +84,16 @@ Key events: Tennis Court Oath, storming of the Bastille (July 1789), Declaration
 The assessment question is usually whether unification was Bismarck's design or the product of forces already in motion — economic integration through the *Zollverein*, the growth of nationalism, and Austrian weakness. Argue both, then judge.
 
 (This topic is Germany only. Italian unification is not part of this option — it is core content of Cambridge's lower-level qualifications, IGCSE and O Level, not this A Level option.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--12-ger-bismarck-road-1866.webp" width="900" height="1173" alt="Vertical timeline. September 1862: Bismarck appointed Minister-President in a budget dispute over the army. August 1863: Bismarck persuades Wilhelm to boycott the Congress of Princes. 1864: the Danish war fought with Austria. 1865: the Convention of Gastein gives Prussia Schleswig and Austria Holstein; Biarritz secures Napoleon III’s neutrality. 1866: secret alliance with Italy; the Seven Weeks’ War and the Prussian victory at Koniggratz; Treaty of Prague excludes Austria and forms the North German Confederation; the Indemnity Bill approves his spending." loading="lazy">
+  <figcaption>Each step isolated Austria, ending in the Prussian victory of 1866.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--13-ger-road-to-1871.webp" width="900" height="1014" alt="Vertical timeline. 1867: the Luxemburg crisis leaves France humiliated. 1868: Zollparlament elections return many anti-Prussian southerners. 1870: the Hohenzollern candidature alarms France and is withdrawn. July 1870: the edited Ems Telegram and France declares war. September 1870: Napoleon III is captured at Sedan. 18 January 1871: the German Empire is proclaimed at Versailles. 28 January 1871: armistice. 1871: Treaty of Frankfurt takes Alsace and part of Lorraine." loading="lazy">
+  <figcaption>The steps from the Luxemburg crisis to the proclamation of the German Empire.</figcaption>
+</figure>
 
 ## Russia from autocracy to revolution, 1881-1924
 
@@ -105,6 +130,21 @@ A strong answer treats 1881-1924 as one connected chain — the strains
 visible from 1881, the failed 1905 revolution, war-driven collapse in
 1917, and Bolshevik consolidation — rather than starting the story only
 in 1917.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--03-ru-1905-causes.webp" width="900" height="798" alt="A flow chart. Four pressures sit at the top: defeat in the Russo-Japanese War of 1904-05, unemployment after 1900, bad harvests, and new parties (the Socialist Revolutionaries and Social Democrats). An arrow leads down to Bloody Sunday in January 1905, then strikes, peasant risings and mutinies, then the general strike in October, ending with the October Manifesto promising civil rights and a Duma." loading="lazy">
+  <figcaption>Pressures built up to Bloody Sunday and ended in the October Manifesto.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--05-ru-1917.webp" width="900" height="726" alt="A timeline of 1917. February: strikes and bread riots in Petrograd, the garrison mutinies, the Tsar abdicates, and the Provisional Government shares power with the Petrograd Soviet. June: an offensive collapses and the war goes on. July: the July Days. August: the Kornilov Revolt, when Kerensky arms the Bolsheviks’ Red Guards. On 24-25 October the Military Revolutionary Committee seizes the bridges, stations, telegraph and the Winter Palace." loading="lazy">
+  <figcaption>The path from the February strikes to the Bolshevik seizure of power on 24-25 October.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--07-ru-consolidation.webp" width="900" height="754" alt="A timeline of Bolshevik consolidation. December 1917: the Cheka is set up under Dzerzhinsky. January 1918: the Constituent Assembly is closed after one day. March 1918: the Treaty of Brest-Litovsk ends the war at the cost of huge territories. 1918 to 1921: Civil War and War Communism. March 1921: Kronstadt sailors revolt and are crushed, and the New Economic Policy replaces requisitioning with a tax in kind and private trade while factions inside the party are banned. January 1924: Lenin dies." loading="lazy">
+  <figcaption>Control, policy and economic steps from December 1917 to Lenin’s death in 1924.</figcaption>
+</figure>
 
 ## Writing the essay
 

@@ -1,0 +1,7 @@
+{ "page": "aqa-a-level-computer-science-fundamentals-of-databases-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--08-primary-foreign-keys.webp", "after": "## Key terms" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--07-many-to-many-link-table.webp", "after": "## Entity relationship diagrams" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--09-normal-form-dependencies.webp", "after": "### Worked example" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--10-join-total-spend.webp", "after": "## SQL you must write by hand" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--11-lost-update.webp", "after": "## Client server databases and concurrency" }
+] }

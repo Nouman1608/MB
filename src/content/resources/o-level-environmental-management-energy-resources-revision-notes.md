@@ -91,6 +91,26 @@ during generation but produces radioactive waste.
 wealth; climate; human population size; industry; disruption to supply;
 unreliable supply; scarcity of resources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-resources--01-ef-fossil-formation.webp" width="900" height="950" alt="Two rows of three panels. Coal: plants die in a swamp where waterlogged, low-oxygen conditions stop them decaying completely; the plant material is buried under sediment; over millions of years heat and pressure turn it into coal. Oil and natural gas: tiny marine organisms settle in mud on the sea bed; they are buried without oxygen and are heated and compressed; the oil and gas move upwards through permeable rock until an impermeable layer traps them, with gas above oil. Schematic, not to scale." loading="lazy">
+  <figcaption>Coal: swamp plants not fully decayed, buried, heat and pressure. Oil and gas: sea organisms buried and heated, rising until an impermeable layer traps them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-resources--02-ef-renewable-or-not.webp" width="900" height="910" alt="Renewable (non-finite) resources: biofuels (bioethanol, biomass, biogas and wood), geothermal, hydro-electric, tidal, wave, solar and wind. Non-renewable (finite) resources: fossil fuels (coal, oil, gas) and nuclear power using uranium. Nuclear is non-renewable because uranium is finite, even though nothing is burned." loading="lazy">
+  <figcaption>Resources sorted into renewable (non-finite) and non-renewable (finite), with the nuclear note.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-resources--03-ef-electricity-routes.webp" width="900" height="1042" alt="Three routes. First, heat makes steam: burned fossil fuels, burned biofuels, uranium fission and hot rocks in geothermal plants produce steam that turns a turbine which drives a generator. Second, moving water or air turns the turbine directly: hydro-electric dams, tides, waves and wind. Third, solar photovoltaic cells turn sunlight directly into electricity with no turbine." loading="lazy">
+  <figcaption>Three routes to electricity: steam turbine, moving water or wind turbine, and solar cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-resources--04-ef-demand-factors.webp" width="900" height="840" alt="Eight cards. Five raise demand: transport (more vehicles and journeys), personal and national wealth (more appliances and vehicles), climate (heating in cold places, cooling in hot places), human population size, and industry (especially heavy industry). Three shift or cut demand: disruption to supply (find other sources or use less), unreliable supply (switch to own generators or other sources) and scarcity of resources (dearer, so people use less or shift to other resources)." loading="lazy">
+  <figcaption>Eight factors, five raising demand and three shifting or cutting it.</figcaption>
+</figure>
+
 ## 1.5 Conservation and management of energy resources
 
 **Management strategies (1.5.1), all eight:** reducing consumption;
@@ -115,6 +135,21 @@ devices, electric vehicles, heat pumps) save energy over time but cost
 more at the start; battery storage saves no energy but stores surplus
 electricity (for example from solar or wind) for later use, at a cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-resources--05-ef-management-strategies.webp" width="900" height="800" alt="Eight numbered cards: 1 reducing consumption (switch devices off); 2 insulation (less heat lost); 3 energy-efficient devices and vehicles (the same task uses less energy); 4 exploiting existing energy resources (fuller use of supply); 5 education on energy conservation; 6 transport policies (public transport, car sharing, cycle lanes); 7 battery storage (stores surplus electricity for later); 8 development of new energy resources." loading="lazy">
+  <figcaption>The eight listed strategies with a short hint for each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-resources--06-ef-hydrogen.webp" width="900" height="890" alt="Blue hydrogen is made from natural gas in a plant; the carbon dioxide released is meant to be captured and stored, and if it is not stored it adds to greenhouse gases. Green hydrogen is made using renewable resources: renewable electricity splits water into hydrogen and oxygen by electrolysis. Hydrogen burned or used in a fuel cell makes water, not carbon dioxide." loading="lazy">
+  <figcaption>Blue hydrogen from natural gas with CO2 meant to be captured; green hydrogen by electrolysis with renewable electricity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-resources--07-ef-heat-pumps.webp" width="900" height="836" alt="Two panels. A ground source heat pump transfers heat from the ground, through a buried pipe loop, into a building for heating. An air source heat pump transfers heat from the outside air into a building for heating. In both, a little electricity runs the heat pump, and more heat energy comes out than the electrical energy used. Arrow widths are illustrative." loading="lazy">
+  <figcaption>Heat pumps move heat from ground or air into a building using a little electricity (arrow widths illustrative).</figcaption>
+</figure>
+
 ## 1.6 Fracking
 
 **Fracking** = "the extraction of natural gas or petroleum from shale rock
@@ -126,6 +161,11 @@ by hydraulic fracturing".
 | Greater national energy supply, fewer imports | Risk of ground water contamination |
 | Jobs and tax income | Can trigger small earthquakes |
 | Gas emits less carbon dioxide than coal for electricity | Still a fossil fuel; methane can leak |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-energy-resources--08-ef-fracking.webp" width="900" height="870" alt="Cross-section. A well drills down through rock and a ground water layer, then turns horizontal inside a layer of shale. Water, sand and chemicals are pumped down the well at high pressure to crack the shale; gas or oil escapes through the cracks into the well and flows up to the surface. Benefits: gives access to gas and oil, fewer imports, jobs and tax income. Limitations: large water use, ground water risk, small earthquakes, methane leaks. Schematic, not to scale." loading="lazy">
+  <figcaption>Hydraulic fracturing of shale with the benefits and limitations the lesson lists.</figcaption>
+</figure>
 
 ## Command word reminders
 

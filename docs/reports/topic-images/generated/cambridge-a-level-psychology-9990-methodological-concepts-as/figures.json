@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-a-level-psychology-9990-methodological-concepts-as--01-hypotheses.webp",
+  "width": 900,
+  "height": 666,
+  "after": "## Aims and hypotheses",
+  "alt": "The null hypothesis predicts no difference in names recalled by doodlers and non-doodlers. The alternative hypothesis predicts a difference and comes in two versions: directional (doodlers will recall more) and non-directional (there will be a difference). A note explains when to choose a directional hypothesis.",
+  "caption": "Null says no difference; directional says which way; non-directional just says different.",
+  "bytes": 119730
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-methodological-concepts-as--02-caffeine-variables.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## Variables and operationalisation",
+  "alt": "The caffeine study's independent variable (200 ml of coffee or decaffeinated coffee 30 minutes before) and dependent variable (target letters crossed out in two minutes). Below, controls: the same time of day, no caffeine beforehand, and a standardised procedure. A note defines confounding.",
+  "caption": "Define the IV and DV precisely, then hold everything else constant.",
+  "bytes": 147922
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-methodological-concepts-as--03-sampling.webp",
+  "width": 900,
+  "height": 737,
+  "after": "## Sampling",
+  "alt": "Three panels each show a population of 40 dots with 8 picked. Opportunity sampling picks a cluster of whoever is available (quick, but unrepresentative); random sampling picks scattered dots (more representative, needs a full list); volunteer sampling picks those who respond to an advert (easy, but volunteers differ). A note covers generalisation.",
+  "caption": "Opportunity is quick, random is fairest, volunteers may differ from everyone else.",
+  "bytes": 160626
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-methodological-concepts-as--04-central-tendency.webp",
+  "width": 900,
+  "height": 758,
+  "after": "## Data analysis",
+  "alt": "Dot plots of the invented scores on a 0 to 10 scale. Doodling: 4, 5, 5, 6, 7, 8, 9, with mode 5, median 6, mean about 6.3 and range 5. Control: 3, 3, 4, 4, 4, 5, 6, with mode 4, median 4, mean about 4.1 and range 3.",
+  "caption": "Doodlers scored higher on every average and their scores were more spread out.",
+  "bytes": 97776
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-methodological-concepts-as--05-graph-types.webp",
+  "width": 900,
+  "height": 597,
+  "after": "## Data analysis",
+  "alt": "Three small graphs: a bar chart with gaps between bars for separate categories, a histogram with no gaps for the frequency of continuous data, and a scatter graph for the relationship between two co-variables. The shapes are illustrative.",
+  "caption": "Bars with gaps for categories, no gaps for continuous data, points for relationships.",
+  "bytes": 69172
+ }
+]

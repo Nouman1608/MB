@@ -59,6 +59,11 @@ Use working definitions and say where they come from.
 
 The United Nations 2030 Agenda for Sustainable Development, agreed in 2015, states: "Sport is also an important enabler of sustainable development." That is a **value** claim by a global body. It tells you what the UN believes sport can do, not evidence that it has done so.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-sport-and-recreation--01-sport-terms.webp" width="900" height="707" alt="A widening stack from mega-events, through elite sport and grassroots sport, to recreation, each defined. Legacy is the long-term effect an event leaves, such as venues, transport, debt or changed participation. The UN statement that sport enables sustainable development is a value claim, not evidence." loading="lazy">
+  <figcaption>Sport runs from everyday recreation to mega-events, and each level raises different issues.</figcaption>
+</figure>
+
 ## Finding issues at global, national and local level
 
 The syllabus defines an **issue** as "an important subject or problem for discussion". Sport and recreation is the topic; an issue is a specific problem within it that people disagree about.
@@ -70,6 +75,11 @@ The syllabus defines an **issue** as "an important subject or problem for discus
 | Local | Playing fields sold for housing; the cost of club membership; safe cycling and walking routes; access to facilities for disabled people; litter and noise around venues |
 
 Strong answers link the levels. A decision by an international body to award an event (global) leads a government to spend public money (national), which may mean a new stadium, new transport or the loss of a local park (local).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-sport-and-recreation--02-event-levels.webp" width="900" height="522" alt="An international body awards an event, a government spends public money, and locally a stadium or transport is built or a park lost. A table lists issues at each level: mega-event costs, doping, women’s sport and esports globally; elite versus community funding and gambling sponsorship nationally; playing fields, club fees, cycling routes and access locally." loading="lazy">
+  <figcaption>Strong answers follow a decision from the global level to a local place.</figcaption>
+</figure>
 
 ## Perspectives: who thinks what, and why
 
@@ -91,6 +101,11 @@ Groups that often appear in sport sources:
 
 The paragraph names two groups, gives the reasoning for each, and identifies the **values** underneath.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-sport-and-recreation--03-dunmere-bid.webp" width="900" height="721" alt="The fictional city of Dunmere considers bidding for a championship. A balance weighs the council (visitors, image, inspiring youth; valuing growth and pride) against nearby residents (rents, loss of a park, a ten-day event; valuing local wellbeing). Other voices: sponsors and broadcasters with a vested interest, governing bodies that earn from events, and taxpayers." loading="lazy">
+  <figcaption>The disagreement is really about whose interests should come first.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 AO1 asks you to research issues, "their causes and consequences". Sorting causes by type keeps your analysis clear:
@@ -111,6 +126,11 @@ AO1 asks you to research issues, "their causes and consequences". Sorting causes
 
 Notice how one consequence becomes the cause of the next step. When you explain a consequence, say **who** is affected and **how**. "It costs a lot" earns little. "Taxpayers in Quebec were still paying for the stadium three decades later, money that could not be spent on other services" earns more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-sport-and-recreation--04-hosting-cost-chain.webp" width="900" height="757" alt="A chain: optimistic bid budgets lead to higher final costs (Montreal’s 1976 stadium debt was paid off only in 2006), which leads regions to withdraw (Victoria pulled out of the 2026 Commonwealth Games in July 2023 citing A$6 to 7 billion), which leads to cheaper models (Glasgow 2026 with 10 sports, existing venues and no athletes’ village)." loading="lazy">
+  <figcaption>Each consequence becomes the cause of the next step.</figcaption>
+</figure>
+
 ## Judging sources and evidence
 
 Section 4 says Written Exam candidates "will benefit from an understanding of the following: bias, claim, fact, generalisation, opinion, prediction, value and vested interest". Sport sources are full of them, especially bid documents, club press releases and fan forums.
@@ -127,6 +147,11 @@ Questions to ask of any sport source:
 
 > This claim comes from the bid committee, which has a vested interest in winning public support. "Will create" is a prediction, so it cannot yet be checked. The figure is not broken down: if, say, 31,000 of the 40,000 jobs lasted only for the event, just 9,000 would be lasting jobs, under a quarter of the total. "Inspire a generation" is an emotive slogan rather than evidence; it gives no measure of what inspiration means or how it would be tested. The claim is therefore weakly supported until independent figures are available.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-sport-and-recreation--05-jobs-claim.webp" width="900" height="822" alt="A fictional bid committee claims hosting will create 40,000 jobs and inspire a generation. An illustrative bar shows that if 31,000 jobs lasted only for the event, just 9,000 would be lasting. Four weaknesses: vested interest, a prediction, an unbroken-down figure, and an emotive slogan. The claim is weak until independent figures exist." loading="lazy">
+  <figcaption>Ask what a big number counts, and for how long.</figcaption>
+</figure>
+
 ## Real examples to practise with
 
 Use these as research starting points or practice material. They earn no marks on their own.
@@ -135,6 +160,11 @@ Use these as research starting points or practice material. They earn no marks o
 - **Equal prize money.** The US Open tennis championships began paying men and women equal prize money in 1973; Wimbledon did so from 2007. These are examples of change by organisers, often after pressure from players.
 - **Gender balance.** The International Olympic Committee allocated an equal number of athlete places to women and men for the Paris 2024 Olympic Games, the first time this happened. Equal places at the elite level do not show what happens in local clubs, which is a good evaluation point.
 - **Esports.** Esports were medal events for the first time at the Asian Games held in Hangzhou, China, in 2023. Some argue this recognises skill, teamwork and a huge global audience. Others argue that sport should involve physical exertion and worry about screen time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-sport-and-recreation--06-real-examples-timeline.webp" width="900" height="660" alt="A timeline: equal prize money at the US Open (1973), WADA founded (1999), equal prize money at Wimbledon (2007), esports medals at the Hangzhou Asian Games (2023), and equal athlete places at the Paris 2024 Olympics. Evaluation points: inconsistent doping enforcement, elite equality not showing local change, and whether esports count as sport." loading="lazy">
+  <figcaption>Each real example is a starting point for evaluation, not a fact to recite.</figcaption>
+</figure>
 
 ## Courses of action and their effects
 
@@ -147,6 +177,11 @@ Actions to practise judging include hosting events in existing venues, holding a
 **Worked evaluation paragraph (knowledge → application → analysis → evaluation).**
 
 > Opening school sports halls to the public in the evenings is one way to raise participation [knowledge]. In a town where families say there is no affordable facility nearby, it uses buildings that already exist, so the cost is mainly staff and cleaning rather than construction [application]. This tackles the cause directly, because the barrier is access rather than interest, and it reaches families who cannot pay for private gyms [analysis]. However, it may not help people who work long hours or feel unwelcome in a school setting, and someone must pay for supervision every year. On balance it is a cost-effective first step, but it works best alongside reduced club fees, which deal with the second main barrier [evaluation].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-sport-and-recreation--07-school-halls.webp" width="900" height="583" alt="Four tagged steps assess opening school sports halls in the evening: it can raise participation; it uses existing buildings so costs are mainly staff and cleaning; it tackles access, the real barrier; but it may miss some people and needs yearly funding, so it is a first step best combined with reduced club fees. Six criteria for any action follow." loading="lazy">
+  <figcaption>Match the action to the barrier, then name who it still misses.</figcaption>
+</figure>
 
 ## Ideas for the Individual Report
 

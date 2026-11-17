@@ -1,0 +1,9 @@
+{ "page": "oxfordaqa-igcse-computer-science-9210-programming-concepts-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--01-three-combining-principles.webp", "after": "## Combining principles"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--02-assignment-right-to-left.webp", "after": "## Statement types at a glance"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--03-named-constants.webp", "after": "## Why constants and variables"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--04-while-versus-repeat.webp", "after": "## Loops compared"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--05-choosing-a-loop.webp", "after": "## Loops compared"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--06-nested-loop-trace.webp", "after": "## Nesting"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-programming-concepts--07-nested-selection.webp", "after": "## Nesting"}
+] }

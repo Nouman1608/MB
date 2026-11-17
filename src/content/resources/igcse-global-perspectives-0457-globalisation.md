@@ -63,6 +63,11 @@ Component 1 sources present perspectives that are "personal, local and/or nation
 
 **Worked example (analysis of levels):** "At a global level, the issue is whether supply chains that cross many countries are worth the risk of disruption. At a national level this becomes a question of whether a country should make more of its own essential goods. Locally, the same issue appears as a shop that cannot restock. Linking the levels shows that one cause can have very different consequences for different people."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-globalisation--01-supply-chain-levels.webp" width="900" height="546" alt="Three linked cards show supply-chain disruption as a global question about risk, a national question about making essential goods at home, and a local shop that cannot restock. Below, glocalisation, popularised by Roland Robertson in the 1990s, describes global products adapted to local cultures, with a strength and a limitation." loading="lazy">
+  <figcaption>The same globalisation issue looks different from the world, a country and one shop.</figcaption>
+</figure>
+
 ## Different perspectives and why people hold them
 
 The syllabus asks you to understand "why different people have different perspectives". For globalisation, perspectives often follow people's interests and values.
@@ -76,6 +81,11 @@ Two well-known books show the range. Thomas Friedman's *The World Is Flat* (2005
 Keep balance. Cambridge states it is "politically neutral". Your job is to present each perspective fairly, explain the reasoning behind it, and only then justify your own view (AO2).
 
 **Worked example (perspective with empathy):** "A factory owner who sells abroad may welcome lower trade barriers because they open new markets. A worker whose factory has closed because production moved overseas is likely to see the same change as a threat. Both views are based on real evidence from their own experience, so the difference comes from what each person stands to gain or lose."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-globalisation--02-globalisation-perspectives.webp" width="900" height="635" alt="Three columns of perspectives on globalisation: supportive (cheaper goods, new jobs, spread of ideas), middle ground (managed trade through fair trade and labour standards) and critical (job losses, wage pressure, transport emissions, cultural loss). Friedman’s The World Is Flat (2005) and Stiglitz’s Globalization and Its Discontents (2002) show informed experts disagree." loading="lazy">
+  <figcaption>Informed experts disagree about globalisation, so present each view fairly before judging.</figcaption>
+</figure>
 
 ## Causes and consequences
 
@@ -96,6 +106,11 @@ Consequences you can research:
 
 **Measuring globalisation.** The KOF Globalisation Index, from the KOF Swiss Economic Institute at ETH Zurich, scores countries on economic, social and political globalisation. *Strength:* it lets you compare countries over time. *Limitation:* any index depends on which indicators are chosen and how they are weighted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-globalisation--03-causes-consequences.webp" width="900" height="894" alt="Three causes, container shipping from 1956, the World Trade Organization from 1995 and digital communication, lead to long supply chains across many countries. Two consequences follow: a worldwide computer chip shortage in 2020 and 2021 that cut car production, and the Ever Given blocking the Suez Canal for six days in March 2021." loading="lazy">
+  <figcaption>Cheaper shipping, trade rules and the internet linked the world, but long supply chains can be fragile.</figcaption>
+</figure>
+
 ## Judging sources and evidence
 
 The Written Exam expects you to understand "bias, claim, fact, generalisation, opinion, prediction, value and vested interest" and to "analyse and evaluate use of evidence and language". Globalisation sources are full of these.
@@ -113,6 +128,11 @@ The Written Exam expects you to understand "bias, claim, fact, generalisation, o
 
 **Worked example (evaluating evidence):** A fictional source says: "In the fictional town of Pellmoor, 31 of 50 shopkeepers asked said a global supermarket had forced a neighbour to close, so global chains destroy local business." "The evidence comes from people with direct experience, which gives it some value. However, 50 shopkeepers in one town is a small sample, and shopkeepers have a vested interest because they compete with the supermarket. The figure of 62% reports what people believe, not closures that were checked. The conclusion that global chains destroy local business everywhere is a generalisation the evidence cannot support."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-globalisation--04-pellmoor-shopkeepers.webp" width="900" height="671" alt="Fifty dots, 31 highlighted, show that 31 of 50 Pellmoor shopkeepers said a global supermarket forced a neighbour to close. The evidence has value as direct experience but is a small sample from one town, from people with a vested interest, reporting beliefs not checked closures; the general conclusion is an unsupported generalisation." loading="lazy">
+  <figcaption>A belief reported by a small, interested group cannot prove a general claim.</figcaption>
+</figure>
+
 ## Courses of action
 
 Component 1 Question 4 asks you to "assess actions in response to the global issue", and the Individual Report asks you to "propose a single course of action". Always judge an action by its likely effect, who carries it out, cost, and side effects.
@@ -126,6 +146,16 @@ Component 1 Question 4 asks you to "assess actions in response to the global iss
 | Spreading suppliers across countries | Lowers supply-chain risk | Higher cost for firms |
 
 **Worked example (assessing an action):** "Tariffs would probably protect some factory jobs in the short term because imported goods would become dearer. But consumers, including the workers being protected, would pay higher prices. If other countries placed tariffs in return, exporting firms could lose jobs. So tariffs may move the problem rather than solve it, unless they are temporary and linked to retraining."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-globalisation--05-tariff-effects.webp" width="900" height="598" alt="Tariffs on imports branch into three effects: some factory jobs protected in the short term as imports become dearer; consumers, including protected workers, paying higher prices; and other countries replying with tariffs that cost exporting jobs. The judgement: tariffs may move the problem unless temporary and linked to retraining." loading="lazy">
+  <figcaption>Follow an action to everyone it affects before judging it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-globalisation--06-globalisation-actions.webp" width="900" height="602" alt="A table of five actions with a benefit and drawback each: fair trade labelling, the 2021 OECD agreement on a 15% global minimum tax, tariffs, buy-local campaigns and spreading suppliers across countries. Below, four things to judge any action by: likely effect, who carries it out, cost and side effects." loading="lazy">
+  <figcaption>Every action on globalisation has someone who pays for it.</figcaption>
+</figure>
 
 ## Individual Report ideas
 

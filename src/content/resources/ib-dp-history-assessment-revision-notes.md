@@ -52,6 +52,11 @@ External assessment is 75% at SL and 80% at HL.
 Total 3 + 2 + 4 + 6 + 9 = 24. At 60 minutes for 24 marks, budget about
 2.5 minutes per mark, so Question 4 needs about 22 minutes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-investigation-ia--03-ia-opvl.webp" width="900" height="1000" alt="One source leads to four cards: origin, purpose, value and limitation. Below, the same source is highly valuable for one question and limited for another." loading="lazy">
+  <figcaption>Every source needs origin, purpose, value and limitation, and value depends on the question.</figcaption>
+</figure>
+
 ## How do Paper 2 and Paper 3 work?
 
 - **Paper 2:** 12 world history topics, two questions on each (24 in
@@ -83,6 +88,11 @@ the consequences…", "Evaluate the significance…", "To what extent did
 
 Total 25. A bibliography is required. The teacher marks it and the IB
 moderates a sample.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-investigation-ia--02-ia-question-funnel.webp" width="900" height="1010" alt="A too-broad question about an independence movement is narrowed by adding a named factor, a narrow outcome and precise dates, giving the To what extent did ... form. Three ticks give the reasons it works." loading="lazy">
+  <figcaption>Narrowing a broad topic into an answerable To what extent question.</figcaption>
+</figure>
 
 ## What do the assessment objectives look like in an answer?
 

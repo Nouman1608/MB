@@ -66,6 +66,16 @@ Task: organise the causes of the First World War by timescale.
 
 Notice step 4. Listing causes earns little; explaining how they connect shows the related concept of **causality**, which the brief names as an example related concept.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-warfare-and-peacekeeping--01-wwi-causes-timescale.webp" width="900" height="600" alt="Causes of the First World War in three columns. Long-term: the two alliance blocs, colonial rivalry, arms build-up and Balkan nationalism. Short-term: the July 1914 ultimatum, Austria-Hungary’s declaration of war on Serbia and mobilisation. Trigger: the assassination of Franz Ferdinand on 28 June 1914. The alliances link them into a general war." loading="lazy">
+  <figcaption>Sort causes by timescale, then explain how they connect: that shows causality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-warfare-and-peacekeeping--02-security-dilemma.webp" width="900" height="570" alt="A loop: state A arms to feel safe, so state B feels less safe and arms too, so state A feels less safe and arms again. Both end up less secure." loading="lazy">
+  <figcaption>Arming for safety can make everyone less safe.</figcaption>
+</figure>
+
 ## Types of war
 
 | Type | Meaning | Example |
@@ -108,6 +118,16 @@ Refugees still abroad  = 0.9 − 0.6 = 0.3 million
 
 Interpretation: two in every five people lost their homes, so rebuilding housing is a long-term consequence. Two-thirds of refugees returned within two years, which suggests growing confidence in the peace, but 0.3 million remain abroad. Always add a limitation: return figures depend on who counts people crossing the border.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-warfare-and-peacekeeping--03-versailles-chain.webp" width="900" height="625" alt="A chain: the First World War ends; the Treaty of Versailles of 28 June 1919 limits the German army to 100,000 men and blames Germany in Article 231; resentment helps the Nazis win support; Germany invades Poland on 1 September 1939 and the Second World War in Europe begins." loading="lazy">
+  <figcaption>Versailles was a consequence of one war and a cause of the next.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-warfare-and-peacekeeping--04-displacement-data.webp" width="900" height="500" alt="Sixty squares stand for fictional Norland’s 6.0 million people. Fifteen are internally displaced (1.5 million) and nine were refugees (0.9 million), of whom six returned and three remain abroad. In total 40% were displaced, and 66.7% of refugees returned within two years." loading="lazy">
+  <figcaption>Two in five lost their homes; two-thirds of refugees came back within two years.</figcaption>
+</figure>
+
 ## From the League of Nations to the United Nations
 
 **Collective security** means an attack on one member is treated as an attack on all, so members act together against the aggressor.
@@ -126,6 +146,11 @@ Key parts of the Charter for this topic:
 The Security Council has 15 members: five permanent members with a veto (China, France, Russia, the United Kingdom and the United States) and ten elected for two-year terms. The veto means the UN cannot act against a permanent member or its close allies. During the Cold War this often blocked action.
 
 Chapter VII has been used to authorise force. In June 1950, after North Korea invaded South Korea, the Security Council called on members to help South Korea while the USSR was boycotting the Council. In November 1990 it authorised force to remove Iraq from Kuwait, which Iraq had invaded on 2 August 1990. These are **peace enforcement**, not peacekeeping.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-warfare-and-peacekeeping--05-un-charter-chapters.webp" width="900" height="630" alt="The Security Council, with five veto-holding permanent members and ten elected members, can act under Chapter VI, peaceful settlement, or Chapter VII, sanctions and military force. Peacekeeping sits between them and needs consent. Korea in 1950 and Kuwait in 1990 were peace enforcement under Chapter VII." loading="lazy">
+  <figcaption>From persuasion to enforcement: peacekeeping sits in between, and the veto can block it all.</figcaption>
+</figure>
 
 ## Peacekeeping
 
@@ -148,6 +173,11 @@ Landmark cases:
 
 Rwanda and Srebrenica show the limits of the three principles: impartiality and minimal force do not work when one side sets out to kill civilians. Since the 1990s many missions have been **multidimensional**, with mandates to protect civilians, train police and support elections.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-warfare-and-peacekeeping--06-peacekeeping-principles.webp" width="900" height="733" alt="Three principles: consent of the main parties, impartiality, and no use of force except in self-defence and defence of the mandate. Rwanda in 1994 and Srebrenica in 1995 show their limits when one side targets civilians." loading="lazy">
+  <figcaption>Consent, impartiality and minimal force keep a ceasefire, but cannot stop a side bent on killing.</figcaption>
+</figure>
+
 ## Peacebuilding
 
 The sociologist Johan Galtung distinguished **negative peace** (no fighting) from **positive peace** (the causes of conflict, such as injustice and poverty, have been addressed). Peacekeeping mainly secures negative peace; peacebuilding aims at positive peace.
@@ -162,6 +192,11 @@ UN Secretary-General Boutros Boutros-Ghali's report *An Agenda for Peace* (1992)
 | Post-conflict peacebuilding | Strengthen institutions so war does not return |
 
 Peacebuilding tools include **DDR** (disarmament, demobilisation and reintegration of fighters), rebuilding courts and police, elections, and **transitional justice**. Rwanda used community courts called *gacaca* to try genocide cases; they closed in 2012. The UN set up a Peacebuilding Commission in 2005.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-warfare-and-peacekeeping--07-agenda-for-peace.webp" width="900" height="640" alt="Four stages from An Agenda for Peace (1992): preventive diplomacy, peacemaking, peacekeeping and post-conflict peacebuilding. Peacekeeping mainly secures negative peace, the absence of fighting; peacebuilding aims at positive peace, where causes are addressed, using tools such as DDR, rebuilt courts and police, elections and transitional justice." loading="lazy">
+  <figcaption>Stopping the fighting is negative peace; addressing its causes is positive peace.</figcaption>
+</figure>
 
 ## Concepts and global contexts
 

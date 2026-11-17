@@ -47,6 +47,11 @@ The specification prints Paper 2: Topics in Sociology as a 2 hour written exam w
 
 The assessment objectives are AO1 (knowledge and understanding), AO2 (application) and AO3 (analysis and evaluation). Link each topic to the two core themes: socialisation, culture and identity; and social differentiation, power and stratification. Your teacher will confirm question styles and mark splits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--01-paper-2-structure.webp" width="900" height="534" alt="Paper 2 is a 2-hour written exam worth 80 marks and 33.3% of the A-level. Section A offers Culture and Identity, Families and Households, Health, or Work, Poverty and Welfare; Section B offers Beliefs in Society, Global Development, The Media, or Stratification and Differentiation. Each section is 40 marks of extended writing." loading="lazy">
+  <figcaption>One topic from each option, 40 marks of extended writing in each section.</figcaption>
+</figure>
+
 ## 1. The family, social structure, the economy and the state
 
 **Key terms**
@@ -68,6 +73,16 @@ The assessment objectives are AO1 (knowledge and understanding), AO2 (applicatio
 
 **Worked paragraph.** *Knowledge:* Parsons argued that the nuclear family fits industrial society because workers must move to where jobs are. *Application:* this helps explain why the shift from farming to factories in Britain coincided with smaller, more mobile households. *Analysis:* if fit holds, family structure should follow economic change. *Evaluation:* however, Laslett's evidence that nuclear households were common before industrialisation suggests the nuclear family may have helped industrialisation happen, not the other way round, so Parsons may reverse cause and effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--02-functionalist-marxist.webp" width="900" height="646" alt="A grid comparing functionalist and Marxist views of the family: their main claims, key studies from Murdock, Parsons, Engels and Zaretsky, and the criticisms made of each." loading="lazy">
+  <figcaption>Functionalists see the family serving society; Marxists see it serving capitalism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--03-functional-fit.webp" width="900" height="585" alt="Top chain: for Parsons, industrial society needs a mobile workforce, so the isolated nuclear family replaces the extended family. Bottom chain: Laslett found nuclear households already common before industrialisation, suggesting they may have helped it happen." loading="lazy">
+  <figcaption>Laslett’s evidence suggests Parsons may reverse cause and effect.</figcaption>
+</figure>
+
 ## 2. Marriage, cohabitation, divorce, childbearing, the life course and diversity
 
 **Patterns.** Fewer people marry, and they marry later. Cohabitation is now common, both before marriage and as an alternative to it. Same-sex marriage (2013) and opposite-sex civil partnerships (from December 2019) widened legal choices in England and Wales. Women are having fewer children and having them later, and a large share of births are outside marriage.
@@ -88,6 +103,16 @@ Divorce rose sharply after the Divorce Reform Act 1969 came into force in 1971. 
 
 **Worked paragraph.** *Knowledge:* Chester argued that the neo-conventional family remains the norm. *Application:* a couple who cohabit, both work and later marry is still a nuclear family at one life stage. *Analysis:* snapshot statistics count many people as "non-nuclear" who are only between stages. *Evaluation:* yet the Rapoports show cultural and class diversity that Chester's model does not capture, so "diversity" depends on how you measure it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--04-explaining-divorce.webp" width="900" height="759" alt="Five explanations lead to more divorce: legal change, secularisation and declining stigma, rising expectations of marriage, women’s financial independence, and inequality inside marriage. A note gives the 2022 total of 80,057 divorces." loading="lazy">
+  <figcaption>Legal, cultural and economic changes all help explain rising divorce.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--05-family-diversity.webp" width="900" height="574" alt="Three readings of family diversity. The New Right see the married nuclear family as best; Chester argues diversity is overstated; the Rapoports, Giddens, Beck and Stacey stress diversity and choice. Each has a criticism beneath it." loading="lazy">
+  <figcaption>Whether families are &quot;diverse&quot; depends on how you measure and judge it.</figcaption>
+</figure>
+
 ## 3. Gender roles, domestic labour and power
 
 **Key terms.** *Conjugal roles*: the roles of partners in the home. Bott (1957) separated *segregated* roles from *joint* roles. *Dual burden*: paid work plus housework. *Triple shift*: paid work, housework and emotion work.
@@ -103,6 +128,11 @@ Divorce rose sharply after the Divorce Reform Act 1969 came into force in 1971. 
 *Evaluation.* Time-use surveys can miss who takes responsibility for planning. Liberal feminists see gradual change; radical feminists see patriarchy persisting. Hakim's (2000) preference theory challenges feminists: many women choose home-centred or adaptive lifestyles, so some inequality reflects choice. Feminists reply that these preferences are shaped by limited childcare and lower pay.
 
 **Worked paragraph.** *Knowledge:* Crompton and Lyonette offer a material explanation. *Application:* in a household where the woman earns more, the material view predicts she will do less housework. *Analysis:* if she still does more, cultural norms matter more than income. *Evaluation:* studies of same-sex couples, such as Dunne's, support the cultural view because equality is easier to achieve without gender scripts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--06-domestic-labour.webp" width="900" height="543" alt="March of progress writers, Young and Willmott, Gershuny and Sullivan, see roles becoming more equal; feminists Oakley, Duncombe and Marsden, Edgell and Pahl find persistent inequality. Crompton and Lyonette offer cultural and material explanations." loading="lazy">
+  <figcaption>Evidence of change is set against evidence that women still do more.</figcaption>
+</figure>
 
 ## 4. The nature of childhood and the status of children
 
@@ -120,6 +150,11 @@ Divorce rose sharply after the Divorce Reform Act 1969 came into force in 1971. 
 
 **Worked paragraph.** *Knowledge:* Postman argued that television dissolves the boundary between adulthood and childhood. *Application:* unrestricted phone access gives children adult content. *Analysis:* if the boundary rests on information, the internet should weaken it further. *Evaluation:* however, laws on schooling and child protection have extended childhood, so legally it is longer than ever even if culturally it is blurring.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--07-childhood.webp" width="900" height="625" alt="A timeline of laws that separated children from adults: the 1944 Education Act, the school leaving age raised to 16 in 1972, and the 1989 Children Act and UN Convention. Below, Postman and Palmer argue childhood is disappearing while Opie argues it persists." loading="lazy">
+  <figcaption>Laws have lengthened childhood even as media may blur its boundary.</figcaption>
+</figure>
+
 ## 5. Demographic trends since 1900
 
 **Key terms.** *Birth rate*: live births per 1,000 of the population per year. *Death rate*: deaths per 1,000 per year. *Total fertility rate*: average number of children a woman would have over her lifetime. *Dependency ratio*: dependants (children and older people) compared with the working-age population.
@@ -133,6 +168,11 @@ Divorce rose sharply after the Divorce Reform Act 1969 came into force in 1971. 
 **Migration and globalisation.** After the arrival of the Empire Windrush in 1948, migration from the Caribbean and South Asia added to cultural diversity of families. Cohen (2006) distinguished citizens, denizens and helots. Ehrenreich and Hochschild (2003) described "global care chains", where women migrate to do care work, leaving their own children with relatives. Views of migration's impact are contested: some stress economic and cultural gains, others pressure on services.
 
 **Worked paragraph.** *Knowledge:* the ageing population increases the number of older dependants. *Application:* a "sandwich" carer may look after a parent and a child at once. *Analysis:* this shows a demographic trend reshaping gender roles, since women do most unpaid care. *Evaluation:* yet many older people also give care, for example grandparents doing childcare, so they are not simply a burden.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--08-ageing-population.webp" width="900" height="758" alt="Fewer births and longer lives combine to produce an ageing population, which brings more one-person pensioner households, more care by relatives and a rising dependency ratio." loading="lazy">
+  <figcaption>Lower fertility and longer lives together reshape households and care.</figcaption>
+</figure>
 
 ## Common errors
 

@@ -42,6 +42,11 @@ single question far more often than as three isolated lists — practise tracing
 a soil property affect crop/irrigation choice?) and backwards (from a described erosion problem back
 to the farming decision that likely caused it).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--16-land-ig-feedback-loop.webp" width="900" height="880" alt="A four-step loop. Unsustainable land use causes soil to be lost by erosion; yields fall; farmers are pushed onto marginal, erosion-prone land; and that land use is again unsustainable, so the loop repeats. It is a human-environment feedback loop: land use degrades the resource farming depends on." loading="lazy">
+  <figcaption>Unsustainable land use degrades soil, which pushes farmers onto more marginal, erosion-prone land.</figcaption>
+</figure>
+
 ## 2.1 Soils and crop growth
 
 - **Composition**: mineral particles (sand, silt, clay), organic content, gases, water.
@@ -51,6 +56,16 @@ to the farming decision that likely caused it).
   inorganic content, adequate drainage, easy to cultivate.
 - **Optimum photosynthesis/growth** needs: length of growing season, weather conditions, daylight
   hours.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--17-land-ig-loam.webp" width="900" height="930" alt="A soil cross-section shows the four parts of soil: mineral particles (sand, silt and clay), organic content, air and water in the pore spaces. Loam is a good medium for crop growth because it has the right mix of particles and pore spaces, retains moisture, contains organic content and inorganic ions, drains excess water and is easy to cultivate." loading="lazy">
+  <figcaption>Loam combines the soil parts in a mix that holds moisture, drains and is easy to work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--02-three-ions.webp" width="900" height="725" alt="Three panels. Nitrate (NO3−) supplies nitrogen for proteins and leaf growth; without it plants are stunted with yellowing leaves. Phosphate (PO4 3−) supplies phosphorus for healthy roots; deficiency gives poor roots and purple-tinged leaves. Potassium (K+) is needed for healthy flowers and fruit; deficiency gives yellow leaf edges and poor fruit." loading="lazy">
+  <figcaption>Nitrate for leaves, phosphate for roots, potassium for flowers and fruit.</figcaption>
+</figure>
 
 ## 2.2 Food production and crop yield
 
@@ -68,6 +83,16 @@ agroforestry; fertilisers (inorganic/organic); chemical/biological pest control.
 crops; mismanaged irrigation causing erosion/salinisation; pesticide/fertiliser overuse; nutrient
 exhaustion; deforestation; monoculture-driven biodiversity loss.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--18-land-ig-farm-descriptions.webp" width="900" height="860" alt="Four panels. Arable farms grow crops, pastoral farms rear animals and mixed farms do both. Subsistence farms produce food mainly for the farmer's family; commercial farms produce food for sale. Intensive farming uses high inputs such as labour, capital, fertiliser or machinery to get high yields from a given area. Monoculture is growing a single crop over a large area." loading="lazy">
+  <figcaption>Four ways to describe a farm: what it grows, who eats it, how many inputs, how many crops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-food-production-and-crop-yield--02-strategies-by-mechanism.webp" width="900" height="590" alt="Five columns feed into higher crop yield. Water: trickle irrigation, rainwater harvesting, automated watering. Nutrients: crop rotation with legumes, NPK and organic fertilisers, agroforestry. Pests, weeds and disease: mixed cropping, pesticides, biological control, GMOs. Protect the soil: livestock rotation, agroforestry, mulch. More land, time or control: mechanisation, greenhouses, hydroponics and aeroponics, urban farming." loading="lazy">
+  <figcaption>For each strategy, say what limiting factor it removes.</figcaption>
+</figure>
+
 ## 2.3 Soil erosion
 
 - **Causes**: unsustainable farming, deforestation, farming on steep slopes, bare soil, wind and water
@@ -77,6 +102,21 @@ exhaustion; deforestation; monoculture-driven biodiversity loss.
 - **Strategies to reduce it**: terracing, contour ploughing, bunds, wind breaks, maintaining vegetation
   cover, adding organic matter to improve soil structure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soil-erosion--01-water-and-wind-erosion.webp" width="900" height="735" alt="Left: on a bare slope, raindrops knock soil loose, run-off carries the particles downhill faster on steeper ground, and channels deepen into gullies. Right: on flat, open land with dry, loose, fine soil, strong wind lifts the finest particles, including much of the organic matter, leaving coarser, less fertile soil. Both happen where soil is unprotected by plants." loading="lazy">
+  <figcaption>Water erodes by raindrop impact, run-off and gullies; wind lifts the finest, most fertile particles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soil-erosion--03-field-to-community.webp" width="900" height="645" alt="A chain of impacts: soil erosion removes fertile topsoil, so crop yields fall; where people rely on local harvests this causes malnutrition and famine; people are then displaced to towns or other farmland, spreading the pressure elsewhere." loading="lazy">
+  <figcaption>Erosion → lower yield → malnutrition → displacement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--20-land-ig-slope-strategies.webp" width="900" height="640" alt="A cross-section of a slope shows six strategies to reduce soil erosion: a row of trees as a wind break at the top, terraces cut into the slope, contour ploughing ridges, a bund (a low earth wall), vegetation cover with roots at the bottom, and organic matter added to the soil." loading="lazy">
+  <figcaption>The six syllabus strategies placed on one slope.</figcaption>
+</figure>
+
 ## Worked chain — memorise the shape, not just the facts
 
 A hillside farm near a growing city starts with workable loam (2.1). Population pressure pushes the
@@ -84,6 +124,11 @@ farmer toward monoculture and clears surrounding vegetation to expand cultivatio
 the roots that bound the soil. Heavy rain then washes topsoil into the valley river, silting it
 downstream and cutting next season's yield (2.3) — at which point terracing, contour ploughing or a
 vegetation buffer are the practical fixes examiners expect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--15-land-ig-hillside-farm.webp" width="900" height="1120" alt="Four stages of one hillside farm. 1: loam soil with mixed cropping. 2: population pressure leads to monoculture and clearing of vegetation, which strips the roots that held the soil. 3: heavy rain washes topsoil down the slope into the river, silting it, and the yield falls. 4: practical fixes are terracing, contour ploughing and a vegetation buffer." loading="lazy">
+  <figcaption>A hillside farm: loam, then monoculture and clearing, then erosion, then fixes.</figcaption>
+</figure>
 
 ## Where Topic 2 sits in the wider 0680 syllabus
 
@@ -105,6 +150,11 @@ named in 2.2 — even though both start from the same underlying need to water t
 generate this kind of contrast on demand, rather than only reciting the strategy lists separately,
 signals to an examiner that you understand why a strategy is sustainable rather than just that it is
 labelled as such.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--19-land-ig-sustainable-food.webp" width="900" height="960" alt="Sustainable food production means producing enough food for the present generation using methods that let future generations grow food from the same land. In the sustainable row the field stays fertile across three generations. In the unsustainable row the soil is degraded each generation, so there are fewer plants and less fertile land. The fertility values are illustrative." loading="lazy">
+  <figcaption>Sustainable food production leaves land that future generations can still farm.</figcaption>
+</figure>
 
 ## Command words specific to this topic, and how the two papers differ
 

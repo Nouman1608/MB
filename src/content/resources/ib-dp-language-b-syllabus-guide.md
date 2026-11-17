@@ -81,6 +81,11 @@ ethics, and urban and rural environments. It asks what environmental
 and social challenges the world faces and how they might be overcome,
 and what challenges and benefits globalization brings.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-syllabus-guide--01-five-themes.webp" width="900" height="1058" alt="Five theme panels with their guiding principles and recommended topics: identities, experiences, human ingenuity, social organization and sharing the planet, each with topics such as lifestyles, migration, technology, education and the environment." loading="lazy">
+  <figcaption>Build vocabulary across all five themes, not just the ones you discussed most.</figcaption>
+</figure>
+
 ## What distinguishes SL from HL
 
 The five themes and the assessment **weightings** are identical for SL
@@ -96,6 +101,11 @@ students are not required to do. This has a direct consequence for the
 individual oral: the SL stimulus is a visual image relevant to one of
 the five themes, while the HL stimulus is an excerpt from one of the
 two literary works studied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-syllabus-guide--02-sl-hl-differences.webp" width="900" height="682" alt="A table comparing SL and HL. Paper 1 lasts 1 hour 15 minutes for 250 to 400 words at SL, and 1 hour 30 minutes for 450 to 600 words at HL. Listening is 45 minutes at SL and 1 hour at HL; reading is 1 hour at both. HL studies two literary works, so its oral stimulus is a literary excerpt rather than a visual image, with 20 rather than 15 minutes of preparation." loading="lazy">
+  <figcaption>Same themes and weightings, different durations, word ranges and oral stimulus.</figcaption>
+</figure>
 
 ## Assessment at a glance
 
@@ -129,6 +139,11 @@ skills -- listening and reading comprehension -- worth as much as the
 productive writing task and the internal oral combined, which is easy
 to underestimate when revision time defaults toward practising writing
 and speaking output over comprehension practice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-syllabus-guide--03-assessment-weightings.webp" width="900" height="520" alt="A bar of four equal 25% shares: Paper 1 writing, Paper 2 listening, Paper 2 reading and the individual oral, the same at SL and HL. Paper 2 together is 50%. Below, Paper 2 by raw marks: listening 25 and reading 40, so reading is nearly two-thirds of the raw marks." loading="lazy">
+  <figcaption>Equal weightings hide unequal raw marks: reading needs more practice.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -164,6 +179,11 @@ Language ab initio -- the two share the same five themes and aims, and
 schools choose between them based on how much prior experience of the
 target language their students bring, with Language B intended for
 students who already have some background in it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-syllabus-guide--04-paper-1-text-types.webp" width="900" height="604" alt="Three categories of text type with examples: personal (blog post, diary entry, email or letter to a friend), professional (formal letter, report, essay) and mass media (article, interview, speech). Paper 1 is marked on language, message and conceptual understanding, and the last penalises ignoring text type, register or audience." loading="lazy">
+  <figcaption>Format and register count alongside accurate language.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

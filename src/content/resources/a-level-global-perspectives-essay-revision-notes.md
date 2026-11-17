@@ -42,16 +42,31 @@ Cambridge Research Report (85 marks, A Level only), has its own pages:
   words is **not marked**.
 - Worth 40 marks, externally marked.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-essay--02-essay-rules.webp" width="900" height="580" alt="Six requirements: 1750 to 2000 words with a stated word count; a title phrased as a single question; globally contrasting perspectives rather than a purely local issue; a justified range of sources; a personal, supported conclusion; and full referencing with a list of sources." loading="lazy">
+  <figcaption>Get the format right first: a word-counted essay answering one global question.</figcaption>
+</figure>
+
 ## Choosing the question
 
 - Must be phrased as a **single question**, not a statement or generic topic area.
 - Must create genuine opportunities for **globally contrasting perspectives**.
 - A question focused on an exclusively local or national issue is unlikely to be appropriate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-essay--06-topic-to-question.webp" width="900" height="586" alt="The statement “plastic pollution is a global problem” is a claim, not a question. The better title asks whether developing economies should bear the same responsibility as developed ones for reducing single-use plastic, which opens two perspectives: historical responsibility and manufacturing capacity, against present-day consumption and urgency." loading="lazy">
+  <figcaption>A good title is one question that forces two evidence-based perspectives.</figcaption>
+</figure>
+
 ## Research and sourcing
 
 - Identify and explore context/basis of arguments from different global perspectives.
 - Select a range of sources; **assess and justify why those sources were chosen** — not just cite them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--01-three-jobs.webp" width="900" height="509" alt="Range: sources from more than one place, type and standpoint. Assessment: an informed judgement of how far each source can be trusted, answering “how good is this source?”. Justification: why each key source belongs, answering “why have I used it here?”." loading="lazy">
+  <figcaption>Assessing asks how good a source is; justifying asks why it is in your essay.</figcaption>
+</figure>
 
 ## Evaluation of perspectives
 
@@ -59,10 +74,20 @@ Cambridge Research Report (85 marks, A Level only), has its own pages:
 - Reflect on how alternative perspectives affect your own viewpoint.
 - Reach a **personal, supported conclusion** on the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--03-three-movements.webp" width="900" height="591" alt="A starting view meets the strongest opposing case and ends up strengthened, qualified or reversed. Strengthened means explaining why the opposing argument did not persuade; qualified means the view holds only in some conditions; reversed means naming the argument or evidence that changed it." loading="lazy">
+  <figcaption>Any of the three outcomes counts as reflection, provided you give the reason.</figcaption>
+</figure>
+
 ## Referencing
 
 - Quotations must be fully referenced; a list of sources is required.
 - Referencing accuracy is assessed as part of AO3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--07-word-limit.webp" width="900" height="549" alt="The title, references and citations are not counted in the word limit, but the argument and evaluative sentences about sources are. A sentence or two of evaluation per key source is realistic; a paragraph for every source is not." loading="lazy">
+  <figcaption>References are free; evaluation costs words, so ration it to key sources.</figcaption>
+</figure>
 
 ## Assessment objectives
 
@@ -72,12 +97,22 @@ Cambridge Research Report (85 marks, A Level only), has its own pages:
   research.
 - **AO3**: writing a clear, structured essay with effective referencing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-essay--03-assessment-objectives.webp" width="900" height="512" alt="Three assessment objectives. AO1: analyse the question, build contrasting perspectives, select and justify sources, and compare and evaluate them. AO2: reflect on how other perspectives affect your own view and suggest further research. AO3: write a clear, structured, well-referenced essay." loading="lazy">
+  <figcaption>AO1 is the research and evaluation, AO2 your reflection, AO3 the writing.</figcaption>
+</figure>
+
 ## The role of the teacher
 
 Teachers may lead whole-class background research into a general issue, but each candidate must devise
 their own question individually. Teachers support planning, source citation and word-count discipline
 but must **not** give detailed advice on improving a specific draft to meet the mark scheme, and must
 not correct or edit draft coursework directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-essay--04-teacher-role.webp" width="900" height="375" alt="Teachers may lead whole-class background research and support planning, source citation and word-count discipline. They must not devise the question, give detailed advice on improving a specific draft against the mark scheme, or correct or edit drafts." loading="lazy">
+  <figcaption>The question and the drafting are yours alone.</figcaption>
+</figure>
 
 ## Exam technique for this component
 
@@ -117,6 +152,11 @@ government position paper)? Being explicit about a source's standpoint — rathe
 sources as equally neutral evidence — strengthens both the source-justification marks under AO1 and the
 overall credibility of the essay's argument, since a reader can then judge how much weight a given piece
 of evidence should carry given who produced it and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--06-worked-example.webp" width="900" height="620" alt="For a question on congestion charges, the weak paragraph cites sources but assesses none and calls them all reliable. The strong paragraph assesses the transport authority’s interest against its checkable data, justifies relying more on an independent three-continent study, and uses range across both." loading="lazy">
+  <figcaption>A strong paragraph assesses, justifies and shows range in the same few sentences.</figcaption>
+</figure>
 
 ## Self-test
 

@@ -93,6 +93,21 @@ population, which limits food chain length.
 (organisms to air); decomposition (dead matter to air); fossil fuel formation (buried remains to coal, oil,
 gas); combustion (fuels to air).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--08-eco-habitat-population-community.webp" width="900" height="930" alt="An ecosystem box contains a habitat oval holding three populations of different species; together they make a community. Abiotic factors (light, temperature, water, soil) are shown below with arrows showing they interact with the living part." loading="lazy">
+  <figcaption>An ecosystem is the community of living things plus the non-living environment they interact with.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--09-eco-food-chain-energy-arrows.webp" width="900" height="940" alt="A four-step food chain with arrows pointing from food to eater, labelled producer, primary, secondary and tertiary consumer. All send dead material to decomposers, which return nutrients to the soil for roots to take up. A small panel contrasts the correct arrow direction with the wrong one." loading="lazy">
+  <figcaption>Food-chain arrows point in the direction of energy flow, towards the eater.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--10-eco-energy-transfer-pond.webp" width="900" height="800" alt="Bars to scale show 20,000, 2,000 and 240 kJ per square metre per year in producers and two consumer levels, with 10% and 12% passed on and 18,000 kJ (90%) lost from the producers. Chips name where it goes: heat from respiration, uneaten parts and waste to decomposers." loading="lazy">
+  <figcaption>Only a small share of energy passes to the next trophic level; the rest is lost.</figcaption>
+</figure>
+
 ## 5.2 Forest ecosystems: causes → impacts → management
 
 | Cause | Typical example |
@@ -112,6 +127,11 @@ conserving forests for future generations. Needed because forests regulate clima
 stores), drive the water cycle (interception, uptake, transpiration, less run-off), control floods, prevent
 soil erosion, are a genetic resource, supply food, medicine and raw materials, and support recreation,
 ecotourism and education.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--12-eco-deforestation-flooding.webp" width="900" height="1010" alt="A forested slope with roots holding soil, vapour rising and slow runoff into a clear river is compared with the cleared slope: soil washed down, fast runoff, flooding downstream, less vapour and local rain, and more carbon dioxide." loading="lazy">
+  <figcaption>Clearing forest increases erosion and flooding and releases carbon dioxide.</figcaption>
+</figure>
 
 ## 5.3 Managing biodiversity: protect, store or regulate
 
@@ -147,6 +167,11 @@ countries.
 | Transect | Change across an area | Time-consuming |
 | Aerial photos and drones | Large or inaccessible areas | Cost; cannot see under canopy |
 | Automated sampling | Continuous data, camera traps | Equipment cost and data handling |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--13-eco-quadrat-sampling.webp" width="900" height="900" alt="Ten 1 square metre quadrats at random positions in a 400 square metre meadow hold 4, 7, 3, 6, 5, 9, 2, 4, 8 and 6 daisies. Total 54, mean 5.4 per square metre, estimate 5.4 times 400 equals 2,160." loading="lazy">
+  <figcaption>Sample means scaled up by area give a population estimate; more quadrats make it more reliable.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

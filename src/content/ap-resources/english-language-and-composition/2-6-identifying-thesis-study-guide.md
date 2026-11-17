@@ -55,6 +55,11 @@ Think of a text as a tree. The thesis is the trunk. Each paragraph's claim is a 
 
 Identifying the thesis is a **reading** skill with a second half: you should also describe **any indication the thesis gives of the argument's structure**. Some theses preview the order of the argument ("because of X, Y and Z"). Others do not, and you must work out the structure from the text itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-6-identifying-thesis-study-guide--01-thesis-tree.webp" width="900" height="716" alt="A tree diagram: the thesis is the trunk, each paragraph’s claim is a branch and the evidence is the leaves. A note adds that some theses preview the structure of the argument and others do not." loading="lazy">
+  <figcaption>Find the thesis, then describe what it shows about the argument’s structure.</figcaption>
+</figure>
+
 ## A thesis is not always one sentence, and not always stated
 
 The framework makes two important points that many students overlook.
@@ -71,6 +76,11 @@ Where a thesis *is* directly expressed, it often appears in an introduction or n
 | **Thesis implied** | Never stated; deduced from the whole text. | A satirical essay whose real position is the opposite of the narrator's. |
 | **Thesis across sentences** | Two or three sentences work together. | A claim followed by a qualification. |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-6-identifying-thesis-study-guide--02-where-the-thesis-sits.webp" width="900" height="542" alt="Four page schematics with the thesis highlighted: at the start (thesis first), at the end (thesis last), across the end of one paragraph and the start of the next (across sentences), and nowhere stated but carried by the whole text (implied)." loading="lazy">
+  <figcaption>The thesis may come first, last, across sentences, or only by implication.</figcaption>
+</figure>
+
 ## Thesis versus things that are not the thesis
 
 Test each candidate sentence against these look-alikes.
@@ -86,6 +96,11 @@ Test each candidate sentence against these look-alikes.
 
 A useful test: **a thesis is the sentence that every paragraph, taken together, is trying to prove.** If a sentence only explains one paragraph, it is a sub-claim. If it could be removed without changing the rest of the argument, it is probably not the thesis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-6-identifying-thesis-study-guide--03-thesis-look-alikes.webp" width="900" height="708" alt="The thesis sits in the centre, defined as the sentence every paragraph together tries to prove. Around it are six look-alikes with examples: a topic, a fact, a sub-claim, an announcement, a counterargument and a question." loading="lazy">
+  <figcaption>A thesis is what every paragraph, taken together, is trying to prove.</figcaption>
+</figure>
+
 ## Methods for finding the thesis
 
 1. **Read the introduction and conclusion first.** Writers often state or restate the thesis there.
@@ -100,9 +115,19 @@ A useful test: **a thesis is the sentence that every paragraph, taken together, 
 
 The Declaration of Sentiments, written for the Seneca Falls convention and drafted by Elizabeth Cady Stanton, states its central claim directly: "We hold these truths to be self-evident: that all men and women are created equal." Everything that follows, including the list of grievances and the resolutions, is organised to support this claim and to demand its consequences in law. Note the way the thesis adapts the opening of the Declaration of Independence by adding "and women". That small change is the whole argument in miniature, and a reader who finds it has found the document's thesis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-6-identifying-thesis-study-guide--04-and-women.webp" width="900" height="543" alt="The Declaration of Independence’s “all men are created equal” is set above the Declaration of Sentiments’ “all men and women are created equal”, with “and women” highlighted. Below, the stated thesis is supported by the grievances and resolutions that follow." loading="lazy">
+  <figcaption>Two added words, “and women”, carry the whole argument.</figcaption>
+</figure>
+
 ## A public-domain example of an implied thesis: Swift's "A Modest Proposal" (1729)
 
 Jonathan Swift's essay is a famous case of a thesis that is **never stated**. The narrator calmly proposes that the poor of Ireland should sell their children as food. Read literally, that is the narrator's claim. But a thorough reading, and the context of Irish poverty under English policy and landlord indifference, shows that Swift is satirising proposals made by officials who treat the poor as an economic resource. Near the end the narrator rejects genuine remedies, such as taxing absentee landlords, which signals what Swift believes should happen. The **implied thesis** is something like: *the economic and political arrangements that impoverish Ireland already treat its poor as a commodity, and real reform, not callous projects, is required.* The writer's thesis is the opposite of the narrator's proposal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-6-identifying-thesis-study-guide--05-swift-implied-thesis.webp" width="900" height="496" alt="Two boxes face each other: the narrator calmly proposes that the poor of Ireland sell their children as food; Swift implies that the poor are already treated as a commodity and real reform is needed. Below, context, the satirical target and the rejected remedies reveal the implied thesis." loading="lazy">
+  <figcaption>In satire, the writer’s thesis can be the opposite of the narrator’s proposal.</figcaption>
+</figure>
 
 ## Worked example 1: a delayed thesis (written by Marlbridge)
 
@@ -133,6 +158,11 @@ Jonathan Swift's essay is a famous case of a thesis that is **never stated**. Th
 **Step 4: Indication of structure.** The thesis does not preview the order, but the passage leads readers through a line of reasoning (the loss, the objection, the answer) and then arrives at the thesis: a **thesis-last** structure.
 
 **Result.** Thesis: the council should value trees by their benefits as well as their costs, rather than removing them. The delay lets the writer build the evidence and concede the opponent's point before stating the position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-6-identifying-thesis-study-guide--06-orchard-road-thesis-last.webp" width="900" height="527" alt="The three paragraphs of the Orchard Road passage as a downward flow. Paragraph one sets out the loss, including a fact; paragraph two gives the counterargument and a sub-claim; paragraph three states the thesis that the council should count what trees give as carefully as what they cost." loading="lazy">
+  <figcaption>Summarise each paragraph, then find the claim they all support.</figcaption>
+</figure>
 
 ## Worked example 2: identifying an implied thesis
 

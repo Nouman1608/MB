@@ -1,0 +1,56 @@
+[
+ {
+  "file": "aqa-a-level-law-7162-occupiers-liability--01-five-step-route.webp",
+  "width": 900,
+  "height": 689,
+  "after": "## Step 1: who is the occupier?",
+  "alt": "Five steps: identify the occupier by control (Wheat v Lacon, where brewery and manager were both occupiers); check the premises, including movable structures; classify the claimant as visitor or trespasser at the moment of injury; then apply the 1957 Act common duty of care to visitors, covering injury and property, or the 1984 Act to trespassers, covering personal injury only if the s1(3) conditions are met.",
+  "caption": "Occupier, premises, status, then the right Act.",
+  "bytes": 127466
+ },
+ {
+  "file": "aqa-a-level-law-7162-occupiers-liability--02-visitor-to-trespasser.webp",
+  "width": 900,
+  "height": 592,
+  "after": "## Step 3: is the claimant a visitor or a trespasser?",
+  "alt": "Permission can be implied by long acquiescence (Lowery v Walker), and those entering under a legal right are visitors (s2(6)). Permission is limited by area, time and purpose; exceeding any limit makes a visitor a trespasser, as Scrutton LJ’s banisters remark in The Calgarth shows. In Tomlinson a park visitor became a trespasser by diving into a lake where swimming was banned.",
+  "caption": "Status is fixed at the moment of injury, and permission has limits.",
+  "bytes": 123706
+ },
+ {
+  "file": "aqa-a-level-law-7162-occupiers-liability--03-1957-duty-factors.webp",
+  "width": 900,
+  "height": 488,
+  "after": "## Step 4: the 1957 Act duty to visitors",
+  "alt": "The common duty of care adjusts to the visitor. Children: occupiers must expect less care, so Glasgow Corporation v Taylor and Jolley v Sutton found liability, but in Phipps parents were expected to accompany a five-year-old. Specialists guard against risks of their calling (Roles v Nathan). Warnings must enable safety, and obvious dangers need none (Staples; Darby).",
+  "caption": "Expect more from occupiers towards children, less towards specialists and obvious risks.",
+  "bytes": 132544
+ },
+ {
+  "file": "aqa-a-level-law-7162-occupiers-liability--04-independent-contractors.webp",
+  "width": 900,
+  "height": 485,
+  "after": "## Step 4: the 1957 Act duty to visitors",
+  "alt": "Three checks under s2(4)(b): reasonable to entrust the work, reasonable steps to check competence, and where possible a check that the work was done properly. Haseldine v Daw: not liable for a specialist lift repair. Woodward v Hastings: liable for an icy step anyone could check. Bottomley v Todmorden: liable for hiring an unchecked amateur fireworks team.",
+  "caption": "Technical work can be left to experts; simple work and unchecked hires cannot.",
+  "bytes": 116662
+ },
+ {
+  "file": "aqa-a-level-law-7162-occupiers-liability--05-1984-act-conditions.webp",
+  "width": 900,
+  "height": 595,
+  "after": "## Step 5: the 1984 Act duty to trespassers",
+  "alt": "Three conditions under s1(3), each with a case where it failed: awareness of the danger (Rhind v Astbury Water Park), knowledge that the trespasser may be in the vicinity (Donoghue v Folkestone Properties), and a risk the occupier can reasonably be expected to protect against (Ratcliff; Tomlinson; Keown). If met, the duty under s1(4) can be discharged by warnings (s1(5)) and covers personal injury only (s1(8)).",
+  "caption": "No duty unless all three conditions are met; even then, no property damage.",
+  "bytes": 146870
+ },
+ {
+  "file": "aqa-a-level-law-7162-occupiers-liability--06-ivy-worked-problem.webp",
+  "width": 900,
+  "height": 601,
+  "after": "## Worked problem",
+  "alt": "A checklist for Ivy’s quarry: Ivy is the occupier; Rob is a trespasser under the 1984 Act; she knew of the trolley and that teenagers swam there; a hidden hazard is one she could be expected to protect against; one small sign may not be enough. Rob recovers for injury but not for his phone (s1(8)); contributory negligence may reduce damages.",
+  "caption": "Status and the s1(3) conditions usually decide the claim.",
+  "bytes": 117474
+ }
+]

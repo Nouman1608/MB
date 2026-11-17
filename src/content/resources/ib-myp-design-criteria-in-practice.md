@@ -52,6 +52,16 @@ planning and testing documentation described below, gives a moderator
 no basis to award marks against Criteria A, B or D at all, regardless
 of how well the prototype itself performs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criteria-in-practice--01-four-criteria-scale.webp" width="900" height="700" alt="Four equally weighted criteria: A inquiring and analysing, B developing ideas, C creating the solution and D evaluating. Each is scored from 0 to 8, with levels 1 to 8 in four descriptor bands and level 0 for work below level 1. Design is assessed through an ePortfolio presented as a complete design folder." loading="lazy">
+  <figcaption>Every criterion is worth the same and is marked on the same 0–8 scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criteria-in-practice--02-what-a-moderator-sees.webp" width="900" height="700" alt="Left: a complete design folder with inquiry, specification, planning and process, and testing sections, one for each criterion, plus a prototype photograph. Right: a prototype photograph on its own gives no basis to mark criteria A, B or D and cannot reach the top band for C without a process log." loading="lazy">
+  <figcaption>The documentation at each stage is the evidence; the prototype alone is not.</figcaption>
+</figure>
+
 ## Criterion A: Inquiring and analysing
 
 Top-band evidence identifies a genuine problem needing a solution,
@@ -67,6 +77,11 @@ solutions used elsewhere -- and only then writes a design brief
 grounded in that specific, evidenced analysis of the target audience's
 actual need.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criteria-in-practice--03-criterion-a-investigate-first.webp" width="900" height="750" alt="For a task to reduce food waste in a school canteen, a lower-band response goes straight from the task to a design brief. A top-band response first surveys students and staff, observes canteen practices and researches existing solutions, builds an evidenced analysis of the audience’s need, and only then writes the brief." loading="lazy">
+  <figcaption>The design brief should come after the evidence, not before it.</figcaption>
+</figure>
+
 ## Criterion B: Developing ideas
 
 Top-band evidence writes a detailed, testable design specification
@@ -80,6 +95,11 @@ testable criteria (cost, materials, target-audience appeal), and
 explains specifically why the chosen design best meets the
 specification compared with the rejected alternatives, rather than
 simply asserting that the final choice is best.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criteria-in-practice--04-criterion-b-compare-ideas.webp" width="900" height="820" alt="A testable specification with criteria such as cost, materials and target-audience appeal sits above a grid in which three different ideas are each judged against every criterion. The chosen idea is presented with reasons why it beats the rejected alternatives; presenting only one idea makes comparison impossible." loading="lazy">
+  <figcaption>Top-band development compares several ideas against the specification and justifies the choice.</figcaption>
+</figure>
 
 ## Criterion C: Creating the solution
 
@@ -96,6 +116,11 @@ finished prototype with no record of the process followed to reach it
 cannot demonstrate top-band Creating the solution evidence, regardless
 of how good the final prototype looks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criteria-in-practice--05-criterion-c-process-log.webp" width="900" height="660" alt="Five planned steps are followed in order. At step 3 a material is substituted because of availability, and the log records why the change was made and how it affected the following steps, along with how time, resources and risks were managed. A finished prototype with no process record stays out of the top band." loading="lazy">
+  <figcaption>Criterion C rewards the documented process as much as the prototype.</figcaption>
+</figure>
+
 ## Criterion D: Evaluating
 
 Top-band evidence designs specific, measurable tests against the
@@ -111,6 +136,11 @@ measured food waste by a target amount over a trial period?), reports
 the actual test results honestly even where they fall short of the
 specification, and identifies specific, actionable improvements based
 on that evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criteria-in-practice--06-criterion-d-test-each-point.webp" width="900" height="710" alt="A vague claim that the prototype was successful is rejected. Instead, each specification point gets a measurable test, an honestly reported result and a specific improvement; for the canteen, reducing food waste by a target amount is tested by measuring waste over a trial period. The evaluation ends with the solution’s impact on its client or audience." loading="lazy">
+  <figcaption>Evaluate point by point against the original specification, not with a general verdict.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -129,6 +159,11 @@ stage, ask explicitly which criterion this piece of documentation is
 meant to evidence, and check it against the specific expectations
 described above for that criterion, rather than assuming thorough work
 automatically translates into strong evidence on the page.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criteria-in-practice--07-design-cycle-criteria-map.webp" width="900" height="780" alt="The design cycle runs clockwise through four stages, each mapped to a criterion: inquiring and analysing (the problem stage, A), developing ideas (the specification stage, B), creating the solution (the build stage, C) and evaluating (the test stage, D). At the centre: document as you work, not afterwards." loading="lazy">
+  <figcaption>Moving through the cycle in order structures evidence for all four criteria, if each stage is documented.</figcaption>
+</figure>
 
 ## Common mistakes
 

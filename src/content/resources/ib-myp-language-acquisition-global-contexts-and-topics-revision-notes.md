@@ -65,6 +65,11 @@ Ask your teacher for the topic list your school works from.
 
 Memory hook, in brief order: **I**dentities, **O**rientation, **P**ersonal, **S**cientific, **G**lobalization, **F**airness -- "I Often Pick Six Good Frames".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-global-contexts-and-topics--01-six-contexts-topics.webp" width="900" height="605" alt="Six cards, one per global context, with example topics: friendship and online life; moving house and travel; music, festivals and hobbies; phones, social media and online learning; food waste, recycling and tourism; access to education, volunteering and fair trade." loading="lazy">
+  <figcaption>A context is a lens; topics are what you actually talk about.</figcaption>
+</figure>
+
 ## The five-layer bank
 
 | Layer | Contains | Why it matters |
@@ -78,6 +83,11 @@ Memory hook, in brief order: **I**dentities, **O**rientation, **P**ersonal, **S*
 
 Target: eight to ten items per layer, so roughly 40--50 items per topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-global-contexts-and-topics--03-five-layer-word-bank.webp" width="900" height="750" alt="A word bank for food waste in six layers: core nouns (leftovers, packaging, compost), verbs in phrases (reduce waste, donate surplus food), describing words, opinion and linking phrases, chunks such as “make a difference”, and a scale row with one idea at personal, local and global level." loading="lazy">
+  <figcaption>Nouns alone will not carry you: add verbs, describers, linkers, chunks and scale.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Context vs topic.** "Fairness and development" is a lens; "volunteering" is a topic. Never write the context name as if it were your subject.
@@ -85,6 +95,16 @@ Target: eight to ten items per layer, so roughly 40--50 items per topic.
 - **Receptive vs productive.** Listening and reading need breadth and synonyms; speaking and writing need accuracy and chunks.
 - **Personal vs local vs global.** Personal = your own life; local = your school, town or community; global = beyond your community.
 - **Factual vs conceptual vs debatable question.** Factual has one answer ("What do we recycle at school?"); conceptual explores an idea ("How does advertising shape what we buy?"); debatable has reasonable answers on both sides ("Should plastic bags be banned?").
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-global-contexts-and-topics--02-one-topic-several-lenses.webp" width="900" height="700" alt="Tourism sits at the centre with arrows to three contexts: orientation in space and time (journeys), globalization and sustainability (impact on places) and fairness and development (who benefits). One word bank can be angled towards each." loading="lazy">
+  <figcaption>Build a bank once and angle it towards different contexts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-global-contexts-and-topics--04-receptive-productive.webp" width="900" height="695" alt="A small circle of productive vocabulary, the words you can use in speaking and writing, sits inside a larger circle of receptive vocabulary, the words you recognise in listening and reading. Listening and reading need breadth, including synonyms; speaking and writing need depth and accuracy." loading="lazy">
+  <figcaption>Your receptive bank is always bigger; practise producing to close the gap.</figcaption>
+</figure>
 
 ## Method in steps: build a bank
 
@@ -103,6 +123,11 @@ Target: eight to ten items per layer, so roughly 40--50 items per topic.
 3. **Listening/reading:** predict words and at least two synonyms for each key idea.
 4. **Speaking:** plan one chunk and one opinion phrase for each of personal, local, global.
 5. **Writing:** pick linking phrases for the paragraph plan; upgrade basic verbs from layer 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-global-contexts-and-topics--05-one-bank-four-skills.webp" width="900" height="740" alt="One word bank feeds all four criteria: in listening, predict words and synonyms; in reading, use word families and context and watch for false friends; in speaking, recycle chunks and move from personal to local to global; in writing, use linking phrases, precise verbs and a steady register. The chunk “keep in touch with” is used across them." loading="lazy">
+  <figcaption>The same chunks reused in every skill move from recognised to usable.</figcaption>
+</figure>
 
 ## Chunks that belong in every bank
 

@@ -1,0 +1,8 @@
+{ "page": "a-computer-science-programming-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--10-prog-div-mod-truncate.webp", "after": "## Constructs and operators" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--09-prog-while-repeat.webp", "after": "## Constructs and operators" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--08-prog-exceptions.webp", "after": "## String handling, random numbers and exceptions" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--11-prog-pass-value-reference.webp", "after": "## Subroutines" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--12-prog-stack-frames.webp", "after": "## Recursion" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--13-prog-class-diagram.webp", "after": "## Object-oriented programming" }
+] }

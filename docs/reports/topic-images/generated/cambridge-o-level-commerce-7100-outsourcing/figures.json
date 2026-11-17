@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-o-level-commerce-7100-outsourcing--01-contract-manufacturing-examples.webp",
+  "width": 900,
+  "height": 585,
+  "after": "## Contract manufacturing",
+  "alt": "Three pairs: a juice brand and a bottling plant, a cosmetics company and a laboratory-equipped factory, and an electronics brand and a specialist assembler abroad. In each, the client sends the design and the contractor sends back the goods.",
+  "caption": "The client designs, brands and sells; the contractor makes the goods to its specification.",
+  "bytes": 87900
+ },
+ {
+  "file": "cambridge-o-level-commerce-7100-outsourcing--02-why-contract-manufacturing-grew.webp",
+  "width": 900,
+  "height": 620,
+  "after": "## Contract manufacturing",
+  "alt": "Six reasons each linked to its effect: lower start-up costs, specialist expertise and equipment, economies of scale, flexibility, focus on core activities, and global supply chains with digital communication.",
+  "caption": "Explain why each reason makes contract manufacturing attractive to a client.",
+  "bytes": 114884
+ },
+ {
+  "file": "cambridge-o-level-commerce-7100-outsourcing--03-contract-logistics.webp",
+  "width": 900,
+  "height": 625,
+  "after": "## Contract logistics",
+  "alt": "A provider receives and stores goods, picks and packs orders, delivers them and handles returns, and can arrange export documents and customs with freight forwarders. Four reasons for growth: ecommerce, customer expectations, global trade, and costs that move with sales.",
+  "caption": "Contract logistics covers storage, packing, delivery, returns and documents, not just transport.",
+  "bytes": 104222
+ },
+ {
+  "file": "cambridge-o-level-commerce-7100-outsourcing--04-benefits-and-risks.webp",
+  "width": 900,
+  "height": 580,
+  "after": "## Benefits and risks to judge",
+  "alt": "Five benefits of outsourcing, such as no need to buy factories and lower cost per unit, beside five risks, such as less control over quality, dependence on the contractor and reputation damage.",
+  "caption": "A judgement weighs benefits against risks for the particular product.",
+  "bytes": 115904
+ },
+ {
+  "file": "cambridge-o-level-commerce-7100-outsourcing--05-bloom-box-logistics.webp",
+  "width": 900,
+  "height": 665,
+  "after": "## Worked example: should an online seller outsource logistics?",
+  "alt": "In-house logistics for 2,000 orders costs $8,000 ($4.00 per order) against $7,000 from a provider at $3.50 per order. At 800 orders in-house costs $7,520 ($9.40 per order) against $2,800 from the provider.",
+  "caption": "Mostly fixed in-house costs make outsourcing even cheaper when sales are low.",
+  "bytes": 116120
+ }
+]

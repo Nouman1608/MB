@@ -50,6 +50,11 @@ Because Q1 and Q2 are compulsory, you cannot avoid a sub-topic you
 are weak on if it lands there — breadth across all four sub-topics
 matters more than depth in only two or three.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--01-paper-1-structure.webp" width="900" height="676" alt="Question 1 (three short passages on the Qur'an's themes, write on any two, 8 marks) and Question 2 (history and importance of the Qur'an, 14 marks) are compulsory. Candidates then choose two of Questions 3 to 5, set on the life of the Prophet and the first Islamic community, at 14 marks each." loading="lazy">
+  <figcaption>Two compulsory questions, then two chosen from three: 50 marks in 1 hour 30 minutes.</figcaption>
+</figure>
+
 ## How the marks split — AO1 vs AO2
 
 - **AO1 Recall, select and present** — 68% of the qualification.
@@ -65,6 +70,11 @@ points made" (or other relevant quotations), while the band below says
 answers "may" quote — so a top-band answer characteristically quotes,
 though the descriptor does not make this an absolute rule, and other
 relevant quotations count too, not only Qur'an and Hadith.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--02-assessment-objectives.webp" width="900" height="526" alt="A bar split 68 to 32: AO1, recall, select and present, against AO2, understanding of significance and reasoning. Below, the highest AO1 band is &quot;likely to quote Qur'an verses and Hadiths&quot;, while the band below &quot;may&quot; quote." loading="lazy">
+  <figcaption>Two-thirds of the marks are knowledge; quoting supporting references marks the top band.</figcaption>
+</figure>
 
 ## The Qur'an — key facts
 
@@ -82,6 +92,16 @@ relevant quotations count too, not only Qur'an and Hadith.
   Hafsah's copy reproduced using the dialect of the Quraysh, sent
   official copies to the main centres, and had variant texts
   destroyed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--03-quran-key-facts.webp" width="900" height="462" alt="Four fact tiles: revealed over 23 years (610–632 CE), beginning in the Cave of Hira, through the angel Jibril, in 114 surahs. Below, Makkan surahs are generally shorter and concern tawhid, the afterlife and moral conduct; Madinan surahs are generally longer and concern law, community and social order." loading="lazy">
+  <figcaption>Four numbers and places to know, and the Makkan–Madinan contrast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--04-compiled-then-standardised.webp" width="900" height="520" alt="Two stages. First Abu Bakr compiled the Qur'an after the Battle of Yamama killed many who had memorised it. Later Uthman standardised it, distributing official copies and having variant texts destroyed. A warning box says to keep the stages separate." loading="lazy">
+  <figcaption>Abu Bakr compiled; Uthman standardised. Examiners expect the two kept apart.</figcaption>
+</figure>
 
 ## Themes of the Qur'an
 
@@ -111,6 +131,11 @@ unsupported label scores little.
 630  Conquest of Makkah  -- general amnesty granted
 632  Farewell Sermon; death of the Prophet
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--05-connected-timeline.webp" width="900" height="686" alt="A vertical sequence: first revelation in 610; the Hijra to Madinah in 622, starting the Islamic calendar; the Constitution of Madinah; the pairing of the Muhajirun with the Ansar; the Battles of Badr, Uhud and the Trench; and the Farewell Sermon on equality, the sanctity of life and property, and the abolition of usury and blood feuds." loading="lazy">
+  <figcaption>Place events in relation to one another, not as isolated facts.</figcaption>
+</figure>
 
 ## Key events in Madinah (part of the Prophet's life, 1.3)
 

@@ -62,6 +62,11 @@ Confirm your route with your teacher before you plan your revision.
 The syllabus warns that candidates "may disadvantage themselves" if assignments are significantly over
 or under the word guidance. Aim for the middle of the range, not the edge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-component-5-coursework-study-guide--15-coursework-rules.webp" width="900" height="741" alt="A word scale highlights 600 to 1200 words. Two assignment cards show different texts, at most one a Paper 1 to 3 set text. A chain shows teacher marking, Cambridge moderation and 25 percent of the qualification." loading="lazy">
+  <figcaption>Component 5 is two pieces of 600 to 1200 words on different texts.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | What it means for you |
@@ -119,6 +124,11 @@ A good title is a question, focused on the writer's methods, and narrow enough f
 Note that a poetry or short-story assignment must cover **at least two** poems or stories, but you do
 not have to compare them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-component-5-coursework-study-guide--16-topic-to-question.webp" width="900" height="720" alt="A funnel narrows the topic Dreams in the novel through three gates (asks an argument, focuses on methods, narrow enough) to a question about dreams and the narrator’s loss of control." loading="lazy">
+  <figcaption>Turn a topic into a narrow question that invites an argument.</figcaption>
+</figure>
+
 ## Worked example: improving a paragraph
 
 **Draft:** "In *Great Expectations* Miss Havisham stopped all her clocks, which shows she is sad about
@@ -133,6 +143,16 @@ The revision names a method (symbolic setting, first-person retrospective narrat
 effect (AO3), develops a reading (AO2) and shows personal engagement (AO4), using only a brief
 reference (AO1).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-component-5-coursework-study-guide--17-argument-thread.webp" width="900" height="699" alt="A thesis bar sits above three paragraphs, each a row of Point, Evidence, Analysis and Link, with lines from each Link back to the thesis." loading="lazy">
+  <figcaption>Every paragraph links back to one thesis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-component-5-coursework-study-guide--19-unease-chain.webp" width="900" height="946" alt="A weak route from a dark-house detail to a vague word is crossed out. A stronger route has two methods leading to an effect and then to the task. It is marked as an invented example." loading="lazy">
+  <figcaption>A stronger paragraph names methods, explains the effect and links to the task.</figcaption>
+</figure>
+
 ## Rules you must follow
 
 - Submit your own work. Teachers may not correct or edit drafts; they can give only brief summative
@@ -142,6 +162,16 @@ reference (AO1).
 - Reference any source you use in full (author, publication, date, page; for a website, the address and
   date accessed).
 - Proofread carefully, and keep to the 600–1200 word guidance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-component-5-coursework-study-guide--18-coursework-steps.webp" width="900" height="981" alt="Six numbered stages run from reading and annotating through planning, drafting, revising for argument and editing for expression to checking the word count. A note says the teacher gives general guidance only." loading="lazy">
+  <figcaption>Treat coursework as a project with six stages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-component-5-coursework-study-guide--20-authenticity.webp" width="900" height="897" alt="A list of things that are not your own work (copying or pasting) is set against things that are (a critic’s idea in your own words, the source named, dated drafts kept)." loading="lazy">
+  <figcaption>Submit only your own work and keep dated drafts.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

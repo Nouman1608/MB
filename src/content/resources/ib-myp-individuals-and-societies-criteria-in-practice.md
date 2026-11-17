@@ -44,6 +44,11 @@ source-evaluation task can both generate strong Criterion B evidence
 despite using very different specific methods, provided each
 follows a systematic research question and process.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-criteria-in-practice--01-four-criteria.webp" width="900" height="728" alt="Four rows: A knowing and understanding, B investigating, C communicating and D thinking critically, each with a one-line summary of top-band evidence. The same criteria apply across every discipline in the course." loading="lazy">
+  <figcaption>Four broad criteria, written to work for every discipline in the subject.</figcaption>
+</figure>
+
 ## Criterion A: Knowing and understanding
 
 Top-band evidence develops factual and conceptual knowledge about
@@ -56,6 +61,11 @@ appropriate conceptual framework, such as supply and demand or
 geographic accessibility, to build a reasoned explanation, applying the
 same conceptual knowledge a student would use to analyse an unfamiliar
 trade route they had not specifically studied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-criteria-in-practice--02-criterion-a-framework.webp" width="900" height="605" alt="Three facts, climate, terrain and resources, feed into a conceptual framework such as supply and demand or geographic accessibility, which produces a reasoned explanation of why a trade route developed. A weaker answer only states the facts; a stronger one connects them through the framework." loading="lazy">
+  <figcaption>Facts alone are recall; a conceptual framework turns them into an explanation that transfers.</figcaption>
+</figure>
 
 ## Criterion B: Investigating
 
@@ -74,6 +84,11 @@ firsthand community account -- and explicitly evaluates each source's
 reliability and relevance to the specific research question before
 drawing conclusions from them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-criteria-in-practice--03-criterion-b-investigation.webp" width="900" height="751" alt="A weaker investigation uses one or two easily found sources without comment. A stronger one starts from a clear research question, consults a government report, a news article and a firsthand community account, evaluates each for reliability and relevance, and only then draws conclusions." loading="lazy">
+  <figcaption>A range of source types, each evaluated against the question, before any conclusion.</figcaption>
+</figure>
+
 ## Criterion C: Communicating
 
 Top-band evidence organises, documents and communicates learning
@@ -90,6 +105,11 @@ second demonstrates top-band communication, since the criterion
 assesses how the learning is organised and documented, not simply
 whether the underlying facts are accurate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-criteria-in-practice--04-criterion-c-structure.webp" width="900" height="708" alt="Two responses on the same historical event. One is a chronological list of facts with no structure or referencing. The other builds a clear argument, attaches named, referenced sources to each point and uses period-appropriate terminology." loading="lazy">
+  <figcaption>Accurate facts are not enough: C rewards structure, referencing and precise terminology.</figcaption>
+</figure>
+
 ## Criterion D: Thinking critically
 
 Top-band evidence uses critical-thinking skills to analyse and
@@ -104,6 +124,11 @@ example -- evaluates the strengths and weaknesses of each, and reaches
 a substantiated conclusion about which interpretation the available
 evidence best supports, rather than presenting one interpretation as
 simply correct without comparison.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-criteria-in-practice--05-criterion-d-perspectives.webp" width="900" height="795" alt="Two historical accounts of the same event feed into an evaluation of the strengths and weaknesses of each, which leads to a substantiated conclusion about which interpretation the evidence best supports. A weaker answer presents one interpretation as simply correct." loading="lazy">
+  <figcaption>Top-band D weighs more than one interpretation before reaching a supported judgement.</figcaption>
+</figure>
 
 ## Connecting the four criteria to a single coursework unit
 
@@ -120,6 +145,11 @@ risks missing how naturally the four build on each other within a
 single piece of coursework -- strong Criterion D evaluation, for
 instance, is only possible once the Criterion B research has already
 gathered more than one perspective to weigh.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-criteria-in-practice--06-one-unit-four-criteria.webp" width="900" height="538" alt="A single local-issue investigation runs A, framing the issue with conceptual knowledge, then B, researching it, then C, a structured referenced write-up, then D, a critical evaluation. A dashed arrow shows that strong D evaluation depends on B research having gathered more than one perspective." loading="lazy">
+  <figcaption>The criteria build on each other inside one piece of coursework.</figcaption>
+</figure>
 
 ## How to approach it
 

@@ -57,6 +57,11 @@ Condensed for revision. For the full explanation, use the
 | 7.5 Documentation | Technical and user documentation and their components | Documentation table |
 | 7.6 Evaluation | Efficiency, ease of use, appropriateness; compare with requirements; limitations, improvements, user responses | Evaluation checklist |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--12-slc-cycle.webp" width="900" height="870" alt="Six boxes in a ring joined by clockwise arrows: 1 Analysis (requirements), 2 Design (test plan), 3 Development and testing (test data), 4 Implementation (changeover), 5 Documentation (technical and user) and 6 Evaluation (against the requirements). A gold arrow runs from Evaluation back to Analysis because evaluation can show new problems, which starts the analysis of the next version." loading="lazy">
+  <figcaption>The six stages form a cycle because evaluation can start the next analysis.</figcaption>
+</figure>
+
 ## Key definitions
 
 | Term | Meaning |
@@ -84,6 +89,11 @@ The analyst researches the current system, records how it works and decides what
 | Examining existing documents | Shows the data actually used, the forms and reports | Documents may be out of date or hard to understand |
 
 Analysis checklist (from the syllabus): identify the **inputs**, **outputs** and **processing** of the current system; identify **problems** with it; set the **user and information requirements** for the new system; then **identify and justify hardware and software** (the system specification).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--13-slc-research-methods.webp" width="900" height="950" alt="A table of four research methods with one strength and one weakness each. Observation shows what really happens, but staff may behave differently when watched. Interviews give detailed answers and can be followed up, but they are time-consuming and only a few people can be asked. Questionnaires let many people answer quickly and are easy to analyse, but answers may be short or rushed and the response low. Examining documents shows the data, forms and reports used, but they may be out of date. Analysis ends with a requirements specification." loading="lazy">
+  <figcaption>Each research method has one strength and one weakness.</figcaption>
+</figure>
 
 ## 7.2 What is designed?
 
@@ -121,6 +131,11 @@ Rule: a shoe size field accepts whole numbers from 3 to 12.
 
 After testing with this data the system can be run with **live data** and its results compared with the known results from the old system. If an actual outcome differs from the expected outcome, the test plan records the **remedial action**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--14-slc-test-data.webp" width="900" height="940" alt="A number line from 9 to 18 with the valid range 11 to 16 shaded. Test values: 10 is abnormal and rejected; 11 is extreme and accepted; 13 is normal and accepted; 16 is extreme and accepted; 17 is abnormal and rejected. The word &quot;ten&quot; is abnormal and rejected because it is the wrong data type. Values 10 and 17 are outside the range, so they are abnormal, not extreme." loading="lazy">
+  <figcaption>Values 11 to 16 are accepted; 11 and 16 are extreme, 13 normal, and 10, 17 and &quot;ten&quot; abnormal.</figcaption>
+</figure>
+
 ## 7.4 Which changeover method should be used?
 
 | Method | How it works | Advantage | Disadvantage |
@@ -132,11 +147,21 @@ After testing with this data the system can be run with **live data** and its re
 
 Choose by risk and cost in the scenario: a hospital or bank should avoid direct changeover; a small organisation with low-risk data may use it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--15-slc-changeover.webp" width="900" height="1034" alt="Four timelines, each showing the old system in grey and the new system in teal. Direct changeover: the old system stops and the new one starts at once; cheap and quick but with no fallback. Parallel running: both systems run side by side for a time; safest but costs the most. Phased implementation: parts A, B and C switch to the new system one at a time; problems are limited but the change is slower. Pilot running: one branch switches first while the others wait; only a small part is affected if it fails. The diagram is schematic and not to scale." loading="lazy">
+  <figcaption>Direct, parallel, phased and pilot changeover differ in when old and new systems run.</figcaption>
+</figure>
+
 ## 7.5 What goes in technical and user documentation?
 
 | Technical documentation only | Both | User documentation only |
 |---|---|---|
 | Program listing, program language, program flowcharts/algorithms, system flowcharts, file structures, list of variables, validation routines | Purpose of the system, limitations, hardware and software requirements, input format, output format, sample runs | How to load/run/install, save a file, print data, add, delete or edit records; error messages and error handling; troubleshooting guide/helpline; FAQs; glossary of terms |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--16-slc-documentation.webp" width="900" height="932" alt="Two columns. Technical documentation, for the people who maintain or upgrade the system, includes the purpose of the system, hardware and software requirements, flowcharts, program listings or settings, file structures, input and output formats, validation rules and test results. User documentation, for the people who use the system, includes how to log in, how to use features, example screens, error messages and what to do, troubleshooting tips and frequently asked questions. The content must match the audience." loading="lazy">
+  <figcaption>Technical documentation is for maintainers and user documentation is for users.</figcaption>
+</figure>
 
 ## 7.6 How is a new system evaluated?
 

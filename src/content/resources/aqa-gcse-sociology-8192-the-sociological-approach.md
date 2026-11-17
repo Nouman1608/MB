@@ -61,6 +61,11 @@ Two related ideas help you use these terms. Social control means the formal and 
 
 **Worked example (applying concepts):** *Knowledge:* Norms are learned through socialisation and backed by sanctions. *Application:* A new pupil learns not to call out in class because classmates stare and the teacher gives a warning, an informal and a formal sanction. *Analysis:* This shows secondary socialisation working through two agencies at once. *Evaluation:* However, an interactionist would add that the pupil also interprets the rule and may choose to break it, so socialisation is not a one-way process.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--01-values-norms-socialisation.webp" width="900" height="660" alt="A chain from values, such as honesty, to norms that put them into practice, such as queuing, to sanctions that make people follow them. Below, primary socialisation in the family leads into secondary socialisation through schools, peer groups, religion and mass media, with cards on ascribed and achieved status and roles." loading="lazy">
+  <figcaption>Values become norms, norms are backed by sanctions, and all are learned through socialisation.</figcaption>
+</figure>
+
 ## Debates within sociology: consensus versus conflict
 
 The main debate the specification names is **conflict versus consensus**.
@@ -71,6 +76,16 @@ The main debate the specification names is **conflict versus consensus**.
 A second debate runs through the course: **structure versus agency**. The specification's aims refer to "relationships and tension between social structures and individual agency". Structural theories (functionalism and Marxism) stress how institutions shape people. Interactionism stresses agency, meaning people's ability to interpret situations and make choices.
 
 **Evaluation:** Consensus theories explain stability well but struggle with inequality and rapid change. Conflict theories explain inequality but can overstate division; many people do share values across class and gender lines. Neither label fits interactionism neatly, because it studies small-scale interaction rather than society as a whole.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--02-consensus-conflict.webp" width="900" height="588" alt="Two sides. Consensus approaches, mainly functionalism, see society as resting on shared values, with institutions working like organs of a body. Conflict approaches, Marxism and feminism, see powerful groups shaping institutions for their own benefit. Each has a strength and a limitation; interactionism fits neither." loading="lazy">
+  <figcaption>Consensus theories explain order; conflict theories explain inequality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--03-two-debates-map.webp" width="900" height="710" alt="A grid with consensus on the left and conflict on the right, structure at the top and agency at the bottom. Functionalism sits in consensus and structure, Marxism in conflict and structure, feminism on the conflict side, and interactionism on the agency side, between consensus and conflict." loading="lazy">
+  <figcaption>Place each perspective on two debates: consensus or conflict, and structure or agency.</figcaption>
+</figure>
 
 ## The four perspectives
 
@@ -98,6 +113,11 @@ Interactionists study small-scale, everyday interaction and the meanings people 
 
 **Strengths:** shows how people actively create social life; explains why the same act is treated differently depending on who does it. **Limitations:** says less about where labels come from, so it can overlook the wider structures of class and gender power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--04-four-perspectives.webp" width="900" height="622" alt="Four cards. Functionalism asks what institutions do for society; Marxism sees the bourgeoisie exploiting the proletariat; feminism sees society as patriarchal; interactionism studies meanings and labels. Each lists its writers, a strength and a limitation." loading="lazy">
+  <figcaption>Each perspective asks a different question about society.</figcaption>
+</figure>
+
 ## Durkheim, Marx and Weber in context
 
 The specification asks for a "sense of time and place": where each writer lived, what was changing around them, how that shaped their view of the world, and what they gave to sociology.
@@ -122,6 +142,16 @@ The specification asks for a "sense of time and place": where each writer lived,
 
 **Worked example (classical sociologists):** *Knowledge:* Marx saw class as ownership of the means of production; Weber saw it as market situation. *Application:* In a modern call centre, managers and operators both own nothing, yet managers earn more and have more security. *Analysis:* Weber's idea of market situation explains this difference better than Marx's two-class model. *Evaluation:* Yet a Marxist would note that both groups depend on the owners for their jobs, so the basic division Marx identified still exists.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--05-founders-timeline.webp" width="900" height="660" alt="A timeline from 1820 to 1920. Marx (1818–1883) published the Communist Manifesto in 1848, moved to London in 1849 and published Capital in 1867. Durkheim (1858–1917) in France published The Rules of Sociological Method and set up the first department in 1895, then Suicide in 1897. Weber (1864–1920) in Germany published The Protestant Ethic in 1904–05." loading="lazy">
+  <figcaption>Marx wrote a generation before Durkheim and Weber, in the first industrial capitalist society.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--06-founders-compared.webp" width="900" height="605" alt="A table comparing Durkheim, Marx and Weber by time and place, central idea, contribution and criticism. Durkheim asked what holds society together; Marx saw class struggle driving change; Weber added status, party and three types of authority." loading="lazy">
+  <figcaption>Each founder’s ideas reflect the society he lived in.</figcaption>
+</figure>
+
 ## How sociological ideas change over time
 
 Ideas reflect the period in which they were written. Appendix B gives several examples you can use:
@@ -134,6 +164,11 @@ Ideas reflect the period in which they were written. Appendix B gives several ex
 - Walby (1990) argued that patriarchy has changed from private to public forms.
 
 The general pattern: functionalism was influential in the mid-20th century; conflict and feminist approaches grew from the 1970s; New Right ideas, such as Murray's (1984), challenged both. Each new approach changes how we see the social world.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-sociological-approach--07-ideas-over-time.webp" width="900" height="682" alt="A timeline of studies: Parsons 1959, Willis 1977, Halsey and colleagues 1980, the Rapoports 1982, Murray 1984, Walby 1990 and Devine 1992, each with how its time shaped it. Side bands show functionalism influential in the mid-20th century, conflict and feminist approaches growing from the 1970s, and New Right ideas from Murray." loading="lazy">
+  <figcaption>Every study reflects its time, so ask what has changed since it was written.</figcaption>
+</figure>
 
 ## The interrelationship between the core areas
 

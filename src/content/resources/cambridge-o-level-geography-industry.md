@@ -58,6 +58,11 @@ Waste is part of the system, not an afterthought. It links 3.3 to 3.7
 (environmental risks): untreated waste water, air emissions and solid
 waste are where industrial pollution comes from.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-industry--01-industrial-system.webp" width="900" height="640" alt="Inputs (raw materials or components, energy, labour, capital, land, research and design) go through processes such as refining, cutting, assembling, testing and packaging. Outputs are finished products, by-products, profit and waste (heat, gases, waste water and scrap). Profit feeds back as reinvestment; waste links to environmental risks such as untreated waste water and air emissions." loading="lazy">
+  <figcaption>Every industrial system outputs waste as well as products.</figcaption>
+</figure>
+
 ## Four types of industry
 
 - **Processing**: turning a raw material into a more useful product,
@@ -73,6 +78,11 @@ waste are where industrial pollution comes from.
   microchips, computers, software, pharmaceuticals and aerospace
   equipment. These need highly skilled workers and close links with
   universities and research centres.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-industry--02-types-of-industry.webp" width="900" height="575" alt="Manufacturing, making goods from materials, is drawn as the broad category containing three kinds: processing (refining oil, smelting ore, milling grain, refining sugar), assembly (cars, televisions, phones from parts made elsewhere, needing supply chains and transport) and high technology (microchips, software, pharmaceuticals, aerospace, needing skilled workers and universities)." loading="lazy">
+  <figcaption>Manufacturing is the umbrella; processing, assembly and high tech sit inside it.</figcaption>
+</figure>
 
 ## How each location factor works
 
@@ -110,6 +120,11 @@ waste are where industrial pollution comes from.
 workers and related businesses already exist, and the cluster then
 attracts more firms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-industry--03-location-factors.webp" width="900" height="730" alt="Seven location factors around a factory: land (flat, cheap, room to expand; greenfield or brownfield), labour (low-cost or highly skilled), raw materials (heavy, weight-losing inputs near the source), fuel and power (the national grid makes most industry footloose; smelters seek cheap HEP), transport (ports, motorways, rail, airports), markets (bulky, fragile or perishable goods near customers) and political factors (grants, tax breaks, export processing zones). Agglomeration draws firms to existing clusters." loading="lazy">
+  <figcaption>Each industry weighs the seven factors differently.</figcaption>
+</figure>
+
 ## Worked example 1: choosing a site
 
 An illustrative company plans a sugar refinery and has three possible
@@ -131,6 +146,11 @@ poorest: far from both raw material and port, with expensive land.
 This structure (identify the key factor for this type of industry,
 apply it to the data, reject the alternatives) works for any
 decision-making question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-industry--04-choosing-a-site.webp" width="900" height="670" alt="A schematic plan with cane fields, a port on the coast and an inland city. Site A is 5 km from the fields and 120 km from the port; site B is 90 km from the fields and 10 km from the port; site C is 150 km from both with expensive land. Steps: identify the key factor (bulky, perishable, weight-losing cane), apply it to the data (A is nearest the fields and cheapest), and reject the alternatives." loading="lazy">
+  <figcaption>Find the key factor for this industry, apply it to the data, reject the rest.</figcaption>
+</figure>
 
 ## Worked example 2: an industrial zone case study — Silicon Valley, California
 
@@ -166,6 +186,11 @@ information-technology services (the headquarters of Infosys and Wipro,
 and the Electronic City industrial area), with research institutions
 such as the Indian Institute of Science and a large supply of
 English-speaking graduates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-industry--05-silicon-valley.webp" width="900" height="750" alt="A schematic plan of the southern San Francisco Bay showing Palo Alto (Stanford University, Hewlett-Packard 1939), Mountain View (Google), Cupertino (Apple), Santa Clara (Intel), San Jose and San Francisco with airports. Reasons for the location: labour and research, venture capital, agglomeration, transport and a pleasant climate. Problems: very high housing costs, traffic congestion and inequality." loading="lazy">
+  <figcaption>A high-tech cluster grows from skilled people, capital and agglomeration.</figcaption>
+</figure>
 
 ## Common mistakes
 

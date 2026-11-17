@@ -100,6 +100,21 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-ess-huma
 4. Name the perspectives of at least two stakeholders.
 5. Reach a judgement that answers the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--02-population-pyramid-shapes.webp" width="900" height="685" alt="Three schematic pyramids of males and females by age band. Expanding: a wide base and narrow top from a high birth rate. Stationary: straight sides from low birth and death rates. Contracting: a narrow base and wider middle and top from a birth rate below replacement." loading="lazy">
+  <figcaption>The base shows recent births; the shape records a population’s history.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--05-photochemical-smog.webp" width="900" height="670" alt="Four steps: vehicles emit nitrogen monoxide and VOCs, and NO is oxidised to NO₂; sunlight splits NO₂ into NO and an oxygen atom; the atom joins O₂ to form ozone; VOCs react with nitrogen oxides to form PANs and more ozone. A schematic daily graph shows NO₂ peaking in the morning and ozone in the afternoon." loading="lazy">
+  <figcaption>Ozone is a secondary pollutant: it peaks hours after the rush-hour emissions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--06-thermal-inversion.webp" width="900" height="690" alt="Two valley cross-sections with a city. Normally temperature falls with height, so warm polluted air rises and disperses. In an inversion a warm air layer sits above cool air near the ground; the cool, polluted air cannot rise through it and pollutants are trapped. Small graphs show temperature against height." loading="lazy">
+  <figcaption>Warm air above cool air stops the polluted air near the ground from rising.</figcaption>
+</figure>
+
 ## DTM at a glance
 
 | Stage | Birth rate | Death rate | Why it changes |
@@ -111,6 +126,11 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-ess-huma
 | 5 (proposed) | Below CDR | Low or rising | Ageing population, very low fertility |
 
 Limits of the model: based on European history; assumes birth rates will follow death rates down; ignores migration; no timescale; stage 5 was added later and is not explained by the original model.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--01-demographic-transition-model.webp" width="900" height="690" alt="Graph of birth rate and death rate across five stages. Both are high in stage 1; the death rate falls fast in stage 2 while birth rate stays high, giving rapid growth; birth rate falls in stage 3; both are low in stage 4; in proposed stage 5 the birth rate drops below the death rate and the population declines." loading="lazy">
+  <figcaption>The gap between birth and death rates is natural increase; it widens, then closes.</figcaption>
+</figure>
 
 ## Urban system in one box
 
@@ -131,6 +151,16 @@ A city is an **open system** that relies on land far beyond its boundary, so its
 
 **Urban heat island causes**: dark surfaces absorb and store heat; waste heat from vehicles, buildings and air conditioning; less vegetation, so less evapotranspiration; tall buildings trap heat and reduce wind.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--03-city-as-system.webp" width="900" height="690" alt="Systems diagram of a city. Inputs of food, water, energy, building materials, goods and people flow in; buildings, infrastructure, people and goods are stored; outputs of solid waste, sewage, air pollutants, greenhouse gases, waste heat, goods and services and people flow out." loading="lazy">
+  <figcaption>A city depends on inputs from far beyond its boundary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--04-urban-heat-island.webp" width="900" height="690" alt="Cross-section from countryside through a city centre of tall buildings and back. A temperature line rises from the rural edges to a peak over the centre. Four causes are labelled: dark surfaces, waste heat, less vegetation and evapotranspiration, and tall buildings that trap heat and reduce wind." loading="lazy">
+  <figcaption>Cities run warmer than the countryside, especially at night.</figcaption>
+</figure>
+
 ## Managing urban air pollution
 
 | Level | Strategy | Main limitation |
@@ -142,6 +172,11 @@ A city is an **open system** that relies on land far beyond its boundary, so its
 | Control release | Scrubbers on power stations and factories | High cost for the operator |
 | Clean-up | Street trees, green walls | Small effect on city-wide concentrations |
 | Clean-up | Air quality alerts | Protects people but does not reduce pollution |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--07-managing-urban-air-pollution.webp" width="900" height="685" alt="Three stacked levels. Altering the human activity, such as public transport and renewable electricity, tackles the cause but is slow. Controlling release, such as catalytic converters and low-emission zones, is faster but needs enforcement. Clean-up, such as street trees and air quality alerts, is weakest for air because pollutants disperse." loading="lazy">
+  <figcaption>Changing the activity tackles the cause; clean-up is weakest for air.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

@@ -1,0 +1,56 @@
+[
+ {
+  "file": "a-level-cambridge-global-perspectives-written-exam--01-routes.webp",
+  "width": 900,
+  "height": 590,
+  "after": "## Where this fits in 9239",
+  "alt": "Three routes: AS Level only, taking Components 1 to 3 in one series; A Level staged, with Components 1 to 3 in Year 1 and Component 4 in Year 2; or the full A Level in a single series. Component 4, the Cambridge Research Report, is worth 85 marks, half the full A Level.",
+  "caption": "Component 4 is the only thing separating the full A Level from the AS.",
+  "bytes": 65134
+ },
+ {
+  "file": "a-level-cambridge-global-perspectives-written-exam--02-critical-path.webp",
+  "width": 900,
+  "height": 555,
+  "after": "## How to approach it",
+  "alt": "The four Critical Path stages: deconstruction, reconstruction, reflection, and communication and collaboration. The Written Exam uses deconstruction, reconstruction and communication, but not reflection or collaboration, since it is individual and AO2 Reflection is weighted 0%.",
+  "caption": "Three stages apply in the exam: take arguments apart, rebuild perspectives, communicate clearly.",
+  "bytes": 85798
+ },
+ {
+  "file": "a-level-cambridge-global-perspectives-written-exam--03-argument-parts.webp",
+  "width": 900,
+  "height": 503,
+  "after": "## Deconstructing an argument",
+  "alt": "An argument broken into the syllabus’s five parts: a conclusion supported by reasons (premises), evidence, assumptions both stated and unstated, and assertions and counter-assertions.",
+  "caption": "Name the five parts first; judge them second.",
+  "bytes": 78886
+ },
+ {
+  "file": "a-level-cambridge-global-perspectives-written-exam--04-reasoning-flaws.webp",
+  "width": 900,
+  "height": 603,
+  "after": "## Deconstructing an argument",
+  "alt": "Seven structural weaknesses: hasty generalisation, false cause (including confounding variables and reverse causation), false dichotomy, ad hominem, appeal to authority, circular reasoning and straw man, each with a one-line definition.",
+  "caption": "Look for weak structure, not a conclusion you dislike.",
+  "bytes": 105622
+ },
+ {
+  "file": "a-level-cambridge-global-perspectives-written-exam--05-evaluating-evidence.webp",
+  "width": 900,
+  "height": 585,
+  "after": "## Evaluating evidence",
+  "alt": "Five tests for evidence: provenance, methodology, currency, corroboration and sufficiency. Below, a rise from 2 cases to 4 is a 100% increase but almost meaningless, showing how percentages can hide small absolute numbers.",
+  "caption": "Ask whether the evidence can carry the claim, and check the numbers behind any percentage.",
+  "bytes": 77604
+ },
+ {
+  "file": "a-level-cambridge-global-perspectives-written-exam--06-worked-example.webp",
+  "width": 900,
+  "height": 740,
+  "after": "## Worked example",
+  "alt": "The argument that more education spending will raise national income rests only on a correlation. The causal arrow could run in reverse, since richer countries can afford more education, or a confounding variable such as governance, stability or infrastructure could drive both. It also oversimplifies and lacks data on timescale or size of effect.",
+  "caption": "Name the flaw and show why it breaks the step from evidence to conclusion.",
+  "bytes": 118372
+ }
+]

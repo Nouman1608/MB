@@ -52,6 +52,11 @@ Condensed recall for **1.4 The human impact** on drainage basins: flood risk and
 
 People also change the drainage basin in other ways: dams and reservoirs store water and even out flow downstream; abstraction for irrigation, industry and homes lowers flows and water tables; and climate change may make intense rainfall more frequent. Not every human impact raises flood risk: reservoirs and afforestation lower it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--06-urban-flood.webp" width="900" height="900" alt="Two cross-sections, not to scale. On green land most rain soaks in and the river stays low. On built-up land most rain runs off, drains are overloaded and the river floods." loading="lazy">
+  <figcaption>Impermeable surfaces send more rain to the river.</figcaption>
+</figure>
+
 ## Physical causes alongside human ones
 
 Prolonged or intense rainfall, rapid snowmelt, saturated or frozen ground, steep slopes and impermeable rock all raise flood risk. A flood usually happens when several of these combine, and human changes then make the response faster or put more people in the way.
@@ -73,6 +78,11 @@ Prolonged or intense rainfall, rapid snowmelt, saturated or frozen ground, steep
 | Property-level protection and insurance | Soft | Reduces damage; spreads cost | Insurance can be unaffordable in high-risk areas |
 
 **The levée effect:** building defences encourages more development behind them. When an extreme flood overtops the defences, losses are greater than if the land had been left undeveloped.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--11-w-flood-defences.webp" width="900" height="1020" alt="A schematic river valley showing three approaches to flood mitigation. Soft engineering: afforestation on the valley side (1) and a wetland or washland on the floodplain (2). Hard engineering: embankments or levees beside the river (3), a flood wall (4) and a dam with a reservoir (5). Adaptation and preparedness: a flood-proofed house (6)." loading="lazy">
+  <figcaption>Soft engineering works with natural processes, hard engineering builds structures, and adaptation prepares people and buildings.</figcaption>
+</figure>
 
 ## Required case study
 

@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-igcse-environmental-management-0680-fieldwork-investigations--01-scientific-method.webp",
+  "width": 900,
+  "height": 520,
+  "after": "## The scientific method, step by step (5.4.1)",
+  "alt": "A snaking flow of nine numbered stages: aims and hypotheses, plan methods, measured and control variables, independent and dependent variables, repeats and replicates, record data, analyse data, identify anomalies, and form conclusions.",
+  "caption": "Each stage of the scientific method feeds the next, from hypothesis to conclusion.",
+  "bytes": 107376
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-fieldwork-investigations--02-variables.webp",
+  "width": 900,
+  "height": 646,
+  "after": "## The scientific method, step by step (5.4.1)",
+  "alt": "Habitat type, the independent variable, affects the number of beetles, the dependent variable. Trap size, time left out and time of day are control variables kept the same. Below, repeats are measurements taken again; replicates are extra samples at different places.",
+  "caption": "Change one variable, measure one, and keep the rest the same.",
+  "bytes": 103814
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-fieldwork-investigations--03-random-systematic.webp",
+  "width": 900,
+  "height": 706,
+  "after": "## Sampling strategies (5.4.2 and 5.4.3)",
+  "alt": "Left: a grid laid out with two tape measures, with quadrats at randomly chosen coordinates. Right: a transect at right angles to a footpath with a 0.5 m quadrat every 2 m, sampling the gradient away from the path.",
+  "caption": "Random for comparing similar areas; systematic for change along a gradient.",
+  "bytes": 74418
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-fieldwork-investigations--04-sampling-techniques.webp",
+  "width": 900,
+  "height": 574,
+  "after": "## Sampling techniques (5.4.4 and 5.4.5)",
+  "alt": "Seven cards with simple drawings: a pitfall trap for ground beetles, a pooter for very small invertebrates, a sweep net for insects in long grass, a quadrat for plants, a transect for gradients, a drone for herds and vegetation cover, and a camera trap for shy or night-active animals.",
+  "caption": "Pick the technique that fits the organism and where it lives.",
+  "bytes": 82214
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-fieldwork-investigations--05-anomaly-mean.webp",
+  "width": 900,
+  "height": 625,
+  "after": "## Worked example 1: an anomaly and a mean",
+  "alt": "Bar chart of beetles in five pitfall traps: 4, 6, 5, 21 and 5. The value 21 is marked as an anomaly. A dashed line shows the mean including it, 8.2; a solid line shows the mean excluding it, 5.0.",
+  "caption": "One anomaly can drag a mean far from the typical value.",
+  "bytes": 54444
+ }
+]

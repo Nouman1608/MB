@@ -1,0 +1,10 @@
+{ "page": "igcse-commerce-production-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--08-cp-sectors.webp", "after": "## Production and commerce" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--12-cp-commerce-tree.webp", "after": "## Production and commerce" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--02-specialisation-grid.webp", "after": "## Specialisation" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--10-cp-intermediaries.webp", "after": "## The chain of production" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--03-wholesaler-transactions.webp", "after": "## Functions of the wholesaler" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--02-home-and-international-trade.webp", "after": "## Foreign trade" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--03-aids-remove-barriers.webp", "after": "## Aids to trade" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--13-cp-aids-ice-cream.webp", "after": "## Aids to trade" }
+] }

@@ -73,6 +73,11 @@ traversals or Dijkstra unless a question gives you one.
 **Trace tip:** keep three columns -- current node, queue/stack contents, visited list. When neighbours
 are equal choices, the question normally tells you an order (e.g. alphabetical); follow it exactly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--01-alg-bfs-dfs.webp" width="900" height="940" alt="The same seven-node graph (illustrative) traversed from A two ways. Breadth-first search uses a queue and visits A B C D E F G level by level. Depth-first search uses a stack and visits A B D C E G F, going deep before backtracking. After A and B are visited the queue and the stack both hold C and D, but the queue next releases C and the stack next releases D." loading="lazy">
+  <figcaption>Breadth-first search takes the front of a queue; depth-first search takes the top of a stack.</figcaption>
+</figure>
+
 ## Tree traversal: which order outputs what?
 
 For each node, the three traversals differ only in **when the node itself is output**:
@@ -85,6 +90,11 @@ For each node, the three traversals differ only in **when the node itself is out
 
 **Dot method:** draw the outline round the tree anticlockwise from the root. Output a node as you pass its
 **left** side (pre-order), its **underneath** (in-order) or its **right** side (post-order).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--02-alg-tree-traversal.webp" width="900" height="1030" alt="An illustrative binary search tree with root 40, children 20 and 60 and leaves 10, 30, 50 and 70, drawn three times with nodes numbered in visiting order. Pre-order gives 40 20 10 30 60 50 70 (copying a tree), in-order gives 10 20 30 40 50 60 70 (ascending order) and post-order gives 10 30 20 50 70 60 40 (postfix expressions, emptying a tree)." loading="lazy">
+  <figcaption>In-order traversal of a binary search tree always comes out in ascending order.</figcaption>
+</figure>
 
 ## Reverse Polish notation (RPN)
 
@@ -114,6 +124,11 @@ Token  Stack after
 
 Order matters for `-` and `/`: in `8 2 /` the result is 8 / 2 = 4, not 2 / 8.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--03-alg-rpn.webp" width="900" height="1092" alt="Converting (3 + 4) * 2 to RPN with an operator stack: the table shows each symbol read, the output so far and the operator stack, ending with 3 4 + 2 *. Below, evaluating 3 4 + 2 * with a number stack: push 3, push 4, plus gives 7, push 2, multiply gives 14." loading="lazy">
+  <figcaption>RPN needs no brackets and is evaluated left to right with a stack.</figcaption>
+</figure>
+
 ## Searching: what to say about each
 
 - **Linear search** checks each item in turn until found or the list ends. Worst case n comparisons -> O(n).
@@ -123,6 +138,11 @@ Order matters for `-` and `/`: in `8 2 /` the result is 8 / 2 = 4, not 2 / 8.
 - **Binary tree search** starts at the root and goes left if the target is smaller, right if larger.
   O(log n) assumes a reasonably balanced tree.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--04-alg-search.webp" width="900" height="1020" alt="Finding 34 in the sorted list 3, 8, 12, 17, 21, 26, 34, 41 (illustrative). Linear search checks seven items in turn. Binary search checks the middle item three times (17, 26, then 34), halving the search area each time, but only works because the list is sorted. For 1,024 sorted items linear search needs up to 1,024 checks and binary search at most 11." loading="lazy">
+  <figcaption>Binary search is much faster than linear search, but only on sorted data.</figcaption>
+</figure>
+
 ## Sorting: bubble sort versus merge sort
 
 - **Bubble sort** passes through the list comparing adjacent pairs and swapping them if out of order. After
@@ -130,6 +150,16 @@ Order matters for `-` and `/`: in `8 2 /` the result is 8 / 2 = 4, not 2 / 8.
   O(n²). A common improvement stops early if a pass makes no swaps.
 - **Merge sort** splits the list in half repeatedly until each sub-list has one item, then **merges** pairs
   of sorted sub-lists. There are about log n levels of splitting and each level merges n items -> O(n log n).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--05-alg-bubble-sort.webp" width="900" height="956" alt="Bubble sort on 6, 3, 5, 1, 4, 2 (illustrative) shown after each pass, with the values already in their final place at the end. Six items need five passes and 15 comparisons. Comparisons grow with the square of the number of items: 15 for 6 items, 66 for 12 and 276 for 24, so the time complexity is O(n squared)." loading="lazy">
+  <figcaption>Bubble sort is O(n²): doubling the number of items roughly quadruples the comparisons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--06-alg-merge-sort.webp" width="900" height="904" alt="Merge sort on 6, 3, 7, 1, 8, 2, 5, 4 (illustrative). The list is divided into two fours, four twos and eight single items, then merged back through four sorted pairs and two sorted fours into one sorted list 1 to 8. Three levels of splitting and three of merging give n log n growth: 24 for 8 items, against 64 for n squared." loading="lazy">
+  <figcaption>Merge sort repeatedly halves the problem, which is why it reaches O(n log n).</figcaption>
+</figure>
 
 ## Dijkstra's shortest path algorithm
 
@@ -143,6 +173,11 @@ Finds the shortest path from **one start node to every other node** in a weighte
 
 You will be given the algorithm or a table to fill in; the marks come from **tracing it accurately**.
 Applications include route finding in satellite navigation and routing packets across a network.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--07-alg-dijkstra.webp" width="900" height="850" alt="A weighted graph with nodes A to F (illustrative): A-B 4, A-C 2, B-C 1, B-D 5, C-D 8, C-E 10, D-E 2, D-F 6, E-F 3. From A the algorithm fixes nodes in the order A, C, B, D, E, F with shortest distances 0, 2, 3, 8, 10, 13. The shortest route from A to F is A, C, B, D, E, F with total 13." loading="lazy">
+  <figcaption>Dijkstra's algorithm fixes the closest unfixed node each time and updates its neighbours' distances.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

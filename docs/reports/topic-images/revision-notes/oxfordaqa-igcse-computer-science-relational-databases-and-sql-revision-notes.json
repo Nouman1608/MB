@@ -1,0 +1,9 @@
+{ "page": "oxfordaqa-igcse-computer-science-relational-databases-and-sql-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--01-table-terms.webp", "after": "## Key terms"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--02-keys-link.webp", "after": "## Key terms"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--03-redundancy.webp", "after": "## Why use a relational database?"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--04-where-comparison.webp", "after": "### Retrieving data: SELECT ... FROM ... WHERE"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--05-where-and.webp", "after": "### Retrieving data: SELECT ... FROM ... WHERE"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--06-two-table-query.webp", "after": "### Retrieving data: SELECT ... FROM ... WHERE"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--07-change-data.webp", "after": "### Changing data"}
+] }

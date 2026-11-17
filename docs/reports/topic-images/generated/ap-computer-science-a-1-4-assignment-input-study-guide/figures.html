@@ -1,0 +1,49 @@
+<!-- Figures for ap-computer-science-a-1-4-assignment-input-study-guide. Upload the .webp files to https://img.marlbridge.com/ and paste each block after the heading shown. -->
+
+<!-- place after: ## Assignment: evaluate on the right, store on the left -->
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--01-evaluate-then-store.webp" width="900" height="634" alt="The statement a = a * b; with the right side marked &quot;evaluate first&quot; and the left variable marked &quot;store here&quot;. Before, a holds 3 and b holds 5; the right side 3 * 5 evaluates to the int 15; after, a holds 15 and b still holds 5." loading="lazy">
+  <figcaption>The right side is evaluated with the current values, then the result replaces the left variable.</figcaption>
+</figure>
+
+<!-- place after: ## Assignment: evaluate on the right, store on the left -->
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--02-trace-table.webp" width="900" height="588" alt="A four-line Java segment and its trace table. a is set to 3, b to a + 2 = 5, then a becomes a * b = 15, and finally b becomes b - a = 5 - 15 = -10, so the program prints 15 -10. In each row only the left-hand variable changes." loading="lazy">
+  <figcaption>One row per statement, and each statement changes only the variable on its left.</figcaption>
+</figure>
+
+<!-- place after: ### An expression has a value and a type -->
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--03-type-compatibility.webp" width="900" height="702" alt="A grid of value types against variable types. An int value can be stored in an int or a double variable, where 5 becomes 5.0; a double value only in a double variable, even if it looks whole; a boolean value only in a boolean variable. Below: double d = a + 2; compiles, int n = 2.5 * 2; does not." loading="lazy">
+  <figcaption>The compiler checks the type of the value, not whether it looks like a whole number.</figcaption>
+</figure>
+
+<!-- place after: ### Initialization: a variable must have a value before it is used -->
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--04-initialization-and-null.webp" width="900" height="796" alt="Top: int y; declares y with no value, so int z = y + 1; fails with &quot;variable y might not have been initialized&quot;. Bottom: the String variable title holds an arrow to a String object &quot;Dune&quot;, while empty holds null and refers to no object; primitives cannot hold null, and &quot;&quot; is a real empty String." loading="lazy">
+  <figcaption>A variable must be given a value before use, and null means no object at all.</figcaption>
+</figure>
+
+<!-- place after: ## Input: getting values from a user -->
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--05-scanner-input-to-variables.webp" width="900" height="884" alt="Three lines of keyboard input, &quot;Ada Lovelace&quot;, 36 and 1.65, each followed by an end-of-line marker. Each Scanner call reads one item and its value is assigned to a variable: name holds &quot;Ada Lovelace&quot;, age holds 36 and height holds 1.65. A table lists nextInt, nextDouble, nextBoolean, next and nextLine." loading="lazy">
+  <figcaption>Each Scanner call is an expression whose value is stored by an assignment.</figcaption>
+</figure>
+
+<!-- place after: ### The `nextLine` pitfall -->
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--06-nextline-pitfall.webp" width="900" height="718" alt="The input 5, end-of-line, hello, end-of-line, with a read position marker. nextInt() reads 5 and stops before the end-of-line. The first nextLine() reads the empty rest of that line, so rest is the empty string. The second nextLine() reads hello. The program prints [] then [hello]." loading="lazy">
+  <figcaption>nextInt() leaves the end-of-line behind, so the next nextLine() returns an empty string.</figcaption>
+</figure>
+
+<!-- place after: ## A reliable method for tracing assignments -->
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--07-tracing-mixed-types.webp" width="900" height="711" alt="Four tracing moves: a column per variable with its type, one statement at a time, right side first, overwrite only the left. Applied to worked example 1, items goes 4 then 5, price goes 2.5 then 5.0, and cost goes 10.0 then 22.5, so the program prints 5 5.0 22.5." loading="lazy">
+  <figcaption>Columns, one row per statement, right side first: the output is 5 5.0 22.5.</figcaption>
+</figure>
+
+<!-- place after: ## Worked example 2: A program driven by input -->
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--08-rectangle-flowchart.webp" width="900" height="888" alt="Flowchart of the rectangle program. Two input steps read 4.5 into length and 3 into width as 3.0; area = length * width gives 13.5; perimeter = 2 * (length + width) evaluates the bracket to 7.5 then gives 15.0; the program prints Area: 13.5 and Perimeter: 15.0." loading="lazy">
+  <figcaption>Read, compute, print: every variable is assigned before it is used.</figcaption>
+</figure>

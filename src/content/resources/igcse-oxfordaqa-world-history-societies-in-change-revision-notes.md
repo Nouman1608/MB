@@ -41,6 +41,11 @@ featured: false
 | 3 | 9 | TWO ways or changes, each with its own developed paragraph |
 | 4 | 12 | The given factor + at least one other, explained, then a judgement on which mattered more and why |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-societies-in-change-study-guide--16-oa-exam.webp" width="900" height="770" alt="A bar for Paper 2 shows 60 marks in 1 hour 45 minutes, half Section A and half Section B. Four bars for Section A questions are scaled to marks: Q1 3 marks shows knowledge of a given issue; Q2 6 marks explains one way an issue developed; Q3 9 marks explains two changes or reasons; Q4 12 marks explains a given factor and another then judges their importance. The marks add to 30. Point, Evidence, Explain is the suggested structure." loading="lazy">
+  <figcaption>Marks, tasks and the Point-Evidence-Explain structure for Section A.</figcaption>
+</figure>
+
 ## Germany, 1919-1949: groups and experiences
 
 | Group | Weimar (1919-33) | Nazi (1933-45) | Post-war (1945-49) |
@@ -54,6 +59,16 @@ featured: false
 
 **Dates:** 1919 Spartacists; 1920 Kapp; 1923 Ruhr, hyperinflation, Munich Putsch; 1924 Dawes; 1929 Young Plan; 1933 Hitler Chancellor, Enabling Act; 1935 Nuremberg Laws; 1938 Kristallnacht; 1942 Wannsee; 1944 bomb plot; 1945 defeat and zones; 1948-49 Berlin Blockade; 1949 FRG and GDR.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-societies-in-change-study-guide--19-oa-germany-timeline.webp" width="900" height="1155" alt="A vertical timeline from 1919 to 1949, spaced by year, with three phases: Weimar Germany to 1933, Hitler’s Germany 1933 to 1945 and post-war Germany 1945 to 1949. Events: the Kapp Putsch in 1920; the Munich Putsch and hyperinflation in 1923; Hitler becomes Chancellor in 1933; the July 1944 bomb plot; the regime collapses in 1945; the Berlin Blockade and airlift in 1948 to 49; the Federal Republic and the GDR created in 1949." loading="lazy">
+  <figcaption>Dated events in Germany from 1919 to 1949 against the three parts of the option.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-societies-in-change-study-guide--18-oa-weimar-groups.webp" width="900" height="740" alt="Two panels. 1923 hyperinflation: savers, pensioners and the elderly were ruined; some big businesses and landowners with debts gained. Under Stresemann: farmers struggled, while women gained the vote and new chances, workers saw wages rise, and Jewish Germans played a full part in cultural life." loading="lazy">
+  <figcaption>The same events affected different groups in different ways.</figcaption>
+</figure>
+
 ## Russia and the USSR, 1914-1953: groups and experiences
 
 | Group | 1914-24 | 1924-41 | 1941-53 |
@@ -66,6 +81,16 @@ featured: false
 
 **Dates:** 1917 abdication and Bolshevik revolution; 1918-21 Civil War; 1921 Kronstadt, NEP; 1924 Lenin dies; 1928 First Five-Year Plan; 1929 collectivisation; 1932-33 Holodomor; 1936-38 Great Terror; 1941 German invasion; 1945 victory; 1953 Stalin dies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-societies-in-change-study-guide--20-oa-russia-timeline.webp" width="900" height="1260" alt="A vertical timeline from 1914 to 1953 with three phases: Tsardom to Communism 1914 to 1924, Stalin’s dictatorship 1924 to 1941, and the Great Patriotic War and late Stalinism 1941 to 1953. Events: war brings defeats and shortages from 1914; the Tsar abdicates in 1917; the Holodomor famine in Ukraine in 1932 to 33; the Great Patriotic War from 1941; Stalin dies in 1953." loading="lazy">
+  <figcaption>Dated events in Russia and the USSR against the three parts of the option.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-societies-in-change-study-guide--17-oa-q4-plan.webp" width="900" height="784" alt="A plan for the 12-mark question about collectivisation and Russian peasants. Three rows: the given factor, collectivisation, with ended private farming, kulaks deported, grain quotas and the Holodomor; another factor, the Five-Year Plans, which drew millions of peasants into city factories; and a third, persecution of religion, with closed churches and arrested priests. An arrow leads to the judgement that collectivisation was the main reason because it changed every peasant’s land, food and work and the others followed from it." loading="lazy">
+  <figcaption>The lesson’s question 4 plan: given factor, two others, then a judgement.</figcaption>
+</figure>
+
 ## USA, 1920-1968: groups and experiences
 
 | Group | 1920s | 1929-45 | 1945-68 |
@@ -77,6 +102,11 @@ featured: false
 | Immigrants and minorities | Quotas 1921, 1924; Sacco and Vanzetti | Japanese American internment | |
 
 **Dates:** 1920 Prohibition, 19th Amendment; 1921 quotas, Sheppard-Towner; 1924 National Origins Act; 1929 Crash; 1932 Roosevelt elected; 1933 banking crisis and Hundred Days; 1941 Lend-Lease; 1954 Brown; 1955-56 Montgomery; 1957 Little Rock; 1961 Freedom Rides; 1963 Equal Pay Act; 1964 Civil Rights Act; 1968 Civil Rights Act.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-societies-in-change-study-guide--21-oa-usa-timeline.webp" width="900" height="1114" alt="A vertical timeline from 1920 to 1968 with three phases: the Boom of the 1920s, the Bust 1929 to 1945 and post-war America 1945 to 1968. Events: the quota system and Sheppard-Towner Act in 1921; the National Origins Act in 1924; Roosevelt wins in 1932 and the banking crisis ends in 1933; Brown v Board of Education in 1954; the Montgomery Bus Boycott in 1955 to 56; the Little Rock Nine in 1957; the Equal Pay Act in 1963; Civil Rights Acts in 1964 and 1968." loading="lazy">
+  <figcaption>Dated events in the USA against the three parts of the option.</figcaption>
+</figure>
 
 ## Worked example: question 2
 

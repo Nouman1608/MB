@@ -91,6 +91,16 @@ When you have revised, try the [research methods practice questions](/resources/
 | Informed consent | Agreeing to take part with full knowledge of what the research involves |
 | Confidentiality | Keeping participants' identities and information private |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--01-research-design-stages.webp" width="900" height="679" alt="Four numbered stages in a row: aims and hypotheses, pilot study, sampling, analysis of data. Below, an aim is a general statement such as investigating how couples divide housework, while a hypothesis is a narrower, testable prediction such as dual-career couples sharing housework more equally." loading="lazy">
+  <figcaption>Plan the aim, test the method, choose the sample, then analyse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--02-sampling-methods.webp" width="900" height="970" alt="Four panels. Random: scattered people chosen, each with an equal chance. Systematic: every nth name on a list. Quota: set numbers filled for each group, such as 78 women and 72 men in a sample of 150 from a town that is 52% female. Snowball: one participant introduces the next in a chain. Each has a strength and a weakness." loading="lazy">
+  <figcaption>Each sampling method trades fairness, speed and reach against representativeness.</figcaption>
+</figure>
+
 ## Methods at a glance
 
 | Method | Data type | Main strength | Main weakness | Topic where it fits well |
@@ -102,6 +112,21 @@ When you have revised, try the [research methods practice questions](/resources/
 | Participant observation | Qualitative | Sees real behaviour | Time; observer effect; ethics if covert | Pupil subcultures |
 | Non-participant observation | Qualitative or quantitative | Researcher stays detached | Group may act differently when watched | Classroom interaction |
 | Official statistics | Quantitative, secondary | National, regular, free | Definitions set by government; unrecorded events | Exam results by gender over time |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--03-methods-spectrum.webp" width="900" height="744" alt="A line runs from quantitative methods, which are more reliable and easy to compare, to qualitative methods, which give more depth and validity. Questionnaires, structured interviews, unstructured interviews and participant observation are placed along it with a strength and a weakness each. Below, mixed methods combine both." loading="lazy">
+  <figcaption>Quantitative methods favour reliability; qualitative methods favour validity; mixed methods combine them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--04-observation-types.webp" width="900" height="671" alt="A two-by-two grid. Columns: participant observation, where the researcher joins the group, and non-participant, where they only watch. Rows: overt, where the group knows, and covert, where it is secret. Overt observation may change behaviour; covert observation breaks informed consent." loading="lazy">
+  <figcaption>Joining or watching, openly or in secret: each choice trades validity against ethics.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--05-data-sources-grid.webp" width="900" height="734" alt="A two-by-two grid. Primary quantitative: your own closed questionnaire or structured interviews. Primary qualitative: your own unstructured interviews or observations. Secondary quantitative: official and non-official statistics. Secondary qualitative: diaries, letters, media content, websites and earlier studies. Below, primary data fit the aim but cost more; secondary data are cheap but made for another purpose." loading="lazy">
+  <figcaption>Any source can be sorted two ways: who collected it, and whether it is numbers or words.</figcaption>
+</figure>
 
 ## Studies at a glance (methods focus)
 
@@ -116,6 +141,11 @@ All details below are as the specification's Appendix B summarises them.
 | Townsend (1979) | Questionnaires to over 2,000 households, more than 6,000 individuals; deprivation index | More than 22% in poverty in 1968-69 on his measure | Index items may show choice, not poverty |
 | Young and Willmott (1973) | Large-scale survey: nearly 2,000 people interviewed in Greater London and surrounding areas | Symmetrical family | Feminists questioned whether "symmetry" existed |
 | Devine (1992) | Interviews with Vauxhall Luton workers and their wives, late 1980s | Did not find evidence to support privatised instrumentalism | Revisiting the same site allowed comparison over time |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--06-townsend-definitions.webp" width="900" height="689" alt="Three bars for the same society in 1968–69: just over 6% in poverty on the state standard, a little over 9% on relative income, and more than 22% on Townsend’s relative deprivation measure." loading="lazy">
+  <figcaption>The same society can show 6%, 9% or 22% in poverty, depending on the definition.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

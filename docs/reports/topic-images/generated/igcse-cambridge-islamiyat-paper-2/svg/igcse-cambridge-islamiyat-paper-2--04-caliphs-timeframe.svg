@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="340" fill="#f4f6f6"/>
+<text x="450" y="50" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Which paper covers the Caliphs?</text>
+
+<rect x="30" y="150" width="400" height="90" rx="14" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5"/><text x="230" y="190" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Paper 1</text><text x="230" y="218" font-size="17" font-weight="400" fill="#4a5568" text-anchor="middle">Caliphs' lives in the Prophet's lifetime</text><rect x="470" y="150" width="400" height="90" rx="14" fill="#dce9e7" stroke="#2e6b62" stroke-width="3"/><text x="670" y="190" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Paper 2 (topic 2.3)</text><text x="670" y="218" font-size="17" font-weight="600" fill="#2e6b62" text-anchor="middle">their period of rule after his death</text><line x1="450" y1="120" x2="450" y2="270" stroke="#b5602e" stroke-width="4" stroke-dasharray="8 6"/><text x="450" y="112" font-size="17" font-weight="700" fill="#b5602e" text-anchor="middle">death of the Prophet (pbuh)</text><line x1="30" y1="290" x2="860" y2="290" stroke="#1e2a44" stroke-width="4" marker-end="url(#ah)"/><text x="860" y="318" font-size="16" font-weight="400" fill="#4a5568" text-anchor="end" font-style="italic">time</text>
+</svg>

@@ -38,6 +38,16 @@ Condensed for the final weeks. For worked examples, use the
 
 The two most valuable facts: **gradient of a speed–time graph is acceleration**, and **area under a speed–time graph is distance**. Always check which quantity sits on the vertical axis before interpreting a graph — the single most common source of lost marks in this topic is applying a distance–time rule to a speed–time graph, or vice versa.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--07-gp-travel.webp" width="900" height="860" alt="A distance-time graph of an illustrative journey: rising 40 km in the first hour (40 km per hour), flat for the second hour (stopped), then rising 60 km in the third hour (a steeper line, 60 km per hour)." loading="lazy">
+  <figcaption>On a travel graph a horizontal section means stopped and a steeper section means faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--11-gp-two-meanings.webp" width="900" height="1090" alt="Two identical rising straight lines. On the distance-time graph the gradient is the speed, 4 m/s. On the speed-time graph the gradient is the acceleration, 4 m/s squared." loading="lazy">
+  <figcaption>The same straight line means constant speed on a distance–time graph but constant acceleration on a speed–time graph.</figcaption>
+</figure>
+
 ## Finding gradient
 
 ```
@@ -50,6 +60,11 @@ For a **curve**, draw a tangent at the point and find the gradient of the tangen
 
 **Worked example.** A distance–time graph shows a curve of increasing gradient. What does this describe, and how do you find the speed at a particular instant?
 The object is **speeding up**, because the gradient — and therefore the speed — is increasing along the curve. To find the speed at a particular instant: **draw a tangent to the curve at that point**, then **construct a large right-angled triangle on the tangent**, and the speed is the change in distance divided by the change in time for that triangle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--09-gp-tangent.webp" width="900" height="890" alt="A curved distance-time graph with a tangent at point P (3 s, 18 m). Two points on the tangent give a rise of 24 m over 2 s, so the speed at P is 12 metres per second." loading="lazy">
+  <figcaption>The speed at a point on a curved distance–time graph is the gradient of the tangent there.</figcaption>
+</figure>
 
 ## Area under a speed–time graph
 
@@ -71,6 +86,11 @@ Triangle:   1/2 x 5 x 20   = 50 m
 Total distance             = 370 m
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--10-gp-speed-time-area.webp" width="900" height="920" alt="A speed-time graph rising to 12 m/s in 6 seconds then constant for 10 seconds. The triangle under the first part is 36 m, the rectangle under the second part is 120 m, total 156 m. The gradient of the first part is 2 m/s squared." loading="lazy">
+  <figcaption>The area under a speed–time graph is the distance travelled: 36 + 120 = 156 m.</figcaption>
+</figure>
+
 ## Displacement vs distance travelled
 
 If a speed–time (strictly, **velocity–time**) graph dips below the time axis, the object is moving in the **opposite direction**. The area **above** the axis is positive displacement, and the area **below** is negative.
@@ -84,6 +104,11 @@ acceleration = (-4 - 6) / 10 = -1.0 m/s^2
 ```
 Where the line crosses the axis, the object is **momentarily at rest**, then moves in the opposite direction. The area above the axis is a triangle of ½ × 6 × 6 = 18 m; the area below is a triangle of ½ × 4 × 4 = 8 m. The **displacement is 18 − 8 = 10 m**, but the **distance travelled is 18 + 8 = 26 m** — always add the areas for distance, and subtract for displacement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--12-gp-enrichment.webp" width="900" height="910" alt="Enrichment. A velocity-time line falls from plus 9 to minus 3 m/s over 12 s, crossing zero at 9 s. Area above the axis 40.5 m, below 4.5 m. Displacement is 40.5 minus 4.5 = 36 m; distance is 40.5 plus 4.5 = 45 m." loading="lazy">
+  <figcaption>Subtract the areas for displacement and add them for distance travelled.</figcaption>
+</figure>
+
 ## Conversion graphs
 
 A straight line converting between two units (currency, miles/km, °C/°F). Read across and down; state the units in your answer.
@@ -92,9 +117,19 @@ The line passes through the origin **only when the two quantities are directly p
 
 The **gradient is the conversion factor only when the relationship is directly proportional** (a line through the origin). For a non-proportional conversion such as Celsius to Fahrenheit, the gradient (1.8) is the rate of change between the scales, but no single multiplying factor converts one reading directly to the other, since a fixed offset (the 32) must also be applied.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--08-gp-conversion.webp" width="900" height="870" alt="A straight-line conversion graph from degrees Celsius to degrees Fahrenheit (F = 1.8C + 32). Guide lines go up from 25 degrees Celsius to the line and across to 77 degrees Fahrenheit." loading="lazy">
+  <figcaption>A conversion graph lets a value be read off in one unit once it is known in the other.</figcaption>
+</figure>
+
 ## Rates of change
 
 Any straight-line graph's gradient is a rate: cost per item, litres per minute, wages per hour. Interpret the gradient **in context** with units — that phrasing is what earns the mark.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--13-gp-rates.webp" width="900" height="1240" alt="Two straight-line graphs. Cost rises 6 pounds to 12 pounds over 5 items, so 1.20 pounds per item. Volume rises 18 litres over 6 minutes, so a flow rate of 3 litres per minute." loading="lazy">
+  <figcaption>The gradient of a graph is a rate: £1.20 per item and 3 litres per minute here.</figcaption>
+</figure>
 
 ## Exam traps
 

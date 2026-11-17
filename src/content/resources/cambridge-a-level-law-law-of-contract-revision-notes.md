@@ -118,6 +118,21 @@ rebutted by an "honour clause" (Rose and Frank v Crompton, 1925).
   Minors' Contracts Act 1987 **s2** makes an adult guarantor liable; **s3** lets the court order
   return of property acquired under the contract where just and equitable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--13-formation.webp" width="900" height="610" alt="A building. The roof says valid contract. Four pillars: agreement (offer and acceptance), consideration (something in return), intention to create legal relations (presumed not in social arrangements, presumed yes in business), and capacity (minors limited). The base is form, where required, for example writing for the sale of land." loading="lazy">
+  <figcaption>A valid contract needs agreement, consideration, intention and capacity, plus form where required.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--14-offer-itt.webp" width="900" height="830" alt="Two columns. Offer: can be accepted so a contract forms; a unilateral offer is accepted by doing the act, as in Carlill v Carbolic Smoke Ball 1893. Invitation to treat: only invites others to make offers; examples are a shop advert (Partridge 1968), a shop display (Boots 1953), an auction lot, and a statement of the lowest price asked, which is an answer to a question (Harvey v Facey 1893)." loading="lazy">
+  <figcaption>Only an offer can be accepted; the lesson’s examples of invitations to treat are shown.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--16-post-rule.webp" width="900" height="810" alt="Two timelines. By post: the contract forms when the letter is posted (Adams v Lindsell 1818), before it arrives. Instant communication: the contract forms when the acceptance is received (Entores v Miles Far East 1955)." loading="lazy">
+  <figcaption>By post the contract forms on posting; by instant communication it forms on receipt.</figcaption>
+</figure>
+
 ## What are the terms of a contract? (3.2)
 
 - **Terms vs representations (3.2.1)**: importance (Bannerman v White, 1861; Couchman v Hill, 1947),
@@ -146,6 +161,16 @@ rebutted by an "honour clause" (Rose and Frank v Crompton, 1925).
     excluded; s62 unfair terms not binding on the consumer; s65 no exclusion for negligent death or
     personal injury; s68 written terms must be transparent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-contents-of-a-contract--01-term-or-representation.webp" width="900" height="736" alt="A table of four guides to whether a statement is a term or a representation, each with the lesson’s cases: importance (Bannerman v White, Couchman v Hill), timing (Routledge v McKay), special knowledge (Dick Bentley against Oscar Chess) and invitation to verify (Schawel v Reade against Ecay v Godfrey). An untrue term is a breach of contract; an untrue representation needs a misrepresentation claim." loading="lazy">
+  <figcaption>Classify the statement first: a term gives a breach claim, a representation does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--17-term-types.webp" width="900" height="820" alt="A lightning bolt for a breach of a term leads to a table. Condition: damages yes, end the contract yes. Warranty: damages yes, end the contract no. Innominate term: it depends how serious the effect of the breach is. A note says a pre-contract statement is more likely to be a term if it was important, made by an expert, or put in writing." loading="lazy">
+  <figcaption>Breach of a condition allows ending the contract and damages; of a warranty, damages only; innominate depends on seriousness.</figcaption>
+</figure>
+
 ## How does a contract end? (3.3)
 
 - **Performance**: entire performance rule (Cutter v Powell, 1795). Exceptions: substantial performance
@@ -170,6 +195,16 @@ rebutted by an "honour clause" (Rose and Frank v Crompton, 1925).
     ICM/Fair Warning, 1995); **s1(3)** a just sum for a valuable benefit conferred (BP Exploration v
     Hunt (No 2), 1979).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--18-discharge.webp" width="900" height="700" alt="Four cards. Performance: exact and complete, though substantial performance can count. Agreement: a release needs fresh consideration or a deed. Breach: a serious breach, or refusing to perform in advance. Frustration: a no-fault event makes performance impossible, illegal or radically different; it fails if self-induced or if performance is merely costlier." loading="lazy">
+  <figcaption>Four ways a contract is discharged: performance, agreement, breach, frustration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-discharge-of-a-contract--03-frustration-types-limits.webp" width="900" height="467" alt="Two columns. Types of frustrating event: impossibility (Taylor v Caldwell; Robinson v Davison; Condor v Baron Knights; Jackson v Union Marine), supervening illegality (Fibrosa) and performance made pointless (Krell v Henry, contrasted with Herne Bay v Hutton). Limitations: a contractual provision, mere inconvenience or expense (Davis Contractors; Tsakiroglou), foreseen or foreseeable events, and self-induced frustration (Maritime National Fish; The Super Servant Two)." loading="lazy">
+  <figcaption>Frustration is narrow: a dearer or slower contract is not a frustrated one.</figcaption>
+</figure>
+
 ## What remedies are available for breach? (3.4)
 
 | Remedy | Key rule | Authority |
@@ -186,6 +221,16 @@ rebutted by an "honour clause" (Rose and Frank v Crompton, 1925).
 Specific restitution (return of a particular item) is likewise discretionary. All equitable remedies
 are subject to the maxims, for example "he who comes to equity must come with clean hands".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-remedies-for-breach-of-a-contract--01-measures-of-damages.webp" width="900" height="498" alt="Three measures of contract damages: expectation loss (difference in value under s51, cost of cure limited by Ruxley, loss of profit), reliance loss for wasted expenditure (Anglia TV v Reed; not to escape a bad bargain, C and P Haulage), and non-pecuniary loss, normally barred by Addis but allowed for pleasure or peace of mind contracts (Jarvis, Jackson, Farley v Skinner, Watts v Morrow)." loading="lazy">
+  <figcaption>Choose one measure: expectation, reliance, or in limited cases disappointment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-remedies-for-breach-of-a-contract--04-equitable-remedies.webp" width="900" height="888" alt="Four equitable remedies: specific performance (Falcke v Gray; Beswick), specific restitution, rescission and injunction (Warner Brothers v Nelson). A table lists the limits: adequate damages, personal services (Page One Records), constant supervision (Co-operative Insurance v Argyll), mutuality (Flight v Bolland), conduct, delay and hardship (Patel v Ali), and the bars to rescission (Long v Lloyd; Leaf)." loading="lazy">
+  <figcaption>Equity fills gaps that money leaves, but only at the court’s discretion.</figcaption>
+</figure>
+
 ## Worked example: remoteness and mitigation
 
 A bakery buys an oven for delivery on 1 March. It tells the seller it has a new supermarket contract
@@ -196,6 +241,11 @@ starting that day. Delivery is three weeks late. The bakery loses 4,200 pounds o
 2. The undisclosed bonus was outside the parties' contemplation (Victoria Laundry): not recoverable.
 3. Hiring the oven was reasonable mitigation, so its cost of 600 pounds is recoverable, but profit
    lost after the hire began is reduced by the profit the hire allowed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-remedies-for-breach-of-a-contract--03-limits-on-recovery.webp" width="900" height="736" alt="Three filters on damages: causation (Quinn v Burch Bros), remoteness under Hadley v Baxendale as refined in Victoria Laundry, The Heron II, Parsons v Uttley Ingham and The Achilleas, and mitigation (British Westinghouse; Payzu v Saunders; Pilkington v Wood). Below, the strengths and weaknesses of damages as a remedy." loading="lazy">
+  <figcaption>Loss must be caused by the breach, not too remote, and not avoidable.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

@@ -84,6 +84,11 @@ AO1 is knowledge and understanding; AO2 is interpreting evidence and applying id
 | Narrow AI | AI designed for one task, such as image recognition |
 | Cyborg | Organism combined with technology that extends or replaces a body function |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--01-machines-and-work.webp" width="900" height="460" alt="Work has shifted between extraction, manufacturing and service industries. Bell predicted service and knowledge work would dominate; Braverman argued machines deskill workers; Blauner found alienation varied with technology." loading="lazy">
+  <figcaption>Sociologists disagree on whether machines degrade or improve work.</figcaption>
+</figure>
+
 ## Theories and studies at a glance
 
 | Who | What | Finding or argument | One evaluation point |
@@ -105,6 +110,16 @@ AO1 is knowledge and understanding; AO2 is interpreting evidence and applying id
 | Buolamwini and Gebru (2018) | Gender Shades | Facial analysis errors up to 34.7% for darker-skinned women, under 1% for lighter-skinned men | Systems were later improved, but control of use remains an issue |
 | Haraway (1985) | "A Cyborg Manifesto" | Human/animal, organism/machine, physical/non-physical boundaries are breaking down | Abstract; critics question how far it helps real workers |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--06-cybercrime.webp" width="900" height="405" alt="Wall’s three types of cybercrime: crimes against computers such as hacking, crimes using computers such as fraud, and crimes in computer content such as illegal images and hate speech. Cyber security and Norris’s three digital divides are noted below." loading="lazy">
+  <figcaption>Cybercrime can target computers, use them, or live in their content.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--07-algorithmic-bias.webp" width="900" height="595" alt="Bars compare facial analysis error rates in the Gender Shades study: as high as 34.7% for darker-skinned women against under 1% for lighter-skinned men. Noble, O’Neil and Eubanks show other ways algorithms reproduce inequality." loading="lazy">
+  <figcaption>Technology that appears neutral can build in inequality.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Misinformation vs disinformation.** The difference is intent. A grandparent forwarding a false health claim is misinformation; a troll farm inventing it is disinformation.
@@ -116,6 +131,21 @@ AO1 is knowledge and understanding; AO2 is interpreting evidence and applying id
 - **Narrow AI vs general AI.** One task versus human-level ability across tasks (not yet achieved).
 - **Robot vs cyborg.** A machine acting on its own versus a human or organism combined with technology.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--02-determinism-construction.webp" width="900" height="617" alt="Technological determinism, from Marx and McLuhan, says technology drives social change; social constructionism, from Pinch and Bijker, says social groups shape technology. Latour’s actor-network theory treats humans and machines as actants in one network." loading="lazy">
+  <figcaption>Determinists start from the machine; constructionists start from the people.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--03-false-content.webp" width="900" height="449" alt="Misinformation is false content shared without intent to deceive, disinformation is false content spread deliberately, and propaganda is organised persuasion, often by states. Uscinski and Parent found no long-term rise in conspiracy talk." loading="lazy">
+  <figcaption>Intent separates misinformation from disinformation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--05-panopticon-synopticon.webp" width="900" height="599" alt="Left: the panopticon, one watcher at the centre observing many people around, from Foucault and Bentham. Right: the synopticon, many people all watching one figure, from Mathiesen. CCTV, facial recognition and data tracking extend both." loading="lazy">
+  <figcaption>Surveillance can run from the few to the many, or the many to the few.</figcaption>
+</figure>
+
 ## Mini essay plan
 
 **Question type:** "Evaluate the view that new and social media have given audiences more power than traditional media did."
@@ -126,6 +156,11 @@ AO1 is knowledge and understanding; AO2 is interpreting evidence and applying id
 4. **Against the view (AO3).** Platform ownership is concentrated; algorithms decide visibility; most content is consumed, not created. Disinformation shows that power can be used to mislead.
 5. **Wider evaluation.** Digital divides: those without access or skills gain no power. Uscinski questions whether the internet has raised conspiracy belief.
 6. **Judgement.** Audiences have more voice, but control of the systems that distribute it remains narrow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--04-audience-models.webp" width="900" height="584" alt="A grid of four audience models with their main idea and a key evaluation: hypodermic syringe, two step flow, cultural effects, and uses and gratifications." loading="lazy">
+  <figcaption>The models move from a passive audience to an active one.</figcaption>
+</figure>
 
 ## Quick self-test
 

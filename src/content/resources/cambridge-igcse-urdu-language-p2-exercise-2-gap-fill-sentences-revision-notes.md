@@ -39,6 +39,11 @@ Assesses   L1 select information, L2 ideas, opinions and attitudes
 Heard      twice, with pauses to read and write
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences--01-exercise-at-a-glance.webp" width="900" height="562" alt="Paper 2 Exercise 2 is worth 8 marks: one longer text such as a conversation, interview, monologue or formal talk, heard twice, with gaps of one to three words in notes or sentences that follow the order of the recording." loading="lazy">
+  <figcaption>One longer recording, gaps in order, mostly short pieces of content.</figcaption>
+</figure>
+
 ## Five facts to remember
 
 1. The gaps follow the **order of the recording**.
@@ -46,6 +51,11 @@ Heard      twice, with pauses to read and write
 3. The printed words **around** the gap are often **reworded**; the gap content is what was said.
 4. Urdu grammar around the gap tells you **what kind of word** is missing.
 5. Some gaps test **L2**: a feeling, opinion or reason, not only a fact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences--02-heard-versus-printed.webp" width="900" height="676" alt="The speaker says ہم نے یہ کلب دو سال پہلے شروع کیا تھا۔ but the question paper prints کلب ______ پہلے شروع ہوا۔ with the verb reworded; the gap still takes the speaker's content, دو سال." loading="lazy">
+  <figcaption>The frame is reworded; the missing content is what the speaker said.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -69,12 +79,22 @@ Heard      twice, with pauses to read and write
 - **کے ___ پر / میں:** an oblique noun (دعوت ناموں، کمروں).
 - **Feminine future (سنائیں گی):** a female person (شاعرہ، استانی).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences--03-grammar-clues.webp" width="900" height="1022" alt="A table of grammar clues in the printed sentence: a feminine verb such as جاتی ہیں predicts a feminine noun (چوڑیاں); a masculine plural verb predicts بیج or پودے; ہر ______ کو predicts a day (منگل); کی تعداد predicts a number; کی وجہ سے a reason (بارش); کے ... پر an oblique noun (دعوت ناموں); and سنائیں گی a feminine person (شاعرہ)." loading="lazy">
+  <figcaption>Gender, number and postpositions tell you what kind of word is missing.</figcaption>
+</figure>
+
 ## Traps in longer texts
 
 - **Then and now:** شروع میں چھ ... اب پچیس. Read the time word in the printed sentence.
 - **List and exception:** "mostly vegetables ... in winter, carrots too". Match the condition.
 - **Cause and effect:** after کی وجہ سے, write the cause.
 - **Self-correction:** نہیں، معاف کیجیے ... The corrected detail counts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences--05-two-possible-answers.webp" width="900" height="832" alt="Two examples. In شروع میں چھ طالب علم تھے، اب ہم پچیس ہیں۔ a gap about now needs پچیس, not چھ. In a list of vegetables with سردیوں میں گاجریں بھی, a gap about winter needs گاجریں. A gap before کی وجہ سے wants the cause. Words such as اب، شروع میں، سردیوں میں، اصل میں show which detail is asked for." loading="lazy">
+  <figcaption>The time or condition word in the printed sentence picks between two details.</figcaption>
+</figure>
 
 ## The routine
 
@@ -83,12 +103,22 @@ Heard      twice, with pauses to read and write
 3. **Second hearing:** fill and confirm.
 4. **After:** does each answer fit the grammar of its sentence?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences--06-two-hearings.webp" width="900" height="748" alt="Four stages: in the pause read every gap, underline time words such as اب، پہلے، شروع میں and grammar clues, and note the kind of answer; follow the order on the first hearing; fill and confirm on the second; then check each sentence's grammar." loading="lazy">
+  <figcaption>Predict in the pause, follow in order, then check the grammar fits.</figcaption>
+</figure>
+
 ## Notes or sentences?
 
 - **Notes** (heading + colon): write only the content, e.g. 10,000 or کہانیاں.
 - **Sentences:** the answer must read as part of the sentence, so use the right form, e.g. oblique plural
   after a postposition.
 - Never rewrite the whole sentence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences--04-notes-versus-sentences.webp" width="900" height="498" alt="In notes such as کتابوں کی تعداد: ______ write just the content. In sentences such as شادی کے ______ پر the answer must fit the grammar, for example the oblique plural after a postposition. In both, write only the gap." loading="lazy">
+  <figcaption>Notes take bare content; sentences take the grammatically fitting form.</figcaption>
+</figure>
 
 ## Exam traps
 

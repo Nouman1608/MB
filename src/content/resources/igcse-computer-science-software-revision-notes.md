@@ -61,6 +61,11 @@ These notes follow the learning outcomes in the Cambridge IGCSE Computer Science
 | Interpreter | Translates and executes the high-level code one line at a time |
 | IDE | Integrated development environment: one program that gives the tools for writing, translating and testing code |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--08-sw-system-vs-app.webp" width="900" height="752" alt="Two columns. System software provides the services the computer requires: the operating system and utility software such as anti-virus. Application software provides the services the user requires: a word processor, a spreadsheet, a web browser and a game." loading="lazy">
+  <figcaption>System software runs the computer (operating system, utilities such as anti-virus); application software does the user's job (word processor, spreadsheet, browser, game).</figcaption>
+</figure>
+
 ## What does an operating system do? (4.1.2)
 
 Learn the nine functions listed in the syllabus. A question worth 3 marks wants three different functions, not one function reworded three ways.
@@ -77,6 +82,11 @@ Learn the nine functions listed in the syllabus. A question worth 3 marks wants 
 
 A memory hook: **F I I P M M P S U** — files, interrupts, interface, peripherals, memory, multitasking, platform, security, users.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--10-sw-os-functions.webp" width="900" height="1040" alt="The operating system sits between application software above and hardware below. Inside it are nine functions: managing files, handling interrupts, providing an interface, managing peripherals and drivers, managing memory, managing multitasking, providing a platform for running applications, providing system security and managing user accounts." loading="lazy">
+  <figcaption>The nine operating system functions listed in the 0478 syllabus, between the applications and the hardware.</figcaption>
+</figure>
+
 ## How do hardware, firmware and the OS work together? (4.1.3)
 
 The syllabus describes three layers, each running on the one below.
@@ -88,6 +98,11 @@ The syllabus describes three layers, each running on the one below.
 | Bootloader (firmware) | The hardware |
 
 When the computer is switched on, the bootloader stored in firmware runs first and loads the operating system. Only once the OS is running can an application be started.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--09-sw-layers.webp" width="900" height="750" alt="Four layers from bottom to top: hardware, firmware (the bootloader, held in non-volatile memory), operating system, application software. At switch-on the bootloader runs on the hardware, the bootloader loads the operating system, and applications run on the operating system." loading="lazy">
+  <figcaption>Keep the order: hardware, then firmware (bootloader), then operating system, then application.</figcaption>
+</figure>
 
 ## How is an interrupt handled? (4.1.4)
 
@@ -104,6 +119,11 @@ Sequence to learn:
 4. The correct interrupt service routine is run to deal with the event.
 5. The saved state is restored and the original task carries on (or, after an error such as division by zero, the program may be stopped and an error shown).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--11-sw-interrupt.webp" width="900" height="870" alt="A timeline of the processor running a printing task one fetch-decode-execute cycle at a time. A key press puts a keyboard interrupt in the interrupt queue during cycle 3. At the end of cycle 3 the processor checks the queue, finds an interrupt of higher priority, saves the state of the printing task, runs the keyboard interrupt service routine, restores the saved state and carries on printing with cycle 4." loading="lazy">
+  <figcaption>The processor checks for interrupts at the end of each cycle; for a higher-priority one it saves state, runs the ISR, restores state and carries on.</figcaption>
+</figure>
+
 ## High-level or low-level? (4.2.1 and 4.2.2)
 
 | Feature | High-level | Low-level |
@@ -115,6 +135,11 @@ Sequence to learn:
 | Translator needed | Compiler or interpreter | Assembler (for assembly language); machine code needs none |
 
 Assembly language is a low-level language that uses **mnemonics** such as LDA or ADD. Each mnemonic stands for one machine code instruction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--13-sw-translators.webp" width="900" height="770" alt="Two source languages lead to machine code. A high-level language, which uses English-like keywords and runs on many processors once translated, is translated by a compiler or an interpreter. An assembly language, which uses mnemonics such as LDA and ADD and belongs to one type of processor, is translated by an assembler. Both end as machine code, the binary instructions the processor runs directly." loading="lazy">
+  <figcaption>High-level code is translated by a compiler or interpreter; assembly language by an assembler; both end up as machine code.</figcaption>
+</figure>
 
 ## Compiler or interpreter? (4.2.3 and 4.2.4)
 
@@ -128,9 +153,19 @@ Assembly language is a low-level language that uses **mnemonics** such as LDA or
 
 The syllabus states the typical pattern directly: an interpreter is mostly used when developing a program, and a compiler is used to translate the final program.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--12-sw-compiler-interpreter.webp" width="900" height="860" alt="The same five-line program with an error on line 4, handled two ways. A compiler translates all the lines at once and then gives an error report for the whole code. An interpreter translates and runs line by line: lines 1 to 3 run, it stops at line 4 where the error is, and line 5 is never reached." loading="lazy">
+  <figcaption>A compiler translates everything first and reports errors for the whole code; an interpreter runs line by line and stops where the error is found.</figcaption>
+</figure>
+
 ## IDE functions (4.2.5)
 
 Code editor · run-time environment · translators · error diagnostics · auto-completion · auto-correction · prettyprint. For each one, be ready to say what it does for the programmer: for example, auto-completion suggests the rest of a keyword or identifier as you type, and prettyprint colour-codes and indents code so it is easier to read.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--14-sw-ide.webp" width="900" height="1090" alt="A mock-up of an integrated development environment. A code editor shows pseudocode with indented, colour-coded keywords (prettyprint). A Run button and an output pane give a run-time environment, and a built-in translator is shown in the toolbar. Line 6 has a misspelt keyword underlined with an error message (error diagnostics) and a suggested correction. On line 7 a partly typed word offers a completion. Numbers 1 to 7 mark the seven functions." loading="lazy">
+  <figcaption>An IDE gathers the tools for writing code in one place: editor, run-time environment, translator, error diagnostics, auto-completion, auto-correction and prettyprint.</figcaption>
+</figure>
 
 ## Worked example: choosing a translator for each stage
 

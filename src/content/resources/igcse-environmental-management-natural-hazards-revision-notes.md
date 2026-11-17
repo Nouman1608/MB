@@ -84,6 +84,21 @@ health.
 **Opportunities from volcanoes**: fertile soils; mineral extraction; building materials; geothermal power;
 tourism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--03-plate-boundaries.webp" width="900" height="1008" alt="Top: convection currents in the mantle; hot rock rises, spreads, cools and sinks, dragging the plates above. Below, three boundaries: divergent, where plates move apart and magma forms new crust; convergent, where the denser oceanic plate is subducted and a line of volcanoes forms; conservative, where plates slide past and cause earthquakes only." loading="lazy">
+  <figcaption>Movement, process, hazard: subduction at convergent boundaries gives earthquakes and a line of volcanoes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--04-earthquake-features.webp" width="900" height="720" alt="Cross-section with the focus underground, seismic waves spreading out from it, and the epicentre on the surface directly above where shaking is strongest. Below, a magnitude 6.0, 7.0 and 8.0 earthquake are linked by steps of about 32 times more energy, so 8.0 releases about 1,000 times the energy of 6.0." loading="lazy">
+  <figcaption>The focus is underground, the epicentre above it; each magnitude step is about 32 times the energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--05-eruption-features.webp" width="900" height="640" alt="Cross-section of an erupting volcano: magma rises from underground and pours out as lava; an ash cloud rises above the crater; volcanic bombs are thrown out; a pyroclastic flow of hot gas, ash and rock rushes downslope; gases including sulfur dioxide drift away and fall as acid rain." loading="lazy">
+  <figcaption>Magma underground becomes lava at the surface; ash, gases, bombs and pyroclastic flows are the other features.</figcaption>
+</figure>
+
 ## Tropical cyclones (6.2)
 
 - Called storms, hurricanes or typhoons depending on region.
@@ -91,6 +106,16 @@ tourism.
   **60 m** deep.
 - Impacts: buildings and infrastructure damaged; crops, livestock and habitats lost; evacuation; flooding;
   landslides; contaminated water and water-related disease; financial losses; health.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--02-three-conditions.webp" width="900" height="705" alt="Three cards give the syllabus values: latitude between 5° and 30° north or south, ocean temperature at least 27 °C and a warm layer at least 60 m deep. A cross-section shows a warm surface layer at least 60 m deep over cooler water below." loading="lazy">
+  <figcaption>Learn the numbers: 5° to 30°, at least 27 °C, at least 60 m.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--04-three-processes-ten-impacts.webp" width="900" height="780" alt="Strong winds, heavy rainfall and storm surge drive the ten syllabus impacts: damage to buildings and infrastructure, loss of crops, livestock and habitats, evacuation, flooding, landslides, contaminated drinking water, water-related disease, financial losses and human health. An example chain: storm surge floods farmland, leaves salt in the soil, crops fail for more than one season, causing food shortages and lost income." loading="lazy">
+  <figcaption>Link every impact to wind, rain or storm surge, then follow the chain to people.</figcaption>
+</figure>
 
 ## Flooding (6.3)
 
@@ -101,6 +126,16 @@ weather); storm surges and tsunamis.
 **Opportunities**: nutrient-rich silt deposited on farmland; recharge of surface water and ground water
 stores.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--02-causes-by-mechanism.webp" width="900" height="558" alt="Causes of flooding sorted by how they work. More and faster run-off: steep slopes, saturated or compacted soil, deforestation, farming practices, urbanisation and more intense rainstorms. Less channel space: soil erosion. Water collecting: low-lying flat land. Coastal flooding by sea water: sea-level rise, storm surges and tsunamis." loading="lazy">
+  <figcaption>Link each cause to run-off, channel capacity or the sea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--05-opportunities.webp" width="900" height="680" alt="Cross-section of a floodplain under floodwater. As the water spreads and slows it drops a layer of nutrient-rich silt on the farmland, and water soaks down to refill an aquifer. Cards summarise silt deposition and recharge of water stores." loading="lazy">
+  <figcaption>Floods fertilise floodplains and refill water stores for the dry season.</figcaption>
+</figure>
+
 ## Drought (6.4)
 
 **Drought** = a period of dry weather that is longer or more severe than normal.
@@ -109,6 +144,11 @@ stores.
   death of organisms; famine; more wildfires; poorer air quality; financial losses; human health.
 - Strategies: monitoring and warning; emergency water supplies; water conservation; increasing supply
   (dams and reservoirs, aquifers and wells, desalination, rainwater harvesting); international aid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-drought--03-impact-chains.webp" width="900" height="725" alt="Lack of water branches into three chains. Centre: crops fail and livestock die, food prices rise and stores run out, leading to famine, malnutrition and migration. Left: dry, bare soil is eroded, leading to desertification. Right: dry vegetation feeds wildfires that reduce air quality and cause breathing problems." loading="lazy">
+  <figcaption>Explain impacts as chains: lack of water, then the effect, then the consequence.</figcaption>
+</figure>
 
 ## How are hazard impacts managed? (before, during, after)
 
@@ -122,6 +162,11 @@ stores.
 | After | Rebuilding damaged areas | Restores homes and services | Slow and costly; may rebuild in the same risk zone |
 | After | International aid | Quick supplies, money and expertise | May not reach those most in need; can create dependency |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--06-management-stages.webp" width="900" height="648" alt="Three columns on a timeline around the event. Before: monitoring and warning, land use zoning, the structure of buildings and disaster preparation. During: evacuation. After: rebuilding and international aid. Shelters span both during and after. Each card gives a benefit or limitation." loading="lazy">
+  <figcaption>Sort strategies into before, during and after, then weigh each one.</figcaption>
+</figure>
+
 ## Worked example: can a tropical cyclone form here?
 
 A source gives data for three ocean areas. Test each against all three conditions.
@@ -133,6 +178,11 @@ A source gives data for three ocean areas. Test each against all three condition
 | C | 22° S | 24 °C | 2 500 m | No - water cooler than 27 °C |
 
 Exam tip: say which condition fails, quoting the figure, rather than just "no".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--06-which-location.webp" width="900" height="595" alt="A checklist grid for four invented ocean locations. A at 2° N fails latitude. B at 15° S, 28 °C and 90 m meets all three conditions. C fails with sea at 25 °C. D fails because its warm layer is only 40 m deep." loading="lazy">
+  <figcaption>Only location B meets all three conditions; name the condition each other one fails.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

@@ -1,0 +1,56 @@
+[
+ {
+  "file": "o-level-sociology-research-approaches-and-data--01-positivist-scientific-method.webp",
+  "width": 900,
+  "height": 546,
+  "after": "## What is the positivist approach?",
+  "alt": "Four steps of the scientific method used by positivists: form a hypothesis, collect quantitative data, look for patterns and trends, and test correlation and causation. Positivists take a macro view of social facts and value objective, reliable research, as in Townsend’s 1979 survey of poverty.",
+  "caption": "Positivists copy the natural sciences: hypothesis, numbers, patterns, causes.",
+  "bytes": 107824
+ },
+ {
+  "file": "o-level-sociology-research-approaches-and-data--02-positivism-vs-interpretivism.webp",
+  "width": 900,
+  "height": 594,
+  "after": "## What is the interpretivist approach?",
+  "alt": "Positivism and interpretivism compared on view, focus, data, aim and example. Positivism is macro, seeks patterns and causes with quantitative data and values objectivity and reliability, as in Townsend’s survey. Interpretivism is micro, seeks meanings with qualitative data and values validity and verstehen, as in Goffman’s Asylums.",
+  "caption": "Positivists seek reliable patterns; interpretivists seek valid meanings.",
+  "bytes": 114286
+ },
+ {
+  "file": "o-level-sociology-research-approaches-and-data--03-triangulation-longitudinal.webp",
+  "width": 900,
+  "height": 540,
+  "after": "## How can approaches be combined?",
+  "alt": "Left: triangulation, with participant observation, in-depth interviews and questionnaires all pointing at one question, as in Barker’s 1984 study of why people joined the Unification Church. Right: a longitudinal study following the same people over time, as in Young Lives from 2002; it shows change but is costly and some participants drop out.",
+  "caption": "Triangulation cross-checks with several methods; longitudinal studies follow people over time.",
+  "bytes": 94558
+ },
+ {
+  "file": "o-level-sociology-research-approaches-and-data--04-judging-research.webp",
+  "width": 900,
+  "height": 568,
+  "after": "## How do sociologists judge research choices?",
+  "alt": "Seven concepts grouped by what they check. The researcher: bias and interviewer effect. The people studied: the Hawthorne or observer effect and validity. The results: reliability. The sample: representativeness and generalisability.",
+  "caption": "Ask about the researcher, the people studied, the results and the sample.",
+  "bytes": 106158
+ },
+ {
+  "file": "o-level-sociology-research-approaches-and-data--05-types-of-data.webp",
+  "width": 900,
+  "height": 705,
+  "after": "## What is the difference between primary and secondary, quantitative and qualitative data?",
+  "alt": "A two-by-two grid. Primary quantitative: Townsend’s household survey. Primary qualitative: Goffman’s fieldwork in Asylums. Secondary quantitative: official statistics such as Pakistan’s 2023 census. Secondary qualitative: personal documents such as diaries and letters. Below, the main strengths and limitations of primary and secondary data.",
+  "caption": "Any piece of data is primary or secondary, and quantitative or qualitative.",
+  "bytes": 108146
+ },
+ {
+  "file": "o-level-sociology-research-approaches-and-data--06-reading-tables-and-graphs.webp",
+  "width": 900,
+  "height": 606,
+  "after": "## How should you analyse tables, charts and graphs?",
+  "alt": "A schematic bar chart labelled with its title, its source and date, its axis (percentages or numbers?) and its overall trend, beside five steps: read the title, source and date; identify what is measured; quote figures accurately with units; describe the overall trend before detail; and explain a limitation.",
+  "caption": "Read the labels first, describe the trend, then explain a limitation.",
+  "bytes": 70782
+ }
+]

@@ -66,6 +66,11 @@ Every word has at least two layers.
 
 The course framework says simply that words have both connotative and denotative meanings. This matters because a writer's choice between words with the same denotation is a choice between attitudes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-5-connotation-denotation-study-guide--01-two-layers-of-meaning.webp" width="900" height="462" alt="Two words, home and house, drawn as two-layer blocks. Both share the denotation “a place where a person lives”; home adds a connotation layer of warmth, safety and belonging, while house carries little of that feeling." loading="lazy">
+  <figcaption>Words that share a literal meaning can carry very different feelings.</figcaption>
+</figure>
+
 ## Same meaning, different attitude
 
 Consider words that all describe a person who spends little money.
@@ -92,6 +97,11 @@ More examples:
 
 Connotation depends on **context**. "Ambitious" can be a compliment in a job reference and a criticism in a description of a friend who steps on others. It also depends on **audience and culture**: a word that sounds warm in one community may sound dismissive in another. A writer should consider who is reading.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-5-connotation-denotation-study-guide--02-thrifty-to-stingy.webp" width="900" height="665" alt="Five words for a person careful with money arranged from admiring to critical: thrifty, frugal, economical, cheap and stingy. A table gives neutral, positive and negative versions of walk, determined, unusual, crowd and old." loading="lazy">
+  <figcaption>Same denotation, different connotation: the word decides whether readers admire or disapprove.</figcaption>
+</figure>
+
 ## How connotation builds tone and style
 
 **Tone** is the writer's attitude toward the subject (Topic 6.5). Readers infer tone largely from word choice, and especially from the **positive, negative or neutral connotations** of the words. A paragraph that describes a protest as "a gathering of residents" has a different tone from one that describes "a mob of agitators", although both may refer to the same event.
@@ -105,6 +115,11 @@ When you analyse a text, move through four steps:
 3. **Compare** with what the writer might have said.
 4. **Link** the choice to tone and to purpose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-5-connotation-denotation-study-guide--03-four-step-word-analysis.webp" width="900" height="448" alt="Four steps for analysing word choice: pick out significant words, name the connotation, compare with alternatives, and link the choice to tone and purpose. Below, tone (a gathering of residents or a mob of agitators) and style (endeavour and commence or try and start)." loading="lazy">
+  <figcaption>Name the connotation, compare it with an alternative, then link it to tone and purpose.</figcaption>
+</figure>
+
 ## Connotation in a published text
 
 In his Rochester address (1852), Frederick Douglass turns the language of national celebration against itself:
@@ -114,6 +129,11 @@ In his Rochester address (1852), Frederick Douglass turns the language of nation
 (Frederick Douglass, "What to the Slave Is the Fourth of July?", 1852)
 
 Each pair sets a familiar, flattering phrase against a harsh one. "Liberty" and "greatness" have strong positive connotations for his audience, but Douglass attaches them to words with negative connotations: **boasted** suggests empty bragging, and **swelling** suggests inflation and rot, not strength. "License" in the sense of *permission* is neutral; with "unholy" it connotes **excess and abuse of freedom**. "Sham" means a pretence. Douglass thus uses the connotations of every key word to say that the nation's celebration is false from the point of view of the enslaved.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-5-connotation-denotation-study-guide--04-douglass-connotation.webp" width="900" height="558" alt="Douglass pairs three flattering phrases with harsh ones: your celebration with a sham, your boasted liberty with an unholy license, and your national greatness with swelling vanity. Notes explain the connotations of “boasted”, “unholy license” and “swelling”." loading="lazy">
+  <figcaption>Douglass attaches negative connotations to his audience’s proudest words.</figcaption>
+</figure>
 
 ## Choosing words strategically
 
@@ -143,6 +163,11 @@ Be especially careful not to **signal what you did not mean**. Calling a candida
 
 **Step 5: Check for unintended signals.** "Ask" suggests asking permission, which fits the respectful tone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-5-connotation-denotation-study-guide--05-lunchtime-revision.webp" width="900" height="522" alt="The draft “Students want to get out of school at lunch” is marked for “want” (mere desire) and “get out of” (escape). The revision “Students ask for the responsibility of leaving the grounds at lunchtime” is marked for polite “ask for”, “responsibility” as an obligation and neutral “leaving the grounds”." loading="lazy">
+  <figcaption>Choose words whose associations fit the audience, and make sure the evidence earns them.</figcaption>
+</figure>
+
 ## Worked example 2: analysing connotation in a passage
 
 Read this passage (Marlbridge passage).
@@ -165,6 +190,11 @@ Read this passage (Marlbridge passage).
 **Step 4: Say what the choices do.** The words make the developers seem aggressive and the orchard seem a victim, so the writer's attitude is critical of the development.
 
 **Step 5: Write the analysis sentence.** *By choosing words such as "swarmed", "tearing out" and "scar", the writer gives the development the connotations of invasion and injury, which leads the reader to sympathise with the orchard.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-5-connotation-denotation-study-guide--06-orchard-loaded-vs-neutral.webp" width="900" height="574" alt="Six words from the orchard passage set against neutral alternatives with their connotations: swarmed (arrived) suggests invasion; machines (equipment) is impersonal; tearing out (removing) suggests violence; stood (grown) gives the trees dignity; quiet hillside suggests peace; scar of mud (cleared) suggests a wound." loading="lazy">
+  <figcaption>Comparing loaded words with neutral ones reveals the writer’s attitude.</figcaption>
+</figure>
 
 ## Common misconceptions
 

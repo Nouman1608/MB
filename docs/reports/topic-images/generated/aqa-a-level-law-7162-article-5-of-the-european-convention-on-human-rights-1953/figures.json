@@ -1,0 +1,56 @@
+[
+ {
+  "file": "aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953--01-article-5-three-steps.webp",
+  "width": 900,
+  "height": 694,
+  "after": "## Where Article 5 fits",
+  "alt": "A three-step flow. Step 1: is there a deprivation of liberty rather than a mere restriction? If not, Article 5 is not engaged. Step 2: does a ground in Article 5.1(a) to (c) apply, following a procedure prescribed by law? If not, Article 5.1 is breached. Step 3: were the safeguards in Articles 5.2 to 5.5 met? If not, there is a breach even if the arrest was lawful.",
+  "caption": "Deprivation, then a listed ground, then the safeguards: fail any step and Article 5 is breached.",
+  "bytes": 90124
+ },
+ {
+  "file": "aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953--02-deprivation-or-restriction.webp",
+  "width": 900,
+  "height": 657,
+  "after": "## Step 1: is there a deprivation of liberty at all?",
+  "alt": "A scale from restriction on movement to deprivation of liberty, a matter of degree or intensity (Guzzardi). Austin, a seven-hour crowd containment at Oxford Circus, was not a deprivation. Guzzardi (confinement on an island), HL v UK (complete control in hospital) and JJ (18-hour curfew) were deprivations. The Cheshire West acid test is continuous supervision and control and not being free to leave.",
+  "caption": "Degree and intensity decide it; the acid test is supervision, control and no freedom to leave.",
+  "bytes": 139898
+ },
+ {
+  "file": "aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953--03-reasonable-suspicion.webp",
+  "width": 900,
+  "height": 487,
+  "after": "## Step 2: does a ground in Article 5.1 apply?",
+  "alt": "Reasonable suspicion has two parts: the officer must actually suspect, and there must be reasonable grounds that would satisfy an objective observer (Fox, Campbell and Hartley v UK; O’Hara). A superior’s briefing can supply the grounds, but a bare instruction to arrest cannot, and in Fox previous convictions and undisclosed intelligence were not enough.",
+  "caption": "The officer must suspect, and an objective observer must agree the grounds are reasonable.",
+  "bytes": 103878
+ },
+ {
+  "file": "aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953--04-safeguards-5-2-to-5-5.webp",
+  "width": 900,
+  "height": 570,
+  "after": "## Step 3: have the safeguards in Articles 5.2 to 5.5 been met?",
+  "alt": "Four safeguards in order. Article 5.2: reasons promptly, in a language the person understands (Fox). Article 5.3: brought promptly before a judge; in Brogan v UK four days and six hours breached it. Article 5.4: a court decides speedily whether detention is lawful, in England by habeas corpus. Article 5.5: compensation through section 8 HRA damages and false imprisonment.",
+  "caption": "Reasons, a judge, a court review and compensation.",
+  "bytes": 114398
+ },
+ {
+  "file": "aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953--05-belmarsh-derogation.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## Derogation and Article 5",
+  "alt": "A v Secretary of State for the Home Department: the House of Lords accepted a public emergency after 11 September 2001, but held indefinite detention of foreign nationals only under the Anti-terrorism, Crime and Security Act 2001 disproportionate and discriminatory, quashed the derogation order and declared the power incompatible with Articles 5 and 14. Parliament replaced it with control orders, later replaced by TPIMs.",
+  "caption": "An emergency was accepted, but detaining only foreign nationals went too far.",
+  "bytes": 108296
+ },
+ {
+  "file": "aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953--06-priya-worked-example.webp",
+  "width": 900,
+  "height": 809,
+  "after": "## Worked example",
+  "alt": "Priya’s case in five steps: arrest and custody are a deprivation; reasonable suspicion under 5.1(c) is likely met (Fox, O’Hara); three hours without reasons is hard to justify under 5.2; 5.3 is not reached because she was released without charge; the remedy is false imprisonment and section 8 damages under 5.5.",
+  "caption": "The arrest ground is likely met; the weak point is the delay in giving reasons.",
+  "bytes": 135588
+ }
+]

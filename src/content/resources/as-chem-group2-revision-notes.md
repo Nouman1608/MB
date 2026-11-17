@@ -39,6 +39,16 @@ metal + steam   ->  oxide + hydrogen     Mg + H2O -> MgO + H2   (Mg only)
 
 Magnesium reacts only **very slowly** with cold water but **vigorously with steam** — and note it gives the **oxide** with steam, the **hydroxide** with cold water.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--01-g2-water-reactions.webp" width="900" height="800" alt="Four test tubes of water, each holding magnesium, calcium, strontium or barium. Bubbles of hydrogen increase from a few for magnesium to many for strontium and barium. An arrow shows reactivity with cold water increasing down the group." loading="lazy">
+  <figcaption>Reactivity with cold water increases down Group 2: magnesium is very slow, calcium steady, strontium and barium vigorous.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--02-g2-why-reactivity.webp" width="900" height="840" alt="Four atom diagrams, magnesium with 3 shells to barium with 6. Each shows a nucleus, shaded inner shells and two outer electrons on a dashed ring. The outer electrons are further out and more shielded down the group, so they are lost more easily." loading="lazy">
+  <figcaption>More shells down the group puts the two outer electrons further from the nucleus and more shielded, so reactivity increases.</figcaption>
+</figure>
+
 ## The special case of barium and dilute sulfuric acid
 
 ```
@@ -50,6 +60,11 @@ surface, physically **blocking further acid contact** — this is a
 **solubility effect, not a reactivity effect**, and is a common source
 of confusion since barium is the most reactive Group 2 metal, yet
 appears to react the least with this specific acid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--03-g2-barium-sulfuric-acid.webp" width="900" height="840" alt="Two beakers of dilute sulfuric acid. Magnesium keeps fizzing because magnesium sulfate dissolves. Barium is surrounded by a white coat of insoluble barium sulfate that blocks the acid, so the reaction stops almost at once." loading="lazy">
+  <figcaption>Barium stops reacting with dilute sulfuric acid because insoluble BaSO4 coats the metal: a solubility effect, not low reactivity.</figcaption>
+</figure>
 
 ## Reactions of oxides, hydroxides and carbonates with dilute acid
 
@@ -80,6 +95,11 @@ The dilute HCl is added first to remove any carbonate ions present
 cause a false positive) — only a genuine sulfate gives a precipitate
 that persists once the acid has been added.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--07-g2-sulfate-test.webp" width="900" height="820" alt="Three test tubes: a clear solution, then barium chloride solution and dilute hydrochloric acid added from a dropper, then a dense white precipitate of barium sulfate. The ionic equation is Ba2+ + SO4 2- gives BaSO4. Barium sulfate is used as an X-ray contrast medium." loading="lazy">
+  <figcaption>Adding BaCl2(aq) and dilute HCl gives a dense white precipitate of BaSO4 if sulfate ions are present.</figcaption>
+</figure>
+
 ## The two opposing solubility trends
 
 This is the pair candidates most often reverse.
@@ -93,6 +113,11 @@ Consequences worth knowing:
 - **Mg(OH)₂** — milk of magnesia, an antacid, precisely because it is only sparingly soluble.
 - **BaSO₄** — barium meal for X-rays; safe despite barium's toxicity because it is insoluble.
 - **Ca(OH)₂** — limewater; the CO₂ test relies on insoluble CaCO₃ forming.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--06-g2-solubility-trends.webp" width="900" height="910" alt="Top row: Mg(OH)2 is a cloudy, weakly alkaline suspension and Ba(OH)2 a clear strongly alkaline solution, so hydroxides get more soluble down the group. Bottom row: MgSO4 is a clear solution and BaSO4 is a white solid at the bottom, so sulfates get less soluble." loading="lazy">
+  <figcaption>Hydroxides become more soluble and sulfates less soluble down Group 2: the two trends run in opposite directions.</figcaption>
+</figure>
 
 ## Thermal stability
 
@@ -108,6 +133,16 @@ nitrate:    2M(NO3)2 -> 2MO + 4NO2 + O2      (brown NO2 gas)
 So magnesium compounds decompose most easily; barium compounds are the most stable.
 
 At AS, describing the trend correctly with the equations above is sufficient; the polarising-power mechanism is A Level Topic 27.1.1 material — "because it is bigger" alone would still be an incomplete explanation if an explanation is asked for, but AS itself does not require the mechanism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--04-g2-thermal-decomposition.webp" width="900" height="1290" alt="A test tube of white Group 2 nitrate heated by a flame fills with brown NO2 and relights a glowing splint because oxygen is released. A second tube of carbonate gives off CO2. Equations: 2M(NO3)2 gives 2MO + 4NO2 + O2; MCO3 gives MO + CO2." loading="lazy">
+  <figcaption>Nitrates give brown NO2 and O2 (a splint relights); carbonates give CO2; both leave the metal oxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--05-g2-stability-trend.webp" width="900" height="990" alt="Four bars of rising height for MgCO3 to BaCO3 show the heat needed to decompose increasing down the group (not to scale). Below, tagged as the A Level explanation, a small Mg2+ ion distorts the carbonate ion strongly and weakens its bond, while a large Ba2+ ion distorts it weakly." loading="lazy">
+  <figcaption>Thermal stability of carbonates and nitrates increases down the group; the polarisation explanation is A Level 27.1.1, not needed at AS.</figcaption>
+</figure>
 
 ## Uses
 

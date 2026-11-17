@@ -71,6 +71,16 @@ of rock and soil".
 |---|---|
 | Most sedimentary rocks: limestone and sandstone | Igneous and metamorphic rocks, and some sedimentary rocks: shale |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--15-ro-rock-cycle.webp" width="900" height="1092" alt="Rock at the surface is weathered, the material is eroded, transported and deposited, then sediment builds up in layers (sedimentation), is compacted and cemented, forming sedimentary rock. Magma crystallises to form igneous rock. Heat and pressure without melting turn rock into metamorphic rock; melting turns rock into magma. Melting and metamorphism are not in the syllabus list of eight processes but are needed to describe igneous and metamorphic rock formation. Any surface rock can be weathered and any deeply buried rock can be metamorphosed or melted." loading="lazy">
+  <figcaption>The rock cycle: the seven sedimentary-route processes, crystallisation, and melting and heat-pressure as extra links.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--16-ro-permeability.webp" width="900" height="900" alt="Cross-section with a permeable sandstone layer on top, an impermeable shale layer, and a permeable limestone layer below. Rain water passes down through the sandstone and collects as ground water above the shale. Oil and gas rise through the limestone until the impermeable shale stops them and traps them beneath it. Permeability is the ability of water to pass through the pore spaces of rock and soil. Igneous and metamorphic rocks are also impermeable. Schematic, not to scale." loading="lazy">
+  <figcaption>Permeable sandstone and limestone, impermeable shale holding up ground water and trapping oil and gas.</figcaption>
+</figure>
+
 ## 1.2 Extraction of rocks, ores and minerals
 
 **Ore** = "rock containing minerals and metals".
@@ -111,6 +121,21 @@ For each, have one benefit and one limitation ready (1.2.6 says
 | Recreation | Provides parks, sports or tourist sites and jobs | Needs investment and upkeep |
 | Nature reserves | Creates new habitats and raises biodiversity | Little income for the local economy |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--17-ro-extraction-methods.webp" width="900" height="1040" alt="Surface extraction removes the overburden, the soil and rock above, and digs the deposit out from the surface; strip mining removes it in strips and suits shallow, near-horizontal seams. Subsurface extraction sinks a shaft and drives tunnels to reach deep deposits. Biological extraction has two methods: in phytomining, plants absorb metal from low-grade ore or waste, are harvested and burned, and the metal is recovered from the ash; in bioleaching, bacteria release metal compounds from low-grade ore into a solution from which the metal is recovered. Biological extraction is slow but disturbs far less land." loading="lazy">
+  <figcaption>Surface, subsurface and biological (phytomining, bioleaching) extraction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--18-ro-extraction-factors.webp" width="900" height="820" alt="Eight numbered factors: 1 exploration, 2 geology, 3 accessibility and terrain, 4 quantity and quality of deposit (ore grade), 5 climate, 6 environmental impact assessment, 7 supply and demand, 8 cost and profit. Extraction goes ahead only if the expected income exceeds the cost of extraction, processing and restoration." loading="lazy">
+  <figcaption>The eight factors and the income-versus-cost test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--20-ro-restoration.webp" width="900" height="960" alt="Mined-out land can be managed in two ways. Land restoration: replacement of overburden, soil improvement, bioremediation (using organisms such as plants and microorganisms to remove or break down pollutants) and tree planting. Repurposing land: landfill, lakes, recreation and nature reserves. Each small picture shows one strategy." loading="lazy">
+  <figcaption>Four land restoration and four repurposing strategies.</figcaption>
+</figure>
+
 ## 1.3 Sustainable management of rocks, ores and minerals
 
 - **Finite resource** = "a natural resource that is used up at a faster
@@ -127,6 +152,11 @@ A quick benefit and limitation for each: recycling cuts mining but costs
 money to collect and sort; legislation sets rules but only works with
 enforcement; enforcement needs money and staff; alternative materials may
 cost more or be finite too.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-ores-and-minerals--21-ro-finite-sustainable.webp" width="900" height="980" alt="Two tanks of water stand for a resource. A finite resource is used up at a faster rate than it is replaced, so the tank runs low. Sustainable management uses strategies that ensure the needs of the present are met without compromising the ability of future generations to meet their own. The seven strategies are shown as groups: take out less (reduce and reuse, efficient extraction, alternative materials, avoiding depletion), put material back (recycling), and make it work (legislation and enforcement). Tank levels and flows are illustrative." loading="lazy">
+  <figcaption>Finite resource versus sustainable management shown as tank flows, with the seven strategies grouped (grouping is a teaching aid).</figcaption>
+</figure>
 
 ## Exam traps
 

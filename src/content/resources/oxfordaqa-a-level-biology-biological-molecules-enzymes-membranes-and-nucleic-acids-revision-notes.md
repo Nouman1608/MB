@@ -40,6 +40,11 @@ These notes condense sections 3.1.1 (Biological molecules), 3.1.3 (Enzymes), 3.1
 
 Triglycerides are not polymers: one glycerol and three fatty acids join by **ester bonds**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp" width="900" height="1300" alt="Top: two alpha-glucose rings join; the OH on carbon 1 of one and the H of the OH on carbon 4 of the other leave as water, leaving a C-O-C glycosidic bond. The product is maltose, Mr 342 (180 + 180 - 18). Bottom: glycine and alanine join the same way; OH from glycine and H from alanine leave as water, forming a peptide bond. Gly-Ala has Mr 146 (75 + 89 - 18). Hydrolysis reverses each change by adding water." loading="lazy">
+  <figcaption>Condensation joins monomers and releases water; hydrolysis adds water and splits the bond.</figcaption>
+</figure>
+
 ## 3.1.1.2 Carbohydrates
 
 - Common monosaccharides: **glucose** and **fructose**.
@@ -66,6 +71,16 @@ Triglycerides are not polymers: one glycerol and three fatty acids join by **est
 
 When given unfamiliar structures, show condensation by removing H from one -OH and -OH from the other to make water, and hydrolysis by adding water back across the bond.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--04-alpha-beta-glucose.webp" width="900" height="870" alt="Two ring drawings of glucose, each with five carbons and one oxygen, numbered 1 to 5 clockwise from the right-hand carbon, with CH2OH on carbon 5. OH on carbons 2 and 4 is below the ring and on carbon 3 above, in both. In alpha-glucose the OH on carbon 1 is below the ring and H above; in beta-glucose the OH is above and H below. Both are C6H12O6." loading="lazy">
+  <figcaption>The alpha and beta forms differ only in the position of the OH on carbon 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--06-polysaccharides.webp" width="900" height="1268" alt="Glucose units drawn as beads. Amylose is one unbranched alpha-1,4 chain coiled into a helix with one free end. Amylopectin has alpha-1,4 chains with alpha-1,6 branch points and 4 free ends in the drawing; glycogen is more branched with 13 free ends, so enzymes can release glucose faster. Cellulose is straight beta-1,4 chains with every second glucose flipped, joined to neighbouring chains by hydrogen bonds." loading="lazy">
+  <figcaption>Branching gives many ends for fast release; straight cellulose chains bond sideways for strength.</figcaption>
+</figure>
+
 ## 3.1.1.3 Lipids
 
 - A **triglyceride** forms by condensation of **one glycerol** and **three fatty acids**; three water molecules are released and three **ester bonds** form.
@@ -81,6 +96,11 @@ When given unfamiliar structures, show condensation by removing H from one -OH a
 Triglycerides are good stores because they release a lot of energy per gram and are insoluble, so they do not affect water potential.
 
 **Emulsion test.** Shake the sample with ethanol, then pour into water: a **milky white emulsion** shows lipid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--07-triglyceride-phospholipid.webp" width="900" height="1300" alt="Top: a triglyceride is a glycerol backbone of three carbons, each joined by an ester bond (O-C=O) to a fatty acid tail; two tails are straight (saturated) and one has a C=C double bond that kinks it. Three ester bonds release three water molecules. Bottom: a phospholipid has glycerol with two fatty acid tails and a phosphate head in place of the third fatty acid; the head is hydrophilic and the tails hydrophobic." loading="lazy">
+  <figcaption>Both lipids are built on glycerol; phospholipids swap one fatty acid for a hydrophilic phosphate.</figcaption>
+</figure>
 
 ## 3.1.1.4 Proteins
 
@@ -98,6 +118,11 @@ Triglycerides are good stores because they release a lot of energy per gram and 
 The primary structure determines how the chain folds, so it determines the 3-D shape and therefore the function, such as the shape of an active site or an antibody's binding site.
 
 **Biuret test.** Add biuret reagent: **blue to purple** shows protein (peptide bonds).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp" width="900" height="1297" alt="Four panels. 1 Primary: nine amino acids in sequence joined by peptide bonds. 2 Secondary: an alpha-helix and a beta-pleated sheet held by hydrogen bonds between backbone groups. 3 Tertiary: a folded chain with a disulfide bond between two cysteines, an ionic bond between lysine and aspartate, a hydrogen bond between serine and asparagine, and hydrophobic interaction between leucines. 4 Quaternary: haemoglobin, two alpha and two beta chains each with a haem group holding Fe2+, binding up to four oxygen molecules." loading="lazy">
+  <figcaption>Primary sequence leads to secondary folding, tertiary R-group interactions and quaternary assembly.</figcaption>
+</figure>
 
 ## 3.1.3 Enzymes
 
@@ -117,6 +142,16 @@ The primary structure determines how the chain folds, so it determines the 3-D s
 | Competitive inhibitor | Falls; effect reduced by adding more substrate | Similar shape to the substrate; binds the active site and blocks it |
 | Non-competitive inhibitor | Falls; adding substrate does not overcome it | Binds away from the active site and changes its shape |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--02-lock-key-induced-fit.webp" width="900" height="1130" alt="Three rows. Lock and key: a rigid notch-shaped active site that the substrate fits exactly. Induced fit: the site starts close to but not exactly complementary, and moulds round the substrate as it binds, straining bonds. Specificity: a round substrate of the wrong shape cannot bind." loading="lazy">
+  <figcaption>Lock and key has a fixed active site; in induced fit the site changes shape slightly as the substrate binds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
+  <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
+</figure>
+
 ## 3.1.4 Transport into and out of cells
 
 **Fluid-mosaic model.** A bilayer of **phospholipids**, with **proteins** scattered through it and **carbohydrates** attached to proteins and lipids on the outer surface. **Cholesterol** may be present; it restricts the movement of the other molecules in the membrane. **Microvilli** are folds of the cell-surface membrane that increase its surface area.
@@ -132,6 +167,11 @@ The primary structure determines how the chain folds, so it determines the 3-D s
 - The rate of diffusion increases with a **larger surface area**, a **greater difference in concentration** and a **thinner exchange surface**.
 - **ATP** is made from **ADP and phosphate** and is the **immediate source of energy** for biological processes such as active transport.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--15-fluid-mosaic.webp" width="900" height="910" alt="Cross-section of a cell membrane with two layers of phospholipids, a channel protein, a carrier protein, an extrinsic protein on the outer surface, a glycoprotein and a glycolipid with carbohydrate chains pointing outwards, and cholesterol between the phospholipids." loading="lazy">
+  <figcaption>The fluid-mosaic model: a phospholipid bilayer with intrinsic and extrinsic proteins, glycoproteins, glycolipids and cholesterol.</figcaption>
+</figure>
+
 ## 3.1.7.1 Nucleic acids
 
 Each **nucleotide** = a **pentose** + a **phosphate group** + a **nitrogen-containing base**.
@@ -144,6 +184,11 @@ Each **nucleotide** = a **pentose** + a **phosphate group** + a **nitrogen-conta
 
 - **mRNA**: a single, linear strand whose base sequence, read in triplets (codons), is copied from a gene.
 - **tRNA**: a single strand folded into a clover-leaf shape held by hydrogen bonds between some of its bases; it has an **anticodon** of three bases and a site where one specific amino acid attaches.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--01-nucleotide-chain.webp" width="900" height="1100" alt="Three nucleotides are stacked one below another. Each has a pentose sugar, a phosphate and a nitrogenous base. The 3′ carbon of one sugar is joined through a phosphate to the 5′ carbon of the next sugar by a phosphodiester bond, releasing one water molecule per bond. The top end has a free phosphate (5′) and the bottom end a free OH (3′); n nucleotides give n minus 1 bonds." loading="lazy">
+  <figcaption>Each condensation reaction joins two nucleotides with a phosphodiester bond and releases one water molecule.</figcaption>
+</figure>
 
 ## 3.1.7.2 DNA, genes and chromosomes
 
@@ -165,6 +210,11 @@ Each **nucleotide** = a **pentose** + a **phosphate group** + a **nitrogen-conta
 3. Free DNA nucleotides are attracted to the exposed bases and pair with them by complementary base pairing.
 4. **DNA polymerase** joins the new nucleotides together.
 5. Each new molecule has one original and one new strand: **semi-conservative** replication.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--04-replication-fork.webp" width="900" height="1030" alt="A replication fork opens to the right. Helicase at the fork breaks hydrogen bonds so both parent strands act as templates. DNA polymerase adds nucleotides only to the 3′ end, so each new strand grows 5′ to 3′. The leading strand is built continuously towards the fork; the lagging strand is built away from the fork in short fragments that DNA ligase joins. Every daughter duplex has one old and one new strand." loading="lazy">
+  <figcaption>New strands grow 5′ to 3′ only, so one strand is built continuously and the other in fragments.</figcaption>
+</figure>
 
 ## 3.1.8 Protein synthesis
 
@@ -192,6 +242,16 @@ You will be given the code table when it is needed; you do not have to recall wh
 **Protein folding.** The polypeptide folds into its characteristic 3-D structure. The folding is determined by the amino acid sequence, and specialised proteins called **chaperones** assist the folding of other proteins.
 
 **Worked reminder.** A DNA template strand reads TAC GGT CAA. The mRNA is AUG CCA GUU; the tRNA anticodons are UAC, GGU and CAA. Three codons give three amino acids.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
+  <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--07-translation-ribosome.webp" width="900" height="1022" alt="mRNA AUG UUC GGC AAC UAA passes through a ribosome. The ribosome holds two tRNAs, each carrying one amino acid with an anticodon complementary to its codon: AAG pairs with UUC (Phe) and CCG pairs with GGC (Gly). A peptide bond forms between amino acids, the first tRNA leaves, and the ribosome moves one codon along. The codons code for Met, Phe, Gly and Asn, and UAA is a stop codon." loading="lazy">
+  <figcaption>tRNA anticodons pair with mRNA codons on the ribosome, adding one amino acid at a time until a stop codon.</figcaption>
+</figure>
 
 ## Model answer shapes
 

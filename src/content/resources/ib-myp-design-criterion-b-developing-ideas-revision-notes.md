@@ -71,6 +71,11 @@ Requirement + measurable target + reason (from research) + test method.
 | Digital: speed | Fast | Timer screen loads in under 2 seconds |
 | Digital: usability | Easy to use | A new user starts a timer in 3 taps or fewer |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-b-developing-ideas--01-specification-point-anatomy.webp" width="900" height="610" alt="A specification point has a requirement, a measurable target and a reason from research, plus a column for how it will be tested. Example: the planter must hold 6 kg with 5 mm or less deflection, because of three pots of wet soil plus a safety margin, tested with weights. A point like “It must be strong” has no target and cannot be tested." loading="lazy">
+  <figcaption>Requirement, measurable target and reason, plus a test that Criterion D will use.</figcaption>
+</figure>
+
 ## Method in steps
 
 ### Writing the specification
@@ -95,6 +100,16 @@ Requirement + measurable target + reason (from research) + test method.
 5. Note feasibility: skills, tools, materials, time, cost.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-b-developing-ideas--03-range-of-ideas.webp" width="900" height="706" alt="Three copies of the same trough in three colours count as one idea. A genuine range for the planter: idea A, a folded aluminium trough with hooks over the rail; idea B, an exterior-plywood shelf gripped by two screw clamps; idea C, recycled PET felt pockets hung from a strap." loading="lazy">
+  <figcaption>Ideas form a range only if they solve the problem in different ways.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-b-developing-ideas--04-generate-and-check-feasibility.webp" width="900" height="665" alt="Four ways to generate ideas, annotated sketching, mind maps, morphological charts and SCAMPER, feed a funnel that checks each idea against skills, tools, materials, time and budget. The result is written into the annotation, for example noting that the school has a folding bar for sheet metal." loading="lazy">
+  <figcaption>An idea is feasible only if it can really be made with what is available.</figcaption>
+</figure>
+
 ### Choosing and justifying
 
 ```
@@ -107,6 +122,16 @@ Requirement + measurable target + reason (from research) + test method.
    why each rejected idea was weaker, feedback, weaknesses
    you will fix in development.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-b-developing-ideas--05-weighted-decision-matrix.webp" width="900" height="705" alt="Stacked bars show each idea’s weighted points for seven specification criteria, with weights 3, 3, 2, 2, 1, 1 and 1. Idea A totals 50, idea B 54 and idea C 43, out of a maximum of 65. Idea B’s working is 15 + 15 + 8 + 6 + 4 + 3 + 3 = 54." loading="lazy">
+  <figcaption>Weight times score, added up: B leads, but the total still needs a written justification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-b-developing-ideas--06-justifying-the-choice.webp" width="900" height="665" alt="Five steps of a justification for the planter: state the choice and score (B, 54 of 65), name the specification points it meets, compare with the rejected ideas A and C, include the client’s feedback, and admit B’s weakness in weather resistance with a plan to use exterior varnish and stainless screws." loading="lazy">
+  <figcaption>A justification compares ideas against named specification points, then plans development.</figcaption>
+</figure>
 
 ### Presenting the solution
 
@@ -134,6 +159,11 @@ Always: title block with scale, projection method, units.
 
 P wins by one point, so the written justification and feedback matter more than the total. A one-point gap is not a strong reason on its own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-b-developing-ideas--08-choosing-a-scale.webp" width="900" height="845" alt="Two A4 landscape sheets with a dashed 277 by 190 mm usable area. At 1:2 the front, plan and end views of the 450 by 180 by 120 mm planter need 335 mm of width and run off the sheet. At 1:5 they need 146 by 80 mm and fit, so a 90 mm pot hole is drawn 18 mm across." loading="lazy">
+  <figcaption>Work out the space the views need at each scale before you start drawing.</figcaption>
+</figure>
+
 ## Annotation that earns its place
 
 Annotations on idea sketches should link features to specification points and say something testable or feasible. Compare:
@@ -154,6 +184,11 @@ Why it works: it names the choice, quotes the scores, compares with the rejected
 | Plan position | Above the front view | Below the front view |
 | Right-hand end view | To the right of the front view | To the left of the front view |
 | Symbol | Show the projection symbol in the title block | Show the projection symbol in the title block |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-b-developing-ideas--07-third-and-first-angle.webp" width="900" height="660" alt="Two layouts of the same three views. In third-angle projection the plan sits above the front view and the right-hand end view sits to its right. In first-angle projection the plan sits below the front view and the view from the left sits to its right. Every drawing needs the projection symbol, a scale, key dimensions and a note that all dimensions are in mm." loading="lazy">
+  <figcaption>Where the plan sits tells you which projection method was used.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

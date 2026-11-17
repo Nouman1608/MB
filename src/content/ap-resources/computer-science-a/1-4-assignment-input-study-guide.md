@@ -66,6 +66,11 @@ During execution, an expression is evaluated to produce a **single value**, and 
 - A `double` value **cannot** be stored in an `int` variable (`int n = 2.5 * 2;` is rejected, even though 5.0 is whole, because the type of the value is `double`). You will see how to convert in Topic 1.5.
 - A `boolean` value goes only in a `boolean` variable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--03-type-compatibility.webp" width="900" height="702" alt="A grid of value types against variable types. An int value can be stored in an int or a double variable, where 5 becomes 5.0; a double value only in a double variable, even if it looks whole; a boolean value only in a boolean variable. Below: double d = a + 2; compiles, int n = 2.5 * 2; does not." loading="lazy">
+  <figcaption>The compiler checks the type of the value, not whether it looks like a whole number.</figcaption>
+</figure>
+
 ### Initialization: a variable must have a value before it is used
 
 A variable is **initialized** the first time it is assigned a value. Every variable must be assigned a value before it can be used in an expression. If you try to use one that has never been given a value, the compiler refuses:
@@ -81,6 +86,11 @@ error: variable y might not have been initialized
 
 Declaring and initializing in one statement (`int y = 0;`) avoids this. A variable can also be declared first and assigned later, as long as the assignment comes before any use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--04-initialization-and-null.webp" width="900" height="796" alt="Top: int y; declares y with no value, so int z = y + 1; fails with &quot;variable y might not have been initialized&quot;. Bottom: the String variable title holds an arrow to a String object &quot;Dune&quot;, while empty holds null and refers to no object; primitives cannot hold null, and &quot;&quot; is a real empty String." loading="lazy">
+  <figcaption>A variable must be given a value before use, and null means no object at all.</figcaption>
+</figure>
+
 ### Reference types and `null`
 
 A variable of a **reference type**, such as `String`, can be assigned a new object or **`null`**. The literal `null` is a special value that indicates that the reference is **not associated with any object**.
@@ -91,6 +101,16 @@ String empty = null;
 ```
 
 `title` refers to a `String` object. `empty` refers to nothing. A primitive variable cannot hold `null`: `int n = null;` does not compile. Calling a method on a `null` reference causes a `NullPointerException`, which Topic 1.14 covers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--01-evaluate-then-store.webp" width="900" height="634" alt="The statement a = a * b; with the right side marked &quot;evaluate first&quot; and the left variable marked &quot;store here&quot;. Before, a holds 3 and b holds 5; the right side 3 * 5 evaluates to the int 15; after, a holds 15 and b still holds 5." loading="lazy">
+  <figcaption>The right side is evaluated with the current values, then the result replaces the left variable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--02-trace-table.webp" width="900" height="588" alt="A four-line Java segment and its trace table. a is set to 3, b to a + 2 = 5, then a becomes a * b = 15, and finally b becomes b - a = 5 - 15 = -10, so the program prints 15 -10. In each row only the left-hand variable changes." loading="lazy">
+  <figcaption>One row per statement, and each statement changes only the variable on its left.</figcaption>
+</figure>
 
 ## Input: getting values from a user
 
@@ -157,6 +177,16 @@ public class Pitfall {
 
 The first `nextLine()` consumed the empty remainder of the line holding `5`; the second one read `hello`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--06-nextline-pitfall.webp" width="900" height="718" alt="The input 5, end-of-line, hello, end-of-line, with a read position marker. nextInt() reads 5 and stops before the end-of-line. The first nextLine() reads the empty rest of that line, so rest is the empty string. The second nextLine() reads hello. The program prints [] then [hello]." loading="lazy">
+  <figcaption>nextInt() leaves the end-of-line behind, so the next nextLine() returns an empty string.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--05-scanner-input-to-variables.webp" width="900" height="884" alt="Three lines of keyboard input, &quot;Ada Lovelace&quot;, 36 and 1.65, each followed by an end-of-line marker. Each Scanner call reads one item and its value is assigned to a variable: name holds &quot;Ada Lovelace&quot;, age holds 36 and height holds 1.65. A table lists nextInt, nextDouble, nextBoolean, next and nextLine." loading="lazy">
+  <figcaption>Each Scanner call is an expression whose value is stored by an assignment.</figcaption>
+</figure>
+
 ## A reliable method for tracing assignments
 
 Most exam questions on this topic ask you to say what a few statements leave in the variables. The same four moves work every time:
@@ -169,6 +199,11 @@ Most exam questions on this topic ask you to say what a few statements leave in 
 The commonest slips are updating the wrong column, using a value from a later row, and forgetting that an integer division has already thrown away its fraction before the result is stored. Rows with a gap, such as `-`, remind you that a variable cannot be used before it is declared and initialized.
 
 Input fits the same method. A statement such as `int age = in.nextInt();` is an assignment whose right side is "the next integer typed". When you trace a program that reads input, the question tells you what the user typed; write that value in the table when the read statement runs. Choose variable names that say what was read (`age`, not `a`): it makes the trace, and the program, easier to follow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--07-tracing-mixed-types.webp" width="900" height="711" alt="Four tracing moves: a column per variable with its type, one statement at a time, right side first, overwrite only the left. Applied to worked example 1, items goes 4 then 5, price goes 2.5 then 5.0, and cost goes 10.0 then 22.5, so the program prints 5 5.0 22.5." loading="lazy">
+  <figcaption>Columns, one row per statement, right side first: the output is 5 5.0 22.5.</figcaption>
+</figure>
 
 ## Worked example 1: Trace assignments with mixed types
 
@@ -229,6 +264,11 @@ Perimeter: 15.0
 **Step 2, trace by hand.** After the two reads, `length` holds 4.5 and `width` holds 3.0 (the input `3` is read by `nextDouble()` as the `double` 3.0). Then `area` is `4.5 * 3.0` = 13.5. For `perimeter`, the bracket is evaluated first: `4.5 + 3.0` = 7.5, and `2 * 7.5` is 15.0.
 
 **Step 3, check.** Every variable is initialized by its assignment before it is used. Each assigned value is a `double`, matching the declared types. If the user typed `abc` for the length, `nextDouble()` would throw an `InputMismatchException`: a run-time error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-computer-science-a-1-4-assignment-input-study-guide--08-rectangle-flowchart.webp" width="900" height="888" alt="Flowchart of the rectangle program. Two input steps read 4.5 into length and 3 into width as 3.0; area = length * width gives 13.5; perimeter = 2 * (length + width) evaluates the bracket to 7.5 then gives 15.0; the program prints Area: 13.5 and Perimeter: 15.0." loading="lazy">
+  <figcaption>Read, compute, print: every variable is assigned before it is used.</figcaption>
+</figure>
 
 ## Common misconceptions
 

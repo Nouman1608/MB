@@ -70,6 +70,16 @@ Real examples show how one issue moves between levels:
 
 **Worked example (analysis of levels):** "At a global level, mercury pollution is an issue because it travels through air and water and builds up in fish eaten across the world. At a national level, the question is how tightly a government should regulate industries that release mercury. At a local level, it is about whether a community can safely eat fish from its own bay. Linking these levels shows why a local problem may need action far beyond the place where it starts."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-environment-pollution-and-conservation--01-mercury-levels.webp" width="900" height="662" alt="Rings show mercury pollution locally (can a community eat fish from its bay), nationally (how tightly to regulate industry) and globally (mercury travels and builds up in fish worldwide). Below, the Minamata disease identified in Japan in 1956 led, decades later, to the global Minamata Convention on Mercury in 2013." loading="lazy">
+  <figcaption>A local problem may need action far beyond the place where it starts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-environment-pollution-and-conservation--02-montreal-kigali.webp" width="900" height="744" alt="A four-step sequence: chemicals damage the ozone layer; the 1987 Montreal Protocol, ratified by every UN member state, phases them out; some replacement chemicals, HFCs, turn out to be strong greenhouse gases; the 2016 Kigali Amendment follows." loading="lazy">
+  <figcaption>Even a successful global agreement can have unintended consequences.</figcaption>
+</figure>
+
 ## Perspectives: who thinks what, and why
 
 AO2 asks you to "consider different perspectives objectively and with empathy". The Individual Report section says candidates should show "why different people have different perspectives". So do not just list views. Explain the reasons behind each.
@@ -86,6 +96,11 @@ Notice that a perspective is not the same as a group. Two fishers can hold diffe
 
 **Worked example (perspective with empathy):** "A herder who opposes a new reserve is not simply 'against nature'. If the reserve removes the grazing land her family has used for generations, her opposition rests on a reasonable concern about food and income. A strong report would take that concern seriously while also weighing the evidence that overgrazing is harming the habitat."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-environment-pollution-and-conservation--03-protected-area-spectrum.webp" width="900" height="600" alt="A spectrum from worried to supportive about a new protected area: local farmers, fishers and herders whose livelihoods depend on the area; a national government with mixed motives; tourism businesses; and conservation groups and international bodies backing the 2022 target of conserving 30% of land and sea by 2030." loading="lazy">
+  <figcaption>Explain why each group sits where it does, and remember individuals within a group can differ.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 The aims include developing "an analytical and evaluative grasp of global issues and their causes and consequences". The Individual Report says causes and consequences should be "presented and analysed in depth".
@@ -96,6 +111,11 @@ Analysis means showing **chains**, not lists. Compare:
 - *Chain (strong):* "Cheap production for export encourages factories to cut costs. Treating wastewater is expensive, so some discharge it untreated where enforcement is weak. Fish stocks fall, which hits the income of fishing families downstream."
 
 Sort consequences by **who** and **where** they affect: environmental, economic, social and health consequences; short term and long term; local and global. Also look for **trade-offs**: a consequence that is bad for one group may be good for another. Closing a polluting factory helps people downstream but costs workers their jobs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-environment-pollution-and-conservation--04-river-pollution-chain.webp" width="900" height="713" alt="A weak list of pollution causes contrasted with a chain: cheap production for export, factories cutting costs on wastewater treatment, untreated discharge where enforcement is weak, and falling fish stocks hitting fishing families downstream. A balance shows the trade-off of closing the factory: people downstream gain, workers lose jobs." loading="lazy">
+  <figcaption>Chains show analysis; trade-offs show that one consequence can help one group and hurt another.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -126,6 +146,11 @@ A vested interest does not make a source wrong. It means you should check whethe
 
 **Worked example (evaluating evidence):** An invented survey says, "80% of residents of Fenmoor want the wetland protected." *Knowledge:* this is a claim backed by a statistic. *Application:* the survey was run by a wetland charity and only 50 people replied, all through its own newsletter. *Analysis:* newsletter readers are likely to support the charity already, so the sample is self-selected and small. *Evaluation:* the figure may show strong support among existing supporters, but it cannot show what Fenmoor as a whole thinks. A random survey of households would test the claim more fairly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-environment-pollution-and-conservation--05-fenmoor-survey.webp" width="900" height="762" alt="Nested circles: all Fenmoor residents contain a smaller group of the wetland charity’s newsletter readers, likely supporters already, which contains the 50 people who replied. The invented claim that 80% of residents want the wetland protected rests on this small, self-selected sample; a random household survey would be fairer." loading="lazy">
+  <figcaption>A self-selected sample shows what supporters think, not what everyone thinks.</figcaption>
+</figure>
+
 ## Courses of action and their effects
 
 Component 1 Question 4 asks you to "assess actions in response to the global issue". The Individual Report must consider "different possible courses of action" and propose a single one, explaining "how it could be implemented and what its impact would be".
@@ -141,6 +166,11 @@ Types of action on this topic:
 Judge each action against clear criteria: **effectiveness** (does it tackle the cause?), **feasibility** (cost, time, who must agree), **fairness** (who pays and who benefits?), **sustainability** (will it last?) and **unintended consequences**.
 
 **Worked example (assessing an action):** "A national ban on single-use bags tackles one visible source of waste and is simple to enforce in shops. However, it does nothing about other plastics, and if shoppers switch to thicker bags used only once, the benefit falls. It is most effective alongside reusable alternatives that poorer households can afford. Overall, a ban works best as one part of a wider plan, not as the whole plan."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-environment-pollution-and-conservation--06-actions-and-bag-ban.webp" width="900" height="823" alt="Five stacked bands of action from international agreements, national laws, market tools and local community action to individual choices. Below, a national ban on single-use bags is assessed: it tackles a visible waste source and is easy to enforce, but ignores other plastics and can be undermined by thicker bags used once." loading="lazy">
+  <figcaption>One action rarely solves an issue alone; judge it as part of a wider plan.</figcaption>
+</figure>
 
 ## Individual Report ideas
 

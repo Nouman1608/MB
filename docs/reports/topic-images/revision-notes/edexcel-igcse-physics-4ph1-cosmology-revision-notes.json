@@ -1,0 +1,10 @@
+{ "page": "edexcel-igcse-physics-4ph1-cosmology-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--01-big-bang-history.webp", "after": "## Past evolution of the universe" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-waves--01-doppler-effect.webp", "after": "## Doppler effect" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--02-red-shifted-spectral-lines.webp", "after": "## Doppler effect" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--03-red-shift-worked-examples.webp", "after": "## Red-shift equation" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--04-red-shift-and-distance.webp", "after": "## Red-shift and distance" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--05-balloon-analogy.webp", "after": "## Evidence for expansion" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--06-red-shift-explanation-chain.webp", "after": "## Evidence for expansion" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--07-cosmic-microwave-background.webp", "after": "## Cosmic microwave background (CMB)" }
+] }

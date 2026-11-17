@@ -1,0 +1,56 @@
+[
+ {
+  "file": "oxfordaqa-igcse-sociology-9292-education--01-education-and-schooling.webp",
+  "width": 900,
+  "height": 687,
+  "after": "## Education and schooling",
+  "alt": "Formal education happens in institutions with a curriculum and qualifications; informal education happens through families, peers and media. A staircase shows the levels: nursery, primary, secondary and tertiary. Cards contrast the official and hidden curriculum and note the limits of online learning.",
+  "caption": "Formal education climbs from nursery to tertiary; informal education happens everywhere.",
+  "bytes": 93952
+ },
+ {
+  "file": "oxfordaqa-igcse-sociology-9292-education--02-perspectives-on-education.webp",
+  "width": 900,
+  "height": 606,
+  "after": "## Perspectives on education",
+  "alt": "Four cards. Functionalism: shared values, a bridge to universalistic standards, role allocation and human capital. Marxism: Bowles and Gintis on preparation for work and the myth of meritocracy; Bourdieu on cultural capital. Radical critics: Illich on deschooling, Freire on banking education. Feminisms: gender roles reinforced in school, and Sharpe’s finding that girls’ priorities shifted towards careers.",
+  "caption": "Each perspective asks whose interests education serves.",
+  "bytes": 126330
+ },
+ {
+  "file": "oxfordaqa-igcse-sociology-9292-education--03-bourdieu-cultural-capital.webp",
+  "width": 900,
+  "height": 507,
+  "after": "## Perspectives on education",
+  "alt": "A chain: a middle-class home gives knowledge, language and tastes; this cultural capital is what schools value; so middle-class pupils attain more. Schools therefore reproduce class inequality and legitimise it by making it look like individual merit. A note warns that cultural capital is not money.",
+  "caption": "Schools reward middle-class culture, then call the result merit.",
+  "bytes": 83668
+ },
+ {
+  "file": "oxfordaqa-igcse-sociology-9292-education--04-labelling-four-marks.webp",
+  "width": 900,
+  "height": 879,
+  "after": "## Worked example: applying labelling",
+  "alt": "Four numbered steps: a teacher labels a pupil as less able; gives them easier work and less attention; the pupil sees themselves as less able and stops trying; low attainment fulfils the expectation. A note adds Rosenthal and Jacobson’s field experiment, Becker’s ideal pupil and the point that pupils can reject labels.",
+  "caption": "Label, treatment, self-image, outcome: one mark for each link.",
+  "bytes": 129362
+ },
+ {
+  "file": "oxfordaqa-igcse-sociology-9292-education--05-classroom-processes.webp",
+  "width": 900,
+  "height": 646,
+  "after": "## Relationships and processes in schools",
+  "alt": "Six cards: the ideal pupil (Becker), stereotyping, the halo effect, positive and negative sanctions, pro-school subcultures that value achievement, and anti-school subcultures such as Willis’s lads. A note adds that racism and sexism work through labelling, low expectations, harsher sanctions and an ethnocentric curriculum.",
+  "caption": "Interactionists look at the small, everyday processes that shape pupils.",
+  "bytes": 114554
+ },
+ {
+  "file": "oxfordaqa-igcse-sociology-9292-education--06-attainment-explanations.webp",
+  "width": 900,
+  "height": 661,
+  "after": "## Educational attainment",
+  "alt": "Nested boxes. Inside school: labelling, setting and streaming, subcultures and ethnocentric curricula. Outside school: material factors such as poverty, cultural factors such as cultural capital, and home and community factors such as parents’ support. Class, gender and ethnicity intersect.",
+  "caption": "Explain attainment gaps from both inside and outside the school gates.",
+  "bytes": 101276
+ }
+]

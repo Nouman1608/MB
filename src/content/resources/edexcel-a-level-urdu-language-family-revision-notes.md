@@ -33,6 +33,11 @@ Revision notes for **sub-theme 1.1** of Theme 1 in Pearson Edexcel A Level Urdu 
 - **الگ گھرانا / چھوٹا خاندان** = a separate or smaller household.
 - Also be ready to discuss: the role of elders and who cares for them, changing roles of parents and children, marriage customs and expectations, and the effect of migration from villages to cities and of work abroad.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--01-theme-1-map.webp" width="900" height="550" alt="Theme 1, پاکستانی معاشرے کا ارتقا (Evolving Pakistani society), has three sub-themes: family (خاندان), work (کام) and equal access to education (تعلیم), the last being the research subject, which must concern Pakistan." loading="lazy">
+  <figcaption>Three sub-themes; equal access to education is the research subject.</figcaption>
+</figure>
+
 ## Issues and perspectives
 
 **The joint family and why it is changing.** In a traditional joint family, grandparents, their sons, the sons' wives and children may share one house, one kitchen and one budget, with the eldest man or woman often taking the main decisions. This system offers shared costs, childcare from grandparents, company and care in old age, and a sense of belonging. Several pressures are changing it: moving to cities for work (**شہروں کی طرف نقل مکانی**), smaller flats, more women in paid work, higher education, work abroad, and a growing wish among couples for privacy (**نجی زندگی**) and independence (**خود مختاری**). Many families now live in a mixed pattern: a separate household close to the parents, with frequent visits and shared responsibilities.
@@ -46,6 +51,11 @@ Revision notes for **sub-theme 1.1** of Theme 1 in Pearson Edexcel A Level Urdu 
 **Migration and the family.** When a parent works in the Gulf or a family settles abroad, money sent home can improve living standards, but separation affects relationships and children's upbringing. Second-generation families abroad may hold different expectations from relatives in Pakistan, which links this sub-theme to Theme 3.
 
 **A balanced position.** Avoid claiming that the joint family is always better or that it is simply outdated. Most strong answers argue that the form of the family is changing, while its core values (support, respect, care) can survive in new forms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--02-family-structures.webp" width="900" height="630" alt="The joint family system (مشترکہ خاندانی نظام) offers support and shared costs; the separate or smaller household (الگ گھرانا / چھوٹا خاندان) offers privacy and independence. A balanced position is strongest. Key words: بزرگ, رشتے دار, شادی, ذمہ داری, روایت, نسل, دیکھ بھال." loading="lazy">
+  <figcaption>Weigh both family forms rather than calling either simply right.</figcaption>
+</figure>
 
 ## Vocabulary
 
@@ -119,6 +129,11 @@ The strongest position is usually balanced: society is changing, and neither for
 | میرے خیال میں | in my opinion |
 | ایک طرف ... دوسری طرف | on one hand ... on the other |
 | آخر میں | finally |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--06-connectives.webp" width="900" height="512" alt="Six Urdu connectives with meanings: اس کے برعکس in contrast, اس کے علاوہ in addition, نتیجتاً as a result, میرے خیال میں in my opinion, ایک طرف ... دوسری طرف on one hand ... on the other, and آخر میں finally." loading="lazy">
+  <figcaption>Learn connectives as building blocks and use each in a sentence of your own.</figcaption>
+</figure>
 
 ## Discussion and essay prompts
 

@@ -1,0 +1,9 @@
+{ "page": "ib-dp-ess-atmosphere-climate-change-ozone-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--01-atmosphere-layers-composition.webp", "after": "## 6.1 The atmosphere in brief"},
+ {"src": "https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--02-energy-balance-greenhouse.webp", "after": "## 6.1 The atmosphere in brief"},
+ {"src": "https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--04-feedback-loops.webp", "after": "## 6.2 Causes, evidence, feedback, impacts"},
+ {"src": "https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--03-co2-equivalent.webp", "after": "### Method in steps: CO₂e calculation"},
+ {"src": "https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--05-mitigation-adaptation.webp", "after": "## 6.3 Mitigation and adaptation"},
+ {"src": "https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--06-ozone-chemistry.webp", "after": "## 6.4 Stratospheric ozone"},
+ {"src": "https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--07-ozone-vs-climate.webp", "after": "## Must-know distinctions"}
+] }

@@ -1,0 +1,38 @@
+[
+ {
+  "file": "oxfordaqa-igcse-english-literature-9275-unseen-prose--01-protect-45-minutes.webp",
+  "width": 900,
+  "height": 504,
+  "after": "## What 3.2.3 covers",
+  "alt": "Paper 2a has three 30-mark sections of about 45 minutes each: anthology poetry, unseen poetry and, last, unseen prose. A second bar shows the first two sections overrunning, which squeezes the time left for unseen prose.",
+  "caption": "As the last section, unseen prose pays for any overrun earlier in the paper.",
+  "bytes": 70368
+ },
+ {
+  "file": "oxfordaqa-igcse-english-literature-9275-unseen-prose--02-method-45-minutes.webp",
+  "width": 900,
+  "height": 758,
+  "after": "## A method for the 45 minutes",
+  "alt": "A 45-minute bar: 1 minute to read the question, 4 to read for sense, 5 to read again for method, 5 to plan and about 30 to write. Five numbered steps explain each stage, starting with underlining the question’s focus.",
+  "caption": "Read the question before the extract, so every annotation serves it.",
+  "bytes": 105558
+ },
+ {
+  "file": "oxfordaqa-igcse-english-literature-9275-unseen-prose--03-anil-extract-annotated.webp",
+  "width": 900,
+  "height": 846,
+  "after": "## Worked example",
+  "alt": "The guide’s original extract about Anil and an unopened letter, with four sections marked: the letter as a sulking presence, the mother’s avoidance through action, the short sentences that break the pattern, and the ending, where warmth reads as over-compensation and the letter’s contents are never revealed.",
+  "caption": "Unease comes from what is avoided, analysed from the printed words only.",
+  "bytes": 247100
+ },
+ {
+  "file": "oxfordaqa-igcse-english-literature-9275-unseen-prose--04-unease-builds.webp",
+  "width": 900,
+  "height": 550,
+  "after": "## Worked example",
+  "alt": "The extract’s three paragraphs shown in sequence with rising unease: routine while the letter stays, the mother’s avoidance, and the silence after it disappears. The letter’s contents are never revealed, so the reader shares Anil’s uncertainty.",
+  "caption": "The extract withholds the answer, so the unease stays with the reader.",
+  "bytes": 83592
+ }
+]

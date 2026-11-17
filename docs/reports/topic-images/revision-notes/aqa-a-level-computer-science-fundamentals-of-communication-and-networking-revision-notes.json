@@ -1,0 +1,9 @@
+{ "page": "aqa-a-level-computer-science-fundamentals-of-communication-and-networking-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--01-baud-bitrate.webp", "after": "## Communication: the definitions" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--02-async-framing.webp", "after": "## Communication: the definitions" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--03-star-vs-bus.webp", "after": "## Networks and Wi-Fi" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--04-hidden-node.webp", "after": "### CSMA/CA (with and without RTS/CTS)" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--06-packet-switching.webp", "after": "## The Internet" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--05-tcpip-layers.webp", "after": "## TCP/IP" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--07-subnet-26.webp", "after": "## IP addressing -- worked example" }
+] }

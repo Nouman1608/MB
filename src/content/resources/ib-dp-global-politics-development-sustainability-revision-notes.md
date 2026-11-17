@@ -50,6 +50,11 @@ Links: [course hub](/boards/ib/ib-dp/global-politics/) · [printable checklist](
 | Informal economy | Unregistered, untaxed work outside state regulation |
 | FDI | Foreign direct investment: a firm builds or buys a lasting stake in another country |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--01-contested-meanings.webp" width="900" height="588" alt="Four contested terms. Development as growth, human development or institutional change; sustainability in three dimensions, with the Brundtland definition; poverty as lack of resources (absolute) or opportunities (relative); inequality as economic, political and social, linked to power asymmetries." loading="lazy">
+  <figcaption>Each key term has several meanings, and actors choose the one that suits them.</figcaption>
+</figure>
+
 ## Measures -- what each misses
 
 | Measure | Captures | Misses |
@@ -71,6 +76,21 @@ Links: [course hub](/boards/ib/ib-dp/global-politics/) · [printable checklist](
 
 **Worked reminder.** If 25% of people are multidimensionally poor (H = 0.25) and the average poor person is deprived in 44% of weighted indicators (A = 0.44), MPI = 0.25 × 0.44 = 0.11.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--03-measures.webp" width="900" height="562" alt="A table of development measures with what each combines and its main limitation: the HDI, the Multidimensional Poverty Index, the Happy Planet Index, the Gini index, corruption and trust indices, and sustainability and governance indices." loading="lazy">
+  <figcaption>Every index captures something and misses something; say which.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--05-hdi-geometric-mean.webp" width="900" height="633" alt="Country A scores 0.90 for health, 0.50 for education and 0.85 for income; country B scores 0.75 in all three. Both have an arithmetic mean of 0.75, but the geometric mean gives A an HDI of about 0.726 and B 0.75." loading="lazy">
+  <figcaption>The geometric mean penalises uneven development.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--04-mpi-example.webp" width="900" height="594" alt="Two fictional districts each with 1,000 people, 340 of them multidimensionally poor, so H is 0.34. In district 1 the average intensity A is 0.50, giving an MPI of 0.17; in district 2 A is 0.40, giving 0.136." loading="lazy">
+  <figcaption>Same headcount, lower intensity, lower MPI.</figcaption>
+</figure>
+
 ## Actors -- one-line roles
 
 | Actor | Role in one line |
@@ -91,6 +111,11 @@ Links: [course hub](/boards/ib/ib-dp/global-politics/) · [printable checklist](
 3. Show who it cooperates or clashes with.
 4. Judge whether those affected see its role as legitimate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--02-actors.webp" width="900" height="708" alt="Five kinds of actor around development and sustainability: states and governments, such as Brazil’s Bolsa Família; IGOs and financial institutions such as the World Bank, IMF and WTO; civil society such as the Green Belt Movement; TNCs, as in garment supply chains after Rana Plaza; and marginalised groups who are often excluded." loading="lazy">
+  <figcaption>Each actor wants different things and holds different power over the rules.</figcaption>
+</figure>
+
 ## Pathways
 
 | Pathway | Slogan | Weakness |
@@ -102,6 +127,11 @@ Links: [course hub](/boards/ib/ib-dp/global-politics/) · [printable checklist](
 | Human development | Capabilities first | Slow growth payoff |
 | Community-led / sustainable | Local control, green technology | Scale |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--06-pathways.webp" width="900" height="541" alt="Six pathways with their core idea and main criticism: modernization, market-led, state-led, dependency and world-systems, human development, and community-led sustainable development." loading="lazy">
+  <figcaption>Every pathway carries a theory of why states are poor, and a weakness.</figcaption>
+</figure>
+
 ## Factors checklist (the guide's five groups)
 
 - **Political:** conflict, stability, accountability, transparency, legal frameworks, aid decisions, bureaucracy, vested interests.
@@ -110,12 +140,22 @@ Links: [course hub](/boards/ib/ib-dp/global-politics/) · [printable checklist](
 - **Institutional:** UN, IMF, World Bank, WTO, partnerships between developing countries, national and local institutions.
 - **Environmental:** geography, resource endowment, climate change impacts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--07-resource-curse.webp" width="900" height="465" alt="Oil or mineral wealth, an environmental and economic factor, can feed corruption and conflict, a political factor, so some resource-rich states develop more slowly than resource-poor ones. Below, the five sets of factors: political, economic, social, institutional and environmental." loading="lazy">
+  <figcaption>One factor can trigger another: resource wealth can slow development through politics.</figcaption>
+</figure>
+
 ## Debates in one line each
 
 - **Globalization:** export-led growth and poverty reduction versus inequality, a race to the bottom and lost policy space.
 - **Sustainable development and the SDGs (17 goals, 2015-2030):** shared universal agenda versus growth-dependent, non-binding, internally contradictory targets.
 - **De-growth:** rich states should shrink material throughput and aim for wellbeing; critics say it hurts jobs and ignores poorer states' needs.
 - **Regenerative approaches:** restore ecosystems and communities, not just limit harm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--08-debates.webp" width="900" height="620" alt="Arguments for globalization, such as export-led growth and falling extreme poverty in East Asia, against arguments such as rising inequality and loss of policy space. The 17 SDGs offer a shared framework but are criticised as growth-based and non-binding. Alternatives include de-growth, regenerative approaches, the doughnut, buen vivir and Gross National Happiness." loading="lazy">
+  <figcaption>Argue both sides of globalization and the SDGs, then weigh the alternatives.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

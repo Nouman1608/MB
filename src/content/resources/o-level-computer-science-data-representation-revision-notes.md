@@ -46,6 +46,11 @@ Denary 205  ->  Binary 11001101  ->  Hex CD
 Split into nibbles: 1100 = 12 = C,  1101 = 13 = D  ->  CD
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--12-denary-binary-hex.webp" width="900" height="870" alt="Eight place values from 128 to 1 sit above the bits 11001101, which add up to 205. The bits split into nibbles 1100 and 1101, worth 12 and 13, written as hex digits C and D, giving CD." loading="lazy">
+  <figcaption>Each hex digit stands for four bits, so 205 = 11001101 = CD.</figcaption>
+</figure>
+
 ## Binary addition and overflow
 
 ```
@@ -53,6 +58,11 @@ Split into nibbles: 1100 = 12 = C,  1101 = 13 = D  ->  CD
 ```
 
 **Overflow** occurs when the result needs more bits than the register holds. In 8 bits the largest unsigned value is 255, so adding beyond that gives an incorrect result. The phrasing that scores is *"the result is too large for the number of bits allocated"*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--13-overflow-and-shifts.webp" width="900" height="960" alt="Two 8-bit numbers are added to give a 9-bit answer; the 9th bit falls outside the register and is lost, leaving the wrong value 49. Below, the number 13 is shifted left to make 26 and right to make 6, with the bit shifted out lost." loading="lazy">
+  <figcaption>Overflow loses the extra bit; a left shift doubles and a right shift halves.</figcaption>
+</figure>
 
 ## Binary shifts
 
@@ -133,6 +143,11 @@ MiB   = 1406.25 / 1024   = 1.37 MiB
 
 Dividing by 8 to reach bytes, then by 1024 **twice** to reach MiB, is where most marks are lost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--15-image-file-size.webp" width="900" height="1050" alt="A pixel grid is labelled 800 pixels by 600 pixels with 24 bits per pixel. Below, a chain of conversions: 11 520 000 bits, divide by 8 to 1 440 000 bytes, divide by 1024 to 1406.25 KiB, divide by 1024 to 1.37 MiB." loading="lazy">
+  <figcaption>Convert bits to bytes (divide by 8), then divide by 1024 twice to reach MiB.</figcaption>
+</figure>
+
 ## Sound
 
 ```
@@ -145,6 +160,11 @@ file size = sample rate x bit depth x duration
 The formula gives the size in **bits** (duration in seconds); divide by 8 for bytes, then by 1024 for each step up (KiB, MiB). For example, 44 100 Hz × 16 bits × 10 s = 7 056 000 bits = 882 000 bytes ≈ 861.3 KiB.
 
 **Sampling is an approximation of a continuous wave.** A higher sample rate captures the waveform more faithfully and a higher bit depth records each amplitude more precisely — so both improve accuracy at the cost of file size.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--16-sound-sampling.webp" width="900" height="870" alt="A smooth sound wave is sampled at regular intervals; each sample is a dot rounded to the nearest of eight levels. Arrows mark the time between samples (sample rate) and the size of a level step (resolution). The file size formula is shown below." loading="lazy">
+  <figcaption>Sample rate is how often the wave is measured; resolution is how many bits each measurement uses.</figcaption>
+</figure>
 
 ## Storage units
 
@@ -161,6 +181,11 @@ The syllabus lists: **bit**, **nibble** (4 bits), **byte** (8 bits), **kibibyte 
 **Lossless must be used where every bit matters** — a compressed program or spreadsheet missing data would be corrupt. Lossy is acceptable where the removed data is hard for human senses to notice. File formats such as JPEG and MP3 use lossy compression; the methods behind them are the reductions in the table.
 
 **Run-length encoding** replaces runs of identical values with a value and a count. It works well on images with large uniform areas but **can produce a larger file** on noisy or photographic data — so compression does not always reduce size.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--14-run-length-encoding.webp" width="900" height="930" alt="Two rows of 12 pixels. The simple row compresses to two runs (8 white, 4 black), 4 values. The noisy row has 10 runs, 20 values, which is larger than the original 12." loading="lazy">
+  <figcaption>RLE shrinks repetitive data but can enlarge noisy data.</figcaption>
+</figure>
 
 ## Exam traps
 

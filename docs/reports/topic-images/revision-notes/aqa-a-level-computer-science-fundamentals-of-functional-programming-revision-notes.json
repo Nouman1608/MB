@@ -1,0 +1,7 @@
+{ "page": "aqa-a-level-computer-science-fundamentals-of-functional-programming-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--14-composition-order.webp", "after": "## Composition of functions" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--12-map-filter-fold.webp", "after": "## Map, filter and fold" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--13-fold-direction.webp", "after": "## Map, filter and fold" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--15-filter-map-fold-pipeline.webp", "after": "### Worked example: combining them" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--16-recursive-map-trace.webp", "after": "## Lists: head and tail" }
+] }

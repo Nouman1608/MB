@@ -68,6 +68,11 @@ reactant concentrations are highest at the start.
 
 Reading a rate directly from experimental data (a gradient over an interval, or a tangent to a graph) requires no rate equation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--08-kin-effective-collisions.webp" width="900" height="1060" alt="Three panels of particles X and Y, each with a gold spot marking the reactive side. Panel 1: short arrows, too little energy, the particles bounce apart. Panel 2: long arrows but the reactive spot of X faces away, wrong orientation, they bounce apart. Panel 3: long arrows and the reactive sides face each other, so energy is at least the activation energy and the orientation is right: a product forms." loading="lazy">
+  <figcaption>A collision reacts only if it has at least the activation energy and the right orientation.</figcaption>
+</figure>
+
 ## How do concentration, pressure, temperature and catalysts change the rate?
 
 | Factor | Rate | Why — be precise |
@@ -82,6 +87,11 @@ The 9701 learning outcomes name concentration, pressure, temperature and catalys
 here for completeness because it appears in practical contexts.
 
 **Only temperature increases the energy of collisions.** The others change frequency alone — and the temperature effect is dominated by the proportion exceeding Eₐ, not by the modest increase in collision frequency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--09-kin-concentration-pressure.webp" width="900" height="1190" alt="Top: two equal boxes of particles, 6 at low concentration and 12 at high concentration. Middle: the same 6 gas particles, first in a full-size container at low pressure, then squeezed by a piston into half the volume at high pressure. Both increase particles per unit volume. Chain: more particles per volume, more frequent collisions, more effective collisions per second, faster rate; the proportion of collisions that are effective is unchanged." loading="lazy">
+  <figcaption>More particles per unit volume means more frequent collisions, so more effective collisions per second.</figcaption>
+</figure>
 
 ## How do you sketch and use the Boltzmann distribution?
 
@@ -98,6 +108,16 @@ Key features to draw and label:
 
 That distinction — temperature moves the curve, a catalyst moves the line — is one examiners often check carefully.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--11-kin-boltzmann-ea.webp" width="900" height="880" alt="A skewed Boltzmann distribution of the energies of particles: it starts at zero, rises to a peak and falls in a long tail that never touches the energy axis. The area under the whole curve represents all the particles. A dashed line marks the activation energy Ea; the shaded area to its right represents the particles with enough energy to react." loading="lazy">
+  <figcaption>The shaded area beyond Ea is the number of particles that can react.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--12-kin-boltzmann-temperature.webp" width="900" height="950" alt="Two Boltzmann curves, a lower and a higher temperature, enclosing the same total area. The higher temperature curve has a lower peak further right. The areas beyond the activation energy Ea are shaded: the peak energy rises by about 25 percent in this illustrative example but the area beyond Ea grows about 1.8 times, which is why rate is so sensitive to temperature." loading="lazy">
+  <figcaption>A hotter sample has a flatter curve, and the area beyond Ea grows by a much larger proportion than the peak shifts.</figcaption>
+</figure>
+
 ## What does a catalyst do?
 
 - Increase rate by providing an alternative route of lower Eₐ.
@@ -106,6 +126,16 @@ That distinction — temperature moves the curve, a catalyst moves the line — 
 - **Homogeneous** — same phase as reactants, e.g. aqueous iodide ions catalysing the decomposition of aqueous hydrogen peroxide. **Heterogeneous** — different phase, working by adsorption onto the surface, reaction, then desorption, e.g. the solid iron catalyst in the gas-phase Haber process.
 
 A **reaction-pathway diagram** compares catalysed and uncatalysed routes: both start and end at the **same enthalpy levels** (ΔH is unchanged), but the catalysed pathway's peak sits **lower**, showing the reduced activation energy directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--13-kin-catalyst.webp" width="900" height="1100" alt="Top: reaction-pathway diagram. Reactants start and products end at the same enthalpy levels with and without a catalyst, so delta H is unchanged, but the catalysed route has a lower peak, a smaller activation energy. Bottom: a Boltzmann distribution with two activation energy lines; the lower Ea for the catalysed route leaves a larger shaded area of particles able to react at the same temperature." loading="lazy">
+  <figcaption>A catalyst offers a route with a lower activation energy; delta H and the reactant and product levels do not change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--14-kin-homogeneous-heterogeneous.webp" width="900" height="1030" alt="Two panels. Homogeneous catalysis: aqueous iodide ions I- catalyse the decomposition of aqueous hydrogen peroxide; catalyst and reactant are both in the same solution. Heterogeneous catalysis: a solid iron catalyst Fe(s) at the bottom of a vessel with gaseous nitrogen and hydrogen above it in the Haber process; catalyst and reactants are in different phases. The classification depends only on whether the catalyst is in the same phase as the reactants." loading="lazy">
+  <figcaption>Homogeneous catalysts share the reactants phase; heterogeneous catalysts do not.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

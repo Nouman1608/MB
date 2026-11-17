@@ -47,6 +47,11 @@ area, but it should not shrink a global question into a purely personal one.
 The topic is examined through **Paper 1 (Reading)**, which includes translation from English into
 Urdu, and **Paper 2 (Writing)**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-global-issues--01-social-versus-global.webp" width="900" height="640" alt="Nested circles: Social issues (you and your community) sit inside Global issues (problems that cross borders), whose sub-topics are the environment (ماحول) and poverty (غربت). Connect a world problem to your own area, but do not shrink a global question into a personal one." loading="lazy">
+  <figcaption>Global issues differs from Social issues in scale; link them without shrinking the question.</figcaption>
+</figure>
+
 ## Vocabulary
 
 **The environment**
@@ -119,6 +124,11 @@ that), جس سے (which leads to). Chain them: جنگلات کی کٹائی کی
 **6. Contrast and concession.** اگرچہ (although), اس کے باوجود (despite this): اگرچہ حکومت نے
 کچھ اقدامات کیے ہیں، اس کے باوجود آلودگی کم نہیں ہوئی.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-global-issues--02-passive-with-jana.webp" width="900" height="780" alt="The passive is formed with a past participle plus جانا, agreeing with the thing affected: بہت سے درخت کاٹے جاتے ہیں, پلاسٹک کو دوبارہ استعمال کیا جا سکتا ہے, and اس مسئلے پر توجہ نہیں دی جاتی with feminine دی for توجہ." loading="lazy">
+  <figcaption>Participle plus جانا, agreeing with the noun affected, makes writing sound mature.</figcaption>
+</figure>
+
 ## Worked example 1: translation into Urdu
 
 English: *Pollution is a serious problem in many big cities. Plastic bags should be banned. If we
@@ -137,6 +147,11 @@ Answer: بہت سے بڑے شہروں میں آلودگی ایک سنگین مس
 
 A word-for-word attempt such as پلاسٹک کے تھیلے بین ہونے چاہئیں borrows "ban" unnecessarily
 and misses the natural پابندی construction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-global-issues--03-three-conditions.webp" width="900" height="620" alt="Three Urdu conditions with glosses: a real one about saving water, a warning (اگر ہم نے ابھی کچھ نہ کیا تو ...) that uses an idiomatic past form for the future, and a hypothetical about solar energy in every home." loading="lazy">
+  <figcaption>Use اگر ... تو for real results, warnings and imagined situations.</figcaption>
+</figure>
 
 ## Worked example 2: a paragraph on poverty
 
@@ -188,6 +203,11 @@ than borrowing English words.
 and governments, and finish with a justified opinion. One passive, one conditional and one
 concession (اگرچہ ...) in the same answer show a wide range of structures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-global-issues--04-global-issues-answer-plan.webp" width="900" height="700" alt="Four steps: name the problem; chain causes and effects, as in جنگلات کی کٹائی کی وجہ سے بارش کم ہوتی ہے، جس سے خشک سالی بڑھتی ہے; split solutions between individuals (ہر شخص کو ... چاہیے) and government (حکومت کو ... پر پابندی لگانی چاہیے); and end with a justified opinion, using a passive, a conditional and اگرچہ." loading="lazy">
+  <figcaption>Problem, causes and effects, who should act, then a justified opinion.</figcaption>
+</figure>
+
 ## Building a developed answer on poverty
 
 Poverty answers are often thin because students know the word غربت but little else. Build a grid
@@ -204,6 +224,11 @@ Pick one item from each column and link them: بے روزگاری کی وجہ س
 اگر روزگار کے مزید مواقع پیدا کیے جائیں تو حالات بہتر ہو سکتے ہیں۔ (Because of unemployment many
 families suffer hunger; if more job opportunities were created, the situation could improve.)
 That one sentence contains a cause, an effect, a passive (پیدا کیے جائیں) and a condition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-global-issues--05-poverty-grid.webp" width="900" height="770" alt="A grid reading right to left from causes to effects to solutions: بے روزگاری to بھوک to روزگار کے مواقع; تعلیم کی کمی, بیماریاں, مفت تعلیم; قدرتی آفات, بے گھری, عالمی امداد; مہنگائی, بچوں کی مشقت, صاف پانی کی فراہمی." loading="lazy">
+  <figcaption>Pick a cause, an effect and a solution and you can always develop a point.</figcaption>
+</figure>
 
 ## Practise next
 

@@ -58,6 +58,26 @@ the topic's six sub-topics in the final stretch of revision.
   - Ecommerce: wi-fi, warehousing, technology specialists, logistics
   - Be able to judge which factors matter most for a given scenario.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-commercial-enterprises--05-appropriate-form.webp" width="900" height="700" alt="Four questions to ask (capital, risk, control, sharing), then five situations: a tailor with $3,000 suits a sole trader, three vets a partnership, a family bakery a private limited company, a cement producer a public limited company, and fifty coffee growers a cooperative." loading="lazy">
+  <figcaption>Use the details of the situation to justify the form you choose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-commercial-enterprises--06-mnc-reasons-impacts.webp" width="900" height="680" alt="Seven reasons MNCs exist, from reaching new markets to host-government incentives, above five positive impacts on a host country, such as jobs, technology and tax revenue, and five negative impacts, such as local firms closing and profits sent home." loading="lazy">
+  <figcaption>An assess question needs impacts on both sides and a judgement linked to the case.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commercial-operations--17-co-franchise.webp" width="900" height="890" alt="A franchisor gives brand and systems to a franchisee, who pays fees and a share of revenue. Lower risk but less independence and ongoing payments." loading="lazy">
+  <figcaption>A franchise trades independence for a proven model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commercial-operations--21-co-location.webp" width="900" height="970" alt="Nine physical location factors and four ecommerce location factors shown as icon tiles." loading="lazy">
+  <figcaption>Physical and ecommerce businesses weigh different location factors.</figcaption>
+</figure>
+
 ## 2.2 Outsourcing
 
 - Growth of outsourcing is driven by **contract manufacturing** and
@@ -83,11 +103,31 @@ the topic's six sub-topics in the final stretch of revision.
   lower store costs) versus negatives (delivery/training/warehousing
   costs, website maintenance).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--01-ten-retailer-types.webp" width="900" height="615" alt="The ten retailer types in their usual grouping. Small-scale: itinerant retailer, vending machine, independent retailer, street market and speciality shop. Large-scale: online retailer, multiple chain store, supermarket, hypermarket and department store, each with its main feature." loading="lazy">
+  <figcaption>Learn one identifying feature for each type; judge an online retailer’s scale from the case.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--03-small-retailer-survival.webp" width="900" height="630" alt="A small retailer survives through the three syllabus examples: personal service, flexible opening hours and additional services. Further reasons are a location close to homes, selling small quantities and joining a voluntary chain." loading="lazy">
+  <figcaption>Small shops survive by offering what large retailers find hard to copy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--05-omnichannel-vs-multichannel.webp" width="900" height="630" alt="Left: multi-channel retailing sells through a shop, website and app that may run separately. Right: omnichannel retailing links the channels to one account, the same prices, stock information and loyalty points, so a customer can start on the app and finish in the shop." loading="lazy">
+  <figcaption>Omnichannel joins the channels into one experience; multi-channel channels may run separately.</figcaption>
+</figure>
+
 ## 2.4 Wholesaling
 
 - The **functions and services** the wholesaler provides.
 - The wholesaler's **importance to both manufacturer and retailer** —
   learn this as a two-sided relationship, not a single function.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commercial-operations--18-co-wholesaler.webp" width="900" height="960" alt="Nine crates go from manufacturer to wholesaler, who supplies three retailers with three each. Wholesaler holds stock, gives credit and market knowledge. Cash and carry lets small retailers buy in person without credit." loading="lazy">
+  <figcaption>A wholesaler breaks bulk, holds stock and extends credit.</figcaption>
+</figure>
 
 ## Commercial calculations (Topic 5.4 — noted here for reference)
 
@@ -103,6 +143,11 @@ Two of the syllabus's named financial calculations, worth knowing ahead of time:
 - The named documents used in commercial transactions and their
   individual purposes — learn each document's role in the sequence of
   a trade (order, dispatch, payment, receipt).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commercial-operations--20-co-documents.webp" width="900" height="1180" alt="A buyer and seller exchange eight home trade documents in numbered order. Below, four international documents: certificate of origin, bill of lading, air waybill, documentary credit." loading="lazy">
+  <figcaption>Home trade documents follow a sequence from enquiry to receipt.</figcaption>
+</figure>
 
 ## 2.6 Communication
 

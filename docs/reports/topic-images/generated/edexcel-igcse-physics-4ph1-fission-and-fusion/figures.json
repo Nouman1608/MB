@@ -1,0 +1,47 @@
+[
+ {
+  "file": "edexcel-igcse-physics-4ph1-fission-and-fusion--01-three-nuclear-energy-sources.webp",
+  "width": 900,
+  "height": 545,
+  "after": "## Nuclear reactions as energy sources (7.17)",
+  "alt": "Three panels: radioactive decay, where an unstable nucleus emits alpha, beta or gamma radiation; fission, where a neutron splits a heavy nucleus into two smaller ones; and fusion, where two light nuclei join into a heavier one.",
+  "caption": "Decay, fission and fusion all release far more energy per kilogram than burning.",
+  "bytes": 95666
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-fission-and-fusion--02-fission-of-u235.webp",
+  "width": 900,
+  "height": 670,
+  "after": "## How fission happens (7.18, 7.19)",
+  "alt": "A slow neutron is absorbed by a uranium-235 nucleus, which becomes unstable uranium-236 and splits into barium-141 and krypton-92 plus three neutrons that fly apart. The equation n + U-235 → Ba-141 + Kr-92 + 3n balances: 236 = 236 and 92 = 92.",
+  "caption": "Neutron in, nucleus splits: two radioactive daughter nuclei, two or three neutrons, and kinetic energy.",
+  "bytes": 94428
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-fission-and-fusion--03-moderator-vs-control-rods.webp",
+  "width": 900,
+  "height": 595,
+  "after": "## Inside the reactor (7.21, 7.22)",
+  "alt": "Left: a fast neutron bounces through the moderator, slows down and is then absorbed by a U-235 nucleus, making fission more likely. Right: a neutron is absorbed by a control rod, which can be raised or lowered, so fewer fissions happen. Shielding of steel and concrete absorbs escaping radiation.",
+  "caption": "The moderator slows neutrons so more fissions happen; control rods absorb neutrons so fewer happen.",
+  "bytes": 101338
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-fission-and-fusion--04-control-rods-steady-output.webp",
+  "width": 900,
+  "height": 400,
+  "after": "## Worked example: an \"explain\" answer",
+  "alt": "A chain of boxes: if the rate of fission rises, the control rods are lowered further in, more neutrons are absorbed and fewer fissions occur. They are adjusted so that on average one neutron from each fission causes another, keeping the power output steady.",
+  "caption": "Control rods hold the chain reaction at one further fission per fission.",
+  "bytes": 67444
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-fission-and-fusion--05-fission-vs-fusion.webp",
+  "width": 900,
+  "height": 680,
+  "after": "## Fission versus fusion (7.23)",
+  "alt": "Fission: a neutron splits a heavy uranium-235 nucleus into two radioactive daughter nuclei and neutrons, used in power stations. Fusion: light hydrogen nuclei join into a heavier nucleus such as helium at very high temperature and pressure, as in stars.",
+  "caption": "Fission splits a large nucleus; fusion joins small ones. Both release energy.",
+  "bytes": 100084
+ }
+]

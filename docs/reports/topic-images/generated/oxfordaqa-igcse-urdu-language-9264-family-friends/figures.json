@@ -1,0 +1,56 @@
+[
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-family-friends--01-paternal-maternal-relatives.webp",
+  "width": 900,
+  "height": 730,
+  "after": "## Vocabulary you need to produce, not just recognise",
+  "alt": "A family tree with Urdu terms. On the father’s side: دادا / دادی (grandparents) and چچا / پھوپھی (uncle and aunt). On the mother’s side: نانا / نانی and ماموں / خالہ. Parents are والد and والدہ; useful extras are والدین, رشتہ دار, مشترکہ خاندان and اکلوتا / اکلوتی.",
+  "caption": "Urdu names relatives by side of the family, and translation tasks test it.",
+  "bytes": 89008
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-family-friends--02-agreement-table.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## Grammar that carries this topic",
+  "alt": "A table of agreement: the possessive changes with the noun (میرا بھائی, میری بہن, میرے والدین), a marked adjective changes (شرمیلا لڑکا, شرمیلی لڑکی, شرمیلے بچے), and an unmarked adjective stays the same (مہربان استاد, مہربان استانی). میرے دوست کی بہن follows the same rule.",
+  "caption": "A boy and a girl both say میرا بھائی: agreement follows the noun.",
+  "bytes": 83822
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-family-friends--03-respect-and-milna.webp",
+  "width": 900,
+  "height": 730,
+  "after": "## Common mistakes",
+  "alt": "Elders take the plural verb ہیں as a mark of respect: میرے دادا بہت مہربان ہیں, میری والدہ ڈاکٹر ہیں. To say you met someone, use سے and no نے: میں اپنے دوست سے ملا is correct, میں نے اپنے دوست کو ملا is wrong, and ہماری ملاقات اسکول میں ہوئی is an alternative.",
+  "caption": "Plural of respect for elders; ملنا takes سے, never نے.",
+  "bytes": 103328
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-family-friends--04-translation-steps.webp",
+  "width": 900,
+  "height": 950,
+  "after": "## Worked example 1: translation into Urdu",
+  "alt": "Three steps translate a sentence about a kind older brother and a grandmother: put each verb last (مہربان ہے, جھگڑا ہو جاتا ہے, رہتی ہیں), check agreement and respect (میرا بڑا بھائی, رہتی ہیں for an elder), and translate the sense (ہمارا جھگڑا ہو جاتا ہے).",
+  "caption": "Verb last, agreement and respect checked, then the sense rather than each word.",
+  "bytes": 121432
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-family-friends--05-model-paragraph.webp",
+  "width": 900,
+  "height": 740,
+  "after": "## Worked example 2: a short piece of writing",
+  "alt": "The six sentences of the model answer, each labelled: name and identity (present), how they met (past), what she is like, a complex جب ... تو sentence, a justified opinion about a true friend, and a future plan with feminine plural کریں گی.",
+  "caption": "Present, past and future, plus a complex sentence and a justified opinion.",
+  "bytes": 134580
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-family-friends--06-question-words-and-plan.webp",
+  "width": 900,
+  "height": 580,
+  "after": "## Exam technique",
+  "alt": "Seven Urdu question words with meanings: کون who, کیا what, کب when, کہاں where, کیوں why, کیسے how, کتنے how many; a why-question needs a reason, often after کیونکہ or اس لیے. A five-step writing plan runs from who the person is to a future plan.",
+  "caption": "Know the question word; plan writing from person to past memory to future.",
+  "bytes": 82404
+ }
+]

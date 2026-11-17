@@ -99,6 +99,11 @@ Examples: washing machine controller, microwave oven, car engine management, cen
 
 A buffer lets a fast device (the processor) hand data to a slower one (a printer) and get on with other work while the slower device catches up. When streaming video, data is downloaded into a buffer ahead of playback so short drops in network speed do not stop the picture. The buffer holds the data; the processor or device does the sending. Examiners in June 2024 and November 2024 penalised answers saying the buffer "sends" data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--14-buffer.webp" width="900" height="1140" alt="Two panels. Printing: a fast processor fills a buffer through a thick arrow while a slow printer empties it through a thin arrow, so the processor is free for other work. Streaming video: a graph of data in the buffer against time, using example numbers, rises while the network is fast, dips slightly during a slow patch shaded in the middle, but never reaches zero, so the picture never stops. The buffer holds the data; it does not send it." loading="lazy">
+  <figcaption>A buffer smooths the speed difference between a fast processor and a slow printer, and hides short network slowdowns when streaming.</figcaption>
+</figure>
+
 ## How do RAM, ROM, SRAM and DRAM differ?
 
 | | RAM | ROM |
@@ -115,11 +120,26 @@ A buffer lets a fast device (the processor) hand data to a slower one (a printer
 | Cost and density | More expensive per bit, fewer bits per chip | Cheaper per bit, more bits per chip |
 | Typical use | Cache memory | Main memory |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--15-memory-types-tree.webp" width="900" height="770" alt="A tree diagram. Primary memory splits into RAM, which is volatile and can be read and written, and ROM, which is not volatile and is read only. RAM splits into SRAM, used for cache, and DRAM, used for main memory. ROM splits into PROM, written once, EPROM, erased with ultraviolet light, and EEPROM, erased electrically. Flash memory is a type of EEPROM." loading="lazy">
+  <figcaption>How primary memory divides into RAM, ROM and their sub-types.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--16-sram-vs-dram.webp" width="900" height="890" alt="Two panels comparing SRAM and DRAM. SRAM stores each bit in a flip-flop, needs no refreshing, is faster, costs more per bit and is used for cache. DRAM stores each bit as charge in a capacitor controlled by a transistor; the charge leaks so it must be refreshed constantly; it is slower, cheaper per bit and used for main memory." loading="lazy">
+  <figcaption>SRAM stores a bit in a flip-flop; DRAM stores it as leaking charge that needs refreshing.</figcaption>
+</figure>
+
 ## What is the difference between PROM, EPROM and EEPROM?
 
 - **PROM**: blank when made; programmed **once** by the user or manufacturer, and then cannot be changed.
 - **EPROM**: can be erased by shining **ultraviolet light** through a window on the chip (removed from the device), then reprogrammed. It is not write-once; November 2024 candidates lost marks for saying it was.
 - **EEPROM**: erased and rewritten **electrically** while still in the circuit, so firmware can be updated without removing the chip. Flash memory is a form of EEPROM.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--17-prom-eprom-eeprom.webp" width="900" height="1010" alt="Three rows, each with a chip. PROM: blank when made, programmed once, and cannot be changed. EPROM: has a window; ultraviolet light through the window erases it, usually after the chip is removed. EEPROM: erased electrically while still in the circuit, so firmware can be updated without removing the chip. Flash memory is a type of EEPROM." loading="lazy">
+  <figcaption>PROM is programmed once, EPROM is erased with UV light, EEPROM is erased electrically in the circuit.</figcaption>
+</figure>
 
 ## What is the difference between monitoring and control?
 
@@ -127,6 +147,11 @@ A buffer lets a fast device (the processor) hand data to a slower one (a printer
 - **Control**: the computer also sends signals to **actuators** to change the conditions. Example: a greenhouse that opens windows with a motor when it is too hot.
 - **Feedback** makes control continuous: after the actuator acts, new sensor readings are taken and compared again, so the system keeps the value within the required range.
 - Sensors in the syllabus: temperature, pressure, infra-red and sound. Sensor readings are analogue, so an ADC converts them for the computer; actuators may need a DAC.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--18-monitoring-vs-control.webp" width="900" height="1050" alt="Two flow diagrams. Monitoring: a sensor sends readings to a computer, which compares them with a stored value and drives a display or alarm; there is no actuator, so conditions are not changed. Control: a sensor reading passes through an analogue-to-digital converter to the computer, which drives an actuator; the actuator changes the conditions, and a feedback arrow returns from the conditions to the sensor so the new reading is compared again." loading="lazy">
+  <figcaption>Monitoring only senses and reports; control adds an actuator and feedback.</figcaption>
+</figure>
 
 ## Logic gates in one table
 
@@ -139,6 +164,16 @@ A buffer lets a fast device (the processor) hand data to a slower one (a printer
 | XOR | A XOR B | the inputs differ | 0 | 1 | 1 | 0 |
 
 NOT has one input and inverts it. The NAND and NOR symbols are the AND and OR shapes with a small circle on the output; XOR is the OR shape with an extra curved line on the input side.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--19-logic-gates.webp" width="900" height="1000" alt="Six panels, one per gate, each with its symbol and truth table. NOT outputs the opposite of its single input. AND outputs 1 only when both inputs are 1. OR outputs 1 if at least one input is 1. NAND outputs 0 only when both inputs are 1. NOR outputs 1 only when both inputs are 0. XOR outputs 1 when the inputs are different." loading="lazy">
+  <figcaption>Symbol and truth table for NOT, AND, OR, NAND, NOR and XOR.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-study-guide--20-circuit-truth-table.webp" width="900" height="960" alt="A circuit and truth table for X = (A AND B) OR NOT C. An AND gate combines A and B; a NOT gate inverts C; an OR gate combines the two to give X. The eight-row table has working columns A AND B and NOT C. X is 0 in exactly three rows, where C = 1 and A AND B is 0, and 1 in the other five." loading="lazy">
+  <figcaption>The circuit for X = (A AND B) OR NOT C with its eight-row truth table and working columns.</figcaption>
+</figure>
 
 ## Worked example: truth table to logic expression
 

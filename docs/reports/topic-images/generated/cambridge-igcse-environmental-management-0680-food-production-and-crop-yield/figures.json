@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-igcse-environmental-management-0680-food-production-and-crop-yield--01-types-of-agriculture.webp",
+  "width": 900,
+  "height": 658,
+  "after": "## Types of agriculture",
+  "alt": "Three rows of questions. What is produced: arable, pastoral or mixed. Who is it for: subsistence or commercial. How is it farmed: intensive or monoculture. A note says one farm can belong to several categories at once.",
+  "caption": "Answer all three questions to classify a farm fully.",
+  "bytes": 83634
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-food-production-and-crop-yield--02-strategies-by-mechanism.webp",
+  "width": 900,
+  "height": 590,
+  "after": "## Strategies to increase food production and crop yield",
+  "alt": "Five columns feed into higher crop yield. Water: trickle irrigation, rainwater harvesting, automated watering. Nutrients: crop rotation with legumes, NPK and organic fertilisers, agroforestry. Pests, weeds and disease: mixed cropping, pesticides, biological control, GMOs. Protect the soil: livestock rotation, agroforestry, mulch. More land, time or control: mechanisation, greenhouses, hydroponics and aeroponics, urban farming.",
+  "caption": "For each strategy, say what limiting factor it removes.",
+  "bytes": 101898
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-food-production-and-crop-yield--03-controlled-environments.webp",
+  "width": 900,
+  "height": 630,
+  "after": "## Strategies to increase food production and crop yield",
+  "alt": "Three sketches. A greenhouse where temperature, water and carbon dioxide are controlled. Hydroponics, with plant roots in a nutrient solution instead of soil. Aeroponics, with roots hanging in air and sprayed with a nutrient mist. Benefits and limitations are listed below.",
+  "caption": "Control the conditions and crops grow faster, but at a cost in money and energy.",
+  "bytes": 73558
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-food-production-and-crop-yield--04-eutrophication.webp",
+  "width": 900,
+  "height": 620,
+  "after": "## Impacts of unsustainable agricultural practices",
+  "alt": "Six numbered steps: fertiliser leaches into a river or lake; nitrate and phosphate enrich the water; algae grow rapidly over the surface; light is blocked so plants below die; bacteria decompose the dead material and use up oxygen; fish and other animals die. Below, a lake sketch shows algae on the surface and dead fish.",
+  "caption": "Write every link: nutrients, algae, no light, decomposers, no oxygen, death.",
+  "bytes": 80096
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-food-production-and-crop-yield--05-pest-resurgence.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## Impacts of unsustainable agricultural practices",
+  "alt": "Sketch graph of pest and predator numbers over time. After insecticide is sprayed both fall; the predators stay low while the pest breeds quickly and rises above its original level. Cards distinguish pest resurgence from pesticide resistance.",
+  "caption": "Kill the predators along with the pest and the pest comes back stronger.",
+  "bytes": 80314
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-food-production-and-crop-yield--06-yield-change.webp",
+  "width": 900,
+  "height": 615,
+  "after": "## Worked example 1: calculating a change in yield",
+  "alt": "Bar chart of maize yield on a 40 hectare farm: 2.4 tonnes per hectare before and 3.0 after intercropping with beans and drip irrigation, a 25% increase.",
+  "caption": "Divide by area first, then find the change as a percentage of the original yield.",
+  "bytes": 60040
+ }
+]

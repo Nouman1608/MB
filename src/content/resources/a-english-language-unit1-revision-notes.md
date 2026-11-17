@@ -52,6 +52,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Quote → what it suggests → why the writer chose it.** That sequence is the whole skill.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--17-u1-language-levels.webp" width="900" height="1170" alt="Six tiles, one for each language level, with an icon: lexis and semantics (word choice, connotation), grammar and syntax (word classes, sentences, modality), phonology (sound patterning, accent), graphology (layout, typography, images), pragmatics (implicature, politeness, deixis) and discourse (structure, cohesion, turn-taking). A strip below highlights modality: modal verbs such as must, might and should mark certainty and obligation, and signal stance and power." loading="lazy">
+  <figcaption>Apply all six levels with accurate terminology, and watch modality as a marker of stance and power.</figcaption>
+</figure>
+
 ## Grammar features that repay attention
 
 - **Modality** — high modality (*must*, *will*) asserts authority and certainty; low modality (*might*, *could*) hedges and reduces the risk of being contradicted.
@@ -66,6 +71,16 @@ Register is analysed through **field** (subject), **tenor** (relationship betwee
 
 **A register mismatch may be deliberate or accidental, but either way it is worth analysing its effect.** Informality in a formal context can build intimacy or humour; formality in a casual one can create distance, authority or irony. If a text's register feels wrong, that observation is the starting point for analysis, not the analysis itself -- the mark is still for explaining the effect the mismatch creates, not for labelling it as a mismatch.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--15-u1-context.webp" width="900" height="870" alt="A left-to-right flow of three cards. Context of production: who wrote it, when, why, for whom, under what constraints. The text, drawn as a page. Context of reception: who reads it, in what circumstances, with what expectations and prior knowledge. Below, a private letter and a published memoir show that the same words function differently in different settings." loading="lazy">
+  <figcaption>Analysis begins with context: how and why the text was produced, and how and by whom it is received.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--16-u1-field-tenor-mode.webp" width="900" height="940" alt="Three bands. Field: the subject matter and the specialist lexis it brings, shown as a book and word shapes. Tenor: the relationship between participants, governing formality, politeness and directness, shown as two people and a formal to informal slider. Mode: spoken, written, or hybrid digital forms that borrow from both, shown as a speech bubble, a phone and a page." loading="lazy">
+  <figcaption>Field is what the text is about, tenor is who is talking to whom, and mode is the channel.</figcaption>
+</figure>
+
 ## Spoken language
 
 Features: fillers, false starts, repetition, repairs, overlaps, interruptions, adjacency pairs, turn-taking, discourse markers (*so*, *right*, *anyway*), deixis (*this*, *here*, *now*), back-channelling (*mm*, *yeah*).
@@ -73,6 +88,11 @@ Features: fillers, false starts, repetition, repairs, overlaps, interruptions, a
 **These are normal features of speech, not errors.** Marking them as mistakes is the standard misreading. Analyse what they *achieve* — buying planning time, holding the floor, signalling a topic change, or managing the relationship between speakers.
 
 **Power in conversation** is visible in who interrupts, who controls topic, who asks and who answers questions, and who holds the floor longest. Unequal turn length is evidence, not a coincidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--19-u1-spoken-features.webp" width="900" height="1010" alt="Five rows of speech bubbles for two speakers (gold and teal) show spoken-language features. Adjacency pair: a bubble from one speaker answered by a bubble from the other. Overlap and interruption: two bubbles that overlap. Fillers and hesitation: a bubble with a pause shown as dots. False start and repair: a broken-off stretch followed by a corrected one. Back-channelling: a very small bubble from the listener during a long turn. A banner says non-fluency is normal, not error." loading="lazy">
+  <figcaption>Use the transcript toolkit and analyse what non-fluency does; do not treat it as error.</figcaption>
+</figure>
 
 ## Representation and language attitudes
 
@@ -95,6 +115,16 @@ parallel structure   balanced clauses give a formal, rehearsed quality,
 
 **Effect:** accountability is acknowledged in *form* while being grammatically avoided in *substance* — characteristic of institutional apology, and a strong contrast to comment on if a text elsewhere uses direct, agentive language.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--20-u1-attitudes-prestige.webp" width="900" height="960" alt="Four cards in two rows. Attitudes: prescriptivism treats change and non-standard forms as decline, shown as a downward arrow; descriptivism records variation without judgement, shown as a notebook and magnifier. Prestige: overt prestige belongs to Standard English, shown as a crown; covert prestige is carried by non-standard varieties within a group, shown as a hidden star inside a group circle." loading="lazy">
+  <figcaption>Prescriptivism is one attitude among others; prestige can be overt (Standard English) or covert (within a group).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--18-u1-agency-example.webp" width="900" height="910" alt="The sentence &quot;Mistakes were made, and lessons have been learned.&quot; is split into word tiles. The nouns mistakes and lessons are shaded as nominalisations, turning actions into things. The verb groups were made and have been learned are shaded as passives with no agent. Dashed &quot;by ?&quot; tiles show where the missing actor would go. A banner states the effect: accountability is acknowledged in form but avoided in substance." loading="lazy">
+  <figcaption>Two passives and two nominalisations delete the actor: accountability appears in form but is avoided in substance.</figcaption>
+</figure>
+
 ## Directed writing
 
 Section B's task is **transformation**, not summary: using some or all of Section A's material to
@@ -107,6 +137,16 @@ Fix **form, audience, purpose** before writing. Then:
 - **Select** relevant material; you need not use all of it.
 - **Rephrase** — lifting from the source does not demonstrate the transformation this task requires.
 - Follow the target form's conventions, and sustain them consistently for the whole response.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1-directed-writing--01-dw-four-levers.webp" width="900" height="745" alt="A source text is rebuilt for a new context by changing four things. Audience: an informative leaflet for adults becomes a talk for 11-year-olds. Purpose: a promotional web page becomes a balanced review. Genre: a news article becomes a blog post or a radio script. Mode: a written text becomes a spoken text such as a speech, or a spoken transcript becomes a written article." loading="lazy">
+  <figcaption>Four things you change when you transform a source text.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1-directed-writing--02-dw-six-steps.webp" width="900" height="876" alt="Six steps in order. 1 Decode the brief: underline the audience, purpose, form and where the text will appear. 2 Select material from both source texts, leaving out what the new audience does not need. 3 Reorganise the content in an order that suits the new genre. 4 Re-voice it in your own words and the new register. 5 Use the genre conventions a reader expects, such as a headline for an article or a greeting for a letter. 6 Sustain the style so the tone stays consistent to the end." loading="lazy">
+  <figcaption>Six steps from decoding the brief to sustaining the style.</figcaption>
+</figure>
 
 ## Structuring the analysis
 

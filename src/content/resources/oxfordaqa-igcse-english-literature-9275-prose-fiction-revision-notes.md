@@ -36,6 +36,11 @@ Condensed for the final weeks. For the full explanation and worked examples, use
 - Aim for about **45 minutes**, with five minutes of planning.
 - Set texts come from a prescribed list that changes: check the list for your exam year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--01-p1-glance.webp" width="900" height="710" alt="Paper 1 lasts 1 hour 30 minutes, is worth 60 marks and counts for 40 percent of the International GCSE. A bar splits it into two equal sections: Section A Prose Fiction, 30 marks, and Section B Drama, 30 marks. Each section needs one question on your chosen set text. The exam is closed book, shown by a crossed-out book." loading="lazy">
+  <figcaption>Paper 1 is two equal 30-mark sections in a closed-book exam.</figcaption>
+</figure>
+
 ## What the marks reward
 
 | AO | In one line |
@@ -63,6 +68,16 @@ The jump from a mid-level to a high-level answer is usually AO2: explaining **ho
 | Dialogue | Characters' direct speech | Reveals relationships, power and what is left unsaid |
 | Turning point | A moment where direction changes | Ideal anchor for a paragraph on development |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-prose-fiction--01-narrative-voice.webp" width="900" height="692" alt="Four panels. First person places the reader inside one character’s mind. Third person limited stays close to one character. Third person omniscient moves between many characters. An unreliable narrator says one thing while the reader sees another, and that gap is a method." loading="lazy">
+  <figcaption>Ask who tells the story, how much they know, and whether to trust them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-prose-fiction--02-prose-structure.webp" width="900" height="812" alt="Timelines show three ways time can move in a novel: chronologically, with a flashback that jumps back, and within a frame narrative. A fourth timeline links two points with foreshadowing and with parallel scenes, so one paragraph can connect them." loading="lazy">
+  <figcaption>Foreshadowing and parallel scenes let one paragraph span the whole novel.</figcaption>
+</figure>
+
 ## Two question types, two strategies
 
 | Passage-based | Essay-style |
@@ -71,6 +86,11 @@ The jump from a mid-level to a high-level answer is usually AO2: explaining **ho
 | Do exactly what the wording asks: extract only, or extract and the wider text | Range across beginning, middle and end |
 | Close, line-by-line AO2 analysis | Development and pattern across the text |
 | Risk: drifting away from the extract | Risk: retelling the plot in order |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--02-essay-or-passage.webp" width="900" height="950" alt="In both Section A and Section B you choose between two question types. A passage-based question gives a printed extract to anchor close, line-by-line analysis; it suits candidates who read closely but are less sure recalling the whole text. An essay-style question needs evidence selected from across the whole text, from memory; it rewards a good quotation bank. Practise both under timed conditions." loading="lazy">
+  <figcaption>Each section offers a choice: a printed extract to analyse, or an essay that relies on memory of the whole text.</figcaption>
+</figure>
 
 ## The analytical paragraph
 
@@ -117,6 +137,11 @@ that links the extract to an earlier or later moment.
 | The climax | Where the conflict peaks | Lets you analyse structure and pace |
 | The final chapter | Where the writer leaves the focus | Gives the conclusion a judgement about the writer's purpose |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-prose-fiction--04-argument-not-list.webp" width="900" height="643" alt="A line of argument, that ambition promises freedom but costs a character their relationships, leads to three points in order: how ambition is introduced, a turning point, and how the ending judges it, with one precise context link. The swap test: if two paragraphs could be swapped unnoticed, the essay is a list." loading="lazy">
+  <figcaption>Each paragraph should move the argument on, from early to late in the novel.</figcaption>
+</figure>
+
 ## Context: use it, do not bolt it on
 
 One precise contextual point placed where it explains a choice in the text is worth more than a
@@ -129,6 +154,11 @@ question or challenge it?
 - A one-page timeline of turning points.
 - Two or three central themes, each with evidence from more than one stage of the text.
 - Timed paragraph practice: one paragraph in eight to ten minutes from memory.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-prose-fiction--05-closed-book-revision.webp" width="900" height="602" alt="Three revision tasks: learn eight to ten short, versatile quotations, each tagged with a method and the themes or characters it supports; make a one-page timeline of turning points from beginning to end; and practise writing one analytical paragraph in eight to ten minutes from memory." loading="lazy">
+  <figcaption>Tagged quotations, a timeline and timed paragraphs build reliable recall.</figcaption>
+</figure>
 
 ## Exam traps
 

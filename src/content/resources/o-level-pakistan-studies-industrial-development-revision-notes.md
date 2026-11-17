@@ -61,6 +61,11 @@ export zones, call centres and tourism. Full explanations are in the
 | Informal sector | Unregistered, untaxed work, often self-employed or casual |
 | EPZ | Export processing zone: duty-free fenced estate for export production |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-industrial-development--02-cotton-value-chain.webp" width="900" height="804" alt="Cotton moves through three stages: raw seed cotton (primary), ginning and spinning (processed) and weaving, cutting and sewing (manufactured), with a value bar that grows at each stage. Boxes below define refined and tertiary industry." loading="lazy">
+  <figcaption>Every stage of processing adds value to the same raw cotton.</figcaption>
+</figure>
+
 ## One-line location reason per industry
 
 - **Cement:** limestone is heavy → quarry-side plants (D.G. Khan, Daudkhel, Pezu, Thatta).
@@ -74,6 +79,11 @@ export zones, call centres and tourism. Full explanations are in the
   inland market (Mahmood Kot).
 - **Sports goods and surgical instruments:** inherited skills and export links → Sialkot.
 - **Crafts:** tradition and local materials → Multan pottery, Hala lacquer work, Chiniot furniture.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-industrial-development--04-location-factors.webp" width="900" height="730" alt="The ten industries grouped by their decisive location factor: cement, ginning, sugar and brick sit near bulky or perishable raw materials; fertiliser sits on the gas supply; iron and steel and oil refining use coastal sites for imports; textiles, crafts and Sialkot sports and surgical goods depend on labour, skills and transport links." loading="lazy">
+  <figcaption>Name the decisive factor: raw material, gas, the port, or skilled labour.</figcaption>
+</figure>
 
 ## Domestic or export?
 
@@ -90,6 +100,11 @@ kilns); no taxes for government; no access to bank credit, so firms stay small.
 **Judgement line:** the informal sector keeps millions employed and supplies the formal sector,
 but low productivity holds back GDP growth, so the aim is to help it formalise, not to remove it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-industrial-development--05-formal-informal.webp" width="900" height="637" alt="The formal sector (registered, taxed, regular wages) and the informal sector (unregistered, casual, irregular pay) are linked by subcontracting, as when Sialkot exporters send stitching to home workers. Below are the informal sector’s services, advantages and disadvantages." loading="lazy">
+  <figcaption>The two sectors are linked: exporters rely on informal home workers.</figcaption>
+</figure>
+
 ## Government promotion: name and explain
 
 | Measure | Example | Why |
@@ -102,12 +117,22 @@ but low productivity holds back GDP growth, so the aim is to help it formalise, 
 **Characteristics of an EPZ:** fenced and secure; ready-built sheds; reliable power and water;
 duty-free imports of inputs and machinery; quick customs clearance; most output exported.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-industrial-development--06-epz-industrial-estates.webp" width="900" height="665" alt="Export processing zones, such as Karachi EPZ, offer duty-free imports if most output is exported; industrial estates and special economic zones, such as SITE and Sundar, offer serviced plots without that condition. Four aims sit below: investment and technology, foreign exchange, jobs and spreading industry beyond Karachi and Lahore." loading="lazy">
+  <figcaption>The difference between an EPZ and an industrial estate is the export condition.</figcaption>
+</figure>
+
 ## Call centres and tourism: feasibility grid
 
 | | Helps | Hinders |
 |---|---|---|
 | Call centres and IT | Young, English-speaking graduates; low wages; IT exports near US$3 billion (mid-2020s) | Power cuts; uneven broadband; skills gap; competition |
 | Tourism | Mountains (Fairy Meadows, Deosai); heritage (Makli, Rohtas, Takht-i-Bahi); religious tourism (Kartarpur) | Access, landslides, seasonality, security image, environmental damage |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-industrial-development--07-tourism-feasibility.webp" width="900" height="651" alt="Natural attractions such as Fairy Meadows and the Deosai Plains and cultural attractions such as the Makli necropolis and Rohtas Fort lead to benefits (jobs, foreign exchange, GDP and GNP) weighed against constraints (poor roads, seasonal demand, security perceptions, limited hotels, environmental damage)." loading="lazy">
+  <figcaption>Tourism can create jobs and income, but access, seasons and security limit it.</figcaption>
+</figure>
 
 ## Exam traps
 

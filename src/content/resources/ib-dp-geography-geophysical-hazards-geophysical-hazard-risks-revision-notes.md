@@ -53,6 +53,11 @@ Conceptual formula: **risk = (hazard x vulnerability) / capacity to cope.** Work
 | Spatial extent | Wide area of shaking | Mostly local to regional; ash can travel far | Local |
 | Predictability | Very low for timing | Moderate, through precursors | Low to moderate, linked to rainfall thresholds |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-geophysical-hazards-study-guide--18-g-risk-formula.webp" width="900" height="1020" alt="Two fictional cities with the same hazard score of 6. City A has vulnerability 8 and capacity to cope 4, so its conceptual risk is 6 times 8 divided by 4, which is 12. City B has vulnerability 3 and capacity 9, so its risk is 6 times 3 divided by 9, which is 2. Bars show each score and the final risk, and the same hazard gives six times the risk in City A. The numbers are illustrative." loading="lazy">
+  <figcaption>With the same hazard, higher vulnerability and lower capacity give City A six times the conceptual risk of City B.</figcaption>
+</figure>
+
 ## Monitoring and warning
 
 | Hazard | What can be done |

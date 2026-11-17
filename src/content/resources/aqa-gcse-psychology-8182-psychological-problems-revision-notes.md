@@ -38,6 +38,11 @@ explanations and evaluation, read the
 The first two raise **recorded** cases; the third suggests a **real** rise. Beliefs about mental
 health also **vary between cultures**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-psychological-problems--01-why-rates-change.webp" width="900" height="613" alt="Three reasons recorded rates change: increased recognition, less stigma and the challenges of modern living. The first two increase recorded cases without necessarily meaning more people are unwell; modern living suggests a real increase. A note defines good mental health." loading="lazy">
+  <figcaption>Recognition and less stigma raise recorded cases; modern living may mean a real rise.</figcaption>
+</figure>
+
 ## Effects
 
 | Individual | Society |
@@ -65,6 +70,11 @@ health also **vary between cultures**.
 | Negative triad | Beck's negative view of the self, the world and the future |
 | Relapse | Return of symptoms after improvement |
 | Stigma | Negative attitudes that mark people out as different or shameful |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-psychological-problems--02-mood-patterns.webp" width="900" height="724" alt="Three schematic mood lines. Sadness dips briefly below usual mood and recovers. Unipolar depression drops and stays low. Bipolar depression swings between depression and mania. A card lists the ICD symptoms used to classify depressive episodes as mild, moderate or severe." loading="lazy">
+  <figcaption>Sadness passes; unipolar depression persists; bipolar adds periods of mania.</figcaption>
+</figure>
 
 ## Depression
 
@@ -100,6 +110,21 @@ treatment; volunteers may be more motivated.
 
 *Usefulness:* the study suggests CBT is worth adding for people whose depression has not responded to medication, which supports combining biological and psychological treatments.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--20-s-depression.webp" width="900" height="910" alt="Two columns under the word Depression. Biological (nature): an imbalance of neurotransmitters, particularly serotonin, treated with antidepressant medication. Psychological (nurture): negative schemas and attributions learned through experience, treated with cognitive behaviour therapy (CBT). A note says treatments are often combined in practice." loading="lazy">
+  <figcaption>Pair each explanation with its treatment, then compare them: nature versus nurture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-psychological-problems--03-depressive-attributions.webp" width="900" height="574" alt="Three cards show a depressive attributional style: internal (it's my fault), stable (it will always be like this) and global (it ruins everything). Negative schemas lead to CBT, which challenges negative thoughts. An evaluation note follows." loading="lazy">
+  <figcaption>Internal, stable, global: the depressive way of explaining bad events, which CBT targets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-psychological-problems--04-wiles-cbt-trial.webp" width="900" height="766" alt="Patients whose depression had not responded to antidepressants were randomly allocated to usual care or usual care plus CBT. Symptoms were measured with the Beck Depression Inventory. The CBT group improved more at six months, and the benefit lasted to twelve months. Strength and weakness cards follow." loading="lazy">
+  <figcaption>Adding CBT to usual care reduced symptoms more, and the benefit lasted a year.</figcaption>
+</figure>
+
 ## Addiction
 
 **ICD dependence features:** strong desire; difficulty controlling use; withdrawal; tolerance;
@@ -126,6 +151,21 @@ Unpleasant, ethical concerns, may not last outside the clinic.
 hard to evaluate.
 
 *How it works:* the person takes responsibility for change, often with group support (such as Alcoholics Anonymous, where members share experiences and may have a sponsor), and uses strategies such as setting goals, monitoring use, and avoiding the people and places that trigger cravings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-psychological-problems--05-icd-dependence.webp" width="900" height="562" alt="Six ICD features of dependence surround a central circle: strong desire, difficulty controlling use, withdrawal, tolerance, neglect of other pleasures and persistent use despite harm. Below, substance misuse, substance abuse and addiction or dependence are distinguished." loading="lazy">
+  <figcaption>Six ICD features mark dependence; misuse and abuse are not the same thing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-psychological-problems--06-kaij-twin-study.webp" width="900" height="703" alt="Two pairs of twins: identical (monozygotic) and non-identical (dizygotic). Kaij found higher concordance for alcohol abuse in identical than non-identical twins, shown as a longer bar with no figures. Evaluation: it supports a genetic contribution, but concordance was not 100 percent and twin environments may differ." loading="lazy">
+  <figcaption>Higher concordance in identical twins suggests genes matter, but not 100% means environment does too.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-psychological-problems--07-aversion-therapy.webp" width="900" height="492" alt="During therapy alcohol is paired with a drug that causes nausea, producing feeling ill. After conditioning, alcohol alone is associated with feeling ill. Cards evaluate aversion therapy and self-management programmes such as twelve-step groups." loading="lazy">
+  <figcaption>Pairing alcohol with nausea teaches an association that puts the person off drinking.</figcaption>
+</figure>
 
 ## Applying it to a scenario
 

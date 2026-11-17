@@ -72,6 +72,11 @@ Detail for each focus resource:
 | Water | Agriculture accounts for roughly 70 per cent of global freshwater withdrawals. **Physical water scarcity** means too little water for demand; **economic water scarcity** means water exists but there is no money or infrastructure to supply it |
 | Food | The **nutrition transition**: as incomes rise, diets shift from staple grains towards meat, dairy, sugar and processed foods. China's meat consumption has risen strongly since the 1980s |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--01-res-drivers.webp" width="900" height="950" alt="Schematic showing population, income, technology and culture driving consumption of resources, which splits into food, water and energy with land and minerals as inputs. Total use equals people multiplied by use per person, and use per person is very unequal between countries." loading="lazy">
+  <figcaption>Four drivers shape how much food, water and energy people use.</figcaption>
+</figure>
+
 ## Footprints
 
 | Term | Meaning |
@@ -95,6 +100,11 @@ A **water footprint** measures the total water used to produce what a person or 
 including virtual water in imports. Beef is often cited as needing around 15,000 litres of water per
 kilogram, far more than cereals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--05-res-virtual-water.webp" width="900" height="830" alt="Schematic: water-intensive food moves from an exporter to a water-stressed importer, carrying the water used to grow it as virtual water, which eases water stress at home." loading="lazy">
+  <figcaption>A country can ease its own water stress by importing water-intensive food.</figcaption>
+</figure>
+
 ## Total versus per-capita: worked example (invented figures)
 
 - Country A: 50 million people use 200 million tonnes of oil equivalent (toe) a year: 4 toe per person.
@@ -102,6 +112,11 @@ kilogram, far more than cereals.
 - Country B's total is five times A's, but its per-capita use is a quarter of A's.
 - Which matters more depends on the question: total use drives global emissions; per-capita use
   reflects living standards and fairness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--02-res-footprint.webp" width="900" height="970" alt="Bar chart for a fictional country: footprint 16 million global hectares against biocapacity 9 million, so the ecological deficit is 7 million and the footprint is 1.78 times biocapacity." loading="lazy">
+  <figcaption>When footprint exceeds biocapacity there is an ecological deficit.</figcaption>
+</figure>
 
 ## Describing a trend from a graph
 

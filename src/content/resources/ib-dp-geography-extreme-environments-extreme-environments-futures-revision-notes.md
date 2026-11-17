@@ -60,6 +60,11 @@ Write feedbacks as chains of cause and effect.
 
 Released carbon may be carbon dioxide or methane, depending on whether thawed organic matter decays with or without oxygen. Methane is a more powerful greenhouse gas over short periods, which is why waterlogged thaw areas attract concern.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--14-ee-permafrost-feedback.webp" width="900" height="800" alt="A loop of warming, permafrost thaw and carbon release, with a ground-damage branch. Permafrost thaw can release carbon, strengthening warming, and can destabilise the ground." loading="lazy">
+  <figcaption>Permafrost thaw can release carbon, strengthening warming, and can destabilise the ground.</figcaption>
+</figure>
+
 ## New opportunities, new conflicts
 
 - **Shipping:** shrinking summer sea ice is lengthening the season for Arctic routes such as the Northern Sea Route along Russia's coast, which is shorter than routes between Europe and East Asia via the Suez Canal.

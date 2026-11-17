@@ -1,0 +1,38 @@
+[
+ {
+  "file": "cambridge-igcse-environmental-management-0680-water-sources-and-supply--01-four-sources.webp",
+  "width": 900,
+  "height": 770,
+  "after": "## Sources of fresh water",
+  "alt": "A schematic cross-section, not to scale. 1: the atmosphere, with rain collected from a roof. 2: surface water in a river and a reservoir behind a dam. 3: ground water reached by a well drilled into an aquifer of permeable rock above impermeable rock. 4: the ocean, used by a desalination plant.",
+  "caption": "Fresh water comes from the atmosphere, surface water, ground water and, by desalination, the ocean.",
+  "bytes": 95572
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-water-sources-and-supply--02-availability-compared.webp",
+  "width": 900,
+  "height": 670,
+  "after": "## Comparing the availability of potable water",
+  "alt": "Three comparisons. Water-rich regions have high, year-round rainfall, large rivers or aquifers, whereas water-poor regions have low or unreliable rain, high evaporation and few permanent rivers. Urban areas usually have piped, treated supplies, whereas rural areas may rely on untreated wells or rivers. Wealthier countries afford treatment and sewage works, whereas in many lower-income countries untreated sewage may enter rivers used for drinking.",
+  "caption": "Rainfall, settlement type and wealth decide who has safe drinking water.",
+  "bytes": 155162
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-water-sources-and-supply--03-dam-weighed.webp",
+  "width": 900,
+  "height": 725,
+  "after": "## Multipurpose dams",
+  "alt": "A schematic dam and reservoir with silt trapped behind the dam and a steadier river protecting towns downstream. Benefits: water, energy and flood control together; renewable electricity; reliable irrigation; jobs; flood protection. Limitations: very high cost; people displaced and land flooded; silt fills the reservoir and is lost to farms downstream; fish migration blocked; evaporation and disputes downstream.",
+  "caption": "A dam brings water, power and flood control, but floods land, traps silt and changes the river.",
+  "bytes": 116892
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-water-sources-and-supply--04-reservoir-days.webp",
+  "width": 900,
+  "height": 655,
+  "after": "## Worked example: how long will a reservoir last?",
+  "alt": "A graph of a 12 million cubic metre reservoir emptying with no rain. At 40,000 cubic metres a day it lasts 300 days; after 25% population growth, at 50,000 a day, it lasts 240 days, 60 days fewer.",
+  "caption": "A 25% rise in demand cuts the reservoir’s life from 300 to 240 days.",
+  "bytes": 87434
+ }
+]

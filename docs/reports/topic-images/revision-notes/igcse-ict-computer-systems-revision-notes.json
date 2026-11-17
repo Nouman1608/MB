@@ -1,0 +1,6 @@
+{ "page": "igcse-ict-computer-systems-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--15-cs-hw-sw.webp", "after": "## Hardware and software" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--16-cs-components.webp", "after": "## Hardware and software" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--17-cs-ram-rom.webp", "after": "## Storage" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--19-cs-storage.webp", "after": "## Storage" }
+] }

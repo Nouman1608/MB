@@ -50,6 +50,16 @@ More terms to use precisely:
 Resilience is sometimes described as "bouncing back", but many writers prefer "bouncing forward":
 recovering to a stronger position than before the shock.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--12-risk-resilience-curve.webp" width="900" height="790" alt="Illustrative curve of a system dropping after a shock and recovering, with four phases marked: anticipate, absorb, adapt, recover." loading="lazy">
+  <figcaption>Resilience is the capacity to anticipate, absorb, adapt to and recover from shocks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--13-risk-mitigation-adaptation.webp" width="900" height="770" alt="Chain from cause of the risk to the risk to harm; mitigation acts on the cause, adaptation adjusts to the change or risk." loading="lazy">
+  <figcaption>Mitigation reduces the cause of a risk; adaptation adjusts to it.</figcaption>
+</figure>
+
 ## Responses by scale
 
 | Scale | Examples |
@@ -57,6 +67,11 @@ recovering to a stronger position than before the shock.
 | Local | Community early-warning systems, flood defences and building standards, diversified livelihoods, savings groups, local knowledge and social networks |
 | National | Planning and building regulation, social protection, emergency services, investment in infrastructure and institutions |
 | Global | Agreements and frameworks such as the Paris Agreement on climate change and the Sendai Framework for Disaster Risk Reduction (both adopted in 2015); international organisations and financial institutions |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--14-risk-resilience-scales.webp" width="900" height="870" alt="Three tiers: local (early-warning, flood defences, savings groups), national (building regulation, social protection, emergency services) and global (Paris Agreement and Sendai Framework, 2015, and international organisations)." loading="lazy">
+  <figcaption>Responses operate at local, national and global scales.</figcaption>
+</figure>
 
 ## Case studies by scale
 

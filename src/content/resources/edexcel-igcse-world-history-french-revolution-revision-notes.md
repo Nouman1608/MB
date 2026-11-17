@@ -73,6 +73,16 @@ and you can test yourself with the [practice questions](/resources/edexcel-igcse
 | Sept 1797 | Coup of 18 Fructidor |
 | Nov 1799 | Coup of Brumaire; Napoleon becomes First Consul |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--14-fr-timeline.webp" width="900" height="920" alt="A vertical timeline drawn to scale from 1780 to 1800 with four phases: Old Regime in crisis 1780 to 88, constitutional monarchy 1789 to 92, Republic and Terror 1792 to 94, and Thermidor and Directory 1794 to 99. Events: Diamond Necklace Affair 1785, Assembly of Notables 1787, Estates General called 1788, Estates General opens May 1789, Bastille stormed July 1789, flight to Varennes 1791, Tuileries stormed August 1792, Louis XVI executed January 1793, Robespierre falls July 1794, Directory created 1795, coup of 18 Fructidor 1797 and Napoleon made First Consul in November 1799. Turning points are gold. The four phases are a grouping made for this chart." loading="lazy">
+  <figcaption>The Revolution to scale in four phases, with turning points in gold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--17-fr-crisis.webp" width="900" height="933" alt="A flow from top to bottom. February 1787: the Assembly of Notables refuses Calonne’s land tax and he is dismissed. 1787 to 88: Brienne meets the same resistance and the Parlement of Paris says only an Estates General can approve new taxes. August 1788: the treasury is bankrupt, the Estates General is called and Necker recalled. 5 May 1789: the Estates General opens, with a dispute over voting by order or by head. 17 to 20 June: the Third Estate becomes the National Assembly and swears the Tennis Court Oath. 11 to 14 July: Necker is dismissed and the Bastille stormed. July and August: the Great Fear, when peasants attack châteaux." loading="lazy">
+  <figcaption>The steps from the Notables’ refusal in 1787 to the Great Fear in 1789.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -92,6 +102,11 @@ and you can test yourself with the [practice questions](/resources/edexcel-igcse
 | White Terror | Revenge attacks on former Jacobins, 1795 |
 | Directory | Government of five Directors, 1795–99 |
 | First Consul | Napoleon's title under the Consulate from 1799 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--15-fr-estates.webp" width="900" height="824" alt="The First Estate (the clergy) and the Second Estate (the nobility) are shown as two smaller blocks that held privileges, including exemption from the main direct tax, the taille. Below, a much larger block is the Third Estate, everyone else and the vast majority, from prosperous bourgeoisie shut out of power to peasants, many landless. Three arrows push up on it: the taille, the Church tithe and corvée labour duties. The diagram is not to scale and the lesson gives no population figures." loading="lazy">
+  <figcaption>Two privileged Estates and a Third Estate that carried most of the tax burden (not to scale).</figcaption>
+</figure>
 
 ## Why each turning point happened — summary
 
@@ -114,6 +129,21 @@ even his allies.
 **1799 (Brumaire).** The Directory relied on the army and on coups (Fructidor), lacked money and
 popularity, and faced renewed war; Napoleon had prestige from Italy and Egypt.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--16-fr-causes.webp" width="900" height="823" alt="Five boxes all feed one conclusion, the crisis of 1787 to 89: the society of orders, where the Third Estate carried most of the tax; the Enlightenment, with Montesquieu, Voltaire and Rousseau questioning privilege; the American War, bringing prestige but enormous debts; an indecisive Louis XVI and the unpopular Marie Antoinette; and finance, with heavy borrowing and the poor harvest of 1788." loading="lazy">
+  <figcaption>Five long-term pressures that fed the crisis of 1787–89.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--19-fr-terror.webp" width="900" height="895" alt="Four pressures at the top: the Edict of Fraternity threatening every monarchy, Louis XVI executed on 21 January 1793, the war widening to include Britain and the Dutch Republic, and the Vendée rising of March 1793. They lead down a chain: in April 1793 the Committee of Public Safety becomes the government; in June and July 1793 the sans-culottes force the Girondins out and Robespierre joins; in September 1793 come the Law of Suspects, price controls and mass conscription. About 17,000 people were officially sentenced to death and many more died in prison or in the suppression of the Vendée and federalist revolts." loading="lazy">
+  <figcaption>War, regicide and rebellion led to the Committee of Public Safety and the Terror.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--20-fr-end.webp" width="900" height="841" alt="A flow from top to bottom. June 1794: victory at Fleurus weakens the case for terror. 27 July 1794, 9 Thermidor: Robespierre is arrested and guillotined the next day. Then the Thermidorian Reaction closes the Jacobin Club and ends the Maximum, with a White Terror against former Jacobins. 1795: the Directory, five Directors and two councils. September 1797: the coup of 18 Fructidor uses the army to annul royalist election results. November 1799: the coup of Brumaire, when Sieyès and Napoleon Bonaparte overthrow the Directory and Napoleon becomes First Consul." loading="lazy">
+  <figcaption>From Robespierre’s fall in 1794 to Napoleon becoming First Consul in 1799.</figcaption>
+</figure>
+
 ## Worked example: an "explain two effects" answer
 
 *Explain two effects of the flight to Varennes (1791).*
@@ -126,6 +156,11 @@ popularity, and faced renewed war; Napoleon had prestige from Italy and Egypt.
   persuade the Assembly to declare war in April 1792.
 
 Each effect is named, supported with specific detail and linked back to Varennes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--18-fr-reform-crisis.webp" width="900" height="1283" alt="Two lanes. Reforms on the left: August 1789, feudal privileges abolished and the Declaration of the Rights of Man; 1789 to 90, France reorganised into 83 departments and Church lands taken to back paper money; 1791, the Constitution creating a constitutional monarchy with the vote limited to tax-paying citizens; September 1792, the National Convention abolishes the monarchy and France becomes a republic. Crises on the right: October Days 1789; Civil Constitution of the Clergy 1790 splitting the Church; flight to Varennes June 1791; war on Austria April 1792 with Prussia joining; Tuileries stormed and the king suspended August 1792." loading="lazy">
+  <figcaption>Reforms of the Assembly set against the crises that undermined the monarchy.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

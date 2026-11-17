@@ -52,6 +52,16 @@ Use the tables for recall, then test yourself with the practice page.
 | Load-shedding | Planned power cuts when demand exceeds supply |
 | Transmission losses | Electricity lost on the wires between power station and user, including theft |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-power--01-coal-mining-methods.webp" width="900" height="608" alt="Three cross-sections. Open cast: the overburden is stripped and a seam near the surface is dug from above. Adit: a horizontal tunnel is driven into a hillside where the seam is exposed on the valley side. Shaft: a vertical shaft with horizontal galleries reaches a deep seam." loading="lazy">
+  <figcaption>The depth and position of the seam decide whether coal is mined by open cast, adit or shaft.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-power--02-drilling-oil-gas.webp" width="900" height="667" alt="Cross-section of rock layers. A seismic survey at the surface locates a deposit of oil or gas trapped beneath an arched cap rock. A rig drills a well down to the reservoir, and the oil or gas rises under pressure or is pumped to the surface." loading="lazy">
+  <figcaption>Seismic surveys find the trap; the well taps it.</figcaption>
+</figure>
+
 ## Key facts to learn
 
 **Coal**
@@ -77,6 +87,16 @@ Use the tables for recall, then test yourself with the practice page.
 - Hydel: Tarbela (Indus), Mangla (Jhelum), Warsak (Kabul).
 - Wind: Gharo–Jhimpir corridor, Sindh. Solar: Quaid-e-Azam Solar Park near Bahawalpur.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-power--03-fuels-to-users.webp" width="900" height="716" alt="Three rows. Coal: low-grade Thar lignite is burned in power stations near the mine, while imported coal arrives at Karachi’s ports and moves inland by rail and road. Gas: from Sui and other fields it travels by trunk pipeline to cities, while areas off the network use costlier LPG cylinders. Oil: most is imported by tanker to Karachi, refined there or piped to Mahmood Kot near Multan, with rail and road tankers carrying the rest." loading="lazy">
+  <figcaption>Pipelines reach the cities; everywhere else depends on costlier rail, road and cylinders.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-power--04-electricity-sources.webp" width="900" height="548" alt="Three groups of power stations: thermal stations burn oil, gas, coal or waste; nuclear stations at Chashma and near Karachi use fission; renewables include hydel at Tarbela, Mangla and Warsak, wind in the Gharo–Jhimpir corridor and solar near Bahawalpur. A chain shows a thermal station: fuel heats water to steam, which drives turbines to make electricity." loading="lazy">
+  <figcaption>Thermal, nuclear and renewable stations all end by turning a turbine.</figcaption>
+</figure>
+
 ## Renewables: advantages and disadvantages
 
 | Source | For | Against |
@@ -91,6 +111,11 @@ Use the tables for recall, then test yourself with the practice page.
 - **Physical:** narrow, deep valley in strong rock; large, reliable river flow; space to store a large reservoir; low earthquake risk where possible.
 - **Human:** capital (often foreign loans); engineering skills; demand for irrigation water and power downstream; transmission lines to markets; few people to resettle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-power--05-multipurpose-hydel.webp" width="900" height="660" alt="Cross-section of a dam across a valley holding back a reservoir, with water passing through a power station and on downstream. The scheme provides irrigation water, electricity and flood control. Cards list the physical conditions (narrow, deep valley in hard rock, reliable flow, large basin) and human conditions (capital, expertise, downstream demand, few people to resettle)." loading="lazy">
+  <figcaption>A good dam site needs the right valley and river, plus the money, skills and demand to use it.</figcaption>
+</figure>
+
 ## Why is supply unreliable?
 
 1. Demand growing faster than new generating capacity.
@@ -102,6 +127,11 @@ Use the tables for recall, then test yourself with the practice page.
 **Solutions to quote:** small-scale micro-hydel in mountain valleys; village solar; more wind farms
 in Sindh; reducing line losses; using local Thar coal instead of imported fuel (but note the
 pollution trade-off).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-power--06-unreliable-supply.webp" width="900" height="581" alt="Five causes (demand outgrowing capacity, costly imported fuel, low hydel output in winter, high network losses and remote areas far from the grid) lead to frequent load-shedding. This makes small-scale schemes such as micro-hydel and village solar more feasible than grid extension for remote places." loading="lazy">
+  <figcaption>Where the grid cannot reach reliably, small local schemes can be the feasible answer.</figcaption>
+</figure>
 
 ## Worked example
 

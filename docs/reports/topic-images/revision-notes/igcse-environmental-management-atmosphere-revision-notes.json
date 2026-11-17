@@ -1,0 +1,11 @@
+{ "page": "igcse-environmental-management-atmosphere-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-the-atmosphere--01-four-layers.webp", "after": "## What is the structure of the atmosphere? (4.1)" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-climate-change--01-causes-by-gas.webp", "after": "## What causes climate change? (4.2)" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-climate-change--02-enhanced-greenhouse-effect.webp", "after": "## What causes climate change? (4.2)" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-climate-change--05-footprint-strategies.webp", "after": "## How can carbon footprints be reduced? (4.2.6)" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-climate-change--06-mitigation-vs-adaptation.webp", "after": "## How can carbon footprints be reduced? (4.2.6)" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-acid-rain--01-formation.webp", "after": "## How does acid rain form and how is it managed? (4.3)" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-acid-rain--05-management-strategies.webp", "after": "## How does acid rain form and how is it managed? (4.3)" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ozone-depletion--02-cfc-sources-stability.webp", "after": "## What causes ozone depletion? (4.4)" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ozone-depletion--03-impacts-chain.webp", "after": "## What causes ozone depletion? (4.4)" }
+] }

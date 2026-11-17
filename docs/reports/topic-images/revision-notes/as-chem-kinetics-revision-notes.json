@@ -1,0 +1,29 @@
+{
+ "page": "as-chem-kinetics-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--08-kin-effective-collisions.webp",
+   "after": "## What makes a collision effective?"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--09-kin-concentration-pressure.webp",
+   "after": "## How do concentration, pressure, temperature and catalysts change the rate?"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--11-kin-boltzmann-ea.webp",
+   "after": "## How do you sketch and use the Boltzmann distribution?"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--12-kin-boltzmann-temperature.webp",
+   "after": "## How do you sketch and use the Boltzmann distribution?"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--13-kin-catalyst.webp",
+   "after": "## What does a catalyst do?"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--14-kin-homogeneous-heterogeneous.webp",
+   "after": "## What does a catalyst do?"
+  }
+ ]
+}

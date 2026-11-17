@@ -1,0 +1,56 @@
+[
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-relational-operations--01-relational-truth-grid.webp",
+  "width": 900,
+  "height": 652,
+  "after": "## What a relational operator does",
+  "alt": "A grid of the six relational operators applied to 7 and 7, 5 and 9, and 9 and 5. For equal values only =, ≤ and ≥ are True. For 5 and 9, ≠, < and ≤ are True; for 9 and 5, ≠, > and ≥ are True.",
+  "caption": "Each comparison gives True or False; the equal case is where the operators differ most.",
+  "bytes": 75464
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-relational-operations--02-words-to-operators.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## Translating English into conditions",
+  "alt": "Six phrases and their conditions on a number line around 50. \"At least 50\" is mark ≥ 50 and \"no more than 50\" is mark ≤ 50, both including 50. \"More than 50\" is mark > 50 and \"less than 50\" is mark < 50, both excluding 50. \"Exactly 50\" is mark = 50 and \"anything except 50\" is mark ≠ 50.",
+  "caption": "The boundary words decide whether 50 itself is included.",
+  "bytes": 81310
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-relational-operations--03-opposite-operators.webp",
+  "width": 900,
+  "height": 656,
+  "after": "## Opposite operators",
+  "alt": "Number lines split at 10. count < 10 covers everything below 10 and its opposite count ≥ 10 covers 10 and above; count ≤ 10 and count > 10 split the line the other way. count = 10 is the opposite of count ≠ 10. So WHILE count < 10 becomes UNTIL count ≥ 10, not UNTIL count > 10.",
+  "caption": "Opposites split the line with no gap: < with ≥, > with ≤, = with ≠.",
+  "bytes": 55848
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-relational-operations--04-string-comparison-case.webp",
+  "width": 900,
+  "height": 651,
+  "after": "## Comparing strings and other types",
+  "alt": "The strings \"yes\" and \"Yes\" are compared character by character; the first characters differ in case, so \"yes\" = \"Yes\" is False, while \"yes\" = \"yes\" is True. A menu expecting \"Y\" will not accept \"y\" unless the condition allows both, and \"12\" must be converted before it is compared with the integer 12.",
+  "caption": "String comparison checks every character, including case.",
+  "bytes": 70762
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-relational-operations--05-band-boundaries.webp",
+  "width": 900,
+  "height": 788,
+  "after": "## Worked example: choosing a band from a value",
+  "alt": "An IF … ELSE IF chain puts times under 20 in Fast, times from 20 up to under 30 in Steady, and 30 or more in Starter. On a number line the boundaries are at 20 and 30. A trace of 18, 20, 29 and 30 gives Fast, Steady, Steady and Starter; 20 and 30 are the boundary values.",
+  "caption": "Tests run in order, and boundary values reveal whether < or ≤ was the right choice.",
+  "bytes": 98438
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-relational-operations--06-loop-boundary.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## Worked example: counting loop boundaries",
+  "alt": "Two WHILE loops start count at 0 and output it before adding 1. With WHILE count < 5 the output is 0, 1, 2, 3, 4: five values. With WHILE count ≤ 5 the output is 0, 1, 2, 3, 4, 5: six values.",
+  "caption": "Changing < to ≤ adds one more pass of the loop.",
+  "bytes": 68018
+ }
+]

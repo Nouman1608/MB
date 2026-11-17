@@ -50,12 +50,22 @@ M = m R T / (p V)
 
 **Worked example.** A 4.40 g sample of gas occupies 2.24 dm³ at 101 kPa and 273 K. Convert to SI: V = 2.24 × 10⁻³ m³, p = 101 000 Pa. n = pV/RT = (101 000 × 2.24 × 10⁻³) ÷ (8.31 × 273) ≈ 0.0997 mol. Mr = mass ÷ n = 4.40 ÷ 0.0997 ≈ **44 g mol⁻¹** (consistent with CO₂).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-states-of-matter-ideal-gases-and-structure--03-ideal-gas-mr.webp" width="900" height="920" alt="A flow from a gas sample to its Mr. First convert units: 2.24 dm³ to 2.24 × 10⁻³ m³, 101 kPa to 101 000 Pa, and 273 K is already in kelvin. Then n = pV/RT = 226.2 / 2268.6 = 0.0997 mol, and Mr = 4.40 / 0.0997, about 44 g mol⁻¹." loading="lazy">
+  <figcaption>Convert to SI units first, then find n from pV = nRT and divide the mass by n to get Mr.</figcaption>
+</figure>
+
 ## Assumptions of an ideal gas
 
 1. Particles have **negligible volume** compared with the container.
 2. There are **no intermolecular forces** between particles.
 3. Collisions are perfectly **elastic** (no kinetic energy lost).
 4. Particles are in constant random motion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-states-of-matter-ideal-gases-and-structure--01-gas-pressure.webp" width="900" height="720" alt="A box of gas particles, each with an arrow showing its motion. One particle is about to hit the right-hand wall, marked with impact lines, and three large arrows show the wall being pushed outwards. Many tiny collisions per second add up to the steady force per area called pressure." loading="lazy">
+  <figcaption>Gas pressure is the combined push of billions of tiny wall collisions every second.</figcaption>
+</figure>
 
 ## When real gases deviate
 
@@ -65,6 +75,11 @@ Deviation is greatest at **high pressure** and **low temperature** — precisely
 - **Low temperature** → particles move slowly, so intermolecular attractions become significant.
 
 Gases behave most ideally at **low pressure and high temperature**. Gases with larger molecules and stronger intermolecular forces (e.g. NH₃, H₂O vapour) deviate more than small non-polar ones (He, H₂).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-states-of-matter-ideal-gases-and-structure--02-ideal-vs-real.webp" width="900" height="870" alt="Two boxes of particles. The ideal gas has tiny point particles far apart with no attractions. The real gas, at high pressure and low temperature, has particles with real size packed close together and dashed attraction lines between neighbours. Real gases deviate most at high pressure and low temperature." loading="lazy">
+  <figcaption>An ideal gas has zero-volume particles and no attractions; real gases depart from this most at high pressure and low temperature.</figcaption>
+</figure>
 
 ## The four structure types
 
@@ -76,6 +91,11 @@ Gases behave most ideally at **low pressure and high temperature**. Gases with l
 | **Giant metallic** | Ions + delocalised electrons | Attraction of ions to electron sea | High | Yes, solid and molten | Insoluble |
 
 **Ice is a special case** worth naming: its molecules are held together by **hydrogen bonding** — the strongest type of van der Waals' force (a special case of permanent dipole–permanent dipole attraction) — rather than by id-id forces alone, giving it an unusually open structure — which is why ice is less dense than liquid water and floats.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-states-of-matter-ideal-gases-and-structure--04-four-lattices.webp" width="900" height="1090" alt="Four panels. Giant ionic: alternating + and − ions in a grid, high melting point, conducts if molten or dissolved. Simple molecular: iodine-type molecules with strong bonds inside and weak dashed forces between, low melting point, no mobile charges. Giant molecular: one network of covalent bonds, very high melting point, no conduction except graphite. Giant metallic: cations in a sea of electrons, conducts solid and molten." loading="lazy">
+  <figcaption>The four lattice types differ in what holds them together, and that decides melting point and conduction.</figcaption>
+</figure>
 
 ## The rule that answers most questions
 
@@ -92,9 +112,19 @@ Melting a simple molecular solid overcomes only the **intermolecular forces** �
 | Conducts | No | **Yes** — one delocalised electron per atom |
 | Hardness | Hardest natural substance | Soft, layers slide |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-states-of-matter-ideal-gases-and-structure--05-diamond-graphite.webp" width="900" height="960" alt="Top: a diamond carbon atom with four bonds, each continuing into the network; all four outer electrons are used in localised bonds so none are free and diamond does not conduct. Bottom: a graphite layer of hexagons where each carbon has three bonds and one delocalised electron (gold dots), so electrons move along the layer and graphite conducts." loading="lazy">
+  <figcaption>Diamond has no free electrons; graphite has one delocalised electron per carbon, free to move along its layers.</figcaption>
+</figure>
+
 ## Deducing structure from properties
 
 **Worked example.** An unknown white solid has a very high melting point, does not conduct as a solid, but conducts well once molten, and dissolves readily in water. A high melting point rules out simple molecular. Conducting only when molten (not as a solid) rules out giant metallic (conducts in both states) and giant molecular (except graphite, doesn't conduct at all). Conducting when molten plus water solubility is the signature of mobile ions — **the solid is giant ionic.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-states-of-matter-ideal-gases-and-structure--06-deduce-structure.webp" width="900" height="840" alt="A decision chart. High melting point? No: simple molecular. Yes: conducts as a solid? Yes: giant metallic (graphite also conducts). No: conducts when molten? Yes: giant ionic, mobile ions. No: giant molecular. The worked example, a white solid that conducts only when molten and dissolves in water, follows the gold path to giant ionic." loading="lazy">
+  <figcaption>Melting point and conduction data lead step by step to the structure type.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -72,6 +72,11 @@ Quick-recall notes for Breadth Study B6 of Pearson Edexcel International GCSE Hi
 | 2003 | Invasion of Iraq |
 | 2004 onwards | US drone strikes in Pakistan |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-warfare--01-war-timeline.webp" width="900" height="1046" alt="A vertical timeline drawn to scale from 1919 to 2011 with five coloured bands: between the wars 1919 to 39, Second World War 1939 to 45, nuclear and guerrilla war 1945 to 75, conventional and new wars 1976 to 2000, and the early 21st century 2000 to 2011. Events: Geneva Protocol bans gas 1925, Guernica bombed 1937, Blitzkrieg and Battle of Britain 1940, Pearl Harbor carrier raid 1941, D-Day 1944, atomic bombs 1945, Soviet atomic bomb 1949, Non-proliferation Treaty 1968, Falklands War 1982, INF Treaty 1987, Gulf War with precision weapons 1991, 9/11 attacks 2001 and the invasion of Iraq 2003. New weapons and methods are marked in gold." loading="lazy">
+  <figcaption>The five key topics of the warfare study laid out to scale, with the new weapons and methods in gold.</figcaption>
+</figure>
+
 ## Themes traced
 
 | Theme | 1919–45 | 1945–89 | 1990–2011 |
@@ -81,6 +86,16 @@ Quick-recall notes for Breadth Study B6 of Pearson Edexcel International GCSE Hi
 | Air | Bombers, Battle of Britain, strategic bombing | Nuclear delivery; air strikes in 1967 | Precision strikes; drones |
 | Technology | Radar, radio, V weapons | ICBMs, MIRVs, SDI | Satellites, GPS guidance, robots |
 | Guerrilla | Spain; French Resistance | Vietnam; Afghanistan | Iraq and Afghanistan insurgencies; terrorism |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-warfare--03-war-atlantic.webp" width="900" height="949" alt="Top panel: a group of U-boats, the wolf pack, attack a convoy of merchant ships at sea. Below, five tiles show what defeated them: convoys, long-range aircraft, improved radar, escort carriers and code-breaking. The U-boats were defeated by mid-1943." loading="lazy">
+  <figcaption>U-boat wolf packs attacked convoys until five defences defeated them by mid-1943.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-warfare--05-war-guerrilla.webp" width="900" height="776" alt="A cross-section: on the surface a foreign army tank, a guerrilla ambush from behind cover, and villages giving support; underground, tunnels with guerrillas. Three reasons guerrillas outlasted foreign armies: they avoided battle, relied on local support, and could outlast foreign forces’ political will. In Vietnam US firepower could not defeat tunnels, ambushes and popular support. In Afghanistan from 1979 to 1989 mujahideen guerrillas wore down Soviet forces, and the USSR withdrew in 1989." loading="lazy">
+  <figcaption>Tunnels, ambushes and local support let guerrillas avoid battle and outlast foreign armies.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -114,6 +129,11 @@ Quick-recall notes for Breadth Study B6 of Pearson Edexcel International GCSE Hi
   1973, 1991 ground war); guerrilla wars where air power failed (Vietnam, Afghanistan).
 - **Judgement:** air power changed most, but it rarely won wars without troops on the ground.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-warfare--06-war-drones.webp" width="900" height="836" alt="Top panel: a drone operator sits in a control room thousands of miles from a Predator or Reaper drone, which strikes a target in Pakistan. Bottom panel: an unmanned ground vehicle approaches a roadside bomb to find and defuse it, as used in Iraq and Afghanistan." loading="lazy">
+  <figcaption>Drone operators worked thousands of miles from their targets, and robots defused roadside bombs.</figcaption>
+</figure>
+
 ## Turning points to argue about
 
 - **1939–40:** Blitzkrieg restores movement to land warfare.
@@ -121,6 +141,16 @@ Quick-recall notes for Breadth Study B6 of Pearson Edexcel International GCSE Hi
 - **1945:** atomic bombs create a weapon that could end civilisation.
 - **1991:** the Gulf War shows the power of precision-guided weapons.
 - **2001:** 9/11 makes terrorism and counter-insurgency central to Western strategy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-warfare--02-war-blitzkrieg.webp" width="900" height="932" alt="Four icons: tanks, dive-bombers, motorised infantry and radio, feed one fast, co-ordinated attack. A diagram then shows the attack breaking through the front and two arrows curling round an enemy force to encircle it. The result at the bottom: Poland conquered in 1939 and France in 1940, in weeks." loading="lazy">
+  <figcaption>Blitzkrieg joined tanks, dive-bombers, motorised infantry and radio in one attack that broke through and encircled the enemy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-warfare--04-war-arms-race.webp" width="900" height="1276" alt="Two lanes down a central line. Left, the arms race: atomic bombs on Japan 1945, Soviet atomic bomb 1949, hydrogen bombs in the 1950s, long-range and submarine-launched missiles with multiple warheads, and Mutually Assured Destruction, where neither side can attack without being destroyed. Right, limits: Test Ban Treaty 1963, Non-proliferation Treaty 1968, SALT I 1972. Then Star Wars missile shield proposed 1983 on the left, the INF Treaty 1987, and the end of the Cold War followed by START cuts on the right." loading="lazy">
+  <figcaption>The arms race and the treaties that tried to limit it, in date order.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

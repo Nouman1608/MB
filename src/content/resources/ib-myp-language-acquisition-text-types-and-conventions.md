@@ -54,6 +54,11 @@ Every writing task asks for the same four decisions. Note them at the top of you
 
 Register follows from audience and purpose, not from the topic. A text about school uniform can be formal (an email to the head teacher) or informal (a message to a cousin). Once you choose a register, hold it from the first line to the last.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-text-types-and-conventions--01-four-decisions.webp" width="900" height="635" alt="Text type, audience and purpose together decide the fourth choice, register, which follows from them rather than from the topic. The same topic, school uniform, is formal in an email to the head teacher and informal in a message to a cousin." loading="lazy">
+  <figcaption>Decide text type, audience and purpose; the register follows.</figcaption>
+</figure>
+
 ## Register: what changes
 
 | Feature | Formal | Informal |
@@ -68,6 +73,11 @@ Register follows from audience and purpose, not from the topic. A text about sch
 | Closing | Fixed polite formula | Friendly sign-off |
 
 A **semi-formal** register sits between the two: a school blog post or a speech to your year group is friendly but careful, with no slang.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-text-types-and-conventions--02-register-features.webp" width="900" height="725" alt="Eight features compared for formal and informal register: address, the form of “you”, contractions, vocabulary, idiom and slang, sentence length, punctuation and the closing. A semi-formal register, as in a school blog post or a speech to your year group, is friendly but careful, with no slang." loading="lazy">
+  <figcaption>Register shows in every feature, from greeting to closing.</figcaption>
+</figure>
 
 ## The seven text types
 
@@ -112,6 +122,16 @@ A **semi-formal** register sits between the two: a school blog post or a speech 
 - **Purpose:** to record and reflect on events and feelings, for the writer alone.
 - **Conventions:** a date; an opening such as "Dear Diary" if your target language uses one; first person; past tenses for events and present for feelings; reflective, emotional language; informal register; thoughts about what happens next.
 - **Slip:** writing to an audience ("Hi, readers!"), which turns it into a blog.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-text-types-and-conventions--03-written-text-layouts.webp" width="900" height="810" alt="Four layout skeletons. Email: subject line, greeting, purpose in the first sentence, a clear request, closing formula, name and role. Blog post: title, date and author, direct address, subheadings and a call for comments. Article: headline, byline, a hook-and-summary opening, facts and quoted comments, an ending that returns to the headline. Diary entry: date, past tenses for events, present for feelings, thoughts about what comes next." loading="lazy">
+  <figcaption>A reader should recognise the text type from its layout alone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-text-types-and-conventions--04-speech-brochure-review.webp" width="900" height="695" alt="Three columns of conventions. Speech: greet the audience, introduce your point, signposts, rhetorical questions, repetition and lists of three, “you” and “we”, a memorable ending. Brochure or leaflet: title and slogan, headings, bullet points, imperatives, practical details, image space, a call to action. Review: title, key facts, description without spoilers, strengths and weaknesses with evidence, a recommendation and often a rating." loading="lazy">
+  <figcaption>Each text type has conventions its readers or listeners expect.</figcaption>
+</figure>
 
 ## Worked example: one topic, three text types
 
@@ -176,6 +196,11 @@ What makes it work: title, date and author; direct address; contractions; rhetor
 What makes it work: only a date and a greeting; feelings first; past tenses for events, present and future for worries and plans; short, emotional sentences; questions asked of yourself, not of readers.
 
 **Step 3 -- compare.** Underline what changed: layout signals, form of address, contractions, sentence length and the ending (a formula, a question to readers, a private worry). If two endings could be swapped unnoticed, your conventions are too weak.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-text-types-and-conventions--05-one-topic-three-texts.webp" width="900" height="732" alt="The same food-festival facts written three ways. A formal email to the festival coordinator asks for a stall, opens “Dear Mr Brennan,” avoids contractions and ends with “Yours sincerely” and a role. A semi-formal blog post persuades students to volunteer and ends by asking for comments. An informal diary entry reflects on feelings and ends with a private worry." loading="lazy">
+  <figcaption>The facts stay the same; audience, purpose, register and endings all change.</figcaption>
+</figure>
 
 ## A checklist for any text type
 

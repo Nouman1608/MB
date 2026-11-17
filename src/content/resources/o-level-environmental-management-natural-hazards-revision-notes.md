@@ -93,6 +93,16 @@ landslides; contaminated drinking water; water-related disease; financial losses
 
 **Why people live near volcanoes**: fertile soils; minerals; building materials; geothermal power; tourism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--02-plate-boundaries.webp" width="900" height="1130" alt="Three cross-sections. At a destructive boundary one plate sinks beneath another and a volcano forms on the upper plate. At a constructive boundary two plates move apart and magma rises in the gap to form a volcano. Over a hot spot, a plate moves above a fixed plume of hot rock and a volcano forms above it." loading="lazy">
+  <figcaption>Volcanoes form at destructive boundaries, constructive boundaries and over hot spots.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--01-focus-epicentre.webp" width="900" height="800" alt="Cross-section of the ground. Underground, rocks slip along a fault at the focus, shown with a yellow dot. Directly above it on the surface is the epicentre, shown with a red dot. Waves spread out from the focus in rings. Houses near the epicentre tilt because shaking is strongest there; houses far away stay upright. A seismometer on the surface records the waves. The size of an earthquake is its magnitude on the moment magnitude scale." loading="lazy">
+  <figcaption>The focus is where rocks slip underground; the epicentre is the surface point directly above it, where shaking is strongest.</figcaption>
+</figure>
+
 ## 6.2 Tropical cyclones
 
 - Also called storms, hurricanes or typhoons.
@@ -114,6 +124,16 @@ landslides; contaminated drinking water; water-related disease; financial losses
 | Storm surges and tsunamis | Sea water pushed inland |
 
 **Flood opportunities**: fertile silt on farmland; recharge of surface and ground water stores.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--05-flood-catchments.webp" width="900" height="900" alt="Two side views of a slope draining to a river, with rain falling on both. On the wooded slope trees intercept rain and water soaks into the soil, so it reaches the river slowly and the flow stays low. In the town, roofs and roads stop water soaking in, so rain runs quickly through drains to the river, giving fast and high flow and a higher flood risk." loading="lazy">
+  <figcaption>Trees and soil slow rain on a wooded slope; roofs and roads send it quickly to the river in a town.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--04-storm-surge.webp" width="900" height="800" alt="Side view of a coast. Low pressure in the storm lets the sea surface bulge above normal sea level, and strong wind pushes the water towards the shore. The raised sea floods low-lying coastal land and houses. Storm surge causes most cyclone deaths." loading="lazy">
+  <figcaption>Low pressure and strong wind raise the sea against the coast, flooding low-lying land; storm surge causes most deaths.</figcaption>
+</figure>
 
 ## 6.4 Drought
 

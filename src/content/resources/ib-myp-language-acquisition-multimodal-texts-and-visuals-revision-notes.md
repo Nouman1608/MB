@@ -41,6 +41,11 @@ Links: [practice questions](/resources/ib-myp-language-acquisition-multimodal-te
 - **Interplay** -- the brief's idea that the aspects of a text work together to convey ideas, values and attitudes.
 - **Multiliteracy** -- the brief's term for skills across many kinds of text; one of the stated aims of the subject.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-multimodal-texts-and-visuals--01-five-modes.webp" width="900" height="620" alt="Five modes: written (headlines, captions), spoken (voice, tone, pace), visual (photos, colour, icons), spatial (layout, position, size, white space) and aural (music, sound effects, silence). A text is multimodal when it combines two or more. Criteria A and B both include visual and spatial aspects." loading="lazy">
+  <figcaption>Visuals and layout are part of the meaning, not decoration.</figcaption>
+</figure>
+
 ## What the brief says each criterion expects (paraphrased)
 
 | Criterion | Multimodal focus |
@@ -85,6 +90,11 @@ Each criterion: eight achievement levels (1-8) in four bands. Your teacher will 
 
 Sound vocabulary for Criterion A: tone of voice, pace, pause, volume, music (mood, change of track), sound effects (setting), silence (emphasis).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-multimodal-texts-and-visuals--02-describing-visuals.webp" width="900" height="695" alt="Nine elements to check: subject, foreground and background, shot distance, angle, gaze, colour, typography, layout and symbols, each with a question. Then state the denotation, what is literally there (a green headline), before the connotation, what it suggests (nature, recycling or “go”), which depends on culture." loading="lazy">
+  <figcaption>Describe precisely first; connotation without a named detail is just opinion.</figcaption>
+</figure>
+
 ## Four text-image relationships
 
 | Relationship | What happens | Quick example |
@@ -93,6 +103,11 @@ Sound vocabulary for Criterion A: tone of voice, pace, pause, volume, music (moo
 | Reinforce | Words and image say the same thing | "Clean beaches" over a photo of a clean beach |
 | Extend | One mode adds what the other leaves out | Chart shows the numbers, text gives the reason |
 | Contrast | Words and image pull against each other | "Relaxing holiday?" over a packed, noisy airport |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-multimodal-texts-and-visuals--03-word-image-relationships.webp" width="900" height="660" alt="Four relationships: anchor, where words fix an open image’s meaning (an empty beach reads as peace or loss depending on the caption); reinforce, where both say the same thing; extend, where one mode adds information the other lacks; and contrast, where they pull against each other for humour, irony or shock." loading="lazy">
+  <figcaption>Name the relationship before you explain its effect.</figcaption>
+</figure>
 
 ## Method in steps: Notice -- Connect -- Explain
 
@@ -103,6 +118,11 @@ Sound vocabulary for Criterion A: tone of voice, pace, pause, volume, music (moo
 ```
 
 Repeat the cycle for two or three details, not ten. Depth beats a list.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-multimodal-texts-and-visuals--06-notice-connect-explain.webp" width="900" height="690" alt="A three-step method: notice one specific detail, connect it to the words or sound, and explain its effect and the values behind it. Below, model sentences at each level: emergent describes with one simple reason; capable links the visual to the words and the purpose; proficient interprets implicit attitudes and compares modes." loading="lazy">
+  <figcaption>The method is the same at every level; the depth of explanation grows.</figcaption>
+</figure>
 
 ## Method in steps: responding to a multimodal stimulus in writing (D)
 
@@ -140,6 +160,16 @@ Repeat the cycle for two or three details, not ten. Depth beats a list.
 - **Weak:** "The poster is blue. It is nice."
 - **Better:** "The poster is mainly pale blue, which suggests calm. This fits the headline 'Take a breath', so the reader feels invited to relax."
 - **Listening note-taking:** two columns -- *heard* / *saw*. "Heard: 'everyone welcome' / Saw: people of all ages at one table" -> reinforce.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-multimodal-texts-and-visuals--04-charity-run-leaflet.webp" width="900" height="700" alt="A schematic leaflet: a lone runner on a rainy road photographed from a low angle, the headline “YOU ARE NOT RUNNING ALONE.” in thin white capitals, and forty orange runner icons with “Join 40 neighbours this Sunday.” The analysis describes it, names the relationships (the headline contrasts with the photo; the icons extend it), interprets the move from loneliness to a group, and identifies values of community and support." loading="lazy">
+  <figcaption>Describe, name the relationship, interpret, then identify values and attitudes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-multimodal-texts-and-visuals--05-library-video-heard-saw.webp" width="900" height="690" alt="A timeline of a library video in rows for what is heard, seen and played. A calm voice says “Our library is quiet” while teenagers laugh around a game table; upbeat music starts on “but”: “But it’s never boring.” The image contrasts with the words and the music marks the turn, aiming the video at young people who think libraries are dull." loading="lazy">
+  <figcaption>Pair what you heard with what was on screen at the same moment.</figcaption>
+</figure>
 
 ## The same detail at three levels (rough guide only)
 

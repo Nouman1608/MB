@@ -53,6 +53,16 @@ Nuclear, extended, reconstituted (step), lone-parent, same-sex, and **beanpole**
 
 **Consequences for family structure:** more **lone-parent families** (mostly headed by women, associated with higher poverty risk); more **reconstituted families**, creating step-relationships as people remarry or cohabit; and more **single-person households**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-family-forms--02-five-family-forms.webp" width="900" height="747" alt="Five cards with simple figures. Nuclear: a couple and dependent children. Extended: three generations. Reconstituted: a couple with children from a previous relationship, including step-children. Lone parent: one parent with children, usually a mother. Single sex: a same-sex couple, with or without children. A sixth card defines cohabitation, the empty nest family and the commune." loading="lazy">
+  <figcaption>Name the form, then say who lives together and how it forms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--04-divorce-reasons-consequences.webp" width="900" height="640" alt="Four reasons, changes in the law, changes in social attitudes and values, secularisation and the changing status of women, feed into the rise in divorce since 1945. The Divorce Reform Act 1969, in force from 1971, allowed divorce for irretrievable breakdown and was followed by a sharp rise. Consequences fall on husbands and wives, children and the extended family, including more lone-parent families." loading="lazy">
+  <figcaption>Four reasons explain the rise in divorce; its effects reach the whole family.</figcaption>
+</figure>
+
 ## Perspectives on the family
 
 | Perspective | View |
@@ -64,6 +74,21 @@ Nuclear, extended, reconstituted (step), lone-parent, same-sex, and **beanpole**
 | **Postmodernism** | Family structure is a matter of individual choice; diversity is the norm |
 
 **Conjugal roles:** *segregated* (separate and traditional) versus *joint* (shared). The **symmetrical family** thesis (Willmott and Young) claims roles have converged, spreading via **stratified diffusion** — their principle that social changes filter downward from higher to lower social classes over time; feminists reply that evidence of the **dual burden** — paid work plus domestic work — shows symmetry is more apparent than real, and that women retain responsibility for **emotion work** as well.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--02-family-perspectives.webp" width="900" height="470" alt="Three cards. Functionalists Murdock and Parsons list primary socialisation, stabilisation of adult personalities, reproduction and economic support. Marxists say the family reproduces labour power, passes on property and is a unit of consumption. Feminists focus on patriarchy, split into liberal, radical and Marxist feminist views." loading="lazy">
+  <figcaption>Set the perspectives against each other: they disagree about whom the family serves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--06-dual-burden-triple-shift.webp" width="900" height="604" alt="Three stacked columns showing a woman’s load. Young and Willmott’s symmetrical family: paid work and shared housework. Oakley’s dual burden: paid work plus most of the housework. Duncombe and Marsden’s triple shift: paid work, housework and emotional work." loading="lazy">
+  <figcaption>Each study adds a layer: from shared roles to the dual burden to the triple shift.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--05-stratified-diffusion.webp" width="900" height="703" alt="Three stacked class layers with an arrow pointing down: stratified diffusion means changes spread from higher to lower classes. Below, family roles move from segregated, clearly divided roles to joint roles in a symmetrical, home-centred family. A note adds Oakley’s dual burden and Duncombe and Marsden’s triple shift." loading="lazy">
+  <figcaption>Young and Willmott saw symmetry spreading down the classes; Oakley disagreed.</figcaption>
+</figure>
 
 ## Education
 
@@ -86,6 +111,16 @@ Nuclear, extended, reconstituted (step), lone-parent, same-sex, and **beanpole**
 
 **Ethnicity:** language, family structure, ethnocentric curriculum, teacher labelling and institutional racism. Crucially, ethnic differences **overlap with class** — the two interact, and sociologists debate how much of the apparent ethnic effect is attributable to class rather than ethnicity itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--03-correspondence-principle.webp" width="900" height="927" alt="Four matched pairs link school to work: obeying teachers and obeying managers; working for grades and working for wages; separate lessons and narrow tasks; competing for rank and competing for promotion. The result is a docile, obedient workforce too divided to challenge management. Below, alternative views from Willis, functionalists, feminists and interactionists." loading="lazy">
+  <figcaption>Social relationships at school mirror those at work, so school reproduces labour power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--07-internal-external-factors.webp" width="900" height="690" alt="A school building holds internal factors: labelling, streaming, subcultures, an ethnocentric curriculum and teacher expectations. Outside it are external factors: material deprivation, cultural capital, parental attitudes and language codes. Ball sits across the wall, with work on both sides. Below, achievement by class, gender and ethnicity." loading="lazy">
+  <figcaption>Sort every explanation: inside the school gates, or outside them?</figcaption>
+</figure>
+
 ## Research methods
 
 **Primary vs secondary; quantitative vs qualitative.**
@@ -100,6 +135,11 @@ Nuclear, extended, reconstituted (step), lone-parent, same-sex, and **beanpole**
 | Official statistics | Cheap, large-scale | Socially constructed |
 
 **Researching education has specific constraints** worth naming: schools are hierarchical, pupils are minors so parental consent is needed, gatekeepers control access, and classrooms are hard to observe without changing the behaviour observed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--03-methods-spectrum.webp" width="900" height="744" alt="A line runs from quantitative methods, which are more reliable and easy to compare, to qualitative methods, which give more depth and validity. Questionnaires, structured interviews, unstructured interviews and participant observation are placed along it with a strength and a weakness each. Below, mixed methods combine both." loading="lazy">
+  <figcaption>Quantitative methods favour reliability; qualitative methods favour validity; mixed methods combine them.</figcaption>
+</figure>
 
 ## Exam traps
 

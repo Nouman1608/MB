@@ -41,6 +41,11 @@ with the [South Africa practice questions](/resources/edexcel-igcse-world-histor
 | 4. P.W. Botha, 1978–90 | UDF, township unrest, churches, reforms, AWB, State of Emergency, sanctions |
 | 5. Dismantling apartheid, 1990–94 | De Klerk, repeal (1991), Mandela, 1994 election |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--09-sa-1948.webp" width="900" height="763" alt="Illustrative bars: the United Party gets more votes but the National Party gets more seats because rural constituencies, where Afrikaners were strong, were over-represented." loading="lazy">
+  <figcaption>More votes did not mean more seats in 1948.</figcaption>
+</figure>
+
 ## The apartheid laws
 
 | Law | Year | Effect |
@@ -53,6 +58,16 @@ with the [South Africa practice questions](/resources/edexcel-igcse-world-histor
 | Separate Amenities Act | 1953 | Separate — and unequal — public facilities |
 | Bantu Education Act | 1953 | State-controlled, inferior black schooling |
 | Promotion of Bantu Self-Government Act | 1959 | Homelands (Bantustans) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--08-sa-laws.webp" width="900" height="898" alt="Seven laws in date order, 1949 to 1953, each with an icon: mixed marriages, immorality amendment, population registration, group areas, pass laws, separate amenities and Bantu education." loading="lazy">
+  <figcaption>The laws that made segregation total and legally enforced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--10-sa-petty-grand.webp" width="900" height="953" alt="Petty apartheid segregated buses, benches, beaches and post offices. Grand apartheid created homelands under the 1959 Act, with forced removals out of white South Africa." loading="lazy">
+  <figcaption>Petty apartheid ruled daily life; grand apartheid ruled citizenship.</figcaption>
+</figure>
 
 ## Timeline
 
@@ -85,6 +100,16 @@ with the [South Africa practice questions](/resources/edexcel-igcse-world-histor
 | Apr 1993 | Chris Hani assassinated |
 | Apr 1994 | First multiracial election; Mandela President (May) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--13-sa-why-reform.webp" width="900" height="661" alt="Four reasons converge on the unbanning of the ANC, PAC and Communist Party on 2 February 1990, followed by Mandela’s release on 11 February." loading="lazy">
+  <figcaption>Four pressures that led de Klerk to reform.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--14-sa-road-1994.webp" width="900" height="990" alt="Timeline from 1989 to the April 1994 election, with a bar showing the ANC won about 62% of the vote." loading="lazy">
+  <figcaption>From unbanning to the 1994 election.</figcaption>
+</figure>
+
 ## Forms of resistance compared
 
 | Movement | Leaders | Methods | Outcome |
@@ -94,6 +119,16 @@ with the [South Africa practice questions](/resources/edexcel-igcse-world-histor
 | Umkhonto we Sizwe | Mandela | Sabotage | Rivonia; leaders imprisoned |
 | Black Consciousness | Biko | Pride, self-reliance; student activism | Soweto 1976; Biko's death |
 | UDF | Many leaders; churches | Mass protest, boycotts | State of Emergency; pressure for change |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--11-sa-resistance.webp" width="900" height="878" alt="Timeline from 1955 to 1977 with marker shapes for resistance, state action and world reaction." loading="lazy">
+  <figcaption>Resistance and repression, 1955 to 1977.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--12-sa-tricameral.webp" width="900" height="905" alt="Three houses for whites, Coloureds and Indians but none for black South Africans, leading to the UDF in 1983, township unrest from 1984 and the State of Emergency of 1985–86." loading="lazy">
+  <figcaption>Excluding black South Africans fuelled resistance.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -22,6 +22,7 @@ reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
+updatedDate: 2026-11-17
 featured: false
 reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words. 2026-11-08 recheck: added a short comparison section; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 ---
@@ -44,19 +45,30 @@ is in the
 | **Quarantine** | Kennedy's naval blockade of Cuba, October 1962 |
 | **Vietnamisation** | Nixon's policy of handing the fighting to South Vietnam's army |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--15-containment-dominoes.webp" width="900" height="880" alt="Two rows of dominoes. In the domino theory row, one domino has fallen and the others topple in sequence, showing neighbours following. In the containment row a barrier stops the first fallen domino and the rest stand. A note says containment meant stopping communism spreading to new countries rather than overthrowing it where it already ruled." loading="lazy">
+  <figcaption>Containment (Truman Doctrine, 1947) set against the domino theory (Eisenhower, 1954).</figcaption>
+</figure>
+
 ## Korea, 1950–53
 
 | Date | Event |
 |---|---|
 | 25 June 1950 | North Korea invades the South |
 | June 1950 | UN Security Council (USSR absent) backs military help for South Korea |
-| September 1950 | Inchon landings; UN forces push north past the 38th parallel |
+| September 1950 | Inchon landings; North Korean forces pushed back to the 38th parallel |
+| October 1950 | UN forces cross the 38th parallel towards the Yalu |
 | Oct–Nov 1950 | China enters the war; UN forces driven back |
 | April 1951 | Truman dismisses MacArthur |
 | 27 July 1953 | Armistice at Panmunjom; border near the 38th parallel |
 
 **Verdict:** containment achieved — South Korea saved — but not
 "rollback", since Korea stayed divided.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--16-containment-korea-front.webp" width="900" height="950" alt="A schematic chart with the Yalu River at the top and the 38th parallel in the middle. Six numbered points trace the front: the North invades and takes most of the South in June 1950, Inchon landings drive it back in September, UN forces approach the Yalu and China enters in October to November, China pushes south, the front settles near the 38th parallel by April 1951 when MacArthur is sacked, and the armistice is signed at Panmunjom on 27 July 1953." loading="lazy">
+  <figcaption>The front moved from the south to the Yalu and back to the 38th parallel (schematic).</figcaption>
+</figure>
 
 ## Cuba, 1959–62
 
@@ -78,6 +90,16 @@ of US Jupiter missiles from Turkey.
 **Verdict:** mixed — Cuba stayed communist, but Soviet missiles were
 removed without war.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--17-containment-cuba-crisis.webp" width="900" height="870" alt="Three build-up steps: Castro overthrows Batista in January 1959, the USA breaks off relations in January 1961, and about 1,400 exiles are defeated at the Bay of Pigs in April 1961. A day scale for October 1962 marks 14 October (U-2 photographs missile sites), 22 October (naval quarantine announced), 27 October (US U-2 shot down) and 28 October (Khrushchev agrees to remove the missiles)." loading="lazy">
+  <figcaption>From Castro’s revolution to the missile crisis, 14–28 October 1962.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--18-containment-cuba-deal.webp" width="900" height="900" alt="The USSR and the USA are shown with arrows for what each gave. The USSR agreed publicly to remove its missiles from Cuba. The USA publicly promised not to invade Cuba and secretly agreed to remove its Jupiter missiles from Turkey. Afterwards came a Washington–Moscow hotline in 1963 and the Partial Test Ban Treaty in August 1963." loading="lazy">
+  <figcaption>The public and secret terms that ended the crisis on 28 October 1962.</figcaption>
+</figure>
+
 ## Vietnam, 1955–75
 
 - **Why involved:** domino theory; support for Diem after the Geneva
@@ -97,6 +119,16 @@ removed without war.
 **Verdict:** failure — Vietnam, Laos and Cambodia all communist by the
 end of 1975; about 58,000 US dead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--19-containment-vietnam-timeline.webp" width="900" height="1096" alt="A vertical timeline of US involvement in Vietnam from the 1954 Geneva Accords to the fall of Saigon on 30 April 1975. Key points: about 16,000 US advisers by 1963, Operation Rolling Thunder and combat troops in March 1965, the Tet Offensive in January 1968, the My Lai massacre, a peak of over 500,000 US troops in 1968 to 69, Vietnamisation, the Paris Peace Accords in January 1973. Two squares compare the troop numbers by area." loading="lazy">
+  <figcaption>US involvement in Vietnam grew from advisers to over 500,000 troops and ended with the fall of Saigon in 1975.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--20-containment-vietnam-tactics.webp" width="900" height="810" alt="Two panels face each other. The USA used bombing and firepower, search and destroy missions, napalm and Agent Orange, and strategic hamlets from 1962. The Viet Cong used guerrilla warfare, tunnels and Ho Chi Minh Trail supply lines, supported by North Vietnam, China and the USSR." loading="lazy">
+  <figcaption>US firepower against Viet Cong guerrilla tactics.</figcaption>
+</figure>
+
 ## Comparing the three
 
 The cases get harder for the USA: in Korea it fought a conventional
@@ -104,6 +136,11 @@ war with UN backing; in Cuba it faced a popular revolution 90 miles
 from Florida, which it could not reverse; in Vietnam it fought a
 guerrilla war for an unpopular ally. Use this pattern to build a
 conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--21-containment-verdict.webp" width="900" height="920" alt="Three rows compare the cases. Korea: defend South Korea; South stayed non-communist with a stalemate; largely successful. Cuba: remove Castro and keep Soviet missiles out; Castro stayed and the missiles were removed; mixed. Vietnam: keep South Vietnam non-communist; the whole country was communist by 1975; failure. Containment worked best with broad international support and a clear front line, worst when backing an unpopular government against nationalist guerrillas." loading="lazy">
+  <figcaption>Containment judged case by case: Korea largely successful, Cuba mixed, Vietnam a failure.</figcaption>
+</figure>
 
 ## Key dates to learn
 
@@ -132,6 +169,11 @@ Use the same three tests for each case study, then compare:
 1. **Was communism stopped from spreading there?** Korea: yes, South Korea survived; Cuba: no, Castro stayed in power; Vietnam: no, the whole country was united under communist rule in 1975.
 2. **At what cost?** Lives, money and US prestige, for example the long war in Vietnam and the anti-war movement at home.
 3. **Did it achieve wider aims?** For example, the removal of Soviet missiles from Cuba in 1962, even though Castro's regime survived.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-containment-communism--05-effectiveness-grid.webp" width="900" height="579" alt="A grid of three criteria (aim achieved, cost, wider effects) against Korea, Cuba and Vietnam. Korea: the South survived, a limited success. Cuba: communism stayed but the missiles went, mixed. Vietnam: three states became communist in 1975, a failure, though wider dominoes did not fall." loading="lazy">
+  <figcaption>Define &quot;effective&quot;, then rank the cases: Korea, then Cuba, then Vietnam.</figcaption>
+</figure>
 
 ## Exam traps
 

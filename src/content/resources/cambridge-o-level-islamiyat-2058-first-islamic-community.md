@@ -38,6 +38,11 @@ actions matter in the history and beliefs of Islam.
    him in his ministry, the Emigrants and Helpers, and the four Rightly Guided Caliphs **during his
    lifetime**. Their rule after 632 belongs to Paper 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--01-people-of-the-topic.webp" width="900" height="551" alt="Three groups of people make up the topic: the wives of the Prophet (pbuh), his descendants including the line of Imams, and his leading Companions. The four Rightly Guided Caliphs are studied for their lives before 632; their rule after 632 belongs to Paper 2." loading="lazy">
+  <figcaption>The topic is organised around people: know the facts of each life and why it matters.</figcaption>
+</figure>
+
 ## 1. The wives of the Prophet (pbuh)
 
 The Qur'an calls them the **Mothers of the Believers** (Sura 33.6).
@@ -61,6 +66,11 @@ Khadija were widows who needed support; some marriages strengthened bonds with c
 (Aisha, Hafsa) or with tribes (Juwayriyya, Umm Habiba); one changed a social custom (Zaynab bint
 Jahsh); and his wives taught Muslim women and men about his private life and practice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--02-reasons-for-the-marriages.webp" width="900" height="624" alt="Five reasons for the marriages, each with examples: support for widows such as Sawda and Umm Salama; bonds with close Companions through Aisha and Hafsa; bonds with tribes through Juwayriyya and Umm Habiba; changing a custom through Zaynab bint Jahsh; and teaching Muslims about his private life and practice." loading="lazy">
+  <figcaption>Give the reason, then name the wife who shows it.</figcaption>
+</figure>
+
 ## 2. His descendants
 
 **Children.** With Khadija: **Qasim**, **Abdullah**, **Zaynab**, **Ruqayya**, **Umm Kulthum** and
@@ -82,6 +92,16 @@ family as the rightful, divinely guided leaders after him: Ali, Hasan, Husayn, A
 Muhammad al-Baqir, Ja'far al-Sadiq, Musa al-Kazim, Ali al-Rida, Muhammad al-Jawad, Ali al-Hadi, Hasan
 al-Askari and Muhammad al-Mahdi, who Shi'a Muslims believe is in hiding and will return. Husayn's
 martyrdom at Karbala is remembered especially in the month of Muharram.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--03-descendants.webp" width="900" height="685" alt="A text family tree. With Khadija the Prophet (pbuh) had Qasim, Abdullah, Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman) and Fatima (married Ali); with Maria he had Ibrahim. Fatima's children include Hasan, Husayn and Zaynab bint Ali. A note explains Uthman's title Dhu al-Nurayn and the Ahl al-Bayt at the Mubahala." loading="lazy">
+  <figcaption>Six children with Khadija, Ibrahim with Maria; the line continues through Fatima and Ali.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--04-twelve-imams.webp" width="900" height="717" alt="The twelve Imams in order: Ali, Hasan, Husayn, Ali Zayn al-Abidin, Muhammad al-Baqir, Ja'far al-Sadiq, Musa al-Kazim, Ali al-Rida, Muhammad al-Jawad, Ali al-Hadi, Hasan al-Askari and Muhammad al-Mahdi. Cards note that they are seen as rightful, divinely guided leaders, that the twelfth is believed to be in hiding, and that Husayn's martyrdom at Karbala is remembered in Muharram." loading="lazy">
+  <figcaption>Twelve Imams in one line, from Ali to Muhammad al-Mahdi.</figcaption>
+</figure>
 
 ## 3. The Companions
 
@@ -107,6 +127,16 @@ themselves, even though poverty was their own lot" (Sura 59.9) and promises both
 pleasure (Sura 9.100). The best-known example is Sa'd ibn al-Rabi', who offered Abd al-Rahman ibn Awf
 half his wealth; Abd al-Rahman thanked him and asked only to be shown the market.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--05-supporters-and-opponents.webp" width="900" height="697" alt="Two columns of name cards. Supporters: Abu Talib, Hamza, Bilal, Mus'ab ibn Umayr, Zayd ibn Haritha and Salman al-Farsi, each with a key fact. Opponents: Abu Lahab, Abu Jahl, Abu Sufyan and Khalid ibn al-Walid, the last two of whom later accepted Islam." loading="lazy">
+  <figcaption>Know one key fact for each supporter and opponent; two opponents later accepted Islam.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--06-emigrants-and-helpers.webp" width="900" height="549" alt="The Muhajirun, who left homes and property in Makka, and the Ansar of the Aws and Khazraj, who received them in Madinah, are linked by a two-way arrow. Cards quote Sura 59.9 on the Ansar giving the Emigrants preference over themselves and Sura 9.100 promising both groups God's pleasure. Example: Sa'd ibn al-Rabi' offered Abd al-Rahman ibn Awf half his wealth." loading="lazy">
+  <figcaption>Sacrifice on one side, generosity on the other: both praised in the Qur'an.</figcaption>
+</figure>
+
 ## 4. The four caliphs in the Prophet's lifetime
 
 - **Abu Bakr:** first free adult man to accept Islam; brought Uthman, Talha, al-Zubayr and others to
@@ -124,6 +154,11 @@ half his wealth; Abd al-Rahman thanked him and asked only to be shown the market
   Fatima; fought at Badr and carried the banner at Khaybar; left in charge of Madina during the Tabuk
   expedition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--07-caliphs-in-his-lifetime.webp" width="900" height="599" alt="Four cards. Abu Bakr: first free adult man to accept Islam, companion in the cave of Thawr, led prayers in the final illness. Umar: once an opponent, accepted Islam after hearing Sura Ta-Ha, let Muslims pray openly at the Ka'ba. Uthman: early convert, married two daughters, funded Tabuk. Ali: first young person to accept Islam, slept in the Prophet's bed on the night of the Hijra, married Fatima." loading="lazy">
+  <figcaption>Before 632: how each future caliph came to Islam and served the Prophet (pbuh).</figcaption>
+</figure>
+
 ## Worked example
 
 **Question:** Write about the life of Khadija and her importance to the Prophet (pbuh). **[10]**
@@ -137,6 +172,11 @@ Shi'b Abi Talib → died in 619, the Year of Sorrow → he never forgot her and 
 after her death.
 
 *Why it scores well:* facts in order, named people, and her significance woven through.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--08-khadija-answer-plan.webp" width="900" height="674" alt="Six steps for an answer on Khadija: a respected widow and trader; employed him to trade in Syria, where Maysara reported his honesty; proposed marriage when he was twenty-five; comforted him after Hira and took him to Waraqa ibn Nawfal; was the first to believe and spent her wealth; died in 619, the Year of Sorrow." loading="lazy">
+  <figcaption>Facts in order, named people, significance throughout.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -63,6 +63,11 @@ them.
 | **Removable media** | USB sticks can carry malware in, or let data be copied out and lost |
 | **Unpatched / outdated software** | Known security holes stay open for attackers to exploit |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-cyber-security-study-guide--11-brute-force-time.webp" width="900" height="921" alt="Three horizontal bars on a logarithmic scale of the number of combinations. A 4-digit PIN has 10 to the power 4, which is 10,000 combinations, and takes 10 seconds at 1,000 guesses per second. A 6-character lower-case password has 26 to the power 6, which is 308,915,776 combinations, and takes 308.9 seconds, just over 5 minutes, at 1,000,000 guesses per second. An 8-character password of upper-case, lower-case and digits has 62 to the power 8, which is 218,340,105,584,896 combinations, and takes about 60.7 hours, about 2.5 days, at 1,000,000,000 guesses per second." loading="lazy">
+  <figcaption>Longer passwords with more character types have vastly more combinations to try.</figcaption>
+</figure>
+
 ## Social engineering
 
 **Social engineering** is the art of **manipulating people** so they give up confidential information.
@@ -77,6 +82,11 @@ them.
 **Phishing vs pharming:** phishing tricks the **user** into visiting a fake site via a message; pharming
 redirects the **traffic** so even a careful user who types the right address can arrive at the fake site.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-cyber-security-study-guide--08-social-engineering.webp" width="900" height="970" alt="Four panels, one for each social engineering technique. Phishing: an envelope with a click button and a hook, a fake email or text that tempts you to click or reply. Pharming: a browser window with the right address typed is redirected by an arrow to a window marked FAKE site. Blagging: a phone and a speech bubble saying I am from your bank, an invented story that gets information. Shouldering: an eye watching a keypad, someone watching a PIN or password being entered. A note says the main defence is training and awareness." loading="lazy">
+  <figcaption>Phishing, pharming, blagging and shouldering trick people instead of breaking technical defences.</figcaption>
+</figure>
+
 ## Malware
 
 **Malware** is an umbrella term for a variety of forms of **hostile or intrusive software**.
@@ -90,6 +100,11 @@ redirects the **traffic** so even a careful user who types the right address can
 
 Protection: anti-malware software kept up to date; automatic updates to patch vulnerabilities; download only from
 trusted sources; do not open unexpected attachments; scan removable media; limit user access rights.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-cyber-security-study-guide--09-malware-types.webp" width="900" height="1036" alt="Five rows, one per kind of malware, each with a simple icon. Virus: a document with a bug attached; it attaches to a file and spreads when the file is opened. Worm: three linked computers with a wriggling red line between them; it spreads itself across a network with no host file. Trojan: a box marked FREE with a bug hidden inside; it looks like useful software but contains harmful code. Ransomware: a locked document; it locks or encrypts files and demands payment. Spyware: an eye above keys; it secretly records what you do, such as keystrokes. Effects listed are deleted files, stolen data and a slower computer." loading="lazy">
+  <figcaption>Five kinds of malware and what each one does.</figcaption>
+</figure>
 
 ## Penetration testing
 

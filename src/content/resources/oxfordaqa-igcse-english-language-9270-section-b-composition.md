@@ -42,6 +42,11 @@ a piece under exam conditions.
 | W3 | Organise information and ideas into sentences, paragraphs and whole texts; use a variety of linguistic and structural features to support cohesion and overall coherence | Shape, paragraphing, links, a planned whole |
 | W4 | Demonstrate technical accuracy in grammar, punctuation and spelling | Correct, secure written English |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-composition--01-tasks-and-objectives.webp" width="900" height="830" alt="Three composition tasks are set (descriptive, imaginative, argumentative or discursive) and one is written. The writing is marked on W1 content and engagement, W2 sentence variety, W3 organisation and cohesion, and W4 technical accuracy, which together make AO2, worth 30% of the qualification through Paper 1." loading="lazy">
+  <figcaption>Whichever task you choose, the same four writing objectives are applied.</figcaption>
+</figure>
+
 ## Choosing your task
 
 Spend the first minutes deciding, not writing. Ask:
@@ -51,6 +56,11 @@ Spend the first minutes deciding, not writing. Ask:
    favours narrative; clear opinions and evidence favour argument.
 3. **What exactly does the task ask?** "Describe a moment when…" is not "Write a story about…". A task
    asking you to "discuss" wants a balanced exploration; one asking you to "argue" wants a position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-composition--02-choosing-a-task.webp" width="900" height="815" alt="Three checks for choosing a task: can you plan an ending now; which task suits your strengths (precise vocabulary for description, a sense of shape for narrative, clear opinions and evidence for argument); and what exactly the task asks, since describing is not storytelling and “discuss” wants balance while “argue” wants a position." loading="lazy">
+  <figcaption>Choose the task you can see the end of, that suits you, and that you have read exactly.</figcaption>
+</figure>
 
 ## Descriptive writing
 
@@ -65,6 +75,11 @@ Description builds a picture and a mood without needing a plot.
   loud windows".
 - **Let the mood develop.** A piece that begins calm and ends tense, or the reverse, has shape.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-composition--03-descriptive-camera.webp" width="900" height="735" alt="Three ways to move the camera in a description: wide view to detail and wider again, outside to inside, and the same place at two times. Four tips below: narrow the focus, use the senses selectively, choose exact nouns and verbs, and let the mood develop." loading="lazy">
+  <figcaption>A description needs no plot, but it does need a moving viewpoint and a developing mood.</figcaption>
+</figure>
+
 ## Imaginative writing
 
 Imaginative writing usually means a narrative, but the same control applies.
@@ -75,6 +90,11 @@ Imaginative writing usually means a narrative, but the same control applies.
   ending all work if they are deliberate.
 - **Show, don't summarise.** Reveal feelings through action, detail and brief dialogue.
 - **Control time.** Slow down at the key moment; summarise less important time in a sentence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-composition--04-imaginative-shape.webp" width="900" height="710" alt="A story timeline that skips waking up and starts close to the moment of change, summarises less important time in a sentence, slows down at the key moment and ends on a planned ending: a twist, a realisation, a circular return to the opening image or an open ending. Above it: one character, one setting, one problem, a short time span." loading="lazy">
+  <figcaption>Keep the story small, start late, slow down at the key moment and plan the ending first.</figcaption>
+</figure>
 
 ## Argumentative and discursive writing
 
@@ -133,6 +153,11 @@ Task (original): *Describe a railway station late at night.*
 - **Dash** isolates the final phrase for emphasis, and the image could return at the end of the piece
   for a cyclical structure (W3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-composition--06-annotated-opening.webp" width="900" height="699" alt="The four sentences of the railway-station opening, each with its annotation: a short first sentence for mood (W2), a precise simile of the pigeon walking in careful circles (W1), personification of the vending machine, and a dash isolating the final phrase about the sign’s “conversation” for a possible cyclical ending (W3)." loading="lazy">
+  <figcaption>Every choice in the opening does a job: mood, precise detail, personification, emphasis.</figcaption>
+</figure>
+
 ## Worked example: argument vs discussion
 
 Task (original): *"Teenagers should be paid for doing well at school."*
@@ -146,6 +171,11 @@ Task (original): *"Teenagers should be paid for doing well at school."*
 
 Both are effective; they simply do different jobs. Decide which the task wants before you begin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-composition--05-argument-vs-discussion.webp" width="900" height="645" alt="The same task opened two ways. The argumentative column takes a clear position, rebuts counter-arguments, uses a confident tone and ends with a call to action. The discursive column explores several viewpoints, weighs them fairly, uses a measured tone and ends with a considered judgement. Each shows the lesson’s model opening." loading="lazy">
+  <figcaption>Argument commits to a side; discussion weighs the sides. The task tells you which.</figcaption>
+</figure>
+
 ## Planning in five minutes
 
 ```
@@ -155,6 +185,11 @@ Both are effective; they simply do different jobs. Decide which the task wants b
 4. Three ambitious but accurate words or images to use
 5. One structural device: cyclical ending, time shift, change of focus
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-composition--07-five-minute-plan.webp" width="900" height="730" alt="A five-step plan: task type and form in one line, the ending, four or five paragraph headings, three ambitious but accurate words or images, and one structural device. Below, the final-minute accuracy checks for W4." loading="lazy">
+  <figcaption>Plan the ending before you start, and save the last minutes for checking.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -1,0 +1,47 @@
+[
+ {
+  "file": "aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--01-questionnaire-design.webp",
+  "width": 900,
+  "height": 719,
+  "after": "## Questionnaires",
+  "alt": "Closed questions give quantitative data and open questions give qualitative data. Three wording traps: leading questions suggest an answer, loaded questions use emotive words, and double-barrelled questions ask two things at once. Below, delivery choices affect response rates.",
+  "caption": "Every question type and every word choice affects the data a questionnaire produces.",
+  "bytes": 127538
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--02-interview-types.webp",
+  "width": 900,
+  "height": 741,
+  "after": "## Interviews",
+  "alt": "A line from quantitative to qualitative. Structured interviews ask the same questions in the same order, as in Young and Willmott’s survey. Semi-structured interviews add freedom to probe. Unstructured interviews are guided conversations, as Carlen used. Focus groups discuss a topic together. Below, strengths and weaknesses.",
+  "caption": "The less structured the interview, the more depth and the less comparability.",
+  "bytes": 147044
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--03-observation-types.webp",
+  "width": 900,
+  "height": 791,
+  "after": "## Observation",
+  "alt": "A two-by-two grid. Overt participant: joining a staff room with permission. Overt non-participant: sitting at the back of a classroom. Covert participant: taking a job without revealing the research. Covert non-participant: watching a public place unnoticed. Overt observation risks the observer effect; covert observation raises consent and deception. Below, going native and ethnography.",
+  "caption": "Joining or watching, openly or in secret: each choice trades validity against other problems.",
+  "bytes": 149270
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--04-matching-methods.webp",
+  "width": 900,
+  "height": 725,
+  "after": "## Matching a method to a topic",
+  "alt": "Five research questions matched to methods: a closed-question questionnaire for how many couples share housework; participant observation for why pupils join anti-school groups; unstructured interviews for domestic violence; a focus group for parents’ views on school choice; and structured interviews for attitudes to crime across age groups.",
+  "caption": "Choose the method that fits what the question asks: how many, why, or how people experience it.",
+  "bytes": 132240
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--05-mixed-methods.webp",
+  "width": 900,
+  "height": 735,
+  "after": "## Mixed methods",
+  "alt": "Two sequences: interviews can help design a questionnaire, or a questionnaire can show the scale of a pattern and identify people to interview. Below, uses such as triangulation and Willis’s combined methods, and limits such as cost and conflicting results.",
+  "caption": "Numbers show how big a pattern is; words explain why it happens.",
+  "bytes": 115688
+ }
+]

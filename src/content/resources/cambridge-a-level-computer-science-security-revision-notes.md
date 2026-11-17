@@ -65,6 +65,11 @@ Related: [Security study guide](/resources/cambridge-a-level-computer-science-se
 | Main problem | The key must be shared securely in advance; interception exposes every message | Slower; the public key must be shown to belong to its owner (hence certificates) |
 | Keys for n users all communicating privately | n(n − 1)/2 | n pairs |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--14-sx-symmetric.webp" width="900" height="820" alt="A sender and receiver hold the same secret key, which must be shared first; if it is intercepted all messages can be read. The plaintext is encrypted to ciphertext and decrypted back with the same key. Symmetric encryption is fast." loading="lazy">
+  <figcaption>The same secret key encrypts and decrypts, so it must be shared securely first.</figcaption>
+</figure>
+
 ## Which key is used?
 
 | Aim | Sender encrypts with | Receiver decrypts with | What it achieves |
@@ -73,6 +78,11 @@ Related: [Security study guide](/resources/cambridge-a-level-computer-science-se
 | Verified message from an organisation to the public | The **organisation's private key** | The organisation's **public key** (available to anyone) | Anyone can read it, but it can only have come from the key's owner (authentication) |
 
 Memory aid: to **hide** a message use the **receiver's public** key; to **prove** who sent it use the **sender's private** key.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--15-sx-asymmetric.webp" width="900" height="810" alt="Priya has a public key shared openly and a private key kept secret. A message to her is encrypted with her public key and only her private key decrypts it. No secret is exchanged first, but it is slower." loading="lazy">
+  <figcaption>Encrypt with the receiver’s public key; only the receiver’s private key decrypts.</figcaption>
+</figure>
 
 ## How a digital signature is produced and checked
 
@@ -84,6 +94,11 @@ Memory aid: to **hide** a message use the **receiver's public** key; to **prove*
 
 The signature does not make the message secret; encrypt the message as well if confidentiality is needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--17-sx-digital-signature.webp" width="900" height="1020" alt="The sender hashes the message to a digest and encrypts the digest with their private key to make the signature, then sends both. The receiver decrypts the signature with the sender’s public key to get digest A, hashes the message to get digest B, and compares. A match shows authenticity and integrity; the message is not hidden." loading="lazy">
+  <figcaption>The receiver compares two digests to check who sent the message and that it was not changed.</figcaption>
+</figure>
+
 ## How a digital certificate is acquired
 
 1. The organisation generates its key pair and keeps the private key secret.
@@ -91,6 +106,11 @@ The signature does not make the message secret; encrypt the message as well if c
 3. The CA checks the identity.
 4. The CA creates a certificate holding the owner's name, the owner's public key, a serial number, the validity dates and the CA's name, and **signs it with the CA's private key**.
 5. Anyone can check the certificate with the CA's public key (held in browsers and operating systems) and then trust the public key inside it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--18-sx-digital-certificate.webp" width="900" height="970" alt="A certificate authority checks identity and issues a certificate listing the owner’s name and public key, serial number, validity dates, the CA’s name and the CA’s digital signature. A browser holding the CA’s public key checks the signature and the date." loading="lazy">
+  <figcaption>A certificate binds a public key to an identity, vouched for by a CA.</figcaption>
+</figure>
 
 ## SSL/TLS in client-server communication
 
@@ -109,6 +129,11 @@ Asymmetric encryption shares the key safely; symmetric encryption is used for th
 
 **Appropriate situations**: online banking, online shopping and payments, logging in to any account, sending personal data through web forms, email between client and mail server, and cloud storage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--19-sx-tls-handshake.webp" width="900" height="1010" alt="Six steps between client and server: connect and ask for proof of identity; server sends certificate with public key; client checks the certificate; client sends a session key encrypted with the public key; server decrypts it with its private key; both use the symmetric session key for all data." loading="lazy">
+  <figcaption>Asymmetric encryption shares a session key; symmetric encryption carries the data.</figcaption>
+</figure>
+
 ## Quantum cryptography
 
 | Purpose | Benefits | Drawbacks |
@@ -121,6 +146,11 @@ A group of 8 people each need to exchange private messages with every other pers
 
 - Symmetric: 8 × 7 / 2 = 28 shared secret keys, each to be distributed securely.
 - Asymmetric: 8 key pairs (16 keys), and only the 8 public keys need distributing, openly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--16-sx-key-count.webp" width="900" height="1010" alt="Twelve people in a ring. Symmetric: a line for every pair gives 66 keys, and a 13th person adds 12. Asymmetric: each person has one key pair, 24 keys, and a 13th person adds one pair." loading="lazy">
+  <figcaption>Symmetric needs 66 keys for 12 people; asymmetric needs 24.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

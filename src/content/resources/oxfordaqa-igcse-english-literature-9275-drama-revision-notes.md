@@ -36,11 +36,21 @@ Condensed for the final weeks. For worked examples, use the
 - About **45 minutes**, with five minutes of planning.
 - Set plays come from a prescribed list that can change: check the list for your exam year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--01-p1-glance.webp" width="900" height="710" alt="Paper 1 lasts 1 hour 30 minutes, is worth 60 marks and counts for 40 percent of the International GCSE. A bar splits it into two equal sections: Section A Prose Fiction, 30 marks, and Section B Drama, 30 marks. Each section needs one question on your chosen set text. The exam is closed book, shown by a crossed-out book." loading="lazy">
+  <figcaption>Paper 1 is two equal 30-mark sections in a closed-book exam.</figcaption>
+</figure>
+
 ## The one big idea
 
 A play is written to be **performed**. Every answer should show that you understand it as something
 an audience watches, not just a script on a page. Write "the audience", and explain what they see,
 hear and feel at a given moment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-drama--01-reader-vs-audience.webp" width="900" height="742" alt="A lone reader with a book is set beside an audience watching two actors on stage. Four rows explain how this changes meaning: the audience sees silent characters, often knows more than a character, experiences timing controlled by the playwright and performers, and must infer motives without a narrator." loading="lazy">
+  <figcaption>A play’s meaning is made for an audience watching together in real time.</figcaption>
+</figure>
 
 ## What the marks reward
 
@@ -64,6 +74,11 @@ Whatever your set play, the same structural landmarks give an essay its spine:
 
 Learn your play by **act and scene**, so that you can place each quotation in this structure from
 memory: Paper 1 is closed book.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-drama--04-whole-play-essay.webp" width="900" height="877" alt="Five numbered stages for an essay on a parent and child relationship: an argument, the relationship’s first appearance on stage, a turning point or climax, the ending, and one precise context link. Below, each point pairs a quotation with a staging note." loading="lazy">
+  <figcaption>Move from first appearance to ending, and give every quotation a staging note.</figcaption>
+</figure>
 
 ## Context in a drama answer
 
@@ -89,6 +104,11 @@ publicly rather than in private.
 | Entrance / exit | Arrival or departure on stage | Interrupts, shifts power or ends a moment |
 | Symbolic prop | An object given repeated attention | A visible symbol the audience remembers |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-drama--02-playwrights-toolkit.webp" width="900" height="870" alt="Eight dramatic methods grouped by what the audience sees (stage directions, props and set, entrances and exits), hears (dialogue, soliloquy and aside, verse and prose) and knows (dramatic irony, structure). Each has what to look for and its typical effect." loading="lazy">
+  <figcaption>Every method is a way of shaping what the audience sees, hears or knows.</figcaption>
+</figure>
+
 ## Staging note: the extra step in drama
 
 For every key quotation in your bank, add one line on performance:
@@ -97,6 +117,11 @@ For every key quotation in your bank, add one line on performance:
 - **Who** else is on stage, and how might they react?
 - **What** do the stage directions require at this point?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--03-quotation-bank.webp" width="900" height="960" alt="Because Paper 1 is closed book, quotations must come from memory. A compact bank has two parts. For the prose text: two or three major characters, each with a short quotation showing development or central trait, and two or three central themes with evidence from more than one point in the text. For the play: at least one quotation per major character that carries a clear staging note. A small bank beats memorising a whole text." loading="lazy">
+  <figcaption>A compact bank of short quotations beats trying to memorise a whole text.</figcaption>
+</figure>
+
 ## Two question types
 
 | Passage-based | Essay-style |
@@ -104,6 +129,11 @@ For every key quotation in your bank, add one line on performance:
 | Analyse the printed extract closely | Range across the whole play from memory |
 | Do what the wording asks: extract only, or extract and the wider play | Build the answer around development and structure |
 | Comment on staging in the extract | Use staging notes from your quotation bank |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--02-essay-or-passage.webp" width="900" height="950" alt="In both Section A and Section B you choose between two question types. A passage-based question gives a printed extract to anchor close, line-by-line analysis; it suits candidates who read closely but are less sure recalling the whole text. An essay-style question needs evidence selected from across the whole text, from memory; it rewards a good quotation bank. Practise both under timed conditions." loading="lazy">
+  <figcaption>Each section offers a choice: a printed extract to analyse, or an essay that relies on memory of the whole text.</figcaption>
+</figure>
 
 ## Worked mini-example
 

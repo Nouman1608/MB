@@ -86,6 +86,11 @@ allocating processors, memory and I/O devices among competing processes.
   by a **virtual machine** (an interpreter for bytecode) on each platform, so the same compiled program can
   run on any machine that has the virtual machine: portability without distributing the source.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide--14-translators.webp" width="900" height="1000" alt="Assembler turns assembly into machine code; compiler turns a high-level program into object code before running; interpreter runs one statement at a time with no object code; a compiler can produce bytecode for a virtual machine." loading="lazy">
+  <figcaption>Each translator takes source code to a different kind of output.</figcaption>
+</figure>
+
 ## Logic gates
 
 | Gate | Expression | Output is 1 when |
@@ -110,6 +115,21 @@ column per intermediate gate output).
 - **Edge-triggered D-type flip-flop**: a **memory unit that stores one bit**. On the triggering edge of
   the clock, the output Q takes the value of the data input D and holds it until the next triggering edge.
   Its internal operation is **not required**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide--17-adders.webp" width="900" height="960" alt="Half adder: XOR gives Sum and AND gives Carry (1+1 gives Sum 0, Carry 1). Full adder adds a carry in: Sum = A XOR B XOR C and Carry out = (A AND B) OR (C AND (A XOR B))." loading="lazy">
+  <figcaption>A half adder cannot take a carry in; a full adder can.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide--18-ripple-carry.webp" width="900" height="840" alt="Four full adders chain carry out to carry in. 0110 + 0111 gives sums 1,0,1,1 from bit 0 to bit 3, i.e. 1101 = 13, with final carry out 0 so no overflow." loading="lazy">
+  <figcaption>A ripple-carry adder passes each carry to the next bit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide--19-d-flipflop.webp" width="900" height="850" alt="Q takes the value of D at each rising clock edge and holds it until the next edge, even when D changes between edges." loading="lazy">
+  <figcaption>A D-type flip-flop stores one bit, updating only on the clock edge.</figcaption>
+</figure>
 
 ## Boolean algebra
 
@@ -138,6 +158,11 @@ Simplify `(A + B) · (A + ¬B)`:
 ```
 
 Simplify `¬(¬A + B)`: De Morgan gives `¬¬A · ¬B` = **A · ¬B**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide--16-simplify-boolean.webp" width="900" height="950" alt="Complement then absorption simplify the expression to A + B. A four-row truth table matches in every row, and one OR gate replaces three AND, two NOT and two OR gates." loading="lazy">
+  <figcaption>The simplified A + B has the same truth table as the original, with far fewer gates.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

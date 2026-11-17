@@ -1,0 +1,65 @@
+[
+ {
+  "file": "cambridge-igcse-environmental-management-0680-managing-biodiversity--01-in-situ-ex-situ.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## Two ideas to hold on to",
+  "alt": "Biodiversity is the variety of species, of genes within them and of habitats. In situ conservation, such as a national park, protects the whole habitat where species live. Ex situ conservation, such as zoos and seed banks, keeps species or seeds away from the wild, but does not save the habitat.",
+  "caption": "In situ protects the habitat; ex situ keeps species or seeds safe but leaves the habitat unprotected.",
+  "bytes": 111612
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-managing-biodiversity--02-ten-strategies.webp",
+  "width": 900,
+  "height": 718,
+  "after": "## The ten strategies (5.3.1)",
+  "alt": "The ten syllabus strategies sorted by how they work. Earning from wildlife without using it up: sustainable harvesting, sustainable forestry, ecotourism. Protecting habitats in situ: national parks and reserves, wildlife corridors. Keeping species away from the wild: seed banks, zoos and captive breeding. Controlling trade: international cooperation, regulation through CITES. Setting priorities: classifying species by threat level.",
+  "caption": "The ten strategies work in five ways: earn sustainably, protect habitats, store ex situ, control trade, set priorities.",
+  "bytes": 140862
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-managing-biodiversity--03-captive-breeding.webp",
+  "width": 900,
+  "height": 705,
+  "after": "## The ten strategies (5.3.1)",
+  "alt": "Three steps: capture the last wild individuals, breed them in zoos or breeding centres keeping records to avoid inbreeding, and release offspring. The California condor was saved this way after the last wild birds were captured in the 1980s. Release only works if safe habitat remains; the method is expensive and captive populations have limited genetic variety.",
+  "caption": "Captive breeding can rescue a species, but only if safe habitat survives for release.",
+  "bytes": 113688
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-managing-biodiversity--04-threat-levels.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## The ten strategies (5.3.1)",
+  "alt": "An arrow of increasing extinction risk runs through three levels. Threatened: numbers or habitat are declining. Endangered: a very high risk of extinction in the near future, with few individuals or a small range. Extinct: no living individuals remain. The IUCN Red List uses this kind of classification to direct scarce money, but a label alone protects nothing.",
+  "caption": "Threatened, endangered, extinct: the label directs action but does not protect anything by itself.",
+  "bytes": 108596
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-managing-biodiversity--05-strategy-comparison.webp",
+  "width": 900,
+  "height": 715,
+  "after": "## Discussing benefits and limitations (5.3.2)",
+  "alt": "A comparison grid. National parks protect habitat and genetic variety but need funding and enforcement. Corridors partly protect habitat and keep variety by linking populations but use land. Seed banks keep plant genes but give no wild protection. Zoos keep limited variety, cost a lot and need habitat for release. Trade regulation helps variety only indirectly and suffers from smuggling. A combined approach is shown: reserve, corridors, ecotourism funding and trade laws.",
+  "caption": "Only habitat protection does both jobs; the best answers argue for a combination.",
+  "bytes": 103076
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-managing-biodiversity--06-corridor-worked-example.webp",
+  "width": 900,
+  "height": 630,
+  "after": "## Worked example 1: a corridor's effect",
+  "alt": "Plan view of farmland with two woodland patches holding 40 and 25 small mammals. Five years after a corridor of trees joins them, 91 are counted across both. The increase is 26 on 65, or 40%. A similar unlinked patch would show whether the corridor caused the rise or a mild winter did.",
+  "caption": "From 65 to 91 is a 40% rise, but a comparison patch is needed to prove the corridor caused it.",
+  "bytes": 91810
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-managing-biodiversity--07-discuss-answer.webp",
+  "width": 900,
+  "height": 695,
+  "after": "## Worked example 2: annotated \"discuss\" answer",
+  "alt": "Four steps: say what the strategy does, give a benefit with a reason, a limitation with a reason, and a judgement. The ecotourism model answer earns four marks from two benefits (money for rangers; local jobs) and two limitations (disturbance and erosion; dependence on tourism income), then ends with a judgement.",
+  "caption": "Each benefit or limitation needs its reason to earn the mark; finish with a judgement.",
+  "bytes": 134876
+ }
+]

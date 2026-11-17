@@ -52,6 +52,11 @@ The named sociologists are **Becker, Bourdieu, Davis and Moore, Freire, Illich a
 
 **Online learning** widens access for some, but depends on devices and connection, and reduces the social side of schooling.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--01-education-and-schooling.webp" width="900" height="687" alt="Formal education happens in institutions with a curriculum and qualifications; informal education happens through families, peers and media. A staircase shows the levels: nursery, primary, secondary and tertiary. Cards contrast the official and hidden curriculum and note the limits of online learning." loading="lazy">
+  <figcaption>Formal education climbs from nursery to tertiary; informal education happens everywhere.</figcaption>
+</figure>
+
 ## Perspectives on education
 
 **Functionalism.** **Durkheim** saw schools as passing on **shared values** that bind society together. **Parsons** saw school as a **bridge** between the family, where a child is judged by **particularistic** standards (as a unique individual), and wider society, where people are judged by **universalistic** standards that apply to everyone. **Davis and Moore** argued that education performs **role allocation**, sorting the most able into the most important jobs. Education also develops **human capital**, the skills an economy needs.
@@ -61,6 +66,16 @@ The named sociologists are **Becker, Bourdieu, Davis and Moore, Freire, Illich a
 **Radical critics.** **Illich** argued that schools teach people to depend on institutions and confuse being taught with learning, and called for **deschooling**. **Freire** criticised **"banking" education**, where teachers deposit knowledge in passive pupils, and called for education that develops critical consciousness.
 
 **Feminisms.** Schools can reinforce gender roles through subject choices, careers advice, textbooks and teacher expectations. In the 1970s **Sue Sharpe** found that girls' priorities centred on marriage and family; when she repeated the study in the 1990s their priorities had shifted towards careers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--02-perspectives-on-education.webp" width="900" height="606" alt="Four cards. Functionalism: shared values, a bridge to universalistic standards, role allocation and human capital. Marxism: Bowles and Gintis on preparation for work and the myth of meritocracy; Bourdieu on cultural capital. Radical critics: Illich on deschooling, Freire on banking education. Feminisms: gender roles reinforced in school, and Sharpe’s finding that girls’ priorities shifted towards careers." loading="lazy">
+  <figcaption>Each perspective asks whose interests education serves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--03-bourdieu-cultural-capital.webp" width="900" height="507" alt="A chain: a middle-class home gives knowledge, language and tastes; this cultural capital is what schools value; so middle-class pupils attain more. Schools therefore reproduce class inequality and legitimise it by making it look like individual merit. A note warns that cultural capital is not money." loading="lazy">
+  <figcaption>Schools reward middle-class culture, then call the result merit.</figcaption>
+</figure>
 
 ## Relationships and processes in schools
 
@@ -74,6 +89,11 @@ The named sociologists are **Becker, Bourdieu, Davis and Moore, Freire, Illich a
 **Pupil subcultures**: **pro-school** subcultures value achievement; **anti-school** subcultures reject the school's values. **Willis** studied a group of working-class "lads" who rejected school and saw schoolwork as pointless, which led them into manual jobs.
 
 **School ethos and curricula**: an **ethnocentric** curriculum centres one culture's history, language and literature; vocational tracks can steer some groups away from academic knowledge, creating **unequal access to knowledge**. **Racism and sexism** in schools can work through labelling, low expectations and harsher sanctions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--05-classroom-processes.webp" width="900" height="646" alt="Six cards: the ideal pupil (Becker), stereotyping, the halo effect, positive and negative sanctions, pro-school subcultures that value achievement, and anti-school subcultures such as Willis’s lads. A note adds that racism and sexism work through labelling, low expectations, harsher sanctions and an ethnocentric curriculum." loading="lazy">
+  <figcaption>Interactionists look at the small, everyday processes that shape pupils.</figcaption>
+</figure>
 
 ## Educational attainment
 
@@ -90,6 +110,11 @@ The named sociologists are **Becker, Bourdieu, Davis and Moore, Freire, Illich a
 
 Differences by **social class**, **gender** and **ethnicity** **intersect**: for example, a working-class boy from a minority ethnic group may face several disadvantages at once.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--06-attainment-explanations.webp" width="900" height="661" alt="Nested boxes. Inside school: labelling, setting and streaming, subcultures and ethnocentric curricula. Outside school: material factors such as poverty, cultural factors such as cultural capital, and home and community factors such as parents’ support. Class, gender and ethnicity intersect." loading="lazy">
+  <figcaption>Explain attainment gaps from both inside and outside the school gates.</figcaption>
+</figure>
+
 ## Global education
 
 The specification asks you to compare **literacy rates**, **provision** (free and compulsory years, class sizes, trained teachers), the **effects of poverty**, **gender and other inequalities in access** and the **digital divide**. **Malala Yousafzai**, shot by the Taliban in Pakistan in 2012 for campaigning for girls' education, is a widely known example of barriers to girls' schooling.
@@ -99,6 +124,11 @@ The specification asks you to compare **literacy rates**, **provision** (free an
 *Explain how teacher expectations can affect a pupil's attainment. [4 marks]*
 
 > A teacher may label a pupil as less able because of their accent or background (1). The teacher may then give them easier work and less attention (1). The pupil may come to see themselves as less able and stop trying (1), so their low attainment fulfils the original expectation: a self-fulfilling prophecy (1).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--04-labelling-four-marks.webp" width="900" height="879" alt="Four numbered steps: a teacher labels a pupil as less able; gives them easier work and less attention; the pupil sees themselves as less able and stops trying; low attainment fulfils the expectation. A note adds Rosenthal and Jacobson’s field experiment, Becker’s ideal pupil and the point that pupils can reject labels." loading="lazy">
+  <figcaption>Label, treatment, self-image, outcome: one mark for each link.</figcaption>
+</figure>
 
 ## Common mistakes
 

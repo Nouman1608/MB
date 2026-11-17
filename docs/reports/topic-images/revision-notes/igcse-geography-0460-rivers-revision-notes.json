@@ -1,0 +1,9 @@
+{ "page": "igcse-geography-0460-rivers-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-geography-rivers--08-riv-basin.webp", "after": "## Drainage basin terms" },
+ { "src": "https://img.marlbridge.com/igcse-geography-rivers--12-riv-long-profile.webp", "after": "## How rivers change downstream" },
+ { "src": "https://img.marlbridge.com/igcse-geography-rivers--09-riv-pathways.webp", "after": "## Water routes (alternatives, not a sequence)" },
+ { "src": "https://img.marlbridge.com/igcse-geography-rivers--10-riv-erosion.webp", "after": "## Erosion, transport, deposition" },
+ { "src": "https://img.marlbridge.com/igcse-geography-rivers--11-riv-transport.webp", "after": "## Erosion, transport, deposition" },
+ { "src": "https://img.marlbridge.com/igcse-geography-rivers--13-riv-meander-oxbow.webp", "after": "## Landforms" },
+ { "src": "https://img.marlbridge.com/igcse-geography-rivers--14-riv-flood-management.webp", "after": "## Hazards, opportunities, management" }
+] }

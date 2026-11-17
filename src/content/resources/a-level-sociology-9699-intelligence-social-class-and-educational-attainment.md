@@ -79,6 +79,11 @@ Intelligence sounds like one measurable thing, but there is no agreed definition
 
 **Worked paragraph.** *One difficulty is that intelligence may not be a single ability. Gardner argued for multiple intelligences, so a pupil strong in music may score poorly on a written IQ test. If schools use such scores to set pupils, a narrow definition becomes unequal opportunity. However, scores on different tests correlate, which suggests some general ability exists.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--01-defining-intelligence.webp" width="900" height="643" alt="Three ideas of intelligence: Spearman’s single general factor g underlying different tests; Gardner’s multiple intelligences such as linguistic, logical-mathematical, musical and spatial, only some of which schools reward; and Sternberg’s triarchic theory of analytical, creative and practical intelligence. Gould calls IQ and g reifications." loading="lazy">
+  <figcaption>Psychologists disagree on what intelligence is, so tests measure one chosen version.</figcaption>
+</figure>
+
 ## 6.1 IQ tests and the influence of social factors
 
 The first intelligence test was produced in France by **Binet and Simon (1905)**, to identify children who needed remedial help within ordinary schools. Later tests were used to select and sort pupils.
@@ -95,6 +100,11 @@ The first intelligence test was produced in France by **Binet and Simon (1905)**
 
 **Worked paragraph.** *IQ tests may measure social background as much as ability. The early eleven-plus asked about classical composers, which favoured middle-class children who met such music at home, so the test turned class advantage into apparent merit. Redesign reduced obvious bias, yet grammar schools stayed largely middle class, which suggests the problem lay deeper than individual questions.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--02-iq-social-factors.webp" width="900" height="511" alt="Six cards: cultural bias in early eleven-plus questions, language, test-wiseness from practice and coaching, the Flynn effect of rising scores, Kamin’s and Hearnshaw’s challenge to Burt’s twin studies, and the limits of culture-fair tests." loading="lazy">
+  <figcaption>IQ scores reflect culture, language, practice and environment, not just ability.</figcaption>
+</figure>
+
 ## 6.1 Intelligence as an influence on educational attainment
 
 The **hereditarian** view says differences in attainment mainly reflect differences in inherited intelligence.
@@ -105,6 +115,11 @@ The **hereditarian** view says differences in attainment mainly reflect differen
 **Evaluation.** These works were highly controversial. Critics argue that heritability within a group says nothing about why groups differ. Higher middle-class scores may reflect resources, language and test familiarity, not genes. The argument can also be circular: tests are judged valid because they predict school success, then used to explain it. Few sociologists deny that ability plays some part; the debate is about how much.
 
 **Worked paragraph.** *Herrnstein and Murray claim that intelligence, not class, sorts people into positions. This would mean the class gap in attainment simply reflects ability. However, if IQ scores are themselves shaped by class, using IQ to explain the class gap is circular. The view also ignores in-school processes, such as labelling, that can lower the attainment of able working-class pupils.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--03-circular-argument.webp" width="900" height="732" alt="A loop: IQ tests are judged valid because they predict school success, and are then used to explain school success, while class shapes both. Below, the hereditarian claims of Jensen and of Herrnstein and Murray, and critics’ replies." loading="lazy">
+  <figcaption>Using IQ to explain school success can be circular when class shapes both.</figcaption>
+</figure>
 
 ## 6.2 Material factors and educational attainment
 
@@ -119,6 +134,11 @@ The **hereditarian** view says differences in attainment mainly reflect differen
 **Evaluation.** Material explanations show that the problem lies in inequality, not in families' values. But many poor children succeed, so money cannot be the whole story. Material and cultural factors also overlap: money buys tutors, books and trips, which build cultural capital.
 
 **Worked paragraph.** *Learning needs space, time and resources. A child in overcrowded housing has nowhere quiet to revise, and a 17-year-old from a low-income family may leave education to earn. So the class gap may reflect unequal resources, not ability. Yet some children in poverty achieve highly, so cultural and school factors also matter.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--04-material-factors.webp" width="900" height="511" alt="Five material factors that affect attainment: housing, diet and health, hidden costs of schooling, paid work and school choice. A sixth card notes that many poor children succeed and that material and cultural factors overlap." loading="lazy">
+  <figcaption>Learning needs space, time and resources that poverty takes away.</figcaption>
+</figure>
 
 ## 6.2 Cultural explanations
 
@@ -138,6 +158,11 @@ The syllabus names parental attitudes, values, speech codes and cultural capital
 - **Lareau**, in *Unequal Childhoods* (2003), found middle-class parents used **concerted cultivation** (organised activities, reasoning, questioning authority). Working-class parents tended to use **natural growth** (directives, unstructured play). Concerted cultivation fitted school expectations.
 
 **Worked paragraph.** *Bourdieu argues schools are not neutral: they reward the cultural capital of middle-class pupils, such as an elaborated way of speaking and familiarity with books. A middle-class child therefore appears "bright" when they are drawing on their upbringing. Sullivan supports this in part, but she found class still affected attainment after cultural capital was measured, so cultural capital is only a partial explanation.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--05-cultural-explanations.webp" width="900" height="610" alt="Top: Bernstein’s restricted code is short and context-bound, while the elaborated code is explicit and used by schools; he denied the restricted code was inferior. Below: cultural deprivation says the home lacks something (Douglas, Hyman, Sugarman, with Keddie’s criticism); cultural capital says the school rewards one class’s culture (Bourdieu, Lareau, Sullivan)." loading="lazy">
+  <figcaption>Cultural deprivation blames the home; cultural capital points at what the school rewards.</figcaption>
+</figure>
 
 ## 6.2 In-school factors
 
@@ -162,6 +187,11 @@ The syllabus names parental attitudes, values, speech codes and cultural capital
 
 **Worked paragraph.** *Ball found that pupils from non-manual homes were more likely to reach the top band than working-class pupils of similar ability. Lower bands then met lower expectations, so the school's own decisions widened the gap. However, not all pupils accept their placement, so the effect varies.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--06-labelling.webp" width="900" height="1011" alt="Five steps: a teacher judges pupils against a middle-class ideal pupil, labels and places them in bands or sets, treats them differently, pupils respond by forming subcultures, and the pupil comes to fit the label. Pupils can reject labels." loading="lazy">
+  <figcaption>Labels can turn into outcomes, but pupils can resist them.</figcaption>
+</figure>
+
 ## 6.2 Compensatory education programmes
 
 **Compensatory education** gives extra resources to disadvantaged children or areas, to make up for disadvantages outside school.
@@ -173,6 +203,11 @@ The syllabus names parental attitudes, values, speech codes and cultural capital
 **Evaluation.** Some gains appear in later life rather than in test scores. Critics argue that many programmes assume a cultural deficit in working-class families, and that small, short programmes cannot offset wider inequalities.
 
 **Worked paragraph.** *Compensatory education assumes disadvantage can be repaired early. Head Start produced gains that often faded, which Jensen used to argue IQ cannot be boosted. However, the Perry Preschool follow-up found higher graduation rates, which suggests benefits may show in life outcomes rather than test scores. How "success" is measured shapes the verdict.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--07-compensatory-education.webp" width="900" height="839" alt="A timeline of compensatory programmes: Perry Preschool (1962 to 1967), Head Start (1965), the Plowden Report (1967), Sure Start and Education Action Zones (1998) and the Pupil Premium (2011). Bars show 67% of the Perry pre-school group graduated high school by 19, against 49% of the control group." loading="lazy">
+  <figcaption>Compensatory programmes may show their benefits in life outcomes more than in test scores.</figcaption>
+</figure>
 
 ## Common errors
 

@@ -50,6 +50,11 @@ speech and writing; spoken, written and multimodal modes; theories and research.
 | Phonological process | Regular simplification of adult sounds (deletion, substitution, assimilation) |
 | Orthography | The spelling system of a language |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-childrens-language-development--01-spoken-stages.webp" width="900" height="655" alt="Five stages in order with rough ages: pre-verbal babbling such as &quot;bababa&quot;, holophrastic single words such as &quot;juice&quot;, two-word combinations such as &quot;daddy car&quot;, telegraphic speech such as &quot;mummy go shop&quot;, and post-telegraphic speech with function words, inflections and virtuous errors." loading="lazy">
+  <figcaption>The order is the point; the ages are approximate and children vary widely.</figcaption>
+</figure>
+
 ## Development checklist by level
 
 **Phonological:** babbling (reduplicated, variegated); deletion ("ca" for "cat"); substitution such as fronting
@@ -71,6 +76,21 @@ from instrumental and regulatory towards representational and heuristic uses.
 gradually; Kroll's preparation, consolidation, differentiation, integration; genre awareness (story, recount,
 instructions, letter); influence of teaching on structure and connectives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-childrens-language-development--02-phonological-processes.webp" width="900" height="692" alt="Five processes with the lesson's examples: deletion (&quot;nana&quot; for &quot;banana&quot;), substitution by fronting (&quot;tat&quot; for &quot;cat&quot;), assimilation (&quot;gog&quot; for &quot;dog&quot;), consonant cluster reduction (&quot;pider&quot; for &quot;spider&quot;) and reduplication (&quot;wawa&quot; for &quot;water&quot;). A note explains the &quot;fis&quot; phenomenon." loading="lazy">
+  <figcaption>Children simplify adult words in regular patterns; name the process precisely.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-childrens-language-development--04-grammar-sequences.webp" width="900" height="700" alt="Inflections appear with &quot;-ing&quot; and plural &quot;-s&quot; early and regular &quot;-ed&quot; and third-person &quot;-s&quot; later. Negatives move from &quot;no bed&quot; to &quot;I no want it&quot; to &quot;I don't want it&quot;, and questions from &quot;daddy gone?&quot; to &quot;where daddy going?&quot; to &quot;where is daddy going?&quot;. Virtuous errors such as &quot;goed&quot; show a rule over-applied." loading="lazy">
+  <figcaption>Inflections, negatives and questions each develop in a typical order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-childrens-language-development--05-kroll-writing-stages.webp" width="900" height="635" alt="Barry Kroll's four stages as rising steps: preparation (motor skills and basic spelling), consolidation (writing like speech with &quot;and then&quot; chaining), differentiation (awareness of speech, writing and genre) and integration (a personal voice controlling style for audience). Below, logical spelling errors: phonetic, over-generalised, omissions and transpositions." loading="lazy">
+  <figcaption>Writing moves from mechanics, through speech-like writing, to a controlled personal voice.</figcaption>
+</figure>
+
 ## Halliday's functions (quick recall)
 
 | Function | Child's purpose | Example |
@@ -83,6 +103,11 @@ instructions, letter); influence of teaching on structure and connectives.
 | Imaginative | Pretending | "I'm a dragon" |
 | Representational | Giving information | "doggy in garden" |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-1--15-p1-halliday.webp" width="900" height="990" alt="An early utterance has arrows to seven boxes, the functions in Halliday’s model: instrumental (satisfying needs, “want juice”); regulatory (controlling others’ behaviour, “go away”); interactional (maintaining relationships); personal (expressing identity or feelings); heuristic (exploring and questioning, “why?”); imaginative (play and storytelling); representational (conveying information and facts)." loading="lazy">
+  <figcaption>Halliday’s seven functions of children’s language.</figcaption>
+</figure>
+
 ## Theories in one line each
 
 - **Skinner (behaviourist):** imitation and reinforcement. Weakness: virtuous errors are not imitated.
@@ -91,6 +116,11 @@ instructions, letter); influence of teaching on structure and connectives.
   outpace concepts.
 - **Bruner and Vygotsky (interactionist):** scaffolding, LASS, zone of proximal development. Weakness: children
   acquire language even where child-directed speech is less common.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-childrens-language-development--06-theories-and-limitations.webp" width="900" height="715" alt="Four theoretical positions with their key figures, core claims and a limitation each: behaviourist (Skinner), nativist (Chomsky), cognitive (Piaget) and social interactionist (Bruner and Vygotsky). A note lists features of child-directed speech, the evidence most often linked to interactionist views." loading="lazy">
+  <figcaption>Treat each theory as an explanation with strengths and limits, not a fact.</figcaption>
+</figure>
 
 ## Child-directed speech: what to look for in the adult's turns
 
@@ -101,6 +131,11 @@ instructions, letter); influence of teaching on structure and connectives.
 | Expansions | Child: "big car"; adult: "yes, a big red car" | Extends grammar and vocabulary |
 | Repetition and simple syntax | "Look, a ball. A big ball." | Makes structure easy to pick out |
 | Exaggerated intonation | Rising pitch on key words | Holds attention and marks important words |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-childrens-language-development--07-annotated-transcript.webp" width="900" height="721" alt="The lesson's original transcript of Tom and his mother, with annotations: Tom's virtuous error &quot;goed&quot;, telegraphic omissions and a correct plural, and the mother's recast, tag question, wh-questions and expansion. Two boxes link the data to nativist rule formation and Bruner's interactionist view." loading="lazy">
+  <figcaption>Quote the data, name the feature, then weigh it against more than one theory.</figcaption>
+</figure>
 
 ## Method for the essay
 

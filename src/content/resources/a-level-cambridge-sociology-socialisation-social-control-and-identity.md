@@ -76,6 +76,11 @@ A strong answer shows the elements working together: a value (respect for elders
 (standing when a grandparent enters), which attach to roles and statuses, and these feel natural
 because they have been learned so early.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-social-control-and-identity--01-social-construction.webp" width="900" height="549" alt="A chain from value to norm to role and status to taken for granted, with the example of respect for elders producing the norm of standing when a grandparent enters. Ideology and power shape whose norms become normal." loading="lazy">
+  <figcaption>Values become norms, norms attach to roles, and early learning makes them feel natural.</figcaption>
+</figure>
+
 ## Is human behaviour shaped by nature or nurture?
 
 The **nature** side argues that behaviour is fixed by biology, instinct or genes. The **nurture**
@@ -95,6 +100,11 @@ nurture includes:
 For balance, note sociobiological claims and research on hormones; the strongest answers conclude
 that biology sets possibilities, but socialisation decides which ones become normal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-social-control-and-identity--02-nature-nurture.webp" width="900" height="571" alt="Nature arguments, such as sociobiology and hormone research, set against nurture evidence from the isolated child Genie, Mead’s cross-cultural study and Oakley’s work on gender socialisation. The conclusion: biology sets possibilities, socialisation decides which become normal." loading="lazy">
+  <figcaption>Biology sets the possibilities; socialisation decides which become normal.</figcaption>
+</figure>
+
 ## How do the agencies of socialisation and social control work?
 
 | Agency | How it socialises | How it controls |
@@ -110,6 +120,11 @@ together. Marxists such as Louis Althusser (1971) describe the family, school, m
 *ideological state apparatuses* that make capitalism look fair, while feminists stress that the same
 agencies reproduce patriarchy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-social-control-and-identity--03-agencies-perspectives.webp" width="900" height="448" alt="Five agencies of socialisation and social control (family, education, peer group, media, religion) are read three ways: functionalists see shared values holding society together, Marxists see ideological state apparatuses, and feminists see the reproduction of patriarchy." loading="lazy">
+  <figcaption>Theories agree on the agencies but disagree on whose interests they serve.</figcaption>
+</figure>
+
 ## Why do most people conform?
 
 The syllabus names four reasons, and each can be tied to a theory.
@@ -123,6 +138,11 @@ The syllabus names four reasons, and each can be tied to a theory.
 4. **Social exchange** — George Homans (1958) described social life as an exchange of rewards and
    costs; conformity continues while the exchange is worthwhile.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-social-control-and-identity--04-why-conform.webp" width="900" height="427" alt="Four reasons people conform: sanctions, social pressure shown in Asch’s experiments, self-interest in Hirschi’s social bond theory, and social exchange in Homans’s theory of rewards and costs." loading="lazy">
+  <figcaption>Sanctions, pressure, self-interest and exchange all keep people conforming.</figcaption>
+</figure>
+
 ## Structure or agency: how is social order maintained?
 
 **Structuralist** views (functionalism and Marxism) start from society. Durkheim and Parsons see
@@ -135,6 +155,11 @@ through interaction and taking the role of others, and Erving Goffman's *The Pre
 Everyday Life* (1959) showed people actively managing impressions. Order is therefore negotiated in
 everyday encounters rather than imposed. Evaluation point: structuralists can be accused of
 treating people as puppets; interactionists of ignoring the power that limits choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-social-control-and-identity--05-structure-agency.webp" width="900" height="741" alt="Structuralist views start from society, which shapes the individual: functionalists stress consensus and Marxists stress power, ideology and force. Interactionist views start from individuals, whose interaction builds a negotiated social order, as in Mead and Goffman." loading="lazy">
+  <figcaption>Structuralists see society shaping people; interactionists see people building order.</figcaption>
+</figure>
 
 ## How do sociologists explain deviance and non-conformity?
 
@@ -168,6 +193,11 @@ Section 1.3 moves from how identity is learned to how it is changing.
 
 The syllabus also names **increased choice**: postmodernists argue identities are now picked and
 mixed, while structural sociologists reply that class, gender and ethnicity still limit the menu.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-social-control-and-identity--06-changing-identities.webp" width="900" height="646" alt="Four cards on changing identities: class (Pakulski and Waters versus Savage), gender (Connell, Mac an Ghaill, Butler), ethnicity (Hall, Bhabha’s hybridity, globalisation) and age (socially constructed stages reshaped by consumer markets and longer lives). Below, the debate about increased choice." loading="lazy">
+  <figcaption>Identities are becoming more fluid and hybrid, but structure still limits the choices.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

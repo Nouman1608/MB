@@ -35,6 +35,16 @@ with one idea written in three registers, is the
 | Analytical writing | Section B analysis of two texts | Formal, precise, comparative | Features linked to representation, identity, positioning and discourse |
 | Writing for non-specialists | Section B directed writing | Set by the form and audience | Accurate linguistic ideas made accessible in a well-crafted piece |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--01-three-skills.webp" width="900" height="625" alt="Three columns: the academic essay for the Section A evaluative essay (30 marks, formal, cautious and evidence-led), analytical writing for the Section B analysis of two texts (40 marks, formal, precise and comparative), and directed writing for a non-specialist audience (30 marks, register set by the form and audience)." loading="lazy">
+  <figcaption>Each skill has its own register; the task decides which one you sustain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--08-one-idea-three-ways.webp" width="900" height="585" alt="The idea that regional accents are judged unfairly is written three ways: an academic sentence with hedging, an analytical sentence about Text B relocating the problem from speaker to listener, and the start of a school magazine article for parents with an everyday scenario and direct address." loading="lazy">
+  <figcaption>The linguistic idea stays the same; the register follows the task.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -63,12 +73,27 @@ Conclusion: a qualified judgement that answers the question
 Useful frames: "This view is persuasive in so far as...", "However, it underestimates...", "A more convincing
 explanation may be...", "On balance...".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--02-essay-paragraph.webp" width="900" height="631" alt="The lesson's model paragraph in four labelled steps: a claim that technology speeds the spread of new forms, evidence from the conversion of &quot;text&quot; from noun to verb, an explanation that only the speed is new, and an evaluation that the question overstates technology as a cause." loading="lazy">
+  <figcaption>Claim, evidence, explanation, evaluation: one evaluative claim per paragraph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--03-academic-register.webp" width="900" height="600" alt="Six features of academic register, each with what to avoid and what to use: hedging instead of certainty, &quot;levelled past tense of BE&quot; instead of &quot;bad grammar&quot;, named research instead of &quot;experts say&quot;, signposting, impersonal or reasoned first person instead of chatty first person, and counter-argument instead of only agreeing." loading="lazy">
+  <figcaption>Hedge, name, attribute and signpost; and always argue against yourself.</figcaption>
+</figure>
+
 ## Analytical writing checklist
 
 - Open each paragraph with a claim about what the text **does**, not what it **says**.
 - Embed short quotations; name the feature; explain its effect; link to context and discourse.
 - Use comparative connectives: "whereas", "by contrast", "similarly", "both... but".
 - Prefer analytical verbs: represents, constructs, positions, frames, presupposes, challenges, reproduces.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--04-analytical-writing.webp" width="900" height="620" alt="&quot;The writer says&quot; leads to summary, while verbs such as represents, constructs, positions, frames and presupposes lead to analysis. Below, a quotation embedded in the writer's own syntax (&quot;Text A's verb 'mangle' represents English as a fragile object&quot;) and a row of comparative connectives." loading="lazy">
+  <figcaption>Choose analytical verbs, embed short quotations and compare as you go.</figcaption>
+</figure>
 
 ## Directed writing checklist
 
@@ -90,6 +115,11 @@ explanation may be...", "On balance...".
 | Letter | Salutation; purpose stated early; courteous register; sign-off |
 | Leaflet / guide | Headings; short sections; practical advice; imperatives |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--06-form-conventions.webp" width="900" height="640" alt="Five forms with their conventions: an opinion article (headline, standfirst, line of argument, hook, memorable close), a blog post (personal voice, direct address, shorter paragraphs), a speech or talk (greeting, inclusive pronouns, rhetorical patterning, call to action), a letter (salutation, reason for writing, courteous register) and a leaflet or guide (headings, imperatives, practical advice)." loading="lazy">
+  <figcaption>Use the conventions of the form the task names.</figcaption>
+</figure>
+
 ## Making jargon accessible
 
 | Technical | Accessible |
@@ -99,6 +129,11 @@ explanation may be...", "On balance...".
 | Covert prestige | The street credibility that comes from not sounding "posh" |
 | Semantic change | Words changing meaning over time, as "awful" once meant "full of awe" |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--05-explaining-accessibly.webp" width="900" height="660" alt="Four techniques with the lesson's examples: example first and label second (elision in &quot;gonna&quot;), analogy (dialects as local recipes), an everyday scenario such as a job interview, and a brief definition in passing for &quot;prescriptivists&quot;. A note says real linguistic ideas should leave the reader informed rather than lectured." loading="lazy">
+  <figcaption>Carry accurate linguistic ideas in a voice the audience will read.</figcaption>
+</figure>
+
 ## Openings: weak and strong
 
 | Weak opening | Why it fails | Stronger opening |
@@ -106,6 +141,11 @@ explanation may be...", "On balance...".
 | "In this article I will discuss accents." | Announces instead of engaging; essay habit | "Two candidates. Same grades. One gets the job. The difference? A vowel." |
 | "Language change is when language changes over time." | Circular definition | "Your great-grandparents would have found 'awful' a compliment." |
 | "Prescriptivism and descriptivism are two views." | Jargon before interest | "Is there one right way to speak English? Your answer says a lot about you." |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-writing-skills--07-openings-endings-voice.webp" width="900" height="705" alt="Four openings (an anecdote, a provocative question, a striking quotation, a familiar scenario) beside four endings (return to the opening image, a call to action, a reframed question, a short punchy statement). Below, three slips that break the voice: essay phrasing in an article, unexplained terms, and a summary instead of an ending." loading="lazy">
+  <figcaption>Choose a strong way in and out, and keep one voice in between.</figcaption>
+</figure>
 
 ## Accuracy and control
 

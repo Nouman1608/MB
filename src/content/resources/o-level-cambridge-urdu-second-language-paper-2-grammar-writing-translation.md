@@ -43,6 +43,11 @@ other, never both, in the same series, so this guide is specifically
 for 3248 candidates; 3247 candidates should use Marlbridge's Paper 2
 Texts guide instead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-second-language-paper-2-grammar-writing-translation--02-3247-versus-3248.webp" width="900" height="428" alt="3247 First Language Urdu's Paper 2 tests literary set texts; 3248 Second Language Urdu's Paper 2 tests applied language: grammar in context, extended writing and translation from English into Urdu." loading="lazy">
+  <figcaption>This paper exists only in 3248: it tests applied language, not literature.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE O LEVEL SECOND LANGUAGE URDU 3248 — PAPER 2: GRAMMAR, WRITING AND TRANSLATION**
@@ -69,6 +74,11 @@ Texts guide instead.
 - Exercise 4 — **Translation** (15 marks): translating a short passage
   of approximately 150 words from English into Urdu
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-second-language-paper-2-grammar-writing-translation--01-paper-structure.webp" width="900" height="680" alt="3248 Paper 2 lasts 1 hour 30 minutes for 50 marks, 50% of the qualification, with four compulsory exercises: sentence transformation (5 marks), multiple-choice cloze (10), extended writing of about 200 words (20) and translation of about 150 words from English into Urdu (15). Only Exercise 4 has its question in English." loading="lazy">
+  <figcaption>Four compulsory exercises; writing and translation carry most of the marks.</figcaption>
+</figure>
+
 ## Exercise 1: Sentence transformation
 
 This exercise is worth the fewest marks (5) but tests a precise skill:
@@ -78,6 +88,11 @@ exactly. Because only five sentences are set, each is worth a full
 mark, so accuracy on grammatical structures — verb endings, correct
 postposition use, word order — matters more here than on longer
 exercises where partial credit is easier to earn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-second-language-paper-2-grammar-writing-translation--03-sentence-transformation.webp" width="900" height="386" alt="Each of five sentences is rewritten according to a prompt, such as a change of tense, voice or sentence type, while keeping exactly the same meaning. With one mark per sentence, verb endings, postpositions, word order and unchanged meaning all need checking." loading="lazy">
+  <figcaption>Five marks, five sentences: precise grammar, identical meaning.</figcaption>
+</figure>
 
 ## Exercise 2: Multiple-choice cloze passage
 
@@ -92,6 +107,11 @@ grammatically *and* makes sense in context — an option can be
 grammatically valid in isolation but wrong for the specific passage,
 so read a full sentence around each gap before choosing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-second-language-paper-2-grammar-writing-translation--04-cloze-checklist.webp" width="900" height="498" alt="The ten grammar points the syllabus names for the cloze: verb conjugation, subject/verb agreement, comparatives, superlatives, parts of speech, nouns, prepositions, postpositions, articles and context vocabulary. Each option must fit grammatically and make sense in the passage." loading="lazy">
+  <figcaption>An option can be grammatical in isolation and still wrong for the passage.</figcaption>
+</figure>
+
 ## Exercise 3: Extended writing
 
 Candidates write approximately 200 words of continuous prose from a
@@ -104,6 +124,11 @@ vocabulary and structures across the common purposes (narrative,
 descriptive, persuasive, informational) rather than only one, since
 the specific purpose set varies by series.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-second-language-paper-2-grammar-writing-translation--05-extended-writing.webp" width="900" height="592" alt="Exercise 3 is worth 20 marks: about 200 words of continuous prose from short prompts, with purpose, format and audience specified, for example a letter, a diary entry or a description. Prepare for narrative, descriptive, persuasive and informational purposes." loading="lazy">
+  <figcaption>The biggest single exercise: practise every purpose, not just one.</figcaption>
+</figure>
+
 ## Exercise 4: Translation
 
 Candidates translate an English passage of approximately 150 words
@@ -114,6 +139,11 @@ or produce Urdu in isolation. At 15 marks for a relatively short
 passage, precision matters: a literal, word-for-word translation that
 produces unnatural Urdu is marked down compared with an accurate
 translation that also reads naturally in the target language.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-second-language-paper-2-grammar-writing-translation--06-translation.webp" width="900" height="468" alt="An English passage of about 150 words is translated into Urdu for 15 marks. A word-for-word translation that gives unnatural Urdu is marked down; an accurate translation that reads naturally scores better." loading="lazy">
+  <figcaption>Keep the meaning exactly, but make the Urdu sound like Urdu.</figcaption>
+</figure>
 
 ## Common mistakes
 
@@ -139,6 +169,11 @@ conjugation, subject/verb agreement, comparatives and superlatives,
 parts of speech, prepositions and postpositions, articles) and test
 yourself against each one individually, since cloze passages are
 designed to probe exactly this list.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-second-language-paper-2-grammar-writing-translation--07-where-the-marks-are.webp" width="900" height="522" alt="Marks by exercise: 5 for sentence transformation, 10 for the cloze, 20 for extended writing and 15 for translation, so Exercises 3 and 4 carry 35 of the 50 marks. Secure the named grammar points, then prioritise timed writing and translation practice." loading="lazy">
+  <figcaption>Writing and translation carry 35 of 50 marks: weight revision accordingly.</figcaption>
+</figure>
 
 ## Related resources
 

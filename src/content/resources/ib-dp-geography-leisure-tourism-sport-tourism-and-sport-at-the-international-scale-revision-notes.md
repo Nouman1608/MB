@@ -48,6 +48,11 @@ Drivers: falling real transport costs, rising incomes, visa liberalisation, digi
 
 **Intervening obstacles** reduce flows even when push and pull factors are strong: visa restrictions, cost, distance, conflict or a health scare. **Intervening opportunities**, such as a cheaper destination on the way, can divert flows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--05-push-pull.webp" width="900" height="760" alt="Two panels joined by a thick arrow carrying a suitcase from left to right. The origin country on the left has push factors that arrows lead out of: stress, income, climate and leisure time. The destination on the right has pull factors that arrows lead into: climate, attractions, safety, price and accessibility." loading="lazy">
+  <figcaption>Push factors in the origin country and pull factors in the destination shape tourist flows.</figcaption>
+</figure>
+
 ## Key actors
 
 - **Transnational corporations** in hotels, airlines, cruises and online booking.
@@ -83,6 +88,11 @@ Bidding has become less popular in some democracies because of cost concerns, an
 Why leakage happens: foreign-owned hotels send profits home, food and drink are imported to meet visitor tastes, international booking platforms and tour operators take commission, and senior jobs may go to expatriate staff. Reducing leakage means buying locally, training local managers and supporting locally owned businesses.
 
 **Tourism dependency:** small island states with few other industries can earn a large share of national income from tourism, which brings growth but leaves them highly exposed to shocks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--06-leakage.webp" width="900" height="730" alt="Two horizontal bars each representing 26 million currency units of tourist spending. With 55 per cent leakage, 11.7 million is kept and 14.3 million leaves the island. If leakage falls to 35 per cent, 16.9 million is kept, an extra 5.2 million. Numbers are the lesson’s worked example." loading="lazy">
+  <figcaption>The lesson’s worked example: cutting leakage from 55 to 35 per cent keeps 5.2 million more on the island.</figcaption>
+</figure>
 
 ## Risk and environment
 

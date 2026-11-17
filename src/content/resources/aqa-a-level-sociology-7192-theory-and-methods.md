@@ -79,6 +79,11 @@ Methods extended writing worth 30 marks.
 **Research design** includes choosing a topic, forming hypotheses or research questions,
 operationalising concepts, sampling, piloting and analysing data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--01-methods-map.webp" width="900" height="731" alt="A two-by-two grid. Primary quantitative: questionnaires, structured interviews, laboratory experiments. Primary qualitative: unstructured interviews and participant observation. Secondary quantitative: official statistics. Secondary qualitative: documents. Each has a strength and a limitation." loading="lazy">
+  <figcaption>Every method sits somewhere on the primary/secondary and quantitative/qualitative grid.</figcaption>
+</figure>
+
 ## What is the difference between positivism and interpretivism? (point 4)
 
 **Positivism** — associated with Auguste Comte and Émile Durkheim — holds that society is an objective
@@ -93,6 +98,11 @@ methods. J. Maxwell Atkinson (*Discovering Suicide*, 1978) argued that suicide s
 product of coroners' interpretations, and Jack Douglas (*The Social Meanings of Suicide*, 1967)
 called for studying the meanings behind suicidal acts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--02-positivism-interpretivism.webp" width="900" height="451" alt="Positivists such as Durkheim see society as social facts studied with quantitative methods, as in his study of suicide rates. Interpretivists, following Weber, study meanings with qualitative methods; Atkinson and Douglas reinterpret suicide." loading="lazy">
+  <figcaption>The two approaches study suicide in opposite ways.</figcaption>
+</figure>
+
 ## What shapes the choice of topic and method? (point 5)
 
 - **Theoretical:** positivists favour reliable, quantitative methods; interpretivists favour valid,
@@ -102,6 +112,11 @@ called for studying the meanings behind suicidal acts.
 - **Ethical:** the British Sociological Association's Statement of Ethical Practice stresses informed
   consent, confidentiality, avoiding harm and care with vulnerable groups; covert methods raise
   particular problems of deception.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--03-tpe-factors.webp" width="900" height="493" alt="Theoretical, practical and ethical considerations all feed into the choice of topic, the choice of method and the conduct of research." loading="lazy">
+  <figcaption>Theory, practicalities and ethics together shape how research is done.</figcaption>
+</figure>
 
 ## What are consensus, conflict, structural and social action theories? (point 6)
 
@@ -113,6 +128,11 @@ called for studying the meanings behind suicidal acts.
 | **Symbolic interactionism** | Social action | People create society through interaction and shared meanings | George Herbert Mead; Herbert Blumer (*Symbolic Interactionism*, 1969) |
 | **Phenomenology / ethnomethodology** | Social action | Studies how people make sense of the world and produce social order in everyday life | Alfred Schutz; Harold Garfinkel (*Studies in Ethnomethodology*, 1967) |
 | **Structuration** | Bridges structure and action | Structure and agency reproduce each other | Anthony Giddens (*The Constitution of Society*, 1984) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--04-theory-map.webp" width="900" height="520" alt="Three groups of theory: consensus (functionalism), conflict (Marxism and feminism) and social action (symbolic interactionism, phenomenology and ethnomethodology), with Giddens’ structuration theory bridging structure and action." loading="lazy">
+  <figcaption>Structural theories start from society; social action theories start from meanings.</figcaption>
+</figure>
 
 ## What are modernity and post-modernity? (point 7)
 
@@ -129,6 +149,11 @@ and identity.
 "high" modernity marked by **reflexivity**; Ulrich Beck (*Risk Society*, 1986) describes a society
 preoccupied with manufactured risks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--05-modernity.webp" width="900" height="537" alt="Modernity, marked by the nation state, capitalism, science and grand narratives, leads to two views: postmodernists Lyotard and Baudrillard say it has ended, while late modernists Giddens and Beck say it continues in a new form." loading="lazy">
+  <figcaption>Postmodernists see a break with modernity; late modernists see it intensifying.</figcaption>
+</figure>
+
 ## Is sociology a science? (point 8)
 
 - **Positivists:** yes — sociology can and should follow the logic of the natural sciences.
@@ -141,6 +166,11 @@ preoccupied with manufactured risks.
   can still be scientific in seeking underlying causes.
 - **Interpretivists:** sociology studies meaningful action, so natural-science methods are
   inappropriate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--06-science.webp" width="900" height="568" alt="Five positions on whether sociology is a science: positivists and realists say yes, Popper defines science by falsification, Kuhn calls sociology pre-paradigmatic, and interpretivists say natural-science methods do not fit." loading="lazy">
+  <figcaption>The answer depends on how science itself is defined.</figcaption>
+</figure>
 
 ## How do theory and methods relate? (point 9)
 
@@ -159,6 +189,11 @@ practical factors may override theory.
   side with the underdog; Alvin Gouldner ("Anti-Minotaur: The Myth of a Value-Free Sociology",
   1962) said claims of value freedom often hid support for the powerful.
 - **Feminists** such as Oakley argue research should serve women's interests.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--07-values.webp" width="900" height="405" alt="A spectrum from classical positivists, who thought sociology could be objective, through Weber, who kept values out of data collection only, to committed sociologists Becker, Gouldner and feminists, who argue research should take sides." loading="lazy">
+  <figcaption>Views range from full objectivity to openly committed research.</figcaption>
+</figure>
 
 ## What is the relationship between sociology and social policy? (point 11)
 

@@ -33,6 +33,16 @@ Condensed notes for the comedy option of Paper 1. For full explanations and mode
 - **Three answers**: Shakespeare passage (Section A), Shakespeare essay (Section B), link between
   the other two texts (Section C, one drama and one pre-1900 text).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-literary-genres--01-p1-structure.webp" width="900" height="820" alt="Four chips give the facts: 2 hours 30 minutes, 75 marks, 40 percent of the A-level, closed book. Beneath, a bar splits into three equal 25-mark sections. Section A is a Shakespeare passage question answered on the play you studied; Section B is a Shakespeare essay and Section C an essay linking two texts, each chosen from two questions." loading="lazy">
+  <figcaption>Paper 1 has three compulsory 25-mark sections and no text in the exam room.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-literary-genres--04-p1-section-c.webp" width="900" height="870" alt="Three boxes (drama, prose, poetry) lead to two linked circles, Text 1 and Text 2. Two ticked rules follow: one of the two texts must be a drama text and one must be written before 1900. A final note says to check your planned texts satisfy both before the exam." loading="lazy">
+  <figcaption>Section C links two texts, and the pair must include a drama text and a pre-1900 text.</figcaption>
+</figure>
+
 ## Set texts
 
 - **Shakespeare (one):** *The Taming of the Shrew*; *Twelfth Night*.
@@ -42,6 +52,11 @@ Condensed notes for the comedy option of Paper 1. For full explanations and mode
   (Chaucer); *Small Island* (Levy); the AQA poetry anthology (comedy).
 
 Confirm the list with your teacher, as AQA reviews set texts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717--01-what-you-study.webp" width="900" height="626" alt="Text 1 is The Taming of the Shrew or Twelfth Night. Texts 2 and 3, one pre-1900 drama and one further text, come from six options tagged drama or pre-1900: She Stoops to Conquer and The Importance of Being Earnest (both), Emma and The Nun’s Priest’s Tale (pre-1900), Small Island and the AQA poetry anthology. A note says one text can meet two requirements." loading="lazy">
+  <figcaption>One Shakespeare comedy plus a pre-1900 drama and one further text.</figcaption>
+</figure>
 
 ## AQA's definition in three sentences
 
@@ -67,6 +82,11 @@ the behaviour of men and women in it are ridiculed.
 | Language | Wit, puns, epigrams, linguistic play |
 | Self-awareness | How does the comedy draw attention to itself? |
 | Audience | Laughter and joy that "positive resolutions are possible" |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717--02-aspects-of-comedy.webp" width="900" height="788" alt="AQA’s definition of comedy sits above twelve areas to explore, each with examples from the set texts: type, the journey to knowledge, the comic villain or rival, scale, folly and trickery, clowns and posturing, disguise and discovery, structure, language, self-awareness, the audience and absence." loading="lazy">
+  <figcaption>Twelve areas to explore, anchored by marriage, ridicule and a sense of joy.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -94,6 +114,11 @@ the behaviour of men and women in it are ridiculed.
 - **Comedy drawing attention to itself**: the Sly Induction; "Not My Best Side", where the painted
   figures answer back.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717--05-section-c-plan.webp" width="900" height="747" alt="She Stoops to Conquer and Emma are compared point by point: Marlow’s two manners against Emma’s matchmaking for Harriet; Kate stooping to conquer against Mr Elton’s rejected ambition; and eighteenth-century against Regency class codes. The argument is that both mock climbing and snobbery, weighed against Kate’s rewarded stooping, and a balance sets conservative against subversive readings of comedy." loading="lazy">
+  <figcaption>Link the texts point by point, then weigh whether comedy restores or exposes rank.</figcaption>
+</figure>
+
 ## Contexts worth linking
 
 - **Elizabethan festive comedy** and Twelfth Night revels of misrule.
@@ -109,6 +134,11 @@ the behaviour of men and women in it are ridiculed.
 2. Close analysis of how laughter is produced, not a retelling of the joke.
 3. One moment where comedy is troubled by pain or exclusion.
 4. Context and a second interpretation tied to specific scenes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717--03-who-is-left-out.webp" width="900" height="660" alt="A circle labelled the happy ending, with marriage, order and joy, is surrounded by four cases outside it: Malvolio exiting vowing revenge, Antonio left alone, Katherina’s final speech read as sincere, ironic or forced, and Small Island’s comedy alongside racism and wartime loss." loading="lazy">
+  <figcaption>Asking who is left out turns the ending into a debate about what resolution costs.</figcaption>
+</figure>
 
 ## Exam traps
 

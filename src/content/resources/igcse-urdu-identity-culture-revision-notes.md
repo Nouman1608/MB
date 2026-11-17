@@ -73,6 +73,16 @@ Build vocabulary in clusters rather than lists:
 
 **Comparatives** are another high-value structure worth deploying deliberately: *behtar* (better), *sab se behtar* (the best), *is se zyaada mushkil* (more difficult than this). Combined with opinion phrases and connectives, comparatives let an answer compare and evaluate rather than just describe.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-identity-and-culture--02-theme-1-map.webp" width="900" height="680" alt="Theme 1 Identity and Culture branches into three topics: 1.1 family, friends and people I know (two relationship sub-topics), 1.2 technology in everyday life (social media, mobile technology) and 1.3 free-time activities (music, cinema and TV, sport, customs and festivals)." loading="lazy">
+  <figcaption>Eight sub-topics give the contexts; the papers test your Urdu, not cultural knowledge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-identity-and-culture--04-extending-an-answer.webp" width="900" height="690" alt="A four-step staircase: a simple statement, then an opinion, then a reason, then an example, each step higher. Range is widened further with three tenses, comparatives, connectives and time markers." loading="lazy">
+  <figcaption>Adding a reason and an example is the most reliable way to move up a band.</figcaption>
+</figure>
+
 ## Exam technique
 
 **Reading:** read the questions first, then scan for the specific information rather than translating the whole passage word by word. Identify whether a question wants a detail, an opinion or an inference, since each demands a different kind of scanning.
@@ -94,6 +104,16 @@ Strong: describes the festival (present tense)
 ```
 
 Three tenses, an opinion with a reason, and one personal detail — that combination is what separates a top-band writing response from a merely accurate one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-identity-and-culture--05-approaching-the-tasks.webp" width="900" height="700" alt="For reading, first decide whether the question wants a detail, an opinion (look for evaluative language) or an inference. For writing, check that every bullet point is addressed, opinions have reasons and tenses are varied." loading="lazy">
+  <figcaption>Name the question type in reading; cover every bullet in writing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-identity-and-culture--06-weak-vs-strong-answer.webp" width="900" height="640" alt="A weak festival answer lists what happens in one tense with no opinion or reason. A strong one moves through past, present and future, gives an opinion with a reason and adds a personal detail." loading="lazy">
+  <figcaption>Three tenses, an opinion, a reason and a personal detail make a top-band answer.</figcaption>
+</figure>
 
 ## Exam traps
 

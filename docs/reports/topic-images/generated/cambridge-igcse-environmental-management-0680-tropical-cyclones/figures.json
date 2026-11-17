@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-igcse-environmental-management-0680-tropical-cyclones--01-latitude-and-names.webp",
+  "width": 900,
+  "height": 800,
+  "after": "## One storm, three names (6.2.1 a)",
+  "alt": "A schematic latitude band, not a map. Tropical cyclones form between 5° and 30° north and south of the Equator; closer than 5° the air does not spin and beyond about 30° the sea is usually too cool. The same storm is called a hurricane over the North Atlantic and north-east Pacific, a typhoon over the north-west Pacific and a cyclone over the Indian Ocean and South Pacific.",
+  "caption": "Between 5° and 30° of the Equator; hurricane, typhoon and cyclone are the same storm.",
+  "bytes": 86392
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-tropical-cyclones--02-three-conditions.webp",
+  "width": 900,
+  "height": 705,
+  "after": "## Where and why they form (6.2.1 b to d)",
+  "alt": "Three cards give the syllabus values: latitude between 5° and 30° north or south, ocean temperature at least 27 °C and a warm layer at least 60 m deep. A cross-section shows a warm surface layer at least 60 m deep over cooler water below.",
+  "caption": "Learn the numbers: 5° to 30°, at least 27 °C, at least 60 m.",
+  "bytes": 80048
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-tropical-cyclones--03-growth-and-decay.webp",
+  "width": 900,
+  "height": 815,
+  "after": "## Where and why they form (6.2.1 b to d)",
+  "alt": "A schematic cross-section over warm sea. Warm, moist air rises, creating very low pressure; it cools and condenses into towering clouds, releasing heat that drives faster rising; more air is drawn in and spirals because of Earth’s rotation, around a calm, clear eye. Over land the storm loses its supply of warm, moist air and friction slows it.",
+  "caption": "Warm sea feeds rising, condensing air; over land the supply is cut and the storm weakens.",
+  "bytes": 120880
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-tropical-cyclones--04-three-processes-ten-impacts.webp",
+  "width": 900,
+  "height": 780,
+  "after": "## Impacts on people and the environment (6.2.2)",
+  "alt": "Strong winds, heavy rainfall and storm surge drive the ten syllabus impacts: damage to buildings and infrastructure, loss of crops, livestock and habitats, evacuation, flooding, landslides, contaminated drinking water, water-related disease, financial losses and human health. An example chain: storm surge floods farmland, leaves salt in the soil, crops fail for more than one season, causing food shortages and lost income.",
+  "caption": "Link every impact to wind, rain or storm surge, then follow the chain to people.",
+  "bytes": 131830
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-tropical-cyclones--05-before-during-after.webp",
+  "width": 900,
+  "height": 715,
+  "after": "## Managing the impacts (6.2.3)",
+  "alt": "Before the cyclone: monitoring and warning, stronger building structure and disaster preparation. During: evacuation and shelters, such as Bangladesh’s raised cyclone shelters. After: rebuilding to stronger standards and international aid. The strategies depend on each other, and land use zoning is not one of the cyclone strategies.",
+  "caption": "Prepare before, protect people during, rebuild and receive aid after.",
+  "bytes": 130930
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-tropical-cyclones--06-which-location.webp",
+  "width": 900,
+  "height": 595,
+  "after": "## Worked example 1: can a cyclone form here?",
+  "alt": "A checklist grid for four invented ocean locations. A at 2° N fails latitude. B at 15° S, 28 °C and 90 m meets all three conditions. C fails with sea at 25 °C. D fails because its warm layer is only 40 m deep.",
+  "caption": "Only location B meets all three conditions; name the condition each other one fails.",
+  "bytes": 82918
+ }
+]

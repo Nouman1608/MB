@@ -41,6 +41,11 @@ Condensed for the final weeks. For the full explanation and a worked example, us
 
 **Check the rubric:** a paragraph may be the answer to more than one sentence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-2-multiple-matching--01-how-the-task-works.webp" width="900" height="794" alt="Exercise 2 is worth 9 marks, takes about 12-15 minutes and tests R1 to R3. Each sentence is matched to one paragraph by writing its letter; in the example paragraph B matches two sentences, because a letter can be used more than once unless the rubric says otherwise." loading="lazy">
+  <figcaption>Match meaning, not words, and check whether letters can repeat.</figcaption>
+</figure>
+
 ## The method in six steps
 
 1. Read the **sentences** first; note each one's key idea in the margin.
@@ -63,6 +68,11 @@ Condensed for the final weeks. For the full explanation and a worked example, us
 | Frequency | ہفتے میں صرف ایک بار | پہلے سے کم |
 | Intention | بننا چاہتی ہوں | مستقبل کا منصوبہ |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-2-multiple-matching--02-paraphrase-patterns.webp" width="900" height="936" alt="A table of eight paraphrase patterns, each with the paragraph wording and the reworded sentence, for example آسان نہیں تھا in the paragraph becoming مشکل تھا in the sentence, and فٹ بال اور کرکٹ becoming کھیل." loading="lazy">
+  <figcaption>The sentence almost never repeats the paragraph: look for the same idea in new words.</figcaption>
+</figure>
+
 ## Marker words to notice
 
 | Type | Words |
@@ -81,6 +91,11 @@ Condensed for the final weeks. For the full explanation and a worked example, us
 4. **Whose opinion:** a parent's or friend's view is not the writer's.
 5. **Wrong time:** a past event does not match a sentence about the future.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-2-multiple-matching--03-five-traps.webp" width="900" height="1025" alt="Five traps: a shared word such as بینڈ that points to the wrong paragraph, a paragraph that matches only half a two-part sentence, wanted versus did (چاہتا تھا, ارادہ ہے, کیا), whose opinion it is (میرے خیال میں versus میری امی کا خیال ہے), and time words such as پہلے، اب، اگلے سال." loading="lazy">
+  <figcaption>Check the meaning, both parts, the action, the speaker and the time.</figcaption>
+</figure>
+
 ## Evidence check in action
 
 **Sentence:** "یہ شخص اپنے کام سے مطمئن نہیں ہے۔"
@@ -92,6 +107,11 @@ Condensed for the final weeks. For the full explanation and a worked example, us
   bored and looking for a new job. **Yes.**
 
 Only Z gives evidence for the whole sentence; Y contains a negative but about the wrong thing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-2-multiple-matching--04-worked-example.webp" width="900" height="806" alt="Three sentences matched to paragraphs by evidence rather than shared words: helping an elder matches Zainab (A) through نانی and وہ اکیلی نہیں جا سکتیں; someone else trusting his ability more matches Hamza (B) through his coach's view; a changed Saturday routine matches Maryam (C) through پہلے… مگر اب…." loading="lazy">
+  <figcaption>For every match, point to the words in the paragraph that prove it.</figcaption>
+</figure>
 
 ## Worked mini-task
 
@@ -133,6 +153,11 @@ do not cross it off.
 | مدد کی | ساتھ دیا | helped, supported |
 | خوشی ہوئی | مسرت | happiness |
 | بہت پیسے لگتے ہیں | مہنگا | it costs a lot / expensive |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-2-multiple-matching--06-word-banks.webp" width="900" height="634" alt="Three word banks with English glosses: synonym pairs such as مشکل / دشوار, feeling words such as خوش, مطمئن and مایوس, and time and change markers such as پہلے, اب, آخرکار and آئندہ." loading="lazy">
+  <figcaption>Collect synonyms, feelings and time markers: they are what the sentences reword.</figcaption>
+</figure>
 
 ## Step-by-step: checking a doubtful match
 

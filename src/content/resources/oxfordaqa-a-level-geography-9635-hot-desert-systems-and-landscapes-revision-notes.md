@@ -50,6 +50,11 @@ sources, cells and budgets**: a desert landscape balances sediment gained agains
 Distinguish a **landform** (a single feature such as a barchan) from a **landscape** (an assemblage of
 related landforms, such as a sand sea or a mountain front with pediment, bahada and playa).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--01-dune-field-sediment-budget.webp" width="900" height="725" alt="A dune field store with sand inputs of 40,000 tonnes a year from a dry riverbed and 5,000 tonnes from weathering, and an output of 52,000 tonnes downwind, drawn with arrow widths to scale. The budget is minus 7,000 tonnes a year, so the store shrinks. Below, the three energy inputs: insolation, wind and runoff." loading="lazy">
+  <figcaption>Outputs exceed inputs by 7,000 tonnes a year, so the dune field shrinks.</figcaption>
+</figure>
+
 ## Where hot deserts are
 
 Hot deserts and their **arid and semi-arid margins** lie mainly between about 15 and 30 degrees north
@@ -89,6 +94,16 @@ Descending air warms adiabatically, so its relative humidity falls and condensat
 A commonly used UNEP classification treats values below 0.05 as hyper-arid, 0.05 to 0.20 as arid and
 0.20 to 0.50 as semi-arid. A negative water balance means potential evaporation far exceeds
 rainfall, so there is little soil moisture or surface water for most of the year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--03-causes-of-aridity.webp" width="900" height="737" alt="A matrix of four deserts against five causes of aridity. Sahara and Arabian: subtropical high pressure and winds from land. Atacama: high pressure, the Andes rain shadow and the cold Humboldt Current. Namib: the cold Benguela Current. Taklamakan: continentality and surrounding mountains." loading="lazy">
+  <figcaption>Most deserts are dry for more than one reason.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--02-aridity-index.webp" width="900" height="736" alt="A scale of P/PET from 0 to 0.5 with bands: hyper-arid below 0.05, arid 0.05 to 0.20 and semi-arid 0.20 to 0.50. Three fictional stations are plotted: Wadi Seer at 0.017, Tarik Plain at 0.067 and Baran Hills at 0.30, with their rainfall and PET in a table." loading="lazy">
+  <figcaption>Divide precipitation by potential evapotranspiration, then read the band.</figcaption>
+</figure>
 
 ## Arid weathering
 
@@ -161,6 +176,21 @@ drainage.
 Link **process, time, landforms and landscapes**: many desert landforms, especially water-cut ones,
 may partly reflect wetter conditions in the past.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--04-barchan-dune.webp" width="900" height="864" alt="Plan view and profile of a barchan, not to scale: a crescent with its gentle windward slope facing the wind and horns pointing downwind; in profile, sand saltates up the windward slope and avalanches down a slip face of about 30 to 34 degrees, and the dune migrates downwind. Five numbered steps explain the formation." loading="lazy">
+  <figcaption>Saltation up, avalanching down and faster-moving horns keep a barchan's shape as it migrates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--05-pavement-and-pediment.webp" width="900" height="676" alt="Three panels show a desert pavement forming: deflation removes fine material, larger stones settle together, and the armoured surface protects fines below. Below, a schematic cross-section shows a mountain front retreating parallel to itself, leaving a gently sloping pediment with an isolated inselberg of resistant rock." loading="lazy">
+  <figcaption>Explain landforms as numbered process steps, not labels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--06-mountain-front-landscape.webp" width="900" height="837" alt="Schematic cross-section, not to scale, of a mountain-front landscape: wadis cut in the mountains, alluvial fans merging into a bahada at the mountain foot, a playa of fine sediment in the basin and an inselberg beyond. A table compares sand sea, stony desert and rocky desert landscapes by processes and landforms." loading="lazy">
+  <figcaption>Landforms combine into landscapes through one cascade of sediment.</figcaption>
+</figure>
+
 ## Desertification
 
 Know the **changing extent of hot deserts over the last 10 000 years**, the causes (**climate
@@ -176,6 +206,11 @@ change and human impact**), areas at risk, impacts and **alternative futures**.
   to towns, dust storms.
 - **Climate change:** predicted higher temperatures and more variable rainfall may increase drought
   risk at desert margins.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--07-desertification-sequence.webp" width="900" height="610" alt="A chain following the specification: changing extent over 10,000 years, climatic and human causes, areas at risk such as the Sahel, and impacts on land and people. A note explains how drought and grazing reinforce each other. Three alternative futures: continued degradation, adaptation, or restoration as in parts of Niger." loading="lazy">
+  <figcaption>Causes reinforce each other, but the future depends on how land is managed.</figcaption>
+</figure>
 
 ## Case studies
 

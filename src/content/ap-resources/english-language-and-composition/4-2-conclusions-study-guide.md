@@ -88,6 +88,11 @@ A useful mental check is the **so-what test**. After the last sentence, would a 
 | "What will I remember?" | A compelling image |
 | "Can you pull it together?" | Summary of the line of reasoning, in new words |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-2-conclusions-study-guide--01-so-what-test.webp" width="900" height="628" alt="Six questions a reader might ask at the end, each matched to a conclusion strategy: why it matters (significance), what to do (a call to act or solution), what follows (implications), how it relates to the start (return to the introduction), what to remember (a compelling image), and pull it together (a summary in new words)." loading="lazy">
+  <figcaption>If a reader could still ask “So what?”, the conclusion has not done its job.</figcaption>
+</figure>
+
 ## Weak and strong conclusions side by side
 
 Imagine an essay arguing that schools should move the first bell later (the running example from Topic 4.1).
@@ -110,6 +115,11 @@ Imagine an essay arguing that schools should move the first bell later (the runn
 
 The strong version does not repeat the thesis word for word, yet the thesis is plainly present. It also avoids introducing a brand-new proof.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-2-conclusions-study-guide--03-weak-vs-strong-conclusion.webp" width="900" height="651" alt="The weak conclusion (“In conclusion, there are many reasons... Thank you for reading”) sits above the strong one, split into four parts: a return to the bus driver image that reframes the cause, a brief concession of cost, the benefit drawn together, and a final link to the purpose of schooling." loading="lazy">
+  <figcaption>The thesis is plainly present without being repeated word for word.</figcaption>
+</figure>
+
 ## Common conclusion shapes
 
 **Return to the introduction.** The conclusion revisits an image, question or scenario from the opening and shows it in a new light. This is effective when the introduction used an anecdote or scenario.
@@ -121,6 +131,11 @@ The strong version does not repeat the thesis word for word, yet the thesis is p
 **Looking forward.** The writer considers implications, what will be true if the claim is accepted, or what questions remain.
 
 **Closing image.** A short, vivid image that crystallises the argument, used sparingly and only when it is earned by the body.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-2-conclusions-study-guide--02-conclusion-shapes.webp" width="900" height="601" alt="Five small diagrams of conclusion shapes: returning to the introduction (an arrow loops back to the opening), widening the lens (a cone from a point outward), narrowing to action (a funnel to an arrow), looking forward (a line continuing as a dashed arrow) and a closing image (a framed picture)." loading="lazy">
+  <figcaption>Return, widen, narrow to action, look forward, or close on an image.</figcaption>
+</figure>
 
 ## Worked example 1: writing a conclusion that fits its purpose
 
@@ -141,6 +156,11 @@ The strong version does not repeat the thesis word for word, yet the thesis is p
 - Call to act: "approve the funding" is specific.
 - Not new proof: the claims about shops and cars were already argued in the body; the conclusion only draws them together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-2-conclusions-study-guide--04-railway-path-conclusion.webp" width="900" height="667" alt="An essay map: the introduction’s empty platform, three body paragraphs (fewer car journeys, custom for shops, a safe route) and a conclusion that gathers them, returns to the platform, states the significance and calls on the council to approve the funding." loading="lazy">
+  <figcaption>Unity, significance and a call to act chosen for a council deciding on funding.</figcaption>
+</figure>
+
 ## Worked example 2: describing the function of a published conclusion
 
 Abraham Lincoln ended his Gettysburg Address in 1863 as follows:
@@ -156,6 +176,11 @@ Abraham Lincoln ended his Gettysburg Address in 1863 as follows:
 - *Rhythm and parallelism:* the three "that" clauses and the triple phrase "of the people, by the people, for the people" give the end a rising, memorable cadence, so the audience leaves with a phrase they can repeat.
 
 **Step 3: Write the analysis sentence.** *Lincoln ends with a single resolution in three parts so that the audience, instead of simply mourning the dead, is invited to take on the unfinished work, and the memorable triple phrase fixes that purpose in their minds.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-2-conclusions-study-guide--05-gettysburg-ending.webp" width="900" height="520" alt="The closing sentence of the Gettysburg Address set out as three rising clauses: that the dead shall not have died in vain (a call to act), that the nation shall have a new birth of freedom (an aim), and that government of, by and for the people shall not perish (a widened lens and a compelling image). The triple phrase is highlighted." loading="lazy">
+  <figcaption>One resolution in three parts turns mourning into a shared task.</figcaption>
+</figure>
 
 ## Common misconceptions
 

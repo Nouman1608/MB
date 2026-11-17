@@ -1,0 +1,56 @@
+[
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-research-methods--01-asking-questions.webp",
+  "width": 900,
+  "height": 830,
+  "after": "## The main methods (3.1.3.2)",
+  "alt": "A grid of surveys and interviews (postal and telephone, online, self-completion, structured, unstructured and group) with a strength and a limitation of each, and types of survey question.",
+  "caption": "More structure brings reliability; less structure brings depth.",
+  "bytes": 178182
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-research-methods--02-other-methods.webp",
+  "width": 900,
+  "height": 993,
+  "after": "## The main methods (3.1.3.2)",
+  "alt": "A grid of observation types, laboratory and field experiments, longitudinal studies and qualitative and quantitative secondary sources, each with a strength and a limitation, plus classic examples.",
+  "caption": "Natural settings gain validity; controlled settings gain cause and effect.",
+  "bytes": 224144
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-research-methods--03-sampling.webp",
+  "width": 900,
+  "height": 617,
+  "after": "## Issues in research (3.1.3.3)",
+  "alt": "A chain from population to sampling frame to sample, then six types of sample: random, systematic and stratified random; quota, multistage and snowball.",
+  "caption": "The sample can only be as good as the frame it is drawn from.",
+  "bytes": 93292
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-research-methods--04-measurement-problems.webp",
+  "width": 900,
+  "height": 729,
+  "after": "## Issues in research (3.1.3.3)",
+  "alt": "Religiosity can be operationalised as worship, prayer or belief, each giving a different result. Two variables that move together may both be caused by a third factor. Notes list interviewer bias, the Hawthorne effect and social desirability.",
+  "caption": "How you measure, and what else might explain a link, shape every finding.",
+  "bytes": 121066
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-research-methods--05-trend.webp",
+  "width": 900,
+  "height": 923,
+  "after": "## Interpreting data (3.1.3.4)",
+  "alt": "The TREND routine for quantitative data: title and units, read extremes, examine change and comparison, note percentage points versus relative change, and doubt the source. A note gives the routine for qualitative extracts.",
+  "caption": "TREND turns an unseen table into marks.",
+  "bytes": 116008
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-research-methods--06-tarnia-chart.webp",
+  "width": 900,
+  "height": 747,
+  "after": "## Worked example: reading a table",
+  "alt": "A bar chart of fictional data: urban households using mobile money rose from 30% in 2015 to 74% in 2025, rural from 12% to 51%. The gap widened in percentage points while rural use grew faster in relative terms.",
+  "caption": "Percentage points and relative change can tell different stories.",
+  "bytes": 105984
+ }
+]

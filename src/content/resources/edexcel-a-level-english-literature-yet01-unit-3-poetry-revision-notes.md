@@ -38,6 +38,11 @@ Literature (YET01). For the full method and an annotated example, use the
 | AOs | AO1, AO2 (no AO3, no AO4) |
 | Skills | Unit 1 poetry learning applied to an unseen poem |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-poetry--01-section-a-at-a-glance.webp" width="900" height="631" alt="Unit 3 is a two-hour open-book paper worth 50 marks: Section A Poetry is 20 marks and Section B comparative prose 30, so time is allocated roughly in proportion. Section A is one compulsory essay on one unseen post-1900 poem printed in a Source Booklet, with no comparison. It is assessed on AO1 and AO2 only; AO3 and AO4 are not assessed." loading="lazy">
+  <figcaption>One compulsory essay on one unseen poem: 20 marks, AO1 and AO2 only.</figcaption>
+</figure>
+
 ## Eight-step reading sequence
 
 1. Situation and voice.
@@ -48,6 +53,11 @@ Literature (YET01). For the full method and an annotated example, use the
 6. Sound and rhythm.
 7. The ending: what has changed?
 8. Thesis, including an ambiguity if there is one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-poetry--03-reading-sequence.webp" width="900" height="652" alt="Eight numbered steps for about ten minutes of planning: situation and voice, a one-sentence first impression, shape, movement and the turn, language clusters, sound and rhythm, the ending, and a thesis that ideally includes an ambiguity. Then plan four or five paragraphs following the poem’s movement or main methods." loading="lazy">
+  <figcaption>Eight quick reads, from situation and voice to a thesis with an ambiguity.</figcaption>
+</figure>
 
 ## Forms you might meet
 
@@ -61,6 +71,11 @@ Literature (YET01). For the full method and an annotated example, use the
 | Elegy | Lament for the dead | Movement from grief towards (or away from) consolation |
 | Lyric | Short, personal, often first person | Voice and feeling; the moment captured |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-poetry--04-handling-difficulty.webp" width="900" height="599" alt="Four cards: recognise forms such as the sonnet without forcing them, and treat a broken pattern as your point; free verse is still shaped by line breaks, white space and stanza lengths; offer a tentative reading of difficult lines and support it from the rest of the poem; and explain ambiguity, which earns credit. Tentative phrases such as “this may suggest” and “one reading is” are shown, with a warning against unsupported symbolic readings." loading="lazy">
+  <figcaption>Be tentative with difficulty, precise about form, and never overreach.</figcaption>
+</figure>
+
 ## Spotting the turn
 
 | Signal | Example of what to look for |
@@ -71,6 +86,11 @@ Literature (YET01). For the full method and an annotated example, use the
 | Conjunction | "But", "Yet", "Now" at a line or stanza opening |
 | Stanza break | A white-space pause before a new attitude |
 | Tone | Description becoming reflection or protest |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-poetry--05-worked-poem-movement.webp" width="900" height="722" alt="The guide’s original three-stanza poem, The Lighthouse Keeper’s Daughter, with each stanza labelled. Stanza 1, the past: the father climbs the steps and the child counts the sounds. Stanza 2, his silent care: gestures at breakfast rather than words. Stanza 3, the present: the light is automated and no one climbs. The overall reading is that losing the father and losing a way of life become one absence." loading="lazy">
+  <figcaption>Past, silent care, present: the stanza structure carries the reading.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -103,6 +123,11 @@ Answering these turns "the poet uses a metaphor" into analysis of how meaning is
 
 Point on the question focus → short quotation → method → effect → link to your thesis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-poetry--07-building-the-essay.webp" width="900" height="547" alt="The essay runs from an introduction (situation, overall reading, structure) through four or five body paragraphs grouped by function to a conclusion on what the ending leaves and an alternative reading. Each paragraph moves from a point on the question focus to a short quotation, method, effect and link to the overall reading. Three crossed-out mistakes: context or biography, comparison with Unit 1, and line-by-line commentary." loading="lazy">
+  <figcaption>Group lines by function and link every paragraph back to the overall reading.</figcaption>
+</figure>
+
 ## Writing with discrimination: weak to strong
 
 **Weak:** *"The poet uses enjambment to make the poem flow."*
@@ -111,6 +136,11 @@ Point on the question focus → short quotation → method → effect → link t
 to stand alone in the place where the father used to be."*
 
 The stronger sentence names a specific instance, explains the effect and links it to meaning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-poetry--06-annotated-final-stanza.webp" width="900" height="807" alt="The final stanza of the guide’s original poem with five numbered features. 1: the flat pronoun and present tense of “They have automated it now”. 2: short sentences reduce the father’s labour to a mechanism. 3: enjambment after “box” isolates it, as if a coffin. 4: the reversal of the opening into hearing steps “that no one takes”. 5: the half-rhyme of “wide awake” and “takes” suggests memory as sleeplessness." loading="lazy">
+  <figcaption>Tense, syntax, enjambment, paradox and rhyme, each tied to meaning.</figcaption>
+</figure>
 
 ## Time
 

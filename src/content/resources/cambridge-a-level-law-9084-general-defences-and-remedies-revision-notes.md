@@ -47,6 +47,11 @@ Knowledge alone is not enough (Smith v Baker, 1891).
 | Passengers in cars | Defence excluded | s149 Road Traffic Act 1988 |
 | Drunk pilot | Defence succeeded | Morris v Murray (1991) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-general-defences-and-remedies--01-volenti.webp" width="900" height="635" alt="Volenti requires full knowledge and understanding of the risk and free agreement to accept it; knowledge alone is not enough (Smith v Baker). Four panels apply it to employment (Bowater; ICI v Shatwell), medical treatment, sport (Condon v Basi; Wooldridge v Sumner), and its limits for rescuers, Nettleship, car passengers under s149, with Morris v Murray where it succeeded." loading="lazy">
+  <figcaption>Knowing of a risk is not the same as agreeing to run it.</figcaption>
+</figure>
+
 ### Contributory negligence (partial defence)
 
 - **Statute:** Law Reform (Contributory Negligence) Act 1945, s1(1); damages reduced as just and
@@ -58,6 +63,16 @@ Knowledge alone is not enough (Smith v Baker, 1891).
 - **Drunk driver:** Owens v Brimmell (1977).
 - **No 100 per cent reduction:** Pitts v Hunt (1991).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-general-defences-and-remedies--02-contributory-negligence.webp" width="900" height="503" alt="A damages bar split into the part the claimant recovers and the part removed for their own fault, with a note that the reduction can never be 100 per cent (Pitts v Hunt). Four panels: the fault need only contribute to the damage (Froom v Butcher; O’Connell v Jackson); the test is objective (Jones v Livox); children are judged by age (Gough v Thorne); accepting a lift from a drunk driver can count (Owens v Brimmell)." loading="lazy">
+  <figcaption>The claimant still wins, but damages fall by their share of responsibility.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-general-defences-and-remedies--07-tariq-worked-example.webp" width="900" height="582" alt="Volenti is excluded by s149 of the Road Traffic Act 1988, but contributory negligence applies twice (Owens v Brimmell; Froom v Butcher). Bars to scale show the £60,000 total loss (£18,000 special, £42,000 general) and a 30 per cent reduction of £18,000, leaving an award of £42,000." loading="lazy">
+  <figcaption>Total the losses, apply the reduction, state the award.</figcaption>
+</figure>
+
 ### Other general defences
 
 | Defence | Meaning | Authority |
@@ -67,6 +82,11 @@ Knowledge alone is not enough (Smith v Baker, 1891).
 | Statutory authority | Inevitable result of an authorised activity | Allen v Gulf Oil Refining (1981) |
 | Illegality | Claim arising from the claimant's serious wrongdoing | Pitts v Hunt (1991); Gray v Thames Trains (2009); Patel v Mirza (2016); contrast Revill v Newbery (1996) |
 | Necessity | Action to prevent greater harm | Cope v Sharpe (1912); Rigby v Chief Constable of Northamptonshire (1985) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-general-defences-and-remedies--03-other-defences.webp" width="900" height="646" alt="A table of five general defences, each with its meaning, case and limit: inevitable accident (Stanley v Powell), Act of God (Nichols v Marsland against Greenock), statutory authority (Allen v Gulf Oil, not negligent performance), illegality (Pitts v Hunt, Gray v Thames Trains; not automatic, Revill v Newbery, Patel v Mirza) and necessity (Cope v Sharpe; Rigby)." loading="lazy">
+  <figcaption>Each defence has a limit: learn the contrasting case with the leading one.</figcaption>
+</figure>
 
 ## 4.4.2 Remedies: condensed recall
 
@@ -108,6 +128,21 @@ tariffs for minor claims.
 | Mandatory | Require positive action; strict conditions | Redland Bricks v Morris (1970) |
 | Interlocutory | Preserve position before trial | American Cyanamid v Ethicon (1975) |
 | Damages in lieu | Money instead of an injunction | Shelfer (1895); Coventry v Lawrence (2014); Miller v Jackson (1977); Dennis v MoD (2003) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-general-defences-and-remedies--04-types-of-damages.webp" width="900" height="827" alt="A tree. Compensatory damages restore the claimant (Livingstone v Rawyards) and divide into special damages, quantifiable losses to trial, and general damages such as pain, suffering, loss of amenity and future losses. Other kinds of damages are nominal, contemptuous (Grobbelaar, £1), aggravated, which compensate extra injury to feelings, and exemplary, which punish, the last only in the three Rookes v Barnard categories." loading="lazy">
+  <figcaption>Most damages compensate; exemplary damages punish, and only in three categories.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-general-defences-and-remedies--05-future-loss-and-death.webp" width="900" height="648" alt="Future loss is calculated as the multiplicand (annual loss of earnings or care) times the multiplier (the period of loss), adjusted by a discount rate. Alternatives to a final lump sum are periodical payments under the Damages Act 1996 and provisional damages. On death, the 1934 Act lets the estate continue claims and the Fatal Accidents Act 1976 compensates dependants and certain relatives." loading="lazy">
+  <figcaption>Annual loss times period of loss; the lump sum is final unless the court orders otherwise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-general-defences-and-remedies--06-injunctions.webp" width="900" height="689" alt="Three kinds of injunction: prohibitory (Kennaway v Thompson), mandatory (Redland Bricks v Morris) and interlocutory (American Cyanamid). Damages in lieu moved from the strict Shelfer test to Coventry v Lawrence, where public interest can be weighed (Miller v Jackson; Dennis v MoD). The evaluation row weighs stopping continuing wrongs against bluntness and buying the right to commit a tort." loading="lazy">
+  <figcaption>Injunctions are discretionary; since Coventry v Lawrence damages in lieu are weighed more flexibly.</figcaption>
+</figure>
 
 ## Key terms
 

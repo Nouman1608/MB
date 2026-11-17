@@ -49,6 +49,11 @@ culture contribute to forming an identity? -- is a useful key question to apply 
 whether written, audio, visual or audio-visual, rather than a fixed
 list of facts to memorise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-identities--01-identities-theme-map.webp" width="900" height="576" alt="The Identities theme, which explores the nature of the self and what it means to be human, is linked to five recommended topics: lifestyles, health and well-being, beliefs and values, subcultures, and language and identity. Below, the key question how do language and culture contribute to forming an identity is shown as a lens for any text." loading="lazy">
+  <figcaption>Five recommended topics and one key question to apply to any text.</figcaption>
+</figure>
+
 ## Vocabulary and comprehension practice
 
 Because Paper 2's reading and listening sections are worth 50%
@@ -60,6 +65,11 @@ needed to talk about the theme yourself. A student who can discuss
 Identities fluently in speaking practice but has not built
 comprehension vocabulary for it separately is only prepared for half
 of what the exam actually tests.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-identities--02-receptive-half.webp" width="900" height="575" alt="A balance with two equal pans of 50 percent. Paper 2 listening and reading, on unseen texts, weighs the same as Paper 1 writing and the oral together. A note says fluent speaking on Identities does not automatically transfer to comprehension of unseen texts." loading="lazy">
+  <figcaption>Paper 2 alone weighs as much as writing and the oral together: build comprehension vocabulary too.</figcaption>
+</figure>
 
 ## Worked example: applying the key question to an unseen text
 
@@ -74,6 +84,11 @@ when, why -- to this broader theme question, rather than only
 extracting isolated facts. Practising this connection, specific detail
 to broader theme question, under timed conditions is more useful
 preparation than memorising vocabulary lists in isolation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-identities--03-detail-to-key-question.webp" width="900" height="469" alt="Three linked cards: the surface content (traditional dress has changed over time), the specific detail to find (what changed, when and why), and the broader theme question (how the change reflects a shift in how the community's identity is expressed across generations). Below, only extracting facts is contrasted with connecting detail to theme." loading="lazy">
+  <figcaption>The skill tested is linking a specific detail to the broader theme question.</figcaption>
+</figure>
 
 ## Text types and register
 
@@ -90,6 +105,11 @@ explicitly neither prescriptive nor exhaustive) and is instead given by
 that session's examination instructions -- format and register are
 assessed alongside content, so a well-argued response written in the
 wrong text-type conventions still loses marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-identities--04-text-type-categories.webp" width="900" height="432" alt="Three cards show the broad text-type categories with examples: personal (blog post, diary entry, letter to a friend), highlighted as often suiting Identities; professional (formal letter, report); and mass media (article, interview). A note says the exam instructions set the text type and register is assessed alongside content." loading="lazy">
+  <figcaption>Personal texts often suit Identities, but the exam sets the type and conventions are marked.</figcaption>
+</figure>
 
 ## The individual oral connection
 
@@ -134,6 +154,11 @@ personal values that ignores the required text-type conventions (a
 blog post's informal, first-person voice versus a formal letter's
 conventions, for instance) is marked down even where the content
 itself is strong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-identities--05-pitfalls-and-fixes.webp" width="900" height="436" alt="A table pairs three pitfalls with fixes: summarising surface content instead of connecting to the key question; assuming speaking practice guarantees comprehension instead of practising unseen texts; and ignoring register instead of following the text type's conventions." loading="lazy">
+  <figcaption>Apply the theme as a lens, practise unseen texts, and respect text-type conventions.</figcaption>
+</figure>
 
 ## A note on assessment weighting
 

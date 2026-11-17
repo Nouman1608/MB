@@ -67,6 +67,11 @@ People also **identify** with groups. An **individual identity** is how a person
 **collective identity** is a shared sense of belonging, such as a national, religious or ethnic
 identity, that can unite people and mark boundaries with others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--01-classifying-differences.webp" width="900" height="718" alt="Ten tiles: social class, status, caste, slavery, sex and gender, race and ethnicity, age and cohort, religion, ability or disability, and nationality. Some positions are ascribed at birth, such as caste; others are achieved. Below, individual identity is how a person sees themselves; collective identity is a shared sense of belonging." loading="lazy">
+  <figcaption>People are grouped in many ways; some positions are fixed at birth, others achieved.</figcaption>
+</figure>
+
 ## What are inequalities in power and life chances?
 
 **Life chances** are a person's opportunities to achieve the good things in life. Inequalities show in
@@ -80,6 +85,11 @@ ethnicity and other differences combine, so a person's experience cannot be unde
 one in isolation. Crenshaw showed that Black women could face discrimination that neither a "race"
 nor a "sex" discrimination claim alone recognised. Inequalities affect individuals (stress, poorer
 health, fewer opportunities) and society (lost talent, social conflict, lower trust).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--02-intersectionality.webp" width="900" height="725" alt="Three overlapping circles for class, gender and ethnicity, with one person at the centre where they meet. A note explains Crenshaw’s 1989 point that Black women could face discrimination that neither a race nor a sex claim alone recognised." loading="lazy">
+  <figcaption>Class, gender and ethnicity combine, so no one difference explains a person’s experience.</figcaption>
+</figure>
 
 ## How do Marxists, functionalists and Weberians explain social class?
 
@@ -110,6 +120,21 @@ within one person's lifetime; **intergenerational** mobility compares a person w
 Factors include education, family background, gender, ethnicity, the availability of jobs, and
 economic change such as the growth of professional work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--03-three-views-of-class.webp" width="900" height="549" alt="Three cards. Marx: the bourgeoisie exploit the proletariat, who accept it through false consciousness. Davis and Moore: class inequality is a functional necessity in a meritocracy. Weber: class, status and party are separate dimensions, and a person can rank differently on each. Each card ends with an evaluation point." loading="lazy">
+  <figcaption>Marx sees conflict, functionalists see necessity, Weber sees three dimensions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--04-income-wealth.webp" width="900" height="622" alt="Left: income is a flow of money, like water from a tap: wages, benefits and interest. Right: wealth is a stock of assets, like a full tank: property, savings and shares. Wealth is usually distributed far more unequally than income." loading="lazy">
+  <figcaption>Income flows in; wealth is what you hold. Wealth is the more unequal of the two.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--05-social-mobility.webp" width="900" height="703" alt="Two panels with class levels. Intergenerational mobility compares a child with a parent, here moving upward from a lower class. Intragenerational mobility follows one person over their working life, here moving downward. Below, factors affecting mobility." loading="lazy">
+  <figcaption>Compare with parents for intergenerational mobility; with your own past for intragenerational.</figcaption>
+</figure>
+
 ## How do feminists explain gender inequality?
 
 Feminists argue society is **patriarchal** — organised in ways that give men more power. **Sylvia
@@ -123,6 +148,11 @@ The **roles, status and power** of men and women vary between societies, which s
 socially constructed. **Sexism** is prejudice based on sex; **sex discrimination** is unequal treatment
 because of it. The **glass ceiling** is the invisible barrier that stops women reaching the most senior
 positions in employment even when they are qualified.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--06-walby-connell.webp" width="900" height="630" alt="Top: Walby’s shift from private patriarchy, based in the home, to public patriarchy, where women are in paid work and public life but still disadvantaged, with her six structures. Bottom: Connell’s hegemonic masculinity as the top of a pyramid, ranked above other men and above women." loading="lazy">
+  <figcaption>Walby shows patriarchy moving into public life; Connell shows a ranking of masculinities.</figcaption>
+</figure>
 
 ## How do race and ethnicity create inequality?
 
@@ -141,6 +171,11 @@ cultures coexisting with equal respect); **diasporas** (communities dispersed fr
 who keep links with it); and **hybrid identities** (identities that blend elements of more than one
 culture).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--07-ethnicity-key-terms.webp" width="900" height="805" alt="Four panels. Assimilation: a small group merges into the majority culture. Multiculturalism: different cultures sit side by side with equal respect. Diaspora: communities spread from a homeland keep links to it. Hybrid identity: two cultures blend. Below, the difference between race and ethnicity." loading="lazy">
+  <figcaption>Assimilation, multiculturalism, diasporas and hybrid identities are different ways cultures meet.</figcaption>
+</figure>
+
 ## What attempts have been made to reduce inequality?
 
 - **Marxism** argues inequality can only be eliminated by **abolishing capitalism** and replacing it
@@ -152,6 +187,11 @@ culture).
 - **Development aid** transfers money, expertise or goods from richer to poorer countries to reduce
   global inequality. Supporters credit it with improvements in health and education; critics argue it
   can create dependency or serve donors' interests.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--08-reducing-inequality.webp" width="900" height="436" alt="Three cards. Marxists would abolish capitalism for common ownership, though critics point to unfree societies that tried. Social democratic welfare states use progressive tax and universal services, narrowing gaps at high cost. Development aid transfers resources to poorer countries but can create dependency." loading="lazy">
+  <figcaption>From revolution to welfare to aid: each attempt has supporters and critics.</figcaption>
+</figure>
 
 ## Common mistakes
 

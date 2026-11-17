@@ -35,6 +35,16 @@ Condensed for the final weeks. For the full explanation, use the [criminal offen
 - **More on intervening acts**: a reasonable act of self-defence by a third party does not break the chain (*R v Pagett* [1983], where police shot a girl used as a human shield); the **free, deliberate and informed** act of an adult victim can break it (*R v Kennedy (No 2)* [2007], where the victim injected himself with drugs D had supplied).
 - **Answer order**: state the general rule (no liability for omissions), then the duty situation that applies, then whether D breached it and whether the breach caused the result.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--11-criminal-liability.webp" width="900" height="1000" alt="A Venn-style picture: actus reus (guilty act) on the left, mens rea (guilty mind) on the right, and criminal liability where they coincide. Notes list causation and omissions under actus reus, and intention and subjective recklessness under mens rea. A strip explains strict liability offences need no mens rea for at least one element." loading="lazy">
+  <figcaption>Criminal liability usually needs a guilty act and a guilty mind together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-criminal-offender--01-causation-chain.webp" width="900" height="569" alt="Two tests in order: factual causation, the but for test (R v White, where the victim died before the poison worked), then legal causation, an operating and substantial cause (R v Smith). Three cards show when the chain is not broken: the thin skull rule (Blaue), poor medical treatment unless palpably wrong or the wound is insignificant (Jordan, Cheshire), and a foreseeable escape (Roberts)." loading="lazy">
+  <figcaption>Prove &quot;but for&quot; and an operating and substantial cause; the chain is rarely broken.</figcaption>
+</figure>
+
 ## Mens rea (2.2.2) and strict liability (2.2.3)
 
 - **Direct intention**: aim or purpose (*Mohan* [1975]). **Oblique**: virtual certainty, appreciated by D (*Woollin* [1998]).
@@ -46,6 +56,11 @@ Condensed for the final weeks. For the full explanation, use the [criminal offen
   - **s 20**: a **wound** means breaking both layers of the skin (*JCC v Eisenhower* [1984]); **GBH** means really serious harm (*DPP v Smith* [1961]); D must foresee **some** harm, not serious harm (*R v Mowatt* [1968]).
   - **s 18**: wounding or causing GBH **with intent** to cause GBH (or to resist arrest), so it is a specific intent offence with a maximum of life imprisonment.
 - **Strict liability**: presumption of *mens rea* (*Sweet v Parsley* [1970]); *Gammon* [1985] test; *Callow v Tillstone* [1900]; *Harrow LBC v Shah* [1999].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-criminal-offender--02-mens-rea-oapa.webp" width="900" height="793" alt="Three OAPA 1861 offences with their mens rea: s 47 needs mens rea for the assault only, s 20 needs foresight of some harm and s 18 needs intention. Cards define direct intention (Mohan), oblique intention (Woollin) and subjective recklessness (Cunningham, R v G), then transferred malice (Latimer, but not Pembliton) and coincidence (Fagan)." loading="lazy">
+  <figcaption>Similar actus reus, different mens rea: s 47, s 20 and s 18 are separated by the mental element.</figcaption>
+</figure>
 
 ## Property offences (2.2.4 to 2.2.7)
 
@@ -78,10 +93,25 @@ Condensed for the final weeks. For the full explanation, use the [criminal offen
 - **Fraud by false representation (s 2)**: the representation may be express or implied, about fact, law or a state of mind; the offence is complete when the representation is made, even if no one is deceived and nothing is gained.
 - **Criminal damage**: damage need not be permanent if it costs time or money to put right (*Hardman v Chief Constable of Avon* [1986], water-soluble paint on a pavement).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--12-property-offences.webp" width="900" height="1108" alt="A table of seven property offences colour-grouped by statute. Theft Act 1968 covers theft (ss 1-6), robbery (s 8), burglary (s 9) and blackmail (ss 21, 34). Fraud Act 2006 covers fraud (ss 2, 5, 11). Theft Act 1978 covers making off without payment (s 3). Criminal Damage Act 1971 covers criminal damage (s 1)." loading="lazy">
+  <figcaption>Each property offence belongs to a named Act and section; do not mix up the 1968 and 1978 Theft Acts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-criminal-offender--03-theft-elements.webp" width="900" height="658" alt="Five rows give the elements of theft with their sections and cases: dishonestly (s 2, Ivey test and the s 2 exceptions), appropriates (s 3, Morris and Gomez), property (s 4), belonging to another (s 5, including s 5(4)) and intention permanently to deprive (s 6, Lloyd on borrowing)." loading="lazy">
+  <figcaption>Dishonesty, appropriation, property, belonging to another, intention to permanently deprive: ss 2 to 6.</figcaption>
+</figure>
+
 ## Defences (2.2.8, 2.2.9)
 
 - **Duress**: threat of death or serious injury; *Graham* [1982] test; not for murder (*Howe* [1987]) or attempted murder (*Gotts* [1992]); lost by voluntary association (*Hasan* [2005]). **Of circumstances**: *Willer* [1986]; *Martin* [1989].
 - **Intoxication**: voluntary, no defence to basic intent (*Majewski* [1977]); Dutch courage (*Gallagher* [1963]); involuntary only if no *mens rea* formed (*Kingston* [1994]; *Hardie* [1985]).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-criminal-offender--04-duress-intoxication.webp" width="900" height="683" alt="Duress of threats: a threat of death or serious injury, then the two-stage Graham test, subjective then objective. It is not available for murder (Howe) or attempted murder (Gotts) and is lost on voluntary association with criminals (Hasan); duress of circumstances uses the same test. Intoxication: voluntary is no defence to basic intent (Majewski); involuntary helps only if mens rea was not formed (Kingston, Hardie)." loading="lazy">
+  <figcaption>Duress needs both Graham stages and never covers murder; intoxication rarely helps if intent was formed.</figcaption>
+</figure>
 
 ## Sentencing (2.2.10)
 
@@ -90,6 +120,11 @@ Custody (so serious nothing else will do; may be suspended); community orders (r
 **Purposes of sentencing** for adults (Criminal Justice Act 2003, s 142, the Act the specification names; now restated in s 57 of the Sentencing Act 2020): punishment; reduction of crime, including by deterrence; reform and rehabilitation; protection of the public; and reparation by offenders to those affected. Courts follow **Sentencing Council guidelines**, assessing **culpability** and **harm**, then adjusting for **aggravating** factors (such as previous convictions or offences against vulnerable victims) and **mitigating** factors (such as genuine remorse or good character).
 
 **Evaluating sentences**: custody protects the public but is expensive and may not rehabilitate; community orders allow reparation and keep employment and family ties, but may be seen as soft; fines are cheap to administer but depend on the offender's means.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-criminal-offender--05-sentencing.webp" width="900" height="694" alt="Four sentence types stacked from most to least severe: custody (only where nothing less can be justified, may be suspended), community orders with requirements, fines set by seriousness and means, and conditional or absolute discharges. Below, the court considers seriousness, aggravating and mitigating factors, and up to one third off for an early guilty plea." loading="lazy">
+  <figcaption>Custody is the last resort; seriousness, aggravation, mitigation and plea set the level.</figcaption>
+</figure>
 
 ## Worked problem example
 

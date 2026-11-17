@@ -68,6 +68,16 @@ The first five are the syllabus's own definitions. Claim to vested interest are 
 | National | How should public service broadcasters be funded? How far should broadcasting be regulated? |
 | Local | A local paper closes; online-only notices leave some residents out; rumours spread in group chats |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--01-media-issues-levels.webp" width="900" height="677" alt="Rings show media issues locally (local papers closing, rumours in messaging groups), nationally (funding public service broadcasters, minority languages on air) and globally (false information crossing borders, journalists’ safety). Below, definitions of misinformation, disinformation and media literacy." loading="lazy">
+  <figcaption>Media issues can be found at every level, from a local paper to global press freedom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--03-local-news-chain.webp" width="900" height="473" alt="A chain: advertising money moves online, so papers have less income, so reporters are cut, so fewer council meetings and courts are reported. Other causes are falling print sales and merged titles; further consequences are less checking of local decisions and more reliance on unverified posts." loading="lazy">
+  <figcaption>Linked steps show how one change leads to the next.</figcaption>
+</figure>
+
 ## Perspectives at a glance
 
 | Group | What they usually want | Why |
@@ -82,6 +92,11 @@ The first five are the syllabus's own definitions. Claim to vested interest are 
 
 To turn a row into a perspective, add evidence and reasoning: who says it, what they base it on and what they gain or lose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--02-media-stakeholders.webp" width="900" height="728" alt="Seven groups around a media issue, each with its concern and reason: journalists, media owners, governments, advertisers, technology platforms, audiences and minority-language communities. Below, Article 19 of the Universal Declaration of Human Rights is used to support both less regulation and more support for independent media." loading="lazy">
+  <figcaption>Ask who gains, who loses and who decides; the same source can back opposite views.</figcaption>
+</figure>
+
 ## Evidence and cases at a glance
 
 | Who / what | What happened | Finding or outcome | One evaluation point |
@@ -91,6 +106,16 @@ To turn a row into a perspective, add evidence and reasoning: who says it, what 
 | Canada, Online News Act (Royal Assent 22 June 2023) | A similar payment law | Meta began ending news on its platforms in Canada in August 2023; Google agreed to give C$100 million a year, indexed to inflation | Same law, opposite responses from two companies |
 | Universal Declaration of Human Rights, Article 19 (1948) | The right to "seek, receive and impart information and ideas through any media" | Used by different sides of media debates | One value can support different perspectives |
 | UNESCO, Global Media and Information Literacy Week | Held each October | Promotes media and information literacy | Raises awareness, but its effect on behaviour is hard to measure |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--04-agenda-setting.webp" width="900" height="642" alt="McCombs and Shaw (1972) found that the issues undecided voters in Chapel Hill rated most important during the 1968 US presidential campaign closely matched the issues the media covered most. Three limitations: a link is not cause, the sample was one town, and it predates online news." loading="lazy">
+  <figcaption>A strong link is still not proof of cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--06-platforms-pay-for-news.webp" width="900" height="678" alt="Two columns. Australia passed its News Media Bargaining Code in 2021; Facebook briefly blocked news in February 2021, then signed deals, and in 2024 Meta said it would not renew them. Canada’s Online News Act received Royal Assent on 22 June 2023; Meta ended news on its platforms there in August 2023, while Google agreed C$100 million a year. Results: new money for some news organisations, but reduced access to news on one platform." loading="lazy">
+  <figcaption>A law can bring money to news and also cut access to it.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -103,6 +128,11 @@ To turn a row into a perspective, add evidence and reasoning: who says it, what 
 - **Analyse vs evaluate**: analyse shows meaning and links. Evaluate judges quality or value.
 - **Individual Report vs Team Project**: a *global* issue that divides opinion (Component 2) versus a *local* issue the team acts on (Component 3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--05-vnb-trust-survey.webp" width="900" height="716" alt="A fictional broadcaster, VNB, claims 9 in 10 viewers trust it and that it is the country’s most trusted source. The evidence covers only its own viewers, so the claim jumps to a national comparison it never makes. Four steps evaluate it: vested interest, a sample that favours VNB, overstated wording, and the need for a random national sample." loading="lazy">
+  <figcaption>Use details from the source; “it is biased” on its own earns little.</figcaption>
+</figure>
+
 ## Mini essay plan: "assess actions" (Component 1 Question 4 style)
 
 *Question (original):* "Assess which action would best improve people's ability to judge the reliability of news."
@@ -113,6 +143,11 @@ To turn a row into a perspective, add evidence and reasoning: who says it, what 
 4. **Action 3, stricter regulation of broadcasters**: clear rules on accuracy. Limits: concerns about free expression and who enforces the rules; it does not cover every source.
 5. **Use the sources**: quote evidence for each action and judge how reliable it is.
 6. **Weigh and conclude**: explain why your choice is better, for example "works best combined with fact-checking for adults", and give one condition under which your judgement would change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--07-media-actions.webp" width="900" height="590" alt="A table of four actions with a strength and a weakness: media literacy teaching, independent fact-checking, public funding for public service or local media, and community action. Below, five questions to judge any action: how well it would work, cost, who gains, who loses and whether it could be done." loading="lazy">
+  <figcaption>Each action trades speed, reach, cost and independence differently.</figcaption>
+</figure>
 
 ## Quick self-test
 

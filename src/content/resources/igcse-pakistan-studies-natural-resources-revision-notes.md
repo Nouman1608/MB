@@ -35,6 +35,11 @@ without running the resource down? Structure every answer around:
 what is it used for → what damages it → what would make its use
 sustainable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-natural-resources--03-revision-frame.webp" width="900" height="546" alt="A table with one row each for water, forests, minerals and fish, and columns for what the resource is used for, what damages it, what would make its use sustainable, and a named, located example to learn." loading="lazy">
+  <figcaption>Ask the same three questions of every resource, then add a named place.</figcaption>
+</figure>
+
 ## (a) Water
 
 | Fact | Detail |
@@ -96,6 +101,11 @@ Every resource represents **both** an opportunity for development
 structured questions are actually testing, not rote recall of four
 separate lists.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-natural-resources--01-four-themes.webp" width="900" height="675" alt="Section 2, Natural resources, sits at the centre of four linked themes: the problems and opportunities of a developing country, effects on and conservation of the environment, sustainable development, and feasibility studies." loading="lazy">
+  <figcaption>Section 2 is where Paper 2’s four recurring themes are introduced.</figcaption>
+</figure>
+
 ## Worked example: connecting two resources in one answer
 
 A question asks: "Explain how deforestation can affect Pakistan's
@@ -119,6 +129,11 @@ This four-step chain answer scores far better than two separate,
 unconnected paragraphs on deforestation and on dams, because it
 demonstrates the exact "resources are interlinked" understanding
 Section 2's structured questions are designed to test.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-natural-resources--02-how-the-parts-connect.webp" width="900" height="705" alt="Water sits at the centre. Deforestation causes soil erosion, silting and flooding and speeds up the silting of dams and barrages, reducing their storage. Mineral extraction and inland fish farming both depend on water supply and quality." loading="lazy">
+  <figcaption>Linking the four resources turns separate lists into one argument about sustainability.</figcaption>
+</figure>
 
 ## Exam traps
 
@@ -148,9 +163,19 @@ against benefits, not simply listed one after another. A list of
 "advantages" followed by a separate list of "disadvantages" with no
 comparison between them under-performs a genuinely weighed conclusion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-natural-resources--04-identify-vs-evaluate.webp" width="900" height="484" alt="Two cards compare command words. “Identify” wants a named location or fact. “Evaluate” wants an environmental cost weighed against a development benefit, shown as a balance, and a judgement rather than a list." loading="lazy">
+  <figcaption>Identify names; evaluate weighs and judges.</figcaption>
+</figure>
+
 ## How is this section examined?
 
 This content is examined on Cambridge Paper 2, The environment of Pakistan (1 hour 30 minutes, 75 marks, 50% of the qualification). You answer three questions from a choice of five; each is worth 25 marks and has four parts, (a) to (d), built around resources such as maps, graphs, tables and photographs. Part (d) specifically tests analysis and evaluation, so finish every revision topic by practising a judgement: for example, how sustainable a resource or a policy is, with evidence for and against.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-natural-resources--05-paper-2-structure.webp" width="900" height="551" alt="Paper 2 lasts 1 hour 30 minutes, is worth 75 marks and 50% of the qualification. Candidates answer three of five questions, each worth 25 marks in four parts, (a) to (d), built around maps, graphs, tables and photographs. Part (d) tests analysis and evaluation." loading="lazy">
+  <figcaption>Three questions, four parts each, ending with an evaluation in part (d).</figcaption>
+</figure>
 
 ## Named examples to learn
 

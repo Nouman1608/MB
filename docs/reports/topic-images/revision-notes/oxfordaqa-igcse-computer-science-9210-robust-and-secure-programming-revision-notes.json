@@ -1,0 +1,8 @@
+{ "page": "oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming--01-robust-and-secure.webp", "after": "## Validation essentials"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming--03-validation-checks.webp", "after": "## Validation essentials"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming--02-validation-loop.webp", "after": "## Two loop templates"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming--04-authentication-routine.webp", "after": "## Authentication essentials"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming--05-test-data-quantity.webp", "after": "## Test data"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming--06-password-test-plan.webp", "after": "## Test data"}
+] }

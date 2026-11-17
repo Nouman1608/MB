@@ -46,6 +46,11 @@ A **drainage basin** is the area drained by a river and its tributaries, bounded
 - **Throughflow** moves laterally through the soil towards the channel; **percolation** carries water down into rock to recharge groundwater, which feeds the river slowly as **baseflow**.
 - Quick flow (overland flow and fast throughflow) produces flood peaks; slow flow (baseflow) keeps rivers running in dry periods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--07-w-basin-system.webp" width="900" height="1160" alt="Cross-section of a drainage basin from a watershed on the left down to the sea on the right, with numbered parts and a key. Inputs and outputs: precipitation, evapotranspiration and discharge to the sea. Stores: interception on trees, soil moisture, groundwater and the river channel. Flows inside the basin: stemflow down the trunk, overland flow, infiltration into the soil, throughflow within the soil, percolation down to groundwater and baseflow back into the river." loading="lazy">
+  <figcaption>A drainage basin is an open system with inputs, stores, internal flows and outputs.</figcaption>
+</figure>
+
 ## Water balance
 
 **P = Q + E +/- change in storage** (precipitation = runoff/discharge + evapotranspiration +/- storage).
@@ -55,6 +60,11 @@ A **drainage basin** is the area drained by a river and its tributaries, bounded
 - Worked check: P = 920 mm, Q = 410 mm, E = 480 mm gives storage +30 mm; runoff ratio Q/P = 0.446.
 
 A seasonal water budget graph shows a **soil moisture surplus** when precipitation exceeds evapotranspiration (often winter in mid-latitudes), **utilisation** when plants draw on stored moisture, a **deficit** when the store is used up, and **recharge** when rain returns.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--08-w-water-balance.webp" width="900" height="1000" alt="A worked example of the water balance for an illustrative basin. Precipitation of 920 mm splits into runoff Q of 410 mm, evapotranspiration E of 480 mm and a change in storage of plus 30 mm, because 920 minus 410 minus 480 is 30. Below, two bars show the runoff ratio: this basin 410 divided by 920 gives 0.446, while a neighbouring urban basin at 0.65 sends more of its rain away quickly, raising flood risk." loading="lazy">
+  <figcaption>Precipitation equals runoff plus evapotranspiration plus change in storage; the example basin stores 30 mm and has a runoff ratio of 0.446.</figcaption>
+</figure>
 
 ## Discharge
 
@@ -78,6 +88,11 @@ Example from the study guide: rainfall peak 06:00, discharge peak 10:30 gives la
 
 Why the factors matter: a **circular basin** delivers water from all tributaries to the main channel at about the same time, while an **elongated basin** staggers arrival. **High drainage density** (many channels per square kilometre) shortens the distance water travels over land. **Interception** by forest delays and reduces the water reaching the ground.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--09-w-hydrograph.webp" width="900" height="930" alt="A storm hydrograph plotting discharge against time, with a rainfall peak at 06:00 marked above. The first curve, before land-use change, rises slowly to a peak at 10:30, a lag time of 4.5 hours. The second curve, after woodland is cleared and drains are built, has a steeper rising limb and a higher peak at 08:00, a lag time of 2 hours, which is a flashy response. Baseflow, rising limb, peak discharge and falling limb are labelled." loading="lazy">
+  <figcaption>Clearing woodland and building drains shortens lag time and raises the peak, giving a flashy response.</figcaption>
+</figure>
+
 ## River processes and landforms
 
 - **Erosion:** hydraulic action, abrasion, attrition, solution.
@@ -97,6 +112,11 @@ The upper line is the **critical erosion velocity**: the speed needed to pick up
 - **Levee:** when a river overtops its banks, velocity drops sharply at the channel edge, so the coarsest sediment is deposited first, building raised banks; finer silt is spread across the floodplain.
 - **Waterfall:** a river crosses resistant rock overlying weaker rock; the weaker rock is undercut, a plunge pool forms, the overhang collapses and the fall retreats upstream, leaving a **gorge**. Niagara Falls is a well-known example of retreat.
 - **Delta:** where a river enters the sea or a lake, velocity falls and sediment is deposited faster than waves and tides remove it; in salt water fine clays clump together (**flocculation**) and settle. Shapes include arcuate (the Nile) and bird's foot (the Mississippi).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--10-w-bradshaw.webp" width="900" height="960" alt="A river drawn from source to mouth, getting wider downstream, with three channel cross-sections (upper, middle, lower) that get wider and deeper while the bed stones get smaller and fewer. Six tiles summarise the Bradshaw model: discharge, width, depth and velocity increase downstream, while particle size and channel roughness decrease. Real rivers often depart from the model." loading="lazy">
+  <figcaption>Downstream, discharge, width, depth and velocity increase while particle size and roughness decrease.</figcaption>
+</figure>
 
 ## Model paragraph
 

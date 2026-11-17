@@ -57,6 +57,16 @@ Paper 1 is set on the core topics, so any of these can anchor a set of sources. 
 | Collective security | All members of a system act against any member that commits aggression (the UN model) |
 | Collective defence | Allies defend each other against an outside attack (NATO's Article 5) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--01-three-dimensions.webp" width="900" height="648" alt="Interdependence, mutual reliance on access to the resources that sustain ways of life, has three dimensions: economic (trade, investment, supply chains, energy), security (defence arrangements, alliances, arms control) and sustainability (environmental treaties and shared resources)." loading="lazy">
+  <figcaption>Economic, security and sustainability links make actors rely on each other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--03-government-governance.webp" width="900" height="740" alt="Left: government, a single authority over parliament, police and courts that makes and enforces binding rules in a territory. Right: global governance, a network of states, IGOs, companies, NGOs and experts linked by rules and norms with no single authority. Examples include Security Council resolutions, the Paris Agreement, the Basel Accords, WTO agreements and regional bodies." loading="lazy">
+  <figcaption>There is no world government, only overlapping global governance.</figcaption>
+</figure>
+
 ## Sources of international law
 
 | Source | Creates law or identifies it? | Example |
@@ -66,6 +76,11 @@ Paper 1 is set on the core topics, so any of these can anchor a set of sources. 
 | General principles of law | Creates | Good faith |
 | Decisions of international, regional and national courts | Identifies | ICJ judgments |
 | Scholarly writings | Identifies | Leading legal commentaries |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--04-sources-of-international-law.webp" width="900" height="725" alt="Five sources: treaties, international custom, general principles of law, decisions of courts and scholarly writings. The first three, highlighted, create law; court decisions and scholarly writings are mainly used to identify what the law is." loading="lazy">
+  <figcaption>Three sources make international law; two help identify it.</figcaption>
+</figure>
 
 ## National and international law -- the three comparison points
 
@@ -91,6 +106,11 @@ Other organs       ECOSOC, ICJ, Secretariat, Trusteeship Council (inactive)
 - **11 in favour, 1 against (a permanent member), 3 abstentions.** Fails. Nine votes are reached, but the "no" is a veto.
 - **9 in favour, 0 against, 6 abstentions including two permanent members.** Passes. Abstention is not a veto, and nine votes are reached.
 - **8 in favour, 0 against, 7 abstentions.** Fails. Fewer than nine votes in favour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--05-security-council-vote.webp" width="900" height="670" alt="Fifteen seats: five permanent members with a veto and ten elected members. A substantive decision needs nine votes and no permanent-member veto; an abstention is not a veto. In 2011 China and Russia abstained and Resolution 1973 on Libya passed. In February 2022 Russia vetoed action on Ukraine, and the General Assembly passed a non-binding resolution under Uniting for Peace." loading="lazy">
+  <figcaption>Nine votes and no veto: the Council acts only when permanent members’ interests do not clash.</figcaption>
+</figure>
 
 ## Evaluating the UN -- method in steps
 
@@ -125,6 +145,11 @@ Other organs       ECOSOC, ICJ, Secretariat, Trusteeship Council (inactive)
 | Is it about trade, integration or regulating production? | Economic cooperation | WTO agreements, trade blocs |
 | Is there coordination without a formal agreement? | Informal cooperation | Extraordinary rendition; technology harmonisation; cultural exchange |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--06-forms-of-cooperation.webp" width="900" height="672" alt="A table of five forms of cooperation with examples: treaties such as the NPT and Montreal Protocol, collective security such as NATO and the OAS, strategic alliances, economic cooperation such as the WTO and AfCFTA, and informal cooperation. Below, the Montreal Protocol shows cooperation driven by interdependence and the NPT shows competition inside cooperation." loading="lazy">
+  <figcaption>Cooperation takes many forms, and most relationships mix it with competition.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **ICJ vs International Criminal Court.** The ICJ hears disputes between states; the ICC tries individuals.
@@ -132,6 +157,16 @@ Other organs       ECOSOC, ICJ, Secretariat, Trusteeship Council (inactive)
 - **Cooperation vs harmony.** Cooperation means adjusting behaviour despite different interests. If interests already match, no cooperation is needed.
 - **Interdependence vs dependence.** Interdependence is mutual; dependence is one-way. Most real cases sit between the two.
 - **Sensitivity vs vulnerability.** Being hit by a shock is sensitivity; being unable to adjust cheaply is vulnerability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--02-sensitivity-vulnerability.webp" width="900" height="605" alt="Actor A relies heavily on actor B, shown by a thick arrow, while B relies only a little on A, so B gains leverage. Below, Keohane and Nye’s distinction: sensitivity is how badly an actor is hit by a change elsewhere; vulnerability is how costly it is to adjust, and that is where power lies." loading="lazy">
+  <figcaption>The less dependent side gains leverage; vulnerability, not sensitivity, is where power lies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--07-collective-security-defence.webp" width="900" height="705" alt="Left: collective security, where all members of a system act against any member that commits aggression, the UN model. Right: collective defence, where allies defend each other against an outside threat, as in NATO’s Article 5." loading="lazy">
+  <figcaption>Security acts against an aggressor inside the system; defence acts against a threat outside it.</figcaption>
+</figure>
 
 ## Linking to the other key concepts
 

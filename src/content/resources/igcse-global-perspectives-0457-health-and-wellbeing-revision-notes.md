@@ -55,6 +55,11 @@ They follow the Cambridge IGCSE Global Perspectives (0457) syllabus for examinat
 | Public health | Action to protect the health of a whole population |
 | Health inequality | Differences in health between groups, such as rich and poor areas |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-health-and-wellbeing--01-who-definition-debate.webp" width="900" height="508" alt="The WHO Constitution defines health as complete physical, mental and social well-being, not merely the absence of disease. Critics say complete well-being is a bar almost nobody reaches; supporters say it reminds governments that mental and social health matter. Below, working definitions of wellbeing, public health and health inequality." loading="lazy">
+  <figcaption>Showing that a definition can be debated is itself good evaluation.</figcaption>
+</figure>
+
 ## Real examples at a glance
 
 Use these only as practice material or as research starting points. They earn no marks on their own.
@@ -69,6 +74,16 @@ Use these only as practice material or as research starting points. They earn no
 | Smallpox eradication (declared by WHO in 1980) | Global vaccination campaign | Strongest example of global health action | Few diseases are as easy to target |
 | Antimicrobial resistance | Bacteria becoming resistant to antibiotics; WHO calls it one of the top global public health threats | Clear causes and consequences across levels | Needs action by doctors, farmers and governments at once |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-health-and-wellbeing--04-antimicrobial-resistance.webp" width="900" height="729" alt="Four types of cause: individual, social and economic, environmental, and political. Below, three cause-consequence pairs for antimicrobial resistance: misuse of antibiotics in people makes infections harder to treat; use in farm animals spreads resistant bacteria; few new antibiotics leaves doctors fewer options and makes hospital stays longer and costlier." loading="lazy">
+  <figcaption>Name who is affected and how, not just that something is bad for health.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-health-and-wellbeing--06-sugar-tax-evaluation.webp" width="900" height="752" alt="Examples of sugary drinks taxes: Mexico’s one peso per litre from 2014 and the UK levy from April 2018, before which many manufacturers cut sugar. A balance weighs effectiveness (targets a clear source, changes recipes) against limits (people may switch to sweets; poorer families pay a larger share). On balance, it works best within a wider plan." loading="lazy">
+  <figcaption>A tax can work and still need other measures to be fair and complete.</figcaption>
+</figure>
+
 ## Perspectives to look for
 
 - **Patients and families**: cost, distance, waiting, dignity.
@@ -79,6 +94,11 @@ Use these only as practice material or as research starting points. They earn no
 - **Cultural and religious groups**: values about the body, diet and treatment.
 
 Always add **why**: the reason or value behind each view.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-health-and-wellbeing--03-marrow-clinics.webp" width="900" height="684" alt="A schematic map of the fictional region of Marrow: three village clinics are crossed out and dashed lines show longer journeys to one new large hospital in the main town. The health authority values quality and efficiency; older village residents, many of whom do not drive, value access and closeness." loading="lazy">
+  <figcaption>Behind two reasoned perspectives lie two different values.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -100,6 +120,11 @@ Always add **why**: the reason or value behind each view.
 6. Short-term or long-term?
 7. Does the conclusion go further than the data?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-health-and-wellbeing--05-calmleaf-advert.webp" width="900" height="757" alt="A fictional advert claims 9 out of 10 CalmLeaf users felt less stressed after two weeks. Three weaknesses: the seller has a vested interest, no sample size is given, and results are self-reported with no comparison group. Three explanations compete: the drops worked, people expected to feel better, or the weeks were calmer." loading="lazy">
+  <figcaption>Without a comparison group, you cannot tell whether the product caused the change.</figcaption>
+</figure>
+
 ## Mini plan: an "assess actions" answer
 
 Typical task: using several sources, evaluate two or more actions to improve young people's health, and decide which is most effective.
@@ -112,6 +137,11 @@ Typical task: using several sources, evaluate two or more actions to improve you
 6. **Conclusion**: a clear, reasoned judgement that follows from the points above.
 
 For the Individual Report, keep the same core: issue, perspectives, causes, consequences, courses of action, then one proposed course of action with how it would be put into practice and its likely impact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-health-and-wellbeing--02-sugary-drinks-levels.webp" width="900" height="644" alt="Three nested boxes: globally, a pattern seen in many countries; inside it, a national tax on sugary drinks; inside that, a local change in what the school canteen sells. A note adds that SDG 3 is a value statement about what should happen, not evidence of what is happening." loading="lazy">
+  <figcaption>A national response to a global pattern changes something local.</figcaption>
+</figure>
 
 ## Quick self-test
 

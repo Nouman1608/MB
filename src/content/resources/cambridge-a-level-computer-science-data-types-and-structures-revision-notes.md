@@ -66,6 +66,11 @@ Related: [Data Types and Structures study guide](/resources/cambridge-a-level-co
 
 An average should be REAL even if the inputs are integers (June 2025 examiners penalised averages declared as INTEGER).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--15-dt-data-types.webp" width="900" height="920" alt="Six cards for INTEGER, REAL, CHAR, STRING, BOOLEAN and DATE, and an illustrative phone number that keeps its leading zero as a STRING but loses it as an INTEGER." loading="lazy">
+  <figcaption>Choose the type that matches the values and operations needed.</figcaption>
+</figure>
+
 ## Records
 
 A record holds related data of **different** types under one identifier; each item is a field accessed with dot notation.
@@ -85,6 +90,11 @@ Library[1] ← Book
 OUTPUT Library[1].Pages
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--16-dt-record.webp" width="900" height="880" alt="A Pupil record of type TStudent with fields Name, Year and Average reached by dot notation, and an array of 30 TStudent records." loading="lazy">
+  <figcaption>A record groups fields of different types; an array of records holds a table.</figcaption>
+</figure>
+
 ## Arrays
 
 | Term | Meaning |
@@ -96,6 +106,11 @@ OUTPUT Library[1].Pages
 - Use a **1D array** for a single list (30 names); a **2D array** for a table (7 days × 24 hours of readings).
 - `DECLARE Readings : ARRAY[1:7, 1:24] OF REAL`; access with `Readings[Day, Hour]`.
 - An array holds elements of **one** data type; an array of records holds mixed data per element.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--17-dt-array-2d.webp" width="900" height="930" alt="A 3 by 4 table Sales with row 2 holding 12, 8, 15, 9; Sales[2,3] is 15; running totals 12, 20, 35, 44." loading="lazy">
+  <figcaption>A 2D array is a table; a loop over the columns adds up a row.</figcaption>
+</figure>
 
 ## Linear search and bubble sort
 
@@ -155,6 +170,11 @@ CLOSEFILE "Scores.txt"
 | WRITE | Create a new file; any existing data is lost |
 | APPEND | Add lines after the existing data |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--18-dt-file-modes.webp" width="900" height="1000" alt="OPENFILE, use, CLOSEFILE; WRITE replaces old lines, APPEND adds a new line after old lines, READ reads from line 1 until EOF." loading="lazy">
+  <figcaption>WRITE replaces, APPEND adds, READ reads from the first line.</figcaption>
+</figure>
+
 ## Abstract data types
 
 | ADT | Order | Operations | Typical use |
@@ -168,6 +188,21 @@ CLOSEFILE "Scores.txt"
 - **Stack**: a 1D array plus a **top-of-stack pointer**. Push: check not full, add 1 to the pointer, store the item. Pop: check not empty, read the item, subtract 1.
 - **Queue**: a 1D array plus **front** and **rear** pointers (and often a count). Enqueue at rear, dequeue from front. In a **circular** queue, a pointer that passes the upper bound wraps round to the lower bound, so freed space is reused; a linear queue does not wrap (June 2025, Papers 41 and 43).
 - **Linked list**: an array of data, a parallel array of **next pointers**, a **start pointer**, a **free list pointer** to unused nodes, and a null value (e.g. −1 or 0) marking the end.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--19-dt-stack-trace.webp" width="900" height="850" alt="Five snapshots of Stack[1:5] for push 7, push 12, push 5, pop (returns 5) and push 9 with TopOfStack 2, 3, 4, 3, 4." loading="lazy">
+  <figcaption>The pointer moves on push and pop; the data stays until overwritten.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--22-dt-linked-arrays.webp" width="900" height="800" alt="Parallel Data and Next arrays of five slots with Start 3 and a free list; following Next from Start gives 10, 20, 40, with slots 2 and 5 free." loading="lazy">
+  <figcaption>A linked list in two arrays follows Next pointers from the start; unused slots form a free list.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--20-dt-stack-queue.webp" width="900" height="950" alt="A stack (LIFO) pushes 1, 2, 3 and pops 3, 2, 1; a queue (FIFO) enqueues 1, 2, 3 and dequeues 1, 2, 3." loading="lazy">
+  <figcaption>A stack is last in, first out; a queue is first in, first out.</figcaption>
+</figure>
 
 ## Worked example: inserting into a linked list held in arrays
 
@@ -188,6 +223,11 @@ The list in order is Cairo → Lima → Oslo. Insert **Madrid** in alphabetical 
 3. Set Next[4] ← Next[1], which is 2; then Next[1] ← 4.
 
 New order: Cairo → Lima → Madrid → Oslo. No data was moved, only pointers changed. To **delete** Lima, set Next[3] ← Next[1] and return node 1 to the free list.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--21-dt-linked-insert.webp" width="900" height="770" alt="A linked list 10, 20, 40 with start pointer and null; node 30 is inserted by changing the pointers of 20 and 30 only." loading="lazy">
+  <figcaption>Inserting into a linked list changes pointers without shifting items.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

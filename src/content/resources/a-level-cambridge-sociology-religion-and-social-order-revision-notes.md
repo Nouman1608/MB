@@ -75,6 +75,16 @@ social order; **11.3** Religion as a source of social change.
 - **Other belief systems:** science, political ideologies, humanism — rivals or functional
   equivalents?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-religion-and-social-order--01-measuring-religiosity.webp" width="900" height="590" alt="Religiosity at the centre with five dimensions from Glock and Stark: belief, practice, experience, knowledge and consequences. Beside it, four reasons measurement is hard: attendance figures, survey wording, social desirability and private belief." loading="lazy">
+  <figcaption>Religiosity has several dimensions, and each is measured imperfectly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-religion-and-social-order--02-religiosity-groups.webp" width="900" height="506" alt="Four cards. Women often report higher belief because of socialisation, child-rearing and the life course; older people may be more religious through ageing or generation; minority ethnic groups through community, cultural defence and cultural transition; and class groups differ, with Weber’s theodicy of disprivilege for the disadvantaged." loading="lazy">
+  <figcaption>Religiosity varies by gender, age, ethnicity and class, each with its own explanations.</figcaption>
+</figure>
+
 ## 11.2 Functionalism versus Marxism
 
 | | Functionalism | Marxism |
@@ -84,6 +94,16 @@ social order; **11.3** Religion as a source of social change.
 | View of society | Consensus | Class conflict |
 | Strength | Explains ritual, national ceremony, crisis response | Explains links between religion and power |
 | Limitation | Ignores conflict and diversity; small-scale evidence | Ignores religion as a source of change; assumes false consciousness |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-religion-and-social-order--03-malinowski-fishing.webp" width="900" height="575" alt="Two fishing scenes from Malinowski’s study of the Trobriand Islanders: in the safe lagoon no ritual is needed, but before dangerous open-ocean fishing they perform magic and ritual." loading="lazy">
+  <figcaption>Ritual appears where outcomes are dangerous and uncertain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-religion-and-social-order--04-functionalism-marxism.webp" width="900" height="605" alt="A comparison grid. Functionalists say religion creates solidarity, values and coping; Marxists say it is ideology that legitimates inequality and offers compensation. Each view’s key thinkers, strengths and limitations are listed." loading="lazy">
+  <figcaption>Both see religion as conservative: functionalists call it integration, Marxists call it ideology.</figcaption>
+</figure>
 
 ## 11.3 Religion and social change
 
@@ -96,6 +116,16 @@ social order; **11.3** Religion as a source of social change.
 - **Evangelicals in US politics:** Moral Majority (1979, Jerry Falwell); Bruce (2003) — limited
   policy success.
 - **Iranian revolution (1979):** Ayatollah Khomeini; religion as revolutionary force.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-religion-and-social-order--05-protestant-ethic.webp" width="900" height="620" alt="Top chain, Weber: Calvinist ideas produced a disciplined work ethic and reinvestment, which helped capitalism rise in Northern Europe. Bottom chain, Tawney and Marxists: economic change came first and Protestantism adapted to it." loading="lazy">
+  <figcaption>Weber and his critics disagree about which came first: religious ideas or economic change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-religion-and-social-order--06-religion-and-change.webp" width="900" height="552" alt="Three case studies of religion and change: liberation theology in Latin America, the Moral Majority in US politics from 1979, and the 1979 Iranian revolution led by Ayatollah Khomeini." loading="lazy">
+  <figcaption>Religion can drive change as well as maintain order, though its success varies.</figcaption>
+</figure>
 
 ## Worked essay plan
 

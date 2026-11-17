@@ -47,6 +47,11 @@ Topic 1 as a short warm-up rather than a recurring toolkit is the
 single most common reason for descriptive, rather than analytical, ESS
 exam answers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-1-foundations--01-three-lenses.webp" width="900" height="740" alt="A scenario from any later topic sits at the centre, examined through three lenses: perspectives (which environmental value system lies behind a position), systems (inputs, outputs and feedback loops) and sustainability (whether use stays within natural income)." loading="lazy">
+  <figcaption>Apply perspectives, systems and sustainability together to any later topic.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **IB DP ENVIRONMENTAL SYSTEMS AND SOCIETIES — TOPIC 1: FOUNDATIONS**
@@ -83,6 +88,21 @@ capital); **renewable** versus **non-renewable** natural capital; the
 area of land and water required to sustainably provide consumed
 resources and assimilate associated waste
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-1-foundations--02-environmental-value-systems.webp" width="900" height="660" alt="Cultural, religious, economic and socio-political context shape an environmental value system. Three categories follow: ecocentrism values nature for its own sake, anthropocentrism manages the environment for human benefit, and technocentrism trusts technology and ingenuity to solve problems." loading="lazy">
+  <figcaption>Name the EVS only with evidence from the scenario.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-1-foundations--03-negative-positive-feedback.webp" width="900" height="770" alt="Two feedback loops in which a system’s output affects its own input. Negative feedback is stabilising: a graph shows a disturbance followed by a return to equilibrium. Positive feedback is amplifying: a graph shows the system moving further and further from its original state." loading="lazy">
+  <figcaption>Negative and positive describe the direction of the effect, not whether it is good or bad.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-1-foundations--04-open-closed-isolated.webp" width="900" height="580" alt="Three systems with dashed boundaries. An open system exchanges both energy and matter across its boundary; a closed system exchanges only energy; an isolated system exchanges neither." loading="lazy">
+  <figcaption>What crosses the boundary defines the type of system.</figcaption>
+</figure>
+
 ## How to approach it
 
 Always apply an EVS category to a specific described scenario or
@@ -96,6 +116,11 @@ confusing the two is one of the most common ESS exam errors. Treat
 resource is being used sustainably only while consumption stays within
 its natural income, and the same resource can move between sustainable
 and unsustainable use over time as consumption changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-1-foundations--05-sustainability-threshold.webp" width="900" height="740" alt="Graph of rate of use over time against a flat line for natural income. While consumption stays below natural income, use is sustainable; when consumption rises above it, the threshold is crossed and natural capital is depleted. Boxes define natural capital as the stock and natural income as the sustainable yield." loading="lazy">
+  <figcaption>The same resource can move from sustainable to unsustainable use as consumption grows.</figcaption>
+</figure>
 
 ## Worked example: applying Topic 1 concepts to a Topic 4 scenario
 
@@ -125,6 +150,11 @@ EVS framing:         a policy prioritising irrigation output above
 Applying all three Topic 1 lenses to the same scenario, rather than
 using only one, is what demonstrates the "revisited throughout the
 course" application the specification expects.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-1-foundations--06-aquifer-three-lenses.webp" width="900" height="650" alt="An aquifer system with rainfall recharge as input (natural income) and extraction for irrigation as a larger output; the stored water is natural capital. A possible positive feedback loop: the water table falls, farmers drill deeper and extract even faster. Side panels judge the use unsustainable and link irrigation-first policy to anthropocentrism and capping extraction to a more ecocentric stance." loading="lazy">
+  <figcaption>One scenario, three lenses: systems, sustainability and perspectives.</figcaption>
+</figure>
 
 ## Common mistakes
 

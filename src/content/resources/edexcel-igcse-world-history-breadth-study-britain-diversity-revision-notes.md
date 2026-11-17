@@ -41,6 +41,11 @@ the [B8 practice questions](/resources/edexcel-igcse-world-history-breadth-study
 | 4. Civil rights, c1962–86 | Dagenham, Bristol, comprehensives, Warnock, Powell, 1971 Act, the Acts of 1965–75 |
 | 5. Opportunity and culture, 1986–2010 | NCCL, Lawrence, third-wave feminism, LGBT and disability groups, arts, Section 28, Equality Act |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-britain-diversity--01-bd-stages.webp" width="900" height="978" alt="Five stacked stages with a pictogram each: 1914 to 1928 votes and war work, 1928 to 1945 Depression and war, 1944 to 1962 war and empire end, c1962 to 1986 civil rights, 1986 to 2010 opportunity and culture." loading="lazy">
+  <figcaption>The five key topics run in order from 1914 to 2010.</figcaption>
+</figure>
+
 ## The key laws
 
 | Law | Year | Effect |
@@ -64,6 +69,16 @@ the [B8 practice questions](/resources/edexcel-igcse-world-history-breadth-study
 | Disability Discrimination Act | 1995 | Outlaws disability discrimination |
 | Equality Act | 2010 | Combines anti-discrimination law |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-britain-diversity--02-bd-votes.webp" width="900" height="860" alt="Bars show who could vote by age. In 1914 only some men could vote and no women. In 1918 all men over 21 and women over 30 with property could. In 1928 women voted equally from 21." loading="lazy">
+  <figcaption>Voting rights in 1914, 1918 and 1928 compared by age.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-britain-diversity--03-bd-laws.webp" width="900" height="1202" alt="Four rows list four laws or reports each in date order for women, race and immigration, disability and sexual minorities, marked plus if they widened rights and minus if they restricted. An arrow leads to the 2010 Equality Act covering race, sex, disability, sexual orientation and religion." loading="lazy">
+  <figcaption>Laws and reports by group, ending in the Equality Act 2010.</figcaption>
+</figure>
+
 ## Timeline of events and campaigns
 
 | Date | Event |
@@ -84,6 +99,11 @@ the [B8 practice questions](/resources/edexcel-igcse-world-history-breadth-study
 | 1999 | Macpherson Report: "institutional racism" |
 | 2003 | Section 28 repealed in England and Wales |
 | 2010 | Equality Act |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-britain-diversity--05-bd-immigration.webp" width="900" height="948" alt="A vertical timeline of seven events from 1919 to 1971 marked as arrival or culture, restriction or hostility: Aliens Restriction Act, Windrush, Notting Hill riots, Claudia Jones’ Carnival, Commonwealth Immigrants Act, Powell’s speech, Immigration Act." loading="lazy">
+  <figcaption>Arrival and culture went alongside restrictions and hostility.</figcaption>
+</figure>
 
 ## Groups traced across the period
 
@@ -115,6 +135,11 @@ the [B8 practice questions](/resources/edexcel-igcse-world-history-breadth-study
 - **Against:** protest and pressure (Bristol, Dagenham, Lawrence campaign, disability groups); war; immigration
   and cultural change; laws that restricted rights (1962, 1971, Section 28).
 - **Judgement:** laws secured change, but campaigns usually forced governments to act.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-britain-diversity--04-bd-protest.webp" width="900" height="854" alt="Three pairs link a protest to a government response: Bristol Bus Boycott 1963 to Race Relations Act 1965, Dagenham strike 1968 to Equal Pay Act 1970, and the Stephen Lawrence case 1993 to the Macpherson Report 1999." loading="lazy">
+  <figcaption>Protest often prompted government action, two to six years later.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

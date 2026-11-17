@@ -64,6 +64,11 @@ Bryan Wilson (*Religion in Secular Society*, 1966) defined secularisation as the
 religious thinking, practice and institutions lose social significance. The thesis predicts that
 modernisation — industrialisation, urbanisation, science and education — weakens religion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--01-secularisation-thesis.webp" width="900" height="701" alt="Industrialisation, urbanisation, science and education lead to religious thinking, practice and institutions losing social significance. Five kinds of evidence for decline: practice, belief, institutions, generational decline and disengagement of religion from society." loading="lazy">
+  <figcaption>Secularisation theory links modernisation to religion’s loss of social significance.</figcaption>
+</figure>
+
 ## What is the evidence for decline?
 
 - **Practice:** falling church attendance and membership in much of Western Europe.
@@ -88,6 +93,11 @@ reducing reliance on religion.
 religious as ever ("desecularisation", 1999); science and religion can coexist; rationalisation has
 not removed interest in spirituality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--02-rationalisation.webp" width="900" height="412" alt="Left: Weber’s disenchantment, Berger’s loss of the sacred canopy and Bruce’s point about technology argue rationalisation weakens religion. Right: Berger’s later desecularisation view, the coexistence of science and religion, and continuing interest in spirituality." loading="lazy">
+  <figcaption>Even Berger changed his mind: rationalisation has not removed religion.</figcaption>
+</figure>
+
 ## Has religion lost its social significance?
 
 **Arguments that it has not:**
@@ -106,6 +116,11 @@ not removed interest in spirituality.
 **Problems of measurement:** definitions and data shape conclusions — a "golden age" of past
 religiosity may be a myth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--03-not-secularised.webp" width="900" height="611" alt="Four arguments against secularisation: Davie’s believing without belonging, Stark and Bainbridge’s religious market theory, Norris and Inglehart’s existential security, and Casanova’s deprivatisation of religion. A note warns that definitions and data shape conclusions." loading="lazy">
+  <figcaption>Belief, competition, insecurity and politics all keep religion significant.</figcaption>
+</figure>
+
 ## What do feminists say about religion?
 
 - **Religion as patriarchal:** Simone de Beauvoir (*The Second Sex*, 1949) argued religion gives
@@ -117,6 +132,11 @@ religiosity may be a myth.
   that early religions often had female deities before monotheism became male-dominated.
 - **Different feminist views:** radical feminists see religion as fundamentally patriarchal;
   liberal feminists see reform as possible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--04-feminism-religion.webp" width="900" height="597" alt="Six explanations of gender inequality in religion: male leadership, sacred texts written by men, ideas of female impurity, religious laws on marriage, divorce and dress, Armstrong’s history of female deities, and de Beauvoir’s false compensation. Radical feminists, liberal feminists and El Saadawi differ on whether religion itself is the problem." loading="lazy">
+  <figcaption>Feminists locate patriarchy in leaders, texts, rules and interpretation.</figcaption>
+</figure>
 
 ## Are religions moving towards gender equality, and can religion benefit women?
 
@@ -131,6 +151,11 @@ religiosity may be a myth.
 - Evaluation: change is uneven between and within faiths; choice and constraint are difficult to
   separate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--05-towards-equality.webp" width="900" height="559" alt="Left: the Church of England ordained its first women priests in 1994 and its first woman bishop in 2015; Reform Judaism has women rabbis and many NRMs have female leaders. Right: Watson’s study of veiling, community and support, and Woodhead’s religious forms of feminism. Change is uneven." loading="lazy">
+  <figcaption>Religious organisations are changing unevenly, and some women use religion for their own ends.</figcaption>
+</figure>
+
 ## Is religion becoming privatised and chosen?
 
 - **Privatised religion:** belief becomes a personal matter, practised at home or alone rather than
@@ -144,6 +169,11 @@ religiosity may be a myth.
 - **Resacralisation:** the revival of the sacred, through NRMs, New Age, charismatic and
   Pentecostal growth and fundamentalism, may be a feature of post-modernity rather than a sign of
   secularisation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--06-decline-change-revival.webp" width="900" height="689" alt="From congregational religion, three paths: decline through secularisation, a change of form through privatised religion and spiritual shopping, or revival through resacralisation. The Kendal Project found holistic spirituality growing but not replacing congregational religion." loading="lazy">
+  <figcaption>Post-modern theorists argue religion is changing form, not simply disappearing.</figcaption>
+</figure>
 
 ## Why do NRMs, New Age ideas and fundamentalism matter?
 
@@ -167,6 +197,11 @@ it as a "spirituality of life" suited to consumer societies.
 
 Anthony Giddens (1999) sees fundamentalism as a reaction to globalisation and uncertainty —
 "tradition defended in the traditional way".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--07-wallis-nrms.webp" width="900" height="624" alt="Wallis classified new religious movements on a line from world-rejecting (separating from society) through world-accommodating (enriching religious life) to world-affirming (offering techniques for success). Their growth may reflect relative deprivation, rapid social change or a search for meaning; New Age beliefs focus on the self and wellbeing." loading="lazy">
+  <figcaption>NRMs differ in how they relate to the wider world.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

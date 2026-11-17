@@ -48,6 +48,11 @@ the [Energy study guide](/resources/cambridge-o-level-geography-energy/).
 | Energy mix | The share of each source in a country's supply |
 | Energy security | Having a reliable, affordable supply, ideally not dependent on imports |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-energy--07-en-stock-flow.webp" width="900" height="780" alt="Two tanks. The left tank has a falling liquid level and no inflow, labelled stock, used up: coal, oil, natural gas and uranium. The right tank is kept full by a pipe flowing in and another flowing out, labelled flow, replaced: wind, sunlight, moving water and the Earth’s heat. A warning box says nuclear power is low-carbon but uranium is a non-renewable stock." loading="lazy">
+  <figcaption>Non-renewable energy comes from a stock that is used up; renewable energy comes from a flow that is naturally replaced.</figcaption>
+</figure>
+
 ## Use by development level
 
 - **Low income**: fuelwood and charcoal dominate household use; low use
@@ -60,6 +65,11 @@ the [Energy study guide](/resources/cambridge-o-level-geography-energy/).
 Rule of thumb: **use per person rises** and **the mix shifts** away from
 fuelwood as countries develop.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-energy--01-energy-and-development.webp" width="900" height="790" alt="Three columns. Low-income countries rely on fuelwood and charcoal, use little energy per person and many lack mains electricity, because wood is cheap and grids do not reach villages. Middle-income countries see fast-growing demand and heavy coal and oil use, driven by industry and cities. High-income countries use the most per person, with fossil fuels still important but a rising share of renewables and, in some, nuclear." loading="lazy">
+  <figcaption>Use per person rises with development, and the mix of sources shifts.</figcaption>
+</figure>
+
 ## Nuclear: weigh it
 
 - **For**: large steady output; very low carbon emissions in operation;
@@ -67,6 +77,11 @@ fuelwood as countries develop.
 - **Against**: very high build and decommissioning cost; long-lived
   radioactive waste; rare but severe accidents (Chernobyl 1986,
   Fukushima 2011); needs strict regulation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-energy--02-nuclear-power.webp" width="900" height="660" alt="Four steps: uranium atoms split giving heat, the heat boils water to steam, steam drives turbines and generators make electricity. Benefits: large steady output, very low carbon dioxide while operating, little fuel needed, less reliance on imported oil and gas. Disadvantages: very high building and decommissioning costs, long-lived radioactive waste, rare severe accidents such as Chernobyl and Fukushima, and the need for skill, regulation and public support." loading="lazy">
+  <figcaption>Nuclear is reliable and low-carbon; its costs are money, waste and risk.</figcaption>
+</figure>
 
 ## Renewables: weigh each source
 
@@ -79,6 +94,11 @@ fuelwood as countries develop.
 | Tidal and wave | Predictable tides | Few suitable sites; affects estuary habitats |
 | Biofuels | Can replace petrol | Uses farmland that could grow food |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-energy--03-renewables-by-source.webp" width="900" height="650" alt="Three renewable schemes compared. A solar panel on a village school supplies remote areas cheaply but varies with weather and time of day. A wind farm does not run out and emits little greenhouse gas but varies, needs back-up and is large, noisy and visually intrusive. A large HEP dam does not run out and improves energy security but floods valleys, displaces people and traps sediment." loading="lazy">
+  <figcaption>A village solar panel and a giant dam are both “renewable” but have very different impacts.</figcaption>
+</figure>
+
 ## Case study outline: Iceland
 
 - On the Mid-Atlantic Ridge: volcanic heat; also large glacier-fed
@@ -90,6 +110,11 @@ fuelwood as countries develop.
 - Kárahnjúkar HEP scheme supplies an aluminium smelter at Reyðarfjörður;
   criticised for flooding highland wilderness.
 - Still imports oil for transport and fishing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-energy--04-iceland-energy.webp" width="900" height="762" alt="A schematic west-to-east section of Iceland. In the west, hot rocks near the surface at the Mid-Atlantic Ridge feed boreholes at the Hellisheiði geothermal station, which pipes hot water to homes in Reykjavík. In the east, glaciers and steep valleys feed the Kárahnjúkar HEP dams, which power an aluminium smelter at Reyðarfjörður. Below: HEP gives the larger share, geothermal most of the rest; drawbacks include flooded wilderness and hydrogen sulphide; oil is still imported for transport and fishing." loading="lazy">
+  <figcaption>Iceland’s geology and climate give it almost all-renewable electricity; few countries can copy it.</figcaption>
+</figure>
 
 ## Second case study outline: Pakistan
 

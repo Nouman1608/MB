@@ -61,6 +61,11 @@ and **reliable** (repeatable).
 households to measure how many people lacked items most of society regarded as normal. Its
 standardised questions allowed comparison between groups — a positivist strength.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-approaches-and-data--01-positivist-scientific-method.webp" width="900" height="546" alt="Four steps of the scientific method used by positivists: form a hypothesis, collect quantitative data, look for patterns and trends, and test correlation and causation. Positivists take a macro view of social facts and value objective, reliable research, as in Townsend’s 1979 survey of poverty." loading="lazy">
+  <figcaption>Positivists copy the natural sciences: hypothesis, numbers, patterns, causes.</figcaption>
+</figure>
+
 ## What is the interpretivist approach?
 
 Interpretivists take a **micro view**: society is created through people's interactions and the
@@ -72,6 +77,11 @@ some **subjectivity**, but argue it produces greater **validity**.
 hospital, where he observed how patients adapted to institutional life. The rich detail about
 patients' experiences could not have come from a questionnaire.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-approaches-and-data--02-positivism-vs-interpretivism.webp" width="900" height="594" alt="Positivism and interpretivism compared on view, focus, data, aim and example. Positivism is macro, seeks patterns and causes with quantitative data and values objectivity and reliability, as in Townsend’s survey. Interpretivism is micro, seeks meanings with qualitative data and values validity and verstehen, as in Goffman’s Asylums." loading="lazy">
+  <figcaption>Positivists seek reliable patterns; interpretivists seek valid meanings.</figcaption>
+</figure>
+
 ## How can approaches be combined?
 
 - **Triangulation** — using several methods to cross-check. Eileen Barker's *The Making of a Moonie*
@@ -81,6 +91,11 @@ patients' experiences could not have come from a questionnaire.
   study, begun in 2002, has followed around 12,000 children in Ethiopia, India, Peru and Vietnam to
   understand how childhood poverty affects later life. Strengths: shows change and sequence.
   Limitations: costly, and some participants drop out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-approaches-and-data--03-triangulation-longitudinal.webp" width="900" height="540" alt="Left: triangulation, with participant observation, in-depth interviews and questionnaires all pointing at one question, as in Barker’s 1984 study of why people joined the Unification Church. Right: a longitudinal study following the same people over time, as in Young Lives from 2002; it shows change but is costly and some participants drop out." loading="lazy">
+  <figcaption>Triangulation cross-checks with several methods; longitudinal studies follow people over time.</figcaption>
+</figure>
 
 ## How do sociologists judge research choices?
 
@@ -94,6 +109,11 @@ patients' experiences could not have come from a questionnaire.
 | **Representativeness** | Is the sample typical? | Only urban schools surveyed in a mainly rural country |
 | **Generalisability** | Can findings apply more widely? | One village studied in depth |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-approaches-and-data--04-judging-research.webp" width="900" height="568" alt="Seven concepts grouped by what they check. The researcher: bias and interviewer effect. The people studied: the Hawthorne or observer effect and validity. The results: reliability. The sample: representativeness and generalisability." loading="lazy">
+  <figcaption>Ask about the researcher, the people studied, the results and the sample.</figcaption>
+</figure>
+
 ## What is the difference between primary and secondary, quantitative and qualitative data?
 
 | | Strengths | Limitations |
@@ -102,6 +122,11 @@ patients' experiences could not have come from a questionnaire.
 | **Secondary data** (already exists) | Cheap; may cover large populations or the past | Not designed for the research; definitions may differ |
 | **Quantitative data** (numbers) | Easy to compare, show trends, reliable | Lacks depth; may miss meanings |
 | **Qualitative data** (words, images) | Rich, valid, shows meanings | Hard to compare; small samples; interpretation may be subjective |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-approaches-and-data--05-types-of-data.webp" width="900" height="705" alt="A two-by-two grid. Primary quantitative: Townsend’s household survey. Primary qualitative: Goffman’s fieldwork in Asylums. Secondary quantitative: official statistics such as Pakistan’s 2023 census. Secondary qualitative: personal documents such as diaries and letters. Below, the main strengths and limitations of primary and secondary data." loading="lazy">
+  <figcaption>Any piece of data is primary or secondary, and quantitative or qualitative.</figcaption>
+</figure>
 
 ## How useful are different kinds of secondary evidence?
 
@@ -125,6 +150,11 @@ patients' experiences could not have come from a questionnaire.
 4. Describe the overall trend before giving detail.
 5. Explain a limitation — sample size, date, missing groups, how terms were defined, or whether a
    correlation proves causation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-approaches-and-data--06-reading-tables-and-graphs.webp" width="900" height="606" alt="A schematic bar chart labelled with its title, its source and date, its axis (percentages or numbers?) and its overall trend, beside five steps: read the title, source and date; identify what is measured; quote figures accurately with units; describe the overall trend before detail; and explain a limitation." loading="lazy">
+  <figcaption>Read the labels first, describe the trend, then explain a limitation.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

@@ -1,0 +1,7 @@
+{ "page": "cambridge-igcse-ict-presentations-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--01-master-slide.webp", "after": "## What is a master slide and why use it?"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--02-transition-animation.webp", "after": "## Transitions vs animations"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--04-output-forms.webp", "after": "## How can a presentation be output?"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--06-handout-pages.webp", "after": "## How can a presentation be output?"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--05-show-timing.webp", "after": "## Worked example: a reception-area display"}
+] }

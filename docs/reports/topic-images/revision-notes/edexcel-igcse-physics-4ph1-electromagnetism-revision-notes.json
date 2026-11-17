@@ -1,0 +1,10 @@
+{ "page": "edexcel-igcse-physics-4ph1-electromagnetism-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--01-field-patterns.webp", "after": "## Field patterns (P)" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-magnetism-revision-notes--03-grip-rule.webp", "after": "## Field patterns (P)" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetism--01-electromagnet-construction.webp", "after": "## Electromagnets (P)" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--06-charged-particle-force.webp", "after": "## Force on a moving charge (P)" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--02-motor-effect.webp", "after": "## The motor effect" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetism--02-left-hand-rule-example.webp", "after": "## The motor effect" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-magnetism-revision-notes--04-dc-motor-commutator.webp", "after": "## d.c. motor" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--07-loudspeaker.webp", "after": "## Loudspeaker" }
+] }

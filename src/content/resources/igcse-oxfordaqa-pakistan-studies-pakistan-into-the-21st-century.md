@@ -62,6 +62,11 @@ of national purpose, agricultural land in Punjab and Sindh, and international re
 **Governor-General**, Jinnah organised the new administration, appealed for refugee relief, founded
 the State Bank (1948) and set out a vision of a tolerant state, but he died in September 1948.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century--01-challenges-1947.webp" width="900" height="474" alt="Two columns. Challenges in 1947: the boundary award, refugees, delayed division of assets, the Indus waters dispute, the princely states especially Kashmir, and building a government in Karachi. Opportunities: national purpose, farmland in Punjab and Sindh, and international recognition. A card summarises Jinnah’s work as Governor-General before his death in September 1948." loading="lazy">
+  <figcaption>The new state began with heavy burdens but real advantages.</figcaption>
+</figure>
+
 ## How did Pakistan's constitution develop?
 
 | Document | Key features |
@@ -76,6 +81,16 @@ and is answerable to the National Assembly, while the President is head of state
 shifted power between them several times. **Federalism** means power is shared between the federal
 government and the provinces, with a Senate giving each province equal representation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century--02-constitutions.webp" width="900" height="560" alt="A timeline: the Objectives Resolution of 1949; the 1956 Constitution, an Islamic Republic with a parliamentary system and a Muslim President; the 1962 presidential Constitution under Ayub Khan with indirect elections; and the 1973 federal parliamentary Constitution, still in force with amendments." loading="lazy">
+  <figcaption>Pakistan moved between parliamentary and presidential systems before settling on 1973.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century--03-federal-parliamentary-system.webp" width="900" height="552" alt="The President is head of state and the Prime Minister leads the government; amendments have shifted power between them. The Prime Minister answers to the National Assembly, one of two houses of parliament; the Senate gives each province equal representation. Power is shared between the federal government and the provinces." loading="lazy">
+  <figcaption>The Prime Minister governs, answerable to parliament; the provinces share power.</figcaption>
+</figure>
+
 ## What democratic concepts and parties should you know?
 
 **Transparency** means government decisions are open to scrutiny; **the rule of law** means
@@ -84,6 +99,11 @@ be questioned and removed. Major parties include the Pakistan Muslim League fact
 the All-India Muslim League), the Pakistan People's Party (founded 1967 by Zulfikar Ali Bhutto) and
 Pakistan Tehreek-e-Insaf (founded 1996 by Imran Khan), alongside regional and religious parties.
 Parties organise voters, form governments and act as opposition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century--04-democracy-and-parties.webp" width="900" height="513" alt="Three democratic concepts: transparency, the rule of law and accountability. Below, three major parties: the Pakistan Muslim League factions, descended from the All-India Muslim League; the Pakistan People’s Party, founded in 1967 by Zulfikar Ali Bhutto; and Pakistan Tehreek-e-Insaf, founded in 1996 by Imran Khan." loading="lazy">
+  <figcaption>Democracy rests on openness, law and accountability, delivered through competing parties.</figcaption>
+</figure>
 
 ## Why do Urdu, regional languages and sport matter?
 
@@ -123,6 +143,11 @@ no-confidence vote in April 2022.
 "smart" lockdowns, emergency cash payments through Ehsaas and a vaccination campaign from 2021. The
 pandemic hurt daily-wage earners, closed schools and slowed the economy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century--05-politics-1999-2022.webp" width="900" height="784" alt="A time axis from 1999 to 2022 with four periods: Musharraf 1999–2008, Zardari as President 2008–13, the PML-N government 2013–18 and the PTI government under Imran Khan 2018–22. Markers show the Lawyers’ Movement in 2007, the 18th Amendment in 2010, the first elected handover in 2013, Sharif’s disqualification in 2017 and the no-confidence vote in April 2022. Cards summarise each period." loading="lazy">
+  <figcaption>Military rule gave way to elected governments, and in 2013 one elected government handed over to another for the first time.</figcaption>
+</figure>
+
 ## How have Pakistan's international relations developed?
 
 - **India:** Kashmir remains the core dispute; periods of dialogue have been broken by crises, such as the 2019 tensions after the Pulwama attack and India's change to Kashmir's status in August 2019; the Kartarpur Corridor (2019) was a gesture of goodwill.
@@ -130,6 +155,11 @@ pandemic hurt daily-wage earners, closed schools and slowed the economy.
 - **Muslim world:** close ties with Turkey; Saudi Arabia and the UAE provide financial support and employ many Pakistani workers whose remittances support the economy.
 - **USA:** a key ally after 2001, giving aid but also tension over drone strikes and the 2011 Abbottabad raid; the Afghan war brought violence and refugees to Pakistan.
 - **Multinational bodies:** the 2008 world economic crisis led to IMF support, with further programmes since; Pakistan is one of the largest contributors of troops to UN peacekeeping missions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century--06-international-relations.webp" width="900" height="645" alt="Pakistan linked to five sets of relations: India (Kashmir, the 2019 tensions and the Kartarpur Corridor), China (an all-weather partner, the JF-17 and CPEC), the Muslim world (Turkey, Saudi Arabia and the UAE), the USA (alliance and aid after 2001 but tension over drone strikes and Abbottabad), and the IMF and UN (financial support and peacekeeping troops)." loading="lazy">
+  <figcaption>China is the steadiest partner; relations with India and the USA swing between cooperation and crisis.</figcaption>
+</figure>
 
 ## How far have women been empowered in Pakistan?
 
@@ -141,6 +171,11 @@ Protection of Women Act (2006), the Protection against Harassment of Women at th
 (2010) and the 2016 law against so-called honour killings. **By 2022**, girls' school enrolment and
 women's political representation had risen, but literacy, workforce participation and legal
 protection still lagged, especially in rural areas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century--07-women-empowerment.webp" width="900" height="693" alt="A timeline from Benazir Bhutto becoming Prime Minister in 1988 through the Protection of Women Act 2006, the workplace harassment law of 2010 and the 2016 law against honour killings, to Dr Sania Nishtar’s Ehsaas programme paying cash to women. By 2022 girls’ enrolment and political representation had risen, but literacy, work and legal protection lagged." loading="lazy">
+  <figcaption>Laws and leaders have advanced women’s position, but gaps remain, especially in rural areas.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

@@ -44,6 +44,11 @@ The brain begins as a simple tube of neural tissue in the first weeks of pregnan
 
 **Nature and nurture.** Genes (**nature**) set the order in which structures develop, which is why this sequence is broadly the same in all children. **Nurture** affects how well the brain develops: the mother's diet and health in pregnancy, avoiding harmful substances such as alcohol, and, after birth, stimulation, play and interaction, which strengthen the connections between neurons that are used. The best answer is that brain development is an **interaction** of both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-development--01-brain-develops-bottom-up.webp" width="900" height="824" alt="Four levels numbered from the bottom: the brain stem (autonomic functions such as breathing), the thalamus (sensory processing), the cerebellum (movement such as crawling and walking) and the cortex (cognition, with front parts maturing into adolescence). Genes set the order; nurture affects how well the brain develops." loading="lazy">
+  <figcaption>Brain stem, thalamus, cerebellum, cortex: genes set the order, nurture shapes how well.</figcaption>
+</figure>
+
 ## Piaget's stage theory
 
 Piaget saw children as active learners who build **schemas** (mental frameworks). When new information fits a schema, the child **assimilates** it; when it does not fit, the child feels uncertain and must **accommodate**, changing the schema or creating a new one.
@@ -56,6 +61,16 @@ Piaget saw children as active learners who build **schemas** (mental frameworks)
 | Formal operational | 11+ | Abstract and hypothetical reasoning |
 
 **Egocentrism** is the inability to see a situation from another person's point of view. **Conservation** is understanding that quantity stays the same when appearance changes: the same number of counters spread out, or the same amount of juice poured into a taller, thinner glass.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-development--02-assimilation-accommodation.webp" width="900" height="496" alt="New information meets an existing schema. If it fits, the child assimilates it into the schema. If it does not fit, the child feels uncertain and accommodates, changing the schema or creating a new one." loading="lazy">
+  <figcaption>Assimilate when it fits; accommodate when it does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--05-c-piaget-stages.webp" width="900" height="1010" alt="A four-step staircase rising from left to right: sensorimotor, pre-operational, concrete operational, formal operational. A note says schemas change through assimilation and accommodation, and arrows show egocentrism reducing and conservation developing as the child moves up." loading="lazy">
+  <figcaption>Thinking changes in a fixed order of four stages as schemas are modified.</figcaption>
+</figure>
 
 ## Studies that challenge Piaget
 
@@ -79,6 +94,16 @@ Piaget saw children as active learners who build **schemas** (mental frameworks)
 
 **Evaluation.** A strength is that the task was meaningful to children, which may give a truer picture of their ability. A weakness is that a hiding game may be easier than seeing exactly what another person sees, so the two tasks may not measure the same thing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-development--03-policeman-doll.webp" width="900" height="654" alt="A view from above of two crossing walls making four sections, with two policemen outside whose views cover three sections; the boy doll is hidden in the one section neither can see. Cards give the procedure, the finding that most children hid the boy correctly, the conclusion, and a strength and weakness." loading="lazy">
+  <figcaption>A task that made human sense showed young children are less egocentric than Piaget claimed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--06-c-conservation-teddy.webp" width="900" height="1000" alt="Three steps. Step 1: two rows of five counters are equal. Step 2: a teddy accidentally messes up one row so it is spread out, but there are still five counters in each row. Step 3: more young children said the rows were still equal, showing they could conserve number, so Piaget underestimated young children." loading="lazy">
+  <figcaption>When the change looked accidental, more young children conserved number than Piaget predicted.</figcaption>
+</figure>
+
 ## Piaget's theory in education
 
 - **Readiness:** match tasks to the stage; for example, younger pupils need **concrete materials** such as counters before abstract maths.
@@ -93,17 +118,32 @@ Carol Dweck distinguished a **fixed mindset**, the belief that ability is set an
 
 **Evaluation.** The theory has clear practical uses in schools and gives teachers simple changes to try. However, some later research has found the effects of mindset interventions on grades to be smaller than early studies suggested, and mindset alone cannot overcome factors such as poor teaching or lack of resources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-development--04-fixed-growth-mindset.webp" width="900" height="715" alt="Two columns contrast a fixed mindset (ability is set; avoids challenge, gives up after failure) with a growth mindset (ability can be developed; mistakes are part of learning). Praising ability can encourage a fixed mindset; praising effort and strategy encourages a growth mindset. Self-efficacy and an evaluation follow." loading="lazy">
+  <figcaption>Praise effort and strategy, not ability, to encourage a growth mindset.</figcaption>
+</figure>
+
 ## Learning styles and Willingham's criticism
 
 **Learning styles** theory claims people learn best when teaching matches their preferred style. **Verbalisers** prefer words, spoken or written; **visualisers** prefer pictures, diagrams and charts.
 
 **Willingham**, a cognitive psychologist, criticised this. He argued that there is little evidence that matching teaching to a learner's preferred style improves learning. People may have preferences, but what matters more is that the teaching method suits the **content**: a map is best learned visually by everyone. He also stressed that much of what we remember is stored as **meaning**, so teaching should help pupils think about what material means.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-development--05-learning-styles-willingham.webp" width="900" height="440" alt="Learning styles theory claims teaching should match a preferred style, verbaliser or visualiser. Willingham's criticism: there is little evidence this improves learning; the method should suit the content, such as learning a map visually; and much of what we remember is stored as meaning." loading="lazy">
+  <figcaption>Willingham: suit the method to the content and help pupils think about meaning.</figcaption>
+</figure>
+
 ## Worked example 1: applying Piaget
 
 > *Ava, aged 5, watches juice being poured from a short, wide glass into a tall, thin glass. She says there is now more juice. Explain Ava's answer using Piaget's theory.* [3 marks]
 
 "Ava is in the **pre-operational stage** (2-7) [1]. She **cannot conserve**: she does not understand that the quantity stays the same when its appearance changes [1]. She focuses on the **height** of the juice in the tall glass and ignores its width, so she believes there is more [1]."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-development--06-conservation-of-liquid.webp" width="900" height="693" alt="Juice is poured from a short, wide glass into a tall, thin glass and five-year-old Ava says there is more juice now. Three points explain it: she is in the pre-operational stage, she cannot conserve, and she focuses on height and ignores width." loading="lazy">
+  <figcaption>Same amount, different look: a pre-operational child judges by height alone.</figcaption>
+</figure>
 
 ## Worked example 2: applying Dweck
 

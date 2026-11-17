@@ -78,6 +78,11 @@ level-and-band structure used across every MYP subject group. Below the
 lowest band, a level of 0 is awarded for work that does not reach any
 descriptor, so the attainable range for each criterion is 0-8.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-syllabus-guide--01-framework-and-criteria.webp" width="900" height="854" alt="Key concepts communication, connections, creativity and culture, with related concepts such as word choice, conventions and idiom, explored through six global contexts. Work is assessed on four equally weighted criteria: A listening, B reading, C speaking and D writing, each scored 0 to 8 for a classroom total of 0 to 32." loading="lazy">
+  <figcaption>Four skills, four criteria, each scored 0 to 8 in the classroom.</figcaption>
+</figure>
+
 ## Six teaching phases, three reporting levels
 
 Teaching and learning in MYP Language Acquisition is organised into **six phases** forming a
@@ -95,6 +100,11 @@ generically for "the exam", since the complexity examined differs meaningfully b
 student assessed as emergent is not expected to demonstrate the same range of vocabulary, structure or
 spontaneous fluency as one assessed as proficient.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--01-phases-and-levels.webp" width="900" height="650" alt="Two separate scales. Six teaching phases form a continuum that each student moves through individually and that does not match age groups or MYP years. Three reporting levels, emergent, capable and proficient, give a summative course result where a school offers eAssessment. They serve different purposes and are not the same scale." loading="lazy">
+  <figcaption>Phases track learning in class; levels report the result. Do not treat them as one scale.</figcaption>
+</figure>
+
 ## Two mark scales -- do not mix them up
 
 This subject uses **two different numeric scales**, and confusing them is the single most
@@ -107,6 +117,11 @@ common mistake in revision material about assessment structure:
   external examination, with the actual distribution permitted to vary by up to three marks
   from that blueprint figure. Thirty-two is not a valid eAssessment mark total for any single
   criterion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--02-two-marking-scales.webp" width="900" height="750" alt="Each criterion, A listening, B reading, C speaking and D writing, is scored 0 to 8 for classroom assessment, giving a total of 0 to 32. Separately, the eAssessment blueprint gives each criterion 24 raw marks: A, B and D in the on-screen paper and C in a separate, internally marked, IB-moderated speaking examination." loading="lazy">
+  <figcaption>Levels 0–8 in class; 24 raw marks each in eAssessment. Do not mix the scales.</figcaption>
+</figure>
 
 ## MYP eAssessment structure
 

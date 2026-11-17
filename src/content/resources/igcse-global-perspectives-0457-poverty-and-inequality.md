@@ -57,6 +57,11 @@ In the Written Exam, every source you need is printed in the insert. The syllabu
 
 Why these matter for skills: a source that says "poverty is falling" may be using a different measure from a source that says "poverty is rising". Both can be accurate. Spotting that is analysis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-poverty-and-inequality--01-measuring-poverty.webp" width="900" height="720" alt="Absolute poverty (not meeting basic needs) is contrasted with relative poverty (much less than most people, such as below 60% of median income in the UK). Income, wealth and multidimensional measures are defined. A Gini scale runs from 0, everyone has the same, to 1, one person has everything. The World Bank line is $3.00 a day from June 2025." loading="lazy">
+  <figcaption>Sources using different measures can reach different conclusions and both be accurate.</figcaption>
+</figure>
+
 ## Issues at global, national and local levels
 
 Component 2 asks for local and/or national perspectives and global perspectives. Component 3 needs a local issue. Practise moving one issue up and down the levels.
@@ -68,6 +73,11 @@ Component 2 asks for local and/or national perspectives and global perspectives.
 | Local | Should a town offer free school meals to every pupil or only to low-income families? Should a council cap rents? Is a food bank a solution or a sign that something else has failed? |
 
 A strong report or answer shows **links between levels**. For example, a national rise in food prices (national) can push more families in one town to use a food bank (local). This is part of a global pattern of rising living costs (global).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-poverty-and-inequality--02-food-prices-levels.webp" width="900" height="702" alt="A global pattern of rising living costs, a national rise in food prices and more families in one town using a food bank, linked by arrows. Below, an issue at each level: measuring SDG 1, choosing an absolute or relative poverty line, and whether a food bank is a solution or a sign of failure." loading="lazy">
+  <figcaption>Strong answers show the links between levels, not just each level alone.</figcaption>
+</figure>
 
 ## Perspectives and why they differ
 
@@ -85,6 +95,11 @@ Possible perspectives on one national issue, "Should governments give unconditio
 - An international organisation: it compares programmes across countries to see what works.
 
 **Evaluation tip.** A perspective is "based on evidence and reasoning". So you can judge a perspective by asking: what evidence supports it, and does the reasoning follow?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-poverty-and-inequality--03-unconditional-cash-perspectives.webp" width="900" height="566" alt="Three reasons perspectives on poverty differ: values, interests, and evidence and experience. Applied to unconditional cash: a family values choice, a taxpayers’ group wants proof money is used well, a charity may back cash or services, and an international organisation compares programmes across countries." loading="lazy">
+  <figcaption>Judge each perspective by its evidence and whether its reasoning follows.</figcaption>
+</figure>
 
 ## Causes and consequences
 
@@ -111,6 +126,11 @@ The syllabus asks you to analyse "causes of problems and the consequences/impact
 
 **Short-term and long-term.** A food bank meets a short-term consequence (hunger). It does not change a long-term cause (low income). Making that distinction is good analysis in any answer about action.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-poverty-and-inequality--04-poverty-cycle.webp" width="900" height="697" alt="A five-step cycle: a child in a low-income family misses school because the family needs them to work, leaves with fewer qualifications, finds only low-paid work as an adult, and their own children face the same pressure. Below, a food bank meets a short-term consequence, hunger, but does not change a long-term cause, low income." loading="lazy">
+  <figcaption>Show each link in the cycle with “because” or “this leads to”.</figcaption>
+</figure>
+
 ## Judging sources and evidence
 
 Section 4 says candidates "will benefit from an understanding of the following: bias, claim, fact, generalisation, opinion, prediction, value and vested interest". It also says you should "analyse and evaluate use of evidence and language". Poverty sources are full of all eight.
@@ -136,6 +156,11 @@ Section 4 says candidates "will benefit from an understanding of the following: 
 
 **Language.** Words such as "scroungers", "the deserving poor" or "struggling heroes" carry values. Point to the word and explain the effect on the reader.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-poverty-and-inequality--05-numbers-in-poverty-sources.webp" width="900" height="676" alt="A bar chart shows one very high earner pulling the mean above the median. Two pie charts show the poorest group’s slice staying the same size while the economy grows, so its share falls. Further checks: 50% to 70% is 20 percentage points but a 40% increase; a food bank sample is not a whole town; and which measure is used. Loaded language carries values." loading="lazy">
+  <figcaption>Check the measure, the average, the share, the percentage and the sample before trusting a number.</figcaption>
+</figure>
+
 ## Courses of action and their effects
 
 Component 2 asks you to consider different courses of action and propose one. Component 1 asks you to "assess actions". These are real examples you might find in sources. Each needs evaluation.
@@ -148,6 +173,11 @@ Component 2 asks you to consider different courses of action and propose one. Co
 
 To assess any action, use the same four tests: Is it **effective** (does it reach the cause)? Is it **affordable**? Is it **fair** (who gains, who loses)? Is it **sustainable** (will it last)?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-poverty-and-inequality--06-cash-programmes.webp" width="900" height="632" alt="A table of four actions: conditional cash through Brazil’s Bolsa Família from 2003; unconditional cash through Pakistan’s Benazir Income Support Programme from 2008; Finland’s 2017 to 2018 basic income trial; and microfinance, for which the Grameen Bank shared the 2006 Nobel Peace Prize. Each has a strength and limitation, judged by effectiveness, affordability, fairness and sustainability." loading="lazy">
+  <figcaption>Even well-known programmes need evaluating against the same four tests.</figcaption>
+</figure>
+
 ## Worked example: an exam-style paragraph
 
 *Task (invented):* A source reports that in a fictional town, 26 of 40 households asked at a community centre (65%) said they had cut back on heating last winter. The source claims "most families in the town are in fuel poverty". How far does the evidence support this claim?
@@ -155,6 +185,11 @@ To assess any action, use the same four tests: Is it **effective** (does it reac
 > The evidence gives some support. 65% of those asked said they cut back on heating, which suggests a real problem for some households. However, the sample is small, only 40 households, and it was taken at a community centre. People who use a community centre may already be more likely to need help, so the sample probably over-represents struggling families. This means the result cannot be generalised to "most families in the town". In addition, "cutting back on heating" is not the same as fuel poverty, which would need data on income and energy costs. Overall, the evidence supports the claim that some households face fuel costs they find hard to meet, but not the stronger claim about most families. A random survey of homes across the town, using a clear definition, would test the claim better.
 
 How it works: **knowledge** (sample, definition) → **application** (40 households, community centre) → **analysis** (why the sample is skewed) → **evaluation** (a judgement on "how far", plus a better method).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-poverty-and-inequality--07-fuel-poverty-paragraph.webp" width="900" height="740" alt="Nested circles show 40 surveyed households inside community centre users inside all town households. The evidence supports a real problem for some households, but the small, skewed sample and the gap between cutting back on heating and fuel poverty mean it cannot support the claim about most families. A random town-wide survey with a clear definition would test it better." loading="lazy">
+  <figcaption>Answer “how far” with a judgement on what the evidence does and does not support.</figcaption>
+</figure>
 
 ## Individual Report and Team Project ideas
 

@@ -37,6 +37,11 @@ foundation that Theme 2 (Local, National, International and Global
 Areas of Interest) and Theme 3 (Current and Future Study and
 Employment) build on with more complex, less personal subject matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-identity-and-culture--01-papers-and-themes.webp" width="900" height="700" alt="Three themes, from Identity and Culture to Current and Future Study and Employment, feed both papers. Paper 1 (Reading, Grammar and Meaning) and Paper 2 (Writing) are each 1 hour 45 minutes, 70 marks and 50%; there is no listening or speaking." loading="lazy">
+  <figcaption>Two equal papers, both built on the same three themes.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **OXFORDAQA INTERNATIONAL GCSE URDU (9264) — THEME 1 IDENTITY AND
@@ -78,6 +83,11 @@ for International GCSE exams May/June 2026 onwards —
 
 The theme provides the **contexts** for assessment. What is actually being tested is your ability to understand and produce Urdu in **reading and writing** — this qualification has no listening or speaking component at all, so a strong answer is one that uses the language accurately and appropriately, not one that displays cultural knowledge for its own sake.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-identity-and-culture--02-theme-1-map.webp" width="900" height="680" alt="Theme 1 Identity and Culture branches into three topics: 1.1 family, friends and people I know (two relationship sub-topics), 1.2 technology in everyday life (social media, mobile technology) and 1.3 free-time activities (music, cinema and TV, sport, customs and festivals)." loading="lazy">
+  <figcaption>Eight sub-topics give the contexts; the papers test your Urdu, not cultural knowledge.</figcaption>
+</figure>
+
 ## Vocabulary you need in place
 
 Preparation for this theme is mostly lexical. Build reliable, active vocabulary in these eight sub-topic fields:
@@ -93,6 +103,11 @@ Preparation for this theme is mostly lexical. Build reliable, active vocabulary 
 
 Active vocabulary is what you can produce, not merely recognise. Recognition alone will carry you through reading but fail you in writing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-identity-and-culture--03-active-passive-vocabulary.webp" width="900" height="620" alt="A large circle of passive vocabulary (words you recognise) contains a smaller circle of active vocabulary (words you can produce). Recognition is enough for Paper 1 Reading; Paper 2 Writing can only use active vocabulary." loading="lazy">
+  <figcaption>Recognition alone will carry you through reading but fail you in writing.</figcaption>
+</figure>
+
 ## Structures that raise the grade
 
 Accurate simple language beats ambitious language that collapses — but a narrow range caps your marks. Aim to deploy, correctly:
@@ -105,11 +120,21 @@ Accurate simple language beats ambitious language that collapses — but a narro
 
 Extending an answer by giving a reason and an example is the single most reliable way to move up a band.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-identity-and-culture--04-extending-an-answer.webp" width="900" height="690" alt="A four-step staircase: a simple statement, then an opinion, then a reason, then an example, each step higher. Range is widened further with three tenses, comparatives, connectives and time markers." loading="lazy">
+  <figcaption>Adding a reason and an example is the most reliable way to move up a band.</figcaption>
+</figure>
+
 ## Approaching the tasks
 
 For **reading**, identify whether the question wants a detail, an opinion or an inference. For opinion questions, look for evaluative language rather than facts.
 
 For **writing**, address every bullet point in the task — the specification states that provided the tasks set are completed, the number of words is not important, but it does not publish a rule that an unaddressed bullet caps the mark outright, so treat completing every bullet as strong practice rather than a stated pass/fail rule. Give an opinion **with a reason** wherever the task allows, and vary your tenses deliberately.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-identity-and-culture--05-approaching-the-tasks.webp" width="900" height="700" alt="For reading, first decide whether the question wants a detail, an opinion (look for evaluative language) or an inference. For writing, check that every bullet point is addressed, opinions have reasons and tenses are varied." loading="lazy">
+  <figcaption>Name the question type in reading; cover every bullet in writing.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -128,6 +153,11 @@ Strong: describes the festival (present tense)
 ```
 
 Three tenses, an opinion, a reason and a personal detail — that is the recipe for the top band.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-identity-and-culture--06-weak-vs-strong-answer.webp" width="900" height="640" alt="A weak festival answer lists what happens in one tense with no opinion or reason. A strong one moves through past, present and future, gives an opinion with a reason and adds a personal detail." loading="lazy">
+  <figcaption>Three tenses, an opinion, a reason and a personal detail make a top-band answer.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -44,6 +44,11 @@ major themes of the Qur'an, from which candidates choose any two to write on. Be
 compulsory, breadth across the theme categories below matters more here than in subtopics only examined
 through optional essay questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-themes-of-the-quran--02-question-1-at-a-glance.webp" width="900" height="560" alt="Three passages are set and two are chosen. The answer explains the passage's themes (4 marks) and its importance for Muslims today (4 marks). A warning box notes that Question 1 is compulsory, so passages from all three categories should be prepared." loading="lazy">
+  <figcaption>Choose two of three passages: themes, then importance today.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE O LEVEL ISLAMIYAT (2058) -- SUBTOPIC 1.1: MAJOR THEMES OF THE QUR'AN**
@@ -61,6 +66,11 @@ The Qur'an's major themes are organised around three broad categories:
 Candidates study set passages illustrating these themes (drawn from an approved list), with reference to
 both the original Arabic text and its English translation, since examination passages are set in both
 languages.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-themes-of-the-quran--01-three-theme-categories.webp" width="900" height="530" alt="Three columns stand on a base labelled tawhid. God in Himself covers His oneness, power, knowledge and mercy. God and the created world covers humanity's purpose, guidance for life and accountability in the akhirah. God's Messengers covers their role, the revelation they brought and their relationship with their communities." loading="lazy">
+  <figcaption>Every set passage fits one of three categories, all resting on tawhid.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -94,6 +104,11 @@ particular conduct (honesty, charity, patience) is rarely presented as guidance 
 typically also linked to its consequence in the hereafter -- understanding this pairing helps candidates
 explain not just what a passage teaches, but why it matters.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-themes-of-the-quran--03-guidance-and-accountability.webp" width="900" height="478" alt="Guidance on conduct such as honesty, charity and patience is linked to accountability: conduct will be judged and the afterlife gives choices their meaning. Using the pair lets an answer explain both what a passage teaches and why it matters." loading="lazy">
+  <figcaption>Qur'anic guidance is rarely given without its consequence in the hereafter.</figcaption>
+</figure>
+
 ## The role of God's Messengers as a theme
 
 Passages illustrating the third category focus on why God sends messengers at all -- to deliver guidance,
@@ -104,6 +119,11 @@ as unrelated individual figures. A passage in this category often combines an ac
 prophet's mission with a broader lesson about faith, patience, or the response of the people they were
 sent to guide, which is why answers that only narrate the prophet's story without drawing out this wider
 lesson tend to miss the fuller thematic point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-themes-of-the-quran--04-messengers-as-a-chain.webp" width="900" height="532" alt="Prophets are shown as linked circles in a chain carrying one consistent message. Three cards give why messengers are sent: to deliver guidance, warn communities and model righteous conduct. A strong answer adds the wider lesson to the account of the prophet's mission." loading="lazy">
+  <figcaption>Narrate the mission, then draw out the wider lesson.</figcaption>
+</figure>
 
 ## Worked example: identifying a passage's theme category
 
@@ -128,6 +148,11 @@ reference:
 naming a specific phrase or idea from the passage, rather than
 categorising it in general terms alone.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-themes-of-the-quran--05-categorising-a-passage.webp" width="900" height="662" alt="Four steps: read the whole passage; ask what it establishes about God, choosing between God in Himself, God and creation, or God's Messengers; note any secondary themes; and support the choice with a specific phrase from the passage." loading="lazy">
+  <figcaption>Read fully, categorise, note secondary themes, then quote the text.</figcaption>
+</figure>
 
 ## Common mistakes
 

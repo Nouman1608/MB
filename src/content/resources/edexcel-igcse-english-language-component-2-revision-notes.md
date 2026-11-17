@@ -56,6 +56,16 @@ extract slow down at a key moment (short sentences, present tense,
 close focus) or speed past it? That pacing choice is usually where the
 writer's intended effect lives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts--02-revision-card.webp" width="900" height="667" alt="A revision card with five headings: situation in two sentences; viewpoint and voice; structure (opening, turn, ending, time); three key methods with short references; and ideas and perspectives with one alternative reading." loading="lazy">
+  <figcaption>Five headings per text, and know where the key moments are.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts--06-building-the-essay.webp" width="900" height="738" alt="An essay of an introduction with a thesis, three or four body paragraphs moving through the opening, a turning point and the ending, and a short conclusion. Every body paragraph runs: point on the focus, short reference, method, effect on the reader, link to the question." loading="lazy">
+  <figcaption>Track the text from opening to ending, one method or moment per paragraph.</figcaption>
+</figure>
+
 ## Section B: imaginative writing
 
 Section B rewards **technique transfer** from Section A's reading, not
@@ -75,6 +85,16 @@ demonstrate in unplanned first-draft prose.
 ambitious.** A simple idea executed with control and a consistent voice
 outscores an elaborate idea that loses coherence by paragraph three.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-2--13-technique-transfer.webp" width="900" height="800" alt="A studied story builds tension with short, fragmented sentences at its climax. An arrow labelled borrow leads to a candidate’s own writing, where four short sentences are used on purpose at a turning point: The door creaked. Footsteps. Closer. She froze. They have 3, 1, 1 and 2 words." loading="lazy">
+  <figcaption>A technique noticed in reading is deliberately borrowed in your own writing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-b-imaginative-writing--03-five-shapes.webp" width="900" height="789" alt="Five structural shapes with small diagrams: a single moment zooming from wide to one detail; in medias res, starting mid-action; cyclical, ending with the opening image changed in meaning; a time shift with one memory; and delayed revelation, withholding one key fact until late. Each piece needs four to six paragraphs with clear jobs." loading="lazy">
+  <figcaption>Pick one shape that gives a focus, a turn and an ending.</figcaption>
+</figure>
+
 ## Technical accuracy (AO5)
 
 AO5 is assessed independently of AO4's content and imagination — a
@@ -88,6 +108,11 @@ time pressure.
 - A promising opening followed by a rushed, underdeveloped ending because
 time ran out — evidence that planning time was skipped.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-2--14-plan-draft-check.webp" width="900" height="900" alt="A three-step flow: plan with a brief outline and a decided ending, draft using techniques noticed in reading, then proofread spelling, grammar, punctuation and paragraphs. A note warns that without a plan writing drifts with no clear structure or ending." loading="lazy">
+  <figcaption>Plan the structure and ending before drafting, then proofread.</figcaption>
+</figure>
+
 ## Comparing Section A and Section B under one clock
 
 Both sections carry equal marks (30 each) and equal recommended time
@@ -96,6 +121,11 @@ Section A's analysis — rereading and re-drafting points that were
 already sufficient — which leaves Section B rushed. Practise full
 90-minute timed attempts covering both sections together, not each
 section in isolation, so the transition between them is rehearsed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-2--12-component2-sections.webp" width="900" height="800" alt="Two panels. Section A: 45 minutes, 30 marks, one essay on a poem or prose text from Part 2 of the anthology, supplied in the exam, assessed on AO1 and AO2. Section B: 45 minutes, 30 marks, one imaginative writing task chosen from three prompts, assessed on AO4 and AO5." loading="lazy">
+  <figcaption>Each Component 2 section is 45 minutes and 30 marks.</figcaption>
+</figure>
 
 ## Vocabulary and register in imaginative writing
 
@@ -112,6 +142,11 @@ first-person reflective narrative can sustain a quieter, more
 introspective register than a tense, plot-driven scene, and switching
 between the two without reason reads as inconsistent rather than
 varied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-b-imaginative-writing--05-weak-paragraph-improved.webp" width="900" height="667" alt="A weak paragraph repeats “scared” and “very” and tells the reader how the narrator feels. The revision removes the repetition, shows fear through physical detail (“I had stopped breathing”), varies sentence length and uses the unusual image “borrowed”." loading="lazy">
+  <figcaption>Show feeling through detail, and let one precise word replace several.</figcaption>
+</figure>
 
 ## Exam traps
 

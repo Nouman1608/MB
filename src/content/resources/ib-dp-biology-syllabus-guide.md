@@ -132,6 +132,11 @@ how information and traits persist and change across generations.
   its consequences at population and ecosystem scale, closing the loop
   back to Theme A's evolution and speciation content.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-syllabus-guide--01-teaching-hours-by-theme.webp" width="900" height="752" alt="Paired bars of recommended teaching hours: Theme A 19 SL and 33 HL, Theme B 26 and 39, Theme C 31 and 48, Theme D 34 and 60. Below, syllabus content totals 110 hours at SL and 180 at HL, plus an experimental programme of 40 hours at SL and 60 at HL." loading="lazy">
+  <figcaption>Theme D, Continuity and change, is the largest theme at both levels.</figcaption>
+</figure>
+
 ## How to approach it
 
 Because DP Biology is organised by theme rather than by a strict linear
@@ -149,6 +154,16 @@ If you are studying at HL, keep a running list of exactly which
 sub-topics are HL-only (marked above) as you go, since these carry
 extra weight in Papers 1 and 2 and are easy to under-revise if you
 default to SL-level depth out of habit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-syllabus-guide--02-course-map-hl-only.webp" width="900" height="999" alt="Four theme panels list every sub-topic. Six are marked HL only: origins of cells, viruses, and classification and cladistics in Theme A; muscle and motility in Theme B; chemical signalling in Theme C; and gene expression in Theme D." loading="lazy">
+  <figcaption>HL-only sub-topics sit in every theme, so track them as you go.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-syllabus-guide--03-themes-as-connected-lenses.webp" width="900" height="690" alt="Four theme boxes around a centre note that Paper 2 questions are set across the whole syllabus. Membranes and organelles in Theme B feed cell respiration and photosynthesis in Theme C, and natural selection in Theme D closes the loop back to evolution and speciation in Theme A." loading="lazy">
+  <figcaption>Connections between themes are what Paper 2 rewards.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

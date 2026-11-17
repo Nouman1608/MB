@@ -78,6 +78,11 @@ Decoding:
 
 **In your target language:** decode the prompt in the target language, not in English. Underline the verb that gives the purpose and the noun that names the reader.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-d-writing--01-decode-the-task.webp" width="900" height="685" alt="The repair café email task decoded with four questions: the purpose is to persuade and request support; the audience is the head of school, so the register is formal; the text type is an email with a subject line, greeting, paragraphs, request and sign-off; the stimulus gives free repairs, volunteers, everyday objects, 40 items saved and images of shared work and less waste." loading="lazy">
+  <figcaption>Purpose, audience, text type and stimulus decide everything you write next.</figcaption>
+</figure>
+
 ## Step 2: plan
 
 A plan gives every paragraph one job. Single words are enough.
@@ -95,6 +100,11 @@ For the repair café email:
 Paragraph 3 answers a doubt the reader might have -- a sign that you have thought about audience, not only content.
 
 **In your target language:** write the plan in the target language. Next to each paragraph, note two key words and one structure to use (for example a conditional). This stops you translating from English.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-d-writing--02-plan-one-job-per-paragraph.webp" width="900" height="735" alt="An email plan in five parts: an opening that states why you are writing, paragraph 1 explaining the idea, paragraph 2 giving reasons, paragraph 3 answering an objection about cost and safety, and a close that makes the request. Answering an objection shows awareness of the reader." loading="lazy">
+  <figcaption>Give every paragraph one job; answer the reader’s likely doubt.</figcaption>
+</figure>
 
 ## Step 3: organisation and cohesive devices
 
@@ -126,6 +136,11 @@ The ideas are the same; *because*, *this*, *also*, *furthermore* and *so* show h
 
 **In your target language:** build your own connective table with at least two items per function. Tick each one off the first time you use it correctly in a piece of writing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-d-writing--03-cohesion.webp" width="900" height="655" alt="Four short separate sentences about the café are rewritten with the same ideas linked by “because”, “this”, “also”, “furthermore” and “so”. Below, connectives grouped by function: adding, contrasting, result, example and sequencing. A connective must match the logic of the ideas it joins." loading="lazy">
+  <figcaption>Connectives and reference words show how ideas relate.</figcaption>
+</figure>
+
 ## Step 4: register
 
 Register is how formal your language is. It depends on audience and purpose -- what the brief asks you to recognise.
@@ -147,6 +162,11 @@ Register is a scale. One idea at three points on it:
 The commonest register error is drift: a formal email that ends "Anyway, let me know, thanks!" Choose a register when you decode the task and check every paragraph against it.
 
 **In your target language:** the form of address is the biggest register signal. French uses *tu* or *vous*, Spanish *tú* or *usted*, German *du* or *Sie*. In a formal email to your head of school, use the polite form throughout and check that every verb and possessive agrees with it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-d-writing--04-register-scale.webp" width="900" height="790" alt="One idea at three points on a scale from informal to formal: a message to a friend, a school newsletter line and a formal proposal to the head. A table contrasts informal and formal greetings, forms of address, contractions, vocabulary and sentences. Register drift, such as a formal email ending “Anyway, let me know, thanks!”, is the commonest error." loading="lazy">
+  <figcaption>Choose the register when you decode the task, then keep it in every paragraph.</figcaption>
+</figure>
 
 ## Step 5: accuracy and range
 
@@ -171,6 +191,11 @@ A checking order for the end:
 
 **In your target language:** keep a personal error list of your three most frequent errors, and check for those first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-d-writing--05-range-and-checking.webp" width="900" height="715" alt="Rising columns show the range to aim for: emergent, short accurate sentences with basic connectives; capable, reasons, more than one time frame and some complex sentences; proficient, precise word choice, varied structures and natural idiom. Then a checking order: verbs, agreement, word order, spelling and accents, and register, plus a personal error list." loading="lazy">
+  <figcaption>Stretch your range only as far as you can keep it accurate.</figcaption>
+</figure>
+
 ## Model response (English)
 
 This model answers the repair café task.
@@ -194,6 +219,11 @@ This model answers the repair café task.
 > Amira Haddad, Year 10
 
 **Why it works:** each paragraph has one job; *First*, *Second*, *Finally*, *However* and *because* link the ideas; *such an event* refers back; the register stays formal; past, present and conditional all appear; and the stimulus, including its image, is used, not copied.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-d-writing--06-model-email-annotated.webp" width="900" height="785" alt="Extracts from the model email to the head of school, each annotated: a subject line; a formal greeting with the purpose stated; a past-tense paragraph reusing ideas from the poster; sequencing connectives and a reference word using the poster image; a paragraph answering an objection with “however”; and a polite request with a formal sign-off." loading="lazy">
+  <figcaption>Each paragraph has one job, the ideas are linked, and the register stays formal.</figcaption>
+</figure>
 
 ## Common errors
 

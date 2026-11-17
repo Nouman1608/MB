@@ -63,6 +63,11 @@ In this course the **audience** is the group of readers or listeners a text is w
 
 Sometimes the audience is **divided**: the same text must work for people who disagree. Writers then choose language that does not alienate one group while reaching another. When you identify an audience on the exam, avoid "everyone". Name the group and, where the text supports it, a second group.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-3-audience-context-study-guide--01-types-of-audience.webp" width="900" height="686" alt="Concentric circles show the primary audience the writer directly addresses at the centre, ringed by a secondary audience who will also read or hear the text. Alongside, broad audiences share little, specialised audiences share expert knowledge, and divided audiences disagree with each other." loading="lazy">
+  <figcaption>Name the group the writer addresses, and a second group where the text supports it.</figcaption>
+</figure>
+
 ## What audience tells you about a writer's choices
 
 An audience has **beliefs** (what they hold true), **values** (what they care about and consider right), **needs** (what they lack or want) and **background** (age, occupation, history, education, relationship to the topic). A writer's perception of these four things guides almost every choice:
@@ -75,6 +80,11 @@ An audience has **beliefs** (what they hold true), **values** (what they care ab
 
 You will see in Topics 2.1 and 2.2 how writers appeal to these audience features. Here the skill is simply **identifying and describing** the audience.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-3-audience-context-study-guide--02-profile-to-choices.webp" width="900" height="649" alt="Four audience features, beliefs, values, needs and background, feed into the writer’s perception, which branches into five choices: diction, evidence, tone, structure and what is left unsaid, each with an example from the lesson." loading="lazy">
+  <figcaption>A writer’s picture of the audience guides almost every choice in the text.</figcaption>
+</figure>
+
 ## Evidence of audience in the text
 
 Look for these clues:
@@ -85,6 +95,11 @@ Look for these clues:
 4. **Pronouns**: "we" and "us" build common ground; "you" separates the writer from the audience; "they" can set up a third party.
 5. **Anticipated objections**: "You may say the savings are needed" shows what the writer expects the audience to think.
 6. **Publication or setting**: a trade journal, a town-hall speech, a school newsletter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-3-audience-context-study-guide--03-six-clues-to-audience.webp" width="900" height="422" alt="Six numbered cards list clues to audience: direct address, assumed knowledge, shared references, pronouns, anticipated objections, and the publication or setting, each with a short example." loading="lazy">
+  <figcaption>Who a text is for shows in how it addresses, assumes and refers.</figcaption>
+</figure>
 
 ## Context: time, place and occasion
 
@@ -98,6 +113,11 @@ Context changes what is *possible* and what is *appropriate*. The same sentence 
 
 Context also affects how a text is **received**. A modern reader meets old texts in a different time from their first audience. For the exam, analyse the text in the context given in its introduction, not in the reader's own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-3-audience-context-study-guide--04-context-time-place-occasion.webp" width="900" height="591" alt="A large context panel holds three cards, time, place and occasion, and inside it a smaller box for the exigence, the specific trigger. Below, a solemn occasion calls for brevity and restraint, a rally for emphasis and rhythm, and a party joke would fail at a memorial." loading="lazy">
+  <figcaption>Context is time, place and occasion; the exigence is one trigger within it.</figcaption>
+</figure>
+
 ## A public-domain example: Washington in Atlanta (1895)
 
 Booker T. Washington gave a speech at the Cotton States and International Exposition in Atlanta, Georgia, on 18 September 1895. He is remembered for the image "Cast down your bucket where you are."
@@ -106,6 +126,11 @@ Booker T. Washington gave a speech at the Cotton States and International Exposi
 - **Audience:** divided and layered. Many listeners were white Southern business and political leaders; others were Black Southerners; and the speech was reported to readers across the country.
 
 Washington had to speak to groups who held very different beliefs and needs at the same time. His image of casting down a bucket where one already stands appealed to practical, economic cooperation and was framed in a way white business leaders could accept. Some contemporaries, including W. E. B. Du Bois, strongly criticised the speech and gave it the name "the Atlanta Compromise". That disagreement is itself a sign of how a divided audience shapes a writer's choices: whatever he says is heard differently by different parts of the audience.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-3-audience-context-study-guide--05-washington-divided-audience.webp" width="900" height="658" alt="Washington’s image “Cast down your bucket where you are” reaches three groups: white Southern business and political leaders, Black Southerners, and readers across the country. Below, the context of the Atlanta exposition and the criticism that named it “the Atlanta Compromise”." loading="lazy">
+  <figcaption>A divided audience hears the same words differently, so it shapes every choice.</figcaption>
+</figure>
 
 ## Worked example 1: one message, two audiences (written by Marlbridge)
 
@@ -122,6 +147,11 @@ A school must tell people that the Year 7 trip to the science museum is cancelle
 
 **Check.** Each point names a feature of the text and ties it to a belief or need of the audience. Writing "A is simpler and B is more complicated" would not tie choices to the readers, so it would earn little.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-3-audience-context-study-guide--06-one-message-two-audiences.webp" width="900" height="588" alt="Two versions of the same cancellation notice. Version A, to students, uses plain words such as “fallen through” and leads with the science lab afternoon. Version B, to parents, uses formal phrasing such as “regret to inform you” and covers payments and contact." loading="lazy">
+  <figcaption>Each point ties a feature of the text to a belief or need of its audience.</figcaption>
+</figure>
+
 ## Worked example 2: context changes the sentence (written by Marlbridge)
 
 Read the following sentence: "We will not be moved from this square until the vote is taken."
@@ -132,6 +162,11 @@ Read the following sentence: "We will not be moved from this square until the vo
 - **Context 2: a group of tourists on a guided walk who have been told the market is closed until the evening.** The same words would be humorous and exaggerated, because nothing is at stake.
 
 **Check.** The sentence is identical, but time, place and occasion change both how readers interpret it and what the speaker can accomplish. This is why a rhetorical analysis must always draw on context, not only on the words.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-3-audience-context-study-guide--07-same-sentence-two-contexts.webp" width="900" height="492" alt="One sentence, “We will not be moved from this square until the vote is taken”, branches into two contexts. For protesters outside a town hall before a vote it is a pledge of resistance; for tourists told the market is closed it is humorous and exaggerated." loading="lazy">
+  <figcaption>The words stay the same; time, place and occasion change their force.</figcaption>
+</figure>
 
 ## Common misconceptions
 

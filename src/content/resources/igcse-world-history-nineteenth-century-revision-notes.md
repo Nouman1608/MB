@@ -44,6 +44,16 @@ Causes: nationalism, liberal demands for constitutions, economic hardship after 
 
 They **failed** almost everywhere because the revolutionaries were divided between liberals and radicals, the middle classes withdrew support once property seemed threatened, the peasantry was largely uninvolved, and the conservative powers retained control of their armies. **Austria and Russia went further and intervened militarily** to restore conservative rule, most notably crushing the revolt in Hungary and helping suppress the risings in Italy. The lesson drawn — that unification would come through force rather than debate — shaped everything that followed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-world-history-nineteenth-century-1848-1914--05-w19-1848-causes.webp" width="900" height="830" alt="Four causes on the left feed into the 1848 revolutions: rising nationalism, liberal demands for written constitutions and representative government, poor harvests and economic hardship, and the example of the February 1848 revolution in France. Three outcomes on the right: in France the Second Republic gave way to Louis Napoleon well before 1852; the Frankfurt Parliament constitution collapsed by 1849; uprisings in Vienna and the Austrian Empire were suppressed by 1849. Most revolutions unravelled within a year or two." loading="lazy">
+  <figcaption>Four causes produced the 1848 revolutions, which mostly unravelled within a year or two.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-world-history-nineteenth-century-1848-1914--06-w19-1848-failed.webp" width="900" height="990" alt="Four recurring factors across France, the German states and the Austrian Empire. One: revolutionary coalitions split between moderate liberals wanting constitutional reform and radicals wanting deeper social change. Two: property-owning middle classes withdrew support once property was threatened. Three: peasant involvement was often limited and driven by agrarian grievances such as feudal dues, though this varied by region. Four: in most but not every case conservative monarchies kept enough loyal military force to restore the old order. The lesson later nationalists drew was to unify through diplomacy and deliberate war rather than parliamentary revolution." loading="lazy">
+  <figcaption>Four recurring factors explain why most 1848 revolutions failed.</figcaption>
+</figure>
+
 ## Unification
 
 **Italy (1859–1870).** Obstacles: Austrian control of the north, the Papal States dividing the peninsula, regional loyalty, and poor communications. Key figures: **Cavour** (Piedmontese diplomacy and the French alliance), **Garibaldi** (the Expedition of the Thousand in the south), **Mazzini** (nationalist inspiration), **Victor Emmanuel II** (king).
@@ -53,6 +63,21 @@ They **failed** almost everywhere because the revolutionaries were divided betwe
 Bismarck's skill lay in **isolating each opponent diplomatically before fighting**, and in stopping when the objective was achieved rather than pursuing total victory.
 
 Each war had a specific outcome that advanced unification step by step: the **Danish War (1864)** left Prussia and Austria in joint control of Schleswig and Holstein, an arrangement Bismarck deliberately used to **manufacture friction with Austria**; the **Austro-Prussian War (1866)** excluded Austria from German affairs entirely and created the **North German Confederation** under Prussian leadership; and the **Franco-Prussian War (1870–71)** ended with the **German Empire proclaimed at Versailles in January 1871**, bringing the southern German states into union with the north.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-world-history-nineteenth-century-1848-1914--07-w19-unification-timeline.webp" width="900" height="740" alt="A timeline from 1858 to 1872. Italian unification ran from 1859 to 1870, eleven years. German unification ran from 1864 to 1871, seven years. Germany’s three wars are marked: Denmark in 1864, Austria in 1866 and France in 1870 to 1871. Both began fragmented and were unified within about a generation, but by different methods and leaders." loading="lazy">
+  <figcaption>Italy took eleven years (1859–70) and Germany seven (1864–71), by different methods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-world-history-nineteenth-century-1848-1914--08-w19-italy-forces.webp" width="900" height="920" alt="Left: four obstacles to Italian unification: Austrian control of the north, the Papal States physically dividing the peninsula, strong regional loyalties, and poor communications between states. Right: four people and what they contributed: Cavour with Piedmontese diplomacy and a French alliance, Garibaldi’s conquest of the south in the Expedition of the Thousand, Mazzini’s earlier nationalist ideology, and Victor Emmanuel II as eventual king of a unified Italy. Unification took place 1859 to 1870." loading="lazy">
+  <figcaption>Four obstacles stood against Italian unification; four figures helped overcome them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-world-history-nineteenth-century-1848-1914--09-w19-bismarck-method.webp" width="900" height="1000" alt="Bismarck used three steps: isolate each opponent diplomatically, fight a limited war for one defined objective, and stop once it was achieved. He applied this against Denmark in 1864, Austria in 1866 and France in 1870 to 1871. The Ems Telegram provoked France into declaring war in 1870, which led the southern German states to join Prussia against a foreign aggressor, so the result was a unified German Empire rather than a purely Prussian conquest." loading="lazy">
+  <figcaption>Bismarck isolated, fought a limited war and stopped, three times; the Ems Telegram brought the south in.</figcaption>
+</figure>
 
 ## The alliance system
 
@@ -65,6 +90,16 @@ Britain abandoned "splendid isolation" because German naval expansion under Tirp
 
 **The alliances turned a local crisis into a general war** — but they were also intended to deter it, and stating both sides of that is what raises an answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-world-history-nineteenth-century-1848-1914--10-w19-alliances.webp" width="900" height="770" alt="Two triangles. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy. The Triple Entente of 1907 joined Britain, France and Russia. A dashed arrow marks naval rivalry between Germany and Britain: German naval expansion threatened British naval supremacy, and this largely drove Britain away from its earlier policy of splendid isolation." loading="lazy">
+  <figcaption>By 1907 Europe was split into the Triple Alliance and the Triple Entente.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-causes-first-world-war--02-alliances-balance.webp" width="900" height="488" alt="A balance. More likely: two armed camps, German encirclement and reliance on Austria-Hungary, the Schlieffen Plan, and bolder allies. Less likely: alliances were defensive, the ententes were not binding, Italy stayed out in 1914, and the crises of 1905-13 ended without war." loading="lazy">
+  <figcaption>The alliances explain how the war spread more than why it began.</figcaption>
+</figure>
+
 ## Long-term causes — MANIA
 
 | | |
@@ -74,6 +109,11 @@ Britain abandoned "splendid isolation" because German naval expansion under Tirp
 | **N**ationalism | Slav nationalism in the Balkans; French desire to regain Alsace-Lorraine |
 | **I**mperialism | Competition for colonies; Moroccan crises of 1905 and 1911 |
 | **A**ssassination | Franz Ferdinand at Sarajevo, 28 June 1914 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-world-history-nineteenth-century-1848-1914--11-w19-wwi-causes.webp" width="900" height="750" alt="Four pillars hold up the long-term causes of the First World War: militarism, such as the Anglo-German dreadnought race; the alliance system; nationalism, including Slav nationalism in the Balkans and French resentment over Alsace-Lorraine; and imperial rivalry, including the Moroccan crises of 1905 and 1911. A spark above them is the short-term trigger: the assassination of Archduke Franz Ferdinand at Sarajevo on 28 June 1914." loading="lazy">
+  <figcaption>Four long-term causes made war likely; the Sarajevo assassination was the trigger.</figcaption>
+</figure>
 
 ## The Balkans and the outbreak
 
@@ -85,6 +125,16 @@ The July Crisis: assassination → Austria's ultimatum to Serbia, backed by Germ
 
 **Not every Balkan crisis led to war.** The **annexation of Bosnia by Austria-Hungary in 1908** inflamed Serbian and Russian anger, and the **Moroccan crises of 1905 and 1911** brought France and Germany close to conflict, yet both were defused through diplomacy. This matters for evaluation: Balkan tension and imperial rivalry alone did not make war in 1914 inevitable — what changed was the great powers' readiness to escalate rather than negotiate once the July Crisis began.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-causes-first-world-war--05-balkans.webp" width="900" height="523" alt="A schematic hub with Ottoman decline at the centre. Austria-Hungary, backed by Germany, annexed Bosnia in 1908-09. Serbia led Slav nationalism and nearly doubled its territory in 1912-13. Russia, protector of the Slavs, backed down in 1909 and was determined not to be humiliated again." loading="lazy">
+  <figcaption>Opposed interests and resentment after each crisis made the Balkans explosive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-world-history-nineteenth-century-1848-1914--12-w19-july-crisis.webp" width="900" height="830" alt="A four-step chain. One: Russia begins to mobilise. Two: Germany’s Schlieffen Plan required a rapid defeat of France before Russia’s army could fully mobilise. Three: German military timetables left almost no room for diplomacy. Four: the crisis escalated into general war within weeks rather than months." loading="lazy">
+  <figcaption>The Schlieffen Plan’s timetable turned a crisis into general war within weeks.</figcaption>
+</figure>
+
 ## Answering the causation question
 
 "Was the assassination the main cause?" is the standard essay. The strongest structure:
@@ -94,6 +144,11 @@ The July Crisis: assassination → Austria's ultimatum to Serbia, backed by Germ
 3. **Judgement** — the assassination was the **spark**, not the **cause**; a different incident could have served, but only because the long-term causes had made the material combustible.
 
 Examiners reward **weighing** factors, not listing them. Always reach an explicit conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-causes-first-world-war--07-cause-spread-speed.webp" width="900" height="443" alt="Three cards separate the causes: Balkan rivalry explains why the war began, the alliances explain how it spread, and the Schlieffen Plan explains why diplomacy had so little time. A note: Italy stayed neutral and Britain entered over Belgium." loading="lazy">
+  <figcaption>A strong judgement separates cause, spread and speed.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -65,6 +65,11 @@ The syllabus defines an **issue** as "an important subject or problem for discus
 
 **Worked paragraph (analysing the level of an issue).** *"The source shows that youth unemployment is a national issue in the fictional country of Ardan, because its government is debating a wage subsidy. It is also global: the same pressures, such as automation in warehouses, affect many countries. This matters because a national solution may fail if the cause, such as international competition between online retailers, lies outside one country's control."* Notice the move from what the source says, to which level it belongs, to why the level matters for solutions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--01-informal-economy.webp" width="900" height="670" alt="A 100-square grid with just over 60 squares shaded shows the ILO’s 2018 estimate that more than 60% of the world’s employed population, about two billion people, work in the informal economy. The figure is credible but an estimate, because informal work is unrecorded. SDG 8 aims for decent work for all." loading="lazy">
+  <figcaption>A large share of the world’s workers have no contract or protection, but the figure is an estimate.</figcaption>
+</figure>
+
 ## Perspectives: who sees employment issues differently, and why
 
 The syllabus defines a **perspective** as "a viewpoint on an issue based on evidence and reasoning". The Individual Report asks you to show that you understand *why* different people hold different perspectives, not just what they think.
@@ -86,6 +91,16 @@ Typical groups and what shapes their view:
 
 **Worked paragraph (explaining why perspectives differ).** *"The taxi driver in the source values flexibility but wants sick pay, while the ride-hailing company stresses low fares. Their perspectives differ because the driver carries the risk of illness, while the company carries the risk of losing customers to cheaper rivals. Each view is reasonable from its own position, which is why a compromise, such as basic sick pay funded by a small fee, may be more likely to gain support than either extreme."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--02-employment-stakeholders.webp" width="900" height="504" alt="Six groups around an employment issue, each with its concern and reason: workers (pay and security), employers (costs and flexibility), trade unions (members’ protection), governments (jobs, tax, votes), consumers (low prices) and international bodies (standards across countries)." loading="lazy">
+  <figcaption>Each group’s concern follows from what it stands to gain or lose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--03-uber-flexibility-security.webp" width="900" height="712" alt="Timeline: in February 2021 the UK Supreme Court ruled Uber drivers are workers, and in March 2021 Uber gave UK drivers the minimum wage, holiday pay and pensions. A spectrum from flexibility to security places Uber’s argument at one end, the drivers who brought the case at the other, and many drivers wanting both in the middle." loading="lazy">
+  <figcaption>Perspectives are not simply for or against: one driver can want flexibility and security.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 The Individual Report must analyse "the reasons for conflict or disagreement/causes of problems and the consequences/impacts of the issue". The Written Exam asks you to analyse information in sources. A cause-consequence chain helps.
@@ -102,6 +117,16 @@ Example chain for youth unemployment:
 **Analysis tip.** Separate *short-term* from *long-term* consequences, and *intended* from *unintended* ones. A minimum wage rise may raise pay at once (intended), but some argue it can reduce hiring of the least experienced workers (possible unintended consequence). Economists disagree about how large this effect is, so present it as a debated claim.
 
 **Worked paragraph.** *"One cause of rising informal work in the fictional town of Brennock may be the loss of formal warehouse jobs, shown by youth unemployment rising from 9.0% to 13.5% while the informal share of jobs rose from 30% to 37%. This suggests that some young people who cannot find contracts take unregistered work instead. However, the data shows only that both rose over the same period. It does not prove one caused the other."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--04-youth-unemployment-chain.webp" width="900" height="654" alt="Two causes, warehouse automation and a skills gap among school leavers, lead to young people out of work. Consequences follow at four levels: personal loss of income and confidence, local loss of trade and out-migration, national tax and welfare effects, and global pressure to migrate and cross-border competition." loading="lazy">
+  <figcaption>One local cause can spread consequences up to the national and global level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--05-brennock-correlation.webp" width="900" height="620" alt="Two line charts for the fictional town of Brennock: youth unemployment rose from 9.0% to 13.5% and the informal share of jobs rose from 30% to 37% over the same period. Both rising suggests a link but does not prove that one caused the other." loading="lazy">
+  <figcaption>Two figures moving together show correlation, not causation.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -128,6 +153,16 @@ For Component 1, the syllabus says you will benefit from understanding **bias, c
 
 **Worked paragraph (Component 1 style).** *"The fictional retailers' association survey is weak evidence for the claim that young workers are unreliable. Only 150 of 2,000 members replied (7.5%), so the 80% figure may reflect the firms with the strongest complaints. The association also has a vested interest, as it is campaigning against a rise in youth pay rates. To test the claim properly, I would compare absence records for workers of different ages across a sample of shops chosen at random."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--06-automation-predictions.webp" width="900" height="662" alt="Two bars: Frey and Osborne (Oxford, 2013) estimated about 47% of US jobs at high risk of computerisation by judging whole occupations; Nedelkoska and Quintini (OECD, 2018) estimated about 14% of jobs across OECD countries as highly automatable by judging tasks within jobs." loading="lazy">
+  <figcaption>Different methods produce very different predictions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--07-four-day-week-pilot.webp" width="900" height="548" alt="Sixty-one dots, 56 shaded, show that 56 of 61 UK companies in the June to December 2022 four-day week pilot, with about 2,900 staff, said they would continue. Strengths: a real trial, a clear period and academic researchers. Limitations: volunteer companies, campaigning organisers, a short period and mostly small firms." loading="lazy">
+  <figcaption>Strong-looking results still need checking for who took part and for how long.</figcaption>
+</figure>
+
 ## Courses of action and their effects
 
 The Written Exam asks you to "assess actions in response to the global issue". The Individual Report must consider different courses of action and propose one. Judge each action against clear criteria:
@@ -149,6 +184,11 @@ Common actions in employment issues:
 | Shorter working week | Wellbeing; may share out work | Not suitable for every sector |
 
 **Worked paragraph.** *"The retraining scheme is the most effective action because it tackles a cause identified in the sources, the skills gap, rather than only the symptom of joblessness. Because local hospitals help pay for it and need the trained staff, it is more sustainable than a wage subsidy, which ends when government money runs out. Its weakness is speed: it will not help those unemployed now, so it could be combined with short-term support."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--08-employment-actions.webp" width="900" height="609" alt="A table of five employment actions with a benefit and drawback each: apprenticeships and retraining, wage subsidies, a minimum wage rise, rights for gig workers and a shorter working week. A worked judgement prefers retraining because it tackles a cause, combined with short-term support." loading="lazy">
+  <figcaption>The strongest action tackles a cause and lasts, but may need short-term help alongside it.</figcaption>
+</figure>
 
 ## Individual Report ideas
 

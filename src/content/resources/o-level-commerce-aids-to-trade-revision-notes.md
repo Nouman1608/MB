@@ -71,6 +71,11 @@ competitors, cost, nature of product, whether the product is new or old, and tim
 sale, special offers, sponsorship, displays, competitions, coupons, sales periods, loss leaders (sold below
 cost to attract customers), free gifts, free samples.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide--01-media-cafe.webp" width="900" height="740" alt="A small café with a local market and a low budget is shown choosing leaflets, a signboard and social media, each marked Choose. National television is marked Avoid because it is very expensive to make and broadcast." loading="lazy">
+  <figcaption>Which media suit a small local café with a low budget?</figcaption>
+</figure>
+
 ## 5.2 Banking: services for every need
 
 | Need | Service |
@@ -92,6 +97,16 @@ cost to attract customers), free gifts, free samples.
 and hacking risk, needs devices and network, can exclude some customers. Impact - branch closures, more
 digital-only banks, less use of cash.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide--02-standing-order-direct-debit.webp" width="900" height="1070" alt="Two flow pictures compare a standing order, which the account holder sets up for a fixed amount on a fixed date, with a direct debit, where the receiver asks for payment and the amount can vary. Bar heights are illustrative." loading="lazy">
+  <figcaption>A standing order is set up by the payer for a fixed amount, whereas a direct debit is collected by the receiver and can vary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide--03-debit-vs-credit.webp" width="900" height="870" alt="Today and Later timelines show a debit card paying the shop straight from your own account, while a credit card has the bank lend the money and you repay it later with interest if the balance is not paid in full." loading="lazy">
+  <figcaption>A debit card takes money straight from the account; a credit card borrows money that is repaid later.</figcaption>
+</figure>
+
 ## 5.3 Insurance: how it works
 
 1. Business completes a **proposal form**, disclosing all relevant facts.
@@ -104,6 +119,16 @@ digital-only banks, less use of cash.
 **Risks**: consequential loss, employer's liability, fire, motor, premises, public liability, theft.
 
 **Premium example.** A van worth $30 000 is insured at 4% a year. Premium = 30 000 x 4 / 100 = **$1 200**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide--04-pooling-of-risk.webp" width="900" height="920" alt="Twenty policyholders pay small premiums into a common fund. In an illustrative year two suffer a loss and the fund compensates them, so a business can accept risks it could never afford alone." loading="lazy">
+  <figcaption>Many pay small premiums into a fund so that the few who suffer a loss can be compensated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide--05-premium-calculation.webp" width="900" height="1100" alt="A grid of 640 blocks of $100 shows stock worth $64,000. At $1.25 per $100 the premium is $800; with sprinklers the rate is $1.00 and the premium $640, saving $160." loading="lazy">
+  <figcaption>Premium = (value insured / 100) x rate per $100, so $64,000 at $1.25 gives $800 and at $1.00 gives $640.</figcaption>
+</figure>
 
 ## 5.4 Finance and commercial performance
 
@@ -128,6 +153,11 @@ liabilities $11 000.
 
 **Improving performance**: cut expenses, raise mark-up, change prices, advertise better, launch new
 products.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide--07-markup-vs-margin.webp" width="900" height="890" alt="The same $9 profit on a lamp costing $15 and selling at $24 gives a mark-up of 60 percent (divided by cost) but a gross profit margin of 37.5 percent (divided by selling price)." loading="lazy">
+  <figcaption>Mark-up is measured on cost and gross profit margin on revenue, so mark-up is the larger percentage.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

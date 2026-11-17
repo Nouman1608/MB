@@ -38,6 +38,11 @@ Condensed notes for sub-topic 1.5 of Cambridge O Level Geography (2217), 2026 se
   water, cooperation.
 - **Linear**: a line along a road, river, coast, railway or valley floor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--01-settlement-patterns.webp" width="900" height="615" alt="Three plan views. Dispersed: isolated farmhouses spread across fields, typical of large or pastoral farms where water is everywhere. Nucleated: houses clustered round a crossroads or well, for shared water, defence or cooperation. Linear: houses in a line along a road, also found along railways, rivers, coasts and valley floors." loading="lazy">
+  <figcaption>Name the pattern, then give a reason tied to a feature you can see.</figcaption>
+</figure>
+
 ## Site factors
 
 - Wet point (water supply) and dry point (above flooding).
@@ -47,6 +52,16 @@ Condensed notes for sub-topic 1.5 of Cambridge O Level Geography (2217), 2026 se
 
 **Site** = the land built on. **Situation** = position relative to routes, resources and other
 places. **Situation decides growth.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--02-site-factors.webp" width="900" height="765" alt="A schematic landscape with six numbered settlements: 1 on a dry point above a marshy floodplain; 2 inside a meander loop for defence, like Durham; 3 at a bridging point; 4 at a spring, a wet point; 5 in a gap through the hills; 6 on a sheltered, sunny slope. A key below names each site factor." loading="lazy">
+  <figcaption>Early sites met basic needs: water, safety from floods and attack, crossings and routes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-population-and-settlement--05-site-situation.webp" width="900" height="900" alt="A schematic landscape, not to scale. A small settlement sits on a patch of land inside a dashed ring: the ring is its site, the physical land it is built on. Dashed arrows from the ring to a river, hills and a neighbouring settlement show its situation, its position relative to surrounding features and other places. Both influence growth and functions." loading="lazy">
+  <figcaption>Site is the land a settlement is built on; situation is its position relative to surrounding features and other places.</figcaption>
+</figure>
 
 ## Functions
 
@@ -72,6 +87,11 @@ services**, **larger sphere of influence**.
 | Range | Short | Long |
 | Found in | Villages and above | Large towns and cities |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--03-settlement-hierarchy.webp" width="900" height="750" alt="A stepped pyramid from isolated dwelling at the base through hamlet, village, town and city to conurbation at the top. An arrow upwards notes fewer settlements, each larger and further apart, with more and higher-order services and a larger sphere of influence. Below, threshold and range explain why only large settlements support high-order services." loading="lazy">
+  <figcaption>Threshold and range decide which services each level can support.</figcaption>
+</figure>
+
 ## Changing service provision
 
 - **Rural decline** of shops, banks and post offices: car ownership, online shopping and banking,
@@ -79,11 +99,21 @@ services**, **larger sphere of influence**.
 - **Responses**: mobile services, multi-purpose shops, community-run shops.
 - **Rapidly growing cities**: services cannot keep pace with demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--04-changing-services.webp" width="900" height="475" alt="Causes of rural service closure (more car ownership, online shopping and banking, ageing or declining population) lead to the loss of village shops, banks and post offices. Responses include mobile libraries, clinics and banking vans, multi-purpose shops with a post office and café, and community-run shops. In fast-growing cities the problem is the reverse." loading="lazy">
+  <figcaption>Fewer local customers push services away; mobile and shared services fill the gap.</figcaption>
+</figure>
+
 ## Studying service provision
 
 - Questionnaire: where do shoppers live, how often do they visit?
 - **Desire lines** from the settlement to customers' homes show the **sphere of influence**.
 - Evaluate: sample size, time and day, location of the survey.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--05-sphere-of-influence.webp" width="900" height="730" alt="Three circles centred on a market town show the spheres of influence of a newsagent (furthest customer 4 km), a supermarket (15 km) and a furniture store (55 km), with desire lines to customers’ homes. A table gives mean and furthest distances: newsagent 1.5 and 4 km, supermarket 6 and 15 km, furniture store 22 and 55 km. The furniture store is high-order; the newsagent low-order." loading="lazy">
+  <figcaption>High-order services draw customers from much further away.</figcaption>
+</figure>
 
 ## Why patterns differ: explaining, not just naming
 

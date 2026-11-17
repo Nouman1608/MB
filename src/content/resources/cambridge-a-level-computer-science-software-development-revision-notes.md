@@ -63,6 +63,11 @@ Related: [Software Development study guide](/resources/cambridge-a-level-compute
 
 **Purpose of a life cycle**: it gives a structured plan, so each stage is completed and checked, progress can be monitored, and the product meets the requirements.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--01-sd-lifecycle.webp" width="900" height="960" alt="Five stages run top to bottom: analysis, design, coding, testing and maintenance. Each has an icon and one line on its role. Analysis agrees the requirement specification; design plans charts, pseudocode and the test plan." loading="lazy">
+  <figcaption>The five stages of the program development life cycle in order, with the role of each.</figcaption>
+</figure>
+
 ## Waterfall, iterative and RAD compared
 
 | Model | Principle | Benefits | Drawbacks |
@@ -70,6 +75,11 @@ Related: [Software Development study guide](/resources/cambridge-a-level-compute
 | Waterfall | Each stage is completed and signed off before the next starts; little going back | Simple to manage; clear milestones and documentation; suits fixed, well-understood requirements | Changes are hard and costly late on; the client sees a working program only near the end; errors in analysis are found late |
 | Iterative | The program is developed in small parts; each iteration repeats design, coding and testing and adds to a working version | Working versions early; feedback after each iteration; easier to accommodate change; risks found early | Needs more client involvement; total cost and time harder to predict; the system design can suffer if the whole is not planned |
 | RAD | Prototypes are built quickly, often from reusable components, and refined with continuous user feedback; time-boxed | Fast delivery; the product closely matches what users want; changes welcomed | Needs users available throughout; less suited to large or safety-critical systems; documentation and code quality may suffer |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--02-sd-models.webp" width="900" height="1240" alt="Three panels show waterfall as a staircase of stages, iterative as growing versions linked by feedback, and RAD as a prototype passed to users and back. Each panel gives one strength and one weakness taken from the lesson." loading="lazy">
+  <figcaption>Waterfall, iterative and RAD compared by shape, with one strength and one weakness each.</figcaption>
+</figure>
 
 ## Structure charts
 
@@ -89,6 +99,11 @@ A **structure chart** shows the modules of a program in a hierarchy, how a probl
 ## State-transition diagrams
 
 A **state-transition diagram** documents an algorithm whose behaviour depends on its current state and the input or event received. States are drawn as circles; transitions as arrows labelled with the event (and any output); an arrow with no source marks the start state; a double circle often marks a final or halting state. They are used for systems such as a vending machine, a traffic-light controller or a login with limited attempts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--03-sd-state-ticket.webp" width="900" height="1010" alt="A ticket machine moves from Waiting to Accepting money when money is inserted, to Issuing ticket when enough is paid, and back to Waiting when the ticket is taken. A state table lists the same three transitions." loading="lazy">
+  <figcaption>A state-transition diagram and state table for the ticket machine mentioned in the lesson.</figcaption>
+</figure>
 
 ## Error types
 
@@ -131,6 +146,16 @@ For an input that must be a whole number from 1 to 50:
 
 Abnormal data is not extreme data (November 2024). Test data must fit the range in the question (June 2024 to June 2025).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--05-sd-test-plan.webp" width="900" height="700" alt="A number line from 0 to 50 with the pass mark at 25. Nine tests are shown with their expected results: minus 1, 51 and abc give Error; 0, 10 and 24 give Fail; 25, 37 and 50 give Pass. Two sets of boundaries are tested: the limits of valid input and the pass mark." loading="lazy">
+  <figcaption>The nine tests of the worked example placed on the 0 to 50 score line, coloured by expected result.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--04-sd-test-data-v2.webp" width="900" height="700" alt="A number line from 10 to 22 for an age input that accepts 13 to 19. 14 and 18 are normal. 13 and 19, the smallest and largest accepted values, are extreme. The boundary pairs are 12 and 13, and 19 and 20: the last value accepted and the first rejected on each side. Minus 5, 30 and the word ten are abnormal." loading="lazy">
+  <figcaption>Normal, extreme, boundary and abnormal test data for an input accepting ages 13 to 19.</figcaption>
+</figure>
+
 ## Maintenance
 
 | Type | Purpose | Example |
@@ -138,6 +163,11 @@ Abnormal data is not extreme data (November 2024). Test data must fit the range 
 | Corrective | Fix errors found after the program is in use | A discount is calculated wrongly for large orders |
 | Adaptive | Change the program because its environment or requirements change | A new tax rate, a new operating system, a new law |
 | Perfective | Improve performance or usability, or add features, without fixing an error | Make searches faster; add an export option |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--06-sd-maintenance.webp" width="900" height="760" alt="A released program has three arrows to corrective, adaptive and perfective maintenance. Corrective fixes faults found in use, adaptive changes the program for a new operating system or tax law, and perfective improves performance or adds features users ask for." loading="lazy">
+  <figcaption>The three types of maintenance with the trigger for each.</figcaption>
+</figure>
 
 ## Worked example: a test plan entry and a fix
 

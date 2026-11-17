@@ -83,6 +83,11 @@ When you are ready, try the [industrialization practice questions](/resources/ib
 | 1989 | Berners-Lee proposes the World Wide Web |
 | 2015 | Paris Agreement on climate change |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--02-inventions-timeline.webp" width="900" height="848" alt="A vertical timeline: Darby smelts iron with coke (1709), Newcomen’s steam engine (1712), Kay’s flying shuttle (1733), the Bridgewater Canal (1761), the spinning jenny (about 1764), Arkwright’s water frame and Watt’s separate condenser (1769), Crompton’s mule (1779), Cartwright’s power loom (1785), the Stockton and Darlington Railway (1825) and the Liverpool and Manchester Railway (1830), colour-coded as power, textiles or transport." loading="lazy">
+  <figcaption>Get the dates right: Newcomen’s engine (1712) came long before Watt’s condenser (1769).</figcaption>
+</figure>
+
 ## Why Britain first -- six linked causes
 
 Resources (coal, iron, water power) + agricultural change (food, labour) + capital (trade profits, banks) + markets and empire (raw cotton in, goods out) + transport (rivers, coast, canals) + political stability (property and patents protected).
@@ -93,9 +98,19 @@ Resources (coal, iron, water power) + agricultural change (food, labour) + capit
 3. Explain how it led to industrial growth.
 4. Link it to another factor (cheap coal needed canals to move it).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--01-why-britain.webp" width="900" height="748" alt="Six factors surround the Industrial Revolution in Britain, about 1760 to 1840: resources, agricultural change, capital from trade, markets and empire, transport, and political stability." loading="lazy">
+  <figcaption>Several factors worked together; strong answers show how they link.</figcaption>
+</figure>
+
 ## The chain of invention
 
 Flying shuttle → yarn shortage → jenny, water frame, mule → more yarn → power loom → power demand → steam engines → coal demand → canals and railways → cheaper transport → bigger markets. Using this chain shows **causality**, one of the brief's example related concepts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--03-challenge-response.webp" width="900" height="724" alt="Left: a loop in which faster weaving raises demand for yarn, spinning is mechanised, and faster weaving is needed again. Right: a chain in which machines need power, water gives way to steam, steam needs coal, and coal needs better transport." loading="lazy">
+  <figcaption>Each invention created the problem the next one solved.</figcaption>
+</figure>
 
 ## Later industrialisers compared
 
@@ -108,6 +123,11 @@ Flying shuttle → yarn shortage → jenny, water frame, mule → more yarn → 
 | East Asian economies | From the 1960s | Export-led manufacturing |
 | China | From 1978 | Special Economic Zones, foreign investment |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--04-later-industrialisers.webp" width="900" height="787" alt="A timeline of when industrialisation took off: Britain about 1760, the USA after the Civil War, Japan after the Meiji Restoration in 1868, Germany after unification in 1871, the USSR with Five-Year Plans from 1928, the East Asian economies from the 1960s and China with reforms from 1978." loading="lazy">
+  <figcaption>Later starters borrowed technology and relied on the state, so they moved faster.</figcaption>
+</figure>
+
 ## Impacts -- quick grid
 
 | | Positive | Negative |
@@ -116,6 +136,11 @@ Flying shuttle → yarn shortage → jenny, water frame, mule → more yarn → 
 | Cities | Growth of towns, services, railways | Overcrowding, poor housing, cholera, high death rates at first |
 | Environment | Later: cleaner technology and laws | Smog, river pollution, rising carbon dioxide |
 | Today | Cheaper goods, communication, new jobs | Job losses from automation, digital divide, e-waste |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--05-work-and-reform.webp" width="900" height="670" alt="Work moved from the domestic putting-out system to factories run by clock and machine for 12 to 14 hours a day. Responses included the Luddites, growing trade unions and the Chartists. Reform followed slowly with the Factory Act of 1833 and the Mines Act of 1842." loading="lazy">
+  <figcaption>Factory work provoked protest and organisation before reform slowly followed.</figcaption>
+</figure>
 
 ## Technology today -- key points
 
@@ -147,6 +172,16 @@ For example, on living standards 1760–1900: early factory workers faced long h
 
 **Worked reminder (fictional data):** a town grows from 12,000 to 96,000. Percentage change = (96,000 − 12,000) ÷ 12,000 × 100 = 700%. That is an eightfold increase, not "800%".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--06-harrowby-growth.webp" width="900" height="700" alt="Bars for fictional Harrowby: 12,000 people in 1801, 39,000 in 1831 and 96,000 in 1861. Growth was 225% (27,000 people) from 1801 to 1831 and 146.2% (57,000 people) from 1831 to 1861; overall it was 700%, an eightfold rise." loading="lazy">
+  <figcaption>Percentage growth fell after 1831 while the number of extra people rose: say which measure you mean.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--07-employment-sectors.webp" width="900" height="733" alt="Stacked bars for fictional Norland. In 1800 jobs were 62% primary, 22% secondary and 16% tertiary; in 1900, 18%, 46% and 36%; in 2020, 2%, 17% and 81%. Secondary rose 24 percentage points then fell 29, while tertiary rose 45 points after 1900." loading="lazy">
+  <figcaption>Manufacturing rose then fell as services took over: measure the change in percentage points.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Newcomen vs Watt**: Newcomen built the first practical steam engine (1712); Watt made it far more efficient (1769 patent).
@@ -163,6 +198,11 @@ For example, on living standards 1760–1900: early factory workers faced long h
 4. Action plan with dates.
 5. Consistent referencing.
 6. Evaluation of the process and the sources.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--08-investigation-plan.webp" width="900" height="782" alt="Six steps for a criterion B plan: a focused research question such as how far the 1833 Factory Act improved conditions for child workers, a justification, a method using primary and secondary sources, a dated action plan, consistent recording and referencing, and an evaluation." loading="lazy">
+  <figcaption>Six steps take a plan from a focused question to an honest evaluation.</figcaption>
+</figure>
 
 ## Quick self-test
 

@@ -109,6 +109,16 @@ The environmental impact of a population is not set by numbers alone. The **IPAT
 - **Pro-natalist** policies raise birth rates: child benefit payments, paid parental leave, subsidised childcare, tax breaks for larger families.
 - **Anti-natalist** policies lower birth rates: free contraception, family planning services, education and employment for women, incentives for smaller families.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--01-demographic-transition-model.webp" width="900" height="690" alt="Graph of birth rate and death rate across five stages. Both are high in stage 1; the death rate falls fast in stage 2 while birth rate stays high, giving rapid growth; birth rate falls in stage 3; both are low in stage 4; in proposed stage 5 the birth rate drops below the death rate and the population declines." loading="lazy">
+  <figcaption>The gap between birth and death rates is natural increase; it widens, then closes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--02-population-pyramid-shapes.webp" width="900" height="685" alt="Three schematic pyramids of males and females by age band. Expanding: a wide base and narrow top from a high birth rate. Stationary: straight sides from low birth and death rates. Contracting: a narrow base and wider middle and top from a birth rate below replacement." loading="lazy">
+  <figcaption>The base shows recent births; the shape records a population’s history.</figcaption>
+</figure>
+
 ## 8.2 Urban systems and urban planning
 
 ### The city as a system
@@ -163,6 +173,16 @@ Urban planning shapes how land is used, so it controls much of a city's footprin
 
 Evaluate each strategy by cost, who benefits and who pays. Compact housing can raise land prices and push poorer residents out; transit needs large public investment. Name the stakeholders and their perspectives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--03-city-as-system.webp" width="900" height="690" alt="Systems diagram of a city. Inputs of food, water, energy, building materials, goods and people flow in; buildings, infrastructure, people and goods are stored; outputs of solid waste, sewage, air pollutants, greenhouse gases, waste heat, goods and services and people flow out." loading="lazy">
+  <figcaption>A city depends on inputs from far beyond its boundary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--04-urban-heat-island.webp" width="900" height="690" alt="Cross-section from countryside through a city centre of tall buildings and back. A temperature line rises from the rural edges to a peak over the centre. Four causes are labelled: dark surfaces, waste heat, less vegetation and evapotranspiration, and tall buildings that trap heat and reduce wind." loading="lazy">
+  <figcaption>Cities run warmer than the countryside, especially at night.</figcaption>
+</figure>
+
 ## 8.3 Urban air pollution
 
 ### Primary and secondary pollutants
@@ -206,6 +226,21 @@ Percentage change = (41 − 58) ÷ 58 × 100 = −29.3 %
 ```
 
 Then evaluate. The fall is large, but one year's data may reflect weather. Traffic may have moved to roads outside the zone. Ozone, a secondary pollutant, may not fall in step with NO₂. Poorer drivers with older cars pay most. A strong conclusion weighs these against the health benefit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--05-photochemical-smog.webp" width="900" height="670" alt="Four steps: vehicles emit nitrogen monoxide and VOCs, and NO is oxidised to NO₂; sunlight splits NO₂ into NO and an oxygen atom; the atom joins O₂ to form ozone; VOCs react with nitrogen oxides to form PANs and more ozone. A schematic daily graph shows NO₂ peaking in the morning and ozone in the afternoon." loading="lazy">
+  <figcaption>Ozone is a secondary pollutant: it peaks hours after the rush-hour emissions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--06-thermal-inversion.webp" width="900" height="690" alt="Two valley cross-sections with a city. Normally temperature falls with height, so warm polluted air rises and disperses. In an inversion a warm air layer sits above cool air near the ground; the cool, polluted air cannot rise through it and pollutants are trapped. Small graphs show temperature against height." loading="lazy">
+  <figcaption>Warm air above cool air stops the polluted air near the ground from rising.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-human-populations-urban-systems--07-managing-urban-air-pollution.webp" width="900" height="685" alt="Three stacked levels. Altering the human activity, such as public transport and renewable electricity, tackles the cause but is slow. Controlling release, such as catalytic converters and low-emission zones, is faster but needs enforcement. Clean-up, such as street trees and air quality alerts, is weakest for air because pollutants disperse." loading="lazy">
+  <figcaption>Changing the activity tackles the cause; clean-up is weakest for air.</figcaption>
+</figure>
 
 ## Common errors
 

@@ -54,6 +54,16 @@ Everything else below is standard design knowledge, not wording from the brief.
 | Sustainability | Related | Meeting needs now without harming future generations' ability to meet theirs | Phone battery held by screws, not glue |
 | Innovation | Related | A new idea or new combination put into successful use | Wheels added to suitcases |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-key-and-related-concepts--02-four-key-concepts.webp" width="900" height="625" alt="Four cards. Communication: the product communicates with its user and the designer communicates through the folder. Communities: design for groups and ask who is left out. Development: a product changes over generations, and your own solution develops from sketch to prototype. Systems: parts work together as input, process and output, often with feedback." loading="lazy">
+  <figcaption>Each key concept prompts a different question about a design.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-key-and-related-concepts--06-adaptation-and-innovation.webp" width="900" height="740" alt="Adaptation examples, each from original to new need to change: plant burrs to hook-and-loop fastening, standard cutlery to thick soft handles for limited grip, and a website rearranging for a small screen. Invention creates something new that may never be adopted; innovation puts a new idea into successful use, either incrementally (a suitcase gains wheels) or radically (touchscreens replace keypads)." loading="lazy">
+  <figcaption>Adaptation reworks an existing design; innovation is a new idea that gets used.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Key vs related concept.** Key concepts are broad and shared across MYP subjects. Related concepts belong to the discipline and drive specific design decisions.
@@ -62,6 +72,11 @@ Everything else below is standard design knowledge, not wording from the brief.
 - **Incremental vs radical innovation.** Incremental improves step by step; radical changes how a task is done.
 - **Adaptation vs development.** Adaptation changes a design for a *different* user or setting. Development improves a design over versions for the *same* purpose.
 - **Physical vs physiological vs psychological ergonomics.** Sizes; body capability and comfort; perception and feeling.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-key-and-related-concepts--01-topic-vs-concept.webp" width="900" height="548" alt="“Chairs” is a topic tied to one kind of product. “Ergonomics” is a concept that applies to chairs, keyboards, door handles and phone apps alike, so what you learn transfers to the next project." loading="lazy">
+  <figcaption>Concepts travel between projects; topics do not.</figcaption>
+</figure>
 
 ## Ergonomics: percentile rules
 
@@ -82,6 +97,16 @@ Everything else below is standard design knowledge, not wording from the brief.
 
 **Worked reminder.** Fictional 95th-percentile hand breadth = 88 mm. Handle opening is clearance, allowance 10 mm → 88 + 10 = **98 mm**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-key-and-related-concepts--05-stool-worked-example.webp" width="900" height="605" alt="An adjustable stool set from fictional popliteal heights of 380 mm (5th percentile) and 460 mm (95th), plus 25 mm for shoes: it adjusts from 405 mm to 485 mm, a travel of 80 mm. A handle is a clearance problem: the 95th-percentile hand breadth of 88 mm plus a 10 mm allowance gives a 98 mm grip." loading="lazy">
+  <figcaption>Add allowances to the percentile values to turn body data into design sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-key-and-related-concepts--04-percentiles-reach-clearance.webp" width="900" height="725" alt="A bell-shaped distribution of a body measurement with the 5th and 95th percentiles marked and the middle 90% of users shaded. Reach problems such as a shelf use the 5th percentile, clearance problems such as a doorway use the 95th, and adjustable products cover the full range. Designing for the 50th percentile fits almost no one well." loading="lazy">
+  <figcaption>Reach: design for the small user. Clearance: design for the large user.</figcaption>
+</figure>
+
 ## Systems: the frame to draw
 
 ```
@@ -91,6 +116,11 @@ INPUT  →  PROCESS  →  OUTPUT
 ```
 
 Example: a daylight-controlled classroom light. Input: light sensor reading. Process: controller compares it with a set level. Output: lamp brightens or dims. Feedback: the sensor measures the new room brightness, so the lamp settles at the set level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-key-and-related-concepts--03-systems-watering.webp" width="900" height="565" alt="A plant-watering system: the input is a soil moisture sensor reading, a microcontroller compares it with a set level, and the output opens a valve so water flows. Feedback: as the reading rises the valve closes. A flat sensor battery would stop the whole system." loading="lazy">
+  <figcaption>Describe a system as input, process and output, then trace the feedback.</figcaption>
+</figure>
 
 ## Statements of inquiry -- method in steps
 
@@ -106,6 +136,11 @@ The brief does not print a format; this is the common school method.
 Key concept: communities. Related: ergonomics. Context: fairness and development.
 "Designing for the full range of body sizes in a community decides who is able to use shared spaces."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-key-and-related-concepts--07-statement-of-inquiry.webp" width="900" height="745" alt="For a lunch-queue unit, the key concept systems, related concepts ergonomics and sustainability, and the global context globalization and sustainability combine into a statement of inquiry. “We will design a better lunch queue” is weak; “Systems designed around how people actually move and wait use space, time and resources more efficiently” is stronger and transfers to other settings." loading="lazy">
+  <figcaption>One sentence that links the concepts and context and would hold for other products.</figcaption>
+</figure>
+
 ## Inquiry questions -- the three types
 
 | Type | Test | Example |
@@ -113,6 +148,11 @@ Key concept: communities. Related: ergonomics. Context: fairness and development
 | Factual | Has one checkable answer | What does the 5th percentile mean? |
 | Conceptual | Asks how or why; links ideas; transfers | How does feedback make a system more reliable? |
 | Debatable | Two informed people could argue either way with evidence | Should designers put appearance before repairability? |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-key-and-related-concepts--08-inquiry-question-types.webp" width="900" height="725" alt="Three question types for a seating unit: factual questions have a checkable answer, such as a 95th-percentile hand breadth; conceptual questions ask how ideas connect, such as how ergonomic data changes who can use a product; debatable questions invite disagreement, such as whether a public bench should prioritise comfort. A debatable question must be arguable both ways with evidence." loading="lazy">
+  <figcaption>Write two or three of each type: factual for research, conceptual and debatable for depth.</figcaption>
+</figure>
 
 ## Worked reminder -- one product, eight concepts
 

@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-a-level-law-9084-formation-of-a-valid-contract--01-types-of-contract.webp",
+  "width": 900,
+  "height": 456,
+  "after": "## 3.1.1 Nature of a contract",
+  "alt": "Three panels. Bilateral: a promise is exchanged for a promise, as in most sales. Unilateral: a promise is exchanged for an act, and only the promisor is bound (Carlill). Collateral: in Shanklin Pier v Detel the paint maker promised the pier owners the paint would last seven years, and the owners told their contractors to buy it.",
+  "caption": "Promise for promise, promise for act, or a separate promise alongside the main contract.",
+  "bytes": 75270
+ },
+ {
+  "file": "cambridge-a-level-law-9084-formation-of-a-valid-contract--02-forms-auctions-tenders.webp",
+  "width": 900,
+  "height": 699,
+  "after": "## 3.1.2 Offer and acceptance",
+  "alt": "Three flows. Battle of the forms: the buyer’s order form is a counter offer accepted when the seller returns the tear-off slip (Butler v Ex-Cell-O). Auctions: the request for bids is an invitation to treat, each bid is an offer withdrawable until the hammer falls (Payne v Cave), and the hammer is acceptance; without reserve creates a collateral contract (Barry v Davies). Tenders: the invitation is normally an invitation to treat and each tender an offer, with exceptions in Harvela, Blackpool and Witham.",
+  "caption": "In each setting, find the invitation, the offer and the acceptance.",
+  "bytes": 149938
+ },
+ {
+  "file": "cambridge-a-level-law-9084-formation-of-a-valid-contract--03-intention-presumptions.webp",
+  "width": 900,
+  "height": 594,
+  "after": "## 3.1.3 Intention to create legal relations",
+  "alt": "Two columns. Social and domestic agreements are presumed not binding (Balfour v Balfour), rebutted by separation (Merritt), substantial reliance (Parker v Clark) or a clear financial basis (Simpkins v Pays), but not in Jones v Padavatton. Commercial agreements are presumed binding (Edwards v Skyways), rebutted by an honour clause (Rose and Frank) or a letter of comfort (Kleinwort Benson).",
+  "caption": "Start from the presumption, then look for evidence that rebuts it.",
+  "bytes": 114800
+ },
+ {
+  "file": "cambridge-a-level-law-9084-formation-of-a-valid-contract--04-existing-duties.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## 3.1.4 Consideration",
+  "alt": "A table of existing duties: a public duty is no consideration (Collins v Godefroy) unless exceeded (Glasbrook); a contractual duty to the promisor is none (Stilk v Myrick) unless extra is done (Hartley v Ponsonby) or there is a practical benefit (Williams v Roffey); a duty owed to a third party is good consideration (Scotson v Pegg). Below, sufficiency and past consideration with their cases.",
+  "caption": "Doing what you already must is usually not consideration, with three named exceptions.",
+  "bytes": 149876
+ },
+ {
+  "file": "cambridge-a-level-law-9084-formation-of-a-valid-contract--05-part-payment-estoppel.webp",
+  "width": 900,
+  "height": 595,
+  "after": "## 3.1.4 Consideration",
+  "alt": "The rule that part payment does not discharge a debt (Pinnel’s Case; Foakes v Beer; Re Selectmove), with two exceptions: something new is given, or promissory estoppel (High Trees, from Hughes). Three limits on estoppel: a shield not a sword (Combe v Combe), not for a debtor who acted inequitably (D & C Builders v Rees), and it often only suspends rights (Tool Metal).",
+  "caption": "Part payment rarely discharges a debt; estoppel protects a relying debtor but cannot found a claim.",
+  "bytes": 123446
+ },
+ {
+  "file": "cambridge-a-level-law-9084-formation-of-a-valid-contract--06-minors-contracts.webp",
+  "width": 900,
+  "height": 687,
+  "after": "## 3.1.5 Capacity (minors only)",
+  "alt": "Three categories of minors’ contracts: necessaries are binding at a reasonable price (Nash v Inman); beneficial contracts of service bind if for the minor’s benefit (Doyle; De Francesco); voidable contracts bind unless repudiated (Steinberg v Scala). Proform is noted. Remedies: Minors’ Contracts Act 1987 s2 and s3, and restitution in equity for fraud (Leslie v Sheill), with no remedy once nothing represents the goods or money.",
+  "caption": "Not all minors’ contracts are void: three categories bind, and the 1987 Act adds remedies.",
+  "bytes": 186130
+ }
+]

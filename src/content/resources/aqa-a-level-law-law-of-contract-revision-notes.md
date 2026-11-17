@@ -96,6 +96,21 @@ purports to benefit them.
 **Intention** - domestic: presumed absent (Balfour v Balfour, 1919), rebuttable (Merritt v Merritt, 1970);
 commercial: presumed present (Esso v Commissioners of Customs and Excise, 1976, discusses the presumption).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--13-ct-offer-or-invitation.webp" width="900" height="856" alt="Three examples of invitations to treat: goods on a shop shelf (Pharmaceutical Society v Boots), goods in a shop window (Fisher v Bell) and most advertisements (Partridge v Crittenden). An invitation to treat only invites offers, so the customer who orders makes the offer and the seller’s confirmation is the acceptance, as in the worked example of Zara and Dalton. The exception is a unilateral offer to the world, accepted by performance, found in Carlill v Carbolic Smoke Ball." loading="lazy">
+  <figcaption>Invitation to treat, offer and acceptance, with the Carlill exception.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--14-ct-acceptance-timing.webp" width="900" height="920" alt="Two timelines. By post, acceptance is effective when posted (Adams v Lindsell). By instant methods, acceptance takes effect when received (Entores v Miles Far East). Two things that are not acceptance: a counter-offer, which destroys the original offer (Hyde v Wrench), and silence (Felthouse v Bindley)." loading="lazy">
+  <figcaption>Postal rule against receipt rule, and two things that are not acceptance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--04-consideration-rules.webp" width="900" height="746" alt="The Currie v Misa definition, then a table of rules. Consideration must move from the promisee (Tweddle v Atkinson); it need not be adequate (Thomas v Thomas; Chappell v Nestlé) but must be real (White v Bluett); it must not be past (Re McArdle) unless requested and understood to be paid (Lampleigh; Pao On); an existing public duty (Collins v Godefroy) or contractual duty (Stilk v Myrick) is not enough unless exceeded (Glasbrook; Hartley v Ponsonby) or a practical benefit arises (Williams v Roffey); part payment is not consideration (Pinnel; Foakes v Beer) unless something different is given, and promissory estoppel may apply (High Trees)." loading="lazy">
+  <figcaption>Each side must give something real; doing only what you already must is not enough.</figcaption>
+</figure>
+
 ## Which terms does a contract contain?
 
 - Express terms; terms vs representations (Routledge v McKay, 1954; Oscar Chess v Williams, 1957; Dick
@@ -112,6 +127,16 @@ commercial: presumed present (Esso v Commissioners of Customs and Excise, 1976, 
 | Goods | s9 satisfactory quality; s10 fit for particular purpose; s11 match description | s20 short-term right to reject (30 days under s22); s23 repair or replacement; s24 price reduction or final right to reject |
 | Services | s49 reasonable care and skill; s52 reasonable time (if no time agreed) | s55 repeat performance; s56 price reduction |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--15-ct-term-types.webp" width="900" height="830" alt="Three rows. A condition goes to the root of the contract; breach allows termination and damages (Poussard v Spiers). A warranty is minor; breach gives damages only (Bettini v Gye). An innominate term can be treated either way depending on the seriousness of the consequences of the breach (Hong Kong Fir Shipping v Kawasaki)." loading="lazy">
+  <figcaption>What a claimant can do for breach of each type of term.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts--04-goods-remedies-tiers.webp" width="900" height="646" alt="Three tiers of goods remedies. Tier 1, section 20 with 22: short-term right to reject, normally within 30 days, full refund. Tier 2, section 23: repair or replacement chosen by the consumer, at the trader’s cost. Tier 3, section 24: price reduction or final right to reject, only after one failed repair or replacement or if repair and replacement are impossible, disproportionate or not done properly." loading="lazy">
+  <figcaption>Reject within 30 days; after that, repair or replace first, then price reduction or final rejection.</figcaption>
+</figure>
+
 ## How are exclusion clauses controlled?
 
 - Exclusion clauses remove liability; limitation clauses cap it.
@@ -124,6 +149,11 @@ commercial: presumed present (Esso v Commissioners of Customs and Excise, 1976, 
   loss only if reasonable; s3 standard terms subject to reasonableness.
 - CRA 2015 (consumer contracts): s31 cannot exclude s9-s11; s57 cannot exclude s49, nor limit the trader's
   liability under it to less than the price paid; s65 cannot exclude negligent death or personal injury.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--16-ct-exclusion-gates.webp" width="900" height="1144" alt="Three questions asked in order. First, was the clause incorporated: by signature even if unread (L’Estrange v Graucob), by notice given before or when the contract is made (Olley, Thornton) or by course of dealing. Second, does it cover the breach, with ambiguity read against the party relying on it. Third, is it allowed by statute: UCTA 1977 section 2(1) forbids excluding liability for death or personal injury caused by negligence, section 2(2) requires other negligence exclusions to be reasonable, and under the Consumer Rights Act 2015 an unfair term is not binding on the consumer." loading="lazy">
+  <figcaption>The three questions for an exclusion clause.</figcaption>
+</figure>
 
 ## What vitiating factors make a contract voidable?
 
@@ -146,6 +176,11 @@ no practical alternative (Atlas Express v Kafco, 1989; DSND Subsea v Petroleum G
 contract is voidable but the right to avoid can be lost by affirmation (The Atlantic Baron, 1979). Lawful
 act duress is possible only in narrow cases (Times Travel v Pakistan International Airlines, 2021).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--03-three-types.webp" width="900" height="659" alt="Three types. Fraudulent: made knowingly, without belief or recklessly (Derry v Peek), giving deceit damages for all direct losses (Doyle v Olby). Negligent under s2(1) Misrepresentation Act 1967: no reasonable grounds for belief, with damages assessed as if fraudulent (Royscot). Innocent: reasonable grounds, with no damages as of right but possible damages in lieu of rescission under s2(2). Under s2(1) the maker must prove reasonable grounds (Howard Marine v Ogden)." loading="lazy">
+  <figcaption>Under s2(1) the defendant must disprove negligence, and damages follow the fraud measure.</figcaption>
+</figure>
+
 ## How is a contract discharged?
 
 - **Performance**: complete and exact (Cutter v Powell, 1795; Re Moore and Landauer, 1921); substantial
@@ -157,6 +192,11 @@ act duress is possible only in narrow cases (Times Travel v Pakistan Internation
   Fareham UDC, 1956), self-induced (Maritime National Fish, 1935) or foreseen. Effects: Law Reform
   (Frustrated Contracts) Act 1943.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--18-ct-discharge-routes.webp" width="900" height="962" alt="Four routes. Performance, usually complete and precise (Cutter v Powell), though substantial performance may suffice (Hoenig v Isaacs). Agreement. Breach, actual or anticipatory where one party shows in advance they will not perform (Hochster v De la Tour). Frustration, where a later event makes performance impossible, illegal or radically different through no fault of either party, but not where it is merely harder or more expensive (Davis Contractors)." loading="lazy">
+  <figcaption>Performance, agreement, breach and frustration.</figcaption>
+</figure>
+
 ## What remedies are available?
 
 - **Compensatory damages**: expectation (Robinson v Harman, 1848); reliance (Anglia TV v Reed, 1972);
@@ -166,6 +206,11 @@ act duress is possible only in narrow cases (Times Travel v Pakistan Internation
   not for personal service.
 - **Rescission**: returns parties to their pre-contract position.
 - **Termination for breach**: for breach of condition, serious innominate breach or repudiation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--19-ct-damages-zara.webp" width="900" height="874" alt="Horizontal bars on a pounds scale. Zara agreed to buy a machine for 12,500 pounds. After Dalton cancelled she bought a replacement for 14,200 pounds, so her expectation loss is 1,700 pounds. If Dalton knew about a job on which she lost 600 pounds profit, that may also be recoverable under the second limb of Hadley v Baxendale, giving 2,300 pounds. If Dalton did not know, the 600 pounds is probably too remote." loading="lazy">
+  <figcaption>Bars showing £12,500 agreed price, £14,200 replacement and the £1,700 and £2,300 damages.</figcaption>
+</figure>
 
 ## How do I evaluate contract theory?
 
@@ -177,6 +222,11 @@ act duress is possible only in narrow cases (Times Travel v Pakistan Internation
   renegotiated promises, so economic duress became the main control on unfair pressure.
 - **Effectiveness of exclusion clauses and remedies**: statutory rights help consumers, but enforcement
   depends on knowledge and the cost of claiming.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-contract-law--02-freedom-v-protection.webp" width="900" height="653" alt="Arguments for freedom of contract (autonomy, certainty, risk allocation, Photo Production v Securicor) and against it (unequal bargaining power, standard terms, Atiyah). The law now gives near-complete freedom between businesses, controlled by UCTA’s reasonableness test, and strong protection for consumers under the Consumer Rights Act 2015. Small businesses can fall in the gap." loading="lazy">
+  <figcaption>Freedom between businesses, protection for consumers.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

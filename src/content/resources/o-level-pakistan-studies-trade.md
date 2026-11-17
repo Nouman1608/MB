@@ -61,6 +61,11 @@ billion) and State Bank remittance data; State Bank balance-of-payments totals d
 | Goods imports | About US$55 billion | Petroleum products, crude oil and LNG; machinery and electrical goods; palm oil; chemicals and plastics; iron and steel; medicines; vehicles and parts; tea; pulses |
 | Trade balance | Deficit of roughly US$24 billion | Imports cost far more than exports earn |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-trade--01-exports-imports.webp" width="900" height="682" alt="Two bars compare goods exports of about US$30.6 billion with imports of about US$54.7 billion in 2023–24, leaving a deficit of about US$24.1 billion. Lists below show the main exports (textiles, rice, leather, surgical and sports goods) and imports (fuel, machinery, palm oil, chemicals, steel)." loading="lazy">
+  <figcaption>Imports cost almost twice what exports earn, leaving a deficit of about US$24 billion.</figcaption>
+</figure>
+
 ## How has the mix changed?
 
 - **From raw materials to processed goods.** In the 1950s Pakistan's exports were mainly raw cotton,
@@ -75,6 +80,11 @@ billion) and State Bank remittance data; State Bank balance-of-payments totals d
 - **New growth areas:** information technology services (counted in services trade, roughly US$3
   billion), surgical instruments, pharmaceuticals and seafood.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-trade--02-changing-mix.webp" width="900" height="550" alt="In the 1950s exports were mainly raw cotton and jute; today cotton leaves as yarn, cloth and finished garments of rising value. Three cards note record rice exports in 2023–24, fuel imports that swing with world prices, and new growth in IT services, surgical instruments, pharmaceuticals and seafood." loading="lazy">
+  <figcaption>Pakistan now exports processed cotton goods rather than raw cotton.</figcaption>
+</figure>
+
 ## What are GDP and GNP, and how do they differ?
 
 **Gross domestic product (GDP)** is the total value of all goods and services produced inside
@@ -84,6 +94,11 @@ abroad by Pakistanis (such as profits and interest), minus income paid to foreig
 businesses in Pakistan (such as profits sent home by foreign firms). The difference is "net income
 from abroad". Both are often divided by population to give a per-person figure for comparing
 living standards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-trade--03-gdp-gnp.webp" width="900" height="610" alt="An equation diagram: GDP, the output produced inside Pakistan, plus income earned abroad by Pakistanis, minus income paid to foreign owners, gives GNP. The last two together are net income from abroad." loading="lazy">
+  <figcaption>GNP adjusts GDP for income flowing in from and out to other countries.</figcaption>
+</figure>
 
 ## How do trade trends affect the balance of trade and the economy?
 
@@ -102,6 +117,11 @@ A widening deficit means:
 Rising exports of higher value-added goods narrow the gap, create jobs and allow imports of the
 machinery industry needs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-trade--04-deficit-chain.webp" width="900" height="786" alt="Five linked steps: a widening trade deficit causes reserves to fall; the gap is filled by remittances, loans and IMF help; the rupee weakens, making fuel and machinery dearer and raising inflation; loan repayments take money from schools and health. A box shows that higher value-added exports narrow the gap." loading="lazy">
+  <figcaption>A trade deficit drains reserves, weakens the rupee and squeezes spending at home.</figcaption>
+</figure>
+
 ## Who are Pakistan's main trading partners?
 
 | Partner | Pakistan mainly exports | Pakistan mainly imports |
@@ -117,6 +137,11 @@ machinery industry needs.
 On a world map, be able to locate these countries and say which goods flow in which direction.
 The United States has generally been the largest single export market, while China is the largest
 source of imports.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-trade--05-trading-partners.webp" width="900" height="740" alt="A schematic hub with Pakistan at the centre and six partner groups around it, each showing what Pakistan exports to and imports from them: the United States, China, the UK and EU, the Gulf states, Indonesia and Malaysia, and Afghanistan." loading="lazy">
+  <figcaption>The US buys the most from Pakistan; China sells the most to it.</figcaption>
+</figure>
 
 ## What promotes and what hinders trade?
 
@@ -140,6 +165,11 @@ source of imports.
 - **Exchange-rate swings:** the rupee fell from roughly Rs 160 to the US dollar in mid-2021 to
   around Rs 280 by 2024, raising the cost of imported inputs that exporters themselves rely on.
 - **Political tension with neighbours**, which limits trade with India in particular.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-trade--06-promote-hinder.webp" width="900" height="629" alt="Two columns compare factors that promote trade (agreements such as GSP+ and the China FTA, a coastal location near the Gulf, a weaker rupee) with factors that hinder it (a narrow export base, competition, trade barriers, high costs, exchange-rate swings and political tension). A box explains why Pakistan’s share of world exports stays under one per cent." loading="lazy">
+  <figcaption>More factors hold Pakistan’s trade back than push it forward.</figcaption>
+</figure>
 
 ## Why is it hard for a developing country to raise its share of world trade?
 

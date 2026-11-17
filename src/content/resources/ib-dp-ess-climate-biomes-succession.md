@@ -103,6 +103,26 @@ High temperature all year, a tiny annual range and very high rainfall in every m
 
 As the climate warms, the conditions each biome needs move **poleward** and **upslope**. Boreal forest can spread north into tundra, and tree lines on mountains rise. Species that disperse slowly, or already live on mountain tops or in polar regions, may have nowhere left to go. Changes in rainfall patterns can also push a biome towards a drier type. Thawing permafrost releases carbon dioxide and methane, which adds to warming: a positive feedback. Link this to the tipping points and feedback ideas in the [Topic 1 Foundations study guide](/resources/ib-dp-ess-topic-1-foundations/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--01-insolation-latitude.webp" width="900" height="800" alt="Two equal beams of sunlight hit the Earth. Near the equator the beam strikes at a high angle onto a small area after a short path through the atmosphere. At high latitude the same beam strikes at a low angle, spreads over a larger area and passes through more atmosphere. Ice near the pole reflects more." loading="lazy">
+  <figcaption>Curvature spreads the same energy over more ground, and the longer path loses more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--02-tricellular-model.webp" width="900" height="770" alt="Cross-section from the equator to the pole showing three circulation cells. In the Hadley cell air rises at the equator (low pressure, heavy rain, ITCZ) and sinks at about 30° (high pressure, deserts). In the Ferrel cell surface air flows poleward to about 60°, where it rises at the polar front with frequent rain. In the polar cell cold air sinks over the pole." loading="lazy">
+  <figcaption>Rising air brings low pressure and rain; sinking air brings high pressure and drought.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--03-biomes-temperature-precipitation.webp" width="900" height="770" alt="Schematic graph of annual precipitation against mean annual temperature. Tundra sits where it is cold and dry, boreal forest cold and moderately wet, temperate grassland and deciduous forest in mild conditions, hot desert hot and dry, savanna hot with seasonal rain, and tropical rainforest hot and wet with the highest NPP." loading="lazy">
+  <figcaption>Temperature and precipitation together decide which biome can grow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--04-climate-graph-station-k.webp" width="900" height="850" alt="Climate graph for fictional station K. Monthly rainfall bars range from 180 to 310 mm and the temperature line stays between 26.4 and 27.3 °C. Totals: 3020 mm a year, mean 26.8 °C, range 0.9 °C, driest month 180 mm, matching tropical rainforest." loading="lazy">
+  <figcaption>High temperature, a tiny range and rain in every month point to tropical rainforest.</figcaption>
+</figure>
+
 ## 2.5 Zonation, succession and change in ecosystems
 
 ### Zonation versus succession
@@ -160,6 +180,21 @@ GPP rises throughout as leaf area grows. NPP peaks mid-succession and then falls
 When human activity stops succession before climax and holds it there, the result is a **plagioclimax**. Examples are grazed pasture, lawns and heather moorland that is burned in rotation. Stop the grazing or burning and secondary succession resumes.
 
 The climax is not a fixed, single end point. It depends on climate and soil, and disturbance or climate change can push an ecosystem past a tipping point into a different stable state. How far a system can absorb disturbance and return depends on its **resilience** — linked to diversity, the size of its storages and how fast its species reproduce.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--05-succession-sere.webp" width="900" height="910" alt="Five stages of primary succession: bare rock, pioneer lichens and mosses, then seral stages with more and larger plants, ending in a climax community. Soil gets deeper at each stage. Secondary succession enters part-way along, where soil already exists. Wedges show soil depth, biomass and food-web complexity increasing." loading="lazy">
+  <figcaption>Each seral stage changes conditions so the next species can establish.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--06-productivity-succession.webp" width="900" height="770" alt="Paired bars of GPP and respiration for four stages (fictional data). Pioneer 3000 and 1200, early 9000 and 4500, mid 15000 and 10000, climax 20000 and 19000 kJ per square metre per year. NPP is 1800, 4500, 5000 and 1000, and P:R falls from 2.5 to 1.05." loading="lazy">
+  <figcaption>GPP is highest at climax, but NPP peaks mid-succession.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--07-disturbance-plagioclimax.webp" width="900" height="715" alt="Two schematic graphs of biomass over time. Left: succession reaches climax, a disturbance removes biomass, and faster secondary succession returns it to climax. Right: grazing or burning holds the community at a plagioclimax below climax; when it stops, secondary succession resumes towards climax." loading="lazy">
+  <figcaption>Disturbance resets succession; human activity can hold it below climax.</figcaption>
+</figure>
 
 ## Common errors
 

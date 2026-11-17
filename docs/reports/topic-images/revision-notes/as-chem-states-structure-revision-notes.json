@@ -1,0 +1,29 @@
+{
+ "page": "as-chem-states-structure-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/as-states-of-matter-ideal-gases-and-structure--03-ideal-gas-mr.webp",
+   "after": "## The ideal gas equation"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-states-of-matter-ideal-gases-and-structure--01-gas-pressure.webp",
+   "after": "## Assumptions of an ideal gas"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-states-of-matter-ideal-gases-and-structure--02-ideal-vs-real.webp",
+   "after": "## When real gases deviate"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-states-of-matter-ideal-gases-and-structure--04-four-lattices.webp",
+   "after": "## The four structure types"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-states-of-matter-ideal-gases-and-structure--05-diamond-graphite.webp",
+   "after": "## Carbon allotropes"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-states-of-matter-ideal-gases-and-structure--06-deduce-structure.webp",
+   "after": "## Deducing structure from properties"
+  }
+ ]
+}

@@ -64,9 +64,29 @@ Paper 3 tests **research methodology** specifically. At HL, students are additio
 analyse qualitative/quantitative methods and evaluate research scenarios methodologically and
 ethically.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--12-res-credibility.webp" width="900" height="960" alt="Validity maps to credibility and generalisation maps to transferability. Triangulation uses several methods, researchers or data sources to strengthen a finding. Reflexivity, rich description and checking findings with participants also help." loading="lazy">
+  <figcaption>Qualitative research has its own words for validity and generalisation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--11-res-ethics.webp" width="900" height="1020" alt="Six icon cards for informed consent, protection from harm, confidentiality, the right to withdraw, debriefing and avoiding unjustified deception, a balance of benefit of knowledge against risk to participants, and a note on extra care with children and vulnerable people." loading="lazy">
+  <figcaption>Ethical principles protect participants and are weighed against benefit.</figcaption>
+</figure>
+
 ## The internal assessment in more depth
 
 The experimental study is graded against criteria covering: the theoretical framing and rationale for the chosen investigation (why this experiment tests this theory); appropriate design and methodology, including sampling and controlling relevant variables; accurate reporting and statistical treatment of results; and a critical discussion evaluating the study's strengths, limitations, and ethical considerations. Although the experiment is usually conducted in a small group, the write-up, analysis and discussion must be entirely the student's own individual work -- a common and costly mistake is closely mirroring a group member's write-up structure or wording, which risks being flagged during the external moderation process.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--08-res-designs.webp" width="900" height="1030" alt="Three designs drawn with conditions A and B: independent samples (different people), repeated measures (the same people) and matched pairs (pairs split across conditions), and a panel showing counterbalancing, half doing A then B and half B then A." loading="lazy">
+  <figcaption>Each design has a different trade-off; counterbalancing reduces order effects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--10-res-sampling.webp" width="900" height="1220" alt="Six dot grids of 60 people with 12 chosen in each: random, stratified (6, 4 and 2 from three subgroups), opportunity (a nearby cluster), volunteer (people respond to an advert), purposive (all from one subgroup) and snowball (a chain of linked recruits)." loading="lazy">
+  <figcaption>How each sampling technique picks people from a population.</figcaption>
+</figure>
 
 ## Command terms
 

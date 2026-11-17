@@ -50,6 +50,11 @@ here, and Marlbridge does not yet have a 9292 resource on them: revise
 those parts directly from the specification's content list and your
 textbook, since all three are examined on Paper 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-socialisation--01-topic-scope.webp" width="900" height="684" alt="Four parts of 3.2.2 with printed title and actual content. 3.2.2.1 Individuals and Society covers culture and the sociological imagination; 3.2.2.2 Socialisation, highlighted, is this guide; 3.2.2.3, titled Social Identities and Social Change, actually covers social control; 3.2.2.4, titled Social Control, actually covers crime and deviance." loading="lazy">
+  <figcaption>The titles of 3.2.2.3 and 3.2.2.4 are crossed, so cite part numbers and contents.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **OXFORDAQA INTERNATIONAL GCSE SOCIOLOGY (9292) — 3.2.2.2 SOCIALISATION**
@@ -106,6 +111,21 @@ the norms and values presented to them by different agencies, which is
 the key point of difference from the more structural functionalist and
 Marxist views.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-socialisation--02-types-of-socialisation.webp" width="900" height="523" alt="A life-course line. Primary socialisation happens early, mainly in the family; secondary socialisation follows through wider agencies; re-socialisation replaces earlier norms after a major life change. Four cards define primary, secondary, re-socialisation and inadequate socialisation, which some perspectives link to later deviance." loading="lazy">
+  <figcaption>Know all four types as separate concepts, not just primary and secondary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-socialisation--03-agencies-processes.webp" width="900" height="690" alt="Six agencies around the individual. Family socialises through direct instruction and role modelling; school through the formal and hidden curriculum; media through modelling behaviours in its content. Peers, religion and the workplace are left for students to complete with their own process." loading="lazy">
+  <figcaption>Name the agency and the process: listing agencies alone loses marks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-socialisation--04-four-perspectives.webp" width="900" height="644" alt="Left: three structural views. Functionalists see socialisation as necessary for order and consensus; Marxists see the ruling class reproducing its dominance; feminists see gender roles reproduced through family and media. Right: the social action or interactionist view, in which individuals interpret, negotiate and sometimes resist norms." loading="lazy">
+  <figcaption>Three perspectives see socialisation shaping people; interactionists see people shaping it.</figcaption>
+</figure>
+
 ## Worked example: comparing two perspectives on socialisation
 
 A question asks candidates to compare the functionalist and Marxist
@@ -135,6 +155,11 @@ This side-by-side structure — what each perspective claims, followed by
 an explicit point of contrast — is what "compare" questions on
 perspectives are looking for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-socialisation--05-compare-functionalist-marxist.webp" width="900" height="506" alt="Side by side: functionalists see socialisation instilling shared values for a smoothly running society; Marxists see the bourgeoisie instilling obedience and acceptance of inequality, with schools reproducing class inequality. A note says to finish with an explicit point of contrast." loading="lazy">
+  <figcaption>A compare answer states both views, then names the difference.</figcaption>
+</figure>
+
 ## Key terms to define precisely
 
 **Socialisation** — the lifelong process by which individuals learn the
@@ -153,6 +178,11 @@ and values clearly distinct — and being precise about what counts as an
 revision time. (This qualification is new, first examined May/June
 2028, so this is general exam-technique advice rather than a claim
 based on any published mark scheme for this specification.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-socialisation--06-key-terms.webp" width="900" height="493" alt="Two pairs of terms. Values are broad beliefs about what is important; norms are the specific unwritten rules of behaviour. An agency is who socialises, such as family, school or media; a process is how, such as role modelling. Below, identity is socially constructed through interaction with agencies." loading="lazy">
+  <figcaption>Values are beliefs, norms are rules; an agency is who, a process is how.</figcaption>
+</figure>
 
 ## Common mistakes
 

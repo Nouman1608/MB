@@ -1,0 +1,166 @@
+---
+title: "OxfordAQA International A-level Geography (9635): 3.1.2 Hot desert systems and landscapes"
+resourceType: "study-guides"
+subject: "geography"
+level: ["a-levels"]
+topic: "Unit 1 – Physical Geography 1"
+boards: ["oxfordaqa"]
+qualifications: ["a-level"]
+syllabusCodes: ["9635"]
+syllabusSeries: "Version 3.2"
+stage: "AS"
+order: 1.2
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "unit-1-physical-geography-1-9635"
+    subtopic: "unit-1a-hot-desert-systems-9635"
+description: "Study guide to OxfordAQA 9635 section 3.1.2 Hot desert systems: aridity and sediment budgets, desert landscapes, desertification futures and model answers."
+author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+publishedDate: 2026-11-17
+featured: false
+---
+
+This guide covers **3.1.2 Section B: Hot desert systems and landscapes** of the OxfordAQA International AS and A-level Geography (9635) specification, Version 3.2. It is one of the two Unit 1 options: you study either this section or 3.1.3 Coastal systems and landscapes, and the chosen option is assessed in Section B of the Unit 1 exam (40 marks, all questions compulsory). The specification divides it into 3.1.2.1 deserts as natural systems, 3.1.2.2 systems and processes, 3.1.2.3 arid landscape development, 3.1.2.4 desertification, 3.1.2.5 quantitative and qualitative skills and 3.1.2.6 case studies.
+
+The [hot desert systems revision notes](/resources/oxfordaqa-a-level-geography-9635-hot-desert-systems-and-landscapes-revision-notes/) list every process and landform. This guide shows how to use them: calculating aridity and sediment budgets, explaining landforms as sequences, reading whole landscapes, and writing evaluative answers on desertification. Practise with the [hot desert systems practice questions](/resources/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems-practice/).
+
+## Deserts as open systems
+
+A desert landscape is an **open system**: energy and matter cross its boundaries. The specification expects you to use the full vocabulary -- inputs, outputs, energy, stores, flows, feedback and dynamic equilibrium -- and to connect it to landscape change.
+
+**Energy** comes from three sources the specification names. **Insolation** is intense because skies are clear and the sun is high; it drives weathering through heating and also sets up convection that generates local winds. **Wind** supplies the kinetic energy that moves sand and dust. **Runoff** delivers short bursts of very high energy during rare storms.
+
+**Sediment budgets** apply the same logic to material. A worked example with invented figures:
+
+> A dune field receives 40,000 tonnes of sand a year blown in from a dry riverbed upwind and 5,000 tonnes from weathering of nearby rock. Wind carries 52,000 tonnes a year out of its downwind edge.
+> Budget = inputs - outputs = 45,000 - 52,000 = **-7,000 tonnes a year**.
+
+A negative budget means the store is shrinking: dunes lower and migrate away, exposing the surface beneath. If irrigation upstream reduced the river's sediment supply, the deficit would grow -- a clear way to link human activity to a physical system.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--01-dune-field-sediment-budget.webp" width="900" height="725" alt="A dune field store with sand inputs of 40,000 tonnes a year from a dry riverbed and 5,000 tonnes from weathering, and an output of 52,000 tonnes downwind, drawn with arrow widths to scale. The budget is minus 7,000 tonnes a year, so the store shrinks. Below, the three energy inputs: insolation, wind and runoff." loading="lazy">
+  <figcaption>Outputs exceed inputs by 7,000 tonnes a year, so the dune field shrinks.</figcaption>
+</figure>
+
+## Measuring dryness: the aridity index
+
+The aridity index divides annual precipitation (P) by annual potential evapotranspiration (PET), both in millimetres. In the widely used UNEP bands, an index under 0.05 is hyper-arid, from 0.05 up to 0.20 is arid, and from 0.20 up to 0.50 is semi-arid.
+
+| Station (fictional) | P (mm) | PET (mm) | P / PET | Class |
+|---|---|---|---|---|
+| Wadi Seer | 40 | 2,400 | 0.017 | Hyper-arid |
+| Tarik Plain | 120 | 1,800 | 0.067 | Arid |
+| Baran Hills | 450 | 1,500 | 0.30 | Semi-arid |
+
+Two places with the same rainfall can fall in different classes if one has higher PET, which is why rainfall alone does not define a desert. The **water balance** makes the same point: where PET far exceeds P, soils have a moisture deficit for most of the year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--02-aridity-index.webp" width="900" height="736" alt="A scale of P/PET from 0 to 0.5 with bands: hyper-arid below 0.05, arid 0.05 to 0.20 and semi-arid 0.20 to 0.50. Three fictional stations are plotted: Wadi Seer at 0.017, Tarik Plain at 0.067 and Baran Hills at 0.30, with their rainfall and PET in a table." loading="lazy">
+  <figcaption>Divide precipitation by potential evapotranspiration, then read the band.</figcaption>
+</figure>
+
+## Applying the causes of aridity to real deserts
+
+The specification lists five causes: pressure, winds, continentality, relief and cold ocean currents. Examiners reward answers that show several working together in one place.
+
+- **Sahara and Arabian deserts:** descending air in the **subtropical high-pressure belt** at the edge of the Hadley cell warms as it sinks, preventing condensation. Prevailing north-easterly trade winds blow from land, bringing little moisture.
+- **Atacama Desert:** subtropical high pressure, the cold **Humboldt (Peru) Current** offshore cooling the lower air so it cannot rise to form rain, and the **rain shadow** of the Andes blocking moist air from the east. This combination makes parts of it among the driest places on Earth.
+- **Namib Desert:** the cold **Benguela Current** produces fog along the coast but very little rain.
+- **Taklamakan Desert (mid-latitude):** **continentality** -- it lies deep inside Asia -- combined with high mountains on three sides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--03-causes-of-aridity.webp" width="900" height="737" alt="A matrix of four deserts against five causes of aridity. Sahara and Arabian: subtropical high pressure and winds from land. Atacama: high pressure, the Andes rain shadow and the cold Humboldt Current. Namib: the cold Benguela Current. Taklamakan: continentality and surrounding mountains." loading="lazy">
+  <figcaption>Most deserts are dry for more than one reason.</figcaption>
+</figure>
+
+## Explaining landforms as sequences
+
+Landform marks go to the *process chain*, not the label. Write formation as numbered steps, each with a cause.
+
+**Barchan dune.** (1) Sand accumulates around an obstacle, or where supply is limited on a hard surface. (2) Wind pushes sand up the gentle windward slope by saltation. (3) Sand avalanches down the steep slip face, which settles at an angle of about 30 to 34 degrees. (4) The lower edges have less sand, so they move faster than the centre and are drawn out into horns pointing downwind. (5) The whole dune migrates downwind while keeping its shape -- dynamic equilibrium.
+
+**Pediment and inselberg.** (1) A mountain front retreats through weathering and sheet flooding. (2) The slope retreats parallel to itself rather than wearing down. (3) A gently sloping rock surface, the pediment, is left at its foot. (4) Isolated remnants of resistant rock remain as inselbergs. The time needed is very long, and some of the shaping may have occurred in wetter past climates.
+
+**Desert pavement.** (1) Deflation removes fine silt and sand. (2) Larger stones are left behind and settle together. (3) Sheet wash may help pack them. (4) The armoured surface then protects finer material beneath -- negative feedback that slows further deflation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--04-barchan-dune.webp" width="900" height="864" alt="Plan view and profile of a barchan, not to scale: a crescent with its gentle windward slope facing the wind and horns pointing downwind; in profile, sand saltates up the windward slope and avalanches down a slip face of about 30 to 34 degrees, and the dune migrates downwind. Five numbered steps explain the formation." loading="lazy">
+  <figcaption>Saltation up, avalanching down and faster-moving horns keep a barchan's shape as it migrates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--05-pavement-and-pediment.webp" width="900" height="676" alt="Three panels show a desert pavement forming: deflation removes fine material, larger stones settle together, and the armoured surface protects fines below. Below, a schematic cross-section shows a mountain front retreating parallel to itself, leaving a gently sloping pediment with an isolated inselberg of resistant rock." loading="lazy">
+  <figcaption>Explain landforms as numbered process steps, not labels.</figcaption>
+</figure>
+
+## Reading desert landscapes
+
+The specification asks how related landforms combine into **characteristic landscapes**. Three general types are useful:
+
+| Landscape | Dominant processes | Landforms |
+|---|---|---|
+| Sand sea (erg) | Wind transport and deposition | Barchans, seifs, large dune ridges |
+| Stony desert (reg) | Deflation and sheet wash | Desert pavements, ventifacts |
+| Rocky desert (hamada) and mountain front | Weathering and episodic water | Wadis, alluvial fans, bahadas, pediments, playas, inselbergs |
+
+A mountain-front landscape shows the link between **process, time, landforms and landscapes** most clearly: flash floods cut wadis in the mountains, drop their load as fans where they emerge, the fans merge into a bahada, and fine sediment reaches a central playa. The whole assemblage reflects one sediment cascade from source to sink. Many wadis are larger than present-day floods could cut, which suggests they partly formed in wetter periods -- an example of inherited landforms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--06-mountain-front-landscape.webp" width="900" height="837" alt="Schematic cross-section, not to scale, of a mountain-front landscape: wadis cut in the mountains, alluvial fans merging into a bahada at the mountain foot, a playa of fine sediment in the basin and an inselberg beyond. A table compares sand sea, stony desert and rocky desert landscapes by processes and landforms." loading="lazy">
+  <figcaption>Landforms combine into landscapes through one cascade of sediment.</figcaption>
+</figure>
+
+## Desertification: from causes to futures
+
+The specification's sequence is: **changing extent over the last 10,000 years -> causes -> areas at risk -> impacts -> predicted climate change -> alternative futures**. Follow it in long answers.
+
+- **Changing extent:** during the early and middle Holocene, the Sahara was much wetter, with grassland and lakes; it dried to its present state in the last few thousand years. Desert margins have always advanced and retreated naturally.
+- **Causes:** climatic (drought, rising temperatures) and human (overgrazing, over-cultivation, fuelwood removal, poorly managed irrigation causing salinisation). They reinforce each other: drought reduces plant cover, and grazing pressure prevents recovery.
+- **Areas at risk:** semi-arid and dry sub-humid margins, such as the Sahel, where rainfall is variable and population pressure is high.
+- **Impacts:** ecosystems lose cover and species; landscapes show gullying, dune advance and crusted soils; populations face falling yields, food insecurity and migration.
+- **Alternative futures:** continued degradation and out-migration; adaptation through drought-resistant crops and water harvesting; or restoration, as in parts of Niger, where farmers protecting tree regrowth on their fields (farmer-managed natural regeneration) have re-greened large areas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--07-desertification-sequence.webp" width="900" height="610" alt="A chain following the specification: changing extent over 10,000 years, climatic and human causes, areas at risk such as the Sahel, and impacts on land and people. A note explains how drought and grazing reinforce each other. Three alternative futures: continued degradation, adaptation, or restoration as in parts of Niger." loading="lazy">
+  <figcaption>Causes reinforce each other, but the future depends on how land is managed.</figcaption>
+</figure>
+
+## Case studies and field data (3.1.2.5 and 3.1.2.6)
+
+You need a **hot desert environment** case study that engages with field data, and a **local-scale landscape where desertification has occurred**, evaluating responses of resilience, mitigation and adaptation. The specification notes that field data can come from settings with similar aeolian processes, such as **coastal dunes**. Useful measurements include wind speed at different heights, sand grain size and sorting, dune profiles from a clinometer and tape, and percentage vegetation cover along a transect. Present the data and link it to processes: for example, finer sand on the crest than the base suggests sorting by saltation.
+
+## Worked example: an annotated answer
+
+*Question: Assess the relative importance of human and climatic causes of desertification in an area you have studied.* **[9]**
+
+> In the Sahel, severe droughts in the 1970s and 1980s reduced rainfall sharply, killing vegetation across wide areas **(climatic cause, dated)**. Yet degradation was worst where growing herds and cropping on marginal land removed the remaining cover, so soils were exposed to deflation and sheet wash **(human cause, linked to process)**. The two interacted: drought set the conditions, and land use determined whether vegetation recovered **(analysis)**. Areas where farmers built stone lines and zai pits recovered even during dry years, which suggests human management is the factor that can be changed most effectively **(evidence used to weigh)**. Overall, climate triggered the crisis, but human activity largely decided its severity and duration **(judgement)**.
+
+## Exam technique
+
+- **Explain the formation of:** give an ordered sequence with a process at each step.
+- **Calculate:** show the formula, the substitution and units; round sensibly.
+- **Analyse a resource:** quote figures from it before interpreting them.
+- **Assess / evaluate:** weigh factors with named evidence and finish with a judgement.
+
+## Common mistakes
+
+- Defining deserts by rainfall alone instead of the balance of P and PET.
+- Explaining aridity with a single cause.
+- Describing a landform without any process.
+- Ignoring the role of water in a landscape answer.
+- Writing about desertification with no named area or dates.
+
+## Related resources
+
+- [Hot desert systems revision notes](/resources/oxfordaqa-a-level-geography-9635-hot-desert-systems-and-landscapes-revision-notes/)
+- [Hot desert systems practice questions](/resources/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems-practice/)
+- [Physical Geography 1 study guide](/resources/a-level-oxfordaqa-geography-physical-geography-1/)
+- [Physical geography practice questions](/resources/oxfordaqa-a-level-geography-physical-practice/)
+
+## Official syllabus
+
+OxfordAQA International AS and A-level Geography (9635) specification, Version 3.2, section 3.1.2 Section B: Hot desert systems and landscapes (3.1.2.1 to 3.1.2.6), assessed in Unit 1: Physical geography 1.

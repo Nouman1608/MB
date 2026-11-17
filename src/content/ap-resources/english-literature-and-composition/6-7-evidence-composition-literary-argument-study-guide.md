@@ -70,6 +70,11 @@ The course says writers use evidence **strategically and purposefully to illustr
 
 A paragraph that uses several of these jobs is doing more than listing proof. It is building a case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-7-evidence-composition-literary-argument-study-guide--01-six-jobs-of-evidence.webp" width="900" height="650" alt="Six cards point at one claim, that Lydia hides her distress. Each shows a job evidence can do with an example: illustrate, clarify, exemplify, associate, amplify and qualify, where putting the letter back exactly as before complicates the claim." loading="lazy">
+  <figcaption>Evidence can illustrate, clarify, exemplify, associate, amplify or qualify a claim.</figcaption>
+</figure>
+
 ## Relevant, effective and sufficient
 
 - **Relevant**: the evidence bears directly on the claim. A vivid detail that does not support the point is a distraction.
@@ -79,6 +84,16 @@ A paragraph that uses several of these jobs is doing more than listing proof. It
 ### A recursive process
 
 Developing an interpretation does not run in one direction. Sometimes you gather evidence and then form a line of reasoning from it. Sometimes you form the line of reasoning first and then look for evidence. Often you move back and forth. If the evidence **does not support the claim**, you revise the claim.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-7-evidence-composition-literary-argument-study-guide--03-recursive-process.webp" width="900" height="520" alt="Two boxes, gather evidence and form a line of reasoning, joined by arrows in both directions: the process can start at either end and often moves back and forth. Below, if the evidence does not support the claim, the claim is revised." loading="lazy">
+  <figcaption>Move between evidence and reasoning, and revise the claim when the evidence will not support it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-7-evidence-composition-literary-argument-study-guide--02-relevant-effective-sufficient.webp" width="900" height="474" alt="Three tests in sequence. Relevant: the evidence bears directly on the claim. Effective: commentary explains its link to the claim. Sufficient: its quantity and quality support the line of reasoning, so a larger claim needs evidence from more than one place." loading="lazy">
+  <figcaption>Good evidence is relevant, explained by commentary and sufficient for the size of the claim.</figcaption>
+</figure>
 
 ## Integrating quotations
 
@@ -91,6 +106,11 @@ Short, embedded quotations read more smoothly than long, dropped ones.
 
 Quote what you need: a verb, a simile, a repeated phrase. Do not quote a whole passage when three words carry your point. Always follow a quotation with commentary.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-7-evidence-composition-literary-argument-study-guide--04-dropped-or-embedded.webp" width="900" height="656" alt="Two versions of a sentence about the opening of Pride and Prejudice. The dropped version sets the whole quotation apart and ends with the vague &quot;This shows irony&quot;. The embedded version quotes only &quot;a truth universally acknowledged&quot; inside the writer's own sentence and explains the irony." loading="lazy">
+  <figcaption>Embed the few words that carry your point and follow them with commentary.</figcaption>
+</figure>
+
 ## Composing with control
 
 Clear writing makes reasoning visible. The course highlights three tools.
@@ -101,6 +121,11 @@ Clear writing makes reasoning visible. The course highlights three tools.
 - **Subordination** makes one idea depend on another: "**Although** Lydia appears calm, her hands shake." It suggests **imbalance or inequality**, putting the emphasis on the main clause.
 
 Choose the structure that matches your interpretation. If you believe the composure is only a surface, subordinate it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-7-evidence-composition-literary-argument-study-guide--05-coordination-subordination.webp" width="900" height="720" alt="Two balance scales. Coordination: &quot;Lydia appears calm, and her hands shake&quot; keeps the two ideas level. Subordination: &quot;Although Lydia appears calm, her hands shake&quot; tips the scale towards the main clause, so the shaking hands carry the emphasis." loading="lazy">
+  <figcaption>Choose the sentence structure that matches your interpretation.</figcaption>
+</figure>
 
 ### Words that communicate
 
@@ -115,6 +140,11 @@ Choose words that **enhance clear communication of an interpretation**. Prefer p
 | **Colon** | What follows explains or illustrates what came before | The narrator reveals her distress through repetition: she reads the letter twice and returns it to the same place. |
 | **Dash** | A sharp pause or an emphatic addition | The flame cannot change the words—and Lydia knows it. |
 | **Comma after an introductory clause** | A dependent clause leading to the main idea | Although Lydia appears calm, her hands shake. |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-7-evidence-composition-literary-argument-study-guide--06-punctuation-relationships.webp" width="900" height="684" alt="Five marks and the relationships they signal, each with an example about Lydia: comma plus conjunction for two equal ideas, semicolon for closely related clauses, colon for an explanation, dash for an emphatic addition, and a comma after an introductory clause such as &quot;Although Lydia appears calm&quot;." loading="lazy">
+  <figcaption>Each mark tells the reader how two ideas relate.</figcaption>
+</figure>
 
 ## Worked example 1: choosing relevant and sufficient evidence
 
@@ -142,6 +172,11 @@ Choose words that **enhance clear communication of an interpretation**. Prefer p
 
 **A model body sentence.** "In public she reduces the letter to 'a dull note from the agent', but in private she holds it to the lamp 'as if the flame might alter what was written', and the gap between her words and her gesture shows how much routine is asked to hide."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-7-evidence-composition-literary-argument-study-guide--07-sorting-the-evidence.webp" width="900" height="791" alt="The claim that Lydia conceals distress behind routine splits into two halves. Concealment is supported by (a) &quot;poured the tea&quot; and (b) &quot;A dull note from the agent&quot;; distress by (c) holding the letter to the lamp. Detail (d), &quot;exactly as before&quot;, qualifies the claim as a complication, and (e) is only weakly relevant. The best pair is (b) and (c)." loading="lazy">
+  <figcaption>A two-part claim needs evidence for both parts: (b) for concealment, (c) for distress.</figcaption>
+</figure>
+
 ## Worked example 2: improving sentence control
 
 **Draft paragraph.** "Lydia is calm. She is anxious. The narrator shows this. She read the letter twice and folded it and put it under the sugar bowl and the lamp scene shows it is not a dull note."
@@ -158,6 +193,11 @@ Choose words that **enhance clear communication of an interpretation**. Prefer p
 **Revised paragraph.** "Although Lydia appears calm, she is anxious. The narrator reveals her anxiety through repetition: she reads the letter twice, folds it along its old creases and returns it to the same place. She tells her sister it is a dull note; the lamp scene betrays that it is nothing of the kind."
 
 **What changed.** The subordinate clause "Although Lydia appears calm" gives the calm less weight than the anxiety. The colon announces an explanation. The semicolon joins a statement and its contradiction. The verb "betrays" names the relationship between her words and her gesture.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-7-evidence-composition-literary-argument-study-guide--08-sentence-control-revisions.webp" width="900" height="752" alt="Four revisions to a flat draft about Lydia: subordination turns two short sentences into &quot;Although Lydia appears calm, she is anxious&quot;; a colon introduces the repeated actions; a semicolon joins the dull note and the lamp scene; and the vague &quot;shows&quot; becomes &quot;betrays&quot;." loading="lazy">
+  <figcaption>Subordination, a colon, a semicolon and a precise verb make the reasoning visible.</figcaption>
+</figure>
 
 ## Common misconceptions
 

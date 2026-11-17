@@ -56,6 +56,11 @@ A **defensible** thesis is one that a writer can reasonably defend, and that *ne
 - **Needs defending:** it is not obvious and not a bare fact. A reasonable reader could disagree.
 - **Can be defended:** it is specific and supportable with evidence and reasoning within the space available. It is not so vast or vague that no essay could prove it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-7-writing-defensible-thesis-study-guide--01-defensible-zone.webp" width="900" height="402" alt="A band with three zones. On the left, statements that need no defence, such as “Social media exists.” On the right, claims too vast to defend, such as “This policy will solve all of society’s problems.” In the middle, the defensible zone: “Social media has made teenagers better informed but less able to concentrate.”" loading="lazy">
+  <figcaption>A good thesis needs defending and can be defended in the space available.</figcaption>
+</figure>
+
 ## Qualities of a strong thesis
 
 | Quality | What it means | Weak | Strong |
@@ -75,6 +80,11 @@ A **defensible** thesis is one that a writer can reasonably defend, and that *ne
 5. **The list of unconnected points:** "The writer uses imagery, repetition and rhetorical questions." This names devices without saying what they accomplish.
 6. **The overreach:** "This policy will solve all of society's problems." It cannot be defended.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-7-writing-defensible-thesis-study-guide--02-thesis-shapes-to-avoid.webp" width="900" height="447" alt="Six crossed-out cards with examples: an announcement (“In this essay I will discuss pollution”), a fact, a restated prompt, a vague evaluation, an unconnected list of devices, and an overreach that cannot be defended." loading="lazy">
+  <figcaption>A thesis is a position, not a plan, a fact, a restatement or a list.</figcaption>
+</figure>
+
 ## Thesis formulas that work (and the danger of formulas)
 
 Several patterns help you draft. Use them as scaffolds, not scripts.
@@ -85,6 +95,11 @@ Several patterns help you draft. Use them as scaffolds, not scripts.
 - **Rhetorical analysis pattern:** "[Writer] uses [strategies] to [accomplish purpose] for [audience]."
 
 For rhetorical analysis, the key word is **to**. A defensible analytical thesis says *what the choices accomplish*, not only which choices exist: "By ... Lincoln ... in order to ...".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-7-writing-defensible-thesis-study-guide--03-thesis-scaffolds.webp" width="900" height="760" alt="Four scaffolds built from labelled blocks: claim plus reason; concession plus claim; claim plus qualification; and for rhetorical analysis, “[Writer] uses [strategies] to [accomplish purpose] for [audience]”, with “to” highlighted as the key word." loading="lazy">
+  <figcaption>Use scaffolds to draft; in analysis, the key word is “to”: say what the choices accomplish.</figcaption>
+</figure>
 
 ## Thesis for the three exam essays
 
@@ -106,6 +121,11 @@ Not always. A thesis may preview the main points ("because it reduces pollution,
 2. **Is it specific?** If it names no group, place or action, narrow it.
 3. **Does it say why?** Add the reason or consequence.
 4. **Can I defend it in the time and space I have?** If not, reduce its scope.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-7-writing-defensible-thesis-study-guide--04-four-revision-questions.webp" width="900" height="602" alt="A cycle of four questions around a working thesis: could a reasonable person disagree, is it specific, does it say why, and can I defend it in the time and space I have? Each comes with its fix." loading="lazy">
+  <figcaption>Arguable, specific, reasoned and the right size: test and revise in a loop.</figcaption>
+</figure>
 
 ## Worked example 1: from topic to thesis
 
@@ -130,6 +150,11 @@ Not always. A thesis may preview the main points ("because it reduces pollution,
 
 **Check.** The revised thesis answers "so what do you think, and why?" in a single sentence. If you can write that sentence, the rest of the essay has a direction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-7-writing-defensible-thesis-study-guide--05-topic-to-thesis.webp" width="900" height="671" alt="The vague draft “City centres and cars are a big problem today” becomes a thesis built from a position (close city centres to private cars), a qualification (exceptions for residents and deliveries) and a reason (air quality and pedestrian safety outweigh the inconvenience). Four ticks confirm it is arguable, specific, focused and responsive." loading="lazy">
+  <figcaption>Take a position, add a reason, add a qualification, then test it.</figcaption>
+</figure>
+
 ## Worked example 2: a rhetorical analysis thesis
 
 **Task.** Write a thesis for a rhetorical analysis of this passage from Abraham Lincoln's Gettysburg Address (1863): "...we can not dedicate—we can not consecrate—we can not hallow—this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract." Later he says: "It is for us the living, rather, to be dedicated here to the unfinished work..."
@@ -149,6 +174,11 @@ Not always. A thesis may preview the main points ("because it reduces pollution,
 **Step 4: Test.** *Arguable?* Another reader might stress different devices. *Specific?* It names the strategies and the effect. *Reasoned?* It links choices to a purpose. *Responsive?* It analyses how the choices serve the purpose for the audience.
 
 **Check.** Contrast the weak thesis "Lincoln uses repetition, imagery and a serious tone." That names devices but does not say what they accomplish and could apply to any speech.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-7-writing-defensible-thesis-study-guide--06-analysis-thesis-anatomy.webp" width="900" height="543" alt="The model thesis on the Gettysburg Address split into labelled parts: the situation (“By stressing that the living cannot add...”), the strategies (humility, repetition and a turn to “us the living”), the key word “to”, and what the choices accomplish (a memorial becomes a call to continue the work). Below, a weak thesis only lists devices." loading="lazy">
+  <figcaption>An analysis thesis says what the choices accomplish, not just which choices exist.</figcaption>
+</figure>
 
 ## How the exam asks about the thesis
 

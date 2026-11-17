@@ -41,6 +41,16 @@ route.
 - Students answer **all** the questions in Section A.
 - Writing in Section B is **linked with the reading sources** from Section A.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-reading--01-source-pack.webp" width="900" height="755" alt="A row of five or six texts on modern-world themes, some written, one a chart and one brief. Some questions point at a single text, others at a pair, and at least one question requires two texts. All questions are answered, and Section B writing is linked with the same sources." loading="lazy">
+  <figcaption>Questions target single texts and pairs, and the same sources feed the Section B writing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-2--13-p2-sources.webp" width="900" height="900" alt="Four tile pictures of source types and a banner about prior knowledge." loading="lazy">
+  <figcaption>Section A texts can be brief or solely visual, fiction or non-fiction, on modern-world themes; everything needed is in the source.</figcaption>
+</figure>
+
 ## The reading skills applied to multiple sources
 
 | Skill | Specification wording | What it looks like with several sources |
@@ -49,6 +59,11 @@ route.
 | R2 | Collate and synthesise detail from one or more sources, making cross-references and comparisons as appropriate | Combining information from two texts; comparing ideas or methods |
 | R3 | Develop and sustain interpretations of writers' ideas and perspectives | Explaining each writer's attitude to the issue and how it differs |
 | R4 | Explain and evaluate how writers use linguistic, grammatical, structural and presentational features to achieve effects and engage and influence the reader | Analysing language, structure and layout, including in visual texts |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-reading--02-reading-skills-sources.webp" width="900" height="660" alt="The four AO1 reading skills applied to several sources: R1 choosing the right source and details, R2 combining or comparing two texts, R3 explaining each writer’s attitude and how it differs, R4 analysing language, structure and layout, including visual texts." loading="lazy">
+  <figcaption>With several sources, R2 means working across two texts, not just within one.</figcaption>
+</figure>
 
 ## Getting to know a source pack quickly
 
@@ -59,6 +74,11 @@ With five or six texts, efficient first reading matters.
 2. **Read the questions** before reading closely, so you know which texts need the most attention.
 3. **Read closely by question**, annotating only the text or pair the question names.
 4. **Keep a grid** for pairs: idea, attitude, method, evidence, so comparisons are easy to write.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-reading--03-survey-and-grid.webp" width="900" height="640" alt="Four steps: survey the pack noting form, topic, purpose and audience; read the questions; read closely by question; keep a grid. The grid has rows for Text A and Text B and columns for idea, attitude, method and evidence." loading="lazy">
+  <figcaption>Survey first, read by question, and grid each pair so comparisons are easy to write.</figcaption>
+</figure>
 
 ## Reading different kinds of source
 
@@ -85,12 +105,22 @@ compression, wordplay and direct address.
   meaning?
 - **what is left out**: framing always selects.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-reading--04-kinds-of-source.webp" width="900" height="805" alt="Five kinds of source and what to analyse in each: opinion writing (viewpoint, persuasive methods, tone), informative writing (what comes first, details included, voices quoted), fiction (character, setting, situation), brief texts (compression, wordplay, direct address) and visual texts (layout, images, colour and type, image and words)." loading="lazy">
+  <figcaption>Each kind of source rewards a different set of questions.</figcaption>
+</figure>
+
 ## Writing about one text
 
 Use the same analytical habit as in Paper 1: method, short quotation or precise reference, effect on
 the reader, link to purpose. For visual texts, the "quotation" is a precise description: "The child's
 face fills the top half of the poster, looking directly at the viewer, so the reader feels personally
 addressed."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-reading--05-visual-text.webp" width="900" height="790" alt="A poster whose top half is filled by a child’s face, with a headline and caption below, labelled with five presentational features: layout and placement, colour and typography, images, the relationship between image and words, and what is left out. Below, a precise description of the poster is used as the evidence." loading="lazy">
+  <figcaption>Describe the visual feature precisely, then explain its effect, just as with a quotation.</figcaption>
+</figure>
 
 ## Writing about two texts
 
@@ -111,6 +141,11 @@ anger."
 
 Useful comparative connectives: *similarly, likewise, both, whereas, while, in contrast, however,
 on the other hand, unlike*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-reading--06-two-texts.webp" width="900" height="838" alt="Three ways to write about two texts, using the lesson’s new-road example. Synthesis combines the report’s lorry noise with the blog’s waking at four to show the problem is constant. Comparing perspectives sets the leaflet’s “faster journeys” against the blogger’s lost field; comparing methods sets cheerful bullet points against anecdote and rhetorical questions." loading="lazy">
+  <figcaption>Integrate both texts in the same point, whether you combine them or compare them.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -135,6 +170,11 @@ word against it, so readers question whether quiet is really an improvement.
 
 *Why it works:* both texts appear in every point; methods and perspectives are compared, not just
 described in turn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-reading--07-worked-example-library.webp" width="900" height="870" alt="The newsletter and blog sources side by side, then a comparison grid: the newsletter presents a practical resource with a list of benefits and a confident “perfect”; the blog presents a loss with a list of memories, a mocking repetition of “perfect” and the minor sentence “Capital Q”." loading="lazy">
+  <figcaption>Each row sets a method in one source against its counterpart in the other.</figcaption>
+</figure>
 
 ## Common mistakes
 

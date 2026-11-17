@@ -64,6 +64,11 @@ Component 1 is 100% AO1. Components 2 and 3 assess all three AOs.
 
 **Digital world working vocabulary.** Digital divide (gap in access and skills); digital inclusion (everyone can use digital services); data privacy (control over personal information); misinformation (false, not meant to mislead) and disinformation (false, meant to mislead); algorithm (rules deciding what users see); screen time (time on devices).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-digital-world--02-false-information-terms.webp" width="900" height="573" alt="Misinformation is false information shared without intent to mislead; disinformation is shared on purpose. False information appears globally as fake images and videos, nationally in elections and public health messages, and locally as rumours in a group chat. An algorithm is the set of rules that decides what each platform user sees." loading="lazy">
+  <figcaption>The difference between misinformation and disinformation is intent.</figcaption>
+</figure>
+
 ## Real-world examples at a glance
 
 Use these only as starting points for research. Check them in reliable sources before you cite them.
@@ -74,6 +79,16 @@ Use these only as starting points for research. Check them in reliable sources b
 | GDPR, applied from 25 May 2018 | European Union data protection law | A regional or national course of action on privacy | A law alone does not prove it is well enforced |
 | Australia's Social Media Minimum Age Act, passed 2024 | Certain platforms must stop under-16s holding accounts; took effect December 2025 | Governments act on young people and social media | Recent, so evidence of effects is still limited; critics question age checks |
 | M-Pesa, Kenya, launched 2007 | Mobile phone money service | Technology can include people without bank accounts | Success in one country may not transfer elsewhere |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-digital-world--01-digital-divide.webp" width="900" height="628" alt="A bar split into about 5.5 billion people online and about 2.6 billion offline, from a 2024 International Telecommunication Union estimate, with its strength (data from many countries) and limitation (an estimate that hides differences within countries). Below, the divide at three levels: between countries, between rural areas and cities, and students without a device or data at home." loading="lazy">
+  <figcaption>A global figure is a starting point; the divide also shows up nationally and locally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-digital-world--03-australia-age-limit.webp" width="900" height="701" alt="Timeline: Australia’s Online Safety Amendment (Social Media Minimum Age) Act passed in 2024 and took effect in December 2025, requiring certain platforms to stop under-16s holding accounts. Supporters argue it protects young people; critics question age checks and whether young people will move to less regulated sites. Evidence of effects is still limited." loading="lazy">
+  <figcaption>A new law gives perspectives to weigh but little evidence yet of results.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -88,6 +103,16 @@ Use these only as starting points for research. Check them in reliable sources b
 - **Activity vs impact.** In the Team Project, "we handed out 100 leaflets" describes what you did; a before-and-after survey shows whether anything changed.
 - **Individual Report vs Team Project issue.** The Individual Report needs a global issue with local and/or national and global perspectives; the Team Project needs a local issue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-digital-world--04-phones-in-schools.webp" width="900" height="530" alt="Four perspectives around phones in schools: a teacher says phones distract, a parent wants their child reachable, a student says phones help research, and an education ministry focuses on results across all schools. Four drivers of different perspectives: values, experience, vested interest and position." loading="lazy">
+  <figcaption>Each view reflects different responsibilities and different things to lose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-digital-world--06-tablets-evidence-gap.webp" width="900" height="680" alt="A broken bridge between evidence and claim: parents agreeing that digital skills matter for jobs does not show that tablets improve learning. The source is written by a tablet maker with a vested interest. A better test would compare students with and without tablets. Five questions for any source: who, why, when, how, and does other evidence agree." loading="lazy">
+  <figcaption>Check that the evidence actually supports the claim it is attached to.</figcaption>
+</figure>
+
 ## Mini plan: a typical extended question
 
 *Typical task (Component 1, Question 4 style):* assess which course of action would best reduce digital exclusion in a community, using all the sources.
@@ -100,6 +125,11 @@ Use these only as starting points for research. Check them in reliable sources b
 6. **Final judgement.** Answer the question directly and explain why; note what further evidence would help.
 
 Keep every point tied to the sources. A sentence such as "the source shows that 38% of older residents surveyed do not use online banking, so classes tackle a real cause" earns more than general comments about technology.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-digital-world--07-cashless-actions.webp" width="900" height="636" alt="Two actions compared: free digital skills classes tackle a cause and build lasting skills but leave out people without smartphones; requiring shops to accept cash helps at once but adds costs for shops. The judgement combines them: classes for the long term, with a short-term guarantee that cash is accepted. Five criteria are listed below." loading="lazy">
+  <figcaption>A long-term action can be paired with a short-term one to cover its gaps.</figcaption>
+</figure>
 
 ## Quick self-test
 

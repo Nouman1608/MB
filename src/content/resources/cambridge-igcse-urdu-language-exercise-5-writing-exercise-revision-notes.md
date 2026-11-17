@@ -42,6 +42,11 @@ Condensed for the final weeks. For the full explanation and a model email, use t
 The syllabus does not publish a split of the 8 marks. This site's practice convention is up to 4 for
 task and communication and up to 4 for language.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-5-writing-exercise--01-exercise-at-a-glance.webp" width="900" height="706" alt="Exercise 5 is worth 8 marks: about 120 words, such as an email, written in response to prompts or pictures for a set purpose, format and audience. All five writing objectives, W1 to W5, are tested." loading="lazy">
+  <figcaption>A short functional text: purpose, format and audience are set for you.</figcaption>
+</figure>
+
 ## P-F-A before you write
 
 - **Purpose:** دعوت، شکریہ، معذرت، معلومات، مشورہ، شکایت
@@ -49,6 +54,11 @@ task and communication and up to 4 for language.
 - **Audience:** friend or family → **تم**; teacher, principal, manager → **آپ**
 
 Then tick off each prompt as you plan it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-5-writing-exercise--02-purpose-format-audience.webp" width="900" height="810" alt="Three columns: purpose (such as دعوت دینا, شکریہ ادا کرنا, شکایت کرنا) decides the content; format (ای میل, خط, پیغام) decides opening, closing and layout; audience (دوست to پرنسپل) decides the register. Every prompt must then be covered." loading="lazy">
+  <figcaption>Purpose sets the content, format the layout, audience the register.</figcaption>
+</figure>
 
 ## تم and آپ: the verb forms
 
@@ -62,6 +72,11 @@ Then tick off each prompt as you plan it.
 
 **Never mix them** in one piece.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-5-writing-exercise--04-keeping-the-register.webp" width="900" height="714" alt="Informal تم takes forms such as ہو، کرو، آؤ، تمہارا; formal آپ takes ہیں، کیجیے، آئیے، آپ کا. Mixing them, as in آپ آؤ, is the commonest error; آپ آئیے is correct. A boy writes لکھ رہا ہوں and a girl لکھ رہی ہوں." loading="lazy">
+  <figcaption>Choose تم or آپ once, then check every verb against it.</figcaption>
+</figure>
+
 ## Openings and closings
 
 | | Informal | Formal |
@@ -71,6 +86,11 @@ Then tick off each prompt as you plan it.
 | Reason for writing | یہ بتانے کے لیے لکھ رہا/رہی ہوں کہ… | میں یہ ای میل… کے سلسلے میں لکھ رہا/رہی ہوں۔ |
 | Closing line | جلدی جواب دینا۔ اپنا خیال رکھنا۔ | آپ کے جواب کا منتظر رہوں گا / منتظر رہوں گی۔ |
 | Sign-off | تمہارا دوست، / تمہاری سہیلی، | والسلام، / آپ کا شاگرد، / آپ کی شاگردہ، |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-5-writing-exercise--03-register-table.webp" width="900" height="911" alt="A table of informal and formal Urdu letter and email phrases: address تم or آپ, openings پیارے احمد، or محترم پرنسپل صاحب، greetings, requests, thanks, closing lines and sign-offs such as تمہارا دوست، or والسلام،." loading="lazy">
+  <figcaption>The audience decides the register, from the first word to the sign-off.</figcaption>
+</figure>
 
 ## Phrases by purpose
 
@@ -99,6 +119,11 @@ Prompt 3           ~30 words
 Closing + sign-off 10-15 words
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-5-writing-exercise--05-planning-120-words.webp" width="900" height="644" alt="A word budget for about 120 words: 10-15 for the opening and greeting, about 30 for each of three prompts, and 10-15 for the closing and sign-off. Each prompt paragraph gives a statement, a detail or reason, and a feeling or comment, and the prompts invite past, present and future or conditional (اگر… تو…)." loading="lazy">
+  <figcaption>About 30 words per prompt, each with a statement, a reason and a comment.</figcaption>
+</figure>
+
 ## Language to show range
 
 - **Tenses:** past (گئے تھے), present (ملتے ہیں), future (ہو گی), conditional (اگر… تو…).
@@ -113,6 +138,11 @@ Closing + sign-off 10-15 words
 | ہم نے پارک گئے۔ | ہم پارک گئے۔ (جانا is intransitive: no نے) |
 | آپ کل ضرور آؤ۔ | آپ کل ضرور آئیے گا۔ |
 | girl writing: میں لکھ رہا ہوں | میں لکھ رہی ہوں |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-5-writing-exercise--07-timing-and-check.webp" width="900" height="866" alt="A 15-minute plan: 2 minutes to plan, 10 to write and 3 to check, followed by a six-point checklist on prompts, register, format, gender agreement, نے and noun agreement. Below, نیا کتاب is corrected to نئی کتاب and میں نے کتاب خریدا to میں نے کتاب خریدی." loading="lazy">
+  <figcaption>Plan briefly, write, then check prompts, register and agreement.</figcaption>
+</figure>
 
 ## Traps
 
