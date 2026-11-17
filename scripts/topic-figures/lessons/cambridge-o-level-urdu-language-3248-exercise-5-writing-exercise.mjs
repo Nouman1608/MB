@@ -138,13 +138,13 @@ const ex = (x, y, w, u, g, o = {}) => `<rect x="${x}" y="${y}" width="${w}" heig
   ];
   c.forEach(([u, h, ls, n], i) => {
     const x = 30 + i * 286;
-    b += panel(x, 110, 268, 330, i === 2 ? C.cream : C.panel, i === 2 ? C.mustard : C.panelEdge) + badge(x + 36, 150, 20, String(i + 1), C.cream) + T(x + 66, 157, h, { size: 21, weight: 700 }) + U(x + 248, 162, u, { size: 27, fill: C.tealDark });
-    ls.forEach((l, k) => { b += `<rect x="${x + 18}" y="${196 + k * 56}" width="232" height="44" rx="8" fill="${i === 2 ? C.panel : C.tealLight}"/>` + T(x + 134, 224 + k * 56, l, { size: 15, anchor: 'middle' }); });
-    b += para(x + 134, 386, n, 230, { size: 16, weight: 600, fill: i === 2 ? C.olive : C.tealDark, anchor: 'middle', lh: 21 }).s;
+    b += panel(x, 110, 268, 380, i === 2 ? C.cream : C.panel, i === 2 ? C.mustard : C.panelEdge) + badge(x + 36, 150, 20, String(i + 1), C.cream) + T(x + 66, 157, h, { size: 21, weight: 700 }) + U(x + 248, 216, u, { size: 28, fill: C.tealDark });
+    ls.forEach((l, k) => { b += `<rect x="${x + 18}" y="${246 + k * 56}" width="232" height="44" rx="8" fill="${i === 2 ? C.panel : C.tealLight}"/>` + T(x + 134, 274 + k * 56, l, { size: 15, anchor: 'middle' }); });
+    b += para(x + 134, 436, n, 230, { size: 16, weight: 600, fill: i === 2 ? C.olive : C.tealDark, anchor: 'middle', lh: 21 }).s;
   });
-  b += panel(30, 462, 840, 70) + T(450, 504, 'Answer all three in the margin before you write a word.', { size: 18, weight: 700, anchor: 'middle' });
+  b += panel(30, 512, 840, 70) + T(450, 554, 'Answer all three in the margin before you write a word.', { size: 18, weight: 700, anchor: 'middle' });
   add('02-purpose-format-audience',
-    SV(560, 'Reading the brief', b),
+    SV(610, 'Reading the brief', b),
     'Three questions before writing: purpose (مقصد), such as inviting, thanking or informing; format (طرزِ تحریر), such as an email with a subject line or a blog with a title; and audience (مخاطب), such as a friend or a principal, which decides the register.',
     'Purpose, format, audience: the audience decides the register.',
     '## Reading the brief: purpose, format, audience');
@@ -154,18 +154,18 @@ const ex = (x, y, w, u, g, o = {}) => `<rect x="${x}" y="${y}" width="${w}" heig
 {
   let b = '';
   b += T(450, 124, 'About 150 words, usually three prompts', { size: 19, weight: 700, anchor: 'middle' });
-  const seg = [['opening', 70, C.cream, C.mustard], ['prompt 1', 230, C.tealLight, C.tealDark], ['prompt 2', 230, C.tealLight, C.tealDark], ['prompt 3', 230, C.tealLight, C.tealDark], ['closing', 64, C.cream, C.mustard]];
+  const seg = [['opening', 106, C.cream, C.mustard], ['prompt 1', 214, C.tealLight, C.tealDark], ['prompt 2', 214, C.tealLight, C.tealDark], ['prompt 3', 214, C.tealLight, C.tealDark], ['closing', 100, C.cream, C.mustard]];
   let x = 30;
   seg.forEach(([n, w, f, e]) => {
-    b += `<rect x="${x}" y="142" width="${w - 6}" height="74" rx="10" fill="${f}" stroke="${e}" stroke-width="2.5"/>` + T(x + (w - 6) / 2, 178, n, { size: w > 100 ? 18 : 15, weight: 700, anchor: 'middle' }) + (w > 100 ? T(x + (w - 6) / 2, 202, 'about 40 words', { size: 15, anchor: 'middle', fill: C.muted }) : '');
+    b += `<rect x="${x}" y="142" width="${w - 6}" height="74" rx="10" fill="${f}" stroke="${e}" stroke-width="2.5"/>` + T(x + (w - 6) / 2, 178, n, { size: w > 150 ? 18 : 16, weight: 700, anchor: 'middle' }) + (w > 150 ? T(x + (w - 6) / 2, 202, 'about 40 words', { size: 15, anchor: 'middle', fill: C.muted }) : T(x + (w - 6) / 2, 202, 'short', { size: 15, anchor: 'middle', fill: C.olive }));
     x += w;
   });
-  b += T(65, 236, 'short', { size: 15, anchor: 'middle', fill: C.olive }) + T(831, 236, 'short', { size: 15, anchor: 'middle', fill: C.olive });
-  b += card(30, 268, 410, 168, 'Each prompt = a paragraph', ['A missing prompt is a missing part of the message, which W1 cannot reward. The last prompt is the one most often rushed.'], { size: 16, tsize: 19, fill: C.tealLight, edge: C.tealDark });
-  b += card(460, 268, 410, 168, 'Pictures are content', ['Describe, explain or give an opinion on what they show. Naming two or three details gives the writing substance.'], { size: 16, tsize: 19 });
-  b += panel(30, 456, 840, 84, '#fbf1ea', C.rust) + T(54, 492, 'Far over the length?', { size: 18, weight: 700, fill: C.rust }) + T(54, 520, '250 words means more errors and less checking time.', { size: 17, fill: C.muted });
+  
+  b += card(30, 248, 410, 140, 'Each prompt = a paragraph', ['A missing prompt is a missing part of the message, which W1 cannot reward. The last prompt is the one most often rushed.'], { size: 16, tsize: 19, fill: C.tealLight, edge: C.tealDark });
+  b += card(460, 248, 410, 140, 'Pictures are content', ['Describe, explain or give an opinion on what they show. Naming two or three details gives the writing substance.'], { size: 16, tsize: 19 });
+  b += panel(30, 408, 840, 84, '#fbf1ea', C.rust) + T(54, 444, 'Far over the length?', { size: 18, weight: 700, fill: C.rust }) + T(54, 472, '250 words means more errors and less checking time.', { size: 17, fill: C.muted });
   add('03-word-budget',
-    SV(568, 'Covering the prompts in 150 words', b),
+    SV(520, 'Covering the prompts in 150 words', b),
     'A 150-word plan: a short opening, about 40 words for each of three prompts, and a short closing. Each prompt becomes a paragraph, pictures supply content to describe or comment on, and writing far beyond the length adds errors.',
     'About 40 words per prompt, each in its own paragraph.',
     '## Covering the prompts');
@@ -224,8 +224,8 @@ const ex = (x, y, w, u, g, o = {}) => `<rect x="${x}" y="${y}" width="${w}" heig
   b += U(846, 222, 'پیاری مریم،', { size: 24 }); notes.push([214, 'Informal greeting', 'audience: a friend']);
   b += U(846, 282, 'کیسی ہو؟ امتحان ختم ہونے کی بہت مبارک ہو!', { size: 22 }); notes.push([274, 'Friendly opening', '']);
   b += `<rect x="318" y="306" width="540" height="96" rx="8" fill="${C.tealLight}"/>` + lines(320, 4); notes.push([352, 'Prompt 1: the festival', 'park, craftspeople, music, food']);
-  b += `<rect x="318" y="414" width="540" height="96" rx="8" fill="${C.tealLight}"/>` + lines(428, 3) + U(846, 498, 'کیا تم ہفتے کی شام میرے ساتھ چلو گی؟', { size: 21, fill: C.tealDark }); notes.push([460, 'Prompt 2: the invitation', 'tum held throughout']);
-  b += `<rect x="318" y="522" width="540" height="150" rx="8" fill="${C.tealLight}"/>` + U(846, 560, 'میں تو سب سے پہلے ...', { size: 21, fill: C.tealDark }) + lines(578, 3) + U(846, 656, 'اس کے بعد ... کیونکہ ... آخر میں ...', { size: 21, fill: C.olive }); notes.push([596, 'Prompt 3: plans', 'sequenced with connectives']);
+  b += `<rect x="318" y="414" width="540" height="96" rx="8" fill="${C.tealLight}"/>` + lines(430, 2) + U(846, 500, 'کیا تم ہفتے کی شام میرے ساتھ چلو گی؟', { size: 21, fill: C.tealDark }); notes.push([460, 'Prompt 2: the invitation', 'tum held throughout']);
+  b += `<rect x="318" y="522" width="540" height="150" rx="8" fill="${C.tealLight}"/>` + U(846, 560, 'میں تو سب سے پہلے ...', { size: 21, fill: C.tealDark }) + lines(580, 2) + U(846, 652, 'اس کے بعد ... کیونکہ ... آخر میں ...', { size: 21, fill: C.olive }); notes.push([596, 'Prompt 3: plans', 'sequenced with connectives']);
   b += U(846, 714, 'جلدی جواب دینا۔', { size: 23 }) + U(846, 774, 'تمھاری دوست،', { size: 23 }) + U(846, 830, 'ثنا', { size: 23 }); notes.push([770, 'Informal closing', 'and signature']);
   notes.forEach(([yy, h, d]) => {
     b += T(30, yy, h, { size: 17, weight: 700 }) + (d ? T(30, yy + 22, d, { size: 15, fill: C.muted }) : '') + `<line x1="${h.length * 9.6 + 40}" y1="${yy - 6}" x2="296" y2="${yy - 6}" stroke="${C.panelEdge}" stroke-width="2" stroke-dasharray="4 4"/>`;
@@ -245,15 +245,15 @@ const ex = (x, y, w, u, g, o = {}) => `<rect x="${x}" y="${y}" width="${w}" heig
   b += U(846, 224, 'کیا تم ہفتے کی شام میرے ساتھ چلو گی؟', { size: 27 });
   b += varrow(450, 274, 304);
   b += T(470, 296, 'same purpose, new audience', { size: 15, fill: C.muted, italic: true });
-  b += panel(30, 310, 840, 216, C.cream, C.mustard) + T(54, 346, 'To the principal', { size: 19, weight: 700, fill: C.olive }) + T(54, 370, 'formal invitation', { size: 15, fill: C.muted });
-  b += U(846, 420, 'ہماری خواہش ہے کہ آپ ہفتے کی شام تشریف لا کر', { size: 26 }) + U(846, 470, 'ہمارے اسٹال کا افتتاح فرمائیں۔', { size: 26 }) + U(846, 512, 'آپ کی آمد ہمارے لیے باعثِ عزت ہوگی۔', { size: 22, fill: C.olive });
-  b += T(450, 566, 'Content is similar; vocabulary, verb forms and tone are entirely different.', { size: 17, weight: 600, anchor: 'middle' });
-  b += T(450, 606, 'Exam technique', { size: 19, weight: 700, anchor: 'middle' });
+  b += panel(30, 310, 840, 262, C.cream, C.mustard) + T(54, 346, 'To the principal', { size: 19, weight: 700, fill: C.olive }) + T(54, 370, 'formal invitation', { size: 15, fill: C.muted });
+  b += U(846, 420, 'ہماری خواہش ہے کہ آپ ہفتے کی شام تشریف لا کر', { size: 26 }) + U(846, 478, 'ہمارے اسٹال کا افتتاح فرمائیں۔', { size: 26 }) + U(846, 540, 'آپ کی آمد ہمارے لیے باعثِ عزت ہوگی۔', { size: 24, fill: C.olive });
+  b += T(450, 608, 'Content is similar; vocabulary, verb forms and tone are entirely different.', { size: 17, weight: 600, anchor: 'middle' });
+  b += T(450, 646, 'Exam technique', { size: 19, weight: 700, anchor: 'middle' });
   [['Greeting and closing first', 'so the register is fixed from the start'], ['Count paragraphs', 'against prompts before you finish'], ['Protect ~25 minutes', 'and keep 3-4 minutes to check agreement and punctuation']].forEach(([h, d], i) => {
-    b += card(30 + i * 286, 624, 268, 122, h, [d], { size: 16, tsize: 18 });
+    b += card(30 + i * 286, 664, 268, 122, h, [d], { size: 16, tsize: 18 });
   });
   add('07-formal-version',
-    SV(774, 'Same purpose, formal audience', b),
+    SV(814, 'Same purpose, formal audience', b),
     'The informal invitation کیا تم ہفتے کی شام میرے ساتھ چلو گی؟ rewritten for the principal: ہماری خواہش ہے کہ آپ ہفتے کی شام تشریف لا کر ہمارے اسٹال کا افتتاح فرمائیں۔ آپ کی آمد ہمارے لیے باعثِ عزت ہوگی۔ Exam tips: write the greeting and closing first, count paragraphs against prompts, and protect about 25 minutes.',
     'Change the audience and the whole register changes with it.',
     '## Worked example');

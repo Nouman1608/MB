@@ -11,20 +11,20 @@
  {
   "file": "cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--02-purpose-format-audience.webp",
   "width": 900,
-  "height": 560,
+  "height": 610,
   "after": "## Reading the brief: purpose, format, audience",
   "alt": "Three questions before writing: purpose (مقصد), such as inviting, thanking or informing; format (طرزِ تحریر), such as an email with a subject line or a blog with a title; and audience (مخاطب), such as a friend or a principal, which decides the register.",
   "caption": "Purpose, format, audience: the audience decides the register.",
-  "bytes": 76496
+  "bytes": 77618
  },
  {
   "file": "cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--03-word-budget.webp",
   "width": 900,
-  "height": 568,
+  "height": 520,
   "after": "## Covering the prompts",
   "alt": "A 150-word plan: a short opening, about 40 words for each of three prompts, and a short closing. Each prompt becomes a paragraph, pictures supply content to describe or comment on, and writing far beyond the length adds errors.",
   "caption": "About 40 words per prompt, each in its own paragraph.",
-  "bytes": 89384
+  "bytes": 89610
  },
  {
   "file": "cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--04-register.webp",
@@ -51,15 +51,15 @@
   "after": "## Worked example",
   "alt": "The model email laid out with annotations: a subject line (موضوع: اگلے ہفتے میلہ — ساتھ چلو گی؟), the greeting پیاری مریم،, a friendly opening, one paragraph per prompt (the festival, the invitation کیا تم ہفتے کی شام میرے ساتھ چلو گی؟, and plans linked by سب سے پہلے، اس کے بعد، کیونکہ، آخر میں), and the closing تمھاری دوست، ثنا.",
   "caption": "Format features, one paragraph per prompt, and one register throughout.",
-  "bytes": 98826
+  "bytes": 99468
  },
  {
   "file": "cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--07-formal-version.webp",
   "width": 900,
-  "height": 774,
+  "height": 814,
   "after": "## Worked example",
   "alt": "The informal invitation کیا تم ہفتے کی شام میرے ساتھ چلو گی؟ rewritten for the principal: ہماری خواہش ہے کہ آپ ہفتے کی شام تشریف لا کر ہمارے اسٹال کا افتتاح فرمائیں۔ آپ کی آمد ہمارے لیے باعثِ عزت ہوگی۔ Exam tips: write the greeting and closing first, count paragraphs against prompts, and protect about 25 minutes.",
   "caption": "Change the audience and the whole register changes with it.",
-  "bytes": 110222
+  "bytes": 111088
  }
 ]
