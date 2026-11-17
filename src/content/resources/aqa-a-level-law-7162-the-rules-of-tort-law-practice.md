@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "tort-7162"
     subtopic: "the-rules-of-tort-law-7162"
-description: "Original practice questions with mark-scheme answers on tort sources, burden of proof, fault and strict liability, defences and remedies for AQA A Level Law 7162."
+description: "Original practice questions with mark-scheme answers on tort sources, burden of proof, fault, defences and remedies for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

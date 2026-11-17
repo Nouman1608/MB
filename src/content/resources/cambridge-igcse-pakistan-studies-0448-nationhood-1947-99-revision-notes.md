@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-0448"
     subtopic: "nationhood-1947-99-0448"
-description: "Revision notes for Cambridge IGCSE Pakistan Studies 0448 Paper 1 Section 3, 1947–99: early problems, governments, 1971, constitutions, foreign policy and a self-test."
+description: "Revision notes for Cambridge IGCSE Pakistan Studies 0448 Paper 1 Section 3, 1947–99: early problems, governments, 1971, foreign policy and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -70,6 +70,10 @@ Condensed recall for section 3.2.4. For full explanations and the worked example
 - Contracts can be lost suddenly.
 - **Responses:** agree prices in home currency; buy from home suppliers; sell in several countries.
 
+## Judging how much a currency change matters
+
+Ask three questions about the business in the case: what share of its sales are exports; what share of its costs are imports; and how sensitive its foreign customers are to price. A firm that exports most of its output but buys few imports is hit hard by a stronger home currency; one that both imports and exports may find the effects partly cancel out.
+
 ## Key terms
 
 | Term | Meaning |

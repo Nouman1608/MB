@@ -89,7 +89,7 @@ All businesses and figures are invented. Section B questions refer to the case s
 
 **3.** Sharing information with stakeholders using electronic methods [1], such as email, video conferencing or social media [1]. **[2]**
 
-**4.** Any two: jobs can be advertised online, reaching more applicants [1]; training can be delivered by video or online courses [1]; staff can work from home [1]; staff may need training to use new systems [1]. **[2]**
+**4.** Any two: jobs can be advertised online, reaching more applicants [1]; training can be delivered by video or online courses [1]; staff can work from home; staff may need training to use new systems. **[2]**
 
 **5.** Email gives both the business and the supplier a written record of what was ordered [1], so if the wrong goods or quantity arrive, the business can show what it asked for and resolve the problem quickly [1]. **[2]**
 

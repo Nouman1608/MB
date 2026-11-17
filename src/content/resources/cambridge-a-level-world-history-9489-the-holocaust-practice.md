@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "historical-interpretations-9489"
     subtopic: "the-holocaust-9489"
-description: "Original Cambridge 9489 Paper 3 practice on the Holocaust: eight short items and three constructed extracts on intention, perpetrators and bystanders, with answers."
+description: "Original Cambridge 9489 Paper 3 practice on the Holocaust: eight short items and three constructed extracts on intention, perpetrators and bystanders."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

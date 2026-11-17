@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "managing-business-activities-edexcel-alevel-business"
     subtopic: "managing-finance-ybs11"
-description: "Revision notes for Edexcel IAL Business 2.3.3: profit levels, margins, profit versus cash, liquidity ratios, working capital and business failure, with a self-test."
+description: "Revision notes for Edexcel IAL Business 2.3.3: profit, margins, profit versus cash, liquidity ratios, working capital and business failure, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
@@ -89,6 +89,16 @@ Working capital           = current assets - current liabilities
 | | Natural phenomena |
 
 **Overtrading:** expanding faster than the cash available can support, so the business cannot pay for the inventory and staff that growth needs.
+
+## Which measure answers which question?
+
+| Question in the source | Measure to use |
+|---|---|
+| Is each sale earning enough over its direct cost? | Gross profit margin |
+| Are overheads under control? | Operating profit margin |
+| How much is left after financing costs? | Profit for the year margin |
+| Can the firm pay its short-term debts? | Current ratio |
+| Can it pay them without selling inventory? | Acid test ratio |
 
 ## Key terms
 

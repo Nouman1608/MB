@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "criminal-law-7162"
     subtopic: "the-rules-of-criminal-law-7162"
-description: "Original practice questions with mark-scheme answers on criminal rule sources, burdens of proof, judge and jury, intent types and offence choice for AQA Law 7162."
+description: "Original practice questions with mark-scheme answers on criminal rule sources, burdens of proof, judge and jury and intent types for AQA Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

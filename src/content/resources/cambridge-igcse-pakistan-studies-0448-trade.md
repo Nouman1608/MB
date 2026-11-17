@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-environment-0448"
     subtopic: "trade-0448"
-description: "Study guide to Section 6 Trade in Cambridge IGCSE Pakistan Studies 0448 Paper 2: exports, imports, GDP and GNP, balance of trade, partners, blocs and exchange rates."
+description: "Study guide to Section 6 Trade in Cambridge IGCSE Pakistan Studies 0448 Paper 2: exports, imports, GDP and GNP, trade balance, partners and exchange rates."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

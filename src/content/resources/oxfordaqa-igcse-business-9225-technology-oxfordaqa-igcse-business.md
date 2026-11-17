@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "influences-on-business-oxfordaqa-igcse-business"
     subtopic: "technology-oxfordaqa-igcse-business"
-description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.2.1 Technology: how ICT changes business activity, e-commerce and wider markets, and digital communication."
+description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.2.1 Technology: ICT and business activity, e-commerce and wider markets, digital communication."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-and-people-edexcel-alevel-business"
     subtopic: "the-market-ybs11"
-description: "Study guide to Edexcel IAL Business 1.3.2 The market: demand and supply shifts, taxes and subsidies, diagrams, PED with total revenue, and YED for business planning."
+description: "Study guide to Edexcel IAL Business 1.3.2 The market: demand and supply shifts, taxes and subsidies, diagrams, PED and total revenue, and YED."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

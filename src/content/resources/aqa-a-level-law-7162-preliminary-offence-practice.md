@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "criminal-law-7162"
     subtopic: "preliminary-offence-7162"
-description: "Original practice questions with mark-scheme answers on attempt: preparatory acts, intention and impossibility under the Criminal Attempts Act 1981, for AQA Law 7162."
+description: "Original practice questions with mark-scheme answers on attempt: preparatory acts, intention and impossibility, for AQA A Level Law 7162 Paper 1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

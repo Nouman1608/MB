@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "international-option-history-9489"
     subtopic: "international-relations-1919-29-9489"
-description: "Revision notes for Cambridge 9489 History topic 8, 1919-29: the Big Three, treaty reactions, League disputes and agencies, the crises, Locarno, traps and a self-test."
+description: "Revision notes for Cambridge 9489 History topic 8, 1919-29: the Big Three, treaty reactions, League disputes and agencies, Locarno, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

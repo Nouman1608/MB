@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-environment-0448"
     subtopic: "trade-0448"
-description: "Thirteen original questions with answers on Section 6 Trade for Cambridge IGCSE Pakistan Studies 0448 Paper 2: exports, GNP, trade balance, blocs and exchange rates."
+description: "Fourteen original questions with answers on Section 6 Trade for Cambridge IGCSE Pakistan Studies 0448 Paper 2: exports, GNP, trade balance and exchange rates."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
@@ -73,11 +73,14 @@ Describe the trend in exports shown. **[3]**
 
 **11.** Explain how membership of trading blocs and agreements can help Pakistan's trade. **[4]**
 
+**12.** Using the example of China, explain how one trading partner can be both a market for
+Pakistan's exports and a source of its imports. **[4]**
+
 ## Section C: evaluation
 
-**12.** "Pakistan should reduce its dependence on textile exports." Give your views. **[6]**
+**13.** "Pakistan should reduce its dependence on textile exports." Give your views. **[6]**
 
-**13.** Evaluate how far a trade deficit is a problem for Pakistan's economy. **[6]**
+**14.** Evaluate how far a trade deficit is a problem for Pakistan's economy. **[6]**
 
 ---
 
@@ -118,14 +121,20 @@ markets [1] and sell in greater quantities [1]. For example, the EU's GSP+ schem
 many Pakistani textiles [1], and agreements with neighbours such as through SAARC or ECO can open
 markets that are close and cheap to reach [1]. **[4]**
 
-**12.** For reducing dependence: falls in world demand or prices for textiles hit Pakistan's
+**12.** China buys Pakistani goods such as cotton yarn, rice and seafood, so it is an important
+export market [1]. Pakistan buys machinery, electronics, steel and chemicals from China [1], because
+China produces these cheaply and in large quantities [1]. Pakistan usually imports far more from
+China than it exports to it, so the relationship adds to Pakistan's trade deficit even though a
+free-trade agreement links the two countries [1]. **[4]**
+
+**13.** For reducing dependence: falls in world demand or prices for textiles hit Pakistan's
 earnings hard [1]; strong competition from other low-cost producers keeps prices low [1]; textiles
 need a lot of water and energy, and dyeing causes pollution [1]. Against: textiles use home-grown
 cotton and employ many people [1]; Pakistan has experience and established buyers [1]. View: a
 supported judgement, for example that Pakistan should keep textiles but move to higher-value
 products while developing other exports such as information technology services [1]. **[6]**
 
-**13.** A problem: the deficit must be paid for by borrowing or reserves [1], so foreign debt grows
+**14.** A problem: the deficit must be paid for by borrowing or reserves [1], so foreign debt grows
 and debt repayments take money away from development [1]; it puts pressure on the rupee, raising the
 cost of imports [1]. Less of a problem: remittances from Pakistanis abroad help cover the gap [1];
 some imports, such as machinery, help industry grow and can increase future exports [1]. Judgement:

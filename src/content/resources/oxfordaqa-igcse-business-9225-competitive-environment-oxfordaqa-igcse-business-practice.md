@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "influences-on-business-oxfordaqa-igcse-business"
     subtopic: "competitive-environment-oxfordaqa-igcse-business"
-description: "Eleven original questions with answers on competition, minimal competition, risk, uncertainty and lower cost advantage for OxfordAQA IGCSE Business 9225 section 3.2.6."
+description: "Eleven original questions with answers on competition, minimal competition, risk, uncertainty and lower cost advantage for OxfordAQA IGCSE 9225 3.2.6."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

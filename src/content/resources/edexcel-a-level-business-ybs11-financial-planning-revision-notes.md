@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "managing-business-activities-edexcel-alevel-business"
     subtopic: "financial-planning-ybs11"
-description: "Revision notes for Edexcel IAL Business 2.3.2: costs, forecasts, break-even, margin of safety, cash flow, budgets and variances, with a twelve-question self-test."
+description: "Revision notes for Edexcel IAL Business 2.3.2: costs, forecasts, break-even, margin of safety, cash flow, budgets and variances, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
@@ -78,6 +78,10 @@ Closing balance       = opening balance + net cash flow
 - **Zero-based budget:** every item justified from zero; removes waste but slow.
 - **Favourable variance:** revenue above or cost below budget. **Adverse:** revenue below or cost above budget.
 - **Difficulties:** inaccurate forecasts, unrealistic targets, events overtaking the plan, time cost.
+
+## Linking the tools
+
+Each tool feeds the next. The **sales forecast** sets expected volume; volume and costs give the **break-even** position and margin of safety; the same forecast, with credit terms and payment dates, builds the **cash-flow forecast**; and all of these become the **budget**, against which **variances** are measured. An error in the forecast therefore spreads into every other plan, which is the strongest evaluation point in this section.
 
 ## Key terms
 

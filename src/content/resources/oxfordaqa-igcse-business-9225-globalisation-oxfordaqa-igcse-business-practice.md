@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "influences-on-business-oxfordaqa-igcse-business"
     subtopic: "globalisation-oxfordaqa-igcse-business"
-description: "Eleven original questions with answers on the forms of globalisation, its benefits and drawbacks, and exchange rates for exporters and importers in OxfordAQA 9225."
+description: "Eleven original questions with answers on the forms of globalisation, its benefits and drawbacks, and exchange rates for exporters in OxfordAQA 9225."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

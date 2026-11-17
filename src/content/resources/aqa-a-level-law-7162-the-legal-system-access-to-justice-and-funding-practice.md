@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
     subtopic: "the-legal-system-access-to-justice-and-funding-7162"
-description: "Original practice questions with mark-scheme answers on advice sources, private funding, conditional fees and civil and criminal legal aid for AQA A Level Law 7162."
+description: "Original practice questions with mark-scheme answers on advice sources, private funding and civil and criminal legal aid for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

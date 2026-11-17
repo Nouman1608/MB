@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "influences-on-business-oxfordaqa-igcse-business"
     subtopic: "competitive-environment-oxfordaqa-igcse-business"
-description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.2.6: markets and competition, little or no competition, risk and uncertainty, and how developing countries compete."
+description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.2.6: markets and competition, minimal competition, risk, uncertainty and lower cost advantage."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

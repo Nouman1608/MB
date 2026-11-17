@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "criminal-law-7162"
     subtopic: "capacity-defences-7162"
-description: "Insanity, automatism and voluntary and involuntary intoxication: tests, leading cases, the internal and external cause line and evaluation, for AQA A Level Law 7162."
+description: "Insanity, automatism and voluntary and involuntary intoxication: tests, leading cases and the internal and external cause line, for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

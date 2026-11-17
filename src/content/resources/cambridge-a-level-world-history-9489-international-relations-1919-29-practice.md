@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "international-option-history-9489"
     subtopic: "international-relations-1919-29-9489"
-description: "Twelve original practice questions on Cambridge 9489 international relations 1919-29, with invented Paper 1 sources, Paper 2 essays and mark-scheme style answers."
+description: "Twelve original practice questions on Cambridge 9489 international relations 1919-29, with invented sources, Paper 2 essays and mark-scheme style answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

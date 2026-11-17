@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "european-option-modern-europe-9489"
     subtopic: "liberalism-nationalism-germany-9489"
-description: "Revision notes for Cambridge 9489 History, Germany 1815-71: a dated chronology, key terms, liberal and nationalist aims, Bismarck's wars, exam traps and a self-test."
+description: "Revision notes for Cambridge 9489 History, Germany 1815-71: chronology, key terms, liberal and nationalist aims, Bismarck's wars, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -69,6 +69,10 @@ Condensed recall for section 3.2.2. For full explanations and worked examples, u
 - **Scarce resources:** use less water, timber and metals; use recycled or renewable materials; design for repair and long life.
 - **Trade-off:** cost now, saving or benefit later. Use payback period (cost ÷ annual saving) to compare.
 
+## Short term versus long term
+
+Most decisions in this section cost money **now** and bring benefits **later**: recycling equipment, fairer supplier prices, cleaner vehicles, renewable energy. In an evaluation, say how soon the benefit arrives and whether the business can afford to wait. A business struggling to survive may delay; a stable, profitable one can usually justify the investment.
+
 ## Key terms
 
 | Term | Meaning |

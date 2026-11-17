@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-and-people-edexcel-alevel-business"
     subtopic: "the-market-ybs11"
-description: "Revision notes for Edexcel IAL Business 1.3.2: demand and supply shifters, equilibrium, PED, YED and revenue, with key terms, traps and a twelve-question self-test."
+description: "Revision notes for Edexcel IAL Business 1.3.2: demand and supply shifters, equilibrium, PED, YED and revenue, with key terms, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

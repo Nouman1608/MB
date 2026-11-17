@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "historical-interpretations-9489"
     subtopic: "the-holocaust-9489"
-description: "Study guide to Cambridge 9489 Paper 3, the Holocaust: pre-Nazi racism, intentionalism, structuralism, functionalism, synthesis, perpetrators, victims and bystanders."
+description: "Study guide to Cambridge 9489 Paper 3, the Holocaust: pre-Nazi racism, intentionalism, structuralism, functionalism, perpetrators, victims and bystanders."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "tort-7162"
     subtopic: "the-rules-of-tort-law-7162"
-description: "Recall notes on tort sources, the claimant's burden, fault and strict liability by tort, defences, remedies and the problem method, for AQA A Level Law 7162 Paper 2."
+description: "Recall notes on tort sources, the claimant's burden, fault and strict liability, defences, remedies and the problem method, for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

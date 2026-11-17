@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "managing-business-activities-edexcel-alevel-business"
     subtopic: "managing-finance-ybs11"
-description: "Twelve original source-based questions with full answers on profit, margins, liquidity ratios, factoring, overtrading and business failure for Edexcel IAL 2.3.3."
+description: "Twelve original source-based questions with full answers on profit, margins, liquidity ratios, factoring and business failure for Edexcel IAL 2.3.3."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
@@ -112,7 +112,7 @@ Questions 7 to 12 refer to Source 2.
 **10.** Brennock has doubled its orders, so it must buy much more steel and pay more staff before customers pay [1]. Suppliers want payment in 30 days but customers take 90 days [1], so cash goes out about 60 days before it comes in, and the gap grows with every extra order [1]. The acid test of 0.6 shows it cannot already cover its current liabilities from liquid assets [1]. If the overdraft limit is reached, it may be unable to pay suppliers, who could stop deliveries [1], halting production even though the business is winning orders and may be profitable, which is how overtrading leads to failure [1]. **[6]**
 
 **11.** **For factoring:** it brings in $51,000 immediately [1], which tackles the 60-day gap between paying suppliers and being paid [1]; Brennock could reduce its $42,000 overdraft, saving interest as rates rise [1].
-**Against:** it costs $1,500 on this batch of invoices alone, cutting profit [1], and if used continually the fees add up [1]. Alternatives exist: negotiating longer credit from suppliers, or asking customers to pay within 60 days, would improve liquidity without a fee [1], though customers may refuse [1].
+**Against:** it costs $1,500 on these invoices alone, cutting profit [1], and if used continually the fees add up [1]. Alternatives exist: negotiating longer credit from suppliers, or asking customers to pay within 60 days, would improve liquidity without a fee [1], though customers may refuse [1].
 **Judgement:** factoring is the quickest solution while orders grow so fast, but Brennock should combine it with action on credit terms so it is not permanently dependent on factoring; this depends on how reliable its customers are [1]. **[8]**
 
 **12.** **Internal threats:** Brennock is overtrading, with orders doubling while its acid test is only 0.6 [1]; its credit terms are poorly matched, paying in 30 days but waiting 90 [1]; inventory of $84,000 is over half its current assets, tying up cash [1]; these are within its control and are already causing a liquidity problem [1].

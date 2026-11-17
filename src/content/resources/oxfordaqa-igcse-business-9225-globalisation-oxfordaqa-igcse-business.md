@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "influences-on-business-oxfordaqa-igcse-business"
     subtopic: "globalisation-oxfordaqa-igcse-business"
-description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.2.4 Globalisation: its five forms, benefits and drawbacks, and exchange rates for importers and exporters."
+description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.2.4 Globalisation: its five forms, benefits and drawbacks, and exchange rates for traders."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

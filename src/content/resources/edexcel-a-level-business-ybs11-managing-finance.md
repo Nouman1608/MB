@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "managing-business-activities-edexcel-alevel-business"
     subtopic: "managing-finance-ybs11"
-description: "Study guide to Edexcel IAL Business 2.3.3 Managing finance: profit and margins, profit versus cash, liquidity ratios, working capital and causes of business failure."
+description: "Study guide to Edexcel IAL Business 2.3.3 Managing finance: profit and margins, profit versus cash, liquidity ratios, working capital and business failure."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

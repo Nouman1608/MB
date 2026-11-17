@@ -64,6 +64,10 @@ Condensed recall for section 3.2.1 Technology. For full explanations and worked 
 
 **Internal stakeholders:** employees, managers, owners. **External stakeholders:** customers, suppliers, lenders, local community, government.
 
+## Judging whether new technology is worth it
+
+Weigh four things from the case: the **cost** of the equipment, software and training; the **saving or extra revenue** it brings; how quickly that benefit arrives; and whether the business's **customers and staff** will actually use it. A system that saves staff time is only valuable if that time is used productively, and an online shop only adds sales if customers want to buy that way.
+
 ## Key terms
 
 | Term | Meaning |

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-biopsychology-development-9685"
     subtopic: "cognitive-development-9685"
-description: "Twelve original OxfordAQA 9685 cognitive development questions: Piaget's stages, looking-time and conservation data, scaffolding scenarios and essays, with answers."
+description: "Twelve original OxfordAQA 9685 cognitive development questions: Piaget's stages, looking-time and conservation data, scaffolding and essays, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

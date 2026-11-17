@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "international-option-history-9489"
     subtopic: "international-history-1929-39-9489"
-description: "Revision notes for Cambridge 9489 History topic 9, 1929-39: Depression and extremism, the League's crises, appeasement, the 1939 alliances, traps and a self-test."
+description: "Revision notes for Cambridge 9489 History topic 9, 1929-39: Depression and extremism, the League's crises, appeasement, the 1939 alliances and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

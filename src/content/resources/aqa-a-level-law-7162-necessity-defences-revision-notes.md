@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "criminal-law-7162"
     subtopic: "necessity-defences-7162"
-description: "Recall notes on self-defence and prevention of crime under s76 CJIA 2008, duress by threats and duress of circumstances, with key cases, for AQA A Level Law 7162."
+description: "Recall notes on self-defence and prevention of crime under s76 CJIA 2008, duress and duress of circumstances, with key cases, for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

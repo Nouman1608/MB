@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "influences-on-business-oxfordaqa-igcse-business"
     subtopic: "competitive-environment-oxfordaqa-igcse-business"
-description: "Revision notes for OxfordAQA IGCSE Business 9225 section 3.2.6: competition, minimal competition, risk, uncertainty, entrepreneurs and cost advantage, with a self-test."
+description: "Revision notes for OxfordAQA IGCSE Business 9225 section 3.2.6: competition, risk, uncertainty, entrepreneurs and cost advantage, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

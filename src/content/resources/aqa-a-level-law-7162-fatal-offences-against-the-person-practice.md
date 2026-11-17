@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "criminal-law-7162"
     subtopic: "fatal-offences-against-the-person-7162"
-description: "Original practice questions with mark-scheme answers on murder, loss of control, diminished responsibility and involuntary manslaughter for AQA A Level Law 7162."
+description: "Original practice questions with mark-scheme answers on murder, loss of control, diminished responsibility and manslaughter for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "criminal-law-7162"
     subtopic: "necessity-defences-7162"
-description: "Self-defence and prevention of crime, duress by threats and duress of circumstances: tests, s76 CJIA 2008, leading cases and evaluation, for AQA A Level Law 7162."
+description: "Self-defence and prevention of crime, duress by threats and duress of circumstances: tests, s76 CJIA 2008 and leading cases, for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

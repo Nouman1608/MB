@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "influences-on-business-oxfordaqa-igcse-business"
     subtopic: "legislation-oxfordaqa-igcse-business"
-description: "Revision notes for OxfordAQA IGCSE Business 9225 section 3.2.5: employment, health and safety and consumer law, minimum wage, key terms and a twelve-question self-test."
+description: "Revision notes for OxfordAQA IGCSE Business 9225 section 3.2.5: employment, health and safety and consumer law, minimum wage and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
@@ -72,6 +72,14 @@ Laws differ between countries; apply general ideas to the business described.
 - Marketing claims and labels must be checked.
 - Faulty goods: repair, replace or refund, so a returns system is needed.
 - Breaking the law: recalls, fines, compensation, lost trust.
+
+## Which businesses feel a law most?
+
+- **Minimum wage rise:** labour-intensive businesses with many low-paid staff, such as cafés, cleaning firms and care homes.
+- **Safety law:** businesses using machinery, chemicals or vehicles, such as factories, building firms and haulage companies.
+- **Consumer law:** businesses selling complex or potentially dangerous products, such as electrical goods, food and toys.
+
+Use this to judge the size of the impact in an evaluation answer.
 
 ## Key terms
 

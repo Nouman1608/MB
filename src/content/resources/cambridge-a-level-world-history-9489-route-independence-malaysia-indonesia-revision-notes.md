@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "depth-study-international-history-9489"
     subtopic: "route-independence-malaysia-indonesia-9489"
-description: "Revision notes for Cambridge 9489 Paper 4, Malaysia and Indonesia c.1909-67: key terms, parallel timelines, the four key questions condensed, traps and a self-test."
+description: "Revision notes for Cambridge 9489 Paper 4, Malaysia and Indonesia c.1909-67: key terms, two timelines, the four key questions condensed, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

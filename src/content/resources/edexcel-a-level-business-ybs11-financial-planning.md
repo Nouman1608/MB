@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "managing-business-activities-edexcel-alevel-business"
     subtopic: "financial-planning-ybs11"
-description: "Study guide to Edexcel IAL Business 2.3.2 Financial planning: costs, sales forecasts, break-even and margin of safety, cash-flow forecasts, budgets and variances."
+description: "Study guide to Edexcel IAL Business 2.3.2 Financial planning: costs, sales forecasts, break-even, cash-flow forecasts, budgets and variance analysis."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

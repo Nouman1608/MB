@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-environment-0448"
     subtopic: "trade-0448"
-description: "Revision notes on Section 6 Trade for Cambridge IGCSE Pakistan Studies 0448 Paper 2: key terms, exports, imports, partners, blocs, exchange rates and a self-test."
+description: "Revision notes on Section 6 Trade for Cambridge IGCSE Pakistan Studies 0448 Paper 2: key terms, exports, imports, partners, exchange rates and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

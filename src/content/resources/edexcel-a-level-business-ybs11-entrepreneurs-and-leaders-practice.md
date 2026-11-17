@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-and-people-edexcel-alevel-business"
     subtopic: "entrepreneurs-and-leaders-ybs11"
-description: "Twelve original source-based questions with answers on entrepreneurs, motives, intrapreneurship, objectives, opportunity cost and trade-offs for Edexcel IAL 1.3.5."
+description: "Twelve original source-based questions with answers on entrepreneurs, motives, intrapreneurship, objectives and opportunity cost for Edexcel IAL 1.3.5."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
