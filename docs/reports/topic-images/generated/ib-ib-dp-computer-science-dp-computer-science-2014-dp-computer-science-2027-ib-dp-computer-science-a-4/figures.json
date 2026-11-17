@@ -6,25 +6,25 @@
   "after": "## Rule-based programming or machine learning?",
   "alt": "In rule-based programming, rules written by a person and data go into a program that produces answers. In machine learning, examples and a learning method go into a learning system that produces a model, which makes predictions. A table compares where the rules come from, what each needs, how easily decisions are explained, how each adapts to change and what each suits.",
   "caption": "A programmer writes the rules, or the system finds them in the data.",
-  "bytes": 115610
+  "bytes": 116232
  },
  {
   "file": "ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--02-training-data-features-labels.webp",
   "width": 900,
-  "height": 646,
+  "height": 592,
   "after": "## Training data, features and labels",
-  "alt": "A table of example emails with feature columns (number of links, sender’s domain, certain words) and a label column (spam or not spam), with values marked as illustrative. The first rows are used for training and the last rows held back for testing on data the model has not seen.",
-  "caption": "Features are the inputs, labels the correct answers; testing uses examples kept out of training.",
-  "bytes": 100846
+  "alt": "The eight training emails from the worked example, each with one feature (number of suspicious words: 9, 1, 7, 2, 8, 0, 6, 3) and a label (spam or not). Training on features and labels produces a model, the threshold 4.5, which classifies a new email with 5 words as spam and one with 4 as not. Training data must be representative, and testing uses data not seen in training.",
+  "caption": "Features are the inputs, labels the correct answers; testing uses examples the model has not seen.",
+  "bytes": 107380
  },
  {
   "file": "ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--03-supervised-unsupervised.webp",
   "width": 900,
-  "height": 876,
+  "height": 906,
   "after": "## Supervised and unsupervised learning",
   "alt": "Supervised learning uses labelled data: classification separates two labelled categories with a boundary and places a new point in one, and regression fits a line to predict a number such as a house price from its size. Unsupervised learning uses unlabelled points and finds clusters, such as groups of customers with similar buying habits.",
   "caption": "Labelled data means supervised; finding groups without answers means unsupervised.",
-  "bytes": 131778
+  "bytes": 134674
  },
  {
   "file": "ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--04-threshold-trace.webp",

@@ -45,13 +45,13 @@ const dot = (x, y, f, r = 9, shape = 'c') => shape === 'c' ? `<circle cx="${x}" 
   b += flow(110, 'Rule-based programming', C.cream, C.olive, 'rules (by a person)', 'data', 'program', 'answers', 'does exactly what it is told');
   b += flow(296, 'Machine learning', C.tealLight, C.tealDark, 'examples (data)', 'learning method', 'learning system', 'a model → predictions', 'finds the patterns itself');
   const rows = [['Rules come from', 'the programmer', 'patterns found in data'], ['Needs', 'expert knowledge of the rules', 'large, representative data sets'], ['Explaining a decision', 'usually straightforward', 'can be difficult'], ['Adapting to change', 'rewrite the rules', 'retrain on new data'], ['Suits', 'clear, stable rules (tax calculation)', 'complex patterns (image recognition)']];
-  b += box(30, 484, 840, 40, C.ink, C.ink, 0) + t(250, 510, 'Rule-based', { size: 16, weight: 700, anchor: 'middle', fill: C.cream }) + t(650, 510, 'Machine learning', { size: 16, weight: 700, anchor: 'middle', fill: C.teal });
+  b += box(30, 484, 840, 40, C.ink, C.ink, 0) + t(400, 510, 'Rule-based', { size: 16, weight: 700, anchor: 'middle', fill: C.cream }) + t(720, 510, 'Machine learning', { size: 16, weight: 700, anchor: 'middle', fill: C.teal });
   rows.forEach(([k, a, c], i) => {
     const y = 524 + i * 46;
     b += `<rect x="30" y="${y}" width="840" height="46" fill="${i % 2 ? C.bg : C.panel}" stroke="${C.panelEdge}" stroke-width="1.5"/>`;
-    b += t(44, y + 29, k, { size: 15, weight: 700 }) + t(250, y + 29, a, { size: 15, anchor: 'middle' }) + t(650, y + 29, c, { size: 15, anchor: 'middle' });
+    b += t(44, y + 29, k, { size: 15, weight: 700 }) + t(400, y + 29, a, { size: 15, anchor: 'middle' }) + t(720, y + 29, c, { size: 15, anchor: 'middle' });
   });
-  b += `<line x1="450" y1="484" x2="450" y2="754" stroke="${C.panelEdge}" stroke-width="1.5"/>`;
+  b += `<line x1="240" y1="524" x2="240" y2="754" stroke="${C.panelEdge}" stroke-width="1.5"/><line x1="560" y1="484" x2="560" y2="754" stroke="${C.panelEdge}" stroke-width="1.5"/>`;
   add('01-rules-vs-learning',
     svg(900, 778, 'Rule-based programming or machine learning?', b),
     'In rule-based programming, rules written by a person and data go into a program that produces answers. In machine learning, examples and a learning method go into a learning system that produces a model, which makes predictions. A table compares where the rules come from, what each needs, how easily decisions are explained, how each adapts to change and what each suits.',
@@ -62,35 +62,34 @@ const dot = (x, y, f, r = 9, shape = 'c') => shape === 'c' ? `<circle cx="${x}" 
 // 02 Training data, features, labels, testing
 {
   let b = '';
-  b += t(52, 130, 'Each row is one example email (values illustrative)', { size: 16, fill: C.muted, italic: true });
-  const cols = [['email', 90, C.ink], ['links', 130, C.tealDark], ['sender’s domain', 220, C.tealDark], ['certain words', 170, C.tealDark], ['label', 160, C.olive]];
-  let x = 52;
-  cols.forEach(([n, w, f]) => { b += `<rect x="${x}" y="146" width="${w}" height="40" fill="${f}" stroke="${C.panel}" stroke-width="1.5"/>` + t(x + w / 2, 172, n, { size: 16, weight: 700, anchor: 'middle', fill: C.panel }); x += w; });
-  const rows = [['A', '4', 'unknown', 'yes', 'spam'], ['B', '0', 'school', 'no', 'not spam'], ['C', '6', 'unknown', 'yes', 'spam'], ['D', '1', 'known', 'no', 'not spam'], ['E', '5', 'unknown', 'yes', 'spam'], ['F', '0', 'known', 'no', 'not spam']];
-  rows.forEach((r, ri) => {
-    let xx = 52;
-    r.forEach((v, ci) => {
-      const w = cols[ci][1];
-      const test = ri >= 4;
-      const f = ci === 4 ? (test ? C.bg : C.cream) : ci === 0 ? C.bg : test ? C.bg : C.tealLight;
-      b += `<rect x="${xx}" y="${186 + ri * 38}" width="${w}" height="38" fill="${f}" stroke="${C.panelEdge}" stroke-width="1.5"/>` + t(xx + w / 2, 211 + ri * 38, v, { size: 15, anchor: 'middle', weight: ci === 4 ? 700 : 400 });
-      xx += w;
-    });
+  b += t(52, 130, 'Training data from the worked example: eight labelled emails', { size: 17, weight: 700 });
+  const W = [9, 1, 7, 2, 8, 0, 6, 3];
+  const cw = 92, x0 = 168;
+  b += `<rect x="52" y="146" width="116" height="44" fill="${C.ink}"/>` + t(110, 174, 'email', { size: 15, weight: 700, anchor: 'middle', fill: C.panel });
+  b += `<rect x="52" y="190" width="116" height="48" fill="${C.tealDark}"/>` + t(110, 212, 'feature:', { size: 15, weight: 700, anchor: 'middle', fill: C.panel }) + t(110, 230, 'susp. words', { size: 15, anchor: 'middle', fill: C.panel });
+  b += `<rect x="52" y="238" width="116" height="44" fill="${C.olive}"/>` + t(110, 266, 'label', { size: 15, weight: 700, anchor: 'middle', fill: C.panel });
+  W.forEach((w, i) => {
+    const x = x0 + i * 85, spam = i % 2 === 0;
+    b += `<rect x="${x}" y="146" width="85" height="44" fill="${C.bg}" stroke="${C.panelEdge}" stroke-width="1.5"/>` + t(x + 42, 174, String(i), { size: 15, anchor: 'middle' });
+    b += `<rect x="${x}" y="190" width="85" height="48" fill="${C.tealLight}" stroke="${C.panelEdge}" stroke-width="1.5"/>` + t(x + 42, 221, String(w), { size: 18, weight: 700, anchor: 'middle' });
+    b += `<rect x="${x}" y="238" width="85" height="44" fill="${spam ? C.cream : C.panel}" stroke="${C.panelEdge}" stroke-width="1.5"/>` + t(x + 42, 266, spam ? 'spam' : 'not', { size: 15, weight: 700, anchor: 'middle', fill: spam ? C.olive : C.ink });
   });
-  // braces
-  b += path('M60,424 L60,432 L652,432 L652,424', { w: 2.5, stroke: C.tealDark }) + t(356, 456, 'features: measurable properties the model uses', { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark });
-  b += path('M662,424 L662,432 L822,432 L822,424', { w: 2.5, stroke: C.olive }) + t(742, 456, 'labels: the correct answers', { size: 15, weight: 700, anchor: 'middle', fill: C.olive });
-  b += path('M832,190 L842,190 L842,334 L832,334', { w: 2.5 }) + t(850, 266, 'train', { size: 15, weight: 700 });
-  b += path('M832,340 L842,340 L842,410 L832,410', { w: 2.5, stroke: C.rust }) + t(850, 380, 'test', { size: 15, weight: 700, fill: C.rust });
-  const cards = [['Training data', 'the examples a model learns from: large enough, accurate and representative', C.tealLight, C.tealDark], ['Labels (supervised)', 'the correct answer attached to each training example', C.cream, C.olive], ['Testing', 'check on data not seen in training: does it work on new cases, or has it memorised?', PINK, C.rust]];
-  cards.forEach(([h, d, f, e], i) => {
+  b += t(52, 312, 'Other features an email model might use: number of links, sender’s domain, certain words.', { size: 15, fill: C.muted, italic: true });
+  // learn -> model -> new
+  b += box(52, 336, 230, 70, C.tealLight, C.tealDark, 10) + t(167, 366, 'features + labels', { size: 16, weight: 700, anchor: 'middle' }) + t(167, 390, 'train', { size: 15, anchor: 'middle', fill: C.tealDark });
+  b += arrow(286, 371, 330, 371, { w: 3.5 });
+  b += box(336, 336, 200, 70, C.mustard, C.ink, 10) + t(436, 366, 'model', { size: 17, weight: 700, anchor: 'middle' }) + t(436, 390, 'threshold 4.5', { size: 15, anchor: 'middle' });
+  b += arrow(540, 371, 584, 371, { w: 3.5 });
+  b += box(590, 336, 280, 70, C.panel, C.ink, 10) + t(730, 366, 'new email, 5 words → spam', { size: 15, weight: 600, anchor: 'middle' }) + t(730, 390, 'new email, 4 words → not', { size: 15, weight: 600, anchor: 'middle' });
+  const cards = [['Training data', 'the examples a model learns from: large enough, accurate and representative', C.tealLight, C.tealDark], ['Features and labels', 'features are measurable properties; labels are the correct answers (supervised)', C.cream, C.olive], ['Testing', 'check on data not seen in training: does it work on new cases, or has it memorised?', PINK, C.rust]];
+  cards.forEach(([h, d, f, e2], i) => {
     const xx = 30 + i * 285;
-    b += box(xx, 482, 270, 140, f, e) + t(xx + 18, 514, h, { size: 17, weight: 700, fill: e }) + para(xx + 18, 542, d, 29, { size: 15 }, 20);
+    b += box(xx, 428, 270, 140, f, e2) + t(xx + 18, 460, h, { size: 17, weight: 700, fill: e2 }) + para(xx + 18, 488, d, 29, { size: 15 }, 20);
   });
   add('02-training-data-features-labels',
-    svg(900, 646, 'Training data, features and labels', b),
-    'A table of example emails with feature columns (number of links, sender’s domain, certain words) and a label column (spam or not spam), with values marked as illustrative. The first rows are used for training and the last rows held back for testing on data the model has not seen.',
-    'Features are the inputs, labels the correct answers; testing uses examples kept out of training.',
+    svg(900, 592, 'Training data, features and labels', b),
+    'The eight training emails from the worked example, each with one feature (number of suspicious words: 9, 1, 7, 2, 8, 0, 6, 3) and a label (spam or not). Training on features and labels produces a model, the threshold 4.5, which classifies a new email with 5 words as spam and one with 4 as not. Training data must be representative, and testing uses data not seen in training.',
+    'Features are the inputs, labels the correct answers; testing uses examples the model has not seen.',
     '## Training data, features and labels');
 }
 
@@ -106,7 +105,7 @@ const dot = (x, y, f, r = 9, shape = 'c') => shape === 'c' ? `<circle cx="${x}" 
   [[130, 330], [150, 300], [180, 340], [120, 290], [170, 310]].forEach(([x, y]) => { b += dot(x, y, C.panel); });
   [[300, 230], [330, 260], [360, 240], [320, 220], [370, 280]].forEach(([x, y]) => { b += dot(x, y, C.rust, 8, 's'); });
   b += `<line x1="200" y1="210" x2="290" y2="370" stroke="${C.tealDark}" stroke-width="3" stroke-dasharray="8 6"/>`;
-  b += dot(250, 236, C.mustard, 10) + t(262, 222, '? new', { size: 15, weight: 700 });
+  b += dot(250, 236, C.mustard, 10) + t(236, 242, 'new ?', { size: 15, weight: 700, anchor: 'end' });
   b += t(110, 412, 'e.g. spam or not, cat or not', { size: 15, fill: C.muted, italic: true });
   // regression
   b += box(458, 160, 390, 266, C.panel, C.panelEdge, 10) + t(476, 188, 'Regression: predicts a number', { size: 16, weight: 700 });
@@ -115,7 +114,7 @@ const dot = (x, y, f, r = 9, shape = 'c') => shape === 'c' ? `<circle cx="${x}" 
   b += `<line x1="515" y1="362" x2="800" y2="214" stroke="${C.tealDark}" stroke-width="3"/>`;
   b += t(520, 412, 'e.g. a house price from its size', { size: 15, fill: C.muted, italic: true });
   // unsupervised
-  b += box(30, 456, 840, 300, C.cream, C.olive);
+  b += box(30, 456, 840, 330, C.cream, C.olive);
   b += t(52, 490, 'Unsupervised learning: unlabelled data', { size: 20, weight: 700, fill: C.olive });
   b += box(52, 506, 390, 236, C.panel, C.panelEdge, 10) + t(70, 534, 'Before: no labels', { size: 16, weight: 700 });
   const pts = [[110, 600], [130, 630], [150, 590], [125, 660], [260, 570], [285, 600], [300, 565], [270, 625], [360, 680], [390, 700], [370, 650], [400, 670]];
@@ -124,13 +123,17 @@ const dot = (x, y, f, r = 9, shape = 'c') => shape === 'c' ? `<circle cx="${x}" 
   b += box(476, 506, 372, 236, C.panel, C.panelEdge, 10) + t(494, 534, 'After: clusters found', { size: 16, weight: 700 });
   const cf = [C.teal, C.mustard, C.rust];
   pts.forEach(([x, y], i) => { b += dot(x + 380, y, cf[Math.floor(i / 4)], 8); });
-  [[510, 582, 70, 100], [638, 546, 80, 100], [736, 630, 80, 90]].forEach(([x, y, w, h]) => { b += `<ellipse cx="${x + w / 2}" cy="${y + h / 2}" rx="${w / 2 + 14}" ry="${h / 2 + 4}" fill="none" stroke="${C.olive}" stroke-width="2.5" stroke-dasharray="6 5"/>`; });
-  b += t(662, 728, 'e.g. groups of customers with similar buying habits', { size: 15, anchor: 'middle', fill: C.muted, italic: true });
-  b += box(30, 772, 840, 80, C.panel, C.ink);
-  b += t(52, 804, 'In a question: does the training data include the correct outcome for each example?', { size: 16, weight: 700 });
-  b += t(52, 832, 'Yes → supervised.   No, the system must find groupings itself → unsupervised.', { size: 16, fill: C.tealDark, weight: 600 });
+  [0, 1, 2].forEach((g) => {
+    const gp = pts.slice(g * 4, g * 4 + 4), xs = gp.map((q) => q[0] + 380), ys = gp.map((q) => q[1]);
+    const cx = (Math.min(...xs) + Math.max(...xs)) / 2, cy = (Math.min(...ys) + Math.max(...ys)) / 2;
+    b += `<ellipse cx="${cx}" cy="${cy}" rx="${(Math.max(...xs) - Math.min(...xs)) / 2 + 22}" ry="${(Math.max(...ys) - Math.min(...ys)) / 2 + 22}" fill="none" stroke="${C.olive}" stroke-width="2.5" stroke-dasharray="6 5"/>`;
+  });
+  b += t(450, 768, 'e.g. a shop finding groups of customers with similar buying habits', { size: 15, anchor: 'middle', fill: C.muted, italic: true });
+  b += box(30, 802, 840, 80, C.panel, C.ink);
+  b += t(52, 834, 'In a question: does the training data include the correct outcome for each example?', { size: 16, weight: 700 });
+  b += t(52, 862, 'Yes → supervised.   No, the system must find groupings itself → unsupervised.', { size: 16, fill: C.tealDark, weight: 600 });
   add('03-supervised-unsupervised',
-    svg(900, 876, 'Supervised and unsupervised learning', b),
+    svg(900, 906, 'Supervised and unsupervised learning', b),
     'Supervised learning uses labelled data: classification separates two labelled categories with a boundary and places a new point in one, and regression fits a line to predict a number such as a house price from its size. Unsupervised learning uses unlabelled points and finds clusters, such as groups of customers with similar buying habits.',
     'Labelled data means supervised; finding groups without answers means unsupervised.',
     '## Supervised and unsupervised learning');
