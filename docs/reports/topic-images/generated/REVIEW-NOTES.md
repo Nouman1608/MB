@@ -17,7 +17,7 @@ Checked and correct as written: 9699 Paper 2 weighting, the OxfordAQA 9292 secti
 
 Teacher review: the owner confirmed on 17 Nov 2026 that a teacher has reviewed these notes, including the MYP Language Acquisition eAssessment marks and the Urdu figure sets. No open items remain from this list.
 
-## Points for a teacher: the 352 D-490 lessons (17 Nov 2026, D-493)
+## Points for a teacher: the 352 D-490 lessons (17 Nov 2026, D-494)
 
 2,252 new figures plus 157 reused across 352 lessons in 25 courses. Every figure was rendered and checked by eye, and every "place after" heading matches its lesson. The figures follow their lessons as written; these points are about the lesson text and are open for a teacher to decide:
 
