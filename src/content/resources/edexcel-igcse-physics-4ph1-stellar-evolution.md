@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "astrophysics"
     subtopic: "stellar-evolution"
-description: "Star colour and temperature, life cycles of Sun-like and massive stars, absolute magnitude and drawing the HR diagram, for Edexcel IGCSE Physics 4PH1 sub-topic 8c."
+description: "Star colour and temperature, life cycles of Sun-like and massive stars, absolute magnitude and drawing the HR diagram, for Edexcel 4PH1 sub-topic 8c."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

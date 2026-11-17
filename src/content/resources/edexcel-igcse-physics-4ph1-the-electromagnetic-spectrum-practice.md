@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves"
     subtopic: "the-electromagnetic-spectrum"
-description: "Original practice questions with full answers on the order, speed, uses, harmful effects and protection for electromagnetic waves for Edexcel IGCSE Physics 4PH1."
+description: "Original questions with full answers on the order, speed, uses, harmful effects and protection for electromagnetic waves, for Edexcel IGCSE Physics 4PH1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

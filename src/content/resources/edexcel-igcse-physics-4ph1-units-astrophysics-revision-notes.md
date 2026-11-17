@@ -76,6 +76,13 @@ r in m, T in s → v in m/s
 - With c = 3.0 × 10⁸ m/s, v comes out in m/s.
 - Δλ = observed wavelength − reference wavelength.
 
+## Unit checks
+
+- v = 2πr / T → m ÷ s = m/s.
+- W = m × g → kg × N/kg = N.
+- T = 2πr / v → m ÷ (m/s) = s.
+- If the unit that comes out is wrong, a conversion was missed.
+
 ## Standard form and estimates
 
 - Earth's orbital radius ≈ 1.5 × 10¹¹ m; speed of light 3.0 × 10⁸ m/s.

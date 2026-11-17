@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves"
     subtopic: "properties-of-waves"
-description: "Transverse and longitudinal waves, wave definitions, v = fλ, f = 1/T, the Doppler effect, reflection and refraction for Edexcel International GCSE Physics 4PH1, 3b."
+description: "Transverse and longitudinal waves, wave definitions, v = fλ, f = 1/T, the Doppler effect, reflection and refraction for Edexcel IGCSE Physics 4PH1, 3b."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

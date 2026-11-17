@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-exploring-sociology-9690"
     subtopic: "social-identities-social-change-9690"
-description: "Study guide to OxfordAQA 9690 section 3.1.2.3: how identities are socially constructed, seven bases of identity, and how gender, ethnic and online identities change."
+description: "Study guide to OxfordAQA 9690 section 3.1.2.3: socially constructed identities, seven bases of identity, and changing gender, ethnic and online identities."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
@@ -136,7 +136,10 @@ important source of identity.*
 ## Exam technique
 
 When explaining a basis of identity, cover **definition**, **agency of construction** and
-**change**. In evaluation questions on change, set postmodern ideas of choice against structural
+**change**. For example, national identity is defined as belonging to a nation-state, constructed
+through schools (national history, anthems), media (Billig's banal nationalism) and sport, and
+changed by migration, dual citizenship and global media. The same three-step pattern works for
+religion, class, gender or disability. In evaluation questions on change, set postmodern ideas of choice against structural
 constraints and apply to a named society.
 
 ## Next steps

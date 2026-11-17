@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "motion-forces-and-energy-cambridge-igcse-physics"
     subtopic: "energy-work-and-power-cambridge-igcse-physics"
-description: "Revision notes for Cambridge IGCSE Physics 0625 section 1.7: stores, transfers, Ek, Ep, work, power, efficiency and energy resources, with a 12-question self-test."
+description: "Revision notes for Cambridge IGCSE Physics 0625 section 1.7: stores, transfers, Ek, Ep, work, power, efficiency and energy resources, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

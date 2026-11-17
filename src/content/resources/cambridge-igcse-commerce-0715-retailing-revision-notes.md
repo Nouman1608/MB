@@ -51,7 +51,7 @@ Condensed notes for section 2.3 of Cambridge IGCSE Commerce (0715). For full tab
 
 - **Personal service**: knows customers, gives advice, orders specials.
 - **Flexible opening hours**: early, late, holidays.
-- **Additional services**: delivery, informal credit, bill payments, phone top-ups.
+- **Additional services**: delivery, informal credit, bill payments, selling mobile phone credit.
 
 Also accepted: convenience of location, local products.
 

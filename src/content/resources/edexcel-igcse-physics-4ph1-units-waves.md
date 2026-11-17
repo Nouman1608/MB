@@ -149,6 +149,22 @@ n = sin i / sin r = sin 40° / sin 25° = 0.643 / 0.423 = 1.52
 n has no unit. A quick sense check: n for glass is about 1.5, and it is
 always greater than 1.
 
+## Reading the axes of wave graphs
+
+Two kinds of wave graph look alike but give different quantities, and the
+unit on the horizontal axis tells you which is which.
+
+- **Displacement against distance** (axis in m or cm): a snapshot of the
+  wave at one instant. The repeat length along the axis is the
+  **wavelength**, in metres.
+- **Displacement against time** (axis in s or ms): how one point moves.
+  The repeat length along the axis is the **time period**, in seconds,
+  and f = 1 ÷ T.
+
+On both, the amplitude is read from the vertical axis, from the rest line
+to a crest, in metres. Always check the axis label before deciding whether
+a length you have measured is a λ or a T.
+
 ## Common mistakes
 
 - Using kHz, MHz or GHz in v = f × λ without converting to Hz.

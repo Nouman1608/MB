@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves"
     subtopic: "properties-of-waves"
-description: "Original practice questions with full answers on wave types, wave definitions, v = fλ, f = 1/T, refraction and the Doppler effect for Edexcel IGCSE Physics 4PH1."
+description: "Original questions with full answers on wave types, wave definitions, v = fλ, f = 1/T, refraction and the Doppler effect for Edexcel IGCSE Physics 4PH1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

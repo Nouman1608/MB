@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "electricity"
     subtopic: "electric-charge"
-description: "Recall notes on conductors, insulators, charging by friction, forces between charges and electrostatic dangers and uses, with a self-test, for Edexcel IGCSE Physics 4PH1."
+description: "Recall notes on conductors, insulators, charging by friction, forces between charges and static dangers and uses, plus a self-test, for Edexcel 4PH1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

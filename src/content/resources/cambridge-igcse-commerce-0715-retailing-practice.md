@@ -91,7 +91,7 @@ Discuss the likely effects on Style Lane of starting to sell through ecommerce. 
 **8.** Any three, 2 marks each (reason plus explanation in context):
 Personal service: the owner knows villagers by name and can advise or order special items [2].
 Flexible opening hours: Mama Joy's can open early and late, when a trip of 5 km to the supermarket is inconvenient [2].
-Additional services: delivery to elderly customers, phone top-ups or bill payments [2].
+Additional services: delivery to elderly customers, selling mobile phone credit or bill payments [2].
 Informal credit: trusted customers can pay at the end of the week [2].
 Convenience: villagers without cars can walk to the shop for small purchases [2]. **[max 6]**
 

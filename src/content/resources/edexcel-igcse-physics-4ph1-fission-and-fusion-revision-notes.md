@@ -47,6 +47,7 @@ core content. Explanations and a model answer are in the
 - Self-sustaining if, on average, at least one neutron per fission causes another.
 - Uncontrolled: rapidly growing number of fissions, explosive.
 - Controlled (reactor): on average **one** neutron per fission causes another, so the rate is steady.
+- **Why uncontrolled growth is so fast:** if every fission triggered two more, the generations would run 1, 2, 4, 8, 16... After only 10 generations, 1024 nuclei would be splitting at once, and each generation takes a tiny fraction of a second.
 
 ## Reactor parts
 

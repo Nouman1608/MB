@@ -112,6 +112,19 @@ example, Earth's orbital radius is about 150 000 000 000 m, written
 1.5 × 10¹¹ m. Enter standard form on a calculator with the ×10ˣ key, not
 by typing "× 10 ^" with extra brackets you might forget.
 
+## Checking an answer with its units
+
+Units can be treated like algebra to check that an equation has been
+used correctly:
+
+- **v = 2πr / T:** 2π has no unit, so the unit of v is m ÷ s = m/s. If your working gives km/h or m/day, a conversion has been missed.
+- **W = m × g:** kg × N/kg = N. The kilograms cancel, leaving newtons.
+- **T = 2πr / v:** m ÷ (m/s) = s. The metres cancel, leaving seconds.
+- **Δλ / λ₀ = v / c:** nm ÷ nm and (m/s) ÷ (m/s) both cancel, leaving a pure number.
+
+If the units of your answer do not match the quantity asked for, look
+for the step where a unit was not converted.
+
 ## Worked examples
 
 **Example 1 (weight on the Moon).** An astronaut has a mass of 75 kg.

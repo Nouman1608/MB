@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "electricity"
     subtopic: "mains-electricity"
-description: "Insulation, earthing, fuses, circuit breakers, electrical heating, P = IV, E = IVt and a.c. versus d.c. for Edexcel International GCSE Physics 4PH1, sub-topic 2b."
+description: "Insulation, earthing, fuses, circuit breakers, electrical heating, P = IV, E = IVt and a.c. versus d.c. for Edexcel International GCSE Physics 4PH1, 2b."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

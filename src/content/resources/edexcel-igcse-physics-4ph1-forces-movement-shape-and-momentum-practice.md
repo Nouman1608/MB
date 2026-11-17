@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "forces-and-motion"
     subtopic: "forces-movement-shape-and-momentum"
-description: "Original practice questions with answers on resultant force, stopping distance, Hooke's law, momentum, Newton's third law and beams for Edexcel IGCSE Physics 4PH1."
+description: "Original questions with answers on resultant force, stopping distance, Hooke's law, momentum, Newton's third law and beams for Edexcel IGCSE Physics 4PH1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "forces-and-motion"
     subtopic: "forces-movement-shape-and-momentum"
-description: "Recall notes on resultant force, F = ma, stopping distance, Hooke's law, momentum, Newton's third law and moments, with a self-test, for Edexcel IGCSE Physics 4PH1."
+description: "Recall notes on resultant force, F = ma, stopping distance, Hooke's law, momentum, third-law pairs and moments, with a self-test, for Edexcel 4PH1 Physics."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

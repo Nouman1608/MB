@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "electricity"
     subtopic: "energy-and-voltage-in-circuits"
-description: "Series and parallel circuits, I-V investigations, LDRs and thermistors, V = IR, Q = It, E = QV and current at junctions for Edexcel International GCSE Physics 4PH1, 2c."
+description: "Series and parallel circuits, I-V investigations, LDRs, thermistors, V = IR, Q = It, E = QV and junctions for Edexcel International GCSE Physics 4PH1, 2c."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

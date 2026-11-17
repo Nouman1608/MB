@@ -47,7 +47,7 @@ The syllabus gives three examples: **personal service**, **flexible opening hour
 
 - **Personal service**: the owner knows regular customers, remembers what they buy and gives advice, which large stores cannot match.
 - **Flexible opening hours**: a corner shop can open early, late or on holidays, when large stores are closed.
-- **Additional services**: delivery to elderly customers, phone top-ups, bill payment points, or **informal credit** to trusted customers.
+- **Additional services**: delivery to elderly customers, selling mobile phone credit, bill payment points, or **informal credit** to trusted customers.
 
 Convenience (being close to homes) and stocking local products are further reasons you can add.
 

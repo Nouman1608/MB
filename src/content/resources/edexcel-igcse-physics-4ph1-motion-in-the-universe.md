@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "astrophysics"
     subtopic: "motion-in-the-universe"
-description: "Galaxies and the Milky Way, why g varies, gravity and orbits, comet, moon and planet orbits compared, and v = 2πr/T, for Edexcel IGCSE Physics 4PH1 sub-topic 8b."
+description: "Galaxies and the Milky Way, why g varies, gravity and orbits, comet, moon and planet orbits compared, and v = 2πr/T, for Edexcel 4PH1 sub-topic 8b."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

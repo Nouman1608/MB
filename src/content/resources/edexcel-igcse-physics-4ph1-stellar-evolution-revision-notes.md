@@ -83,6 +83,8 @@ nebula → main sequence star → red supergiant → supernova → neutron star 
 
 **Sun's path:** main sequence → up and right (red giant) → down and left (white dwarf).
 
+**Reading positions:** top = bright, bottom = dim, left = hot, right = cool. A cool star that is bright must be large (giant); a hot star that is dim must be small (white dwarf).
+
 ## Key terms
 
 | Term | Meaning |

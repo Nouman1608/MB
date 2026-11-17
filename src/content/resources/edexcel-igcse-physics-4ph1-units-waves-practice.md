@@ -94,6 +94,12 @@ Related: [Units for waves revision notes](/resources/edexcel-igcse-physics-4ph1-
 **(b)** Calculate the correct wavelength. **[2]**
 **(c)** Explain how a sense check on the size of the answer could have shown that 68 m was wrong. **[1]**
 
+**14.** Two graphs describe the same water wave. Graph 1 plots displacement against distance, with the horizontal axis in cm; one complete wave spans 4.0 cm. Graph 2 plots displacement against time, with the horizontal axis in s; one complete wave spans 0.50 s. Both graphs show crests 0.6 cm above the rest line.
+
+**(a)** State the wavelength and the time period, in SI units. **[2]**
+**(b)** State the amplitude in metres. **[1]**
+**(c)** Calculate the wave speed. **[2]**
+
 ---
 
 ## Answers
@@ -135,3 +141,7 @@ Related: [Units for waves revision notes](/resources/edexcel-igcse-physics-4ph1-
 **13. (a)** The frequency was used as 5.0 Hz instead of being converted from 5.0 kHz to 5000 Hz [1]. **[1]**
 **(b)** λ = 340 ÷ 5000 [1] = 0.068 m (6.8 cm) [1]. **[2]**
 **(c)** A sound of several thousand hertz has a wavelength of centimetres, not tens of metres; a 68 m wavelength would need a frequency of only 5 Hz [1]. **[1]**
+
+**14. (a)** Wavelength (from the distance graph) = 4.0 cm = 0.040 m [1]; period (from the time graph) = 0.50 s [1]. **[2]**
+**(b)** 0.6 cm = 0.006 m [1]. **[1]**
+**(c)** f = 1 ÷ 0.50 = 2.0 Hz [1]; v = f × λ = 2.0 × 0.040 = 0.080 m/s [1]. **[2]**

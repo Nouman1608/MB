@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "electricity"
     subtopic: "energy-and-voltage-in-circuits"
-description: "Recall notes on series and parallel circuits, I-V graphs, LDRs, thermistors, V = IR, Q = It and E = QV, with a self-test, for Edexcel International GCSE Physics 4PH1."
+description: "Recall notes on series and parallel circuits, I-V graphs, LDRs, thermistors, V = IR, Q = It and E = QV, with a self-test, for Edexcel IGCSE Physics 4PH1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

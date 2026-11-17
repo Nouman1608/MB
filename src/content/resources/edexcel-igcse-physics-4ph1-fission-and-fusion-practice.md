@@ -70,6 +70,14 @@ Related: [Fission and fusion revision notes](/resources/edexcel-igcse-physics-4p
 
 **13.** Compare nuclear fission with nuclear fusion. Your answer should include what happens to the nuclei, how each process is started, and where each process is used or occurs. **[4]**
 
+**14.** In a model of a chain reaction, each fission releases neutrons, and on average two of them go on to cause another fission.
+
+**(a)** Starting from one fission, state the number of fissions in the fifth generation. **[1]**
+
+**(b)** Explain why a reactor must be designed so that, on average, only one neutron from each fission causes another fission. **[2]**
+
+**(c)** State the part of the reactor that is adjusted to achieve this. **[1]**
+
 ---
 
 ## Answers
@@ -103,12 +111,17 @@ Related: [Fission and fusion revision notes](/resources/edexcel-igcse-physics-4p
 
 **13.** Any four, with at least one point on each of the two processes: in fission a large nucleus splits into two smaller nuclei [1]; in fusion small nuclei join to form a larger nucleus [1]; fission is started by absorbing a neutron [1]; fusion needs very high temperature and pressure [1]; fission is used in nuclear power stations [1]; fusion occurs in stars [1]; both release energy [1]; maximum 4.
 
+**14. (a)** 1, 2, 4, 8, 16: **16** fissions in the fifth generation [1].
+**(b)** If more than one neutron per fission causes another fission, the number of fissions grows rapidly and the energy release becomes uncontrollable (explosive) [1]; with exactly one, the rate of fission, and so the energy output, stays constant [1].
+**(c)** The control rods (raised or lowered to absorb more or fewer neutrons) [1].
+
 ---
 
 ## Where marks are usually lost
 
 - Writing "the atom splits" instead of "the nucleus splits".
 - Forgetting the extra neutrons when balancing mass numbers (Questions 2 and 3).
+- Counting the first fission as generation zero in Question 14: the sequence starts at 1.
 - Giving the moderator the control rods' job.
 - In Question 12, missing "positively charged" or "electrostatic repulsion".
 - In Question 13, writing two separate descriptions with no comparison.
