@@ -90,7 +90,7 @@ D. Conjugal role
 
 **2.** C [1]. The instrumental role is the breadwinning role Parsons linked to husbands. **[1]**
 
-**3.** Any two from: sexual [1]; economic [1]; educational [1]. **[2]**
+**3.** Sexual [1]; economic [1]. *Also credit:* educational, in place of either. **[2]**
 
 **4.** Parsons argued that adults face stress and pressure in the competitive world of work [1]. The family is where they can give and receive emotional support, for example from a partner [1]. This keeps adults emotionally stable, so they can carry on performing their adult roles and society runs smoothly [1]. **[3]**
 
@@ -98,7 +98,7 @@ D. Conjugal role
 
 **6.** Engels (a Marxist) argued that monogamous marriage developed alongside private property [1]. Men needed to be certain who their children were so that they could pass their property on to legitimate heirs [1]. The family therefore helps keep wealth concentrated in the same families across generations, which maintains class inequality [1]. **[3]**
 
-**7. (a)** Any one: economic function as a unit of consumption [1]; stabilisation of adult personalities, as the parents relax at home [1]. Credit one only.
+**7. (a)** The economic function, as the family acts as a unit of consumption [1]. *Also credit:* stabilisation of adult personalities, as the parents relax at home.
 
 **(b)** A Marxist would see the family acting as a unit of consumption that serves capitalism [1]. The pressure to buy trainers "everyone has" shows how families keep up with others, which keeps demand and profits high [1]. Zaretsky would add that the relaxing home life the parents value is a cushion against the stress of work, which helps them keep going in jobs that benefit employers [1]. **[4]**
 
@@ -106,7 +106,7 @@ D. Conjugal role
 
 *Also credit:* ignores diversity; treats children as passive; treats the gender division of roles as natural (feminist criticism).
 
-**9. (a)** One weakness, examined. The sample of 20 children's parents from one private nursery in a wealthy suburb is small and drawn from one class background [1], so the findings cannot be generalised to families of other classes or areas [1]. *Or:* parents may give socially desirable answers, saying they treat children equally when they do not [1], so the data may lack validity [1]. Credit one only. **[2]**
+**9. (a)** One weakness, examined. The sample of 20 children's parents from one private nursery in a wealthy suburb is small and drawn from one class background [1], so the findings cannot be generalised to families of other classes or areas [1]. *Also credit:* parents may give socially desirable answers, saying they treat children equally when they do not, so the data may lack validity. **[2]**
 
 **(b)** Identify: informed consent [1]. Explain: young children cannot give informed consent themselves [1], so the researcher must get consent from parents and explain the purpose of the research clearly [1]. Participants should know they can withdraw at any time, and any observation of children must avoid causing them distress [1]. *Also credit:* confidentiality of family details; protection from harm; anonymity of the nursery. **[6]**
 
