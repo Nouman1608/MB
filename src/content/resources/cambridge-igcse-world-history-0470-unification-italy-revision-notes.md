@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-a-0470"
     subtopic: "unification-italy-0470"
-description: "Recall notes for Cambridge IGCSE History 0470 key question 1.2: a timeline of Italian unification, key people and terms, Cavour versus Garibaldi, traps and a self-test."
+description: "Recall notes for Cambridge IGCSE History 0470 key question 1.2: Italian unification timeline, key people and terms, Cavour versus Garibaldi, self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

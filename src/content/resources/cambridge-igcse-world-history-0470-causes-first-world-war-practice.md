@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-a-0470"
     subtopic: "causes-first-world-war-0470"
-description: "Twelve original questions with mark-scheme answers on alliances, the arms race, colonial crises, the Balkans and July 1914, for Cambridge IGCSE History 0470 key question 1.6."
+description: "Twelve original questions with mark-scheme answers on the causes of the First World War, 1890-1914, for Cambridge IGCSE History 0470 key question 1.6."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

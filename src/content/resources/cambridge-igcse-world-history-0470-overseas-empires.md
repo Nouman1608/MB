@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-a-0470"
     subtopic: "overseas-empires-0470"
-description: "Cambridge IGCSE History 0470 key question 1.5 in depth: weighing imperial motives, comparing Senegal, Nigeria and the Congo, India after 1857 and US rule in Cuba."
+description: "Cambridge IGCSE History 0470 key question 1.5 in depth: weighing imperial motives, comparing impacts in Africa, India after 1857 and US rule in Cuba."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

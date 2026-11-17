@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-a-0470"
     subtopic: "overseas-empires-0470"
-description: "Twelve original questions with mark-scheme answers on imperial motives, Africa, India after 1857 and US rule in Cuba and the Philippines, for Cambridge IGCSE 0470."
+description: "Twelve original questions with mark-scheme answers on imperial motives, Africa, India after 1857 and US rule overseas, for Cambridge IGCSE History 0470."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

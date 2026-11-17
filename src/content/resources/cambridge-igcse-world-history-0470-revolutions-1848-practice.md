@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-a-0470"
     subtopic: "revolutions-1848-0470"
-description: "Twelve original questions with mark-scheme answers on the 1848 revolutions in France, Italy, Germany and Austria for Cambridge IGCSE History 0470 key question 1.1."
+description: "Twelve original questions with mark-scheme answers on the 1848 revolutions in France, Italy, Germany and Austria, for Cambridge IGCSE History 0470."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

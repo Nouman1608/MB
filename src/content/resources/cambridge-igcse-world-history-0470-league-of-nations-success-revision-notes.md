@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-b-0470"
     subtopic: "league-of-nations-success-0470"
-description: "Recall notes for Cambridge IGCSE History 0470 key question 2.2: League structure, the four 1920s disputes, humanitarian work, Manchuria, Abyssinia and a self-test."
+description: "Recall notes for Cambridge IGCSE History 0470 key question 2.2: League structure, 1920s disputes, humanitarian work, the 1930s crises and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

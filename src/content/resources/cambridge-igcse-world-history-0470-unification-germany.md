@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-a-0470"
     subtopic: "unification-germany-0470"
-description: "Study guide to Cambridge IGCSE History 0470 key question 1.3: the Zollverein, 1848-50, Bismarck's wars with Denmark, Austria and France, and the German Empire of 1871."
+description: "Study guide to Cambridge IGCSE History 0470 key question 1.3: the Zollverein, 1848-50, Bismarck's three wars and the German Empire of 1871."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

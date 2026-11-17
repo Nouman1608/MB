@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-b-0470"
     subtopic: "hitlers-foreign-policy-0470"
-description: "Recall notes for Cambridge IGCSE History 0470 key question 2.3: Hitler's aims, the steps to war 1933-39, appeasement, the Nazi-Soviet Pact, traps and a self-test."
+description: "Recall notes for Cambridge IGCSE History 0470 key question 2.3: Hitler's aims, steps to war 1933-39, appeasement, the Nazi-Soviet Pact and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

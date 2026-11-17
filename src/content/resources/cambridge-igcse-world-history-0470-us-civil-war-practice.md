@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-a-0470"
     subtopic: "us-civil-war-0470"
-description: "Twelve original questions with mark-scheme answers on secession, the war's turning points and Reconstruction, for Cambridge IGCSE History 0470 key question 1.4."
+description: "Twelve original questions with mark-scheme answers on secession, the Civil War and Reconstruction, for Cambridge IGCSE History 0470 key question 1.4."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

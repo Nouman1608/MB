@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-b-0470"
     subtopic: "treaty-of-versailles-0470"
-description: "Twelve original questions with mark-scheme answers on the Big Three, the terms and Germany's crises to 1923, for Cambridge IGCSE History 0470 key question 2.1."
+description: "Twelve original questions with mark-scheme answers on the Big Three, the terms and Germany to 1923, for Cambridge IGCSE History 0470 key question 2.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-b-0470"
     subtopic: "treaty-of-versailles-0470"
-description: "Study guide to Cambridge IGCSE History 0470 key question 2.1: the Big Three's aims, the terms, the impact on Germany to 1923 and contemporary opinions of the Treaty."
+description: "Study guide to Cambridge IGCSE History 0470 key question 2.1: the Big Three, the terms, the impact on Germany to 1923 and opinions of the Treaty."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

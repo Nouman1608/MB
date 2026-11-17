@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-a-0470"
     subtopic: "causes-first-world-war-0470"
-description: "Study guide to Cambridge IGCSE History 0470 key question 1.6: alliances, the Anglo-Japanese Alliance, the arms race, colonial crises, the Balkans and July 1914."
+description: "Study guide to Cambridge IGCSE History 0470 key question 1.6: alliances, the arms race, colonial crises, the Balkans and the July Crisis of 1914."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

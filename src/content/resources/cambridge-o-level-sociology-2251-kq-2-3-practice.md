@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
     subtopic: "kq-2-3-2251"
-description: "Original Cambridge O Level Sociology 2251 practice on key question 2.3: ethnicity, class, age, online identities, globalisation and postmodernism, with answers."
+description: "Original Cambridge O Level Sociology 2251 practice on key question 2.3: ethnicity, global culture, social media, cultural defence and postmodernism, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
@@ -38,25 +38,26 @@ Question 2. Section B gives extra practice on the aspects of identity and newer 
 
 **(a)** Define the terms:
 - (i) *hybrid identity* **[2]**
-- (ii) *homogenisation of identities* **[2]**
+- (ii) *multiculturalism* **[2]**
 
-**(b)** Give **two** examples of virtual communities. **[2]**
+**(b)** Give **two** examples of global culture. **[2]**
 
-**(c)** Explain **three** negative impacts of social media on young people's identities. **[6]**
+**(c)** Explain **three** ways ethnicity may influence a person's identity. **[6]**
 
-**(d)** Explain **three** ways ethnicity may influence a person's identity. **[6]**
+**(d)** Explain **three** ways globalisation may influence individual identities. **[6]**
 
 **(e)** Discuss the postmodernist view that identity is chosen rather than given. **[8]**
 
-**(f)** Evaluate the view that globalisation is creating a single global identity. **[14]**
+**(f)** Evaluate the view that social media has had a mainly negative impact on young people's
+identities. **[14]**
 
 ## Section B — Aspects of identity and newer influences
 
 **(g)** Explain how the identity attached to age may differ between societies. **[4]**
 
-**(h)** Explain **two** positive impacts of multiculturalism on identity. **[4]**
+**(h)** Explain **two** negative impacts of global culture on identity. **[4]**
 
-**(i)** Explain **two** ways consumption may be linked to identity. **[4]**
+**(i)** Explain **two** reasons why cultural defence may occur. **[4]**
 
 **(j)** Explain how Goffman's idea of impression management applies to online identities. **[4]**
 
@@ -70,23 +71,14 @@ Question 2. Section B gives extra practice on the aspects of identity and newer 
 of migrant heritage who mixes the language, music or dress of their family's culture with those of
 the society they grew up in (1).
 
-**(a)(ii) [2]** The process by which identities in different societies become more alike (1), as
-global brands, media and consumer habits spread through globalisation (1).
+**(a)(ii) [2]** A policy or belief that different cultural groups in one society should be respected
+equally (1) and free to keep their own languages, religions and customs (1).
 
-**(b) [2]** Any two (1 each): online gaming communities; fan groups; online support groups for people
-with particular illnesses or experiences; religious or diaspora groups online; discussion forums based
-on hobbies; social media groups.
+**(b) [2]** Any two (1 each): global brands of clothing, food or phones; films and music watched or
+streamed worldwide; international sport such as football competitions; global social media
+platforms; shared fashion trends.
 
-**(c) [6]** Three impacts, 2 marks each:
-- **Pressure to look perfect:** edited images set unrealistic standards of appearance, lowering
-  self-esteem (2).
-- **Cyberbullying:** abuse online follows young people home and can damage confidence and sense of
-  self (2).
-- **Dependence on approval:** measuring self-worth by likes and followers makes identity fragile (2).
-- **Echo chambers:** seeing only similar views can narrow identity and harden prejudice (2).
-- **Permanent records:** past posts can shape how others judge a person years later (2).
-
-**(d) [6]** Three ways, 2 marks each:
+**(c) [6]** Three ways, 2 marks each:
 - **Language** spoken at home and in the community gives a sense of belonging and shapes how people
   express themselves (2).
 - **Religion** linked to ethnicity provides values, festivals and dress that mark identity (2).
@@ -94,6 +86,16 @@ on hobbies; social media groups.
   origins (2).
 - **Treatment by others:** stereotyping or discrimination can make ethnicity more central to identity,
   or lead people to hide it (2).
+
+**(d) [6]** Three ways, 2 marks each:
+- **Homogenisation:** global brands, media and consumer habits make young people in different
+  societies share similar tastes and styles (2).
+- **Hybrid identities:** people combine elements of different cultures, such as mixing the music and
+  language of their family's culture with those of the society they live in (2).
+- **Cultural defence:** some people respond to outside influence by strengthening traditional,
+  religious or national identities (2).
+- **Wider choice:** access to global media and migration offers more lifestyles and role models to
+  choose from (2).
 
 **(e) [8]** Levels: 7–8 developed points with evidence and evaluation; 4–6 some development; 1–3
 basic points.
@@ -111,25 +113,24 @@ basic points.
 **(f) [14]** Levels: 11–14 balanced, developed, evaluated with a supported conclusion; 7–10 developed
 but less balanced; 4–6 limited; 1–3 basic.
 
-*For:*
-- Global brands, films, music and sport are shared across countries, so young people in different
-  societies share tastes.
-- Ritzer's idea of McDonaldization (1993) describes the spread of standardised consumer culture.
-- English is widely used online and in business, spreading shared cultural references.
-- Social media connects people across borders into shared communities and trends.
+*For (negative impacts):*
+- Edited images set unrealistic standards of appearance, lowering self-esteem.
+- Cyberbullying follows young people home and can damage confidence and sense of self.
+- Measuring self-worth by likes and followers makes identity dependent on others' approval.
+- Echo chambers narrow the views young people meet and can harden prejudice.
+- Posts create a permanent record that may shape how others judge them later.
 
-*Against:*
-- **Hybrid identities:** people mix global and local elements rather than replacing one with the
-  other.
-- **Cultural defence:** some groups strengthen local, national or religious identities in response,
-  as Bruce argued for Catholicism in communist Poland.
-- Many people lack access to global media or consumer goods, so global culture reaches them only
-  partly.
-- Local language, religion, family and ethnicity remain powerful sources of identity.
-- Multiculturalism supports diverse identities within societies.
+*Against (positive impacts):*
+- Young people can explore interests and identities that may not be accepted locally.
+- Virtual communities offer support to those with rare experiences or minority identities.
+- Social media keeps young people in contact with family and diaspora communities abroad.
+- Platforms allow creativity and activism, building confident, public identities.
+- Goffman's idea of impression management suggests online self-presentation is an extension of what
+  people have always done, not something wholly new.
 
-*Conclusion:* globalisation spreads some shared culture, but it produces mixing and resistance as much
-as uniformity, so a single global identity is not emerging.
+*Conclusion:* social media has real negative effects, especially on self-esteem, but it also widens
+choice and support; its impact depends on how it is used and on the young person's offline
+relationships, so "mainly negative" overstates the case.
 
 **(g) [4]** The meaning of life stages is socially constructed (1). For example, adulthood may be
 marked in some societies by a religious ceremony, marriage or starting work rather than a fixed age
@@ -137,16 +138,20 @@ marked in some societies by a religious ceremony, marriage or starting work rath
 stereotyped as dependent or out of date (1).
 
 **(h) [4]** Two impacts, 2 marks each:
-- Minority groups can keep their language, religion and customs without pressure to abandon them,
-  supporting pride and belonging (2).
-- Contact with other cultures widens people's understanding and allows new, mixed identities (2).
-- Equal respect reduces the stigma attached to minority identities (2).
+- Local languages, customs and traditional crafts may decline as young people adopt global media and
+  brands (2).
+- Global culture often reflects the values of richer, mainly Western societies, so local identities
+  may be seen as old-fashioned or inferior (2).
+- Consumer-based global identities can increase pressure to buy goods that poorer families cannot
+  afford (2).
 
-**(i) [4]** Two ways, 2 marks each:
-- Clothes, phones and brands signal who a person is and which group they belong to (2).
-- Lifestyle consumption, such as music, travel or food, lets people build identities around tastes
-  rather than inherited characteristics (2).
-- Consumption can mark status: expensive goods may display success or class position (2).
+**(i) [4]** Two reasons, 2 marks each:
+- A group feels its culture, language or religion is threatened by outside influence or by a more
+  powerful state, and strengthens it to protect its identity (2).
+- Religion or tradition becomes a symbol of national identity under foreign or oppressive rule, as
+  Bruce argued for Catholicism in communist Poland (2).
+- Migrants facing discrimination in a new society may emphasise their traditions to keep a sense of
+  belonging (2).
 
 **(j) [4]** Goffman argued that people manage the impression they give to others, like actors
 performing for an audience (2). Online, this becomes deliberate: people choose and edit photographs,

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-b-0470"
     subtopic: "league-of-nations-success-0470"
-description: "Study guide to Cambridge IGCSE History 0470 key question 2.2: the League's structure, the disputes of the 1920s, its humanitarian work, and Manchuria and Abyssinia."
+description: "Study guide to Cambridge IGCSE History 0470 key question 2.2: League structure, 1920s disputes, humanitarian work, Manchuria and Abyssinia."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

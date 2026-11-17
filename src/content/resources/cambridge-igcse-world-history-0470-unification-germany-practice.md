@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-a-0470"
     subtopic: "unification-germany-0470"
-description: "Twelve original questions with mark-scheme answers on the Zollverein, Frankfurt, Bismarck and the wars of 1864-71, for Cambridge IGCSE History 0470 key question 1.3."
+description: "Twelve original questions with mark-scheme answers on the Zollverein, Frankfurt, Bismarck and the wars of 1864-71, for Cambridge IGCSE History 0470."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

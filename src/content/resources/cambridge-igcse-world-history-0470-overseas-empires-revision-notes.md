@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-a-0470"
     subtopic: "overseas-empires-0470"
-description: "Recall notes for Cambridge IGCSE History 0470 key question 1.5: motives with extra examples, impacts compared, 1857 by group, Cuba and the Philippines, and a self-test."
+description: "Recall notes for Cambridge IGCSE History 0470 key question 1.5: motives, impacts in Africa compared, 1857 by group, Cuba and the Philippines, self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

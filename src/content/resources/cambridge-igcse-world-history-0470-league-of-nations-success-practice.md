@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-b-0470"
     subtopic: "league-of-nations-success-0470"
-description: "Twelve original questions with mark-scheme answers on the League's structure, 1920s disputes, humanitarian work, Manchuria and Abyssinia, for Cambridge IGCSE 0470."
+description: "Twelve original questions with mark-scheme answers on the League's structure, disputes, humanitarian work and 1930s crises, for Cambridge IGCSE 0470."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
