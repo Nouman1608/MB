@@ -240,12 +240,13 @@ export const slug = 'edexcel-a-level-law-yla1-rules-of-statutory-interpretation'
     ['Changes in language', 'words shift meaning over time'],
   ];
   let y = 110;
+  let hm = 0; reasons.forEach(([h, d]) => { hm = Math.max(hm, lcard(0, 0, 411, { title: h, body: d, tsize: 18, size: 15 }).h); });
   reasons.forEach(([h, d], i) => {
-    const x = 30 + (i % 2) * 429, yy = y + Math.floor(i / 2) * 104;
+    const x = 30 + (i % 2) * 429, yy = y + Math.floor(i / 2) * (hm + 14);
     const w = i === 4 ? 840 : 411;
-    b += lcard(i === 4 ? 30 : x, yy, w, { title: h, body: d, tsize: 18, size: 15, minH: 92 }).s;
+    b += lcard(i === 4 ? 30 : x, yy, w, { title: h, body: d, tsize: 18, size: 15, minH: i === 4 ? 0 : hm }).s;
   });
-  y += 3 * 104 + 10;
+  y += 2 * (hm + 14) + lcard(0, 0, 840, { title: 'x', body: 'y', tsize: 18, size: 15 }).h + 20;
   // tension balance
   b += lbox(30, y, 840, 120, { fill: C.ink, edge: C.ink, rx: 16 });
   b += T(450, y + 34, 'THE TENSION IN EVERY QUESTION', { size: 15, weight: 700, anchor: 'middle', fill: C.mustard });
@@ -346,7 +347,7 @@ export const slug = 'edexcel-a-level-law-yla1-rules-of-statutory-interpretation'
     ['What was the common law before the Act?', 'the law before the Street Offences Act 1959'],
     ['What was the mischief or defect?', 'people being solicited in the street'],
     ['What remedy did Parliament provide?', 'an offence to solicit "in a street"'],
-    ['What is the true reason for the remedy?', 'to stop that soliciting, wherever the prostitute stood'],
+    ['What is the true reason for the remedy?', 'suppress the mischief: soliciting people in the street'],
   ];
   let y = 150;
   qs.forEach(([q, a], i) => {

@@ -135,7 +135,7 @@ const person = (x, y, s = 1) => circ(x, y - 78 * s, 16 * s, C.cream, C.ink, 3) +
 {
   let b = panel(30, 110, 840, 360);
   // staircase
-  const x0 = 120, y0 = 420, n = 6, sw = 60, sh = 42;
+  const x0 = 120, y0 = 430, n = 6, sw = 60, sh = 36;
   let d = `M${x0},${y0}`; for (let k = 0; k < n; k++) d += ` v${-sh} h${sw}`; d += ` V${y0} Z`;
   b += path(d, { fill: C.rock, w: 3 });
   b += person(x0 + n * sw - 30, y0 - n * sh, 0.8);

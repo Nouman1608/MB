@@ -75,7 +75,7 @@ const scatter = (x, y, w, h, n, seed, len = 30) => { let s = '', k = seed; const
 
 // 02 Finding absolute zero
 {
-  const x0 = 640, y0 = 480, sx = 1.75, sy = 2.4; // x0 = 0 °C position; 1 °C = 1.75 px; 1 kPa = 2.4 px
+  const x0 = 640, y0 = 480, sx = 1.75, sy = 2.0; // x0 = 0 °C position; 1 °C = 1.75 px; 1 kPa = 2.4 px
   const X = (c) => x0 + c * sx, Y = (p) => y0 - p * sy;
   let ticks = ''; [-273, -200, -100, 0, 100].forEach((c) => { ticks += ln(X(c), y0, X(c), y0 + 7, { w: 2 }) + t(X(c), y0 + 28, String(c).replace('-', '−'), { size: 15, anchor: 'middle' }); });
   [50, 100, 150].forEach((p) => { ticks += ln(X(-290) - 7, Y(p), X(-290), Y(p), { w: 2 }) + t(X(-290) - 12, Y(p) + 5, String(p), { size: 15, anchor: 'end' }); });
@@ -85,11 +85,11 @@ const scatter = (x, y, w, h, n, seed, len = 30) => { let s = '', k = seed; const
     ln(X(-273), y0, X(0), Y(100), { c: C.tealDark, w: 3, dash: '8 6' }) + ln(X(0), Y(100), X(100), Y(136.6), { c: C.tealDark, w: 5 }) +
     circ(X(0), Y(100), 7, { fill: C.mustard, stroke: C.ink, sw: 2 }) + circ(X(100), Y(136.6), 7, { fill: C.mustard, stroke: C.ink, sw: 2 }) + circ(X(-273), y0, 8, { fill: C.rust, stroke: C.ink, sw: 2 }) +
     t(X(0) - 12, Y(100) - 14, '100 kPa at 0 °C', { size: 16, weight: 700, anchor: 'end' }) + t(X(100) - 10, Y(136.6) - 16, '136.6 kPa at 100 °C', { size: 16, weight: 700, anchor: 'end' }) +
-    t(X(-273) + 14, y0 - 16, 'zero pressure at −273 °C: absolute zero', { size: 16, weight: 700, fill: C.rust }) +
+    t(X(-273) - 10, y0 + 54, 'zero pressure at −273 °C: absolute zero', { size: 16, weight: 700, fill: C.rust }) +
     t(X(-150), Y(70), 'extend the line back', { size: 15, fill: C.tealDark, weight: 600, anchor: 'middle' }) +
     steps(30, 560, 840, [
       ['rise per °C = (136.6 − 100) ÷ 100 = 0.366 kPa per °C'],
-      ['cooling from 0 °C to zero pressure = 100 ÷ 0.366 = 273 °C   →   −273 °C', { weight: 700, fill: C.tealDark }],
+      ['cooling from 0 °C to zero pressure = 100 ÷ 0.366 = 273 °C   →   −273 °C', { weight: 700, fill: C.tealDark }],
     ], { lh: 36, size: 18 }) +
     t(450, 685, 'Zero pressure: molecules have the lowest possible kinetic energy, so no lower temperature is possible.', { size: 15, anchor: 'middle', fill: C.muted });
   add('02-finding-absolute-zero', svg(900, 705, 'Finding absolute zero from pressure data', body),
@@ -107,8 +107,7 @@ const scatter = (x, y, w, h, n, seed, len = 30) => { let s = '', k = seed; const
     rows.map(([c, k]) => ln(x - 14, Y(c), x + 14, Y(c), { w: 2.5 }) + t(x + (lab === '°C' ? -24 : 24), Y(c) + 6, fn(c, k), { size: 18, weight: 700, anchor: lab === '°C' ? 'end' : 'start', fill: col })).join('');
   const body = panel(30, 110, 840, 490) + scale(250, '°C', (c) => String(c).replace('-', '−'), C.rust) + scale(370, 'K', (c, k) => String(k), C.tealDark) +
     rows.map(([c, , n]) => ln(440, Y(c), 470, Y(c), { c: C.muted, w: 1.5, dash: '4 4' }) + t(480, Y(c) + 6, n, { size: 17 })).join('') +
-    arrow(310, Y(-273) - 2, 310, Y(0) + 4, { w: 2, color: C.olive, marker: 'ahO' }) + arrow(310, Y(0) + 4, 310, Y(-273) - 2, { w: 2, color: C.olive, marker: 'ahO' }) +
-    panel(30, 615, 840, 70, C.cream, C.olive) + t(450, 646, 'T (K) = θ (°C) + 273        θ (°C) = T (K) − 273', { size: 19, weight: 700, anchor: 'middle' }) +
+    panel(30, 615, 840, 70, C.cream, C.olive) + t(450, 646, 'T (K) = θ (°C) + 273        θ (°C) = T (K) − 273', { size: 19, weight: 700, anchor: 'middle' }) +
     t(450, 672, 'Same size steps; the Kelvin scale starts at absolute zero.', { size: 16, anchor: 'middle', fill: C.muted });
   add('03-kelvin-and-celsius', svg(900, 705, 'Kelvin and Celsius side by side', body),
     'Two scales side by side: absolute zero is −273 °C and 0 K, water freezes at 0 °C and 273 K, room temperature is about 20 °C or 293 K, and water boils at 100 °C or 373 K.',
@@ -122,13 +121,13 @@ const scatter = (x, y, w, h, n, seed, len = 30) => { let s = '', k = seed; const
   const body = panel(30, 110, 420, 420) + t(240, 146, 'Push the handle in slowly', { size: 18, weight: 700, anchor: 'middle' }) +
     piston(60, 175, 300, 100, 270, '150 cm³ at 100 kPa') + scatter(60, 175, 270, 100, 6, 3, 24) +
     piston(60, 345, 300, 100, 90, '50 cm³: p = ?') + scatter(60, 345, 90, 100, 6, 3, 24) + arrow(250, 395 - 70, 200, 395 - 70, { w: 3 }) +
-    para(55, 490, ['Same speed, but the walls are hit', 'more often, so pressure rises.'], 370, { size: 15 }, 20);
+    para(55, 500, ['Same speed, but the walls are hit', 'more often, so pressure rises.'], 370, { size: 15 }, 20);
   const gx = 520, gy = 470;
   const g = panel(470, 110, 400, 420) + axes(gx, gy, 320, 310, 'V', 'p') +
     path((() => { let d = ''; for (let v = 0.25; v <= 1.0001; v += 0.025) d += `${d ? 'L' : 'M'}${(gx + v * 300).toFixed(1)},${(gy - (0.25 / v) * 280).toFixed(1)} `; return d; })(), { stroke: C.tealDark, w: 4 }) +
     t(gx + 150, gy - 170, 'p × V stays constant', { size: 16, weight: 700, fill: C.tealDark }) + t(gx + 150, gy - 148, 'halve V: double p', { size: 15, fill: C.muted }) +
     t(gx + 160, 146, 'p against V: a curve', { size: 17, weight: 700, anchor: 'middle' });
-  const body2 = body + g + steps(30, 545, 840, [['p₂ = p₁V₁ ÷ V₂ = 100 × 150 ÷ 50 = 300 kPa', { weight: 700, fill: C.tealDark }], ['fixed mass of gas, constant temperature:   p₁V₁ = p₂V₂']], { lh: 36, size: 19 });
+  const body2 = body + g + steps(30, 545, 840, [['p₂ = p₁V₁ ÷ V₂ = 100 × 150 ÷ 50 = 300 kPa', { weight: 700, fill: C.tealDark }], ['fixed mass of gas, constant temperature:   p₁V₁ = p₂V₂']], { lh: 36, size: 19 });
   add('04-compressing-at-constant-temperature', svg(900, 660, 'Squeezing a gas at constant temperature', body2),
     'A bicycle pump with 150 cm³ of air at 100 kPa is pushed in slowly to 50 cm³; the molecules hit the walls more often and the pressure becomes 100 × 150 ÷ 50 = 300 kPa. A graph of p against V is a curve that gets less steep as V increases.',
     'One third of the volume, three times the pressure: p₁V₁ = p₂V₂.',
@@ -140,11 +139,11 @@ const scatter = (x, y, w, h, n, seed, len = 30) => { let s = '', k = seed; const
   const b1 = box(60, 160, 250, 200) + scatter(60, 160, 250, 200, 7, 11, 22) + t(185, 390, 'cooler', { size: 17, weight: 700, anchor: 'middle' });
   const b2 = box(380, 160, 250, 200) + scatter(380, 160, 250, 200, 7, 11, 44) + t(505, 390, 'hotter: faster molecules', { size: 17, weight: 700, anchor: 'middle', fill: C.rust });
   const body = panel(30, 110, 840, 300) + b1 + arrow(320, 260, 368, 260, { w: 4, color: C.rust, marker: 'ahR' }) + t(344, 245, 'heat', { size: 15, anchor: 'middle', fill: C.rust, weight: 700 }) + b2 +
-    tl(660, 190, ['They hit the walls:', '• more often, AND', '• harder (bigger', '   force each time)'].map((s) => s.replace('   ', ' ')), { size: 17 }, 28) +
+    tl(660, 190, ['They hit the walls:', '• more often, AND', '• harder (bigger', '   force each time)'].map((s) => s.replace('   ', ' ')), { size: 17 }, 28) +
     t(660, 330, 'so pressure rises', { size: 18, weight: 700, fill: C.tealDark }) + t(660, 356, 'p ∝ T (in kelvin)', { size: 16, fill: C.muted }) +
     steps(30, 425, 840, [
       ['Car tyre: 2.4 × 10⁵ Pa at 7 °C, heated to 37 °C, volume constant', { size: 17, fill: C.muted }],
-      ['T₁ = 7 + 273 = 280 K        T₂ = 37 + 273 = 310 K'],
+      ['T₁ = 7 + 273 = 280 K        T₂ = 37 + 273 = 310 K'],
       ['p₂ = p₁ × T₂ ÷ T₁ = 2.4 × 10⁵ × 310 ÷ 280 = 2.7 × 10⁵ Pa (2 s.f.)', { weight: 700, fill: C.tealDark }],
     ], { lh: 38, size: 19 }) +
     t(450, 600, 'Always convert to kelvin before using p₁ ÷ T₁ = p₂ ÷ T₂.', { size: 16, anchor: 'middle', weight: 600, fill: C.rust });

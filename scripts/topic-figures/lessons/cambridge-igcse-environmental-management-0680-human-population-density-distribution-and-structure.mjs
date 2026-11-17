@@ -95,8 +95,8 @@ export const slug = 'cambridge-igcse-environmental-management-0680-human-populat
   for (let i = 0; i < 70; i++) { const x = 120 + rnd() * 60, yv = 140 + rnd() * 420; s += `<circle cx="${x.toFixed(0)}" cy="${yv.toFixed(0)}" r="3.5" fill="${C.ink}"/>`; }
   for (let i = 0; i < 6; i++) s += `<circle cx="${(220 + rnd() * 260).toFixed(0)}" cy="${(140 + rnd() * 120).toFixed(0)}" r="3.5" fill="${C.ink}"/>`;
   s += `<circle cx="420" cy="520" r="5" fill="${C.rust}" stroke="${C.ink}" stroke-width="1.5"/>`;
-  s += t(70, 340, 'sea', { size: 15, weight: 700, fill: C.tealDark, anchor: 'middle' }) + t(365, 232, 'mountains', { size: 15, weight: 700, anchor: 'middle' }) + t(450, 560, 'desert', { size: 15, weight: 700, anchor: 'middle', fill: C.olive }) + t(496, 300, 'river', { size: 15, weight: 700, fill: C.blue, anchor: 'end' });
-  s += t(440, 508, 'oasis town', { size: 15, weight: 700, fill: C.rust, anchor: 'end' });
+  s += t(70, 340, 'sea', { size: 15, weight: 700, fill: C.tealDark, anchor: 'middle' }) + t(365, 232, 'mountains', { size: 15, weight: 700, anchor: 'middle' }) + t(450, 560, 'desert', { size: 15, weight: 700, anchor: 'middle', fill: C.olive }) + t(496, 340, 'river', { size: 15, weight: 700, fill: C.blue, anchor: 'end' });
+  s += line(330, 520, 413, 520, C.rust, 2) + t(324, 525, 'oasis town', { size: 15, weight: 700, fill: C.rust, anchor: 'end' });
   s += `<path d="M480,128 l0,26 M472,138 l8,-12 8,12" stroke="${C.ink}" stroke-width="2.5" fill="none"/>` + t(480, 170, 'N', { size: 15, weight: 700, anchor: 'middle' });
   s += t(44, 570, 'Not to scale', { size: 15, italic: true, fill: C.muted });
   const steps = [['Overall pattern', 'uneven; clustered on the coast and along the river'], ['Where it is dense', 'west coast and the river valley'], ['Where it is sparse', 'northern mountains, south-east desert'], ['Data', 'quote a density or % from the key'], ['Anomaly', 'an oasis town in the empty desert']];

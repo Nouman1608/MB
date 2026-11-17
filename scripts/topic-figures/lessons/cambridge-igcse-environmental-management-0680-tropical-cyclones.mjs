@@ -199,7 +199,8 @@ const spiral = (cx, cy, r, col = C.ink) => path(`M${cx},${cy} m0,-${r * 0.2} a${
 {
   let b = '';
   const proc = [['Strong winds', C.ink, 160], ['Heavy rainfall', C.blue, 450], ['Storm surge', C.tealDark, 740]];
-  proc.forEach(([p, c, x]) => (b += pill(x - 125, 112, 250, 50, p, { fill: c, edge: c, color: '#ffffff', size: 18 })));
+  b += t(450, 128, 'The three physical processes behind the impacts', { size: 17, weight: 700, anchor: 'middle', fill: C.muted });
+  proc.forEach(([p, c, x]) => (b += pill(x - 125, 140, 250, 34, p, { fill: c, edge: c, color: '#ffffff', size: 17 })));
   const imp = [
     ['Buildings and infrastructure', 'roofs, power lines, coastal roads', [0, 2]],
     ['Loss of crops', 'flattened; salt from sea water', [0, 2]],
@@ -213,16 +214,13 @@ const spiral = (cx, cy, r, col = C.ink) => path(`M${cx},${cy} m0,-${r * 0.2} a${
     ['Human health', 'debris injuries, drowning, stress', [0, 1, 2]],
   ];
   imp.forEach(([h, d, src], i) => {
-    const x = 30 + (i % 2) * 430, y = 186 + Math.floor(i / 2) * 82;
+    const x = 30 + (i % 2) * 430, y = 196 + Math.floor(i / 2) * 82;
     b += rrect(x, y, 410, 70, '#ffffff', C.panelEdge, 2, 10) + t(x + 16, y + 28, h, { size: 17, weight: 700 }) + t(x + 16, y + 52, d, { size: 15.5, fill: C.muted });
-    src.forEach((s, j) => (b += circ(x + 392 - j * 18, y + 18, 7, proc[s][1], proc[s][1], 1)));
   });
-  b += t(450, 618, 'Dots show which process mainly drives each impact.', { size: 15.5, anchor: 'middle', fill: C.muted, italic: true });
-  b += panel(30, 636, 840, 120, C.cream, C.olive);
-  b += t(60, 670, 'Make the chain clear, for example:', { size: 17, weight: 700 });
+  b += panel(30, 618, 840, 140, C.cream, C.olive);
+  b += t(60, 656, 'Make the chain clear, for example:', { size: 17, weight: 700 });
   const ch = ['storm surge', 'sea water floods farmland', 'salt left in soil', 'crops fail for more than one season', 'food shortages, lost income'];
-  let x = 50;
-  ch.forEach((c, i) => { const w = c.length * 7.6 + 24; b += rrect(x, 690, w, 48, '#ffffff', C.olive, 2, 10) + t(x + w / 2, 720, c, { size: 15, weight: 600, anchor: 'middle' }); if (i < ch.length - 1) b += arrow(x + w + 2, 714, x + w + 18, 714, { w: 2.5 }); x += w + 22; });
+  ch.forEach((c, i) => { const x = 46 + i * 166, w = 146; const L = wrap(c, 140, 15, true); b += rrect(x, 680, w, 66, '#ffffff', C.olive, 2, 10) + tl(x + w / 2, 680 + (L.length > 2 ? 21 : L.length > 1 ? 29 : 38), L, { size: 15, weight: 600, anchor: 'middle' }, 18); if (i < ch.length - 1) b += arrow(x + w + 2, 715, x + w + 17, 715, { w: 2.5 }); });
   add('04-three-processes-ten-impacts',
     svg(900, 780, 'Three processes, ten impacts', b),
     'Strong winds, heavy rainfall and storm surge drive the ten syllabus impacts: damage to buildings and infrastructure, loss of crops, livestock and habitats, evacuation, flooding, landslides, contaminated drinking water, water-related disease, financial losses and human health. An example chain: storm surge floods farmland, leaves salt in the soil, crops fail for more than one season, causing food shortages and lost income.',
@@ -241,12 +239,12 @@ const spiral = (cx, cy, r, col = C.ink) => path(`M${cx},${cy} m0,-${r * 0.2} a${
   cols.forEach(([h, e, f, items], i) => {
     const x = 30 + i * 285;
     b += `<path d="M${x},110 L${x + 255},110 L${x + 275},140 L${x + 255},170 L${x},170 Z" fill="${e}"/>` + t(x + 128, 148, h, { size: 21, weight: 700, anchor: 'middle', fill: '#ffffff' });
-    items.forEach(([n, d], j) => { const y = 186 + j * 150; b += rrect(x, y, 270, 136, f, e, 2.5, 12) + tl(x + 16, y + 30, wrap(n, 240, 17.5, true), { size: 17.5, weight: 700 }, 22) + tl(x + 16, y + 30 + wrap(n, 240, 17.5, true).length * 22 + 4, wrap(d, 240, 15.5), { size: 15.5, fill: C.ink }, 20); });
+    items.forEach(([n, d], j) => { const y = 186 + j * 128; b += rrect(x, y, 270, 116, f, e, 2.5, 12) + tl(x + 16, y + 30, wrap(n, 240, 17.5, true), { size: 17.5, weight: 700 }, 22) + tl(x + 16, y + 30 + wrap(n, 240, 17.5, true).length * 22 + 4, wrap(d, 240, 15.5), { size: 15.5, fill: C.ink }, 20); });
   });
-  b += panel(30, 650, 840, 76, C.cream, C.olive) + t(450, 684, 'Strategies depend on each other: a warning only saves lives if people', { size: 17, weight: 700, anchor: 'middle' }) + t(450, 708, 'have a plan, transport and a shelter to go to.', { size: 17, weight: 700, anchor: 'middle' });
-  b += t(450, 760, 'Land use zoning is NOT one of the seven cyclone strategies.', { size: 16, anchor: 'middle', fill: C.rust, weight: 600 });
+  b += panel(30, 580, 840, 76, C.cream, C.olive) + t(450, 614, 'Strategies depend on each other: a warning only saves lives if people', { size: 17, weight: 700, anchor: 'middle' }) + t(450, 638, 'have a plan, transport and a shelter to go to.', { size: 17, weight: 700, anchor: 'middle' });
+  b += t(450, 690, 'Land use zoning is NOT one of the seven cyclone strategies.', { size: 16, anchor: 'middle', fill: C.rust, weight: 600 });
   add('05-before-during-after',
-    svg(900, 785, 'Seven strategies: before, during, after', b),
+    svg(900, 715, 'Seven strategies: before, during, after', b),
     'Before the cyclone: monitoring and warning, stronger building structure and disaster preparation. During: evacuation and shelters, such as Bangladesh’s raised cyclone shelters. After: rebuilding to stronger standards and international aid. The strategies depend on each other, and land use zoning is not one of the cyclone strategies.',
     'Prepare before, protect people during, rebuild and receive aid after.',
     H2.man);

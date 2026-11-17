@@ -15,7 +15,7 @@
   "after": "## Absolute zero and the Kelvin scale (5.16, 5.17)",
   "alt": "Pressure against temperature in °C for a sealed flask: 100 kPa at 0 °C and 136.6 kPa at 100 °C. Extending the straight line back reaches zero pressure at −273 °C. The pressure rises 0.366 kPa per °C, and 100 ÷ 0.366 = 273.",
   "caption": "Extend the pressure–temperature line back to zero pressure: it always meets −273 °C.",
-  "bytes": 85150
+  "bytes": 85366
  },
  {
   "file": "edexcel-igcse-physics-4ph1-ideal-gas-molecules--03-kelvin-and-celsius.webp",
@@ -24,7 +24,7 @@
   "after": "## Absolute zero and the Kelvin scale (5.16, 5.17)",
   "alt": "Two scales side by side: absolute zero is −273 °C and 0 K, water freezes at 0 °C and 273 K, room temperature is about 20 °C or 293 K, and water boils at 100 °C or 373 K.",
   "caption": "Add 273 to change °C to K; the steps are the same size.",
-  "bytes": 53354
+  "bytes": 52682
  },
  {
   "file": "edexcel-igcse-physics-4ph1-ideal-gas-molecules--04-compressing-at-constant-temperature.webp",
@@ -33,7 +33,7 @@
   "after": "## Pressure and volume at constant temperature (5.20, 5.22)",
   "alt": "A bicycle pump with 150 cm³ of air at 100 kPa is pushed in slowly to 50 cm³; the molecules hit the walls more often and the pressure becomes 100 × 150 ÷ 50 = 300 kPa. A graph of p against V is a curve that gets less steep as V increases.",
   "caption": "One third of the volume, three times the pressure: p₁V₁ = p₂V₂.",
-  "bytes": 77710
+  "bytes": 77378
  },
  {
   "file": "edexcel-igcse-physics-4ph1-ideal-gas-molecules--05-heating-at-constant-volume.webp",
@@ -42,7 +42,7 @@
   "after": "## Pressure and temperature at constant volume (5.20, 5.21)",
   "alt": "Two identical boxes of gas; in the hotter one the molecules move faster, so they hit the walls more often and harder and the pressure rises. Worked example: a tyre at 2.4 × 10⁵ Pa and 280 K heated to 310 K reaches 2.7 × 10⁵ Pa.",
   "caption": "Hotter means more frequent and harder collisions; use kelvin in p₁/T₁ = p₂/T₂.",
-  "bytes": 83320
+  "bytes": 83480
  },
  {
   "file": "edexcel-igcse-physics-4ph1-ideal-gas-molecules--06-rising-bubble.webp",
