@@ -300,7 +300,7 @@ F('05-association-cases', 'Freedom of association: the key cases', '', [
     ['Young, James and Webster v UK (1981)', 'Railway workers dismissed for refusing to join a union under a closed shop', 'Compulsion struck at the substance: a **negative** freedom not to join'],
     ['ASLEF v UK (2007)', 'UK law stopped a union expelling a British National Party member', '**Breach**: a union must be free to choose its members'],
     ['National Union of Rail, Maritime and Transport Workers v UK (2014)', 'UK ban on secondary industrial action', '**No breach**: wide margin on economic and social policy'],
-    ['Redfearn v UK (2012)', 'Bus driver dismissed for being a BNP councillor; no unfair dismissal claim', '**UK failed** its positive obligation to protect against dismissal'],
+    ['Redfearn v UK (2012)', 'Bus driver dismissed for being a British National Party councillor; no unfair dismissal claim', '**UK failed** its positive obligation to protect against dismissal'],
     ['United Communist Party of Turkey v Turkey (1998)', 'Political party dissolved', '**Breach**'],
     ['Refah Partisi v Turkey (2003)', 'Political party dissolved', '**Justified**: aims incompatible with democracy'],
   ], { size: 16, cellFill: (r, c) => (c === 0 ? (r < 3 ? C.tealLight : C.cream) : null) }),

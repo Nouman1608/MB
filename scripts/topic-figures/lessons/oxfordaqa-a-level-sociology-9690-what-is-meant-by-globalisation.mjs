@@ -328,7 +328,7 @@ function answerFig(title, q, steps, o = {}) {
 {
   let s = '', y = 110;
   const x0 = 110, x1 = 840, base = y + 330, top = y + 30;
-  s += panel(30, y - 6, 840, 420);
+  s += panel(30, y - 6, 840, 390);
   s += `<line x1="${x0}" y1="${base}" x2="${x1}" y2="${base}" stroke="${C.ink}" stroke-width="2.5"/><line x1="${x0}" y1="${base}" x2="${x0}" y2="${top}" stroke="${C.ink}" stroke-width="2.5"/>`;
   const X = (p) => x0 + (x1 - x0 - 20) * p, Y = (g) => base - 260 * g;
   const pts = [[0.02, 0.35], [0.15, 0.55], [0.35, 0.85], [0.5, 0.9], [0.62, 0.7], [0.75, 0.25], [0.82, 0.08], [0.9, 0.3], [0.96, 0.75], [0.99, 0.95]];
@@ -338,12 +338,12 @@ function answerFig(title, q, steps, o = {}) {
   s += `<circle cx="${X(0.45)}" cy="${Y(0.9)}" r="9" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2"/>`;
   s += para(X(0.45), Y(0.9) - 46, 220, 'Global middle, mostly in Asia: largest gains', { size: 15, weight: 700, anchor: 'middle' }).svg;
   s += `<circle cx="${X(0.82)}" cy="${Y(0.08)}" r="9" fill="${C.rust}" stroke="${C.ink}" stroke-width="2"/>`;
-  s += para(X(0.66), Y(0.08) + 4, 180, 'Lower-middle classes of rich countries: smallest gains', { size: 15, weight: 700, anchor: 'end', fill: C.rust }).svg;
+  s += para(X(0.55), Y(0.3), 200, 'Lower-middle classes of rich countries: smallest gains', { size: 15, weight: 700, anchor: 'middle', fill: C.rust }).svg + `<line x1="${X(0.55) + 104}" y1="${Y(0.22)}" x2="${X(0.82) - 12}" y2="${Y(0.08)}" stroke="${C.rust}" stroke-width="2"/>`;
   s += `<circle cx="${X(0.99)}" cy="${Y(0.95)}" r="9" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2"/>`;
   s += para(X(0.99) - 16, Y(0.95) + 2, 150, 'Richest 1%: large gains', { size: 15, weight: 700, anchor: 'end' }).svg;
   s += label((x0 + x1) / 2, base + 30, 'position in the global income distribution: poorest → richest', { size: 15, anchor: 'middle', fill: C.muted });
   s += `<text x="${x0 - 24}" y="${(base + top) / 2}" font-size="15" fill="${C.muted}" text-anchor="middle" transform="rotate(-90 ${x0 - 24} ${(base + top) / 2})">income gain</text>`;
-  y += 430;
+  y += 402;
   const n = note(y, 'Why it matters', 'Explains why globalisation is popular in some places and resented in others, and why both neo-liberal and negative globalist views find evidence. Losers also include the very poorest and workers facing sudden competition.');
   s += n.svg; y += n.h;
   add('05-elephant-curve', svg(900, y + 26, 'Milanovic’s “elephant curve”', s, 'income gains 1988–2008, schematic shape only (no data plotted)'),

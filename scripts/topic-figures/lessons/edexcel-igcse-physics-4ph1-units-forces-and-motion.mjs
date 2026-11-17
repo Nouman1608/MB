@@ -75,7 +75,7 @@ const chip = (x, y, w, h, s, fill, edge, size = 20) => box(x, y, w, h, fill, edg
     b += box(x, top(k), 80, base - top(k), C.teal, C.tealDark, 4, 2);
     b += t(x + 40, base + 30, k === 0 ? 'u' : `u + ${3 * k}`, { size: 19, weight: 700, anchor: 'middle', fill: C.blue });
     b += t(x + 40, base + 54, k === 0 ? 'start' : `after ${k} s`, { size: 15, anchor: 'middle', fill: C.muted });
-    if (k < 4) b += arrow(x + 86, top(k) - 8, x + 154, top(k + 1) - 8, { color: C.rust, marker: 'ahR', w: 3 }) + t(x + 120, top(k) - 30, '+3 m/s', { size: 15, weight: 700, anchor: 'middle', fill: C.rust });
+    if (k < 4) b += arrow(x + 86, top(k) - 8, x + 154, top(k + 1) - 8, { color: C.rust, marker: 'ahR', w: 3 }) + t(x + 114, top(k) - 44, '+3 m/s', { size: 15, weight: 700, anchor: 'end', fill: C.rust });
   }
   b += t(450, 548, 'Velocity in m/s divided by time in s gives (m/s)/s = m/s².', { size: 17, anchor: 'middle', fill: C.muted });
   add('03-meaning-of-ms2',
@@ -172,8 +172,8 @@ const chip = (x, y, w, h, s, fill, edge, size = 20) => box(x, y, w, h, fill, edg
   b += path(hex + 'Z', { fill: C.rock, w: 3 }) + circ(nx, ny, 5, C.ink, C.ink, 1) + t(nx, ny + 62, 'nut (pivot)', { size: 16, weight: 700, anchor: 'middle' });
   b += `<rect x="${nx + 30}" y="${ny - 16}" width="${L - 30}" height="32" rx="14" fill="#c9d3e3" stroke="${C.ink}" stroke-width="3"/>`;
   const xe = nx + L - 10;
-  b += arrow(xe, ny + 140, xe, ny + 20, { color: C.rust, marker: 'ahR', w: 6 });
-  b += t(nx + L + 6, ny + 120, '40 N', { size: 22, weight: 700, fill: C.rust });
+  b += arrow(xe, ny + 115, xe, ny + 20, { color: C.rust, marker: 'ahR', w: 6 });
+  b += t(nx + L + 6, ny + 95, '40 N', { size: 22, weight: 700, fill: C.rust });
   b += path(`M${xe - 16},${ny + 16} L${xe - 16},${ny + 32} L${xe - 3},${ny + 32}`, { w: 2 });
   b += ln(nx, ny - 60, nx + L - 10, ny - 60, { w: 2 }) + ln(nx, ny - 70, nx, ny - 50, { w: 2 }) + ln(nx + L - 10, ny - 70, nx + L - 10, ny - 50, { w: 2 });
   b += t(nx + (L - 10) / 2, ny - 72, 'perpendicular distance 25 cm = 0.25 m', { size: 17, weight: 700, anchor: 'middle' });

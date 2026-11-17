@@ -1,0 +1,74 @@
+[
+ {
+  "file": "aqa-a-level-law-7162-vicarious-liability--01-nature.webp",
+  "width": 900,
+  "height": 720,
+  "after": "## Nature and purpose",
+  "alt": "An employee commits a tort against a claimant; the employer, though not personally at fault, is liable because of its relationship with the employee, and is usually the party sued, though the wrongdoer remains liable too. Vicarious liability is strict, needs a tort by the wrongdoer, and is secondary. Its purposes are compensation, enterprise risk and deterrence.",
+  "caption": "The employer answers for the employee’s tort without any fault of its own.",
+  "bytes": 109426
+ },
+ {
+  "file": "aqa-a-level-law-7162-vicarious-liability--02-two-stage-test.webp",
+  "width": 900,
+  "height": 391,
+  "after": "## The two-stage test",
+  "alt": "Two stages. Stage 1: is the wrongdoer an employee or in a relationship akin to employment? If not, for example an independent contractor, there is no vicarious liability. Stage 2: was the tort closely connected with what the wrongdoer was authorised to do? If not, for example a frolic or personal vendetta, there is no liability. If both are met, the employer is vicariously liable.",
+  "caption": "Relationship first, then connection: both are needed.",
+  "bytes": 68122
+ },
+ {
+  "file": "aqa-a-level-law-7162-vicarious-liability--03-employment-tests.webp",
+  "width": 900,
+  "height": 558,
+  "after": "## Stage 1: testing employment status",
+  "alt": "Four tests of employment status on a timeline: control (Yewens v Noakes, 1880), integration (Stevenson Jordan, 1952), economic reality (Ready Mixed Concrete, 1968) and whether the worker is in business on their own account (Market Investigations, 1969). Labels do not decide status (Ferguson v John Dawson), and control is only one factor.",
+  "caption": "Courts weigh the whole relationship, not a label or a single test.",
+  "bytes": 112386
+ },
+ {
+  "file": "aqa-a-level-law-7162-vicarious-liability--04-akin-to-employment.webp",
+  "width": 900,
+  "height": 656,
+  "after": "## Stage 1: testing employment status",
+  "alt": "A spectrum from employee through relationships akin to employment to independent contractor. Akin-to-employment cases: E v English Province (a priest), Catholic Child Welfare Society (teaching brothers), Cox v MoJ (a prisoner working in the kitchen) and Armes v Nottinghamshire (foster parents). The limit is Barclays Bank: a doctor running his own practice was an independent contractor.",
+  "caption": "Akin to employment extends liability; independent contractors fall outside it.",
+  "bytes": 135718
+ },
+ {
+  "file": "aqa-a-level-law-7162-vicarious-liability--05-course-of-employment.webp",
+  "width": 900,
+  "height": 492,
+  "after": "## Stage 2: course of employment and close connection",
+  "alt": "Inside the course of employment: Limpus (racing a bus against instructions), Rose v Plenty (a forbidden helper assisting the business) and Century Insurance (careless match while delivering petrol). Outside: Twine v Bean’s Express (an unauthorised lift that did nothing for the business), Beard (a conductor driving the bus) and Hilton v Thomas Burton (a frolic of their own).",
+  "caption": "Prohibited or careless ways of doing the job are inside; doing a different thing is outside.",
+  "bytes": 120746
+ },
+ {
+  "file": "aqa-a-level-law-7162-vicarious-liability--06-close-connection.webp",
+  "width": 900,
+  "height": 461,
+  "after": "## Stage 2: course of employment and close connection",
+  "alt": "For deliberate wrongdoing, liability turns on close connection. Liable: Lister v Hesley Hall (warden’s abuse), Mattis v Pollock (aggressive doorman) and Mohamud v Morrison (kiosk attack). Not liable: Morrison v Various Claimants (data leak as a personal vendetta) and Barry Congregation v BXB (an elder’s rape). Close connection is not needed for ordinary negligence at work.",
+  "caption": "Deliberate torts need a close connection to the job; a personal vendetta breaks it.",
+  "bytes": 120442
+ },
+ {
+  "file": "aqa-a-level-law-7162-vicarious-liability--07-other-areas.webp",
+  "width": 900,
+  "height": 529,
+  "after": "## Other areas of vicarious liability",
+  "alt": "Lent employees: the general employer usually remains liable, as in Mersey Docks v Coggins & Griffith where the board kept control over how the crane driver worked; Viasystems allows two employers to be liable. Independent contractors generally create no vicarious liability (Barclays), though a non-delegable duty is a separate personal duty (Woodland). An employer can in principle recover from the employee (Lister v Romford Ice).",
+  "caption": "Lent employees usually stay with the original employer; contractors are outside the doctrine.",
+  "bytes": 106402
+ },
+ {
+  "file": "aqa-a-level-law-7162-vicarious-liability--08-worked-problem-zed.webp",
+  "width": 900,
+  "height": 493,
+  "after": "## Worked problem",
+  "alt": "Zed’s case. Stage 1: despite the self-employed label (Ferguson), the uniform, app control, integration and lack of other clients suggest employment or a relationship akin to it (Ready Mixed; Cox), unlike Barclays. Stage 2: for Lu, careless driving while delivering is within the course of employment (Century Insurance); for the friend, an unauthorised passenger not helping the business is outside it (Twine; contrast Rose v Plenty).",
+  "caption": "One crash can be inside the course of employment for one victim and outside it for another.",
+  "bytes": 113842
+ }
+]

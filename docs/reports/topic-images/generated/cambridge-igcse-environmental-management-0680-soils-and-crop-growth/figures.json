@@ -1,0 +1,65 @@
+[
+ {
+  "file": "cambridge-igcse-environmental-management-0680-soils-and-crop-growth--01-soil-components.webp",
+  "width": 900,
+  "height": 765,
+  "after": "## What soil is made of",
+  "alt": "Four components of soil: mineral particles from weathered rock; organic content, both living organisms and decomposed organic matter (humus); gases such as oxygen and carbon dioxide; and water in pore spaces. Below, sand, silt and clay particles compared: sand is largest with large pores that drain quickly; silt is medium; clay is smallest with tiny pores that hold water and nutrients.",
+  "caption": "Soil is mineral particles, organic content, gases and water; particle size sets drainage and nutrients.",
+  "bytes": 192682
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-soils-and-crop-growth--02-three-ions.webp",
+  "width": 900,
+  "height": 725,
+  "after": "## Why composition matters for crops",
+  "alt": "Three panels. Nitrate (NO3−) supplies nitrogen for proteins and leaf growth; without it plants are stunted with yellowing leaves. Phosphate (PO4 3−) supplies phosphorus for healthy roots; deficiency gives poor roots and purple-tinged leaves. Potassium (K+) is needed for healthy flowers and fruit; deficiency gives yellow leaf edges and poor fruit.",
+  "caption": "Nitrate for leaves, phosphate for roots, potassium for flowers and fruit.",
+  "bytes": 119616
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-soils-and-crop-growth--03-pore-spaces.webp",
+  "width": 900,
+  "height": 715,
+  "after": "## Why composition matters for crops",
+  "alt": "Two close-ups of soil. In well-drained soil the pore spaces between particles hold air and some water, so roots get oxygen to respire. In waterlogged soil the pores are full of water, oxygen runs out and roots can die. The ideal soil holds enough water but lets the excess drain.",
+  "caption": "Roots need both water and oxygen, so pore spaces must not stay full of water.",
+  "bytes": 138774
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-soils-and-crop-growth--04-wet-dry-seasons.webp",
+  "width": 900,
+  "height": 635,
+  "after": "## Weather, seasons and crop growth",
+  "alt": "Weather is the day-to-day state of the atmosphere in a place; climate is the average over many years. In places with wet and dry seasons, crops are planted at the start of the wet season and harvested as the dry season begins; growing in the dry season needs irrigation, and a late or failed wet season can ruin a harvest.",
+  "caption": "Plant at the start of the wet season; a failed wet season can ruin the harvest.",
+  "bytes": 78694
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-soils-and-crop-growth--05-photosynthesis-graphs.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## Conditions for the optimum rate of photosynthesis and crop growth",
+  "alt": "Two schematic graphs. Photosynthesis rate against light intensity rises steeply then levels off, showing another factor such as temperature or carbon dioxide now limits it. Rate against temperature rises to a peak at the optimum and then falls as enzymes work less well. Length of growing season, optimum weather and daylight hours set the rate and how long it lasts.",
+  "caption": "Light: rises then levels off. Temperature: rises to an optimum, then falls.",
+  "bytes": 97908
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-soils-and-crop-growth--06-drainage-experiment.webp",
+  "width": 900,
+  "height": 635,
+  "after": "## Worked example 1: a drainage experiment",
+  "alt": "Stacked bars for 100 cm³ of water poured through 100 g of soil for 10 minutes. Sandy soil drains 78 and retains 22; loam drains 52 and retains 48; clay drains 15 and retains 85. Loam drains the excess but keeps nearly half, which suits crops.",
+  "caption": "Sand drains most, clay retains most, loam sits in between.",
+  "bytes": 72048
+ },
+ {
+  "file": "cambridge-igcse-environmental-management-0680-soils-and-crop-growth--07-growing-season.webp",
+  "width": 900,
+  "height": 725,
+  "after": "## Worked example 2: finding the growing season",
+  "alt": "Monthly bar charts from March to October with thresholds of 10 °C and 50 mm. April and June to September meet both and are shaded. May is warm enough but has only 40 mm of rain; March and October are too cold. The growing season is five months.",
+  "caption": "Only months that meet both thresholds count: April and June to September, five months.",
+  "bytes": 77660
+ }
+]

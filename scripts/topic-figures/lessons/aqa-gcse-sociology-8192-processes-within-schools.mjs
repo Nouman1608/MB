@@ -257,9 +257,9 @@ const vcenter = (x, yTop, h, w, s, o = {}) => { const size = o.size || 17; const
   const L = headPanel(30, 112, 404, 470, 'Banded cohort', { fill: C.teal, size: 21 });
   const R = headPanel(466, 112, 404, 470, 'Mixed ability cohort', { fill: C.cream, size: 21 });
   s += L.svg + R.svg;
-  s += box(50, 186, 364, 104, { fill: C.mustard, sw: 2 }) + label(232, 214, 'Band 1', { size: 19, weight: 700, anchor: 'middle' }) + para(232, 240, 330, 'More middle-class pupils (of similar ability); expected to be academic; higher-status exams', { size: 15.5, anchor: 'middle' }).svg;
-  s += box(50, 304, 364, 104, { fill: C.tealLight, sw: 2 }) + label(232, 332, 'Band 2', { size: 19, weight: 700, anchor: 'middle' }) + para(232, 358, 330, 'Steered to lower-status courses; most likely to develop anti-school attitudes', { size: 15.5, anchor: 'middle' }).svg;
-  s += `<line x1="232" y1="292" x2="232" y2="302" stroke="${C.ink}" stroke-width="2"/>`;
+  s += box(50, 182, 364, 114, { fill: C.mustard, sw: 2 }) + label(232, 210, 'Band 1', { size: 19, weight: 700, anchor: 'middle' }) + para(232, 238, 330, 'More middle-class pupils (of similar ability); expected to be academic; higher-status exams', { size: 15.5, anchor: 'middle' }).svg;
+  s += box(50, 306, 364, 104, { fill: C.tealLight, sw: 2 }) + label(232, 334, 'Band 2', { size: 19, weight: 700, anchor: 'middle' }) + para(232, 360, 330, 'Steered to lower-status courses; most likely to develop anti-school attitudes', { size: 15.5, anchor: 'middle' }).svg;
+  s += `<line x1="232" y1="296" x2="232" y2="306" stroke="${C.ink}" stroke-width="2"/>`;
   s += box(50, 428, 364, 132, { fill: C.panel, edge: C.rust, sw: 2.5 }) + label(232, 458, 'Polarisation', { size: 19, weight: 700, anchor: 'middle', fill: C.rust }) + para(232, 486, 330, 'A split between pro-school and anti-school pupils (concepts from Lacey, Hightown Grammar)', { size: 15.5, anchor: 'middle' }).svg;
   s += bullets(488, 196, 360, ['Polarisation between pupils became **less marked**', 'But teachers **still held different expectations**', 'These still **favoured middle-class pupils**'], { size: 17, gap: 14 }).svg;
   s += box(486, 428, 364, 132, { fill: C.cream, edge: C.olive, sw: 2 }) + label(668, 458, 'Why it matters', { size: 18, weight: 700, anchor: 'middle' }) + para(668, 486, 330, 'Banding acted as an institutional label: expectations shaped work, exams and attitudes', { size: 15.5, anchor: 'middle' }).svg;
@@ -275,19 +275,19 @@ const vcenter = (x, yTop, h, w, s, o = {}) => { const size = o.size || 17; const
 {
   let s = '';
   s += label(450, 92, 'Learning to Labour (1977): twelve working-class boys at a Midlands school', { size: 17, anchor: 'middle', fill: C.muted });
-  const L = headPanel(30, 112, 404, 300, '“The lads”', { fill: C.mustard, size: 21 });
-  const R = headPanel(466, 112, 404, 300, '“Ear’oles”', { fill: C.tealLight, size: 21 });
+  const L = headPanel(30, 112, 404, 250, '“The lads”', { fill: C.mustard, size: 21 });
+  const R = headPanel(466, 112, 404, 250, '“Ear’oles”', { fill: C.tealLight, size: 21 });
   s += L.svg + R.svg;
   s += bullets(52, 196, 360, ['A **counter school culture** opposed to school values', 'Felt superior to teachers and to conformist pupils', 'Aimed to avoid lessons and “have a laff”', 'Resented the school’s control of their time'], { size: 17, gap: 10 }).svg;
   s += bullets(488, 196, 360, ['Conformist pupils', 'Looked down on by the lads'], { size: 17, gap: 10 }).svg;
-  s += `<circle cx="450" cy="262" r="22" fill="${C.ink}"/>` + t(450, 269, 'vs', { size: 17, weight: 700, fill: '#ffffff', anchor: 'middle' });
+  s += `<circle cx="450" cy="237" r="22" fill="${C.ink}"/>` + t(450, 244, 'vs', { size: 17, weight: 700, fill: '#ffffff', anchor: 'middle' });
   const items = [
     { head: 'Rejecting school', body: 'An identity the lads actively chose', fill: C.cream },
     { head: 'Manual work', body: 'Suited to male-dominated, unskilled or semi-skilled jobs', fill: C.teal },
   ];
-  const c = hchain(434, items, { size: 17, ag: 60 });
-  s += c.svg + label(450, 434 + c.h + 26, 'Such work was relatively easy to get in the 1970s', { size: 16, anchor: 'middle', fill: C.muted, italic: true });
-  const y = 434 + c.h + 46;
+  const c = hchain(390, items, { size: 17, ag: 60 });
+  s += c.svg + label(450, 390 + c.h + 26, 'Such work was relatively easy to get in the 1970s', { size: 16, anchor: 'middle', fill: C.muted, italic: true });
+  const y = 390 + c.h + 46;
   const r = cardRow(y, [
     { head: 'Ball: the institution shapes pupils', fill: C.panel, body: 'Banding labels pupils and their attitudes follow' },
     { head: 'Willis: pupils are not passive', fill: C.panel, body: 'The lads chose to resist; they were not simply labelled into failure' },

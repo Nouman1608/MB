@@ -24,7 +24,7 @@
   "after": "## How the derived units are built",
   "alt": "Bars show a velocity u, then u + 3, u + 6, u + 9 and u + 12 m/s after 1, 2, 3 and 4 seconds: an acceleration of 3 m/s² adds 3 m/s to the velocity in each second.",
   "caption": "m/s² means the velocity changes by that many m/s every second.",
-  "bytes": 56324
+  "bytes": 56934
  },
  {
   "file": "edexcel-igcse-physics-4ph1-units-forces-and-motion--04-conversions.webp",
@@ -60,6 +60,6 @@
   "after": "## Worked example 2: moments with centimetres",
   "alt": "A spanner 25 cm long with a 40 N force at right angles to its end. Converting 25 cm to 0.25 m, the moment about the nut is 40 × 0.25 = 10 Nm; using 25 directly gives 1000, a value in newton centimetres.",
   "caption": "Convert centimetres to metres so the moment comes out in Nm.",
-  "bytes": 51422
+  "bytes": 51560
  }
 ]
