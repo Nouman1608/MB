@@ -47,6 +47,8 @@ const steps = (x, y, w, rows, { fill = C.cream, edge = C.olive, lh = 34, size = 
     return t(x + pad + (o.dx || 0), y + pad + size * 0.9 + i * lh, s, { size, ...o });
   }).join('');
 // ---- end helpers ----
+// bullet list: lines starting with a non-breaking space are continuation lines, indented
+const blist = (x, y, lines, opts = {}, lh = 24) => lines.map((s, i) => (s.startsWith(' ') ? t(x + 14, y + i * lh, s.trim(), opts) : t(x, y + i * lh, s, opts))).join('');
 
 const chip = (x, y, w, a, b, fill, edge) => rect(x, y, w, 54, { fill, stroke: edge, sw: 1.8, rx: 8 }) + t(x + w / 2, y + (b ? 23 : 33), a, { size: 15, weight: 700, anchor: 'middle' }) + (b ? t(x + w / 2, y + 44, b, { size: 15, anchor: 'middle', fill: C.muted }) : '');
 const way = (x, y, w, s) => { const L = s.split('|'); return arrow(x + 4, y + 27, x + w - 4, y + 27, { w: 2.5, color: C.olive, marker: 'ahO' }) + L.map((q, k) => t(x + w / 2, y + 18 - (L.length - 1 - k) * 17, q, { size: 15, anchor: 'middle', fill: C.olive, weight: 700 })).join(''); };

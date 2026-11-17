@@ -47,6 +47,8 @@ const steps = (x, y, w, rows, { fill = C.cream, edge = C.olive, lh = 34, size = 
     return t(x + pad + (o.dx || 0), y + pad + size * 0.9 + i * lh, s, { size, ...o });
   }).join('');
 // ---- end helpers ----
+// bullet list: lines starting with a non-breaking space are continuation lines, indented
+const blist = (x, y, lines, opts = {}, lh = 24) => lines.map((s, i) => (s.startsWith(' ') ? t(x + 14, y + i * lh, s.trim(), opts) : t(x, y + i * lh, s, opts))).join('');
 
 const chip = (x, y, w, s, fill = C.panel, edge = C.ink, size = 15, col = C.ink) => rect(x, y, w, 38, { fill, stroke: edge, sw: 2, rx: 8 }) + t(x + w / 2, y + 25, s, { size, anchor: 'middle', weight: 600, fill: col });
 const fan = (cx, cy, r = 34) => circ(cx, cy, r, { fill: C.panel }) + [0, 1, 2, 3, 4].map((i) => `<ellipse cx="${cx}" cy="${cy - r * 0.48}" rx="${r * 0.2}" ry="${r * 0.46}" fill="${C.teal}" stroke="${C.tealDark}" stroke-width="2" transform="rotate(${i * 72} ${cx} ${cy})"/>`).join('') + circ(cx, cy, 5, { fill: C.ink, sw: 0 });

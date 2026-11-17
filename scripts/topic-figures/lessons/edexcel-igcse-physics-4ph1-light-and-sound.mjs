@@ -72,10 +72,10 @@ const normal = (x1, y1, x2, y2) => ln(x1, y1, x2, y2, { c: C.ink, w: 2, dash: '7
   const Q = [665, 300];
   const r1 = Math.asin(Math.sin(40 * D) / 1.5) / D;
   const [ax, ay] = at(Q[0], Q[1], -90 - 40, 150), [bx, by] = at(Q[0], Q[1], 90 - r1, 170);
-  const refr = rect(480, 300, 370, 150, { fill: GL, stroke: 'none', sw: 0 }) + ln(480, 300, 850, 300, { w: 2.5 }) + t(840, 290, 'air', { size: 16, anchor: 'end', fill: C.muted }) + t(840, 440, 'glass', { size: 16, anchor: 'end', fill: C.tealDark, weight: 600 }) +
-    normal(Q[0], 170, Q[0], 450) + ray(ax, ay, Q[0], Q[1]) + ray(Q[0], Q[1], bx, by) + ln(Q[0], Q[1], ...at(Q[0], Q[1], 50, 120), { c: C.muted, w: 1.5, dash: '4 5' }) +
+  const refr = rect(480, 300, 370, 150, { fill: GL, stroke: 'none', sw: 0 }) + ln(480, 300, 850, 300, { w: 2.5 }) + t(840, 290, 'air', { size: 16, anchor: 'end', fill: C.muted }) + t(495, 440, 'glass', { size: 16, fill: C.tealDark, weight: 600 }) +
+    normal(Q[0], 170, Q[0], 450) + ray(ax, ay, Q[0], Q[1]) + ray(Q[0], Q[1], bx, by) + ln(Q[0], Q[1], ...at(Q[0], Q[1], 50, 90), { c: C.muted, w: 1.5, dash: '4 5' }) +
     arc(Q[0], Q[1], 55, -130, -90) + arc(Q[0], Q[1], 60, 90 - r1, 90) + t(Q[0] - 34, Q[1] - 64, 'i', { size: 18, weight: 700, anchor: 'middle' }) + t(Q[0] + 18, Q[1] + 82, 'r', { size: 18, weight: 700, anchor: 'middle' }) +
-    t(Q[0] + 110, Q[1] + 60, 'slows: bends', { size: 15, fill: C.tealDark, weight: 600 }) + t(Q[0] + 110, Q[1] + 78, 'towards normal', { size: 15, fill: C.tealDark, weight: 600 }) +
+    t(845, Q[1] + 100, 'slows: bends', { size: 15, fill: C.tealDark, weight: 600, anchor: 'end' }) + t(845, Q[1] + 118, 'towards normal', { size: 15, fill: C.tealDark, weight: 600, anchor: 'end' }) +
     t(665, 480, 'out of glass: speeds up, bends away', { size: 16, weight: 700, anchor: 'middle', fill: C.olive });
   const body = L + refl + R + refr + panel(30, 525, 840, 62, C.cream, C.olive) + t(450, 562, 'Draw the normal at 90° to the surface; measure every angle from the normal, not the surface.', { size: 16, weight: 600, anchor: 'middle' });
   add('01-reflection-and-refraction-rules', svg(900, 605, 'Ray diagrams: angles from the normal', body),
@@ -90,27 +90,27 @@ const normal = (x1, y1, x2, y2) => ln(x1, y1, x2, y2, { c: C.ink, w: 2, dash: '7
   // rectangular block
   const bx = 70, by = 210, bw = 200, bh = 150, i1 = 50, r1 = Math.asin(Math.sin(i1 * D) / n) / D;
   const P1 = [130, by], P2 = [130 + bh * Math.tan(r1 * D), by + bh];
-  const s1 = at(P1[0], P1[1], -90 - i1, 100), e1 = at(P2[0], P2[1], 90 - i1, 110);
+  const s1 = at(P1[0], P1[1], -90 - i1, 70), e1 = at(P2[0], P2[1], 90 - i1, 80);
   const rectB = panel(30, 110, 270, 420) + t(165, 146, 'Rectangular block', { size: 18, weight: 700, anchor: 'middle' }) +
     rect(bx, by, bw, bh, { fill: GL, stroke: C.tealDark, sw: 2.5 }) + normal(P1[0], by - 50, P1[0], by + 50) + normal(P2[0], P2[1] - 50, P2[0], P2[1] + 50) +
     ray(s1[0], s1[1], P1[0], P1[1]) + ray(P1[0], P1[1], P2[0], P2[1]) + ray(P2[0], P2[1], e1[0], e1[1]) +
-    ln(P1[0], P1[1], ...at(P1[0], P1[1], 90 - i1, 230), { c: C.muted, w: 1.5, dash: '4 5' }) +
+    ln(P1[0], P1[1], ...at(P1[0], P1[1], 90 - i1, 195), { c: C.muted, w: 1.5, dash: '4 5' }) +
     para(48, 440, 'Emerging ray is parallel to the incident ray, shifted sideways.', 230, { size: 15 }, 20);
   // semicircular block: flat face on top, centre O; ray enters along radius from below-left
   const O = [450, 300], Rr = 100, ii = 30, rr = Math.asin(n * Math.sin(ii * D)) / D;
   const semi = path(`M${O[0] - Rr},${O[1]} A${Rr},${Rr} 0 0 0 ${O[0] + Rr},${O[1]} Z`, { fill: GL, stroke: C.tealDark, w: 2.5 });
-  const sIn = at(O[0], O[1], 90 + ii, Rr + 70), sOut = at(O[0], O[1], -90 + rr, 120);
+  const sIn = at(O[0], O[1], 90 + ii, Rr + 25), sOut = at(O[0], O[1], -90 + rr, 120);
   const semiB = panel(315, 110, 270, 420) + t(450, 146, 'Semi-circular block', { size: 18, weight: 700, anchor: 'middle' }) + semi + normal(O[0], 180, O[0], 410) +
     ray(sIn[0], sIn[1], O[0], O[1]) + ray(O[0], O[1], sOut[0], sOut[1]) + circ(O[0], O[1], 4, { fill: C.ink, sw: 0 }) +
-    t(O[0] - 74, O[1] + 128, 'no bend: enters', { size: 15, fill: C.muted, anchor: 'middle' }) + t(O[0] - 74, O[1] + 146, 'along a radius', { size: 15, fill: C.muted, anchor: 'middle' }) +
+    t(O[0] + 72, O[1] + 112, 'no bend: enters', { size: 15, fill: C.muted, anchor: 'middle' }) + t(O[0] + 72, O[1] + 130, 'along a radius', { size: 15, fill: C.muted, anchor: 'middle' }) +
     para(333, 455, 'All the refraction is at the flat face; at the critical angle the ray disappears into TIR.', 240, { size: 15 }, 20);
   // prism with dispersion
   const A = [735, 190], B2 = [640, 370], C2 = [830, 370];
   const prismB = panel(600, 110, 270, 420) + t(735, 146, 'Triangular prism', { size: 18, weight: 700, anchor: 'middle' }) +
     path(`M${A[0]},${A[1]} L${B2[0]},${B2[1]} L${C2[0]},${C2[1]} Z`, { fill: GL, stroke: C.tealDark, w: 2.5 }) +
-    ray(612, 300, 690, 276, C.ink, 4) + ln(690, 276, 770, 300, { c: '#9aa5a5', w: 6 }) +
-    [[C.rust, 330], [C.mustard, 348], [C.grass, 366], [C.blue, 386]].map(([col, y], k) => ln(770, 300, 860, y, { c: col, w: 3.5 })).join('') +
-    t(616, 290, 'white', { size: 15, fill: C.muted }) + t(855, 322, 'red', { size: 15, anchor: 'end', fill: C.rust, weight: 600 }) + t(845, 412, 'violet', { size: 15, anchor: 'end', fill: C.blue, weight: 600 }) +
+    ray(612, 300, 690, 276, C.ink, 4) +
+    [[C.rust, 294, 314], [C.mustard, 299, 334], [C.grass, 304, 354], [C.blue, 309, 374]].map(([col, yy, ye]) => { const xx = 735 + (95 * (yy - 190)) / 180; return ln(690, 276, xx, yy, { c: col, w: 2.5 }) + ln(xx, yy, 860, ye, { c: col, w: 3.5 }); }).join('') +
+    t(616, 322, 'white', { size: 15, fill: C.muted }) + t(858, 302, 'red', { size: 15, anchor: 'end', fill: C.rust, weight: 600 }) + t(845, 412, 'violet', { size: 15, anchor: 'end', fill: C.blue, weight: 600 }) +
     para(618, 440, 'Two non-parallel faces: deviated towards the base. White light spreads into colours.', 240, { size: 15 }, 20);
   add('02-three-block-shapes', svg(900, 550, 'The refraction practical: three block shapes', rectB + semiB + prismB),
     'Rectangular block: the ray bends towards the normal entering and away leaving, so it emerges parallel to the incident ray but shifted. Semi-circular block: the ray enters the curved side along a radius without bending and refracts only at the flat face. Triangular prism: the ray is deviated towards the base and white light spreads into colours.',
@@ -150,7 +150,7 @@ const normal = (x1, y1, x2, y2) => ln(x1, y1, x2, y2, { c: C.ink, w: 2, dash: '7
       path(`M${O[0] - Rr},${O[1]} A${Rr},${Rr} 0 0 0 ${O[0] + Rr},${O[1]} Z`, { fill: GL, stroke: C.tealDark, w: 2.5 }) + normal(O[0], 165, O[0], 395) + t(O[0] - Rr + 12, O[1] + 40, 'acrylic', { size: 15, fill: C.tealDark, weight: 600 });
     const sIn = at(O[0], O[1], 90 + ii, Rr);
     s += ray(sIn[0], sIn[1], O[0], O[1]) + arc(O[0], O[1], 50, 90, 90 + ii) + t(O[0] - 24, O[1] + 72, `${ii}°`, { size: 16, weight: 700, anchor: 'middle' });
-    if (ii < c) { const rr = Math.asin(n * Math.sin(ii * D)) / D; const e = at(O[0], O[1], -90 + rr, 160); s += ray(O[0], O[1], e[0], e[1]) + ln(O[0], O[1], ...at(O[0], O[1], 90 - ii, Rr - 4), { c: C.olive, w: 1.5, dash: '5 5' }) + t(x + 390, 205, 'refracts out,', { size: 16, anchor: 'end', weight: 700, fill: C.olive }) + t(x + 390, 225, 'bends away', { size: 16, anchor: 'end', weight: 700, fill: C.olive }); }
+    if (ii < c) { const rr = Math.asin(n * Math.sin(ii * D)) / D; const e = at(O[0], O[1], -90 + rr, 160); s += ray(O[0], O[1], e[0], e[1]) + ln(O[0], O[1], ...at(O[0], O[1], 90 - ii, Rr - 4), { c: C.olive, w: 1.5, dash: '5 5' }) + t(x + 30, 210, 'refracts out,', { size: 16, weight: 700, fill: C.olive }) + t(x + 30, 230, 'bends away', { size: 16, weight: 700, fill: C.olive }); }
     else { const e = at(O[0], O[1], 90 - ii, Rr); s += ray(O[0], O[1], e[0], e[1], C.rust) + t(x + 390, 205, 'total internal', { size: 16, anchor: 'end', weight: 700, fill: C.rust }) + t(x + 390, 225, 'reflection', { size: 16, anchor: 'end', weight: 700, fill: C.rust }); }
     return s + t(x + 205, 425, ii < c ? '40° is less than 42.2°' : '50° is greater than 42.2°', { size: 16, weight: 600, anchor: 'middle' });
   };
@@ -173,7 +173,7 @@ const normal = (x1, y1, x2, y2) => ln(x1, y1, x2, y2, { c: C.ink, w: 2, dash: '7
   const zig = pts.map((p, k) => (k ? ray(pts[k - 1][0], pts[k - 1][1], p[0], p[1], C.olive, 3, k % 2 === 0) : '')).join('');
   const body = panel(30, 110, 840, 330) + rect(40, y1, 820, y2 - y1, { fill: GL, stroke: C.tealDark, sw: 3, rx: 8 }) + zig +
     normal(310, y1 - 40, 310, y1 + 50) + arc(310, y1, 40, 90 - 45, 90, C.rust) + arc(310, y1, 46, 90, 135, C.rust) +
-    t(330, 165, 'angle greater than the critical angle:', { size: 16, weight: 700, fill: C.rust }) + t(330, 183, '', {}) +
+    t(330, 165, 'angle greater than the critical angle', { size: 16, weight: 700, fill: C.rust }) + t(330, 183, '', {}) +
     t(450, 335, 'total internal reflection at every bounce, so the light stays inside', { size: 16, weight: 600, anchor: 'middle' }) +
     t(450, 365, 'thin strand of glass', { size: 15, anchor: 'middle', fill: C.tealDark }) +
     t(450, 410, 'Pulses of light carry information along the fibre, even round gentle bends, with very little escaping.', { size: 15, anchor: 'middle', fill: C.muted }) +
@@ -227,8 +227,8 @@ const normal = (x1, y1, x2, y2) => ln(x1, y1, x2, y2, { c: C.ink, w: 2, dash: '7
       ['T = 5.0 × 0.20 ms = 1.0 ms = 0.0010 s'],
       ['f = 1 ÷ T = 1 ÷ 0.0010 = 1000 Hz', { weight: 700, fill: C.tealDark }],
     ], { lh: 36, size: 19 }) +
-    t(450, 650, 'The trace is a graph of voltage against time, not a picture of the (longitudinal) sound wave.', { size: 15, anchor: 'middle', fill: C.muted });
-  add('07-oscilloscope-frequency', svg(900, 670, 'Finding a frequency on an oscilloscope', body),
+    t(450, 672, 'The trace is a graph of voltage against time, not a picture of the (longitudinal) sound wave.', { size: 15, anchor: 'middle', fill: C.muted });
+  add('07-oscilloscope-frequency', svg(900, 695, 'Finding a frequency on an oscilloscope', body),
     'An oscilloscope screen of 10 divisions showing a trace in which one complete wave spans 5.0 divisions. With a timebase of 0.20 ms per division the period is 1.0 ms, so the frequency is 1 ÷ 0.0010 = 1000 Hz.',
     'Divisions per wave × timebase = period; frequency = 1 ÷ period.',
     '## Sound waves (3.23 to 3.29)');

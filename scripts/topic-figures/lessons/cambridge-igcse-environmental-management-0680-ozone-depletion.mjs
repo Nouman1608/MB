@@ -223,10 +223,10 @@ const uv = (x1, y1, x2, y2, w = 4) => arrow(x1, y1, x2, y2, { color: C.olive, w,
     b += t(x + 97, 212, h, { size: 19, weight: 700, anchor: 'middle' }) + tl(x + 97, 244, wrap(d, 165, 16), { size: 16, anchor: 'middle', fill: C.muted }, 21);
     if (i < 3) b += arrow(x + 197, 220, x + 210, 220, { w: 3 });
   });
-  b += panel(30, 340, 410, 120, '#eef5f4', C.tealDark) + t(54, 376, 'Benefit', { size: 18, weight: 700, fill: C.tealDark }) + tl(54, 406, ['stops CFCs already “banked” in old', 'equipment leaking to the air'], { size: 16.5 }, 22);
-  b += panel(460, 340, 410, 120, '#fbf1ea', C.rust) + t(484, 376, 'Limitations', { size: 18, weight: 700, fill: C.rust }) + tl(484, 406, ['needs collection systems, specialist', 'plants and funding; illegal dumping', 'still happens in some places'], { size: 16.5 }, 22);
+  b += panel(30, 340, 410, 132, '#eef5f4', C.tealDark) + t(54, 376, 'Benefit', { size: 18, weight: 700, fill: C.tealDark }) + tl(54, 406, ['stops CFCs already “banked” in old', 'equipment leaking to the air'], { size: 16.5 }, 22);
+  b += panel(460, 340, 410, 132, '#fbf1ea', C.rust) + t(484, 376, 'Limitations', { size: 18, weight: 700, fill: C.rust }) + tl(484, 406, ['needs collection systems, specialist', 'plants and funding; illegal dumping', 'still happens in some places'], { size: 16.5 }, 22);
   add('05-safe-disposal',
-    svg(900, 485, 'Safe disposal of CFCs', b),
+    svg(900, 497, 'Safe disposal of CFCs', b),
     'Four steps: collect old fridges, freezers and air-conditioners; remove the refrigerant and CFC-containing foam; scrap the metal; destroy the CFCs at high temperature or store them securely. This stops banked CFCs leaking, but needs collection systems, specialist plants and funding, and illegal dumping still happens.',
     'Safe disposal removes CFCs from old appliances before they can leak.',
     H2.man);

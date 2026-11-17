@@ -47,6 +47,8 @@ const steps = (x, y, w, rows, { fill = C.cream, edge = C.olive, lh = 34, size = 
     return t(x + pad + (o.dx || 0), y + pad + size * 0.9 + i * lh, s, { size, ...o });
   }).join('');
 // ---- end helpers ----
+// bullet list: lines starting with a non-breaking space are continuation lines, indented
+const blist = (x, y, lines, opts = {}, lh = 24) => lines.map((s, i) => (s.startsWith(' ') ? t(x + 14, y + i * lh, s.trim(), opts) : t(x, y + i * lh, s, opts))).join('');
 
 const pos = (x, y, r = 11) => circ(x, y, r, { fill: C.cream, stroke: C.rust, sw: 2 }) + ln(x - r * 0.55, y, x + r * 0.55, y, { c: C.rust, w: 2.5 }) + ln(x, y - r * 0.55, x, y + r * 0.55, { c: C.rust, w: 2.5 });
 const neg = (x, y, r = 11) => circ(x, y, r, { fill: C.tealLight, stroke: C.tealDark, sw: 2 }) + ln(x - r * 0.55, y, x + r * 0.55, y, { c: C.tealDark, w: 2.5 });

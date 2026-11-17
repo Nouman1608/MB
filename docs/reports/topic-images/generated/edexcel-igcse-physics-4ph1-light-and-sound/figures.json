@@ -6,7 +6,7 @@
   "after": "## Drawing ray diagrams that earn the marks",
   "alt": "Left: a ray reflects from a mirror with the angle of incidence equal to the angle of reflection, both measured from the dashed normal. Right: a ray passing from air into glass slows and bends towards the normal, so the angle of refraction is smaller than the angle of incidence.",
   "caption": "Measure all angles from the normal; light entering glass bends towards it.",
-  "bytes": 73638
+  "bytes": 73344
  },
  {
   "file": "edexcel-igcse-physics-4ph1-light-and-sound--02-three-block-shapes.webp",
@@ -15,7 +15,7 @@
   "after": "## The refraction practical with three block shapes (3.17)",
   "alt": "Rectangular block: the ray bends towards the normal entering and away leaving, so it emerges parallel to the incident ray but shifted. Semi-circular block: the ray enters the curved side along a radius without bending and refracts only at the flat face. Triangular prism: the ray is deviated towards the base and white light spreads into colours.",
   "caption": "Each block shape shows something different: a parallel shift, one clean refraction, or dispersion.",
-  "bytes": 86878
+  "bytes": 87210
  },
  {
   "file": "edexcel-igcse-physics-4ph1-light-and-sound--03-sin-i-against-sin-r.webp",
@@ -33,7 +33,7 @@
   "after": "## Total internal reflection and the critical angle (3.20 to 3.22)",
   "alt": "Acrylic with refractive index 1.49 has a critical angle of 42.2°. A ray inside a semicircular acrylic block meeting the flat surface at 40° refracts out into the air, bending away from the normal; a ray at 50° is totally internally reflected.",
   "caption": "Below the critical angle light escapes; above it, all of it reflects.",
-  "bytes": 95482
+  "bytes": 95968
  },
  {
   "file": "edexcel-igcse-physics-4ph1-light-and-sound--05-optical-fibre.webp",
@@ -42,7 +42,7 @@
   "after": "## Total internal reflection and the critical angle (3.20 to 3.22)",
   "alt": "A ray zig-zags along a glass fibre, meeting the side wall each time at an angle greater than the critical angle, so it is totally internally reflected again and again and stays inside.",
   "caption": "Every bounce is total internal reflection, so the light follows the fibre.",
-  "bytes": 90592
+  "bytes": 90460
  },
  {
   "file": "edexcel-igcse-physics-4ph1-light-and-sound--06-speed-of-sound-echo.webp",
@@ -56,10 +56,10 @@
  {
   "file": "edexcel-igcse-physics-4ph1-light-and-sound--07-oscilloscope-frequency.webp",
   "width": 900,
-  "height": 670,
+  "height": 695,
   "after": "## Sound waves (3.23 to 3.29)",
   "alt": "An oscilloscope screen of 10 divisions showing a trace in which one complete wave spans 5.0 divisions. With a timebase of 0.20 ms per division the period is 1.0 ms, so the frequency is 1 ÷ 0.0010 = 1000 Hz.",
   "caption": "Divisions per wave × timebase = period; frequency = 1 ÷ period.",
-  "bytes": 73018
+  "bytes": 69982
  }
 ]

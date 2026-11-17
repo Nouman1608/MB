@@ -47,6 +47,8 @@ const steps = (x, y, w, rows, { fill = C.cream, edge = C.olive, lh = 34, size = 
     return t(x + pad + (o.dx || 0), y + pad + size * 0.9 + i * lh, s, { size, ...o });
   }).join('');
 // ---- end helpers ----
+// bullet list: lines starting with a non-breaking space are continuation lines, indented
+const blist = (x, y, lines, opts = {}, lh = 24) => lines.map((s, i) => (s.startsWith(' ') ? t(x + 14, y + i * lh, s.trim(), opts) : t(x, y + i * lh, s, opts))).join('');
 
 const grad = `<defs><linearGradient id="spec" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="${C.blue}"/><stop offset="0.38" stop-color="${C.teal}"/><stop offset="0.68" stop-color="${C.mustard}"/><stop offset="1" stop-color="${C.rust}"/></linearGradient></defs>`;
 const galaxy = (cx, cy, s = 1) => `<g transform="translate(${cx} ${cy}) scale(${s})"><ellipse rx="34" ry="13" fill="${C.cream}" stroke="${C.olive}" stroke-width="2.5" transform="rotate(-20)"/><ellipse rx="12" ry="7" fill="${C.mustard}" transform="rotate(-20)"/></g>`;

@@ -174,22 +174,22 @@ const part = (cx, cy) => circ(cx, cy, 15, '#ffffff', C.olive, 3) + `<path d="M${
   const steps = [['1', 'Capture', 'take in the last wild individuals'], ['2', 'Breed', 'in zoos or breeding centres; keep records to avoid inbreeding'], ['3', 'Release', 'offspring go back into the wild']];
   steps.forEach(([n, h, d], i) => {
     const x = 30 + i * 290;
-    b += panel(x, 120, 260, 135, i === 1 ? C.cream : C.panel, i === 1 ? C.olive : C.panelEdge) + badge(x + 32, 155, 20, n, C.mustard) + t(x + 64, 163, h, { size: 22, weight: 700 });
-    b += tl(x + 22, 205, wrap(d, 220, 16.5), { size: 16.5, fill: C.muted }, 22);
+    b += panel(x, 120, 260, 150, i === 1 ? C.cream : C.panel, i === 1 ? C.olive : C.panelEdge) + badge(x + 32, 155, 20, n, C.mustard) + t(x + 64, 163, h, { size: 22, weight: 700 });
+    b += tl(x + 22, 200, wrap(d, 220, 16.5), { size: 16.5, fill: C.muted }, 22);
     if (i < 2) b += arrow(x + 263, 188, x + 286, 188, { w: 4 });
   });
-  b += panel(30, 275, 840, 90, '#eef5f4', C.tealDark);
-  b += t(60, 311, 'Release only works if a safe habitat still exists.', { size: 19, weight: 700, fill: C.tealDark });
-  b += t(60, 341, 'So captive breeding is not a full solution on its own.', { size: 17 });
-  b += panel(30, 385, 840, 110, C.panel, C.panelEdge);
-  b += t(60, 421, 'Example: the California condor', { size: 19, weight: 700 });
-  b += t(60, 451, 'The last wild birds were captured in the 1980s and bred in captivity;', { size: 17 });
-  b += t(60, 477, 'their offspring were released.', { size: 17 });
-  b += t(30, 535, 'Benefit', { size: 19, weight: 700, fill: C.tealDark }) + t(460, 535, 'Limitations', { size: 19, weight: 700, fill: C.rust });
-  b += bullets(30, 565, ['rescues species with very few individuals left', 'zoos raise public awareness and funds'], 400, { size: 16.5 }).svg;
-  b += bullets(460, 565, ['expensive', 'small captive populations have limited genetic variety', 'captive-bred animals may struggle in the wild'], 410, { size: 16.5 }).svg;
+  b += panel(30, 290, 840, 90, '#eef5f4', C.tealDark);
+  b += t(60, 326, 'Release only works if a safe habitat still exists.', { size: 19, weight: 700, fill: C.tealDark });
+  b += t(60, 356, 'So captive breeding is not a full solution on its own.', { size: 17 });
+  b += panel(30, 400, 840, 110, C.panel, C.panelEdge);
+  b += t(60, 436, 'Example: the California condor', { size: 19, weight: 700 });
+  b += t(60, 466, 'The last wild birds were captured in the 1980s and bred in captivity;', { size: 17 });
+  b += t(60, 492, 'their offspring were released.', { size: 17 });
+  b += t(30, 550, 'Benefit', { size: 19, weight: 700, fill: C.tealDark }) + t(460, 550, 'Limitations', { size: 19, weight: 700, fill: C.rust });
+  b += bullets(30, 580, ['rescues species with very few individuals left', 'zoos raise public awareness and funds'], 400, { size: 16.5 }).svg;
+  b += bullets(460, 580, ['expensive', 'small captive populations have limited genetic variety', 'captive-bred animals may struggle in the wild'], 410, { size: 16.5 }).svg;
   add('03-captive-breeding',
-    svg(900, 690, 'Zoos and captive breeding', b),
+    svg(900, 705, 'Zoos and captive breeding', b),
     'Three steps: capture the last wild individuals, breed them in zoos or breeding centres keeping records to avoid inbreeding, and release offspring. The California condor was saved this way after the last wild birds were captured in the 1980s. Release only works if safe habitat remains; the method is expensive and captive populations have limited genetic variety.',
     'Captive breeding can rescue a species, but only if safe habitat survives for release.',
     H2.ten);

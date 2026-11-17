@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-igcse-physics-0625-the-earth-and-the-solar-system-cambridge-igcse-physics--01-seasons-and-cycles.webp",
+  "width": 900,
+  "height": 630,
+  "after": "## Three motions, three cycles",
+  "alt": "The Earth at two opposite points of its orbit with its axis tilted the same way in space. When the north is tilted towards the Sun it is northern summer; half an orbit later it is tilted away: northern winter. Below: rotation in about 24 hours gives day and night, the orbit in about 365 days gives the seasons, and the Moon's orbit in about one month gives its phases.",
+  "caption": "The tilt, not the distance from the Sun, causes the seasons.",
+  "bytes": 81500
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-the-earth-and-the-solar-system-cambridge-igcse-physics--02-phases-of-the-moon.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## Three motions, three cycles",
+  "alt": "Sunlight from the left lights one half of the Moon at every point of its orbit round the Earth. At new Moon, between the Earth and the Sun, none of the lit half is seen; a quarter of the way round, half the disc; at full Moon, with the Earth between, the whole disc; then half again as it decreases.",
+  "caption": "Phases come from how much of the always-lit half faces the Earth.",
+  "bytes": 63274
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-the-earth-and-the-solar-system-cambridge-igcse-physics--03-accretion-model.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## The accretion model",
+  "alt": "An interstellar cloud of gas and dust containing many elements collapses under gravity, rotates and flattens into an accretion disc around the young Sun. Near the Sun it is hot, so only rock and metal collect into small rocky planets; further out it is cold, so large cores gather gas and become gas giants.",
+  "caption": "Gravity, many elements and a rotating disc, hot near the Sun and cold far away.",
+  "bytes": 103016
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-the-earth-and-the-solar-system-cambridge-igcse-physics--04-moon-orbital-speed.webp",
+  "width": 900,
+  "height": 600,
+  "after": "## Average orbital speed (Extended only)",
+  "alt": "The Moon orbits the Earth at an average radius of 3.8 × 10⁸ m in 27.3 days, which is 2.36 × 10⁶ s. Its average orbital speed is v = 2πr/T = 1.0 × 10³ m/s, about 1 km/s.",
+  "caption": "Distance round the orbit is 2πr; divide by the period in seconds.",
+  "bytes": 64884
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-the-earth-and-the-solar-system-cambridge-igcse-physics--05-jupiter-light-and-speed.webp",
+  "width": 900,
+  "height": 654,
+  "after": "## Gravity in the Solar System",
+  "alt": "Jupiter orbits at 7.8 × 10¹¹ m from the Sun. Sunlight takes 7.8 × 10¹¹ / 3.0 × 10⁸ = 2600 s, about 43 minutes, to reach it. With a period of 12 years (3.78 × 10⁸ s) its orbital speed is 1.3 × 10⁴ m/s, slower than the Earth's 3 × 10⁴ m/s.",
+  "caption": "Further from the Sun: weaker field, lower orbital speed, longer period.",
+  "bytes": 82840
+ }
+]

@@ -260,7 +260,7 @@ const tanker = (x, y, s = 1) => `<path d="M${x},${y - 22 * s} L${x + 200 * s},${
     m.forEach((on, j) => (b += mk(cx[j], y + 42, on)));
   });
   b += t(450, 655, 'Limitations noted in the lesson', { size: 15.5, anchor: 'middle', fill: C.muted });
-  const notes = [['high waves, strong currents, rough water; burning needs calm', C.rust], ['detergents toxic; dispersed oil reaches fish and sea-bed life', C.rust], ['used sorbents are oily waste; burning makes smoke and CO2', C.rust], ['equipment and training cost; skimmers slow', C.rust]];
+  const notes = [['high waves, strong currents, rough water; burning needs calm', C.rust], ['detergents toxic; dispersed oil reaches fish and sea-bed life', C.rust], ['used sorbents are oily waste; burning makes smoke and carbon dioxide', C.rust], ['equipment and training cost; skimmers slow', C.rust]];
   b += bullets(40, 690, notes.map((n, i) => ['Weather', 'Toxicity', 'Waste', 'Cost'][i] + ': ' + n[0]), 820, { size: 16 }).svg;
   add('05-minimise-limitations',
     svg(900, 815, 'Limiting the damage: what holds each method back', b),
