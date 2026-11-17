@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-literary-genres-7717"
     subtopic: "option-1b-aspects-of-comedy-7717"
-description: "Twelve original questions for AQA English Literature B (7717) Aspects of Comedy: AQA's comic aspects, an invented scene and poem, and linking-essay tasks, with answers."
+description: "Twelve original questions for AQA English Literature B (7717) Aspects of Comedy, with an invented scene and poem and linking-essay tasks, plus answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

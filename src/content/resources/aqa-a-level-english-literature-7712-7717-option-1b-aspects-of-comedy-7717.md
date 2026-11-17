@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-literary-genres-7717"
     subtopic: "option-1b-aspects-of-comedy-7717"
-description: "Option 1B Aspects of Comedy for AQA English Literature B (7717) Paper 1: the set texts, AQA's comic aspects, passage and linking-essay method, and model writing."
+description: "Option 1B Aspects of Comedy for AQA English Literature B (7717): set texts, AQA's comic aspects, passage and linking-essay method, model writing."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

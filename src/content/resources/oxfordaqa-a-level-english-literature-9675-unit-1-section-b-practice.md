@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-aspects-of-dramatic-tragedy-9675"
     subtopic: "unit-1-section-b-9675"
-description: "Twelve original questions building the 9675 Unit 1 Section B essay on later tragedy: concepts, an invented modern scene, thesis and planning tasks, with answers."
+description: "Twelve original questions building the 9675 Unit 1 Section B essay on later tragedy: concepts, an invented scene and planning tasks, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

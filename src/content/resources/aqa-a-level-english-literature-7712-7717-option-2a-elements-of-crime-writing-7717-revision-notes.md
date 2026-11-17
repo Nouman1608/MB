@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-texts-and-genres-7717"
     subtopic: "option-2a-elements-of-crime-writing-7717"
-description: "Revision notes for AQA English Literature B (7717) Option 2A Elements of Crime Writing: texts, AQA's elements by text, key terms, unseen checklist, traps and a self-test."
+description: "Revision notes for AQA English Literature B (7717) Elements of Crime Writing: texts, elements by text, key terms, unseen checklist and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

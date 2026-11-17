@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-literary-genres-7717"
     subtopic: "option-1a-aspects-of-tragedy-7717"
-description: "Revision notes for AQA English Literature B (7717) Option 1A Aspects of Tragedy: set texts, AQA's tragic aspects, key terms, text links, exam traps and a self-test."
+description: "Revision notes for AQA English Literature B (7717) Aspects of Tragedy: set texts, tragic aspects, key terms, text links, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

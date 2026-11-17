@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-literary-genres-7717"
     subtopic: "option-1a-aspects-of-tragedy-7717"
-description: "Option 1A Aspects of Tragedy for AQA English Literature B (7717) Paper 1: the set texts, AQA's tragic aspects, passage and linking-essay method, with model writing."
+description: "Option 1A Aspects of Tragedy for AQA English Literature B (7717): set texts, AQA's tragic aspects, passage and linking-essay method, model writing."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

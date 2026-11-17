@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-aspects-of-dramatic-tragedy-9675"
     subtopic: "unit-1-section-b-9675"
-description: "How to write the Section B essay on a later dramatic tragedy for OxfordAQA 9675 Unit 1: the five plays, modern tragic ideas, an essay plan and a model paragraph."
+description: "How to write the 9675 Unit 1 Section B essay on a later dramatic tragedy: the five plays, modern tragic ideas, an essay plan and a model paragraph."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-international-relations-depth-studies-9245"
     subtopic: "paper-1-section-b-9245"
-description: "Twelve original 9245 Paper 1 Section B questions across all four depth-study options, from 3-mark knowledge to 12-mark judgements, with point-by-point marking guides."
+description: "Twelve original 9245 Paper 1 Section B questions across all four depth-study options, from 3-mark knowledge to 12-mark judgements, with marking guides."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

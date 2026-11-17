@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-texts-and-genres-7717"
     subtopic: "option-2a-elements-of-crime-writing-7717"
-description: "Option 2A Elements of Crime Writing for AQA English Literature B (7717): AQA's crime elements applied to the set texts, unseen method, and set-text and linking essays."
+description: "Option 2A Elements of Crime Writing for AQA English Literature B (7717): AQA's crime elements in each set text, unseen method and essay planning."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

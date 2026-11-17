@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-place-in-literary-texts-9675"
     subtopic: "unit-2-section-a-9675"
-description: "Recall notes for the 9675 Unit 2 Section A prose essay: the six novels and their places, narrative methods for place, key terms, open-book traps and a self-test."
+description: "Recall notes for the 9675 Unit 2 Section A prose essay: six novels and their places, narrative methods, key terms, open-book traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

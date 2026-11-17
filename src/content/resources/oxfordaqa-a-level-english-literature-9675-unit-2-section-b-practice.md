@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-place-in-literary-texts-9675"
     subtopic: "unit-2-section-b-9675"
-description: "Twelve original questions for the 9675 Unit 2 Section B poetry essay on place, using an invented poem, comparison and planning tasks, with point-by-point answers."
+description: "Twelve original questions for the 9675 Unit 2 Section B poetry essay on place, with an invented poem and planning tasks, answered point by point."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

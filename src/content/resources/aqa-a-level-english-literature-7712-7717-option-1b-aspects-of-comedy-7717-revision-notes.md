@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-literary-genres-7717"
     subtopic: "option-1b-aspects-of-comedy-7717"
-description: "Revision notes for AQA English Literature B (7717) Option 1B Aspects of Comedy: set texts, AQA's comic aspects, key terms, text links, exam traps and a self-test."
+description: "Revision notes for AQA English Literature B (7717) Aspects of Comedy: set texts, comic aspects, key terms, text links, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

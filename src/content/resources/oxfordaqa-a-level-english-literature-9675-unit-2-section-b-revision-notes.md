@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-place-in-literary-texts-9675"
     subtopic: "unit-2-section-b-9675"
-description: "Recall notes for the 9675 Unit 2 Section B poetry essay: the four poets' selections, how poems build place, poetic terms, exam traps and a twelve-question self-test."
+description: "Recall notes for the 9675 Unit 2 Section B poetry essay: the four poets, how poems build place, poetic terms, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

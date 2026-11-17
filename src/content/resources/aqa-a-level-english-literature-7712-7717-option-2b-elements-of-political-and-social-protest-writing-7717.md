@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-texts-and-genres-7717"
     subtopic: "option-2b-elements-of-political-and-social-protest-writing-7717"
-description: "Option 2B protest writing for AQA English Literature B (7717): AQA's elements of power and protest in each set text, an unseen method, and set-text and linking essays."
+description: "Option 2B protest writing for AQA English Literature B (7717): AQA's elements of power in each set text, unseen method and essay planning."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
