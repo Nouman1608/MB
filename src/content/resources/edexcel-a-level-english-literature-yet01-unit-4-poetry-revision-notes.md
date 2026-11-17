@@ -88,6 +88,18 @@ These are examples, not complete lists; revise every prescribed poem for your mo
 - Romanticism as retreat into self, or as political engagement.
 - Victorian poetry as consolation, or as the poetry of doubt.
 
+## Paragraph frame for a movement essay
+
+1. Topic sentence that tests the statement.
+2. Main poem: short quotation, method, effect.
+3. Supporting or contrasting reference to a second prescribed poem.
+4. Context (often the movement itself) explaining the choice.
+5. Interpretation weighed: does a critical view or alternative reading hold?
+6. Link back to the statement.
+
+**Example topic sentence:** *"Keats's ode seems to confirm that Romantic poets turn inward, yet its
+return to the 'sole self' is presented as loss, not triumph, which complicates the statement."*
+
 ## Statement method
 
 1. Unpack key terms.

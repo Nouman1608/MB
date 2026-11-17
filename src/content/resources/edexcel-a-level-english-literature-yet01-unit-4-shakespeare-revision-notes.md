@@ -81,6 +81,17 @@ Quotations are open-book in the exam, but knowing where key lines sit saves time
 
 Weigh each view against the text. A view you reject still counts if you show why.
 
+## An AO5 sentence: weak to strong
+
+**Weak:** *"Some critics think Katherina is being ironic in her last speech."*
+
+**Strong:** *"Katherina's final speech can be played as sincere submission, but its length and its
+exaggerated images of wifely duty allow a production to suggest performance; since the whole play is
+framed by the Induction as a show staged for Christopher Sly, an ironic reading has textual support,
+though it does not remove the speech's discomfort for a modern audience."*
+
+The strong version names an interpretation, tests it against dramatic evidence and reaches a judgement.
+
 ## Statement method
 
 1. Unpack the key terms.
