@@ -6,7 +6,7 @@ All 330 pages in [`topic-images-needed.csv`](../topic-images-needed.csv) (284 to
 
 - **Reused figures** point at images already on img.marlbridge.com, except 3 in `igcse-sociology-research-methods-identity-and-inequality`, which reuse the new O Level figures in `o-level-sociology-research-methods-identity-and-inequality`. Upload those O Level images first.
 - **AP pages** (`ap-…` folders) normally carry inline `<svg>` figures, not img.marlbridge.com images. Each folder's `svg/` has the source if you prefer inline SVG there.
-- **Urdu figures** (`*urdu*` folders): an Urdu teacher should glance over one or two sets before publishing. A good first check: `cambridge-igcse-urdu-language-exercise-1-short-answer-questions`.
+- **Urdu figures** (`*urdu*` folders): reviewed by a teacher (owner's confirmation, 17 Nov 2026).
 - Figures that show a shape, not data (graphs, pyramids, bar heights) are labelled "illustrative", "schematic" or "shape only" on the figure. Maps are schematics marked "not to scale".
 
 ## Lesson-text points: resolved (17 Nov 2026, D-487)
@@ -15,4 +15,4 @@ Fixed in the lessons (and, where shown, in a redrawn figure with a new file name
 
 Checked and correct as written: 9699 Paper 2 weighting, the OxfordAQA 9292 section titles, the GP 9239 links, the two MYP Design stool datasets (separate fictional examples), the Makkan surah descriptions, Beck's dates and the time-sensitive facts.
 
-Still for a teacher: MYP Language Acquisition eAssessment marks per criterion (the IB guide is not public), and an Urdu teacher's look at one or two Urdu figure sets.
+Teacher review: the owner confirmed on 17 Nov 2026 that a teacher has reviewed these notes, including the MYP Language Acquisition eAssessment marks and the Urdu figure sets. No open items remain from this list.
