@@ -105,7 +105,6 @@ const cuboid = (x, y, w, h, d, fill = C.tealLight) => {
     b += t(xk + 34, y + 6, `${c + 273} K`, { size: 18, weight: 700 });
     b += t(xk + 120, y + 6, lab, { size: 15, fill: C.muted });
   });
-  b += t(385, 110 + 0, '', {});
   b += box(600, 330, 250, 200, C.cream, C.olive, 12);
   b += tl(618, 366, ['T (K) = θ (°C) + 273', 'θ (°C) = T (K) − 273'], { size: 18, weight: 700 }, 30);
   b += tl(618, 440, ['1 K is the same size', 'as 1 °C: a rise of 30 °C', 'is a rise of 30 K.'], { size: 16 }, 22);

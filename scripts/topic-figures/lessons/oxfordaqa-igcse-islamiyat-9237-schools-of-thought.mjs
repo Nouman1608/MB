@@ -393,7 +393,7 @@ add('03-five-schools',
   s += arrow(X[0] + W / 2, Y + 230 + H + 4, X[0] + W / 2, Y + 414);
   s += card(X[1], Y + 400, 530, { title: 'Key', body: ['Solid arrow: teacher to student, as the lesson states', 'Dashed arrow: traditions report that Abu Hanifa and Malik learned from Ja’far al-Sadiq'], size: 15, tsize: 17, fill: C.cream, edge: C.olive, bfill: C.ink }).s;
   add('04-teacher-links',
-    svg(900, Y + 550, 'How the founders are linked', s),
+    svg(900, Y + 570, 'How the founders are linked', s),
     'Links between the founders: traditions report that Abu Hanifa and Malik learned from Ja’far al-Sadiq; al-Shafi’i studied under Malik and learned from Hanafi scholars in Iraq; Ahmad ibn Hanbal was a student of al-Shafi’i; and Abu Yusuf and al-Shaybani recorded Abu Hanifa’s teaching.',
     'The founders learned from one another: the schools grew from shared scholarship.',
     '## The five schools named in the specification');
