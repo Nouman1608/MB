@@ -1,0 +1,11 @@
+{ "page": "oxfordaqa-a-level-psychology-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--08-psy-conformity-levels.webp", "after": "## Social influence" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--09-psy-asch-findings.webp", "after": "## Social influence" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--10-psy-milgram-results.webp", "after": "## Social influence" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--11-psy-multi-store.webp", "after": "## Memory" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--12-psy-working-memory.webp", "after": "## Memory" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--07-cognitive-interview.webp", "after": "## Memory" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--13-psy-two-process.webp", "after": "## Psychopathology" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--14-psy-systematic-desensitisation.webp", "after": "## Psychopathology" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychopathology--05-beck-and-ellis.webp", "after": "## Psychopathology" }
+] }
