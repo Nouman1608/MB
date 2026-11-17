@@ -41,6 +41,7 @@ reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
+updatedDate: 2026-11-17
 featured: false
 reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
@@ -351,5 +352,5 @@ and small program size matter.
 ## Official syllabus
 
 OxfordAQA International GCSE Computer Science (9210) specification,
-version 3.3, for exams from May/June 2019 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2025/02/oxfordaqa-gcse-computer-science-specification.pdf).
+version 3.4, for exams from May/June 2019 —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/06/oxfordaqa-gcse-computer-science-specification.pdf).

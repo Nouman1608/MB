@@ -33,6 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-08-21
+updatedDate: 2026-11-17
 featured: false
 ---
 
@@ -257,7 +258,7 @@ emotion.
   with Asperger syndrome or high-functioning autism scored lower than general-population controls,
   and scores were negatively correlated with Autism Spectrum Quotient scores — evidence about
   theory of mind as an individual difference in social sensitivity.
-- **Pozzulo et al. (2012), line-ups.** Children and adults viewed a target (cartoon and human
+- **Pozzulo et al. (2011), line-ups.** Children and adults viewed a target (cartoon and human
   faces) and then made identifications from target-present and target-absent line-ups. Children
   made more false positive responses than adults in target-absent line-ups, which has direct
   implications for how police use child eyewitnesses.
