@@ -51,7 +51,7 @@ Related: [Law Reform study guide](/resources/aqa-a-level-law-7162-law-making-law
 
 **9.** Explain why the Law Commission is better placed than judges to reform a whole area of law. **[4]**
 
-**10.** A government minister says: "The Law Commission's report on offences against the person is excellent, but there is no time in this session." Explain what this illustrates about reform through the Law Commission, referring to evidence. **[5]**
+**10.** A government minister says: "The Law Commission's report on offences against the person is excellent, but there is no room in this year's parliamentary timetable." Explain what this illustrates about reform through the Law Commission, referring to evidence. **[5]**
 
 **11.** Explain **two** advantages of the Law Commission's independence and expertise. **[4]**
 
