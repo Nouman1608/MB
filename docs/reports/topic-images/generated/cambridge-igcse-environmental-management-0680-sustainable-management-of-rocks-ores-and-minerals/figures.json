@@ -51,15 +51,15 @@
   "after": "## Worked example 1: how long will a reserve last?",
   "alt": "A graph of a 600 million tonne reserve. Extracting 20 million tonnes a year empties it in 30 years; if recycling and reduction meet a quarter of demand, extraction falls to 15 million tonnes a year and it lasts 40 years. The estimate assumes demand stays the same.",
   "caption": "Cutting extraction from 20 to 15 Mt a year stretches the reserve from 30 to 40 years.",
-  "bytes": 89820
+  "bytes": 89694
  },
  {
   "file": "cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-and-minerals--07-recycling-scheme.webp",
   "width": 900,
-  "height": 595,
+  "height": 570,
   "after": "## Worked example 2: does making recycling easier work?",
   "alt": "Two bars out of 18,000 tonnes of metal waste. Before a kerbside scheme 4,500 tonnes (25%) were recycled; after it, 7,200 tonnes (40%). The mass recycled rose by 60%, but 60% of the metal is still not recycled, suggesting education is also needed.",
   "caption": "Recycling rose from 25% to 40%, a 60% increase in mass, but most metal is still not recycled.",
-  "bytes": 70874
+  "bytes": 70658
  }
 ]

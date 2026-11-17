@@ -195,8 +195,8 @@ const vcenter = (x, yTop, h, w, s, o = {}) => { const size = o.size || 17; const
   const R = headPanel(466, 108, 404, 404, 'Wealth: a STOCK', { fill: C.cream, size: 22 });
   s += L.svg + R.svg;
   // flow: arrows streaming
-  [0, 1, 2].forEach((k) => { s += arrow(90, 236 + k * 34, 330, 210 + k * 34, { w: 5, color: C.tealDark, marker: 'ahT' }); });
-  s += label(232, 216, 'money over time', { size: 16, anchor: 'middle', fill: C.tealDark, weight: 700 });
+  [0, 1, 2].forEach((k) => { s += arrow(90, 244 + k * 34, 330, 244 + k * 34, { w: 5, color: C.tealDark, marker: 'ahT' }); });
+  s += label(232, 222, 'money over time', { size: 16, anchor: 'middle', fill: C.tealDark, weight: 700 });
   s += para(232, 346, 360, 'Wages, benefits, rent received', { size: 17, weight: 700, anchor: 'middle' }).svg;
   s += box(52, 396, 360, 96, { fill: C.panel, edge: C.panelEdge, sw: 2 }) + para(68, 428, 330, '**A footballer** may have a high income but little wealth if they spend it all', { size: 16 }).svg;
   // stock: stacked blocks
@@ -221,18 +221,18 @@ const vcenter = (x, yTop, h, w, s, o = {}) => { const size = o.size || 17; const
   let y = 112;
   layers.forEach(([h, b, w, f]) => {
     const x = 450 - w / 2;
-    s += box(x, y, w, 100, { fill: f, sw: 2.5 }) + label(450, y + 34, h, { size: 20, weight: 700, anchor: 'middle' }) + para(450, y + 60, w - 60, b, { size: 15.5, anchor: 'middle' }).svg;
-    y += 110;
+    s += box(x, y, w, 118, { fill: f, sw: 2.5 }) + label(450, y + 34, h, { size: 20, weight: 700, anchor: 'middle' }) + para(450, y + 60, w - 60, b, { size: 15.5, anchor: 'middle' }).svg;
+    y += 128;
   });
   s += box(30, y, 840, 70, { fill: C.panel, sw: 2, dash: '8 6' }) + label(450, y + 32, 'Underclass (disputed)', { size: 18, weight: 700, anchor: 'middle', fill: C.muted }) + label(450, y + 56, 'outside regular paid work for long periods; a term used by Murray', { size: 15.5, anchor: 'middle', fill: C.muted });
-  const r = cardRow(y + 92, [
+  const r = cardRow(y + 112, [
     { head: '↑ Embourgeoisement', fill: C.teal, body: 'Affluent manual workers take on middle-class lifestyles and values. Devine’s study does not support it.' },
     { head: '↓ Proletarianisation', fill: C.cream, body: 'Some white collar workers lose status, pay and control, so their position comes closer to the working class.' },
   ], { size: 16, headSize: 19 });
-  s += label(450, y + 84, 'Two ideas about change between classes', { size: 18, weight: 700, anchor: 'middle' }) + r.svg;
-  const n = note(y + 92 + r.h + 16, null, 'Class is an **open** system: social mobility is possible, unlike caste or slavery.');
+  s += label(450, y + 100, 'Two ideas about change between classes', { size: 18, weight: 700, anchor: 'middle' }) + r.svg;
+  const n = note(y + 112 + r.h + 16, null, 'Class is an **open** system: social mobility is possible, unlike caste or slavery.');
   add('02-class-divisions',
-    svg(900, Math.round(y + 92 + r.h + 16 + n.h + 24), 'Class divisions in the UK', s + n.svg),
+    svg(900, Math.round(y + 112 + r.h + 16 + n.h + 24), 'Class divisions in the UK', s + n.svg),
     'Stacked classes: an upper class of aristocracy and owners with inherited wealth; a middle class of professionals, managers and white collar workers; a working class of manual workers; and a disputed underclass. Below, embourgeoisement, manual workers taking on middle-class lifestyles, and proletarianisation, white collar workers moving closer to the working class.',
     'Three broad classes, a disputed fourth, and two arguments about movement between them.',
     '## Identifying class divisions in the UK');

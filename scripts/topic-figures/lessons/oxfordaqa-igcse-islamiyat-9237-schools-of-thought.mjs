@@ -375,31 +375,25 @@ add('03-five-schools',
 // 04 Teacher links
 {
   const Y = 110;
-  const nodes = {
-    jafar: [30, Y + 20, 'Ja’far al-Sadiq', 'Madinah · Ja’fari'],
-    hanifa: [30, Y + 220, 'Abu Hanifa', 'Kufa · Hanafi'],
-    malik: [330, Y + 20, 'Malik ibn Anas', 'Madinah · Maliki'],
-    shafii: [330, Y + 220, 'al-Shafi’i', 'Madinah, Iraq, Egypt · Shafi’i'],
-    ahmad: [630, Y + 220, 'Ahmad ibn Hanbal', 'Baghdad · Hanbali'],
-    students: [30, Y + 400, 'Abu Yusuf and al-Shaybani', 'recorded Abu Hanifa’s teaching'],
-  };
+  const W = 220, H = 96, X = [30, 340, 650];
   let s = '';
-  const W = 240, H = 84;
-  Object.values(nodes).forEach(([x, y, a, b]) => { s += card(x, y, W, { title: a, body: b, align: 'middle', minH: H, vcenter: true, size: 15, tsize: 19, fill: C.tealLight, edge: C.tealDark, pad: 12 }).s; });
-  const c = (k) => nodes[k];
-  // Ja'far -> Malik, Ja'far -> Abu Hanifa (traditions: dashed)
-  s += arrow(c('jafar')[0] + W + 4, Y + 62, c('malik')[0] - 6, Y + 62, { dash: '8 6', color: C.olive, marker: 'ahO' });
-  s += arrow(150, Y + 20 + H + 4, 150, Y + 214, { dash: '8 6', color: C.olive, marker: 'ahO' });
-  s += arrow(450, Y + 20 + H + 4, 450, Y + 214);
-  s += arrow(c('hanifa')[0] + W + 4, Y + 262, c('shafii')[0] - 6, Y + 262);
-  s += arrow(c('shafii')[0] + W + 4, Y + 262, c('ahmad')[0] - 6, Y + 262);
-  s += arrow(150, Y + 220 + H + 4, 150, Y + 394);
-  s += T(450, Y + 166, 'studied under Malik', { size: 15, anchor: 'start', fill: C.muted }).replace('x="450"', 'x="462"');
-  s += T(285, Y + 250, 'learned from', { size: 15, anchor: 'middle', fill: C.muted }) + T(285, Y + 300, 'Hanafi scholars', { size: 15, anchor: 'middle', fill: C.muted });
-  s += T(600, Y + 250, 'student', { size: 15, anchor: 'middle', fill: C.muted });
-  s += card(330, Y + 380, 540, { title: 'Key', body: ['Solid arrow: teacher to student, as the lesson states', 'Dashed arrow: traditions report that Abu Hanifa and Malik learned from Ja’far al-Sadiq'], size: 15, tsize: 17, fill: C.cream, edge: C.olive, bfill: C.ink }).s;
+  const node = (x, y, a, b2) => card(x, y, W, { title: a, body: b2, align: 'middle', minH: H, vcenter: true, size: 15, tsize: 19, fill: C.tealLight, edge: C.tealDark, pad: 12 }).s;
+  s += node(X[0], Y + 20, 'Ja’far al-Sadiq', 'Madinah · Ja’fari');
+  s += node(X[1], Y + 20, 'Malik ibn Anas', 'Madinah · Maliki');
+  s += node(X[0], Y + 230, 'Abu Hanifa', 'Kufa · Hanafi');
+  s += node(X[1], Y + 230, 'al-Shafi’i', 'Madinah, then Iraq (learned from Hanafi scholars), then Egypt');
+  s += node(X[2], Y + 230, 'Ahmad ibn Hanbal', 'Baghdad · Hanbali');
+  s += node(X[0], Y + 420, 'Abu Yusuf and al-Shaybani', 'recorded Abu Hanifa’s teaching');
+  s += arrow(X[0] + W + 4, Y + 68, X[1] - 6, Y + 68, { dash: '8 6', color: C.olive, marker: 'ahO' });
+  s += arrow(X[0] + W / 2, Y + 20 + H + 4, X[0] + W / 2, Y + 224, { dash: '8 6', color: C.olive, marker: 'ahO' });
+  s += arrow(X[1] + W / 2, Y + 20 + H + 4, X[1] + W / 2, Y + 224);
+  s += T(X[1] + W / 2 + 12, Y + 176, 'studied under Malik', { size: 15, fill: C.muted });
+  s += arrow(X[1] + W + 4, Y + 278, X[2] - 6, Y + 278);
+  s += T((X[1] + W + X[2]) / 2, Y + 266, 'student', { size: 15, anchor: 'middle', fill: C.muted });
+  s += arrow(X[0] + W / 2, Y + 230 + H + 4, X[0] + W / 2, Y + 414);
+  s += card(X[1], Y + 400, 530, { title: 'Key', body: ['Solid arrow: teacher to student, as the lesson states', 'Dashed arrow: traditions report that Abu Hanifa and Malik learned from Ja’far al-Sadiq'], size: 15, tsize: 17, fill: C.cream, edge: C.olive, bfill: C.ink }).s;
   add('04-teacher-links',
-    svg(900, Y + 520, 'How the founders are linked', s),
+    svg(900, Y + 550, 'How the founders are linked', s),
     'Links between the founders: traditions report that Abu Hanifa and Malik learned from Ja’far al-Sadiq; al-Shafi’i studied under Malik and learned from Hanafi scholars in Iraq; Ahmad ibn Hanbal was a student of al-Shafi’i; and Abu Yusuf and al-Shaybani recorded Abu Hanifa’s teaching.',
     'The founders learned from one another: the schools grew from shared scholarship.',
     '## The five schools named in the specification');

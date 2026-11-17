@@ -222,7 +222,7 @@ const H2 = {
   b += `<text x="58" y="${y0 - 180}" font-size="16" fill="${C.muted}" text-anchor="middle" transform="rotate(-90 58 ${y0 - 180})">reserve left (million tonnes)</text>`;
   b += path(`M${x0},${y0 - 600 * yk} L${x0 + 30 * xk},${y0}`, { stroke: C.rust, w: 4.5 }) + path(`M${x0},${y0 - 600 * yk} L${x0 + 40 * xk},${y0}`, { stroke: C.tealDark, w: 4.5 });
   b += circ(x0 + 30 * xk, y0, 7, C.rust) + circ(x0 + 40 * xk, y0, 7, C.tealDark);
-  b += tag(x0 + 22, y0 - 60, '20 Mt a year: 30 years', { size: 16, fill: C.rust }) + tag(x0 + 250, y0 - 190, '15 Mt a year: 40 years', { size: 16, fill: C.tealDark });
+  b += t(x0 + 16, y0 - 60, '20 Mt a year: 30 years', { size: 16, weight: 700, fill: C.rust }) + tag(x0 + 250, y0 - 190, '15 Mt a year: 40 years', { size: 16, fill: C.tealDark });
   b += t(580, 140, 'invented figures', { size: 15, anchor: 'end', fill: C.muted, italic: true });
   b += panel(610, 110, 260, 520);
   b += t(632, 148, 'Current rate', { size: 18, weight: 700, fill: C.rust }) + t(632, 176, '600 ÷ 20 = 30 years', { size: 16.5 });
