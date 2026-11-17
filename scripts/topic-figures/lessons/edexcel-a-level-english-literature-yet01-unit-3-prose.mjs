@@ -415,7 +415,7 @@ function venn(Y, leftYear, rightYear, cols, o = {}) {
     if (hl) s += `<circle cx="${30 + cw0 + 2 * cw1 + 30}" cy="${y + rh / 2}" r="11" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>`;
   });
   const by = Y + 46 + rows.length * rh;
-  s += T(870, Y + 28, 'chosen', { size: 15, weight: 700, anchor: 'end', fill: C.olive });
+  s += T(870, Y + 20, 'example', { size: 15, weight: 700, anchor: 'end', fill: C.olive }) + T(870, Y + 38, 'pick', { size: 15, weight: 700, anchor: 'end', fill: C.olive });
   const n = note(by + 18, 'Each row is a potential paragraph. On the day, choose the three or four rows that answer the question best (shown here as an example).');
   s += n.s;
   add('04-comparison-framework',
@@ -429,10 +429,10 @@ function venn(Y, leftYear, rightYear, cols, o = {}) {
 {
   const Y = 120;
   let s = '';
-  const L = card(30, Y, 412, { kicker: 'CONTEXT OF PRODUCTION', title: 'When and how it was written', body: ['The writer’s life, only where it relates to the text', 'The historical setting', 'Social and cultural contexts', 'Literary context: movements and genres'], bullets: true, fill: C.tealLight, edge: C.tealDark, size: 16, minH: 250 });
-  const R = card(458, Y, 412, { kicker: 'CONTEXT OF RECEPTION', title: 'How it has been read since', body: ['How it has been reviewed, used, edited and adapted', 'How readers and critics have arrived at alternative interpretations'], bullets: true, fill: C.cream, edge: C.olive, kfill: C.olive, size: 16, minH: 250 });
+  const L = card(30, Y, 412, { kicker: 'CONTEXT OF PRODUCTION', title: 'When and how it was written', body: ['The writer’s life, only where it relates to the text', 'The historical setting', 'Social and cultural contexts', 'Literary context: movements and genres'], bullets: true, fill: C.tealLight, edge: C.tealDark, size: 16, minH: 214 });
+  const R = card(458, Y, 412, { kicker: 'CONTEXT OF RECEPTION', title: 'How it has been read since', body: ['How it has been reviewed, used, edited and adapted', 'How readers and critics have arrived at alternative interpretations'], bullets: true, fill: C.cream, edge: C.olive, kfill: C.olive, size: 16, minH: 214 });
   s += L.s + R.s;
-  const y2 = Y + 270;
+  const y2 = Y + 252;
   s += T(30, y2 + 6, 'Why reception is often the most useful in a comparison', { size: 19, weight: 700 });
   const r = row(y2 + 22, [
     { body: 'It explains why a modern reader responds to an older novel differently from its first readers.', bfill: C.ink },
@@ -482,13 +482,13 @@ function venn(Y, leftYear, rightYear, cols, o = {}) {
     s += T(cx, cy - r * 0.85 + 26, l, { size: 16, weight: 700, anchor: 'middle' });
   });
   s += T(cx, cy + 22, 'her words', { size: 15, anchor: 'middle', fill: C.ink });
-  s += eye(cx, Y + 356, 0.9) + T(cx + 30, Y + 362, 'the reader, at a distance', { size: 15, weight: 700, fill: C.olive });
+  s += eye(cx - 100, Y + 356, 0.9) + T(cx - 70, Y + 362, 'the reader, at a distance', { size: 15, weight: 700, fill: C.olive });
   s += panel(458, Y, 412, 380, C.panel, C.tealDark) + `<text x="478" y="${Y + 36}" font-size="19" font-weight="700" fill="${C.ink}" font-style="italic">Mrs Dalloway</text>`;
   const dx = 664;
-  s += `<circle cx="${dx}" cy="${cy - 10}" r="120" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2.5"/>` + T(dx, cy - 96, 'Clarissa’s mind', { size: 16, weight: 700, anchor: 'middle' });
-  s += eye(dx, cy - 10, 1.1) + T(dx, cy + 34, 'free indirect discourse', { size: 15, anchor: 'middle', fill: C.tealDark, weight: 700 });
-  s += T(dx, cy + 58, 'the choice revisited from within,', { size: 15, anchor: 'middle' }) + T(dx, cy + 78, 'decades later', { size: 15, anchor: 'middle' });
-  s += T(dx, Y + 362, 'the reader, inside', { size: 15, weight: 700, anchor: 'middle', fill: C.tealDark });
+  s += `<circle cx="${dx}" cy="${cy - 20}" r="112" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2.5"/>` + T(dx, cy - 86, 'Clarissa’s mind', { size: 16, weight: 700, anchor: 'middle' });
+  s += eye(dx, cy - 30, 1.1) + T(dx, cy + 12, 'free indirect', { size: 15, anchor: 'middle', fill: C.tealDark, weight: 700 }) + T(dx, cy + 31, 'discourse', { size: 15, anchor: 'middle', fill: C.tealDark, weight: 700 });
+  s += T(dx, cy + 122, 'the choice revisited from within, decades later', { size: 15, anchor: 'middle' });
+  s += T(dx, Y + 362, 'the reader, inside her mind', { size: 15, weight: 700, anchor: 'middle', fill: C.tealDark });
   const r = row(Y + 400, [
     { title: 'Distance', body: 'Catherine’s declaration is filtered through a servant who disapproves: we weigh Nelly’s judgement against Catherine’s words.', fill: C.cream, edge: C.olive },
     { title: 'Intimacy', body: 'We understand a choice that has both protected and limited her.', fill: C.tealLight, edge: C.tealDark },
