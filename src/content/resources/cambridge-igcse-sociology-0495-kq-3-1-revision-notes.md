@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
     subtopic: "kq-3-1-0495"
-description: "Revision notes for Cambridge IGCSE Sociology 0495 key question 3.1: open and closed stratification, poverty, mobility, life chances, intersectionality and theories."
+description: "Revision notes for Cambridge IGCSE Sociology 0495 key question 3.1: open and closed systems, poverty, mobility, life chances, intersectionality and theories."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

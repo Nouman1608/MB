@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
     subtopic: "kq-3-3-0495"
-description: "Cambridge IGCSE Sociology 0495 key question 3.3 in depth: migration, transnational companies, climate change, pollution, urbanisation and theories of global inequality."
+description: "Cambridge IGCSE Sociology 0495 key question 3.3: migration, transnational companies, climate change, pollution, urbanisation and theories of inequality."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

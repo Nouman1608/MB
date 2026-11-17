@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
     subtopic: "kq-1-3-0495"
-description: "Cambridge IGCSE Sociology 0495 key question 1.3: research design, sampling, questionnaires, interviews, observation, question types and ethics, with a model plan."
+description: "Cambridge IGCSE Sociology 0495 key question 1.3: research design, sampling, interviews, observation, question types and ethics and a model plan."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

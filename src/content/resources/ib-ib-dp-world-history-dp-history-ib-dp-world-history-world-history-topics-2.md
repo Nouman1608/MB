@@ -89,6 +89,10 @@ Distinguish underlying causes from the event that turned tension into war: Phili
 
 **Conclusion:** the decisive difference lay in the outcome: a victorious monarchy could convert war into lasting institutions, while a regime that won without gain could not pay for its victory.
 
+## Interpretations
+
+Two debates are especially useful. On the crusades, Jonathan Riley-Smith argued that most crusaders were driven by piety rather than greed, pointing out that crusading was ruinously expensive for families who sold or mortgaged land to go; older accounts stressed land hunger and adventure. On the Hundred Years' War, Clifford Rogers argued that the war saw an "infantry revolution", as archers and dismounted men-at-arms defeated mounted knights, followed by an "artillery revolution" in which cannon made sieges faster. Both debates help you weigh causes and practices: if you argue that religion caused the First Crusade, show how you answer the material explanation; if you argue that technology decided the Hundred Years' War, explain why England, the early innovator, still lost.
+
 ## Common mistakes
 
 - Narrating the course of a war in place of analysing its causes or effects.

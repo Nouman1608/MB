@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
     subtopic: "kq-3-1-0495"
-description: "Original Cambridge IGCSE Sociology 0495 practice on key question 3.1: stratification, mobility, life chances, intersectionality, labelling and Marxism, with answers."
+description: "Original Cambridge IGCSE Sociology 0495 practice on key question 3.1: mobility, life chances, intersectionality, labelling and Marxism, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

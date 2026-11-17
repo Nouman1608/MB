@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
     subtopic: "kq-1-2-0495"
-description: "Original Cambridge IGCSE Sociology 0495 practice on key question 1.2: primary and secondary data, official statistics, documents and source analysis, with answers."
+description: "Original Cambridge IGCSE Sociology 0495 practice on key question 1.2: data types, official statistics, documents and reading sources, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

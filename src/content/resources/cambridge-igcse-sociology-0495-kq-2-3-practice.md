@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
     subtopic: "kq-2-3-0495"
-description: "Original Cambridge IGCSE Sociology 0495 practice on key question 2.3: age, gender, digital identity, globalisation and postmodern choice, with mark-scheme answers."
+description: "Original Cambridge IGCSE Sociology 0495 practice on key question 2.3: age, gender, digital identity, globalisation and postmodern choice, with full answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
     subtopic: "kq-2-1-0495"
-description: "Original Cambridge IGCSE Sociology 0495 practice on key question 2.1: culture, nature and nurture, agencies, processes and theories of socialisation, with answers."
+description: "Original Cambridge IGCSE Sociology 0495 practice on key question 2.1: culture, nature and nurture, and the agencies and theories of socialisation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

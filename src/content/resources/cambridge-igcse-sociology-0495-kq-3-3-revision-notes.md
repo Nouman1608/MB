@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
     subtopic: "kq-3-3-0495"
-description: "Revision notes for Cambridge IGCSE Sociology 0495 key question 3.3: migration, TNCs, climate change, pollution, urbanisation, dependency and feminist explanations."
+description: "Revision notes for Cambridge IGCSE Sociology 0495 key question 3.3: migration, TNCs, climate change, pollution, urbanisation, and theories of global inequality."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

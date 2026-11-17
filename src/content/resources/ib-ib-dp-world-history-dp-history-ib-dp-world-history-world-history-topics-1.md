@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-world-history-world-history-topics"
     subtopic: "ib-dp-world-history-world-history-topics-1"
-description: "IB History Paper 2 world history topic 1, Society and economy 750-1400: population, trade, ideas and religion across regions, with a worked comparative essay plan."
+description: "IB History Paper 2 world history topic 1, Society and economy 750-1400: population, trade, ideas and religion across regions, with a worked essay plan."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
@@ -76,6 +76,10 @@ Religion shaped every society in this period. In Latin Christendom the Church wa
 **Conclusion:** the plague was the same, but its economic impact depended on institutions: the more flexible English system adapted, the more rigid Egyptian one did not.
 
 **Timing:** about 45 minutes, with five for planning and four comparative paragraphs of about eight minutes each.
+
+## Interpretations
+
+Historians have described dramatic economic change in more than one region. Robert S. Lopez called the growth of European trade and credit between about 950 and 1350 a "commercial revolution". Mark Elvin argued that Song China underwent a medieval economic revolution in farming, transport, money and technology. Janet Abu-Lughod's *Before European Hegemony* (1989) described a thirteenth-century "world system" of linked trading circuits from northern Europe to China, in which Europe was a marginal participant and which the Black Death helped to break apart. Use such views to frame comparison: was growth in your two societies driven by similar forces, and was either region more advanced than the other? Present an interpretation briefly and test it against your evidence rather than quoting it as a conclusion.
 
 ## Common mistakes
 

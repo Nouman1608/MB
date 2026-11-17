@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
     subtopic: "kq-2-3-0495"
-description: "Revision notes for Cambridge IGCSE Sociology 0495 key question 2.3: age, gender, ethnicity and class identity, the digital self, globalisation and postmodern choice."
+description: "Revision notes for Cambridge IGCSE Sociology 0495 key question 2.3: age, gender, ethnicity and class, the digital self, globalisation and postmodern choice."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

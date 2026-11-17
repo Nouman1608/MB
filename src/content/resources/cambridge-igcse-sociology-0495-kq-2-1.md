@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
     subtopic: "kq-2-1-0495"
-description: "Cambridge IGCSE Sociology 0495 key question 2.1: social construction, nature and nurture, agencies and processes of socialisation, and the theories that debate them."
+description: "Cambridge IGCSE Sociology 0495 key question 2.1: social construction, nature and nurture, agencies and processes, and theories of socialisation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

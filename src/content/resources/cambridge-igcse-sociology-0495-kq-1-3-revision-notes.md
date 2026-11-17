@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
     subtopic: "kq-1-3-0495"
-description: "Revision notes for Cambridge IGCSE Sociology 0495 key question 1.3: research design stages, sampling techniques, primary methods, question types and research ethics."
+description: "Revision notes for Cambridge IGCSE Sociology 0495 key question 1.3: research design, sampling techniques, primary methods, question types and ethics."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
     subtopic: "kq-2-1-0495"
-description: "Revision notes for Cambridge IGCSE Sociology 0495 key question 2.1: culture, norms and status, nature and nurture, agencies and processes of socialisation, theories."
+description: "Revision notes for Cambridge IGCSE Sociology 0495 key question 2.1: culture and status, nature and nurture, agencies and processes of socialisation, theories."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
