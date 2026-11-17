@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International AS English Literature (9675): Unit 2 Section B, Poetry and Place"
+title: "OxfordAQA International A-Level English Literature (9675): Unit 2 Section B, Poetry and Place"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

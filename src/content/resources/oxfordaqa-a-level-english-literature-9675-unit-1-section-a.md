@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International AS English Literature (9675): Unit 1 Section A, Elizabethan and Jacobean Tragedy"
+title: "OxfordAQA International A-Level English Literature (9675): Unit 1 Section A, Elizabethan and Jacobean Tragedy"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International AS English Literature (9675): Unit 1 Section A, Elizabethan and Jacobean Tragedy -- Practice Questions"
+title: "OxfordAQA International A-Level English Literature (9675): Unit 1 Section A, Elizabethan and Jacobean Tragedy -- Practice Questions"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["a-levels"]
