@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
     subtopic: "kq-2-2-2251"
-description: "Cambridge O Level Sociology 2251 key question 2.2 in depth: formal and informal control, sanctions, three theories, surveillance and resistance through subcultures."
+description: "Cambridge O Level Sociology 2251 key question 2.2 in depth: formal and informal control, sanctions, three theories, surveillance and subcultures."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

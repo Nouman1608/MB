@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
     subtopic: "kq-3-2-2251"
-description: "Cambridge O Level Sociology 2251 key question 3.2 in depth: tax, benefits and equality laws, welfare states, NGOs, and New Right, Marxist and feminist critiques."
+description: "Cambridge O Level Sociology 2251 key question 3.2 in depth: tax, benefits, equality laws, welfare states, NGOs and New Right, Marxist and feminist views."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
     subtopic: "kq-3-3-2251"
-description: "Cambridge O Level Sociology 2251 key question 3.3 in depth: migration, transnational companies, climate and urbanisation, and Marxist, colonial and feminist views."
+description: "Cambridge O Level Sociology 2251 key question 3.3 in depth: migration, transnational companies, climate, urbanisation and theories of global inequality."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
