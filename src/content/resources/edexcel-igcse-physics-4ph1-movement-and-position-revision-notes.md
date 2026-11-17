@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "forces-and-motion"
     subtopic: "movement-and-position"
-description: "Recall notes on motion graphs, average speed, acceleration, v² = u² + 2as and the motion practical, with a self-test, for Edexcel International GCSE Physics 4PH1."
+description: "Recall notes on motion graphs, average speed, acceleration, v² = u² + 2as and the motion practical, with a self-test, for Edexcel IGCSE Physics 4PH1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

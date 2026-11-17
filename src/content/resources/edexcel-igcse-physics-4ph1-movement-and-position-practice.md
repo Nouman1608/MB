@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "forces-and-motion"
     subtopic: "movement-and-position"
-description: "Original practice questions with full answers on motion graphs, average speed, acceleration, v² = u² + 2as and the motion practical for Edexcel IGCSE Physics 4PH1."
+description: "Original questions with full answers on motion graphs, average speed, acceleration, v² = u² + 2as and the motion practical for Edexcel IGCSE Physics 4PH1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

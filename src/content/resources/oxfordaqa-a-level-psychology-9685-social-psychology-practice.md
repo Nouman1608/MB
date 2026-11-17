@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-introductory-topics-9685"
     subtopic: "social-psychology-9685"
-description: "Twelve original OxfordAQA 9685 social psychology questions: conformity and obedience data, scenarios on resistance, and extended evaluations of Asch and Milgram."
+description: "Twelve original OxfordAQA 9685 social psychology questions: conformity and obedience data, resistance scenarios and extended evaluations of Asch and Milgram."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

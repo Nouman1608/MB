@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-introductory-topics-9685"
     subtopic: "memory-9685"
-description: "Twelve original OxfordAQA 9685 memory questions: store features, dual-task and recall data, eyewitness scenarios and extended evaluations, with mark-scheme answers."
+description: "Twelve original OxfordAQA 9685 memory questions: store features, dual-task and recall data, eyewitness scenarios and extended evaluations, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

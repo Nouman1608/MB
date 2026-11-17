@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "forces-and-motion"
     subtopic: "forces-movement-shape-and-momentum"
-description: "Resultant force, F = ma, stopping distance, terminal velocity, Hooke's law, momentum, Newton's third law and moments for Edexcel International GCSE Physics 4PH1, 1c."
+description: "Resultant force, F = ma, stopping distance, terminal velocity, Hooke's law, momentum, Newton's third law and moments for Edexcel IGCSE Physics 4PH1, 1c."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
