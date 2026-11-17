@@ -133,8 +133,8 @@ Related: [stars and the Universe study guide](/resources/cambridge-igcse-physics
 *Common mistake:* in (b), describing a supernova. That is the path of a much more massive star.
 
 **11. (a)** 120 × 10⁶ × 9.5 × 10¹⁵ = **1.14 × 10²⁴ m** [1].
-**(b)** v = H₀d = 2.2 × 10⁻¹⁸ × 1.14 × 10²⁴ [1] = **2.5 × 10⁶ m/s** [1].
-**(c)** d / v = 1.14 × 10²⁴ ÷ 2.5 × 10⁶ [1] = **4.5 × 10¹⁷ s** (equal to 1/H₀) [1].
+**(b)** v = H₀d = 2.2 × 10⁻¹⁸ × 1.14 × 10²⁴ [1] = **2.5 × 10⁶ m/s** (2.51 × 10⁶) [1].
+**(c)** d / v = 1.14 × 10²⁴ ÷ 2.51 × 10⁶ [1] = **4.5 × 10¹⁷ s** (equal to 1/H₀) [1].
 **(d)** d/v is the time the galaxy would take to travel its present distance at its present speed, so it estimates how long ago the galaxies were together [1]; this suggests all the matter in the Universe was once at a single point [1]. **[7]**
 
 **12. (a)** Microwave radiation of a specific frequency [1] observed at all points in space around us (from every direction) [1].
