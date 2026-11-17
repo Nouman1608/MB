@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "law-of-contract-7162"
     subtopic: "contract-terms-exclusion-clauses-7162"
-description: "Condensed recall on exclusion clauses for AQA A Level Law 7162: incorporation cases, construction, the UCTA 1977 reasonableness test and CRA 2015 ss31, 57 and 65."
+description: "Condensed recall on exclusion clauses for AQA A Level Law 7162: incorporation cases, construction, UCTA 1977 reasonableness and CRA 2015 ss31, 57 and 65."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
