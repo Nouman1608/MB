@@ -1,0 +1,38 @@
+[
+ {
+  "file": "a-level-geography-9696-diurnal-energy-budgets-revision-notes--01-daytime-energy-budget.webp",
+  "width": 900,
+  "height": 790,
+  "after": "## Daytime budget",
+  "alt": "Cross-section of a ground surface by day. Incoming shortwave solar radiation arrives; some is reflected according to albedo, some is conducted into the ground, and the rest leaves as sensible heat to the air, emitted longwave radiation and latent heat used in evaporation. A box gives the six-component equation.",
+  "caption": "By day the surface gains more than it loses, so net radiation is positive and it warms.",
+  "bytes": 112560
+ },
+ {
+  "file": "a-level-geography-9696-diurnal-energy-budgets-revision-notes--02-night-time-energy-budget.webp",
+  "width": 900,
+  "height": 790,
+  "after": "## Night-time budget",
+  "alt": "Cross-section of a ground surface at night with no sun. The surface loses longwave radiation to the sky and cools, partly offset by heat conducted up from the ground, sensible heat from the air and latent heat released when dew or fog forms. A box gives the night-time equation.",
+  "caption": "With no solar input, longwave loss wins: net radiation is negative and the surface cools until dawn.",
+  "bytes": 91392
+ },
+ {
+  "file": "a-level-geography-9696-diurnal-energy-budgets-revision-notes--03-albedo-ranges.webp",
+  "width": 900,
+  "height": 800,
+  "after": "## Albedo values (approximate)",
+  "alt": "Bar chart of approximate albedo ranges: fresh snow 80 to 90 per cent, desert sand 30 to 40, grass and crops 20 to 25, forest 10 to 20 and asphalt under 10. Water is low when the sun is high and much higher at low sun angles.",
+  "caption": "Albedo is the reflected share: snow reflects most radiation, asphalt and forest very little.",
+  "bytes": 85266
+ },
+ {
+  "file": "a-level-geography-9696-diurnal-energy-budgets-revision-notes--04-night-time-phenomena.webp",
+  "width": 900,
+  "height": 800,
+  "after": "## Night-time phenomena",
+  "alt": "A valley cross-section on a clear, calm night. Dew forms on grass on the slopes, cold dense air drains downhill and collects on the valley floor as a frost hollow, and radiation fog fills the valley bottom. A side graph shows temperature rising with height near the ground in an inversion.",
+  "caption": "Clear, calm nights bring dew or frost, radiation fog, inversions and frost hollows.",
+  "bytes": 99878
+ }
+]

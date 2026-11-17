@@ -1,0 +1,14 @@
+{ "page": "oxfordaqa-a-level-biology-biological-molecules-enzymes-membranes-and-nucleic-acids-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp", "after": "## 3.1.1.1 Monomers and polymers" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--04-alpha-beta-glucose.webp", "after": "## 3.1.1.2 Carbohydrates" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--06-polysaccharides.webp", "after": "## 3.1.1.2 Carbohydrates" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--07-triglyceride-phospholipid.webp", "after": "## 3.1.1.3 Lipids" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp", "after": "## 3.1.1.4 Proteins" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--02-lock-key-induced-fit.webp", "after": "## 3.1.3 Enzymes" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp", "after": "## 3.1.3 Enzymes" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--15-fluid-mosaic.webp", "after": "## 3.1.4 Transport into and out of cells" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--01-nucleotide-chain.webp", "after": "## 3.1.7.1 Nucleic acids" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--04-replication-fork.webp", "after": "## 3.1.7.3 DNA replication" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp", "after": "## 3.1.8 Protein synthesis" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--07-translation-ribosome.webp", "after": "## 3.1.8 Protein synthesis" }
+] }

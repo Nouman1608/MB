@@ -1,0 +1,7 @@
+{ "page": "oxfordaqa-a-level-computer-science-records-queues-stacks-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--02-fifo-vs-lifo.webp", "after": "## Key terms" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--01-record-vs-array.webp", "after": "## Records" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--05-stack-array.webp", "after": "## Pointer rules" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--03-linear-queue-limit.webp", "after": "## Linear vs circular queue" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--04-circular-queue-trace.webp", "after": "## Worked example: circular queue trace" }
+] }

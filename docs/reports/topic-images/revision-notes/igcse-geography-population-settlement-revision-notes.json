@@ -1,0 +1,9 @@
+{ "page": "igcse-geography-population-settlement-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-geography-population-and-settlement--01-pop-dtm.webp", "after": "## The Demographic Transition Model" },
+ { "src": "https://img.marlbridge.com/igcse-geography-population-and-settlement--02-pop-pyramids.webp", "after": "## Population pyramids" },
+ { "src": "https://img.marlbridge.com/igcse-geography-population-and-settlement--03-pop-dependency.webp", "after": "## Population pyramids" },
+ { "src": "https://img.marlbridge.com/igcse-geography-population-and-settlement--04-pop-push-pull.webp", "after": "## Migration" },
+ { "src": "https://img.marlbridge.com/igcse-geography-population-and-settlement--05-pop-hierarchy.webp", "after": "## Settlement" },
+ { "src": "https://img.marlbridge.com/igcse-geography-population-and-settlement--06-pop-range-threshold.webp", "after": "## Settlement" },
+ { "src": "https://img.marlbridge.com/igcse-geography-population-and-settlement--07-pop-land-use.webp", "after": "## Settlement" }
+] }
