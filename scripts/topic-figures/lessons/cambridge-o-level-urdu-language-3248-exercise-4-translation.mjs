@@ -138,17 +138,17 @@ const ex = (x, y, w, u, g, o = {}) => `<rect x="${x}" y="${y}" width="${w}" heig
   let x = 54;
   const ex1 = [];
   en.forEach(([s, f, e], i) => { b += `<rect x="${x}" y="158" width="${ew[i]}" height="62" rx="10" fill="${f}" stroke="${e}" stroke-width="2.5"/>` + T(x + ew[i] / 2, 197, s, { size: 20, weight: 600, anchor: 'middle' }); ex1.push(x + ew[i] / 2); x += ew[i] + 14; });
-  b += T(846, 300, 'Urdu: subject, object, verb last', { size: 19, weight: 700, anchor: 'end' });
+  b += T(846, 440, 'Urdu: subject, object, verb last', { size: 19, weight: 700, anchor: 'end' });
   const uw2 = [150, 120, 220, 110];
   let ux = 846;
   const ux1 = [];
-  ur.forEach(([s, f, e], i) => { const w = uw2[i]; b += `<rect x="${ux - w}" y="318" width="${w}" height="72" rx="10" fill="${f}" stroke="${e}" stroke-width="2.5"/>` + U(ux - w / 2, 362, s, { size: 27, anchor: 'middle' }); ux1.push(ux - w / 2); ux -= w + 14; });
+  ur.forEach(([s, f, e], i) => { const w = uw2[i]; b += `<rect x="${ux - w}" y="330" width="${w}" height="72" rx="10" fill="${f}" stroke="${e}" stroke-width="2.5"/>` + U(ux - w / 2, 374, s, { size: 27, anchor: 'middle' }); ux1.push(ux - w / 2); ux -= w + 14; });
   // links: en index -> ur index
-  [[0, 0], [1, 3], [2, 1], [3, 2]].forEach(([a, c]) => { b += path(`M${ex1[a]},222 C${ex1[a]},268 ${ux1[c]},270 ${ux1[c]},314`, { w: 2.5, stroke: C.muted, extra: 'stroke-dasharray="6 5"' }); });
-  b += T(450, 432, 'Urdu reads right to left: the verb comes last, postpositions follow their nouns.', { size: 17, fill: C.muted, anchor: 'middle' });
-  b += panel(30, 456, 840, 92, '#fbf1ea', C.rust) + T(54, 494, 'English order with Urdu words', { size: 18, weight: 700, fill: C.rust }) + T(54, 522, 'a common mistake', { size: 16, fill: C.muted }) + U(846, 512, 'میں گیا بازار کل', { size: 27, fill: C.rust }) + tick(620, 506, false);
+  [[0, 0], [1, 3], [2, 1], [3, 2]].forEach(([a, c]) => { b += path(`M${ex1[a]},222 C${ex1[a]},276 ${ux1[c]},276 ${ux1[c]},326`, { w: 2.5, stroke: C.muted, extra: 'stroke-dasharray="6 5"' }); });
+  b += T(450, 478, 'Urdu reads right to left: the verb comes last, postpositions follow their nouns.', { size: 17, fill: C.muted, anchor: 'middle' });
+  b += panel(30, 502, 840, 92, '#fbf1ea', C.rust) + T(54, 540, 'English order with Urdu words', { size: 18, weight: 700, fill: C.rust }) + T(54, 568, 'a common mistake', { size: 16, fill: C.muted }) + U(846, 558, 'میں گیا بازار کل', { size: 27, fill: C.rust }) + tick(620, 552, false);
   add('02-word-order',
-    SV(576, 'Word order: the verb goes last', b),
+    SV(622, 'Word order: the verb goes last', b),
     'The English sentence "She gave the book to her brother" (subject, verb, object) becomes اس نے کتاب اپنے بھائی کو دی۔ (subject, object, verb), with the verb moved to the end and کو after the noun. میں گیا بازار کل keeps English order and is wrong.',
     'Subject, object, verb: move the verb to the end of the Urdu sentence.',
     '## Six changes English needs');
@@ -188,7 +188,7 @@ const ex = (x, y, w, u, g, o = {}) => `<rect x="${x}" y="${y}" width="${w}" heig
   b += panel(30, y, 840, 250) + T(54, y + 38, 'You and they: English hides register', { size: 20, weight: 700 });
   b += T(54, y + 92, 'you, to a friend', { size: 17, italic: true }) + ex(230, y + 56, 190, 'تم', '', { h: 70, ub: 48 });
   b += T(470, y + 92, 'you, to a teacher', { size: 17, italic: true }) + ex(656, y + 56, 190, 'آپ', '', { h: 70, ub: 48, fill: C.cream });
-  b += T(54, y + 176, 'My grandfather says...', { size: 17, italic: true }) + ex(330, y + 140, 250, 'میرے دادا کہتے ہیں', '', { h: 70, ub: 46 }) + tick(612, y + 178, true) + ex(646, y + 140, 200, 'کہتا ہے', '', { h: 70, ub: 46, fill: '#fbf1ea', ufill: C.rust });
+  b += T(54, y + 176, 'My grandfather says...', { size: 17, italic: true }) + ex(330, y + 140, 250, 'میرے دادا کہتے ہیں', '', { h: 70, ub: 46 }) + tick(354, y + 182, true) + ex(646, y + 140, 200, 'کہتا ہے', '', { h: 70, ub: 46, fill: '#fbf1ea', ufill: C.rust }) + tick(670, y + 182, false);
   b += T(54, y + 236, 'Keep the same form for the same person throughout.', { size: 16, fill: C.muted });
   add('04-articles-gender-register',
     SV(y + 278, 'Articles, gender and register', b),
@@ -201,7 +201,7 @@ const ex = (x, y, w, u, g, o = {}) => `<rect x="${x}" y="${y}" width="${w}" heig
 {
   let b = '', y = 110;
   [['It was raining cats and dogs.', 'موسلا دھار بارش ہو رہی تھی'], ['I am over the moon.', 'میں بے حد خوش ہوں'], ['He kept his word.', 'اس نے اپنا وعدہ پورا کیا']].forEach(([e, u], i) => {
-    b += panel(30, y, 840, 112) + T(54, y + 62, e, { size: 19, italic: true, weight: 600 }) + harrow(392, 432, y + 56, { w: 3.5 }) + ex(440, y + 16, 406, u, 'the meaning', { h: 80, ub: 44 });
+    b += panel(30, y, 840, 112) + T(54, y + 62, e, { size: 19, italic: true, weight: 600 }) + harrow(392, 432, y + 56, { w: 3.5 }) + ex(440, y + 16, 406, u, '', { h: 80, ub: 52 });
     y += 126;
   });
   b += panel(30, y + 4, 840, 84, C.cream, C.mustard) + T(450, y + 40, 'A word-for-word idiom is the clearest sign of literal translation.', { size: 18, weight: 700, anchor: 'middle' }) +
@@ -241,10 +241,10 @@ const ex = (x, y, w, u, g, o = {}) => `<rect x="${x}" y="${y}" width="${w}" heig
     ['I have been to many places since then, but I will never forget that trip.', ['اس کے بعد میں بہت سی جگہوں پر جا چکا ہوں، مگر وہ سفر کبھی نہیں بھولوں گا۔'], 'perfect for "have been"; the future negative keeps the promise-like tone'],
   ];
   rows.forEach(([e, us, n], i) => {
-    const H = 92 + us.length * 50 + 22;
+    const H = 102 + us.length * 50 + 22;
     b += panel(30, y, 840, H) + badge(62, y + 34, 17, String(i + 1), C.cream) + para(92, y + 40, e, 760, { size: 17, italic: true, lh: 22 }).s;
     const ey = y + 40 + wrap(e, 760, 17).length * 22;
-    us.forEach((u, k) => { b += U(846, ey + 30 + k * 50, u, { size: 23, fill: C.tealDark }); });
+    us.forEach((u, k) => { b += U(846, ey + 42 + k * 50, u, { size: 23, fill: C.tealDark }); });
     b += T(846, y + H - 14, n, { size: 15, fill: C.muted, anchor: 'end' });
     y += H + 10;
   });
@@ -261,7 +261,7 @@ const ex = (x, y, w, u, g, o = {}) => `<rect x="${x}" y="${y}" width="${w}" heig
   b += panel(30, 110, 840, 150) + T(54, 148, 'Punctuation changes', { size: 20, weight: 700 });
   [['.', '۔', 'full stop'], [',', '،', 'comma'], ['?', '؟', 'question mark']].forEach(([e, u, g], i) => {
     const x = 54 + i * 270;
-    b += `<rect x="${x}" y="168" width="250" height="74" rx="10" fill="${C.tealLight}"/>` + T(x + 50, 220, e, { size: 36, weight: 700, anchor: 'middle' }) + harrow(x + 80, x + 120, 205, { w: 3 }) + U(x + 150, 222, u, { size: 32, anchor: 'middle' }) + T(x + 186, 212, g, { size: 15, fill: C.tealDark });
+    b += `<rect x="${x}" y="164" width="250" height="82" rx="10" fill="${C.tealLight}"/>` + T(x + 70, 204, e, { size: 34, weight: 700, anchor: 'middle' }) + harrow(x + 105, x + 145, 192, { w: 3 }) + U(x + 180, 208, u, { size: 30, anchor: 'middle' }) + T(x + 125, 236, g, { size: 15, fill: C.tealDark, anchor: 'middle' });
   });
   b += panel(30, 280, 840, 150) + T(54, 318, 'Days and times', { size: 20, weight: 700 });
   [['on Monday', 'پیر کو'], ['at five o\'clock', 'پانچ بجے'], ['in 2025', '2025 میں']].forEach(([e, u], i) => {
@@ -272,7 +272,7 @@ const ex = (x, y, w, u, g, o = {}) => `<rect x="${x}" y="${y}" width="${w}" heig
   b += T(54, 526, 'There is a park near my house.', { size: 17, italic: true });
   const parts = [['میرے گھر کے قریب', 'place', C.tealLight], ['ایک پارک', 'thing', C.panel], ['ہے۔', 'verb', C.teal]];
   let x = 846;
-  [250, 160, 100].forEach((w, i) => { const [u, g, f] = parts[i]; b += `<rect x="${x - w}" y="544" width="${w}" height="82" rx="10" fill="${f}" stroke="${C.olive}" stroke-width="1.5"/>` + U(x - w / 2, 584, u, { size: 25, anchor: 'middle' }) + T(x - w / 2, 614, g, { size: 15, fill: C.olive, anchor: 'middle', italic: true }); x -= w + 12; });
+  [250, 160, 100].forEach((w, i) => { const [u, g, f] = parts[i]; b += `<rect x="${x - w}" y="544" width="${w}" height="82" rx="10" fill="${f}" stroke="${C.olive}" stroke-width="1.5"/>` + U(x - w / 2, 590, u, { size: 24, anchor: 'middle' }) + T(x - w / 2, 618, g, { size: 15, fill: C.olive, anchor: 'middle', italic: true }); x -= w + 12; });
   add('08-punctuation-and-structures',
     SV(668, 'Punctuation, dates and "there is"', b),
     'English full stops, commas and question marks become ۔، and ؟. Days and times: پیر کو، پانچ بجے، 2025 میں. "There is a park near my house" becomes میرے گھر کے قریب ایک پارک ہے۔: place, then the thing, then ہے.',

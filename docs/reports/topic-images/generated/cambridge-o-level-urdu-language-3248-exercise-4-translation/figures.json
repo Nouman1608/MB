@@ -11,11 +11,11 @@
  {
   "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--02-word-order.webp",
   "width": 900,
-  "height": 576,
+  "height": 622,
   "after": "## Six changes English needs",
   "alt": "The English sentence \"She gave the book to her brother\" (subject, verb, object) becomes اس نے کتاب اپنے بھائی کو دی۔ (subject, object, verb), with the verb moved to the end and کو after the noun. میں گیا بازار کل keeps English order and is wrong.",
   "caption": "Subject, object, verb: move the verb to the end of the Urdu sentence.",
-  "bytes": 76734
+  "bytes": 77878
  },
  {
   "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--03-tense-and-aspect.webp",
@@ -33,7 +33,7 @@
   "after": "## Six changes English needs",
   "alt": "Three changes. \"The\" is not translated and \"a\" becomes ایک only for something new (ایک آدمی نے دروازہ کھٹکھٹایا، دروازہ کھلا تھا). Gender must be chosen: پرانا مکان but پرانی عمارت. Register: تم to a friend, آپ to a teacher, and میرے دادا کہتے ہیں rather than کہتا ہے.",
   "caption": "English gives no help with gender or respect: decide both, then keep them consistent.",
-  "bytes": 102966
+  "bytes": 103372
  },
  {
   "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--05-idioms.webp",
@@ -42,7 +42,7 @@
   "after": "## Six changes English needs",
   "alt": "Three English idioms rendered by meaning: \"It was raining cats and dogs\" as موسلا دھار بارش ہو رہی تھی, \"I am over the moon\" as میں بے حد خوش ہوں, and \"He kept his word\" as اس نے اپنا وعدہ پورا کیا.",
   "caption": "Translate what the idiom means, never its words.",
-  "bytes": 67696
+  "bytes": 62650
  },
  {
   "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--06-exam-process.webp",
@@ -56,11 +56,11 @@
  {
   "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--07-worked-example.webp",
   "width": 900,
-  "height": 1096,
+  "height": 1146,
   "after": "## Worked example",
   "alt": "Five English sentences and their Urdu translations, for example \"Last summer my family visited Murree for the first time\" as پچھلی گرمیوں میں میرے گھر والے پہلی بار مری گئے۔, with notes on plural agreement, expanding \"crowded\", keeping the relative clause, the oblique ڈھابے پر, and the future negative.",
   "caption": "Each sentence keeps its meaning and its links, and reads as natural Urdu.",
-  "bytes": 208038
+  "bytes": 210090
  },
  {
   "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--08-punctuation-and-structures.webp",
@@ -69,6 +69,6 @@
   "after": "## Numbers, names, dates and punctuation",
   "alt": "English full stops, commas and question marks become ۔، and ؟. Days and times: پیر کو، پانچ بجے، 2025 میں. \"There is a park near my house\" becomes میرے گھر کے قریب ایک پارک ہے۔: place, then the thing, then ہے.",
   "caption": "Swap the punctuation, and build \"there is\" as place, thing, ہے.",
-  "bytes": 71820
+  "bytes": 71676
  }
 ]
