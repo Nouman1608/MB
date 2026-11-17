@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
     subtopic: "kq-3-1-2251"
-description: "Original Cambridge O Level Sociology 2251 practice on key question 3.1: caste, mobility, meritocracy, life chances, labelling and Marxism, with full answers."
+description: "Original Cambridge O Level Sociology 2251 practice on key question 3.1: caste, mobility, meritocracy, life chances, ethnicity and labelling, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
@@ -30,7 +30,7 @@ Related: [Key question 3.1 revision notes](/resources/cambridge-o-level-sociolog
 
 These questions practise key question 3.1 of Cambridge O Level Sociology (2251), *What is social
 stratification?* Section A follows the six-part (a)–(f) shape the syllabus describes for Paper 1
-Question 3. Section B gives extra practice on mobility, poverty, slavery and life chances.
+Question 3. Section B gives extra practice on mobility, caste, slavery and life chances.
 
 ---
 
@@ -42,15 +42,15 @@ Question 3. Section B gives extra practice on mobility, poverty, slavery and lif
 
 **(b)** Give **two** features of the traditional caste system. **[2]**
 
-**(c)** Explain **three** ways social class may affect a person's health. **[6]**
+**(c)** Explain **three** ways social class may affect a person's life chances in housing. **[6]**
 
-**(d)** Explain **three** ways labelling may create or reinforce social inequality. **[6]**
+**(d)** Explain **three** ways a person's ethnicity may affect their life chances. **[6]**
 
-**(e)** Discuss the Marxist explanation of social inequality. **[8]**
+**(e)** Discuss labelling theory as an explanation of social inequality. **[8]**
 
 **(f)** Evaluate the view that modern societies are meritocracies. **[14]**
 
-## Section B — Mobility, poverty and life chances
+## Section B — Mobility, caste and life chances
 
 **(g)** Explain the difference between intergenerational and intragenerational mobility. **[4]**
 
@@ -58,7 +58,7 @@ Question 3. Section B gives extra practice on mobility, poverty, slavery and lif
 
 **(i)** Explain what is meant by intersectionality, using an example. **[4]**
 
-**(j)** Explain the difference between absolute and relative poverty. **[4]**
+**(j)** Explain **two** reasons why caste-based disadvantage may continue after laws have banned it. **[4]**
 
 **(k)** Explain **two** ways gender may affect life chances in employment. **[4]**
 
@@ -77,37 +77,40 @@ example the child of a farm labourer becoming a doctor (1).
 hierarchy of four varnas with Dalits treated as outside; justified by religious belief.
 
 **(c) [6]** Three ways, 2 marks each:
-- Manual and low-paid jobs often involve more physical risks and stress, leading to injury and illness
-  (2).
-- Lower income limits access to healthy food, clean water and good housing, increasing disease (2).
-- Poorer people may not afford private healthcare or travel to hospitals, so illnesses are treated
-  later (2).
-- Middle-class people may have more health knowledge and confidence in dealing with doctors (2).
+- Low incomes may only cover overcrowded or poorly built homes, which affect health and leave children
+  without space to study (2).
+- Poorer families are more likely to rent, often with insecure tenancies, so they may be forced to
+  move and children change schools (2).
+- Working-class households may be concentrated in areas with poor sanitation, pollution or crime,
+  while wealthier families can choose safer areas (2).
+- Wealthier families can buy property, which gains value and can be passed to children as inherited
+  wealth (2).
 
 **(d) [6]** Three ways, 2 marks each:
-- **Stereotypes** lead teachers, employers or officials to treat some groups as less able, for example
-  assuming working-class pupils will not go to university (2).
-- **Master status:** a label such as "slum dweller" or "benefit claimant" overrides other qualities,
-  leading to discrimination in jobs or housing (2).
-- **Self-fulfilling prophecy:** people come to believe the label and lower their aims, so the
-  inequality the label predicted actually occurs; Rosenthal and Jacobson (1968) linked teacher
-  expectations to pupils' progress (2).
-- Labels applied by powerful groups, such as police or media, justify unequal treatment (2).
+- **Employment:** discrimination in recruitment or promotion may keep some ethnic minorities in
+  lower-paid or insecure work (2).
+- **Education:** language barriers or teacher stereotypes may lower attainment for some groups, while
+  other minority groups do very well, so effects vary (2).
+- **Housing:** discrimination by landlords or concentration in deprived areas may limit housing
+  quality (2).
+- **Health:** poorer access to services, or services that do not meet language and cultural needs,
+  may affect health outcomes (2).
 
 **(e) [8]** Levels: 7–8 developed points with evidence and evaluation; 4–6 some development; 1–3
 basic points.
-- Society is divided into the bourgeoisie, who own the means of production, and the proletariat, who
-  sell their labour.
-- **Exploitation:** workers create more value than they are paid; the bourgeoisie keep this surplus
-  value as profit.
-- **Ideological control:** education, media and religion spread ideas that make inequality seem fair,
-  creating false consciousness.
-- **Reserve army of labour:** unemployed and casual workers can replace those who demand more, keeping
-  wages low.
-- **Poverty trap:** the poor remain in poverty, which suits capitalism by providing cheap labour.
-- **Evaluation:** helps explain persistent class inequality and low pay; but neglects gender and
-  ethnicity (feminists, intersectionality); social mobility shows class is not fixed; functionalists
-  argue some inequality is needed to motivate talent.
+- Labelling theory looks at how people with power attach labels to less powerful groups, such as
+  teachers to pupils or officials to the poor.
+- **Stereotypes** about class, ethnicity, gender or age shape how people are treated, for example who
+  is offered a job or placed in a top set.
+- A label can become a **master status**, so a person is seen only as, say, "unemployed", overriding
+  their skills.
+- The **self-fulfilling prophecy**: people internalise the label and lower their aims, so the
+  inequality predicted comes true; Rosenthal and Jacobson (1968) linked teacher expectations to pupils'
+  progress.
+- Labels can be passed on through institutions, so inequality is reproduced across generations.
+- **Evaluation:** shows how everyday interaction produces inequality; but it is deterministic, since
+  many people reject labels; it says little about where inequality starts; Marxists argue structural
+  factors such as ownership of wealth matter more than labels.
 
 **(f) [14]** Levels: 11–14 balanced, developed, evaluated with a supported conclusion; 7–10 developed
 but less balanced; 4–6 limited; 1–3 basic.
@@ -150,10 +153,13 @@ age, combine and interact in a person's life (2), a term introduced by Kimberlé
 a low-paid woman from an ethnic minority may face sexism, racism and poverty together, creating
 disadvantages greater than any one factor alone (2).
 
-**(j) [4]** Absolute poverty means lacking the basic necessities for survival, such as food, water and
-shelter (1); it uses a fixed standard that can be applied in any society (1). Relative poverty means
-lacking the standard of living considered normal in a particular society (1); it changes as living
-standards in that society rise (1).
+**(j) [4]** Two reasons, 2 marks each:
+- Traditional beliefs about purity, status and marriage within the caste are passed on through
+  socialisation in families and communities, so attitudes change more slowly than laws (2).
+- Laws are hard to enforce, especially in rural areas where local power is held by higher-caste
+  groups (2).
+- Inherited disadvantage, such as lack of land, wealth and education, continues to limit life chances
+  even when discrimination is illegal (2).
 
 **(k) [4]** Two ways, 2 marks each:
 - Women may be paid less than men on average and be concentrated in lower-paid jobs (2).

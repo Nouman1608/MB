@@ -58,10 +58,10 @@ spending nearly twice as many hours on housework each week as boys.*
 
 **(c)** Explain **three** ethical problems with covert participant observation. **[6]**
 
-**(d)** Evaluate the view that unstructured interviews are the best method for researching sensitive
-topics. **[14]**
+**(d)** Evaluate the view that questionnaires are the most useful primary method for sociologists.
+**[14]**
 
-**(e)** You have been asked to investigate the experiences of migrant workers living in a large city.
+**(e)** You have been asked to investigate the working conditions of migrant workers in a large city.
 Explain the primary research methods, sampling and secondary evidence you would use, and give reasons
 for your choices. **[8]**
 
@@ -118,29 +118,34 @@ concept into something that can be measured (1), for example measuring social cl
 7–10 developed but less balanced; 4–6 limited or mainly descriptive; 1–3 basic.
 
 *For:*
-- Rapport and trust let people talk about painful or private experiences, such as domestic abuse or
-  bereavement.
-- Respondents use their own words and can explain meanings, giving high validity and verstehen.
-- Flexible: the interviewer can follow up unexpected answers and respond sensitively to distress.
-- Oakley's in-depth interviews with housewives (1974) show how the method reveals experiences that
-  closed questions miss.
+- They can reach large, geographically spread samples quickly and cheaply, so findings can be
+  representative and generalisable.
+- Standardised questions make them reliable: another researcher could repeat the study.
+- Closed, multiple-choice and scaled questions produce quantitative data that can show patterns,
+  trends and correlations, which positivists value.
+- Anonymous questionnaires may encourage honest answers on embarrassing topics, and there is no
+  interviewer effect.
+- They raise few ethical problems, since respondents choose whether to take part.
 
 *Against:*
-- Interviewer effect: respondents may hold back or shape answers according to the interviewer's age,
-  gender or status.
-- Some people prefer anonymity; an anonymous questionnaire may produce more honest answers on topics
-  such as illegal drug use.
-- Small samples and lack of standardisation reduce reliability and generalisability.
-- Emotional harm is possible, so the researcher needs skill and support available.
-- Group interviews can help some people speak when they hear others share similar experiences.
+- Response rates for postal and online questionnaires can be low, and non-respondents may differ from
+  respondents, so the sample becomes unrepresentative.
+- Interpretivists argue they lack validity: closed questions impose the researcher's categories, and
+  respondents cannot explain meanings.
+- No one is present to clarify confusing questions, though a pilot study reduces this problem.
+- People may give socially desirable answers or misremember behaviour.
+- Other methods are more useful for some aims: unstructured interviews, as in Oakley's study of
+  housewives (1974), or participant observation, as in Whyte's *Street Corner Society* (1943), reveal
+  meanings and hidden groups that questionnaires miss.
 
-*Conclusion:* unstructured interviews are often the most valid method for sensitive topics, but the
-best choice depends on whether the topic needs depth or anonymity, and triangulation may be stronger.
+*Conclusion:* questionnaires are the most useful method for measuring patterns in large populations,
+but not for understanding meanings or studying hidden groups, so usefulness depends on the research
+aim.
 
 **(e) [8]** Levels: 7–8 a clear plan with methods, sampling and secondary evidence all justified;
 4–6 some justification; 1–3 a list with little reasoning. Evaluation is not required. Example points:
-- **Method:** semi-structured interviews, because experiences need depth but some common questions
-  allow comparison; interpreters for workers who speak other languages.
+- **Method:** semi-structured interviews, because hours, pay, safety and treatment by employers need
+  depth while common questions allow comparison; interpreters for workers who speak other languages.
 - **Sampling:** snowball sampling through community groups or places of worship, because there is no
   complete list of migrant workers and some may distrust officials; a gatekeeper may help access.
 - **Secondary evidence:** official migration statistics for the city, to show numbers and countries
