@@ -397,8 +397,8 @@ const cross = (cx, cy, r = 15) => `<circle cx="${cx}" cy="${cy}" r="${r}" fill="
 // 06 Word budget for 800 words
 {
   const Y = 140;
-  const segs = [['Intro', 70, C.cream], ['Paragraph 1', 200, C.teal], ['Paragraph 2', 200, C.tealLight], ['Paragraph 3', 200, C.teal], ['End', 70, C.cream]];
-  const tot = 740;
+  const segs = [['Intro', 100, C.cream], ['Paragraph 1', 200, C.teal], ['Paragraph 2', 200, C.tealLight], ['Paragraph 3', 200, C.teal], ['End', 100, C.cream]];
+  const tot = segs.reduce((a, [, n]) => a + n, 0); // 800
   let s = T(30, Y - 6, 'Words per section', { size: 17, weight: 700, fill: C.muted }), x = 30;
   const xs = [];
   segs.forEach(([lab, n, f], i) => {
@@ -416,9 +416,9 @@ const cross = (cx, cy, r = 15) => `<circle cx="${cx}" cy="${cy}" r="${r}" fill="
   s += lt(0, ['Answer', 'the task;', 'name the', 'main', 'context']) + lt(4, ['A', 'judgement', 'drawing', 'contexts', 'together']);
   const n = note(Y + 310, 'If a context sentence could be removed without weakening the paragraph, cut it and use the words for analysis.', { title: 'The cut test' });
   s += n.s;
-  add('06-word-budget',
+  add('06-word-budget-800',
     svg(900, Math.round(Y + 310 + n.h + 24), 'A word budget for 800 words', s),
-    'A bar divides the essay into an introduction of 70 words, three paragraphs of about 200 words and a conclusion of 70 words. Each paragraph stacks a moment, a method, a context and a link to the task. A note gives the cut test for context sentences.',
+    'A bar divides the essay into an introduction of about 100 words, three paragraphs of about 200 words and a conclusion of about 100 words, 800 in total. Each paragraph stacks a moment, a method, a context and a link to the task. A note gives the cut test for context sentences.',
     'Every paragraph needs a moment, a method, a context and a link to the task.',
     '## A word budget for 800 words');
 }

@@ -107,12 +107,12 @@ punishment, policing and law enforcement)
 
 ## How to approach it
 
-Because candidates answer on only 2 of these 3 topics, a practical
-revision strategy is to prepare all three to a reasonable standard
-early, then commit to genuinely deep revision on two closer to the
-exam — abandoning a topic too early risks being caught out if the
-exam's specific questions on the other two are less comfortable than
-expected. For Family (Topic 4), strong answers move beyond describing the
+Because candidates answer on only 2 of these 3 topics, decide early
+which two you will prepare in depth (usually the two your school
+teaches) rather than spreading equal revision time across all three.
+If you have been taught all three, keep the third at a working level
+as a fallback in case a question on one of your two is less
+comfortable than expected. For Family (Topic 4), strong answers move beyond describing the
 nuclear family as a fixed norm and can discuss real variation — 
 extended families, single-parent families, and changing patterns such
 as smaller family size or delayed marriage — and can explain a

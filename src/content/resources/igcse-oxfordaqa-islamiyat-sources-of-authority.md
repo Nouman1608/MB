@@ -147,8 +147,9 @@ able to say anything about what makes them significant as collections.
 
 ## Quick revision checklist
 
-- Be able to place the Qur'an, Hadith/Sunnah, Ijma and Qiyas in order of
-authority and explain why.
+- Be able to explain the role of the Qur'an, Hadith/Sunnah, Ijma and Qiyas
+and how they relate, using the common scholarly account above (the
+specification itself sets no fixed ranking).
 - Learn the four Hadith reliability categories and the Isnad/Matn test.
 - Separate the Qur'an's revelation, preservation and compilation as
 distinct stages.

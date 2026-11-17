@@ -109,7 +109,7 @@ A common prompt is ACCESS FM: aesthetics, cost, customer, environment, size, saf
 Finish with a short **conclusion**: which features inspire your solution, and which weaknesses it must avoid. Three products analysed in depth beat ten listed with a photo each.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--05-analysing-existing-products.webp" width="900" height="725" alt="Three existing products from the kit-carrier example are judged on what each does well, what it does badly for the client and what idea could be adapted: a mesh ball bag, a folding cart and a large holdall. The conclusion is to adapt the cart’s single-trip capacity and the mesh bag’s ventilation and avoid small wheels on grass." loading="lazy">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--05-existing-products-analysed.webp" width="900" height="725" alt="Three existing products from the kit-carrier example are judged on what each does well, what it does badly for the client and what idea could be adapted: a mesh ball bag, a folding cart and a large holdall. The conclusion is to adapt the cart’s single-trip capacity, the mesh bag’s ventilation and the holdall’s dry pocket for bibs, and to avoid small wheels on grass." loading="lazy">
   <figcaption>Analysis says what each product means for your design, then draws a conclusion.</figcaption>
 </figure>
 
@@ -151,7 +151,7 @@ The brief says **what** is needed and **why**. It does not list measurable requi
 | How do existing carriers perform? | Primary and secondary | Test a club bag; read product reviews | Shows features to adapt |
 | How much can a coach comfortably lift? | Secondary | Published manual-handling guidance | Sets a safe load limit |
 
-**Step 5 -- analyse existing products.** A mesh ball bag is light and cheap but holds nothing else. A folding cart carries the whole load but its small wheels stick on grass. A large holdall keeps bibs dry but is awkward at 9.6 kg. Conclusion: adapt the cart's single-trip capacity, the mesh bag's ventilation for wet balls, and avoid small wheels on grass.
+**Step 5 -- analyse existing products.** A mesh ball bag is light and cheap but holds nothing else. A folding cart carries the whole load but its small wheels stick on grass. A large holdall keeps bibs dry but is awkward at 9.6 kg. Conclusion: adapt the cart's single-trip capacity, the mesh bag's ventilation for wet balls and the holdall's dry pocket for bibs, and avoid small wheels on grass.
 
 **Step 6 -- design brief.**
 

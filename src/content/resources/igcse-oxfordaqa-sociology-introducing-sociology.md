@@ -149,7 +149,7 @@ and Moore, Freire, Illich, Samson):**
 | Perspective | Core idea |
 |---|---|
 | Functionalism (Davis and Moore) | Education allocates roles by ability and socialises shared values — "role allocation" |
-| Marxism (Bourdieu) | Education reproduces class inequality; better-off pupils have more "cultural capital," which schools reward |
+| Conflict view: cultural reproduction (Bourdieu) | Education reproduces class inequality; better-off pupils have more "cultural capital," which schools reward. Bourdieu is often taught alongside Marxist views, but he was not a Marxist himself |
 | Radical/critical (Freire, Illich) | Traditional schooling can suppress critical thought rather than develop it |
 
 **Relationships and processes in school:** a teacher's **label** for a
@@ -192,7 +192,7 @@ the perspectives in 3.1.2.2.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--05-curriculum-perspectives.webp" width="900" height="484" alt="Top: the official curriculum is the subjects formally taught; the hidden curriculum teaches punctuality, respect for authority and competitiveness through routine. Below, three perspectives: functionalist role allocation, Bourdieu on cultural capital reproducing class inequality, and Freire and Illich on schooling suppressing critical thought." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--05-curriculum-and-perspectives.webp" width="900" height="484" alt="Top: the official curriculum is the subjects formally taught; the hidden curriculum teaches punctuality, respect for authority and competitiveness through routine. Below, three perspectives: functionalist role allocation, Bourdieu on cultural capital reproducing class inequality, and Freire and Illich on schooling suppressing critical thought." loading="lazy">
   <figcaption>Schools teach more than subjects; the perspectives disagree about what that does.</figcaption>
 </figure>
 

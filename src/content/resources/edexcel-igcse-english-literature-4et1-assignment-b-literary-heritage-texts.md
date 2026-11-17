@@ -177,15 +177,15 @@ reception) and builds an argument about the play's double effect (AO1).
 
 | Section | Words | Purpose |
 |---|---|---|
-| Introduction | 70 | Answer the task directly; name the main context you will use |
+| Introduction | about 100 | Answer the task directly; name the main context you will use |
 | Three paragraphs | about 200 each | Moment, method, context, link to task |
-| Conclusion | 70 | A judgement that draws the contexts together |
+| Conclusion | about 100 | A judgement that draws the contexts together |
 
 If a context sentence could be removed without weakening the paragraph, cut it and use the words for
 analysis.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts--06-word-budget.webp" width="900" height="586" alt="A bar divides the essay into an introduction of 70 words, three paragraphs of about 200 words and a conclusion of 70 words. Each paragraph stacks a moment, a method, a context and a link to the task. A note gives the cut test for context sentences." loading="lazy">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts--06-word-budget-800.webp" width="900" height="586" alt="A bar divides the essay into an introduction of about 100 words, three paragraphs of about 200 words and a conclusion of about 100 words, 800 in total. Each paragraph stacks a moment, a method, a context and a link to the task. A note gives the cut test for context sentences." loading="lazy">
   <figcaption>Every paragraph needs a moment, a method, a context and a link to the task.</figcaption>
 </figure>
 

@@ -165,9 +165,9 @@ Explanations for change include secularisation, changes in divorce law, women's 
 
 **Functionalists** (Durkheim, Parsons) see education as transmitting shared norms, teaching specialist skills, and acting as a bridge between family and wider society, allocating roles by merit.
 
-**Marxists** (Bowles and Gintis) argue the **hidden curriculum** reproduces class inequality through a correspondence between school and workplace — obedience, hierarchy, acceptance of extrinsic reward.
+**Marxists** (Bowles and Gintis) argue the **hidden curriculum** reproduces class inequality through a correspondence between school and workplace — obedience, hierarchy, acceptance of extrinsic reward. **Willis**, also writing from a Marxist perspective (as the specification presents him), studied working-class "lads" who formed a **counter-school culture**; unlike Bowles and Gintis, he argues schooling does not simply produce obedient workers, though the lads' rejection of school still led them into manual work.
 
-**Interactionists** focus on processes inside school: **labelling**, the **self-fulfilling prophecy**, and **setting and streaming** creating pro- and anti-school subcultures — **Willis**'s study of a group of working-class boys forming a counter-school culture is the specification's named example of an anti-school subculture, though the specification presents Willis as writing from a Marxist perspective.
+**Interactionists** focus on processes inside school: **labelling**, the **self-fulfilling prophecy**, and **setting and streaming** creating pro- and anti-school subcultures. Willis's counter-school culture is the specification's named example of an anti-school subculture, but remember it is a Marxist study: his observation-based methods look interactionist, his explanation is Marxist.
 
 ## Explaining differential achievement
 

@@ -16258,3 +16258,22 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
   - No `teacher-verifications.json` record was added (0 records): those need per-resource evidence (D-448), and an owner statement is not that.
   - OT-4 is closed as superseded by D-477. The other teacher tasks (OT-1, 2, 3, 5, 6, 7) are work items, not review statuses, and stay open.
 - **Topic images.** New `scripts/report-topic-images-needed.mjs` writes `docs/reports/topic-images/topic-images-needed.{md,csv}`. It lists 284 topic lessons in 34 courses and 46 AP study guides with no figure, plus 18 optional course-overview pages and 669 revision notes, which normally reuse their lesson's figures.
+
+## D-485 - Topic figures for all 330 listed pages; lesson-text corrections found while drawing them (17 Nov 2026)
+
+- Owner, 16-17 Nov 2026: "make these [topic images]", "add the figures to the lesson pages", "upload the images to img.marlbridge.com", "fix the 20 issues".
+- **Figures.** Every page in `docs/reports/topic-images/topic-images-needed.csv` (284 topic lessons, 46 AP study guides) now has figures: 2,114 new house-style WebP figures plus 63 reused existing ones, placed at the end of the section each illustrates. Sources and builder: `scripts/topic-figures/`; outputs, alt text and captions: `docs/reports/topic-images/generated/`. All 2,162 figure URLs were verified live on img.marlbridge.com (R2 bucket `marlbridge-figures`). The report now lists 0 lessons and 0 AP guides without a figure.
+- **Lesson-text corrections** (flagged while drawing; reviewer credits unchanged):
+  - `aqa-gcse-sociology-research-methods`: named random, systematic, quota and snowball sampling, as the 8192 specification's key concepts do; stratified sampling is not listed there. Figure 03 redrawn.
+  - `igcse-oxfordaqa-sociology-introducing-sociology`: Bourdieu is no longer labelled Marxist; the 9292 specification names him without a perspective. Shown as a conflict view (cultural reproduction). Figure 05 redrawn.
+  - `aqa-gcse-sociology-families-and-education`: Willis moved under the Marxist view, as the 8192 specification presents him ("writing from a Marxist perspective").
+  - `igcse-oxfordaqa-islamiyat-living-muslim-life`: Arafat is described as the essential rite held where the Farewell Sermon was delivered, not as commemorating it.
+  - `igcse-oxfordaqa-islamiyat-sources-of-authority`: the checklist no longer asks for a ranking the page says the specification does not set.
+  - `edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts`: the "800 words" budget now adds up (about 100 + 3 x 200 + about 100). Figure 06 redrawn.
+  - `o-level-sociology-family-education-crime`: Paper 2 revision advice now matches the IGCSE 0495 guide (choose two topics early; keep a taught third as a fallback).
+  - `igcse-cambridge-sociology-family-education-crime`: family structures now include the extended sub-types (modified, horizontal, vertical/beanpole), as in the O Level 2251 guide.
+  - `cambridge-igcse-islamiyat-rightly-guided-caliphs`: "Medina" spelt "Madinah", as on the other Islamiyat pages. Figures 02 and 03 redrawn.
+  - `ib-myp-design-criterion-a-inquiring-and-analysing`: the worked example now gives an idea to adapt for all three products (the holdall's dry pocket for bibs). Figure 05 redrawn.
+  - Redrawn figures have new file names, because published images are cached for a year.
+- **Checked, no change needed:** 9699 Paper 2 weighting (50% AS, 25% A Level) is correct; OxfordAQA 9292 sections 3.2.2.3-3.2.2.4 do carry the mismatched titles the guide describes; the GP 9239 written-exam "own pages" line does list its links; the two MYP Design stool examples are separate fictional datasets for different age groups; the IGCSE and O Level Paper 1 descriptions of Makkan surahs differ in emphasis, not in fact; Beck's *Risk Society* (1986, English 1992) is dated correctly.
+- **Not verified here:** MYP Language Acquisition eAssessment marks per criterion (IB guide not public). Left as written.

@@ -238,29 +238,36 @@ const dot = (cx, cy, on, o = {}) => `<circle cx="${cx}" cy="${cy}" r="${o.r || 1
 {
   let s = '';
   s += box(30, 108, 840, 84, { fill: C.cream, edge: C.olive }) + label(54, 142, 'First: a pilot study', { size: 20, weight: 700 }) + label(54, 172, 'A small trial run to fix question wording, timing or procedure while it is still cheap and easy', { size: 17 });
-  const cw = 268, y = 212, ch = 400;
-  const card = (x, head, art, txt) => headPanel(x, y, cw, ch, head, { fill: C.teal, size: 21 }).svg + art + para(x + 16, y + 270, cw - 32, txt, { size: 16 }).svg;
-  // random
-  let a1 = ''; const pick = new Set([1, 8, 12, 19, 22]);
-  for (let r = 0; r < 4; r++) for (let c = 0; c < 6; c++) a1 += dot(30 + 34 + c * 40, y + 90 + r * 42, pick.has(r * 6 + c));
-  s += card(30, 'Random', a1, 'Every member of the target population has an equal chance of selection.');
-  // stratified
-  let a2 = ''; const x2 = 30 + cw + 18;
-  [['under 30', C.tealLight], ['30 to 60', C.cream], ['over 60', C.sand]].forEach(([g, f], r) => {
-    a2 += `<rect x="${x2 + 14}" y="${y + 70 + r * 58}" width="${cw - 28}" height="48" rx="8" fill="${f}" stroke="${C.panelEdge}" stroke-width="2"/>`;
-    for (let c = 0; c < 4; c++) a2 += dot(x2 + 36 + c * 32, y + 94 + r * 58, c === 0, { fill: '#ffffff' });
-    a2 += label(x2 + cw - 24, y + 100 + r * 58, g, { size: 15, weight: 700, anchor: 'end', fill: C.muted });
+  // The four sampling methods named in the AQA 8192 specification's key concepts.
+  const cw = 196, gap = 18, y = 212, ch = 400;
+  const card = (x, head, art, txt) => headPanel(x, y, cw, ch, head, { fill: C.teal, size: 20 }).svg + art + para(x + 14, y + 262, cw - 28, txt, { size: 16 }).svg;
+  const X = (i) => 30 + i * (cw + gap);
+  // random: picks scattered across the whole grid
+  let a1 = ''; const pick = new Set([1, 6, 11, 14]);
+  for (let r = 0; r < 4; r++) for (let c = 0; c < 5; c++) a1 += dot(X(0) + 34 + c * 32, y + 88 + r * 40, pick.has(r * 5 + c));
+  s += card(X(0), 'Random', a1, 'Every member of the target population has an equal chance of selection.');
+  // systematic: every nth name on a list
+  let a2 = '';
+  for (let r = 0; r < 4; r++) for (let c = 0; c < 5; c++) { const k = r * 5 + c; a2 += dot(X(1) + 34 + c * 32, y + 88 + r * 40, k % 4 === 3); }
+  a2 += label(X(1) + cw / 2, y + 232, 'every 4th name', { size: 15, weight: 700, anchor: 'middle', fill: C.muted });
+  s += card(X(1), 'Systematic', a2, 'Take every nth name from a list (sampling frame). A patterned list can bias it.');
+  // quota: fill set numbers for each group
+  let a3 = '';
+  [['women', 4, C.cream], ['men', 3, C.tealLight]].forEach(([g, n, f], r) => {
+    a3 += `<rect x="${X(2) + 12}" y="${y + 74 + r * 82}" width="${cw - 24}" height="66" rx="8" fill="${f}" stroke="${C.panelEdge}" stroke-width="2"/>`;
+    a3 += label(X(2) + 24, y + 98 + r * 82, `${g}: quota ${n}`, { size: 15, weight: 700, fill: C.muted });
+    for (let c = 0; c < n; c++) a3 += dot(X(2) + 34 + c * 30, y + 122 + r * 82, true, { r: 9 });
   });
-  s += card(x2, 'Stratified', a2, 'Divide the population into subgroups (such as age or gender) and sample proportionally from each.');
-  // snowball
-  let a3 = ''; const x3 = 30 + 2 * (cw + 18); const pts = [[50, 80], [120, 110], [200, 80], [180, 170], [90, 190], [230, 150]];
-  [[0, 1], [1, 2], [1, 4], [2, 5], [5, 3]].forEach(([p, q]) => { const [ax, ay] = pts[p], [bx, by] = pts[q]; const L = Math.hypot(bx - ax, by - ay), ux = (bx - ax) / L, uy = (by - ay) / L; a3 += arrow(x3 + ax + ux * 13, y + ay + uy * 13, x3 + bx - ux * 15, y + by - uy * 15, { w: 2.5 }); });
-  pts.forEach(([px, py], i) => { a3 += dot(x3 + px, y + py, i === 0); });
-  s += card(x3, 'Snowball', a3, 'Participants recruit others from their own networks: useful for hard-to-reach groups.');
+  s += card(X(2), 'Quota', a3, 'Fill set numbers for each group to match the population. No sampling frame needed.');
+  // snowball: participants recruit others
+  let a4 = ''; const pts = [[40, 78], [100, 104], [160, 76], [150, 160], [70, 176], [172, 222]];
+  [[0, 1], [1, 2], [1, 4], [2, 3], [3, 5]].forEach(([p, q]) => { const [ax, ay] = pts[p], [bx, by] = pts[q]; const L = Math.hypot(bx - ax, by - ay), ux = (bx - ax) / L, uy = (by - ay) / L; a4 += arrow(X(3) + ax + ux * 13, y + ay + uy * 13, X(3) + bx - ux * 15, y + by - uy * 15, { w: 2.5 }); });
+  pts.forEach(([px, py], i) => { a4 += dot(X(3) + px, y + py, i === 0); });
+  s += card(X(3), 'Snowball', a4, 'Participants recruit others from their own networks: useful for hard-to-reach groups.');
   const n = note(y + ch + 18, null, 'The sampling method decides how representative the sample is, and so how confidently findings can be generalised.');
-  add('03-pilot-and-sampling',
+  add('03-pilot-and-four-samples',
     svg(900, Math.round(y + ch + 18 + n.h + 24), 'Pilot first, then choose a sample', s + n.svg),
-    'A pilot study comes first to fix problems cheaply. Then three sampling methods: random, where everyone has an equal chance; stratified, where the population is split into subgroups such as age bands and sampled proportionally; and snowball, where participants recruit others from their networks.',
+    'A pilot study comes first to fix problems cheaply. Then four sampling methods: random, where everyone has an equal chance; systematic, taking every nth name from a list; quota, filling set numbers for each group to match the population; and snowball, where participants recruit others from their networks.',
     'How you sample decides how far you can generalise.',
     '## Sampling and pilot studies');
 }

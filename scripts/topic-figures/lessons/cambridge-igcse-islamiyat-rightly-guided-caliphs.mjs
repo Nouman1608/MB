@@ -58,7 +58,7 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
 // 02 Timeline 632-661 with main events
 {
   const cal = [
-    ['Abu Bakr', 632, 634, ['Ridda wars: tribes renounced allegiance to Medina', 'Held the community together'], C.cream, C.mustard],
+    ['Abu Bakr', 632, 634, ['Ridda wars: tribes renounced allegiance to Madinah', 'Held the community together'], C.cream, C.mustard],
     ['Umar ibn al-Khattab', 634, 644, ['Rapid territorial expansion', 'Built the administration: taxation, the diwan, treatment of non-Muslim subjects'], C.tealLight, C.tealDark],
     ['Uthman ibn Affan', 644, 656, ['Standardised written Qur\'an sent to the major centres', 'Growing unrest; assassinated'], C.cream, C.mustard],
     ['Ali ibn Abi Talib', 656, 661, ['First Fitna: Battles of the Camel and Siffin', 'Shaped the later Sunni-Shi\'a division'], C.tealLight, C.tealDark],
@@ -79,7 +79,7 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
     let y = 362;
     ev.forEach((s) => { b += `<circle cx="${x + 18}" cy="${y - 6}" r="5" fill="${e}"/>` + para(x + 32, y, s, cw - 44, { size: 16 }, 21); y += nl(s, 16, cw - 44) * 21 + 16; });
   });
-  add('02-caliphs-timeline',
+  add('02-rightly-guided-caliphs-timeline',
     svg(900, 578, 'The Rightly Guided Caliphs, 632–661', b),
     'A scaled timeline from 632 to 661 CE divided into Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (656–661), with a card of main events for each: the Ridda wars; expansion and the diwan; the standardised Qur\'an and Uthman\'s assassination; and the First Fitna with the Battles of the Camel and Siffin.',
     'Four Caliphs in order, each with the events that define his rule.',
@@ -88,14 +88,14 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
 
 // 03 Revision triad
 {
-  const slots = [['1', 'One achievement', 'Held the community together after the Prophet\'s death', C.tealLight, C.tealDark], ['2', 'One difficulty', 'The Ridda wars: tribes renounced allegiance to Medina', '#f3dccd', C.rust], ['3', 'One sentence linking it to leadership', 'His firmness is seen as critical to Islam\'s survival as a unified community', C.cream, C.mustard]];
+  const slots = [['1', 'One achievement', 'Held the community together after the Prophet\'s death', C.tealLight, C.tealDark], ['2', 'One difficulty', 'The Ridda wars: tribes renounced allegiance to Madinah', '#f3dccd', C.rust], ['3', 'One sentence linking it to leadership', 'His firmness is seen as critical to Islam\'s survival as a unified community', C.cream, C.mustard]];
   let b = t(450, 128, 'Example: Abu Bakr', { size: 20, weight: 700, anchor: 'middle', fill: C.muted });
   slots.forEach(([n, h, d, f, e], i) => {
     const y = 148 + i * 116;
     b += rect(30, y, 840, 100, f, e, 2.5, 14) + badge(76, y + 50, 24, n, C.panel) + t(120, y + 40, h, { size: 21, weight: 700 }) + t(120, y + 72, d, { size: 18, fill: C.ink });
   });
   b += rect(30, 506, 840, 64, C.panel, C.panelEdge, 2.5, 14) + t(450, 546, 'Repeat for Umar, Uthman and Ali before the exam.', { size: 19, weight: 600, anchor: 'middle' });
-  add('03-revision-triad',
+  add('03-abu-bakr-revision-triad',
     svg(900, 594, 'One achievement, one difficulty, one link', b),
     'A three-slot revision card filled in for Abu Bakr: achievement, holding the community together; difficulty, the Ridda wars; and a linking sentence, that his firmness was critical to Islam\'s survival as a unified community. A note says to repeat it for the other three Caliphs.',
     'Prepare the same three slots for each Caliph so comparisons come easily.',

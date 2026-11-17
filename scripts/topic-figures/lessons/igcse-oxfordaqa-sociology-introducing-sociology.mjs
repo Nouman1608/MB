@@ -300,11 +300,11 @@ const ln = (x1, y1, x2, y2, o = {}) => `<line x1="${x1}" y1="${y1}" x2="${x2}" y
   ['punctuality', 'authority', 'competition'].forEach((w, i) => { s += `<rect x="${482 + i * 128}" y="206" width="116" height="36" rx="18" fill="#ffffff" stroke="${C.ink}" stroke-width="2"/>` + label(540 + i * 128, 230, w, { size: 15, weight: 600, anchor: 'middle' }); });
   const r = cardRow(286, [
     { head: 'Functionalism', fill: C.teal, sub: 'Davis and Moore', body: 'Allocates roles by ability and socialises shared values: “role allocation”' },
-    { head: 'Marxism', fill: C.tealLight, sub: 'Bourdieu', body: 'Reproduces class inequality: schools reward the “cultural capital” of better-off pupils' },
+    { head: 'Conflict view', fill: C.tealLight, sub: 'Bourdieu', body: 'Cultural reproduction: schools reward the “cultural capital” of better-off pupils' },
     { head: 'Radical / critical', fill: C.cream, sub: 'Freire, Illich', body: 'Traditional schooling can suppress critical thought rather than develop it' },
   ], { size: 16, headSize: 19 });
   s += r.svg;
-  add('05-curriculum-perspectives',
+  add('05-curriculum-and-perspectives',
     svg(900, 286 + r.h + 24, 'What schools teach, and why', s),
     'Top: the official curriculum is the subjects formally taught; the hidden curriculum teaches punctuality, respect for authority and competitiveness through routine. Below, three perspectives: functionalist role allocation, Bourdieu on cultural capital reproducing class inequality, and Freire and Illich on schooling suppressing critical thought.',
     'Schools teach more than subjects; the perspectives disagree about what that does.',

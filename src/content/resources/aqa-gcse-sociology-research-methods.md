@@ -95,15 +95,15 @@ practical benefit.
 Before collecting data, researchers must decide how to select participants and often test their approach
 first. A pilot study is a small-scale trial run of the research method, carried out before the main study,
 to identify problems with question wording, timing, or procedure while they are still cheap and easy to
-fix. Sampling methods used in sociological research include random sampling (every member of the target
-population has an equal chance of selection), stratified sampling (the population is divided into
-relevant subgroups, such as age or gender, and sampled proportionally from each), and snowball sampling
-(existing participants recruit further participants from their own networks, useful for hard-to-reach
-groups). The choice of sampling method affects how representative the final sample is of the wider
+fix. The specification names four sampling methods: random sampling (every member of the target
+population has an equal chance of selection), systematic sampling (every nth name is taken from a
+list, the sampling frame), quota sampling (the researcher fills set numbers for each group, such as age
+or gender, to match the population, without needing a sampling frame) and snowball sampling (existing
+participants recruit further participants from their own networks, useful for hard-to-reach groups). The choice of sampling method affects how representative the final sample is of the wider
 population being studied, which in turn affects how confidently findings can be generalised.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-sociology-research-methods--03-pilot-and-sampling.webp" width="900" height="736" alt="A pilot study comes first to fix problems cheaply. Then three sampling methods: random, where everyone has an equal chance; stratified, where the population is split into subgroups such as age bands and sampled proportionally; and snowball, where participants recruit others from their networks." loading="lazy">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-research-methods--03-pilot-and-four-samples.webp" width="900" height="736" alt="A pilot study comes first to fix problems cheaply. Then four sampling methods: random, where everyone has an equal chance; systematic, taking every nth name from a list; quota, filling set numbers for each group to match the population; and snowball, where participants recruit others from their networks." loading="lazy">
   <figcaption>How you sample decides how far you can generalise.</figcaption>
 </figure>
 

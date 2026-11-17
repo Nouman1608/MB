@@ -130,7 +130,7 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
   const rows = [
     ['Mesh ball bag', ['light and cheap'], ['holds nothing else'], ['ventilation for', 'wet balls']],
     ['Folding cart', ['carries the', 'whole load'], ['small wheels stick', 'on grass'], ['single-trip', 'capacity']],
-    ['Large holdall', ['keeps bibs dry'], ['awkward at 9.6 kg'], ['—']],
+    ['Large holdall', ['keeps bibs dry'], ['awkward at 9.6 kg'], ['dry pocket for bibs']],
   ];
   rows.forEach(([name, a, c, d], j) => {
     const y = 175 + j * 112;
@@ -141,11 +141,11 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
   });
   b += arrow(450, 515, 450, 540, { w: 3.5 });
   b += panel(30, 545, 840, 120, C.cream, C.olive) + t(55, 582, 'Conclusion', { size: 20, weight: 700 }) +
-    tl(55, 612, ['Adapt the cart’s single-trip capacity and the mesh bag’s ventilation;', 'avoid small wheels on grass.'], { size: 17 }, 24);
+    tl(55, 612, ['Adapt the cart’s single-trip capacity, the mesh bag’s ventilation and the', 'holdall’s dry pocket for bibs; avoid small wheels on grass.'], { size: 17 }, 24);
   b += t(450, 700, 'Three products analysed in depth beat ten listed with a photo each.', { size: 17, anchor: 'middle', fill: C.tealDark, weight: 600 });
-  add('05-analysing-existing-products',
+  add('05-existing-products-analysed',
     svg(900, 725, 'Analysing existing products', b),
-    'Three existing products from the kit-carrier example are judged on what each does well, what it does badly for the client and what idea could be adapted: a mesh ball bag, a folding cart and a large holdall. The conclusion is to adapt the cart’s single-trip capacity and the mesh bag’s ventilation and avoid small wheels on grass.',
+    'Three existing products from the kit-carrier example are judged on what each does well, what it does badly for the client and what idea could be adapted: a mesh ball bag, a folding cart and a large holdall. The conclusion is to adapt the cart’s single-trip capacity, the mesh bag’s ventilation and the holdall’s dry pocket for bibs, and to avoid small wheels on grass.',
     'Analysis says what each product means for your design, then draws a conclusion.',
     '## 4. Analysing existing products');
 }

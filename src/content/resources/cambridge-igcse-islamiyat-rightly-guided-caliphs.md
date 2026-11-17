@@ -73,7 +73,7 @@ Cambridge IGCSE Islamiyat (0493) syllabus, for examination in 2026-2027 --
 ## The four Caliphs, one at a time
 
 Abu Bakr (ruled 632-634 CE) faced the Ridda wars, in which several Arab tribes renounced allegiance to
-Medina after the Prophet's death -- his firmness in holding the community together is widely seen as
+Madinah after the Prophet's death -- his firmness in holding the community together is widely seen as
 critical to Islam's survival as a unified political and religious community. Umar ibn al-Khattab (ruled
 634-644 CE) oversaw rapid territorial expansion and is credited with establishing much of the early
 administrative structure of the Muslim state, including systems for taxation, record-keeping (the diwan),
@@ -85,7 +85,7 @@ including the Battle of the Camel and the Battle of Siffin, during a period of c
 Fitna) that ultimately shaped the later Sunni-Shi'a division within Islam.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--02-caliphs-timeline.webp" width="900" height="578" alt="A scaled timeline from 632 to 661 CE divided into Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (656–661), with a card of main events for each: the Ridda wars; expansion and the diwan; the standardised Qur'an and Uthman's assassination; and the First Fitna with the Battles of the Camel and Siffin." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--02-rightly-guided-caliphs-timeline.webp" width="900" height="578" alt="A scaled timeline from 632 to 661 CE divided into Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (656–661), with a card of main events for each: the Ridda wars; expansion and the diwan; the standardised Qur'an and Uthman's assassination; and the First Fitna with the Battles of the Camel and Siffin." loading="lazy">
   <figcaption>Four Caliphs in order, each with the events that define his rule.</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ candidates can draw on when asked to explain why this period continues to be reg
 today, not only in the seventh century.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--03-revision-triad.webp" width="900" height="594" alt="A three-slot revision card filled in for Abu Bakr: achievement, holding the community together; difficulty, the Ridda wars; and a linking sentence, that his firmness was critical to Islam's survival as a unified community. A note says to repeat it for the other three Caliphs." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--03-abu-bakr-revision-triad.webp" width="900" height="594" alt="A three-slot revision card filled in for Abu Bakr: achievement, holding the community together; difficulty, the Ridda wars; and a linking sentence, that his firmness was critical to Islam's survival as a unified community. A note says to repeat it for the other three Caliphs." loading="lazy">
   <figcaption>Prepare the same three slots for each Caliph so comparisons come easily.</figcaption>
 </figure>
 

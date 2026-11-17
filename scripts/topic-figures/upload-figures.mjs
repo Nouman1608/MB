@@ -60,6 +60,11 @@ const fetchFailed = [];
 for (const d of fs.readdirSync(root, { withFileTypes: true })) {
   if (!d.isDirectory()) continue;
   const dir = path.join(root, d.name);
+  // Refresh this lesson's figure list from GitHub, so renamed or corrected figures are picked up.
+  try {
+    const r = await fetch(RAW + encodeURIComponent(d.name) + '/figures.json');
+    if (r.ok) { const txt = await r.text(); JSON.parse(txt); fs.writeFileSync(path.join(dir, 'figures.json'), txt); }
+  } catch {}
   const listed = fs.existsSync(path.join(dir, 'figures.json'))
     ? JSON.parse(fs.readFileSync(path.join(dir, 'figures.json'), 'utf8')).map((x) => x.file) : [];
   expected += listed.length;

@@ -9,30 +9,10 @@ All 330 pages in [`topic-images-needed.csv`](../topic-images-needed.csv) (284 to
 - **Urdu figures** (`*urdu*` folders): an Urdu teacher should glance over one or two sets before publishing. A good first check: `cambridge-igcse-urdu-language-exercise-1-short-answer-questions`.
 - Figures that show a shape, not data (graphs, pyramids, bar heights) are labelled "illustrative", "schematic" or "shape only" on the figure. Maps are schematics marked "not to scale".
 
-## Points in the lesson text worth a teacher's check
+## Lesson-text points: resolved (17 Nov 2026, D-485)
 
-The figures follow each lesson as written. These were flagged while drawing.
+Fixed in the lessons (and, where shown, in a redrawn figure with a new file name): AQA GCSE sampling methods (figure 03), Bourdieu's label (figure 05), Willis as Marxist, the Arafat wording, the sources-of-authority checklist, the 4ET1 word budget (figure 06), O Level/IGCSE Paper 2 advice, IGCSE family structures, "Medina" to "Madinah" (caliphs figures 02 and 03) and the MYP Design holdall idea (figure 05).
 
-### Possible errors or contradictions
-- **AQA GCSE Sociology research methods** (`aqa-gcse-sociology-research-methods`): lists stratified sampling; the 8192 specification lists quota and systematic.
-- **OxfordAQA IGCSE Sociology, introducing sociology** (`igcse-oxfordaqa-sociology-introducing-sociology`): puts Bourdieu under Marxism.
-- **AQA GCSE Sociology families and education** (`aqa-gcse-sociology-families-and-education`): says the spec presents Willis as Marxist but uses him as the interactionist example.
-- **OxfordAQA Islamiyat, living Muslim life** (`igcse-oxfordaqa-islamiyat-living-muslim-life`): says standing at Arafat commemorates the Farewell Sermon (left out of the figure).
-- **OxfordAQA Islamiyat, sources of authority** (`igcse-oxfordaqa-islamiyat-sources-of-authority`): says there is no fixed ranking, but its checklist asks students to rank the sources.
-- **Edexcel IGCSE English Literature, Assignment B** (`edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts`): word plan 70 + 3 × 200 + 70 = 740, not 800.
-- **A-Level Global Perspectives written exam** (`a-level-cambridge-global-perspectives-written-exam.md`, line 47): orphaned fragment "…has its own pages:" with the links missing.
+Checked and correct as written: 9699 Paper 2 weighting, the OxfordAQA 9292 section titles, the GP 9239 links, the two MYP Design stool datasets (separate fictional examples), the Makkan surah descriptions, Beck's dates and the time-sensitive facts.
 
-### Pages that disagree with each other
-- **Paper 2 revision advice:** `o-level-sociology-family-education-crime` (prepare all three topics) vs `igcse-cambridge-sociology-family-education-crime` (choose two early).
-- **Family structures:** the IGCSE guide says "six named family structures" but omits the extended sub-types the O Level guide shows.
-- **Makkan surahs:** IGCSE Paper 1 says tawhid, prophethood, judgement; O Level Paper 1 says tawhid, afterlife, moral conduct.
-- **MYP Design stool example:** `ib-myp-design-sustainable-and-ethical-design` and `ib-myp-design-key-and-related-concepts` give different popliteal heights (470 mm vs 460 mm) and seat ranges.
-- **Spelling:** `cambridge-igcse-islamiyat-rightly-guided-caliphs` uses "Medina"; other Islamiyat pages use Madina/Madinah.
-
-### Worth confirming
-- **Cambridge A-Level Sociology the family:** "Paper 2 is 50% of AS and 25% of the full A Level".
-- **Beck, *Risk Society*:** dated 1986 (German edition; English edition 1992) in two 9699 lessons.
-- **OxfordAQA Socialisation:** says two section titles are swapped in the published specification.
-- **MYP Language Acquisition proficiency phases:** 0–8 per criterion in class vs 24 marks in eAssessment.
-- **MYP Design criterion A:** the worked example gives an "idea to adapt" for only two of three products.
-- **Time-sensitive facts** copied as written: Grand Ethiopian Renaissance Dam (Sept 2025), Sri Lanka election (Sept 2024), civil court track limits (£10,000 / £25,000, intermediate track 2023), Pakistan trade/energy/population figures with their years.
+Still for a teacher: MYP Language Acquisition eAssessment marks per criterion (the IB guide is not public), and an Urdu teacher's look at one or two Urdu figure sets.

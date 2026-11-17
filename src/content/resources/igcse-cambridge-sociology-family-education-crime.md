@@ -81,7 +81,7 @@ within them).
 **CAMBRIDGE IGCSE SOCIOLOGY 0495 — PAPER 2: FAMILY, EDUCATION AND CRIME**
 
 - **4. Family** — different family structures (nuclear, extended,
-  reconstituted, lone parent, empty nest, childless) and variations by
+  including modified, horizontal and vertical/beanpole, reconstituted, lone parent, empty nest, childless) and variations by
   culture, class and ethnicity; sociological views on family diversity;
   alternatives to the family (single-person and shared households,
   friends as family); variations in marriage; the functionalist,
@@ -110,7 +110,8 @@ within them).
 
 ## Family (Topic 4)
 
-Start with the factual base — the six named family structures and how
+Start with the factual base — the named family structures (including the
+extended sub-types: modified, horizontal and vertical/beanpole) and how
 they vary by culture, class and ethnicity — before moving to the
 perspectives. The New Right and Postmodernist views on family diversity
 are a common source of confusion: the New Right treats family diversity
