@@ -248,7 +248,7 @@ function hoursSplit(comps, { y = 130, slTotal, hlTotal, note } = {}) {
 }
 
 // Shared layout for the four MYP syllabus-guide framework figures
-function mypFramework({ key, related, relatedNote, criteria }) {
+function mypFramework({ key, related, relatedNote, criteria, totalText = 'total 0 to 32' }) {
   let b = '';
   const chipRow = (items, y, opts, x0 = 50, maxX = 850) => {
     let x = x0, yy = y, s = '';
@@ -278,7 +278,7 @@ function mypFramework({ key, related, relatedNote, criteria }) {
   b += box(30, 754, 840, 76, { fill: C.tealLight, edge: C.tealDark, rx: 14 });
   for (let n = 0; n <= 8; n++) { const x = 52 + n * 34; b += box(x, 772, 28, 38, { fill: n === 0 ? '#fff' : [C.tealLight, C.teal, C.cream, C.mustard][Math.floor((n - 1) / 2)], edge: C.ink, sw: 1.5, rx: 5 }) + t(x + 14, 797, String(n), { size: 15, weight: 700, anchor: 'middle' }); }
   b += t(376, 788, 'each criterion: levels 0 to 8', { size: 17, weight: 700 }) + t(376, 812, '1 to 8 in four bands; 0 below level 1', { size: 15, fill: C.muted });
-  b += box(680, 770, 172, 44, { fill: C.mustard, edge: C.olive, rx: 10 }) + t(766, 798, 'total 0 to 32', { size: 18, weight: 700, anchor: 'middle' });
+  { const tw2 = tw(totalText, 18, 700) + 30; b += box(852 - tw2, 770, tw2, 44, { fill: C.mustard, edge: C.olive, rx: 10 }) + t(852 - tw2 / 2, 798, totalText, { size: 18, weight: 700, anchor: 'middle' }); }
   return b;
 }
 
@@ -293,6 +293,7 @@ add('01-framework-and-criteria',
       ['C', 'Speaking', 'interact on topics of personal, local and global interest'],
       ['D', 'Writing', 'use language suited to audience and purpose, in a range of registers'],
     ],
+    totalText: 'classroom total 0 to 32',
   })),
   'Key concepts communication, connections, creativity and culture, with related concepts such as word choice, conventions and idiom, explored through six global contexts. Work is assessed on four equally weighted criteria: A listening, B reading, C speaking and D writing, each scored 0 to 8 for a classroom total of 0 to 32.',
   'Four skills, four criteria, each scored 0 to 8 in the classroom.',
