@@ -80,6 +80,12 @@ These notes condense content point **3.2.3.1 Pre-and non-digital technologies** 
 | Social construction of technology | View that social groups shape how technologies are designed and used |
 | Soft determinism | View that technology makes outcomes easier or harder without fixing them |
 
+## Linking points
+
+- **To Unit 4**: transport emissions, commuting and over-tourism appear again under human impacts on environment, so mobilities evidence can be reused there.
+- **To AI and digital work**: Taylorist timing and Braverman's deskilling reappear when algorithms monitor warehouse and gig workers, so the same debate can be applied to new technology.
+- **To families**: Cowan's finding links household technology to the domestic division of labour studied at AS level.
+
 ## Exam traps
 
 - **The Luddites** protested against how machines were used.

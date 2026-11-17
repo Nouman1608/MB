@@ -93,6 +93,12 @@ These notes condense content point **3.2.3.3 The internet and social and new med
 | Slacktivism | Low-cost online support with little real effect |
 | Cyber-utopianism | Belief that the internet naturally empowers citizens |
 
+## Linking points
+
+- **To 'traditional' media**: Marxist and pluralist debates about owners carry over to platform owners; compare allocative control with control of algorithms.
+- **To migration**: messaging and video calls sustain diaspora networks and transnational families, which is evidence for Unit 3.
+- **To identity**: context collapse and networked publics link to AS-level work on how identities are presented and managed.
+
 ## Exam traps
 
 - Mental health effects are contested: give both sides and the method problems.

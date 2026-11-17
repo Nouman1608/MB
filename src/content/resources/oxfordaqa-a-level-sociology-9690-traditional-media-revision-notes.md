@@ -99,6 +99,12 @@ These notes condense content point **3.2.3.2 'Traditional' media** of OxfordAQA 
 | Cultivation | Long-term shaping of beliefs by repeated exposure (Gerbner) |
 | Oppositional reading | Rejecting the preferred meaning of a message (Hall) |
 
+## Linking points
+
+- **To social media**: gatekeeping and agenda-setting now operate through search rankings and feeds, so compare editors with algorithms.
+- **To globalisation**: Schiller's cultural imperialism and McLuhan's global village in Unit 3 rely on the same evidence about broadcast and film ownership.
+- **To crime and deviance**: Cohen's moral panic model from AS level explains how press coverage shapes which groups are labelled deviant.
+
 ## Exam traps
 
 - Gatekeeping is selection; agenda-setting is influence.

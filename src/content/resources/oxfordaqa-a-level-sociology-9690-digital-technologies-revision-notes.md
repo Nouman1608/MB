@@ -97,6 +97,12 @@ These notes condense content point **3.2.3.4 Digital technologies** of OxfordAQA
 | Hacktivism | Hacking for political causes |
 | Second-level divide | Inequality in skills and ways of using the internet |
 
+## Linking points
+
+- **To social control**: the panopticon, social sorting and the surveillant assemblage extend AS-level work on formal and informal social control.
+- **To crime**: cybercrime and its under-reporting connect to AS-level problems of measuring crime with official statistics.
+- **To development**: global digital divides are one of the persistent inequalities discussed under obstacles to progress in Unit 3.
+
 ## Exam traps
 
 - Games and moral panics: present fears as contested, not proven.
