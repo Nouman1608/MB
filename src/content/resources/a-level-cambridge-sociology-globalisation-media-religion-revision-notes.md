@@ -35,6 +35,16 @@ Paper 4, **A-Level only** (not AS). 1h45m, 70 marks, 29% of the full A Level. Th
 - **Section B: Media** (9 Ownership and control of media; 10 Media representation and effects) — traditional and new media, theories of the media and influences on content, the impact of new media; representations, models of media effects, impact on behaviour.
 - **Section C: Religion** (11 Religion and social order; 12 The influence of religion) — religion and society, social order and social change; secularisation, gender and feminism, post-modernity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-media-religion--01-where-paper-4-fits.webp" width="900" height="631" alt="AS Level is Papers 1 and 2; the full A Level adds Papers 3 and 4. Paper 4 lasts 1 hour 45 minutes, is worth 70 marks (two 35-mark essays) and 29% of the A Level, and candidates answer two essays from different sections." loading="lazy">
+  <figcaption>Paper 4 is the A Level-only finale: two 35-mark essays from two different sections.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-media-religion--02-sections-and-headings.webp" width="900" height="606" alt="Section A Globalisation covers syllabus headings 7 and 8, Section B Media covers headings 9 and 10, and Section C Religion covers headings 11 and 12." loading="lazy">
+  <figcaption>Each lettered section draws on two numbered syllabus headings.</figcaption>
+</figure>
+
 ## Strategy for "2 of 3"
 
 Study all three to a working level early, then narrow to deep revision on two closer to the exam — but keep the third fallback-ready, since an unexpectedly hard question on a "safe" section can make the third valuable.
@@ -59,6 +69,11 @@ For any claim about globalisation, media or religion, be ready to suggest **how 
 
 Weak: describes social media's features, asserts it "has a big influence." Strong: selects a specific perspective on media influence → applies it directly to identity formation (e.g. curated self-presentation online reshaping ideas of a stable, singular identity) → briefly names a research method that could investigate the claim and one limitation of it for something private/platform-dependent. The method link, even brief, signals joined-up understanding.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-media-religion--04-theory-to-method.webp" width="900" height="484" alt="A strong answer selects a named perspective on media influence, applies it to young people’s identities, suggests a research method and notes a limitation of that method. A weak answer only describes social media and asserts it has a big influence." loading="lazy">
+  <figcaption>Strong Paper 4 answers link a theoretical claim to how it could be researched.</figcaption>
+</figure>
+
 
 ## Worked example: applying the same method-linking habit to religion
 
@@ -74,6 +89,11 @@ A typical question might ask candidates to discuss whether religious organisatio
 
 Learning this table alongside the fuller content notes gives a fast way to check, in the exam, that an answer is engaging with the actual debate a question is testing, rather than describing the topic in general terms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-media-religion--03-competing-explanations.webp" width="900" height="673" alt="For globalisation, global influence is weighed against the revival of local identities; for media, direct effects against active audiences; for religion, cohesion against change and conflict; and secularisation is weighed as a debated question." loading="lazy">
+  <figcaption>High marks come from weighing two competing explanations, not describing one.</figcaption>
+</figure>
+
 ## Exam traps
 
 - Discussing globalisation as purely economic, ignoring its cultural/identity consequences — specifically what this paper examines.
@@ -81,6 +101,11 @@ Learning this table alongside the fuller content notes gives a fast way to check
 - Treating secularisation as settled fact instead of a debated question with evidence on more than one side.
 - Zero reference to research methods, when Paper 4 questions frequently reward connecting a substantive claim to how it could be studied.
 - Relying only on textbook cases from decades past — a specific, plausible contemporary example makes an argument feel genuinely engaged.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-media-religion--05-common-mistakes.webp" width="900" height="546" alt="Five common Paper 4 mistakes paired with fixes: treating globalisation as only economic, presenting one media theory as true, treating secularisation as settled, ignoring research methods and using only old examples." loading="lazy">
+  <figcaption>Each common mistake has a simple fix: widen, weigh, debate, link to methods, update.</figcaption>
+</figure>
 
 ## Self-test
 

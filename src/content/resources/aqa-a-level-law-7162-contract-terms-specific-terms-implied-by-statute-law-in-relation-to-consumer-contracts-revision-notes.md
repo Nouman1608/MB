@@ -42,6 +42,11 @@ remedies for their breach. For full explanation and a worked scenario, use the
 - The implied terms **cannot be excluded** against a consumer (see the exclusion clauses notes on s31 and
   s57).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts--01-consumer-contract-check.webp" width="900" height="446" alt="A trader (section 2(2)) acts for trade, business, craft or professional purposes; a consumer (section 2(3)) is an individual acting wholly or mainly outside them, so a company is never a consumer. A plumber buying a kettle for home use is covered; the same plumber buying a pipe cutter for work, a business-to-business contract, and a private sale between individuals are not." loading="lazy">
+  <figcaption>Check trader and consumer first: otherwise these sections do not apply.</figcaption>
+</figure>
+
 ## Goods: the three implied terms
 
 | Section | Term | Test and limits | Illustration |
@@ -53,6 +58,16 @@ remedies for their breach. For full explanation and a worked scenario, use the
 
 Grant v Australian Knitting Mills (1936): underwear with excess sulphite causing dermatitis in a normal
 buyer was neither of the required quality nor fit for purpose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts--02-goods-terms.webp" width="900" height="597" alt="Three implied terms. Section 9, satisfactory quality, judged by a reasonable person (Rogers v Parish). Section 10, fitness for a particular purpose made known to the trader (Priest v Last; Griffiths v Peter Conway, where the purpose was not made known). Section 11, goods must match their description (Beale v Taylor). Grant v Australian Knitting Mills breached both sections 9 and 10." loading="lazy">
+  <figcaption>Quality, fitness for purpose and description: automatic terms in every goods contract.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts--03-satisfactory-quality.webp" width="900" height="535" alt="The aspects of quality in section 9(3): fitness for usual purposes, appearance and finish, freedom from minor defects, safety and durability. The test is objective and flexible, and public statements can be relevant. Section 9(4) excludes defects drawn to the consumer’s attention, defects an examination ought to have revealed, and in a sale by sample defects a reasonable examination of the sample would have revealed." loading="lazy">
+  <figcaption>Quality is judged objectively; defects the consumer was told of or should have spotted are excluded.</figcaption>
+</figure>
 
 ## Goods: the remedy tiers
 
@@ -71,6 +86,16 @@ buyer was neither of the required quality nor fit for purpose.
   vehicles.
 - Damages for consequential loss remain available alongside these remedies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts--04-goods-remedies-tiers.webp" width="900" height="646" alt="Three tiers of goods remedies. Tier 1, section 20 with 22: short-term right to reject, normally within 30 days, full refund. Tier 2, section 23: repair or replacement chosen by the consumer, at the trader’s cost. Tier 3, section 24: price reduction or final right to reject, only after one failed repair or replacement or if repair and replacement are impossible, disproportionate or not done properly." loading="lazy">
+  <figcaption>Reject within 30 days; after that, repair or replace first, then price reduction or final rejection.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts--05-goods-remedy-timeline.webp" width="900" height="513" alt="A timeline from delivery: the short-term right to reject runs for 30 days, and a fault appearing within six months is presumed to have existed on delivery. Three rules: the 30-day clock stops while a repair or replacement is awaited, with at least seven days left afterwards; the six-month presumption; and no deduction for use under the final right to reject within six months, except for motor vehicles." loading="lazy">
+  <figcaption>Thirty days to reject; six months in which faults are presumed present from delivery.</figcaption>
+</figure>
+
 ## Services: terms and remedies
 
 | Section | Content |
@@ -79,6 +104,11 @@ buyer was neither of the required quality nor fit for purpose.
 | s52 | Where no time is fixed, performance within a **reasonable time**: a question of fact. Charnock v Liverpool Corporation (1968): eight weeks for a repair that should take five was too long |
 | s55 | **Repeat performance**: redo the work to the extent needed, within a reasonable time, without significant inconvenience, at the trader's cost; not if impossible |
 | s56 | **Price reduction**, up to the full price: where repeat performance is impossible or not done properly; the remedy for breach of s52 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts--06-services-terms-remedies.webp" width="900" height="502" alt="Two services terms: section 49, reasonable care and skill, about how the work is done; section 52, performance within a reasonable time where none is fixed (Charnock v Liverpool Corporation). Remedies: section 55 repeat performance at the trader’s cost, then section 56 price reduction up to the full price. Lateness under section 52 goes straight to a price reduction." loading="lazy">
+  <figcaption>Poor work: repeat performance, then a price reduction. Lateness: a price reduction.</figcaption>
+</figure>
 
 ## Key terms
 

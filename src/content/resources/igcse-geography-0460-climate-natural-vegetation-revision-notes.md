@@ -49,6 +49,11 @@ the Congo basin and much of Indonesia. Hot deserts lie roughly between 15 and 30
 south of the equator, for example the Sahara, the Arabian Desert, the Kalahari and the deserts of
 central Australia, and on some western coasts such as the Atacama and Namib.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-climate-and-natural-vegetation--01-cv-climate-graphs.webp" width="900" height="1190" alt="Two climate graphs on the same scales. The equatorial graph shows temperature almost flat at 25 to 27 degrees Celsius and rain falling in every month, about 2400 millimetres a year. The hot desert graph shows temperature swinging from 16 to 36 degrees Celsius, a range of 20 degrees, and only about 100 millimetres of rain a year in three months." loading="lazy">
+  <figcaption>Same axes, two climates: a small temperature range and even rain against a large range and a few rain events (illustrative monthly data).</figcaption>
+</figure>
+
 ## Explaining the equatorial climate
 
 1. The sun is high in the sky all year, so insolation is intense and temperatures stay high, with
@@ -61,6 +66,11 @@ central Australia, and on some western coasts such as the Atacama and Namib.
 
 The **daily** temperature range can be larger than the **annual** range, because thick cloud and
 humid air keep nights warm but change little through the year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-climate-and-natural-vegetation--02-cv-rising-sinking-air.webp" width="900" height="1040" alt="Two panels. Top: over an equatorial low-pressure belt warm air rises, cools, its water vapour condenses into cloud and heavy rain falls. Bottom: under a high-pressure zone air sinks and warms, so its relative humidity falls and the sky stays clear with no rain." loading="lazy">
+  <figcaption>Rising air cools and condenses; sinking air warms, its relative humidity falls and rain is suppressed.</figcaption>
+</figure>
 
 ## Explaining the hot desert climate
 
@@ -81,6 +91,16 @@ humid air keep nights warm but change little through the year.
 - **Distance from the sea:** moisture supply.
 - **Altitude:** temperature falls with height.
 - **Ocean currents:** warm currents warm coasts; cold currents cool them and can reduce rain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-climate-and-natural-vegetation--03-cv-latitude-sun.webp" width="900" height="900" alt="Parallel rays of sunlight hit a curved Earth. A beam that hits the equator head-on lands on a short stretch of surface, so the energy is concentrated. The same-width beam hitting at a high latitude strikes at a low angle and is spread over a surface more than twice as long, so it heats each part less." loading="lazy">
+  <figcaption>The same beam of sunlight is concentrated at the equator and spread thin at high latitudes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-climate-and-natural-vegetation--04-cv-altitude-sea-currents.webp" width="900" height="1110" alt="Three panels. Altitude: a mountain with a short thermometer reading at the top and a taller reading at the foot, showing temperature falls with height. Distance from the sea: moist air from the sea carries cloud over the land, with less moisture reaching the interior. Ocean currents: a warm current warms the adjacent coast and a cold current cools it." loading="lazy">
+  <figcaption>Three more climate factors: height lowers temperature, distance from the sea reduces moisture and currents warm or cool coasts.</figcaption>
+</figure>
 
 ## Tropical rainforest
 
@@ -123,6 +143,11 @@ soil loses its fertility within a few years.
 Plants are widely spaced, so each has a large area from which to draw water. Desert soils are thin,
 sandy or stony and low in organic matter because so little vegetation grows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-climate-and-natural-vegetation--05-cv-adaptations.webp" width="900" height="1080" alt="Top: tropical rainforest drawn as dense, layered trees under a warm, wet all-year climate. Bottom: a hot desert plant with small or no leaves, a stem that stores water, and deep and wide roots, each linked to very little, unreliable rain." loading="lazy">
+  <figcaption>Rainforest vegetation is dense and layered because the climate is warm and wet all year; desert plants are adapted to water scarcity.</figcaption>
+</figure>
+
 ## Deforestation
 
 | Causes | Effects |
@@ -140,6 +165,11 @@ their way of life.
 **Sustainable management:** selective logging (only mature trees are felled, others left to grow);
 replanting; protected areas and national parks; ecotourism that earns money from standing forest;
 certification of timber; international agreements and payments for protecting forest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-climate-and-natural-vegetation--06-cv-deforestation.webp" width="900" height="1070" alt="A flow from three causes (farming, logging, roads and mining) to cleared tropical rainforest, then to environmental effects (less biodiversity, soil erosion, a disrupted water cycle) and human effects (lost land and livelihoods for forest communities, and the economic benefits that motivated clearing)." loading="lazy">
+  <figcaption>Deforestation has several causes and both costs and benefits, which exam answers should weigh.</figcaption>
+</figure>
 
 ## Case studies
 

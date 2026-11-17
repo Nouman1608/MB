@@ -47,6 +47,11 @@ blood = plasma (liquid) + red blood cells + white blood cells + platelets (suspe
 
 It is **not** an organ: it is one tissue, not several tissues working together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+
 ## The four components
 
 | Component | What it is | Function |
@@ -67,6 +72,11 @@ It is **not** an organ: it is one tissue, not several tissues working together.
 | Antibodies and other proteins | Made in the body | Around the body |
 
 Plasma also carries the blood cells and platelets themselves, and transfers heat around the body.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--05-capillary-exchange.webp" width="900" height="740" alt="A capillary with a wall one cell thick runs past body cells. Oxygen and glucose pass out of the blood to the cells; carbon dioxide and other wastes pass from the cells into the blood." loading="lazy">
+  <figcaption>Capillaries bring blood close to every cell so substances can be exchanged.</figcaption>
+</figure>
 
 ## Adaptations to function
 
@@ -121,6 +131,11 @@ actual size = image size / magnification
 
 A red blood cell measures 3.5 mm across in a photo at x500. Actual size = 3.5 / 500 = 0.007 mm.
 Convert: 0.007 x 1000 = **7 µm**. Always convert to µm for cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-cell-biology--01-magnification-units.webp" width="900" height="1000" alt="Worked example from the lesson. A cell 0.05 mm across has an image 100 mm across. Both are converted to micrometres (1 mm = 1000 micrometres): 50 and 100 000. Magnification = image / actual = 100 000 / 50 = x2000, which is about the limit of a light microscope; electron microscopes magnify far more." loading="lazy">
+  <figcaption>Convert to the same units first, then divide image size by real size.</figcaption>
+</figure>
 
 ## Evaluating blood products
 

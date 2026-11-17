@@ -72,6 +72,11 @@ AO1 is the largest objective in Unit 3: accurate concepts, terminology and theor
 | Telegraphic | Content words with function words and inflections often missing ("want go park") |
 | Post-telegraphic | Function words, inflections and more complex clauses emerge |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide--01-u3-stages.webp" width="900" height="790" alt="Five stacked bars show the stages in order: pre-verbal (crying, cooing, babbling, e.g. ba-ba), holophrastic (one word, e.g. milk), two-word (daddy gone, the beginning of grammar), telegraphic (want more juice, function words missing) and post-telegraphic (function words and inflections appear, fuller sentences). The age at each stage varies a great deal." loading="lazy">
+  <figcaption>Overview of stages with the lesson's own examples.</figcaption>
+</figure>
+
 ### Common features to name in data
 
 | Feature | Example |
@@ -82,6 +87,11 @@ AO1 is the largest objective in Unit 3: accurate concepts, terminology and theor
 | Deletion / substitution (phonology) | "nana" for "banana"; "wabbit" for "rabbit" |
 | Child-directed speech | Adults' simplified, repetitive, high-pitched speech with questions and recasts |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide--02-u3-features.webp" width="900" height="932" alt="Three panels. Overgeneralisation: run becomes runned and mouse becomes mouses by applying a regular rule to an irregular word. Simplified sounds: rabbit becomes wabbit. Overextension: a child calls three different four-legged animals dog." loading="lazy">
+  <figcaption>Three typical features to spot in child data.</figcaption>
+</figure>
+
 ### Theories and approaches
 
 | Approach | Key idea | Evaluation point |
@@ -91,12 +101,22 @@ AO1 is the largest objective in Unit 3: accurate concepts, terminology and theor
 | Cognitive (Piaget) | Language follows cognitive development | Explains some timing but not all |
 | Interactionist (Bruner; Vygotsky) | Interaction and adult support (scaffolding) drive development | Supported by caregiver-talk data; variation across cultures |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide--03-u3-theories.webp" width="900" height="810" alt="Four cards. Behaviourist (Skinner): imitation and reinforcement. Nativist (Chomsky): an innate capacity for language. Cognitive (Piaget): the concept comes first, then the word. Social-interactionist (Bruner): language develops through interaction with supportive caregivers." loading="lazy">
+  <figcaption>The four theories side by side.</figcaption>
+</figure>
+
 ### Later development (teenagers)
 
 Writing and speech in adolescence: growing control of complex sentences and cohesion, wider formal
 vocabulary, register shifts between peer and academic contexts, and features of teenage peer talk. For
 EAL learners, data may show transfer from a first language and developing control of English
 inflections.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-a-learning-language--03-later-development.webp" width="900" height="830" alt="Four areas of later development. Grammar: passives, embedded and relative clauses, nominalisation, cohesive devices. Vocabulary: abstract and subject-specific words, polysemy and figurative meaning. Pragmatics: register, politeness strategies, conversational repair. Adolescent identity: slang and discourse markers, Eckert’s 1989 study, Multicultural London English." loading="lazy">
+  <figcaption>Grammar, vocabulary and pragmatics keep developing, and teenage language marks identity.</figcaption>
+</figure>
 
 ## Section B: International English — core knowledge
 
@@ -116,6 +136,16 @@ inflections.
 - Who "owns" English when most users are non-native speakers?
 - Are new varieties "errors" or legitimate developments?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide--06-u3-kachru.webp" width="900" height="1180" alt="Three concentric circles. The inner circle is where English is the first language (UK, US, Australia). The outer circle is where English has an official or institutional role (India, Nigeria, Singapore). The expanding circle uses English as a foreign language for international communication. The model is useful but too simple." loading="lazy">
+  <figcaption>The three circles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide--07-u3-pidgin-creole.webp" width="900" height="960" alt="Speakers of two different languages come into contact and develop a pidgin, a simplified contact language with no native speakers and a small vocabulary. When it becomes a first language it expands in vocabulary and grammar and is called a creole. Block counts are illustrative." loading="lazy">
+  <figcaption>From pidgin to creole.</figcaption>
+</figure>
+
 ## Worked example: analysing a child's utterance (Section A)
 
 Data: a child aged about 2 years 6 months says, "Daddy goed work. Him coming back?"
@@ -128,6 +158,11 @@ Data: a child aged about 2 years 6 months says, "Daddy goed work. Him coming bac
 - **Theory link:** the virtuous error challenges a purely behaviourist account and is often cited in
   support of rule-learning (nativist) views; an interactionist would ask how the caregiver replies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide--04-u3-example.webp" width="900" height="1100" alt="A child of about 2 years 6 months says Me no want bath. Me shows a pronoun case that is not adult-like, no is a negation placed before the verb, and the article a is absent. The parent recasts it as You don't want a bath? and adds a further suggestion. An interactionist sees the recast as supporting development, a nativist sees a systematic pattern not copied from adults, and a behaviourist struggles because adults do not say it." loading="lazy">
+  <figcaption>The worked example annotated and read through three theories.</figcaption>
+</figure>
+
 ## Writing a Section B answer
 
 1. Define the terms in the issue.
@@ -135,6 +170,11 @@ Data: a child aged about 2 years 6 months says, "Daddy goed work. Him coming bac
 3. Use examples of real varieties or situations.
 4. Evaluate: which argument is stronger, and in what contexts?
 5. Conclude with a judgement linked to the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--07-worked-plan.webp" width="900" height="790" alt="A six-part plan for the native-speaker question: a thesis that intelligibility matters more than native-like speech; the case for the view (Quirk); the case against from ELF (Jenkins) and world Englishes (Kachru, Schneider); evaluation of identity, ownership and native-speakerism (Widdowson); and a qualified conclusion." loading="lazy">
+  <figcaption>Test the claim from both sides, using both strands, and end with a qualified judgement.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

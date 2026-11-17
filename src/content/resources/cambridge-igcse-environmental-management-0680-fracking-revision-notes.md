@@ -35,12 +35,22 @@ Three parts, three checks:
 - **From where**: shale rock.
 - **How**: hydraulic fracturing (liquid under pressure cracks the rock).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--01-definition.webp" width="900" height="596" alt="The definition of fracking split into three parts, each explained: the extraction of natural gas or petroleum (a fossil fuel, not a new resource), from shale rock (impermeable sedimentary rock), by hydraulic fracturing (cracking rock with liquid under pressure)." loading="lazy">
+  <figcaption>Extraction of gas or oil, from shale, by hydraulic fracturing: all three parts earn the mark.</figcaption>
+</figure>
+
 ## Why shale needs fracturing
 
 - Shale is an **impermeable** sedimentary rock: tiny, unconnected pores.
 - Gas formed in the shale stays locked inside it.
 - In a **conventional** deposit, gas has moved into permeable rock under an impermeable cap and flows to a well by itself.
 - In **shale**, the rock must be cracked to create pathways to the well.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--02-why-fracture-shale.webp" width="900" height="706" alt="Cross-section of rock layers. A conventional well taps gas and oil that moved up long ago into permeable rock beneath a cap rock, and the fuel flows out on its own. A well into the impermeable shale below reaches gas held in tiny unconnected pores, so very little flows." loading="lazy">
+  <figcaption>Shale is impermeable, so its gas cannot reach a well until the rock is cracked.</figcaption>
+</figure>
 
 ## The process in five steps
 
@@ -49,6 +59,11 @@ Three parts, three checks:
 3. Pump fluid (mostly water, with sand and chemicals) down at very high pressure to crack the shale.
 4. Sand holds the cracks open.
 5. Wastewater flows back; gas or oil flows up the well.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-energy-management-and-fracking--05-fracking-process.webp" width="900" height="1110" alt="A well goes down through soil and groundwater then sideways through shale. Water, sand and chemicals are pumped in at high pressure and crack the shale. Sand holds the cracks open and gas flows up the well." loading="lazy">
+  <figcaption>Fracking cracks shale with high-pressure fluid so trapped gas can flow out.</figcaption>
+</figure>
 
 ## Benefits
 
@@ -75,6 +90,11 @@ Three parts, three checks:
 
 **The pattern to point out:** benefits are mostly **national**; limitations fall mostly on **local** people and the **global** climate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--03-benefits-limitations.webp" width="900" height="762" alt="Two columns. Benefits: energy security, jobs and income, lower prices, lower emissions than coal, existing networks and new reserves, mostly tagged national. Limitations: induced earthquakes, ground water contamination, heavy water use, wastewater, methane leakage, continued fossil fuel use and local disruption, mostly tagged local." loading="lazy">
+  <figcaption>Many benefits are national; many limitations fall on the local area.</figcaption>
+</figure>
+
 ## Ways to reduce the limitations
 
 - Laws on well construction, with inspections.
@@ -86,6 +106,11 @@ Three parts, three checks:
 
 Limitation of these measures: cost, and they depend on enforcement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--04-limitations-and-controls.webp" width="900" height="820" alt="Five rows link a step of the fracking process to the limitation it causes and a way to reduce it: drilling and sealing to ground water contamination, controlled by well laws and testing; high-pressure fracturing to induced earthquakes, controlled by monitoring; fluid to heavy water use; flowback to wastewater and methane leaks, controlled by treatment and leak repair; the well pad to local disruption, reduced by siting wells away from homes and habitats." loading="lazy">
+  <figcaption>Each limitation comes from a step in the process, and each can be reduced but not removed.</figcaption>
+</figure>
+
 ## Building a discuss answer
 
 1. **Benefit** + explanation + link to the source (for example, the country imports gas).
@@ -96,11 +121,21 @@ Limitation of these measures: cost, and they depend on enforcement.
 
 Useful connecting words: "because", "so", "which means", "however", "on the other hand", "overall".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--06-discuss-structure.webp" width="900" height="570" alt="Three stacked steps for a discuss answer: benefits linked to the source, such as reducing imports; limitations linked to the source, such as farm wells, a town 2 km away and natural earthquakes; and a judgement weighing national gains against local risks, with conditions." loading="lazy">
+  <figcaption>Both sides, each tied to the source, then a judgement about this site.</figcaption>
+</figure>
+
 ## Using numbers from a source
 
 - Total water = number of wells × water per well.
 - Compare with local use: total water ÷ daily use = days of supply.
 - Quick check: 4 wells × 20,000 m³ = 80,000 m³; a town using 4,000 m³ a day would use that in 80,000 ÷ 4,000 = 20 days.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--05-water-use.webp" width="900" height="721" alt="Six wells each needing 15,000 m³ of water add up to 90,000 m³. A grid of 36 squares shows this equals 36 days of a town’s supply at 2,500 m³ a day." loading="lazy">
+  <figcaption>Turn a general point into evidence: 90,000 m³ is 36 days of the town’s water.</figcaption>
+</figure>
 
 ## Key terms
 

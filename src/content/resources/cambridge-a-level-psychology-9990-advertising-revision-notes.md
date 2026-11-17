@@ -34,6 +34,21 @@ Read the [advertising study guide](/resources/cambridge-a-level-psychology-9990-
 - **2.5.2**: self-monitoring, key study Snyder and DeBono (1985), study 3; product placement in films, mere exposure and reminders, e.g. Auty and Lewis (2004).
 - **2.5.3**: children's logo recognition, e.g. Fischer et al. (1991); brand awareness, brand image, slogans and guidelines, e.g. Kohli et al. (2007).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--14-co-yale-model.webp" width="900" height="940" alt="Source (who), message (says what), medium (print, television, internet, smartphone), audience (to whom) and effect." loading="lazy">
+  <figcaption>The five features of the Yale model of communication.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-advertising--01-eye-tracking-eeg.webp" width="900" height="662" alt="Eye-tracking shows which parts of an advert are looked at and for how long; EEG records brain activity as an indication of attention and emotional engagement. Both give objective data, as in Ciceri et al. (2020), but show physiological reactions rather than liking or intention to buy." loading="lazy">
+  <figcaption>Objective measures of attention, but not of liking or buying.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-advertising--02-four-ps-to-four-cs.webp" width="900" height="564" alt="Four rows map each of the seller's 4 Ps to a consumer-side C: product to consumer wants and needs, price to cost, place to convenience, promotion to communication, each with the question the advertiser asks." loading="lazy">
+  <figcaption>Each P becomes a C when you take the customer's point of view.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |
@@ -68,6 +83,16 @@ Read the [advertising study guide](/resources/cambridge-a-level-psychology-9990-
 | Strength | Clear applied value for targeting |
 | Weaknesses | Self-reports; hypothetical willingness to pay; student sample |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-advertising--03-snyder-debono-card.webp" width="900" height="999" alt="Definitions of high and low self-monitors, then a study card for Snyder and DeBono (1985) study 3: aim, procedure using the Self-Monitoring Scale and image or quality adverts, and results. A conclusion note and an evaluation grid covering application, self-reports, generalisation and determinism follow." loading="lazy">
+  <figcaption>Image appeals suit high self-monitors; quality claims suit low self-monitors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-advertising--04-matching-appeal.webp" width="900" height="579" alt="A two-by-two grid: high self-monitors pay more for a product with an image appeal, low self-monitors pay more for one with a quality claim. Applied to the watch example, the celebrity party advert goes to high self-monitors and the accuracy advert to low self-monitors." loading="lazy">
+  <figcaption>The finding is an interaction: neither appeal wins for everyone.</figcaption>
+</figure>
+
 ## The two product placement explanations
 
 | | Mere exposure | Reminder |
@@ -76,10 +101,20 @@ Read the [advertising study guide](/resources/cambridge-a-level-psychology-9990-
 | Needs prior knowledge? | No | Yes |
 | Support | General mere exposure research (Zajonc) | Auty and Lewis: strongest effect in children who had seen the film before |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-advertising--05-auty-lewis-placement.webp" width="900" height="903" alt="Children watched either a Home Alone clip in which Pepsi appears or a control clip, then chose a cola. Those who saw the placement more often chose Pepsi, most of all if they had seen the film before. Two explanations follow: reminder and mere exposure." loading="lazy">
+  <figcaption>Placement nudged choice, most strongly as a reminder for children who knew the film.</figcaption>
+</figure>
+
 ## Slogans: functions and guidelines
 
 - **Functions**: build awareness, create an image, differentiate from competitors, give continuity between campaigns.
 - **Guidelines from Kohli et al. (2007)**: treat the slogan as a long-term investment; use it to position the brand; link it clearly to the brand name; repeat it consistently over time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-advertising--07-brands-and-slogans.webp" width="900" height="531" alt="Brand awareness (recognising or recalling a brand) is contrasted with brand image (associations and feelings). Below, the four functions of slogans and Kohli et al.'s (2007) guidelines for effective slogans." loading="lazy">
+  <figcaption>Awareness is recognition; image is association. Slogans build both.</figcaption>
+</figure>
 
 ## Linking to issues and debates
 

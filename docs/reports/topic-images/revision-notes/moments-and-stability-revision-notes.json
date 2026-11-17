@@ -1,0 +1,8 @@
+{ "page": "moments-and-stability-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--02-extension-springs.webp", "after": "## Hooke's law" },
+ { "src": "https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--01-load-extension-graph.webp", "after": "## Hooke's law" },
+ { "src": "https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--03-moment-of-a-force.webp", "after": "## Moments" },
+ { "src": "https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--04-balanced-seesaw.webp", "after": "## Principle of moments" },
+ { "src": "https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--05-plumb-line-lamina.webp", "after": "## Centre of gravity" },
+ { "src": "https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--06-stability.webp", "after": "## Stability" }
+] }

@@ -39,6 +39,11 @@ Two reasons, and both are needed for full marks:
 1. The **N≡N triple bond** has a very high bond enthalpy (944 kJ mol⁻¹), so a large activation energy is required.
 2. The molecule is **non-polar**, so it is not attacked by nucleophiles or electrophiles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--01-n2-unreactive.webp" width="900" height="1030" alt="Three panels. First, two nitrogen atoms joined by a triple bond, 944 kJ per mol. Second, the same molecule in an even electron cloud: shared equally, so no dipole to attract a reactive species. Third, an energy profile with a very tall hill, labelled very high activation energy, which needs lightning, a hot engine or a catalyst to overcome." loading="lazy">
+  <figcaption>A strong, non-polar N≡N bond gives nitrogen a very high activation energy.</figcaption>
+</figure>
+
 ## Why is ammonia a base?
 
 **Basic** because the nitrogen lone pair **accepts a proton**:
@@ -53,6 +58,16 @@ Shape: **pyramidal**, bond angle **107°** — four electron pairs, one of which
 The ammonium ion NH₄⁺ is **tetrahedral, 109.5°**, because the lone pair has been used to form the dative bond. All four N–H bonds in NH₄⁺ are **identical once formed**, even though one was made differently (by the lone pair donating to H⁺) from the other three.
 
 **Test for ammonium ions:** warm with NaOH(aq); ammonia gas turns damp **red litmus blue**. This is the same acid-base logic run in reverse: NH₄Cl + NaOH → NaCl + NH₃ + H₂O.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--02-ammonia-base.webp" width="900" height="1000" alt="Ammonia has a lone pair on nitrogen. A curly arrow from the lone pair to an incoming H+ shows both electrons donated to form a new N-H bond, giving the ammonium ion with four N-H bonds. The new bond is a coordinate (dative) bond but all four bonds are identical once formed. NH3 + HCl gives NH4Cl." loading="lazy">
+  <figcaption>Ammonia accepts a proton using its lone pair, forming the ammonium ion by a coordinate bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--03-ammonium-test.webp" width="900" height="950" alt="A test tube of an ammonium salt and aqueous sodium hydroxide is warmed gently. Ammonia gas, with its characteristic smell, rises and turns damp red litmus paper blue. NaOH is a stronger base than ammonia: NH4Cl + NaOH gives NaCl + NH3 + H2O." loading="lazy">
+  <figcaption>Warming an ammonium salt with NaOH(aq) releases ammonia, which turns damp red litmus blue.</figcaption>
+</figure>
 
 ## Where do oxides of nitrogen come from?
 
@@ -80,6 +95,21 @@ One reaction removes a toxic gas **and** an acid-rain precursor.
 
 **Photochemical smog:** atmospheric NO and NO₂ also react with unburned hydrocarbons from vehicle exhaust, driven by sunlight, to form **peroxyacetyl nitrate (PAN)** — an eye and lung irritant characteristic of sunny, traffic-heavy cities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--04-nox-sources.webp" width="900" height="980" alt="Two panels show lightning (natural) and an internal combustion engine (man-made), both giving the activation energy for N2 + O2 → 2NO, drawn with particles. A second panel shows NO being oxidised by oxygen to NO2." loading="lazy">
+  <figcaption>Lightning and engines both supply the energy for N₂ + O₂ → 2NO; some NO is then oxidised to NO₂.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--05-catalytic-converter.webp" width="900" height="950" alt="A honeycomb catalytic converter with a Pt, Rh, Pd catalyst takes in CO and NO and releases CO2 and N2: 2CO + 2NO → 2CO2 + N2. Carbon is oxidised from +2 in CO to +4 in CO2; nitrogen is reduced from +2 in NO to 0 in N2. CO is the reducing agent." loading="lazy">
+  <figcaption>The converter reduces NOx to N₂ using CO; carbon is oxidised and nitrogen is reduced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--06-nox-smog-pan.webp" width="900" height="860" alt="Vehicle exhaust releases NO, NO2 and unburned hydrocarbons. Driven by sunlight they react to form peroxyacetyl nitrate (PAN), shown as a smog haze. PAN is an eye and lung irritant, typical of sunny, traffic-heavy cities." loading="lazy">
+  <figcaption>In sunlight, NOx and unburned hydrocarbons form PAN, a component of photochemical smog.</figcaption>
+</figure>
+
 ## How do SO₂ and NOₓ cause acid rain?
 
 | Pollutant | Source | Product |
@@ -92,6 +122,11 @@ One reaction removes a toxic gas **and** an acid-rain precursor.
 **NOₓ contributes in two distinct ways.** *Directly*: nitrogen oxides dissolve in atmospheric water and are oxidised to nitric acid, which falls as acid rain. *Indirectly, as a catalyst*: NO₂ oxidises SO₂ to SO₃ (NO₂ + SO₂ → NO + SO₃), regenerating NO₂ from the NO produced — NO₂ is not consumed overall, it simply speeds up sulfur dioxide's contribution.
 
 **Control:** flue-gas desulfurisation with calcium oxide or carbonate, catalytic converters, low-sulfur fuels.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--07-nox-acid-rain.webp" width="900" height="970" alt="Direct route: NO and NO2 dissolve in water and are oxidised to HNO3, which falls as acid rain. Indirect route: NO2 oxidises SO2 to SO3, making NO; NO reacts with O2 to regenerate NO2, so NO2 is a catalyst. SO3 + H2O gives H2SO4, which falls as acid rain." loading="lazy">
+  <figcaption>NOx forms acid rain directly as nitric acid and indirectly by catalysing SO₂ oxidation to sulfuric acid.</figcaption>
+</figure>
 
 ## Where does the Contact process fit?
 

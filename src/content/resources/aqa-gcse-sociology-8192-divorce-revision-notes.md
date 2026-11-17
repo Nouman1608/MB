@@ -53,6 +53,11 @@ For full explanations and worked answers, read the [divorce study guide](/resour
 5. **Late 1990s–2010s:** general fall, as fewer people married and more cohabited.
 6. **2022 onwards:** no-fault divorce under the Divorce, Dissolution and Separation Act 2020.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-divorce--01-divorce-pattern.webp" width="900" height="738" alt="A schematic line shows the number of divorces since 1945: a brief post-war rise, a low level in the 1950s and 1960s, a sharp rise after the Divorce Reform Act came into force in 1971, growth to a peak in the early 1990s, then a general fall. Laws are marked: legal aid 1949, 1971, 1984 and no-fault divorce from 2022." loading="lazy">
+  <figcaption>Divorce rose sharply after 1971, peaked in the early 1990s, then fell: not a steady rise.</figcaption>
+</figure>
+
 ## Laws at a glance
 
 | Law | Change |
@@ -62,12 +67,22 @@ For full explanations and worked answers, read the [divorce study guide](/resour
 | Matrimonial and Family Proceedings Act 1984 | Application possible after one year of marriage instead of three |
 | Divorce, Dissolution and Separation Act 2020 (in force 2022) | No-fault divorce; joint applications |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-divorce--03-possible-and-wanted.webp" width="900" height="758" alt="Top: four laws made divorce possible, easier, cheaper and quicker: legal aid in 1949, irretrievable breakdown from 1971, applying after one year from 1984 and no-fault divorce from 2022. Below: three social changes made people want divorce: less stigma and higher expectations, secularisation, and women’s changed status." loading="lazy">
+  <figcaption>Laws open the door; changes in attitudes, religion and women’s status explain why people walk through it.</figcaption>
+</figure>
+
 ## Four reasons in one line each
 
 - **Law:** easier, cheaper, quicker divorce; but laws may follow attitudes rather than cause them.
 - **Attitudes and values:** less stigma; higher expectations of personal happiness in marriage.
 - **Secularisation:** marriage seen less as a sacred lifelong vow; most weddings now civil ceremonies.
 - **Status of women:** paid work and income, equality laws, benefits and feminist expectations make leaving possible; most petitions are brought by wives.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-divorce--04-womens-status.webp" width="900" height="533" alt="A chain: paid work gives women their own income, so they are less dependent on a husband, leaving becomes realistic, and most divorce petitions are brought by wives. Below, equality laws, welfare benefits for lone parents and feminism also strengthened women’s position." loading="lazy">
+  <figcaption>Independence makes leaving an unhappy marriage a realistic option for women.</figcaption>
+</figure>
 
 ## Consequences
 
@@ -77,6 +92,11 @@ For full explanations and worked answers, read the [divorce study guide](/resour
 | Children | Moving home or school, two households, less contact with one parent, step-families; conflict may harm more than divorce itself |
 | Extended family | Grandparents lose contact or give more support; more complex kin networks |
 | Family structures | More lone parent families (mostly mother-headed, higher poverty risk) and reconstituted families |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-divorce--05-consequences.webp" width="900" height="686" alt="Four cards. Husband and wife face financial and emotional costs, but also relief, and many form new partnerships. Children may move, see less of one parent and gain step-families, though conflict may harm more than divorce. The extended family loses or gains contact. Family structures change, with more lone parent families at higher risk of poverty." loading="lazy">
+  <figcaption>Divorce affects every family member and reshapes family structures, not always for the worse.</figcaption>
+</figure>
 
 ## Perspectives
 
@@ -92,6 +112,11 @@ For full explanations and worked answers, read the [divorce study guide](/resour
 - Distinguish the number of divorces from the rate.
 - Remember what the data leave out: separations and cohabiting couples who split.
 - Link a sudden jump to a law change, and consider a backlog.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-divorce--02-statistical-traps.webp" width="900" height="493" alt="Three cards. The number of divorces can fall while the divorce rate stays high. Divorce figures miss separations and cohabiting break-ups, so they underestimate breakdown. A rise after a new law may be a backlog of couples already separated. Below: trend, two figures, exception, explanation." loading="lazy">
+  <figcaption>Check what the figures count before you explain them.</figcaption>
+</figure>
 
 ## Exam traps
 

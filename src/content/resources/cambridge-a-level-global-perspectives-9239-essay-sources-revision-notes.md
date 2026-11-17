@@ -49,6 +49,11 @@ These notes cover two AO1 assessment points in Component 2, the Essay, of Cambri
 | Corroboration | Independent agreement between sources |
 | Evaluative clause | A short phrase beside a citation that says why the evidence deserves weight |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--01-three-jobs.webp" width="900" height="509" alt="Range: sources from more than one place, type and standpoint. Assessment: an informed judgement of how far each source can be trusted, answering “how good is this source?”. Justification: why each key source belongs, answering “why have I used it here?”." loading="lazy">
+  <figcaption>Assessing asks how good a source is; justifying asks why it is in your essay.</figcaption>
+</figure>
+
 ## Three kinds of range
 
 1. **Geographical**: more than one region, including those on different sides of the issue.
@@ -56,6 +61,11 @@ These notes cover two AO1 assessment points in Component 2, the Essay, of Cambri
 3. **Standpoint**: each perspective represented by a source that argues for it in its own terms.
 
 Range is not quantity: fewer sources, used and evaluated, beat a long list mentioned once.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--02-kinds-of-range.webp" width="900" height="635" alt="Geographical range means sources from more than one region; type range means a mix of academic research, official data, organisational reports and quality journalism; standpoint range means each perspective has a source arguing for it in its own terms. Six sources used and evaluated beat fifteen mentioned once." loading="lazy">
+  <figcaption>Check your list for place, type and standpoint, not just length.</figcaption>
+</figure>
 
 ## The "firmly supported" selection test
 
@@ -65,11 +75,21 @@ Prefer sources that:
 - are written by people qualified to judge;
 - address your exact question, not a neighbouring one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--03-selection-test.webp" width="900" height="549" alt="Each candidate source passes four checks: does it give reasons and evidence or only assertions, can its evidence be traced, is the writer qualified to judge, and does it address the question rather than a neighbouring one. Sources that pass reach firmly supported judgements through visible evidence." loading="lazy">
+  <figcaption>Prefer sources whose reasoning and evidence you can see and check.</figcaption>
+</figure>
+
 ## Source audit columns
 
 Reference | Perspective | Provenance | Basis | Strength | Limitation | Use in essay.
 
 The **Use** column is your justification. A source with an empty Use column does not belong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--04-source-audit.webp" width="900" height="662" alt="An audit table with seven columns for each source: reference, perspective, provenance, basis, strength, limitation and use. The final Use column, what the source will do in the essay, is highlighted as the justification." loading="lazy">
+  <figcaption>Write the evaluation as you read; the Use column is your justification.</figcaption>
+</figure>
 
 ## Three in-text evaluation techniques
 
@@ -79,11 +99,21 @@ The **Use** column is your justification. A source with an empty Use column does
 | Comparison of credibility | Decides between disagreeing sources | "Where the two conflict, the study is the safer guide because ..." |
 | Limit that changes the weight | Shows how a weakness affects your argument | "... so the essay treats this as the upper end of the likely effect." |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--05-in-argument-techniques.webp" width="900" height="680" alt="Three techniques with example wording: an evaluative clause attached to the citation, a comparison of credibility when two sources disagree, and a limit that changes how much weight a finding gets." loading="lazy">
+  <figcaption>Put the judgement where the source is used, and make it change something.</figcaption>
+</figure>
+
 ## Assessing versus justifying
 
 - **Assess**: "How good is this source for this claim?"
 - **Justify**: "Why is this source in my essay?"
 - A limited source can still be justified, for example as the clearest statement of a perspective you must examine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--06-worked-example.webp" width="900" height="620" alt="For a question on congestion charges, the weak paragraph cites sources but assesses none and calls them all reliable. The strong paragraph assesses the transport authority’s interest against its checkable data, justifies relying more on an independent three-continent study, and uses range across both." loading="lazy">
+  <figcaption>A strong paragraph assesses, justifies and shows range in the same few sentences.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -45,6 +45,11 @@ Research methods is **Section C (16 marks) of both papers**. **Paper 1**: short 
 
 **Primary** = collected by the researcher. **Secondary** = already exists.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods--01-positivist-interpretivist.webp" width="900" height="492" alt="Positivists model sociology on the natural sciences and use quantitative data from large samples, such as questionnaires and official statistics, to find patterns and causes, as in Durkheim’s study of suicide. Interpretivists seek the meanings behind actions using qualitative methods for depth and validity. Triangulation combines both." loading="lazy">
+  <figcaption>Positivists count to find causes; interpretivists listen to find meanings.</figcaption>
+</figure>
+
 ## Methods (3.1.3.2)
 
 | Method | Strength | Limitation |
@@ -84,6 +89,11 @@ Linking a method to a study you already know from other topics gives you a ready
 
 Always apply the angle to the topic in the question: a postal questionnaire about domestic violence raises different problems from one about favourite school subjects.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods--03-observation-experiments.webp" width="900" height="691" alt="Four kinds of observation: participant (joining in, as in ethnography), non-participant (watching only), overt (the group knows) and covert (the group does not know, which avoids the Hawthorne effect but deceives). Below, laboratory experiments give control but are artificial; field experiments such as Rosenthal and Jacobson’s are real but less controlled." loading="lazy">
+  <figcaption>Observers choose whether to join in and whether to tell; experimenters trade control for realism.</figcaption>
+</figure>
+
 ## Issues (3.1.3.3)
 
 - **Operationalisation**: making a concept measurable.
@@ -106,6 +116,21 @@ Always apply the angle to the topic in the question: a postal questionnaire abou
 - **Quota**: the researcher stops pupils in the corridor until 30 girls and 30 boys have answered. Quick, but the researcher's choice of who to ask can introduce bias.
 - **Snowball** would not be needed here, because the population is easy to reach; it suits hidden groups such as people living without fixed addresses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods--02-six-sampling-methods.webp" width="900" height="935" alt="Six panels: random (equal chance), systematic (every nth name), stratified random (groups such as gender sampled in proportion), quota (set numbers filled by the researcher’s choice), multistage (regions, then schools, then pupils) and snowball (participants introduce others). A random sample needs a sampling frame." loading="lazy">
+  <figcaption>Each sampling method selects people differently, which affects how representative the sample is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods--04-reliability-validity.webp" width="900" height="635" alt="Three targets. Shots clustered tightly away from the centre are reliable but not valid; shots scattered around the centre are valid but not reliable; shots tightly on the bullseye are both. Below, three threats to validity: researcher bias, the Hawthorne effect and social desirability." loading="lazy">
+  <figcaption>Reliable means repeatable; valid means true. A study needs both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods--05-operationalisation-correlation.webp" width="900" height="494" alt="Left: the concept of poverty can be measured through income, possessions or both. Right: two lines, A and B, rise together over time, but that correlation does not prove that A causes B." loading="lazy">
+  <figcaption>Decide how to measure a concept, and never treat a correlation as proof of cause.</figcaption>
+</figure>
+
 ## Interpreting data (3.1.3.4)
 
 Tables, charts and graphs: title, units, highest and lowest, trend, quantified difference, what is missing. Qualitative extracts: meanings, a short quoted phrase, observer effect.
@@ -119,6 +144,11 @@ Tables, charts and graphs: title, units, highest and lowest, trend, quantified d
 5. **Limitations**: the data shows what, not why; consider who collected it, when, from which sample, and whether definitions changed over time.
 
 For an unseen global issue on Paper 1, link the pattern to concepts you know (for example poverty, gender inequality in access, or the digital divide), but do not claim the data proves a cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods--06-interpreting-data.webp" width="900" height="612" alt="Left: five steps for tables, charts and graphs: read the title, units and source; state the highest and lowest figures; describe the trend; quantify differences; say what the data does not show. Right: for qualitative extracts, identify meanings, quote a short phrase and consider the observer’s effect." loading="lazy">
+  <figcaption>Read the labels, find the extremes and trend, quote figures, then note the limits.</figcaption>
+</figure>
 
 ## Key terms
 

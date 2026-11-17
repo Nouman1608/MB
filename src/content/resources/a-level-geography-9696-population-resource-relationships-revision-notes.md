@@ -55,6 +55,11 @@ Food security is more than the amount of food grown. It is usually broken into f
 
 This framework helps in evaluation questions: a country can have high national availability and still have hungry households because access is unequal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-food-health-study-guide--01-f-security-dimensions.webp" width="900" height="640" alt="A building with a roof labelled food security held up by four pillars: availability (crates of food), access (a coin leading to a home, meaning physical and economic access), utilisation (a plate with knife and fork, meaning safe and nutritious food) and stability (a steady line, meaning at all times). If any pillar is missing the roof is not supported." loading="lazy">
+  <figcaption>Food security has four dimensions: availability, access, utilisation and stability.</figcaption>
+</figure>
+
 ## Causes of food shortage
 
 - Drought, flood, pests and other climatic hazards;

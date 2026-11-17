@@ -41,6 +41,11 @@ Thinking of a city as a system helps explain knock-on effects: a change in one i
 a surge of migrants) alters processes (housing construction, informal work) and outputs (waste,
 congestion). Cities are **open systems**, depending on a hinterland far beyond their boundary.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--04-city-system.webp" width="900" height="970" alt="Five inputs (people, energy, food, water, capital) flow into a city, three outputs (waste, goods, emissions) flow out, and five changes act on the system: migration, deindustrialisation, suburbanisation and sprawl, globalisation and technology." loading="lazy">
+  <figcaption>A city treated as a system, and the changes that act on it.</figcaption>
+</figure>
+
 ## Processes of change
 
 | Process | Key idea |
@@ -114,6 +119,11 @@ Illustrative city: 2.4 million people, growing at 3.5 per cent a year.
 - Rule of 70: doubling time about 70 / 2.7, roughly 26 years.
 
 Note that 30 per cent growth over ten years is **not** 3 per cent a year, because growth compounds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--03-urban-growth.webp" width="900" height="880" alt="Line graph from 2.4 million. After 10 years about 3.385 million; rule of 70 gives 20 years to double, about 4.8 million at year 20, if growth stayed at 3.5 per cent." loading="lazy">
+  <figcaption>Constant 3.5% growth doubles a city in about 20 years.</figcaption>
+</figure>
 
 ## Model paragraph (examine)
 

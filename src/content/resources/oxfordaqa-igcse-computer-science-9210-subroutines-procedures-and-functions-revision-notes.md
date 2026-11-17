@@ -43,6 +43,11 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-a
 4. A function's `RETURN` sends a value back; a procedure just finishes.
 5. Execution continues **after** the call.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions--01-call-jump-return.webp" width="900" height="660" alt="The main program calls ShowBanner(), outputs &quot;Question 1&quot;, then calls ShowBanner() again. Each call jumps to the separately written subroutine, runs its three OUTPUT statements, and returns to just after the call, so the banner appears before and after Question 1." loading="lazy">
+  <figcaption>A subroutine runs only when called: jump, run, return to just after the call.</figcaption>
+</figure>
+
 ## Procedure or function?
 
 | | Procedure | Function |
@@ -53,6 +58,11 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-a
 
 Exam material uses **"parameter"** for both the names in the definition and the values in the call (you may meet
 "argument" elsewhere).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions--02-procedure-vs-function.webp" width="900" height="570" alt="A procedure such as ShowBanner() carries out a task, returns nothing and is called as a statement on its own. A function such as Area in area ← Area(4, 3) calculates a value and sends it back with RETURN, so it is called as part of an expression." loading="lazy">
+  <figcaption>Both are subroutines; only a function returns a value to its caller.</figcaption>
+</figure>
 
 ## Template code
 
@@ -71,12 +81,27 @@ mean ← Average(6, 9, 12)             -- mean = 9
 Greet("Zara", 2)                     -- outputs Hello Zara twice
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions--06-grade-function.webp" width="900" height="624" alt="The function Grade(mark) returns &quot;Pass&quot; if mark ≥ 40 and &quot;Fail&quot; otherwise. The call OUTPUT Grade(STRING_TO_INT(USERINPUT)) passes the user’s input, converted from a string to an integer, into Grade and outputs the returned grade. Keeping input and output in the caller lets Grade be reused for marks from a file or an array." loading="lazy">
+  <figcaption>Pass data in as a parameter and return the result; leave input and output to the caller.</figcaption>
+</figure>
+
 ## Describing data flow (model wording)
 
 - **In:** "Values are passed to the subroutine as parameters in the call; each value is copied into the matching
   parameter in the order they are listed."
 - **Out:** "The function uses a return statement to pass a value back to the calling routine, where it can be
   stored in a variable or used in an expression."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions--03-parameters-in-order.webp" width="900" height="868" alt="ShowLine(symbol, length) is called with ShowLine(&quot;*&quot;, 5): &quot;*&quot; is copied into symbol and 5 into length, so it outputs *****. ShowLine(&quot;-&quot;, 3) outputs ---. Swapping the values, ShowLine(5, &quot;*&quot;), puts a number in symbol and a string in length, which breaks the loop." loading="lazy">
+  <figcaption>Each value in the call is copied into the parameter in the same position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions--04-return-value.webp" width="900" height="697" alt="cost ← PriceAfterDiscount(80.0, 25) copies 80.0 into price and 25 into percent; the function calculates 80.0 - 80.0 * 25 / 100 and RETURN sends back 60.0, which replaces the call, so cost becomes 60.0. A returned value can be stored or reused; a value that is only output cannot be used by the caller." loading="lazy">
+  <figcaption>RETURN sends the value back to the call, which is replaced by it.</figcaption>
+</figure>
 
 ## Advantages (each with its reason)
 
@@ -111,6 +136,11 @@ OUTPUT total
 
 Output: **14**. Each pass makes a new call with the current value of `k`; the returned value replaces
 `Square(k)` in the expression.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions--05-tracing-calls.webp" width="900" height="776" alt="Larger(14, 9) receives a = 14, b = 9 and returns 14, so best is 14. Larger(best, 21) receives the current value 14 and 21 and returns 21, so best is 21. ShowResult(&quot;Mo&quot;, best) is a procedure that receives name &quot;Mo&quot; and score 21 and outputs Mo scored 21." loading="lazy">
+  <figcaption>Record the parameters each call receives and what it returns, one call at a time.</figcaption>
+</figure>
 
 ## Key terms
 

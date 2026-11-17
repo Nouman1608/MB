@@ -39,6 +39,11 @@ featured: false
 | Lecompton Constitution, 1857 | Pro-slavery constitution for Kansas | Seen as fraudulent; split Buchanan from Douglas and the Democrats |
 | Crittenden proposals, 1860-61 | Restore and extend the 36°30′ line to the Pacific | Lincoln would not accept any expansion of slavery |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--02-territorial-question.webp" width="900" height="726" alt="A table of four measures. The Missouri Compromise (1820) drew a line at 36°30′. The Compromise of 1850 used popular sovereignty in Utah and New Mexico and passed a tougher Fugitive Slave Act. The Kansas-Nebraska Act (1854) applied popular sovereignty north of the old line. Dred Scott (1857) ruled that Congress could not ban slavery in the territories." loading="lazy">
+  <figcaption>Each answer to the territorial question made the next crisis worse.</figcaption>
+</figure>
+
 ## Chronology
 
 | Date | Event |
@@ -66,6 +71,16 @@ featured: false
 | 1872 / 1875 | Amnesty Act / Civil Rights Act |
 | 1873 | Panic of 1873; Colfax massacre |
 | 1876-77 | Disputed election; Compromise of 1877 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--01-sectional-crises-timeline.webp" width="900" height="611" alt="A timeline from 1820 to 1860 drawn to scale. Early events are spread out: the Missouri Compromise (1820), the 1828 tariff and the nullification crisis (1832-33). From 1845 they crowd together: Texas, the Wilmot Proviso, the Mexican War, the Free Soil Party, the Compromise of 1850, the Kansas-Nebraska Act, the Brooks-Sumner attack, Dred Scott, Lecompton, the Lincoln-Douglas debates and John Brown's raid." loading="lazy">
+  <figcaption>Crises came faster after 1845, and almost all were about slavery in new land.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--03-secession-two-stages.webp" width="900" height="765" alt="Lincoln won the 1860 election with about 40 per cent of the vote and no Southern electoral votes against a split field. Stage 1: South Carolina seceded in December 1860 and seven Deep South states formed the Confederacy by February 1861. After Fort Sumter on 12 April 1861 and Lincoln's call for volunteers, stage 2 followed: Virginia, Arkansas, Tennessee and North Carolina seceded. The four Border States stayed in the Union." loading="lazy">
+  <figcaption>The Deep South left over Lincoln's election; the Upper South left over the call for troops.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -97,6 +112,11 @@ featured: false
 
 **Turning points:** Antietam (stopped Lee and allowed emancipation); Gettysburg and Vicksburg (July 1863); Atlanta (secured Lincoln's re-election in 1864).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--04-why-four-years.webp" width="900" height="850" alt="A table of six factors. For each, one column shows why the war dragged on, such as the Confederacy fighting defensively and Lee and Jackson's success in the east, and another shows what favoured the Union, such as Grant's and Sherman's western victories, Northern population and industry, Union finance, emancipation and British neutrality." loading="lazy">
+  <figcaption>Resources explain the Union victory; strategy and leadership explain its length.</figcaption>
+</figure>
+
 ## Reconstruction in three phases
 
 | Phase | Who led | Key features |
@@ -104,6 +124,21 @@ featured: false
 | Wartime, 1863-65 | Lincoln | Ten Percent Plan; Wade-Davis Bill pocket-vetoed; 13th Amendment passed by Congress |
 | Presidential, 1865-67 | Johnson | Pardons; Black Codes; vetoes of the Freedmen's Bureau and Civil Rights bills |
 | Radical / Congressional, 1867-77 | Congress, then Grant | Military districts; 14th and 15th Amendments; Black officeholding; Force Acts; then retreat |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--05-reconstruction-plans.webp" width="900" height="810" alt="Four steps: Lincoln's Ten Percent Plan (1863); Congress's Wade-Davis Bill (1864), pocket-vetoed; Johnson's pardons and Black Codes from April 1865; and Radical Reconstruction after the 1866 elections, with military districts in 1867 and Johnson's impeachment in 1868. Below, the three positions: Radical Republicans, Conservatives and Copperheads." loading="lazy">
+  <figcaption>Control passed from the President to a Radical-led Congress after 1866.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--06-reconstruction-timeline.webp" width="900" height="650" alt="A timeline from 1863 to 1877 drawn to scale. The advances cluster between 1865 and 1871: the 13th Amendment, the Reconstruction Acts, the 14th Amendment and impeachment, the 15th Amendment and the Force Acts. The retreat follows: the Amnesty Act (1872), the Panic of 1873 and Colfax, a barely enforced Civil Rights Act (1875) and the Compromise of 1877." loading="lazy">
+  <figcaption>Gains came fast from 1865 to 1871; after 1872 the North pulled back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-civil-war-reconstruction--07-reconstruction-criteria.webp" width="900" height="568" alt="Four criteria cards. Reunion and the end of slavery are marked as successes; civil and political rights are mixed, written into the Constitution but undone by terror and redemption; economic independence is a failure, as freedpeople received no land and most became sharecroppers. A note gives a possible judgement." loading="lazy">
+  <figcaption>Judge Reconstruction against criteria: whose aims, and which ones?</figcaption>
+</figure>
 
 ## Exam traps
 

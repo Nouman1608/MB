@@ -46,6 +46,11 @@ Identify pairs by finding the two species that differ by one proton — one on e
 
 The definition is **behavioural**, not compositional — it describes what a substance *does*, not what class it belongs to. This is why ammonia counts as a common alkali even though its own formula contains no OH⁻: dissolved in water, NH₃ accepts a proton from H₂O to form NH₄⁺ and OH⁻.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-acids-and-bases-bronsted-lowry-theory--08-proton-transfer.webp" width="900" height="820" alt="Top: HCl passes an H+ to water, giving Cl- and H3O+; HCl is the acid (donor), water the base (acceptor). Bottom: NH3 takes an H+ from water, giving NH4+ and OH-; NH3 is the base, water the acid. A curved arrow with an H+ label shows the proton moving." loading="lazy">
+  <figcaption>An acid donates H+ and a base accepts H+; NH3 is a base even though it has no OH in its formula.</figcaption>
+</figure>
+
 ## Strong vs weak — and the trap
 
 | | Strong | Weak |
@@ -57,6 +62,16 @@ The definition is **behavioural**, not compositional — it describes what a sub
 
 **Observable differences** between a strong and a weak acid of the *same concentration*: the strong acid reacts **faster with a reactive metal** (more free H⁺ immediately available), has a **lower pH**, and **conducts electricity better** (full dissociation produces more ions in solution).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-acids-and-bases-bronsted-lowry-theory--09-strong-weak-vs-conc.webp" width="900" height="910" alt="A two by two grid of particle boxes. Columns: strong acid (every HA split into H+ and A-) and weak acid (mostly whole HA, one in six split). Rows: dilute (6 HA units) and concentrated (18 units). Strength and concentration are independent." loading="lazy">
+  <figcaption>Strong and weak describe how far an acid dissociates; concentrated and dilute describe how much is dissolved.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-acids-and-bases-bronsted-lowry-theory--10-strong-weak-tests.webp" width="900" height="1110" alt="Three tests. Magnesium: the strong acid gives many bubbles and reacts faster, the weak acid few bubbles and reacts slower. pH scale 0 to 14 with 7 marked: the strong acid sits at a lower pH than the weak acid (positions illustrative). Conductivity: the strong acid lights a bulb more brightly because it has more ions." loading="lazy">
+  <figcaption>At the same concentration a strong acid reacts faster, has a lower pH and conducts better than a weak acid.</figcaption>
+</figure>
+
 ## Titration curves — the four shapes
 
 | Combination | pH at start | Vertical section | Equivalence pH |
@@ -67,6 +82,11 @@ The definition is **behavioural**, not compositional — it describes what a sub
 | Weak acid + weak base | ~3 | **No vertical section** | ~7 |
 
 The equivalence point is **not** always pH 7 — it depends on the salt formed. Weak acid + strong base gives a salt that hydrolyses to give an alkaline solution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-acids-and-bases-bronsted-lowry-theory--12-titration-four-curves.webp" width="900" height="1020" alt="Four computed pH curves for alkali added to 25 cm3 of acid (0.100 mol per dm3, illustrative). Strong/strong: long vertical section, equivalence pH 7.0. Weak acid/strong alkali: steep section, equivalence about pH 8.7. Strong acid/weak alkali: steep section, equivalence about pH 5.3. Weak/weak: no sharp vertical section." loading="lazy">
+  <figcaption>The shape of the curve and the pH at equivalence depend on whether the acid and alkali are strong or weak.</figcaption>
+</figure>
 
 ## Choosing an indicator
 
@@ -81,6 +101,11 @@ An indicator is suitable if its **pH range falls entirely within the vertical se
 
 That last row is the exam favourite: with a weak acid and weak base there is no vertical section, so **no indicator works** and a pH meter must be used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-acids-and-bases-bronsted-lowry-theory--13-indicator-fit.webp" width="900" height="1160" alt="For each titration type a pH axis from 0 to 14 shows the steep section (gold, computed within 0.2 cm3 of equivalence) and the colour-change ranges of methyl orange and phenolphthalein. Strong/strong: both fit. Weak acid/strong alkali: only phenolphthalein. Strong acid/weak alkali: only methyl orange. Weak/weak: no sharp step, neither fits." loading="lazy">
+  <figcaption>An indicator is suitable only if its colour-change range lies within the steep part of the curve.</figcaption>
+</figure>
+
 ## Neutralisation and salt formation
 
 **Neutralisation** is the reaction of H⁺(aq) with OH⁻(aq) to form water:
@@ -90,6 +115,11 @@ H+(aq) + OH-(aq) -> H2O(l)
 ```
 
 The positive ion left from the acid and the negative ion left from the base combine to form a **salt** — e.g. hydrochloric acid + sodium hydroxide → sodium chloride + water. At AS Level, pH is described **qualitatively only** (below 7 acidic, 7 neutral, above 7 alkaline) — numerical Ka, pKa and pH calculations are A2 content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-acids-and-bases-bronsted-lowry-theory--11-ph-neutralisation.webp" width="900" height="960" alt="A pH strip from 0 to 14: below 7 acid, 7 water, above 7 alkali. Common acids listed: HCl, H2SO4, HNO3, CH3COOH; common alkalis NaOH, KOH, NH3. Neutralisation is H+ + OH- forming H2O; with HCl + NaOH the Na+ from the alkali and the Cl- from the acid form the salt NaCl." loading="lazy">
+  <figcaption>Neutralisation is H+(aq) + OH-(aq) forming H2O(l), and the other ions form a salt.</figcaption>
+</figure>
 
 ## Half-equivalence point — A Level only
 

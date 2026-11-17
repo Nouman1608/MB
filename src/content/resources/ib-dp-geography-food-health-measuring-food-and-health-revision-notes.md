@@ -50,6 +50,11 @@ Malnutrition covers too little food, too much, or poor-quality diets, so undernu
 - **Hidden hunger:** deficiency of micronutrients such as iron, iodine or vitamin A, which can occur even when calorie intake is adequate. Iron deficiency causes anaemia.
 - **Double burden of malnutrition:** undernutrition and overweight or obesity in the same country, community or even household.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-food-health-study-guide--01-f-security-dimensions.webp" width="900" height="640" alt="A building with a roof labelled food security held up by four pillars: availability (crates of food), access (a coin leading to a home, meaning physical and economic access), utilisation (a plate with knife and fork, meaning safe and nutritious food) and stability (a steady line, meaning at all times). If any pillar is missing the roof is not supported." loading="lazy">
+  <figcaption>Food security has four dimensions: availability, access, utilisation and stability.</figcaption>
+</figure>
+
 ## Measures
 
 | Type | Measures |
@@ -72,11 +77,21 @@ Malnutrition covers too little food, too much, or poor-quality diets, so undernu
 - **Infant mortality** is deaths under age one per 1,000 live births; **under-five mortality** uses the same base for deaths before age five; **maternal mortality ratio** is usually given per 100,000 live births.
 - **Healthy life expectancy** estimates the years lived in good health, so it adds quality to the quantity measured by life expectancy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-food-health-study-guide--02-f-bmi-scale.webp" width="900" height="830" alt="A person standing on a weighing scale reading 52 kg beside a ruler showing 1.60 m. BMI equals mass in kilograms divided by height in metres squared, so 52 divided by 2.56 gives 20.3. A number line from 14 to 34 shades the commonly used healthy adult range of 18.5 to 24.9 and marks 20.3 and a second example, 70 kg at 1.75 m, giving 22.9, both inside the healthy range." loading="lazy">
+  <figcaption>BMI is mass in kilograms divided by height in metres squared, shown for the lesson examples of 52 kg and 70 kg.</figcaption>
+</figure>
+
 ## Worked examples
 
 - **Infant mortality:** 45 infant deaths among 3,000 live births = 45 / 3,000 x 1,000 = 15 per 1,000.
 - **DALYs:** an illustrative disease causes 200 early deaths, each losing 15 years (YLL = 3,000), and 1,000 people live with it for 4 years at a disability weight of 0.1 (YLD = 1,000 x 4 x 0.1 = 400). Total = 3,400 DALYs.
 - **BMI category:** 95 kg and 1.78 m gives 95 / 3.1684 = 30.0, on the boundary of the obese category.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-food-health-study-guide--03-f-daly.webp" width="900" height="850" alt="Two worked calculations feed one measure. Years of life lost: 1,000 people die early, each losing 20 years, giving 20,000. Years lived with disability: 5,000 people live 3 years with a disability weight of 0.2, giving 3,000. A bar of 23,000 disability-adjusted life years is about 87 per cent early death and 13 per cent disability, so most of the burden comes from premature mortality." loading="lazy">
+  <figcaption>A DALY combines early death and illness, and here most of the burden is premature mortality.</figcaption>
+</figure>
 
 ## Limits of data
 

@@ -79,6 +79,11 @@ Learn this as a loop — the order is where marks are won.
 | Science | Laboratory experiment monitoring | pH, temperature | Adds a chemical or adjusts a heater |
 | Gaming | Motion-controlled console | Accelerometer | Changes what is shown on screen or makes a controller vibrate |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--03-greenhouse-trace.webp" width="900" height="850" alt="Six readings 17, 19, 22, 25, 21 and 18 are plotted against a preset line at 20 degrees Celsius. The heater is on for readings 1, 2 and 6, three of six; exactly 20 would be off." loading="lazy">
+  <figcaption>The heater is on whenever the reading is below 20.</figcaption>
+</figure>
+
 ### Advantages and disadvantages of automated systems
 
 | Advantages | Disadvantages |
@@ -90,6 +95,16 @@ Learn this as a loop — the order is where marks are won.
 | Can reduce waste, such as water or energy | Cannot cope with situations they were not programmed for |
 
 Always tie each point to the scenario: "the irrigation system only waters when the soil is dry, so less water is wasted" scores; "it saves resources" may not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--01-auto-components.webp" width="900" height="924" alt="Vertical flow of sensor, ADC, microprocessor, optional DAC and actuator, with analogue or digital labelled on each arrow and a short note on what each part does." loading="lazy">
+  <figcaption>Signal path through an automated system.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--02-feedback-loop.webp" width="900" height="740" alt="Five numbered steps in a loop: sensor reading, conversion to digital, comparison with the preset value, signal to actuator if needed, next reading shows the effect." loading="lazy">
+  <figcaption>The output changes the next input, which is feedback.</figcaption>
+</figure>
 
 ## 6.2 Robots
 
@@ -110,6 +125,11 @@ Examples in the syllabus: factory equipment, domestic robots and drones.
 | Domestic | Robot vacuum cleaners | Saves the owner time | Struggles with stairs and clutter |
 | Entertainment | Animatronics in theme parks or films | Repeatable, realistic movement | Costly to build and maintain |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--04-robot-features.webp" width="900" height="990" alt="A simple robot with wheels, processor, sensor and jointed arm, with the three characteristics numbered: mechanical structure, electrical components and programmable." loading="lazy">
+  <figcaption>A robot has a mechanical structure, electrical components and can be reprogrammed.</figcaption>
+</figure>
+
 ## 6.3 Artificial intelligence
 
 **Main characteristics of AI (6.3.2):** the collection of data and the rules for using that data; the ability to reason; and it can include the ability to learn and adapt.
@@ -126,6 +146,16 @@ Examples in the syllabus: factory equipment, domestic robots and drones.
 **How it runs:** the interface asks questions → the user's answers are passed to the inference engine → the inference engine searches the knowledge base using the rule base → it may ask further questions → it outputs a conclusion (often with a probability) through the interface.
 
 **Machine learning:** the program automatically adapts its own processes and/or data, for example as it is given more examples, so its performance improves without it being reprogrammed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--05-ai-parts.webp" width="900" height="870" alt="The interface passes the user facts to the inference engine, which applies the rule base to the knowledge base. Rule 1 matches and fires giving possible infection; Rule 2 is unused." loading="lazy">
+  <figcaption>The inference engine applies rules to facts to reach a conclusion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--06-ai-vs-ml.webp" width="900" height="940" alt="Machine learning sits inside artificial intelligence. A spam filter learns from labelled messages, adjusts itself and classifies new mail; poor or biased data gives poor decisions." loading="lazy">
+  <figcaption>Machine learning is one approach within AI.</figcaption>
+</figure>
 
 ## Worked example: describing an automated system in full
 

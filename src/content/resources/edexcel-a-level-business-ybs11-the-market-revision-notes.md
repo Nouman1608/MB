@@ -41,6 +41,16 @@ Condensed recall for section 1.3.2 of Unit 1. For explanations and worked exampl
 
 **Own price changes never shift the curve:** they cause a movement along it (extension or contraction).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-the-market--01-movement-or-shift.webp" width="900" height="716" alt="Left: when the product’s own price falls from P1 to P2, quantity demanded extends from Q1 to Q2 along the same demand curve. Right: when another factor changes, such as a rival’s price rising, the whole demand curve shifts right from D to D1." loading="lazy">
+  <figcaption>Own price moves you along the curve; anything else shifts it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-the-market--02-what-shifts-the-curves.webp" width="900" height="869" alt="Demand shifts right for loose coffee when pod prices rise, for pods when machine prices fall, for mobility aids as the population ages, and with the seasons; it shifts left for products bought by young adults. Supply shifts left with an indirect tax or higher costs and right with a subsidy or new technology." loading="lazy">
+  <figcaption>Explain the mechanism behind each shift, not just its direction.</figcaption>
+</figure>
+
 ## Equilibrium and diagrams
 
 - Equilibrium: quantity demanded = quantity supplied.
@@ -51,6 +61,21 @@ Condensed recall for section 1.3.2 of Unit 1. For explanations and worked exampl
 - An indirect tax shifts supply up by the tax per unit, but price usually rises by **less** than the tax.
 
 **Diagram checklist:** labelled axes (Price, Quantity); D and S labelled; original equilibrium P1, Q1 with dotted lines; new curve labelled with an arrow; new equilibrium P2, Q2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-the-market--03-both-curves-shift.webp" width="900" height="660" alt="Demand shifts right from D to D1 and supply shifts right from S to S1. Quantity rises from Q1 to Q2, but the effect on price depends on the relative size of the two shifts; with equal shifts, as drawn, price is unchanged." loading="lazy">
+  <figcaption>With two shifts, one variable is certain and the other depends on their sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-the-market--04-fenwick-indirect-tax.webp" width="900" height="780" alt="Demand Qd = 900 − 30P and supply Qs = 100 + 50P meet at $10 and 600 cartons. A $1.60 tax shifts supply left to Qs = 20 + 50P, giving a new equilibrium at $11 and 570 cartons. The price rises by only $1.00, so each firm keeps $9.40 a carton instead of $10." loading="lazy">
+  <figcaption>Customers pay $1.00 of the $1.60 tax; firms absorb the rest and sell less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-the-market--05-constructing-a-diagram.webp" width="900" height="736" alt="A labelled diagram with demand shifting right from D to D1. Numbered points show the five elements: labelled axes, labelled D and S curves, the original equilibrium with dotted lines to P1 and Q1, the shifted curve with a direction arrow, and the new equilibrium at P2 and Q2." loading="lazy">
+  <figcaption>Five labels turn a sketch into a constructed diagram.</figcaption>
+</figure>
 
 ## PED
 
@@ -69,6 +94,16 @@ PED = % change in quantity demanded / % change in price
 
 **Predicting quantity from PED:** % change in quantity = PED × % change in price. A 5% price rise with PED −0.6 cuts quantity by 3%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-the-market--06-ped-and-revenue.webp" width="900" height="740" alt="A PED scale from 0 to above 1. A price rise raises revenue when demand is perfectly inelastic or inelastic, leaves it unchanged at 1 and reduces it when demand is elastic. Demand is more elastic with close substitutes, non-necessities, a large share of income, little loyalty and more time. Pricing decisions are about profit, not just revenue." loading="lazy">
+  <figcaption>PED predicts what a price change does to revenue; profit also depends on costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-the-market--07-brockley-price-rise.webp" width="900" height="866" alt="Brockley Gyms earns $400,000 a month from 10,000 members at $40. A 10% rise to $44 gives $422,400 (up $22,400) if PED is −0.4 and members fall to 9,600, but $360,800 (down $39,200) if PED is −1.8 and members fall to 8,200. Long contracts and few rivals point to −0.4; nearby budget gyms point to −1.8." loading="lazy">
+  <figcaption>The same price rise gains or loses revenue depending on the PED estimate.</figcaption>
+</figure>
+
 ## YED
 
 ```
@@ -82,6 +117,11 @@ YED = % change in quantity demanded / % change in income
 | Below 0 | Inferior | Sales rise when incomes fall |
 
 **Influences:** necessity or luxury; the income level of customers; better alternatives to trade up to. **Uses:** sales forecasting, capacity and staff planning, balancing the product portfolio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-the-market--08-yed-brockley.webp" width="900" height="746" alt="A YED scale: below 0 inferior, 0 to +1 normal and income inelastic, above +1 normal and income elastic. Brockley’s off-peak budget membership falls 2% when incomes rise 5% (YED −0.4, inferior); its premium personal training rises 9% (YED +1.8, income elastic)." loading="lazy">
+  <figcaption>Positive YED means a normal good, negative an inferior one; the size shows how strongly demand follows income.</figcaption>
+</figure>
 
 ## Key terms
 

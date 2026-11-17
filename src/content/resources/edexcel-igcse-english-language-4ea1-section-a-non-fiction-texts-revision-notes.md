@@ -40,6 +40,16 @@ Language A (4EA1). For full explanations and a worked example, use the
 The paper lasts 2 hours 15 minutes in total; Section B transactional writing takes the remaining
 45 minutes, so overrunning Section A costs writing marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-non-fiction-texts--01-section-a-two-texts.webp" width="900" height="622" alt="Section A uses a non-fiction text from Part 1 of the Anthology, printed in the exam, and one previously unseen extract. It is worth 45 marks in about 1 hour 30 minutes including reading time. Students should read journalism, speeches, journals, reference books and literary non-fiction; transient texts such as instant news feeds and advertisements are not assessed." loading="lazy">
+  <figcaption>One known Anthology text, one unseen extract, 45 marks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-1--08-section-a-marks.webp" width="900" height="900" alt="A grid of 45 squares, one per mark in Section A: 11 for AO1 comprehension, 12 for AO2 analysis of language and structure, and 22 for AO3 links and connections between the two texts. AO3 is almost half the section and is 15 per cent of the whole qualification." loading="lazy">
+  <figcaption>AO3 comparison carries 22 of Section A’s 45 marks.</figcaption>
+</figure>
+
 ## Part 1 anthology texts to know
 
 | Text | Writer | Form to remember |
@@ -70,6 +80,11 @@ Cover structure (openings, shifts, endings, chronology) as well as word choice.
 **AO3: compare ideas and perspectives.** The specification adds "as well as how these are conveyed",
 so compare **methods** too. Integrate both texts in every paragraph.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-non-fiction-texts--02-ao1-select-and-infer.webp" width="900" height="596" alt="Explicit information is told: “The village had no road” gives a fact. Implicit information is worked out: she “rationed the last of the batteries” suggests the journey had gone on longer than planned and she felt anxious. Three habits: stay inside the line range, make one point per piece of evidence, and use your own words when told to." loading="lazy">
+  <figcaption>Select precisely, infer from evidence, one point at a time.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning | Why it matters in Section A |
@@ -96,6 +111,11 @@ so compare **methods** too. Integrate both texts in every paragraph.
 - **Sentence variety:** a short sentence after a long one lands as a judgement or a shock.
 - **Endings:** a reflection, a call to the reader, or an image left unexplained.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-non-fiction-texts--03-ao2-non-fiction-devices.webp" width="900" height="756" alt="A table of eight non-fiction devices and their typical effects, from anecdote and direct address to structural shifts and an ending that circles back to the opening image. Structural devices are highlighted because they are the ones most often left out." loading="lazy">
+  <figcaption>Cover structure as well as language in every AO2 answer.</figcaption>
+</figure>
+
 ## A comparison plan in three rows
 
 | Row | Text 1 | Text 2 |
@@ -105,6 +125,16 @@ so compare **methods** too. Integrate both texts in every paragraph.
 | Methods | anecdote, short sentences | headline, quotation, contrast |
 
 Three or four rows like this become three or four integrated paragraphs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-non-fiction-texts--05-ao3-perspectives.webp" width="900" height="816" alt="AO3 has two halves: links between ideas and perspectives, and how these are conveyed. Perspectives include insider or outsider, participant or observer, approving or critical, certain or uncertain. Morris’s article reports detachedly and invites judgement with its headline; the rescuer writes from inside the event with first-person honesty and ends with sympathy." loading="lazy">
+  <figcaption>Compare what the writers think and how they convey it, in every paragraph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-non-fiction-texts--06-pacing-and-plan.webp" width="900" height="686" alt="A bar of Section A’s 45 marks in proportion: AO1 11, AO2 12 and AO3 22, with the largest block of time protected for the comparison. Below, a three-row planning grid: shared idea, Text 1 perspective and method, Text 2 perspective and method." loading="lazy">
+  <figcaption>Give the 22-mark comparison the most time, and plan it in a grid.</figcaption>
+</figure>
 
 ## Exam traps
 

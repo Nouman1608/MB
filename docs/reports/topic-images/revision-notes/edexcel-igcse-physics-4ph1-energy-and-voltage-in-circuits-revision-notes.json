@@ -1,0 +1,10 @@
+{ "page": "edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--03-series-vs-parallel-lighting.webp", "after": "## Series versus parallel" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--06-iv-characteristics.webp", "after": "## I−V graph shapes" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--08-lamp-resistance-two-points.webp", "after": "## I−V graph shapes" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--05-iv-investigation-circuit.webp", "after": "## I−V investigation in brief" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--01-charge-current-energy.webp", "after": "## Charge and energy ideas" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--02-junction-and-voltage-rules.webp", "after": "## Charge and energy ideas" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--04-series-worked-example.webp", "after": "## Series calculation routine" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--07-ldr-thermistor-circuits.webp", "after": "## Sensor circuits" }
+] }

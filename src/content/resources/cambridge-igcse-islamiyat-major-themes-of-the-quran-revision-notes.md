@@ -45,6 +45,21 @@ passage is important to Muslims today. For (a), refer to wording in the passage 
 group theme. For (b), give a practical application, such as how belief shapes worship, behaviour or
 attitude, and support it with another verse or hadith where you can.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-major-themes-quran--02-question-1.webp" width="900" height="604" alt="Three set passages are printed in Arabic and English and you choose two. Part (a) asks for the main theme of each and part (b) for the importance of those themes today, each worth 4 marks, half for each passage." loading="lazy">
+  <figcaption>Two passages, two parts: theme first, then importance today.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-major-themes-quran--03-description-vs-theme.webp" width="900" height="546" alt="Two statements about Sura 41.37. A description lists what it mentions: the night, the day, the sun and the moon. A theme states its teaching: nature's wonders are signs of the Creator, so worship belongs to God alone." loading="lazy">
+  <figcaption>State the teaching, not a summary of the words.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-major-themes-quran--06-importance-today.webp" width="900" height="782" alt="A strong part (b) answer links the theme to a specific action and the reason the passage gives. Examples: reciting Sura 2.255 for protection, avoiding images of God (6.103), gratitude and care for the earth (2.21-22), seeking knowledge (96.1-5), seeking refuge from temptation (114), reflection like Ibrahim (6.75-79) and caring for orphans (93.9-10)." loading="lazy">
+  <figcaption>Theme, action, reason: make each application specific to its passage.</figcaption>
+</figure>
+
 ## Group 1: Allah in Himself
 
 | Passage | Main theme | Key points | Importance today |
@@ -54,6 +69,11 @@ attitude, and support it with another verse or hadith where you can.
 | Sura 41.37 | Signs of Allah in nature; worship only the Creator | Night and day, sun and moon are signs; do not prostrate to the sun or moon but to Allah who created them | Muslims see the natural world as evidence of Allah and avoid worshipping created things |
 | Sura 42.4–5 | Allah's greatness and mercy | All in the heavens and earth belong to Him; He is Most High; the heavens almost burst; angels glorify Him and ask forgiveness for those on earth; He is Oft-Forgiving, Most Merciful | Encourages awe and hope; Muslims seek forgiveness, knowing even angels pray for them |
 | Sura 112 (al-Ikhlas) | Absolute oneness of Allah | He is One; eternal and absolute; He does not beget, nor is He begotten; none is comparable to Him | A summary of tawhid; often recited in prayer; the Prophet (pbuh) described it as equal to a third of the Qur'an |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-major-themes-quran--01-three-groups.webp" width="900" height="738" alt="The three groups of set passages: God in Himself (Sura 2.255, 6.101-103, 41.37, 42.4-5, 112), God's relationship with the created world (Sura 1, 2.21-22, 96.1-5, 99, 114) and God's Messengers (Sura 2.30-37, 6.75-79, 5.110, 93, 108), each with the direction its themes take." loading="lazy">
+  <figcaption>The group heading tells you which direction the theme will take.</figcaption>
+</figure>
 
 ## Group 2: Allah's relationship with the created world
 

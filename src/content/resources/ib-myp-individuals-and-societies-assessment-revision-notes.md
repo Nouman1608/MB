@@ -40,6 +40,11 @@ the MYP subject-group guide additionally recognises a **level of 0** below the l
 single criterion's actual attainable range is 0-8, and the four-criterion subject total is 0-32, not
 4-32.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-criteria-in-practice--01-four-criteria.webp" width="900" height="728" alt="Four rows: A knowing and understanding, B investigating, C communicating and D thinking critically, each with a one-line summary of top-band evidence. The same criteria apply across every discipline in the course." loading="lazy">
+  <figcaption>Four broad criteria, written to work for every discipline in the subject.</figcaption>
+</figure>
+
 ## If your school offers MYP eAssessment (history, geography or integrated humanities only)
 
 A 2-hour on-screen exam, three tasks, **weighted by marks, not equally**:
@@ -53,6 +58,16 @@ A 2-hour on-screen exam, three tasks, **weighted by marks, not equally**:
 The thinking-critically task is the **largest single component** — always requires working from
 source material, not recalling facts in isolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-societies-disciplines--01-disciplines-to-eassessment.webp" width="900" height="670" alt="Nine disciplines a school may teach, from integrated humanities and history to psychology and world religions, narrow to only three on-screen eAssessment subjects: history, geography and integrated humanities." loading="lazy">
+  <figcaption>Whatever discipline is taught, the eAssessment comes in only three subjects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-societies-disciplines--02-three-tasks.webp" width="900" height="630" alt="A bar split by marks: investigating 26, communicating 18 and thinking critically 36, out of 80. Investigating uses criteria A and B; communicating A and C; thinking critically, the largest task, A, C and D and ends in extended writing." loading="lazy">
+  <figcaption>Thinking critically carries 36 of the 80 marks and ends in extended writing.</figcaption>
+</figure>
+
 ## The four criteria in more depth
 
 Each of the four criteria (A-D) is assessed against a set of level descriptors, typically organised into four bands (for example 1-2, 3-4, 5-6, 7-8), describing progressively more sophisticated performance -- criterion A rewards accurate recall and increasingly nuanced conceptual understanding; criterion B rewards well-planned inquiry and effective use of a range of research methods and sources; criterion C rewards clear organisation, appropriate use of terminology, and correct referencing of sources; criterion D rewards genuine analysis and evaluation, including recognising different perspectives on an issue rather than presenting only one viewpoint. Teachers combine performance across multiple assessed tasks over the course of the year to arrive at a final 1-8 grade for each criterion, which are then combined into an overall MYP subject grade using the programme's standard grade-boundary conversion.
@@ -61,9 +76,24 @@ Each of the four criteria (A-D) is assessed against a set of level descriptors, 
 
 Because most MYP assessment happens through ongoing classroom-based coursework rather than a single high-stakes exam, students have multiple opportunities across the year to demonstrate achievement against each of the four criteria, and a school's internal assessment calendar (not a single external exam date) is what actually determines when key pieces of assessed work are due. This structure rewards consistent engagement with coursework across units rather than concentrated exam-season revision, which is a genuinely different preparation approach from the DP's exam-weighted model students will encounter later if they progress to the Diploma Programme.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-criteria-in-practice--06-one-unit-four-criteria.webp" width="900" height="538" alt="A single local-issue investigation runs A, framing the issue with conceptual knowledge, then B, researching it, then C, a structured referenced write-up, then D, a critical evaluation. A dashed arrow shows that strong D evaluation depends on B research having gathered more than one perspective." loading="lazy">
+  <figcaption>The criteria build on each other inside one piece of coursework.</figcaption>
+</figure>
+
 ## The eAssessment structure in more depth
 
 Where a school opts into eAssessment for History, Geography or Integrated Humanities, the on-screen exam is built around source-based tasks throughout -- every task requires working with provided source material (documents, data, images, or a combination) rather than answering from memorised content alone, which is why building comfort with unfamiliar sources under timed conditions is a more valuable use of revision time than memorising facts in isolation. The **investigating** task (worth 26 of the 80 total marks) most closely resembles a structured research-skills exercise; the **communicating** task (18 marks) tests the ability to organise a response clearly around a specific question; the **thinking critically** task (36 marks, the largest single component) requires sustained extended writing that analyses and evaluates source material, often drawing together criteria A, C and D simultaneously.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-societies-disciplines--03-source-evaluation.webp" width="900" height="567" alt="Summarising a source extracts its facts; evaluating it says what it can and cannot tell you for a research purpose. Official sample questions test this on one source, a value or limitation of source B, and comparatively, the usefulness of sources C and D for studying protest movements." loading="lazy">
+  <figcaption>Evaluate usefulness for a purpose, on one source or two; do not just summarise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-societies-disciplines--04-extended-writing.webp" width="900" height="545" alt="A sample to-what-extent question about protest movements leads to three steps: take a position, weigh it against alternatives, and reach a reasoned judgement. A narrative description cannot reach top marks; a structured argument can." loading="lazy">
+  <figcaption>Take a position, weigh alternatives and judge: description alone cannot reach the top.</figcaption>
+</figure>
 
 ## How MYP assessment connects forward to the Diploma Programme
 

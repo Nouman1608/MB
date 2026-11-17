@@ -1,0 +1,8 @@
+{ "page": "cambridge-a-level-computer-science-programming-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--01-pg-div-mod.webp", "after": "## Operators" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--02-pg-string-positions.webp", "after": "## Built-in functions (examples from the pseudocode guide)" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--03-pg-loops.webp", "after": "## Which loop should you use?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--06-pg-validate-loop.webp", "after": "## Which loop should you use?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--05-pg-byval-byref.webp", "after": "## Procedures and functions" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--04-pg-digitsum-trace.webp", "after": "## Procedures and functions" }
+] }

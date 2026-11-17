@@ -35,12 +35,22 @@ use the [Paper 4 Section A Pre-1900 study guide](/resources/cambridge-a-level-en
 - Closed book; no dictionaries.
 - **Form rule**: across Paper 4, one poetry essay and one prose essay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose--01-section-a-at-a-glance.webp" width="900" height="592" alt="Paper 4 is worth 50 marks: Section A on a pre-1900 text is 25 marks for one essay and Section B on a post-1900 text the other 25. Section A is assessed on AO1 to AO5 at 20% each. On each set text you choose question (a), an essay on the whole text, or question (b) on a printed passage or poem. Texts are not allowed in the exam room." loading="lazy">
+  <figcaption>One pre-1900 essay worth 25 marks, assessed on all five objectives equally.</figcaption>
+</figure>
+
 ## Choosing your pairing
 
 | If your pre-1900 text is… | Your post-1900 text must be… |
 |---|---|
 | A novel (Austen, Eliot, Hardy) | Poetry |
 | Poetry (Chaucer, Shakespeare's sonnets, Whitman; Byron from 2027) | Prose |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose--02-form-rule-and-texts.webp" width="900" height="756" alt="The 2026 Section A texts sorted by form. Prose: Austen’s Pride and Prejudice, Eliot’s Middlemarch and Hardy’s Jude the Obscure, so Section B must then be poetry. Poetry: Chaucer’s The Wife of Bath’s Prologue and Tale, Shakespeare’s Selected Sonnets and Whitman’s Leaves of Grass, so Section B must then be prose. For 2027, Mansfield Park replaces Pride and Prejudice and Byron replaces Whitman." loading="lazy">
+  <figcaption>Your pre-1900 choice fixes the form of your post-1900 text.</figcaption>
+</figure>
 
 ## Key terms: prose
 
@@ -53,6 +63,11 @@ use the [Paper 4 Section A Pre-1900 study guide](/resources/cambridge-a-level-en
 | Marriage plot | Narrative directed towards marriage | Austen; social and economic pressure |
 | Parallel plots | Several storylines mirroring each other | *Middlemarch*'s marriages |
 | Determinism | Lives shaped by forces beyond control | Hardy's institutions, chance, coincidence |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose--04-three-narrators.webp" width="900" height="756" alt="Three narrative methods. Eliot: an authorial narrator steps outside the story to address the reader and widen one experience into a claim about society. Austen: free indirect style blends a character’s thoughts with the narrator’s voice, so the reader shares and judges a view. Hardy: a tragic narrator sets a character against institutions, chance and coincidence." loading="lazy">
+  <figcaption>Commentary, free indirect style and tragic narration each shape how we judge.</figcaption>
+</figure>
 
 ## Key terms: poetry
 
@@ -68,6 +83,11 @@ use the [Paper 4 Section A Pre-1900 study guide](/resources/cambridge-a-level-en
 | Catalogue | Extended list | Whitman's inclusiveness and energy |
 | Anaphora | Repeated opening words | Whitman's rhetorical momentum |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose--05-shakespearean-sonnet.webp" width="900" height="720" alt="A Shakespearean sonnet drawn as three four-line quatrains and a closing two-line couplet. Questions beside each part ask whether each quatrain develops or contradicts the last, where the turn falls and whether the couplet resolves or undercuts the poem. Below, a row of sonnets with an arrow from a later poem back to an earlier one." loading="lazy">
+  <figcaption>Track the argument quatrain by quatrain, find the turn and test the couplet.</figcaption>
+</figure>
+
 ## Text reminders
 
 - **Austen**: irony through free indirect style; marriage and money as structural pressures.
@@ -79,6 +99,11 @@ use the [Paper 4 Section A Pre-1900 study guide](/resources/cambridge-a-level-en
   quest to learn what women most desire.
 - **Shakespeare's sonnets**: argument moving through quatrains; the couplet as resolution or twist.
 - **Whitman**: free verse, long lines, catalogues, an all-embracing "I".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose--06-chaucer-experience-authority.webp" width="900" height="694" alt="A balance weighs the Wife of Bath’s experience of five marriages against the written authority of clerical writers on women. Below, the Prologue (the teller) and the Tale, an Arthurian romance about a knight who must discover what women most desire, are linked by a two-way arrow: the Tale both supports and complicates the Prologue." loading="lazy">
+  <figcaption>The Wife sets experience against authority, and her Tale both supports and complicates her case.</figcaption>
+</figure>
 
 ## Reading Chaucer's Middle English quickly
 
@@ -106,6 +131,11 @@ use the [Paper 4 Section A Pre-1900 study guide](/resources/cambridge-a-level-en
 - Literary conventions of the period: the moralising narrator, courtly romance, the sonnet tradition.
 - **Rule**: one sentence of context tied to one choice in the text.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose--03-convention-not-fault.webp" width="900" height="603" alt="A digression, a moralising narrator, a strict rhyme scheme or an archaic word can look like a fault to a modern reader, but each is usually a deliberate choice within the conventions of its time. Strong answers recognise the convention, then analyse how the writer uses or bends it, rather than criticising it." loading="lazy">
+  <figcaption>Recognise the convention first, then analyse how the writer uses or bends it.</figcaption>
+</figure>
+
 ## AO5 debates to prepare
 
 - Wife of Bath: anti-feminist caricature or challenge to male authority?
@@ -116,6 +146,11 @@ use the [Paper 4 Section A Pre-1900 study guide](/resources/cambridge-a-level-en
 
 **AO5 pattern**: reading → test against the text → judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose--07-ao5-critical-history.webp" width="900" height="673" alt="Three critical debates: is the Wife of Bath a satire of a talkative woman or a voice challenging male authorities; is the marriage plot conservative or ironic about economic pressures; does a tragic narrator blame individuals, society or fate? Below, the model paragraph’s method: set out two readings, test them against the poem’s method, and reach a qualified judgement." loading="lazy">
+  <figcaption>Weigh competing readings against the text’s method, then judge.</figcaption>
+</figure>
+
 ## Answer shapes
 
 **(b) passage or poem**: locate → thesis → close analysis (voice, syntax, form, imagery) → link outward
@@ -123,6 +158,11 @@ use the [Paper 4 Section A Pre-1900 study guide](/resources/cambridge-a-level-en
 
 **(a) whole text**: positioned thesis → moments across the whole text, including the ending → method in
 every paragraph → AO5 woven through.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose--08-passage-answer-steps.webp" width="900" height="634" alt="Five numbered steps for a passage or poem answer: locate it in the text or sequence, state a thesis in the question’s terms, analyse closely (voice, syntax, form, imagery, and metre and rhyme for poetry), link outward to the whole novel or other poems, and evaluate one or two alternative readings for AO5." loading="lazy">
+  <figcaption>Locate, argue, analyse closely, link outward and weigh other readings.</figcaption>
+</figure>
 
 ## Exam traps
 

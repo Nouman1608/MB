@@ -41,6 +41,11 @@ Condensed notes on **Nature of law: law and society** in AQA A-level Law (7162) 
 - **Durkheim:** simple societies use **repressive** (punitive) law; complex societies increasingly use **restitutive** law (contract, tort).
 - **Marxist critique:** law protects those with economic power; use it to question whether law serves everyone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-society--01-social-role-theories.webp" width="900" height="713" alt="Three views. Roscoe Pound: law as social engineering, balancing individual, public and social interests. Émile Durkheim: simple societies rely on repressive law that punishes, complex societies on restitutive law that restores, matching the growth of civil law. A Marxist critique: law protects those with economic power." loading="lazy">
+  <figcaption>Pound explains balancing, Durkheim the growth of civil law, Marx the doubts.</figcaption>
+</figure>
+
 ## Enforceable rights
 
 A right is enforceable when the holder can go to a court or tribunal and obtain a remedy.
@@ -52,6 +57,11 @@ A right is enforceable when the holder can go to a court or tribunal and obtain 
 
 **Limit:** cost and access. *R (UNISON) v Lord Chancellor* (2017): tribunal fees quashed; claims had fallen sharply, so rights were not practically enforceable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-society--02-enforceable-rights.webp" width="900" height="578" alt="A right becomes enforceable through a chain: an expectation is recognised in law, gives standing before a court or tribunal, and leads to a remedy. Examples: the Consumer Rights Act 2015, unfair dismissal, the Human Rights Act 1998 and negligence damages. In R (UNISON) v Lord Chancellor, tribunal fees caused claims to fall sharply and the Supreme Court quashed them." loading="lazy">
+  <figcaption>Cost, delay and lack of advice can leave a right on paper only.</figcaption>
+</figure>
+
 ## Balancing competing interests
 
 | Interests balanced | Authority | Outcome |
@@ -61,6 +71,11 @@ A right is enforceable when the holder can go to a court or tribunal and obtain 
 | State (crime control) v individual (liberty) | Police and Criminal Evidence Act 1984 | Powers with safeguards: reasonable suspicion, detention limits, legal advice |
 | Privacy v freedom of expression | *Campbell v MGN Ltd* (2004) | Majority: publication of treatment details and photographs went too far |
 | Public interest in policing v individual compensation | *Hill v Chief Constable of West Yorkshire* (1989) | No duty of care owed to a future victim |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-society--03-balancing-interests.webp" width="900" height="534" alt="Four pairings of competing interests: public and private (Kennaway v Thompson’s limiting injunction; Coventry v Lawrence), individual and state (police powers and safeguards under the Police and Criminal Evidence Act 1984), individual and individual (privacy against expression in Campbell v MGN), and public policy against a claimant (Hill v Chief Constable of West Yorkshire)." loading="lazy">
+  <figcaption>Almost every rule weighs one interest against another; courts often split the difference.</figcaption>
+</figure>
 
 ## Fault
 
@@ -76,11 +91,21 @@ A right is enforceable when the holder can go to a court or tribunal and obtain 
 - **Strict liability**: *Alphacell v Woodward* (1972) river pollution; *Harrow LBC v Shah* (1999) lottery ticket to a 13-year-old.
 - **Presumption of mens rea**: *Sweet v Parsley* (1969).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-society--04-criminal-fault-ladder.webp" width="900" height="609" alt="A narrowing ladder of fault: intention at the top, then subjective recklessness, negligence and finally strict liability, which needs no fault for at least one element. Fault grades the offence (murder or manslaughter) and the sentence (culpability). Alphacell v Woodward and Harrow LBC v Shah show strict liability; Sweet v Parsley shows the presumption of mens rea." loading="lazy">
+  <figcaption>The more blameworthy the mind, the more serious the offence and sentence.</figcaption>
+</figure>
+
 ### Civil
 
 - Negligence is **objective**: *Nettleship v Weston* (1971), learner driver held to a competent driver's standard.
 - **Contributory negligence** reduces damages: Law Reform (Contributory Negligence) Act 1945; *Froom v Butcher* (1976), no seatbelt.
 - **No-fault liability**: vicarious liability; *Rylands v Fletcher* (1868); Consumer Protection Act 1987.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-society--05-civil-fault.webp" width="900" height="596" alt="Civil law uses objective fault in negligence (Nettleship v Weston), reduces damages for the claimant’s own fault (contributory negligence; Froom v Butcher), and imposes some liability without fault (vicarious liability, Rylands v Fletcher, Consumer Protection Act 1987). A table weighs arguments for fault-based liability against relying only on fault." loading="lazy">
+  <figcaption>Fault is the default in civil law too, but not the only basis for liability.</figcaption>
+</figure>
 
 ### Evaluation grid
 

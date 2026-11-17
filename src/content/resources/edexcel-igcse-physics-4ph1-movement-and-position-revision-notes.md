@@ -61,6 +61,11 @@ v = u + at is simply a = (v − u) ÷ t rearranged.
 | tangent | straight line touching a curve at one point; its gradient gives the instantaneous rate |
 | area under v−t graph | distance travelled |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-movement-and-position--01-average-speed.webp" width="900" height="640" alt="A 60 km journey: 30 km at 60 km/h takes 0.50 h and 30 km at 30 km/h takes 1.0 h. Total distance divided by total time gives 60 km ÷ 1.5 h = 40 km/h; averaging the two speeds wrongly gives 45 km/h." loading="lazy">
+  <figcaption>Divide total distance by total time; never average the speeds.</figcaption>
+</figure>
+
 ## Graph summary
 
 | Feature | Distance−time graph | Velocity−time graph |
@@ -74,6 +79,21 @@ v = u + at is simply a = (v − u) ÷ t rearranged.
 
 Areas: rectangle = base × height; triangle = ½ × base × height; curve =
 count squares × distance per square.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-movement-and-position--02-distance-time-shapes.webp" width="900" height="725" alt="Five distance against time sketches: a horizontal line means stationary; a straight upward slope means constant speed; a steeper straight line means a greater constant speed; a curve getting steeper means speeding up; a curve getting less steep means slowing down. The gradient is the speed." loading="lazy">
+  <figcaption>On a distance−time graph the gradient is the speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-movement-and-position--03-tangent-gradient.webp" width="900" height="660" alt="A distance against time curve that gets steeper. A tangent touches the curve at one point, and a large triangle drawn on the tangent gives change in distance divided by change in time, which is the speed at that instant." loading="lazy">
+  <figcaption>For a curve, the speed at an instant is the gradient of the tangent there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-movement-and-position--04-velocity-time-shapes.webp" width="900" height="700" alt="Five velocity against time sketches: horizontal means constant velocity; a straight upward slope means constant acceleration; a straight downward slope means constant deceleration; a curve getting less steep means acceleration decreasing; a line on the time axis means stationary. The gradient is the acceleration and the area under the line is the distance." loading="lazy">
+  <figcaption>On a velocity−time graph the gradient is acceleration and the area is distance.</figcaption>
+</figure>
 
 ## Choosing the equation
 
@@ -89,6 +109,11 @@ count squares × distance per square.
 
 If the acceleration is not constant, only the graph methods work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-movement-and-position--06-v-squared-equation.webp" width="900" height="710" alt="A decision: if time is given or asked for, use a = (v − u) ÷ t; if only distance is involved, use v² = u² + 2as. A car braking from 25 m/s at 5.0 m/s² stops in 625 ÷ 10 = 62.5 m. A ball dropped 1.8 m reaches v² = 2 × 10 × 1.8 = 36, so v = 6.0 m/s." loading="lazy">
+  <figcaption>No time in the question? Use v² = u² + 2as, with signs and a square root at the end.</figcaption>
+</figure>
+
 ## Describing motion from a graph
 
 Work stage by stage, quoting values with units: "From 0 to 6 s the car
@@ -96,6 +121,11 @@ accelerates uniformly from rest to 12 m/s; from 6 s to 15 s it travels at
 a constant 12 m/s; it then decelerates to rest at 18 s." For **explain**,
 add the reason from the graph: "the line is straight, so the acceleration
 is constant".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-movement-and-position--05-bus-velocity-time.webp" width="900" height="830" alt="Velocity against time for a bus: from rest to 12 m/s in 8.0 s, steady at 12 m/s for 20 s, then to rest in 6.0 s. The gradients are 1.5 m/s² and −2.0 m/s². The areas are 48 m, 240 m and 36 m, a total of 324 m, so the average speed is 324 ÷ 34 = 9.5 m/s." loading="lazy">
+  <figcaption>Gradients give the accelerations; the three areas add up to the 324 m travelled.</figcaption>
+</figure>
 
 ## Practical 1.5 in brief
 
@@ -107,6 +137,11 @@ is constant".
 - Stopwatch timing includes reaction time, a large fraction of short
   times; light gates or video reduce this error.
 - Calculate average speed for each section; plot a distance−time graph.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-movement-and-position--07-toy-car-practical.webp" width="900" height="930" alt="A toy car is released from rest at the top of a ramp and rolls along the floor past marks every 0.50 m, timed by stopwatch or by light gates connected to a data logger. Hand timing adds reaction-time error; light gates, video frame by frame, and repeating and averaging improve the results. For ramp height, the independent variable is height, the dependent is average speed, and the car, surface and release point are controlled." loading="lazy">
+  <figcaption>Light gates or video remove reaction-time error from the timings.</figcaption>
+</figure>
 
 ## Exam traps
 

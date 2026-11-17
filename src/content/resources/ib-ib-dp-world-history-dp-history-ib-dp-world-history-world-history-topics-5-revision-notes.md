@@ -58,6 +58,21 @@ Related: [Early Modern states study guide](/resources/ib-ib-dp-world-history-dp-
 - Methods: suppressed the Revolt of the Three Feudatories (1673-1681); took Taiwan (1683); Treaty of Nerchinsk with Russia (1689).
 - Limits: tension between Manchu and Han elites; scale of the empire.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--02-rulers-timeline.webp" width="900" height="726" alt="A timeline from 1450 to 1800 shows Suleiman (1520-1566), Akbar (1556-1605), Stuart England from civil war to the Bill of Rights (1642-1689), Kangxi (1661-1722), Peter the Great (1682-1725) and Frederick II (1740-1786)." loading="lazy">
+  <figcaption>Several example states overlap in time across different regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--04-peter-reforms.webp" width="900" height="568" alt="Peter the Great's reforms around a central circle: army and navy (conscription, Poltava 1709, Nystad 1721), administration (Senate 1711, Table of Ranks 1722), taxation (poll tax), church (Holy Synod 1721) and culture (St Petersburg, western dress). A sixth card gives the limits: serfdom and coercion, relaxed noble service and an uncertain succession." loading="lazy">
+  <figcaption>Sweeping reforms in every area, resting on serfdom and coercion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--05-stuart-england.webp" width="900" height="624" alt="A vertical timeline: disputes between Charles I and Parliament lead to civil war (1642) and the king's execution (1649); the monarchy is restored (1660); James II's Catholicism and use of power provoke the Glorious Revolution (1688); the Bill of Rights (1689) requires parliamentary consent for taxation and a peacetime standing army." loading="lazy">
+  <figcaption>Disputes over tax, religion and authority ended in a limited monarchy.</figcaption>
+</figure>
+
 ## Methods of government compared
 
 | Method | Russia | Ottoman empire | Mughal empire |
@@ -67,6 +82,21 @@ Related: [Early Modern states study guide](/resources/ib-ib-dp-world-history-dp-
 | Revenue | Poll tax on male peasants | Taxes from *timars*, trade and tribute | Land revenue on measured land |
 | Religion | Church under the Holy Synod | Sultan as protector of Islam; religious communities under their own leaders | Toleration and *sulh-i kul* |
 | Capital | St Petersburg (1703) | Istanbul | Agra, Fatehpur Sikri, Lahore |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--03-absolutist-bargain.webp" width="900" height="529" alt="The ruler, claiming sovereign authority often justified by divine right, gives nobles office, honours and protection of their privileges; the nobles give cooperation in return. A note says to explain what absolutism meant in practice." loading="lazy">
+  <figcaption>Absolute in theory, negotiated in practice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--08-institutions.webp" width="900" height="362" alt="Three cards match institutions to states. Russia: the Table of Ranks (1722), with the Senate and Holy Synod. Mughal empire: the mansabdari system of ranks, with jagirs. Ottoman empire: the devshirme, which trained converted Christian boys as Janissaries or officials, with timars." loading="lazy">
+  <figcaption>Table of Ranks: Russia. Mansabdari: Mughal. Devshirme: Ottoman.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--07-peter-akbar.webp" width="900" height="688" alt="A grid compares Peter the Great and Akbar on ranks tied to service, rewards, inclusion or coercion, and culture. Below, a scale from force to consent places Peter nearer force and Akbar nearer consent." loading="lazy">
+  <figcaption>Both built service elites: Peter by compulsion, Akbar by incentive.</figcaption>
+</figure>
 
 ## Challenges to Early Modern rulers
 

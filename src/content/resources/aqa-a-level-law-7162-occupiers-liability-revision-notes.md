@@ -35,6 +35,11 @@ Condensed notes for the section 3.3 row **Occupiers' liability**: "Liability in 
 5 Damage?        1957: injury + property | 1984: injury only (s1(8))
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-occupiers-liability--01-five-step-route.webp" width="900" height="689" alt="Five steps: identify the occupier by control (Wheat v Lacon, where brewery and manager were both occupiers); check the premises, including movable structures; classify the claimant as visitor or trespasser at the moment of injury; then apply the 1957 Act common duty of care to visitors, covering injury and property, or the 1984 Act to trespassers, covering personal injury only if the s1(3) conditions are met." loading="lazy">
+  <figcaption>Occupier, premises, status, then the right Act.</figcaption>
+</figure>
+
 ## Occupier, premises and status
 
 | Point | Authority |
@@ -45,6 +50,11 @@ Condensed notes for the section 3.3 row **Occupiers' liability**: "Liability in 
 | Exceeding permission makes a trespasser | *The Calgarth* (1927): "slide down the banisters" |
 | Visitor can become trespasser by prohibited activity | *Tomlinson v Congleton BC* (2003) |
 | Entry under a right conferred by law treated as visitor | s2(6) OLA 1957 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-occupiers-liability--02-visitor-to-trespasser.webp" width="900" height="592" alt="Permission can be implied by long acquiescence (Lowery v Walker), and those entering under a legal right are visitors (s2(6)). Permission is limited by area, time and purpose; exceeding any limit makes a visitor a trespasser, as Scrutton LJ’s banisters remark in The Calgarth shows. In Tomlinson a park visitor became a trespasser by diving into a lake where swimming was banned." loading="lazy">
+  <figcaption>Status is fixed at the moment of injury, and permission has limits.</figcaption>
+</figure>
 
 ## OLA 1957: visitors
 
@@ -58,6 +68,16 @@ Condensed notes for the section 3.3 row **Occupiers' liability**: "Liability in 
 | s2(4)(a) warnings | Must enable the visitor to be reasonably safe; none needed for obvious risks | *Staples v West Dorset DC* (1995); *Darby v National Trust* (2001) |
 | s2(4)(b) contractors | Not liable if reasonable to entrust, competence checked, work checked where possible | *Haseldine v Daw* (1941); *Woodward v Mayor of Hastings* (1945); *Bottomley v Todmorden CC* (2003) |
 | s2(1) exclusion | Possible by notice or agreement, subject to UCTA s2(1) and CRA s65 | |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-occupiers-liability--03-1957-duty-factors.webp" width="900" height="488" alt="The common duty of care adjusts to the visitor. Children: occupiers must expect less care, so Glasgow Corporation v Taylor and Jolley v Sutton found liability, but in Phipps parents were expected to accompany a five-year-old. Specialists guard against risks of their calling (Roles v Nathan). Warnings must enable safety, and obvious dangers need none (Staples; Darby)." loading="lazy">
+  <figcaption>Expect more from occupiers towards children, less towards specialists and obvious risks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-occupiers-liability--04-independent-contractors.webp" width="900" height="485" alt="Three checks under s2(4)(b): reasonable to entrust the work, reasonable steps to check competence, and where possible a check that the work was done properly. Haseldine v Daw: not liable for a specialist lift repair. Woodward v Hastings: liable for an icy step anyone could check. Bottomley v Todmorden: liable for hiring an unchecked amateur fireworks team." loading="lazy">
+  <figcaption>Technical work can be left to experts; simple work and unchecked hires cannot.</figcaption>
+</figure>
 
 ## OLA 1984: trespassers
 
@@ -80,6 +100,11 @@ Condensed notes for the section 3.3 row **Occupiers' liability**: "Liability in 
 | *Ratcliff v McConnell* (1999) | Obvious risk voluntarily taken by an adult |
 | *Tomlinson v Congleton BC* (2003) | No duty to protect against obvious risks of swimming |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-occupiers-liability--05-1984-act-conditions.webp" width="900" height="595" alt="Three conditions under s1(3), each with a case where it failed: awareness of the danger (Rhind v Astbury Water Park), knowledge that the trespasser may be in the vicinity (Donoghue v Folkestone Properties), and a risk the occupier can reasonably be expected to protect against (Ratcliff; Tomlinson; Keown). If met, the duty under s1(4) can be discharged by warnings (s1(5)) and covers personal injury only (s1(8))." loading="lazy">
+  <figcaption>No duty unless all three conditions are met; even then, no property damage.</figcaption>
+</figure>
+
 ## 1957 and 1984 compared
 
 | | 1957 Act | 1984 Act |
@@ -89,6 +114,11 @@ Condensed notes for the section 3.3 row **Occupiers' liability**: "Liability in 
 | Standard | Common duty of care | Reasonable care against the specific danger |
 | Damage | Injury and property | Injury only |
 | Warnings | s2(4)(a) | s1(5) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--05-occupiers-acts.webp" width="900" height="1020" alt="A fenced plot of land with a house. A lawful visitor enters through the gate and the Occupiers' Liability Act 1957 applies. A trespasser crosses the fence and the Occupiers' Liability Act 1984 applies, with more limited liability. The standard of care and scope of duty differ." loading="lazy">
+  <figcaption>The 1957 Act governs lawful visitors and the 1984 Act governs trespassers.</figcaption>
+</figure>
 
 ## Evaluation points
 

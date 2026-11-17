@@ -34,6 +34,11 @@ These notes condense section 1.1, Physical quantities and measurement techniques
 - Eye directly above the mark, at right angles to the scale: avoids **parallax**.
 - Diameter of a sphere or cylinder: trap it between two blocks set square to the ruler.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-cambridge-igcse-physics--01-using-a-ruler.webp" width="900" height="600" alt="An object is measured from the 1.0 cm mark to the 4.4 cm mark, giving 3.4 cm, as a way round a worn zero end. An eye looking straight down at the scale reads correctly while one looking from the side gives a parallax error. A ball's diameter is the gap between two blocks placed against it at right angles to the ruler." loading="lazy">
+  <figcaption>Subtract the start reading, look straight down, and use blocks for round objects.</figcaption>
+</figure>
+
 ### Volume (Core)
 
 - Measuring cylinder on a **level** surface.
@@ -41,11 +46,21 @@ These notes condense section 1.1, Physical quantities and measurement techniques
 - Use the smallest cylinder that holds the liquid: finer scale divisions.
 - 1 cm³ = 1 ml; 1 litre = 1000 cm³; 1 m³ = 10⁶ cm³.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-cambridge-igcse-physics--02-meniscus-and-cylinder-choice.webp" width="900" height="610" alt="Left: a measuring cylinder on a level bench, read with the eye level with the bottom of the curved meniscus. Right: 18 cm³ of water in a 25 cm³ cylinder marked every 0.5 cm³ and in a 250 cm³ cylinder marked every 5 cm³; the smaller cylinder gives the more precise reading." loading="lazy">
+  <figcaption>Read the bottom of the meniscus at eye level, in the smallest suitable cylinder.</figcaption>
+</figure>
+
 ### Time (Core)
 
 - Clock or stopwatch for long intervals.
 - Hand timing adds **reaction time** (a few tenths of a second) at the start and again at the stop.
 - Short intervals: a **digital timer** started and stopped by **light gates**, with no reaction time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-cambridge-igcse-physics--04-pendulum-period.webp" width="900" height="640" alt="A pendulum swinging between two positions either side of a fiducial mark below its centre. One oscillation is a swing across and back again. Release the bob a small distance to one side, start timing as it passes the mark counting &quot;zero&quot;, count passes in the same direction, time 20 oscillations, repeat, and divide the mean time by 20." loading="lazy">
+  <figcaption>Time many oscillations from the centre mark, then divide.</figcaption>
+</figure>
 
 ### Measuring multiples (Core)
 
@@ -54,6 +69,11 @@ These notes condense section 1.1, Physical quantities and measurement techniques
 - Pendulum: time **20** complete oscillations; repeat; take the mean; divide by 20.
 - Time from the **centre** of the swing (fastest point), using a fixed marker.
 - One oscillation = from one extreme, to the other, and **back**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-cambridge-igcse-physics--03-measuring-multiples.webp" width="900" height="570" alt="Three examples of measuring multiples. A stack of 20 coins is 37.0 mm tall, so one coin is 1.85 mm thick. Thirty touching turns of wire on a pencil span 12.0 mm, so the wire is 0.40 mm across. Timing from drip &quot;zero&quot; to the tenth drip gives 6.5 s for 10 intervals, or 0.65 s each." loading="lazy">
+  <figcaption>Dividing a multiple shares the measuring uncertainty between all the items.</figcaption>
+</figure>
 
 ### Scalars and vectors (Extended only)
 
@@ -76,6 +96,11 @@ Mass and weight sit on opposite sides of this table; so do speed and velocity.
 - Direction: **tan θ = B / A**, θ measured from the direction of A.
 - Scale drawing: tip-to-tail, 90° corner, join start to finish; measure length and angle.
 - The resultant is always **longer than either vector** but **shorter than their sum**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-cambridge-igcse-physics--05-resultant-vectors.webp" width="900" height="798" alt="Left: a boat heading across a river at 3.0 m/s with a 1.2 m/s current has a resultant velocity of 3.2 m/s at 22° downstream from straight across. Right: forces of 600 N east and 450 N north drawn tip to tail at 1 cm to 100 N give a 7.5 cm resultant, 750 N at 37° north of east." loading="lazy">
+  <figcaption>Draw the vectors tip to tail; use Pythagoras and tan θ, and always state the reference direction.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -44,6 +44,11 @@ Units: W in **newtons (N)**, m in **kilograms (kg)**, g in **N/kg**.
 
 g is **equivalent to the acceleration of free fall**: 9.8 N/kg = 9.8 m/s² near the Earth, because 1 N/kg = 1 m/s².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--02-finding-g-on-a-moon.webp" width="900" height="500" alt="A 2.5 kg mass hangs from a newton meter reading 4.0 N on a newly explored moon, so g = 4.0 / 2.5 = 1.6 N/kg and a 70 kg astronaut there weighs 70 × 1.6 = 112 N, about 110 N. Near the Earth g = 9.8 N/kg, equivalent to a free-fall acceleration of 9.8 m/s²." loading="lazy">
+  <figcaption>g = W/m: a force divided by a mass, in N/kg.</figcaption>
+</figure>
+
 ## Mass versus weight
 
 - Mass: kg, scalar, the same everywhere.
@@ -60,6 +65,11 @@ g is **equivalent to the acceleration of free fall**: 9.8 N/kg = 9.8 m/s² near 
 
 Questions give the value of g for anywhere other than the Earth; use the value given.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--01-rover-earth-mars.webp" width="900" height="640" alt="A 900 kg rover on the Earth (g = 9.8 N/kg) has a weight of 8820 N, about 8800 N; on Mars (g = 3.7 N/kg) its weight is 3330 N, about 3300 N. The weight arrows are drawn to scale; the mass is 900 kg in both places." loading="lazy">
+  <figcaption>Mass stays the same; weight depends on the gravitational field strength.</figcaption>
+</figure>
+
 ## Balances
 
 | Instrument | What it really responds to | Reading on the Moon for an object of mass 3.0 kg |
@@ -70,6 +80,11 @@ Questions give the value of g for anywhere other than the Earth; use the value g
 
 Why a beam balance still works on the Moon: both pans are in the **same** field, so equal weights still mean equal masses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--03-beam-and-spring-balance.webp" width="900" height="640" alt="A beam balance with an unknown object in one pan and standard masses in the other is level when their weights are equal; because both pans are in the same field, the masses are equal too, even on the Moon. A spring balance reads weight directly, so the same object gives a smaller reading on the Moon than on the Earth." loading="lazy">
+  <figcaption>A beam balance compares weights and so masses; a spring balance reads weight.</figcaption>
+</figure>
+
 ## Gravitational fields (Extended only)
 
 - A gravitational field is a region in which a mass experiences a force.
@@ -78,12 +93,22 @@ Why a beam balance still works on the Moon: both pans are in the **same** field,
 - g decreases with distance from the body; a spacecraft far from the Earth weighs less, but its mass is unchanged.
 - Weight acts along the field direction, towards the centre of the body.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--05-gravitational-field.webp" width="900" height="660" alt="Field lines point inwards from all directions to the centre of a planet. Objects on opposite sides have weight arrows pointing in opposite directions, each towards the centre. A satellite further away has a smaller weight, but not zero." loading="lazy">
+  <figcaption>Any mass in a gravitational field is pulled along the field with force W = mg.</figcaption>
+</figure>
+
 ## Finding g by experiment
 
 - Newton meter in a clamp; hang 100 g to 500 g in turn.
 - Convert grams to kilograms; record each weight.
 - Plot W (y-axis) against m (x-axis): straight line through the origin.
 - Gradient = g.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--04-finding-g-graph.webp" width="900" height="740" alt="Weight plotted against mass for 0.10 to 0.50 kg gives a straight line through the origin. A gradient triangle from the origin to 0.50 kg rises 4.9 N, so g = 4.9 ÷ 0.50 = 9.8 N/kg." loading="lazy">
+  <figcaption>Plot weight against mass in kilograms; the gradient is g.</figcaption>
+</figure>
 
 ## Key terms
 

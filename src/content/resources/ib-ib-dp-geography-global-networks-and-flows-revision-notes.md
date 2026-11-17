@@ -50,6 +50,11 @@ Further terms:
 | Remittances | Money migrants send to families in their home country |
 | Digital divide | Unequal access to internet and digital technology |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--17-network-flows.webp" width="900" height="870" alt="A network of circles joined by lines. The circles are nodes, meaning places, and the lines are links. One larger hub in the centre has the most links; hubs are global cities, ports and airports. Along the links move flows: goods, capital, people and data. One node at the bottom has no links and is switched off from the network. Schematic." loading="lazy">
+  <figcaption>Nodes, links, hubs and the flows that move along them.</figcaption>
+</figure>
+
 ## Types of flow
 
 - Trade in goods and services.
@@ -115,6 +120,11 @@ social and political measures. Small, open economies such as Singapore, the Neth
 and Belgium tend to score highly. Limits: national averages hide internal divides; weighting of
 indicators is a choice; some flows (illicit finance, informal remittances) are hard to measure; and
 the index measures connection, not whether it is beneficial.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--18-connection-influences.webp" width="900" height="830" alt="A schematic cross-section from sea to inland. A natural harbour and a navigable river on the coast support a strong flow of trade across the plain. A mountain barrier stands between the coast and a remote, landlocked plateau, where a dashed weaker flow shows higher transport costs. Below are four human influences: trade agreements, political stability, infrastructure and skilled labour. Not to scale." loading="lazy">
+  <figcaption>Physical and human influences explain why places connect unequally.</figcaption>
+</figure>
 
 ## Gatekeepers in action
 

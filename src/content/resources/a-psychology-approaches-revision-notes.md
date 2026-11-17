@@ -50,6 +50,11 @@ Condensed for the final weeks. For the full explanation, use the
 | **Learning** | We all begin life as a blank slate; experiences and interactions with the environment shape behaviour, and these changes are directly observable. We learn through operant conditioning, classical conditioning and social learning, understood through the stimulus-response model. |
 | **Social** | Behaviour, cognitions and emotions are influenced by social contexts, social environments and groups, and by the actual, implied or imagined presence of others. |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-approaches-issues-and-debates--15-psy-four-approaches.webp" width="900" height="860" alt="Four cards in a two-by-two grid. Biological: a brain picture; behaviour explained through the brain, hormones, genetics and evolution. Cognitive: three linked boxes; information processed from input through process to output. Learning: a bell; behaviour shaped by conditioning and social learning. Social: a group of people; behaviour influenced by others and the social context." loading="lazy">
+  <figcaption>The four approaches of Paper 1 and the core idea of each.</figcaption>
+</figure>
+
 ## The 12 compulsory core studies
 
 Each approach has three core studies. Know which approach each belongs to — the grouping is examined.
@@ -90,6 +95,11 @@ For every core study, be ready to give: the psychology investigated, the backgro
 
 **Negative reinforcement is not punishment** (a Fagen et al. and learning-approach trap). Negative reinforcement *removes* something unpleasant and so **increases** a behaviour; punishment *adds* something unpleasant and decreases it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-approaches-issues-and-debates--16-psy-twelve-core-studies.webp" width="900" height="800" alt="Four coloured rows, one per approach, each holding its three compulsory core studies. Biological: Dement and Kleitman, Hassett et al., Holzel et al. Cognitive: Andrade, Baron-Cohen et al., Pozzulo et al. Learning: Bandura et al., Fagen et al., Saavedra and Silverman. Social: Milgram, Perry et al., Piliavin et al." loading="lazy">
+  <figcaption>Three compulsory core studies for each of the four approaches: 12 in all.</figcaption>
+</figure>
+
 ## The five AS Level issues and debates
 
 Consider each in relation to each core study, where appropriate.
@@ -101,6 +111,21 @@ Consider each in relation to each core study, where appropriate.
 | **Nature versus nurture** | Hassett et al. (hormones versus socialisation in toy preferences), Bandura et al. (aggression learned by imitation), Saavedra and Silverman (a phobia treated through conditioning), Dement and Kleitman (biological sleep stages) |
 | **The use of children in psychological research** | Bandura et al., Pozzulo et al., Saavedra and Silverman |
 | **The use of animals in psychological research** | Hassett et al. (rhesus monkeys), Fagen et al. (working elephants) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-approaches-issues-and-debates--20-psy-five-debates.webp" width="900" height="800" alt="A central circle labelled apply to each approach, joined by lines to five boxes arranged around it: application to everyday life, individual versus situational explanations, nature versus nurture, use of children, and use of animals." loading="lazy">
+  <figcaption>The five AS Level issues and debates are a lens applied to each approach, not a separate block.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-approaches-issues-and-debates--18-psy-nature-nurture.webp" width="900" height="720" alt="A horizontal line from Nature on the left to Nurture on the right. The Biological approach sits towards nature (genetics, physiology) and the Learning approach towards nurture (environment, conditioning). The Cognitive and Social approaches sit somewhere between the two, depending on the study. A DNA helix marks nature and a house marks nurture." loading="lazy">
+  <figcaption>Biological leans towards nature, Learning towards nurture; Cognitive and Social sit between, depending on the study.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-approaches-issues-and-debates--19-psy-children-animals.webp" width="900" height="760" alt="Two groups. Children in research: Bandura et al. (Learning approach), Pozzulo et al. (Cognitive) and Saavedra and Silverman (Learning). Animals in research: Hassett et al. (Biological) and Fagen et al. (Learning)." loading="lazy">
+  <figcaption>Three core studies use children and two use animals, drawn from three of the four approaches.</figcaption>
+</figure>
 
 ## A Level issues and debates — for the specialist options, not Paper 1
 
@@ -139,6 +164,11 @@ Whether behaviour, and the findings about it, vary between cultures: a study con
 - Confusing negative reinforcement with punishment.
 - Saying Milgram's main study had an independent variable — the syllabus notes it did not.
 - Importing A Level debates (free will, reductionism) or content from other boards' specifications (psychodynamic or humanistic approaches, gender bias) into a Paper 1 answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-learning-approach--02-reinforcement-terms.webp" width="900" height="660" alt="Pairs of definitions: positive reinforcement adds something pleasant and negative reinforcement removes something unpleasant, both making behaviour more likely; primary reinforcers meet a biological need while secondary reinforcers gain value by pairing; shaping reinforces approximations and chaining links steps." loading="lazy">
+  <figcaption>Positive adds, negative removes; secondary means learned value, not negative.</figcaption>
+</figure>
 
 ## Self-test
 

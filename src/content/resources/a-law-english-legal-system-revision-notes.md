@@ -47,6 +47,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Parliamentary sovereignty** means Parliament can make or unmake any law, no Parliament can bind its successors, and no other body can override an Act. Where statute and case law conflict, **statute prevails**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--01-sources-of-law.webp" width="900" height="893" alt="A stack of English law sources. Legislation (Acts of Parliament) is on top and supreme. An arrow labelled &quot;enabling Act&quot; leads to delegated legislation (statutory instruments, byelaws, Orders in Council), which is controlled by parliamentary scrutiny and judicial review. Below sit case law and custom and equity." loading="lazy">
+  <figcaption>Legislation is the supreme source; delegated legislation exists only because an enabling Act allows it.</figcaption>
+</figure>
+
 ## The legislative process
 
 ```
@@ -62,6 +67,11 @@ Royal Assent     becomes an Act
 The Lords may **delay** but not permanently block; the Parliament Acts allow a Bill to proceed without them.
 
 **Delegated legislation** is made under authority granted by Parliament, not by Parliament itself, and is subject to two controls: **parliamentary** (affirmative or negative resolution, and scrutiny committees) and **judicial** (judicial review, where a court may strike it down as *ultra vires* or unreasonable).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--02-legislative-process.webp" width="900" height="1030" alt="A seven-step path showing a Bill moving through First Reading, Second Reading, Committee Stage, Report Stage and Third Reading in the first House, then the whole process repeating in the other House, then Royal Assent, when the Bill becomes an Act. A note says the Lords may delay but not indefinitely block a Bill." loading="lazy">
+  <figcaption>A Bill passes seven stages before Royal Assent turns it into an Act.</figcaption>
+</figure>
 
 ## Judicial precedent
 
@@ -86,6 +96,11 @@ Distinguishing is the everyday technique; the other two are comparatively rare.
 
 **Evaluation:** certainty, consistency, flexibility to develop the law, and detail from real cases — but rigidity, complexity from the volume of reported cases, retrospective effect (the parties could not have known the law), and the undemocratic quality of judicial law-making.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--06-precedent-flexibility.webp" width="900" height="600" alt="The Supreme Court can depart from its own decisions under the Practice Statement 1966 (Herrington; Shivpuri). The Court of Appeal is bound by its own decisions except in the three Young v Bristol Aeroplane situations. Below: original precedent (Donoghue), persuasive precedent (James and Karimi following Holley), and avoidance by distinguishing (Balfour and Merritt), overruling and reversing." loading="lazy">
+  <figcaption>The Supreme Court uses the Practice Statement; the Court of Appeal has only the Young exceptions.</figcaption>
+</figure>
+
 ## Statutory interpretation
 
 | Rule | Approach |
@@ -104,6 +119,11 @@ Distinguishing is the everyday technique; the other two are comparatively rare.
 
 The trade-off: the literal rule respects parliamentary sovereignty but can defeat Parliament's evident intention; the purposive approach achieves justice but risks judges legislating.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--03-statutory-interpretation.webp" width="900" height="900" alt="A child's pedal cycle and the question &quot;Is it a vehicle?&quot; in a park offence, followed by four rows. The literal rule reads the ordinary meaning and may convict harshly. The golden rule modifies the meaning only if the result is absurd. The mischief rule asks what defect the Act addressed and, if motor traffic and noise, acquits. The purposive approach follows Parliament's purpose." loading="lazy">
+  <figcaption>Each approach gives the court a different question to ask about the same word.</figcaption>
+</figure>
+
 ## Court structure
 
 **Criminal:** Magistrates' Court → Crown Court → Court of Appeal (Criminal Division) → Supreme Court.
@@ -112,6 +132,16 @@ The trade-off: the literal rule respects parliamentary sovereignty but can defea
 The **High Court** has three divisions: King's Bench, Chancery, Family.
 
 **Criminal offence classification:** summary (magistrates only), either-way (defendant may elect Crown Court trial), indictable (Crown Court only).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--04-court-hierarchy.webp" width="900" height="954" alt="A diagram of two appeal routes meeting at the Supreme Court. Civil cases go from the County Court or High Court to the Court of Appeal (Civil Division). Criminal cases go from the Magistrates' Court or Crown Court to the Court of Appeal (Criminal Division). Each court binds those below it, and the Practice Statement 1966 lets the Supreme Court depart from its own past decisions." loading="lazy">
+  <figcaption>A higher court binds every court below it; the Supreme Court binds all.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--05-offence-classes.webp" width="900" height="820" alt="A grid of three offence types against two courts. Summary offences are tried only in the Magistrates' Court. Either-way offences may be tried in either court, depending on the magistrates' view of their sentencing powers and the defendant's choice. Indictable offences are first heard in the Magistrates' Court but always tried in the Crown Court with a judge and jury." loading="lazy">
+  <figcaption>The class of offence decides which criminal court tries it.</figcaption>
+</figure>
 
 ## Legal personnel
 
@@ -125,6 +155,16 @@ The **High Court** has three divisions: King's Bench, Chancery, Family.
 **Lay magistrates** — unpaid volunteers, sitting in threes, advised by a legally qualified clerk. They bring local knowledge and cost very little, but are criticised as unrepresentative and inconsistent between benches.
 
 **Juries** — 12 people in Crown Court trials, deciding fact not law, deliberating in secret. Defended for public participation and fairness; criticised for the risk of bias, the absence of reasons, and inability to test whether verdicts were properly reached.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-legal-personnel--03-judicial-independence.webp" width="900" height="646" alt="Six safeguards around judicial independence: security of tenure, salaries from the Consolidated Fund, immunity from suit (Sirros v Moore), separation of powers, the statutory duty in s3 Constitutional Reform Act 2005, and impartiality (Re Pinochet). Below, independence is strong in law but faces media pressure (Miller) and a diversity gap." loading="lazy">
+  <figcaption>Independence is protected by tenure, pay, immunity, separation and statute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-legal-personnel--06-lay-magistrates.webp" width="900" height="870" alt="The six key qualities for magistrates and the disqualifications, then four steps: vacancies advertised, interview by a local advisory committee, appointment by the Lord Chief Justice on the monarch’s behalf, and training under the Judicial College framework. Below, the arguments for and against magistrates." loading="lazy">
+  <figcaption>Six qualities, a local interview, appointment, then structured training.</figcaption>
+</figure>
 
 ## Exam traps
 

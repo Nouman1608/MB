@@ -60,6 +60,11 @@ Polygamous and same-sex families may be taught where locally appropriate, but ar
 | Empty shell marriage | A marriage that continues legally without love or intimacy |
 | Serial monogamy | A sequence of monogamous marriages, one after another |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-1--01-household-or-family.webp" width="900" height="672" alt="Two overlapping ovals. Households share an address; families are linked by kinship. Single person and shared households are households but not families; a family living together is both; relatives who live apart, as in a modified extended family, are a family but not one household. Murdock’s 1949 definition is noted with its limits." loading="lazy">
+  <figcaption>A single person household is a household but not a family.</figcaption>
+</figure>
+
 ## Structures: one strength, one limitation, and who it affects
 
 - **Nuclear**: geographically mobile and private; but isolated from kin, and the burden of care falls
@@ -74,6 +79,16 @@ Polygamous and same-sex families may be taught where locally appropriate, but ar
 - **Empty nest**: freedom for the couple; but loss of the parenting role.
 - **Childless**: time and resources; but stigma in societies that expect parenthood.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-1--01-family-structures.webp" width="900" height="720" alt="Simple family trees for eight structures: nuclear, horizontal extended, vertical or beanpole extended, modified extended (kin living apart but in contact), reconstituted with step-children, lone parent, empty nest and childless." loading="lazy">
+  <figcaption>Each structure is a different arrangement of adults, children and generations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-1--02-strong-for-whom.webp" width="900" height="550" alt="A grid judging five family structures, nuclear, horizontal extended, beanpole, reconstituted and lone parent, from the position of children, women, older relatives and society, so that each strength or limitation says who gains or loses." loading="lazy">
+  <figcaption>Say who gains and who loses: that turns a point into a developed one.</figcaption>
+</figure>
+
 ## Diversity in three dimensions (4.1.2)
 
 - **Cross-cultural**: Gough's study of the Nayar and Spiro's study of the kibbutz (1958) show
@@ -83,6 +98,11 @@ Polygamous and same-sex families may be taught where locally appropriate, but ar
   working-class kin networks; middle-class mobility makes modified extended families more likely.
 - **Ethnicity**: some migrant families keep extended or joint-family traditions for support; patterns
   change across generations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-1--03-three-variations.webp" width="900" height="445" alt="Three sources of diversity. Cross-cultural: the Nayar and the Israeli kibbutz challenge Murdock’s universal nuclear family. Social class: Young and Willmott’s Bethnal Green families lived near kin, while the mobile middle class keep a modified extended family. Ethnicity: South Asian joint families, adapting over generations." loading="lazy">
+  <figcaption>Family patterns vary with culture, class and ethnicity.</figcaption>
+</figure>
 
 ## The diversity debate (4.1.3) at a glance
 
@@ -97,6 +117,16 @@ Polygamous and same-sex families may be taught where locally appropriate, but ar
 **Extent of diversity:** household snapshots show many non-nuclear households, but Chester (1985)
 argued most people live in a nuclear family at some point in their life course.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-1--04-diversity-debate.webp" width="900" height="547" alt="The New Right see family diversity as a problem, with Murray linking lone parenthood to welfare and missing male role models. Postmodernists see it as choice, with Stacey’s divorce-extended family. A note explains Chester’s point that snapshot figures overstate diversity because most people pass through a nuclear family." loading="lazy">
+  <figcaption>Say which side each view takes on whether diversity is good.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-1--04-snapshot-vs-life-course.webp" width="900" height="462" alt="A person who lived in a nuclear family earlier in life is in a single-person household today. A household count captures only today, which is why Chester argues snapshot statistics overstate diversity." loading="lazy">
+  <figcaption>A single snapshot can hide a life spent mostly in nuclear families.</figcaption>
+</figure>
+
 ## Alternatives and marriage types (4.1.4 and 4.1.5)
 
 - Single person households: older widowed people, young professionals, people after divorce.
@@ -107,6 +137,11 @@ argued most people live in a nuclear family at some point in their life course.
   willing to divorce when a marriage fails.
 - Empty shell marriages hide marital breakdown from divorce statistics.
 - Serial monogamy links divorce and remarriage to the growth of reconstituted families.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-1--05-types-of-marriage.webp" width="900" height="680" alt="Types of marriage grouped by question. How is the partner chosen: arranged with consent, which is not forced marriage, or love marriage. What is the relationship like: an empty shell marriage stays together in name only. How many partners: monogamy, and serial monogamy, which can lead to a reconstituted family." loading="lazy">
+  <figcaption>Arranged is not forced; serial monogamy leads to reconstituted families.</figcaption>
+</figure>
 
 ## Exam traps
 

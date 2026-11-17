@@ -1,0 +1,13 @@
+{ "page": "oxfordaqa-a-level-psychology-biopsychology-development-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--01-psy-nervous-divisions.webp", "after": "## Biopsychology — key structure" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--02-psy-neuron-synapse.webp", "after": "## Biopsychology — key structure" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--03-psy-brain-localisation.webp", "after": "## Biopsychology — key structure" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--05-psy-piaget-vs-vygotsky.webp", "after": "## Cognitive development — Piaget vs Vygotsky" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--04-psy-piaget-adaptation.webp", "after": "## Cognitive development — Piaget vs Vygotsky" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--02-experimental-designs.webp", "after": "## Research methods 1 — cumulative foundations" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--06-psy-correlation-scatter.webp", "after": "## Worked example: interpreting a correlation" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--07-psy-third-variable.webp", "after": "## Worked example: interpreting a correlation" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-biopsychology--04-fight-or-flight.webp", "after": "## The endocrine system and fight-or-flight" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-biopsychology--05-split-brain.webp", "after": "## Split-brain research and lateralisation" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--05-sally-anne.webp", "after": "## Theory of mind and the Sally-Anne studies" }
+] }

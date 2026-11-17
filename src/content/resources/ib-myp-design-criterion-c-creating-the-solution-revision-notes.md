@@ -41,6 +41,11 @@ The brief says you **plan the creation** of the chosen solution, then **follow t
 
 Brief facts you can quote: four criteria, **equally weighted**; each has **eight achievement levels (1-8) in four bands**; a solution can be a **model, prototype, product or system**; courses are assessed as **product, digital, or combined** design; the ePortfolio is a **complete design folder** marked by your teacher and moderated by the IB on a sample.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--01-criterion-c-overview.webp" width="900" height="745" alt="Criterion C, creating the solution, sits between the chosen design from Criterion B and testing in Criterion D. It splits into four skills: a logical plan, technical skills, following the plan with a record, and justifying changes. The outcome is a prototype complete enough to test." loading="lazy">
+  <figcaption>Plan, show skill, follow and record, justify changes: then test in Criterion D.</figcaption>
+</figure>
+
 ## Key definitions
 
 | Term | Meaning |
@@ -65,6 +70,11 @@ Brief facts you can quote: four criteria, **equally weighted**; each has **eight
 | Safety | Risk and control | Heat-proof gloves; do not touch the element |
 | Quality check | What must be true before moving on | Angle 90° ± 2° with protractor |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--02-logical-plan-questions.webp" width="900" height="700" alt="Every planned step answers four questions: what is done, in what order, how long it takes and with what resources. Strong plans add safety and quality-check columns. A flowchart shows a check that sends you back: if parts are not within ±1 mm, re-cut them." loading="lazy">
+  <figcaption>Someone else should be able to make your product from the plan without asking you anything.</figcaption>
+</figure>
+
 ## Method in steps: checking a time plan
 
 ```
@@ -77,6 +87,11 @@ Brief facts you can quote: four criteria, **equally weighted**; each has **eight
 ```
 
 Worked reminder: 4 lessons of 45 min = 180 min. Steps planned total 150 min. Contingency = 180 − 150 = **30 min**, which is 30 ÷ 180 × 100 = **16.7%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--03-caddy-gantt-plan.webp" width="900" height="712" alt="Gantt chart of nine steps for a plywood brush caddy across six 55-minute lessons: mark out 30, laser-cut 40, sand 35, drill 20, dry-fit 20, glue and clamp 30 (dries overnight), fit handle 15, finish 60 and check 20 minutes. They total 270 of 330 minutes, leaving 60 minutes (18.2%) of contingency. A digital plan uses 215 of 250 minutes, 14.0% contingency." loading="lazy">
+  <figcaption>Times add up inside the lessons available, with contingency left for problems.</figcaption>
+</figure>
 
 ## Method in steps: checking cost
 
@@ -100,6 +115,11 @@ Worked reminder: 3 hinges at £2.40 and one tube of glue at £1.15 cost 3 × 2.4
 
 Worked reminder: planned 50 min, actual 70 min. Difference = +20 min; overrun = 20 ÷ 50 × 100 = **40%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--05-planned-vs-actual.webp" width="900" height="722" alt="Paired bars compare planned and actual minutes for the caddy. Cutting took 65 instead of 40 minutes (+25) and sanding 45 instead of 35 (+10) after the laser cutter broke and a scroll saw was used; dry-fit and finishing each saved 5. The total was 295 against 270 planned, leaving 35 of the 330 minutes." loading="lazy">
+  <figcaption>A log with planned and actual times shows where the project slipped and how contingency absorbed it.</figcaption>
+</figure>
+
 ## Showing technical skill -- checklist
 
 - Photo or screenshot at **each key stage**, not just the end.
@@ -108,6 +128,11 @@ Worked reminder: planned 50 min, actual 70 min. Difference = +20 min; overrun = 
 - A **reason for each technique** you chose.
 - **Safe practice** shown or noted.
 - Digital: short code extracts or before/after screenshots, with how you checked the feature works.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--04-annotating-skill-evidence.webp" width="900" height="700" alt="A caption that only says “Photo 4: drilling” is not evidence. A strong annotation says what the image shows (drilling the 12 mm handle holes), the skill involved (both ends clamped together) and what was checked (the holes line up), alongside measured accuracy such as all nine parts within ±1 mm." loading="lazy">
+  <figcaption>The moderator sees the evidence, not the object, so every image needs an annotation.</figcaption>
+</figure>
 
 ## Method in steps: justifying a change
 
@@ -121,6 +146,11 @@ EFFECT ON PLAN     -- time, resources, order of later steps
 
 Mini-example: "Changed the lid hinge from a printed pin hinge to a metal piano hinge (WHAT) because two printed hinges snapped during the dry-fit (WHY). The lid should now be stronger but the product is 30 g heavier, so I will re-check the weight limit in my specification during testing (EFFECT ON SOLUTION). Fitting takes 15 min more; the hinge is added to the resource list and cost (EFFECT ON PLAN)."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--07-four-part-justification.webp" width="900" height="730" alt="A full justification states what changed, why with evidence, the effect on the solution and how it will be tested in Criterion D, and the effect on the plan’s time and resources, using the caddy’s switch to butt joints as the example. Giving only the cause is a partial justification." loading="lazy">
+  <figcaption>A change is justified only when its cause and both of its effects are written down.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 | This | Not the same as |
@@ -131,6 +161,11 @@ Mini-example: "Changed the lid hinge from a printed pin hinge to a metal piano h
 | **Contingency** -- spare time planned in advance | **Overrun** -- extra time a step actually took |
 | **Quality check** -- during making, before the next step | **Testing** -- after making, against the specification (Criterion D) |
 | **Criterion C** -- plan and create | **Criterion B** -- specify and choose; **Criterion D** -- test and evaluate |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--06-plan-change-vs-design-change.webp" width="900" height="670" alt="The laser cutter being out of action caused a change to the plan, cutting parts on a scroll saw, which in turn caused a change to the design, replacing finger joints with glued butt joints and panel pins. Plan changes alter how or when you make it; design changes alter the product itself." loading="lazy">
+  <figcaption>Keep plan changes and design changes apart, even when one event causes both.</figcaption>
+</figure>
 
 ## Small reminders
 

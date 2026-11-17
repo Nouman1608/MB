@@ -49,6 +49,16 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Antecedent conditions** are worth a category of their own: soil already saturated from earlier rainfall has no remaining storage capacity, so a following storm behaves as though the ground were impermeable, regardless of the underlying rock type. A named rock contrast strengthens an answer here — impermeable clay or granite gives a flashy hydrograph, while permeable chalk gives a flatter one with a longer lag, since water can infiltrate and be released more gradually.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--07-phys-drainage-basin.webp" width="900" height="1010" alt="Schematic cross-section of a drainage basin. Precipitation from a cloud is the input. Stores are interception on a tree canopy, surface store, soil moisture, groundwater and the river channel. Flows are infiltration, percolation, throughflow, overland flow and baseflow. Outputs are evapotranspiration and channel discharge to the right. Not to scale." loading="lazy">
+  <figcaption>A drainage basin is an open system: precipitation comes in, water moves between stores by flows, and leaves as evapotranspiration and discharge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--08-phys-storm-hydrograph.webp" width="900" height="1070" alt="A storm hydrograph. A rainfall bar chart peaks at 4.5 hours. A flashy discharge curve rises sharply to a high peak of 80 two hours after peak rainfall and falls quickly. A subdued curve peaks at 38 six hours after peak rainfall. Lag time, peak discharge, rising limb and falling limb are labelled. Impermeable, steep, urban ground gives the flashy shape; permeable, gentle, wooded ground gives the subdued one. Illustrative values." loading="lazy">
+  <figcaption>A flashy hydrograph has a short lag time and a high peak; permeable, gentle, wooded basins give a flatter, delayed response.</figcaption>
+</figure>
+
 ## Channel processes and landforms
 
 **Erosion:** hydraulic action, abrasion, attrition, solution.
@@ -62,6 +72,16 @@ Condensed for the final weeks. For the full explanation, use the
 - **Ox-bow lake** — the neck narrows until breached in flood; deposition then seals the abandoned loop.
 - **Levée and floodplain** — overbank flow deposits coarse material nearest the channel and fine material further away.
 - **Delta** — requires a high sediment load and low wave and tidal energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--09-phys-hjulstrom.webp" width="900" height="940" alt="A log-log graph with particle size from clay to gravel on the horizontal axis and flow velocity on the vertical axis. An erosion curve is U-shaped: sand is eroded at the lowest speed, while fine clay and large gravel need higher speeds. A lower curve marks where particles are deposited. Above the upper curve is erosion, between the curves is transport and below the lower curve is deposition. A callout notes that fine clay needs a surprisingly high velocity to be lifted because of cohesion. Sketch from illustrative points." loading="lazy">
+  <figcaption>The Hjulstrom curve shows whether a river erodes, transports or deposits a particle of a given size at a given velocity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--10-phys-meander-oxbow.webp" width="900" height="1310" alt="Three plan views of a river. Stage 1: a meander, where fast flow on the outside of the bend erodes a river cliff and slow flow on the inside deposits a slip-off slope. Stage 2: the bends grow and the neck between two loops narrows. Stage 3: in a flood the river breaches the neck and takes the short route, then deposition seals off the abandoned loop, leaving an ox-bow lake. Schematic, not to scale." loading="lazy">
+  <figcaption>Erosion on the outside of bends narrows the meander neck until a flood breaches it, and deposition seals the loop as an ox-bow lake.</figcaption>
+</figure>
 
 ## Rocks and weathering
 
@@ -88,6 +108,16 @@ The **energy budget**: incoming shortwave radiation is reflected, absorbed or sc
 **Diurnal energy budget:** by day — incoming shortwave radiation, reflected radiation (albedo), energy absorbed into the surface and subsurface, sensible heat transfer, longwave radiation, latent heat (evaporation); by night — longwave radiation loss (reduced by cloud), absorbed energy returned from the subsurface, sensible heat transfer from the air, latent heat released by dew.
 
 **Urban heat island:** low-albedo surfaces absorb more radiation; concrete and brick store heat and release it slowly; less vegetation means less evaporative cooling; tall buildings reduce wind speed and trap longwave radiation; human activity releases heat directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--11-phys-three-cell.webp" width="900" height="1280" alt="Side view of the northern hemisphere from the equator to the pole showing three circulation cells: Hadley (equator to about 30 degrees), Ferrel (30 to 60 degrees) and Polar (60 to 90 degrees). Air rises at the equator and at 60 degrees, and sinks at 30 degrees and at the pole. Two small diagrams show the Coriolis effect: moving air is deflected to the right in the northern hemisphere and to the left in the southern hemisphere. Schematic." loading="lazy">
+  <figcaption>Air circulates in three cells between equator and pole, and the Coriolis effect deflects winds right in the northern hemisphere and left in the southern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--12-phys-precipitation-types.webp" width="900" height="1035" alt="Three panels. Convectional precipitation: the sun heats the ground, warm air rises and forms cloud and rain. Relief or orographic precipitation: air is forced up over high ground and rain falls on the rising side. Frontal precipitation: warm air rises over a wedge of cold air at a front, forming cloud and rain along the front. Schematic." loading="lazy">
+  <figcaption>Precipitation is classified by how the air is lifted: by surface heating, by high ground, or at a front.</figcaption>
+</figure>
 
 ## Required case studies
 

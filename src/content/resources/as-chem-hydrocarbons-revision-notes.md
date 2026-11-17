@@ -55,6 +55,16 @@ incomplete combustion in a limited oxygen supply also gives toxic **CO** (and so
 exhaust also contains **oxides of nitrogen** and **unburnt hydrocarbons**; a catalytic converter removes them,
 for example 2CO + 2NO → 2CO₂ + N₂.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--16-hc-complete-vs-incomplete.webp" width="900" height="1010" alt="Two panels for ethane. Plenty of O2 gives CO2 and H2O: 2C2H6 + 7O2 to 4CO2 + 6H2O. Limited O2 gives toxic CO and H2O, and carbon (soot) can form: 2C2H6 + 5O2 to 4CO + 6H2O. Ball models show linear CO2 and bent water." loading="lazy">
+  <figcaption>Plenty of oxygen gives CO2 and water; limited oxygen gives carbon monoxide and/or carbon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--17-hc-catalytic-converter.webp" width="900" height="1000" alt="Fuel and air enter an engine. CO, NOx and unburnt hydrocarbons leave it and pass through a honeycomb catalytic converter (Pt/Rh), emerging as CO2, N2 and H2O. Notes give the harm of each pollutant." loading="lazy">
+  <figcaption>A platinum/rhodium catalytic converter removes CO, NOx and unburnt hydrocarbons together as CO2, N2 and H2O.</figcaption>
+</figure>
+
 ## How does free-radical substitution work?
 
 The syllabus exemplifies this with **ethane**; the steps are identical for methane, shown here.
@@ -75,6 +85,11 @@ TERMINATION   Cl. + Cl.  ->  Cl2
 - Propagation steps consume a radical and produce one — this is why the chain continues.
 - The reaction is poorly controlled: further substitution gives CH₂Cl₂, CHCl₃, CCl₄.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--15-hc-free-radical-chain.webp" width="900" height="1260" alt="Initiation: UV light splits Cl2 into two chlorine radicals. Propagation is a loop: Cl radical + ethane gives an ethyl radical + HCl, then the ethyl radical + Cl2 gives chloroethane and a new Cl radical. Termination: Cl + Cl, two ethyl radicals, or ethyl + Cl combine." loading="lazy">
+  <figcaption>Free-radical substitution is a chain: initiation, a two-step propagation loop, and termination steps that remove radicals.</figcaption>
+</figure>
+
 ## How does electrophilic addition work?
 
 The C=C is a region of **high electron density**, which attracts electrophiles.
@@ -87,6 +102,16 @@ Step 3  The nucleophile (e.g. Br-) attacks the carbocation
 ```
 
 **Heterolytic** fission — both electrons to one atom, shown with **double-headed** curly arrows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--18-hc-sigma-pi-bond.webp" width="900" height="1000" alt="Top: ethene in a flat plane with the pi bond electron density above and below it as two lobes, where an electrophile can attack. Bottom: ethane has only sigma bonds, which are strong and weakly polar, with no exposed electrons." loading="lazy">
+  <figcaption>The pi electron density above and below the plane is exposed to electrophiles; alkanes have only strong, weakly polar sigma bonds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--19-hc-bromine-ethene-mechanism.webp" width="900" height="1070" alt="Stage 1: the pi bond induces a dipole in Br2; arrow 1 from the C=C to the delta-plus Br, arrow 2 moves the Br-Br pair onto the other Br as bromide, leaving a carbocation. Stage 2: bromide attacks the carbocation from the opposite face. Stage 3: 1,2-dibromoethane." loading="lazy">
+  <figcaption>Electrophilic addition of Br2 to ethene gives 1,2-dibromoethane through a carbocation intermediate.</figcaption>
+</figure>
 
 ## The reactions of alkenes
 
@@ -134,6 +159,11 @@ is worth distinguishing clearly from the cold dilute acidified KMnO₄ diol test
 the two use the same reagent but very different conditions, and give
 completely different types of information.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--21-hc-kmno4-oxidation.webp" width="900" height="1240" alt="Cold, dilute acidified KMnO4 turns ethene into ethane-1,2-diol with the chain intact, decolourising the purple solution. Hot, concentrated acidified KMnO4 breaks the C=C: a terminal =CH2 gives CO2 and water, an internal =CHR gives a carboxylic acid, and =CR2 gives a ketone." loading="lazy">
+  <figcaption>Cold dilute KMnO4 stops at the diol; hot concentrated KMnO4 cleaves the C=C, and the fragments show where it was.</figcaption>
+</figure>
+
 ## What is Markovnikov's rule and why does it work?
 
 When HBr adds to an unsymmetrical alkene, the **hydrogen adds to the carbon already bearing more hydrogens**, because this route forms the **more stable carbocation**.
@@ -143,6 +173,11 @@ Carbocation stability:   tertiary > secondary > primary
 ```
 
 Alkyl groups are **electron-donating**, so they spread the positive charge and stabilise the cation. Explaining the major product requires naming the carbocation, not just quoting the rule.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--20-hc-markovnikov.webp" width="900" height="930" alt="Propene plus HBr can give a secondary carbocation (positive charge on C2, two alkyl groups pushing electrons) or a primary one (charge on C1, one alkyl group). The secondary cation is more stable and forms faster, giving 2-bromopropane as the major product; 1-bromopropane is minor." loading="lazy">
+  <figcaption>The reaction goes through the more stable secondary carbocation, so 2-bromopropane is the major product.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

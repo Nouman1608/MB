@@ -59,6 +59,11 @@ test yourself with the [Transport and telecommunications practice questions](/re
 - **Sparse** in Balochistan, the Thar and Cholistan deserts and the northern mountains.
 - **Air** serves large cities and remote northern towns such as Gilgit, Skardu and Chitral.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications--01-network-pattern.webp" width="900" height="678" alt="A schematic line, not a map, of the main road and railway corridor running north-east to south-west along the Indus valley through Peshawar, Lahore, Multan, Hyderabad and Karachi. Cards describe the densest network on the Indus Plain, sparse routes in Balochistan, the deserts and the north, and air links to remote towns. A note lists key routes." loading="lazy">
+  <figcaption>Describe the pattern as linear, dense or sparse, and locate it by province and river.</figcaption>
+</figure>
+
 ## Helps and hinders in one line each
 
 - **Relief:** flat plains help; mountains hinder.
@@ -68,11 +73,26 @@ test yourself with the [Transport and telecommunications practice questions](/re
 - **Demand:** many people and industries justify building; sparse areas do not.
 - **Money and security:** investment helps; debt, high maintenance and unrest hinder.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications--02-helps-and-hinders.webp" width="900" height="758" alt="A table of seven factors with how each helps and hinders transport: relief, rivers, climate, ground, population and economy, finance and security. A note covers maintenance problems such as overloaded lorries, floods and old railway stock." loading="lazy">
+  <figcaption>The same factor can help in one region and hinder in another.</figcaption>
+</figure>
+
 ## Recent improvements
 
 Motorways (M-2 Lahore–Islamabad and others, including CPEC links); Karakoram Highway upgrade with
 tunnels around the Attabad lake; plans to upgrade the main railway line; new Islamabad International
 Airport (2018); bus rapid transit and Lahore's Orange Line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications--03-improvements-feasibility.webp" width="900" height="668" alt="A timeline of improvements: the M-2 motorway in the 1990s followed by other motorways, the Karakoram Highway realigned after the 2010 Attabad landslide, Islamabad International Airport in 2018, urban bus and metro schemes, and a planned main railway upgrade. Below, five feasibility questions." loading="lazy">
+  <figcaption>Feasibility asks whether a scheme is practical and worth it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications--05-evaluating-motorways.webp" width="900" height="684" alt="A balance of the benefits of motorway and airport development, such as faster journeys, lower costs, industry and jobs, against costs such as debt, lost farmland, tolls, uneven benefits and pollution. The judgement weighs motorways against improving the railways." loading="lazy">
+  <figcaption>A strong evaluation reaches a judgement, not a one-sided list.</figcaption>
+</figure>
 
 ## Road, rail and air compared
 
@@ -81,6 +101,11 @@ Airport (2018); bus rapid transit and Lahore's Orange Line.
 | Road | Door-to-door delivery, perishables, short and medium distances, remote villages | Congestion, accidents, fuel cost, road damage |
 | Rail | Heavy, bulky goods and many passengers over long distances | Slow, ageing track and engines, fixed routes |
 | Air | Speed, high-value goods, remote mountain towns | Expensive, small loads, weather delays |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications--04-road-rail-air.webp" width="900" height="555" alt="Five transport tasks matched to the best mode: road for fresh mangoes from Multan to Lahore, rail for bulk coal or cement, air for a business trip from Karachi to Islamabad, a jeep road for a mountain village, and air to Skardu when the weather allows." loading="lazy">
+  <figcaption>The best mode depends on the goods, the distance and how urgent the journey is.</figcaption>
+</figure>
 
 ## International links
 
@@ -101,6 +126,11 @@ and Sialkot.
 Peshawar, Sust; developed to cut congestion at Karachi, save time and cost, and reduce theft and
 damage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-trade-transport-and-telecommunications--06-international-routes.webp" width="900" height="773" alt="A schematic with Pakistan at the centre. Roads run to China over the Khunjerab Pass on the Karakoram Highway, to Afghanistan through the Khyber Pass at Torkham and via Chaman, to Iran via Taftan (also by rail from Quetta) and to India at Wagah. The seaports of Keamari, Port Qasim and Gwadar face the Arabian Sea." loading="lazy">
+  <figcaption>Each neighbour is reached through a named crossing; three seaports face the Arabian Sea.</figcaption>
+</figure>
+
 ## Telecommunications
 
 - **Education:** distance learning by radio, television and internet (Allama Iqbal Open University,
@@ -111,6 +141,11 @@ damage.
 - **Problems:** mountains, scattered villages, cost of masts and cables, power cuts, low incomes and
   literacy, floods, insecurity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications--06-telecommunications.webp" width="900" height="666" alt="How telecommunications help education, industry, services and trade, with examples such as the Allama Iqbal Open University and mobile banking. Below, problems of providing them, such as mountains, scattered villages and power cuts, and an evaluation of their role in development." loading="lazy">
+  <figcaption>Say how each type of telecommunication helps a named field.</figcaption>
+</figure>
+
 ## Worked example
 
 **Question:** Explain why dry ports have been developed in many cities of Pakistan. **[4]**
@@ -119,6 +154,11 @@ damage.
 travel [1]. Goods are sealed in containers inland, which reduces theft and damage on the journey [1].
 Less paperwork and waiting at Karachi reduces congestion at the seaport [1]. Containers can travel
 by rail, which is cheaper for long distances [1].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-trade-transport-and-telecommunications--07-dry-port.webp" width="900" height="405" alt="A chain from an inland factory to a dry port such as Lahore or Faisalabad, where goods are cleared through customs and loaded into containers, then travel sealed by rail or road to the seaport. Dry ports save time, reduce congestion at Karachi and help exporters in inland industrial cities." loading="lazy">
+  <figcaption>A dry port brings customs clearance to inland cities.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

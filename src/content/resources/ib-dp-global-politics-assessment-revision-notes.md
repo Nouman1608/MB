@@ -35,6 +35,11 @@ Global Politics sits within the individuals-and-societies subject group alongsid
 | Paper 3 (HL only: global political challenges extension) | — | 30% |
 | Engagement project | 30% | 20% |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--06-paper-3.webp" width="900" height="685" alt="Paper 3 lasts 90 minutes for 28 marks. Question 1 (3 marks, AO2) about 10 minutes; 2a (4 marks, AO2) about 13; 2b (6 marks, AO3) about 19; question 3 (15 marks, AO3) about 48 minutes. Question 3 is about 16% of the HL grade." loading="lazy">
+  <figcaption>Spend time where the marks are: question 3 deserves about half the paper.</figcaption>
+</figure>
+
 ## The core topic and three thematic studies (every student, every level)
 
 **Core topic:** understanding power and global politics (power, sovereignty, legitimacy, interdependence).
@@ -61,6 +66,16 @@ Both Paper 1 and Paper 2 draw on global politics' own command-term glossary, pub
 ## Why the core topics and thematic studies recur across every paper
 
 Because the core topic (understanding power and global politics) and the three compulsory thematic studies -- rights and justice; development and sustainability; and peace and conflict -- are examined at every level, Papers 1 and 2 are built to draw questions from across all of them rather than allowing a student to specialise in only one or two -- a revision plan that concentrates disproportionately on a favourite area while under-preparing another risks a significant gap on exam day. Because HL students additionally sit Paper 3 on the global political challenges extension -- independent student research into self-selected cases connected to eight named HL topic areas (borders, environment, equality, health, identity, poverty, security, technology) -- HL revision should treat the core topics, thematic studies and case-study content as complementary rather than substitutable -- strong understanding of the core topics and thematic studies underpins strong case-study analysis, since the case studies are examined through the same core concepts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-rights-justice--04-cross-theme.webp" width="900" height="703" alt="A triangle of the three thematic studies. Rights and justice links to peace and conflict, where conflict raises rights violations for the same population, and to development and sustainability, where unequal outcomes raise questions of distributive justice. The same four core concepts apply throughout." loading="lazy">
+  <figcaption>Real issues cross theme boundaries; so should your examples.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-rights-justice--05-paper-2.webp" width="900" height="593" alt="Paper 2 has two sections. In section A candidates answer one thematic-study-specific essay, one set per thematic study. In section B they answer one integrating essay linking all three thematic studies and the core topics." loading="lazy">
+  <figcaption>One thematic essay plus one integrating essay: practise both with rights content.</figcaption>
+</figure>
 
 ## How this compares to a related individuals-and-societies subject
 

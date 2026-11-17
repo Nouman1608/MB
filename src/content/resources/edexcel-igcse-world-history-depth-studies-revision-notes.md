@@ -58,6 +58,11 @@ The structure that scores:
 
 **Distinguish the trigger from the underlying causes.** The immediate event starts things, but only because the conditions made escalation possible. "The spark is not the cause" applies across the depth studies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--16-fr-causes.webp" width="900" height="823" alt="Five boxes all feed one conclusion, the crisis of 1787 to 89: the society of orders, where the Third Estate carried most of the tax; the Enlightenment, with Montesquieu, Voltaire and Rousseau questioning privilege; the American War, bringing prestige but enormous debts; an indecisive Louis XVI and the unpopular Marie Antoinette; and finance, with heavy borrowing and the poor harvest of 1788." loading="lazy">
+  <figcaption>Five long-term pressures that fed the crisis of 1787–89.</figcaption>
+</figure>
+
 ## Recurring themes across the depth studies
 
 **Treaties and their consequences** — the Treaty of Versailles was **harsh enough to embitter Germany but not harsh enough to keep her weak**. That single assessment answers most Versailles evaluation questions.
@@ -69,6 +74,16 @@ The structure that scores:
 **Appeasement** — argue both sides. *For:* Britain was militarily unprepared, public opinion feared war, Versailles was widely seen as unjust, and the USSR seemed the greater threat. *Against:* it emboldened Hitler, sacrificed Czechoslovakia, and let Germany grow stronger relatively.
 
 **Cold War origins** — ideological opposition, wartime suspicion, the atomic bomb, and disagreements at Yalta and Potsdam over Poland and Germany.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-ussr-dictatorship-conflict--12-ussr-cult.webp" width="900" height="870" alt="Stalin, shown as the father of the peoples, is at the centre of four boxes. Cult of personality: portraits, statues, songs and place names. Censorship. Socialist realism: art and literature glorify Soviet achievement. Rewritten history: the Short Course of 1938 exaggerates Stalin’s role." loading="lazy">
+  <figcaption>Four ways the regime built Stalin’s image and controlled ideas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--15-sp-conferences.webp" width="900" height="809" alt="Three rows for Tehran, Yalta and Potsdam with what was agreed or argued and who led each side; Potsdam is shaded to show worsening relations." loading="lazy">
+  <figcaption>Cooperation at Tehran and Yalta gave way to tension at Potsdam.</figcaption>
+</figure>
 
 ## The eight depth-study options
 
@@ -85,11 +100,26 @@ The structure that scores:
 
 **Confirm which two (or more) options your centre actually teaches** before revising in depth — studying the wrong option, even briefly, wastes time that could deepen knowledge of the period that will genuinely appear in the exam.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-1-depth-studies--07-p1-timeline.webp" width="900" height="971" alt="A to-scale timeline from 1780 to 1995 with one bar per Depth Study option, each a short bounded period." loading="lazy">
+  <figcaption>The eight Depth Studies drawn to scale, from c1780 to 1994.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-1-depth-studies--08-p1-choose-two.webp" width="900" height="910" alt="Eight tiles with two highlighted (Germany and USSR, an illustrative example). The choice is set by the centre, so revise only your taught options." loading="lazy">
+  <figcaption>Your centre, not you, chooses at least two of the eight options.</figcaption>
+</figure>
+
 ## Structuring revision by option
 
 Build **separate notes for each studied option**, rather than one combined set: a chronological outline of major events, the key individuals and their roles, the causes of major developments, and the consequences or significance of those developments.
 
 **Keep periods separate.** Candidates lose marks by unintentionally applying facts from one Depth Study to a question about a different one — particularly where two studied options share superficial similarities, such as both involving a shift toward authoritarian rule.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-1-depth-studies--10-p1-notes-folders.webp" width="900" height="1000" alt="Two separate folders, each with events in order, key individuals, causes and consequences, with a crossed no-mixing-facts marker between them." loading="lazy">
+  <figcaption>Keep one set of notes per option so facts do not bleed across periods.</figcaption>
+</figure>
 
 ## Writing the answers
 
@@ -97,6 +127,11 @@ Build **separate notes for each studied option**, rather than one combined set: 
 - Every paragraph should make a point, support it, and **link back to the question**.
 - Conclusions must **judge**, not summarise — and say what the judgement rests on.
 - Answer the question set, not the one you revised for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-1-depth-studies--09-p1-depth-survey.webp" width="900" height="790" alt="A graph of depth against time covered: a broad survey is a wide shallow bar, a Depth Study is a narrow tall stack of named individuals, exact sequence and precise causation." loading="lazy">
+  <figcaption>Depth Studies trade breadth of time for depth of detail.</figcaption>
+</figure>
 
 ## Exam traps
 

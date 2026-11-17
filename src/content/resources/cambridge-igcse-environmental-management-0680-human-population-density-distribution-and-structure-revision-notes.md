@@ -46,12 +46,22 @@ Condensed recall for sub-topic 7.1 of Cambridge IGCSE Environmental Management (
 
 Densely populated areas are usually lowland river valleys and coastal plains with water, fertile soil, moderate climate and jobs. Sparsely populated areas are usually deserts, high mountains, polar regions and dense forest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-density-distribution--01-density-vs-distribution.webp" width="900" height="715" alt="Two countries with the same area and the same number of people, so the same average density. In country X the dots are spread evenly; in country Y almost all are clustered along a river valley. Below, six small dot maps illustrate the words uneven, clustered, linear, dispersed, sparse and dense." loading="lazy">
+  <figcaption>The same average density can hide very different distributions.</figcaption>
+</figure>
+
 ## Describing a distribution map: PNDA
 
 - **P**attern: even or uneven; clustered or dispersed.
 - **N**amed places where dense and where sparse.
 - **D**ata: quote values from the key.
 - **A**nomaly: anything that breaks the pattern.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-density-distribution-and-structure--01-describing-distribution.webp" width="900" height="610" alt="Schematic dot map of an invented country: dots cluster along the west coast and a river valley, with few in the northern mountains and the south-east desert apart from one oasis town. Beside it, five steps for describing a distribution: overall pattern, where it is dense, where it is sparse, data and anomaly." loading="lazy">
+  <figcaption>Pattern, dense areas, sparse areas, data, anomaly: describe before you explain.</figcaption>
+</figure>
 
 ## Pyramid basics
 
@@ -71,12 +81,27 @@ Densely populated areas are usually lowland river valleys and coastal plains wit
 | Notch in one age group | War, epidemic or period of low births |
 | More women at the top | Women tend to live longer than men |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-structure--01-reading-a-pyramid.webp" width="900" height="650" alt="A schematic population pyramid with males on the left and females on the right, youngest at the bottom. Callouts: the width of the base shows recent birth rates; how fast the sides narrow shows the death rate and life expectancy; the width of the top shows the share of elderly people; bulges and notches record past baby booms, wars, epidemics or migration. A note says to read whether the axis shows numbers or percentages first." loading="lazy">
+  <figcaption>Base, sides, top and irregularities each tell a different story.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-density-distribution-and-structure--05-dependants-per-100.webp" width="900" height="655" alt="Two stacked bars of population by age. Country X: 42% aged 0 to 14, 55% aged 15 to 64 and 3% aged 65 and over, giving 81.8 dependants per 100 workers. Country Y: 15%, 64% and 21%, giving 56.3. X is the LIC with mostly young dependants; Y is the HIC with mostly elderly dependants." loading="lazy">
+  <figcaption>Same idea, opposite pressures: young dependants in the LIC, elderly in the HIC.</figcaption>
+</figure>
+
 ## World Bank income groups
 
 - Classified by **income per person** (gross national income per capita).
 - **LICs**: lowest; **MICs**: middle (split by the World Bank into lower-middle and upper-middle); **HICs**: highest.
 - Limits are revised every year, so learn the groups, not the figures.
 - Averages hide inequality within a country.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-density-distribution-and-structure--03-income-groups.webp" width="900" height="530" alt="A bar of rising income per person divided into low-income, middle-income (split into lower-middle and upper-middle) and high-income countries. Notes say the limits change every year and that a national average hides differences within a country." loading="lazy">
+  <figcaption>Three groups by income per person; the limits change each year.</figcaption>
+</figure>
 
 ## LIC versus HIC structure
 
@@ -89,9 +114,19 @@ Densely populated areas are usually lowland river valleys and coastal plains wit
 | Pressure on | Schools, jobs, food, housing | Healthcare, pensions, care homes |
 | Gender | Fairly even | More elderly women than men |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-density-distribution-and-structure--02-lic-hic-pyramids.webp" width="900" height="650" alt="Two schematic population pyramids. The typical LIC pyramid is triangular, with a wide base of young dependants that narrows quickly and few elderly. The typical HIC pyramid is a column with a narrow base, straight sides and a wide top, with more women than men in the oldest group." loading="lazy">
+  <figcaption>Wide base and narrow top for an LIC; straight sides and a wide top for an HIC.</figcaption>
+</figure>
+
 ## Worked density comparison
 
 Region P: 1,200,000 people in 4,000 km² = 300 people per km². Region Q: 1,200,000 people in 48,000 km² = 25 people per km². Same population, but P is twelve times as densely populated, which is why density, not total population, is used to compare crowding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-human-population-density-distribution-and-structure--04-comparing-densities.webp" width="900" height="686" alt="Two invented regions. Upland North has 2,400,000 people on 60,000 km², 40 people per km², shown as a sparsely dotted square. Coastal South has 900,000 people on 1,500 km², 600 people per km², shown as a densely dotted square: 15 times as dense despite fewer people." loading="lazy">
+  <figcaption>Density = population ÷ area: fewer people can still mean far more crowding.</figcaption>
+</figure>
 
 ## Key terms
 

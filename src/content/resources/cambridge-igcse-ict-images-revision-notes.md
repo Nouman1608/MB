@@ -66,6 +66,11 @@ Topic 12 has no numbered subtopics; the syllabus gives two content rows.
 - Line the image up with a stated element, for example "top of the image aligned with the first line of the paragraph" or "to the right of the text".
 - Combine with text wrapping (Topic 13) — square or tight — so text flows around the image as instructed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-images-study-guide--07-img-wrap.webp" width="900" height="850" alt="Five page sketches show text wrapping: in line with text, square or tight, top and bottom, behind text and in front of text. The last two overlap the text and are rarely wanted unless the task asks." loading="lazy">
+  <figcaption>How text wraps around an image.</figcaption>
+</figure>
+
 ## How do you resize an image correctly?
 
 1. Open the size settings rather than dragging by eye when a measurement is given.
@@ -75,11 +80,21 @@ Topic 12 has no numbered subtopics; the syllabus gives two content rows.
 
 Dragging a corner handle usually keeps proportions; dragging a side handle distorts the image.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-images-study-guide--08-img-aspect.webp" width="900" height="740" alt="A 3200 by 2400 picture resized to 800 wide. With aspect ratio locked it becomes 800 by 600, the same shape. With it unlocked and height set to 800 it becomes 800 by 800 and looks stretched." loading="lazy">
+  <figcaption>Lock the aspect ratio when resizing.</figcaption>
+</figure>
+
 ## Crop, rotate and reflect
 
 - **Crop** with the crop tool: drag the crop handles inwards to remove the part you do not need (for example, remove the sky to leave only the building). Cropping is not the same as resizing.
 - **Rotate** by a stated angle using the rotate options or by typing the angle.
 - **Reflect**: *flip horizontal* mirrors left–right (a person facing right will face left); *flip vertical* turns the image upside down as a mirror image. A vertical flip is not the same as a 180° rotation: the flip mirrors the picture, while the rotation does not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-images-study-guide--09-img-crop-square.webp" width="900" height="880" alt="A 3200 by 2400 image with 400 pixels removed from each side leaves a 2400 by 2400 square, since 3200 minus 2400 is 800." loading="lazy">
+  <figcaption>Cropping to a square.</figcaption>
+</figure>
 
 ## Brightness and contrast
 
@@ -102,6 +117,16 @@ Use the picture correction tools to increase or decrease brightness or contrast 
 An image is 1000 × 800 pixels with a colour depth of 24 bits.
 Size = 1000 × 800 × 24 = 19 200 000 bits = 2 400 000 bytes (about 2.4 MB) before compression.
 Halving the colour depth to 12 bits halves the size to about 1.2 MB. Halving the width and height to 500 × 400 cuts the number of pixels to a quarter, so the size falls to about 0.6 MB at 24 bits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-images-study-guide--10-img-file-size.webp" width="900" height="790" alt="A 3200 by 2400 image at 24 bits per pixel is 23 040 000 bytes. At 800 by 600 it is 1 440 000 bytes. It has one sixteenth of the pixels so the file is 16 times smaller." loading="lazy">
+  <figcaption>Why a smaller image is a smaller file.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-images-study-guide--11-img-reduce-methods.webp" width="900" height="870" alt="Tiles for resizing, cropping, lowering resolution, reducing colour depth and compression (JPEG lossy, PNG and GIF lossless), plus a tile noting that smaller files mean lower quality." loading="lazy">
+  <figcaption>Ways to reduce image file size.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

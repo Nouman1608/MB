@@ -52,6 +52,16 @@ practise with the [B5 practice questions](/resources/edexcel-igcse-world-history
 | Rights | No general human rights statement | Universal Declaration of Human Rights (1948) |
 | Agencies | ILO, Refugees, Health, Drugs, Slavery, Mandates | ILO, WHO, FAO, UNESCO, UNICEF, UNHCR, Trusteeship |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-international-organisations--13-io-structure.webp" width="900" height="1024" alt="Two columns compare the League and the UN: assembly, inner council (four permanent members and unanimity versus five with a veto), secretariat, and force." loading="lazy">
+  <figcaption>Structure of the League and the UN compared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-international-organisations--15-io-weak.webp" width="900" height="774" alt="A chart of 1919 to 1935 shows the USA never joining, Germany admitted 1926, Japan leaving 1933 and the USSR admitted 1934, plus a three-step ladder of collective security with military force dashed." loading="lazy">
+  <figcaption>Key members were missing or left, and there was no army of its own.</figcaption>
+</figure>
+
 ## Timeline
 
 | Date | Event |
@@ -80,6 +90,11 @@ practise with the [B5 practice questions](/resources/edexcel-igcse-world-history
 | 2003 | Iraq war without explicit UN authorisation |
 | 2005–11 | Sudan: peace agreement to South Sudan's independence |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-international-organisations--14-io-timeline.webp" width="900" height="1055" alt="A year-scaled vertical timeline with five periods and sixteen events from the Covenant to South Sudan." loading="lazy">
+  <figcaption>The five key topics placed on a scaled timeline.</figcaption>
+</figure>
+
 ## Successes and failures
 
 | Success | Failure |
@@ -90,6 +105,21 @@ practise with the [B5 practice questions](/resources/edexcel-igcse-world-history
 | Namibia (1989–90) | Lebanon; Middle East resolutions unimplemented |
 | Mozambique (1992–94) | Somalia; Srebrenica |
 | WHO and smallpox eradication | Veto paralysis in the Cold War |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-international-organisations--16-io-twenties.webp" width="900" height="944" alt="Three disputes (Aaland Islands, Upper Silesia, Greek–Bulgarian War) and three agencies (Refugee Committee, Drugs Committee, ILO) with their outcomes." loading="lazy">
+  <figcaption>The League settled disputes and its agencies had lasting success.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-international-organisations--17-io-crises.webp" width="900" height="896" alt="Two columns of four steps each for Manchuria 1931 to 1933 and Abyssinia 1935 to 1936." loading="lazy">
+  <figcaption>Weak responses to Japan and Italy destroyed the League’s credibility.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-international-organisations--18-io-record.webp" width="900" height="736" alt="Twelve UN cases in four groups: aim achieved, partly achieved, could not stop it, bypassed." loading="lazy">
+  <figcaption>UN cases grouped by the outcomes the lesson describes.</figcaption>
+</figure>
 
 ## Key terms
 

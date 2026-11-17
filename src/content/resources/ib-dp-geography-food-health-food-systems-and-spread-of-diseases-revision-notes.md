@@ -40,6 +40,11 @@ Production, processing, distribution, retailing, consumption and waste, plus the
 
 **Food miles** measure how far food travels, but distance alone is a weak guide to environmental impact because transport mode and production method also matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-food-health-study-guide--04-f-food-system.webp" width="900" height="900" alt="A food system drawn as a loop of six stages inside a dashed boundary labelled inputs, institutions and environment: production (crops growing), processing (a factory), distribution (a lorry), retailing (a shop), consumption (a plate) and waste (a bin). Arrows run left to right along the top row, down, then right to left along the bottom row. Trade links places to price shocks and disease." loading="lazy">
+  <figcaption>A food system runs from production to waste, and trade links places to price shocks and disease.</figcaption>
+</figure>
+
 ## Types of disease
 
 Communicable (infectious) and non-communicable.
@@ -58,6 +63,11 @@ Communicable (infectious) and non-communicable.
 Air travel can accelerate spread.
 
 Contagious and hierarchical spread are both forms of **expansion diffusion**: the number of cases grows while the original area stays affected. In **relocation diffusion** the disease is carried to a new place. Spread usually shows **distance decay**, becoming weaker with distance from the source, and can be slowed by **barriers** such as mountains, seas, quarantine or vaccination. A barrier is **absorbing** if it stops spread completely and **permeable** if some cases get through.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-food-health-study-guide--05-f-disease-diffusion.webp" width="900" height="1000" alt="Three panels show three diffusion types. Contagious diffusion: infection spreads person to person outward from a source in widening rings. Hierarchical diffusion: infection passes down a ranked network, from a large city to smaller towns and then villages. Relocation diffusion: infected people travel from an origin to a new place, where new cases appear." loading="lazy">
+  <figcaption>Contagious diffusion spreads outward by contact, hierarchical down a ranked network, relocation by moving infected people.</figcaption>
+</figure>
 
 ## Environment and disease
 

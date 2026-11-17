@@ -40,6 +40,11 @@ These notes cover AQA GCSE Sociology (8192) section 3.6.2 Socio-economic class, 
 - **Measurement:** occupation-based scales. The Registrar General's scale was used from 1911; the NS-SEC has been used in official statistics since 2001.
 - **Subjective class:** the class people think they belong to, which may differ from the official measure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-socio-economic-class--02-class-divisions.webp" width="900" height="855" alt="Stacked classes: an upper class of aristocracy and owners with inherited wealth; a middle class of professionals, managers and white collar workers; a working class of manual workers; and a disputed underclass. Below, embourgeoisement, manual workers taking on middle-class lifestyles, and proletarianisation, white collar workers moving closer to the working class." loading="lazy">
+  <figcaption>Three broad classes, a disputed fourth, and two arguments about movement between them.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -61,6 +66,16 @@ These notes cover AQA GCSE Sociology (8192) section 3.6.2 Socio-economic class, 
 | Social closure | Excluding outsiders from a status group, as in the caste system |
 | Embourgeoisement / proletarianisation | Workers becoming middle class / white collar workers losing status |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-socio-economic-class--01-income-wealth.webp" width="900" height="532" alt="Left: income is a flow of money over time, such as wages, benefits or rent; a footballer may have a high income but little wealth. Right: wealth is a stock of assets such as property, land, shares and savings; an aristocratic family may own great wealth but draw a modest income." loading="lazy">
+  <figcaption>Income flows in over time; wealth is what you own.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-socio-economic-class--03-measuring-class.webp" width="900" height="703" alt="Official measures moved from the Registrar General’s scale of 1911 to the NS-SEC from 2001, which groups occupations by employment relations. Occupation is practical but misses wealth and people not in work. Below, subjective class: a well-paid electrician may see themselves as working class, an office worker as middle class." loading="lazy">
+  <figcaption>Official class is based on occupation, but people’s own sense of class can differ.</figcaption>
+</figure>
+
 ## Marx in eight points
 
 1. Classes arise from groups' relationship to the means of production.
@@ -71,6 +86,16 @@ These notes cover AQA GCSE Sociology (8192) section 3.6.2 Socio-economic class, 
 6. Class struggle is the driving force of social change.
 7. Capitalism is unstable because of the conflict of interest at its heart.
 8. Polarisation would lead to proletarian revolution and a communist society.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-socio-economic-class--04-marx-epochs.webp" width="900" height="579" alt="Four epochs: primitive communism with no classes, ancient society based on slavery, feudal society of lords and serfs, and capitalism of bourgeoisie and proletariat. Below, agriculture produced surplus wealth and private property, letting a ruling class of non-producers take control of the means of production and oblige a subject class to work." loading="lazy">
+  <figcaption>For Marx, classes appear when a group takes control of the means of production.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-socio-economic-class--05-marx-chain.webp" width="900" height="1029" alt="Five steps: exploitation produces profit; ruling class ideology makes capitalism seem natural; workers who accept it have false class consciousness; class struggle and polarisation widen the gap; a proletarian revolution was expected to bring communism. Below, evaluation: the middle class grew and no revolution happened in Britain." loading="lazy">
+  <figcaption>Marx predicted polarisation and revolution; the growth of the middle class challenges him.</figcaption>
+</figure>
 
 ## Weber in eight points
 
@@ -83,6 +108,11 @@ These notes cover AQA GCSE Sociology (8192) section 3.6.2 Socio-economic class, 
 7. Status (prestige) and party (power-seeking groups) are separate from class.
 8. Social closure lets status groups exclude others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-socio-economic-class--06-weber-dimensions.webp" width="900" height="558" alt="Three cards. Class is a shared market situation giving shared life chances. Status is shared prestige from occupation, ethnicity, religion or lifestyle, protected by social closure. Party is groups organised for power, which can cut across class and status. Below, where Weber agrees and disagrees with Marx." loading="lazy">
+  <figcaption>For Weber, inequality has three separate dimensions, not only class.</figcaption>
+</figure>
+
 ## Marx versus Weber
 
 | | Marx | Weber |
@@ -93,6 +123,11 @@ These notes cover AQA GCSE Sociology (8192) section 3.6.2 Socio-economic class, 
 | Other inequalities | Follow from economics | Status and party are separate |
 
 **Shared criticism:** New Right theorists accuse both of bias and of ignoring the social mobility and opportunity capitalism creates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-socio-economic-class--07-future-of-middle-class.webp" width="900" height="641" alt="Left: Marx expected polarisation, with the middle squeezed between a bourgeoisie and a proletariat, leading to revolution. Right: Weber saw several classes, with a middle class of professionals and managers growing because their skills are in demand. Below, the New Right criticises both." loading="lazy">
+  <figcaption>Marx expected the middle to be squeezed; Weber expected it to grow.</figcaption>
+</figure>
 
 ## Perspectives
 

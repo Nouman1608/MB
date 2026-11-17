@@ -79,6 +79,11 @@ Overall index = 0.4 × 110 + 0.6 × 105 = 44 + 63 = **107**. The larger weight p
 
 **UK example.** CPI inflation reached 11.1% in October 2022, its highest for about 40 years. Much of this was cost-push: energy and food prices rose sharply after Russia's invasion of Ukraine.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
 ## Consequences of inflation for different groups
 
 | Group | Effect of high or unexpected inflation |
@@ -93,12 +98,27 @@ Overall index = 0.4 × 110 + 0.6 × 105 = 44 + 63 = **107**. The larger weight p
 
 Low, stable inflation helps everyone plan. **Deflation** can also cause harm: people may delay spending while waiting for lower prices, and the real burden of debt rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--16-mn-inflation-store-of-value.webp" width="900" height="850" alt="Two bars. Today, 100 pounds buys 100 pounds of today's goods. If prices rise by 10 per cent in a year, 100 pounds saved buys only about 91 pounds of today's goods next year, because 100 divided by 1.10 is about 90.9. The missing part, about 9 pounds, is shown as a dashed block. High inflation weakens money as a store of value." loading="lazy">
+  <figcaption>With 10% inflation, £100 saved buys only about £91 of today’s goods next year.</figcaption>
+</figure>
+
 ## Government policies to manage inflation
 
 - **Monetary policy:** the Bank of England raises Bank Rate. Borrowing becomes dearer and saving more rewarding, so spending falls and demand-pull inflation eases.
 - **Fiscal policy:** higher taxes or lower government spending reduce demand.
 - **Supply-side policies:** training, competition and investment raise productivity, so costs and prices rise more slowly over time. This helps with cost-push inflation but works slowly.
 - **Conflicts:** cutting demand may slow growth and raise unemployment. Raising interest rates cannot lower the world price of oil or gas, so it works less well against cost-push inflation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
 
 ## Exam traps
 

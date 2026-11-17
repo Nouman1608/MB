@@ -54,6 +54,11 @@ test yourself with the [Trade practice questions](/resources/cambridge-igcse-pak
 | Exchange rate | The price of one currency in terms of another |
 | Devaluation / depreciation | A fall in the value of the rupee against other currencies |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-trade-transport-and-telecommunications--02-gdp-gnp-balance.webp" width="900" height="562" alt="GDP, the value of goods and services produced within Pakistan in a year, sits inside GNP, which adds income earned abroad such as remittances and subtracts income sent out by foreign firms. Below, bars show imports costing more than exports earn, a trade deficit that leads to borrowing, pressure on the rupee and less money for development." loading="lazy">
+  <figcaption>Remittances lift GNP above GDP; a trade deficit drains money from development.</figcaption>
+</figure>
+
 ## Exports and where they come from
 
 - **Textiles** (yarn, cloth, knitwear, garments, bed linen, towels): Faisalabad, Karachi, Lahore.
@@ -62,6 +67,11 @@ test yourself with the [Trade practice questions](/resources/cambridge-igcse-pak
 - **Sports goods and surgical instruments:** Sialkot.
 - **Fish and seafood:** Karachi and the coast.
 - **Fruit and vegetables:** for example mangoes and kinnow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-trade-transport-and-telecommunications--01-exports-imports.webp" width="900" height="535" alt="Pakistan’s main exports (cotton textiles, rice, leather, sports goods and surgical instruments, fruit, vegetables and fish) flow out, and its main imports (crude oil and petroleum products, machinery, chemicals and fertilisers, palm oil, iron, steel and tea) flow in. Notes explain the shift to processed exports and why oil prices drive the import bill." loading="lazy">
+  <figcaption>Exports are mostly textiles and food; imports are mostly fuel and machinery.</figcaption>
+</figure>
 
 ## Main imports
 
@@ -73,6 +83,16 @@ chemicals, fertilisers and medicines; palm oil; iron and steel; vehicles; electr
 - **Type:** from raw cotton towards yarn, cloth and garments (more value added).
 - **Value:** exports and imports both rising; imports usually rising faster.
 - **Result:** a persistent trade deficit, funded by borrowing and remittances.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-trade--01-value-added-chain.webp" width="900" height="593" alt="Four steps of rising height: raw cotton, cotton yarn, cloth and finished garments, showing value added at each stage. Below, three changes in Pakistan’s trade: a shift from raw materials to manufactured goods, imports growing faster than exports, and continuing dependence on textiles." loading="lazy">
+  <figcaption>The same cotton earns more as a shirt than as a bale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-trade--05-describe-a-trend.webp" width="900" height="526" alt="Three steps for describing a trend from a trade graph or table: state the overall trend, quote the highest and lowest values with their years, and note any change in direction." loading="lazy">
+  <figcaption>Trend, then figures with years, then any change.</figcaption>
+</figure>
 
 ## Partners and goods
 
@@ -87,6 +107,11 @@ chemicals, fertilisers and medicines; palm oil; iron and steel; vehicles; electr
 
 Rankings change from year to year: use the figures in the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-trade--03-trading-partners.webp" width="900" height="663" alt="A table of seven trading partners with the goods Pakistan exports to and imports from each: the USA, China, the UAE, Saudi Arabia and Kuwait, the UK and EU, Afghanistan, and Malaysia and Indonesia." loading="lazy">
+  <figcaption>Name each partner with the goods traded, not the country alone.</figcaption>
+</figure>
+
 ## Promoting and limiting factors
 
 | Promote | Limit |
@@ -97,11 +122,21 @@ Rankings change from year to year: use the figures in the question.
 | Ports at Karachi, Port Qasim and Gwadar | Political tension closing borders |
 | Low labour costs in textiles | Energy shortages and high costs |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-trade-transport-and-telecommunications--04-trade-factors.webp" width="900" height="409" alt="Two columns. Factors that hinder trade: dependence on textiles, low-cost competitors, tariffs, quotas and standards in richer markets, energy shortages and costs, and a weak rupee making imports dearer. Factors that promote it: SAARC, ECO, the EU’s GSP+ scheme and cheaper exports when the rupee falls." loading="lazy">
+  <figcaption>More barriers than boosts: narrow exports and high costs hold trade back.</figcaption>
+</figure>
+
 ## Exchange rates in one line each
 
 - **Weaker rupee:** exports cheaper abroad (good for orders), imports dearer at home (bad for the
   fuel and machinery bill).
 - **Stronger rupee:** imports cheaper, exports dearer and harder to sell.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-pakistan-studies-0448-trade--04-exchange-rate.webp" width="900" height="528" alt="The lesson’s invented example: when the rupee falls from 160 to 200 per dollar, a Rs 1,600 shirt costs a US buyer $8 instead of $10, but an $80 barrel of oil costs Rs 16,000 instead of Rs 12,800. Because essential imports become dearer, the deficit often worsens in the short term." loading="lazy">
+  <figcaption>A weaker rupee is not simply good for trade.</figcaption>
+</figure>
 
 ## Why a developing country struggles
 

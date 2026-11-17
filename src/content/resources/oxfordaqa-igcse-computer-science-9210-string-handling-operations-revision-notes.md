@@ -49,6 +49,16 @@ H  a  r  a  r  e
 | Last character | `SUBSTRING(LEN(s) - 1, LEN(s) - 1, s)` | `"e"` |
 | Concatenation | `s + " city"` | `"Harare city"` |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--01-string-positions.webp" width="900" height="545" alt="The string &quot;Accra&quot; with its characters at positions 0 to 4. LEN(&quot;Accra&quot;) is 5, so the last position is 4. POSITION(&quot;Accra&quot;, &quot;r&quot;) is 3. SUBSTRING(1, 3, s) includes both ends and returns &quot;ccr&quot;, while Python’s &quot;Accra&quot;[1:4] gives the same result by excluding the end." loading="lazy">
+  <figcaption>Positions start at 0, so the last character is at LEN(s) − 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--02-length-and-position.webp" width="900" height="620" alt="&quot;New York&quot; has 8 characters, because the space counts. In &quot;banana&quot;, the letter a appears at positions 1, 3 and 5, but POSITION(&quot;banana&quot;, &quot;a&quot;) returns 1, the first appearance." loading="lazy">
+  <figcaption>LEN counts every character; POSITION finds only the first match.</figcaption>
+</figure>
+
 ## Character codes (ASCII)
 
 | Characters | Codes |
@@ -62,6 +72,16 @@ H  a  r  a  r  e
 - Lower case = upper case **+ 32**.
 - `CODE_TO_CHAR(CHAR_TO_CODE(c) + 1)` gives the next character.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--05-character-codes.webp" width="900" height="699" alt="In ASCII, A to Z have codes 65 to 90, a to z have 97 to 122 and the digits 0 to 9 have 48 to 57. Because they run in sequence, adding 1 to the code of D gives E, adding 32 to the code of G gives g, and range tests on the code check for a capital letter or a digit." loading="lazy">
+  <figcaption>Codes run in sequence, so arithmetic on them moves through the alphabet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--06-shift-cipher.webp" width="900" height="846" alt="The cipher subtracts 65 to turn A to Z into 0 to 25, adds 3, wraps with MOD 26 and adds 65 back. Z (90) becomes 28, then 2, then 67, which is C; each O (79) becomes 17, then 82, which is R. &quot;ZOO&quot; is output as CRR." loading="lazy">
+  <figcaption>Subtract 65, shift, MOD 26 to wrap from Z to A, then add 65 back.</figcaption>
+</figure>
+
 ## Conversions
 
 | From → To | Function | Example | Why needed |
@@ -72,6 +92,11 @@ H  a  r  a  r  e
 | Real → string | `REAL_TO_STRING` | `2.75` → `"2.75"` | Joining to text in output |
 
 Converting text that is not a number (`"twelve"`) causes an error in most languages.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--07-building-a-username.webp" width="900" height="688" alt="The username takes SUBSTRING(0, 2) of &quot;Okafor&quot;, which is &quot;Oka&quot;, and SUBSTRING(2, 3) of the year converted to the string &quot;2009&quot;, which is &quot;09&quot;, joining them as &quot;Oka09&quot;. Using INT_TO_STRING(year MOD 100) instead would give &quot;9&quot; and lose the leading zero." loading="lazy">
+  <figcaption>Convert the year to a string first, so the substring keeps the leading zero.</figcaption>
+</figure>
 
 ## Template loops
 
@@ -92,6 +117,11 @@ ENDFOR
 (An alternative to the counting-down loop is `reversed ← SUBSTRING(i, i, s) + reversed` with a normal loop from
 0, which adds each character to the front.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--03-character-loop.webp" width="900" height="673" alt="A FOR loop runs i from 0 to LEN(word) - 1 over &quot;programming&quot;, taking one character each pass with SUBSTRING(i, i, word). The vowels o, a and i at positions 2, 5 and 8 are counted, so the output is 3." loading="lazy">
+  <figcaption>Loop over every position and take one character with SUBSTRING(i, i, s).</figcaption>
+</figure>
+
 ## Common patterns
 
 | Task | Method |
@@ -102,6 +132,11 @@ ENDFOR
 | Check a string is empty | `LEN(s) = 0` (or `s = ""`) |
 | Capital letter test | `CHAR_TO_CODE(c) ≥ 65 AND CHAR_TO_CODE(c) ≤ 90` |
 | Number of words (single spaces) | Count spaces, then add 1 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-string-handling-operations--04-split-at-space.webp" width="900" height="596" alt="In &quot;Amara Diallo&quot; the space is at position 5, so gap is 5. first is SUBSTRING(0, 4), giving &quot;Amara&quot;, and last is SUBSTRING(6, 11), giving &quot;Diallo&quot;; the − 1 and + 1 leave out the space." loading="lazy">
+  <figcaption>Find the separator with POSITION, then cut either side of it with SUBSTRING.</figcaption>
+</figure>
 
 ## Mini trace: changing case
 

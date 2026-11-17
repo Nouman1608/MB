@@ -105,6 +105,11 @@ This sub-theme is not the research subject for Theme 4 (that is 4.3, environment
 
 Give the criticisms (for example poverty and exploitation) and the arguments for reform, each with reasons and sourced evidence, then say which you find more convincing. Avoid unsupported statistics and sweeping claims. Link ideas with connectives such as **اس کے برعکس** and **نتیجتاً**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--06-connectives.webp" width="900" height="512" alt="Six Urdu connectives with meanings: اس کے برعکس in contrast, اس کے علاوہ in addition, نتیجتاً as a result, میرے خیال میں in my opinion, ایک طرف ... دوسری طرف on one hand ... on the other, and آخر میں finally." loading="lazy">
+  <figcaption>Learn connectives as building blocks and use each in a sentence of your own.</figcaption>
+</figure>
+
 ## Discussion and essay prompts
 
 - «جاگیرداری نظام پاکستان کی ترقی میں سب سے بڑی رکاوٹ ہے۔» (The feudal system is the biggest obstacle to Pakistan's progress.) Do you agree? Weigh it against other factors, such as education or governance.

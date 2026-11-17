@@ -31,6 +31,11 @@ Unlawful interference with a person's use or enjoyment of land, or some right ov
 
 **Three types:** encroachment; physical damage to land; interference with comfort and enjoyment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things--01-types-of-nuisance.webp" width="900" height="486" alt="Three plan sketches across a boundary between the defendant’s and claimant’s land: encroachment by tree roots and branches; physical damage from fumes damaging crops, where locality is irrelevant (St Helen’s Smelting v Tipping); and interference with comfort and enjoyment from noise, where the balancing factors decide." loading="lazy">
+  <figcaption>Physical damage is a nuisance anywhere; comfort claims depend on balancing.</figcaption>
+</figure>
+
 ## Parties
 
 | Question | Rule | Case |
@@ -40,6 +45,11 @@ Unlawful interference with a person's use or enjoyment of land, or some right ov
 | | Occupier who adopts or continues a nuisance created by a trespasser | *Sedleigh-Denfield v O'Callaghan* (1940) |
 | | Occupier who fails to act on a known natural hazard | *Leakey v National Trust* (1980) |
 | | Landlord who authorised the nuisance | General rule |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things--02-who-sues-who.webp" width="900" height="541" alt="Claimants need a proprietary interest in the land, as an owner or tenant; in Hunter v Canary Wharf family members without an interest could not sue. Defendants can be the creator of the nuisance, the occupier where they adopt or continue a trespasser’s or natural nuisance (Sedleigh-Denfield; Leakey v National Trust), or a landlord who authorised it." loading="lazy">
+  <figcaption>Only those with an interest in land can sue; creators, occupiers and authorising landlords can be sued.</figcaption>
+</figure>
 
 ## Unreasonableness factors
 
@@ -54,6 +64,16 @@ Unlawful interference with a person's use or enjoyment of land, or some right ov
 | Overlooking | *Fearn v Tate Gallery* (2023) | Constant viewing into flats can be a nuisance |
 
 **Planning permission:** not a defence; may change the locality (*Gillingham BC v Medway Dock*, 1993) or not (*Wheeler v JJ Saunders*, 1996); limited relevance to liability (*Coventry v Lawrence*, 2014).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things--03-unreasonableness-factors.webp" width="900" height="491" alt="Factors deciding unreasonableness: locality (Sturges v Bridgman), duration and timing (Halsey v Esso), sensitivity (Robinson v Kilvert, now foreseeability in Network Rail v Morris), malice (Christie v Davey; Hollywood Silver Fox Farm) and new forms (Fearn v Tate Gallery). Taking care is not an answer: the result for the neighbour matters." loading="lazy">
+  <figcaption>Locality, timing, sensitivity and malice tip the balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things--04-planning-permission.webp" width="900" height="525" alt="Planning permission is not a defence, but it may change the locality. In Gillingham v Medway Dock it did, so night-time lorry noise was not a nuisance; in Wheeler v JJ Saunders pig units did not change the locality and the smell was a nuisance. Coventry v Lawrence: limited relevance to liability, possible relevance to remedy." loading="lazy">
+  <figcaption>Ask whether the permission changed the neighbourhood, not whether the activity was permitted.</figcaption>
+</figure>
 
 ## Rylands v Fletcher
 
@@ -72,6 +92,11 @@ Unlawful interference with a person's use or enjoyment of land, or some right ov
 **Claimant:** needs an interest in land (*Transco*, following *Hunter*).
 **Damage:** to land and property; not personal injury.
 **Fire:** *Stannard v Gore* (2012): tyres not exceptionally dangerous; fire, not tyres, escaped.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things--05-rylands-elements.webp" width="900" height="729" alt="Five elements of Rylands v Fletcher, each with a case where it failed or was met: accumulation (Giles v Walker), something likely to do mischief (Transco), non-natural use (Rickards v Lothian; Cambridge Water), escape (Read v J Lyons) and damage of a foreseeable type (Cambridge Water). After Transco the claimant needs an interest in land and cannot recover for personal injury; Stannard v Gore shows fire cases rarely fit." loading="lazy">
+  <figcaption>All five elements are needed; most claims fail on one of them.</figcaption>
+</figure>
 
 ## Nuisance and Rylands compared
 

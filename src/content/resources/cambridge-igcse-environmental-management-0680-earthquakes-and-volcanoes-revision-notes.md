@@ -44,12 +44,22 @@ Condensed recall for sub-topic 6.1 of Cambridge IGCSE Environmental Management (
 - **Mantle**: hot, slowly moving rock; convection currents.
 - **Core**: hottest and densest; iron and nickel; heat source.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--01-earth-structure.webp" width="900" height="950" alt="Cut-away of the Earth showing a thin rigid crust, a thick mantle of slowly moving hot rock and a very hot dense core of iron and nickel. Below, oceanic crust is drawn thinner and denser than continental crust." loading="lazy">
+  <figcaption>Crust, mantle and core: heat from the core drives movement in the mantle.</figcaption>
+</figure>
+
 ## Convection currents in four steps
 
 1. Core heats mantle rock at the bottom.
 2. Hot rock becomes less dense and rises.
 3. It spreads beneath the crust, cools and sinks.
 4. The circular motion drags plates apart, together or past each other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--03-plate-boundaries.webp" width="900" height="1008" alt="Top: convection currents in the mantle; hot rock rises, spreads, cools and sinks, dragging the plates above. Below, three boundaries: divergent, where plates move apart and magma forms new crust; convergent, where the denser oceanic plate is subducted and a line of volcanoes forms; conservative, where plates slide past and cause earthquakes only." loading="lazy">
+  <figcaption>Movement, process, hazard: subduction at convergent boundaries gives earthquakes and a line of volcanoes.</figcaption>
+</figure>
 
 ## Plate boundaries
 
@@ -61,6 +71,11 @@ Condensed recall for sub-topic 6.1 of Cambridge IGCSE Environmental Management (
 
 **Hotspot**: plume of hot mantle rock under the middle of a plate; chain of volcanoes as the plate moves over it (Hawaii).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--02-hotspot-chain.webp" width="900" height="766" alt="Cross-section of an ocean plate moving over a fixed plume of hot mantle rock. An active volcano sits over the plume; extinct volcanoes further along the direction of plate movement get older and lower with distance. Below: how to describe a distribution with a pattern, named locations and the hotspot exception." loading="lazy">
+  <figcaption>Most volcanoes follow plate boundaries; hotspots are the exception.</figcaption>
+</figure>
+
 ## Earthquake features
 
 - **Release of energy**: locked plates suddenly slip; seismic waves.
@@ -68,9 +83,19 @@ Condensed recall for sub-topic 6.1 of Cambridge IGCSE Environmental Management (
 - **Epicentre**: surface point directly above the focus.
 - **Magnitude**: Moment Magnitude Scale; +1 ≈ 32 times the energy, +2 ≈ 1,000 times.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--04-earthquake-features.webp" width="900" height="720" alt="Cross-section with the focus underground, seismic waves spreading out from it, and the epicentre on the surface directly above where shaking is strongest. Below, a magnitude 6.0, 7.0 and 8.0 earthquake are linked by steps of about 32 times more energy, so 8.0 releases about 1,000 times the energy of 6.0." loading="lazy">
+  <figcaption>The focus is underground, the epicentre above it; each magnitude step is about 32 times the energy.</figcaption>
+</figure>
+
 ## Eruption features
 
 Magma (underground) → lava (at surface) · ash · gases: **water vapour, carbon dioxide, sulfur dioxide** · acid rain (from sulfur dioxide) · volcanic bombs (large lumps of lava that harden in the air) · pyroclastic flows (fast, hot clouds of gas, ash and rock).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--05-eruption-features.webp" width="900" height="640" alt="Cross-section of an erupting volcano: magma rises from underground and pours out as lava; an ash cloud rises above the crater; volcanic bombs are thrown out; a pyroclastic flow of hot gas, ash and rock rushes downslope; gases including sulfur dioxide drift away and fall as acid rain." loading="lazy">
+  <figcaption>Magma underground becomes lava at the surface; ash, gases, bombs and pyroclastic flows are the other features.</figcaption>
+</figure>
 
 ## Impacts: memory list of ten
 
@@ -97,9 +122,19 @@ One benefit and one limitation each:
 - **Rebuilding**: restores services, chance to build better / slow, expensive.
 - **International aid**: resources beyond local capacity / late, uneven, dependency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--06-management-stages.webp" width="900" height="648" alt="Three columns on a timeline around the event. Before: monitoring and warning, land use zoning, the structure of buildings and disaster preparation. During: evacuation. After: rebuilding and international aid. Shelters span both during and after. Each card gives a benefit or limitation." loading="lazy">
+  <figcaption>Sort strategies into before, during and after, then weigh each one.</figcaption>
+</figure>
+
 ## Opportunities from volcanoes
 
 Fertile soils · extraction of minerals · building materials · geothermal power · tourism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes--07-opportunities.webp" width="900" height="854" alt="A volcano landscape numbered 1 to 5: fields on fertile lower slopes, mineral deposits such as sulfur, a quarry for basalt, a geothermal power station using water heated by hot rock, and tourists at the crater. A key explains each opportunity." loading="lazy">
+  <figcaption>Fertile soils, minerals, building stone, geothermal power and tourism can outweigh the risk.</figcaption>
+</figure>
 
 ## Key terms
 

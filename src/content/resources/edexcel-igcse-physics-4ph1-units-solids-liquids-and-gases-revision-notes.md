@@ -40,6 +40,11 @@ questions are in the [Units for Topic 5 practice questions](/resources/edexcel-i
 | p₁V₁ = p₂V₂ | any pressure unit, any volume unit, used consistently | same units as given |
 | p₁/T₁ = p₂/T₂ | any pressure unit; **T in kelvin only** | same pressure unit as given |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-solids-liquids-and-gases--06-drawing-pin.webp" width="900" height="715" alt="A thumb pushes a drawing pin with 20 N. On the 1.0 cm² head, 1.0 × 10⁻⁴ m², the pressure is 2.0 × 10⁵ Pa. On the 0.10 mm² point, 1.0 × 10⁻⁷ m², it is 2.0 × 10⁸ Pa, a thousand times greater, so the point pierces the board." loading="lazy">
+  <figcaption>The same force on a far smaller area gives a far larger pressure.</figcaption>
+</figure>
+
 ## Building the units
 
 ```
@@ -48,6 +53,11 @@ m × kg/m³ × N/kg = N/m² = Pa        (check for p = h ρ g)
 J ÷ (kg × °C) = J/kg °C             (unit of c)
 1 kPa = 1000 Pa
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-solids-liquids-and-gases--03-pascal-and-c.webp" width="900" height="760" alt="A force of 1 N spread over 1 m² is a pressure of 1 pascal: 1 Pa = 1 N/m², and 1 kPa = 1000 Pa. For p = h × ρ × g, m × kg/m³ × N/kg = N/m² = Pa. For specific heat capacity, c = ΔQ / (m × ΔT) gives J/kg °C; water's 4200 J/kg °C means 4200 J raises 1 kg by 1 °C." loading="lazy">
+  <figcaption>A pascal is one newton per square metre.</figcaption>
+</figure>
 
 ## Conversion factors
 
@@ -67,6 +77,21 @@ J ÷ (kg × °C) = J/kg °C             (unit of c)
 
 **Why area and volume factors are bigger:** 1 m = 100 cm, so 1 m² = 100 × 100 cm² and 1 m³ = 100 × 100 × 100 cm³.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-solids-liquids-and-gases--01-squared-cubed.webp" width="900" height="820" alt="A 1 m square is 100 cm by 100 cm, so 1 m² = 10 000 cm²; a 1 m cube is 100 cm each way, so 1 m³ = 1 000 000 cm³. Examples: 45 cm = 0.45 m, 25 cm² = 0.0025 m², 0.10 mm² = 1.0 × 10⁻⁷ m² and 40 cm³ = 4.0 × 10⁻⁵ m³." loading="lazy">
+  <figcaption>Square the factor for areas and cube it for volumes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-solids-liquids-and-gases--02-density-conversion.webp" width="900" height="600" alt="Converting density: the mass number is divided by 1000 (g to kg) but the volume number by 1 000 000 (cm³ to m³), so the density number gets 1000 times bigger. 2.7 g/cm³ = 2700 kg/m³, and water is 1.0 g/cm³ = 1000 kg/m³." loading="lazy">
+  <figcaption>Multiply g/cm³ by 1000 to get kg/m³.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-solids-liquids-and-gases--05-density-example.webp" width="900" height="570" alt="A metal block 5.0 cm × 4.0 cm × 2.0 cm with mass 108 g. V = 40 cm³ = 4.0 × 10⁻⁵ m³ and m = 0.108 kg, so ρ = 0.108 / 4.0 × 10⁻⁵ = 2700 kg/m³. Check: 108 ÷ 40 = 2.7 g/cm³ = 2700 kg/m³." loading="lazy">
+  <figcaption>Convert cm³ to m³ and g to kg, or use g/cm³ and multiply by 1000.</figcaption>
+</figure>
+
 ## Temperature facts
 
 - Absolute zero: 0 K = −273 °C. Nothing can be colder.
@@ -74,6 +99,16 @@ J ÷ (kg × °C) = J/kg °C             (unit of c)
 - **Changes** are equal on both scales: a 25 °C rise is a 25 K rise.
 - Use kelvin whenever a temperature is in a ratio or proportion (p ∝ T); a temperature change can stay in °C.
 - The symbol is K, not °K.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-solids-liquids-and-gases--04-celsius-kelvin.webp" width="900" height="630" alt="Two side-by-side scales: absolute zero is −273 °C or 0 K, 0 °C is 273 K and 100 °C is 373 K. T in K = θ in °C + 273. One kelvin is the same size as one degree Celsius, so a 30 °C rise is a 30 K rise. Gas laws need kelvin." loading="lazy">
+  <figcaption>Add 273 to go from °C to K; temperature changes are the same on both scales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-solids-liquids-and-gases--07-gas-law-units.webp" width="900" height="730" alt="For p₁V₁ = p₂V₂, 100 kPa at 60 cm³ compressed to 25 cm³ gives p₂ = 240 kPa; any matching volume unit works. For p₁/T₁ = p₂/T₂, a sealed gas at 150 kPa heated from 20 °C (293 K) to 80 °C (353 K) reaches 150 × 353 ÷ 293 = 181 kPa; using Celsius would wrongly give 600 kPa." loading="lazy">
+  <figcaption>Volumes just need to match; temperatures in gas laws must be in kelvin.</figcaption>
+</figure>
 
 ## Sense checks
 

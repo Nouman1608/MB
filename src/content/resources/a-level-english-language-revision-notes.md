@@ -59,9 +59,29 @@ Two compulsory questions, one per section, **25 marks each**. Each responds to a
 
 Part (b) carries more marks than the writing itself. You are analysing **your own text against the source**, relating features to purpose, audience and context. Practise this comparison structured **by point** (form, then structure, then language), rather than describing your own text and the source one after the other, since an integrated comparison demonstrates the comparative skill this question targets more clearly than two separate descriptions placed side by side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--11-p1-directed-writing.webp" width="900" height="995" alt="Three cards: form dictates conventions, audience dictates register and vocabulary, purpose dictates structure. Below, a source page passes through three steps, select, reorganise and recast in your own words, to become a new page. A crossed-out arrow shows that copying stretches of the original earns no credit." loading="lazy">
+  <figcaption>The brief shapes the text; the source material is transformed, never copied.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--12-p1-compare.webp" width="900" height="1050" alt="A grid with two columns, my 1(a) response and the source text, and three rows, form, structure and language, joined by double-headed arrows to show comparison point by point. Below, a crossed-out alternative shows two separate descriptions placed side by side with no links. A banner notes that this part carries more marks than the writing task, and that the reflective commentary belongs to Paper 2 Writing, not here." loading="lazy">
+  <figcaption>Compare form, then structure, then language, linking your text with the source at each point.</figcaption>
+</figure>
+
 ### Section B — Text analysis (Q2)
 
 Read a second unseen text and comment on its **form, structure and language**, relating features to meaning, context and audience, and organising your answer in an appropriate style. Assesses AO1 and AO3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--10-p1-identify-quote-explain.webp" width="900" height="960" alt="The lesson’s example sentence, “The factory stood silent, its chimneys cold, its gates chained.”, sits above three steps. Step 1 identify: personification. Step 2 quote: “stood silent”. Step 3 explain: it suggests death rather than mere closure. A final box links the explanation to the writer’s purpose and the reader’s experience." loading="lazy">
+  <figcaption>Every observation gets the same three steps, with the effect tied to purpose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-skills-and-techniques--01-paper-1-structure.webp" width="900" height="650" alt="Paper 1 has two 25-mark sections, each on an unseen text of about 550 to 750 words. Question 1(a), 10 marks, is a 150 to 200 word directed response (AO1, AO2); Question 1(b), 15 marks, compares it with the original (AO1, AO3); Question 2, 25 marks, comments on the form, structure and language of a second text (AO1, AO3)." loading="lazy">
+  <figcaption>Question 1(b) carries more marks than 1(a), so plan the comparison while you write.</figcaption>
+</figure>
 
 ## Text types you may meet
 
@@ -80,6 +100,11 @@ Work through the levels rather than commenting on whatever stands out first:
 
 Every analytical point: **identify → quote → explain the effect in relation to purpose and audience.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--09-p1-frameworks.webp" width="900" height="950" alt="Six cards in two columns, each with a small icon: form and structure (how a text opens, develops and closes), lexis (semantic fields, connotation, formality), grammar (sentence types, voice, modality), imagery (metaphor, simile, personification), tone and voice (attitude and whether it shifts) and point of view (first, second or third person)." loading="lazy">
+  <figcaption>Work through form, lexis, grammar, imagery, tone and point of view rather than commenting on whatever catches the eye.</figcaption>
+</figure>
+
 ## Worked example: one comparative point for 1(b)
 
 Suppose the source is a 650-word travel blog about a night market, written in the first person with
@@ -95,6 +120,11 @@ might read:
 
 The point names a feature in **both** texts, quotes briefly, and explains the difference through
 **purpose and audience** — exactly what AO3 rewards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-skills-and-techniques--07-worked-comparison.webp" width="900" height="677" alt="The lesson's reflective column about a library's last hour is compared with a website notice about new evening hours on five points: purpose, structure, sentence style, devices and attitude to the quiet. The column evokes a mood with sensory detail and a cumulative final clause; the notice informs with a headline, dates first and short declaratives." loading="lazy">
+  <figcaption>A 1(b) comparison works point by point and explains each difference through audience and purpose.</figcaption>
+</figure>
 
 ## How should you use your time?
 

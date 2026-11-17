@@ -65,6 +65,16 @@ Full explanation: [perspectives on families study guide](/resources/oxfordaqa-a-
   1851 census) found extended households used for mutual aid in industrial towns; ignores conflict
   and abuse; ignores diversity; assumes passive members.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-perspectives-on-families--01-family-functions.webp" width="900" height="682" alt="Murdock’s four universal functions (sexual, reproductive, economic, educational) narrow through structural differentiation to Parsons’s two irreducible functions: primary socialisation and stabilisation of adult personalities." loading="lazy">
+  <figcaption>Industrial society strips the family to two functions that matter more than ever.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-perspectives-on-families--02-fit-thesis.webp" width="900" height="626" alt="Parsons argued the isolated nuclear family fits industrial society because it is geographically and socially mobile and has a clear instrumental and expressive division of labour. Laslett and Anderson challenge the history." loading="lazy">
+  <figcaption>Historical evidence questions whether industry created the nuclear family.</figcaption>
+</figure>
+
 ## Marxism
 
 - **Engels (1884)**: monogamy developed with private property so men could pass wealth to legitimate
@@ -74,6 +84,11 @@ Full explanation: [perspectives on families study guide](/resources/oxfordaqa-a-
 - **Zaretsky (1976)**: the family is a private refuge from alienating work that props up capitalism.
 - **Criticisms**: assumes one family type; ignores benefits members gain; feminists say gender is
   ignored; families survived in societies without private capitalism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-perspectives-on-families--03-marxist-family.webp" width="900" height="685" alt="Four Marxist arguments: Engels on inheritance of property, Althusser on the family as an ideological state apparatus, the family as a unit of consumption, and Zaretsky’s haven that props up capitalism, with evaluation." loading="lazy">
+  <figcaption>For Marxists, the family reproduces class inequality and makes capitalism bearable.</figcaption>
+</figure>
 
 ## Feminisms
 
@@ -87,6 +102,11 @@ Full explanation: [perspectives on families study guide](/resources/oxfordaqa-a-
 - **Criticisms**: may overlook real change and men's increased involvement; may treat women as
   passive; radical versions can see all families as oppressive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-perspectives-on-families--04-feminisms.webp" width="900" height="703" alt="A grid of liberal, Marxist, radical and Black or intersectional feminisms, each with its key argument about families and a sociologist: Oakley, Benston, Delphy and Leonard, and bell hooks." loading="lazy">
+  <figcaption>Feminists agree families shape gender inequality but disagree on why.</figcaption>
+</figure>
+
 ## Quick comparison
 
 | Theme | Functionalism | Marxism | Feminisms |
@@ -94,6 +114,11 @@ Full explanation: [perspectives on families study guide](/resources/oxfordaqa-a-
 | Beneficiary | Society and members | Capitalist class | Men |
 | Socialisation | Shared values | Ruling-class ideology | Gender roles |
 | Domestic division | Complementary | Reproduces workers | Exploitative |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-perspectives-on-families--05-compare-perspectives.webp" width="900" height="588" alt="A grid comparing functionalism, Marxism and feminisms on who benefits from the family, socialisation, domestic roles, view of change and main weakness." loading="lazy">
+  <figcaption>Ask whose needs the family meets: society’s, capitalism’s or men’s.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -63,6 +63,11 @@ influence of schema and culture on recall) -- and the course expects
 students to recognise this rather than filing each topic under a single
 approach only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-syllabus-guide--02-one-topic-three-approaches.webp" width="900" height="606" alt="Memory in the centre branches to the three core approaches: biological, through brain structures; cognitive, through information-processing models; and sociocultural, through the influence of schema and culture on recall." loading="lazy">
+  <figcaption>Practise moving between all three approaches on the same topic.</figcaption>
+</figure>
+
 ## Approaches to researching behaviour (20 hours SL / 60 hours HL)
 
 Taught alongside the three content approaches above rather than as a
@@ -71,6 +76,11 @@ psychologists use to test their ideas. This component roughly triples in
 hours between SL and HL (20 to 60), reflecting that Paper 3's short-answer
 questions on research methodology are HL-only, tested separately from the
 content approaches examined in Paper 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-syllabus-guide--01-hours-split.webp" width="900" height="466" alt="Two stacked bars. SL, 150 hours: core 90, approaches to researching behaviour 20, one option 20, internal assessment 20. HL, 240 hours: core 120, research 60, two options 40, internal assessment 20." loading="lazy">
+  <figcaption>The biggest HL jump is in research methodology, examined in Paper 3.</figcaption>
+</figure>
 
 ## Options -- one at SL, two at HL (20 hours SL / 40 hours HL)
 
@@ -142,6 +152,11 @@ covered at the same depth in less time simply because it was added
 later in the course -- the syllabus allocates genuinely equal teaching
 time to both of an HL student's two options, and Paper 2 examines them
 with equal weight.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-psychology-syllabus-guide--03-papers-map.webp" width="900" height="682" alt="The three core approaches are examined in Paper 1, with short-answer questions and one essay. The option or options go to Paper 2, where HL students write one essay on each of their two options. Research methodology goes to Paper 3, for HL only. The experimental study is the internal assessment, externally moderated." loading="lazy">
+  <figcaption>Paper 2 is option-specific, so know exactly which options you studied.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

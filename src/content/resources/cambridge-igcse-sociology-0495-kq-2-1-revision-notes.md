@@ -65,6 +65,11 @@ Full explanations are in the
 | **Hidden curriculum** | What school teaches through its organisation, not lessons |
 | **Ideology** | Ideas that justify the interests of a powerful group |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--01-building-blocks.webp" width="900" height="752" alt="Culture contains a chain: values underpin norms, norms define roles, and roles attach to statuses, which are ascribed or achieved. Stereotypes can push people into roles regardless of ability, and customs are traditions passed between generations. Together they shape behaviour and social identity." loading="lazy">
+  <figcaption>Values underpin norms, norms define roles, roles attach to statuses.</figcaption>
+</figure>
+
 ## Nature versus nurture
 
 - **Nature:** behaviour inborn — genes, instincts.
@@ -74,6 +79,11 @@ Full explanations are in the
   norms within one society.
 - **Caution:** feral cases are few and may involve other factors; Mead's fieldwork has been
   questioned.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--02-nature-or-nurture.webp" width="900" height="692" alt="A balance with nature (genes, instincts, hormones) on one side and nurture on the heavier side, supported by the case of Genie, Mead’s study of three New Guinea groups and rapid change within one society. A balanced answer accepts biological limits but says their meaning is learned." loading="lazy">
+  <figcaption>Sociologists stress nurture while accepting that biology sets some limits.</figcaption>
+</figure>
 
 ## Agencies, processes and effectiveness
 
@@ -86,6 +96,16 @@ Full explanations are in the
 | Religion | Secondary | Religious teachings, rituals | Varies by society and individual |
 | Workplace | Secondary | Workplace training, induction | Adults may comply without believing |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--03-primary-secondary.webp" width="900" height="638" alt="Primary socialisation in early childhood, mainly in the family, teaches language, basic norms, emotional ties and early gender identity. Secondary socialisation continues through education, peer group, media, religion and the workplace, each with its own process." loading="lazy">
+  <figcaption>The family comes first; five more agencies continue socialisation through life.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--04-processes-of-socialisation.webp" width="900" height="778" alt="Seven processes matched to agencies: canalisation and manipulation in the family, hidden curriculum in education, media representations, peer pressure in the peer group, religious teachings, workplace training, and role modelling across all agencies." loading="lazy">
+  <figcaption>Name the agency, then the process, then how it works.</figcaption>
+</figure>
+
 ## Perspectives
 
 | Perspective | Type | Key ideas | Names |
@@ -96,6 +116,16 @@ Full explanations are in the
 
 **Criticisms:** functionalism ignores conflict and assumes shared values; Marxism treats people as
 passive (Willis's lads resisted); feminism may underplay change and individual choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--05-theories-of-socialisation.webp" width="900" height="588" alt="Functionalism (consensus) says socialisation passes on shared values and creates cohesion; Marxism (conflict) says it spreads capitalist ideology and reproduces class; feminism (conflict) says gender role socialisation maintains patriarchy. Below each is a criticism." loading="lazy">
+  <figcaption>One consensus view and two conflict views, each with a criticism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--06-sharpe-repeat-study.webp" width="900" height="448" alt="Sue Sharpe’s Just Like a Girl found that in 1976 girls’ priorities were love, marriage, husbands and children; when repeated in the early 1990s, their priorities were jobs, careers and independence." loading="lazy">
+  <figcaption>Sharpe’s repeat study shows gender socialisation can change.</figcaption>
+</figure>
 
 ## Exam traps
 

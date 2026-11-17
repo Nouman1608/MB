@@ -54,6 +54,11 @@ They cover the topic Conflict and peace from the Cambridge IGCSE Global Perspect
 | Vested interest | The writer gains if readers accept their view |
 | Generalisation | A broad statement about a whole group based on limited cases |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-conflict-and-peace--02-peace-terms.webp" width="900" height="748" alt="Five stepped cards running from short-term to long-term: ceasefire, peacemaking, peacekeeping, peacebuilding and reconciliation, each with its definition, beside an arrow from stopping the fighting to fixing the causes. Mediation is defined below as a neutral third person helping the sides reach their own agreement." loading="lazy">
+  <figcaption>Stopping the fighting and fixing the causes are different jobs with different names.</figcaption>
+</figure>
+
 ## The source-judging toolkit
 
 Section 4 lists eight terms candidates benefit from understanding: **bias, claim, fact, generalisation, opinion, prediction, value and vested interest**. Learn a conflict example for each so you can spot them fast.
@@ -69,6 +74,11 @@ Section 4 lists eight terms candidates benefit from understanding: **bias, claim
 
 **Reliability checklist:** author and expertise; purpose and vested interest; method (sample size, who was asked, self-reported or measured); date; support from independent sources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-conflict-and-peace--05-global-peace-index.webp" width="900" height="560" alt="Indicators grouped into three areas (societal safety and security, ongoing conflict, militarisation) combine into one Global Peace Index ranking. Its strength is a consistent method across many countries; it hides choices about which indicators to include, how to weight them and how reliable data are where reporting is difficult." loading="lazy">
+  <figcaption>A single number is only as good as the choices behind it.</figcaption>
+</figure>
+
 ## Perspectives at a glance
 
 Use "who, what, why, one evaluation point" for each perspective.
@@ -80,6 +90,11 @@ Use "who, what, why, one evaluation point" for each perspective.
 | Peace campaign group | Arms sales to states at war should stop | Values non-violence | Ignores the argument that states need weapons for defence |
 | Defence industry | Arms exports are legal and support jobs | Profits and employment depend on sales | Clear vested interest; check its job figures independently |
 | Local school leader | Peer mediation reduces fights | Wants a calm, safe school | Evidence may come from the school's own records |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-conflict-and-peace--03-national-service.webp" width="900" height="600" alt="Four perspectives on compulsory national service. Leaning for: a defence ministry (readiness and unity, because its job is security) and an employer (discipline and teamwork, because it gains skilled workers). Leaning against: a young person (delays study and work) and a peace group (normalises violence). The ministry and employer may have a vested interest." loading="lazy">
+  <figcaption>For each perspective, ask who holds it, what they argue and why their position leads them there.</figcaption>
+</figure>
 
 ## Courses of action at a glance
 
@@ -95,6 +110,11 @@ Real examples to show *how to evaluate* an action. They are not content to memor
 
 **Five criteria for assessing any action:** effectiveness, feasibility, acceptability to all sides, sustainability, unintended consequences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-conflict-and-peace--06-actions-strengths-limits.webp" width="900" height="654" alt="A table of five actions with a strength and a limitation each: the 1997 Mine Ban Treaty, UN peacekeeping, the 1998 Good Friday Agreement, South Africa’s Truth and Reconciliation Commission and school peer mediation. Below, five criteria for assessing any action." loading="lazy">
+  <figcaption>Every real action has a limitation; judge each one against the same criteria.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Topic vs issue.** "Conflict and peace" is a topic. "Should countries sell weapons to states at war?" is an issue.
@@ -105,6 +125,11 @@ Real examples to show *how to evaluate* an action. They are not content to memor
 - **Claim vs evidence.** The claim is what is said. Evidence is what supports it.
 - **Local, national, global.** The Individual Report needs local and/or national perspectives and global perspectives. The Team Project needs a local issue.
 - **Evaluating an action vs describing it.** Description says what happened; evaluation judges how well it worked and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-conflict-and-peace--01-conflict-issues.webp" width="900" height="692" alt="A rejected statement, War causes suffering, is not an issue because almost nobody disagrees. Three usable issues follow: globally, weapons sales to governments in conflict; nationally, trials or a truth commission after civil conflict; locally, neighbours settling disputes without the police." loading="lazy">
+  <figcaption>An issue is a question that people answer differently.</figcaption>
+</figure>
 
 ## Mini essay plan: assessing actions
 
@@ -117,6 +142,11 @@ Typical extended question (in the style of Question 4, which asks candidates to 
 5. **Judgement.** Choose the action that does most, explain why it beats the alternative on your criteria, and say what would make you more confident (for example, independent evidence).
 
 Keep each paragraph tied to the sources. Prior knowledge of the conflict earns nothing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-conflict-and-peace--04-causes-consequences.webp" width="900" height="664" alt="Five possible causes (scarce resources, unequal treatment, historical grievances, political exclusion, misinformation) feed into conflict, which leads to five possible consequences (displacement, interrupted schooling, damage, lasting distrust, and sometimes new laws or cooperation). Below, a chain: a grazing land dispute leads farmers and herders to avoid the shared market, trade falls, and a reason to keep the peace is lost." loading="lazy">
+  <figcaption>Causes of conflict are often disputed; link them to consequences in chains rather than lists.</figcaption>
+</figure>
 
 ## Quick self-test
 

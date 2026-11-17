@@ -61,6 +61,11 @@ For full explanations and worked answers, read the [roles and functions of educa
 | Social mobility | Meritocracy lets talent rise | First-generation university students | Myth of meritocracy; class is reproduced | Girls outperform boys, but the glass ceiling remains |
 | Social cohesion | Shared values bind society | Assemblies, citizenship, British values | Values are ruling-class values | Shared culture has reflected men's interests |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-roles-and-functions-of-education--01-three-functions.webp" width="900" height="626" alt="A grid of the three functions. Serving the economy works through skills and role allocation; social mobility through qualifications and meritocracy; social cohesion through shared norms and values. Rows give an example of each, then the Marxist and feminist judgement, such as the myth of meritocracy and the glass ceiling." loading="lazy">
+  <figcaption>For each function, show how it works and how each perspective judges it.</figcaption>
+</figure>
+
 ## Durkheim in five bullets
 
 - *Moral Education* (1925): education transmits society's norms and values.
@@ -68,6 +73,11 @@ For full explanations and worked answers, read the [roles and functions of educa
 - History links the individual to society and builds commitment to the group.
 - Children learn to cooperate with those who are neither kin nor friends.
 - Strict rules teach self-discipline and show that misbehaviour damages society; school is society in miniature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-roles-and-functions-of-education--02-durkheim.webp" width="900" height="603" alt="Five cards set out Durkheim’s ideas: education welds individuals into a united whole, history links individuals to society, school teaches cooperation with non-kin, strict rules teach self-discipline, and the school is a society in miniature. A sixth card gives evaluation: ruling-class norms, diverse societies, and pupils such as Willis’s lads rejecting school values." loading="lazy">
+  <figcaption>For Durkheim, school turns a mass of individuals into a united whole.</figcaption>
+</figure>
 
 ## Parsons in five bullets
 
@@ -79,12 +89,27 @@ For full explanations and worked answers, read the [roles and functions of educa
 
 **Criticisms (from the specification):** school values may be those of the ruling elite; equality of opportunity may be an illusion where wealth and privilege outweigh merit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--02-parsons-bridge.webp" width="900" height="917" alt="A bridge labelled school joins the family on one side to wider society on the other. In the family children are judged by particularistic standards; in society everyone is judged by universalistic standards. School is meritocratic, builds a value consensus and selects people for future roles." loading="lazy">
+  <figcaption>School moves children from particularistic family rules to the universalistic rules of society.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-roles-and-functions-of-education--03-durkheim-parsons.webp" width="900" height="543" alt="Two panels. Durkheim emphasises cohesion, moral discipline and the school as society in miniature. Parsons emphasises meritocracy, achieved status, selection and the school as a bridge to universalistic standards. Below, two criticisms quoted in the specification." loading="lazy">
+  <figcaption>Cohesion and discipline: Durkheim. Meritocracy and universalistic standards: Parsons.</figcaption>
+</figure>
+
 ## Types of school in one line each
 
 - **Primary:** usually 4 or 5 to 11.
 - **Secondary:** usually 11 to 16 or 18.
 - **State:** free, taxpayer-funded; includes community schools, academies, free schools, many faith schools and grammar schools.
 - **Private:** fee-paying, independent of the National Curriculum; Marxists link them to elite reproduction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-roles-and-functions-of-education--04-types-of-school.webp" width="900" height="793" alt="Primary schools take ages 4 or 5 to 11 and secondary schools 11 to 16 or 18. State-funded schools are free and include community schools, academies and free schools, selective grammar schools and faith schools. Private schools are fee-paying and need not follow the National Curriculum; Marxists say they reproduce elite advantage." loading="lazy">
+  <figcaption>Sort schools by age, then by who funds and controls them.</figcaption>
+</figure>
 
 ## Home schooling versus de-schooling
 
@@ -95,6 +120,11 @@ For full explanations and worked answers, read the [roles and functions of educa
 | Reasons or argument | Bullying, special needs, beliefs, dissatisfaction | Schools confuse teaching with learning and create dependence on institutions |
 | Alternative proposed | Planned education at home | Learning webs |
 | Issue | Peer socialisation, state oversight, class | Practicality; who would ensure everyone learns? |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-roles-and-functions-of-education--05-home-de-schooling.webp" width="900" height="623" alt="Two panels. Home schooling is legal in England and keeps a planned education outside school, chosen for reasons such as bullying or beliefs, and depends on parents’ resources. De-schooling, from Illich, rejects schools, which he said teach pupils to confuse being taught with learning, and proposes learning webs." loading="lazy">
+  <figcaption>Home schooling moves education out of school; de-schooling rejects school itself.</figcaption>
+</figure>
 
 ## Exam traps
 

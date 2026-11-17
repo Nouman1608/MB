@@ -41,6 +41,16 @@ Condensed for the final weeks. These notes cover two bullets of content area **1
 | Sentencing | Limited custodial powers (limit changed several times recently); most fines unlimited |
 | Case | *R v Bingham Justices, ex p Jowitt* (1974): "always believe the police" → conviction quashed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-magistrates-and-juries--02-becoming-a-magistrate.webp" width="900" height="799" alt="Magistrates are appointed from 18 and retire at 75, need no legal qualifications, and sit at least 13 full days a year unpaid. Six key qualities are sought. Vacancies are advertised, a local Advisory Committee interviews and recommends, the Lord Chief Justice appoints, and training is organised through the Judicial College." loading="lazy">
+  <figcaption>No legal qualification needed: six qualities, an interview, appointment, then training.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-magistrates-and-juries--03-magistrates-role.webp" width="900" height="631" alt="Magistrates sit as a bench of three advised by a legal adviser, who must not take part in the decision; professional District Judges sit alone in busier courts. They try summary and most either way offences, hold first hearings for indictable offences, decide bail, issue warrants, and sit in the youth court (ages 10 to 17) and the family court." loading="lazy">
+  <figcaption>A bench of three lay people, advised on law but deciding for themselves.</figcaption>
+</figure>
+
 ## Jurors: the essentials
 
 | Point | Detail |
@@ -56,6 +66,16 @@ Condensed for the final weeks. These notes cover two bullets of content area **1
 | Majority | 11–1 or 10–2 after at least two hours (s 17) |
 | Secrecy | Deliberations secret; disclosure an offence (now s 20D) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-magistrates-and-juries--05-juror-qualifications.webp" width="900" height="582" alt="Under the Juries Act 1974, s 1, a juror must be on the electoral register, aged 18 to 75, resident in the UK for five years since age 13, and not disqualified or mentally disordered. Disqualification covers a life sentence or custody of five years or more, recent custody or community sentences, and being on bail. Since 2003 judges, lawyers and police can serve, subject to R v Abdroikov." loading="lazy">
+  <figcaption>Four qualifications, a criminal-record bar, and no automatic exemptions since 2003.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-magistrates-and-juries--06-jury-selection.webp" width="900" height="861" alt="The Jury Central Summoning Bureau selects names at random from the electoral register; those summoned form a panel at the Crown Court; twelve are chosen by ballot for each trial. Jurors may be vetted, and challenged for cause by either side or stood by by the prosecution; peremptory challenge was abolished in 1988. There is no right to a racially mixed jury (R v Ford), but Sander v UK found a breach of fair trial." loading="lazy">
+  <figcaption>Random selection, a ballot of twelve, then vetting and challenges.</figcaption>
+</figure>
+
 ## Jury cases by theme
 
 - **Independence / jury equity**: *Bushell's Case* (1670); *R v Ponting* (1985); *R v Kronlid* (1996).
@@ -65,12 +85,27 @@ Condensed for the final weeks. These notes cover two bullets of content area **1
 - **No jury**: CJA 2003 s 44 tampering; *R v Twomey* [2009].
 - **Civil**: rare; *Ward v James* [1966] (not for personal injury); Defamation Act 2013 removed the presumption of a jury.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-magistrates-and-juries--07-jury-role-and-secrecy.webp" width="900" height="806" alt="The jury decides the facts and the verdict; the judge decides the law and sentence. Majority verdicts of 11–1 or 10–2 are allowed after two hours (s 17). Deliberations are secret (Mirza), but misconduct outside the jury room led to a quashed conviction in Young and jail in Fraill and Dallas. Jury equity runs from Bushell’s Case to Ponting and Kronlid; s 44 CJA 2003 allows trial without a jury, first used in Twomey." loading="lazy">
+  <figcaption>Juries decide facts in secret; what happens outside the jury room can be examined.</figcaption>
+</figure>
+
 ## Evaluation grid
 
 | | Magistrates | Juries |
 |---|---|---|
 | For | Local knowledge; cheap; lay involvement; balanced bench; few appeals | Democratic; independent; cross-section; jury equity; secrecy protects |
 | Against | Unrepresentative profile; inconsistent sentencing; reliance on adviser; prosecution-minded | No reasons; perverse verdicts; misconduct; bias; online research; cost |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-magistrates-and-juries--01-why-lay-people.webp" width="900" height="561" alt="Magistrates decide the great majority of criminal cases and juries decide guilt in the most serious ones, though neither has a legal qualification. A balance weighs the justification, democratic participation, against the criticisms of competence, consistency and representativeness." loading="lazy">
+  <figcaption>Lay justice is justified by democratic participation and criticised for competence, consistency and representativeness.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-magistrates-and-juries--04-magistrates-evaluation.webp" width="900" height="717" alt="Advantages of magistrates: local knowledge, low cost, lay involvement, a balanced bench of three, and few successful appeals. Disadvantages: limited or dated local knowledge, reliance on the legal adviser, an older and professional profile, inconsistent sentencing, and the risk of case-hardening, shown in R v Bingham Justices, ex parte Jowitt, where a conviction was quashed because the chairman always believed the police." loading="lazy">
+  <figcaption>Each advantage has a matching weakness; support the weaknesses with Jowitt.</figcaption>
+</figure>
 
 ## Model evaluation paragraph
 

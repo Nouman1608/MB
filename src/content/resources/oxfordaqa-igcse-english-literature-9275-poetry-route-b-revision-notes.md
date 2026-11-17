@@ -44,6 +44,16 @@ Notes covering the anthology on both routes are in the
 
 Check with your teacher which edition of the anthology applies to your exam series.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--01-paper-2b.webp" width="900" height="665" alt="Paper 2b lasts 90 minutes for 60 marks: Section A on the People and Places anthology and Section B on an unseen poem, 30 marks and about 45 minutes each. Within the paper, AO1 and AO2 are each about 40% and AO3 about 20%." loading="lazy">
+  <figcaption>Two equal sections, and ideas and methods weighted equally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--06-planning-45.webp" width="900" height="926" alt="A 45-minute bar and five steps for the anthology question: choose (2 minutes), annotate (5), argue in one sentence (3), write three or four comparative paragraphs (30) and check every paragraph mentions both poems (5)." loading="lazy">
+  <figcaption>Most of the time goes on writing, but the first ten minutes decide the argument.</figcaption>
+</figure>
+
 ## AO balance on Paper 2b
 
 | AO | What it rewards | Share of Paper 2b (approx.) | In practice |
@@ -78,6 +88,16 @@ Ideas and methods carry equal weight: every paragraph needs both.
 - Star the **contrasting pairs**: poems that treat the same idea differently.
 - Add one context note per poem, only where it explains a choice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--02-theme-grid.webp" width="900" height="687" alt="A grid with themes (belonging, memory, power of a place) down the side and three poems across the top; each cell notes how the poem treats the theme, and a contrasting pair on belonging is highlighted. Three habits for using the grid follow." loading="lazy">
+  <figcaption>A grid of themes and methods prepares you for any pairing question.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--04-context.webp" width="900" height="541" alt="Context works well as a single sentence explaining a choice in the poem, illustrated by the guide’s example about a migrant poet’s present-tense memories, and badly as a paragraph of biography before analysis." loading="lazy">
+  <figcaption>Use context to explain a choice, not to fill a paragraph.</figcaption>
+</figure>
+
 ## Form in one line each
 
 - **Sonnet**: what changes at the turn, and why so compressed?
@@ -85,6 +105,11 @@ Ideas and methods carry equal weight: every paragraph needs both.
 - **Free verse**: does freedom suit a speaking voice or a restless mind?
 - **Regular rhyme and stanzas**: does order support the meaning or clash with it?
 - **Line breaks**: where does the poem pause or speed up, and what does the reader feel there?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--03-form.webp" width="900" height="714" alt="Five forms to recognise, sonnet, dramatic monologue, free verse, regular stanzas and rhyme, and line length and enjambment, each paired with the question to ask about how it shapes meaning." loading="lazy">
+  <figcaption>A form comment earns credit when it explains what the shape does.</figcaption>
+</figure>
 
 ## Comparison toolkit
 
@@ -95,6 +120,11 @@ Ideas and methods carry equal weight: every paragraph needs both.
 
 **Paragraph order:** shared idea → method and effect in poem 1 → contrasting method and effect in
 poem 2 → what the difference reveals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry-route-b--05-compare-voice-form.webp" width="900" height="839" alt="The guide’s two original extracts about a hill compared: both show a gap between outsiders and insiders, but Extract X uses a challenging dramatic monologue and the body’s effort, while Extract Y uses a detached observer and the language of measurement, giving anger against irony." loading="lazy">
+  <figcaption>One shared idea, then voice, method and effect compared side by side.</figcaption>
+</figure>
 
 ## Exam traps
 

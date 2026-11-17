@@ -41,6 +41,11 @@ Condensed for the final weeks. For the full explanation of each approach, use th
 Learn the "free will vs determinism" column cold — comparison questions ask for it directly and it is
 the fastest mark-scheme point to lose through vague wording.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-approaches-in-psychology--01-six-approaches.webp" width="900" height="790" alt="Six cards, one per approach, each with an icon and the phrase for what drives behaviour. Behaviourist and social learning are marked as learning approaches." loading="lazy">
+  <figcaption>The six approaches and what each says drives behaviour.</figcaption>
+</figure>
+
 ## Learning approaches (i): behaviourism
 
 Classical conditioning (Pavlov) — learning through **association**: an unconditioned stimulus paired
@@ -56,6 +61,11 @@ Adds cognitive processes behaviourism ignores. Learning happens by **observing**
 reinforcement is required first, unlike operant conditioning. **Identification** makes imitation more
 likely when the model is similar, high-status, or attractive. Four **mediational processes** sit
 between observing and imitating: attention, retention, motor reproduction, motivation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-approaches-in-psychology--02-behaviourist-vs-social-learning.webp" width="900" height="910" alt="Behaviourist: own behaviour, direct reinforcement, behaviour learned. Social learning theory: model rewarded (vicarious reinforcement), mediational processes such as attention and retention, observer imitates." loading="lazy">
+  <figcaption>Behaviourist learning needs direct reinforcement; social learning works through observation and mental processes.</figcaption>
+</figure>
 
 ## Cognitive approach
 
@@ -80,6 +90,11 @@ principle, mediates), **Superego** (morality principle, develops around age 5). 
 **defence mechanisms** — repression (pushing a memory out of conscious awareness entirely), denial
 (refusing to accept reality), displacement (redirecting an emotion onto a safer target). Development
 proceeds through fixed **psychosexual stages**; unresolved conflict at any stage causes fixation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-approaches-in-psychology--04-psychodynamic-ideas.webp" width="900" height="960" alt="Four groups: Id, Ego and Superego; defence mechanisms repression, denial and displacement; the unconscious; psychosexual stages." loading="lazy">
+  <figcaption>The psychodynamic ideas named in the specification.</figcaption>
+</figure>
 
 ## Humanistic psychology
 
@@ -116,6 +131,16 @@ holistic, idiographic end; cognitive, SLT, and psychodynamic approaches fall bet
 in different ways. An extended-writing question asking you to "compare two approaches" wants you to
 select two or three of these dimensions explicitly rather than describing each approach separately and
 leaving the comparison implicit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-approaches-in-psychology--05-biological-vs-psychodynamic.webp" width="900" height="940" alt="Biological (genetics and neurochemistry) and psychodynamic (unconscious conflict) both look for causes outside immediate conscious control; arrows lead to behaviour." loading="lazy">
+  <figcaption>Same idea (cause outside conscious control), different location of the cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-approaches-in-psychology--03-determinism-and-evidence.webp" width="900" height="850" alt="Two scales. Behaviourist and biological sit at the deterministic end and humanistic at the free will end. Behaviourist and biological rely on controlled scientific methods; psychodynamic and humanistic on case studies and qualitative evidence." loading="lazy">
+  <figcaption>Where the lesson places four approaches on determinism and evidence type.</figcaption>
+</figure>
 
 ## Why this comparison matters for the exam
 

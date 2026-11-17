@@ -39,6 +39,11 @@ before-and-after paragraph, is in the [Writing study guide](/resources/aqa-gcse-
 **AO4** is assessed on the Shakespeare question (Paper 1) and the modern text question (Paper 2), 4
 marks each, for a range of vocabulary and sentence structures with accurate spelling and punctuation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-writing-skills--01-where-ao4-counts.webp" width="900" height="526" alt="Two paper cards. On Paper 1 the Shakespeare question carries 4 extra AO4 marks; on Paper 2 the modern text question does. Below, AO4 rewards range of vocabulary and sentence structures with accurate spelling and punctuation, and clear writing matters everywhere because an argument that cannot be followed cannot be credited." loading="lazy">
+  <figcaption>AO4 is worth 4 marks on two questions, but clear writing carries every answer.</figcaption>
+</figure>
+
 ## Core recall
 
 - **Thesis first**: arguable, specific, covering the whole text.
@@ -59,6 +64,11 @@ marks each, for a range of vocabulary and sentence structures with accurate spel
 
 Aim for the third level: a reader could disagree with it, and it gives the essay a direction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-writing-skills--03-thesis-ladder.webp" width="900" height="511" alt="Three thesis statements about ambition, from weak (ambition in many ways), to better (attractive at first and destructive by the end), to strongest (a force that isolates the people who pursue it until success and loneliness become the same thing). Below, a good thesis is arguable, specific and covers the whole text." loading="lazy">
+  <figcaption>A thesis should be arguable, specific and cover the whole text.</figcaption>
+</figure>
+
 ## Purposes in proportion
 
 | Purpose | Rough share of a paragraph |
@@ -69,6 +79,11 @@ Aim for the third level: a reader could disagree with it, and it gives the essay
 | Evaluate | A sentence judging impact or significance |
 | Argue | Topic sentence and closing link to the thesis |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-writing-skills--02-purposes.webp" width="900" height="654" alt="Six purposes are stacked from describe and summarise at the bottom, through explain, argue and analyse, to evaluate at the top, each with its job in an essay and its limit. An arrow points up towards the higher levels, and a note says paragraphs that only describe and summarise have not reached them." loading="lazy">
+  <figcaption>Describe and summarise only set things up; the marks come from explaining, arguing, analysing and evaluating.</figcaption>
+</figure>
+
 ## Linking paragraphs
 
 Each new paragraph should pick up the last one's idea and move it on:
@@ -77,6 +92,11 @@ Each new paragraph should pick up the last one's idea and move it on:
 - "A darker version of this appears in..."
 - "By contrast, the ending suggests..."
 - "This complicates the earlier view, because..."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-writing-skills--04-line-of-argument.webp" width="900" height="590" alt="A weak topic sentence, another theme is guilt, only announces a topic. A stronger one, this isolation deepens once guilt replaces ambition, links back to the previous point and moves the argument forward. Below, four signposting phrases: this develops further when, by contrast, this complicates the earlier view because, and ultimately." loading="lazy">
+  <figcaption>Each topic sentence should link back to the thesis and push it forward.</figcaption>
+</figure>
 
 ## Analytical verbs
 
@@ -99,6 +119,11 @@ Each new paragraph should pick up the last one's idea and move it on:
 | Underlining (handwriting) | Titles of plays, novels and other whole texts |
 | Quotation marks for titles | Poems and short stories |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-writing-skills--06-embedding-quotations.webp" width="900" height="702" alt="A dropped-in quotation, a whole sentence placed between two statements, is contrasted with an embedded one: the command to get out shows anger turning into control. Below, five conventions: quotation marks, ellipsis, square brackets, a forward slash for line breaks, and underlining titles of plays and novels." loading="lazy">
+  <figcaption>Build short quotations into your own sentences, and follow the conventions.</figcaption>
+</figure>
+
 ## Accuracy checklist
 
 | Watch for | Rule |
@@ -120,6 +145,11 @@ Each new paragraph should pick up the last one's idea and move it on:
   writer".
 - **Semicolon**: joins two closely related complete sentences.
 - **Colon**: introduces an explanation or example.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-writing-skills--07-register-and-tense.webp" width="900" height="660" alt="Register: avoid slang, text-speak and vague words; prefer precise verbs such as suggests, implies, exposes, undermines, reinforces and conveys. Tense: present for the text, past only for historical context. A note on sentence variety gives a complex sentence beginning although." loading="lazy">
+  <figcaption>Formal precise verbs, the present tense for the text, and varied sentences.</figcaption>
+</figure>
 
 ## Exam traps
 

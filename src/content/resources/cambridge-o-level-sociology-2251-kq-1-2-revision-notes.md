@@ -72,11 +72,21 @@ evaluation of summaries of studies, diagrams, tables, charts and graphs.
 - **Qualitative — strengths:** depth and validity; shows meanings. **Limitations:** hard to compare;
   small samples; interpretation can be subjective.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-2--01-classify-data-twice.webp" width="900" height="646" alt="A two-by-two grid. Rows ask who collected the data, primary or secondary; columns ask what form it takes, quantitative or qualitative. Examples: a researcher’s own survey is primary quantitative, an unstructured interview transcript is primary qualitative, a government household survey is secondary quantitative and a diary is secondary qualitative." loading="lazy">
+  <figcaption>Primary or secondary is about who collected it; quantitative or qualitative is about its form.</figcaption>
+</figure>
+
 ## Scott's four criteria (1990)
 
 Use these to evaluate any document: **authenticity** (genuine?), **credibility** (sincere and
 accurate?), **representativeness** (typical, and enough surviving?), **meaning** (can we understand
 it?).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-2--02-scott-four-criteria.webp" width="900" height="516" alt="Four criteria for judging documents from John Scott’s A Matter of Record (1990): authenticity (is it genuine?), credibility (is it sincere and accurate?), representativeness (is it typical, and do enough survive?) and meaning (can the researcher understand it?)." loading="lazy">
+  <figcaption>Scott’s four questions give a structure for evaluating any secondary source.</figcaption>
+</figure>
 
 ## Secondary evidence at a glance
 
@@ -87,6 +97,16 @@ it?).
 | Personal documents | Rich insight into feelings | Writers may exaggerate; unrepresentative | Diaries and autobiographies |
 | Digital sources | Huge, current, reach hidden groups | Fake or anonymous accounts; users not representative | Forums, posts, search data |
 | Media content | Shows representations; cheap | Shaped by owners and editors; says little about audiences | Glasgow University Media Group, *Bad News* (1976) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-2--03-secondary-evidence-types.webp" width="900" height="521" alt="A table of five kinds of secondary evidence with a key strength and limitation each: official statistics, historical documents, personal documents, digital sources and media content." loading="lazy">
+  <figcaption>Each type of secondary evidence has its own typical strength and weakness.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-2--04-dark-figure-of-crime.webp" width="900" height="591" alt="Three narrowing bars: all offences committed, fewer offences reported to the police, and fewer still recorded by the police. The gap is the dark figure of crime. A second box notes the interpretivist view that statistics are socially constructed by officials’ decisions." loading="lazy">
+  <figcaption>Recorded crime is only the part of crime that is both reported and recorded.</figcaption>
+</figure>
 
 ## Reading data: the routine
 
@@ -99,6 +119,16 @@ it?).
 
 **For summaries of studies:** underline method, sample, findings and the detail that signals a
 problem (where the sample came from, how the researcher gained access, who was left out).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-2--05-five-step-routine.webp" width="900" height="676" alt="Five steps for reading quantitative sources: check the title, source and date; check the units; state the overall pattern first; then quote precise figures; then identify a problem such as sample size, missing groups, definitions or a correlation presented as a cause." loading="lazy">
+  <figcaption>Pattern first, exact figures second, problem last.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-2--06-worked-table-as-chart.webp" width="900" height="590" alt="The lesson’s invented survey shown as a bar chart: girls report heavy social media use of 34%, 46% and 52% at ages 13, 15 and 17, boys 28%, 37% and 41%. Notes give the pattern, the gap widening from 6 to 11 percentage points, and problems of self-reporting, one town and small groups." loading="lazy">
+  <figcaption>State the pattern, support it with exact figures, then explain a problem tied to the source.</figcaption>
+</figure>
 
 ## Exam traps
 
@@ -118,6 +148,11 @@ analysing 1,000 comments posted under online news articles.*
   access are under-represented, so the findings cannot be generalised (2).
 - People may post deliberately extreme or insincere comments, and some accounts may be fake, so the
   data lacks credibility and validity (2).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-2--07-study-summary-underline.webp" width="900" height="399" alt="Four things to underline before answering on a study summary: the method, the sample (size and how it was chosen), the findings, and any detail that suggests a problem, such as a researcher known to participants or a sample drawn from one place." loading="lazy">
+  <figcaption>Find the detail that suggests a problem: that is where most marks are.</figcaption>
+</figure>
 
 ## Self-test
 

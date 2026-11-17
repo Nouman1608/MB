@@ -1,0 +1,33 @@
+{
+ "page": "as-chem-group2-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--01-g2-water-reactions.webp",
+   "after": "## Reactivity down the group"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--02-g2-why-reactivity.webp",
+   "after": "## Reactivity down the group"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--03-g2-barium-sulfuric-acid.webp",
+   "after": "## The special case of barium and dilute sulfuric acid"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--07-g2-sulfate-test.webp",
+   "after": "## The sulfate-ion test"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--06-g2-solubility-trends.webp",
+   "after": "## The two opposing solubility trends"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--04-g2-thermal-decomposition.webp",
+   "after": "## Thermal stability"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-group-2-the-alkaline-earth-metals--05-g2-stability-trend.webp",
+   "after": "## Thermal stability"
+  }
+ ]
+}

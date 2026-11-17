@@ -36,6 +36,16 @@ Quick-recall notes for subtopic 1.2 of Cambridge International AS & A Level Law 
 - **Tracks:** small claims (to £10,000), fast (£10,000–£25,000, one-day trial), multi-track (complex or high value); intermediate track since October 2023 for many claims up to £100,000.
 - **Appeals:** permission needed; next level of judge → Court of Appeal → Supreme Court (point of law of general public importance); leapfrog from High Court.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-machinery-of-justice--01-civil-claim-to-allocation.webp" width="900" height="764" alt="A civil claim begins with a protocol letter of claim and a claim form with particulars. The defendant may admit, file a defence within 14 days (or 28 after acknowledging service), or do nothing and risk judgment in default. A defended claim goes through a directions questionnaire to one of four tracks: small claims up to £10,000, fast track £10,000 to £25,000, the intermediate track up to £100,000 since October 2023, and multi-track." loading="lazy">
+  <figcaption>Defended claims are allocated to a track by value, complexity and evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-machinery-of-justice--02-woolf-reforms.webp" width="900" height="815" alt="Lord Woolf found civil justice too costly, slow and complex. The Civil Procedure Rules 1998 introduced the overriding objective, judicial case management, pre-action protocols, Part 36 offers, single joint experts and encouragement of ADR. Cases settled earlier but costs stayed high, leading to the Jackson review (2010) and a swing from Mitchell (2013) to Denton (2014)." loading="lazy">
+  <figcaption>The CPR gave judges control of cases; costs remained the weak point.</figcaption>
+</figure>
+
 ## ADR
 
 | Method | Third party role | Binding? |
@@ -48,6 +58,11 @@ Quick-recall notes for subtopic 1.2 of Cambridge International AS & A Level Law 
 - **Arbitration Act 1996:** s1 principles (fair, impartial, no unnecessary delay or expense; party autonomy; limited court role); s9 stay of court action; narrow challenges (jurisdiction, serious irregularity, point of law unless excluded).
 - **Scott v Avery clause:** arbitration award must come before any court action.
 - **Court pressure:** costs penalty for unreasonable refusal (*Halsey* (2004)); courts may order engagement (*Churchill v Merthyr Tydfil* (2023)).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--06-adr-methods.webp" width="900" height="909" alt="Four rows of alternative dispute resolution, each with a small picture of the people involved. In negotiation only the two parties talk. In mediation a neutral third party helps without imposing a solution. In conciliation the third party may suggest a solution. In arbitration the arbitrator makes a binding award that a court can enforce." loading="lazy">
+  <figcaption>From negotiation to arbitration, the third party has more and more say over the outcome.</figcaption>
+</figure>
 
 ## Criminal process
 
@@ -68,6 +83,16 @@ Quick-recall notes for subtopic 1.2 of Cambridge International AS & A Level Law 
 - **Prosecution:** Attorney General's reference of unduly lenient sentence; retrial after acquittal for serious offences with new and compelling evidence (Criminal Justice Act 2003).
 - **Criminal Cases Review Commission:** refers possible miscarriages of justice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--05-offence-classes.webp" width="900" height="820" alt="A grid of three offence types against two courts. Summary offences are tried only in the Magistrates' Court. Either-way offences may be tried in either court, depending on the magistrates' view of their sentencing powers and the defendant's choice. Indictable offences are first heard in the Magistrates' Court but always tried in the Crown Court with a judge and jury." loading="lazy">
+  <figcaption>The class of offence decides which criminal court tries it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-machinery-of-justice--03-criminal-appeals.webp" width="900" height="910" alt="Appeal routes: from the Magistrates’ Court the defendant appeals to the Crown Court against conviction (a full rehearing) or sentence, and either side may appeal by case stated to the Divisional Court of the King’s Bench Division. From the Crown Court the defendant needs permission to appeal to the Court of Appeal (Criminal Division), which quashes unsafe convictions. Both routes can reach the Supreme Court on a certified point of law. Below: unduly lenient sentence references, retrial after acquittal and the Criminal Cases Review Commission." loading="lazy">
+  <figcaption>Rehearing or case stated from the magistrates; permission and the “unsafe” test from the Crown Court.</figcaption>
+</figure>
+
 ## Bail
 
 - **Police:** PACE (custody officer decides); Criminal Justice and Public Order Act 1994 – police conditional bail; s25 – bail for repeat homicide or rape charges only in exceptional circumstances.
@@ -75,6 +100,11 @@ Quick-recall notes for subtopic 1.2 of Cambridge International AS & A Level Law 
 - **Refusal grounds:** substantial grounds for believing the defendant would abscond, offend on bail or interfere with witnesses.
 - **Factors:** seriousness and likely sentence; character, antecedents, associations, community ties; bail record; strength of evidence.
 - **Conditions:** residence, curfew, reporting, passport, tag, surety, security.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-machinery-of-justice--04-bail.webp" width="900" height="600" alt="Police bail under PACE, with conditions allowed by the Criminal Justice and Public Order Act 1994 and the s25 restriction for serious repeat offences; court bail under s4 Bail Act 1976, refused only on substantial grounds that the defendant would abscond, offend or interfere with witnesses. Below are the factors the court weighs and the conditions it may impose." loading="lazy">
+  <figcaption>Bail is the default; refusal needs substantial grounds.</figcaption>
+</figure>
 
 ## Police powers (PACE 1984)
 
@@ -98,6 +128,11 @@ Quick-recall notes for subtopic 1.2 of Cambridge International AS & A Level Law 
 | s78 | Discretion to exclude unfair evidence |
 
 **Cases:** *Christie v Leachinsky* (1947) reasons for arrest; *Gillan and Quinton v UK* (2010) no-suspicion search breached Article 8; *R v Samuel* (1988) solicitor wrongly refused; *R v Paris, Abdullahi and Miller* (1993) oppression.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-machinery-of-justice--05-detention-clock.webp" width="900" height="720" alt="A to-scale timeline of detention: up to 24 hours from arrival without charge (s41), up to 36 hours for an indictable offence on a superintendent’s authority (s42), and up to 96 hours in total with a magistrates’ warrant (ss43 to 44), with reviews within 6 hours and then every 9 hours (s40). A table lists the detainee’s rights and their sources." loading="lazy">
+  <figcaption>Detention is time-limited, and each extension needs higher authority.</figcaption>
+</figure>
 
 ## Key terms
 

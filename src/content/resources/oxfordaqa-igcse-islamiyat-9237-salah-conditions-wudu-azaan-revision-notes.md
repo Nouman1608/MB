@@ -29,6 +29,11 @@ featured: false
 
 **Muslim, mature, pure, clean, covered, Qiblah, time**, plus **niyyah**. If any one is missing (for example, Wudu has been broken), the prayer is not valid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--01-conditions-of-salah.webp" width="900" height="607" alt="A table of seven conditions of Salah with what each means and why: being Muslim, sane and mature; purity of the body; clean clothes and place; covering the body; facing the Qiblah; praying at the correct time (4:103); and intention." loading="lazy">
+  <figcaption>Learn each condition with a reason: that turns a list into an explanation.</figcaption>
+</figure>
+
 ## Times and rak'ahs
 
 | Prayer | Window | Fard rak'ahs |
@@ -41,6 +46,11 @@ featured: false
 
 Total: **17 fard rak'ahs** a day. Evidence: "a decree of specified times" (4:103).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--02-prayer-times.webp" width="900" height="757" alt="A schematic day with the sun’s path from sunrise to sunset and the five prayer periods: Fajr from true dawn to sunrise, Zuhr after the sun’s highest point, Asr from mid-afternoon, Maghrib after sunset and Isha from nightfall. A table gives when each begins and ends and its fard rak’ahs: 2, 4, 4, 3 and 4." loading="lazy">
+  <figcaption>Fixed times mean a Muslim never goes long without remembering Allah.</figcaption>
+</figure>
+
 ## Wudu order
 
 Niyyah and Bismillah → hands ×3 → mouth ×3 → nose ×3 → face ×3 → arms to elbows ×3, right first → wipe head (and ears) → feet to ankles ×3, right first.
@@ -49,6 +59,16 @@ Niyyah and Bismillah → hands ×3 → mouth ×3 → nose ×3 → face ×3 → a
 - **Broken by:** toilet, wind, deep sleep, unconsciousness. Schools add others (Hanafi: flowing blood; Shafi'i: touching the skin of a non-mahram of the opposite sex).
 - **Ghusl** needed after sexual relations and after menstruation or post-natal bleeding.
 - **Tayammum** if no water or water would harm (5:6).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--03-wudu-steps.webp" width="900" height="576" alt="Eight numbered steps of Wudu: intention and Bismillah, washing the hands, rinsing the mouth and nose, washing the face, each arm to the elbow, wiping the head, and washing each foot to the ankle, most three times. The face, arms, head and feet are highlighted as the obligatory parts named in Qur’an 5:6." loading="lazy">
+  <figcaption>Four parts are commanded in Qur’an 5:6; the rest follow the Sunnah.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--04-wudu-ghusl-tayammum.webp" width="900" height="466" alt="Three kinds of purification: Wudu before prayer, broken by using the toilet, passing wind, deep sleep or losing consciousness; Ghusl, a full bath after sexual relations or menstruation; and Tayammum with clean earth when water is unavailable or harmful. A note gives differences between schools." loading="lazy">
+  <figcaption>Do not confuse Wudu with Ghusl; Tayammum replaces both.</figcaption>
+</figure>
 
 ## Azaan
 
@@ -59,9 +79,19 @@ Niyyah and Bismillah → hands ×3 → mouth ×3 → nose ×3 → face ×3 → a
 - **Iqamah:** shorter second call as the congregation stands.
 - First muezzin: **Bilal (RA)**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--05-azaan.webp" width="900" height="764" alt="The Sunni wording of the Azaan in transliteration with English and the number of repetitions: Allahu Akbar four times; the two lines of the Shahadah twice each; come to prayer and come to success twice each; Allahu Akbar twice; and La ilaha illallah once. Below: the Fajr addition, the Shi’a addition and the Iqamah." loading="lazy">
+  <figcaption>The Azaan contains the Shahadah, announcing Tawhid publicly five times a day.</figcaption>
+</figure>
+
 ## One rak'ah
 
 Takbir → qiyam with **al-Fatiha** (+ another passage in the first two rak'ahs) → ruku (*Subhana Rabbiyal Azeem*) → stand → sujood (*Subhana Rabbiyal A'la*) twice → sit. End: tashahhud → blessings on the Prophet (pbuh) → salam right and left.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--06-rakah-pattern.webp" width="900" height="765" alt="Five stages of each rak’ah in order: standing and reciting al-Fatiha, bowing, standing again, two prostrations and sitting, with the words said in bowing and prostration. The prayer ends with the tashahhud, blessings on the Prophet (pbuh) and the salam." loading="lazy">
+  <figcaption>Every rak’ah follows the same pattern, recited in Arabic.</figcaption>
+</figure>
 
 ## Concessions
 
@@ -74,6 +104,11 @@ Takbir → qiyam with **al-Fatiha** (+ another passage in the first two rak'ahs)
 | Danger in war | Shortened "fear prayer" | Qur'an 4:102 |
 
 **Principle:** "Allah intends for you ease and does not intend for you hardship" (2:185).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--07-concessions.webp" width="900" height="705" alt="Five situations with their concession and source: travellers shorten four-rak’ah prayers (4:101), the ill pray sitting or lying down, Tayammum replaces water (5:6), a shortened form in danger (4:102), and women during menstruation or post-natal bleeding are excused. The principle is ease, not hardship (2:185)." loading="lazy">
+  <figcaption>Concessions change how Muslims pray, not whether they pray.</figcaption>
+</figure>
 
 ## Home and mosque
 

@@ -1,0 +1,8 @@
+{ "page": "oxfordaqa-igcse-computer-science-9210-relational-operations-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--01-relational-truth-grid.webp", "after": "## Core facts"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--02-words-to-operators.webp", "after": "## Words to symbols"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--03-opposite-operators.webp", "after": "## Opposites (for converting loops and negating conditions)"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--06-loop-boundary.webp", "after": "## Loop counts depend on the operator"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--05-band-boundaries.webp", "after": "## Selection chains"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--04-string-comparison-case.webp", "after": "## Strings"}
+] }

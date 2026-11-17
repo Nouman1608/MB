@@ -43,6 +43,16 @@ featured: false
 | July 1923 | Treaty of Lausanne |
 | October 1923 | Turkish Republic proclaimed, with Mustafa Kemal as president |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--02-five-treaties.webp" width="900" height="622" alt="Timeline of the five treaties: Saint-Germain with Austria (September 1919), Neuilly with Bulgaria (November 1919), Trianon with Hungary (June 1920), Sèvres with the Ottoman Empire (August 1920, never enforced) and Lausanne with Turkey (July 1923), with the main terms of each." loading="lazy">
+  <figcaption>Saint-Germain, Neuilly, Trianon, Sèvres, then Lausanne, which replaced Sèvres.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--05-sevres-to-lausanne.webp" width="900" height="741" alt="Timeline from the Sykes-Picot Agreement (1916) and Balfour Declaration (1917) to the Treaty of Sèvres (1920), Kemal's victories of 1919-22 including Smyrna, the Chanak crisis (1922), the Treaty of Lausanne (July 1923) and the Turkish republic (October 1923)." loading="lazy">
+  <figcaption>Kemal's victories and the Allies' unwillingness to fight replaced Sèvres with Lausanne.</figcaption>
+</figure>
+
 ## Treaty by treaty
 
 **Saint-Germain (Austria):** recognised Czechoslovakia, Poland, Hungary and Yugoslavia; South Tyrol and Trieste to Italy; Bohemia and Moravia to Czechoslovakia; *union with Germany forbidden*; army 30,000. Result: small landlocked state; economic crisis; League loan by 1922.
@@ -55,6 +65,21 @@ featured: false
 
 **Lausanne (Turkey):** Turkey kept Anatolia, Smyrna and eastern Thrace; no reparations; foreign privileges ended; Straits demilitarised but open; Greek-Turkish population exchange; mandates unchanged. Significance: the only treaty negotiated rather than imposed; showed a treaty could be overturned by force.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--03-austria-problems.webp" width="900" height="525" alt="Four linked steps: Austria became a small landlocked republic with a capital built for an empire; it lost industry and markets behind new tariffs; union with Germany was forbidden, seeming to contradict self-determination; and by 1922 it needed a League of Nations loan." loading="lazy">
+  <figcaption>Too small to stand alone and forbidden to unite with Germany, Austria needed a League loan by 1922.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--04-hungary-trianon.webp" width="900" height="611" alt="A bar to scale shows Hungary kept about one-third of its territory and lost about two-thirds: Transylvania to Romania, Slovakia and Ruthenia to Czechoslovakia, Croatia to Yugoslavia. Cards note over three million Hungarians outside the borders, the treaty signed from weakness, the slogan &quot;No, no, never!&quot; and later revisionism." loading="lazy">
+  <figcaption>Losing two-thirds of its land made Trianon the most resented treaty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--06-sevres-vs-lausanne.webp" width="900" height="767" alt="Table comparing the Treaty of Sèvres (1920) with the Treaty of Lausanne (1923) on Smyrna, eastern Thrace, Armenia, the Straits, reparations, the Greek-Turkish population exchange and the Arab mandates. A note explains Lausanne was the only negotiated treaty." loading="lazy">
+  <figcaption>Lausanne reversed most of Sèvres: the only treaty negotiated rather than imposed.</figcaption>
+</figure>
+
 ## Strengths and difficulties
 
 | Strengths | Difficulties |
@@ -66,6 +91,11 @@ featured: false
 | | Arab hopes of independence replaced by mandates |
 | | Revisionism in Hungary and Bulgaria |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--07-strengths-and-difficulties.webp" width="900" height="479" alt="Two columns. Strengths: new nations for Poles, Czechs, Slovaks, Romanians and South Slavs, democracies, minority treaties, a League role and a stable Greek-Turkish border. Difficulties: minorities, economic damage, weak states, Italian and Arab disappointment, and revisionism." loading="lazy">
+  <figcaption>Self-determination created new nations but left minorities and resentment everywhere.</figcaption>
+</figure>
+
 ## Turning knowledge into source answers
 
 Section A is entirely source-based, so learn facts as **tests** for sources:
@@ -74,6 +104,11 @@ Section A is entirely source-based, so learn facts as **tests** for sources:
 - A source calling Austria doomed: support it with the ban on union and the League loan; qualify it with Austria's survival through the 1920s.
 - A source on Turkey: check the date. Before September 1922 Sèvres stood; after it, the nationalists had the upper hand.
 - Provenance shortcuts: Czech, Polish or Romanian sources tend to defend the borders; Austrian, Hungarian, Bulgarian and Turkish nationalist sources tend to attack them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-wider-peace-settlement--08-question-1-postcard.webp" width="900" height="601" alt="A question 1 answer on an invented 1921 Hungarian postcard: the content shows the map cut away, knowledge adds the loss of two-thirds of the land and three million Hungarians, and the provenance shows resentment was widely shared. A note says to check provenance against the treaty described." loading="lazy">
+  <figcaption>Content, precise knowledge and provenance together support the claim.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -64,6 +64,16 @@ unemployment and underemployment.
 2. **Quote data:** state a percentage or bar value for an age group.
 3. **Explain and link:** high birth rate, falling death rate; then the effect, such as the need for schools and jobs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--01-population-pyramid.webp" width="900" height="682" alt="A schematic population pyramid with a wide base and narrow top: a large share of people under 15 and a small share over 65. A dashed outline of an earlier shape shows the base beginning to narrow as birth rates fall while the middle widens." loading="lazy">
+  <figcaption>A wide base means a high birth rate; a slightly narrowing base shows birth rates starting to fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--02-young-population-futures.webp" width="900" height="416" alt="A young population brings high dependency and a fast-growing labour force. The chart splits: if jobs are created, the large working-age population can boost output; if not, unemployment rises." loading="lazy">
+  <figcaption>A young population is an opportunity only if enough jobs are created.</figcaption>
+</figure>
+
 ## Factors in population growth
 
 - **Social:** early marriage, large families valued, son preference.
@@ -73,6 +83,11 @@ unemployment and underemployment.
 - **Health:** vaccination and medical care reduce deaths, especially of infants.
 
 **Solutions:** female education, family planning, mother and child health care, development.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--03-growth-factors.webp" width="900" height="697" alt="Natural increase is the birth rate minus the death rate. Five factors (social, educational, economic, political and health) feed rapid population growth, which leads to problems such as pressure on services and slums, and to solutions such as female education, family planning and better health care." loading="lazy">
+  <figcaption>High birth rates and a falling death rate together drive rapid growth.</figcaption>
+</figure>
 
 ## Migration summary
 
@@ -85,6 +100,16 @@ unemployment and underemployment.
 
 **Self-help example:** Orangi Pilot Project, Karachi, where residents built their own sewers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--04-push-pull-migration.webp" width="900" height="651" alt="Rural push factors (few jobs, low wages, landlessness, poor services, floods) and urban pull factors (jobs, schools, hospitals, bright lights) send migrants from the countryside to the city, while remittances flow back. A table gives push and pull factors for seasonal migration, emigration and immigration including refugees." loading="lazy">
+  <figcaption>Migration happens when push factors at home meet pull factors elsewhere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--05-migration-effects-solutions.webp" width="900" height="634" alt="Effects in cities include katchi abadis with poor housing and little clean water, congestion, pollution and tent cities; effects in rural areas include depopulation and loss of young workers but income from remittances. Solutions are self-help schemes such as the Orangi Pilot Project in Karachi, standpipes and services, and upgrading katchi abadis, with a warning that upgrading can attract more migrants." loading="lazy">
+  <figcaption>Upgrading and self-help improve katchi abadis but can attract further migration.</figcaption>
+</figure>
+
 ## Distribution and density
 
 - Punjab: largest population; high density on irrigated plains.
@@ -96,6 +121,11 @@ unemployment and underemployment.
 **Factors:** physical (relief, water, soil, climate), economic (jobs, irrigation, industry), social
 (services), political (government investment, security).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--06-distribution-density.webp" width="900" height="801" alt="Distribution is the pattern of where people live; density is people per square kilometre. A schematic compares Punjab, with the largest share of population and high density, with Balochistan, the largest province by area with very low density. A table lists physical, economic, social and political factors." loading="lazy">
+  <figcaption>Balochistan has the most land but the fewest people; Punjab the reverse.</figcaption>
+</figure>
+
 ## Employment
 
 - **Primary:** largest single share, falling.
@@ -105,6 +135,11 @@ unemployment and underemployment.
 - **Urban unemployment:** migrants outnumber jobs; lack of skills.
 - **Effects:** lower GNP and GDP, poverty, crime, emigration of skilled workers.
 - **Skills gap:** surplus manual labour, shortage of technicians, managers and professionals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--07-workforce.webp" width="900" height="658" alt="Three cards: primary occupations still employ the largest share but it is falling; secondary occupations have grown with industry; tertiary occupations are growing fastest in the cities. Below, unemployment (no job) is compared with underemployment (not enough work), both of which reduce GNP and GDP." loading="lazy">
+  <figcaption>Work is shifting from farming to services, but too little work holds back GNP and GDP.</figcaption>
+</figure>
 
 ## Worked example
 

@@ -28,6 +28,16 @@ Condensed for the final weeks. For the full explanation, use the
 
 Paper 2 = **one thematic study (Section A)** + **one British depth study including historic environment (Section B)**. Every centre chooses one option from each — confirm your school's exact choices before revising.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-shaping-the-nation-options--01-sn-paper-shape.webp" width="900" height="1030" alt="Paper 2 has two sections. Section A offers three thematic studies (AA, AB, AC) and Section B offers four British depth studies (BA to BD). You choose one from each, and every Section B option includes a historic environment part worth about ten per cent of the course." loading="lazy">
+  <figcaption>Choose one option from each section of Paper 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-shaping-the-nation-options--02-sn-time-spans.webp" width="900" height="800" alt="The three thematic studies are long bars that each run from their start (c790, c1000 or c1170) to the present day. The four depth studies are tiny bars of 20 to 40 years. All are drawn to the same scale, so thematic studies trace change over centuries while depth studies are close focus." loading="lazy">
+  <figcaption>Thematic studies span centuries; depth studies cover a short period.</figcaption>
+</figure>
+
 ## Section A: thematic studies (choose one)
 
 - **AA. Health and the People, c1000–present** — medieval medicine/Black Death → Renaissance challenge to authority/inoculation → germ theory/surgery/public health reform → modern treatment/wartime advances/NHS.
@@ -49,18 +59,48 @@ Single 20–40 year period, close focus, three content parts **plus a fourth par
 
 Each thematic study is built around recurring named factors (for AA: war, religion, chance, government, communication, science and technology, role of the individual — similar lists exist for AB/AC). For each major development, ask which factor(s) explain it, and whether **more than one factor worked together** — the specification rewards showing factor interaction, not just the single most obvious cause. Build a chronological anchor list of major turning points (for AA: Black Death, Jenner's vaccination, germ theory revolution, creation of the NHS).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-shaping-the-nation-options--03-sn-factors.webp" width="900" height="1010" alt="Four turning points from the Health and the People study are placed in order. For each, ask which of the seven named factors explains it, and dotted lines show that factors can work together, which the specification rewards." loading="lazy">
+  <figcaption>For each turning point, ask which factors explain it and how they interact.</figcaption>
+</figure>
+
 ## Approaching the depth study — connect the strands
 
 Practise explaining how political, religious, social and cultural strands of the period connect to each other, not as separate topics — e.g. BC Elizabethan England expects connecting the religious threat from Catholic plots to the political succession question, not revising "religion" and "politics" separately.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-shaping-the-nation-options--04-sn-depth-parts.webp" width="900" height="800" alt="A depth study has three content parts and a fourth historic environment part, shown here for Elizabethan England. Arrows show part 4 connects back to parts 1 to 3. The religious threat from Catholic plots is joined to the political question of the succession." loading="lazy">
+  <figcaption>A depth study has three content parts plus a historic environment part that links back to them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--07-middle-way-under-attack.webp" width="900" height="541" alt="The 1559 Settlement sits in the centre, with Catholic pressures (Mary, excommunication, missionaries, plots) pushing from one side and Puritan pressures (vestments, prophesyings, separatists) from the other. A note links religion to the succession." loading="lazy">
+  <figcaption>Religion and the succession were inseparable, and the Settlement was challenged from both sides.</figcaption>
+</figure>
 
 ## Historic environment — connect it back, don't treat it as separate
 
 Use the [Historic Environment revision notes](/resources/gcse-history-historic-environment-revision-notes/) for the shared site-study skill (location, function, structure, people connected with the site, design). Reliable structure for a question: state the site's key feature → connect it to a specific event/development from the depth study's other three parts → explain what the site reveals about the period's values/society. Naming the feature without connecting it back is the single most common way marks are lost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-shaping-the-nation-options--05-sn-site-answer.webp" width="900" height="770" alt="Three steps: name a key feature (a castle’s defensive design), link it to the period (the Harrying of the North or a revolt of 1067 to 1075), then say what the site reveals (how the Normans kept control). Naming the feature without linking it back loses marks." loading="lazy">
+  <figcaption>Name the feature, link it to the period, then say what it reveals.</figcaption>
+</figure>
+
 
 ## Worked example: multi-factor explanation
 
 Take a major development from AA Health and the People: the germ theory revolution improving surgery and prompting public health reform. A weak answer names one factor: "science and technology improved because of germ theory." A stronger answer traces how multiple named factors combined: **science and technology** (Pasteur and Koch's germ theory research providing the underlying breakthrough), **government** (public health legislation following from the new understanding of disease causation), and **communication** (medical findings spreading between researchers and into public health practice faster than in earlier centuries). Explaining that the development happened *because these factors reinforced each other*, not because any single one operated in isolation, is what separates a factor-interaction answer from a single-cause one — and this same multi-factor structure applies equally to AB Power and the People or AC Migration, Empires and the People, using their own respective factor lists.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-health-revolution-in-medicine--01-germ-theory-timeline.webp" width="900" height="766" alt="Vertical timeline from 1861 to 1909: Pasteur's germ theory, Koch's identification of anthrax, tuberculosis and cholera bacteria, Pasteur's vaccines for chicken cholera, anthrax and rabies, and Ehrlich's Salvarsan in 1909, colour-coded by team." loading="lazy">
+  <figcaption>Germ theory came first; the first chemical cure did not arrive until 1909.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-health-revolution-in-medicine--06-public-health-acts.webp" width="900" height="500" alt="Comparison table of the 1848 and 1875 Public Health Acts by nature, main terms, context and limits. The 1848 Act let towns act; the 1875 Act made councils provide clean water, drainage, sewage disposal and a Medical Officer of Health." loading="lazy">
+  <figcaption>The 1848 Act allowed action; the 1875 Act required it.</figcaption>
+</figure>
 
 ## Why confirming your exact options matters more on this paper than it might seem
 

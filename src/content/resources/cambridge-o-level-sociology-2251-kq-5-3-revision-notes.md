@@ -71,6 +71,21 @@ mechanism to each. That structure turns a long list into answers you can build q
   selective and private schooling.
 - **Wider society:** Marxist myth of meritocracy; compensatory education as a policy response.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-3--01-class-explanations.webp" width="900" height="509" alt="Class explanations sorted by where they operate. Outside school: material factors, Sugarman’s cultural factors, Bourdieu’s cultural capital, Douglas on parental interest and Bernstein’s speech codes. Inside school: Hargreaves on subcultures, selective and private education, labelling and Marxist explanations. A note covers compensatory education." loading="lazy">
+  <figcaption>Sort each explanation by where it operates and how it affects achievement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-3--02-bernstein-codes.webp" width="900" height="510" alt="Bernstein’s restricted code is short and context-bound; the elaborated code is detailed and explicit. Schools use the elaborated code, which middle-class children are more likely to learn at home, giving them an advantage." loading="lazy">
+  <figcaption>Schools speak the elaborated code, which middle-class children already know.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-3--03-labelling-to-subculture.webp" width="900" height="702" alt="A chain: a teacher judges pupils against the ideal pupil, a label is applied, a self-fulfilling prophecy follows, and lower-stream boys form an anti-school subculture. Labelling can be deterministic, since some pupils reject the label." loading="lazy">
+  <figcaption>Labels can become self-fulfilling and push pupils into subcultures.</figcaption>
+</figure>
+
 ## Ethnicity: three boxes
 
 - **Home and community:** material and social factors; family aspirations and supplementary schools;
@@ -79,6 +94,11 @@ mechanism to each. That structure turns a long list into answers you can build q
   curriculum; few minority role models; Fuller (1984): Black girls pro-education but not seeking
   teacher approval; Sewell (1997): rebels, conformists, retreatists, innovators.
 - **Wider society:** institutional racism (term given wide attention by the Macpherson Report, 1999).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-3--02-ethnicity-explanations.webp" width="900" height="578" alt="Ethnicity explanations inside school, such as institutional racism and educational triage, an ethnocentric curriculum, few role models and Coard’s labelling argument, and outside school, such as language, poverty, aspirations and supplementary schools. Fuller’s and Sewell’s studies show varied pupil responses." loading="lazy">
+  <figcaption>Minority groups do not all achieve the same, so explanations must allow for difference.</figcaption>
+</figure>
 
 ## Gender: three boxes
 
@@ -89,11 +109,21 @@ mechanism to each. That structure turns a long list into answers you can build q
 - **Wider society:** changing job opportunities for women; feminist explanations of patriarchy;
   access barriers for girls in some societies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-3--03-gender-explanations.webp" width="900" height="511" alt="Factors helping girls, such as gendered socialisation, teacher expectations and Sharpe’s finding that girls’ priorities moved towards careers, set against factors holding some boys back, such as laddish cultures, Mac an Ghaill’s macho lads and labelling. Feminists add that patriarchy still shapes careers and access." loading="lazy">
+  <figcaption>Use sociological reasons, not “girls are cleverer”.</figcaption>
+</figure>
+
 ## Global differences
 
 Availability of schools; poverty and child labour; girls' access (early marriage, safety, law, e.g.
 restrictions on girls' secondary schooling in Afghanistan since 2021); class sizes; cultural value
 placed on education; internet and digital resources.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-3--04-global-differences.webp" width="900" height="504" alt="Six factors behind global differences in achievement: availability of schools, poverty, access to education for girls, including restrictions in Afghanistan since 2021, class sizes, norms and values, and access to the internet and digital resources." loading="lazy">
+  <figcaption>Explain why each factor affects achievement, not just that it exists.</figcaption>
+</figure>
 
 ## Strengths and limitations (5.3.6)
 
@@ -105,6 +135,11 @@ placed on education; internet and digital resources.
   minority groups.
 - **Feminist:** explains subject choice; but less suited to boys' lower attainment.
 - **Global:** shows structural barriers; but conditions vary within countries too.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-3--05-weighing-explanations.webp" width="900" height="758" alt="A table of seven types of explanation with a strength and limitation each: material, cultural, cultural capital, in-school and labelling, institutional racism, feminist and global. A note says class, ethnicity and gender interact." loading="lazy">
+  <figcaption>The strongest answers show how explanations overlap.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -39,6 +39,11 @@ Links: [Edexcel A Level Economics hub](/boards/edexcel/a-level/economics/), [pri
 
 **Trap.** Inflation falling from 6% to 3% is disinflation, not deflation: the price level is still rising, only more slowly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--11-cpi-rates.webp" width="900" height="830" alt="CPI path showing inflation, slower inflation and deflation. The CPI is 100 in 2025, 104.55 in 2026, 107.0 in 2027 and 105.5 in 2028. The rates are +4.55%, +2.3% and -1.4%, and the last is deflation." loading="lazy">
+  <figcaption>A positive but smaller rate is slower inflation; a negative rate is deflation.</figcaption>
+</figure>
+
 ## 2. Measuring inflation: the CPI (items 2b to 2d)
 
 **How a consumer price index is built**
@@ -81,6 +86,11 @@ Transport prices fell, but because food and housing carry more weight and rose, 
 
 **Producer (wholesale) price index (item 2d).** Measures the prices firms pay for inputs and the prices they charge for output leaving the factory. Rising producer prices are usually passed on to consumers later, so the index is an **early indicator of future CPI inflation**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--10-cpi-weighted.webp" width="900" height="920" alt="The five-group weighted CPI worked example. Weights 30, 35, 15, 10 and 10 with 2026 indices of 106, 103, 110, 98 and 104 give products totalling 10,455, so the CPI is 104.55." loading="lazy">
+  <figcaption>Weights times indices, divided by the total weight, give a CPI of 104.55.</figcaption>
+</figure>
+
 ## 3. Causes of inflation and deflation (items 2e and 2f)
 
 | Cause | Mechanism | AD/AS effect |
@@ -97,6 +107,11 @@ Transport prices fell, but because food and housing carry more weight and rose, 
 
 **Trap.** "Prices rise because demand rises" is not enough: say AD rises faster than capacity, and link it to the price level on an AD/AS diagram.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
 ## 4. Effects of inflation and deflation (item 2g)
 
 | Group or area | Inflation | Deflation |
@@ -111,6 +126,11 @@ Transport prices fell, but because food and housing carry more weight and rose, 
 | Current account | Exports fall and imports rise, worsening the current account | May improve it, though weak domestic demand also cuts imports |
 
 **Worked reminder.** Wages in Country K rise 4% while inflation is 6%. Real wages change by 1.04 / 1.06 - 1 = **-1.9%**: workers can buy less, even though their pay rose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--14-real-pay.webp" width="900" height="870" alt="Pay rise of 3% against a CPI of 104.55. Pay rises from 2,000 to 2,060 but real pay in 2025 prices is 2,060 / 104.55 x 100 = 1,970, a fall of 1.5%." loading="lazy">
+  <figcaption>A 3% pay rise is a fall in real pay when the CPI rises 4.55%.</figcaption>
+</figure>
 
 ## 5. Measuring unemployment (items 3a and 3e)
 
@@ -139,6 +159,11 @@ Inactive       = 30.0 - 24.0 = 6.0m, so 6.0 / 30.0 = 20.0%
 
 **Significance of the three rates (item 3e).** Unemployment can fall because people find jobs (employment rises) or because they give up looking and become inactive. Always check the employment and inactivity rates before saying the labour market has improved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--04-ilo-three-part-test.webp" width="900" height="980" alt="A three-question test: no paid work, available within two weeks, looked in the last four weeks. A no at any step leads to employed or economically inactive; three yes answers mean unemployed." loading="lazy">
+  <figcaption>The ILO test as a decision path.</figcaption>
+</figure>
+
 ## 6. Causes of unemployment (item 3b)
 
 | Type | Cause | Example |
@@ -148,6 +173,11 @@ Inactive       = 30.0 - 24.0 = 6.0m, so 6.0 / 30.0 = 20.0%
 | Structural | Long-term decline of an industry; workers' skills or location do not match the jobs available | Coal miners after mines close |
 | Demand deficiency (cyclical) | Too little aggregate demand, usually in a downturn or recession | Job losses across many industries in a recession |
 | Real wage inflexibility | The real wage is held above the market-clearing level (for example by a minimum wage or union bargaining), so labour supplied exceeds labour demanded | Excess supply of labour at the set wage |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
 
 ## 7. Effects of unemployment (items 3c, 3d and 3f)
 
@@ -163,6 +193,16 @@ Inactive       = 30.0 - 24.0 = 6.0m, so 6.0 / 30.0 = 20.0%
 **Unemployment versus underemployment (item 3d).** Unemployed people have no job. Underemployed people have a job but want more hours than they are given, or work in a job below their skills and qualifications. Underemployment does not appear in the unemployment rate.
 
 **Net migration (item 3f).** Net inward migration of working-age people raises the size of the labour force. It can fill skill shortages and add to demand through migrants' spending, which creates jobs; it may also increase competition for some jobs. The overall effect on unemployment depends on the skills of migrants and the state of the economy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--08-confidence-loop.webp" width="900" height="976" alt="A loop of five steps: households fear for jobs, save more and spend less, firms sell less and expect weak demand, firms postpone investment and hiring, fewer jobs, and back to fear. Cyclical unemployment can feed on itself." loading="lazy">
+  <figcaption>How falling confidence can deepen cyclical unemployment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--11-cost-of-unemployment-to-government.webp" width="900" height="990" alt="Employed worker pays 3,000 income tax and 1,360 sales tax; unemployed receives 6,000 benefit and pays 600 sales tax. Cost to government 6,000 + 3,000 + 760 = 9,760 per person, 488 million for 50,000 people (300 million benefits, 188 million lost tax)." loading="lazy">
+  <figcaption>Why rising unemployment costs the government in benefits and lost tax.</figcaption>
+</figure>
 
 ## 8. Must-know distinctions
 

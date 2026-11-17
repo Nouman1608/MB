@@ -44,6 +44,11 @@ How each works in more detail:
 
 Mass movement is the downslope movement of material under gravity. In cold environments **solifluction** is the slow flow of saturated active-layer soil over frozen ground; in mountains, **rockfalls** and **avalanches** (loose snow or slab) occur on steep slopes, often triggered by loading, warming or vibration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--10-ee-freeze-thaw.webp" width="900" height="790" alt="Three crack panels: water enters, freezes and expands, repeated cycles break rock into scree. Freeze-thaw weathering in three steps." loading="lazy">
+  <figcaption>Freeze-thaw weathering in three steps.</figcaption>
+</figure>
+
 ## Cold environments
 
 - **Glacial:** glaciers erode by **plucking** and **abrasion**. Landforms: corries (cirques), arretes, pyramidal peaks, glacial troughs, hanging valleys, moraines. Think of the glacier as a system: **accumulation**, **ablation**, **mass balance**.
@@ -72,6 +77,16 @@ Ice always flows downhill, even when the snout retreats: retreat means ablation 
 - **Pingo:** a lake drains or fills with sediment; permafrost advances into the saturated ground beneath; water is squeezed upward and freezes into an ice core; the ground domes up. The Tuktoyaktuk Peninsula in Arctic Canada is a well-known pingo area.
 - **Patterned ground:** repeated freezing and thawing sorts stones from fine material, moving larger stones outward into circles or polygons on flat ground and stripes on slopes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--12-ee-periglacial.webp" width="900" height="1010" alt="Permafrost, the active layer, a pingo, solifluction arrows and patterned ground. Frozen ground below a summer-thawed active layer, with a pingo, solifluction and patterned ground." loading="lazy">
+  <figcaption>Frozen ground below a summer-thawed active layer, with a pingo, solifluction and patterned ground.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--11-ee-glacial-landforms.webp" width="900" height="1010" alt="A labelled cross-section with trough, hanging valley with waterfall, moraine, arete and corrie. Landforms left by a glacier, shown in cross-section and not to scale." loading="lazy">
+  <figcaption>Landforms left by a glacier, shown in cross-section and not to scale.</figcaption>
+</figure>
+
 ## Arid environments
 
 - Wind transport: saltation, suspension, surface creep. Wind erosion: deflation, abrasion.
@@ -93,6 +108,11 @@ Ice always flows downhill, even when the snout retreats: retreat means ablation 
 | Weathering and water | Mesa and butte | Flat-topped hills where a resistant caprock protects softer rock below; a butte is a smaller remnant (Monument Valley in the south-western USA is a classic example) |
 
 **Desert pavement** (reg) forms where deflation removes fine particles, leaving a protective layer of stones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--13-ee-wind-transport.webp" width="900" height="1080" alt="Suspension, saltation and surface creep, plus deflation and abrasion. Three ways wind transports sediment, and two ways it erodes." loading="lazy">
+  <figcaption>Three ways wind transports sediment, and two ways it erodes.</figcaption>
+</figure>
 
 ## Mountain environments
 

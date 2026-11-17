@@ -49,6 +49,21 @@ Related: [Medieval wars study guide](/resources/ib-ib-dp-world-history-dp-histor
 - *Practices*: blockade by land and sea; giant cannon; ships hauled overland into the Golden Horn.
 - *Effects*: end of Byzantium; new Ottoman capital; Ottoman control of the straits; Greek scholars moved west.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2--01-example-wars.webp" width="900" height="750" alt="A timeline from 1050 to 1500 places six example wars: the First Crusade (1095-1099), the Mongol invasions of Japan (1274 and 1281), the Mongol conquest of the Song (completed 1279), the Hundred Years' War (1337-1453), the Ottoman conquest of Constantinople (1453) and the Wars of the Roses (1455-1487)." loading="lazy">
+  <figcaption>The example wars spread across four and a half centuries and several regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2--04-tide-turns.webp" width="900" height="738" alt="A vertical timeline of the Hundred Years' War. English victories at Crécy (1346), Poitiers (1356) and Agincourt (1415) came from longbowmen with dismounted men-at-arms. Joan of Arc's role at Orléans and Reims (1429) restored French morale. French artillery and organisation won at Formigny (1450) and Castillon (1453)." loading="lazy">
+  <figcaption>Tactics won England its battles; artillery and organisation won France the war.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2--05-japan-won-without-gain.webp" width="900" height="634" alt="Three reasons the Mongol invasions failed: storms destroyed much of the fleet, a defensive wall along Hakata Bay, and hastily built ships that were hard to supply. A chain follows: the invasions were defeated but brought no conquered land, so warriors went unrewarded, the shogunate lost support and the Kamakura regime fell in 1333." loading="lazy">
+  <figcaption>Japan won, but with no spoils the Kamakura shogunate could not reward its warriors.</figcaption>
+</figure>
+
 ## Types of medieval war
 
 | Type | Definition | Example |
@@ -69,6 +84,16 @@ Related: [Medieval wars study guide](/resources/ib-ib-dp-world-history-dp-histor
 | Economic | Who gained from trade, plunder or ransom? |
 | Political | Did a ruler need war to secure authority at home? |
 | Trigger | What turned tension into fighting in that year? |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2--03-crusade-motives.webp" width="900" height="617" alt="Urban II's appeal at Clermont in November 1095, answering Alexios I's request for help against the Seljuk Turks, leads to three groups of motives: religion (spiritual rewards, freeing eastern Christians, recovering Jerusalem), material gain (land for younger sons, trade for Italian cities) and papal leadership over Christendom." loading="lazy">
+  <figcaption>Religion mobilised the crusade, but land, trade and papal power mattered too.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2--02-hundred-years-causes.webp" width="900" height="611" alt="Four long-term causes of the Hundred Years' War: friction over Gascony, which Edward III held as a vassal of the French king; the disputed succession of 1328; French support for Scotland; and English interests in Flanders. An arrow leads to the 1337 trigger: Philip VI confiscates Gascony and Edward claims the French crown." loading="lazy">
+  <figcaption>Several long-term disputes; one confiscation in 1337 turned them into war.</figcaption>
+</figure>
 
 ## Key terms
 

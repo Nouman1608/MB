@@ -33,6 +33,11 @@ These notes condense section 3.4 Sound of the Cambridge IGCSE Physics 0625 sylla
 | Ultrasound | frequency above 20 kHz (20 000 Hz) |
 | Speed of sound in air | about 330–350 m/s |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--03-audible-range.webp" width="900" height="532" alt="A frequency scale: humans hear from about 20 Hz to 20 000 Hz, and sound above 20 kHz is ultrasound. With a speed of 340 m/s, a 20 Hz sound has a wavelength of 17 m and a 20 000 Hz sound 0.017 m." loading="lazy">
+  <figcaption>Humans hear 20 Hz to 20 kHz; ultrasound is above 20 kHz.</figcaption>
+</figure>
+
 ## Production and nature (Core)
 
 - Sound is produced by **vibrating** sources (strings, loudspeaker cones, vocal cords, tuning forks).
@@ -40,6 +45,11 @@ These notes condense section 3.4 Sound of the Cambridge IGCSE Physics 0625 sylla
 - Particles vibrate about fixed positions; **energy** is transferred, not the air.
 - A **medium** (solid, liquid or gas) is needed: sound cannot travel through a vacuum.
 - Bell-in-a-jar: pump the air out and the ringing fades although the hammer is still seen moving; let air in and the sound returns.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--02-bell-in-a-vacuum.webp" width="900" height="620" alt="An electric bell rings inside a sealed glass jar. With air in the jar it is heard; as a vacuum pump removes the air the sound fades until it can hardly be heard, although the hammer can still be seen striking the bell." loading="lazy">
+  <figcaption>Sound is passed on by particles, so it cannot cross a vacuum.</figcaption>
+</figure>
 
 ## Extended only
 
@@ -49,6 +59,11 @@ These notes condense section 3.4 Sound of the Cambridge IGCSE Physics 0625 sylla
 - Speed: generally **solids > liquids > gases**.
 - Typical given values: air about 340 m/s, water about 1500 m/s, steel several thousand m/s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--01-compressions-rarefactions.webp" width="900" height="600" alt="A vibrating loudspeaker cone sends a series of compressions (particles close together, higher pressure) and rarefactions (particles spread out, lower pressure) through the air. The particles vibrate back and forth along the direction of travel. The wavelength is from the centre of one compression to the centre of the next." loading="lazy">
+  <figcaption>Compressions and rarefactions travel; the particles only vibrate in place.</figcaption>
+</figure>
+
 ## Loudness and pitch (Core)
 
 | Property of the wave | Heard as | Trace on a screen |
@@ -57,6 +72,11 @@ These notes condense section 3.4 Sound of the Cambridge IGCSE Physics 0625 sylla
 | Frequency ↑ | higher pitch | waves closer together |
 
 - The two are independent: change one without the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--04-loudness-and-pitch.webp" width="900" height="600" alt="Four traces on the same scales. Compared with the original, a louder sound has taller peaks with the same spacing; a higher-pitched sound has more waves across the same width with the same height; a louder, higher sound has both." loading="lazy">
+  <figcaption>Amplitude sets loudness; frequency sets pitch.</figcaption>
+</figure>
 
 ## Echoes and speed of sound (Core)
 
@@ -78,6 +98,11 @@ These notes condense section 3.4 Sound of the Cambridge IGCSE Physics 0625 sylla
 3. Time a large number n of intervals; one interval t = total time ÷ n.
 4. Speed = 2d ÷ t.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--05-echo-speed-of-sound.webp" width="900" height="676" alt="A student 85 m from a wall claps; the sound travels 85 m to the wall and 85 m back. Timing 20 intervals between claps that coincide with echoes gives 10.2 s, so each interval is 0.51 s and the speed is 170 / 0.51 = 333 m/s." loading="lazy">
+  <figcaption>An echo travels there and back: double the distance.</figcaption>
+</figure>
+
 ## Ultrasound uses (Extended only)
 
 | Use | What reflects the pulse |
@@ -87,6 +112,11 @@ These notes condense section 3.4 Sound of the Cambridge IGCSE Physics 0625 sylla
 | Sonar | Sea bed or shoal of fish |
 
 **Depth or distance = (speed × time) ÷ 2**, where time is from sending the pulse to receiving the echo.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-sound-cambridge-igcse-physics--06-ultrasound-flaw.webp" width="900" height="792" alt="An ultrasound probe on one end of a 0.30 m steel section receives an echo from the far end after 1.0 × 10⁻⁴ s and a smaller, earlier echo after 4.0 × 10⁻⁵ s. The speed is 2 × 0.30 / 1.0 × 10⁻⁴ = 6000 m/s, so the flaw is 6000 × 4.0 × 10⁻⁵ / 2 = 0.12 m from the end." loading="lazy">
+  <figcaption>distance = speed × time ÷ 2; an earlier, extra echo means a flaw.</figcaption>
+</figure>
 
 ## Key terms
 

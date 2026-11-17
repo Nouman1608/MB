@@ -50,6 +50,11 @@ Fertility and mortality are driven by **social** (education, status of women), *
 
 **4.4 Management of natural increase** needs a **named, locatable case study** of a real country's population policy (for example, an anti-natalist or pro-natalist programme), covering what the policy did *and* how effectively it worked — description alone answers AO1, not the AO4 evaluation the question is usually testing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--01-human-three-topics.webp" width="900" height="950" alt="Three bands for Population (4), Migration (5) and Settlement dynamics (6), each with four sub-topics 4.1 to 6.4. Arrows show that population change sets up why people move, and that both feed into settlement change. Star markers show the sub-topics that need a named case study: 4.4, 5.4, 6.1 and 6.4." loading="lazy">
+  <figcaption>The three Paper 2 topics build on each other, and four sub-topics call for a named case study.</figcaption>
+</figure>
+
 ## Migration (5.1–5.4)
 
 **Migration** here excludes moves under one year's duration. **Push factors** drive people away (conflict, poverty, environmental hazard); **pull factors** attract them (jobs, safety, services). **Chain migration** — later migrants follow an established social network from earlier migrants to the same destination. Migration is shaped by **distance** (distance decay — fewer migrants the further the destination) and **age** (young adults migrate most), and constrained by **barriers** — cost, visas, national borders, family ties.
@@ -59,6 +64,16 @@ Fertility and mortality are driven by **social** (education, status of women), *
 **International migration** is either **voluntary** (economic migration, seeking better opportunity) or **forced/involuntary** (conflict, persecution — refugee flows). Both types have impacts on **source areas** (remittances but loss of workforce — "brain drain") and **destination areas** (labour supply, cultural change, pressure on services).
 
 **5.4 Management of international migration** needs a **named case study of one migration stream** — its cause, character, scale, pattern and impact on both ends — again assessed for how well any management response actually worked.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--05-human-migration-types.webp" width="900" height="760" alt="A tree. Migration (movements shorter than one year excluded) splits into internal and international. Internal migration has four types: rural to urban, urban to rural, urban to urban, and intra-urban movement within a city. International migration is voluntary (for example economic migration) or forced (for example refugee flows)." loading="lazy">
+  <figcaption>Internal migration stays inside one country; international migration crosses borders and may be voluntary or forced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--06-human-stepped-migration.webp" width="900" height="830" alt="Four rising steps show an illustrative settlement hierarchy: village, small town, large town and city. A person moves up one step at a time (stepped migration) with three short arrows. A single long dashed arrow from village to city shows a direct rural to urban move for comparison." loading="lazy">
+  <figcaption>In stepped migration people move up the settlement hierarchy one level at a time, rather than going straight to the largest city.</figcaption>
+</figure>
 
 ## Settlement (6.1–6.3) and its management (6.4)
 
@@ -70,9 +85,19 @@ Fertility and mortality are driven by **social** (education, status of women), *
 
 **6.4 Management of urban settlements** requires **two** named case studies: a **shanty town/squatter settlement** in an LIC or MIC (its causes and a management response — upgrading, relocation, sites-and-services), and the **provision of infrastructure** (power or transport) for a city. Keep these as two separate, specific, locatable examples — conflating them, or substituting a generic description for a real place, loses marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--04-human-case-studies.webp" width="900" height="920" alt="A checklist of the five case studies the syllabus requires: a country's population policy (4.4), an international migration stream (5.4), a rural settlement or area (6.1), a shanty town in an LIC or MIC (6.4) and power or transport provision for a city (6.4). Each row has three ticks: a named place, real data and an evaluation. Below, three tiles for LIC, MIC and HIC remind students to spread examples across income groups." loading="lazy">
+  <figcaption>Prepare each case study with a named place, real data and a judgement of how well it worked, and spread examples across income groups.</figcaption>
+</figure>
+
 ## Assessment objectives to keep in view
 
 Paper 2 splits 30% AO1 (knowledge), 30% AO2 (application/understanding of process), 28% AO3 (data interpretation) and **12% AO4 (evaluation)**. Every "management" sub-topic (4.4, 5.4, 6.4) is where AO4 is concentrated — a revision note or answer that only narrates what a policy or scheme did, without judging how well it worked or whose interests it served, has answered the wrong assessment objective for that content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--02-human-ao-weights.webp" width="900" height="920" alt="Horizontal bars show Paper 2 mark weightings: AO1 knowledge 30 percent, AO2 understanding and applying 30 percent, AO3 interpreting data 28 percent and AO4 evaluating 12 percent, totalling 100. A callout says the three management case studies (4.4, 5.4, 6.4) earn their marks in AO4, by judging how well a scheme worked and for whom, not just describing it." loading="lazy">
+  <figcaption>AO4 is only 12% of the marks, but it is where the management case studies earn theirs.</figcaption>
+</figure>
 
 ## Quick self-test
 

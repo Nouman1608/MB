@@ -41,6 +41,11 @@ These notes condense section 4.5 Electromagnetic effects of the Cambridge IGCSE 
 - **Extended only:** the induced e.m.f. **opposes the change** causing it (N pole pushed in → near end of coil becomes N).
 - **Extended only:** Fleming's **right-hand** rule: thumb = motion, first finger = field, second finger = induced current.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--02-induction-magnet-and-coil.webp" width="900" height="700" alt="A bar magnet is pushed, N pole first, into a coil connected to a meter: the near end of the coil becomes an N pole that repels the magnet. Pulling it out makes the near end an S pole that attracts it, and the meter deflects the other way. A bigger e.m.f. comes from faster movement, a stronger magnet or more turns." loading="lazy">
+  <figcaption>The induced current always opposes the movement that causes it.</figcaption>
+</figure>
+
 ## 4.5.2 a.c. generator (Extended only)
 
 - Rotating coil in a field (or rotating magnet in a coil).
@@ -48,6 +53,11 @@ These notes condense section 4.5 Electromagnetic effects of the Cambridge IGCSE 
 - Coil plane **parallel** to field → e.m.f. **maximum**.
 - Coil plane **perpendicular** to field → e.m.f. **zero**.
 - e.m.f. reverses every half turn. Faster → higher peaks and higher frequency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--03-ac-generator-emf-time.webp" width="900" height="720" alt="An e.m.f.–time graph for one turn of a coil between N and S poles. The e.m.f. is zero when the coil is perpendicular to the field and at a peak or trough when it is parallel to the field. A dashed curve for faster spinning has higher peaks and more cycles in the same time." loading="lazy">
+  <figcaption>Peaks when the coil is parallel to the field, zero when perpendicular.</figcaption>
+</figure>
 
 ## 4.5.3 Magnetic effect of a current
 
@@ -58,6 +68,11 @@ These notes condense section 4.5 Electromagnetic effects of the Cambridge IGCSE 
 - **Loudspeaker:** varying current in a coil in a magnet's field → coil and cone vibrate → sound.
 - **Extended only:** field weaker further from a wire; more current → stronger field; reversed current → reversed field.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--04-wire-and-solenoid-fields.webp" width="900" height="720" alt="End view of a straight wire with current out of the page, surrounded by anticlockwise concentric circles that get further apart with distance. A solenoid with current flowing down the front of each turn has strong, parallel field lines inside running from S to N and a bar-magnet-like field outside, with the N pole at the right-hand end." loading="lazy">
+  <figcaption>Right-hand grip rule: thumb along the current for a wire; thumb to the N pole for a solenoid.</figcaption>
+</figure>
+
 ## 4.5.4 Force on a conductor
 
 - Current at right angles to a field → force at right angles to both.
@@ -65,11 +80,21 @@ These notes condense section 4.5 Electromagnetic effects of the Cambridge IGCSE 
 - **Extended only:** Fleming's **left-hand** rule: first finger = field, second finger = current, thumb = force.
 - **Extended only:** charged beams: positive particles, current along their motion; electrons, current **opposite** to their motion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--05-force-on-conductor.webp" width="900" height="560" alt="Four end views of a wire between magnetic poles. Reversing the current reverses the force, reversing the field reverses the force, and reversing both leaves the force unchanged. For Extended, an electron beam is treated as a current in the opposite direction to the electrons' motion." loading="lazy">
+  <figcaption>Reverse one of current or field and the force reverses; reverse both and it does not.</figcaption>
+</figure>
+
 ## 4.5.5 d.c. motor
 
 - Coil in a field with a current experiences a **turning effect**.
 - Bigger turning effect: **more turns**, **larger current**, **stronger field**.
 - **Extended only:** forces on the two sides are opposite; **split-ring commutator** reverses the coil current every half turn; **brushes** make sliding contact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--05-dc-motor.webp" width="900" height="1278" alt="Three end views of a coil between N and S poles with a split-ring commutator and brushes. Forces on the two sides are opposite so the coil turns clockwise; when the gaps reach the brushes the current reverses, so the coil keeps turning the same way." loading="lazy">
+  <figcaption>The split-ring commutator reverses the coil current every half turn so the forces keep turning the coil the same way.</figcaption>
+</figure>
 
 ## 4.5.6 Transformer
 
@@ -80,6 +105,16 @@ These notes condense section 4.5 Electromagnetic effects of the Cambridge IGCSE 
 - **Extended only:** a.c. in primary → **changing** field in core → alternating e.m.f. induced in secondary. No output with d.c.
 - **Extended only:** higher voltage → lower current → I²R loss falls with the square of the current.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--06-transformer-worked-example.webp" width="900" height="598" alt="A soft-iron core with a primary coil of 2300 turns on 230 V a.c. and a secondary coil giving 6.0 V at 0.50 A. Ns = 2300 × 6.0 / 230 = 60 turns, and for Extended Ip = (0.50 × 6.0) / 230 = 0.013 A. An alternating current makes a changing field in the core that induces an e.m.f. in the secondary." loading="lazy">
+  <figcaption>Vp/Vs = Np/Ns; with 100% efficiency IpVp = IsVs, so stepping voltage down steps current up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--07-transmission-losses.webp" width="900" height="640" alt="Sending 20 MW through 5.0 Ω cables: at 400 kV the current is 50 A and the loss is 12.5 kW, a tiny fraction; at 20 kV the current is 1000 A and the loss is 5.0 MW, a quarter of the power sent. Twenty times the voltage gives one twentieth of the current and one four-hundredth of the loss." loading="lazy">
+  <figcaption>Higher voltage, smaller current, much smaller I²R loss in the cables.</figcaption>
+</figure>
+
 ## Generator or motor?
 
 | | Motor effect | Induction (generator) |
@@ -88,6 +123,11 @@ These notes condense section 4.5 Electromagnetic effects of the Cambridge IGCSE 
 | Output | Force, motion | Induced e.m.f., current |
 | Hand rule (Extended only) | Left | Right |
 | Connection to rotating coil (Extended only) | Split-ring commutator | Slip rings (for a.c.) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--01-motor-effect-vs-induction.webp" width="900" height="690" alt="Motor effect: current plus magnetic field gives a force, transferring electrical energy to kinetic. Induction: motion plus magnetic field gives an induced e.m.f., transferring kinetic energy to electrical. For Extended, the left-hand rule (motors) and right-hand rule (generators) both use the first finger for field and second finger for current, with the thumb for motion; the two rules give opposite current directions for the same field and motion." loading="lazy">
+  <figcaption>Left hand for motors, right hand for generators: First finger Field, seCond finger Current, thumb motion.</figcaption>
+</figure>
 
 ## Key terms
 

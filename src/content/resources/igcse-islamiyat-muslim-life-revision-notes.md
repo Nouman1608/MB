@@ -41,6 +41,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Shahadah is the foundation**, because accepting it is what makes a person a Muslim; the other four are practices that follow from that belief. Questions on "which pillar is most important" reward that reasoning rather than a bare assertion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--02-pillars-conditions-significance.webp" width="900" height="618" alt="A table of the Five Pillars with their practice, conditions and significance: salah has prescribed times and needs wudu; zakat applies only above the nisab; sawm exempts the ill, travelling, pregnant, nursing and elderly; hajj is only for those physically and financially able." loading="lazy">
+  <figcaption>Conditions and significance are where marks are won or lost.</figcaption>
+</figure>
+
 ## Salah
 
 Five prayers daily: **Fajr** (dawn), **Zuhr** (midday), **Asr** (afternoon), **Maghrib** (sunset), **Isha** (night).
@@ -53,6 +58,16 @@ Prayer is performed facing the **Qiblah** (the direction of the Ka'bah in Makkah
 
 **Significance:** regular remembrance of God, discipline, equality (all stand in rows regardless of status), and unity across the world through the shared direction and timing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--05-daily-prayers.webp" width="900" height="640" alt="A schematic arc of the sun's path marks the five prayers: Fajr at dawn, Zuhr at midday, Asr in the afternoon, Maghrib at sunset and Isha at night. Cards add facing the Qiblah, rak'ahs and wudu, and contrast Salah with du'a and private prayer with Jummah." loading="lazy">
+  <figcaption>Five prescribed times from dawn to night, all facing the Qiblah.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--06-rakah-pattern.webp" width="900" height="765" alt="Five stages of each rak’ah in order: standing and reciting al-Fatiha, bowing, standing again, two prostrations and sitting, with the words said in bowing and prostration. The prayer ends with the tashahhud, blessings on the Prophet (pbuh) and the salam." loading="lazy">
+  <figcaption>Every rak’ah follows the same pattern, recited in Arabic.</figcaption>
+</figure>
+
 ## Zakat and Sawm
 
 **Zakat** purifies wealth and reduces inequality. It is an obligation rather than voluntary charity — **sadaqah** is the voluntary form. Distinguishing the two is a common question.
@@ -63,6 +78,16 @@ Prayer is performed facing the **Qiblah** (the direction of the Ka'bah in Makkah
 
 Zakat applies only above the **nisab** threshold, a minimum level of qualifying wealth — below it, no payment is due. This condition is a common omission worth noting explicitly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--07-zakat-significance.webp" width="900" height="498" alt="A worked answer in three layers. For the individual, zakat purifies wealth and treats it as a trust from God. For the community, it redistributes to the poor, orphans, travellers and the indebted, reduces inequality and strengthens mutual responsibility. The key point: it is obligatory worship, unlike voluntary sadaqah." loading="lazy">
+  <figcaption>Individual, community, then the zakat–sadaqah distinction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--02-the-fasting-day.webp" width="900" height="506" alt="A day bar: suhoor is eaten before true dawn, the fast runs from Fajr to Maghrib with no food, drink or sexual relations and no lying, backbiting or anger, and iftar is taken promptly at sunset. A note explains the intention before dawn and the white and black thread of 2:187." loading="lazy">
+  <figcaption>The fast runs from true dawn to sunset, framed by suhoor and iftar.</figcaption>
+</figure>
+
 ## Hajj
 
 Performed in Dhul-Hijjah. Key rites: **Ihram** (state of purity and simple white garments), **Tawaf** (seven circuits of the Ka'bah), **Sa'i** (walking between Safa and Marwah), standing at **Arafat**, stoning the pillars at Mina, and the sacrifice.
@@ -71,16 +96,31 @@ Performed in Dhul-Hijjah. Key rites: **Ihram** (state of purity and simple white
 
 Standing at **Arafat** is the essential rite: pilgrims spend the afternoon of the ninth of Dhul-Hijjah there in prayer and supplication. It is also the site of the Prophet's Farewell Sermon, delivered there — one significant association among others, not the whole of what the rite involves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--03-hajj-rites.webp" width="900" height="622" alt="Six rites in order: ihram, tawaf (seven circuits of the Ka'bah), sa'i between Safa and Marwah, standing at Arafat (highlighted as the essential rite), stoning the pillars at Mina and the sacrifice. Below, the chain of meaning: identical white garments make wealth and status invisible, so all stand equal before God." loading="lazy">
+  <figcaption>Name the rites, then explain the equality the white garments symbolise.</figcaption>
+</figure>
+
 ## Articles of faith
 
 Six beliefs shape the Muslim worldview: **tawhid** (the oneness of God), belief in the **angels**, the revealed **books**, the **prophets**, the **Day of Judgement**, and **al-qadr** (divine decree).
 
 **Tawhid is the foundation**, and its opposite — **shirk**, associating partners with God — is the gravest sin. Its practical consequences run through everything: worship directed to God alone, no intermediaries, and the equality of all believers before Him.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--04-tawhid-consequences.webp" width="900" height="522" alt="Tawhid, the oneness of God, branches into three practical consequences: worship directed to God alone, no intermediaries, and the equality of all believers. Below, its opposite, shirk, is marked as the gravest sin." loading="lazy">
+  <figcaption>Tawhid is a belief with practical consequences for worship and equality.</figcaption>
+</figure>
+
 ## Festivals
 
 - **Eid-ul-Fitr** — marks the end of Ramadan; charity (Zakat-ul-Fitr) is given before the prayer.
 - **Eid-ul-Adha** — during Hajj; commemorates Ibrahim's willingness to sacrifice his son. The **qurbani meat is traditionally shared in three parts** — family, relatives, and the poor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--06-the-two-eids.webp" width="900" height="556" alt="Eid-ul-Fitr marks the end of Ramadan, with zakat-ul-fitr given before the prayer. Eid-ul-Adha falls during Hajj, commemorates Ibrahim's willingness to sacrifice his son, and its qurbani meat is shared in three parts: family, relatives and the poor." loading="lazy">
+  <figcaption>Fitr ends Ramadan; Adha falls during Hajj and recalls Ibrahim.</figcaption>
+</figure>
 
 ## Daily life and worship
 

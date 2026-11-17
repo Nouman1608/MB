@@ -60,6 +60,11 @@ Paper 2 (Writing).
 کے سامنے (opposite) · کے پیچھے (behind) · کے پاس / کے قریب (near) · کے ساتھ (next to) ·
 کے درمیان (between) · سے دور (far from).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood--01-location-postpositions.webp" width="900" height="760" alt="Seven pictograms of a dot placed relative to a building: کے سامنے opposite or in front of, کے پیچھے behind, کے پاس / کے قریب near, کے ساتھ next to, کے درمیان between, کے اندر / کے باہر inside or outside, and سے دور far from, which takes سے rather than کے." loading="lazy">
+  <figcaption>Compound postpositions with کے place things; دور is the exception and takes سے.</figcaption>
+</figure>
+
 ## Directions toolkit
 
 | English | Urdu |
@@ -73,12 +78,22 @@ Paper 2 (Writing).
 | It is five minutes' walk | پانچ منٹ کا پیدل راستہ ہے |
 | You will see it on your right | آپ کو دائیں طرف نظر آئے گا |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood--03-directions-plan.webp" width="900" height="840" alt="A street plan of the worked example: go straight on (سیدھے جائیے), turn left into the second street (بائیں طرف دوسری گلی میں مڑ جائیے), and the library is opposite the mosque (لائبریری مسجد کے سامنے ہے), about ten minutes’ walk from here." loading="lazy">
+  <figcaption>Sketch directions as you read: each turn and each کے سامنے on a rough plan.</figcaption>
+</figure>
+
 ## Four structures to deploy
 
 1. **There is / there are:** ہمارے علاقے میں ایک بڑا ہسپتال ہے; یہاں تین اسکول ہیں.
 2. **Comparison:** شہر گاؤں سے زیادہ مصروف ہے; یہ علاقے کی سب سے پرانی مسجد ہے.
 3. **Then and now:** پہلے یہاں ایک ہی دکان تھی، اب پورا بازار ہے.
 4. **Wish or condition:** اگر یہاں ایک لائبریری ہوتی تو طلبہ کو بہت فائدہ ہوتا.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood--02-there-is-and-oblique.webp" width="900" height="866" alt="Saying what there is uses a place phrase with ہے or ہیں, as in ہمارے محلے میں ایک بڑا پارک ہے and یہاں دو اسکول ہیں. Before a postposition, masculine nouns ending in ہ change: محلہ becomes محلے میں, کمرہ becomes کمرے میں, قصبہ becomes قصبے سے." loading="lazy">
+  <figcaption>Match ہے or ہیں to the number of things, and use the oblique before میں and سے.</figcaption>
+</figure>
 
 ## Useful opposites
 
@@ -96,12 +111,22 @@ Paper 2 (Writing).
 - گرمیوں میں یہاں بہت گرمی پڑتی ہے — it gets very hot here in summer.
 - یہ علاقہ اپنے آموں کے لیے مشہور ہے — this area is famous for its mangoes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood--05-region-weather-detail.webp" width="900" height="712" alt="Landscape words (پہاڑی علاقہ, میدانی علاقہ, ساحلی شہر, صحرا, دریا), the weather idiom گرمی / سردی پڑنا as in گرمیوں میں یہاں بہت گرمی پڑتی ہے rather than یہ گرم ہے, and ... کے لیے مشہور ہے for one specific detail such as mangoes." loading="lazy">
+  <figcaption>Use گرمی پڑنا for the weather and کے لیے مشہور ہے for one memorable detail.</figcaption>
+</figure>
+
 ## A model mini-paragraph
 
 > میں ایک ساحلی شہر میں رہتا ہوں۔ ہمارا فلیٹ تیسری منزل پر ہے اور اس کی کھڑکی سے سمندر نظر آتا
 > ہے۔ ہمارے محلے میں ایک بڑی مسجد، ایک اسکول اور کئی دکانیں ہیں۔ پہلے یہاں ٹریفک بہت کم تھی، لیکن
 > اب سڑکیں ہر وقت مصروف رہتی ہیں۔ مجھے اپنا علاقہ پسند ہے، مگر اگر یہاں زیادہ پارک ہوتے تو بچوں کے
 > لیے بہتر ہوتا۔
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood--04-describing-your-area.webp" width="900" height="912" alt="Five lines from the model answer: where you live (میں ایک چھوٹے قصبے میں رہتی ہوں), what there is, how it has changed with پہلے ... لیکن اب, an opinion with کیونکہ, and one improvement as a condition (اگر یہاں ایک کھیل کا میدان بن جائے تو ...)." loading="lazy">
+  <figcaption>Place, amenities, change, opinion, improvement: a strong structure for this topic.</figcaption>
+</figure>
 
 ## Translation checklist
 

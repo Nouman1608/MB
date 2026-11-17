@@ -31,6 +31,11 @@ schools may be required to submit to check the authenticity of a student's work.
 
 Paper 1 stays at 35% at both levels, but Paper 2 drops from 35% at SL to 25% at HL, with the difference absorbed by the HL essay (20%), which only HL students complete. The individual oral also carries relatively more weight at SL (30%) than at HL (20%). This shift is worth keeping in mind for revision planning -- at SL, Paper 2 and the oral together account for 65% of the final grade, making comparative essay writing and spoken literary analysis especially high-value skills at that level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-hl-essay--11-hl-at-a-glance.webp" width="900" height="936" alt="The HL essay is written coursework of 1,200 to 1,500 words on one work studied, for higher level only. A bar chart compares the share of the final grade at standard level and higher level. Paper 2 falls from 35 percent to 25 percent. The individual oral falls from 30 percent to 20 percent. The essay is 20 percent at higher level and does not exist at standard level, so the 10 points lost from each of Paper 2 and the oral make up the essay's 20 percent." loading="lazy">
+  <figcaption>At HL the essay is worth 20% of the final grade, taking 10 points from Paper 2 and 10 from the individual oral.</figcaption>
+</figure>
+
 ## SL vs HL weightings
 
 | Component | SL | HL |
@@ -41,6 +46,16 @@ Paper 1 stays at 35% at both levels, but Paper 2 drops from 35% at SL to 25% at 
 | Individual oral | 30% | 20% |
 
 Paper 1 always sets two unseen literary extracts, but the number a student actually analyses depends on level: at SL, students write a guided analysis of **one** of the two passages (1 hour 15 minutes, 20 marks); at HL, students write a guided analysis of **both** passages (2 hours 15 minutes, 40 marks). The 35% weighting is identical at both levels, but the paper itself is longer and worth double the marks at HL.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-1-guided-literary-analysis--05-p1-time-split.webp" width="900" height="972" alt="A tall bar shows the 75 minutes of one SL analysis: 15 for the question and readings, 10 for thesis and plan, 5 for introduction, 35 for body paragraphs, 5 for conclusion, 5 for checking. A second bar shows 135 HL minutes split 65, 65 and 5 spare." loading="lazy">
+  <figcaption>Plan the 75 minutes, and at HL with two passages split 135 minutes into 65, 65 and 5 spare.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-paper-2-comparative-essay--06-p2-format.webp" width="900" height="1042" alt="One question is chosen from four. The essay compares two literary works in 1 hour 45 minutes at both levels. Two grids of 100 squares show Paper 2 is worth 35 per cent of the final grade at SL and 25 per cent at HL." loading="lazy">
+  <figcaption>Paper 2 asks for a comparison of two works in 1 h 45 min, worth 35% at SL and 25% at HL.</figcaption>
+</figure>
 
 ## How this differs from Language A: Language and Literature
 
@@ -54,13 +69,28 @@ literary texts** — Language and Literature's Paper 1 works with a wider range 
   **two** studied literary works, supported by an extract from each -- one from a work written
   originally in the language studied, and one from a work studied in translation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--01-ns57-oral-requirements.webp" width="900" height="1090" alt="One work in the language studied and one work studied in translation both approach a common global issue. Arrows run from each book to a globe, and labels show you analyse voice, imagery, structure and form. Two works in one language are marked as not allowed, and the oral is shown as internally assessed at 30% SL and 20% HL." loading="lazy">
+  <figcaption>The oral pairs one work in the language studied with one in translation around a common global issue.</figcaption>
+</figure>
+
 ## The individual oral in more depth
 
 The oral is graded against criteria covering: **knowledge and understanding** of both studied works and their context; the quality of **analysis** connecting the chosen global issue to how it is presented in each extract; **focus and organisation** within the fixed preparation and speaking time; and **language**. The guide sets no order in which the two extracts must be discussed -- they can be interwoven or taken in turn -- but the oral should be one well-supported argument about how both works represent and explore the global issue, and where an extract comes from a larger work, relevant aspects of that work as a whole should be discussed too. A common weakness is spending most of the available time on the first work and only briefly gesturing at the second; plan a balanced treatment that develops both works, not a detailed analysis of one followed by a token mention of the other. An oral built on two works originally written in the language studied, or on two works in translation, does not meet the requirements of the task.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--06-ns57-oral-structure.webp" width="900" height="730" alt="Two panels compare structures. Work by work runs in six numbered steps from introduction to comparison and conclusion. Point by point moves between work A and work B on each aspect, and needs careful signposting." loading="lazy">
+  <figcaption>Two common oral structures: work by work, or point by point.</figcaption>
+</figure>
+
 ## The HL essay in more depth
 
 The HL essay is independent coursework on **one** literary text or work studied during the course (where the work is a collection of short stories, poems or other short texts, the essay must refer to more than one text from within that single work). Teachers give regular formative feedback throughout the process but must not edit or correct the student's writing directly. Only near the end of the writing process may a teacher give written advice on **one** complete draft -- typically by annotating it with comments or questions in the margin -- and under no circumstances may a teacher edit or rewrite that draft. The next version the student submits after that draft must be the final one. The essay is assessed against criteria covering the clarity and sustained development of a chosen line of inquiry, the quality of textual analysis, and organisation and language appropriate to formal academic writing. Because it is completed outside exam conditions, examiners expect deeper, more sustained argument and more precisely selected textual evidence than a timed in-class essay would produce -- treating it as simply a longer exam response, rather than genuinely independent extended writing, tends to underperform against the higher assessment bands.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-hl-essay--13-hl-three-ways-in.webp" width="900" height="944" alt="One work at the top, Chopin's &quot;The Story of an Hour&quot;, branches into three kinds of question, one per area of exploration. Readers, writers and texts asks how the narration moves in and out of Louise's thoughts. Time and space asks how a reader in 1894 and a reader today might judge her wish to &quot;live for herself&quot; differently. Intertextuality: connecting texts asks how allusions give an hour in a bedroom the scale of myth. A note says that on one work, connecting texts means the work's own conventions and allusions; comparison is Paper 2's job." loading="lazy">
+  <figcaption>Each area of exploration suggests a different kind of question about the same single work.</figcaption>
+</figure>
 
 ## Command terms across the papers
 

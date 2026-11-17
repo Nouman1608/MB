@@ -56,6 +56,16 @@ Recall notes for **sub-topic 2.4 Wholesaling** in Cambridge O Level Commerce (71
 - **Preparing goods**: grading, packing, labelling, price-marking.
 - **Steadier supplies and prices**: storing seasonal goods and releasing them over time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--01-breaking-bulk.webp" width="900" height="535" alt="A manufacturer sells biscuits by the pallet of 2,000 packets; the wholesaler splits the pallet into cases; a corner shop buys perhaps 48 packets." loading="lazy">
+  <figcaption>Breaking bulk lets small retailers buy from large producers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--02-wholesaler-functions.webp" width="900" height="570" alt="Nine tiles: breaking bulk, warehousing, bearing risk, financing, transport, providing a range, information and advice, preparing goods for sale, and keeping supplies and prices steady." loading="lazy">
+  <figcaption>Name the function, then explain why it matters to the manufacturer or retailer in the question.</figcaption>
+</figure>
+
 ## Importance: two-column recall
 
 | Manufacturer gains | Retailer gains |
@@ -68,6 +78,16 @@ Recall notes for **sub-topic 2.4 Wholesaling** in Cambridge O Level Commerce (71
 | Market information | Steadier prices |
 
 **Transactions point:** 4 manufacturers each supplying 25 shops directly = 4 x 25 = 100 transactions; through one wholesaler = 4 + 25 = 29. (Invented figures.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--03-importance-each-side.webp" width="900" height="690" alt="Six benefits to the manufacturer, such as large orders, saved storage, removed risk and prompt payment, and six to the retailer, such as small quantities, quick restocking, wide choice, credit and advice." loading="lazy">
+  <figcaption>The manufacturer and the retailer gain different things from the same wholesaler.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--04-fewer-transactions.webp" width="900" height="815" alt="Five manufacturers and twenty shops. Without a wholesaler every manufacturer deals with every shop: 5 × 20 = 100 sets of orders, deliveries and invoices. With a wholesaler each deals only with it: 5 + 20 = 25 sets, 75 fewer." loading="lazy">
+  <figcaption>Multiplying becomes adding: 100 transactions fall to 25 when a wholesaler sits in the middle.</figcaption>
+</figure>
 
 ## How independent wholesalers survive
 
@@ -86,9 +106,29 @@ Recall notes for **sub-topic 2.4 Wholesaling** in Cambridge O Level Commerce (71
 - Retailer gains buying power and a known name; wholesaler gains regular, loyal orders.
 - Drawback: retailers lose some freedom over what they stock.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--12-o-wholesaler-survival.webp" width="900" height="1040" alt="Top panel: a retailer with a trolley collects goods from a cash and carry warehouse and pays immediately. There is no credit and no delivery, so prices are lower. Bottom panel: a wholesaler supplies four independently owned shops that buy most of their stock from it and share a brand name and joint promotions, giving lower prices." loading="lazy">
+  <figcaption>Cash and carry and voluntary chains are the two ways independent wholesalers survive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--05-cash-and-carry-comparison.webp" width="900" height="565" alt="Delivered wholesaler: 50 cases × $12.00 = $600 with free delivery and 30 days’ credit. Cash and carry: 50 × $11.20 = $560 plus $25 own transport = $585, paid at once. Cash and carry saves $15." loading="lazy">
+  <figcaption>Cash and carry is $15 cheaper here, but the shop pays at once and gives up a morning (invented figures).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--06-voluntary-chain.webp" width="900" height="620" alt="A wholesaler supplies a group of independent shops that trade under a common name and logo, with joint advertising and help with layout and training. Retailers gain lower prices and a recognised name; the wholesaler gains regular orders; retailers lose some freedom and may pay a fee." loading="lazy">
+  <figcaption>A voluntary chain gives independent shops chain-store buying power while they stay independently owned.</figcaption>
+</figure>
+
 ## Why the wholesaler is under pressure
 
 Large retail chains buy direct from manufacturers and run their own warehouses; manufacturers can sell direct to consumers online. Both cut out the wholesaler, which is why the survival methods matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--07-discuss-structure.webp" width="900" height="500" alt="Points for the wholesaler (breaking bulk, credit and delivery) are weighed against counter-points (ordering direct from manufacturers’ websites, online platforms delivering small quantities) to reach a judgement: still needed, especially through cash and carry and voluntary chains." loading="lazy">
+  <figcaption>Points, counter-points, then a judgement linked to small retailers.</figcaption>
+</figure>
 
 ## Exam traps
 

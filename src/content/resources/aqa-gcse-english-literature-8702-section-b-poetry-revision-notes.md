@@ -38,6 +38,11 @@ comparative paragraph, is in the [Poetry study guide](/resources/aqa-gcse-englis
 | Marks | 30 (no AO4) |
 | Split in AQA mark schemes | AO1 12, AO2 12, AO3 6 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-poetry--01-comparison-question.webp" width="900" height="556" alt="A named poem printed on the paper is compared with one other poem from the same cluster, chosen and recalled from memory, on how poets present an idea. A bar splits 30 marks: AO1 12 for comparing ideas, AO2 12 for comparing methods and AO3 6 for contexts. There are no AO4 marks; allow around 40 to 45 minutes." loading="lazy">
+  <figcaption>Compare the printed poem with one you recall; comparison runs through all three objectives.</figcaption>
+</figure>
+
 ## Core recall
 
 - **Compare from the first sentence.** The question is comparative; separate essays score lower.
@@ -67,11 +72,21 @@ comparative paragraph, is in the [Poetry study guide](/resources/aqa-gcse-englis
 | Cyclical structure | Ending returns to opening | Entrapment, continuity |
 | Juxtaposition | Contrasting images side by side | Highlights difference |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-poetry--04-poetic-methods.webp" width="900" height="664" alt="A table of eight areas of poetic method and what to look for in each: voice, form, metre and rhythm, rhyme, line and stanza, imagery, sound and endings." loading="lazy">
+  <figcaption>Eight areas to check in both poems, always linked to their effect.</figcaption>
+</figure>
+
 ## Comparison grid
 
 Draw a table with the fifteen poems down the side and recurring ideas across the top. For each tick,
 add one quotation and one method. On the day, a named poem plus the question's idea points you to two
 or three candidate partners.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-poetry--03-comparison-grid.webp" width="900" height="807" alt="A grid lists poems 1 to 15 down the side and ideas across the top: memory, family, power, place, identity, loss, nature and conflict, with dots where a poem fits. The named poem’s row is highlighted and the memory column picks out three poems it could be compared with. Below, a good second poem offers a clear link to the idea, a similarity and a difference, and quotations you can recall." loading="lazy">
+  <figcaption>The grid shows which poems pair with the named poem for the idea in the question.</figcaption>
+</figure>
 
 ## One revision card per poem
 
@@ -85,6 +100,11 @@ For each of the fifteen poems, fill one card:
 - **One context point** that explains a choice.
 - **Two partner poems** with a similarity and a difference noted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-poetry--02-poem-profile.webp" width="900" height="574" alt="Six cards list what to know about each poem: what it is about and who speaks, its central idea and whether it shifts, its form, two or three structural features, three or four short quotations with methods, and one context point." loading="lazy">
+  <figcaption>Six short answers per poem, for all fifteen poems.</figcaption>
+</figure>
+
 ## Context by period, briefly
 
 | Period | Ideas that may be relevant |
@@ -95,6 +115,11 @@ For each of the fifteen poems, fill one card:
 | Recent decades | Identity, migration, family, place, voice |
 
 Use these only where they fit the poem in front of you.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-poetry--05-context-two-centuries.webp" width="900" height="495" alt="A timeline from 1789 to the present day shows four broad contexts in order: Romantic interest in nature and feeling, Victorian ideas about duty and empire, twentieth-century wars, and modern writing about identity, migration and family. Below, context is worth 6 of 30 marks so should be brief, and comparing contexts can show how attitudes changed." loading="lazy">
+  <figcaption>The cluster spans two centuries, so contexts can be compared as well as explained.</figcaption>
+</figure>
 
 ## Comparative connectives
 
@@ -112,6 +137,11 @@ Use these only where they fit the poem in front of you.
 3. Evidence and method from the second poem.
 4. Comparison of effects, ending with a judgement.
 5. Context only if it explains a difference or similarity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-poetry--07-structuring-comparison.webp" width="900" height="618" alt="Two panels. Integrated: each of three paragraphs, on ideas, form and structure, and language, covers poem A and poem B together. Linked halves: the named poem first, then the second poem, which must keep referring back. Below, a simple integrated plan runs from an opening on the key similarity and difference, through three comparative paragraphs, to a conclusion weighing the poets’ attitudes." loading="lazy">
+  <figcaption>Integrated paragraphs keep the comparison active from start to finish.</figcaption>
+</figure>
 
 ## Exam traps
 

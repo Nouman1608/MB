@@ -33,6 +33,11 @@ Theme 2, Topic 3 has two sub-topics, **the environment** and **poverty**, examin
 Paper 1 (Reading, including English-to-Urdu translation) and Paper 2 (Writing). Think in terms of
 the wider world, then connect to your own area.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-global-issues--01-social-versus-global.webp" width="900" height="640" alt="Nested circles: Social issues (you and your community) sit inside Global issues (problems that cross borders), whose sub-topics are the environment (ماحول) and poverty (غربت). Connect a world problem to your own area, but do not shrink a global question into a personal one." loading="lazy">
+  <figcaption>Global issues differs from Social issues in scale; link them without shrinking the question.</figcaption>
+</figure>
+
 ## Key terms
 
 | Urdu | Meaning | Gender |
@@ -67,6 +72,11 @@ Past participle + جانا, agreeing with the noun affected:
 | nobody pays attention | توجہ نہیں دی جاتی |
 | rubbish was collected | کچرا جمع کیا گیا |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-global-issues--02-passive-with-jana.webp" width="900" height="780" alt="The passive is formed with a past participle plus جانا, agreeing with the thing affected: بہت سے درخت کاٹے جاتے ہیں, پلاسٹک کو دوبارہ استعمال کیا جا سکتا ہے, and اس مسئلے پر توجہ نہیں دی جاتی with feminine دی for توجہ." loading="lazy">
+  <figcaption>Participle plus جانا, agreeing with the noun affected, makes writing sound mature.</figcaption>
+</figure>
+
 ## Other structures
 
 - **Trend:** درجۂ حرارت بڑھ رہا ہے; غربت کم ہو رہی ہے.
@@ -77,6 +87,11 @@ Past participle + جانا, agreeing with the noun affected:
 - **Chain:** ... کی وجہ سے ...، جس سے ...
 - **Concession:** اگرچہ ...، اس کے باوجود ...
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-global-issues--03-three-conditions.webp" width="900" height="620" alt="Three Urdu conditions with glosses: a real one about saving water, a warning (اگر ہم نے ابھی کچھ نہ کیا تو ...) that uses an idiomatic past form for the future, and a hypothetical about solar energy in every home." loading="lazy">
+  <figcaption>Use اگر ... تو for real results, warnings and imagined situations.</figcaption>
+</figure>
+
 ## A paragraph plan
 
 1. Problem, in the present or present continuous.
@@ -85,6 +100,11 @@ Past participle + جانا, agreeing with the noun affected:
 4. A link to your own area or experience.
 5. A justified opinion with a condition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-global-issues--04-global-issues-answer-plan.webp" width="900" height="700" alt="Four steps: name the problem; chain causes and effects, as in جنگلات کی کٹائی کی وجہ سے بارش کم ہوتی ہے، جس سے خشک سالی بڑھتی ہے; split solutions between individuals (ہر شخص کو ... چاہیے) and government (حکومت کو ... پر پابندی لگانی چاہیے); and end with a justified opinion, using a passive, a conditional and اگرچہ." loading="lazy">
+  <figcaption>Problem, causes and effects, who should act, then a justified opinion.</figcaption>
+</figure>
+
 ## Poverty phrases
 
 - غربت کی ایک بڑی وجہ بے روزگاری ہے — a major cause of poverty is unemployment.
@@ -92,6 +112,11 @@ Past participle + جانا, agreeing with the noun affected:
   school.
 - تعلیم غربت سے نکلنے کا بہترین راستہ ہے — education is the best way out of poverty.
 - امیر ملکوں کو غریب ملکوں کی مدد کرنی چاہیے — rich countries should help poor countries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-global-issues--05-poverty-grid.webp" width="900" height="770" alt="A grid reading right to left from causes to effects to solutions: بے روزگاری to بھوک to روزگار کے مواقع; تعلیم کی کمی, بیماریاں, مفت تعلیم; قدرتی آفات, بے گھری, عالمی امداد; مہنگائی, بچوں کی مشقت, صاف پانی کی فراہمی." loading="lazy">
+  <figcaption>Pick a cause, an effect and a solution and you can always develop a point.</figcaption>
+</figure>
 
 ## A model mini-paragraph (environment)
 

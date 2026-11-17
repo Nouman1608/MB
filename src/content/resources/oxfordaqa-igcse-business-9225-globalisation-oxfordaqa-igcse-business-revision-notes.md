@@ -43,6 +43,11 @@ Condensed recall for section 3.2.4. For full explanations and the worked example
 | Larger markets | Businesses can sell worldwide | More sales; economies of scale |
 | International competition | Foreign firms sell in the home market | Pressure on price, quality and survival |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business--01-five-forms-chains.webp" width="900" height="784" alt="Five rows, one per form of globalisation, each as a three-step chain: specialisation (tea grown in volume at lower cost), relative cost advantage (assembly moved abroad, home jobs lost), movement of labour (skilled staff recruited from abroad), larger markets (exports to ten countries, lower unit cost) and international competition (cheaper imports force cost cuts or a niche)." loading="lazy">
+  <figcaption>Learn each form as a cause-and-effect chain ending in an effect on the business.</figcaption>
+</figure>
+
 ## Four viewpoints
 
 | | Main benefit | Main drawback |
@@ -53,6 +58,11 @@ Condensed recall for section 3.2.4. For full explanations and the worked example
 | Developing economy | Jobs, incomes, tax, investment | Local firms close; skilled workers leave; profits flow abroad |
 
 **Answer frame:** viewpoint → form of globalisation → effect on costs, sales or jobs → consequence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business--02-four-viewpoints.webp" width="900" height="926" alt="A two-by-two grid of benefits and drawbacks of globalisation for businesses and economies in developed and developing countries, for example larger markets but low-cost rivals for a developed-country business, and new jobs but emigrating skilled workers for a developing economy." loading="lazy">
+  <figcaption>Who gains and who loses depends on the viewpoint.</figcaption>
+</figure>
 
 ## Exchange rates
 
@@ -65,6 +75,16 @@ Condensed recall for section 3.2.4. For full explanations and the worked example
 
 **The exporter's choice when its currency strengthens:** keep the home price and lose sales, or cut the home price and lose profit per unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business--04-exchange-rate-directions.webp" width="900" height="705" alt="A grid of exchange-rate effects. When the home currency strengthens, exporters’ goods cost more for foreign buyers so sales tend to fall, while importers’ costs fall. When it weakens, export sales tend to rise and importers’ costs rise." loading="lazy">
+  <figcaption>A stronger currency hurts exporters and helps importers; a weaker one does the reverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business--05-velden-sales-or-profit.webp" width="900" height="969" alt="Velden Ceramics made $120,000 profit (10,000 vases × $12). After the home currency strengthens, keeping the $30 price with sales of 8,500 gives $102,000; cutting to $27 keeps 10,000 sales at $9 each, $90,000. If sales under option A fell to 7,000, profit would be $84,000 and option B would be better." loading="lazy">
+  <figcaption>A stronger currency cuts either sales or profit per unit; which hurts less depends on buyers.</figcaption>
+</figure>
+
 ## Severe fluctuations
 
 - Costs can change between ordering and paying.
@@ -72,6 +92,11 @@ Condensed recall for section 3.2.4. For full explanations and the worked example
 - Profit becomes uncertain, so planning, borrowing and hiring are harder.
 - Contracts can be lost suddenly.
 - **Responses:** agree prices in home currency; buy from home suppliers; sell in several countries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business--06-severe-fluctuations.webp" width="900" height="880" alt="A severe, sudden exchange-rate swing brings four problems: uncertain costs and revenues, difficult pricing, harder planning and lost contracts. Businesses reduce the risk by pricing in their own currency, buying from home suppliers and selling in several countries." loading="lazy">
+  <figcaption>Sudden swings make costs, prices and plans uncertain; spreading currencies reduces the risk.</figcaption>
+</figure>
 
 ## Judging how much a currency change matters
 

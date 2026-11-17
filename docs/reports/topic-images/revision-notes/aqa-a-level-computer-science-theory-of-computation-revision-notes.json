@@ -1,0 +1,8 @@
+{ "page": "aqa-a-level-computer-science-theory-of-computation-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--09-data-abstraction.webp", "after": "## Abstraction: definitions to learn word for word" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--08-fsm-a-plus-b.webp", "after": "## Finite state machines and regular expressions" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--11-bnf-recursion.webp", "after": "## BNF and why it is more powerful than regular expressions" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--12-big-o-growth.webp", "after": "## Big-O: order of complexity" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--13-n2-vs-nlogn.webp", "after": "## Big-O: order of complexity" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--14-turing-add-one.webp", "after": "## Turing machines" }
+] }

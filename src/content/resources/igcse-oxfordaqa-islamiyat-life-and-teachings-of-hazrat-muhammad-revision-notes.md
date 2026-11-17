@@ -60,6 +60,16 @@ Pilgrimage; 3.2.1.10 legacy and lessons.
 | 630–631 | Aam ul Wufood (Year of Delegations) |
 | 632 | Farewell Pilgrimage and Sermon; death in Madinah |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--03-call-to-prophethood.webp" width="900" height="564" alt="Four stages: retreats to the Cave of Hira from about forty; in Ramadan 610 Jibril commands &quot;Read!&quot; and recites the first verses of Sura 96; at home Khadija reassures him and is the first to accept Islam; Waraqa ibn Nawfal recognises the angel who came to Musa and warns that his people will drive him out." loading="lazy">
+  <figcaption>From reflection in Hira to the first believer and Waraqa's warning.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--06-battles-and-treaties.webp" width="900" height="608" alt="A scaled timeline from 624 to 632 marking Badr (624, victory), Uhud (625, losses), the Trench (627, siege fails), Hudaibiyah and Khaibar (628), the conquest of Makkah and Hunayn (630), the Year of Delegations (630–631) and the Farewell Pilgrimage (632)." loading="lazy">
+  <figcaption>Eight years from Badr to the Farewell Pilgrimage.</figcaption>
+</figure>
+
 ## Key people
 
 | Person | Role |
@@ -80,12 +90,22 @@ Pilgrimage; 3.2.1.10 legacy and lessons.
 | Hazrat Zubair (RA) | Cousin; early Muslim and loyal fighter |
 | Salman al-Farsi | Suggested the trench |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--02-early-life.webp" width="900" height="614" alt="A timeline of the Prophet's early life: his father Abdullah dies before his birth around 570; he is nursed by Halima Sa'diya; his mother Amina dies when he is about six; his grandfather Abdul Muttalib and then his uncle Abu Talib raise him; Bahira advises protecting him; he becomes known as al-Amin and al-Sadiq; and he marries Hazrat Khadija (RA) at about twenty-five." loading="lazy">
+  <figcaption>A succession of carers, then a reputation for honesty that led to his marriage.</figcaption>
+</figure>
+
 ## Pre-Islamic Arabia (Jahiliya)
 
 - **Religious:** idol worship at the Ka'ba; some Jews, Christians and hanifs.
 - **Political:** tribes, no state; Quraysh controlled Makka.
 - **Moral:** alcohol, gambling, interest, blood feuds.
 - **Social:** female infanticide; few rights for women and slaves.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--01-pre-islamic-arabia.webp" width="900" height="636" alt="Four panels describe pre-Islamic Arabia: religious (idols around the Ka'ba, a high god, Jewish and Christian communities and hanifs), political (no central state, tribes ruling themselves, the Quraysh controlling Makka), moral and social (blood feuds, drinking, gambling, interest, infanticide, few rights for women and slaves) and the values also held (hospitality, courage, poetry)." loading="lazy">
+  <figcaption>Jahiliya: idol worship, tribal rule and harsh customs, alongside real virtues.</figcaption>
+</figure>
 
 ## Qualities of the Prophet (pbuh)
 
@@ -102,6 +122,11 @@ shepherd and trader; fair dealing; forgiveness.
 **Forms of opposition:** mockery; torture of weaker Muslims; boycott of Banu Hashim; rejection at
 Ta'if; plot to kill.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--04-opposition-in-makkah.webp" width="900" height="654" alt="Left: four reasons the Makkan leaders opposed the Prophet (pbuh): the threat to idol-based trade, to their power and status, to ancestral custom, and their mockery of resurrection. Right: the escalation from mockery to persecution, the boycott of Banu Hashim, the Year of Sorrow, rejection at Ta'if and the plot to kill him." loading="lazy">
+  <figcaption>Economic, political and religious threats drove opposition that grew step by step.</figcaption>
+</figure>
+
 ## Isra wal Mi'raj: importance
 
 - Comfort after the Year of Sorrow.
@@ -114,6 +139,11 @@ Ta'if; plot to kill.
 - Mosque at Quba, then the Prophet's Mosque.
 - Brotherhood between Muhajirun and Ansar.
 - Charter of Madinah: one community; mutual defence; religious freedom; the Prophet as arbiter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--05-the-hijrah.webp" width="900" height="712" alt="Four numbered stages: the pledges of Aqaba; the night of the plot, with Hazrat Ali (RA) in the Prophet's bed and Hazrat Abu Bakr (RA) leaving with him; hiding in the cave of Thawr; and arrival in Madinah in 622. Below, the first steps there: the mosque at Quba, staying with Abu Ayyub Ansari, building the Prophet's Mosque, pairing Muhajirun with Ansar and the Charter of Madinah." loading="lazy">
+  <figcaption>The migration of 622 and the first steps in building a community in Madinah.</figcaption>
+</figure>
 
 ## Hudaibiyah terms
 
@@ -129,6 +159,11 @@ Ta'if; plot to kill.
 - Rights and kind treatment of women.
 - Interest abolished; blood feuds ended.
 - Hold fast to the Qur'an.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--07-farewell-sermon-and-lessons.webp" width="900" height="610" alt="Five teachings of the Farewell Sermon: the sanctity of life, property and honour; equality, with no superiority except by piety; the rights of women; the end of interest and blood feuds; and holding fast to the Qur'an. Below, four lessons from his life: kindness to parents, justice, honesty and patience." loading="lazy">
+  <figcaption>The Sermon's principles and the life lessons Muslims draw today.</figcaption>
+</figure>
 
 ## Worked example
 

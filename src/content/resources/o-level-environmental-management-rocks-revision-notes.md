@@ -46,6 +46,11 @@ edition, use the
 
 **Fossils are common in sedimentary rocks.** They are usually destroyed by the heat and pressure of metamorphism, but can rarely survive — typically flattened or distorted by cleavage — in low-grade metamorphic rocks such as slate. Igneous rocks form from melt, so they never contain fossils.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-and-minerals--09-rm-three-rock-types.webp" width="900" height="920" alt="Igneous rock forms when magma or lava cools and solidifies; examples are granite and basalt. Sedimentary rock forms when eroded particles settle in layers and are compressed; examples are sandstone, limestone and shale. Metamorphic rock forms when existing rock is altered by heat and pressure without melting; examples are marble (from limestone) and slate (from shale)." loading="lazy">
+  <figcaption>Igneous, sedimentary and metamorphic formation with examples and the not-melted point.</figcaption>
+</figure>
+
 ## The rock cycle
 
 The rock cycle **branches** rather than running along one single path — any rock type can, in principle, be weathered directly, and sedimentary rock can melt directly without first becoming metamorphic:
@@ -77,6 +82,21 @@ A **mineral** is a naturally occurring solid with a definite chemical compositio
 
 The calculation itself is worth one mark; the reasons it is unreliable are worth the rest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-and-minerals--10-rm-minerals-metals.webp" width="900" height="830" alt="Three mineral-to-metal pairs: haematite is mined for iron; cassiterite is mined for tin; bauxite, a rock made of several aluminium-bearing minerals, is mined for aluminium. Iron and aluminium are among the most abundant elements in the Earth’s crust; tin, copper and gold are scarce and worth mining only where they are concentrated." loading="lazy">
+  <figcaption>Haematite, cassiterite and bauxite with their metals; iron and aluminium abundant, tin, copper and gold scarce.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-and-minerals--11-rm-resource-reserve.webp" width="900" height="800" alt="A large dashed region labelled resource, all the mineral in the ground, contains a smaller solid region labelled reserve, a known deposit not yet mined that is economically viable to extract. The reserve grows when prices rise or new deposits are found, and shrinks as ore is mined. Schematic." loading="lazy">
+  <figcaption>A reserve is the known, economically viable part of a resource; it grows or shrinks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-and-minerals--12-rm-reserve-lifetime.webp" width="900" height="805" alt="Graph of reserve in million tonnes against years. With 400 million tonnes and constant extraction of 8 million tonnes a year, the reserve falls in a straight line to zero at 50 years. If use rises by 3 percent a year (illustrative) it runs out after about 31 years. If an extra 80 million tonnes is found at year 20 (illustrative) it lasts 60 years. The simple division assumes a constant rate, no new deposits, a fixed economic threshold and no recycling." loading="lazy">
+  <figcaption>400 divided by 8 is 50 years, but rising use or new finds change the answer (the latter two illustrative).</figcaption>
+</figure>
+
 ## Extraction methods
 
 **Open-cast (surface) mining** — cheap, safe, high recovery, but destroys a large surface area, creates dust and noise, and leaves visible scars.
@@ -87,6 +107,11 @@ The calculation itself is worth one mark; the reasons it is unreliable are worth
 
 **Choice usually depends on the depth of the deposit and its value, but not always** — a shallow deposit is usually cheaper to work by open-cast, though a shallow deposit beneath a city, protected habitat, lake, or deep overburden may still be worked by subsurface methods instead. Other factors the syllabus names include exploration findings, geology, accessibility, environmental impact assessment, and supply and demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-and-minerals--13-rm-mining-methods.webp" width="900" height="940" alt="Two cross-sections. Open-cast (surface) mining removes the overburden, the soil and rock above, from a wide area to dig out a deposit near the surface; it is the cheapest and safest method but strips a wide area bare. Deep (shaft) mining sinks a vertical shaft and drives tunnels to reach a deep deposit; it is costly and hazardous but leaves a small surface footprint. Schematic, not to scale." loading="lazy">
+  <figcaption>Open-cast removes overburden over a wide area; deep mining uses a shaft and tunnels.</figcaption>
+</figure>
+
 ## Environmental impacts
 
 - **Land** — habitat destruction, loss of farmland, spoil heaps, subsidence.
@@ -95,6 +120,11 @@ The calculation itself is worth one mark; the reasons it is unreliable are worth
 - **Social** — displacement of communities, noise, health effects, heavy traffic.
 
 **Balance the impacts against the benefits** — employment, income and foreign exchange, raw materials for industry, and infrastructure development. Questions almost always ask for both sides plus a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-environmental-management-rocks-and-minerals--14-rm-impacts-responses.webp" width="900" height="900" alt="Five impact-to-response pairs. Land degradation and habitat loss: restore landforms and replant. Water pollution from acid mine drainage and tailings: treat waste water before discharge. Dust: spray to control it. Waste rock and spoil heaps: efficient technology reduces waste. Processing air pollution and high energy use: recycle metals, which means less mining and less smelting energy. Legislation and licensing monitor all of them. The pairings are typical matches, not a fixed list." loading="lazy">
+  <figcaption>Typical pairings of impacts with management responses, plus legislation and licensing.</figcaption>
+</figure>
 
 ## Sustainable management
 

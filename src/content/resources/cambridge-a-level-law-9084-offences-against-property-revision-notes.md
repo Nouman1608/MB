@@ -43,6 +43,11 @@ Element-by-element recall for subtopic 2.2 of Cambridge International AS & A Lev
 | Fraud (ss2–4) | Fraud Act 2006 | 10 years |
 | Obtaining services dishonestly | s11 Fraud Act 2006 | 5 years |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-offences-against-property--01-maximum-sentences.webp" width="900" height="708" alt="A bar chart of maximum sentences. Life for robbery, aggravated burglary, arson and criminal damage endangering life; 14 years for burglary of a dwelling, blackmail and handling; 10 years for burglary of another building, criminal damage and fraud; 7 years for theft; 5 years for obtaining services dishonestly; 2 years for making off without payment." loading="lazy">
+  <figcaption>Force, weapons and danger to life push the maximum to life; making off is the lowest at two years.</figcaption>
+</figure>
+
 ## Theft checklist (s1)
 
 1. **Appropriation (s3)** – assuming any right of an owner. *Morris* (one right enough); *Gomez* (consent irrelevant); *Hinks* (gift).
@@ -51,12 +56,22 @@ Element-by-element recall for subtopic 2.2 of Cambridge International AS & A Lev
 4. **Dishonesty (s2)** – s2(1) beliefs: legal right, consent, owner untraceable. Then *Ivey* / *Barton and Booth*: actual belief, then ordinary decent people standard.
 5. **Intention to permanently deprive (s6)** – dispose regardless of rights; borrowing until value gone (*Lloyd*); replacing with equivalent notes (*Velumyl*).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-criminal-law--15-law3-theft-elements.webp" width="900" height="932" alt="A tower of five blocks building up to Theft, section 1 Theft Act 1968. The blocks are: dishonest (s2), appropriation (s3), property (s4), belonging to another (s5), and intention to permanently deprive (s6). Sentencing is under section 7." loading="lazy">
+  <figcaption>Theft is dishonest appropriation of property belonging to another with intention to permanently deprive.</figcaption>
+</figure>
+
 ## Robbery (s8)
 
 - Theft **+** force or fear of force **+** immediately before or at the time **+** in order to steal.
 - No theft → no robbery (*Robinson*).
 - Continuing appropriation (*Hale*).
 - Minimal force can be enough (*Dawson and James*); force via property (*Clouden*); no contact, no force (*P v DPP*).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-offences-against-property--02-robbery-checklist.webp" width="900" height="676" alt="Four questions for robbery: a completed theft (Robinson); force or fear of force (Dawson and James, Clouden, but not P v DPP); at the time, with appropriation continuing while making off (Hale); and in order to steal with the mens rea of theft. All four give robbery, with a maximum of life." loading="lazy">
+  <figcaption>No theft, no robbery; and the force must be used in order to steal.</figcaption>
+</figure>
 
 ## Burglary (s9) and aggravated burglary (s10)
 
@@ -67,11 +82,21 @@ Element-by-element recall for subtopic 2.2 of Cambridge International AS & A Lev
 - **Building:** part of a building (*Walkington*); inhabited vehicle or vessel (s9(4)); container (*B and S v Leathley*).
 - **s10:** firearm, imitation firearm, weapon of offence, explosive – at entry for (a), at the further offence for (b) (*O'Leary*).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-criminal-law--17-law3-burglary-routes.webp" width="900" height="980" alt="Two timelines. Route s9(1)(a): the defendant enters a building as a trespasser to commit a listed offence. Route s9(1)(b): the defendant enters as a trespasser, and then commits a listed offence. Aggravated burglary under s10 applies if the defendant has with them a firearm or imitation firearm, a weapon of offence or an explosive: at the point of entry for route (a), or when committing the further offence for route (b)." loading="lazy">
+  <figcaption>Burglary can be complete on entry (a) or when a further offence is committed (b); s10 asks whether a weapon is carried at the same moment.</figcaption>
+</figure>
+
 ## Blackmail (s21)
 
 - **Demand** (express or implied; on posting – *Treacy*) **with menaces** (*Clear*: ordinary person of normal stability; *Garwood*: known timid victim).
 - **With a view to gain or intent to cause loss.**
 - **Unwarranted** unless the defendant believes in reasonable grounds **and** that menaces are proper; threats of serious crime cannot be proper (*Harvey*).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-offences-against-property--03-blackmail-elements.webp" width="900" height="590" alt="Blackmail needs a demand (made on posting, Treacy v DPP) with menaces (R v Clear; R v Garwood) and a view to gain or intent to cause loss. The demand is unwarranted unless the defendant believes both that there are reasonable grounds for it and that the menaces are a proper way to reinforce it; a threat of serious crime can never be believed proper (R v Harvey)." loading="lazy">
+  <figcaption>Demand, menaces, gain or loss, and no belief that both the demand and the menaces were proper.</figcaption>
+</figure>
 
 ## Handling (s22)
 
@@ -99,6 +124,11 @@ Element-by-element recall for subtopic 2.2 of Cambridge International AS & A Lev
 - **Damage:** temporary impairment counts (*Hardman*); not where easily wiped away with no cost (*A v R*).
 - **s5 lawful excuse:** belief in consent (*Jaggard v Dickinson*); protecting property in immediate need by reasonable means (*Hill and Hall*, objective element). Honest belief need not be reasonable (s5(3)). Not available where life is endangered.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-offences-against-property--04-criminal-damage.webp" width="900" height="716" alt="Four criminal damage offences: s1(1) damage, with Hardman, A v R and R v Smith; s1(2) endangering life and s1(3) arson, with a maximum of life; s2 threats; s3 possession. The s5 lawful excuse covers an honest belief in the owner’s consent (Jaggard v Dickinson) or in protecting property by reasonable means (Hill and Hall), but not offences endangering life." loading="lazy">
+  <figcaption>An honest belief in consent or in protecting property is a lawful excuse, except where life is endangered.</figcaption>
+</figure>
+
 ## Fraud Act 2006
 
 | Section | Core conduct | Shared MR |
@@ -109,6 +139,11 @@ Element-by-element recall for subtopic 2.2 of Cambridge International AS & A Lev
 | s11 | Obtaining services by a dishonest **act**, without paying in full | Knows payment expected; intends not to pay in full |
 
 The fraud offences are complete when the representation, failure or abuse occurs – no one need be deceived and no gain need be made.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-criminal-law--18-law3-fraud-ways.webp" width="900" height="880" alt="Fraud under the Fraud Act 2006 is a single offence that can be committed in three ways: section 2 by false representation, section 3 by failing to disclose information, and section 4 by abuse of position. Separately, section 11 is the offence of obtaining services dishonestly." loading="lazy">
+  <figcaption>Three routes to the single offence of fraud, plus the separate s11 offence.</figcaption>
+</figure>
 
 ## Key terms
 

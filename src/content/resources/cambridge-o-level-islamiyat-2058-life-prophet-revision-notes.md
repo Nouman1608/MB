@@ -50,6 +50,16 @@ honest business and of a marriage built on respect.
 **Black Stone.** Solved the dispute with a cloak lifted by every clan. *Significance:* wisdom and
 peacemaking.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-islamiyat-paper-1--05-life-of-the-prophet-timeline.webp" width="900" height="694" alt="A vertical timeline split into the Makkah and Madinah periods: birth in 570, first revelation in 610, public preaching from 613, the Year of Sorrow in 619, the Hijra in 622, Badr in 624, Uhud in 625, the Trench in 627, Hudaybiyyah in 628, the Conquest of Makkah in 630 and the Farewell Sermon in 632." loading="lazy">
+  <figcaption>The Hijra of 622 divides his life into the Makkah and Madinah periods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--01-birth-to-the-call.webp" width="900" height="593" alt="Four carers in order: his father Abdullah died before his birth, his mother Amina when he was about six, then his grandfather Abd al-Muttalib and his uncle Abu Talib. Six cards follow: childhood with Halima al-Sa'diyya, the caravan to Syria and Bahira, the Hilf al-Fudul, marriage to Khadija at twenty-five, the settling of the Black Stone dispute, and reflection in Hira until 610." loading="lazy">
+  <figcaption>Orphaned young, trusted by all: the events before 610 show the character that earned him the name al-Amin.</figcaption>
+</figure>
+
 ## Makka cards (610–622)
 
 | Event | Key details | Significance |
@@ -65,6 +75,11 @@ peacemaking.
 | Ta'if | Stoned; refused to have the town destroyed | Mercy towards enemies |
 | Isra and Mi'raj | Makka to Jerusalem, heavens; five prayers (Sura 17.1) | Gift of prayer; honour of Jerusalem |
 | Aqaba pledges | Yathrib's believers; Mus'ab ibn Umayr sent | Prepared the Hijra |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--02-opposition-in-makka.webp" width="900" height="755" alt="Three reasons for opposition (threat to the pilgrimage trade, equality before God and the authority of clan leaders) lead to three forms of opposition: persecution of Bilal, Sumayya and the Prophet himself; offers of wealth and kingship, which he refused; and the boycott in Shi'b Abi Talib. Below: the migration to Abyssinia in 615, the Year of Sorrow in 619, Ta'if and the pledges of Aqaba." loading="lazy">
+  <figcaption>Economic, social and political threats drove the opposition; the pledges of Aqaba opened the way out.</figcaption>
+</figure>
 
 ## Madina cards (622–632)
 
@@ -97,6 +112,21 @@ general pardon; idols removed (Sura 17.81). *Significance:* forgiveness in victo
 
 **Farewell Sermon and death 632.** Equality, sanctity of life and property, women's rights, end of
 usury and blood feuds. *Significance:* summary of Islamic ethics.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--03-building-the-community.webp" width="900" height="545" alt="The Hijra of 622 at the centre, linked to four steps in building the community: mosques at Quba and in Madinah, the brotherhood between Emigrants and Helpers, the Constitution of Madinah uniting Muslims, Jews and others with the Prophet as arbiter, and the change of qibla from Jerusalem to the Ka'ba." loading="lazy">
+  <figcaption>Worship, brotherhood and a shared constitution turned migrants and hosts into one community.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--04-badr-uhud-trench.webp" width="900" height="489" alt="Three cards. Badr, 624: about 313 Muslims defeated a much larger army, Abu Jahl was killed and prisoners could earn freedom by teaching reading. Uhud, 625: archers left their posts, Khalid ibn al-Walid's cavalry attacked from behind, the Prophet was wounded and Hamza martyred. The Trench, 627: a trench dug on Salman al-Farsi's advice made the allied army withdraw." loading="lazy">
+  <figcaption>Victory, setback, then a siege that failed: three battles in three years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--05-hudaybiyya-to-makka.webp" width="900" height="634" alt="A sequence: the Treaty of Hudaybiyya in 628, called a manifest victory; letters inviting rulers to Islam; the truce broken when allies of the Quraysh attacked the Muslims' allies; the conquest of Makka in 630 with a general pardon; and the Farewell Pilgrimage of 632 with its sermon at Arafat." loading="lazy">
+  <figcaption>A truce that looked like a setback opened the way to a peaceful return to Makka.</figcaption>
+</figure>
 
 ## Character and example: one-line evidence
 

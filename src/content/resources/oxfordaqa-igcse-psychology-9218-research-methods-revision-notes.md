@@ -48,6 +48,11 @@ both sets of content can be examined on either paper.
 | **Reliability** | Consistency: repeating the study would give similar results |
 | **Validity** | Accuracy: the study measures what it claims to measure |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--02-iv-dv-extraneous.webp" width="900" height="545" alt="The independent variable (silence versus music) is linked by an arrow to the dependent variable (number of words recalled). Extraneous variables such as time of day, noise outside and familiarity of the words can also affect the dependent variable; one that changes along with the IV becomes a confounding variable." loading="lazy">
+  <figcaption>Change the IV, measure the DV, and keep everything else from interfering.</figcaption>
+</figure>
+
 ## Writing hypotheses: a three-step check
 
 1. Name both conditions of the IV.
@@ -56,6 +61,11 @@ both sets of content can be examined on either paper.
 
 Weak: "Music affects memory." Strong: "Students who revise with music playing will recall fewer of 20
 key terms than students who revise in silence."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--01-hypotheses.webp" width="900" height="486" alt="Two boxes. The alternative hypothesis predicts that participants who learn 20 words in silence will recall more words than those who learn while music plays. The null hypothesis predicts no difference in words recalled. The independent variable (silence or music) and the dependent variable (number of words recalled) are highlighted in both." loading="lazy">
+  <figcaption>The alternative predicts an effect, the null predicts none; both name measurable variables.</figcaption>
+</figure>
 
 ## Experiments
 
@@ -67,6 +77,11 @@ key terms than students who revise in silence."
 | Realism | Lower | Higher | Higher |
 | Main issue | Artificial tasks | Extraneous variables | Groups may differ in other ways |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--03-types-of-experiment.webp" width="900" height="554" alt="Three cards: a laboratory experiment has a controlled setting with the IV manipulated; a field experiment has a natural setting with the IV still manipulated; a natural experiment has an IV that varies naturally. A bar runs from more control to more true to life, and each card has a matching weakness." loading="lazy">
+  <figcaption>Moving from laboratory to natural experiments trades control for realism.</figcaption>
+</figure>
+
 ## Experimental designs
 
 | Design | Main problem | Solution |
@@ -74,6 +89,16 @@ key terms than students who revise in silence."
 | Independent groups | Participant variables | Random allocation |
 | Repeated measures | Order effects (practice, fatigue) | Counterbalancing |
 | Matched pairs | Imperfect, time-consuming matching | Pre-test on the key variable |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--04-experimental-designs.webp" width="900" height="694" alt="Three rows. Independent groups: different participants in conditions A and B, controlled by random allocation. Repeated measures: the same participants in both conditions, controlled by counterbalancing. Matched pairs: matched participants split one per condition, using pre-testing to match. Each row gives a strength or weakness." loading="lazy">
+  <figcaption>Different people, the same people, or matched pairs: each design has its own control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--05-counterbalancing-allocation.webp" width="900" height="647" alt="Counterbalancing: half the participants do condition A then B and half do B then A, spreading practice and fatigue effects evenly. Random allocation: names drawn from a hat give each participant an equal chance of either condition so participant variables balance out. A note warns not to confuse random allocation with random sampling." loading="lazy">
+  <figcaption>Counterbalancing fixes order effects; random allocation balances participant variables.</figcaption>
+</figure>
 
 ## Sampling
 
@@ -86,6 +111,16 @@ key terms than students who revise in silence."
 
 **Stratified maths:** proportion of subgroup in population × sample size. Example: 25% of employees
 are managers; sample of 40 → 0.25 × 40 = 10 managers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--06-sampling-methods.webp" width="900" height="772" alt="Four grids of people, each showing a different selection: random picks scattered across the population; opportunity picks a cluster of whoever is available; systematic picks every nth person; stratified picks from each subgroup in proportion. Each panel lists a strength and a weakness." loading="lazy">
+  <figcaption>Only random and stratified sampling aim for a representative sample; opportunity is quickest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--07-stratified-sample.webp" width="900" height="597" alt="Two proportion bars. The population of 600 is 360 girls (60%) and 240 boys (40%); the sample of 50 keeps the same proportions, 30 girls and 20 boys. Steps: girls are 360 ÷ 600 = 60%, 60% of 50 is 30, then choose each group at random." loading="lazy">
+  <figcaption>A stratified sample copies the population's proportions: 30 girls and 20 boys out of 50.</figcaption>
+</figure>
 
 ## Ethics (BPS)
 

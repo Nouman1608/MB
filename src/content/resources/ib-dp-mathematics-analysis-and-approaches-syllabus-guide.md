@@ -87,6 +87,11 @@ Together, the five content strands total 120 hours at SL and 210 hours
 at HL, with the remaining 30 hours at both levels given to the
 toolkit and the mathematical exploration together, as described below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-analysis-and-approaches-syllabus-guide--01-strand-hours.webp" width="900" height="832" alt="Paired SL and HL bars: number and algebra 19 and 39, functions 21 and 32, geometry and trigonometry 25 and 51, statistics and probability 27 and 33, calculus 28 and 55. The strands total 120 hours at SL and 210 at HL, plus 30 hours of toolkit and exploration at both levels." loading="lazy">
+  <figcaption>HL extra study belongs mainly in number and algebra, geometry and trigonometry, and calculus.</figcaption>
+</figure>
+
 ## Toolkit and exploration (30 hours, both SL and HL)
 
 The 30 hours at both SL and HL are shared between two components. The
@@ -99,6 +104,11 @@ investigation into a topic of the student's own choosing, compulsory
 for both SL and HL, which develops independence in mathematical
 learning and lets students pursue a personal mathematical interest
 without the time constraints of a written exam.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-analysis-and-approaches-syllabus-guide--03-toolkit-and-exploration.webp" width="900" height="590" alt="The 30 hours at both levels are shared between the toolkit and the exploration, which takes up to 15 hours. The toolkit builds inquiry, modelling and technology skills; the exploration is a compulsory internally assessed investigation worth 20%. Six assessment objectives apply across all strands." loading="lazy">
+  <figcaption>Up to half of the 30 hours goes on the exploration itself.</figcaption>
+</figure>
 
 ## Assessment structure
 
@@ -120,6 +130,11 @@ feature of this course's assessment relative to Applications and
 Interpretation, where every external paper permits technology
 throughout -- it is a direct reflection of Analysis and Approaches'
 greater emphasis on manual algebraic and analytical technique.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-analysis-and-approaches-syllabus-guide--02-assessment.webp" width="900" height="548" alt="Paper 1, with no technology, is worth 40% at SL and 30% at HL; Paper 2, with technology, 40% and 30%; Paper 3, HL only with technology, 20%; and the exploration, the internal assessment, 20% at both levels." loading="lazy">
+  <figcaption>Paper 1 is the only paper without technology, and it tests unaided algebra.</figcaption>
+</figure>
 
 ## How to approach it
 

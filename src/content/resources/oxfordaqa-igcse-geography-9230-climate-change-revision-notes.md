@@ -32,6 +32,11 @@ These notes cover section 3.1.1.4, Climate change, of the OxfordAQA Internationa
 - Carbon dioxide: about **280 ppm** before the industrial era; more than **420 ppm** today.
 - Antarctic ice cores reach back about **800,000 years**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--01-quaternary-swings.webp" width="900" height="572" alt="A schematic curve of climate across the Quaternary, from about 2.6 million years ago to today, swinging repeatedly between cold glacial periods and warmer interglacials. The present interglacial began about 11,700 years ago." loading="lazy">
+  <figcaption>The Quaternary is a story of repeated swings between glacial and interglacial periods.</figcaption>
+</figure>
+
 ## Evidence at a glance
 
 | Evidence | What it shows | Timescale | One limitation |
@@ -46,6 +51,16 @@ These notes cover section 3.1.1.4, Climate change, of the OxfordAQA Internationa
 
 Confidence comes from **different kinds of evidence agreeing**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--02-evidence-timescales.webp" width="900" height="679" alt="Bars on a logarithmic time scale show the reach of each type of evidence: ocean sediment cores cover the whole Quaternary and beyond, Antarctic ice cores about 800,000 years, pollen thousands of years, tree rings hundreds to several thousand, historical records hundreds, instrumental records about 170 years and satellites since the 1970s." loading="lazy">
+  <figcaption>Each type of evidence covers a different span; together they reach back through the Quaternary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--03-ice-cores-recent-evidence.webp" width="900" height="518" alt="Left: an ice core with older layers deeper down; air bubbles record carbon dioxide and the ice chemistry records the temperature when the snow fell. Right: carbon dioxide has risen from about 280 parts per million before the industrial era to more than 420 today, and 2011–2020 was about 1.1 °C warmer than 1850–1900." loading="lazy">
+  <figcaption>Ice cores reach back hundreds of thousands of years; instruments show the recent rise.</figcaption>
+</figure>
+
 ## Natural causes
 
 | Cause | How it works | Timescale |
@@ -53,6 +68,11 @@ Confidence comes from **different kinds of evidence agreeing**.
 | Orbital changes (Milankovitch cycles) | Orbit shape (about 100,000 years), tilt (about 41,000 years) and wobble (about 26,000 years) change how solar energy is spread | Thousands of years |
 | Volcanic activity | Sulphur dioxide forms droplets that reflect sunlight; cooling (Pinatubo 1991: about 0.5 °C) | One to a few years |
 | Solar output | Small variations, including an 11-year sunspot cycle; Maunder Minimum about 1645-1715 | Years to centuries |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--04-natural-causes.webp" width="900" height="603" alt="Three natural causes. Orbital changes: the orbit’s shape varies over about 100,000 years, the tilt over about 41,000 and the wobble over about 26,000. Volcanic activity: sulphur dioxide droplets reflect sunlight, as when Pinatubo in 1991 cooled the Earth by about 0.5 °C for a year or two. Solar output: an 11-year sunspot cycle, and the Maunder Minimum during the Little Ice Age." loading="lazy">
+  <figcaption>Natural causes act either very slowly or only briefly.</figcaption>
+</figure>
 
 ## Human causes
 
@@ -65,6 +85,11 @@ Confidence comes from **different kinds of evidence agreeing**.
 **Enhanced greenhouse effect:** more greenhouse gases trap more heat radiated from the Earth's surface.
 
 **Why recent warming is human-caused:** orbital changes are too slow; volcanic and solar effects are too small and short-lived; the warming since about 1850 matches the rise in greenhouse gases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--05-human-causes.webp" width="900" height="627" alt="Burning fossil fuels releases carbon dioxide; agriculture releases methane from livestock and rice fields and nitrous oxide from fertilisers; deforestation releases carbon dioxide and removes a carbon store. Together they strengthen the greenhouse effect. Orbital change is too slow and volcanic and solar change too small to explain warming since 1850." loading="lazy">
+  <figcaption>Activity, gas, trapped heat: the chain that turns a list into an explanation.</figcaption>
+</figure>
 
 ## Effects (overview)
 
@@ -80,6 +105,16 @@ Confidence comes from **different kinds of evidence agreeing**.
 | Carbon capture: capture CO2 and store it underground | Manage water supply: reservoirs, transfers, desalination, rainwater collection, metering |
 | Planting trees: absorb CO2 as they grow | Reduce sea-level risk: sea walls, flood barriers, buildings on stilts, mangroves, moving away from at-risk coasts |
 | International agreements: Kyoto Protocol (1997), Paris Agreement (2015: well below 2 °C, aim for 1.5 °C) | Example: the Netherlands' Delta Works |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--06-mitigation-adaptation.webp" width="900" height="702" alt="A chain from human activities to emissions, climate change and effects. Mitigation acts on the causes through alternative energy, carbon capture, planting trees and international agreements such as Kyoto and Paris, each with a limitation. Adaptation responds to the effects through changed farming, water management and protection from rising seas." loading="lazy">
+  <figcaption>Mitigation cuts the causes; adaptation copes with the effects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--07-sea-level-adaptation.webp" width="900" height="593" alt="A schematic coastal cross-section with present and higher sea levels. Mangroves are restored offshore to absorb wave energy, a sea wall protects the shore, a house is raised on stilts, and people and buildings are moved inland away from the most at-risk coast." loading="lazy">
+  <figcaption>Defend, raise, restore or retreat: four ways to reduce the risk from rising seas.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -47,6 +47,11 @@ including remainders**. Integer division is "usually a two-stage process": `11 D
 Language names vary: Python `//` and `%`; Visual Basic `\` and `Mod`; C# `%` for remainder. **Use `DIV` and
 `MOD` in exam answers** where the question uses them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-arithmetic-operations--01-real-div-mod.webp" width="900" height="604" alt="Eight counters shared into groups of 5 make one full group with 3 left over. 8 / 5 gives the real number 1.6, 8 DIV 5 gives the integer 1 and 8 MOD 5 gives the integer remainder 3. In the exam pseudocode 7 / 2 is 3.5." loading="lazy">
+  <figcaption>/ gives a real answer; DIV counts the whole groups and MOD gives what is left.</figcaption>
+</figure>
+
 ## Rules to remember
 
 - `/` in the specification's pseudocode is **real division**: `9 / 2 = 4.5`.
@@ -55,6 +60,11 @@ Language names vary: Python `//` and `%`; Visual Basic `\` and `Mod`; C# `%` for
 - **Check:** `(a DIV b) * b + (a MOD b) = a`.
 - If `a < b`: `a DIV b = 0` and `a MOD b = a` (e.g. `4 DIV 9 = 0`, `4 MOD 9 = 4`).
 - If `b` divides `a` exactly: `a MOD b = 0`.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-arithmetic-operations--02-div-mod-two-stages.webp" width="900" height="649" alt="23 counters are split into 5 full groups of 4 with 3 left over, so 23 DIV 4 is 5 and 23 MOD 4 is 3; the check (23 DIV 4) * 4 + (23 MOD 4) gives 5 * 4 + 3 = 23. Two special cases: 3 DIV 8 = 0 and 3 MOD 8 = 3, and 24 MOD 6 = 0." loading="lazy">
+  <figcaption>DIV and MOD are two halves of one division: quotient times divisor plus remainder gives the number back.</figcaption>
+</figure>
 
 ## Standard patterns
 
@@ -69,10 +79,25 @@ Language names vary: Python `//` and `%`; Visual Basic `\` and `Mod`; C# `%` for
 | Full groups and leftovers | `items DIV size`, `items MOD size` | 29 pupils, teams of 4 → 7 teams, 1 left |
 | Every nth item | `i MOD n = 0` | Do something on every 3rd pass |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-arithmetic-operations--03-div-mod-toolkit.webp" width="900" height="686" alt="472 MOD 10 gives the last digit 2 and 472 DIV 10 gives 47. 200 minutes is 200 DIV 60 = 3 hours and 200 MOD 60 = 20 minutes; 50 eggs in boxes of 6 is 8 full boxes and 2 left. n MOD 2 = 0 tests for even, a MOD b = 0 tests for a factor, and day MOD 7 repeats a weekly pattern." loading="lazy">
+  <figcaption>DIV counts whole units or groups; MOD gives the remainder, the last digit or a repeating cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-arithmetic-operations--04-seconds-to-minutes.webp" width="900" height="594" alt="The pseudocode sets totalSeconds to 437, then uses DIV 60 and MOD 60. On a number line marked every 60 seconds, 437 lies after 420 (7 × 60) and before 480, so there are 7 full minutes and 17 seconds left. The output is 7 min 17 s." loading="lazy">
+  <figcaption>DIV 60 counts the full minutes; MOD 60 is the seconds left after them.</figcaption>
+</figure>
+
 ## Order of operations
 
 Brackets → `*`, `/`, `DIV`, `MOD` → `+`, `-`. So `10 - 6 / 2 = 7` but `(10 - 6) / 2 = 2`.
 Averages need brackets: `(a + b + c) / 3`.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-arithmetic-operations--06-order-of-operations.webp" width="900" height="710" alt="Two expression trees. In 2 + 3 * 4 the multiplication 3 * 4 is done first, giving 14; in (2 + 3) * 4 the bracketed addition is done first, giving 20. Below, average ← a + b + c / 3 divides only c by 3, while average ← (a + b + c) / 3 is correct." loading="lazy">
+  <figcaption>Multiplication and division (including DIV and MOD) come before + and −, unless brackets say otherwise.</figcaption>
+</figure>
 
 ## Quick trace to remember
 
@@ -85,6 +110,11 @@ OUTPUT tens
 `247 DIV 10 = 24`, then `24 MOD 10 = 4`, so `4` (the tens digit) is output. Combining `DIV` to shift the number
 right and `MOD` to keep the last digit picks out any digit: `(n DIV 100) MOD 10` gives the hundreds digit, `2`.
 Questions often hide this pattern inside a loop, so trace each expression in its own column.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-arithmetic-operations--05-digit-sum-trace.webp" width="900" height="715" alt="Pseudocode that adds the digits of 4827 with a WHILE loop, and its trace table. Each pass, number MOD 10 gives the last digit (7, 2, 8, 4), digitSum grows to 7, 9, 17 and 21, and number DIV 10 gives 482, 48, 4 and 0. The loop stops at 0 and outputs 21." loading="lazy">
+  <figcaption>MOD 10 peels off the last digit and DIV 10 removes it, pass by pass.</figcaption>
+</figure>
 
 ## Key terms
 

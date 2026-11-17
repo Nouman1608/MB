@@ -51,6 +51,11 @@ The anthology list changes only when Pearson revises the specification; check it
 Context is not one of the objectives here, so use it only in a phrase that supports a point about
 the words on the page.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-anthology-poetry--01-three-levels-of-comparison.webp" width="900" height="708" alt="Poem 1 and Poem 2 are linked by two-way arrows at three levels: ideas and attitudes about the question’s focus, the methods each poet uses, and the different effects on the reader. A note says AO3 credit comes from the relationship between the poems." loading="lazy">
+  <figcaption>Strong answers compare ideas, methods and effects, not just content.</figcaption>
+</figure>
+
 ## The sixteen poems at a glance
 
 | Poem (poet) | Focus | Methods to analyse |
@@ -72,6 +77,11 @@ the words on the page.
 | *Do not go gentle into that good night* (Dylan Thomas) | A plea to a dying father to resist death | Villanelle; two refrains; examples of different men facing death |
 | *Remember* (Christina Rossetti) | A dying speaker's request to a loved one | Petrarchan sonnet; volta that changes the request from remembering to forgetting |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-anthology-poetry--02-theme-clusters.webp" width="900" height="946" alt="Six theme clusters on the left are linked to the sixteen anthology poems on the right: parents and children, childhood, death and suffering, love and loss, power and control, and identity and language. Piano, Do not go gentle into that good night, Remember and La Belle Dame sans Merci each belong to two clusters." loading="lazy">
+  <figcaption>Most poems fit more than one cluster, so revise them in pairs.</figcaption>
+</figure>
+
 ## The poems by form
 
 | Form | Poem(s) | Comparison hook |
@@ -85,6 +95,11 @@ the words on the page.
 | A single extended sentence of conditions | *If* | Advice held back until the end |
 | Free or broken form | *Half-caste*, *Search For My Tongue* | Layout and language as part of the argument |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-anthology-poetry--03-form-comparison.webp" width="900" height="842" alt="Two sonnets drawn as fourteen lines each. Sonnet 116 builds an argument to a closing rhyming couplet; Remember turns after line 8, from request to permission in the sestet. Cards below name other anthology forms: a villanelle, a dramatic monologue, a ballad, and free or broken form." loading="lazy">
+  <figcaption>Compare how each poet uses a form, not just which form it is.</figcaption>
+</figure>
+
 ## Pairing grid (shared focus, different method)
 
 - *Piano* + *Poem at Thirty-Nine*: an adult remembering a parent; nostalgia versus admiration.
@@ -94,6 +109,11 @@ the words on the page.
 - *Search For My Tongue* + *Half-caste*: identity and language; loss and regrowth versus challenge.
 - *Do not go gentle into that good night* + *Remember*: facing death; resistance versus acceptance.
 - *War Photographer* + *Blessing*: suffering seen from outside; guilt and indifference versus joy amid hardship.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-anthology-poetry--06-choosing-second-poem.webp" width="900" height="738" alt="Piano is named in a question on memory. Two possible partners branch from it: Poem at Thirty-Nine, with two adult speakers remembering a parent, and Half-past Two, with childhood memories in a very different tone. A checklist asks whether the second poem gives three comparable points, differs in method and is known well enough." loading="lazy">
+  <figcaption>Pick a partner that shares the focus but differs in method, and decide fast.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -112,6 +132,11 @@ the words on the page.
 - "Both poets present X, but where Poet A uses ..., Poet B ..."
 - "Unlike the controlled form of ..., the looser structure of ... suggests ..."
 - "Similarly, ... yet the effect is different because ..."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-anthology-poetry--05-comparative-sentence.webp" width="900" height="516" alt="The guide’s sample sentence split into four labelled parts: the connective “Where”, a method in Sonnet 116 (the couplet), a method in Remember (the sestet), and the difference in effect. A row of other comparative connectives follows: whereas, similarly, in contrast, both, however, unlike." loading="lazy">
+  <figcaption>Connective, a method in each poem, and the difference it makes.</figcaption>
+</figure>
 
 ## Annotated model paragraph
 

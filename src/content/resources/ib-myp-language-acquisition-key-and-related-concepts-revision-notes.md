@@ -54,6 +54,16 @@ Links: [course hub](/boards/ib/ib-myp/myp-language-acquisition/) · [printable c
 | Idiom | Related concept (example) | A fixed phrase whose meaning is not the sum of its words | Explaining *tomar el pelo* as "to tease" |
 | Statement of inquiry | Unit planning | One general claim joining a key concept, related concept(s) and a global context | "Cultural expectations shape the conventions of polite requests." |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--01-concept-layers.webp" width="900" height="715" alt="The four key concepts for language acquisition are communication, connections, creativity and culture; the brief’s related-concept examples are word choice, conventions and idiom. Both are explored through the six global contexts. A topic such as food is not a concept; culture is a concept that applies to food, festivals and slang alike." loading="lazy">
+  <figcaption>Key concepts frame, related concepts ground, contexts give the setting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--02-communication-audience-purpose-mode.webp" width="900" height="645" alt="Communication has three checkable parts: audience, purpose and mode. The same cancellation becomes an informal spoken voicemail to a friend and a formal written email to a teacher. Statement of inquiry: the way we adapt our words to an audience shapes whether a message is understood and accepted." loading="lazy">
+  <figcaption>Same message, different audience: the language has to change.</figcaption>
+</figure>
+
 ## The statement-of-inquiry formula
 
 ```
@@ -73,6 +83,16 @@ Checklist -- a strong statement of inquiry is:
 **Weak:** "In this unit we will learn about holidays in Spain." (A task description; no concept.)
 **Strong:** "Where and how people celebrate reflects the culture and history of a community." (Culture; conventions; orientation in space and time.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--05-statement-of-inquiry.webp" width="900" height="760" alt="For a unit on social media and friendship: choose the key concept communication, the related concepts conventions and word choice, and the global context identities and relationships; write the claim “The conventions of online communication shape how we build and keep friendships”; test that it transfers, is a claim and names no app; then add factual, conceptual and debatable questions." loading="lazy">
+  <figcaption>Concept + related concepts + context = one general, transferable claim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--06-inquiry-question-types.webp" width="900" height="625" alt="Three question types in language acquisition: factual (how do you open a formal letter in Spanish?), conceptual (why do languages have different levels of politeness?) and debatable (should young people use slang in a job interview?). A question such as “How do people make friends online?” is an inquiry question, not a statement of inquiry." loading="lazy">
+  <figcaption>The curriculum explores all three kinds of question.</figcaption>
+</figure>
+
 ## Method in steps
 
 ### Choosing the right words (word choice)
@@ -83,6 +103,11 @@ Checklist -- a strong statement of inquiry is:
 4. Swap vague words for precise ones ("nice" → "welcoming", "spacious", "tasty").
 5. Check connotation: does each word carry the feeling you want?
 6. Check for false friends.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--03-word-choice-complaint.webp" width="900" height="720" alt="An informal complaint to a hotel, “Hey! Your room was rubbish and I want my cash back”, is rewritten for a formal audience: “Hey!” becomes “Dear Sir or Madam”, “rubbish” becomes “not of the standard advertised”, “cash back” becomes “a refund”, and a precise detail about the broken shower is added." loading="lazy">
+  <figcaption>Match words to the audience, then add precision.</figcaption>
+</figure>
 
 ### Following conventions
 
@@ -98,6 +123,11 @@ Checklist -- a strong statement of inquiry is:
 2. Use surrounding clues to infer the real meaning.
 3. Record it as: idiom → meaning → your own example sentence.
 4. In translation, match the meaning, not the words.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--04-decoding-an-idiom.webp" width="900" height="730" alt="Four steps for an idiom met in a French blog: notice the literal meaning (“he put a rabbit on me”) makes no sense; use the context (the writer waited an hour at a café); infer the meaning (“he stood me up”); and record the idiom with its meaning and an example, not a literal translation." loading="lazy">
+  <figcaption>Idioms are decoded from context and learned as whole expressions.</figcaption>
+</figure>
 
 ### Using an idiom in your own work
 

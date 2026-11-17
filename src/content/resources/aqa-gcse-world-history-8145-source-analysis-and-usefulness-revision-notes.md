@@ -36,11 +36,21 @@ featured: false
 
 Together they are 16 of the 40 Section B marks: around 5 minutes for question 1, 15 for question 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--07-section-b-timing.webp" width="900" height="505" alt="Time bar: about five minutes for question 1 and fifteen for question 2. Annotate each source by circling the date and author, underlining two content details and noting one fact. Write one paragraph per source and a comparing sentence." loading="lazy">
+  <figcaption>About five minutes for question 1, fifteen for question 2.</figcaption>
+</figure>
+
 ## Content, provenance, context
 
 - **Content**: what it says or shows; the message; what you can infer.
 - **Provenance**: nature (type), origin (author, place, date), purpose (why made, for whom). Remember **NOP**.
 - **Context**: what was happening at the time; your knowledge that confirms, explains or adds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--01-content-provenance-context.webp" width="900" height="493" alt="Three cards: content (what the source says and shows), provenance (who made it, when, why and for whom) and context (what was happening and what you know). Below, a chain: content shows a view, provenance explains why, context shows how it fits." loading="lazy">
+  <figcaption>Content, provenance and context: connect all three.</figcaption>
+</figure>
 
 ## Cartoon checklist
 
@@ -51,11 +61,21 @@ Together they are 16 of the 40 Section B marks: around 5 minutes for question 1,
 5. Message in one sentence
 6. Provenance: country, publication, date
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--02-reading-a-cartoon.webp" width="900" height="479" alt="Six steps for reading a cartoon, in order: caption and labels, figures and caricature, symbols, action, the message in one sentence, and provenance, which can explain why two cartoons of the same event disagree." loading="lazy">
+  <figcaption>Work from labels and symbols to the message, then use provenance to explain it.</figcaption>
+</figure>
+
 ## Question 1 recipe
 
 - Detail from the source **+** what it shows about the view.
 - Second detail **+** contextual knowledge explaining why this view was held then.
 - Provenance (publication, country, date) **+** why the maker would take this line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--03-question-1-frame.webp" width="900" height="527" alt="Question 1 frame: an example question on the Munich Agreement, then two details from the source, one supported by contextual knowledge and one by provenance." loading="lazy">
+  <figcaption>Two explained details, one backed by context and one by provenance.</figcaption>
+</figure>
 
 ## Question 2 recipe (for each source)
 
@@ -63,6 +83,11 @@ Together they are 16 of the 40 Section B marks: around 5 minutes for question 1,
 2. **Because of who made it** -- provenance explained: what the type, author and date make it good evidence of.
 3. **Less useful for** -- gaps or one-sidedness, explained by provenance.
 4. **Compare** -- a final sentence on how the two sources work together or which is more useful for this enquiry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--04-question-2-each-source.webp" width="900" height="771" alt="Three steps for each source in question 2: content and context, provenance, and what it is less useful for. Below, a table of what different source types are useful evidence of, including a Soviet newspaper on Hungary in 1956." loading="lazy">
+  <figcaption>Every source is useful for something: the skill is saying what for.</figcaption>
+</figure>
 
 ## What different types of source are useful for
 

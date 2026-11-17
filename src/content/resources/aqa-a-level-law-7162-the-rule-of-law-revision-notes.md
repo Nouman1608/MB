@@ -49,6 +49,16 @@ Always state these in the specification's words before using any theorist's vers
 
 **Bingham's eight in short form:** accessible and clear law; rights decided by law not discretion; equality (unless objectively justified); officials act in good faith and within limits; protection of fundamental rights; civil disputes resolved without prohibitive cost or delay; fair procedures; compliance with international law.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rule-of-law--01-three-accounts.webp" width="900" height="621" alt="Three theorists from formal to thicker. Dicey (1885): no punishment except for breach of law before the ordinary courts, everyone subject to the ordinary law, rights secured by judicial decisions. Raz (1977): a formal account in which law must be able to guide behaviour, so a system could comply and still be unjust. Bingham (2010): eight principles including human rights. A clear, prospective law that violates rights satisfies Raz but not Bingham." loading="lazy">
+  <figcaption>Raz and Bingham disagree about whether human rights belong in the rule of law.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rule-of-law--02-bingham-eight.webp" width="900" height="557" alt="Lord Bingham’s eight principles: accessible and clear law; rights decided by law not discretion; equality except where objectively justified; officials acting in good faith and within limits; protection of fundamental human rights; civil disputes resolved without prohibitive cost or delay; fair procedures; compliance with international law. Principle 5, human rights, is highlighted." loading="lazy">
+  <figcaption>Bingham’s account goes beyond form to include rights and access to justice.</figcaption>
+</figure>
+
 ## Authorities by element
 
 ### Element 1: sanction only in accordance with law
@@ -69,6 +79,11 @@ Always state these in the specification's words before using any theorist's vers
 - *R (Miller) v Prime Minister; Cherry* (2019): five-week prorogation unlawful.
 - *Anisminic* (1969); *Privacy International* (2019): ouster clauses read narrowly, preserving judicial review.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rule-of-law--03-three-elements-cases.webp" width="900" height="511" alt="Three columns of authorities. No sanction except in accordance with the law: Laporte (coaches turned back unlawfully), Lord Atkin’s dissent in Liversidge v Anderson, Article 7 ECHR. Equality before the law: M v Home Office (minister in contempt), R v Chaytor (MPs not protected by privilege), with exceptions for diplomats and the monarch. Fairness and clarity: Evans v Attorney General, Miller and Cherry (prorogation), Anisminic and Privacy International (ouster clauses read narrowly)." loading="lazy">
+  <figcaption>Each element is backed by modern cases where the courts held power to account.</figcaption>
+</figure>
+
 ## Application grid
 
 | Area | Respects the rule of law | Strains it |
@@ -78,6 +93,16 @@ Always state these in the specification's words before using any theorist's vers
 | Substantive law | Offences defined in advance; presumption of mens rea; Article 7 | Vague common law offences; strict liability; retrospective judicial change |
 
 **Balanced example:** *R v R* (1991) removed marital immunity for rape; *SW v United Kingdom* (1995) held no Article 7 breach because the change was foreseeable and consistent with human dignity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rule-of-law--04-three-areas.webp" width="900" height="548" alt="A table for the three areas. Law making: published, prospective statutes and section 19 HRA statements, against retrospective legislation, Henry VIII powers and ouster clauses. The legal system: independent judges, open courts, appeals and juries, against cost, reduced legal aid and delay. Substantive law: offences defined in advance and the presumption of mens rea, against vague common law offences, strict liability and retrospective judicial change." loading="lazy">
+  <figcaption>In each area, show where the doctrine is respected and where it is under strain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rule-of-law--05-r-v-r-balance.webp" width="900" height="540" alt="A balance tipped towards respect for human dignity over the principle of no retrospective liability. In R v R (1991) the House of Lords held a husband could be guilty of raping his wife; in SW v UK (1995) the European Court found no breach of Article 7 because the change was a foreseeable development consistent with human dignity." loading="lazy">
+  <figcaption>One rule of law principle can be outweighed by another value.</figcaption>
+</figure>
 
 ## Key terms
 

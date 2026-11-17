@@ -36,6 +36,11 @@ method and a worked model paragraph, use the
   methods (AO2), and an argued response in accurate writing (AO3).
 - Unit 1 is 2 hours for two answers, so allow about **an hour** for Section A.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-aspects-of-dramatic-tragedy--09-dt-exam.webp" width="900" height="790" alt="The Unit 1 exam lasts 2 hours, is closed book and is worth 50 marks. Section A, 25 marks, is a passage-based question on the chosen Elizabethan or Jacobean tragedy. Section B, 25 marks, is an essay question on the chosen later tragedy. Because two plays are written on, the quotation bank for revision needs equal depth for both plays." loading="lazy">
+  <figcaption>Two plays, two question types, 25 marks each, no books in the room.</figcaption>
+</figure>
+
 ## The five plays (Version 5.3)
 
 | Play | Playwright | A tragic angle worth revising |
@@ -48,6 +53,11 @@ method and a worked model paragraph, use the
 
 Check your list with your teacher: a revised 9675 for teaching from 2027 has a refreshed set-text
 list.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-a--01-section-a-plays.webp" width="900" height="804" alt="Five Section A plays grouped by playwright: Othello, King Lear and Hamlet by Shakespeare, Doctor Faustus (B text) by Marlowe, and The Duchess of Malfi by Webster. The passage is printed on the paper; the rest of the play must come from memory. A timeline shows the A text of Doctor Faustus printed in 1604 and the longer B text, the one the specification names, printed in 1616." loading="lazy">
+  <figcaption>One play, one printed passage, and everything else from memory.</figcaption>
+</figure>
 
 ## Aspects of tragedy a passage can show
 
@@ -66,6 +76,11 @@ The specification lists areas to explore rather than a closed list:
 - the **audience**: pity, fear and understanding of the human condition.
 
 Remember: the **absence** of an aspect can be as significant as its presence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-a--02-aspects-of-tragedy.webp" width="900" height="729" alt="A hub labelled the passage links to seven aspects of tragedy suggested by the specification: the protagonist’s journey towards death, the villain or opponent in a contest of power, fate, structure from order to disorder, plots and sub-plots, dramatic language, and the audience moved through pity and fear. A note says the absence of an aspect can be as significant as its presence." loading="lazy">
+  <figcaption>Seven productive aspects, and the absence of one can matter as much.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -94,6 +109,16 @@ English, so either is acceptable when used accurately.
 3. **Name** the tragic aspect each point illuminates.
 4. **Reach** out to two other moments from memory: one before, one after.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-a--03-place-the-passage.webp" width="900" height="580" alt="A falling curve runs from order through complication to catastrophe. An early passage near the start usually sets up the flaw or the contest of power; a late passage near the end usually shows recognition, suffering or catastrophe." loading="lazy">
+  <figcaption>Where the passage falls in the arc shapes what it is likely to show.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-a--04-four-step-method.webp" width="900" height="744" alt="Four numbered steps: place the passage in the tragic arc, read the dramatic method closely, name the aspect of tragedy at stake, and reach outward to at least two other moments. Below, an observation that Iago speaks in prose becomes analysis when it explains how his plain prose helps the villain win the contest of power." loading="lazy">
+  <figcaption>Name the tragic aspect each method serves, then reach out to the rest of the play.</figcaption>
+</figure>
+
 ## Context that earns its place
 
 - **Revenge tragedy**: the ghost, delay, feigned madness, the violent final act.
@@ -102,6 +127,11 @@ English, so either is acceptable when used accurately.
 - **Staging**: a bare stage, boy actors in female roles, language creating night and storm.
 
 Each contextual point should change how a specific line or moment reads.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-a--05-context.webp" width="900" height="619" alt="A table of five contexts: revenge tragedy conventions for Hamlet and The Duchess of Malfi, the morality-play tradition for Doctor Faustus, the fall of the great for King Lear and Othello, ideas of order for The Duchess of Malfi and King Lear, and performance conditions such as boy actors and a bare stage." loading="lazy">
+  <figcaption>Each context earns credit only when it changes how a specific line reads.</figcaption>
+</figure>
 
 ## Exam traps
 

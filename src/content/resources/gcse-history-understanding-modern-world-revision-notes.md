@@ -34,6 +34,16 @@ depth study, choose one of five). **Confirm your school's exact two options befo
 | A: Period study | America 1840-95, Germany 1890-1945, Russia 1894-1945, America 1920-73 | Broad political/economic/social change over decades |
 | B: Wider world depth study | WWI, Inter-War Years, East-West 1945-72, Asia 1950-75, Gulf/Afghanistan 1990-2009 | Tighter focus on causes/course of specific conflicts |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-understanding-the-modern-world-options--06-um-paper-shape.webp" width="900" height="1180" alt="Paper 1 has two equally weighted sections. Section A offers four period studies (AA to AD) and Section B offers five wider world depth studies (BA to BE). You choose one from each, and the date ranges are shown." loading="lazy">
+  <figcaption>Choose one period study and one wider world depth study.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-understanding-the-modern-world-options--07-um-time-spans.webp" width="900" height="870" alt="Each option is a bar on one timeline from 1830 to 2010. The four period studies run for 51 to 55 years each, while the five depth studies are shorter, 19 to 27 years each." loading="lazy">
+  <figcaption>Period studies span about 51-55 years; depth studies 19-27 years.</figcaption>
+</figure>
+
 ## The two skills every option tests
 
 Regardless of which options your school teaches: **causation** (why did things happen/change) and
@@ -46,6 +56,11 @@ Both period studies and depth studies tend to follow a three-phase structure: an
 (establishment or aftermath of something), a middle phase (crisis, upheaval or diplomatic effort), and
 a final phase (lived experience or breakdown into renewed conflict). Revising all three phases evenly —
 not concentrating only on the most dramatic middle section — covers the specification properly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-understanding-the-modern-world-options--08-um-three-phases.webp" width="900" height="880" alt="A period study such as AB Germany moves from a political system, through a crisis, to ordinary people’s lived experience. A depth study such as BB Inter-War Years moves from the aftermath of a conflict, through an international peace effort, to breakdown." loading="lazy">
+  <figcaption>Period and depth studies share a three-part shape.</figcaption>
+</figure>
 
 ## Worked example: long-term, short-term, trigger
 
@@ -61,6 +76,11 @@ Connection:   explain how the three reinforced each other -- AQA's
               causes", which naming all three does not show
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-understanding-the-modern-world-options--09-um-causation.webp" width="900" height="840" alt="Three bars sort the causes of the collapse of Weimar democracy: the long-term weak constitution and Versailles resentment, the short-term Depression from 1929, and the trigger of Hindenburg appointing Hitler in January 1933. Arrows show they reinforce each other and all lead to the collapse." loading="lazy">
+  <figcaption>Sort causes into long-term, short-term and trigger, then connect them.</figcaption>
+</figure>
+
 ## Building an answer to a "how far" question
 
 Change-and-continuity questions ask you to weigh the extent of change, not just describe it. A
@@ -70,6 +90,11 @@ significantly for African Americans through the Civil Rights movement, but econo
 persisted in many respects — a strong answer weighs both sides explicitly before concluding, rather
 than presenting only the changes and ignoring the continuities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-stalins-modernisation--06-extent-of-modernisation.webp" width="900" height="553" alt="Two columns weighing the extent of modernisation: heavy industry, cities, education and eastern industry were transformed, but agriculture, consumer goods and housing lagged, and the costs in forced labour, terror and famine were enormous." loading="lazy">
+  <figcaption>Industry and defence modernised; the countryside and living standards did not.</figcaption>
+</figure>
+
 ## Source-based questions
 
 Because Paper 1 also includes source-based tasks, practise the standard approach: identify what a
@@ -78,6 +103,16 @@ to evaluate its usefulness or reliability for a specific historical enquiry — 
 source purely as a fact to describe. This skill applies across whichever period study and depth study
 your school has taught, since the source-handling technique itself does not depend on the specific
 content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--01-content-provenance-context.webp" width="900" height="493" alt="Three cards: content (what the source says and shows), provenance (who made it, when, why and for whom) and context (what was happening and what you know). Below, a chain: content shows a view, provenance explains why, context shows how it fits." loading="lazy">
+  <figcaption>Content, provenance and context: connect all three.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-source-analysis-and-usefulness--04-question-2-each-source.webp" width="900" height="771" alt="Three steps for each source in question 2: content and context, provenance, and what it is less useful for. Below, a table of what different source types are useful evidence of, including a Soviet newspaper on Hungary in 1956." loading="lazy">
+  <figcaption>Every source is useful for something: the skill is saying what for.</figcaption>
+</figure>
 
 ## Exam traps
 
@@ -97,6 +132,11 @@ evidence they emphasise, the questions they set out to answer, or the historical
 were writing. Practise explaining a difference between two interpretations in terms of what each
 historian focused on, rather than simply asserting that one interpretation is more convincing without
 evidence for the claim.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--03-question-2-reasons.webp" width="900" height="601" alt="Four reasons authors differ: experience, hindsight, purpose and audience, and focus. Below, weak answers that just say &quot;biased&quot; are contrasted with strong answers that connect provenance to the particular difference." loading="lazy">
+  <figcaption>Explain the difference through each author's experience, date, purpose and audience.</figcaption>
+</figure>
 
 ## Building a revision timetable around your two options
 

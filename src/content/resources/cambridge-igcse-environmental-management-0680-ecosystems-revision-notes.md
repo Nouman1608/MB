@@ -48,6 +48,16 @@ Condensed notes for sub-topic 5.1 of Cambridge IGCSE Environmental Management (0
 
 Hierarchy: individual → population → community → ecosystem (community plus abiotic environment).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ecosystems--01-components.webp" width="900" height="686" alt="Nested boxes for a savannah. The habitat is open grassland with scattered trees. Inside it the community includes grasses, trees, lions, termites, birds and zebras. Inside the community the population is all the zebras in one reserve. Below, habitat is defined as where an organism lives and niche as its role." loading="lazy">
+  <figcaption>A population is one species; a community is all of them; a niche is a role, not a place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ecosystems--02-predator-prey.webp" width="900" height="670" alt="Sketch graph of animal numbers over time. Prey numbers rise and fall in cycles, and predator numbers follow the same pattern a little later. Below: more prey supports more predators, which reduce the prey, so predators later decline." loading="lazy">
+  <figcaption>Predator numbers follow prey numbers, a step behind.</figcaption>
+</figure>
+
 ## Biotic and abiotic (5.1.2)
 
 - Biotic: producers; primary, secondary and tertiary consumers; decomposers.
@@ -71,6 +81,11 @@ Link each abiotic factor to a need: light → photosynthesis; oxygen → respira
 | Energy | Sunlight is the source; chlorophyll captures it | Energy released from glucose |
 | Where and when | Producers, in light | All organisms, all the time |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ecosystems--03-photosynthesis-respiration.webp" width="900" height="620" alt="Two curved arrows link carbon dioxide and water with glucose and oxygen. Photosynthesis goes one way using sunlight energy captured by chlorophyll; aerobic respiration goes the other way and releases energy. Photosynthesis happens only in producers in light; respiration happens in all organisms day and night." loading="lazy">
+  <figcaption>Respiration reverses the reactants and products of photosynthesis.</figcaption>
+</figure>
+
 ## Energy flow (5.1.6)
 
 - Order: producer → primary → secondary → tertiary consumer.
@@ -80,12 +95,22 @@ Link each abiotic factor to a need: light → photosynthesis; oxygen → respira
 
 Quick maths: energy at level n+1 = energy at level n × 0.1. Efficiency = energy at higher level / energy at lower level × 100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ecosystems--04-energy-flow.webp" width="900" height="670" alt="Food chain of algae, water flea, small fish and heron. The energy at each level falls from 60,000 to 6,000, 600 and 60 kJ per square metre per year, because only 10% passes on; the rest is lost through respiration, movement, digestion and excretion. From algae to water fleas, 54,000 kJ is lost." loading="lazy">
+  <figcaption>Only about 10% passes to the next level, so food chains are short.</figcaption>
+</figure>
+
 ## Pyramids (5.1.7)
 
 | Pyramid | Shows | Shape |
 |---|---|---|
 | Numbers | Number of organisms at each trophic level | Usually a pyramid; can be inverted when one large producer, such as a tree, supports many small consumers |
 | Energy | Energy at each level, for example kJ per square metre per year | Always a pyramid, because energy is lost at each step |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ecosystems--05-pyramids.webp" width="900" height="630" alt="Left: a woodland pyramid of numbers with 1 oak tree, 2,000 caterpillars, 40 small birds and 2 hawks; the producer bar is narrower than the caterpillar bar, so the pyramid is inverted at the base. Right: a pyramid of energy where each level is smaller than the one below." loading="lazy">
+  <figcaption>Numbers can be inverted by one large producer; energy never can.</figcaption>
+</figure>
 
 ## Carbon cycle (5.1.9): six processes
 
@@ -97,6 +122,11 @@ Quick maths: energy at level n+1 = energy at level n × 0.1. Efficiency = energy
 - **Combustion**: burning fuels → CO₂.
 
 Carbon is recycled; energy is not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ecosystems--06-carbon-cycle.webp" width="900" height="720" alt="Carbon dioxide in air or water is taken in by producers in photosynthesis and passed to consumers by feeding. Respiration by producers and consumers returns carbon dioxide; dead organisms and waste are decomposed and decomposers respire it back. Organisms buried without decomposition form fossil fuels, and combustion returns their carbon to the air." loading="lazy">
+  <figcaption>Name the store and the process: carbon cycles, while energy flows through and is lost.</figcaption>
+</figure>
 
 ## Exam traps
 

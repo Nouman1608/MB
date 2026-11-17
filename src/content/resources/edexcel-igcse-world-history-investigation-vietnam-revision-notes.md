@@ -68,6 +68,16 @@ questions with the [A4 practice questions](/resources/edexcel-igcse-world-histor
 | Mar 1973 | Last US combat troops leave |
 | 30 Apr 1975 | Fall of Saigon |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--01-vn-timeline.webp" width="900" height="960" alt="Vertical timeline of ten dates from 2 September 1945 to 30 April 1975, with marker shapes for the four phases of the war." loading="lazy">
+  <figcaption>The ten dates to know, in order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--02-vn-france-dbp.webp" width="900" height="715" alt="Schematic cross-section of a valley with a fortified French base on its floor and Vietminh artillery on the hills either side, firing down. The siege ran March to May 1954 and the garrison surrendered on 7 May." loading="lazy">
+  <figcaption>Giap’s artillery on the hills trapped the French base in the valley.</figcaption>
+</figure>
+
 ## US presidents and their policies
 
 | President | Policy |
@@ -79,6 +89,21 @@ questions with the [A4 practice questions](/resources/edexcel-igcse-world-histor
 | Nixon | Vietnamisation; wider war in Cambodia and Laos; Paris Accords |
 | Ford | No further US intervention; Saigon falls |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--03-vn-division.webp" width="900" height="935" alt="Schematic, not a map. Vietnam split at the 17th parallel into a communist North under Ho Chi Minh and a South under Diem backed by the USA. The NLF fights Diem and is supplied along the Ho Chi Minh Trail through Laos and Cambodia. The 1956 elections were refused." loading="lazy">
+  <figcaption>The country divided in 1954 and the supply line that fed the NLF.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--04-vn-escalation.webp" width="900" height="804" alt="Five steps rising from the Gulf of Tonkin incident in 1964 to over half a million US troops in 1968." loading="lazy">
+  <figcaption>Each step made a larger US commitment likely.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--06-vn-withdrawal.webp" width="900" height="852" alt="Vietnamisation shown as US troop figures fading out while South Vietnamese army figures fade in, then the widening of the war into Cambodia and Laos, then the Paris Peace Accords, last US troops leaving and the fall of Saigon." loading="lazy">
+  <figcaption>Vietnamisation, the widened war and the end.</figcaption>
+</figure>
+
 ## Tactics compared
 
 | US and ARVN | NLF and North Vietnam |
@@ -87,6 +112,11 @@ questions with the [A4 practice questions](/resources/edexcel-igcse-world-histor
 | Search and Destroy, helicopters, body counts | Ambushes, booby traps, hit-and-run |
 | Defoliation, napalm | Supply via the Ho Chi Minh Trail |
 | Strategic Hamlets, Hearts and Minds | Support from villagers; political cadres |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-warfare--05-war-guerrilla.webp" width="900" height="776" alt="A cross-section: on the surface a foreign army tank, a guerrilla ambush from behind cover, and villages giving support; underground, tunnels with guerrillas. Three reasons guerrillas outlasted foreign armies: they avoided battle, relied on local support, and could outlast foreign forces’ political will. In Vietnam US firepower could not defeat tunnels, ambushes and popular support. In Afghanistan from 1979 to 1989 mujahideen guerrillas wore down Soviet forces, and the USSR withdrew in 1989." loading="lazy">
+  <figcaption>Tunnels, ambushes and local support let guerrillas avoid battle and outlast foreign armies.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -111,6 +141,11 @@ questions with the [A4 practice questions](/resources/edexcel-igcse-world-histor
    communists lost many fighters, but the offensive destroyed American belief that the war was nearly
    won.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--05-vn-tet.webp" width="900" height="712" alt="Khe Sanh, Tet and Hue lead to two results: a military defeat for the communists but shattered American confidence, ending with Johnson not seeking re-election in March 1968." loading="lazy">
+  <figcaption>Tet was a military defeat but a political turning point.</figcaption>
+</figure>
+
 ## Why did the USA fail? Factors to weigh
 
 | Factor | Evidence |
@@ -121,6 +156,11 @@ questions with the [A4 practice questions](/resources/edexcel-igcse-world-histor
 | US tactics | Bombing, defoliation and My Lai turned civilians against the USA |
 | Opinion at home | Tet coverage, protest, Kent State, the credibility gap |
 | Political limits | Congress refused more aid in 1975 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--07-vn-impact.webp" width="900" height="925" alt="Two columns of icons: effects on Vietnamese civilians (napalm, Agent Orange, bombing and refugees, My Lai, Phoenix Programme) and in the USA (protests, draft-card burnings, Kent State, television coverage, Fulbright Hearings), with a note on pro-war demonstrations." loading="lazy">
+  <figcaption>The war harmed civilians in Vietnam and divided opinion in the USA.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

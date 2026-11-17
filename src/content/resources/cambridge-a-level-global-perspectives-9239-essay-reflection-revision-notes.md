@@ -33,6 +33,11 @@ These notes cover the two AO2 assessment points in Component 2, the Essay, of Ca
 - AO2 weighting: 22% of Component 2 (0% of Component 1).
 - Critical Path stage: **Reflection**, "explore the impact of research on personal perspectives".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--01-ao2-weight.webp" width="900" height="626" alt="AO2 Reflection is weighted at 22% of Component 2, the Essay, against 0% in the Written Exam. Below, the five Critical Path questions: viewpoint before research, how it relates to the perspectives, the impact of the research, why it had that effect, and what further research might help." loading="lazy">
+  <figcaption>Reflection is a fifth of the Essay mark, so it needs more than a closing sentence.</figcaption>
+</figure>
+
 ## The five-step reflection sequence
 
 1. **Starting point**: your view before research.
@@ -42,6 +47,16 @@ These notes cover the two AO2 assessment points in Component 2, the Essay, of Ca
 5. **Next step**: research that would test your new view.
 
 Each step answers one of the Critical Path's reflection questions, from "What was your personal viewpoint before carrying out research?" to "What additional research might be useful?"
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--02-reflection-sequence.webp" width="900" height="750" alt="Five steps: state your starting point, name the perspective that challenged or confirmed it, say whether your view was strengthened, qualified or reversed, give the specific argument or evidence that caused this, and suggest what would test your new view. Step 4, the reason, is highlighted as earning most credit." loading="lazy">
+  <figcaption>The reason your view moved, step 4, is where most of the credit lies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--03-three-movements.webp" width="900" height="591" alt="A starting view meets the strongest opposing case and ends up strengthened, qualified or reversed. Strengthened means explaining why the opposing argument did not persuade; qualified means the view holds only in some conditions; reversed means naming the argument or evidence that changed it." loading="lazy">
+  <figcaption>Any of the three outcomes counts as reflection, provided you give the reason.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -62,6 +77,11 @@ Each step answers one of the Critical Path's reflection questions, from "What wa
 - **Evaluation paragraphs**: brief reflective sentences where a perspective changes your thinking.
 - **Conclusion**: personal, supported view; why it moved or held; limits; further research.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--04-where-reflection-goes.webp" width="900" height="596" alt="An essay strip from introduction to conclusion with reflective moments marked: one in the introduction stating the starting view, several within the evaluation as each perspective is weighed, and one in the conclusion giving the personal supported view, the reason it moved or held, and the limits of the research." loading="lazy">
+  <figcaption>Reflection is woven through the essay, not saved for the final sentence.</figcaption>
+</figure>
+
 ## Useful limits to reflect on
 
 | Limit | Example consequence |
@@ -71,11 +91,21 @@ Each step answers one of the Critical Path's reflection questions, from "What wa
 | Own standpoint | "... I may have found the economic sources more persuasive because I started there." |
 | Unresolved disagreement | "... so the judgement depends on which of two credible studies is right." |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--05-limits-of-research.webp" width="900" height="673" alt="Four kinds of limit, coverage, type of evidence, your own standpoint and unresolved disagreement between credible sources, each lead to a consequence statement: so my conclusion applies more confidently to one case than to another." loading="lazy">
+  <figcaption>Name a limit, then say what it does to your conclusion.</figcaption>
+</figure>
+
 ## The what-why-change test for further research
 
 - **What**: a specific kind of evidence or perspective.
 - **Why**: the limit it would fill.
 - **Change**: how a result could alter your judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--06-further-research.webp" width="900" height="584" alt="A strong suggestion has three parts, each with an example: what (household surveys from rural areas of countries that have introduced the policy), why (my sources are mostly from cities), and how it could change the judgement (the conclusion might need to be limited to cities). “More research is needed” fails all three." loading="lazy">
+  <figcaption>Say what to research, why, and how the result could change your judgement.</figcaption>
+</figure>
 
 ## Model sentence frames
 
@@ -93,6 +123,11 @@ Question: "Should rich countries fund adaptation to rising sea levels in small i
 - **Strong:** "I began believing funding was a matter of charity. The perspective based on historical emissions persuaded me it is a matter of responsibility, because it showed that the states most at risk have contributed least to the cause. My view moved from voluntary to obligatory funding. My sources were mainly from donor governments, so reports from island governments on how adaptation money has been spent would test whether funding reaches the communities at risk."
 
 The strong version names the starting view, the perspective, the reason, the effect, a limit and a specific next step.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--07-worked-example.webp" width="900" height="759" alt="For the question on compulsory voting, the weak reflection only says the writer can see both sides. The strong reflection covers every step: a starting view, the liberty-based argument that challenged it, a qualified view, the reason (turnout evidence, but only with a none-of-the-above option), a limit in the countries studied, and specific comparative research." loading="lazy">
+  <figcaption>The strong version names what moved the writer and how far.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -39,6 +39,16 @@ built differently, and revising the wrong one wastes time.
 | Paired with | Paper 2 Texts (Unseen Passage, Poetry, Prose) | Paper 2 Grammar, Writing and Translation |
 | Pitched at | Native/near-native fluency | Learned additional language |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-and-second-language--01-two-syllabuses.webp" width="900" height="638" alt="Side by side: 3247 First Language Urdu, for candidates whose main language is Urdu, pairs Paper 1 Reading and Writing (50%) with Paper 2 Texts (50%); 3248 Second Language Urdu, for learners, pairs Paper 1 (50%) with Paper 2 Grammar, Writing and Translation (50%)." loading="lazy">
+  <figcaption>Same Paper 1 title and weighting, different second papers and different candidates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-and-second-language--02-two-paper-1s.webp" width="900" height="668" alt="3247 Paper 1 lasts 1 hour 30 minutes in two parts, Reading 25 marks and Writing 25 marks. 3248 Paper 1 lasts 1 hour 45 minutes in five exercises worth 8, 9, 9, 10 and 14 marks, including a summary exercise." loading="lazy">
+  <figcaption>Same title, different duration, structure and tasks.</figcaption>
+</figure>
+
 ## 3247 Paper 1 — the two parts
 
 **Part 1 Reading (25 marks).** A non-literary text of roughly 400
@@ -66,6 +76,11 @@ Marked on three strands, each with its own levels ladder:
 **language** (10 marks). Top band language needs a confident range of
 complex sentence structures and wide, accurate vocabulary; top band
 content needs insight and full relevance, not just correctness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-and-second-language--05-writing.webp" width="900" height="598" alt="Directed writing covers letters, speeches, reports, articles and dialogues; the 3247 composition offers a choice of argumentative, discursive, descriptive and narrative titles. Plan the argument or the ending first, and match the register to the task." loading="lazy">
+  <figcaption>Know the format, plan before writing, and keep the register right.</figcaption>
+</figure>
 
 ## 3248 Paper 1 — the five exercises
 
@@ -100,6 +115,11 @@ appropriate register and style/format for the given purpose and
 audience", one of the five writing objectives actually named in the
 syllabus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-and-second-language--07-worked-example.webp" width="900" height="726" alt="For a letter to the head teacher asking permission for a trip: respectful address and closing, aap throughout and never tum, formal vocabulary, and a clear request with reasons. The common error is slipping into informal address partway through." loading="lazy">
+  <figcaption>Choose the register once and hold it to the last line.</figcaption>
+</figure>
+
 ## The accuracy points that decide the grade
 
 - **Gender agreement** — noun, adjective **and** verb must all agree.
@@ -114,6 +134,11 @@ syllabus.
 3248 marks this explicitly under **W4** (control of punctuation and
 spelling); 3247 folds it into the Language strand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-and-second-language--06-accuracy.webp" width="900" height="584" alt="Six accuracy features: gender agreement, verb forms and consistent respect levels (tu, tum, aap), postpositions including the ergative ne, izafat and compounds, script accuracy with dots and diacritics, and Urdu punctuation." loading="lazy">
+  <figcaption>A small, predictable set of features: check every one before you finish.</figcaption>
+</figure>
+
 ## Reading method — both syllabuses
 
 1. Read the **questions or task headings first**.
@@ -124,6 +149,11 @@ spelling); 3247 folds it into the Language strand.
 4. Answer **in your own words** wherever a summary or note-making
    task requires it — 3248's Exercise 4 explicitly instructs this.
 5. Match answer length to the **marks available** for that part.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-and-second-language--04-question-types.webp" width="900" height="654" alt="Four question types: what asks for located detail, why for inference, the writer's attitude for evidence from word choice and tone, and in your own words for rephrasing. 3248 sets an explicit summary exercise; 3247 has no separate summary task." loading="lazy">
+  <figcaption>Each question type needs a different kind of answer.</figcaption>
+</figure>
 
 ## Exam traps
 

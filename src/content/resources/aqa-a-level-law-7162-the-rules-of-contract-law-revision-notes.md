@@ -35,6 +35,11 @@ consideration conditions                     frustration   rescission
 intention    exclusion                                      termination
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-contract-law--01-life-of-a-contract.webp" width="900" height="542" alt="Five arrow-shaped stages in order: formation (is there a contract?), terms (what was promised?), vitiating factors (is the agreement flawed?), discharge (how did it end?) and remedies (what can the innocent party get?). Problem answers work through only the stages the facts raise, in order." loading="lazy">
+  <figcaption>Formation, terms, vitiating factors, discharge, remedies: the order of every answer.</figcaption>
+</figure>
+
 ## Sources at a glance
 
 **Mainly common law:** offer and acceptance; consideration; intention to create legal relations; express and implied-in-fact terms; classification of terms; incorporation and construction of exclusion clauses; economic duress; frustration; damages.
@@ -50,6 +55,11 @@ intention    exclusion                                      termination
 
 **Statute overrides common law:** for example s31 CRA 2015 prevents exclusion of the consumer implied terms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-contract-law--02-sources-of-rules.webp" width="900" height="574" alt="Three sources of contract rules. Common law: offer and acceptance (Carlill, Adams v Lindsell), consideration (Currie v Misa, Williams v Roffey), intention (Balfour), implied terms (The Moorcock), economic duress (Atlas Express) and damages (Hadley v Baxendale). Statute: the 1999, 2015, 1977, 1967 and 1943 Acts. Equity: specific performance and rescission. Rules are case-based, and statute overrides common law." loading="lazy">
+  <figcaption>Cite a case for common law rules; check whether a statute overrides them.</figcaption>
+</figure>
+
 ## Burden and standard
 
 ```
@@ -62,6 +72,11 @@ Defendant ---- vitiating factor / frustration / exclusion ---- balance of probab
 - Agreement judged by what a reasonable person would understand from words and conduct.
 - *Smith v Hughes* (1871): buyer's private mistake about old and new oats did not prevent a contract.
 - Explains rules on offers, communication of acceptance and presumptions about intention.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-contract-law--03-objective-approach.webp" width="900" height="571" alt="In Smith v Hughes the seller sold new oats without mentioning age; the buyer privately believed they were old. The court asked what a reasonable person would understand the seller to be promising, so the buyer’s private mistake did not prevent a binding contract. The same objective approach applies to offers, acceptance and intention." loading="lazy">
+  <figcaption>Courts ask what a reasonable person would understand, not what one party privately meant.</figcaption>
+</figure>
 
 ## Consumer or business?
 
@@ -76,6 +91,11 @@ Defendant ---- vitiating factor / frustration / exclusion ---- balance of probab
 | Business to business | UCTA 1977 and common law |
 | Private individuals | Common law |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-contract-law--04-classify-contract.webp" width="900" height="568" alt="Three types of contract and their law: a trader and a consumer make a consumer contract under the Consumer Rights Act 2015; two businesses are governed by UCTA 1977 and common law; two private individuals by common law with limited statutory protection. Section 2 CRA 2015 defines trader and consumer." loading="lazy">
+  <figcaption>Who the parties are decides which statute applies.</figcaption>
+</figure>
+
 ## Status of contracts
 
 | Status | Meaning | Example |
@@ -87,6 +107,11 @@ Defendant ---- vitiating factor / frustration / exclusion ---- balance of probab
 
 **Rescission** (for voidable contracts) can be lost through affirmation, delay or third-party rights.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-contract-law--05-contract-status.webp" width="900" height="503" alt="Four statuses. Valid: binding and enforceable. Voidable: valid until the innocent party rescinds, as with misrepresentation or economic duress; the right can be lost by affirmation, delay or third-party rights. Unenforceable: valid but not enforceable in court, such as an unwritten guarantee under the Statute of Frauds. Void: no contract at all, such as where there is no acceptance." loading="lazy">
+  <figcaption>The status decides the remedy: rescission for voidable, damages for breach of a valid contract.</figcaption>
+</figure>
+
 ## Bilateral and unilateral
 
 | Bilateral | Unilateral |
@@ -94,6 +119,11 @@ Defendant ---- vitiating factor / frustration / exclusion ---- balance of probab
 | Promise for a promise | Promise for an act |
 | Most commercial and consumer sales | Rewards; *Carlill v Carbolic Smoke Ball Co* (1893) |
 | Accepted by communicating agreement | Accepted by performing the act |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-contract-law--06-bilateral-unilateral.webp" width="900" height="489" alt="Two panels. Bilateral: each party exchanges a promise for a promise. Unilateral: one party promises in return for an act, as in Carlill v Carbolic Smoke Ball Co, where £100 was promised to anyone who used the smoke ball as directed and still caught influenza. The type affects when acceptance happens and whether an offer can be withdrawn." loading="lazy">
+  <figcaption>Bilateral: promise for promise. Unilateral: promise for an act.</figcaption>
+</figure>
 
 ## Problem method
 

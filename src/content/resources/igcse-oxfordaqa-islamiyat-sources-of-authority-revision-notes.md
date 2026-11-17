@@ -60,6 +60,11 @@ A strong answer names which of the three stages a question is actually
 asking about, rather than describing the Qur'an's history as one
 undifferentiated process.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-sources-of-authority--04-revelation-preservation-compilation.webp" width="900" height="384" alt="Three separate stages: revelation, how the Qur'an was received; preservation, how it was memorised and recorded; and compilation, how it was assembled into a single text." loading="lazy">
+  <figcaption>Revelation, preservation and compilation are distinct stages.</figcaption>
+</figure>
+
 ## Hadith reliability: two tests, not one
 
 The four Hadith categories — **Sahih** (sound), **Hasan** (good),
@@ -74,6 +79,11 @@ Prophet (pbuh).
 a Hadith can have a strong chain of narrators (Isnad) but still raise
 questions about its content (Matn), or vice versa. Conflating the two
 into one generic "reliability check" loses marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-sources-of-authority--02-testing-and-grading-hadith.webp" width="900" height="500" alt="Two tests feed the grading: the isnad checks the chain of narrators back to the Prophet (pbuh), and the matn checks the content of the text. The four categories run from more to less reliable: Sahih, Hasan, Daeef and Maudu." loading="lazy">
+  <figcaption>Isnad tests the chain, matn tests the text; together they set the category.</figcaption>
+</figure>
 
 ## Ijma and Qiyas — know one example mechanism each
 
@@ -97,6 +107,11 @@ commands).
 3. **Explain** — how the Hadith supplies the practical detail the
 Qur'an does not.
 4. **Link** — back to the source's position in the hierarchy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-sources-of-authority--03-peel-hadith-importance.webp" width="900" height="532" alt="A four-row worked answer on why Hadith is needed: point (the Qur'an gives principles without always the method), evidence (Salah and Zakah are detailed by the Sunnah), explain (Hadith is the practical explanation) and link (so it is the second source of Shariah)." loading="lazy">
+  <figcaption>Use point, evidence, explain, link for &quot;importance&quot; questions.</figcaption>
+</figure>
 
 ## Sahih Bukhari and Sahih Muslim — one fact each
 

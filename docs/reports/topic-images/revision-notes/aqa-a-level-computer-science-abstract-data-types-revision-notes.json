@@ -1,0 +1,9 @@
+{ "page": "aqa-a-level-computer-science-abstract-data-types-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--01-queue-circular.webp", "after": "## Queues (4.2.2)" },
+ { "src": "https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--02-stack-lifo.webp", "after": "## Stacks (4.2.3)" },
+ { "src": "https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--03-graph-matrix-list.webp", "after": "## Graphs (4.2.4)" },
+ { "src": "https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--04-tree-definition.webp", "after": "## Trees (4.2.5)" },
+ { "src": "https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--05-bst-search.webp", "after": "## Trees (4.2.5)" },
+ { "src": "https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--06-hash-table.webp", "after": "## Hash tables (4.2.6)" },
+ { "src": "https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--07-vector-angle.webp", "after": "## Vectors (4.2.8)" }
+] }

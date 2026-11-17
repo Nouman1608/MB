@@ -1,0 +1,8 @@
+{ "page": "cambridge-igcse-physics-0625-electric-circuits-cambridge-igcse-physics-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp", "after": "## Components and how they behave (4.3.1)"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electric-circuits-cambridge-igcse-physics--01-diode-thermistor-ldr.webp", "after": "## Components and how they behave (4.3.1)"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electric-circuits-cambridge-igcse-physics--02-series-worked-example.webp", "after": "## Series rules (4.3.2)"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electric-circuits-cambridge-igcse-physics--03-reversed-cell.webp", "after": "## Series rules (4.3.2)"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electric-circuits-cambridge-igcse-physics--04-parallel-worked-example.webp", "after": "## Method in steps: mixed circuit (Extended only)"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electric-circuits-cambridge-igcse-physics--05-potential-divider.webp", "after": "## Potential dividers (4.3.3)"}
+] }

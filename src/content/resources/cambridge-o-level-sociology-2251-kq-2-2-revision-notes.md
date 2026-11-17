@@ -62,6 +62,11 @@ agencies; 2.2.6 their methods; 2.2.7 resistance through protest groups and subcu
 | **Formal** | Award, medal, official honour | Fine, arrest, prison sentence |
 | **Informal** | Praise, parental rewards, social media "likes", promotion | Ostracism, school punishment, gossip, dismissal from a job |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--01-sanctions-grid.webp" width="900" height="664" alt="A two-by-two grid of formal and informal control against positive and negative sanctions: a bravery award is formal positive, a court sentence formal negative, a parent’s praise informal positive and being ignored by friends informal negative. A note explains that internalised control is the strongest." loading="lazy">
+  <figcaption>Sanctions can be formal or informal, positive or negative.</figcaption>
+</figure>
+
 ## Formal agencies: methods and limits
 
 | Agency | Method | Limit |
@@ -75,6 +80,16 @@ agencies; 2.2.6 their methods; 2.2.7 resistance through protest groups and subcu
 **Effectiveness rule:** formal control works best when agencies are seen as **legitimate** and
 backed by informal control.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--02-formal-agencies.webp" width="900" height="608" alt="A table of five formal agencies, government, police, courts, penal system and armed forces, with their main methods and when they are more or less effective. A note explains that coercion is a last resort and that conformity through fear is less stable." loading="lazy">
+  <figcaption>Formal control works best when people see the rules and penalties as legitimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--03-panopticon-surveillance.webp" width="900" height="666" alt="Plan of a panopticon: a ring of cells around a central watchtower. Because prisoners could not tell when a guard was looking, they behaved as though always observed. Digital surveillance such as CCTV, facial recognition, number-plate cameras and phone location data works the same way; critics raise privacy and misuse." loading="lazy">
+  <figcaption>Knowing you might be watched changes behaviour.</figcaption>
+</figure>
+
 ## Informal agencies: methods and limits
 
 - **Family:** rewards and grounding; weakens in adolescence.
@@ -83,6 +98,11 @@ backed by informal control.
 - **Media:** likes and public shaming; messages can be ignored.
 - **Religion:** religious rewards and sanctions; depends on belief.
 - **Workplace:** promotion or dismissal; only for those in work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--04-informal-agencies.webp" width="900" height="565" alt="A table of six informal agencies with their positive and negative sanctions, from parental treats and grounding to promotion and dismissal. Below: informal control is usually more effective because it is constant, but weaker in anonymous cities and among people who do not care about approval." loading="lazy">
+  <figcaption>Informal control draws its power from relationships people value.</figcaption>
+</figure>
 
 ## Theories
 
@@ -95,6 +115,11 @@ backed by informal control.
 **Surveillance:** Foucault (1975), the panopticon; knowing you may be watched leads to
 self-discipline.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--05-theories-of-control.webp" width="900" height="626" alt="Functionalism sees control protecting shared values, with Durkheim’s idea that punishment unites society. Marxism sees it serving the ruling class; Althusser separates repressive state apparatuses that use force from ideological ones that persuade. Feminism, through Heidensohn, sees control maintaining patriarchy at home, in public and at work." loading="lazy">
+  <figcaption>One consensus view and two conflict views of who benefits from control.</figcaption>
+</figure>
+
 ## Resistance
 
 - **Deviant** (breaks norms, sanctioned) versus **non-conformist** (rejects expectations).
@@ -103,6 +128,11 @@ self-discipline.
 - **Why join:** belonging; identity; shared grievance; status (A. Cohen, 1955); excitement; peer
   influence.
 - **Irony:** subcultures impose their own informal control.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--06-resistance.webp" width="900" height="665" alt="Deviant behaviour breaks norms; non-conformist behaviour rejects expectations without breaking the law. Four kinds of resistance: protest groups such as the school climate strikes, youth subcultures such as punk, online subcultures and religious subcultures. Reasons for joining include belonging, grievances, status, excitement and friends." loading="lazy">
+  <figcaption>Subcultures resist mainstream control but usually impose strong control of their own.</figcaption>
+</figure>
 
 ## Exam traps
 

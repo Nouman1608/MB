@@ -58,6 +58,21 @@ For full explanations and worked answers, read the [criticisms of families study
 
 **Leach (1967):** the family, "with its narrow privacy and tawdry secrets, is the source of all our discontents".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criticisms-of-families--01-three-kinds.webp" width="900" height="538" alt="Three cards sort the criticisms. Structure: isolation and idealisation, loss of functions and lack of contact with kin. Power: the status of women, Zaretsky and Delphy and Leonard. Harm: marital breakdown and dysfunctional families." loading="lazy">
+  <figcaption>Each criticism is about the family’s structure, its power relations or the harm it can do.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criticisms-of-families--02-six-criticisms.webp" width="900" height="809" alt="A table of the six criticisms: isolation and unrealistic idealisation, loss of traditional functions, lack of contact with wider kin, the status and role of women, marital breakdown and dysfunctional families, each with the problem it names and the writers or perspective behind it." loading="lazy">
+  <figcaption>Name the criticism, explain the problem, and say who makes it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criticisms-of-families--03-isolation-kin.webp" width="900" height="695" alt="Left: a family in Bethnal Green surrounded by relatives, with daily contact and help with childcare. Right: after moving to a new estate outside London the family is home-centred and isolated, with kin far away. Below, the counter-argument that the modified extended family keeps in touch by phone, video calls, visits and money." loading="lazy">
+  <figcaption>Moving away from kin made families more home-centred and more isolated.</figcaption>
+</figure>
+
 ## Zaretsky in six bullets
 
 - Marxist: *Capitalism, the Family and Personal Life* (1976).
@@ -67,6 +82,11 @@ For full explanations and worked answers, read the [criticisms of families study
 - It props up capitalism: housewives' domestic labour reproduces future workers; it is a vital unit of consumption.
 - Only socialism will end the separation of family and public life.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criticisms-of-families--04-zaretsky-cycle.webp" width="900" height="765" alt="A cycle: a worker in a dull, insecure job comes home to the family, which cushions him, so the job feels bearable and he does not challenge the system; the family spends wages on goods, which returns profit to capitalists. Below, Zaretsky’s points that the private family is an illusion and only socialism would end the problem." loading="lazy">
+  <figcaption>By cushioning workers, the family keeps capitalism going.</figcaption>
+</figure>
+
 ## Delphy and Leonard in five bullets
 
 - Feminist: *Familiar Exploitation* (1992).
@@ -74,6 +94,11 @@ For full explanations and worked answers, read the [criticisms of families study
 - Men, rather than capitalists as such, are the prime beneficiaries of women's labour.
 - The family is an economic system of labour relations with a central role in maintaining patriarchy.
 - Women's work is appropriated; wives with paid jobs still do unshared household tasks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criticisms-of-families--05-delphy-leonard-appropriation.webp" width="900" height="793" alt="A dual-earner couple: both have full-time paid jobs, but the woman also does the cooking, cleaning and organising of the children, and her labour gives the man free time and comfort. Below, Delphy and Leonard’s argument that the family is an economic system in which men exploit women’s work, with criticisms." loading="lazy">
+  <figcaption>For Delphy and Leonard, men, not capitalists, gain from women’s work in the family.</figcaption>
+</figure>
 
 ## Side by side
 
@@ -84,12 +109,22 @@ For full explanations and worked answers, read the [criticisms of families study
 | Solution | Socialism | End patriarchal relations |
 | Shared ground | Both conflict views; both focus on domestic labour; both reject the functionalist view | Same |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--03-zaretsky-delphy-leonard.webp" width="900" height="699" alt="Two panels. Zaretsky, a Marxist, says the family benefits capitalism: the idea of a separate private life is an illusion and unpaid domestic labour props the system up. Delphy and Leonard, feminists, say the family benefits men, who exploit women’s work, so it maintains patriarchy." loading="lazy">
+  <figcaption>Zaretsky blames capitalism; Delphy and Leonard blame patriarchy.</figcaption>
+</figure>
+
 ## The functionalist reply
 
 - Criticisms describe exceptions, not most families.
 - Families still perform core functions: primary socialisation and emotional support.
 - Most people still choose to live in families.
 - High divorce may show that people value marriage enough to try again.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criticisms-of-families--06-functionalist-response.webp" width="900" height="571" alt="Two panels. Critics say the family is isolated, benefits capitalism or men, places unrealistic demands on couples and can hide harm. Functionalists reply that these are exceptions: most families socialise children and give emotional support, and high divorce may show people value marriage." loading="lazy">
+  <figcaption>Judge whether each criticism applies to all families or only some.</figcaption>
+</figure>
 
 ## Exam traps
 

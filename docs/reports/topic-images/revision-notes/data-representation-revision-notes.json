@@ -1,0 +1,8 @@
+{ "page": "data-representation-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-computer-science-data-representation--01-dr-binary-hex.webp", "after": "## Number conversions" },
+ { "src": "https://img.marlbridge.com/igcse-computer-science-data-representation--02-dr-overflow.webp", "after": "## Binary arithmetic" },
+ { "src": "https://img.marlbridge.com/igcse-computer-science-data-representation--05-dr-image-size.webp", "after": "## File size formulas" },
+ { "src": "https://img.marlbridge.com/igcse-computer-science-data-representation--03-dr-sample-rate.webp", "after": "## File size formulas" },
+ { "src": "https://img.marlbridge.com/igcse-computer-science-data-representation--04-dr-sample-resolution.webp", "after": "## File size formulas" },
+ { "src": "https://img.marlbridge.com/igcse-computer-science-data-representation--06-dr-storage-units.webp", "after": "## Data storage units" }
+] }

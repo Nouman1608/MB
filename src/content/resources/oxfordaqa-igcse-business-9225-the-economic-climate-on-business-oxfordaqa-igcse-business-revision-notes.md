@@ -47,6 +47,16 @@ Condensed recall for section 3.2.3. For full explanations and worked examples, u
 
 **Calculation reminder:** interest = amount borrowed × rate. A $40,000 overdraft rising from 8% to 11% costs 40,000 × 3% = $1,200 more a year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--02-direct-and-indirect-effects.webp" width="900" height="750" alt="A rate rise works through three chains. Directly, variable loans and overdrafts cost more, so profit falls. Indirectly, households pay more on mortgages and loans and buy less, and other businesses put off investment, so equipment suppliers lose orders even with no debt. A fall reverses each chain." loading="lazy">
+  <figcaption>A rate rise hits a business through its own debt and through its customers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--03-atherley-and-pellow.webp" width="900" height="779" alt="After a 2-point rise, Atherley Garage’s fixed-rate $80,000 loan still costs $4,800 a year, but its customers may delay repairs. Pellow Florist pays $1,000 more on a $50,000 variable loan (7% to 9%) and $300 more on a $15,000 overdraft (10% to 12%), $1,300 extra a year." loading="lazy">
+  <figcaption>Fixed-rate debt delays the direct effect; variable debt feels it at once.</figcaption>
+</figure>
+
 ## Sharia compliant alternatives
 
 Interest (**riba**) is not permitted under Islamic law, so finance is structured differently:
@@ -57,6 +67,11 @@ Interest (**riba**) is not permitted under Islamic law, so finance is structured
 - **Mudaraba:** one side provides money, the other effort and skill; profits shared as agreed.
 
 **Effect of a rate change:** finance already agreed does not automatically cost more, so the direct effect is smaller; the indirect effect on customers' spending still applies. New agreements may reflect conditions at the time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--04-sharia-compliant-finance.webp" width="900" height="746" alt="Four forms of finance without interest: murabaha (asset bought and resold at an agreed higher price in instalments), ijara (asset leased for an agreed rent), musharaka (partnership sharing profit and loss) and mudaraba (money from one party, skill from the other, profits shared). A rate rise has a smaller direct effect, but customers still spend less." loading="lazy">
+  <figcaption>Sharia compliant finance softens the direct effect of a rate rise, not the indirect one.</figcaption>
+</figure>
 
 ## Level of employment
 
@@ -69,12 +84,27 @@ Interest (**riba**) is not permitted under Islamic law, so finance is structured
 
 A local closure (such as a large factory) hits local businesses even if national employment is steady.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--05-employment-effects.webp" width="900" height="790" alt="When employment rises, spending rises, vacancies are harder to fill, pay pressure grows and restaurants and leisure gain. When it falls, spending falls, there are more applicants, less pay pressure and low-price retailers and repair services gain. A local factory closure hits nearby shops, cafés and taxi firms." loading="lazy">
+  <figcaption>Employment changes demand, recruitment and wages, and helps some businesses as it hurts others.</figcaption>
+</figure>
+
 ## Consumer spending
 
 - Incomes up: more spending on luxuries, eating out, holidays, premium brands.
 - Incomes down: cuts to luxuries first; big purchases delayed; customers **trade down** to cheaper alternatives.
 - Necessities change least.
 - A business with a mixed product range is cushioned; one selling only luxuries is exposed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--06-what-households-cut.webp" width="900" height="670" alt="A scale from cut first to changes least. When incomes fall, households cut things they enjoy but do not need, such as eating out, holidays, new technology and premium brands, delay large purchases and trade down; spending on necessities such as basic food changes least." loading="lazy">
+  <figcaption>Non-essentials and big purchases are cut first; necessities hold up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business--07-rowanbrook-furniture.webp" width="900" height="929" alt="After a rate rise and an income squeeze, Rowanbrook’s sofa revenue falls from $108,000 (120 sofas) to $86,400 (96), down 20%, while cushions and throws fall only from $18,000 to $17,280, down 4%. Total revenue falls $22,320, about 17.7%, and $21,600 of that is sofas." loading="lazy">
+  <figcaption>Delayable, credit-funded purchases take almost all of the fall.</figcaption>
+</figure>
 
 ## Key terms
 

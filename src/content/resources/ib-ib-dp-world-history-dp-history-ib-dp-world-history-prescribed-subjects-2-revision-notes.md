@@ -45,6 +45,21 @@ Related: [Conquest and its impact study guide](/resources/ib-ib-dp-world-history
 - Alhambra Decree (March 1492) expels unconverted Jews; the Inquisition watches converts.
 - Prestige for the monarchs, named the "Catholic Monarchs" by the Pope in 1496.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--02-granada-balance-breaks.webp" width="900" height="648" alt="Before the 1480s Granada survived by paying tribute to a Castile that was often divided. Two changes broke the balance: the Christian kingdoms were united by the marriage of Isabella and Ferdinand (1469) and the succession war (1475-1479), and Granada was divided by a dynastic struggle among Abu'l-Hasan Ali, Boabdil and al-Zaghal. Both lead to the war of 1482-1492, driven by crusade and royal authority." loading="lazy">
+  <figcaption>Christian unity and Granadan division ended two centuries of balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--03-granada-war-events.webp" width="900" height="625" alt="A vertical timeline: Alhama seized in 1482, Boabdil captured at Lucena in 1483 and released as a vassal, Ronda and Málaga taken in 1485-1487 with artillery, Baza and al-Zaghal's surrender in 1489, the siege from Santa Fe in 1490-1491, the Capitulations in November 1491 and the city's surrender on 2 January 1492." loading="lazy">
+  <figcaption>Artillery sieges and Granada's civil war brought the city down in ten years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--04-granada-promises-eroded.webp" width="900" height="688" alt="A downward chain: the Capitulations of November 1491 promise Muslims their religion, mosques, property and law; Archbishop Talavera seeks conversion by persuasion; from 1499 Cisneros presses mass baptisms, provoking revolts in 1499-1501; in 1502 Muslims in Castile must convert or leave. A side column adds the Inquisition in Castile from 1478 and the Alhambra Decree of March 1492 expelling Jews who would not convert." loading="lazy">
+  <figcaption>Persuasion gave way to compulsion within ten years of the Capitulations.</figcaption>
+</figure>
+
 ## Mexico and Peru: condensed recall
 
 **Mexico, 1519-1521**: Cortés leaves Cuba (1519) → Malinche and Aguilar as interpreters → Totonac and Tlaxcalan alliances → Cholula massacre → entry to Tenochtitlan (November 1519), Moctezuma held → Alvarado's festival massacre (1520) → death of Moctezuma; *Noche Triste* → smallpox in the city → brigantines and siege → fall of Tenochtitlan (August 1521); Cuauhtémoc captured.
@@ -60,6 +75,16 @@ Related: [Conquest and its impact study guide](/resources/ib-ib-dp-world-history
 | Political division | Tribute peoples resented Mexica rule | Civil war between brothers |
 | Technology | Steel, horses, brigantines on the lake | Steel and horses at Cajamarca |
 | Leadership | Cortés's diplomacy and use of interpreters | Pizarro's seizure of the ruler |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--06-mexico-peru-events.webp" width="900" height="753" alt="Two columns of events. Mexico: Cortés sails from Cuba in 1519, enters Tenochtitlan in November 1519 and takes Moctezuma hostage; after Alvarado's massacre in 1520 the city rises and the Spanish flee; smallpox strikes; Tenochtitlan is taken in August 1521. Peru: the Inca civil war; Atahualpa captured at Cajamarca in November 1532 and executed in 1533; Manco Inca rebels in 1536; Almagro is executed in 1538 and Pizarro assassinated in 1541." loading="lazy">
+  <figcaption>Mexico fell in two years; Peru was taken quickly but fought over for a decade.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--05-why-conquests-succeeded.webp" width="900" height="731" alt="A central circle, the Spanish conquest, linked to five factors: indigenous allies such as the Totonacs and Tlaxcalans, epidemics including smallpox, the interpreters Malinche and Aguilar, the Inca civil war between Huáscar and Atahualpa, and Spanish actions such as seizing rulers and building brigantines. A note summarises Restall's argument that indigenous allies, disease and politics shaped the outcome." loading="lazy">
+  <figcaption>Allies, disease and indigenous politics matter as much as Spanish arms.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -90,6 +115,11 @@ Related: [Conquest and its impact study guide](/resources/ib-ib-dp-world-history
 | Veteran's memoir | Bernal Díaz del Castillo | Ordinary soldier's detail | Written decades later; answers rival accounts |
 | Indigenous account | Florentine Codex | Nahua perspective on the siege and the epidemic | Compiled a generation later under a friar's direction |
 | Petition or complaint | Granadan Muslims' grievances | Voice of the conquered | Written to win redress, so stresses wrongs |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--07-q3-point-by-point.webp" width="900" height="702" alt="Two sources on the fall of Tenochtitlan, a letter from Cortés to Charles V and a later indigenous account, are compared row by row with two-way arrows. Similarity: both say the siege destroyed the city. Differences: the letter credits Spanish courage and divine favour while the indigenous account stresses disease and hunger; the letter treats allies as auxiliaries while the indigenous account names them as fighting their old overlords." loading="lazy">
+  <figcaption>Link the two sources in every sentence: similarities and differences side by side.</figcaption>
+</figure>
 
 ## Exam traps
 

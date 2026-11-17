@@ -55,6 +55,16 @@ Related: [Society and economy study guide](/resources/ib-ib-dp-world-history-dp-
 - Ideas and religion: Islam among the ruling elite and merchants; Timbuktu as a centre of learning.
 - Display: Mansa Musa's pilgrimage (1324-1325).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-1--04-how-ideas-travelled.webp" width="900" height="649" alt="A flow of ideas: papermaking spread west from China through the Islamic world; in Abbasid Baghdad, founded in 762, the House of Wisdom translated Greek, Persian and Indian works into Arabic; Latin translations made in Spain and Sicily carried Ibn Sina and Ibn Rushd to the universities of Bologna, Paris and Oxford. Below, printing in Song China supported the examinations and Neo-Confucian thought." loading="lazy">
+  <figcaption>Ideas moved from China and Baghdad, through Spain and Sicily, to Europe.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-1--05-religion-and-society.webp" width="900" height="519" alt="A three-column comparison. Latin Christendom: the Church owned land, collected tithes, ran education, defined the calendar, and monasteries were centres of agriculture and records. Islamic societies: waqf endowments funded mosques, schools and hospitals, and the ulama interpreted law. Song China: Buddhism and Daoism coexisted with Confucian state ideology. A note adds that preachers in the Peasants' Revolt used religion to question lordship." loading="lazy">
+  <figcaption>Religion underpinned social order everywhere, and could also challenge it.</figcaption>
+</figure>
+
 ## Comparison grid: drivers of economic growth
 
 | Driver | Song China | Medieval Europe | Islamic world |
@@ -64,6 +74,16 @@ Related: [Society and economy study guide](/resources/ib-ib-dp-world-history-dp-
 | Money and credit | State paper money | Coinage; Italian banking | Bills of exchange (*suftaja*) |
 | State role | Taxation, monopolies, infrastructure | Limited; towns gained charters | Caliphal and later sultanate patronage |
 | Constraints | Confucian disdain for merchants | Church teaching on usury | Political fragmentation |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-1--02-growth-then-shock.webp" width="900" height="683" alt="Two growth chains. Song China (960-1279): fast-ripening Champa rice allowed double cropping in the south, supporting rapid population growth and shifting the economic centre to the Yangzi. Western Europe (c.1000-1300): the heavy plough, three-field rotation and land clearance supported growth within the manorial economy. Below, the Black Death of 1346-1351, whose consequences differed by region." loading="lazy">
+  <figcaption>New farming methods drove growth in both regions before the plague.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-1--03-trade-networks.webp" width="900" height="876" alt="A labelled schematic, not to scale. Silk Roads link Western Europe, the Middle East, Persia and Central Asia, and China; Indian Ocean sea routes link East Africa (Kilwa), Arabia, India, South-East Asia and China; a trans-Saharan route links Mali's gold with North African salt. Below, three money and credit tools: Song paper money, the Islamic suftaja and Italian partnerships and bills of exchange." loading="lazy">
+  <figcaption>Three linked networks, each with its own tools of money and credit.</figcaption>
+</figure>
 
 ## The Black Death: cause and consequence
 
@@ -75,6 +95,11 @@ Related: [Society and economy study guide](/resources/ib-ib-dp-world-history-dp-
 | Political responses | Wage laws in England; attempts by lords to enforce old obligations |
 | Social effects | Persecution of Jews in many European towns; flagellant movements; challenges to the authority of the clergy |
 | Regional contrast | Faster adaptation in England; slower recovery in Mamluk Egypt's irrigated agriculture |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-1--06-black-death-comparison.webp" width="900" height="764" alt="A comparison grid for England and Mamluk Egypt with four points. Demographic shock: similar in both. Labour and wages: English wages rose despite the labour laws of 1349 and 1351, while Egyptian irrigation went unmaintained. Landholding: English lords leased land and commuted services; the Mamluk elite raised demands. Outcome: rising living standards and the decline of serfdom in England; prolonged decline in Egypt." loading="lazy">
+  <figcaption>Same plague, different institutions, different outcomes.</figcaption>
+</figure>
 
 ## Key terms
 

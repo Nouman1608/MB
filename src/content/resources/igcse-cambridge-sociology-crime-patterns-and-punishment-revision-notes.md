@@ -77,6 +77,16 @@ For the whole Paper 2, see the [family, education and crime study guide](/resour
 - **Ethnicity:** in some societies certain minority groups are over-represented in stop and search
   and prison figures — sociologists debate whether this reflects offending or policing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--01-two-questions.webp" width="900" height="611" alt="A group over-represented in crime statistics raises two questions: do they commit more crime (strain, status frustration, relative deprivation, masculinity) or are they more likely to be caught, recorded and punished (police targeting, labelling, institutional racism, chivalry, white-collar crime handled outside courts)?" loading="lazy">
+  <figcaption>Separate offending from being caught and recorded.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--02-patterns.webp" width="900" height="555" alt="Patterns of recorded offending and victimisation by age, social class, gender and ethnicity, described in words." loading="lazy">
+  <figcaption>Each group has a pattern of offending and a pattern of victimisation.</figcaption>
+</figure>
+
 ## Explanations by social characteristic
 
 | Group | Explanations named in the syllabus |
@@ -85,6 +95,11 @@ For the whole Paper 2, see the [family, education and crime study guide](/resour
 | **Ethnicity** (6.2.3) | Institutional racism; prejudice and discrimination; police targeting; material and relative deprivation; stereotyping; gang culture; status frustration |
 | **Gender** (6.2.4) | Chivalry thesis; culture of masculinity; socialisation and social control (Heidensohn, 1985: women more controlled); misogyny; stereotyping; gang culture; lack of opportunity |
 | **Social class** (6.2.5) | Social exclusion; material and relative deprivation; inadequate socialisation; lack of opportunity; status frustration; power inequalities; police targeting |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--05-gender-and-crime.webp" width="900" height="663" alt="Carlen’s class deal and gender deal: women who gain the rewards of paid work and family life conform, while those who gain from neither are more likely to offend. Below, Heidensohn on tighter control of women, Pollak’s chivalry thesis and Messerschmidt on accomplishing masculinity." loading="lazy">
+  <figcaption>Control, deals, leniency and masculinity all help explain the gap.</figcaption>
+</figure>
 
 ## 6.2.6 Theories
 
@@ -99,6 +114,16 @@ For the whole Paper 2, see the [family, education and crime study guide](/resour
 | **Feminism** | Patriarchal control explains low female crime; women as victims | Heidensohn (1985); Carlen (1988) |
 | **Postmodernism** | Crime is diverse and individualised; consumer culture creates new desires and crimes | — |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--03-merton-strain.webp" width="900" height="574" alt="Society values goals such as wealth but blocks legitimate means for some, creating strain. People adapt in five ways: conformity, innovation, ritualism, retreatism and rebellion. Innovation, using crime to reach the goal, is the adaptation that explains crime." loading="lazy">
+  <figcaption>Innovation is the adaptation that leads to crime.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--04-labelling-amplification.webp" width="900" height="808" alt="Primary deviance becomes secondary deviance once a label, possibly a master status, is applied. Below, Stanley Cohen’s deviancy amplification spiral: media exaggeration creates folk devils, public concern, tougher control and more deviance, which the media report." loading="lazy">
+  <figcaption>Labels and media reactions can create the deviance they condemn.</figcaption>
+</figure>
+
 ## 6.2.7 Strengths and limitations (quick evaluation)
 
 - Statistics-based explanations may mistake **policing patterns** for **offending patterns**.
@@ -106,6 +131,11 @@ For the whole Paper 2, see the [family, education and crime study guide](/resour
 - Labelling shows how agencies create crime but neglects victims and real harm.
 - Marxism highlights power but can overlook working-class victims.
 - Feminism explains gender differences but may generalise about all women.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--06-theories-evaluated.webp" width="900" height="550" alt="A table of five theories of crime with a key idea, strength and limitation each: functionalism, interactionism, Marxism, feminism and postmodernism." loading="lazy">
+  <figcaption>Every theory explains some patterns and misses others.</figcaption>
+</figure>
 
 ## 6.3 Dealing with crime
 
@@ -129,6 +159,21 @@ bias); surveillance including digital surveillance (deterrence, privacy concerns
 community policing (trust and local knowledge) versus military-style policing (force; risk of
 alienating communities). "Broken windows" (Wilson and Kelling, 1982) underpinned zero-tolerance
 approaches.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--01-aims-of-punishment.webp" width="900" height="653" alt="Retribution looks back to the crime as deserved payback; protection of citizens, deterrence (individual and general), incapacitation and rehabilitation look to the future. Each has an example. Aims can conflict, as a long sentence may undermine rehabilitation." loading="lazy">
+  <figcaption>Retribution looks back; the other four aims look forward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--03-judging-punishments.webp" width="900" height="698" alt="Three tests for any punishment: does it meet its aim, what are its side effects, and is it fair? A table gives strengths and limitations of prison, community sentences and probation, fines, tagging and restraining orders, capital punishment, and social media and vigilante groups." loading="lazy">
+  <figcaption>Effective at what, for whom, and compared with what?</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--05-policing-strategies.webp" width="900" height="715" alt="Policing strategies on a line from community style, which builds trust, through targeting and stop and search, which detects crime but risks stereotyping, to military style, which restores order quickly but alienates communities. Zero tolerance in 1990s New York is debated because crime also fell elsewhere." loading="lazy">
+  <figcaption>Trust and force pull policing in opposite directions.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

@@ -60,6 +60,11 @@ by the IB, but schools may be required to submit it to help establish
 the authenticity of a student's work -- "not assessed" does not mean
 "never seen" or "irrelevant."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-and-literature-syllabus-guide--01-areas-of-exploration.webp" width="900" height="664" alt="Three areas of exploration, readers, writers and texts; time and space; and intertextuality: connecting texts, each 50 hours at SL and 80 at HL and each drawing on literary and non-literary texts. Seven central concepts run across all three, and the learner portfolio underpins them." loading="lazy">
+  <figcaption>Every area mixes literary works with non-literary texts.</figcaption>
+</figure>
+
 ## Works studied
 
 SL students must study a minimum of **4 literary works** (at least 1
@@ -71,6 +76,11 @@ the requirement: each area of exploration must also involve
 **non-literary texts equivalent in teaching and learning time** to the
 literary works studied within it, so a works count by itself
 understates how much material the course actually covers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-and-literature-syllabus-guide--02-works-studied.webp" width="900" height="502" alt="SL students study at least 4 literary works: at least 1 originally written in the language studied, at least 1 in translation and 2 freely chosen. HL students study at least 6: 2, 2 and 2. Non-literary texts of equivalent teaching time are added in each area." loading="lazy">
+  <figcaption>SL: at least 4 works; HL: at least 6, plus equal time on non-literary texts.</figcaption>
+</figure>
 
 ## Readers, writers and texts (50 hours SL / 80 hours HL)
 
@@ -168,6 +178,11 @@ which reflects how closely related the two DP language A courses are in
 skill development -- the real difference between them is entirely in
 what kind of texts fill that shared structure, not in how much time is
 allocated or how the course is organised.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-and-literature-syllabus-guide--03-assessment-materials.webp" width="900" height="574" alt="Paper 1, guided textual analysis, uses unseen non-literary passages. Paper 2, the comparative essay, is set on literary works only. The individual oral connects one literary work and one non-literary body of work to a global issue. The HL essay of 1,200 to 1,500 words can be on a literary work or a non-literary body of work." loading="lazy">
+  <figcaption>Paper 1 is non-literary, Paper 2 is literary: revise them as separate tracks.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

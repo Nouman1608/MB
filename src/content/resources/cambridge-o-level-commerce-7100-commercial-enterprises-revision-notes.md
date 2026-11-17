@@ -43,6 +43,11 @@ Quick-recall notes for **sub-topic 2.1 Commercial enterprises** in Cambridge O L
 | Franchisee | Business that buys the right to trade under the brand |
 | Royalty | Ongoing payment from franchisee to franchisor, often a percentage of sales |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-commercial-enterprises--01-private-public-ownership.webp" width="900" height="525" alt="Two panels. The private sector is owned by private individuals or investors and mostly aims for profit, so even a giant listed company is private. The public sector is owned and controlled by the government and usually aims to provide a service, so even a small state-run post office is public." loading="lazy">
+  <figcaption>Ownership, not size, decides the sector.</figcaption>
+</figure>
+
 ## Ownership forms: one-line summaries
 
 - **Sole trader**: one owner, full control, keeps all profit, unlimited liability, limited capital.
@@ -51,14 +56,34 @@ Quick-recall notes for **sub-topic 2.1 Commercial enterprises** in Cambridge O L
 - **Private limited company**: limited liability, shares sold privately, accounts must be filed, cannot offer shares to the general public.
 - **Public limited company**: limited liability, shares offered to the public, largest capital, accounts published, risk of takeover, owners often not managers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-commercial-enterprises--02-liability-example.webp" width="900" height="640" alt="Left: a sole trader’s shop owes $30,000 but has assets of only $12,000, so $18,000 must come from the owner’s personal property. Right: a shareholder who paid $5,000 for shares in a failed limited company loses at most that $5,000." loading="lazy">
+  <figcaption>Unlimited liability puts the owner’s possessions at risk; limited liability caps the loss at the investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-commercial-enterprises--03-five-forms-compared.webp" width="900" height="685" alt="Five rows comparing sole trader, partnership, cooperative, private limited company and public limited company by owners, control, capital and liability. Sole traders and partners usually have unlimited liability; registered cooperatives and companies usually have limited liability." loading="lazy">
+  <figcaption>Owners, control, capital and liability are the four features to compare.</figcaption>
+</figure>
+
 ## Appropriateness checklist
 
 Ask four questions of any scenario: How much **capital**? How much **risk**? How much **control** do the owners want? How many **people** share ownership? Then recommend one form and give a reason from the scenario.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-commercial-enterprises--05-appropriate-form.webp" width="900" height="700" alt="Four questions to ask (capital, risk, control, sharing), then five situations: a tailor with $3,000 suits a sole trader, three vets a partnership, a family bakery a private limited company, a cement producer a public limited company, and fifty coffee growers a cooperative." loading="lazy">
+  <figcaption>Use the details of the situation to justify the form you choose.</figcaption>
+</figure>
 
 ## Public corporations
 
 - **Features**: state-owned; board appointed by government; financed by government and customers' payments; accountable to government; service objective.
 - **Reasons**: essential services at affordable prices; strategic industries under national control; services in loss-making areas; prevent private monopolies; very large projects; protect jobs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-commercial-enterprises--04-public-corporations.webp" width="900" height="585" alt="Left: features of a public corporation, such as state ownership, a government-appointed board and an aim to provide a service. Right: six reasons for them, including essential services, strategic industries, loss-making areas, avoiding a private monopoly, very large projects and protecting employment." loading="lazy">
+  <figcaption>Public corporations exist where the state wants control, coverage or protection that the market might not give.</figcaption>
+</figure>
 
 ## MNCs
 
@@ -72,17 +97,32 @@ Ask four questions of any scenario: How much **capital**? How much **risk**? How
 | Tax revenue | Environmental damage |
 | Exports and consumer choice | Political influence; may leave suddenly |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-commercial-enterprises--06-mnc-reasons-impacts.webp" width="900" height="680" alt="Seven reasons MNCs exist, from reaching new markets to host-government incentives, above five positive impacts on a host country, such as jobs, technology and tax revenue, and five negative impacts, such as local firms closing and profits sent home." loading="lazy">
+  <figcaption>An assess question needs impacts on both sides and a judgement linked to the case.</figcaption>
+</figure>
+
 ## Franchises
 
 - **Features**: brand, logo, products and methods supplied by franchisor; initial fee plus royalties; franchisee follows the franchisor's rules; franchisor gives training and national advertising.
 - **Franchisee**: lower risk, known brand, support / fees, royalties, little freedom.
 - **Franchisor**: rapid growth with others' capital, fee income / less control, brand risk from poor outlets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-commercial-enterprises--07-franchise.webp" width="900" height="715" alt="The franchisor lets the franchisee use its brand name, logo, products and methods in return for an initial fee and a royalty. A grid sets out advantages and disadvantages for the franchisee and for the franchisor." loading="lazy">
+  <figcaption>Say whether each advantage or disadvantage applies to the franchisee or the franchisor.</figcaption>
+</figure>
+
 ## Location factors
 
 - **Physical (9)**: labour, markets, transport, power, raw materials, competition, suppliers, communication, government influence.
 - **Ecommerce (4)**: wi-fi, warehousing, technology specialists, logistics.
 - Heavy raw materials → near the source. Perishable or service products → near customers. Online seller → connectivity, warehouse and delivery links.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-commercial-enterprises--08-location-priorities.webp" width="900" height="600" alt="A cement works ranks raw materials and transport highest, a city café ranks markets and competition, and an online electronics seller needs wi-fi, warehousing, technology specialists and logistics." loading="lazy">
+  <figcaption>Judge which factors matter most for the business in the question.</figcaption>
+</figure>
 
 ## Exam traps
 

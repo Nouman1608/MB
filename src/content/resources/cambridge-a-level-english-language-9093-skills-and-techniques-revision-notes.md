@@ -36,6 +36,11 @@ comparison paragraph, use the
 | Question 1(b): compare your 1(a) with the original | 15 | Comparing your own writing with a given text; analysing effects; integrating evidence |
 | Question 2: text analysis of a 550-750 word text | 25 | Reading unseen texts; recognising forms; overall style; evidence and argument |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-skills-and-techniques--01-paper-1-structure.webp" width="900" height="650" alt="Paper 1 has two 25-mark sections, each on an unseen text of about 550 to 750 words. Question 1(a), 10 marks, is a 150 to 200 word directed response (AO1, AO2); Question 1(b), 15 marks, compares it with the original (AO1, AO3); Question 2, 25 marks, comments on the form, structure and language of a second text (AO1, AO3)." loading="lazy">
+  <figcaption>Question 1(b) carries more marks than 1(a), so plan the comparison while you write.</figcaption>
+</figure>
+
 ## The four skill families
 
 1. **Reading**: unseen texts; recognising non-fiction forms and their conventions.
@@ -51,6 +56,11 @@ comparison paragraph, use the
 - **Pass 2**: mark shifts in tone, time, focus, sentence pattern or person. Shifts show choices.
 - **Pass 3** (brief): choose three to five passages that best prove your overall reading.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-skills-and-techniques--02-two-pass-reading.webp" width="900" height="520" alt="The first pass reads for gist and situation: form, writer, audience and purpose. The second pass, with a pen, marks shifts in tone, time or focus, and sentence pattern. Before annotating, state the text's form, audience and purpose in one sentence." loading="lazy">
+  <figcaption>Establish form, audience and purpose before annotating features.</figcaption>
+</figure>
+
 ## Evidence: select, embed, link, interpret, integrate
 
 - **Select** the smallest unit that carries the effect.
@@ -59,6 +69,16 @@ comparison paragraph, use the
   frames, juxtaposes*.
 - **Interpret** the effect for this reader and purpose.
 - **Integrate** each point into your overall argument about the text.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-skills-and-techniques--04-evidence-process.webp" width="900" height="550" alt="Five steps: select the smallest piece of text that carries the effect, embed it in your own sentence, link it with a precise analytical verb, interpret it for this reader and context, and integrate it into your overall reading. Eight analytical verbs are offered instead of &quot;shows&quot;." loading="lazy">
+  <figcaption>Select, embed, link, interpret, integrate: five skills that form one process.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-skills-and-techniques--05-weak-and-strong.webp" width="900" height="557" alt="A weak answer quotes a whole clause and says it &quot;shows the writer is angry&quot;. The strong version names the adverbial &quot;once again&quot;, explains that it turns a single decision into a pattern, and links this to the article's wider strategy of presenting residents as long-suffering and officials as indifferent." loading="lazy">
+  <figcaption>Select two words, name the feature, explain the effect and link it to the argument.</figcaption>
+</figure>
 
 ## Overall style
 
@@ -74,11 +94,21 @@ An overall style is a short, defensible label proved by specific instances.
 
 Open your Question 2 answer with the style label and the reasons for it, then prove it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-skills-and-techniques--03-features-together-style.webp" width="900" height="605" alt="Second-person address, present tense and short imperatives in one paragraph combine into a single effect: urgency directed at the reader. Below, examples of overall style judgements, such as &quot;detached and clinical&quot;, with the reminder that a judgement needs examples and examples need a judgement." loading="lazy">
+  <figcaption>Show features combining into one effect, and prove a stated overall style.</figcaption>
+</figure>
+
 ## Writing in the same style
 
 - List the source's fingerprints: sentence type and length, register, person, tense, devices.
 - Reproduce the **features**, never the phrases.
 - Match the **ratio** of features: if one short sentence ends each paragraph, do the same.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-skills-and-techniques--06-same-or-different-style.webp" width="900" height="550" alt="Writing in the same style keeps the source's features (sentence types, register, person, tense, devices) but not its words. Writing in a different style keeps the content but changes the style to fit a new form, purpose and audience, a transformation rather than a paraphrase." loading="lazy">
+  <figcaption>Same style borrows features; different style keeps content and transforms the form.</figcaption>
+</figure>
 
 ## Writing in a different style
 
@@ -94,6 +124,11 @@ Open your Question 2 answer with the style label and the reasons for it, then pr
 - Explain each difference by the change in audience, purpose or form.
 - Note **similarities** too: compare means similarities and/or differences.
 - Plan comparison points while writing 1(a), so your choices are deliberate and explainable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-skills-and-techniques--07-worked-comparison.webp" width="900" height="677" alt="The lesson's reflective column about a library's last hour is compared with a website notice about new evening hours on five points: purpose, structure, sentence style, devices and attitude to the quiet. The column evokes a mood with sensory detail and a cumulative final clause; the notice informs with a headline, dates first and short declaratives." loading="lazy">
+  <figcaption>A 1(b) comparison works point by point and explains each difference through audience and purpose.</figcaption>
+</figure>
 
 ## Linking language bank
 

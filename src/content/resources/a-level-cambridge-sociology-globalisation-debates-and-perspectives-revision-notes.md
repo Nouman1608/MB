@@ -62,6 +62,11 @@ Globalisation and identity; **7.3** Globalisation, power and politics.
 | **Ethnic revitalisation** | Revival of ethnic language, tradition or pride |
 | **Global social movement** | Networked campaign across borders, e.g. climate or alter-globalisation movements |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--01-defining-globalisation.webp" width="900" height="640" alt="Top row: Giddens defines globalisation as intensified worldwide social relations, Harvey calls it time-space compression and McLuhan the global village. Bottom row: three problems with the definition: whether it is new, whether it is one process or several, and whether it is global at all. Glocalisation and global culture are defined below." loading="lazy">
+  <figcaption>Globalisation is easy to describe but hard to pin down: is it new, single and truly global?</figcaption>
+</figure>
+
 ## 7.1 Who benefits? Perspectives at a glance
 
 | Perspective | Is it real? | Who benefits? | Name to use |
@@ -79,6 +84,11 @@ uneven access, so not truly "global".
 **Dimensions:** economic (TNCs, finance), political (UN, WTO, treaties), cultural (media, brands,
 migration).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--02-six-perspectives.webp" width="900" height="646" alt="A spectrum runs from sceptics, who say globalisation is exaggerated, through transformationalists, who see it as real but uneven, to globalists, who see it as real and largely positive. Below, Marxist, feminist and postmodernist perspectives on who benefits." loading="lazy">
+  <figcaption>Use the sceptic–transformationalist–globalist spectrum as an essay backbone, then add critical perspectives.</figcaption>
+</figure>
+
 ## 7.2 Identity: convergence or divergence?
 
 **Convergence arguments**
@@ -95,6 +105,11 @@ migration).
 **Evaluation:** glocalisation suggests a middle position — global forms with local content.
 Convergence may be stronger in consumer goods than in values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--03-convergence-divergence.webp" width="900" height="607" alt="Two columns: cultural convergence, where global media and brands make cultures alike through McDonaldization and Westernisation, against cultural divergence, where contact produces hybrid identities, cultural defence and ethnic revitalisation. Barber and Huntington are noted below." loading="lazy">
+  <figcaption>Globalisation can make cultures more alike and also provoke new differences.</figcaption>
+</figure>
+
 ## 7.3 Power and politics
 
 | Issue | For | Against |
@@ -103,6 +118,21 @@ Convergence may be stronger in consumer goods than in values.
 | Global social movements | Seattle WTO protests (1999), World Social Forum (2001), Occupy (2011), Fridays for Future (2018); Castells on networks (1996) | Fragmented aims; limited lasting policy change |
 | Nation state | Sceptics: states still control borders, tax, military | Globalists: markets and TNCs constrain states; Beck: risks cross borders |
 | Global problems | Transformationalists: cooperation, e.g. Kyoto (1997), Paris (2015) | Agreements weakly enforced; national interest dominates |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--04-spread-of-democracy.webp" width="900" height="429" alt="Two columns. Fukuyama argued liberal democracy won after the Cold War, with human rights declarations, international courts and media scrutiny as evidence. Critics reply that gains are uneven or reversed, that democracy promotion can serve Western interests and that markets can override elected governments." loading="lazy">
+  <figcaption>Evidence of spreading rights norms is set against uneven gains and the power of markets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--05-global-social-movements.webp" width="900" height="590" alt="Timeline of global social movements: protests at the WTO meeting in Seattle (1999), the first World Social Forum in Porto Alegre (2001), Occupy (2011) and Fridays for Future (from 2018). Below: many call themselves alter-globalisation, Castells says networks give them power, but they struggle to change policy." loading="lazy">
+  <figcaption>Global movements use global networks to challenge globalisation, with mixed policy results.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--06-nation-state.webp" width="900" height="444" alt="Three views on the nation state: globalists say states are losing power to markets and TNCs, sceptics say states still control borders, taxes, armies and law, and transformationalists say states increasingly cooperate through agreements such as Kyoto and Paris. Beck adds that manufactured risks cross borders." loading="lazy">
+  <figcaption>Globalists see the state fading, sceptics see it strong, transformationalists see it cooperating.</figcaption>
+</figure>
 
 ## Worked essay plan
 
@@ -116,6 +146,11 @@ Convergence may be stronger in consumer goods than in values.
 5. **Sceptic angle:** benefits are regional and depend on state policy.
 6. **Transformationalist conclusion:** benefits are real but very unequal; who benefits depends on
    class, gender and country.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--07-essay-plan.webp" width="900" height="794" alt="Five numbered steps for a 35-mark essay: define the key term, set out the view in the question with evidence, evaluate with contrasting perspectives, apply examples from more than one society, and conclude with a judgement." loading="lazy">
+  <figcaption>Every Paper 4 essay moves from definition to a reasoned judgement.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

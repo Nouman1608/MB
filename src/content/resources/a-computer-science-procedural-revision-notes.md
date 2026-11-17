@@ -37,6 +37,11 @@ DIV  17 DIV 5 = 3        MOD  17 MOD 5 = 2
 
 `n MOD 2 = 0` tests for even; MOD also underpins hashing and check digits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--12-pp-loops.webp" width="900" height="960" alt="FOR runs 10 times; WHILE x&lt;5 tests first and runs 0 times when x starts at 10; REPEAT UNTIL x&gt;=5 tests after and runs once." loading="lazy">
+  <figcaption>WHILE may run zero times; REPEAT UNTIL always runs once.</figcaption>
+</figure>
+
 ## Subroutines and scope
 
 **Procedure** returns nothing; **function** returns a value.
@@ -47,6 +52,16 @@ DIV  17 DIV 5 = 3        MOD  17 MOD 5 = 2
 - **Local** variables exist only inside the subroutine; **global** variables are visible everywhere.
 
 **Prefer local variables and pass by value.** The reason is what earns the mark: it prevents **side effects**, where one subroutine unintentionally alters data another depends on, and it makes each subroutine independently testable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--14-pp-decomposition.webp" width="900" height="960" alt="A problem splits into sub-problems then subroutines; a good subroutine has one job and an interface of parameters in and value out." loading="lazy">
+  <figcaption>Top-down design ends in small subroutines with clear interfaces.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--15-pp-parameters.webp" width="900" height="1050" alt="By value the copy changes and x stays 5; by reference x becomes 6." loading="lazy">
+  <figcaption>Pass by value copies; pass by reference changes the original.</figcaption>
+</figure>
 
 ## Recursion
 
@@ -113,6 +128,11 @@ At AS, compare the two on their **efficiency of use of time and memory** without
 
 **Traversals** *(A-level only, section 3.11, Unit 3):* breadth-first search uses a **queue**; depth-first uses a **stack** (or recursion). Binary tree traversals: in-order (which outputs a BST in ascending order), pre-order, post-order.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--13-pp-nested-loops.webp" width="900" height="920" alt="Squares of dots for n=3, 6, 12 show 9, 36 and 144 runs of the inner body." loading="lazy">
+  <figcaption>Nested loops multiply the work to n squared.</figcaption>
+</figure>
+
 ## Testing and errors
 
 **Test data:** normal, **boundary** (on and just past the limits), erroneous. For a valid range of 1–100, test 0, 1, 100 **and** 101 — boundary values catch the off-by-one errors that are the most common bug.
@@ -120,6 +140,16 @@ At AS, compare the two on their **efficiency of use of time and memory** without
 **Errors:** syntax (will not run), logic (runs, wrong output, hardest to find), runtime (fails during execution).
 
 **Strategies:** white box tests every path through the code; black box tests inputs against expected outputs without knowledge of the implementation; regression testing re-runs earlier tests after a change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--17-pp-error-types.webp" width="900" height="920" alt="Syntax stops at compile, runtime crashes during the run, logic gives a wrong result (average of 2 and 4 computed as 4, not 3)." loading="lazy">
+  <figcaption>The three error types show up at different stages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-procedural-programming--16-pp-test-plan.webp" width="900" height="990" alt="Normal 45 and 72 accepted; boundary -1 reject, 0 accept, 100 accept, 101 reject; erroneous &quot;abc&quot; and empty rejected." loading="lazy">
+  <figcaption>Test plans use normal, boundary and erroneous data with expected results.</figcaption>
+</figure>
 
 ## Exam traps
 

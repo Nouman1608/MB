@@ -38,6 +38,11 @@ They cover section 4.2.5 Beliefs in Society of the AQA AS and A-level Sociology 
 - The question split inside Section B is not printed in the specification; your teacher will confirm it.
 - The five content points: (1) ideology, science and religion, including Christian and non-Christian traditions; (2) social change and stability; (3) religious organisations and New Age movements; (4) social groups; (5) religion in the contemporary world, secularisation, globalisation and the spread of religions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--01-paper-2-structure.webp" width="900" height="534" alt="Paper 2 is a 2-hour written exam worth 80 marks and 33.3% of the A-level. Section A offers Culture and Identity, Families and Households, Health, or Work, Poverty and Welfare; Section B offers Beliefs in Society, Global Development, The Media, or Stratification and Differentiation. Each section is 40 marks of extended writing." loading="lazy">
+  <figcaption>One topic from each option, 40 marks of extended writing in each section.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -91,6 +96,16 @@ They cover section 4.2.5 Beliefs in Society of the AQA AS and A-level Sociology 
 | Norris and Inglehart (2004) | Existential security | Insecure societies stay religious and grow faster | Focuses on demand, not supply |
 | Huntington (1996) | Clash of civilisations | Conflict follows religious-civilisational lines | Ignores divisions within religions |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--02-open-closed.webp" width="900" height="550" alt="Science as an open belief system (Popper’s falsification, Merton’s four norms) compared with the Azande’s closed belief in the poison oracle, which explained away failures. Polanyi and Kuhn argue science can also defend itself." loading="lazy">
+  <figcaption>Open systems change with evidence; closed systems explain it away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--04-protestant-ethic.webp" width="900" height="624" alt="A chain from the Calvinist belief in predestination, to anxiety about salvation, to hard work and ascetic saving as signs of being chosen, to the spirit of capitalism. Below are Weber’s comparison with Hinduism and Confucianism and Kautsky’s criticism." loading="lazy">
+  <figcaption>For Weber, Calvinist beliefs were one cause of the spirit of capitalism.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Conservative force vs force for change:** conservative can mean upholding tradition (beliefs) or upholding the existing social order (function). Weber and Bruce show change; functionalists and Marxists show stability.
@@ -101,6 +116,21 @@ They cover section 4.2.5 Beliefs in Society of the AQA AS and A-level Sociology 
 - **Decline vs change:** secularisation theorists see decline; Davie, Lyon and Hervieu-Léger see religion changing form.
 - **Cultural defence vs cultural transition:** defending identity under threat vs adjusting after migration.
 - **UK vs global picture:** census figures show decline in England and Wales, but Norris and Inglehart and Berger argue the world as a whole is not secularising.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--03-stability-or-change.webp" width="900" height="554" alt="Two columns. Durkheim, Malinowski, Parsons, Bellah, Marx and feminists see religion supporting stability. Weber, Bruce, Maduro, Bloch and Worsley show ways religion can help bring social change." loading="lazy">
+  <figcaption>A strong essay weighs the conservative-force view against evidence of religion driving change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--05-wallis-typology.webp" width="900" height="683" alt="A two-by-two grid from Wallis. Churches are respectable and uniquely legitimate, denominations respectable and pluralistic, sects deviant and uniquely legitimate, and cults deviant and pluralistic, each with its classic features." loading="lazy">
+  <figcaption>Wallis sorts religious organisations by self-image and public image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--07-defence-transition.webp" width="900" height="690" alt="Two chains from Bruce. Cultural defence: a community under threat is united by religion. Cultural transition: religion helps migrants adjust, then declines as they integrate. Pryce, Modood and O’Beirne are used to evaluate them." loading="lazy">
+  <figcaption>Religion may defend a community, ease its transition, or become a source of identity.</figcaption>
+</figure>
 
 ## Mini essay plan
 
@@ -113,6 +143,11 @@ They cover section 4.2.5 Beliefs in Society of the AQA AS and A-level Sociology 
 5. **Against: global and market views.** Stark and Bainbridge's religious market; Norris and Inglehart's existential security; growth of Pentecostalism; migration and the spread of Islam, Hinduism and Sikhism to the UK.
 6. **Evaluate.** Measurement problems; the UK is not the world; Bruce says New Age commitment is too weak to count as revival.
 7. **Judgement.** Base it on your evidence; for example, organised Christianity in the UK is declining, while the global picture is more mixed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--08-secularisation.webp" width="900" height="743" alt="Bars show people in England and Wales describing themselves as Christian falling from 59.3% in 2011 to 46.2% in 2021, while no religion rose from 25.2% to 37.2%. Below, explanations of decline set against arguments that religion is changing rather than declining." loading="lazy">
+  <figcaption>Census figures show decline, but sociologists dispute what it means.</figcaption>
+</figure>
 
 ## Quick self-test
 

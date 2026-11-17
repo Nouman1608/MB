@@ -33,6 +33,11 @@ A legal rule has **certainty** (a recognised source), **enforcement** (courts, p
 
 **Applying the test:** a football league's rule against foul play is written down and enforced by referees, but the sanction (a card, a ban) comes from the league, not the state. If the same tackle is so violent that it amounts to a criminal assault, the state's criminal law now applies, with state enforcement and sanction. The same act can therefore break a non-legal rule and a legal rule at once.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--01-rule-or-law.webp" width="900" height="516" alt="A table compares a school rule with a legal rule. Both are certain and enforced, but only the legal rule is sanctioned by the state, through a fine, imprisonment or damages. Cards define certainty, enforcement and state sanction." loading="lazy">
+  <figcaption>A school rule can be certain and enforced; only law is sanctioned by the state.</figcaption>
+</figure>
+
 ## Legal personality and liability (1.1.4 to 1.1.7)
 
 - **Rights, duties, privileges, liabilities**: what the law allows, requires, protects and penalises.
@@ -53,6 +58,16 @@ A legal rule has **certainty** (a recognised source), **enforcement** (courts, p
 **One event, two cases:** a driver who injures a cyclist can be prosecuted for a driving offence and sued in negligence. Different parties, courts and standards, so an acquittal does not block the civil claim.
 
 **Links between the systems:** a criminal court can make a **compensation order** requiring the offender to pay the victim, so a criminal case can also give the victim a remedy. A victim can also bring a **private prosecution**, although these are rare.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--02-legal-personality.webp" width="900" height="583" alt="Four cards define rights, duties, privileges and liabilities. A natural person is a human being; a registered company is a legal person separate from its shareholders. In Salomon v Salomon the company's debts were its own, not Mr Salomon's." loading="lazy">
+  <figcaption>A company is a separate legal person: its debts are its own.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--03-civil-vs-criminal.webp" width="900" height="827" alt="A table compares civil and criminal law on purpose, who brings the case, burden and standard of proof, outcome and response. Below, one incident, a customer punching a shopkeeper, leads both to a prosecution for assault and to a civil claim for damages. An acquittal does not stop the civil claim." loading="lazy">
+  <figcaption>Different parties, standards and outcomes; one incident can lead to both.</figcaption>
+</figure>
 
 ## Theories of punishment (1.1.8)
 
@@ -78,6 +93,11 @@ Learn all **seven**, each with a sentence link:
 | Reparation and restoration | Involve the victim and repair harm | Only suitable where offender and victim are willing |
 | Denunciation | Shows society's condemnation and reinforces shared values | Can lead to sentences heavier than the offence itself justifies |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--04-punishment-theories.webp" width="900" height="769" alt="A table of seven theories of punishment, what each looks at, and the sentence it points to: revenge, retribution, denunciation, deterrence, rehabilitation, reparation and restoration. A note lists the purposes in s 142 of the Criminal Justice Act 2003, which are not ranked." loading="lazy">
+  <figcaption>Each theory gives a different reason to punish and points to a different sentence.</figcaption>
+</figure>
+
 ## Legal theories (1.1.9 to 1.1.11)
 
 | Theory | Core claim | Theorists |
@@ -92,6 +112,11 @@ Learn all **seven**, each with a sentence link:
 - **Hart**: **primary rules** impose duties; **secondary rules** are the rules of **recognition** (how to identify valid law), **change** (how law is altered) and **adjudication** (how disputes are decided).
 - **Fuller**: the "inner morality" of law has eight requirements: rules should be general, published, not retrospective, clear, not contradictory, possible to obey, reasonably constant over time, and applied by officials as they are written. A system that fails badly on these is not really law.
 - **Bentham**: laws should be judged by their consequences, weighing pleasure against pain. **Mill**: the only reason to restrain someone against their will is to prevent harm to others. *Criticism*: the majority's happiness could be used to justify harming a minority.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--05-legal-theorists.webp" width="900" height="526" alt="Three columns. Positivism separates law from what it ought to be (Austin: command of a sovereign; Hart: primary and secondary rules and a rule of recognition). Natural law measures law against a higher moral law (Aquinas; Fuller's inner morality). Utilitarianism judges law by consequences (Bentham and Mill; Mill's harm principle). A note describes the Hart–Fuller debate." loading="lazy">
+  <figcaption>Positivism, natural law and utilitarianism, each tied to its theorists.</figcaption>
+</figure>
 
 ## Law and morality (1.1.12 to 1.1.14)
 
@@ -109,6 +134,11 @@ Learn all **seven**, each with a sentence link:
 - *R (Nicklinson) v Ministry of Justice* [2014]: the Supreme Court declined to declare the ban on assisted suicide incompatible with Article 8, treating the question as one mainly for Parliament.
 
 **Using the cases:** sort them into those where the courts **enforced** a shared morality (*Shaw*, *Knuller*, *Brown*, *Gibson*), those where they **respected private choice or changing attitudes** (*Wilson*, *Gillick*, *R v R*), and those where they faced a **moral dilemma** they could not avoid (*Bland*, *Re A*, *Nicklinson*). A good answer then judges whether the courts or Parliament should take such decisions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--06-hart-devlin-cases.webp" width="900" height="600" alt="Devlin says a shared morality holds society together so law may enforce it; Hart, following Mill, says only harm to others justifies intervention. Cases are grouped: enforcing morality (Shaw, Brown), respecting private choice (Wilson), changing with social attitudes (R v R, Gillick) and life and death (Bland, Re A)." loading="lazy">
+  <figcaption>Devlin versus Hart, tested against cases that point each way.</figcaption>
+</figure>
 
 ## Model evaluation paragraph
 

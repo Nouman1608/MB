@@ -61,6 +61,16 @@ Condensed recall for **3.2 Weathering** (physical, chemical and biological). For
 - **Salt crystallisation:** salt solutions enter pores; as water evaporates, crystals grow and force grains apart. Salts can also expand when heated or when they absorb water. It is effective on porous sandstones and on buildings near the sea.
 - **Pressure release (dilatation):** granite forms deep underground under great pressure. When overlying rock is eroded, the granite expands upwards and cracks into curved sheets parallel to the surface. This can help form domes and tors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--10-ee-freeze-thaw.webp" width="900" height="790" alt="Three crack panels: water enters, freezes and expands, repeated cycles break rock into scree. Freeze-thaw weathering in three steps." loading="lazy">
+  <figcaption>Freeze-thaw weathering in three steps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hot-arid-and-semi-arid-environments--03-ha-weathering.webp" width="900" height="1040" alt="Four small schematics: rock expanding by day and shrinking at night; outer shells peeling from a boulder with moisture needed; salt crystals growing in pores and pushing grains apart; and slow chemical weathering helped by dew, with a dark desert varnish coating." loading="lazy">
+  <figcaption>Desert weathering depends on heating and cooling, but moisture and salt matter too.</figcaption>
+</figure>
+
 ## Chemical weathering
 
 Carbonation affects limestone and chalk; hydrolysis affects granite and its feldspar; oxidation turns iron-bearing rocks red or brown; hydration and solution also weaken rock. Rates rise with temperature and moisture.

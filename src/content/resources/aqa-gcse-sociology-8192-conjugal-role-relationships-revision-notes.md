@@ -48,6 +48,11 @@ For full explanations and worked answers, read the [conjugal role relationships 
 | Egalitarian | Based on equality between partners |
 | Patriarchy | A system of male dominance |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--03-dual-burden-triple-shift.webp" width="900" height="738" alt="Three stacked columns show a woman’s load. In the male breadwinner model she does housework and childcare. With the dual burden she adds paid work. Duncombe and Marsden’s triple shift adds emotion work, such as keeping the peace and remembering birthdays." loading="lazy">
+  <figcaption>Paid work was added to women’s load, not swapped for housework.</figcaption>
+</figure>
+
 ## Joint versus segregated at a glance
 
 | | Segregated | Joint |
@@ -58,6 +63,11 @@ For full explanations and worked answers, read the [conjugal role relationships 
 | Leisure | Separate friends and activities | Shared, often home-centred |
 | Bott (1957) | Linked to close-knit networks | Linked to looser networks |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--01-segregated-joint-roles.webp" width="900" height="644" alt="Two panels. Segregated roles: husband and wife each sit in a close-knit network of their own friends and relatives, with separate tasks and leisure. Joint roles: the couple are strongly linked to each other and share tasks, decisions and leisure, with looser outside ties, as Bott found." loading="lazy">
+  <figcaption>Bott linked segregated roles to close-knit networks and joint roles to looser ones.</figcaption>
+</figure>
+
 ## Oakley in four steps
 
 1. **Definition:** the conventional family is a nuclear family of a legally married couple who voluntarily chose parenthood.
@@ -67,6 +77,11 @@ For full explanations and worked answers, read the [conjugal role relationships 
 
 **Conclusion:** official stereotypes were coming to seem "increasingly archaic". **Earlier evidence:** *The Sociology of Housework* (1974), interviews with London housewives, found few husbands doing a large share of housework.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--04-oakley-conventional-family.webp" width="900" height="901" alt="Four numbered steps of Oakley’s argument: the idea of the conventional family is powerful, it has social origins in industrialisation, living up to it causes strain, and it acts as social control. A note adds that she found official stereotypes increasingly archaic." loading="lazy">
+  <figcaption>Oakley treats the conventional family as a powerful idea that controls people, not a natural fact.</figcaption>
+</figure>
+
 ## The five issues in one line each
 
 - **Decision making:** Edgell (1980) found husbands dominated the most important decisions, such as moving house and finance; wives decided less important ones, such as decoration and children's clothes.
@@ -75,11 +90,31 @@ For full explanations and worked answers, read the [conjugal role relationships 
 - **Child rearing:** fathers are more involved, but mothers usually do more routine care.
 - **Leisure activities:** more joint, home-centred leisure; women have less free time and more interruptions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--06-five-issues.webp" width="900" height="678" alt="A table of the five issues. Decision making, money management, dual career families, child rearing and leisure each look more joint than in the past, but in each case evidence shows women still have less power, more routine work or less free time." loading="lazy">
+  <figcaption>In all five issues, change towards joint roles is real but incomplete.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--05-edgell-pahl-power.webp" width="900" height="744" alt="Top: Edgell found husbands made decisions seen as very important, such as moving house and major finance, while wives decided on less important matters such as decoration, food and children’s clothes. Bottom: Pahl’s allowance system, where the husband gives the wife a set sum, and pooling into a joint account, where men still often had more say." loading="lazy">
+  <figcaption>Who decides and who controls money reveal inequality that a list of chores misses.</figcaption>
+</figure>
+
 ## Perspectives
 
 - **Functionalist:** Parsons saw instrumental and expressive roles as functional. Willmott and Young, also functionalists, saw a trend towards symmetry.
 - **Feminist:** Oakley; Delphy and Leonard (men exploit women's work, even when wives have paid jobs); dual burden and triple shift.
 - **Marxist:** women's unpaid labour maintains the workforce free of charge for capitalism; the home is where alienated men hold power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--02-traditional-contemporary.webp" width="900" height="580" alt="Two panels. In the traditional male breadwinner family, Parsons described an instrumental role for husbands and an expressive role for wives. In the contemporary family most mothers do paid work and men do more at home, yet women still do more housework and childcare." loading="lazy">
+  <figcaption>Roles look more joint today, but women still do more at home.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-conjugal-role-relationships--07-who-gains.webp" width="900" height="645" alt="Women’s unpaid domestic work sits at the top. Feminists and Marxists agree it is exploited, but feminists say men gain while Marxists say capitalism gains. Below, functionalists Parsons and Willmott and Young take a more positive view." loading="lazy">
+  <figcaption>Feminists and Marxists agree women’s work is exploited but disagree about who gains.</figcaption>
+</figure>
 
 ## Exam traps
 

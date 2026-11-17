@@ -45,6 +45,11 @@ notes are for fast recall in the final stretch of revision.
 - Exam question: four passages set, candidates choose any **two**.
   [8 marks]
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--02-quran-and-hadith.webp" width="900" height="448" alt="Two linked boxes: the Qur'an sets out core principles, and the Hadiths, a second source of guidance, give the practical detail of how they were lived out. A note defines Hadiths as the Prophet's sayings, actions and approvals, preserved through the isnad, distinct from the Qur'an but complementary." loading="lazy">
+  <figcaption>Principles from the Qur'an, practical detail from the Hadiths.</figcaption>
+</figure>
+
 ## 2. The history and importance of the Hadiths
 
 - The **history of compilation** and the **earliest collections**.
@@ -59,6 +64,11 @@ notes are for fast recall in the final stretch of revision.
   (**ijma'**) and analogy (**qiyas**).
 - Their overall **significance in Muslim thought and action**.
 - Exam question: usually multi-part, essay-length answer. [14 marks]
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--05-isnad-worked-example.webp" width="900" height="584" alt="A chain runs from the Prophet (pbuh) through narrators to the person recording the Hadith. Below, three steps: scholars checked each narrator's character and memory; so some Hadiths are classified as more reliable than others; and this scrutiny is why the Hadiths are treated as trustworthy." loading="lazy">
+  <figcaption>Mechanism, then result, then why it matters.</figcaption>
+</figure>
 
 ## 3. The period of rule of the Rightly Guided Caliphs and their importance as leaders
 
@@ -81,6 +91,11 @@ notes are for fast recall in the final stretch of revision.
   back under the authority of Madinah, holding the community together.
   (Only the link to Yamama and the Qur'an's compilation belongs to
   Paper 1.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--03-caliphs-in-order.webp" width="900" height="460" alt="Four numbered cards in succession: Abu Bakr, consolidating the community; Umar, expansion and administration; Uthman, standardising the Qur'an; and Ali, leadership during internal division. A bracket underneath says to compare them across the period." loading="lazy">
+  <figcaption>Know the order and one defining feature of each reign.</figcaption>
+</figure>
 
 ## 4. The Articles of Faith and the Pillars of Islam
 
@@ -111,6 +126,11 @@ notes are for fast recall in the final stretch of revision.
 - Exam question: one or two questions, multi-part, essay-length
   answers. [14 marks]
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--04-articles-and-pillars.webp" width="900" height="654" alt="The six Articles of Faith (Allah, angels, revealed books, prophets, the Day of Judgement and divine decree) lead to the five Pillars as the framework of practice: Shahada, Salah, Zakat, Sawm and Hajj. A warning reminds candidates to explain each, not just name it." loading="lazy">
+  <figcaption>Articles are what Muslims believe; Pillars are the practice built on them.</figcaption>
+</figure>
+
 ## Quick recall checklist
 
 - Can I name the two categories of Hadith passages and explain the
@@ -134,6 +154,11 @@ notes are for fast recall in the final stretch of revision.
 - **Treating isnad and matn as interchangeable terms** rather than the
   two distinct methods (chain of transmission versus wording) they
   represent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--06-common-mistakes.webp" width="900" height="542" alt="Four mistakes with their fixes: listing the Articles or Pillars instead of explaining them; describing Caliphs in isolation instead of comparing them; treating Hadiths as equal to the Qur'an instead of complementary; and under-revising 2.4 instead of giving it equal rigour." loading="lazy">
+  <figcaption>Each common mistake has a simple fix: explain, compare, distinguish, revise evenly.</figcaption>
+</figure>
 
 ## Cross-checking with Paper 1
 

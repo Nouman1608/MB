@@ -83,6 +83,16 @@ Full explanations: [global inequality, migration and crime study guide](/resourc
 - Post-colonialism — neo-colonial trade and debt relationships.
 - Patriarchy — Mies (1986): women's unpaid and low-paid labour subsidises global capitalism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-contemporary-issues--01-life-chances-debate.webp" width="900" height="624" alt="Two columns compare views on globalisation. The optimistic modernisation and neo-liberal view stresses jobs, investment, technology and global development goals; the pessimistic dependency and Marxist view stresses surplus extraction, unsafe low-wage work, debt conditions and brain drain." loading="lazy">
+  <figcaption>Modernisation sees globalisation as a route to development; dependency theory sees it as extraction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-contemporary-issues--02-explaining-global-inequality.webp" width="900" height="628" alt="Concentric circles show a core surrounded by a semi-periphery and a periphery, with wealth flowing inwards to the core. Beside them, four explanations of global inequality: capitalism, colonialism, post-colonialism and patriarchy." loading="lazy">
+  <figcaption>Inequality is explained by the global system itself, its colonial history and its reliance on women’s labour.</figcaption>
+</figure>
+
 ## 8.2 Migration
 
 **Causes:** push (poverty, war, persecution, climate disaster); pull (jobs, wages, safety, family);
@@ -101,6 +111,21 @@ Castles and Miller (1993): migration globalised, accelerated, feminised.
 **Who benefits?** Functionalist/neo-liberal: mutual benefit. Marxist: migrants as a reserve army of
 labour that lowers wages and divides workers. Feminist: global care chains (Hochschild).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-contemporary-issues--03-push-pull-migration.webp" width="900" height="694" alt="Push factors such as poverty, conflict, persecution and climate disaster drive people out of a sending country; pull factors such as jobs, safety, family and education draw them to a receiving country. Below, net migration is defined and Castles and Miller’s view that migration is globalised, accelerated and feminised is shown." loading="lazy">
+  <figcaption>Migration results from push factors at home and pull factors abroad.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-contemporary-issues--04-who-benefits-migration.webp" width="900" height="559" alt="Four perspectives on who benefits from migration: functionalists and neo-liberals see mutual gains, Marxists see a reserve army of labour that holds down wages, feminists point to the global care chain, and migrants themselves may gain income but lose status and rights." loading="lazy">
+  <figcaption>Perspectives disagree over whether migration brings mutual gain or benefits the powerful.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-contemporary-issues--05-global-care-chain.webp" width="900" height="480" alt="A migrant woman from a sending country provides care for a richer family abroad in exchange for wages, sends remittances home, and her own children are cared for by others." loading="lazy">
+  <figcaption>Feminists show that global migration moves care work from poorer women to richer families.</figcaption>
+</figure>
+
 ## 8.3 Crime
 
 **Why global crime emerged:** cheaper travel, global finance, internet, weak regulation in some
@@ -118,6 +143,21 @@ trafficking and exploitation of women reflect patriarchy.
 
 **Policing:** Interpol, Europol, International Criminal Court (2002), digital forensics, financial
 tracking. **Challenges:** jurisdiction, corruption, encryption, power of corporations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-contemporary-issues--06-why-crime-is-global.webp" width="900" height="580" alt="Cheaper travel, global finance and the internet create opportunities for crime across borders, shown leading to three global crimes: human trafficking, corporate crime and crimes against the environment, with examples. Castells describes a linked global criminal economy." loading="lazy">
+  <figcaption>Globalisation opens new routes for trafficking, corporate and environmental crime.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-contemporary-issues--07-who-benefits-global-crime.webp" width="900" height="420" alt="Two columns: Marxists argue global crime benefits corporations and the ruling class while the poor bear the harm; feminists argue global crime is shaped by patriarchy and its victims are disproportionately women and girls." loading="lazy">
+  <figcaption>Marxists focus on class power; feminists on patriarchy and who the victims are.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-contemporary-issues--08-policing-global-crime.webp" width="900" height="426" alt="Benefits of globalisation and technology for policing (Interpol, Europol, the International Criminal Court, data sharing, financial tracking, digital forensics) set against the challenges (different laws across jurisdictions, weak or corrupt states, encryption and cryptocurrencies, powerful offenders avoiding prosecution)." loading="lazy">
+  <figcaption>The same technology that helps police cooperate also helps criminals hide.</figcaption>
+</figure>
 
 ## Worked essay plan
 

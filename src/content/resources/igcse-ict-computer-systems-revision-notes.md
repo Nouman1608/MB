@@ -40,6 +40,16 @@ Condensed for the final weeks. For the full explanation, use the
 
 A **device driver is system software**, even though it relates to one device. That classification is examined regularly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--15-cs-hw-sw.webp" width="900" height="980" alt="Hardware is physical (CPU, RAM, storage). Software splits into system (OS, utilities, drivers, compilers) and application (word processor, spreadsheet, browser, database); the OS manages memory, files, processes, input and output and the user interface." loading="lazy">
+  <figcaption>Hardware is physical; software is system or application.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--16-cs-components.webp" width="900" height="880" alt="Block diagram: CPU (control unit, ALU, registers) joined to RAM, ROM and secondary storage, with input devices in and output devices out." loading="lazy">
+  <figcaption>The CPU works with memory, storage, input and output.</figcaption>
+</figure>
+
 ## Input devices — justify the choice
 
 Questions almost always ask *which device for this situation and why*. The answer always has two parts: name the device, then give the reason it suits **that** context.
@@ -73,6 +83,16 @@ Monitor (soft copy), laser printer (high volume, fast, low cost per page), inkje
 - **Solid state** (SSD, flash) — fast, silent, robust, low power; higher cost per GB.
 
 **Why an SSD suits a laptop:** no moving parts so it survives being carried and knocked, lower power consumption so battery life improves, faster and silent. The trade-off is price per gigabyte.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--17-cs-ram-rom.webp" width="900" height="900" alt="With power on, RAM and ROM hold data; after power off, RAM is empty (volatile) and ROM keeps its data (non-volatile). ROM holds boot instructions." loading="lazy">
+  <figcaption>RAM loses its contents without power; ROM keeps them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--19-cs-storage.webp" width="900" height="1010" alt="Magnetic, optical and solid state with their advantages and disadvantages, and a fieldwork-tablet example choosing solid state." loading="lazy">
+  <figcaption>Match the property to the scenario.</figcaption>
+</figure>
 
 ## Networks
 

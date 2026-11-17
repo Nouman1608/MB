@@ -33,6 +33,16 @@ Revision notes for **sub-theme 3.3** of Theme 3 in Pearson Edexcel A Level Urdu 
 - Keep a file of named sources, dates and figures you have checked yourself; never quote a statistic you cannot trace.
 - Prepare points for and against emigration so you can write a balanced response to any statement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-3-study-guide--01-theme-3-map.webp" width="900" height="640" alt="Theme 3, ہجرت ترکِ وطن اور کثیر الثقافتی معاشرہ (Immigration and the multicultural society), has three sub-themes: positive features of a diverse society, attitudes towards immigration, and emigration from Pakistan (پاکستان سے ہجرت), the research subject." loading="lazy">
+  <figcaption>Three sub-themes; emigration from Pakistan is the research subject.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-2-study-guide--02-research-place-rule.webp" width="900" height="536" alt="For Themes 1, 3 and 4 research must concern Pakistan; for Theme 2 it may concern Pakistan or one area of India where Urdu is an official language, but only one country or area." loading="lazy">
+  <figcaption>Theme 2 allows Pakistan or one Urdu-official area of India, never both.</figcaption>
+</figure>
+
 ## Key ideas
 
 | Idea | Notes |
@@ -43,6 +53,11 @@ Revision notes for **sub-theme 3.3** of Theme 3 in Pearson Edexcel A Level Urdu 
 | Remittances (ترسیلاتِ زر) | Money sent home; effect on families and the economy |
 | Brain drain (ذہین افراد کا انخلا) | Loss of skilled workers; debate over return or contact abroad |
 | Families | Effects on families left behind and on communities abroad |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-3-study-guide--04-emigration-from-pakistan.webp" width="900" height="776" alt="Push factors in Pakistan (limited jobs, lower wages, insecurity, study) and pull factors (higher pay, family links, services) lead to the Gulf region and to Europe and North America. Remittances (ترسیلاتِ زر) flow back; skilled emigration raises brain drain (ذہین افراد کا انخلا) and there are effects on families." loading="lazy">
+  <figcaption>Push, pull, remittances and brain drain: the core of the research subject.</figcaption>
+</figure>
 
 ## Issues and perspectives
 

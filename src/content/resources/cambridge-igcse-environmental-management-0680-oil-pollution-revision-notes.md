@@ -41,6 +41,11 @@ Read every question stem for which part it targets. "Prevent" and "reduce the im
 - Contains toxic compounds that poison organisms.
 - Lighter parts evaporate; waves form emulsions or droplets; heavy residues sink or strand as tar.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--01-fate-of-spilled-oil.webp" width="900" height="830" alt="A cross-section, not to scale. Oil from a tanker floats and spreads as a thin slick driven by wind and currents; lighter parts evaporate in the first days; waves make an emulsion or break it into droplets; heavier residues sink; some washes ashore as tar." loading="lazy">
+  <figcaption>Oil floats, spreads, evaporates, breaks up and sinks or strands: its properties explain the impacts.</figcaption>
+</figure>
+
 ## Causes (3.5.1)
 
 | Cause | Typical event |
@@ -50,6 +55,11 @@ Read every question stem for which part it targets. "Prevent" and "reduce the im
 | Shipping | Grounding, collision, sinking, fuel leaks |
 | Cleaning of tanks at sea | Oily wash water pumped overboard |
 | Refineries | Leaks and oily wastewater on the coast |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--02-five-causes.webp" width="900" height="905" alt="A coastal scene, not to scale, with five numbered sources: oil extraction at a sea platform and at a land oilfield that drains into a river; a leaking pipeline on the sea bed; a tanker aground on rocks; a ship pumping oily tank-washing water overboard; and a coastal refinery. Frequent small releases add a great deal of oil over time." loading="lazy">
+  <figcaption>Oil reaches the sea from extraction, pipelines, shipping, tank cleaning and refineries.</figcaption>
+</figure>
 
 ## Impacts (3.5.2): coat, poison, knock-on
 
@@ -63,12 +73,27 @@ Read every question stem for which part it targets. "Prevent" and "reduce the im
 | Coral reefs | Smothered; light to algae blocked | Polyps killed | High-biodiversity food web disrupted |
 | Beaches | Sand and rocks coated | Shore organisms killed | Tourism and income lost |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--03-seven-groups-impacts.webp" width="900" height="815" alt="A grid of the seven syllabus groups with a physical, a toxic or lethal, and a knock-on effect for each: birds, marine mammals, fish, crustaceans, seaweeds, coral reefs and beaches. For example, oil mats birds’ feathers, is swallowed during preening and stops oiled eggs hatching." loading="lazy">
+  <figcaption>Physical, toxic, knock-on: three effects to give for each of the seven groups.</figcaption>
+</figure>
+
 ## Prevention (3.5.3)
 
 - **MARPOL**: International Convention for the Prevention of Pollution from Ships; limits discharges, oily waste kept for port disposal, records kept for inspection.
 - **Double-hulled tankers**: inner hull contains oil if the outer hull is breached.
 - **Risk assessments**: identify hazards and likelihood before drilling, pipeline building or routing.
 - **Regular maintenance**: inspect and repair ships, pipelines and platforms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--04-double-hull-marpol.webp" width="900" height="725" alt="Two tanker cross-sections, each holed in the outer hull. In the single-hulled tanker oil escapes; in the double-hulled tanker the inner hull, separated by a gap, keeps the oil in. Below, MARPOL is shown as an international convention that restricts discharges, requires oily waste to be kept on board and unloaded at port, and requires records for inspectors." loading="lazy">
+  <figcaption>A double hull reduces the oil released if the outer hull is holed; MARPOL controls what ships discharge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--13-wa-oil-prevent-minimise.webp" width="900" height="900" alt="A sea scene shows a double-hulled tanker, an oil slick held by a floating boom, and a skimmer boat. Two lists give the lesson strategies: prevention (MARPOL, double-hulled tankers, risk assessments, regular maintenance) and minimising impact (improved navigation, booms and sorbents, detergent sprays, skimmers, controlled burning)." loading="lazy">
+  <figcaption>Prevention strategies are separate from strategies for minimising the impact of a spill.</figcaption>
+</figure>
 
 ## Minimising impacts (3.5.4)
 
@@ -82,6 +107,16 @@ Read every question stem for which part it targets. "Prevent" and "reduce the im
 | Controlled burning | Burning surface oil | Air pollution; needs fresh, thick oil and calm conditions |
 
 Note: improved navigation is listed in the syllabus under minimising impacts, although it works by stopping the accident happening.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--05-minimise-limitations.webp" width="900" height="815" alt="A grid of five strategies against four recurring limitations. Improved navigation is limited by cost and human error; booms and sorbents by weather and oily waste; detergent sprays by toxicity; skimmers by rough water and slowness; controlled burning by the need for calm conditions and by smoke and carbon dioxide." loading="lazy">
+  <figcaption>Weather, toxicity and waste recur as the limitations of clean-up methods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--06-scenario-plan.webp" width="900" height="650" alt="A schematic map: a tanker aground in a storm 5 km from a coral reef and a tourist beach, with rough seas for three days. Booms, skimmers and burning are ruled out by the weather; detergent sprays would push oil towards the reef; the plan is booms at the beach and reef entrance when possible, sorbents on the shore and skimming once calm." loading="lazy">
+  <figcaption>Let the weather and location in the question decide which methods you choose.</figcaption>
+</figure>
 
 ## Key terms
 

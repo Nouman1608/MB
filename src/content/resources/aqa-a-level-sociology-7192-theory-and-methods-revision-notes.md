@@ -74,6 +74,16 @@ freedom; sociology and social policy.
 - **Documents:** Scott's four criteria (1990): authenticity, credibility, representativeness, meaning.
 - **Official statistics:** cheap, large-scale trends — socially constructed (Atkinson, 1978).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--01-methods-map.webp" width="900" height="731" alt="A two-by-two grid. Primary quantitative: questionnaires, structured interviews, laboratory experiments. Primary qualitative: unstructured interviews and participant observation. Secondary quantitative: official statistics. Secondary qualitative: documents. Each has a strength and a limitation." loading="lazy">
+  <figcaption>Every method sits somewhere on the primary/secondary and quantitative/qualitative grid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--03-tpe-factors.webp" width="900" height="493" alt="Theoretical, practical and ethical considerations all feed into the choice of topic, the choice of method and the conduct of research." loading="lazy">
+  <figcaption>Theory, practicalities and ethics together shape how research is done.</figcaption>
+</figure>
+
 ## Positivism versus interpretivism
 
 | | Positivism | Interpretivism |
@@ -82,6 +92,11 @@ freedom; sociology and social policy.
 | Aim | Causal laws | Understanding (verstehen) |
 | Methods | Quantitative, reliable | Qualitative, valid |
 | Classic study | Durkheim, *Suicide* (1897) | Douglas (1967); Atkinson (1978) on suicide |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--02-positivism-interpretivism.webp" width="900" height="451" alt="Positivists such as Durkheim see society as social facts studied with quantitative methods, as in his study of suicide rates. Interpretivists, following Weber, study meanings with qualitative methods; Atkinson and Douglas reinterpret suicide." loading="lazy">
+  <figcaption>The two approaches study suicide in opposite ways.</figcaption>
+</figure>
 
 ## Theories at a glance
 
@@ -95,12 +110,22 @@ freedom; sociology and social policy.
 | Structuration | Both | — | Giddens (1984) |
 | Postmodernism | Neither — rejects grand theory | — | Lyotard (1979), Baudrillard |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--04-theory-map.webp" width="900" height="520" alt="Three groups of theory: consensus (functionalism), conflict (Marxism and feminism) and social action (symbolic interactionism, phenomenology and ethnomethodology), with Giddens’ structuration theory bridging structure and action." loading="lazy">
+  <figcaption>Structural theories start from society; social action theories start from meanings.</figcaption>
+</figure>
+
 ## Modernity, post-modernity and late modernity
 
 - **Modernity:** nation state, industrial capitalism, rationality, science, progress.
 - **Post-modernity:** fragmentation, media saturation, hyperreality, decline of meta-narratives
   (Lyotard, Baudrillard).
 - **Late modernity:** Giddens — reflexivity; Beck — risk society (1986).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--05-modernity.webp" width="900" height="537" alt="Modernity, marked by the nation state, capitalism, science and grand narratives, leads to two views: postmodernists Lyotard and Baudrillard say it has ended, while late modernists Giddens and Beck say it continues in a new form." loading="lazy">
+  <figcaption>Postmodernists see a break with modernity; late modernists see it intensifying.</figcaption>
+</figure>
 
 ## Is sociology a science?
 
@@ -112,6 +137,11 @@ freedom; sociology and social policy.
 | Realists (Keat and Urry, 1975; Sayer) | Science studies underlying causes in open systems too |
 | Interpretivist | Human meaning makes natural-science methods inappropriate |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--06-science.webp" width="900" height="568" alt="Five positions on whether sociology is a science: positivists and realists say yes, Popper defines science by falsification, Kuhn calls sociology pre-paradigmatic, and interpretivists say natural-science methods do not fit." loading="lazy">
+  <figcaption>The answer depends on how science itself is defined.</figcaption>
+</figure>
+
 ## Values and policy
 
 - **Value freedom:** Comte and Durkheim (objective science); Weber (values in choice of topic, not
@@ -121,6 +151,11 @@ freedom; sociology and social policy.
   Townsend (1979), Black Report (1980); Marxist — policy serves capitalism; feminist — equal pay and
   domestic violence policy; New Right — Murray on dependency; postmodernist scepticism. Constraints:
   funding, ideology, electoral politics.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-theory-and-methods--07-values.webp" width="900" height="405" alt="A spectrum from classical positivists, who thought sociology could be objective, through Weber, who kept values out of data collection only, to committed sociologists Becker, Gouldner and feminists, who argue research should take sides." loading="lazy">
+  <figcaption>Views range from full objectivity to openly committed research.</figcaption>
+</figure>
 
 ## Worked example: 10-mark "outline and explain two" plan
 

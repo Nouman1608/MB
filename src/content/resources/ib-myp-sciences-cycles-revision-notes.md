@@ -64,6 +64,21 @@ A cycle is a **system**: matter moves between **stores** by **processes**, and t
 | Nitrogen | Air (about 78% N₂), soil, organisms | Fixation, decomposition, nitrification, uptake, denitrification | Bacteria's own respiration; lightning; industrial energy for the Haber process |
 | Rock | Igneous, sedimentary and metamorphic rock, magma | Weathering, erosion, deposition, compaction, cementation, metamorphism, melting, uplift | Earth's internal heat; Sun and gravity |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--03-water-cycle.webp" width="900" height="720" alt="Cross-section from the sea to a hill. The Sun evaporates sea water and plants transpire water vapour from their leaves; the vapour cools and condenses into cloud; precipitation falls on the hill. Water runs off over the surface to the sea, infiltrates the soil and moves slowly as groundwater through permeable rock back to the sea." loading="lazy">
+  <figcaption>The Sun lifts water as vapour; gravity brings it back down and to the sea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--05-nitrogen-cycle.webp" width="900" height="720" alt="Nitrogen gas is fixed into ammonium by bacteria in root nodules and soil and by the Haber process; lightning forms nitrogen oxides that become nitrate. Nitrifying bacteria turn ammonium into nitrite then nitrate, which roots take up; plants make proteins and animals eat plants. Dead matter and urea are decomposed back to ammonium. Denitrifying bacteria in oxygen-poor soil return nitrate to nitrogen gas." loading="lazy">
+  <figcaption>Fixation brings nitrogen in, nitrification makes nitrate, denitrification sends it back to the air.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--06-rock-cycle.webp" width="900" height="750" alt="Igneous rock is weathered, eroded and transported to form sediments, which are deposited, compacted and cemented into sedimentary rock. Heat and pressure without melting turn it into metamorphic rock, which melts to magma; magma cools and crystallises into igneous rock. Intrusive granite cools slowly with large crystals; extrusive basalt cools fast with small crystals." loading="lazy">
+  <figcaption>Rocks change from one type to another, driven by Earth’s internal heat and by the Sun and gravity.</figcaption>
+</figure>
+
 ## Method in steps
 
 **Tracing an atom round a cycle**
@@ -100,6 +115,16 @@ A cycle is a **system**: matter moves between **stores** by **processes**, and t
 - A catchment gets 1,100 mm rain, loses 650 mm by evapotranspiration and 300 mm as runoff. Recharge = **150 mm**.
 - 3.6 m of sediment at 0.3 mm/yr: 3,600 ÷ 0.3 = **12,000 years**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--02-forest-carbon-budget.webp" width="900" height="650" alt="Bar comparison for a fictional forest: 12.0 tonnes of carbon in by photosynthesis against 6.0 tonnes out by plant respiration and 5.0 by decomposers, 11.0 in total. The gap of +1.0 tonne per hectare per year makes it a sink; burning would turn it into a source." loading="lazy">
+  <figcaption>In greater than out means a carbon sink; out greater than in means a source.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--04-water-budget.webp" width="900" height="540" alt="A bar of 1,100 mm of precipitation is matched by outputs of 650 mm evapotranspiration, 300 mm surface runoff and 150 mm groundwater recharge. Evapotranspiration is 59.1% of the precipitation." loading="lazy">
+  <figcaption>Inputs equal outputs plus storage change, so recharge is what is left over.</figcaption>
+</figure>
+
 ## Reading a cycle diagram or data table
 
 - **Arrows are processes; boxes are stores.** Label every arrow with a process name, not a vague verb such as "goes to".
@@ -109,6 +134,11 @@ A cycle is a **system**: matter moves between **stores** by **processes**, and t
 - **Separate trend from fluctuation.** In a long CO₂ record, the year-to-year rise is the trend; the up-and-down pattern within each year is a seasonal fluctuation linked to photosynthesis.
 - **Say what the model leaves out.** A simple diagram rarely shows store sizes, rates or where on Earth each process happens.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--01-carbon-cycle.webp" width="900" height="835" alt="The atmosphere’s carbon dioxide exchanges with the oceans by dissolving, enters plants by photosynthesis and returns by respiration from plants, animals and decomposers and by combustion of fossil fuels. Feeding passes carbon from plants to animals, death and waste pass it to dead matter, and fossilisation turns dead matter into fossil fuels. Word equations for photosynthesis and respiration are given below." loading="lazy">
+  <figcaption>Carbon moves between stores; only its location and form change, never the total.</figcaption>
+</figure>
+
 ## Human impacts
 
 - **Carbon**: burning fossil fuels and deforestation add CO₂ faster than it is removed → enhanced greenhouse effect → global warming; more CO₂ dissolving makes oceans more acidic, harming shell-building organisms.
@@ -117,6 +147,11 @@ A cycle is a **system**: matter moves between **stores** by **processes**, and t
 - **Rock**: quarrying and mining remove rock quickly and can load rivers with sediment.
 
 **Eutrophication chain**: nitrate runoff → algal bloom → light blocked → water plants die → decomposers respire and use up oxygen → fish die.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--07-eutrophication.webp" width="900" height="740" alt="Five lake sections in order: nitrate from fertiliser runs off a field; algae grow fast and cover the surface; light cannot reach water plants, which die; decomposers respire as they break down dead matter and use up dissolved oxygen; fish and other animals die. An oxygen gauge falls over the last steps." loading="lazy">
+  <figcaption>The fish die from lack of oxygen used up by decomposers, not from the fertiliser itself.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

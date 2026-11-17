@@ -34,6 +34,16 @@ The [motivation to work study guide](/resources/cambridge-a-level-psychology-999
 - **4.1.2 Cognitive theories**: Latham and Locke's goal-setting principles and SMART goals; Vroom's VIE theory.
 - **4.1.3 Motivators**: extrinsic (pay, bonuses, profit-sharing, performance-related pay); intrinsic (praise, respect, recognition, empowerment, belonging); self-determination theory; key study Landry et al. (2019), study 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--02-org-maslow.webp" width="900" height="830" alt="A five-level pyramid: physiological (pay), safety (job security), love and belonging (colleagues), esteem (recognition), self-actualisation (challenging work), with an arrow showing lower needs are largely met first." loading="lazy">
+  <figcaption>Maslow’s levels and what meets each one at work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-motivation-to-work--01-mcclelland-needs.webp" width="900" height="652" alt="Three needs: achievement (succeeding at challenging tasks, preferring moderately difficult goals and feedback), affiliation (being liked, preferring cooperation) and power (influencing others). A manager can give a high-achievement employee a target-based project and a high-affiliation employee a team role. Projective measures limit reliability." loading="lazy">
+  <figcaption>Three learned needs; match each employee's role to their strongest one.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |
@@ -63,6 +73,16 @@ The [motivation to work study guide](/resources/cambridge-a-level-psychology-999
 | VIE | Cognitive (process) | Motivation = V × I × E | Assumes rational calculation; emotions ignored |
 | Self-determination | Needs plus quality of motivation | Satisfying competence, autonomy and relatedness supports intrinsic motivation | Supported by Landry et al., but often with lab tasks |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-motivation-to-work--03-content-vs-process.webp" width="900" height="439" alt="A table compares need theories (Maslow, McClelland: what motivates, unmet needs, more deterministic) with cognitive theories (goal-setting, VIE: how motivation is produced, goals and beliefs, an active worker)." loading="lazy">
+  <figcaption>Need theories explain what motivates; cognitive theories explain how.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--01-org-vie.webp" width="900" height="955" alt="A chain from effort to performance to reward. Expectancy links effort to performance, instrumentality links performance to reward, and valence is how much the reward is valued. A second chain shows instrumentality at zero, so motivation is low." loading="lazy">
+  <figcaption>Vroom’s three beliefs; if any one is zero, motivation is low.</figcaption>
+</figure>
+
 ## Goal-setting principles
 
 - **Clarity**: specific and measurable.
@@ -70,6 +90,11 @@ The [motivation to work study guide](/resources/cambridge-a-level-psychology-999
 - **Commitment**: accepted, ideally set together.
 - **Feedback**: progress reported.
 - **Task complexity**: allow time and support for complex goals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-motivation-to-work--02-goal-setting.webp" width="900" height="459" alt="Five goal-setting principles: clarity, challenge, commitment, feedback and task complexity. Below, a vague goal (&quot;Improve customer service&quot;) is turned into a SMART goal (&quot;Answer 90% of customer emails within 24 hours by the end of March&quot;)." loading="lazy">
+  <figcaption>Turn vague aims into specific, measurable, time-bound goals.</figcaption>
+</figure>
 
 ## Key study grid: Landry et al. (2019), study 1
 
@@ -84,6 +109,16 @@ The [motivation to work study guide](/resources/cambridge-a-level-psychology-999
 | Task | Two minutes, 25 four-letter anagrams |
 | Results | Autonomy-supportive: more need satisfaction, intrinsic motivation and better performance. Controlling: more need frustration and extrinsic motivation, which did not predict performance |
 | Conclusion | Meaning, not amount, determines a reward's effect |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--03-org-landry.webp" width="900" height="980" alt="123 students were randomly allocated to two conditions, both offered the same 10 dollar gift card framed differently, then did the same anagram task. Autonomy-supportive: more need satisfaction, intrinsic motivation and better performance. Controlling: more need frustration and extrinsic motivation, which did not predict performance." loading="lazy">
+  <figcaption>Study 1: the same reward framed in two ways gave different results.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-motivation-to-work--04-motivators-sdt.webp" width="900" height="623" alt="Extrinsic motivators (pay, bonus, profit-sharing, performance-related pay) and intrinsic motivators (praise, respect, recognition, empowerment, belonging). Self-determination theory's three needs, competence, autonomy and relatedness, follow; informational rewards can support intrinsic motivation while controlling rewards can undermine it." loading="lazy">
+  <figcaption>The same reward can support or undermine motivation depending on how it feels.</figcaption>
+</figure>
 
 ## One scenario, five theories
 

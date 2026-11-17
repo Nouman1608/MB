@@ -63,12 +63,22 @@ longer ones.
 | Victim survey | Survey asking people about crimes they have experienced |
 | Dark figure of crime | Crime that never appears in official statistics |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--01-crime-and-deviance.webp" width="900" height="684" alt="Two overlapping circles. Deviance breaks norms; crime breaks the criminal law. Most crimes fall in the overlap. Talking loudly in a library is deviant but not criminal; minor speeding in some places is criminal but barely deviant. A note adds that deviance can be positive, such as unusual bravery." loading="lazy">
+  <figcaption>Most crime is deviant, but not all deviance is crime.</figcaption>
+</figure>
+
 ## Relativity: four dimensions, one example each
 
 - **Between societies:** alcohol legal in some, banned in others.
 - **Within a society:** dress or diet normal in one community, frowned on in another.
 - **Situation:** killing in war or self-defence versus murder.
 - **Time:** smoking indoors once normal, now banned in many places.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--02-relativity.webp" width="900" height="520" alt="Four dimensions of relativity with examples: between societies (drinking alcohol), within a society between cultures (dress, diet, celebration), between situations (killing in a fight versus self-defence or war) and across time (smoking indoors in public places)." loading="lazy">
+  <figcaption>Always say which dimension of relativity your example shows.</figcaption>
+</figure>
 
 ## Formal agencies: how they control
 
@@ -77,6 +87,11 @@ longer ones.
 - **Armed forces:** emergencies, curfews, borders, unrest.
 - **Government:** makes laws, funds enforcement, sets crime-prevention policy.
 - **Penal system:** prison, probation, community sentences.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--03-formal-control.webp" width="900" height="695" alt="Five formal agencies with how each controls behaviour: police patrol and arrest, courts decide guilt and sentence, armed forces act in emergencies, government makes laws and funds agencies, and the penal system punishes, incapacitates and rehabilitates. A note explains negative sanctions and deterrence." loading="lazy">
+  <figcaption>Formal control uses written rules, legal sanctions and deterrence.</figcaption>
+</figure>
 
 ## Informal agencies: how they control
 
@@ -90,6 +105,11 @@ longer ones.
 **Hirschi (1969):** bonds of attachment, commitment, involvement and belief keep people from
 offending.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--04-informal-control-bonds.webp" width="900" height="612" alt="A table of six informal agencies and their sanctions, from family curfews to religious teachings, followed by Hirschi’s four social bonds: attachment, commitment, involvement and belief, which give people more to lose by offending." loading="lazy">
+  <figcaption>Informal control works because people value their relationships and goals.</figcaption>
+</figure>
+
 ## Effectiveness (6.1.4) in brief
 
 - Informal control prevents most deviance day to day, because norms are internalised.
@@ -99,6 +119,11 @@ offending.
   pressure).
 - Neither works well against corporate or cyber crime without specialist regulation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--05-effectiveness.webp" width="900" height="508" alt="Strengths and limitations of formal control, which is backed by law but misses most crime, and informal control, which works daily through internalised norms but is weaker in anonymous cities. The judgement: informal control does most of the work, formal control handles the rest, depending on the type of crime." loading="lazy">
+  <figcaption>Effectiveness depends on the type of crime as well as the type of control.</figcaption>
+</figure>
+
 ## Types of crime: quick sort
 
 - **Harm to people:** violent, hate, domestic.
@@ -106,6 +131,11 @@ offending.
 - **Motive:** expressive (emotion, thrill) versus instrumental (gain).
 - **Who commits it:** gang, organised/global, corporate.
 - **Harm to the environment:** green (illegal logging, toxic dumping, wildlife trafficking).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--06-types-of-crime.webp" width="900" height="570" alt="Eleven types of crime with examples: violent, property, white-collar or corporate, expressive, instrumental, gang, green, global or organised, cyber, hate and domestic. A final card notes that types overlap: a gang robbery is gang, violent and instrumental crime." loading="lazy">
+  <figcaption>Many crimes fit more than one type.</figcaption>
+</figure>
 
 ## Measuring crime (6.1.6)
 
@@ -118,6 +148,11 @@ offending.
 **Unreported:** trivial, fear of revenge, distrust of police, shame, unaware of being a victim.
 **Unrecorded:** police judge it not a crime, lack evidence, or deal with it informally.
 **Cicourel (1968):** officials' stereotypes shape who is arrested and charged.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-1--07-measuring-crime.webp" width="900" height="690" alt="Narrowing bars: all crime, crime victims know about, crime reported and crime recorded by police. Self-report studies reach the widest level, victim surveys reach crime victims know about and official statistics only recorded crime. The gap is the dark figure, explained by unreported and unrecorded crime and Cicourel’s point about stereotypes." loading="lazy">
+  <figcaption>Each measure captures a different slice of crime; none captures it all.</figcaption>
+</figure>
 
 ## Exam traps
 

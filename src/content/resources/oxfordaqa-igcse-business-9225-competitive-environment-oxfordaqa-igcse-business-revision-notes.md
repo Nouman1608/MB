@@ -39,6 +39,11 @@ Condensed recall for section 3.2.6. For full explanations and worked examples, u
 - **Competition:** rivalry between businesses for the same customers.
 - **Direct competitors:** sell the same type of product. **Indirect competitors:** sell something different that meets the same need or takes the same spending.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--01-direct-indirect-competitors.webp" width="900" height="839" alt="A cinema sits inside a ring of direct competitors, other cinemas selling the same product, which sits inside a wider ring of indirect competitors: streaming services, bowling alleys and restaurants that compete for the same leisure money." loading="lazy">
+  <figcaption>Direct competitors sell the same product; indirect competitors chase the same customers’ money.</figcaption>
+</figure>
+
 ## Impacts of competition
 
 | More competition means... | So the business... |
@@ -53,6 +58,16 @@ Condensed recall for section 3.2.6. For full explanations and worked examples, u
 
 **Good for the business too:** pressure to become efficient, understand customers and innovate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--02-effects-of-competition.webp" width="900" height="740" alt="Strong competition, where customers can switch, affects six areas: price is held down, quality and service must improve, there is pressure to innovate, promotion costs rise, profit margins fall and weaker businesses may not survive. Businesses respond by competing on price, quality, a unique feature, service, location or brand." loading="lazy">
+  <figcaption>Competition squeezes price and profit, but also pushes a business to improve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--03-hartwell-two-responses.webp" width="900" height="879" alt="Bars show Hartwell Fitness monthly revenue: $28,000 now (800 × $35), $19,000 if it matches the $25 price and keeps 760 members, and $19,600 if it keeps $35 and loses 30% of members, leaving 560. Option 2 is $600 higher, but both fall by more than $8,000." loading="lazy">
+  <figcaption>Competition costs Hartwell over $8,000 a month whichever price it chooses.</figcaption>
+</figure>
+
 ## Minimal or no competition: spot the situation
 
 | Clue in the case | Why competition is weak |
@@ -65,11 +80,21 @@ Condensed recall for section 3.2.6. For full explanations and worked examples, u
 
 **Effects:** higher prices and profits, less promotion; but risk of complacency and of attracting new entrants.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--04-minimal-competition.webp" width="900" height="740" alt="Five situations lead to little or no competition: a remote location, a new invention, high start-up costs, government licences and a dominant business. The benefits are higher prices, profits and less promotion; the drawbacks are complacency and high profits that attract new rivals, bringing competition back." loading="lazy">
+  <figcaption>Little competition allows higher prices, but high profits invite rivals in.</figcaption>
+</figure>
+
 ## Risk and uncertainty
 
 - **Risk:** the chance of a loss.
 - **Uncertainty:** the future cannot be known.
 - **Why all businesses face uncertainty:** changing tastes; rivals' actions; economic changes; new laws; unexpected events such as floods or supply problems.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--05-sources-of-uncertainty.webp" width="900" height="740" alt="Risk is the chance that something goes wrong and causes a loss; uncertainty means the future cannot be known. Five sources feed uncertainty: changing customer tastes, unpredictable competitors, a changing economy, changing laws and unexpected events such as floods or fires." loading="lazy">
+  <figcaption>Customers, rivals, the economy, the law and the unexpected all make the future unknowable.</figcaption>
+</figure>
 
 ## Entrepreneurs and risk
 
@@ -85,11 +110,21 @@ Condensed recall for section 3.2.6. For full explanations and worked examples, u
 - Keep cash reserves.
 - Agree supply and prices in advance with suppliers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--07-risk-and-reward.webp" width="900" height="919" alt="A balance with risk, a chance of a loss, on one side and five rewards on the other: profit, independence, an idea or passion, flexibility and helping others. Seven activities from market research to supplier agreements make the risk smaller but never remove it." loading="lazy">
+  <figcaption>Entrepreneurs accept risk for the reward, and reduce it where they can.</figcaption>
+</figure>
+
 ## Developing countries competing with developed countries
 
 - **Lower cost advantage:** lower wages, cheaper land and rent → lower prices → export orders.
 - Also: specialising in products the country is well placed to make; improving quality to meet buyers' standards; selling online.
 - Challenges: transport costs, less-known brands, rivals with even lower costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--08-lower-cost-advantage.webp" width="900" height="726" alt="Lower wages, cheaper land and lower rents give lower production costs and lower prices, so businesses win orders on price for goods such as clothing, furniture and food. They also specialise, improve quality and use e-commerce, but face higher transport costs, less known brands and even cheaper rivals." loading="lazy">
+  <figcaption>Lower cost advantage wins orders on price, but it is not the only route or a guarantee.</figcaption>
+</figure>
 
 ## Key terms
 

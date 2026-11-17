@@ -33,6 +33,11 @@ Two texts about a topic linked to diversity and change. Analyse how each uses la
 and opinions: how it represents language, constructs its producer's identity, positions its reader and connects to
 discourses about language. Compare throughout, and use context to explain differences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-2-language-discourses-and-writing--14-p2-four-questions.webp" width="900" height="870" alt="Two texts are compared throughout, and each is questioned four ways. 1 How does the text represent language, for example as a living system, a set of rules or a sign of decline? Look at metaphors and evaluative lexis. 2 What identity does the producer construct: an expert, an ordinary person or a guardian of standards? 3 How does the text position the reader, through direct address, inclusive we and rhetorical questions? 4 Which wider discourse about language does it connect to, and does it reinforce or challenge it?" loading="lazy">
+  <figcaption>Four questions to ask of each Section B text.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -47,6 +52,11 @@ discourses about language. Compare throughout, and use context to explain differ
 | Non-specialist audience | Readers without linguistic training |
 | Satire | Humour and irony used to criticise |
 | Counter-discourse | A way of talking that challenges a dominant discourse |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-language-discourses--02-what-a-discourse-is.webp" width="900" height="610" alt="One shared storyline, &quot;Young people are ruining English&quot;, feeds four separate texts, which repeat its typical vocabulary, metaphors and villains. Below, recognising a discourse explains how a text sounds and connects unrelated texts, and Deborah Cameron's verbal hygiene is defined as the urge to regulate language, often for social values." loading="lazy">
+  <figcaption>A discourse is a familiar storyline that many texts repeat, not one writer's idea.</figcaption>
+</figure>
 
 ## Topic and discourse bank
 
@@ -63,6 +73,11 @@ discourses about language. Compare throughout, and use context to explain differ
 Historical context: Swift's *Proposal* (1712) wanted to fix English; Johnson's preface (1755) accepted that a living
 language cannot be fixed entirely. Worries about decline are not new.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-language-discourses--03-topics-and-discourses.webp" width="900" height="745" alt="Seven recurring topics, each with two competing discourses and their typical language: accents as a barrier or as identity, young people's language as decline or creativity, technology as corruption or adaptation, Americanisms as invasion or exchange, inclusive language as political correctness or respect, grammar as correctness or convention, and endangered dialects as loss or natural change." loading="lazy">
+  <figcaption>Most language topics carry at least two competing discourses, each with its own vocabulary.</figcaption>
+</figure>
+
 ## Metaphors for language (representation shortcut)
 
 | Metaphor | Implies |
@@ -74,6 +89,11 @@ language cannot be fixed entirely. Worries about decline are not new.
 | Organism, evolution | Change is natural growth |
 | Toolkit | Language adapts to the job in hand |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-language-discourses--05-metaphors-for-language.webp" width="900" height="550" alt="Six metaphors for language from the lesson: a building that crumbles, a body that sickens, a territory that is invaded, a garden that needs weeding, a living organism that grows and a toolkit that adapts. Below, quoted errors held up for ridicule are contrasted with examples presented neutrally as data." loading="lazy">
+  <figcaption>Metaphor is the quickest clue to how a text represents language.</figcaption>
+</figure>
+
 ## Persona checklist
 
 - **Guardian:** modals of obligation, nostalgia, lists of "errors".
@@ -81,6 +101,11 @@ language cannot be fixed entirely. Worries about decline are not new.
 - **Insider:** first-person anecdote, community lexis, pride.
 - **Ordinary person:** colloquial register, common sense appeals.
 - **Comic observer:** irony, hyperbole, mock outrage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-language-discourses--06-personas-and-reader-roles.webp" width="900" height="670" alt="Six common producer personas, from the guardian of standards to the comic observer, beside four roles a text can give its reader: fellow sufferer, pupil, ally or opponent, built through inclusive pronouns, presupposition, rhetorical questions, irony and out-groups. A note says inconsistent personas are analysable." loading="lazy">
+  <figcaption>Identify the producer's persona and the role the reader is pushed into.</figcaption>
+</figure>
 
 ## Positioning checklist
 
@@ -107,6 +132,16 @@ out-group construction; selective evidence; the final line as a call to action.
 4. Each paragraph: Text 1 feature + effect, Text 2 feature + effect, reason for the difference.
 5. Finish with the overall difference in how they treat the issue.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-language-discourses--08-comparison-plan.webp" width="900" height="675" alt="Five comparison points: how each text represents language, what identity each producer builds, how each reader is positioned, which discourse each draws on, and how genre, date and audience explain the differences. A note says a shared device used to opposite ends is often the most revealing comparison." loading="lazy">
+  <figcaption>Use the four questions as comparison points, then explain differences through context.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-section-b-language-discourses--07-worked-comparison.webp" width="900" height="661" alt="The lesson's two original texts on accents compared on four points. Text 1, an opinion column, calls accent a &quot;handicap&quot;, speaks for employers, presupposes an avoided truth and reproduces a correctness discourse. Text 2, a personal blog, locates the problem in the listener, speaks as the person judged, invites sympathy and draws on accent prejudice as discrimination." loading="lazy">
+  <figcaption>Both see accent as consequential at work; they disagree about where the problem lies.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -62,6 +62,21 @@ the occupier may reasonably be expected to protect against.
 McConnell (1999), obvious risk accepted; Tomlinson v Congleton BC (2003) and Keown v Coventry
 Healthcare (2006), danger from the claimant's activity, not the premises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-land--01-visitor-or-trespasser.webp" width="900" height="865" alt="A comparison of the Occupiers’ Liability Acts. The 1957 Act protects lawful visitors with the common duty of care, covers property damage and allows limited exclusion; the 1984 Act protects trespassers only when the s1(3) conditions are met, covers injury only, can be discharged by warnings and is silent on exclusion." loading="lazy">
+  <figcaption>Visitor: the 1957 Act. Trespasser: the narrower 1984 Act, for injury only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-individual--04-ola-1957-special-cases.webp" width="900" height="586" alt="Four cards adjust the common duty of care under the Occupiers' Liability Act 1957: children (s 2(3)(a), Glasgow Corporation v Taylor, with parents expected to supervise, Phipps), skilled visitors (s 2(3)(b), Roles v Nathan), warnings (s 2(4)(a)) and independent contractors (s 2(4)(b), Haseldine v Daw). The occupier is whoever has control (Wheat v Lacon)." loading="lazy">
+  <figcaption>The duty rises for children, falls for skilled visitors, and can be met by warnings or a well-chosen contractor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-land--02-1984-act-duty.webp" width="900" height="686" alt="Three conditions in s1(3) of the 1984 Act: awareness of the danger, knowledge that the person may be nearby, and a risk that warrants protection. If all three are met, s1(4) imposes a duty of reasonable care against injury. Ratcliff, Tomlinson and Keown failed because the risk was obvious or came from the claimant’s own activity." loading="lazy">
+  <figcaption>Three conditions before any duty; obvious risks and self-created dangers defeat the claim.</figcaption>
+</figure>
+
 ## 4.2.2 Private nuisance
 
 **Definition:** unlawful interference with use or enjoyment of land, or a right over it.
@@ -81,6 +96,16 @@ occupier who adopts or continues (Sedleigh-Denfield v O'Callaghan, 1940); landlo
 Lawrence); statutory authority where the nuisance is inevitable (Allen v Gulf Oil Refining, 1981).
 **Not defences:** coming to the nuisance (Miller v Jackson, 1977); public benefit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--04-tort-land.webp" width="900" height="1150" alt="Three panels, each showing the defendant’s land on the left and the claimant’s land on the right, separated by a dashed boundary. Trespass to land: a person walks directly across the boundary onto the claimant’s land; it is a direct, unjustified interference and needs no proof of damage. Private nuisance: smoke from the defendant’s chimney drifts over the boundary to the claimant’s house, an indirect and unreasonable interference with use and enjoyment. Rylands v Fletcher: a tank of something dangerous on the defendant’s land escapes across the boundary onto the claimant’s land; it requires a non-natural use of land." loading="lazy">
+  <figcaption>Trespass is direct entry, private nuisance is indirect interference with enjoyment, and Rylands v Fletcher concerns the escape of a dangerous thing from a non-natural use.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-land--03-private-nuisance.webp" width="900" height="727" alt="Four factors for unreasonable interference: locality (Sturges v Bridgman; St Helen’s Smelting; Coventry v Lawrence), duration and timing (Crown River Cruises; De Keyser’s), sensitivity (Robinson v Kilvert; Network Rail) and malice (Christie v Davey; Hollywood Silver Fox Farm). The parties (Hunter v Canary Wharf; Sedleigh-Denfield; Tetley v Chitty) and defences of prescription and statutory authority follow, with coming to the nuisance and public benefit not defences." loading="lazy">
+  <figcaption>Locality, duration, sensitivity and malice decide whether neighbours must tolerate it.</figcaption>
+</figure>
+
 ## 4.2.3 Rylands v Fletcher
 
 **Nature:** strict liability; a sub-species of nuisance for isolated escapes (Cambridge Water, 1994;
@@ -99,6 +124,11 @@ claimant's default; statutory authority.
 
 **Fire:** Stannard v Gore (2012), tyre fire outside the rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-land--04-rylands-conditions.webp" width="900" height="794" alt="Five conditions for Rylands v Fletcher: accumulation (Giles v Walker), something likely to do mischief (Transco), non-natural use (Rickards v Lothian; Transco), escape (Read v J Lyons) and damage of a foreseeable type (Cambridge Water). Stannard v Gore failed; the claimant needs an interest in land and cannot claim for personal injury; defences are listed." loading="lazy">
+  <figcaption>All five conditions, an interest in land and no personal injury: a narrow tort.</figcaption>
+</figure>
+
 ## 4.2.4 Trespass to land
 
 - Direct, intentional interference with land in another's possession; actionable per se.
@@ -106,6 +136,11 @@ claimant's default; statutory authority.
 - Airspace to a reasonable height: Bernstein v Skyviews (1978); Kelsen v Imperial Tobacco (1957);
   Anchor Brewhouse v Berkley House (1987).
 - Continuing trespass: Holmes v Wilson (1839).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-land--05-trespass-to-land.webp" width="900" height="661" alt="A cross-section of two plots. A crane jib (Anchor Brewhouse) and an overhanging sign (Kelsen) cross the boundary into the claimant’s airspace, which is protected to a reasonable height (Bernstein v Skyviews); buttresses left on the claimant’s land are a continuing trespass (Holmes v Wilson). Below: trespass is actionable per se, exceeding permission makes a trespasser (The Calgarth), and a continuing trespass gives a fresh cause of action each day." loading="lazy">
+  <figcaption>Any direct crossing of the boundary, on the ground or in the air above it, is a trespass.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -66,6 +66,11 @@ Use the memory chain **"Distance, Language, Payment, Paperwork"** and then the m
 | Competition | Rival firms from many countries |
 | Different legal systems | Contracts and product rules vary |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-globalisation-of-trade--02-gt-exchange-rate.webp" width="900" height="670" alt="With illustrative rates, a weaker pound makes a UK export cheaper for a US buyer (180 to 150 dollars) and a US import dearer for a UK buyer (100 to 120 pounds)." loading="lazy">
+  <figcaption>A weaker currency makes exports cheaper and imports dearer (illustrative rates).</figcaption>
+</figure>
+
 ## How do you calculate the Balance of Trade and Balance of Payments? (3.1.3)
 
 - **Balance of Trade** = value of exports of goods - value of imports of goods (visible trade only).
@@ -94,6 +99,11 @@ inflows more than make up for it.
 of Trade; a country's airlines or banks earning from foreign customers improve the Balance of Payments;
 retailers importing more goods worsen the Balance of Trade.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-globalisation-of-trade--03-gt-balance-of-trade.webp" width="900" height="850" alt="Bars of 640 and 700 dollars million give a gap of 60, so the Balance of Trade is minus 60 million, a deficit. The Balance of Payments is wider: goods, services and financial flows." loading="lazy">
+  <figcaption>Exports minus imports of goods gives the Balance of Trade; the Balance of Payments is wider.</figcaption>
+</figure>
+
 ## What are free trade, trading blocs and trade restrictions? (3.1.4)
 
 - **Free trade**: trade between countries without restrictions such as tariffs or quotas.
@@ -117,6 +127,16 @@ retailers importing more goods worsen the Balance of Trade.
 **Support for exporters**: international trade fairs; cheaper bank loans; insurance guarantees against
 non-payment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-globalisation-of-trade--04-gt-trading-bloc.webp" width="900" height="720" alt="Four member countries trade with fewer restrictions between them. Joining gives easier access to member markets but costs some independence over trade policy and exposure to problems in the bloc." loading="lazy">
+  <figcaption>A bloc gives easier market access but costs independence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-globalisation-of-trade--05-gt-trade-restrictions.webp" width="900" height="940" alt="A tariff taxes imports, shown as an illustrative price rise from 10 to 12 dollars. A quota lets only 3 of 5 crates in. An embargo lets none in." loading="lazy">
+  <figcaption>Tariff, quota and embargo each restrict imports in a different way.</figcaption>
+</figure>
+
 ## How are global supply chains managed? (3.2)
 
 - **Simple supply chain**: supplier → manufacturer → consumer.
@@ -130,6 +150,16 @@ non-payment.
   and political.
 - **Risk assessment** identifies these threats in advance so the business can plan alternatives, such as a
   second supplier or extra stock.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-globalisation-of-trade--06-gt-supply-chains.webp" width="900" height="830" alt="A simple chain is supplier, manufacturer, consumer, labelled upstream, the enterprise and downstream. A complex chain is supplier, agent, wholesaler, retailer, consumer." loading="lazy">
+  <figcaption>Simple and complex chains, with the upstream, enterprise and downstream split.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-globalisation-of-trade--07-gt-supply-risks.webp" width="900" height="830" alt="Environmental, natural disasters, financial, ethical, technological and political risks, with risk assessment as planning ahead." loading="lazy">
+  <figcaption>The six named risks and why risk assessment matters.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

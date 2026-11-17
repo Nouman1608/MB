@@ -39,6 +39,11 @@ Clemenceau and Lloyd George, the terms, the impact on Germany to the end of 1923
 | Got | Alsace-Lorraine, reparations, military limits, Rhineland demilitarised | League created; new nation states | Navy limited, colonies taken as mandates |
 | Did not get | Independent Rhineland; lasting guarantees | US membership of the League; self-determination for Germans | A moderate reparations bill |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-treaty-of-versailles--01-big-three.webp" width="900" height="529" alt="A spectrum from weakening Germany permanently to avoiding new grievances: Clemenceau (security, reparations, Alsace-Lorraine) on the harsh end, Lloyd George in the middle, Wilson (Fourteen Points) on the mild end. Below, why: France had been invaded twice, while the USA entered late and suffered far less." loading="lazy">
+  <figcaption>Each leader's aims reflected what his country had suffered.</figcaption>
+</figure>
+
 ## Terms to learn (remember "LAMB")
 
 - **L**and: Alsace-Lorraine (France); Eupen and Malmédy (Belgium); North Schleswig (Denmark); West Prussia and Posen
@@ -50,6 +55,11 @@ Clemenceau and Lloyd George, the terms, the impact on Germany to the end of 1923
 - **B**lame: Article 231, the "war guilt" clause.
 - Also: Anschluss forbidden; Germany excluded from the League.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-treaty-of-versailles--02-terms.webp" width="900" height="839" alt="A labelled schematic, not a map. Arrows show land leaving Germany: Alsace-Lorraine and Saar coal to France, Eupen and Malmédy to Belgium, North Schleswig to Denmark, West Prussia and Posen to Poland, Danzig a Free City, Memel taken, a plebiscite in Upper Silesia. Dashed lines mark restrictions: the Rhineland demilitarised and Anschluss forbidden. Germany's army is limited to 100,000. Below: Article 231, reparations of £6,600 million fixed in 1921, and the loss of all colonies." loading="lazy">
+  <figcaption>Germany lost land on every border, its colonies and most of its armed forces.</figcaption>
+</figure>
+
 ## Impact on Germany to the end of 1923
 
 | Type | Evidence |
@@ -58,6 +68,16 @@ Clemenceau and Lloyd George, the terms, the impact on Germany to the end of 1923
 | Economic | Reparations; default on deliveries (late 1922); French and Belgian occupation of the Ruhr (January 1923); passive resistance; hyperinflation |
 | Social | Savings and pensions wiped out; middle classes hit hardest; hunger for those on fixed incomes; shared sense of humiliation |
 | Limits | War debts and government money-printing also caused inflation; Stresemann ended passive resistance and a new currency arrived in late 1923 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-treaty-of-versailles--04-impact-1919-23.webp" width="900" height="618" alt="A timeline from 1919 to 1923 drawn to scale: the Treaty (June 1919), the Kapp Putsch (March 1920), reparations fixed and Erzberger murdered (1921), Rathenau murdered (1922), the Ruhr occupation and hyperinflation (1923) and the Munich Putsch (November 1923). A note: wartime borrowing and the government's choice to print money also played a part, and Stresemann stabilised the currency by late 1923." loading="lazy">
+  <figcaption>Resentment of the Treaty fed four years of political violence and crisis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-treaty-of-versailles--05-ruhr-chain.webp" width="900" height="593" alt="Four steps: Germany falls behind with reparation deliveries in late 1922; French and Belgian troops occupy the Ruhr in January 1923; the government backs passive resistance by printing money; hyperinflation destroys the mark by late 1923, wiping out savings and hitting the middle classes hardest." loading="lazy">
+  <figcaption>Printing money to support resistance in the Ruhr turned inflation into hyperinflation.</figcaption>
+</figure>
 
 ## Contemporary opinions
 
@@ -68,6 +88,11 @@ Clemenceau and Lloyd George, the terms, the impact on Germany to the end of 1923
 | Keynes, *The Economic Consequences of the Peace* (1919) | Reparations would wreck Europe's economy |
 | US Senate | Rejected the Treaty, mainly over the League's commitments |
 | Lloyd George, Fontainebleau Memorandum (March 1919) | Warned against terms that would leave Germany seeking revenge |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-treaty-of-versailles--06-justified.webp" width="900" height="621" alt="A balance. Justified: Brest-Litovsk, French devastation, the 1871 precedent, and Germany keeping its industry. Not justified: no negotiation, sole blame in Article 231, self-determination denied to Germans, and reparations Keynes thought unpayable. A note: fair by the victors' standards, unfair by Wilson's." loading="lazy">
+  <figcaption>Fair or unfair depends on whose standard you use.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -95,6 +120,11 @@ Clemenceau and Lloyd George, the terms, the impact on Germany to the end of 1923
 - **Could the Treaty be justified at the time?** Yes by the standards of 1919, given Brest-Litovsk and the damage to
   France; less so by Wilson's own principles, because Germany was not consulted and self-determination was denied to
   Germans.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-treaty-of-versailles--03-who-got-what.webp" width="900" height="543" alt="A table of what each leader got and did not get. Clemenceau got a demilitarised, occupied Rhineland but no independent Rhineland, and lost his guarantees. Wilson got the League, but not self-determination for Germans or US membership. Lloyd George got colonies and naval limits, but reparations were higher than he thought wise. Below, the deeper reasons." loading="lazy">
+  <figcaption>Conflicting aims and pressure at home meant compromise for all three.</figcaption>
+</figure>
 
 ## Exam traps
 

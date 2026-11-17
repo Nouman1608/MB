@@ -32,6 +32,11 @@ Revision notes for **sub-theme 2.3** of Theme 2 in Pearson Edexcel A Level Urdu 
 - Theme 2 research must concern **one country or area**: Pakistan, or one area of India where Urdu is an official language. Check which you chose.
 - Present it in Urdu, keep a file of named, dated, checked sources, and compare at least two viewpoints on each point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-2-study-guide--02-research-place-rule.webp" width="900" height="536" alt="For Themes 1, 3 and 4 research must concern Pakistan; for Theme 2 it may concern Pakistan or one area of India where Urdu is an official language, but only one country or area." loading="lazy">
+  <figcaption>Theme 2 allows Pakistan or one Urdu-official area of India, never both.</figcaption>
+</figure>
+
 ## Areas to explore
 
 - Print media (newspapers and magazines) and broadcast media (radio and television); the growth of private television channels.
@@ -39,6 +44,11 @@ Revision notes for **sub-theme 2.3** of Theme 2 in Pearson Edexcel A Level Urdu 
 - The **influence** (اثر) of the media on opinion, language and behaviour.
 - **Freedom and responsibility**: regulation, censorship, accuracy and rumours.
 - Urdu in the media: how register changes between news, drama and advertising.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-2-study-guide--05-media-research-map.webp" width="900" height="746" alt="Five areas for media research with Urdu terms: print and broadcast (اخبار, رسالہ, نشریات), online and social media (سوشل میڈیا, خبر), influence (اثر, اشتہار), freedom and responsibility (آزادیٔ اظہار), and how Urdu’s register changes across news, drama and advertising." loading="lazy">
+  <figcaption>Cover each area with two viewpoints and sources you have checked.</figcaption>
+</figure>
 
 ## Issues and perspectives
 

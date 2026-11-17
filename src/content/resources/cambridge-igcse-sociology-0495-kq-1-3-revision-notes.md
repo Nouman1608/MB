@@ -62,6 +62,11 @@ issues. These notes are for fast recall; worked examples are in the
 | **Deception** | Misleading participants about the research or researcher |
 | **Confidentiality** | Keeping participants' identities and data private |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--01-research-design-chain.webp" width="900" height="886" alt="Seven linked stages of research design: topic, aims, hypothesis, target population, methods, operationalisation and pilot study. Operationalisation is highlighted, with concentration measured as minutes on task before checking a phone; poor operationalisation lowers validity." loading="lazy">
+  <figcaption>Explain how each stage shapes the next, not just the list.</figcaption>
+</figure>
+
 ## Sampling at a glance
 
 - **Random:** names drawn by chance from the frame → avoids researcher bias; may miss small groups.
@@ -71,6 +76,16 @@ issues. These notes are for fast recall; worked examples are in the
 - **Snowball:** one participant introduces others → reaches hidden groups; a network, not a
   cross-section.
 - **Quota:** fill set numbers of each type → quick, no frame needed; interviewer chooses, so bias.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--02-stratified-sample.webp" width="900" height="708" alt="A school list of 800 students is 480 girls (60%) and 320 boys (40%). A stratified sample of 50 keeps those proportions: 30 girls and 20 boys, each picked at random from their own list." loading="lazy">
+  <figcaption>A stratified sample mirrors the population’s proportions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--03-choosing-a-sample.webp" width="900" height="606" alt="Situations leading to sampling techniques. With a complete list, use random or systematic sampling, or stratified if subgroups must all appear. With no list and a hidden group, use snowball, whose sample is a network not a cross-section. When results are needed fast, use quota, which over-represents easy-to-find people." loading="lazy">
+  <figcaption>The situation, and whether a list exists, decides the technique.</figcaption>
+</figure>
 
 ## Methods at a glance
 
@@ -85,12 +100,27 @@ issues. These notes are for fast recall; worked examples are in the
 | Overt participant observation | Ethical; can ask questions | Hawthorne effect | Interpretivist |
 | Non-participant observation | Systematic recording | Misses meanings; observer effect | Either |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--04-interview-types.webp" width="900" height="637" alt="Structured, semi-structured and unstructured interviews on a line from comparison and reliability to depth and meaning, plus group interviews, which show shared views but can be dominated by louder members. Oakley’s interviews with 40 London housewives are the example." loading="lazy">
+  <figcaption>The less structured the interview, the more depth and the less easy comparison.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--05-observation-choices.webp" width="900" height="570" alt="A grid of observation types. Overt participant: Willis studied twelve working-class boys with no deception but risked the Hawthorne effect. Covert participant: Patrick joined a Glasgow gang secretly, revealing hidden behaviour but involving deception and danger. Non-participant observation records systematically but cannot reveal meanings." loading="lazy">
+  <figcaption>Join in or watch; tell people or not: each pair of choices has its own trade-off.</figcaption>
+</figure>
+
 ## Named studies
 
 - **Patrick (1973):** covert participant observation of a Glasgow gang; deception and danger.
 - **Willis (1977):** twelve working-class boys; observation and interviews; anti-school culture.
 - **Oakley (1974):** interviews with 40 London housewives about housework.
 - **Humphreys (1970):** covert observation and later disguised interviews; key ethics example.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--07-ethics-humphreys.webp" width="900" height="616" alt="Five ethical issues: informed consent, privacy and confidentiality, deception, prevention of harm and legality. Arrows link Humphreys’ Tearoom Trade, in which he observed men secretly, noted number plates and visited homes in disguise, to consent, privacy and deception." loading="lazy">
+  <figcaption>Humphreys’ study raised consent, privacy and deception concerns.</figcaption>
+</figure>
 
 ## Question types
 
@@ -101,6 +131,11 @@ issues. These notes are for fast recall; worked examples are in the
   differently.
 
 Avoid leading, double, vague and jargon-filled questions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--06-question-types.webp" width="900" height="778" alt="Four question types with an example, a strength and a limitation: open (own words but hard to compare), closed yes/no (quick but no explanation), multiple choice (easy to analyse but options may not fit) and scaled from strongly agree to strongly disagree (measures strength of opinion but points are read differently)." loading="lazy">
+  <figcaption>The more fixed the answer, the easier to count and the less it explains.</figcaption>
+</figure>
 
 ## Exam traps
 

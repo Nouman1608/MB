@@ -37,6 +37,11 @@ As a play, comment on how ideas are presented through its form: structure, scene
 
 The author, Baseer Kazmi (full name باصر سلطان کاظمی, Basir Sultan Kazmi), is a poet and playwright and the son of the celebrated Urdu poet Nasir Kazmi. He has lived and worked in Britain for many years, so the play belongs to the wider world of Urdu writing beyond South Asia.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--02-prescribed-works.webp" width="900" height="716" alt="Three literary texts (Aangan آنگن, novel, Khadija Mastur, 1999; Patras Ke Mazameen پطرس کے مضامین, essays, 2011, five essays prescribed; Bisaat بساط, play, Baseer Kazmi, 1987) and three films (Bin Roye بن روئے, 2015; Baaghban باغبان, 2003; Bajrangi Bhaijaan بجرنگی بھائی جان, 2015)." loading="lazy">
+  <figcaption>Three texts and three films; the films are given by name and year only.</figcaption>
+</figure>
+
 ## The title
 
 **بساط** has several meanings in Urdu: a spread cloth or carpet, a **chessboard** (شطرنج کی بساط), and, figuratively, one's means or capacity (as in **اپنی بساط کے مطابق**, according to one's means). As you read, decide which of these meanings the play brings into play and how. A title that suggests a chessboard, for instance, invites you to think about moves, strategy, power and who controls whom; one that suggests 'means' invites you to think about what characters can and cannot do. Support any reading of the title with specific scenes.
@@ -69,12 +74,27 @@ Because this page does not replace the text, build a one-page sheet for the play
 - You write exactly **two** extended responses: two literary texts, or one literary text and one film. Two films is never allowed.
 - Marking criteria: critical and analytical response with cultural or social insight (AO4), range of grammatical structures and vocabulary (AO3), and accuracy of language (AO3). There are no AO1 or AO2 marks on Paper 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--01-paper-2-structure.webp" width="900" height="626" alt="Paper 2 lasts 2 hours 40 minutes for 110 marks (30% of the A-level). Section A, translation into Urdu, has 20 marks and 30 minutes; each of the two works responses has 45 marks and about 1 hour 5 minutes. Section A is marked in 20 one-mark chunks, and verb and adjective endings must be correct." loading="lazy">
+  <figcaption>Translation first, then two 45-mark essays; endings are never treated as spelling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--05-allowed-combinations.webp" width="900" height="528" alt="The two allowed combinations of works essays: two literary-text essays (Section B twice), or one literary-text essay and one film essay (Sections B and C). Two film essays, or three extended responses, are not allowed." loading="lazy">
+  <figcaption>Two texts, or a text and a film: never two films, never three essays.</figcaption>
+</figure>
+
 ## Approach and skills
 
 - Prepare against five angles: **form and technique, key themes and issues, characterisation, plot structure, social and cultural setting**.
 - Structure each answer as **position, evidence, cultural connection**: state your stance, support it with two or three specific points (not a retelling), then link the writer's or film's treatment of an issue to a broader social or cultural theme.
 - Write in controlled Urdu with correct agreement, tense and spelling, and plan before you write.
 - Use your own prepared references from the work; this page does not replace studying it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--03-five-angles.webp" width="900" height="664" alt="Each studied work is prepared from five angles: form and technique, key themes and issues, characterisation, plot structure, and social and cultural setting, then connected to the qualification’s four themes for AO4." loading="lazy">
+  <figcaption>Revise each work from all five angles and link it to the wider themes.</figcaption>
+</figure>
 
 ## Vocabulary for writing about a play
 
@@ -116,6 +136,11 @@ Task: how does the playwright use dialogue to present the main conflict?
 **Translation:** In a play the story moves forward mostly through dialogue, and this is also the case in Basir Kazmi's play *Bisaat*. Through the characters' conversation, the playwright brings their thinking, their desires and their relationships with each other to light. For example ... [a scene and a short line]. From this the audience realises that ... [effect]. In my view this method is effective, because the audience draws its own conclusions from what the characters say, and in this way the play invites us to think about ... [theme].
 
 **How to use it:** the frame gives you the position and the technique; the bracketed gaps are where your own evidence from the play must go. An answer that leaves the evidence general will not reach the higher marks for AO4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--04-works-response-structure.webp" width="900" height="710" alt="A works essay states a position, supports it with two or three specific scenes or lines, and closes by connecting the issue to its wider social theme, earning AO3 through precise language and AO4 through cultural context. Chronological retelling is the trap." loading="lazy">
+  <figcaption>Position, evidence, cultural connection: argue, do not retell.</figcaption>
+</figure>
 
 ## Essay prompts to prepare
 

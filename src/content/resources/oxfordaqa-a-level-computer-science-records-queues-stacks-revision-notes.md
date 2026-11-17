@@ -59,11 +59,21 @@ questions often give a starting state and a sequence of operations.
 | Overflow | Adding to a full structure |
 | Underflow | Removing from an empty structure |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--02-fifo-vs-lifo.webp" width="900" height="1070" alt="Items 1, 2, 3 are added in order. In the queue they leave from the front in the order 1, 2, 3. In the stack they are pushed and popped at the top, so they leave in the order 3, 2, 1." loading="lazy">
+  <figcaption>A queue gives items back first in, first out; a stack gives them back last in, first out.</figcaption>
+</figure>
+
 ## Records
 
 - Fields may have different data types; accessed by name (`s.score`), not by index.
 - Python: class without methods, or `@dataclass`; C#: `struct`; VB: `Structure`.
 - An array of records stores a table, such as a class list.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--01-record-vs-array.webp" width="900" height="910" alt="An array is a row of same-type values reached by index; the example shows 72, 85, 90, 64 at positions 0 to 3. A record groups named fields of different types: name &quot;Aisha&quot; (string), year 12 (integer), score 87.5 (real), reached by name such as s.score." loading="lazy">
+  <figcaption>A record holds differently typed fields found by name; an array holds same-type elements found by index.</figcaption>
+</figure>
 
 ## Pointer rules
 
@@ -76,11 +86,21 @@ questions often give a starting state and a sequence of operations.
 **Without a count:** some textbooks detect a full circular queue when `(rear + 1) MOD size = front`
 and leave one space empty. Read the question's own algorithm carefully.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--05-stack-array.webp" width="900" height="850" alt="A size-4 stack starts with top at -1. Push 5 then 8 gives top 1, and peek returns 8 without removing it. Pop returns 8 and top falls to 0. Pushing on a full stack is overflow; popping from an empty stack is underflow." loading="lazy">
+  <figcaption>One pointer, top, tracks the most recent item; overflow and underflow are the full and empty errors.</figcaption>
+</figure>
+
 ## Linear vs circular queue
 
 - **Linear:** simple, but space at the front is wasted after dequeues; it can report full while empty slots exist.
 - **Shuffling** items forward fixes this but is slow for large queues.
 - **Circular:** reuses freed space using MOD; constant-time operations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--03-linear-queue-limit.webp" width="900" height="1030" alt="A four-cell array with front and rear pointers. After enqueuing 10, 20, 30, 40 front is 0 and rear is 3. After two dequeues front is 2 and cells 0 and 1 are free, but rear is still 3 so is_full is true and enqueuing 50 is refused." loading="lazy">
+  <figcaption>A linear queue reports full when rear reaches the last index, even though cells at the front are free.</figcaption>
+</figure>
 
 ## When to use each
 
@@ -117,6 +137,11 @@ Size 4, front = 0, rear = −1, count = 0. Enqueue 10, 20, 30; dequeue, dequeue;
 - Two dequeues return 10, 20: front 2, count 1.
 - Enqueue 40 → index 3; enqueue 50 → index (3 + 1) MOD 4 = 0; enqueue 60 → index 1.
 - Final: items [50, 60, 30, 40], front 2, rear 1, count 4 → full.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--04-circular-queue-trace.webp" width="900" height="1140" alt="Two rings of four cells. After enqueuing 10, 20, 30 and dequeuing twice, only cell 2 holds 30, with front and rear both 2 and count 1. Enqueuing 40, 50, 60 moves rear to 3, then wraps to 0, then 1, giving 50, 60, 30, 40 with front 2, rear 1, count 4: full, with freed cells reused." loading="lazy">
+  <figcaption>A circular queue wraps its pointers with the modulus operator, so freed cells are reused without moving items.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

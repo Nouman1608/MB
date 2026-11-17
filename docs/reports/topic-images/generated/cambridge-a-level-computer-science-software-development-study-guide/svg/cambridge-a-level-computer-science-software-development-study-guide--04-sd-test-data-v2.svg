@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" width="900" height="700" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="700" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Test data for ages 13 to 19</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Input accepts whole numbers 13 to 19 inclusive</text>
+<path d="M259 196 V184 H637 V196" fill="none" stroke="#2e6b62" stroke-width="3"/>
+<text x="448" y="170" font-size="19" font-weight="700" fill="#2e6b62" text-anchor="middle">accepted: 13 to 19</text>
+<line x1="40" y1="330" x2="860" y2="330" stroke="#1e2a44" stroke-width="3"/>
+<path d="M174 296 V284 H281 V296" fill="none" stroke="#b5602e" stroke-width="3"/><text x="227.5" y="272" font-size="17" font-weight="700" fill="#b5602e" text-anchor="middle">boundary pair</text>
+<path d="M615 296 V284 H722 V296" fill="none" stroke="#b5602e" stroke-width="3"/><text x="668.5" y="272" font-size="17" font-weight="700" fill="#b5602e" text-anchor="middle">boundary pair</text>
+<circle cx="70" cy="330" r="24" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="70" y="337" font-size="19" font-weight="700" fill="#4a5568" text-anchor="middle">10</text>
+<circle cx="133" cy="330" r="24" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="133" y="337" font-size="19" font-weight="700" fill="#4a5568" text-anchor="middle">11</text>
+<circle cx="196" cy="330" r="24" fill="#f6d9cc" stroke="#b5602e" stroke-width="3"/><text x="196" y="337" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">12</text>
+<circle cx="259" cy="330" r="24" fill="#d4b02e" stroke="#8a6d0d" stroke-width="3"/><text x="259" y="337" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">13</text>
+<circle cx="322" cy="330" r="24" fill="#2e6b62" stroke="#2e6b62" stroke-width="3"/><text x="322" y="337" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">14</text>
+<circle cx="385" cy="330" r="24" fill="#dce9e7" stroke="#2e6b62" stroke-width="3"/><text x="385" y="337" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">15</text>
+<circle cx="448" cy="330" r="24" fill="#dce9e7" stroke="#2e6b62" stroke-width="3"/><text x="448" y="337" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">16</text>
+<circle cx="511" cy="330" r="24" fill="#dce9e7" stroke="#2e6b62" stroke-width="3"/><text x="511" y="337" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">17</text>
+<circle cx="574" cy="330" r="24" fill="#2e6b62" stroke="#2e6b62" stroke-width="3"/><text x="574" y="337" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">18</text>
+<circle cx="637" cy="330" r="24" fill="#d4b02e" stroke="#8a6d0d" stroke-width="3"/><text x="637" y="337" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">19</text>
+<circle cx="700" cy="330" r="24" fill="#f6d9cc" stroke="#b5602e" stroke-width="3"/><text x="700" y="337" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">20</text>
+<circle cx="763" cy="330" r="24" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="763" y="337" font-size="19" font-weight="700" fill="#4a5568" text-anchor="middle">21</text>
+<circle cx="826" cy="330" r="24" fill="#ffffff" stroke="#1e2a44" stroke-width="3"/><text x="826" y="337" font-size="19" font-weight="700" fill="#4a5568" text-anchor="middle">22</text>
+<line x1="259" y1="354" x2="259" y2="376" stroke="#8a6d0d" stroke-width="3"/><text x="259" y="400" font-size="18" font-weight="700" fill="#8a6d0d" text-anchor="middle">extreme</text>
+<line x1="637" y1="354" x2="637" y2="376" stroke="#8a6d0d" stroke-width="3"/><text x="637" y="400" font-size="18" font-weight="700" fill="#8a6d0d" text-anchor="middle">extreme</text>
+<line x1="322" y1="354" x2="322" y2="432" stroke="#2e6b62" stroke-width="3"/><text x="322" y="456" font-size="18" font-weight="700" fill="#2e6b62" text-anchor="middle">normal</text>
+<line x1="574" y1="354" x2="574" y2="432" stroke="#2e6b62" stroke-width="3"/><text x="574" y="456" font-size="18" font-weight="700" fill="#2e6b62" text-anchor="middle">normal</text>
+<line x1="196" y1="354" x2="196" y2="432" stroke="#b5602e" stroke-width="3"/><text x="196" y="456" font-size="18" font-weight="700" fill="#b5602e" text-anchor="middle">rejected</text>
+<line x1="700" y1="354" x2="700" y2="432" stroke="#b5602e" stroke-width="3"/><text x="700" y="456" font-size="18" font-weight="700" fill="#b5602e" text-anchor="middle">rejected</text>
+<text x="60" y="592" font-size="19" font-weight="700" fill="#b5602e" text-anchor="start">abnormal:</text>
+<rect x="190" y="560" width="110" height="50" rx="10" fill="#f6d9cc" stroke="#b5602e" stroke-width="2.5" stroke-dasharray="7 5"/><text x="245" y="592" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">−5</text>
+<rect x="320" y="560" width="110" height="50" rx="10" fill="#f6d9cc" stroke="#b5602e" stroke-width="2.5" stroke-dasharray="7 5"/><text x="375" y="592" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">30</text>
+<rect x="450" y="560" width="130" height="50" rx="10" fill="#f6d9cc" stroke="#b5602e" stroke-width="2.5" stroke-dasharray="7 5"/><text x="515" y="592" font-size="19" font-weight="700" fill="#1e2a44" text-anchor="middle">“ten”</text>
+<text x="450" y="660" font-size="17" font-weight="400" fill="#4a5568" text-anchor="middle">Extreme data is always accepted. Abnormal data is not "extreme".</text>
+</svg>

@@ -49,6 +49,11 @@ Closing balance       = opening balance + net cash flow
 - **Average cost** falls as output rises when fixed costs are spread over more units.
 - **Improving sales:** promotion, distribution, product improvement, new markets, price change matched to PED.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--01-pennant-costs.webp" width="900" height="670" alt="Pennant Print’s fixed costs of $18,000 stay the same while variable costs at $2.50 a unit rise from $15,000 at 6,000 units to $22,500 at 9,000. Total cost rises from $33,000 to $40,500, but average cost falls from $5.50 to $4.50." loading="lazy">
+  <figcaption>Spreading the same fixed costs over more units lowers average cost.</figcaption>
+</figure>
+
 ## Sales forecasting
 
 | Purpose | Factors (specification) | Difficulties |
@@ -58,6 +63,11 @@ Closing balance       = opening balance + net cash flow
 | Build cash-flow forecasts and budgets | Actions of competitors | Economy and rivals unpredictable |
 | Support finance applications | | Owner optimism biases figures |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--02-sales-forecasting.webp" width="900" height="836" alt="Consumer trends, economic variables and competitors’ actions shape a sales forecast, which is used to plan production and inventory, staffing, cash-flow forecasts and budgets, and finance applications. Difficulties include no sales history, changing tastes, unpredictable economies and rivals, and owner optimism." loading="lazy">
+  <figcaption>Every plan built on a forecast inherits its errors.</figcaption>
+</figure>
+
 ## Break-even essentials
 
 - Break-even = no profit, no loss: total revenue = total costs.
@@ -65,6 +75,21 @@ Closing balance       = opening balance + net cash flow
 - Always round break-even output **up** to the next whole unit.
 - **Chart:** fixed cost line flat; total cost starts at fixed cost; revenue starts at zero; crossing point = break-even; gap right of it = profit; distance from break-even to actual output = margin of safety.
 - **Limitations:** assumes all output sold; constant price and unit cost; fixed costs truly fixed; hard with many products; only as good as the forecast.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--03-pennant-break-even.webp" width="900" height="850" alt="A break-even chart for Pennant Print with fixed costs of $18,000, total cost rising at $2.50 a unit and total revenue at $8.50 a unit. The lines cross at 3,000 units and $25,500. With expected sales of 4,200 units the margin of safety is 1,200 units." loading="lazy">
+  <figcaption>Pennant breaks even at 3,000 units and expects a 1,200-unit margin of safety.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--04-ink-cost-break-even.webp" width="900" height="840" alt="When Pennant’s variable cost rises from $2.50 to $3.50, the total cost line becomes steeper and break-even moves from 3,000 to 3,600 units. Against forecast sales of 4,200, the margin of safety halves from 1,200 to 600 units." loading="lazy">
+  <figcaption>A $1 rise in unit cost halves Pennant’s margin of safety.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--05-break-even-chart-changes.webp" width="900" height="790" alt="Two simple break-even charts. A price rise makes the total revenue line steeper, so break-even moves left. A rise in fixed costs shifts the total cost line up, so break-even moves right. Limitations: all output sold, constant price and unit cost, fixed costs at every output, many products and an uncertain forecast." loading="lazy">
+  <figcaption>A steeper revenue line pulls break-even left; higher fixed costs push it right.</figcaption>
+</figure>
 
 ## Cash flow essentials
 
@@ -74,6 +99,11 @@ Closing balance       = opening balance + net cash flow
 - **Uses:** spot shortfalls, arrange finance early, support a loan application, set targets.
 - **Limitations:** relies on forecasts; late payers; unexpected costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--06-holloway-cash-flow.webp" width="900" height="1002" alt="Holloway Tiles receives half of each month’s sales at once and half the next month, so inflows are $11,000, $13,500 and $16,500 for January to March. Against outflows of $12,500, $14,000 and $15,000, the closing balance falls from $4,000 to $2,500 and $2,000 before rising to $3,500." loading="lazy">
+  <figcaption>Credit sales delay cash, so a growing business can still run short.</figcaption>
+</figure>
+
 ## Budgets essentials
 
 - **Purposes:** set targets, control spending, allocate resources, measure performance.
@@ -81,6 +111,11 @@ Closing balance       = opening balance + net cash flow
 - **Zero-based budget:** every item justified from zero; removes waste but slow.
 - **Favourable variance:** revenue above or cost below budget. **Adverse:** revenue below or cost above budget.
 - **Difficulties:** inaccurate forecasts, unrealistic targets, events overtaking the plan, time cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-financial-planning--07-holloway-variances.webp" width="900" height="849" alt="A waterfall from budgeted profit of $11,000 to actual profit of $7,300: revenue $4,000 adverse, materials $1,500 favourable, labour $1,200 adverse and overheads on budget, a total of $3,700 adverse." loading="lazy">
+  <figcaption>Judge each variance by its effect on profit, then ask what caused it.</figcaption>
+</figure>
 
 ## Linking the tools
 

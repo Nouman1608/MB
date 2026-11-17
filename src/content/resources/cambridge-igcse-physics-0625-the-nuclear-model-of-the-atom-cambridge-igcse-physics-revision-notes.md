@@ -44,6 +44,11 @@ These notes condense section 5.1 The nuclear model of the atom of the Cambridge 
 
 - Thin metal foil (for example gold) so particles pass through rather than being absorbed; vacuum so air does not stop them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
+</figure>
+
 ## 5.1.2 The nucleus
 
 - Contains **protons** and **neutrons** (together called nucleons).
@@ -52,6 +57,11 @@ These notes condense section 5.1 The nuclear model of the atom of the Cambridge 
 - **Nucleon number (mass number) A:** number of protons + neutrons.
 - **Neutrons = A − Z.**
 - Nuclide notation: ᴬ_Z X, with A at the top and Z at the bottom (for example ¹⁹₉F).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom-cambridge-igcse-physics--02-nuclide-notation.webp" width="900" height="600" alt="Sodium-23 in nuclide notation: the nucleon number A = 23 (protons plus neutrons) at the top, the proton number Z = 11 at the bottom, then the symbol Na, so it has 23 − 11 = 12 neutrons. For Extended, iron-56 with Z = 26 has a nucleus of relative charge +26 and relative mass 56." loading="lazy">
+  <figcaption>A on top, Z underneath; neutrons = A − Z.</figcaption>
+</figure>
 
 ## Counting table
 
@@ -65,11 +75,26 @@ These notes condense section 5.1 The nuclear model of the atom of the Cambridge 
 | Relative charge of nucleus (Extended only) | +Z |
 | Relative mass of nucleus (Extended only) | A |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom-cambridge-igcse-physics--01-ions-and-counting.webp" width="900" height="638" alt="Simplified atoms with two protons: a neutral atom has two electrons, a positive ion of charge +2 has lost both, and a negative ion of charge −2 has gained two; the nucleus is unchanged. Strontium-90 (Z = 38) has 38 protons, 52 neutrons and 38 electrons; the sulfur-32 ion of charge −2 has 16 protons, 16 neutrons and 18 electrons." loading="lazy">
+  <figcaption>Ions form by losing or gaining electrons; neutrons = A − Z.</figcaption>
+</figure>
+
 ## Isotopes
 
 - **Isotopes:** atoms of the same element, same proton number, **different numbers of neutrons**.
 - An element may have more than one isotope (hydrogen: ¹₁H, ²₁H, ³₁H).
 - Different Z means a different element, not an isotope.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom-cambridge-igcse-physics--03-hydrogen-isotopes.webp" width="900" height="600" alt="Three isotopes of hydrogen, each with one proton and one electron: hydrogen-1 has no neutrons, hydrogen-2 has one and hydrogen-3 has two. Same proton number, different nucleon numbers." loading="lazy">
+  <figcaption>Isotopes share a proton number but differ in neutron number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--01-atom-isotopes.webp" width="900" height="920" alt="Two carbon atoms side by side. Carbon-12 has 6 protons, 6 neutrons and 6 electrons; carbon-14 has 6 protons, 8 neutrons and 6 electrons. Same proton number means the same element, so they are isotopes." loading="lazy">
+  <figcaption>Isotopes have the same number of protons but different numbers of neutrons.</figcaption>
+</figure>
 
 ## Fission and fusion (Extended only)
 
@@ -95,6 +120,11 @@ These notes condense section 5.1 The nuclear model of the atom of the Cambridge 
 ²³⁵₉₂U + ¹₀n → ¹⁴⁰₅₄Xe + ⁹⁴₃₈Sr + 2 ¹₀n
 ²₁H + ³₁H → ⁴₂He + ¹₀n
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom-cambridge-igcse-physics--04-fission-and-fusion.webp" width="900" height="588" alt="Fission: uranium-235 absorbs a neutron and splits into xenon-140, strontium-94 and two neutrons; nucleon numbers 235 + 1 = 140 + 94 + 2 and proton numbers 92 = 54 + 38. Fusion: hydrogen-2 and hydrogen-3 join into helium-4 and a neutron; 2 + 3 = 4 + 1 and 1 + 1 = 2 + 0. In both the products have slightly less mass and energy is released." loading="lazy">
+  <figcaption>Fission splits a large nucleus; fusion joins light ones; both release energy.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

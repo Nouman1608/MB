@@ -79,6 +79,11 @@ featured: false
 | 1960 | Greensboro sit-in; SNCC; U-2 incident |
 | Jan 1961 | Farewell address; break with Cuba |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-truman-eisenhower-postwar-usa--02-red-scare.webp" width="900" height="554" alt="A timeline from 1947 to 1954 drawn to scale: the Loyalty Program and HUAC (1947), the Soviet bomb (August 1949), China (October 1949), McCarthy's Wheeling speech (February 1950), Hiss's conviction (1950), Korea (June 1950), the Army-McCarthy hearings (1954) and censure (December 1954). Below, external and internal causes and the reasons for McCarthy's fall." loading="lazy">
+  <figcaption>The scare began with Truman's own measures, before McCarthy, and ended on television.</figcaption>
+</figure>
+
 ## 4.1 Truman at home -- verdict grid
 
 | Issue | Achieved | Not achieved |
@@ -90,10 +95,25 @@ featured: false
 
 **Why he won in 1948:** whistle-stop campaign, "do-nothing Congress", New Deal coalition held (farmers, labour, Black voters in the north), anti-communist record, Dewey's complacency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-truman-eisenhower-postwar-usa--01-fair-deal.webp" width="900" height="520" alt="Two columns. Passed: the Employment Act (1946), the Housing Act (1949), a minimum wage rise from 40 to 75 cents and wider Social Security (1950). Blocked: national health insurance, federal aid to education and the Brannan Plan, with Taft-Hartley passed over his veto. Below, the blockers: the AMA, a conservative coalition, the 1946 Republican Congress and the cost of Korea." loading="lazy">
+  <figcaption>Truman extended the New Deal, but his biggest proposals were blocked.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-truman-eisenhower-postwar-usa--03-election-1948.webp" width="900" height="475" alt="Four 1948 candidates: Truman, with the Democrats split by Wallace's Progressives on the left and Thurmond's Dixiecrats on the right, against the Republican Dewey. A bar shows the electoral votes, Truman 303 to Dewey 189 (other candidates' votes not shown). Four reasons: the whistle-stop campaign, his coalition, his anti-communist record and Dewey's complacent campaign." loading="lazy">
+  <figcaption>Despite a three-way Democratic split, campaigning and coalition won Truman the election.</figcaption>
+</figure>
+
 ## 4.2 Eisenhower -- effective or passive?
 
 - **Effective:** two landslide wins; HEW; Social Security extended; interstate highways; balanced budgets; ended the Korean War; troops to Little Rock; 1957 Civil Rights Act.
 - **Passive:** slow to confront McCarthy publicly; lukewarm on *Brown*; the 1957 Act was weak; recession in 1957-58.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-truman-eisenhower-postwar-usa--04-civil-rights-1946-60.webp" width="900" height="1075" alt="A vertical timeline from 1946 to 1960 drawn to scale. Presidents and Congress on the left: To Secure These Rights (1947), Executive Order 9981 (July 1948), Little Rock and the weak Civil Rights Act (1957). Campaigners and courts on the right: Brown (1954), the Montgomery Bus Boycott (1955-56), the SCLC (1957) and the Greensboro sit-in and SNCC (1960)." loading="lazy">
+  <figcaption>Presidents acted by executive order or under pressure; the movement and courts set the pace.</figcaption>
+</figure>
 
 ## 4.3 Society -- four themes
 
@@ -101,6 +121,11 @@ featured: false
 2. **Women:** domestic ideal, yet more married women working and studying.
 3. **Youth:** teenage market, TV and film, rock and roll.
 4. **Poverty:** rural South and Southwest, inner cities, unskilled workers, women and ethnic minorities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-truman-eisenhower-postwar-usa--05-affluence.webp" width="900" height="588" alt="Five drivers of consumer demand, wartime savings, the GI Bill, easy credit, defence spending and new technology, converge on a boom in cars, televisions, appliances and suburbs. Below, those left out: the rural poor, Black and Hispanic workers, unskilled non-union workers and women." loading="lazy">
+  <figcaption>The 1950s were prosperous, but not for everyone.</figcaption>
+</figure>
 
 ## 4.4 Foreign policy -- continuity and change
 
@@ -111,6 +136,11 @@ featured: false
 | Asia | Korean War; crossing the 38th parallel | Armistice; domino theory; backing Diem |
 | Europe | Marshall Aid, Berlin airlift, NATO | Berlin ultimatum 1958-59; no action over Hungary |
 | Middle East / Latin America | Truman Doctrine (Greece, Turkey) | Iran 1953; Suez 1956; Guatemala 1954; Cuba |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-truman-eisenhower-postwar-usa--06-truman-eisenhower-compared.webp" width="900" height="579" alt="A comparison table. Both presidents aimed at containment. Truman's methods were the Truman Doctrine, Marshall Aid, NATO and rearmament; Eisenhower's were nuclear deterrence and CIA coups. In Asia, Truman fought in Korea; Eisenhower backed Diem. Towards the USSR, Truman ran the Berlin airlift; Eisenhower sought peaceful coexistence until the U-2 incident." loading="lazy">
+  <figcaption>Same aim, different means: continuity in containment, change in method.</figcaption>
+</figure>
 
 ## Exam traps
 

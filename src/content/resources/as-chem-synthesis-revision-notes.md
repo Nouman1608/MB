@@ -55,6 +55,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 Learn the **reagent and conditions** for each arrow — that is what the marks are for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-organic-synthesis-planning-multi-step-routes--13-synthesis-reaction-map.webp" width="900" height="1030" alt="Nine compound classes joined by labelled arrows: alkane to halogenoalkane (Br2, UV); halogenoalkane to alcohol (NaOH(aq), heat) and to amine (NH3, ethanol, heat, pressure); alkene to alcohol (steam, H3PO4); alcohol to aldehyde (acidified K2Cr2O7, distil) and to carboxylic acid (acidified K2Cr2O7, reflux); aldehyde to hydroxynitrile (HCN, KCN); carboxylic acid plus alcohol with concentrated H2SO4 to ester." loading="lazy">
+  <figcaption>Every arrow is a reaction already in the AS syllabus; a route is a path through the map.</figcaption>
+</figure>
+
 ## Which conditions decide the product?
 
 | Starting material | Reagent | Conditions | Product |
@@ -99,6 +104,11 @@ through this table **in reverse**: each positive or negative result
 rules functional groups in or out, narrowing down what the molecule
 must contain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-organic-synthesis-planning-multi-step-routes--14-identification-tests.webp" width="900" height="1040" alt="Seven rows pair a test-tube result with the group it indicates: bromine water decolourised, C=C; carbonate fizzes, carboxylic acid; 2,4-DNPH orange precipitate, aldehyde or ketone; Tollens silver mirror, aldehyde only; alkaline iodine yellow precipitate, CH3CO or CH3CH(OH); acidified dichromate orange to green, oxidisable OH; silver nitrate in ethanol white, cream or yellow precipitate, C–X." loading="lazy">
+  <figcaption>Each characteristic reaction doubles as an identification test for its functional group.</figcaption>
+</figure>
+
 ## Analysing a given route — spotting by-products
 
 The reverse skill to planning a route is being given one and asked to
@@ -116,6 +126,11 @@ Bromoethane --NaOH(aq), heat--> ethanol   NUCLEOPHILIC SUBSTITUTION
 Checking whether a given step used **aqueous or ethanolic** conditions
 is always worth doing explicitly, since it changes both the product
 and the type of by-product a route might generate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-organic-synthesis-planning-multi-step-routes--17-analyse-a-route.webp" width="900" height="980" alt="Step 1, Br2 and UV, is free-radical substitution from ethane to bromoethane, with dibromoethane as a likely by-product. Step 2, aqueous NaOH and heat, is nucleophilic substitution to ethanol. A dashed alternative shows ethanolic NaOH would instead give elimination to ethene. Both balanced equations are shown." loading="lazy">
+  <figcaption>Name the reaction type and likely by-product at each step, and check whether the solvent is aqueous or ethanolic.</figcaption>
+</figure>
 
 ## How do you plan a multi-step route?
 
@@ -135,6 +150,11 @@ Step 2  propan-2-ol + K2Cr2O7 / dilute H2SO4, heat under reflux -> propanone
 ```
 
 A secondary alcohol cannot be oxidised beyond the ketone, so reflux is safe here.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-organic-synthesis-planning-multi-step-routes--16-ethene-to-ethyl-ethanoate.webp" width="900" height="980" alt="Ethene reacts with steam and H3PO4 to give ethanol (step 1). Ethanol is oxidised with acidified K2Cr2O7 under reflux to ethanoic acid (step 2). Ethanoic acid reacts with ethanol kept from step 1, with concentrated H2SO4, to give ethyl ethanoate (step 3). The three balanced equations are shown." loading="lazy">
+  <figcaption>Every step names a real reagent and condition; the ethanol from step 1 is reused in step 3.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

@@ -49,6 +49,16 @@ HL, while Paper 2's *reading* section stays fixed at one hour for both levels --
 section gets longer at HL, so don't assume all of Paper 2 lengthens uniformly. Recommended teaching
 time is 150 hours at SL and 240 hours at HL.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--07-concepts-in-components.webp" width="900" height="398" alt="Three cards. Paper 1: match register to audience, with more complex language and a higher word range at HL. Paper 2: reading carries 40 marks and listening 25, each 25 percent, and fixing text type, audience and purpose first speeds reading. Individual oral, 25 percent: treat the visual image (SL) or literary excerpt (HL) as a text with a maker, audience and purpose." loading="lazy">
+  <figcaption>The same five concepts are how every component judges your reading, writing and speaking.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--01-paper-1-at-a-glance.webp" width="900" height="735" alt="Three task cards with the middle one chosen: you write one task from three, worth 25 percent and 30 marks. A word-range scale shows SL at 250 to 400 words and HL at 450 to 600 words. A note says HL tasks require more complex language and higher-order thinking." loading="lazy">
+  <figcaption>One task from three, 30 marks; HL writes more, with more complex language.</figcaption>
+</figure>
+
 ## SL vs HL — what actually differs
 
 - **HL only:** study of **two literary works** originally written in the target language.
@@ -57,13 +67,28 @@ time is 150 hours at SL and 240 hours at HL.
 - **SL individual oral:** based on a photograph or short stimulus connected to one of the **five
   prescribed themes** (identities, experiences, human ingenuity, social organization, sharing the planet).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-hl-literature--06-hl-lit-oral-stimulus.webp" width="900" height="1010" alt="Two cards contrast the SL oral stimulus, a visual image, with the HL stimulus, an excerpt from one of two literary works. A ring marks the individual oral as 25 percent, worth 30 marks. A panel notes the two works were originally written in the target language." loading="lazy">
+  <figcaption>At HL the oral starts from an excerpt of one of your two literary works.</figcaption>
+</figure>
+
 ## The individual oral in more depth
 
 The oral is marked against four criteria: Criterion A, **language** (12 marks); Criterion B1, **message** (6 marks), which is *Message—visual stimulus* at SL and *Message—literary extract* at HL; Criterion B2, **message—conversation** (6 marks); and Criterion C, **interactive skills—communication** (6 marks), for a total of 30. The presentation on the stimulus or extract and the follow-up conversation are marked separately (B1 and B2), and interactive skills are a fifth of the marks. A common weakness at both levels is spending too much of the prepared time describing the surface content of the stimulus or extract, leaving too little time to develop an argument or connect it to the broader theme -- examiners consistently reward students who move beyond description into interpretation and connection within the time available.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-individual-oral--02-three-skills.webp" width="900" height="801" alt="Three overlapping circles labelled receptive (understand the stimulus and questions), productive (speak at length in an organised way) and interactive (a real exchange, not memorised answers) meet at the centre labelled Oral. A note highlights the verb respond in the assessment objective." loading="lazy">
+  <figcaption>Understand, speak at length and respond: the oral tests all three skills at once.</figcaption>
+</figure>
+
 ## Command terms and the two papers
 
 Paper 1's productive writing task is assessed against text-type conventions (for example, the register and structure expected of a formal letter versus an informal blog post) as much as against grammatical accuracy -- choosing a text type that doesn't match the task's purpose or audience loses marks even when the language itself is correct. Paper 2's listening and reading comprehension exercises are more variable in question format across the different target languages this course covers, but consistently test detailed understanding rather than only gist -- skimming a passage for general meaning is not sufficient preparation; practice should include locating and extracting specific detail under timed conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--04-three-families.webp" width="900" height="538" alt="Three columns of text types sorted by audience: personal (diary, personal email or letter, personal blog post), professional (formal letter, formal email, report, proposal) and mass media (article, opinion piece, speech, leaflet, review). A note lists the conventions to check: layout and opening, register, typical moves and closing." loading="lazy">
+  <figcaption>Sort text types by audience: personal, professional, mass media.</figcaption>
+</figure>
 
 ## Why SL and HL share weightings but differ in demand
 

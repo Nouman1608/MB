@@ -1,0 +1,8 @@
+{ "page": "edexcel-igcse-physics-4ph1-electromagnetic-induction-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetic-induction--01-coil-and-meter-induction.webp", "after": "## When is a voltage induced?" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetic-induction--02-two-kinds-of-generator.webp", "after": "## Generators" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetic-induction--03-generator-output-and-factors.webp", "after": "## Generators" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetic-induction--04-transformer-structure.webp", "after": "## Transformers (P)" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetic-induction--06-transmission-step-up-step-down.webp", "after": "## Transmission (P)" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetic-induction--05-transformer-worked-examples.webp", "after": "## Quick calculation pattern" }
+] }

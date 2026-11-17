@@ -39,6 +39,11 @@ writing for audience and purpose.** For full explanations and worked plans, use 
 | Assessed by | AO2: W1–W4 |
 | Weighting | AO2 is 20% of the qualification through Paper 2 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--01-section-b-overview.webp" width="900" height="625" alt="The Section A reading sources feed ideas into Section B, where two tasks are set and one is answered. The writing is aimed at an audience and purpose that could be multiple and diverse, and is marked on W1 to W4. Section B is 40 of the paper’s 80 marks; AO2 is worth 20% of the qualification through Paper 2." loading="lazy">
+  <figcaption>The sources supply ideas; the task sets the audience and purpose; W1 to W4 are the marks.</figcaption>
+</figure>
+
 ## Read every task with AFP + C
 
 ```
@@ -51,12 +56,22 @@ C  Content    what must be covered? what can the sources give me?
 **Multiple and diverse** = more than one audience or purpose in the same task. Name each in your plan
 and address each in the writing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--02-decoding-the-task.webp" width="900" height="740" alt="The cycle-lanes speech task broken into four parts: form (a speech for a public meeting), audience (both residents and local business owners), purpose (persuade, and reassure business owners) and content (support for new cycle lanes, using ideas from the sources)." loading="lazy">
+  <figcaption>Underline audience, purpose, form and content in every task before you plan.</figcaption>
+</figure>
+
 ## Sources: the four rules
 
 1. **Ideas, not sentences.**
 2. **Select** only what serves your purpose.
 3. **Transform** source details into your form and voice.
 4. **Add** your own examples and reasoning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--03-using-sources.webp" width="900" height="625" alt="Four moves for using the Section A sources: take ideas not sentences, select only what serves the purpose, transform them, and add your own. Examples: a statistic in a report becomes a vivid example in a speech; a complaint in a blog becomes a counter-argument you answer." loading="lazy">
+  <figcaption>Take, select, transform and add: the sources are a store of ideas, not text to copy.</figcaption>
+</figure>
 
 ## Form conventions in brief
 
@@ -80,12 +95,22 @@ and address each in the writing.
 
 **Mixed audiences:** pitch to the one with most authority; turn to address the others directly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--04-register.webp" width="900" height="655" alt="A scale from formal to informal. Formal: no contractions or slang, precise vocabulary, complex sentences, polite tone. Semi-formal: some contractions, friendly but respectful, rhetorical questions. Informal: conversational phrases and humour, but still accurate. For mixed audiences, use the register for the reader with most authority and address the others directly." loading="lazy">
+  <figcaption>Match register to the most important reader, and keep it consistent.</figcaption>
+</figure>
+
 ## Paragraph engine
 
 ```
 Topic sentence  ->  development  ->  example (own or transformed from a source)
 ->  link back to purpose or audience
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--05-building-the-writing.webp" width="900" height="754" alt="Four stages: an opening that establishes purpose and engages the audience; one paragraph per idea with topic sentence, development, example and link to purpose; a counter-argument acknowledged and answered; and an ending matched to purpose. Below, techniques such as direct address, rhetorical questions and the rule of three." loading="lazy">
+  <figcaption>Open with purpose, build one idea per paragraph, answer the other side, end to match the purpose.</figcaption>
+</figure>
 
 ## Persuasive and explanatory tools
 
@@ -106,6 +131,11 @@ Topic sentence  ->  development  ->  example (own or transformed from a source)
 - **End** to match purpose: call to action (persuade), recommendation (report), summary and advice
   (inform/advise), final verdict (review).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--07-two-openings.webp" width="900" height="648" alt="A weak opening (“Hi, I think students should plan the school day…”) is too informal, vague and unstructured. A strong opening (“Dear Mrs Okafor, I am writing on behalf of the Student Council…”) uses correct letter form, a formal register, a clear purpose and a preview of three points." loading="lazy">
+  <figcaption>The strong opening fits the audience, states its purpose and previews its points.</figcaption>
+</figure>
+
 ## Five-minute plan template
 
 ```
@@ -119,6 +149,11 @@ Ending type:           call to action / recommendation / verdict
 ```
 
 Fill it in before writing a sentence of the response; tick each line again at the end.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--06-worked-plan.webp" width="900" height="785" alt="The six-point plan for a speech persuading residents and business owners to support cycle lanes: a greeting and hook, the problem (from the poster), a benefit for residents (from the story), addressing business owners’ parking worry, answering the rain objection, and a rule-of-three close with a call to action." loading="lazy">
+  <figcaption>A good plan names both audiences, reworks the sources and builds in the form’s features.</figcaption>
+</figure>
 
 ## Key terms
 

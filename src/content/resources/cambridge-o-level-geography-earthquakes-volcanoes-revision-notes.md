@@ -38,6 +38,11 @@ Condensed notes for sub-topic 2.1 of Cambridge O Level Geography (2217), 2026 se
   dense, not subducted.
 - Plates move a few cm a year, often explained by convection currents in the mantle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-earthquakes-volcanoes--01-earth-structure-crust.webp" width="900" height="850" alt="A cross-section of the Earth: a solid inner core, liquid outer core, thick mantle of slowly flowing hot rock and a thin rigid crust; the crust and top of the mantle form the plates. Below, oceanic crust is drawn thin and dense and can be subducted, while continental crust is thicker, less dense and too buoyant to sink." loading="lazy">
+  <figcaption>Denser oceanic crust can sink; lighter continental crust cannot.</figcaption>
+</figure>
+
 ## Plate boundaries
 
 | Boundary | Movement | Earthquakes? | Volcanoes? | Example |
@@ -50,6 +55,11 @@ Condensed notes for sub-topic 2.1 of Cambridge O Level Geography (2217), 2026 se
 **Distribution:** narrow belts on plate boundaries — Pacific Ring of Fire, Mid-Atlantic Ridge,
 Alpine–Himalayan belt. **Exception:** hotspots (Hawaii).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-earthquakes-volcanoes--02-plate-boundaries.webp" width="900" height="912" alt="Four cross-sections. Constructive: plates move apart and magma rises to form a ridge (Mid-Atlantic Ridge). Destructive: denser oceanic crust is subducted under continental crust at a trench, melts and feeds a volcano (Nazca and South American Plates). Collision: two continental plates crumple into fold mountains with no volcanoes (Indian and Eurasian Plates). Conservative: plates slide past each other along a fault (San Andreas)." loading="lazy">
+  <figcaption>Volcanoes need magma: none at collision or conservative boundaries.</figcaption>
+</figure>
+
 ## Volcano types
 
 - **Strato-volcano (composite cone):** steep; layers of ash and lava; viscous lava; explosive;
@@ -58,12 +68,22 @@ Alpine–Himalayan belt. **Exception:** hotspots (Hawaii).
   boundaries or hotspots (Mauna Loa).
 - **Label:** magma chamber, main vent, secondary vent, crater, lava flow, ash cloud.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-earthquakes-volcanoes--03-volcano-types.webp" width="900" height="745" alt="Two cross-sections. A strato-volcano is a tall, steep cone of alternating ash and lava layers with a magma chamber, main vent, secondary vent, crater and ash cloud; its thick lava erupts explosively at destructive boundaries (Mount Fuji, Mount St Helens). A shield volcano is a wide, gentle dome of runny lava layers that flows far in gentle eruptions at constructive boundaries or hotspots (Mauna Loa)." loading="lazy">
+  <figcaption>Thick lava builds steep, explosive cones; runny lava builds wide, gentle shields.</figcaption>
+</figure>
+
 ## Earthquake features
 
 - **Focus** = underground point of rupture. **Epicentre** = surface point directly above.
 - **Magnitude** = energy released (moment magnitude scale; logarithmic — one step ≈ 10× ground
   movement, ≈ 32× energy).
 - Shallow focus → more surface damage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-earthquakes-volcanoes--04-earthquake-features.webp" width="900" height="985" alt="A cross-section with the focus underground, seismic waves spreading out from it, and the epicentre on the surface directly above. Two smaller sections compare a shallow focus, which causes more surface damage, with a deep focus of the same magnitude. A final strip shows that each whole step of magnitude means about ten times the ground movement and roughly 32 times the energy." loading="lazy">
+  <figcaption>Focus below, epicentre above; shallow quakes and each extra magnitude step do far more damage.</figcaption>
+</figure>
 
 ## Effects
 
@@ -74,10 +94,20 @@ Alpine–Himalayan belt. **Exception:** hotspots (Hawaii).
 - **Impact depends on:** magnitude, depth, distance, population density, building quality,
   time of day, wealth, preparedness.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-earthquakes-volcanoes--05-primary-secondary-effects.webp" width="900" height="800" alt="Two panels. Earthquakes: primary effects are collapsing buildings and bridges, deaths and injuries, and broken roads and pipes; secondary effects are fires, tsunamis, landslides, disease, homelessness and economic loss. Volcanoes: primary effects are lava flows, pyroclastic flows, ash fall and gases; secondary effects are lahars, crop and livestock loss, air travel disruption and climate cooling. Eight factors that change the impact are listed below." loading="lazy">
+  <figcaption>Primary effects come from the event; secondary effects follow from them.</figcaption>
+</figure>
+
 ## Opportunities of volcanoes
 
 Fertile soils (Etna's vineyards) · geothermal energy (Iceland) · tourism · minerals and building
 stone. People also stay because of family, land and infrequent eruptions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-earthquakes-volcanoes--06-volcano-hazards-opportunities.webp" width="900" height="675" alt="A volcano with hazards on one side (ash fall from an ash cloud, lava flows, pyroclastic flows and volcanic gases) and opportunities on the other (fertile soils with vineyards and orchards as on Mount Etna, geothermal energy as in Iceland, and tourism). Below, minerals such as sulphur and volcanic rock, and reasons people stay: family and land, infrequent eruptions and trust in warnings." loading="lazy">
+  <figcaption>People weigh rare hazards against everyday benefits.</figcaption>
+</figure>
 
 ## Reducing impacts: the three Ps plus planning
 
@@ -88,6 +118,11 @@ stone. People also stay because of family, land and infrequent eruptions.
 - **Preparation:** drills, kits, education (Japan's Disaster Prevention Day, 1 September);
   evacuation plans.
 - **Planning:** hazard maps and exclusion zones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-earthquakes-volcanoes--07-reducing-impacts.webp" width="900" height="765" alt="Left: an earthquake-resistant building with cross-bracing, rubber shock absorbers, deep foundations and flexible pipes; earthquakes cannot be reliably predicted. Right: three signs used to forecast an eruption: small earthquakes, the ground swelling (tiltmeters and satellites) and changes in gas emissions. Below: tsunami warnings and sea walls, drills and Japan’s Disaster Prevention Day, cooling lava on Heimaey in 1973, and land-use planning." loading="lazy">
+  <figcaption>Earthquakes are built against; eruptions are forecast and evacuated.</figcaption>
+</figure>
 
 ## Case-study hooks
 
@@ -105,6 +140,11 @@ stone. People also stay because of family, land and infrequent eruptions.
   homeless as winter approached. Response: international aid and helicopter relief; the
   Earthquake Reconstruction and Rehabilitation Authority (ERRA) was set up to rebuild with safer,
   earthquake-resistant designs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-earthquakes-volcanoes--08-mount-st-helens.webp" width="900" height="818" alt="Four steps: the Juan de Fuca Plate is subducted beneath the North American Plate and magma builds up; the north side of the volcano bulges; an earthquake triggers a landslide of the north face; a sideways (lateral) blast follows. Below: 57 people killed and homes, roads and bridges destroyed; forests flattened, lahars, wildlife killed and the summit lowered; an exclusion zone set up after monitoring reduced the death toll." loading="lazy">
+  <figcaption>Cause, trigger, eruption, then effects on people and the environment.</figcaption>
+</figure>
 
 ## Why the same hazard has different impacts
 

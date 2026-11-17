@@ -41,6 +41,11 @@ applies the concept of conduction rate to explain why heat transfers away from t
 the metal, and uses this reasoning to make a scientifically supported judgment about the actual
 temperature (identical) versus the perceived temperature (different).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-criteria-in-practice--02-criterion-a-spoons.webp" width="900" height="690" alt="A hand on a metal spoon loses heat quickly, shown by thick arrows, so the spoon feels colder; a hand on a wooden spoon loses heat slowly, so it feels warmer. Both spoons are actually at room temperature. A lower-band answer only names thermal conductivity; a top-band answer uses conduction rate to judge actual versus perceived temperature." loading="lazy">
+  <figcaption>Top-band criterion A answers use the concept to reach and justify a judgement.</figcaption>
+</figure>
+
 ## Criterion B: Inquiring and designing
 
 Top-band evidence designs, analyses and performs a genuine scientific investigation -- meaning the
@@ -53,6 +58,11 @@ affects reaction rate. Top-band Criterion B evidence instead involves the studen
 specific, testable research question (e.g. how does the concentration of a particular reactant affect
 reaction rate under otherwise controlled conditions), justifying why the chosen variables should be
 controlled, and explaining the reasoning behind the chosen method before carrying it out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-criteria-in-practice--03-criterion-b-design.webp" width="900" height="840" alt="Lower band follows a fixed worksheet on temperature and reaction rate. Top band has the student write a research question on how reactant concentration affects reaction rate, a testable hypothesis, the independent variable (concentration), dependent variable (rate) and controlled variables with reasons, and a justified method." loading="lazy">
+  <figcaption>Top-band criterion B work is the student’s own question, variables and justified method.</figcaption>
+</figure>
 
 ## Criterion C: Processing and evaluating
 
@@ -67,6 +77,11 @@ a specific limitation of the actual method used (e.g. that the reaction's endpoi
 was judged by eye, introducing timing error) with a specific, targeted improvement (e.g. using a colorimeter to detect
 the reaction's endpoint automatically) rather than a vague suggestion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-criteria-in-practice--04-criterion-c-evaluate.webp" width="900" height="730" alt="A graph with labelled axes plots reaction rate against reactant concentration with a line of best fit. The steps are identify the trend, explain it with a concept such as collision theory, and evaluate the method. “Use more trials” is generic; top band names the real limitation, an endpoint judged by eye, and a matching fix, a colorimeter." loading="lazy">
+  <figcaption>Name a real weakness of your own method and a fix that targets exactly that weakness.</figcaption>
+</figure>
+
 ## Criterion D: Reflecting on the impacts of science
 
 Top-band evidence evaluates the implications of scientific developments and their applications to a
@@ -80,6 +95,11 @@ specific conditions) and a genuine limitation or risk (e.g. ecological or econom
 published sources, properly cited), reaching a reasoned evaluative judgment rather than presenting
 only one side or a purely descriptive account of the technology.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-criteria-in-practice--05-criterion-d-two-sided.webp" width="900" height="690" alt="A balance weighs a genuine benefit of genetically modified crops, increased yield in specific conditions, against a genuine risk, ecological or economic concerns, each with a cited source. Above it, the answer weighs both and reaches a reasoned judgement. A one-sided or purely descriptive answer cannot reach the top band." loading="lazy">
+  <figcaption>A top-band criterion D answer is two-sided, sourced and ends in a judgement.</figcaption>
+</figure>
+
 ## Applying this across discrete, modular and integrated course models
 
 Because the [full syllabus guide](/resources/ib-myp-sciences-syllabus-guide/) confirms schools can
@@ -91,6 +111,11 @@ exact same Criterion B (inquiring and designing) or Criterion C (processing and 
 revision of the criteria themselves therefore transfers directly across course models even where the
 underlying content differs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-criteria-in-practice--01-four-criteria.webp" width="900" height="815" alt="Four rows: A knowing and understanding (apply knowledge to unfamiliar contexts), B inquiring and designing (own testable question, variables and justified method), C processing and evaluating (accurate data work, specific limitation and improvement) and D reflecting on the impacts of science (two-sided, cited, reasoned judgement). The descriptors are the same for every course model." loading="lazy">
+  <figcaption>Each criterion rewards using a skill, not naming it, and none changes with the course model.</figcaption>
+</figure>
+
 ## Why the four criteria are usually assessed through one connected investigation
 
 A single well-designed practical investigation typically generates evidence for all four criteria at
@@ -100,6 +125,11 @@ and, where relevant, a reflection on the investigation's broader scientific or r
 (Criterion D). Revising each criterion as a fully separate skill, rather than practising a complete
 investigation that touches all four, risks preparing for an assessment structure that does not match
 how MYP Sciences coursework is actually usually set.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-criteria-in-practice--06-one-investigation-four-criteria.webp" width="900" height="820" alt="A single practical investigation in the centre sends evidence to all four criteria: A, the scientific concept behind it; B, its design; C, processing and evaluating the data; and, where relevant, D, its wider scientific or real-world significance." loading="lazy">
+  <figcaption>One well-designed investigation usually produces evidence for all four criteria.</figcaption>
+</figure>
 
 ## Self-test
 

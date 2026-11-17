@@ -61,6 +61,16 @@ Condensed for revision. For the full explanation, use the
 | Forward | Sends a received email on to someone else | Passing information to a colleague (check it is appropriate to share) |
 | Attachment | A file sent with the email | Sending a document or image; be aware of file size limits and viruses |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-communication-study-guide--13-email-parts.webp" width="900" height="830" alt="An email window labelled with To, Cc, Bcc, Subject, Attachment, Body and Signature, each with a short description from the lesson." loading="lazy">
+  <figcaption>The parts of an email message.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-communication-study-guide--14-to-cc-bcc.webp" width="900" height="810" alt="Mr Okoro puts himself or the school office in To, the deputy head in Cc, and the 45 parents in Bcc. To and Cc are seen by everyone; Bcc addresses are hidden from each other. Putting all 45 in To would show everyone every address." loading="lazy">
+  <figcaption>Which field to use, and who can see whom.</figcaption>
+</figure>
+
 ### Spam
 
 **Spam** is unsolicited email sent to many people at once, often advertising or scams. Effects: fills inboxes, wastes time, may carry phishing links or malware, uses network bandwidth.
@@ -105,14 +115,29 @@ Prevention: use a spam filter; do not reply to or unsubscribe from suspicious sp
 | Path | /science/ | Folder on the server |
 | File name | timetable.html | The page requested |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-communication-study-guide--16-url-parts.webp" width="900" height="520" alt="An example address split into protocol (https), domain name and path or file name. The address is illustrative." loading="lazy">
+  <figcaption>The three parts of a URL.</figcaption>
+</figure>
+
 ### Using search engines
 
 Advantages: very fast; huge amount of information; can find relevant information quickly when good keywords are used.
 Disadvantages: may return millions of results; finding *reliable* information is harder; results may be ranked by advertising or popularity, not accuracy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-communication-study-guide--18-refine-search.webp" width="900" height="910" alt="Four rows of twelve illustrative result pages: sleep gives 12, teenagers sleep hours recommended gives 4, adding the exact phrase gives 3, and adding NOT mattress gives 2." loading="lazy">
+  <figcaption>Each refinement removes irrelevant results (page counts are illustrative).</figcaption>
+</figure>
+
 ### How do you evaluate information found online?
 
 Check that it is **up to date** (date of publication or last update), **reliable** (known author or organisation, for example .gov or .ac sites, other sources agree), **not biased** (not trying to sell or persuade; balanced viewpoint) and **valid** (accurate, relevant, references given).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-communication-study-guide--19-check-reliability.webp" width="900" height="870" alt="Five questions to ask about a source, then the lesson's example: a national health organisation, updated this year and with references, is more reliable than an anonymous blog or a wiki or forum anyone can edit." loading="lazy">
+  <figcaption>Five checks for a reliable source.</figcaption>
+</figure>
 
 ### Internet protocols
 
@@ -126,6 +151,11 @@ Check that it is **up to date** (date of publication or last update), **reliable
 ### Risks of using the internet
 
 Inappropriate and criminal material can be found. Access can be restricted by **parental control** (filters and time limits set at home), **educational control** (school filters and blocked sites) and **ISP control** (filtering at the provider). Restriction raises a debate between protecting users and censorship.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-communication-study-guide--15-internet-vs-web.webp" width="900" height="780" alt="A large area labelled Internet, a worldwide network of networks. Inside it, the World Wide Web holds web pages. A web browser reaches those pages." loading="lazy">
+  <figcaption>The web is the collection of pages accessed through the internet.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

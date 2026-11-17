@@ -35,6 +35,11 @@ An individual investigation: identify a geographical question, collect **primary
 present it, analyse it and evaluate the whole investigation in a written report. Small, well-designed
 local studies usually beat ambitious ones that cannot be done carefully.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-fieldwork-study-guide--15-fw-report-order.webp" width="900" height="1028" alt="Nine numbered sections coloured as plan, data and judge stages. The common order of a fieldwork report from title and question to references and appendix." loading="lazy">
+  <figcaption>The common order of a fieldwork report from title and question to references and appendix.</figcaption>
+</figure>
+
 ## Planning
 
 1. A focused, answerable **question** linked to course ideas.
@@ -58,6 +63,11 @@ local studies usually beat ambitious ones that cannot be done carefully.
 A strong question names a place, contains measurable variables and links to a theory or model
 (for example the Bradshaw model of downstream change or the bid-rent idea in urban geography).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-fieldwork-study-guide--17-fw-hypotheses.webp" width="900" height="970" alt="Hypothesis and null hypothesis boxes above two scatter graphs. A hypothesis predicts a pattern, the null hypothesis says there is none, and the test examines the null." loading="lazy">
+  <figcaption>A hypothesis predicts a pattern, the null hypothesis says there is none, and the test examines the null.</figcaption>
+</figure>
+
 ## Sampling in practice
 
 - **Point, line and area sampling:** individual spots, points along a transect, or quadrats.
@@ -66,6 +76,11 @@ A strong question names a place, contains measurable variables and links to a th
 - **Sample size:** larger samples reduce the effect of chance, but must be achievable in the time.
 - Combining methods is common: **stratified systematic** sampling takes regular samples within each
   sub-group, such as each zone of a town.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-fieldwork-study-guide--16-fw-sampling.webp" width="900" height="1030" alt="Random, systematic and stratified sampling patterns on a site. Random, systematic and stratified sampling compared, with illustrative point counts." loading="lazy">
+  <figcaption>Random, systematic and stratified sampling compared, with illustrative point counts.</figcaption>
+</figure>
 
 ## Collecting and presenting data
 
@@ -115,6 +130,21 @@ park. If use were even, the expected value would be 20 in each zone. Observed: 3
 Other useful tools: the **nearest neighbour index** for point patterns (values near 0 suggest
 clustering, near 1 a random pattern, and higher values a more regular pattern), and **standard
 deviation** to show how spread out data are around the mean.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-fieldwork-study-guide--18-fw-test-choice.webp" width="900" height="1050" alt="Three test cards with a small picture each. Spearman’s rank, chi-squared and Mann-Whitney U, and the data each one suits." loading="lazy">
+  <figcaption>Spearman’s rank, chi-squared and Mann-Whitney U, and the data each one suits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-fieldwork-study-guide--19-fw-spearman-table.webp" width="900" height="938" alt="The ranking table, the d squared sum of 166 and the calculation to minus 0.976. The lesson’s Spearman working, recomputed step by step." loading="lazy">
+  <figcaption>The lesson’s Spearman working, recomputed step by step.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-fieldwork-study-guide--20-fw-spearman-result.webp" width="900" height="960" alt="A number line with the result and the 0.738 critical value, plus the scatter. The result of minus 0.976 lies beyond the 0.738 critical value, but correlation is not proof of cause." loading="lazy">
+  <figcaption>The result of minus 0.976 lies beyond the 0.738 critical value, but correlation is not proof of cause.</figcaption>
+</figure>
 
 ## Analysis and evaluation
 

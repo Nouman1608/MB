@@ -53,6 +53,11 @@ Condensed recall for **3.5.1 Geographical skills checklist** (OxfordAQA Internat
 | Ground truthing | Checking remotely sensed data against observations on the ground |
 | Big data | Very large, often real-time data sets, such as phone location or social media records |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--03-isoline-interpolation.webp" width="900" height="695" alt="Points A (140) and B (190) lie 25 mm apart on a scale bar. The 160 isoline crosses 10 mm from A, because 160 is 0.4 of the way from 140 to 190. Steps show the calculation and the assumption that values change evenly between points." loading="lazy">
+  <figcaption>Find the fraction of the value gap, then take that fraction of the distance.</figcaption>
+</figure>
+
 ## Formulas to know
 
 ```
@@ -69,6 +74,16 @@ Proportional circle    radius proportional to square root of value
 Pie chart segment      = percentage x 3.6 degrees
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--02-percentage-and-rate-of-change.webp" width="900" height="533" alt="Two bars to scale: a town of 48,000 grows to 61,200, an increase of 13,200 shown in gold. Formulas below: percentage change = 13,200 / 48,000 x 100 = 27.5%, and mean rate of change over 12 years = 1,100 people a year." loading="lazy">
+  <figcaption>Percentage change compares with the starting value; rate of change divides by time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--06-same-mean-different-spread.webp" width="900" height="674" alt="Dispersion diagram of two sets of seven infiltration times with the same mean of 22 seconds. Set A clusters between 18 and 26 seconds with a standard deviation of 2.4 s; set B spreads from 8 to 36 seconds with 9.6 s. Shaded bands show one standard deviation either side of the mean." loading="lazy">
+  <figcaption>The same mean can hide very different spread: report both.</figcaption>
+</figure>
+
 ## Choosing techniques: quick rules
 
 - **Point data** -> located proportional symbols or bars. **Area data** -> choropleth of rates. **Continuous surface** -> isolines. **Movement** -> flow lines for volume, desire lines for pattern.
@@ -78,6 +93,16 @@ Pie chart segment      = percentage x 3.6 degrees
 - **Wide range of values** -> logarithmic scale.
 - **Skewed data or outliers** -> median and inter-quartile range rather than mean and standard deviation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--01-choosing-a-technique.webp" width="900" height="783" alt="Table matching ten types of data to suitable presentation and statistics, from located proportional symbols for values at points to dispersion diagrams and standard deviation for the spread of one data set. A note says a justification needs what the technique shows and why it suits the data." loading="lazy">
+  <figcaption>Choose the technique from the type of data, then justify it in two parts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--04-symbols-and-flow-lines.webp" width="900" height="622" alt="Three circles drawn to scale: 2,500 visitors with a radius of 8 mm, 6,400 visitors with 12.8 mm and 10,000 visitors with 16 mm, showing that four times the value doubles the radius. Below, a flow line 7.5 mm wide for 3,750 vehicles a day at 1 mm per 500 vehicles." loading="lazy">
+  <figcaption>Scale circle area, not radius, to the value; scale flow-line width to volume.</figcaption>
+</figure>
+
 ## Interpreting a test result: the five steps
 
 1. State the null hypothesis.
@@ -86,6 +111,16 @@ Pie chart segment      = percentage x 3.6 degrees
 4. Accept or reject the null hypothesis.
 5. Explain the result geographically, and say what the test cannot show (cause, or why the difference exists).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--07-spearman-negative.webp" width="900" height="641" alt="Scatter graph of eight invented sites: recorded crimes fall from 42 at 0.2 km to 15 at 3.7 km from the centre. The calculation gives rs = -0.952; on a scale from 0 to 1 its size lies beyond the critical values 0.738 (0.05) and 0.881 (0.01), so the null hypothesis is rejected at the 0.01 level." loading="lazy">
+  <figcaption>A strong negative correlation, significant at 0.01, but it does not prove cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--08-chi-square-two-by-two.webp" width="900" height="720" alt="Paired bars compare observed and expected counts: within 200 m of the river 34 aware and 16 not aware against expected 27.5 and 22.5; over 200 m 21 and 29 against the same expected values. Chi-square = 6.83 with 1 degree of freedom, beyond the critical values 3.84 and 6.63, so the difference is significant at the 0.01 level." loading="lazy">
+  <figcaption>Observed counts differ from expected enough to be significant at 0.01.</figcaption>
+</figure>
+
 ## Reading graphs and maps accurately
 
 - On a **triangular graph**, read each axis along its own gridlines; the three readings must sum to 100%.
@@ -93,6 +128,11 @@ Pie chart segment      = percentage x 3.6 degrees
 - On a **choropleth**, describe the overall pattern, the highest and lowest areas with values, and any anomalies.
 - On a **flow line map**, compare widths using the scale; describe the main routes and the direction of flow.
 - On a **dispersion diagram**, describe clustering, gaps and outliers, and compare medians and inter-quartile ranges.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-geographical-skills-checklist--05-triangular-graph.webp" width="900" height="620" alt="A triangular graph with corners at 100% clay, 100% silt and 100% sand and gridlines every 10%. Dashed lines at 20% clay, 30% silt and 50% sand meet at a single plotted point. Notes say to check the three values add to 100% and that clustered points show similar samples." loading="lazy">
+  <figcaption>Check the three values total 100%, then plot where the three gridlines meet.</figcaption>
+</figure>
 
 ## ICT sources: strengths and limits
 

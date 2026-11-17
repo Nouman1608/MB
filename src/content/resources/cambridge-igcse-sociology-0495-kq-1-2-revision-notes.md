@@ -63,6 +63,11 @@ Full explanations and a worked table are in the
 | **Dark figure of crime** | Crime that is never reported or recorded |
 | **Socially constructed statistics** | Figures shaped by the decisions of people who record them |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-2--01-four-combinations.webp" width="900" height="674" alt="A two-by-two grid. Primary quantitative: your own closed-question questionnaire results. Primary qualitative: transcripts of your own unstructured interviews. Secondary quantitative: census or crime figures. Secondary qualitative: diaries, letters, news articles and social media posts." loading="lazy">
+  <figcaption>Who produced the data and what form it takes are two separate questions.</figcaption>
+</figure>
+
 ## Recall grid: the four kinds of secondary evidence
 
 | Evidence | Example | Main strength | Main limitation |
@@ -71,6 +76,11 @@ Full explanations and a worked table are in the
 | Historical and personal documents | Parish registers, diaries, letters | Only route to the past; personal meaning | Authenticity, credibility, representativeness |
 | Digital sources | Social media posts, forums, blogs | Huge, current, naturally produced | Hard to verify; users unrepresentative; consent and privacy |
 | Media content | News reports, adverts, films | Shows how groups are represented | Reflects producers' agenda; audiences interpret differently |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-2--03-secondary-evidence-types.webp" width="900" height="775" alt="Four types of secondary evidence, each with examples, strengths and limitations: official statistics, historical and personal documents, digital sources and media content, with named studies by Laslett, Thomas and Znaniecki, and the Glasgow University Media Group." loading="lazy">
+  <figcaption>Every type of secondary evidence has a strength to use and a limitation to criticise.</figcaption>
+</figure>
 
 ## Named studies worth using
 
@@ -82,6 +92,11 @@ Full explanations and a worked table are in the
   adjustment.
 - **Glasgow University Media Group, *Bad News* (1976):** content analysis of television news on
   industrial disputes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-2--02-socially-constructed-statistics.webp" width="900" height="778" alt="Recorded crime shrinks from all crimes, to those reported by victims, to those recorded by police; the rest is the hidden dark figure. Atkinson argued that suicide statistics depend on how coroners interpret clues such as notes and the manner of death." loading="lazy">
+  <figcaption>Official figures depend on decisions by victims, police and officials.</figcaption>
+</figure>
 
 ## Primary versus secondary: quick comparison
 
@@ -100,6 +115,16 @@ Full explanations and a worked table are in the
 **Problems to look for:** small or unclear sample; one place only; old data; volunteers or online
 only; self-reported behaviour; unclear definitions; percentages without totals; correlation shown but
 cause claimed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-2--04-reading-a-source.webp" width="900" height="612" alt="Four numbered steps: read the labels, find and quote the exact figure with its unit, describe the pattern, then question the evidence. The routine works for summaries of studies, diagrams, tables, charts and graphs." loading="lazy">
+  <figcaption>Labels, figure, pattern, problems: the same routine for every source.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-2--05-worked-table-example.webp" width="900" height="797" alt="Stacked bars of how often three age groups read news online: 16–29 is 71% daily, 20% weekly, 9% rarely; 30–49 is 58%, 27%, 15%; 50 and over is 33%, 30%, 37%. Below, an identified figure, a described trend and four problems with the evidence." loading="lazy">
+  <figcaption>Pick one figure, describe the trend, then question how the data was collected.</figcaption>
+</figure>
 
 ## Exam traps
 
@@ -122,6 +147,11 @@ cause claimed.
   more crime.
 
 Each point names the limitation and explains its effect on what the statistics show.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-2--06-explain-a-problem.webp" width="900" height="505" alt="Three worked chains, each naming a problem, linking it to the source and stating its effect: volunteers over-represent strong views; an online survey misses older non-users so the age gap looks smaller; a changed definition of unemployment breaks up a trend." loading="lazy">
+  <figcaption>Name it, link it, state its effect.</figcaption>
+</figure>
 
 ## Self-test
 

@@ -1,0 +1,8 @@
+{ "page": "igcse-computer-science-programming-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-programming-study-guide--02-prog-while-repeat.webp", "after": "## Selection and iteration" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-programming-study-guide--01-prog-div-mod.webp", "after": "## Operators" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-programming-study-guide--06-prog-range-check.webp", "after": "## Operators" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-programming-study-guide--03-prog-string-positions.webp", "after": "## String handling" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-programming-study-guide--05-prog-subroutines-scope.webp", "after": "## Procedures, functions and scope" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-programming-study-guide--04-prog-arrays.webp", "after": "## 8.2 Arrays" }
+] }

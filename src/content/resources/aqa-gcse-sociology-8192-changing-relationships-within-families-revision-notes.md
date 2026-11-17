@@ -47,6 +47,11 @@ For full explanations and worked answers, read the [changing relationships withi
 | Forced marriage | Marriage without the full consent of one or both partners; a crime in England and Wales |
 | Kin | Relatives by blood, marriage or adoption |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--02-privatised-family-causes.webp" width="900" height="584" alt="Five causes point to the privatised nuclear family: rising living standards and better housing, geographical mobility, smaller families, more married women in paid work, and home-based leisure such as television." loading="lazy">
+  <figcaption>Five twentieth-century changes pulled families into a smaller, home-centred unit.</figcaption>
+</figure>
+
 ## Three periods in one grid
 
 | | Pre-industrial | Industrial | Contemporary |
@@ -55,6 +60,11 @@ For full explanations and worked answers, read the [changing relationships withi
 | Household | Mostly nuclear (Laslett) | More extended kin in early industrial towns (Anderson, Preston 1851) | Privatised nuclear, plus growing diversity |
 | Relationships | Children work young; marriage partly economic | Long male working hours; women rely on female kin | Home-centred, more joint, child-centred |
 | Willmott and Young | Stage 1 | Stage 2 | Stage 3, with Stage 4 predicted |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--01-three-periods.webp" width="900" height="764" alt="Three columns run along a time line. Pre-industrial families worked together as a unit of production, and Laslett found most households were nuclear. Industrial families lost their production role, and Anderson found more extended kin in 1851 Preston. Contemporary families became privatised, home-centred and nuclear." loading="lazy">
+  <figcaption>The family moved from a unit of production to a privatised, home-centred unit.</figcaption>
+</figure>
 
 ## Willmott and Young in six bullets
 
@@ -65,12 +75,37 @@ For full explanations and worked answers, read the [changing relationships withi
 - Stratified diffusion: change starts at the top and spreads down; they predicted Stage 4 would spread.
 - Feminists saw little evidence of symmetry or of Stage 4 among working-class families.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--03-four-stages.webp" width="900" height="997" alt="A staircase of four stages. Stage 1, pre-industrial: a unit of production. Stage 2, early industrial: men work long hours and women rely on female kin. Stage 3, symmetrical: a privatised, home-centred nuclear family. Stage 4, managing director: work-centred, and less equal than Stage 3." loading="lazy">
+  <figcaption>Willmott and Young saw family change as gradual progress, but Stage 4 is less equal than Stage 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--04-symmetry-balance.webp" width="900" height="600" alt="A balanced pair of scales holds each partner’s contribution. The tasks are different and not interchangeable, but they are of equal importance, so the scales balance. Symmetry means similar contributions such as shared chores and decisions, not identical jobs." loading="lazy">
+  <figcaption>Symmetry means roles of equal importance, not identical roles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--05-stratified-diffusion.webp" width="900" height="712" alt="Three class layers with an arrow pointing down: the Stage 4 managing director family starts among managers at the top and spreads downwards. Functionalists see this as progress; feminists found little evidence of symmetry, and point out that Stage 4 is less equal than Stage 3." loading="lazy">
+  <figcaption>Change starts at the top and spreads down, but Stage 4 would make families less equal.</figcaption>
+</figure>
+
 ## Contemporary issues in one line each
 
 - **Quality of parenting:** child-centred families raise expectations; the state sets more rules, such as Scotland and Wales removing the defence of reasonable punishment.
 - **Teenagers and adults:** more democratic negotiation, but longer dependency through education or training to 18 and high housing costs.
 - **Care of the disabled/elderly:** an ageing population and beanpole families increase family care, which falls mainly on women.
 - **Arranged marriage:** families choose or introduce partners with consent; becoming more "assisted"; distinct from forced marriage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--06-contemporary-issues.webp" width="900" height="679" alt="Four cards. Quality of parenting: families are more child-centred and the state sets standards. Teenagers and adults: relationships are more democratic but dependence lasts longer. Care of the disabled and elderly: an ageing population and beanpole families mean more unpaid care, mostly by women. Arranged marriage: families help choose partners but both consent, and the process is becoming more assisted." loading="lazy">
+  <figcaption>Each issue shows family relationships changing, and each can be linked to a perspective.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-changing-relationships-within-families--07-arranged-vs-forced.webp" width="900" height="535" alt="Two panels. In an arranged marriage families choose or introduce partners but both partners consent, and the process is becoming more assisted. In a forced marriage one or both partners do not consent, and forcing someone to marry is a criminal offence in England and Wales." loading="lazy">
+  <figcaption>Consent is the difference between an arranged and a forced marriage.</figcaption>
+</figure>
 
 ## Perspectives
 

@@ -40,6 +40,11 @@ Condensed for the final weeks. For the full explanation and a worked example, us
 | Link | Exercise 4's summary uses the same text |
 | Suggested time | about 15-18 minutes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-3-note-making--01-exercise-at-a-glance.webp" width="900" height="490" alt="Exercise 3 is worth 9 marks, needs about 15-18 minutes, tests R1 to R4 and uses the same text as the Exercise 4 summary. The headings are supplied, notes are brief phrases, and the space shows how many separate points are needed." loading="lazy">
+  <figcaption>Brief, separate points under the headings you are given.</figcaption>
+</figure>
+
 ## Five rules for notes
 
 1. **Point, not topic.** "دل مضبوط ہوتا ہے", not "چہل قدمی".
@@ -47,6 +52,16 @@ Condensed for the final weeks. For the full explanation and a worked example, us
 3. **Right heading.** A correct note under the wrong heading scores nothing there.
 4. **Specific.** Keep numbers, names and limits: "دس سال", not "کافی عرصہ".
 5. **Keep negatives.** نہیں، بغیر، کمی change the meaning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-3-note-making--02-topic-versus-point.webp" width="900" height="806" alt="Four text sentences with a weak note and a good note. The weak notes name only a topic (breakfast, bicycle, ticket, walking); the good notes state the point, such as بغیر ناشتے کے اسکول آنا and دل مضبوط ہوتا ہے." loading="lazy">
+  <figcaption>The shortest phrase that still carries the full point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-3-note-making--04-one-note-one-point.webp" width="900" height="718" alt="Two errors. A bullet reading جھولے اور سایہ دار بنچ packs two points into one and should be split into بچوں کے لیے جھولے and بزرگوں کے لیے سایہ دار بنچ. And پانی کی کمی and پانی کم ملتا ہے are the same point written twice, credited once." loading="lazy">
+  <figcaption>Each bullet carries one separate point; repeats earn nothing extra.</figcaption>
+</figure>
 
 ## Shortening Urdu: sentence → note
 
@@ -57,6 +72,11 @@ Condensed for the final weeks. For the full explanation and a worked example, us
 | Use an infinitive | بچوں کو روزانہ کتاب پڑھنی چاہیے | روزانہ کتاب پڑھنا |
 | Keep the key detail | ایک اچھا کاریگر بننے میں کم از کم دس سال لگتے ہیں | کم از کم دس سال کی تربیت |
 | Keep the negative | یہاں موبائل فون لانے کی اجازت نہیں | موبائل فون ممنوع |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-3-note-making--03-ways-to-shorten.webp" width="900" height="632" alt="Four techniques: drop the helper verb (یہاں پانی کم ہوتا جا رہا ہے becomes پانی کی کمی), use a verbal noun (پودوں کو پانی دینا, مرمت), keep the specific detail (دس سال, not کچھ وقت), and keep negatives, since ٹکٹ ضروری and ٹکٹ ضروری نہیں are opposites." loading="lazy">
+  <figcaption>Cut the grammar, keep the detail and the negative.</figcaption>
+</figure>
 
 ## Headings that come in pairs
 
@@ -69,6 +89,11 @@ Headings often split one topic in two. Know which side each point belongs to.
 | وجوہات / نتائج | "because" (cause) versus "so" (result) |
 | ماضی / حال | پہلے… اب… sentences that contain both |
 | طریقہ / مقصد | how something is done versus why |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-3-note-making--05-right-heading.webp" width="900" height="805" alt="Points from four parts of a text are drawn to two headings, Advantages and Problems, crossing the paragraph boundaries. Three warnings: points are scattered across the text, solutions are not problems, and background facts earn nothing unless a heading asks for them." loading="lazy">
+  <figcaption>Paragraphs and headings do not always line up: sort each point by what it says.</figcaption>
+</figure>
 
 ## Where hidden points sit
 
@@ -133,6 +158,11 @@ the method).
    their "obvious" paragraph.
 5. **Reduce each point** to a short noun phrase or infinitive, keeping numbers and negatives.
 6. **Check the count** under each heading and that no point appears twice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-3-note-making--07-reliable-method.webp" width="900" height="892" alt="Six steps: read the headings first, read the whole text once, reread marking points with heading letters, check for scattered points, write one brief point per bullet, and check each note against its heading. Turn words such as تاہم، لیکن and اس کے علاوہ often introduce a point for another heading." loading="lazy">
+  <figcaption>Headings first, then two readings, then one point per bullet.</figcaption>
+</figure>
 
 ## Heading vocabulary
 

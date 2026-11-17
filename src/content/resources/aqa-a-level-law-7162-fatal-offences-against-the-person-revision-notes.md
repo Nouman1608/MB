@@ -37,6 +37,11 @@ Unlawful killing
         |- gross breach of duty ........... GROSS NEGLIGENCE MANSLAUGHTER
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--01-cr-homicide-path.webp" width="900" height="1005" alt="Decision path for homicide. An unlawful killing with malice aforethought, meaning an intention to kill or to cause grievous bodily harm, is murder with a mandatory life sentence. If loss of control or diminished responsibility applies, murder is reduced to voluntary manslaughter. A killing without malice aforethought is involuntary manslaughter, through an unlawful and dangerous act or gross negligence." loading="lazy">
+  <figcaption>A decision path from an unlawful killing to murder, voluntary manslaughter or involuntary manslaughter.</figcaption>
+</figure>
+
 ## Murder
 
 **Actus reus:** unlawful killing of a human being under the King's peace.
@@ -56,6 +61,16 @@ Unlawful killing
 
 **Oblique intention:** virtual certainty + defendant's appreciation; jury entitled to find intention (*Nedrick*, 1986; *Woollin*, 1998); a rule of evidence (*Matthews and Alleyne*, 2003).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-fatal-offences-against-the-person--01-murder-actus-reus.webp" width="900" height="592" alt="The actus reus of murder: a reasonable creature in being, meaning a human born alive (A-G’s Reference No 3 of 1994); brain-stem death (Malcherek and Steel); an unlawful killing, not lawful self-defence; no time limit since the 1996 Act. Causation must be factual (White) and legal, with cases on medical treatment (Smith, Cheshire, Jordan), thin skull (Blaue), escape (Roberts) and third parties (Pagett)." loading="lazy">
+  <figcaption>A human being, killed unlawfully, with factual and legal causation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-fatal-offences-against-the-person--02-malice-aforethought.webp" width="900" height="643" alt="Malice aforethought is either express, an intention to kill, or implied, an intention to cause GBH (Vickers; Cunningham). Either may be direct, the defendant’s aim, or oblique: under Nedrick as modified by Woollin, the jury is entitled to find intention where death or serious injury was a virtual certainty and the defendant appreciated it; Matthews and Alleyne treats this as a rule of evidence." loading="lazy">
+  <figcaption>Intent to kill or to cause GBH, found directly or from foresight of virtual certainty.</figcaption>
+</figure>
+
 ## Loss of control (CJA 2009)
 
 | Element | Section | Notes |
@@ -67,6 +82,11 @@ Unlawful killing
 | Normal person test | s54(1)(c), s54(3) | Same sex and age, normal tolerance and self-restraint, in D's circumstances |
 | Burden | s54(5)–(6) | Once sufficient evidence, prosecution must disprove |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-fatal-offences-against-the-person--03-loss-of-control.webp" width="900" height="714" alt="Loss of control has three elements: a loss of self-control, which need not be sudden but excludes considered revenge (Jewell); a qualifying trigger of fear of serious violence or anger at extremely grave circumstances; and the normal person test. Triggers incited as an excuse and sexual infidelity are excluded, though Clinton allows infidelity as context. Once there is sufficient evidence, the prosecution must disprove the defence." loading="lazy">
+  <figcaption>Lost control, a qualifying trigger, and a normal person might have done the same.</figcaption>
+</figure>
+
 ## Diminished responsibility (s2 HA 1957, as amended)
 
 D proves on the balance of probabilities:
@@ -76,6 +96,11 @@ D proves on the balance of probabilities:
 4. providing an explanation (cause or significant contributory factor).
 
 **Cases:** *Golds* (2016) "substantially" = important or weighty; *Dowds* (2012) acute voluntary intoxication not a recognised condition; *Dietschmann* (2003) abnormality plus drink; *Wood* (2008) alcohol dependency syndrome.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-fatal-offences-against-the-person--04-diminished-responsibility.webp" width="900" height="672" alt="Diminished responsibility requires an abnormality of mental functioning that arose from a recognised medical condition, substantially impaired the defendant’s ability to understand, judge rationally or exercise self-control, and provides an explanation for the acts. Cases: Golds (substantially means important or weighty), Dowds (voluntary intoxication is not a condition), Dietschmann (drink plus abnormality) and Wood (alcohol dependency syndrome)." loading="lazy">
+  <figcaption>A recognised condition that substantially impaired the defendant and explains the killing.</figcaption>
+</figure>
 
 ## Unlawful act manslaughter
 
@@ -90,6 +115,11 @@ D proves on the balance of probabilities:
 | Causation; victim's free act breaks chain | *Kennedy (No 2)* (2007); contrast *Cato* (1976) |
 | Mens rea of unlawful act only | *Newbury and Jones* (1977) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-fatal-offences-against-the-person--05-unlawful-act-manslaughter.webp" width="900" height="629" alt="Four elements of unlawful act manslaughter: a criminal act, not an omission (Franklin, Lamb, Lowe); dangerous on the objective Church test, with the reasonable person knowing what the defendant knew (Dawson, Watson, JM and SM); causing death, with the chain broken by the victim’s free and informed act (Kennedy) but not in Cato; and only the mens rea of the unlawful act (Newbury and Jones), even if not aimed at the victim (Goodfellow, Mitchell)." loading="lazy">
+  <figcaption>A dangerous criminal act that causes death, with only the mens rea of that act.</figcaption>
+</figure>
+
 ## Gross negligence manslaughter
 
 *Adomako* (1995), following *Bateman* (1925):
@@ -98,6 +128,11 @@ D proves on the balance of probabilities:
 3. Serious and obvious risk of **death** (*Misra and Srivastava*, 2004), foreseeable at the time on information then available (*Rose*, 2017).
 4. Causation.
 5. Gross negligence: so bad as to be criminal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-fatal-offences-against-the-person--06-gross-negligence-manslaughter.webp" width="900" height="487" alt="Five elements of gross negligence manslaughter from Adomako: a duty of care, which can arise in an illegal enterprise (Wacker) or from creating a dangerous situation (Evans); breach; a serious and obvious risk of death, not injury (Misra and Srivastava), judged on information at the time (Rose); causation of death; and negligence so gross as to be criminal. The jury asks whether the conduct deserves criminal punishment." loading="lazy">
+  <figcaption>Duty, breach, obvious risk of death, causation, and negligence bad enough to be a crime.</figcaption>
+</figure>
 
 ## Key terms
 

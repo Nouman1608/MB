@@ -42,6 +42,16 @@ questions on Weimar and Nazi Germany are in the
 | 4. Nazi Germany, 1933–39 | Reichstag Fire, Enabling Act, Long Knives, Führer; control; social, racial and economic policy |
 | 5. The Second World War | Ghettos, Einsatzgruppen, Final Solution; Home Front; opposition; end of the Reich |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-germany-dictatorship--03-de-hyperinflation.webp" width="900" height="737" alt="A flow from the French and Belgian occupation of the Ruhr in January 1923, through passive resistance and money printing, to a dollar worth over four trillion marks by November 1923. Savings were destroyed and middle classes hurt most, while debtors benefited." loading="lazy">
+  <figcaption>Printing money to fund passive resistance turned inflation into hyperinflation in 1923.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-germany-dictatorship--04-de-recovery.webp" width="900" height="836" alt="A rising staircase: Rentenmark (Nov 1923), Dawes Plan 1924, Locarno 1925, League of Nations 1926, Kellogg-Briand Pact 1928, Young Plan 1929, ending with a warning that the recovery rested on short-term American loans." loading="lazy">
+  <figcaption>Recovery came through a currency fix, reparations plans and diplomacy, but relied on American loans.</figcaption>
+</figure>
+
 ## Timeline
 
 | Date | Event |
@@ -75,6 +85,16 @@ questions on Weimar and Nazi Germany are in the
 | 20 July 1944 | July Bomb Plot |
 | 30 Apr 1945 | Hitler's suicide; surrender in May |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-germany-dictatorship--01-de-timeline.webp" width="900" height="1086" alt="A timeline of Germany from 1918 to 1945 drawn to scale, with bands for early Weimar, recovery, Hitler’s rise, Nazi Germany and the war. Key events from the Kaiser’s abdication to the surrender are placed beside it." loading="lazy">
+  <figcaption>The Weimar Republic, Hitler’s dictatorship and the war drawn to scale from 1918 to 1945.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-germany-dictatorship--06-de-dictatorship.webp" width="900" height="779" alt="A flow: Reichstag Fire (27 Feb 1933), Enabling Act (March 1933), unions abolished and parties banned (July 1933), Night of the Long Knives (30 June 1934), Hindenburg’s death and Hitler as Führer (August 1934), and the army’s personal oath." loading="lazy">
+  <figcaption>Hitler removed rivals and legal limits step by step until he combined the offices as Führer.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -93,6 +113,11 @@ questions on Weimar and Nazi Germany are in the
 | Einsatzgruppen | SS death squads in the occupied East |
 | Final Solution | Nazi plan to murder all European Jews |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-germany-dictatorship--02-de-constitution.webp" width="900" height="750" alt="Two columns compare the Weimar constitution’s strengths (votes for men and women over 20, a bill of rights, an elected president) with its weaknesses (proportional representation causing many parties and short-lived coalitions, and Article 48 emergency decrees)." loading="lazy">
+  <figcaption>The Weimar constitution had democratic strengths but two serious weaknesses.</figcaption>
+</figure>
+
 ## Nazi control at a glance
 
 | Method | Examples | How successful? |
@@ -103,6 +128,11 @@ questions on Weimar and Nazi Germany are in the
 | Winning support | Falling unemployment, Strength Through Joy | Many accepted the regime; workers' wages remained low |
 | Churches | Concordat (1933); Reich Church; arrests of critics | Partial — Churches remained the largest independent institutions |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-germany-dictatorship--07-de-persecution.webp" width="900" height="805" alt="A staircase from the 1933 boycott of Jewish shops, the Nuremberg Laws and Kristallnacht, through ghettos in occupied Poland, death squads in 1941 and the Wannsee Conference in 1942, to the death camps where about six million Jews were killed." loading="lazy">
+  <figcaption>Persecution escalated from boycott and laws to ghettos, mass shootings and death camps.</figcaption>
+</figure>
+
 ## Worked example: two effects
 
 *Explain two effects of the Depression on Germany, 1929–32.*
@@ -112,6 +142,11 @@ questions on Weimar and Nazi Germany are in the
    "work and bread".
 2. **Political breakdown** — coalitions could not agree on cuts, so chancellors such as Brüning
    governed by Article 48 decrees; democracy was already being bypassed before Hitler took office.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-germany-dictatorship--05-de-seats.webp" width="900" height="906" alt="A bar chart shows Nazi Reichstag seats: 12 in 1928, 107 in 1930 and 230 in July 1932, when they became the largest party. Six person icons show about six million unemployed by 1932. Hitler became chancellor on 30 January 1933." loading="lazy">
+  <figcaption>The Depression took the Nazis from 12 seats in 1928 to 230 in July 1932.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

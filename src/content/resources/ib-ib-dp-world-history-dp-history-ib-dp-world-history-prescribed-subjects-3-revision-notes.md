@@ -40,6 +40,11 @@ Related: [Move to global war study guide](/resources/ib-ib-dp-world-history-dp-h
 9. **1940**: northern Indochina occupied; Tripartite Pact (September); US restricts scrap iron and steel exports.
 10. **1941**: Neutrality Pact with the USSR (April); southern Indochina occupied (July); US freezes assets and halts oil; Pearl Harbor (7 December).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-3--02-japan-action-response.webp" width="900" height="762" alt="Paired rows from 1931 to December 1941, actions on the left and responses on the right. Manchuria in 1931 and Manchukuo in 1932 met the Lytton Report and Japan's exit from the League without sanctions; pressure on north China met the Xi'an Incident and the United Front; war with China from 1937; the Tripartite Pact and Indochina met US economic pressure, ending in the oil embargo of 1941 and the attack on Pearl Harbor in December 1941." loading="lazy">
+  <figcaption>The League condemned but did not act; US pressure came late and helped trigger war.</figcaption>
+</figure>
+
 ## Germany and Italy, 1933-1940: chain of events
 
 1. **1933**: Germany leaves the Disarmament Conference and the League.
@@ -51,6 +56,11 @@ Related: [Move to global war study guide](/resources/ib-ib-dp-world-history-dp-h
 7. **1939**: Germany occupies Bohemia and Moravia (March); British guarantee to Poland; Italy invades Albania (April); Pact of Steel (May); Nazi-Soviet Pact (August); Poland invaded (1 September); Britain and France declare war (3 September).
 8. **1940**: German offensives in the west; Italy declares war (10 June).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-3--04-europe-action-response.webp" width="900" height="844" alt="Paired rows from 1935 to 1940, aggression on the left and responses on the right: German conscription against the Stresa Front, the invasion of Abyssinia against limited League sanctions and the Hoare-Laval plan, the Rhineland in 1936, the Anschluss and Munich in 1938, the occupation of Prague against the guarantee to Poland, the invasion of Poland and the declaration of war in 1939, and the fall of France and Italy's entry in 1940." loading="lazy">
+  <figcaption>Weigh the aggressors' intentions against the failure of responses, and how they interacted.</figcaption>
+</figure>
+
 ## Causes: factor grid
 
 | Factor | Japan | Germany | Italy |
@@ -59,6 +69,16 @@ Related: [Move to global war study guide](/resources/ib-ib-dp-world-history-dp-h
 | Economics | Depression and silk collapse; need for raw materials | Rearmament and the search for resources | Economic weakness; colonial prestige |
 | Domestic politics | Army independence; assassinations; weak cabinets | Dictatorship from 1933; foreign success built popularity | Mussolini's need for prestige |
 | Opportunity | Chinese disunity; Western powers distracted by the Depression | Divided Britain and France; distrust of the USSR | Anglo-French reluctance to lose Italy as an ally against Germany |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-3--01-japan-causes.webp" width="900" height="493" alt="Three causes point to Japanese expansion from September 1931: nationalism and militarism, including officers' violence such as Inukai's assassination in 1932 and the February 26 Incident of 1936; Depression pressures, with the silk trade devastated and Manchuria offering resources; and instability in China under Chiang Kai-shek." loading="lazy">
+  <figcaption>Ideology, economics and opportunity combined; questions ask you to weigh them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-3--03-germany-italy-causes.webp" width="900" height="500" alt="A grid comparing Germany and Italy. Ideology: Nazism sought to reverse Versailles, unite German-speakers and gain Lebensraum; Fascism celebrated war and imagined a new Roman empire. Economics: German rearmament strained the economy; Mussolini hoped colonies would distract from weakness. Below, the international system gave both openings: weakened collective security, hesitant Britain and France, a distrusted USSR and an absent US." loading="lazy">
+  <figcaption>Aggressors' aims and a weak international system together made expansion possible.</figcaption>
+</figure>
 
 ## Responses: what was done and why it failed
 

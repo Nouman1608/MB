@@ -62,6 +62,21 @@ except deaths from lawful acts of war.
 - **Evans v UK (2007)**: destroying embryos after consent withdrawn did not breach Article 2.
 - **Pretty v UK (2002)**: no right to die.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-2-of-the-european-convention-on-human-rights-1953--01-article-2-obligations.webp" width="900" height="552" alt="Article 2.1, a limited right with no derogation except for deaths from lawful acts of war, produces four duties: the negative duty not to take life (McCann v UK), the positive framework duty to have effective criminal law and regulation (Öneryildiz v Turkey), the positive operational duty to protect people at real and immediate risk (Osman v UK), and the procedural duty to investigate (Jordan v UK)." loading="lazy">
+  <figcaption>Do not kill, protect life through laws and action, and investigate deaths.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-2-of-the-european-convention-on-human-rights-1953--02-osman-test.webp" width="900" height="671" alt="The Osman test in five parts: the authorities knew or ought to have known of a real and immediate risk to the life of an identified individual from a third party’s criminal acts, and failed to take reasonable measures. Applied: Osman v UK, test not met; Edwards v UK, breach; Van Colle, no breach; Rabone, breach." loading="lazy">
+  <figcaption>The operational duty is demanding: the risk must be real, immediate and known.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-2-of-the-european-convention-on-human-rights-1953--03-scope-of-life.webp" width="900" height="381" alt="Three cases along a line from the start to the end of life. Vo v France: the Court declined to decide whether an unborn child is a person, leaving it to the margin of appreciation. Evans v UK: no breach when embryos were to be destroyed. Pretty v UK: Article 2 gives no right to die, so the assisted suicide ban did not breach it." loading="lazy">
+  <figcaption>Article 2 leaves unborn life to the state and gives no right to die.</figcaption>
+</figure>
+
 ## Article 2.2
 
 Force **no more than absolutely necessary**:
@@ -81,10 +96,25 @@ Force **no more than absolutely necessary**:
 | Stewart v UK (1984) | Commission: plastic baton round in a riot within 2.2(c); no breach |
 | Güleç v Turkey (1998) | Live fire on demonstrators not absolutely necessary; no less lethal equipment; breach |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-2-of-the-european-convention-on-human-rights-1953--04-article-2-2-test.webp" width="900" height="818" alt="Three questions for lethal force: was it for an aim in Article 2.2 (a) defence from unlawful violence, (b) lawful arrest or preventing escape, (c) quelling a riot; was it no more than absolutely necessary, a stricter test judged on honest belief for good reasons (Da Silva); and was the operation planned to minimise risk (McCann). Below, Stewart v UK found no breach in a riot, Güleç v Turkey found a breach." loading="lazy">
+  <figcaption>A listed aim, absolute necessity and careful planning: all three are needed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-2-of-the-european-convention-on-human-rights-1953--05-mccann-two-levels.webp" width="900" height="453" alt="McCann v UK: soldiers shot three IRA suspects in Gibraltar. The soldiers themselves did not breach Article 2 because they honestly believed a bomb could be detonated remotely. The violation came from planning and control: no earlier arrest, no allowance for wrong intelligence, and training to shoot to kill." loading="lazy">
+  <figcaption>Even where the shooter is not at fault, poor planning can breach Article 2.</figcaption>
+</figure>
+
 ## Procedural duty (Jordan v UK, 2001)
 
 Investigation must be: **independent** · **effective** (able to establish facts and identify those
 responsible) · **prompt** · open to **public scrutiny** · involve the **family**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-2-of-the-european-convention-on-human-rights-1953--06-jordan-investigation.webp" width="900" height="472" alt="Five features of an effective investigation from Jordan v UK: independent, capable of establishing the facts and identifying those responsible, prompt, open to public scrutiny, and involving the family of the deceased. Failing these can breach Article 2 on its own." loading="lazy">
+  <figcaption>The duty to investigate can be breached on its own.</figcaption>
+</figure>
 
 ## Key terms
 

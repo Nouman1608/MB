@@ -43,6 +43,11 @@ Quick-recall notes for three sub-topics of Cambridge O Level Commerce (7100): 2.
 | Cash and carry | Wholesale warehouse where retailers choose goods, pay at once and take them away |
 | Voluntary chain | Independent retailers agree to buy mainly from one wholesaler and share a trading name and promotions |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--08-o-outsourcing-types.webp" width="900" height="900" alt="Two panels. In contract manufacturing a brand owner who designs, brands and sells sends an agreed design to a specialist factory that makes the goods. In contract logistics the brand owner sends stock to a logistics firm, which stores and packs it in a warehouse, then delivers it by truck to the customer." loading="lazy">
+  <figcaption>Contract manufacturing and contract logistics are the two outsourcing areas the syllabus names.</figcaption>
+</figure>
+
 ## 2.2 Outsourcing — five reasons for growth, four risks
 
 **Reasons (learn with a "so that"):**
@@ -54,6 +59,11 @@ Quick-recall notes for three sub-topics of Cambridge O Level Commerce (7100): 2.
 5. Ecommerce and digital communication — so that fast delivery is available and distant contractors can be managed easily.
 
 **Risks:** loss of control over quality and timing · dependence on one contractor · confidential designs leaked · reputation harmed by a contractor's poor conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-outsourcing--05-bloom-box-logistics.webp" width="900" height="665" alt="In-house logistics for 2,000 orders costs $8,000 ($4.00 per order) against $7,000 from a provider at $3.50 per order. At 800 orders in-house costs $7,520 ($9.40 per order) against $2,800 from the provider." loading="lazy">
+  <figcaption>Mostly fixed in-house costs make outsourcing even cheaper when sales are low.</figcaption>
+</figure>
 
 ## 2.4 Wholesaling — who benefits from what
 
@@ -72,6 +82,26 @@ WHOLESALER    -- breaking bulk, range, credit, delivery, advice,
 - **Voluntary chains:** wholesaler plus independent shops; bulk buying lowers prices, shared brand and promotions help shops compete with large retailers; shops stay independently owned.
 
 **Why wholesalers lose trade:** large supermarket chains buy direct from manufacturers and have their own warehouses; ecommerce lets manufacturers sell direct to consumers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--10-o-wholesaler-manufacturer.webp" width="900" height="800" alt="A factory sends large orders in crates to a wholesaler warehouse, and the wholesaler sends payment back promptly. Six tiles list the wholesaler functions for the manufacturer: buys in bulk, stores goods, bears the risk, pays promptly, distributes to many shops and gives market information." loading="lazy">
+  <figcaption>The wholesaler buys in bulk, stores, bears risk, pays promptly, distributes and gives market information.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--11-o-wholesaler-retailer.webp" width="900" height="800" alt="A wholesaler warehouse sends small parcels to a retailer shop, and the retailer pays later because the wholesaler gives credit. Six tiles list the wholesaler functions for the retailer: breaks bulk, wide range of goods, gives credit, delivers to the shop, gives advice and prepares goods." loading="lazy">
+  <figcaption>The wholesaler breaks bulk, offers range and credit, delivers, advises and prepares goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--09-o-wholesaler-transactions.webp" width="900" height="1140" alt="Top panel: four factories each connected directly to six shops by 24 crossing lines, labelled 4 times 6 equals 24 deals. Bottom panel: the same four factories and six shops all connected through one wholesaler warehouse, giving 4 plus 6 equals 10 deals. The numbers are illustrative." loading="lazy">
+  <figcaption>With one wholesaler in the chain there are far fewer separate deals (illustrative numbers).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--12-o-wholesaler-survival.webp" width="900" height="1040" alt="Top panel: a retailer with a trolley collects goods from a cash and carry warehouse and pays immediately. There is no credit and no delivery, so prices are lower. Bottom panel: a wholesaler supplies four independently owned shops that buy most of their stock from it and share a brand name and joint promotions, giving lower prices." loading="lazy">
+  <figcaption>Cash and carry and voluntary chains are the two ways independent wholesalers survive.</figcaption>
+</figure>
 
 ## 2.6 Communication
 
@@ -92,6 +122,16 @@ WHOLESALER    -- breaking bulk, range, credit, delivery, advice,
 | Instant help on a website at night | Chatbot | Urgency and cost |
 | Notice to people in a shopping centre | Poster | Visual reach at a location |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--13-o-comm-types.webp" width="900" height="800" alt="Four cards show the four types of communication and the methods under each. Written: letter. Oral: telephone and face to face. Electronic: email, web-based chat including chatbots, social media and videoconferencing. Visual: poster. In total four types and eight methods." loading="lazy">
+  <figcaption>Four types of communication and the eight methods the syllabus lists.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--14-o-comm-factors.webp" width="900" height="925" alt="Six rows pair each factor with an example method choice. Urgency: telephone or web chat. Cost: email rather than printed letters. Security: face to face or secure email. Distance: videoconferencing. Availability of networks: letter or telephone if internet is poor. Importance of the message: a letter if a formal record is needed." loading="lazy">
+  <figcaption>Six factors that decide which communication method to use, each with an example choice.</figcaption>
+</figure>
+
 ## Command words for these sub-topics
 
 - **State / identify** — a list is enough: "contract manufacturing and contract logistics".
@@ -105,6 +145,11 @@ WHOLESALER    -- breaking bulk, range, credit, delivery, advice,
 
 - Advantage: lower prices, because the wholesaler saves the cost of credit and delivery [1], which raises the retailer's profit margin [1].
 - Disadvantage: the retailer must pay immediately and transport the goods itself [1], which uses the owner's time and harms cash flow [1].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-wholesaling--05-cash-and-carry-comparison.webp" width="900" height="565" alt="Delivered wholesaler: 50 cases × $12.00 = $600 with free delivery and 30 days’ credit. Cash and carry: 50 × $11.20 = $560 plus $25 own transport = $585, paid at once. Cash and carry saves $15." loading="lazy">
+  <figcaption>Cash and carry is $15 cheaper here, but the shop pays at once and gives up a morning (invented figures).</figcaption>
+</figure>
 
 ## Exam traps
 

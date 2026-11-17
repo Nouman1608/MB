@@ -34,6 +34,11 @@ The [satisfaction at work study guide](/resources/cambridge-a-level-psychology-9
 - **4.5.2**: the Job Descriptive Index; Walton's eight QWL conditions and the QWL evaluation scale.
 - **4.5.3**: sabotage methods and reasons, key study Giacalone and Rosenfeld (1987); Blau and Boal's absenteeism and commitment model.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--04-job-design.webp" width="900" height="735" alt="Enrichment loads a job vertically with planning and decisions, enlargement loads it horizontally with more tasks at the same level, and rotation moves a worker between jobs at intervals. A table gives examples: a cleaner planning the rota, a packer also labelling, a shop assistant moving between till, stockroom and customer service." loading="lazy">
+  <figcaption>Enrichment adds responsibility; enlargement adds tasks; rotation adds movement.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |
@@ -67,6 +72,11 @@ The [satisfaction at work study guide](/resources/cambridge-a-level-psychology-9
 | Relationships with colleagues | Advancement |
 | Job security | |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--01-herzberg-two-scales.webp" width="900" height="866" alt="Two separate scales. Hygiene factors (pay, company policy, supervision, working conditions, relationships, security) move a worker between dissatisfied and not dissatisfied. Motivators (achievement, recognition, the work itself, responsibility, advancement) move a worker from not satisfied to satisfied. Limitations are a self-serving bias in the method and a narrow sample." loading="lazy">
+  <figcaption>Hygiene factors only remove dissatisfaction; motivators create satisfaction.</figcaption>
+</figure>
+
 ## Herzberg and Hackman and Oldham compared
 
 | | Herzberg | Hackman and Oldham |
@@ -76,10 +86,25 @@ The [satisfaction at work study guide](/resources/cambridge-a-level-psychology-9
 | Practical advice | Enrich jobs with motivators; fix hygiene to stop complaints | Raise autonomy and feedback first, as they multiply the MPS |
 | Main criticism | Self-serving bias in recalled incidents | Self-rated characteristics may reflect existing satisfaction |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--02-job-characteristics.webp" width="900" height="809" alt="Skill variety, task identity and task significance lead to experienced meaningfulness; autonomy leads to experienced responsibility for outcomes; feedback leads to knowledge of results. The three states lead to high internal motivation, satisfaction and quality of work. The model is testable but relies on job holders rating their own jobs." loading="lazy">
+  <figcaption>Five job characteristics work through three psychological states.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--03-motivating-potential-score.webp" width="900" height="518" alt="The motivating potential score is the average of skill variety, task identity and task significance, multiplied by autonomy and by feedback. A varied job with no autonomy or no feedback has a motivating potential of zero." loading="lazy">
+  <figcaption>Autonomy and feedback multiply, so either at zero gives a score of zero.</figcaption>
+</figure>
+
 ## JDI facets and QWL conditions
 
 - **JDI five facets**: work itself, pay, promotion opportunities, supervision, co-workers.
 - **QWL eight conditions**: fair compensation; safe and healthy conditions; use and development of capacities; growth and security; social integration; constitutionalism; work and total life space; social relevance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--05-jdi-and-qwl.webp" width="900" height="710" alt="The JDI measures five facets (work itself, pay, promotion opportunities, supervision, co-workers), with workers answering yes, no or ? to adjectives such as routine or fascinating. Walton's quality of working life lists eight conditions, rated on a QWL evaluation scale; it is broader than the JDI because it includes work-life balance and social relevance." loading="lazy">
+  <figcaption>The JDI profiles five facets; QWL takes a broader view of working life.</figcaption>
+</figure>
 
 ## Key study grid: Giacalone and Rosenfeld (1987)
 
@@ -93,6 +118,11 @@ The [satisfaction at work study guide](/resources/cambridge-a-level-psychology-9
 | Conclusion | Sabotage is often presented as a reasoned response to the work situation |
 | Weaknesses | Attitudes not behaviour; self-report; one workplace |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--06-giacalone-rosenfeld.webp" width="900" height="899" alt="Study card for Giacalone and Rosenfeld (1987): unionised factory workers rated reasons that might justify sabotage and four methods (slowdowns, destructiveness, dishonesty, causing chaos). Those accepting more reasons justified every method except dishonesty. Conclusion: sabotage signals grievances. Evaluation covers attitudes versus behaviour, one workplace, reduced social desirability and situational explanations." loading="lazy">
+  <figcaption>Workers who accepted more reasons justified more sabotage, except dishonesty.</figcaption>
+</figure>
+
 ## Blau and Boal's four categories
 
 | | High organisational commitment | Low organisational commitment |
@@ -101,6 +131,11 @@ The [satisfaction at work study guide](/resources/cambridge-a-level-psychology-9
 | **Low job involvement** | Corporate citizens | Apathetic employees |
 
 Apathetic employees are predicted to be absent most; institutionalised stars least.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-satisfaction-at-work--07-blau-boal.webp" width="900" height="753" alt="A two-by-two grid of job involvement against organisational commitment: institutionalised stars (high, high) are absent least and mainly involuntarily; lone wolves have high involvement and low commitment; corporate citizens have low involvement and high commitment; apathetic employees (low, low) are absent most, often voluntarily." loading="lazy">
+  <figcaption>Low involvement and low commitment predict the most, and most voluntary, absence.</figcaption>
+</figure>
 
 ## Linking to issues and debates
 

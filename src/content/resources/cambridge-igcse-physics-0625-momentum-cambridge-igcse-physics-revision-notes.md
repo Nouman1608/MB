@@ -53,6 +53,11 @@ Links:
 - Rebound: Δp = m(v − u) with v and u of **opposite sign**, so the change is the sum of the magnitudes.
   - 0.20 kg ball, 10 m/s in, 8.0 m/s out: Δp = 0.20 × (−8.0 − 10) = −3.6 kg m/s; size 3.6 N s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-momentum-cambridge-igcse-physics--01-ball-rebound-impulse.webp" width="900" height="616" alt="A 0.15 kg ball hits a wall at +20 m/s (momentum +3.0 kg m/s) and rebounds at −15 m/s (−2.25 kg m/s). The change in momentum is −5.25 kg m/s, an impulse of 5.25 N s away from the wall; over 0.010 s the average force is 525 N." loading="lazy">
+  <figcaption>A rebound reverses the velocity, so the change in momentum is the sum of the two sizes.</figcaption>
+</figure>
+
 ## Conservation problems: three types
 
 | Type | Before | After | Equation pattern |
@@ -67,11 +72,26 @@ Always finish with the **direction** of the velocity you found.
 
 **Worked check (recoil).** A 40 kg boy steps forwards off a stationary 80 kg boat at 2.0 m/s: 0 = 40 × 2.0 + 80 v, so the boat moves at **1.0 m/s backwards**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-momentum-cambridge-igcse-physics--02-trolleys-stick-together.webp" width="900" height="746" alt="A 0.40 kg trolley moving right at 5.0 m/s meets a 0.60 kg trolley moving left at 2.0 m/s and they stick together. Total momentum before is 2.0 − 1.2 = 0.80 kg m/s, so afterwards the 1.00 kg pair moves at 0.80 m/s to the right. Kinetic energy falls from 6.2 J to 0.32 J." loading="lazy">
+  <figcaption>Total momentum before equals total momentum after; signs show direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-momentum-cambridge-igcse-physics--03-push-apart-and-bounce.webp" width="900" height="560" alt="Left: 60 kg and 40 kg skaters at rest push apart; the 40 kg skater moves at 1.5 m/s, so the 60 kg skater moves at 1.0 m/s the opposite way and the total stays zero. Right: a 2.0 kg trolley at 3.0 m/s hits a stationary 4.0 kg trolley, which moves off at 2.0 m/s; the 2.0 kg trolley bounces back at 1.0 m/s." loading="lazy">
+  <figcaption>Starting from rest, the momenta after are equal and opposite.</figcaption>
+</figure>
+
 ## Force and time: safety
 
 - For the same change in momentum, **longer time → smaller force**.
 - Crumple zones, airbags, seat belts, helmets, crash mats, bending your knees: all **increase Δt**.
 - A golfer or batter "following through" keeps the force acting for longer, so the ball gains more momentum (larger impulse).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-momentum-cambridge-igcse-physics--04-airbag-force.webp" width="900" height="640" alt="A 5.0 kg head moving at 14 m/s has a change in momentum of 70 kg m/s when stopped. Against a hard dashboard in 0.010 s the force is 7000 N; with an airbag over 0.10 s it is 700 N. The bars are to scale. Longer stopping time, same change in momentum, smaller force." loading="lazy">
+  <figcaption>Same change in momentum over ten times the time: one tenth of the force.</figcaption>
+</figure>
 
 ## Key terms
 

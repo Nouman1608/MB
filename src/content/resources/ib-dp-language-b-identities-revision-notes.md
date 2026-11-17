@@ -43,12 +43,22 @@ questions the IB lists for the theme -- how do language and culture contribute t
 identity? -- is a useful key question to
 apply to any Identities text, whether written, audio, visual or audio-visual.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-identities--01-identities-theme-map.webp" width="900" height="576" alt="The Identities theme, which explores the nature of the self and what it means to be human, is linked to five recommended topics: lifestyles, health and well-being, beliefs and values, subcultures, and language and identity. Below, the key question how do language and culture contribute to forming an identity is shown as a lens for any text." loading="lazy">
+  <figcaption>Five recommended topics and one key question to apply to any text.</figcaption>
+</figure>
+
 ## Vocabulary and comprehension practice
 
 Because Paper 2's reading and listening sections are worth 50% combined -- as much as productive
 writing and the internal oral put together -- comprehension vocabulary specific to this theme
 (describing personality, values, cultural belonging, lifestyle choices) deserves dedicated practice
 time, not just the vocabulary needed to talk about the theme yourself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-identities--03-detail-to-key-question.webp" width="900" height="469" alt="Three linked cards: the surface content (traditional dress has changed over time), the specific detail to find (what changed, when and why), and the broader theme question (how the change reflects a shift in how the community's identity is expressed across generations). Below, only extracting facts is contrasted with connecting detail to theme." loading="lazy">
+  <figcaption>The skill tested is linking a specific detail to the broader theme question.</figcaption>
+</figure>
 
 ## Worked example: applying the key question to an unseen text
 
@@ -82,6 +92,11 @@ are explicitly neither prescriptive nor exhaustive) and is instead given by that
 instructions -- format and register are assessed alongside content, so a well-argued response in the
 wrong text-type conventions loses marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-identities--04-text-type-categories.webp" width="900" height="432" alt="Three cards show the broad text-type categories with examples: personal (blog post, diary entry, letter to a friend), highlighted as often suiting Identities; professional (formal letter, report); and mass media (article, interview). A note says the exam instructions set the text type and register is assessed alongside content." loading="lazy">
+  <figcaption>Personal texts often suit Identities, but the exam sets the type and conventions are marked.</figcaption>
+</figure>
+
 ## The individual oral connection
 
 For SL students, the individual oral uses a visual stimulus relevant to one of the five themes — if
@@ -109,6 +124,11 @@ content of an Identities text without connecting it to the theme's key question 
 culture and identity formation. Assuming familiarity with a theme discussed heavily in class
 guarantees comprehension of unfamiliar texts on it in the exam.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-identities--05-pitfalls-and-fixes.webp" width="900" height="436" alt="A table pairs three pitfalls with fixes: summarising surface content instead of connecting to the key question; assuming speaking practice guarantees comprehension instead of practising unseen texts; and ignoring register instead of following the text type's conventions." loading="lazy">
+  <figcaption>Apply the theme as a lens, practise unseen texts, and respect text-type conventions.</figcaption>
+</figure>
+
 ## Quick revision checklist
 
 - Build vocabulary across all five recommended Identities topics (lifestyles, health/well-being,
@@ -126,6 +146,11 @@ the five themes Paper 2's unseen material can be drawn from, and one of several 
 Paper 1's writing task and the individual oral's stimulus. Revision is most effective when it builds
 transferable comprehension and production fluency around the theme's vocabulary and key question,
 rather than treating Identities as a fixed block of content to recall verbatim.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-identities--02-receptive-half.webp" width="900" height="575" alt="A balance with two equal pans of 50 percent. Paper 2 listening and reading, on unseen texts, weighs the same as Paper 1 writing and the oral together. A note says fluent speaking on Identities does not automatically transfer to comprehension of unseen texts." loading="lazy">
+  <figcaption>Paper 2 alone weighs as much as writing and the oral together: build comprehension vocabulary too.</figcaption>
+</figure>
 
 ## Self-test
 

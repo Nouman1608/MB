@@ -44,6 +44,16 @@ Language      Urdu throughout, with your own teacher/examiner
   IGCSE grade, which comes from Paper 1 and Paper 2.
 - Not every centre offers it, so confirm with your teacher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-component-5-speaking--01-component-at-a-glance.webp" width="900" height="587" alt="Component 5 Speaking is worth 60 marks, lasts about 10-12 minutes and is graded 1 to 5 as a separate endorsement. The teacher conducts and marks the test at the centre, then a recorded sample goes to Cambridge for external moderation." loading="lazy">
+  <figcaption>A teacher-run, 60-mark spoken test, moderated by Cambridge and graded 1 to 5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-component-5-speaking--03-separate-endorsement.webp" width="900" height="640" alt="Paper 1 Reading and Writing and Paper 2 Listening combine into the overall IGCSE grade. Component 5 Speaking is optional and leads to its own separate endorsement graded 1 (high) to 5 (low)." loading="lazy">
+  <figcaption>Speaking earns its own 1-5 endorsement; it does not change the IGCSE grade.</figcaption>
+</figure>
+
 ## The three parts
 
 | Part | What happens | Can you prepare it? |
@@ -52,12 +62,27 @@ Language      Urdu throughout, with your own teacher/examiner
 | **2 Discussion** | The examiner discusses your presentation with you; you explain and justify opinions in natural, unscripted Urdu | Partly: know your topic, not a script |
 | **3 General conversation** | Two or three general topics you do **not** know in advance | No script possible |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-component-5-speaking--02-three-parts.webp" width="900" height="677" alt="A timeline of the three parts: Part 1 Presentation (2-3 minutes), Part 2 Discussion of the presentation (3-4 minutes) and Part 3 General Conversation on two or three unseen topics (3-4 minutes, 20 marks)." loading="lazy">
+  <figcaption>Presentation, then discussion of it, then an unprepared general conversation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-component-5-speaking--04-prepared-to-spontaneous.webp" width="900" height="540" alt="A scale from most prepared to most spontaneous. Part 1 uses a topic chosen in advance; Part 2 keeps the topic but the questions are unknown; in Part 3 both topics and questions are unknown, so only broad spoken practice prepares you." loading="lazy">
+  <figcaption>Each part asks for less script and more spontaneous Urdu than the one before.</figcaption>
+</figure>
+
 ## Choosing a Part 1 topic
 
 Pick a topic you can speak about in depth, with a real connection to Urdu-speaking society or
 culture, for example a festival, a family tradition or regional food. It must last for the 2-3
 minute outline **and** sustain the Part 2 discussion. Depth matters more than a topic that sounds
 impressive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-component-5-speaking--05-choosing-a-topic.webp" width="900" height="630" alt="Two overlapping circles: a personal interest and Urdu-speaking society or culture; a strong topic sits in the overlap. Examples are a regional cuisine, a family tradition, a festival or a piece of Urdu literature, checked for enough depth to sustain both the presentation and the discussion." loading="lazy">
+  <figcaption>Pick where your own interest meets Urdu-speaking culture, with depth for 5-7 minutes of talk.</figcaption>
+</figure>
 
 ## Useful phrases
 
@@ -82,6 +107,11 @@ Use **آپ** with the examiner. Give an opinion, a reason **and** an example: th
 2. For each, build a small bank of vocabulary and two or three opinion phrases, **not** full scripts.
 3. Practise being asked questions without warning, aloud, with a teacher or fluent speaker.
 4. Practise "why" and "what do you think" questions about your Part 1 topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-component-5-speaking--06-preparing-for-part-3.webp" width="900" height="596" alt="Four steps: identify the general topic areas, build a vocabulary and opinion-phrase bank for each, practise answering unannounced questions with a teacher or fluent speaker, and aim for natural rather than recited answers." loading="lazy">
+  <figcaption>Prepare words and opinions, not scripts, then practise being surprised.</figcaption>
+</figure>
 
 ## Exam traps
 

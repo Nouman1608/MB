@@ -34,6 +34,11 @@ precision -- exact original values can only be estimated once grouped. Always ti
 disadvantage of grouping" answer to the specific context given (large range, ease of comparison), not
 a generic response.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--15-grouped-and-ungrouped.webp" width="900" height="1085" alt="Same 40 illustrative values drawn as an ungrouped distribution (12 bars) and as three classes of four values: 0-3 with 20, 4-7 with 14, 8-11 with 6. Grouping is easier to read but exact values are lost." loading="lazy">
+  <figcaption>Grouping summarises large data but loses precision.</figcaption>
+</figure>
+
 ## Discrete vs continuous class terminology (outcome 2) -- the most error-prone sub-topic
 
 | Data type | What's required |
@@ -46,11 +51,21 @@ it asks for class boundaries, midpoints and widths. Keep the two cases apart.
 (This is separate from the equal-class-widths rule below, which applies to frequency polygons specifically
 -- histograms must still handle unequal class widths via frequency density.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--16-limits-boundaries-midpoints-widths.webp" width="900" height="1030" alt="Discrete class 10-19: limits 10 and 19, boundaries 9.5 and 19.5, midpoint 14.5, width 10. Continuous class 30 to under 40: boundaries 30 and 40, midpoint 35, width 10; limits and boundaries coincide." loading="lazy">
+  <figcaption>Discrete classes need limits and boundaries; continuous classes need boundaries only.</figcaption>
+</figure>
+
 ## Histograms (outcome 3)
 
 Bar **area** — not height — represents frequency. This only visibly matters with **unequal class
 widths**, where the vertical axis must read "frequency density" (= frequency ÷ class width) rather
 than frequency. Forgetting this conversion is a frequent, avoidable error that distorts bar shape.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--17-frequency-density-histogram.webp" width="900" height="925" alt="Histogram with frequency density on the vertical axis: class 10 to under 30 has density 0.4 (area 8) and class 30 to under 40 has density 1.2 (area 12), so the narrower class has the taller bar." loading="lazy">
+  <figcaption>Bar area, not height, represents frequency when class widths differ.</figcaption>
+</figure>
 
 ## Frequency polygons (outcome 4)
 
@@ -58,6 +73,11 @@ Used specifically with **equal class widths**. Plot frequency against each class
 boundary — that's the histogram/cumulative-curve rule), then join the points. The tool of choice when
 comparing two distributions on the same axes, since two polygons overlay far more clearly than two
 histograms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--18-frequency-polygons.webp" width="900" height="890" alt="Two frequency polygons on one set of axes, plotted at class midpoints 5 to 45 with equal widths of 10. Class A has frequencies 3, 8, 15, 9, 5 and class B has 6, 12, 12, 7, 3." loading="lazy">
+  <figcaption>Polygons use midpoints and overlay clearly for comparison.</figcaption>
+</figure>
 
 ## Cumulative frequency (outcomes 5–6)
 
@@ -67,6 +87,11 @@ Plot against **upper class boundaries**. Continuous data → smooth cumulative f
 straight-line polygon. Reading this curve correctly (value from the horizontal axis vs. cumulative
 frequency from the vertical axis) is a skill Topic 4 reuses directly to estimate the median of grouped
 data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-statistics-frequency-distributions--19-cumulative-frequency.webp" width="900" height="1030" alt="Table of illustrative frequencies 4, 9, 14, 8, 5 with running totals 4, 13, 27, 35, 40, and a cumulative frequency polygon plotted at upper class boundaries. Reading at value 25 gives cumulative frequency 20." loading="lazy">
+  <figcaption>A cumulative frequency graph turns running totals into a curve you can read.</figcaption>
+</figure>
 
 ## Worked example: converting to frequency density
 

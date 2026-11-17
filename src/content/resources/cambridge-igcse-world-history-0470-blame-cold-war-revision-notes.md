@@ -63,6 +63,11 @@ the [Cold War origins practice questions](/resources/cambridge-igcse-world-histo
 | Disputes | Size of reparations; meaning of "free elections" | Reparations from own zones; Soviet control of Eastern Europe |
 | Other | USSR to fight Japan; United Nations planned | Truman mentions a new weapon |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-blame-cold-war--01-yalta-potsdam.webp" width="900" height="579" alt="A comparison of the two 1945 conferences. Yalta (February): Roosevelt, Churchill and Stalin agreed zones, Soviet entry against Japan and a UN, with a vague deal on Poland. Potsdam (July-August): Truman, Attlee and Stalin confirmed four zones and the Oder-Neisse line but clashed over reparations, and Truman mentioned a new weapon." loading="lazy">
+  <figcaption>By Potsdam the leaders, the mood and the balance of power had all changed.</figcaption>
+</figure>
+
 ## Soviet expansion in four steps
 
 1. **Liberation by the Red Army**, which stayed after 1945.
@@ -73,12 +78,22 @@ the [Cold War origins practice questions](/resources/cambridge-igcse-world-histo
 **Motives to quote:** security after invasions through Poland in 1914 and 1941; huge wartime losses; ideology;
 reparations and economic control.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-blame-cold-war--02-salami-tactics.webp" width="900" height="732" alt="Three numbered steps: coalition governments with communists holding the police, removal of opponents slice by slice, and rigged elections with merged parties. A table applies them to Poland, Hungary, Romania and Bulgaria, and Czechoslovakia, with Yugoslavia as the independent exception." loading="lazy">
+  <figcaption>Coalition, salami tactics, rigged elections: the same method country by country.</figcaption>
+</figure>
+
 ## The American answer: containment
 
 - **Truman Doctrine:** political promise to support "free peoples" against outside pressure; aid to Greece and Turkey.
 - **Marshall Plan:** economic aid of about $13 billion to rebuild Europe and remove the poverty that fed communism;
   rejected by the USSR and its satellites.
 - **Soviet counter-moves:** Cominform (parties) and Comecon (economies).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-blame-cold-war--03-action-reaction.webp" width="900" height="1087" alt="A vertical timeline from 1946 to 1949 drawn to scale. Western moves on the right: the Long Telegram and Fulton speech (1946), the Truman Doctrine (March 1947), the Marshall Plan (June 1947), the Deutschmark (June 1948) NATO (April 1949) and the Federal Republic (May 1949). Bizonia (1947) is also on the right. Soviet moves on the left: rigged Polish elections (January 1947), Cominform (1947), the Czech takeover (February 1948), the Berlin Blockade (24 June 1948) and its lifting (May 1949). A note adds Comecon, the GDR and the Warsaw Pact (1955)." loading="lazy">
+  <figcaption>Each side's move looked like aggression to the other, and drew a reply.</figcaption>
+</figure>
 
 ## Berlin: causes and consequences
 
@@ -87,6 +102,11 @@ force the West out of Berlin or stop a strong West Germany.
 
 **Consequences:** the airlift kept West Berlin supplied; Stalin backed down; Germany split into FRG and GDR in 1949;
 NATO founded; the USA committed to the defence of western Europe; the Cold War in Europe became a military stand-off.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-blame-cold-war--04-berlin-blockade.webp" width="900" height="614" alt="Three causes, different aims for Germany, Bizonia (1947) and the Deutschmark (June 1948), lead to the Blockade and Airlift from 24 June 1948 to 12 May 1949. Three consequences follow: a propaganda defeat for Stalin, two German states in 1949, and NATO (April 1949)." loading="lazy">
+  <figcaption>The blockade backfired: it divided Germany and created NATO.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -114,6 +134,11 @@ NATO founded; the USA committed to the defence of western Europe; the Cold War i
   western moves in Germany broke four-power co-operation.
 - **Both / neither:** ideological opposites; each side's defensive actions looked aggressive to the other; the
   collapse of Germany left a power vacuum both had to fill.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-blame-cold-war--05-who-to-blame.webp" width="900" height="579" alt="A balance tilted against the USSR. The case against the USSR: broken Yalta promises, control by force and fraud, revolutionary ideology and the Berlin Blockade. The case against the USA: the atomic monopoly, Truman's hard line, the Marshall Plan and Western currency reform. A note separates Stalin's intentions from his actions." loading="lazy">
+  <figcaption>Separate intentions from actions to reach a judgement.</figcaption>
+</figure>
 
 ## Exam traps
 

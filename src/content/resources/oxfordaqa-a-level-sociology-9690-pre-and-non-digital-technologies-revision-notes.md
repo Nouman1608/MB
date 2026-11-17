@@ -63,6 +63,31 @@ These notes condense content point **3.2.3.1 Pre-and non-digital technologies** 
 - Constructionist: Pinch and Bijker's bicycle; Winner (1980), Long Island bridges (evidence disputed); Cowan (1983), household technology did not cut women's housework; Wajcman (1991), technology shaped by gender relations.
 - Middle: Latour's actor-network theory; soft determinism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-pre-and-non-digital-technologies--01-taylor-ford.webp" width="900" height="623" alt="A grid comparing Taylorism, Fordism and post-Fordism by source, key features and sociological reading, with a note that the Luddites opposed how machines were used rather than machines themselves." loading="lazy">
+  <figcaption>What matters is not the machine but how it is used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-pre-and-non-digital-technologies--02-sectors.webp" width="900" height="507" alt="Three sectors of work: extraction, with the mining community of Coal Is Our Life; manufacturing, with factory discipline; and services, with Hochschild’s emotional labour. A note frames the deskilling debate." loading="lazy">
+  <figcaption>Each sector shaped community, control and emotion at work differently.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-pre-and-non-digital-technologies--03-mobilities.webp" width="900" height="560" alt="Railways, cars and air travel compared: Schivelbusch on rail perception and standard time, the Model T, car-based cities that disadvantage people without cars, and unevenly shared air travel, with environmental effects." loading="lazy">
+  <figcaption>Each transport revolution brought freedom for some and costs for many.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-pre-and-non-digital-technologies--04-consumption.webp" width="900" height="655" alt="Four explanations of consumption: Veblen’s display, Bourdieu’s taste and cultural capital, Baudrillard’s sign value and planned obsolescence such as the Phoebus cartel, with evaluation." loading="lazy">
+  <figcaption>Consumption signals status and class as well as meeting needs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-pre-and-non-digital-technologies--05-determinism-construction.webp" width="900" height="689" alt="A spectrum from determinist cases (White’s stirrup, Marx, McLuhan) through middle positions (Latour, soft determinism) to constructionist cases (Winner, Cowan, Wajcman). A diagram shows the two reasons household machines did not reduce women’s housework time." loading="lazy">
+  <figcaption>Technologies make some outcomes easier, but social choices shape how they are used.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |

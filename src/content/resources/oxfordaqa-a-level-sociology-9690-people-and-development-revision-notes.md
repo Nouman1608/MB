@@ -104,6 +104,21 @@ Assessment reminders from the specification: AO1, AO2 and AO3 are roughly equal 
 | Mies (1986) | Feminist: housewifisation | Women's work is treated as cheap or unpaid | Factory jobs may also give women income |
 | Collier (2007) | Conflict trap | War destroys investment and makes more war likely | Economic focus; less on identity and history |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--01-why-europe.webp" width="900" height="788" alt="A grid of four explanations for why Europe industrialised first: Rostow’s modernisation stages, Weber’s Protestant work ethic, dependency theory from Frank and Rodney, and Williams on slavery, each with a criticism. Pomeranz stresses coal and colonial resources." loading="lazy">
+  <figcaption>Values, exploitation and resources offer competing accounts of the Great Divergence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--03-globalisation-views.webp" width="900" height="510" alt="Neo-liberals such as Ohmae see globalisation spreading prosperity; negative globalists Bello and Polanyi see it deepening inequality; transformationalists such as Held see real but mixed change, including glocalisation." loading="lazy">
+  <figcaption>Each view links globalisation to different winners and losers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--05-aid-debate.webp" width="900" height="497" alt="Sachs argues a targeted big push of aid can break a poverty trap; Moyo, Easterly and Marxists argue aid breeds dependency, ignores local knowledge or serves donors." loading="lazy">
+  <figcaption>The debate turns on what kind of aid, not aid in general.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Colonialism vs neocolonialism.** Direct rule versus indirect control after independence.
@@ -115,6 +130,21 @@ Assessment reminders from the specification: AO1, AO2 and AO3 are roughly equal 
 - **Internal vs international migration.** Within one state versus across borders under visa control.
 - **TNC vs NGO.** Profit-making firm versus non-profit organisation.
 - **Bilateral vs multilateral aid.** State to state versus through agencies such as the World Bank.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--02-imperialism.webp" width="900" height="383" alt="A sequence from European exploration and trade, through the Atlantic trade in enslaved Africans and colonial rule with extraction of raw materials, to neocolonial control through debt, trade terms and investment after independence." loading="lazy">
+  <figcaption>Control shifted from direct rule to debt, trade and investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--04-actors.webp" width="900" height="531" alt="Six groups involved in globalisation: nation states, TNCs, transnational and UN agencies, NGOs, grassroots movements and indigenous peoples, each with its role and an example or criticism." loading="lazy">
+  <figcaption>Power in globalisation runs from top-down agencies to grassroots action.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--06-push-pull.webp" width="900" height="597" alt="Lee’s model: push factors at the origin such as poverty, conflict, persecution and climate change; intervening obstacles such as distance, cost and border law; and pull factors at the destination such as jobs, safety and family." loading="lazy">
+  <figcaption>Push, pull and intervening obstacles, but structures and networks also matter.</figcaption>
+</figure>
 
 ## Mini essay plan
 
@@ -128,6 +158,11 @@ Assessment reminders from the specification: AO1, AO2 and AO3 are roughly equal 
 6. **Other obstacles.** Wars and the conflict trap (Collier). Climate crisis hitting poorer countries.
 7. **Evaluation.** East Asian growth challenges dependency; inequality within countries challenges modernisation.
 8. **Judgement.** Weigh, then give a reasoned conclusion based on your own society example.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--07-obstacles.webp" width="900" height="707" alt="A grid comparing modernisation, Marxist and feminist views of obstacles to development: the main obstacle each identifies, key thinkers such as Frank, Wallerstein, Mies and Hochschild, and a criticism of each." loading="lazy">
+  <figcaption>Each perspective places the obstacle somewhere different: values, capitalism or patriarchy.</figcaption>
+</figure>
 
 ## Quick self-test
 

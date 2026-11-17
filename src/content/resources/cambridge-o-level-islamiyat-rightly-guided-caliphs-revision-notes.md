@@ -46,6 +46,16 @@ states. Events before 632, during the Prophet's lifetime, belong to Paper 1.
 | Key achievement | Unity restored; Qur'an gathered into one copy | Conquests and administration | Standard copies of the Qur'an; navy | Justice and learning in a time of crisis |
 | End of rule | Died of illness | Stabbed by Abu Lu'lu'a | Martyred by rebels in Madina | Struck by Ibn Muljam in Kufa |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--01-caliphs-timeline.webp" width="900" height="517" alt="A scaled bar from 632 to 661 divided into the rules of Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (656–661), with key events for each: Usama's army, the Ridda wars and the collection of the Qur'an; Umar's conquests and administration; Uthman's expansion, navy, standard copies and the siege; and Ali's battles of the Camel, Siffin and Nahrawan." loading="lazy">
+  <figcaption>Four rules in under thirty years; Umar and Uthman ruled longest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--06-how-each-was-chosen.webp" width="900" height="567" alt="Four cards: Abu Bakr chosen by discussion at the Saqifa and a public pledge; Umar nominated by Abu Bakr after consultation; Uthman chosen by a council of six through Abd al-Rahman ibn Awf; and Ali chosen in Madinah after Uthman's death. The members of the council of six are listed." loading="lazy">
+  <figcaption>Four different methods, each resting on consultation and consent.</figcaption>
+</figure>
+
 ## Abu Bakr: key points
 
 - First sermon: "Obey me as long as I obey Allah and His Messenger."
@@ -53,6 +63,11 @@ states. Events before 632, during the Prophet's lifetime, belong to Paper 1.
 - Ridda wars against false prophets (Musaylima defeated at Yamama) and tribes refusing zakat.
 - Qur'an compiled by Zayd ibn Thabit after many memorisers died at Yamama.
 - Early campaigns into Iraq and Syria under Khalid ibn al-Walid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--02-abu-bakr-problems-responses.webp" width="900" height="729" alt="Five problems and Abu Bakr's responses: choosing a leader at the Saqifa; sending Usama's army despite danger at home; the Ridda wars against tribes refusing zakat and false prophets, ending at Yamama; collecting the Qur'an after huffaz died; and nominating Umar after consultation." loading="lazy">
+  <figcaption>Abu Bakr met each crisis firmly and kept the community and the Qur'an intact.</figcaption>
+</figure>
 
 ## Umar: key points
 
@@ -63,6 +78,11 @@ states. Events before 632, during the Prophet's lifetime, belong to Paper 1.
 - Congregational tarawih prayers.
 - Accountability: checked governors' wealth and listened to complaints.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--03-umar-building-a-state.webp" width="900" height="581" alt="Umar at the centre with four areas: expansion through Yarmuk, Qadisiyya, Jerusalem, Egypt and Nahawand; administration with governors, separate qadis, the bayt al-mal, the diwan, garrison towns and the Hijri calendar; accountability through checks on governors; and religion, gathering Muslims for tarawih." loading="lazy">
+  <figcaption>Conquest, institutions and accountability: Umar turned a community into a state.</figcaption>
+</figure>
+
 ## Uthman: key points
 
 - Expansion into North Africa, Armenia and parts of Persia; first navy (Cyprus).
@@ -71,6 +91,16 @@ states. Events before 632, during the Prophet's lifetime, belong to Paper 1.
 - Generous with his own wealth.
 - Opposition over appointment of relatives as governors; siege of his house; martyred while reading the Qur'an, refusing to let blood be shed on his behalf.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--04-uthman-achievements-difficulties.webp" width="900" height="571" alt="Two columns. Achievements: chosen by the council of six, expansion into North Africa, Armenia and Persia, the first navy and Cyprus, standard copies of the Qur'an and the enlarged Prophet's Mosque. Difficulties: relatives appointed as governors, complaints from Egypt, Kufa and Basra, the siege of his house and his killing in 656." loading="lazy">
+  <figcaption>Uthman's rule brought growth and the standard Qur'an, but also division.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--07-uthman-difficulties-chain.webp" width="900" height="792" alt="A vertical chain: a large empire with new Muslims; disputes over recitation resolved by standardisation; criticism of relatives as governors; complaints from Egypt, Kufa and Basra; an alleged letter turning the Egyptian delegation back; the siege of his house, where he refused to let others fight for him; and his killing in 656." loading="lazy">
+  <figcaption>Each difficulty led to the next; include Uthman's response at every step.</figcaption>
+</figure>
+
 ## Ali: key points
 
 - Took office amid crisis; demands to punish Uthman's killers.
@@ -78,6 +108,11 @@ states. Events before 632, during the Prophet's lifetime, belong to Paper 1.
 - Battle of Siffin (657) against Mu'awiya; arbitration accepted.
 - Kharijites rejected arbitration; defeated at Nahrawan (658).
 - Renowned for knowledge of the Qur'an, judgement and bravery.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--05-ali-civil-conflict.webp" width="900" height="719" alt="Six steps through Ali's rule: chosen in Madinah in 656; the Battle of the Camel over punishing Uthman's killers; the capital moved to Kufa; arbitration at Siffin in 657; the defeat of the Kharijites at Nahrawan in 658; and his death at Kufa in 661." loading="lazy">
+  <figcaption>Camel, Siffin, Nahrawan: three crises in three years, in that order.</figcaption>
+</figure>
 
 ## Leadership qualities and modern lessons
 

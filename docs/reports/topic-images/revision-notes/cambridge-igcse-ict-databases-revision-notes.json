@@ -1,0 +1,7 @@
+{ "page": "cambridge-igcse-ict-databases-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--01-db-table-anatomy.webp", "after": "## Key definitions"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--02-db-keys.webp", "after": "### Flat file vs relational database"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--04-db-criteria.webp", "after": "## 18.2 How do you manipulate data?"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--05-db-query-worked.webp", "after": "### Worked example: building a query"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--06-db-report-quality.webp", "after": "## 18.3 How should a report be presented?"}
+] }

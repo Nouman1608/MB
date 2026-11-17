@@ -42,6 +42,16 @@ total change     = natural change + net migration
   countries.
 - Infant mortality is per 1,000 **live births**, not per 1,000 people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--01-components-of-change.webp" width="900" height="755" alt="A population box with births and immigrants flowing in and deaths and emigrants flowing out. Below, three equations: natural change equals birth rate minus death rate and can be negative; net migration equals immigrants minus emigrants; total change equals natural change plus net migration. A warning notes that infant mortality is per 1,000 live births." loading="lazy">
+  <figcaption>Births, deaths and migration: the only three ways a population changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--06-calculating-change.webp" width="900" height="545" alt="A birth rate of 32 per 1,000 minus a death rate of 9 gives natural change of 23 per 1,000, or 2.3 per cent. Adding net migration of minus 2 gives total change of 21 per 1,000, or 2.1 per cent. Multiplying by a population of 40 million and dividing by 1,000 gives a yearly increase of 840,000 people." loading="lazy">
+  <figcaption>Natural change, then add migration, then scale up to the population.</figcaption>
+</figure>
+
 ## Why world population grew so fast
 
 - Roughly 1 billion around 1800; UN estimates 7 billion in 2011 and 8 billion in November 2022.
@@ -50,6 +60,11 @@ total change     = natural change + net migration
   economic value of children, which change slowly.
 - The **gap** between the two rates is the growth. Most growth now is in low-income countries,
   especially sub-Saharan Africa.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--02-death-rate-gap.webp" width="900" height="640" alt="A schematic graph: the death rate falls first while the birth rate stays high, and falls only later; the shaded gap between them is rapid growth. Reasons deaths fell: better food supply, clean water and sewage disposal, vaccination and antibiotics, hygiene knowledge. Births lag because family decisions change over a generation. A timeline marks about 1 billion people around 1800, 7 billion in 2011 and 8 billion in November 2022." loading="lazy">
+  <figcaption>Death rates fell before birth rates did; the gap drove the boom.</figcaption>
+</figure>
 
 ## Contrasting rates
 
@@ -66,6 +81,11 @@ malaria and HIV/AIDS.
 **Twist worth one mark:** an ageing high-income country can have a higher crude death rate than a
 youthful low-income one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--03-birth-rate-factors.webp" width="900" height="775" alt="Five factor groups, each with what pushes the birth rate up and down. Economic: children as farm workers and old-age support versus the cost of children in cities. Social: early marriage and low status of women versus women in education and work. Health: high versus low infant mortality and contraception. Cultural and religious: valuing large families versus smaller family norms. Political: pro-natalist versus anti-natalist policy." loading="lazy">
+  <figcaption>Group the factors, then say which way each pushes the rate.</figcaption>
+</figure>
+
 ## Over-, under- and optimum population
 
 - **Over-population**: too many people for the resources and technology to give a decent standard
@@ -74,6 +94,11 @@ youthful low-income one.
   **Australia** (large area, rich resources, planned immigration).
 - **Optimum**: the population giving the highest standard of living.
 - Density is **not** the test. The Netherlands is dense but not over-populated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--04-over-under-population.webp" width="900" height="705" alt="Three balances of people against resources. Over-population: the people side is heavier, with food shortages, unemployment and overcrowding; Bangladesh is often used as an example. Optimum: balanced, giving the highest standard of living. Under-population: the resources side is heavier, with labour shortages and unused land or minerals; Australia is often used. A note says density alone is not over-population, as the Netherlands shows." loading="lazy">
+  <figcaption>Over- and under-population compare people with resources, not with area.</figcaption>
+</figure>
 
 ## Population policies
 
@@ -92,6 +117,11 @@ youthful low-income one.
 | | Coercion and human rights concerns |
 
 **Judgement:** effective at slowing growth, but the costs led to its reversal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--05-china-one-child.webp" width="900" height="620" alt="A timeline: the one-child policy around 1979 to 1980, relaxed to two children from 2016 and three in 2021. Four evaluation steps: growth slowed but the birth rate was already falling; unintended consequences of more boys than girls, rapid ageing and the 4-2-1 family; human rights concerns over coercion; and an overall judgement of effective but costly. A diagram shows four grandparents, two parents and one adult child who may have to support all six." loading="lazy">
+  <figcaption>Judge a policy against its aims, its side effects and its acceptability.</figcaption>
+</figure>
 
 ## Policy example closer to home: Pakistan
 

@@ -37,6 +37,11 @@ is in the [Modern texts study guide](/resources/aqa-gcse-english-literature-8702
 | Split in AQA mark schemes | AO1 12, AO2 12, AO3 6, then AO4 4 |
 | Book | Closed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-modern-texts--01-marks-and-aos.webp" width="900" height="670" alt="A bar splits 34 marks: AO1 12, AO2 12 and AO3 6 make the 30-mark question, plus 4 marks for AO4. Below, each objective is described, and a note says marking is holistic and that AO2 is required." loading="lazy">
+  <figcaption>The 30 marks reward response, methods and context; AO4 adds 4 for accurate writing.</figcaption>
+</figure>
+
 ## Core recall
 
 - **No extract** means your evidence must be memorised and portable: short quotations and precise
@@ -50,6 +55,11 @@ is in the [Modern texts study guide](/resources/aqa-gcse-english-literature-8702
   irony or a message for the audience.
 - **AO4 counts here.** Spell names correctly, capitalise and mark titles, and vary sentences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-modern-texts--02-choosing-the-question.webp" width="900" height="590" alt="Three checks for choosing a question: can I argue something, can I cover the whole text from beginning to end, and do I have quotations for it? Below, a character question is shown to be a theme question too, because a character is a construct used to explore ideas." loading="lazy">
+  <figcaption>Choose the question you can argue, cover across the text and quote on.</figcaption>
+</figure>
+
 ## Key terms for drama
 
 | Term | Meaning | Use in an answer |
@@ -61,6 +71,11 @@ is in the [Modern texts study guide](/resources/aqa-gcse-english-literature-8702
 | Cliffhanger | Tense end to an act or scene | Structure, suspense |
 | Register | Level of formality in speech | Class, power, change in a character |
 | Proxemics | How characters are positioned on stage | Distance, power, closeness |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-modern-texts--03-drama-and-prose-methods.webp" width="900" height="520" alt="Two columns. Drama, analysed as performance: stage directions, entrances and exits, dramatic irony, dialogue, and structural devices. Prose, analysed as how the story is told: narrator and viewpoint, symbolism, allegory, structure, and dialogue and voice." loading="lazy">
+  <figcaption>A play is analysed as performance; a novel or story by how it is told.</figcaption>
+</figure>
 
 ## Key terms for prose
 
@@ -82,6 +97,11 @@ For each character and theme:
 - One sentence on how the character or theme changes.
 - One context link that explains the writer's purpose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-modern-texts--07-memory-bank.webp" width="900" height="538" alt="A strip for the whole text from beginning to end with five short quotation tokens spread along it. Below, three cards: one sentence on how the character or theme changes, one method per quotation, and one context link that genuinely explains something." loading="lazy">
+  <figcaption>Short quotations from across the text, each with a method, plus one change and one context link.</figcaption>
+</figure>
+
 ## Planning in five minutes
 
 1. Underline the focus and any bullet points.
@@ -89,6 +109,11 @@ For each character and theme:
 3. Choose four moments spread across the text.
 4. Note a method and a quotation or event for each.
 5. Add one context link where it explains a choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-modern-texts--05-plan-by-moment.webp" width="900" height="688" alt="A one-sentence argument about the Birlings sits above four planned moments: the opening celebration with the Titanic called unsinkable, each family member’s link to Eva Smith revealed in turn, Sheila and Eric compared with their parents, and the final telephone call. A dashed arrow loops from the end back to the start to show the circular ending." loading="lazy">
+  <figcaption>Four chosen moments from opening to ending, each serving one argument.</figcaption>
+</figure>
 
 ## Exam traps
 
@@ -111,6 +136,11 @@ Choose what fits your text:
 - Gender expectations and how they are challenged.
 - Race, migration, identity and belonging.
 - Youth, family and growing up in a particular place and time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-modern-texts--04-two-contexts.webp" width="900" height="692" alt="A timeline marks when a text is set (what the characters know) and when it was written (what the audience knows), with the gap between them often deliberate. In the example, An Inspector Calls is set in 1912, when Birling calls the Titanic unsinkable, but was written after the Second World War for an audience who knew it sank. Chips list other contexts: class, gender, race, migration and identity." loading="lazy">
+  <figcaption>The gap between setting and writing gives the audience knowledge the characters lack.</figcaption>
+</figure>
 
 ## Self-test
 

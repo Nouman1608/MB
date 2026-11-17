@@ -32,6 +32,11 @@ Condensed recall for sub-topic 6.4 of Cambridge IGCSE Environmental Management (
 - "Normal" = compared with the usual amount for that place.
 - So a desert is not automatically in drought; a wet region can be.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-drought--01-measured-against-normal.webp" width="900" height="742" alt="Two sketch bar charts of yearly rainfall. A desert receives close to its normal small amount, so it is not in drought. A rainforest region receives far less than its own normal, so it is in drought, even though it still gets more rain than the desert’s normal." loading="lazy">
+  <figcaption>Compare rainfall with what the place normally receives, not with other places.</figcaption>
+</figure>
+
 ## How drought differs from other hazards
 
 | Feature | Drought | Earthquake, cyclone, flood |
@@ -52,6 +57,11 @@ This explains why monitoring is so useful for drought and why impacts such as fa
 
 Human overuse of water worsens impacts but is not a named cause.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-drought--02-causes.webp" width="900" height="669" alt="Lack of rain and climate change both lead to water stores not being refilled or drying out faster. Climate change works through higher temperatures, which increase evaporation and transpiration, and more extreme weather events. The result is drought. A note says human water use is not a named cause but worsens the impacts." loading="lazy">
+  <figcaption>Name both syllabus causes; human water use only makes the impacts worse.</figcaption>
+</figure>
+
 ## Impacts (6.4.3): ten
 
 Water sources dry up · loss of crops, livestock and habitats · soil erosion · desertification · death of organisms · famine · increased risk of wildfires · decrease in air quality · financial losses · human health.
@@ -61,6 +71,11 @@ Chains:
 - Dry soil → loses structure → blown away by wind → erosion → desertification.
 - Dry vegetation → wildfires → smoke → decrease in air quality → breathing problems.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-drought--03-impact-chains.webp" width="900" height="725" alt="Lack of water branches into three chains. Centre: crops fail and livestock die, food prices rise and stores run out, leading to famine, malnutrition and migration. Left: dry, bare soil is eroded, leading to desertification. Right: dry vegetation feeds wildfires that reduce air quality and cause breathing problems." loading="lazy">
+  <figcaption>Explain impacts as chains: lack of water, then the effect, then the consequence.</figcaption>
+</figure>
+
 ## Strategies (6.4.4): five, one with four parts
 
 1. **Monitoring and warning**: rainfall, river and reservoir levels, soil moisture, satellite images of vegetation.
@@ -68,6 +83,11 @@ Chains:
 3. **Water conservation**: restrictions, fixing leaks, drip irrigation, low-flush toilets, greywater reuse, less thirsty crops.
 4. **Increasing water supply**: dams and reservoirs · aquifers and wells · desalination · rainwater harvesting.
 5. **International aid**: food, water, money, medical help.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-drought--04-strategies.webp" width="900" height="766" alt="Cross-section showing four ways to increase water supply: a dam storing a reservoir, a well drawing ground water from an aquifer, a house collecting rainwater from its roof into a tank, and a coastal desalination plant taking in sea water. Below, cards list monitoring and warning, emergency supplies, water conservation and international aid." loading="lazy">
+  <figcaption>Increasing supply means storing, pumping, collecting or making fresh water.</figcaption>
+</figure>
 
 ## Benefit and limitation pairs (6.4.5)
 
@@ -81,6 +101,11 @@ Chains:
 | Desalination | Independent of rain | Energy, cost, brine waste, coastal only |
 | Rainwater harvesting | Cheap, local | Nothing collected during drought |
 | International aid | Food and water when all else fails | Late, dependency |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-drought--05-judgement.webp" width="900" height="676" alt="Three bands. Cheap and work everywhere: water conservation and monitoring and warning. Cost more but give longer-term security: dams and reservoirs, aquifers and wells, desalination and rainwater harvesting. Last resort when drought becomes famine: international aid." loading="lazy">
+  <figcaption>Combine cheap, everyday measures with supply schemes; keep aid for when drought becomes famine.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -102,6 +127,16 @@ Chains:
 
 - **Percentage of normal rainfall** = actual ÷ normal × 100. Example: 300 mm in a place that usually gets 500 mm = 60% of normal, 40% below.
 - **Rainwater harvested** = rainfall (m) × roof area (m²) × fraction collected; 1 m³ = 1,000 litres.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-drought--06-percentage-of-normal.webp" width="900" height="580" alt="Bar chart: normal rainfall 800 mm a year against 440 mm this year, a shortfall of 360 mm. Working beside the chart gives 55% of normal, or 45% below normal." loading="lazy">
+  <figcaption>Describe a drought’s severity as a percentage of normal rainfall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-drought--07-rainwater-harvesting.webp" width="900" height="528" alt="Four steps: 0.6 m of rain on a 50 m² roof gives 30 m³; collecting 80% gives 24 m³; that is 24,000 litres; at 100 litres a day it lasts 240 days. A note shows that 300 mm of rain would halve the store to 12,000 litres." loading="lazy">
+  <figcaption>Convert rainfall to metres, multiply by area, then by the share collected.</figcaption>
+</figure>
 
 ## Exam traps
 

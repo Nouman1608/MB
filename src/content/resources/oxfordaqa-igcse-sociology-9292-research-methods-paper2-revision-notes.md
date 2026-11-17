@@ -29,6 +29,11 @@ Condensed notes on **3.1.3 Research methods as applied in Paper 2 Exploring Soci
 
 **Method + topic + group + issue.** For every point, say which method, which Paper 2 topic, which people, and which practical, ethical or theoretical issue arises. Add an example from your own society where the question asks for one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--01-applying-a-method.webp" width="900" height="583" alt="A general point, “questionnaires are cheap”, becomes application when it names the topic, the group and the issue: a questionnaire about income may suffer from social desirability because people under-report or exaggerate earnings." loading="lazy">
+  <figcaption>Name the topic, the group and the issue in every evaluation point.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -58,12 +63,32 @@ Condensed notes on **3.1.3 Research methods as applied in Paper 2 Exploring Soci
 - **Social mobility**: retrospective questions (cheap, rely on memory) v cohort studies, such as Britain's 1958 National Child Development Study (valid, costly, people drop out).
 - **The powerful**: gatekeepers, refusals and polished images make elites hard to study, so inequality research may be one-sided.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--02-operationalising-class.webp" width="900" height="648" alt="Social class can be operationalised by an occupational scale such as NS-SEC, by income and wealth, or by subjective class. Each has validity problems: occupational scales miss people without jobs and the very rich, income data may be refused or inaccurate, and subjective class captures identity rather than position." loading="lazy">
+  <figcaption>How class is measured changes who ends up in which class.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--03-intersectionality-sampling.webp" width="900" height="646" alt="An illustrative sample of 200 dots in which only a handful belong to one combined subgroup, such as working-class women from one minority group: too few to analyse reliably. So researchers need large, stratified or multistage samples, then qualitative interviews to show how combined disadvantages are experienced." loading="lazy">
+  <figcaption>Combined groups get small fast, so samples must be large and stratified.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--04-researching-mobility.webp" width="900" height="508" alt="Retrospective questions ask people to look back, for example at a parent’s job when they were 14: cheaper but reliant on memory. Longitudinal cohort studies, such as the National Child Development Study of people born in 1958, follow the same people forward: more valid but expensive, and participants drop out." loading="lazy">
+  <figcaption>Look back cheaply, or follow forward validly but at a cost.</figcaption>
+</figure>
+
 ## Researching socialisation and social control (3.2.2)
 
 - **Children**: consent from child and parent or guardian; power imbalance; wellbeing and safeguarding; use observation, group interviews and simple activities.
 - **Media**: content analysis is reliable and quantitative but does not show audience interpretation; Stanley Cohen used newspaper coverage to show a moral panic.
 - **Institutions**: Goffman's *Asylums* (1961) used ethnographic fieldwork in a psychiatric hospital to show how total institutions strip and reshape identity; one setting limits generalisation.
 - **Digital data**: Zuboff's surveillance capitalism; online data gives scale, but consent and representativeness are problems.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--05-researching-children.webp" width="900" height="509" alt="Three ethical issues in researching children: informed consent from child and parent or guardian, the power imbalance between adult and child, and wellbeing if harm is revealed. Practical alternatives include observation in schools or play settings, short group interviews and simple activities." loading="lazy">
+  <figcaption>Consent, power and wellbeing shape every study involving children.</figcaption>
+</figure>
 
 ## Measuring crime (3.2.2.4): match the measure to the crime
 
@@ -75,6 +100,11 @@ Condensed notes on **3.1.3 Research methods as applied in Paper 2 Exploring Soci
 | Corporate, white-collar | Court and regulatory records | Only discovered cases |
 | Cybercrime | Victim surveys; bank and platform data | Victims unaware |
 | State crime | Documents, journalism, testimony | State controls records |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--06-matching-crime-measures.webp" width="900" height="713" alt="Six crime types matched to the best measure and the reason: burglary and vehicle crime to police statistics with victim surveys; domestic abuse to confidential victim surveys; drug use to self-report studies; corporate crime to court and regulatory records; cybercrime to victim surveys and bank data; state crime to documents, journalism and testimony." loading="lazy">
+  <figcaption>The best measure depends on the type of crime.</figcaption>
+</figure>
 
 ## Evaluation checklist
 

@@ -1,0 +1,7 @@
+{ "page": "igcse-computer-science-databases-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--13-table-anatomy.webp", "after": "## Key definitions" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--17-key-choice.webp", "after": "## Key definitions" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--14-data-types.webp", "after": "## Choosing data types" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--15-query-order.webp", "after": "## SQL layout to learn" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--16-where-matrix.webp", "after": "## SQL layout to learn" }
+] }

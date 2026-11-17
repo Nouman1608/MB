@@ -1,0 +1,12 @@
+{ "page": "edexcel-ial-biology-proteins-enzymes-dna-protein-synthesis-and-inheritance-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp", "after": "## Levels of protein structure (2.6 iii)" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--03-activation-energy.webp", "after": "## Enzymes (2.7)" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--02-lock-key-induced-fit.webp", "after": "## Enzymes (2.7)" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--05-temperature-ph.webp", "after": "## Core Practical 4: factors affecting the initial rate (2.8)" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--04-initial-rate.webp", "after": "## Core Practical 4: factors affecting the initial rate (2.8)" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--02-bases-pairing.webp", "after": "## Nucleotides, DNA and RNA (2.9)" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--04-replication-fork.webp", "after": "## DNA replication (2.10 i)" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--05-meselson-stahl.webp", "after": "## Meselson and Stahl (2.10 ii)" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--07-translation-ribosome.webp", "after": "## Protein synthesis (2.13)" },
+ { "src": "https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp", "after": "## Mutation (2.14)" }
+] }

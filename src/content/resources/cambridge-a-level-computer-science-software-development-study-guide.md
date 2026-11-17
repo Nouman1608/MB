@@ -29,6 +29,7 @@ reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
+updatedDate: 2026-11-17
 featured: false
 reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
@@ -96,14 +97,15 @@ Select data that covers each type of case. For an input that accepts ages 13 to 
 | Type | Purpose | Examples |
 |---|---|---|
 | Normal | Valid data that should be accepted | 14, 18 |
-| Boundary (extreme) | Values at the edge of what is allowed | 13 and 19 |
-| Abnormal (erroneous) | Invalid data that should be rejected | 12, 20, "ten", -5 |
+| Extreme | The smallest and largest values that are accepted | 13 and 19 |
+| Boundary | Values on each side of a limit: the last accepted and the first rejected | 12 and 13; 19 and 20 |
+| Abnormal (erroneous) | Invalid data that should be rejected | -5, 30, "ten" |
 
-For a boundary check, also test the first value just outside each limit, which is why 12 and 20 are in the abnormal row.
+Extreme data is always accepted. Boundary data tests both sides of each limit, so 12 and 20 are boundary values that should be rejected. Do not call abnormal data "extreme".
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--04-sd-test-data.webp" width="900" height="700" alt="A number line from 10 to 22 for an age input that accepts 13 to 19. 14 and 18 are normal, 13 and 19 are boundary and accepted, 12 and 20 are abnormal and rejected, and the word ten and the number minus 5 are also abnormal." loading="lazy">
-  <figcaption>Where normal, boundary and abnormal test data sit for an input accepting ages 13 to 19.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--04-sd-test-data-v2.webp" width="900" height="700" alt="A number line from 10 to 22 for an age input that accepts 13 to 19. 14 and 18 are normal. 13 and 19, the smallest and largest accepted values, are extreme. The boundary pairs are 12 and 13, and 19 and 20: the last value accepted and the first rejected on each side. Minus 5, 30 and the word ten are abnormal." loading="lazy">
+  <figcaption>Normal, extreme, boundary and abnormal test data for an input accepting ages 13 to 19.</figcaption>
 </figure>
 
 
@@ -139,12 +141,12 @@ A program accepts a score from 0 to 50 inclusive and prints "Pass" for 25 or mor
 |---|---|---|---|
 | 1 | 37 | Normal | Pass |
 | 2 | 10 | Normal | Fail |
-| 3 | 0 | Boundary | Fail |
-| 4 | 50 | Boundary | Pass |
+| 3 | 0 | Extreme | Fail |
+| 4 | 50 | Extreme | Pass |
 | 5 | 25 | Boundary (pass mark) | Pass |
 | 6 | 24 | Boundary (just below) | Fail |
-| 7 | 51 | Abnormal | Error message, rejected |
-| 8 | -1 | Abnormal | Error message, rejected |
+| 7 | 51 | Boundary (first rejected) | Error message, rejected |
+| 8 | -1 | Boundary (first rejected) | Error message, rejected |
 | 9 | "abc" | Abnormal | Error message, rejected |
 
 Two sets of boundaries are tested here: the limits of valid input (0 and 50 with 51 and -1 just outside) and the pass mark (25 with 24 just below). A common weakness is to test only the first set. Nine tests cover each partition of the problem; adding a tenth such as 38 would add nothing new.

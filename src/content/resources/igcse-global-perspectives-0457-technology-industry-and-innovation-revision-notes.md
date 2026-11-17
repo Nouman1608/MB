@@ -59,6 +59,11 @@ Component 1 question types (from section 4): Question 1 analyses information, ar
 
 **Source-analysis terms listed in the syllabus:** bias, claim, fact, generalisation, opinion, prediction, value, vested interest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--01-invention-to-innovation.webp" width="900" height="600" alt="A flow from invention, through research and development and innovation, to technology transfer. Below, terms for who controls technology (patents, intellectual property, subsidies) and two further terms: industrialisation, and planned obsolescence, the claim that products are designed to date early." loading="lazy">
+  <figcaption>The topic follows ideas from invention to use, and asks who controls them.</figcaption>
+</figure>
+
 ## Real examples at a glance
 
 You will not be marked on knowing these. Use them to practise evaluation, and check any you cite in the Individual Report.
@@ -71,6 +76,21 @@ You will not be marked on knowing these. Use them to practise evaluation, and ch
 | EU right-to-repair directive | Adopted 13 June 2024; member states apply it by 31 July 2026 | Consumer and environment groups vs some manufacturers | Too new for strong evidence of effects |
 | Repair Café | First held in Amsterdam, 18 October 2009, organised by Martine Postma | Local volunteers and residents | Good model for a measurable Team Project action |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--02-wto-vaccine-waiver.webp" width="900" height="792" alt="In October 2020 India and South Africa proposed waiving some IP rules for COVID-19 products at the WTO; in June 2022 a narrower decision let eligible members authorise vaccine production without the patent holder’s consent for five years. Supporters said patents slowed supply; many firms and some rich governments said patents fund research and that factories, materials and skills were the real limit." loading="lazy">
+  <figcaption>An issue that divides opinion: explain why each side holds its view.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--04-chips-act.webp" width="900" height="516" alt="The US CHIPS and Science Act, signed on 9 August 2022, provides $52.7 billion for semiconductor research, manufacturing and training. Supporters predict jobs and less reliance on imported chips, valuing security; critics say it gives taxpayers’ money to profitable firms, valuing fairness and competition. Both sides rest on predictions and values." loading="lazy">
+  <figcaption>When values differ, more data may not end the argument.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--06-rwanda-drones.webp" width="900" height="565" alt="Rwanda launched national drone delivery with Zipline on 14 October 2016, backed by Gavi and the UPS Foundation, first flying blood to remote clinics. Evaluation questions: early results came from parties with a vested interest; independent before-and-after comparisons would be stronger; and the model may not transfer to other countries." loading="lazy">
+  <figcaption>Innovation success stories need independent evidence and a transfer test.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Invention vs innovation:** an invention is the new idea; innovation is putting it into use.
@@ -81,6 +101,16 @@ You will not be marked on knowing these. Use them to practise evaluation, and ch
 - **Global vs local issue:** the Individual Report needs a global issue; the Team Project needs a local one.
 - **Course of action vs consequence:** an action is what someone does; a consequence is what results.
 - **Perspective vs opinion:** in this syllabus a perspective rests on evidence and reasoning; an opinion may not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--07-talen-grants.webp" width="900" height="652" alt="Bars show 75% of 60 start-ups funded by the fictional region of Talen (45 firms) still trading after three years, against 50% nationally. The weakness: the panel picked the most promising firms, which might have survived anyway, and the study’s author is not given. A fairer test compares funded firms with similar applicants who just missed out." loading="lazy">
+  <figcaption>A comparison is only fair if the groups were alike to begin with.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--05-industry-chain.webp" width="900" height="584" alt="Two causes, few technically trained workers and weak roads, power or internet, lead to consequences at three levels: young people leave, the country imports goods and earns less tax, and industry clusters in a few places. Below, an intended consequence of a factory (jobs) and a possible unintended one (higher house prices)." loading="lazy">
+  <figcaption>Separate intended from unintended consequences, and present the latter as possible.</figcaption>
+</figure>
 
 ## Language to watch in sources
 
@@ -97,6 +127,11 @@ Words such as "revolutionary", "game-changing", "always" and "never" are persuas
 5. **Judge the evidence behind each.** Who wrote the source? Any vested interest? Is the data a prediction?
 6. **Reach a judgement.** Choose one action, say why it beats the others, and state a condition that would change your mind.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--03-arnholt-factory.webp" width="900" height="750" alt="Rings for the fictional town of Arnholt: locally, residents argue about a battery factory’s water use; nationally, the government offers a grant; globally, electric vehicle growth drives demand. A young resident supports it for jobs; a farmer opposes it over river water. The proposed action is approval with a binding water limit in dry months, enforced by independent monitoring." loading="lazy">
+  <figcaption>Local action can shape how a factory operates, not whether such factories are built.</figcaption>
+</figure>
+
 ## Mini plan: Individual Report on this topic
 
 - **Question:** for example, "Should manufacturers be required to make products repairable?"
@@ -109,6 +144,11 @@ Words such as "revolutionary", "game-changing", "always" and "never" are persuas
 - **Reflection:** how your view changed, and why.
 
 See the [Individual Report revision notes](/resources/global-perspectives-individual-report-revision-notes/) for structure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--08-tech-actions.webp" width="900" height="673" alt="A table of six actions with a benefit and drawback each: voluntary patent licensing, subsidies for new industry, conditions on new factories, right-to-repair rules, public research funding and training schemes with local colleges. The EU right-to-repair directive, adopted 13 June 2024 and due by 31 July 2026, is too new to judge its effects." loading="lazy">
+  <figcaption>Judge each action on cause, feasibility, winners and losers, sustainability and evidence.</figcaption>
+</figure>
 
 ## Quick self-test
 

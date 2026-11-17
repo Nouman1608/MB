@@ -54,6 +54,11 @@ At the top grade, see what lies behind the question and add new ideas or informa
 Competency basis: every criterion for a grade must be met, so a strong talk with weak answers cannot reach the top
 grade.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-responding-to-spoken-language--01-responding-grade-ladder.webp" width="900" height="784" alt="Three rising steps. Pass: listens and responds appropriately in a straightforward manner. Merit: responds formally and in some detail. Distinction: responds perceptively and elaborates with further ideas and information. A table explains formally, in some detail, perceptively and elaborates." loading="lazy">
+  <figcaption>Four words separate the grades: formally, in some detail, perceptively, elaborates.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -79,6 +84,11 @@ grade.
 | Personal | An honest answer linked back to the argument |
 | Feedback | Thanks, understanding, constructive response |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-responding-to-spoken-language--02-kinds-of-questions.webp" width="900" height="598" alt="A table of six question types after a talk on banning cars from a high street: clarification, extension, challenge, hypothetical, personal and feedback, each with an example and what kind of answer it needs, from a concise explanation to thanks and a constructive response." loading="lazy">
+  <figcaption>Recognise the type of question to know what the answer needs.</figcaption>
+</figure>
+
 ## Answer shapes
 
 ```
@@ -87,11 +97,21 @@ Challenge:  acknowledge -> concede -> respond -> restate
 Feedback:   thank -> show understanding -> respond or improve
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-responding-to-spoken-language--04-answer-shapes.webp" width="900" height="655" alt="Three flow rows. For a straightforward or extension question: direct answer, reason, example, link back. For a challenge: acknowledge fairly, concede what is true, respond with reasoning or evidence, restate your position. For feedback: thank the speaker, show you understand, then explain, accept or offer an improvement." loading="lazy">
+  <figcaption>Each kind of question has its own answer shape.</figcaption>
+</figure>
+
 ## Clarification phrases
 
 - "Do you mean... or...?"
 - "Are you asking about the cost to families or to the school?"
 - "Could you say a little more about what you mean by 'fair'?"
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-responding-to-spoken-language--03-active-listening.webp" width="900" height="639" alt="Four steps of active listening: hear the whole question, identify its core key word such as “unfair” or “cost”, check an unclear question by asking one back (“Do you mean the cost to shops or to the council?”), and watch the questioner to see if they are satisfied." loading="lazy">
+  <figcaption>Listen to the end, find the key word, and ask if it is unclear.</figcaption>
+</figure>
 
 ## Holding phrases
 

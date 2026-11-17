@@ -33,6 +33,16 @@ These notes cover Question 1 of Component 1 in Cambridge International AS & A Le
 - Not assessed on topic knowledge: everything you need is in the sources.
 - The split of the 5 marks between parts is not printed in the syllabus and can vary. Check specimen and past papers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--01-question-1-in-paper.webp" width="900" height="587" alt="Question 1, worth 5 marks, asks short questions on both sources; Question 2 works on the evidence in one source; Question 3 is an essay comparing both. Five of the paper’s 45 marks is about one-ninth, roughly 10 of the 90 minutes." loading="lazy">
+  <figcaption>About ten minutes, but the close reading you do here feeds Questions 2 and 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--07-command-words.webp" width="900" height="603" alt="Four command words with what each asks: identify means name, select or recognise, using the source’s words; explain means set out reasons, in your own words; compare covers similarities and differences, contrast only differences, both naming the two sources together." loading="lazy">
+  <figcaption>Identify in the source’s words; explain in your own.</figcaption>
+</figure>
+
 ## The ten statement types (Critical Path list)
 
 The syllabus asks you to "differentiate between fact, argument, opinion, rant, speculation, prediction, explanation, hypothesis, account and belief". Working definitions:
@@ -50,6 +60,11 @@ The syllabus asks you to "differentiate between fact, argument, opinion, rant, s
 | Account | A description of events, often first-hand |
 | Belief | A view held as true, often from values |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--02-statement-types.webp" width="900" height="770" alt="Ten statement types with a working definition and typical signal words: fact, opinion, argument, rant, speculation, prediction, explanation, hypothesis, account and belief. Argument and explanation are highlighted because both use “because”." loading="lazy">
+  <figcaption>Classify a sentence by what it is doing, using the signals as clues, not proof.</figcaption>
+</figure>
+
 ## Parts of an argument
 
 | Part | How to find it |
@@ -65,6 +80,16 @@ The syllabus asks you to "differentiate between fact, argument, opinion, rant, s
 
 **Indicator words.** Conclusion: therefore, so, thus, consequently, we should. Reason: because, since, as, given that. Counter-assertion: some argue, critics claim, admittedly, although. Indicator words help, but test the logic: "so" can also introduce an explanation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--04-argument-parts.webp" width="900" height="645" alt="An argument map: reasons and supporting evidence lead to an intermediate conclusion, which supports the main conclusion. An unstated assumption is a missing step the argument needs, and a counter-assertion is a view raised in order to be answered." loading="lazy">
+  <figcaption>Find the claim everything else supports, then name the role of each other sentence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--06-worked-example.webp" width="900" height="736" alt="Source A’s three sentences labelled: the 8 °C temperature figure is a claim of fact used as evidence, the plan to plant 20,000 trees by 2030 is the main conclusion and a prediction, and the claim that trees are the cheapest option is an unsupported assertion. Source B’s perspective differs by judging who benefits first." loading="lazy">
+  <figcaption>Three sentences, three different kinds of statement: that precision earns the marks.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Argument vs explanation.** Argument persuades you to accept a claim; explanation tells you why an accepted fact holds.
@@ -74,11 +99,21 @@ The syllabus asks you to "differentiate between fact, argument, opinion, rant, s
 - **Compare vs contrast.** The syllabus defines compare as "identify/comment on similarities and/or differences" and contrast as "identify/comment on differences".
 - **Identify vs explain.** Identify: name or select, close to the source wording. Explain: add how or why, in your own words.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--03-two-distinctions.webp" width="900" height="672" alt="An argument uses “because” to persuade you of a conclusion, while an explanation uses it to say why something accepted is so. A checkable statement about park temperature is a claim of fact: it can be identified as a fact-type statement, but whether to accept it is a matter of evaluation." loading="lazy">
+  <figcaption>Persuading or explaining? Checkable or checked? Ask both before you label.</figcaption>
+</figure>
+
 ## A precise comparison in one sentence
 
 Template: *On [specific point], Source A [position], whereas Source B [position], because [basis of each perspective].*
 
 Example: "On who should pay for flood barriers, Source A wants the national government to fund them, whereas Source B wants local property owners to contribute, because A treats flooding as a national risk and B treats it as a local benefit."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--05-precise-comparison.webp" width="900" height="659" alt="A comparison names a point of comparison, then states Source A’s and Source B’s position on it, as in the example where both accept streets are hotter than parks but differ on tree planting and fairness. Comparing at topic level, “both are about cities”, earns little." loading="lazy">
+  <figcaption>Name the point, then each source’s position on it.</figcaption>
+</figure>
 
 ## Exam traps
 

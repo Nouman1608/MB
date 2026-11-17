@@ -72,6 +72,11 @@ Condensed for revision. For the full explanation, use the
 | Shading | Fill a cell or row with a colour or shade, often for a header row |
 | Size | Adjust row height and column width so that all data is visible and fits the page |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-layout-study-guide--15-lay-table-fit.webp" width="900" height="710" alt="A four column table 16 cm wide with Item 3 cm, Description 7.5 cm, Quantity 2.5 cm and Price 3 cm, a merged title row and right-aligned prices." loading="lazy">
+  <figcaption>Fitting a table to the text width.</figcaption>
+</figure>
+
 ## 13.3 What are headers and footers for?
 
 **Purpose**: a header or footer appears in the top or bottom margin of **every page** (or every page of a section), so information such as page numbers, the title, the author, the file name and the date is shown consistently without being typed on each page. It helps readers navigate a document and identify printouts.
@@ -87,6 +92,11 @@ Condensed for revision. For the full explanation, use the
 | Time | Shows when it was printed or saved |
 
 **Alignment**: header and footer items can be placed at the left margin, centred within the margins or at the right margin. Keep the same alignment on every page. A common instruction is "page number centred in the footer, file name right-aligned in the header".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-layout-study-guide--16-lay-footer-fields.webp" width="900" height="1040" alt="Page footers with name, page number and date. An automatic page number reads 1 then 2; a number typed by hand reads 1 on every page." loading="lazy">
+  <figcaption>Automatic fields versus typed page numbers.</figcaption>
+</figure>
 
 ## Worked example: following a layout instruction
 

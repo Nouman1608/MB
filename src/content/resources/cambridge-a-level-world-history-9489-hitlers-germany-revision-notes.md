@@ -63,6 +63,11 @@ featured: false
 | Nov 1932 | 196 | First fall; KPD rises to 100 |
 | March 1933 | 288 | 43.9 per cent after the Reichstag Fire |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-hitlers-germany--01-nazi-seats.webp" width="900" height="711" alt="A bar chart of Nazi Reichstag seats: 12 in 1928, 107 in September 1930, 230 in July 1932 (37.3 per cent of the vote, the largest party) and 196 in November 1932, when votes and money were falling away." loading="lazy">
+  <figcaption>Nazi support rose steeply to July 1932, then began to fall.</figcaption>
+</figure>
+
 ## Timeline to learn
 
 | Date | Event |
@@ -91,6 +96,11 @@ featured: false
 | June 1941 | Operation Barbarossa |
 | Aug 1941 | Galen's sermon against euthanasia |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-hitlers-germany--03-consolidation.webp" width="900" height="940" alt="A vertical timeline from January 1933 to September 1934 drawn to scale. Events crowd into the first months: appointment (30 January), the Reichstag Fire and decree (27-28 February), the March election, the Enabling Act (23 March), unions abolished (2 May) and parties banned (14 July). After a gap come the Night of the Long Knives (30 June 1934) and Hindenburg's death (2 August 1934)." loading="lazy">
+  <figcaption>Most of the legal revolution took under six months; the army was won in 1934.</figcaption>
+</figure>
+
 ## 3.1 Gaining control -- three layers
 
 1. **Crisis:** Depression, unemployment, presidential decree government, communist growth.
@@ -99,12 +109,32 @@ featured: false
 
 Then **consolidation**: Fire decree, March election, Enabling Act, Gleichschaltung, Night of the Long Knives, army oath.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-hitlers-germany--02-backstairs-intrigue.webp" width="900" height="581" alt="A timeline from June 1932 to January 1933. Papen governs from June to November and Schleicher from December. The Nazis win 230 seats in July, Hindenburg refuses Hitler in August, Nazi seats fall to 196 in November, Schleicher courts Strasser and the unions, Papen meets Hitler on 4 January 1933 and Hitler is appointed on 30 January." loading="lazy">
+  <figcaption>Hitler became Chancellor through an elite deal, after his vote had peaked.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-hitlers-germany--07-appointment-plan.webp" width="900" height="610" alt="Two columns. Preconditions: the Depression, Brüning's decree government, 37 per cent in July 1932, and the SA, propaganda and elite funding. Trigger: Schleicher's failure, Papen's intrigue and Hindenburg's acceptance. Key evidence: the falling Nazi vote in November 1932. A judgement weighs both." loading="lazy">
+  <figcaption>Mass support made Hitler possible; elite intrigue made him Chancellor.</figcaption>
+</figure>
+
 ## 3.2 Governing -- key points
 
 - **Terror:** SS, Gestapo, SD, block wardens, People's Court, camps from 1933; denunciations did much of the work.
 - **Propaganda:** Goebbels' ministry, radio, film, rallies, the 1936 Olympics; strongest when reinforcing existing views.
 - **Opposition:** youth groups, churches (Niemöller, Galen), the underground left, passive non-conformity; none threatened the regime before 1941.
 - **Foreign policy:** aims (Versailles, pan-Germanism, Lebensraum, anti-communism) against methods (bluff, treaties, war); debate on planning versus opportunism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-hitlers-germany--04-terror-state.webp" width="900" height="715" alt="Himmler's SS sits at the top, over the Gestapo and Heydrich's SD. Below them, denunciations by ordinary Germans and reports from block wardens feed information upwards. Along the bottom: Nazified courts and the People's Court, concentration camps from March 1933, and Goebbels' propaganda." loading="lazy">
+  <figcaption>The Gestapo depended on ordinary Germans informing on each other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-hitlers-germany--05-foreign-policy.webp" width="900" height="590" alt="A timeline from 1933 to 1941 drawn to scale: leaving the League (1933), the Rhineland (March 1936), the Anti-Comintern Pact (1936), the Anschluss (March 1938), the Sudetenland (September 1938), Prague (March 1939), the Nazi-Soviet Pact and invasion of Poland (August-September 1939) and Barbarossa (June 1941). Below, the debate: consistent aims set against opportunist methods." loading="lazy">
+  <figcaption>The steps quickened after 1936; historians debate how far they were planned.</figcaption>
+</figure>
 
 ## 3.3 Economy -- two phases
 
@@ -114,6 +144,11 @@ Then **consolidation**: Fire decree, March election, Enabling Act, Gleichschaltu
 | War economy, 1936-39 | Göring | Four Year Plan, synthetic fuel and rubber, state steelworks, autarky |
 
 **Living standards:** jobs restored, but wages frozen, longer hours, no unions; KdF and Beauty of Labour as compensation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-hitlers-germany--06-economy-phases.webp" width="900" height="765" alt="Two phases: recovery from 1933 to 1936 under Schacht, with deficit financing, Mefo bills and public works; rearmament and autarky, building on the New Plan (1934), from 1936 to 1939 under Göring's Four Year Plan, with Schacht resigning in 1937. A guns-or-butter box notes the competition for foreign currency. A balance weighs jobs and leisure schemes against frozen wages, longer hours and the loss of unions." loading="lazy">
+  <figcaption>Jobs returned, but rearmament came before living standards.</figcaption>
+</figure>
 
 ## 3.4 Society -- checklist
 

@@ -29,6 +29,11 @@ These notes condense three widely taught content areas from the HL History of th
 
 Three 15-mark essays in 2 hours 30 minutes, from 36 questions (two on each of the region's 18 sections). Plan five minutes and write for about 45 minutes per essay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--13-hl-funnel.webp" width="900" height="1073" alt="A funnel in four steps. The history of Africa and the Middle East, the Americas, Asia and Oceania, and Europe are the four regional options; your school picks one. Each option has 18 sections, shown as 18 numbered tiles, and each section has two questions, 36 questions in all. Your school chooses three sections to study, highlighted in gold; which three is only an example. On the paper you answer any three questions, each an essay marked out of 15." loading="lazy">
+  <figcaption>You study three of eighteen sections and answer any three of 36 questions.</figcaption>
+</figure>
+
 ## US Civil War and Reconstruction
 
 ### Road to war
@@ -45,6 +50,11 @@ Three 15-mark essays in 2 hours 30 minutes, from 36 questions (two on each of th
 - February 1861: Confederate States of America formed.
 - 12 April 1861: Fort Sumter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--01-road-to-civil-war.webp" width="900" height="636" alt="A vertical timeline of six steps: war with Mexico (1846-48), the Compromise of 1850 with its stricter Fugitive Slave Act, the Kansas-Nebraska Act of 1854, the Dred Scott decision of 1857, John Brown's raid in 1859 and Lincoln's election in November 1860, after which South Carolina began secession in December." loading="lazy">
+  <figcaption>Slavery and its expansion into the territories link every step to war.</figcaption>
+</figure>
+
 ### The war
 
 - September 1862: Antietam; preliminary Emancipation Proclamation.
@@ -54,6 +64,11 @@ Three 15-mark essays in 2 hours 30 minutes, from 36 questions (two on each of th
 - November 1864: Lincoln re-elected.
 - 9 April 1865: Lee surrenders at Appomattox; 14 April: Lincoln assassinated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--02-why-union-won.webp" width="900" height="623" alt="A central circle, Union victory, linked to five factors. Resources: population, industry and railways, and the naval blockade. Leadership: Lincoln and the Emancipation Proclamation of 1 January 1863, and Grant and Sherman's sustained pressure from Vicksburg and Gettysburg in July 1863 to Atlanta in 1864. Confederate weakness: states' rights against central direction. The war ended with Lee's surrender at Appomattox on 9 April 1865." loading="lazy">
+  <figcaption>Resources made a long war winnable; leadership and strategy turned them into victory.</figcaption>
+</figure>
+
 ### Reconstruction
 
 - 1865: Thirteenth Amendment; Freedmen's Bureau; Black Codes; Ku Klux Klan founded.
@@ -61,6 +76,11 @@ Three 15-mark essays in 2 hours 30 minutes, from 36 questions (two on each of th
 - 1868: Fourteenth Amendment; President Johnson impeached and acquitted.
 - 1870: Fifteenth Amendment.
 - 1877: Compromise of 1877; federal troops withdrawn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--03-reconstruction-gains-limits.webp" width="900" height="698" alt="Two columns. Changes: the Thirteenth Amendment (1865) abolished slavery, the Fourteenth (1868) defined citizenship and equal protection, the Fifteenth (1870) barred racial discrimination in voting, and the Freedmen's Bureau supported education and labour contracts. Undermined by: Black Codes, Ku Klux Klan violence, Northern loss of interest and the Compromise of 1877. Below, four criteria for judging success." loading="lazy">
+  <figcaption>Set criteria, then weigh legal change against what undermined it.</figcaption>
+</figure>
 
 ## The Mexican Revolution, 1910-1940
 
@@ -83,6 +103,21 @@ Three 15-mark essays in 2 hours 30 minutes, from 36 questions (two on each of th
 - **Obregón and Calles:** state-building, anticlericalism, central control.
 - **Cárdenas:** agrarian reform, labour rights, economic nationalism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--04-mexican-revolution-phases.webp" width="900" height="813" alt="A vertical timeline from Díaz's rule (1876-1911) through the Plan of San Luis Potosí (20 November 1910), Madero (1911-13), Huerta (1913-14), civil war among revolutionaries (1914-15), the 1917 Constitution, consolidation under Obregón and Calles (1920-34) and Cárdenas (1934-40), who distributed land and expropriated oil on 18 March 1938." loading="lazy">
+  <figcaption>The revolution has phases from 1910 to 1940; the 1917 Constitution is the midpoint, not the end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--05-mexico-interpretations.webp" width="900" height="401" alt="A spectrum runs from popular agrarian revolution on the left to a political revolution that created a new elite on the right. Zapata's movement sits at the agrarian end; the dominance of northern leaders and the single-party state sit at the new-elite end; Cárdenas's reforms sit in the middle and complicate both views." loading="lazy">
+  <figcaption>Use the evidence to decide where the revolution sits, not just to tell its story.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--07-mexico-aims-scorecard.webp" width="900" height="601" alt="Three aims of the Mexican Revolution, each judged separately: ending the personal dictatorship was achieved; land reform, labour rights and national control of resources were achieved in part, becoming policy only under Cárdenas; Madero's effective suffrage fell short because the party founded in 1929 faced no real electoral competition. A final box gives the overall judgement." loading="lazy">
+  <figcaption>Separate the aims, judge each, then answer &quot;to what extent&quot; overall.</figcaption>
+</figure>
+
 ## Civil rights and social movements after 1945
 
 | Strategy | Examples | Organizations |
@@ -93,6 +128,11 @@ Three 15-mark essays in 2 hours 30 minutes, from 36 questions (two on each of th
 | Black Power and self-defence | Calls for Black Power (1966) | Black Panther Party; Malcolm X earlier in the Nation of Islam |
 | Federal action | Civil Rights Act (1964); Voting Rights Act (1965) | Kennedy and Johnson administrations |
 | Other movements | Farm workers' strikes and boycotts from 1965; American Indian activism | United Farm Workers (César Chávez); American Indian Movement |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--06-civil-rights-progress.webp" width="900" height="596" alt="A central circle, the Civil Rights Act of 1964 and the Voting Rights Act of 1965, linked to five factors: grassroots organization and non-violent direct action, media coverage of violent responses at Birmingham and Selma, federal courts, Presidents Kennedy and Johnson, and the Cold War. A note adds other movements such as the farm workers and the American Indian Movement." loading="lazy">
+  <figcaption>Civil rights is not the story of King alone: weigh several causes.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -51,6 +51,11 @@ subtopics 1.1 Particles in the atom and atomic radius and 1.2 Isotopes.
 | **Neutron** | nucleus | **0** | **1** |
 | **Electron** | shells around the nucleus | **−1** | **1/1840** (negligible) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--01-atom-mass-and-space.webp" width="900" height="1050" alt="A schematic atom shows a tiny nucleus of protons and neutrons, enlarged in a callout, inside electron shells and mostly empty space. A table lists proton +1 and 1, neutron 0 and 1, electron -1 and 1/1840." loading="lazy">
+  <figcaption>Almost all the mass is in the tiny nucleus; almost all the volume is empty space.</figcaption>
+</figure>
+
 ### Distribution of mass and charge
 
 - **Mass:** almost all of the mass is in the **nucleus**, because protons and neutrons each have a relative mass of 1,
@@ -88,6 +93,11 @@ and a negative plate.
 Protons and electrons have charges of the **same size**, but the electron is far lighter, so it is
 deflected much more. The same rule compares ions: ¹H⁺ (1 ÷ 1 = 1) is deflected more than ⁴He²⁺
 (2 ÷ 4 = 0.5), which is deflected by the same amount as ²H⁺ (1 ÷ 2 = 0.5).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--02-beams-in-electric-field.webp" width="900" height="940" alt="A beam at one velocity passes between a negative plate above and a positive plate below. The proton bends slightly towards the negative plate, the neutron goes straight on, and the electron bends towards the positive plate through a much larger angle." loading="lazy">
+  <figcaption>Charge decides the direction of deflection; mass decides how far.</figcaption>
+</figure>
 
 ## Counting particles in atoms and ions (1.1)
 
@@ -132,6 +142,21 @@ have **one more occupied shell**.
 **Ionic radius down a group:** **increases** (for example Li⁺ < Na⁺ < K⁺ and F⁻ < Cl⁻ < Br⁻), because
 each ion has one more shell than the one above it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--03-radius-across-period.webp" width="900" height="800" alt="Sodium and chlorine are drawn to the same scale from the lesson radii 0.191 nm and 0.099 nm. Both have three shells and ten inner electrons, but chlorine has nuclear charge +17 against +11, so its outer electrons are pulled in harder." loading="lazy">
+  <figcaption>Across a period nuclear charge rises while shielding stays about the same, so atoms shrink.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--04-radius-down-group.webp" width="900" height="800" alt="Three schematic atoms from one group have two, three and four shells. Each added shell puts the outer electron further out with more shielding, which outweighs the rise in nuclear charge, so the atom gets larger." loading="lazy">
+  <figcaption>Down a group each extra shell adds distance and shielding, so atoms get larger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--05-ion-radius-na-cl.webp" width="900" height="920" alt="Na (0.191 nm) loses its outer shell to form Na+ (0.095 nm). Cl (0.099 nm) gains an electron in the same outer shell to form Cl- (0.181 nm). Circles are drawn to scale from these values." loading="lazy">
+  <figcaption>Cations are smaller than their atoms; anions are larger.</figcaption>
+</figure>
+
 ## Isotopes (1.2)
 
 **Isotopes** are atoms of the same element with the **same number of protons** but **different
@@ -160,6 +185,11 @@ is 75% ³⁵Cl and 25% ³⁷Cl.
     Ar = (35 × 75 + 37 × 25) ÷ 100
        = (2625 + 925) ÷ 100
        = 3550 ÷ 100 = 35.5
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--06-isotopes-chlorine.webp" width="900" height="900" alt="Two chlorine nuclei each hold 17 protons; chlorine-35 has 18 neutrons and chlorine-37 has 20. Both have 17 electrons arranged 2, 8, 7, so their chemistry is very similar but their masses differ." loading="lazy">
+  <figcaption>Isotopes share the electron arrangement and differ in neutron number.</figcaption>
+</figure>
 
 ## Exam traps
 

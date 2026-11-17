@@ -68,6 +68,11 @@ chain: what changed, why, and what it did to family structures or roles.
 - Longer education, careers, housing costs → **later parenthood** → fewer children, wider gap between
   generations, squeezed middle generation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-3--01-demographic-chains.webp" width="900" height="597" alt="Four chains from cause to effect: contraception, lower infant mortality and the cost of children lead to falling birth rates and smaller families; better diet and medicine raise life expectancy and create beanpole families; both produce an ageing population with more care for parents; delayed parenthood produces older parents and a middle generation caring both ways." loading="lazy">
+  <figcaption>Write each demographic change as a chain: cause, change, effect on family life.</figcaption>
+</figure>
+
 ## Industrialisation and urbanisation (4.3.2)
 
 - **Parsons:** industry needs mobility, so the nuclear family "fits".
@@ -77,6 +82,11 @@ chain: what changed, why, and what it did to family structures or roles.
   during it.
 - **Urbanisation today:** migrants to cities form smaller households but keep rural kin ties, giving
   modified extended families.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-3--02-industrialisation-debate.webp" width="900" height="616" alt="Young and Willmott’s three stages: the pre-industrial family as a unit of production, an early industrial stage of extended kin networks, and a later home-centred symmetrical family. Parsons’s functional fit theory is set against historians who found nuclear households before industrialisation. Urbanisation today often produces modified extended families." loading="lazy">
+  <figcaption>The link between industry and the nuclear family is debated, not settled.</figcaption>
+</figure>
 
 ## Six explanations of trends (4.3.3)
 
@@ -89,6 +99,11 @@ chain: what changed, why, and what it did to family structures or roles.
    uneven.
 6. **Female empowerment:** education and earnings let women delay marriage or leave unhappy ones.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-3--03-six-factors.webp" width="900" height="483" alt="Six factors around the trends in marriage, divorce and cohabitation, each with its mechanism: legislation, changing attitudes, the internet, secularisation, cultural expectations and female empowerment." loading="lazy">
+  <figcaption>Each factor needs a mechanism, not just a label.</figcaption>
+</figure>
+
 ## Perspectives on change
 
 | Perspective | Reading of the trends |
@@ -97,6 +112,11 @@ chain: what changed, why, and what it did to family structures or roles.
 | New Right | Divorce and cohabitation signal breakdown and harm children |
 | Feminist | Divorce reflects women's independence and refusal to accept inequality |
 | Giddens; Beck and Beck-Gernsheim | Pure relationships and individualisation: choice replaces tradition |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-3--04-perspectives-on-divorce.webp" width="900" height="437" alt="Four perspectives on rising divorce: functionalists, through Fletcher, see high expectations of marriage and remarriage; the New Right see family breakdown harming children; feminists see women’s independence; late modern writers see the pure relationship (Giddens) and individualisation (Beck and Beck-Gernsheim)." loading="lazy">
+  <figcaption>The same trend means decline to some and progress to others.</figcaption>
+</figure>
 
 ## Changing roles (4.3.5)
 
@@ -107,6 +127,16 @@ chain: what changed, why, and what it did to family structures or roles.
   Ariès: childhood as a protected stage is a modern idea.
 - **Grandparents:** **childcare**, **economic support**, **wisdom and advice**; later may become
   **dependent**, cared for by the pivot generation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-4-3--05-changing-roles.webp" width="900" height="559" alt="Conjugal roles are moving towards the symmetrical and dual worker family, though feminists say women keep the main responsibility. Children have become an economic cost, families more child-centred, and boomerang children return home. Grandparents give childcare, economic support and advice, but may later become dependent." loading="lazy">
+  <figcaption>Longer lives and longer childhoods have changed what each generation does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--04-sandwich-generation.webp" width="900" height="616" alt="Three generations stacked: middle-aged adults in the middle care for their ageing parents above and their own children below at the same time." loading="lazy">
+  <figcaption>Longer lives and later parenthood squeeze the middle generation from both sides.</figcaption>
+</figure>
 
 ## Exam traps
 

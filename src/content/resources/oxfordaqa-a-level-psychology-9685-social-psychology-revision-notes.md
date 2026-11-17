@@ -53,6 +53,16 @@ Condensed recall for **3.1.2 Social psychology** (OxfordAQA International AS and
 | Social support | The presence of others who resist, making resistance easier |
 | Locus of control | Belief about whether outcomes are controlled by yourself (internal) or by luck and others (external) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-introductory-topics--08-psy-conformity-levels.webp" width="900" height="1030" alt="Three rows, each showing a person who says &quot;Agree&quot; in a speech bubble while a thought bubble shows what they think. Compliance: public agreement only, the person thinks No. Identification: adopting the group view while with the group, thinks Yes. Internalisation: genuine private acceptance, thinks Yes. Two boxes below give the explanations: normative social influence, the desire to be liked, and informational social influence, the desire to be right." loading="lazy">
+  <figcaption>Conformity occurs at three levels (compliance, identification, internalisation) and is explained by the wish to be liked or to be right.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-social-psychology--01-normative-informational.webp" width="900" height="581" alt="Normative social influence is conforming to be liked and avoid rejection, as with Asch participants who went along to avoid looking foolish; it usually produces compliance. Informational social influence is conforming because others seem right, especially in ambiguous situations, as in Jenness's bean-jar study; it usually produces internalisation. The two are hard to separate." loading="lazy">
+  <figcaption>Conform to be liked: compliance. Conform to be right: internalisation.</figcaption>
+</figure>
+
 ## Asch: the numbers
 
 | Condition | Approximate conformity |
@@ -63,6 +73,11 @@ Condensed recall for **3.1.2 Social psychology** (OxfordAQA International AS and
 | Three confederates | About 32%; little increase beyond this |
 | One dissenter giving the right answer | About 5.5% |
 | Harder task (lines more similar) | Increased |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-social-psychology--02-asch-variables.webp" width="900" height="949" alt="Baseline: conformity on about 37 percent of critical trials, about 75 percent conformed at least once, about 25 percent never, and almost no errors alone. Bars show conformity rising from about 3 percent with one confederate to 13 with two and 32 with three, with little increase beyond. A correct dissenter cut conformity to about 5.5 percent; harder tasks raised it. Evaluation covers the artificial task and Bond and Smith's cross-cultural meta-analysis." loading="lazy">
+  <figcaption>Three confederates are enough; one dissenter breaks the pressure.</figcaption>
+</figure>
 
 ## Milgram: the numbers
 
@@ -75,6 +90,11 @@ Condensed recall for **3.1.2 Social psychology** (OxfordAQA International AS and
 | Experimenter gives orders by telephone | 20.5% |
 | Ordinary member of the public gives orders | 20% |
 | Two disobedient peers (social support) | 10% |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-social-psychology--04-milgram-variations.webp" width="900" height="841" alt="Bars of obedience to 450 volts: 65 percent at baseline, 40 with the learner in the same room, 30 with the hand on a shock plate, 20.5 with orders by telephone, 47.5 in a run-down Bridgeport office, and 10 when two peers refused. Proximity and location explain the falls. Supporting evidence: Hofling et al.'s nurses, Burger's replication and Sheridan and King's real shocks." loading="lazy">
+  <figcaption>Closeness to the victim, distance from authority and a lowly setting all cut obedience.</figcaption>
+</figure>
 
 ## Other studies at a glance
 
@@ -90,6 +110,16 @@ Condensed recall for **3.1.2 Social psychology** (OxfordAQA International AS and
 | Rotter (1966) | Internal-external locus of control | Resistance |
 | Holland (1967) | Internals more likely to resist in a Milgram-type procedure | Resistance |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-social-psychology--03-agentic-state.webp" width="900" height="832" alt="The agentic shift moves a person from the autonomous state, feeling responsible, to the agentic state, acting for another who is responsible; moral strain is felt but binding factors keep them obeying. Legitimacy of authority: societies are hierarchical and people are socialised to obey legitimate figures such as police, teachers and doctors; when status is reduced, obedience falls." loading="lazy">
+  <figcaption>Obedience follows a shift of responsibility to a legitimate authority.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-social-psychology--05-resistance.webp" width="900" height="788" alt="Social support: Asch's conformity fell from about 37 percent to about 5.5 percent with one dissenter, and Milgram's obedience fell from 65 to 10 percent when two peers refused, because a dissenter shows resistance is possible and shares the cost. Locus of control runs from internal (more likely to resist) to external; Holland (1967) supported this but later research is mixed." loading="lazy">
+  <figcaption>An ally and an internal locus of control both help people resist.</figcaption>
+</figure>
+
 ## Evaluation points
 
 - **Asch:** artificial, low-stakes task; American male student sample; culture-bound (Bond and Smith); deception.
@@ -98,6 +128,11 @@ Condensed recall for **3.1.2 Social psychology** (OxfordAQA International AS and
 - **Agentic state:** fits the variations but does not explain the 35% who refused or the distress of those who obeyed.
 - **Legitimacy:** supported by the falls in obedience at Bridgeport and with an ordinary member of the public.
 - **Locus of control:** some supporting evidence, but research is mixed and situation may matter more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-social-psychology--06-football-application.webp" width="900" height="568" alt="Six rows: compliance driven by normative influence; conformity rather than obedience because the captain is not a legitimate authority; Asch's finding that one dissenter cut conformity to about 5.5 percent; the refusal giving the others social support; a possible internal locus of control; and an evaluation that real belonging may make normative pressure stronger than in the laboratory." loading="lazy">
+  <figcaption>Name the type, cite the evidence, apply it, then evaluate in context.</figcaption>
+</figure>
 
 ## Exam traps
 

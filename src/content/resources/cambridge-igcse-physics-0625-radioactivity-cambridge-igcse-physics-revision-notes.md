@@ -33,6 +33,11 @@ These notes condense section 5.2 Radioactivity of the Cambridge IGCSE Physics 06
 - Count rate = counts ÷ time, in counts/s or counts/minute.
 - **Extended only:** corrected count rate = measured count rate − background count rate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-radioactivity-cambridge-igcse-physics--01-background-and-count-rate.webp" width="900" height="560" alt="The main sources of background radiation are radon gas in the air, rocks and buildings, food and drink, and cosmic rays. A detector connected to a counter recording 1350 counts in 5.0 minutes gives a count rate of 270 counts per minute, or 4.5 counts per second. For Extended, the background count rate is subtracted to give the corrected count rate." loading="lazy">
+  <figcaption>Count rate = counts ÷ time; subtract background to correct it.</figcaption>
+</figure>
+
 ## 5.2.2 The three emissions
 
 - Emission is **spontaneous** and **random in direction**.
@@ -49,6 +54,16 @@ These notes condense section 5.2 Radioactivity of the Cambridge IGCSE Physics 06
 - **Extended only:** α ionises most because of its **large charge** and **large kinetic energy**.
 - β always means β⁻ in this syllabus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp" width="900" height="780" alt="Alpha is stopped by paper. Beta passes paper but is stopped by a few millimetres of aluminium. Gamma passes both and is only reduced by thick lead. Ionising effect runs the opposite way: alpha strongest, gamma weakest." loading="lazy">
+  <figcaption>Alpha, beta and gamma are stopped by different barriers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--06-field-deflection.webp" width="900" height="920" alt="Between a positive plate above and a negative plate below, beta curves strongly up towards the positive plate, alpha bends slightly down towards the negative plate, and gamma goes straight on." loading="lazy">
+  <figcaption>Charged radiation is deflected by an electric field; gamma is not.</figcaption>
+</figure>
+
 ## 5.2.3 Radioactive decay
 
 - A change in an **unstable nucleus**; emits α and/or β and/or γ; spontaneous and random.
@@ -64,6 +79,11 @@ These notes condense section 5.2 Radioactivity of the Cambridge IGCSE Physics 06
 4. Check top and bottom rows balance.
 5. Name the daughter from its Z.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-radioactivity-cambridge-igcse-physics--02-decay-equations.webp" width="900" height="620" alt="Radon-222 (Z = 86) emits an alpha particle, helium-4, and becomes polonium-218 (Z = 84): 222 = 218 + 4 and 86 = 84 + 2. Strontium-90 (Z = 38) emits a beta particle (an electron) and becomes yttrium-90 (Z = 39): 90 = 90 + 0 and 38 = 39 − 1. In beta decay a neutron changes into a proton and an electron." loading="lazy">
+  <figcaption>Nucleon numbers and proton numbers must balance on both sides.</figcaption>
+</figure>
+
 ## 5.2.4 Half-life
 
 - **Half-life:** time for half the nuclei of a particular isotope in any sample to decay.
@@ -77,6 +97,11 @@ These notes condense section 5.2 Radioactivity of the Cambridge IGCSE Physics 06
 2. Find where it has halved; read the time.
 3. Repeat from another starting point; average.
 4. Draw construction lines on the graph.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-radioactivity-cambridge-igcse-physics--03-half-life-with-background.webp" width="900" height="720" alt="A decay curve of measured count rate against time that levels off at the background of 20 counts per minute. Measured readings of 660, 340, 180 and 100 counts per minute at 0, 3, 6 and 9 hours correspond to corrected values of 640, 320, 160 and 80, three halvings in 9.0 hours, so the half-life is 3.0 hours." loading="lazy">
+  <figcaption>Correct for background, then count the halvings.</figcaption>
+</figure>
 
 ## Uses (Extended only)
 
@@ -96,6 +121,11 @@ These notes condense section 5.2 Radioactivity of the Cambridge IGCSE Physics 06
 - Effects: **cell death**, **mutations**, **cancer**.
 - Handling: tongs, at arm's length, pointed away from people, short use, lead-lined box, locked and labelled store.
 - **Extended only:** reduce **time**, increase **distance**, use **shielding**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-radioactivity-cambridge-igcse-physics--04-safety-time-distance-shielding.webp" width="900" height="600" alt="Three ways to reduce exposure to ionising radiation: use the source for the shortest time possible; handle it with tongs, held away from the body and pointed away from people; and store it in a lead-lined container in a locked, labelled cupboard." loading="lazy">
+  <figcaption>Less time, more distance, more shielding: less exposure.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

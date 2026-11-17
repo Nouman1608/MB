@@ -31,6 +31,11 @@ Condensed notes for **sub-topic 2.6 Communication** in Cambridge O Level Commerc
 - **Methods (8)**: letter, telephone, face to face, videoconferencing, email, web-based chat (including chatbots), social media, posters.
 - **Factors (6)**: urgency, cost, security, distance, availability of networks, importance of the message.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-communication-7100-commerce--01-types-of-communication.webp" width="900" height="685" alt="Four cards give the meaning, main strength and main weakness of written, oral, electronic and visual communication. Below, one method can be several types: an email is written and electronic, a videoconference is oral, visual and electronic, and a poster is visual and usually written." loading="lazy">
+  <figcaption>A type is the form of a message; one method can belong to more than one type.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -69,6 +74,11 @@ Condensed notes for **sub-topic 2.6 Communication** in Cambridge O Level Commerc
 - **Social media**: huge, cheap reach / public and not secure.
 - **Posters**: seen by passers-by / one-way, little detail.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-communication-7100-commerce--02-eight-methods.webp" width="900" height="720" alt="Eight cards, one per method, each with a main advantage, a main disadvantage and a typical commercial use: letters for contract terms, telephone for urgent queries, face to face for large contracts, videoconferencing for overseas suppliers, email for orders and invoices, web chat for customer service, social media for promotions and posters for safety notices." loading="lazy">
+  <figcaption>Each method has a typical commercial use that matches its strengths.</figcaption>
+</figure>
+
 ## Factor → method quick links
 
 | Factor | Usually favours | Usually rules out |
@@ -80,9 +90,24 @@ Condensed notes for **sub-topic 2.6 Communication** in Cambridge O Level Commerc
 | Availability of networks (weak) | Letter, landline, face to face | Videoconferencing, social media |
 | Importance of the message | Signed letter, face to face | Social media, posters |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-communication-7100-commerce--04-six-factors.webp" width="900" height="595" alt="Six cards for urgency, cost, security, distance, availability of networks and importance of the message, each with the question it raises and the methods it points to." loading="lazy">
+  <figcaption>The six factors often pull in different directions, so weigh the most important one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-communication-7100-commerce--03-urgency-security-scales.webp" width="900" height="645" alt="Two scales. Urgency: telephone, web chat and face to face reply immediately, email within hours and a letter in days. Security: face to face is hardest to intercept, then a sealed letter, then encrypted email, while social media and posters are public." loading="lazy">
+  <figcaption>When factors pull apart, combine methods: a call for speed, then a secure written record.</figcaption>
+</figure>
+
 ## Building an appropriateness answer
 
 Method → factor → reason from the situation → acceptable drawback. *Example (invented):* "A videoconference suits the meeting with the overseas supplier because distance makes travel expensive, and both sides can see the samples on screen; the risk of a weak connection is acceptable because both offices have fast internet."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-communication-7100-commerce--05-riverbend-three-messages.webp" width="900" height="685" alt="Three messages from a food wholesaler. A promotion to 2,000 retailers goes by social media plus email (urgency, cost, security). New terms with an overseas supplier go by videoconference then a signed document (distance, importance, security). A changed address for a rural driver goes by telephone (urgency, networks)." loading="lazy">
+  <figcaption>Each choice names the method, the factor and a reason tied to the situation.</figcaption>
+</figure>
 
 ## Exam traps
 

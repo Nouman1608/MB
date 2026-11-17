@@ -1,0 +1,8 @@
+{ "page": "alloys-and-extraction-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/alloys-and-extraction-of-metals--01-alloy-layers.webp", "after": "## Why alloys are harder than pure metals" },
+ { "src": "https://img.marlbridge.com/alloys-and-extraction-of-metals--02-extraction-method.webp", "after": "## Extraction method depends on reactivity" },
+ { "src": "https://img.marlbridge.com/alloys-and-extraction-of-metals--03-blast-furnace.webp", "after": "## Blast furnace — iron from haematite" },
+ { "src": "https://img.marlbridge.com/alloys-and-extraction-of-metals--04-iron-steps.webp", "after": "## Blast furnace — iron from haematite" },
+ { "src": "https://img.marlbridge.com/alloys-and-extraction-of-metals--05-slag.webp", "after": "## Blast furnace — iron from haematite" },
+ { "src": "https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp", "after": "## Aluminium — electrolysis" }
+] }

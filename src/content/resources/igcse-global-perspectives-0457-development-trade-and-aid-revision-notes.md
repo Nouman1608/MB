@@ -57,6 +57,11 @@ Command words printed in the syllabus: **analyse, describe, evaluate, explain, i
 | Remittances | Money sent home by people working abroad |
 | Debt relief | Cancelling or reducing a country's debts |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-development-trade-and-aid--01-kinds-of-aid.webp" width="900" height="720" alt="A tree divides aid by route (bilateral or multilateral), by purpose (humanitarian or development) and by conditions (tied or untied). Below, three trade tools: a tariff is a tax on imports, a quota limits imports, and fair trade certification aims at fairer prices and conditions." loading="lazy">
+  <figcaption>Name the exact kind of aid or trade measure before you judge it.</figcaption>
+</figure>
+
 ## Ideas and examples at a glance
 
 | Who or what | Idea | Key point | One evaluation point |
@@ -72,6 +77,16 @@ Command words printed in the syllabus: **analyse, describe, evaluate, explain, i
 
 Remember: these are **context**, not content to learn for marks. Use them to practise identifying perspectives and evaluating claims.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-development-trade-and-aid--04-sachs-vs-moyo.webp" width="900" height="564" alt="Jeffrey Sachs (The End of Poverty, 2005) argues more well-planned aid could end extreme poverty; Dambisa Moyo (Dead Aid, 2009) argues long-term government-to-government aid encouraged dependency and corruption and that trade and investment are better. Critics ask whether large programmes can be managed well, and point to vaccination as an area where aid has clear results." loading="lazy">
+  <figcaption>Strong perspectives still have weaknesses that critics can test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-development-trade-and-aid--02-uk-aid-target.webp" width="900" height="660" alt="Bar chart of UK aid as a share of gross national income against the UN 0.7% target line from a 1970 resolution: 0.7% before 2021, cut to 0.5% in 2021, and an announced cut to 0.3% by 2027 to help pay for higher defence spending." loading="lazy">
+  <figcaption>A national priority can pull against a global commitment.</figcaption>
+</figure>
+
 ## Source terms (Component 1)
 
 The syllabus says candidates will benefit from understanding **bias, claim, fact, generalisation, opinion, prediction, value and vested interest**.
@@ -84,6 +99,11 @@ The syllabus says candidates will benefit from understanding **bias, claim, fact
 - **Value**: a belief about right and wrong. "Rich countries have a duty to help."
 - **Vested interest**: the author gains from the outcome.
 - **Bias**: one-sided selection or language.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-development-trade-and-aid--07-fair-trade-survey.webp" width="900" height="826" alt="A grid of 120 dots with 30 highlighted shows that 25% of shoppers in an invented survey said they always buy fair trade tea, so 90 did not. Three weaknesses follow: a campaign group ran it, it covers one town, and stated behaviour may differ from actual buying. Independent sales data would be better." loading="lazy">
+  <figcaption>Look at what the number leaves out: here, three-quarters of shoppers.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -109,11 +129,21 @@ The syllabus says candidates will benefit from understanding **bias, claim, fact
 
 Always ask: what is their role, what do they gain or lose, and what values shape their view?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-development-trade-and-aid--05-perspectives-by-level.webp" width="900" height="631" alt="Rings for personal, national and global perspectives on development, trade and aid: a farmer or factory worker; an exporters’ association and a donor-country taxpayer or politician; an international organisation working to the Sustainable Development Goals and an aid charity." loading="lazy">
+  <figcaption>Each perspective comes from a role, an interest and a level.</figcaption>
+</figure>
+
 ## Cause and consequence chains
 
 - Tariff removed -> cheaper exports -> more orders -> more jobs -> pressure on conditions unless standards are enforced.
 - Aid cut -> clinic funding falls -> fewer vaccinations -> health effects that last for years.
 - Low prices for raw crops -> low farm incomes -> young people leave farming -> local food supply affected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-development-trade-and-aid--06-tariff-chain.webp" width="900" height="820" alt="A chain: a tariff on imported clothing is removed, exporters win more orders, factory jobs increase, household incomes rise, but workers face more pressure to meet deadlines. The final outcome splits by whether labour standards are enforced. Below, reminders to separate short- and long-term consequences and to ask who gains and loses." loading="lazy">
+  <figcaption>The end of a chain often depends on conditions the source does not mention.</figcaption>
+</figure>
 
 ## Courses of action checklist
 

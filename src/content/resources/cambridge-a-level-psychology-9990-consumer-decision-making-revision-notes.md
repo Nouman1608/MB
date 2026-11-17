@@ -35,6 +35,16 @@ For full explanations and a model answer, use the [consumer decision-making stud
 - **2.3.2 Heuristics**: availability, representativeness, recognition, take-the-best, anchoring. Point-of-purchase anchors: multiple unit pricing and suggestive selling, e.g. Wansink et al. (1998). Styles and heuristics, e.g. del Campo et al. (2016).
 - **2.3.3 Mistakes**: system 1 (fast, intuitive) and system 2 (slow, logical), e.g. Shleifer (2012). Key study Hall et al. (2010) on choice blindness. Retroactive and proactive interference in memory for adverts, e.g. Burke and Srull (1988).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--11-co-decision-strategies.webp" width="900" height="1010" alt="Three illustrative laptops rated 1 to 5. Compensatory: totals 7, 11, 10 so B. Non-compensatory: price rating must be 3 or more so B is out. Partly compensatory: features won 0, 1, 2 so C." loading="lazy">
+  <figcaption>The three strategies applied to the same options.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-consumer-decision-making--03-wansink-anchoring.webp" width="900" height="653" alt="Three in-store offers, multiple unit pricing (4 for £2), suggestive selling (buy 18 for your freezer) and a purchase limit (limit 12 per person), each supply a number that acts as an anchor. Shoppers adjust down from it too little, so they buy more items." loading="lazy">
+  <figcaption>The number in the offer anchors how many items shoppers buy.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition to learn |
@@ -58,6 +68,16 @@ For full explanations and a model answer, use the [consumer decision-making stud
 | Retroactive interference | Later information disrupts memory of earlier information |
 | Proactive interference | Earlier information disrupts learning of later information |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-consumer-decision-making--04-system-1-system-2.webp" width="900" height="649" alt="System 1 is fast, automatic and intuitive; system 2 is slow, deliberate and effortful. In the bat and ball problem, system 1 gives the wrong answer 10p while system 2 checking gives 5p. A note links this to consumer errors such as judging value from a SALE sign." loading="lazy">
+  <figcaption>Errors happen when fast intuition answers a question that needs slow checking.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-consumer-decision-making--06-interference.webp" width="900" height="729" alt="Two timelines. Retroactive: a rival advert shown later disrupts memory of an earlier Brand A advert, so the arrow points backwards. Proactive: an earlier rival advert disrupts learning of a later Brand A advert, so the arrow points forwards. The implication is to keep adverts away from direct competitors." loading="lazy">
+  <figcaption>Retroactive works backwards on old memories; proactive works forwards on new learning.</figcaption>
+</figure>
+
 ## Key study summary: Hall et al. (2010)
 
 | Feature | Detail |
@@ -72,6 +92,11 @@ For full explanations and a model answer, use the [consumer decision-making stud
 | Strengths | Real setting and products; standardised switching procedure |
 | Weaknesses | Deception; detection judged from verbal reports; one product type per trial |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-consumer-decision-making--05-hall-choice-blindness.webp" width="900" height="905" alt="A double-ended container with a hidden divider is turned over so a shopper who chose jam or tea A is given the rejected B to re-sample and justify. Results: no more than a third of switches detected, no more than half even for very different pairs. A conclusion and an evaluation grid follow." loading="lazy">
+  <figcaption>Most shoppers missed the switch and defended a choice they had not made.</figcaption>
+</figure>
+
 ## Comparison grid: the three models
 
 | | Utility theory | Satisficing | Prospect theory |
@@ -80,6 +105,16 @@ For full explanations and a model answer, use the [consumer decision-making stud
 | How much information used | All | Enough to meet a standard | Depends on reference point |
 | Explains | Careful, high-value purchases | Everyday, low-effort purchases | Loss-framed offers, discounts |
 | Weakness | Unrealistic demands on memory and time | Does not predict which standard is set | Describes biases more than it predicts choices of specific products |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-consumer-decision-making--01-three-models.webp" width="900" height="612" alt="Three cards: utility theory (weigh all information, choose the highest expected value), satisficing (bounded rationality, accept the first option that meets a minimum standard) and prospect theory (gains and losses from a reference point, loss aversion). A table compares their predictions about framing and search." loading="lazy">
+  <figcaption>Setting the models' predictions side by side is comparing, not just describing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-consumer-decision-making--02-prospect-theory-curve.webp" width="900" height="697" alt="An S-shaped curve through a reference point: the gains side rises and flattens, the losses side falls more steeply, so an equal loss feels worse than an equal gain feels good. Notes explain loss aversion and diminishing sensitivity. The shape is illustrative." loading="lazy">
+  <figcaption>Measured from a reference point, losses hurt more than equal gains please.</figcaption>
+</figure>
 
 ## Linking to issues and debates
 

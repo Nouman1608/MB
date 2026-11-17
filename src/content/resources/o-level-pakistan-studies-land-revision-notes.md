@@ -33,6 +33,11 @@ Tropic of Cancer; latitudes **30°N, 36°N**; longitudes **64°E, 70°E, 76°E**
 Pakistan's position in South and Central Asia. This section is tested **visually as often as in
 writing** — practise locating everything on a blank outline map, not just recalling facts in words.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-land-of-pakistan--03-reference-lines.webp" width="900" height="640" alt="A schematic grid of the reference lines candidates must place on a map: latitudes 36°N and 30°N, the Tropic of Cancer further south, and longitudes 64°E, 70°E and 76°E, with the Arabian Sea to the south. Below, a bar shows climate ranging from tropical in the south to temperate and alpine in the northern mountains." loading="lazy">
+  <figcaption>Learn the five reference lines and the Tropic of Cancer before placing any feature.</figcaption>
+</figure>
+
 ## Cities and administrative areas — the 15 to place
 
 Islamabad, Murree, Rawalpindi, Gujranwala, Lahore, Faisalabad, Multan, Sialkot, Peshawar, Chitral,
@@ -55,6 +60,16 @@ and expensive → concentrates transport routes along valleys and passes rather 
 network. This exact chain — named feature → physical constraint → human consequence — is the shape a
 strong topography answer takes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-land-of-pakistan--04-relief-and-rivers.webp" width="900" height="770" alt="Three panels group the named landforms: mountain ranges of the north and west (Hindu Kush, Karakoram, Himalaya, Sulaiman Range, Safed Koh), plateaux (Balochistan, Potwar, Salt Range) and deserts (Thar, Thal, Kharan). Below, the Jhelum, Chenab, Ravi and Sutlej feed the Indus; the Kabul, Hab and Dasht are also named." loading="lazy">
+  <figcaption>Every named feature belongs to one of four families: learn them by family, then locate them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-land-of-pakistan--05-topography-and-people.webp" width="900" height="540" alt="Two sketches compare relief. In steep mountains, settlement sits in a valley and a route winds along the valley floor because road and rail are hard and costly to build. On the flat plains, farmland, straight routes and evenly spread houses cover the land." loading="lazy">
+  <figcaption>Steep land funnels routes into valleys; flat plains allow dense networks and farming.</figcaption>
+</figure>
+
 ## Climate — describe AND explain, always paired
 
 Four zones: **arid, semi-arid, humid, highland**. The **monsoon** (seasonal reversal of wind
@@ -65,11 +80,21 @@ consequential climatic feature for agriculture and water supply.
 and snow shaping mountain-community life; lowland regions face both drought/water shortage AND
 flooding from heavy rain storms, depending on season and region.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-land-of-pakistan--06-climate-and-people.webp" width="900" height="700" alt="The monsoon, caused by a seasonal reversal of winds and pressure, brings most of the rainfall. Below are the arid, semi-arid, humid and highland zones, then the hazards of the highland north (low temperatures, ice and snow) and the lowlands (drought, water shortage and flooding), all leading to effects on farming, industry, water supply and daily life." loading="lazy">
+  <figcaption>Every climate answer should end with the effect on people.</figcaption>
+</figure>
+
 ## Worked chain — the answer shape examiners want
 
 Named mountain range (e.g. Karakoram/Himalaya) → steep, high-altitude terrain → difficult, expensive
 road/rail construction → transport concentrated along valleys/passes rather than spread evenly.
 Practise this exact four-step shape for any topography-to-consequence question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-land-of-pakistan--07-answer-chain.webp" width="900" height="514" alt="Three linked boxes show the structure of a strong answer: a named feature (the Karakoram and Himalaya), the physical constraint (steep, high terrain makes road and rail hard and costly) and the human consequence (routes concentrated along valleys and passes)." loading="lazy">
+  <figcaption>Move from a named feature to a physical constraint to a human consequence.</figcaption>
+</figure>
 
 ## Why this section is foundational to the rest of Paper 2
 
@@ -80,6 +105,11 @@ agriculture, industry and population — a candidate who has not secured the Ind
 western plateaux, or the four climate zones here will lose time re-deriving that context mid-answer
 when a later section assumes it. Memorising this section thoroughly is one of the most efficient uses
 of Paper 2 revision time precisely because it underpins so much of what comes after it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-land-of-pakistan--01-section-1-foundation.webp" width="900" height="454" alt="Section 1, The Land of Pakistan, is drawn as the base supporting the other seven sections of Paper 2, from natural resources to population and employment. Its location, administrative areas, topography and climate recur as context throughout." loading="lazy">
+  <figcaption>Location, topography and climate recur as context in every later Paper 2 section.</figcaption>
+</figure>
 
 ## Distinguishing administrative geography from physical geography
 

@@ -38,6 +38,11 @@ text you are studying; the set poems change by year, so check the list for your 
 - Personal response may be asked for directly ("What do you think…?", "What are your feelings
   about…?") or by implication ("Explore the ways in which…").
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-a-poetry--01-section-a-and-aos.webp" width="900" height="704" alt="Section A is worth 25 of Paper 1’s 50 marks: one question on one poetry set text, from a choice of two, with the poem printed. Every question tests AO1 knowledge, AO2 understanding, AO3 the writer’s methods and AO4 personal response, and AO3 carries particular weight in poetry." loading="lazy">
+  <figcaption>Explaining how the poem creates meaning (AO3) separates the higher levels from the lower.</figcaption>
+</figure>
+
 ## Key terms and what they do
 
 | Term | Definition | Typical effect to discuss |
@@ -70,6 +75,11 @@ text you are studying; the set poems change by year, so check the list for your 
 6. Note how stanza shape, line breaks and punctuation support the meaning.
 7. Choose four or five moments that best answer the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-a-poetry--02-six-layers.webp" width="900" height="706" alt="Six layers for reading a printed poem: the question’s key words, voice and situation, the poem’s emotional shape and turn, imagery, sound and rhythm, and form and structure, each with the questions to ask." loading="lazy">
+  <figcaption>Work through the poem layer by layer, always with the question’s key words in view.</figcaption>
+</figure>
+
 ## Sentence frames for analysis
 
 - "The word '…' suggests…, which makes the reader feel…"
@@ -80,6 +90,11 @@ text you are studying; the set poems change by year, so check the list for your 
 
 Use them as starting points; vary them so your writing does not become mechanical.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-a-poetry--03-analysing-a-method.webp" width="900" height="692" alt="Analysis in three parts: name the method only if it helps, quote precisely and explain the effect in context. Saying the poet uses alliteration in “soft and slow” is feature-spotting; explaining that the sounds make the line linger, so the reader feels the speaker’s reluctance, is analysis." loading="lazy">
+  <figcaption>The examiner rewards what you say about the effect, not the name of the technique.</figcaption>
+</figure>
+
 ## What higher-level answers do
 
 - Keep the question's key word in view in every paragraph.
@@ -87,6 +102,16 @@ Use them as starting points; vary them so your writing does not become mechanica
 - Explore more than one possible meaning of an image.
 - Comment on structure: how the poem develops, not only on individual lines.
 - Express a personal response that grows from the evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-a-poetry--04-annotated-poem.webp" width="900" height="782" alt="The original poem “Night Shift” with six margin notes: the mother out of step with the world, her coat “holding” the hospital’s cold, the simile of a cup too full to carry, enjambment across the stanza break, her questions about the child, and the closing “thin” curtains and humming kettle." loading="lazy">
+  <figcaption>Each note links a precise choice of words, sound or form to the question’s focus on the mother.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-a-poetry--05-planning-25-marks.webp" width="900" height="706" alt="A plan of four or five points: a two-sentence opening that answers the question, three or four paragraphs on stages of the poem with two or three short quotations each, a paragraph on the ending or structure, and a brief conclusion on the key word. For direct questions the view is explicit from the start; for “Explore the ways” it emerges through analysis." loading="lazy">
+  <figcaption>Plan the answer around the poem’s movement and place your view to suit the question type.</figcaption>
+</figure>
 
 ## Exam traps
 

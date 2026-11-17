@@ -29,6 +29,11 @@ featured: false
 
 Year of Sorrow and rejection at Ta'if → first converts from Yathrib at the pilgrimage → **first pledge of Aqaba** (twelve men) → Mus'ab ibn Umair (RA) teaches in Yathrib → **second pledge of Aqaba** (more than seventy men, two women) → Muslims migrate in small groups → Quraysh plot → Ali (RA) in the bed → Cave of Thawr with Abu Bakr (RA) → pursuit by Suraqa → **Quba**: first mosque (622 CE) → first Jummah on the way into Madinah → camel kneels; land bought from two orphans → **Prophet's Mosque** → brotherhood → **Charter of Madinah**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period--01-why-migration.webp" width="900" height="356" alt="Two columns. In Makkah: persecution, the boycott of Banu Hashim, the Year of Sorrow, loss of Abu Talib’s protection and rejection at Ta’if. In Yathrib, to the north: an oasis divided between the Aws and the Khazraj, also home to Jewish tribes, which could offer a place to worship freely." loading="lazy">
+  <figcaption>Makkah had become unsafe; Yathrib offered a place to live as a community.</figcaption>
+</figure>
+
 ## The two pledges compared
 
 | | First pledge of Aqaba | Second pledge of Aqaba |
@@ -37,6 +42,11 @@ Year of Sorrow and rejection at Ta'if → first converts from Yathrib at the pil
 | Promises | No shirk, theft, adultery, killing children, slander; obey in what is right | All of that **plus** protect the Prophet (pbuh) as their own families |
 | Result | Mus'ab ibn Umair (RA) sent as teacher | Invitation to Yathrib; Hijrah becomes possible |
 | Nature | Religious and moral | Religious, political and military |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period--02-pledges-of-aqaba.webp" width="900" height="636" alt="Three steps: first contact with a small group from the Khazraj; the first pledge of Aqaba by twelve men about belief and conduct, after which Mus’ab ibn Umair (RA) taught in Yathrib; and the second pledge by more than seventy men and two women to protect the Prophet (pbuh). A note gives the importance of the pledges." loading="lazy">
+  <figcaption>The first pledge was about belief and conduct; the second added protection.</figcaption>
+</figure>
 
 ## Roles in the journey
 
@@ -50,12 +60,27 @@ Year of Sorrow and rejection at Ta'if → first converts from Yathrib at the pil
 | Suraqa ibn Malik | Pursuer whose horse stumbled; turned back with a promise of safety |
 | Abu Ayyub Ansari (RA) | Hosted the Prophet in Madinah |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period--03-roles-ali-abu-bakr.webp" width="900" height="513" alt="The Quraysh plot to strike together, then two columns. Hazrat Ali (RA) slept in the Prophet’s bed and stayed to return the goods held in trust before walking to Madinah. Hazrat Abu Bakr (RA) prepared camels and a guide, left by night heading south and hid in the Cave of Thawr, helped by his family." loading="lazy">
+  <figcaption>Ali (RA) had two roles: he slept in the bed and returned the trusts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period--04-journey-sequence.webp" width="900" height="558" alt="Six steps of the journey: leaving Makkah by night heading south, three days in the Cave of Thawr, Suraqa ibn Malik turning back, arrival at Quba in 622 CE and founding the first mosque, the first Jummah prayer, and arrival in Madinah where al-Qaswa knelt on land the Prophet (pbuh) paid for." loading="lazy">
+  <figcaption>The Prophet (pbuh) did not go straight to Madinah: Thawr and Quba came first.</figcaption>
+</figure>
+
 ## The mosques
 
 - **Quba:** the first mosque in Islam, built on arrival at the edge of Madinah.
 - **Masjid an-Nabawi:** built on land bought from two orphans; mud brick, palm trunks and palm leaves; the Prophet (pbuh) worked on it himself.
 - **Functions:** prayer, teaching, judging disputes, receiving delegations, shelter for the poor in the *suffah*.
 - **Qur'an 9:108:** "a mosque founded on righteousness from the first day"; many scholars say Quba, some the Prophet's Mosque; contrasted with the hypocrites' mosque (9:107).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period--05-two-mosques.webp" width="900" height="517" alt="Two columns comparing the Mosque of Quba, the first mosque in Islam, founded in 622 CE and linked by many scholars to Qur’an 9:108, with Masjid an-Nabawi in Madinah, built of mud brick and palm with a suffah, and used for teaching, judging and planning. A note gives the lesson of 9:107–108." loading="lazy">
+  <figcaption>Quba came first; the Prophet’s Mosque became the centre of the community.</figcaption>
+</figure>
 
 ## Charter of Madinah: seven terms
 
@@ -75,6 +100,11 @@ Year of Sorrow and rejection at Ta'if → first converts from Yathrib at the pil
 - Created brotherhood (mu'akhat) between Muhajirun and Ansar.
 - Wrote the Charter of Madinah.
 - Made agreements with neighbouring tribes and organised defence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period--07-brotherhood.webp" width="900" height="488" alt="Each Muhajir, a migrant who had lost everything, was paired as a brother with an Ansari helper from Madinah to share homes, work and property. Example: Sa’d ibn al-Rabi’ (RA) offered half his wealth to Abdur Rahman ibn Awf (RA), who asked only to be shown the market." loading="lazy">
+  <figcaption>The brotherhood solved a social and economic crisis without conflict.</figcaption>
+</figure>
 
 ## Key terms
 

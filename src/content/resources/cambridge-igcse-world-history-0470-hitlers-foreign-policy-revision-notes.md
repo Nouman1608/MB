@@ -36,6 +36,11 @@ with the [Hitler's foreign policy practice questions](/resources/cambridge-igcse
 3. Gain **Lebensraum** in the East.
 4. Destroy **communism**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-hitlers-foreign-policy--01-hitlers-aims.webp" width="900" height="528" alt="Four aim cards: overturn the Treaty of Versailles, unite all German speakers, win Lebensraum in Eastern Europe, and destroy communism. A note: his aims were consistent while his timing was opportunistic." loading="lazy">
+  <figcaption>The first two aims could look reasonable; the last two meant war in the east.</figcaption>
+</figure>
+
 ## The steps to war: what happened and why it mattered
 
 | Step | Date | Why it mattered |
@@ -54,6 +59,16 @@ with the [Hitler's foreign policy practice questions](/resources/cambridge-igcse
 | Nazi-Soviet Pact | 23 August 1939 | No two-front war; secret plan to divide Poland |
 | Invasion of Poland | 1 September 1939 | Britain and France declare war on 3 September |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-hitlers-foreign-policy--02-steps-to-war.webp" width="900" height="688" alt="A timeline from 1933 to 1939 drawn to scale: leaving the League (October 1933), the Saar plebiscite (January 1935), rearmament (March 1935), the Rhineland (March 1936), the Anschluss (March 1938), Munich (September 1938), the Czech lands (March 1939), the Nazi-Soviet Pact (23 August 1939) and the invasion of Poland (1 September 1939). A table gives the British and French response in each phase." loading="lazy">
+  <figcaption>Each unpunished step led to the next, until Prague ended appeasement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-hitlers-foreign-policy--04-munich.webp" width="900" height="424" alt="A chain: Henlein stirs unrest among about three million Sudeten Germans; Chamberlain flies to Berchtesgaden and Bad Godesberg; at Munich on 29-30 September 1938 four powers give the Sudetenland to Germany; in March 1939 Hitler takes the rest of the Czech lands and appeasement collapses." loading="lazy">
+  <figcaption>Munich gave Hitler the Sudetenland; Prague showed he wanted more.</figcaption>
+</figure>
+
 ## Appeasement: the debate
 
 | For | Against |
@@ -64,12 +79,22 @@ with the [Hitler's foreign policy practice questions](/resources/cambridge-igcse
 | No support from the USA or the Dominions | Gave away Czechoslovakia's army and defences |
 | Fear of communism | Alienated Stalin, who was not invited to Munich |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-hitlers-foreign-policy--03-appeasement-justified.webp" width="900" height="467" alt="A balance tipping towards &quot;not justified&quot;. Justified: memories of the First World War, Britain's unreadiness, the view that Versailles was unfair, and no Dominion or US support in 1938. Not justified: concessions encouraged more demands, Germany rearmed faster, Mein Kampf showed wider aims, and Czech defences were given up while the USSR was excluded." loading="lazy">
+  <figcaption>Appeasement had real reasons, but it fed Hitler's demands.</figcaption>
+</figure>
+
 ## Why Stalin signed the Nazi-Soviet Pact
 
 - Distrust of Britain and France after **Munich**.
 - The Anglo-French military mission to Moscow (August 1939) was slow and low-level.
 - **Time** to strengthen Soviet forces.
 - **Territory** in Poland and the Baltic under the secret protocol.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-hitlers-foreign-policy--05-nazi-soviet-pact.webp" width="900" height="549" alt="Two cards: for Hitler the pact removed the danger of a two-front war; for Stalin it bought time and territory, after Munich and a weak Anglo-French mission. Below, the secret protocol dividing Poland and Eastern Europe, and a judgement that the pact was a response to earlier events." loading="lazy">
+  <figcaption>The pact made the attack on Poland possible, but did not cause the drive east.</figcaption>
+</figure>
 
 ## Weighing the causes of war
 
@@ -80,6 +105,11 @@ with the [Hitler's foreign policy practice questions](/resources/cambridge-igcse
 | League failures | Showed aggression went unpunished; pushed Italy towards Germany |
 | Appeasement | Encouraged Hitler to believe Britain and France would not fight |
 | Nazi-Soviet Pact | Removed the last obstacle to invading Poland |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-hitlers-foreign-policy--06-appeasement-main-reason.webp" width="900" height="477" alt="A three-step plan. Agree: inaction over the Rhineland and Munich convinced Hitler Britain and France would not fight. Disagree: appeasement responded to Hitler's demands, his aims required expansion, and the Nazi-Soviet Pact gave him security. Judgement: appeasement made war more likely, but Hitler's aims made it happen." loading="lazy">
+  <figcaption>Appeasement encouraged Hitler; his aims caused the war.</figcaption>
+</figure>
 
 ## Key terms
 

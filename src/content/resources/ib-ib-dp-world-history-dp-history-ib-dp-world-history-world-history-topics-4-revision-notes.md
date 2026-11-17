@@ -49,6 +49,11 @@ Related: [Societies in transition study guide](/resources/ib-ib-dp-world-history
 | 1633 | Galileo's trial | Ideas |
 | 1687 | Newton's *Principia* | Ideas |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-4--05-ideas-timeline.webp" width="900" height="703" alt="A timeline from 1400 to 1700 marks the Gutenberg Bible (1450s), Copernicus's On the Revolutions (1543), Galileo's trial by the Inquisition (1633) and Newton's Principia (1687). A note warns that printing spread ideas mainly through the literate and reading aloud." loading="lazy">
+  <figcaption>Two centuries from the printed Bible to Newton's laws.</figcaption>
+</figure>
+
 ## Change and continuity: German lands, c.1500-1600
 
 | Area | Change | Continuity |
@@ -59,6 +64,11 @@ Related: [Societies in transition study guide](/resources/ib-ib-dp-world-history
 | Society | Clergy could marry; new schools and catechisms | Social hierarchy intact; the peasants' demands defeated in 1525 |
 | Culture | Vernacular Bible; pamphlets and print | Latin remained the language of learning |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-4--02-reformation-timeline.webp" width="900" height="704" alt="A vertical timeline: Luther's Ninety-five Theses (1517); excommunication and the Diet of Worms (1521); the Peasants' War (1524-25); the Jesuits approved (1540); the Council of Trent (1545-63); and the Peace of Augsburg (1555), which let each prince choose his territory's religion." loading="lazy">
+  <figcaption>Reform, revolt, Catholic response and a settlement by princes.</figcaption>
+</figure>
+
 ## Change and continuity: Ming China, c.1400-1644
 
 | Area | Change | Continuity |
@@ -67,6 +77,11 @@ Related: [Societies in transition study guide](/resources/ib-ib-dp-world-history
 | Foreign contact | Zheng He's voyages; lifting of the maritime ban (1567); Jesuits at court (Ricci in Beijing from 1601) | Tribute system and suspicion of foreign influence |
 | Society | Merchant wealth bought land and education | Scholar-officials at the top; examination system unchanged in principle |
 | Ideas | Wang Yangming's challenge to orthodox Neo-Confucianism | Confucian classics remained the basis of education |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-4--04-silver-flows.webp" width="900" height="609" alt="A schematic, not to scale. Silver from Potosí (from 1545) and Mexico flows east to Europe, where prices rise in the price revolution, and west through the Manila galleons (from the 1570s) to Ming China, where silver becomes the main medium for taxes and trade under the Single Whip reforms." loading="lazy">
+  <figcaption>American silver tied Europe and China to the same flow of money.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -89,6 +104,16 @@ Related: [Societies in transition study guide](/resources/ib-ib-dp-world-history
 - **Silver and state power**: American silver funded Spanish wars and fed China's monetised economy.
 - **Contact and disease**: epidemics made conquest easier and transformed American societies; new crops later supported population growth in Asia and Europe.
 - **Religion and politics**: princes adopted reform partly for control over church lands and appointments; rulers such as Akbar used toleration to bind diverse elites.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-4--03-columbian-exchange.webp" width="900" height="606" alt="A schematic, not to scale. Maize and potatoes flow from the Americas to Europe, Africa and Asia; horses, cattle and wheat flow to the Americas; smallpox flows to the Americas and devastates populations; and the Atlantic slave trade forcibly transports millions of Africans to the Americas." loading="lazy">
+  <figcaption>Crops, animals, diseases and enslaved people crossed the Atlantic in both directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-4--06-silver-spain-china.webp" width="900" height="646" alt="A grid compares the impact of American silver on Habsburg Spain and Ming China across money and prices, state finance, society and economy, and vulnerability. Below, the conclusion: silver masked Spanish weakness but strengthened Chinese commerce while creating dependence." loading="lazy">
+  <figcaption>The same silver strengthened Chinese commerce and masked Spanish weakness.</figcaption>
+</figure>
 
 ## Judgement lines for conclusions
 

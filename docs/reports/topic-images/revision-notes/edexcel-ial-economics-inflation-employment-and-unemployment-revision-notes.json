@@ -1,0 +1,10 @@
+{ "page": "edexcel-ial-economics-inflation-employment-and-unemployment-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--11-cpi-rates.webp", "after": "## 1. Inflation, deflation and disinflation (item 2a)" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--10-cpi-weighted.webp", "after": "## 2. Measuring inflation: the CPI (items 2b to 2d)" },
+ { "src": "https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp", "after": "## 3. Causes of inflation and deflation (items 2e and 2f)" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-economics-inflation-deflation-and-the-cpi--14-real-pay.webp", "after": "## 4. Effects of inflation and deflation (item 2g)" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--04-ilo-three-part-test.webp", "after": "## 5. Measuring unemployment (items 3a and 3e)" },
+ { "src": "https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp", "after": "## 6. Causes of unemployment (item 3b)" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--08-confidence-loop.webp", "after": "## 7. Effects of unemployment (items 3c, 3d and 3f)" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--11-cost-of-unemployment-to-government.webp", "after": "## 7. Effects of unemployment (items 3c, 3d and 3f)" }
+] }

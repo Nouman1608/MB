@@ -45,6 +45,11 @@ OFFER  ->  still open?  ->  ACCEPTANCE (mirror image, communicated)
 | Unilateral offer to the world | *Carlill v Carbolic Smoke Ball Co* (1893) |
 | Auctions: bid is offer; hammer is acceptance | *Payne v Cave* (1789) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--01-offer-or-not.webp" width="900" height="588" alt="Statements that are not offers: “may be prepared to sell” (Gibson v Manchester City Council) and a stated lowest price (Harvey v Facey). Goods on display, most adverts and website listings are invitations to treat. At an auction the request for bids is an invitation to treat, each bid is an offer that can be withdrawn, and the fall of the hammer is acceptance (Payne v Cave). An offer must be communicated." loading="lazy">
+  <figcaption>Look at the words: an offer shows intention to be bound on acceptance.</figcaption>
+</figure>
+
 ## Termination of offer
 
 | Method | Rule | Authority |
@@ -57,6 +62,11 @@ OFFER  ->  still open?  ->  ACCEPTANCE (mirror image, communicated)
 | Unilateral offer | Cannot revoke once performance begun | *Errington v Errington* (1952) |
 
 **Promise to keep an offer open:** not binding without consideration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--02-how-an-offer-ends.webp" width="900" height="428" alt="Two columns. Things that end an offer: revocation communicated to the offeree (Byrne v Van Tienhoven), revocation through a reliable third party (Dickinson v Dodds), rejection or counter-offer (Hyde v Wrench), lapse of time (Ramsgate Victoria Hotel v Montefiore) and possibly death. Things that do not: a posted revocation not yet received, a request for information (Stevenson v McLean), and revoking a unilateral offer once performance has begun (Errington v Errington)." loading="lazy">
+  <figcaption>Revocation must reach the offeree; a counter-offer kills the offer, an inquiry does not.</figcaption>
+</figure>
 
 ## Acceptance
 
@@ -71,6 +81,16 @@ OFFER  ->  still open?  ->  ACCEPTANCE (mirror image, communicated)
 | Instant | On receipt | *Entores* (1955) |
 | Telex/similar to business | When received or would be read in office hours | *The Brimnes* (1975); *Brinkibon* (1983) |
 | Unilateral | By performance | *Carlill* (1893) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--03-battle-of-the-forms.webp" width="900" height="566" alt="Butler Machine Tool v Ex-Cell-O: the buyer’s order on its own terms was a counter-offer; the seller’s return of the buyer’s tear-off acknowledgment slip accepted it; so the buyer’s terms governed. Below: acceptance can be by conduct, as in Brogden v Metropolitan Railway." loading="lazy">
+  <figcaption>New terms make a counter-offer; whoever’s terms are accepted last governs here.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--14-ct-acceptance-timing.webp" width="900" height="920" alt="Two timelines. By post, acceptance is effective when posted (Adams v Lindsell). By instant methods, acceptance takes effect when received (Entores v Miles Far East). Two things that are not acceptance: a counter-offer, which destroys the original offer (Hyde v Wrench), and silence (Felthouse v Bindley)." loading="lazy">
+  <figcaption>Postal rule against receipt rule, and two things that are not acceptance.</figcaption>
+</figure>
 
 ## Consideration
 
@@ -91,11 +111,21 @@ OFFER  ->  still open?  ->  ACCEPTANCE (mirror image, communicated)
 | Part payment of debt not enough | *Pinnel's Case* (1602); *Foakes v Beer* (1884) |
 | Promissory estoppel | *Central London Property Trust v High Trees* (1947) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--04-consideration-rules.webp" width="900" height="746" alt="The Currie v Misa definition, then a table of rules. Consideration must move from the promisee (Tweddle v Atkinson); it need not be adequate (Thomas v Thomas; Chappell v Nestlé) but must be real (White v Bluett); it must not be past (Re McArdle) unless requested and understood to be paid (Lampleigh; Pao On); an existing public duty (Collins v Godefroy) or contractual duty (Stilk v Myrick) is not enough unless exceeded (Glasbrook; Hartley v Ponsonby) or a practical benefit arises (Williams v Roffey); part payment is not consideration (Pinnel; Foakes v Beer) unless something different is given, and promissory estoppel may apply (High Trees)." loading="lazy">
+  <figcaption>Each side must give something real; doing only what you already must is not enough.</figcaption>
+</figure>
+
 ## Privity
 
 - Only parties can sue or be sued: *Dunlop v Selfridge* (1915).
 - **1999 Act s1:** third party may enforce if expressly allowed, or term purports to benefit them (unless contrary intention); identified by name, class or description (s1(3)).
 - Agency; *Jackson v Horizon Holidays* (1975); *Beswick v Beswick* (1968).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--05-privity.webp" width="900" height="740" alt="In Dunlop v Selfridge a manufacturer could not enforce a price agreement between a wholesaler and a retailer, because it was not a party. Exceptions: the Contracts (Rights of Third Parties) Act 1999 section 1; agency; contracts for the benefit of others (Jackson v Horizon Holidays); and suing as a personal representative (Beswick v Beswick)." loading="lazy">
+  <figcaption>Only parties can enforce, unless the 1999 Act or another exception applies.</figcaption>
+</figure>
 
 ## Intention to create legal relations
 
@@ -103,6 +133,11 @@ OFFER  ->  still open?  ->  ACCEPTANCE (mirror image, communicated)
 |---|---|---|---|
 | Social / domestic | Not binding | *Balfour v Balfour* (1919); *Jones v Padavatton* (1969) | *Merritt v Merritt* (1970); *Simpkins v Pays* (1955) |
 | Commercial | Binding | *Edwards v Skyways* (1964) | *Rose & Frank v Crompton* (1925); *Kleinwort Benson v Malaysia Mining* (1989) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-essential-requirements-of-contract--06-intention-presumptions.webp" width="900" height="419" alt="Social and domestic agreements are presumed not binding (Balfour v Balfour; Jones v Padavatton), rebutted in Merritt v Merritt and Simpkins v Pays. Commercial agreements are presumed binding (Edwards v Skyways), rebutted by an honour clause (Rose &amp; Frank v Crompton) or a letter of comfort stating present fact (Kleinwort Benson)." loading="lazy">
+  <figcaption>Start with the presumption, then look for evidence that rebuts it.</figcaption>
+</figure>
 
 ## Key terms
 

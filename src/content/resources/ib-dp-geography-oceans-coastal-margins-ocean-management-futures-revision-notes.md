@@ -33,6 +33,11 @@ Governance, sustainable use and uncertainty. Oceans lie largely beyond single na
 
 The **tragedy of the commons** explains why: when a resource such as a high-seas fish stock is open to all, each user gains from taking more, while the cost of depletion is shared by everyone. Without agreed limits, the rational choice for each user leads to collapse for all.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-oceans-coastal-margins-ocean-management-futures-revision-notes--01-tragedy-of-the-commons.webp" width="900" height="680" alt="A chain around a circle: a high-seas fish stock is open to all, each user gains from taking more, the cost of depletion is shared by everyone, and without agreed limits the stock collapses for all. In the centre, agreed limits such as quotas and marine protected areas break the chain." loading="lazy">
+  <figcaption>Without agreed limits, each user's rational choice leads to collapse for all.</figcaption>
+</figure>
+
 ## Governance tools
 
 | Tool | What it does |
@@ -58,6 +63,11 @@ The convention was adopted in 1982 and came into force in 1994. It divides the s
 
 Because small islands can generate large EEZs, control of islands, reefs and rocks matters greatly in disputes. A newer agreement on marine biodiversity beyond national jurisdiction, often called the High Seas Treaty, was agreed in 2023 and creates a legal route to set up protected areas in international waters.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-oceans-coastal-margins-ocean-management-futures-revision-notes--02-unclos-zones.webp" width="900" height="810" alt="A strip of sea from the coastal baseline: territorial sea to 12 nautical miles, contiguous zone to 24, exclusive economic zone to 200, then high seas, with the continental shelf able to extend beyond 200 nautical miles. A table lists the coastal state's rights in each zone." loading="lazy">
+  <figcaption>Rights shrink with distance from the baseline: sovereignty, then limited control, then resources only.</figcaption>
+</figure>
+
 ## Pressures on oceans
 
 Overfishing, marine plastic, oil and chemical pollution, shipping, offshore energy, deep-sea mining and tourism, with climate change altering currents, ecosystems and sea level.
@@ -72,6 +82,11 @@ Overfishing, marine plastic, oil and chemical pollution, shipping, offshore ener
 
 For centuries the Grand Banks off Newfoundland supported a huge cod fishery. Industrial trawlers greatly increased catches in the second half of the twentieth century, and stock estimates proved too optimistic. In 1992 the Canadian government imposed a moratorium on fishing for northern cod, ending work for tens of thousands of people in fishing and processing. Recovery has been slow. Lessons: scientific uncertainty, political pressure to keep quotas high and the slow response of ecosystems can turn overfishing into collapse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-oceans-coastal-margins-ocean-management-futures-revision-notes--03-grand-banks-cod-collapse.webp" width="900" height="690" alt="Three causes, industrial trawlers increasing catches, over-optimistic stock estimates and political pressure to keep quotas high, lead to catches above maximum sustainable yield. This ends in the 1992 moratorium on northern cod, with tens of thousands losing work, and slow recovery." loading="lazy">
+  <figcaption>Overfishing, optimistic science and political pressure turned depletion into collapse.</figcaption>
+</figure>
+
 ### The South China Sea
 
 Several states, including China, Vietnam, the Philippines and Malaysia, have overlapping claims to islands, reefs and waters rich in fish and possibly oil and gas, and crossed by major shipping lanes. China has built artificial islands on reefs and asserts claims based on a historic "nine-dash line". In 2016 an arbitral tribunal under UNCLOS, in a case brought by the Philippines, ruled that these historic claims had no legal basis under the convention; China rejected the ruling. It shows the limits of international law where enforcement depends on powerful states choosing to comply.
@@ -79,6 +94,11 @@ Several states, including China, Vietnam, the Philippines and Malaysia, have ove
 ### Great Barrier Reef Marine Park, Australia
 
 The park is managed by **zoning**: some areas allow general use, while others restrict fishing, and roughly a third of the park has been in no-take "green zones" since a rezoning in 2004. Evaluation: zoning is a strong model of a large, managed marine protected area, but it cannot protect the reef from warming water, which has caused repeated mass bleaching, or from pollution running off farmland on land.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-oceans-coastal-margins-ocean-management-futures-revision-notes--04-great-barrier-reef-zoning.webp" width="900" height="710" alt="A schematic of the Great Barrier Reef Marine Park beside the coast, divided into general-use areas, areas where fishing is restricted and no-take green zones, which cover roughly a third of the park since 2004. Warm water and runoff from farmland cross the zone boundaries." loading="lazy">
+  <figcaption>Zoning manages use inside the park but cannot stop warming water or farm runoff.</figcaption>
+</figure>
 
 ## Evaluation criteria
 

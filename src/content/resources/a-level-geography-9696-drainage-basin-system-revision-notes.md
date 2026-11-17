@@ -63,6 +63,11 @@ Condensed recall for **1.1 The drainage basin system** (inputs, stores, flows an
 
 The faster routes (overland flow, then throughflow) produce the quick response to storms; the slow routes (groundwater) keep rivers flowing in dry weather.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--07-phys-drainage-basin.webp" width="900" height="1010" alt="Schematic cross-section of a drainage basin. Precipitation from a cloud is the input. Stores are interception on a tree canopy, surface store, soil moisture, groundwater and the river channel. Flows are infiltration, percolation, throughflow, overland flow and baseflow. Outputs are evapotranspiration and channel discharge to the right. Not to scale." loading="lazy">
+  <figcaption>A drainage basin is an open system: precipitation comes in, water moves between stores by flows, and leaves as evapotranspiration and discharge.</figcaption>
+</figure>
+
 ## Two kinds of overland flow
 
 - **Infiltration-excess (Hortonian) overland flow:** rainfall intensity is greater than the infiltration capacity, even though the soil below is not full. Common on bare, compacted, baked or urban surfaces and in intense storms.
@@ -87,6 +92,11 @@ Precipitation = evapotranspiration + runoff, plus or minus the change in storage
 | Surplus | Soil is full, so extra water becomes runoff |
 
 In a temperate climate the soil typically reaches deficit in late summer and recharges in autumn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--08-w-water-balance.webp" width="900" height="1000" alt="A worked example of the water balance for an illustrative basin. Precipitation of 920 mm splits into runoff Q of 410 mm, evapotranspiration E of 480 mm and a change in storage of plus 30 mm, because 920 minus 410 minus 480 is 30. Below, two bars show the runoff ratio: this basin 410 divided by 920 gives 0.446, while a neighbouring urban basin at 0.65 sends more of its rain away quickly, raising flood risk." loading="lazy">
+  <figcaption>Precipitation equals runoff plus evapotranspiration plus change in storage; the example basin stores 30 mm and has a runoff ratio of 0.446.</figcaption>
+</figure>
 
 ## What controls the routes water takes
 

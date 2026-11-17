@@ -48,6 +48,11 @@ Resource extraction, tourism, irrigation agriculture, infrastructure and researc
 
 Why these matter: extreme environments often hold valuable resources (oil and gas in the Arctic, copper and lithium in the Atacama, strong sunshine for solar power in deserts), and their remoteness and scenery attract tourists and scientists. Each activity brings people, roads, waste and water demand into systems that cannot absorb much disturbance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-extreme-environments-managing-extreme-environments-revision-notes--01-pressures-on-extreme-environments.webp" width="900" height="660" alt="Valuable resources and remoteness or scenery draw five activities: resource extraction, tourism, irrigation agriculture, infrastructure and research stations. Each brings people, roads, waste and water demand into a fragile system that cannot absorb much disturbance." loading="lazy">
+  <figcaption>Resources and scenery draw people in; fragile systems cannot absorb what they bring.</figcaption>
+</figure>
+
 ## Opportunities versus risks
 
 | Opportunities | Risks |
@@ -58,6 +63,11 @@ Why these matter: extreme environments often hold valuable resources (oil and ga
 | | Greater exposure to hazards |
 
 **Desertification** is land degradation in drylands caused by a mix of climate variability and human activity, such as overgrazing, over-cultivation, removal of woody vegetation for fuel and poor irrigation that salinises soil. It is not the same as a desert advancing on its own: people and climate interact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-extreme-environments-managing-extreme-environments-revision-notes--02-desertification-causes.webp" width="900" height="630" alt="Climate variability and human activity (overgrazing, over-cultivation, removing woody vegetation for fuel and poor irrigation that salinises soil) interact to cause desertification, the degradation of land in drylands. It is not simply a desert advancing on its own." loading="lazy">
+  <figcaption>Desertification needs both climate variability and human misuse of dryland.</figcaption>
+</figure>
 
 ## Stakeholders
 
@@ -75,6 +85,11 @@ Indigenous communities, governments, companies, conservation organisations, visi
 ### Engineering on permafrost: the Trans-Alaska Pipeline
 
 The pipeline carries oil from Prudhoe Bay on Alaska's Arctic coast south to the port of Valdez and was completed in 1977. Hot oil would thaw ice-rich permafrost and make the ground subside, so long sections are raised on vertical supports fitted with **heat pipes (thermosyphons)** that carry heat out of the ground in winter and keep it frozen. The line is laid in a zigzag so that it can flex with temperature change and ground movement, and raised sections allow caribou to pass underneath. Evaluation: it shows that engineering can accommodate frozen ground, but at high cost, and the oil it carries adds to the warming that now threatens permafrost elsewhere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-extreme-environments-managing-extreme-environments-revision-notes--03-trans-alaska-pipeline.webp" width="900" height="810" alt="Cross-section of the raised Trans-Alaska Pipeline. The hot oil pipe sits on a crossbeam between vertical supports fitted with heat pipes that carry heat out of the ground in winter, keeping ice-rich permafrost frozen. Caribou pass underneath. A plan view shows the zigzag route from Prudhoe Bay to Valdez." loading="lazy">
+  <figcaption>Raised supports and heat pipes keep the permafrost frozen beneath a hot-oil pipeline.</figcaption>
+</figure>
 
 ### International governance: Antarctica
 
@@ -101,6 +116,11 @@ A quick evaluation grid helps in extended answers:
 ## Why recovery is slow
 
 Low productivity and harsh conditions mean vegetation and soils regrow slowly, so damage can last. Tyre tracks across tundra, for example, can remain visible for many years because the short growing season limits regrowth and the disturbed ground thaws more deeply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-extreme-environments-managing-extreme-environments-revision-notes--04-why-recovery-is-slow.webp" width="900" height="685" alt="A chain from low productivity and harsh conditions to slow regrowth of vegetation and soils to long-lasting damage. Below, a tundra cross-section shows two tyre ruts that stay bare, with the ground beneath them thawing more deeply than the surrounding ground." loading="lazy">
+  <figcaption>Slow regrowth means damage, such as tyre tracks on tundra, can last for many years.</figcaption>
+</figure>
 
 ## Command words
 

@@ -54,6 +54,11 @@ Paper 2 (Writing).
 | تعلیمی دورہ | school trip | |
 | ہم جماعت | classmate | |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-life-school-college--01-school-as-a-place.webp" width="900" height="776" alt="Four strands with Urdu words: facilities (لائبریری, لیبارٹری, کینٹین), uniform and rules (وردی / یونیفارم, اصول / قواعد, اجازت), routine (اسمبلی, وقفہ, حاضری) and school life (کلب, تعلیمی دورہ, کھیلوں کا دن)." loading="lazy">
+  <figcaption>Facilities, rules, routine and school life; subjects belong to My studies.</figcaption>
+</figure>
+
 ## Three ways to talk about rules
 
 | Meaning | Pattern | Example |
@@ -63,6 +68,11 @@ Paper 2 (Writing).
 | should | person + کو + infinitive + چاہیے | طلبہ کو ایک دوسرے کی عزت کرنی چاہیے۔ (Students should respect one another.) |
 
 With a feminine object, careful written Urdu makes the infinitive agree: ہمیں وردی پہننی پڑتی ہے۔
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-life-school-college--02-talking-about-rules.webp" width="900" height="730" alt="Four Urdu structures for rules, with glosses: obligation with ہمیں ... پڑنا (ہمیں وردی پہننی پڑتی ہے), prohibition with کی اجازت نہیں ہے, advice with کو ... چاہیے, and a judgement that a rule is مناسب or غیر منصفانہ with کیونکہ." loading="lazy">
+  <figcaption>Must, may not, should, and is it fair: four kinds of rule language.</figcaption>
+</figure>
 
 ## Routine phrases
 
@@ -88,6 +98,11 @@ museum.) No نے with جانا; گئی agrees with the feminine جماعت.
 2. One rule (پڑنا or اجازت) and your opinion with a reason.
 3. One recent event in the past tense.
 4. One change you would make (اگر ... ہوتا تو ...).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-life-school-college--03-model-paragraph-anatomy.webp" width="900" height="690" alt="Five moves in the model answer with their Urdu: facilities, an obligation with an opinion (ہمیں ... وردی پہننی پڑتی ہے، جو مجھے پسند نہیں کیونکہ), a prohibition (کی اجازت نہیں ہے), a judgement of a rule, and a conditional change (اگر ... ہوتا تو ... ہوتا)." loading="lazy">
+  <figcaption>Obligation, prohibition and judgement, then a proposal for change.</figcaption>
+</figure>
 
 ## Translation drill
 
@@ -176,6 +191,11 @@ food put in the canteen."
 - Reading چھٹی as "holiday" when it means the end of the school day.
 - بڑا لائبریری: لائبریری is feminine, so بڑی لائبریری.
 - An اگر sentence about an imagined change with ہوگا instead of ہوتا ... تو.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-life-school-college--05-common-mistakes.webp" width="900" height="660" alt="Three corrections: ہم وردی پہننی پڑتی ہے becomes ہمیں وردی پہننی پڑتی ہے; استعمال کرنا کی اجازت becomes استعمال کرنے کی اجازت; ہماری جماعت نے عجائب گھر گئی becomes ہماری جماعت عجائب گھر گئی." loading="lazy">
+  <figcaption>ہمیں with پڑنا, the oblique before کی اجازت, and no نے with جانا.</figcaption>
+</figure>
 
 ## Self-test
 

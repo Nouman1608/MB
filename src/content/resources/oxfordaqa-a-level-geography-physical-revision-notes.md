@@ -38,6 +38,11 @@ Risk = hazard x vulnerability / capacity to cope
 
 **Hazard perception** shapes response: people may accept risk **fatalistically**, **adapt** to it, or seek to **dominate** it through engineering — the view held determines what management is politically possible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--06-hazard-risk-disaster.webp" width="900" height="890" alt="Two communities face an identical hazard. The first has a tall defence representing high capacity to cope, so the hazard passes without disaster. The second has a short defence, so the hazard overwhelms it and floods the houses, which is a disaster. Using illustrative numbers in the risk equation, risk is 1.75 for the first and 28 for the second." loading="lazy">
+  <figcaption>An identical hazard becomes a disaster only where it overwhelms a community’s capacity to cope.</figcaption>
+</figure>
+
 ## Tectonic hazards
 
 | Margin | Movement | Result |
@@ -59,6 +64,11 @@ Risk = hazard x vulnerability / capacity to cope
 
 **Magnitude versus intensity:** magnitude (moment magnitude scale) is a **property of the event itself**; intensity (Mercalli scale) measures the **effects at a particular place**. A single earthquake has one magnitude but many different intensities, depending on distance from the epicentre and local building quality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--07-plate-margin-hazards.webp" width="900" height="1220" alt="Four labelled cross-sections show the plate margins. At a constructive margin plates move apart with magma rising between them under a low shield volcano. At a destructive margin an oceanic plate dips beneath a continental plate with a composite volcano above and earthquake points down the sloping plate. At a collision margin two continental blocks push together and crumple into fold mountains. At a conservative margin two blocks slide past each other along a fault with an earthquake at the fault." loading="lazy">
+  <figcaption>Each plate margin type has its own characteristic hazards; volcanoes belong at constructive and destructive margins only.</figcaption>
+</figure>
+
 ## Storm hazards
 
 Tropical storms require **sea temperatures above about 27°C to a depth of 60 m**, **latitudes between 5° and 30°** for sufficient Coriolis deflection, **low wind shear**, and convergence in the lower atmosphere.
@@ -66,6 +76,11 @@ Tropical storms require **sea temperatures above about 27°C to a depth of 60 m*
 The specification's forms of storm hazard are **high winds, storm surges, coastal flooding, river flooding and landslides** (storm surge is usually the greatest killer). Responses are short and long term, with risk management through **preparedness, mitigation, prevention and adaptation** (3.1.1.5).
 
 **River flooding as a storm hazard.** Prevention and mitigation measures belong here as storm-hazard responses: **hard engineering** (dams, levées, channelisation) is effective but expensive and can shift the problem downstream; **soft engineering** (floodplain zoning, afforestation, wetland restoration) is cheaper and more sustainable but less immediately effective; **preparedness** includes forecasting, warnings and evacuation planning. Evaluate on cost, effectiveness, sustainability and social acceptability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--08-tropical-storm-conditions.webp" width="900" height="870" alt="Four small panels show what a tropical storm needs. A warm sea layer of 27 degrees Celsius or more reaches 60 metres deep. The storm forms in two bands between 5 and 30 degrees latitude either side of the equator, where Coriolis deflection works. Winds must have low shear, so cloud grows upright rather than tilting. Winds must converge in the lower atmosphere, forcing air to rise." loading="lazy">
+  <figcaption>Tropical storms need warm deep sea, latitude 5° to 30°, low wind shear and convergence in the lower atmosphere.</figcaption>
+</figure>
 
 ## Fires in nature (3.1.1.6)
 
@@ -98,6 +113,11 @@ Unit 1 is taken as **1a** (Living with hazards + Hot desert systems and landscap
 - **Desertification:** changing extent of hot deserts over the last 10,000 years; causes (climate change and human impact); areas at risk; impacts; alternative futures.
 - **Case studies:** a hot desert environment engaging with field data; a local-scale landscape where desertification has occurred.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--06-mountain-front-landscape.webp" width="900" height="837" alt="Schematic cross-section, not to scale, of a mountain-front landscape: wadis cut in the mountains, alluvial fans merging into a bahada at the mountain foot, a playa of fine sediment in the basin and an inselberg beyond. A table compares sand sea, stony desert and rocky desert landscapes by processes and landforms." loading="lazy">
+  <figcaption>Landforms combine into landscapes through one cascade of sediment.</figcaption>
+</figure>
+
 ## Coastal systems
 
 **Erosion:** hydraulic action, abrasion, attrition, solution.
@@ -112,6 +132,26 @@ Unit 1 is taken as **1a** (Living with hazards + Hot desert systems and landscap
 **Management:** hard engineering (sea walls, groynes, rip-rap) versus soft (beach nourishment, managed retreat, dune stabilisation). **Managed retreat** is increasingly favoured for cost and sustainability but is socially contentious, since it means abandoning land.
 
 **Case studies (Option 1b):** a local-scale coastal environment (processes, landscape outcomes and sustainable management challenges); and a contrasting coastal landscape (risks and opportunities for human occupation, and human responses of resilience, mitigation and adaptation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--09-longshore-drift.webp" width="900" height="900" alt="Seen from above, wave fronts approach a straight shoreline at an angle. A pebble is carried up the beach along the wave direction by each swash, then drawn straight back down by backwash. The repeated zigzag moves the pebble steadily sideways along the shore, which is longshore drift." loading="lazy">
+  <figcaption>Swash moves sediment up the beach at an angle, backwash returns it straight down, so material zigzags along the shore.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--10-headland-cave-arch-stack-stump.webp" width="900" height="1090" alt="Five side-view drawings of a rocky headland in order. First a crack at the waterline, then a cave, then an arch with sea passing through, then after the roof collapses an isolated stack, and finally a low stump just above the water." loading="lazy">
+  <figcaption>Wave erosion turns a line of weakness into a cave, an arch, a stack and finally a stump.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--11-constructive-destructive-waves.webp" width="900" height="900" alt="Two beach profiles. In the first a low, long wave sends a long swash arrow up the beach and a short backwash arrow down, and extra sand is added to the beach. In the second a high, short wave has a short swash arrow and a long backwash arrow, and sand is removed from the beach." loading="lazy">
+  <figcaption>Constructive waves have stronger swash and build beaches; destructive waves have stronger backwash and erode them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-physical-geography-1--12-groyne-sediment-starvation.webp" width="900" height="800" alt="From above, a straight beach has a groyne sticking out into the sea. Sand has piled up in a wide beach on the side the drift comes from, while the beach on the far side is narrow and eroding, with houses close behind. Labels list hard engineering methods and soft engineering methods." loading="lazy">
+  <figcaption>Groynes trap sediment on one side but starve the beach further along the drift direction, causing erosion there.</figcaption>
+</figure>
 
 ## Worked example: why identical magnitude gives different impact
 

@@ -31,6 +31,11 @@ Condensed for the final weeks. For the full explanation, use the
 **Non-renewable** — finite, will run out: coal, oil, natural gas, nuclear fuel.
 **Renewable** — replenished naturally: solar, wind, hydroelectric, tidal, wave, geothermal, biofuels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--01-renewable-or-not.webp" width="900" height="1084" alt="Two columns. Non-renewable (tank draining, not refilled): coal, oil, natural gas and nuclear fuel. Renewable (tank refilled naturally): biofuels, hydroelectric, solar, geothermal, wind, tides and waves. Nuclear fuel is finite so it is non-renewable." loading="lazy">
+  <figcaption>Non-renewable resources are used faster than they are replaced; renewable ones are replenished naturally.</figcaption>
+</figure>
+
 ## Comparison table
 
 The syllabus limits "advantages and disadvantages" to **three factors only**:
@@ -52,6 +57,11 @@ creditable** — the table below is built on the three permitted factors only.
 
 **"No emissions in use"** is the correct phrasing — manufacture still has an impact.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--04-availability.webp" width="900" height="950" alt="Three graphs of power over 24 hours. Solar is non-zero only from 06:00 to 18:00 and peaks at midday. Tidal power rises and falls repeatedly in a regular pattern. Fossil and nuclear stations can run steadily at any time." loading="lazy">
+  <figcaption>Availability differs: solar only in daylight, tides in a predictable cycle, fossil and nuclear on demand.</figcaption>
+</figure>
+
 ## How most power stations work
 
 ```
@@ -63,6 +73,16 @@ Fuel burned / nuclear fission
 ```
 
 Wind and hydroelectric skip the heating stage — the turbine is turned directly. **Biofuels** work the same way as fossil fuels: burning plant or waste material in a **boiler** produces steam that drives a **turbine** and **generator** — the syllabus expects this pattern to be described explicitly, not just assumed from "burning."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--02-steam-power-station.webp" width="900" height="920" alt="Fossil fuels, biofuels, nuclear fuel and geothermal heat all supply heat to a boiler. The boiler turns water to steam, which spins a turbine. The turbine turns a generator that makes electricity." loading="lazy">
+  <figcaption>Fossil fuels, biofuels, nuclear fuel and geothermal all heat water to steam to spin a turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--03-direct-and-solar.webp" width="900" height="990" alt="Wind, falling water, tides and waves spin a turbine directly with no boiler, and the turbine turns a generator. Solar cells below convert radiation to electricity directly with no turbine or generator." loading="lazy">
+  <figcaption>Wind, water, tides and waves spin a turbine directly; solar cells skip the turbine and generator.</figcaption>
+</figure>
 
 ## Energy from the Sun
 
@@ -91,6 +111,11 @@ efficiency = (1600 / 2000) x 100% = 80%
 Both formulas — energy-based and power-based — give the same answer for the same device, since power is just energy transferred per second; the ratio of useful to total is unchanged whether it's measured as a total amount or as a rate. See the [Energy Resources and Efficiency study guide](/resources/energy-resources-and-efficiency/) for the full reasoning behind each resource's generation method.
 
 **Sankey diagrams** *(background, not examinable — the syllabus requires only the two efficiency equations, not diagram construction)*: the width of each arrow is proportional to the energy, drawn to scale; total in = total out, so the arrows leaving must add back up to the single arrow entering.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--05-efficiency-sankey.webp" width="900" height="920" alt="Two Sankey diagrams with band widths in proportion. A motor takes in 500 J, 350 J is useful and 150 J wasted, so efficiency is 70%. A generator takes in 2000 W, 1600 W is useful and 400 W wasted, so efficiency is 80%." loading="lazy">
+  <figcaption>Efficiency is useful output divided by total input, times 100%.</figcaption>
+</figure>
 
 ## Exam traps
 

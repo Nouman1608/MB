@@ -40,6 +40,11 @@ a model paragraph are in the
 | Purposes | discursive, argumentative, persuasive |
 | Choice | none: one compulsory question |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--01-task-at-a-glance.webp" width="900" height="656" alt="Candidates read one or two texts of about 400 to 450 words, use, develop and evaluate their ideas, and write about 250 to 350 words as a speech, email, report, letter or article. The one compulsory question carries 25 marks: 15 for writing (W1 to W5) and 10 for reading (R3 and R5)." loading="lazy">
+  <figcaption>Read, work on the ideas, write in the set form: 15 marks for writing, 10 for reading.</figcaption>
+</figure>
+
 ## Reading objectives
 
 - **R3**: analyse, evaluate and develop facts, ideas and opinions, using appropriate support from the
@@ -57,6 +62,11 @@ a model paragraph are in the
 Evaluate (syllabus): "judge or calculate the quality, importance, amount, or value of something".
 Consider (syllabus): "review and respond to given information".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--02-use-develop-evaluate.webp" width="900" height="744" alt="Three steps of rising height: use (take relevant ideas, the minimum), develop (consequences, fresh examples, connections, applying ideas to the audience) and evaluate (judge evidence, bias, strength and gaps). An example shows a road’s shorter journey times developed into more sleep for students." loading="lazy">
+  <figcaption>Using the sources is the minimum; high reading marks come from developing and evaluating them.</figcaption>
+</figure>
+
 ## Six questions for every source
 
 1. Fact or opinion?
@@ -65,6 +75,11 @@ Consider (syllabus): "review and respond to given information".
 4. What evidence supports the claim?
 5. Where do the sources disagree, and who is more convincing?
 6. What is missing?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--03-evaluate-a-source.webp" width="900" height="752" alt="Six questions for judging a source: fact or opinion, whose perspective, bias, evidence, conflict between sources and gaps, each with what to look for. An example sentence questions a developer’s unsupported claim and its neutrality." loading="lazy">
+  <figcaption>Turn the syllabus words into questions and ask them of every source.</figcaption>
+</figure>
 
 ## Evaluation phrases
 
@@ -87,16 +102,31 @@ Consider (syllabus): "review and respond to given information".
 W4 (register appropriate to context) is assessed in Section A, not Section B.
 Check the question for bullet points it asks you to cover: each needs its own clear place in the answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--04-five-forms.webp" width="900" height="792" alt="A grid of the five forms (speech, email, report, letter, article) showing how each opens, how it is shaped and what register it uses, from a speech that addresses its audience directly to an impersonal, objective report. W4, register, is assessed in directed writing." loading="lazy">
+  <figcaption>The form and audience in the question decide the opening, the shape and the register.</figcaption>
+</figure>
+
 ## Purposes
 
 - **Discursive**: both sides weighed, then a judgement.
 - **Argumentative**: a position, defended; counter-arguments answered.
 - **Persuasive**: reasons plus appeals to the audience's interests and feelings; a call to action.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--05-three-purposes.webp" width="900" height="630" alt="Three purposes compared: discursive writing weighs both sides and reaches a judgement, argumentative writing defends a position with reasons and answers counter-arguments, and persuasive writing moves the audience to agree or act. Each shows a cue word from a question." loading="lazy">
+  <figcaption>The question’s wording tells you whether to weigh, argue or persuade.</figcaption>
+</figure>
+
 ## Paragraph recipe
 
 **Source point** (used) → **your development** → **your evaluation** → **link to the purpose or
 audience**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--07-worked-example-moves.webp" width="900" height="928" alt="Points from a council leaflet and a shopkeeper’s letter feed a letter to the council. The model paragraph uses the safety point, evaluates the vague claim that schemes were “popular” and the shopkeeper’s complaint, then develops a consequence and a solution: consult traders and trial alternate Saturdays." loading="lazy">
+  <figcaption>Development grows from the sources’ conflict, which is what makes it development rather than invention.</figcaption>
+</figure>
 
 ## Ten-minute plan
 
@@ -105,6 +135,11 @@ audience**.
 3. Decide position or judgement.
 4. Four or five paragraphs: source point + development/evaluation for each.
 5. Opening and closing in the form's style.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--06-ten-minute-plan.webp" width="900" height="674" alt="Five planning steps: read the question for form, audience, purpose and bullet points; read the sources twice, marking U for useful points, D for points to develop and E for points needing evaluation; decide a position; plan four or five paragraphs; plan the opening and closing." loading="lazy">
+  <figcaption>Annotate the sources U, D and E so every paragraph has something to develop or judge.</figcaption>
+</figure>
 
 ## Mini example: annotating a source
 

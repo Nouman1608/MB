@@ -42,6 +42,11 @@ Condensed notes for sub-topic 3.6 of Cambridge IGCSE Environmental Management (0
 
 The two labels describe different things: **raw material** (conventional or bio) and **end of life** (biodegradable or not).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-plastic-pollution--01-made-from-vs-end-of-life.webp" width="900" height="650" alt="A two-by-two grid. Rows ask what a plastic is made from: fossil fuels or biological materials. Columns ask what happens at end of life: biodegradable or non-biodegradable. Conventional plastics are made from fossil fuels and are generally non-biodegradable. Bioplastics, made from biological materials, fill both columns: they can be biodegradable or non-biodegradable." loading="lazy">
+  <figcaption>Raw material and end of life are separate questions: a bioplastic can be non-biodegradable.</figcaption>
+</figure>
+
 ## Rate of biodegradation
 
 - Biotic factors: number and type of bacteria and fungi.
@@ -50,10 +55,25 @@ The two labels describe different things: **raw material** (conventional or bio)
 - Slow: cold, dark, low-oxygen water at depth.
 - Methane forms where oxygen is scarce, such as in landfill.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-plastic-pollution--02-biodegradation.webp" width="900" height="665" alt="A biodegradable plastic is decomposed by bacteria and fungi in water or soil into water, biomass, carbon dioxide and, where oxygen is scarce, methane. The rate depends on biotic factors (the decomposers present) and abiotic factors (temperature, moisture, oxygen, light, thickness): fast in industrial composting, slow in cold, dark, deep sea water." loading="lazy">
+  <figcaption>Decomposers turn biodegradable plastic into water, biomass, CO2 and methane, at a rate set by conditions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-plastic-pollution--06-decomposition-data.webp" width="900" height="635" alt="A bar chart of mass lost in 12 weeks. Plastic A lost 60% in moist soil and 10% in cold seawater; plastic B lost nothing in either. A behaves as a biodegradable plastic, decomposing six times faster in soil; B behaves as non-biodegradable. Repeats and temperature records would improve the test." loading="lazy">
+  <figcaption>Plastic A lost 60% in soil but 10% in cold seawater; B lost nothing.</figcaption>
+</figure>
+
 ## Two routes to microplastics
 
 1. **Breakdown** of larger items by sunlight, waves and abrasion.
 2. **Manufacture** for commercial products, such as particles in some cosmetics and cleaning products; fibres are also shed from synthetic clothing in washing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-plastic-pollution--03-microplastic-sources.webp" width="900" height="645" alt="Route 1: sunlight, waves and abrasion break non-biodegradable plastic, such as a bottle, into ever smaller fragments. Route 2: tiny particles are made for commercial products such as cosmetics, scrubs and cleaning products, and fibres are shed when synthetic clothes are washed. Microplastics are less than 5 mm long, small enough to pass through filters and be eaten by plankton." loading="lazy">
+  <figcaption>Microplastics come from breakdown of larger plastic and from products made with them.</figcaption>
+</figure>
 
 ## Impacts on marine ecosystems (3.6.6)
 
@@ -65,6 +85,21 @@ The two labels describe different things: **raw material** (conventional or bio)
 | Bioaccumulation | Plastic and absorbed toxins build up in one organism over time | Harm to health and breeding |
 | Biomagnification | Concentration rises at each trophic level | Apex predators and seafood eaters most exposed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-plastic-pollution--04-four-impacts.webp" width="900" height="695" alt="Four panels. Visual pollution: litter on a beach spoils coasts and tourism. Entanglement: nets, ropes and loops trap turtles, seals, seabirds, fish and whales. Mistaken for food: a floating bag looks like a jellyfish to a turtle. Bioaccumulation and biomagnification: plastic and its chemicals build up from plankton to fish to predators and people." loading="lazy">
+  <figcaption>Plastic harms marine life by looks, by trapping, by being eaten and by building up in food chains.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--12-wa-bio-accumulation-magnification.webp" width="900" height="990" alt="Top panel: the same fish shown three times with more toxin dots each time, for bioaccumulation inside a single organism over time. Bottom panel: prey, predator and top predator joined by eaten-by arrows with more toxin dots at each level, for biomagnification up a food chain." loading="lazy">
+  <figcaption>Bioaccumulation happens within one organism; biomagnification increases up a food chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-plastic-pollution--07-microplastics-seabird.webp" width="900" height="675" alt="Four steps, each worth a mark. Plankton and small fish mistake microplastics for food; toxic chemicals on the plastic build up in each fish (bioaccumulation); the seabird eats many fish so its concentration is much higher (biomagnification); the bird’s health and breeding success suffer. Dots show rising concentration." loading="lazy">
+  <figcaption>Four marks: eaten, accumulates, magnifies, harms the bird.</figcaption>
+</figure>
+
 ## Strategies (3.6.7)
 
 | Strategy | Example | + | – |
@@ -74,6 +109,11 @@ The two labels describe different things: **raw material** (conventional or bio)
 | Safe disposal | Bins, collections, drain nets, managed landfill | Stops leakage to sea | Needs money and infrastructure |
 | Recycling | Collect, sort, reprocess | Reuses material | Many types hard to recycle; quality falls |
 | Legislation and enforcement | Microbead bans, fines for dumping | Applies to all | Must be policed; plastic crosses borders |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-plastic-pollution--05-strategies-path.webp" width="900" height="625" alt="Plastic moves from use, to waste, to rivers and the sea. Alternative packaging and avoiding single-use plastics reduce the total used; safe disposal and recycling stop waste leaking to rivers and the sea; legislation and enforcement, such as bans on microbeads, dumping and littering, back them all up." loading="lazy">
+  <figcaption>Cut the amount used, stop waste leaking out, and back both with laws.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -35,6 +35,11 @@ For full explanations and worked examples, read the [study guide](/resources/ib-
 - **Relational view:** power exists only in a relationship; it depends on how others respond.
 - **Resources are not outcomes.** An actor rich in resources can still fail to get its way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--01-capacity-relational.webp" width="900" height="615" alt="Left: the capacity view counts what an actor has, such as troops, money, votes and ideas. Right: the relational view sees power only between actors. Below: US troops in Afghanistan for almost 20 years did not prevent the Taliban taking Kabul on 15 August 2021, so resources did not become the outcome sought." loading="lazy">
+  <figcaption>Holding resources is not the same as getting the outcome you want.</figcaption>
+</figure>
+
 ## The types of power the guide lists
 
 | Type | One-line definition | Guide's example | Another real example |
@@ -54,6 +59,16 @@ For full explanations and worked examples, read the [study guide](/resources/ib-
 
 The guide gives its own examples only for the first five rows; the others are Marlbridge examples.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--03-hard-smart-soft.webp" width="900" height="530" alt="A scale from coercion to attraction. Hard power uses force and penalties, such as Russia’s 2022 invasion of Ukraine and the sanctions imposed in response. Smart power mixes tools to fit an aim, such as the 2015 JCPOA or EU climate diplomacy with its carbon border charge. Soft power attracts, such as South Korea’s cultural reach." loading="lazy">
+  <figcaption>Hard coerces, soft attracts, and smart combines them for a stated aim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--06-four-types.webp" width="900" height="603" alt="Four types of power with what each rests on and an example: economic (chip and mineral export controls), political (Security Council resolutions, EU rules), social (the International Campaign to Abolish Nuclear Weapons) and cultural (Hollywood, Bollywood, the Korean Wave)." loading="lazy">
+  <figcaption>Classify by what the power rests on, noting where types overlap.</figcaption>
+</figure>
+
 ## Thinkers in one line each
 
 | Thinker | Remember |
@@ -69,6 +84,11 @@ The guide gives its own examples only for the first five rows; the others are Ma
 | Mignolo | Colonial matrix of power still ranks knowledge and peoples |
 | Pitkin | Power to versus power over |
 | Qin | Relational power: shaping and using webs of relations |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--02-lukes-dimensions.webp" width="900" height="600" alt="Three layers from Steven Lukes’ Power: A Radical View (1974). First, winning open decisions, Dahl’s idea that A gets B to do what B would not otherwise do. Second, keeping issues off the agenda through non-decisions. Third, shaping what people want so conflict never appears, the most hidden form." loading="lazy">
+  <figcaption>The deeper the dimension, the less visible the power.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -92,6 +112,11 @@ The guide gives its own examples only for the first five rows; the others are Ma
 4. Judgement: how useful is the label here, on balance?
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--04-classify-bri.webp" width="900" height="604" alt="Four steps for classifying the Belt and Road Initiative, launched in 2013: identify the economic resources; ask whether partners join because they want the projects, which is soft power; test for coercion, where critics cite Hambantota port and others dispute the debt-trap label; and conclude that the same aid can be soft or hard." loading="lazy">
+  <figcaption>Classify by how a tool works and is seen, and say where the categories blur.</figcaption>
+</figure>
+
 ## Worked reminders
 
 - **Sanctions on Russia after 2022:** economic *and* hard power; exercised as power over; given force by coalitions of states (relational). Their effect is debated, because some states kept trading with Russia.
@@ -109,6 +134,16 @@ The guide gives its own examples only for the first five rows; the others are Ma
 - **Power to vs power over:** capacity to act need not involve controlling anyone.
 - **Lukes' second vs third dimension:** keeping an issue off the agenda versus shaping what people want so they never raise it.
 - **Power vs legitimacy:** power is the ability to effect change; legitimacy is whether it is accepted. Keep them apart. See the [legitimacy guide](/resources/ib-dp-global-politics-core-legitimacy/) and the [sovereignty guide](/resources/ib-dp-global-politics-core-sovereignty/) for the neighbouring core concepts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--05-structural-relational.webp" width="900" height="645" alt="Structural power comes from position, such as a permanent Security Council seat with a veto or a head of state’s office. Relational power comes from ties, such as NATO membership or the Fridays for Future network. In 2022 Russia’s veto was a structural block; 141 states voting in the General Assembly applied relational pressure, and the Assembly agreed to meet after any veto." loading="lazy">
+  <figcaption>Position can block; networks can work around the block.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--07-over-to-with.webp" width="900" height="610" alt="Power over: A pushes B to do what B would not choose, as with sanctions or threats. Power to: A has the capacity to achieve something, such as vaccinating a population. Power with: several actors act together, as when the Alliance of Small Island States pushed for the 1.5 degree goal." loading="lazy">
+  <figcaption>Control of others, capacity to act, or strength built together.</figcaption>
+</figure>
 
 ## Power in the exam papers
 

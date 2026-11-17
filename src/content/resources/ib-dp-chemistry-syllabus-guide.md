@@ -103,6 +103,11 @@ and the scientific investigation.
   **Additional higher level** (HL only). Identifying coordination bonds
   is standard level content, in Structure 2.2.3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-syllabus-guide--02-teaching-hours-by-component.webp" width="900" height="912" alt="Paired bars of recommended hours: Structure 1 17 SL and 21 HL, Structure 2 20 and 30, Structure 3 16 and 31, Reactivity 1 12 and 22, Reactivity 2 21 and 31, Reactivity 3 24 and 45. Syllabus content totals 110 hours at SL and 180 at HL, plus a 40-hour or 60-hour experimental programme." loading="lazy">
+  <figcaption>Reactivity 3, on mechanisms, is the largest component at both levels.</figcaption>
+</figure>
+
 ## Reading the Structure / Reactivity split
 
 The syllabus deliberately separates two different kinds of chemical
@@ -113,6 +118,11 @@ component by hours and the one that draws most heavily on everything
 in Structure 1 and 2 -- you cannot reason about electron-transfer or
 electron-sharing mechanisms without a secure grip on electron
 configurations (Structure 1.3) and bonding models (Structure 2).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-syllabus-guide--01-structure-reactivity-map.webp" width="900" height="1155" alt="Structure 1 to 3 sit in one column and Reactivity 1 to 3 in the other, each with its numbered sub-topics. Reactivity 1.4, entropy and spontaneity, is HL only; Reactivity 3.2 and 3.4 contain additional higher level content." loading="lazy">
+  <figcaption>Structure asks what matter is made of; Reactivity asks why and how it changes.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -146,6 +156,11 @@ Building a habit of asking "what bonding model explains this mechanism"
 every time you meet a new reaction type in Reactivity 3 is one of the
 most efficient ways to revise this component, since it forces the
 cross-referencing the exam itself rewards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-syllabus-guide--03-reactivity-draws-on-structure.webp" width="900" height="668" alt="Arrows run from Structure to Reactivity: particle behaviour from Structure 1 feeds entropy and spontaneity (Reactivity 1.4, HL only), and electron configurations, bonding models and periodic trends feed the four mechanism types of Reactivity 3. A revision habit below asks what bonding model explains each mechanism." loading="lazy">
+  <figcaption>Revise the two strands in parallel and keep crossing between them.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

@@ -71,6 +71,11 @@ A **master slide** holds the design and objects that appear on every slide (or e
 
 Benefits: **consistency** (house style), **speed** (format once), fewer errors (nothing forgotten on one slide).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--01-master-slide.webp" width="900" height="870" alt="A master slide holds the title style, body style, logo and slide number. Three slides linked to it all match, while a fourth slide formatted by hand differs and has no logo. A change made once on the master updates every linked slide." loading="lazy">
+  <figcaption>One change on the master reaches every slide; hand formatting breaks the link.</figcaption>
+</figure>
+
 ## Editing slides
 
 - **Slide layout**: title slide, title and content, two content, title only, blank.
@@ -91,6 +96,11 @@ Benefits: **consistency** (house style), **speed** (format once), fewer errors (
 | Example | Fade between slides | Bullets appear one at a time |
 | Good practice | Same transition on every slide | Same effect for similar objects |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--02-transition-animation.webp" width="900" height="900" alt="A transition plays as one slide changes to the next. An animation controls how objects inside one slide appear, such as bullet points arriving one by one." loading="lazy">
+  <figcaption>A transition moves between slides; an animation acts on objects within a slide.</figcaption>
+</figure>
+
 ## How can a presentation be output?
 
 | Output | Use |
@@ -101,6 +111,16 @@ Benefits: **consistency** (house style), **speed** (format once), fewer errors (
 | Print presenter notes | Slide with its notes underneath, for the speaker |
 | Print handouts | Several slides per page for the audience to take away |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--04-output-forms.webp" width="900" height="957" alt="One presentation file can be output as a slide show, printed slides, handouts, notes pages, an outline or a PDF. The figure shows the form each one takes." loading="lazy">
+  <figcaption>The same file can be output in several forms for different needs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--06-handout-pages.webp" width="900" height="1054" alt="Page thumbnails show that 12 slides at 6 per page need 2 pages, 13 slides need 3 because one slide sits alone, and 20 slides at 4 per page need 5 pages." loading="lazy">
+  <figcaption>Round up when slides do not fill the last handout page.</figcaption>
+</figure>
+
 ## Worked example: a reception-area display
 
 *A hotel wants a presentation in its reception that runs all day without a presenter.*
@@ -109,6 +129,11 @@ Benefits: **consistency** (house style), **speed** (format once), fewer errors (
 - Use consistent, gentle transitions; avoid audio that would annoy guests.
 - Put the hotel logo and slide numbers on the **master slide**.
 - Hide any slide that is only used at staff training sessions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--05-show-timing.webp" width="900" height="650" alt="Twelve slides of 25 seconds each are drawn along a time axis from 0 to 300 seconds. The total is 12 x 25 = 300 seconds, which is 5 minutes." loading="lazy">
+  <figcaption>12 slides at 25 seconds each run for 300 seconds, or 5 minutes.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

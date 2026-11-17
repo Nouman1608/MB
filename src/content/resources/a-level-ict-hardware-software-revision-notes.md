@@ -59,6 +59,16 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Information 
 - MIPS and FLOPS are both performance metrics usable for either class; MIPS (instructions per second) is conventionally quoted for a mainframe's transaction workload, and FLOPS (floating-point operations per second) for a supercomputer's computation-heavy workload — a matter of typical workload, not a rule.
 - Keep the *use case* attached to each term — mainframe/supercomputer confusion is a common error.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--01-hs-mainframe-supercomputer.webp" width="900" height="830" alt="Two columns compare large-scale systems. A mainframe is built for high-volume transaction throughput and used for census, transaction processing and industry and consumer statistics. A supercomputer is built for raw processing speed on computation-heavy problems and used for weather forecasting, climate research and quantum mechanics. Both list reliability, availability and serviceability (RAS)." loading="lazy">
+  <figcaption>Mainframes are built for transaction throughput; supercomputers for raw processing speed; both list RAS.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--02-hs-ras-fault-tolerance.webp" width="900" height="870" alt="An illustrative 100-unit timeline shows usable time, two failure-and-repair blocks and one planned maintenance block. Serviceability is how quickly a failure is repaired, availability is the share of time usable (85 percent here, because planned maintenance counts too) and reliability is how rarely it fails. A second bar shows fault tolerance: the system keeps running, often degraded, when a component fails." loading="lazy">
+  <figcaption>Reliability, availability and serviceability read off one timeline; fault tolerance is a related idea.</figcaption>
+</figure>
+
 ## 2.2 System software
 
 - Types: compilers, interpreters, linkers, device drivers, operating systems, utilities.
@@ -68,12 +78,32 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Information 
   computer systems using **interpreters** (the same source code runs anywhere a suitable interpreter exists) and
   **cross compilers** (a compiler on one type of computer produces machine code for a different type).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--04-hs-compiler-interpreter.webp" width="900" height="850" alt="A four-line program is handled in two ways. A compiler translates the whole program, stores it and then runs it. An interpreter translates and runs one line at a time: translate line 1, run line 1, translate line 2, and so on. Development-stage code is often run through an interpreter first." loading="lazy">
+  <figcaption>A compiler translates everything first; an interpreter translates and runs line by line.</figcaption>
+</figure>
+
 ## 2.3 Utility software
 
 - Named types: anti-virus, back-up, data compression, disk defragmentation, formatting (low-level,
   partitioning, high-level), file copying/deleting, file management systems, disk management systems.
 - **System software manages/translates for the computer itself; utility software performs a specific
   maintenance task for the user.** Mixing up the two categories weakens an otherwise correct answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--03-hs-system-utility-software.webp" width="900" height="890" alt="Two columns separate the categories. System software manages and translates for the computer itself: operating system, device drivers, compilers, interpreters and linkers. Utility software performs one specific maintenance task for the user: anti-virus, back-up, data compression, disk defragmentation, formatting, and file copying and deleting." loading="lazy">
+  <figcaption>System software looks after the computer itself; utility software does a maintenance task for the user.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-utility-software-and-user-interfaces--02-defrag.webp" width="900" height="830" alt="Two rows of twelve disk clusters. Before defragmentation, file A is split into three pieces and the head moves twice to read it. After, file A is one piece, the head moves zero times and free space is grouped together. A note says SSDs gain little because they have no moving head." loading="lazy">
+  <figcaption>Defragmenting moves a file's clusters together so the head moves less (the cluster layout is illustrative).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-utility-software-and-user-interfaces--03-formatting-levels.webp" width="900" height="850" alt="Three stacked steps: low-level formatting marks tracks and sectors (normally by the manufacturer), partitioning divides the disk into logical drives, and high-level formatting creates the file system with directories and a file allocation table. A quick format keeps the data, so it may be recoverable." loading="lazy">
+  <figcaption>Low-level, partitioning and high-level formatting in order.</figcaption>
+</figure>
 
 ## 2.4 Custom-written vs off-the-shelf software
 
@@ -83,11 +113,21 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Information 
   depends on ongoing developer support.
 - Also: proprietary vs open-source software.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--05-hs-custom-vs-off-the-shelf.webp" width="900" height="930" alt="A small design studio compares off-the-shelf and custom-written graphics software. Off-the-shelf costs less, is available immediately and is well tested by many users, but may include unneeded features and cannot be tailored exactly. Custom-written matches the exact requirements and can be changed, but costs far more and takes time to develop and test. A strong answer weighs both sides against budget, timescale and how unusual the workflow is." loading="lazy">
+  <figcaption>Tick and cross show the advantage and disadvantage of each option for the studio.</figcaption>
+</figure>
+
 ## 2.5 User interfaces
 
 - Types: command line, graphical, dialogue, gesture-based.
 - Match each interface type to a suitable real-world use (e.g. command line for a systems administrator,
   graphical for a general consumer device), not just a definition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--06-hs-user-interfaces.webp" width="900" height="880" alt="Four named interface types: command line (typed commands, suited to a systems administrator), graphical (windows, icons and a pointer, suited to a general consumer device), dialogue (two speech bubbles) and gesture-based (a hand with movement arrows)." loading="lazy">
+  <figcaption>The four user interface types in the syllabus, with the two uses the lesson names.</figcaption>
+</figure>
 
 ## Exam technique for this topic
 

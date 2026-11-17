@@ -64,6 +64,11 @@ indicators, trade patterns and the opportunities and challenges of urban growth.
 - Birth rate falling with girls' education, later marriage, family planning, urbanisation.
 - **Dense:** Indus Plain, Punjab and Sindh, big cities. **Sparse:** northern mountains, Balochistan, deserts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-people-and-economy--01-birth-death-rates.webp" width="900" height="738" alt="A schematic graph from independence to today. The death rate falls sharply while the birth rate falls much more slowly, leaving a wide gap, the natural increase, which narrows but stays high. Cards give reasons: vaccination, antibiotics, cleaner water and better food cut deaths; girls’ schooling, later marriage and family planning narrow the gap." loading="lazy">
+  <figcaption>Deaths fell fast and births slowly, so the population grew rapidly.</figcaption>
+</figure>
+
 ## Migration: key points
 
 | Type | Push | Pull | Impact |
@@ -71,6 +76,11 @@ indicators, trade patterns and the opportunities and challenges of urban growth.
 | Rural–urban | Low farm incomes, mechanisation, floods | Jobs, schools, hospitals | City growth; katchi abadis; rural labour shortage |
 | International | Unemployment, low wages | Gulf jobs; UK, Europe, North America | Remittances; brain drain; cultural links |
 | Refugees into Pakistan | War in Afghanistan | Safety | Pressure on services; cultural exchange |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-people-and-economy--02-migration.webp" width="900" height="731" alt="Rural push factors (low farm incomes, small holdings, mechanisation, floods, poor services) and urban pull factors (jobs and better schools and hospitals) drive rural-to-urban migration. Internationally, millions work in the Gulf and live in the UK, Europe and North America, while Afghan refugees have arrived since 1979. Gains include remittances; losses include brain drain." loading="lazy">
+  <figcaption>Migration brings remittances but drains skills from Pakistan and young workers from villages.</figcaption>
+</figure>
 
 ## Economic sectors
 
@@ -80,6 +90,11 @@ indicators, trade patterns and the opportunities and challenges of urban growth.
 - **Quaternary:** IT and software exports, research; Lahore, Karachi, Islamabad.
 - **Location factors:** raw materials, power, labour, transport, ports, markets, government policy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-people-and-economy--03-economic-sectors.webp" width="900" height="532" alt="From a mainly agricultural economy at independence to four sectors: primary farming on the irrigated plains, still the largest single employer; secondary manufacturing led by textiles in Karachi, Lahore, Faisalabad and Sialkot; tertiary services, now the largest share of GDP; and growing quaternary IT and research in Lahore, Karachi and Islamabad." loading="lazy">
+  <figcaption>Services now produce most output, but farming still employs the most workers.</figcaption>
+</figure>
+
 ## Trade
 
 - **Exports:** textiles and clothing, rice, leather, sports goods, surgical instruments, fruit, fish.
@@ -87,6 +102,11 @@ indicators, trade patterns and the opportunities and challenges of urban growth.
 - **Trade deficit** usually; remittances help close the gap.
 - **Partners:** China, USA, UAE, Saudi Arabia, UK and EU.
 - **Blocs and bodies:** EU GSP+, China FTA, ECO, SAARC, WTO.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-people-and-economy--05-trade-and-deficit.webp" width="900" height="726" alt="Exports are led by textiles and clothing, rice and leather; imports by petroleum and LNG, machinery, chemicals and palm oil. Schematic bars show the import bill larger than export earnings, a trade deficit that remittances help to cover. Key partners are China, the USA, the UAE and Saudi Arabia, and the UK and EU." loading="lazy">
+  <figcaption>Imports cost more than exports earn; remittances help fill the gap.</figcaption>
+</figure>
 
 ## Development indicators: strengths and limits
 
@@ -98,6 +118,11 @@ indicators, trade patterns and the opportunities and challenges of urban growth.
 | FDI | Confidence of foreign investors | Profits may leave; can add to debt |
 | Trade balance | Strength of exports against imports | Affected by oil prices and exchange rates |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-people-and-economy--04-development-indicators.webp" width="900" height="570" alt="A table of five indicators (GDP, GDP per capita, HDI, FDI and trade) with what each shows and its limitation. HDI is highlighted because it combines life expectancy, education and income; Pakistan is classed among countries with lower human development." loading="lazy">
+  <figcaption>Every indicator shows something and hides something; use more than one.</figcaption>
+</figure>
+
 ## Urbanisation
 
 - About two-fifths of people urban; rising.
@@ -105,6 +130,11 @@ indicators, trade patterns and the opportunities and challenges of urban growth.
 - **Opportunities:** jobs, universities, innovation, investment, transport projects.
 - **Challenges:** informal jobs, housing shortage, katchi abadis, congestion, smog, sewage.
 - **Strategies:** low-cost housing; settlement upgrading (Orangi Pilot Project); mass transit (Lahore Orange Line, bus rapid transit); pollution controls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-people-and-economy--06-urbanisation.webp" width="900" height="571" alt="A three-column table. Opportunities of city growth include jobs, education, start-ups and infrastructure such as Lahore’s Orange Line. Challenges include too few formal jobs, katchi abadis, congestion, smog and sewage. Strategies include low-cost housing, upgrading settlements as in the Orangi Pilot Project, mass transit and smog controls." loading="lazy">
+  <figcaption>Cities offer jobs and services but face housing, traffic and pollution problems that need planned strategies.</figcaption>
+</figure>
 
 ## Worked example
 

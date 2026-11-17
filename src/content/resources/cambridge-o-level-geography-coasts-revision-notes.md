@@ -37,6 +37,11 @@ associated hazards and their management.
 - **Constructive:** low, infrequent, swash > backwash → build beaches.
 - **Destructive:** high, frequent, backwash > swash → erode and remove material.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-coasts--01-constructive-destructive-waves.webp" width="900" height="860" alt="Two beach cross-sections. A low constructive wave has a strong swash and weak backwash and builds a gentle, wide beach. A high destructive wave has a weak swash and strong backwash, removes material and leaves a steep, narrow beach." loading="lazy">
+  <figcaption>Which flow is stronger, swash or backwash, decides whether a wave builds or removes a beach.</figcaption>
+</figure>
+
 ## Processes
 
 - **Erosion:** hydraulic action, abrasion, attrition, solution; plus weathering and mass
@@ -45,6 +50,16 @@ associated hazards and their management.
   angle, backwash straight down.
 - **Deposition:** sheltered bays, behind spits, constructive waves.
 - **Wind:** blows dry sand inland by saltation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-coasts--02-marine-erosion-processes.webp" width="900" height="760" alt="Four panels. Hydraulic action: waves force air into a crack in the cliff. Abrasion: waves throw pebbles at the cliff. Attrition: two angular rocks collide and become smaller rounded pebbles. Solution: sea water dissolves chalk or limestone." loading="lazy">
+  <figcaption>Hydraulic action, abrasion, attrition and solution: the four processes of marine erosion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-coasts--03-longshore-drift.webp" width="900" height="760" alt="Plan view of a beach. Waves approach at an angle driven by the prevailing wind. A pebble is carried up the beach diagonally by the swash and dragged straight back down by the backwash, so it zig-zags along the coast." loading="lazy">
+  <figcaption>Swash at an angle, backwash straight down: the zig-zag that moves sediment along the coast.</figcaption>
+</figure>
 
 ## Landforms checklist (the syllabus list is complete)
 
@@ -57,6 +72,21 @@ associated hazards and their management.
 - **Sand dunes:** large sand supply + onshore wind + obstacle + marram grass; embryo → fore and
   yellow → grey dunes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-coasts--04-cave-arch-stack-stump.webp" width="900" height="820" alt="Five front views of a headland. 1: a crack at the base. 2: the crack widens into a cave. 3: caves meet to form an arch. 4: the arch roof collapses, leaving a stack. 5: the stack is eroded into a stump covered at high tide." loading="lazy">
+  <figcaption>Erosion of a headland follows one sequence from crack to stump.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-coasts--05-spit-formation.webp" width="900" height="700" alt="Plan view of a coastline that bends inland at a river mouth. Longshore drift carries sediment east past the bend, where it is deposited as a long narrow spit. A change in wind direction curves the end into a hook. Salt marsh forms in the sheltered water behind the spit." loading="lazy">
+  <figcaption>A spit grows where longshore drift meets a bend in the coast; its end can curve into a hook.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-coasts--06-sand-dune-succession.webp" width="900" height="650" alt="Cross-section from the sea inland. Small embryo dunes form near the beach, then taller fore dunes and yellow dunes with marram grass, then lower, older grey dunes with dense vegetation. An onshore wind blows from the sea." loading="lazy">
+  <figcaption>Dunes get older, more vegetated and richer in humus with distance from the beach.</figcaption>
+</figure>
+
 ## Coral reefs vs mangroves
 
 | | Coral reefs | Mangrove swamps |
@@ -67,6 +97,11 @@ associated hazards and their management.
 | Features | Fringing, barrier, atoll | Prop roots, breathing roots |
 | Examples | Great Barrier Reef; Maldives atolls | Sundarbans; Indus delta |
 | Threats | Bleaching, pollution, sediment, overfishing, tourism | Shrimp farms, farming, urban growth |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-coasts--07-coral-reef-types.webp" width="900" height="900" alt="Three cross-sections. A fringing reef is attached to the coast of an island. A barrier reef is separated from the shore by a lagoon. An atoll is a ring of coral around a lagoon where the island has sunk. Below: coral needs warm water above about 18 °C, shallow clear water, salt water and well-oxygenated water." loading="lazy">
+  <figcaption>Fringing, barrier and atoll reefs differ in how far the coral is from the shore.</figcaption>
+</figure>
 
 ## Hazards and opportunities
 
@@ -100,6 +135,11 @@ Easington gas terminal; erosion increased south of Mappleton.
   protected forest status; warnings and evacuation for cyclones.
 - Evaluation: replanting is cheap and natural but young trees need years to protect the coast and
   still need some fresh water and silt from the river.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-coasts--08-managing-coastal-erosion.webp" width="900" height="780" alt="Plan view of a coast with farmland, a town and a gas terminal. The town is protected by a sea wall, groynes that trap sand and an offshore breakwater; the gas terminal by rock armour. The farmland is left to erode by managed retreat, shown by former cliff lines. Longshore drift moves sediment along the coast." loading="lazy">
+  <figcaption>Hard engineering protects high-value places; low-value land may be left to retreat.</figcaption>
+</figure>
 
 ## Worked example: rate of cliff retreat
 

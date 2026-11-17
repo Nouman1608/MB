@@ -49,6 +49,16 @@ explaining teaching and practice (8 marks).
 | "believer's prison" | Restraint now; reward later | Patience during illness or poverty |
 | "not at your forms … but your hearts and deeds" | Intention and action matter to Allah | Not judging people by clothes or wealth |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--01-six-themes-map.webp" width="900" height="906" alt="Six theme cards group the twenty Hadiths: true faith, speech and behaviour, charity and good work, treatment of the vulnerable, community and leaders, and knowledge and martyrdom. Each lists its Hadiths by key phrase and ends with typical exam applications or its key idea." loading="lazy">
+  <figcaption>Grouping the Hadiths by theme turns twenty passages into one picture of Muslim character.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--03-every-joint-a-charity.webp" width="900" height="622" alt="The Hadith &quot;Every joint must perform a charity every day&quot; branches into five examples: justice between people, helping someone with their mount or luggage, a good word, every step to prayer, and removing harm from the road." loading="lazy">
+  <figcaption>Charity includes small daily acts, not only money.</figcaption>
+</figure>
+
 ## Life in the community
 
 | Keyword cue | Teaching | Modern example |
@@ -65,12 +75,27 @@ explaining teaching and practice (8 marks).
 | "will not show mercy to him who does not show mercy" | Mercy earns mercy | Kindness to animals |
 | "like a single man … eye … head" | The Ummah is one body | Raising funds after floods or earthquakes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--05-caring-for-the-vulnerable.webp" width="900" height="542" alt="Three rows. Caring for the widow and the poor is ranked with striving, night prayer and fasting; bringing up an orphan brings closeness to the Prophet (pbuh) in paradise; and showing mercy to others is the condition for receiving Allah's mercy." loading="lazy">
+  <figcaption>Care for the needy is placed on the level of devoted worship.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--04-changing-an-evil.webp" width="900" height="642" alt="A narrowing staircase of three responses to an evil, in order: change it with the hand, then the tongue, then the heart, matched to what each person is able to do." loading="lazy">
+  <figcaption>Each Muslim answers for society according to ability.</figcaption>
+</figure>
+
 ## Answer formula
 
 **Teaching (about 4 marks):** state the main message, explain key words, and say what belief lies
 behind it.
 **Application (about 4 marks):** give one or two specific actions a Muslim might take today, with a
 supporting verse or Hadith if possible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--02-hadith-answer-steps.webp" width="900" height="654" alt="Four numbered steps: identify the teaching in one sentence with a key phrase, explain the belief behind it, apply it with a specific modern example (highlighted), and support it with a related verse or Hadith such as Qur'an 49.10 or 2.177." loading="lazy">
+  <figcaption>Identify, explain, apply, support: a specific modern example carries the marks.</figcaption>
+</figure>
 
 ## Worked example
 

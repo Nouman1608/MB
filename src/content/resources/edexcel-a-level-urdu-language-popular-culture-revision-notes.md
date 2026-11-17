@@ -35,6 +35,11 @@ Revision notes for **sub-theme 2.2** of Theme 2 in Pearson Edexcel A Level Urdu 
 - **Youth culture and social media**: following trends, creating and sharing content.
 - **Local and global influences**: regional entertainment mixing with international styles; does this enrich or dilute local culture?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-2-study-guide--01-theme-2-map.webp" width="900" height="550" alt="Theme 2, اردو بولنے والی دُنیا میں تمدن اور فنونِ لطیفہ (Art and culture in the Urdu-speaking world), has three sub-themes: folklore and tradition (لوک رسوم و روایت), popular culture (مقبول کلچر) and the media (میڈیا), the research subject." loading="lazy">
+  <figcaption>Three sub-themes; the media is the research subject.</figcaption>
+</figure>
+
 ## Issues and perspectives
 
 **What 'popular' means.** Popular culture is the culture of everyday enjoyment shared by large audiences: what people watch, listen to, wear, eat and talk about. It differs from folklore (sub-theme 2.1) because it is usually produced and spread by industries and media, and it changes quickly. The two often meet, for instance when a folk song is rearranged for a modern audience.
@@ -90,6 +95,11 @@ Revision notes for **sub-theme 2.2** of Theme 2 in Pearson Edexcel A Level Urdu 
 
 Choose one viewpoint, support it with a specific example, and answer the statement in your conclusion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-2-study-guide--04-popular-culture-debate.webp" width="900" height="570" alt="Popular-culture vocabulary (ڈراما, فلم, موسیقی, کھیل, فیشن, نوجوان, رجحان) and the debate it feeds: regional entertainment and international styles mix, and you can argue whether this enriches or dilutes local culture." loading="lazy">
+  <figcaption>Use popular culture to argue whether global influence enriches or dilutes.</figcaption>
+</figure>
+
 ## Useful sentences with grammar notes
 
 1. **پاکستانی ڈرامے سرحد پار بھی شوق سے دیکھے جاتے ہیں۔** (Pakistani dramas are watched eagerly across the border too.) Passive agreeing with ڈرامے (masculine plural): دیکھے جاتے ہیں.
@@ -116,6 +126,11 @@ Choose one viewpoint, support it with a specific example, and answer the stateme
 | میرے خیال میں | in my opinion |
 | ایک طرف ... دوسری طرف | on one hand ... on the other |
 | آخر میں | finally |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--06-connectives.webp" width="900" height="512" alt="Six Urdu connectives with meanings: اس کے برعکس in contrast, اس کے علاوہ in addition, نتیجتاً as a result, میرے خیال میں in my opinion, ایک طرف ... دوسری طرف on one hand ... on the other, and آخر میں finally." loading="lazy">
+  <figcaption>Learn connectives as building blocks and use each in a sentence of your own.</figcaption>
+</figure>
 
 ## Discussion and essay prompts
 

@@ -37,6 +37,11 @@ featured: false
 | "Allah intends for you ease and does not intend for you hardship" | Mercy and balance |
 | "perhaps you will be grateful" | Gratitude as an aim of fasting |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--01-passage-2-183-185.webp" width="900" height="454" alt="The prescribed passage, Qur’an 2:183-185, broken into five ideas: the command to fast, the purpose of taqwa, the concession for the ill and travellers, Ramadhan as the month of revelation, and the spirit of ease rather than hardship." loading="lazy">
+  <figcaption>Use the passage for purpose, compassion and the balance of obligation and mercy.</figcaption>
+</figure>
+
 ## A valid fast
 
 - **Niyyah** before dawn.
@@ -44,10 +49,20 @@ featured: false
 - **Dawn to sunset**: "until the white thread ... from the black thread" (2:187).
 - Abstain from food, drink and sexual relations; avoid lying, backbiting and anger, which ruin the reward.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--02-the-fasting-day.webp" width="900" height="506" alt="A day bar: suhoor is eaten before true dawn, the fast runs from Fajr to Maghrib with no food, drink or sexual relations and no lying, backbiting or anger, and iftar is taken promptly at sunset. A note explains the intention before dawn and the white and black thread of 2:187." loading="lazy">
+  <figcaption>The fast runs from true dawn to sunset, framed by suhoor and iftar.</figcaption>
+</figure>
+
 ## Invalidated by
 
 Deliberate eating or drinking · deliberate sexual relations (qada **plus** kaffarah) · deliberate vomiting · start of menstruation or post-natal bleeding · smoking.
 **Not** invalidated by: forgetful eating or drinking ("Allah fed him and gave him drink", Bukhari).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--03-what-breaks-a-fast.webp" width="900" height="665" alt="Acts that invalidate a fast and their effect: deliberate eating or drinking, deliberate sexual relations, which also requires kaffarah of sixty days’ fasting or feeding sixty poor people, deliberate vomiting, the start of menstruation, and smoking. Eating by genuine mistake does not break the fast." loading="lazy">
+  <figcaption>Deliberate acts break the fast; genuine forgetfulness does not.</figcaption>
+</figure>
 
 ## Exemptions: who owes what
 
@@ -62,6 +77,11 @@ Deliberate eating or drinking · deliberate sexual relations (qada **plus** kaff
 
 **Kaffarah** for deliberately breaking a fast by sexual relations: sixty consecutive days of fasting or, if unable, feeding sixty poor people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--04-qada-or-fidya.webp" width="900" height="500" alt="Two groups of exemption. Qada, making up the days later: the temporarily ill, travellers, pregnant or breastfeeding women who fear harm, and women in menstruation or post-natal bleeding. Fidya, feeding a poor person for each day: the elderly and the chronically ill who will not recover (2:184). Children and the insane owe nothing." loading="lazy">
+  <figcaption>Qada makes up the days; fidya feeds the poor when fasting will never be possible.</figcaption>
+</figure>
+
 ## Benefits in three columns
 
 | Spiritual | Moral | Social |
@@ -70,6 +90,11 @@ Deliberate eating or drinking · deliberate sexual relations (qada **plus** kaff
 | Nearness to Allah | Honesty when unseen | More charity, Zakat-ul-Fitr |
 | More Qur'an recitation | Patience | Shared iftar; one Ummah fasting together |
 | Forgiveness of sins | Control of anger and speech | Equality of rich and poor in hunger |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--05-benefits.webp" width="900" height="440" alt="Benefits of fasting in three categories: spiritual, such as taqwa and more Qur’an recitation; moral, such as self-discipline, honesty and patience; and social, such as empathy with the hungry, charity and shared iftar. Health benefits are a side effect." loading="lazy">
+  <figcaption>Use the specification’s three headings: spiritual, moral and social.</figcaption>
+</figure>
 
 ## Taraweeh
 
@@ -93,6 +118,11 @@ Deliberate eating or drinking · deliberate sexual relations (qada **plus** kaff
 - Seek it in the **odd nights of the last ten** (Bukhari); the 27th is a common view, not a certainty.
 - Du'a taught to Aisha (RA): "O Allah, You are pardoning and love to pardon, so pardon me" (Tirmidhi).
 - Standing in prayer on it with faith and hope of reward forgives past sins (Bukhari).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--06-ramadhan-nights.webp" width="900" height="602" alt="A strip of the thirty nights of Ramadhan: Taraweeh is prayed every night after Isha, Itikaaf is usually observed in the last ten days, and Laylat ul-Qadr is sought in the odd nights of the last ten. Cards explain Taraweeh, Itikaaf and Laylat ul-Qadr." loading="lazy">
+  <figcaption>Itikaaf in the last ten days keeps a Muslim in worship whenever Laylat ul-Qadr falls.</figcaption>
+</figure>
 
 ## Key terms
 

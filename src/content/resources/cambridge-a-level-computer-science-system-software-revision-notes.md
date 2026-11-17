@@ -77,6 +77,16 @@ The hardware cannot be used directly by most people or most programs. The OS hid
 | Hardware management | Communicates with peripherals through device drivers, handles input and output, deals with interrupts and manages buffers |
 | Process management | Decides which process uses the processor and for how long, allowing multitasking, and handles conflicts between processes over resources |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--07-ss-os.webp" width="900" height="1040" alt="Application software sits above the operating system, which holds six tiles: hardware, process, memory, file and security management, and the user interface. Device drivers sit below it, connecting to the screen, disk and keyboard." loading="lazy">
+  <figcaption>Where the operating system sits between applications and hardware and what it manages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--08-ss-interrupt.webp" width="900" height="1040" alt="Six numbered steps run down a coloured timeline: the interrupt is sent, the instruction finishes, the priority is checked, registers are saved, the interrupt service routine buffers the key code, and registers are restored so the program resumes." loading="lazy">
+  <figcaption>The six steps the processor takes to handle a keypress interrupt.</figcaption>
+</figure>
+
 ## Which utility programs should you know?
 
 | Utility | Purpose |
@@ -88,11 +98,21 @@ The hardware cannot be used directly by most people or most programs. The OS hid
 | File compression | Reduces file size to save storage space and transmission time |
 | Back-up software | Makes copies of files, often on a schedule or of changed files only, so data can be restored after loss |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--09-ss-defrag.webp" width="900" height="960" alt="Before defragmentation the five blocks of file A are scattered and the head makes four jumps; after it, each file is contiguous and file A needs none. A solid-state drive has no moving head, so it needs no defragmenting. The block pattern is illustrative." loading="lazy">
+  <figcaption>Why defragmentation helps a magnetic disk and is unnecessary on an SSD.</figcaption>
+</figure>
+
 ## Why do developers use program libraries and DLLs?
 
 **Library routines** save development time because the code is already written, and they are already tested, so they are less likely to contain errors. They also give access to expert code (for example maths or graphics functions).
 
 **DLL benefits**: the executable file is smaller because the library code is not included; one copy of the DLL in memory can be shared by several running programs; an updated DLL improves every program that uses it without recompiling them. **Drawbacks**: the program will not run if the DLL is missing, and a new version of the DLL may be incompatible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--10-ss-dll.webp" width="900" height="1150" alt="With the library built in, three programs each hold a copy. With a DLL they share one copy loaded at run time and are smaller. If the DLL is missing or incompatible the program fails." loading="lazy">
+  <figcaption>Built-in library copies versus one shared DLL, and the drawback.</figcaption>
+</figure>
 
 ## How do assemblers, compilers and interpreters compare?
 
@@ -109,6 +129,16 @@ An **assembler** is needed because assembly language is a low-level language wit
 
 **Partially compiled, partially interpreted**: Java source code is compiled into **bytecode**, an intermediate code. The bytecode is then interpreted (executed) by a **Java Virtual Machine**, so the same bytecode runs on any computer with a JVM.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--11-ss-translators.webp" width="900" height="960" alt="A compiler translates the whole program once into object code, and every run reuses it without the source. An interpreter translates statement by statement on every run, so a four-line program run three times needs twelve statement translations. The run count is illustrative." loading="lazy">
+  <figcaption>Why a compiler translates once but an interpreter translates again on every run.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--12-ss-errors.webp" width="900" height="1080" alt="Four rows show lines 1 to 4. A run-time error on line 4 lets lines 1 to 3 run. A syntax error on line 3 prints nothing in Python or with a compiler, but a line-by-line interpreter prints Start before stopping." loading="lazy">
+  <figcaption>Which lines run for a run-time error and for a syntax error under three kinds of translator.</figcaption>
+</figure>
+
 ## What IDE features does the syllabus list?
 
 | Purpose | Features |
@@ -117,6 +147,11 @@ An **assembler** is needed because assembly language is a low-level language wit
 | Initial error detection | Dynamic syntax checks that underline syntax errors as code is typed |
 | Presentation | Prettyprint (colour-coding and standard indentation of keywords and structures); expanding and collapsing code blocks |
 | Debugging | Single stepping (run one statement at a time); breakpoints (pause at a chosen line); a report window showing the current values of variables and expressions |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--13-ss-ide.webp" width="900" height="1030" alt="An IDE window shows the example program paused at a breakpoint on line 3, with a step button, a watch window showing total equals 10 and an output window. Numbered callouts name the breakpoint, single step, watch window and syntax highlighting." loading="lazy">
+  <figcaption>Breakpoint, single step, watch window and syntax highlighting shown on one IDE mock-up.</figcaption>
+</figure>
 
 ## Worked example: justifying a translator
 

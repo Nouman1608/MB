@@ -43,6 +43,11 @@ Students are expected to be familiar with sociological explanations of:
 
 The specification also requires you to link every topic to the two core themes (socialisation, culture and identity; social differentiation, power and stratification) and to theories, methods and research design.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--01-development-theories.webp" width="900" height="848" alt="A grid comparing modernisation, dependency, world systems, neoliberal and people-centred theories: why each thinks poor countries are poor, its route to development, and a key criticism." loading="lazy">
+  <figcaption>Each theory locates the cause of poverty somewhere different.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -90,6 +95,21 @@ The specification also requires you to link every topic to the two core themes (
 | Boserup (1970) | Gender | Development projects often bypassed women | Later critics: adding women is not enough |
 | Malthus (1798) / Ehrlich (1968) | Population | Population growth outstrips resources | Food output has generally kept pace |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--02-rostow-stages.webp" width="900" height="667" alt="Five rising steps: traditional society, preconditions for take-off, take-off, drive to maturity, and the age of high mass consumption. Western aid and investment are meant to help societies reach take-off." loading="lazy">
+  <figcaption>Modernisation theory sees one path to development, with Western help at take-off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--03-frank-wallerstein.webp" width="900" height="677" alt="Left: Frank’s model, with surplus flowing from four satellites to the metropolis. Right: Wallerstein’s world system as rings of core, semi-periphery and periphery, with countries able to move between them." loading="lazy">
+  <figcaption>Wallerstein adds a middle zone and mobility to Frank’s two-part model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--07-conflict-trap.webp" width="900" height="687" alt="A cycle in which war and conflict cause damage, damage causes poverty, and poverty raises the risk of further war. Side panels list the damage conflict does and Kaldor’s idea of &quot;new wars&quot;." loading="lazy">
+  <figcaption>War causes poverty, and poverty raises the risk of war.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Growth versus development.** Rising GNI is growth; development also includes health, education, rights and equality.
@@ -100,6 +120,21 @@ The specification also requires you to link every topic to the two core themes (
 - **Humanitarian versus development aid.** Emergency relief is far less disputed than long-term state-to-state aid.
 - **Women in Development versus Gender and Development.** WID adds women to existing projects; GAD challenges the gender power relations behind inequality.
 - **Cultural imperialism versus glocalisation.** One sees Western culture replacing local culture; the other sees global products adapted locally.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--04-measuring-development.webp" width="900" height="504" alt="Three measures from narrow to wide: GNI per capita, which hides inequality and unpaid work; the Human Development Index, combining life expectancy, education and income; and Sen’s view of development as real freedoms." loading="lazy">
+  <figcaption>Each measure widens what counts as development.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--06-aid-debate.webp" width="900" height="557" alt="Arguments that aid helps, from modernisation theory, Sachs and humanitarian relief, set against Hayter’s and Moyo’s arguments that it serves donors and breeds dependency. Collier’s four development traps are listed beneath." loading="lazy">
+  <figcaption>The debate is mainly about long-term state-to-state aid, not emergency relief.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--05-globalisation-views.webp" width="900" height="502" alt="A spectrum from hyperglobalists (Ohmae), through transformationalists (Held and colleagues), to sceptics (Hirst and Thompson). Below, Ritzer’s McDonaldization is set against glocalisation and South-to-North cultural flows." loading="lazy">
+  <figcaption>Transformationalists take the middle view: globalisation is real but uneven.</figcaption>
+</figure>
 
 ## Mini essay plan
 

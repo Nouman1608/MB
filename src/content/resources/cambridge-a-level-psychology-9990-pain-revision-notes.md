@@ -34,6 +34,11 @@ For full explanations, theory evaluation and an annotated answer, read the [pain
 - **3.3.2**: clinical interview; McGill pain questionnaire; visual analogue scale (key study Brudvik et al., 2016); UAB pain behaviour scale.
 - **3.3.3**: biochemical treatment; attention diversion, non-pain imagery, cognitive redefinition; acupuncture and TENS.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-pain--02-mirror-treatment.webp" width="900" height="771" alt="A mirror box seen from above: the patient moves the intact limb and its reflection appears where the amputated limb would be, giving visual feedback that the missing limb is moving, which can reduce phantom pain. MacLachlan et al. (2004) is a lower-limb case study with reduced pain after weeks of exercises, but it is one case with no control condition." loading="lazy">
+  <figcaption>The mirror lets the brain see the missing limb move, which can ease phantom pain.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |
@@ -52,6 +57,11 @@ For full explanations, theory evaluation and an annotated answer, read the [pain
 | Cognitive redefinition | Reinterpreting pain in a more rational, less threatening way |
 | TENS | Transcutaneous electrical nerve stimulation through skin electrodes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-pain--01-functions-acute-chronic.webp" width="900" height="706" alt="Three functions of pain: it warns of tissue damage, makes us withdraw from the cause and encourages rest for healing. A time bar divides acute pain, usually under three months with an identifiable cause, from chronic pain, which persists beyond normal healing time and is linked to low mood, poor sleep and reduced activity." loading="lazy">
+  <figcaption>Pain protects us; acute pain fades with healing, chronic pain outlasts it.</figcaption>
+</figure>
+
 ## Theories compared
 
 | | Specificity theory | Gate control theory |
@@ -62,6 +72,16 @@ For full explanations, theory evaluation and an annotated answer, read the [pain
 | Explains rubbing an injury? | No | Yes: large fibres close the gate |
 | Debate | Reductionist | More holistic |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-pain--03-specificity-vs-gate.webp" width="900" height="1015" alt="Specificity theory runs from pain receptors along a dedicated pathway to a pain centre, predicting that pain is proportional to tissue damage; it cannot explain phantom limb pain, injuries not felt at the time or psychological effects. Gate control theory places a gate in the dorsal horn: small fibres, anxiety and focusing open it; large fibres, distraction, relaxation and positive mood close it." loading="lazy">
+  <figcaption>Specificity theory ties pain to damage alone; gate control adds the mind.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--18-he-gate-control.webp" width="900" height="940" alt="Two schematic panels. Gate open: small pain fibres are active and the pain signal reaches the brain. Gate closed: large fibres (rubbing) and messages from the brain (attention, mood) close the gate and block the signal." loading="lazy">
+  <figcaption>Gate control theory: what opens and closes the pain gate.</figcaption>
+</figure>
+
 ## Measures compared
 
 | Measure | Type | Strength | Weakness |
@@ -70,6 +90,16 @@ For full explanations, theory evaluation and an annotated answer, read the [pain
 | McGill questionnaire | Psychometric | Distinguishes qualities of pain | Needs good vocabulary; slow |
 | Visual analogue scale | Visual rating | Quick; quantitative | Reduces pain to one number |
 | UAB scale | Observational | No self-report needed | Needs trained observers; behaviour can be faked |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-pain--04-measuring-pain.webp" width="900" height="778" alt="A visual analogue scale is drawn as a line from no pain to worst possible pain with the patient's mark measured from the start. A table compares the clinical interview, McGill pain questionnaire, visual analogue scale and UAB pain behaviour scale on what each involves, a strength and a weakness." loading="lazy">
+  <figcaption>Self-report measures need the patient’s words; the UAB scale needs a trained observer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-pain--07-compare-answer.webp" width="900" height="656" alt="Four numbered steps for a 4-mark answer comparing the McGill questionnaire and UAB scale: a similarity (both give quantified data), what McGill involves (self-report words), what UAB involves (observer-rated behaviours) and the consequence (language and honesty versus observer reliability). The consequence step is highlighted." loading="lazy">
+  <figcaption>Similarity, two linked differences, then the consequence.</figcaption>
+</figure>
 
 ## Key study grid: Brudvik et al. (2016)
 
@@ -84,12 +114,22 @@ For full explanations, theory evaluation and an annotated answer, read the [pain
 | Treatment | Only about 42% of children with severe pain received pain relief |
 | Conclusion | Physicians underestimate children's pain; listen to children and parents |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-pain--05-brudvik-study.webp" width="900" height="917" alt="Study card for Brudvik et al. (2016): aim, setting with 243 children aged 3 to 15 in Bergen, independent ratings by children, parents and physicians, results of mean ratings 5.5, 4.8 and 3.2 with only about 42 percent of severely hurt children given relief, and the conclusion. Evaluation covers ecological validity, generalisation, idiographic versus nomothetic and the use of children." loading="lazy">
+  <figcaption>Physicians underestimated children’s pain; children’s and parents’ ratings deserve weight.</figcaption>
+</figure>
+
 ## Management linked to gate control theory
 
 - **Biochemical**: reduces pain signals or mimics endorphins.
 - **Psychological strategies**: descending signals from the brain close the gate.
 - **TENS**: stimulates large fibres, closing the gate.
 - **Acupuncture**: may stimulate endorphin release; placebo effects are hard to rule out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-pain--06-managing-pain.webp" width="900" height="610" alt="Three columns of pain management: biological (opiates mimic endorphins, non-opioids reduce inflammation), psychological (attention diversion, non-pain imagery, cognitive redefinition) and alternative (acupuncture and TENS). Arrows show how each relates to gate control theory: drugs reduce signals, psychological strategies send descending signals and TENS stimulates large fibres, closing the gate." loading="lazy">
+  <figcaption>Drugs, thinking strategies and TENS can all be explained by closing the pain gate.</figcaption>
+</figure>
 
 ## Linking to issues and debates
 

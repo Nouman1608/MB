@@ -59,6 +59,11 @@ Plots particle size against flow velocity and shows fields of erosion, transport
 
 **Reading the curve:** find the particle size on the horizontal axis, read up to the velocity. Above the upper (critical erosion velocity) curve the particle is picked up; between the curves it stays in transport; below the lower (settling velocity) curve it is deposited. Note both axes are usually logarithmic, so each division is ten times the last.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--09-phys-hjulstrom.webp" width="900" height="940" alt="A log-log graph with particle size from clay to gravel on the horizontal axis and flow velocity on the vertical axis. An erosion curve is U-shaped: sand is eroded at the lowest speed, while fine clay and large gravel need higher speeds. A lower curve marks where particles are deposited. Above the upper curve is erosion, between the curves is transport and below the lower curve is deposition. A callout notes that fine clay needs a surprisingly high velocity to be lifted because of cohesion. Sketch from illustrative points." loading="lazy">
+  <figcaption>The Hjulstrom curve shows whether a river erodes, transports or deposits a particle of a given size at a given velocity.</figcaption>
+</figure>
+
 ## Channel efficiency
 
 **Hydraulic radius** = cross-sectional area / wetted perimeter. A high value means less friction and a more efficient channel; a semi-circular channel is the most efficient shape.
@@ -88,6 +93,11 @@ Plots particle size against flow velocity and shows fields of erosion, transport
 **Delta shapes:** **arcuate** (fan-shaped, as on the Nile), **bird's-foot** (long distributaries extending into the sea, as on the Mississippi) and **cuspate** (pointed, shaped by waves from both sides, as on the Tiber). Shape reflects the balance between river supply and wave and tidal energy.
 
 **Pools and riffles to meanders:** pools (deep, slow) and riffles (shallow, fast, coarse bed) alternate at a spacing of roughly five to seven channel widths. The thalweg swings between them, starting the bank erosion and deposition that develop bends.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--10-phys-meander-oxbow.webp" width="900" height="1310" alt="Three plan views of a river. Stage 1: a meander, where fast flow on the outside of the bend erodes a river cliff and slow flow on the inside deposits a slip-off slope. Stage 2: the bends grow and the neck between two loops narrows. Stage 3: in a flood the river breaches the neck and takes the short route, then deposition seals off the abandoned loop, leaving an ox-bow lake. Schematic, not to scale." loading="lazy">
+  <figcaption>Erosion on the outside of bends narrows the meander neck until a flood breaches it, and deposition seals the loop as an ox-bow lake.</figcaption>
+</figure>
 
 ## Annotated model paragraph
 

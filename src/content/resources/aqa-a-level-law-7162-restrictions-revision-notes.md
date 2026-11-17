@@ -36,6 +36,11 @@ use the [Restrictions study guide](/resources/aqa-a-level-law-7162-restrictions/
 
 The **state** must justify the interference. Failure at any step means a breach.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--01-three-requirements.webp" width="900" height="703" alt="A flow chart. An interference with a right under Article 8.1, 10.1 or 11.1 must pass three requirements in turn: in accordance with or prescribed by law, a legitimate aim from the listed aims, and necessary in a democratic society. Failing any one means the right is breached; passing all three means the interference is justified." loading="lazy">
+  <figcaption>All three requirements must be met, and the burden of showing them is on the state.</figcaption>
+</figure>
+
 ## The aims at a glance
 
 - **All three Articles**: national security; public safety; prevention of disorder or crime; protection of
@@ -46,6 +51,11 @@ The **state** must justify the interference. Failure at any step means a breach.
   responsibilities" and "formalities, conditions, restrictions or penalties".
 - **11.2 last sentence**: lawful restrictions on the armed forces, police and administration of the state.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--02-second-paragraphs.webp" width="900" height="723" alt="A table comparing Articles 8.2, 10.2 and 11.2: their opening words and their extra aims (economic well-being for 8.2; territorial integrity, confidential information and the judiciary for 10.2; restrictions on armed forces, police and state administration in 11.2). Five aims are shared by all three, from national security to protection of the rights of others. The list is exhaustive, and Article 18 limits restrictions to their prescribed purposes." loading="lazy">
+  <figcaption>Five aims are common to all three; each paragraph then adds its own.</figcaption>
+</figure>
+
 ## "Prescribed by law" in detail
 
 - Accessible and precise enough to let a person regulate their conduct (Sunday Times). Common law can
@@ -53,6 +63,11 @@ The **state** must justify the interference. Failure at any step means a breach.
 - No legal basis: Malone (telephone tapping).
 - Too broad, no safeguards: Gillan and Quinton (suspicionless stop and search under the Terrorism Act
   2000 ss44 to 47); replaced under the Protection of Freedoms Act 2012.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--03-prescribed-by-law.webp" width="900" height="652" alt="Sunday Times v UK requires a basis in domestic law that is adequately accessible and precise enough for a citizen to regulate their conduct; common law can satisfy this. The requirement fails with no legal basis (Malone v UK, telephone tapping) or a law too broad to protect against arbitrary use (Gillan and Quinton v UK, stop and search without reasonable suspicion), which led to a narrower power under the Protection of Freedoms Act 2012." loading="lazy">
+  <figcaption>The law must exist, be accessible and be precise enough to guard against arbitrary use.</figcaption>
+</figure>
 
 ## "Necessary" in detail
 
@@ -64,6 +79,16 @@ The **state** must justify the interference. Failure at any step means a breach.
   3. Less intrusive measure available without unacceptably compromising the objective?
   4. Fair balance between the individual's rights and the community's interests?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--04-necessary-scale.webp" width="900" height="546" alt="A scale from stricter to looser. Handyside v UK placed “necessary” between “indispensable” and “reasonable” or “useful”: it implies a pressing social need. The state’s reasons must be relevant and sufficient and the interference proportionate to the aim." loading="lazy">
+  <figcaption>“Necessary” is less than indispensable but more than useful.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--05-bank-mellat.webp" width="900" height="486" alt="Four numbered questions from Bank Mellat v HM Treasury: sufficiently important objective; rational connection; whether a less intrusive measure could have been used, highlighted as the usual point where a ban fails; and whether the measure strikes a fair balance." loading="lazy">
+  <figcaption>Question 3, a less intrusive alternative, is where most measures fail.</figcaption>
+</figure>
+
 ## Margin of appreciation
 
 | Wide | Narrow |
@@ -74,6 +99,11 @@ The **state** must justify the interference. Failure at any step means a breach.
 
 An international doctrine; English courts instead give weight to Parliament's judgment (discretionary
 area of judgment).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--06-margin-of-appreciation.webp" width="900" height="619" alt="A wedge from wide to narrow. The margin is wide where there is no European consensus or the issue is moral, social or economic (Handyside; A, B and C v Ireland; Hatton v UK) and narrow for intimate private life (Dudgeon v UK) or political speech. English courts instead use a discretionary area of judgment." loading="lazy">
+  <figcaption>No consensus means a wide margin; core identity or political speech means a narrow one.</figcaption>
+</figure>
 
 ## Other general limits
 
@@ -88,6 +118,11 @@ area of judgment).
 **Re S (A Child) (2004)**: neither Article 8 nor Article 10 has precedence; intense focus on the
 comparative importance of the specific rights; consider the justifications for interfering with each;
 apply proportionality to each. Applied in Campbell v MGN (2004).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--07-re-s-balance.webp" width="900" height="622" alt="A balance with Article 8 (privacy) on one side and Article 10 (the press) on the other, level because neither has automatic priority. Below, Lord Steyn’s four propositions from Re S: no precedence, intense focus on comparative importance, consider the justifications for each, and apply proportionality to each. Campbell v MGN applied this." loading="lazy">
+  <figcaption>Privacy and expression are weighed case by case; neither wins automatically.</figcaption>
+</figure>
 
 ## Key terms
 

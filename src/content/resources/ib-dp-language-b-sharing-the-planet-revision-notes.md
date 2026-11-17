@@ -39,6 +39,11 @@ personal or cultural experience, this theme leans toward issues and debate, whic
 language you need: opinion, cause-and-effect, and comparison structures matter more here than for a
 theme like Identities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-sharing-the-planet--01-issue-language.webp" width="900" height="624" alt="Identities centres on personal and cultural experience; Sharing the planet on issues and debate. So three structures matter more: opinion (express and justify a position), cause and effect (because of, as a result, this leads to) and comparison (more or less, similarity or difference). A chain shows a change in one country's economy affecting another." loading="lazy">
+  <figcaption>Opinion, cause-and-effect and comparison language matter more on this theme.</figcaption>
+</figure>
+
 ## Recommended topics and target-language vocabulary to build
 
 - **The environment** -- practise vocabulary for climate, natural resources, conservation and
@@ -54,6 +59,11 @@ theme like Identities.
 - **Urban and rural environments** -- practise vocabulary for comparing settings and describing
   change over time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-sharing-the-planet--02-sharing-the-planet-topics.webp" width="900" height="849" alt="Sharing the planet explores the challenges and opportunities faced by individuals and communities in the modern world. A central circle links its seven recommended topics, each with the language it needs: the environment (opinion), human rights (formal register), peace and conflict, equality (comparison), globalization (cause and effect), ethics (justifying a position) and urban and rural environments (comparing settings and change)." loading="lazy">
+  <figcaption>Seven topics, each with its own language focus: revise all seven, not one or two.</figcaption>
+</figure>
+
 ## Why comprehension practice matters as much as speaking practice for this theme
 
 Paper 2's combined 50% weighting for listening and reading comprehension is worth as much as the
@@ -63,6 +73,11 @@ to default toward speaking and writing output. Sharing the planet is a theme whe
 theme is inherently issue-driven and current-affairs adjacent. Build comprehension practice
 specifically around authentic or course-level materials discussing environmental, social or global
 issues in the target language, not just vocabulary lists.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-sharing-the-planet--03-one-topic-four-skills.webp" width="900" height="547" alt="Globalization at the centre is linked to four kinds of preparation: vocabulary (cause-and-effect connectives), reading and listening (unseen news-style texts about consequences across borders), writing (a formal article or report arguing a position) and speaking (discussing a globalization image, or at HL a literary work)." loading="lazy">
+  <figcaption>One topic, four skills: revision that transfers to any paper.</figcaption>
+</figure>
 
 ## Preparing Paper 1's writing task for this theme
 
@@ -74,6 +89,11 @@ often needs, since this theme suits professional and mass-media text types parti
 practising an opinion-based article or a
 formal letter arguing for a specific environmental or social position, in the target language's real
 conventions, is more targeted preparation than only reviewing topic vocabulary in isolation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-sharing-the-planet--04-paper-1-text-fit.webp" width="900" height="515" alt="Three text-type categories with examples: personal (a blog post), professional (a formal letter, a report) and mass media (an article), with professional and mass media highlighted as often suiting this issue-driven theme. An arrow leads from reviewing vocabulary only to practising an opinion article or formal letter in the real conventions." loading="lazy">
+  <figcaption>Practise formal, argument-structured text types in their real conventions.</figcaption>
+</figure>
 
 ## Preparing the individual oral around this theme
 
@@ -91,6 +111,11 @@ your class discussed most. Because this theme leans toward opinion, cause-and-ef
 language more than some of the other four themes, make sure your target-language toolkit for
 expressing and justifying a position, and for tracing cause and consequence, is genuinely fluent, not
 just recognised passively when reading.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-sharing-the-planet--05-mistakes-and-fixes.webp" width="900" height="482" alt="A table pairs four mistakes with fixes: revise all seven topics, not one or two; give listening and reading real time because they carry 50 percent; use opinion, comparison and cause-and-effect language instead of description; and build comprehension of authentic issue-driven texts as well as formal writing." loading="lazy">
+  <figcaption>Cover all seven topics, practise comprehension, and use issues language.</figcaption>
+</figure>
 
 ## Building a topic-specific glossary, not a generic word list
 

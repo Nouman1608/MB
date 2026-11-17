@@ -44,6 +44,16 @@ These notes condense sub-topics 1.5 (conservation and management of energy resou
 
 **Memory hook:** three are about **using less** (reducing consumption, insulation, efficient devices), two about **behaviour and policy** (education, transport policies), and three about **supply** (existing resources, storage, new resources).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-energy-management-and-fracking--01-strategies-eight.webp" width="900" height="890" alt="Eight icons numbered 1 to 8 for the eight strategies. Together they show reducing consumption, insulation, efficient devices, existing resources, education, transport policies, battery storage and new energy resources." loading="lazy">
+  <figcaption>The eight named energy management strategies at a glance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-energy-management-and-fracking--02-insulation-heat-loss.webp" width="900" height="830" alt="Two houses compared. Without insulation heat escapes strongly through roof, walls, window and door gap and more fuel is burned. With loft, cavity wall, double glazing and draught-proofing the losses are smaller and less fuel is burned." loading="lazy">
+  <figcaption>Insulation cuts heat loss so less fuel is burned for heating.</figcaption>
+</figure>
+
 ## 1.5.2 New energy resources
 
 | Resource | How it is produced or works | + | – |
@@ -54,6 +64,16 @@ These notes condense sub-topics 1.5 (conservation and management of energy resou
 | **Air source heat pump** | Transfers heat from the outside air to heat buildings | Easier to fit than ground source | Less efficient in very cold weather; needs good insulation |
 
 Hydrogen's only product when used is water, but it is difficult to store and transport. Heat pumps are not geothermal power stations: they work anywhere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-energy-management-and-fracking--03-hydrogen-blue-green.webp" width="900" height="1060" alt="Blue hydrogen is made from natural gas and the carbon dioxide must be captured and stored. Green hydrogen is made by using renewable electricity to split water into hydrogen and oxygen. Using hydrogen in a fuel cell gives only water." loading="lazy">
+  <figcaption>Blue and green hydrogen differ in how they are produced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-energy-management-and-fracking--04-heat-pumps.webp" width="900" height="1010" alt="Left, buried pipes take heat from the steady ground into a house. Right, a fan unit takes heat from outside air into a house. A bar shows the heat delivered is more than the electricity used because most is moved from the ground or air." loading="lazy">
+  <figcaption>Heat pumps move heat from ground or air into a building, delivering more heat than the electricity they use.</figcaption>
+</figure>
 
 ## 1.6 Fracking
 
@@ -71,6 +91,21 @@ Hydrogen's only product when used is water, but it is difficult to store and tra
 
 England paused fracking with a moratorium in 2019 after tremors at a Lancashire site.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--01-definition.webp" width="900" height="596" alt="The definition of fracking split into three parts, each explained: the extraction of natural gas or petroleum (a fossil fuel, not a new resource), from shale rock (impermeable sedimentary rock), by hydraulic fracturing (cracking rock with liquid under pressure)." loading="lazy">
+  <figcaption>Extraction of gas or oil, from shale, by hydraulic fracturing: all three parts earn the mark.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-energy-management-and-fracking--05-fracking-process.webp" width="900" height="1110" alt="A well goes down through soil and groundwater then sideways through shale. Water, sand and chemicals are pumped in at high pressure and crack the shale. Sand holds the cracks open and gas flows up the well." loading="lazy">
+  <figcaption>Fracking cracks shale with high-pressure fluid so trapped gas can flow out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fracking--03-benefits-limitations.webp" width="900" height="762" alt="Two columns. Benefits: energy security, jobs and income, lower prices, lower emissions than coal, existing networks and new reserves, mostly tagged national. Limitations: induced earthquakes, ground water contamination, heavy water use, wastewater, methane leakage, continued fossil fuel use and local disruption, mostly tagged local." loading="lazy">
+  <figcaption>Many benefits are national; many limitations fall on the local area.</figcaption>
+</figure>
+
 ## How 1.5 and 1.6 connect to the rest of Topic 1
 
 - **Demand (1.4.5) drives management (1.5):** transport, wealth, climate, population size and industry raise demand; reducing consumption, efficiency and transport policies tackle the same factors from the other side.
@@ -86,6 +121,11 @@ Use these links in longer answers: a source showing rising energy demand can be 
 
 - Benefit: stores surplus electricity from solar and wind for use when output is low [1], reducing the need for fossil fuel back-up [1].
 - Limitation: large batteries are expensive [1], and making them needs mined materials such as lithium, with environmental impacts [1].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources--02-battery-storage.webp" width="900" height="706" alt="Sketch graph over one day. Solar output rises to a peak at noon and falls to zero at night; demand peaks in the evening. The midday surplus charges a battery, which releases the electricity in the evening when demand is higher than solar output." loading="lazy">
+  <figcaption>Batteries shift surplus renewable electricity to when people need it.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -61,6 +61,16 @@ Related: [Depth Study A study guide](/resources/cambridge-igcse-world-history-de
 | 3 How important were other fronts? | Jutland (1916): British losses heavier, but the German fleet stayed in port; U-boats, unrestricted submarine warfare (1917) and convoys; Gallipoli (1915-16) failure; the Eastern Front and Russia's defeat (Brest-Litovsk, 1918); civilians -- blockade, rationing, air raids |
 | 4 Why did Germany ask for an armistice? | US entry (April 1917); the failed Ludendorff Spring Offensive (March 1918); Allied advance from Amiens (August 1918); shortages and unrest at home; Kiel Mutiny and German Revolution; Kaiser abdicates (9 November); Armistice (11 November 1918) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-first-world-war--03-ww1-schlieffen-failure.webp" width="900" height="1210" alt="A schematic shows Germany advancing through a gate labelled Belgium towards France, with bars showing the aim of beating France before Russia fully mobilises. Four steps follow: Belgian resistance slows the advance, Britain enters under treaty commitments, the army is halted at the First Battle of the Marne in September 1914, and a long entrenched war results." loading="lazy">
+  <figcaption>The plan to win quickly in the west failed at Belgium and the Marne.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-first-world-war--04-ww1-stalemate-defence.webp" width="900" height="1170" alt="A not-to-scale cross-section shows attackers crossing open ground towards a defended trench. Numbered labels mark open ground, barbed wire, a machine gun and pre-registered artillery. A gold box says defenders held the advantage, giving huge casualties for little territorial gain. Three tiles show tanks, aircraft and creeping barrages as attempts to restore movement, none decisive alone." loading="lazy">
+  <figcaption>Machine guns, wire and artillery favoured defenders; new weapons only worked when combined.</figcaption>
+</figure>
+
 ## Depth Study B: Germany, 1918-45
 
 | Key question | Must-know facts |
@@ -69,6 +79,11 @@ Related: [Depth Study A study guide](/resources/cambridge-igcse-world-history-de
 | 2 Why could Hitler dominate by 1934? | 25-Point Programme; Munich Putsch (1923); little success before 1930 (2.6% of the vote in 1928); Depression, unemployment and Nazi propaganda; 230 seats in July 1932; appointed Chancellor (January 1933); Reichstag Fire and March 1933 election; Enabling Act; Night of the Long Knives; Hindenburg's death (August 1934) |
 | 3(a) How effectively did the Nazis control Germany? | SS, Gestapo, camps; Goebbels' propaganda, radio, rallies, censorship; persecution of Jews and minorities; opposition from churches, youth groups and the 1944 bomb plot; debate on whether Nazi Germany was totalitarian |
 | 3(b) What was life like? | Hitler Youth and League of German Maidens; women and the family (marriage loans, Mother's Cross); economic recovery, DAF and KdF; anti-Semitism (Nuremberg Laws 1935, Kristallnacht 1938); war economy, rationing, bombing and the Final Solution |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-germany-1918-45--16-ger-seizing-power.webp" width="900" height="1006" alt="A staircase of seven steps, each indented further than the last. 30 January 1933: Hitler appointed Chancellor, not elected. 27 February 1933: Reichstag Fire, civil rights suspended. 5 March 1933: election, Nazis win 43.9 percent, no majority alone. 23 March 1933: Enabling Act lets the government make laws without the Reichstag. May to July 1933: trade unions abolished and other parties banned. 30 June 1934: Night of the Long Knives, Röhm and SA leaders killed. 2 August 1934: Hindenburg dies, Hitler combines the offices as Führer and the army swears an oath to him." loading="lazy">
+  <figcaption>Seizing power, 1933–34.</figcaption>
+</figure>
 
 ## Depth Study C: Russia, 1905-41
 
@@ -79,6 +94,16 @@ Related: [Depth Study A study guide](/resources/cambridge-igcse-world-history-de
 | 3 How did Stalin gain and hold power? | General Secretary; Lenin's Testament suppressed; Trotsky's errors; alliances against Left and Right; Purges and show trials; NKVD and gulags; cult of personality and official culture |
 | 4 What was the impact of Stalin's economic policies? | Five-Year Plans from 1928, heavy industry, new cities; collectivisation, kulaks, famine (1932-33); differing experiences of workers, peasants, women and ethnic minorities |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--02-russia-war-to-abdication.webp" width="900" height="1081" alt="A chain of events: heavy defeats and shortages damage the army and the Tsar; in September 1915 Nicholas takes personal command and is blamed; the Tsarina and Rasputin discredit the monarchy; inflation and shortages hit workers. In March 1917 strikes and bread queues in Petrograd become mass demonstrations; the Petrograd garrison refuses to fire and joins the crowds; Nicholas abdicates on 15 March 1917. Power is shared between the Provisional Government and the Petrograd Soviet." loading="lazy">
+  <figcaption>War defeats and shortages weakened the Tsar; when the Petrograd garrison joined the crowds in March 1917, he abdicated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--07-russia-plans-and-collectivisation.webp" width="900" height="797" alt="Two panels compare gains and costs. Five-Year Plans from 1928, set by Gosplan: heavy industry (coal, steel, oil, electricity) rose very fast, with new centres such as Magnitogorsk and the Dnieper dam; costs were scarce consumer goods, false figures and harsh discipline for workers. Collectivisation from 1929: peasants forced into collective farms to supply grain; costs were kulaks deported or killed, peasants slaughtering livestock, and the 1932 to 1933 famine, worst in Ukraine, which killed millions." loading="lazy">
+  <figcaption>Both policies delivered what Stalin wanted for industry and grain, at a very high human cost.</figcaption>
+</figure>
+
 ## Depth Study D: The United States, 1919-41
 
 | Key question | Must-know facts |
@@ -88,6 +113,16 @@ Related: [Depth Study A study guide](/resources/cambridge-igcse-world-history-de
 | 3 Causes and consequences of the Crash | Speculation and buying on the margin; overproduction and weak banks; October 1929 crash; bank failures, unemployment (about a quarter of the workforce by 1933), Hoovervilles; Hoover's limited response; Roosevelt's 1932 victory |
 | 4 How successful was the New Deal? | Hundred Days: Emergency Banking Act, CCC, AAA, TVA, NIRA; Second New Deal: WPA, Social Security Act, Wagner Act (1935); opposition from Republicans, the rich, business, the Supreme Court and radicals such as Huey Long; unemployment persisted until rearmament |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-usa-1919-41--15-usa-1920s-boom-factors.webp" width="900" height="930" alt="Five factors point at the 1920s boom. Government policy: laissez-faire, tax cuts and the Fordney-McCumber Tariff of 1922. Mass production: Ford’s moving assembly line cut the price of the Model T, and the car industry boosted steel, rubber, glass, oil and road building. New consumer goods: electrification allowed radios, refrigerators and other goods to be sold to millions. Credit and hire purchase, with advertising and share buying on the margin. Confidence and natural resources: the USA was the world’s leading creditor." loading="lazy">
+  <figcaption>The 1920s boom rested on government policy, mass production, new consumer goods, credit and confidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-usa-1919-41--19-usa-wall-street-crash-causes.webp" width="900" height="831" alt="A tall stack. On top, speculation: share prices rose far faster than company profits in 1928 to 1929, fuelled by buying on the margin; prices fell on Black Thursday, 24 October 1929, and collapsed on Black Tuesday, 29 October. Beneath, five underlying weaknesses: overproduction, unequal distribution of income limiting demand, weak and unregulated banks, the farming crisis, and tariffs reducing foreign trade. Speculation was the trigger rather than the only cause." loading="lazy">
+  <figcaption>Speculation triggered the Crash, but it sat on weak foundations: overproduction, unequal incomes, weak banks, farming and tariffs.</figcaption>
+</figure>
+
 ## Depth Study E: The Second World War in Europe and the Asia-Pacific, 1939-c.1945
 
 | Key question | Must-know facts |
@@ -96,6 +131,16 @@ Related: [Depth Study A study guide](/resources/cambridge-igcse-world-history-de
 | 2 How did the Asia-Pacific war develop? | US embargoes; Pearl Harbor (7 December 1941); Malaya and the fall of Singapore (February 1942); Midway (June 1942) as turning point |
 | 3 Impact on civilians | Blitz (1940-41); Allied bombing of German cities (1943-45); Japanese control of Malaya and Singapore; Nazi control of Poland, ghettos and the circumstances leading to the Holocaust; resistance in Malaya and France |
 | 4 How did the Allies win? | Sicily and Italy (1943-45); D-Day (June 1944) and the Soviet advance; German surrender (May 1945); Guadalcanal, island-hopping, Okinawa; bombing of Japan and the atomic bombs (August 1945); occupations; Nuremberg and Tokyo trials |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-second-world-war--08-ww2-europe-1940.webp" width="900" height="801" alt="A timeline of German conquests. September 1939: Poland. April 1940: Denmark and Norway. 10 May 1940: attack on the Netherlands, Belgium and France. Late May to early June 1940: Dunkirk, where over 300,000 British and French troops were evacuated but their equipment was left behind. 22 June 1940: France signs an armistice; the north and west are occupied and a collaborating Vichy government under Marshal Petain runs the south. Britain remains undefeated." loading="lazy">
+  <figcaption>By mid-1940 Germany dominated western and central Europe, but Britain remained undefeated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-second-world-war--11-ww2-pearl-harbor.webp" width="900" height="941" alt="A chain shows relations worsening: Japan seized Manchuria in 1931, invaded China in 1937, joined the Tripartite Pact in 1940 and moved into French Indochina; in 1941 the USA froze Japanese assets and cut oil exports. Japan faced a choice between withdrawing from China and seizing the oil of the Dutch East Indies, and chose war. The attack on Pearl Harbor on 7 December 1941 sank or damaged eight US battleships and many aircraft, but the US aircraft carriers were at sea and the fuel tanks and repair yards were intact. It brought a united USA into the war, and Germany declared war on the USA days later." loading="lazy">
+  <figcaption>Pearl Harbor was a short-term success for Japan, but it left the US carriers and fuel intact and united the USA.</figcaption>
+</figure>
 
 ## Worked example: a Section B (c) answer plan
 

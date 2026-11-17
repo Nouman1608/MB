@@ -1,0 +1,10 @@
+{ "page": "electrolysis-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/electrolysis-and-fuel-cells--02-free-ions.webp", "after": "## The basics"},
+ {"src": "https://img.marlbridge.com/electrolysis-and-fuel-cells--01-molten-electrolysis.webp", "after": "## Molten compounds — simple"},
+ {"src": "https://img.marlbridge.com/electrolysis-and-fuel-cells--03-aqueous-rules.webp", "after": "## Aqueous solutions — water competes"},
+ {"src": "https://img.marlbridge.com/electrolysis-and-fuel-cells--04-aqueous-worked.webp", "after": "## Aqueous solutions — water competes"},
+ {"src": "https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp", "after": "## Aqueous solutions — water competes"},
+ {"src": "https://img.marlbridge.com/electrolysis-and-fuel-cells--06-electroplating.webp", "after": "## Electroplating"},
+ {"src": "https://img.marlbridge.com/electrolysis-and-fuel-cells--07-fuel-cell.webp", "after": "## Hydrogen–oxygen fuel cell"},
+ {"src": "https://img.marlbridge.com/electrolysis-and-fuel-cells--08-fuel-cell-vs-petrol.webp", "after": "## Hydrogen–oxygen fuel cell"}
+] }

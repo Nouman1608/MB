@@ -44,6 +44,11 @@ Only **five essays** are prescribed, not the whole book:
 
 2011 is the year printed in the specification's list; the essays themselves were written in the first half of the twentieth century. **پطرس** was the pen name of Ahmad Shah Bukhari (1898 to 1958), who taught at Government College Lahore and later represented Pakistan at the United Nations. He wrote relatively little, but this small collection made him one of the best-loved humorists in Urdu.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--02-prescribed-works.webp" width="900" height="716" alt="Three literary texts (Aangan آنگن, novel, Khadija Mastur, 1999; Patras Ke Mazameen پطرس کے مضامین, essays, 2011, five essays prescribed; Bisaat بساط, play, Baseer Kazmi, 1987) and three films (Bin Roye بن روئے, 2015; Baaghban باغبان, 2003; Bajrangi Bhaijaan بجرنگی بھائی جان, 2015)." loading="lazy">
+  <figcaption>Three texts and three films; the films are given by name and year only.</figcaption>
+</figure>
+
 ## The five essays in brief
 
 Use these as orientation only; your evidence must come from your own reading.
@@ -72,6 +77,16 @@ When you analyse humour, do not only say an essay is 'funny'. Name the technique
 - You write exactly **two** extended responses: two literary texts, or one literary text and one film. Two films is never allowed.
 - Marking criteria: critical and analytical response with cultural or social insight (AO4), range of grammatical structures and vocabulary (AO3), and accuracy of language (AO3). There are no AO1 or AO2 marks on Paper 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--01-paper-2-structure.webp" width="900" height="626" alt="Paper 2 lasts 2 hours 40 minutes for 110 marks (30% of the A-level). Section A, translation into Urdu, has 20 marks and 30 minutes; each of the two works responses has 45 marks and about 1 hour 5 minutes. Section A is marked in 20 one-mark chunks, and verb and adjective endings must be correct." loading="lazy">
+  <figcaption>Translation first, then two 45-mark essays; endings are never treated as spelling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--05-allowed-combinations.webp" width="900" height="528" alt="The two allowed combinations of works essays: two literary-text essays (Section B twice), or one literary-text essay and one film essay (Sections B and C). Two film essays, or three extended responses, are not allowed." loading="lazy">
+  <figcaption>Two texts, or a text and a film: never two films, never three essays.</figcaption>
+</figure>
+
 ## Approach and skills
 
 - Prepare against five angles: **form and technique, key themes and issues, characterisation, plot structure, social and cultural setting**.
@@ -80,6 +95,11 @@ When you analyse humour, do not only say an essay is 'funny'. Name the technique
 - Use your own prepared references from the work; this page does not replace studying it.
 
 For essays rather than a single story, 'plot structure' means how each essay is built: its opening, how the comedy escalates and how it ends. Prepare at least three of the five essays in detail so you can compare them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--03-five-angles.webp" width="900" height="664" alt="Each studied work is prepared from five angles: form and technique, key themes and issues, characterisation, plot structure, and social and cultural setting, then connected to the qualification’s four themes for AO4." loading="lazy">
+  <figcaption>Revise each work from all five angles and link it to the wider themes.</figcaption>
+</figure>
 
 ## Vocabulary for writing about the essays
 
@@ -120,6 +140,11 @@ Task: how does Patras create humour?
 **Translation:** In Patras Bukhari's essays, the greatest source of humour is exaggeration and laughing at oneself. In *Marhoom Ki Yaad Mein*, the narrator speaks of an old bicycle as if he were grieving the death of a loved one, and it is this contrast between a serious tone and a trivial subject that makes the reader laugh. Similarly, *Lahore Ka Jughrafia* imitates the style of textbooks to make gentle fun of the city's problems. In my view Patras's humour is not mere entertainment, because while making us laugh he also points to human weaknesses and social attitudes.
 
 **Why it works:** a clear position, two essays compared, named techniques (مبالغہ، تضاد، نقل، طنز) and a cultural point. In a real answer, add a short example of your own from each essay.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--04-works-response-structure.webp" width="900" height="710" alt="A works essay states a position, supports it with two or three specific scenes or lines, and closes by connecting the issue to its wider social theme, earning AO3 through precise language and AO4 through cultural context. Chronological retelling is the trap." loading="lazy">
+  <figcaption>Position, evidence, cultural connection: argue, do not retell.</figcaption>
+</figure>
 
 ## Essay prompts to prepare
 

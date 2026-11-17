@@ -1,0 +1,7 @@
+{ "page": "states-of-matter-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--01-three-states.webp", "after": "## The three states at a glance"},
+ {"src": "https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--02-changes-of-state.webp", "after": "## Changes of state — learn both directions"},
+ {"src": "https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--03-heating-curve.webp", "after": "## Reading a heating/cooling curve *(0620 Extended, 5070 required)*"},
+ {"src": "https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--05-diffusion.webp", "after": "## Diffusion — what makes it faster"},
+ {"src": "https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--06-ammonia-hcl-tube.webp", "after": "## Diffusion — what makes it faster"}
+] }

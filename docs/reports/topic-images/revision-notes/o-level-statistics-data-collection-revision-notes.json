@@ -1,0 +1,9 @@
+{ "page": "o-level-statistics-data-collection-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--07-dc-data-types.webp", "after": "## Types of data" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--09-dc-census-sample.webp", "after": "## Census vs sample" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--10-dc-sampling-methods.webp", "after": "## Sampling methods" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--11-dc-stratified.webp", "after": "## Sampling methods" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--08-dc-class-boundaries.webp", "after": "## Continuous data and class boundaries (previewing Topic 3)" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--12-dc-bookshop-bias.webp", "after": "## Sources of bias" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--13-dc-sample-size-bias.webp", "after": "## Sources of bias" }
+] }

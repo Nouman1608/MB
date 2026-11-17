@@ -37,11 +37,21 @@ the [Change of state practice questions](/resources/edexcel-igcse-physics-4ph1-c
 
 Either way, the energy stored in the system increases.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--01-energy-raises-temperature-or-changes-state.webp" width="900" height="735" alt="Energy from heating goes into the thermal store. It either makes the particles move faster, raising the temperature, or overcomes the forces between particles to change the state, with no rise in temperature." loading="lazy">
+  <figcaption>Heating either raises the temperature or changes the state; both increase the stored energy.</figcaption>
+</figure>
+
 ## Particles (5.10P)
 
 - **Solid:** close, regular pattern; strong forces; vibrate about fixed positions.
 - **Liquid:** close, irregular; weaker forces; move around and slide past each other.
 - **Gas:** far apart; almost no forces; fast, random motion in all directions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--02-particles-in-three-states.webp" width="900" height="590" alt="Three boxes of particles. A solid has particles packed in regular rows that vibrate in place; a liquid has touching particles in an irregular arrangement; a gas has a few widely spaced particles moving fast in random directions." loading="lazy">
+  <figcaption>Same particles, different arrangement, forces and motion.</figcaption>
+</figure>
 
 ## Melting, boiling, evaporating (5.9P)
 
@@ -51,6 +61,11 @@ Either way, the energy stored in the system increases.
 - **Evaporation:** surface only, any temperature; the fastest particles escape, so the average kinetic energy of the
   remaining particles falls and the liquid **cools**.
 - Evaporation is faster when the liquid is warmer, has a larger surface area, or has air moving over it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--03-evaporation-vs-boiling.webp" width="900" height="780" alt="Two beakers. In evaporation only the fastest particles at the surface escape, so the liquid left behind has a lower average kinetic energy and cools. In boiling, bubbles of gas form throughout the liquid at the boiling point and the temperature stays constant." loading="lazy">
+  <figcaption>Evaporation: surface only, any temperature, cools the liquid. Boiling: throughout, at the boiling point.</figcaption>
+</figure>
 
 ## Temperature-time graphs (5.11P)
 
@@ -62,6 +77,16 @@ Cooling liquid: fall → FLAT at freezing point (solidifying) → fall
 - Flat section = change of state; energy is still being transferred, but the temperature does not change.
 - For water heated steadily, the boiling plateau is longer than the melting plateau.
 - Method: steady heating, stir, read every 30 s at eye level, plot temperature (y) against time (x).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--04-heating-curve-ice-to-steam.webp" width="900" height="650" alt="Temperature against time for ice heated at a steady rate. The line rises to 0 °C, stays flat while the ice melts, rises to 100 °C, then stays flat for longer while the water boils." loading="lazy">
+  <figcaption>Flat at 0 °C while melting and at 100 °C while boiling; the boiling section is longer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--05-cooling-curve-melted-solid.webp" width="900" height="610" alt="Temperature against time for a melted solid cooling in air. The temperature falls, stays flat at the melting point while the substance solidifies, then falls again as the solid cools." loading="lazy">
+  <figcaption>The flat section of a cooling curve is at the melting (freezing) point.</figcaption>
+</figure>
 
 ## Specific heat capacity (5.12P, 5.13P)
 
@@ -75,6 +100,11 @@ Cooling liquid: fall → FLAT at freezing point (solidifying) → fall
 - Use only for temperature changes, never across a change of state.
 - ΔT can be in °C or K (same size).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--06-kettle-worked-example.webp" width="900" height="645" alt="A 2.2 kW kettle holding 0.75 kg of water heated from 15 °C to 100 °C. ΔQ = 0.75 × 4200 × 85 = 267 750 J, and the minimum time is 267 750 ÷ 2200 = 122 s." loading="lazy">
+  <figcaption>Find ΔQ with m × c × ΔT, then divide by the power for the minimum time.</figcaption>
+</figure>
+
 ## The specific heat capacity practical (5.14P)
 
 1. Mass of block (or water) on a balance.
@@ -86,6 +116,16 @@ Cooling liquid: fall → FLAT at freezing point (solidifying) → fall
 **Why the measured c is usually too high:** some of the energy supplied heats the surroundings, so the temperature
 rise is smaller than it would be if all the energy went into the block. Improve with more insulation, a lid (for
 water), and stirring (for water).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--07-shc-practical-setup.webp" width="900" height="715" alt="An insulated aluminium block with an electric heater and a thermometer in its holes, a drop of oil around the thermometer bulb. The heater is connected to a power supply with an ammeter in series and a voltmeter across the heater." loading="lazy">
+  <figcaption>Measure I, V and t for the energy, and m and ΔT for the block, then c = E ÷ (m × ΔT).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-change-of-state--08-shc-results-evaluation.webp" width="900" height="700" alt="Worked calculation: E = 4.0 × 12.0 × 300 = 14 400 J, ΔT = 14.4 °C, so c = 1000 J/kg °C. A bar chart compares this with the accepted value of about 900 J/kg °C; the measured value is too high because energy heated the surroundings." loading="lazy">
+  <figcaption>Energy lost to the surroundings makes ΔT too small, so the measured c is too high.</figcaption>
+</figure>
 
 ## Key terms
 

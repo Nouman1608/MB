@@ -41,12 +41,27 @@ Condensed notes for sub-topic 4.4 of Cambridge IGCSE Environmental Management (0
 - Why so damaging: CFCs are very stable, so they survive long enough to reach the stratosphere; ultraviolet radiation breaks them up, releasing chlorine, which destroys ozone; one chlorine atom can destroy many ozone molecules.
 - Ozone layer location: lower stratosphere. Thinning is greatest over Antarctica in the southern spring (the "ozone hole").
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ozone-depletion--02-cfc-sources-stability.webp" width="900" height="615" alt="CFCs were the propellant in aerosol spray cans and the coolant in fridges, freezers and air-conditioning. Because they are unreactive, non-flammable and non-toxic near the ground they last a long time, drift up to the stratosphere and are broken apart by ultraviolet radiation, releasing chlorine that destroys ozone." loading="lazy">
+  <figcaption>CFCs are so stable that they survive to reach the stratosphere, where they release chlorine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-the-atmosphere-and-human-activities-study-guide--07-atm-cfc-ozone-depletion.webp" width="900" height="1000" alt="In the stratosphere, UV breaks a CFC and releases a chlorine atom that destroys ozone repeatedly. Where the layer thins, more UV reaches the surface, raising the risk of skin cancer and cataracts. A banner notes the 1987 Montreal Protocol and slow recovery." loading="lazy">
+  <figcaption>CFCs release chlorine that destroys ozone, letting more UV reach the surface.</figcaption>
+</figure>
+
 ## Impacts (4.4.2): a three-step chain
 
 Less ozone → **higher levels of solar (ultraviolet) radiation reaching the Earth's surface** →
 
 - **Increased rates of cancer** (skin cancer) **and cataracts** (clouding of the eye lens).
 - **Damage to vegetation resulting in reduced crop yields** (less photosynthesis and growth).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ozone-depletion--03-impacts-chain.webp" width="900" height="715" alt="A chain: less ozone leads to higher levels of ultraviolet radiation at the surface. In people this damages skin cells, causing skin cancer, and the eye lens, causing cataracts. In plants it damages leaves, reducing photosynthesis and growth, so crop yields fall." loading="lazy">
+  <figcaption>Less ozone, more UV, then a named harm: skin cancer, cataracts or lower crop yields.</figcaption>
+</figure>
 
 ## Strategies (4.4.3)
 
@@ -55,6 +70,16 @@ Less ozone → **higher levels of solar (ultraviolet) radiation reaching the Ear
 | International agreement and policies | Montreal Protocol (1987): countries phase out CFCs and other ozone-depleting substances; later meetings tightened timetables; developing countries given longer and financial help; national laws enforce it |
 | CFC ban and alternatives to CFCs | Pump sprays and other propellants in aerosols; HCFCs as a temporary step, then HFCs and hydrocarbons in refrigeration |
 | Safe disposal of CFCs | Collect old fridges and air-conditioners; remove refrigerant and foam; destroy CFCs at high temperature or store securely |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ozone-depletion--04-replacing-cfcs.webp" width="900" height="665" alt="In refrigeration CFCs were replaced first by HCFCs, which do much less damage and were a temporary step, then by HFCs and hydrocarbons, which do not deplete ozone. In aerosols pump-action sprays, roll-ons and chlorine-free propellants replaced them. HCFCs still deplete a little, HFCs are powerful greenhouse gases and hydrocarbons are flammable; the 2016 Kigali amendment phases down HFCs." loading="lazy">
+  <figcaption>Each substitute fixed the ozone problem better, but HFCs created a climate problem.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ozone-depletion--05-safe-disposal.webp" width="900" height="497" alt="Four steps: collect old fridges, freezers and air-conditioners; remove the refrigerant and CFC-containing foam; scrap the metal; destroy the CFCs at high temperature or store them securely. This stops banked CFCs leaking, but needs collection systems, specialist plants and funding, and illegal dumping still happens." loading="lazy">
+  <figcaption>Safe disposal removes CFCs from old appliances before they can leak.</figcaption>
+</figure>
 
 ## Benefits and limitations (4.4.4)
 
@@ -68,6 +93,11 @@ Judgement points:
 - Success factors: cheap substitutes, few producers, clear evidence of harm.
 - Recovery is slow, over decades, because CFCs already released stay in the atmosphere.
 - Solving one problem can create another: HFCs and climate change. A 2016 amendment agreed in Kigali phases down HFCs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ozone-depletion--06-why-it-worked.webp" width="900" height="565" alt="Three reasons the ozone strategies succeeded: practical substitutes, few producers to regulate and clear evidence of harm. Recovery is still slow because CFCs persist for decades. Compared with climate change, CFCs had cheap substitutes and few producers, whereas fossil fuels underpin whole economies." loading="lazy">
+  <figcaption>Cheap substitutes, few producers and clear evidence made ozone action work; recovery still takes decades.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -83,6 +113,11 @@ Judgement points:
 | Cataract | Clouding of the lens of the eye |
 | Montreal Protocol | The 1987 international agreement to phase out ozone-depleting substances |
 | HFCs | Hydrofluorocarbons; CFC substitutes that do not deplete ozone but are greenhouse gases |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ozone-depletion--01-ozone-layer-role.webp" width="900" height="710" alt="Two atmosphere columns. With a healthy ozone layer in the lower stratosphere, most ultraviolet arrows from the Sun are absorbed and only a fraction reach the surface. With a depleted, thinner layer, more ultraviolet passes through to the surface." loading="lazy">
+  <figcaption>A thinner ozone layer absorbs less ultraviolet, so more reaches the Earth’s surface.</figcaption>
+</figure>
 
 ## Ozone depletion versus climate change
 

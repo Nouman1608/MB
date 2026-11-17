@@ -46,6 +46,16 @@ These notes condense section 2.3, Transfer of thermal energy (2.3.1 to 2.3.4), o
 - **Gases and most liquids:** particles far apart; energy passed only by occasional collisions; no lattice, no free electrons → poor conduction.
 - **Intermediate solids:** glass, brick, concrete, stone conduct better than insulators, worse than metals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics--01-water-poor-conductor.webp" width="900" height="680" alt="A test tube of cold water with ice wrapped in wire gauze at the bottom is heated near the top. The water at the top boils while the ice stays unmelted for some time, because convection is prevented and conduction through water is very slow." loading="lazy">
+  <figcaption>Boiling water above, unmelted ice below: water conducts poorly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics--02-lattice-and-free-electrons.webp" width="900" height="560" alt="Left: in any solid, heated particles at the hot end vibrate more and pass the vibrations along the lattice, which is slow. Right: in a metal, free electrons also gain kinetic energy and carry it quickly to colder regions, so metals conduct best. Gases and most liquids conduct poorly." loading="lazy">
+  <figcaption>Lattice vibrations in all solids; free electrons make metals fast.</figcaption>
+</figure>
+
 ## Convection (2.3.2)
 
 1. Fluid near the source is heated and **expands**.
@@ -56,6 +66,11 @@ These notes condense section 2.3, Transfer of thermal energy (2.3.1 to 2.3.4), o
 Experiments: coloured crystal in water heated at one side; smoke drawn down one chimney and up the other above a candle; paper spiral turning above a heater.
 
 Convection cannot happen in solids (particles cannot flow) or in a vacuum.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics--03-convection-chimney-box.webp" width="900" height="580" alt="A box with a glass front and two chimneys has a lit candle under one chimney. Smoke from smouldering paper held over the other chimney is drawn down it, across the box and up the chimney above the candle, because air heated by the candle expands, becomes less dense and rises while cooler, denser air sinks to replace it." loading="lazy">
+  <figcaption>Heated fluid expands, becomes less dense and rises; cooler fluid sinks.</figcaption>
+</figure>
 
 ## Radiation (2.3.3)
 
@@ -76,6 +91,11 @@ Convection cannot happen in solids (particles cannot flow) or in a vacuum.
 - **Earth's temperature:** balance between incoming solar radiation and infrared emitted from the surface; affected by greenhouse gases, cloud cover and reflective ice and snow.
 - Experiments: identical black and shiny cans of hot water cooling (emitters); identical cans of cold water near an infrared heater (absorbers); keep volume, distance and starting temperature the same.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics--04-radiation-surfaces.webp" width="900" height="700" alt="Dull black surfaces are the best absorbers and emitters of infrared and the worst reflectors; shiny white or silver surfaces are the reverse. For Extended: two identical cans of hot water, one black and one shiny, show the black can cools faster; two cans of cold water equidistant from an infrared lamp show the black can warms faster." loading="lazy">
+  <figcaption>Dull black absorbs and emits best; shiny reflects best.</figcaption>
+</figure>
+
 ## Applications (2.3.4)
 
 **Core**
@@ -90,6 +110,16 @@ Convection cannot happen in solids (particles cannot flow) or in a vacuum.
 - **Fire:** radiation into the room; convection of hot gases up the chimney; conduction through the grate.
 - **Car radiator:** conduction from the coolant through the metal; convection as air flows over the fins.
 - **Vacuum flask:** vacuum stops conduction and convection; silvered surfaces reduce radiation; stopper reduces convection and evaporation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics--05-heating-a-room.webp" width="900" height="510" alt="A heater near the floor warms the air next to it; the air expands, becomes less dense and rises to the ceiling, moves across, cools and sinks on the far side, and returns along the floor, so a convection current heats the whole room. An air conditioner is placed high up because cool, dense air sinks." loading="lazy">
+  <figcaption>Put heaters low and coolers high to drive a convection current.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics--06-vacuum-flask.webp" width="900" height="600" alt="A vacuum flask: the stopper reduces convection and evaporation from the top, the vacuum between the double walls stops conduction and convection, and the silvered walls reflect infrared back to reduce radiation." loading="lazy">
+  <figcaption>Each feature of the flask blocks a different transfer process.</figcaption>
+</figure>
 
 ## Key terms
 

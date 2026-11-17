@@ -1,0 +1,29 @@
+{
+ "page": "cambridge-a-level-computer-science-software-development-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--01-sd-lifecycle.webp",
+   "after": "## Stages of the program development life cycle"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--02-sd-models.webp",
+   "after": "## Waterfall, iterative and RAD compared"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--03-sd-state-ticket.webp",
+   "after": "## State-transition diagrams"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--05-sd-test-plan.webp",
+   "after": "## Test plans and test data"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--04-sd-test-data-v2.webp",
+   "after": "## Test plans and test data"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--06-sd-maintenance.webp",
+   "after": "## Maintenance"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{ "page": "travel-graphs-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/graphs-in-practical-situations--07-gp-travel.webp", "after": "## The two travel graphs — never confuse them"},
+ {"src": "https://img.marlbridge.com/graphs-in-practical-situations--11-gp-two-meanings.webp", "after": "## The two travel graphs — never confuse them"},
+ {"src": "https://img.marlbridge.com/graphs-in-practical-situations--09-gp-tangent.webp", "after": "## Finding gradient"},
+ {"src": "https://img.marlbridge.com/graphs-in-practical-situations--10-gp-speed-time-area.webp", "after": "## Area under a speed–time graph"},
+ {"src": "https://img.marlbridge.com/graphs-in-practical-situations--12-gp-enrichment.webp", "after": "## Displacement vs distance travelled"},
+ {"src": "https://img.marlbridge.com/graphs-in-practical-situations--08-gp-conversion.webp", "after": "## Conversion graphs"},
+ {"src": "https://img.marlbridge.com/graphs-in-practical-situations--13-gp-rates.webp", "after": "## Rates of change"}
+] }

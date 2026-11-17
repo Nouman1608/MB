@@ -35,6 +35,11 @@ Condensed for the final weeks. For the full explanation, use the [education stud
 - **School types**: state or public, private, selective, non-selective, faith, international, boarding, progressive, vocational.
 - **Online learning**: wider access but needs devices and connection.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--01-education-and-schooling.webp" width="900" height="687" alt="Formal education happens in institutions with a curriculum and qualifications; informal education happens through families, peers and media. A staircase shows the levels: nursery, primary, secondary and tertiary. Cards contrast the official and hidden curriculum and note the limits of online learning." loading="lazy">
+  <figcaption>Formal education climbs from nursery to tertiary; informal education happens everywhere.</figcaption>
+</figure>
+
 ## Perspectives (3.1.2.2)
 
 | Perspective | Key ideas | Sociologists |
@@ -43,6 +48,16 @@ Condensed for the final weeks. For the full explanation, use the [education stud
 | Marxism | Schooling differs by class; reproduces and legitimises class; prepares workers; myth of meritocracy | Bowles and Gintis, Bourdieu (cultural capital) |
 | Radical critics | Schools create dependence; "banking" education | Illich, Freire |
 | Feminisms | Schools shape gender roles and expectations | Sharpe |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--02-perspectives-on-education.webp" width="900" height="606" alt="Four cards. Functionalism: shared values, a bridge to universalistic standards, role allocation and human capital. Marxism: Bowles and Gintis on preparation for work and the myth of meritocracy; Bourdieu on cultural capital. Radical critics: Illich on deschooling, Freire on banking education. Feminisms: gender roles reinforced in school, and Sharpe’s finding that girls’ priorities shifted towards careers." loading="lazy">
+  <figcaption>Each perspective asks whose interests education serves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--03-bourdieu-cultural-capital.webp" width="900" height="507" alt="A chain: a middle-class home gives knowledge, language and tastes; this cultural capital is what schools value; so middle-class pupils attain more. Schools therefore reproduce class inequality and legitimise it by making it look like individual merit. A note warns that cultural capital is not money." loading="lazy">
+  <figcaption>Schools reward middle-class culture, then call the result merit.</figcaption>
+</figure>
 
 ## Relationships and processes (3.1.2.3)
 
@@ -53,6 +68,16 @@ Condensed for the final weeks. For the full explanation, use the [education stud
 - **Subcultures**: pro-school and anti-school (**Willis**, "the lads").
 - **Ethos and curricula**: ethnocentrism, vocational routes, unequal access to knowledge; racism and sexism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--05-classroom-processes.webp" width="900" height="646" alt="Six cards: the ideal pupil (Becker), stereotyping, the halo effect, positive and negative sanctions, pro-school subcultures that value achievement, and anti-school subcultures such as Willis’s lads. A note adds that racism and sexism work through labelling, low expectations, harsher sanctions and an ethnocentric curriculum." loading="lazy">
+  <figcaption>Interactionists look at the small, everyday processes that shape pupils.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--04-labelling-four-marks.webp" width="900" height="879" alt="Four numbered steps: a teacher labels a pupil as less able; gives them easier work and less attention; the pupil sees themselves as less able and stops trying; low attainment fulfils the expectation. A note adds Rosenthal and Jacobson’s field experiment, Becker’s ideal pupil and the point that pupils can reject labels." loading="lazy">
+  <figcaption>Label, treatment, self-image, outcome: one mark for each link.</figcaption>
+</figure>
+
 ## Attainment (3.1.2.4)
 
 - **Measuring**: exams, IQ tests (cultural bias). **Credentialism**: rising demand for qualifications.
@@ -61,6 +86,11 @@ Condensed for the final weeks. For the full explanation, use the [education stud
 - **Home and community**: parental support and expectations.
 - **In-school**: labelling, setting, subcultures, curriculum.
 - Class, gender and ethnicity **intersect**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--06-attainment-explanations.webp" width="900" height="661" alt="Nested boxes. Inside school: labelling, setting and streaming, subcultures and ethnocentric curricula. Outside school: material factors such as poverty, cultural factors such as cultural capital, and home and community factors such as parents’ support. Class, gender and ethnicity intersect." loading="lazy">
+  <figcaption>Explain attainment gaps from both inside and outside the school gates.</figcaption>
+</figure>
 
 ## Global education (3.1.2.5)
 

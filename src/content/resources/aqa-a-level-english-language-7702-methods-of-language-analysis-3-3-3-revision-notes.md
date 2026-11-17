@@ -35,6 +35,11 @@ pathway or theme chosen, but underlying any analysis is coverage of **relevant a
 phonetics, phonology and prosodics; graphology; lexis and semantics; grammar, including morphology; pragmatics;
 discourse. Relevant, not all: depth on the levels your question needs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-methods-of-language-analysis--05-nea-six-levels.webp" width="900" height="1010" alt="Six language levels surround your data: phonetics, phonology and prosodics; graphology; lexis and semantics; grammar, including morphology; pragmatics; and discourse. Every analysis covers relevant aspects of these levels, but you choose the ones that fit your research question and do not need to apply all six equally." loading="lazy">
+  <figcaption>The six language levels you can use on your own data.</figcaption>
+</figure>
+
 ## Level by level: NEA uses and frameworks
 
 | Level | Typical NEA use | Frameworks and concepts to apply |
@@ -45,6 +50,11 @@ discourse. Relevant, not all: depth on the levels your question needs.
 | Grammar, including morphology | Most investigations; children's writing | Clause types, modality, voice, tense and aspect, noun phrase structure, inflections |
 | Pragmatics | Talk data; persuasion; politeness | Grice's maxims and implicature, speech acts, face and politeness strategies |
 | Discourse | Conversation; genre studies; narrative | Adjacency pairs, turn-taking, topic management, cohesion, genre structure |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-methods-of-language-analysis--06-nea-focus-to-levels.webp" width="900" height="990" alt="A grid of six example investigation foci against the six language levels. Regional dialect survey: phonology, lexis and grammar. Gendered talk: pragmatics, discourse and grammar. Sports commentary: grammar, lexis and prosodics. Travel guides representing a community: lexis, grammar and discourse. The writing of two children aged 8: grammar, graphology and discourse. Turn-taking in real-time online writing: discourse, pragmatics and graphology. Each focus uses three levels, so you choose levels from the research question rather than applying all six." loading="lazy">
+  <figcaption>Which three levels the lesson lists for each example investigation.</figcaption>
+</figure>
 
 ## Transcription essentials
 
@@ -66,6 +76,11 @@ discourse. Relevant, not all: depth on the levels your question needs.
 6. Note exceptions and limits.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-methods-of-language-analysis--07-nea-hedge-count.webp" width="900" height="980" alt="In 20 minutes of transcribed group talk, Speaker A produces 14 hedges in 52 turns, which is 26.9 percent of turns, and Speaker B produces 4 hedges in 48 turns, which is 8.3 percent. The numbers show a difference, and the analysis must then explain it: do the hedges soften disagreement as a politeness strategy, do they express uncertainty, and do the speakers’ roles, such as who is chairing, explain the pattern? A small sample cannot support broad claims, so the conclusion should be cautious." loading="lazy">
+  <figcaption>Turning hedge counts into percentages, then asking why.</figcaption>
+</figure>
+
 ## Quantitative and qualitative
 
 | Quantitative | Qualitative |
@@ -76,6 +91,11 @@ discourse. Relevant, not all: depth on the levels your question needs.
 | Risk: numbers without interpretation | Risk: cherry-picked examples |
 
 The strongest analyses combine both: numbers locate the pattern, close reading explains it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-methods-of-language-analysis--08-nea-three-habits.webp" width="900" height="880" alt="Three habits make NEA analysis methodical and linked to context. 1 Code your data: decide categories in advance, such as hedges, tag questions and interruptions, and mark every instance. 2 Combine quantitative and qualitative evidence: counts show patterns and close analysis of examples explains them, with supporting evidence in the appendices. 3 Relate features to context: explain how audience, purpose, genre, mode and the relationship between participants shape the features you find." loading="lazy">
+  <figcaption>Code data, combine counts with close reading, and relate features to context.</figcaption>
+</figure>
 
 ## Matching levels to data type
 
@@ -90,6 +110,11 @@ The strongest analyses combine both: numbers locate the pattern, close reading e
 Use the levels to analyse your **style model** and your **own choices**: name the feature, explain its effect for
 the audience and purpose, compare the two texts, and evaluate. A commentary describing the writing process without
 linguistic analysis misses the point of 3.3.3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-methods-of-language-analysis--10-nea-commentary-moves.webp" width="900" height="840" alt="In the commentary you use the same language levels on your own writing in three moves. 1 Identify features of the style model at several levels, for example present-tense narration such as The market wakes slowly. 2 Explain the choices you made in your own piece using terminology, such as concrete sensory lexis from the semantic field of food chosen for a non-specialist reader. 3 Evaluate effectiveness honestly: what worked and what you redrafted, for example replacing several adjectives with verbs in the second draft." loading="lazy">
+  <figcaption>Three moves for using the language levels in the commentary.</figcaption>
+</figure>
 
 ## Key terms
 

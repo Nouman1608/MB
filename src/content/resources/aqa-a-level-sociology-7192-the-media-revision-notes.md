@@ -85,6 +85,21 @@ The specification lists these, and you need "both the evidence of and the sociol
 | Hall (1973) | Encoding and decoding | Dominant, negotiated, oppositional readings | Hard to measure readings precisely |
 | Philo (1990) | *Seeing and Believing* | News themes remembered and often believed | Experience can override media |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-the-media--01-new-media-debate.webp" width="900" height="588" alt="Cultural optimists Jenkins and Castells see new media as participatory and democratic. Pessimists Keen, Morozov, Zuboff, Pariser and Marxists argue quality falls, activism weakens and a few platforms hold control." loading="lazy">
+  <figcaption>New media widen participation, but unequally and on platforms owned by a few.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-ownership-and-control--03-propaganda-model.webp" width="900" height="682" alt="A funnel in which all possible stories pass through five filters: ownership, advertising, reliance on official sources, flak and anti-communism, leaving the news that is published." loading="lazy">
+  <figcaption>Five filters narrow all possible stories down to the news that fits elite interests.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-representation-and-effects--03-encoding-decoding.webp" width="900" height="663" alt="Producers encode a meaning in a programme; audiences then decode it in a dominant reading that accepts the meaning, a negotiated reading that accepts it in part, or an oppositional reading that rejects it." loading="lazy">
+  <figcaption>The same programme can be read in dominant, negotiated or oppositional ways.</figcaption>
+</figure>
+
 ## Representations: one line per group
 
 | Group | Evidence to use | Typical explanation |
@@ -97,6 +112,11 @@ The specification lists these, and you need "both the evidence of and the sociol
 | Disability | Barnes (1992): recurring stereotypes such as pitiable or sinister | Medical rather than social model of disability |
 
 For each group, be ready to say whether representations are changing, and what evidence suggests so.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-the-media--05-representations.webp" width="900" height="724" alt="Key studies of media representation for gender, ethnicity, social class, age, sexuality and disability, from Tuchman and Mulvey to van Dijk, Jones, Cohen and Barnes." loading="lazy">
+  <figcaption>Each group has its own body of evidence on stereotyping and absence.</figcaption>
+</figure>
 
 ## Linking to the core themes
 
@@ -117,6 +137,21 @@ Using one of these themes in each extended answer helps show analysis, not just 
 - **Global vs hybrid culture.** Homogenisation versus mixing of global and local forms.
 - **Optimists vs pessimists on new media.** Democratisation versus new forms of control.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-the-media--02-ownership-control.webp" width="900" height="709" alt="A grid comparing instrumentalist Marxism, neo-Marxism and pluralism on who controls media content, how control works, and the evidence each uses." loading="lazy">
+  <figcaption>Owners, dominant ideas or audiences: three answers to who controls the media.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-the-media--06-effects-models.webp" width="900" height="650" alt="Six models of media effects arranged from passive to active audiences: hypodermic syringe, cultivation, cultural effects, two-step flow, uses and gratifications, and reception and postmodern views." loading="lazy">
+  <figcaption>Effects models range from a passive audience to one that actively makes meaning.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-the-media--03-global-culture.webp" width="900" height="558" alt="Cultural imperialism, from Adorno and Horkheimer and Schiller, sees Western media spreading one way. Thussu’s contra-flows, glocalisation and postmodern views show flows in several directions and active audiences." loading="lazy">
+  <figcaption>Global media flows are more complex than a one-way spread of Western culture.</figcaption>
+</figure>
+
 ## Mini essay plan
 
 **Question type:** "Evaluate the view that the ownership of the media determines its content."
@@ -129,6 +164,11 @@ Using one of these themes in each extended answer helps show analysis, not just 
 6. **New media (against and for).** Many voices online; but platforms are themselves concentrated.
 7. **Audience link.** Even if owners shape content, reception analysis shows audiences may reject it.
 8. **Judgement.** Ownership sets limits, but day-to-day content is shaped by many forces. Make a clear judgement and say why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-the-media--04-news-selection.webp" width="900" height="1018" alt="Five steps in making news: gatekeeping, news values, practical factors such as deadlines and press releases, framing, and agenda setting, which shapes the issues the public thinks about." loading="lazy">
+  <figcaption>Each stage filters and shapes what reaches the audience as news.</figcaption>
+</figure>
 
 ## Quick self-test
 

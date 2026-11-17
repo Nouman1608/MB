@@ -65,6 +65,11 @@ Use them with the [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) an
 | Relative mobility | The chances of people from different origins reaching the same position |
 | Elite self-recruitment | Top positions filled from the same privileged group |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-stratification-and-differentiation--05-measuring-class.webp" width="900" height="623" alt="Three ways of measuring class: the Registrar General’s scale, NS-SEC with eight classes based on employment relations, and the Great British Class Survey’s seven classes based on three capitals. Below, the conventional household approach is compared with the individual approach." loading="lazy">
+  <figcaption>Each scale measures something different, and gender changes the picture.</figcaption>
+</figure>
+
 ## Theorists and studies at a glance
 
 | Who | What | Finding or claim | One evaluation point |
@@ -89,6 +94,16 @@ Use them with the [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) an
 | Saunders (1996) | Meritocracy | Ability and effort explain much mobility | Breen and Goldthorpe (1999): less advantaged children need more merit to reach the same place |
 | Blanden, Gregg and Machin (2005) | Income mobility | Fell between the 1958 and 1970 birth cohorts | Income is only one measure |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-stratification-and-differentiation--02-class-theories.webp" width="900" height="588" alt="A grid comparing functionalist, Marxist and Weberian theories of class: what class is based on, each theory’s key claim, and the main challenge to or development of it." loading="lazy">
+  <figcaption>Functionalists see class as functional; Marxists as exploitation; Weberians as market position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-stratification-and-differentiation--03-walby-patriarchy.webp" width="900" height="539" alt="Walby’s six structures of patriarchy: paid work, the household, the state, violence, sexuality and culture, with a shift from private patriarchy in the home to public patriarchy in work and the state. Hakim’s preference theory offers a contrasting view." loading="lazy">
+  <figcaption>Walby sees patriarchy moving from the home into work and the state.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Class vs status.** Class is economic position; status is social honour. A lottery winner may gain class position without status.
@@ -100,6 +115,16 @@ Use them with the [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) an
 - **Intergenerational vs intragenerational.** Compared with parents vs within one career.
 - **Embourgeoisement vs proletarianisation.** Workers moving up vs white-collar workers moving down.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-stratification-and-differentiation--04-weber-life-chances.webp" width="900" height="622" alt="Class, status and power each feed into life chances: the opportunities to gain good health, education, housing, income and long life. Disability shows status barriers at work." loading="lazy">
+  <figcaption>Life chances depend on status and power as well as economic class.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-stratification-and-differentiation--07-social-mobility.webp" width="900" height="659" alt="Three pairs of mobility terms: intergenerational and intragenerational, absolute and relative, short-range and long-range. A timeline of studies runs from Glass (1954) and the Oxford Mobility Study (1972) to Saunders (1996), Breen and Goldthorpe (1999) and Blanden, Gregg and Machin (2005)." loading="lazy">
+  <figcaption>Absolute mobility rose, but relative chances stayed unequal.</figcaption>
+</figure>
+
 ## Mini essay plan
 
 *Question type: "Evaluate the view that social class is no longer the most important source of inequality in the UK."*
@@ -110,6 +135,11 @@ Use them with the [AQA A-level Sociology hub](/boards/aqa/a-level/sociology/) an
 4. **Globalisation.** Sklair's TCC suggests class power has grown, not faded. Standing's precariat shows new class insecurity.
 5. **Intersection.** Class, gender, ethnicity and age interact; Weber's three dimensions explain this.
 6. **Conclusion.** Reach a judgement that follows from your evidence. One possible line: class remains important, but it works together with other sources of inequality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-stratification-and-differentiation--06-changing-class.webp" width="900" height="671" alt="Six views of how class has changed: embourgeoisement, proletarianisation, the underclass, the precariat, the death of class, and Sklair’s transnational capitalist class, each with its evidence or criticism." loading="lazy">
+  <figcaption>Sociologists disagree on whether class is fading, splitting or going global.</figcaption>
+</figure>
 
 ## Quick self-test
 

@@ -86,6 +86,21 @@ They cover sections 6.1 (Intelligence and educational attainment) and 6.2 (Socia
 | Jensen (1969) | Hereditarian | About 80% of IQ variation genetic; Head Start failed | Heritability within a group cannot explain group differences |
 | Herrnstein and Murray (1994) | *The Bell Curve* | IQ predicts outcomes better than parental status | Highly controversial; ignores class effects on scores |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--01-defining-intelligence.webp" width="900" height="643" alt="Three ideas of intelligence: Spearman’s single general factor g underlying different tests; Gardner’s multiple intelligences such as linguistic, logical-mathematical, musical and spatial, only some of which schools reward; and Sternberg’s triarchic theory of analytical, creative and practical intelligence. Gould calls IQ and g reifications." loading="lazy">
+  <figcaption>Psychologists disagree on what intelligence is, so tests measure one chosen version.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--02-iq-social-factors.webp" width="900" height="511" alt="Six cards: cultural bias in early eleven-plus questions, language, test-wiseness from practice and coaching, the Flynn effect of rising scores, Kamin’s and Hearnshaw’s challenge to Burt’s twin studies, and the limits of culture-fair tests." loading="lazy">
+  <figcaption>IQ scores reflect culture, language, practice and environment, not just ability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--03-circular-argument.webp" width="900" height="732" alt="A loop: IQ tests are judged valid because they predict school success, and are then used to explain school success, while class shapes both. Below, the hereditarian claims of Jensen and of Herrnstein and Murray, and critics’ replies." loading="lazy">
+  <figcaption>Using IQ to explain school success can be circular when class shapes both.</figcaption>
+</figure>
+
 ### 6.2 Social class
 
 | Who | What | Finding or claim | One evaluation point |
@@ -112,6 +127,21 @@ They cover sections 6.1 (Intelligence and educational attainment) and 6.2 (Socia
 | Plowden Report (1967) | England | Positive discrimination for deprived areas | Assumes cultural deficit |
 | Sure Start (1998), Pupil Premium (2011) | UK policy | Early-years support; money per disadvantaged pupil | Small sums against wider inequality |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--04-material-factors.webp" width="900" height="511" alt="Five material factors that affect attainment: housing, diet and health, hidden costs of schooling, paid work and school choice. A sixth card notes that many poor children succeed and that material and cultural factors overlap." loading="lazy">
+  <figcaption>Learning needs space, time and resources that poverty takes away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--05-cultural-explanations.webp" width="900" height="610" alt="Top: Bernstein’s restricted code is short and context-bound, while the elaborated code is explicit and used by schools; he denied the restricted code was inferior. Below: cultural deprivation says the home lacks something (Douglas, Hyman, Sugarman, with Keddie’s criticism); cultural capital says the school rewards one class’s culture (Bourdieu, Lareau, Sullivan)." loading="lazy">
+  <figcaption>Cultural deprivation blames the home; cultural capital points at what the school rewards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--06-labelling.webp" width="900" height="1011" alt="Five steps: a teacher judges pupils against a middle-class ideal pupil, labels and places them in bands or sets, treats them differently, pupils respond by forming subcultures, and the pupil comes to fit the label. Pupils can reject labels." loading="lazy">
+  <figcaption>Labels can turn into outcomes, but pupils can resist them.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Intelligence vs IQ.** IQ is a test score. Intelligence is the idea the score tries to measure.
@@ -122,6 +152,11 @@ They cover sections 6.1 (Intelligence and educational attainment) and 6.2 (Socia
 - **Home factors vs in-school factors.** Outside the school gate vs labelling, grouping and subcultures inside it.
 - **Streaming vs setting.** Streaming groups pupils for all subjects; setting groups them subject by subject.
 - **Short-term vs long-term success.** Compensatory programmes may raise later-life outcomes but not test scores.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-intelligence-social-class-and-educational-attainment--07-compensatory-education.webp" width="900" height="839" alt="A timeline of compensatory programmes: Perry Preschool (1962 to 1967), Head Start (1965), the Plowden Report (1967), Sure Start and Education Action Zones (1998) and the Pupil Premium (2011). Bars show 67% of the Perry pre-school group graduated high school by 19, against 49% of the control group." loading="lazy">
+  <figcaption>Compensatory programmes may show their benefits in life outcomes more than in test scores.</figcaption>
+</figure>
 
 ## Mini essay plan
 

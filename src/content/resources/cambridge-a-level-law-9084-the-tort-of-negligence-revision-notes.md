@@ -39,6 +39,11 @@ on the balance of probabilities: duty, breach, causation and damage that is not 
 - **Joint:** several defendants causing the same damage are each liable for the whole; contribution
   between them under the Civil Liability (Contribution) Act 1978.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-the-tort-of-negligence--01-who-is-liable.webp" width="900" height="554" alt="Three kinds of liability. Personal: the defendant answers for their own negligence. Vicarious, in outline: an employer is liable for an employee’s tort where the relationship is employment or akin to it (Various Claimants) and the tort is closely connected with the job (Lister; Mohamud). Joint: two or more defendants causing the same damage are each liable for the whole, with contribution under the 1978 Act." loading="lazy">
+  <figcaption>One wrongdoer, an employer standing behind one, or several sharing the same damage.</figcaption>
+</figure>
+
 ## 4.1.2 Duty of care
 
 | Stage | Authority | Point |
@@ -51,6 +56,11 @@ on the balance of probabilities: duty, breach, causation and damage that is not 
 
 **Policy reasons to deny a duty:** floodgates; defensive practices and resources (Hill v Chief
 Constable of West Yorkshire, 1989); battlefield conditions (Mulcahy v MoD, 1996).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-the-tort-of-negligence--02-duty-of-care.webp" width="900" height="838" alt="Duty starts with the neighbour principle in Donoghue v Stevenson (Bourhill v Young: not a foreseeable victim). Following Robinson, an established category is simply applied; a genuinely new duty is tested by Caparo’s three stages: foreseeability, proximity, and fair, just and reasonable. Policy at stage three includes floodgates, defensive practices (Hill) and combat (Mulcahy)." loading="lazy">
+  <figcaption>Established categories apply directly; Caparo is for genuinely new duties.</figcaption>
+</figure>
 
 ## 4.1.3 Breach of duty
 
@@ -68,6 +78,16 @@ Constable of West Yorkshire, 1989); battlefield conditions (Mulcahy v MoD, 1996)
 1951); cost and practicality of precautions (Latimer v AEC, 1953); social utility (Watt v
 Hertfordshire CC, 1954); state of knowledge at the time (Roe v Minister of Health, 1954).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-the-tort-of-negligence--03-standard-of-care.webp" width="900" height="624" alt="A table of the objective standard for each class of defendant: children (Mullin v Richards), learners (Nettleship v Weston), amateurs (Wells v Cooper), experts (Philips v William Whiteley) and professionals (Bolam, Bolitho, Roe v Minister of Health)." loading="lazy">
+  <figcaption>Same objective test, but the reasonable person is matched to the defendant’s class.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort-cases-defences-and-remedies-study-guide--07-breach-factors.webp" width="900" height="740" alt="A balance scale with two sides. Left, risk of harm: probability of harm (Bolton v Stone 1951) and seriousness of harm (Paris v Stepney Borough Council 1951). Right, cost and benefit: cost of precautions (Latimer v AEC 1953) and social utility (Watt v Hertfordshire County Council 1954). Low risk may need few precautions; vulnerable claimants need more care; impractical measures are not required; emergency purposes can justify risk." loading="lazy">
+  <figcaption>Breach is a balance of risk (probability, seriousness) against cost of precautions and social utility.</figcaption>
+</figure>
+
 ## 4.1.4 Causation and remoteness
 
 - **But for:** Barnett v Chelsea and Kensington Hospital (1969).
@@ -78,6 +98,11 @@ Hertfordshire CC, 1954); state of knowledge at the time (Roe v Minister of Healt
 - **Remoteness:** kind of damage reasonably foreseeable, The Wagon Mound (No 1) (1961). Manner need not
   be foreseen, Hughes v Lord Advocate (1963); different kind too remote, Doughty v Turner (1964).
 - **Thin skull rule:** Smith v Leech Brain (1962).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-the-tort-of-negligence--04-causation-remoteness.webp" width="900" height="670" alt="Factual causation by the but for test, with multiple causes (Wilsher; Bonnington Castings) and the Fairchild exception. Then intervening acts that break the chain: a third party (Knightley v Johns), the claimant (McKew v Holland) or a natural event. Finally remoteness: the kind of damage must be foreseeable (Wagon Mound), though not the manner (Hughes); a different kind is too remote (Doughty); the thin skull rule applies (Smith v Leech Brain)." loading="lazy">
+  <figcaption>But for, then no intervening act, then a foreseeable kind of damage.</figcaption>
+</figure>
 
 ## 4.1.5 Novel duty situations
 
@@ -99,6 +124,16 @@ investors. Chaudhry v Prabhakar (1989): friend liable. Smith v Eric S Bush (1990
 
 **Reform:** Law Commission report (1998) recommended removing proximity in time and space and the
 own-senses requirement for those with a close tie; not enacted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-the-tort-of-negligence--05-economic-loss.webp" width="900" height="562" alt="The general rule bars pure economic loss (Spartan Steel; Murphy). The exception is negligent misstatement under Hedley Byrne v Heller, which needs special skill, knowledge that the claimant will rely, and reasonable reliance. Caparo found no duty to investors generally; Chaudhry v Prabhakar and Smith v Eric S Bush found a duty." loading="lazy">
+  <figcaption>Economic loss is recoverable mainly through a special relationship of reliance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-the-tort-of-negligence--06-nervous-shock.webp" width="900" height="643" alt="Primary victims, within the range of physical injury, recover for psychiatric illness (Page v Smith). Secondary victims must pass the three Alcock controls: a close tie, proximity in time and space including the immediate aftermath (McLoughlin v O’Brian), and their own unaided senses; the Law Commission would keep only the close tie. White and Paul show rescuers and relatives in medical cases get no special treatment." loading="lazy">
+  <figcaption>Primary victims need foreseeable physical danger; secondary victims face three controls.</figcaption>
+</figure>
 
 ## Key terms
 

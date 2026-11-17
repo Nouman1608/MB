@@ -1,0 +1,25 @@
+{
+ "page": "cambridge-a-level-computer-science-artificial-intelligence-ai-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--02-ai-dijkstra-table.webp",
+   "after": "## Dijkstra versus A*"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--03-ai-astar-f-score.webp",
+   "after": "## Dijkstra versus A*"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--05-ai-neuron.webp",
+   "after": "## How have neural networks helped machine learning?"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--04-ai-learning-types.webp",
+   "after": "## Types of machine learning and when to use them"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--06-ai-backpropagation.webp",
+   "after": "## Back-propagation in five steps"
+  }
+ ]
+}

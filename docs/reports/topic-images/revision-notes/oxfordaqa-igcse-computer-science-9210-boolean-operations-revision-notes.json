@@ -1,0 +1,8 @@
+{ "page": "oxfordaqa-igcse-computer-science-9210-boolean-operations-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-boolean-operations--01-and-or-not-truth-table.webp", "after": "## Truth table"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-boolean-operations--02-and-versus-or.webp", "after": "## Patterns worth memorising"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-boolean-operations--04-range-checks.webp", "after": "## Patterns worth memorising"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-boolean-operations--06-order-of-evaluation.webp", "after": "## Order of evaluation"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-boolean-operations--03-compound-loop-conditions.webp", "after": "## Loops with compound conditions"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-boolean-operations--07-cinema-condition-table.webp", "after": "## Evaluating step by step"}
+] }

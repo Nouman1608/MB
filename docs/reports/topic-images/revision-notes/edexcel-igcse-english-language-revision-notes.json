@@ -1,0 +1,8 @@
+{ "page": "edexcel-igcse-english-language-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-edexcel-english-language-component-1--09-section-a-two-texts.webp", "after": "## Reading non-fiction" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-non-fiction-texts--03-ao2-non-fiction-devices.webp", "after": "## Features worth commenting on" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-non-fiction-texts--05-ao3-perspectives.webp", "after": "## Comparison questions" },
+ { "src": "https://img.marlbridge.com/igcse-edexcel-english-language-component-1--10-section-b-match.webp", "after": "## Transactional writing" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-b-transactional-writing--03-six-forms.webp", "after": "## Transactional writing" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-b-transactional-writing--06-ao5-under-pressure.webp", "after": "## Technical accuracy" }
+] }

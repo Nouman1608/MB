@@ -58,6 +58,11 @@ Hawthorne/observer effect, validity, reliability, representativeness, generalisa
 | **Hawthorne effect** | Behaviour changes because people know they are studied |
 | **Generalisability** | Applying findings to the wider population |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-approaches-and-data--01-positivist-scientific-method.webp" width="900" height="546" alt="Four steps of the scientific method used by positivists: form a hypothesis, collect quantitative data, look for patterns and trends, and test correlation and causation. Positivists take a macro view of social facts and value objective, reliable research, as in Townsend’s 1979 survey of poverty." loading="lazy">
+  <figcaption>Positivists copy the natural sciences: hypothesis, numbers, patterns, causes.</figcaption>
+</figure>
+
 ## The two approaches compared
 
 | Question | Positivist answer | Interpretivist answer |
@@ -72,12 +77,27 @@ Hawthorne/observer effect, validity, reliability, representativeness, generalisa
 **Criticisms in brief:** positivism can impose the researcher's categories and miss meaning;
 interpretivism uses small samples that are hard to repeat or generalise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-approaches-and-data--02-positivism-vs-interpretivism.webp" width="900" height="594" alt="Positivism and interpretivism compared on view, focus, data, aim and example. Positivism is macro, seeks patterns and causes with quantitative data and values objectivity and reliability, as in Townsend’s survey. Interpretivism is micro, seeks meanings with qualitative data and values validity and verstehen, as in Goffman’s Asylums." loading="lazy">
+  <figcaption>Positivists seek reliable patterns; interpretivists seek valid meanings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-1-1--04-two-readings-of-suicide.webp" width="900" height="533" alt="Left: Durkheim used official suicide statistics, found stable rates with Protestant areas higher than Catholic ones, and explained this by social integration. Right: Atkinson argued a death only becomes a suicide statistic after a coroner interprets clues such as a note, the method and recent history, so the figures record decisions." loading="lazy">
+  <figcaption>Positivists treat statistics as facts to explain; interpretivists ask how the statistics were made.</figcaption>
+</figure>
+
 ## Combining approaches
 
 - **Triangulation:** Barker (1984) used observation, interviews and questionnaires to study members
   of a new religious movement — each method checked the others.
 - **Longitudinal:** the *Young Lives* study (from 2002) follows children in four countries to see how
   poverty shapes their lives. Problem: attrition (people dropping out) and high cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-approaches-and-data--03-triangulation-longitudinal.webp" width="900" height="540" alt="Left: triangulation, with participant observation, in-depth interviews and questionnaires all pointing at one question, as in Barker’s 1984 study of why people joined the Unification Church. Right: a longitudinal study following the same people over time, as in Young Lives from 2002; it shows change but is costly and some participants drop out." loading="lazy">
+  <figcaption>Triangulation cross-checks with several methods; longitudinal studies follow people over time.</figcaption>
+</figure>
 
 ## Evaluating research — exam checklist
 
@@ -88,6 +108,11 @@ When a question asks you to explain problems with research, check:
 3. **Truthfulness** — could people lie, forget or exaggerate? (validity)
 4. **Researcher** — could their presence or values affect results? (bias, interviewer effect,
    Hawthorne effect)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-approaches-and-data--04-judging-research.webp" width="900" height="568" alt="Seven concepts grouped by what they check. The researcher: bias and interviewer effect. The people studied: the Hawthorne or observer effect and validity. The results: reliability. The sample: representativeness and generalisability." loading="lazy">
+  <figcaption>Ask about the researcher, the people studied, the results and the sample.</figcaption>
+</figure>
 
 ## Worked example: a 4-mark "explain" answer
 
@@ -112,6 +137,11 @@ When a question asks you to explain problems with research, check:
    observation and interviews.
 4. **Conclusion:** usefulness depends on the research aim; the strongest research often combines
    both types.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-approaches-and-data--05-types-of-data.webp" width="900" height="705" alt="A two-by-two grid. Primary quantitative: Townsend’s household survey. Primary qualitative: Goffman’s fieldwork in Asylums. Secondary quantitative: official statistics such as Pakistan’s 2023 census. Secondary qualitative: personal documents such as diaries and letters. Below, the main strengths and limitations of primary and secondary data." loading="lazy">
+  <figcaption>Any piece of data is primary or secondary, and quantitative or qualitative.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

@@ -36,6 +36,11 @@ annotated response to an original passage, is in the
 | Evaluating writers' choices | Analyse and evaluate how language, structure, form and presentation contribute to quality and impact, with terminology | AO2 |
 | Comparing texts | Compare theme, characterisation, context (where known), style and literary quality | AO1, AO2, AO3 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--01-reading-skills-map.webp" width="900" height="714" alt="Four cards show the reading skill groups: literal and inferential comprehension, critical reading, evaluating a writer’s choices, and comparing texts. Below, AO1 is linked mostly to comprehension and personal response, AO2 to analysis and evaluation of methods, and AO3 to context-informed evaluation." loading="lazy">
+  <figcaption>Four groups of reading skills sit behind every question; each feeds the assessment objectives.</figcaption>
+</figure>
+
 ## Core recall
 
 - **Explicit** = stated. **Implied** = suggested by details. Inference must always be traceable to
@@ -47,6 +52,11 @@ annotated response to an original passage, is in the
   theme stated as an idea.
 - **Evaluation** judges effectiveness and impact, not just effect.
 - **Personal response** must be informed by analysis, not taste.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--02-words-in-context.webp" width="900" height="670" alt="The word cold branches into three meanings: the weather, a character’s manner and a dead body, with three questions to ask about any word. Below, explicit meaning (stated directly) leads to implied meaning (inferred from details), with a test: can you point to the words that support the inference?" loading="lazy">
+  <figcaption>Pin down what a word means here, then infer only what the words can support.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -79,6 +89,11 @@ Original sentence: *"He laughed at the joke a moment after everyone else."*
 Notice that the inference offers more than one possibility. The rest of the text decides which is
 most convincing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--03-inference-ladder.webp" width="900" height="674" alt="Four rising steps applied to one sentence. Detail: two places are set and one is cleared. Literal meaning: she expected someone, then remembered they would not come. Inference: habit and grief. Significance: loss is shown through routine. Weak answers stop at step 2; strong answers reach step 4 while staying anchored in step 1." loading="lazy">
+  <figcaption>Climb from detail to significance, and keep every step tied to the words.</figcaption>
+</figure>
+
 ## Comparing texts: a checklist
 
 - **Theme**: what idea do both explore, and do they reach the same view?
@@ -95,12 +110,22 @@ most convincing.
 | Some readers may see... | Others might argue... | This reading is more convincing because... |
 | On the surface... | Beneath this... | Ultimately, the writer seems to... |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--04-weighing-readings.webp" width="900" height="658" alt="Three numbered steps: state a reading (her silence as weakness), offer an alternative (her silence as resistance), and weigh them (the ending supports the second reading). Below, recognising readings is credited, but evaluating them moves an answer higher." loading="lazy">
+  <figcaption>Offering two readings is not enough: weigh them and decide.</figcaption>
+</figure>
+
 ## Evaluation prompts
 
 - Why is this choice effective at this point?
 - What would be lost if the writer had chosen differently?
 - How does this choice work with others nearby?
 - Which choice in the passage has the greatest impact, and why?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--05-analysis-to-evaluation.webp" width="900" height="686" alt="Analysis asks what a choice does; evaluation asks how well it does it and why it matters, with three questions: why it is effective here, whether it is more powerful than an alternative, and whether it works with other choices. Below, three grammatical features: a passive verb can hide responsibility, a list can overwhelm and a short sentence can shock." loading="lazy">
+  <figcaption>Analysis explains an effect; evaluation judges its quality and impact.</figcaption>
+</figure>
 
 ## Exam traps
 

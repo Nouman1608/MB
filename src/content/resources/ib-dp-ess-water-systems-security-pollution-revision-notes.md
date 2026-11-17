@@ -62,6 +62,11 @@ Useful links: [IB DP ESS course hub](/boards/ib/ib-dp/environmental-systems-and-
 - **Eutrophication**: nutrient enrichment of water leading to algal blooms, oxygen depletion and loss of life.
 - **Bioaccumulation / biomagnification**: build-up of a persistent pollutant within one organism / rising concentration at each higher trophic level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--01-hydrological-cycle.webp" width="900" height="770" alt="Cross-section from a glaciated mountain to the ocean. Storages: oceans (about 97% of water, salt), ice caps and glaciers (most freshwater), groundwater (the largest liquid freshwater store), soil, rivers and the atmosphere. Transformations such as evaporation, condensation, transpiration and melting are shown in red; transfers such as advection, interception, runoff, infiltration, throughflow, percolation, groundwater flow and river flow in green." loading="lazy">
+  <figcaption>Transformations change the state of water; transfers only move it.</figcaption>
+</figure>
+
 ## Calculations table
 
 | Quantity | Method | Units |
@@ -76,6 +81,11 @@ Useful links: [IB DP ESS course hub](/boards/ib/ib-dp/environmental-systems-and-
 Remember: 1 km³ = 10⁹ m³.
 
 Availability thresholds: 1,700 m³ or more, no stress; 1,000 to 1,699, stress; 500 to 999, scarcity; below 500, absolute scarcity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--03-water-per-person.webp" width="900" height="675" alt="A scale of renewable freshwater per person: below 500 cubic metres a year is absolute scarcity, 500 to 999 water scarcity, 1000 to 1699 water stress and 1700 or more no stress. Fictional Veloria has 42 cubic kilometres for 24 million people (1750, no stress) now, but 1400 (water stress) for 30 million in 2040." loading="lazy">
+  <figcaption>Population growth alone moves Veloria from no stress into water stress.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -97,11 +107,31 @@ Availability thresholds: 1,700 m³ or more, no stress; 1,000 to 1,699, stress; 5
 > **Describing a river pollution profile**
 > Quote the upstream (control) value, the lowest value and its distance, and the distance where values return to normal. Then explain using BOD.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--04-catch-per-unit-effort.webp" width="900" height="690" alt="Three bar pairs for a fictional fishery in 2016 and 2024. Catch fell only slightly, from 48 000 to 45 000 t (−6.25%), while effort rose from 12 000 to 18 000 boat-days. Catch per unit effort fell from 4.0 to 2.5 t per boat-day (−37.5%), so the stock is very likely shrinking." loading="lazy">
+  <figcaption>Rising effort can hide a shrinking stock: judge a fishery by CPUE, not total catch.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--06-eutrophication-loop.webp" width="900" height="755" alt="Five steps: nitrates and phosphates enter the water; an algal bloom grows; plants below are shaded and die; decomposers use up dissolved oxygen; fish and invertebrates die and their decay releases more nutrients, which feeds the bloom again in a positive feedback loop." loading="lazy">
+  <figcaption>Decay releases more nutrients, so eutrophication feeds itself.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--05-sewage-outfall-oxygen.webp" width="900" height="690" alt="Schematic graph along a river below a sewage outfall. BOD rises sharply below the outfall while dissolved oxygen falls as bacteria break down organic matter; further downstream BOD falls and oxygen recovers. Indicator species: stonefly and mayfly larvae in clean water, sludge worms in the low-oxygen zone." loading="lazy">
+  <figcaption>Organic pollution raises BOD and drains oxygen until it is broken down.</figcaption>
+</figure>
+
 ## Small worked reminders
 
 **Residence time.** An aquifer holds 150 km³ and is recharged at 0.5 km³ per year. Residence time = 150 ÷ 0.5 = 300 years. Pumping it faster than 0.5 km³ per year mines it like a non-renewable resource.
 
 **Biomagnification.** A metal rises from 0.2 ppm in small fish to 5.0 ppm in a predatory fish. Factor = 5.0 ÷ 0.2 = 25.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--07-biomagnification.webp" width="900" height="690" alt="Pesticide concentration in a fictional estuary food chain on a log scale: 0.04 ppm in zooplankton, 0.3 ppm in small fish, 2.4 ppm in large fish and 18 ppm in fish-eating birds, 450 times the zooplankton level." loading="lazy">
+  <figcaption>Persistent pollutants concentrate at each trophic level, so top predators get the highest dose.</figcaption>
+</figure>
 
 ## Human impacts on the water cycle
 
@@ -112,6 +142,11 @@ Availability thresholds: 1,700 m³ or more, no stress; 1,000 to 1,699, stress; 5
 | Irrigation | Water moved from rivers and aquifers to fields | More evaporation; falling water tables |
 | Dams | Water held back in reservoirs | More evaporation; reduced, steadier flow downstream |
 | Aquifer pumping | Abstraction faster than recharge | Falling water table; saltwater intrusion near coasts |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--02-urban-hydrograph.webp" width="900" height="690" alt="Schematic flood hydrograph after a rainstorm. The urban river peaks sooner and higher than the rural one: impermeable surfaces cut infiltration, so more fast runoff reaches the river, shortening lag time and raising peak discharge and flood risk." loading="lazy">
+  <figcaption>Urban surfaces shorten lag time and raise peak discharge.</figcaption>
+</figure>
 
 ## Managing fisheries: strengths and limits
 

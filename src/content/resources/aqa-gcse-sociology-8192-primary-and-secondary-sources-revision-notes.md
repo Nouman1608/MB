@@ -34,6 +34,11 @@ These notes cover the "primary and secondary sources" row of section 3.7 in the 
 
 **Primary** = collected first-hand by the researcher for this study. **Secondary** = already exists, produced by someone else, usually for another purpose. The test is *who collected it and why*.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-primary-and-secondary-sources--01-who-collected.webp" width="900" height="621" alt="The same interview transcript is primary data for the researcher who carried out the interview, and secondary data for another researcher who reads it later. Below, definitions of primary and secondary data and the test: who collected the data and why." loading="lazy">
+  <figcaption>The same data can be primary for one researcher and secondary for another.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -61,6 +66,11 @@ These notes cover the "primary and secondary sources" row of section 3.7 in the 
 | Ethics | Researcher must manage consent, confidentiality, harm | Fewer issues, but personal documents still raise privacy concerns |
 | Examples | Questionnaires, interviews, observation | Statistics, earlier studies, documents, media |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-primary-and-secondary-sources--02-primary-secondary-compared.webp" width="900" height="669" alt="Two panels. Primary data fit the aim, are up to date and let the researcher control the sample, but cost time and money, face access and ethical issues and cannot reach the past. Secondary data are cheap, cover large groups and the past and allow comparison, but were collected for another purpose and may use different definitions or be biased." loading="lazy">
+  <figcaption>Primary data fit the aim; secondary data reach further, but were made for someone else.</figcaption>
+</figure>
+
 ## Judging a document: four questions
 
 1. **Genuine?** Is it what it claims to be?
@@ -70,12 +80,22 @@ These notes cover the "primary and secondary sources" row of section 3.7 in the 
 
 **Memory hook:** *Get Better Through Checking.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-primary-and-secondary-sources--03-judging-documents.webp" width="900" height="543" alt="Four numbered questions for judging a document: is it genuine, is it believable, is it typical, and is its meaning clear? Below, a school behaviour policy is genuine and clear but may show how the school wants to be seen rather than what happens in classrooms." loading="lazy">
+  <figcaption>Always ask whether a document is genuine, believable, typical and clear.</figcaption>
+</figure>
+
 ## Content analysis
 
 - **Quantitative:** count occurrences using a coding sheet (how often women appear as experts on news programmes).
 - **Qualitative:** interpret meanings and messages (how headlines describe young people).
 - **Strengths:** easy access; coding sheet can be reused, so fairly reliable; shows patterns of representation.
 - **Limitations:** coding involves judgement; shows content, not how audiences interpret it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-primary-and-secondary-sources--04-content-analysis.webp" width="900" height="796" alt="Left: quantitative content analysis counts how often something appears using a coding sheet, such as men and women doing housework in adverts. Right: qualitative content analysis examines meanings, such as how news reports describe young people. Below, strengths and limitations, and a note that it turns secondary material into new primary findings." loading="lazy">
+  <figcaption>Content analysis turns secondary material into the researcher’s own findings.</figcaption>
+</figure>
 
 ## Named examples
 
@@ -93,6 +113,11 @@ These notes cover the "primary and secondary sources" row of section 3.7 in the 
 | How schools describe discipline | School behaviour policies | Observation of lessons |
 | Class and university entry | Official entry figures | Questionnaires to sixth-form students |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-primary-and-secondary-sources--05-combining-sources.webp" width="900" height="464" alt="A chain: secondary sources show what is known and help design the study, primary research fills the gap, and comparing the two gives triangulation. Example: official exclusion figures show which groups are most affected, then interviews with excluded pupils and parents explain why." loading="lazy">
+  <figcaption>Most studies start with secondary sources and use primary research to fill the gap.</figcaption>
+</figure>
+
 ## Mini plan for an extended answer
 
 *"Discuss how far secondary sources are useful for studying changes in family life."*
@@ -105,6 +130,11 @@ These notes cover the "primary and secondary sources" row of section 3.7 in the 
 6. Against: documents may not be typical or believable.
 7. Primary alternative: interviews with older people about their own family life.
 8. Judgement: essential for studying the past, but best combined with primary research.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-primary-and-secondary-sources--06-worked-example.webp" width="900" height="569" alt="A fifty-year timeline. Secondary sources, such as Young and Willmott’s survey and official employment statistics, cover the past, which primary research cannot reach. Interviews with fathers today cover the present. A note warns that earlier studies used different definitions, so comparisons may not be exact." loading="lazy">
+  <figcaption>Use secondary sources for the past and primary research for the present, then compare with care.</figcaption>
+</figure>
 
 ## Exam traps
 

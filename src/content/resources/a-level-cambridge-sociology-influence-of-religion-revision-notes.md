@@ -72,6 +72,21 @@ Bainbridge, 1985) — the USA stays religious; existential security (Norris and 
 global religiosity rising; deprivatisation (Casanova, 1994); Berger's later desecularisation view
 (1999); growth of NRMs, New Age, Pentecostalism; a past "golden age" may be a myth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--01-secularisation-thesis.webp" width="900" height="701" alt="Industrialisation, urbanisation, science and education lead to religious thinking, practice and institutions losing social significance. Five kinds of evidence for decline: practice, belief, institutions, generational decline and disengagement of religion from society." loading="lazy">
+  <figcaption>Secularisation theory links modernisation to religion’s loss of social significance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--02-rationalisation.webp" width="900" height="412" alt="Left: Weber’s disenchantment, Berger’s loss of the sacred canopy and Bruce’s point about technology argue rationalisation weakens religion. Right: Berger’s later desecularisation view, the coexistence of science and religion, and continuing interest in spirituality." loading="lazy">
+  <figcaption>Even Berger changed his mind: rationalisation has not removed religion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--03-not-secularised.webp" width="900" height="611" alt="Four arguments against secularisation: Davie’s believing without belonging, Stark and Bainbridge’s religious market theory, Norris and Inglehart’s existential security, and Casanova’s deprivatisation of religion. A note warns that definitions and data shape conclusions." loading="lazy">
+  <figcaption>Belief, competition, insecurity and politics all keep religion significant.</figcaption>
+</figure>
+
 ## 12.2 Gender and religion
 
 | Issue | Evidence |
@@ -81,6 +96,16 @@ global religiosity rising; deprivatisation (Casanova, 1994); Berger's later dese
 | Historical change | Armstrong (1993) — earlier female deities |
 | Moves to equality | Church of England women priests (1994), first woman bishop (2015); women rabbis in Reform Judaism |
 | Benefits to women | Watson (1994) — veiling as choice; Woodhead — religious forms of feminism; community and support |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--04-feminism-religion.webp" width="900" height="597" alt="Six explanations of gender inequality in religion: male leadership, sacred texts written by men, ideas of female impurity, religious laws on marriage, divorce and dress, Armstrong’s history of female deities, and de Beauvoir’s false compensation. Radical feminists, liberal feminists and El Saadawi differ on whether religion itself is the problem." loading="lazy">
+  <figcaption>Feminists locate patriarchy in leaders, texts, rules and interpretation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--05-towards-equality.webp" width="900" height="559" alt="Left: the Church of England ordained its first women priests in 1994 and its first woman bishop in 2015; Reform Judaism has women rabbis and many NRMs have female leaders. Right: Watson’s study of veiling, community and support, and Woodhead’s religious forms of feminism. Change is uneven." loading="lazy">
+  <figcaption>Religious organisations are changing unevenly, and some women use religion for their own ends.</figcaption>
+</figure>
 
 ## 12.3 Post-modernity
 
@@ -93,6 +118,16 @@ global religiosity rising; deprivatisation (Casanova, 1994); Berger's later dese
 - **Fundamentalism explanations:** cultural defence (Bruce, 1996); cultural transition;
   disengagement; marginality (theodicy of disprivilege); religious revival. Giddens (1999):
   reaction to globalisation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--06-decline-change-revival.webp" width="900" height="689" alt="From congregational religion, three paths: decline through secularisation, a change of form through privatised religion and spiritual shopping, or revival through resacralisation. The Kendal Project found holistic spirituality growing but not replacing congregational religion." loading="lazy">
+  <figcaption>Post-modern theorists argue religion is changing form, not simply disappearing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-influence-of-religion--07-wallis-nrms.webp" width="900" height="624" alt="Wallis classified new religious movements on a line from world-rejecting (separating from society) through world-accommodating (enriching religious life) to world-affirming (offering techniques for success). Their growth may reflect relative deprivation, rapid social change or a search for meaning; New Age beliefs focus on the self and wellbeing." loading="lazy">
+  <figcaption>NRMs differ in how they relate to the wider world.</figcaption>
+</figure>
 
 ## Worked essay plan
 

@@ -45,6 +45,11 @@ graded Pass, Merit or Distinction against AO3 (SL1–SL3). For the full skills g
 | Audience | One person or more |
 | Assessment | Teacher assessed, moderated by the board |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-speaking-and-listening-optional-endorsement-study-guide--01-endorsement-separate.webp" width="900" height="620" alt="A diagram with two separate routes. Written papers lead to the IGCSE grade. The optional speaking and listening endorsement leads to a separate statement and gives no marks towards the grade." loading="lazy">
+  <figcaption>Speaking and listening is optional and is reported separately, not as part of the grade.</figcaption>
+</figure>
+
 ## AO3: Speaking and Listening strands
 
 | Strand | Wording |
@@ -52,6 +57,16 @@ graded Pass, Merit or Distinction against AO3 (SL1–SL3). For the full skills g
 | SL1 | Communicate clearly and purposefully; structure and sustain talk, and use a variety of techniques as appropriate |
 | SL2 | Prepare and develop ideas and concepts; listen and respond to questions about these |
 | SL3 | Interact with others, shaping meanings through comments, responses to questions and drawing ideas together |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-speaking-and-listening-optional-endorsement-study-guide--02-speak-with-purpose.webp" width="900" height="1090" alt="A speaker faces three audience members. Four purposes are listed: inform, explain, persuade and entertain. A three-part structure follows: open, develop two or three points with reasons or examples, and sum up. Four delivery tips are shown: measured pace, pause, project your voice and look at listeners." loading="lazy">
+  <figcaption>Decide the purpose and audience first, then open, develop two or three points, and sum up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-speaking-and-listening-optional-endorsement-study-guide--03-active-listening.webp" width="900" height="910" alt="A listener in the middle of a ring of five actions: attend and do not interrupt, notice the main point and its evidence, tell fact from opinion, remember key details, and show you are listening with eye contact and nodding. Below, a sentence frame reads: You mentioned that, but I would add that." loading="lazy">
+  <figcaption>Active listening has five parts, and a good reply refers back to what the speaker said.</figcaption>
+</figure>
 
 ## The five principles behind the criteria
 
@@ -64,6 +79,11 @@ The specification says the criteria rest on:
 5. the need to use **spoken English effectively** (vocabulary and formality suited to the talk)
 
 As an international qualification, students "will use international varieties of English".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-speaking-and-listening-optional-endorsement-study-guide--05-register-vs-accent.webp" width="900" height="850" alt="A scale from informal to formal. A friendly conversation is at the informal end, where informal language is acceptable. A presentation or interview is at the formal end, where you use complete sentences, careful grammar and no slang or fillers. Below, two boxes explain that accent is pronunciation while register is word choice and grammar, so formal register does not mean erasing your accent." loading="lazy">
+  <figcaption>Match register to the situation; accent (pronunciation) is a separate thing.</figcaption>
+</figure>
 
 ## Pass, Merit and Distinction
 

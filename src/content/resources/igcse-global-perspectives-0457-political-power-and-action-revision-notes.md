@@ -55,6 +55,11 @@ Command words printed in the syllabus: **Analyse, Describe, Evaluate, Explain, I
 | Participatory budgeting | Residents vote on how part of a public budget is spent |
 | Citizens' assembly | Randomly selected citizens discuss an issue and make recommendations |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--01-power-authority-legitimacy.webp" width="900" height="678" alt="Three narrowing cards: power is the ability to make decisions or influence others; authority is power accepted as rightful, such as through an election; legitimacy is the belief that a government or decision has a right to be obeyed. Below, four ways people take part: participation, referendums, lobbying and civil society." loading="lazy">
+  <figcaption>Power becomes authority when people accept it as rightful.</figcaption>
+</figure>
+
 ## Real examples at a glance
 
 Use these to show perspectives and courses of action. They are context, not content you will be tested on.
@@ -69,6 +74,16 @@ Use these to show perspectives and courses of action. They are context, not cont
 | Petitions, UK Parliament | National | Government response at 10,000 signatures; debate considered at 100,000 | Open and cheap, but a debate is not a decision |
 | Participatory budgeting, Porto Alegre | Local | Residents helped decide spending from 1989 | Direct power, but participants may not represent everyone |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--02-political-issues-levels.webp" width="900" height="536" alt="Three levels of political issues with real examples: globally, the veto held by the five permanent members of the UN Security Council; nationally, Australia’s compulsory voting from 1924 and Austria’s votes at 16 from 2007, with Scotland allowing 16-year-olds in some elections; locally, Porto Alegre’s participatory budgeting from 1989." loading="lazy">
+  <figcaption>Political power is contested from the UN to a city budget.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--06-political-actions.webp" width="900" height="644" alt="A table of five actions with a strength and limitation: compulsory voting in Australia, votes at 16 in Austria, citizens’ initiatives and petitions in Switzerland and the UK, participatory budgeting in Porto Alegre, and Ireland’s citizens’ assemblies. Below, five criteria to judge any action." loading="lazy">
+  <figcaption>Judge every action against the same criteria.</figcaption>
+</figure>
+
 ## Judgement words for Component 1
 
 The syllabus lists eight: **bias, claim, fact, generalisation, opinion, prediction, value, vested interest**.
@@ -79,6 +94,11 @@ The syllabus lists eight: **bias, claim, fact, generalisation, opinion, predicti
 - **Generalisation:** a claim stretched to a whole group ("young people don't care about politics").
 - **Value:** what someone believes matters (freedom, equality, order). Values explain why perspectives differ.
 - **Vested interest v bias:** a vested interest is what the author gains; bias is one-sided presentation. A vested interest makes bias more likely, but you still have to show it in the source.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--05-testing-a-claim.webp" width="900" height="702" alt="A claim that residents trust decisions more when they vote on the budget is tested by naming a method (before-and-after survey), a sample (large and random), a comparison (a similar area without participatory budgeting), a measure (the same trust question) and a limitation (other events could change trust)." loading="lazy">
+  <figcaption>A good test names method, sample, comparison, measure and limitation.</figcaption>
+</figure>
 
 ## Perspectives map: one issue, three levels
 
@@ -92,6 +112,11 @@ Issue: *should young people have more direct power over local decisions?*
 | Global | An international youth organisation | Supports wider youth participation | Its purpose is to promote young people's voice |
 
 Use a grid like this to plan any source answer or report: who, what they think, and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--03-votes-at-16.webp" width="900" height="756" alt="A balance weighs votes at 16. For: 16-year-olds can work and pay tax, and early voting may build a habit. Against: less experience, possible influence from parents or teachers, and 18 as the age for other rights. Supporters stress fairness and inclusion; opponents stress maturity and consistency. Austria’s example is testable but may not transfer." loading="lazy">
+  <figcaption>The two sides often value different things, not just read evidence differently.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -114,6 +139,16 @@ Task: *a fictional town's young people rarely vote in local elections. Assess wh
 6. **Judgement:** choose one, explain why it beats the others, and state one condition under which you would change your mind.
 
 The real exam marks extended answers with levels of response. A clear, supported judgement that weighs actions against each other reaches the top levels; a list of actions does not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--04-youth-turnout.webp" width="900" height="560" alt="Four possible causes of low youth turnout (feeling ignored, lapsed registration after moving, little teaching on voting, distrust of parties) lead to three possible consequences (parties focusing on older voters, youth priorities neglected, the elected body seeming less legitimate). Each link is a claim needing evidence; calling young people lazy is a generalisation and opinion." loading="lazy">
+  <figcaption>Every causal link is a claim to be tested, not a fact.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--07-compulsion-vs-registration.webp" width="900" height="597" alt="When sources show the main barrier is not knowing how to register, compulsory voting raises votes without necessarily raising interest and may fine students with little income, while easier registration tackles the barrier directly, is fairer, but works more slowly. Team Project actions should stay non-partisan." loading="lazy">
+  <figcaption>The best action is the one that matches the barrier the evidence identifies.</figcaption>
+</figure>
 
 ## Quick self-test
 

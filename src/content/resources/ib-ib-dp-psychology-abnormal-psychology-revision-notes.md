@@ -50,6 +50,11 @@ Related: [Abnormal psychology study guide](/resources/ib-ib-dp-psychology-abnorm
 
 Classification systems: **DSM-5** (American Psychiatric Association, 2013) and **ICD-11** (World Health Organization). Major depressive disorder in DSM-5 requires five or more symptoms over at least two weeks, including depressed mood or loss of interest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-abnormal-psychology-study-guide--01-abn-criteria.webp" width="900" height="930" alt="Four panels: a bell curve with rare ends shaded (statistical infrequency; high intelligence is rare but not a disorder), one person differing from a crowd (social norms differ by culture and time), a distressed person blocked from work, home and friends (maladaptive behaviour; some feel no distress), and a target with few people near the centre (ideal mental health; few reach it, culturally bound)." loading="lazy">
+  <figcaption>Each way of defining abnormality has a weakness.</figcaption>
+</figure>
+
 ## Diagnosis: key studies
 
 | Study | Finding | Use |
@@ -59,6 +64,11 @@ Classification systems: **DSM-5** (American Psychiatric Association, 2013) and *
 | Regier et al. (2013) | DSM-5 field trials found low inter-rater reliability for major depressive disorder (kappa about 0.28) | Reliability of modern diagnosis |
 
 Clinical biases: confirmation bias, cultural bias, gender bias, and **somatisation** in some cultures -- Kleinman (1982) found many Chinese patients diagnosed with neurasthenia met Western criteria for depression but reported physical symptoms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-abnormal-psychology-study-guide--02-abn-reliability-validity.webp" width="900" height="1060" alt="One case read by three clinicians who all reach Label X shows reliability; a label that measures a real, distinct condition shows validity; the same cases were diagnosed as schizophrenia more often in New York than London." loading="lazy">
+  <figcaption>Consistent labels are not necessarily labels for a real condition.</figcaption>
+</figure>
 
 ## Explaining depression
 
@@ -70,6 +80,16 @@ Clinical biases: confirmation bias, cultural bias, gender bias, and **somatisati
 
 **Prevalence:** women are diagnosed with depression roughly twice as often as men in many countries; explanations include biological differences, rumination, social roles and differences in help-seeking or diagnosis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-abnormal-psychology-study-guide--03-abn-diathesis-stress.webp" width="900" height="980" alt="Three stacked bars of equal stress on low, medium and high vulnerability; only the highest passes the dashed line where a disorder develops. A box repeats the Caspi and colleagues (2003) finding of a serotonin transporter gene version plus stressful life events making depression more likely." loading="lazy">
+  <figcaption>A disorder arises when vulnerability combines with stress.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-abnormal-psychology-study-guide--04-abn-cognitive-triad.webp" width="900" height="960" alt="Three linked boxes for a negative view of the self, the world and the future around negative schemas (Beck), and a chain from uncontrollable events to passivity (Seligman), noting animal studies limit generalising." loading="lazy">
+  <figcaption>Beck’s triad and Seligman’s learned helplessness.</figcaption>
+</figure>
+
 ## Treatment and effectiveness
 
 | Treatment | Evidence | Evaluation |
@@ -79,6 +99,16 @@ Clinical biases: confirmation bias, cultural bias, gender bias, and **somatisati
 | Culture in treatment | Culturally adapted therapies and matching of therapist and client language or ethnicity can improve engagement | Studies often small; "culture" hard to define |
 
 Assessing effectiveness: randomised controlled trials, placebo control, double-blind procedures, relapse rates, meta-analysis; the placebo effect and spontaneous remission complicate interpretation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-abnormal-psychology-study-guide--05-abn-ssri.webp" width="900" height="1000" alt="Two schematic synapses: without an SSRI the reuptake pump removes serotonin and few molecules stay in the synapse; with an SSRI the pump is blocked and more stay." loading="lazy">
+  <figcaption>SSRIs raise the serotonin available at the synapse by blocking reuptake.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-abnormal-psychology-study-guide--06-abn-treatments.webp" width="900" height="900" alt="Three columns for biomedical, psychological and group or community treatment with the examples the lesson gives, a strip on fitting treatment to culture, and the factors in choosing treatment." loading="lazy">
+  <figcaption>Three kinds of treatment and how to choose.</figcaption>
+</figure>
 
 ## Worked example: planning an ERQ
 

@@ -37,6 +37,11 @@ A-level English Language (9670). For the full planning method and a worked examp
 - No commentary: your understanding is shown in the writing itself.
 - AO3, using English in different ways, carries the largest weighting in Unit 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1-directed-writing--04-dw-marks.webp" width="900" height="860" alt="Unit 1 is a 2-hour exam worth 50 marks: Section A, Understanding texts, 25 marks, and Section B, Directed writing, 25 marks. It counts for 50% of the International AS and 20% of the International A-level. For the International AS the specification weights Unit 1 at roughly AO1 10%, AO2 15% and AO3 25%. AO3, using English in different ways, is the skill directed writing tests most directly." loading="lazy">
+  <figcaption>Unit 1 marks, time, weighting and assessment objectives.</figcaption>
+</figure>
+
 ## Decode the brief: four questions
 
 | Question | Note it as | It decides |
@@ -48,6 +53,11 @@ A-level English Language (9670). For the full planning method and a worked examp
 
 Also note **where** it will appear (a school website, a local radio slot) and **who** is speaking (the persona).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1-directed-writing--01-dw-four-levers.webp" width="900" height="745" alt="A source text is rebuilt for a new context by changing four things. Audience: an informative leaflet for adults becomes a talk for 11-year-olds. Purpose: a promotional web page becomes a balanced review. Genre: a news article becomes a blog post or a radio script. Mode: a written text becomes a spoken text such as a speech, or a spoken transcript becomes a written article." loading="lazy">
+  <figcaption>Four things you change when you transform a source text.</figcaption>
+</figure>
+
 ## Transformation levers
 
 - **Select**: keep only material that serves the new purpose.
@@ -57,6 +67,11 @@ Also note **where** it will appear (a school website, a local radio slot) and **
 - **Re-mode**: written to spoken needs signposting, repetition and direct address; spoken to written needs complete
   sentences and explicit reference instead of deixis.
 - **Re-genre**: add the target form's conventions and remove the source's.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1-directed-writing--02-dw-six-steps.webp" width="900" height="876" alt="Six steps in order. 1 Decode the brief: underline the audience, purpose, form and where the text will appear. 2 Select material from both source texts, leaving out what the new audience does not need. 3 Reorganise the content in an order that suits the new genre. 4 Re-voice it in your own words and the new register. 5 Use the genre conventions a reader expects, such as a headline for an article or a greeting for a letter. 6 Sustain the style so the tone stays consistent to the end." loading="lazy">
+  <figcaption>Six steps from decoding the brief to sustaining the style.</figcaption>
+</figure>
 
 ## Genre conventions bank
 
@@ -90,6 +105,11 @@ Also note **where** it will appear (a school website, a local radio slot) and **
 | Source (spoken transcript) | Target (written article) |
 |---|---|
 | "so we just (.) we sort of started it in the garage really" | "The business began, modestly, in a garage." |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1-directed-writing--03-dw-worked-example.webp" width="900" height="950" alt="Text A is a museum web page for families and Text B is a radio transcript of a curator. The brief is a welcome talk for visiting 14-year-olds. The talk has five parts in order: greeting; what they will see, using the gallery highlights from Text A; one story to hook interest, using a curator anecdote from Text B; practical points, using the practical details from Text A; and a closing invitation. The greeting and the closing are the writer’s own. This is an invented example from the lesson." loading="lazy">
+  <figcaption>How the lesson’s two invented sources feed a welcome talk.</figcaption>
+</figure>
 
 ## Choosing between the two tasks
 

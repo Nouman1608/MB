@@ -30,6 +30,11 @@ These notes cover the "practical issues" row of section 3.7 in the AQA GCSE Soci
 - Explain the practical issues named in the specification: **time, cost and access**.
 - Apply them to research design **for a specific area of research**, as "practical difficulties".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-practical-issues--01-why-practical-issues.webp" width="900" height="563" alt="Sociologists choose the best method they can carry out. Three practical issues: time for designing, collecting and analysing; cost of researchers, travel and equipment; and access to people, places or documents. Practical issues ask whether research can be done; ethical issues ask whether it should be done that way." loading="lazy">
+  <figcaption>Practical issues ask “can it be done?”; ethical issues ask “should it be done this way?”</figcaption>
+</figure>
+
 ## Practical versus ethical
 
 - **Practical:** can the research be done? Time, cost, access.
@@ -64,6 +69,16 @@ Never merge them in one sentence without explaining each.
 | Longitudinal study | Very high | Very high | People drop out over time |
 | Secondary data | Low | Low or free | Some records restricted |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-practical-issues--02-time-demand.webp" width="900" height="743" alt="Six methods ranked by time demand: secondary data and closed questionnaires are low, structured interviews moderate, unstructured interviews high, and participant observation and longitudinal studies very high, each with an example such as Ball’s three years at Beachside. Below, the trade-off between validity and time." loading="lazy">
+  <figcaption>The methods that give the most depth usually take the most time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-practical-issues--03-cost.webp" width="900" height="719" alt="Left: research costs include paying researchers, travel, printing, equipment, transcription and incentives. Right: universities, government, charities and businesses pay, and funders may influence topic, timescale or method. Below, a big budget allows large surveys such as Townsend’s; a small one means a few interviews or secondary data." loading="lazy">
+  <figcaption>Money decides the scale of a study, and funders can shape what is studied.</figcaption>
+</figure>
+
 ## Access problems and solutions
 
 | Problem | Example | Possible solution |
@@ -74,6 +89,16 @@ Never merge them in one sentence without explaining each.
 | Powerful group | Company directors, elites | Use published documents; formal requests |
 | No sampling frame | Young runaways | Snowball or quota sampling |
 | Researcher's characteristics | Adult studying pupils | Overt role; work with youth workers |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-practical-issues--04-access.webp" width="900" height="653" alt="Two panels. Barriers to access: closed institutions, private settings, hidden or deviant groups, powerful groups, no sampling frame, and the researcher’s own characteristics. Ways round them: gatekeepers, snowball sampling, building trust, confidentiality and anonymity, less intrusive methods and secondary sources." loading="lazy">
+  <figcaption>Access means reaching, finding and gaining the trust of the people you need.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-practical-issues--05-gatekeeper.webp" width="900" height="588" alt="A researcher reaches a group only through a gatekeeper standing in a doorway, such as a head teacher, prison governor, youth worker or gang leader. The gatekeeper can open doors, but can also restrict what the researcher sees and steer them towards people who give a good impression." loading="lazy">
+  <figcaption>Gatekeepers make access possible, but can shape who and what the researcher sees.</figcaption>
+</figure>
 
 ## Named studies and practical issues
 

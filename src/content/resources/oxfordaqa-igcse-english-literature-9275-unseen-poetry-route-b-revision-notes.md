@@ -41,6 +41,16 @@ summarise the five-step method.
 | Marks | 30 of the paper's 60 |
 | Time | About 45 minutes, after the anthology question |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--01-section-b.webp" width="900" height="569" alt="Paper 2b split into Section A on the anthology and Section B on the unseen poem, 30 marks and about 45 minutes each. Section B comes second, so time must be protected, and comparison skills from Section A transfer." loading="lazy">
+  <figcaption>Protect a full 45 minutes for the unseen poem.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--06-planning-45.webp" width="900" height="904" alt="A 45-minute bar and five steps for the unseen poem: read for sense (3 minutes), apply the four lenses (6), write a one-sentence argument (2), order three or four points ending with the ending (2), and write for about 30 minutes before checking." loading="lazy">
+  <figcaption>Thirteen minutes of thinking make thirty minutes of writing focused.</figcaption>
+</figure>
+
 ## The four lenses
 
 | Lens | Ask | Note down |
@@ -49,6 +59,11 @@ summarise the five-step method.
 | Theme | What bigger idea? | Your argument |
 | Structure | How is it shaped and how does it develop? | Stanza pattern, line lengths, the turn, the ending |
 | Use of language | Which details stand out? | Five or six short quotations with effects |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--02-four-lenses.webp" width="900" height="637" alt="A grid of the four lenses named in the specification, content, theme, structure and use of language, each with the question to ask and what it gives the answer. Structure is highlighted as the lens most often missed." loading="lazy">
+  <figcaption>Content, theme, structure, language: and never skip structure.</figcaption>
+</figure>
 
 ## Structure prompts
 
@@ -59,6 +74,11 @@ summarise the five-step method.
   pause?
 - How does the poem end, and does the ending echo the opening?
 - Is there repetition or parallel structure, and what does it emphasise?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--04-night-shift-structure.webp" width="900" height="675" alt="The guide’s original poem Night Shift traced through its three stanzas: evening, when the mother leaves and her slippers point in; night, when hospital and child both keep watch; and morning, when the house at last lets go." loading="lazy">
+  <figcaption>The three stanzas move from leaving, to waiting, to release.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -92,10 +112,20 @@ Always pair a tentative idea with a quotation.
 - If the speaker is unclear, offer two possibilities.
 - For an open ending, give two readings and choose one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--03-difficult-poem.webp" width="900" height="687" alt="Five strategies for a difficult unseen poem: work from what is clear, infer unfamiliar words or write about their effect, rearrange older word order, offer two possible speakers, and weigh two readings of an ambiguous ending." loading="lazy">
+  <figcaption>Start from what is clear and treat uncertainty as interpretation.</figcaption>
+</figure>
+
 ## Paragraph pattern
 
 Point about the feeling or idea → short quotation → method named precisely → effect on meaning →
 link to the poem's development or ending.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b--05-competent-stronger.webp" width="900" height="581" alt="The guide’s competent and stronger paragraphs on Night Shift compared: the stronger one opens with an argument, analyses the verb, image and line break, explains a precise effect and uses tentative, personal phrasing." loading="lazy">
+  <figcaption>Argue, analyse the exact method, explain the precise effect.</figcaption>
+</figure>
 
 ## Worked mini-example
 

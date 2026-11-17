@@ -64,6 +64,11 @@ The full explanation is in the
 | **Moral panic** | Exaggerated public fear about a group seen as a threat (Cohen, 1972) |
 | **Sub-culture** | A group with norms and values that differ from the mainstream |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--05-panopticon.webp" width="900" height="634" alt="Plan of a panopticon prison: cells in a ring around a central watchtower. Because inmates can always be seen but never know when, they discipline themselves; CCTV, facial recognition and data monitoring are modern versions, though critics raise privacy concerns." loading="lazy">
+  <figcaption>Not knowing when you are watched makes you watch yourself.</figcaption>
+</figure>
+
 ## Formal versus informal: four differences
 
 1. **Rules:** written laws versus unwritten norms.
@@ -73,6 +78,11 @@ The full explanation is in the
 
 Remember: both use **positive** as well as negative sanctions (honours and reduced sentences are
 formal positive sanctions).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--01-sanctions-grid.webp" width="900" height="664" alt="A grid of formal and informal control against positive and negative sanctions. Formal positive: reduced sentences, honours, tax relief. Formal negative: fines, arrest, prison. Informal positive: praise, likes, a pay rise. Informal negative: gossip, ostracism, detention." loading="lazy">
+  <figcaption>Formal control rewards as well as punishes; informal control can punish harshly.</figcaption>
+</figure>
 
 ## What makes control effective?
 
@@ -84,6 +94,16 @@ formal positive sanctions).
 Control fails when detection is unlikely, a group rewards deviance, or people feel they have nothing
 to lose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--02-when-sanctions-work.webp" width="900" height="414" alt="Two panels. Sanctions work best when people value the reward or fear the punishment, see the rule as legitimate and expect to be noticed. They work poorly when people expect not to be caught, when a group rewards the behaviour, or when people have little to lose." loading="lazy">
+  <figcaption>Legitimacy and the chance of being noticed decide whether sanctions work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--04-formal-agencies.webp" width="900" height="722" alt="Formal agencies in sequence with a method and a limit: government makes laws, police arrest and use digital surveillance, courts sentence, and the penal system imprisons, though reoffending is common. The armed forces use coercion in emergencies but risk losing legitimacy." loading="lazy">
+  <figcaption>Each formal agency has its own method and its own limit.</figcaption>
+</figure>
+
 ## Perspectives recall
 
 | | Functionalism | Marxism | Feminism |
@@ -93,6 +113,11 @@ to lose.
 | Key idea | Punishment reaffirms boundaries (Durkheim) | Repressive and ideological apparatuses (Althusser) | Women controlled at home, in public and at work (Heidensohn, 1985) |
 | Criticism | Ignores unequal enforcement | Many laws protect everyone | Women's freedoms have expanded |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--03-perspectives-on-control.webp" width="900" height="517" alt="Functionalism sees control as protecting shared values for everyone; Marxism sees it serving the ruling class through laws and the repressive state apparatus; feminism sees it maintaining patriarchy at home, in public and at work. A criticism sits under each." loading="lazy">
+  <figcaption>One consensus view, two conflict views, each with a weakness.</figcaption>
+</figure>
+
 ## Resistance recall
 
 - **Why join:** grievance, belonging, identity, status, excitement, friends involved, distrust of
@@ -101,6 +126,16 @@ to lose.
 - **Youth:** mods and rockers (1960s) and Cohen's moral panic; punks (1970s).
 - **Online:** gaming communities, fandoms, hacker groups.
 - **Religious:** the Amish, who limit modern technology and live apart.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--06-why-join-resistance.webp" width="900" height="590" alt="Six reasons for joining resistance arranged around a centre: grievance, belonging, status, excitement, friends or family already involved, and feeling ignored by formal politics. Below, deviant behaviour breaks norms while non-conformist behaviour rejects expectations without necessarily breaking rules." loading="lazy">
+  <figcaption>Resistance can be deviant or simply non-conformist.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--07-types-of-resistance.webp" width="900" height="670" alt="Examples of resistance: protest groups such as the suffragettes and Extinction Rebellion; youth sub-cultures such as mods, rockers and punks; online sub-cultures such as gamers, fandoms and hackers; and the Amish as a religious sub-culture." loading="lazy">
+  <figcaption>Control is never complete: resistance takes protest, youth, online and religious forms.</figcaption>
+</figure>
 
 ## Exam traps
 

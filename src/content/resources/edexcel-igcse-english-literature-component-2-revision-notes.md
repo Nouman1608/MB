@@ -50,6 +50,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 The exam copy must be the prescribed edition and completely unmarked.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-2--09-c2-set-texts.webp" width="900" height="900" alt="Two columns list the five modern drama set texts and the six literary heritage set texts. A banner says to choose one drama text and one heritage text." loading="lazy">
+  <figcaption>One set text is studied from each of the two lists.</figcaption>
+</figure>
+
 ## How are the marks split?
 
 | Section | AO1 | AO2 | AO4 | Total |
@@ -58,6 +63,11 @@ The exam copy must be the prescribed edition and completely unmarked.
 | B: Literary Heritage | 10 | 10 | 10 | 30 |
 
 So a third of every Section B mark is for context (AO4): it is not an optional extra.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-2--08-c2-paper-layout.webp" width="900" height="780" alt="A clock shows 1 hour 30 minutes for 60 marks. Two equal cards show Section A, Modern drama, 30 marks, assessed on AO1 and AO2, and Section B, Literary heritage, 30 marks, assessed on AO1, AO2 and AO4. Each section asks for one essay chosen from two." loading="lazy">
+  <figcaption>Two 30-mark essays: drama is marked on AO1 and AO2, the heritage text also on AO4.</figcaption>
+</figure>
 
 ## The open-book exam changes what to revise
 
@@ -73,6 +83,11 @@ divisions and your own annotations, not a search function. Annotate a
 personal copy in advance (your unmarked exam copy must stay clean) with
 brief marginal flags at points you expect to return to.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-2--11-c2-exam-habits.webp" width="900" height="880" alt="Three numbered cards: open book so learn to locate passages fast, weigh both essay options briefly, and practise timed drama and heritage answers in one sitting. A banner says locating a passage beats memorising it." loading="lazy">
+  <figcaption>Open-book skills, brief planning and timed practice matter more than memorised quotations.</figcaption>
+</figure>
+
 ## Section A: Modern Drama (AO1 + AO2)
 
 Two marks-earning habits matter most:
@@ -87,6 +102,11 @@ Drama-specific point often missed: a play is written to be **performed**,
 so stage directions, staging choices and what an audience sees and hears
 in the moment (not just what characters say) are legitimate, markable
 analytical territory.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-a-modern-drama--01-play-as-a-play.webp" width="900" height="716" alt="Eight dramatic methods surround the audience at the centre: stage directions, entrances and exits, dramatic irony, narrators and framing, structure, dialogue, staging and setting, and characters as devices. Below, treating the play like a novel is contrasted with writing about what an audience sees on stage." loading="lazy">
+  <figcaption>AO2 rewards the playwright’s tools beyond words, each linked to the audience.</figcaption>
+</figure>
 
 ## Section B: Literary Heritage Texts (AO1 + AO2 + AO4)
 
@@ -106,6 +126,11 @@ written in and responds to.
 | Notes a theme is present | Links the theme to a real historical or social condition of the time |
 | Treats the text as timeless | Treats the text as a product of, and response to, its era |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-2--10-c2-context-bridge.webp" width="900" height="830" alt="Two panels compare answers. The first only describes a character being looked down on and has no link to context. The second links that moment to the rigid class structure and limited social mobility of the period, and to the writer critiquing it." loading="lazy">
+  <figcaption>Linking a textual moment to its historical context is what earns AO4.</figcaption>
+</figure>
+
 ## Choosing between essay options
 
 Each section offers a choice of two essay questions. **Spend one minute
@@ -124,6 +149,11 @@ over, leaving Section B's contextual analysis rushed or omitted
 entirely — which is costly precisely because AO4 marks are only
 available there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts--05-plan-45-minutes.webp" width="900" height="827" alt="A 45-minute bar: 2 minutes to choose, 5 to plan, 3 to locate passages, 32 to write at roughly eight minutes per paragraph, and 3 to check. Steps below explain each stage; the check is that every paragraph has a context link." loading="lazy">
+  <figcaption>Plan moments and contexts together, and check every paragraph has context.</figcaption>
+</figure>
+
 ## Building the historical/social context bank
 
 Rather than researching a set text's context broadly and hoping it
@@ -138,6 +168,11 @@ This also protects against a common failure mode: writing generically
 about "the context of the time" without naming what that context
 actually was. A strong AO4 sentence names the specific historical or
 social condition, not just gestures at "the period."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts--02-three-time-frames.webp" width="900" height="674" alt="Two timelines. The Scarlet Letter is set in seventeenth-century Boston, published in 1850 and read now. Great Expectations was published in 1860–61 but looks back to the earlier part of the century. Dashed arrows show each writer looking backwards." loading="lazy">
+  <figcaption>The gap between setting and writing is often the best AO4 question to ask.</figcaption>
+</figure>
 
 ## Exam traps
 

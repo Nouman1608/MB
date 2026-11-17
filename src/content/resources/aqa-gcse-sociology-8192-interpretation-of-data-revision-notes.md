@@ -46,6 +46,16 @@ Interpret **graphs, diagrams, charts and tables** to **discern patterns and tren
 | Causation | One thing causing another |
 | Representative data | Data that reflect the wider population |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--01-pattern-trend.webp" width="900" height="643" alt="Two panels. A pattern is a regular relationship at one point in time, shown as grouped bars where one group is always higher. A trend is a general direction over time, shown as one rising and one falling line. Below: describe it, quote figures with units and note exceptions." loading="lazy">
+  <figcaption>A pattern compares groups at one time; a trend follows change over time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--05-mean-median.webp" width="900" height="560" alt="Eleven people are placed along an income line, most clustered at the low end and two far to the right. The median, the middle person, sits among the cluster; the mean is pulled upwards by the few high earners. Below, definitions of mean, median and mode." loading="lazy">
+  <figcaption>A few very high earners pull the mean up, so the median gives a fairer middle.</figcaption>
+</figure>
+
 ## The seven-step routine: TUSPQEL
 
 1. **T**itle: what, where, when?
@@ -55,6 +65,11 @@ Interpret **graphs, diagrams, charts and tables** to **discern patterns and tren
 5. **Q**uote figures: first, last, highest, lowest.
 6. **E**xceptions.
 7. **L**imitations: what can the data not show?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--02-data-routine.webp" width="900" height="518" alt="Seven numbered steps: read the title, check the units, check the source and sample, find the overall pattern or trend, quote figures, note exceptions, and ask what the data cannot show." loading="lazy">
+  <figcaption>Check what the data measure before describing them, and what they miss before concluding.</figcaption>
+</figure>
 
 ## Calculations at a glance
 
@@ -70,6 +85,16 @@ Interpret **graphs, diagrams, charts and tables** to **discern patterns and tren
 
 **Always show the sum, the answer and the unit.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--03-percentage-points.webp" width="900" height="608" alt="Line chart of a fictional household survey, 2005 to 2025. Couples with dependent children fell from 38% to 30%, one-person households rose from 28% to 31%, other households went from 25% to 27%, and lone-parent households rose from 9% to 12%. The lone-parent rise is 3 percentage points, which is a 33% increase." loading="lazy">
+  <figcaption>A rise from 9% to 12% is 3 percentage points but a 33% increase.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--04-rates.webp" width="900" height="664" alt="District A has 24,000 pupils and 360 exclusions, a rate of 15 per 1,000. District B has 9,000 pupils and 180 exclusions, a rate of 20 per 1,000. District B had fewer exclusions but a higher rate." loading="lazy">
+  <figcaption>A rate lets groups of different sizes be compared fairly.</figcaption>
+</figure>
+
 ## Reading each format
 
 - **Table:** read row and column headings; check whether figures are numbers or percentages; look for totals.
@@ -83,6 +108,11 @@ Interpret **graphs, diagrams, charts and tables** to **discern patterns and tren
 
 **Example:** "Between 2010 and 2025 the proportion of Year 11 pupils in Stonebridge saying they planned to go to university rose from 31% to 44%. The exception was 2020, when it dipped to 29%."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--06-worked-example.webp" width="900" height="665" alt="Line graph of fictional recorded violent incidents per 1,000 residents in Haverford: 18 in 2015, 21 in 2017, 24 in 2019, 19 in 2021, 26 in 2023 and 28 in 2025. Labels mark the first and last values and the 2021 exception. Below: the direction, the exception and a limitation of recorded figures." loading="lazy">
+  <figcaption>Give the direction, quote first and last figures, pick out the exception, then explain a limitation.</figcaption>
+</figure>
+
 ## Traps
 
 - **Numbers versus rates:** bigger populations produce bigger numbers.
@@ -93,6 +123,11 @@ Interpret **graphs, diagrams, charts and tables** to **discern patterns and tren
 - **Small samples:** percentages swing with one or two answers.
 - **Changed definitions:** create false trends.
 - **Missing groups:** data only describe who was included.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-interpretation-of-data--07-eight-traps.webp" width="900" height="694" alt="Eight cards: numbers versus rates, percentages versus percentage points, truncated axes, missing years, correlation versus causation, small samples, changing definitions, and groups missing from the data, each with a short example." loading="lazy">
+  <figcaption>Before trusting a figure, check it against each trap.</figcaption>
+</figure>
 
 ## Linking data to sociology
 

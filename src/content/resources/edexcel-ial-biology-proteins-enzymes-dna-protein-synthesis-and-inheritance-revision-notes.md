@@ -45,6 +45,11 @@ Every amino acid has the same core: a central carbon atom bonded to an **amine g
 
 **The key idea.** The primary structure decides where every R group sits, so it decides which bonds form, and therefore the secondary and tertiary structure, the shape and the properties of the protein. Change one amino acid and the shape can change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp" width="900" height="1297" alt="Four panels. 1 Primary: nine amino acids in sequence joined by peptide bonds. 2 Secondary: an alpha-helix and a beta-pleated sheet held by hydrogen bonds between backbone groups. 3 Tertiary: a folded chain with a disulfide bond between two cysteines, an ionic bond between lysine and aspartate, a hydrogen bond between serine and asparagine, and hydrophobic interaction between leucines. 4 Quaternary: haemoglobin, two alpha and two beta chains each with a haem group holding Fe2+, binding up to four oxygen molecules." loading="lazy">
+  <figcaption>Primary sequence leads to secondary folding, tertiary R-group interactions and quaternary assembly.</figcaption>
+</figure>
+
 ## Globular and fibrous proteins (2.6 iii-iv)
 
 | | Globular | Fibrous |
@@ -70,6 +75,16 @@ Every amino acid has the same core: a central carbon atom bonded to an **amine g
 
 **Lock and key versus induced fit.** In the lock-and-key model the active site is a rigid, exactly complementary shape. In the induced-fit model the active site changes shape slightly as the substrate binds, which puts strain on the substrate's bonds and helps lower the activation energy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--03-activation-energy.webp" width="900" height="1060" alt="An energy profile from substrates to lower-energy products. The uncatalysed route has a high peak (large Ea); with an enzyme the peak is lower between the same substrates and products, so the overall energy change is unchanged. Two small pictures show an active site holding two substrates close in the correct orientation (building) and straining a bond (breaking)." loading="lazy">
+  <figcaption>An enzyme lowers the activation energy without changing the overall energy change of the reaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--02-lock-key-induced-fit.webp" width="900" height="1130" alt="Three rows. Lock and key: a rigid notch-shaped active site that the substrate fits exactly. Induced fit: the site starts close to but not exactly complementary, and moulds round the substrate as it binds, straining bonds. Specificity: a round substrate of the wrong shape cannot bind." loading="lazy">
+  <figcaption>Lock and key has a fixed active site; in induced fit the site changes shape slightly as the substrate binds.</figcaption>
+</figure>
+
 ## Core Practical 4: factors affecting the initial rate (2.8)
 
 | Factor | Pattern | Reason |
@@ -80,6 +95,16 @@ Every amino acid has the same core: a central carbon atom bonded to an **amine g
 | Substrate concentration | Rate rises, then levels off | At high concentration all active sites are occupied; enzyme concentration becomes the limiting factor |
 
 **Initial rate.** Measure the rate at the very start of the reaction (the gradient of a tangent drawn at time zero on a product-time graph), before substrate is used up. Control every variable except the one being changed, and repeat each condition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--05-temperature-ph.webp" width="900" height="1140" alt="Two graphs. Temperature: rate rises to an optimum a little below 45 degrees Celsius then falls steeply as the active site is distorted and the enzyme denatured. pH: a bell-shaped curve with an optimum near 7; at low and high pH charges on R groups change. A buffer holds pH constant." loading="lazy">
+  <figcaption>Away from the optimum, the active site changes shape so fewer enzyme-substrate complexes form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--04-initial-rate.webp" width="900" height="1000" alt="A graph of oxygen volume against time with points at 0 to 120 seconds from the lesson. The tangent at t = 0 passes through (0,0) and (20,10), so the initial rate is 0.50 cm3 per second; a line from 60 to 120 s gives 0.10 cm3 per second. A flask and gas syringe show how the oxygen is collected." loading="lazy">
+  <figcaption>The initial rate is the gradient of the tangent at t = 0 and is the best value for comparing experiments.</figcaption>
+</figure>
 
 ## Nucleotides, DNA and RNA (2.9)
 
@@ -95,6 +120,11 @@ A **mononucleotide** = a pentose sugar + a phosphate group + a nitrogenous base.
 - In the double helix the bases pair by **complementary base pairing**: A with T, and C with G. The pairs are held together by **hydrogen bonds** (two between A and T, three between C and G).
 - Many hydrogen bonds together hold the two strands firmly, yet each one is weak, so the strands can be separated for replication and transcription.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--02-bases-pairing.webp" width="900" height="990" alt="Adenine and guanine are purines with a double ring. Cytosine, thymine and uracil are pyrimidines with a single ring; thymine is only in DNA and uracil only in RNA. Adenine pairs with thymine through two hydrogen bonds and guanine with cytosine through three. Each pair is one double ring plus one single ring, so every pair has the same width." loading="lazy">
+  <figcaption>A purine always pairs with a pyrimidine: A with T (two hydrogen bonds), G with C (three).</figcaption>
+</figure>
+
 ## DNA replication (2.10 i)
 
 1. The double helix unwinds and the hydrogen bonds between the bases break, separating the two strands (an enzyme, DNA helicase, does this).
@@ -102,6 +132,11 @@ A **mononucleotide** = a pentose sugar + a phosphate group + a nitrogenous base.
 3. Free DNA nucleotides line up against the exposed bases by complementary base pairing.
 4. **DNA polymerase** joins the adjacent nucleotides, forming phosphodiester bonds.
 5. Each new molecule contains one original strand and one new strand: replication is **semi-conservative**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--04-replication-fork.webp" width="900" height="1030" alt="A replication fork opens to the right. Helicase at the fork breaks hydrogen bonds so both parent strands act as templates. DNA polymerase adds nucleotides only to the 3′ end, so each new strand grows 5′ to 3′. The leading strand is built continuously towards the fork; the lagging strand is built away from the fork in short fragments that DNA ligase joins. Every daughter duplex has one old and one new strand." loading="lazy">
+  <figcaption>New strands grow 5′ to 3′ only, so one strand is built continuously and the other in fragments.</figcaption>
+</figure>
 
 ## Meselson and Stahl (2.10 ii)
 
@@ -114,6 +149,11 @@ A **mononucleotide** = a pentose sugar + a phosphate group + a nitrogenous base.
 | 2 | One intermediate and one light band (equal amounts) | Rules out **dispersive** replication, which would give a single band that gets lighter each generation |
 
 Only **semi-conservative** replication fits both results. This is the data that supported the accepted theory and refuted the competing ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--05-meselson-stahl.webp" width="900" height="1260" alt="Density-gradient tubes show DNA bands. The start sample has one heavy band. After one generation in light nitrogen there is a single intermediate band; after two generations there are equal intermediate and light bands. A grid of predictions shows semi-conservative replication fits both results, conservative replication is ruled out at generation 1 and dispersive replication at generation 2." loading="lazy">
+  <figcaption>Only semi-conservative replication predicts both the generation 1 and generation 2 bands.</figcaption>
+</figure>
 
 ## The genetic code and genes (2.11-2.12)
 
@@ -150,6 +190,11 @@ Only **semi-conservative** replication fits both results. This is the data that 
 
 **Worked reminder.** Template DNA TAC GGA TTC gives mRNA AUG CCU AAG, and the anticodons on the tRNAs that read it are UAC, GGA and UUC.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--07-translation-ribosome.webp" width="900" height="1022" alt="mRNA AUG UUC GGC AAC UAA passes through a ribosome. The ribosome holds two tRNAs, each carrying one amino acid with an anticodon complementary to its codon: AAG pairs with UUC (Phe) and CCG pairs with GGC (Gly). A peptide bond forms between amino acids, the first tRNA leaves, and the ribosome moves one codon along. The codons code for Met, Phe, Gly and Asn, and UAA is a stop codon." loading="lazy">
+  <figcaption>tRNA anticodons pair with mRNA codons on the ribosome, adding one amino acid at a time until a stop codon.</figcaption>
+</figure>
+
 ## Mutation (2.14)
 
 - A **gene mutation** is a change in the base sequence of DNA, which can arise from errors during replication.
@@ -157,6 +202,11 @@ Only **semi-conservative** replication fits both results. This is the data that 
 - **Insertion** or **deletion**: a base added or lost. Every triplet after the change is read differently (a **frameshift**), so many amino acids change.
 - A changed amino acid sequence (primary structure) can change the bonds in the tertiary structure, so the protein's shape and function change.
 - Some mutations lead to **cancer** or **genetic disorders**, but many have **no observable effect**, for example when the new codon codes for the same amino acid, or the change is in a non-coding sequence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp" width="900" height="1200" alt="The mRNA AUG UUC GGC AAC GAU CAA UAA codes Met Phe Gly Asn Asp Gln then stop. A substitution that changes GGC to GGU still codes Gly because the code is degenerate. A substitution that changes UUC to UUG changes Phe to Leu. Deleting one base or inserting one base shifts the reading frame so every later amino acid changes." loading="lazy">
+  <figcaption>A substitution changes at most one amino acid; a deletion or insertion shifts the reading frame.</figcaption>
+</figure>
 
 ## Genetic terms and monohybrid inheritance (2.15 i-ii)
 

@@ -34,6 +34,16 @@ Revision notes for **sub-theme 3.1** of Theme 3 in Pearson Edexcel A Level Urdu 
 - **Learning and understanding**: contact between communities can reduce prejudice and widen knowledge.
 - **Shared citizenship**: balancing common values with respect for difference.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-3-study-guide--01-theme-3-map.webp" width="900" height="640" alt="Theme 3, ہجرت ترکِ وطن اور کثیر الثقافتی معاشرہ (Immigration and the multicultural society), has three sub-themes: positive features of a diverse society, attitudes towards immigration, and emigration from Pakistan (پاکستان سے ہجرت), the research subject." loading="lazy">
+  <figcaption>Three sub-themes; emigration from Pakistan is the research subject.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-3-study-guide--02-diverse-society-positives.webp" width="900" height="666" alt="Diversity (تنوع) at the centre of four positives: cultural variety, economic contribution, learning and understanding, and shared citizenship. Key words: کثیر الثقافتی, رواداری, باہمی احترام, ثقافت, زبان, تہوار, شہریت." loading="lazy">
+  <figcaption>Variety, contribution, understanding and shared citizenship.</figcaption>
+</figure>
+
 ## Issues and perspectives
 
 **Diversity is not only about other countries.** Pakistan is itself a diverse society. Alongside Urdu, the national language, people speak Punjabi, Sindhi, Pashto, Balochi, Saraiki and many other languages, and the country has religious minorities and regional cultures with their own dress, music and food. Urdu often works as the shared language (**رابطے کی زبان**, link language) between them. A strong answer can draw on Pakistan's own diversity as well as on Pakistani communities abroad.

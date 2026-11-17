@@ -1,0 +1,29 @@
+{
+ "page": "as-chem-acids-bases-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/as-acids-and-bases-bronsted-lowry-theory--08-proton-transfer.webp",
+   "after": "## Brønsted-Lowry definitions"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-acids-and-bases-bronsted-lowry-theory--09-strong-weak-vs-conc.webp",
+   "after": "## Strong vs weak — and the trap"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-acids-and-bases-bronsted-lowry-theory--10-strong-weak-tests.webp",
+   "after": "## Strong vs weak — and the trap"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-acids-and-bases-bronsted-lowry-theory--12-titration-four-curves.webp",
+   "after": "## Titration curves — the four shapes"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-acids-and-bases-bronsted-lowry-theory--13-indicator-fit.webp",
+   "after": "## Choosing an indicator"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-acids-and-bases-bronsted-lowry-theory--11-ph-neutralisation.webp",
+   "after": "## Neutralisation and salt formation"
+  }
+ ]
+}

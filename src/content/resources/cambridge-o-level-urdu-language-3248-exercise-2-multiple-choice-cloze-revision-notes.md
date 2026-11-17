@@ -39,6 +39,11 @@ full explanations and a worked passage are in the
 
 Read all → name the point → find the clue → eliminate and reread.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--01-approach-every-gap.webp" width="900" height="670" alt="Four steps for each gap: read the whole passage, name the grammar point the options test, find the clue in the sentence, then eliminate and reread. Typical clues include نے for agreement, سے for comparison, a time word such as کل for tense, and ایک / کوئی / کچھ." loading="lazy">
+  <figcaption>Name the point, find the clue, then check the whole sentence.</figcaption>
+</figure>
+
 ## Tense clues
 
 | Clue | Form |
@@ -51,6 +56,11 @@ Read all → name the point → find the clue → eliminate and reread.
 | پہلے ہی، ابھی ابھی | پڑھ چکا ہے |
 
 *کل* is both yesterday and tomorrow: check the context.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--02-tense-clues.webp" width="900" height="791" alt="Six time clues and the verb form each calls for, with examples: ہر روز for the habitual present, اس وقت for the continuous, کل or پچھلے سال for the past, کل or اگلے سال for the future, بچپن میں for the habitual past, and ابھی ابھی for the perfect with چکا. کل can mean yesterday or tomorrow." loading="lazy">
+  <figcaption>Find the time word first; کل needs the whole passage.</figcaption>
+</figure>
 
 ## Agreement rules
 
@@ -66,6 +76,16 @@ Read all → name the point → find the clue → eliminate and reread.
 | ہم نے پراٹھے کھائے۔ | پراٹھے masculine plural |
 | امی نے بچوں کو بلایا۔ | object with کو |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--03-agreement-and-ne.webp" width="900" height="938" alt="Three cases. Without نے the verb agrees with the subject (لڑکی خط لکھتی ہے۔). With نے it agrees with the object (لڑکے نے کتاب پڑھی۔، لڑکی نے خط لکھا۔), unless the object takes کو, when it stays masculine singular (اس نے لڑکیوں کو بلایا۔). Elders take respect plurals: دادی جان آ رہی ہیں۔" loading="lazy">
+  <figcaption>Look left for نے, then find the object: that decides پڑھا, پڑھی or پڑھے.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--06-feminine-plural.webp" width="900" height="818" alt="Feminine plural verb endings by tense: ـتی ہیں (لڑکیاں ہر روز کھیلتی ہیں۔), رہی ہیں, ـئیں (لڑکیاں اسکول گئیں۔) and ـیں گی (لڑکیاں کل آئیں گی۔). The same endings are used for one respected woman: امی کل آئیں گی۔" loading="lazy">
+  <figcaption>When options differ only in ـا / ـی / ـے / ـیں, check gender, number and respect.</figcaption>
+</figure>
+
 ## Noun forms
 
 | Singular | Plural | Oblique plural |
@@ -77,12 +97,22 @@ Read all → name the point → find the clue → eliminate and reread.
 
 Oblique singular of *لڑکا* is *لڑکے* (*لڑکے کو*).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--04-nouns-and-oblique.webp" width="900" height="742" alt="Plurals: لڑکا becomes لڑکے and کمرہ becomes کمرے; لڑکی becomes لڑکیاں and کتاب becomes کتابیں. Before a postposition nouns take the oblique form: لڑکوں کو، کمرے میں، کتابوں سے. The possessed noun's gender chooses کا، کی or کے: احمد کا قلم، احمد کی کتاب، احمد کے دوست." loading="lazy">
+  <figcaption>Plural, oblique and possessive endings all follow gender and number.</figcaption>
+</figure>
+
 ## Comparison
 
 - Comparative: X **Y سے** adjective: *یہ کمرہ اُس سے بڑا ہے۔*
 - Superlative: **سب سے** adjective: *سب سے بڑا*.
 - With degree words: *زیادہ / کم* + adjective.
 - Persian forms: *بہتر / بہترین*, *کم تر / کم ترین*. Avoid *سب سے بہترین*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--05-comparatives-superlatives.webp" width="900" height="670" alt="Urdu compares with سے after the thing compared against, leaving the adjective unchanged (یہ کمرہ اُس کمرے سے بڑا ہے), and forms the superlative with سب سے (یہ شہر کا سب سے بڑا باغ ہے۔). Persian بہتر and بہترین already carry degree, so سب سے بہترین is usually the trap." loading="lazy">
+  <figcaption>سے compares, سب سے makes a superlative; never add سب سے to بہترین.</figcaption>
+</figure>
 
 ## Postpositions and verb partners
 
@@ -97,6 +127,11 @@ Oblique singular of *لڑکا* is *لڑکے* (*لڑکے کو*).
 | شکریہ ادا کرنا | کا |
 
 Before-noun words: *بغیر* (*بغیر اجازت*), Persian *بے* (*بے فکر*), *با* (*با ادب*).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--07-fixed-postpositions.webp" width="900" height="730" alt="Five verbs that take a fixed postposition: کسی سے ملنا (meet), کسی سے ڈرنا (fear), کسی کو یاد کرنا (remember), کسی پر بھروسا کرنا (trust) and کسی کا انتظار کرنا (wait for)." loading="lazy">
+  <figcaption>Learn the verb and its postposition as one unit.</figcaption>
+</figure>
 
 ## "Articles" in Urdu
 

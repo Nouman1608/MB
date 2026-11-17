@@ -69,6 +69,11 @@ These are general patterns; check them against your own studied examples.
   new work visa for skilled foreign workers in 2019. Ageing also creates a "silver economy" of
   services and products for older people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-population-distribution--12-pd-pyramids.webp" width="900" height="790" alt="Two illustrative pyramids with the oldest group at the top. The young population has a wide base (high birth rates) and a sharply narrowing top (high death rates, lower life expectancy). The ageing population has a narrow base (low birth rate) and a relatively wide top (high life expectancy)." loading="lazy">
+  <figcaption>A pyramid shape shows birth rates, death rates and life expectancy.</figcaption>
+</figure>
+
 ## Population policies
 
 | Policy type | Example | Points to evaluate |
@@ -115,6 +120,11 @@ map or graph) and **qualitative explanation** using named factors.
 
 Remember the ratio assumes everyone aged 15-64 works and nobody over 65 does, which is not true
 in practice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-population-distribution--14-pd-reading-chain.webp" width="900" height="960" alt="Four steps: read the shape (narrow base, wide top); say what it means (low birth rate, high life expectancy); link to the demographic transition model (a later stage with low births and deaths); state the consequence (more elderly care and pensions needed)." loading="lazy">
+  <figcaption>Move from shape to meaning to model stage to consequence.</figcaption>
+</figure>
 
 ## Model sentence for an evaluation
 

@@ -1,0 +1,8 @@
+{ "page": "igcse-computer-science-automated-and-emerging-technologies-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--01-auto-components.webp", "after": "## 6.1 How does an automated system work?" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--02-feedback-loop.webp", "after": "## 6.1 How does an automated system work?" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--03-greenhouse-trace.webp", "after": "### Scenario quick-reference" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--04-robot-features.webp", "after": "## 6.2 Robots" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--06-ai-vs-ml.webp", "after": "## 6.3 Artificial intelligence" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--05-ai-parts.webp", "after": "### Expert system components" }
+] }

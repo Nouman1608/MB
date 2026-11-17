@@ -41,6 +41,11 @@ test yourself with the [0470 overseas empires practice questions](/resources/cam
 
 **Enablers, not motives:** quinine, steamships, railways, the telegraph, the machine gun.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-overseas-empires--01-five-motives.webp" width="900" height="571" alt="Five motive cards with who held each: economic (merchants and investors), military (navies), geopolitical (governments), religious (missions) and cultural (public opinion). Below, the connections: economic interests needed other arguments for support, military motives protected trade, and rivalry after the Berlin Conference explains the speed. A last card: quinine, steam and the machine gun made it possible." loading="lazy">
+  <figcaption>Show who held each motive and how they worked together, not a list.</figcaption>
+</figure>
+
 ## Impacts on Africans compared
 
 | | Senegal (France) | Northern Nigeria (Britain) | Congo (Leopold II) |
@@ -53,6 +58,16 @@ test yourself with the [0470 overseas empires practice questions](/resources/cam
 
 **Variation inside a colony:** in south-eastern Nigeria British "warrant chiefs" had no traditional authority and were
 resented.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-overseas-empires--02-impacts-compared.webp" width="900" height="621" alt="A grid comparing French Senegal, British Northern Nigeria and Leopold's Congo under political, economic, social and resistance headings, from direct rule and groundnut exports, through rule by emirs, to forced rubber collection and mass violence. The judgement: methods and intensity varied, but all took sovereignty." loading="lazy">
+  <figcaption>Different methods, same result: lost sovereignty and economies serving Europe.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-overseas-empires--03-impact-spectrum.webp" width="900" height="509" alt="A spectrum from less to more disruption: Northern Nigeria (indirect rule left more of society in place), Senegal (assimilation offered opportunity to a few) and the Congo (lost power and mass violence). A note adds that impact varied within colonies, as with the resented warrant chiefs among the Igbo of southern Nigeria." loading="lazy">
+  <figcaption>Answer &quot;how varied&quot; by placing each case, including variation within a colony.</figcaption>
+</figure>
 
 ## India, 1857: who resisted and why
 
@@ -67,6 +82,11 @@ resented.
 annexations, so princely states survived; Victoria Empress of India (1877); army reorganised with more British
 troops and more recruits from groups such as Punjabi Sikhs; British more cautious about religion but more separate
 from Indians.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-overseas-empires--04-india-1857.webp" width="900" height="660" alt="Four groups converge on the 1857-58 rising: sepoys (cartridges, pay), rulers (the Doctrine of Lapse, Jhansi, Nana Sahib), landowners in Awadh, and religious communities. Below, the effects: Crown rule from 1858, an end to annexations, a reorganised army, and more cautious, more separate officials." loading="lazy">
+  <figcaption>Separate the grievances by group, then the effects on British rule.</figcaption>
+</figure>
 
 ## The USA, Spain and its colonies
 
@@ -84,6 +104,16 @@ from Indians.
 | 1902 | US forces leave Cuba; war in the Philippines declared over |
 | 1906 | Revolt in Cuba; second US occupation |
 | 1907 | Elected Philippine Assembly |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-overseas-empires--05-usa-1898.webp" width="900" height="641" alt="A timeline from 1895 to 1907 drawn to scale: the Cuban war (1895), the de Lôme letter and the Maine (February 1898), war and the Teller Amendment (April 1898), Manila (August 1898), the Platt Amendment and Aguinaldo's capture (1901), US reoccupation of Cuba (1906) and the Philippine assembly (1907). Bars mark US military government in Cuba and the Philippine-American War." loading="lazy">
+  <figcaption>The war was fought for Cuba; empire came with the peace.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-overseas-empires--06-cuba-philippines.webp" width="900" height="499" alt="Two columns. Cuba: not annexed under the Teller Amendment, but under US military government, then the Platt Amendment and reoccupation in 1906. The Philippines: kept by McKinley, war from 1899 to 1902, then civil government under Taft with an assembly from 1907. A note: the Teller Amendment applied to Cuba only." loading="lazy">
+  <figcaption>Cuba got limited independence; the Philippines became a colony.</figcaption>
+</figure>
 
 ## Key terms
 

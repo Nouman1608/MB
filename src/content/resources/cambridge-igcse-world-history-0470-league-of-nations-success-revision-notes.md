@@ -40,6 +40,11 @@ the [League of Nations practice questions](/resources/cambridge-igcse-world-hist
 | Permanent Court of International Justice | Could not enforce its rulings |
 | USA never joined; Germany 1926-33; USSR 1934-39 | Never had all the great powers at once |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-league-of-nations-success--01-collective-security.webp" width="900" height="557" alt="Three rising steps: moral condemnation, economic sanctions and, as a last resort, military action using members' own forces. A box notes the weak point: no army of its own and unanimous decisions, so every step depended on willing members." loading="lazy">
+  <figcaption>Collective security depended on members being willing to act.</figcaption>
+</figure>
+
 ## Membership dates
 
 | Country | Joined | Left |
@@ -49,6 +54,11 @@ the [League of Nations practice questions](/resources/cambridge-igcse-world-hist
 | Japan | Founder | 1933 |
 | USSR | 1934 | Expelled 1939 |
 | Italy | Founder | 1937 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-league-of-nations-success--02-membership.webp" width="900" height="651" alt="Bars on a 1920-1940 scale show membership: Britain and France throughout, Italy until 1937, Japan until 1933, Germany from 1926 to 1933, the USSR from 1934 until its expulsion in 1939, and the USA never." loading="lazy">
+  <figcaption>Only Britain and France were members throughout.</figcaption>
+</figure>
 
 ## The four disputes of the 1920s
 
@@ -61,6 +71,11 @@ the [League of Nations practice questions](/resources/cambridge-igcse-world-hist
 
 **The pattern:** success with small states; failure when a great power or a great power's ally was involved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-league-of-nations-success--03-disputes-1920s.webp" width="900" height="609" alt="A table of four disputes: Vilna (1920) a failure, the Aaland Islands (1920-21) a success, Corfu (1923) a failure, and Bulgaria (1925) a success. The pattern: success with smaller states, failure when a great power was involved." loading="lazy">
+  <figcaption>The League worked for small states, not against great powers.</figcaption>
+</figure>
+
 ## Humanitarian work
 
 | Area | Achievement | Limit |
@@ -69,6 +84,11 @@ the [League of Nations practice questions](/resources/cambridge-igcse-world-hist
 | Health | Fought epidemics such as typhus; work on malaria and leprosy; forerunner of the WHO | Depended on members' funding |
 | Working conditions | ILO recommendations on working hours and child labour | Many members did not adopt them |
 | Slavery | Slavery Commission; Slavery Convention (1926) | Forced labour continued in many colonies |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-league-of-nations-success--04-humanitarian.webp" width="900" height="592" alt="Four cards: Nansen's refugee work, the Health Organisation, the ILO (whose proposals many members did not adopt) and the Slavery Convention of 1926. A note: lasting, but not the League's main aim." loading="lazy">
+  <figcaption>Lasting achievements, but not in the League's main task of preventing war.</figcaption>
+</figure>
 
 ## The 1930s
 
@@ -81,6 +101,16 @@ the [League of Nations practice questions](/resources/cambridge-igcse-world-hist
 | Key failure | No sanctions; distance; no US involvement | Suez Canal left open; Hoare-Laval Pact (December 1935) |
 | Result | Manchukuo; Japan leaves League (1933) | Italy conquers Abyssinia (May 1936); sanctions dropped; Italy leaves (1937) |
 | Wider effect | League shown powerless against a great power | Collective security collapses; Rome-Berlin Axis; Rhineland remilitarised |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-league-of-nations-success--05-manchuria-abyssinia.webp" width="900" height="645" alt="A comparison of Manchuria (1931-33) and Abyssinia (1935-36) by cause, trigger, League action, outcome and wider effect. In Manchuria the Lytton Commission condemned Japan but no sanctions followed; in Abyssinia sanctions excluded oil, Suez stayed open and the Hoare-Laval Pact leaked. Both aggressors kept their gains." loading="lazy">
+  <figcaption>In both crises the League condemned the aggressor and the aggressor kept its gains.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-league-of-nations-success--06-usa-absence.webp" width="900" height="550" alt="A balance. In Manchuria, US absence mattered: sanctions were pointless while the USA kept trading with Japan. In Abyssinia it did not: Britain and France chose not to ban oil or close Suez. Judgement: the leading members' own interests mattered more." loading="lazy">
+  <figcaption>Abyssinia shows the League failed mainly through its own leading members.</figcaption>
+</figure>
 
 ## How the Depression made things harder
 

@@ -75,6 +75,16 @@ moisture, contains organic content and ions, drains excess water, and is easy to
 seasons** that control when crops can grow. Optimum photosynthesis and growth depend on the **length of
 the growing season**, **optimum weather conditions** and **daylight hours**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-land--08-land-ol-crop-needs-soil.webp" width="900" height="1000" alt="A cross-section shows a plant with roots in soil. Roots take in water and air (oxygen) from the gaps between particles, and mineral ions: nitrate NO3-, phosphate PO4 3- and potassium K+. Below, a pH strip runs from acidic through neutral to alkaline: most crops grow best close to neutral, and very acidic or alkaline soil limits growth." loading="lazy">
+  <figcaption>Roots take water, air and the ions nitrate, phosphate and potassium from soil; most crops grow best near neutral pH.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-land--09-land-ol-growing-season.webp" width="900" height="1010" alt="Three factors affect photosynthesis and crop growth: daylight hours, weather conditions and the length of the growing season. Illustrative monthly temperature and rainfall for a place with a wet season are plotted. A crop that needs at least 20 degrees Celsius and 100 millimetres of rain is suited only to June, July, August and September, a growing season of 4 months." loading="lazy">
+  <figcaption>An example climate graph shows which months meet a crop temperature and rainfall needs.</figcaption>
+</figure>
+
 ## 2.2 How is food produced and how can yields rise?
 
 **Types of agriculture**
@@ -111,6 +121,16 @@ ensure future generations can grow food from the same land.
 8. Monoculture and intensification → soil and water pollution, loss of biodiversity.
 9. Soil erosion → loss of topsoil and nutrients.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-land--10-land-ol-twelve-strategies.webp" width="900" height="1090" alt="Twelve strategies to increase food production and crop yield, each with a small picture: mixed cropping, intercropping and crop rotation; improved irrigation (drip, rainwater harvesting, automated); mechanisation; genetically modified organisms; controlled environments; managed grazing with livestock rotation; urban farming; agroforestry; inorganic NPK fertilisers; organic fertilisers (crop residue, manure, mulch); chemical pest control; and biological pest control." loading="lazy">
+  <figcaption>The twelve syllabus strategies for raising food production and crop yield.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-land--11-land-ol-eutrophication.webp" width="900" height="1110" alt="Five steps in order. 1: fertiliser leaches out of the field soil into a river. 2: the water is enriched with nutrients. 3: algae grow rapidly. 4: the algae die and bacteria decomposing them use up the oxygen in the water. 5: fish die." loading="lazy">
+  <figcaption>Eutrophication in order: leaching, nutrient enrichment, rapid algal growth, oxygen use-up, fish death.</figcaption>
+</figure>
+
 ## 2.3 Why does soil erode and how is it prevented?
 
 **Causes**: unsustainable farming; deforestation; farming on steep slopes; bare soil; wind and water.
@@ -127,6 +147,16 @@ habitats and biodiversity; lower crop yields; malnutrition and famine; displacem
 | Vegetation cover | Roots bind soil; plants absorb water and slow run-off |
 | Organic matter | Improves soil structure so it holds together |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-land--12-land-ol-erosion-causes-impacts.webp" width="900" height="1140" alt="Five causes of soil erosion lead to erosion of topsoil, shown as soil washed down a slope into a river: unsustainable farming, deforestation, farming on steep slopes, bare soil, and wind and water erosion. Seven impacts follow: silted rivers, desertification, mass movement such as landslides and mudslides, loss of habitats and biodiversity, lower crop yield, malnutrition and famine, and displacement of people." loading="lazy">
+  <figcaption>Five causes lead to soil erosion, which has seven impacts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-land--13-land-ol-erosion-strategies.webp" width="900" height="1060" alt="Six small cross-sections, each with the syllabus wording for how it works. Terracing reduces movement of soil and surface run-off. Contour ploughing reduces surface run-off. Bunds reduce surface run-off, wind speed and wind erosion. Wind breaks protect crops and reduce wind speed and wind erosion. Maintaining vegetation cover: roots bind the soil and vegetation slows run-off and absorbs water. Adding organic matter improves soil structure." loading="lazy">
+  <figcaption>Each strategy with the syllabus wording for how it reduces erosion.</figcaption>
+</figure>
+
 ## Worked example: matching strategy to problem
 
 A farmer on a 20° hillside in a region with heavy wet-season rain loses topsoil every year.
@@ -134,6 +164,11 @@ A farmer on a 20° hillside in a region with heavy wet-season rain loses topsoil
 - Problem: water erosion of bare soil on a steep slope.
 - Best strategies: terracing (reduces run-off on steep land) and keeping vegetation cover between crops.
 - Why not wind breaks? They target wind erosion, which is not the main problem here.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-land--14-land-ol-yield-fall-worked.webp" width="900" height="850" alt="A bar chart compares a maize yield of 5.0 tonnes per hectare at the start with 3.5 tonnes per hectare ten years later on a steep, cleared slope. The fall is 5.0 minus 3.5 equals 1.5 tonnes per hectare, and 1.5 divided by 5.0 times 100 gives a 30 percent fall. A cause is farming on a steep slope with bare soil, and a strategy is terracing." loading="lazy">
+  <figcaption>Worked example: a fall from 5.0 to 3.5 t/ha is 1.5 t/ha, which is 30%.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

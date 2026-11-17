@@ -55,6 +55,11 @@ Topic 16 has no numbered subtopics; the syllabus has one content row, "Create, l
 
 Include the **category labels** (for example the month names) with the data so they appear on the axis or legend.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-graphs-and-charts-study-guide--03-gc-total-trap.webp" width="900" height="990" alt="Two pies side by side. Selecting only the four categories gives four sectors. Selecting the Total row too makes the total of 300 a sector that is half of the pie, so the real categories look tiny." loading="lazy">
+  <figcaption>Why the Total row must not be selected.</figcaption>
+</figure>
+
 ## Which chart type should you choose?
 
 | Chart | Best for | Example |
@@ -65,6 +70,11 @@ Include the **category labels** (for example the month names) with the data so t
 | Comparative (multi-series) bar or line | Comparing two or more sets of data across the same categories | This year's and last year's sales by month |
 
 A pie chart only works with **one** data series.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-graphs-and-charts-study-guide--01-gc-choose-type.webp" width="900" height="890" alt="Four small charts (bar, line, pie, scatter) each with its best use. The bar chart compares categories, the line graph shows change over time, the pie shows parts of a whole, the scatter shows whether two sets are related." loading="lazy">
+  <figcaption>Which chart suits which data.</figcaption>
+</figure>
 
 ## Chart labels
 
@@ -82,15 +92,30 @@ A pie chart only works with **one** data series.
 
 A chart with **one** series usually does not need a legend; remove it if the task asks. Spell titles exactly as given.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-graphs-and-charts-study-guide--04-gc-labels.webp" width="900" height="930" alt="A line graph of noon temperatures in two rooms with numbered parts: chart title, axis titles with units, legend for two series, data labels, category labels and gridlines." loading="lazy">
+  <figcaption>The labels a chart should carry.</figcaption>
+</figure>
+
 ## Second data series and second axis
 
 - **Add a second data series** to compare, for example *Income* and *Costs* on the same chart.
 - **Add a second (secondary) value axis** when the two series have very different scales or units — for example rainfall in mm on the left axis and temperature in °C on the right axis. Each axis needs its own title. Combining a column chart and a line on the secondary axis makes the two series easy to tell apart.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-graphs-and-charts-study-guide--06-gc-describe-trend.webp" width="900" height="830" alt="The Room A and Room B temperature lines with the gap on each day shown. Room B is warmer on every day, 4 degrees on Monday and Friday, and both rooms rise to Wednesday then fall." loading="lazy">
+  <figcaption>Describing a trend with figures.</figcaption>
+</figure>
+
 ## Number formats and axis scale
 
 - Format axis or data labels to a **specified number of decimal places** (for example 1 dp) and with **currency symbols** (for example $ or €) as the task states.
 - Set the axis **minimum** and **maximum** values and the **increment** (major unit). Example: minimum 0, maximum 500, increment 50 gives marks 0, 50, 100 ... 500.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-graphs-and-charts-study-guide--05-gc-axis-zero.webp" width="900" height="730" alt="Two bar charts of the same three values, one with the axis starting at 0 and one at 50. The second makes the tallest bar look five times the shortest, which is misleading." loading="lazy">
+  <figcaption>Why a bar chart axis should start at zero.</figcaption>
+</figure>
 
 ## Enhancing a chart
 

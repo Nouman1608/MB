@@ -34,6 +34,11 @@ Condensed recall for section 1.3.5 of Unit 1. For explanations and worked exampl
 - **Intrapreneurship:** entrepreneurial innovation by employees inside an existing business, using its resources and with less personal risk.
 - **Anticipating risk and uncertainty:** research, plan, start small, test; keep reserves and flexibility because uncertainty cannot be removed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--01-entrepreneur-role.webp" width="900" height="770" alt="Three stages of the entrepreneur’s role: create and set up (spot a gap, test, raise finance), run the business (day-to-day decisions, often harder than start-up) and expand or develop (new products or markets, employ managers and delegate). Below, intrapreneurship: an employee innovating inside an existing firm, which gains innovation while the employee gains freedom with less risk." loading="lazy">
+  <figcaption>The role shifts from creating to running to delegating; intrapreneurs innovate from inside.</figcaption>
+</figure>
+
 ## Barriers to entrepreneurship
 
 | Barrier | Why it blocks a start-up |
@@ -44,9 +49,19 @@ Condensed recall for section 1.3.5 of Unit 1. For explanations and worked exampl
 | Established rivals | Brand loyalty and economies of scale make entry hard |
 | Personal risk | Savings and a secure salary are put at stake |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--02-barriers-and-risk.webp" width="900" height="700" alt="Five barriers to entrepreneurship: finance without a track record, lack of experience, regulations, established rivals with brand loyalty and scale, and personal financial risk. Risk is reduced by research, a business plan, starting small and testing; uncertainty cannot be removed, so entrepreneurs keep reserves and flexibility." loading="lazy">
+  <figcaption>Research and planning reduce risk; reserves and flexibility help with uncertainty.</figcaption>
+</figure>
+
 ## Characteristics and skills
 
 Characteristics: determination, resilience, calculated risk-taking, creativity, initiative, self-confidence. Skills: planning, communication, financial understanding, selling, team building. Always tie them to a situation in the source.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--03-characteristics-and-skills.webp" width="900" height="640" alt="Characteristics (determination and resilience, calculated risk-taking, creativity and initiative, self-confidence) and skills (planning, communication, financial understanding, selling, team building). Each should be linked to a case: resilience matters when early sales disappoint; communication matters when persuading a bank or supplier." loading="lazy">
+  <figcaption>Link a characteristic to the moment in the case when it matters.</figcaption>
+</figure>
 
 ## Motives
 
@@ -56,6 +71,11 @@ Characteristics: determination, resilience, calculated risk-taking, creativity, 
 | **Profit satisficing:** a satisfactory profit plus other goals | **Social entrepreneurship:** a business that tackles a social or environmental problem |
 | | **Independence:** be your own boss |
 | | **Home working:** work from home, often around family |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--04-entrepreneur-motives.webp" width="900" height="780" alt="Motives split into financial (profit maximisation and profit satisficing) and non-financial (ethical stance, social entrepreneurship, independence and home working). An owner who opens five days instead of seven to protect family time is satisficing, a rational choice." loading="lazy">
+  <figcaption>Not every owner maximises profit: many satisfice or have non-financial aims.</figcaption>
+</figure>
 
 ## Business objectives
 
@@ -72,6 +92,11 @@ Characteristics: determination, resilience, calculated risk-taking, creativity, 
 
 **What shapes the choice:** size and stage of development; ownership; market and economic conditions; leaders' values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--05-business-objectives.webp" width="900" height="786" alt="Survival comes first for a new business or one in crisis, then profit maximisation once established. Six other objectives can compete with profit: sales maximisation, market share, cost efficiency, employee welfare, customer satisfaction and social objectives. The choice depends on size and stage, ownership, the market and economy and leaders’ values." loading="lazy">
+  <figcaption>Objectives change with the business’s stage, and most compete with profit.</figcaption>
+</figure>
+
 ## Opportunity cost and trade-offs
 
 - **Opportunity cost:** the next best alternative given up.
@@ -79,6 +104,16 @@ Characteristics: determination, resilience, calculated risk-taking, creativity, 
 - Opportunity cost of starting a business = salary forgone + return forgone on savings invested (+ any other benefit given up).
 
 **Spotting a trade-off in a source:** look for two aims mentioned together, such as "grow quickly" and "keep prices low", or "pay staff well" and "raise profit". State what is gained, what is given up, and what would decide the choice, such as the stage of the business or the owner's motive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--06-amara-opportunity-cost.webp" width="900" height="799" alt="Amara gives up a $38,000 salary and $1,000 interest (4% on $25,000 savings), an opportunity cost of $39,000. Her studio makes $30,000 in year one, leaving her $9,000 worse off in money terms than staying employed." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up: here $39,000 against $30,000 profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders--07-kessington-trade-off.webp" width="900" height="879" alt="Two rectangles show contribution. Now: 200,000 litres × $0.40 ($1.20 − $0.80) = $80,000 a month. After a price cut to $1.10: 240,000 litres × $0.30 = $72,000. Sales rise 20% but contribution falls $8,000 a month." loading="lazy">
+  <figcaption>A wider, flatter rectangle: more litres, less contribution.</figcaption>
+</figure>
 
 ## Key terms
 

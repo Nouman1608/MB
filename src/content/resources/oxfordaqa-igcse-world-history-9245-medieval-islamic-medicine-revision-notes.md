@@ -46,6 +46,11 @@ featured: false
 | d. 1248 | Ibn al-Baytar, author of the *Compendium on Simple Medicaments* |
 | 1284 | Mansuri hospital, Cairo |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine--01-translation-movement.webp" width="900" height="645" alt="Greek, Persian and Indian medical texts flow into Baghdad's House of Wisdom, where they were translated into Arabic. The results: ancient knowledge preserved, three traditions combined, and ideas tested and added to. A note explains the role of trade routes and paper." loading="lazy">
+  <figcaption>Translation preserved, combined and improved knowledge from three continents.</figcaption>
+</figure>
+
 ## Who did what
 
 | Person | Known for |
@@ -59,6 +64,11 @@ featured: false
 | Al-Ruhawi | *Practical Ethics of the Physician* |
 | Gerard of Cremona | Translated Arabic medicine into Latin at Toledo |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine--02-physicians-who-is-who.webp" width="900" height="732" alt="Six figures with lifespan bars on a scale from 800 to 1300: Al-Kindi, Hunayn ibn Ishaq (died 873), Al-Razi, Al-Zahrawi, Ibn Sina and Ibn al-Baytar (died 1248), each with their main contribution." loading="lazy">
+  <figcaption>Al-Razi observed and questioned, Ibn Sina organised, Al-Zahrawi operated, Al-Kindi and Ibn al-Baytar advanced pharmacy.</figcaption>
+</figure>
+
 ## Bimaristans: five features
 
 1. Free care for all, funded by charitable endowments.
@@ -67,6 +77,11 @@ featured: false
 4. Teaching of students.
 5. Patient records.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine--03-bimaristan.webp" width="900" height="687" alt="Illustrative layout of a bimaristan with separate wards for fevers, eye diseases, surgery and mental illness, separate men's and women's wards, and a pharmacy, library, kitchen and teaching space, with free treatment and patient records. Below, a comparison with European religious hospitals." loading="lazy">
+  <figcaption>Bimaristans were centres of both care and learning.</figcaption>
+</figure>
+
 ## Public health
 
 - Ritual washing and public baths (*hammams*).
@@ -74,12 +89,22 @@ featured: false
 - Drains and waste removal in some cities.
 - Market inspectors (*muhtasib*) checking food, cleanliness and traders.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine--04-public-health.webp" width="900" height="422" alt="Four features of public health in Islamic cities: washing (ritual washing and public baths), water supply (aqueducts, qanats, wells, fountains), sanitation (drains and waste removal) and regulation by market inspectors." loading="lazy">
+  <figcaption>Religion, engineering and inspection together kept cities cleaner.</figcaption>
+</figure>
+
 ## Why this period mattered
 
 - **Preservation:** Greek, Persian and Indian knowledge kept and combined.
 - **Progress:** observation, questioning of Galen, new drugs and surgical tools.
 - **Institutions:** hospitals, licensing and organised pharmacy.
 - **Transmission:** to Europe via Spain, Sicily and Italy (Salerno, Montpellier); to Asia as Unani medicine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine--05-passing-knowledge-on.webp" width="900" height="649" alt="Arabic medical texts at the centre pass west to Europe through Spain, Sicily and southern Italy, translated by Constantine the African and Gerard of Cremona and used at Salerno and Montpellier, and east to Persia, Central Asia and India, where they became Unani medicine." loading="lazy">
+  <figcaption>Latin translations carried Islamic medicine into European universities; in Asia it became Unani medicine.</figcaption>
+</figure>
 
 ## Comparing with medieval Europe
 

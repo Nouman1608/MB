@@ -46,6 +46,11 @@ Only two disorders are named in this section: phobias and depression.
 
 **Jahoda's criteria:** positive attitude to the self, self-actualisation, resistance to stress, autonomy, accurate perception of reality, environmental mastery.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychopathology--01-definitions-of-abnormality.webp" width="900" height="635" alt="Four cards: statistical infrequency (rare, such as IQ below about 70; but high IQ is rare and desirable and depression is common), deviation from social norms (homosexuality listed as a disorder until 1973; norms vary), failure to function adequately (coping with daily life; someone must judge adequacy) and deviation from ideal mental health (Jahoda's criteria; most people fail several)." loading="lazy">
+  <figcaption>No single definition works alone, so clinicians combine them.</figcaption>
+</figure>
+
 ## Characteristics
 
 | | Phobias | Depression |
@@ -53,6 +58,11 @@ Only two disorders are named in this section: phobias and depression.
 | Behavioural | Avoidance; panic; endurance with distress | Changed activity; disrupted sleep and appetite; aggression or self-harm |
 | Emotional | Excessive, persistent fear and anxiety; disproportionate to danger | Low mood; loss of pleasure; worthlessness; anger |
 | Cognitive | Selective attention; irrational beliefs; insight that fear is excessive | Poor concentration; negative focus; absolutist thinking |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychopathology--02-characteristics.webp" width="900" height="469" alt="A three-by-two table. Phobias: avoidance and panic (behavioural), excessive fear out of proportion to danger (emotional), selective attention and irrational beliefs (cognitive). Depression: changed activity, sleep and appetite (behavioural), persistent low mood and loss of pleasure (emotional), poor concentration and absolutist thinking (cognitive)." loading="lazy">
+  <figcaption>Behavioural, emotional, cognitive: one structure for both disorders.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -88,6 +98,26 @@ Only two disorders are named in this section: phobias and depression.
 
 **CBT.** Identify negative thoughts (thought diaries); challenge them by testing against evidence (Beck) or disputing (Ellis); behavioural activation and homework; replace with balanced beliefs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychopathology--03-two-process-model.webp" width="900" height="849" alt="Acquisition: in Little Albert, a white rat (neutral stimulus) was paired with a loud noise (unconditioned stimulus) causing fear; after several pairings the rat alone caused fear, which generalised to other furry objects. Maintenance: avoiding the stimulus makes anxiety fall, negatively reinforcing avoidance in a loop, so the person never learns it is harmless. Evaluation covers exposure therapies, missing trauma, preparedness and ignored cognitions." loading="lazy">
+  <figcaption>Classical conditioning starts the fear; avoidance keeps it going.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychopathology--04-sd-v-flooding.webp" width="900" height="678" alt="Two columns. Systematic desensitisation: relaxation training, an anxiety hierarchy and gradual exposure, working by counterconditioning through reciprocal inhibition. Flooding: immediate, prolonged exposure to the most feared stimulus with no hierarchy and no escape, so anxiety falls and the association is extinguished. SD lets the patient control the pace; flooding is faster but traumatic." loading="lazy">
+  <figcaption>SD climbs a hierarchy relaxed; flooding goes straight to the top.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychopathology--05-beck-and-ellis.webp" width="900" height="853" alt="Beck's negative triad: negative self-schemas from childhood produce negative thoughts about the self (I am worthless), the world (everyone is against me) and the future (it will never get better), maintained by cognitive errors. Ellis's ABC: an activating event (failing an exam) leads to an irrational belief (I must succeed at everything), which causes the consequence, depression." loading="lazy">
+  <figcaption>Depression comes from how events are interpreted, not the events themselves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychopathology--06-cbt.webp" width="900" height="722" alt="Ellis's ABC extended to D, disputing irrational beliefs, and E, the effect of new rational beliefs. Disputing can be empirical (is it true?), logical (does it follow?) or pragmatic (does it help?). CBT also uses thought diaries, Beck's testing of thoughts against evidence and behavioural activation homework. March et al. (2007) found CBT about as effective as antidepressants after 36 weeks, with a combination best." loading="lazy">
+  <figcaption>Dispute the belief, test it against evidence, then live it out.</figcaption>
+</figure>
+
 ## Evaluation points
 
 - **Definitions:** each captures part of abnormality; all involve value judgements; culture-bound.
@@ -96,6 +126,11 @@ Only two disorders are named in this section: phobias and depression.
 - **Flooding:** fast and cheap, but traumatic; informed consent essential; some patients drop out.
 - **Cognitive explanation:** supported by evidence of negative biases; cause or effect is unclear; can blame the patient; neglects biology and circumstances.
 - **CBT:** March et al. (2007): about as effective as medication for adolescents after 36 weeks, combination best; needs motivation; severe cases may need medication first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-psychopathology--07-jonah-application.webp" width="900" height="606" alt="Six rows: acquisition (the lift paired with being trapped becomes a conditioned stimulus), maintenance (taking the stairs negatively reinforces avoidance), why it continues (he never learns lifts are safe), then three SD steps: relaxation, a hierarchy from a photo to riding alone, and moving up only when relaxed through reciprocal inhibition." loading="lazy">
+  <figcaption>Three points explaining the phobia, three applying SD, all tied to Jonah.</figcaption>
+</figure>
 
 ## Exam traps
 

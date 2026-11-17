@@ -51,6 +51,16 @@ Learning outcomes from the Cambridge IGCSE Computer Science 0478 syllabus for 20
 | Validation | Checks applied when data is entered, such as a range check on `Age` |
 | SQL | Structured query language, used to query data in the table |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--13-table-anatomy.webp" width="900" height="711" alt="The Book table with the Title column marked as a field, the third row marked as a record, and BookID marked as the primary key." loading="lazy">
+  <figcaption>Fields run down as columns, records run across as rows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--17-key-choice.webp" width="900" height="768" alt="BookID has five different values; Author repeats (N Okafor, L Brandt twice) and Year repeats (2016 twice), so only BookID suits a primary key." loading="lazy">
+  <figcaption>A primary key must be unique and never empty.</figcaption>
+</figure>
+
 ## Choosing data types
 
 | Data type | Use for | Example field |
@@ -63,6 +73,11 @@ Learning outcomes from the Cambridge IGCSE Computer Science 0478 syllabus for 20
 | Date/time | Dates or times | `JoinDate` |
 
 Phone numbers and ID codes with letters or leading zeros are **text**, not integer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--14-data-types.webp" width="900" height="920" alt="Five data types with example fields, plus a phone number stored as text keeping its leading zero but losing it as an integer." loading="lazy">
+  <figcaption>Choose the type that matches how the field is used.</figcaption>
+</figure>
 
 ## Sample table: Athlete
 
@@ -92,6 +107,16 @@ ORDER BY field ASC;
 - `SUM(field)` — add up a numeric field for the selected records
 - `COUNT(*)` — count the selected records
 - Text values go in single quotes: `WHERE Event = '100m'`. Numbers and Boolean values do not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--15-query-order.webp" width="900" height="1192" alt="The query is worked through: FROM Book, WHERE Year &gt; 2016 keeps three records, ORDER BY Year DESC sorts them, SELECT shows Author and Title. Output: three rows." loading="lazy">
+  <figcaption>Work in the order the database does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--16-where-matrix.webp" width="900" height="770" alt="Grid of five books against the conditions in queries (a) to (d), with counts and the stock total 29." loading="lazy">
+  <figcaption>Which records each WHERE condition keeps.</figcaption>
+</figure>
 
 ## Worked examples on the Athlete table
 

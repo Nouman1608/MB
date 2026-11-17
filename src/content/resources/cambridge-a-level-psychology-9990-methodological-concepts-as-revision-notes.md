@@ -37,6 +37,11 @@ featured: false
 
 Always fill the brackets with **operationalised** variables.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-methodological-concepts-as--01-hypotheses.webp" width="900" height="666" alt="The null hypothesis predicts no difference in names recalled by doodlers and non-doodlers. The alternative hypothesis predicts a difference and comes in two versions: directional (doodlers will recall more) and non-directional (there will be a difference). A note explains when to choose a directional hypothesis." loading="lazy">
+  <figcaption>Null says no difference; directional says which way; non-directional just says different.</figcaption>
+</figure>
+
 ## Variables and controls
 
 - **IV**: manipulated by the researcher. **DV**: measured.
@@ -45,6 +50,11 @@ Always fill the brackets with **operationalised** variables.
 - **Situational variables**: differences in the setting (noise, light, time of day).
 - **Uncontrolled variable**: any variable other than the IV that might affect the DV.
 - **Standardisation**: same instructions, materials, timing and setting for everyone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-methodological-concepts-as--02-caffeine-variables.webp" width="900" height="700" alt="The caffeine study's independent variable (200 ml of coffee or decaffeinated coffee 30 minutes before) and dependent variable (target letters crossed out in two minutes). Below, controls: the same time of day, no caffeine beforehand, and a standardised procedure. A note defines confounding." loading="lazy">
+  <figcaption>Define the IV and DV precisely, then hold everything else constant.</figcaption>
+</figure>
 
 ## Types of data
 
@@ -63,11 +73,21 @@ Always fill the brackets with **operationalised** variables.
 | Random | Equal chance from a full list | Most likely to be representative | Needs a full list; refusals | (Rare in the core studies) |
 | Volunteer | Respond to an advert | Reaches many willing people | Volunteer bias | Milgram (newspaper advert) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-methodological-concepts-as--03-sampling.webp" width="900" height="737" alt="Three panels each show a population of 40 dots with 8 picked. Opportunity sampling picks a cluster of whoever is available (quick, but unrepresentative); random sampling picks scattered dots (more representative, needs a full list); volunteer sampling picks those who respond to an advert (easy, but volunteers differ). A note covers generalisation." loading="lazy">
+  <figcaption>Opportunity is quick, random is fairest, volunteers may differ from everyone else.</figcaption>
+</figure>
+
 ## Ethics: two lists
 
 **Humans**: minimising harm (maximising benefit); valid and informed consent; right to withdraw; lack of deception; confidentiality; privacy; debriefing.
 
 **Animals**: minimising harm (maximising benefit); replacement; species; numbers; procedures (pain, suffering and distress; housing; reward, deprivation and aversive stimuli).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--17-ethics-two-sets.webp" width="900" height="870" alt="Human participants: minimising harm, consent, withdrawal, deception, confidentiality, privacy, debriefing. Animals: minimising harm, replacement, species, numbers, pain, housing, reward and deprivation." loading="lazy">
+  <figcaption>The two sets of ethical considerations.</figcaption>
+</figure>
 
 ## Validity and reliability
 
@@ -77,6 +97,11 @@ Always fill the brackets with **operationalised** variables.
 | Reliability | Is it consistent? | Inter-rater; inter-observer; test-retest |
 | Replicability | Can it be repeated exactly? | Standardised, fully described procedure |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--16-validity-vs-reliability.webp" width="900" height="950" alt="Three targets: reliable but not valid, valid but not reliable, valid and reliable. Below, the validity and reliability types named in the lesson." loading="lazy">
+  <figcaption>Validity is about measuring what is claimed; reliability is about consistency.</figcaption>
+</figure>
+
 ## Data analysis
 
 - **Mode**: most frequent score. **Median**: middle score in order. **Mean**: total divided by number of scores.
@@ -85,6 +110,16 @@ Always fill the brackets with **operationalised** variables.
 - Candidates will not be required to carry out calculations.
 
 Best average to choose: the mean uses every score but is distorted by extreme scores; the median is not affected by extremes; the mode is the only one for categories.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-methodological-concepts-as--04-central-tendency.webp" width="900" height="758" alt="Dot plots of the invented scores on a 0 to 10 scale. Doodling: 4, 5, 5, 6, 7, 8, 9, with mode 5, median 6, mean about 6.3 and range 5. Control: 3, 3, 4, 4, 4, 5, 6, with mode 4, median 4, mean about 4.1 and range 3." loading="lazy">
+  <figcaption>Doodlers scored higher on every average and their scores were more spread out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-methodological-concepts-as--05-graph-types.webp" width="900" height="597" alt="Three small graphs: a bar chart with gaps between bars for separate categories, a histogram with no gaps for the frequency of continuous data, and a scatter graph for the relationship between two co-variables. The shapes are illustrative." loading="lazy">
+  <figcaption>Bars with gaps for categories, no gaps for continuous data, points for relationships.</figcaption>
+</figure>
 
 ## Key terms
 

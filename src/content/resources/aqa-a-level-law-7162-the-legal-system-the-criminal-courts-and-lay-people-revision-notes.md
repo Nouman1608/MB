@@ -37,6 +37,11 @@ Charge -> first appearance in the magistrates' court (every adult case)
    Indictable-only offence .. sent to the Crown Court
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-criminal-courts-and-lay-people--01-classification-route.webp" width="900" height="687" alt="Every adult defendant first appears before magistrates. Summary offences (common assault, most driving offences) stay there; indictable-only offences (murder, manslaughter, robbery, s18) are sent to the Crown Court. For either-way offences (theft, s47, s20) the defendant indicates a plea: on a guilty plea magistrates sentence or commit for sentence; on a not-guilty plea, allocation decides suitability for summary trial, and even if accepted the defendant may elect jury trial." loading="lazy">
+  <figcaption>The class of offence decides the court; either-way defendants can elect a jury.</figcaption>
+</figure>
+
 ## Who hears appeals
 
 | From | Route | Who can use it | Ground |
@@ -49,6 +54,16 @@ Charge -> first appearance in the magistrates' court (every adult case)
 | Court of Appeal or Divisional Court | Supreme Court, with permission | Either side | Point of law of general public importance |
 
 The **Criminal Cases Review Commission** (Criminal Appeal Act 1995) can refer a case back after normal appeals are exhausted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-criminal-courts-and-lay-people--02-appeal-routes.webp" width="900" height="768" alt="Two appeal routes. From the magistrates’ court, the defendant may appeal to the Crown Court by rehearing or against sentence, and either side may appeal by case stated on law to the High Court, then to the Supreme Court. From the Crown Court, the defendant appeals with leave to the Court of Appeal (Criminal Division), which quashes only unsafe convictions, then to the Supreme Court on a point of law of general public importance." loading="lazy">
+  <figcaption>Magistrates’ appeals go to the Crown Court or High Court; Crown Court appeals go to the Court of Appeal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-criminal-courts-and-lay-people--03-prosecution-ccrc.webp" width="900" height="381" alt="Four routes after the verdict. The Attorney General may refer a point of law after an acquittal, which still stands, or an unduly lenient sentence. Part 10 of the Criminal Justice Act 2003 allows a retrial for a serious offence on new and compelling evidence, as in R v Dobson. The Criminal Cases Review Commission can refer a case back after normal appeals fail." loading="lazy">
+  <figcaption>The prosecution’s rights are narrow; the CCRC is the safety net for defendants.</figcaption>
+</figure>
 
 ## Sentencing adult offenders
 
@@ -65,6 +80,16 @@ The **Criminal Cases Review Commission** (Criminal Appeal Act 1995) can refer a 
 
 **Court powers:** magistrates have a limited custodial power fixed by statute (check the current limit for either-way offences) and can commit to the Crown Court for sentence; the Crown Court can impose up to the statutory maximum; murder carries a mandatory life sentence with a judge-set minimum term.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-criminal-courts-and-lay-people--04-sentencing-purposes.webp" width="900" height="536" alt="Five purposes the court must have regard to when sentencing adults, under section 57 of the Sentencing Act 2020: punishment, reduction of crime including by deterrence, reform and rehabilitation, protection of the public, and reparation to persons affected by the offence." loading="lazy">
+  <figcaption>Sentencing serves five purposes, which can pull in different directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-criminal-courts-and-lay-people--05-sentencing-steps.webp" width="900" height="769" alt="Four steps in sentencing: assess culpability and harm to find a starting point and range; adjust for aggravating factors such as previous convictions; adjust for mitigating factors such as remorse; give credit for a guilty plea of up to one third. Sentence types range from custody to discharges. Magistrates have limited custodial powers; the Crown Court can sentence up to the statutory maximum." loading="lazy">
+  <figcaption>Culpability and harm set the starting point; factors and plea credit move it.</figcaption>
+</figure>
+
 ## Magistrates at a glance
 
 | | Lay magistrates (JPs) | District judges (magistrates' courts) |
@@ -76,6 +101,11 @@ The **Criminal Cases Review Commission** (Criminal Appeal Act 1995) can refer a 
 
 **Lay magistrates' criminal work:** summary trials and sentencing; bail and remand; allocation; sending indictable cases; warrants; Crown Court appeals sitting with a judge; youth court after further training. The legal adviser must not join in the decision on guilt or sentence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-criminal-courts-and-lay-people--06-magistrates.webp" width="900" height="606" alt="Lay magistrates are unpaid volunteers without legal qualifications who sit in benches of two or three; district judges (magistrates’ courts) are paid lawyers who sit alone. Lay magistrates try summary and either-way cases, handle preliminary matters such as bail and allocation, issue warrants, sit on Crown Court appeals and in the youth court. A legal adviser advises on law but takes no part in decisions." loading="lazy">
+  <figcaption>Lay magistrates decide verdict and sentence, with a legal adviser on the law.</figcaption>
+</figure>
+
 ## Juries at a glance
 
 - **Qualification (Juries Act 1974):** 18–75; on the electoral register; resident in the UK for five years since age 13; not disqualified.
@@ -85,6 +115,11 @@ The **Criminal Cases Review Commission** (Criminal Appeal Act 1995) can refer a 
 - **Police and lawyers as jurors:** allowed since 2003, but see *R v Abdroikov* (2007) and *Hanif and Khan v UK* (2011).
 - **Secrecy:** *R v Mirza* (2004); offences of juror research and disclosure added by the Criminal Justice and Courts Act 2015.
 - **Judge-alone trial for jury tampering:** s44 Criminal Justice Act 2003; *R v Twomey* (2009).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-the-criminal-courts-and-lay-people--07-judge-and-jury.webp" width="900" height="584" alt="In the Crown Court a jury of 12 decides guilty or not guilty, while the judge rules on law and evidence, sums up, directs the jury and sentences; the judge may direct an acquittal but never a conviction (R v Wang). Jurors must be 18 to 75, registered and resident for five years since 13. A unanimous verdict is sought first; after two hours a majority of 11–1 or 10–2 may be accepted." loading="lazy">
+  <figcaption>The jury decides the facts and verdict; the judge decides the law and sentence.</figcaption>
+</figure>
 
 ## Key terms
 

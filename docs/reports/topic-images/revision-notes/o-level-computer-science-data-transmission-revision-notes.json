@@ -1,0 +1,9 @@
+{ "page": "o-level-computer-science-data-transmission-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/o-level-cambridge-computer-science-data-transmission--01-packet-structure.webp", "after": "## Packets — the sequence to narrate" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-computer-science-data-transmission--02-packet-switching.webp", "after": "## Packets — the sequence to narrate" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-computer-science-data-transmission--03-serial-parallel.webp", "after": "## Transmission methods, side by side" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-computer-science-data-transmission--04-simplex-duplex.webp", "after": "## Transmission methods, side by side" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-computer-science-data-transmission--05-parity-check.webp", "after": "## Error detection — keep each method distinct" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-computer-science-data-transmission--06-arq.webp", "after": "## Error detection — keep each method distinct" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-computer-science-data-transmission--07-encryption.webp", "after": "## Encryption — one precise distinction" }
+] }

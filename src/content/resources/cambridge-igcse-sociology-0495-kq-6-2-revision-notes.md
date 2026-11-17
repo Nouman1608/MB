@@ -36,6 +36,16 @@ For each pattern, ask: **real difference in offending**, or **difference in bein
 | Men offend more | Culture of masculinity; less control | Chivalry thesis: women's crime under-recorded |
 | Some minority groups over-represented | Relative deprivation; gang culture | Institutional racism; stop and search; stereotyping |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--01-two-questions.webp" width="900" height="611" alt="A group over-represented in crime statistics raises two questions: do they commit more crime (strain, status frustration, relative deprivation, masculinity) or are they more likely to be caught, recorded and punished (police targeting, labelling, institutional racism, chivalry, white-collar crime handled outside courts)?" loading="lazy">
+  <figcaption>Separate offending from being caught and recorded.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--02-patterns.webp" width="900" height="555" alt="Patterns of recorded offending and victimisation by age, social class, gender and ethnicity, described in words." loading="lazy">
+  <figcaption>Each group has a pattern of offending and a pattern of victimisation.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -62,6 +72,16 @@ For each pattern, ask: **real difference in offending**, or **difference in bein
 - **Feminism**: Heidensohn (1985) control of women; Carlen (1988) class and gender deals; Pollak (1950) chivalry; women as victims.
 - **Postmodernism**: no single explanation; consumer desires; new crimes (cyber, hate); excitement and emotion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--04-labelling-amplification.webp" width="900" height="808" alt="Primary deviance becomes secondary deviance once a label, possibly a master status, is applied. Below, Stanley Cohen’s deviancy amplification spiral: media exaggeration creates folk devils, public concern, tougher control and more deviance, which the media report." loading="lazy">
+  <figcaption>Labels and media reactions can create the deviance they condemn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--05-gender-and-crime.webp" width="900" height="663" alt="Carlen’s class deal and gender deal: women who gain the rewards of paid work and family life conform, while those who gain from neither are more likely to offend. Below, Heidensohn on tighter control of women, Pollak’s chivalry thesis and Messerschmidt on accomplishing masculinity." loading="lazy">
+  <figcaption>Control, deals, leniency and masculinity all help explain the gap.</figcaption>
+</figure>
+
 ## Merton's five adaptations
 
 | Adaptation | Goals | Means | Example |
@@ -72,6 +92,11 @@ For each pattern, ask: **real difference in offending**, or **difference in bein
 | Retreatism | Reject | Reject | Dropping out through addiction |
 | Rebellion | Replace | Replace | Revolutionary political movements |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--03-merton-strain.webp" width="900" height="574" alt="Society values goals such as wealth but blocks legitimate means for some, creating strain. People adapt in five ways: conformity, innovation, ritualism, retreatism and rebellion. Innovation, using crime to reach the goal, is the adaptation that explains crime." loading="lazy">
+  <figcaption>Innovation is the adaptation that leads to crime.</figcaption>
+</figure>
+
 ## Evaluation shortcuts (6.2.7)
 
 - **Age**: strong evidence of police targeting, but young people also report more offending in self-report studies.
@@ -79,6 +104,11 @@ For each pattern, ask: **real difference in offending**, or **difference in bein
 - **Gender**: control theory explains much; chivalry may be outdated or apply only to "respectable" women.
 - **Ethnicity**: discrimination in the system is well documented; deprivation and area also matter; ethnicity alone explains little.
 - **Theories**: functionalist strain ignores crimes of the powerful; labelling ignores first causes and victims; Marxism neglects gender and working-class victims; feminism may generalise; postmodernism struggles with persistent patterns.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--06-theories-evaluated.webp" width="900" height="550" alt="A table of five theories of crime with a key idea, strength and limitation each: functionalism, interactionism, Marxism, feminism and postmodernism." loading="lazy">
+  <figcaption>Every theory explains some patterns and misses others.</figcaption>
+</figure>
 
 ## Exam traps
 

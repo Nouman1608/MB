@@ -31,6 +31,11 @@ For full explanations, read the [criminal and deviant behaviour study guide](/re
 
 Does it show who **commits** crime, or who is **policed, recorded and convicted**? Official statistics show the second.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criminal-and-deviant-behaviour--01-committing-vs-recorded.webp" width="900" height="692" alt="A narrowing funnel from everyone who commits crime, to those caught, recorded by police and convicted. Official statistics measure the lower stages. Below, three reasons a group can appear more often: it offends more, it is policed more, or both." loading="lazy">
+  <figcaption>Official statistics show who is caught and recorded, not simply who offends.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -60,11 +65,31 @@ Does it show who **commits** crime, or who is **policed, recorded and convicted*
 | Ethnicity | Black people over-represented in stop and search and prison | Deprivation; area effects | Macpherson Report (1999): institutional racism in the Metropolitan Police; labelling; media stereotypes |
 | Age | Peaks in late teens and early twenties | Visibility; peers; less to lose; risk-taking | Young people more visible to police, so more likely to be recorded |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criminal-and-deviant-behaviour--02-class-explanations.webp" width="900" height="458" alt="Two panels. Explanations of more working-class offending: Merton’s blocked opportunities, Albert Cohen’s status frustration and material deprivation. Explanations of how recording skews the pattern: interactionist labelling by police, and Marxist arguments that white collar and corporate crime are under-represented." loading="lazy">
+  <figcaption>Some explanations say the working class offend more; others say they are simply recorded more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criminal-and-deviant-behaviour--04-gender-explanations.webp" width="900" height="489" alt="Three cards. Heidensohn: patriarchal societies control women more at home, in public and at work. Socialisation: boys are encouraged to take risks, girls to be careful. Pollak’s chivalry thesis: the justice system treats women more leniently, though critics say women who break gender norms are treated more harshly." loading="lazy">
+  <figcaption>Two explanations are about offending; the chivalry thesis is about recording.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criminal-and-deviant-behaviour--06-ethnicity-and-age.webp" width="900" height="654" alt="Left: some minority groups, particularly Black people, are over-represented in stop and search, arrest and prison; explanations are discrimination and labelling (the Macpherson Report), deprivation and media stereotypes. Right: a schematic curve of recorded offending peaking in the late teens and early twenties, with reasons such as visibility, peer pressure and having less to lose." loading="lazy">
+  <figcaption>For ethnicity and age, ask whether the pattern reflects offending, policing, or both.</figcaption>
+</figure>
+
 ## Albert Cohen (*Delinquent Boys*, 1955): the chain
 
 Functionalist. Working-class boys share mainstream goals → educational failure (cultural deprivation) and poor job prospects → stuck at the bottom → **status frustration** → **delinquent subculture** valuing stealing, vandalism, truancy → prestige from peers for success by the subculture's values.
 
 **Criticism:** youths may reject mainstream goals and act from resentment towards those whose values they do not share, such as teachers and middle-class pupils.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criminal-and-deviant-behaviour--03-albert-cohen.webp" width="900" height="1035" alt="Five steps: working-class boys share mainstream success goals; educational failure and poor job prospects block them; they suffer status frustration; they join a delinquent subculture valuing stealing, vandalism and truancy; success in it brings prestige. Below, a strength and a criticism." loading="lazy">
+  <figcaption>For Albert Cohen, the subculture gives blocked boys another way to win status.</figcaption>
+</figure>
 
 ## Carlen (*Women, Crime and Poverty*, 1988): the deals
 
@@ -75,6 +100,11 @@ Feminist; **unstructured interviews** with **39** mostly working-class women age
 - When the rewards are unavailable or illusory → crime becomes a **viable alternative**.
 
 **Evaluation:** small sample, but supports the view that crime rises when social control breaks down.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-criminal-and-deviant-behaviour--05-carlen-deals.webp" width="900" height="855" alt="Carlen interviewed 39 convicted women and used control theory. In the class deal women give wage labour for consumer goods; in the gender deal they give love and domestic labour for psychological and material rewards from a male breadwinner. When the rewards are unavailable, through poverty, unemployment, abuse or care, crime becomes a viable alternative." loading="lazy">
+  <figcaption>When the class and gender deals fail, crime becomes a rational choice.</figcaption>
+</figure>
 
 ## The five public debates
 

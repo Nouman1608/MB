@@ -65,6 +65,11 @@ Full explanations and examples are in the
 | **Underclass** | New Right term for a group said to depend on welfare and live outside mainstream values |
 | **Dependency culture** | The idea that people come to rely on benefits and lose self-reliance |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-2--01-progressive-tax.webp" width="900" height="639" alt="Two income bars with invented rates: 10% on the first 20,000 and 40% above that. A person earning 20,000 pays 2,000, or 10%; a person earning 100,000 pays 34,000, or 34%. A progressive tax takes a higher percentage as income rises; a regressive tax takes a larger share from the poor." loading="lazy">
+  <figcaption>Progressive means a higher percentage, not just more money.</figcaption>
+</figure>
+
 ## Examples to quote
 
 - **Minimum wage:** UK National Minimum Wage, 1999.
@@ -73,6 +78,11 @@ Full explanations and examples are in the
 - **Cash transfers:** Mexico's *Progresa*, 1997.
 - **Near-universal payment:** Alaska Permanent Fund Dividend, since 1982.
 - **NGOs:** Oxfam (1942); Save the Children (1919).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-2--03-laws-against-inequality.webp" width="900" height="476" alt="Legal measures: the UK minimum wage of 1999, with arguments for and against; equal opportunities laws such as the Equal Pay Act 1970, the Equality Act 2010 and Indian reservations; and conditional cash transfers such as Mexico’s Progresa, plus affirmative action, job creation and subsidies." loading="lazy">
+  <figcaption>Laws can set a pay floor, ban discrimination and reward families for meeting goals.</figcaption>
+</figure>
 
 ## How each measure works
 
@@ -86,6 +96,21 @@ Full explanations and examples are in the
 - **UBI** removes the poverty trap because the payment is not withdrawn when people earn.
 - **NGOs** reach people governments fail to reach; microfinance builds income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-2--02-redistribution.webp" width="900" height="410" alt="Taxes flow from higher-income groups to the government, which pays out benefits and services such as child benefits, disability payments and housing support to lower-income groups." loading="lazy">
+  <figcaption>Redistribution takes more from the top and gives to the bottom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-2--04-welfare-state.webp" width="900" height="744" alt="Welfare provision across life: free education in childhood, unemployment benefits at working age and pensions in old age, plus free healthcare, low-cost housing and universal basic income throughout, each with a benefit and a limit. Provision can be universal or means-tested." loading="lazy">
+  <figcaption>Each provision improves life chances, but each has limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-2--05-ngo-work.webp" width="900" height="528" alt="Four kinds of NGO work: reducing poverty (Oxfam), medical assistance (vaccination, clinics, clean water), promoting business through microfinance, and improving education (Save the Children). A note lists criticisms of NGOs." loading="lazy">
+  <figcaption>NGOs reduce poverty, provide medical help, promote business and improve education.</figcaption>
+</figure>
+
 ## The debate on success
 
 | Perspective | Verdict | Key names |
@@ -98,6 +123,11 @@ Full explanations and examples are in the
 
 **Balance:** absolute deprivation has fallen in many societies; relative and wealth inequality often
 remain wide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-2--06-views-of-success.webp" width="900" height="577" alt="The New Right say welfare does too much and creates dependency; Marxists say it does too little and leaves ownership unchanged. Below are the culture of poverty, feminist criticisms of equality laws and criticisms of NGOs. Overall, absolute deprivation has fallen but relative inequality remains." loading="lazy">
+  <figcaption>The New Right say welfare does too much; Marxists say too little.</figcaption>
+</figure>
 
 ## Exam traps
 

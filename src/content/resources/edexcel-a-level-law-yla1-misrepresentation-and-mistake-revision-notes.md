@@ -41,6 +41,11 @@ An **untrue statement of fact** → made by a party → **before or at** the con
 | No reliance | Relied on own investigation | *Attwood v Small* (1838) |
 | Reliance despite chance to check | Still relied | *Redgrave v Hurd* (1881) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--02-misrepresentation-elements.webp" width="900" height="546" alt="A misrepresentation is an untrue statement of fact that induces the contract. 1: a statement, by words or conduct (Spice Girls); silence generally is not (Fletcher v Krell) except half-truths, changed circumstances and utmost good faith. 2: of fact, not opinion (Bisset v Wilkinson), though expert opinion (Esso v Mardon) and lies about present intention (Edgington) count. 3: inducement: no reliance after the claimant’s own check (Attwood v Small), but failing to check does not matter (Redgrave v Hurd)." loading="lazy">
+  <figcaption>Test each element with a case: statement, fact, inducement.</figcaption>
+</figure>
+
 ## Types and remedies
 
 | Type | Key point | Remedy |
@@ -53,12 +58,27 @@ An **untrue statement of fact** → made by a party → **before or at** the con
 - **s 3 MA 1967**: exclusion of liability for misrepresentation must be reasonable (UCTA test).
 - **1945 Act**: damages can be reduced for the claimant's own fault in a s 2(1) claim (*Gran Gelato v Richcliff* [1992]); **never** in fraud (*Standard Chartered v PNSC* [2002]).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--03-types-and-remedies.webp" width="900" height="787" alt="Fraudulent misrepresentation (Derry v Peek) gives rescission and damages in deceit for all direct losses (Doyle v Olby). Negligent misrepresentation under s 2(1) gives rescission and damages measured as if fraudulent (Royscot), and the maker must prove reasonable belief (Howard Marine v Ogden). Negligent misstatement at common law (Hedley Byrne) gives damages in tort. Innocent misrepresentation gives rescission, or damages instead under s 2(2). Section 3 subjects exclusion clauses to the UCTA reasonableness test." loading="lazy">
+  <figcaption>The type decides the remedy; s 2(1) puts the burden on the maker of the statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--05-contributory-negligence.webp" width="900" height="438" alt="Under the 1945 Act damages can be reduced where the claimant was partly at fault. Damages under s 2(1) can in principle be reduced where the defendant was also liable in negligence (Gran Gelato v Richcliff, though no reduction was made), but contributory negligence is no defence to fraud (Standard Chartered v Pakistan National Shipping)." loading="lazy">
+  <figcaption>A careless claimant may lose some damages for negligent misrepresentation, never for fraud.</figcaption>
+</figure>
+
 ## Bars to rescission
 
 1. **Affirmation**: *Long v Lloyd* [1958].
 2. **Lapse of time**: *Leaf v International Galleries* [1950].
 3. **Restitution impossible**: *Clarke v Dickson* (1858).
 4. **Third-party rights** acquired in good faith for value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--04-rescission-bars.webp" width="900" height="592" alt="Rescission sets the contract aside and restores the parties, but as an equitable remedy it is lost by affirmation (Long v Lloyd), undue delay (Leaf v International Galleries), impossibility of restitution (Clarke v Dickson), or an innocent third party acquiring rights for value." loading="lazy">
+  <figcaption>Rescission is lost by affirming, delaying, being unable to give back, or third-party rights.</figcaption>
+</figure>
 
 ## Mistake map
 
@@ -80,6 +100,16 @@ Unilateral (one mistaken, other knows)
                                         Ingram v Little)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--06-three-kinds-of-mistake.webp" width="900" height="695" alt="Common mistake: both parties make the same mistake, operative for non-existent subject matter (Couturier v Hastie) or res sua (Cooper v Phibbs) but almost never for quality (Bell v Lever Bros; Great Peace). Mutual mistake: cross-purposes, as with the two ships Peerless (Raffles v Wichelhaus) and hemp or tow (Scriven v Hindley). Unilateral mistake: one party is mistaken and the other knows, as to terms (Hartog v Colin and Shields) or identity, void in writing (Cundy v Lindsay; Shogun) but voidable face to face (Phillips v Brooks; Lewis v Averay)." loading="lazy">
+  <figcaption>Same mistake, cross-purposes, or one side mistaken and the other aware.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--07-mistake-as-to-identity.webp" width="900" height="560" alt="When a rogue uses a false identity, a written contract is usually void because the named party’s identity is vital (Cundy v Lindsay; Shogun Finance v Hudson). Face to face, the seller is presumed to deal with the person in front of them, so the contract is only voidable (Phillips v Brooks; Lewis v Averay), with Ingram v Little treated as exceptional." loading="lazy">
+  <figcaption>In writing, identity is vital and the contract is void; face to face, it is only voidable.</figcaption>
+</figure>
+
 ## Void versus voidable
 
 | | Void | Voidable |
@@ -87,6 +117,11 @@ Unilateral (one mistaken, other knows)
 | Effect | No contract from the start | Valid until rescinded |
 | Typical cause | Operative mistake | Misrepresentation |
 | Third party who bought in good faith | Gets no title | Keeps the goods if they bought before rescission |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-misrepresentation-and-mistake--01-voidable-or-void.webp" width="900" height="556" alt="Misrepresentation makes a contract voidable: it stands until the innocent party chooses to set it aside. An operative mistake usually makes it void: it was never a contract. The difference matters most when goods have been sold on to an innocent third party." loading="lazy">
+  <figcaption>Misrepresentation: voidable. Operative mistake: void.</figcaption>
+</figure>
 
 ## Model evaluation paragraph
 

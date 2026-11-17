@@ -42,6 +42,16 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-structured-programming/)
 4. Pass results **out** through **return values**.
 5. Keep working data in **local variables** and **document each interface**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--01-module-anatomy.webp" width="900" height="650" alt="A module carries out one clearly defined task. Data goes in through parameters and the result comes out as a return value; working data is kept in local variables that nothing else can see or change; and the interface is documented. The main program becomes a short sequence of calls to modules." loading="lazy">
+  <figcaption>Modules with one task, parameters in, a return value out, local variables inside and a documented interface.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--02-library-structure-chart.webp" width="900" height="560" alt="A structure chart. The main program shows a menu and calls LoanBook, ReturnBook or ShowOverdue. LoanBook uses IsMemberValid and IsBookAvailable, which return True or False; ReturnBook uses DaysLate, which returns an integer, and Fine, which returns a real." loading="lazy">
+  <figcaption>Decomposition: each sub-problem becomes a small module with one job.</figcaption>
+</figure>
+
 ## What an interface documents
 
 | Part | Example for `Fine(daysLate)` |
@@ -53,6 +63,11 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-structured-programming/)
 
 A programmer should be able to **use** a module from its interface alone, without reading the code.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--03-documented-interface.webp" width="900" height="612" alt="The comment block for the Fine subroutine gives its name, what it does, its parameter daysLate (integer, days after the due date) and its return value (real, the fine in dollars, 0.0 if not late). Treated as a black box, Fine(8) returns 2.0 without the caller reading its code." loading="lazy">
+  <figcaption>The interface tells a caller everything needed to use a module without reading its code.</figcaption>
+</figure>
+
 ## Local variables
 
 | Local variable | Program-wide (global) variable |
@@ -61,6 +76,11 @@ A programmer should be able to **use** a module from its interface alone, withou
 | Exists only while the subroutine runs | Exists for the whole run |
 | Only that subroutine can use or change it | Any part of the program can change it |
 | Same name can be reused in other subroutines safely | A change in one place can break another |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--04-local-variables.webp" width="900" height="680" alt="The main program and SumArray each have their own variable called total; SumArray’s total and i are local and are discarded when it finishes, so they do not interfere. Below, if subroutines A and B share one program-wide counter i and A calls B inside its loop, B changes i and breaks A’s loop." loading="lazy">
+  <figcaption>Local variables stop one module accidentally changing another module’s data.</figcaption>
+</figure>
 
 ## Advantages, with reasons
 
@@ -72,6 +92,11 @@ A programmer should be able to **use** a module from its interface alone, withou
 | Reuse | A documented module can be used in other programs |
 | Teamwork | Programmers work on separate modules using agreed interfaces |
 | Fewer unintended effects | Local variables cannot be changed by other modules |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--06-features-to-advantages.webp" width="900" height="668" alt="Three features linked to six advantages. Modules with one job make a program easier to understand, easier to test and debug, and suit team development. Documented interfaces make it easier to maintain, allow reuse and let a team rely on agreed interfaces. Local variables mean fewer side effects." loading="lazy">
+  <figcaption>For each advantage, say which feature causes it and what it allows or prevents.</figcaption>
+</figure>
 
 ## Model description (4 points)
 
@@ -94,6 +119,11 @@ OUTPUT Area(3.5, 2.0)            -- 7.0
 
 The comment documents the interface; `result` is local; data enters through parameters and leaves through the
 return value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-structured-programming--05-restructuring-marks.webp" width="900" height="690" alt="Before, input checking, adding and averaging are mixed in one block. After, input checking lives in GetMark, which asks until a mark from 0 to 100 is entered and returns it, and Mean returns total / count; the main program just loops NumMarks times adding GetMark() and outputs Mean(sum, NumMarks). GetMark can be tested alone with −1, 0, 100 and 101." loading="lazy">
+  <figcaption>Pull each job into its own module and the main program becomes a readable plan.</figcaption>
+</figure>
 
 ## Key terms
 

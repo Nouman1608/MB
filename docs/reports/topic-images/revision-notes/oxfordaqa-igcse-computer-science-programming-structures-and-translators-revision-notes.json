@@ -1,0 +1,10 @@
+{ "page": "oxfordaqa-igcse-computer-science-programming-structures-and-translators-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--01-cs-arrays-1d-2d.webp", "after": "## Data structures (3.2.6)"},
+ {"src": "https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--02-cs-records.webp", "after": "## Data structures (3.2.6)"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--04-reading-a-file.webp", "after": "## Input/output and files (3.2.7)"},
+ {"src": "https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--03-cs-string-handling.webp", "after": "## String handling (3.2.8)"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--01-inclusive-ranges.webp", "after": "## Random numbers (3.2.9)"},
+ {"src": "https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--04-cs-subroutine-parameters-return.webp", "after": "## Subroutines and structured programming (3.2.10–3.2.11)"},
+ {"src": "https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--05-cs-rating-test-data.webp", "after": "## Robust and secure programming (3.2.12)"},
+ {"src": "https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--06-cs-translators.webp", "after": "## Languages and translators (3.2.13)"}
+] }

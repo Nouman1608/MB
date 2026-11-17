@@ -68,11 +68,26 @@ The specification (4.1.1.3 to 4.1.1.5) lists these operations:
 
 **Rounding vs truncation:** 7.68 rounded to 1 decimal place is 7.7; truncated to 1 decimal place it is 7.6 (the extra digits are simply cut off).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--10-prog-div-mod-truncate.webp" width="900" height="750" alt="Seventeen items shared into groups of five give three whole groups (17 DIV 5 = 3) with two left over (17 MOD 5 = 2). On a number line from 3 to 4, 3.9 truncates to 3 but rounds to 4." loading="lazy">
+  <figcaption>DIV counts whole groups, MOD is what is left, and truncation drops the fraction without rounding.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--09-prog-while-repeat.webp" width="900" height="750" alt="Two flowcharts. WHILE tests the condition before the body, so if the condition is already false the body runs zero times. REPEAT UNTIL runs the body first and tests after, so it always runs at least once; with count starting at 10 the body runs once." loading="lazy">
+  <figcaption>WHILE may run its body zero times; REPEAT UNTIL always runs it at least once.</figcaption>
+</figure>
+
 ## String handling, random numbers and exceptions
 
 - **String operations (4.1.1.7):** length, position (where a substring first occurs), substring, concatenation, character to character code, character code to character, and conversions: string to integer, string to float, integer to string, float to string, date/time to string, string to date/time.
 - **Random number generation (4.1.1.8):** a library function returns a pseudo-random number, for example an integer between 1 and 6 to simulate a die.
 - **Exception handling (4.1.1.9):** code that might fail at run time (opening a missing file, converting "abc" to an integer, dividing by zero) is placed in a protected block; if an exception is raised, control passes to a handler that deals with it instead of the program crashing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--08-prog-exceptions.webp" width="900" height="780" alt="Two paths when converting the text &quot;abc&quot; to an integer fails. With TRY ... EXCEPT the error is caught, the EXCEPT block reports it, asks again or uses a default, and the program carries on. With no handler the program crashes." loading="lazy">
+  <figcaption>An exception handler lets a program recover instead of crashing.</figcaption>
+</figure>
 
 ## Subroutines
 
@@ -89,6 +104,11 @@ The specification (4.1.1.3 to 4.1.1.5) lists these operations:
 
 **Structured (procedural) approach (4.1.2.2):** the program is designed top-down as a hierarchy of subroutines, drawn as a **hierarchy chart**. Advantages: each module is small and easier to write, test and debug; modules can be reused and shared among programmers; the program is easier to maintain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--11-prog-pass-value-reference.webp" width="900" height="1005" alt="Pass by value sends a copy: the procedure doubles its copy n to 10 and x in main stays 5. Pass by reference sends the address: n points at x, so doubling n changes x to 10." loading="lazy">
+  <figcaption>By value, the original is safe; by reference, the original is changed.</figcaption>
+</figure>
+
 ## Recursion
 
 A subroutine that calls itself. It must have a **base case** that stops the recursion, and each call must move towards it. Without a base case the **call stack** overflows.
@@ -100,6 +120,11 @@ factorial(n):
 ```
 
 Recursion is elegant and natural for tree traversal, but uses more memory than iteration because every unfinished call remains on the stack.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--12-prog-stack-frames.webp" width="900" height="1180" alt="A call stack for fact(3) with frames for fact(3), fact(2) and fact(1) above main; each frame stores a return address, a parameter and a local variable. The base case returns 1, then 2, then 6, popping frames. Without a base case, frames pile up beyond the stack limit and cause a stack overflow." loading="lazy">
+  <figcaption>Each call pushes a frame holding the return address, parameters and local variables.</figcaption>
+</figure>
 
 ## Object-oriented programming
 
@@ -125,6 +150,11 @@ Recursion is elegant and natural for tree traversal, but uses more memory than i
 - **Design principles**: encapsulate what varies; favour composition over inheritance; program to interfaces, not implementation.
 
 **Class diagrams:** a box with the class name, attributes and methods, with + / - / # specifiers. Single inheritance is an arrow with an open (hollow) triangle pointing to the superclass. **Composition** is a line with a **black (filled) diamond** and **aggregation** a line with a **white (hollow) diamond**, the diamond at the containing class.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-programming--13-prog-class-diagram.webp" width="900" height="1150" alt="An illustrative class diagram: Car inherits from Vehicle (hollow triangle), Car is composed of an Engine (black diamond) and aggregates a Passenger (white diamond). Members are marked + public, minus private and # protected." loading="lazy">
+  <figcaption>Black diamond = composition, white diamond = aggregation; + public, − private, # protected.</figcaption>
+</figure>
 
 ## Data structures
 

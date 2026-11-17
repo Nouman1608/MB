@@ -1,0 +1,8 @@
+{ "page": "a-ict-data-processing-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--07-dp-data-information.webp", "after": "## 1.1 Data and information" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--12-dp-encryption.webp", "after": "## 1.3 Encryption" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--08-dp-validation-verification.webp", "after": "## 1.4 Checking the accuracy of data" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--09-dp-parity-check.webp", "after": "## 1.4 Checking the accuracy of data" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--11-dp-processing-methods.webp", "after": "## 1.5 Data processing" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--10-dp-master-update.webp", "after": "## 1.5 Data processing" }
+] }

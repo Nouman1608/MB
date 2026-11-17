@@ -36,6 +36,11 @@ Condensed for the final weeks. For the worked extract, use the
 - About **45 minutes**: protect this time.
 - Route B takes the non-exam assessment instead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-prose--01-protect-45-minutes.webp" width="900" height="504" alt="Paper 2a has three 30-mark sections of about 45 minutes each: anthology poetry, unseen poetry and, last, unseen prose. A second bar shows the first two sections overrunning, which squeezes the time left for unseen prose." loading="lazy">
+  <figcaption>As the last section, unseen prose pays for any overrun earlier in the paper.</figcaption>
+</figure>
+
 ## What the marks reward
 
 | AO | In this section | What it looks like |
@@ -54,6 +59,11 @@ how tension is created. Keep that focus in the first line of each paragraph.
 3. Read again for **method**, annotating only what fits the question (5 minutes).
 4. **Plan** an interpretation and three or four points in extract order (5 minutes).
 5. **Write** (about 30 minutes), ending with the extract's final lines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-prose--02-method-45-minutes.webp" width="900" height="758" alt="A 45-minute bar: 1 minute to read the question, 4 to read for sense, 5 to read again for method, 5 to plan and about 30 to write. Five numbered steps explain each stage, starting with underlining the question’s focus." loading="lazy">
+  <figcaption>Read the question before the extract, so every annotation serves it.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -127,6 +137,11 @@ The stronger comments name the effect **at that moment** and connect it to a cha
 - One point about **structure**: opening, a shift, or the ending.
 - Several points about **language**, each with its effect on the reader.
 - A clear **interpretation** that answers the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts--17-lit-oaqa-unseen.webp" width="900" height="750" alt="A sheet of text in the centre with arrows to what can be analysed from it: structure, language choices, tone and effect, and, for prose, narrative viewpoint. Below, two crossed-out dashed boxes show what not to rely on: the writer’s biography and guessing at a wider plot." loading="lazy">
+  <figcaption>Analyse structure, language, tone and effect from the page itself, not from the writer’s life or an imagined wider plot.</figcaption>
+</figure>
 
 ## Paragraph pattern
 

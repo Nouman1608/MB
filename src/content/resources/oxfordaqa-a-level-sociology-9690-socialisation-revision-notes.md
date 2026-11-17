@@ -65,6 +65,11 @@ Full explanation: [socialisation study guide](/resources/oxfordaqa-a-level-socio
 - Inadequate: extreme isolation (the Genie case, found in California in 1970); contested New Right
   claims about an "underclass" (Charles Murray), criticised for blaming the poor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-socialisation--01-four-types.webp" width="900" height="527" alt="Primary socialisation in the family, secondary socialisation beyond it, re-socialisation such as military training or prison, and inadequate socialisation shown by the Genie case and contested New Right claims." loading="lazy">
+  <figcaption>Isolation cases suggest much of “human nature” is learned.</figcaption>
+</figure>
+
 ## Agencies and methods
 
 | Agency | Methods |
@@ -76,6 +81,11 @@ Full explanation: [socialisation study guide](/resources/oxfordaqa-a-level-socio
 | Religions | Teachings, rituals, festivals, community expectations |
 | Workplace | Induction, training, codes of conduct, anticipatory socialisation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-socialisation--02-agencies.webp" width="900" height="815" alt="A grid of six agencies of socialisation, families, schools, peers, media, religions and the workplace, with their methods and points for analysis, plus formal versus informal and deliberate versus unintended methods." loading="lazy">
+  <figcaption>Link an agency to a method, then to a perspective.</figcaption>
+</figure>
+
 ## Perspectives compared
 
 | Perspective | Socialisation is... | Evidence | Criticism |
@@ -85,12 +95,27 @@ Full explanation: [socialisation study guide](/resources/oxfordaqa-a-level-socio
 | Feminist | Reproduction of gender roles and patriarchy | Oakley (1972): canalisation and manipulation; Sharpe: girls' priorities shifted from marriage to careers between the 1970s and 1990s | Underplays change and agency |
 | Interactionist | Active, negotiated development of the self | Mead (1934): imitation, play, game, generalised other; Cooley: looking-glass self | Underplays structure |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-socialisation--04-perspectives.webp" width="900" height="692" alt="A grid of functionalist, Marxist, feminist and interactionist views of socialisation: what is passed on, key evidence such as Parsons, Bowles and Gintis, Oakley, Sharpe and Mead, and a criticism of each." loading="lazy">
+  <figcaption>Each perspective reads the same process as consensus, ideology, patriarchy or negotiation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-socialisation--05-correspondence.webp" width="900" height="565" alt="Bowles and Gintis’s correspondence principle: obedience to teachers, acceptance of school hierarchy and motivation by grades mirror obedience, hierarchy and wages at work. Willis’s lads resisted but still entered manual work." loading="lazy">
+  <figcaption>For Marxists, the hidden curriculum prepares obedient workers.</figcaption>
+</figure>
+
 ## Mead's stages
 
 1. **Imitation**: copying others without understanding.
 2. **Play**: taking the role of particular others, such as pretending to be a parent.
 3. **Game**: understanding many roles at once and the rules linking them.
 4. Result: the **generalised other**, and a self with an "I" (spontaneous) and a "me" (socialised).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-socialisation--03-mead.webp" width="900" height="528" alt="Mead’s stages from imitation through play and games to the generalised other, and Cooley’s looking-glass self, in which how we imagine others see us shapes how we see ourselves." loading="lazy">
+  <figcaption>For interactionists, the self is built through taking the role of others.</figcaption>
+</figure>
 
 ## Agencies across the life course
 

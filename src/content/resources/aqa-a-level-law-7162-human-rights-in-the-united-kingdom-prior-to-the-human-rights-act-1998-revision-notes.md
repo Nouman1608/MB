@@ -33,6 +33,11 @@ Strasbourg decisions. For full explanation and an annotated plan, use the
 only for **ambiguity** → claimants go to **Strasbourg** (from 1966) → adverse rulings → **UK changes
 law** (sometimes) → pressure for incorporation → **HRA 1998**, in force 2 October 2000.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998--06-road-to-hra.webp" width="900" height="372" alt="A sequence: the UK ratifies in 1951, accepts individual petition in 1966, sees wide support for incorporation in the 1990s, publishes the white paper Rights Brought Home in 1997, and brings the Human Rights Act 1998 into force on 2 October 2000. The white paper argued for enforcing rights in UK courts without Strasbourg’s delay and cost." loading="lazy">
+  <figcaption>Rights Brought Home: enforce Convention rights at home.</figcaption>
+</figure>
+
 ## Status
 
 - **Dualism**: treaties made by the government under the **royal prerogative** do not change domestic
@@ -54,6 +59,21 @@ law** (sometimes) → pressure for incorporation → **HRA 1998**, in force 2 Oc
 Smith and Grady v UK (1999): Article 8 breached, and Article 13 breached because the irrationality test
 gave no effective remedy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998--01-dualism.webp" width="900" height="644" alt="The government made the treaty under the royal prerogative, so it bound the UK in international law but created no rights in English courts unless Parliament incorporated it by statute; otherwise the executive could make law without Parliament. Consequences: no claim for breach of a Convention right, and a clearly conflicting statute had to be applied because of parliamentary sovereignty." loading="lazy">
+  <figcaption>Binding on the UK internationally, but not part of English law until 2000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998--02-indirect-use.webp" width="900" height="395" alt="Three indirect uses. Allowed: resolving genuine ambiguity in a statute in favour of the Convention. Not allowed: requiring ministers to exercise a broad discretion in line with it (ex parte Brind, the broadcasting ban). Common law: in Derbyshire County Council v Times Newspapers the House of Lords reached its decision on common law grounds alone." loading="lazy">
+  <figcaption>Ambiguity yes, discretion no; the common law did the rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998--03-domestic-gaps.webp" width="900" height="498" alt="Two pairs. Ex parte Smith upheld the armed forces ban as not irrational, but Smith and Grady v UK found breaches of Article 8 and of Article 13 because irrationality gave no effective remedy. Malone (1979) and R v Khan (1997) held surveillance lawful because nothing prohibited it, but Malone v UK and Khan v UK found breaches of Article 8 because it was not in accordance with the law." loading="lazy">
+  <figcaption>Domestic law protected only liberties; Strasbourg found the gaps.</figcaption>
+</figure>
+
 ## Impact of Strasbourg decisions
 
 | Decision | Article | UK response |
@@ -69,6 +89,11 @@ gave no effective remedy.
 
 **Article 46**: the state must abide by final judgments against it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998--04-strasbourg-impact.webp" width="900" height="604" alt="Eight judgments against the UK and the responses: Golder (prison rules changed), Tyrer (birching ended), Sunday Times (Contempt of Court Act 1981), Dudgeon (Homosexual Offences (Northern Ireland) Order 1982), Campbell and Cosans (Education (No 2) Act 1986), Malone (Interception of Communications Act 1985), Brogan (derogation instead of change) and Halford (Regulation of Investigatory Powers Act 2000)." loading="lazy">
+  <figcaption>Most losses led to new law; after Brogan the UK derogated instead.</figcaption>
+</figure>
+
 ## Evaluation
 
 | Strengths | Weaknesses |
@@ -81,6 +106,11 @@ gave no effective remedy.
 
 **Rights Brought Home** (1997 white paper): rights should be enforceable in UK courts, saving delay and
 cost, with British judges shaping Convention law.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998--05-pre-1998-evaluation.webp" width="900" height="351" alt="Strengths: Strasbourg was an external check and its rulings led to reform in privacy, expression, prisoners’ rights and education. Weaknesses: claims were slow and expensive, UK judges could not apply the Convention so British cases were decided abroad, and governments could respond minimally, as with the derogation after Brogan." loading="lazy">
+  <figcaption>Strasbourg forced reform, but slowly, expensively and at a distance.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -55,6 +55,16 @@ featured: false
 | 1938 | Fair Labor Standards Act; second AAA |
 | 1941 | Lend-Lease; rearmament drives recovery |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--01-margin-spiral.webp" width="900" height="732" alt="Above, the build-up: share prices rising faster than profits from 1927, buying on the margin with borrowed money, investment trusts and almost no regulation. A loop shows how falling confidence in autumn 1929 lowered prices, which triggered margin calls and forced sales, which lowered prices further. Below: Black Thursday (24 October), Black Tuesday (29 October) and a loss of almost 90 per cent by mid-1932." loading="lazy">
+  <figcaption>Margin buying turned falling prices into a self-feeding spiral.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--03-hoover-response.webp" width="900" height="597" alt="A timeline from 1929 to 1933 drawn to scale: the Federal Farm Board (1929), the Crash (October 1929), the war-debt moratorium (1931), the Reconstruction Finance Corporation (January 1932), the Emergency Relief and Construction Act and the eviction of the Bonus Marchers (both July 1932), and Roosevelt taking office (4 March 1933). Below, Hoover's limits and the criticism of the RFC." loading="lazy">
+  <figcaption>Hoover acted, but within limits set by his belief in self-reliance.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -74,6 +84,11 @@ featured: false
 | Court-packing | 1937 plan to add justices to the Supreme Court |
 | New Deal coalition | Alliance of voting groups behind the Democrats from 1932-36 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--02-crash-to-depression.webp" width="900" height="708" alt="A loop of loans: American loans went to Germany, which paid reparations to Britain and France, which repaid war debts to the USA. A broken arrow shows American lending stopping after 1928-29, followed by the Hawley-Smoot Tariff of 1930. Two more cards: weak banks and a Federal Reserve that failed to act as lender of last resort, and overproduction with underconsumption." loading="lazy">
+  <figcaption>Three deeper problems, not the Crash alone, made the Depression so deep.</figcaption>
+</figure>
+
 ## The agencies -- what each did
 
 | Agency or Act | Year | Type | Purpose |
@@ -91,6 +106,21 @@ featured: false
 | Wagner Act | 1935 | Reform | Union rights and collective bargaining |
 | Fair Labor Standards Act | 1938 | Reform | Minimum wage and maximum hours |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--04-hundred-days.webp" width="900" height="816" alt="The Emergency Banking Act and the first fireside chat reopen sound banks. Three columns follow: relief (CCC, FERA), recovery (AAA, NIRA, TVA) and reform (Glass-Steagall, the Securities Act and the SEC). Below, what worked (confidence, relief, farm incomes) and what fell short (complex NRA codes, help for landowners over tenants, high unemployment)." loading="lazy">
+  <figcaption>Judge each agency on what it set out to do: relief, recovery or reform.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--06-second-new-deal.webp" width="900" height="817" alt="Four pressures converge on the second New Deal of 1935-37: the Left (Long, Coughlin, Townsend), Court defeats, the coming 1936 election and a wish for lasting reform. A table lists its measures: the WPA, the Social Security Act, the Wagner Act, the Revenue Act, rural electrification and, in 1938, the Fair Labor Standards Act." loading="lazy">
+  <figcaption>Political pressure and Court defeats pushed Roosevelt towards lasting reform.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--07-recession-1937.webp" width="900" height="588" alt="Three causes of the 1937-38 recession, spending cuts to balance the budget, tighter Federal Reserve credit and new Social Security taxes, lead to falling output and sharply rising unemployment. Recovery followed renewed spending in 1938 and rearmament in 1939-41, with full recovery only through war production." loading="lazy">
+  <figcaption>Cutting spending in 1937 caused a new slump; war production ended the Depression.</figcaption>
+</figure>
+
 ## Critics at a glance
 
 | From the Left | From the Right |
@@ -99,6 +129,11 @@ featured: false
 | Father Coughlin: radio attacks on bankers | American Liberty League: business attack on "socialism" |
 | Dr Townsend: generous old-age pensions | Southern Democrats: feared federal interference with race relations |
 | Socialists and communists: New Deal saved capitalism | Much of the press and industry: union rights and taxes |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-great-depression-new-deal--05-critics-and-court.webp" width="900" height="642" alt="A left-right spectrum. On the left, socialists and communists, and Townsend, Coughlin and Long; in the centre, Roosevelt's New Deal; on the right, Republicans, the American Liberty League, newspapers and some Southern Democrats. Below, the Court: Schechter (1935) and Butler (1936) struck down the NIRA and AAA; the 1937 court-packing plan failed, but the Court began upholding New Deal laws." loading="lazy">
+  <figcaption>Roosevelt faced critics on both flanks and a hostile Court until 1937.</figcaption>
+</figure>
 
 ## Exam traps
 

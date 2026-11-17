@@ -32,6 +32,11 @@ Public authority acts → **victim** claims in domestic court (HRA s7, one year;
 months) → appeals → **exhausted** → Strasbourg application within **four months** → judgment →
 **Committee of Ministers** supervises execution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-human-rights-study-guide--10-hr-enforcement-route.webp" width="900" height="997" alt="Five steps. A public authority such as the police acts incompatibly with a Convention right under section 6. The victim claims in the domestic courts under section 7, normally within one year. The court may give a just and appropriate remedy including damages under section 8. If domestic remedies are exhausted, the victim may apply to the European Court of Human Rights within four months. If a violation is found the Court may award just satisfaction and the Committee of Ministers supervises execution." loading="lazy">
+  <figcaption>Five steps of enforcement with the one-year and four-month limits.</figcaption>
+</figure>
+
 ## The European Court of Human Rights
 
 | Feature | Detail |
@@ -43,6 +48,11 @@ months) → appeals → **exhausted** → Strasbourg application within **four m
 | Inter-state cases | Article 33: e.g. Ireland v UK (1978) |
 | Interim measures | Rule 39, e.g. halting a removal while a case is pending |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-enforcement--01-strasbourg-court.webp" width="900" height="580" alt="Four court formations from largest to smallest: a Grand Chamber of seventeen for the most serious issues, a Chamber of seven, a committee of three and a single judge, who can only declare clearly inadmissible applications inadmissible. The Court belongs to the Council of Europe, has been a single full-time court since Protocol 11, and has one judge per state." loading="lazy">
+  <figcaption>Strasbourg is a Council of Europe court with four formations.</figcaption>
+</figure>
+
 ## Admissibility (Article 35)
 
 - Exhaust **domestic remedies**.
@@ -50,6 +60,11 @@ months) → appeals → **exhausted** → Strasbourg application within **four m
 - Not anonymous; not substantially the same as an earlier application.
 - Not **manifestly ill-founded** or an abuse.
 - **Significant disadvantage** (Protocol 14), unless respect for human rights requires examination.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-enforcement--02-who-may-apply-admissibility.webp" width="900" height="776" alt="Individual victims apply under Article 34 and states under Article 33 (Ireland v UK). A narrowing funnel of Article 35 admissibility criteria: domestic remedies exhausted, application within four months, not anonymous or repeated, not manifestly ill-founded, and a significant disadvantage. Only then is the case examined on the merits. Rule 39 interim measures can be used in urgent cases." loading="lazy">
+  <figcaption>A victim, exhausted remedies and four months: most applications fail at admissibility.</figcaption>
+</figure>
 
 ## Judgments and their effect
 
@@ -68,6 +83,11 @@ months) → appeals → **exhausted** → Strasbourg application within **four m
 | S and Marper v UK (2008) | Protection of Freedoms Act 2012 |
 | Hirst v UK (No 2) (2005) | Over a decade of delay; limited administrative changes eventually accepted |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-enforcement--03-effect-of-judgments.webp" width="900" height="830" alt="A violation leads to just satisfaction under Article 41, and under Article 46 the Committee of Ministers supervises execution through individual measures for the claimant and general measures to prevent repetition. A table of UK responses: Sunday Times to the Contempt of Court Act 1981, Malone to the Interception of Communications Act 1985, Goodwin to the Gender Recognition Act 2004, S and Marper to the Protection of Freedoms Act 2012; after Hirst the UK delayed over a decade." loading="lazy">
+  <figcaption>Judgments bind states, and usually change UK law, but execution can be slow.</figcaption>
+</figure>
+
 ## Domestic courts under the HRA 1998
 
 | Section | Rule | Authority |
@@ -76,6 +96,11 @@ months) → appeals → **exhausted** → Strasbourg application within **four m
 | s6 | Public authorities must act compatibly; core and hybrid bodies | YL v Birmingham CC (2007); reversed by Care Act 2014 s73 |
 | s7 | Only a victim may sue; one year (s7(5)); may also rely on rights in other proceedings | |
 | s8 | Just and appropriate remedy; damages only if necessary for just satisfaction | R (Greenfield) v SSHD (2005) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-enforcement--04-hra-domestic-courts.webp" width="900" height="601" alt="Four HRA sections. Section 6: public authorities, core and hybrid, must act compatibly (YL v Birmingham City Council, reversed by the Care Act 2014). Section 7: only a victim may claim, normally within one year. Section 8: a just and appropriate remedy, with damages only where necessary (Greenfield). Section 2: courts take Strasbourg case law into account (Ullah; Horncastle)." loading="lazy">
+  <figcaption>Who is bound, who may sue, what remedy, and how far to follow Strasbourg.</figcaption>
+</figure>
 
 ## Judicial review: the process
 
@@ -87,6 +112,11 @@ months) → appeals → **exhausted** → Strasbourg application within **four m
    **proportionality** for Convention rights (Daly, 2001).
 6. Discretionary remedies: quashing, prohibiting, mandatory orders; declaration; injunction; limited
    damages. Relief refused if outcome **highly likely** not substantially different (s31(2A)).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-enforcement--05-judicial-review-steps.webp" width="900" height="710" alt="Six stages of judicial review: a pre-action letter; a claim form in the Administrative Court promptly and within three months; standing, meaning sufficient interest or victim status for HRA claims; permission if there is an arguable case; a full hearing on illegality, irrationality and procedural impropriety (CCSU), with proportionality where Convention rights are engaged (Daly); and discretionary remedies such as a quashing order." loading="lazy">
+  <figcaption>Letter, claim, standing, permission, grounds, remedy: six stages with filters along the way.</figcaption>
+</figure>
 
 ## Key terms
 

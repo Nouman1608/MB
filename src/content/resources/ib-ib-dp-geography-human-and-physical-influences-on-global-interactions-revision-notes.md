@@ -77,6 +77,11 @@ A shared language reduces the cost of doing business.
 - **Resource endowment:** oil, gas and minerals draw investment and trade (for example Gulf states)
   but can tie a country to volatile prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--18-connection-influences.webp" width="900" height="830" alt="A schematic cross-section from sea to inland. A natural harbour and a navigable river on the coast support a strong flow of trade across the plain. A mountain barrier stands between the coast and a remote, landlocked plateau, where a dashed weaker flow shows higher transport costs. Below are four human influences: trade agreements, political stability, infrastructure and skilled labour. Not to scale." loading="lazy">
+  <figcaption>Physical and human influences explain why places connect unequally.</figcaption>
+</figure>
+
 ## Distance, barriers and filters
 
 - Remote or landlocked places often face higher transport costs and lower participation in trade.
@@ -109,6 +114,16 @@ high-speed rail link or low-cost airline can make a far city "closer" than a nea
 
 **Limits:** ignores political borders, language, transport quality and trade agreements, so real
 pairs can interact more or less than predicted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--19-gravity-pairs.webp" width="900" height="870" alt="Three rows of circles joined by a line. Circle area shows population in millions and line thickness shows interaction. City A has 4.2 million people. A to B, with 1.5 million people and d equals 3, gives 6.3 divided by 9 which is 0.70. A to C, with 0.9 million people and d equals 2, gives 3.78 divided by 4 which is 0.945, more than A to B although C is smaller, because it is nearer. If A to B doubles to d equals 6, the figure is 6.3 divided by 36 which is 0.175. Invented practice numbers." loading="lazy">
+  <figcaption>The lesson’s gravity-model example: nearer C interacts more with A than larger B does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--20-gravity-distance.webp" width="900" height="850" alt="A graph of interaction against distance for cities A and B using 6.3 divided by d squared. The curve falls steeply and flattens. At d equals 3 interaction is 0.70. At d equals 6 it is 0.175. Doubling the distance from 3 to 6 cuts the interaction to a quarter. Invented practice numbers." loading="lazy">
+  <figcaption>Distance is squared, so doubling it cuts interaction to a quarter.</figcaption>
+</figure>
 
 ## Model paragraph (to what extent)
 

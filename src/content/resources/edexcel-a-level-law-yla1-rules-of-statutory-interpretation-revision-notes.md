@@ -35,6 +35,11 @@ Condensed for the final weeks. These notes cover part of content area **1.2.3**:
 
 The underlying tension: **parliamentary supremacy** versus a **just and sensible result**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--01-why-interpret.webp" width="900" height="606" alt="Judges need to interpret statutes because of broad terms (Brock v DPP), ambiguity, drafting errors, new developments (R (Quintavalle)) and changes in language. Every question involves a tension between parliamentary supremacy and producing a sensible, just result." loading="lazy">
+  <figcaption>General words meet specific facts: judges balance Parliament’s supremacy against a just result.</figcaption>
+</figure>
+
 ## The four approaches at a glance
 
 | Approach | Question the judge asks | Leading cases | Main strength | Main weakness |
@@ -43,6 +48,11 @@ The underlying tension: **parliamentary supremacy** versus a **just and sensible
 | Golden | Does the literal meaning produce an absurdity? | Narrow: *R v Allen*; *Adler v George*. Broad: *Re Sigsworth* | Avoids absurdity, stays near the text | No test of absurdity; unpredictable |
 | Mischief | What defect was the Act meant to cure? | *Heydon's Case*; *Smith v Hughes*; *Elliott v Grey*; *Royal College of Nursing v DHSS* | Gives effect to Parliament's aim | Judges may decide what Parliament "should" have meant |
 | Purposive | What is the Act's overall purpose? | *Jones v Tower Boot*; *R (Quintavalle)* | Sensible results; handles new technology | Judicial law making; less certainty |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--02-spectrum-of-approaches.webp" width="900" height="518" alt="The four approaches on a line from the words to the purpose: the literal rule gives the plain meaning even if absurd (Whiteley v Chappell); the golden rule starts literally but departs to avoid absurdity (R v Allen; Re Sigsworth); the mischief rule from Heydon’s Case looks at the defect the Act cures (Smith v Hughes); the purposive approach looks at the purpose of the whole Act (Jones v Tower Boot)." loading="lazy">
+  <figcaption>Each approach sits further from the bare words and closer to Parliament’s purpose.</figcaption>
+</figure>
 
 ## Case facts in one line each
 
@@ -59,6 +69,16 @@ The underlying tension: **parliamentary supremacy** versus a **just and sensible
 - *Jones v Tower Boot* [1997]: "in the course of employment" covered racist harassment by co-workers.
 - *Magor and St Mellons v Newport* [1950]/[1952]: Denning's "fill in the gaps" versus Lord Simonds's "naked usurpation of the legislative function".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--03-literal-rule.webp" width="900" height="633" alt="The literal rule gives words their plain meaning even if absurd (Lord Esher, 1892). In Whiteley v Chappell a man who voted as a dead person was not guilty; in Fisher v Bell a knife in a shop window was not &quot;offered for sale&quot;; in LNER v Berriman oiling points was not &quot;relaying or repairing&quot;. It respects supremacy and certainty but can produce absurd results and assumes perfect drafting." loading="lazy">
+  <figcaption>Certain and respectful of Parliament, but capable of absurd results.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--06-purposive-approach.webp" width="900" height="730" alt="The purposive approach reads the words to achieve the purpose of the whole Act. In Jones v Tower Boot &quot;in the course of employment&quot; was read broadly, and in R (Quintavalle) cloned embryos were covered. In Magor and St Mellons Lord Denning said judges should &quot;fill in the gaps&quot;; Lord Simonds called this &quot;a naked usurpation of the legislative function&quot;. It gives just results but is less predictable." loading="lazy">
+  <figcaption>Purpose over wording: just results, at the cost of predictability and judicial restraint.</figcaption>
+</figure>
+
 ## Heydon's four questions
 
 1. What was the common law before the Act?
@@ -66,10 +86,20 @@ The underlying tension: **parliamentary supremacy** versus a **just and sensible
 3. What remedy did Parliament provide?
 4. What is the true reason for the remedy?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--05-mischief-rule.webp" width="900" height="775" alt="Heydon’s Case sets four questions: the common law before the Act, the mischief, Parliament’s remedy and the reason for it. In Smith v Hughes the mischief was soliciting people in the street, so prostitutes tapping on windows from balconies were guilty. Elliott v Grey and Royal College of Nursing v DHSS also applied the rule. Weaknesses: it suited short statutes, may need extrinsic aids and risks judicial law-making." loading="lazy">
+  <figcaption>Find the defect the Act was passed to cure, then read the words to suppress it.</figcaption>
+</figure>
+
 ## Golden rule: narrow versus broad
 
 - **Narrow**: the word has more than one meaning; choose the one that avoids absurdity (*Allen*, *Adler*).
 - **Broad**: the word has one meaning, but applying it is repugnant; modify it (*Sigsworth*).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--04-golden-rule.webp" width="900" height="614" alt="The golden rule from Grey v Pearson starts with the literal meaning but departs from it to avoid absurdity. The narrow approach chooses between meanings: &quot;marry&quot; in R v Allen and &quot;in the vicinity of&quot; in Adler v George. The broad approach overrides a single repugnant meaning: in Re Sigsworth a murderer could not inherit from his victim. It corrects literal absurdities but has no test of absurdity." loading="lazy">
+  <figcaption>Literal first; the narrow approach picks a meaning, the broad one avoids a repugnant result.</figcaption>
+</figure>
 
 ## Model evaluation paragraph
 

@@ -34,6 +34,16 @@ The [health promotion study guide](/resources/cambridge-a-level-psychology-9990-
 - **3.5.2 Settings**: schools and healthy eating, e.g. Tapper et al. (2003); worksites and safety, e.g. Fox et al. (1987).
 - **3.5.3 Individual factors**: unrealistic optimism, e.g. Weinstein (1980); positive psychology and its three focuses, e.g. Seligman (2004); application, key study Shoshani and Steinmetz (2014).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--01-janis-feshbach.webp" width="900" height="709" alt="Four groups heard a strong, moderate or minimal fear talk on dental hygiene, or a talk on another topic. A week later the minimal fear group showed the most change in reported behaviour and the strong fear group the least; bars show order only. Notes explain why strong fear can backfire, followed by evaluation." loading="lazy">
+  <figcaption>Minimal fear changed behaviour most; strong fear least.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--02-providing-information.webp" width="900" height="693" alt="Heart attack patients given the Heart Manual (information, exercise and relaxation guidance) showed better adjustment and less use of health services over months than a comparison group given standard information. A note explains that information works best when specific, credible and practical, and a final row compares fear arousal (emotion) with information (knowledge)." loading="lazy">
+  <figcaption>Information helps most when it shows people how to change.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |
@@ -62,6 +72,21 @@ The [health promotion study guide](/resources/cambridge-a-level-psychology-9990-
 | Seligman (2004) | Positive psychology | Three focuses: pleasant, good, meaningful life |
 | Shoshani and Steinmetz (2014) | Applying positive psychology | School programme reduced distress symptoms and increased well-being measures |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--03-food-dudes.webp" width="900" height="726" alt="The Food Dudes programme combines modelling (children imitate admired video peers who enjoy fruit and vegetables) with positive reinforcement (stickers for eating the target foods). Consumption rose at school and in some measures at home. An evaluation grid covers objective data, confounds, ethics with children and persistence." loading="lazy">
+  <figcaption>Modelling plus rewards increased fruit and vegetable eating.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--04-fox-token-economy.webp" width="900" height="604" alt="Miners earned trading stamps for working without lost-time accidents, following safety rules and making safety suggestions, lost them if they or their team had an accident, and exchanged them for goods. Days lost to accidents fell sharply and stayed low, and accident costs fell by more than the stamps cost. A strength and weaknesses follow." loading="lazy">
+  <figcaption>Rewards for safe work cut accidents, though some fall may be under-reporting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--05-unrealistic-optimism.webp" width="900" height="561" alt="A scale centred on the average student. On average, students placed their chances of negative events such as a heart attack below average and their chances of positive events above average. A note explains why this is an error and how campaigns can counter it. Positions are illustrative." loading="lazy">
+  <figcaption>Students rated bad events as less likely, and good events as more likely, for themselves.</figcaption>
+</figure>
+
 ## Key study grid: Shoshani and Steinmetz (2014)
 
 | Feature | Detail |
@@ -73,6 +98,16 @@ The [health promotion study guide](/resources/cambridge-a-level-psychology-9990-
 | Results | Fewer distress symptoms (e.g. anxiety, depression); gains in self-esteem and optimism; no such change in controls |
 | Strengths | Real classrooms; standardised measures; applied value |
 | Weaknesses | Possible confounds between groups; self-report bias; culture-specific |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--06-seligman-three-lives.webp" width="900" height="395" alt="Three cards: the pleasant life (positive emotions about past, present and future), the good or engaged life (using strengths in absorbing activities) and the meaningful life (using strengths for something larger than oneself). A note warns not to confuse the good life with the pleasant life." loading="lazy">
+  <figcaption>Pleasant: positive emotion. Good: engagement. Meaningful: something larger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-health-promotion--07-shoshani-steinmetz.webp" width="900" height="850" alt="Study card for Shoshani and Steinmetz (2014): aim, design with intervention and control classes without individual random allocation, and before-and-after questionnaires; results showing reduced distress and gains in self-esteem and optimism; conclusion; and an evaluation grid." loading="lazy">
+  <figcaption>A class-based programme reduced distress and raised self-esteem and optimism.</figcaption>
+</figure>
 
 ## Why might each strategy fail?
 

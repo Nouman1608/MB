@@ -34,6 +34,11 @@ Condensed notes for section 1.2 of Cambridge IGCSE Commerce (0715). For explanat
 
 Classify by what the business **sells**: raw material, finished good or building, service, or digital information.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--01-sectors-of-production.webp" width="900" height="705" alt="Four rows for the primary, secondary, tertiary and quaternary sectors, each with its features, examples and what it sells: a raw material, a product or building, a service, or a digital or information product." loading="lazy">
+  <figcaption>Ask what the business sells to place it in the right sector.</figcaption>
+</figure>
+
 ## Specialisation
 
 **Meaning**: concentrating on a limited range of products, or one task in a process.
@@ -46,6 +51,11 @@ Classify by what the business **sells**: raw material, finished good or building
 
 Specialisation requires **trade**: specialists swap their output for what they do not make.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--02-specialisation-grid.webp" width="900" height="730" alt="A grid of advantages and disadvantages of specialisation for an individual, a factory and a country, such as skill and speed against boring work, lower unit cost against dependence on one product, and export income against dependence on imports." loading="lazy">
+  <figcaption>Use the level the question names: individual, factory or country.</figcaption>
+</figure>
+
 ## In-house versus outsourced
 
 | In-house (make it yourself) | Outsourced (pay another firm) |
@@ -57,10 +67,20 @@ Specialisation requires **trade**: specialists swap their output for what they d
 
 The syllabus highlights **quality and information** for in-house, and **expertise and cost savings** for outsourcing. Lead with these.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--03-in-house-vs-outsourced.webp" width="900" height="605" alt="Two panels. In-house production gives control of quality and information, flexibility and independence. Outsourced production gives expertise, cost savings, no machinery or training costs and focus on core activities. Below, a secret formula points to in-house; a small firm with little capital points to outsourcing." loading="lazy">
+  <figcaption>The right choice depends on the business: control versus expertise and cost.</figcaption>
+</figure>
+
 ## Supply chains
 
 - **Domestic supply chain**: every stage in one country.
 - **Global supply chain**: stages in two or more countries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--04-domestic-vs-global-chain.webp" width="900" height="615" alt="Top: a domestic supply chain with a dairy farm, local processor and local shops all inside one country. Bottom: a global supply chain with cotton grown in one country, spun and sewn in a second, and sold in a third." loading="lazy">
+  <figcaption>The difference is whether the stages stay in one country or cross borders.</figcaption>
+</figure>
 
 ## Intermediaries
 
@@ -71,12 +91,22 @@ The syllabus highlights **quality and information** for in-house, and **expertis
 
 Difference between agent and factor: **possession of the goods**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--05-intermediaries.webp" width="900" height="690" alt="Home trade runs producer, wholesaler, retailer, consumer, with the wholesaler breaking bulk. International trade adds an agent, who arranges sales without holding the goods, and a factor, who has possession of the goods and sells them in its own name; both are paid commission." loading="lazy">
+  <figcaption>An agent never holds the goods; a factor holds them but still does not own them.</figcaption>
+</figure>
+
 ## Digital technology and production
 
 | | Positive | Negative |
 |---|---|---|
 | Automation (robotics) | Faster, continuous, consistent output; lower labour cost per unit; safer for dangerous tasks | High set-up cost; job losses or retraining; breakdowns stop output; less flexible |
 | EDI with suppliers | Instant automatic orders; fewer errors; less paperwork; lower stock needed | Set-up cost and compatible systems; network dependence; cyber risk |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--06-automation-and-edi.webp" width="900" height="725" alt="Top: with EDI, a buyer’s system sends an order automatically to the supplier’s system when stock runs low, and the invoice comes back electronically. Below, positive and negative impacts of automation and of EDI are listed with ticks and crosses." loading="lazy">
+  <figcaption>Both technologies cut costs and errors, but cost money to set up and create new dependencies.</figcaption>
+</figure>
 
 ## Ten costs to name
 
@@ -92,6 +122,11 @@ Calculation reminders:
 - Cost per unit = total cost / number of units.
 
 Mini example (invented figures): 250 bags at $8 = $2,000 inventory; duty 10% = $200; transport $150; total = $2,350; cost per bag = 2,350 / 250 = $9.40.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--07-kettle-costs.webp" width="900" height="690" alt="A cost table for 400 imported kettles: inventory 4,800, customs duty 240 (5% of the goods’ value), transport 350, packaging 200, warehousing 60 and commission 300 (3% of sales of 10,000). Total 5,950, or $14.875 per kettle." loading="lazy">
+  <figcaption>Duty is on the value of the goods and commission on the sales value; the total is $5,950, about $14.88 a kettle.</figcaption>
+</figure>
 
 ## Key terms
 

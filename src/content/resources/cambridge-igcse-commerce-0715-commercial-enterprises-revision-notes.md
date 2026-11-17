@@ -30,6 +30,11 @@ Condensed notes for section 2.1 of Cambridge IGCSE Commerce (0715). For full exp
 - **Private sector**: owned by individuals or shareholders; usually aims for profit.
 - **Public sector**: owned by government; usually aims to provide a service.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-commercial-enterprises--01-private-public-sector.webp" width="900" height="730" alt="Two columns. The private sector is owned by individuals, partners, members or shareholders, usually aims for profit and includes sole traders, partnerships, cooperatives and private and public limited companies. The public sector is owned by the government, usually aims to provide a service and includes public corporations." loading="lazy">
+  <figcaption>Who owns the enterprise decides its sector; a public limited company is still in the private sector.</figcaption>
+</figure>
+
 ## Ownership comparison
 
 | Form | Owners | Liability | Capital | Control | Key drawback |
@@ -43,9 +48,24 @@ Condensed notes for section 2.1 of Cambridge IGCSE Commerce (0715). For full exp
 
 **Limited liability**: owners can lose only the money they invested. **Unlimited liability**: owners' personal possessions can be taken to pay business debts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-commercial-enterprises--02-private-sector-forms.webp" width="900" height="725" alt="Five rows comparing sole trader, partnership, cooperative, private limited company and public limited company by owners, how capital and profits are handled, and liability. Sole traders and ordinary partners have unlimited liability, cooperative members have one vote each, and shareholders in both kinds of limited company have limited liability." loading="lazy">
+  <figcaption>Liability changes from unlimited to limited once the business becomes a company with shareholders.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-commercial-enterprises--04-ownership-matching.webp" width="900" height="715" alt="Five situations each lead to a suitable form of ownership: a lone plumber to a sole trader, two architects to a partnership, fifty fishermen to a cooperative, a growing family bakery to a private limited company, and an airline needing large sums to a public limited company." loading="lazy">
+  <figcaption>Choose the form whose capital, control and liability fit the scenario, and give the reason.</figcaption>
+</figure>
+
 ## Reasons for public corporations
 
 Essential services for all; avoiding wasteful duplication (rail, water networks); services in loss-making areas; strategic or security control; protecting jobs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-commercial-enterprises--03-public-corporation-reasons.webp" width="900" height="660" alt="A central box describes a public corporation: owned by the government, run by a board it appoints and reporting to a minister. Five reasons point into it: essential services, avoiding wasteful duplication, loss-making areas, strategic or security reasons, and protecting jobs." loading="lazy">
+  <figcaption>Public corporations exist to serve the public where profit alone would not.</figcaption>
+</figure>
 
 ## Multinational companies
 
@@ -60,6 +80,11 @@ Essential services for all; avoiding wasteful duplication (rail, water networks)
 | Exports and tax revenue | Low wages, resource use, pollution |
 | Better infrastructure | Influence on government; may leave suddenly |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-commercial-enterprises--05-multinational-company.webp" width="900" height="720" alt="Headquarters in the home country links to factories and outlets in host countries, with profits possibly flowing back home. Five reasons for MNCs are listed, then four positive and four negative impacts on a host country." loading="lazy">
+  <figcaption>An MNC brings jobs and investment to a host country but may send profits home and push out local firms.</figcaption>
+</figure>
+
 ## Franchises
 
 **Franchisor** owns the brand; **franchisee** buys the right to trade under it, paying a fee and royalties.
@@ -69,6 +94,11 @@ Essential services for all; avoiding wasteful duplication (rail, water networks)
 - Franchisor gains: fast growth with others' capital, fee income.
 - Franchisor loses: less control, reputation risk from a poor outlet.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-commercial-enterprises--06-franchise.webp" width="900" height="690" alt="The franchisor gives the franchisee its brand, products or recipes, training and advertising; the franchisee pays an initial fee and a royalty. A grid sets out the advantages and disadvantages for the franchisee and for the franchisor." loading="lazy">
+  <figcaption>Always say whether an advantage belongs to the franchisor or the franchisee.</figcaption>
+</figure>
+
 ## Location factors
 
 | Physical (9) | Ecommerce (4) |
@@ -76,6 +106,16 @@ Essential services for all; avoiding wasteful duplication (rail, water networks)
 | Labour, markets, transport, power, raw materials, competition, suppliers, communication, government influence | Wi-fi, warehousing, technology specialists, logistics |
 
 Match the factor to the business: heavy raw materials point to a site near the source; personal services need to be near customers; online sellers need warehousing, logistics and connectivity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commercial-operations--16-co-location.webp" width="900" height="800" alt="Nine physical location factors beside four ecommerce location factors." loading="lazy">
+  <figcaption>Physical and ecommerce businesses weigh different location factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-commercial-enterprises--07-location-priorities.webp" width="900" height="560" alt="Three businesses rank location factors differently. A cement works puts raw materials and transport first, a hair salon puts markets and competition first, and an online clothing retailer puts warehousing, logistics and wi-fi first." loading="lazy">
+  <figcaption>The right location factors depend on what the business does and how it reaches customers.</figcaption>
+</figure>
 
 ## Key terms
 

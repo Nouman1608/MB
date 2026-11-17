@@ -71,6 +71,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 Arranged in order of **proton (atomic) number** — this single ordering principle is what makes the whole table's structure, and every trend within it, predictable rather than arbitrary.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp" width="900" height="770" alt="A cut-down Periodic Table (periods 2 and 3, groups I to VIII) with outer electrons, typical ion charge and the metal to non-metal change across a period." loading="lazy">
+  <figcaption>Elements are arranged in periods (rows) and groups (columns); group number fixes the outer electrons and ion charge.</figcaption>
+</figure>
+
 ## Group I — the alkali metals
 
 Li, Na, K, Rb, Cs
@@ -92,6 +97,16 @@ Potassium ignites with a LILAC flame
 ```
 
 All are soft, low-density metals stored under oil; all form 1+ ions and alkaline hydroxides, since each loses its single outer electron in exactly the same way, differing only in how easily.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--03-group-i-water.webp" width="900" height="900" alt="Three beakers show lithium fizzing steadily, sodium fizzing and possibly melting into a ball, and potassium igniting the hydrogen. Hydrogen bubbles rise in each and the solution becomes alkaline. Reactivity increases down the group; melting point decreases and density increases." loading="lazy">
+  <figcaption>Group I metals react with cold water to give hydrogen and an alkaline solution, more vigorously down the group.</figcaption>
+</figure>
 
 ## Group VII — the halogens
 
@@ -115,6 +130,16 @@ All exist as **diatomic** molecules and form 1− ions.
 
 **Halide ions are identified by a separate test**, not by their reactivity: acidify the solution with dilute nitric acid, then add aqueous silver nitrate — chloride gives a **white** precipitate, bromide **cream**, iodide **yellow** (see the [halide ion tests](/resources/identification-of-ions-and-gases/) in qualitative analysis). The precipitate colours are observations used to identify the ion; they are not caused by the halogen reactivity order, even though the silver halides' solubility happens to fall in the same order, Cl > Br > I.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--04-halogens.webp" width="900" height="790" alt="Chlorine, bromine and iodine as diatomic molecules: a pale yellow-green gas, a red-brown liquid and a grey-black solid. Density increases and reactivity decreases down the group." loading="lazy">
+  <figcaption>The halogens are diatomic non-metals whose state and colour change down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp" width="900" height="1090" alt="Chlorine added to colourless potassium iodide forms brown iodine, with the balanced equation. A grid shows which halogen and halide pairs react: only a more reactive halogen displaces a less reactive one (Cl &gt; Br &gt; I)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halogen from its halide solution.</figcaption>
+</figure>
+
 ## Transition elements vs Group I
 
 | | Transition elements | Group I |
@@ -128,9 +153,24 @@ All exist as **diatomic** molecules and form 1− ions.
 
 *(0620 Extended, 5070 required)* **Iron is 0620's named example of variable oxidation numbers** (5070 states the general property without naming a specific element): iron(II) compounds (e.g. iron(II) sulfate) and iron(III) compounds (e.g. iron(III) chloride) are both stable, ordinary compounds — the same metal simply forms two different, equally valid ions. This is exactly the property behind the [iron(II)/iron(III) hydroxide precipitate colours](/resources/identification-of-ions-and-gases/) (green vs red-brown) used to distinguish them in qualitative analysis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--06-transition-elements.webp" width="900" height="1226" alt="Four panels: a balance where an iron block outweighs an equal sodium block; melting-point bars (Na 98 °C, Fe 1538 °C); coloured transition-metal solutions beside colourless NaCl; and Fe or MnO2 as catalysts." loading="lazy">
+  <figcaption>Transition elements are dense, high-melting, form coloured compounds and often act as catalysts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--07-iron-ions.webp" width="900" height="910" alt="Group I sodium only forms Na+. Iron forms Fe2+ (iron(II), in FeSO4) by losing two electrons and Fe3+ (iron(III), in FeCl3) by losing three, so transition elements have variable oxidation numbers." loading="lazy">
+  <figcaption>Iron forms two stable ions, iron(II) and iron(III), unlike Group I metals.</figcaption>
+</figure>
+
 ## Noble gases
 
 **Group VIII** (not Group 0) — full outer shell, therefore **unreactive** (monatomic). Uses: helium in balloons (low density, non-flammable), argon in lamps and welding (inert atmosphere), neon in lighting. "Monatomic" means existing as single, separate atoms rather than as molecules — unlike Group VII, which is diatomic — since there is no bonding pulling their atoms together. See the [Periodic Table: Groups and Trends study guide](/resources/periodic-table-groups-and-trends/) for the full syllabus coverage and worked reasoning behind every trend above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--08-noble-gases.webp" width="900" height="960" alt="Electron shells of He (2), Ne (2,8) and Ar (2,8,8) each have a full outer shell, so they do not gain, lose or share electrons. Noble gas particles are single atoms, whereas chlorine exists as Cl2 molecules." loading="lazy">
+  <figcaption>Noble gases are unreactive and monatomic because their outer shell is full.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -77,6 +77,11 @@ A parcel of air at the surface is 24 degrees C, with a dew point of 14 degrees C
 - Above 2 km the parcel cools at only 6 degrees C per km while its surroundings cool at 8, so it becomes warmer than them and rises freely: **conditional instability**, deep cumulus cloud and possibly thunderstorms.
 - If the ELR were less than the SALR, say 4 degrees C per km, the parcel would stay colder than its surroundings at every height: **absolute stability**, with little or only flat layer cloud.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--08-ee-lapse-rate.webp" width="900" height="1030" alt="A schematic mountain with five heights and their estimated temperatures. Worked example of the 6.5 degrees per 1,000 m lapse rate from 14 degrees at 500 m to minus 12 at 4,500 m." loading="lazy">
+  <figcaption>Worked example of the 6.5 degrees per 1,000 m lapse rate from 14 degrees at 500 m to minus 12 at 4,500 m.</figcaption>
+</figure>
+
 ## Stability
 
 - **Stable:** rising parcel is cooler than surroundings (ELR lower than lapse rate of parcel) and sinks back; little cloud.
@@ -95,6 +100,11 @@ A parcel of air at the surface is 24 degrees C, with a dew point of 14 degrees C
 Forms include cloud, rain, hail, snow, dew and fog.
 
 **Rain shadow explained:** air rising over mountains cools, condenses and rains on the windward side. Descending on the leeward side, it warms at the faster DALR because it is now unsaturated, so it is warmer and drier than when it started.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--12-phys-precipitation-types.webp" width="900" height="1035" alt="Three panels. Convectional precipitation: the sun heats the ground, warm air rises and forms cloud and rain. Relief or orographic precipitation: air is forced up over high ground and rain falls on the rising side. Frontal precipitation: warm air rises over a wedge of cold air at a front, forming cloud and rain along the front. Schematic." loading="lazy">
+  <figcaption>Precipitation is classified by how the air is lifted: by surface heating, by high ground, or at a front.</figcaption>
+</figure>
 
 ## Forms of precipitation
 

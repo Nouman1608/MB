@@ -55,6 +55,11 @@ For full explanations and worked answers, read the [family forms study guide](/r
 | Matriarchal family | A family in which women hold authority |
 | Family diversity | The range of different family forms and ways of living |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-family-forms--01-family-household.webp" width="900" height="636" alt="Two overlapping circles. A household is people at the same address sharing facilities; a family is people linked by kinship, marriage, civil partnership or cohabitation. A student house share is a household but not a family; a grandmother two streets away is family but not household; a couple and children at home are both." loading="lazy">
+  <figcaption>Households share an address; families share kinship ties. Keep the two apart.</figcaption>
+</figure>
+
 ## The five forms: how each forms
 
 - **Nuclear:** couple has or adopts children.
@@ -62,6 +67,16 @@ For full explanations and worked answers, read the [family forms study guide](/r
 - **Reconstituted:** a parent forms a new partnership after divorce, separation or bereavement.
 - **Lone parent:** divorce, separation, death of a partner, or choice; most are headed by mothers.
 - **Single sex:** same-sex couples; legal recognition through the Civil Partnership Act 2004 and same-sex marriage in England and Wales from 2014.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-family-forms--02-five-family-forms.webp" width="900" height="747" alt="Five cards with simple figures. Nuclear: a couple and dependent children. Extended: three generations. Reconstituted: a couple with children from a previous relationship, including step-children. Lone parent: one parent with children, usually a mother. Single sex: a same-sex couple, with or without children. A sixth card defines cohabitation, the empty nest family and the commune." loading="lazy">
+  <figcaption>Name the form, then say who lives together and how it forms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-family-forms--03-extended-family-shapes.webp" width="900" height="688" alt="Four panels. A vertically extended family has three or more generations under one roof. A horizontally extended family includes kin of the same generation. A modified extended family lives in separate homes but keeps close contact. Brannen’s beanpole family has several generations with few members in each." loading="lazy">
+  <figcaption>Extended families can stretch up through the generations, sideways, or across separate homes.</figcaption>
+</figure>
 
 ## The Rapoports in a grid
 
@@ -77,6 +92,11 @@ The Rapoports ("British families in transition", 1982) saw diversity as the cent
 
 **Evaluation:** their work predates the open acceptance of gay and lesbian households; the five types overlap in real families.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-family-forms--04-rapoports-diversity.webp" width="900" height="821" alt="Five types of diversity surround one family: organisational, cultural, class, life course and cohort. A working-class Bangladeshi family with teenage children is linked to three of them at once: class, cultural and life course. Below, the work predates the open acceptance of gay and lesbian households." loading="lazy">
+  <figcaption>Diversity is the central feature of British family life, and the types overlap.</figcaption>
+</figure>
+
 ## Global context in five bullets
 
 - Monogamy is the only legal form of marriage in the UK.
@@ -85,12 +105,22 @@ The Rapoports ("British families in transition", 1982) saw diversity as the cent
 - The kibbutz shows child rearing shared by a community.
 - Global variety challenges the claim, associated with Murdock, that the nuclear family is universal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-family-forms--05-global-forms.webp" width="900" height="855" alt="A tree: marriage divides into monogamy, the only legal form in the UK, with serial monogamy below it, and polygamy, which divides into polygyny (one husband, several wives) and polyandry (one wife, several husbands). Below, extended families, the kibbutz and matriarchal families, which challenge the idea that the nuclear family is universal." loading="lazy">
+  <figcaption>Global examples show the nuclear family is not universal but socially constructed.</figcaption>
+</figure>
+
 ## Perspectives in one line each
 
 - **Functionalist:** the nuclear family fits industrial society best (Parsons).
 - **Feminist:** diversity can widen women's choices beyond the conventional family (Oakley).
 - **Marxist:** every family form still consumes and reproduces labour for capitalism.
 - **Counter-view:** Chester's neo-conventional family; most people still live in a nuclear family at some stage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-family-forms--06-snapshot-lifetime.webp" width="900" height="621" alt="Left: a snapshot of households shows many forms side by side. Right: one person’s lifetime moves from a nuclear family with young children, often neo-conventional with both partners working, to an empty nest family. Chester argued most people pass through a nuclear family at some point." loading="lazy">
+  <figcaption>The nuclear family may be one stage of life rather than a fixed type.</figcaption>
+</figure>
 
 ## Exam traps
 

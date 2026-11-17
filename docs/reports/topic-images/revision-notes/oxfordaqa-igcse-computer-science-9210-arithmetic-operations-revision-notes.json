@@ -1,0 +1,8 @@
+{ "page": "oxfordaqa-igcse-computer-science-9210-arithmetic-operations-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-arithmetic-operations--01-real-div-mod.webp", "after": "## Operator table"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-arithmetic-operations--02-div-mod-two-stages.webp", "after": "## Rules to remember"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-arithmetic-operations--03-div-mod-toolkit.webp", "after": "## Standard patterns"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-arithmetic-operations--04-seconds-to-minutes.webp", "after": "## Standard patterns"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-arithmetic-operations--06-order-of-operations.webp", "after": "## Order of operations"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-arithmetic-operations--05-digit-sum-trace.webp", "after": "## Quick trace to remember"}
+] }

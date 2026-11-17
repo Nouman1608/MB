@@ -40,6 +40,16 @@ the [Unseen poetry study guide](/resources/aqa-gcse-english-literature-unseen-po
 Both questions are compulsory. The specification says students should experience a wide range of
 poetry so that they can analyse and compare content, theme, structure and use of language.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-2--19-p2-unseen.webp" width="900" height="920" alt="Two unseen poem sheets flank two question boxes. Question 1 analyses Poem 1 in depth for 24 marks. Question 2 compares Poem 1 with Poem 2 for 8 marks. A grid of 32 squares, 24 gold and 8 teal, shows the 24 plus 8 equals 32 marks. Both questions are compulsory and focus on content, theme, structure and language." loading="lazy">
+  <figcaption>Two compulsory questions: 24 marks for one poem, 8 marks to compare it with a second.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-unseen-poetry--02-up-time.webp" width="900" height="900" alt="Two bars show that Section C is one third of Paper 2 twice over: 32 of 96 marks and about 45 of 135 minutes. A clock face then shows the 45 minutes shared in proportion to the 24 and 8 marks: roughly 34 minutes for Part (i) and 11 minutes for Part (ii). The split is illustrative." loading="lazy">
+  <figcaption>Section C is a third of the marks and about a third of the time; the 45 minutes can be shared roughly in proportion to marks.</figcaption>
+</figure>
+
 ## Core recall
 
 - **Read for the question's focus.** The first question names an idea or feeling; read the poem twice
@@ -61,6 +71,11 @@ poetry so that they can analyse and compare content, theme, structure and use of
 3. **What is the tone, and does it change?**
 4. **What is the shape?** Stanzas, line lengths, rhyme or none, regular or broken rhythm.
 5. **What is the title doing?** It may name the subject, set up irony or hint at the ending.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-unseen-poetry--03-up-routine.webp" width="900" height="900" alt="Five numbered steps in order, each with a small icon. Step 1: read the whole poem once for subject and tone. Step 2: reread and mark stanzas, rhyme and shifts. Step 3: mark three or four strong language choices. Step 4: link every note to its effect. Step 5, for the 8-mark comparison: choose one shared technique." loading="lazy">
+  <figcaption>A five-step first read: whole poem, structure and form, language choices, effects, then one shared technique for the comparison.</figcaption>
+</figure>
 
 ## Tone vocabulary
 
@@ -98,11 +113,21 @@ Precise tone words make AO1 sharper than "happy" or "sad".
 3. **Structure and form**: shape, line breaks, turning point, ending.
 4. **Development**: how the feeling at the end differs from the beginning, with a final judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-unseen-poetry--04-up-chain.webp" width="900" height="750" alt="Two rows compare weak and strong annotation. In the first, a highlighted word on a poem leads to a feature box, but the arrows to the effect and the poem’s meaning are broken and crossed, so it earns little credit. In the second, the chain runs from feature to effect to the poem’s meaning, the method that also works for the anthology poems." loading="lazy">
+  <figcaption>A feature earns little credit until its effect and its link to the poem’s meaning are explained.</figcaption>
+</figure>
+
 ## The 8-mark answer in three moves
 
 1. One sentence on the shared focus.
 2. One or two methods compared across both poems, with brief quotations from each.
 3. A sentence on how the effects differ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-unseen-poetry--05-up-compare.webp" width="900" height="810" alt="Two panels. On the left, many thin crossing lines link two poems at scattered points of content: weaker. On the right, one thick double arrow links the same highlighted technique in both poems: stronger. Below, four chips list possible shared techniques: imagery, structure, form and tone. The advice is to analyse how each poet uses the chosen technique, similarly or differently." loading="lazy">
+  <figcaption>A strong comparison picks one shared technique and analyses it in both poems, rather than listing surface points.</figcaption>
+</figure>
 
 ## Exam traps
 

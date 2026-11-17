@@ -54,6 +54,11 @@ Condensed notes for key question **5.1 What is education and schooling?** (Cambr
 
 Place (institution v everyday life); planning (curriculum v unplanned); teachers (trained professionals v family, peers, media); outcomes (qualifications v skills and behaviour without certificates).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-1--01-map-of-education.webp" width="900" height="730" alt="Education splits into formal education, or schooling, and informal education in everyday life. Inside formal schooling sit the official curriculum (subjects, syllabus content, testing) and the hidden curriculum (norms and values, punctuality, conformity, gender roles). Informal learning in the family shapes how well a child does in formal education." loading="lazy">
+  <figcaption>The hidden curriculum belongs inside formal schooling.</figcaption>
+</figure>
+
 ## Official curriculum: three parts
 
 - **Subjects**: some carry more status than others.
@@ -68,6 +73,11 @@ Place (institution v everyday life); planning (curriculum v unplanned); teachers
 | Punctuality | Detentions for lateness |
 | Conformity | Uniform rules; raising a hand to speak |
 | Gender roles | Different sports offered to boys and girls |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-1--02-hidden-curriculum.webp" width="900" height="632" alt="Four rows linking how school is organised to what pupils learn: grades and prizes teach respect for authority and competition; bells and registers teach punctuality; uniforms, queuing and rules teach conformity; different expectations of boys and girls teach gender roles." loading="lazy">
+  <figcaption>Bells, uniforms and prizes teach lessons no timetable lists.</figcaption>
+</figure>
 
 ## Types of school: quick judgement
 
@@ -84,6 +94,16 @@ Place (institution v everyday life); planning (curriculum v unplanned); teachers
 
 **Golden rule**: raw results reflect intake. Compare progress (value added), not just grades.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-1--03-effectiveness-and-intake.webp" width="900" height="710" alt="Five meanings of effectiveness: exam results, value added, personal development, equality of opportunity and preparation for work. An illustrative pair of bar charts shows a selective school with a strong intake and high results but small progress, and a non-selective school with lower results but bigger progress." loading="lazy">
+  <figcaption>Judge schools by progress from the starting point, not raw results.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-1--05-single-sex-vs-coed.webp" width="900" height="652" alt="A balance weighing arguments for single-sex schools (subject choice, less male dominance, fewer distractions) against arguments that their results reflect intake, that co-education prepares pupils for mixed workplaces and that stereotyping persists. The judgement turns on how effectiveness is measured." loading="lazy">
+  <figcaption>Intake can explain much of the difference in raw results.</figcaption>
+</figure>
+
 ## Alternative approaches
 
 | Approach | Strength | Limitation |
@@ -95,6 +115,11 @@ Place (institution v everyday life); planning (curriculum v unplanned); teachers
 | Progressive schooling (Summerhill, A. S. Neill, 1921) | Confidence; democratic skills | Hard to compare outcomes; may not suit all |
 
 Background critic: Illich, *Deschooling Society* (1971), argued schools create dependence on institutions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-1--04-alternative-approaches.webp" width="900" height="760" alt="Five alternative approaches, each with a strength and a limitation: online learning, vocational learning, homeschooling, progressive schooling such as Summerhill, and unschooling. Illich’s Deschooling Society is the critical background." loading="lazy">
+  <figcaption>Every alternative trades structure for freedom in a different way.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -1,0 +1,29 @@
+{
+ "page": "as-chem-alcohols-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/as-alcohols-reactions-and-oxidation--01-alc-classify.webp",
+   "after": "## Classification decides everything"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-alcohols-reactions-and-oxidation--02-alc-oxidation.webp",
+   "after": "## Oxidation conditions"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-alcohols-reactions-and-oxidation--03-alc-reflux-distil.webp",
+   "after": "## Oxidation conditions"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-alcohols-reactions-and-oxidation--04-alc-dichromate-test.webp",
+   "after": "## Distinguishing tests"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-alcohols-reactions-and-oxidation--07-alc-acidity.webp",
+   "after": "## Acidity of alcohols vs water"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-alcohols-reactions-and-oxidation--06-alc-reactions-hub.webp",
+   "after": "## Other reactions"
+  }
+ ]
+}

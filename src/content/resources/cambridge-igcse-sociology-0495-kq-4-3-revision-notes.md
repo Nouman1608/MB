@@ -33,6 +33,11 @@ Condensed notes for key question **4.3 How is family life changing?** (Cambridge
 - Longer education and careers → **later parenthood** → wider gaps between generations.
 - Easier divorce law + female empowerment + secularisation + changing attitudes → **more divorce and cohabitation** → more lone-parent, reconstituted and single person households.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--01-demographic-change.webp" width="900" height="733" alt="Falling birth rates and rising life expectancy create an ageing population, which produces beanpole families and more care for elderly relatives; later parenthood makes the sandwich generation more likely. Below, a wide two-generation family tree contrasts with a long, thin four-generation beanpole." loading="lazy">
+  <figcaption>Birth and death trends are causes; the beanpole family is the effect.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -61,6 +66,11 @@ Condensed notes for key question **4.3 How is family life changing?** (Cambridge
 | Young and Willmott | Stages ending in the symmetrical family |
 | Urbanising societies today | Migrants form nuclear households in cities but keep extended ties at a distance |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--02-industrialisation-debate.webp" width="900" height="642" alt="Three accounts across pre-industrial, early industrial and later industrial times. Parsons: extended family gives way to the isolated nuclear family. Laslett: pre-industrial households were already mostly nuclear; Anderson: extended households were common in Preston in 1851. Young and Willmott: from a family working together, to separate lives, to the symmetrical family." loading="lazy">
+  <figcaption>The shift from extended to nuclear was not as simple as Parsons claimed.</figcaption>
+</figure>
+
 ## Six explanations for marriage, divorce and cohabitation trends (4.3.3)
 
 1. **Legislation**: easier, cheaper divorce; in England and Wales, "irretrievable breakdown" from the 1969 Act and no-fault divorce from 2022.
@@ -69,6 +79,16 @@ Condensed notes for key question **4.3 How is family life changing?** (Cambridge
 4. **Secularisation**: marriage less seen as sacred and lifelong.
 5. **Cultural expectations**: strong community and family expectations keep divorce lower in some groups.
 6. **Female empowerment**: financial independence lets women leave or avoid marriage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--03-why-marriage-and-divorce-changed.webp" width="900" height="525" alt="Six explanations around the trends of fewer and later marriages and more divorce and cohabitation: legislation, changing attitudes, the internet, secularisation, cultural expectations, and the changing status and power of women." loading="lazy">
+  <figcaption>Name the factor, then explain how it changes behaviour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--06-discuss-paragraph.webp" width="900" height="833" alt="A four-step paragraph on divorce: identify the changing status of women, explain the mechanism of financial independence, state the effect that leaving becomes realistic, and evaluate where the explanation fits best." loading="lazy">
+  <figcaption>Identify, mechanism, effect, evaluate: then repeat twice more.</figcaption>
+</figure>
 
 ## Alternatives to marriage (4.3.4)
 
@@ -79,6 +99,16 @@ Cohabitation (trial or permanent); singlehood (by choice); lone parents (divorce
 - **Conjugal**: from segregated to joint roles (symmetrical family, dual worker family); feminists point to the persisting dual burden; diverse family types create new arrangements; the sandwich generation carries extra care.
 - **Children**: from economic asset to **economic burden**; **child-centred** families invest more in fewer children; **boomerang children** return because of housing costs, debt and insecure work.
 - **Grandparents**: **childcare**; **economic support**; **wisdom and advice**; in later old age, **dependent** and sometimes seen as a **burden**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--04-sandwich-generation.webp" width="900" height="616" alt="Three generations stacked: middle-aged adults in the middle care for their ageing parents above and their own children below at the same time." loading="lazy">
+  <figcaption>Longer lives and later parenthood squeeze the middle generation from both sides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--05-children-and-grandparents.webp" width="900" height="633" alt="Children have moved from economic asset to burden, families are more child-centred, and boomerang children return home. Grandparents provide childcare, economic support and advice but may become dependent. Conjugal roles have become more joint, though feminists point to the dual burden." loading="lazy">
+  <figcaption>Roles have changed for every generation in the family.</figcaption>
+</figure>
 
 ## Exam traps
 

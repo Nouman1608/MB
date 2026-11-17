@@ -39,6 +39,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Python has no built-in array type** — students typically use lists (dynamic) even for conceptually static-array questions, unless using the `array` module (no strings, no multi-dimensional) or `numpy`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-arrays-and-lists--07-al-static-dynamic.webp" width="900" height="1130" alt="Static: fixed cells, fails when full, wastes memory when oversized, fast predictable access. Dynamic: grows from 3 to 5 items and shrinks to 2, adapts but has resizing overhead." loading="lazy">
+  <figcaption>Static structures have a fixed size; dynamic ones grow and shrink.</figcaption>
+</figure>
+
 ## Worked example: choosing a structure
 
 Storing daily temperature readings for a year (365/366 known values) vs an unknown, growing list of game high scores.
@@ -53,9 +58,19 @@ High scores:  DYNAMIC (list) -- count unknown and growing, so a
 
 Justifying the choice against **whether the data size is known and fixed, or unknown and growing** is what this sub-topic assesses — more than naming "array" or "list" correctly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-arrays-and-lists--08-al-scenario-choice.webp" width="900" height="860" alt="Known and fixed (365 or 366 temperature readings) suits a static array; unknown and growing high scores suit a dynamic list." loading="lazy">
+  <figcaption>Choose by whether the number of items is known in advance.</figcaption>
+</figure>
+
 ## Two-dimensional structures
 
 A 2D array/list of lists is indexed by **two coordinates** (typically row, column) — used for tabular or grid-based data (a spreadsheet, a game board). Exam questions **will not require more than two dimensions**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-arrays-and-lists--10-al-two-dimensional.webp" width="900" height="1050" alt="A 3 by 4 grid and the same data as a list of lists; grid[1][2] holds 7. Exams need at most two dimensions." loading="lazy">
+  <figcaption>Two-dimensional structures are indexed by row then column.</figcaption>
+</figure>
 
 ## Worked example: describing a 2D structure
 
@@ -84,6 +99,11 @@ This sub-topic's static-versus-dynamic framing recurs across every later data st
 ## Programming-exam flexibility
 
 In programming exam questions, it is acceptable to use either lists or arrays to solve a problem unless the question specifically states which must be used -- so don't assume a question phrased around "array" requires the array/numpy module in Python specifically if lists would solve the problem equally well and no data type is mandated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-arrays-and-lists--09-al-python-tools.webp" width="900" height="970" alt="Python has a built-in dynamic list; arrays need the array module (no strings, no multi-dimensional) or numpy; either is fine in exams unless the question says which." loading="lazy">
+  <figcaption>Python has lists built in; arrays come from imported modules.</figcaption>
+</figure>
 
 ## Common mistakes
 

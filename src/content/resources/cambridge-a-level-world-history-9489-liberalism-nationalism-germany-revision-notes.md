@@ -39,6 +39,11 @@ featured: false
 
 Most exam questions reward you for showing that the two could pull apart -- above all in 1866, when liberals forgave Bismarck's unconstitutional rule because he had delivered national success.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--07-ger-two-aims.webp" width="900" height="890" alt="Two columns. Liberalism: a parliament building icon; wanted constitutions, a free press and elected assemblies; mostly the professional and commercial middle class; strong in the south-west and Rhineland. Nationalism: a black-red-gold flag icon; wanted one German state; grew through universities and writers and the French war scare of 1840. Below, a note says the Indemnity Bill of 1866 marked liberalism being subordinated to nationalism, and that Bismarck delivered nationalism." loading="lazy">
+  <figcaption>Liberalism (constitutions and rights) and nationalism (one German state) were separate aims; keep them apart in your answers.</figcaption>
+</figure>
+
 ## Chronology
 
 | Date | Event |
@@ -75,6 +80,21 @@ Most exam questions reward you for showing that the two could pull apart -- abov
 | 18 Jan 1871 | German Empire proclaimed at Versailles |
 | 28 Jan / 10 May 1871 | Armistice / Treaty of Frankfurt |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--08-ger-confederation-repression.webp" width="900" height="749" alt="Vertical timeline. 1815: the Congress of Vienna creates a German Confederation of 39 states under Austrian presidency, with a Diet at Frankfurt and no common army or government. 1819: the Carlsbad Decrees bring censorship, supervised universities and a ban on student societies, after the murder of Kotzebue. 1830: revolutions bring constitutions to several smaller states. 1832: the Hambach Festival, then the Six and Ten Articles tighten control." loading="lazy">
+  <figcaption>A weak Confederation, and Metternich’s repression after 1819 and 1832.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--10-ger-1848-49-events.webp" width="900" height="789" alt="Vertical timeline. February 1848: revolution in Paris. March: Metternich falls; in Berlin troops are withdrawn and a constitution promised. May 1848: the Frankfurt Parliament meets and drafts fundamental rights. April 1849: Friedrich Wilhelm refuses the crown offered by the parliament and the assembly breaks up. 1850: at Olmutz Prussia gives up its union plan and the Confederation is restored under Austrian leadership." loading="lazy">
+  <figcaption>From Paris to Olmutz: how the 1848 revolutions rose and failed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--13-ger-road-to-1871.webp" width="900" height="1014" alt="Vertical timeline. 1867: the Luxemburg crisis leaves France humiliated. 1868: Zollparlament elections return many anti-Prussian southerners. 1870: the Hohenzollern candidature alarms France and is withdrawn. July 1870: the edited Ems Telegram and France declares war. September 1870: Napoleon III is captured at Sedan. 18 January 1871: the German Empire is proclaimed at Versailles. 28 January 1871: armistice. 1871: Treaty of Frankfurt takes Alsace and part of Lorraine." loading="lazy">
+  <figcaption>The steps from the Luxemburg crisis to the proclamation of the German Empire.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -93,6 +113,16 @@ Most exam questions reward you for showing that the two could pull apart -- abov
 | National Liberals | Liberals who backed Bismarck after 1866 |
 | Bundesrat | Federal council of state governments in the 1867 and 1871 constitutions |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--09-ger-zollverein-schematic.webp" width="900" height="1170" alt="Schematic, not a map. Prussia is a large circle at the centre of a dashed ring labelled Zollverein. Eight smaller circles representing other German states are joined to Prussia by thick lines for the customs union and to each other by dashed railway links. Austria is a separate circle outside the ring, marked as excluded. Notes: 1818 Prussian customs union; 1834 Zollverein formed without Austria; railways from the mid-1830s link markets." loading="lazy">
+  <figcaption>The Zollverein bound smaller states to Prussia economically and left Austria out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--11-ger-grossdeutsch-kleindeutsch.webp" width="900" height="919" alt="Two schematic panels. Grossdeutsch: Germany including Austria, with Prussia, Austria and other German states all inside one dashed boundary. Kleindeutsch: Germany without Austria, with Prussia and the other states inside the boundary and Austria outside. Below, reasons the Frankfurt Parliament failed: it divided over this question, had no army, depended on Prussia in the Schleswig-Holstein dispute, and feared worker radicalism; revolutionaries were also divided, while conservatives kept their armies." loading="lazy">
+  <figcaption>The Frankfurt Parliament could not agree whether a united Germany should include Austria.</figcaption>
+</figure>
+
 ## Key question summaries
 
 **2.1 Causes of 1848.** Repression (Carlsbad, the 1832 Articles) suppressed but did not destroy liberal and national ideas; the middle class grew with trade and railways; the Zollverein linked the economies of the states without uniting them politically; the crisis of 1846-47 brought hunger, unemployment and artisan distress; the February revolution in Paris was the spark.
@@ -102,6 +132,16 @@ Most exam questions reward you for showing that the two could pull apart -- abov
 **2.3 Bismarck to 1866.** He was appointed to win the army-budget conflict. He kept collecting taxes, then used foreign policy -- Denmark, Gastein, Biarritz, Italy -- to isolate Austria. Victory in 1866 converted much of the liberal opposition.
 
 **2.4 Unification.** The southern states resisted Prussian leadership; French fear of Prussian power provided the national cause that overcame that resistance. Luxemburg humiliated France; the Hohenzollern candidature and Ems Telegram brought a war that France declared and Germany won.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--12-ger-bismarck-road-1866.webp" width="900" height="1173" alt="Vertical timeline. September 1862: Bismarck appointed Minister-President in a budget dispute over the army. August 1863: Bismarck persuades Wilhelm to boycott the Congress of Princes. 1864: the Danish war fought with Austria. 1865: the Convention of Gastein gives Prussia Schleswig and Austria Holstein; Biarritz secures Napoleon III’s neutrality. 1866: secret alliance with Italy; the Seven Weeks’ War and the Prussian victory at Koniggratz; Treaty of Prague excludes Austria and forms the North German Confederation; the Indemnity Bill approves his spending." loading="lazy">
+  <figcaption>Each step isolated Austria, ending in the Prussian victory of 1866.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--14-ger-reich-constitution.webp" width="900" height="890" alt="Diagram of the 1871 constitution. The Kaiser (Wilhelm) is at the top. The Chancellor below answers to the Kaiser, shown by an upward arrow, but not to parliament, shown by a dashed crossed line to the Reichstag. The Reichstag is elected by universal male suffrage. The Bundesrat is federal. A note says southern states were won with concessions such as Bavaria keeping its own peacetime army, post and railways." loading="lazy">
+  <figcaption>The Chancellor answered to the Kaiser, not to the elected Reichstag.</figcaption>
+</figure>
 
 ## Exam traps
 

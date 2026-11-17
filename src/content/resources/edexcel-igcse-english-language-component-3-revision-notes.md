@@ -51,10 +51,20 @@ Internally assessed, externally moderated by Pearson. Available June and Novembe
 
 The word counts are **advisory**: the specification says there is no penalty for exceeding them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-3--02-c3-marks.webp" width="900" height="760" alt="Two to-scale stacked bars show the mark split per assessment objective, with word-count bars to scale." loading="lazy">
+  <figcaption>Component 3 is 60 marks: Assignment A 30 (AO1 12, AO2 18, about 1,200 words) and Assignment B 30 (AO4 18, AO5 12, about 700 words).</figcaption>
+</figure>
+
 ## Route check
 
 Every student takes Component 1 (Non-fiction Texts and Transactional Writing, 60%). Students then take
 **either** Component 2 (the examined version, 1 hour 30 minutes) **or** Component 3. You cannot do both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-3--01-c3-route.webp" width="900" height="900" alt="Component 3 is the coursework alternative to the Component 2 exam; both routes have the same 40% weighting and the same assessment objectives." loading="lazy">
+  <figcaption>Component 1 is compulsory, then a centre picks Component 2 (exam) or Component 3 (coursework); both carry 40% and test AO1, AO2, AO4, AO5.</figcaption>
+</figure>
 
 ## Anthology Part 2 texts
 
@@ -93,6 +103,21 @@ worth 18 of the 30 marks, analysis of methods matters more than the number of id
 | Freedom and constraint | "The Story of an Hour", "Still I Rise", "An Unknown Girl" | Contrasting perspectives on identity and confinement |
 | Fear and the unknown | "Whistle and I'll Come to You", "Night", "The Bright Lights of Sarajevo" | Darkness, fog and uncertainty handled very differently |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts--02-choosing-a-focus.webp" width="900" height="742" alt="Three tests for a focus: is it central in each text, do the writers present it differently, and do the texts use different methods? Weak focuses are improved: “Feelings” becomes “Moments of private realisation”, “War” becomes “Violence and its aftermath”, and “Women” becomes “The pressure of other people’s expectations”." loading="lazy">
+  <figcaption>A good focus is narrow enough to argue and broad enough for all three texts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-3--03-c3-thread.webp" width="900" height="1060" alt="Weak plan: three unconnected essays. Strong plan: Poem 1 extended metaphor, Poem 2 fragmented structure and prose understatement all linked to one thread about loss." loading="lazy">
+  <figcaption>A comparative plan joins all three texts to one thread (control of emotional distance from loss) instead of three separate analyses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-3--04-c3-mix.webp" width="900" height="960" alt="Four possible three-text selections drawn as icons with allowed or not-allowed marks." loading="lazy">
+  <figcaption>Assignment A needs at least one poetry and one prose text, so two poems + one prose or one poem + two prose are allowed; all poems or all prose are not.</figcaption>
+</figure>
+
 ## Assignment B: what the task must do
 
 - A teacher-devised task allowing access to AO4 and AO5.
@@ -111,6 +136,16 @@ worth 18 of the 30 marks, analysis of methods matters more than the number of id
 The AO4 top level asks for communication that is "perceptive and subtle" and a "sophisticated use of form,
 tone and register". The AO5 top level asks you to "manipulate complex ideas" and use "extensive vocabulary
 strategically".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-b-imaginative-writing--03-grid-levels.webp" width="900" height="665" alt="A table of Levels 3 to 5. AO4 rises from “communicates clearly” (8–11) through “communicates successfully” (12–15) to “perceptive and subtle” communication “sharply focused on purpose” (16–18). AO5 rises from “varied vocabulary” (5–7) through “wide, selective vocabulary” (8–10) to “extensive vocabulary strategically” (11–12)." loading="lazy">
+  <figcaption>Deliberate, strategic, selective choices mark the top levels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-b-imaginative-writing--02-two-routes.webp" width="900" height="502" alt="Route 1 takes a topic from an Anthology piece, such as a piece that begins or ends with a given line, or the next episode in a character’s story. Route 2 is unrelated, perhaps from images: a title such as “The visitor”, a frightening experience or an embarrassing moment. A continuation matches the voice and situation, but the writing, events and images are your own." loading="lazy">
+  <figcaption>Use an Anthology text as a springboard, not a template.</figcaption>
+</figure>
 
 ## Worked example: lifting an Assignment A sentence
 
@@ -133,6 +168,11 @@ The second version names structural devices, explains their effect (AO2) and con
 - Acknowledge sources; teachers must look out for essays derived from the internet or artificial
   intelligence (AI).
 - Each piece shows your name, the date completed, the mark and a brief teacher comment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts--06-drafting-within-rules.webp" width="900" height="626" alt="Four stages: you write the draft independently, the teacher may suggest general improvements, you make the corrections, and once marked the work must not be rewritten. The draft stage has three jobs: check every paragraph answers the focus, replace retelling with analysis, and include close reading in each text." loading="lazy">
+  <figcaption>The teacher may advise; you make every change, before marking.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

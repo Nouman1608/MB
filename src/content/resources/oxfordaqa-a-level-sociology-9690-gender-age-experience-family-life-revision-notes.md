@@ -68,6 +68,16 @@ Full explanation: [gender, age and the experience of family life study guide](/r
 - **Hochschild (1989)**: the second shift. **Duncombe and Marsden (1995)**: triple shift and emotion work.
 - **Gershuny**: lagged adaptation; change happens, but slowly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--01-roles-triple-shift.webp" width="900" height="634" alt="Parsons’s instrumental breadwinner role for husbands and expressive caring role for wives, then the triple shift of paid work, domestic labour and emotion work carried by many employed women." loading="lazy">
+  <figcaption>Women’s expressive role becomes a triple shift once they also take paid work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--03-domestic-labour.webp" width="900" height="643" alt="A grid applying three distinctions, tasks versus responsibility, routine versus occasional work and paid help, to men’s and women’s domestic work, with Edgell and Pahl on power and money." loading="lazy">
+  <figcaption>Counting tasks hides who carries responsibility and power.</figcaption>
+</figure>
+
 ## Reasons roles have changed
 
 - Women's employment and education.
@@ -75,6 +85,11 @@ Full explanation: [gender, age and the experience of family life study guide](/r
 - Decline of manual industry; Mac an Ghaill's "crisis of masculinity".
 - Smaller families and domestic technology.
 - New expectations of involved fatherhood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--02-changing-roles.webp" width="900" height="697" alt="Five reasons roles change: women’s employment, feminist ideas and equality laws, decline of manual industry, smaller families and technology, and changing fatherhood. These lead to Young and Willmott’s symmetrical family or Gershuny’s lagged adaptation." loading="lazy">
+  <figcaption>Roles are changing, but how far and how fast is disputed.</figcaption>
+</figure>
 
 ## Power and decision making
 
@@ -91,6 +106,11 @@ Full explanation: [gender, age and the experience of family life study guide](/r
 - Hidden: under-reported, so statistics underestimate it.
 - Acceptable discipline of children is socially constructed and varies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--04-violence.webp" width="900" height="504" alt="Three explanations of family violence: Dobash and Dobash on patriarchal authority, radical feminists on control, and others on poverty, stress and alcohol. A note covers under-reporting and changing ideas of discipline." loading="lazy">
+  <figcaption>Feminists see control where others see stress, and much violence goes unrecorded.</figcaption>
+</figure>
+
 ## Age
 
 | Group | Key points |
@@ -100,6 +120,21 @@ Full explanation: [gender, age and the experience of family life study guide](/r
 | **Adult children** | Boomerang families from housing costs, debt, insecure work, relationship breakdown, cultural norms |
 | **Older people** | High status where filial piety is strong; may fall with retirement in work-centred societies |
 | **Grandparents** | Childcare, money, cultural transmission; skipped-generation households where parents migrate or die |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--05-childhood.webp" width="900" height="601" alt="A timeline from medieval Europe, where children joined the adult world early, through the growth of a separate childhood and child labour and education laws, to Postman’s claim that television blurs the boundary. Cards contrast children in rural Bolivia with wealthy societies." loading="lazy">
+  <figcaption>Childhood differs over time and between societies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--06-child-centredness.webp" width="900" height="519" alt="Smaller families, lower infant mortality, rising living standards and expert parenting advice lead to the child-centred family. Gittins’s idea of age patriarchy and class variation qualify it." loading="lazy">
+  <figcaption>Child centredness grew, but adults still hold power over children.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life--07-adult-children-older.webp" width="900" height="663" alt="Reasons adult children return home to form boomerang families and the mixed effects, then a comparison of older people’s status where filial obligation is strong or status is tied to paid work, and grandparent roles." loading="lazy">
+  <figcaption>Generational roles stretch as children return and lives lengthen.</figcaption>
+</figure>
 
 ## Perspectives applied to this section
 

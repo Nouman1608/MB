@@ -35,6 +35,11 @@ Tort established  ->  Defence?  ->  Effect on damages
 Burden: defendant, balance of probabilities
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-defences-tort--01-defences-in-an-answer.webp" width="900" height="589" alt="The claimant first establishes the tort, then the defendant proves a defence on the balance of probabilities. Contributory negligence is partial and common; consent is complete but rare; the nuisance and Rylands defences are complete and depend on the facts. If both consent and contributory negligence are arguable, discuss consent first." loading="lazy">
+  <figcaption>Tort first, then the defence; consent is complete but rare, contributory negligence partial and common.</figcaption>
+</figure>
+
 ## Contributory negligence
 
 **Statute:** s1(1) Law Reform (Contributory Negligence) Act 1945: damages reduced as "just and equitable having regard to the claimant's share in the responsibility for the damage".
@@ -55,6 +60,21 @@ Burden: defendant, balance of probabilities
 | *Owens v Brimmell* (1977) | Lift from drinking driver | 20% |
 | *Sayers v Harlow UDC* (1957) | Climbing out of locked toilet | 25% |
 | *Jones v Livox Quarries* (1952) | Riding on back of vehicle | One fifth |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-defences-tort--02-contributory-negligence-test.webp" width="900" height="554" alt="Under the Law Reform (Contributory Negligence) Act 1945 damages are reduced, not defeated. The defendant shows the claimant failed to take reasonable care for their own safety, judged objectively, and that this contributed to the damage, not necessarily the accident (Froom v Butcher). The standard is adjusted for children (Gough v Thorne; Yachuk v Oliver Blais) and emergencies (Jones v Boyce)." loading="lazy">
+  <figcaption>Careless for their own safety, and that carelessness added to the damage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-defences-tort--03-apportionment-reductions.webp" width="900" height="680" alt="A bar chart of reductions: Froom v Butcher guidance of 25% if a seat belt would have prevented the injury and 15% if it would have made it less severe; O’Connell v Jackson 15%; Owens v Brimmell 20%; Sayers v Harlow UDC 25%; Jones v Livox Quarries one fifth. A 100% reduction is impossible (Pitts v Hunt)." loading="lazy">
+  <figcaption>Use a decided case to suggest a realistic percentage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-defences-tort--04-naz-apportionment.webp" width="900" height="408" alt="A bar of £40,000 full damages for Naz, an invented figure. The court finds her 20% responsible for cycling without lights, so £8,000 is deducted and £32,000 is awarded." loading="lazy">
+  <figcaption>Deduct the claimant’s share from the full damages.</figcaption>
+</figure>
 
 ## Consent (volenti non fit injuria)
 
@@ -80,6 +100,11 @@ Burden: defendant, balance of probabilities
 **Sport:** consent only to risks within the rules and conventions: *Condon v Basi* (1985).
 **Occupiers:** s2(5) OLA 1957; s1(6) OLA 1984.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-defences-tort--05-volenti.webp" width="900" height="605" alt="Six cards where consent fails: Smith v Baker (knowledge is not consent), Dann v Hamilton and s149 Road Traffic Act 1988 (passengers), Nettleship v Weston (instructor), Haynes v Harwood and Baker v TE Hopkins (rescuers), Reeves (custody), and UCTA s2(3) (notices). Below, it succeeded in ICI v Shatwell and Morris v Murray; in sport only inherent risks are accepted (Condon v Basi)." loading="lazy">
+  <figcaption>Knowing of a risk is not agreeing to it; volenti succeeds only where the choice was free and obvious.</figcaption>
+</figure>
+
 ## Defences to private nuisance
 
 | Defence | Rule | Case |
@@ -88,6 +113,11 @@ Burden: defendant, balance of probabilities
 | Statutory authority | Inevitable result of authorised activity | *Allen v Gulf Oil* (1981) |
 
 **Not defences:** coming to the nuisance (*Bliss v Hall*, 1838; *Miller v Jackson*, 1977; *Coventry v Lawrence*, 2014); public benefit (*Adams v Ursell*, 1913); planning permission (*Wheeler v JJ Saunders*, 1996).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-defences-tort--06-nuisance-defences.webp" width="900" height="482" alt="Two defences to private nuisance: prescription after 20 years of actionable nuisance (Sturges v Bridgman, where it failed) and statutory authority (Allen v Gulf Oil Refining). Three arguments that are not defences: coming to the nuisance (Bliss v Hall, Miller v Jackson, Coventry v Lawrence), public benefit (Adams v Ursell) and planning permission (Wheeler v JJ Saunders)." loading="lazy">
+  <figcaption>Prescription and statutory authority work; coming to the nuisance does not.</figcaption>
+</figure>
 
 ## Defences to Rylands v Fletcher
 
@@ -98,6 +128,11 @@ Burden: defendant, balance of probabilities
 | Consent / common benefit | *Peters v Prince of Wales Theatre* (1943) |
 | Statutory authority | *Green v Chelsea Waterworks* (1894) |
 | Claimant's default | *Ponting v Noakes* (1894) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-defences-tort--07-rylands-defences.webp" width="900" height="621" alt="A table of five Rylands v Fletcher defences: Act of God (Nichols v Marsland; contrast Greenock Corporation), act of a stranger (Rickards v Lothian; Perry v Kendricks Transport), consent or common benefit (Peters v Prince of Wales Theatre), statutory authority (Green v Chelsea Waterworks) and default of the claimant (Ponting v Noakes). A contractor’s act is not an act of a stranger." loading="lazy">
+  <figcaption>Five defences, each narrow: natural forces, strangers, consent, statute, the claimant’s own act.</figcaption>
+</figure>
 
 ## Evaluation points
 

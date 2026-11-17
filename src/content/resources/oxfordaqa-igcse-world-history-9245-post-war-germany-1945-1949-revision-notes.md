@@ -52,12 +52,22 @@ featured: false
 - **Refugees and expellees:** millions fled the Red Army; then expulsions from lands east of the Oder-Neisse line, the Sudetenland and elsewhere; estimates commonly twelve million or more.
 - **Forced labour:** millions of foreign forced labourers became displaced persons; German prisoners of war held by the USSR worked for years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-post-war-germany-1945-1949--01-peoples-problems.webp" width="900" height="560" alt="Four problems facing people in Germany after May 1945: ruins, hunger and the black market; refugees who fled and expellees forced out, twelve million or more; foreign forced labourers who became displaced persons; and German prisoners of war held abroad." loading="lazy">
+  <figcaption>Ruined cities, hunger and millions of uprooted people defined 1945-47.</figcaption>
+</figure>
+
 ## Allied control
 
 - Four zones (US, British, French, Soviet); Berlin in four sectors.
 - Allied Control Council for Germany as a whole.
 - Potsdam aims: demilitarise, denazify, democratise, decentralise.
 - Zones drifted apart as the Cold War grew.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-post-war-germany-1945-1949--02-four-zones.webp" width="900" height="609" alt="Schematic, not to scale: Germany divided into British, American and French western zones and a Soviet zone in the east, with Berlin inside the Soviet zone split into four sectors. Notes describe the Allied Control Council, and four chips list the Potsdam aims: demilitarisation, denazification, democratisation and decentralisation." loading="lazy">
+  <figcaption>Four zones and four sectors of Berlin, run by four powers in four different ways.</figcaption>
+</figure>
 
 ## Denazification and Nuremberg
 
@@ -67,6 +77,11 @@ featured: false
 | Denazification (Soviet zone) | Removal of old elites; land reform | Used to reshape society along communist lines |
 | Nuremberg Tribunal | November 1945-October 1946; Göring and others; crimes against peace, war crimes, crimes against humanity | Twelve death sentences, three acquittals; "following orders" no defence; Holocaust evidence made public |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-post-war-germany-1945-1949--03-denazification-nuremberg.webp" width="900" height="609" alt="Denazification compared: questionnaires and tribunals in the western zones, many later reversed, against the removal of old elites and land reform in the Soviet zone. Below, the Nuremberg Tribunal of 1945-46 and its two impacts." loading="lazy">
+  <figcaption>Denazification differed by zone; Nuremberg set the principle that orders were no defence.</figcaption>
+</figure>
+
 ## Penalties on the Soviet zone
 
 - Reparations mainly from its own zone, plus a share of western equipment.
@@ -74,12 +89,22 @@ featured: false
 - Military rule, violence by Soviet soldiers in 1945, special camps, the SED merger.
 - Result: slower recovery than in the west.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-post-war-germany-1945-1949--04-soviet-zone-penalties.webp" width="900" height="494" alt="Chain of reparations: enormous Soviet losses led to demands for reparations, taken mainly from the Soviet zone by dismantling factories, railways and machinery, which held back recovery. Below, Soviet military rule, special camps and the forced creation of the SED in April 1946." loading="lazy">
+  <figcaption>Reparations stripped the Soviet zone and slowed its recovery.</figcaption>
+</figure>
+
 ## The Cold War's impact
 
 - **Marshall Aid** for the western zones; refused for the Soviet zone.
 - **Deutsche Mark** (June 1948) and Erhard's lifting of price controls: shops filled, black market declined.
 - **Blockade** (June 1948-May 1949): about two million West Berliners supplied by air; rationing, power cuts, cold; Tegel runway built; Western powers seen as protectors.
 - **Two states** (1949): Federal Republic (Basic Law, Bonn, Adenauer); GDR (SED one-party state).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-post-war-germany-1945-1949--05-cold-war-1947-49.webp" width="900" height="663" alt="Timeline from June 1947 to October 1949: the Marshall Plan, the Deutsche Mark, the Berlin Blockade and airlift, the end of the Blockade and creation of the Federal Republic in May 1949, and the GDR in October 1949." loading="lazy">
+  <figcaption>A new currency in the west triggered the Blockade, and the crisis ended in two German states.</figcaption>
+</figure>
 
 ## Key terms
 

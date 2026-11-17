@@ -86,6 +86,21 @@ Practise with the [Employment practice questions](/resources/igcse-global-perspe
 | *Uber BV v Aslam*, UK Supreme Court, February 2021 | Uber drivers were "workers", entitled to rights such as the minimum wage and holiday pay | Shows perspectives in tension: flexibility versus security |
 | UK four-day week pilot, June-December 2022 | 61 companies, about 2,900 staff; 56 companies said they would continue | Volunteer firms and campaigning organisers; results may not generalise |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--01-informal-economy.webp" width="900" height="670" alt="A 100-square grid with just over 60 squares shaded shows the ILO’s 2018 estimate that more than 60% of the world’s employed population, about two billion people, work in the informal economy. The figure is credible but an estimate, because informal work is unrecorded. SDG 8 aims for decent work for all." loading="lazy">
+  <figcaption>A large share of the world’s workers have no contract or protection, but the figure is an estimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--06-automation-predictions.webp" width="900" height="662" alt="Two bars: Frey and Osborne (Oxford, 2013) estimated about 47% of US jobs at high risk of computerisation by judging whole occupations; Nedelkoska and Quintini (OECD, 2018) estimated about 14% of jobs across OECD countries as highly automatable by judging tasks within jobs." loading="lazy">
+  <figcaption>Different methods produce very different predictions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--03-uber-flexibility-security.webp" width="900" height="712" alt="Timeline: in February 2021 the UK Supreme Court ruled Uber drivers are workers, and in March 2021 Uber gave UK drivers the minimum wage, holiday pay and pensions. A spectrum from flexibility to security places Uber’s argument at one end, the drivers who brought the case at the other, and many drivers wanting both in the middle." loading="lazy">
+  <figcaption>Perspectives are not simply for or against: one driver can want flexibility and security.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Fact vs claim.** A fact can be checked. A claim may be true or false and needs evidence.
@@ -96,6 +111,16 @@ Practise with the [Employment practice questions](/resources/igcse-global-perspe
 - **Cause vs consequence.** A skills gap can *cause* unemployment. Lost income is a *consequence*.
 - **Symptom vs cause in actions.** A wage subsidy treats a symptom (too few hires). Retraining tackles a cause (missing skills).
 - **Global vs local issue.** The Individual Report needs a global issue with local and/or national and global perspectives. The Team Project needs a local issue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--05-brennock-correlation.webp" width="900" height="620" alt="Two line charts for the fictional town of Brennock: youth unemployment rose from 9.0% to 13.5% and the informal share of jobs rose from 30% to 37% over the same period. Both rising suggests a link but does not prove that one caused the other." loading="lazy">
+  <figcaption>Two figures moving together show correlation, not causation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--04-youth-unemployment-chain.webp" width="900" height="654" alt="Two causes, warehouse automation and a skills gap among school leavers, lead to young people out of work. Consequences follow at four levels: personal loss of income and confidence, local loss of trade and out-migration, national tax and welfare effects, and global pressure to migrate and cross-border competition." loading="lazy">
+  <figcaption>One local cause can spread consequences up to the national and global level.</figcaption>
+</figure>
 
 ## Mini essay plan: assessing courses of action
 
@@ -108,6 +133,11 @@ Practise with the [Employment practice questions](/resources/igcse-global-perspe
 5. **Action 3.** Same pattern, briefly.
 6. **Evidence check.** Which source evidence is strongest and weakest, and why (sample, vested interest, prediction).
 7. **Reasoned conclusion.** Repeat the judgement, give the deciding reason, and say what further evidence would change your mind.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-employment--08-employment-actions.webp" width="900" height="609" alt="A table of five employment actions with a benefit and drawback each: apprenticeships and retraining, wage subsidies, a minimum wage rise, rights for gig workers and a shorter working week. A worked judgement prefers retraining because it tackles a cause, combined with short-term support." loading="lazy">
+  <figcaption>The strongest action tackles a cause and lasts, but may need short-term help alongside it.</figcaption>
+</figure>
 
 ## Quick self-test
 

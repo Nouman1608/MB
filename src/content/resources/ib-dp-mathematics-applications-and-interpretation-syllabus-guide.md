@@ -84,6 +84,11 @@ Together, the five content strands total 120 hours at SL and 210 hours
 at HL, with the remaining 30 hours at both levels given to the
 toolkit and the mathematical exploration together, as described below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-applications-and-interpretation-syllabus-guide--01-strand-hours.webp" width="900" height="820" alt="Paired SL and HL bars: number and algebra 16 and 29, functions 31 and 42, geometry and trigonometry 18 and 46, statistics and probability 36 and 52, calculus 19 and 41. The strands total 120 hours at SL and 210 at HL, plus 30 hours of toolkit and exploration at both levels." loading="lazy">
+  <figcaption>Statistics leads at both levels; at HL geometry and trigonometry overtakes functions.</figcaption>
+</figure>
+
 ## Toolkit and exploration (30 hours, both SL and HL)
 
 The 30 hours at both SL and HL are shared between two components. The
@@ -100,6 +105,11 @@ though their external papers diverge sharply in calculator policy and
 content emphasis. Because this course emphasises real-world modelling,
 a genuine dataset or real-world context is a natural choice of topic,
 but it is not a requirement of the exploration itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-applications-and-interpretation-syllabus-guide--03-toolkit-and-exploration.webp" width="900" height="590" alt="The 30 hours at both levels are shared between the toolkit and the exploration, which takes up to 15 hours. The toolkit builds inquiry, modelling and technology skills; the exploration is a compulsory internally assessed investigation worth 20%. Six assessment objectives apply across all strands." loading="lazy">
+  <figcaption>Up to half of the 30 hours goes on the exploration itself.</figcaption>
+</figure>
 
 ## Assessment structure
 
@@ -119,6 +129,11 @@ statistical functions in particular) is worth as much dedicated
 practice time as the underlying mathematical content itself --
 questions are frequently designed assuming confident technology use
 rather than testing whether a student can avoid it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-applications-and-interpretation-syllabus-guide--02-assessment.webp" width="900" height="548" alt="Paper 1, short-response questions, is worth 40% at SL and 30% at HL; Paper 2, extended-response questions, 40% and 30%; Paper 3, HL only, 20%; and the exploration, the internal assessment, 20% at both levels. Technology is allowed throughout every paper." loading="lazy">
+  <figcaption>Every paper allows technology, so practise with your own calculator all course.</figcaption>
+</figure>
 
 ## How to approach it
 

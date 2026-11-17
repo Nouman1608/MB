@@ -64,6 +64,11 @@ Themes for the model texts in this unit: identities, experiences, human ingenuit
 organization. Reading lenses from the brief's conceptual understandings: **context, audience,
 purpose, meaning, variation**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--01-paper-2-weighting.webp" width="900" height="545" alt="Bars compare raw marks, 25 for listening and 40 for reading, with a circle showing each section worth 25 percent of the final grade, 50 percent in total. Cards note the outline is identical at SL and HL and that timings, number of texts and formats come from your teacher." loading="lazy">
+  <figcaption>Reading has more marks, but listening and reading each count for 25% of the grade.</figcaption>
+</figure>
+
 ## Method in steps: any reading question
 
 1. Circle the question word (*who, why, how many*). It fixes the answer type.
@@ -72,6 +77,11 @@ purpose, meaning, variation**.
 4. Scan for the synonyms or the idea.
 5. Read the full sentence and the next one.
 6. Answer only what is asked, as briefly as the marks allow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--02-locating-evidence.webp" width="900" height="860" alt="A short passage about a first week at a harbour café with By Friday highlighted as the scanned key phrase, letting me close up on my own highlighted as the answer, and dropped a tray of glasses struck through as a distractor. Four steps: underline key words, think of synonyms, scan, and read the whole sentence." loading="lazy">
+  <figcaption>Scan for a synonym of the key words, then read one clause further for the answer.</figcaption>
+</figure>
 
 ## Method in steps: each format
 
@@ -86,12 +96,27 @@ purpose, meaning, variation**.
 | Own-words explanation | Find the line; restate the idea with new vocabulary |
 | Inference | Quote → literal meaning → implied meaning |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--03-find-the-word.webp" width="900" height="597" alt="A passage about postponed parking rules with postpone highlighted and decided struck through. Three checks: match the word class, match the form, and test the word in the sentence. Below, copying the line introduced without consultation is contrasted with the paraphrase nobody asked them before the plan was made." loading="lazy">
+  <figcaption>Match class and form, test it in the sentence, and restate ideas in your own words.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--05-reference-words.webp" width="900" height="538" alt="In the sentence several shopkeepers feared they would lose customers, an arrow links they back to several shopkeepers, while a dashed line to residents is marked wrong. Three steps: look before the word, find what agrees, then replace and reread." loading="lazy">
+  <figcaption>Look back, find a match that agrees, and test it by substitution.</figcaption>
+</figure>
+
 ## Method in steps: listening
 
 - **Before:** read all questions; predict answer types (number, place, reason, feeling).
 - **During:** notes and symbols, not sentences. Keep going if you miss one.
 - **Traps:** self-corrections, two numbers, options mentioned then rejected.
 - **After:** fill gaps from notes; check spelling and agreement in the target language.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--06-listening-distractors.webp" width="900" height="583" alt="Three cards: before the recording, read and predict; during it, take notes with symbols; and watch for distractors such as self-corrections. In a worked example, March is mentioned first but marked as only a plan by we thought, and the words but and actually lead to the answer, May." loading="lazy">
+  <figcaption>The first thing you hear may be a distractor: listen for the words that signal a correction.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -129,6 +154,11 @@ minutes per mark = (time allowed - checking time) / marks
 Example: a practice set of 40 marks in 50 minutes, keeping 5 to check: 45 / 40 = 1.125 minutes per
 mark, so a 4-mark question gets 4.5 minutes. Use your teacher's real timings for your level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--07-time-budget.webp" width="900" height="551" alt="A 50-minute bar is split into 45 minutes answering and 5 minutes checking. The formula minutes per mark equals time allowed minus checking time, divided by marks, gives 45 divided by 40, or 1.125 minutes per mark, so a 4-mark question gets 4.5 minutes." loading="lazy">
+  <figcaption>Minutes per mark = (time − checking) ÷ marks; then spend time in proportion.</figcaption>
+</figure>
+
 ## Worked reminder: one paragraph, four skills
 
 *Original text written for Marlbridge (human ingenuity / social organization):*
@@ -142,6 +172,11 @@ mark, so a 4-mark question gets 4.5 minutes. Use your teacher's real timings for
 - **Reference:** *it* in "welcomed it" → **the app** (the change to an app).
 - **Paraphrase:** Mr Varga's reason → **he did not trust a device that needs power**.
 - **Infer:** "quietly" → the teachers **did not want to admit openly that he had been right**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--04-inference-chain.webp" width="900" height="627" alt="A three-link chain: quotation, what it says literally, what it implies. A worked example about Sami and Samuel links quotations such as no form has ever had room for to a literal reading and then to the inference that official systems leave no space for his real name and he has given up resisting." loading="lazy">
+  <figcaption>Quotation, literal meaning, implication: if you cannot point to the words, you have invented it.</figcaption>
+</figure>
 
 ## The five lenses as questions
 

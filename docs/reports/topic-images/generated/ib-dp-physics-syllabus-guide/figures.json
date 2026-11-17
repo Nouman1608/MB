@@ -1,0 +1,38 @@
+[
+ {
+  "file": "ib-dp-physics-syllabus-guide--01-course-map-hl-only.webp",
+  "width": 900,
+  "height": 1009,
+  "after": "## Why HL-only content clusters where it does",
+  "alt": "Five theme panels list sub-topics A.1 to E.5. Five are HL only: A.4 rigid body mechanics, A.5 Galilean and special relativity, B.4 thermodynamics, D.4 induction and E.2 quantum physics.",
+  "caption": "HL-only content clusters where the core models become more abstract.",
+  "bytes": 165982
+ },
+ {
+  "file": "ib-dp-physics-syllabus-guide--02-teaching-hours-by-theme.webp",
+  "width": 900,
+  "height": 820,
+  "after": "## Theme E -- Nuclear and quantum physics (23 hours SL / 39 hours HL)",
+  "alt": "Paired bars of recommended hours: Theme A 27 SL and 42 HL, Theme B 24 and 32, Theme C 17 and 29, Theme D 19 and 38, Theme E 23 and 39. Total teaching time is 150 hours at SL and 240 at HL, including a 40-hour or 60-hour experimental programme.",
+  "caption": "Theme A is the largest at both levels; Theme D gains the most hours at HL.",
+  "bytes": 100346
+ },
+ {
+  "file": "ib-dp-physics-syllabus-guide--03-experimental-programme.webp",
+  "width": 900,
+  "height": 730,
+  "after": "## The experimental programme",
+  "alt": "The 40-hour SL or 60-hour HL experimental programme is made up of practical work, a collaborative sciences project shared with other group 4 subjects and an internally assessed scientific investigation. It builds three skills, designing a fair test, reducing uncertainty and interpreting unfamiliar data, which are examined in the written papers and the internal assessment.",
+  "caption": "The practical skills are examined twice: in the papers and in the investigation.",
+  "bytes": 103640
+ },
+ {
+  "file": "ib-dp-physics-syllabus-guide--04-command-term-ladder.webp",
+  "width": 900,
+  "height": 740,
+  "after": "## Command terms across the five themes",
+  "alt": "Four steps of rising demand: state or define asks for a precise recalled fact; describe for an account of a pattern or process without explanation; explain for a reasoned account of why, often backed by a named law; evaluate or discuss for weighing a model, method or conclusion, including limitations. A warning notes that explain needs the physical reasoning behind a formula, not just the calculation.",
+  "caption": "Each command term asks for more than the one below it.",
+  "bytes": 93644
+ }
+]

@@ -46,6 +46,11 @@ Facts from the brief you can rely on:
 - Courses are formally assessed as product design, digital design, or combined.
 - The specification is written in criterion B and "drives the development of a solution" -- it is also what you test against in criterion D.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-d-evaluating--01-specification-drives-evaluation.webp" width="900" height="548" alt="The Criterion B specification feeds all four parts of criterion D: designing tests, carrying them out and judging each point, identifying improvements, and explaining the impact on the client or target audience. A vague specification leaves nothing precise to test against." loading="lazy">
+  <figcaption>Every test, judgement and improvement traces back to a specification point.</figcaption>
+</figure>
+
 ## Key definitions
 
 | Term | Meaning |
@@ -67,6 +72,11 @@ Facts from the brief you can rely on:
 > 4. Copy the success measure from the specification.
 > 5. Say what data you will record and in what units.
 > 6. Say who tests it (the real target audience) and where (real conditions).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-d-evaluating--02-test-plan-and-test-types.webp" width="900" height="685" alt="Each specification point gets a method, a success measure taken from the specification, data to record, and who tests it where; for example, the sag test loads 2 kg three times against a 5 mm target. Below, test types run from quantitative (performance tests, questionnaires) through both (user trials, comparison tests) to qualitative (interviews, expert appraisal)." loading="lazy">
+  <figcaption>Plan the test, the pass mark and the data before you test; use numbers and comments together.</figcaption>
+</figure>
 
 ## Test types at a glance
 
@@ -102,6 +112,11 @@ Facts from the brief you can rely on:
 
 **Worked reminder.** Weak: "I would make it lighter." Strong: "The stand was 0.15 kg over its 1.20 kg target. The steel hinge is the heaviest part, so a lighter hinge of the same length would cut the mass without weakening the desk, which passed its sag test. I would weigh it again to confirm."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-d-evaluating--05-strong-improvement.webp" width="900" height="745" alt="A weak improvement just says “make it lighter and easier to fold”. A strong one names the evidence, gives a specific change such as a lighter hinge or a larger thumb catch, explains why it would work, checks it does not undo the passed sag test, and plans a re-test." loading="lazy">
+  <figcaption>An improvement comes from a test result and ends with a plan to re-test.</figcaption>
+</figure>
+
 ## A results table that works
 
 | Spec point | Target | Result | Judgement | Reason or comment |
@@ -111,6 +126,11 @@ Facts from the brief you can rely on:
 | Cost | ≤ £12 | £9.40 | Met | £2.60 under budget |
 
 One row per specification point keeps the evaluation complete and makes gaps obvious.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-d-evaluating--03-results-and-judgements.webp" width="900" height="770" alt="Five specification points with target, result and judgement. Sag: mean 4.0 mm against 5 mm, met. Mass: 1.35 kg against 1.20 kg, 12.5% over, not met. Folding: 70% under 20 seconds against 80%, not met. Cost: £9.40 against £12, met. Carrying: 75% rated 4 or 5, met. The overall judgement links the two failures to the heavy hinge." loading="lazy">
+  <figcaption>Judge each point from the data, and report the failures honestly.</figcaption>
+</figure>
 
 ## Impact checklist
 
@@ -123,6 +143,11 @@ One row per specification point keeps the evaluation complete and makes gaps obv
 - **Evidence** -- link to ratings, interviews or trials; label predictions as predictions.
 - **Context** -- link to the global context set for your unit (the brief lists six, such as "Fairness and development").
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-d-evaluating--06-impact-categories.webp" width="900" height="810" alt="Five categories of impact for the music stand: use (faster set-up, fewer trips), wellbeing and ergonomics (lighter, but corners need rounding), cost and resources, environment (recyclable plywood, reusable hinge) and the wider community. A negative impact is included: the stand is too heavy for the youngest players." loading="lazy">
+  <figcaption>Impact is the difference the solution makes to people, good and bad, not a list of features.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Testing vs evaluating.** Testing collects data. Evaluating judges the data against the specification.
@@ -132,6 +157,11 @@ One row per specification point keeps the evaluation complete and makes gaps obv
 - **Features vs impact.** "It folds flat" is a feature. "Players can carry it in one hand between rooms" is impact.
 - **Product improvements vs test improvements.** You can also improve the testing: bigger sample, real setting, more repeats.
 - **Product design vs digital design tests.** Product: strength, mass, dimensions, durability. Digital: task success, time on task, compatibility across devices, loading time. Both use user trials.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-d-evaluating--04-mean-versus-proportion.webp" width="900" height="615" alt="Dot plot of ten folding times from 13 to 25 seconds against a 20-second limit. The mean is 18.0 seconds, under the limit, but only 7 of the 10 players (70%) folded the stand in under 20 seconds, so the target of at least 80% is not met." loading="lazy">
+  <figcaption>Test what the specification actually asked for: here a proportion, not a mean.</figcaption>
+</figure>
 
 ## Quick self-test
 

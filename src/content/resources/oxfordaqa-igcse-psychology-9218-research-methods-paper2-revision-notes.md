@@ -59,6 +59,11 @@ For full explanations, see the
 | Observation | What people actually do | Real behaviour | People change if watched; reasons unseen |
 | Correlation | Variables that cannot be manipulated | Shows relationships | No cause and effect |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods-paper2--01-self-report-methods.webp" width="900" height="752" alt="Questionnaires use closed questions, which give quantitative data, or open questions, which give qualitative data. Interviews are structured, with the same questions in the same order, or unstructured, like a conversation. Cards give a strength and weakness of each, and a warning that social desirability bias threatens both." loading="lazy">
+  <figcaption>Closed and structured questions are easy to compare; open and unstructured ones give depth.</figcaption>
+</figure>
+
 ## Inter-observer reliability in four steps
 
 1. Agree clear behaviour categories.
@@ -66,11 +71,21 @@ For full explanations, see the
 3. Each records independently.
 4. Compare tallies; high agreement = reliable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods-paper2--02-inter-observer-reliability.webp" width="900" height="726" alt="A tally sheet with four categories for observing personal space in a library, filled in by two observers with illustrative tallies. Three steps check inter-observer reliability: observe the same people at the same time, record independently with the same categories, then compare tallies; high agreement means the observation is reliable." loading="lazy">
+  <figcaption>Two observers, same categories, recorded independently: agreement shows reliability.</figcaption>
+</figure>
+
 ## Correlation
 
 - **Positive:** both rise together. **Negative:** one rises as the other falls. **None:** no pattern.
 - Plot on a **scatter diagram**, one point per person.
 - Always mention the possibility of a **third variable** when evaluating.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods-paper2--03-correlation-types.webp" width="900" height="678" alt="Three scatter diagrams with illustrative points. Positive: hours on social media rise with loneliness. Negative: more close friends goes with lower anxiety. No correlation: shoe size and conformity show no pattern. Below, a stressful job is shown as a third variable that could raise both social media use and loneliness, so correlation cannot show cause and effect." loading="lazy">
+  <figcaption>Correlation shows a relationship and its direction, never cause and effect.</figcaption>
+</figure>
 
 ## Quantitative versus qualitative
 
@@ -80,6 +95,11 @@ For full explanations, see the
 | From | Closed questions, tallies, scores | Open questions, interviews, case notes |
 | Strength | Easy to analyse; more reliable | Detailed; often more valid |
 | Weakness | Lacks depth | Hard to analyse; subjective |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods-paper2--04-data-types.webp" width="900" height="522" alt="Quantitative data (numbers) is easy to analyse and tends to be more reliable but can lack validity about feelings; qualitative data (words) is detailed and often more valid but harder to analyse and less reliable. Primary data is collected for the study and fits the aim but takes time; secondary data, such as government statistics, is quick but may not match the aim." loading="lazy">
+  <figcaption>Numbers favour reliability, words favour validity; primary data fits the aim, secondary data saves time.</figcaption>
+</figure>
 
 ## Data handling formulas and rules
 
@@ -95,6 +115,16 @@ For full explanations, see the
 - **Significant figures:** round from the first non-zero digit (0.04672 to two significant figures is
   0.047).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods-paper2--05-mean-median-mode-range.webp" width="900" height="645" alt="A dot plot of the ten anxiety ratings on a 1 to 10 scale, with three dots at 6. The mean of 6.5 is marked with a dashed line, the mode and median are both 6, and a bracket shows the range from 3 to 10, which is 7. Cards give each calculation and its strength or weakness." loading="lazy">
+  <figcaption>Mean 6.5, median 6, mode 6, range 7: four summaries of the same ten scores.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods-paper2--06-fraction-percentage-ratio.webp" width="900" height="631" alt="Twenty-four circles, eighteen shaded for bystanders who helped and six dashed for those who did not. The same result is written as the fraction 18/24 = 3/4, the percentage 75%, and the ratio of helpers to non-helpers 18:6 = 3:1. A note suggests estimating first: a bit less than 80%." loading="lazy">
+  <figcaption>3/4, 75% and 3:1 all describe the same 18 helpers out of 24.</figcaption>
+</figure>
+
 ## Graphs
 
 | Bar chart | Histogram | Scatter diagram |
@@ -103,6 +133,16 @@ For full explanations, see the
 | Gaps between bars | Bars touch | Points, no bars |
 
 **Normal distribution:** symmetrical, bell-shaped, most scores near the middle, mean = median = mode.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods-paper2--07-choosing-a-graph.webp" width="900" height="692" alt="Four small panels: a frequency table with score and frequency columns; a bar chart with gaps between bars for separate categories; a histogram whose bars touch for continuous data in intervals; and a scatter diagram with one point per participant for correlations. All values are illustrative." loading="lazy">
+  <figcaption>Gaps for categories, touching bars for continuous data, points for correlations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods-paper2--08-normal-distribution.webp" width="900" height="526" alt="An illustrative symmetrical bell-shaped curve. A dashed line at the centre marks the mean, median and mode, which are all equal. Most scores cluster around the middle, with fewer at the extremes on either side." loading="lazy">
+  <figcaption>Symmetrical and bell-shaped: mean, median and mode all sit at the centre.</figcaption>
+</figure>
 
 ## Choosing a method for a Paper 2 aim
 

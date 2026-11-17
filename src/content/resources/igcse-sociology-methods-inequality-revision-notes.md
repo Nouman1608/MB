@@ -66,6 +66,21 @@ Condensed for the final weeks. For the full explanation, use the
 
 **A pilot study** tests the method on a small scale first, so problems with wording, timing or procedure can be fixed before the main study.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-2--01-four-combinations.webp" width="900" height="674" alt="A two-by-two grid. Primary quantitative: your own closed-question questionnaire results. Primary qualitative: transcripts of your own unstructured interviews. Secondary quantitative: census or crime figures. Secondary qualitative: diaries, letters, news articles and social media posts." loading="lazy">
+  <figcaption>Who produced the data and what form it takes are two separate questions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-sociology-research-methods-identity-and-inequality--01-reliability-validity-trade-off.webp" width="900" height="560" alt="Quantitative methods such as questionnaires and structured interviews are strong on reliability but weaker on validity. Qualitative methods such as unstructured interviews and participant observation are strong on validity but weaker on reliability. Bars show which is strong and which is weaker." loading="lazy">
+  <figcaption>Quantitative methods tend to win on reliability, qualitative methods on validity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-sociology-research-methods-identity-and-inequality--02-sampling-and-ethics-rules.webp" width="900" height="500" alt="Three rules: without a sampling frame a researcher is often forced into non-random sampling; a larger sample reduces sampling error but does not remove bias; covert observation breaches consent and is defended only where overt research would be impossible. Ethics require informed consent, confidentiality, protection from harm and a right to withdraw." loading="lazy">
+  <figcaption>Size cannot fix a biased method, and covert research needs strong justification.</figcaption>
+</figure>
+
 ## Perspectives in one line each
 
 - **Functionalism** — institutions work together for stability through shared values.
@@ -88,6 +103,21 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Identity** is shaped by class, gender, ethnicity, age, nationality and religion — and by the agencies of socialisation that transmit expectations about each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--01-building-blocks.webp" width="900" height="752" alt="Culture contains a chain: values underpin norms, norms define roles, and roles attach to statuses, which are ascribed or achieved. Stereotypes can push people into roles regardless of ability, and customs are traditions passed between generations. Together they shape behaviour and social identity." loading="lazy">
+  <figcaption>Values underpin norms, norms define roles, roles attach to statuses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-methods-identity-and-inequality--05-formal-informal-control.webp" width="900" height="373" alt="Formal social control works through explicit rules and sanctions enforced by government, the police, the courts and the penal system. Informal social control works through unwritten norms enforced by family, peers and media through disapproval, praise, gossip and exclusion." loading="lazy">
+  <figcaption>Formal control uses written rules and penalties; informal control uses everyday reactions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-sociology-research-methods-identity-and-inequality--03-precise-identity-terms.webp" width="900" height="615" alt="Primary socialisation in the family in early childhood is followed by secondary socialisation through school, peers, media, religion and the workplace. Ascribed status is fixed at birth, such as sex; achieved status is earned, such as an occupation. Cross-cultural variation and feral children support nurture over nature." loading="lazy">
+  <figcaption>Use exact terms: primary and secondary socialisation, ascribed and achieved status.</figcaption>
+</figure>
+
 ## Inequality
 
 **Social class:**
@@ -101,6 +131,26 @@ Condensed for the final weeks. For the full explanation, use the
 **Gender:** the **glass ceiling** blocks promotion to senior roles; horizontal segregation concentrates women in particular occupations; vertical segregation concentrates them at lower levels. Causes include gender socialisation, the domestic and caring burden, discrimination, and interrupted careers. Changes: equal-pay legislation, girls' educational achievement, and changing attitudes.
 
 **Ethnicity:** discrimination in employment and housing, **institutional racism**, negative media representation, and the difficulty of separating ethnic disadvantage from class disadvantage — the two interact, and sociologists debate how much of the apparent ethnic effect is attributable to class rather than ethnicity itself. Raising that interaction, rather than treating the two as independent, is worth making.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-1--04-social-mobility.webp" width="900" height="670" alt="Intergenerational mobility compares a child’s position with a parent’s; intragenerational mobility is movement up or down within one person’s life. Below, the meritocracy argument of Davis and Moore set against critics who point to inherited wealth, unequal schooling, discrimination and networks." loading="lazy">
+  <figcaption>Mobility can be measured across generations or within one life.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-1--01-open-and-closed.webp" width="900" height="766" alt="Closed societies such as caste, slavery and apartheid rest on ascribed status with little movement, justified by religion, tradition or law. Open societies such as modern class systems rest on achieved status with movement up and down. Real class societies sit between the two." loading="lazy">
+  <figcaption>Ascribed status closes a society; achieved status opens it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-sociology-research-methods-identity-and-inequality--04-cycle-of-deprivation.webp" width="900" height="534" alt="A four-step cycle: poor housing and diet lead to poor health and educational underachievement, which lead to low-paid or insecure work, which reproduces poverty in the next generation, starting the cycle again." loading="lazy">
+  <figcaption>Each disadvantage feeds the next, so poverty passes down the generations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-sociology-research-methods-identity-and-inequality--05-gender-and-ethnic-inequality.webp" width="900" height="692" alt="An illustrative organisation with women concentrated in lower levels and a glass ceiling below the senior roles, beside definitions of vertical and horizontal segregation and their causes: gender socialisation, the domestic and caring burden and workplace discrimination. Below, ethnic inequality is explained by discrimination and institutional racism, with a note that ethnicity and class interact." loading="lazy">
+  <figcaption>The glass ceiling and segregation explain gender inequality; ethnic inequality interacts with class.</figcaption>
+</figure>
 
 ## Exam traps
 

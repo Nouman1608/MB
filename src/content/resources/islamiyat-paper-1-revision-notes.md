@@ -40,9 +40,24 @@ Condensed for the final weeks. For the full explanation, use the
 - **114 surahs**, classified as **Makkan** (shorter, on tawhid, the afterlife, moral conduct) or **Madinan** (longer, on law, community and social order).
 - Compiled under **Abu Bakr** after the Battle of Yamama, when many *huffaz* were killed; standardised under **Uthman**, who sent official copies to the main centres and had variants destroyed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--04-gradual-revelation.webp" width="900" height="678" alt="Revelation lasted about 23 years: some 13 in Makkah, with mostly short passages on belief, and 10 in Madinah, with longer passages including laws. Reasons: &quot;to strengthen your heart&quot; (Sura 25.32), recitation &quot;at intervals&quot; (Sura 17.106), answers to events, and rulings in steps, ending with the complete ban on intoxicants in Sura 5.90." loading="lazy">
+  <figcaption>Belief first in Makkah, law in Madinah, and rulings introduced step by step.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-islamiyat-paper-1--03-makkan-and-madinan-surahs.webp" width="900" height="620" alt="A comparison. Makkan surahs are generally shorter and more rhythmic and focus on belief: tawhid, prophethood and the Day of Judgement. Madinan surahs are generally longer and more detailed and deal with legislation and the organisation of the community, including worship, inheritance, marriage, treaties and warfare." loading="lazy">
+  <figcaption>The themes are not evenly spread: belief in Makkah, legislation in Madinah.</figcaption>
+</figure>
+
 ## Themes of the Qur'an
 
 **Tawhid** (oneness of God) · prophethood · the afterlife and judgement · guidance for personal conduct · law and social justice · relations with earlier scriptures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-islamiyat-paper-1--02-major-themes.webp" width="900" height="470" alt="Tawhid, the oneness of God, sits on top as the central theme. Beneath it are three further themes: prophethood, with Muhammad (pbuh) as the last prophet; the Day of Judgement and accountability; and guidance for individual and social conduct." loading="lazy">
+  <figcaption>Tawhid underlies the other three themes: prophethood, judgement and guidance.</figcaption>
+</figure>
 
 ## The Prophet's life — sequence
 
@@ -62,10 +77,20 @@ Condensed for the final weeks. For the full explanation, use the
 632  Farewell Sermon; death of the Prophet
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-islamiyat-paper-1--05-life-of-the-prophet-timeline.webp" width="900" height="694" alt="A vertical timeline split into the Makkah and Madinah periods: birth in 570, first revelation in 610, public preaching from 613, the Year of Sorrow in 619, the Hijra in 622, Badr in 624, Uhud in 625, the Trench in 627, Hudaybiyyah in 628, the Conquest of Makkah in 630 and the Farewell Sermon in 632." loading="lazy">
+  <figcaption>The Hijra of 622 divides his life into the Makkah and Madinah periods.</figcaption>
+</figure>
+
 ## Key events in Madinah (part of the Prophet's life, 1.3)
 
 - **Constitution of Madinah** — defined rights and duties of Muslims, Jews and other groups; established Madinah as a single community with the Prophet as arbiter.
 - The **Farewell Sermon** set out equality regardless of race, the sanctity of life and property, rights of women, and the abolition of usury and blood feuds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-life-prophet--03-building-the-community.webp" width="900" height="540" alt="Four foundations after the Hijra: the mosque as a centre for worship, teaching and decisions; brotherhood pairing Emigrants with Helpers; the Constitution of Madinah setting rights and duties for Muslims, Jewish tribes and others; and the change of qibla to the Ka'ba in 2 AH." loading="lazy">
+  <figcaption>Worship, brotherhood and a shared constitution made one community.</figcaption>
+</figure>
 
 ## The first Islamic community (1.4) — organised by people
 
@@ -84,6 +109,16 @@ their lives and be ready to explain the importance of their actions and experien
   Muslims of Madinah who received them; the Prophet paired them in brotherhood on arrival.
 - **The four Rightly Guided Caliphs during his lifetime** — Abu Bakr, Umar, Uthman and Ali, studied
   here for their lives and roles while the Prophet lived; their rule after his death is Paper 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-islamiyat-paper-1--06-first-community-people.webp" width="900" height="674" alt="Five groups studied in 1.4: the Prophet's wives, including Khadijah and Aisha; his descendants, including the line of Imams recognised among Shia Muslims; his leading Companions, the Ten Blessed, his Scribes and other major figures; the four Rightly Guided Caliphs in his lifetime; and the Emigrants and Helpers, formally paired on arrival in Madinah." loading="lazy">
+  <figcaption>Topic 1.4 is organised around people, not only events.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--07-emigrants-and-helpers.webp" width="900" height="722" alt="The Muhajirun left Makkah for their faith; the Ansar of Madinah, from Aws and Khazraj, sheltered them, and the Prophet (pbuh) paired them in brotherhood. Sa'd ibn al-Rabi' offered Abd al-Rahman ibn Awf half his wealth; he asked only for the market. Sura 59.9 praises the Ansar. Lessons: welcome and help those in need, and work to become self-reliant." loading="lazy">
+  <figcaption>Generosity on one side, self-reliance on the other: both are lessons for today.</figcaption>
+</figure>
 
 ## Battle of Badr — the detail examiners reward
 
@@ -114,6 +149,11 @@ that belongs here: heavy losses among Qur'an memorisers (*huffaz*) at
 the **Battle of Yamama**, fought during those wars, directly prompted
 Abu Bakr to order the Qur'an's collection into a single written text —
 the event covered under "The Qur'an — key facts" above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-islamiyat-paper-1--04-compiled-vs-standardised.webp" width="900" height="684" alt="After a strip on the Qur'an in the Prophet's lifetime (memorised and written, not yet one volume), two columns compare the caliphs. Abu Bakr compiled it after many huffaz died at Yamama, entrusting the work to Zayd ibn Thabit. Uthman standardised it after dialect disputes: Hafsah's sheets were copied by Zayd's committee, copies sent to the main centres and variants destroyed." loading="lazy">
+  <figcaption>Abu Bakr compiled the Qur'an; Uthman standardised it.</figcaption>
+</figure>
 
 ## Exam traps
 

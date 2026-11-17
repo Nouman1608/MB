@@ -74,6 +74,11 @@ Full explanation: [research methods and theory (Unit 2) study guide](/resources/
 | Key value | Reliability, representativeness | Validity |
 | Classic study | Durkheim, *Suicide* (1897) | Atkinson, *Discovering Suicide* (1978) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods-and-theory--01-theory-method.webp" width="900" height="545" alt="Positivism sees society as measurable social facts and favours quantitative methods, as in Durkheim’s use of suicide statistics; interpretivism sees society as meanings and favours qualitative methods, as in Atkinson’s study of coroners. Realists justify triangulation." loading="lazy">
+  <figcaption>A view of what society is leads to a view of how to study it.</figcaption>
+</figure>
+
 ## Values
 
 - **Comte/Durkheim**: value-free science is possible.
@@ -81,6 +86,11 @@ Full explanation: [research methods and theory (Unit 2) study guide](/resources/
 - **Gouldner (1962)**: value freedom is a myth that can hide commitment.
 - **Becker (1967)**: "Whose side are we on?"; sociologists inevitably take sides.
 - **Oakley (1981)**: feminist interviewing should be reciprocal, not detached.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods-and-theory--02-value-freedom.webp" width="900" height="557" alt="A spectrum from value-free science (Comte, Durkheim) through Weber’s value relevance with objective method to value commitment (Gouldner, Becker), with Oakley’s feminist critique of detached interviewing." loading="lazy">
+  <figcaption>Weber’s middle position separates choosing a topic from conducting the research.</figcaption>
+</figure>
 
 ## Burawoy's four sociologies (2004)
 
@@ -90,6 +100,11 @@ Full explanation: [research methods and theory (Unit 2) study guide](/resources/
 | Policy | Clients (governments, organisations) | Solving set problems |
 | Critical | Academics | Questioning assumptions |
 | Public | Communities, movements, media | Dialogue with civil society |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods-and-theory--03-burawoy.webp" width="900" height="598" alt="Burawoy’s four types of sociology: professional, policy, critical and public, with arguments for and against sociologists acting as activists and Weber’s middle path." loading="lazy">
+  <figcaption>Public sociology takes research beyond the university to civil society.</figcaption>
+</figure>
 
 ## Activism
 
@@ -107,11 +122,21 @@ Full explanation: [research methods and theory (Unit 2) study guide](/resources/
 | Symbolic interactionism | Meanings from interaction (Mead) | Blumer's three premises |
 | Postmodernism | End of metanarratives (Lyotard, 1979); hyperreality (Baudrillard) | Critics: late modernity (Giddens), reflexive modernity (Beck) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods-and-theory--05-theories.webp" width="900" height="1065" alt="A grid of functionalism, Marxism, feminisms, symbolic interactionism and postmodernism, each with its core claim, later developments and typical methods." loading="lazy">
+  <figcaption>Each theory comes with its own preferred methods.</figcaption>
+</figure>
+
 ## Structure and agency
 
 - Structural: functionalism, Marxism, many feminisms; large-scale quantitative methods.
 - Action: interactionism; small-scale qualitative methods.
 - Giddens (1984): duality of structure, as with language rules and speech.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods-and-theory--04-structure-agency.webp" width="900" height="622" alt="Structural theories stress constraint and favour quantitative data; social action theories stress agency and favour qualitative studies. Giddens’s structuration: structures constrain action, and action reproduces or changes structures, as language rules exist only because people keep speaking." loading="lazy">
+  <figcaption>Structures constrain action, and action keeps structures alive.</figcaption>
+</figure>
 
 ## Plan template for the 20-mark extended response
 
@@ -125,6 +150,11 @@ Full explanation: [research methods and theory (Unit 2) study guide](/resources/
 
 Aim to evaluate within each paragraph ("however", "this suggests", "a weakness is") rather than
 saving all evaluation for the end.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods-and-theory--06-twenty-mark.webp" width="900" height="996" alt="Six steps for a 20-mark answer on value freedom: define, present the view, develop alternatives, apply to research examples, evaluate throughout and conclude with a judgement." loading="lazy">
+  <figcaption>Evaluate throughout, then let the conclusion follow from the argument.</figcaption>
+</figure>
 
 ## Exam traps
 

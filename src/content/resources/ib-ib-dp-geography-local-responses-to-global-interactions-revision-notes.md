@@ -41,6 +41,11 @@ and diversity). For the full explanation, read the
 
 **Slow Food** (founded in Italy in the 1980s) is a well-known movement defending local food culture.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--21-dev-local-responses.webp" width="900" height="1000" alt="A global force acts on a local community, which responds by acceptance and adaptation, resistance, protection of heritage, local entrepreneurship, or political and community action. The key question is who benefits and who bears the costs." loading="lazy">
+  <figcaption>Communities respond in several ways; ask who benefits and who bears the costs.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |

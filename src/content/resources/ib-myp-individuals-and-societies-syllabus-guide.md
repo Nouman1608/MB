@@ -51,6 +51,11 @@ so the specific content a student studies can vary considerably between
 schools even though the subject group name and assessment criteria stay
 the same.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-societies-disciplines--01-disciplines-to-eassessment.webp" width="900" height="670" alt="Nine disciplines a school may teach, from integrated humanities and history to psychology and world religions, narrow to only three on-screen eAssessment subjects: history, geography and integrated humanities." loading="lazy">
+  <figcaption>Whatever discipline is taught, the eAssessment comes in only three subjects.</figcaption>
+</figure>
+
 ## Key and related concepts
 
 The framework is organised around key concepts of **change, global
@@ -88,6 +93,11 @@ standard described by level 1 -- so a single criterion's actual
 attainable range is 0-8, and the four-criterion subject total is 0-32,
 not 4-32.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-syllabus-guide--01-framework-and-criteria.webp" width="900" height="854" alt="Key concepts change, global interactions, time, place and space, and systems, with related concepts such as causality, globalization, culture and sustainability, explored through six global contexts. Work is assessed on four equally weighted criteria: A knowing and understanding, B investigating, C communicating and D thinking critically, each scored 0 to 8 for a total of 0 to 32." loading="lazy">
+  <figcaption>Concepts and contexts frame the work; four criteria, each 0 to 8, assess it.</figcaption>
+</figure>
+
 ## MYP eAssessment
 
 Students seeking IB MYP course results or the MYP certificate in this
@@ -115,6 +125,11 @@ rights and social protest, trade, aid and exchange, economic agents and
 their interests and role in the economy (consumers, producers,
 governments, banks), measurements and trends, and industrialization
 and technological developments.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-societies-disciplines--02-three-tasks.webp" width="900" height="630" alt="A bar split by marks: investigating 26, communicating 18 and thinking critically 36, out of 80. Investigating uses criteria A and B; communicating A and C; thinking critically, the largest task, A, C and D and ends in extended writing." loading="lazy">
+  <figcaption>Thinking critically carries 36 of the 80 marks and ends in extended writing.</figcaption>
+</figure>
 
 ## How to approach it
 

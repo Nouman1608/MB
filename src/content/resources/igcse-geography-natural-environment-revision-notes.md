@@ -40,6 +40,21 @@ destructive boundaries, producing frequent earthquakes and a high concentration 
 **Required case studies: one named earthquake, one named volcano** — for volcanoes, both hazards AND opportunities
 must be covered; a one-sided answer loses marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--16-ne-plate-boundaries.webp" width="900" height="1170" alt="Constructive or divergent: plates move apart and magma rises. Destructive or convergent: an oceanic plate sinks beneath a continental plate at a subduction zone, with a volcano above. Conservative: plates slide past each other." loading="lazy">
+  <figcaption>The three boundary types differ in the direction the plates move.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--15-ne-volcano-types.webp" width="900" height="1010" alt="Cross-sections of a steep-sided composite (strato) cone and a wide, gentle shield volcano. Each shows the crater at the top, a vent running down and a magma chamber underground." loading="lazy">
+  <figcaption>Composite cones are steep; shield volcanoes are wide and gentle; both have a crater, vent and magma chamber.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--17-ne-earthquake-terms.webp" width="900" height="1070" alt="A cross-section shows the focus underground with seismic waves spreading outwards in rings, and the epicentre on the surface directly above it. Two seismograph-style traces show that a stronger earthquake has a larger magnitude." loading="lazy">
+  <figcaption>The focus is underground, the epicentre is directly above it on the surface, and magnitude measures strength.</figcaption>
+</figure>
+
 ## 2.2 Rivers
 
 Hydrological characteristics: width, depth, speed of flow, discharge. Drainage basin terms:
@@ -48,6 +63,11 @@ flow, evaporation, overland flow. Erosion/transport/deposition landforms: waterf
 meanders, oxbow lakes, deltas, levées, flood plains — know the long profile and cross-sectional shape
 alongside named landforms. Rivers present both hazards (flooding, erosion) and opportunities.
 **Required case study: opportunities, hazards and management of a river or rivers.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--18-ne-drainage-processes.webp" width="900" height="1060" alt="A cross-section of a basin with a river, soil over rock and a watershed on the ridge. Six numbered arrows show interception, infiltration, throughflow, groundwater flow, evaporation and overland flow." loading="lazy">
+  <figcaption>Water moves through a drainage basin by six named processes.</figcaption>
+</figure>
 
 ## 2.3 Coasts
 
@@ -58,12 +78,22 @@ swamps need specific developmental conditions. Coastal hazards: coastal erosion,
 matters where river and coastal erosion vocabulary overlaps — always specify which agent (river, sea,
 wind) is doing the eroding for the environment named in the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--19-ne-coast-landforms.webp" width="900" height="1040" alt="A cliff and wave-cut platform with waves attacking the cliff base, and four stages of one headland: cave, arch, stack and stump." loading="lazy">
+  <figcaption>Erosion turns a cave into an arch, then a stack, then a stump.</figcaption>
+</figure>
+
 ## 2.4 Weather
 
 Largely instrument-and-diagram recall — drill instrument names against what they measure:
 Stevenson Screen (housing, siting, use), rain gauge, maximum-minimum thermometer, wet-and-dry bulb
 thermometer, sunshine recorder, barometer, anemometer, wind vane, simple digital instruments. Practise
 calculations from weather-instrument data and interpreting weather/climate graphs and diagrams.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--20-ne-weather-instruments.webp" width="900" height="940" alt="Eight drawings show the Stevenson screen and seven instruments with what each records: rain gauge (rainfall), max-min thermometer (highest and lowest temperature), wet-and-dry bulb thermometer (humidity), sunshine recorder (hours of sunshine), barometer (air pressure), anemometer (wind speed), wind vane (wind direction)." loading="lazy">
+  <figcaption>Each weather instrument records one thing.</figcaption>
+</figure>
 
 ## 2.5 Climate and natural vegetation
 
@@ -74,6 +104,11 @@ ocean currents. Two named ecosystems: **tropical rainforest** and **hot desert**
 vegetation-soil-wildlife-climate relationship for each. Causes and effects of tropical rainforest
 deforestation, locally and globally. **Required case study: an area of tropical rainforest AND an
 area of hot desert.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--21-ne-climate-graph.webp" width="900" height="860" alt="A temperature line and rainfall bars for twelve months show the hottest and coolest month means, the annual range (16 °C) and the total rainfall (600 mm) and its seasonal pattern. The data are illustrative, not a real place." loading="lazy">
+  <figcaption>A climate graph shows hottest and coolest month means, annual range, rainfall amount and its seasonal distribution.</figcaption>
+</figure>
 
 ## Case study strategy — plan early, reuse widely
 

@@ -51,6 +51,11 @@ MYP has no prescribed content list -- schools design their own units -- so check
 | Neutron | 1 | 0 | Nucleus |
 | Electron | about 1/1840 | −1 | Shells |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--02-nuclide-notation.webp" width="900" height="730" alt="Sodium-23 written with mass number 23 top left and atomic number 11 bottom left gives 11 protons, 23 − 11 = 12 neutrons and 11 electrons. Below, cards give the proton (mass 1, charge +1, nucleus), neutron (mass 1, charge 0, nucleus) and electron (mass about 1/1840, charge −1, shells)." loading="lazy">
+  <figcaption>Z gives the protons, A − Z the neutrons, and a neutral atom has as many electrons as protons.</figcaption>
+</figure>
+
 ## Formulas and rules
 
 | What | Rule |
@@ -63,6 +68,11 @@ MYP has no prescribed content list -- schools design their own units -- so check
 | Period | number of occupied shells |
 | Group (1, 2, 13-17) | outer electrons (groups 13-17: last digit) |
 | Ionic formula | total + charge = total − charge |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--03-isotopes-relative-atomic-mass.webp" width="900" height="750" alt="Chlorine-35 and chlorine-37 both have 17 protons, 17 electrons and arrangement 2,8,7 but have 18 and 20 neutrons. With 75% chlorine-35 and 25% chlorine-37, the weighted mean is 35.5, closer to 35." loading="lazy">
+  <figcaption>Isotopes differ only in neutrons; Aᵣ is pulled towards the more abundant isotope.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -89,6 +99,16 @@ MYP has no prescribed content list -- schools design their own units -- so check
 > 3. Say whether that force is strong or weak, or whether the charged particles can move.
 > 4. Link back to the property in the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--04-electron-arrangement.webp" width="900" height="800" alt="Shell diagrams for lithium 2,1, sodium 2,8,1, chlorine 2,8,7 and calcium 2,8,8,2. The number of occupied shells gives the period (2, 3, 3 and 4) and the outer electrons give the group (1, 1, 17 and 2)." loading="lazy">
+  <figcaption>Number of shells = period; outer electrons = group (last digit for groups 13 to 17).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--05-ionic-dot-and-cross.webp" width="900" height="860" alt="Dot-and-cross diagram: a sodium atom 2,8,1 passes its outer electron to a chlorine atom 2,8,7, giving [Na]+ with 2,8 and [Cl]− with a full outer shell of eight, one of them a dot from sodium. Below, two Al3+ (+6) balance three O2− (−6), giving Al2O3." loading="lazy">
+  <figcaption>Metal atoms lose electrons, non-metal atoms gain them, and the ions’ charges must balance.</figcaption>
+</figure>
+
 ## Small worked reminders
 
 - ¹⁹₉F⁻: 9 protons, 10 neutrons, 10 electrons (2,8).
@@ -110,6 +130,21 @@ MYP has no prescribed content list -- schools design their own units -- so check
 | Conducts molten | Yes | No | No | Yes |
 | Other | Brittle | Often gases or liquids at room temperature | Diamond hard; graphite soft | Malleable, ductile |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--06-covalent-dot-and-cross.webp" width="900" height="880" alt="Dot-and-cross diagrams with overlapping outer shells. Water has two shared pairs and two lone pairs on oxygen; ammonia has three shared pairs and one lone pair on nitrogen; methane has four shared pairs; carbon dioxide has two double bonds. Each atom except hydrogen ends with 8 outer electrons; hydrogen has 2." loading="lazy">
+  <figcaption>Every atom except hydrogen ends with eight outer electrons; hydrogen ends with two.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--07-simple-vs-giant-covalent.webp" width="900" height="820" alt="Three structures. Simple molecules have strong bonds inside each molecule but weak forces between molecules, so low melting points and no conduction. Diamond is a network in which each carbon forms four bonds: very hard, very high melting point, non-conducting. Graphite has layers of carbons with three bonds each, weak forces between layers and a delocalised electron, so it is soft and conducts." loading="lazy">
+  <figcaption>Whether melting breaks weak forces or strong covalent bonds decides the melting point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--01-metal-properties.webp" width="900" height="1070" alt="A lattice of positive ions sits in a sea of free electrons. Layers slide when the metal is hammered, free electrons carry current and heat along a wire, and strong ion-electron attraction gives high melting points." loading="lazy">
+  <figcaption>Metallic bonding explains malleability, conduction and high melting points.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Mass number vs relative atomic mass**: mass number is a whole number for one isotope; Aᵣ is an average for the element and is often not a whole number.
@@ -127,6 +162,16 @@ The brief names **models** as a related concept for MYP sciences, and **change**
 - Models: the plum pudding model was replaced by the nuclear model after the gold-foil experiment showed most alpha particles pass straight through and a few bounce back.
 - Relationships: electron arrangement explains group, period and the charge of an ion.
 - Systems: the same element (carbon) behaves very differently as diamond and graphite.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-atomic-structure-and-bonding--01-models-of-the-atom.webp" width="900" height="800" alt="Four stages in order: Thomson’s 1897 plum pudding of electrons in a ball of positive charge; Rutherford’s 1911 nuclear model with a tiny dense positive nucleus in mostly empty space; Bohr’s 1913 electrons in fixed energy levels; and Chadwick’s 1932 discovery of the neutron in the nucleus." loading="lazy">
+  <figcaption>The atomic model is a model: it was replaced each time new evidence demanded it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-atomic-structure--01-plum-pudding-vs-nuclear.webp" width="900" height="1090" alt="Alpha particles fired at one atom. With plum pudding positive charge spread out, every path bends only a few degrees. With a tiny nucleus most pass straight, some deflect and a few bounce back. Large deflections were seen, so the model was replaced." loading="lazy">
+  <figcaption>Scattering results fit a concentrated nucleus, not a spread-out positive charge.</figcaption>
+</figure>
 
 ## Quick self-test
 

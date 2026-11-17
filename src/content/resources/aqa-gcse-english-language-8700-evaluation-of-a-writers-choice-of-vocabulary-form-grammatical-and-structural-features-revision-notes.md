@@ -38,6 +38,11 @@ Pick a precise detail, name it accurately, explain what it does to the reader an
 writer's purpose. Language points work at the level of words and sentences; structure points work at the level of the
 whole text and its sequence. Form is the type of text and the conventions it uses or breaks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--02-four-areas-of-choice.webp" width="900" height="669" alt="Four bands from smallest to largest unit: vocabulary (single words), grammar (how words are arranged), form (the kind of text and its conventions) and structure (the whole text as a sequence), each with the features to look for." loading="lazy">
+  <figcaption>Words, arrangement, kind of text, whole sequence: four places to look for choices.</figcaption>
+</figure>
+
 ## Where it is tested
 
 | Question | Marks | Focus |
@@ -46,6 +51,11 @@ whole text and its sequence. Form is the type of text and the conventions it use
 | Paper 1, Question 3 | 8 | Structure of the whole fiction extract |
 | Paper 1, Question 4 | 20 | Evaluation, using methods as evidence |
 | Paper 2, Question 3 | 12 | Language in one non-fiction source |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--01-where-tested-marks.webp" width="900" height="668" alt="Bars to scale: Paper 1 Question 2 (8 marks, language), Paper 1 Question 3 (8 marks, structure), Paper 1 Question 4 (20 marks, evaluation) and Paper 2 Question 3 (12 marks, language). AO2 covers analysing language and structure; AO4 takes the step to judging." loading="lazy">
+  <figcaption>Four questions test the writer’s choices; the 20-mark evaluation is the largest.</figcaption>
+</figure>
 
 ## Key terms: vocabulary
 
@@ -71,6 +81,11 @@ whole text and its sequence. Form is the type of text and the conventions it use
 | Tense shift | Change, for example past to present | Immediacy or memory |
 | End focus | Key word placed last | Emphasis at the close of a sentence |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--03-grammar-effects.webp" width="900" height="649" alt="A table pairs grammar choices with effects: a simple sentence after complex ones emphasises an idea; long sentences mimic breathlessness; questions and commands change the reader’s role; tense, pronouns, modal verbs, the passive voice and word order each shift meaning or emphasis." loading="lazy">
+  <figcaption>Grammar creates effects just as vocabulary does.</figcaption>
+</figure>
+
 ## Key terms: form and structure
 
 | Term | Meaning |
@@ -83,6 +98,11 @@ whole text and its sequence. Form is the type of text and the conventions it use
 | Cyclical structure | Ending returns to the opening |
 | Motif | A detail that recurs and gathers meaning |
 | Withholding | Delaying information to build tension |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--04-structure-map.webp" width="900" height="706" alt="A text drawn as a column of paragraphs, with labels from top to bottom: opening, shifts in focus, time, repetition and patterning (a dashed arrow loops from the end back to the start), paragraphing (a one-line paragraph) and ending." loading="lazy">
+  <figcaption>Structure is the order and shape of the whole text, from opening to ending.</figcaption>
+</figure>
 
 ## Language or structure? Quick sort
 
@@ -100,6 +120,11 @@ Short quotation -> accurate term -> effect on the reader -> link to the question
 
 Evaluative phrases: "particularly effective because", "the impact is strengthened by", "this is the turning point
 because", "less convincing, perhaps, is".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--05-name-explain-evaluate.webp" width="900" height="838" alt="Three rising steps. “The writer uses a verb” is accurate but inert. “The verb ‘clawed’ gives the wind the violence of an animal” explains an effect. Evaluation judges why the choice is right at this moment or how it shapes the whole passage, with phrases such as “particularly effective because”." loading="lazy">
+  <figcaption>A term earns credit only when it leads to an effect, and then to a judgement.</figcaption>
+</figure>
 
 ## Exam traps
 

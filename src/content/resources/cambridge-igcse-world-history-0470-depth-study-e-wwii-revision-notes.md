@@ -58,6 +58,21 @@ Russian winter.
 (November 1942), surrounded the Sixth Army under Paulus, which surrendered in February 1943. After it, the Red Army
 held the initiative.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-second-world-war--08-ww2-europe-1940.webp" width="900" height="801" alt="A timeline of German conquests. September 1939: Poland. April 1940: Denmark and Norway. 10 May 1940: attack on the Netherlands, Belgium and France. Late May to early June 1940: Dunkirk, where over 300,000 British and French troops were evacuated but their equipment was left behind. 22 June 1940: France signs an armistice; the north and west are occupied and a collaborating Vichy government under Marshal Petain runs the south. Britain remains undefeated." loading="lazy">
+  <figcaption>By mid-1940 Germany dominated western and central Europe, but Britain remained undefeated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-second-world-war--09-ww2-battle-of-britain.webp" width="900" height="998" alt="A schematic of the English Channel: German aircraft above the French side and RAF fighters above the British side, with the invasion arrow of Operation Sea Lion blocked. Below, a chain of reasons: invasion needed control of the air over the Channel; the RAF, helped by radar, its fighter-control system and Hurricane and Spitfire fighters, inflicted unsustainable losses on the Luftwaffe in the Battle of Britain (July to October 1940); in September Germany switched to bombing London, which relieved pressure on airfields; Hitler postponed Sea Lion. The Royal Navy and the Channel were further obstacles." loading="lazy">
+  <figcaption>Without air control, Operation Sea Lion could not go ahead and Hitler postponed it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-second-world-war--10-ww2-barbarossa-stalingrad.webp" width="900" height="1029" alt="Four reasons Hitler invaded the Soviet Union lead to Operation Barbarossa on 22 June 1941: Lebensraum in the east, hatred of communism and a racial view of Slavs, Ukrainian grain and Caucasus oil, and the belief that the Red Army, weakened by Stalin’s purges, would collapse. Germany was stopped before Moscow in December 1941. In 1942 it aimed at the Caucasus oilfields and Stalingrad. A schematic shows Soviet forces closing round the German Sixth Army in the November 1942 counter-offensive. The Sixth Army surrendered in early February 1943 and the initiative passed to the Red Army." loading="lazy">
+  <figcaption>Barbarossa stalled before Moscow; at Stalingrad Germany lost a whole army and the initiative.</figcaption>
+</figure>
+
 ## Key question 2: How did the Asia-Pacific war develop?
 
 - **Deteriorating relations:** Japan's war in China from 1937; Japanese troops into French Indochina (1940-41); the
@@ -72,6 +87,16 @@ held the initiative.
   troops ever to surrender.
 - **Midway** (June 1942): American code-breakers learned the plan; Admiral Nimitz ambushed the Japanese fleet; Japan
   lost four aircraft carriers and many experienced pilots and could not replace them as fast as the USA.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-second-world-war--11-ww2-pearl-harbor.webp" width="900" height="941" alt="A chain shows relations worsening: Japan seized Manchuria in 1931, invaded China in 1937, joined the Tripartite Pact in 1940 and moved into French Indochina; in 1941 the USA froze Japanese assets and cut oil exports. Japan faced a choice between withdrawing from China and seizing the oil of the Dutch East Indies, and chose war. The attack on Pearl Harbor on 7 December 1941 sank or damaged eight US battleships and many aircraft, but the US aircraft carriers were at sea and the fuel tanks and repair yards were intact. It brought a united USA into the war, and Germany declared war on the USA days later." loading="lazy">
+  <figcaption>Pearl Harbor was a short-term success for Japan, but it left the US carriers and fuel intact and united the USA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-second-world-war--12-ww2-malaya-and-midway.webp" width="900" height="891" alt="Top panel, Malaya and Singapore: Japan landed in northern Malaya on 8 December 1941; the battleships Prince of Wales and Repulse were sunk on 10 December; Singapore surrendered on 15 February 1942. Reasons for Japanese success: experienced, fast-moving troops, air superiority, and British underestimation with defences planned against attack from the sea. Bottom panel, Midway in June 1942: US codebreakers warned of the plan; four Japanese aircraft carriers were sunk for the loss of one US carrier; Japan lost pilots and carrier strength it could not replace and the USA took the initiative." loading="lazy">
+  <figcaption>Japan won fast in Malaya and Singapore, but at Midway it lost four carriers to one and the initiative passed to the USA.</figcaption>
+</figure>
 
 ## Key question 3: What was the impact of war on civilians?
 
@@ -94,6 +119,11 @@ murder co-ordinated at the Wannsee Conference (January 1942).
 - **Malaya:** the communist-led Malayan People's Anti-Japanese Army, mostly Chinese, fought a guerrilla war from the
   jungle with help from the British Force 136; its military effect was limited, but it ended the war armed and with growing prestige.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-second-world-war--13-ww2-civilians.webp" width="900" height="700" alt="Four cards. The Blitz, 1940-41: night raids on London and cities such as Coventry, tens of thousands killed, evacuation, shelters and blackout. Bombing of Germany, 1943-45: RAF night area bombing and US daylight raids, firestorms in Hamburg (July 1943) and Dresden (February 1945). Japanese control of Malaya and Singapore: the Sook Ching massacres of Chinese civilians, the Kempeitai, food shortages and forced labour. Nazi-occupied Poland: ghettos such as Warsaw, death camps including Auschwitz-Birkenau, Treblinka and Sobibor, about six million Jews murdered in the Holocaust." loading="lazy">
+  <figcaption>Civilians suffered bombing, occupation and genocide; each case is named in the syllabus.</figcaption>
+</figure>
+
 ## Key question 4: How did the Allies achieve victory?
 
 - **Italy:** Sicily invaded (July 1943); Mussolini overthrown; Italy surrendered (September 1943); Germany occupied the
@@ -111,6 +141,11 @@ murder co-ordinated at the Wannsee Conference (January 1942).
 - **Consolidation:** Germany divided into four zones and denazified; the Nuremberg trials of leading Nazis
   (1945-46); Japan occupied under General MacArthur, with a new constitution and the emperor kept as a symbol; the
   Tokyo trials of Japanese leaders.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-second-world-war--14-ww2-allied-victory.webp" width="900" height="978" alt="A timeline in two theatres. Europe: July 1943 Allied invasion of Sicily; September 1943 Italy surrenders; June 1944 D-Day landings (6 June) and the fall of Rome; 30 April 1945 Hitler kills himself; 7 to 8 May 1945 Germany surrenders. Asia-Pacific: 6 August 1945 atomic bomb on Hiroshima; 8 August the Soviet Union declares war on Japan; 9 August Nagasaki; 15 August Japan’s surrender announced; 2 September 1945 surrender signed. Afterwards Germany was divided into four occupation zones, Japan was occupied under General MacArthur, and trials were held at Nuremberg (1945-46) and Tokyo (1946-48)." loading="lazy">
+  <figcaption>Victory in Europe came in May 1945 and in the Pacific in August–September 1945.</figcaption>
+</figure>
 
 ## Key terms
 

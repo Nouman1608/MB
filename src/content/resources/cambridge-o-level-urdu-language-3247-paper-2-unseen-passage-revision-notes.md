@@ -50,11 +50,21 @@ model paragraphs are in the
 
 The climb from Level 3 to Level 6 is the climb from *what* to *how*.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--01-what-the-levels-reward.webp" width="900" height="840" alt="The top level (18-20 of 20 marks) asks for a perceptive personal response, deeper implications, a detailed response to the writer's effects and integrated reference. Lower levels make &quot;some response&quot; or &quot;a little reference&quot; to language, and a paraphrase shows only surface meaning." loading="lazy">
+  <figcaption>The gap between middle and top is how much you say about how the writing works.</figcaption>
+</figure>
+
 ## Three-pass reading
 
 1. **What?** situation, speaker, setting: one-line summary.
 2. **How does it feel?** mood and any shift in mood.
 3. **How is it done?** technique plus effect for each marked phrase.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--03-three-passes.webp" width="900" height="560" alt="Three readings: first, what happens or is said, with a one-sentence summary; second, how it feels, marking the words that carry the mood; third, how it is done, naming the technique behind each marked word and its effect." loading="lazy">
+  <figcaption>What, then how it feels, then how it is done.</figcaption>
+</figure>
 
 ## Terms and their jobs
 
@@ -71,6 +81,11 @@ The climb from Level 3 to Level 6 is the climb from *what* to *how*.
 | طنز (satire) | what is criticised through mockery |
 | ردیف / قافیہ (refrain / rhyme) | in verse: what the repeated sound binds together |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--04-toolkit.webp" width="900" height="1072" alt="Ten Urdu critical terms with English equivalents and the question each prompts: تشبیہ simile, استعارہ metaphor, پیکر تراشی / منظر نگاری imagery, تضاد contrast, تکرار repetition, علامت symbol, لہجہ tone, کردار نگاری characterisation, مکالمہ dialogue and طنز / مزاح satire and humour. Poetry adds form, such as قافیہ and ردیف." loading="lazy">
+  <figcaption>Every term comes with a question about its effect.</figcaption>
+</figure>
+
 ## The analytical sentence
 
 **Point** – **short quotation** – **technique** – **effect on the reader** – **link to the question or
@@ -79,11 +94,21 @@ a deeper implication**.
 > دادی "دیوار سے" بات کرتی ہیں؛ یہ چھوٹی سی تفصیل بتاتی ہے کہ ان کی بات سننے والا کوئی نہیں، اور
 > یوں ان کی تنہائی بغیر کہے نمایاں ہو جاتی ہے۔
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--05-worked-analysis.webp" width="900" height="775" alt="Five short quotations from the worked extract with their technique and effect: the simile جیسے کوئی بوڑھا اپنی بات ادھوری چھوڑ کر جا رہا ہو, the tired neem tree, اس سال بھی showing years of waiting, the simile پتھر کی طرح, and the contrast of laughter and silence. The personal response مجھے ... لگا comes after the analysis." loading="lazy">
+  <figcaption>Short quotation, technique, effect: then a judgement the analysis has earned.</figcaption>
+</figure>
+
 ## Answer frame
 
 - **Opening** (2–3 sentences): answer the question directly.
 - **One paragraph per prompt**, two or more integrated quotations each.
 - **Closing judgement**: a personal response grown from the analysis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--02-prompts-as-plan.webp" width="900" height="758" alt="The worked question اس اقتباس میں مصنف نے انتظار اور تنہائی کی کیفیت کس طرح پیدا کی ہے؟ with its three prompts on setting and nature, the grandmother's manner and words, and the contrast of laughter and silence. Each prompt becomes one or two paragraphs with short quotations, ending with a link to the question." loading="lazy">
+  <figcaption>One prompt, one or two paragraphs, each tied back to the question.</figcaption>
+</figure>
 
 ## Precise tone words
 
@@ -100,6 +125,11 @@ Avoid "sad" and "happy" alone. Try: *حسرت* (longing), *مایوسی* (despai
 | 13–16 | plan: one paragraph per prompt, quotations listed |
 | 16–42 | write |
 | 42–45 | check spelling, agreement and that every paragraph answers the question |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--06-exam-technique.webp" width="900" height="885" alt="Part 1 carries 20 of Paper 2's 50 marks, so roughly 45-50 minutes of the two hours, leaving time for two 15-mark essays. Five steps: read the question and prompts first, annotate, open with a direct answer, write a paragraph per prompt with integrated quotations, and end with an earned judgement." loading="lazy">
+  <figcaption>Spot a device only to say what it does to the reader.</figcaption>
+</figure>
 
 ## Exam traps
 

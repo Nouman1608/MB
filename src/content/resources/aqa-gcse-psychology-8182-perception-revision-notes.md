@@ -44,6 +44,11 @@ Condensed recall for **section 3.1.2 Perception** of Paper 1. For full explanati
 | Fiction | Perceiving something that is not there, such as an edge |
 | Ambiguity | One image can be interpreted in more than one way |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--01-sensation-perception.webp" width="900" height="539" alt="An upright tree in the world forms a flat, upside-down image on the retina, yet we see a three-dimensional, upright tree. Sensation is the detection of physical energy by the sense organs; perception is the brain organising and interpreting it." loading="lazy">
+  <figcaption>Sensation detects; perception interprets and adds what the retinal image lacks.</figcaption>
+</figure>
+
 ## Depth cues
 
 - **Monocular (4):** height in plane, relative size, occlusion, linear perspective.
@@ -60,6 +65,11 @@ Condensed recall for **section 3.1.2 Perception** of Paper 1. For full explanati
 
 **Size constancy** links the cues to the illusions: the brain scales up an object it believes is far away, so that a friend walking off does not appear to shrink. When a drawing fools the brain into thinking one part is further away, constancy makes that part look bigger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--02-depth-cues.webp" width="900" height="692" alt="Four monocular cues with small pictures: height in plane (a boat near the horizon looks further away), relative size (a smaller car seems further), occlusion (a person in front of a door hides part of it) and linear perspective (railway lines meeting in the distance). Two binocular cues: retinal disparity and convergence. A note explains size constancy." loading="lazy">
+  <figcaption>Four monocular and two binocular cues let a flat image show depth.</figcaption>
+</figure>
+
 ## Illusions: name it, explain it
 
 | Illusion | Explanation |
@@ -73,6 +83,16 @@ Condensed recall for **section 3.1.2 Perception** of Paper 1. For full explanati
 
 **Which theory explains illusions best?** Gregory's: each illusion is the brain applying a rule learned in a three-dimensional world (perspective, constancy, rooms being rectangular) to an image where the rule does not fit. Gibson's supporters reply that illusions are flat, still drawings with far less information than a real, moving scene.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--04-illusion-explanations.webp" width="900" height="679" alt="Three line drawings: Rubin's vase, which can be seen as a vase or two faces; the Necker cube, which flips orientation; and the Kanizsa triangle, whose edges the brain fills in. A table groups illusions by explanation: ambiguity, fiction, misinterpreted depth cues with size constancy (Ponzo, Müller-Lyer) and misinterpreted depth cues (Ames Room)." loading="lazy">
+  <figcaption>Illusions come from ambiguity, fiction, or depth cues and size constancy applied where they do not fit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--04-c-illusions.webp" width="900" height="1010" alt="Two classic illusions with their equal parts shown. In the Ponzo figure two horizontal bars lie between converging lines; both bars are the same length but the upper one looks longer. In the Müller-Lyer figure two shafts are the same length but the one with outward fins looks longer than the one with inward fins. The brain misapplies depth cues." loading="lazy">
+  <figcaption>In both figures the highlighted lines are exactly equal: sensation is the same, perception differs.</figcaption>
+</figure>
+
 ## The two theories side by side
 
 | | Gibson: direct theory | Gregory: constructivist theory |
@@ -82,6 +102,16 @@ Condensed recall for **section 3.1.2 Perception** of Paper 1. For full explanati
 | Key idea | The optic array holds enough information; motion parallax gives distance | The brain makes a best guess from incomplete information using past experience |
 | Strength | Explains fast, accurate perception in the real world | Explains illusions and perceptual set |
 | Weakness | Cannot easily explain illusions | Does not explain why perception is usually so fast and accurate |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--03-c-perception-theories.webp" width="900" height="980" alt="Two columns. Gibson's direct theory is bottom-up: the visual array (motion parallax, texture gradient, optic flow) leads straight to perception with no inference. Gregory's constructivist theory is top-down: sensory data is interpreted by the brain using prior knowledge and expectation before perception." loading="lazy">
+  <figcaption>Gibson: bottom-up, enough information in the visual array. Gregory: top-down, the brain makes inferences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--03-motion-parallax.webp" width="900" height="765" alt="A view from a train window. Fence posts close to the track flash past quickly in the opposite direction, shown by a thick arrow, while distant hills move slowly and seem to travel with you. Gibson argued the brain reads this difference in speed directly as distance. Strength and weakness cards follow." loading="lazy">
+  <figcaption>Near objects race past, distant ones creep: the speed difference is direct information about distance.</figcaption>
+</figure>
 
 ## Factors affecting perception
 
@@ -105,6 +135,11 @@ Both studies are controlled laboratory tasks: easy to replicate, but low in ecol
 **Both support Gregory**: perception is shaped by what is in the perceiver's mind (expectation, need), which is top-down processing.
 
 **Culture in more detail:** the "carpentered world" idea is that people raised among straight-edged buildings learn to read angles as corners, so the Müller-Lyer illusion fools them more strongly. Research has also found that people with little experience of pictures may read depth cues in drawings differently, for example not reading relative size as distance. Both points suggest perceptual inferences are **learned**, supporting nurture.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--05-perceptual-set.webp" width="900" height="674" alt="Bruner and Minturn: an ambiguous figure shown between A and C was reported as B, and between 12 and 14 as 13. Cards cover motivation (hungry participants judged food pictures brighter), emotion, culture and the Müller-Lyer illusion, and an evaluation that both studies were artificial." loading="lazy">
+  <figcaption>Expectation, motivation, emotion and culture create a readiness to perceive in a particular way.</figcaption>
+</figure>
 
 ## Applying it to a scenario
 

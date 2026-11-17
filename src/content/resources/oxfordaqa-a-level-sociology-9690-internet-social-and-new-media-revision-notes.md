@@ -76,6 +76,36 @@ These notes condense content point **3.2.3.3 The internet and social and new med
 - Morozov (2011): cyber-utopianism criticised. Gladwell (2010): weak ties and slacktivism.
 - Platforms profit from user content; few creators earn a living.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-internet-social-and-new-media--01-gatekeepers.webp" width="900" height="601" alt="Gatekeeping has moved from newspaper editors to search engines and recommendation systems, so attention becomes scarce. Castells’s network society and mass self-communication sit below." loading="lazy">
+  <figcaption>Algorithms have replaced editors as the main filters of what people see.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-internet-social-and-new-media--02-networked-publics.webp" width="900" height="715" alt="boyd’s four features of networked publics: persistence, visibility, spreadability and searchability. Below, family, friends, teachers and employers collapse into one audience for a single online self, with Turkle’s isolation argument and a reply." loading="lazy">
+  <figcaption>Online, posts last and spread, and separate audiences collapse into one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-internet-social-and-new-media--03-mental-health.webp" width="900" height="535" alt="Mechanisms by which social media might harm young people, from Twenge and others, set against methodological problems such as correlation, inaccurate self-reports, reverse causation and crude screen-time measures." loading="lazy">
+  <figcaption>Plausible mechanisms, but weak evidence of universal harm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-internet-social-and-new-media--04-platform-capitalism.webp" width="900" height="799" alt="A platform sits between users, advertisers and producers, and network effects favour a few giants (Srnicek). Zuboff’s chain turns users’ behaviour into data that predicts and influences behaviour and is sold to advertisers. Marxist and pluralist readings and the Cambridge Analytica case follow." loading="lazy">
+  <figcaption>Platforms profit from their position between groups and from users’ data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-internet-social-and-new-media--05-filter-bubbles.webp" width="900" height="549" alt="Pariser’s filter bubble, Sunstein’s echo chambers and the finding that false news spreads faster, set against Bruns’s argument that strong filter bubbles are weakly supported and Uscinski and Parent’s century of conspiracy talk." loading="lazy">
+  <figcaption>Algorithms amplify falsehood, but people choose what to share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-internet-social-and-new-media--06-audience.webp" width="900" height="545" alt="Three forms of audience involvement: prosumers and produsers, citizen journalists in Tunisia, Egypt and Minneapolis, and influencers as microcelebrities. Evaluation from Morozov, Gladwell and the economics of platforms." loading="lazy">
+  <figcaption>Audiences now produce content, but power and profit stay uneven.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |

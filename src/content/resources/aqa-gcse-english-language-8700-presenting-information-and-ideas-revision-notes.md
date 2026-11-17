@@ -65,6 +65,11 @@ appropriate to the formal setting).
 
 **Competency basis:** every criterion in a grade must be met for that grade to be awarded.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--01-presenting-grade-ladder.webp" width="900" height="568" alt="A table of the three grades for presenting. Pass: straightforward ideas, an attempt to organise, an attempt to meet the audience’s needs. Merit: challenging ideas with a range of vocabulary, clear structure, achieves the purpose. Distinction: sophisticated ideas and vocabulary, an effective range of engagement strategies, achieves the purpose. Every grade needs audibility and spoken Standard English." loading="lazy">
+  <figcaption>Every criterion for a grade must be met; challenging and sophisticated ideas need depth.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -84,11 +89,21 @@ appropriate to the formal setting).
 - Make it **specific** to a place, group or decision.
 - Make sure it has **more than one side** or something to explain beyond the obvious.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--02-flat-topic-to-depth.webp" width="900" height="619" alt="Four flat topics become topics with depth: my favourite football club becomes “Should football clubs be owned by their fans?”; climate change becomes what one town can realistically do; social media becomes whether it makes teenagers more or less lonely; a holiday in Italy becomes what living elsewhere taught me about my own town." loading="lazy">
+  <figcaption>A question or claim gives a topic room for challenging ideas.</figcaption>
+</figure>
+
 ## Selection test for every piece of information
 
 1. Does it serve the purpose?
 2. Will the audience understand it on one hearing?
 3. Is it memorable when heard, not read?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--03-three-filters.webp" width="900" height="654" alt="A funnel with three filters: does the information serve my purpose, will my audience understand it without a long explanation, and is it memorable when heard once? What passes goes into the talk; the rest is cut. One vivid example often beats three statistics, and sources are noted for questions." loading="lazy">
+  <figcaption>Keep only what serves the purpose, suits the audience and sticks when heard once.</figcaption>
+</figure>
 
 ## Spoken structures
 
@@ -99,6 +114,11 @@ appropriate to the formal setting).
 | Past, present, future | Explaining change |
 | Two options compared | Weighing a decision |
 | Myth-busting | Correcting common misunderstandings |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--04-organising-for-listeners.webp" width="900" height="706" alt="Five shapes for a talk: problem and solution; claim, reasons and counter-argument; past, present and future; two options compared; and myth-busting. Then three ways to keep listeners on track: signpost aloud, such as “That brings me to the second”, repeat key ideas, and summarise before concluding." loading="lazy">
+  <figcaption>Listeners cannot reread, so choose a shape and signpost it aloud.</figcaption>
+</figure>
 
 ## Making structure audible
 
@@ -113,6 +133,11 @@ appropriate to the formal setting).
 - More repetition of key ideas.
 - Pauses in place of parenthesis.
 - Formal, but natural: not an essay read aloud.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--05-written-vs-spoken.webp" width="900" height="532" alt="A two-column table. Written style uses long sentences with several clauses, phrases like “It could be argued that…”, parenthesis and headings. Spoken style uses shorter sentences with one idea at a time, “Some people say…”, pauses and separate sentences, and signposting phrases." loading="lazy">
+  <figcaption>Keep a formal register, but write for the ear, not the page.</figcaption>
+</figure>
 
 ## Visual aids: use or lose
 

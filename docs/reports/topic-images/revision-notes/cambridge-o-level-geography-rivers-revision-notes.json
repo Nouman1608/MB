@@ -1,0 +1,10 @@
+{ "page": "cambridge-o-level-geography-rivers-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/igcse-geography-rivers--09-riv-pathways.webp", "after": "## Drainage basin"},
+ {"src": "https://img.marlbridge.com/cambridge-o-level-geography-rivers--01-downstream-changes.webp", "after": "## Downstream changes"},
+ {"src": "https://img.marlbridge.com/igcse-geography-rivers--11-riv-transport.webp", "after": "## Processes"},
+ {"src": "https://img.marlbridge.com/cambridge-o-level-geography-rivers--02-waterfall-gorge.webp", "after": "## Landforms in one line each"},
+ {"src": "https://img.marlbridge.com/cambridge-o-level-geography-rivers--03-meander-levee-sections.webp", "after": "## Landforms in one line each"},
+ {"src": "https://img.marlbridge.com/igcse-geography-rivers--13-riv-meander-oxbow.webp", "after": "## Landforms in one line each"},
+ {"src": "https://img.marlbridge.com/cambridge-o-level-geography-rivers--04-flood-management.webp", "after": "## Flood management"},
+ {"src": "https://img.marlbridge.com/cambridge-o-level-geography-rivers--05-nile-aswan.webp", "after": "## Flood management"}
+] }

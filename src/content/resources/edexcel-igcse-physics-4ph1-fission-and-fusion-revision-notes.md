@@ -33,6 +33,11 @@ core content. Explanations and a model answer are in the
 - Fission, fusion **and** radioactive decay all release energy (7.17).
 - Far more energy per kilogram than burning fuels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-fission-and-fusion--01-three-nuclear-energy-sources.webp" width="900" height="545" alt="Three panels: radioactive decay, where an unstable nucleus emits alpha, beta or gamma radiation; fission, where a neutron splits a heavy nucleus into two smaller ones; and fusion, where two light nuclei join into a heavier one." loading="lazy">
+  <figcaption>Decay, fission and fusion all release far more energy per kilogram than burning.</figcaption>
+</figure>
+
 ## Fission of uranium-235
 
 1. U-235 nucleus absorbs a (slow) **neutron**.
@@ -44,6 +49,11 @@ core content. Explanations and a model answer are in the
 - Many different pairs of daughters are possible.
 - Example: ¹₀n + ²³⁵₉₂U → ¹⁴⁴₅₆Ba + ⁸⁹₃₆Kr + 3 ¹₀n (check: 236 = 144 + 89 + 3; 92 = 56 + 36).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-fission-and-fusion--02-fission-of-u235.webp" width="900" height="670" alt="A slow neutron is absorbed by a uranium-235 nucleus, which becomes unstable uranium-236 and splits into barium-141 and krypton-92 plus three neutrons that fly apart. The equation n + U-235 → Ba-141 + Kr-92 + 3n balances: 236 = 236 and 92 = 92." loading="lazy">
+  <figcaption>Neutron in, nucleus splits: two radioactive daughter nuclei, two or three neutrons, and kinetic energy.</figcaption>
+</figure>
+
 ## Chain reaction
 
 - Neutrons from one fission cause more fissions.
@@ -51,6 +61,11 @@ core content. Explanations and a model answer are in the
 - Uncontrolled: rapidly growing number of fissions, explosive.
 - Controlled (reactor): on average **one** neutron per fission causes another, so the rate is steady.
 - **Why uncontrolled growth is so fast:** if every fission triggered two more, the generations would run 1, 2, 4, 8, 16... After only 10 generations, 1024 nuclei would be splitting at once, and each generation takes a tiny fraction of a second.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-radioactivity-and-particles--04-chain-reaction.webp" width="900" height="1160" alt="Two diagrams of a chain reaction. With no control one fission releases three neutrons, which split three nuclei and then nine. With control rods two of every three neutrons are absorbed so only one nucleus is split in each generation." loading="lazy">
+  <figcaption>Control rods keep a chain reaction steady by absorbing the extra neutrons.</figcaption>
+</figure>
 
 ## Reactor parts
 
@@ -61,6 +76,16 @@ core content. Explanations and a model answer are in the
 | Shielding (thick concrete, steel) | Absorbs escaping radiation | None; protects people |
 
 - Control rods fully lowered = reactor shut down.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-fission-and-fusion--03-moderator-vs-control-rods.webp" width="900" height="595" alt="Left: a fast neutron bounces through the moderator, slows down and is then absorbed by a U-235 nucleus, making fission more likely. Right: a neutron is absorbed by a control rod, which can be raised or lowered, so fewer fissions happen. Shielding of steel and concrete absorbs escaping radiation." loading="lazy">
+  <figcaption>The moderator slows neutrons so more fissions happen; control rods absorb neutrons so fewer happen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-radioactivity-and-particles--05-reactor-parts.webp" width="900" height="1090" alt="Cross-section of a reactor: four fuel rods of uranium-235 and three control rods in moderator, surrounded by thick shielding. A fast neutron is slowed by the moderator before reaching another fuel rod and another neutron is absorbed by a control rod. A key lists the job of each part." loading="lazy">
+  <figcaption>The four parts of a reactor each have one job.</figcaption>
+</figure>
 
 ## Fusion
 
@@ -77,6 +102,11 @@ core content. Explanations and a model answer are in the
 - Low temperature and pressure: nuclei never get close enough often enough → no fusion.
 - Found in stars' cores; very hard to achieve and contain on Earth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-radioactivity-and-particles--06-fusion.webp" width="900" height="1210" alt="Three rows. Cool hydrogen nuclei repel each other. At very high temperature and pressure they get close. They join to make helium-4 and a neutron, releasing energy because mass is lost. The equation hydrogen-2 plus hydrogen-3 gives helium-4 plus a neutron balances." loading="lazy">
+  <figcaption>Fusion needs very high temperature and pressure to overcome the repulsion between nuclei.</figcaption>
+</figure>
+
 ## Fission or fusion?
 
 | | Fission | Fusion |
@@ -85,6 +115,11 @@ core content. Explanations and a model answer are in the
 | Started by | Neutron absorption | Extreme temperature and pressure |
 | Where | Nuclear reactors | Stars |
 | Products | Radioactive daughter nuclei + neutrons | Heavier nucleus (+ neutron in some reactions) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-fission-and-fusion--05-fission-vs-fusion.webp" width="900" height="680" alt="Fission: a neutron splits a heavy uranium-235 nucleus into two radioactive daughter nuclei and neutrons, used in power stations. Fusion: light hydrogen nuclei join into a heavier nucleus such as helium at very high temperature and pressure, as in stars." loading="lazy">
+  <figcaption>Fission splits a large nucleus; fusion joins small ones. Both release energy.</figcaption>
+</figure>
 
 ## Key terms
 

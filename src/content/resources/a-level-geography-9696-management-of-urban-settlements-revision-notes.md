@@ -49,6 +49,11 @@ The syllabus requires **both**:
 1. **A shanty town in an LIC or MIC:** growth and causes, living conditions and problems, and attempts to improve them (upgrading, self-help, site and service, or clearance) with evaluation.
 2. **Provision of infrastructure (power or transport) for a city:** need, scheme, costs and benefits, who gained and lost, and sustainability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--04-human-case-studies.webp" width="900" height="920" alt="A checklist of the five case studies the syllabus requires: a country's population policy (4.4), an international migration stream (5.4), a rural settlement or area (6.1), a shanty town in an LIC or MIC (6.4) and power or transport provision for a city (6.4). Each row has three ticks: a named place, real data and an evaluation. Below, three tiles for LIC, MIC and HIC remind students to spread examples across income groups." loading="lazy">
+  <figcaption>Prepare each case study with a named place, real data and a judgement of how well it worked, and spread examples across income groups.</figcaption>
+</figure>
+
 ## Why shanty towns grow
 
 Rapid rural-urban migration and natural increase outpace the supply of affordable formal housing. Land at the edge of the city, on steep slopes, floodplains, beside railways or on unused public land, is occupied because nobody else uses it. Without legal tenure, residents risk eviction and have little reason to invest. Problems typically include overcrowding, a lack of piped water and sanitation, fire and flood risk, poor health, and insecure informal work. But shanty towns are also places of enterprise, community networks and gradual improvement.

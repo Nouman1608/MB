@@ -39,6 +39,11 @@ Condensed recall for sub-topic 7.3 of Cambridge IGCSE Environmental Management (
 
 All strategies act on **births** or **migration**, never on raising deaths.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-managing-human-population-size--01-why-manage.webp" width="900" height="655" alt="Rapid growth puts pressure on food, water, housing, schools, jobs and the environment, so some governments aim to slow it. Low fertility and ageing leave fewer workers to support the elderly, so others want more births or more immigrants. Every strategy changes births or migration, never deaths." loading="lazy">
+  <figcaption>Governments manage population for opposite reasons, but always through births or migration.</figcaption>
+</figure>
+
 ## The five strategies in summary
 
 | Strategy | How it works | Benefit | Limitation |
@@ -50,6 +55,16 @@ All strategies act on **births** or **migration**, never on raising deaths.
 | Access to healthcare | Clinics, vaccination, safe births, child care | Lower child deaths so parents choose fewer children; delivers family planning | Short-term rise in growth as deaths fall first; costly in rural areas |
 | Control of migration | Visas, permits, quotas, points systems | Fast; targets skills; can raise or lower population | Labour shortages if strict; illegal migration; social tension; brain drain from origin |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-managing-human-population-size--02-five-strategies-two-levers.webp" width="900" height="710" alt="Five strategies feed into two levers. Access to contraception, population policies, access to education and access to healthcare act on births. Control of migration, through visas, permits, quotas and points systems, acts on migration. Deaths are not a lever." loading="lazy">
+  <figcaption>Four strategies act on births and one on migration; none acts through deaths.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-managing-human-population-size--05-education-healthcare.webp" width="900" height="625" alt="Two chains. Education: girls stay in school longer, so they marry and start families later, have better jobs, know more about contraception and have more say, so fertility falls, but slowly. Healthcare: fewer children die, so parents need fewer extra children and clinics deliver contraception, so fertility falls, though in the short term growth can rise because deaths fall first." loading="lazy">
+  <figcaption>Education and healthcare lower fertility indirectly; both take time, and healthcare first raises growth.</figcaption>
+</figure>
+
 ## Examples to use accurately
 
 - **China**: one-child policy, introduced around 1980, ended in 2015. Lowered births; contributed to more males than females among younger people and rapid ageing.
@@ -57,6 +72,16 @@ All strategies act on **births** or **migration**, never on raising deaths.
 - **France**: long-standing generous family benefits (pro-natalist).
 - **Kerala, India**: often cited for high female literacy alongside low fertility (education).
 - **Canada**: points-based system for skilled immigrants (control of migration).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-managing-human-population-size--03-pro-anti-natalist.webp" width="900" height="700" alt="Side-by-side comparison. Pro-natalist policies, such as France’s family benefits, use payments, tax cuts, parental leave, childcare and housing priority; they can slow decline but are expensive, often have small effects and take about 20 years to add workers. Anti-natalist policies, such as China’s one-child policy from around 1980 to 2015, use campaigns, incentives, penalties or legal limits; they can lower births quickly but raise ethical concerns and, in China, skewed the sex ratio and sped up ageing." loading="lazy">
+  <figcaption>Pro-natalist means more births, anti-natalist fewer; each has costs and side effects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-managing-human-population-size--04-singapore-reversal.webp" width="900" height="535" alt="A timeline for Singapore. In the 1970s a Stop at Two campaign aimed to lower births. Fertility then fell very low, so in the late 1980s the government switched to measures encouraging larger families." loading="lazy">
+  <figcaption>Singapore moved from anti-natalist to pro-natalist within about a generation.</figcaption>
+</figure>
 
 ## Matching a strategy to a source
 
@@ -84,6 +109,11 @@ Read the source for the problem first. High fertility, a wide-based pyramid and 
 3. Cheap or costly?
 4. Side effects?
 5. Suited to this country's culture, wealth and problem?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-managing-human-population-size--06-speed-and-checklist.webp" width="900" height="710" alt="A scale from fast to slow. Control of migration works quickly and anti-natalist policies can lower births quickly; pro-natalist births take about 20 years to join the workforce; education works when pupils become adults. Other questions to ask: voluntary or compulsory, cost, side effects and fit with the country." loading="lazy">
+  <figcaption>Speed is one test of a strategy; also weigh cost, compulsion, side effects and fit.</figcaption>
+</figure>
 
 ## Model judgement lines
 

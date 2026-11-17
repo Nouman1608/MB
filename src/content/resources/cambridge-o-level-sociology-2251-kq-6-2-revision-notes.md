@@ -62,6 +62,11 @@ Recorded offending is highest among the young, men, the working class and, in so
 minority groups. Victims are often young men (street violence), poorer areas (burglary), women
 (domestic and sexual violence) and minorities (hate crime).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-2--01-offending-and-victimisation.webp" width="900" height="555" alt="A table of recorded offending and victimisation by age, class, gender and ethnicity: young, working-class and male people have the highest recorded offending, while young men, poorer areas, women and minority groups face particular kinds of victimisation. A note on repeat victimisation and how statistics are produced." loading="lazy">
+  <figcaption>Learn both sides: who offends and who is victimised.</figcaption>
+</figure>
+
 ## Explanations by group: offending or statistics?
 
 | Group | Real-offending explanations | Statistical explanations |
@@ -70,6 +75,16 @@ minority groups. Victims are often young men (street violence), poorer areas (bu
 | Ethnicity | Material and relative deprivation; status frustration; gang culture | Institutional racism; prejudice and discrimination; police targeting; stereotyping |
 | Gender | Culture of masculinity (Messerschmidt, 1993); misogyny; gang culture; socialisation and control of girls | Chivalry thesis (Pollak, 1950); stereotyping |
 | Social class | Social exclusion; deprivation; inadequate socialisation (New Right); lack of opportunity; status frustration | Police targeting; power inequalities (Box, 1983) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-2--02-two-kinds-of-explanation.webp" width="900" height="576" alt="When a group appears more often in crime statistics, explanations of offending ask whether they really commit more, through lack of opportunity, status frustration, gangs, deprivation, masculinity or socialisation; explanations of the statistics ask whether they are more likely to be caught, through targeting, stereotyping, institutional racism, chivalry or the self-fulfilling prophecy." loading="lazy">
+  <figcaption>Use one explanation of each kind, then judge which matters more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-2--03-explanation-chains.webp" width="900" height="576" alt="Five explanations written as cause, mechanism and outcome: status frustration, lack of opportunity, relative deprivation, police targeting and the chivalry thesis. The first three explain offending; the last two explain the statistics." loading="lazy">
+  <figcaption>Cause, mechanism, crime outcome: the shape of every developed point.</figcaption>
+</figure>
 
 ## The five theories: core claim, key name, best and worst at
 
@@ -91,6 +106,16 @@ minority groups. Victims are often young men (street violence), poorer areas (bu
 - **Postmodernism.** Crime too varied for one cause; Katz (1988) on thrill; Lyng (1990) on edgework.
   *Best at:* expressive and new crimes. *Worst at:* offers no clear policy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-2--05-labelling-amplification.webp" width="900" height="729" alt="Labelling: primary deviance that is not labelled becomes secondary deviance once a label, possibly a master status, is applied. Below, Stanley Cohen’s deviancy amplification: media reporting of mods and rockers created folk devils, leading to tougher policing and more confrontation. A note adds Hall’s study of the mugging panic." loading="lazy">
+  <figcaption>Reactions to deviance can produce more of it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-2--06-theories-evaluated.webp" width="900" height="521" alt="A table of five theories of crime with a key idea and limitation: functionalism does not explain middle-class crime, interactionism does not explain the first act, Marxism neglects working-class victims, feminism may treat women as one group and postmodernism offers no single cause for policy." loading="lazy">
+  <figcaption>Every theory explains some patterns and misses others.</figcaption>
+</figure>
+
 ## Merton's adaptations: one example each
 
 - Conformity: working hard for qualifications and a career.
@@ -98,6 +123,11 @@ minority groups. Victims are often young men (street violence), poorer areas (bu
 - Ritualism: an official who follows rules rigidly but has given up on promotion.
 - Retreatism: dropping out of society through drug addiction.
 - Rebellion: joining a movement to replace society's goals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-2--04-merton-adaptations.webp" width="900" height="632" alt="Merton’s strain theory: society sets goals but blocks legitimate means for some. A table shows five adaptations: conformity, innovation (such as theft), ritualism, retreatism (such as some drug addicts) and rebellion. A note adds Cloward and Ohlin’s criminal, conflict and retreatist subcultures." loading="lazy">
+  <figcaption>Innovation, using crime to reach accepted goals, is Merton’s explanation of most property crime.</figcaption>
+</figure>
 
 ## Exam traps
 

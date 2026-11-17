@@ -55,6 +55,11 @@ passed from person to person.
 A complete blockage can cause a heart attack. Name the **coronary** arteries: CHD is not a blockage in the aorta
 or in the heart chambers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels--07-coronary-arteries.webp" width="900" height="960" alt="Front view of the heart with the aorta at the top. Coronary arteries branch from the aorta and run over the surface of the heart, delivering oxygen and glucose to heart muscle." loading="lazy">
+  <figcaption>Coronary arteries run over the heart surface and feed the heart muscle.</figcaption>
+</figure>
+
 ## Treating narrowed coronary arteries
 
 | Treatment | How it works | Advantages | Disadvantages |
@@ -63,6 +68,11 @@ or in the heart chambers.
 | Statins | Drugs that lower blood cholesterol, which slows the rate at which fatty material is deposited | No surgery; reduce the risk of heart attack and stroke; easy to take | Must be taken regularly, long term; can cause side effects (such as muscle aches); act slowly, so do not clear an existing blockage |
 
 Stents treat the narrowing that is already there. Statins reduce further build-up. They are often used together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--01-stent-artery.webp" width="900" height="780" alt="Three coronary artery cross-sections at one scale: healthy 3.6 mm, narrowed by fatty deposits to 1.5 mm (58.3% narrower), and held open by a stent at 3.2 mm (113% wider than narrowed). The stent is shown as a dashed mesh tube pressed against the deposits." loading="lazy">
+  <figcaption>A stent props a fatty-narrowed coronary artery open from inside.</figcaption>
+</figure>
 
 ## Faulty heart valves
 
@@ -81,6 +91,11 @@ Either way, less oxygen reaches the body cells, so the person may feel tired and
 | Mechanical (man-made) | Very long-lasting | Patient usually needs anti-clotting drugs for life, because clots can form on it |
 
 Both need heart surgery, which carries risks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--03-faulty-valves.webp" width="900" height="960" alt="Four tubes show a heart valve. Healthy: flaps lie back to let blood through, then meet to stop back-flow. Stiff: flaps open only a little so blood is held back. Leaky: flaps do not seal so blood flows backwards." loading="lazy">
+  <figcaption>A stiff valve holds blood back; a leaky valve lets it flow backwards.</figcaption>
+</figure>
 
 ## Heart failure
 

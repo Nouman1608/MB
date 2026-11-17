@@ -74,6 +74,22 @@ adult children** return home for economic reasons; older people's roles
 range from providing childcare to needing care themselves.
 
 ---
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--01-family-types.webp" width="900" height="699" alt="Seven small family diagrams: nuclear, extended, single-parent, reconstituted, living apart together, child-free couple and beanpole (many generations, few members each). A note adds Therborn’s point that family systems differ across world regions." loading="lazy">
+  <figcaption>There is no single family form: households take many shapes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--02-family-perspectives.webp" width="900" height="503" alt="Three cards. Parsons, a functionalist, sees positive functions: primary socialisation and stabilising adult personalities. Engels, a Marxist, sees the family serving capitalism. Oakley, a feminist, sees women positioned unequally around domestic labour and childcare. Below, Smart and Stacey on growing family diversity." loading="lazy">
+  <figcaption>Functionalists see benefits, Marxists see capitalism, feminists see inequality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--03-beanpole-pivot.webp" width="900" height="664" alt="Rising life expectancy and falling birth rates produce beanpole families: three generations with few members in each. The middle generation becomes the pivot generation, caring for ageing parents above and children below at the same time." loading="lazy">
+  <figcaption>Longer lives and fewer births leave the middle generation caring both ways.</figcaption>
+</figure>
+
 ## Education (3.1.2)
 
 **Official (formal) curriculum** — subjects formally taught (maths,
@@ -107,6 +123,22 @@ where the content is not directly job-relevant, which raises measurement
 issues when comparing attainment across groups.
 
 ---
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--05-curriculum-and-perspectives.webp" width="900" height="484" alt="Top: the official curriculum is the subjects formally taught; the hidden curriculum teaches punctuality, respect for authority and competitiveness through routine. Below, three perspectives: functionalist role allocation, Bourdieu on cultural capital reproducing class inequality, and Freire and Illich on schooling suppressing critical thought." loading="lazy">
+  <figcaption>Schools teach more than subjects; the perspectives disagree about what that does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--04-labelling-prophecy.webp" width="900" height="766" alt="A cycle of four steps around the self-fulfilling prophecy: a teacher labels a pupil, often on limited evidence; the teacher’s expectations change; the pupil is treated differently; the pupil internalises and acts out the label, which confirms it." loading="lazy">
+  <figcaption>A label shapes expectations and treatment until the pupil lives up, or down, to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-education--06-attainment-explanations.webp" width="900" height="661" alt="Nested boxes. Inside school: labelling, setting and streaming, subcultures and ethnocentric curricula. Outside school: material factors such as poverty, cultural factors such as cultural capital, and home and community factors such as parents’ support. Class, gender and ethnicity intersect." loading="lazy">
+  <figcaption>Explain attainment gaps from both inside and outside the school gates.</figcaption>
+</figure>
+
 ## Research methods (3.1.3 — shared with Paper 2)
 
 **Primary** data is collected first-hand; **secondary** already exists.
@@ -140,6 +172,22 @@ requires parental or guardian consent alongside the child's own
 agreement.
 
 ---
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods--04-reliability-validity.webp" width="900" height="635" alt="Three targets. Shots clustered tightly away from the centre are reliable but not valid; shots scattered around the centre are valid but not reliable; shots tightly on the bullseye are both. Below, three threats to validity: researcher bias, the Hawthorne effect and social desirability." loading="lazy">
+  <figcaption>Reliable means repeatable; valid means true. A study needs both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--07-methods-scorecard.webp" width="900" height="757" alt="Five methods with what each is strong on and a strength and weakness: questionnaires and structured interviews are reliable; unstructured interviews and participant observation give valid detail; official statistics give large-scale, comparable data but were collected for other purposes. Below, the three tests: reliability, validity and representativeness." loading="lazy">
+  <figcaption>Reliable methods tend to lack depth; valid, detailed methods are hard to repeat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--05-researching-children.webp" width="900" height="509" alt="Three ethical issues in researching children: informed consent from child and parent or guardian, the power imbalance between adult and child, and wellbeing if harm is revealed. Practical alternatives include observation in schools or play settings, short group interviews and simple activities." loading="lazy">
+  <figcaption>Consent, power and wellbeing shape every study involving children.</figcaption>
+</figure>
+
 ## Exam traps
 
 - Naming a family type, perspective or factor in achievement without

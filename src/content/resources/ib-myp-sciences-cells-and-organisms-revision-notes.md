@@ -65,6 +65,11 @@ Course links: [MYP Sciences hub](/boards/ib/ib-myp/myp-sciences/) · [printable 
 | Permanent vacuole | Cell sap; keeps cell firm | ✗ | ✓ | ✗ |
 | Plasmid | Extra small loops of DNA | ✗ | ✗ | ✓ |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--01-animal-plant-bacterial-cells.webp" width="900" height="930" alt="Labelled animal cell with membrane, cytoplasm, nucleus, mitochondria and ribosomes. Plant cell adds a cellulose cell wall, chloroplasts and a large permanent vacuole. Bacterial cell has no nucleus: circular DNA and plasmids lie in the cytoplasm, with ribosomes, a cell membrane, a cell wall, and in some a capsule and flagellum." loading="lazy">
+  <figcaption>Plant cells add a wall, chloroplasts and a vacuole; bacteria have no nucleus.</figcaption>
+</figure>
+
 ## Formulas and conversions
 
 | What | Formula or fact |
@@ -87,12 +92,22 @@ A memory aid: **I AM** -- Image = Actual × Magnification.
 4. Give magnification as "×number" with no unit; give sizes with a unit.
 5. Ask: is the answer sensible? A cell of 3000 µm (3 mm) is visible without a microscope -- check your conversion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--04-magnification-triangle.webp" width="900" height="560" alt="A formula triangle with image size on top and actual size times magnification below. A worked example converts a 30 mm drawing to 30 000 µm, divides by the 60 µm actual size and gets ×500, written with no unit." loading="lazy">
+  <figcaption>Convert to the same unit, divide image by actual, and write the answer as ×500.</figcaption>
+</figure>
+
 ### Method in steps: scale bar
 
 1. Measure the scale bar with a ruler, in mm.
 2. Convert to the unit on the bar's label.
 3. Magnification = measured bar length ÷ label value.
 4. Measure the object, convert, and divide by that magnification.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--05-scale-bar.webp" width="900" height="500" alt="A micrograph of a plant cell that measures 42 mm, with a 50 µm scale bar that measures 25 mm. The bar gives 25 000 µm ÷ 50 µm = ×500, so the cell is 42 000 µm ÷ 500 = 84 µm long." loading="lazy">
+  <figcaption>Use the scale bar to find the magnification, then use it to find real sizes.</figcaption>
+</figure>
 
 ### Worked reminders
 
@@ -112,6 +127,16 @@ A memory aid: **I AM** -- Image = Actual × Magnification.
 | Cost | low | high |
 | Shows | cells, nuclei, chloroplasts | ribosomes, inner structure of mitochondria |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--02-microscope-magnification.webp" width="900" height="820" alt="A light microscope with a ×10 eyepiece lens, a ×40 objective lens, a slide on the stage, a focusing knob and a light source below. Total magnification is 10 × 40 = ×400. Beside it, low resolution shows two close points as one blur and high resolution shows them as two separate points." loading="lazy">
+  <figcaption>Total magnification = eyepiece × objective; more magnification does not mean more detail.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--03-units-and-sizes.webp" width="900" height="700" alt="Millimetres convert to micrometres and micrometres to nanometres by multiplying by 1000, and back by dividing by 1000. A ten-times scale places an electron microscope’s resolution under 1 nm, a light microscope’s at about 200 nm, a mitochondrion at about 1 µm, a bacterium at 1–5 µm and an animal cell at 10–30 µm." loading="lazy">
+  <figcaption>Each unit step is ×1000; put both sizes in the same unit before dividing.</figcaption>
+</figure>
+
 ## Specialised cells: feature → function
 
 | Cell | Feature | Why it helps |
@@ -124,6 +149,11 @@ A memory aid: **I AM** -- Image = Actual × Magnification.
 | Palisade cell | many chloroplasts | absorbs more light |
 | Guard cell | pair around stoma | opens and closes the pore |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--06-specialised-cells.webp" width="900" height="840" alt="Seven specialised cells, each with its key features: red blood cell, neurone, sperm cell, ciliated cell, root hair cell, palisade cell and guard cells. A final card gives the answer pattern: feature, then its effect, then the link to function." loading="lazy">
+  <figcaption>Each specialised cell has features that suit one job; always link feature to function.</figcaption>
+</figure>
+
 ## Levels of organisation
 
 cell → tissue → organ → organ system → organism
@@ -134,6 +164,11 @@ cell → tissue → organ → organ system → organism
 | Tissue | muscle tissue | palisade tissue |
 | Organ | stomach | leaf |
 | Organ system | digestive system | transport system (xylem and phloem) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--07-levels-of-organisation.webp" width="900" height="760" alt="Five levels from smallest to largest: a muscle cell; muscle tissue of similar cells; the stomach, an organ made of muscle, glandular and lining tissues; the digestive system of stomach, intestines, liver and pancreas; and the whole organism." loading="lazy">
+  <figcaption>Cells make tissues, tissues make organs, organs make systems, systems make an organism.</figcaption>
+</figure>
 
 ## Classification
 
@@ -162,6 +197,11 @@ Viruses: not cells, not in any kingdom, reproduce only inside host cells.
 3. Follow the arrow to the next step or name.
 4. When building a key, split the group into two at each step, using features you can see or count (legs, wings, shell), never size words like "big".
 5. Check that every organism ends at its own name.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--08-classification-binomial.webp" width="900" height="700" alt="Left: the eight ranks from domain, kingdom, phylum, class, order, family and genus down to species. Right: family Felidae splits into genus Panthera, holding the lion Panthera leo and tiger Panthera tigris, and genus Felis, holding the domestic cat Felis catus. In a binomial name the genus has a capital letter and the species is lower case, in italics." loading="lazy">
+  <figcaption>Organisms that share a genus are more closely related than those that share only a family.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

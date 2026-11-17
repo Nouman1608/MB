@@ -1,0 +1,9 @@
+{ "page": "igcse-geography-natural-environment-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--16-ne-plate-boundaries.webp", "after": "## 2.1 Earthquakes and volcanoes" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--15-ne-volcano-types.webp", "after": "## 2.1 Earthquakes and volcanoes" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--17-ne-earthquake-terms.webp", "after": "## 2.1 Earthquakes and volcanoes" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--18-ne-drainage-processes.webp", "after": "## 2.2 Rivers" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--19-ne-coast-landforms.webp", "after": "## 2.3 Coasts" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--20-ne-weather-instruments.webp", "after": "## 2.4 Weather" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-geography-natural-environment--21-ne-climate-graph.webp", "after": "## 2.5 Climate and natural vegetation" }
+] }

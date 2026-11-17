@@ -42,6 +42,11 @@ completion of unity by 1870. This is the **Paper 2 prescribed topic for November
 **Obstacles to unity:** Austrian armies; the Pope's lands across the centre; dialects and regional loyalty; poor
 communications; separate currencies and tariffs; peasant indifference.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-italy--01-italy-before-1848.webp" width="900" height="586" alt="A labelled schematic, not a map, running roughly north to south: Piedmont-Sardinia, the only state independent of Austria; Lombardy and Venetia under Austria; Tuscany, Modena and Parma under Habsburg relatives; the Papal States; and the Kingdom of the Two Sicilies. Notes add Austrian repression in 1821 and 1831 and the deeper obstacles of dialect, roads, currencies and an uninterested peasantry." loading="lazy">
+  <figcaption>Austria dominated the peninsula; only Piedmont stood free of it.</figcaption>
+</figure>
+
 ## Timeline to learn
 
 | Date | Event |
@@ -60,6 +65,16 @@ communications; separate currencies and tariffs; peasant indifference.
 | 1862, 1867 | Garibaldi fails to take Rome at Aspromonte and Mentana |
 | 1866 | Italy allies with Prussia; gains Venetia after Austria's defeat |
 | September 1870 | French garrison withdrawn; Italian troops enter Rome |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-italy--02-why-not-1848.webp" width="900" height="459" alt="Five reasons converge on the failure of 1848-49: Austria's recovery under Radetzky, divided leaders, Pius IX's refusal to fight Austria, Naples withdrawing and French intervention for the Pope. The lesson: Italy needed a strong foreign ally, and Piedmont was the obvious leader." loading="lazy">
+  <figcaption>1848-49 taught Piedmont that it needed a foreign ally to beat Austria.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-italy--03-unification-timeline.webp" width="900" height="996" alt="Three opening steps: Cavour as prime minister (1852), the Crimean War and Congress of Paris (1855-56) and Plombières (July 1858). A month-scale timeline from 1859 to early 1861 follows: war with Austria, Magenta and Solferino, Villafranca, Cavour's return, the central plebiscites, the Thousand, Naples, Teano and the Kingdom of Italy (March 1861). Two closing cards: Venetia (1866) and Rome (September 1870)." loading="lazy">
+  <figcaption>Most of Italy was united in two years, 1859-61; Venetia and Rome came later.</figcaption>
+</figure>
 
 ## Key people
 
@@ -98,12 +113,32 @@ communications; separate currencies and tariffs; peasant indifference.
 
 **A balanced judgement:** Garibaldi won the south, but Cavour's alliance and state made the gains last.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-italy--05-garibaldi-south.webp" width="900" height="710" alt="A labelled schematic, not to scale. Garibaldi's Thousand sail from near Genoa in May 1860 to Sicily (Marsala, Calatafimi, Palermo), then cross to Naples in August and enter it in September. Cavour sends the Piedmontese army south through the Papal States, avoiding Rome, to reach Naples. Below: Cavour feared a march on Rome; at Teano in October 1860 Garibaldi handed over his conquests." loading="lazy">
+  <figcaption>Cavour sent his army south to control what Garibaldi had won.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-italy--06-cavour-help-hinder.webp" width="900" height="578" alt="A balance between ways Cavour helped (the French alliance, modernisation, annexation by plebiscite, taking the south in 1860) and hindered (a first aim limited to the north, ceding Nice and Savoy, distrust of Garibaldi and Mazzini, resented Piedmontese laws)." loading="lazy">
+  <figcaption>Cavour's aims were limited at first, but he widened them as events allowed.</figcaption>
+</figure>
+
 ## Why other countries mattered
 
 - **France:** essential ally in 1859; garrison in Rome blocked unity until 1870.
 - **Austria:** the enemy; its defeats in 1859 and 1866 freed Lombardy and Venetia.
 - **Prussia:** victory over Austria (1866) and France (1870) gave Italy Venetia and Rome.
 - **Britain:** sympathetic, opposed intervention against Italy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-italy--04-plombieres-villafranca.webp" width="900" height="495" alt="Two linked cards: the Plombières deal of July 1858 (French help in return for Nice and Savoy; Lombardy and Venetia for Piedmont) and the Villafranca armistice of July 1859 (Lombardy only; Cavour resigns). Below, why Napoleon stopped, and the March 1860 plebiscites in central Italy with Nice and Savoy ceded." loading="lazy">
+  <figcaption>France delivered less than promised, but central Italy joined anyway.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-italy--07-italy-and-europe.webp" width="900" height="505" alt="A hub with Italian unification at the centre. Austria lost Lombardy and Venetia and was weakened against Prussia; France gained Nice and Savoy but angered nationalists and Catholics; the Papacy lost its lands. Prussia gained an ally and an example; Britain welcomed a liberal cause." loading="lazy">
+  <figcaption>Italian unification reshaped the balance between Austria, France and Prussia.</figcaption>
+</figure>
 
 ## Exam traps
 

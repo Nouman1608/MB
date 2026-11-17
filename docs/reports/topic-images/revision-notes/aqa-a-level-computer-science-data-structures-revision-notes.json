@@ -1,0 +1,7 @@
+{ "page": "aqa-a-level-computer-science-data-structures-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--01-ds-vector.webp", "after": "## Arrays: vectors, matrices and the general case (4.2.1.2)" },
+ { "src": "https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--02-ds-matrix.webp", "after": "## Worked example: choosing the right dimensionality" },
+ { "src": "https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--03-ds-access.webp", "after": "## Worked example: choosing the right dimensionality" },
+ { "src": "https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--04-ds-dimensions.webp", "after": "## Distinguishing dimensionality from size" },
+ { "src": "https://img.marlbridge.com/a-level-aqa-computer-science-data-structures-and-arrays--05-ds-index-origin.webp", "after": "## Practising array operations directly" }
+] }

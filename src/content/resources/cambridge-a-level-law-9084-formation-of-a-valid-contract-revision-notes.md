@@ -33,6 +33,11 @@ Recall notes for subtopic 3.1 of Cambridge International AS & A Level Law (9084)
 - **Unilateral:** promise for an act (*Carlill* (1893)).
 - **Collateral:** a separate contract beside the main one (*Shanklin Pier v Detel* (1951)).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-formation-of-a-valid-contract--01-types-of-contract.webp" width="900" height="456" alt="Three panels. Bilateral: a promise is exchanged for a promise, as in most sales. Unilateral: a promise is exchanged for an act, and only the promisor is bound (Carlill). Collateral: in Shanklin Pier v Detel the paint maker promised the pier owners the paint would last seven years, and the owners told their contractors to buy it." loading="lazy">
+  <figcaption>Promise for promise, promise for act, or a separate promise alongside the main contract.</figcaption>
+</figure>
+
 ## 3.1.2 Offer and acceptance
 
 **Offer or invitation to treat?**
@@ -61,6 +66,21 @@ Recall notes for subtopic 3.1 of Cambridge International AS & A Level Law (9084)
 - **Auctions:** acceptance on fall of hammer (Sale of Goods Act 1979 s57); "without reserve" collateral contract (*Barry v Davies* (2000)).
 - **Tenders:** promise to accept highest bid binds; referential bids invalid (*Harvela* (1986)); duty to consider conforming tenders (*Blackpool Aero Club* (1990)); standing offers accepted order by order (*GNR v Witham* (1873)).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--15-offer-fate.webp" width="900" height="650" alt="An offer made box with three arrows. Offer ends: withdrawal communicated, even if by a third party, and a counter-offer (Hyde v Wrench) both end it. Offer stays: a mere request for information does not end it. Contract: unconditional acceptance that is communicated forms a contract, but silence is not acceptance." loading="lazy">
+  <figcaption>Withdrawal and counter-offer end an offer; a request for information does not; acceptance forms the contract.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--16-post-rule.webp" width="900" height="810" alt="Two timelines. By post: the contract forms when the letter is posted (Adams v Lindsell 1818), before it arrives. Instant communication: the contract forms when the acceptance is received (Entores v Miles Far East 1955)." loading="lazy">
+  <figcaption>By post the contract forms on posting; by instant communication it forms on receipt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-formation-of-a-valid-contract--02-forms-auctions-tenders.webp" width="900" height="699" alt="Three flows. Battle of the forms: the buyer’s order form is a counter offer accepted when the seller returns the tear-off slip (Butler v Ex-Cell-O). Auctions: the request for bids is an invitation to treat, each bid is an offer withdrawable until the hammer falls (Payne v Cave), and the hammer is acceptance; without reserve creates a collateral contract (Barry v Davies). Tenders: the invitation is normally an invitation to treat and each tender an offer, with exceptions in Harvela, Blackpool and Witham." loading="lazy">
+  <figcaption>In each setting, find the invitation, the offer and the acceptance.</figcaption>
+</figure>
+
 ## 3.1.3 Intention to create legal relations
 
 | Context | Presumption | Rebutted by | Cases |
@@ -69,6 +89,11 @@ Recall notes for subtopic 3.1 of Cambridge International AS & A Level Law (9084)
 | Commercial | Intention | Clear words – honour clause; letters of comfort | *Edwards v Skyways*; *Rose and Frank v Crompton*; *Kleinwort Benson v Malaysia Mining* |
 
 **Why required:** avoid enforcing agreements never meant to be binding; keep trivial disputes out of court.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-formation-of-a-valid-contract--03-intention-presumptions.webp" width="900" height="594" alt="Two columns. Social and domestic agreements are presumed not binding (Balfour v Balfour), rebutted by separation (Merritt), substantial reliance (Parker v Clark) or a clear financial basis (Simpkins v Pays), but not in Jones v Padavatton. Commercial agreements are presumed binding (Edwards v Skyways), rebutted by an honour clause (Rose and Frank) or a letter of comfort (Kleinwort Benson)." loading="lazy">
+  <figcaption>Start from the presumption, then look for evidence that rebuts it.</figcaption>
+</figure>
 
 ## 3.1.4 Consideration
 
@@ -88,6 +113,16 @@ Recall notes for subtopic 3.1 of Cambridge International AS & A Level Law (9084)
 
 **Promissory estoppel:** clear promise + reliance + inequitable to go back (*High Trees* (1947); *Hughes v Metropolitan Railway*). Shield not sword (*Combe v Combe*); no estoppel if debtor acted inequitably (*D & C Builders v Rees*); usually suspensory (*Tool Metal v Tungsten Electric*).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-formation-of-a-valid-contract--04-existing-duties.webp" width="900" height="650" alt="A table of existing duties: a public duty is no consideration (Collins v Godefroy) unless exceeded (Glasbrook); a contractual duty to the promisor is none (Stilk v Myrick) unless extra is done (Hartley v Ponsonby) or there is a practical benefit (Williams v Roffey); a duty owed to a third party is good consideration (Scotson v Pegg). Below, sufficiency and past consideration with their cases." loading="lazy">
+  <figcaption>Doing what you already must is usually not consideration, with three named exceptions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-formation-of-a-valid-contract--05-part-payment-estoppel.webp" width="900" height="595" alt="The rule that part payment does not discharge a debt (Pinnel’s Case; Foakes v Beer; Re Selectmove), with two exceptions: something new is given, or promissory estoppel (High Trees, from Hughes). Three limits on estoppel: a shield not a sword (Combe v Combe), not for a debtor who acted inequitably (D &amp; C Builders v Rees), and it often only suspends rights (Tool Metal)." loading="lazy">
+  <figcaption>Part payment rarely discharges a debt; estoppel protects a relying debtor but cannot found a claim.</figcaption>
+</figure>
+
 ## 3.1.5 Capacity – minors
 
 - **Minor:** under 18. **Reason:** protection from exploitation and inexperience.
@@ -96,6 +131,11 @@ Recall notes for subtopic 3.1 of Cambridge International AS & A Level Law (9084)
 - **Voidable:** continuing obligations – leases, shares, partnership – binding unless repudiated before or soon after 18 (*Steinberg v Scala*).
 - **Remedies:** Minors' Contracts Act 1987 s2 (guarantor liable), s3 (return of property or its proceeds if just and equitable); equity – restitution of goods obtained by fraud, not money (*Leslie v Sheill*).
 - **Limits:** nothing to recover once spent. **Reform:** age 16 as in Scotland; fairness-based enforcement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-formation-of-a-valid-contract--06-minors-contracts.webp" width="900" height="687" alt="Three categories of minors’ contracts: necessaries are binding at a reasonable price (Nash v Inman); beneficial contracts of service bind if for the minor’s benefit (Doyle; De Francesco); voidable contracts bind unless repudiated (Steinberg v Scala). Proform is noted. Remedies: Minors’ Contracts Act 1987 s2 and s3, and restitution in equity for fraud (Leslie v Sheill), with no remedy once nothing represents the goods or money." loading="lazy">
+  <figcaption>Not all minors’ contracts are void: three categories bind, and the 1987 Act adds remedies.</figcaption>
+</figure>
 
 ## Key terms
 

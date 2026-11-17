@@ -41,6 +41,11 @@ rights and change procedure.
 | Section II | 19 to 51 | The Court |
 | Section III | 52 to 59 | Miscellaneous, including reservations and denunciation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--01-treaty-structure.webp" width="900" height="537" alt="A timeline: the Universal Declaration 1948, referred to in the preamble; the Convention signed in Rome on 4 November 1950; in force on 3 September 1953. A bar shows its structure: Article 1 (obligation to respect rights), Section I Articles 2 to 18 (rights and general provisions), Section II Articles 19 to 51 (the Court) and Section III Articles 52 to 59 (miscellaneous)." loading="lazy">
+  <figcaption>Rights sit in Section I; the Court takes up most of the text in Section II.</figcaption>
+</figure>
+
 ## Article 1: jurisdiction
 
 - "Everyone within their jurisdiction": not limited to citizens.
@@ -48,11 +53,21 @@ rights and change procedure.
 - **Al-Skeini v UK (2011)**: UK jurisdiction over civilians killed by British soldiers in Basra; breach
   of the Article 2 duty to investigate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--02-article-1-jurisdiction.webp" width="900" height="462" alt="States must secure the rights to everyone within their jurisdiction: citizens, foreign nationals, prisoners and asylum seekers. Jurisdiction is primarily territorial but can reach abroad where a state exercises authority and control, as in Al-Skeini v UK, where the UK had jurisdiction over civilians killed by British soldiers in Basra." loading="lazy">
+  <figcaption>Jurisdiction is mainly territorial, but follows authority and control abroad.</figcaption>
+</figure>
+
 ## Section I rights
 
 2 life · 3 torture and inhuman or degrading treatment · 4 slavery and forced labour · 5 liberty · 6 fair
 trial · 7 no punishment without law · 8 private and family life · 9 thought, conscience, religion · 10
 expression · 11 assembly and association · 12 marry · 13 effective remedy · 14 discrimination.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--03-section-one-rights.webp" width="900" height="524" alt="A grid of Articles 2 to 14: life, torture, slavery, liberty, fair trial, no punishment without law, private life, religion, expression, assembly, marriage, effective remedy and discrimination. Articles 2, 5, 8, 10 and 11, the specification focus, are highlighted." loading="lazy">
+  <figcaption>The specification’s five Articles sit among thirteen in Section I.</figcaption>
+</figure>
 
 ## Types of right
 
@@ -61,6 +76,11 @@ expression · 11 assembly and association · 12 marry · 13 effective remedy · 
 | Absolute | No exceptions or balancing | Article 3; Article 4.1; Article 7 |
 | Limited | Only the exceptions listed in the Article | Article 2 (2.2); Article 5 (5.1(a) to (f)) |
 | Qualified | Second paragraph allows restrictions: prescribed by law, listed aim, necessary in a democratic society | Articles 8, 9, 10, 11 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--04-classification.webp" width="900" height="467" alt="Three bands. Absolute rights, with no exceptions or balancing: Article 3, Article 4.1 and Article 7. Limited rights, where the Article lists the only exceptions: Article 2 (2.2) and Article 5 (5.1(a) to (f)). Qualified rights, with restrictions in a second paragraph: Articles 8, 9, 10 and 11." loading="lazy">
+  <figcaption>The structure of each Article tells you how far it can be restricted.</figcaption>
+</figure>
 
 ## General provisions
 
@@ -75,6 +95,11 @@ expression · 11 assembly and association · 12 marry · 13 effective remedy · 
 
 UK derogations: after **Brogan v UK (1988)**; after 11 September 2001, quashed in **A v SSHD (2004)**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--05-general-provisions.webp" width="900" height="668" alt="Cards for the general Articles: 13 effective remedy, 14 discrimination (not free-standing), 16 political activity of aliens, 17 abuse of rights, 18 improper purposes. Article 15 allows derogation in war or a public emergency, but never from Article 2 (except lawful acts of war), Article 3, Article 4.1 or Article 7; the UK used it after Brogan and after 11 September 2001, quashed in A v Home Secretary." loading="lazy">
+  <figcaption>Article 15 allows derogation, but never from the core four.</figcaption>
+</figure>
+
 ## Protocols
 
 | Protocol | Content | UK |
@@ -88,6 +113,11 @@ UK derogations: after **Brogan v UK (1988)**; after 11 September 2001, quashed i
 | 14 | Single-judge filtering; significant disadvantage test; infringement proceedings | Procedural |
 | 15 (2021) | Subsidiarity and margin of appreciation in the preamble; four-month time limit | Procedural |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--06-protocols-uk.webp" width="900" height="538" alt="Protocols grouped by status. Ratified by the UK: Protocol 1 (property, education, elections), Protocol 6 and Protocol 13 (death penalty). Not ratified: Protocol 4 (freedom of movement) and Protocol 12 (free-standing discrimination). Procedural: Protocol 11 (single full-time Court), Protocol 14 (filtering and admissibility) and Protocol 15 (margin of appreciation in the preamble, four-month time limit)." loading="lazy">
+  <figcaption>Some protocols add rights the UK has not accepted; others reshape the Court.</figcaption>
+</figure>
+
 ## The Court
 
 - One judge per state; elected by the Parliamentary Assembly; single **nine-year** term; independent.
@@ -95,6 +125,11 @@ UK derogations: after **Brogan v UK (1988)**; after 11 September 2001, quashed i
 - Applications by states (Article 33) or victims (Article 34).
 - **Article 41**: just satisfaction. **Article 46**: states abide by final judgments; Committee of
   Ministers supervises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953--07-the-court.webp" width="900" height="688" alt="A stepped pyramid of the Court’s formations: single judges filter inadmissible cases, committees of three decide well-established case law, chambers of seven decide most others, and a Grand Chamber of 17 hears the most important cases. Applications come from states (Article 33) or victims (Article 34); judgments may award just satisfaction (Article 41), bind states (Article 46) and are supervised by the Committee of Ministers." loading="lazy">
+  <figcaption>Four formations, from single-judge filtering to the Grand Chamber of 17.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -66,6 +66,21 @@ You never need these facts in an exam. They help you see how issues move between
 | CITES (1973) | International controls on trade in listed wild species | Conservation needs cooperation between importing and exporting countries | Depends on national enforcement, so illegal trade can continue |
 | Kunming-Montreal Global Biodiversity Framework (2022) | Target to conserve 30% of land and sea by 2030 | A global target that has to be met through national and local decisions | Protected areas can conflict with people who already live and work there |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-environment-pollution-and-conservation--01-mercury-levels.webp" width="900" height="662" alt="Rings show mercury pollution locally (can a community eat fish from its bay), nationally (how tightly to regulate industry) and globally (mercury travels and builds up in fish worldwide). Below, the Minamata disease identified in Japan in 1956 led, decades later, to the global Minamata Convention on Mercury in 2013." loading="lazy">
+  <figcaption>A local problem may need action far beyond the place where it starts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-environment-pollution-and-conservation--02-montreal-kigali.webp" width="900" height="744" alt="A four-step sequence: chemicals damage the ozone layer; the 1987 Montreal Protocol, ratified by every UN member state, phases them out; some replacement chemicals, HFCs, turn out to be strong greenhouse gases; the 2016 Kigali Amendment follows." loading="lazy">
+  <figcaption>Even a successful global agreement can have unintended consequences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-environment-pollution-and-conservation--03-protected-area-spectrum.webp" width="900" height="600" alt="A spectrum from worried to supportive about a new protected area: local farmers, fishers and herders whose livelihoods depend on the area; a national government with mixed motives; tourism businesses; and conservation groups and international bodies backing the 2022 target of conserving 30% of land and sea by 2030." loading="lazy">
+  <figcaption>Explain why each group sits where it does, and remember individuals within a group can differ.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Topic vs issue.** "Pollution" is a topic. "Should polluting factories be closed if they are a town's main employer?" is an issue.
@@ -76,6 +91,16 @@ You never need these facts in an exam. They help you see how issues move between
 - **Course of action vs aim.** "Reduce plastic in the sea" is an aim. "A deposit-return scheme on drinks bottles" is a course of action.
 - **Local issue vs global issue.** The Team Project needs a local issue. The Individual Report needs a global research question.
 - **Evidence of Action vs evidence of research.** Evidence of Action is produced during the action; it "should not include evidence of research or initial meetings".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-environment-pollution-and-conservation--04-river-pollution-chain.webp" width="900" height="713" alt="A weak list of pollution causes contrasted with a chain: cheap production for export, factories cutting costs on wastewater treatment, untreated discharge where enforcement is weak, and falling fish stocks hitting fishing families downstream. A balance shows the trade-off of closing the factory: people downstream gain, workers lose jobs." loading="lazy">
+  <figcaption>Chains show analysis; trade-offs show that one consequence can help one group and hurt another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-environment-pollution-and-conservation--05-fenmoor-survey.webp" width="900" height="762" alt="Nested circles: all Fenmoor residents contain a smaller group of the wetland charity’s newsletter readers, likely supporters already, which contains the 50 people who replied. The invented claim that 80% of residents want the wetland protected rests on this small, self-selected sample; a random household survey would be fairer." loading="lazy">
+  <figcaption>A self-selected sample shows what supporters think, not what everyone thinks.</figcaption>
+</figure>
 
 ## Mini plan: assessing actions (Component 1 style)
 
@@ -89,6 +114,11 @@ Question type: "Which action would be most effective in reducing pollution in [t
 6. **Reasoned conclusion.** Restate the judgement; say what would make it more effective (for example, combining two actions); note one uncertainty in the evidence.
 
 Use only the sources given. Candidates "are not assessed on their prior knowledge" in Component 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-environment-pollution-and-conservation--06-actions-and-bag-ban.webp" width="900" height="823" alt="Five stacked bands of action from international agreements, national laws, market tools and local community action to individual choices. Below, a national ban on single-use bags is assessed: it tackles a visible waste source and is easy to enforce, but ignores other plastics and can be undermined by thicker bags used once." loading="lazy">
+  <figcaption>One action rarely solves an issue alone; judge it as part of a wider plan.</figcaption>
+</figure>
 
 ## Mini plan: Individual Report on this topic
 

@@ -1,0 +1,9 @@
+{ "page": "oxfordaqa-igcse-computer-science-data-representation-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--15-binary-decimal-hex.webp", "after": "## Number bases and conversions"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--16-binary-addition.webp", "after": "## Binary addition and shifts"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--17-binary-shifts.webp", "after": "## Binary addition and shifts"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--18-bitmap-image.webp", "after": "## Images"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--19-sound-sampling.webp", "after": "## Sound"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--21-run-length-encoding.webp", "after": "## Compression: Huffman coding and RLE"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--20-huffman-bananas.webp", "after": "## Compression: Huffman coding and RLE"}
+] }

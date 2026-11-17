@@ -1,0 +1,38 @@
+[
+ {
+  "file": "ib-dp-geography-oceans-coastal-margins-ocean-management-futures-revision-notes--01-tragedy-of-the-commons.webp",
+  "width": 900,
+  "height": 680,
+  "after": "## Key ideas",
+  "alt": "A chain around a circle: a high-seas fish stock is open to all, each user gains from taking more, the cost of depletion is shared by everyone, and without agreed limits the stock collapses for all. In the centre, agreed limits such as quotas and marine protected areas break the chain.",
+  "caption": "Without agreed limits, each user's rational choice leads to collapse for all.",
+  "bytes": 53188
+ },
+ {
+  "file": "ib-dp-geography-oceans-coastal-margins-ocean-management-futures-revision-notes--02-unclos-zones.webp",
+  "width": 900,
+  "height": 810,
+  "after": "### UNCLOS zones",
+  "alt": "A strip of sea from the coastal baseline: territorial sea to 12 nautical miles, contiguous zone to 24, exclusive economic zone to 200, then high seas, with the continental shelf able to extend beyond 200 nautical miles. A table lists the coastal state's rights in each zone.",
+  "caption": "Rights shrink with distance from the baseline: sovereignty, then limited control, then resources only.",
+  "bytes": 119456
+ },
+ {
+  "file": "ib-dp-geography-oceans-coastal-margins-ocean-management-futures-revision-notes--03-grand-banks-cod-collapse.webp",
+  "width": 900,
+  "height": 690,
+  "after": "### Collapse of the Grand Banks cod fishery, Canada",
+  "alt": "Three causes, industrial trawlers increasing catches, over-optimistic stock estimates and political pressure to keep quotas high, lead to catches above maximum sustainable yield. This ends in the 1992 moratorium on northern cod, with tens of thousands losing work, and slow recovery.",
+  "caption": "Overfishing, optimistic science and political pressure turned depletion into collapse.",
+  "bytes": 104062
+ },
+ {
+  "file": "ib-dp-geography-oceans-coastal-margins-ocean-management-futures-revision-notes--04-great-barrier-reef-zoning.webp",
+  "width": 900,
+  "height": 710,
+  "after": "### Great Barrier Reef Marine Park, Australia",
+  "alt": "A schematic of the Great Barrier Reef Marine Park beside the coast, divided into general-use areas, areas where fishing is restricted and no-take green zones, which cover roughly a third of the park since 2004. Warm water and runoff from farmland cross the zone boundaries.",
+  "caption": "Zoning manages use inside the park but cannot stop warming water or farm runoff.",
+  "bytes": 85310
+ }
+]

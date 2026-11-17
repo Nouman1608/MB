@@ -56,12 +56,22 @@ Unit conversions: km/h ÷ 3.6 = m/s; minutes × 60 = s; hours × 3600 = s; km ×
 | gradient gives | speed | acceleration *(Extended)* |
 | area under gives | nothing useful | distance travelled |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-motion-cambridge-igcse-physics--02-motion-graph-shapes.webp" width="900" height="640" alt="Top row, distance–time graphs: horizontal means at rest, a straight slope means constant speed, a curve getting steeper means accelerating and a curve getting less steep means decelerating. Bottom row, speed–time graphs: a line along the time axis means at rest, horizontal above it means constant speed, a rising straight line means constant acceleration and a falling one constant deceleration." loading="lazy">
+  <figcaption>Same shape, different meaning: always check which graph you are reading.</figcaption>
+</figure>
+
 ### Areas under speed–time graphs (Core)
 
 - Rectangle: speed × time.
 - Triangle: ½ × time × change in speed.
 - Trapezium (speeding up from u to v): split into a rectangle and a triangle, or use ½ × (u + v) × t.
 - Add the areas for each stage; read values from the axes, with units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-motion-cambridge-igcse-physics--03-cyclist-speed-time.webp" width="900" height="776" alt="Speed–time graph of a cyclist: speeding up from rest to 8.0 m/s in 10 s, steady for 30 s, then slowing to rest in 4.0 s. The areas are 40 m, 240 m and 16 m, total 296 m in 44 s, so the average speed is 6.7 m/s. For Extended, the gradients give accelerations of 0.80 m/s² and −2.0 m/s²." loading="lazy">
+  <figcaption>Area under a speed–time graph = distance; gradient = acceleration.</figcaption>
+</figure>
 
 ### Acceleration (Extended only)
 
@@ -78,6 +88,16 @@ Unit conversions: km/h ÷ 3.6 = m/s; minutes × 60 = s; hours × 3600 = s; km ×
   - drag = weight → resultant force zero → **terminal velocity** (constant speed).
 - Parachute opens: drag > weight → decelerates → new, lower terminal velocity.
 - Terminal velocity is reached much sooner in a liquid than in air.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-motion-cambridge-igcse-physics--04-terminal-velocity.webp" width="900" height="640" alt="Speed–time graph of an object falling through air. Without air resistance the line would be straight with gradient 9.8 m/s². With drag, at A the object is slow and accelerates at nearly g; at B drag has grown so the acceleration is smaller and the curve flattens; at C drag equals weight, the resultant force is zero and it falls at terminal velocity." loading="lazy">
+  <figcaption>Drag rises with speed until it equals weight: then the speed stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-motion-cambridge-igcse-physics--01-average-speed-bus.webp" width="900" height="520" alt="A bus covers 12 km at 60 km/h in 0.20 h, then 12 km at 40 km/h in 0.30 h; the bars are drawn to scale in time. The average speed is 24 km ÷ 0.50 h = 48 km/h, not 50 km/h, because more time is spent at the lower speed." loading="lazy">
+  <figcaption>Average the journey, not the speeds: total distance ÷ total time.</figcaption>
+</figure>
 
 ## Key terms
 

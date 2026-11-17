@@ -1,0 +1,6 @@
+{ "page": "cambridge-igcse-ict-spreadsheets-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-spreadsheets-study-guide--01-ss-relative-absolute.webp", "after": "## Absolute vs relative referencing"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-spreadsheets-study-guide--02-ss-formula-chain.webp", "after": "## Functions to know"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-spreadsheets-study-guide--03-ss-countif.webp", "after": "## Functions to know"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-spreadsheets-study-guide--04-ss-sort-whole-table.webp", "after": "## 20.2 Sorting and searching"}
+] }

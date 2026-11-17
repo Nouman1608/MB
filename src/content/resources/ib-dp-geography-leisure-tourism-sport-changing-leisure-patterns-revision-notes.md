@@ -55,6 +55,11 @@ Leisure activities can also be classified as **active or passive** (playing foot
 - **Demographics:** healthier, wealthier retired people in many high-income countries travel more, creating a "grey" tourism market, while young people often favour adventure and experience-based trips.
 - **Shocks:** the COVID-19 pandemic of 2020 caused international travel to collapse almost overnight and pushed leisure towards local and home-based activities, showing how sensitive patterns are to external events.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--01-leisure-influences.webp" width="900" height="845" alt="Five boxes each with an icon feed arrows into one panel called leisure patterns change. The five influences are time and income (clock), mobility (car), technology (phone), demographics (people) and culture and values (heart). A note below says participation is unequal: low income, disability, caring duties and little green space reduce opportunities." loading="lazy">
+  <figcaption>The five influences the lesson lists on leisure patterns, with the unequal participation point.</figcaption>
+</figure>
+
 ## Leisure across the life cycle
 
 | Life stage | Typical pattern | Why |

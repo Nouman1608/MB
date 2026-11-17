@@ -1,0 +1,9 @@
+{ "page": "igcse-oxfordaqa-geography-physical-environment-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--01-phys-plate-margins.webp", "after": "## Tectonic hazards" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--02-phys-tropical-storm.webp", "after": "## Weather hazards" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--04-natural-causes.webp", "after": "## Climate change" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--05-human-causes.webp", "after": "## Climate change" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--03-phys-mitigation-adaptation.webp", "after": "## Climate change" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-ecosystems--02-pond-food-web.webp", "after": "## Ecosystems" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--04-phys-rainforest-nutrients.webp", "after": "## Ecosystems" }
+] }

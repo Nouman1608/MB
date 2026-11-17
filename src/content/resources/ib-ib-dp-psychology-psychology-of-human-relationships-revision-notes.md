@@ -47,6 +47,11 @@ Related: [Human relationships study guide](/resources/ib-ib-dp-psychology-psycho
 | Communication | Patterns of interaction and attributions affect satisfaction | Gottman's "four horsemen" (criticism, contempt, defensiveness, stonewalling); Buehlman, Gottman and Katz (1992): oral-history interviews predicted later divorce with high accuracy; Bradbury and Fincham (1990) on relationship-enhancing and distress-maintaining attributions |
 | Change or end | Costs and rewards, investment, comparison with alternatives | Rusbult's investment model: commitment depends on satisfaction, quality of alternatives and investment size |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-psychology-of-human-relationships-study-guide--07-hr-investment.webp" width="900" height="810" alt="Three boxes, satisfaction, quality of alternatives and investment already made, all point to a circle labelled commitment, which points to stays or leaves. A box says commitment depends on more than satisfaction, so an unhappy partner may still stay." loading="lazy">
+  <figcaption>Commitment depends on satisfaction, alternatives and investment, not satisfaction alone.</figcaption>
+</figure>
+
 ## Group dynamics
 
 | Content | Explanation | Research |
@@ -55,6 +60,21 @@ Related: [Human relationships study guide](/resources/ib-ib-dp-psychology-psycho
 | Prejudice and discrimination | Social identity theory; stereotypes | Tajfel et al. (1971) minimal groups; Bertrand and Mullainathan (2004): CVs with White-sounding names received more interview callbacks than identical CVs with Black-sounding names |
 | Origins of conflict and resolution | Competition, identity threat; contact and cooperation | Allport's contact hypothesis (1954): equal status, common goals, institutional support; Aronson's jigsaw classroom: interdependent learning reduced prejudice |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-psychology-of-human-relationships-study-guide--08-hr-robbers-cave.webp" width="900" height="1110" alt="Four panels in order with dot clusters for two groups of boys. 1 Two groups at a summer camp. 2 Rivalry grows when the groups compete for limited rewards, shown as a zigzag between them. 3 Shared goals that neither group can reach alone, shown as both groups pushing towards one flag. 4 Hostility falls, shown as mixed groups. This supports realistic conflict theory: competition over resources breeds conflict." loading="lazy">
+  <figcaption>Rivalry grew under competition and hostility fell with superordinate goals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-psychology-of-human-relationships-study-guide--09-hr-prejudice-triad.webp" width="900" height="880" alt="Three rows. Prejudice, shown as a frowning face, is an attitude. Stereotype, shown as a thought bubble containing identical figures, is a generalised belief about a group. Discrimination, shown as a person blocked by a barrier, is behaviour that treats people unfairly because of group membership." loading="lazy">
+  <figcaption>An attitude, a generalised belief and a behaviour are different things.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-psychology-of-human-relationships-study-guide--10-hr-contact.webp" width="900" height="740" alt="A bridge between Group A and Group B, labelled contact, held up by four pillars: equal status, common goals, cooperation and institutional support. A banner says contact reduces prejudice under certain conditions, including these." loading="lazy">
+  <figcaption>Four conditions listed in the lesson help contact reduce prejudice.</figcaption>
+</figure>
+
 ## Social responsibility
 
 | Content | Explanation | Research |
@@ -62,6 +82,11 @@ Related: [Human relationships study guide](/resources/ib-ib-dp-psychology-psycho
 | Bystanderism | Diffusion of responsibility; Latané and Darley's decision model (notice, interpret, take responsibility, decide how, act); arousal: cost-reward model | Darley and Latané (1968): participants who believed they alone heard a seizure helped far more often and faster than those who believed others heard it; Piliavin et al. (1969): a victim with a cane was helped more often than one who appeared drunk |
 | Prosocial behaviour | Empathy-altruism hypothesis versus egoistic explanations; kin selection | Batson et al. (1981): high-empathy participants helped even when escape was easy |
 | Promoting prosocial behaviour | Modelling, media, education, reducing anonymity | Research on prosocial television content, such as meta-analysis of children's programming effects |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-psychology-of-human-relationships-study-guide--12-hr-helping-rates.webp" width="900" height="800" alt="Bar chart from the lesson fictional data. Alone: 45 of 60 offered help, 75 percent. In groups of four: 21 of 60, 35 percent. The difference is 40 percentage points, and the group rate is about 0.47 of the alone rate. The result is consistent with diffusion of responsibility but does not prove the mechanism." loading="lazy">
+  <figcaption>Helping fell from 75% alone to 35% in groups, a 40 point difference.</figcaption>
+</figure>
 
 ## Methods and ethics across the option
 

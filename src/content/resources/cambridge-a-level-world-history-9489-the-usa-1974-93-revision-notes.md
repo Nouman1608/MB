@@ -77,6 +77,11 @@ featured: false
 | 1990 | Budget deal raises taxes; Americans with Disabilities Act; Clean Air Act amendments |
 | Nov 1992 | Clinton defeats Bush; Perot takes about 19 per cent |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-the-usa-1974-93--01-presidents-timeline.webp" width="900" height="621" alt="A timeline from 1974 to 1993 drawn to scale with bars for Ford, Carter, Reagan and Bush. Events: Nixon pardoned (September 1974), Carter beats Ford (1976), the second oil shock and inflation over 13 per cent (1979), Reagan's 489-49 win (1980), Reagan carrying 49 states (1984), the 1990 tax deal and Clinton's 1992 win with Perot at about 19 per cent." loading="lazy">
+  <figcaption>Two Democrats' troubles, then twelve years of Republican conservatism.</figcaption>
+</figure>
+
 ## 6.1 Late-1970s problems -- ranking
 
 1. **Economic:** stagflation, oil shocks (1973, 1979), high interest rates.
@@ -85,6 +90,11 @@ featured: false
 4. **International:** Iran and Afghanistan made the USA look weak.
 
 **Why Reagan won in 1980:** personal appeal, supply-side promises, Carter's failures, New Right mobilisation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-the-usa-1974-93--02-why-reagan-won.webp" width="900" height="531" alt="Four reasons converge on Reagan's 1980 victory: his optimism and television skill, the supply-side promise, Carter's failures at home and abroad, and the energy of the New Right. A bar shows the electoral college result, 489 to 49." loading="lazy">
+  <figcaption>Reagan's appeal met Carter's weakness and a rising New Right.</figcaption>
+</figure>
 
 ## 6.2 New Conservatism -- impact checklist
 
@@ -95,6 +105,16 @@ featured: false
 - **Bush:** tax rise in 1990; ADA and Clean Air amendments; recession; lost in 1992.
 - **Democrats:** 1980 split; Mondale's tax pledge (1984); loss of the white South; DLC founded (1985).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-the-usa-1974-93--03-reaganomics.webp" width="900" height="693" alt="Four paired rows of theory and practice. Taxes were cut: the top rate fell from 70 to 50 per cent in 1981 and to 28 per cent in 1986. Domestic spending was cut but total spending did not fall because defence soared. Deregulation contributed to the savings-and-loan crisis. Tight money brought recession in 1981-82, then growth. Deficits grew and the debt roughly tripled." loading="lazy">
+  <figcaption>Tax cuts plus higher defence spending meant deficits, not a smaller state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-the-usa-1974-93--04-bush-1992.webp" width="900" height="484" alt="A hub with Bush's defeat at the centre. Around it: recession, the broken &quot;no new taxes&quot; pledge, doubts about Quayle, Perot's 19 per cent, Clinton's centrist appeal, and a record of the Americans with Disabilities Act and Clean Air Act alongside many vetoes." loading="lazy">
+  <figcaption>Recession and a broken tax pledge cost Bush; Perot and Clinton took the votes.</figcaption>
+</figure>
+
 ## 6.3 Carter's foreign policy -- scorecard
 
 | Area | Success | Failure |
@@ -104,12 +124,27 @@ featured: false
 | Iran | Hostages finally freed alive | 444-day crisis; failed rescue; electoral damage |
 | USSR | SALT II signed | Not ratified; détente collapsed after Afghanistan |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-the-usa-1974-93--05-carter-foreign.webp" width="900" height="540" alt="Two columns. Camp David: Sadat's visit to Jerusalem (November 1977), thirteen days of talks (September 1978) and the March 1979 peace treaty, with the Palestinian question unresolved. Iran: the embassy seized in November 1979, 52 Americans held for 444 days, the failed April 1980 rescue and release in January 1981. Below, human rights policy towards Argentina, Chile and Nicaragua." loading="lazy">
+  <figcaption>Camp David lasted; the hostage crisis defined Carter for voters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-the-usa-1974-93--07-carter-judgement.webp" width="900" height="520" alt="A grid comparing Carter's foreign and domestic policy on three criteria: aims (Camp David against energy reform), lasting results (a lasting peace treaty against inflation over 13 per cent) and political standing (the hostage crisis against poor relations with Congress)." loading="lazy">
+  <figcaption>Use the same criteria for both sides so the judgement compares like with like.</figcaption>
+</figure>
+
 ## 6.4 US-Soviet relations -- why they changed
 
 - **Détente motives:** cost, parity, Vietnam, the Sino-Soviet split.
 - **Détente collapse:** Angola and Ethiopia, Afghanistan, SALT II unratified, ideological revival, Reagan's election.
 - **Rollback:** Nicaragua (Contras), Afghanistan (mujahideen), Angola (UNITA).
 - **Thaw:** Gorbachev's reforms and need to cut defence; summits; INF Treaty; Reagan's turn to negotiation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-the-usa-1974-93--06-detente-to-end.webp" width="900" height="643" alt="A timeline from 1972 to 1988 drawn to scale with three phases: détente (SALT I in 1972, Helsinki and Apollo-Soyuz in 1975), the Second Cold War from the invasion of Afghanistan (December 1979) with &quot;evil empire&quot; and SDI (1983), and summits at Geneva (1985), Reykjavik (1986) and Washington with the INF Treaty (1987). Below, the Reagan Doctrine and the debate over who ended the Cold War." loading="lazy">
+  <figcaption>Détente collapsed in 1979; confrontation gave way to summits after 1985.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -1,0 +1,9 @@
+{ "page": "igcse-computer-science-internet-and-its-uses-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--15-net-internet-web.webp", "after": "## 5.1 The internet and the world wide web" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--16-net-dns-steps.webp", "after": "### How is a web page found and displayed? (5.1.5)" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--17-net-cookies.webp", "after": "### Session or persistent cookie? (5.1.6)" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--18-net-blockchain.webp", "after": "## 5.2 Digital currency and blockchain" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--19-net-brute-force.webp", "after": "## 5.3 Cyber security threats" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--20-net-phishing-pharming.webp", "after": "## 5.3 Cyber security threats" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--21-net-ddos.webp", "after": "## 5.3 Cyber security threats" }
+] }

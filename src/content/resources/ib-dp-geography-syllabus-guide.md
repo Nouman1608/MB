@@ -59,6 +59,11 @@ able to move between the physical processes at work (for example, wave
 action in Oceans and coastal margins) and their human and management
 consequences, rather than treating either half in isolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-syllabus-guide--01-seven-options.webp" width="900" height="760" alt="The seven options are freshwater; oceans and coastal margins; extreme environments; geophysical hazards; leisure, tourism and sport; food and health; and urban environments. SL classes study two (60 hours) and HL classes three (90 hours), chosen by the teacher." loading="lazy">
+  <figcaption>Revise only the options your class actually studied.</figcaption>
+</figure>
+
 ## SL and HL core -- Geographic perspectives: global change (70 hours, both SL and HL)
 
 - **Population distribution** -- changing population, examining why
@@ -90,6 +95,11 @@ is examined in Paper 2.
 This entire component does not exist for SL students. It is examined
 separately in Paper 3, which SL students do not sit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-syllabus-guide--02-hours-split.webp" width="900" height="456" alt="Two stacked bars. SL, 150 hours: options 60, core 70, fieldwork 20. HL, 240 hours: options 90, core 70, HL extension 60, fieldwork 20." loading="lazy">
+  <figcaption>HL adds a third option and a whole 60-hour extension.</figcaption>
+</figure>
+
 ## Internal assessment -- fieldwork (20 hours, both SL and HL)
 
 A single written report based on a fieldwork question of the student's
@@ -104,6 +114,11 @@ students who settle on a genuinely testable geographic question and a
 realistic data-collection method well before the fieldwork trip itself
 tend to produce stronger reports than those who collect data first and
 try to fit a question to it afterwards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-syllabus-guide--04-fieldwork-route.webp" width="900" height="654" alt="Four steps: choose a suitable topic from an option, the core or the HL extension; settle a testable question and realistic method before the trip; collect and analyse the information with evaluation; and evaluate the limitations of your own method. A warning advises against collecting data first and fitting a question afterwards." loading="lazy">
+  <figcaption>A testable question chosen early makes a stronger fieldwork report.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -135,6 +150,11 @@ theme. For the fieldwork report specifically, revisit your data
 collection methodology critically before submission: evaluation of your
 own method's limitations is assessed as its own skill, separate from
 simply presenting your results.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-syllabus-guide--03-papers-map.webp" width="900" height="756" alt="The chosen options are examined in Paper 1, the shared core on global change in Paper 2, and the HL extension on global interactions in Paper 3, which only HL students sit. Fieldwork is the internal assessment. A note advises building a bank of one or two specific case studies per theme." loading="lazy">
+  <figcaption>Know which paper tests which content before you start revising.</figcaption>
+</figure>
 
 ## Official syllabus
 

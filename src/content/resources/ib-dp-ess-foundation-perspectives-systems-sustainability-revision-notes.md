@@ -66,6 +66,11 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-ess-foun
 > 4. Quote the evidence and explain the link.
 > 5. If the position is mixed, say where on the spectrum it sits and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-foundation-perspectives-systems-sustainability--01-evs-system-and-spectrum.webp" width="900" height="810" alt="Top: an EVS modelled as a system, with inputs such as upbringing, culture and media, processing by values and beliefs, and outputs such as decisions, votes and purchases. Bottom: the spectrum from ecocentric through anthropocentric to technocentric, with the solar-farm stakeholders placed: a local group (ecocentric), a farmer (anthropocentric) and an engineer (technocentric)." loading="lazy">
+  <figcaption>Place a stakeholder on the spectrum using evidence from what they say.</figcaption>
+</figure>
+
 ## 1.2 Systems — key terms
 
 | Term | Meaning |
@@ -98,6 +103,21 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-ess-foun
 
 **Resilience rises with:** diversity (species, genes, habitats), large storages, fast recovery rates, and wide geographic range. Human activity can lower it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-foundation-perspectives-systems-sustainability--02-lake-varn-storage-flows.webp" width="900" height="774" alt="Systems diagram of fictional Lake Varn storing 1200 million cubic metres. Inputs: river inflow 310, rain 45 and groundwater 25. Outputs: river outflow 290, evaporation 70 (a transformation) and abstraction 35. Inputs total 380 and outputs 395, so the lake loses 15 a year, 1.25% of its storage." loading="lazy">
+  <figcaption>When outputs exceed inputs, the storage shrinks: the system is not in steady state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-foundation-perspectives-systems-sustainability--03-open-closed-isolated.webp" width="900" height="610" alt="Three systems with dashed boundaries. In an open system, such as most ecosystems, both energy and matter cross the boundary. In a closed system, close to Earth as a whole, energy crosses but matter does not. In an isolated system neither crosses, and no natural example exists." loading="lazy">
+  <figcaption>What crosses the boundary, energy, matter or neither, defines the type of system.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-foundation-perspectives-systems-sustainability--04-equilibrium-types.webp" width="900" height="760" alt="Four small graphs over time. Steady-state: the line fluctuates around an average. Static: a flat line with no change. Stable: after a disturbance the system returns to its old level. Unstable: after a disturbance it settles at a new level. Below, a tipping point is defined as a threshold past which a small change causes a large, lasting shift." loading="lazy">
+  <figcaption>Living systems are in steady state; stable systems return after disturbance, unstable ones do not.</figcaption>
+</figure>
+
 ## 1.3 Sustainability — key terms
 
 | Term | Meaning |
@@ -127,6 +147,21 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-ess-foun
 
 **Three pillars:** environmental, social, economic. A plan must be judged on all three.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-foundation-perspectives-systems-sustainability--05-natural-capital-income.webp" width="900" height="610" alt="A community woodland holds 48 000 cubic metres of timber. Natural income, 3.5% growth, adds 1680 a year while 2100 is harvested, 125% of income, so the stock falls to 47 580 after one year. The largest sustainable harvest is 1680." loading="lazy">
+  <figcaption>A harvest is sustainable only if it does not exceed natural income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-foundation-perspectives-systems-sustainability--06-footprint-biocapacity.webp" width="900" height="670" alt="Bar chart for fictional Country P: ecological footprint 4.8 global hectares per person against biocapacity 2.0, a deficit of 2.8 per person. The footprint is 2.4 times biocapacity, and with 12 million people the total deficit is 33.6 million gha." loading="lazy">
+  <figcaption>A footprint larger than biocapacity means an ecological deficit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-foundation-perspectives-systems-sustainability--07-doughnut-circular-economy.webp" width="900" height="670" alt="Left: the doughnut, with an inner social foundation ring, an outer ecological ceiling based on planetary boundaries, and the safe and just space between them. Right: the linear take, make, throw away model compared with a circular economy that designs out waste, keeps products and materials in use and regenerates natural systems." loading="lazy">
+  <figcaption>Aim for the safe and just space, and close the loop on materials.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Transfer vs transformation.** Same form = transfer. New form or state = transformation.
@@ -138,6 +173,11 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-ess-foun
 - **Ecological footprint vs carbon footprint.** Area (gha) vs emissions (t CO₂e).
 - **Planetary boundaries vs doughnut.** Environmental limits only vs environmental limits plus a social foundation.
 - **Tipping point vs resilience.** The threshold itself vs the ability to stay away from it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-foundation-perspectives-systems-sustainability--08-eia-stages.webp" width="900" height="600" alt="Six stages in order: a baseline study of the site, prediction of likely impacts, mitigation measures, a report with a non-technical summary, a decision, and monitoring after the project starts. A note lists limits: uncertain predictions, short-term baseline data and decisions that may still favour economic gain." loading="lazy">
+  <figcaption>An EIA runs from a baseline study before approval to monitoring afterwards.</figcaption>
+</figure>
 
 ## Quick self-test
 

@@ -34,11 +34,21 @@ featured: false
 | Musa (AS) | *Kalimullah*, Allah spoke to him | Tawrat | Pharaoh and the Children of Israel | Courage against tyranny |
 | Isa (AS) | *Al-Masih*, son of Maryam | Injil | The Children of Israel | A prophet and servant, not divine |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa--06-four-prophets-compared.webp" width="900" height="566" alt="A table of the four prophets with their title or role, book and key importance: Adam (AS), first prophet and khalifah; Ibraheem (AS), Khalilullah, given the Suhuf; Musa (AS), Kalimullah, given the Tawrat; Isa (AS), the Messiah, given the Injil. A note says the Zabur went to Dawud (AS)." loading="lazy">
+  <figcaption>Suhuf with Ibraheem, Tawrat with Musa, Injil with Isa (AS).</figcaption>
+</figure>
+
 ## Adam (AS): recall chain
 
 Announced as *khalifah* (2:30) → made from clay → taught the names (2:31) → angels prostrate, Iblis refuses from pride (2:34; 7:12) → the forbidden tree → Shaytan causes the slip (2:36) → "Our Lord, we have wronged ourselves" (7:23) → repentance accepted (2:37) → life on earth.
 
 **Importance in three words:** repentance, stewardship, equality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa--02-adam.webp" width="900" height="726" alt="Five steps in the life of Adam (AS): Allah announces a khalifah, Adam is created from clay and taught the names, Iblis refuses out of pride, Adam and his wife slip and are sent to earth, and their repentance is accepted. Below, his importance: mercy, no inherited sin, stewardship, the danger of pride and equality." loading="lazy">
+  <figcaption>Adam’s forgiven mistake teaches that sincere repentance is always accepted.</figcaption>
+</figure>
 
 ## Ibraheem (AS): recall chain
 
@@ -46,15 +56,30 @@ Idol-worshipping people and father Azar → reasons from star, moon and sun (6:7
 
 **Link to practice:** Hajj (Sa'i, the Ka'aba, the stoning at Mina) and Eid-ul-Adha all recall his family.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa--03-ibraheem.webp" width="900" height="635" alt="Six events from the life of Ibraheem (AS): reasoning against worship of the stars, breaking the idols, the fire made cool, leaving Hajar and Isma’il (AS) in Makkah, the dream of sacrifice and raising the Ka’aba. Below, how worship recalls him: Sa’i remembers Hajar, the Eid-ul-Adha sacrifice remembers the ram, and the Ka’aba is the house he built." loading="lazy">
+  <figcaption>Hajj and Eid-ul-Adha relive Ibraheem’s submission every year.</figcaption>
+</figure>
+
 ## Musa (AS): recall chain
 
 Pharaoh kills baby boys → placed in the river (28:7) → raised in Pharaoh's palace → flees to Madyan → called at Tuwa (20:9-14) → staff and shining hand (20:17-22) → sent with Harun (AS) → Pharaoh refuses → sea parts (26:63) → Pharaoh drowned → Tawrat, "guidance and light" (5:44).
 
 **Link to practice:** the Prophet (pbuh) fasted on Ashura, the day Musa (AS) was saved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa--04-musa.webp" width="900" height="842" alt="Six steps in the life of Musa (AS): saved as a baby, life in Madyan, the call at Tuwa with the signs, confronting Pharaoh with Harun (AS), the parting of the sea, and receiving the Tawrat. A note links the story to fasting on Ashura." loading="lazy">
+  <figcaption>Musa (AS) teaches courage against injustice and trust in Allah.</figcaption>
+</figure>
+
 ## Isa (AS): recall chain
 
 Angel visits Maryam (19:16-21) → born without a father, like Adam created by "Be" (3:59) → speaks from the cradle: "I am the servant of Allah" (19:30) → miracles by Allah's permission (3:49) → Injil (5:46) → not killed or crucified (4:157) → raised by Allah (4:158) → foretells "Ahmad" (61:6).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa--05-isa.webp" width="900" height="602" alt="Six Islamic beliefs about Isa (AS): his miraculous birth to Maryam, speaking from the cradle as the servant of Allah, miracles by Allah’s permission, the Injil, that he was not crucified but raised up by Allah, and his announcement of a messenger named Ahmad." loading="lazy">
+  <figcaption>Use the Islamic belief: a prophet and servant of Allah, not divine.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -114,3 +139,8 @@ This statement sits in Paper 1 Section A. Expect a 1- or 2-mark recall item (a b
 Practise with the [Prophets Adam, Ibraheem, Musa and Isa (AS) practice questions](/resources/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa-practice/).
 
 *Source: OxfordAQA, International GCSE Islamiat (9237) specification, Version 1.1, content area 3.1.1.7.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa--07-six-mark-structure.webp" width="900" height="476" alt="The structure of a 6-mark answer: two separate reasons, a model of Tawhid and the link to Hajj and Eid-ul-Adha, each developed with an event for 4 marks, then a source, Qur’an 4:125, quoted and applied for 2 marks." loading="lazy">
+  <figcaption>Two developed reasons plus one source applied to the question.</figcaption>
+</figure>

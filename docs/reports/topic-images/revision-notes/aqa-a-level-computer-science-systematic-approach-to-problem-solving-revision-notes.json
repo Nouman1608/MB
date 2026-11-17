@@ -1,0 +1,6 @@
+{ "page": "aqa-a-level-computer-science-systematic-approach-to-problem-solving-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--01-dev-stages.webp", "after": "## The five stages at a glance" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--02-analysis-methods.webp", "after": "## Analysis" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--07-waterfall-agile.webp", "after": "## Implementation" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--04-off-by-one.webp", "after": "### Worked example: a test plan row" }
+] }

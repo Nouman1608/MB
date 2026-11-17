@@ -35,6 +35,11 @@ wrong pairing entirely. Confirm your centre's chosen Investigation and
 Breadth Study **first** — everything below assumes that is already
 settled.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-2-investigation-breadth-studies--12-p2-structure.webp" width="900" height="940" alt="Two panels: choose 1 of 5 Historical Investigations (A1 to A5, testing unseen sources) and 1 of 8 Breadth Studies (B1 to B8, testing change). 5 + 8 = 13 options but two choices." loading="lazy">
+  <figcaption>Paper 2 pairs one Investigation with one Breadth Study.</figcaption>
+</figure>
+
 ## The Historical Investigation tests a skill, not a fixed narrative
 
 Because this component includes unseen sources in the exam itself, over-
@@ -54,6 +59,11 @@ for its own sake.
 |---|---|
 | Describes what each source says separately, then asserts one is "more useful" or "more reliable" than the other | Identifies specific points of agreement and specific points of disagreement between the two sources, using contextual knowledge to explain why |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-2-investigation-breadth-studies--13-p2-investigations.webp" width="900" height="755" alt="A to-scale timeline of the five Investigation options A1 to A5 between 1905 and 1990." loading="lazy">
+  <figcaption>The five Historical Investigation periods drawn to scale.</figcaption>
+</figure>
+
 ## The Breadth Study tests change over time, not a list of events
 
 A Breadth Study spans a long period — sometimes a century or more.
@@ -68,6 +78,16 @@ before anything else, marking:
 Exam questions frequently ask "how far" or "how much" something changed
 over a stated period — a timeline-based answer directly supports that
 question type; a narrative list of events does not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-2-investigation-breadth-studies--14-p2-breadth-spans.webp" width="900" height="1051" alt="A to-scale timeline of the eight Breadth Studies, each 89 to 100 years long, with a 100-year ruler." loading="lazy">
+  <figcaption>Breadth Studies cover very long spans, around a century.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-2-investigation-breadth-studies--16-p2-change-curve.webp" width="900" height="870" alt="An illustrative curve of change over a century or more with flat continuity stretches and three numbered turning points, two rapid and one gradual." loading="lazy">
+  <figcaption>A Breadth Study answer traces turning points, continuity and the pace of change.</figcaption>
+</figure>
 
 ## Assessment objective weighting to plan revision around
 
@@ -85,6 +105,11 @@ AO4's marks on Paper 1. Even on a source-based component like the
 Investigation, secure factual knowledge remains the foundation: strong
 source evaluation still depends on accurate contextual knowledge, not
 source-reading skill alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-2-investigation-breadth-studies--17-p2-assessment-objectives.webp" width="900" height="900" alt="A stacked bar of AO1 34%, AO2 36%, AO3 15%, AO4 15%, and a second bar splitting AO4 into 10% on Paper 1 and 5% on Paper 2." loading="lazy">
+  <figcaption>The four assessment objectives and where AO4 and AO3 sit.</figcaption>
+</figure>
 
 ## A shared method across both components
 
@@ -105,6 +130,11 @@ sources agree, a specific point where they disagree, and the
 contextual knowledge that explains why they differ. Doing this as a
 fixed written routine, not just "in your head," builds the habit that a
 rushed exam moment will otherwise skip.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-paper-2-investigation-breadth-studies--15-p2-cross-reference.webp" width="900" height="880" alt="Two sources with three illustrative points joined by solid lines where they agree and a dashed line where they disagree, then a weak answer (describes in turn) against a strong one (matches, adds origin and purpose, judges how far)." loading="lazy">
+  <figcaption>Cross-referencing means matching agreements and disagreements, then judging how far.</figcaption>
+</figure>
 
 ## Exam traps
 

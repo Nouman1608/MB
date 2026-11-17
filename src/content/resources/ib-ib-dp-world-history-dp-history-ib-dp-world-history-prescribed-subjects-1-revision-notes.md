@@ -41,6 +41,21 @@ Related: [Military leaders study guide](/resources/ib-ib-dp-world-history-dp-his
 | 1219-1221 | Conquest of Khwarazm: Bukhara, Samarkand, Urgench, Merv, Nishapur | Terror as policy; destruction of cities |
 | 1227 | Dies during the final campaign against Western Xia | Empire passes to his sons; Ögedei elected in 1229 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-1--02-temujin-rise.webp" width="900" height="757" alt="A vertical timeline: Temüjin born around the 1160s, his father poisoned by Tatars, alliances with Toghrul and Jamukha that he later broke, victories over the Tatars (1202), Kereit (1203) and Naiman (1204), and proclamation as Genghis Khan at the kurultai of 1206. Two cards add his methods: rewarding loyalty above birth and breaking up defeated tribes." loading="lazy">
+  <figcaption>Two features of his rise matter for sources: merit over birth, and broken kin loyalties.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-1--03-decimal-army.webp" width="900" height="487" alt="Four boxes grow left to right: arban of 10 men, jaghun of 100, mingghan of 1,000 and tumen of 10,000, each grouping ten units of the level below. Below: the keshig elite guard, remounts for long marches, and the Yassa for discipline." loading="lazy">
+  <figcaption>Decimal units, mounted archers and discipline made the army mobile and controllable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-1--04-genghis-campaigns.webp" width="900" height="733" alt="Four bars on a time scale from 1200 to 1230: Western Xia raided from 1205 and submitting by 1210; Jin China invaded from 1211, with Zhongdu falling in 1215; the Khwarazmian Empire invaded in 1219-1221 after the Otrar caravan killing of 1218; and the final Western Xia campaign, during which Genghis Khan died in 1227. A note adds the use of captured engineers for siege engines." loading="lazy">
+  <figcaption>Campaigns followed one another from 1205 to his death in 1227.</figcaption>
+</figure>
+
 ## Richard I: timeline
 
 | Date | Event | Why it matters |
@@ -57,6 +72,11 @@ Related: [Military leaders study guide](/resources/ib-ib-dp-world-history-dp-his
 | 1192-1194 | Captured by Leopold V; held by Henry VI; ransom of 150,000 marks | Heavy taxation in his lands |
 | 1194-1199 | Wars with Philip II; Château Gaillard built | Defence of Normandy |
 | 1199 | Dies from a crossbow wound at Châlus | Angevin lands pass to John |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-1--05-third-crusade-schematic.webp" width="900" height="648" alt="A schematic sequence, not to scale: Richard seizes Messina, conquers Cyprus in 1191, takes Acre in July 1191 and defeats Saladin at Arsuf in September 1191, then relieves Jaffa in 1192. Dashed lines show that he approached Jerusalem twice but turned back. Below: the Treaty of Jaffa (1192), his capture near Vienna and ransom, and the wars against Philip II until his death at Châlus in April 1199." loading="lazy">
+  <figcaption>Acre and Arsuf were victories, but Jerusalem stayed in Muslim hands.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -82,11 +102,21 @@ Related: [Military leaders study guide](/resources/ib-ib-dp-world-history-dp-his
 | Limits | Struggled at first against walled cities | Could not hold Jerusalem without a permanent army |
 | Legacy | A new empire and new trade links | A secured coast, but a costly absence from his lands |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-1--01-two-leaders-three-headings.webp" width="900" height="652" alt="A grid with Genghis Khan and Richard I as columns and four rows: starting point, leadership, campaigns and impact. Genghis Khan built an empire from steppe peoples and campaigned against Western Xia, Jin China and Khwarazm; Richard I inherited the Angevin lands, led the Third Crusade and fought Philip II. A note asks how far success depended on personal qualities or on society and resources." loading="lazy">
+  <figcaption>Organise both case studies under the same three headings.</figcaption>
+</figure>
+
 ## Source checklist
 
 - **Who and when?** *The Secret History of the Mongols* (thirteenth century, Mongol insider); Juvaini and Rashid al-Din (Persian historians working for Mongol rulers); Ibn al-Athir (hostile Arab contemporary). For Richard: crusader narratives (Ambroise, the *Itinerarium*), Baha al-Din ibn Shaddad (Saladin's side).
 - **Numbers.** Chronicle figures for armies and massacres are often inflated. Treat them as evidence of how events were perceived.
 - **Purpose.** Praise poems and court histories glorify; enemy chronicles condemn. Both can still be valuable for attitudes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-1--07-sources-and-historians.webp" width="900" height="664" alt="Six source cards. For Genghis Khan: the Secret History, an insider's Mongol view; Juvaini and Rashid al-Din, who wrote under Mongol patronage; and Ibn al-Athir, an Arab contemporary who saw catastrophe. For Richard I: Christian narratives that praise him, and Baha al-Din, Saladin's adviser. A spectrum shows Stubbs's view of Richard as a neglectful absentee against Gillingham's view of a capable Angevin ruler." loading="lazy">
+  <figcaption>Ask whom each writer served and how long after the events he wrote.</figcaption>
+</figure>
 
 ## Exam traps
 

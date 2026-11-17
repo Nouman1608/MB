@@ -37,6 +37,11 @@ Also examinable: defining aims, choosing a location, setting a hypothesis or que
 
 The specification's six strands run in order, and planning is the first: (1) suitable question → (2) selecting, measuring and recording data → (3) processing and presenting → (4) describing, analysing and explaining → (5) conclusions → (6) evaluation. A weak plan weakens every later strand, because the conclusion must answer the question the plan set.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills--07-ns45-enquiry-strands.webp" width="900" height="1010" alt="The six strands in order: suitable question, select measure and record, process and present, describe analyse and explain, conclusions, evaluation. Paper 3 Section B tests the enquiry process in unfamiliar contexts and Section C tests your own titled enquiry." loading="lazy">
+  <figcaption>Every fieldwork enquiry moves through the same six strands.</figcaption>
+</figure>
+
 ## Where it is tested
 
 - **Paper 3 Section B:** fieldwork in **unfamiliar** contexts.
@@ -57,6 +62,11 @@ The specification's six strands run in order, and planning is the first: (1) sui
 | Risk assessment | A list of hazards with their likelihood, seriousness and precautions |
 | Bibliography | List of sources consulted and used |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-enquiry-planning--01-aim-question-hypothesis.webp" width="900" height="705" alt="Four levels of an enquiry with a river example: the aim, to investigate how a river changes downstream; the enquiry question on how width and depth change; the hypothesis that width increases downstream; and sub-questions on velocity and pebble size." loading="lazy">
+  <figcaption>Narrow a general aim into a question or a testable hypothesis.</figcaption>
+</figure>
+
 ## Suitability factors (the seven checks)
 
 1. Geographical, linked to theory.
@@ -66,6 +76,11 @@ The specification's six strands run in order, and planning is the first: (1) sui
 5. Safe and accessible.
 6. Likely to show variation between sites.
 7. Supported by secondary data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-enquiry-planning--02-suitable-question.webp" width="900" height="687" alt="Seven factors for a suitable enquiry question: geographical, testable, specific, manageable, safe and accessible, likely to show variation, and supported by secondary data. “What is the town like?” fails; “Do pedestrian numbers decrease with distance from the centre of a named town?” works." loading="lazy">
+  <figcaption>Name a place, a measurable variable and a pattern you expect to find.</figcaption>
+</figure>
 
 ## Theory and expected pattern
 
@@ -77,6 +92,11 @@ The specification's six strands run in order, and planning is the first: (1) sui
 | Microclimate | Warmer over tarmac and between buildings than over grass |
 | Environmental quality | Varies between inner and outer areas of a town |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-enquiry-planning--03-theory-prediction.webp" width="900" height="650" alt="A chain from theory to hypothesis, data and conclusion, where the conclusion compares results with the prediction. Below, five examples: river channel change, land use in a town, sand dune succession, environmental quality and microclimate, each with its theory and expected pattern." loading="lazy">
+  <figcaption>The theory gives a reason to expect a pattern; the conclusion tests it.</figcaption>
+</figure>
+
 ## Choosing a location
 
 Shows the feature clearly; has enough sites to show change; safe, legal, permitted; reachable in time; has secondary data.
@@ -84,6 +104,11 @@ Shows the feature clearly; has enough sites to show change; safe, legal, permitt
 ## Background research sources
 
 Large-scale maps; census and local authority data; GIS and satellite imagery; previous studies, local news, authority websites. Record them all for the bibliography.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-enquiry-planning--04-background-research.webp" width="900" height="714" alt="Four secondary sources, large-scale maps, census and local authority data, GIS and satellite imagery, and previous studies or websites, feed background research that helps choose sites, refine the hypothesis and understand the context, with every source recorded in a bibliography. Below, primary evidence gives local detail and secondary evidence gives comparison." loading="lazy">
+  <figcaption>Research first, record every source, and combine primary with secondary evidence.</figcaption>
+</figure>
 
 ## Risk and precaution pairs
 
@@ -96,6 +121,11 @@ Large-scale maps; census and local authority data; GIS and satellite imagery; pr
 | Traffic | Pavements, crossings, high-visibility clothing |
 | Strangers | Pairs or groups; public places; identification |
 | Weather | Forecast; water, sun protection, waterproofs |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-enquiry-planning--05-risk-assessment.webp" width="900" height="666" alt="A risk assessment table for river, coast, town and any setting. Each risk, such as fast water, incoming tides, falling rocks, traffic, approaching strangers or bad weather, is matched with specific precautions such as checking river levels or tide times, staying on pavements and working in pairs." loading="lazy">
+  <figcaption>Every risk needs a specific precaution that matches it.</figcaption>
+</figure>
 
 ## Condensed example
 

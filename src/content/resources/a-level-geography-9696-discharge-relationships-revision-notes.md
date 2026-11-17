@@ -61,6 +61,11 @@ Discharge = cross-sectional area x mean velocity.
 
 **Why the falling limb is gentler:** once overland flow stops, the channel is still fed by throughflow and then groundwater, which drain slowly. Discharge often stays above the old baseflow for some time, especially in basins with permeable rock.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--08-phys-storm-hydrograph.webp" width="900" height="1070" alt="A storm hydrograph. A rainfall bar chart peaks at 4.5 hours. A flashy discharge curve rises sharply to a high peak of 80 two hours after peak rainfall and falls quickly. A subdued curve peaks at 38 six hours after peak rainfall. Lag time, peak discharge, rising limb and falling limb are labelled. Impermeable, steep, urban ground gives the flashy shape; permeable, gentle, wooded ground gives the subdued one. Illustrative values." loading="lazy">
+  <figcaption>A flashy hydrograph has a short lag time and a high peak; permeable, gentle, wooded basins give a flatter, delayed response.</figcaption>
+</figure>
+
 ## Flashy versus subdued
 
 | Factor | Flashy (short lag, high peak) | Subdued (long lag, low peak) |

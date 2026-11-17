@@ -37,6 +37,11 @@ worked examples are in the
 - Still expanding now.
 - Space itself expands; the Big Bang was not an explosion from one point in space.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--01-big-bang-history.webp" width="900" height="775" alt="A widening cone from a tiny hot point about 13.8 billion years ago to today. Along it: the universe expands and cools, the first particles and atoms of hydrogen and helium form, gravity builds stars and galaxies, and the universe is still expanding." loading="lazy">
+  <figcaption>From tiny, hot and dense to the expanding universe of stars and galaxies today.</figcaption>
+</figure>
+
 ## Doppler effect
 
 | Source | Observed wavelength | Observed frequency | Light |
@@ -46,6 +51,16 @@ worked examples are in the
 
 - Sound example: a siren's pitch rises as it approaches, falls as it leaves.
 - Spectral lines from galaxies keep their pattern but move to longer wavelengths.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-waves--01-doppler-effect.webp" width="900" height="770" alt="Circular wavefronts sent out from a source moving right are closer together ahead (shorter wavelength, higher pitch) and further apart behind (longer wavelength, lower pitch)." loading="lazy">
+  <figcaption>A moving source squeezes wavefronts together ahead and stretches them behind.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--02-red-shifted-spectral-lines.webp" width="900" height="575" alt="Two absorption spectra. The laboratory spectrum has dark lines at the reference wavelengths. The galaxy spectrum shows the same pattern of lines, each moved towards the longer-wavelength red end." loading="lazy">
+  <figcaption>Same pattern of lines, all moved to longer wavelengths: the galaxy is moving away.</figcaption>
+</figure>
 
 ## Red-shift equation
 
@@ -62,10 +77,20 @@ worked examples are in the
 
 **Second example (illustrative):** v = 1.5 × 10⁷ m/s, λ₀ = 410 nm → v / c = 0.050 → Δλ = 20.5 nm → observed λ = **430.5 nm**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--03-red-shift-worked-examples.webp" width="900" height="555" alt="Two worked examples. A 486 nm line seen at 495.72 nm gives Δλ / λ₀ = 0.020 and v = 6.0 × 10⁶ m/s. A galaxy receding at 1.5 × 10⁷ m/s gives v / c = 0.050, Δλ = 20.5 nm and an observed 410 nm line at 430.5 nm." loading="lazy">
+  <figcaption>Find Δλ, divide by λ₀, and multiply by c; or work backwards and add Δλ to λ₀.</figcaption>
+</figure>
+
 ## Red-shift and distance
 
 - Almost all distant galaxies are red-shifted → moving away.
 - Greater distance → greater red-shift → faster recession.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--04-red-shift-and-distance.webp" width="900" height="650" alt="Three galaxies at increasing distances from Earth, each moving away, the furthest fastest. Under each a spectrum strip shows the same line moved further from its reference position the more distant the galaxy." loading="lazy">
+  <figcaption>The further away a galaxy is, the bigger its red-shift and the faster it is moving away.</figcaption>
+</figure>
 
 ## Evidence for expansion
 
@@ -75,11 +100,26 @@ worked examples are in the
 4. Every observer sees the same pattern → no centre; Earth is not special.
 5. Run backwards → everything once together in a hot, dense state → Big Bang.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--05-balloon-analogy.webp" width="900" height="720" alt="A balloon with five dots, small and then inflated. As the balloon stretches every dot moves away from every other, and dots that started further apart move apart more. No dot is at the centre." loading="lazy">
+  <figcaption>Space stretches between all galaxies, so every observer sees the others moving away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--06-red-shift-explanation-chain.webp" width="900" height="535" alt="A chain of five boxes: almost all galaxies are red-shifted; further ones are moving away faster; so space is expanding; running this backwards, galaxies were once closer; so the universe began tiny, hot and dense, the Big Bang." loading="lazy">
+  <figcaption>Link the observations in order: red-shift, faster with distance, expanding space, Big Bang.</figcaption>
+</figure>
+
 ## Cosmic microwave background (CMB)
 
 - Microwave radiation from **every direction**, almost uniform.
 - Remnant of the radiation from the hot early universe, stretched to microwave wavelengths as space expanded.
 - Predicted by the Big Bang theory; the Steady State theory cannot explain it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-cosmology--07-cosmic-microwave-background.webp" width="900" height="730" alt="Three waves, each longer than the last: high-energy radiation in the hot early universe is stretched as the universe expands and is detected today as microwaves. Arrows reach Earth from every direction with almost the same intensity." loading="lazy">
+  <figcaption>Expansion stretched the early radiation into the microwaves now arriving from every direction.</figcaption>
+</figure>
 
 ## Key terms
 

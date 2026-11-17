@@ -31,6 +31,11 @@ and a worked scenario, use the [remedies in contract study guide](/resources/aqa
 **Breach** → **terminate or affirm?** → **loss** (which category?) → **causation** → **remoteness**
 (time of contracting) → **mitigation** → **amount** → **equitable remedy** if damages inadequate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-law-of-contract--01-damages-filter.webp" width="900" height="626" alt="Starting from the claimant’s loss, damages pass three filters: causation (the breach must be an effective cause; Quinn v Burch Brothers), remoteness (Hadley v Baxendale, judged at the time of contracting) and mitigation (British Westinghouse). What remains is recoverable as of right, compensatory, not punitive." loading="lazy">
+  <figcaption>Loss is reduced by causation, remoteness and mitigation before damages are paid.</figcaption>
+</figure>
+
 ## Compensatory damages
 
 - **Aim**: put the claimant in the position as if the contract had been **performed** (Robinson v
@@ -45,6 +50,11 @@ and a worked scenario, use the [remedies in contract study guide](/resources/aqa
 | Loss of amenity | Ruxley Electronics v Forsyth (1996) | Pool too shallow; cost of rebuilding unreasonable; £2,500 for loss of amenity |
 | Distress: general rule | Addis v Gramophone (1909) | No damages for injured feelings |
 | Distress: exception | Jarvis v Swans Tours (1973); Farley v Skinner (2001) | Where a major object of the contract is pleasure or peace of mind |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-law-of-contract--02-categories-of-loss.webp" width="900" height="447" alt="Six categories: expectation loss (Robinson v Harman), reliance loss (Anglia Television v Reed), loss of a chance (Chaplin v Hicks), loss of amenity where cure is disproportionate (Ruxley v Forsyth, £2,500), and non-pecuniary loss, generally barred (Addis) but recoverable where pleasure or peace of mind is a major object (Jarvis; Farley v Skinner)." loading="lazy">
+  <figcaption>Expectation is the default; the others fill gaps where it cannot be measured.</figcaption>
+</figure>
 
 ## Causation
 
@@ -65,12 +75,22 @@ unfooted trestle.
 | Parsons v Uttley Ingham (1978) | If the **type** of loss is contemplated, the full extent is recoverable |
 | The Achilleas (2008) | Also whether the defendant **assumed responsibility** for that type of loss |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-law-of-contract--03-remoteness-hadley.webp" width="900" height="525" alt="Hadley v Baxendale’s two limbs: losses arising naturally (with The Heron II’s “not unlikely” test) and losses in both parties’ contemplation because of special knowledge, judged at contracting. Cases: Hadley (lost mill profits too remote), Victoria Laundry (ordinary profits recovered, lucrative contracts not), Parsons v Uttley Ingham (type contemplated, full extent recovered) and The Achilleas (assumption of responsibility)." loading="lazy">
+  <figcaption>What the defendant knew when contracting sets the limit of liability.</figcaption>
+</figure>
+
 ## Mitigation
 
 - Claimant must take **reasonable steps** to reduce loss (British Westinghouse, 1912).
 - **Payzu v Saunders (1919)**: should have accepted the offer to supply for cash.
 - **Brace v Calder (1895)**: refusing re-employment on the same terms gave only nominal damages.
 - The standard is reasonableness, not perfection; reasonable costs of mitigating are recoverable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-law-of-contract--06-leah-oven.webp" width="900" height="570" alt="Leah’s wedding profit of £6,000 is not too remote because Ovenco was told (Victoria Laundry); the unmentioned £9,000 banquet profit is too remote. A similar oven was available for £11,000 on 10 April, so under Payzu v Saunders a court may limit damages to the £1,000 extra cost rather than £6,000. Specific performance is irrelevant." loading="lazy">
+  <figcaption>Remoteness removes the banquet; mitigation may shrink the rest to £1,000.</figcaption>
+</figure>
 
 ## Equitable remedies
 
@@ -88,6 +108,11 @@ unfooted trestle.
 misrepresentation and economic duress. Barred by affirmation, lapse of time, third-party rights or
 impossibility of restitution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-law-of-contract--04-equitable-remedies.webp" width="900" height="557" alt="Specific performance orders the contract to be carried out where damages are inadequate: granted for land, unique goods (Falcke v Gray) and in Beswick v Beswick; refused for personal service, constant supervision (Co-operative Insurance v Argyll), severe hardship (Patel v Ali) or unfairness and delay. Rescission sets the contract aside for misrepresentation or economic duress, and is lost by affirmation, lapse of time, third-party rights or impossible restitution." loading="lazy">
+  <figcaption>Both depend on the court’s discretion, unlike damages.</figcaption>
+</figure>
+
 ## Termination for breach
 
 - **Self-help**: no court order needed.
@@ -98,6 +123,11 @@ impossibility of restitution.
   affirm.
 - Wrongful termination is itself a repudiation.
 - Consumers: CRA 2015 rights to reject are a statutory form of termination with a refund.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-law-of-contract--05-termination-for-breach.webp" width="900" height="724" alt="Termination is available for breach of a condition (Poussard v Spiers), a serious breach of an innominate term (Hong Kong Fir; not The Hansa Nord) or renunciation. The innocent party elects to terminate, ending future obligations with damages for the lost bargain, or to affirm. Rescission undoes a contract from the start; termination ends it for the future. Consumers have statutory rights to reject under the Consumer Rights Act 2015." loading="lazy">
+  <figcaption>Termination ends the future; rescission unwinds the past.</figcaption>
+</figure>
 
 ## Key terms
 

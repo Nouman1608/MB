@@ -40,6 +40,11 @@ Risks arising from natural processes, human impact on the environment, or the in
 | Disease and pandemics | Spread along travel and trade networks; impact depends on health systems and living conditions |
 | Natural hazards | Earthquakes, storms, floods and droughts become disasters when they meet vulnerable populations |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--08-risk-three-families.webp" width="900" height="950" alt="Risk is the probability of harm combined with likely consequences. Geopolitical risks (armed conflict, sanctions, state fragility), economic risks (financial crisis, sovereign debt, price volatility) and environmental risks (climate change, pandemics, natural hazards) are shown as three columns." loading="lazy">
+  <figcaption>Risk comes in geopolitical, economic and environmental forms.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -69,6 +74,11 @@ How the pressure and release chain works:
 4. The disaster happens where unsafe conditions meet the hazard. **Release** means reducing
    pressure by tackling each stage, not just the hazard.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--10-risk-hazard-to-disaster.webp" width="900" height="920" alt="Root causes become dynamic pressures and then unsafe conditions; a natural hazard meets those unsafe conditions and a disaster results." loading="lazy">
+  <figcaption>Disasters happen when hazards meet vulnerable people, and vulnerability has human causes.</figcaption>
+</figure>
+
 ## Scoring heuristic (teaching tool, not an official formula)
 
 Risk score = (hazard x vulnerability) / capacity to cope, each scored 1 to 10, with invented regions:
@@ -78,6 +88,11 @@ Risk score = (hazard x vulnerability) / capacity to cope, each scored 1 to 10, w
 
 Evaluate the method: scores are subjective, factors interact and one number hides variation within
 a region.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--11-risk-score-heuristic.webp" width="900" height="940" alt="Bar charts of invented hazard, vulnerability and capacity scores: Region X risk 12, Region Y risk 4, and Region X with capacity raised to 8 has risk 6." loading="lazy">
+  <figcaption>Raising capacity to cope can halve risk without changing the hazard.</figcaption>
+</figure>
 
 ## Case studies to know
 

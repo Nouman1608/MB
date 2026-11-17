@@ -1,0 +1,10 @@
+{ "page": "oxfordaqa-igcse-computer-science-9210-data-structures-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--01-why-data-structures.webp", "after": "## Concept"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--02-one-dimensional-array.webp", "after": "## Arrays at a glance"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--04-two-dimensional-array.webp", "after": "## Arrays at a glance"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--03-find-highest-trace.webp", "after": "## Standard array algorithms"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--06-record-fields.webp", "after": "## Records at a glance"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--07-array-of-records.webp", "after": "## Records at a glance"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--08-choosing-a-structure.webp", "after": "## Array or record?"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-data-structures--05-row-and-column-totals.webp", "after": "## Mini trace: a column total"}
+] }

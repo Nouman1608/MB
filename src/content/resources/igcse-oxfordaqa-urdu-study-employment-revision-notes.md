@@ -37,6 +37,11 @@ Condensed for the final weeks. For the full explanation, use the
 Topics 1 and 2 overlap in setting, so keep their vocabulary sets distinct: subjects and opinions on
 them for Topic 1, facilities, rules and routine for Topic 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-study-employment--02-theme-3-map.webp" width="900" height="640" alt="Theme 3 has four topics: my studies, life at school or college, education post-16, and jobs, career choices and ambitions. My studies (subjects and opinions) and life at school (facilities, routine, rules) are flagged as two topics to keep separate." loading="lazy">
+  <figcaption>Four topics; do not confuse my studies with life at school.</figcaption>
+</figure>
+
 ## Why this theme is different from Themes 1 and 2
 
 Theme 1 is present-focused and personal; Theme 2 is present-focused but outward-looking (issues,
@@ -62,12 +67,22 @@ Many Theme 3 tasks want a present-tense description (current studies) **and** a 
 deliberately, since maintaining correct verb agreement while moving from present to future within one
 paragraph is exactly where marks are commonly lost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-study-employment--03-tense-timeline.webp" width="900" height="590" alt="A timeline from past reflection on school, through present description of studies, to future plans (I will study) and conditional ambitions (I would like to become). Opinion with justification, comparatives and condition-result sentences are also expected." loading="lazy">
+  <figcaption>Move from present description to future plans within one response.</figcaption>
+</figure>
+
 ## Reading: two layers
 
 Distinguish a stated **fact** (a specific subject or job named) from an expressed **opinion or
 aspiration** (why the candidate likes a subject, or what they hope to do). A passage naming three
 subjects and one ambition is really giving you four separate pieces of information, not one flat list
 — read for both the fact and the opinion attached to it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-study-employment--04-fact-opinion-justify.webp" width="900" height="590" alt="In reading, separate stated facts (a subject or job mentioned) from opinions and aspirations (why someone likes a subject, what they hope to do). In writing, state an ambition, give a reason and link it to a personal interest or skill." loading="lazy">
+  <figcaption>Read for fact and opinion; in writing, justify every choice.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -91,12 +106,22 @@ Strong:  favourite subject + reason (present) -- my favourite
 A specific subject with a justified opinion, a concrete post-16 plan, and a justified career ambition
 is a reliable structure for the strongest Theme 3 responses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-study-employment--05-studies-and-plans-answer.webp" width="900" height="710" alt="A weak answer lists subjects and wants a good job. A strong answer gives a subject with an opinion and reason, a future post-16 plan, a career ambition with a reason and a conditional reflection." loading="lazy">
+  <figcaption>Justified opinion, concrete plan, justified ambition: the strongest structure here.</figcaption>
+</figure>
+
 ## Where this fits in the exam
 
 Theme 3 is assessed across the same Paper 1 (Reading, Grammar and Meaning) and Paper 2 (Writing) that
 draw on all three themes, each 1 hour 45 minutes and worth 70 marks (50% of the GCSE). There is no
 dedicated Theme 3 paper, so this content must be exam-ready alongside Theme 1 and Theme 2, not
 revised as an isolated final block.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-study-employment--01-three-themes-direction.webp" width="900" height="610" alt="Theme 1 looks inward to personal life, Theme 2 outward to the wider world and Theme 3 forward to education and career. All three feed Paper 1 and Paper 2, each 1 hour 45 minutes, 70 marks and 50%." loading="lazy">
+  <figcaption>All three themes feed both papers, so Theme 3 cannot be left out.</figcaption>
+</figure>
 
 ## Exam traps
 

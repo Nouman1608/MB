@@ -40,6 +40,11 @@ Collision and conservative margins produce **no volcanic activity** because no c
 
 **Why people live in hazardous areas:** fertile volcanic soils, geothermal energy, mineral deposits, tourism, family and cultural ties, employment, and the perception that a major event is unlikely in their lifetime.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--01-phys-plate-margins.webp" width="900" height="949" alt="Four small cross-sections, not to scale. Constructive: two plates move apart with a shield volcano at the gap. Destructive: an oceanic plate dives under a continental plate with a composite volcano on land. Collision: two continental plates push together to make fold mountains with no volcano. Conservative: two plates slide past each other, seen from above, with no volcano." loading="lazy">
+  <figcaption>Plate margins decide the hazard: volcanoes occur at constructive and destructive margins only; collision and conservative margins give none.</figcaption>
+</figure>
+
 ## Primary and secondary effects
 
 - **Primary** — caused directly by the hazard: buildings collapse, people killed by falling debris, roads cracked.
@@ -75,6 +80,11 @@ Storms **weaken over land** because they lose the warm ocean water that supplies
 
 **Climate change** is expected to increase storm **intensity** and extend the areas affected, as more of the ocean exceeds 27 °C — the evidence for a change in overall frequency is less clear, and saying so shows judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--02-phys-tropical-storm.webp" width="900" height="1060" alt="Top: a tropical storm seen from above with a calm eye at the centre, a ring called the eyewall around it, and spiralling rainbands outside. Bottom: a side view over warm sea. Warm moist air rises, condenses into cloud, and releases latent heat. Tall clouds stand either side of the eye and lower rainband clouds lie farther out." loading="lazy">
+  <figcaption>A tropical storm forms over warm sea: warm moist air rises, condenses and releases latent heat, and the Coriolis effect gives the spin.</figcaption>
+</figure>
+
 ## Climate change
 
 **Natural causes:** orbital (Milankovitch) cycles, solar output variation, volcanic eruptions injecting ash and aerosols.
@@ -87,6 +97,21 @@ The **enhanced greenhouse effect** is the mechanism: greenhouse gases absorb and
 
 Marks are commonly lost by putting a strategy in the wrong category. Planting trees is mitigation; building a sea wall is adaptation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--04-natural-causes.webp" width="900" height="603" alt="Three natural causes. Orbital changes: the orbit’s shape varies over about 100,000 years, the tilt over about 41,000 and the wobble over about 26,000. Volcanic activity: sulphur dioxide droplets reflect sunlight, as when Pinatubo in 1991 cooled the Earth by about 0.5 °C for a year or two. Solar output: an 11-year sunspot cycle, and the Maunder Minimum during the Little Ice Age." loading="lazy">
+  <figcaption>Natural causes act either very slowly or only briefly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--05-human-causes.webp" width="900" height="627" alt="Burning fossil fuels releases carbon dioxide; agriculture releases methane from livestock and rice fields and nitrous oxide from fertilisers; deforestation releases carbon dioxide and removes a carbon store. Together they strengthen the greenhouse effect. Orbital change is too slow and volcanic and solar change too small to explain warming since 1850." loading="lazy">
+  <figcaption>Activity, gas, trapped heat: the chain that turns a list into an explanation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--03-phys-mitigation-adaptation.webp" width="900" height="960" alt="Two columns. Mitigation reduces the causes of climate change: renewable energy, afforestation, carbon capture, international agreements. Adaptation copes with effects already locked in: flood defences, drought-resistant crops, managed retreat. A note says planting trees is mitigation and building a sea wall is adaptation." loading="lazy">
+  <figcaption>Mitigation reduces the causes of climate change; adaptation copes with its effects. Putting a strategy in the wrong column is a common lost mark.</figcaption>
+</figure>
+
 ## Ecosystems
 
 Producers → primary consumers → secondary consumers, linked by food chains and webs, with decomposers returning nutrients to the soil.
@@ -97,6 +122,16 @@ Producers → primary consumers → secondary consumers, linked by food chains a
 
 **Causes of deforestation:** logging, cattle ranching, commercial farming, mineral extraction, road building, hydroelectric schemes, population pressure.
 **Impacts:** biodiversity loss, soil erosion, disrupted water cycle, reduced carbon storage, displacement of indigenous people — but also employment, exports and development. A strong answer acknowledges both, then judges.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-ecosystems--02-pond-food-web.webp" width="900" height="650" alt="A pond food web in four levels: algae and pondweed as producers; water fleas, snails and insect larvae as primary consumers; frogs, small fish and dragonfly larvae as secondary consumers; herons and pike as top predators. The chain algae, water flea, small fish, heron is highlighted, with arrows pointing from eaten to eater." loading="lazy">
+  <figcaption>Most organisms depend on several others, so a change to one spreads through the web.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-geography-living-with-the-physical-environment--04-phys-rainforest-nutrients.webp" width="900" height="940" alt="Top: intact rainforest with a closed canopy, a liana, an epiphyte and buttress roots. Most nutrient dots sit in the trees (biomass) and only a few in the thin soil. Bottom: cleared land with the trees gone. The biomass store has gone and only a few nutrient dots remain in the soil, so the land becomes infertile within a few growing seasons." loading="lazy">
+  <figcaption>In rainforest the nutrients are held in the biomass, not the soil, so cleared land becomes infertile within a few growing seasons.</figcaption>
+</figure>
 
 ## Exam traps
 

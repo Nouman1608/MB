@@ -33,6 +33,16 @@ Revision notes for **sub-theme 1.2** of Theme 1 in Pearson Edexcel A Level Urdu 
 - **بے روزگاری** = unemployment; pressure on young people and the role of skills and training.
 - Technology, freelancing and changes in how and where people work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--01-theme-1-map.webp" width="900" height="550" alt="Theme 1, پاکستانی معاشرے کا ارتقا (Evolving Pakistani society), has three sub-themes: family (خاندان), work (کام) and equal access to education (تعلیم), the last being the research subject, which must concern Pakistan." loading="lazy">
+  <figcaption>Three sub-themes; equal access to education is the research subject.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--03-work-strands.webp" width="900" height="630" alt="Four strands of the work sub-theme: types of work, women’s employment (خواتین کی ملازمت), unemployment (بے روزگاری) and the role of skills, and technology and freelancing. Key words include روزگار, ملازمت, تنخواہ, مزدور, ہنر, دفتر, کاروبار and ترقی." loading="lazy">
+  <figcaption>Types of work, women’s employment, unemployment and technology.</figcaption>
+</figure>
+
 ## Issues and perspectives
 
 **A changing economy.** Agriculture (**زراعت**) has long been a major source of work in Pakistan, especially in rural areas, while industry (**صنعت**), such as textiles, and the services sector (**خدمات کا شعبہ**) employ many people in towns and cities. A large part of the workforce is in the **غیر رسمی شعبہ** (informal sector): street vendors, domestic workers, day labourers and small workshops, often with no contract, pension or protection. When you discuss a type of work, explain what it means for the worker's security, not just what the job is.

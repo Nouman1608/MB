@@ -51,6 +51,16 @@ smaller quantities direct to the final consumer); foreign trade splits into impo
 abroad), exports (selling abroad) and entrepot trade — background, non-syllabus terminology — (importing
 goods purely in order to re-export them, often after minor processing or storage).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commerce-and-production--08-cp-commerce-branches.webp" width="900" height="880" alt="Commerce splits into Trade (home trade: wholesale and retail; foreign trade: import, export, entrepot) and Aids to trade (banking, transport, communication, insurance, warehousing, advertising)." loading="lazy">
+  <figcaption>Commerce has two branches: trade and aids to trade.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trade-and-commerce--03-aids-remove-barriers.webp" width="900" height="635" alt="Between producer and consumer stand six barriers, each removed by one aid to trade: no contact by communications, distance by transport, timing by warehousing, lack of awareness by advertising, payment and finance by banking, and fear of loss by insurance." loading="lazy">
+  <figcaption>Link each aid to the barrier it removes to turn a list into an explanation.</figcaption>
+</figure>
+
 ## The chain of production
 
 | Sector | What happens | Examples |
@@ -66,6 +76,11 @@ wrong **time**. Tertiary production closes those gaps, which is why commercial s
 the tertiary sector rather than being production in their own right. The syllabus adds a fourth,
 quaternary sector alongside the other three — digital technology — as a genuinely separate branch,
 not merely a subdivision of tertiary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commerce-and-production--09-cp-four-sectors.webp" width="900" height="1040" alt="Four stacked sectors with examples: primary (mining etc.), secondary (manufacturing etc.), tertiary (commercial and direct services) and quaternary (digital technology), with the gaps each leaves." loading="lazy">
+  <figcaption>Four sectors of production, each leaving a gap the next closes.</figcaption>
+</figure>
 
 ## Utility (what commerce creates)
 
@@ -98,6 +113,16 @@ and far less of everything else — so exchange, and the commerce that makes exc
 becomes essential rather than optional. This is the logical link the syllabus expects candidates to
 draw explicitly: specialisation → interdependence → the necessity of commerce.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commerce-and-production--11-cp-specialisation.webp" width="900" height="1030" alt="An individual, a factory and a country each concentrate on one thing, giving more output but far less of everything else. This causes interdependence, makes exchange necessary, and commerce makes exchange possible." loading="lazy">
+  <figcaption>Specialisation leads to interdependence, which makes commerce necessary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--02-specialisation-contexts.webp" width="900" height="705" alt="A grid of advantages and disadvantages of specialisation for an individual, a factory and a country, such as becoming skilled against boring work, higher output per worker against the whole line stopping, and export income against dependence on other countries." loading="lazy">
+  <figcaption>Each context has its own advantages and disadvantages; use the one the question names.</figcaption>
+</figure>
+
 ## Worked example
 
 A cotton farmer sells raw cotton to a textile mill, which weaves cloth and sells it to a
@@ -113,6 +138,11 @@ Retailer selling to buyer  -> tertiary, completes the chain
 
 Naming the specific utility created at each stage — not just the stage itself — is usually where
 the extra marks sit in an applied question like this.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-commerce-and-production--10-cp-cotton-utility.webp" width="900" height="960" alt="Five rows: farmer (primary), mill (secondary, form utility), wholesaler (tertiary, time utility), transport (tertiary, place utility), retailer (tertiary, completes the chain)." loading="lazy">
+  <figcaption>Naming the utility as well as the stage earns extra marks.</figcaption>
+</figure>
 
 ## Two components, two skill sets
 

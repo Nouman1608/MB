@@ -49,6 +49,11 @@ This topic is pure recall. Learn the **reagent, observation and conclusion** for
 
 Method: clean nichrome wire in concentrated HCl, dip in sample, hold in a **blue** Bunsen flame. Sodium and potassium compounds give no useful precipitate with NaOH or ammonia, which is exactly why the flame test exists — it's often the only practical way to identify them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--04-flame-tests.webp" width="900" height="940" alt="Six Bunsen flames with a wire loop: lithium red, sodium yellow, potassium lilac, calcium orange-red, barium light green, copper(II) blue-green." loading="lazy">
+  <figcaption>Flame colours for six metal ions.</figcaption>
+</figure>
+
 ## Cation tests — with sodium hydroxide
 
 | Cation | Add NaOH(aq) | Excess NaOH |
@@ -66,6 +71,21 @@ With **ammonia solution** instead: Fe²⁺ and Fe³⁺ give the same precipitate
 
 **Ca²⁺ gives no useful precipitate with ammonia at all** — aqueous ammonia is too weak a base to precipitate the more soluble calcium hydroxide in any noticeable amount. That absence of a precipitate is itself the identifying observation, telling calcium apart from aluminium, chromium and zinc, which all give a precipitate with ammonia at the dropwise stage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--01-cations-naoh.webp" width="900" height="1132" alt="Test tubes show each of eight cations after a few drops of NaOH and in excess. Al, Zn dissolve to colourless; Ca, Cu, Fe(II), Fe(III) stay as precipitates (white, pale blue, green browning, red-brown); Cr(III) green precipitate dissolves. Ammonium gives no precipitate but releases ammonia on warming." loading="lazy">
+  <figcaption>Eight cations, two stages of NaOH: what you see in the tube.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--02-cations-ammonia.webp" width="900" height="1088" alt="Test tubes show the eight cations with a few drops of aqueous ammonia then excess. Only copper(II) (deep blue solution) and zinc (colourless) dissolve in excess; calcium and ammonium give no precipitate." loading="lazy">
+  <figcaption>Aqueous ammonia: copper and zinc dissolve in excess, calcium gives no precipitate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--03-al-zn-ca.webp" width="900" height="934" alt="Aluminium, zinc and calcium all give a white precipitate with NaOH. Excess NaOH separates calcium (insoluble) from the other two. Ammonia gives calcium no precipitate, and in excess it dissolves zinc but not aluminium." loading="lazy">
+  <figcaption>Three ions, four tubes each: the deciding tests are highlighted.</figcaption>
+</figure>
+
 ## Anion tests
 
 | Anion | Test | Positive result |
@@ -80,6 +100,16 @@ With **ammonia solution** instead: Fe²⁺ and Fe³⁺ give the same precipitate
 
 **Acidify first** in the halide and sulfate tests — otherwise carbonate present would also precipitate and give a false positive. The sulfite test and the sulfur dioxide gas test give the **same** result (acidified potassium manganate(VII) turns from purple to colourless). *(0620 Extended, 5070 required)* This is because both SO₃²⁻ and SO₂ are reducing agents. The sulfite test is done on the **solution**: the ions react with the manganate(VII) directly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--05-halide-sulfate.webp" width="900" height="840" alt="Sample is acidified with dilute nitric acid, then silver nitrate gives a white, cream or yellow precipitate for chloride, bromide, iodide. Barium nitrate gives a white precipitate for sulfate." loading="lazy">
+  <figcaption>Acidify first, then silver nitrate (halides) or barium nitrate (sulfate).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--06-anion-others.webp" width="900" height="1144" alt="Carbonate with acid gives carbon dioxide that turns limewater milky. Nitrate with NaOH and aluminium foil, warmed, gives ammonia that turns damp red litmus blue. Sulfite turns acidified manganate(VII) from purple to colourless." loading="lazy">
+  <figcaption>Carbonate, nitrate and sulfite tests as simple apparatus pictures.</figcaption>
+</figure>
+
 ## Gas tests
 
 | Gas | Test | Result |
@@ -92,6 +122,11 @@ With **ammonia solution** instead: Fe²⁺ and Fe³⁺ give the same precipitate
 | Sulfur dioxide | Acidified aqueous potassium manganate(VII) | Purple → **colourless** |
 
 If a question describes a solid reacting (for example, a carbonate with acid) and asks for a gas test, you are testing the gas that the reaction gives off — not the solid directly. See the [Identification of Ions and Gases study guide](/resources/identification-of-ions-and-gases/) for the reasoning behind every table above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/identification-of-ions-and-gases--07-gas-tests.webp" width="900" height="1162" alt="Six gas tests with before and after: ammonia turns damp red litmus blue; carbon dioxide turns limewater milky; chlorine bleaches damp litmus white; hydrogen gives a squeaky pop with a lighted splint; oxygen relights a glowing splint; sulfur dioxide decolourises acidified manganate(VII)." loading="lazy">
+  <figcaption>What to do and what you see for six gases.</figcaption>
+</figure>
 
 ## Exam traps
 

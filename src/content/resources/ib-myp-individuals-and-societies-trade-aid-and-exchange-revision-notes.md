@@ -70,6 +70,16 @@ Course links: [MYP Individuals and Societies hub](/boards/ib/ib-myp/myp-individu
 | Aid as % of GNI | aid ÷ GNI × 100 |
 | Share of retail price | amount received ÷ retail price × 100 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--01-balance-of-trade.webp" width="900" height="614" alt="Bars for fictional Norland: exports of 48 billion dollars against imports of 55 billion, a balance of minus 7 billion, which is a trade deficit. Exports rose 20% from 40 billion the year before." loading="lazy">
+  <figcaption>Exports minus imports: a negative answer is a deficit, so keep the sign.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--04-protectionism.webp" width="900" height="629" alt="Three protection tools: a tariff, a tax on imports that raises a 200-dollar bicycle to 230 dollars at 15%; a quota limiting import quantity; and a subsidy to domestic producers. Below, arguments for protection (jobs, infant industries, key goods) against arguments for free trade (prices and choice, specialisation, efficiency)." loading="lazy">
+  <figcaption>Tariffs, quotas and subsidies shield home producers, at a cost to consumers and efficiency.</figcaption>
+</figure>
+
 ## Method in steps: comparative advantage
 
 > 1. Put output per worker (or per unit of resource) in a table: two countries, two goods.
@@ -82,6 +92,16 @@ Course links: [MYP Individuals and Societies hub](/boards/ib/ib-myp/myp-individu
 - Arlen: 1 textile costs 2 coffee; 1 coffee costs 0.5 textiles.
 - Belmar: 1 textile costs 1 coffee; 1 coffee costs 1 textile.
 - Arlen has the absolute advantage in both goods, but Belmar has the comparative advantage in textiles (1 < 2) and Arlen in coffee (0.5 < 1).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--02-comparative-advantage.webp" width="900" height="706" alt="Per worker per day, Arlen makes 12 sacks of coffee or 6 rolls of textiles; Belmar makes 4 or 4. Arlen has the absolute advantage in both, but Belmar gives up only 1 sack per roll against Arlen’s 2, so Belmar has the comparative advantage in textiles and Arlen in coffee." loading="lazy">
+  <figcaption>The lower opportunity cost, not the bigger output, decides who should specialise in what.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--03-gains-from-trade.webp" width="900" height="710" alt="Before trade Arlen has 60 coffee and 30 textiles and Belmar 20 and 20. After specialising and swapping 16 rolls for 24 sacks, Arlen has 60 coffee and 34 textiles and Belmar 24 and 24. Total output rises from 80 coffee and 50 textiles to 84 and 58." loading="lazy">
+  <figcaption>Specialising by comparative advantage raises total output, and trade shares the gain.</figcaption>
+</figure>
 
 ## Method in steps: a data question
 
@@ -103,6 +123,11 @@ Benefits: larger market, cheaper inputs, investment. Costs: more competition, tr
 
 The **WTO** (from 1995, taking over from the 1947 GATT) sets trade rules for members and settles disputes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--05-trade-bloc-levels.webp" width="900" height="733" alt="A staircase of four levels: a free trade area such as USMCA or the African Continental Free Trade Area; a customs union adding a common external tariff, such as Mercosur; a common market adding free movement of labour and capital, such as the EU single market; and an economic union adding shared policies, such as the euro area." loading="lazy">
+  <figcaption>Each step up adds a layer: common tariff, then free movement, then shared policy.</figcaption>
+</figure>
+
 ## Fair trade in five points
 
 - A **minimum price** protects growers when world prices fall.
@@ -110,6 +135,11 @@ The **WTO** (from 1995, taking over from the 1947 GATT) sets trade rules for mem
 - Standards cover working conditions, child labour and the environment.
 - For: stable income, community projects, consumer awareness.
 - Against: small share of world trade, certification costs, may keep farmers in a low-value crop.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--06-fair-trade-share.webp" width="900" height="660" alt="Two bars for a fictional bag of coffee. Conventional: 8.00 dollars, of which the grower gets 0.40, or 5.0%. Fair trade: 8.40 dollars, of which the grower gets 0.64, or 7.6%. Most of the price still goes to processing, shipping, shops and tax. Below, how Fairtrade works and what critics say." loading="lazy">
+  <figcaption>The grower’s share rises under fair trade, but most of the price still goes elsewhere.</figcaption>
+</figure>
 
 ## Aid: types and debate
 
@@ -129,10 +159,20 @@ The **WTO** (from 1995, taking over from the 1947 GATT) sets trade rules for mem
 - Against aid: dependency, corruption, tied aid serving donors, loans adding to debt, conditions forcing cuts.
 - "Trade, not aid" vs "aid builds what trade needs": give both sides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--07-types-of-aid.webp" width="900" height="855" alt="Aid can be bilateral, government to government; multilateral, through bodies such as the World Bank; or voluntary, through charities. It is also short-term emergency relief or long-term development, top-down or bottom-up, and sometimes tied to spending on the donor’s goods. The UN target is 0.7% of donor GNI." loading="lazy">
+  <figcaption>Who gives it, for how long and on what terms all shape whether aid helps.</figcaption>
+</figure>
+
 ## Exchange in history
 
 - **Silk Roads:** routes linking China with the Middle East and the Mediterranean; moved silk, spices, religions (such as Buddhism) and disease.
 - **Columbian Exchange (after 1492):** maize, potatoes, tomatoes and cacao went from the Americas to Afro-Eurasia; horses, cattle, wheat and sugar cane went to the Americas; smallpox and measles killed very large numbers of Indigenous people.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-trade-aid-and-exchange--08-columbian-exchange.webp" width="900" height="650" alt="After 1492, maize, potatoes, tomatoes and cacao moved from the Americas to Europe, Africa and Asia, while horses, cattle, wheat and sugar cane moved the other way. Smallpox and measles also crossed and killed very large numbers of Indigenous people in the Americas." loading="lazy">
+  <figcaption>Exchange carried crops, animals and deadly diseases in both directions.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

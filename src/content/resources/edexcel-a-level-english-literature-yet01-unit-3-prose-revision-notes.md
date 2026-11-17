@@ -38,6 +38,11 @@ Literature (YET01). For the full method and a worked plan, use the
 | Marks | 30 of 50 |
 | AOs | AO1, AO2, AO3, AO4 (no AO5) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--01-section-b-at-a-glance.webp" width="900" height="612" alt="Unit 3 is a 50-mark open-book paper: Section A is 20 marks and Section B Prose 30. You study two of the three texts in one theme and write one comparative essay from a choice of two questions, comparing the texts and considering context. It is assessed on AO1, AO2, AO3 and AO4, so it needs the larger share of the two hours." loading="lazy">
+  <figcaption>The largest essay: two novels, four objectives, 30 marks.</figcaption>
+</figure>
+
 ## Narrative methods at a glance
 
 | Novel | Narrative method | Structure to remember |
@@ -55,6 +60,16 @@ Literature (YET01). For the full method and a worked plan, use the
 | *Mrs Dalloway* | Free indirect discourse, moving between minds | A single day in June 1923 |
 | *Wuthering Heights* | Frame: Lockwood, then Nelly Dean | Two generations |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--02-themes-and-texts-timeline.webp" width="900" height="802" alt="Four timelines from 1800 to 2010, one per theme. Growing Up: Great Expectations (1860–61), What Maisie Knew (1897), The Color Purple (1982). Colonisation and After: Heart of Darkness (1899), A Passage to India (1924), The Lonely Londoners (1956). Science and Society: Frankenstein (1818), The Handmaid’s Tale (1985), Never Let Me Go (2005). Women and Society: Wuthering Heights (1847), Mrs Dalloway (1925), Beloved (1987)." loading="lazy">
+  <figcaption>Pairings often span a century, which gives context and comparison something to explain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--07-narrative-distance.webp" width="900" height="770" alt="Left: Wuthering Heights as nested frames, Lockwood around Nelly around Catherine, so the reader sees her words at a distance and weighs Nelly’s disapproval. Right: Mrs Dalloway places the reader inside Clarissa’s mind through free indirect discourse, revisiting her choice decades later. The difference is explained by the Victorian frame narrative against modernist interest in consciousness." loading="lazy">
+  <figcaption>Brontë’s frames distance us from the choice; Woolf’s interiority brings us inside it.</figcaption>
+</figure>
+
 ## AO checklist for every paragraph
 
 | AO | Check |
@@ -64,6 +79,11 @@ Literature (YET01). For the full method and a worked plan, use the
 | AO4 | Are both novels in the paragraph? |
 | AO3 | Does context explain a difference or similarity? |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--03-four-aos-one-paragraph.webp" width="900" height="586" alt="Four stacked layers of a single paragraph: AO1, a point about the question in a coherent personal argument; AO2, analysis of a method in both novels; AO4, the comparison itself; and AO3, context of writing and reception explaining the difference." loading="lazy">
+  <figcaption>Aim for a point, method in both novels, comparison and context in every paragraph.</figcaption>
+</figure>
+
 ## Context types (specification guidance)
 
 - Writer's life and situation, **only where relevant to the text**.
@@ -71,6 +91,11 @@ Literature (YET01). For the full method and a worked plan, use the
 - Social and cultural contexts.
 - Literary context: movements and genres.
 - Contexts of reception: reviews, editions, adaptations, critical readings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--05-production-and-reception.webp" width="900" height="520" alt="Two columns from the specification’s guidance. Production: the writer’s life where relevant, the historical setting, social and cultural contexts, and literary movements and genres. Reception: how the text has been reviewed, used, edited and adapted, and how readers have reached alternative interpretations. Reception explains why modern readers respond differently and how a later novel answers an earlier tradition." loading="lazy">
+  <figcaption>Reception context is often the most useful for explaining a difference.</figcaption>
+</figure>
 
 ## Context pairs worth knowing
 
@@ -96,6 +121,11 @@ creature an impassioned narrative at the heart of the book, whereas Ishiguro's K
 restraint that makes acceptance, not protest, the source of the reader's distress."*
 
 The integrated version compares methods (AO2, AO4) and sets up a contextual explanation (AO3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--04-comparison-framework.webp" width="900" height="656" alt="A grid with columns for Text A and Text B and eight rows: narrative voice, structure and time, setting and its symbolism, central relationships, treatment of the theme’s core idea, endings, context of production and context of reception. Four rows are marked as an example of choosing the three or four that best answer the question." loading="lazy">
+  <figcaption>Fill the grid in revision; pick three or four rows on the day.</figcaption>
+</figure>
 
 ## Key terms
 

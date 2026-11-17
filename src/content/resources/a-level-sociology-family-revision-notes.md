@@ -47,6 +47,11 @@ Condensed, exam-focused notes for Paper 2 of Cambridge AS & A Level Sociology (9
 - **Marxist**: family benefits capitalism — ideological control, reproduction of labour, consumption.
 - **Feminist**: challenges both accounts for overlooking inequality within the family.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-the-family--02-three-perspectives.webp" width="900" height="494" alt="Three cards: functionalists say the family benefits members and society, with a debate about loss of functions; Marxists say it benefits capitalism through ideological control, reproduction of labour and consumption; feminists challenge both for overlooking inequality within the family." loading="lazy">
+  <figcaption>Functionalists see benefits for society, Marxists for capitalism, and feminists see hidden inequality.</figcaption>
+</figure>
+
 ## 3.2 Diversity and social change
 
 - Changing patterns: marriage, cohabitation, divorce, separation.
@@ -56,6 +61,11 @@ Condensed, exam-focused notes for Paper 2 of Cambridge AS & A Level Sociology (9
   of greater individual choice.
 - State/social policy: an active influence shaping family form, not a neutral backdrop.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-the-family--03-family-diversity.webp" width="900" height="609" alt="Five family and household forms: nuclear, extended, lone-parent, reconstituted and single-person. The New Right sees growing diversity as a social problem; postmodernists see it as greater individual choice. Students also examine whether the nuclear family remains dominant and how social policy shapes family form." loading="lazy">
+  <figcaption>The New Right sees diversity as a problem; postmodernists see it as choice.</figcaption>
+</figure>
+
 ## 4.1 Gender equality and experiences of family life
 
 - Feminism in finer detail: liberal, radical, Marxist feminist perspectives on power within the family
@@ -63,6 +73,11 @@ Condensed, exam-focused notes for Paper 2 of Cambridge AS & A Level Sociology (9
 - **Conjugal roles**: division of housework, childcare, decision-making, and **emotion work** (often
   unequal effort managing a family's emotional life).
 - Live debate: is the overall experience of family life positive or negative? — don't assume an answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-the-family--04-conjugal-roles.webp" width="900" height="546" alt="Four areas of conjugal roles: housework, childcare, power and emotion work. Liberal, radical and Marxist feminists offer different explanations of inequality within the family. Below, a line from positive to negative experience shows that whether family life is good for its members is a live debate." loading="lazy">
+  <figcaption>Conjugal roles span housework, childcare, power and emotion work; feminists disagree on why they are unequal.</figcaption>
+</figure>
 
 ## 4.2 Age and family life
 
@@ -72,12 +87,22 @@ Condensed, exam-focused notes for Paper 2 of Cambridge AS & A Level Sociology (9
 - Class, gender, ethnicity shape children's experience of family life.
 - Changing concepts of **motherhood** and **fatherhood** — redefined over time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-the-family--05-age-family-life.webp" width="900" height="406" alt="Four cards on age and family life: childhood as socially constructed, the changing position of grandparents as life expectancy rises, children’s experiences shaped by class, gender and ethnicity, and changing concepts of motherhood and fatherhood." loading="lazy">
+  <figcaption>Childhood, grandparenthood and parenthood are social roles that change over time.</figcaption>
+</figure>
+
 ## Assessment objectives on Paper 2
 
 Section A's three compulsory questions draw more on AO1 (knowledge/understanding) and AO2
 (interpretation/application). Section B's essay (26 marks) is where AO3 (analysis/evaluation) carries
 the most weight — explaining strengths/limitations and reaching a reasoned conclusion, not just
 describing perspectives in turn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-the-family--06-paper-2-assessment.webp" width="900" height="621" alt="Paper 2 is worth 60 marks, lasts 1 hour 30 minutes and is 50% of the AS and 25% of the A Level. Section A has three compulsory questions weighted towards AO1 and AO2; Section B is one 26-mark essay from two, where AO3 carries most weight." loading="lazy">
+  <figcaption>Section A tests knowledge and application; the Section B essay is where evaluation counts most.</figcaption>
+</figure>
 
 ## Exam technique for this topic
 
@@ -138,6 +163,11 @@ diversity (3.2) wants named forms and causes of changing patterns, not a restate
 Marxist theory from 3.1, even though both sub-topics concern "the family" broadly. Keeping this
 boundary clear under exam pressure, rather than answering with whatever family-related content comes to
 mind first, is a reliable way to avoid losing marks to an off-target answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-the-family--07-forms-and-inside.webp" width="900" height="494" alt="A house: the roof is 3.2, the forms families take, and inside are 4.1 gender and 4.2 age, what happens within those forms. Side notes advise learning 3.1’s three perspectives as a set and tracking which feminist strand makes which argument." loading="lazy">
+  <figcaption>3.2 is about the forms families take; 4.1 and 4.2 are about what happens inside them.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

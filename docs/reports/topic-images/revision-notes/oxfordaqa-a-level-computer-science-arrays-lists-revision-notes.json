@@ -1,0 +1,6 @@
+{ "page": "oxfordaqa-a-level-computer-science-arrays-lists-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-arrays-and-lists--07-al-static-dynamic.webp", "after": "## Static vs dynamic" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-arrays-and-lists--08-al-scenario-choice.webp", "after": "## Worked example: choosing a structure" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-arrays-and-lists--10-al-two-dimensional.webp", "after": "## Two-dimensional structures" },
+ { "src": "https://img.marlbridge.com/a-level-oxfordaqa-computer-science-arrays-and-lists--09-al-python-tools.webp", "after": "## Programming-exam flexibility" }
+] }

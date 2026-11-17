@@ -41,6 +41,11 @@ place) -- it also explains how the accompanying image reinforces or adds to the 
 an image of a closed sign supporting an announcement about a temporary closure), demonstrating genuine
 multimodal interpretation rather than audio comprehension alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criteria-in-practice--03-criterion-a-multimodal-listening.webp" width="900" height="565" alt="A spoken announcement about a temporary closure is played with an image of a closed sign. A lower response only identifies facts heard, such as time and place; a top-band response also explains how the closed-sign image reinforces the spoken message." loading="lazy">
+  <figcaption>Top-band listening explains how the visuals support or add to what is said.</figcaption>
+</figure>
+
 ## Criterion B: Reading
 
 Top-band evidence constructs meaning from written text while also interpreting its spatial and visual
@@ -52,6 +57,11 @@ coding, top-band evidence explains what the icons and colour choices themselves 
 red icon signalling urgency or warning) in addition to correctly comprehending the written text,
 rather than treating the visual elements as irrelevant to the reading task.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criteria-in-practice--04-criterion-b-reading-visuals.webp" width="900" height="605" alt="A schematic public information poster with a red warning banner, short text and colour-coded icons. Top-band reading comprehends the written text and also explains what the icons and colours communicate, such as a red icon signalling urgency or warning. Treating the visuals as decoration is not top band." loading="lazy">
+  <figcaption>Read the layout, icons and colours as part of the message.</figcaption>
+</figure>
+
 ## Criterion C: Speaking
 
 Top-band evidence interacts spontaneously on topics of personal, local and global interest, applying
@@ -62,6 +72,11 @@ proficiency level.
 question does not fall back to a memorised, unrelated prepared answer -- it responds directly and
 coherently to what was actually asked, using a genuine range of vocabulary and structures appropriate
 to that level, demonstrating real interactive competence rather than rehearsed recitation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criteria-in-practice--05-criterion-c-follow-up.webp" width="900" height="605" alt="An examiner asks an unexpected follow-up question. Falling back on a memorised, unrelated prepared answer cannot show top-band criterion C. A top-band response answers the actual question directly and coherently, with a range of vocabulary and structures suited to the level." loading="lazy">
+  <figcaption>Spontaneous, relevant interaction beats a rehearsed speech.</figcaption>
+</figure>
 
 ## Criterion D: Writing
 
@@ -75,6 +90,11 @@ and structure for each -- informal, abbreviated language for the text message; f
 complete sentences and polite requests for the email -- rather than writing the same content with only
 minor wording changes between the two tasks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criteria-in-practice--06-criterion-d-registers.webp" width="900" height="685" alt="A text message to a friend uses informal, abbreviated language, while a formal email to a school administrator on a related topic uses a formal greeting and sign-off, complete sentences and polite requests. Writing the same content with only the greeting changed is not top band." loading="lazy">
+  <figcaption>Top-band writing changes register, vocabulary and structure, not just the greeting.</figcaption>
+</figure>
+
 ## How the four criteria map onto the two eAssessment components
 
 As the [eAssessment exam preparation](/resources/ib-myp-language-acquisition-eassessment-exam-preparation/)
@@ -85,6 +105,11 @@ Criterion C's genuinely spontaneous, unscripted speaking demand, and vice versa 
 top-band evidence, as worked through above, has to be practised in its own right rather than assuming
 strength in one skill transfers automatically to another.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criteria-in-practice--01-four-criteria.webp" width="900" height="695" alt="Four rows: A listening (interpret what images add to spoken text), B reading (treat layout, images and formatting as meaning), C speaking (interact spontaneously and answer what was asked) and D writing (match register, vocabulary and structure to audience and purpose). All are judged against the student’s own proficiency level." loading="lazy">
+  <figcaption>Each criterion rewards a skill beyond literal comprehension or rehearsed language.</figcaption>
+</figure>
+
 ## Why proficiency level changes what "top-band" looks like
 
 Because these four criteria are assessed against a student's own proficiency level (emergent, capable
@@ -93,6 +118,11 @@ level might be a short, simple but accurate response using basic vocabulary and 
 top-band evidence at the proficient level requires nuanced, extended, spontaneous language use. A
 common revision mistake is comparing your own work against an unrealistic standard drawn from a
 different, more advanced proficiency level, rather than against your own level's actual descriptors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criteria-in-practice--02-top-band-by-level.webp" width="900" height="675" alt="Three columns of rising height for the emergent, capable and proficient levels. Top-band evidence at the emergent level can be a short, simple but accurate response with basic vocabulary; at the proficient level it needs nuanced, extended, spontaneous language. Judge your work against your own level’s descriptors." loading="lazy">
+  <figcaption>The same response can be top band at one level and mid band at a higher one.</figcaption>
+</figure>
 
 ## Self-test
 

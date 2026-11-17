@@ -65,6 +65,11 @@ Ask four questions to classify any learning: **Where?** (institution or everyday
 usually passes none. Many situations are mixed: a parent following a homeschool curriculum is formal
 learning in an informal setting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-education-and-schooling--01-formal-informal-education.webp" width="900" height="496" alt="Formal and informal education compared on five points. Formal education happens in schools, colleges and universities, follows a planned curriculum, is taught by trained teachers and is assessed by tests. Informal education happens anywhere, is unplanned, is learned from parents, elders, peers and media, and is not formally assessed." loading="lazy">
+  <figcaption>Schooling is only the formal part of education; much learning happens informally.</figcaption>
+</figure>
+
 ## The official curriculum
 
 - **Subjects**: which subjects are taught and which are compulsory shows what a society values.
@@ -73,6 +78,11 @@ learning in an informal setting.
 
 Sociologists ask *whose* knowledge the official curriculum contains and who benefits when it is
 tested.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-education-and-schooling--02-official-hidden-curriculum.webp" width="900" height="790" alt="An iceberg. Above the water is the official curriculum: subjects, syllabus content and testing. Below the water, and much larger, is the hidden curriculum: norms and values, punctuality, conformity and gender roles, learned from bells, registers, uniforms, rules and expectations." loading="lazy">
+  <figcaption>Pupils learn far more from how school is organised than from the subjects on the timetable.</figcaption>
+</figure>
 
 ## The hidden curriculum
 
@@ -86,6 +96,11 @@ The term is usually credited to Philip Jackson's *Life in Classrooms* (1968).
 
 **Two readings:** functionalists see it as useful socialisation into shared values; Marxists (Bowles
 and Gintis, 1976) see it as training obedient workers for capitalism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-education-and-schooling--03-hidden-curriculum-two-views.webp" width="900" height="606" alt="The hidden curriculum of bells, uniforms, rules and rewards is read in two ways. Functionalists see it as socialising pupils into shared values. Marxists Bowles and Gintis (1976) see it as preparing obedient workers for capitalism." loading="lazy">
+  <figcaption>Functionalists and Marxists agree the hidden curriculum exists but disagree about whom it serves.</figcaption>
+</figure>
 
 ## Judging school types (5.1.2)
 
@@ -106,6 +121,11 @@ values, or preparation for work.
 **Key evaluation point:** a school with high results may have recruited advantaged pupils, so results
 alone do not prove the school is more effective.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-education-and-schooling--04-school-effectiveness-measures.webp" width="900" height="538" alt="Four measures of school effectiveness: examination results, social mobility, values and equality of opportunity. Private schools often get higher exam results, though their pupils start with more advantages, but their fees exclude poorer families and may widen inequality." loading="lazy">
+  <figcaption>A school’s effectiveness changes with the measure you choose.</figcaption>
+</figure>
+
 ## Alternatives (5.1.3) in one line each
 
 - **Online learning**: flexible and wide access, but depends on devices and connection; less social
@@ -116,6 +136,11 @@ alone do not prove the school is more effective.
 - **Vocational learning**: practical skills and employability, but often lower status.
 - **Progressive schooling**: motivation and democratic values, but uneven outcomes and may not suit
   every child; A.S. Neill's Summerhill and Maria Montessori's methods are well-known examples.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-education-and-schooling--05-alternative-approaches-spectrum.webp" width="900" height="637" alt="A line from adults deciding to the child deciding what is learned: conventional school, homeschooling, progressive schooling such as Summerhill, and unschooling. Below, online learning and vocational learning are summarised with a strength and a limitation each." loading="lazy">
+  <figcaption>Alternative approaches differ most in how much the child controls their own learning.</figcaption>
+</figure>
 
 ## Exam traps
 

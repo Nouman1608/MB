@@ -1,0 +1,10 @@
+{ "page": "cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--02-induction-magnet-and-coil.webp", "after": "## 4.5.1 Electromagnetic induction"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--03-ac-generator-emf-time.webp", "after": "## 4.5.2 a.c. generator (Extended only)"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--04-wire-and-solenoid-fields.webp", "after": "## 4.5.3 Magnetic effect of a current"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--05-force-on-conductor.webp", "after": "## 4.5.4 Force on a conductor"},
+ {"src": "https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--05-dc-motor.webp", "after": "## 4.5.5 d.c. motor"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--06-transformer-worked-example.webp", "after": "## 4.5.6 Transformer"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--07-transmission-losses.webp", "after": "## 4.5.6 Transformer"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics--01-motor-effect-vs-induction.webp", "after": "## Generator or motor?"}
+] }

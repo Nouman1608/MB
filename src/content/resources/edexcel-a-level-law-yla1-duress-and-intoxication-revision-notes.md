@@ -40,6 +40,16 @@ Condensed for the final weeks. These notes cover content areas **2.2.8**, "Dures
 
 **Bowen characteristics:** age, sex, pregnancy, serious physical disability, recognised psychiatric illness. **Not:** low IQ short of mental impairment; being especially timid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-duress-and-intoxication--02-duress-of-threats-steps.webp" width="900" height="804" alt="Seven steps from R v Hasan: a threat of death or serious injury (Valderrama-Vega; Quayle); against D, immediate family or someone D feels responsible for; directed at a particular crime (Cole); immediacy and no chance to escape (Hasan, disapproving Hudson and Taylor); the Graham test; no voluntary association with criminals (Hasan; Sharp; Shepherd); and never for murder or attempted murder (Howe; Gotts; Wilson)." loading="lazy">
+  <figcaption>Fail any one step and duress fails; the last two shut it out completely.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-duress-and-intoxication--03-graham-test-bowen.webp" width="900" height="593" alt="Stage 1 asks whether D was compelled to act because they reasonably believed they faced death or serious injury. Stage 2 asks whether a sober person of reasonable firmness sharing D’s characteristics would have responded the same way. Under R v Bowen, age, sex, pregnancy, serious physical disability and recognised psychiatric illness count; a low IQ short of mental impairment and being unusually timid or vulnerable do not." loading="lazy">
+  <figcaption>Both stages must be met; only Bowen characteristics shape the reasonable person.</figcaption>
+</figure>
+
 ## Duress of circumstances
 
 Same test; the threat arises from the situation.
@@ -50,6 +60,11 @@ Same test; the threat arises from the situation.
 - *DPP v Bell* [1992]: drove off drunk to escape attack; went no further than necessary.
 - *Pommell* [1995]: must stop the offence once the danger has passed.
 - *Abdul-Hussain* [1999]: hijacking to escape feared execution; defence should go to the jury.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-duress-and-intoxication--04-duress-of-circumstances.webp" width="900" height="594" alt="Duress of circumstances uses the same test where the threat comes from the situation. Cases: Willer (pavement driving to escape a gang), Conway (fleeing feared attackers who were police), Martin (driving while disqualified after a suicide threat), DPP v Bell (driving only as far as necessary), Pommell (must stop once the danger has passed) and Abdul-Hussain (hijacking to escape execution)." loading="lazy">
+  <figcaption>The danger comes from the circumstances, and the defence lasts only as long as the danger.</figcaption>
+</figure>
 
 ## Intoxication: decision tree
 
@@ -71,6 +86,11 @@ Was the intoxication voluntary?
 **Voluntary even if strength misjudged:** *Allen* [1988].
 **Drunken mistakes:** no self-defence based on a drunken mistake (*O'Grady* [1987]; *Hatton* [2005]); exception for lawful excuse in criminal damage (*Jaggard v Dickinson* [1981]).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-duress-and-intoxication--05-intoxication-decision-tree.webp" width="900" height="781" alt="A decision tree. Voluntary intoxication is no defence to basic intent offences such as manslaughter, s 20 and s 47 OAPA, assault and criminal damage (Majewski; Lipman; Heard); for specific intent offences such as murder, s 18, theft, robbery and burglary it helps only if D did not form the intent (Sheehan and Moore). Involuntary intoxication is a defence to both if no intent was formed, but not if intent was formed (Kingston)." loading="lazy">
+  <figcaption>The questions are always: voluntary or not, which kind of offence, and was the intent formed?</figcaption>
+</figure>
+
 ## Specific versus basic intent offences
 
 | Specific intent | Basic intent |
@@ -79,6 +99,11 @@ Was the intoxication voluntary?
 | s 18 OAPA 1861 | s 20 and s 47 OAPA 1861; assault and battery |
 | Theft, robbery | Criminal damage (reckless) |
 | s 9(1)(a) burglary with intent to steal | Sexual assault (*Heard* [2007]) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-duress-and-intoxication--06-intoxication-traps.webp" width="900" height="339" alt="Dutch courage: if D forms the intent sober and drinks to act, intoxication is no defence even to a specific intent offence (Gallagher). A drunken mistaken belief in the need for self-defence cannot be relied on (O’Grady; Hatton). The exception is criminal damage, where s 5(2) Criminal Damage Act 1971 allows an honest belief, even a drunken one (Jaggard v Dickinson)." loading="lazy">
+  <figcaption>Drinking for courage and drunken mistakes do not help, except under s 5(2) for criminal damage.</figcaption>
+</figure>
 
 ## Model evaluation paragraph
 

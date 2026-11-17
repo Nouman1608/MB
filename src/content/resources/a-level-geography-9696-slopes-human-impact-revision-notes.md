@@ -63,6 +63,11 @@ Condensed recall for **3.4 The human impact** on slope stability, and the strate
 | Dumping mine waste | Adds a steep, loose load | Waste is unconsolidated and may hold water |
 | Blasting and traffic | Vibration adds short pulses of stress | Loosens joints |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-hazardous-environments--18-hz-slope-failure.webp" width="900" height="950" alt="A cross-section of a slope with a block of soil on it. An arrow pulls the block down the slope (shear stress) and a shorter arrow resists up the slope (shear strength, from friction and cohesion). The slope fails when stress exceeds strength. Five numbered causes are marked: heavy rain raising pore-water pressure, deforestation removing roots, undercutting of the slope toe by a river or waves, buildings loading the top, and earthquake shaking." loading="lazy">
+  <figcaption>A slope fails when shear stress exceeds shear strength; rain, deforestation, undercutting, loading and earthquakes tip the balance.</figcaption>
+</figure>
+
 ## How people can increase stability
 
 - Vegetation: planting trees and grass.

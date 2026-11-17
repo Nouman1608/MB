@@ -57,6 +57,11 @@ Its Atlantic branch, the **Atlantic Meridional Overturning Circulation (AMOC)**,
 
 Upwelling is strongest along eastern ocean margins, where winds blowing along the coast push surface water offshore and deeper water rises to replace it. The anchoveta fishery off Peru depends on it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--09-conveyor.webp" width="900" height="700" alt="A schematic loop in an ocean basin. Temperature and salinity set water density. Cold, salty, dense water sinks in polar regions on the left, flows at depth to the right, and upwells as cold, nutrient-rich water at low latitudes. Warmer surface water flows back towards the pole to replace it." loading="lazy">
+  <figcaption>Thermohaline circulation is a density-driven loop of sinking, deep flow, upwelling and surface return.</figcaption>
+</figure>
+
 ## ENSO (El Nino-Southern Oscillation)
 
 | | Normal | El Nino | La Nina |
@@ -79,6 +84,11 @@ In normal conditions, warm water in the western Pacific heats the air, which ris
 - **Wider effects:** El Nino years tend to raise global average temperature temporarily.
 
 During **La Nina**, the reverse tends to happen: wetter conditions and flood risk in eastern Australia and drier conditions on the Pacific coast of South America. Effects are tendencies, not certainties, and they vary between events.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--08-enso.webp" width="900" height="1030" alt="Two stacked cross-sections of the Pacific, west on the left and South America on the right. In normal conditions strong trade winds blow towards the west, warm surface water piles up in the west, and cold water upwells off South America. In El Niño conditions the trade winds weaken, warm water spreads east, upwelling is reduced and rainfall patterns shift. La Niña is the opposite phase with stronger trade winds. Schematic, not to scale." loading="lazy">
+  <figcaption>Normal and El Niño conditions in the Pacific, as the lesson describes them.</figcaption>
+</figure>
 
 ## Oceans and climate change
 

@@ -33,6 +33,11 @@ Study a range of style models in one area (Persuasion, Storytelling or Informati
 detail, write your own piece for a defined audience and purpose, then write a commentary evaluating the style model,
 the writing process and the effectiveness of your piece.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--11-nea-writing-process.webp" width="900" height="1020" alt="Three steps: study a range of style models, analyse one in detail, write the 750-word piece. A 750-word commentary follows and evaluates the style model, the writing process and the effectiveness of the final piece. A dashed arrow shows the style-model analysis feeding the commentary. The submitted folder holds the writing, an annotated style model, the commentary and references." loading="lazy">
+  <figcaption>Style-model analysis feeds the writing and the 750-word commentary.</figcaption>
+</figure>
+
 ## Folder contents (specification)
 
 1. A piece of original writing.
@@ -64,6 +69,11 @@ the writing process and the effectiveness of your piece.
 | Storytelling | Viewpoint, tense, dialogue, pace through sentence length and structure, sensory lexis, structural shape |
 | Information | Organisation, headings, register for the reader's expertise, precise lexis, examples, layout |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-original-writing--02-three-powers.webp" width="900" height="740" alt="Three columns for the Power of Persuasion, Storytelling and Information, each with what the writing must do and the language choices that typically matter, from modality and calls to action, to narrative voice and pace, to signposting and layout. A note stresses defining audience and purpose precisely." loading="lazy">
+  <figcaption>Each area sets a different job, and audience and purpose decide the choices.</figcaption>
+</figure>
+
 ## Style model annotation checklist
 
 - **Graphology:** headings, paragraphing, white space, images.
@@ -75,6 +85,16 @@ the writing process and the effectiveness of your piece.
 
 For every feature: *what it is* + *what it does* + *what I will do with it*.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-original-writing--03-choosing-style-model.webp" width="900" height="580" alt="A checklist for a style model: a published text in the same form and area as the planned piece, short enough to analyse closely, rich enough to teach techniques, and the best match for audience and purpose. Beside it: borrow technique, not content or phrasing." loading="lazy">
+  <figcaption>Pick a style model to learn technique from, not material to borrow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-original-writing--04-annotating-style-model.webp" width="900" height="660" alt="Annotation that names a feature and what it does is contrasted with highlighting that only labels. Six language levels follow, each with the question to ask of the style model, from how graphology guides the reader to how discourse structure and cohesion work." loading="lazy">
+  <figcaption>Ask each level's question of the style model, and note what each feature does.</figcaption>
+</figure>
+
 ## Commentary structure
 
 ```
@@ -85,6 +105,11 @@ For every feature: *what it is* + *what it does* + *what I will do with it*.
 5. Evaluation: what worked, what did not, and why.
 Keep both texts in view throughout.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-original-writing--07-commentary-structure.webp" width="900" height="661" alt="Five numbered stages of the commentary: context, the style model, your choices, the writing process, and evaluation. A vertical thread beside them shows connections between the style model and the piece running throughout, and a note warns against narrating the process." loading="lazy">
+  <figcaption>Five stages, with the style model and your piece connected all the way through.</figcaption>
+</figure>
 
 ## Redrafting reasons worth recording
 
@@ -98,6 +123,11 @@ Keep both texts in view throughout.
 | Changed viewpoint or tense | Alters intimacy or immediacy in storytelling |
 
 Keep dated drafts so the commentary can point to real decisions rather than reconstructed ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-original-writing--06-redrafting-notes.webp" width="900" height="555" alt="Three redrafting notes from the lesson, each pairing a change with a linguistic reason: cutting adjectives from the opening noun phrase to quicken pace, moving a statistic to the opening to establish credibility, and changing passive to active to make the council responsible." loading="lazy">
+  <figcaption>Note each change and its linguistic reason; the notes feed the commentary.</figcaption>
+</figure>
 
 ## Useful commentary frames
 

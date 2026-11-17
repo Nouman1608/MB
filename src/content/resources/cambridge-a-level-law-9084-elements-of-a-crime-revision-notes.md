@@ -32,10 +32,20 @@ Recall notes for subtopic 2.1 of Cambridge International AS & A Level Law (9084)
 
 **Three parts of actus reus:** conduct (the act), result (the consequence), circumstances (surrounding facts).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-criminal-law--13-law3-elements.webp" width="900" height="800" alt="A roof labelled criminal liability sits on two pillars that must coincide. Left pillar, actus reus, the conduct element: the guilty act, omission where a duty to act exists, and causation, actual and legal. Right pillar, mens rea, the mental element: intention, direct or oblique, and recklessness." loading="lazy">
+  <figcaption>Criminal liability generally needs actus reus and mens rea to coincide.</figcaption>
+</figure>
+
 ## Conduct must be voluntary
 
 - *Hill v Baxter* (1958) – driver attacked by bees would not be acting voluntarily.
 - **State of affairs exceptions:** *R v Larsonneur* (1933) – "found" in the UK after being brought in against her will; *Winzar v Chief Constable of Kent* (1983) – "found drunk on a highway" after police put him there. Criticised as liability without fault.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-elements-of-a-crime--01-actus-reus-parts.webp" width="900" height="515" alt="Three cards show the actus reus as conduct, a result or circumstances, with the lesson’s examples. Below, the conduct must be voluntary (Hill v Baxter, the swarm of bees), except in state of affairs offences such as Larsonneur and Winzar, which are criticised as liability without real fault." loading="lazy">
+  <figcaption>Conduct, result and circumstances; voluntary, except in state of affairs cases.</figcaption>
+</figure>
 
 ## Omissions
 
@@ -51,6 +61,11 @@ General rule: no liability for failing to act. Exceptions where there is a **leg
 | Created danger | *R v Miller* (1983); *R v Evans* (2009) |
 
 *Airedale NHS Trust v Bland* (1993) – withdrawing treatment is an omission; no duty to continue treatment that is not in the patient's best interests.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-elements-of-a-crime--02-omission-duties.webp" width="900" height="683" alt="The general rule of no liability for omissions, then six legal duties to act with their cases: statute (Road Traffic Act 1988), contract (Pittwood), public office (Dytham), voluntary assumption of care (Stone and Dobinson), special relationship (Gibbins and Proctor) and creating a dangerous situation (Miller, extended in Evans). Bland treats withdrawing treatment as a lawful omission." loading="lazy">
+  <figcaption>An omission is criminal only where the defendant was under a legal duty to act.</figcaption>
+</figure>
 
 ## Causation
 
@@ -68,6 +83,11 @@ General rule: no liability for failing to act. Exceptions where there is a **leg
 | Victim's free choice | Free, deliberate, informed act breaks | *R v Kennedy (No 2)* (2007) |
 | Victim's characteristics | Thin skull rule – take the victim as you find them | *R v Blaue* (1975) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-elements-of-a-crime--03-causation-chain.webp" width="900" height="903" alt="Causation as a chain: factual causation by the but for test (White), then legal causation as an operating and substantial cause (Smith). A table shows when intervening acts break the chain: not by a reasonable third-party response (Pagett), negligent treatment (Cheshire) or a foreseeable reaction (Roberts); broken by palpably wrong treatment (Jordan) or a free, deliberate and informed act (Kennedy). The thin skull rule applies (Blaue)." loading="lazy">
+  <figcaption>But for, then operating and substantial, then ask whether anything broke the chain.</figcaption>
+</figure>
+
 ## Intention
 
 - **Direct:** aim or purpose – *R v Mohan* (1975).
@@ -75,11 +95,26 @@ General rule: no liability for failing to act. Exceptions where there is a **leg
 - **Woollin test:** jury not entitled to find intention unless the consequence was a **virtual certainty** (barring unforeseen intervention) **and** the defendant **appreciated** that.
 - *R v Matthews and Alleyne* (2003) – foresight is evidence of intention, not intention itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-criminal-law--14-law3-mens-rea.webp" width="900" height="970" alt="Three rows. Direct intention: an arrow from the defendant hits a target, the result was the actual purpose. Oblique or indirect intention: the arrow aims at one target while a second result is a virtually certain consequence the defendant foresaw. Recklessness: the defendant is aware of an unjustified risk, shown as a warning sign on the path, and takes it anyway." loading="lazy">
+  <figcaption>Intention is either the aim itself or a foreseen virtually certain result; recklessness is knowingly taking an unjustified risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-elements-of-a-crime--04-oblique-intention.webp" width="900" height="741" alt="A timeline of oblique intention: Moloney (1985) foresight is only evidence; Hancock and Shankland (1986) probability; Nedrick (1986) the virtual certainty test; Woollin (1998) virtual certainty and the defendant’s appreciation of it; Matthews and Alleyne (2003) a rule of evidence, not of law." loading="lazy">
+  <figcaption>Foresight of virtual certainty lets the jury find intention; it does not make it intention.</figcaption>
+</figure>
+
 ## Recklessness
 
 - **Subjective test:** *R v Cunningham* (1957) – gas meter.
 - *MPC v Caldwell* (1982) – objective test, **overruled**.
 - *R v G* (2003) – reckless if **aware of a risk** and it was **unreasonable to take** it in the circumstances known to the defendant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-elements-of-a-crime--05-recklessness-tests.webp" width="900" height="539" alt="Three stages in the test for recklessness: subjective in Cunningham, objective in Caldwell, and subjective again when R v G overruled Caldwell. The R v G test asks whether the defendant was aware of a risk and whether taking it was unreasonable in the circumstances known to them." loading="lazy">
+  <figcaption>Since R v G, recklessness again depends on what this defendant foresaw.</figcaption>
+</figure>
 
 ## Key terms
 

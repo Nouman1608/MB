@@ -1,0 +1,8 @@
+{ "page": "oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--01-levels-of-language.webp", "after": "## Language levels"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--02-one-to-one-correspondence.webp", "after": "## Language levels"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--03-portability.webp", "after": "## Why most programs are high-level"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--04-low-level-trade-offs.webp", "after": "## Low-level: advantages and disadvantages"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--05-three-translators.webp", "after": "## Translators"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--06-choosing-a-translator.webp", "after": "## When to use which"}
+] }

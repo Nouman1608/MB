@@ -79,6 +79,11 @@ Surface winds: trade winds blow towards the equator, westerlies at mid-latitudes
 
 **How the Hadley cell works:** intense heating at the equator makes air rise, cool and condense, giving heavy convectional rain. At the tropopause the air spreads poleward, cools by radiation and converges, then sinks near 30 degrees. Sinking air warms by compression, so it is dry and cloud-free, producing the subtropical high-pressure belt and many of the world's hot deserts. Surface air then returns towards the equator as the trade winds, deflected by Coriolis into the north-east trades (northern hemisphere) and south-east trades (southern hemisphere).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--11-phys-three-cell.webp" width="900" height="1280" alt="Side view of the northern hemisphere from the equator to the pole showing three circulation cells: Hadley (equator to about 30 degrees), Ferrel (30 to 60 degrees) and Polar (60 to 90 degrees). Air rises at the equator and at 60 degrees, and sinks at 30 degrees and at the pole. Two small diagrams show the Coriolis effect: moving air is deflected to the right in the northern hemisphere and to the left in the southern hemisphere. Schematic." loading="lazy">
+  <figcaption>Air circulates in three cells between equator and pole, and the Coriolis effect deflects winds right in the northern hemisphere and left in the southern.</figcaption>
+</figure>
+
 ## Seasonal variations
 
 - The overhead sun moves between the Tropic of Cancer (June) and the Tropic of Capricorn (December).
@@ -86,6 +91,11 @@ Surface winds: trade winds blow towards the equator, westerlies at mid-latitudes
 - Over South Asia, the northward summer shift of the ITCZ and strong heating of the land help draw in moist south-westerly winds, giving the **summer monsoon**.
 - Areas between the equatorial and subtropical belts have a wet season when the ITCZ is overhead and a dry season when the subtropical high returns; this is the savanna rainfall pattern.
 - Land-sea contrasts also shape temperature: continental interiors have hotter summers and colder winters than coasts at the same latitude.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-tropical-environments--15-tr-itcz-seasons.webp" width="900" height="940" alt="Two side views by latitude. In the wet season the ITCZ lies over a savanna site, with rising air, cloud and rain. In the dry season the ITCZ has moved away and the subtropical high extends over the site, so air sinks and skies are clear." loading="lazy">
+  <figcaption>The savanna dry season begins when the ITCZ moves away and the subtropical high takes its place.</figcaption>
+</figure>
 
 ## Annotated model paragraph
 

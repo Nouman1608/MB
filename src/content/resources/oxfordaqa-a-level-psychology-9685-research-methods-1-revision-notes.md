@@ -48,6 +48,11 @@ Condensed recall for **3.2.3 Research methods 1** (OxfordAQA International AS an
 | Unstructured interview | Rich detail | Hard to compare; interviewer effects |
 | Correlation | Studies relationships that cannot be manipulated | No cause and effect |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--01-types-of-experiment.webp" width="900" height="677" alt="Laboratory experiments manipulate the IV in a controlled setting (cause and effect, but artificial); field experiments manipulate it in a natural setting (natural behaviour, less control); natural experiments use an IV that varies naturally (ethical, but no random allocation). An arrow runs from more control to more natural. Cards summarise observation, self-report and correlation." loading="lazy">
+  <figcaption>Moving from laboratory to natural trades control for realism.</figcaption>
+</figure>
+
 ## Designs at a glance
 
 | Design | Strength | Limitation | Remedy |
@@ -55,6 +60,11 @@ Condensed recall for **3.2.3 Research methods 1** (OxfordAQA International AS an
 | Independent groups | No order effects | Participant variables | Random allocation |
 | Repeated measures | Controls participant variables | Order effects | Counterbalancing |
 | Matched pairs | Reduces participant variables without order effects | Time-consuming; matching imperfect | Match on the most relevant variable |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--02-experimental-designs.webp" width="900" height="634" alt="Three rows. Independent groups: different people in conditions A and B; weakness, participant variables may differ; fix, random allocation. Repeated measures: the same people do both; weakness, order effects; fix, counterbalancing. Matched pairs: pairs matched on a variable such as IQ are split across conditions; weakness, time-consuming and never perfect." loading="lazy">
+  <figcaption>Each design solves one problem and creates another, with its own fix.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -78,6 +88,16 @@ Condensed recall for **3.2.3 Research methods 1** (OxfordAQA International AS an
 | Meta-analysis | Combining results of many studies on one topic |
 | Co-variables | The two variables measured in a correlation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--04-variables.webp" width="900" height="692" alt="The IV (music or silence) is manipulated and its effect on the DV (words recalled) is measured, while extraneous variables are controlled with standardised instructions, the same room and the same time of day. Memory is operationalised as the number of words correctly recalled from a list of 20 within two minutes. Cards explain demand characteristics and behavioural categories." loading="lazy">
+  <figcaption>Operationalising turns a vague idea into something you can count.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--03-sampling.webp" width="900" height="736" alt="Two schematic populations of 50: in random sampling the chosen people are spread across the population; in opportunity sampling they are clustered among whoever is available. Random sampling gives everyone an equal chance and avoids researcher bias but needs a full list; opportunity sampling is quick but likely biased. Random sampling differs from random allocation." loading="lazy">
+  <figcaption>Random sampling avoids bias; opportunity sampling is quick but may not generalise.</figcaption>
+</figure>
+
 ## Calculations
 
 ```
@@ -91,11 +111,21 @@ Percentage change = (new - old) / old x 100
 
 The specification names the calculation of the mean, median, mode and range; standard deviation is listed as a measure of dispersion, so be ready to interpret it: a larger standard deviation means scores are more spread around the mean.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--07-worked-example.webp" width="900" height="777" alt="A table of the lesson's invented scores: music group mean 10, median 9.5, mode 9, range 7; silence group mean 14, median 13.5, mode 13, range 7. A bar chart shows mean recall of 10 with music and 14 in silence. The silence mean is 4 words, or 40 percent, higher with identical ranges; only an inferential test could show significance." loading="lazy">
+  <figcaption>Silence beat music by 4 words on average, with the same spread.</figcaption>
+</figure>
+
 ## Distributions
 
 - **Normal:** symmetrical bell shape; mean = median = mode; most scores near the middle.
 - **Positive skew:** most scores low, a tail of high scores; mean > median > mode.
 - **Negative skew:** most scores high, a tail of low scores; mean < median < mode.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--06-distributions.webp" width="900" height="870" alt="Three illustrative curves: a symmetrical normal distribution with mean, median and mode equal; a positive skew with a tail of high scores pulling the mean above the median; and a negative skew with a tail of low scores pulling the mean below the median. A table defines the mean, median, mode, range and standard deviation with a key point for each." loading="lazy">
+  <figcaption>The tail pulls the mean towards it; the mode stays at the peak.</figcaption>
+</figure>
 
 ## Graphs
 
@@ -107,6 +137,11 @@ The specification names the calculation of the mean, median, mode and range; sta
 ## Ethics in one line each
 
 Consent (informed agreement) -- deception (avoid unless necessary) -- debrief (reveal the aim, reassure) -- right to withdraw (at any time) -- protection from harm (no more risk than everyday life) -- confidentiality (no identifiable data) -- privacy (observe only in public places).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-research-methods-1--05-ethics.webp" width="900" height="604" alt="Seven cards: consent (consent form, parental consent), deception (only when necessary, full debrief), debrief (explain the aim, offer to withdraw data), right to withdraw (stated at the start), protection from harm (stop if distressed), confidentiality (numbers not names) and privacy (observe only in public). For each, know what it means and how researchers deal with it." loading="lazy">
+  <figcaption>Every ethical issue has a matching way to deal with it.</figcaption>
+</figure>
 
 ## Exam traps
 

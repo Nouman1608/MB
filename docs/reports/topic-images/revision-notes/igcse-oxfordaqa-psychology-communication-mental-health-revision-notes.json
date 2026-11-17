@@ -1,0 +1,15 @@
+{ "page": "igcse-oxfordaqa-psychology-communication-mental-health-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--01-comm-language-thought.webp", "after": "## Language and thought" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--02-comm-zuni-colours.webp", "after": "## Language and thought" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--03-comm-bee-dances.webp", "after": "## Human versus animal communication" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--04-comm-animal-vs-human.webp", "after": "## Human versus animal communication" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--05-comm-eyes-posture.webp", "after": "## Non-verbal communication" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--06-comm-touch-space.webp", "after": "## Non-verbal communication" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--07-comm-innate-learned.webp", "after": "## Non-verbal communication" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-mental-health--08-mh-incidence.webp", "after": "## 3.2.3 Mental health — incidence and effects" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-mental-health--09-mh-effects.webp", "after": "## 3.2.3 Mental health — incidence and effects" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-mental-health--11-mh-ocd-cbt.webp", "after": "## OCD and PTSD side by side" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-mental-health--13-mh-ptsd-dual-memory.webp", "after": "## OCD and PTSD side by side" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-mental-health--14-mh-ptsd-therapy.webp", "after": "## OCD and PTSD side by side" },
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-mental-health--10-mh-ocd-cycle.webp", "after": "## Worked example" }
+] }

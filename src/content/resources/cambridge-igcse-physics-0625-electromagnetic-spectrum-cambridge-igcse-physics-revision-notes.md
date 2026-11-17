@@ -43,6 +43,16 @@ These notes condense section 3.3 Electromagnetic spectrum of the Cambridge IGCSE
 - Same speed, so higher frequency means shorter wavelength: v = fλ.
 - Prefixes: k = 10³, M = 10⁶, G = 10⁹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-spectrum-cambridge-igcse-physics--02-wavelength-from-frequency.webp" width="900" height="584" alt="A radio wave of 100 MHz has wavelength 3.0 × 10⁸ / (100 × 10⁶) = 3.0 m. A 2.45 GHz microwave has wavelength 3.0 × 10⁸ / (2.45 × 10⁹) = 0.122 m, about 12 cm. All electromagnetic waves travel at 3.0 × 10⁸ m/s in a vacuum." loading="lazy">
+  <figcaption>With the speed fixed, frequency and wavelength change in opposite directions.</figcaption>
+</figure>
+
 ## Uses (Core)
 
 | Region | Uses named in the syllabus | Property behind it |
@@ -63,11 +73,21 @@ These notes condense section 3.3 Electromagnetic spectrum of the Cambridge IGCSE
 - X-rays and gamma rays: **mutation or damage to cells in the body**.
 - Radio waves and visible light: no harmful effect is named in the syllabus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-spectrum-cambridge-igcse-physics--01-harmful-effects.webp" width="900" height="600" alt="Microwaves cause internal heating of body cells and infrared causes skin burns: both harm by heating. Ultraviolet damages surface cells and eyes, leading to skin cancer and eye conditions. X-rays and gamma rays cause mutation or damage to cells inside the body." loading="lazy">
+  <figcaption>Lower frequencies harm by heating; ultraviolet, X-rays and gamma rays damage cells directly.</figcaption>
+</figure>
+
 ## Satellites (Core)
 
 - Communication with artificial satellites is **mainly by microwaves**.
 - **Low orbit** satellites: used by some satellite phones; close, so short signal paths; move across the sky, so many are needed.
 - **Geostationary** satellites: used by some satellite phones and direct broadcast satellite television; orbit once in 24 hours above the equator, so they stay above one point and a fixed dish can be used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-spectrum-cambridge-igcse-physics--03-satellites.webp" width="900" height="678" alt="Plan view of the Earth with a low orbit satellite close in and a geostationary satellite much further out, orbiting once every 24 hours above the equator in the direction the Earth rotates. For a geostationary satellite 3.6 × 10⁷ m up, a signal up and back down travels 7.2 × 10⁷ m and takes 7.2 × 10⁷ / 3.0 × 10⁸ = 0.24 s." loading="lazy">
+  <figcaption>Geostationary satellites stay over one point; low orbit satellites are closer but need a network.</figcaption>
+</figure>
 
 ## Communication systems (Extended only)
 
@@ -85,6 +105,11 @@ These notes condense section 3.3 Electromagnetic spectrum of the Cambridge IGCSE
 
 - A sound can be sent as either an analogue or a digital signal.
 - Benefits of digital: **increased rate of data transmission**; **increased range due to accurate signal regeneration**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electromagnetic-spectrum-cambridge-igcse-physics--04-analogue-vs-digital.webp" width="900" height="620" alt="An analogue signal varies continuously; after travelling it is weaker and noisy, and amplifying it amplifies the noise too. A digital signal has only two values; after travelling it is weak and noisy, but it can be regenerated as clean 1s and 0s because the receiver only decides between two values." loading="lazy">
+  <figcaption>Digital signals can be regenerated, so noise is removed and range increases.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -40,6 +40,11 @@ These notes cover Culture and Identity for AQA A-level Sociology (7192), from th
 
 **Paper 2 option rule (as printed):** Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 or 4.2.4"; Section B is "one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8". The paper is 2 hours, 80 marks, 33.3% of the A-level; each section is extended writing worth 40 marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--02-conceptions-of-culture.webp" width="900" height="662" alt="Seven conceptions of culture in three groups: high and low culture, judged by artistic value; folk, mass and popular culture, by who makes them and for whom; and subculture and global culture, by group and scale." loading="lazy">
+  <figcaption>Each conception of culture carries its own assumptions about value and audiences.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |
@@ -101,6 +106,16 @@ These notes cover Culture and Identity for AQA A-level Sociology (7192), from th
 | Bauman (1998) | Flawed consumers | The poor are excluded from consumer society | Supports, not refutes, the role of class |
 | Ritzer (1993) | McDonaldisation | Rationalised global sameness | Glocalisation shows local adaptation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--06-sources-of-identity.webp" width="900" height="757" alt="Cards for age, disability, ethnicity, gender, nationality, sexuality and class, each with its key concepts and sociologists, and a tip to answer on the source the question names." loading="lazy">
+  <figcaption>Each source of identity has its own key concepts and sociologists.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--08-hall-globalisation.webp" width="900" height="547" alt="Globalisation leads to three possible outcomes for national identities according to Hall: erosion through homogenisation, strengthening as resistance, and new hybrid identities." loading="lazy">
+  <figcaption>Hall saw globalisation eroding, strengthening or hybridising national identity.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Mass culture versus popular culture.** Mass culture implies imposed, passive consumption; popular culture is a neutral or positive term for what people enjoy.
@@ -113,6 +128,21 @@ These notes cover Culture and Identity for AQA A-level Sociology (7192), from th
 - **Production versus consumption.** Identity from what you do at work versus what you buy and display.
 - **Homogenisation versus hybridity.** Globalisation making cultures the same versus mixing them into something new.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--03-mass-culture-debate.webp" width="900" height="550" alt="Mass culture theorists, Adorno, Horkheimer and Leavis, see commercial culture as making audiences passive. Critics Strinati, Gans and postmodernists argue audiences are active and that the boundary between high and popular culture has broken down." loading="lazy">
+  <figcaption>The debate turns on whether audiences are passive or active.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--04-socialisation.webp" width="900" height="719" alt="Primary socialisation in the family leads to secondary socialisation through education, peers, media, religion and work. Functionalists, Marxists, feminists and interactionists each explain the process differently." loading="lazy">
+  <figcaption>Perspectives differ on what socialisation passes on and how active people are in it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--05-caused-constructed.webp" width="900" height="579" alt="The structural view sees identity caused by structures such as class and the family; the action view, from Goffman, Giddens and Hall, sees it constructed through interaction. Jenkins links internal and external sides of identity." loading="lazy">
+  <figcaption>Many sociologists combine structure and action when explaining identity.</figcaption>
+</figure>
+
 ## Mini essay plan
 
 **Question type:** "Evaluate the view that consumption, rather than social class, is now the main source of identity."
@@ -124,6 +154,11 @@ These notes cover Culture and Identity for AQA A-level Sociology (7192), from th
 5. **Other sources of identity (AO3).** Ethnicity, gender and nationality may outweigh both; hybrid identities mix several.
 6. **Theory comparison.** Marxists: consumption is shaped by capitalism and advertising. Interactionists: identity is negotiated whatever its source.
 7. **Conclusion.** Weigh the evidence. Consumption gives more visible choice, but class shapes who can choose. Stay balanced and tie back to the question wording.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--07-production-consumption.webp" width="900" height="482" alt="A chain from identity based on work and community, through de-industrialisation, to identity built through consumption. Veblen and Pakulski and Waters support the shift; Bauman’s flawed consumers and the role of income show its limits." loading="lazy">
+  <figcaption>Consumer identities are chosen, but choice depends on money.</figcaption>
+</figure>
 
 ## Quick self-test
 

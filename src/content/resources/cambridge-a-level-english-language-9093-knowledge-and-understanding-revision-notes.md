@@ -38,6 +38,11 @@ Paper 2 Writing. For full explanations and a worked example, use the
 
 The syllabus examples are suggestions. You are rewarded for using knowledge accurately, not for covering every item.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-knowledge-and-understanding--01-four-strands.webp" width="900" height="645" alt="Four numbered strands: conventions of written textual forms, linguistic elements and literary features, the significance of audience in design and reception, and how genre, purpose and context contribute to meaning. Arrows show the same knowledge serving Paper 1 Reading and Paper 2 Writing." loading="lazy">
+  <figcaption>Four strands of knowledge that explain why a text looks and sounds as it does.</figcaption>
+</figure>
+
 ## Form conventions: quick bank
 
 - **Advertisement**: slogan, imperative, direct address, positive evaluative adjectives, brand name repeated.
@@ -51,6 +56,11 @@ The syllabus examples are suggestions. You are rewarded for using knowledge accu
 - **Diary**: date, ellipsis, private reference, present concerns.
 - **Scripted speech or podcast**: greeting, signposting, repetition, rhetorical questions, sign-off.
 - **Descriptive or narrative writing**: sustained imagery, perspective, structural shifts in time or focus.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-knowledge-and-understanding--02-conventions-and-jobs.webp" width="900" height="740" alt="Seven forms from the syllabus list, each with typical conventions and the job they do for a reader, from the editorial's institutional &quot;we&quot; presenting a collective view to the leaflet's headings and imperatives letting a reader scan and act. A note explains reading a break in convention, such as a travel blog switching to bullet points." loading="lazy">
+  <figcaption>A convention matters because of the job it does for a reader.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -72,6 +82,16 @@ The syllabus examples are suggestions. You are rewarded for using knowledge accu
 | Pragmatics | Meaning inferred from context | "It's cold in here" as a request to close a window |
 | Implied reader | The reader a text constructs and assumes | "As a busy parent, you..." |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-knowledge-and-understanding--03-levels-of-analysis.webp" width="900" height="610" alt="The syllabus feature list sorted by level: word (word classes, vocabulary, morphology such as &quot;unmissable&quot; and &quot;feelgood&quot;), sentence (sentence types, fronting, voice, tense and aspect, modality) and text (structure and narrative perspective), with sound features to the side and figurative language, rhetoric, voice, tone and pragmatics working across levels." loading="lazy">
+  <figcaption>Sort features from word to whole text so the long list is easier to hold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-knowledge-and-understanding--04-tense-and-aspect.webp" width="900" height="670" alt="Two timelines. The progressive aspect, &quot;was walking&quot;, shows an action as an ongoing, unfinished stretch. The perfect aspect, &quot;has walked&quot; or &quot;had walked&quot;, links an earlier action to a later moment. A note says tense locates an action in time while aspect describes how it unfolds." loading="lazy">
+  <figcaption>Progressive shows an action in progress; perfect links an earlier action to a later moment.</figcaption>
+</figure>
+
 ## Sentence and text level reminders
 
 - **Sentence types**: simple, compound, complex, minor (no main verb: "Not again.").
@@ -88,12 +108,22 @@ The syllabus examples are suggestions. You are rewarded for using knowledge accu
 - **Primary and secondary audience**: the reader addressed and others who will also read it.
 - **Assumed knowledge** is evidence: unexplained acronyms point to a specialist audience.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-knowledge-and-understanding--05-design-and-reception.webp" width="900" height="635" alt="A writer designs a text for an audience and readers receive it, sometimes differently from the intention. Design choices include register, assumed knowledge and forms of address. Three cards explain primary and secondary audiences, the implied reader and assumed knowledge with the lesson's examples." loading="lazy">
+  <figcaption>Design is what the writer intends; reception is what real readers make of it.</figcaption>
+</figure>
+
 ## Genre, purpose and context
 
 - **Purposes combine**: inform to persuade, entertain to advise. Name the main purpose and the one it serves.
 - **Context of production**: writer, date, place, publication, constraints such as word limits.
 - **Context of reception**: where, when and by whom it is read.
 - **Hybrid genres**: a sponsored article mixes journalism and advertising, so its conventions pull in two directions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-knowledge-and-understanding--06-genre-purpose-context.webp" width="900" height="555" alt="The sentence &quot;The water is not safe&quot; means a warning on a sign, a plot point in a story and a political accusation in an editorial. Below, purposes stack: a charity leaflet informs in order to persuade." loading="lazy">
+  <figcaption>The same words change meaning with genre, purpose and context.</figcaption>
+</figure>
 
 ## Exam traps
 

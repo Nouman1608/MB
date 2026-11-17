@@ -36,6 +36,11 @@ A-level English Language (9670). For the language levels and a worked example on
 - You are credited for identifying the language that contributes to **audience, purpose, genre and mode**.
 - Section B's directed writing uses the same texts, so close reading here pays off twice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--21-u1-assessment.webp" width="900" height="920" alt="A clock shows a 2-hour written exam worth 50 marks. Two section cards: Section A Understanding Texts, a compulsory analysis of two texts linked by a common theme but differing in context; Section B Directed Writing, writing for a specified audience, purpose and context, from a choice of two tasks. Two bars show weighting: Unit 1 is 50% of the International AS (with Unit 2 the other 50%) and 20% of the full A-level, the same as Unit 2." loading="lazy">
+  <figcaption>One 2-hour, 50-mark paper: Section A understanding texts, Section B directed writing.</figcaption>
+</figure>
+
 ## Likely text types
 
 Advertising and promotional material; informative booklets and flyers; news and magazine articles; blogs, forums and
@@ -55,6 +60,11 @@ least one spoken or digital text.
 
 **Constructed, idealised reader**: the reader a text builds through its address and assumptions. Describe that
 reader, then quote the language that constructs them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--15-u1-context.webp" width="900" height="870" alt="A left-to-right flow of three cards. Context of production: who wrote it, when, why, for whom, under what constraints. The text, drawn as a page. Context of reception: who reads it, in what circumstances, with what expectations and prior knowledge. Below, a private letter and a published memoir show that the same words function differently in different settings." loading="lazy">
+  <figcaption>Analysis begins with context: how and why the text was produced, and how and by whom it is received.</figcaption>
+</figure>
 
 ## Purpose: what to look for
 
@@ -86,6 +96,11 @@ reader, then quote the language that constructs them.
 diaries (spoken but often scripted or edited), live blogs (written in real time), emoji standing in for facial
 expression.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--19-u1-spoken-features.webp" width="900" height="1010" alt="Five rows of speech bubbles for two speakers (gold and teal) show spoken-language features. Adjacency pair: a bubble from one speaker answered by a bubble from the other. Overlap and interruption: two bubbles that overlap. Fillers and hesitation: a bubble with a pause shown as dots. False start and repair: a broken-off stretch followed by a corrected one. Back-channelling: a very small bubble from the listener during a long turn. A banner says non-fluency is normal, not error." loading="lazy">
+  <figcaption>Use the transcript toolkit and analyse what non-fluency does; do not treat it as error.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -98,6 +113,11 @@ expression.
 | Deixis | Words whose meaning depends on context: "this", "here", "now" |
 | Multimodal | Combining language with images, layout, sound or other modes |
 | Non-fluency features | Normal features of unplanned speech: fillers, pauses, repairs |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1--16-u1-field-tenor-mode.webp" width="900" height="940" alt="Three bands. Field: the subject matter and the specialist lexis it brings, shown as a book and word shapes. Tenor: the relationship between participants, governing formality, politeness and directness, shown as two people and a formal to informal slider. Mode: spoken, written, or hybrid digital forms that borrow from both, shown as a speech bubble, a phone and a page." loading="lazy">
+  <figcaption>Field is what the text is about, tenor is who is talking to whom, and mode is the channel.</figcaption>
+</figure>
 
 ## Comparison structure
 

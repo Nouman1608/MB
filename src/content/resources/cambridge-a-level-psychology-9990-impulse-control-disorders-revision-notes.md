@@ -30,6 +30,11 @@ featured: false
 
 Urge or tension builds → act is carried out → pleasure, excitement or relief → often guilt afterwards → urge returns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--01-impulse-cycle.webp" width="900" height="586" alt="A loop: rising tension or arousal before the act; the act itself (stealing, fire-setting or gambling); pleasure or relief during and just after; often guilt or regret afterwards, before tension rises again. The centre notes short-term reward and longer-term harm." loading="lazy">
+  <figcaption>Tension, act, relief, regret: the loop shared by all three disorders.</figcaption>
+</figure>
+
 ## 1.3.1 Diagnosis
 
 | Disorder | Core feature | What rules it out or distinguishes it |
@@ -43,6 +48,16 @@ Urge or tension builds → act is carried out → pleasure, excitement or relief
 - Strengths: quantitative; sensitive to change; quick.
 - Weaknesses: self-report of illegal, embarrassing behaviour, so likely under-reporting; no qualitative reasons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--02-three-disorders.webp" width="900" height="556" alt="A table of kleptomania (stealing items not needed, tension then relief), pyromania (fire-setting with fascination with fire) and gambling disorder (impaired control, increasing priority, continued despite harm), with what rules each diagnosis out, such as revenge or money motives." loading="lazy">
+  <figcaption>Motive decides it: need, money or revenge rule out kleptomania and pyromania.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--03-k-sas.webp" width="900" height="561" alt="Five things the K-SAS asks about the past week: urges, time spent thinking about stealing, control, distress and how often stealing occurred, with higher totals meaning more severe symptoms. Strengths and weaknesses of the scale follow." loading="lazy">
+  <figcaption>A past-week self-report that tracks change but invites under-reporting.</figcaption>
+</figure>
+
 ## 1.3.2 Explanations
 
 | Explanation | Claim | Evaluation |
@@ -50,6 +65,16 @@ Urge or tension builds → act is carried out → pleasure, excitement or relief
 | Dopamine | Reward-pathway dopamine drives the urge and the "high" | Supported by impulsive behaviour in some patients on dopamine-boosting drugs; reductionist; cannot explain which act a person chooses |
 | Positive reinforcement | Wins and thrills reinforce the act; variable-ratio schedule resists extinction | Explains maintenance and leads to treatment; not everyone reinforced develops a disorder |
 | Miller's feeling-state theory | An intense positive feeling becomes fixed to one behaviour; later triggers activate the urge | Explains specificity; treats the cause; evidence mainly case reports |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--04-three-explanations.webp" width="900" height="597" alt="Three columns: dopamine in the reward pathway (supported by Parkinson's medication cases), positive reinforcement (variable-ratio wins, near misses, relief as negative reinforcement) and Miller's feeling-state theory (a positive feeling fixed to a behaviour). Each has an evaluation card beneath." loading="lazy">
+  <figcaption>Biology explains the reward, learning the repetition, feeling-states the specific urge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--05-feeling-state.webp" width="900" height="633" alt="Four steps: a past experience such as a big early win; an intense positive feeling becomes fixed to the behaviour, forming a feeling-state; later events trigger a need for that feeling; the urge to repeat the behaviour is activated. The Feeling-State Addiction Protocol aims to break the link." loading="lazy">
+  <figcaption>A feeling fixed to one behaviour drives the urge; therapy breaks the link.</figcaption>
+</figure>
 
 ## Key study: Grant et al. (2008)
 
@@ -63,12 +88,22 @@ Urge or tension builds → act is carried out → pleasure, excitement or relief
 | Other results | Higher-dose group: stronger baseline urges predicted response; placebo: younger age predicted better outcome |
 | Evaluation | Placebo and double-blind control; large sample; two different drugs pooled; family history mixes genes and environment |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--06-grant-2008.webp" width="900" height="919" alt="Two double-blind placebo-controlled trials, nalmefene for 16 weeks and naltrexone for 18 weeks, were pooled to give 284 people. Response meant at least a 35% reduction sustained for a month. A family history of alcoholism best predicted drug response; stronger urges predicted response at higher doses; younger age predicted placebo response." loading="lazy">
+  <figcaption>A family history of alcoholism best predicted response to the drug.</figcaption>
+</figure>
+
 ## 1.3.3 Psychological therapies
 
 | Therapy | What happens | Example study |
 |---|---|---|
 | Covert sensitisation | Imagined act paired with an imagined aversive outcome (e.g. nausea, being caught) | Glover (1985), woman with kleptomania |
 | Imaginal desensitisation | Relaxation, then imagining triggers and leaving without acting | Blaszczynski and Nower (2003), gambling |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-impulse-control-disorders--07-imagery-therapies.webp" width="900" height="615" alt="Two columns: covert sensitisation pairs an imagined urge with imagined aversive consequences such as nausea or being caught (Glover, 1985); imaginal desensitisation pairs relaxation with imagined trigger situations so relaxation replaces arousal (Blaszczynski and Nower, 2003). A note compares both with drug treatment." loading="lazy">
+  <figcaption>Covert sensitisation adds aversion; imaginal desensitisation adds relaxation.</figcaption>
+</figure>
 
 ## Key terms
 

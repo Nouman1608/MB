@@ -41,6 +41,11 @@ interactionist perspectives to named issues. Build a single grid — four perspe
 each issue (crime, social control, class, poverty, power) across the top — rather than revising each
 combination as an isolated fact.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-crime-and-stratification--02-revision-grid.webp" width="900" height="661" alt="A revision grid with the four perspectives down the side (functionalism, Marxism, feminism, interactionism) and five issues across the top (crime, social control, class, poverty, power). Interactionism applies to the crime section only. Two sample cells are filled: Davis and Moore for the functionalist view of class, and Marx on ownership for the Marxist view." loading="lazy">
+  <figcaption>Perspectives down the side, issues across the top: one grid for the whole paper.</figcaption>
+</figure>
+
 ## Section 3.5: crime and deviance — key names
 
 | Theorist | Perspective | Key idea |
@@ -52,6 +57,21 @@ combination as an isolated fact.
 | Carlen | Feminist | Women, crime and poverty |
 
 **Crime vs deviance:** not identical — deviance is broader; a deviant act need not be illegal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-crime-and-stratification--03-crime-deviance-dark-figure.webp" width="900" height="733" alt="Left: a small circle for crime, which breaks the law, sits inside a larger circle for deviance, which breaks social norms and need not be illegal. Right: a bar for all crime, where official statistics show only the lower part and the dark figure of unreported or unrecorded crime sits above it." loading="lazy">
+  <figcaption>Deviance is wider than crime, and official statistics miss the dark figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--02-merton-strain-adaptations.webp" width="900" height="946" alt="A tilted balance shows American society stressing success goals (wealth) more than legitimate means, which produces anomie for people lacking the means. A table shows the five adaptations: conformity accepts goals and means; innovation accepts goals but rejects means; ritualism rejects goals but accepts means; retreatism rejects both; rebellion replaces both." loading="lazy">
+  <figcaption>Innovation, accepting the goal but not the means, is Merton’s main explanation of crime.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--03-becker-labelling.webp" width="900" height="838" alt="Five linked steps: an act is labelled deviant by others; whether the label sticks depends on who, when, where and who sees it, with police and courts holding power; the label becomes a master status; the person accepts it as a self-fulfilling prophecy; rejection leads to a deviant career and joining an organised deviant group." loading="lazy">
+  <figcaption>For Becker, deviance is created by the label, not by the act itself.</figcaption>
+</figure>
 
 ## Section 3.6: stratification — key names
 
@@ -66,6 +86,11 @@ combination as an isolated fact.
 
 **Marx vs Weber:** do not use interchangeably — Marx centres on ownership; Weber adds status and party
 as genuinely separate dimensions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-crime-and-stratification--04-marx-weber-dimensions.webp" width="900" height="621" alt="Left: Marx’s account of stratification rests on one pillar, class based on ownership of the means of production. Right: Weber’s rests on three pillars, class, status and party." loading="lazy">
+  <figcaption>Marx centres on ownership; Weber adds status and party.</figcaption>
+</figure>
 
 ## Worked example: functionalist vs Marxist on stratification
 
@@ -86,6 +111,11 @@ COMPARISON:                       functionalism treats inequality as a
 A weak answer describes one theory then the other without ever setting them side by side to state what
 they specifically disagree about.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-crime-and-stratification--05-functionalist-marxist-stratification.webp" width="900" height="580" alt="Two sides. Davis and Moore say greater rewards for important roles make the most able compete for them, so inequality is a fair outcome of meritocratic competition. Marxists say the bourgeoisie use ownership of the means of production to exploit the proletariat, so the competition was never fair." loading="lazy">
+  <figcaption>The real disagreement is whether the competition for rewards is fair.</figcaption>
+</figure>
+
 ## Life chances and power relationships
 
 Both 3.6.3 (Life chances) and 3.6.6 (Power relationships) examine the same set of social variables —
@@ -103,6 +133,16 @@ approval, gossip, family/peer pressure). Heidensohn's work on female conformity 
 informal social control to patriarchal expectations placed on women, connecting section 3.5's social
 control content directly to feminist theory used elsewhere in the specification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-control--01-formal-informal.webp" width="900" height="623" alt="A comparison. Formal social control rests on written rules such as laws and school rules, enforced by police, courts, prisons, government, schools and employers. Informal control rests on unwritten norms, enforced by family, peers, colleagues, religion and the media through grounding, teasing or exclusion." loading="lazy">
+  <figcaption>Formal control is written and officially enforced; informal control works through everyday relationships.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-control--03-sanctions.webp" width="900" height="735" alt="A two-by-two grid. Formal positive sanctions: medals, awards, promotions, certificates. Formal negative: fines, prison, exclusion, police cautions. Informal positive: praise, a smile, being included. Informal negative: a frown, gossip, ridicule, being ignored. Below, sanctions work through anticipation, and one agent can use both kinds." loading="lazy">
+  <figcaption>Sanctions are rewards as well as punishments, formal or informal.</figcaption>
+</figure>
+
 ## Exam traps
 
 - Treating "crime" and "deviance" as identical terms.
@@ -119,6 +159,11 @@ occur and those captured in official data. Sources of this gap include victims n
 embarrassment, believing police won't act) and police discretion in recording. A strong answer
 explains why this gap means official statistics may understate the true crime rate, rather than simply
 naming the term without explaining its consequence for data reliability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-data-on-crime--03-two-filters.webp" width="900" height="662" alt="A flow from offence committed, through filter 1 (is it reported?) and filter 2 (is it recorded?), to the official statistics. Crime is lost at filter 1 if the victim does not know, care, feels afraid or distrusts the police, and at filter 2 through police discretion, lack of evidence or recording rules. Victim surveys and self-report studies each reach some of the lost crime." loading="lazy">
+  <figcaption>The dark figure is crime lost at reporting or at recording, not unsolved crime.</figcaption>
+</figure>
 
 ## Poverty as a social issue
 

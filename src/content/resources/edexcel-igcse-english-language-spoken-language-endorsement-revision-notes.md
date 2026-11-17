@@ -45,6 +45,11 @@ guide, use the
 | Outcome | Not Classified, Pass, Merit or Distinction (no marks) |
 | Effect on grade | None; reported separately on the certificate |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-spoken-language-endorsement-study-guide--14-endorsement-position.webp" width="900" height="850" alt="Written components lead to the written grade. A separate, optional Spoken Language Endorsement is reported as Pass, Merit, Distinction or Not Classified and does not change that grade. The presentation should be prepared and last no longer than 10 minutes." loading="lazy">
+  <figcaption>The optional endorsement sits beside the written grade.</figcaption>
+</figure>
+
 ## AO6: what is assessed
 
 AO6, Speaking and listening skills, has three strands:
@@ -54,6 +59,11 @@ AO6, Speaking and listening skills, has three strands:
    presentations.
 3. Use spoken Standard English effectively in speeches and presentations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-spoken-language-endorsement-study-guide--16-delivery-six.webp" width="900" height="830" alt="Six icon cards: pace (steady, slowing on important points); pause (a short silence before and after a key idea); volume and tone (reach the back of the room, vary tone); eye contact (look around the room, not at notes or floor); posture and gesture (stand upright, purposeful gestures); engagement (direct address, rhetorical questions, short examples)." loading="lazy">
+  <figcaption>Six parts of delivery.</figcaption>
+</figure>
+
 ## The general criteria (needed for every grade)
 
 To be awarded Pass, Merit or Distinction you must:
@@ -61,6 +71,11 @@ To be awarded Pass, Merit or Distinction you must:
 - be **audible**, and
 - use **spoken Standard English**, which for this assessment means being intelligible and generally using
   language appropriate to the formal setting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-spoken-language-endorsement-study-guide--18-formal-english.webp" width="900" height="870" alt="Avoid vague words such as thing and stuff, fillers such as like, you know and basically, and slang or text-speak. Aim for accurate, consistent grammar, varied sentence length, precise vocabulary and a respectful, confident tone. Formal English concerns word choice and grammar, so you need not hide your accent." loading="lazy">
+  <figcaption>What to avoid and what to aim for in formal English.</figcaption>
+</figure>
 
 ## Pass, Merit and Distinction compared
 
@@ -96,6 +111,16 @@ range of strategies; straightforward response → in some detail → perceptivel
 | 5. Questions | Predict five likely questions and prepare evidence | "Responds perceptively… elaborates" |
 | 6. Timing | Rehearse to finish within 10 minutes, leaving time for questions | Format requirement |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-spoken-language-endorsement-study-guide--15-plan-order.webp" width="900" height="900" alt="Six numbered steps: purpose (inform, explain, argue or persuade); audience (who is listening and what they know); main message in one sentence; structure (opening, two to four developed points, conclusion); evidence (facts you are sure of, a personal example, a short anecdote); notes as key words on cards. Do not use statistics you cannot verify." loading="lazy">
+  <figcaption>The six steps for planning a talk, in order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-spoken-language-endorsement-study-guide--19-five-minute-plan.webp" width="900" height="956" alt="Opening 40 s, point 1 80 s, point 2 80 s, point 3 70 s and conclusion 30 s are drawn to scale and add to 300 s, which is 5 minutes. At about 130 words a minute a script would be 650 words, too long to memorise, so use notes. If a point runs over, remove one example rather than speak faster." loading="lazy">
+  <figcaption>Planning a five-minute talk: five parts, 300 seconds.</figcaption>
+</figure>
+
 ## Worked example: answering a question at three grades
 
 Question from the audience: "Isn't banning phones in schools unfair to students who need them for
@@ -110,6 +135,11 @@ emergencies?"
   office, which is how emergencies were handled before phones."
 
 The Distinction answer acknowledges, distinguishes, refers back to the presentation and elaborates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-spoken-language-endorsement-study-guide--17-responding-to-questions.webp" width="900" height="830" alt="After a question, listen to the whole of it and pause. If you know, give a direct answer first and then a reason or example. If you do not know, say so honestly and offer what you do know. If the questioner disagrees, acknowledge the point politely, for example &quot;That is a fair concern&quot;, then explain your own view." loading="lazy">
+  <figcaption>Three routes after you have listened and paused.</figcaption>
+</figure>
 
 ## Common mistakes / traps
 

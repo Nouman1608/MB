@@ -84,6 +84,21 @@ Test yourself with the [practice questions](/resources/aqa-a-level-sociology-719
 | McKeown (1976) | Death rate | Better nutrition more than medicine | Public health and medicine also mattered |
 | Phillipson (1982) | Ageing | Older people marginalised under capitalism | Ignores active, high-income older people |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--02-functionalist-marxist.webp" width="900" height="646" alt="A grid comparing functionalist and Marxist views of the family: their main claims, key studies from Murdock, Parsons, Engels and Zaretsky, and the criticisms made of each." loading="lazy">
+  <figcaption>Functionalists see the family serving society; Marxists see it serving capitalism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--03-functional-fit.webp" width="900" height="585" alt="Top chain: for Parsons, industrial society needs a mobile workforce, so the isolated nuclear family replaces the extended family. Bottom chain: Laslett found nuclear households already common before industrialisation, suggesting they may have helped it happen." loading="lazy">
+  <figcaption>Laslett’s evidence suggests Parsons may reverse cause and effect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--06-domestic-labour.webp" width="900" height="543" alt="March of progress writers, Young and Willmott, Gershuny and Sullivan, see roles becoming more equal; feminists Oakley, Duncombe and Marsden, Edgell and Pahl find persistent inequality. Crompton and Lyonette offer cultural and material explanations." loading="lazy">
+  <figcaption>Evidence of change is set against evidence that women still do more.</figcaption>
+</figure>
+
 ## Key dates and figures
 
 | Date | Event | Why it matters |
@@ -98,6 +113,16 @@ Test yourself with the [practice questions](/resources/aqa-a-level-sociology-719
 | 2022 | No-fault divorce in effect from 6 April | Divorce without proving fault |
 
 ONS figures worth knowing: 80,057 divorces in England and Wales in 2022, the lowest since 1971; UK life expectancy at birth of 78.6 years for males and 82.6 years for females in 2020 to 2022 (national life tables).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--04-explaining-divorce.webp" width="900" height="759" alt="Five explanations lead to more divorce: legal change, secularisation and declining stigma, rising expectations of marriage, women’s financial independence, and inequality inside marriage. A note gives the 2022 total of 80,057 divorces." loading="lazy">
+  <figcaption>Legal, cultural and economic changes all help explain rising divorce.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--08-ageing-population.webp" width="900" height="758" alt="Fewer births and longer lives combine to produce an ageing population, which brings more one-person pensioner households, more care by relatives and a rising dependency ratio." loading="lazy">
+  <figcaption>Lower fertility and longer lives together reshape households and care.</figcaption>
+</figure>
 
 ## Linking to the core themes
 
@@ -114,6 +139,11 @@ ONS figures worth knowing: 80,057 divorces in England and Wales in 2022, the low
 - **Structure vs action.** Functionalism and Marxism explain families from the structure; personal life and life course approaches start from meaning and agency.
 - **Modernist vs postmodern views of diversity.** Chester sees a dominant pattern; Stacey and Giddens see choice and fluidity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--05-family-diversity.webp" width="900" height="574" alt="Three readings of family diversity. The New Right see the married nuclear family as best; Chester argues diversity is overstated; the Rapoports, Giddens, Beck and Stacey stress diversity and choice. Each has a criticism beneath it." loading="lazy">
+  <figcaption>Whether families are &quot;diverse&quot; depends on how you measure and judge it.</figcaption>
+</figure>
+
 ## Mini essay plan
 
 *Evaluate sociological explanations of the changing status of children since 1900.*
@@ -124,6 +154,11 @@ ONS figures worth knowing: 80,057 divorces in England and Wales in 2022, the low
 4. **Is childhood disappearing?** Postman and Palmer versus Opie. Link to the media and to consumption.
 5. **Comparative view.** Benedict and Punch show childhood varies across cultures; challenges a single Western model.
 6. **Judgement.** Children's legal status has risen, but control and inequality remain; weigh which view the evidence supports most.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-families-and-households--07-childhood.webp" width="900" height="625" alt="A timeline of laws that separated children from adults: the 1944 Education Act, the school leaving age raised to 16 in 1972, and the 1989 Children Act and UN Convention. Below, Postman and Palmer argue childhood is disappearing while Opie argues it persists." loading="lazy">
+  <figcaption>Laws have lengthened childhood even as media may blur its boundary.</figcaption>
+</figure>
 
 ## Quick self-test
 

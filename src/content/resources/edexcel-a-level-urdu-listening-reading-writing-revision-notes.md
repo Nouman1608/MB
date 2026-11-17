@@ -29,17 +29,37 @@ Condensed for the final weeks. For the full explanation, use the
 - **Section B — Listening, Reading and Writing** (recommended 1 hour 30 minutes) — all three skills combined in one section.
 - No translation component at all — unlike Papers 1 and 2, which each include a translation section alongside other skills (Paper 1: reading comprehension and research-question writing; Paper 2: written response to works).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-listening-reading-writing--01-paper-3-structure.webp" width="900" height="710" alt="Paper 3 lasts 2 hours 15 minutes for 60 marks. Section A, Listening Comprehension, has 30 marks and a recommended 45 minutes; Section B, Listening, Reading and Writing, has 30 marks and a recommended 1 hour 30 minutes. The time bar is drawn to scale." loading="lazy">
+  <figcaption>Two sections with equal marks, but Section B gets twice the recommended time.</figcaption>
+</figure>
+
 ## What genuinely distinguishes Paper 3
 
 Papers 1 and 2 each include a **translation** section (into English; into Urdu) alongside other skills — reading comprehension and research-question writing in Paper 1, written response to works in Paper 2. Paper 3 has **no translation component** — it combines listening with reading and writing instead, integrating all three within Section B rather than testing them separately.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-listening-reading-writing--02-three-papers-skills.webp" width="900" height="556" alt="Paper 1 tests translation into English, reading comprehension and research-question writing; Paper 2 tests translation into Urdu and written response to works; Paper 3 combines listening, reading and writing without translation. Strength at translation does not transfer automatically to listening." loading="lazy">
+  <figcaption>Paper 3 completes the four skills; translation practice alone will not prepare you for it.</figcaption>
+</figure>
 
 ## Section A technique
 
 Entirely Urdu-in, Urdu-out — no English-translation step. Prioritise **genuine listening practice** (news broadcasts, interviews, spoken narrative) over reading-based revision alone, since listening and reading comprehension speeds develop through different practice. Technique: **read the question before the audio plays** wherever the format allows, so you know what specific information to listen for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-listening-reading-writing--03-listening-registers.webp" width="900" height="470" alt="A scale from formal, news-style Urdu to conversational spoken Urdu, with news broadcasts, interviews and spoken narrative along it. Practise across speed and register, and read each question before the audio plays where the format allows." loading="lazy">
+  <figcaption>Listen across registers, and read the question first so you know what to listen for.</figcaption>
+</figure>
+
 ## Section B technique
 
 Carries the **larger share of time** (1hr 30 of 2hr 15 total) and combines three skills — allocate practice time proportionately; don't treat it as an afterthought after over-practising Section A. Practise **taking accurate notes** from a listening/reading source, then **using those notes to construct a written response** — treat note-taking and writing as one connected process, not two disconnected stages.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-listening-reading-writing--04-section-b-notes-to-writing.webp" width="900" height="494" alt="Four linked steps for Section B: listen to or read the source, take accurate notes, use those notes to build the answer, and write the response. Treating Section B as an afterthought leaves half the marks under-practised." loading="lazy">
+  <figcaption>Practise note-taking and writing as one skill, under the same timing.</figcaption>
+</figure>
 
 ## Why translation strength doesn't transfer automatically
 
@@ -48,6 +68,11 @@ Translation proficiency (Papers 1/2) and listening comprehension of spoken Urdu 
 ## Exam-day strategy
 
 Practise **full timed sittings of Paper 3 specifically**, not isolated drills — the real difficulty is managing 2hr 15min across two sections with different skill demands, not any single skill alone. In Section A you have **individual control of the recording** and "may stop, revisit and replay sections of the recording as they wish" (specification) — so a missed detail can be recovered, but each replay uses time from the recommended 45 minutes. Note where the detail fell, finish the passage, then replay just that section.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-listening-reading-writing--05-replay-control.webp" width="900" height="516" alt="For Section A: when a detail is missed, note roughly where it fell, finish the passage, then replay just that section, rather than replaying whole passages. Rehearse with pausable audio inside 45 minutes, then practise full timed sittings." loading="lazy">
+  <figcaption>Replay just the section you missed, and keep inside the 45 minutes.</figcaption>
+</figure>
 
 
 ## Worked example: reading the question before the audio plays

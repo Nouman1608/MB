@@ -57,6 +57,16 @@ never disappeared; anti-democratic parties survived.
 **Achievements:** the Bauhaus, expressionist art (such as Otto Dix's war paintings), cinema, cabaret and jazz;
 greater freedom for women, who could vote and enter more professions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-germany-1918-45--14-ger-versailles.webp" width="900" height="880" alt="Five rows each with a picture and a term. Land lost: Alsace-Lorraine, the Polish Corridor and all colonies. Army limited to 100,000 men. The Rhineland demilitarised. Article 231 blamed Germany for the war. Reparations of 132 billion gold marks, fixed in 1921. An arrow leads to the result: many Germans called it a Diktat, and the Republic was tied to national humiliation from its first year." loading="lazy">
+  <figcaption>The Treaty of Versailles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-germany-1918-45--13-ger-weimar.webp" width="900" height="1050" alt="Two columns of events in order. Crisis, 1919 to 1923: Spartacist rising crushed in January 1919; Treaty of Versailles signed June 1919; Kapp Putsch March 1920; reparations of 132 billion gold marks in 1921; Erzberger and Rathenau murdered; French and Belgian troops occupy the Ruhr in January 1923; hyperinflation and the Munich Putsch in November 1923. Recovery, 1923 to 1929: the Rentenmark in November 1923; the Dawes Plan in 1924; Locarno in 1925; entry to the League of Nations in 1926; the Kellogg-Briand Pact in 1928; the Young Plan in 1929. The recovery was real but fragile because it depended on short-term American loans." loading="lazy">
+  <figcaption>Weimar: crisis, then recovery.</figcaption>
+</figure>
+
 ## Key question 2: Why was Hitler able to dominate Germany by 1934?
 
 **Nazi ideas:** the Twenty-Five Point Programme (1920); destroy Versailles; unite all German speakers; *Lebensraum* in
@@ -78,6 +88,16 @@ frightening business and the middle class.
 German Labour Front set up (May 1933) → other parties banned (July 1933) → Night of the Long Knives → Hindenburg's
 death and the army oath.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-germany-1918-45--15-ger-nazi-votes.webp" width="900" height="940" alt="Two charts. Top, Nazi seats in the Reichstag: 12 in 1928, 107 in September 1930, 230 in July 1932 when they were the largest party, and 196 in November 1932. Unemployment was about six million in early 1932. Bottom, share of the vote: 2.6 percent in 1928, 37 percent in July 1932 and 43.9 percent in March 1933, still below the 50 percent needed for a majority." loading="lazy">
+  <figcaption>Nazi support, 1928–33.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-germany-1918-45--16-ger-seizing-power.webp" width="900" height="1006" alt="A staircase of seven steps, each indented further than the last. 30 January 1933: Hitler appointed Chancellor, not elected. 27 February 1933: Reichstag Fire, civil rights suspended. 5 March 1933: election, Nazis win 43.9 percent, no majority alone. 23 March 1933: Enabling Act lets the government make laws without the Reichstag. May to July 1933: trade unions abolished and other parties banned. 30 June 1934: Night of the Long Knives, Röhm and SA leaders killed. 2 August 1934: Hindenburg dies, Hitler combines the offices as Führer and the army swears an oath to him." loading="lazy">
+  <figcaption>Seizing power, 1933–34.</figcaption>
+</figure>
+
 ## Key question 3(a): How effectively did the Nazis control Germany?
 
 - **Police state:** SS under Himmler; Gestapo; SD security service under Heydrich; concentration camps; People's
@@ -95,6 +115,11 @@ death and the army oath.
 - **Opposition:** limited and divided; the left was crushed early; some church leaders spoke out; youth groups;
   the White Rose; the July 1944 bomb plot led by Claus von Stauffenberg.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-germany-1918-45--17-ger-totalitarian.webp" width="900" height="760" alt="A balance with a level beam. Left pan: arguments for, namely one party, terror, censorship and control of youth. Right pan: arguments against, namely limited opposition survived, the churches kept some independence, and rival Nazi leaders competed for power. The beam is level to show it is a judgement question; a strong answer reaches a judgement." loading="lazy">
+  <figcaption>Was Nazi Germany totalitarian?.</figcaption>
+</figure>
+
 ## Key question 3(b): What was it like to live in Nazi Germany?
 
 - **Young people:** Jungvolk and Jungmädel (10-14), Hitler Youth and League of German Maidens (14-18); membership
@@ -108,6 +133,11 @@ death and the army oath.
 - **The coming of war:** rationing from 1939; women and foreign workers in industry; Speer raised arms production
   from 1942; total war from 1943; bombing of cities; the **Final Solution**: mass shootings by the Einsatzgruppen in
   the East from 1941, then death camps after the Wannsee Conference (1942).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-germany-1918-45--18-ger-life.webp" width="900" height="688" alt="Four rows, each with a picture and a description. Young people: the Hitler Youth and League of German Maidens became compulsory. Women and the family: the policy of children, kitchen, church, marriage loans and the Mother’s Cross. Workers: unemployment fell but unions were lost and real wages rose little. Persecuted groups: Jews lost citizenship under the Nuremberg Laws in September 1935 and were attacked in Kristallnacht on 9 and 10 November 1938." loading="lazy">
+  <figcaption>Life in Nazi Germany.</figcaption>
+</figure>
 
 ## Key terms
 

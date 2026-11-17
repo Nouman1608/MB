@@ -36,6 +36,11 @@ A quick-reference summary. For the full method and a worked plan, use the
 - Internally assessed with the same AOs as the exams, then moderated.
 - Follow your centre's rules on length, supervision, drafts and deadlines.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-route-b-poetry-and-non-exam-assessment-study-guide--14-routeb-glance.webp" width="900" height="910" alt="Two cards. Paper 2b is an exam of 1 hour 30 minutes, worth 60 marks and 40 percent, open book, on anthology poetry and one unseen poem. The non-exam assessment is one extended response to a prose fiction text of your choice that is not on the set-text list, worth 30 marks and 20 percent. Each card has a bar showing its weighting out of 100 percent." loading="lazy">
+  <figcaption>Paper 2b is a 40% open-book exam and the non-exam assessment is 20%.</figcaption>
+</figure>
+
 ## Text rules
 
 | Rule | Check |
@@ -45,6 +50,11 @@ A quick-reference summary. For the full method and a worked plan, use the
 | Not a set text | Not on the 9275 prescribed list |
 | Quality | Similar in challenge to the Paper 1 set texts |
 | Range | Any period; British Isles canon or seminal world literature |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--01-choosing-nea-text.webp" width="900" height="703" alt="Four narrowing filters for the non-exam assessment text: a substantial whole prose fiction text, not on the 9275 prescribed list, from the canon of the British Isles or seminal world literature of any period, and similar in challenge to the Paper 1 set texts. Jane Eyre, Frankenstein and Things Fall Apart are given as examples." loading="lazy">
+  <figcaption>A good NEA novel passes every filter and rewards rereading.</figcaption>
+</figure>
 
 ## Marking at a glance
 
@@ -64,6 +74,11 @@ A quick-reference summary. For the full method and a worked plan, use the
 | 1 | 1–5 | Simple, explicit comments |
 
 From Level 3 upwards the descriptors refer to the **whole text**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--02-nea-marking.webp" width="900" height="714" alt="A bar splits the NEA’s 20% into AO1 8%, AO2 8% and AO3 4%. A six-step ladder of levels shows Level 1 (1–5 marks) as simple, narrative or descriptive comments, Level 4 (16–20) as clear understanding and Level 6 (26–30) as convincing, critical analysis. From Level 3 up, the descriptors refer to the whole text." loading="lazy">
+  <figcaption>Higher levels need a whole-text, critical response, not a few chapters.</figcaption>
+</figure>
 
 ## What the objectives ask of a coursework essay
 
@@ -105,11 +120,21 @@ you know into an argument and showing how the writer's choices create it.
 - Can your thesis be disagreed with?
 - Will the plan use evidence from **across the whole novel**?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--03-weak-to-strong-task.webp" width="900" height="601" alt="Three weak tasks, such as “Write about the main character”, are each turned into a strong “How does the writer…” or “How far…” task about duty and desire, structure and sympathy, or the ending and belonging. A strong task has a focus, invites an argument and points to the writer’s methods." loading="lazy">
+  <figcaption>Ask how the writer presents something, so the task demands an argument.</figcaption>
+</figure>
+
 ## A whole-text evidence grid
 
 Before drafting, fill a grid with three rows (beginning, middle, end) and three columns (moment,
 method, how it supports the thesis). Any empty row shows where the essay will narrow. Add a fourth
 column for context only where it explains a choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--04-nea-plan-isolation.webp" width="900" height="704" alt="A thesis that isolation is both a punishment and a source of self-knowledge leads five sections spread from the beginning to the end of the novel: opening chapters, setting, relationships, turning point and ending, which echoes the opening. Every section combines method analysis (AO2), themes and context (AO1) and an argued voice (AO3), followed by a concluding judgement." loading="lazy">
+  <figcaption>A thesis, five sections from beginning to end, and all three AOs in each.</figcaption>
+</figure>
 
 ## Annotated model paragraph
 
@@ -143,6 +168,11 @@ simply repeat adds nothing to AO3.
 4. Revise the argument.
 5. Revise the analysis.
 6. Edit for accuracy and check quotations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--05-revision-passes.webp" width="900" height="634" alt="Four steps in order: write a full first draft, revise for argument, revise for analysis, then edit for accuracy. A note says to keep notes and drafts and record sources so the work can be confirmed as your own." loading="lazy">
+  <figcaption>Fix the argument first, then the analysis, then the accuracy.</figcaption>
+</figure>
 
 ## Traps
 

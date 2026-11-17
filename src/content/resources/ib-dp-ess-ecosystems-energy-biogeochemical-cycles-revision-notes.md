@@ -67,6 +67,11 @@ overview) and [assessment revision notes](/resources/ib-dp-environmental-systems
 - Plateau held by **negative feedback**: higher density → less food per individual, more disease and
   predation → birth rate falls, death rate rises → numbers level off.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-ecosystems-energy-biogeochemical-cycles--01-j-and-s-curves.webp" width="900" height="670" alt="Two graphs of population size over time. The J-curve rises exponentially with no limit and then crashes when resources run out. The S-curve has lag, exponential and transitional phases, then a plateau at the carrying capacity K held by negative feedback." loading="lazy">
+  <figcaption>Limiting factors turn exponential growth into a plateau at carrying capacity.</figcaption>
+</figure>
+
 ### Interactions
 
 Competition (intra- and interspecific), predation, herbivory, parasitism, mutualism. For each, state
@@ -82,6 +87,11 @@ who gains and who loses, and give one example.
 5. State assumptions: closed population, marks stay on,
    marks do not affect survival, full mixing.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-ecosystems-energy-biogeochemical-cycles--02-lincoln-index.webp" width="900" height="690" alt="Three steps: 40 beetles are caught and marked, then released to mix back into the population; a week later 50 are caught, of which 8 are marked. The Lincoln index gives N = 40 × 50 ÷ 8 = 250 beetles." loading="lazy">
+  <figcaption>The share of marked animals in the second catch scales up to the whole population.</figcaption>
+</figure>
 
 ### Method in steps: quadrats
 
@@ -113,6 +123,11 @@ Rule of thumb: about 10% passes to the next level; values vary.
 
 This follows the second law of thermodynamics. Energy **flows** in one direction; matter **cycles**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-ecosystems-energy-biogeochemical-cycles--04-energy-flow-food-chain.webp" width="900" height="700" alt="Four trophic levels stacked: producers 10 000 units, primary consumers 1000, secondary 100 and tertiary 10, with about 10% passing up each step and the rest lost as heat. A side panel lists the reasons for loss and a worked example: 666 ÷ 7400 × 100 = 9.0%." loading="lazy">
+  <figcaption>About 10% passes to the next level; the rest leaves as heat, so chains are short.</figcaption>
+</figure>
+
 ### Worked reminder
 
 GPP 12 000, R 7800 (kJ m⁻² yr⁻¹) → NPP = 12 000 − 7800 = **4200 kJ m⁻² yr⁻¹**.
@@ -132,6 +147,11 @@ GPP 12 000, R 7800 (kJ m⁻² yr⁻¹) → NPP = 12 000 − 7800 = **4200 kJ m�
 A small example: producers store 3000 kJ m⁻² yr⁻¹ and herbivores store 270 kJ m⁻² yr⁻¹.
 Efficiency = 270 ÷ 3000 × 100 = **9.0%**. If you get a value over 100%, you divided the wrong way up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-ecosystems-energy-biogeochemical-cycles--03-productivity-budgets.webp" width="900" height="820" alt="Two flow diagrams with widths proportional to energy. Producers: GPP of 18 500 kJ per square metre per year splits into 11 100 lost as heat in respiration and NPP of 7400. Grasshoppers: 1850 eaten, 1110 lost in faeces, leaving GSP of 740; 592 is respired, leaving NSP of 148." loading="lazy">
+  <figcaption>Subtract respiration for NPP and NSP; for consumers, subtract faeces first.</figcaption>
+</figure>
+
 ### Pyramids
 
 | Pyramid | Measures | Can it be inverted? |
@@ -142,6 +162,11 @@ Efficiency = 270 ÷ 3000 × 100 = **9.0%**. If you get a value over 100%, you di
 
 Biomass is measured as **dry mass** (heat until constant mass). **Biomagnification**: persistent
 substances (some pesticides, mercury) become more concentrated at each higher trophic level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-ecosystems-energy-biogeochemical-cycles--05-ecological-pyramids.webp" width="900" height="635" alt="Three pyramids. Numbers can be inverted: one oak supports thousands of caterpillars. Biomass can be inverted in water: phytoplankton support a larger standing mass of zooplankton. Productivity is never inverted because each level receives only a fraction of the energy below." loading="lazy">
+  <figcaption>Only the pyramid of productivity can never be inverted.</figcaption>
+</figure>
 
 ## 2.3 Biogeochemical cycles
 
@@ -157,6 +182,11 @@ substances (some pesticides, mercury) become more concentrated at each higher tr
   coral.
 - Conversion: carbon × 44/12 = CO₂ (1 t C ≈ 3.67 t CO₂).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-ecosystems-energy-biogeochemical-cycles--06-carbon-cycle.webp" width="900" height="920" alt="Systems diagram of the carbon cycle. Storages: atmosphere, producers, consumers, oceans, soil organic matter, fossil fuels and limestone. Flows: photosynthesis, respiration, feeding, death and waste, decomposition, dissolving and release at the ocean surface, sedimentation and fossilisation, and combustion, which humans have greatly speeded up." loading="lazy">
+  <figcaption>Name the storage and the flow: humans mainly speed up combustion and remove sinks.</figcaption>
+</figure>
+
 ### Nitrogen cycle
 
 | Process | Change | Who / conditions |
@@ -170,6 +200,11 @@ substances (some pesticides, mercury) become more concentrated at each higher tr
 
 **Human impacts**: Haber-process fertiliser, leaching and eutrophication, planting legumes, drainage,
 nitrogen oxides from combustion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-ecosystems-energy-biogeochemical-cycles--07-nitrogen-cycle.webp" width="900" height="880" alt="Cycle diagram. Nitrogen gas is fixed to ammonium by bacteria, Rhizobium and the Haber process; nitrifying bacteria convert ammonium to nitrite then nitrate, which plants assimilate. Animals feed on plants, dead matter and waste are ammonified back to ammonium, denitrifying bacteria return nitrate to N₂ in waterlogged soil, and nitrate can leach into water." loading="lazy">
+  <figcaption>Nitrification needs oxygen; denitrification happens in anaerobic, waterlogged soil.</figcaption>
+</figure>
 
 ## Cycles in systems language
 

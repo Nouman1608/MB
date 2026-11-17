@@ -41,6 +41,16 @@ the [civil rights practice questions](/resources/edexcel-igcse-world-history-civ
 | 4. Other protest movements | Students, anti-war, Berkeley, SDS, hippies, Friedan, NOW, women's liberation, Schlafly |
 | 5. Nixon and Watergate | Scandal, resignation, new laws, Ford's pardon |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--08-cr-red-scare.webp" width="900" height="718" alt="A flow from top to bottom. Fear: the Soviet atomic bomb and communist victory in China in 1949 and the Korean War in 1950. 1947 to 53: the House Un-American Activities Committee and the Hollywood Ten, Alger Hiss convicted, the Rosenbergs executed, and FBI files on suspected radicals. February 1950: McCarthy claims a list of communists, using accusations, guilt by association and bullying. 1954: the televised Army–McCarthy hearings where Joseph Welch asks “Have you no sense of decency?”. December 1954: the Senate censures McCarthy." loading="lazy">
+  <figcaption>From Cold War fear and HUAC to McCarthy’s claims and his censure in 1954.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--12-cr-movements.webp" width="900" height="1178" alt="Two lanes. Students: protest against the draft and the Vietnam War; the Berkeley Free Speech Movement in 1964; Students for a Democratic Society organising anti-war protest; hippies rejecting mainstream values. Women: the Presidential Commission on the Status of Women chaired by Eleanor Roosevelt in 1961; Betty Friedan’s The Feminine Mystique in 1963; the National Organization for Women co-founded by Friedan in 1966; Roe v Wade legalising abortion in 1973; and Phyllis Schlafly leading opposition, especially to the Equal Rights Amendment." loading="lazy">
+  <figcaption>Student and women’s protest movements of the 1960s and early 1970s.</figcaption>
+</figure>
+
 ## Timeline
 
 | Date | Event |
@@ -72,6 +82,16 @@ the [civil rights practice questions](/resources/edexcel-igcse-world-history-civ
 | 1973 | War Powers Act |
 | 9 Aug 1974 | Nixon resigns; Ford pardons him in September |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--07-cr-timeline.webp" width="900" height="936" alt="A vertical timeline drawn to scale from 1945 to 1974 with three bands: Red Scare 1945 to 54, civil rights in the 1950s 1954 to 60, and protest, Black Power and Watergate 1960 to 74. Events: HUAC investigates Hollywood 1947, McCarthy claims a list of communists 1950, Brown v Board of Education 1954, McCarthy censured December 1954, Montgomery Bus Boycott from December 1955, Little Rock 1957, Greensboro sit-ins 1960, March on Washington 1963, Civil Rights Act 1964, Voting Rights Act 1965, Black Panthers founded 1966, King assassinated 1968, Roe v Wade 1973 and Nixon resigns 1974. Court rulings and laws are gold." loading="lazy">
+  <figcaption>The Red Scare, the 1950s and the protest era to scale, with court rulings and laws in gold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--13-cr-watergate.webp" width="900" height="974" alt="A flow: June 1972, burglars linked to Nixon’s re-election committee are arrested at the Democratic headquarters. Nixon tries to cover up White House involvement. Journalists and a Senate committee reveal the Oval Office tapes. In 1974 the Supreme Court orders the tapes handed over and they show obstruction of justice. On 9 August 1974, facing impeachment, Nixon resigns and Gerald Ford pardons him. Congress passed four laws to restrain the presidency: the War Powers Act 1973, the Election Campaign Act 1974, the Privacy Act 1974 and the Congressional Budget Control Act 1974." loading="lazy">
+  <figcaption>From the June 1972 break-in to Nixon’s resignation and four laws to restrain the presidency.</figcaption>
+</figure>
+
 ## Protest and the law: what caused what?
 
 | Protest | Federal response |
@@ -83,6 +103,16 @@ the [civil rights practice questions](/resources/edexcel-igcse-world-history-civ
 | Birmingham and the March on Washington | Civil Rights Act 1964 |
 | Freedom Summer and Selma | Voting Rights Act 1965 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--09-cr-fifties.webp" width="900" height="867" alt="A rising staircase of events. 1954: Brown v Board of Education, segregated schools ruled unconstitutional. 1955: Emmett Till murdered and his killers acquitted. December 1955: Rosa Parks arrested and the Montgomery bus boycott begins. 1956: the Supreme Court rules bus segregation unconstitutional. 1957: Little Rock, where federal troops protect nine black students, and the Civil Rights Act, which created a Commission but did little for black voting. The Ku Klux Klan revived in response." loading="lazy">
+  <figcaption>Court rulings, a boycott and confrontation in the South, 1954 to 1957.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--10-cr-protest-laws.webp" width="900" height="666" alt="Left, four protests: Birmingham 1963 with dogs and fire hoses on television, the March on Washington where about 250,000 people heard King, Freedom Summer 1964 when volunteers registered voters and three workers were murdered, and Selma 1965 where marchers were attacked. The first three arrows lead to the Civil Rights Act 1964, banning segregation in public places and discrimination in employment. Selma leads to the Voting Rights Act 1965, which ended literacy tests and sent federal registrars to the South." loading="lazy">
+  <figcaption>Four protests and the two laws they helped secure.</figcaption>
+</figure>
+
 ## King and Malcolm X compared
 
 | | Martin Luther King | Malcolm X |
@@ -91,6 +121,11 @@ the [civil rights practice questions](/resources/edexcel-igcse-world-history-civ
 | Method | Non-violent direct action | Self-defence "by any means necessary" |
 | Base | Southern churches, SCLC | Northern cities, Nation of Islam |
 | Strength | Won national sympathy and laws | Spoke to urban anger; inspired Black Power |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--11-cr-two-paths.webp" width="900" height="969" alt="Two columns. Martin Luther King, shown with joined hands: integration through non-violence, with the examples Birmingham 1963, the March on Washington and Selma 1965. Black Power, shown with a raised fist: black pride, self-reliance and self-defence, with the examples Malcolm X, the Watts riots 1965, Stokely Carmichael popularising Black Power in 1966, the Black Panthers founded in 1966 and the gloved fists at the 1968 Olympics." loading="lazy">
+  <figcaption>King sought integration through non-violence; Black Power stressed pride, self-reliance and self-defence.</figcaption>
+</figure>
 
 ## Key terms
 

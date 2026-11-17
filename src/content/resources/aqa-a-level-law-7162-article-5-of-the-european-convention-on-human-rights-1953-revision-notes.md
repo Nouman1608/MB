@@ -34,6 +34,11 @@ names (a) to (c)) → **procedure prescribed by law** → **safeguards** (5.2 to
 Article 5 is a **limited** right: the exceptions are written into the Article and the list is
 exhaustive. There is no general balancing test as there is for Articles 8, 10 and 11.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953--01-article-5-three-steps.webp" width="900" height="694" alt="A three-step flow. Step 1: is there a deprivation of liberty rather than a mere restriction? If not, Article 5 is not engaged. Step 2: does a ground in Article 5.1(a) to (c) apply, following a procedure prescribed by law? If not, Article 5.1 is breached. Step 3: were the safeguards in Articles 5.2 to 5.5 met? If not, there is a breach even if the arrest was lawful." loading="lazy">
+  <figcaption>Deprivation, then a listed ground, then the safeguards: fail any step and Article 5 is breached.</figcaption>
+</figure>
+
 ## Deprivation or restriction?
 
 | Case | Facts in brief | Outcome |
@@ -43,6 +48,11 @@ exhaustive. There is no general balancing test as there is for Articles 8, 10 an
 | Cheshire West (2014) | Adults lacking capacity in care settings | "Acid test": continuous supervision and control and not free to leave |
 | SSHD v JJ (2007) | Control orders with an 18-hour curfew | Deprivation of liberty |
 | Austin v MPC (2009); Austin v UK (2012) | Crowd contained at Oxford Circus for about seven hours | No deprivation: good faith, proportionate, no longer than necessary, crowd-control context |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953--02-deprivation-or-restriction.webp" width="900" height="657" alt="A scale from restriction on movement to deprivation of liberty, a matter of degree or intensity (Guzzardi). Austin, a seven-hour crowd containment at Oxford Circus, was not a deprivation. Guzzardi (confinement on an island), HL v UK (complete control in hospital) and JJ (18-hour curfew) were deprivations. The Cheshire West acid test is continuous supervision and control and not being free to leave." loading="lazy">
+  <figcaption>Degree and intensity decide it; the acid test is supervision, control and no freedom to leave.</figcaption>
+</figure>
 
 ## The three named grounds
 
@@ -57,6 +67,11 @@ person may have committed the offence (Fox, Campbell and Hartley v UK, 1990). Ho
 not enough. English law: the officer must actually suspect and have reasonable grounds; grounds may come
 from a briefing, but a bare order to arrest is not enough (O'Hara v Chief Constable of the RUC, 1997).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953--03-reasonable-suspicion.webp" width="900" height="487" alt="Reasonable suspicion has two parts: the officer must actually suspect, and there must be reasonable grounds that would satisfy an objective observer (Fox, Campbell and Hartley v UK; O’Hara). A superior’s briefing can supply the grounds, but a bare instruction to arrest cannot, and in Fox previous convictions and undisclosed intelligence were not enough." loading="lazy">
+  <figcaption>The officer must suspect, and an objective observer must agree the grounds are reasonable.</figcaption>
+</figure>
+
 ## The safeguards
 
 | Paragraph | Requirement | Authority |
@@ -66,6 +81,11 @@ from a briefing, but a bare order to arrest is not enough (O'Hara v Chief Consta
 | 5.4 | Speedy court decision on the lawfulness of detention, release if unlawful | Habeas corpus; HL v UK |
 | 5.5 | Enforceable right to compensation for unlawful detention | HRA 1998 s8 damages; false imprisonment |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953--04-safeguards-5-2-to-5-5.webp" width="900" height="570" alt="Four safeguards in order. Article 5.2: reasons promptly, in a language the person understands (Fox). Article 5.3: brought promptly before a judge; in Brogan v UK four days and six hours breached it. Article 5.4: a court decides speedily whether detention is lawful, in England by habeas corpus. Article 5.5: compensation through section 8 HRA damages and false imprisonment." loading="lazy">
+  <figcaption>Reasons, a judge, a court review and compensation.</figcaption>
+</figure>
+
 ## Derogation
 
 - Article 15 allows derogation from Article 5 in war or a public emergency threatening the life of the
@@ -73,6 +93,11 @@ from a briefing, but a bare order to arrest is not enough (O'Hara v Chief Consta
 - **A v SSHD (2004)**: emergency accepted, but indefinite detention of foreign nationals only was
   disproportionate and discriminatory; derogation order quashed; declaration of incompatibility with
   Articles 5 and 14. Parliament responded with control orders (Prevention of Terrorism Act 2005).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953--05-belmarsh-derogation.webp" width="900" height="690" alt="A v Secretary of State for the Home Department: the House of Lords accepted a public emergency after 11 September 2001, but held indefinite detention of foreign nationals only under the Anti-terrorism, Crime and Security Act 2001 disproportionate and discriminatory, quashed the derogation order and declared the power incompatible with Articles 5 and 14. Parliament replaced it with control orders, later replaced by TPIMs." loading="lazy">
+  <figcaption>An emergency was accepted, but detaining only foreign nationals went too far.</figcaption>
+</figure>
 
 ## Key terms
 

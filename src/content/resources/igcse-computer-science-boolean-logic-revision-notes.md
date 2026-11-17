@@ -53,6 +53,11 @@ NOT has one input; every other gate is limited to two inputs.
 | NOR | both inputs are 0 | OR shape with a circle at the output |
 | XOR | the inputs are different | OR shape with an extra curved line at the back |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--07-gate-symbols.webp" width="900" height="800" alt="The six gate symbols, each with inputs and output X and a one-line rule." loading="lazy">
+  <figcaption>Standard symbols for NOT, AND, OR, NAND, NOR and XOR.</figcaption>
+</figure>
+
 ## Two-input truth tables
 
 | A | B | AND | OR | NAND | NOR | XOR |
@@ -63,6 +68,11 @@ NOT has one input; every other gate is limited to two inputs.
 | 1 | 1 | 1 | 1 | 0 | 0 | 0 |
 
 NAND is the opposite of AND in every row; NOR is the opposite of OR in every row.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--08-two-input-table.webp" width="900" height="720" alt="Two-input truth table for AND, NAND, OR, NOR and XOR, with NAND and NOR shown as opposites of AND and OR." loading="lazy">
+  <figcaption>AND has one 1, OR has one 0, NAND and NOR are their opposites, XOR is 1 when inputs differ.</figcaption>
+</figure>
 
 ## Writing a logic expression
 
@@ -77,6 +87,11 @@ Use the gate names as operators and brackets to show the order: for example `X =
 
 > X = 1 only for A = 0, B = 1 and for A = 1, B = 0.
 > `X = (NOT A AND B) OR (A AND NOT B)` — this is the XOR function.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--11-sentence-to-expression.webp" width="900" height="800" alt="Phrases of the safe alarm sentence map to D, AND, NOT K, OR and P, giving S = (D AND NOT K) OR P." loading="lazy">
+  <figcaption>Key words in the sentence become gates.</figcaption>
+</figure>
 
 ## Completing a three-input truth table
 
@@ -95,6 +110,16 @@ Always list the inputs in binary counting order, 000 to 111, as Cambridge does. 
 | 1 | 1 | 0 | 1 | 0 | 1 |
 | 1 | 1 | 1 | 1 | 0 | 1 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--10-truth-table-three.webp" width="900" height="838" alt="Eight-row table for X = (A AND NOT B) OR C with working columns; X is 1 in rows 2, 4, 5, 6 and 8; row 7 is checked by hand." loading="lazy">
+  <figcaption>Fill one column at a time, left to right.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--12-xor-nor-table.webp" width="900" height="800" alt="Truth table for P = (A XOR B) AND (NOT C) and Q = (A NOR B) AND C. P is 1 in rows 3 and 5; Q is 1 only in row 2." loading="lazy">
+  <figcaption>Work each bracket first, then the final gate.</figcaption>
+</figure>
+
 ## Drawing a circuit from an expression
 
 1. Start with the innermost brackets — each bracket is one gate.
@@ -105,6 +130,11 @@ Always list the inputs in binary counting order, 000 to 111, as Cambridge does. 
 For `X = (A AND B) OR (NOT B AND C)`: input B splits — one branch to an AND gate with A, the other through a NOT gate into a second AND gate with C; both AND outputs go into an OR gate giving X. That is four gates.
 
 Do **not** simplify. If the statement gives an expression with four gates, the circuit must have those four gates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--09-circuit-to-expression.webp" width="900" height="570" alt="A circuit where B goes through NOT, A and NOT B go to AND, and that result and C go to OR. The expression is X = (A AND NOT B) OR C." loading="lazy">
+  <figcaption>Name each wire, then combine with brackets.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

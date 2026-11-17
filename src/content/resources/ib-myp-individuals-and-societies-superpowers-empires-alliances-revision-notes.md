@@ -58,6 +58,16 @@ For anything else about how your task is marked, your teacher will share the tas
 | Intergovernmental | States cooperate but keep full sovereignty |
 | Supranational | States pool some sovereignty; bodies above the state make binding rules |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--01-hard-soft-power.webp" width="900" height="520" alt="Hard power works through force or payment: armed forces, sanctions, trade deals and aid. Soft power works through attraction: culture, values, education and media, a term linked to Joseph Nye. Both are ways for a state to get the outcomes it wants." loading="lazy">
+  <figcaption>States get what they want by pushing and paying, or by attracting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--03-polarity.webp" width="900" height="683" alt="Three panels. Bipolar: the United States and the Soviet Union lead rival blocs in the Cold War. Unipolar: the United States dominates after the Soviet break-up in December 1991. Multipolar, debated today: the United States, China, the EU, India, Russia and groupings such as BRICS all hold weight." loading="lazy">
+  <figcaption>From two blocs, to one dominant power, to a debated multipolar world.</figcaption>
+</figure>
+
 ## Superpower indicators -- checklist
 
 Score a state on each; a superpower is high on most, not just one.
@@ -78,6 +88,16 @@ Percentage change = (new − old) ÷ old × 100
 
 Total GDP measures the size of an economy (and so its capacity for power). GDP per capita measures average wealth. Do not confuse them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--02-superpower-indicators.webp" width="900" height="708" alt="A superpower at the centre linked to five groups of indicators: economic, military, political, cultural, and demographic and resources, each with examples such as a permanent UN Security Council seat or a widely used currency." loading="lazy">
+  <figcaption>Superpower status needs high scores on most indicators, not just one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--04-indicator-worked-example.webp" width="900" height="545" alt="A table for two fictional states. Arvenia: GDP 3,000 billion dollars, 120 million people, 25,000 dollars per head, defence 3.0% of GDP. Kestria: GDP 1,200 billion, 20 million people, 60,000 dollars per head, defence 2.0% of GDP. Arvenia has more hard power; Kestria’s people are richer on average." loading="lazy">
+  <figcaption>A bigger economy and defence budget mean more hard power, even if people elsewhere are richer.</figcaption>
+</figure>
+
 ## Key organisations at a glance
 
 | | Founded | Members | Type | One strength | One limitation |
@@ -95,6 +115,11 @@ Extra facts worth knowing:
 - EU roots: coal and steel community (1951), Treaty of Rome (1957). Single market freedoms: goods, services, capital, people.
 - ASEAN founders: Indonesia, Malaysia, Philippines, Singapore, Thailand.
 - AU headquarters: Addis Ababa.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--07-intergovernmental-supranational.webp" width="900" height="660" alt="A scale from intergovernmental, where states keep full sovereignty and decisions need every member, to supranational, where states pool sovereignty. The UN, NATO, ASEAN and the AU sit at the intergovernmental end; the EU has strong supranational features. Below: states join for security, economic gain, influence and shared values, at the cost of freedom of action." loading="lazy">
+  <figcaption>Most organisations are intergovernmental; the EU stands out for pooling sovereignty.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -120,11 +145,21 @@ Extra facts worth knowing:
 3. **Value** -- what it can reliably show *for this question*, because of its origin/purpose.
 4. **Limitation** -- what it cannot reliably show, because of the same origin/purpose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--05-empires-rise-decline.webp" width="900" height="793" alt="Two columns. Empires rise through economic wealth, military and technological advantage, political systems, ideology and weak rivals. They decline through imperial overstretch, internal problems, external defeat and pressure from the governed, such as decolonisation after 1945." loading="lazy">
+  <figcaption>Rise and decline both have several interacting causes; rank them rather than list them.</figcaption>
+</figure>
+
 ## Worked reminders
 
 - A fictional alliance has a budget of 500 million dollars. A member pays 85 million dollars. Its share is 85 ÷ 500 × 100 = **17%**.
 - Territory falls from 3.5 to 1.4 million km². Change = (1.4 − 3.5) ÷ 3.5 × 100 = **−60%**.
 - The Soviet Union's decline combined long-term causes (economic stagnation) with short-term triggers (reforms from 1985, the events of 1989), ending in 1991.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--06-valdoria-territory.webp" width="900" height="683" alt="A line graph of fictional Valdoria’s territory: 0.8 million square kilometres in 1600, 2.0 in 1700, a peak of 3.5 in 1800, 3.1 in 1850 and 1.4 in 1900. Growth was +150% then +75%; decline was −11.4% to 1850 and −54.8% to 1900." loading="lazy">
+  <figcaption>Use the numbers and the shape, but remember the data shows when, not why.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

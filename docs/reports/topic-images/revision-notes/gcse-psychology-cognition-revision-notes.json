@@ -1,0 +1,13 @@
+{ "page": "gcse-psychology-cognition-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/aqa-gcse-psychology-8182-memory--01-encoding-and-types.webp", "after": "## Memory"},
+ {"src": "https://img.marlbridge.com/aqa-gcse-psychology-8182-memory--02-serial-position-curve.webp", "after": "### The multi-store model (Atkinson and Shiffrin)"},
+ {"src": "https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--02-c-forgetting.webp", "after": "### Interference"},
+ {"src": "https://img.marlbridge.com/aqa-gcse-psychology-8182-memory--03-war-of-the-ghosts.webp", "after": "### Bartlett — reconstructive memory"},
+ {"src": "https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--02-depth-cues.webp", "after": "## Perception"},
+ {"src": "https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--04-c-illusions.webp", "after": "## Perception"},
+ {"src": "https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--03-c-perception-theories.webp", "after": "## Perception"},
+ {"src": "https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--05-c-piaget-stages.webp", "after": "## Development"},
+ {"src": "https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--06-c-conservation-teddy.webp", "after": "## Development"},
+ {"src": "https://img.marlbridge.com/aqa-gcse-psychology-8182-development--04-fixed-growth-mindset.webp", "after": "## Development"},
+ {"src": "https://img.marlbridge.com/aqa-gcse-psychology-research-methods--12-r-ethics.webp", "after": "## Research methods"}
+] }
