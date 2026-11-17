@@ -81,6 +81,12 @@ Financial loss
 
 **Rescuers and employees:** primary victim only if in danger: *White v CC South Yorkshire* (1998). *Chadwick v BRB* (1967) explained on that basis.
 
+## Evaluation points
+
+- **Economic loss:** a clear rule that prevents indeterminate liability, but recovery turns on the chance of whether physical damage came first (*Spartan Steel*).
+- **Misstatements:** *Caparo* keeps auditors' liability within limits; *Smith v Eric S Bush* shows the law protecting a less powerful party.
+- **Psychiatric injury:** *Alcock* gives certainty, but sharp lines on time and relationship produce hard cases; reform proposed by the Law Commission in 1998 has not been enacted.
+
 ## Key terms
 
 | Term | Meaning |
