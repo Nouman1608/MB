@@ -28,16 +28,17 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
     tl(80, 407, ['compare form, structure and language of', 'your 1(a) response with the original'], { size: 15 }, 20) + t(80, 458, 'AO1, AO3', { size: 15, weight: 700, fill: C.tealDark });
   b += panel(460, 115, 400, 380) + t(660, 150, 'Section B: Question 2', { size: 19, weight: 700, anchor: 'middle' }) + t(660, 174, '25 marks, a second unseen text', { size: 15, anchor: 'middle', fill: C.muted });
   b += rect(484, 195, 352, 280, C.tealLight, C.tealDark, 2.5, 10) + t(500, 225, 'Question 2  25 marks', { size: 18, weight: 700 }) +
-    tl(500, 252, ['comment on the form, structure and', 'language of the text'], { size: 15 }, 20) + t(500, 300, 'AO1, AO3', { size: 15, weight: 700, fill: C.tealDark });
+    tl(500, 252, ['comment on the form, structure and', 'language of the text'], { size: 15 }, 20) + t(500, 300, 'AO1, AO3', { size: 15, weight: 700, fill: C.tealDark }) +
+    tl(500, 350, ['Analyse: examine in detail to show', 'meaning, identifying elements and', 'the relationship between them', '(the syllabus definition)'], { size: 15, fill: C.muted }, 21);
   b += t(450, 520, 'Each unseen text is about 550-750 words.', { size: 16, anchor: 'middle', fill: C.muted });
   const aos = [['AO1', 'reading and understanding a wide variety of texts'], ['AO2', 'writing effectively for audiences and purposes'], ['AO3', 'analysing how choices produce meaning and style']];
   aos.forEach(([a, d], i) => {
     const x = 40 + i * 280;
-    b += panel(x, 540, 260, 74) + rect(x + 12, 555, 64, 44, C.mustard, C.ink, 2, 8) + t(x + 44, 584, a, { size: 17, weight: 700, anchor: 'middle' }) +
-      tl(x + 88, 573, wrap(d, 21), { size: 15 }, 19);
+    b += panel(x, 540, 260, 86) + rect(x + 12, 561, 64, 44, C.mustard, C.ink, 2, 8) + t(x + 44, 590, a, { size: 17, weight: 700, anchor: 'middle' }) +
+      tl(x + 88, 566, wrap(d, 20), { size: 15 }, 19);
   });
   add('01-paper-1-structure',
-    svg(900, 640, 'Where the skills are tested: Paper 1', b),
+    svg(900, 650, 'Where the skills are tested: Paper 1', b),
     'Paper 1 has two 25-mark sections, each on an unseen text of about 550 to 750 words. Question 1(a), 10 marks, is a 150 to 200 word directed response (AO1, AO2); Question 1(b), 15 marks, compares it with the original (AO1, AO3); Question 2, 25 marks, comments on the form, structure and language of a second text (AO1, AO3).',
     'Question 1(b) carries more marks than 1(a), so plan the comparison while you write.',
     '## Where the skills are tested');
@@ -74,7 +75,7 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
   b += rect(486, 175, 374, 120, C.mustard, C.ink, 3) + t(673, 222, 'one effect:', { size: 17, anchor: 'middle' }) + t(673, 258, 'urgency directed at the reader', { size: 19, weight: 700, anchor: 'middle' });
   b += t(450, 395, 'Overall style: a summary judgement you can defend', { size: 19, weight: 700, anchor: 'middle' });
   ['conversational but authoritative', 'detached and clinical', 'warm, nostalgic and gently comic'].forEach((s, i) => {
-    b += rect(40 + i * 280, 415, 260, 54, C.cream, C.mustard, 2, 27) + t(170 + i * 280, 448, `"${s}"`, { size: 15, italic: true, anchor: 'middle', weight: 600 });
+    b += rect(40 + i * 275, 415, 270, 54, C.cream, C.mustard, 2, 27) + t(175 + i * 275, 448, s, { size: 15, italic: true, anchor: 'middle' });
   });
   b += panel(40, 490, 400, 90) + t(64, 525, 'Judgement without examples', { size: 17, weight: 700, fill: C.rust }) + t(64, 555, 'is assertion', { size: 16 });
   b += panel(460, 490, 400, 90) + t(484, 525, 'Examples without a judgement', { size: 17, weight: 700, fill: C.rust }) + t(484, 555, 'are a list', { size: 16 });
@@ -91,18 +92,18 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
   let b = '';
   st.forEach(([h, d], i) => {
     const x = 40 + i * 166;
-    b += rect(x, 120, 152, 170, [C.tealLight, C.tealLight, C.teal, C.teal, C.mustard][i], C.ink, 2.5) + badge(x + 76, 152, 18, String(i + 1), C.panel) +
+    b += rect(x, 120, 152, 190, [C.tealLight, C.tealLight, C.teal, C.teal, C.mustard][i], C.ink, 2.5) + badge(x + 76, 152, 18, String(i + 1), C.panel) +
       t(x + 76, 198, h, { size: 19, weight: 700, anchor: 'middle' }) + tl(x + 76, 226, wrap(d, 16), { size: 15, anchor: 'middle' }, 19);
     if (i < 4) b += arrow(x + 153, 205, x + 165, 205, { w: 3 });
   });
-  b += panel(40, 315, 820, 160) + t(64, 350, 'Linking verbs that name the type of effect', { size: 18, weight: 700 });
+  b += panel(40, 335, 820, 160) + t(64, 370, 'Linking verbs that name the type of effect', { size: 18, weight: 700 });
   ['suggests', 'implies', 'foregrounds', 'undercuts', 'positions', 'intensifies', 'softens', 'distances'].forEach((v, i) => {
-    const x = 64 + (i % 4) * 196, y = 370 + Math.floor(i / 4) * 50;
+    const x = 64 + (i % 4) * 196, y = 390 + Math.floor(i / 4) * 50;
     b += rect(x, y, 180, 40, C.tealLight, C.tealDark, 2, 20) + t(x + 90, y + 27, v, { size: 16, italic: true, weight: 600, anchor: 'middle' });
   });
-  b += t(450, 505, 'Avoid "shows" every time: it tells the examiner nothing about the type of effect.', { size: 16, anchor: 'middle', fill: C.rust, weight: 600 });
+  b += t(450, 525, 'Avoid "shows" every time: it tells the examiner nothing about the type of effect.', { size: 16, anchor: 'middle', fill: C.rust, weight: 600 });
   add('04-evidence-process',
-    svg(900, 530, 'From quotation to argument', b),
+    svg(900, 550, 'From quotation to argument', b),
     'Five steps: select the smallest piece of text that carries the effect, embed it in your own sentence, link it with a precise analytical verb, interpret it for this reader and context, and integrate it into your overall reading. Eight analytical verbs are offered instead of "shows".',
     'Select, embed, link, interpret, integrate: five skills that form one process.',
     '## Family 3: evidence and argument');
@@ -112,7 +113,7 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
 {
   let b = panel(40, 115, 820, 130, C.panel, C.rust) + t(64, 150, 'Weak', { size: 19, weight: 700, fill: C.rust }) +
     tl(64, 182, ['The writer says "the council has once again failed residents".', 'This shows the writer is angry.'], { size: 17, italic: true }, 26);
-  b += panel(40, 265, 820, 230, C.tealLight, C.tealDark) + t(64, 300, 'Strong', { size: 19, weight: 700, fill: C.tealDark });
+  let sb = t(64, 300, 'Strong', { size: 19, weight: 700, fill: C.tealDark });
   const parts = [
     ['NAMES', 'The adverbial "once again"', C.teal],
     ['EFFECT', 'turns a single decision into a pattern, so the council\'s "failure" reads as characteristic rather than accidental;', C.cream],
@@ -122,12 +123,13 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
   parts.forEach(([lab, s, fill]) => {
     const l = wrap(s, 66);
     const h = 18 + l.length * 23;
-    b += rect(64, y, 110, h, fill, C.ink, 2, 8) + t(119, y + h / 2 + 6, lab, { size: 15, weight: 700, anchor: 'middle' }) +
+    sb += rect(64, y, 110, h, fill, C.ink, 2, 8) + t(119, y + h / 2 + 6, lab, { size: 15, weight: 700, anchor: 'middle' }) +
       tl(190, y + h / 2 + 6 - (l.length - 1) * 11.5, l, { size: 16, italic: true }, 23);
     y += h + 10;
   });
+  b += panel(40, 265, 820, y - 265 + 10, C.tealLight, C.tealDark) + sb;
   add('05-weak-and-strong',
-    svg(900, 520, 'Two treatments of the same evidence', b),
+    svg(900, y + 40, 'Two treatments of the same evidence', b),
     'A weak answer quotes a whole clause and says it "shows the writer is angry". The strong version names the adverbial "once again", explains that it turns a single decision into a pattern, and links this to the article\'s wider strategy of presenting residents as long-suffering and officials as indifferent.',
     'Select two words, name the feature, explain the effect and link it to the argument.',
     '## Family 3: evidence and argument');
@@ -136,7 +138,7 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
 // 06 Same style vs different style
 {
   const col = (x, title, keep, change, fill, edge, items) =>
-    panel(x, 115, 400, 380) + rect(x + 14, 129, 372, 54, fill, edge, 2.5, 10) + t(x + 200, 164, title, { size: 20, weight: 700, anchor: 'middle' }) +
+    panel(x, 115, 400, 320) + rect(x + 14, 129, 372, 54, fill, edge, 2.5, 10) + t(x + 200, 164, title, { size: 20, weight: 700, anchor: 'middle' }) +
     rect(x + 24, 200, 170, 76, C.teal, C.ink, 2, 10) + t(x + 109, 230, 'KEEP', { size: 15, weight: 700, anchor: 'middle', fill: C.tealDark }) + t(x + 109, 258, keep, { size: 18, weight: 700, anchor: 'middle' }) +
     rect(x + 206, 200, 170, 76, C.panel, C.rust, 2, 10) + t(x + 291, 230, 'CHANGE', { size: 15, weight: 700, anchor: 'middle', fill: C.rust }) + t(x + 291, 258, change, { size: 18, weight: 700, anchor: 'middle' }) +
     tl(x + 24, 316, items, { size: 15 }, 22);
@@ -144,10 +146,10 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
     ['List the source\'s fingerprints first:', '• sentence length and type', '• register, person, tense', '• characteristic devices', 'then write new sentences that share them.']);
   b += col(460, 'Writing in a different style', 'content', 'the style', C.tealLight, C.tealDark,
     ['Fit a new form, purpose and audience.', 'The test is transformation: readers get', 'the relevant information in a form that', 'suits them, not a paraphrase of the', 'original.']);
-  b += panel(40, 515, 820, 70, C.cream, C.mustard) +
-    t(450, 556, 'Plan 1(b) while writing 1(a): each deliberate choice becomes a point of comparison.', { size: 16, weight: 600, anchor: 'middle' });
+  b += panel(40, 455, 820, 70, C.cream, C.mustard) +
+    t(450, 496, 'Plan 1(b) while writing 1(a): each deliberate choice becomes a point of comparison.', { size: 16, weight: 600, anchor: 'middle' });
   add('06-same-or-different-style',
-    svg(900, 610, 'Same style or different style?', b),
+    svg(900, 550, 'Same style or different style?', b),
     'Writing in the same style keeps the source\'s features (sentence types, register, person, tense, devices) but not its words. Writing in a different style keeps the content but changes the style to fit a new form, purpose and audience, a transformation rather than a paraphrase.',
     'Same style borrows features; different style keeps content and transforms the form.',
     '## Family 4: directed writing and comparison');
