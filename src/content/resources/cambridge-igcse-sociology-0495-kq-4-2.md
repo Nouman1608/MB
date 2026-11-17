@@ -35,6 +35,11 @@ This guide covers key question **4.2 What is the role of the family for the indi
 
 The three perspectives answer one question differently: *who benefits from the family?* Functionalists say everyone, Marxists say the capitalist class, feminists say men. Keeping that question in mind makes every comparison easier.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--01-who-benefits.webp" width="900" height="408" alt="Three answers to who benefits from the family: functionalists say everyone, through stability, socialisation and the warm bath; Marxists say the capitalist class, through inheritance, consumption and ideological control; feminists say men, through unequal labour, decision-making and violence." loading="lazy">
+  <figcaption>Keep one question in mind: who benefits?</figcaption>
+</figure>
+
 ## Functionalist views (4.2.1)
 
 Functionalists see society as a system of interdependent institutions, each meeting needs that keep society stable. The family is the foundation.
@@ -54,6 +59,16 @@ Functionalists see society as a system of interdependent institutions, each meet
 
 **Evaluation.** Functionalism explains why some kind of family exists in almost every society, and recognises its emotional importance. But it assumes all members benefit equally, ignores conflict and abuse, treats the nuclear family as the norm despite diversity, and its "warm bath" model reflects a male breadwinner whose wife provides the warmth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--02-functions-of-the-family.webp" width="900" height="603" alt="Murdock’s four functions: sexual, reproductive, economic and educational. Parsons’ two irreducible functions: primary socialisation and the stabilisation of adult personalities, the warm bath in which a stressed worker relaxes so tension does not disrupt society." loading="lazy">
+  <figcaption>Murdock lists four functions; Parsons reduces them to two.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--03-loss-of-functions.webp" width="900" height="583" alt="With industrialisation, factories took over production, schools took over formal education and the state took over health care and welfare. Parsons says the family became more specialised, not less important; Fletcher says its functions have grown." loading="lazy">
+  <figcaption>Specialised, not unimportant: the family changed its job.</figcaption>
+</figure>
+
 ## Marxist views (4.2.2)
 
 Marxists see society as divided between a ruling class that owns the means of production and a working class that sells its labour. The family serves the ruling class.
@@ -64,6 +79,11 @@ Marxists see society as divided between a ruling class that owns the means of pr
 - **Exploitation of family members.** Women's unpaid domestic labour feeds, cleans and cares for the current workforce and raises the next one at no cost to employers. A worker frustrated at work may take it out on the family rather than on the system.
 
 **Evaluation.** Marxism links family life to wider economic inequality and explains the persistence of class advantage. But it ignores family diversity, treats people as passive, struggles to explain why families in non-capitalist societies were not very different, and plays down the love and support families give. Feminists argue it focuses on class and neglects gender.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--04-marxist-family.webp" width="900" height="630" alt="Six ways the family serves capitalism around a centre: reproducing class through inheritance (Engels), acting as a unit of consumption, ideological control, a refuge from alienation (Zaretsky), exploiting women’s unpaid labour and absorbing workers’ frustration. Below, a strength and limitations." loading="lazy">
+  <figcaption>For Marxists, the family keeps capitalism running and unchallenged.</figcaption>
+</figure>
 
 ## Feminist views (4.2.3)
 
@@ -77,6 +97,16 @@ Feminists argue the family benefits **patriarchy**, the system of male power.
 - **Gendered socialisation.** Oakley described how parents shape gender through **manipulation** (encouraging "appropriate" behaviour) and **canalisation** (channelling children towards gendered toys and activities).
 
 **Evaluation.** Feminism exposes inequality and abuse that functionalism ignores, and has influenced laws on domestic violence. But it may generalise about all women, overlook families where roles are genuinely shared, and underplay how women's choices, education and employment have changed family life. Different feminists also disagree: some argue for reform within the family, others for its radical change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--05-feminist-domestic-labour.webp" width="900" height="643" alt="Bars show the dual burden (paid work plus most of the housework) and the triple shift (adding emotion work). Bott’s segregated and joint conjugal roles follow, with evidence from Oakley on housework, Edgell on decision-making and Dobash on domestic violence." loading="lazy">
+  <figcaption>Paid work plus housework is the dual burden; add emotion work for the triple shift.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--06-evaluating-three-views.webp" width="900" height="533" alt="A table of strengths and limitations for functionalism, Marxism and feminism, with a reminder to give each view an internal limitation." loading="lazy">
+  <figcaption>Every view explains something and misses something.</figcaption>
+</figure>
 
 ## Is family life positive or negative? (4.2.5)
 
@@ -96,6 +126,11 @@ A strong answer recognises that experiences differ by **gender**, **age**, **cla
 > *"First, the family carries out primary socialisation [identified]. Parents teach children language, norms and values, so they grow up able to fit into society; Parsons saw this as one of the family's two irreducible functions [developed]. Second, it has an economic function [identified]: families pool income and provide food and shelter, and as a unit of consumption they also keep the economy going through spending [developed]. Third, it stabilises adult personalities [identified]: the 'warm bath' of home life relaxes stressed workers, so tensions do not spill into wider society [developed]."*
 
 Each point is named in its first sentence and then developed with a reason linking the function to society. That is the structure the "explain three" format rewards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--07-explain-three-functions.webp" width="900" height="511" alt="Three rows, each naming a function, developing it and linking it to society: primary socialisation, the economic function, and stabilising adult personalities through the warm bath." loading="lazy">
+  <figcaption>Name each point first, then develop it and link it to society.</figcaption>
+</figure>
 
 ## Common mistakes
 

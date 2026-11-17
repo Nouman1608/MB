@@ -69,6 +69,11 @@ Each stage limits the next, so explain the links rather than listing stages.
   confusing questions, tests how long the research takes and checks the response rate, saving money
   before the full study.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--01-research-design-chain.webp" width="900" height="886" alt="Seven linked stages of research design: topic, aims, hypothesis, target population, methods, operationalisation and pilot study. Operationalisation is highlighted, with concentration measured as minutes on task before checking a phone; poor operationalisation lowers validity." loading="lazy">
+  <figcaption>Explain how each stage shapes the next, not just the list.</figcaption>
+</figure>
+
 ## Sampling (1.3.2)
 
 A **sample** is the smaller group actually studied. A **sampling frame** is the list from which it is
@@ -102,6 +107,16 @@ are easy to find — at home in daytime, willing to stop — are over-represente
 **snowball** sampling is that each person recommends people like themselves, so the sample is a
 network, not a cross-section.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--02-stratified-sample.webp" width="900" height="708" alt="A school list of 800 students is 480 girls (60%) and 320 boys (40%). A stratified sample of 50 keeps those proportions: 30 girls and 20 boys, each picked at random from their own list." loading="lazy">
+  <figcaption>A stratified sample mirrors the population’s proportions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--03-choosing-a-sample.webp" width="900" height="606" alt="Situations leading to sampling techniques. With a complete list, use random or systematic sampling, or stratified if subgroups must all appear. With no list and a hidden group, use snowball, whose sample is a network not a cross-section. When results are needed fast, use quota, which over-represents easy-to-find people." loading="lazy">
+  <figcaption>The situation, and whether a list exists, decides the technique.</figcaption>
+</figure>
+
 ## Primary methods (1.3.3)
 
 A **survey** is a study that collects the same information from many people, usually through a
@@ -134,6 +149,16 @@ from outside (non-participant), and whether people **know** they are being studi
 - **Non-participant observation** — such as recording classroom interaction on a schedule — allows
   systematic, reliable recording but cannot reveal what behaviour means to people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--04-interview-types.webp" width="900" height="637" alt="Structured, semi-structured and unstructured interviews on a line from comparison and reliability to depth and meaning, plus group interviews, which show shared views but can be dominated by louder members. Oakley’s interviews with 40 London housewives are the example." loading="lazy">
+  <figcaption>The less structured the interview, the more depth and the less easy comparison.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--05-observation-choices.webp" width="900" height="570" alt="A grid of observation types. Overt participant: Willis studied twelve working-class boys with no deception but risked the Hawthorne effect. Covert participant: Patrick joined a Glasgow gang secretly, revealing hidden behaviour but involving deception and danger. Non-participant observation records systematically but cannot reveal meanings." loading="lazy">
+  <figcaption>Join in or watch; tell people or not: each pair of choices has its own trade-off.</figcaption>
+</figure>
+
 ## Types of question (1.3.4)
 
 | Type | Example | Strength | Limitation |
@@ -145,6 +170,11 @@ from outside (non-participant), and whether people **know** they are being studi
 
 Good questions avoid **leading** wording, **double** questions ("Do you enjoy science and maths?"),
 jargon and vague terms such as "often".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--06-question-types.webp" width="900" height="778" alt="Four question types with an example, a strength and a limitation: open (own words but hard to compare), closed yes/no (quick but no explanation), multiple choice (easy to analyse but options may not fit) and scaled from strongly agree to strongly disagree (measures strength of opinion but points are read differently)." loading="lazy">
+  <figcaption>The more fixed the answer, the easier to count and the less it explains.</figcaption>
+</figure>
 
 ## Theoretical, practical and ethical issues (1.3.5 and 1.3.6)
 
@@ -174,6 +204,11 @@ Laud Humphreys' *Tearoom Trade* (1970) is widely discussed as an ethics case: he
 public toilets without their knowledge, noted their car number plates, and later visited their homes
 in disguise to interview them — raising deception, consent and privacy concerns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--07-ethics-humphreys.webp" width="900" height="616" alt="Five ethical issues: informed consent, privacy and confidentiality, deception, prevention of harm and legality. Arrows link Humphreys’ Tearoom Trade, in which he observed men secretly, noted number plates and visited homes in disguise, to consent, privacy and deception." loading="lazy">
+  <figcaption>Humphreys’ study raised consent, privacy and deception concerns.</figcaption>
+</figure>
+
 ## Model answer: Question 1(e)-style plan
 
 *Investigate how students use their free time at weekends.*
@@ -197,6 +232,11 @@ in disguise to interview them — raising deception, consent and privacy concern
 > anonymous.
 
 Every choice is followed by a reason, and the plan is not evaluated, as the syllabus asks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-3--08-research-plan-structure.webp" width="900" height="840" alt="A research plan on weekend free time laid out as choice and reason: a questionnaire for patterns and reasons, semi-structured interviews for meanings, a stratified random sample from school registers with a pilot, published leisure surveys as secondary evidence, and consent and anonymity for ethics." loading="lazy">
+  <figcaption>Choice, then reason, for every part of the plan.</figcaption>
+</figure>
 
 ## Common mistakes
 

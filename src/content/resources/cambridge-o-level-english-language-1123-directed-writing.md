@@ -48,6 +48,16 @@ The three verbs in the task description climb in difficulty.
 
 High reading marks come from the second and third verbs, not the first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--01-task-at-a-glance.webp" width="900" height="656" alt="Candidates read one or two texts of about 400 to 450 words, use, develop and evaluate their ideas, and write about 250 to 350 words as a speech, email, report, letter or article. The one compulsory question carries 25 marks: 15 for writing (W1 to W5) and 10 for reading (R3 and R5)." loading="lazy">
+  <figcaption>Read, work on the ideas, write in the set form: 15 marks for writing, 10 for reading.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--02-use-develop-evaluate.webp" width="900" height="744" alt="Three steps of rising height: use (take relevant ideas, the minimum), develop (consequences, fresh examples, connections, applying ideas to the audience) and evaluate (judge evidence, bias, strength and gaps). An example shows a road’s shorter journey times developed into more sleep for students." loading="lazy">
+  <figcaption>Using the sources is the minimum; high reading marks come from developing and evaluating them.</figcaption>
+</figure>
+
 ## How to evaluate a source
 
 The syllabus asks students to "study how influence may include facts, ideas, perspectives, opinions
@@ -66,6 +76,11 @@ Evaluation sounds natural inside your own writing: *"Although the developer clai
 'transform the town', it offers no figures to support this, and as the company building the road, it
 can hardly be called neutral."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--03-evaluate-a-source.webp" width="900" height="752" alt="Six questions for judging a source: fact or opinion, whose perspective, bias, evidence, conflict between sources and gaps, each with what to look for. An example sentence questions a developer’s unsupported claim and its neutrality." loading="lazy">
+  <figcaption>Turn the syllabus words into questions and ask them of every source.</figcaption>
+</figure>
+
 ## The five forms and their conventions
 
 | Form | Opening | Shape | Register |
@@ -79,6 +94,11 @@ can hardly be called neutral."*
 **W4**, "use register appropriate to context", is assessed here (it is not in Section B), so the form
 and audience in the question shape every sentence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--04-five-forms.webp" width="900" height="792" alt="A grid of the five forms (speech, email, report, letter, article) showing how each opens, how it is shaped and what register it uses, from a speech that addresses its audience directly to an impersonal, objective report. W4, register, is assessed in directed writing." loading="lazy">
+  <figcaption>The form and audience in the question decide the opening, the shape and the register.</figcaption>
+</figure>
+
 ## Discursive, argumentative, persuasive
 
 - **Discursive**: weigh both sides fairly and reach a judgement.
@@ -90,6 +110,11 @@ The question tells you which, sometimes by its wording ("persuade the council...
 views...", "argue for or against..."). **Consider** in the syllabus means "review and respond to given
 information".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--05-three-purposes.webp" width="900" height="630" alt="Three purposes compared: discursive writing weighs both sides and reaches a judgement, argumentative writing defends a position with reasons and answers counter-arguments, and persuasive writing moves the audience to agree or act. Each shows a cue word from a question." loading="lazy">
+  <figcaption>The question’s wording tells you whether to weigh, argue or persuade.</figcaption>
+</figure>
+
 ## Planning in ten minutes
 
 1. Read the question: form, audience, purpose, and any bullet points it asks you to cover.
@@ -98,6 +123,11 @@ information".
 3. Decide your position or judgement.
 4. Plan four or five paragraphs; for each, note the source point and your development or evaluation.
 5. Plan your opening and closing in the form's conventions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--06-ten-minute-plan.webp" width="900" height="674" alt="Five planning steps: read the question for form, audience, purpose and bullet points; read the sources twice, marking U for useful points, D for points to develop and E for points needing evaluation; decide a position; plan four or five paragraphs; plan the opening and closing." loading="lazy">
+  <figcaption>Annotate the sources U, D and E so every paragraph has something to develop or judge.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -128,6 +158,11 @@ Model paragraph (evaluating and developing):
 offered (a trial on alternate Saturdays). The register suits a letter to the council: polite,
 reasoned, direct. The closing proposal is the candidate's own, but it grows directly from the
 conflict between the two sources, which is what makes it development rather than invention.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-directed-writing--07-worked-example-moves.webp" width="900" height="928" alt="Points from a council leaflet and a shopkeeper’s letter feed a letter to the council. The model paragraph uses the safety point, evaluates the vague claim that schemes were “popular” and the shopkeeper’s complaint, then develops a consequence and a solution: consult traders and trial alternate Saturdays." loading="lazy">
+  <figcaption>Development grows from the sources’ conflict, which is what makes it development rather than invention.</figcaption>
+</figure>
 
 ## Openings and closings by form
 

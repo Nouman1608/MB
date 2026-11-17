@@ -38,6 +38,11 @@ events. That shapes the questions. You will be asked what happens and why, but a
 feel, what they want, how they see each other, and what a detail tells you that the narrator never
 says outright. All of Question 1's sub-questions are short answers; none asks for an essay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-1-comprehension--01-question-1-at-a-glance.webp" width="900" height="656" alt="Text A is a narrative of about 900 words from the twentieth or twenty-first century. Section A carries 25 marks on it: Question 1, a series of short answers, is worth 16 and Question 2 is worth 9. Question 1 tests R1, explicit meanings, and R2, implicit meanings and attitudes." loading="lazy">
+  <figcaption>Question 1 is 16 of Section A’s 25 marks, split between explicit and implicit meaning.</figcaption>
+</figure>
+
 ## Explicit and implicit: two different jobs
 
 **Explicit meaning (R1)** is on the surface. The answer is stated in the text and your task is to
@@ -52,6 +57,11 @@ describes her.
 Recognising which kind of question you face saves time and marks. Explicit questions reward precise
 location and economy. Implicit questions reward a clear inference **anchored in a detail**: the mark is
 for the conclusion, and the detail is what makes the conclusion credible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-1-comprehension--02-explicit-implicit.webp" width="900" height="644" alt="Above the surface line, explicit (R1) answers are stated in the text, as in asking what two things Amira noticed. Below it, implicit (R2) answers are inferred: what Amira does, what she avoids and how the narrator describes her lead to the conclusion that she is afraid of her uncle." loading="lazy">
+  <figcaption>Explicit answers are found; implicit answers are inferred and anchored in a detail.</figcaption>
+</figure>
 
 ## How sub-questions are typically worded
 
@@ -74,6 +84,11 @@ You will also meet phrasings such as *"in your own words"*, *"what does the writ
 | "give two..." | exactly two separate points |
 | "quote a word or phrase" | the exact words only, short and precise |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-1-comprehension--03-question-wording.webp" width="900" height="682" alt="Command words rise from identify (pick out a detail) and give (state it from the text) to explain (give reasons with evidence). Five common wordings each ask for something different: own-words meaning, an explanation in context, an inference, exactly two points, or an exact short quotation." loading="lazy">
+  <figcaption>The wording of the sub-question tells you what kind of answer earns the mark.</figcaption>
+</figure>
+
 ## Matching the answer to the marks
 
 Each sub-question shows its marks. Use them as a guide to the number of distinct points:
@@ -85,6 +100,11 @@ Each sub-question shows its marks. Use them as a guide to the number of distinct
 
 Writing more does not add marks; a long answer to a one-mark question uses time that a three-mark
 inference needs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-1-comprehension--04-marks-to-points.webp" width="900" height="650" alt="One mark needs one point, a phrase or short sentence; two marks need two separate points or a point and its explanation, made visible; three marks need three points or an inference with developed support. Writing more does not add marks." loading="lazy">
+  <figcaption>Count the marks, then give that many distinct points.</figcaption>
+</figure>
 
 ## Answering "in your own words"
 
@@ -98,6 +118,11 @@ methods:
    because he was unsure"*.
 
 Small, everyday words (the, was, house) do not need replacing. The key words of the phrase do.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-1-comprehension--05-own-words.webp" width="900" height="640" alt="Three methods for own-words answers: replace key words (reluctant becomes unwilling), unpack the phrase (her voice was brittle becomes she sounded tense, as if she might break down) and change the grammar (his hesitation becomes he paused because he was unsure)." loading="lazy">
+  <figcaption>Re-express the key words; leave the everyday ones alone.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -140,6 +165,11 @@ the action (*starts to move, holds back*). "He is nervous" alone would earn one 
 
 *Commentary:* two separate points from different parts of the extract. The slip "seemed to grow
 heavier" is not about weight: the image shows his worry growing, which supports the first point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-1-comprehension--06-worked-example.webp" width="900" height="758" alt="Four details from the Daniel extract each feed one sub-question: the late bus answers (a) for one mark; thirty heads turning is explained in own words for (b); letting go of the railing and taking hold again shows hesitation for (c); and the unsigned permission slip supports one of two reasons in (d)." loading="lazy">
+  <figcaption>Each mark-earning answer is anchored in one precise detail of the text.</figcaption>
+</figure>
 
 ## Common mistakes
 

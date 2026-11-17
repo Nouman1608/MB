@@ -35,6 +35,11 @@ The content falls into three stages, and questions are normally built on one sta
 
 Check the exact wording of each heading, and the time limit on the post-independence stage, against the IB History guide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-8--01-three-stages.webp" width="900" height="567" alt="Three linked stages: origins and rise (nationalism, grievances, weakening wars), methods and reasons for success (violent and non-violent methods, mobilization, leaders, external factors) and challenges after independence. Below, Algeria and Ghana fail as a pair because both are in Africa and the Middle East; India and Ghana pass." loading="lazy">
+  <figcaption>Origins, methods, aftermath: and pairs from different regions.</figcaption>
+</figure>
+
 ## Key ideas
 
 ### Nationalism has to be explained, not assumed
@@ -74,6 +79,31 @@ New states inherited borders, economies and institutions shaped by empire.
 - **Ghana:** the Volta River (Akosombo Dam) project; falling cocoa prices; the Preventive Detention Act (1958); a one-party state (1964); Nkrumah overthrown in a coup (1966).
 - **Algeria:** the departure of most European settlers in 1962 removed skilled workers; reprisals against the *harkis* who had fought for France; Ben Bella overthrown by Boumediene (1965).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-8--02-independence-timeline.webp" width="900" height="719" alt="A timeline from 1940 to 1965: India (Quit India 1942, independence 15 August 1947), Vietnam (independence declared 2 September 1945, Geneva Accords 1954), Ghana (Convention People's Party 1949, Positive Action 1950, independence 6 March 1957) and Algeria (armed struggle from 1 November 1954, independence July 1962). A note adds the Latin American wars after Napoleon's invasion of Spain in 1808." loading="lazy">
+  <figcaption>Most of these movements reached their goal within twenty years of 1945.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-8--03-war-factor.webp" width="900" height="487" alt="Three chains. India: the Second World War, Quit India and British dependence on Indian resources lead to Labour's 1945 commitment to withdraw. Vietnam: Japanese occupation breaks French authority, independence is declared in 1945, and French defeat in 1954 leads to Geneva. Latin America: Napoleon's invasion of Spain in 1808 creates a crisis of legitimacy and the independence wars." loading="lazy">
+  <figcaption>War weakened the ruler and opened the door to independence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-8--04-methods-spectrum.webp" width="900" height="611" alt="A spectrum from non-violent to armed struggle places India and Ghana near the non-violent end and Algeria and Vietnam near the armed end, each with its methods. Below, Britain under Attlee was willing to leave India, while France fought in Indochina and Algeria, which was legally part of France with around a million European settlers." loading="lazy">
+  <figcaption>Methods sit on a spectrum, and the ruler's response shaped what worked.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-8--05-leaders.webp" width="900" height="585" alt="Two rows. Gandhi turned Congress into a mass movement and was necessary, but not decisive, because the timing of 1947 owed more to British weakness and Attlee's decision. Nkrumah founded the CPP, won the 1951 elections from prison and secured power by 1957: necessary and decisive." loading="lazy">
+  <figcaption>Leadership was necessary in both cases, decisive only in the Gold Coast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-8--06-after-independence.webp" width="900" height="580" alt="Three columns of post-independence challenges. India: partition violence, Kashmir and Hyderabad, the 1950 constitution, linguistic states (1956) and Five-Year Plans. Ghana: the Volta River project, falling cocoa prices, preventive detention (1958), a one-party state (1964) and the 1966 coup. Algeria: the settlers' departure in 1962, reprisals against the harkis and Boumediene's 1965 coup." loading="lazy">
+  <figcaption>Independence brought new political, economic and territorial problems.</figcaption>
+</figure>
+
 ## Worked example: an annotated model introduction
 
 **Question:** "Evaluate the importance of leadership in the success of **two** independence movements, each chosen from a different region."
@@ -86,6 +116,11 @@ New states inherited borders, economies and institutions shaped by empire.
 - It uses **precise evidence** for both cases in the introduction.
 - It gives a **comparative thesis** with a judgement of degree ("necessary" against "decisive").
 - It signals the **counter-argument** (structural factors, British policy) that the body will weigh.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-8--07-model-introduction.webp" width="900" height="620" alt="Four numbered features of the model introduction: it defines the issue, gives precise evidence for both cases, states a comparative thesis judging degree (necessary against decisive) and signals the counter-argument about British weakness and policy." loading="lazy">
+  <figcaption>Define, evidence, judge by degree, and signal the counter-argument.</figcaption>
+</figure>
 
 ## Common mistakes
 

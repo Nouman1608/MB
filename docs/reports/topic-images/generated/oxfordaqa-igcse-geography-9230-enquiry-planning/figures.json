@@ -1,0 +1,56 @@
+[
+ {
+  "file": "oxfordaqa-igcse-geography-9230-enquiry-planning--01-aim-question-hypothesis.webp",
+  "width": 900,
+  "height": 705,
+  "after": "## Aims, questions and hypotheses",
+  "alt": "Four levels of an enquiry with a river example: the aim, to investigate how a river changes downstream; the enquiry question on how width and depth change; the hypothesis that width increases downstream; and sub-questions on velocity and pebble size.",
+  "caption": "Narrow a general aim into a question or a testable hypothesis.",
+  "bytes": 121544
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-enquiry-planning--02-suitable-question.webp",
+  "width": 900,
+  "height": 687,
+  "after": "## What makes a question or hypothesis suitable",
+  "alt": "Seven factors for a suitable enquiry question: geographical, testable, specific, manageable, safe and accessible, likely to show variation, and supported by secondary data. “What is the town like?” fails; “Do pedestrian numbers decrease with distance from the centre of a named town?” works.",
+  "caption": "Name a place, a measurable variable and a pattern you expect to find.",
+  "bytes": 120920
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-enquiry-planning--03-theory-prediction.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## The theory or concept behind the enquiry",
+  "alt": "A chain from theory to hypothesis, data and conclusion, where the conclusion compares results with the prediction. Below, five examples: river channel change, land use in a town, sand dune succession, environmental quality and microclimate, each with its theory and expected pattern.",
+  "caption": "The theory gives a reason to expect a pattern; the conclusion tests it.",
+  "bytes": 141092
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-enquiry-planning--04-background-research.webp",
+  "width": 900,
+  "height": 714,
+  "after": "## Background research from secondary sources",
+  "alt": "Four secondary sources, large-scale maps, census and local authority data, GIS and satellite imagery, and previous studies or websites, feed background research that helps choose sites, refine the hypothesis and understand the context, with every source recorded in a bibliography. Below, primary evidence gives local detail and secondary evidence gives comparison.",
+  "caption": "Research first, record every source, and combine primary with secondary evidence.",
+  "bytes": 128768
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-enquiry-planning--05-risk-assessment.webp",
+  "width": 900,
+  "height": 666,
+  "after": "## Risks and how to reduce them",
+  "alt": "A risk assessment table for river, coast, town and any setting. Each risk, such as fast water, incoming tides, falling rocks, traffic, approaching strangers or bad weather, is matched with specific precautions such as checking river levels or tide times, staying on pavements and working in pairs.",
+  "caption": "Every risk needs a specific precaution that matches it.",
+  "bytes": 134466
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-enquiry-planning--06-worked-plan.webp",
+  "width": 900,
+  "height": 726,
+  "after": "## Worked example: a plan in outline",
+  "alt": "A schematic sketch map of one main road running 2 km from the town centre to the edge of town, with five sites at regular intervals passing older, denser housing and then newer, lower-density housing and open space. Below, the plan’s hypothesis, theory, location, background research and risks.",
+  "caption": "A good plan names the place, the variable, the theory and the expected pattern.",
+  "bytes": 114704
+ }
+]

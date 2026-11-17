@@ -31,6 +31,11 @@ The specification content is identical in both papers, but an extended Paper 2 a
 
 The specification also says students must use examples from **their own society or a society they know about** in selected extended responses, so prepare at least one local example for each section below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--01-applying-a-method.webp" width="900" height="583" alt="A general point, “questionnaires are cheap”, becomes application when it names the topic, the group and the issue: a questionnaire about income may suffer from social desirability because people under-report or exaggerate earnings." loading="lazy">
+  <figcaption>Name the topic, the group and the issue in every evaluation point.</figcaption>
+</figure>
+
 ## Researching differences and inequalities (3.2.1)
 
 ### Operationalising social class
@@ -61,6 +66,21 @@ Comparing a person's class with their parents' (intergenerational mobility) can 
 
 Sociologists often find it easier to study the poor than the wealthy. Elites can refuse access, employ gatekeepers and lawyers, and present a polished public image. This is a **practical** issue with **theoretical** consequences: if the powerful are under-researched, our picture of inequality is incomplete.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--02-operationalising-class.webp" width="900" height="648" alt="Social class can be operationalised by an occupational scale such as NS-SEC, by income and wealth, or by subjective class. Each has validity problems: occupational scales miss people without jobs and the very rich, income data may be refused or inaccurate, and subjective class captures identity rather than position." loading="lazy">
+  <figcaption>How class is measured changes who ends up in which class.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--03-intersectionality-sampling.webp" width="900" height="646" alt="An illustrative sample of 200 dots in which only a handful belong to one combined subgroup, such as working-class women from one minority group: too few to analyse reliably. So researchers need large, stratified or multistage samples, then qualitative interviews to show how combined disadvantages are experienced." loading="lazy">
+  <figcaption>Combined groups get small fast, so samples must be large and stratified.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--04-researching-mobility.webp" width="900" height="508" alt="Retrospective questions ask people to look back, for example at a parent’s job when they were 14: cheaper but reliant on memory. Longitudinal cohort studies, such as the National Child Development Study of people born in 1958, follow the same people forward: more valid but expensive, and participants drop out." loading="lazy">
+  <figcaption>Look back cheaply, or follow forward validly but at a cost.</figcaption>
+</figure>
+
 ## Researching socialisation and social control (3.2.2)
 
 ### Children and young people
@@ -79,6 +99,11 @@ Erving Goffman's *Asylums* (1961) was based on fieldwork in a large psychiatric 
 
 Shoshana Zuboff's work on **surveillance capitalism** describes how technology companies collect vast amounts of behavioural data. For researchers, online data, such as public posts, can show patterns of behaviour on a huge scale. But it raises ethical questions, because users rarely give informed consent to being studied, and representativeness problems, because platform users differ from the whole population.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--05-researching-children.webp" width="900" height="509" alt="Three ethical issues in researching children: informed consent from child and parent or guardian, the power imbalance between adult and child, and wellbeing if harm is revealed. Practical alternatives include observation in schools or play settings, short group interviews and simple activities." loading="lazy">
+  <figcaption>Consent, power and wellbeing shape every study involving children.</figcaption>
+</figure>
+
 ## Measuring and researching crime (3.2.2.4)
 
 The specification names **official/police statistics, self-report studies and victim surveys**. In Paper 2, the skill is matching the measure to the **type of crime**.
@@ -93,6 +118,11 @@ The specification names **official/police statistics, self-report studies and vi
 | State crime | Documents, journalism, testimony | The state controls official records | Access is restricted and evidence may be hidden |
 
 Two points earn high marks. First, every measure is **socially constructed** to some degree: what counts depends on how crime is defined and recorded. Second, **triangulating** several measures gives the most valid picture.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--06-matching-crime-measures.webp" width="900" height="713" alt="Six crime types matched to the best measure and the reason: burglary and vehicle crime to police statistics with victim surveys; domestic abuse to confidential victim surveys; drug use to self-report studies; corporate crime to court and regulatory records; cybercrime to victim surveys and bank data; state crime to documents, journalism and testimony." loading="lazy">
+  <figcaption>The best measure depends on the type of crime.</figcaption>
+</figure>
 
 ## Worked example: an extended response plan
 
@@ -111,6 +141,11 @@ Methods fix  confidential self-completion section; trained interviewers;
 Judgement    more useful than police statistics for hidden, gendered
              crimes, but still an underestimate
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-research-methods-paper2--07-victim-survey-plan.webp" width="900" height="608" alt="A four-part plan on victim surveys and gender: strengths (hidden crime such as domestic abuse, large samples, trends), limitations (trust, unreachable victims, memory, not defining experiences as crime), methods fixes (confidential self-completion, trained interviewers, triangulation) and a judgement." loading="lazy">
+  <figcaption>Strengths, limitations, a methods fix, then a judgement.</figcaption>
+</figure>
 
 ## Common mistakes
 

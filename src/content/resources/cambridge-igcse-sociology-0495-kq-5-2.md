@@ -33,6 +33,11 @@ This guide covers key question **5.2 What are the roles and functions of educati
 
 Notice that **setting by ability** and the **hidden curriculum** appear under more than one view. The same school practice is interpreted differently by each perspective, and showing that contrast is an effective way to evaluate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--01-one-practice-two-readings.webp" width="900" height="566" alt="Three school practices read two ways. Setting: efficient teaching for functionalists, class sorting for Marxists. Hidden curriculum: conformity to shared norms versus the correspondence principle. Testing: a fair common measure versus the myth of meritocracy." loading="lazy">
+  <figcaption>The same practice means different things to each perspective.</figcaption>
+</figure>
+
 ## The functionalist view (5.2.1)
 
 Functionalists see education as meeting society's needs and benefiting everyone.
@@ -52,6 +57,16 @@ Functionalists see education as meeting society's needs and benefiting everyone.
 
 **Strengths and limitations.** Functionalism explains why societies invest heavily in schooling and why qualifications matter for jobs. But evidence of persistent class, ethnic and gender gaps in achievement suggests education is not meritocratic; it ignores conflict and pupil resistance; and it assumes the values schools teach are shared by everyone rather than those of powerful groups.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--02-functionalist-roles.webp" width="900" height="515" alt="Parsons saw school as the bridge from the family, where children are judged by particularistic standards, to wider society, where universalistic standards apply and status is achieved. Below, the four roles: socialisation, social control, economic and selective." loading="lazy">
+  <figcaption>School moves children from family standards to the same standards for everyone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--03-meritocracy-or-myth.webp" width="900" height="616" alt="Two chains. Functionalist: ability and effort, measured by standardised tests and setting, lead to role allocation and social mobility. Marxist: class background predicts outcomes, belief in merit disguises this, those who fail blame themselves, and inequality looks fair." loading="lazy">
+  <figcaption>Functionalists see a meritocracy; Marxists see a myth that legitimates inequality.</figcaption>
+</figure>
+
 ## The Marxist view (5.2.2)
 
 Marxists argue education **reproduces class inequality** and legitimates it, so that the working class accepts its position.
@@ -64,6 +79,16 @@ Marxists argue education **reproduces class inequality** and legitimates it, so 
 - **Setting by ability.** Working-class pupils are more often placed in lower sets, where expectations and exam entry levels may be lower, limiting their chances.
 
 **Strengths and limitations.** Marxism explains why class gaps persist despite free schooling and links education to the economy. But Paul Willis (1977), studying working-class "lads", showed that pupils actively resist school rather than passively accepting it, which challenges the idea of simple correspondence. Marxism neglects gender and ethnicity, and it underplays the real social mobility that some working-class pupils achieve.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--04-correspondence-principle.webp" width="900" height="538" alt="School mirrors the workplace: obeying teachers corresponds to obeying bosses, and working for grades rather than interest corresponds to working for wages. Bowles and Gintis call this the correspondence principle; Willis’s lads, who resisted school, challenge it." loading="lazy">
+  <figcaption>For Marxists, school rehearses the obedience that work demands.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--05-cultural-capital.webp" width="900" height="496" alt="Middle-class cultural capital learned at home is rewarded at school, so success looks like merit and class advantage is disguised. Poorer families also have less digital technology, study space, tutoring and educational trips, and working-class pupils are more often placed in lower sets." loading="lazy">
+  <figcaption>Cultural and material advantages from home are turned into school success.</figcaption>
+</figure>
 
 ## The feminist view (5.2.3)
 
@@ -78,6 +103,16 @@ Feminists argue education has helped **perpetuate gender inequality**, although 
 
 **Strengths and limitations.** Feminism draws attention to inequalities others ignore and has influenced policies to widen girls' access and subject choice. But in many countries girls now outperform boys at school level, which suggests the picture has changed; the view may underplay class and ethnic differences between girls; and it can overlook the problems some boys face.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--06-feminist-view.webp" width="900" height="628" alt="A staffroom where senior leaders are more likely to be men and most teachers, especially in primary schools, are women, teaching pupils that men lead and women care. Six mechanisms follow: role models, subject choice, teacher expectations (Spender), peer groups, access to education and a gendered curriculum." loading="lazy">
+  <figcaption>Who leads, who teaches and what is expected all carry gender messages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--07-evaluating-the-views.webp" width="900" height="426" alt="Each view with one strength and three limitations. Functionalism explains investment in schooling but ignores persistent gaps and resistance. Marxism explains lasting class gaps but neglects resistance, gender, ethnicity and mobility. Feminism exposes gender inequality but faces girls now outperforming boys." loading="lazy">
+  <figcaption>The syllabus asks for strengths and limitations of every view.</figcaption>
+</figure>
+
 ## Worked example: an annotated part (e) answer extract
 
 *Discuss the Marxist view of the role of education.*
@@ -85,6 +120,11 @@ Feminists argue education has helped **perpetuate gender inequality**, although 
 > *"Marxists argue that education reproduces class inequality [states the view]. Bowles and Gintis's correspondence principle suggests the hidden curriculum prepares working-class pupils for obedient work, because following school rules mirrors following a boss's orders [named evidence and mechanism]. However, Willis found the 'lads' rejected school rules, which suggests pupils are not simply shaped by schooling [evaluation]."*
 
 Two further developed points, such as cultural capital and the myth of meritocracy, complete the three required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--08-discuss-marxist-view.webp" width="900" height="553" alt="A developed point in three steps: state the Marxist view, give Bowles and Gintis’s correspondence principle as evidence and mechanism, then evaluate with Willis’s lads who rejected school rules." loading="lazy">
+  <figcaption>View, evidence with mechanism, evaluation: then repeat twice.</figcaption>
+</figure>
 
 ## Common mistakes
 

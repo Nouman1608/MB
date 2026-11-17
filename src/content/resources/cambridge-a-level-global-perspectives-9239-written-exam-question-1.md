@@ -37,6 +37,11 @@ The AO1 skills named for Component 1 include "identify evidence", "identify and 
 
 The syllabus does not print how the five marks are divided between parts, and the structure can vary between papers. Use the specimen and past papers your teacher provides to see the range of short questions that have been set. On timing, five marks out of 45 is about one-ninth of the paper, which is roughly ten minutes of the 90, although the careful first reading of both sources also serves Questions 2 and 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--01-question-1-in-paper.webp" width="900" height="587" alt="Question 1, worth 5 marks, asks short questions on both sources; Question 2 works on the evidence in one source; Question 3 is an essay comparing both. Five of the paper’s 45 marks is about one-ninth, roughly 10 of the 90 minutes." loading="lazy">
+  <figcaption>About ten minutes, but the close reading you do here feeds Questions 2 and 3.</figcaption>
+</figure>
+
 ## Skill 1: classifying statements
 
 The Critical Path asks learners to "differentiate between fact, argument, opinion, rant, speculation, prediction, explanation, hypothesis, account and belief". Short questions often turn on this kind of precision. The definitions below are working definitions for study; the syllabus lists the terms without defining each one.
@@ -59,6 +64,16 @@ Two distinctions cause most errors:
 - **Argument or explanation?** Both use "because". An argument tries to persuade you to accept a conclusion ("Cities should plant more trees because shade cools streets"). An explanation accounts for something already accepted as true ("The street is cooler because the trees shade it"). Ask: is the writer trying to make me believe the final claim, or telling me why it is so?
 - **Fact or claim of fact?** "Air temperature in the park was 3 °C lower than on the main road" is a claim of fact: it is the kind of statement that could be checked. Calling it a fact does not mean it is true. If a question asks you to identify a fact, choose a checkable statement; if it asks whether you should accept it, you are moving into evaluation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--02-statement-types.webp" width="900" height="770" alt="Ten statement types with a working definition and typical signal words: fact, opinion, argument, rant, speculation, prediction, explanation, hypothesis, account and belief. Argument and explanation are highlighted because both use “because”." loading="lazy">
+  <figcaption>Classify a sentence by what it is doing, using the signals as clues, not proof.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--03-two-distinctions.webp" width="900" height="672" alt="An argument uses “because” to persuade you of a conclusion, while an explanation uses it to say why something accepted is so. A checkable statement about park temperature is a claim of fact: it can be identified as a fact-type statement, but whether to accept it is a matter of evaluation." loading="lazy">
+  <figcaption>Persuading or explaining? Checkable or checked? Ask both before you label.</figcaption>
+</figure>
+
 ## Skill 2: locating the parts of an argument
 
 The syllabus vocabulary is "conclusions, reasons (premises), assumptions (stated and unstated), assertions (and counter-assertions) and supporting evidence". In a short answer, the mark usually goes to finding the right sentence and naming its role.
@@ -71,6 +86,11 @@ The syllabus vocabulary is "conclusions, reasons (premises), assumptions (stated
 
 When a question says "identify", quote or closely paraphrase the source. When it says "explain", add one sentence on how the part works in the argument.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--04-argument-parts.webp" width="900" height="645" alt="An argument map: reasons and supporting evidence lead to an intermediate conclusion, which supports the main conclusion. An unstated assumption is a missing step the argument needs, and a counter-assertion is a view raised in order to be answered." loading="lazy">
+  <figcaption>Find the claim everything else supports, then name the role of each other sentence.</figcaption>
+</figure>
+
 ## Skill 3: relating the two sources
 
 Short questions may ask you to compare or contrast. The syllabus defines **compare** as "identify/comment on similarities and/or differences" and **contrast** as "identify/comment on differences". A precise comparison names the point of comparison, then states each source's position on it:
@@ -78,6 +98,11 @@ Short questions may ask you to compare or contrast. The syllabus defines **compa
 > "Both sources accept that streets are hotter than parks (point of agreement), but Source A treats tree planting as the solution, while Source B argues that the cost falls unfairly on poorer districts (point of difference)."
 
 Avoid comparing at the level of topic ("both are about cities"). A short answer earns credit for a specific, sourced similarity or difference.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--05-precise-comparison.webp" width="900" height="659" alt="A comparison names a point of comparison, then states Source A’s and Source B’s position on it, as in the example where both accept streets are hotter than parks but differ on tree planting and fairness. Comparing at topic level, “both are about cities”, earns little." loading="lazy">
+  <figcaption>Name the point, then each source’s position on it.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -98,6 +123,11 @@ The two short sources below are original and written for this guide.
 
 The answer to (c) names the basis of each perspective, not just its conclusion. That is what "analyse and compare perspectives" asks for, even in a short answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--06-worked-example.webp" width="900" height="736" alt="Source A’s three sentences labelled: the 8 °C temperature figure is a claim of fact used as evidence, the plan to plant 20,000 trees by 2030 is the main conclusion and a prediction, and the claim that trees are the cheapest option is an unsupported assertion. Source B’s perspective differs by judging who benefits first." loading="lazy">
+  <figcaption>Three sentences, three different kinds of statement: that precision earns the marks.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Writing too much.** A short-answer part rewards precision. A paragraph of discussion where a sentence was needed costs time you need for Question 3.
@@ -113,6 +143,11 @@ The answer to (c) names the basis of each perspective, not just its conclusion. 
 - Match the command word. **Identify** means name, select or recognise. **Explain** means set out reasons or make relationships evident. **Compare** and **contrast** need both sources in the same sentence.
 - Use the source's words for identification and your own words for explanation.
 - Keep to time. Move on once each part has a precise answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-1--07-command-words.webp" width="900" height="603" alt="Four command words with what each asks: identify means name, select or recognise, using the source’s words; explain means set out reasons, in your own words; compare covers similarities and differences, contrast only differences, both naming the two sources together." loading="lazy">
+  <figcaption>Identify in the source’s words; explain in your own.</figcaption>
+</figure>
 
 ## Next steps
 

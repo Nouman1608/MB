@@ -43,6 +43,11 @@ their lives, and the importance of their actions in the history and beliefs of I
 The caliphs' rule after 632 belongs to Paper 2 Topic 3, not here. For this topic, write about Abu
 Bakr, Umar, Uthman and Ali only up to the Prophet's death.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--01-topic-and-questions.webp" width="900" height="590" alt="Paper 1 Topic 4 covers three groups: the Prophet's (pbuh) wives, his descendants including the Shi'a Imams, and his leading Companions. The four caliphs are studied only up to 632. Questions have a 10-mark part (a) on named people and a 4-mark part (b) on what their actions mean." loading="lazy">
+  <figcaption>Facts about named people for 10 marks; their meaning for Muslims for 4.</figcaption>
+</figure>
+
 ## Who were the Prophet's wives?
 
 Learn each wife with one or two facts that make her distinctive. The Qur'an calls them "Mothers of the
@@ -67,6 +72,16 @@ Mariya al-Qibtiyya, sent from Egypt, was the mother of his son Ibrahim.
 **Why the marriages matter (part (b) material):** several gave security to widows; some joined tribes
 and families together and helped peace; A'isha and Umm Salama preserved his teaching, especially on
 family and private life; and his conduct as a husband is a model for Muslim marriage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--02-the-wives.webp" width="900" height="832" alt="Eleven wives, each with a distinctive fact, from Khadija, the first to accept Islam, and A'isha, who narrated many Hadiths, to Maymuna, his last marriage in 7 AH. Mariya al-Qibtiyya was the mother of his son Ibrahim. The Qur'an calls the wives &quot;Mothers of the Believers&quot;." loading="lazy">
+  <figcaption>Learn each wife with one or two facts that make her distinctive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--03-why-the-marriages-matter.webp" width="900" height="576" alt="Four reasons the marriages matter: security for widows, joining tribes and families in peace, preserving his teaching through A'isha and Umm Salama, and a model of conduct for Muslim marriage." loading="lazy">
+  <figcaption>Four reasons that turn facts about the wives into a part (b) answer.</figcaption>
+</figure>
 
 ## Who were his descendants?
 
@@ -93,6 +108,16 @@ community passed by God's appointment through the Prophet's family, beginning wi
 11. Hasan al-Askari
 12. Muhammad al-Mahdi, believed to be in occultation and to return
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--04-descendants.webp" width="900" height="716" alt="A text family tree. With Khadija: al-Qasim and Abdullah, who died young, and Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman, called Dhu al-Nurayn) and Fatima (married Ali). With Mariya: Ibrahim, who died as an infant. Grandchildren include Hasan and Husayn, sons of Fatima, and Umama, daughter of Zaynab." loading="lazy">
+  <figcaption>All his sons died young; his line continued through his daughters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--05-twelve-imams.webp" width="900" height="760" alt="The twelve Imams in order, from Ali ibn Abi Talib, Hasan and Husayn to Hasan al-Askari and Muhammad al-Mahdi. Husayn was martyred at Karbala; Muhammad al-Mahdi is believed to be in occultation and to return. Twelver Shi'a Muslims believe leadership passed by God's appointment through the Prophet's family." loading="lazy">
+  <figcaption>Know the twelve names in order, with more detail on Ali, Hasan and Husayn.</figcaption>
+</figure>
+
 ## Who were the Ten Blessed Companions?
 
 They are the ten whom the Prophet (pbuh) named in one Hadith as promised paradise: **Abu Bakr, Umar,
@@ -107,6 +132,11 @@ caliphs:
 - **Sa'd ibn Abi Waqqas:** an early convert and a famous archer.
 - **Sa'id ibn Zayd:** husband of Umar's sister Fatima; Umar's conversion took place in their house.
 - **Abu Ubayda:** called "the trustworthy one of this community" by the Prophet (pbuh).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--06-ten-blessed.webp" width="900" height="688" alt="The ten promised paradise in one Hadith: the four future caliphs and six others, each with a fact. Talha shielded the Prophet (pbuh) at Uhud; al-Zubayr was his cousin and disciple; Abd al-Rahman ibn Awf became a generous trader; Sa'd ibn Abi Waqqas was a famous archer; Umar converted in Sa'id ibn Zayd's house; Abu Ubayda was &quot;the trustworthy one&quot;." loading="lazy">
+  <figcaption>Ten names, each with a fact: names alone earn little.</figcaption>
+</figure>
 
 ## Who were the Scribes?
 
@@ -136,6 +166,11 @@ paired them in brotherhood; for example Sa'd ibn al-Rabi' offered half his wealt
 Awf. The Qur'an praises the Ansar for preferring others above themselves even when in need (Sura
 59.9).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--07-emigrants-and-helpers.webp" width="900" height="722" alt="The Muhajirun left Makkah for their faith; the Ansar of Madinah, from Aws and Khazraj, sheltered them, and the Prophet (pbuh) paired them in brotherhood. Sa'd ibn al-Rabi' offered Abd al-Rahman ibn Awf half his wealth; he asked only for the market. Sura 59.9 praises the Ansar. Lessons: welcome and help those in need, and work to become self-reliant." loading="lazy">
+  <figcaption>Generosity on one side, self-reliance on the other: both are lessons for today.</figcaption>
+</figure>
+
 ## What did the four caliphs do during his lifetime?
 
 - **Abu Bakr:** first adult man to accept Islam; brought others such as Uthman and Abd al-Rahman ibn
@@ -147,6 +182,11 @@ Awf. The Qur'an praises the Ansar for preferring others above themselves even wh
   well of Ruma for Muslims; equipped much of the army for Tabuk; envoy before Hudaybiyya.
 - **Ali:** first child to accept Islam; slept in the Prophet's bed on the night of the Hijra; married
   Fatima; carried the standard at Khaybar; left in charge of Madina during Tabuk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--08-caliphs-in-his-lifetime.webp" width="900" height="742" alt="Four cards on the future caliphs during the Prophet's (pbuh) lifetime. Abu Bakr, al-Siddiq, was the first adult man to accept Islam and his companion on the Hijra. Umar, al-Faruq, accepted Islam in his sister's house. Uthman married two of his daughters and equipped the army for Tabuk. Ali, the first child to accept Islam, slept in the Prophet's bed on the night of the Hijra." loading="lazy">
+  <figcaption>What each future caliph did before 632, not as caliph.</figcaption>
+</figure>
 
 ## Worked example: a 4-mark part (b)
 

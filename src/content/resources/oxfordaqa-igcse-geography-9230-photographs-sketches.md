@@ -33,6 +33,11 @@ This guide covers the "Maps in association with photographs" part of section 3.3
 | Vertical aerial | From the air, looking straight down | Layout, like a map; measuring and matching to maps | Height is hard to judge |
 | Satellite | From space, usually vertical | Large areas; change over time, such as urban growth or forest loss | Less detail; colours may be processed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-photographs-sketches--01-photo-viewpoints.webp" width="900" height="721" alt="Camera positions for four kinds of photograph: ground level looking across, oblique aerial at an angle, vertical aerial looking straight down and satellite from space. A table gives what each is best for and its limitation." loading="lazy">
+  <figcaption>Where the camera is decides what a photograph can show.</figcaption>
+</figure>
+
 ## Reading a photograph systematically
 
 A photograph contains far more than you can mention. A system makes sure you find the features the question needs.
@@ -49,6 +54,11 @@ A photograph contains far more than you can mention. A system makes sure you fin
 
 **Describe or explain?** If the command is describe, say what is there and where. If it is explain or suggest, give reasons, for example why settlement is on the flat valley floor (flat land, fertile soil, near water).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-photographs-sketches--02-dividing-photo.webp" width="900" height="768" alt="A schematic river-valley photograph divided into background, middle ground and foreground, and into left, centre and right thirds. Below, the four categories to work through, landforms, natural vegetation, land use and settlement, and an example of locating a feature: in the left foreground there is a narrow river with large boulders." loading="lazy">
+  <figcaption>Divide the photograph, then say where each feature is.</figcaption>
+</figure>
+
 ## Matching a photograph to a map
 
 Exam questions often pair a photograph with a map extract.
@@ -57,6 +67,11 @@ Exam questions often pair a photograph with a map extract.
 - **Locate features with grid references.** Use a four-figure reference for an area and a six-figure reference for a point.
 - **Use each source for what it does best.** The map gives height, distance, names and the wider area; the photograph shows land use, vegetation and the appearance of the land.
 - **Note differences.** If the photograph shows new housing that is not on the map, the map may be older than the photograph.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-photographs-sketches--03-direction-of-view.webp" width="900" height="631" alt="A fictional plan map with a river, a bridge and a church. A camera in the south-west of the map points towards both features, so the photograph was taken looking north-east. Steps: identify two features, locate them on the map with grid references, and give the direction as a compass point." loading="lazy">
+  <figcaption>Two features on both the photograph and the map fix the direction of view.</figcaption>
+</figure>
 
 ## Comparing maps
 
@@ -79,6 +94,11 @@ A field sketch is a simple drawing that picks out the important features of a vi
 
 Neatness matters only in that the sketch must be clear. A few clean lines with good annotations beat a detailed drawing with no labels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-photographs-sketches--04-field-sketch.webp" width="900" height="638" alt="A field sketch of the worked-example river valley: a bare rounded hilltop, steep wooded valley sides, a narrow V-shaped valley and a narrow fast river with large boulders, annotated as carrying a heavy load in flood. Beside it, six steps from drawing the frame to adding a title and direction of view." loading="lazy">
+  <figcaption>Simple outlines, clear labels and a title with direction of view.</figcaption>
+</figure>
+
 ## Sketch maps
 
 A sketch map is a simplified map of an area, drawn from a map, from memory or in the field. It shows the layout of features as if seen from above. The specification asks you to "draw, label, understand and interpret" them.
@@ -88,6 +108,11 @@ A sketch map is a simplified map of an area, drawn from a map, from memory or in
 - When **interpreting** a sketch map in an exam, treat it like any other map: describe the layout and patterns, and remember it is simplified, so measurements are approximate.
 
 **Field sketch or sketch map?** A field sketch shows a view from one point, looking across the land. A sketch map shows a layout from above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-photographs-sketches--05-sketch-vs-map.webp" width="900" height="558" alt="A field sketch shows a view from one point looking across the land, with a title, direction of view, labels and annotations. A sketch map shows a layout from above, here a river, a transect and four numbered sampling sites, with a north arrow, an approximate scale and a key if symbols are used." loading="lazy">
+  <figcaption>A field sketch looks across; a sketch map looks down.</figcaption>
+</figure>
 
 ## Labels and annotations
 
@@ -100,6 +125,11 @@ The specification asks you to "label and annotate diagrams, maps, graphs, sketch
 | "Housing" | "Terraced housing close to the old town centre, high density" |
 
 A good annotation often includes a reason or a process, which links the skill to your knowledge of the topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-photographs-sketches--06-label-annotation.webp" width="900" height="469" alt="Two examples. The label “Beach” becomes the annotation “Wide sandy beach, built up by constructive waves in a sheltered bay”; the label “Housing” becomes “Terraced housing close to the old town centre, high density”." loading="lazy">
+  <figcaption>A label names; an annotation explains, often with a process or reason.</figcaption>
+</figure>
 
 ## Worked example
 

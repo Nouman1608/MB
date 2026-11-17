@@ -43,6 +43,11 @@ Exercise 5 tests all five writing objectives and nothing else:
 
 The syllabus does not publish how the 14 marks divide between these objectives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--01-what-is-assessed.webp" width="900" height="670" alt="Exercise 5 is a piece of functional prose of about 150 words, such as an email, worth 14 marks, the most on the paper. It tests W1 to W5: every prompt answered, linked paragraphs, accurate grammar, Urdu punctuation and spelling, and the right register and format." loading="lazy">
+  <figcaption>Answer every prompt, in linked paragraphs, in the right register.</figcaption>
+</figure>
+
 ## Reading the brief: purpose, format, audience
 
 Before writing, answer three questions in the margin.
@@ -57,6 +62,11 @@ Before writing, answer three questions in the margin.
 The skills content of the syllabus names the range: "a summary, an informal letter/email, an article,
 a blog, a report or review". Exercise 5 is the short, functional end of that range.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--02-purpose-format-audience.webp" width="900" height="610" alt="Three questions before writing: purpose (مقصد), such as inviting, thanking or informing; format (طرزِ تحریر), such as an email with a subject line or a blog with a title; and audience (مخاطب), such as a friend or a principal, which decides the register." loading="lazy">
+  <figcaption>Purpose, format, audience: the audience decides the register.</figcaption>
+</figure>
+
 ## Covering the prompts
 
 The stimulus gives short prompts and/or pictures. Treat each prompt as a paragraph or a clear section
@@ -66,6 +76,11 @@ opinion, and naming two or three details from a picture gives your writing subst
 
 With about 150 words and usually three prompts, aim for roughly 40 words per prompt plus a short
 opening and closing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--03-word-budget.webp" width="900" height="520" alt="A 150-word plan: a short opening, about 40 words for each of three prompts, and a short closing. Each prompt becomes a paragraph, pictures supply content to describe or comment on, and writing far beyond the length adds errors." loading="lazy">
+  <figcaption>About 40 words per prompt, each in its own paragraph.</figcaption>
+</figure>
 
 ## Register: two sets of tools
 
@@ -80,6 +95,11 @@ opening and closing.
 Choose once and hold it. Moving from *تم* to *آپ* within one email is the most common register fault.
 Informal does not mean careless: spelling and grammar are assessed in the same way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--04-register.webp" width="900" height="807" alt="Informal and formal forms side by side: greetings (پیاری سارہ، against محترمہ پرنسپل صاحبہ،), opening lines, address (تم against آپ), verb forms (آؤ، بتاؤ against تشریف لائیے، بتائیے) and closings (تمھاری دوست against والسلام، آپ کا شاگرد)." loading="lazy">
+  <figcaption>Pick the register for your audience and keep it from greeting to closing.</figcaption>
+</figure>
+
 ## Linking devices that fit 150 words
 
 - To add: *اس کے علاوہ*، *ساتھ ہی*، *یہی نہیں بلکہ*
@@ -89,6 +109,11 @@ Informal does not mean careless: spelling and grammar are assessed in the same w
 - To conclude: *بس یہی کہنا تھا*، *امید ہے*
 
 Two or three different connectives used naturally are enough to show range in a short piece.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--05-linking-devices.webp" width="900" height="642" alt="Connectives grouped by job: adding (اس کے علاوہ، ساتھ ہی), explaining (کیونکہ، اس لیے کہ), contrasting (لیکن، البتہ، تاہم), sequencing (سب سے پہلے، اس کے بعد، آخر میں) and concluding (بس یہی کہنا تھا، امید ہے)." loading="lazy">
+  <figcaption>A few varied connectives are enough: use them for real links.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -123,6 +148,16 @@ the ideas; the length is close to 150 words.
 school stall at the festival, the paragraph of invitation would change to: *ہماری خواہش ہے کہ آپ
 ہفتے کی شام تشریف لا کر ہمارے اسٹال کا افتتاح فرمائیں۔ آپ کی آمد ہمارے لیے باعثِ عزت ہوگی۔* Content
 is similar; vocabulary, verb forms and tone are entirely different.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--06-worked-email.webp" width="900" height="900" alt="The model email laid out with annotations: a subject line (موضوع: اگلے ہفتے میلہ — ساتھ چلو گی؟), the greeting پیاری مریم،, a friendly opening, one paragraph per prompt (the festival, the invitation کیا تم ہفتے کی شام میرے ساتھ چلو گی؟, and plans linked by سب سے پہلے، اس کے بعد، کیونکہ، آخر میں), and the closing تمھاری دوست، ثنا." loading="lazy">
+  <figcaption>Format features, one paragraph per prompt, and one register throughout.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--07-formal-version.webp" width="900" height="814" alt="The informal invitation کیا تم ہفتے کی شام میرے ساتھ چلو گی؟ rewritten for the principal: ہماری خواہش ہے کہ آپ ہفتے کی شام تشریف لا کر ہمارے اسٹال کا افتتاح فرمائیں۔ آپ کی آمد ہمارے لیے باعثِ عزت ہوگی۔ Exam tips: write the greeting and closing first, count paragraphs against prompts, and protect about 25 minutes." loading="lazy">
+  <figcaption>Change the audience and the whole register changes with it.</figcaption>
+</figure>
 
 ## Common mistakes
 

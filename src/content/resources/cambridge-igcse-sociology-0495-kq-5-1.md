@@ -60,6 +60,16 @@ The distinction matters because many sociologists argue informal learning, parti
 - **Conformity**: uniforms, queuing and rules about speaking teach acceptance of rules made by others.
 - **Gender roles**: different expectations of boys and girls in behaviour, sport or subject choice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-1--01-map-of-education.webp" width="900" height="730" alt="Education splits into formal education, or schooling, and informal education in everyday life. Inside formal schooling sit the official curriculum (subjects, syllabus content, testing) and the hidden curriculum (norms and values, punctuality, conformity, gender roles). Informal learning in the family shapes how well a child does in formal education." loading="lazy">
+  <figcaption>The hidden curriculum belongs inside formal schooling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-1--02-hidden-curriculum.webp" width="900" height="632" alt="Four rows linking how school is organised to what pupils learn: grades and prizes teach respect for authority and competition; bells and registers teach punctuality; uniforms, queuing and rules teach conformity; different expectations of boys and girls teach gender roles." loading="lazy">
+  <figcaption>Bells, uniforms and prizes teach lessons no timetable lists.</figcaption>
+</figure>
+
 ## Types of schools and their effectiveness (5.1.2)
 
 "Effectiveness" can mean exam results, value added (progress from the starting point), personal development, equality of opportunity or preparation for work. Always say which meaning you are using.
@@ -79,6 +89,11 @@ Note that "public school" means a free, government-funded school in many countri
 
 **The key evaluation point** for any comparison is **intake**. A private or selective school with high exam results may simply admit pupils who were already likely to do well. Measuring effectiveness fairly means looking at progress, not raw results.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-1--03-effectiveness-and-intake.webp" width="900" height="710" alt="Five meanings of effectiveness: exam results, value added, personal development, equality of opportunity and preparation for work. An illustrative pair of bar charts shows a selective school with a strong intake and high results but small progress, and a non-selective school with lower results but bigger progress." loading="lazy">
+  <figcaption>Judge schools by progress from the starting point, not raw results.</figcaption>
+</figure>
+
 ## Alternative approaches to education (5.1.3)
 
 - **Online learning**: lessons delivered through the internet, live or self-paced. Strengths: flexible, reaches remote learners, wide choice of courses. Limitations: needs reliable devices and internet access, so it can widen the digital divide; requires self-discipline; less social interaction.
@@ -89,6 +104,11 @@ Note that "public school" means a free, government-funded school in many countri
 
 Ivan Illich's *Deschooling Society* (1971) offers a critical background to these alternatives: he argued schools teach dependence on institutions and that people learn best through chosen, real-life activities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-1--04-alternative-approaches.webp" width="900" height="760" alt="Five alternative approaches, each with a strength and a limitation: online learning, vocational learning, homeschooling, progressive schooling such as Summerhill, and unschooling. Illich’s Deschooling Society is the critical background." loading="lazy">
+  <figcaption>Every alternative trades structure for freedom in a different way.</figcaption>
+</figure>
+
 ## Worked example: planning a part (f) answer
 
 *Evaluate the view that single-sex schools are more effective than co-educational schools.*
@@ -96,6 +116,11 @@ Ivan Illich's *Deschooling Society* (1971) offers a critical background to these
 - **For**: girls in single-sex schools may be more likely to choose science subjects without gender stereotyping; boys cannot dominate classroom talk; fewer distractions from peer pressure about appearance.
 - **Against**: many single-sex schools are selective or private, so high results may reflect intake, not the type of school; co-educational schools prepare pupils for mixed workplaces; gender stereotyping can still occur in single-sex settings through teacher expectations and the hidden curriculum.
 - **Judgement**: effectiveness depends on how it is measured; when intake is taken into account, the differences may be smaller than raw results suggest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-1--05-single-sex-vs-coed.webp" width="900" height="652" alt="A balance weighing arguments for single-sex schools (subject choice, less male dominance, fewer distractions) against arguments that their results reflect intake, that co-education prepares pupils for mixed workplaces and that stereotyping persists. The judgement turns on how effectiveness is measured." loading="lazy">
+  <figcaption>Intake can explain much of the difference in raw results.</figcaption>
+</figure>
 
 ## Common mistakes
 

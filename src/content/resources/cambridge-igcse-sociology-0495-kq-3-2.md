@@ -89,6 +89,21 @@ Scheduled Castes and Scheduled Tribes.
 attendance; Mexico's *Progresa* programme, launched in 1997, became an influential model.
 **Affirmative action**, **job-creation schemes** and subsidies for food or fuel are other examples.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-2--01-progressive-tax.webp" width="900" height="639" alt="Two income bars with invented rates: 10% on the first 20,000 and 40% above that. A person earning 20,000 pays 2,000, or 10%; a person earning 100,000 pays 34,000, or 34%. A progressive tax takes a higher percentage as income rises; a regressive tax takes a larger share from the poor." loading="lazy">
+  <figcaption>Progressive means a higher percentage, not just more money.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-2--02-redistribution.webp" width="900" height="410" alt="Taxes flow from higher-income groups to the government, which pays out benefits and services such as child benefits, disability payments and housing support to lower-income groups." loading="lazy">
+  <figcaption>Redistribution takes more from the top and gives to the bottom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-2--03-laws-against-inequality.webp" width="900" height="476" alt="Legal measures: the UK minimum wage of 1999, with arguments for and against; equal opportunities laws such as the Equal Pay Act 1970, the Equality Act 2010 and Indian reservations; and conditional cash transfers such as Mexico’s Progresa, plus affirmative action, job creation and subsidies." loading="lazy">
+  <figcaption>Laws can set a pay floor, ban discrimination and reward families for meeting goals.</figcaption>
+</figure>
+
 ## Welfare states (3.2.2)
 
 A welfare state is one in which the government takes responsibility for protecting citizens' basic
@@ -112,6 +127,11 @@ Welfare states differ greatly. The Nordic countries are often described as havin
 universal systems funded by high taxes; many other countries rely more on means-tested support,
 families and charities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-2--04-welfare-state.webp" width="900" height="744" alt="Welfare provision across life: free education in childhood, unemployment benefits at working age and pensions in old age, plus free healthcare, low-cost housing and universal basic income throughout, each with a benefit and a limit. Provision can be universal or means-tested." loading="lazy">
+  <figcaption>Each provision improves life chances, but each has limits.</figcaption>
+</figure>
+
 ## NGOs (3.2.3)
 
 NGOs are non-profit organisations independent of government. The syllabus names four kinds of work:
@@ -125,6 +145,11 @@ NGOs are non-profit organisations independent of government. The syllabus names 
 - **Improving education** — Save the Children, founded in Britain in 1919 by Eglantyne Jebb and Dorothy
   Buxton, works on children's education and protection; other NGOs build schools or pay girls' school
   fees.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-2--05-ngo-work.webp" width="900" height="528" alt="Four kinds of NGO work: reducing poverty (Oxfam), medical assistance (vaccination, clinics, clean water), promoting business through microfinance, and improving education (Save the Children). A note lists criticisms of NGOs." loading="lazy">
+  <figcaption>NGOs reduce poverty, provide medical help, promote business and improve education.</figcaption>
+</figure>
 
 ## How successful have these attempts been? (3.2.4)
 
@@ -141,6 +166,11 @@ NGOs are non-profit organisations independent of government. The syllabus names 
 fewer people lack education or healthcare — but **relative** inequality, especially of wealth, often
 remains wide. Success depends on what is measured and which group is considered.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-2--06-views-of-success.webp" width="900" height="577" alt="The New Right say welfare does too much and creates dependency; Marxists say it does too little and leaves ownership unchanged. Below are the culture of poverty, feminist criticisms of equality laws and criticisms of NGOs. Overall, absolute deprivation has fallen but relative inequality remains." loading="lazy">
+  <figcaption>The New Right say welfare does too much; Marxists say too little.</figcaption>
+</figure>
+
 ## Worked example: Question 3(f)-style evaluation
 
 *Evaluate the view that welfare states have failed to reduce social inequality.*
@@ -156,6 +186,11 @@ remains wide. Success depends on what is measured and which group is considered.
 >
 > **Judgement:** welfare states have reduced the worst effects of inequality and absolute poverty,
 > but have not removed relative inequality. "Failed" is too strong; "limited success" is fairer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-2--07-evaluate-welfare.webp" width="900" height="679" alt="A balance weighing claims that welfare states have failed (Marxist, New Right and feminist criticisms, persistent class health gaps) against real gains in life chances, mobility and protection from destitution. The judgement is limited success." loading="lazy">
+  <figcaption>“Limited success” is fairer than “failed”.</figcaption>
+</figure>
 
 ## Common mistakes
 

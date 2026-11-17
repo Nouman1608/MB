@@ -70,20 +70,24 @@ const files = [];
 let expected = 0, fetched = 0;
 const fetchFailed = [];
 // Every request gets a time limit and retries, so one stalled connection cannot hang the run.
-const getWithTimeout = async (url, tries = 3) => {
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const getWithTimeout = async (url, tries = 6) => {
   for (let i = 0; i < tries; i++) {
     try { const r = await fetch(url, { signal: AbortSignal.timeout(30000) }); if (r.ok || r.status === 404) return r; } catch {}
+    await sleep(1000 * 2 ** i); // 1s, 2s, 4s, 8s... GitHub briefly refuses bursts of requests
   }
   return null;
 };
+const listFailed = [];
 const pool = async (items, n, fn) => { const q = [...items]; await Promise.all(Array.from({ length: n }, async () => { while (q.length) await fn(q.shift()); })); };
 const dirs = fs.readdirSync(root, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name);
 let seen = 0;
-await pool(dirs, 8, async (name) => {
+await pool(dirs, 4, async (name) => {
   const dir = path.join(root, name);
   // Refresh this lesson's figure list from GitHub, so new or corrected figures are picked up.
   const r = await getWithTimeout(RAW + encodeURIComponent(name) + '/figures.json');
   if (r && r.ok) { try { const txt = await r.text(); JSON.parse(txt); fs.writeFileSync(path.join(dir, 'figures.json'), txt); } catch {} }
+  else if (!r) listFailed.push(name);
   const listed = fs.existsSync(path.join(dir, 'figures.json'))
     ? JSON.parse(fs.readFileSync(path.join(dir, 'figures.json'), 'utf8')).map((x) => x.file) : [];
   expected += listed.length;
@@ -102,12 +106,21 @@ await pool(dirs, 8, async (name) => {
 });
 console.log('');
 if (fetched) log(`Downloaded ${fetched} images that were missing from this folder.`);
-if (fetchFailed.length) log(`Could not download ${fetchFailed.length} images:\n  ${fetchFailed.join('\n  ')}`);
+if (fetchFailed.length) log(`Could not download ${fetchFailed.length} images (run again to retry):\n  ${fetchFailed.join('\n  ')}`);
+if (listFailed.length) log(`Could not get the figure list for ${listFailed.length} lessons (run again to retry): ${listFailed.slice(0, 5).join(', ')}${listFailed.length > 5 ? ' ...' : ''}`);
 log(`Step 3: ${files.length} images in this folder (${expected} expected). Uploading the ones not yet online...`);
 
 // 3. Upload the ones that are not live yet.
 const isLive = async (name) => {
-  try { const r = await fetch(HOST + name, { method: 'HEAD', headers: { 'User-Agent': 'curl/8.5.0' }, signal: AbortSignal.timeout(30000) }); return r.status === 200; } catch { return false; }
+  for (let i = 0; i < 3; i++) {
+    try {
+      const r = await fetch(HOST + name, { method: 'HEAD', headers: { 'User-Agent': 'curl/8.5.0' }, signal: AbortSignal.timeout(30000) });
+      if (r.status === 200) return true;
+      if (r.status === 404) return false;
+    } catch {}
+    await sleep(2000 * (i + 1));
+  }
+  return false;
 };
 // Windows tools fail on paths longer than ~250 characters, and some lesson paths are longer.
 // So each image is copied to a short temporary path before upload; the online name is unchanged.
@@ -117,7 +130,8 @@ let tmpCount = 0;
 const put = (file) => new Promise((resolve) => {
   const name = path.basename(file);
   const short = path.join(tmpDir, `${process.pid}-${++tmpCount}.webp`);
-  fs.copyFileSync(file, short);
+  try { fs.writeFileSync(short, fs.readFileSync(file)); } // reading also downloads OneDrive online-only files
+  catch (e) { resolve({ ok: false, out: `could not read the local file: ${e.message}` }); return; }
   const cmd = `${WRANGLER} r2 object put "${BUCKET}/${name}" --file "${short}" --remote --content-type image/webp --cache-control "public, max-age=31536000, immutable"`;
   const p = spawn(cmd, { shell: true, env, stdio: ['ignore', 'pipe', 'pipe'] });
   let out = '';

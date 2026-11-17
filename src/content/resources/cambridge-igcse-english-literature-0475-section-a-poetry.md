@@ -47,6 +47,11 @@ In poetry, AO3 carries particular weight, because a poem's meaning lives in comp
 single verb, a line break, a change of rhythm. An answer that explains what the poem says but not how
 it says it will stay in the lower levels, however accurate it is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-a-poetry--01-section-a-and-aos.webp" width="900" height="704" alt="Section A is worth 25 of Paper 1’s 50 marks: one question on one poetry set text, from a choice of two, with the poem printed. Every question tests AO1 knowledge, AO2 understanding, AO3 the writer’s methods and AO4 personal response, and AO3 carries particular weight in poetry." loading="lazy">
+  <figcaption>Explaining how the poem creates meaning (AO3) separates the higher levels from the lower.</figcaption>
+</figure>
+
 ## How should you read a printed poem in the exam?
 
 You will have studied the poem, but read it again in the exam with the question beside you. Work
@@ -66,6 +71,11 @@ through these layers, noting answers in the margin.
 6. **Form and structure.** Stanza pattern, line breaks, enjambment and caesura, repetition, and the
    title. Ask why the poem is arranged as it is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-a-poetry--02-six-layers.webp" width="900" height="706" alt="Six layers for reading a printed poem: the question’s key words, voice and situation, the poem’s emotional shape and turn, imagery, sound and rhythm, and form and structure, each with the questions to ask." loading="lazy">
+  <figcaption>Work through the poem layer by layer, always with the question’s key words in view.</figcaption>
+</figure>
+
 ## What does it mean to analyse a method?
 
 Analysis has three parts: name the method only if it helps, quote the words precisely, and explain the
@@ -77,6 +87,11 @@ effect in the context of the question. Compare:
 
 Naming a technique earns little on its own; the examiner rewards what you say about its effect. Often
 the best analysis focuses on a single word: why "files" and not "drives", why "thin" curtains?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-a-poetry--03-analysing-a-method.webp" width="900" height="692" alt="Analysis in three parts: name the method only if it helps, quote precisely and explain the effect in context. Saying the poet uses alliteration in “soft and slow” is feature-spotting; explaining that the sounds make the line linger, so the reader feels the speaker’s reluctance, is analysis." loading="lazy">
+  <figcaption>The examiner rewards what you say about the effect, not the name of the technique.</figcaption>
+</figure>
 
 ## Worked example: an original poem
 
@@ -125,6 +140,11 @@ text.
 exactly; it analyses word choice, sound, imagery and structure; and the personal response ("what I
 find most moving") grows out of the analysis rather than being added at the end.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-a-poetry--04-annotated-poem.webp" width="900" height="782" alt="The original poem “Night Shift” with six margin notes: the mother out of step with the world, her coat “holding” the hospital’s cold, the simile of a cup too full to carry, enjambment across the stanza break, her questions about the child, and the closing “thin” curtains and humming kettle." loading="lazy">
+  <figcaption>Each note links a precise choice of words, sound or form to the question’s focus on the mother.</figcaption>
+</figure>
+
 ## Planning a 25-mark answer
 
 A secure plan has four or five points that follow the poem's movement, not a list of techniques:
@@ -139,6 +159,11 @@ A secure plan has four or five points that follow the poem's movement, not a lis
 For a direct question ("What do you think…?" or "What are your feelings about…?"), make your view
 explicit from the first paragraph. For "Explore the ways in which…", let the view emerge through
 precise analysis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-a-poetry--05-planning-25-marks.webp" width="900" height="706" alt="A plan of four or five points: a two-sentence opening that answers the question, three or four paragraphs on stages of the poem with two or three short quotations each, a paragraph on the ending or structure, and a brief conclusion on the key word. For direct questions the view is explicit from the start; for “Explore the ways” it emerges through analysis." loading="lazy">
+  <figcaption>Plan the answer around the poem’s movement and place your view to suit the question type.</figcaption>
+</figure>
 
 ## Common mistakes
 

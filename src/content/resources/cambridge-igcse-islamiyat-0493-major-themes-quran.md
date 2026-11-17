@@ -44,6 +44,11 @@ to write an application that fits the passage rather than a general one.
 The fifteen passages are listed in the syllabus appendix, which Cambridge reviews from time to time,
 so always check the appendix for your exam year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-major-themes-quran--02-question-1.webp" width="900" height="604" alt="Three set passages are printed in Arabic and English and you choose two. Part (a) asks for the main theme of each and part (b) for the importance of those themes today, each worth 4 marks, half for each passage." loading="lazy">
+  <figcaption>Two passages, two parts: theme first, then importance today.</figcaption>
+</figure>
+
 ## What does "theme" mean in Question 1?
 
 A theme is the teaching the passage gives about God, His creation or His Messengers, not a summary of
@@ -58,6 +63,16 @@ theme will take:
   for and with His creation: creating, sustaining, teaching, guiding, protecting and judging.
 - **God's Messengers** (Sura 2.30–37, 6.75–79, 5.110, 93, 108): how God chose, taught, supported
   and protected His prophets, from Adam to the Prophet Muhammad (pbuh).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-major-themes-quran--01-three-groups.webp" width="900" height="738" alt="The three groups of set passages: God in Himself (Sura 2.255, 6.101-103, 41.37, 42.4-5, 112), God's relationship with the created world (Sura 1, 2.21-22, 96.1-5, 99, 114) and God's Messengers (Sura 2.30-37, 6.75-79, 5.110, 93, 108), each with the direction its themes take." loading="lazy">
+  <figcaption>The group heading tells you which direction the theme will take.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-major-themes-quran--03-description-vs-theme.webp" width="900" height="546" alt="Two statements about Sura 41.37. A description lists what it mentions: the night, the day, the sun and the moon. A theme states its teaching: nature's wonders are signs of the Creator, so worship belongs to God alone." loading="lazy">
+  <figcaption>State the teaching, not a summary of the words.</figcaption>
+</figure>
 
 ## Which Arabic words should you know?
 
@@ -76,6 +91,11 @@ have studied the Arabic.
 | Sura 114 | *al-waswas al-khannas* | The whisperer who withdraws: the hidden source of temptation |
 | Sura 2.30 | *khalifa* | Vicegerent: humans are trusted with responsibility on earth |
 | Sura 108 | *al-Kawthar*, *al-abtar* | Abundance given to the Prophet (pbuh); his enemy, not he, is "cut off" |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-major-themes-quran--04-key-words.webp" width="900" height="852" alt="Nine transliterated key words and what each adds: al-Hayy al-Qayyum (2.255), Ahad and al-Samad (112), Rabb al-'alamin and al-sirat al-mustaqim (1), Iqra' and al-qalam (96.1-5), mithqal dharra (99), al-waswas al-khannas (114), khalifa (2.30) and al-Kawthar and al-abtar (108)." loading="lazy">
+  <figcaption>One explained key word per passage is easy credit.</figcaption>
+</figure>
 
 ## How do the passages connect with one another?
 
@@ -102,6 +122,11 @@ not know".
 Sura 2.255 says no one intercedes "except as He permits". Linking these passages helps you explain why
 belief changes behaviour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-major-themes-quran--05-threads.webp" width="900" height="572" alt="Four ideas that link passages across the groups: tawhid (Sura 112, 6.101-103, 41.37, 2.21-22, 6.75-79, 5.110), mercy and forgiveness (Sura 1, 42.5, 2.37, 93), knowledge given by God (Sura 2.255, 2.31-32, 96.4-5) and accountability (Sura 1, 99, 2.255)." loading="lazy">
+  <figcaption>Shared ideas tie the fifteen passages into one message.</figcaption>
+</figure>
+
 ## How do you turn a theme into importance today?
 
 Part (b) asks how the theme matters in a Muslim's life now. A good application has three parts: the
@@ -122,6 +147,11 @@ theme, a specific action or attitude, and the reason the passage gives for it. W
   strengthen faith rather than follow custom blindly.
 - **Sura 93.9–10:** caring for orphans and not turning away a beggar is a direct command that follows
   from God's care for the Prophet (pbuh).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-major-themes-quran--06-importance-today.webp" width="900" height="782" alt="A strong part (b) answer links the theme to a specific action and the reason the passage gives. Examples: reciting Sura 2.255 for protection, avoiding images of God (6.103), gratitude and care for the earth (2.21-22), seeking knowledge (96.1-5), seeking refuge from temptation (114), reflection like Ibrahim (6.75-79) and caring for orphans (93.9-10)." loading="lazy">
+  <figcaption>Theme, action, reason: make each application specific to its passage.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -145,6 +175,11 @@ Creator, and Muslims can explain their belief calmly to others, as Ibrahim did w
 
 *Why it works:* each part of (a) names the group, gives the teaching and points to wording in the
 passage; each part of (b) is specific to that passage and says what a Muslim actually does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-major-themes-quran--07-worked-example.webp" width="900" height="696" alt="The worked answer laid out: Sura 2.21-22 (created world) teaches worship of the Lord who provides, so no rivals, and leads to gratitude and avoiding waste; Sura 6.75-79 (Messengers) shows Ibrahim rejecting star, moon and sun for the Creator, and leads to reflection on nature and calm explanation of belief." loading="lazy">
+  <figcaption>Group, teaching and wording for (a); a specific action for (b).</figcaption>
+</figure>
 
 ## Common mistakes
 

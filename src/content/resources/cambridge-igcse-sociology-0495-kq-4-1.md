@@ -54,6 +54,11 @@ A **family** is a group related by blood, marriage, civil partnership or adoptio
 
 Two points earn credit beyond the table. First, Julia Brannen used the term **beanpole family** for long, thin family trees produced by longer lives and fewer births, which links 4.1 directly to 4.3. Second, the modified extended family shows that extended kinship has not simply disappeared: it has changed form, which is useful evidence against the claim that the isolated nuclear family is universal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-1--01-family-structures.webp" width="900" height="720" alt="Simple family trees for eight structures: nuclear, horizontal extended, vertical or beanpole extended, modified extended (kin living apart but in contact), reconstituted with step-children, lone parent, empty nest and childless." loading="lazy">
+  <figcaption>Each structure is a different arrangement of adults, children and generations.</figcaption>
+</figure>
+
 ## Variations and diversity (4.1.2)
 
 **Cross-cultural.** Family forms differ between societies. Extended households sharing a home and income remain common in many parts of South Asia and sub-Saharan Africa. In Israeli kibbutzim, children were historically raised partly in communal children's houses rather than by parents alone, which challenges the claim that the nuclear family is found everywhere.
@@ -64,6 +69,11 @@ Two points earn credit beyond the table. First, Julia Brannen used the term **be
 
 Rhona and Robert Rapoport (1982) organised diversity into five types: **organisational** (how roles are arranged), **cultural**, **class**, **life course** (families change as members age) and **cohort** (the historical period a family lives through). Using their categories shows an examiner that diversity has more than one dimension.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-1--02-five-types-of-diversity.webp" width="900" height="602" alt="Five dimensions of diversity from Rapoport and Rapoport (1982): organisational, cultural (such as extended households and kibbutzim), class (such as Bethnal Green), life course and cohort. A note says ethnic patterns should be explained by culture, migration history and economic position." loading="lazy">
+  <figcaption>Diversity has more than one dimension.</figcaption>
+</figure>
+
 ## Sociological views on diversity (4.1.3)
 
 The **New Right** sees the married, two-parent nuclear family as the best setting for raising children. Growing numbers of lone-parent and reconstituted families are treated as signs of decline; Charles Murray linked lone parenthood and welfare dependency to an "underclass" whose children are inadequately socialised. Critics reply that poverty, not family structure, explains most of the disadvantage, and that the view blames women.
@@ -71,6 +81,16 @@ The **New Right** sees the married, two-parent nuclear family as the best settin
 **Postmodernists** see diversity positively. Without fixed rules, individuals choose the relationships that suit them: cohabitation, living apart, friends as family. Diversity reflects freedom and tolerance rather than breakdown. The limitation is that choice is constrained by money, law and culture, so not everyone can "choose" freely.
 
 **The extent of diversity.** Robert Chester (1985) argued that the change has been exaggerated. Most people still live in a nuclear family at some stage of their lives, and the main change is the **neo-conventional family**, in which both partners work. Statistics that count households at one moment make diversity look larger than it is, because a person in a single-person household today may have lived in a nuclear family earlier in life.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-1--03-views-on-diversity.webp" width="900" height="454" alt="Three views of diversity. The New Right see it as decline, linking lone parenthood to an underclass, though critics point to poverty. Chester argues it is exaggerated: most people live in a nuclear family at some stage. Postmodernists see it as freedom of choice, though choice is constrained." loading="lazy">
+  <figcaption>Decline, freedom, or exaggeration: three readings of the same trend.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-1--04-snapshot-vs-life-course.webp" width="900" height="462" alt="A person who lived in a nuclear family earlier in life is in a single-person household today. A household count captures only today, which is why Chester argues snapshot statistics overstate diversity." loading="lazy">
+  <figcaption>A single snapshot can hide a life spent mostly in nuclear families.</figcaption>
+</figure>
 
 ## Alternatives to the family (4.1.4)
 
@@ -80,12 +100,22 @@ The **New Right** sees the married, two-parent nuclear family as the best settin
 
 These matter in exams because they test whether "family" and "household" are being used precisely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-1--05-family-and-household.webp" width="900" height="480" alt="Every family is a household, but not every household is a family. Alongside families related by blood, marriage, civil partnership or adoption sit three alternatives: single person households, shared households of unrelated adults, and friends as family." loading="lazy">
+  <figcaption>Use “family” and “household” precisely: the alternatives are households, not families.</figcaption>
+</figure>
+
 ## Types of marriage (4.1.5)
 
 - **Monogamy**: one spouse at a time. **Serial monogamy**: a sequence of monogamous marriages, made possible by divorce and remarriage.
 - **Arranged marriage**: families play a major part in choosing the partner; the couple's consent remains central and it is different from forced marriage.
 - **Love marriage**: partners choose each other on the basis of romantic attachment.
 - **Empty shell marriage**: the couple stay legally married but the relationship has no emotional content, often for financial, religious or children's reasons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-1--06-types-of-marriage.webp" width="900" height="631" alt="Types of marriage grouped by question: how many spouses (monogamy, serial monogamy), how the partner is chosen (arranged, which is not forced, or love), and what the relationship is like (empty shell, not to be confused with empty nest)." loading="lazy">
+  <figcaption>Group marriage types by number, choice and quality of relationship.</figcaption>
+</figure>
 
 ## Worked example: planning a part (f) answer
 
@@ -98,6 +128,11 @@ A plan that reaches the top level needs three developed arguments on each side a
 - **Judgement**: the nuclear family may be dominant as an ideal and as a life stage, while being less dominant as a snapshot of households at any one time.
 
 **Annotated sample paragraph (against):** *"Rising divorce rates have increased the number of reconstituted families [names a structure from 4.1.1], where children live with a step-parent and step-siblings. This weakens the claim that the nuclear family is dominant because the family is no longer a simple two-parent unit [explicit link to the view], although Chester would argue many reconstituted families still look nuclear in form [evaluation within the point]."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-1--07-part-f-plan.webp" width="900" height="674" alt="A balance of three arguments that the nuclear family is still dominant against four that it is not, with the judgement that it is dominant as an ideal and life stage but less so as a snapshot of households." loading="lazy">
+  <figcaption>Three developed arguments each side, then a judgement.</figcaption>
+</figure>
 
 ## Common mistakes
 

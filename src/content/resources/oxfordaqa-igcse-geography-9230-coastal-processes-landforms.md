@@ -47,12 +47,22 @@ As a wave reaches shallow water, friction with the sea bed slows its base, the w
 | Effect | Carry material up the beach and build it up | Drag material down the beach and erode it |
 | Typical conditions | Calm weather, distant storms | Storms, strong local winds |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-coasts--01-constructive-destructive-waves.webp" width="900" height="860" alt="Two beach cross-sections. A low constructive wave has a strong swash and weak backwash and builds a gentle, wide beach. A high destructive wave has a weak swash and strong backwash, removes material and leaves a steep, narrow beach." loading="lazy">
+  <figcaption>Which flow is stronger, swash or backwash, decides whether a wave builds or removes a beach.</figcaption>
+</figure>
+
 ## Weathering
 
 Weathering is the breakdown of rock **in place**, without movement. It weakens cliffs so that erosion and mass movement work faster.
 
 - **Mechanical weathering** breaks rock into pieces without changing its chemistry. In **freeze-thaw**, water enters cracks, freezes and expands, widening the crack; repeated cycles break fragments off. In **salt weathering**, seawater evaporates in cracks and salt crystals grow, forcing the rock apart.
 - **Chemical weathering** changes the minerals in the rock. Rainwater is slightly acidic because it absorbs carbon dioxide, and it slowly dissolves rocks such as limestone and chalk; this is called **carbonation**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-coastal-processes-landforms--01-weathering.webp" width="900" height="655" alt="Freeze-thaw in four stages: water enters a crack, freezes and expands, widens the crack and finally breaks a fragment off. Salt weathering forces rock apart as salt crystals grow in cracks; carbonation dissolves limestone and chalk with slightly acidic rainwater." loading="lazy">
+  <figcaption>Weathering breaks rock down in place and prepares cliffs for erosion.</figcaption>
+</figure>
 
 ## Mass movement
 
@@ -61,6 +71,11 @@ Mass movement is the downhill movement of material under gravity.
 - **Sliding:** a block of rock or soil moves down a slope along a flat surface, often after heavy rain.
 - **Slumping:** saturated material, often clay, moves down a curved surface with a rotational movement, leaving a stepped, curved scar on the cliff.
 - **Rock falls:** fragments break away from a steep cliff face and fall, often after freeze-thaw weathering or undercutting by the sea.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-coastal-processes-landforms--02-mass-movement.webp" width="900" height="566" alt="Three cliff cross-sections. Sliding: a block moves down a flat surface. Slumping: saturated clay rotates down a curved surface, leaving a curved scar. Rock fall: fragments break from a steep cliff, often one undercut by the sea, and fall to its foot." loading="lazy">
+  <figcaption>Sliding, slumping and rock falls are all movement of material downhill under gravity.</figcaption>
+</figure>
 
 ## Erosion
 
@@ -81,6 +96,11 @@ Longshore drift moves sediment **along** the coast.
 3. The backwash drags it straight back down the beach, at right angles to the coast, under gravity.
 4. Repeated many times, sediment moves in a zigzag along the beach in the direction of the prevailing wind.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-coasts--03-longshore-drift.webp" width="900" height="760" alt="Plan view of a beach. Waves approach at an angle driven by the prevailing wind. A pebble is carried up the beach diagonally by the swash and dragged straight back down by the backwash, so it zig-zags along the coast." loading="lazy">
+  <figcaption>Swash at an angle, backwash straight down: the zig-zag that moves sediment along the coast.</figcaption>
+</figure>
+
 ## Deposition
 
 Deposition happens when the sea loses energy and can no longer carry its sediment. It is likely:
@@ -100,6 +120,11 @@ Deposition happens when the sea loses energy and can no longer carry its sedimen
 - On a **concordant coast**, the bands run parallel to the coastline, so a single resistant band protects the softer rock behind it; where the sea breaks through, a small, rounded cove may form.
 - **Joints and faults** are lines of weakness that erosion exploits, and the **dip** of the rock layers affects the steepness and stability of the cliff.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-coastal-processes-landforms--03-discordant-concordant.webp" width="900" height="617" alt="Two plan views. On a discordant coast, hard and soft bands meet the sea at right angles: soft rock erodes into bays with beaches and hard rock stands out as headlands. On a concordant coast the bands run parallel to the shore; a resistant band protects softer rock until the sea breaks through and a rounded cove forms." loading="lazy">
+  <figcaption>The direction of the rock bands decides whether you get headlands and bays or coves.</figcaption>
+</figure>
+
 ## Erosional landforms
 
 **Headlands and bays.** On a discordant coast, the less resistant rock erodes faster and forms bays; the resistant rock projects out to sea as headlands. Once headlands stand out, waves bend around them and concentrate energy on them, while bays become sheltered areas of deposition, often with beaches.
@@ -118,6 +143,16 @@ Deposition happens when the sea loses energy and can no longer carry its sedimen
 4. The remaining isolated column of rock is a **stack**.
 5. Further erosion at its base may reduce the stack to a low **stump**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-coastal-processes-landforms--04-wave-cut-platform.webp" width="900" height="582" alt="Three cross-sections. Waves cut a notch at the cliff base between high and low tide; the overhang above collapses and the cliff retreats; repeated over time, a gently sloping wave-cut platform is left at the foot of the cliff, exposed at low tide." loading="lazy">
+  <figcaption>Undercutting and collapse, repeated, move the cliff back and leave a platform.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-coasts--04-cave-arch-stack-stump.webp" width="900" height="820" alt="Five front views of a headland. 1: a crack at the base. 2: the crack widens into a cave. 3: caves meet to form an arch. 4: the arch roof collapses, leaving a stack. 5: the stack is eroded into a stump covered at high tide." loading="lazy">
+  <figcaption>Erosion of a headland follows one sequence from crack to stump.</figcaption>
+</figure>
+
 ## Depositional landforms
 
 **Beaches.** Accumulations of sand or shingle between the low-tide line and the highest point reached by storm waves, built mainly by constructive waves in sheltered places such as bays. Sand beaches are usually gently sloping; shingle beaches are steeper because the larger material lets the backwash drain into it.
@@ -132,6 +167,16 @@ Deposition happens when the sea loses energy and can no longer carry its sedimen
 5. Sheltered, calm water behind the spit may let fine sediment settle, forming **salt marsh**.
 
 **Bars.** If a spit grows across a bay and joins the land on the other side, it forms a **bar**, trapping a shallow **lagoon** behind it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-coastal-processes-landforms--05-spit-to-bar.webp" width="900" height="615" alt="Two plan views of a bay. Longshore drift builds a spit part-way across it, with calm water behind. When the ridge reaches the land on the other side it becomes a bar, trapping a shallow lagoon." loading="lazy">
+  <figcaption>A bar is a spit that has closed off the bay, trapping a lagoon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-coasts--05-spit-formation.webp" width="900" height="700" alt="Plan view of a coastline that bends inland at a river mouth. Longshore drift carries sediment east past the bend, where it is deposited as a long narrow spit. A change in wind direction curves the end into a hook. Salt marsh forms in the sheltered water behind the spit." loading="lazy">
+  <figcaption>A spit grows where longshore drift meets a bend in the coast; its end can curve into a hook.</figcaption>
+</figure>
 
 ## Worked example: a 4-mark answer
 

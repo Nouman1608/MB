@@ -43,6 +43,11 @@ The list mixes forms: short story (*افسانہ*), essay (*مضمون*), humoro
 personal letter (*خط*). Each form invites different questions, so your notes on each text should
 record what kind of writing it is and what that form allows the writer to do.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-prose-essay--01-prescribed-prose.webp" width="900" height="768" alt="The eight prescribed prose items: seven pieces by Azad, Farhatullah Baig, Ghulam Abbas, Qasmi, Sir Syed Ahmed Khan, Yousafi and Imtiaz Ali Taj, plus two letters from Khatoot e Ghalib. They span four forms: short story (افسانہ), essay (مضمون), humorous writing (مزاح) and personal letter (خط)." loading="lazy">
+  <figcaption>Eight items in four forms: know what each form lets its writer do.</figcaption>
+</figure>
+
 ## The question types
 
 The syllabus says candidates will be asked to show "informed and appropriate personal response",
@@ -57,6 +62,11 @@ gives four common shapes:
 | Theme or idea | *مصنف نے ... کو کس طرح پیش کیا ہے؟* | the idea traced through key moments, with method |
 | Writer's methods | *مصنف نے مزاح / طنز / منظر نگاری کس طرح پیدا کی ہے؟* | technique at the centre, with effects |
 | Empathic | *آپ ... ہیں۔ ... کے بعد اپنے خیالات لکھیے۔* | a character's voice, faithful to the text |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-prose-essay--02-question-shapes.webp" width="900" height="638" alt="Four common prose questions with their typical Urdu wording: character (... کے کردار کے بارے میں آپ کیا محسوس کرتے ہیں؟), theme (مصنف نے ... کو کس طرح پیش کیا ہے؟), writer's methods (مزاح / طنز / منظر نگاری) and the empathic task (آپ ... ہیں۔), each with what the answer needs." loading="lazy">
+  <figcaption>Recognise the shape from the wording, then give what that shape needs.</figcaption>
+</figure>
 
 ## Prose methods to discuss
 
@@ -73,6 +83,11 @@ gives four common shapes:
   syllabus listing itself shows one letter opening with questions to its reader (*بھائی! کیا پوچھتے
   ہو؟ کیا لکھوں؟*), a sign of the conversational manner worth discussing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-prose-essay--03-prose-methods.webp" width="900" height="810" alt="Six methods with their Urdu terms: narrator (راوی), structure and rising tension (عروج), characterisation (کردار نگاری), irony and satire (طنز), humour (مزاح) and the conversational style of letters, as in a letter opening بھائی! کیا پوچھتے ہو؟ کیا لکھوں؟. A surprise ending (چونکا دینے والا انجام) can change the whole reading." loading="lazy">
+  <figcaption>Name the method, then show its effect at a specific moment.</figcaption>
+</figure>
+
 ## Writing the analytical prose essay
 
 The plan is the same as for poetry, but your evidence is **key moments** rather than couplets.
@@ -85,6 +100,11 @@ The plan is the same as for poetry, but your evidence is **key moments** rather 
 Because prose texts are longer than poems, the risk is **retelling**. Test every paragraph: if you
 deleted your analysis, would only plot remain? If so, the paragraph is mostly narrative and sits at
 Level 2 or 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-prose-essay--04-key-moments.webp" width="900" height="610" alt="A body paragraph moves from what happens, to a short quotation, to what it reveals about the focus, to the writer's method. The retelling test: delete the analysis, and if only plot remains, the paragraph is mostly narrative and sits at Level 2 or 3." loading="lazy">
+  <figcaption>Prose evidence is key moments; analysis, not plot, earns the marks.</figcaption>
+</figure>
 
 ## The empathic task
 
@@ -121,6 +141,21 @@ Model opening:
 character. Details are specific and consistent with the situation. Feelings are shown through memory
 and gesture rather than announced. In the exam, the details would come from the set text, and the
 voice would echo the way the writer presents that character.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-prose-essay--05-empathic-levels.webp" width="900" height="584" alt="Four bands for the empathic task: the top level is &quot;sustaining an appropriate voice&quot;, Level 4 uses &quot;suitable features of expression&quot;, Level 3 is &quot;beginning to assume a voice&quot;, and Levels 1 and 2 show a basic understanding &quot;of character&quot;." loading="lazy">
+  <figcaption>The higher the level, the more fully and steadily the character's voice is held.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-prose-essay--06-empathic-rules.webp" width="900" height="592" alt="Four requirements for the empathic task: stay faithful to the text, weave in close reference without quotation marks, use a voice that suits the character, and write thoughts and feelings rather than a summary. Before writing, fix what has just happened, what the character knows and what they fear or want." loading="lazy">
+  <figcaption>Fix the moment, then speak as the character, using the text's own details.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-prose-essay--07-empathic-example.webp" width="900" height="898" alt="The task آپ مالی ہیں۔ آخری دن گھر لوٹتے ہوئے اپنے خیالات لکھیے۔ and four features of the model opening: memory (تیس برس...), a specific detail about the rose bed under cement, a humble voice (ہم جیسوں کا کہنا ہی کیا۔) and feeling shown through a gesture at the guava tree." loading="lazy">
+  <figcaption>Plain voice, specific detail, feeling shown through memory and gesture.</figcaption>
+</figure>
 
 ## Common mistakes
 

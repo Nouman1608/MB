@@ -34,6 +34,11 @@ This guide covers key question **6.2 What are the patterns of and explanations f
 
 The central skill is to separate two questions. **Do some groups commit more crime?** And **are some groups more likely to be caught, recorded and punished?** Almost every evaluation in 6.2 comes back to that distinction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--01-two-questions.webp" width="900" height="611" alt="A group over-represented in crime statistics raises two questions: do they commit more crime (strain, status frustration, relative deprivation, masculinity) or are they more likely to be caught, recorded and punished (police targeting, labelling, institutional racism, chivalry, white-collar crime handled outside courts)?" loading="lazy">
+  <figcaption>Separate offending from being caught and recorded.</figcaption>
+</figure>
+
 ## Patterns of crime and victimisation (6.2.1)
 
 Official statistics in many societies show four broad patterns. Describe them in words; do not invent figures.
@@ -42,6 +47,11 @@ Official statistics in many societies show four broad patterns. Describe them in
 - **Social class**: working-class people are over-represented among those convicted and imprisoned. Victimisation is also concentrated in poorer areas.
 - **Gender**: men commit most recorded crime, especially violent crime. Men are more often victims of violence in public; women are more often victims of domestic abuse and sexual violence.
 - **Ethnicity**: in some societies, members of certain minority ethnic groups are over-represented in stop and search, arrest and prison figures, and minority groups may also face higher risks of victimisation, including hate crime.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--02-patterns.webp" width="900" height="555" alt="Patterns of recorded offending and victimisation by age, social class, gender and ethnicity, described in words." loading="lazy">
+  <figcaption>Each group has a pattern of offending and a pattern of victimisation.</figcaption>
+</figure>
 
 ## Explanations by social characteristic (6.2.2–6.2.5)
 
@@ -76,6 +86,11 @@ Official statistics in many societies show four broad patterns. Describe them in
 - **Material and relative deprivation**: some minority groups are more likely to live in poverty and in heavily policed inner-city areas.
 - **Gang culture and status frustration**: blocked opportunities, including through discrimination in education and employment, may lead some young people to seek status in gangs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--05-gender-and-crime.webp" width="900" height="663" alt="Carlen’s class deal and gender deal: women who gain the rewards of paid work and family life conform, while those who gain from neither are more likely to offend. Below, Heidensohn on tighter control of women, Pollak’s chivalry thesis and Messerschmidt on accomplishing masculinity." loading="lazy">
+  <figcaption>Control, deals, leniency and masculinity all help explain the gap.</figcaption>
+</figure>
+
 ## Theories of crime (6.2.6)
 
 **Functionalism.** Émile Durkheim saw some crime as normal and functional, but too much crime as a sign of **anomie** (normlessness). Robert Merton's (1938) **strain theory** argued that when society values goals such as wealth but blocks legitimate means, people adapt in five ways: **conformity**, **innovation** (crime to reach goals), **ritualism**, **retreatism** and **rebellion**. **Subculturalism** includes Albert Cohen's status frustration and Richard Cloward and Lloyd Ohlin's (1960) three subcultures (criminal, conflict and retreatist), which depend on what illegitimate opportunities exist locally. The **New Right**, represented by Charles Murray, blames inadequate socialisation in an underclass.
@@ -87,6 +102,16 @@ Official statistics in many societies show four broad patterns. Describe them in
 **Feminism.** Feminists explain women's low recorded crime through **patriarchal control** (Heidensohn). Pat Carlen (1988) argued women conform when they gain from the **class deal** (rewards of paid work) and the **gender deal** (rewards of family life); those who gain from neither are more likely to offend. Feminists also highlight women as **victims** of domestic and sexual violence.
 
 **Postmodernism.** Postmodernists argue no single theory explains crime in a diverse, fragmented society. Consumer culture creates desires and identities some pursue through crime; new forms of crime, such as cyber crime and hate crime, reflect changing identities and technologies; and some crime is about excitement and emotion rather than material need.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--03-merton-strain.webp" width="900" height="574" alt="Society values goals such as wealth but blocks legitimate means for some, creating strain. People adapt in five ways: conformity, innovation, ritualism, retreatism and rebellion. Innovation, using crime to reach the goal, is the adaptation that explains crime." loading="lazy">
+  <figcaption>Innovation is the adaptation that leads to crime.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--04-labelling-amplification.webp" width="900" height="808" alt="Primary deviance becomes secondary deviance once a label, possibly a master status, is applied. Below, Stanley Cohen’s deviancy amplification spiral: media exaggeration creates folk devils, public concern, tougher control and more deviance, which the media report." loading="lazy">
+  <figcaption>Labels and media reactions can create the deviance they condemn.</figcaption>
+</figure>
 
 ## Evaluating explanations (6.2.7)
 
@@ -100,6 +125,11 @@ Official statistics in many societies show four broad patterns. Describe them in
 | Feminism | Explains the gender gap | May treat all women as the same |
 | Postmodernism | Fits new and diverse crimes | Offers little explanation of persistent patterns by class |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--06-theories-evaluated.webp" width="900" height="550" alt="A table of five theories of crime with a key idea, strength and limitation each: functionalism, interactionism, Marxism, feminism and postmodernism." loading="lazy">
+  <figcaption>Every theory explains some patterns and misses others.</figcaption>
+</figure>
+
 ## Worked example: planning a part (f) answer
 
 *Evaluate the view that gender differences in crime are mainly the result of socialisation and social control.*
@@ -109,6 +139,11 @@ Official statistics in many societies show four broad patterns. Describe them in
 - **Judgement**: socialisation and control explain much of the gap, but recording practices and opportunity also matter.
 
 **Annotated sample sentence:** *"However, the chivalry thesis [names an alternative] suggests the statistics exaggerate the gap, because police may caution women where they would charge men [mechanism], so lower recorded female crime may not mean lower offending [link to the view]."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-2--07-gender-gap-evaluate.webp" width="900" height="679" alt="A balance weighing socialisation and control (Heidensohn, gendered socialisation) against alternatives (chivalry thesis, Messerschmidt, Carlen, changing opportunities). The judgement: socialisation explains much, but recording and opportunity also matter." loading="lazy">
+  <figcaption>Include the statistics debate and at least one alternative explanation.</figcaption>
+</figure>
 
 ## Common mistakes
 

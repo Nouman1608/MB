@@ -53,6 +53,11 @@ Learn the life in four blocks, each with a short list of events you can describe
 | Hijra | 622 | Plot of the Quraysh; Ali in his bed; cave of Thawr with Abu Bakr; Quba; arrival in Madina |
 | Madina | 622–632 | Mosque; brotherhood; Constitution of Madina; Badr; Uhud; the Trench; Hudaybiyya; letters to rulers; conquest of Makka; Farewell Pilgrimage; death |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-life-prophet--01-four-blocks.webp" width="900" height="624" alt="The life divided into four blocks for revision: before prophethood (570-610), Makkah (610-622), the Hijra (622) and Madinah (622-632), each with its core events, from the Year of the Elephant to the Farewell Pilgrimage." loading="lazy">
+  <figcaption>Revise the life as four blocks, each with events you can describe in detail.</figcaption>
+</figure>
+
 ## What happened in Makka, and how did his opponents respond?
 
 For about three years the Prophet (pbuh) invited people privately; early believers included Khadija,
@@ -81,6 +86,11 @@ Hope returned with the **Isra and Mi'raj**, the night journey to Jerusalem and a
 five daily prayers were made obligatory, and with the **pledges of Aqaba**, when people from Yathrib
 (Madina) accepted Islam and promised to protect him.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-life-prophet--02-makkan-opposition.webp" width="900" height="954" alt="The Quraysh opposed the message for economic, social and political reasons. Their response grew from mockery and offers, to pressure on Abu Talib, persecution of Bilal and Sumayya, the migration to Abyssinia, the boycott, the Year of Sorrow and rejection at Ta'if. Hope returned with the Isra and Mi'raj and the pledges of Aqaba." loading="lazy">
+  <figcaption>Opposition grew step by step, and so did the hardship, until Aqaba opened a way out.</figcaption>
+</figure>
+
 ## How did he lead the community in Madina?
 
 After the Hijra in 622 he built a community from the start:
@@ -95,6 +105,16 @@ His conflicts with the Makkans and others include Badr (2 AH, 624), Uhud (3 AH, 
 AH, 627), the Treaty of Hudaybiyya (6 AH, 628), Khaybar (7 AH), the conquest of Makka (8 AH, 630) and
 the expedition to Tabuk (9 AH). In 10 AH he led the Farewell Pilgrimage and gave his sermon at
 Arafat; he died in Madina in 11 AH (632), in the room of A'isha.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-life-prophet--03-building-the-community.webp" width="900" height="540" alt="Four foundations after the Hijra: the mosque as a centre for worship, teaching and decisions; brotherhood pairing Emigrants with Helpers; the Constitution of Madinah setting rights and duties for Muslims, Jewish tribes and others; and the change of qibla to the Ka'ba in 2 AH." loading="lazy">
+  <figcaption>Worship, brotherhood and a shared constitution made one community.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-life-prophet--04-madinan-timeline.webp" width="900" height="766" alt="A timeline of the Madinan period: Badr (2 AH, 624), Uhud (3 AH, 625), the Trench (5 AH, 627), the Treaty of Hudaybiyya (6 AH, 628), Khaybar (7 AH), the conquest of Makkah (8 AH, 630), Tabuk (9 AH), the Farewell Pilgrimage (10 AH) and his death in Madinah (11 AH, 632)." loading="lazy">
+  <figcaption>Ten years from Badr to the Farewell Pilgrimage.</figcaption>
+</figure>
 
 ## What do his actions show about his character?
 
@@ -111,6 +131,11 @@ Examiners reward character shown through specific actions:
 - **Justice:** he said that if his own daughter Fatima stole he would apply the same punishment as for
   anyone else.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-life-prophet--05-character-in-action.webp" width="900" height="702" alt="Five qualities each tied to an action: trustworthiness (returning his enemies' goods on the night of the Hijra), patience and forgiveness (Ta'if and the conquest of Makkah), humility (mending clothes, digging the trench), consultation (Salman's trench advice, Uhud) and justice (the same law even for Fatima)." loading="lazy">
+  <figcaption>Name the quality, then prove it with a specific action.</figcaption>
+</figure>
+
 ## What example does he give individuals?
 
 **In personal conduct:** honesty in trade, keeping promises, simple living, and prayer and fasting
@@ -124,6 +149,11 @@ have rights over men; and his saying that the best of people are those who are b
 stood up when a Jewish funeral passed, saying "Was it not a soul?"; he accepted the protection of the
 Christian Negus; he honoured treaties with the Quraysh even when they were hard on Muslims.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-life-prophet--06-example-for-individuals.webp" width="900" height="478" alt="Three areas of example: personal conduct (honesty in trade, keeping promises, simple living, extra worship); relations with women (trust in Khadija, Umm Salama's advice, mutual rights in the Farewell Sermon); and relations with non-Muslims (the Constitution of Madinah, standing for a Jewish funeral, the Negus's protection, honouring treaties)." loading="lazy">
+  <figcaption>Each lesson for individuals rests on something he did.</figcaption>
+</figure>
+
 ## What example does he give communities and states?
 
 - **Treaties:** at Hudaybiyya he accepted difficult terms to gain peace, and kept them, returning Abu
@@ -136,6 +166,11 @@ Christian Negus; he honoured treaties with the Quraysh even when they were hard 
 - **Agreements with minorities:** the Constitution of Madina is a model for citizens of different
   faiths living under one set of laws.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-life-prophet--07-example-for-states.webp" width="900" height="778" alt="Five lessons for states: keeping treaties, as at Hudaybiyya; diplomacy through letters to rulers; rules of war protecting women, children and non-combatants; mercy in victory at Makkah; and the Constitution of Madinah as a model for minorities. The worked answer draws reconciliation and civilian protection from the conquest of Makkah." loading="lazy">
+  <figcaption>For a question on states, draw lessons for states, not individuals.</figcaption>
+</figure>
+
 ## Why is he the Seal of the Prophets?
 
 Sura 33.40 calls him "the Messenger of God and the Seal of the Prophets". Muslims believe:
@@ -144,6 +179,11 @@ Sura 33.40 calls him "the Messenger of God and the Seal of the Prophets". Muslim
 - earlier prophets were sent to particular peoples, but he was sent to all humanity (Sura 34.28);
 - his Sunnah, preserved in the Hadiths, is the model Muslims follow (Sura 33.21);
 - belief in the finality of his prophethood is part of faith, so a claim to new prophethood is rejected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-life-prophet--08-seal-of-the-prophets.webp" width="900" height="600" alt="Sura 33.40 calls him the Seal of the Prophets. Four beliefs follow: his message is final, he was sent to all humanity (Sura 34.28), his Sunnah is the model to follow (Sura 33.21), and belief in the finality of prophethood is part of faith." loading="lazy">
+  <figcaption>Final, universal, the model to follow: what &quot;Seal of the Prophets&quot; means.</figcaption>
+</figure>
 
 ## Worked example: a 4-mark part (b)
 

@@ -16327,3 +16327,9 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
   - Cambridge 9489 Malaysia/Indonesia pages: the syllabus lists 'Malayan Military Administration' under Japanese rule; the page describes the Japanese military administration, but the term usually means the British Military Administration of 1945-46. Teacher to confirm.
   - OxfordAQA 9210: existing model pages link the specification at a URL that now returns 404; the live PDF is Version 3.4 (uploads/2026/06/oxfordaqa-gcse-computer-science-specification.pdf).
   - Cambridge 9990: syllabus dates Pozzulo et al. 2011; the existing reviewed page says 2012. New pages give no year.
+
+## D-491 - Topic figures for the 79 newer lessons (17 Nov 2026)
+
+- Owner, 17 Nov 2026: "make figures for the 79 new lessons" (the D-488 pages that had no figure).
+- **Figures.** 554 new house-style figures plus 19 reused existing ones across 79 lessons in 11 courses (IB DP History and Computer Science; Cambridge IGCSE Sociology 0495, Islamiyat 0493 and Literature 0475; Cambridge 9239 Global Perspectives; Cambridge O Level English 1123 and Urdu 3247/3248; OxfordAQA 9230 Geography and 9292 Sociology), placed at the end of the section each illustrates. The topic-images report again lists 0 lessons and 0 AP guides without a figure.
+- No lesson-text errors were found. Figures with invented shapes or values say "illustrative" or "schematic" on the figure; history figures carry no maps beyond labelled schematics and draw no people; Islamiyat figures are text and diagrams only. Reviewer credits unchanged.

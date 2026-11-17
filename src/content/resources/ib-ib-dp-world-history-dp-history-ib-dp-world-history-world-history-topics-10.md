@@ -35,6 +35,11 @@ The IB History guide organizes the content in three parts.
 
 Notice the last bullet: questions can ask how far control was *really* achieved, not only how leaders tried.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10--01-three-parts.webp" width="900" height="699" alt="Three stacked parts. Emergence: conditions such as economic factors, social division, war and weak political systems, and methods such as persuasion, coercion, ideology, force and propaganda. Consolidation: legal methods, force, charisma, propaganda, treatment of opposition and foreign policy. Aims and results of policies, including women and minorities. A final box asks how far control was really achieved." loading="lazy">
+  <figcaption>Learn the topic by theme: emergence, consolidation, policies and results.</figcaption>
+</figure>
+
 ## Key ideas
 
 ### Emergence: conditions and methods are different questions
@@ -48,6 +53,11 @@ Notice the last bullet: questions can ask how far control was *really* achieved,
 | Mao's China | Decades of civil war, Japanese invasion, Guomindang corruption and inflation | Peasant mobilization, land reform in communist areas, the People's Liberation Army; victory in the civil war; PRC proclaimed 1 October 1949 |
 | Castro's Cuba | Batista's corrupt dictatorship, US economic dominance, rural poverty | Guerrilla war from the Sierra Maestra after the *Granma* landing (1956); Batista fled on 1 January 1959 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10--02-conditions-vs-methods.webp" width="900" height="530" alt="Four rows, one per state, each with conditions on the left and methods on the right. Stalin: civil war legacy and single-party rule, then control of the party machine and alliances against rivals. Hitler: defeat, Versailles, hyperinflation and the Depression, then a mass party, SA violence and a deal with elites leading to the chancellorship on 30 January 1933. Mao: civil war, invasion and Guomindang corruption, then peasant mobilization and victory in 1949. Castro: Batista's dictatorship and rural poverty, then guerrilla war from 1956 to Batista's flight on 1 January 1959." loading="lazy">
+  <figcaption>Conditions explain why; methods explain how a particular leader took power.</figcaption>
+</figure>
+
 ### Consolidation: legal methods and force together
 
 Authoritarian leaders rarely relied on force alone.
@@ -58,6 +68,16 @@ Authoritarian leaders rarely relied on force alone.
 - **Treatment of opposition:** from co-option (the Concordat with the Catholic Church, July 1933) to exile (Trotsky, expelled from the USSR in 1929) to imprisonment, labour camps and execution.
 - **Foreign policy:** Hitler's bloodless successes (the Rhineland in 1936, Austria and the Sudetenland in 1938) boosted his popularity; Castro's defeat of the Bay of Pigs invasion (April 1961) strengthened his regime.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10--03-consolidation-toolkit.webp" width="900" height="598" alt="A central circle, holding power, linked to five methods: legal methods such as the Reichstag fire decree and Enabling Act; force such as the Night of the Long Knives and the Great Terror; charisma and propaganda in personality cults; treatment of opposition from co-option to exile and imprisonment; and foreign policy success such as Hitler's bloodless gains and Castro's Bay of Pigs victory." loading="lazy">
+  <figcaption>Weigh force against legal methods, propaganda and popularity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10--04-hitler-consolidation.webp" width="900" height="669" alt="A vertical timeline: Hitler appointed chancellor on 30 January 1933; the Reichstag fire decree (28 February 1933) and the Enabling Act (23 March 1933); other parties banned and the Concordat in July 1933; the Night of the Long Knives on 30 June 1934; and foreign successes in the Rhineland (1936) and Austria and the Sudetenland (1938). Colours separate legal methods, force and foreign policy." loading="lazy">
+  <figcaption>Legal steps came first, force followed, and foreign success added popularity.</figcaption>
+</figure>
+
 ### Policies: aims against results
 
 The strongest essays test whether policies achieved what leaders intended.
@@ -67,9 +87,19 @@ The strongest essays test whether policies achieved what leaders intended.
 - **Minorities:** Nazi persecution of Jews (the Nuremberg Laws, 1935; *Kristallnacht*, November 1938) leading to genocide; Stalin's deportation of whole nationalities during the Second World War.
 - **Culture and religion:** socialist realism in the USSR; the destruction of "old" culture in China's Cultural Revolution (from 1966); state control of the arts and media in all four.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10--05-policies-results.webp" width="900" height="612" alt="A table of six policies with results and limits. Stalin's Five-Year Plan brought rapid industrial growth but famine in 1932-33; the Great Leap Forward ended in catastrophic famine; Nazi rearmament cut unemployment but strained the economy; Nazi motherhood policy was undercut as women's employment rose; Mao's Marriage Law banned arranged marriages; Castro's regime made gains for women in education and health while traditional roles persisted." loading="lazy">
+  <figcaption>Measure results against aims, and look for the limits.</figcaption>
+</figure>
+
 ### How total was control?
 
 Historians have long debated the concept of "totalitarianism". Some stress the terror and ideology that set these states apart; others show how much depended on ordinary people's co-operation, denunciation or indifference, and on the limits of the state's reach. Use the debate to evaluate the third bullet of the topic, not as a list of labels.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10--06-how-total-control.webp" width="900" height="469" alt="A spectrum from control from above, stressing terror and ideology, to limits from below, stressing ordinary people's co-operation, denunciation or indifference and the limits of the state's reach. Below, evidence of limits to look for: resistance, inefficiency, the survival of churches and private attitudes." loading="lazy">
+  <figcaption>Test &quot;totalitarian&quot; against the evidence of what the state could not control.</figcaption>
+</figure>
 
 ## Worked example: a comparative plan
 
@@ -88,6 +118,11 @@ Historians have long debated the concept of "totalitarianism". Some stress the t
 
 **Conclusion:** both regimes were consolidated by a mix of methods, but the balance differed: terror was central for Stalin, nationalism and mobilization for Castro.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10--07-stalin-castro-grid.webp" width="900" height="794" alt="A thesis, then a grid comparing Stalin and Castro on four themes with a judgement for each: institutions (Stalin captured them, Castro created them), force (far greater scale under Stalin), persuasion (Castro relied more on popularity) and foreign policy (more important for Castro, after the Bay of Pigs). The conclusion: terror was central for Stalin, nationalism and mobilization for Castro." loading="lazy">
+  <figcaption>Organize by theme and end each row with a judgement.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Mixing up conditions and methods** in emergence questions.
@@ -105,6 +140,11 @@ Paper 2 essays are marked out of 15 using the markbands explained in the [world 
 - **"To what extent was force the main method..."**: weigh force against legal methods, propaganda and popularity.
 - **"Evaluate the success of the economic (or social) policies of..."**: set criteria and judge results against aims.
 - **"Compare and contrast..."**: organize by theme, both leaders in every paragraph.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-world-history-topics-study-guide--09-wh-compare-grid.webp" width="900" height="876" alt="A thesis banner sits above a grid. Each row is a point of comparison (force, propaganda and ideology, economic policy, control of institutions) with Leader A and Leader B boxes joined by a two-way arrow." loading="lazy">
+  <figcaption>Each paragraph deals with both leaders on one point of comparison.</figcaption>
+</figure>
 
 ## Use with the other pages
 

@@ -36,6 +36,11 @@ Question 3 is the largest question on the paper: 25 of the 45 marks, so a propor
 
 So Question 3 is not two separate summaries followed by your opinion. It is a comparison, organised by criteria, that ends in a judgement you have reasoned your way to. Phrases such as "To what extent ...?" and "Make an overall judgement", which the syllabus says may appear, both demand that judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--01-question-3-skills.webp" width="900" height="563" alt="Question 3 carries 25 of the paper’s 45 marks, about 50 of the 90 minutes. It combines three AO1 skills, comparing argument components, comparing perspectives and judging them, with the AO3 skill of communicating clearly and logically." loading="lazy">
+  <figcaption>The biggest question: a criteria-based comparison that ends in a judgement.</figcaption>
+</figure>
+
 ## Arguments and perspectives: keep the two levels apart
 
 The syllabus key terms make a useful distinction:
@@ -44,6 +49,11 @@ The syllabus key terms make a useful distinction:
 - A **perspective** is "a coherent world view which is a response to an issue", made up of "argument, evidence and assumptions" and possibly "influenced by a particular context".
 
 In practice, compare at both levels. At the **argument** level, ask how well each source's reasons support its conclusion. At the **perspective** level, ask what view of the world sits behind each source: which values come first, what is taken for granted, and why someone in that position might see the issue that way. A top answer moves between the two: "Source B's argument is weaker in its use of evidence, but its perspective takes account of people that Source A ignores."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--02-argument-perspective.webp" width="900" height="524" alt="At the argument level, ask how well each source’s reasons support its conclusion. At the perspective level, ask what world view lies behind each source: its values, assumptions and context. Strong answers move between the two levels." loading="lazy">
+  <figcaption>Judge the reasoning, then the world view behind it, and link the two.</figcaption>
+</figure>
 
 ## A toolkit of comparison criteria
 
@@ -65,6 +75,16 @@ Two rules for using the toolkit:
 1. **Compare within each paragraph.** "Source A does X, whereas Source B does Y" in the same paragraph is the core move. Writing all of Source A, then all of Source B, leaves the comparison to the reader.
 2. **Make each paragraph end with a mini-judgement.** "On this criterion, Source B is stronger because ..." These mini-judgements become the building blocks of your overall verdict.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--03-criteria-toolkit.webp" width="900" height="616" alt="Eight comparison criteria with the question each asks of both sources: logic and structure, use of evidence, assumptions, counter-arguments, use of language, use of analogy, implications, and context and provenance." loading="lazy">
+  <figcaption>Pick the three or four criteria where the sources differ most.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--04-paragraph-organisation.webp" width="900" height="651" alt="A source-by-source answer gives all of Source A, then all of Source B, leaving comparison to the conclusion. A criterion-by-criterion answer puts both sources in every paragraph, “Source A does X, whereas Source B does Y”, and ends each with a mini-judgement." loading="lazy">
+  <figcaption>Both sources in each paragraph, and a mini-judgement at the end of it.</figcaption>
+</figure>
+
 ## Reaching a reasoned judgement
 
 A reasoned judgement does three things:
@@ -74,6 +94,11 @@ A reasoned judgement does three things:
 3. **Acknowledges the limit.** "Source A is more convincing overall, although its perspective overlooks ..." This is not sitting on the fence; it shows you have weighed the other side and still reached a verdict.
 
 Avoid two weak endings: "Both sources have strengths and weaknesses" (no judgement) and a sudden personal view on the issue with no link to the sources (judgement not reasoned from the analysis).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--05-reasoned-judgement.webp" width="900" height="648" alt="Mini-judgements from each comparative paragraph feed a verdict that answers the question, weighs the criteria by saying which one decided it, and acknowledges a limit. Two weak endings: “both have strengths and weaknesses” and a personal view not drawn from the analysis." loading="lazy">
+  <figcaption>Name the winner, say which criterion decided it, and state its limit.</figcaption>
+</figure>
 
 ## Communicating clearly and logically (AO3)
 
@@ -91,6 +116,11 @@ Avoid two weak endings: "Both sources have strengths and weaknesses" (no judgeme
 4. Perspective paragraph (if not already covered): the world view and context behind each source.
 5. Conclusion: weighed verdict and its limit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--06-time-plan.webp" width="900" height="611" alt="Five stages: five minutes rereading and jotting criteria, an introduction with the issue, positions and verdict, three or four comparative paragraphs each ending in a mini-judgement, a perspective paragraph if needed, and a conclusion with a weighed verdict and its limit." loading="lazy">
+  <figcaption>Decide your criteria and verdict before you write the first paragraph.</figcaption>
+</figure>
+
 ## Worked example
 
 The two short sources below are original and written for this guide.
@@ -104,6 +134,11 @@ The two short sources below are original and written for this guide.
 **Model perspective sentence:** "Source A's perspective is shaped by a manager's duty to patients in one country, so it treats the shortage as a domestic problem with an international solution; Source B's is shaped by the experience of the countries nurses leave, so it treats the same movement as a transfer of public investment from poorer to richer health systems."
 
 **Model conclusion:** "Overall, Source B is more convincing. Both rely on limited evidence, but Source B answers its opponent's main argument, while Source A's claim that 'everyone benefits' depends on an assumption it never defends. Source B's weakness is that it generalises from one hospital, so its case would be stronger with national staffing data; even so, its reasoning is sounder."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--07-worked-example.webp" width="900" height="724" alt="Two fictional sources on recruiting nurses from abroad compared by conclusion, key assumption and perspective. The judgement: Source B is more convincing because it answers Source A’s main argument while A relies on an undefended assumption that everyone benefits, though B generalises from one hospital." loading="lazy">
+  <figcaption>Compare criterion by criterion, then let the decisive criterion settle the verdict.</figcaption>
+</figure>
 
 ## Common mistakes
 

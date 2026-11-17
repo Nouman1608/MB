@@ -39,6 +39,11 @@ The sections run roughly from early colonial societies to the end of the twentie
 
 Questions often specify one country, so prepare at least one country in detail for each comparison the sections allow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--13-hl-funnel.webp" width="900" height="1073" alt="A funnel in four steps. The history of Africa and the Middle East, the Americas, Asia and Oceania, and Europe are the four regional options; your school picks one. Each option has 18 sections, shown as 18 numbered tiles, and each section has two questions, 36 questions in all. Your school chooses three sections to study, highlighted in gold; which three is only an example. On the paper you answer any three questions, each an essay marked out of 15." loading="lazy">
+  <figcaption>You study three of eighteen sections and answer any three of 36 questions.</figcaption>
+</figure>
+
 ## Content area 1: the US Civil War and Reconstruction
 
 **Causes.** Slavery and its expansion into the western territories lay at the centre.
@@ -56,6 +61,21 @@ Questions often specify one country, so prepare at least one country in detail f
 
 **Reconstruction (1865-1877).** The Thirteenth (1865), Fourteenth (1868) and Fifteenth (1870) Amendments abolished slavery, defined citizenship and equal protection, and barred racial discrimination in voting. The Freedmen's Bureau supported education and labour contracts. But Black Codes, violence by the Ku Klux Klan and Northern loss of interest undermined change; the Compromise of 1877 withdrew federal troops from the South. A strong essay judges Reconstruction's success by explicit criteria: legal change, political participation, economic independence and lasting effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--01-road-to-civil-war.webp" width="900" height="636" alt="A vertical timeline of six steps: war with Mexico (1846-48), the Compromise of 1850 with its stricter Fugitive Slave Act, the Kansas-Nebraska Act of 1854, the Dred Scott decision of 1857, John Brown's raid in 1859 and Lincoln's election in November 1860, after which South Carolina began secession in December." loading="lazy">
+  <figcaption>Slavery and its expansion into the territories link every step to war.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--02-why-union-won.webp" width="900" height="623" alt="A central circle, Union victory, linked to five factors. Resources: population, industry and railways, and the naval blockade. Leadership: Lincoln and the Emancipation Proclamation of 1 January 1863, and Grant and Sherman's sustained pressure from Vicksburg and Gettysburg in July 1863 to Atlanta in 1864. Confederate weakness: states' rights against central direction. The war ended with Lee's surrender at Appomattox on 9 April 1865." loading="lazy">
+  <figcaption>Resources made a long war winnable; leadership and strategy turned them into victory.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--03-reconstruction-gains-limits.webp" width="900" height="698" alt="Two columns. Changes: the Thirteenth Amendment (1865) abolished slavery, the Fourteenth (1868) defined citizenship and equal protection, the Fifteenth (1870) barred racial discrimination in voting, and the Freedmen's Bureau supported education and labour contracts. Undermined by: Black Codes, Ku Klux Klan violence, Northern loss of interest and the Compromise of 1877. Below, four criteria for judging success." loading="lazy">
+  <figcaption>Set criteria, then weigh legal change against what undermined it.</figcaption>
+</figure>
+
 ## Content area 2: the Mexican Revolution, 1910-1940
 
 **Causes.** Porfirio Díaz ruled from 1876 to 1911 (with a short break), promoting railways and foreign investment while concentrating land and repressing opposition. His 1908 interview with James Creelman suggested he would allow a free election; Francisco Madero challenged him and, after being jailed, issued the Plan of San Luis Potosí calling for revolt on 20 November 1910. Díaz resigned in May 1911.
@@ -70,6 +90,16 @@ Questions often specify one country, so prepare at least one country in detail f
 6. **Cárdenas (1934-40):** large-scale land distribution through *ejidos*; oil expropriation (18 March 1938); reorganization of the ruling party.
 
 **Debate to use.** Was this a popular agrarian revolution or a political revolution that created a new elite? Zapata's movement supports the first view; the dominance of northern leaders and the single-party state that followed support the second. Cárdenas's reforms complicate both, and are central to any question that asks when the revolution achieved its aims.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--04-mexican-revolution-phases.webp" width="900" height="813" alt="A vertical timeline from Díaz's rule (1876-1911) through the Plan of San Luis Potosí (20 November 1910), Madero (1911-13), Huerta (1913-14), civil war among revolutionaries (1914-15), the 1917 Constitution, consolidation under Obregón and Calles (1920-34) and Cárdenas (1934-40), who distributed land and expropriated oil on 18 March 1938." loading="lazy">
+  <figcaption>The revolution has phases from 1910 to 1940; the 1917 Constitution is the midpoint, not the end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--05-mexico-interpretations.webp" width="900" height="401" alt="A spectrum runs from popular agrarian revolution on the left to a political revolution that created a new elite on the right. Zapata's movement sits at the agrarian end; the dominance of northern leaders and the single-party state sit at the new-elite end; Cárdenas's reforms sit in the middle and complicate both views." loading="lazy">
+  <figcaption>Use the evidence to decide where the revolution sits, not just to tell its story.</figcaption>
+</figure>
 
 ## Content area 3: civil rights and social movements after 1945
 
@@ -88,6 +118,11 @@ Questions often specify one country, so prepare at least one country in detail f
 
 **Why progress came in the 1960s.** Weigh grassroots organization and non-violent direct action, media coverage of violent responses (Birmingham, Selma), federal courts, Presidents Kennedy and Johnson, and the Cold War, which made segregation an embarrassment abroad. Other social movements, such as the farm workers led by César Chávez and the American Indian Movement, can extend a section on social movements beyond African American civil rights.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--06-civil-rights-progress.webp" width="900" height="596" alt="A central circle, the Civil Rights Act of 1964 and the Voting Rights Act of 1965, linked to five factors: grassroots organization and non-violent direct action, media coverage of violent responses at Birmingham and Selma, federal courts, Presidents Kennedy and Johnson, and the Cold War. A note adds other movements such as the farm workers and the American Indian Movement." loading="lazy">
+  <figcaption>Civil rights is not the story of King alone: weigh several causes.</figcaption>
+</figure>
+
 ## Worked example: a model conclusion
 
 **Question:** "To what extent did the Mexican Revolution achieve its aims by 1940?"
@@ -95,6 +130,11 @@ Questions often specify one country, so prepare at least one country in detail f
 > "By 1940 the Revolution had achieved its political aim of ending the personal dictatorship of the Porfiriato and its social aims in part. The 1917 Constitution created a legal basis for land reform, labour rights and national control of resources, but for two decades these remained largely promises; it was Cárdenas's distribution of land through *ejidos* and the oil expropriation of 1938 that turned them into policy. Yet the political settlement fell short of Madero's ideal of effective suffrage: the party founded in 1929 governed without real electoral competition. The Revolution therefore achieved most of its social and nationalist aims by 1940, but only by replacing one form of centralized power with another."
 
 **Why it works:** it separates the different aims, uses precise evidence, judges each aim, and gives an overall answer to "to what extent" in the final sentence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2--07-mexico-aims-scorecard.webp" width="900" height="601" alt="Three aims of the Mexican Revolution, each judged separately: ending the personal dictatorship was achieved; land reform, labour rights and national control of resources were achieved in part, becoming policy only under Cárdenas; Madero's effective suffrage fell short because the party founded in 1929 faced no real electoral competition. A final box gives the overall judgement." loading="lazy">
+  <figcaption>Separate the aims, judge each, then answer &quot;to what extent&quot; overall.</figcaption>
+</figure>
 
 ## Common mistakes
 

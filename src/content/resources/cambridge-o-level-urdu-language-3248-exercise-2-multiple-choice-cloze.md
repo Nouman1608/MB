@@ -41,6 +41,11 @@ This page works through the grammar points themselves.
    expression.
 4. **Eliminate**, then read the full sentence with your choice in place.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--01-approach-every-gap.webp" width="900" height="670" alt="Four steps for each gap: read the whole passage, name the grammar point the options test, find the clue in the sentence, then eliminate and reread. Typical clues include نے for agreement, سے for comparison, a time word such as کل for tense, and ایک / کوئی / کچھ." loading="lazy">
+  <figcaption>Name the point, find the clue, then check the whole sentence.</figcaption>
+</figure>
+
 ## Verb conjugation: tense and aspect
 
 | Clue in the sentence | Form | Example |
@@ -54,6 +59,11 @@ This page works through the grammar points themselves.
 
 Note that *کل* means both "yesterday" and "tomorrow"; only the rest of the sentence or passage tells
 you which, so the full-passage reading in step 1 matters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--02-tense-clues.webp" width="900" height="791" alt="Six time clues and the verb form each calls for, with examples: ہر روز for the habitual present, اس وقت for the continuous, کل or پچھلے سال for the past, کل or اگلے سال for the future, بچپن میں for the habitual past, and ابھی ابھی for the perfect with چکا. کل can mean yesterday or tomorrow." loading="lazy">
+  <figcaption>Find the time word first; کل needs the whole passage.</figcaption>
+</figure>
 
 ## Subject/verb agreement and *نے*
 
@@ -71,6 +81,11 @@ A cloze option set such as *پڑھا / پڑھی / پڑھے* is almost always tes
 ہیں۔* / *استاد صاحب کہتے ہیں۔* An option in the singular here is a register error as well as an
 agreement error.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--03-agreement-and-ne.webp" width="900" height="938" alt="Three cases. Without نے the verb agrees with the subject (لڑکی خط لکھتی ہے۔). With نے it agrees with the object (لڑکے نے کتاب پڑھی۔، لڑکی نے خط لکھا۔), unless the object takes کو, when it stays masculine singular (اس نے لڑکیوں کو بلایا۔). Elders take respect plurals: دادی جان آ رہی ہیں۔" loading="lazy">
+  <figcaption>Look left for نے, then find the object: that decides پڑھا, پڑھی or پڑھے.</figcaption>
+</figure>
+
 ## Nouns: gender, number and the oblique form
 
 - Masculine nouns in *ا* or *ہ* change in the plural: *لڑکا → لڑکے*، *کمرہ → کمرے*.
@@ -78,6 +93,11 @@ agreement error.
 - Before a postposition, nouns take the **oblique** form: *لڑکوں کو*، *کمرے میں*، *کتابوں سے*.
 
 Gender also governs *کا / کی / کے*: *احمد کی کتاب*، *احمد کا قلم*، *احمد کے دوست*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--04-nouns-and-oblique.webp" width="900" height="742" alt="Plurals: لڑکا becomes لڑکے and کمرہ becomes کمرے; لڑکی becomes لڑکیاں and کتاب becomes کتابیں. Before a postposition nouns take the oblique form: لڑکوں کو، کمرے میں، کتابوں سے. The possessed noun's gender chooses کا، کی or کے: احمد کا قلم، احمد کی کتاب، احمد کے دوست." loading="lazy">
+  <figcaption>Plural, oblique and possessive endings all follow gender and number.</figcaption>
+</figure>
 
 ## Comparatives and superlatives
 
@@ -89,6 +109,11 @@ after the second noun is usually *سے*, not *میں* or *کو*. Superlatives us
 Persian forms carry their own degree: *بہتر* (better), *بہترین* (best), *کم تر*، *کم ترین*. Because
 *بہترین* already means "best", careful writers avoid adding *سب سے* to it, so an option *سب سے
 بہترین* is usually the trap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--05-comparatives-superlatives.webp" width="900" height="670" alt="Urdu compares with سے after the thing compared against, leaving the adjective unchanged (یہ کمرہ اُس کمرے سے بڑا ہے), and forms the superlative with سب سے (یہ شہر کا سب سے بڑا باغ ہے۔). Persian بہتر and بہترین already carry degree, so سب سے بہترین is usually the trap." loading="lazy">
+  <figcaption>سے compares, سب سے makes a superlative; never add سب سے to بہترین.</figcaption>
+</figure>
 
 ## Feminine plural and respect forms
 
@@ -105,6 +130,11 @@ The same endings appear for one respected woman: *امی کل آئیں گی۔* /
 گئیں۔* When four options differ only in *ـا / ـی / ـے / ـیں*, the question is about gender, number
 or respect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--06-feminine-plural.webp" width="900" height="818" alt="Feminine plural verb endings by tense: ـتی ہیں (لڑکیاں ہر روز کھیلتی ہیں۔), رہی ہیں, ـئیں (لڑکیاں اسکول گئیں۔) and ـیں گی (لڑکیاں کل آئیں گی۔). The same endings are used for one respected woman: امی کل آئیں گی۔" loading="lazy">
+  <figcaption>When options differ only in ـا / ـی / ـے / ـیں, check gender, number and respect.</figcaption>
+</figure>
+
 ## Postpositions and prepositions
 
 Urdu mainly uses **postpositions** after the noun: *میں* (in), *پر* (on), *سے* (from, with, than),
@@ -115,6 +145,11 @@ Urdu mainly uses **postpositions** after the noun: *میں* (in), *پر* (on), *
 Some verbs choose a fixed postposition: *کسی سے ملنا*، *کسی سے ڈرنا*، *کسی کو یاد کرنا*، *کسی پر
 بھروسا کرنا*، *کسی کا انتظار کرنا*. These are favourite cloze items, because *سے* and *کو* both look
 possible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--07-fixed-postpositions.webp" width="900" height="730" alt="Five verbs that take a fixed postposition: کسی سے ملنا (meet), کسی سے ڈرنا (fear), کسی کو یاد کرنا (remember), کسی پر بھروسا کرنا (trust) and کسی کا انتظار کرنا (wait for)." loading="lazy">
+  <figcaption>Learn the verb and its postposition as one unit.</figcaption>
+</figure>
 
 ## Articles
 
@@ -147,6 +182,11 @@ Original passage with four gaps:
 (2) **C**: comparison uses *سے*. (3) **B**: with *نے*, the verb agrees with the object *پراٹھے*,
 masculine plural. (4) **B**: *بہترین* already means "best"; A doubles the superlative; C and D are not
 standard forms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze--08-worked-example.webp" width="900" height="1030" alt="Four cloze gaps with their options and answers: گئے for the past plural, سے for comparison, بنائے agreeing with the masculine plural object پراٹھے after نے, and بہترین rather than the doubled سب سے بہترین." loading="lazy">
+  <figcaption>Each answer comes from a clue: time word, comparison, نے, or a fixed form.</figcaption>
+</figure>
 
 ## Common mistakes
 

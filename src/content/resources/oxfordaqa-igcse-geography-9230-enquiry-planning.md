@@ -28,6 +28,11 @@ This guide covers the first strand of geographical enquiry in section 3.3.2 of t
 
 Paper 3 has three compulsory sections of 20 marks. **Section B** tests the enquiry process "based on fieldwork in unfamiliar contexts", so you may be asked to plan or judge an enquiry you have never done. **Section C** tests your own individual enquiry, and you "will have to identify the title of their individual enquiry". Planning questions appear in both, so you need general principles and the details of your own plan.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills--07-ns45-enquiry-strands.webp" width="900" height="1010" alt="The six strands in order: suitable question, select measure and record, process and present, describe analyse and explain, conclusions, evaluation. Paper 3 Section B tests the enquiry process in unfamiliar contexts and Section C tests your own titled enquiry." loading="lazy">
+  <figcaption>Every fieldwork enquiry moves through the same six strands.</figcaption>
+</figure>
+
 ## Aims, questions and hypotheses
 
 | Term | Meaning | Example |
@@ -38,6 +43,11 @@ Paper 3 has three compulsory sections of 20 marks. **Section B** tests the enqui
 | Sub-questions | Smaller questions that build towards the main one | Does velocity also change? Does pebble size decrease? |
 
 A hypothesis is useful because the data can show it to be supported or not supported. A question is useful when you do not want to predict the answer in advance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-enquiry-planning--01-aim-question-hypothesis.webp" width="900" height="705" alt="Four levels of an enquiry with a river example: the aim, to investigate how a river changes downstream; the enquiry question on how width and depth change; the hypothesis that width increases downstream; and sub-questions on velocity and pebble size." loading="lazy">
+  <figcaption>Narrow a general aim into a question or a testable hypothesis.</figcaption>
+</figure>
 
 ## What makes a question or hypothesis suitable
 
@@ -54,6 +64,11 @@ The specification asks about "the factors that need to be considered when select
 **Weak:** "What is the town like?" (not testable, no variable, no theory).
 **Better:** "Do pedestrian numbers decrease with distance from the centre of (named town)?"
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-enquiry-planning--02-suitable-question.webp" width="900" height="687" alt="Seven factors for a suitable enquiry question: geographical, testable, specific, manageable, safe and accessible, likely to show variation, and supported by secondary data. “What is the town like?” fails; “Do pedestrian numbers decrease with distance from the centre of a named town?” works." loading="lazy">
+  <figcaption>Name a place, a measurable variable and a pattern you expect to find.</figcaption>
+</figure>
+
 ## The theory or concept behind the enquiry
 
 The specification requires "the geographical theory/concept underpinning the enquiry". The theory gives you a reason to expect a pattern, which is what your hypothesis predicts. Examples that schools often use:
@@ -67,6 +82,11 @@ The specification requires "the geographical theory/concept underpinning the enq
 | Microclimate | Surfaces and buildings change local temperature and wind | Warmer over tarmac and between buildings than over grass |
 
 Choose a theory that fits your question and say what it predicts. Your conclusion will later compare your results with that prediction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-enquiry-planning--03-theory-prediction.webp" width="900" height="650" alt="A chain from theory to hypothesis, data and conclusion, where the conclusion compares results with the prediction. Below, five examples: river channel change, land use in a town, sand dune succession, environmental quality and microclimate, each with its theory and expected pattern." loading="lazy">
+  <figcaption>The theory gives a reason to expect a pattern; the conclusion tests it.</figcaption>
+</figure>
 
 ## Choosing a location
 
@@ -91,6 +111,11 @@ The specification expects background research "before embarking on any data coll
 
 Record every source you use: the specification expects a bibliography "listing sources consulted at the beginning of the enquiry".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-enquiry-planning--04-background-research.webp" width="900" height="714" alt="Four secondary sources, large-scale maps, census and local authority data, GIS and satellite imagery, and previous studies or websites, feed background research that helps choose sites, refine the hypothesis and understand the context, with every source recorded in a bibliography. Below, primary evidence gives local detail and secondary evidence gives comparison." loading="lazy">
+  <figcaption>Research first, record every source, and combine primary with secondary evidence.</figcaption>
+</figure>
+
 ## Primary and secondary evidence
 
 Plan which evidence will be primary (collected by you or your group, such as measurements, counts and questionnaires) and which secondary (collected by others, such as census data). Many good enquiries combine the two: primary data for the local detail and secondary data for comparison and context.
@@ -111,6 +136,11 @@ The specification asks about "the potential risks of both human and physical fie
 
 A precaution must match the risk. "Be careful" is not a precaution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-enquiry-planning--05-risk-assessment.webp" width="900" height="666" alt="A risk assessment table for river, coast, town and any setting. Each risk, such as fast water, incoming tides, falling rocks, traffic, approaching strangers or bad weather, is matched with specific precautions such as checking river levels or tide times, staying on pavements and working in pairs." loading="lazy">
+  <figcaption>Every risk needs a specific precaution that matches it.</figcaption>
+</figure>
+
 ## Worked example: a plan in outline
 
 **Title:** "Does environmental quality improve with distance from the centre of (named town)?"
@@ -123,6 +153,11 @@ A precaution must match the risk. "Be careful" is not a precaution.
 - **Risks:** traffic at junctions, reduced by working on pavements and using crossings; approaching residents for a short questionnaire, reduced by working in pairs during daylight.
 
 The plan names the place, the variable to measure, the theory and the expected pattern, which is exactly what a later conclusion can test.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-enquiry-planning--06-worked-plan.webp" width="900" height="726" alt="A schematic sketch map of one main road running 2 km from the town centre to the edge of town, with five sites at regular intervals passing older, denser housing and then newer, lower-density housing and open space. Below, the plan’s hypothesis, theory, location, background research and risks." loading="lazy">
+  <figcaption>A good plan names the place, the variable, the theory and the expected pattern.</figcaption>
+</figure>
 
 ## Common mistakes
 

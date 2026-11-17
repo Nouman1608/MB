@@ -50,6 +50,11 @@ middle level (11–14) "makes some response to the way the writer uses language"
 "makes a little reference to the language of the text". The gap between a mid-level and a top-level
 answer is therefore almost entirely about how much you say about *how* the writing works.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--01-what-the-levels-reward.webp" width="900" height="840" alt="The top level (18-20 of 20 marks) asks for a perceptive personal response, deeper implications, a detailed response to the writer's effects and integrated reference. Lower levels make &quot;some response&quot; or &quot;a little reference&quot; to language, and a paraphrase shows only surface meaning." loading="lazy">
+  <figcaption>The gap between middle and top is how much you say about how the writing works.</figcaption>
+</figure>
+
 ## Using the prompts
 
 The question includes prompts suggesting aspects to consider. Treat them as a ready-made plan:
@@ -62,6 +67,11 @@ The question includes prompts suggesting aspects to consider. Treat them as a re
 The prompts suggest; they do not limit. A good observation outside them is still credited if it
 answers the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--02-prompts-as-plan.webp" width="900" height="758" alt="The worked question اس اقتباس میں مصنف نے انتظار اور تنہائی کی کیفیت کس طرح پیدا کی ہے؟ with its three prompts on setting and nature, the grandmother's manner and words, and the contrast of laughter and silence. Each prompt becomes one or two paragraphs with short quotations, ending with a link to the question." loading="lazy">
+  <figcaption>One prompt, one or two paragraphs, each tied back to the question.</figcaption>
+</figure>
+
 ## Reading an unseen extract in three passes
 
 **First pass: what happens or what is said.** Who is speaking or being described? Where and when?
@@ -72,6 +82,11 @@ that carry the feeling most strongly.
 
 **Third pass: how it is done.** For each marked word or phrase, ask what technique is at work and
 what it makes you think or feel.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--03-three-passes.webp" width="900" height="560" alt="Three readings: first, what happens or is said, with a one-sentence summary; second, how it feels, marking the words that carry the mood; third, how it is done, naming the technique behind each marked word and its effect." loading="lazy">
+  <figcaption>What, then how it feels, then how it is done.</figcaption>
+</figure>
 
 ## The toolkit: terms and what they do
 
@@ -91,6 +106,11 @@ what it makes you think or feel.
 If the extract is **poetry**, add the features of form: the rhyme (*قافیہ*) and refrain (*ردیف*) of
 a ghazal, the stanza pattern of a nazm, rhythm, and the way a line break can hold back a word for
 effect. Name a feature only when you can say what it does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--04-toolkit.webp" width="900" height="1072" alt="Ten Urdu critical terms with English equivalents and the question each prompts: تشبیہ simile, استعارہ metaphor, پیکر تراشی / منظر نگاری imagery, تضاد contrast, تکرار repetition, علامت symbol, لہجہ tone, کردار نگاری characterisation, مکالمہ dialogue and طنز / مزاح satire and humour. Poetry adds form, such as قافیہ and ردیف." loading="lazy">
+  <figcaption>Every term comes with a question about its effect.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -130,6 +150,11 @@ Model paragraph on the third prompt:
 *Commentary:* the last sentence is a personal response ("مجھے ... لگا"), but it is earned by the
 analysis before it rather than added as decoration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--05-worked-analysis.webp" width="900" height="775" alt="Five short quotations from the worked extract with their technique and effect: the simile جیسے کوئی بوڑھا اپنی بات ادھوری چھوڑ کر جا رہا ہو, the tired neem tree, اس سال بھی showing years of waiting, the simile پتھر کی طرح, and the contrast of laughter and silence. The personal response مجھے ... لگا comes after the analysis." loading="lazy">
+  <figcaption>Short quotation, technique, effect: then a judgement the analysis has earned.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Retelling the extract.** A paraphrase shows "a basic understanding of surface meaning", which is
@@ -150,6 +175,11 @@ analysis before it rather than added as decoration.
 - Open with a direct answer to the question in two or three sentences.
 - Write a paragraph per prompt, each with at least two integrated quotations.
 - End with a short personal judgement that grows out of your analysis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage--06-exam-technique.webp" width="900" height="885" alt="Part 1 carries 20 of Paper 2's 50 marks, so roughly 45-50 minutes of the two hours, leaving time for two 15-mark essays. Five steps: read the question and prompts first, annotate, open with a direct answer, write a paragraph per prompt with integrated quotations, and end with an earned judgement." loading="lazy">
+  <figcaption>Spot a device only to say what it does to the reader.</figcaption>
+</figure>
 
 ## Related resources
 

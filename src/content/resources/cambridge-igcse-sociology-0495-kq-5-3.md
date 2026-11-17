@@ -64,6 +64,21 @@ Describe patterns without inventing figures.
 
 **Evaluation**: material and cultural explanations risk **blaming the home**; labelling theory is criticised for **determinism**, since some labelled pupils reject the label; the factors interact, as poverty limits cultural capital as well as resources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-3--01-class-explanations.webp" width="900" height="905" alt="Class explanations sorted into outside school (material factors, cultural capital, home and social factors, linguistic codes) and inside school (labelling, subcultures, selective and private education, Marxist explanations), with limitations and compensatory education such as Head Start and Sure Start." loading="lazy">
+  <figcaption>Sort explanations into outside-school and inside-school factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-3--02-bernstein-codes.webp" width="900" height="510" alt="Bernstein’s restricted code is short and context-bound; the elaborated code is detailed and explicit. Schools use the elaborated code, which middle-class children are more likely to learn at home, giving them an advantage." loading="lazy">
+  <figcaption>Schools speak the elaborated code, which middle-class children already know.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-3--03-labelling-to-subculture.webp" width="900" height="702" alt="A chain: a teacher judges pupils against the ideal pupil, a label is applied, a self-fulfilling prophecy follows, and lower-stream boys form an anti-school subculture. Labelling can be deterministic, since some pupils reject the label." loading="lazy">
+  <figcaption>Labels can become self-fulfilling and push pupils into subcultures.</figcaption>
+</figure>
+
 ## Ethnicity (5.3.3)
 
 - **Institutional racism**: David Gillborn and Deborah Youdell (2000) found teachers' expectations shaped which pupils were entered for higher-tier exams, with Black pupils more likely to be placed in lower tiers. Earlier, Bernard Coard (1971) argued that West Indian children in Britain were wrongly placed in schools for the "educationally subnormal".
@@ -76,6 +91,11 @@ Describe patterns without inventing figures.
 
 **Evaluation**: patterns vary within ethnic groups by class and gender, so ethnicity alone explains little; school-based explanations show the system can disadvantage pupils, while home-based ones risk cultural stereotyping.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-3--04-ethnicity-explanations.webp" width="900" height="646" alt="Ethnic differences explained inside school (institutional racism, ethnocentric curriculum, role models, labelling) and outside school (language, poverty, family expectations), with Fuller’s and Sewell’s studies of ethnic subcultures and an evaluation that ethnicity alone explains little." loading="lazy">
+  <figcaption>In-school and home factors both matter, and class and gender cut across ethnicity.</figcaption>
+</figure>
+
 ## Gender (5.3.4)
 
 - **Differential socialisation and social control**: girls are often encouraged to be quiet, careful and to read, habits that suit schoolwork; boys are given more freedom outside the home.
@@ -86,6 +106,11 @@ Describe patterns without inventing figures.
 - **Feminist explanations**: patriarchy still shapes subject choice and careers, and girls' high achievement at school does not always translate into equal pay or leadership.
 
 **Evaluation**: explanations of girls' success may overlook working-class and minority girls who underachieve; claims that boys "fail" can hide the fact that middle-class boys still do well.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-3--05-gender-explanations.webp" width="900" height="579" alt="Factors helping girls (socialisation, positive labels, changing priorities shown by Sharpe, equal access) set against factors holding some boys back (more freedom, tolerated disruption, macho lads). Feminists add that patriarchy still shapes subjects and careers; working-class and minority girls may underachieve." loading="lazy">
+  <figcaption>Socialisation, expectations and subcultures help explain the gender gap.</figcaption>
+</figure>
 
 ## Global differences (5.3.5)
 
@@ -100,11 +125,21 @@ Describe patterns without inventing figures.
 
 **Evaluation**: global explanations can overgeneralise about whole countries; there are large inequalities *within* countries, and some lower-income societies achieve strong outcomes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-3--06-global-differences.webp" width="900" height="584" alt="Six factors behind lower enrolment, completion and literacy in some societies: availability of schools, poverty, access for girls, class sizes, norms and values, and internet access. Global explanations can overgeneralise, since inequalities within countries are large." loading="lazy">
+  <figcaption>Six named factors explain global gaps; avoid invented statistics.</figcaption>
+</figure>
+
 ## Worked example: an annotated part (d) answer
 
 *Explain three reasons why girls may achieve more highly than boys.*
 
 > *"First, gendered socialisation [identified]: girls are often encouraged to read and be quiet at home, which matches what school rewards, so they adapt to classroom expectations more easily [developed]. Second, changing priorities [identified]: Sharpe found girls in the 1990s put careers before marriage, which motivates them to gain qualifications [developed]. Third, boys' subcultures [identified]: Mac an Ghaill's macho lads saw schoolwork as unmasculine, so peer pressure led some boys to reject effort [developed]."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-3--07-explain-three-girls.webp" width="900" height="532" alt="Three reasons, each identified, developed and linked to achievement: gendered socialisation matches what school rewards; Sharpe’s finding that girls put careers first motivates them; Mac an Ghaill’s macho lads show peer pressure leading boys to reject effort." loading="lazy">
+  <figcaption>One explanation per paragraph, each applied to the named group.</figcaption>
+</figure>
 
 ## Common mistakes
 

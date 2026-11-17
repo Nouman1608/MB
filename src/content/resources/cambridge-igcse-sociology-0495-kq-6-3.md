@@ -47,6 +47,16 @@ Aims can conflict. A long sentence may satisfy retribution and incapacitation bu
 
 **Theory adds depth.** Émile Durkheim argued punishment reaffirms shared values: simple societies used harsh, **retributive** punishment to express collective outrage, while complex modern societies rely more on **restitutive** justice, which aims to repair harm. Michel Foucault argued punishment changed from public, bodily **sovereign power** (such as public execution) to **disciplinary power**, which watches and reforms people through prisons, records and surveillance. Marxists add that punishment falls most heavily on the working class.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--01-aims-of-punishment.webp" width="900" height="653" alt="Retribution looks back to the crime as deserved payback; protection of citizens, deterrence (individual and general), incapacitation and rehabilitation look to the future. Each has an example. Aims can conflict, as a long sentence may undermine rehabilitation." loading="lazy">
+  <figcaption>Retribution looks back; the other four aims look forward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--02-theories-of-punishment.webp" width="900" height="501" alt="Durkheim: punishment shifts from retributive in simple societies to restitutive, repairing harm, in complex ones. Foucault: from public, bodily sovereign power such as execution to disciplinary power through prisons, records and surveillance. Marxists add that punishment falls most on the working class." loading="lazy">
+  <figcaption>Punishment has moved from the body and outrage towards repair and surveillance.</figcaption>
+</figure>
+
 ## How effective are different punishments? (6.3.2)
 
 Judge each punishment against three tests: does it meet its aim; what are its side effects; is it fair and consistent with human rights?
@@ -71,6 +81,16 @@ Judge each punishment against three tests: does it meet its aim; what are its si
 
 **Social media and vigilante groups.** Online "naming and shaming" and groups that track suspected offenders act as informal punishment. They may expose wrongdoing the police ignore, but they bypass due process, risk targeting the wrong people, and can lead to harassment or violence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--03-judging-punishments.webp" width="900" height="698" alt="Three tests for any punishment: does it meet its aim, what are its side effects, and is it fair? A table gives strengths and limitations of prison, community sentences and probation, fines, tagging and restraining orders, capital punishment, and social media and vigilante groups." loading="lazy">
+  <figcaption>Effective at what, for whom, and compared with what?</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--04-other-punishments.webp" width="900" height="499" alt="Exile, such as British transportation to Australia from 1788 to 1868, and ostracism, such as shunning, protect the group but remove rather than reform. Corporal punishment, such as caning in Singapore, deters but is widely seen as a rights violation. Police cautions avoid labelling but may signal leniency." loading="lazy">
+  <figcaption>Exile and ostracism remove offenders; cautions try to avoid labelling them.</figcaption>
+</figure>
+
 ## Policing and law enforcement (6.3.3)
 
 **Targeting and stop and search.** Concentrating on high-crime areas, known offenders or particular offences can detect crime and remove weapons. But targeting can reflect stereotyping, damage trust in communities, and produce statistics that exaggerate offending by the targeted groups. **Zero tolerance** policing, based on Wilson and Kelling's "broken windows" argument, was associated with New York in the 1990s; crime fell, but so it did in many other cities with different approaches, so the cause is debated.
@@ -81,6 +101,16 @@ Judge each punishment against three tests: does it meet its aim; what are its si
 
 **Community versus military style policing.** **Community policing** relies on local officers who build relationships, gather information and solve problems with residents, increasing trust and the flow of information. **Military style policing** uses armed units, armoured vehicles and force to control disorder. It may restore order quickly, but it can alienate communities, escalate conflict and reduce cooperation. Societies balance these differently, and the same society may use both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--05-policing-strategies.webp" width="900" height="715" alt="Policing strategies on a line from community style, which builds trust, through targeting and stop and search, which detects crime but risks stereotyping, to military style, which restores order quickly but alienates communities. Zero tolerance in 1990s New York is debated because crime also fell elsewhere." loading="lazy">
+  <figcaption>Trust and force pull policing in opposite directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--06-prevention-and-surveillance.webp" width="900" height="616" alt="Situational crime prevention reduces opportunities cheaply but displaces crime; social crime prevention tackles causes but takes longer. Surveillance deters and detects but raises privacy and bias concerns. A diagram shows displacement: crime falls in a watched area and moves to an unwatched one." loading="lazy">
+  <figcaption>Watching one place can simply move crime to another.</figcaption>
+</figure>
+
 ## Worked example: planning a part (f) answer
 
 *Evaluate the view that prison is the most effective way of dealing with crime.*
@@ -90,6 +120,11 @@ Judge each punishment against three tests: does it meet its aim; what are its si
 - **Judgement**: prison is effective for incapacitating dangerous offenders, but less effective than alternatives for rehabilitation; effectiveness depends on the aim and the offence.
 
 **Annotated sample sentence:** *"Prison achieves incapacitation [aim named] because offenders cannot commit crimes in the community while inside [mechanism], but this protection ends on release [limitation], so its effectiveness depends on whether prison also rehabilitates [link to judgement]."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--07-prison-evaluate.webp" width="900" height="679" alt="A balance weighing prison’s incapacitation, retribution and possible deterrence against reoffending, cost, the school for crime and the advantages of alternatives. The judgement depends on the aim and the offence." loading="lazy">
+  <figcaption>Name the aim, test prison against it, then judge.</figcaption>
+</figure>
 
 ## Common mistakes
 

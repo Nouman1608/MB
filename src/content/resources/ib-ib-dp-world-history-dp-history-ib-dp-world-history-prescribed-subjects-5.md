@@ -35,6 +35,11 @@ Each case study is studied under three headings:
 
 Questions often ask why intervention did or did not happen, how effective it was, and what its consequences were. Treat intervention as a decision taken by states with interests, not as an automatic response to suffering.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5--01-intervention-contrast.webp" width="900" height="447" alt="Two panels. Rwanda: UNAMIR was present with a limited mandate, was reduced on 21 April 1994, and the genocide was ended by the RPF's victory in July 1994. Kosovo: NATO bombed from 24 March to 10 June 1999 without Security Council authorisation, followed by UN administration with KFOR. Below, four criteria for evaluating an intervention: lives saved, conflict ended, international law respected, justice delivered." loading="lazy">
+  <figcaption>Judge both cases by the same criteria.</figcaption>
+</figure>
+
 ## Case study 1: Rwanda, 1990-1998
 
 ### Causes
@@ -45,6 +50,11 @@ Questions often ask why intervention did or did not happen, how effective it was
 
 **Peace and its enemies.** The Arusha Accords (August 1993) provided for power-sharing and the integration of the RPF into the army. Extremists saw the accords as betrayal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5--02-rwanda-causes.webp" width="900" height="675" alt="A vertical timeline: Belgian rule after 1918 hardened Hutu and Tutsi into racial categories on identity cards and favoured the Tutsi; Belgium later switched support to the Hutu; the Hutu revolution of 1959-1962 drove Tutsi into exile; the RPF invaded in October 1990; Hutu Power organised militias and radio propaganda; the Arusha Accords of August 1993 were seen as betrayal by extremists; and on 6 April 1994 the president's plane was shot down and killing began." loading="lazy">
+  <figcaption>Colonial categories, civil war and extremist organisation lay behind the genocide.</figcaption>
+</figure>
+
 ### Course and interventions
 
 - **UNAMIR**, the UN mission under General Roméo Dallaire, was sent in late 1993 with a limited peacekeeping mandate. In January 1994 Dallaire warned UN headquarters of plans for extermination and arms caches; he was told not to raid them.
@@ -54,9 +64,19 @@ Questions often ask why intervention did or did not happen, how effective it was
 - France's **Operation Turquoise** (from June 1994), authorised by the UN, created a safe zone in the south-west; critics argue it also allowed génocidaires to escape.
 - The **RPF** took Kigali in July 1994 and ended the genocide by military victory.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5--03-rwanda-1994-response.webp" width="900" height="702" alt="Paired rows for 1994: Dallaire's January warning met an order not to raid arms caches; when killing began on 6-7 April, Belgium withdrew and Western states evacuated their nationals; on 21 April UNAMIR was reduced; as roughly 800,000 were killed in about a hundred days the US resisted the word genocide; France's Operation Turquoise began in June; and the RPF ended the genocide by taking Kigali in July." loading="lazy">
+  <figcaption>The outside world withdrew as the killing began; the RPF, not the UN, ended it.</figcaption>
+</figure>
+
 ### Impact
 
 Around two million Hutu fled, many to camps in Zaire controlled by former soldiers and militias. Attacks from the camps contributed to the First Congo War (1996-1997), when Rwandan-backed forces overthrew Mobutu. The UN created the International Criminal Tribunal for Rwanda (ICTR) at Arusha in November 1994; its 1998 judgment against Jean-Paul Akayesu was the first conviction for genocide by an international court and recognised rape as an act of genocide. In 1998 President Clinton, visiting Kigali, acknowledged the international failure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5--04-rwanda-impact.webp" width="900" height="539" alt="Two strands of impact. Refugees and regional war: around two million Hutu fled, many to camps in Zaire, and attacks from the camps contributed to the First Congo War of 1996-1997. International justice: the ICTR was created at Arusha in November 1994, and its 1998 Akayesu judgment was the first international conviction for genocide. In 1998 President Clinton acknowledged the international failure." loading="lazy">
+  <figcaption>The genocide spread war into Zaire and created new international justice.</figcaption>
+</figure>
 
 ## Case study 2: Kosovo, 1989-2002
 
@@ -76,6 +96,11 @@ Kosovo was an autonomous province of Serbia within Yugoslavia, with an Albanian 
 
 Most refugees returned quickly, but many Serbs and Roma then fled reprisals. The International Criminal Tribunal for the former Yugoslavia (ICTY) indicted Milošević in May 1999; he lost power in 2000, was transferred to The Hague in 2001, and his trial opened in 2002. He died in 2006 before a verdict. The intervention prompted debate about humanitarian intervention: an independent international commission concluded that it was illegal but legitimate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5--05-kosovo-1989-2002.webp" width="900" height="801" alt="A vertical timeline: autonomy removed in 1989; non-violent resistance under Rugova; the Dayton Agreement of 1995 ignores Kosovo and the KLA begins attacks; Serbian offensives in 1998; Račak in January 1999; failed Rambouillet talks; NATO bombing from 24 March to 10 June 1999; Resolution 1244 placing Kosovo under UN administration; and Milošević indicted in May 1999, removed in 2000 and on trial from 2002." loading="lazy">
+  <figcaption>Non-violence, then insurgency, then NATO bombing and UN administration.</figcaption>
+</figure>
+
 ## Worked example: Question 2 on a peacekeeper's account
 
 *Source:* a memoir by a UN force commander in Rwanda, published nine years after the genocide.
@@ -84,9 +109,19 @@ Most refugees returned quickly, but many Serbs and Roma then fled reprisals. The
 
 Note how every point is tied to the stated topic, the failure of intervention.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5--07-memoir-opvl.webp" width="900" height="692" alt="Origin, purpose and date of a UN force commander's memoir each lead to value or limitation. Origin: he took part in the decisions, a value. Purpose: to explain and justify himself and indict others, a limitation because he may stress others' faults. Date: nine years later, a value because of documents released since, and a limitation because memory may have been reshaped." loading="lazy">
+  <figcaption>Origin, purpose and date each point to value, limitation or both.</figcaption>
+</figure>
+
 ## Interpretations
 
 Samantha Power's *A Problem from Hell* (2002) argued that US officials had enough information to recognise genocide in Rwanda and chose not to act, partly because there was little domestic pressure to do so. Debate continues over France's role, both before 1994 and in Operation Turquoise. For Kosovo, the central argument is between those who saw NATO's action as a humanitarian rescue that set a valuable precedent and those who saw it as a breach of international law that weakened the UN. Use these positions to frame Question 4 judgements, and treat a historian's extract in the sources as an interpretation to evaluate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5--06-intervention-debates.webp" width="900" height="575" alt="A spectrum for Kosovo runs from humanitarian rescue and a valuable precedent to a breach of international law that weakened the UN, with the independent commission's verdict, illegal but legitimate, in the middle. For Rwanda, two cards: Samantha Power's argument that US officials chose not to act, and the continuing debate over France's role." loading="lazy">
+  <figcaption>Use these positions to frame Question 4 judgements.</figcaption>
+</figure>
 
 ## Common mistakes
 
@@ -101,3 +136,8 @@ Samantha Power's *A Problem from Hell* (2002) argued that US officials had enoug
 **Evaluate** questions on intervention need criteria: did it save lives, end the conflict, respect international law, and bring justice? **To what extent** questions need you to weigh the actions of local actors against those of outsiders. In Question 3, compare sources on the same decision, such as the UN reduction of April 1994.
 
 Consolidate with the [Conflict and intervention revision notes](/resources/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5-revision-notes/) and try the [Conflict and intervention practice questions](/resources/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5-practice/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-prescribed-subjects-study-guide--03-p1-question-inputs.webp" width="900" height="794" alt="Four rows show Question 1 to 4 with marks, the task, how many sources are used and whether own knowledge is allowed. Only Question 4 allows own knowledge; Question 4 uses four sources, A to D." loading="lazy">
+  <figcaption>Questions 1 to 3 use the sources only; Question 4 uses the sources and own knowledge.</figcaption>
+</figure>

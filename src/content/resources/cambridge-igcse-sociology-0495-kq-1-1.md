@@ -68,6 +68,11 @@ view, studying small groups and face-to-face interaction, and aim for **verstehe
 an action from the actor's own point of view. Their data is **qualitative** and **in-depth**: the
 words, feelings and reasons of the people studied.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-1--01-two-approaches.webp" width="900" height="680" alt="Positivism and interpretivism compared. Positivism, linked to Comte and Durkheim, takes a macro view, uses the scientific method and quantitative data, and tends to be reliable but may lack validity. Interpretivism, linked to Weber, takes a micro view, seeks verstehen through qualitative data, and tends to be valid but may lack reliability." loading="lazy">
+  <figcaption>Each approach starts from a different view of people, which leads to a different idea of good evidence.</figcaption>
+</figure>
+
 ## The key terms explained through one example
 
 Take a single research topic — *why some students leave school early* — and see how each named
@@ -87,6 +92,11 @@ syllabus point applies.
 The table shows the trade-off at the heart of 1.1: positivist research tends to be **reliable** but
 may lack **validity**; interpretivist research tends to be **valid** but may lack **reliability**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-1--02-reliability-validity-tradeoff.webp" width="900" height="710" alt="The topic of early school leaving seen through two lenses. The positivist lens finds patterns, trends and correlations objectively and tends to be reliable but may lack validity. The interpretivist lens explores meanings with some subjectivity and tends to be valid but may lack reliability." loading="lazy">
+  <figcaption>Positivist research tends to be reliable; interpretivist research tends to be valid.</figcaption>
+</figure>
+
 ## Correlation and causation: three reasons a link can mislead
 
 Exam sources often present a correlation. You gain marks by explaining why it may not show cause.
@@ -96,6 +106,11 @@ Exam sources often present a correlation. You gain marks by explaining why it ma
 2. **Reverse direction.** Unemployment and poor mental health are linked; poor health might cause job
    loss rather than the other way round.
 3. **Chance or a small sample.** A pattern found in one school may disappear in a larger study.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-1--03-correlation-can-mislead.webp" width="900" height="616" alt="Three panels. A third factor: parental income or education may cause both owning more books and higher grades. Reverse direction: unemployment and poor mental health are linked, but poor health might cause job loss. Chance or a small sample: a pattern found in one school may disappear in a larger study." loading="lazy">
+  <figcaption>Two things moving together does not prove that one causes the other.</figcaption>
+</figure>
 
 ## Combining approaches (1.1.3)
 
@@ -118,6 +133,16 @@ its supposed effect, which helps move from correlation towards causation. Proble
 **attrition** (people dropping out, so the remaining sample becomes less representative), the
 researcher's funding and career needing to last as long as the study, and the possibility that
 being studied repeatedly changes participants' behaviour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-1--04-triangulation-barker.webp" width="900" height="828" alt="Eileen Barker’s study The Making of a Moonie (1984) used participant observation, in-depth interviews and a large questionnaire to investigate why people joined and left the Unification Church. Triangulation uses methods to cross-check each other; methodological pluralism uses them to build a fuller picture." loading="lazy">
+  <figcaption>Barker combined three methods so each could check the others.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-1--05-longitudinal-study.webp" width="900" height="658" alt="The same group of people is studied in four waves over time, and some drop out at each wave (attrition). Longitudinal studies show sequence, helping move from correlation towards causation, but they are costly, lose sample members, need long-term funding and may change participants’ behaviour." loading="lazy">
+  <figcaption>Following the same people over time shows what came first.</figcaption>
+</figure>
 
 ## Evaluating research choices (1.1.4)
 
@@ -143,6 +168,11 @@ connect each one to a cause in the research design.
 - **Generalisability** — whether findings can be applied beyond the people studied. It depends on
   representativeness: an unrepresentative sample cannot support general claims.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-1--06-evaluation-toolkit.webp" width="900" height="757" alt="Seven evaluation concepts with a meaning and an example of a cause in the design: bias, interviewer effect, Hawthorne or observer effect, validity and reliability, plus representativeness, which is needed for generalisability." loading="lazy">
+  <figcaption>Name the concept, then link it to a cause in the design.</figcaption>
+</figure>
+
 ## Worked example: Question 1(d)-style evaluation
 
 *Evaluate the view that interpretivist research is more useful than positivist research.*
@@ -166,6 +196,11 @@ connect each one to a cause in the research design.
 **Why it works:** each paragraph uses syllabus terms (verstehen, validity, representativeness,
 generalisability, reliability, patterns and trends), applies them to an example, and the judgement
 is reasoned rather than a restatement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-1--07-evaluate-answer-structure.webp" width="900" height="600" alt="A three-step evaluate answer. For: interviews give verstehen and validity. Against: small samples limit representativeness, generalisability and reliability, while positivism shows patterns at scale. Judgement: usefulness depends on the research aim, and triangulation combines both." loading="lazy">
+  <figcaption>For, against, then a judgement linked to the research aim.</figcaption>
+</figure>
 
 ## Common mistakes
 
@@ -193,6 +228,11 @@ is reasoned rather than a restatement.
 Under the syllabus, Question 1(e) asks you to explain and justify a research plan but does **not**
 expect you to evaluate your own methodology — your knowledge of 1.1 is used there to give reasons,
 for instance choosing interviews "to gain valid data on meanings".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-1--08-command-words.webp" width="900" height="512" alt="Four command words. Define: one accurate sentence with an example. Explain: develop a point with because and apply it. Discuss: several developed points in paragraphs. Evaluate: argue both sides with evaluation concepts and reach a judgement. Question 1(e) asks you to justify a plan, not evaluate it." loading="lazy">
+  <figcaption>Match the depth of your answer to the command word.</figcaption>
+</figure>
 
 ## Next steps
 

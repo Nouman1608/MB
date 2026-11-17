@@ -41,6 +41,11 @@ unrevised.
   and analogy (qiyas)
 - Its significance as the basis of all thought and action in Islam
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--01-question-2-strands.webp" width="900" height="466" alt="Question 2 is compulsory and worth 14 marks: a 10-mark knowledge part (a) and a 4-mark understanding part (b). It covers five strands: revelation from 610 to 632, compilation, major themes, use in legal thinking, and significance as the basis of thought and action." loading="lazy">
+  <figcaption>A compulsory question: no strand can be left unrevised.</figcaption>
+</figure>
+
 ## How did revelation begin?
 
 In 610, during Ramadan, the Prophet (pbuh), then about forty, was spending time in retreat in the cave
@@ -54,6 +59,11 @@ one who had come to Musa.
 
 A pause in revelation (*fatra*) followed. When it resumed, the opening verses of Sura 74 commanded
 the Prophet (pbuh) to "arise and warn", which marks the start of his mission to preach.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--02-how-revelation-began.webp" width="900" height="676" alt="A sequence from 610: retreat in the cave of Hira; Jibril commands &quot;Read!&quot; and recites the first five verses of Sura 96 on the Night of Power; Khadija reassures the Prophet (pbuh) and takes him to Waraqa ibn Nawfal, who recognises the angel; a pause in revelation; then Sura 74 commands him to &quot;arise and warn&quot;." loading="lazy">
+  <figcaption>From Hira to &quot;arise and warn&quot;: the start of revelation and of the mission.</figcaption>
+</figure>
 
 ## In what ways did revelation come?
 
@@ -69,6 +79,11 @@ The Prophet (pbuh) described several modes, and a full answer names more than on
 All of these are forms of *wahy*, revelation from God, which Muslims distinguish from the Prophet's
 own words; his own sayings are recorded separately as Hadiths.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--03-modes-of-revelation.webp" width="900" height="556" alt="Four modes of revelation: like the ringing of a bell, the hardest on him; Jibril in the form of a man; Jibril in his true form, seen rarely (Sura 53); and true dreams. All are wahy, distinct from the Prophet's (pbuh) own words, which are recorded as Hadiths." loading="lazy">
+  <figcaption>Name more than one mode; keep revelation distinct from Hadith.</figcaption>
+</figure>
+
 ## Why was the Qur'an revealed gradually?
 
 Revelation continued for about 23 years, roughly 13 in Makka and 10 in Madina. Makkan passages are
@@ -78,6 +93,11 @@ Many verses came in answer to events or questions. The Qur'an gives its own reas
 in stages "to strengthen your heart" (Sura 25.32), and "so that you may recite it to people at
 intervals" (Sura 17.106). Gradual revelation also allowed rulings to be introduced in steps, as with
 the prohibition of intoxicants, which ended with the complete ban in Sura 5.90.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--04-gradual-revelation.webp" width="900" height="678" alt="Revelation lasted about 23 years: some 13 in Makkah, with mostly short passages on belief, and 10 in Madinah, with longer passages including laws. Reasons: &quot;to strengthen your heart&quot; (Sura 25.32), recitation &quot;at intervals&quot; (Sura 17.106), answers to events, and rulings in steps, ending with the complete ban on intoxicants in Sura 5.90." loading="lazy">
+  <figcaption>Belief first in Makkah, law in Madinah, and rulings introduced step by step.</figcaption>
+</figure>
 
 ## How was the Qur'an preserved in the Prophet's lifetime?
 
@@ -92,6 +112,11 @@ the prohibition of intoxicants, which ended with the complete ban in Sura 5.90.
 Sura 5.3, "This day I have perfected your religion for you", was revealed during the Farewell
 Pilgrimage in 632. At the Prophet's death the whole Qur'an existed in memory and in writing, but not
 as one bound volume.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--05-preservation.webp" width="900" height="648" alt="Four means of preservation: memorisation by huffaz, writing by scribes such as Zayd ibn Thabit on parchment, palm stalks, stones and bones, the order of passages set by the Prophet (pbuh), and an annual review with Jibril. By his death in 632 the Qur'an was complete in memory and writing, but not one bound volume." loading="lazy">
+  <figcaption>Complete in memory and writing by 632, but not in a single volume.</figcaption>
+</figure>
 
 ## How was the Qur'an compiled under Abu Bakr?
 
@@ -125,6 +150,16 @@ other written copies were burned so that only the agreed text remained. For this
 **Key distinction:** Abu Bakr compiled the Qur'an into one written collection; Uthman made standard
 copies and sent them out so that all Muslims used the same text.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--06-compilation-journey.webp" width="900" height="754" alt="Two flows. Under Abu Bakr: huffaz die at Yamama, Umar urges Abu Bakr, Zayd ibn Thabit collects the written pieces confirmed by memory, and the sheets pass to Umar and then Hafsa. Under Uthman: Hudhayfa warns of disputes, Uthman borrows Hafsa's sheets, a committee of four copies them in the Quraysh dialect, and copies are sent out while other copies are burned." loading="lazy">
+  <figcaption>Hafsa's sheets link Abu Bakr's compilation to Uthman's standard copies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--07-compiled-vs-standardised.webp" width="900" height="624" alt="A comparison of the two stages: under Abu Bakr the problem was the loss of huffaz at Yamama and the result one written collection; under Uthman the problem was differing recitation and the result standard copies sent to the main centres. Uthman is called Jami' al-Qur'an, but he did not write it." loading="lazy">
+  <figcaption>Compilation saved the text; standardisation gave all Muslims the same text.</figcaption>
+</figure>
+
 ## How is the Qur'an used in legal thinking?
 
 The Qur'an is the first source of law. Scholars then use three further sources, always in relation
@@ -139,6 +174,11 @@ to it:
 A second qiyas example: Sura 62.9 tells believers to leave trade when called to Friday prayer;
 scholars reason that any activity which keeps a person from that prayer is covered too. A ruling from
 ijma' or qiyas can never contradict the Qur'an.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--08-legal-thinking.webp" width="900" height="772" alt="The Qur'an is the first source of law. The Hadith explains and details its commands, such as the times and units of salat; ijma' is scholars' agreement, such as the Companions' decision to compile the Qur'an; qiyas applies a ruling to a new case with the same cause, as with intoxicating drugs (Sura 5.90) or activities that keep people from Friday prayer (Sura 62.9)." loading="lazy">
+  <figcaption>Qur'an first; Hadith, ijma' and qiyas work from it and never against it.</figcaption>
+</figure>
 
 ## Why is the Qur'an the basis of all thought and action?
 

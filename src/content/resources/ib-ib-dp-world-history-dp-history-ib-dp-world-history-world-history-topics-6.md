@@ -35,6 +35,11 @@ The content falls under three headings, as in the course's other war topics:
 
 Common examples are the Thirty Years' War (1618-1648), the Imjin War in Korea (1592-1598), the English Civil Wars (1642-1651), the Dutch Revolt (1568-1648), the War of the Spanish Succession (1701-1714) and the Great Northern War (1700-1721).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-6--01-example-wars.webp" width="900" height="705" alt="A timeline from 1550 to 1750 shows six example wars: the Dutch Revolt (1568-1648), the Imjin War (1592-1598), the Thirty Years' War (1618-1648), the English Civil Wars (1642-1651), the Great Northern War (1700-1721) and the War of the Spanish Succession (1701-1714). A note warns that the Seven Years' War is outside the period." loading="lazy">
+  <figcaption>Six example wars, all inside 1500-1750.</figcaption>
+</figure>
+
 ## Causes
 
 ### The Thirty Years' War
@@ -51,6 +56,11 @@ Toyotomi Hideyoshi completed the unification of Japan in 1590. He then demanded 
 
 When the childless Charles II of Spain died in 1700, he left his empire to Philip of Anjou, grandson of Louis XIV. The other powers feared a union of France and Spain that would dominate Europe and its colonial trade. Louis's recognition of the exiled Stuart claimant as king of England, and French moves in the Spanish Netherlands, helped turn fear into war, with Britain, the Dutch Republic and Austria forming the Grand Alliance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-6--02-thirty-years-escalation.webp" width="900" height="736" alt="Long-term causes of the Thirty Years' War (the Peace of Augsburg excluding Calvinism, rival alliances of 1608 and 1609, Habsburg ambitions) lead to the short-term trigger: the Defenestration of Prague (May 1618) and the election of Frederick V (1619). Spain, Denmark, Sweden and France then intervene. France, though Catholic, fought the Habsburgs." loading="lazy">
+  <figcaption>A Bohemian revolt became a European war as foreign powers joined.</figcaption>
+</figure>
+
 ## Practices of war
 
 **Gunpowder and fortification.** Artillery made medieval walls obsolete. Italian engineers developed the *trace italienne*, low, thick walls with angled bastions, which made sieges long and expensive.
@@ -62,6 +72,16 @@ When the childless Charles II of Spain died in 1700, he left his empire to Phili
 **Money and manpower.** Armies grew and had to be fed, paid and equipped. During the Thirty Years' War, commanders such as Wallenstein raised huge armies financed by levies on occupied territory, spreading devastation. Britain financed its wars after 1688 through Parliament, the Bank of England (1694) and a national debt.
 
 **Leadership and coalitions.** At Blenheim (1704) the allied commanders Marlborough and Prince Eugene defeated a Franco-Bavarian army, ending the threat to Vienna.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-6--03-imjin-war.webp" width="900" height="734" alt="Cause: Hideyoshi unified Japan in 1590, demanded passage through Korea to attack Ming China and, when Korea refused, landed at Busan in 1592; historians debate his motives. Outcome: Yi Sun-sin's fleet cut supply lines, Ming armies intervened from 1593 and Korean righteous armies harassed the invaders, leading to Japanese withdrawal after Hideyoshi's death in 1598." loading="lazy">
+  <figcaption>Supply, naval power and Ming intervention decided the Imjin War.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-6--04-practices-grid.webp" width="900" height="575" alt="Four practices: the trace italienne made sieges long and expensive; Maurice of Nassau's drill and Gustavus Adolphus's combined arms won battles such as Breitenfeld (1631); armies needed money, from Wallenstein's levies to Britain's Bank of England and national debt; and coalition leadership won Blenheim (1704)." loading="lazy">
+  <figcaption>Walls, drill, money and leadership shaped the outcome of wars.</figcaption>
+</figure>
 
 ## Effects
 
@@ -75,9 +95,19 @@ When the childless Charles II of Spain died in 1700, he left his empire to Phili
 
 The English Civil Wars (1642-1651) show the topic's themes inside one state. Causes combined religion (fear of Catholic influence and opposition to Archbishop Laud's church policies), money (Charles I's taxes raised without Parliament) and constitutional conflict over control of the army. Practices included the creation of Parliament's New Model Army (1645), a professional force with promotion by merit, which won decisively at Naseby (1645). Effects were dramatic: the execution of Charles I (1649), the abolition of the monarchy and a republic under Oliver Cromwell, although the monarchy was restored in 1660.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-6--05-english-civil-wars.webp" width="900" height="418" alt="Three linked columns for the English Civil Wars. Causes: religion, Charles I's taxes without Parliament and conflict over the army. Practices: the New Model Army of 1645, professional and promoting by merit, won at Naseby. Effects: Charles I executed in 1649, a republic under Cromwell, and the monarchy restored in 1660." loading="lazy">
+  <figcaption>Causes, practices and effects of war within one kingdom.</figcaption>
+</figure>
+
 ## The military revolution debate
 
 In a 1955 lecture, Michael Roberts argued that changes in tactics between 1560 and 1660 caused a "military revolution": larger armies, longer wars and the growth of state power to pay for them. Geoffrey Parker's *The Military Revolution* (1988) placed the *trace italienne* and siege warfare at the centre and extended the argument to explain European expansion overseas. Critics question whether change was revolutionary or gradual, and whether war built states or states built armies. The debate is useful for questions on practices and effects: it links how wars were fought to what they did to governments.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-6--06-military-revolution.webp" width="900" height="511" alt="Roberts (1955) argued that tactical change between 1560 and 1660 caused larger armies, longer wars and stronger states; Parker (1988) centred fortification and sieges and extended the argument to European expansion; critics ask whether change was gradual and whether states built armies rather than the reverse, shown as a dashed reverse arrow." loading="lazy">
+  <figcaption>The debate links how wars were fought to what they did to governments.</figcaption>
+</figure>
 
 ## Worked example: a comparative essay plan
 
@@ -94,6 +124,11 @@ In a 1955 lecture, Michael Roberts argued that changes in tactics between 1560 a
 4. *Triggers and escalation.* The Defenestration of Prague and foreign intervention; Korea's refusal of passage and Ming intervention to protect a tributary.
 
 **Conclusion:** the Thirty Years' War had multiple causes that combined and escalated, while the Imjin War is better explained by one decision-maker; both widened when neighbouring powers intervened.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-6--07-compare-causes.webp" width="900" height="610" alt="A grid compares the causes of the Thirty Years' War and the Imjin War on long-term instability, rulers' ambitions, ideology, and trigger and escalation. The judgement: many causes combined in the Thirty Years' War; one decision-maker drove the Imjin War; both widened through intervention." loading="lazy">
+  <figcaption>Many combining causes against one ruler's decision.</figcaption>
+</figure>
 
 ## Common mistakes
 

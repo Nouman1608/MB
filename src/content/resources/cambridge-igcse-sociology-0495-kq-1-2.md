@@ -62,6 +62,11 @@ The two distinctions cross, giving four combinations:
 
 So "secondary" does not mean "qualitative", and "primary" does not mean "numbers".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-2--01-four-combinations.webp" width="900" height="674" alt="A two-by-two grid. Primary quantitative: your own closed-question questionnaire results. Primary qualitative: transcripts of your own unstructured interviews. Secondary quantitative: census or crime figures. Secondary qualitative: diaries, letters, news articles and social media posts." loading="lazy">
+  <figcaption>Who produced the data and what form it takes are two separate questions.</figcaption>
+</figure>
+
 ## Strengths and limitations of each type of data (1.2.1)
 
 | Type | Strengths | Limitations |
@@ -129,6 +134,16 @@ to favour management's view over workers'.
   reality; counting images can miss how audiences interpret them; deciding categories involves the
   researcher's own judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-2--02-socially-constructed-statistics.webp" width="900" height="778" alt="Recorded crime shrinks from all crimes, to those reported by victims, to those recorded by police; the rest is the hidden dark figure. Atkinson argued that suicide statistics depend on how coroners interpret clues such as notes and the manner of death." loading="lazy">
+  <figcaption>Official figures depend on decisions by victims, police and officials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-2--03-secondary-evidence-types.webp" width="900" height="775" alt="Four types of secondary evidence, each with examples, strengths and limitations: official statistics, historical and personal documents, digital sources and media content, with named studies by Laslett, Thomas and Znaniecki, and the Glasgow University Media Group." loading="lazy">
+  <figcaption>Every type of secondary evidence has a strength to use and a limitation to criticise.</figcaption>
+</figure>
+
 ## Analysing sources (1.2.3)
 
 The syllabus lists five forms: summaries of sociological studies, diagrams, tables, charts and
@@ -170,6 +185,16 @@ When a source summarises a study in words, ask: what method was used, how many p
 and when? A short summary often hides weaknesses — such as a volunteer sample — that you can point
 out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-2--04-reading-a-source.webp" width="900" height="612" alt="Four numbered steps: read the labels, find and quote the exact figure with its unit, describe the pattern, then question the evidence. The routine works for summaries of studies, diagrams, tables, charts and graphs." loading="lazy">
+  <figcaption>Labels, figure, pattern, problems: the same routine for every source.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-2--05-worked-table-example.webp" width="900" height="797" alt="Stacked bars of how often three age groups read news online: 16–29 is 71% daily, 20% weekly, 9% rarely; 30–49 is 58%, 27%, 15%; 50 and over is 33%, 30%, 37%. Below, an identified figure, a described trend and four problems with the evidence." loading="lazy">
+  <figcaption>Pick one figure, describe the trend, then question how the data was collected.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - Calling any statistic "unreliable" without a reason. Say *why*: changing definitions, under-
@@ -190,6 +215,11 @@ out.
   judgement such as "useful for showing trends, less useful for understanding meanings".
 - In Question 1(e), name a **specific** secondary source and give a reason, for example "school
   attendance records, because they cover every student and are free".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-2--06-explain-a-problem.webp" width="900" height="505" alt="Three worked chains, each naming a problem, linking it to the source and stating its effect: volunteers over-represent strong views; an online survey misses older non-users so the age gap looks smaller; a changed definition of unemployment breaks up a trend." loading="lazy">
+  <figcaption>Name it, link it, state its effect.</figcaption>
+</figure>
 
 ## Next steps
 

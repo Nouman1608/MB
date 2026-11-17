@@ -46,12 +46,22 @@ imagined"; **W2** "organise and structure ideas and opinions for deliberate effe
 range of vocabulary and sentence structures appropriate to context"; **W5** "make accurate use of
 spelling, punctuation and grammar". Register (W4) is not assessed in Section B.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-descriptive-composition--01-task-and-definition.webp" width="900" height="915" alt="Section B offers four questions, two descriptive and two narrative, and one is answered in about 350 to 450 words for 25 marks. The definition splits into four targets: the subject, the atmosphere, specific detail and the reader picturing it; the piece is marked on W1, W2, W3 and W5, with W4 not assessed." loading="lazy">
+  <figcaption>Every phrase of the definition is a target, and four writing objectives carry the 25 marks.</figcaption>
+</figure>
+
 ## Description is not a story
 
 The commonest weakness in descriptive answers is drift into narrative: the piece starts at a market
 and ends with a chase. Events are allowed, but they are not the point. If something happens, it should
 be small and serve the picture (a gust of wind, a stall closing). If you find yourself writing "and
 then", ask whether you are still describing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-descriptive-composition--02-description-not-story.webp" width="900" height="700" alt="A check for the words “and then”: if you are still describing, a small event such as a gust of wind or a stall closing serves the picture; if not, the piece has drifted into narrative, like an answer that starts at a market and ends with a chase." loading="lazy">
+  <figcaption>Small events can serve a description; a plot that takes over cannot.</figcaption>
+</figure>
 
 ## Structures that work without plot
 
@@ -68,6 +78,11 @@ Description still needs **deliberate structure** for W2. Choose one before you w
 
 Each paragraph is a stage of the structure, so the reader always knows where they are.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-descriptive-composition--03-six-structures.webp" width="900" height="940" alt="Six ways to shape a description: zoom from a wide view to one detail, time-lapse of one place at dawn, noon and night, a journey from entrance to far corner, the senses in turn, before and after an interruption, and a circular piece that ends where it began with the mood changed." loading="lazy">
+  <figcaption>Pick a structure before you write; each paragraph becomes one stage of it.</figcaption>
+</figure>
+
 ## Detail that does work
 
 General words (*nice*, *busy*, *beautiful*, *lots of*) tell the reader nothing to picture. Replace
@@ -80,6 +95,11 @@ them with:
   sentence becomes clutter.
 - **People in the scene**: a single figure doing something characteristic brings a place alive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-descriptive-composition--04-specific-detail.webp" width="900" height="708" alt="General words such as nice, busy, beautiful and lots of are replaced with specific nouns and precise verbs: food becomes skewers of charred corn, a bird becomes a crow, and the smoke went up becomes the smoke unravelled into the dark. Three further tools: selected senses, sparing figurative language and a single person in the scene." loading="lazy">
+  <figcaption>Swap the general word for the specific one the reader can see.</figcaption>
+</figure>
+
 ## Building atmosphere
 
 Atmosphere is the feeling the details add up to. Decide it before you write: tense, peaceful,
@@ -89,6 +109,11 @@ half-raised, a single light swinging). The place is the same; the selection make
 
 Light, weather, colour and sound are the strongest atmosphere tools. A change in any of them can give
 the piece its shape.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-descriptive-composition--05-building-atmosphere.webp" width="900" height="770" alt="A market at dawn described two ways: peaceful, with the first stallholder yawning and a cat stretching on a sack of rice, or unsettling, with shutters half-raised and a single light swinging. Light, weather, colour and sound are the strongest atmosphere tools." loading="lazy">
+  <figcaption>The place stays the same; the details you select make the mood.</figcaption>
+</figure>
 
 ## Sentence control
 
@@ -122,6 +147,11 @@ warmth against a cold atmosphere. Personification ("has stopped pretending", "hu
 light and consistent with a weary mood. The one-line paragraph "Then the cleaner arrives." is a
 small event that serves the description, opening the next stage without turning it into a story.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-descriptive-composition--06-model-passage-anatomy.webp" width="900" height="670" alt="The railway station model moves in stages: one detail (a pigeon under the last light), the departure board reading Cancelled, the people on the benches, and the one-line paragraph “Then the cleaner arrives.” Notes beside each stage give the commentary’s points on precise pictures, the single chosen sense and light personification." loading="lazy">
+  <figcaption>A zoom structure: each stage is a paragraph, and the final small event opens the next.</figcaption>
+</figure>
+
 ## Choosing between the two descriptive titles
 
 Pick the title for which you can see one particular place, person or moment clearly, with at least
@@ -147,6 +177,11 @@ likely to read as a list.
 - Write four or five paragraphs; aim for the middle of the 350–450 range.
 - Begin with a precise image, not a general statement ("The station was very quiet").
 - Keep a few minutes to proofread for W5: spelling, punctuation, grammar.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-descriptive-composition--07-plan-and-timing.webp" width="900" height="826" alt="Spend about five minutes planning atmosphere, structure and details per stage, write four or five paragraphs aiming for the middle of 350 to 450 words, then proofread for W5. A sample plan built from the railway station model lists the atmosphere, a zoom structure and four stages." loading="lazy">
+  <figcaption>Five minutes of planning gives every paragraph its stage and its details.</figcaption>
+</figure>
 
 ## Related resources
 

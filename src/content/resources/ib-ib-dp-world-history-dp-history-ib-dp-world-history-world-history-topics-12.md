@@ -38,6 +38,11 @@ The IB History guide arranges the content in three parts.
 
 The second and third parts explain why Paper 2 questions on this topic often say "two leaders", "two countries" or "two crises", each chosen from a different region.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--01-three-parts.webp" width="900" height="646" alt="A timeline from 1940 to 1995 shows the three periods of Part 1: the breakdown of the grand alliance (1943-49), relations between the USA, USSR and China (1947-79), and confrontation and the end of the Cold War (1980-91). Two cards show Part 2 (two leaders and two countries) and Part 3 (two crises), each chosen from different regions." loading="lazy">
+  <figcaption>Part 1 is chronological; Parts 2 and 3 ask for pairs from different regions.</figcaption>
+</figure>
+
 ## Key ideas
 
 ### Origins: why the alliance broke down
@@ -77,6 +82,31 @@ Weigh three factors from the guide:
 
 Use the debate to evaluate the "comparison of the roles of the USA and the USSR", not as a paragraph on its own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--02-origins-grid.webp" width="900" height="526" alt="A grid of three factors. Ideology: capitalist democracies against a communist one-party state. Fear and aggression: Western fear of Soviet expansion in Eastern Europe against Soviet security fears after the 1941 invasion. Economic interests: open markets and a recovered Europe against reparations and a buffer zone." loading="lazy">
+  <figcaption>Ideology, fear and economics each had a Western and a Soviet side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--03-origins-timeline.webp" width="900" height="517" alt="A vertical timeline: 1945 Yalta and Potsdam; 1946 the Long Telegram and the iron curtain speech; 1947 the Truman Doctrine and Marshall Plan make containment US policy; 1948-49 the Berlin Blockade and airlift, with NATO formed in April 1949; 1949 the Soviet atomic test and the People's Republic of China." loading="lazy">
+  <figcaption>Five years turned wartime allies into nuclear-armed rivals in Europe and Asia.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--04-superpowers-and-china.webp" width="900" height="820" alt="Two lanes of events from 1950 to 1979. Superpower lane: the Korean War, peaceful co-existence and Hungary (1956), the Berlin Wall (1961), Cuba (1962), SALT I (1972), Helsinki (1975) and the Soviet invasion of Afghanistan (December 1979). China lane: the Sino-Soviet alliance (1950), the split by the early 1960s, border clashes (1969) and Nixon's visit to Beijing (1972)." loading="lazy">
+  <figcaption>China changed the balance: from Soviet ally in 1950 to opening with the USA in 1972.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--05-end-of-cold-war.webp" width="900" height="672" alt="Three factor cards converge on the end of the Cold War: economic problems (stagnation and the costs of Afghanistan and the arms race), the arms race (Reagan's build-up, SDI in 1983, then the INF Treaty in 1987) and ideological challenges and dissent (Solidarity from 1980, glasnost and perestroika, the end of the Brezhnev Doctrine). The end is marked by the fall of the Berlin Wall in 1989 and the dissolution of the USSR in 1991." loading="lazy">
+  <figcaption>Three pressures converged; decide how far Gorbachev's choices were decisive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--06-historians-debate.webp" width="900" height="541" alt="A spectrum runs from mainly the USSR responsible to mainly the USA responsible. Orthodox accounts sit at the Soviet end (Soviet expansionism), revisionist accounts such as Williams (1959) at the US end (US economic expansion), and post-revisionist accounts such as the earlier Gaddis in the middle (mutual misperception, shared responsibility)." loading="lazy">
+  <figcaption>Orthodox, post-revisionist, revisionist: a spectrum of blame.</figcaption>
+</figure>
+
 ## Worked example: comparing two crises
 
 **Question:** "Compare and contrast the causes and significance of **two** Cold War crises, each chosen from a different region."
@@ -92,6 +122,11 @@ Use the debate to evaluate the "comparison of the roles of the USA and the USSR"
 
 **Thesis:** "Both crises arose from security fears in areas of symbolic importance and were resolved without war, but the Cuban crisis was more significant because it brought the superpowers to the edge of nuclear war and led them to build mechanisms for managing future confrontation."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--07-two-crises.webp" width="900" height="580" alt="Three columns. Berlin only: triggered by Western currency reform in June 1948, ended by the airlift, leading to two German states and NATO. Both: one side changed the status quo, rooted in security fears, ended short of war. Cuba only: triggered by the discovery of missile sites in October 1962, much closer to nuclear war, leading to the hotline and Partial Test Ban Treaty in 1963." loading="lazy">
+  <figcaption>Shared causes and resolution; different scale of danger and legacy.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Writing a narrative from 1945 to 1991.** Questions target a part of the topic; select.
@@ -99,6 +134,11 @@ Use the debate to evaluate the "comparison of the roles of the USA and the USSR"
 - **Using the USA or USSR for "two countries".** The guide excludes them from that bullet; choose countries such as Korea, Vietnam, Cuba, Germany or Afghanistan.
 - **Crises from the same region.** Berlin (1948-49) and Hungary (1956) are both in Europe.
 - **Name-dropping schools of thought.** Explain what each argues and test it against evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--08-choosing-pairs.webp" width="900" height="699" alt="Five rows marked with ticks or crosses. Berlin and Hungary are both in Europe, so they fail; Berlin and Cuba pass. The USA and USSR cannot be the two countries; Korea, Vietnam, Cuba, Germany or Afghanistan can. Two leaders must come from different regions." loading="lazy">
+  <figcaption>Different regions, and never the USA or USSR as your two countries.</figcaption>
+</figure>
 
 ## Exam technique
 

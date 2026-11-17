@@ -48,6 +48,16 @@ The subject content says the same skills in other words: "identify the important
 within an extended piece of writing" and "draw conclusions from an extended text and recognise
 connections between related ideas within a text".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-3-note-making--01-where-exercise-3-sits.webp" width="900" height="574" alt="Exercise 3 is the third of five compulsory exercises in a 1 hour 45 minute, 50-mark paper. It is worth 9 marks, tests R1 to R4, uses the longest text on the paper, and that same text feeds the Exercise 4 summary. All answers are in Urdu, without dictionaries." loading="lazy">
+  <figcaption>One long text, two exercises: understanding it well pays twice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-3-note-making--02-reading-objectives.webp" width="900" height="576" alt="How R1 to R4 apply: R1 finds the points for each heading, R2 recognises a point given as someone's view, R3 connects a point in one paragraph to a heading introduced in another, and R4 supplies an implied point when a heading calls for it." loading="lazy">
+  <figcaption>Points for one heading can be spread, stated as views, or only implied.</figcaption>
+</figure>
+
 ## What counts as a note
 
 A note is **brief**: the syllabus says so. Full sentences are not required. A good note is:
@@ -62,6 +72,11 @@ In Urdu, notes are most naturally written as noun phrases built with the verbal 
 *کیمیائی کھاد سے پاک غذا*، *پڑوسیوں سے میل جول*. They are short, precise and easy to turn into sentences
 later for the summary.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-3-note-making--03-what-counts-as-a-note.webp" width="900" height="758" alt="A note must be specific (پانی کی کمی, not کچھ مسائل), complete enough to make sense (تیز دھوپ میں پودوں کا جھلس جانا, not دھوپ), one point only, and under the right heading. Noun phrases such as خرچ میں کمی، کیمیائی کھاد سے پاک غذا and پڑوسیوں سے میل جول work best." loading="lazy">
+  <figcaption>Brief, specific, one point, in the right place.</figcaption>
+</figure>
+
 ## Mapping the text to the headings
 
 1. **Read the headings first.** They tell you what kinds of information to look for.
@@ -73,6 +88,11 @@ later for the summary.
    which heading it answers more directly.
 5. **Count.** If bullet lines are printed under a heading, treat their number as the number of
    points expected. Where the text gives more points than lines, choose the clearest ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-3-note-making--04-mapping-the-text.webp" width="900" height="661" alt="Five steps: read the headings first, read the whole text once, label each relevant detail with its heading letter on a second reading, check that each point sits under one heading only, and count the bullet lines to see how many points are expected." loading="lazy">
+  <figcaption>Headings first, then label the text, then count.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -120,12 +140,27 @@ Weak notes, and what went wrong:
 | (c) پانی کی ٹرے، سایہ اور کھاد | three tips in one note: one mark at most |
 | (b) پڑوسیوں سے ملاقات | a benefit placed under difficulties |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-3-note-making--05-strong-notes.webp" width="900" height="1106" alt="Strong notes for the rooftop-gardening article under three headings: benefits (بازار کے خرچ میں کمی، کیمیائی کھاد سے پاک غذا، عمارت کا گرمیوں میں ٹھنڈا رہنا), difficulties (تیز دھوپ سے پودوں کا جھلسنا، گیلی مٹی سے چھت کو نقصان کا خدشہ) and the experts' advice (آسان پودوں سے آغاز، گملوں کے نیچے ٹرے)." loading="lazy">
+  <figcaption>Each note is one specific point, under the heading it answers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-3-note-making--06-weak-notes.webp" width="900" height="730" alt="Five weak notes: ٹماٹر، مرچیں اور پودینہ names crops, not a benefit; سستی اور صحت مند سبزیاں merges two benefits; دھوپ is too thin; پانی کی ٹرے، سایہ اور کھاد packs three tips into one note; پڑوسیوں سے ملاقات is a benefit placed under difficulties." loading="lazy">
+  <figcaption>Wrong kind of point, too many points, too little point, or the wrong heading.</figcaption>
+</figure>
+
 ## From notes to summary
 
 Exercise 4 asks for a paragraph-length summary of no more than 100 words "about an aspect or aspects
 of the text in Exercise 3". The aspect is often one or two of your headings. Notes written as clear
 noun phrases convert quickly: *خرچ میں کمی* becomes *گھر میں سبزیاں اگانے سے خرچ کم ہوتا ہے*. If your
 notes are accurate, most of the selection work for the summary is already done.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-3-note-making--07-notes-to-summary.webp" width="900" height="596" alt="A note such as خرچ میں کمی converts into a summary sentence, گھر میں سبزیاں اگانے سے خرچ کم ہوتا ہے. The Exercise 4 summary is at most 100 words on an aspect of the same text, often one or two headings. Notes should be three to eight words, checked against the heading." loading="lazy">
+  <figcaption>Clear noun-phrase notes turn quickly into summary sentences.</figcaption>
+</figure>
 
 ## Common mistakes
 
