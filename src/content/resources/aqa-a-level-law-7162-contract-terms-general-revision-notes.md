@@ -72,6 +72,13 @@ Condensed notes for the section 3.4 row **Contract terms: general**: "Express an
 
 **Strictness:** *Arcos v Ronaasen* (1933): rejection for slightly thicker staves. Courts now reluctant to allow rejection for trivial breaches (*Reardon Smith Line*, 1976; *Hansa Nord*).
 
+## Applying it in a problem
+
+- Quote the statement from the facts and weigh at least two factors before deciding term or representation.
+- If a term, say whether it is express or implied, and by which route.
+- Classify using statute, the parties' wording, then precedent; only then fall back on the innominate approach.
+- State the remedy precisely: "may terminate and claim damages" or "damages only".
+
 ## Evaluation points
 
 - **Term or representation:** factor tests are flexible but unpredictable; outcomes depend on how a court weighs expertise, timing and importance.

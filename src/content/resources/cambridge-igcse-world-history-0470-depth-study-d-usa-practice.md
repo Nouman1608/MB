@@ -87,7 +87,7 @@ quota laws (1). **[2]**
 
 **6.** Any three, 1 mark each: mass unemployment (1); homelessness and Hoovervilles (1); soup kitchens and bread
 queues (1); evictions of families and farmers (1); men travelling the country on freight trains in search of work (1);
-malnutrition and illness (1); a rise in suicides among ruined investors (1); falling birth and marriage rates (1).
+malnutrition and illness (1); falling birth and marriage rates (1).
 **[3]**
 
 **7.** Any two, 1 mark each: it did not do enough to help the poor (1); wealth should be taken from the rich and
