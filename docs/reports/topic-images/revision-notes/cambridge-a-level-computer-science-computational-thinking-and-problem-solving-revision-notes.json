@@ -1,0 +1,33 @@
+{
+ "page": "cambridge-a-level-computer-science-computational-thinking-and-problem-solving-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--08-ct-binary-search-found.webp",
+   "after": "## Searching"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--09-ct-binary-search-missing.webp",
+   "after": "## Searching"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--10-ct-insertion-sort.webp",
+   "after": "## Sorting"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--11-ct-tree-traversals.webp",
+   "after": "## Worked example: building a binary tree"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--12-ct-big-o-growth.webp",
+   "after": "## Big O notation"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--13-ct-call-stack-factorial.webp",
+   "after": "## Recursion"
+  },
+  {
+   "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--14-ct-fibonacci-calls.webp",
+   "after": "## Recursion"
+  }
+ ]
+}

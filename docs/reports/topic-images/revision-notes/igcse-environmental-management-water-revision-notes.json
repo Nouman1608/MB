@@ -1,0 +1,14 @@
+{ "page": "igcse-environmental-management-water-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-cambridge-environmental-management-water--07-wa-water-cycle.webp", "after": "## 3.1 Water sources and supply — stores vs transfers" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-pollution--01-five-sources.webp", "after": "## 3.2 Water pollution — cause-and-effect pairs" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-pollution--02-eutrophication-steps.webp", "after": "## 3.2 Water pollution — cause-and-effect pairs" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-related-diseases--01-two-diseases.webp", "after": "## 3.3 Water-related diseases — don't mix the two mechanisms" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-marine-aquaculture--01-overfishing-collapse.webp", "after": "## 3.4 Marine aquaculture — five outcomes, not the shortest sub-topic" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-marine-aquaculture--04-three-forms.webp", "after": "## 3.4 Marine aquaculture — five outcomes, not the shortest sub-topic" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--02-five-causes.webp", "after": "## 3.5 Oil pollution" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-environmental-management-water--13-wa-oil-prevent-minimise.webp", "after": "## 3.5 Oil pollution" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-plastic-pollution--01-made-from-vs-end-of-life.webp", "after": "## 3.6 Plastic pollution — new for this cycle" },
+ { "src": "https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-plastic-pollution--04-four-impacts.webp", "after": "## 3.6 Plastic pollution — new for this cycle" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-environmental-management-water--09-wa-desalination.webp", "after": "## Worked example: desalination trade-off" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-environmental-management-water--08-wa-treatment.webp", "after": "## Worked example: treatment stage recall" }
+] }
