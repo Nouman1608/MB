@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "organisational-psychology-9990"
     subtopic: "group-behaviour-in-organisations-9990"
-description: "Original Paper 3 and Paper 4 style questions on Cambridge 9990 topic 4.3: team development, decisions, facilitation, loafing and conflict, with full mark schemes."
+description: "Original Paper 3 and Paper 4 style questions on Cambridge 9990 topic 4.3: teams, decisions, facilitation, loafing and conflict, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

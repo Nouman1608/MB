@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "health-psychology-9990"
     subtopic: "pain-9990"
-description: "Revision notes for Cambridge 9990 topic 3.3 Pain: types, specificity and gate control theory, four measures, Brudvik et al. (2016) and pain management, with a self-test."
+description: "Revision notes for Cambridge 9990 topic 3.3 Pain: types, theories, four measures, Brudvik et al. (2016) and management, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

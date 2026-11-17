@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "organisational-psychology-9990"
     subtopic: "leadership-and-management-9990"
-description: "Revision notes for Cambridge 9990 topic 4.2: leadership theories, Heifetz, four styles, Scouller's levels, Cuadrado et al. (2008), LPI and followership, with a self-test."
+description: "Revision notes for Cambridge 9990 topic 4.2: theories, Heifetz, styles, Scouller, Cuadrado et al. (2008) and followership, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

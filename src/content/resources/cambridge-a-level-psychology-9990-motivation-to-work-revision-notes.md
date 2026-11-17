@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "organisational-psychology-9990"
     subtopic: "motivation-to-work-9990"
-description: "Revision notes for Cambridge 9990 topic 4.1: Maslow, McClelland, goal-setting, VIE theory, rewards, self-determination theory and Landry et al. (2019), with a self-test."
+description: "Revision notes for Cambridge 9990 topic 4.1: Maslow, McClelland, goal-setting, VIE, rewards and Landry et al. (2019), with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

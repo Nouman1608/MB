@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "consumer-psychology-9990"
     subtopic: "advertising-9990"
-description: "Original Paper 3 and Paper 4 style questions on Cambridge 9990 topic 2.5 Advertising: Yale model, 4 Cs, self-monitoring, placement and slogans, with mark schemes."
+description: "Original Paper 3 and Paper 4 style questions on Cambridge 9990 topic 2.5 Advertising, from the Yale model to slogans, with mark schemes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

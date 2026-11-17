@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "health-psychology-9990"
     subtopic: "health-promotion-9990"
-description: "Cambridge 9990 topic 3.5 in depth: fear arousal, information, healthy eating in schools, workplace safety, unrealistic optimism and Shoshani and Steinmetz (2014)."
+description: "Cambridge 9990 topic 3.5 in depth: fear arousal, information, healthy eating, workplace safety, optimism and Shoshani and Steinmetz (2014)."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

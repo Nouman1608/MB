@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "consumer-psychology-9990"
     subtopic: "the-product-9990"
-description: "Revision notes for Cambridge 9990 topic 2.4: packaging, Becker et al. (2011), shelf position, selling techniques, the EKB model and dissonance, with a self-test."
+description: "Revision notes for Cambridge 9990 topic 2.4: packaging, Becker et al. (2011), shelf position, selling, the EKB model and dissonance, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

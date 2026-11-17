@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "organisational-psychology-9990"
     subtopic: "organisational-work-conditions-9990"
-description: "Original Paper 3 and Paper 4 style questions on Cambridge 9990 topic 4.4: physical and temporal conditions, errors and accident monitoring, with full mark schemes."
+description: "Original Paper 3 and Paper 4 style questions on Cambridge 9990 topic 4.4: work conditions, errors and accident monitoring, with mark schemes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

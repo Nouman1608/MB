@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "health-psychology-9990"
     subtopic: "the-patientpractitioner-relationship-9990"
-description: "Original Paper 3 and Paper 4 style questions on Cambridge 9990 topic 3.1: communication, diagnosis, consultation style and misuse of services, with mark schemes."
+description: "Original Paper 3 and Paper 4 style questions on Cambridge 9990 topic 3.1: communication, diagnosis, style and misuse, with mark schemes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

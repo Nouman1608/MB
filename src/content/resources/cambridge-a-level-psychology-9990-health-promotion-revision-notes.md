@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "health-psychology-9990"
     subtopic: "health-promotion-9990"
-description: "Revision notes for Cambridge 9990 topic 3.5: fear appeals, information, Food Dudes, token economies, unrealistic optimism and positive psychology, with a self-test."
+description: "Revision notes for Cambridge 9990 topic 3.5: fear appeals, information, Food Dudes, token economies, optimism and positive psychology."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

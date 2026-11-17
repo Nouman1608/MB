@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "health-psychology-9990"
     subtopic: "stress-9990"
-description: "Revision notes for Cambridge 9990 topic 3.4 Stress: GAS, life events, work, Type A, measures, biofeedback, Bridge et al. (1988) and SIT, with traps and a self-test."
+description: "Revision notes for Cambridge 9990 topic 3.4 Stress: GAS, life events, Type A, measures, biofeedback, Bridge et al. (1988) and SIT, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

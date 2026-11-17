@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "health-psychology-9990"
     subtopic: "pain-9990"
-description: "Original Paper 3 and Paper 4 style questions on Cambridge 9990 topic 3.3 Pain: types, theories, measures, Brudvik et al. (2016) and management, with mark schemes."
+description: "Original Paper 3 and Paper 4 style questions on Cambridge 9990 topic 3.3 Pain: theories, measures, Brudvik et al. and management, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

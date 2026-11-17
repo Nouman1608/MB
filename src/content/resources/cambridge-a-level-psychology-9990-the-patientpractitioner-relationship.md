@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "health-psychology-9990"
     subtopic: "the-patientpractitioner-relationship-9990"
-description: "Cambridge 9990 topic 3.1 in depth: clothing and jargon, diagnosis errors, Savage and Armstrong (1990), delay in seeking help, Munchausen syndrome and malingering."
+description: "Cambridge 9990 topic 3.1 in depth: clothing and jargon, diagnosis errors, Savage and Armstrong (1990), delay, Munchausen and malingering."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

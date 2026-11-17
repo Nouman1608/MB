@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "organisational-psychology-9990"
     subtopic: "satisfaction-at-work-9990"
-description: "Cambridge 9990 topic 4.5 in depth: Herzberg, job characteristics theory, job design, the JDI and QWL, Giacalone and Rosenfeld (1987) on sabotage, and Blau and Boal."
+description: "Cambridge 9990 topic 4.5 in depth: Herzberg, job characteristics, job design, the JDI and QWL, Giacalone and Rosenfeld (1987), Blau and Boal."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

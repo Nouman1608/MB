@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "organisational-psychology-9990"
     subtopic: "organisational-work-conditions-9990"
-description: "Revision notes for Cambridge 9990 topic 4.4: Hawthorne effect, open-plan offices, shift patterns, human and system errors, token economy and Swat (1997), with a self-test."
+description: "Revision notes for Cambridge 9990 topic 4.4: Hawthorne effect, open-plan offices, shifts, errors, token economy and Swat (1997), with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "organisational-psychology-9990"
     subtopic: "group-behaviour-in-organisations-9990"
-description: "Revision notes for Cambridge 9990 topic 4.3: group stages, Belbin, groupthink, facilitation, loafing, monitoring, conflict modes and bullying, with a 12-item self-test."
+description: "Revision notes for Cambridge 9990 topic 4.3: group stages, Belbin, groupthink, loafing, monitoring, conflict and bullying, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

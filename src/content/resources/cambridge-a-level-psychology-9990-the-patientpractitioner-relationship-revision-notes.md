@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "health-psychology-9990"
     subtopic: "the-patientpractitioner-relationship-9990"
-description: "Revision notes for Cambridge 9990 topic 3.1: communication, diagnosis, Savage and Armstrong (1990), delay, Munchausen and malingering, with traps and a self-test."
+description: "Revision notes for Cambridge 9990 topic 3.1: communication, diagnosis, Savage and Armstrong (1990), delay and Munchausen, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

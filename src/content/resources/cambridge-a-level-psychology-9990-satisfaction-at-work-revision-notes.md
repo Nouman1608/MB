@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "organisational-psychology-9990"
     subtopic: "satisfaction-at-work-9990"
-description: "Revision notes for Cambridge 9990 topic 4.5: Herzberg, job characteristics, job design, JDI, QWL, Giacalone and Rosenfeld (1987) and Blau and Boal, with a self-test."
+description: "Revision notes for Cambridge 9990 topic 4.5: Herzberg, job characteristics, JDI, QWL, sabotage and Blau and Boal, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
