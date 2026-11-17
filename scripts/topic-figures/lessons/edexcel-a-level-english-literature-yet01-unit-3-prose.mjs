@@ -313,15 +313,15 @@ function venn(Y, leftYear, rightYear, cols, o = {}) {
   const fig = compose('Unit 3 Section B at a glance', [
     (y) => { const b = markBar(y + 26, [{ label: 'Section A', sub: '20 marks', value: 20, fill: C.tealLight }, { label: 'Section B: Prose', sub: '30 marks · one comparative essay', value: 30, fill: C.mustard }]); return { s: T(30, y + 14, 'Unit 3 · 50 marks · open book', { size: 17, weight: 700, fill: C.muted }) + b.s, h: b.h + 26 }; },
     (y) => {
-      let s = card(30, y, 840, { minH: 190 }).s;
+      let s = card(30, y, 840, { minH: 214 }).s;
       s += T(60, y + 36, 'One theme, three texts: you study two', { size: 18, weight: 700 });
-      const bk = (x, f, on) => `<rect x="${x}" y="${y + 56}" width="70" height="100" rx="6" fill="${on ? f : C.bg}" stroke="${on ? C.ink : C.panelEdge}" stroke-width="2.5"${on ? '' : ' stroke-dasharray="7 5"'}/><rect x="${x}" y="${y + 56}" width="12" height="100" rx="3" fill="${C.ink}" opacity="${on ? 0.25 : 0.08}"/>`;
+      const bk = (x, f, on) => `<rect x="${x}" y="${y + 80}" width="70" height="100" rx="6" fill="${on ? f : C.bg}" stroke="${on ? C.ink : C.panelEdge}" stroke-width="2.5"${on ? '' : ' stroke-dasharray="7 5"'}/><rect x="${x}" y="${y + 80}" width="12" height="100" rx="3" fill="${C.ink}" opacity="${on ? 0.25 : 0.08}"/>`;
       s += bk(70, C.tealLight, true) + bk(160, C.cream, true) + bk(250, C.panel, false);
-      s += T(105, y + 178, 'Text A', { size: 15, weight: 700, anchor: 'middle' }) + T(195, y + 178, 'Text B', { size: 15, weight: 700, anchor: 'middle' }) + T(285, y + 178, 'not studied', { size: 15, anchor: 'middle', fill: C.muted });
-      s += `<path d="M105,${y + 52} Q150,${y + 30} 195,${y + 52}" fill="none" stroke="${C.ink}" stroke-width="2.5" marker-start="url(#ah)" marker-end="url(#ah)"/>`;
-      s += para(370, y + 70, 'One comparative essay from a choice of two questions.', 470, { size: 17 }).s;
-      s += para(370, y + 120, 'Compare the two texts and consider relevant contextual factors.', 470, { size: 17 }).s;
-      return { s, h: 190 };
+      s += T(105, y + 202, 'Text A', { size: 15, weight: 700, anchor: 'middle' }) + T(195, y + 202, 'Text B', { size: 15, weight: 700, anchor: 'middle' }) + T(285, y + 202, 'not studied', { size: 15, anchor: 'middle', fill: C.muted });
+      s += `<path d="M105,${y + 76} Q150,${y + 54} 195,${y + 76}" fill="none" stroke="${C.ink}" stroke-width="2.5" marker-start="url(#ah)" marker-end="url(#ah)"/>`;
+      s += para(370, y + 90, 'One comparative essay from a choice of two questions.', 470, { size: 17 }).s;
+      s += para(370, y + 140, 'Compare the two texts and consider relevant contextual factors.', 470, { size: 17 }).s;
+      return { s, h: 214 };
     },
     (y) => {
       let s = T(30, y + 18, 'All four objectives:', { size: 19, weight: 700 });
@@ -350,8 +350,7 @@ function venn(Y, leftYear, rightYear, cols, o = {}) {
     ['4 Women and Society', [['Wuthering Heights', 1847], ['Mrs Dalloway', 1925], ['Beloved', 1987]]],
   ];
   const rh = 128;
-  [1800, 1850, 1900, 1950, 2000].forEach((yr) => { s += `<line x1="${X_(yr)}" y1="${Y}" x2="${X_(yr)}" y2="${Y + 4 * rh}" stroke="${C.panelEdge}" stroke-width="2" stroke-dasharray="4 5"/>` + T(X_(yr), Y + 4 * rh + 24, String(yr), { size: 15, anchor: 'middle', fill: C.muted }); });
-  s += `<rect x="${X_(1900)}" y="${Y}" width="2" height="${4 * rh}" fill="${C.olive}" opacity="0.7"/>`;
+  [1800, 1850, 1900, 1950, 2000].forEach((yr) => { s += [0, 1, 2, 3].map((i) => `<line x1="${X_(yr)}" y1="${Y + i * rh + rh / 2 - 6}" x2="${X_(yr)}" y2="${Y + i * rh + rh / 2 + 6}" stroke="${C.muted}" stroke-width="2"/>`).join('') + `<line x1="${X_(yr)}" y1="${Y + 4 * rh - 2}" x2="${X_(yr)}" y2="${Y + 4 * rh + 6}" stroke="${C.muted}" stroke-width="2"/>` + T(X_(yr), Y + 4 * rh + 24, String(yr), { size: 15, anchor: 'middle', fill: C.muted }); });
   themes.forEach(([th, books], i) => {
     const y = Y + i * rh, cy = y + rh / 2;
     s += `<rect x="30" y="${y + 10}" width="220" height="${rh - 20}" rx="10" fill="${i % 2 ? C.cream : C.tealLight}" stroke="${i % 2 ? C.olive : C.tealDark}" stroke-width="2"/>` + para(46, cy - 6, th, 190, { size: 17, weight: 700 }).s;
@@ -359,7 +358,7 @@ function venn(Y, leftYear, rightYear, cols, o = {}) {
     books.forEach(([b, yr, lab], k) => {
       const x = X_(yr), up = k % 2 === 0;
       s += `<circle cx="${x}" cy="${cy}" r="8" fill="${yr < 1900 ? C.mustard : C.teal}" stroke="${C.ink}" stroke-width="2.5"/>`;
-      const anchor = x > 760 ? 'end' : x < 330 ? 'start' : 'middle', tx = anchor === 'end' ? x + 8 : anchor === 'start' ? x - 8 : x;
+      const anchor = x > 760 || b === 'Heart of Darkness' ? 'end' : x < 330 ? 'start' : 'middle', tx = anchor === 'end' ? x + 8 : anchor === 'start' ? x - 8 : x;
       s += T(tx, up ? cy - 28 : cy + 30, b, { size: 15, weight: 700, anchor, italic: true }) + T(tx, up ? cy - 12 : cy + 47, lab || String(yr), { size: 14, anchor, fill: C.muted }).replace('font-size="14"', 'font-size="15"');
     });
   });
