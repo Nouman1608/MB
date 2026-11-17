@@ -98,7 +98,7 @@ Discuss how far sociologists would agree that the functionalist theory of strati
 **3.** A position in society that needs the highest levels of skill or carries great responsibility for directing and organising others [1], so that society would suffer if it were filled badly [1]. **[2]**
 *Examiner insight:* the second mark comes from explaining why the role matters to society, not from naming an example alone.
 
-**4.** Any two from: all roles must be filled; roles must be filled by those best able to perform them; the necessary training must take place; roles must be performed conscientiously [1 each, up to 2]. **[2]**
+**4.** One need correctly identified [1] and a second need correctly identified [1], from: all roles must be filled; roles must be filled by those best able to perform them; the necessary training must take place; roles must be performed conscientiously. **[2]**
 *Examiner insight:* "people must be paid" is not one of the four; it is the solution Davis and Moore propose.
 
 **5.** Once people are in a role, the rewards attached to it keep them working hard [1]. The promise of continued pay, prestige or promotion motivates them to perform conscientiously [1]. Without these rewards, Davis and Moore argue, people in demanding roles would have little reason to give their best effort [1]. **[3]**
