@@ -40,11 +40,11 @@ full method and a model email are in the
 
 ## The objectives as a checklist
 
-- [ ] **W1** every prompt covered, clearly
-- [ ] **W2** paragraphs, with varied linking devices
-- [ ] **W3** accurate grammar and vocabulary in context, with some range
-- [ ] **W4** Urdu punctuation and correct spelling
-- [ ] **W5** register and format right for purpose and audience
+- **W1** every prompt covered, clearly
+- **W2** paragraphs, with varied linking devices
+- **W3** accurate grammar and vocabulary in context, with some range
+- **W4** Urdu punctuation and correct spelling
+- **W5** register and format right for purpose and audience
 
 ## Purpose, format, audience
 

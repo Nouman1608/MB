@@ -41,10 +41,10 @@ a model passage are in the
 
 ## The definition as a checklist
 
-- [ ] a **person, place or situation**
-- [ ] **atmosphere** as well as contents
-- [ ] **in detail**: specific, chosen details
-- [ ] the reader can **picture** it
+- a **person, place or situation**
+- **atmosphere** as well as contents
+- **in detail**: specific, chosen details
+- the reader can **picture** it
 
 ## Objectives in the descriptive task
 
