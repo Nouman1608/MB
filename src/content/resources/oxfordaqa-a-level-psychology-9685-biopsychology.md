@@ -61,7 +61,7 @@ A reflex arc shows all three in sequence: a sensory neuron carries a signal from
 
 Transmission is **one-way**, because vesicles exist only in the presynaptic terminal and receptors only on the postsynaptic membrane.
 
-**Excitation and inhibition.** An **excitatory** neurotransmitter makes the postsynaptic neuron more likely to fire; an **inhibitory** one makes it less likely. Serotonin and GABA usually have inhibitory effects, calming activity; adrenaline and noradrenaline usually have excitatory effects. Whether a neuron fires depends on **summation** of all the excitatory and inhibitory inputs it receives: if the net effect reaches the threshold, an action potential is triggered.
+**Excitation and inhibition.** **Excitatory** neurotransmitters raise the chance that the postsynaptic neuron will generate an action potential; **inhibitory** neurotransmitters lower that chance. Serotonin and GABA usually have inhibitory effects, calming activity; adrenaline and noradrenaline usually have excitatory effects. Whether a neuron fires depends on **summation** of all the excitatory and inhibitory inputs it receives: if the net effect reaches the threshold, an action potential is triggered.
 
 ## The endocrine system
 
@@ -104,7 +104,7 @@ The idea that specific areas of the brain have specific functions.
 
 **Lateralisation** means some functions are processed mainly by one hemisphere: language is usually lateralised to the left, while the right is often better at spatial tasks and recognising faces.
 
-In split-brain research, Sperry studied patients whose **corpus callosum** had been cut to control severe epilepsy, so the hemispheres could not communicate. An image was flashed briefly to one visual field while the patient fixed on a central point.
+Sperry's split-brain research tested people who had undergone surgery severing the **corpus callosum** to control severe epilepsy, so the hemispheres could not communicate. An image was flashed briefly to one visual field while the patient fixed on a central point.
 
 - An object shown to the **right visual field** (left hemisphere) could be **named**.
 - An object shown to the **left visual field** (right hemisphere) could not be named, but the patient could pick it out by touch with the **left hand**.
@@ -113,7 +113,7 @@ In split-brain research, Sperry studied patients whose **corpus callosum** had b
 
 ## Plasticity and functional recovery
 
-**Plasticity** is the brain's ability to change its structure and function with experience. Maguire et al. (2000) found that London taxi drivers had a larger posterior hippocampus than control participants, and its volume correlated with time spent driving a taxi.
+**Plasticity** is the brain's ability to change its structure and function with experience. Brain scans by Maguire et al. (2000) showed that the posterior hippocampus -- a region involved in spatial memory -- was larger in licensed London taxi drivers than in controls, and was larger still in those with more years in the job.
 
 **Functional recovery** after trauma, such as a stroke, occurs as the brain reorganises:
 

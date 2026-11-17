@@ -111,8 +111,8 @@ In unfamiliar questions, every suggestion must fit the scenario given; generic m
 ## Common mistakes
 
 - Writing a hypothesis that cannot be tested with the data collected.
-- Describing a sampling method without explaining why it suits the question.
-- Listing hazards in a risk assessment with no control measures.
+- Naming random, systematic or stratified sampling with no reason linked to the enquiry.
+- A risk assessment that identifies dangers but never says how each will be reduced.
 - Confusing reliability with accuracy.
 - Concluding without accepting or rejecting the hypothesis.
 - Evaluating only the data collection stage instead of every stage.

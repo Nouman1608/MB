@@ -50,11 +50,11 @@ Condensed recall for **3.5.2 Fieldwork skills** (OxfordAQA International AS and 
 | Hypothesis | A testable prediction based on geographical theory |
 | Research question | An open question, used when a prediction is not appropriate |
 | Null hypothesis | A statement that there is no relationship or difference, used in statistical testing |
-| Primary data | Data you collect yourself |
-| Secondary data | Data collected by others, such as census statistics |
+| Primary data | Measurements and responses gathered first-hand during the enquiry |
+| Secondary data | Existing information gathered by another person or organisation, such as census statistics |
 | Random sampling | Every point or person has an equal chance of selection |
 | Systematic sampling | Samples at regular intervals in space or time |
-| Stratified sampling | Sample split in proportion to known sub-groups |
+| Stratified sampling | Sample divided so each known sub-group is represented in its true proportion |
 | Pilot study | A small trial run to test methods and equipment |
 | Accuracy | Closeness of a measurement to the true value |
 | Precision | Fineness of the measurement scale |
@@ -111,7 +111,7 @@ Evaluate **every stage**: was the hypothesis testable, the sample large and repr
 
 ## Self-test
 
-1. Name the two ways fieldwork is assessed in Unit 5.
+1. In which two ways does Unit 5 assess fieldwork?
 2. How many of the 60 Unit 5 marks assess the student's own investigation?
 3. Give one alternative to practical fieldwork that the specification allows.
 4. Why must secondary research come before data collection?

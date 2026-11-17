@@ -40,7 +40,7 @@ A negative budget means the store is shrinking: dunes lower and migrate away, ex
 
 ## Measuring dryness: the aridity index
 
-The aridity index compares precipitation (P) with potential evapotranspiration (PET), both in millimetres per year. A commonly used UNEP classification treats values below 0.05 as hyper-arid, 0.05 to 0.20 as arid and 0.20 to 0.50 as semi-arid.
+The aridity index divides annual precipitation (P) by annual potential evapotranspiration (PET), both in millimetres. In the widely used UNEP bands, an index under 0.05 is hyper-arid, from 0.05 up to 0.20 is arid, and from 0.20 up to 0.50 is semi-arid.
 
 | Station (fictional) | P (mm) | PET (mm) | P / PET | Class |
 |---|---|---|---|---|

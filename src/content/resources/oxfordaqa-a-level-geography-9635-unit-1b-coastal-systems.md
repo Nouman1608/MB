@@ -56,11 +56,11 @@ Landform answers earn marks for each linked process, so write them as an ordered
 
 ## Sea level change and its landforms
 
-The specification asks for **eustatic, isostatic and tectonic** change and major sea level changes in the **last 10,000 years**. At the end of the last glacial period, melting ice sheets raised global sea level substantially (eustatic). At the same time, land that had been depressed under ice sheets began to rise (isostatic rebound), so in some places the land rose faster than the sea.
+The specification asks for **eustatic, isostatic and tectonic** change and major sea level changes in the **last 10,000 years**. As the last glacial period ended, meltwater from shrinking ice sheets returned to the oceans and global sea level rose substantially (eustatic). At the same time, land that had been depressed under ice sheets began to rise (isostatic rebound), so in some places the land rose faster than the sea.
 
 - **Emergence** (land rising relative to sea) leaves **raised beaches** and **marine platforms** above the present shoreline, often backed by old cliffs.
-- **Submergence** (sea rising relative to land) drowns valleys: **rias** from river valleys, as on the coast of Galicia in north-west Spain; **fjords** from glacial troughs, as in Norway; and **Dalmatian coasts**, where rising sea flooded valleys between parallel ridges, leaving chains of long islands, as on the Croatian coast.
-- **Recent and predicted climate change:** thermal expansion of warming oceans and melting ice raise sea level, threatening low-lying deltas, atolls and barrier islands with flooding, erosion and saltwater intrusion.
+- **Submergence** (sea rising relative to land) drowns valleys: **rias** where river valleys are flooded (Galicia, Spain); **fjords** where glacial troughs are flooded (Norway); and **Dalmatian coasts**, where the sea fills valleys running parallel to the shore so the ridges between them survive as long, narrow islands (Croatia).
+- **Recent and predicted climate change:** expansion of warming ocean water and melting ice raise sea level, threatening low-lying deltas, atolls and barrier islands with flooding, erosion and saltwater intrusion.
 
 ## Evaluating coastal management
 

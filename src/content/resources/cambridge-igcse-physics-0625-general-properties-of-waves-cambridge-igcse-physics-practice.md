@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves-cambridge-igcse-physics"
     subtopic: "general-properties-of-waves-cambridge-igcse-physics"
-description: "Twelve original Cambridge IGCSE Physics 0625 wave questions: wave features, v = fλ, transverse and longitudinal, reflection, refraction and diffraction, with answers."
+description: "Twelve original Cambridge IGCSE Physics 0625 questions on wave features, v = fλ, wave types, reflection, refraction and diffraction, with full answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

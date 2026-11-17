@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "thermal-physics-cambridge-igcse-physics"
     subtopic: "transfer-of-thermal-energy-cambridge-igcse-physics"
-description: "Twelve original Cambridge IGCSE Physics 0625 questions on conduction, convection, infrared radiation, energy balance and applications, with mark-by-mark answers."
+description: "Twelve original Cambridge IGCSE Physics 0625 questions on conduction, convection, infrared radiation, energy balance and applications, with full answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "thermal-physics-cambridge-igcse-physics"
     subtopic: "transfer-of-thermal-energy-cambridge-igcse-physics"
-description: "Revision notes for Cambridge IGCSE Physics 0625 section 2.3: conduction, convection, infrared radiation, energy balance, applications and a 12-question self-test."
+description: "Revision notes for Cambridge IGCSE Physics 0625 section 2.3: conduction, convection, infrared radiation, energy balance and applications, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

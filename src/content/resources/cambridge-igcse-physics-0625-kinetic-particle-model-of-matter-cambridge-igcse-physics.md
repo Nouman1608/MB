@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "thermal-physics-cambridge-igcse-physics"
     subtopic: "kinetic-particle-model-of-matter-cambridge-igcse-physics"
-description: "Study guide to Cambridge IGCSE Physics 0625 section 2.1: states of matter, particle model, absolute zero, Brownian motion, gas pressure, kelvin and pV = constant."
+description: "Study guide to Cambridge IGCSE Physics 0625 section 2.1: states of matter, the particle model, Brownian motion, gas pressure, kelvin and pV = constant."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

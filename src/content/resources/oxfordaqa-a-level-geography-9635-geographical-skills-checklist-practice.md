@@ -70,7 +70,7 @@ All places and data below are fictional.
 | Distance (m) | 50 | 120 | 200 | 310 | 400 | 520 | 610 | 750 | 880 | 1,000 |
 | Noise (dB) | 78 | 74 | 75 | 69 | 66 | 67 | 61 | 58 | 59 | 52 |
 
-Two-tailed critical values for n = 10 are 0.648 (0.05 level) and 0.794 (0.01 level).
+For n = 10, the two-tailed critical value is 0.648 at the 0.05 significance level and 0.794 at the 0.01 level.
 
 **(a)** State a null hypothesis for this investigation. **[1]**
 **(b)** Calculate Spearman's rank correlation coefficient. Use rs = 1 - (6 x sum of d^2) / (n^3 - n). Show your working. **[4]**

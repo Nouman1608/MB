@@ -71,7 +71,7 @@ Vygotsky argued that cognitive development is fundamentally **social and cultura
 
 - Children begin with **elementary mental functions** shared with other animals; **higher mental functions**, such as reasoning, develop through interaction with others and the culture's tools, especially **language**.
 - The **more knowledgeable other (MKO)** -- an adult, older child or peer with greater skill -- guides learning.
-- The **zone of proximal development (ZPD)** is the gap between what a child can do alone and what they can do with help. Learning is most effective within this zone.
+- The **zone of proximal development (ZPD)** is the range of tasks a child cannot yet manage independently but can complete with guidance. Learning is most effective within this zone.
 - **Scaffolding**, a term introduced by Wood, Bruner and Ross (1976), describes the support an MKO gives within the ZPD, reduced as the child becomes competent. Support moves from direct demonstration to hints and encouragement.
 - Language moves from **social speech** to **private speech** (talking aloud to oneself) to **inner speech**, which becomes a tool of thought.
 
@@ -81,9 +81,9 @@ Vygotsky argued that cognitive development is fundamentally **social and cultura
 
 ## Social cognition
 
-**Theory of mind** is the understanding that other people have their own beliefs, desires and intentions, which may differ from one's own and from reality. It is usually tested with **false-belief tasks**. Wimmer and Perner (1983) found that most children pass such tasks at around four years of age.
+**Theory of mind** means recognising that each person has their own mental states -- beliefs, desires and intentions -- which may differ from one's own and from reality. It is usually tested with **false-belief tasks**. Wimmer and Perner (1983) found that most children pass such tasks at around four years of age.
 
-**The Sally-Anne study (Baron-Cohen, Leslie and Frith, 1985).** Children watched a scene with two dolls: Sally put a marble in her basket and left; Anne moved it to her box. Children were asked where Sally would look for the marble. About 85% of typically developing children and 86% of children with Down syndrome answered correctly (the basket), compared with only 20% of autistic children. The researchers proposed that autistic children have difficulties with theory of mind.
+**The Sally-Anne study (Baron-Cohen, Leslie and Frith, 1985).** A scene was acted out with two dolls: Sally put a marble in her basket and left; Anne moved it to her box. When Sally returned, children were asked where she would look for the marble. About 85% of typically developing children and 86% of children with Down syndrome answered correctly (the basket), compared with only 20% of autistic children. The researchers proposed that autistic children have difficulties with theory of mind.
 
 **Evaluation.** The task is simple and repeatable. But it uses dolls rather than real people and may require language and memory skills beyond theory of mind itself, so failure may have other causes. Not all autistic children failed, so theory of mind difficulties cannot be the whole explanation of autism.
 
