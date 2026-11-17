@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "relational-operations-9210"
 description: "Study guide to OxfordAQA IGCSE Computer Science 9210 section 3.2.4: the six relational operators, exam symbols, boundaries and conditions in loops and IFs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

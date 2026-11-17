@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "light-cambridge-igcse-physics"
 description: "Study guide for Cambridge IGCSE Physics 0625 section 3.2 Light: plane mirrors, refraction, refractive index, thin lenses, ray diagrams and dispersion."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

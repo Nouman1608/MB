@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts-7162"
 description: "Condensed recall on Consumer Rights Act 2015 implied terms for AQA A Level Law 7162: ss9 to 11, 49 and 52, the tiered goods remedies and services remedies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

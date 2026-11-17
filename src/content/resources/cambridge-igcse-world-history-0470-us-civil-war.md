@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "us-civil-war-0470"
 description: "Cambridge IGCSE History 0470 key question 1.4 in depth: failed compromises, Lincoln's election, how the war was won and lost, and Reconstruction."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "the-product-9990"
 description: "Cambridge 9990 topic 2.4 in depth: gift-wrapping, Becker et al. (2011) on packaging, shelf position, sales techniques, closing a sale and buying decisions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The syllabus names no study for gift-wrapping; please confirm the supporting studies cited (Howard, 1992; Rixom et al., 2020) are accurately summarised."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The syllabus names no study for gift-wrapping; please confirm the supporting studies cited (Howard, 1992; Rixom et al., 2020) are accurately summarised."
 publishedDate: 2026-11-17
 featured: false
 ---

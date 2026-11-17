@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "oil-pollution-0680"
 description: "Recall notes on causes and impacts of oil pollution, spill prevention and clean-up strategies, key terms and a self-test for Cambridge IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

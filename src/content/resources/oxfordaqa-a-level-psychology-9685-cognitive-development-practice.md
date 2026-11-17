@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "cognitive-development-9685"
 description: "Twelve original OxfordAQA 9685 cognitive development questions: Piaget's stages, looking-time and conservation data, scaffolding and essays, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

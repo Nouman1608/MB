@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "mussolinis-italy-9489"
 description: "Study guide to Cambridge 9489 Paper 4 topic 1, Mussolini's Italy 1919-41: the rise to power, fascist government, economic battles and how far society changed."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

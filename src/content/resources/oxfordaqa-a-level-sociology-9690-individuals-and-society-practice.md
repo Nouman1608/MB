@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "individuals-and-society-9690"
 description: "Original OxfordAQA 9690 Unit 2 style questions on culture, norms and values, roles and status, stereotypes, ethnic subcultures and Mills, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

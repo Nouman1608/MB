@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "law-making-law-reform-7162"
 description: "Revision notes on the Law Commission's process and its reform, codification, consolidation and repeal work, with evaluation and a self-test for AQA Law 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

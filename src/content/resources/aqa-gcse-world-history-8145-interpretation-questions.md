@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "utmw-section-a-period-studies-8145"
 description: "How to answer AQA GCSE History 8145 Paper 1 questions 1-3 on two interpretations: how they differ, why they differ and which is more convincing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

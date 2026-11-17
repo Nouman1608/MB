@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-1-section-a-9245"
 description: "Revision notes for 9245 Paper 1 Section A Question 4: the sorting grid, five ways to link sources, weighing provenance, timing, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

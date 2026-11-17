@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "theory-of-tort-law-7162"
 description: "The policy behind duty of care, economic loss, psychiatric injury, the standard of care, injunctions and vicarious liability, for AQA A Level Law 7162 essays."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The specification asks only for a basic understanding of five policy areas; a teacher should confirm that the arguments and authorities chosen here match the depth centres teach."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification asks only for a basic understanding of five policy areas; a teacher should confirm that the arguments and authorities chosen here match the depth centres teach."
 publishedDate: 2026-11-17
 featured: false
 ---

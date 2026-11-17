@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "route-independence-malaysia-indonesia-9489"
 description: "Twelve original practice questions on Cambridge 9489 Malaysia and Indonesia, c.1909-67: recall items and Paper 4-style essays with mark-scheme style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the answers on Japanese-era organisations (PETA and KRIS in Malaya; Putera and Peta in Indonesia) against standard texts."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the answers on Japanese-era organisations (PETA and KRIS in Malaya; Putera and Peta in Indonesia) against standard texts."
 publishedDate: 2026-11-17
 featured: false
 ---

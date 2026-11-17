@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "utmw-section-b-wider-world-depth-studies-8145"
 description: "Original AQA GCSE History 8145 Section B source practice: invented cartoons, letters and speeches for all five depth studies, with full worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

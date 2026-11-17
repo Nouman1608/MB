@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "international-relations-1919-29-9489"
 description: "Revision notes for Cambridge 9489 History topic 8, 1919-29: the Big Three, treaty reactions, League disputes and agencies, Locarno, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

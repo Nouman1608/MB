@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "containment-communism-0470"
 description: "Thirteen original questions with mark-scheme answers on US containment in Korea, Cuba and Vietnam for Cambridge IGCSE History 0470 key question 2.5."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

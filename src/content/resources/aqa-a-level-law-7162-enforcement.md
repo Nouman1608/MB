@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "enforcement-7162"
 description: "Enforcing Convention rights for AQA A Level Law 7162: Strasbourg claims and admissibility, domestic courts, the effect of judgments and judicial review."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

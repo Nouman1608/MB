@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-great-divide-9690"
 description: "Original OxfordAQA 9690 Unit 3 style questions on imperialism, enslavement, Polanyi, why Europe industrialised and legacies of colonialism, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

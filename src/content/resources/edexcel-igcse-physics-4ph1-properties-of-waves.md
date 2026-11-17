@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "properties-of-waves"
 description: "Transverse and longitudinal waves, wave definitions, v = fλ, f = 1/T, the Doppler effect, reflection and refraction for Edexcel IGCSE Physics 4PH1, 3b."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

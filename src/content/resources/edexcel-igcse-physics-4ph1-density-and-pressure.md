@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "density-and-pressure"
 description: "Density and its practical for solids and liquids, pressure = force/area, pressure in fluids and p = hρg worked examples, for Edexcel IGCSE Physics 4PH1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

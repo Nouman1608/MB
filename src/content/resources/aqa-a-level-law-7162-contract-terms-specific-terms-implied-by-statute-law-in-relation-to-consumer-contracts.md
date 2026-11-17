@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts-7162"
 description: "Consumer Rights Act 2015 for AQA A Level Law 7162: terms implied by ss9, 10, 11, 49 and 52, and the remedies in ss20, 23, 24, 55 and 56, applied to scenarios."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

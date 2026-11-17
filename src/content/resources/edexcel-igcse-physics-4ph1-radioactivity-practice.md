@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "radioactivity"
 description: "Original questions with mark-scheme answers on nuclides, decay equations, absorber data, half-life, uses, contamination and waste for Edexcel 4PH1 7b."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

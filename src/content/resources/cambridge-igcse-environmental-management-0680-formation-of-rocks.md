@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "formation-of-rocks-0680"
 description: "How granite, basalt, limestone, sandstone, shale, marble and slate form, the eight rock cycle processes and rock permeability for Cambridge IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

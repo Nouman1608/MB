@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "meeting-customer-needs-ybs11"
 description: "Eleven original source-based questions with mark-scheme answers on markets, research, sampling, positioning and adding value for Edexcel IAL Business 1.3.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

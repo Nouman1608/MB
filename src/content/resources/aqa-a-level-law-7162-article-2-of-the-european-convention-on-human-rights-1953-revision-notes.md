@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "article-2-of-the-european-convention-on-human-rights-1953-7162"
 description: "Condensed recall on Article 2 ECHR for AQA A Level Law 7162: positive and procedural duties, the Osman test, the 2.2 exceptions and absolutely necessary force."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

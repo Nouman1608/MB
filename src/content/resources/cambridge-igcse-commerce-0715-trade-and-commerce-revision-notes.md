@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "trade-and-commerce-0715"
 description: "Condensed recall for Cambridge IGCSE Commerce 0715 section 1.1: trade and commerce, home and international trade, aids to trade, logistics and ecommerce types."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

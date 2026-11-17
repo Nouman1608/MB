@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "reform-7162"
 description: "Original practice on reform of UK human rights protection for AQA A Level Law 7162, with mark-scheme answers on Bill of Rights proposals and constraints."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm the current political and legislative status of UK human rights reform proposals, including any changes to the Safety of Rwanda (Asylum and Immigration) Act 2024, before the page is relied on."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the current political and legislative status of UK human rights reform proposals, including any changes to the Safety of Rwanda (Asylum and Immigration) Act 2024, before the page is relied on."
 publishedDate: 2026-11-17
 featured: false
 ---

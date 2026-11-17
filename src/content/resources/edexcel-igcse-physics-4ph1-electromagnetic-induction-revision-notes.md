@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "electromagnetic-induction"
 description: "Recall notes for Edexcel 4PH1 sub-topic 6d: induced voltage, generators, transformers, turns ratio, VpIp = VsIs and transmission, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

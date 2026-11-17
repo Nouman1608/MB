@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "social-approach-9990"
 description: "Revision notes for the 9990 social approach: Milgram, Perry et al. and Piliavin et al. in a grid, key figures and terms, exam traps and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

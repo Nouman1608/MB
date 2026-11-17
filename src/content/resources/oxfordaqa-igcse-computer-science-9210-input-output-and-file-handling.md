@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "input-output-and-file-handling-9210"
 description: "Study guide to OxfordAQA IGCSE Computer Science 9210 section 3.2.7: keyboard input, screen output, and reading from and writing to text files step by step."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "File-handling command names in the pseudocode are illustrative, not taken from OxfordAQA's pseudocode guide; please check they suit the board's current teaching guidance."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: File-handling command names in the pseudocode are illustrative, not taken from OxfordAQA's pseudocode guide; please check they suit the board's current teaching guidance."
 publishedDate: 2026-11-17
 featured: false
 ---

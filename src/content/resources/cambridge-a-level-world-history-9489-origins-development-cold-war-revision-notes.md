@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "origins-development-cold-war-9489"
 description: "Revision notes for Cambridge 9489 Paper 3 Cold War interpretations: the schools, historians and approaches, the 1941-49 evidence, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the one-line summaries of named historians' arguments against their works before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the one-line summaries of named historians' arguments against their works before teacher sign-off."
 publishedDate: 2026-11-17
 featured: false
 ---

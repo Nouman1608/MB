@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ussr-control-eastern-europe-0470"
 description: "Recall notes for Cambridge IGCSE History 0470 key question 2.6: Hungary, Czechoslovakia, the Berlin Wall, Solidarity and 1989, with key terms and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "depth-study-e-wwii-0470"
 description: "Recall notes for Cambridge IGCSE History 0470 Depth Study E, the Second World War: Europe, the Asia-Pacific, civilians, resistance and Allied victory."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

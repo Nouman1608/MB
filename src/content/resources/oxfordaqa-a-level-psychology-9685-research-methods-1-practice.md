@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "research-methods-1-9685"
 description: "Twelve original OxfordAQA 9685 research methods 1 questions: methods, designs, variables, descriptive statistics, observation and study design, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

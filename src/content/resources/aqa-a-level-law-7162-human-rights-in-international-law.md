@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "human-rights-in-international-law-7162"
 description: "Human rights in international law for AQA A Level Law 7162: the Second World War, the UN and the 1948 Declaration, the Council of Europe and the ECHR."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

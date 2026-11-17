@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-usa-1974-93-9489"
 description: "Twelve original practice questions on Cambridge 9489 USA 1974-93: recall items and Paper 4-style essays from Ford to Bush and Carter to Gorbachev, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

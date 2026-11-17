@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "origins-first-world-war-9489"
 description: "Original Cambridge 9489 Paper 3 practice on the origins of the First World War: eight short items and three constructed extracts with indicative content."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the historiographical points in the answers against standard texts and a recent Paper 3 mark scheme before sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the historiographical points in the answers against standard texts and a recent Paper 3 mark scheme before sign-off."
 publishedDate: 2026-11-17
 featured: false
 ---

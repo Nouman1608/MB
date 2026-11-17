@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "anxiety-disorders-and-fear-related-disorders-9990"
 description: "Revision notes for 9990 topic 1.4 anxiety and fear-related disorders: diagnosis, GAD-7, BIPI, Little Albert, Little Hans, applied tension and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

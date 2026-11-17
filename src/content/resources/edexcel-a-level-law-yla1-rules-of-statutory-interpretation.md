@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-sources-of-english-law-its-enforcement-and-administration-yla1"
 description: "Why statutes need interpreting, and the literal, golden and mischief rules and purposive approach, with leading cases, evaluation and an example (YLA1 1.2.3)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

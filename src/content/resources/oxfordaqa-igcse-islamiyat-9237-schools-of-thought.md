@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "sources-of-authority-9237"
 description: "The origins and role of the Hanafi, Maliki, Shafi'i, Hanbali and Ja'fari schools of law, their founders, methods and differences, for 9237 topic 3.2.2.5."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "New skill-unit page: please ask an Islamiyat teacher to check the accounts of the five imams and their methods, the examples of differences between the schools, the regions named and the references before sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the accounts of the five imams and their methods, the examples of differences between the schools, the regions named and the references before sign-off."
 publishedDate: 2026-11-17
 featured: false
 ---

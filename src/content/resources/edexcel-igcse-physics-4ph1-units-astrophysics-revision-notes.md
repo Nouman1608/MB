@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "units-astrophysics"
 description: "Recall notes for Edexcel 4PH1 sub-topic 8a: mass, weight and g, N/kg and m/s², conversions for orbital speed and red-shift units, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

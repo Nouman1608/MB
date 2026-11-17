@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "the-physical-environment-9990"
 description: "Original Paper 3 and Paper 4 style questions with answers on 9990 Consumer Psychology topic 2.1: store design, North et al., noise, PAD, odour and crowding."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the outline summaries of the suggested studies (Mower et al. 2012, Vrechopoulos et al. 2004, Woods et al. 2011, Chebat and Michon 2003, Machleit et al. 2000) used in the answers against the original papers."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the outline summaries of the suggested studies (Mower et al. 2012, Vrechopoulos et al. 2004, Woods et al. 2011, Chebat and Michon 2003, Machleit et al. 2000) used in the answers against the original papers."
 publishedDate: 2026-11-17
 featured: false
 ---

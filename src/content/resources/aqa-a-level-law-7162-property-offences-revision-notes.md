@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "property-offences-7162"
 description: "Recall notes on theft (ss1-6) and robbery (s8) of the Theft Act 1968, with a case for each element and common traps, for AQA A Level Law 7162 Paper 1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

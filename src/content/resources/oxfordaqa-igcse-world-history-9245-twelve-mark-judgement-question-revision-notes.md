@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-1-section-b-9245"
 description: "Revision notes for the 9245 12-mark Question 4: the four levels, line of reasoning, comparison tools, factor banks for all four options and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

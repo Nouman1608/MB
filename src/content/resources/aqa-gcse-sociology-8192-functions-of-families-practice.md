@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "functions-of-families-8192"
 description: "Original AQA GCSE Sociology 8192 practice on 3.3.1 functions of families: Parsons, Engels, Zaretsky and feminist views, with marked answers and 12-mark plans."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

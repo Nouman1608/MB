@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "managing-people-ybs11"
 description: "Study guide to Edexcel IAL Business 1.3.4 Managing people: staffing, recruitment and training, structure, motivation theory and methods, and leadership styles."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "functionalist-theory-of-stratification-8192"
 description: "Original AQA GCSE Sociology 8192 practice on Davis and Moore and functionalist stratification, with item-based questions and mark-scheme style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

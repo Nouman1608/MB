@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "subroutines-procedures-and-functions-9210"
 description: "Original OxfordAQA IGCSE Computer Science 9210 practice questions with answers on procedures, functions, parameters, return values and their advantages."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "nature-of-law-law-and-morality-7162"
 description: "Law and morality for AQA A Level Law 7162: the distinction, moral diversity in a pluralist society, natural law, positivism and the legal enforcement of morals."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

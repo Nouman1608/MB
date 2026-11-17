@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "managing-biodiversity-0680"
 description: "All ten strategies for conserving biodiversity and genetic resources in Cambridge IGCSE 0680 sub-topic 5.3, with benefits, limitations and discuss technique."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The syllabus names the threat levels threatened, endangered and extinct without defining them; please check the working definitions given here suit Cambridge mark schemes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The syllabus names the threat levels threatened, endangered and extinct without defining them; please check the working definitions given here suit Cambridge mark schemes."
 publishedDate: 2026-11-17
 featured: false
 ---

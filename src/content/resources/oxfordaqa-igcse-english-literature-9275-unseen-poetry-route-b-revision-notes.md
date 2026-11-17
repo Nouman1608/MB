@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "unseen-poetry-route-b-9275"
 description: "Revision notes for the unseen poem on OxfordAQA 9275 Route B Paper 2b: the four lenses, structure prompts, tentative phrasing, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

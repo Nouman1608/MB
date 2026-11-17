@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "soil-erosion-0680"
 description: "Recall notes on the causes, impacts and prevention of soil erosion, with each strategy's mechanism and a self-test, for Cambridge IGCSE 0680 sub-topic 2.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

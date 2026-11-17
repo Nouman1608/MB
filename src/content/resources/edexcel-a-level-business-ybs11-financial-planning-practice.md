@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "financial-planning-ybs11"
 description: "Twelve original source-based questions with full answers on break-even, profit, cash flow, forecasting, budgets and variances for Edexcel IAL Business 2.3.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

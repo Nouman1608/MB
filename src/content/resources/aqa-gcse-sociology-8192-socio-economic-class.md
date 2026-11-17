@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "socio-economic-class-8192"
 description: "Detailed AQA GCSE Sociology 8192 guide to 3.6.2 socio-economic class: class divisions, Marx's and Weber's key ideas, and functionalist and feminist views."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

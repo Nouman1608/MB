@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "globalisation-oxfordaqa-igcse-business"
 description: "Eleven original questions with answers on the forms of globalisation, its benefits and drawbacks, and exchange rates for exporters in OxfordAQA 9225."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

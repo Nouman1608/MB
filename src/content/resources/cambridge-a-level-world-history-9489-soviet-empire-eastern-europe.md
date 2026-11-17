@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "soviet-empire-eastern-europe-9489"
 description: "Study guide to Cambridge 9489 Paper 4 topic 7, the Soviet Empire 1953-91: the satellite states to 1968, Brezhnev's stagnation, Gorbachev and the collapse."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

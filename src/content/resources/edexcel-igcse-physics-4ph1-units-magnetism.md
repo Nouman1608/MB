@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "units-magnetism"
 description: "The units of Topic 6 in Edexcel IGCSE Physics 4PH1: amperes, volts and watts in electromagnets, induction and transformers, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

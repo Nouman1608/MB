@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "fracking-0680"
 description: "The syllabus definition of fracking, why shale needs it, and how to discuss its benefits and limitations for different stakeholders in Cambridge IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

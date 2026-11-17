@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "communication-0715-commerce"
 description: "Recall notes for Cambridge IGCSE Commerce 0715 section 2.6: four types of communication, eight methods, six choice factors and a recommendation method."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

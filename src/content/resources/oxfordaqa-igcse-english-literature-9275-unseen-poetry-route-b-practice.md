@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "unseen-poetry-route-b-9275"
 description: "Three original poems with eight skills questions and two 30-mark unseen tasks for OxfordAQA 9275 Route B Paper 2b Section B, with mark-scheme style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

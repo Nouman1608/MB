@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-rights-act-1998-7162"
 description: "Condensed recall on the HRA 1998 for AQA A Level Law 7162: Schedule 1 rights, ss2 to 4, 6, 10 and 19, constitutional impact, devolution and criticisms."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

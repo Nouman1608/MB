@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "overseas-empires-0470"
 description: "Cambridge IGCSE History 0470 key question 1.5 in depth: weighing imperial motives, comparing impacts in Africa, India after 1857 and US rule in Cuba."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

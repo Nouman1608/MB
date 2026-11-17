@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "the-psychological-environment-9990"
 description: "Topic 2.2 for Cambridge 9990 Consumer Psychology: wayfinding, shopper movement, menu design, personal space, Robson et al. and defending a place in a queue."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the descriptions of the five spatial behaviour patterns and the outline summaries of Dogu and Erkip (2000), Gil et al. (2009), Pavesic (2005), Lockyer (2006) and Milgram et al. (1986) against the original sources."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the descriptions of the five spatial behaviour patterns and the outline summaries of Dogu and Erkip (2000), Gil et al. (2009), Pavesic (2005), Lockyer (2006) and Milgram et al. (1986) against the original sources."
 publishedDate: 2026-11-17
 featured: false
 ---

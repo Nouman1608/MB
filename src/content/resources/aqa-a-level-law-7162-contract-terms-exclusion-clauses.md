@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "contract-terms-exclusion-clauses-7162"
 description: "Exclusion and limitation clauses for AQA A Level Law 7162: incorporation, construction, UCTA 1977 ss2 and 3, and Consumer Rights Act 2015 ss31, 57 and 65."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

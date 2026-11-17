@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "poetry-route-b-9275"
 description: "Revision notes for the Route B anthology question in OxfordAQA 9275 Paper 2b: paper facts, AO balance, form terms, comparison phrases and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm with the current Paper 2b question papers whether the Section A anthology question names one poem and asks for a second of the candidate's choice."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm with the current Paper 2b question papers whether the Section A anthology question names one poem and asks for a second of the candidate's choice."
 publishedDate: 2026-11-17
 featured: false
 ---

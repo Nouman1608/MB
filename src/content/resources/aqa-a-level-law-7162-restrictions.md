@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "restrictions-7162"
 description: "Restrictions under Articles 8.2, 10.2 and 11.2 ECHR for AQA A Level Law 7162: prescribed by law, legitimate aims, necessity, proportionality and conflicts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "law-making-the-european-union-7162"
 description: "EU law making for AQA A Level Law 7162: the four institutions and their functions, treaties, regulations and directives, and the impact on England and Wales."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

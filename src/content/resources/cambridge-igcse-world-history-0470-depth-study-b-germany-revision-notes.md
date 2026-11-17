@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "depth-study-b-germany-0470"
 description: "Recall notes for Cambridge IGCSE History 0470 Depth Study B, Germany 1918-45: Weimar, the Nazi rise, control, daily life and the war, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

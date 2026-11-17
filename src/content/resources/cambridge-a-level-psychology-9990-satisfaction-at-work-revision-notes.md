@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "satisfaction-at-work-9990"
 description: "Revision notes for Cambridge 9990 topic 4.5: Herzberg, job characteristics, JDI, QWL, sabotage and Blau and Boal, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Blau and Boal's types of absence are summarised only as voluntary and involuntary; please check against the model the syllabus intends."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Blau and Boal's types of absence are summarised only as voluntary and involuntary; please check against the model the syllabus intends."
 publishedDate: 2026-11-17
 featured: false
 ---

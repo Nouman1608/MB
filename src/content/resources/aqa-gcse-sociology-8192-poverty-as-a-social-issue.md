@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "poverty-as-a-social-issue-8192"
 description: "AQA GCSE Sociology 8192 guide to 3.6.4 poverty: definitions, culture of poverty versus material deprivation, policy, globalisation, Townsend and Murray."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

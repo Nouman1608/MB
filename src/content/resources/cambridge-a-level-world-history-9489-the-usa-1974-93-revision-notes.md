@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-usa-1974-93-9489"
 description: "Revision notes for Cambridge 9489 Paper 4, the USA 1974-93: key terms, a timeline, Ford to Bush, Carter abroad, détente to Gorbachev, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

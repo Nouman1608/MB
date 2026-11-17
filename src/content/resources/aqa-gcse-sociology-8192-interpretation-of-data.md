@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "interpretation-of-data-8192"
 description: "AQA GCSE Sociology 8192 guide to reading tables, graphs and charts: patterns and trends, percentages, rates and percentage points, and common data traps."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

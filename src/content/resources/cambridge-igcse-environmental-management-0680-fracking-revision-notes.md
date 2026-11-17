@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "fracking-0680"
 description: "Notes on the definition of fracking, the process, its benefits and limitations at local, national and global scale, and discuss technique for IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

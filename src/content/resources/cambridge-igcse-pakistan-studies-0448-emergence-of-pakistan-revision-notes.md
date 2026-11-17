@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "emergence-of-pakistan-0448"
 description: "Revision notes for Cambridge IGCSE Pakistan Studies 0448 Paper 1 Section 2, 1906–47: a dated timeline, key terms, causes chains, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

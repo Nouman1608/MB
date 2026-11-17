@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "adherence-to-medical-advice-9990"
 description: "Cambridge 9990 topic 3.2 in depth: types of and reasons for non-adherence, subjective, objective and biological measures, and Yokley and Glenwick (1984)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the brief descriptions of the syllabus example studies Laba et al. (2012), Riekert and Drotar (1999) and Chung and Naya (2000), which are kept deliberately general."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the brief descriptions of the syllabus example studies Laba et al. (2012), Riekert and Drotar (1999) and Chung and Naya (2000), which are kept deliberately general."
 publishedDate: 2026-11-17
 featured: false
 ---

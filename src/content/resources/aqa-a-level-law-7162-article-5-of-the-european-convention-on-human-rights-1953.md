@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "article-5-of-the-european-convention-on-human-rights-1953-7162"
 description: "Article 5 ECHR for AQA A Level Law 7162: what counts as a deprivation of liberty, the 5.1(a) to (c) grounds and the safeguards in Articles 5.2 to 5.5."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

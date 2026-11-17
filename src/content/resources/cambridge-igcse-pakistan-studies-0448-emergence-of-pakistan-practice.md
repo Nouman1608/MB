@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "emergence-of-pakistan-0448"
 description: "Original 4, 7 and 14-mark questions with answers on Cambridge IGCSE Pakistan Studies 0448 Paper 1 Section 2, the emergence of Pakistan from 1906 to 1947."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

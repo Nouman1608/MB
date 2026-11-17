@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "social-change-changing-families-9690"
 description: "Original OxfordAQA 9690 Unit 1 style questions on demographic change, industrialisation, family diversity, personal life and transnational families."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

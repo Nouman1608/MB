@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "liability-in-negligence-for-physical-injury-to-people-and-damage-to-property-7162"
 description: "Duty of care, the objective standard, factual and legal causation applied step by step to injury and property damage claims, for AQA A Level Law 7162 Paper 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "the-product-9990"
 description: "Revision notes for Cambridge 9990 topic 2.4: packaging, Becker et al. (2011), shelf position, selling, the EKB model and dissonance, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm the gift-wrapping supporting studies (Howard, 1992; Rixom et al., 2020) are accurately summarised; the syllabus names none."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the gift-wrapping supporting studies (Howard, 1992; Rixom et al., 2020) are accurately summarised; the syllabus names none."
 publishedDate: 2026-11-17
 featured: false
 ---

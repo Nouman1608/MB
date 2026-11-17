@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "learning-approach-9990"
 description: "Revision notes for the 9990 learning approach: conditioning and social learning terms, the three core studies in a grid, exam traps and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

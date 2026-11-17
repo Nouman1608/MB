@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-rule-of-law-7162"
 description: "The rule of law for AQA A Level Law 7162: its three elements, Dicey, Raz and Bingham, and how it applies to law making, the legal system and substantive law."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "technology-oxfordaqa-igcse-business"
 description: "Twelve original questions with mark-scheme answers on ICT, e-commerce, wider markets and digital communication for OxfordAQA IGCSE Business 9225 section 3.2.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

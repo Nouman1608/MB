@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "schizophrenia-9990"
 description: "Original Paper 3 and Paper 4 style questions with mark-scheme answers on 9990 topic 1.1 Schizophrenia: diagnosis, Freeman et al., explanations and treatments."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "group-behaviour-in-organisations-9990"
 description: "Cambridge 9990 topic 4.3 in depth: group development, Belbin, groupthink, Forsyth's errors, facilitation and loafing, Claypoole and Szalma (2019) and conflict."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm the conditions described for Claypoole and Szalma (2019) experiment 1 and the four phases attributed to Einarsen (1999)."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the conditions described for Claypoole and Szalma (2019) experiment 1 and the four phases attributed to Einarsen (1999)."
 publishedDate: 2026-11-17
 featured: false
 ---

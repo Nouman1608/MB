@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "people-and-animals-9690"
 description: "Original OxfordAQA 9690 practice questions on human-animal relations, welfare and rights, slaughter, zoonoses, conservation and experiments, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

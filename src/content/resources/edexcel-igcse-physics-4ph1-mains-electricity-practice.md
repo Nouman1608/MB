@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "mains-electricity"
 description: "Original practice questions with full answers on earthing, fuses, circuit breakers, electrical heating, P = IV, E = IVt and a.c. for Edexcel IGCSE Physics 4PH1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

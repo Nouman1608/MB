@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ideal-gas-molecules"
 description: "Recall notes for 4PH1 sub-topic 5d: gas pressure, absolute zero, Kelvin conversions, molecular kinetic energy, both gas laws and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

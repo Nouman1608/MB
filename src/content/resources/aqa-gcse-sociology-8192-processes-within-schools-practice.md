@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "processes-within-schools-8192"
 description: "Original AQA GCSE Sociology 8192 practice on 3.4.4 with marked answers: setting, streaming, labelling, the self-fulfilling prophecy, Ball and Willis."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the summary of Ball's mixed ability cohort finding at Beachside (reduced pupil polarisation, continuing teacher differentiation) against a standard text."
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the summary of Ball's mixed ability cohort finding at Beachside (reduced pupil polarisation, continuing teacher differentiation) against a standard text."
 publishedDate: 2026-11-17
 featured: false
 ---

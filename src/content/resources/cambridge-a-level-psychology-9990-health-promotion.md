@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "health-promotion-9990"
 description: "Cambridge 9990 topic 3.5 in depth: fear arousal, information, healthy eating, workplace safety, optimism and Shoshani and Steinmetz (2014)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm the procedural details given for Fox et al. (1987) (stamp rules, team penalties, cost savings) and the outcomes given for Lewin et al. (1992)."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the procedural details given for Fox et al. (1987) (stamp rules, team penalties, cost savings) and the outcomes given for Lewin et al. (1992)."
 publishedDate: 2026-11-17
 featured: false
 ---

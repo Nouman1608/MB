@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "wholesaling-7100"
 description: "Twelve original questions with full answers on Cambridge O Level Commerce 7100 sub-topic 2.4: wholesaler functions, cash and carry and voluntary chains."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

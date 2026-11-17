@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-2-section-b-9245"
 description: "Medieval Islamic medicine for 9245 Medicine and change: the Translation Movement, Al-Razi, Ibn Sina, bimaristans, Al-Zahrawi, public health and pharmacology."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

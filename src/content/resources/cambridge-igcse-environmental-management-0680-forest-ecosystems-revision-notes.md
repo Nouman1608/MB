@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "forest-ecosystems-0680"
 description: "Recall notes for Cambridge IGCSE 0680 sub-topic 5.2: deforestation causes and impacts, sustainable forest management and its seven reasons, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

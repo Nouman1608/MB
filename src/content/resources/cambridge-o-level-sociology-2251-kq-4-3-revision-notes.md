@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kq-4-3-2251"
 description: "Revision notes for Cambridge O Level Sociology 2251 key question 4.3: demographic change, divorce and cohabitation trends and changing roles, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

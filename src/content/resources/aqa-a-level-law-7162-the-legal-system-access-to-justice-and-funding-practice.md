@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "the-legal-system-access-to-justice-and-funding-7162"
 description: "Original practice questions with mark-scheme answers on advice sources, private funding and civil and criminal legal aid for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Legal aid scope, eligibility rules and conditional fee caps change by regulation; confirm the current position before review."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Legal aid scope, eligibility rules and conditional fee caps change by regulation; confirm the current position before review."
 publishedDate: 2026-11-17
 featured: false
 ---

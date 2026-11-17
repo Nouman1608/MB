@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "marine-aquaculture-0680"
 description: "Original practice questions with answers on overfishing, bycatch, marine aquaculture impacts and fishery management for Cambridge IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

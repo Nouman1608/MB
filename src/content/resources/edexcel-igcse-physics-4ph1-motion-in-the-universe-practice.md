@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "motion-in-the-universe"
 description: "Original questions with mark-scheme answers on galaxies, gravitational field strength, orbits, comets and orbital speed calculations, for Edexcel 4PH1 8b."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

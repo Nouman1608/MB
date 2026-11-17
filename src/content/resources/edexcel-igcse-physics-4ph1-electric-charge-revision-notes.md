@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "electric-charge"
 description: "Recall notes on conductors, insulators, charging by friction, forces between charges and static dangers and uses, plus a self-test, for Edexcel 4PH1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

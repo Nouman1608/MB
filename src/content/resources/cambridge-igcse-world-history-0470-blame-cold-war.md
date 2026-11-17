@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "blame-cold-war-0470"
 description: "Study guide to Cambridge IGCSE History 0470 key question 2.4: the 1945 conferences, Soviet expansion, US reactions, the Berlin Blockade and who was to blame."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

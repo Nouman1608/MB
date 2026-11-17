@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "legislation-oxfordaqa-igcse-business"
 description: "Twelve original questions with answers on employment, health and safety and consumer law and the national minimum wage for OxfordAQA IGCSE Business 9225 3.2.5."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

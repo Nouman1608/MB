@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "the-legal-system-legal-personnel-and-the-judiciary-7162"
 description: "Barristers, solicitors and legal executives, their regulation, types of judge, judicial roles and judicial independence for AQA A Level Law 7162 section 3.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Arrangements for regulating chartered legal executives have been under review; confirm the current regulator and training routes before review."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Arrangements for regulating chartered legal executives have been under review; confirm the current regulator and training routes before review."
 publishedDate: 2026-11-17
 featured: false
 ---

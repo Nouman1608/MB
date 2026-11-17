@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "interdependent-nature-of-business-ocr-gcse-business"
 description: "Twelve original synoptic questions for OCR GCSE Business J204 section 7: linked functions, risk and reward, margins, ARR, break-even and cash, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

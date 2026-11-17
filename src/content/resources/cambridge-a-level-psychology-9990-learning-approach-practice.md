@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "learning-approach-9990"
 description: "Original Paper 1 style questions with answers on the 9990 learning approach: Bandura et al., Fagen et al. and Saavedra and Silverman, plus learning terms."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

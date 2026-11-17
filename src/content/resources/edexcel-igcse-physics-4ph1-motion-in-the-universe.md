@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "motion-in-the-universe"
 description: "Galaxies and the Milky Way, why g varies, gravity and orbits, comet, moon and planet orbits compared, and v = 2πr/T, for Edexcel 4PH1 sub-topic 8b."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

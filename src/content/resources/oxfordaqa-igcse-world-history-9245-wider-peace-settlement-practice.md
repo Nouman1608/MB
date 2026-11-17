@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-1-section-a-9245"
 description: "Original 9245 practice on the treaties with Austria, Hungary, Bulgaria and the Ottoman Empire: knowledge checks and a five-source set with marking guides."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "mains-electricity"
 description: "Recall notes on mains safety, electrical heating, fuse choice with P = IV, E = IVt and a.c. versus d.c., with a self-test, for Edexcel IGCSE Physics 4PH1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

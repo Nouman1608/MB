@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "memory-9685"
 description: "Condensed OxfordAQA 9685 memory notes: store features, working memory components, long-term memory types, eyewitness studies, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

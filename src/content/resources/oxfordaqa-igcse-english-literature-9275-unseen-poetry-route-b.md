@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "unseen-poetry-route-b-9275"
 description: "The unseen poetry question on Route B Paper 2b of OxfordAQA 9275: four reading lenses, handling difficulty, and an original poem with improved model paragraphs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

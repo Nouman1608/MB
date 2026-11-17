@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "vitiating-factors-7162"
 description: "Misrepresentation and economic duress for AQA A Level Law 7162: what counts as a misrepresentation, the three types, rescission, damages and the duress tests."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

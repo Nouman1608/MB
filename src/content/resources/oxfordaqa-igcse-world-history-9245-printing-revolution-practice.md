@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-2-section-b-9245"
 description: "Eleven original 9245 Technology and change questions on the Printing Revolution, from 3-mark recall to 12-mark judgements, with point-by-point marking guides."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

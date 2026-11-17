@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "islam-practices-9237"
 description: "Recall notes on the conditions of Salah, prayer times, the Qiblah, Wudu, the Azaan, recitation and concessions for travellers and the ill, 9237 topic 3.1.2.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "New skill-unit page: please ask an Islamiyat teacher to check the Wudu steps, Azaan wording, concessions, school differences and self-test answers before sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the Wudu steps, Azaan wording, concessions, school differences and self-test answers before sign-off."
 publishedDate: 2026-11-17
 featured: false
 ---

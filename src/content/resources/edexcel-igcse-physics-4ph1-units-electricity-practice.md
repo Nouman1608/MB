@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "units-electricity"
 description: "Original practice questions with full answers on using A, C, J, Ω, s, V and W, prefixes and unit checks for Edexcel International GCSE Physics 4PH1 Topic 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "international-history-1929-39-9489"
 description: "Revision notes for Cambridge 9489 History topic 9, 1929-39: Depression and extremism, the League's crises, appeasement, the 1939 alliances and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

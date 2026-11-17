@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "outsourcing-7100"
 description: "Thirteen original questions with full answers on Cambridge O Level Commerce 7100 sub-topic 2.2: contract manufacturing, contract logistics, outsourcing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Syllabus 2.2.1 names only 'the growth of outsourcing: contract manufacturing and logistics'; please check that the depth given to reasons for growth, benefits and risks suits this statement."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Syllabus 2.2.1 names only 'the growth of outsourcing: contract manufacturing and logistics'; please check that the depth given to reasons for growth, benefits and risks suits this statement."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "nature-of-law-7162"
 description: "Legal rules versus other norms, civil versus criminal law, and custom, statute and common law as sources, for the AQA A Level Law 7162 nature of law content."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "research-methods-as-9990"
 description: "Revision notes for the six 9990 AS research methods: features, evaluation, core-study examples, planning checklists, key terms, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

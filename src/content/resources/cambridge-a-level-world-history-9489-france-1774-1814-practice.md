@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "france-1774-1814-9489"
 description: "Twelve original practice questions on Cambridge 9489 France 1774-1814, from recall to Paper 1 sources and Paper 2 essays, with mark-scheme style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

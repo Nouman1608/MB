@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "utmw-section-a-period-studies-8145"
 description: "AQA GCSE History 8145 America 1920-1973: segregation laws, Martin Luther King, Malcolm X, Black Power and the Civil Rights Acts of 1964 and 1968."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

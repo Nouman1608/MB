@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-criminal-offender-yla1"
 description: "Duress of threats and of circumstances, and voluntary and involuntary intoxication, step by step with cases and a worked scenario, for YLA1 2.2.8 and 2.2.9."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

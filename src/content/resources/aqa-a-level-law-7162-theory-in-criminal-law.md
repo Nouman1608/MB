@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "theory-in-criminal-law-7162"
 description: "Harm, autonomy, fault and responsibility, and fair labelling, correspondence, certainty and non-retrospectivity applied to cases, for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "satisfaction-at-work-9990"
 description: "Cambridge 9990 topic 4.5 in depth: Herzberg, job characteristics, job design, the JDI and QWL, Giacalone and Rosenfeld (1987), Blau and Boal."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The syllabus asks for Blau and Boal's types of absence; this page describes the four commitment categories and absence only in general terms, so please check and add the named absence types if a teacher can confirm them."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The syllabus asks for Blau and Boal's types of absence; this page describes the four commitment categories and absence only in general terms, so please check and add the named absence types if a teacher can confirm them."
 publishedDate: 2026-11-17
 featured: false
 ---

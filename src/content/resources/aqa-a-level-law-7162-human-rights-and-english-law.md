@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "human-rights-and-english-law-7162"
 description: "How English law protects and restricts Convention rights for AQA A Level Law 7162: the right to life, liberty, privacy, expression, assembly and association."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

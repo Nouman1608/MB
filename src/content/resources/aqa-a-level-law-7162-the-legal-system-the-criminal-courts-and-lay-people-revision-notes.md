@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "the-legal-system-the-criminal-courts-and-lay-people-7162"
 description: "Recall notes on offence classes, allocation, criminal appeals, sentencing purposes, magistrates, juries and jury evaluation for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Magistrates' custodial limits and proposals to restrict jury trial have changed recently; check the current statutory position before review."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Magistrates' custodial limits and proposals to restrict jury trial have changed recently; check the current statutory position before review."
 publishedDate: 2026-11-17
 featured: false
 ---

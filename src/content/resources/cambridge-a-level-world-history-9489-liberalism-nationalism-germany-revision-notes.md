@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "liberalism-nationalism-germany-9489"
 description: "Revision notes for Cambridge 9489 History, Germany 1815-71: chronology, key terms, liberal and nationalist aims, Bismarck's wars, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

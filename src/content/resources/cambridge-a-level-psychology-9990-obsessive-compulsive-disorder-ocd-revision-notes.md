@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "obsessive-compulsive-disorder-ocd-9990"
 description: "Revision notes for 9990 topic 1.5 OCD: ICD-11 criteria, Charles, MOCI and Y-BOCS, five explanations, SSRIs, ERP, Lovell et al. and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

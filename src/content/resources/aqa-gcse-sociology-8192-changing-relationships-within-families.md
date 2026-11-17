@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "changing-relationships-within-families-8192"
 description: "In-depth AQA GCSE Sociology 8192 guide to 3.3.4: family change from pre-industrial to today, Willmott and Young's four stages, and contemporary family issues."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

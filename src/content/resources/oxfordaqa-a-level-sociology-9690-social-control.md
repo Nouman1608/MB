@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "social-control-9690"
 description: "Study guide to OxfordAQA 9690 section 3.1.2.4: sanctions, stigma and othering, punishment, policing, surveillance, Althusser, Gramsci and four perspectives."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

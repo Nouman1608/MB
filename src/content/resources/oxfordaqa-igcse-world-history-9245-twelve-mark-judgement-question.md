@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-1-section-b-9245"
 description: "How to write the 12-mark Question 4 in 9245 Paper 1 Section B: a line of reasoning, linked factors and a judgement on relative importance, with two plans."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

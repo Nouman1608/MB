@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "depth-study-c-russia-0470"
 description: "Thirteen original questions with mark-scheme answers on Cambridge IGCSE History 0470 Depth Study C, Russia 1905-41, from 1905 to Stalin's Five-Year Plans."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

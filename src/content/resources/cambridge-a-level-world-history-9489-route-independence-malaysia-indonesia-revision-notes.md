@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "route-independence-malaysia-indonesia-9489"
 description: "Revision notes for Cambridge 9489 Paper 4, Malaysia and Indonesia c.1909-67: key terms, two timelines, the four key questions condensed, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the dates of the Japanese-sponsored independence committees (1944 promise, 1945 committees) and the treatment of the syllabus's 'Malayan Military Administration' against standard texts."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the dates of the Japanese-sponsored independence committees (1944 promise, 1945 committees) and the treatment of the syllabus's 'Malayan Military Administration' against standard texts."
 publishedDate: 2026-11-17
 featured: false
 ---

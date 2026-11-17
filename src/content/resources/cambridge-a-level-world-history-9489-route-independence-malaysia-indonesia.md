@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "route-independence-malaysia-indonesia-9489"
 description: "Study guide to Cambridge 9489 Paper 4 topic 9: nationalism in Malaya and Indonesia, Japanese occupation, the formation of Malaysia, and Indonesia to Suharto."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check two syllabus labels against standard texts: the 'Malayan Military Administration' listed under Japanese rule in 9.1, and the '1944 Preparatory Committee' in 9.4 (the page explains the 1944 Koiso promise and the 1945 committees)."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check two syllabus labels against standard texts: the 'Malayan Military Administration' listed under Japanese rule in 9.1, and the '1944 Preparatory Committee' in 9.4 (the page explains the 1944 Koiso promise and the 1945 committees)."
 publishedDate: 2026-11-17
 featured: false
 ---

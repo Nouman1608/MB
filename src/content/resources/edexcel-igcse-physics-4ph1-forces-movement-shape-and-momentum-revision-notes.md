@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "forces-movement-shape-and-momentum"
 description: "Recall notes on resultant force, F = ma, stopping distance, Hooke's law, momentum, third-law pairs and moments, with a self-test, for Edexcel 4PH1 Physics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "life-teachings-hazrat-muhammad-9237"
 description: "Twelve original questions with mark guidance on the Battles of Badr, Uhud, the Trench, Khaibar and Hunayn, and on Aam ul Wufood, for 9237 topic 3.2.1.9."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "New skill-unit page: please ask an Islamiyat teacher to check the questions, historical details, references and mark guidance before sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the questions, historical details, references and mark guidance before sign-off."
 publishedDate: 2026-11-17
 featured: false
 ---

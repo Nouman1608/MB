@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "the-holocaust-9489"
 description: "Study guide to Cambridge 9489 Paper 3, the Holocaust: pre-Nazi racism, intentionalism, structuralism, functionalism, perpetrators, victims and bystanders."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the historians' names, book titles, dates and summarised arguments, and the context dates, against standard Holocaust historiography before sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the historians' names, book titles, dates and summarised arguments, and the context dates, against standard Holocaust historiography before sign-off."
 publishedDate: 2026-11-17
 featured: false
 ---

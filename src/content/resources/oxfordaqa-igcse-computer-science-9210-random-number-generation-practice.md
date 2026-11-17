@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "random-number-generation-9210"
 description: "Original OxfordAQA IGCSE Computer Science 9210 practice questions with answers on random number ranges, chances, simulations and debugging random code."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

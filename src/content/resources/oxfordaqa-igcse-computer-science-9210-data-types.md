@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "data-types-9210"
 description: "Study guide to section 3.2.1 of OxfordAQA IGCSE Computer Science 9210: what a data type is and how to choose integer, real, Boolean, character or string."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "remedies-tort-7162"
 description: "Recall notes on compensatory damages for injury, property and economic loss, mitigation, types of injunction and damages in lieu, for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

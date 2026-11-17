@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "methodological-concepts-as-9990"
 description: "The 9990 AS methodological concepts in depth: hypotheses, variables, controls, data types, sampling, ethics, validity, reliability and data analysis."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

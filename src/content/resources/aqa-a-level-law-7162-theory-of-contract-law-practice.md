@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "theory-of-contract-law-7162"
 description: "Original practice questions with mark-scheme answers on freedom of contract, the postal rule, consideration, privity, duress and remedies, AQA Law 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The specification asks for an outline of five theory issues; a teacher should confirm that the arguments and authorities chosen here match the depth centres teach."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification asks for an outline of five theory issues; a teacher should confirm that the arguments and authorities chosen here match the depth centres teach."
 publishedDate: 2026-11-17
 featured: false
 ---

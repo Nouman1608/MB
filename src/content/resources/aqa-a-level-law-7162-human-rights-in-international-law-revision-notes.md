@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "human-rights-in-international-law-7162"
 description: "Condensed recall on international human rights law for AQA A Level Law 7162: post-war origins, the UN and UDHR, the Council of Europe and the ECHR timeline."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

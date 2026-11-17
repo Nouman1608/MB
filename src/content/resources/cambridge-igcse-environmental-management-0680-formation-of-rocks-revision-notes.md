@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "formation-of-rocks-0680"
 description: "Condensed notes on the seven named rocks, the eight rock cycle processes and permeability for 1.1 Formation of rocks, Cambridge IGCSE 0680, 2027-2029."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

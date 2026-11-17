@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "stellar-evolution"
 description: "Star colour and temperature, life cycles of Sun-like and massive stars, absolute magnitude and drawing the HR diagram, for Edexcel 4PH1 sub-topic 8c."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

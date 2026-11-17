@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "vicarious-liability-7162"
 description: "Recall notes on the purpose of vicarious liability, employment status tests, akin to employment and close connection, for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The specification heading 'Other areas of vicarious liability' is not defined further; a teacher should confirm that lent employees, independent contractors and the employer's indemnity are the areas centres teach under it."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification heading 'Other areas of vicarious liability' is not defined further; a teacher should confirm that lent employees, independent contractors and the employer's indemnity are the areas centres teach under it."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "france-1774-1814-9489"
 description: "Revision notes for Cambridge 9489 History, France 1774-1814: chronology, key terms, the three assemblies, Terror versus Directory, Napoleon and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

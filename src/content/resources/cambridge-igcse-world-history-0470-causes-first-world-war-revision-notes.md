@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "causes-first-world-war-0470"
 description: "Recall notes for Cambridge IGCSE History 0470 key question 1.6: alliances, arms race, Moroccan crises, the Balkans and July 1914, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "criminal-and-deviant-behaviour-8192"
 description: "In-depth AQA GCSE Sociology 8192 guide to 3.5.3: class, gender, ethnicity and age in crime, the five public debates, Albert Cohen and Carlen."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

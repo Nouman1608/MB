@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-7100"
 description: "Cambridge O Level Commerce 7100 sub-topic 1.2 in depth: sectors, specialisation, in-house or outsourced production, intermediaries, technology and costs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

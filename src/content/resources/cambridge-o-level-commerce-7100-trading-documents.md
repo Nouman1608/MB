@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "trading-documents-7100"
 description: "Cambridge O Level Commerce 7100 sub-topic 2.5 in depth: home and international trading documents, online ordering and digital documents, with invoice sums."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

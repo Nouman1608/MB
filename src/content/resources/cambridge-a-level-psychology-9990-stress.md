@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "stress-9990"
 description: "Cambridge 9990 topic 3.4 in depth: the GAS model, life events, work and Type A, biological and self-report measures, biofeedback, Bridge et al. (1988) and SIT."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm the summary of Budzynski et al. (1969) (EMG feedback of forehead muscle tension) matches the paper the syllabus intends."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the summary of Budzynski et al. (1969) (EMG feedback of forehead muscle tension) matches the paper the syllabus intends."
 publishedDate: 2026-11-17
 featured: false
 ---

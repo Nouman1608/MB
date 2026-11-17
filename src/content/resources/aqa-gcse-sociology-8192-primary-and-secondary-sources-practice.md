@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "primary-and-secondary-sources-8192"
 description: "Original AQA GCSE Sociology 8192 practice on primary and secondary sources, documents and content analysis, applied to research topics, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

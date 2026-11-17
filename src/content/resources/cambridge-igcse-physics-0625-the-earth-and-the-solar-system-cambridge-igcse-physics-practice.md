@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-earth-and-the-solar-system-cambridge-igcse-physics"
 description: "Thirteen original Cambridge IGCSE Physics 0625 questions on day and night, seasons, Moon phases, the Solar System, orbital speed and planetary data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

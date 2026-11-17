@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "liability-in-negligence-for-physical-injury-to-people-and-damage-to-property-7162"
 description: "Recall notes on the neighbour principle, Caparo, the objective standard, but-for causation, intervening acts and remoteness for AQA A Level Law 7162 negligence."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

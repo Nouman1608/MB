@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "forest-ecosystems-0680"
 description: "The six causes and seven impacts of deforestation, what sustainable forest management means and why forests need it, in Cambridge IGCSE 0680 sub-topic 5.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

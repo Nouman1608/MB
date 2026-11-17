@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "the-sources-of-english-law-its-enforcement-and-administration-yla1"
 description: "The role, selection and appointment of magistrates and jurors, with the Juries Act 1974, key cases, and advantages and disadvantages, for YLA1 area 1.2.22."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the current magistrates' retirement age and custodial sentencing limit, the juror age limits and disqualification rules, and the statement that the Courts Act 2003 replaced much of the Justices of the Peace Act 1979, since these have changed since the Issue 4 specification was published."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the current magistrates' retirement age and custodial sentencing limit, the juror age limits and disqualification rules, and the statement that the Courts Act 2003 replaced much of the Justices of the Peace Act 1979, since these have changed since the Issue 4 specification was published."
 publishedDate: 2026-11-17
 featured: false
 ---

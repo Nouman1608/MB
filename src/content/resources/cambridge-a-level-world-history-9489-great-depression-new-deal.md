@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "great-depression-new-deal-9489"
 description: "Study guide to Cambridge 9489 History topic 6, 1920-41: causes of the Crash and Depression, Hoover's response, the First and Second New Deals and their impact."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

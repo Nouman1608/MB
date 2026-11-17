@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kq-5-3-2251"
 description: "Cambridge O Level Sociology 2251 key question 5.3 in depth: class, ethnicity, gender and global differences in achievement, with key studies and evaluation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

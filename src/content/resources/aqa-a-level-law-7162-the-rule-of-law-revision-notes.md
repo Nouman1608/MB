@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-rule-of-law-7162"
 description: "Revision notes on the rule of law: three elements, Dicey, Raz and Bingham, modern cases and its application in three areas, with a self-test for AQA Law 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

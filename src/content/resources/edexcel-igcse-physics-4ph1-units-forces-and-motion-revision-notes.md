@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "units-forces-and-motion"
 description: "Recall notes on the Topic 1 units for Edexcel International GCSE Physics 4PH1: kg, m, s, m/s, m/s², N, N/kg, Nm and kg m/s, with conversions and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

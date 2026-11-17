@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "islam-beliefs-teachings-9237"
 description: "Recall notes on death, Barzakh, resurrection, judgement, Jannah, Jahannam and different Muslim death rituals for 9237 topic 3.1.1.6, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "New skill-unit page: please ask an Islamiyat teacher to check the summary of the afterlife and of funeral practice, the references and the self-test answers before sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the summary of the afterlife and of funeral practice, the references and the self-test answers before sign-off."
 publishedDate: 2026-11-17
 featured: false
 ---

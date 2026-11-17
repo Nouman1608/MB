@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "criticisms-of-families-8192"
 description: "Condensed AQA GCSE Sociology 8192 notes on 3.3.5: the six criticisms of families, Zaretsky and Delphy and Leonard side by side, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

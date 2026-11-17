@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "utmw-section-a-period-studies-8145"
 description: "AQA GCSE History 8145 Russia: collectivisation, the Five-Year Plans, their impact on kulaks, city dwellers, women and workers, and how far the USSR modernised."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

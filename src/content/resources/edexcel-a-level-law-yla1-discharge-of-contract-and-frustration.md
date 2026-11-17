@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-market-yla1"
 description: "How contracts end by performance, agreement, breach and frustration, with the Frustrated Contracts Act 1943, leading cases and a scenario (YLA1 2.1.4)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-market-ybs11"
 description: "Revision notes for Edexcel IAL Business 1.3.2: demand and supply shifters, equilibrium, PED, YED and revenue, with key terms, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

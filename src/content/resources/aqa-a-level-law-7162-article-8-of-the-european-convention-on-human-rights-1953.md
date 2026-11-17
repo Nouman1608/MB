@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "article-8-of-the-european-convention-on-human-rights-1953-7162"
 description: "Article 8.1 ECHR for AQA A Level Law 7162: scope of private and family life, home and correspondence, positive obligations and privacy claims against the press."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

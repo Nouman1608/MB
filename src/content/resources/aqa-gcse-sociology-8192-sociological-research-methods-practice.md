@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "sociological-research-methods-8192"
 description: "Original AQA GCSE Sociology 8192 research design practice: hypotheses, pilot studies, sampling calculations and designing studies, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

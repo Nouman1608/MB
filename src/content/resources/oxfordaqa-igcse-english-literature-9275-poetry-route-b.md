@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "poetry-route-b-9275"
 description: "How to prepare the People and Places anthology question on Route B Paper 2b of OxfordAQA 9275: theme grids, form, context and a worked comparison."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm with the current Paper 2b question papers whether the Section A anthology question names one poem and asks for a second of the candidate's choice, so the advice on choosing poems matches."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm with the current Paper 2b question papers whether the Section A anthology question names one poem and asks for a second of the candidate's choice, so the advice on choosing poems matches."
 publishedDate: 2026-11-17
 featured: false
 ---

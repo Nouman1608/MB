@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "nature-of-law-law-and-morality-7162"
 description: "Revision notes on law and morality: pluralism, natural law, positivism, Mill, Devlin, Hart and the cases on enforcing morals, with a self-test for AQA Law 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

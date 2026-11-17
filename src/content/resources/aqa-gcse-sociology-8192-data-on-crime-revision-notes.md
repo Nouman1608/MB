@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "data-on-crime-8192"
 description: "Condensed AQA GCSE Sociology 8192 notes on 3.5.4: three sources of crime data, the dark figure's two filters, trends, three perspectives and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

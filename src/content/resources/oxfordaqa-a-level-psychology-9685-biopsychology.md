@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "biopsychology-9685"
 description: "Study guide to OxfordAQA 9685 section 3.2.1 Biopsychology: nervous system, neurons and synapses, endocrine system, fight or flight, localisation and plasticity."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

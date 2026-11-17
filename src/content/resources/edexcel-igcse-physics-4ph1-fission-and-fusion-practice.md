@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "fission-and-fusion"
 description: "Original questions with full answers on fission equations, chain reactions, reactor control, shielding and the conditions for fusion, for Edexcel 4PH1 7c."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-1-section-a-9245"
 description: "How to answer the 12-mark Question 4 in 9245 Paper 1 Section A: linking pre-released and unseen sources, weighing provenance and reaching a judgement."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

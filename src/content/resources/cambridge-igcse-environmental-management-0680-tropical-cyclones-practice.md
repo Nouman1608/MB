@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "tropical-cyclones-0680"
 description: "Twelve original questions with mark-scheme answers on cyclone formation, impacts and management before, during and after, for Cambridge IGCSE 0680 6.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

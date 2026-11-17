@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "soils-and-crop-growth-0680"
 description: "Condensed notes on soil composition, nutrient ions, pH, drainage, loam, weather and conditions for photosynthesis for 2.1 Soils and crop growth, IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "retailing-0715"
 description: "Types of retailer, selling techniques, digital retail trends and effects of ecommerce on traditional commerce, for Cambridge IGCSE Commerce 0715 section 2.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

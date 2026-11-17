@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "units-energy-resources"
 description: "Original 4PH1 practice on Topic 4 units: converting g, cm, minutes, km/h, kW and MJ, unit checks and energy and power calculations, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

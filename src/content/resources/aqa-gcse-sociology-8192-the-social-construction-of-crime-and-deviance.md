@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-social-construction-of-crime-and-deviance-8192"
 description: "In-depth AQA GCSE Sociology 8192 guide to 3.5.1: how crime and deviance are socially constructed, Merton's anomie, Becker's labelling and four perspectives."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

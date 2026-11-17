@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "financial-planning-ybs11"
 description: "Study guide to Edexcel IAL Business 2.3.2 Financial planning: costs, sales forecasts, break-even, cash-flow forecasts, budgets and variance analysis."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

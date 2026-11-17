@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "hitlers-foreign-policy-0470"
 description: "Study guide to Cambridge IGCSE History 0470 key question 2.3: Hitler's aims, the steps to war, appeasement, the Nazi-Soviet Pact and September 1939."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

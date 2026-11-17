@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "utmw-section-b-wider-world-depth-studies-8145"
 description: "AQA GCSE History 8145 First World War: why the Schlieffen Plan failed, trench warfare, attrition, and Verdun, the Somme and Passchendaele in depth."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

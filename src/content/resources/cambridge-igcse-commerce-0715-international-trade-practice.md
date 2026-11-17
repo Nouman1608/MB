@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "international-trade-0715"
 description: "Original Cambridge IGCSE Commerce 0715 questions with answers on international trade, balance of trade and payments, trading blocs and trade restrictions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check that Question 9's Balance of Payments working (goods, services and net investment flows) matches the components Cambridge expects for 0715 section 3.1.3."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check that Question 9's Balance of Payments working (goods, services and net investment flows) matches the components Cambridge expects for 0715 section 3.1.3."
 publishedDate: 2026-11-17
 featured: false
 ---

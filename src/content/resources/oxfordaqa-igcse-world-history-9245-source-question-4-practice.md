@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-1-section-a-9245"
 description: "Two original five-source sets for 9245 Paper 1 Section A, on Versailles and Berlin 1960-63, with sorting tasks, 12-mark Question 4 essays and marking guides."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

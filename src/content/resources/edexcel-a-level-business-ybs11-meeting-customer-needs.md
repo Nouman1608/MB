@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "meeting-customer-needs-ybs11"
 description: "Study guide to section 1.3.1 Meeting customer needs: mass and niche markets, dynamic markets, research and sampling, positioning and adding value."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

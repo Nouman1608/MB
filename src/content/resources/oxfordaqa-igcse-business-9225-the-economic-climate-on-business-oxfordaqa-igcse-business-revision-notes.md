@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "the-economic-climate-on-business-oxfordaqa-igcse-business"
 description: "Revision notes for OxfordAQA IGCSE Business 9225 section 3.2.3: interest rates, Sharia compliant finance, employment and consumer spending, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please ask a teacher familiar with Islamic finance to confirm the one-line descriptions of murabaha, ijara, musharaka and mudaraba; the specification names only Sharia compliant alternatives."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please ask a teacher familiar with Islamic finance to confirm the one-line descriptions of murabaha, ijara, musharaka and mudaraba; the specification names only Sharia compliant alternatives."
 publishedDate: 2026-11-17
 featured: false
 ---

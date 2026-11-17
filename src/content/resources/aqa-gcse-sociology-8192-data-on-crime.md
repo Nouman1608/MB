@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "data-on-crime-8192"
 description: "In-depth AQA GCSE Sociology 8192 guide to 3.5.4: police recorded crime, victim surveys, self-report studies, trends, the dark figure and three perspectives."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

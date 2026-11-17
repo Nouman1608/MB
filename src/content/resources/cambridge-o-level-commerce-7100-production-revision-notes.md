@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-7100"
 description: "Recall notes for Cambridge O Level Commerce 7100 sub-topic 1.2: sectors, specialisation, in-house and outsourced production, agents, factors, EDI and costs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

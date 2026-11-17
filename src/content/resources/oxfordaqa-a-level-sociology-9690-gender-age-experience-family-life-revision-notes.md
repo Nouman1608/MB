@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "gender-age-experience-family-life-9690"
 description: "Revision notes for OxfordAQA 9690 section 3.1.1.4: expressive and instrumental roles, triple shift, domestic labour, power, childhood and older people."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

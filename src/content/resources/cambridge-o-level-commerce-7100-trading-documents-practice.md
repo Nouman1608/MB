@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "trading-documents-7100"
 description: "Thirteen original questions with full answers on Cambridge O Level Commerce 7100 sub-topic 2.5: document order, invoice sums, export documents, digital use."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

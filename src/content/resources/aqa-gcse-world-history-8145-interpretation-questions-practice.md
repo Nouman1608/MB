@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "utmw-section-a-period-studies-8145"
 description: "Original AQA GCSE History 8145 interpretation practice: four invented pairs, one for each period study, with questions 1-3 and full worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

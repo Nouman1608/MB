@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "human-population-density-distribution-and-structure-0680"
 description: "Recall notes for Cambridge IGCSE 0680 sub-topic 7.1: density, distribution, pyramid reading, World Bank income groups, LIC and HIC structure and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

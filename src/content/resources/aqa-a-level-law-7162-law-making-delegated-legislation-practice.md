@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "law-making-delegated-legislation-7162"
 description: "Original practice questions with full answers on types of delegated legislation, parliamentary and judicial controls, reasons and evaluation, for AQA Law 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

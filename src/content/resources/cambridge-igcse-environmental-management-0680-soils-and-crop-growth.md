@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "soils-and-crop-growth-0680"
 description: "Soil composition, why particles, nutrients, pH, pore spaces and drainage matter, why loam suits crops, and growing conditions, for Cambridge IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

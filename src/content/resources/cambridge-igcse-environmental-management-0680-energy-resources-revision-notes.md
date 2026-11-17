@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "energy-resources-0680"
 description: "Recall notes on fossil fuel formation, classifying energy resources, generating electricity and energy demand for 1.4 Energy resources, Cambridge IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

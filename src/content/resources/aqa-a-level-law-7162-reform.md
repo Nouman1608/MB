@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "reform-7162"
 description: "Reform of human rights protection in the UK for AQA A Level Law 7162: criticisms of the HRA, Bill of Rights proposals, devolution limits and Strasbourg reform."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm the current political and legislative status of UK human rights reform proposals, including any changes to the Safety of Rwanda (Asylum and Immigration) Act 2024, before the page is relied on."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the current political and legislative status of UK human rights reform proposals, including any changes to the Safety of Rwanda (Asylum and Immigration) Act 2024, before the page is relied on."
 publishedDate: 2026-11-17
 featured: false
 ---

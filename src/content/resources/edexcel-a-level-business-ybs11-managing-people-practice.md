@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "managing-people-ybs11"
 description: "Twelve original source-based questions with full answers on staffing, training, structure, motivation, pay and leadership for Edexcel IAL Business 1.3.4."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

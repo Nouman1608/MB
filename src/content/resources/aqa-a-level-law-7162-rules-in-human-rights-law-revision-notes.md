@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "rules-in-human-rights-law-7162"
 description: "Condensed recall on the general rules of human rights law for AQA A Level Law 7162: sources, types of right, positive duties, interpretation, horizontal effect."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "trade-and-commerce-0715"
 description: "Original practice questions with mark-scheme answers on trade, commerce, aids to trade, logistics and types of commerce for Cambridge IGCSE Commerce 0715."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

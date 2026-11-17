@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "communication-7100-commerce"
 description: "Recall notes for Cambridge O Level Commerce 7100 sub-topic 2.6: four types of communication, eight methods and the six factors for choosing a method."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

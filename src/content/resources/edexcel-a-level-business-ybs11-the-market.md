@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-market-ybs11"
 description: "Study guide to Edexcel IAL Business 1.3.2 The market: demand and supply shifts, taxes and subsidies, diagrams, PED and total revenue, and YED."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

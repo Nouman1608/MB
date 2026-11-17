@@ -35,7 +35,7 @@
       "automatedStructuralWarn": 777,
       "automatedStructuralFail": 0,
       "repositorySpecificationCheck": 780,
-      "accountableTeacherCredited": 9164,
+      "accountableTeacherCredited": 10241,
       "aiAssistedAssessmentCurrent": 2,
       "humanAssessmentCurrent": 0,
       "documentedTeacherVerification": 0,
@@ -45,8 +45,7 @@
       "REPO_PARTIAL_UNVERIFIABLE": 153,
       "REPO_VERIFIED": 585,
       "REPO_VERIFIED_AFTER_CORRECTION": 42,
-      "TEACHER_CREDITED": 8384,
-      "UNVERIFIED": 1077
+      "TEACHER_CREDITED": 9461
     },
     "findingsOpenBySeverity": {
       "advisory": 12,
@@ -63,12 +62,11 @@
     },
     "riskTier": {
       "2": 3,
-      "3": 1077,
       "4": 153,
       "5": 219,
-      "6": 2841,
-      "7": 2936,
-      "8": 3012
+      "6": 3206,
+      "7": 3044,
+      "8": 3616
     },
     "searchMetadataCoverageClaims": {
       "NEEDS_REVIEW": 8,

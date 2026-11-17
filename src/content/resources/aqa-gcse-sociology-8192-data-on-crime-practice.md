@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "data-on-crime-8192"
 description: "Original AQA GCSE Sociology 8192 practice on 3.5.4 with marked answers: official statistics, victim surveys, self-report studies, the dark figure and trends."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

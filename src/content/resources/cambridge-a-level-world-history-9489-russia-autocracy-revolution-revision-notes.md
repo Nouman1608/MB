@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "russia-autocracy-revolution-9489"
 description: "Revision notes for Cambridge 9489 History, Russia 1881-1924: chronology, key terms, 1905 and 1917 compared, Civil War factors, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

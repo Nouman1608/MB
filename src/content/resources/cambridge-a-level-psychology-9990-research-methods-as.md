@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "research-methods-as-9990"
 description: "The six AS research methods in Cambridge 9990 Psychology explained in depth: experiments and designs, self-reports, case studies, observations and more."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

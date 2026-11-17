@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "wholesaling-0715"
 description: "Wholesaler functions, importance to manufacturers and retailers, cash and carry and voluntary chains, for Cambridge IGCSE Commerce 0715 section 2.4."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

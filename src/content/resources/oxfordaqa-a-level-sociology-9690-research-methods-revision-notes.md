@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "research-methods-9690"
 description: "Revision notes for OxfordAQA 9690 Unit 1 research methods: surveys, interviews, observation, experiments, sampling, ethics and data interpretation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

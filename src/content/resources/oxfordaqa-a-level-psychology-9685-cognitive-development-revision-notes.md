@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "cognitive-development-9685"
 description: "Condensed OxfordAQA 9685 cognitive development notes: Piaget's mechanisms and stages, key tasks, Baillargeon, Vygotsky, theory of mind and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

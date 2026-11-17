@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "communication-0715-commerce"
 description: "Original Cambridge IGCSE Commerce 0715 questions with answers on types and methods of communication and choosing the right method for a situation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

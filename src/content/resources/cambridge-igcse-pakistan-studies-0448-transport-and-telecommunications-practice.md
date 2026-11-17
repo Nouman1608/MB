@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "transport-and-telecommunications-0448"
 description: "Fourteen original questions with answers on Section 7 of Cambridge IGCSE Pakistan Studies 0448 Paper 2: networks, border routes, ports, airports and telecoms."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

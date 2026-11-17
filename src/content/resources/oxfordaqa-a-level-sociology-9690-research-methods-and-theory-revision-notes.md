@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "research-methods-and-theory-9690"
 description: "Revision notes for OxfordAQA 9690 Unit 2 research methods and theory: positivism, value freedom, Burawoy, structure and agency and the main theories."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

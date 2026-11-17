@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "data-types-9210"
 description: "Revision notes on OxfordAQA IGCSE Computer Science 9210 section 3.2.1: the five data types, choosing them for real data, key terms, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-individual-yla1"
 description: "Original practice questions with full answers on trespass to land: unlawful entry, direct and intentional interference, continuing trespass and remedies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

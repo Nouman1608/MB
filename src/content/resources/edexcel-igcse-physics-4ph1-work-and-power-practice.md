@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "work-and-power"
 description: "Original 4PH1 questions on work done, GPE, kinetic energy, the energy link, braking distances and power, including a stair-climbing practical."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

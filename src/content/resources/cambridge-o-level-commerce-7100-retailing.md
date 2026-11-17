@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "retailing-7100"
 description: "Cambridge O Level Commerce 7100 sub-topic 2.3 in depth: ten types of retailer, why small shops survive, selling techniques, digital retail trends and ecommerce."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

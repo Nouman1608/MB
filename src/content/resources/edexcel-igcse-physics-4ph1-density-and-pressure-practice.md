@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "density-and-pressure"
 description: "Original 4PH1 questions on density, the density practicals, pressure on surfaces, fluid pressure and p = hρg force problems, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

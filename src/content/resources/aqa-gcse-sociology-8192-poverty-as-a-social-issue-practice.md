@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "poverty-as-a-social-issue-8192"
 description: "Original AQA GCSE Sociology 8192 practice on poverty: Townsend, Murray, the culture of poverty, welfare policy and globalisation, with full mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

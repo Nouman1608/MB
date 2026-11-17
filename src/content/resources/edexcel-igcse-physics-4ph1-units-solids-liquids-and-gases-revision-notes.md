@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "units-solids-liquids-and-gases"
 description: "Recall notes for 4PH1 sub-topic 5a: Pa, kg/m³, m² and m³ conversions, Celsius and kelvin, J/kg °C, when units may stay as given, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

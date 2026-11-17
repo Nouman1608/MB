@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "outsourcing-0715"
 description: "Why outsourcing has grown, how contract manufacturing and contract logistics work, and cost comparisons, for Cambridge IGCSE Commerce 0715 section 2.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

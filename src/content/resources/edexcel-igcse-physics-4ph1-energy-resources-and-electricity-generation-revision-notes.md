@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "energy-resources-and-electricity-generation"
 description: "Recall notes for 4PH1 sub-topic 4d: transfer chains for each energy resource, pros and cons for large-scale generation and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

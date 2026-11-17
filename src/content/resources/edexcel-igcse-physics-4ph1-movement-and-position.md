@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "movement-and-position"
 description: "Distance-time and velocity-time graphs, average speed, acceleration, v² = u² + 2as and the motion practical for Edexcel International GCSE Physics 4PH1, 1b."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

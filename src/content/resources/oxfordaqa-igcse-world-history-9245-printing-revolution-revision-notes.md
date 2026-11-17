@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-2-section-b-9245"
 description: "Revision notes for the 9245 Printing Revolution: Asian printing, Gutenberg's press, the book trade, type, women, copyright, Reformation, literacy and science."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

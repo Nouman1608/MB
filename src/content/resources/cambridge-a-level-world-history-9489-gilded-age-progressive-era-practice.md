@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "gilded-age-progressive-era-9489"
 description: "Twelve original practice questions on Cambridge 9489 Gilded Age and Progressive Era 1870-1920: recall, invented sources, essays and mark-scheme style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

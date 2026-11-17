@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "unification-italy-0470"
 description: "Twelve original questions with mark-scheme answers on Mazzini, Cavour, Garibaldi and Italian unification to 1870, for Cambridge IGCSE History 0470."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

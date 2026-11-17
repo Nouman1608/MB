@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "the-rules-of-contract-law-7162"
 description: "Original practice questions with mark-scheme answers on contract rule sources, the objective approach, consumer contracts and voidable status, AQA 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The specification states this row only in general terms; a teacher should confirm that the sources, classifications and problem method chosen here match how centres teach it."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification states this row only in general terms; a teacher should confirm that the sources, classifications and problem method chosen here match how centres teach it."
 publishedDate: 2026-11-17
 featured: false
 ---

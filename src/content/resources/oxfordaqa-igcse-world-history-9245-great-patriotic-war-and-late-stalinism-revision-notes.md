@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-2-section-a-9245"
 description: "Revision notes for 9245 Life in the USSR, 1941-53: wartime economy and society, Stalin as war leader, women, reconstruction, High Stalinism and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

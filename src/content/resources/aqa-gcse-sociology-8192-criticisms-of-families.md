@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "criticisms-of-families-8192"
 description: "In-depth AQA GCSE Sociology 8192 guide to 3.3.5: the six criticisms of families, Zaretsky's Marxist view and Delphy and Leonard's feminist critique compared."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

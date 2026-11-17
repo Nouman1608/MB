@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "psychopathology-9685"
 description: "Study guide to OxfordAQA 9685 section 3.1.3 Psychopathology: definitions of abnormality, phobias, depression, behavioural and cognitive treatments."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-2-section-b-9245"
 description: "Revision notes for 9245 medieval Islamic medicine: translators, Al-Razi, Ibn Sina, bimaristans, Al-Zahrawi, public health, Al-Kindi, Ibn al-Baytar and legacy."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

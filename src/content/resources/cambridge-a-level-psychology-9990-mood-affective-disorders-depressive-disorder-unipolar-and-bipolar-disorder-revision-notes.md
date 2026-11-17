@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder-9990"
 description: "Revision notes for 9990 topic 1.2 mood disorders: ICD-11 episodes, the BDI, Oruč et al., Beck, attributional style, antidepressants, REBT and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

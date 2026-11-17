@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "imperialism-emergence-world-powers-9489"
 description: "Study guide to Cambridge 9489 History topic 7, c.1870-1918: the Scramble for Africa and its impact, imperial rivalry, and the rise of Japan and the USA."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

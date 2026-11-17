@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "utmw-section-a-period-studies-8145"
 description: "Original AQA GCSE History 8145 America practice on civil rights: segregation, King, Malcolm X, Black Power and the 1964 and 1968 Acts, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

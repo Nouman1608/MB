@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "communication-7100-commerce"
 description: "Cambridge O Level Commerce 7100 sub-topic 2.6 in depth: types and methods of communication and how to choose the right method using the six named factors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

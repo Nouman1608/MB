@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "islam-subcontinent-9236"
 description: "Original practice for OxfordAQA 9236 on Islam in the subcontinent: Sufism, al-Ghazali, Sirhindi, Shah Waliullah and Syed Ahmad Barelvi, with mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

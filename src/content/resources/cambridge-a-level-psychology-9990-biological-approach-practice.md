@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "biological-approach-9990"
 description: "Original Paper 1 style questions with mark-scheme answers on the 9990 biological approach: Dement and Kleitman, Hassett et al. and Hölzel et al."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "sustainable-management-of-rocks-ores-and-minerals-0680"
 description: "Notes on finite resources, sustainable management and the seven mineral conservation strategies, with benefits and limitations, for Cambridge IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

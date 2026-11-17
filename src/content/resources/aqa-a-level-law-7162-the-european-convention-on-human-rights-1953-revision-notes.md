@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "the-european-convention-on-human-rights-1953-7162"
 description: "Condensed recall on the ECHR for AQA A Level Law 7162: structure, Article 1, absolute, limited and qualified rights, Articles 13 to 18, protocols and the Court."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The specification lists no content statements under this heading, which introduces the Article rows that follow; please confirm this overview of the Convention's structure is the intended scope."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification lists no content statements under this heading, which introduces the Article rows that follow; please confirm this overview of the Convention's structure is the intended scope."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "extraction-of-rocks-ores-and-minerals-0680"
 description: "Recall notes on mining methods, extraction factors, impacts and land restoration for 1.2 Extraction of rocks, ores and minerals, Cambridge IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

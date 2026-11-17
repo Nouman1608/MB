@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "the-psychological-environment-9990"
 description: "Original Paper 3 and Paper 4 style questions with answers on 9990 Consumer Psychology topic 2.2: wayfinding, menus, personal space, Robson et al. and queues."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the outline summaries of Dogu and Erkip (2000), Gil et al. (2009), Pavesic (2005) and Milgram et al. (1986) used in the answers against the original sources."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the outline summaries of Dogu and Erkip (2000), Gil et al. (2009), Pavesic (2005) and Milgram et al. (1986) used in the answers against the original sources."
 publishedDate: 2026-11-17
 featured: false
 ---

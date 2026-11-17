@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "migration-and-diasporas-9690"
 description: "Study guide to OxfordAQA 9690 section 3.2.1.4: explanations of migration, borders and visas, refugees, types of migrant, diasporas and climate-linked migration."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

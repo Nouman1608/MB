@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "families-marriage-kinship-9690"
 description: "Original OxfordAQA 9690 Unit 1 style questions on family types, alternatives to families, Therborn, matriarchy and types of marriage, with mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

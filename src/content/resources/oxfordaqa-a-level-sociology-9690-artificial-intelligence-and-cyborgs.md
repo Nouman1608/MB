@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "artificial-intelligence-and-cyborgs-9690"
 description: "Guide to OxfordAQA 9690 section 3.2.3.5: types of AI, algorithmic power and inequality, the extent and effects of AI use, human-machine merging and cyborgs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

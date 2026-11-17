@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "density-cambridge-igcse-physics"
 description: "Twelve original Cambridge IGCSE Physics 0625 density questions: ρ = m/V, unit conversions, the three experiments, floating and liquid layers, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

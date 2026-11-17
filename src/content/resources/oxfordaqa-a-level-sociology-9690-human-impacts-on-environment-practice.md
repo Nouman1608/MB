@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "human-impacts-on-environment-9690"
 description: "Original OxfordAQA 9690 practice questions on views of nature, consumption, the commons, risk, climate responses, green Marxism and inequality, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

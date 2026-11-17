@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "conservation-and-management-of-energy-resources-0680"
 description: "The eight energy management strategies, hydrogen fuels and heat pumps at home, city and national scale, with worked energy calculations, for IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm the interpretation of 'exploiting existing energy resources' (making fuller use of resources and infrastructure already available) against Cambridge 0680 teaching materials."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the interpretation of 'exploiting existing energy resources' (making fuller use of resources and infrastructure already available) against Cambridge 0680 teaching materials."
 publishedDate: 2026-11-17
 featured: false
 ---

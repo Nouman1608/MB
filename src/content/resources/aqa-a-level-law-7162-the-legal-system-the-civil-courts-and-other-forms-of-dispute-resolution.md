@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution-7162"
 description: "Civil courts, the track and appeal systems, the tribunal structure, and the roles of mediation and negotiation, explained for AQA A Level Law 7162 section 3.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

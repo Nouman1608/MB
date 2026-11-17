@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "light-and-sound"
 description: "Recall notes for 4PH1 sub-topic 3d: ray rules, n = sin i / sin r, critical angle, optical fibres, speed of sound and oscilloscope readings."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

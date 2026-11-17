@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ethical-and-environmental-considerations-oxfordaqa-igcse-business"
 description: "Eleven original questions with mark-scheme answers on ethics and profit, religious observance, waste and sustainability for OxfordAQA IGCSE 9225 3.2.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

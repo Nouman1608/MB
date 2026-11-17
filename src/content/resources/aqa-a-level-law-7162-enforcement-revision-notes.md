@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "enforcement-7162"
 description: "Condensed recall on enforcing human rights for AQA A Level Law 7162: Strasbourg admissibility and judgments, HRA sections 6 to 8 and judicial review."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

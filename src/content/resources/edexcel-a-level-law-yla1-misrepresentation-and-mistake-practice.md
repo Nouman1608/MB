@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-market-yla1"
 description: "Original practice questions with full answers on misrepresentation, the Misrepresentation Act 1967, contributory negligence and mistake (YLA1 2.1.4)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "article-11-of-the-european-convention-on-human-rights-1953-7162"
 description: "Condensed recall on Article 11.1 ECHR for AQA A Level Law 7162: peaceful assembly, positive duties, protest on the highway, unions and political association."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

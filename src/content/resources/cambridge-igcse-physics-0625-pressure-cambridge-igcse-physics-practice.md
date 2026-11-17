@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "pressure-cambridge-igcse-physics"
 description: "Twelve original Cambridge IGCSE Physics 0625 pressure questions on p = F/A, area conversions, everyday examples and liquid pressure Δp = ρgΔh, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

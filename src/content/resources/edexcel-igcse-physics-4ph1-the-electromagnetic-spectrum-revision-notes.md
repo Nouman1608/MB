@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-electromagnetic-spectrum"
 description: "Recall notes on the order, speed, uses, dangers and protective measures of electromagnetic waves, with a self-test, for Edexcel International GCSE Physics 4PH1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

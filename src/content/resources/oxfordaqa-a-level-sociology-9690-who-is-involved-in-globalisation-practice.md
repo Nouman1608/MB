@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "who-is-involved-in-globalisation-9690"
 description: "Original OxfordAQA 9690 practice questions on states, TNCs, international agencies, NGOs, indigenous peoples and development aid, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

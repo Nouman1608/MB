@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-0715"
 description: "Original Cambridge IGCSE Commerce 0715 questions with answers on sectors, specialisation, outsourcing, intermediaries, automation, EDI and cost calculations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

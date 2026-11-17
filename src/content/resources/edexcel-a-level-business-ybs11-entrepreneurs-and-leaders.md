@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "entrepreneurs-and-leaders-ybs11"
 description: "Study guide to Edexcel IAL Business 1.3.5: the entrepreneur's role, intrapreneurship, barriers, motives, business objectives, opportunity cost and trade-offs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

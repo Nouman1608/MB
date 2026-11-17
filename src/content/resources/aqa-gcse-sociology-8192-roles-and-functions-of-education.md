@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "roles-and-functions-of-education-8192"
 description: "In-depth AQA GCSE Sociology 8192 guide to 3.4.1: the three functions of education, Durkheim and Parsons, types of school, home schooling and de-schooling."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

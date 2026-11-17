@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "extraction-of-rocks-ores-and-minerals-0680"
 description: "Mining methods, the factors behind extraction decisions, the impacts of mining and how damaged land is restored or repurposed, for Cambridge IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

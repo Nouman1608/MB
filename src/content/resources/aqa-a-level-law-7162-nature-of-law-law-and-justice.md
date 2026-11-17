@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "nature-of-law-law-and-justice-7162"
 description: "The meaning of justice, formal, substantive and procedural justice, theories of justice and how far the law achieves it, for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

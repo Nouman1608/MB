@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "social-control-8192"
 description: "Original AQA GCSE Sociology 8192 practice on 3.5.2 with marked answers: formal and informal control, sanctions, perspectives and Heidensohn."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

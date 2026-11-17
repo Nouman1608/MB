@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "schizophrenia-9990"
 description: "Topic 1.1 Schizophrenia for Cambridge 9990 Psychology: ICD-11 diagnosis, delusions and Freeman et al., genetic, dopamine and cognitive explanations, treatments."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

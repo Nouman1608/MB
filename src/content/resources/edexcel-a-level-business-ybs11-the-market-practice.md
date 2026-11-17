@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-market-ybs11"
 description: "Twelve original source-based questions with full answers on demand, supply, equilibrium, PED, YED and revenue for Edexcel IAL Business section 1.3.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

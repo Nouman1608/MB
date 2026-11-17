@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "motion-cambridge-igcse-physics"
 description: "Study guide to Cambridge IGCSE Physics 0625 section 1.2 Motion: speed, velocity, distance–time and speed–time graphs, acceleration and terminal velocity."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

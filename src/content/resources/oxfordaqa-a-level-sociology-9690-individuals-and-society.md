@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "individuals-and-society-9690"
 description: "Study guide to OxfordAQA 9690 section 3.1.2.1: culture, norms, values, roles, status, stereotypes, subcultures and Mills's sociological imagination."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

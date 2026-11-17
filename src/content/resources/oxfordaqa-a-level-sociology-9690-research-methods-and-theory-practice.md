@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "research-methods-and-theory-9690"
 description: "Original OxfordAQA 9690 Unit 2 Section B style questions on value freedom, public sociology, structure and agency and the main theories, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "communication-0715-commerce"
 description: "Types and methods of communication and the six factors that decide which method suits a situation, for Cambridge IGCSE Commerce 0715 section 2.6."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

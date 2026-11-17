@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "cosmology"
 description: "Original questions with full answers on the Big Bang, the Doppler effect, red-shift calculations, red-shift and distance, and CMB radiation for Edexcel 4PH1 8d."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

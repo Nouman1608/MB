@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "health-promotion-9990"
 description: "Revision notes for Cambridge 9990 topic 3.5: fear appeals, information, Food Dudes, token economies, optimism and positive psychology."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

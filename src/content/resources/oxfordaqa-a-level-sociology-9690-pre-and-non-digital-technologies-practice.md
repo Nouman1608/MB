@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "pre-and-non-digital-technologies-9690"
 description: "Original OxfordAQA 9690 practice questions on machines and work, Fordism, emotional labour, mobilities, consumption and theories of technology, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

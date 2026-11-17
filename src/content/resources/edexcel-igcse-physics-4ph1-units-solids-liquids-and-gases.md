@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "units-solids-liquids-and-gases"
 description: "The units of Topic 5 in Edexcel IGCSE Physics 4PH1: Pa, kg/m³, m² and m³, °C and K, J/kg °C, and the area, volume and density conversions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

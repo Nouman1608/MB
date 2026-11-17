@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "electric-charge"
 description: "Conductors, insulators, charging by friction, forces between charges, and the dangers and uses of static charge for Edexcel International GCSE Physics 4PH1, 2d."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

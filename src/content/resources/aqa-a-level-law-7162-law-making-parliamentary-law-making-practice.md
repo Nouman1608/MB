@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "law-making-parliamentary-law-making-7162"
 description: "Original practice questions with full answers on the legislative process, influences on Parliament and parliamentary supremacy and its limits, for AQA Law 7162."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-social-construction-of-crime-and-deviance-8192"
 description: "Condensed AQA GCSE Sociology 8192 notes on 3.5.1: crime and deviance as social constructs, the five explanations, Merton, Becker, perspectives and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

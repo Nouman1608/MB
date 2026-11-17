@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "civil-war-reconstruction-9489"
 description: "Twelve original practice questions on Cambridge 9489 Civil War and Reconstruction 1820-77, with invented Paper 1 sources, Paper 2 essays and full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "advertising-9990"
 description: "Revision notes for Cambridge 9990 topic 2.5: Yale model, media, 4 Cs, self-monitoring, product placement, logos and slogans, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

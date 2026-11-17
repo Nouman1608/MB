@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-market-yla1"
 description: "Condensed notes on discharge by performance, agreement, breach and frustration, the 1943 Act, leading cases, traps and a self-test, for YLA1 content area 2.1.4."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

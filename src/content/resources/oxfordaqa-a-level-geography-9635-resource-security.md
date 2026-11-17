@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "resource-security-9635"
 description: "Study guide to OxfordAQA 9635 section 3.2.2 Resource security: reserve evaluation, EIA, water and energy controls, geopolitics, futures and model answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

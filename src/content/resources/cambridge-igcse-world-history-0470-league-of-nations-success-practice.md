@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "league-of-nations-success-0470"
 description: "Twelve original questions with mark-scheme answers on the League's structure, disputes, humanitarian work and 1930s crises, for Cambridge IGCSE 0470."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

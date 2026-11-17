@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-relationship-between-education-and-capitalism-8192"
 description: "Condensed AQA GCSE Sociology 8192 notes on 3.4.2: Bowles and Gintis's five key ideas, the hidden curriculum, rival views of correspondence and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

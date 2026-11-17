@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "rules-in-human-rights-law-7162"
 description: "How human rights rules work for AQA A Level Law 7162: sources, absolute, limited and qualified rights, positive duties, interpretation principles and a method."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

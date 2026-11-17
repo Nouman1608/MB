@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-2-section-a-9245"
 description: "Life in Germany 1945-49 for 9245 Paper 2: refugees, expulsions, zones, denazification, Nuremberg, Soviet reparations, Marshall Aid, the Blockade and two states."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

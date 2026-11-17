@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "hitlers-germany-9489"
 description: "Study guide to Cambridge 9489 Paper 4 topic 3, Hitler's Germany 1929-41: the rise to power, the terror state and propaganda, the economy and Nazi social policy."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

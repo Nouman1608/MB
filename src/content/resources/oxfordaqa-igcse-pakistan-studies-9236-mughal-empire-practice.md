@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "mughal-empire-9236"
 description: "Original Section C practice for OxfordAQA 9236 on the Mughal Empire: Babur to Shah Jahan, Aurangzeb, decline and British expansion, with full mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "water-pollution-0680"
 description: "Quick-recall notes on water pollution sources, cholera, bioaccumulation, biomagnification, eutrophication and sewage treatment for IGCSE 0680."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

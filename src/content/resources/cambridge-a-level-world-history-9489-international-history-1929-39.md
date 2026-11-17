@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "international-history-1929-39-9489"
 description: "Study guide to Cambridge 9489 History topic 9, 1929-39: extremism after the Depression, the League's failure, appeasement and why war broke out in 1939."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

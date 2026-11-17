@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "trade-and-commerce-0715"
 description: "Trade versus commerce, home and international trade, aids to trade, logistics and the four types of commerce, for Cambridge IGCSE Commerce 0715 section 1.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

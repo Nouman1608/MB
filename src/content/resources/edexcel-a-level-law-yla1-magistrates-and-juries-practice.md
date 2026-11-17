@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "the-sources-of-english-law-its-enforcement-and-administration-yla1"
 description: "Original practice questions with full answers on the selection, role, advantages and disadvantages of magistrates and jurors, for YLA1 content area 1.2.22."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the answers that depend on current age limits and disqualification rules for magistrates and jurors, which have changed since the Issue 4 specification was published."
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the answers that depend on current age limits and disqualification rules for magistrates and jurors, which have changed since the Issue 4 specification was published."
 publishedDate: 2026-11-17
 featured: false
 ---

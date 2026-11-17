@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "organisational-work-conditions-9990"
 description: "Cambridge 9990 topic 4.4 in depth: the Hawthorne effect, open-plan offices, shiftwork, human and system errors, token economies and Swat (1997) on accidents."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

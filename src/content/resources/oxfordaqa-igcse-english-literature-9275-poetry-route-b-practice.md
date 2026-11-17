@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "poetry-route-b-9275"
 description: "Comparison skills practice on two original poems plus three 30-mark anthology tasks for OxfordAQA 9275 Route B Paper 2b, with mark-scheme style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm the wording pattern of current Paper 2b Section A questions (whether one poem is named), so the Section B tasks below mirror it."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the wording pattern of current Paper 2b Section A questions (whether one poem is named), so the Section B tasks below mirror it."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "interdependent-nature-of-business-ocr-gcse-business"
 description: "Study guide to section 7 of OCR GCSE Business J204: how the four functions depend on each other, risk and reward, and financial information in decisions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

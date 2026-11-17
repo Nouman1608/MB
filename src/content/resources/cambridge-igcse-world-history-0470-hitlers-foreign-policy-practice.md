@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "hitlers-foreign-policy-0470"
 description: "Twelve original questions with mark-scheme answers on Hitler's aims, appeasement, Munich and the Nazi-Soviet Pact, for Cambridge IGCSE History 0470."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

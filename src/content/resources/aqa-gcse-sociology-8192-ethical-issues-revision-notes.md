@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ethical-issues-8192"
 description: "AQA GCSE Sociology 8192 revision notes on consent, confidentiality and harm, how each is addressed, covert research and children, with traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

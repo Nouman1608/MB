@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "units-energy-resources"
 description: "The units of Topic 4 in Edexcel IGCSE Physics 4PH1: kg, J, m, m/s, m/s², N, s and W, how they link, prefixes and converting data before you calculate."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "the-economic-climate-on-business-oxfordaqa-igcse-business"
 description: "Twelve original questions with answers on interest rates, borrowing costs, Sharia compliant finance, employment and consumer spending for OxfordAQA IGCSE 9225."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please ask a teacher familiar with Islamic finance to confirm the description of ijara used in Question 9 and its answer."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please ask a teacher familiar with Islamic finance to confirm the description of ijara used in Question 9 and its answer."
 publishedDate: 2026-11-17
 featured: false
 ---

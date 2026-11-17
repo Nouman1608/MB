@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "liability-in-negligence-for-economic-loss-and-psychiatric-injury-7162"
 description: "Recall notes on pure economic loss, Hedley Byrne special relationships, primary and secondary victims and the Alcock controls for AQA A Level Law 7162 tort."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

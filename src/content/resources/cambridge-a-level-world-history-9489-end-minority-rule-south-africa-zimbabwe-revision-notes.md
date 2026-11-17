@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "end-minority-rule-south-africa-zimbabwe-9489"
 description: "Revision notes for Cambridge 9489 Paper 4, South Africa and Zimbabwe 1948-94: key terms, laws and dates, resistance, the end of white rule and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

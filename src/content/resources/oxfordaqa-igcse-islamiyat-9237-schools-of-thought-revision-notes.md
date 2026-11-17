@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "sources-of-authority-9237"
 description: "Recall notes on the Hanafi, Maliki, Shafi'i, Hanbali and Ja'fari schools: founders, cities, methods, key works, differences and role, for 9237 topic 3.2.2.5."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "New skill-unit page: please ask an Islamiyat teacher to check the summaries of the five schools, the examples of differences and the self-test answers before sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the summaries of the five schools, the examples of differences and the self-test answers before sign-off."
 publishedDate: 2026-11-17
 featured: false
 ---

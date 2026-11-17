@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "origins-development-cold-war-9489"
 description: "Twelve original questions on Cambridge 9489 Paper 3 Cold War interpretations: short recall items and three invented 40-mark extracts with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the Section A answers that summarise named historians' arguments against their works before teacher sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the Section A answers that summarise named historians' arguments against their works before teacher sign-off."
 publishedDate: 2026-11-17
 featured: false
 ---

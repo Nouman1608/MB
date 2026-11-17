@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "random-number-generation-9210"
 description: "Study guide to OxfordAQA IGCSE Computer Science 9210 section 3.2.9: using random numbers in programs for dice, games, choices and simple simulations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

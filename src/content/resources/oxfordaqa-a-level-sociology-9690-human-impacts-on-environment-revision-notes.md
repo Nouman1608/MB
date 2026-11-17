@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "human-impacts-on-environment-9690"
 description: "Revision notes for OxfordAQA 9690 section 3.2.2.2: views of nature, consumption, pollution, climate as a social problem, denial, EMT, green Marxism and justice."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

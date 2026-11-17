@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "islam-beliefs-teachings-9237"
 description: "The lives, roles and importance of Prophets Adam, Ibraheem, Musa and Isa (AS) for 9237 topic 3.1.1.7, with Qur'an references, a model answer and exam technique."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "New skill-unit page: please ask an Islamiyat teacher to check the accounts of the four prophets, the Qur'an references by surah and verse, the transliterations and the model answer before sign-off."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the accounts of the four prophets, the Qur'an references by surah and verse, the transliterations and the model answer before sign-off."
 publishedDate: 2026-11-17
 featured: false
 ---
