@@ -105,7 +105,7 @@ const dot = (x, y, f, r = 9, shape = 'c') => shape === 'c' ? `<circle cx="${x}" 
   [[130, 330], [150, 300], [180, 340], [120, 290], [170, 310]].forEach(([x, y]) => { b += dot(x, y, C.panel); });
   [[300, 230], [330, 260], [360, 240], [320, 220], [370, 280]].forEach(([x, y]) => { b += dot(x, y, C.rust, 8, 's'); });
   b += `<line x1="200" y1="210" x2="290" y2="370" stroke="${C.tealDark}" stroke-width="3" stroke-dasharray="8 6"/>`;
-  b += dot(250, 236, C.mustard, 10) + t(236, 242, 'new ?', { size: 15, weight: 700, anchor: 'end' });
+  b += dot(262, 236, C.mustard, 10) + t(250, 214, 'new ?', { size: 15, weight: 700, anchor: 'end' });
   b += t(110, 412, 'e.g. spam or not, cat or not', { size: 15, fill: C.muted, italic: true });
   // regression
   b += box(458, 160, 390, 266, C.panel, C.panelEdge, 10) + t(476, 188, 'Regression: predicts a number', { size: 16, weight: 700 });
@@ -119,7 +119,7 @@ const dot = (x, y, f, r = 9, shape = 'c') => shape === 'c' ? `<circle cx="${x}" 
   b += box(52, 506, 390, 236, C.panel, C.panelEdge, 10) + t(70, 534, 'Before: no labels', { size: 16, weight: 700 });
   const pts = [[110, 600], [130, 630], [150, 590], [125, 660], [260, 570], [285, 600], [300, 565], [270, 625], [360, 680], [390, 700], [370, 650], [400, 670]];
   pts.forEach(([x, y]) => { b += dot(x, y, C.bg, 8); });
-  b += arrow(446, 624, 470, 624, { w: 3.5 });
+  b += arrow(444, 624, 474, 624, { w: 3.5 });
   b += box(476, 506, 372, 236, C.panel, C.panelEdge, 10) + t(494, 534, 'After: clusters found', { size: 16, weight: 700 });
   const cf = [C.teal, C.mustard, C.rust];
   pts.forEach(([x, y], i) => { b += dot(x + 380, y, cf[Math.floor(i / 4)], 8); });
@@ -179,7 +179,7 @@ const dot = (x, y, f, r = 9, shape = 'c') => shape === 'c' ? `<circle cx="${x}" 
   const X = (v) => 80 + v * 80;
   b += `<line x1="${X(0)}" y1="300" x2="${X(9.6)}" y2="300" stroke="${C.ink}" stroke-width="3" marker-end="url(#ah)"/>`;
   for (let v = 0; v <= 9; v++) b += `<line x1="${X(v)}" y1="294" x2="${X(v)}" y2="306" stroke="${C.ink}" stroke-width="2.5"/>` + t(X(v), 330, String(v), { size: 16, anchor: 'middle' });
-  b += t(450, 362, 'number of suspicious words', { size: 15, anchor: 'middle', fill: C.muted });
+  b += t(860, 362, 'number of suspicious words', { size: 15, anchor: 'end', fill: C.muted });
   b += `<rect x="${X(4.5)}" y="150" width="${X(9.6) - X(4.5)}" height="140" fill="${C.cream}" opacity="0.7"/>` + `<rect x="${X(0)}" y="150" width="${X(4.5) - X(0)}" height="140" fill="${C.tealLight}" opacity="0.7"/>`;
   b += t(X(2.25), 176, 'not spam', { size: 17, weight: 700, anchor: 'middle', fill: C.tealDark }) + t(X(7), 176, 'spam', { size: 17, weight: 700, anchor: 'middle', fill: C.olive });
   [1, 2, 0, 3].forEach((v) => { b += dot(X(v), 272, C.panel, 10); });
@@ -188,7 +188,7 @@ const dot = (x, y, f, r = 9, shape = 'c') => shape === 'c' ? `<circle cx="${x}" 
   b += `<line x1="${X(1.5)}" y1="236" x2="${X(1.5)}" y2="256" stroke="${C.tealDark}" stroke-width="3"/>` + t(X(1.5), 228, 'avg 1.5', { size: 15, anchor: 'middle', fill: C.tealDark, weight: 600 });
   b += `<line x1="${X(7.5)}" y1="236" x2="${X(7.5)}" y2="256" stroke="${C.olive}" stroke-width="3"/>` + t(X(7.5), 228, 'avg 7.5', { size: 15, anchor: 'middle', fill: C.olive, weight: 600 });
   b += dot(X(4), 404, C.mustard, 10) + t(X(4), 432, '', {});
-  b += apath(`M${X(4)},392 L${X(4)},312`, C.ink, 'ah', 2.5) + apath(`M${X(5)},392 L${X(5)},312`, C.ink, 'ah', 2.5);
+  b += apath(`M${X(4)},392 L${X(4)},342`, C.ink, 'ah', 2.5) + apath(`M${X(5)},392 L${X(5)},342`, C.ink, 'ah', 2.5);
   b += dot(X(5), 404, C.mustard, 10);
   b += t(X(4) - 18, 410, 'new email, 4 words → not spam', { size: 15, anchor: 'end', weight: 600, fill: C.tealDark });
   b += t(X(5) + 18, 410, 'new email, 5 words → spam', { size: 15, weight: 600, fill: C.olive });
@@ -213,7 +213,7 @@ const dot = (x, y, f, r = 9, shape = 'c') => shape === 'c' ? `<circle cx="${x}" 
   b += t(220, 130, 'Cause', { size: 17, weight: 700, anchor: 'middle', fill: C.muted }) + t(500, 130, 'Effect', { size: 17, weight: 700, anchor: 'middle', fill: C.muted }) + t(760, 130, 'Response / question', { size: 17, weight: 700, anchor: 'middle', fill: C.muted });
   let y = 146;
   issues.forEach(([h, c, e, r]) => {
-    const hh = 150;
+    const hh = 172;
     b += t(30, y + 22, h, { size: 19, weight: 700, fill: C.rust });
     b += box(30, y + 36, 340, hh - 40, PINK, C.rust, 10) + para(48, y + 66, c, 36, { size: 15 }, 20);
     b += arrow(374, y + 36 + (hh - 40) / 2, 392, y + 36 + (hh - 40) / 2, { w: 3 });

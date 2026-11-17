@@ -24,7 +24,7 @@
   "after": "## Supervised and unsupervised learning",
   "alt": "Supervised learning uses labelled data: classification separates two labelled categories with a boundary and places a new point in one, and regression fits a line to predict a number such as a house price from its size. Unsupervised learning uses unlabelled points and finds clusters, such as groups of customers with similar buying habits.",
   "caption": "Labelled data means supervised; finding groups without answers means unsupervised.",
-  "bytes": 134674
+  "bytes": 135302
  },
  {
   "file": "ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--04-threshold-trace.webp",
@@ -42,15 +42,15 @@
   "after": "## Worked example: learning a rule from data",
   "alt": "A number line of suspicious words. The four not-spam training emails (0 to 3 words) average 1.5 and the four spam emails (6 to 9 words) average 7.5; the threshold 4.5 lies halfway. A new email with 5 suspicious words is classified as spam and one with 4 is not.",
   "caption": "The threshold comes from the data, so retraining on new emails would move it.",
-  "bytes": 56760
+  "bytes": 57084
  },
  {
   "file": "ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--06-ethical-issues.webp",
   "width": 900,
-  "height": 746,
+  "height": 812,
   "after": "## What ethical issues does machine learning raise?",
   "alt": "Three ethical issues traced from cause to effect to response: biased training data leads a model to repeat unfairness, answered by balanced data, testing across groups and human review; hard-to-explain models leave people unable to challenge decisions, raising accountability; and training large models costs energy, hardware and cooling, to be weighed against the benefit.",
   "caption": "Link each ethical issue to the scenario’s data and users, then weigh it against the benefits.",
-  "bytes": 153158
+  "bytes": 154710
  }
 ]

@@ -1,0 +1,56 @@
+[
+ {
+  "file": "oxfordaqa-igcse-geography-9230-photographs-sketches--01-photo-viewpoints.webp",
+  "width": 900,
+  "height": 721,
+  "after": "## Types of photograph",
+  "alt": "Camera positions for four kinds of photograph: ground level looking across, oblique aerial at an angle, vertical aerial looking straight down and satellite from space. A table gives what each is best for and its limitation.",
+  "caption": "Where the camera is decides what a photograph can show.",
+  "bytes": 98556
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-photographs-sketches--02-dividing-photo.webp",
+  "width": 900,
+  "height": 768,
+  "after": "## Reading a photograph systematically",
+  "alt": "A schematic river-valley photograph divided into background, middle ground and foreground, and into left, centre and right thirds. Below, the four categories to work through, landforms, natural vegetation, land use and settlement, and an example of locating a feature: in the left foreground there is a narrow river with large boulders.",
+  "caption": "Divide the photograph, then say where each feature is.",
+  "bytes": 108170
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-photographs-sketches--03-direction-of-view.webp",
+  "width": 900,
+  "height": 631,
+  "after": "## Matching a photograph to a map",
+  "alt": "A fictional plan map with a river, a bridge and a church. A camera in the south-west of the map points towards both features, so the photograph was taken looking north-east. Steps: identify two features, locate them on the map with grid references, and give the direction as a compass point.",
+  "caption": "Two features on both the photograph and the map fix the direction of view.",
+  "bytes": 98864
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-photographs-sketches--04-field-sketch.webp",
+  "width": 900,
+  "height": 638,
+  "after": "## Drawing a field sketch from a photograph",
+  "alt": "A field sketch of the worked-example river valley: a bare rounded hilltop, steep wooded valley sides, a narrow V-shaped valley and a narrow fast river with large boulders, annotated as carrying a heavy load in flood. Beside it, six steps from drawing the frame to adding a title and direction of view.",
+  "caption": "Simple outlines, clear labels and a title with direction of view.",
+  "bytes": 129442
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-photographs-sketches--05-sketch-vs-map.webp",
+  "width": 900,
+  "height": 558,
+  "after": "## Sketch maps",
+  "alt": "A field sketch shows a view from one point looking across the land, with a title, direction of view, labels and annotations. A sketch map shows a layout from above, here a river, a transect and four numbered sampling sites, with a north arrow, an approximate scale and a key if symbols are used.",
+  "caption": "A field sketch looks across; a sketch map looks down.",
+  "bytes": 78608
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-photographs-sketches--06-label-annotation.webp",
+  "width": 900,
+  "height": 469,
+  "after": "## Labels and annotations",
+  "alt": "Two examples. The label “Beach” becomes the annotation “Wide sandy beach, built up by constructive waves in a sheltered bay”; the label “Housing” becomes “Terraced housing close to the old town centre, high density”.",
+  "caption": "A label names; an annotation explains, often with a process or reason.",
+  "bytes": 72428
+ }
+]
