@@ -71,6 +71,18 @@ Language names vary: Python `//` and `%`; Visual Basic `\` and `Mod`; C# `%` for
 Brackets → `*`, `/`, `DIV`, `MOD` → `+`, `-`. So `10 - 6 / 2 = 7` but `(10 - 6) / 2 = 2`.
 Averages need brackets: `(a + b + c) / 3`.
 
+## Quick trace to remember
+
+```
+n ← 247
+tens ← (n DIV 10) MOD 10
+OUTPUT tens
+```
+
+`247 DIV 10 = 24`, then `24 MOD 10 = 4`, so `4` (the tens digit) is output. Combining `DIV` to shift the number
+right and `MOD` to keep the last digit picks out any digit: `(n DIV 100) MOD 10` gives the hundreds digit, `2`.
+Questions often hide this pattern inside a loop, so trace each expression in its own column.
+
 ## Key terms
 
 | Term | Meaning |

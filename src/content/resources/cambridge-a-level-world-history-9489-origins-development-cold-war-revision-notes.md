@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "historical-interpretations-9489"
     subtopic: "origins-development-cold-war-9489"
-description: "Revision notes for Cambridge 9489 Paper 3 Cold War interpretations: the schools, historians and their approaches, the 1941-49 evidence, exam traps and a self-test."
+description: "Revision notes for Cambridge 9489 Paper 3 Cold War interpretations: the schools, historians and approaches, the 1941-49 evidence, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
