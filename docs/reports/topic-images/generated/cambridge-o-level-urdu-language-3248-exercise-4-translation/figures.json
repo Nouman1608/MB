@@ -1,0 +1,74 @@
+[
+ {
+  "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--01-objectives.webp",
+  "width": 900,
+  "height": 680,
+  "after": "## What the objectives mean for translation",
+  "alt": "Exercise 4 is a translation of about 150 words from English into Urdu for 15 marks, testing W1 to W5: every idea present, links kept as Urdu connectives, accurate grammar and word order, Urdu punctuation and spelling, and the original tone.",
+  "caption": "Every idea, accurately, in natural Urdu and the right tone.",
+  "bytes": 101276
+ },
+ {
+  "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--02-word-order.webp",
+  "width": 900,
+  "height": 576,
+  "after": "## Six changes English needs",
+  "alt": "The English sentence \"She gave the book to her brother\" (subject, verb, object) becomes اس نے کتاب اپنے بھائی کو دی۔ (subject, object, verb), with the verb moved to the end and کو after the noun. میں گیا بازار کل keeps English order and is wrong.",
+  "caption": "Subject, object, verb: move the verb to the end of the Urdu sentence.",
+  "bytes": 76734
+ },
+ {
+  "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--03-tense-and-aspect.webp",
+  "width": 900,
+  "height": 851,
+  "after": "## Six changes English needs",
+  "alt": "Six English tenses with their Urdu equivalents, from the habitual جاتا ہوں and continuous جا رہا ہوں to the perfect کر لیا ہے or کر چکا ہوں, the pluperfect جا چکا تھا and the habitual past کھیلا کرتا تھا. \"I have been learning Urdu for two years\" becomes میں دو سال سے اردو سیکھ رہا ہوں۔",
+  "caption": "Translate what the tense means; \"for two years\" becomes دو سال سے with a continuous present.",
+  "bytes": 106790
+ },
+ {
+  "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--04-articles-gender-register.webp",
+  "width": 900,
+  "height": 842,
+  "after": "## Six changes English needs",
+  "alt": "Three changes. \"The\" is not translated and \"a\" becomes ایک only for something new (ایک آدمی نے دروازہ کھٹکھٹایا، دروازہ کھلا تھا). Gender must be chosen: پرانا مکان but پرانی عمارت. Register: تم to a friend, آپ to a teacher, and میرے دادا کہتے ہیں rather than کہتا ہے.",
+  "caption": "English gives no help with gender or respect: decide both, then keep them consistent.",
+  "bytes": 102966
+ },
+ {
+  "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--05-idioms.webp",
+  "width": 900,
+  "height": 604,
+  "after": "## Six changes English needs",
+  "alt": "Three English idioms rendered by meaning: \"It was raining cats and dogs\" as موسلا دھار بارش ہو رہی تھی, \"I am over the moon\" as میں بے حد خوش ہوں, and \"He kept his word\" as اس نے اپنا وعدہ پورا کیا.",
+  "caption": "Translate what the idiom means, never its words.",
+  "bytes": 67696
+ },
+ {
+  "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--06-exam-process.webp",
+  "width": 900,
+  "height": 758,
+  "after": "## A process for the exam",
+  "alt": "Six steps: read the whole passage for meaning and tone, mark difficulties, translate sentence by sentence, never leave a gap, read the Urdu on its own to check it sounds natural and agrees, and finally check names, numbers and punctuation.",
+  "caption": "A paraphrase keeps the meaning; a blank loses it.",
+  "bytes": 112456
+ },
+ {
+  "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--07-worked-example.webp",
+  "width": 900,
+  "height": 1096,
+  "after": "## Worked example",
+  "alt": "Five English sentences and their Urdu translations, for example \"Last summer my family visited Murree for the first time\" as پچھلی گرمیوں میں میرے گھر والے پہلی بار مری گئے۔, with notes on plural agreement, expanding \"crowded\", keeping the relative clause, the oblique ڈھابے پر, and the future negative.",
+  "caption": "Each sentence keeps its meaning and its links, and reads as natural Urdu.",
+  "bytes": 208038
+ },
+ {
+  "file": "cambridge-o-level-urdu-language-3248-exercise-4-translation--08-punctuation-and-structures.webp",
+  "width": 900,
+  "height": 668,
+  "after": "## Numbers, names, dates and punctuation",
+  "alt": "English full stops, commas and question marks become ۔، and ؟. Days and times: پیر کو، پانچ بجے، 2025 میں. \"There is a park near my house\" becomes میرے گھر کے قریب ایک پارک ہے۔: place, then the thing, then ہے.",
+  "caption": "Swap the punctuation, and build \"there is\" as place, thing, ہے.",
+  "bytes": 71820
+ }
+]

@@ -308,7 +308,7 @@ const ln = (x1, y1, x2, y2, c = C.ink, w = 2.5) => `<line x1="${x1}" y1="${y1}" 
 
 // 01 Demographic chain
 {
-  const Y = 110;
+  const Y = 140;
   let b = '';
   b += box(30, Y, 260, 90, 'Falling birth rate', { body: 'contraception, women’s careers, cost of children', fill: C.cream, edge: C.olive });
   b += box(30, Y + 110, 260, 90, 'Rising life expectancy', { body: 'diet, sanitation, medicine', fill: C.cream, edge: C.olive });
@@ -320,13 +320,13 @@ const ln = (x1, y1, x2, y2, c = C.ink, w = 2.5) => `<line x1="${x1}" y1="${y1}" 
   b += box(620, Y + 220, 250, 90, 'Sandwich generation more likely', { body: 'bigger age gap between generations', fill: C.tealLight, edge: C.tealDark });
   b += arrow(569, Y + 85, 614, Y + 45, { color: C.tealDark, marker: 'ahT' }) + arrow(569, Y + 120, 614, Y + 155, { color: C.tealDark, marker: 'ahT' });
   b += arrow(294, Y + 265, 614, Y + 265, { color: C.tealDark, marker: 'ahT' });
-  b += T(160, Y + 340, 'CAUSES', { size: 16, weight: 700, anchor: 'middle', fill: C.olive }) + T(745, Y + 340, 'EFFECTS ON FAMILY LIFE', { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark });
+  b += T(160, Y - 12, 'CAUSES', { size: 16, weight: 700, anchor: 'middle', fill: C.olive }) + T(745, Y - 12, 'EFFECTS ON FAMILY LIFE', { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark });
   // shapes
-  const y2 = Y + 370;
+  const y2 = Y + 345;
   b += panel(30, y2, 410, 220) + panel(460, y2, 410, 220);
   b += T(235, y2 + 34, 'Wide, short family tree', { size: 18, weight: 700, anchor: 'middle' }) + T(665, y2 + 34, 'Long, thin beanpole', { size: 18, weight: 700, anchor: 'middle' });
   [[-1, 5], [0, 7]].forEach(([g, n], gi) => { const yy = y2 + 90 + gi * 70; const x0 = 235 - ((n - 1) * 44) / 2; b += ln(x0, yy, x0 + (n - 1) * 44, yy); for (let i = 0; i < n; i++) b += ad(x0 + i * 44, yy, gi ? C.teal : C.mustard); if (gi) b += ln(235, yy - 70, 235, yy); });
-  [0, 1, 2, 3].forEach((g) => { const yy = y2 + 64 + g * 46; b += ln(645, yy, 685, yy) + ad(645, yy, [C.mustard, C.cream, C.teal, C.tealLight][g]) + ad(685, yy, [C.mustard, C.cream, C.teal, C.tealLight][g]); if (g) b += ln(665, yy - 46, 665, yy); });
+  [0, 1, 2, 3].forEach((g) => { const yy = y2 + 72 + g * 40; b += ln(645, yy, 685, yy) + ad(645, yy, [C.mustard, C.cream, C.teal, C.tealLight][g]) + ad(685, yy, [C.mustard, C.cream, C.teal, C.tealLight][g]); if (g) b += ln(665, yy - 40, 665, yy); });
   b += T(235, y2 + 206, 'two generations, many in each', { size: 15, anchor: 'middle', fill: C.muted }) + T(780, y2 + 136, 'four', { size: 15, anchor: 'middle', fill: C.muted }) + T(780, y2 + 154, 'generations', { size: 15, anchor: 'middle', fill: C.muted });
   add('01-demographic-change',
     svg(900, y2 + 220 + 28, 'From demographic trends to family life', b),
