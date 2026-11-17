@@ -141,7 +141,7 @@ with ending), each method is linked to a perspective, and the context is one cla
 
 Related: [Paper 2 study guide](/resources/aqa-gcse-english-language-paper-2/) |
 [Paper 2 practice questions](/resources/gcse-english-language-paper-2-practice/) |
-[summary and synthesis in depth](/resources/aqa-gcse-english-language-8700-summary-and-synthesis/)
+[summary and synthesis study guide](/resources/aqa-gcse-english-language-summary-and-synthesis/)
 
 ## Official syllabus
 

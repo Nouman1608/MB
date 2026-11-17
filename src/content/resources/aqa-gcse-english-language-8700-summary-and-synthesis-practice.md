@@ -27,8 +27,8 @@ featured: false
 > unseen extracts. Use these alongside the official past papers available free
 > from your board.
 
-Related: [summary and synthesis in depth](/resources/aqa-gcse-english-language-8700-summary-and-synthesis/) |
-[summary and synthesis revision notes](/resources/aqa-gcse-english-language-8700-summary-and-synthesis-revision-notes/) |
+Related: [summary and synthesis study guide](/resources/aqa-gcse-english-language-summary-and-synthesis/) |
+[summary and synthesis revision notes](/resources/aqa-gcse-english-language-summary-and-synthesis-revision-notes/) |
 [Paper 2 practice questions](/resources/gcse-english-language-paper-2-practice/)
 
 Every passage on this page is original, written for these questions. Questions 7 to 11 use the same pair of sources,
