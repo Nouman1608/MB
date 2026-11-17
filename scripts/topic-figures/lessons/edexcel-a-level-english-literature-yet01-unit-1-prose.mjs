@@ -478,7 +478,7 @@ function venn(Y, leftYear, rightYear, cols, o = {}) {
   const sy = y;
   s += `<line x1="70" y1="${sy + 26}" x2="830" y2="${sy + 26}" stroke="${C.ink}" stroke-width="4" marker-start="url(#ah)" marker-end="url(#ah)"/>`;
   s += T(70, sy + 58, 'product of his society', { size: 16, weight: 700, fill: C.tealDark }) + T(830, sy + 58, 'villain', { size: 16, weight: 700, anchor: 'end', fill: C.rust });
-  const pos = [0.15, 0.3, 0.2, 0.7, 0.85];
+  const pos = [0.06, 0.3, 0.18, 0.7, 0.85];
   pos.forEach((p, i) => { s += badge(90 + p * 720, sy + 26, 15, String(i + 1), i >= 3 ? C.cream : C.tealLight); });
   y = sy + 80;
   paras.forEach(([t1, b, ao], i) => {

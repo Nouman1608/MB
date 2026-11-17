@@ -393,7 +393,7 @@ F('06-detente-to-collapse', 'Détente, renewed tension and collapse, c1969-1991'
       ['Second détente', 'Gorbachev, from 1985', ['Reykjavik Summit (1986)', 'START treaty (1991)'], C.tealLight, C.tealDark],
       ['Collapse of communism', 'To December 1991', ['Afghanistan withdrawal complete (1989)', 'Solidarity wins elections (1989)', 'Berlin Wall opened (Nov 1989)', 'USSR collapses (Dec 1991)'], C.cream, C.olive],
     ];
-    return stack(y, ph.map(([t1, sub, list, f, e]) => ({ kicker: sub, title: t1, body: list.join('  ·  '), fill: f, edge: e })), { arrows: true, gap: 34, card: { size: 16, tsize: 20, bfill: C.ink, kfill: C.muted } });
+    return stack(y, ph.map(([t1, sub, list, f, e]) => ({ kicker: sub, title: t1, body: list.join('; '), fill: f, edge: e })), { arrows: true, gap: 34, card: { size: 16, tsize: 20, bfill: C.ink, kfill: C.muted } });
   },
   (y) => note(y, 'Also part of the collapse', 'Glasnost and perestroika; the Velvet Revolution in Czechoslovakia; the end of communist rule in East Germany and Hungary.', { size: 16, fill: C.panel, edge: C.olive }),
 ],

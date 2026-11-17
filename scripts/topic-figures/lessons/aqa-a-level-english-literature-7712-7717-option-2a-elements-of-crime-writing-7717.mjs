@@ -377,11 +377,12 @@ const rich = (x, y, segs, o = {}) => `<text x="${x}" y="${y}" font-size="${o.siz
     ['and walked ahead, and did not turn. He sunk', 'unsaid'],
     ['without a sound.', 'unsaid'],
   ];
-  s += panel(30, y2, 470, 5 * 34 + 64) + T(52, y2 + 34, 'Original poem', { size: 16, weight: 700, fill: C.muted });
+  s += panel(30, y2, 470, 5 * 34 + 96) + T(52, y2 + 34, 'Original poem', { size: 16, weight: 700, fill: C.muted });
   lines.forEach(([l, k], i) => {
     const y = y2 + 70 + i * 34;
     s += `<rect x="44" y="${y - 22}" width="8" height="30" rx="3" fill="${k === 'said' ? C.teal : C.rust}"/>` + T(64, y, l, { size: 17, italic: true });
   });
+  s += `<rect x="52" y="${y2 + 236}" width="8" height="20" rx="3" fill="${C.teal}"/>` + T(68, y2 + 252, 'said to the magistrate', { size: 15, fill: C.muted }) + `<rect x="260" y="${y2 + 236}" width="8" height="20" rx="3" fill="${C.rust}"/>` + T(276, y2 + 252, 'not said', { size: 15, fill: C.muted });
   const ax = 520, aw = 350;
   const anns = [
     { title: 'Public testimony', body: 'Facts all true and all irrelevant: the legal register becomes a mask.', fill: C.tealLight, edge: C.tealDark },
@@ -390,7 +391,7 @@ const rich = (x, y, segs, o = {}) => `<text x="${x}" y="${y}" font-size="${o.siz
   ];
   let ay = y2;
   anns.forEach((a) => { const c = card(ax, ay, aw, { ...a, tsize: 17, size: 15, pad: 14 }); s += c.s; ay += c.h + 10; });
-  const yb = Math.max(y2 + 5 * 34 + 64, ay - 10) + 18;
+  const yb = Math.max(y2 + 5 * 34 + 96, ay - 10) + 18;
   const n = note(yb, 'A crime of omission: a confession to the reader but not to the law, inviting both repugnance and a troubled sympathy.', { title: 'The argument' });
   s += n.s;
   add('04-unseen-passage',
