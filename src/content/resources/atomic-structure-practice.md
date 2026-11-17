@@ -35,6 +35,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-09-01
+updatedDate: 2026-11-17
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
