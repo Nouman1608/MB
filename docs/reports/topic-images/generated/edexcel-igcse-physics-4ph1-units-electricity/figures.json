@@ -1,0 +1,65 @@
+[
+ {
+  "file": "edexcel-igcse-physics-4ph1-units-electricity--01-seven-units.webp",
+  "width": 900,
+  "height": 770,
+  "after": "## The seven units",
+  "alt": "A table of the seven units: ampere (A) for current, Q = I × t; coulomb (C) for charge; joule (J) for energy, E = I × V × t and E = Q × V; ohm (Ω) for resistance, V = I × R; second (s) for time; volt (V) for voltage; watt (W) for power, P = I × V. V is both the quantity and the unit.",
+  "caption": "Seven units, each tied to a quantity and an equation.",
+  "bytes": 87238
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-units-electricity--02-unit-definitions.webp",
+  "width": 900,
+  "height": 770,
+  "after": "## What each unit means",
+  "alt": "Five definitions: 1 A = 1 C/s; 1 V = 1 J/C; 1 Ω = 1 V/A; 1 W = 1 J/s; 1 J = 1 A × 1 V × 1 s. A watt is an ampere times a volt because (1 C/s) × (1 J/C) = 1 J/s, with the coulombs cancelling.",
+  "caption": "Ampere, volt, ohm and watt are each a ratio of other units.",
+  "bytes": 74480
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-units-electricity--03-volt-meaning.webp",
+  "width": 900,
+  "height": 720,
+  "after": "## What each unit means",
+  "alt": "A 9 V battery gives 9 J to every coulomb of charge that passes through it, and a 1.5 V cell gives 1.5 J to each coulomb. One volt means one joule transferred per coulomb.",
+  "caption": "Voltage is energy per coulomb: a 9 V battery gives each coulomb 9 J.",
+  "bytes": 73936
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-units-electricity--04-prefixes.webp",
+  "width": 900,
+  "height": 760,
+  "after": "## Prefixes you will meet",
+  "alt": "A ladder of prefixes: mega (M, × 10⁶), as in 1.5 MJ = 1 500 000 J; kilo (k, × 10³), as in 2.2 kΩ = 2200 Ω and 3.0 kW = 3000 W; the base unit; milli (m, × 10⁻³), as in 250 mA = 0.250 A; micro (μ, × 10⁻⁶), as in 40 μA = 4.0 × 10⁻⁵ A. Times convert to seconds: 5 minutes = 300 s, 2 hours = 7200 s.",
+  "caption": "Big prefixes multiply up, small ones divide down; case matters.",
+  "bytes": 78536
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-units-electricity--05-kettle-example.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## Worked example 1: a kettle",
+  "alt": "A kettle heater on 230 V mains with an ammeter reading 9.0 A and a voltmeter across the heater, switched on for 2.5 minutes. Power P = 9.0 × 230 = 2070 W ≈ 2.1 kW. With t = 150 s, energy E = 9.0 × 230 × 150 = 310 500 J ≈ 310 kJ.",
+  "caption": "Convert minutes to seconds first, and W to kW and J to kJ at the end.",
+  "bytes": 61924
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-units-electricity--06-sensor-example.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## Worked example 2: a small current",
+  "alt": "A sensor draws 20 mA from a 5.0 V supply. Converting, I = 0.020 A and 1 hour = 3600 s. R = 5.0 / 0.020 = 250 Ω and Q = 0.020 × 3600 = 72 C. Using 20 instead of 0.020 gives 0.25 Ω, a thousand times too small.",
+  "caption": "Convert mA to A before dividing, or the answer is a thousand times out.",
+  "bytes": 70728
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-units-electricity--07-unit-checks.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## Checking with units",
+  "alt": "Unit checks: E = Q × V gives C × J/C = J; E = I × V × t gives (C/s) × (J/C) × s = J; P = I × V gives (C/s) × (J/C) = J/s = W. A \"resistance\" calculated as V × I has the unit W, not Ω, so it was rearranged wrongly.",
+  "caption": "Work the units through the equation: they must give the unit of the answer.",
+  "bytes": 51312
+ }
+]

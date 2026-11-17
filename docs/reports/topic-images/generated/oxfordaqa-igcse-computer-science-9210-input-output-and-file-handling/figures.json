@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--01-keyboard-input.webp",
+  "width": 900,
+  "height": 586,
+  "after": "## Keyboard input",
+  "alt": "The display shows the prompt \"Enter your age\" and the user types 16. USERINPUT arrives as the string \"16\", which STRING_TO_INT converts to the integer 16, ready for arithmetic. The pseudocode is OUTPUT \"Enter your age\" followed by age ← STRING_TO_INT(USERINPUT); in Python, age = int(input(\"Enter your age: \")).",
+  "caption": "Prompt the user, then convert the string that arrives before doing arithmetic.",
+  "bytes": 67288
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--02-output-data-information.webp",
+  "width": 900,
+  "height": 544,
+  "after": "## Output to the display",
+  "alt": "Two displays: 14.5 on its own is just data, while \"Total cost: 14.5\" is information because the user knows what the number means. The statement OUTPUT \"Total cost: \" + REAL_TO_STRING(total) joins fixed text to the number after converting it to a string.",
+  "caption": "Label every value you output so it becomes information.",
+  "bytes": 56796
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--03-why-text-files.webp",
+  "width": 900,
+  "height": 624,
+  "after": "## Why use text files?",
+  "alt": "Variables in a running program lose their values when it ends, but data saved to a text file on secondary storage is still there next time and can be shared with other programs. Typical uses are high scores, event logs, settings and lists of words or questions. Numbers read from a file are strings until converted.",
+  "caption": "A text file makes data persist after the program ends.",
+  "bytes": 76016
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--04-reading-a-file.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## The pattern for reading a file",
+  "alt": "A flowchart: open the file for reading, test for the end of the file, and while it is not reached read a line, process it and test again; at the end, close the file. Beside it, pseudocode that totals and counts the numbers in scores.txt and outputs total / count, with a note to check count > 0 so an empty file does not divide by zero.",
+  "caption": "Open, loop until end of file reading one line at a time, then close.",
+  "bytes": 91998
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--05-write-versus-append.webp",
+  "width": 900,
+  "height": 766,
+  "after": "## The pattern for writing a file",
+  "alt": "A log file holds two existing lines. Opened in write mode, it is replaced and holds only the new line. Opened in append mode, the new line is added after the two existing lines. The pseudocode opens log.txt for appending, writes \"Login by \" + username and closes the file.",
+  "caption": "Write mode replaces the file; append mode adds to the end.",
+  "bytes": 87332
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--06-high-score-sequence.webp",
+  "width": 900,
+  "height": 758,
+  "after": "## Worked example: a high-score table",
+  "alt": "The high-score pseudocode in four stages: input the score and convert it to an integer; open highscores.txt in append mode, write the score as a string and close; open the file for reading and loop to the end, converting each line and keeping the best; close the file and output \"Best score: \" with the result.",
+  "caption": "Convert, append, close, read every line, close, output: each step earns a mark.",
+  "bytes": 100126
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--07-open-once-outside-loop.webp",
+  "width": 900,
+  "height": 760,
+  "after": "## Worked example: writing a table",
+  "alt": "Pseudocode opens seven.txt in write mode, writes i x 7 = i * 7 for i from 1 to 12, then closes the file, giving 12 lines from 1 x 7 = 7 to 12 x 7 = 84. If the file were opened in write mode inside the loop, each pass would wipe it and only 12 x 7 = 84 would remain.",
+  "caption": "Open once before the loop and close once after it.",
+  "bytes": 71568
+ }
+]

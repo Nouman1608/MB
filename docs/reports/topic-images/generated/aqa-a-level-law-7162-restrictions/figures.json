@@ -1,0 +1,74 @@
+[
+ {
+  "file": "aqa-a-level-law-7162-restrictions--01-three-requirements.webp",
+  "width": 900,
+  "height": 703,
+  "after": "## The common structure of the second paragraphs",
+  "alt": "A flow chart. An interference with a right under Article 8.1, 10.1 or 11.1 must pass three requirements in turn: in accordance with or prescribed by law, a legitimate aim from the listed aims, and necessary in a democratic society. Failing any one means the right is breached; passing all three means the interference is justified.",
+  "caption": "All three requirements must be met, and the burden of showing them is on the state.",
+  "bytes": 93480
+ },
+ {
+  "file": "aqa-a-level-law-7162-restrictions--02-second-paragraphs.webp",
+  "width": 900,
+  "height": 723,
+  "after": "## The common structure of the second paragraphs",
+  "alt": "A table comparing Articles 8.2, 10.2 and 11.2: their opening words and their extra aims (economic well-being for 8.2; territorial integrity, confidential information and the judiciary for 10.2; restrictions on armed forces, police and state administration in 11.2). Five aims are shared by all three, from national security to protection of the rights of others. The list is exhaustive, and Article 18 limits restrictions to their prescribed purposes.",
+  "caption": "Five aims are common to all three; each paragraph then adds its own.",
+  "bytes": 144372
+ },
+ {
+  "file": "aqa-a-level-law-7162-restrictions--03-prescribed-by-law.webp",
+  "width": 900,
+  "height": 652,
+  "after": "## Requirement 1: prescribed by law",
+  "alt": "Sunday Times v UK requires a basis in domestic law that is adequately accessible and precise enough for a citizen to regulate their conduct; common law can satisfy this. The requirement fails with no legal basis (Malone v UK, telephone tapping) or a law too broad to protect against arbitrary use (Gillan and Quinton v UK, stop and search without reasonable suspicion), which led to a narrower power under the Protection of Freedoms Act 2012.",
+  "caption": "The law must exist, be accessible and be precise enough to guard against arbitrary use.",
+  "bytes": 106150
+ },
+ {
+  "file": "aqa-a-level-law-7162-restrictions--04-necessary-scale.webp",
+  "width": 900,
+  "height": 546,
+  "after": "## Requirement 3: necessary in a democratic society",
+  "alt": "A scale from stricter to looser. Handyside v UK placed “necessary” between “indispensable” and “reasonable” or “useful”: it implies a pressing social need. The state’s reasons must be relevant and sufficient and the interference proportionate to the aim.",
+  "caption": "“Necessary” is less than indispensable but more than useful.",
+  "bytes": 70178
+ },
+ {
+  "file": "aqa-a-level-law-7162-restrictions--05-bank-mellat.webp",
+  "width": 900,
+  "height": 486,
+  "after": "## Requirement 3: necessary in a democratic society",
+  "alt": "Four numbered questions from Bank Mellat v HM Treasury: sufficiently important objective; rational connection; whether a less intrusive measure could have been used, highlighted as the usual point where a ban fails; and whether the measure strikes a fair balance.",
+  "caption": "Question 3, a less intrusive alternative, is where most measures fail.",
+  "bytes": 116776
+ },
+ {
+  "file": "aqa-a-level-law-7162-restrictions--06-margin-of-appreciation.webp",
+  "width": 900,
+  "height": 619,
+  "after": "## The margin of appreciation",
+  "alt": "A wedge from wide to narrow. The margin is wide where there is no European consensus or the issue is moral, social or economic (Handyside; A, B and C v Ireland; Hatton v UK) and narrow for intimate private life (Dudgeon v UK) or political speech. English courts instead use a discretionary area of judgment.",
+  "caption": "No consensus means a wide margin; core identity or political speech means a narrow one.",
+  "bytes": 115520
+ },
+ {
+  "file": "aqa-a-level-law-7162-restrictions--07-re-s-balance.webp",
+  "width": 900,
+  "height": 622,
+  "after": "## When two qualified rights conflict",
+  "alt": "A balance with Article 8 (privacy) on one side and Article 10 (the press) on the other, level because neither has automatic priority. Below, Lord Steyn’s four propositions from Re S: no precedence, intense focus on comparative importance, consider the justifications for each, and apply proportionality to each. Campbell v MGN applied this.",
+  "caption": "Privacy and expression are weighed case by case; neither wins automatically.",
+  "bytes": 89794
+ },
+ {
+  "file": "aqa-a-level-law-7162-restrictions--08-worked-example-march.webp",
+  "width": 900,
+  "height": 757,
+  "after": "## Worked example",
+  "alt": "The march scenario worked through in five steps: the right is Article 11.1 and 10.1; the statutory power is likely prescribed by law; the aims are public safety and the rights of patients; the total ban fails the less-intrusive-means question because re-routing was offered; so Article 11 is likely breached.",
+  "caption": "Take the requirements in order and say which one decides the case.",
+  "bytes": 121180
+ }
+]

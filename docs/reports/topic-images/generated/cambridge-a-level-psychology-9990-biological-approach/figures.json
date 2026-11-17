@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-a-level-psychology-9990-biological-approach--01-assumptions-map.webp",
+  "width": 900,
+  "height": 866,
+  "after": "## The two assumptions, applied",
+  "alt": "Assumption 1 (brain, hormones, genetics and evolution explain behaviour) is tested by Dement and Kleitman through brain activity, Hassett et al. through hormones and evolution, and Hölzel et al. through brain structure. Assumption 2 (interaction with other factors) is shown by Hassett et al. (socialisation strengthens a difference) and Hölzel et al. (training changes the brain).",
+  "caption": "Each study tests a different part of the assumptions.",
+  "bytes": 161536
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-biological-approach--02-dement-kleitman-procedure.webp",
+  "width": 900,
+  "height": 667,
+  "after": "## Dement and Kleitman (1957): sleep and dreams",
+  "alt": "Five numbered steps: participants avoided caffeine and alcohol and arrived near bedtime, were connected to an EEG, were woken by a doorbell without being told their sleep stage, reported dreams into a recorder, and in one part estimated whether a dream had lasted five or fifteen minutes.",
+  "caption": "Standardised waking and reporting made the procedure replicable.",
+  "bytes": 106760
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-biological-approach--03-dement-kleitman-results.webp",
+  "width": 900,
+  "height": 744,
+  "after": "## Dement and Kleitman (1957): sleep and dreams",
+  "alt": "Bars show 152 of 191 REM awakenings produced a dream report compared with 11 of 160 NREM awakenings, and 92 of 111 five-or-fifteen-minute estimates were correct. Vertical eye movements matched a dream of climbing ladders; horizontal movements matched watching two people throw tomatoes.",
+  "caption": "Dream reports came mostly from REM, but not only from REM.",
+  "bytes": 98528
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-biological-approach--04-hassett-toys.webp",
+  "width": 900,
+  "height": 748,
+  "after": "## Hassett et al. (2008): monkey toy preferences",
+  "alt": "Monkeys were given a wheeled toy and a plush toy together and contacts were coded with a behavioural checklist. Illustrative bars show males interacting more with wheeled toys and females more evenly. The conclusion: hormones may contribute to the difference, which socialisation may strengthen.",
+  "caption": "Males preferred wheeled toys, as boys tend to; females were more even.",
+  "bytes": 118952
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-biological-approach--05-holzel-design.webp",
+  "width": 900,
+  "height": 867,
+  "after": "## Hölzel et al. (2011): mindfulness and brain scans",
+  "alt": "Sixteen MBSR participants and seventeen controls had MRI scans and a mindfulness questionnaire before and after eight weeks; only the MBSR group took the programme. Results show increased grey-matter concentration in the left hippocampus and other regions. Strengths and weaknesses of the design follow.",
+  "caption": "Scanning before and after, with a control group, links the change to the programme.",
+  "bytes": 168192
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-biological-approach--06-two-mark-structure.webp",
+  "width": 900,
+  "height": 391,
+  "after": "## Worked example",
+  "alt": "Two linked cards: the first mark comes from stating the assumption accurately (cognitions explained by the brain); the second from a precise finding tied to it (dream reports far more likely after REM than NREM awakenings). A note warns that a vague claim without a finding earns little.",
+  "caption": "State the assumption, then tie a precise finding to it.",
+  "bytes": 78946
+ }
+]

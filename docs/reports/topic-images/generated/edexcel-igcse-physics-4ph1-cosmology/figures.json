@@ -1,0 +1,65 @@
+[
+ {
+  "file": "edexcel-igcse-physics-4ph1-cosmology--01-big-bang-history.webp",
+  "width": 900,
+  "height": 775,
+  "after": "## The past evolution of the universe (8.13P)",
+  "alt": "A widening cone from a tiny hot point about 13.8 billion years ago to today. Along it: the universe expands and cools, the first particles and atoms of hydrogen and helium form, gravity builds stars and galaxies, and the universe is still expanding.",
+  "caption": "From tiny, hot and dense to the expanding universe of stars and galaxies today.",
+  "bytes": 116948
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-cosmology--02-red-shifted-spectral-lines.webp",
+  "width": 900,
+  "height": 575,
+  "after": "## Red-shift in galaxies",
+  "alt": "Two absorption spectra. The laboratory spectrum has dark lines at the reference wavelengths. The galaxy spectrum shows the same pattern of lines, each moved towards the longer-wavelength red end.",
+  "caption": "Same pattern of lines, all moved to longer wavelengths: the galaxy is moving away.",
+  "bytes": 75346
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-cosmology--03-red-shift-worked-examples.webp",
+  "width": 900,
+  "height": 555,
+  "after": "## The red-shift equation (8.16P)",
+  "alt": "Two worked examples. A 486 nm line seen at 495.72 nm gives Δλ / λ₀ = 0.020 and v = 6.0 × 10⁶ m/s. A galaxy receding at 1.5 × 10⁷ m/s gives v / c = 0.050, Δλ = 20.5 nm and an observed 410 nm line at 430.5 nm.",
+  "caption": "Find Δλ, divide by λ₀, and multiply by c; or work backwards and add Δλ to λ₀.",
+  "bytes": 95696
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-cosmology--04-red-shift-and-distance.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## Red-shift and distance (8.17P)",
+  "alt": "Three galaxies at increasing distances from Earth, each moving away, the furthest fastest. Under each a spectrum strip shows the same line moved further from its reference position the more distant the galaxy.",
+  "caption": "The further away a galaxy is, the bigger its red-shift and the faster it is moving away.",
+  "bytes": 79032
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-cosmology--05-balloon-analogy.webp",
+  "width": 900,
+  "height": 720,
+  "after": "## Why red-shift shows the universe is expanding (8.18P)",
+  "alt": "A balloon with five dots, small and then inflated. As the balloon stretches every dot moves away from every other, and dots that started further apart move apart more. No dot is at the centre.",
+  "caption": "Space stretches between all galaxies, so every observer sees the others moving away.",
+  "bytes": 80118
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-cosmology--06-red-shift-explanation-chain.webp",
+  "width": 900,
+  "height": 535,
+  "after": "## Why red-shift shows the universe is expanding (8.18P)",
+  "alt": "A chain of five boxes: almost all galaxies are red-shifted; further ones are moving away faster; so space is expanding; running this backwards, galaxies were once closer; so the universe began tiny, hot and dense, the Big Bang.",
+  "caption": "Link the observations in order: red-shift, faster with distance, expanding space, Big Bang.",
+  "bytes": 78276
+ },
+ {
+  "file": "edexcel-igcse-physics-4ph1-cosmology--07-cosmic-microwave-background.webp",
+  "width": 900,
+  "height": 730,
+  "after": "## Cosmic microwave background radiation (8.14P)",
+  "alt": "Three waves, each longer than the last: high-energy radiation in the hot early universe is stretched as the universe expands and is detected today as microwaves. Arrows reach Earth from every direction with almost the same intensity.",
+  "caption": "Expansion stretched the early radiation into the microwaves now arriving from every direction.",
+  "bytes": 127794
+ }
+]

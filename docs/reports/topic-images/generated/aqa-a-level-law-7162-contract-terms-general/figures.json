@@ -1,0 +1,65 @@
+[
+ {
+  "file": "aqa-a-level-law-7162-contract-terms-general--01-term-or-representation.webp",
+  "width": 900,
+  "height": 638,
+  "after": "## Part 1: express terms",
+  "alt": "A balance between term and representation. Factors pointing to a term: the statement was vital (Bannerman v White), a firm assurance (Couchman v Hill), a statement discouraging checks (Schawel v Reade), and the maker’s special knowledge (Dick Bentley). Factors pointing to a representation: no special knowledge (Oscar Chess v Williams), a long gap before contracting, and omission from the written contract (Routledge v McKay).",
+  "caption": "Importance, assurance and expertise point to a term; delay and omission to a representation.",
+  "bytes": 126618
+ },
+ {
+  "file": "aqa-a-level-law-7162-contract-terms-general--02-collateral-contract.webp",
+  "width": 900,
+  "height": 475,
+  "after": "## Part 1: express terms",
+  "alt": "The parol evidence rule says oral terms cannot be added to a written contract. The collateral contract exception: in City and Westminster Properties v Mudd, an oral assurance that the tenant could keep sleeping at the premises, given in return for signing a business-use lease, was enforced as a separate contract.",
+  "caption": "An oral promise given in return for signing can be enforced as a separate contract.",
+  "bytes": 84022
+ },
+ {
+  "file": "aqa-a-level-law-7162-contract-terms-general--03-implied-terms.webp",
+  "width": 900,
+  "height": 517,
+  "after": "## Part 2: implied terms",
+  "alt": "Ways terms are implied. In fact, into a particular contract: business efficacy (The Moorcock), the officious bystander (Shirlaw v Southern Foundries), and necessity rather than reasonableness (Marks and Spencer v BNP Paribas). In law, into all contracts of a type (Liverpool City Council v Irwin). By custom (Hutton v Warren). By statute, such as the Consumer Rights Act 2015.",
+  "caption": "Implied in fact needs necessity; implied in law covers a whole type of contract.",
+  "bytes": 107792
+ },
+ {
+  "file": "aqa-a-level-law-7162-contract-terms-general--04-classifying-a-term.webp",
+  "width": 900,
+  "height": 591,
+  "after": "## Part 3: conditions, warranties and innominate terms",
+  "alt": "Four steps to classify a term: statute; the parties’ label, which is not conclusive (Schuler v Wickman) but can be effective (Lombard North Central v Butterworth); precedent (The Mihalis Angelos; Bunge v Tradax on time clauses); otherwise the term is innominate and the effect of the breach decides.",
+  "caption": "Statute, the parties, precedent; if none decides, the term is innominate.",
+  "bytes": 90570
+ },
+ {
+  "file": "aqa-a-level-law-7162-contract-terms-general--05-hong-kong-fir.webp",
+  "width": 900,
+  "height": 430,
+  "after": "## Part 3: conditions, warranties and innominate terms",
+  "alt": "A bar for a 24-month charter with about 20 weeks shaded as out of action because of an incompetent engine crew. Much of the charter remained, so the charterers were not deprived of substantially the whole benefit and could claim damages only. The Hansa Nord applied the same approach to partly damaged citrus pulp pellets.",
+  "caption": "Ask how serious the consequences were, not what the term was called.",
+  "bytes": 76060
+ },
+ {
+  "file": "aqa-a-level-law-7162-contract-terms-general--06-certainty-vs-fairness.webp",
+  "width": 900,
+  "height": 494,
+  "after": "## Part 3: conditions, warranties and innominate terms",
+  "alt": "Two sides. Conditions give certainty but can let a party escape a bad bargain on a technicality, as in Arcos v Ronaasen. Innominate terms give fairness by matching the remedy to the breach (Hong Kong Fir; Reardon Smith Line). The courts treat commercially important time clauses as conditions (Bunge) and most other terms as innominate.",
+  "caption": "Conditions give certainty; innominate terms give fairness.",
+  "bytes": 107184
+ },
+ {
+  "file": "aqa-a-level-law-7162-contract-terms-general--07-ink-tshirts-problem.webp",
+  "width": 900,
+  "height": 595,
+  "after": "## Worked problem",
+  "alt": "Kofi delivers T-shirts four days late and in a slightly lighter blue. The delivery date is probably a condition (Bunge v Tradax), so Ink may terminate. The colour clause is probably innominate and the slight difference does not deprive Ink of substantially the whole benefit (Hong Kong Fir; Hansa Nord), so damages only.",
+  "caption": "Classify each term separately, then decide termination or damages.",
+  "bytes": 122940
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd--01-obsessions-compulsions.webp",
+  "width": 900,
+  "height": 716,
+  "after": "## 1.5.1 Diagnosis and measurement",
+  "alt": "Obsessions (intrusive thoughts, images or urges) drive compulsions (behaviours or mental acts). Four pairs follow: contamination leads to washing; harm to checking; symmetry to ordering; unwanted aggressive, sexual or religious thoughts to mental rituals, praying or reassurance-seeking. Cards cover severity and the insight specifier.",
+  "caption": "Each type of obsession has its typical compulsion.",
+  "bytes": 141114
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd--02-moci-ybocs.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## 1.5.1 Diagnosis and measurement",
+  "alt": "The MOCI is a self-report of 30 true or false items with checking, cleaning, slowness and doubting subscales. The Y-BOCS is a clinician-rated interview of 10 items, five on obsessions and five on compulsions, each scored 0 to 4 for a total of 0 to 40. Evaluation points for each follow.",
+  "caption": "MOCI: 30 quick true/false items. Y-BOCS: 10 clinician-rated items, 0 to 40.",
+  "bytes": 137776
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd--03-cognitive-explanation.webp",
+  "width": 900,
+  "height": 722,
+  "after": "### Psychological",
+  "alt": "An intrusive thought, which most people have, is interpreted as meaningful and dangerous through thinking errors: inflated responsibility, overestimation of threat and thought-action fusion. The compulsion is an attempt to prevent harm and reduce responsibility. An evaluation line follows.",
+  "caption": "Thinking errors turn ordinary intrusive thoughts into obsessions.",
+  "bytes": 107656
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd--04-psychodynamic.webp",
+  "width": 900,
+  "height": 650,
+  "after": "### Psychological",
+  "alt": "Conflict between the id's unacceptable impulses and the ego's attempts to control them, with anal-stage fixation producing a preoccupation with order and cleanliness. Three defence mechanisms are shown: undoing, isolation and reaction formation. A strength and weaknesses follow.",
+  "caption": "Freud saw compulsions as defences against unacceptable impulses.",
+  "bytes": 97238
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd--05-erp-habituation.webp",
+  "width": 900,
+  "height": 668,
+  "after": "## 1.5.3 Treatment and management",
+  "alt": "An illustrative graph of anxiety after a trigger. If the compulsion is performed, anxiety drops quickly, which negatively reinforces it. If the response is prevented, anxiety rises and then falls on its own through habituation, so the person learns the feared outcome does not occur.",
+  "caption": "Preventing the ritual lets anxiety fall on its own and breaks the reinforcement.",
+  "bytes": 106286
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd--06-lovell-2006.webp",
+  "width": 900,
+  "height": 864,
+  "after": "### Key study: Lovell et al. (2006)",
+  "alt": "Seventy-two patients with OCD were randomly allocated to ten weekly sessions of ERP-based CBT by telephone or face to face, measured with the Y-BOCS, the Beck Depression Inventory and a satisfaction questionnaire. At six months Y-BOCS scores were almost identical and both groups were satisfied. Strengths and weaknesses follow.",
+  "caption": "Telephone CBT matched face-to-face CBT at six months.",
+  "bytes": 132190
+ }
+]

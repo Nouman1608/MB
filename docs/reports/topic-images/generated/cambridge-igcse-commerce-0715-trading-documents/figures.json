@@ -1,0 +1,38 @@
+[
+ {
+  "file": "cambridge-igcse-commerce-0715-trading-documents--01-dalia-money-trail.webp",
+  "width": 900,
+  "height": 790,
+  "after": "## Worked example: the figures on the documents (invented figures)",
+  "alt": "Four document cards. Invoice: 20 chairs at $45 = $900, less 20% trade discount of $180, total $720. Credit note: 2 chairs = $90 less $18, value $72. Statement: 720 − 72 leaves $648 owed. Paying within 14 days: 5% cash discount of $32.40, so Dalia pays $615.60.",
+  "caption": "Take off trade discount first, then cash discount only if payment is made in time (invented figures).",
+  "bytes": 128500
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-trading-documents--02-international-documents.webp",
+  "width": 900,
+  "height": 705,
+  "after": "## What are the documents of international trade? (2.5.2)",
+  "alt": "Four cards: the certificate of origin states where goods were made for customs; the bill of lading is a receipt, contract evidence and document of title for sea freight; the air waybill is a receipt and contract evidence for air freight but not a document of title; documentary credit is a bank’s promise to pay the exporter.",
+  "caption": "Both carriage documents prove the goods were received, but only the bill of lading is a document of title.",
+  "bytes": 130830
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-trading-documents--03-documentary-credit.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## What are the documents of international trade? (2.5.2)",
+  "alt": "Four lanes: exporter, shipping company, importer’s bank and importer. The bank promises to pay; the exporter ships the goods and receives a bill of lading; the exporter presents the documents and the bank pays; the bill of lading passes to the buyer, who claims the goods at the port.",
+  "caption": "Payment depends on presenting the agreed documents, so the risk of non-payment falls.",
+  "bytes": 85960
+ },
+ {
+  "file": "cambridge-igcse-commerce-0715-trading-documents--04-online-ordering.webp",
+  "width": 900,
+  "height": 665,
+  "after": "## How does the online ordering process work? (2.5.3)",
+  "alt": "Eight numbered stages: browse, select into a basket, log in or check out as a guest, enter delivery details, pay securely, receive an order confirmation, receive dispatch notification with tracking, and receive the order. The basket replaces the paper order, the confirmation replaces the receipt and tracking replaces the delivery note.",
+  "caption": "Online ordering follows the same steps as paper trading, with electronic records instead of documents.",
+  "bytes": 93240
+ }
+]

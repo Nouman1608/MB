@@ -1,0 +1,74 @@
+[
+ {
+  "file": "edexcel-a-level-business-ybs11-the-market--01-movement-or-shift.webp",
+  "width": 900,
+  "height": 716,
+  "after": "## Movement along a curve or a shift?",
+  "alt": "Left: when the product’s own price falls from P1 to P2, quantity demanded extends from Q1 to Q2 along the same demand curve. Right: when another factor changes, such as a rival’s price rising, the whole demand curve shifts right from D to D1.",
+  "caption": "Own price moves you along the curve; anything else shifts it.",
+  "bytes": 91994
+ },
+ {
+  "file": "edexcel-a-level-business-ybs11-the-market--02-what-shifts-the-curves.webp",
+  "width": 900,
+  "height": 869,
+  "after": "## Shifts in practice: telling the story of a market",
+  "alt": "Demand shifts right for loose coffee when pod prices rise, for pods when machine prices fall, for mobility aids as the population ages, and with the seasons; it shifts left for products bought by young adults. Supply shifts left with an indirect tax or higher costs and right with a subsidy or new technology.",
+  "caption": "Explain the mechanism behind each shift, not just its direction.",
+  "bytes": 136724
+ },
+ {
+  "file": "edexcel-a-level-business-ybs11-the-market--03-both-curves-shift.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## Shifts in practice: telling the story of a market",
+  "alt": "Demand shifts right from D to D1 and supply shifts right from S to S1. Quantity rises from Q1 to Q2, but the effect on price depends on the relative size of the two shifts; with equal shifts, as drawn, price is unchanged.",
+  "caption": "With two shifts, one variable is certain and the other depends on their sizes.",
+  "bytes": 67162
+ },
+ {
+  "file": "edexcel-a-level-business-ybs11-the-market--04-fenwick-indirect-tax.webp",
+  "width": 900,
+  "height": 780,
+  "after": "## Worked example 1: an indirect tax",
+  "alt": "Demand Qd = 900 − 30P and supply Qs = 100 + 50P meet at $10 and 600 cartons. A $1.60 tax shifts supply left to Qs = 20 + 50P, giving a new equilibrium at $11 and 570 cartons. The price rises by only $1.00, so each firm keeps $9.40 a carton instead of $10.",
+  "caption": "Customers pay $1.00 of the $1.60 tax; firms absorb the rest and sell less.",
+  "bytes": 93038
+ },
+ {
+  "file": "edexcel-a-level-business-ybs11-the-market--05-constructing-a-diagram.webp",
+  "width": 900,
+  "height": 736,
+  "after": "## Drawing a demand and supply diagram",
+  "alt": "A labelled diagram with demand shifting right from D to D1. Numbered points show the five elements: labelled axes, labelled D and S curves, the original equilibrium with dotted lines to P1 and Q1, the shifted curve with a direction arrow, and the new equilibrium at P2 and Q2.",
+  "caption": "Five labels turn a sketch into a constructed diagram.",
+  "bytes": 106532
+ },
+ {
+  "file": "edexcel-a-level-business-ybs11-the-market--06-ped-and-revenue.webp",
+  "width": 900,
+  "height": 740,
+  "after": "## Price elasticity of demand: beyond the formula",
+  "alt": "A PED scale from 0 to above 1. A price rise raises revenue when demand is perfectly inelastic or inelastic, leaves it unchanged at 1 and reduces it when demand is elastic. Demand is more elastic with close substitutes, non-necessities, a large share of income, little loyalty and more time. Pricing decisions are about profit, not just revenue.",
+  "caption": "PED predicts what a price change does to revenue; profit also depends on costs.",
+  "bytes": 113072
+ },
+ {
+  "file": "edexcel-a-level-business-ybs11-the-market--07-brockley-price-rise.webp",
+  "width": 900,
+  "height": 866,
+  "after": "## Worked example 2: choosing between price rises",
+  "alt": "Brockley Gyms earns $400,000 a month from 10,000 members at $40. A 10% rise to $44 gives $422,400 (up $22,400) if PED is −0.4 and members fall to 9,600, but $360,800 (down $39,200) if PED is −1.8 and members fall to 8,200. Long contracts and few rivals point to −0.4; nearby budget gyms point to −1.8.",
+  "caption": "The same price rise gains or loses revenue depending on the PED estimate.",
+  "bytes": 85292
+ },
+ {
+  "file": "edexcel-a-level-business-ybs11-the-market--08-yed-brockley.webp",
+  "width": 900,
+  "height": 746,
+  "after": "## Income elasticity of demand",
+  "alt": "A YED scale: below 0 inferior, 0 to +1 normal and income inelastic, above +1 normal and income elastic. Brockley’s off-peak budget membership falls 2% when incomes rise 5% (YED −0.4, inferior); its premium personal training rises 9% (YED +1.8, income elastic).",
+  "caption": "Positive YED means a normal good, negative an inferior one; the size shows how strongly demand follows income.",
+  "bytes": 110102
+ }
+]

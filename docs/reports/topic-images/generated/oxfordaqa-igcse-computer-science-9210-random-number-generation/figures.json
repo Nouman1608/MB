@@ -1,0 +1,56 @@
+[
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-random-number-generation--01-inclusive-ranges.webp",
+  "width": 900,
+  "height": 762,
+  "after": "## Generating a random integer",
+  "alt": "RANDOM_INT(1, 6) in pseudocode and random.randint(1, 6) in Python can each return 1, 2, 3, 4, 5 or 6, with both ends included. In C#, rnd.Next(1, 7) excludes the upper value 7, so its maximum is 6.",
+  "caption": "Pseudocode and Python include both ends; C# excludes the upper value.",
+  "bytes": 81366
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-random-number-generation--02-random-index-range.webp",
+  "width": 900,
+  "height": 730,
+  "after": "## Choosing the right range",
+  "alt": "An array items has indexes 0 to LEN − 1. RANDOM_INT(0, LEN(items) - 1) covers exactly those indexes. RANDOM_INT(0, LEN(items)) can produce LEN, which does not exist, and RANDOM_INT(1, LEN(items)) misses index 0 and can also go past the end.",
+  "caption": "For a random index, use RANDOM_INT(0, LEN(items) - 1).",
+  "bytes": 83262
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-random-number-generation--03-random-chances.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## Using a random number for a choice",
+  "alt": "RANDOM_INT(1, 10) ≤ 3 is True for 3 of the 10 equally likely values, a 30% chance. For several outcomes, r ← RANDOM_INT(1, 4) is stored once and tested: 1 gives Sun, 2 gives Rain, and 3 or 4 give Cloud, so Cloud has a 2 in 4 chance and the others 1 in 4.",
+  "caption": "Compare with a threshold for one chance; store one value and test it for several outcomes.",
+  "bytes": 88208
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-random-number-generation--04-guessing-game-trace.webp",
+  "width": 900,
+  "height": 770,
+  "after": "## Worked example: a guessing game",
+  "alt": "The guessing game pseudocode generates target with RANDOM_INT(1, 50) once, before a REPEAT … UNTIL loop. On a number line from 1 to 50 with target 29, the guesses 40, 20 and 29 give the outputs Too high, Too low, then Correct in 3 guesses.",
+  "caption": "Generate the target once, before the loop; a trace question tells you its value.",
+  "bytes": 102154
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-random-number-generation--05-dice-simulation-counts.webp",
+  "width": 900,
+  "height": 674,
+  "after": "## Worked example: simulating dice rolls",
+  "alt": "An array counts holds six counters at indexes 0 to 5. Each of 600 rolls from RANDOM_INT(1, 6) adds 1 to counts[roll - 1], so a roll of 1 is counted at index 0 and a roll of 6 at index 5. Each face should appear roughly 100 times, but the counts change every run.",
+  "caption": "Faces 1 to 6 are counted at indexes 0 to 5, so use roll − 1 as the index.",
+  "bytes": 78644
+ },
+ {
+  "file": "oxfordaqa-igcse-computer-science-9210-random-number-generation--06-two-dice-not-one.webp",
+  "width": 900,
+  "height": 696,
+  "after": "## Two dice are not one bigger dice",
+  "alt": "RANDOM_INT(2, 12) makes every total from 2 to 12 equally likely. A grid of the 36 pairs from two real dice shows that a total of 7 happens in six ways (1+6, 2+5, 3+4, 4+3, 5+2, 6+1) but a total of 2 in only one way (1+1). The correct simulation adds two calls: RANDOM_INT(1, 6) + RANDOM_INT(1, 6).",
+  "caption": "Simulate two dice with two calls added together, not one call from 2 to 12.",
+  "bytes": 68732
+ }
+]

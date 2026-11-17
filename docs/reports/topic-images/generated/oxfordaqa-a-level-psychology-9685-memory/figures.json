@@ -1,0 +1,74 @@
+[
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-memory--01-multi-store-model.webp",
+  "width": 900,
+  "height": 486,
+  "after": "## The multi-store model",
+  "alt": "Three stores in a row. The sensory register is modality-specific, very large and very brief; attention moves information into short-term memory, which is mainly acoustic, holds about 7 plus or minus 2 items and lasts about 18 to 30 seconds without rehearsal; a rehearsal loop keeps it there and transfers it to long-term memory, which is mainly semantic, effectively unlimited and potentially lifelong; retrieval brings it back.",
+  "caption": "Attention, rehearsal and retrieval move information between three stores.",
+  "bytes": 78276
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-memory--02-msm-evidence.webp",
+  "width": 900,
+  "height": 998,
+  "after": "## The multi-store model",
+  "alt": "Evidence cards: Jacobs found spans of about 9 digits and 7 letters, Miller proposed 7 plus or minus 2 chunks and Cowan about 4; Baddeley (1966) found acoustic coding in STM and semantic in LTM. Bars show Peterson and Peterson's recall falling from about 90 percent at 3 seconds to about 10 percent or less at 18 seconds, and Bahrick et al.'s recognition of classmates at about 90 percent within 15 years and 70 percent after 48. Evaluation uses HM, KF, levels of processing and artificial stimuli.",
+  "caption": "Each store’s capacity, duration and coding rests on a named study.",
+  "bytes": 165844
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-memory--03-working-memory-model.webp",
+  "width": 900,
+  "height": 849,
+  "after": "## The working memory model",
+  "alt": "The central executive directs attention, has very limited capacity and stores nothing. Below it: the phonological loop (acoustic; phonological store and articulatory process; about two seconds of speech), the episodic buffer (added in 2000; multi-modal; a few chunks) and the visuo-spatial sketchpad (visual and spatial; a few objects). The word length effect and dual-task studies support it; the central executive is poorly specified.",
+  "caption": "Each component has its own coding and its own limited capacity.",
+  "bytes": 164846
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-memory--04-types-of-ltm.webp",
+  "width": 900,
+  "height": 657,
+  "after": "## Types of long-term memory",
+  "alt": "Three cards: episodic memory (personal experiences, explicit), semantic (facts, explicit) and procedural (skills, implicit). A table shows Clive Wearing lost most episodic memories but kept facts and could play the piano, and HM learned mirror-drawing without remembering practising. The types seem partly separate, but case studies are hard to generalise.",
+  "caption": "Amnesia can remove episodic memory while leaving skills intact.",
+  "bytes": 120218
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-memory--05-loftus-palmer.webp",
+  "width": 900,
+  "height": 613,
+  "after": "## Eyewitness testimony",
+  "alt": "Bars: mean speed estimates of 40.5 mph with the verb smashed against 31.8 mph with contacted. A week later, 32 percent of the smashed group falsely reported broken glass, against 14 percent for hit and 12 percent for controls. The broken-glass finding supports substitution, where the memory itself is altered, over response bias.",
+  "caption": "“Smashed” raised speed estimates and created false memories of broken glass.",
+  "bytes": 80172
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-memory--06-post-event-discussion.webp",
+  "width": 900,
+  "height": 601,
+  "after": "## Eyewitness testimony",
+  "alt": "Bars show 71 percent of participants who discussed the crime reported details only their partner could have seen, against 0 percent of controls: memory conformity. Laboratory films lack real emotional consequences; Yuille and Cutshall (1986) found witnesses to a real shooting stayed highly accurate months later, suggesting lab studies may overstate the problem.",
+  "caption": "Discussion led 71% to report details they never saw.",
+  "bytes": 101256
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-memory--07-cognitive-interview.webp",
+  "width": 900,
+  "height": 629,
+  "after": "## The cognitive interview",
+  "alt": "Four techniques with reasons: report everything (trivial details cue others), reinstate the context (cues from encoding), reverse the order (disrupts schemas that fill gaps) and change perspective (reduces the witness's own schemas). Köhnken et al. (1999) found more correct information, with a small rise in incorrect details, more time and a need for training.",
+  "caption": "Four techniques, each explained by how it cues or protects memory.",
+  "bytes": 109562
+ },
+ {
+  "file": "oxfordaqa-a-level-psychology-9685-memory--08-amira-application.webp",
+  "width": 900,
+  "height": 630,
+  "after": "## Worked example: an application answer",
+  "alt": "Four steps applying the multi-store model to Amira: attention moved the number into STM, maintenance rehearsal kept it there long enough to dial, STM's limited duration meant it decayed once rehearsal stopped, and brief rehearsal did not transfer it to LTM.",
+  "caption": "Pair every feature of the model with a detail from the scenario.",
+  "bytes": 99462
+ }
+]

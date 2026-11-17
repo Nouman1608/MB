@@ -1,0 +1,47 @@
+[
+ {
+  "file": "aqa-gcse-sociology-8192-different-types-of-data--01-usefulness-checklist.webp",
+  "width": 900,
+  "height": 604,
+  "after": "## What \"usefulness\" means",
+  "alt": "A central question, useful for what, sits above seven checks: purpose, validity, reliability, representativeness, definitions, source and bias, and date. A note says to use two or three in a short answer and most in an extended one.",
+  "caption": "Data are never simply useful: judge them against the research aim with these seven checks.",
+  "bytes": 98042
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-different-types-of-data--02-quantitative-qualitative.webp",
+  "width": 900,
+  "height": 713,
+  "after": "## Qualitative data",
+  "alt": "Two panels. Quantitative data show patterns, allow comparison and are usually reliable, but show what rather than why and may lose meaning. Qualitative data give meanings and depth with high validity, but are hard to compare, come from small samples and risk researcher bias. A divorce example shows each is useful for a different aim.",
+  "caption": "Quantitative data favour reliability and comparison; qualitative data favour validity and meaning.",
+  "bytes": 155770
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-different-types-of-data--03-official-statistics-production.webp",
+  "width": 900,
+  "height": 725,
+  "after": "## Official statistics",
+  "alt": "Left: births, marriages and deaths must be legally registered, so these statistics are generally seen as accurate. Right: recorded crime depends on a victim noticing, choosing to report and police deciding to record, and exclusion figures depend on head teachers, so interactionists see these as social constructs. Below, strengths and limitations of official statistics.",
+  "caption": "Registered events are counted fairly accurately; figures that rest on people’s decisions are social constructs.",
+  "bytes": 140212
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-different-types-of-data--04-official-non-official.webp",
+  "width": 900,
+  "height": 601,
+  "after": "## Non-official statistics",
+  "alt": "Two panels. Official statistics come from government, often have national coverage and are free, but definitions can change and presentation may suit the government. Non-official statistics come from universities, charities and businesses; they can study neglected topics and challenge official pictures, as Townsend did, but samples may be smaller and producers may have an interest in the result.",
+  "caption": "Both kinds can be biased; ask who produced the data and why.",
+  "bytes": 131718
+ },
+ {
+  "file": "aqa-gcse-sociology-8192-different-types-of-data--05-assessing-a-source.webp",
+  "width": 900,
+  "height": 754,
+  "after": "## Worked example: assessing a source",
+  "alt": "A fictional charity survey of 300 hostel users finds 70% left home after family arguments. Labelled checks follow: it is non-official quantitative data, useful for showing a common reason among hostel users, unrepresentative of young people elsewhere, possibly biased by the charity’s interest, and simplified by tick boxes. The judgement: useful evidence of a pattern, not proof of the main cause.",
+  "caption": "Work through type, use, representativeness, bias and validity, then judge fitness for purpose.",
+  "bytes": 128788
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-a-level-psychology-9990-learning-approach--01-processes-to-studies.webp",
+  "width": 900,
+  "height": 656,
+  "after": "## The learning processes you must be able to explain",
+  "alt": "Three learning processes, each linked to a core study: social learning to Bandura et al., operant conditioning to Fagen et al., and classical conditioning with evaluative learning to Saavedra and Silverman. A note explains that all three measure directly observable behaviour.",
+  "caption": "Social learning, operant conditioning and association: one study for each.",
+  "bytes": 137052
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-learning-approach--02-reinforcement-terms.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## The learning processes you must be able to explain",
+  "alt": "Pairs of definitions: positive reinforcement adds something pleasant and negative reinforcement removes something unpleasant, both making behaviour more likely; primary reinforcers meet a biological need while secondary reinforcers gain value by pairing; shaping reinforces approximations and chaining links steps.",
+  "caption": "Positive adds, negative removes; secondary means learned value, not negative.",
+  "bytes": 110134
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-learning-approach--03-bandura-design.webp",
+  "width": 900,
+  "height": 780,
+  "after": "## Bandura et al. (1961): transmission of aggression",
+  "alt": "Seventy-two children: 24 in a control group with no model, and the other 48 split by aggressive or non-aggressive model and by same-sex or opposite-sex model, giving a two by two set of conditions. Children were matched on existing aggression rated by two raters.",
+  "caption": "A control group plus four model conditions: aggressive or not, same sex or not.",
+  "bytes": 104810
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-learning-approach--04-bandura-procedure.webp",
+  "width": 900,
+  "height": 674,
+  "after": "## Bandura et al. (1961): transmission of aggression",
+  "alt": "Three rooms in sequence: watching an adult model either assemble toys or attack a Bobo doll; a mild frustration phase; and 20 minutes in a room with aggressive and non-aggressive toys, observed through a one-way mirror every five seconds. Results and evaluation follow.",
+  "caption": "Watch, be frustrated, then be observed: aggression was imitated without reward.",
+  "bytes": 174624
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-learning-approach--05-fagen-trunk-wash.webp",
+  "width": 900,
+  "height": 683,
+  "after": "## Fagen et al. (2014): elephant learning",
+  "alt": "A bridge signal paired with food becomes a secondary reinforcer, with food as the primary reinforcer. The trunk wash is broken into steps (raise the trunk, hold it up while liquid is put in, lower it), each shaped and then chained into the full behaviour. Result and evaluation follow.",
+  "caption": "A bridge signal, shaping and chaining built the trunk wash step by step.",
+  "bytes": 141888
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-learning-approach--06-saavedra-silverman.webp",
+  "width": 900,
+  "height": 779,
+  "after": "## Saavedra and Silverman (2002): button phobia",
+  "alt": "An illustrative line of the boy's distress: in phase 1, exposure with contingency management lowers it only a little; in phase 2, disgust-focused imagery (evaluative learning) with exposure produces a marked drop kept at follow-up. Background, method and evaluation cards follow.",
+  "caption": "Exposure alone helped little; adding disgust imagery cut distress markedly.",
+  "bytes": 135008
+ }
+]

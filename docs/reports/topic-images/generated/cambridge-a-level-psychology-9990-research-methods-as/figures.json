@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-a-level-psychology-9990-research-methods-as--01-lab-v-field.webp",
+  "width": 900,
+  "height": 652,
+  "after": "## Experiments",
+  "alt": "Laboratory experiments, such as Andrade's doodling study, have strong control and are easy to replicate but are artificial with more demand characteristics. Field experiments, such as Piliavin et al. on the subway, have higher ecological validity but weaker control and ethical problems. A control group with no model gave Bandura et al. a baseline for comparison.",
+  "caption": "Laboratory or field depends on the setting, not on whether there is a control group.",
+  "bytes": 136040
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-research-methods-as--02-self-reports.webp",
+  "width": 900,
+  "height": 875,
+  "after": "## Self-reports",
+  "alt": "Questionnaires can be paper or online and use open questions giving qualitative data or closed questions giving quantitative data. Interviews vary in format, from structured through semi-structured to unstructured, and in technique, face-to-face or telephone. Evaluation points are social desirability bias, accuracy of self-knowledge and the open versus closed trade-off.",
+  "caption": "Format and technique are two separate ways interviews differ.",
+  "bytes": 148474
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-research-methods-as--03-case-study.webp",
+  "width": 900,
+  "height": 711,
+  "after": "## Case studies",
+  "alt": "A single person, family or organisation at the centre is studied with interviews, observation and questionnaires, whose findings are checked against each other; Saavedra and Silverman's boy with button phobia is the core example. Strengths are rich data and access to rare cases; weaknesses are limited generalisation, subjectivity and reliance on memory.",
+  "caption": "One case, several techniques: rich data that may not generalise.",
+  "bytes": 101070
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-research-methods-as--04-correlations.webp",
+  "width": 900,
+  "height": 836,
+  "after": "## Correlations",
+  "alt": "Three illustrative scatter graphs show positive, negative and no correlation. Baron-Cohen et al. found Eyes test scores fell as Autism Spectrum Quotient scores rose, a negative correlation. A diagram shows two co-variables linked by a dashed line with a possible third variable affecting both, so no cause is shown.",
+  "caption": "A correlation shows a relationship, not a cause: a third variable may affect both.",
+  "bytes": 109904
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-research-methods-as--05-longitudinal.webp",
+  "width": 900,
+  "height": 531,
+  "after": "## Longitudinal studies",
+  "alt": "Two lanes: the mindfulness group has a brain scan, an eight-week programme and a second scan; the control group has the same scans with no programme, as in Hölzel et al. Longitudinal studies track change within the same people, controlling participant variables, but take a long time and suffer attrition and practice effects.",
+  "caption": "Measuring the same people twice tracks change, but some drop out.",
+  "bytes": 85200
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-research-methods-as--06-planning-frame.webp",
+  "width": 900,
+  "height": 684,
+  "after": "## Worked planning example",
+  "alt": "A planning frame for a field experiment on background music in a school library: IV, DV, location, design, controls (the field-experiment features) and reliability, validity and data (general features). A note says aims, hypotheses, sampling and ethics are not required in a Paper 2 plan.",
+  "caption": "Cover the method’s own features plus procedure, validity, reliability and data.",
+  "bytes": 132680
+ }
+]

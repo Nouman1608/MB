@@ -1,0 +1,65 @@
+[
+ {
+  "file": "cambridge-a-level-psychology-9990-stress--01-two-stress-pathways.webp",
+  "width": 900,
+  "height": 572,
+  "after": "## 3.4.1 The physiology of stress",
+  "alt": "From the hypothalamus, the fast sympathomedullary pathway stimulates the adrenal medulla to release adrenaline and noradrenaline, raising heart rate, blood pressure and breathing (fight or flight). The slower HPA axis has the pituitary release ACTH so the adrenal cortex releases cortisol, which releases glucose but in the long term suppresses the immune system.",
+  "caption": "Adrenaline acts fast; cortisol acts slower and, over time, weakens immunity.",
+  "bytes": 88102
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-stress--02-causes-of-stress.webp",
+  "width": 900,
+  "height": 749,
+  "after": "## Causes of stress",
+  "alt": "The SRRS lists 43 life events scored in life change units, from marriage at 50 to death of a spouse at 100; units are summed over a year and higher totals predict more illness, and positive events count because the scale measures change. Chandola et al. linked work stress to coronary heart disease in civil servants; Type A men were about twice as likely as Type B men to develop it.",
+  "caption": "Life change, work stress and Type A behaviour all raise the risk of illness.",
+  "bytes": 145762
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-stress--03-measuring-in-studies.webp",
+  "width": 900,
+  "height": 886,
+  "after": "## 3.4.2 Measuring stress",
+  "alt": "Wang et al. (2005) found that stressful mental arithmetic increased blood flow in the right prefrontal cortex on fMRI, which related to self-reported stress and salivary cortisol. Evans and Wener (2007) found commuters with more people close around their seat had higher salivary cortisol; density near the seat mattered more than overall crowding.",
+  "caption": "Biological and self-report measures agreeing strengthens validity.",
+  "bytes": 140070
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-stress--04-biofeedback.webp",
+  "width": 900,
+  "height": 684,
+  "after": "## 3.4.3 Managing stress",
+  "alt": "A loop: a device measures a body process such as muscle tension, shows it as a sound or visual signal, the person relaxes to change it, and the falling signal is rewarding so learning is reinforced; with practice the person can control the process without the device. Biofeedback has no side effects but needs equipment and treats symptoms rather than the source of stress.",
+  "caption": "A falling signal rewards relaxation until the person can do it unaided.",
+  "bytes": 96182
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-stress--05-bridge-study.webp",
+  "width": 900,
+  "height": 904,
+  "after": "## 3.4.3 Managing stress",
+  "alt": "Study card for Bridge et al. (1988): a six-week randomised controlled trial with 154 women having radiotherapy. Three conditions: control (talking about themselves, mood worsened), relaxation and relaxation plus imagery (both lower mood disturbance; combined group more relaxed). Women 55 and over benefited most; there was no difference on separate depression and anxiety scales.",
+  "caption": "Relaxation and imagery lowered mood disturbance; the control group got worse.",
+  "bytes": 185618
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-stress--06-stress-inoculation.webp",
+  "width": 900,
+  "height": 522,
+  "after": "## 3.4.3 Managing stress",
+  "alt": "Three phases of stress inoculation training: conceptualisation (exploring stressors and how the client thinks about them), skill acquisition and rehearsal (relaxation, positive self-talk, problem-solving) and application and follow-through in increasingly stressful real situations.",
+  "caption": "Understand the stress, learn the skills, then apply them for real.",
+  "bytes": 95578
+ },
+ {
+  "file": "cambridge-a-level-psychology-9990-stress--07-compare-answer.webp",
+  "width": 900,
+  "height": 486,
+  "after": "## Annotated answer: a 4-mark comparison",
+  "alt": "A similarity (both teach a skill used without a therapist), two differences (biofeedback targets the body's response with a device; SIT targets thinking in three phases) and a consequence (SIT may address the source of stress, biofeedback mainly the symptoms), one mark each.",
+  "caption": "Similarity, two differences, then the consequence.",
+  "bytes": 80402
+ }
+]
