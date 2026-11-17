@@ -19,14 +19,14 @@ const cuboid = (x, y, w, h, d, fill = C.tealLight) => {
 // 01 Squared and cubed conversions
 {
   let b = panel(30, 110, 410, 420) + t(235, 148, 'Area: the factor is squared', { size: 19, weight: 700, anchor: 'middle' });
-  const gx = 95, gy = 175, G = 280;
+  const gx = 105, gy = 186, G = 260;
   b += box(gx, gy, G, G, C.tealLight, C.ink, 0, 3);
   for (let k = 1; k < 10; k++) b += ln(gx + (k * G) / 10, gy, gx + (k * G) / 10, gy + G, { color: C.tealDark, w: 1 }) + ln(gx, gy + (k * G) / 10, gx + G, gy + (k * G) / 10, { color: C.tealDark, w: 1 });
   b += t(gx + G / 2, gy + G + 26, '1 m = 100 cm', { size: 16, weight: 700, anchor: 'middle' });
   b += t(235, 508, '1 m² = 100 × 100 = 10 000 cm²', { size: 18, weight: 700, anchor: 'middle', fill: C.tealDark });
   b += panel(460, 110, 410, 420) + t(665, 148, 'Volume: the factor is cubed', { size: 19, weight: 700, anchor: 'middle' });
-  b += cuboid(540, 440, 200, 200, 200, C.cream);
-  b += t(640, 466, '1 m = 100 cm each way', { size: 16, weight: 700, anchor: 'middle' });
+  b += cuboid(560, 440, 170, 170, 170, C.cream);
+  b += t(645, 466, '1 m = 100 cm each way', { size: 16, weight: 700, anchor: 'middle' });
   b += t(665, 508, '1 m³ = 100³ = 1 000 000 cm³', { size: 18, weight: 700, anchor: 'middle', fill: C.olive });
   b += t(235, 172, 'grid lines drawn every 10 cm', { size: 15, anchor: 'middle', fill: C.muted }).replace('y="172"', 'y="170"');
   const rows = [['45 cm', '÷ 100', '0.45 m'], ['25 cm²', '÷ 10 000', '0.0025 m²'], ['0.10 mm²', '÷ 1 000 000', '1.0 × 10⁻⁷ m²'], ['40 cm³', '÷ 1 000 000', '4.0 × 10⁻⁵ m³']];
@@ -122,7 +122,7 @@ const cuboid = (x, y, w, h, d, fill = C.tealLight) => {
   b += cuboid(110, 380, 250, 100, 160, C.rock);
   b += t(235, 410, '5.0 cm', { size: 17, weight: 700, anchor: 'middle' });
   b += t(90, 335, '2.0 cm', { size: 17, weight: 700, anchor: 'end' });
-  b += t(420, 300, '4.0 cm', { size: 17, weight: 700 });
+  b += t(150, 238, '4.0 cm', { size: 17, weight: 700, anchor: 'end' });
   b += t(235, 172, 'mass 108 g', { size: 20, weight: 700, anchor: 'middle' }).replace('x="235"', 'x="250"');
   b += box(480, 150, 360, 270, C.cream, C.olive, 12);
   b += tl(500, 190, ['V = 5.0 × 4.0 × 2.0 = 40 cm³', '   = 40 × 10⁻⁶ m³', '   = 4.0 × 10⁻⁵ m³', 'm = 108 g = 0.108 kg', 'ρ = 0.108 / 4.0 × 10⁻⁵'], { size: 18 }, 34);

@@ -530,12 +530,12 @@ F('02-red-scare', 'The Red Scare: rise and fall', 'Drawn to scale, 1947-54', [
 
 // 03 1948 election
 F('03-election-1948', 'Truman\'s surprise win, 1948', 'Polls expected Dewey; the Democrats had split three ways', [
-  (y) => spectrum(y, 'LEFT', 'RIGHT', [
-    { at: 0.1, title: 'Wallace', body: 'Progressives', fill: C.panel },
-    { at: 0.4, title: 'Truman', body: 'Democrat: the winner', fill: C.mustard, edge: C.ink },
-    { at: 0.68, title: 'Dewey', body: 'Republican', fill: C.tealLight, edge: C.tealDark },
-    { at: 0.92, title: 'Thurmond', body: 'Dixiecrats', fill: C.panel },
-  ], { size: 16, tsize: 18 }),
+  (y) => row(y, [
+    { kicker: 'DEMOCRAT SPLIT: LEFT', title: 'Wallace', body: 'Progressives', fill: C.panel },
+    { kicker: 'DEMOCRAT', title: 'Truman', body: 'The winner', fill: C.mustard, edge: C.ink, bfill: C.ink },
+    { kicker: 'DEMOCRAT SPLIT: RIGHT', title: 'Thurmond', body: 'Dixiecrats', fill: C.panel },
+    { kicker: 'REPUBLICAN', title: 'Dewey', body: 'Expected to win', fill: C.tealLight, edge: C.tealDark },
+  ], { gap: 12, card: { size: 16, tsize: 19, pad: 14, align: 'middle' } }),
   (y) => segbar(y, [{ label: 'Truman', sub: '303 electoral votes', frac: 303, fill: C.mustard }, { label: 'Dewey', sub: '189', frac: 189, fill: C.teal }], { h: 66, size: 17 }),
   (y) => row(y, [
     { title: 'Whistle-stop campaign', body: 'Against the "do-nothing" Congress' },
@@ -544,7 +544,7 @@ F('03-election-1948', 'Truman\'s surprise win, 1948', 'Polls expected Dewey; the
     { title: 'Dewey', body: 'Cautious and complacent' },
   ], { gap: 12, card: { size: 15, tsize: 16, pad: 13, align: 'middle' } }),
 ],
-'A left-right line of the 1948 candidates: Wallace\'s Progressives, Truman, Dewey and Thurmond\'s Dixiecrats. A bar shows the electoral votes, Truman 303 to Dewey 189 (other candidates\' votes not shown). Four reasons: the whistle-stop campaign, his coalition, his anti-communist record and Dewey\'s complacent campaign.',
+'Four 1948 candidates: Truman, with the Democrats split by Wallace\'s Progressives on the left and Thurmond\'s Dixiecrats on the right, against the Republican Dewey. A bar shows the electoral votes, Truman 303 to Dewey 189 (other candidates\' votes not shown). Four reasons: the whistle-stop campaign, his coalition, his anti-communist record and Dewey\'s complacent campaign.',
 'Despite a three-way Democratic split, campaigning and coalition won Truman the election.', H2.s41);
 
 // 04 Civil rights: who drove change
