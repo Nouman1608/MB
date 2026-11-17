@@ -103,7 +103,7 @@ const fish = (x, y, s = 1, fill = C.blue, dir = 1) => `<path d="M${x - 16 * s * 
   b += `<rect x="30" y="110" width="840" height="470" rx="14" fill="#e3ecd9"/>`;
   const river = 'M30,470 C200,430 300,520 450,480 C600,440 700,510 870,470';
   b += path(river, { stroke: C.ink, w: 46 }) + path(river, { stroke: C.teal, w: 40 });
-  b += t(840, 478, 'river', { size: 16, weight: 700, anchor: 'end', fill: C.tealDark });
+  b += t(60, 512, 'river', { size: 16, weight: 700, fill: C.tealDark });
   // 1 domestic: houses
   b += house(70, 250, 1.3) + house(130, 262, 1.1) + arrow(120, 300, 150, 440, { color: C.rust, w: 3.5, marker: 'ahR' });
   // 2 sewage: pipe
@@ -116,8 +116,8 @@ const fish = (x, y, s = 1, fill = C.blue, dir = 1) => `<path d="M${x - 16 * s * 
   // 5 agriculture field
   b += `<path d="M700,280 L860,250 L860,380 L700,400 Z" fill="${C.sand}" stroke="${C.ink}" stroke-width="2"/>`;
   for (let i = 0; i < 5; i++) b += line(712 + i * 30, 395 - i * 4, 712 + i * 30 + 20, 262 - i * 4 + 20, { color: C.grass, w: 3 });
-  b += arrow(760, 405, 740, 450, { color: C.rust, w: 3.5, marker: 'ahR' }) + t(780, 432, 'runoff', { size: 15, weight: 600, fill: C.rust });
-  b += path('M820,385 L820,520', { stroke: C.blue, w: 2.5, extra: 'stroke-dasharray="5 5"' }) + t(828, 545, 'leaching', { size: 15, weight: 600, fill: C.blue });
+  b += arrow(740, 405, 724, 452, { color: C.rust, w: 3.5, marker: 'ahR' }) + t(712, 428, 'runoff', { size: 15, weight: 600, fill: C.rust, anchor: 'end' });
+  b += arrow(845, 390, 845, 545, { color: C.blue, w: 2.5, dash: '5 5' }) + t(835, 560, 'leaching through soil', { size: 15, weight: 600, fill: C.blue, anchor: 'end' });
   const bd = [[1, 100, 200], [2, 250, 190], [3, 400, 300], [4, 600, 220], [5, 780, 230]];
   bd.forEach(([n, x, y]) => (b += badge(x, y, 17, String(n), C.mustard)));
   b += t(60, 140, 'schematic, not to scale', { size: 15, fill: C.muted, italic: true });
@@ -133,7 +133,7 @@ const fish = (x, y, s = 1, fill = C.blue, dir = 1) => `<path d="M${x - 16 * s * 
     b += badge(x + 20, y + 20, 16, String(i + 1), C.mustard) + t(x + 46, y + 26, h, { size: 18, weight: 700 }) + tl(x + 46, y + 50, wrap(d, 370, 15.5), { size: 15.5, fill: C.muted }, 19);
   });
   add('01-five-sources',
-    svg(900, 840, 'Five sources of water pollution', b),
+    svg(900, 855, 'Five sources of water pollution', b),
     'A schematic catchment, not to scale, with five numbered sources draining to one river: domestic waste from houses, sewage from a pipe, plastic litter, industrial wastewater from a factory, and fertiliser, manure and pesticides from farmland, reaching the river by runoff over the surface and by leaching through the soil.',
     'Domestic waste, sewage, plastic, industry and farming all drain to the same river.',
     H2.src);
@@ -151,18 +151,18 @@ const fish = (x, y, s = 1, fill = C.blue, dir = 1) => `<path d="M${x - 16 * s * 
     ['Fish die or leave', 'oxygen falls too low for aerobic animals'],
   ];
   steps.forEach(([h, d], i) => {
-    const y = 110 + i * 92, hot = i === 4;
-    b += rrect(30, y, 560, 78, hot ? C.cream : '#ffffff', hot ? C.olive : C.panelEdge, 2.5, 12) + badge(66, y + 39, 20, String(i + 1), C.mustard);
-    b += t(100, y + 32, h, { size: 19, weight: 700 }) + tl(100, y + 56, wrap(d, 470, 15.5), { size: 15.5, fill: C.muted }, 19);
-    if (i < 5) b += arrow(310, y + 80, 310, y + 90, { w: 3 });
+    const y = 110 + i * 96, hot = i === 4;
+    b += rrect(30, y, 560, 84, hot ? C.cream : '#ffffff', hot ? C.olive : C.panelEdge, 2.5, 12) + badge(66, y + 42, 20, String(i + 1), C.mustard);
+    b += t(100, y + 32, h, { size: 19, weight: 700 }) + tl(100, y + 56, wrap(d, 460, 15.5), { size: 15.5, fill: C.muted }, 19);
+    if (i < 5) b += arrow(310, y + 86, 310, y + 94, { w: 3 });
   });
   // shortcut for organic content
-  b += carrow('M594,149 C700,149 720,480 596,480', { color: C.rust, w: 3.5, marker: 'ahR', dash: '9 6' });
+  b += carrow('M594,149 C700,149 720,500 596,500', { color: C.rust, w: 3.5, marker: 'ahR', dash: '9 6' });
   b += rrect(640, 250, 230, 150, '#fbf1ea', C.rust, 2.5, 12) + tl(660, 282, ['Organic content', '(sewage, manure,', 'food waste):'], { size: 16.5, weight: 700, fill: C.rust }, 21) + tl(660, 350, ['bacteria feed on it', 'directly, so oxygen can', 'fall before a bloom'], { size: 15.5 }, 19);
   // oxygen gauge
-  b += panel(30, 670, 840, 80, '#eef5f4', C.tealDark) + t(450, 704, 'Marks are for the links, especially “bacteria decompose” and', { size: 17, weight: 700, anchor: 'middle' }) + t(450, 728, '“respiration uses oxygen”. Living algae are not the marked step.', { size: 17, weight: 700, anchor: 'middle' });
+  b += panel(30, 700, 840, 80, '#eef5f4', C.tealDark) + t(450, 734, 'Marks are for the links, especially “bacteria decompose” and', { size: 17, weight: 700, anchor: 'middle' }) + t(450, 758, '“respiration uses oxygen”. Living algae are not the marked step.', { size: 17, weight: 700, anchor: 'middle' });
   add('02-eutrophication-steps',
-    svg(900, 775, 'Eutrophication: six linked steps', b),
+    svg(900, 805, 'Eutrophication: six linked steps', b),
     'Six linked steps: nitrate and phosphate ions arrive; algae grow rapidly into a bloom; the bloom blocks light so plants below die; the algae die; bacteria decompose the dead material and their respiration uses up dissolved oxygen; fish die or leave. A side arrow shows that organic content such as sewage feeds bacteria directly, so oxygen can fall before a bloom forms.',
     'Nutrients, bloom, light blocked, algae die, bacteria use the oxygen, fish die.',
     H2.imp);
@@ -173,7 +173,7 @@ const fish = (x, y, s = 1, fill = C.blue, dir = 1) => `<path d="M${x - 16 * s * 
   let b = '';
   b += `<rect x="30" y="110" width="840" height="330" rx="14" fill="#eef1f8"/>`;
   b += cloud(200, 170, 0.9, '#ffffff') + cloud(560, 160, 0.8, '#ffffff') + rain(150, 200, 6, 18, 18, C.rust) + rain(520, 190, 5, 18, 18, C.rust);
-  b += t(380, 180, 'acid rain falls on the catchment', { size: 16.5, weight: 700, anchor: 'middle', fill: C.rust });
+  b += t(450, 262, 'acid rain falls on the catchment', { size: 16.5, weight: 700, anchor: 'middle', fill: C.rust });
   b += `<path d="M30,300 Q200,280 300,330 L600,330 Q700,280 870,300 L870,440 L30,440 Z" fill="#a77b52" stroke="${C.ink}" stroke-width="2.5"/>`;
   b += `<path d="M300,330 L600,330 Q560,420 450,425 Q340,420 300,330 Z" fill="#b8c9b0" stroke="${C.ink}" stroke-width="2.5"/>`;
   b += t(450, 360, 'lake becomes more acidic', { size: 16.5, weight: 700, anchor: 'middle' });
