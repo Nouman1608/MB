@@ -412,7 +412,7 @@ add('05-benefits',
   }
   s += T(x0, by - 14, 'Nights of Ramadhan', { size: 17, weight: 700 }) + T(x0 + 10 * dw, by + 76, 'Taraweeh after Isha, every night', { size: 16, anchor: 'middle', fill: C.tealDark, weight: 600 });
   s += path(`M${x0 + 20 * dw},${by + 60} L${x0 + 20 * dw},${by + 70} L${x0 + W - 3},${by + 70} L${x0 + W - 3},${by + 60}`, { stroke: C.olive, w: 3 });
-  s += T(x0 + 25 * dw, by + 94, 'last ten: Itikaaf; odd nights: seek Laylat ul-Qadr', { size: 15, anchor: 'middle', fill: C.olive, weight: 700 });
+  s += T(x0 + W, by + 94, 'last ten: Itikaaf; odd nights: seek Laylat ul-Qadr', { size: 15, anchor: 'end', fill: C.olive, weight: 700 });
   const r = row(by + 120, [
     { title: 'Taraweeh', body: ['Voluntary night prayer after Isha', 'The Prophet (pbuh) led it a few nights, then prayed at home, fearing it would become obligatory', 'Umar (RA) gathered people behind one reciter', 'Sunni mosques: 8 or 20 rak’ahs'] },
     { title: 'Itikaaf', body: ['Seclusion in the mosque, usually the last ten days', 'Leave only for necessities', 'Prayer, Qur’an, dhikr; no worldly talk (2:187)', 'In worship whenever Laylat ul-Qadr falls'], fill: C.cream, edge: C.olive },

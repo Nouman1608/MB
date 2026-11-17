@@ -21,7 +21,7 @@ const gm = (x, y) => box(x, y - 23, 150, 46, C.panel, C.ink, 22, 3) + box(x, y -
   b += gm(560, 320) + t(635, 280, 'G-M tube', { size: 16, weight: 700, anchor: 'middle' });
   b += path('M710,320 Q760,320 770,300', { w: 2.5 }) + box(760, 250, 90, 60, C.ink, C.ink, 6, 0) + box(768, 258, 74, 32, '#e9f5ec', C.ink, 3, 1) + t(805, 335, 'counter', { size: 15, weight: 700, anchor: 'middle' });
   b += ln(sx + 22, sy - 8, 556, 312, { color: C.rust, w: 2, dash: '5 5' }) + ln(sx + 22, sy + 8, 556, 328, { color: C.rust, w: 2, dash: '5 5' });
-  b += t(440, 300, 'only a small fraction reaches it', { size: 15, anchor: 'middle', fill: C.rust, weight: 600 });
+  b += t(345, 296, 'only a small fraction', { size: 15, fill: C.rust, weight: 600 });
   b += t(640, 390, '+ background radiation', { size: 15, anchor: 'middle', fill: C.muted, weight: 600 }) + arrow(640, 372, 640, 352, { w: 2.5 });
   b += panel(30, 550, 410, 220, C.cream, C.olive) + t(60, 590, 'Activity', { size: 21, weight: 700 });
   b += tl(60, 626, ['decays per second in the source', '1 Bq = 1 decay per second', '1 kBq = 1000 Bq', '1 MBq = 1 000 000 Bq'], { size: 17 }, 30);

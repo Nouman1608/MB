@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--01-properties-steer-responses.webp",
+  "width": 900,
+  "height": 591,
+  "after": "## Why responses differ: the logic of 3.1.1.1",
+  "alt": "Six human responses (fatalism, prediction, adjustment, mitigation, management, risk-sharing) above a table explaining how incidence, intensity, magnitude, distribution and level of development each steer which response is chosen.",
+  "caption": "Link each response to a hazard property, not just a list.",
+  "bytes": 153054
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--02-hazard-perception.webp",
+  "width": 900,
+  "height": 539,
+  "after": "## Why responses differ: the logic of 3.1.1.1",
+  "alt": "Hazard perception in the centre, shaped by economic determinants (income, insurance, the cost of moving) and cultural determinants (religious belief, community memory, trust in authorities). A note gives the example of a farmer on a fertile volcanic slope.",
+  "caption": "Economic and cultural factors shape how people perceive, and so respond to, a hazard.",
+  "bytes": 87942
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--03-park-model.webp",
+  "width": 900,
+  "height": 800,
+  "after": "## Using the Park model and the management cycle",
+  "alt": "An illustrative Park model curve of quality of life against time: a small pre-event dip, a steep fall at the hazard event, then relief, rehabilitation and reconstruction phases, ending above the pre-event level. Five numbered notes explain what the depth of the fall, length of relief, slope of recovery, end level and pre-event dip each show.",
+  "caption": "Read the curve's depth, length, slope and end level, not just the phase names.",
+  "bytes": 94998
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--04-management-cycle.webp",
+  "width": 900,
+  "height": 536,
+  "after": "## Using the Park model and the management cycle",
+  "alt": "A cycle of four stages, preparedness, response, recovery and mitigation, with arrows running round. Beside it, the Park model describes one community after one event while the cycle describes improvement between events; rebuilding with new building codes counts as mitigation for the next event.",
+  "caption": "The cycle turns recovery into preparation for the next event.",
+  "bytes": 79550
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--05-describing-hazard-patterns.webp",
+  "width": 900,
+  "height": 634,
+  "after": "## Describing hazard patterns in the specification's terms",
+  "alt": "Table describing volcanic, seismic and storm hazards by spatial distribution, magnitude scale, frequency and regularity, and predictability. Below, a chain from M4 to M8 shows each whole number of moment magnitude releases about 32 times more energy, so M8 is far more than twice M4.",
+  "caption": "Describe each hazard by distribution, magnitude, frequency, regularity and predictability.",
+  "bytes": 125736
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--06-case-study-bank.webp",
+  "width": 900,
+  "height": 662,
+  "after": "## Building the required case studies",
+  "alt": "Table of six recent hazard case studies with dates, deaths and key points: Soufrière Hills (from 1995), Christchurch (2011), Cyclone Nargis (2008), Hurricane Katrina (2005), the Camp Fire (2018) and the Tōhoku earthquake and tsunami (2011). Chips list the common headings for organising each.",
+  "caption": "Use the same headings for every case study so they can be compared.",
+  "bytes": 172434
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--07-assess-development.webp",
+  "width": 900,
+  "height": 591,
+  "after": "## Worked example: an annotated paragraph",
+  "alt": "Four steps of the model \"assess\" paragraph: a claim linking development to vulnerability, evidence from Cyclone Nargis, counter-evidence from Hurricane Katrina, and a weighted judgement that physical factors set the threat while development decides how much becomes disaster.",
+  "caption": "Claim, named evidence, counter-case, then a weighted judgement.",
+  "bytes": 117864
+ }
+]

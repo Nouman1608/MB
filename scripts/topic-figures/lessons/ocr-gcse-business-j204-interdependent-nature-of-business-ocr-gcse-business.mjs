@@ -166,13 +166,13 @@ const FN = { Marketing: [C.cream, C.olive], Operations: [C.tealLight, C.tealDark
   const x0 = 130, yb = 520, top = 200, max = 10000, sc = (v) => ((yb - top) * v) / max;
   let b = panel(30, 110, 840, 540) + tx(56, 146, 'Bank balance: first three months of the new shop', { size: 18, weight: 700 });
   [0, 2500, 5000, 7500, 10000].forEach((v) => { const y = yb - sc(v); b += line(x0, y, 850, y, { color: C.panelEdge, w: 1.5 }) + tx(x0 - 10, y + 6, money(v, '£'), { size: 15, anchor: 'end', fill: C.muted }); });
-  const bars = [['Opening', 8000, ''], ['Month 1', 4300, 'in 7,500, out 11,200: net −3,700'], ['Month 2', 3600, 'in 8,400, out 9,100: net −700'], ['Month 3', 4200, 'in 9,600, out 9,000: net +600']];
+  const bars = [['Opening', 8000, ''], ['Month 1', 4300, 'in 7,500, out 11,200|net −3,700'], ['Month 2', 3600, 'in 8,400, out 9,100|net −700'], ['Month 3', 4200, 'in 9,600, out 9,000|net +600']];
   bars.forEach(([m, v, n], i) => {
     const x = x0 + 40 + i * 175, w = 120;
     b += `<rect x="${x}" y="${yb - sc(v)}" width="${w}" height="${sc(v)}" fill="${i === 0 ? C.panel : i === 2 ? C.rust : C.teal}" stroke="${C.ink}" stroke-width="2.5"/>`;
     b += tx(x + w / 2, yb - sc(v) - 10, money(v, '£'), { size: 17, weight: 700, anchor: 'middle' });
     b += tx(x + w / 2, yb + 26, m, { size: 16, weight: 700, anchor: 'middle' });
-    if (n) b += para(x + w / 2, yb + 50, n, 150, { size: 15, anchor: 'middle', fill: n.includes('+') ? C.tealDark : C.rust, weight: 600 });
+    if (n) b += lines(x + w / 2, yb + 50, n.split('|'), { size: 15, anchor: 'middle', fill: n.includes('+') ? C.tealDark : C.rust, weight: 600 });
   });
   b += tx(x0 + 40 + 2 * 175 + 60, yb - sc(3600) + 30, 'low point', { size: 15, weight: 700, anchor: 'middle', fill: '#ffffff' });
   b += line(x0, yb, 850, yb, { w: 2.5 });

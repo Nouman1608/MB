@@ -6,7 +6,7 @@
   "after": "## The becquerel",
   "alt": "A source emits radiation in all directions and a Geiger-Müller tube intercepts only a small fraction, plus background radiation. Activity is decays per second in the source, measured in becquerels (1 Bq = 1 decay per second, 1 kBq = 1000 Bq, 1 MBq = 1 000 000 Bq). Count rate is what the detector records, in counts per second or per minute, and is normally much less. Both halve in one half-life.",
   "caption": "Activity is in Bq; a detector gives a count rate in counts per second or minute.",
-  "bytes": 98126
+  "bytes": 96674
  },
  {
   "file": "edexcel-igcse-physics-4ph1-units-radioactivity--02-time-conversions.webp",
