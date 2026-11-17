@@ -1,0 +1,74 @@
+[
+ {
+  "file": "ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--01-lan-wan-client-server.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## Clients, servers, LANs and WANs",
+  "alt": "Two LANs, a school and an office, each with a server and client computers, joined by a WAN that spans large distances over infrastructure often leased from telecoms providers. Below, a client requests a service and a server provides it, such as files, web pages or addresses.",
+  "caption": "A LAN covers one site; a WAN links LANs over distance, and the internet is the largest WAN.",
+  "bytes": 88018
+ },
+ {
+  "file": "ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--02-devices-and-layers.webp",
+  "width": 900,
+  "height": 732,
+  "after": "## What does each device do?",
+  "alt": "Devices placed in TCP/IP layers by what they read. In the network interface layer, which reads MAC addresses: NIC, switch, wireless access point and modem. In the internet layer, which reads IP addresses: the router, and often the gateway, which may span several layers. The hardware firewall spans the internet and transport layers, filtering by IP addresses and port numbers.",
+  "caption": "A device’s layer follows from what it reads: MAC addresses, IP addresses or port numbers.",
+  "bytes": 109116
+ },
+ {
+  "file": "ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--03-protocols.webp",
+  "width": 900,
+  "height": 684,
+  "after": "## Which protocols must you know?",
+  "alt": "TCP sets up a connection, numbers and acknowledges segments and resends a lost one, so data arrives complete and in order; it suits web pages, email and file transfer. UDP sends datagrams without acknowledgements or resending, so it is faster but may lose data; it suits live calls, games and streaming. HTTP fetches web pages, HTTPS adds TLS encryption and certificates, and DHCP hands out IP addresses.",
+  "caption": "TCP trades speed for completeness; UDP trades completeness for speed.",
+  "bytes": 114786
+ },
+ {
+  "file": "ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--04-encapsulation.webp",
+  "width": 900,
+  "height": 838,
+  "after": "## The TCP/IP model (layer functions are HL only)",
+  "alt": "An HL diagram of the four TCP/IP layers with their roles. Going down, data gains a transport header to become a segment, an IP header to become a packet and a frame header to become a frame; the receiver removes the headers on the way up. Reliability comes from TCP re-requesting segments that the best-effort internet layer loses or damages.",
+  "caption": "Each layer adds its own header going down and strips it going up.",
+  "bytes": 116370
+ },
+ {
+  "file": "ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--05-packet-switching.webp",
+  "width": 900,
+  "height": 728,
+  "after": "## How does packet switching work?",
+  "alt": "Each packet carries a header with source and destination addresses and a sequence number. Packets of one message travel independently through routers, each choosing the best available path, so they take different routes and arrive out of order (3, 1, 4, 2); the destination reassembles them as 1, 2, 3, 4 using the sequence numbers. Packet numbers are illustrative.",
+  "caption": "Packets travel independently and are put back in order by sequence number.",
+  "bytes": 102668
+ },
+ {
+  "file": "ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--06-bandwidth-and-errors.webp",
+  "width": 900,
+  "height": 732,
+  "after": "## Bandwidth and transmission errors",
+  "alt": "A 50 MB file is 50 × 8 = 400 megabits; at a bandwidth of 20 Mbps it takes 400 ÷ 20 = 20 seconds at best, since congestion and overheads lower real speed. Common causes of errors are interference, attenuation, cable damage, congestion and wireless collisions; protocols respond with checksums and retransmission.",
+  "caption": "Convert bytes to bits before dividing by the bandwidth.",
+  "bytes": 106850
+ },
+ {
+  "file": "ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--07-decentralised-internet.webp",
+  "width": 900,
+  "height": 704,
+  "after": "## Why is the internet decentralised?",
+  "alt": "Seven networks linked in a mesh; when one central network fails, packets are routed around it through the others. No single organisation controls the internet, there is no single point of failure, and the result is resilient and able to grow but harder to regulate.",
+  "caption": "With no centre to fail, traffic finds another way round.",
+  "bytes": 85438
+ },
+ {
+  "file": "ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--08-loading-a-web-page.webp",
+  "width": 900,
+  "height": 726,
+  "after": "## Worked example: loading a web page",
+  "alt": "A laptop on the school Wi-Fi reaches a web server through a wireless access point, firewall, router and modem, then routers across the internet. Six steps: DHCP gives the laptop an IP address, the browser sends an HTTPS request, TCP splits it into segments, the firewall checks it and the router forwards it through the modem, internet routers forward packets by IP address, and TCP reassembles the reply.",
+  "caption": "Every device and protocol in A.2 plays a part in one page request.",
+  "bytes": 120612
+ }
+]
