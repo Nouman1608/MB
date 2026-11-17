@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "programming-9210"
     subtopic: "classification-of-programming-languages-and-translators-9210"
-description: "Study guide to OxfordAQA IGCSE Computer Science 9210 section 3.2.13: machine code, assembly and high-level languages, and compilers, interpreters and assemblers."
+description: "Study guide to OxfordAQA IGCSE Computer Science 9210 section 3.2.13: machine code, assembly, high-level languages, compilers, interpreters and assemblers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

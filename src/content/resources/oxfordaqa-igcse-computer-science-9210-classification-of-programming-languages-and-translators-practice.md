@@ -79,6 +79,12 @@ program as compiled machine code or as source code to be run with an interpreter
 
 **[3]**
 
+**13.** A developer is writing a large program in a high-level language and expects to make many small changes
+while testing it, before releasing it to thousands of users.
+
+**(a)** Explain why an interpreter would help the developer during testing. **[2]**
+**(b)** Explain why the developer would then compile the finished program before releasing it. **[2]**
+
 ---
 
 ## Answers
@@ -134,6 +140,11 @@ harder to copy or alter [1]. Conclusion: the company should distribute compiled 
 must compile a separate version for each type of processor it supports [1].
 
 **12.** Assembler [1]; compiler [1]; interpreter [1].
+
+**13.** **(a)** Each change can be run immediately without first translating the whole large program [1], and
+execution stops at the statement where an error occurs, so the developer can find and fix it quickly [1].
+**(b)** The compiled executable runs without each user needing the translator installed [1], and it usually runs
+faster because translation has already been done (and the source code is not shared) [1].
 
 ---
 

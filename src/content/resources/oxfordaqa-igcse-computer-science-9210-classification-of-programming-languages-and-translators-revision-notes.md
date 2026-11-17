@@ -78,6 +78,16 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-classification-of-progra
 | Selling or distributing a finished program | Compiler | Standalone executable; faster; source code not shared |
 | Code written in assembly for a hardware device | Assembler | Assembly must be converted to machine code |
 
+## Model comparison sentences
+
+- "A compiler translates the **whole** program **before** it runs and produces an **executable**; an interpreter
+  translates and carries out **one statement at a time** each time the program runs and produces **no**
+  executable."
+- "Machine code is **binary** and runs **directly**; assembly language uses **mnemonics** and must be
+  **assembled** first, with each line becoming **one** machine code instruction."
+
+Writing both halves of a comparison, as in these sentences, is what "explain the difference" questions reward.
+
 ## Key terms
 
 | Term | Meaning |
