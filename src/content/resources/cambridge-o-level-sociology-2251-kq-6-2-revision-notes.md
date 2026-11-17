@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-family-education-crime-2251"
     subtopic: "kq-6-2-2251"
-description: "Revision notes for Cambridge O Level Sociology 2251 key question 6.2: crime patterns, explanations by age, class, gender and ethnicity, five theories and a self-test."
+description: "Revision notes for Cambridge O Level Sociology 2251 key question 6.2: crime patterns, explanations by social group, five theories and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

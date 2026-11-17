@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-living-muslim-life-9237"
     subtopic: "islam-practices-9237"
-description: "Recall notes on the rulings of Sawm, exemptions, invalidating acts, qada and fidya, benefits of fasting, Taraweeh, Itikaaf and Laylat ul-Qadr, 9237 topic 3.1.2.4."
+description: "Recall notes on the rulings of Sawm, exemptions, invalidating acts, qada and fidya, the benefits of fasting, Taraweeh, Itikaaf and Laylat ul-Qadr (9237)."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

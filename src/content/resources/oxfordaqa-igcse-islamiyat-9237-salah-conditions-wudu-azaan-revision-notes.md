@@ -108,6 +108,10 @@ Takbir → qiyam with **al-Fatiha** (+ another passage in the first two rak'ahs)
 - **Behaviour:** "prayer prohibits immorality and wrongdoing" (29:45).
 - **Unity:** one Qiblah, one language of recitation, shared rows.
 
+## Using the prescribed passage (Qur'an 62:9-11)
+
+The 12-mark question for 3.1.2.3 uses the Jummah passage. Learn three phrases and what each proves: "proceed to the remembrance of Allah and leave trade" (prayer comes first); "disperse within the land and seek from the bounty of Allah" (work resumes, so worship and daily life are balanced); "they rushed to it and left you standing" (a warning against putting trade or entertainment before prayer).
+
 ## Exam traps
 
 - Concessions change the *form* of prayer; they do not cancel it (except during menstruation).

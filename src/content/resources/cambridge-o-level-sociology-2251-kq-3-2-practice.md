@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
     subtopic: "kq-3-2-2251"
-description: "Original Cambridge O Level Sociology 2251 practice on key question 3.2: equality laws, benefits, welfare states, NGOs and the New Right, with full answers."
+description: "Original Cambridge O Level Sociology 2251 practice on key question 3.2: equality laws, basic income, pensions, NGOs and feminist critiques, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
@@ -38,7 +38,7 @@ describes for Paper 1 Question 3. Section B gives extra practice on benefits, we
 
 **(a)** Define the terms:
 - (i) *progressive taxation* **[2]**
-- (ii) *dependency culture* **[2]**
+- (ii) *universal basic income* **[2]**
 
 **(b)** Give **two** examples of welfare state provision. **[2]**
 
@@ -46,22 +46,21 @@ describes for Paper 1 Question 3. Section B gives extra practice on benefits, we
 
 **(d)** Explain **three** ways NGOs may reduce poverty. **[6]**
 
-**(e)** Discuss the New Right view of the welfare state. **[8]**
+**(e)** Discuss feminist criticisms of equality legislation. **[8]**
 
-**(f)** Evaluate the view that legislation is the most effective way to reduce social inequality.
-**[14]**
+**(f)** Evaluate the view that attempts to reduce social inequality have largely failed. **[14]**
 
 ## Section B — Benefits, welfare and critiques
 
 **(g)** Explain **two** differences between means-tested and universal benefits. **[4]**
 
-**(h)** Explain **two** arguments in favour of a universal basic income. **[4]**
+**(h)** Explain **two** criticisms of a universal basic income. **[4]**
 
 **(i)** Explain the Marxist criticism of the welfare state. **[4]**
 
-**(j)** Explain **two** feminist criticisms of equality legislation. **[4]**
+**(j)** Explain the New Right view of the welfare state. **[4]**
 
-**(k)** Explain **two** ways free healthcare may improve life chances. **[4]**
+**(k)** Explain **two** ways state pensions may improve the life chances of older people. **[4]**
 
 ---
 
@@ -70,8 +69,8 @@ describes for Paper 1 Question 3. Section B gives extra practice on benefits, we
 **(a)(i) [2]** A tax system in which people with higher incomes pay a higher percentage of their
 income in tax (1), so the tax helps to narrow the gap between rich and poor (1).
 
-**(a)(ii) [2]** The idea that people who receive welfare benefits come to rely on them (1) and lose
-the motivation to support themselves through work (1).
+**(a)(ii) [2]** A regular payment made by the state to every individual (1) without conditions, whether
+or not they are in work (1).
 
 **(b) [2]** Any two (1 each): free or universal education; unemployment benefits; pensions;
 low-cost housing; free healthcare; universal basic income.
@@ -96,38 +95,46 @@ low-cost housing; free healthcare; universal basic income.
 
 **(e) [8]** Levels: 7–8 developed points with evidence and evaluation; 4–6 some development; 1–3
 basic points.
-- The New Right favours a small state, low taxes and individual responsibility.
-- Charles Murray argued generous welfare creates an **underclass** detached from work and dependent on
-  benefits.
-- Welfare encourages a **dependency culture**, removing the incentive to work or save.
-- Benefits may reward lone parenthood and weaken family responsibility, in Murray's view.
-- High taxes to fund welfare discourage enterprise and economic growth.
-- Solution: cut and target benefits, encourage work and family self-reliance.
-- **Evaluation:** research suggests most claimants move in and out of work and want jobs; poverty is
-  often caused by low pay, illness or unemployment; Marxists argue the problem is too little
-  redistribution, not too much; welfare has reduced absolute poverty.
+- Feminists accept that equality laws have opened education and paid work to women, but argue they
+  leave patriarchy largely intact.
+- Laws cannot change the unequal division of unpaid domestic labour, so many women carry a **dual
+  burden** of paid and unpaid work.
+- A **glass ceiling** remains: women are still under-represented in senior jobs and positions of
+  power.
+- Laws are hard to enforce; claims are costly and women may fear losing their jobs if they complain.
+- Pay gaps persist because women are concentrated in lower-paid occupations and part-time work,
+  which equal pay for equal work does not address.
+- Welfare and employment rules were built around a male breadwinner model, as in the assumptions of
+  the Beveridge Report.
+- **Evaluation:** laws have produced real gains in women's education and employment; liberal
+  feminists see gradual progress through law; intersectionality shows that the effects differ for
+  women of different classes and ethnic groups.
 
 **(f) [14]** Levels: 11–14 balanced, developed, evaluated with a supported conclusion; 7–10 developed
 but less balanced; 4–6 limited; 1–3 basic.
 
-*For legislation:*
-- Laws apply to everyone and are enforceable, unlike voluntary NGO work.
-- Progressive taxation and benefits redistribute resources on a national scale.
-- Minimum wage laws raise the incomes of the lowest paid.
-- Equal opportunities laws, such as Britain's Equality Act 2010, outlaw discrimination.
-- Reservations in India give disadvantaged castes access to education and jobs.
+*For (largely failed):*
+- Large gaps in wealth and income remain in most societies despite taxes and benefits.
+- New Right: welfare has created an underclass and a dependency culture rather than ending poverty
+  (Murray).
+- Marxists: the welfare state leaves ownership of wealth untouched and acts mainly to keep workers
+  productive and calm.
+- Feminists: equality laws have not ended the dual burden or the glass ceiling.
+- Critics of NGOs: they are small-scale, donor-led and treat symptoms rather than causes.
+- Minimum wages and benefits often miss informal workers in poorer countries.
 
-*Against or alternatives:*
-- Laws are hard to enforce; discrimination continues informally.
-- Wealthy people and companies avoid taxes, limiting redistribution.
-- Minimum wages miss informal workers, who are many in poorer countries.
-- Welfare states may do more by directly providing education, health and housing.
-- NGOs reach groups governments neglect.
-- Feminists argue laws do not change unpaid work or patriarchal attitudes; Marxists argue laws leave
-  ownership of wealth unchanged.
+*Against (real successes):*
+- Free education has widened literacy and access to qualifications.
+- Free healthcare and pensions have raised life expectancy and reduced poverty in old age.
+- Conditional cash transfers such as Bolsa Família linked income support to school attendance and
+  health check-ups.
+- Equal opportunities laws, such as Britain's Equality Act 2010, have made open discrimination
+  illegal.
+- NGOs such as BRAC and Médecins Sans Frontières reach groups that governments neglect.
 
-*Conclusion:* legislation is essential because of its scale and legal force, but it is most effective
-alongside welfare provision and changes in attitudes.
+*Conclusion:* attempts have reduced absolute poverty and improved many life chances, but they have
+done less to narrow inequalities of wealth and power, so "largely failed" overstates the case while
+"largely succeeded" would understate the problems.
 
 **(g) [4]** Two differences, 2 marks each:
 - Means-tested benefits are paid only to those below an income or savings limit; universal benefits
@@ -136,41 +143,41 @@ alongside welfare provision and changes in attitudes.
   better-off receive them too (2).
 - Means-tested benefits can carry stigma and have lower take-up; universal benefits avoid stigma (2).
 
-**(h) [4]** Two arguments, 2 marks each:
-- It guarantees everyone a minimum income, reducing absolute poverty (2).
-- It removes the poverty trap, since people keep the payment when they start earning (2).
-- It avoids the stigma and administrative cost of means-testing (2).
-- Trials such as Finland's (2017–2018) reported improved wellbeing among recipients (2).
+**(h) [4]** Two criticisms, 2 marks each:
+- It is very expensive, because payments go to everyone, including the well-off, so taxes may have to
+  rise sharply (2).
+- Critics argue an unconditional income may reduce the incentive to work, although trials such as
+  Finland's (2017–2018) found only a small effect on employment (2).
+- A flat payment to all may give less help to those with the greatest needs, such as disabled people,
+  than targeted benefits (2).
 
 **(i) [4]** Marxists argue the welfare state does not change the ownership of wealth and the means of
 production (1), so the basic inequality of capitalism remains (1). Welfare keeps workers healthy and
 educated enough to be productive for employers (1) and reduces discontent that might lead to
 challenges to the system (1).
 
-**(j) [4]** Two criticisms, 2 marks each:
-- Laws cannot change the unequal division of unpaid domestic labour, so women carry a dual burden of
-  paid and unpaid work (2).
-- A glass ceiling remains: women are still under-represented in senior positions despite the law (2).
-- Laws are hard to enforce, and women may fear losing their jobs if they bring a claim (2).
-- Welfare and employment rules were built around a male breadwinner model, assuming women depend on
-  husbands (2).
+**(j) [4]** The New Right argues that generous welfare encourages people to depend on the state
+rather than on work and family (1). Charles Murray claimed this creates an **underclass** detached from
+work (1) and a **dependency culture** passed on to children (1). The New Right therefore favours lower
+taxes, cuts to benefits and greater individual responsibility (1).
 
 **(k) [4]** Two ways, 2 marks each:
-- Treatment is based on need rather than ability to pay, so poorer people receive care early and
-  illnesses are less likely to become serious (2).
-- Better health means people can work and children can attend school, improving income and education
+- A regular income in old age prevents older people falling into absolute poverty when they can no
+  longer work (2).
+- Income security allows older people to afford food, heating and medicines, improving health and
+  life expectancy (2).
+- Pensions reduce older people's dependence on their children, easing pressure on family incomes
   (2).
-- Vaccination and maternity care reduce infant and maternal deaths, raising life expectancy (2).
 
 ---
 
 ## Frequently asked questions
 
-**Should I name Murray in part (e)?** Naming him adds precision, but explaining the underclass and
+**Should I name Murray in part (j)?** Naming him adds precision, but explaining the underclass and
 dependency arguments clearly matters most.
 
-**How do I avoid a one-sided part (f)?** Compare legislation with at least one alternative, such as
-welfare provision or NGOs, before reaching your judgement.
+**How do I avoid a one-sided part (f)?** Weigh the criticisms in 3.2.4 against specific successes of
+legislation, welfare and NGOs before reaching your judgement.
 
 Related pages: [key question 3.2 study guide](/resources/cambridge-o-level-sociology-2251-kq-3-2/) |
 [key question 3.3 practice questions](/resources/cambridge-o-level-sociology-2251-kq-3-3-practice/)

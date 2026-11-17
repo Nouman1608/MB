@@ -91,6 +91,17 @@ practise with the [causes of the First World War practice questions](/resources/
 | Colonial rivalry | Moroccan crises tightened the Entente against Germany | Crises were settled; the war began in the Balkans |
 | Balkans | The trigger and the direct clash of Austrian and Russian interests | Balkan crises in 1908 and 1912-13 did not cause a general war |
 
+## One-line answers to the focus points
+
+- **Did the Alliance System make war more or less likely?** More likely, because it divided Europe into two camps and
+  made allies bolder; but it was defensive, and Italy and Britain show it did not decide action automatically.
+- **How far did colonial problems create tension?** The Moroccan crises tightened the Entente and isolated Germany,
+  but they were settled peacefully; the war began in the Balkans.
+- **Why were Balkan problems so hard to solve?** Austria-Hungary and Russia had directly opposed interests, Serbian
+  nationalism threatened Austria's survival, and each crisis left one side humiliated.
+- **How did the assassination lead to war?** Austria-Hungary used it to attack Serbia with German backing; Russia
+  mobilised; the Schlieffen Plan turned an eastern war into a western one and brought Britain in over Belgium.
+
 ## Exam traps
 
 - **Dates of the alliances.** Triple Alliance 1882, Franco-Russian 1894, Entente Cordiale 1904, Anglo-Russian 1907.

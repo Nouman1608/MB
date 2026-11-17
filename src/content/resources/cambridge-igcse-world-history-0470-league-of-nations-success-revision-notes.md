@@ -101,6 +101,17 @@ the [League of Nations practice questions](/resources/cambridge-igcse-world-hist
 | Hoare-Laval Pact | Secret British and French plan (1935) to give Italy much of Abyssinia |
 | Manchukuo | Japanese puppet state in Manchuria |
 
+## One-line answers to the focus points
+
+- **Did weaknesses make failure inevitable?** They made failure likely against great powers, but the League still
+  solved disputes between smaller states in the 1920s.
+- **How successful was peacekeeping in the 1920s?** Mixed: success in the Aaland Islands and Bulgaria, failure in Vilna
+  and Corfu.
+- **How important was humanitarian work?** It helped millions and outlived the League through the United Nations, but
+  it was not the League's main purpose.
+- **How far did the Depression make the League's work harder?** Greatly: it encouraged aggression by Japan and Italy
+  and made members unwilling to impose sanctions that hurt their own trade.
+
 ## Exam traps
 
 - **Corfu is a failure.** Italy got compensation and the League was bypassed.

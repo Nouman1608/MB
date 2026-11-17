@@ -93,6 +93,19 @@ with the [Hitler's foreign policy practice questions](/resources/cambridge-igcse
 | Anti-Comintern Pact | Agreement against international communism, Germany and Japan 1936 |
 | Secret protocol | Hidden part of the Nazi-Soviet Pact dividing Eastern Europe |
 
+## One-line answers to the focus points
+
+- **Long-term consequences of Versailles?** Grievances over the Rhineland, the Saar, the Corridor and Anschluss that
+  Hitler could exploit, with British sympathy for many of them.
+- **Consequences of the League's failures?** Collective security collapsed after Abyssinia, Italy joined Germany, and
+  Hitler saw that aggression went unpunished.
+- **Was appeasement justified?** Understandable in 1938, given public opinion and British unreadiness, but it
+  encouraged Hitler and rested on a misreading of his aims.
+- **How important was the Nazi-Soviet Pact?** It removed the threat of a two-front war and made the invasion of
+  Poland possible within days.
+- **Why did Britain and France declare war?** Their guarantee to Poland, Hitler's broken promises over Czechoslovakia,
+  and a shift in public opinion against further concessions.
+
 ## Exam traps
 
 - **Britain declared war over Poland, not Czechoslovakia.**
