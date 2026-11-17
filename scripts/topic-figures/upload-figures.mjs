@@ -56,7 +56,7 @@ const env = { ...process.env, CLOUDFLARE_ACCOUNT_ID: accountId };
 const RAW = 'https://raw.githubusercontent.com/Nouman1608/MB/claude/festive-mendel-avo9ej/docs/reports/topic-images/generated/';
 // Create a local folder for any lesson that exists on GitHub but not here yet (new lessons).
 try {
-  const r = await fetch('https://api.github.com/repos/Nouman1608/MB/contents/docs/reports/topic-images/generated?ref=claude/festive-mendel-avo9ej', { headers: { 'User-Agent': 'marlbridge-figure-uploader', Accept: 'application/vnd.github+json' } });
+  const r = await fetch('https://api.github.com/repos/Nouman1608/MB/contents/docs/reports/topic-images/generated?ref=claude/festive-mendel-avo9ej', { headers: { 'User-Agent': 'marlbridge-figure-uploader', Accept: 'application/vnd.github+json' }, signal: AbortSignal.timeout(30000) });
   if (r.ok) {
     let added = 0;
     for (const e of await r.json()) {
@@ -69,37 +69,45 @@ try {
 const files = [];
 let expected = 0, fetched = 0;
 const fetchFailed = [];
-for (const d of fs.readdirSync(root, { withFileTypes: true })) {
-  if (!d.isDirectory()) continue;
-  const dir = path.join(root, d.name);
-  // Refresh this lesson's figure list from GitHub, so renamed or corrected figures are picked up.
-  try {
-    const r = await fetch(RAW + encodeURIComponent(d.name) + '/figures.json');
-    if (r.ok) { const txt = await r.text(); JSON.parse(txt); fs.writeFileSync(path.join(dir, 'figures.json'), txt); }
-  } catch {}
+// Every request gets a time limit and retries, so one stalled connection cannot hang the run.
+const getWithTimeout = async (url, tries = 3) => {
+  for (let i = 0; i < tries; i++) {
+    try { const r = await fetch(url, { signal: AbortSignal.timeout(30000) }); if (r.ok || r.status === 404) return r; } catch {}
+  }
+  return null;
+};
+const pool = async (items, n, fn) => { const q = [...items]; await Promise.all(Array.from({ length: n }, async () => { while (q.length) await fn(q.shift()); })); };
+const dirs = fs.readdirSync(root, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name);
+let seen = 0;
+await pool(dirs, 8, async (name) => {
+  const dir = path.join(root, name);
+  // Refresh this lesson's figure list from GitHub, so new or corrected figures are picked up.
+  const r = await getWithTimeout(RAW + encodeURIComponent(name) + '/figures.json');
+  if (r && r.ok) { try { const txt = await r.text(); JSON.parse(txt); fs.writeFileSync(path.join(dir, 'figures.json'), txt); } catch {} }
   const listed = fs.existsSync(path.join(dir, 'figures.json'))
     ? JSON.parse(fs.readFileSync(path.join(dir, 'figures.json'), 'utf8')).map((x) => x.file) : [];
   expected += listed.length;
   for (const f of listed) {
     const p = path.join(dir, f);
     if (!fs.existsSync(p) || fs.statSync(p).size < 1000) {
-      try {
-        const r = await fetch(RAW + encodeURIComponent(d.name) + '/' + encodeURIComponent(f));
-        const buf = Buffer.from(await r.arrayBuffer());
-        if (r.ok && buf.subarray(0, 4).toString() === 'RIFF') { fs.writeFileSync(p, buf); fetched++; }
-        else fetchFailed.push(f);
-      } catch { fetchFailed.push(f); }
+      const g = await getWithTimeout(RAW + encodeURIComponent(name) + '/' + encodeURIComponent(f));
+      let ok = false;
+      if (g && g.ok) { const buf = Buffer.from(await g.arrayBuffer()); if (buf.subarray(0, 4).toString() === 'RIFF') { fs.writeFileSync(p, buf); fetched++; ok = true; } }
+      if (!ok) fetchFailed.push(f);
     }
   }
   for (const f of fs.readdirSync(dir)) if (f.endsWith('.webp')) files.push(path.join(dir, f));
-}
+  seen++;
+  if (seen % 20 === 0 || seen === dirs.length) process.stdout.write(`\r  Checking lessons: ${seen}/${dirs.length}  |  images downloaded ${fetched}   `);
+});
+console.log('');
 if (fetched) log(`Downloaded ${fetched} images that were missing from this folder.`);
 if (fetchFailed.length) log(`Could not download ${fetchFailed.length} images:\n  ${fetchFailed.join('\n  ')}`);
 log(`Step 3: ${files.length} images in this folder (${expected} expected). Uploading the ones not yet online...`);
 
 // 3. Upload the ones that are not live yet.
 const isLive = async (name) => {
-  try { const r = await fetch(HOST + name, { method: 'HEAD', headers: { 'User-Agent': 'curl/8.5.0' } }); return r.status === 200; } catch { return false; }
+  try { const r = await fetch(HOST + name, { method: 'HEAD', headers: { 'User-Agent': 'curl/8.5.0' }, signal: AbortSignal.timeout(30000) }); return r.status === 200; } catch { return false; }
 };
 // Windows tools fail on paths longer than ~250 characters, and some lesson paths are longer.
 // So each image is copied to a short temporary path before upload; the online name is unchanged.
