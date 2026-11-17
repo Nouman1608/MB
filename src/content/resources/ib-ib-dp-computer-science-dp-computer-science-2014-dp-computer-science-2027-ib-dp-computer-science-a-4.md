@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-a-4"
 description: "Study guide to A.4 Machine learning in IB DP Computer Science: rules versus learning, training data, features, supervised and unsupervised learning, and ethics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page written from the IB subject brief and the site's Theme A coverage; please check the depth of A.4, especially the HL extension, against the full DP Computer Science guide."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page written from the IB subject brief and the site's Theme A coverage; please check the depth of A.4, especially the HL extension, against the full DP Computer Science guide."
 ---
 
 **A.4 Machine learning is the fourth sub-topic of Theme A, "Concepts of computer science", in the IB

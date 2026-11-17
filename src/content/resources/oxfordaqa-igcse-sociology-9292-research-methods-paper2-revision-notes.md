@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "research-methods-paper2-9292"
 description: "Revision notes on applying research methods to Paper 2 topics in OxfordAQA IGCSE Sociology 9292: measuring class, crime, socialisation and control."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

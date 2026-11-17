@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kq-2-2-0495"
 description: "Cambridge IGCSE Sociology 0495 key question 2.2: formal and informal control, sanctions, consensus and conflict views, agencies, surveillance and resistance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

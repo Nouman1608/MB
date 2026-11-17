@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "history-importance-quran-0493"
 description: "Study guide to the revelation of the Qur'an (610–632), its compilation under Abu Bakr and Uthman, its use in law and its importance, for IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, names, verse references and legal examples."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the events, names, verse references and legal examples."
 ---
 
 **The History and Importance of the Qur'an is Paper 1 Topic 2 of Cambridge IGCSE Islamiyat 0493,

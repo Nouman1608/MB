@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "fl-paper-1-reading-writing-3247"
 description: "Planning and writing an argumentative or discursive title in 3247 Paper 1 Part 2: the 300-400-word Urdu composition, its marking strands and model paragraphs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check that every Urdu title, connective and model paragraph on this page is correct and natural."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that every Urdu title, connective and model paragraph on this page is correct and natural."
 publishedDate: 2026-11-17
 featured: false
 ---

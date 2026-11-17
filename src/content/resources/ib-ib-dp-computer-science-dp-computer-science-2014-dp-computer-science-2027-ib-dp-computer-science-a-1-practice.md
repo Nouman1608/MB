@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-a-1"
 description: "Twelve original questions on the CPU, fetch-execute, storage, binary, file sizes, a trace table and the OS for IB DP Computer Science A.1, with worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page written from the IB subject brief and the site's Theme A coverage; please check the questions and mark allocations against the full DP Computer Science guide."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page written from the IB subject brief and the site's Theme A coverage; please check the questions and mark allocations against the full DP Computer Science guide."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

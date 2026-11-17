@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-hl-options-depth-studies-1"
 description: "Condensed HL notes for Africa and the Middle East: imperialism, resistance, South Africa to 1994, Nasser, the Arab-Israeli wars and Iran, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "This page names widely taught content areas, not official section titles; check them against the eighteen sections of this regional option in the IB History guide (first assessment 2017), which could not be retrieved while this page was written."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: This page names widely taught content areas, not official section titles; check them against the eighteen sections of this regional option in the IB History guide (first assessment 2017), which could not be retrieved while this page was written."
 publishedDate: 2026-11-17
 featured: false
 ---

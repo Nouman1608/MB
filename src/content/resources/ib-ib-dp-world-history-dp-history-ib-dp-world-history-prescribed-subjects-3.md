@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-prescribed-subjects-3"
 description: "Prescribed subject 3 for IB History Paper 1: causes, events and responses in Japanese expansion 1931-1941 and German and Italian expansion 1933-1940."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

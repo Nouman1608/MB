@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-prescribed-subjects-5"
 description: "Revision notes for IB History Paper 1 Conflict and intervention: Rwanda 1990-1998 and Kosovo 1989-2002, key terms, comparison grid, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the causes, course and interventions, and impact bullet points for both case studies against the current IB History guide, which could not be retrieved while this page was written."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Check the causes, course and interventions, and impact bullet points for both case studies against the current IB History guide, which could not be retrieved while this page was written."
 publishedDate: 2026-11-17
 featured: false
 ---

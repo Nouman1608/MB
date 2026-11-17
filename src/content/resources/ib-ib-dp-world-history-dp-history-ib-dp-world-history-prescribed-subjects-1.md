@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-prescribed-subjects-1"
 description: "Prescribed subject 1 for IB History Paper 1: Genghis Khan and Richard I, their leadership, campaigns and impact, with source advice and a worked answer plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the leadership, campaigns and impact bullet points for both case studies against the current IB History guide, which could not be retrieved while this page was written."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Check the leadership, campaigns and impact bullet points for both case studies against the current IB History guide, which could not be retrieved while this page was written."
 publishedDate: 2026-11-17
 featured: false
 ---

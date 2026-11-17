@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "sl-paper-1-reading-writing-3248"
 description: "Original note-making drills and a full 9-mark Exercise 3 task on a new Urdu blog for 3248 Paper 1, with model notes, marking points and common errors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check the original Urdu blog, the drill sentences and every model note on this page."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check the original Urdu blog, the drill sentences and every model note on this page."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "life-prophet-0493"
 description: "Recall notes on the Prophet's (pbuh) life for 0493 Paper 1: timeline, Makkan opposition, the Madinan battles and treaties, lessons for today, and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the dates, numbers, names and events."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the dates, numbers, names and events."
 ---
 
 **These notes condense Paper 1 Topic 3 of Cambridge IGCSE Islamiyat 0493, The Life and Importance

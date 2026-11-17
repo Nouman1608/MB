@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "fl-paper-2-texts-3247"
 description: "How to read and write about the unseen Urdu prose or poetry extract in 3247 Paper 2 Part 1: using the prompts, analysing effects and reaching the top levels."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check that the original Urdu extract, the literary terms and the model paragraphs on this page are correct and natural."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that the original Urdu extract, the literary terms and the model paragraphs on this page are correct and natural."
 publishedDate: 2026-11-17
 featured: false
 ---

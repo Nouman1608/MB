@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "reading-1123"
 description: "Twelve original sub-questions on a new narrative extract in the style of 1123 Paper 1 Question 1, on explicit and implicit meaning, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

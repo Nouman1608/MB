@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "writing-1123"
 description: "How to use, develop and evaluate the source texts in 1123 Paper 2 Section A directed writing: the five forms, bias and evidence, planning and a model."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

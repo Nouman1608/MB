@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "reading-1123"
 description: "Condensed notes for the 1123 Paper 1 Question 3a summary: facts, the reading and writing halves, a five-step method, own-words tools, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

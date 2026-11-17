@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "component-4-cambridge-research-report-9239"
 description: "How to keep the 10-mark research log for the 9239 Cambridge Research Report: what to record, plan and reflect on at each stage, with model entries."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

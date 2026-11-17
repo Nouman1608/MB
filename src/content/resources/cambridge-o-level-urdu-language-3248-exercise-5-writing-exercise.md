@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "sl-paper-1-reading-writing-3248"
 description: "Writing the 150-word functional piece in 3248 Paper 1 Exercise 5: reading purpose, format and audience, covering every prompt, register and a model Urdu email."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check that the Urdu openings, closings, register examples and the model email on this page are correct and natural."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that the Urdu openings, closings, register examples and the model email on this page are correct and natural."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-hl-options-depth-studies-1"
 description: "Twelve original HL Paper 3-style practice questions on Africa and the Middle East, from short recall to full 15-mark essays, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check that each question falls within one of the eighteen sections of this regional option in the IB History guide (first assessment 2017), which could not be retrieved while this page was written."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Check that each question falls within one of the eighteen sections of this regional option in the IB History guide (first assessment 2017), which could not be retrieved while this page was written."
 publishedDate: 2026-11-17
 featured: false
 ---

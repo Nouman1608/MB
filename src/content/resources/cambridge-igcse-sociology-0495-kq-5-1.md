@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kq-5-1-0495"
 description: "Cambridge IGCSE Sociology 0495 key question 5.1: formal and informal education, the official and hidden curriculum, types of school and alternative approaches."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

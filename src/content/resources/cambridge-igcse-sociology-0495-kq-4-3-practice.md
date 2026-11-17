@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kq-4-3-0495"
 description: "Original Cambridge IGCSE Sociology 0495 practice on key question 4.3: demographic change, divorce and cohabitation, and changing family roles, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

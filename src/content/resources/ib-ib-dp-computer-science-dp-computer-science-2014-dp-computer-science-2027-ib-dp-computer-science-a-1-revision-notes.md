@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-a-1"
 description: "Recall notes on IB DP Computer Science A.1 Computer fundamentals: CPU registers, fetch-execute, storage, binary, hex, file sizes and the OS, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page written from the IB subject brief and the site's Theme A coverage; please check the depth and scope of A.1 against the full DP Computer Science guide."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page written from the IB subject brief and the site's Theme A coverage; please check the depth and scope of A.1 against the full DP Computer Science guide."
 ---
 
 Condensed for quick recall of **A.1 Computer fundamentals**, the first sub-topic of Theme A in IB DP

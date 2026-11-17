@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "reading-1123"
 description: "Original summary drills and a full 20-mark task on a new Text B-style article for 1123 Paper 1 Question 3a, with a point list, model answer and guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

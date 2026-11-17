@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "geographical-fieldwork-skills-9230"
 description: "Condensed notes on planning a 9230 fieldwork enquiry: aims, questions, hypotheses, suitability factors, theory, location, background research and risk."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "writing-1123"
 description: "Original source-evaluation drills and a full 25-mark directed writing task on two new texts for 1123 Paper 2 Section A, with model openings, plans and guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

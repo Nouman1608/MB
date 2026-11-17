@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "fl-paper-2-texts-3247"
 description: "Answering the 15-mark prose question on the stories, essays and letters set for 3247 Paper 2 Part 3, including the empathic task in a character's voice."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check the Urdu literary terms, the original illustrative scenario and the model Urdu paragraphs, including whether the empathic voice is natural."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check the Urdu literary terms, the original illustrative scenario and the model Urdu paragraphs, including whether the empathic voice is natural."
 publishedDate: 2026-11-17
 featured: false
 ---

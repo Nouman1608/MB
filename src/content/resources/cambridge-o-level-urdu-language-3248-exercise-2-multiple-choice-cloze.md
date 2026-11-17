@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "sl-paper-2-grammar-writing-translation-3248"
 description: "The grammar behind the 3248 Paper 2 Exercise 2 cloze: verb forms, agreement and ne, comparatives, postpositions and word choice, with a worked Urdu passage."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check every Urdu grammar example, the original cloze passage and the explanations of agreement and articles on this page."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check every Urdu grammar example, the original cloze passage and the explanations of agreement and articles on this page."
 publishedDate: 2026-11-17
 featured: false
 ---

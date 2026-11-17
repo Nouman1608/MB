@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "component-1-written-exam-9239"
 description: "Original practice for 9239 Written Exam Question 2: evaluating statistics, a survey, expert and anecdotal evidence in one new source, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

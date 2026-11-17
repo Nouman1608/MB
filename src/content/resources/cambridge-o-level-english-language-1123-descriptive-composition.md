@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "writing-1123"
 description: "Writing the 350-450-word descriptive composition in 1123 Paper 2 Section B: structure without plot, precise detail, atmosphere and a model passage."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

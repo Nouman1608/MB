@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-prescribed-subjects-1"
 description: "Twelve original IB History practice questions on Military leaders: recall on Genghis Khan and Richard I, then a Paper 1-style source set on the Third Crusade."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check that each question sits within the case-study content in the current IB History guide, which could not be retrieved while this page was written, and check the markband summaries against a recent markscheme."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Check that each question sits within the case-study content in the current IB History guide, which could not be retrieved while this page was written, and check the markband summaries against a recent markscheme."
 publishedDate: 2026-11-17
 featured: false
 ---

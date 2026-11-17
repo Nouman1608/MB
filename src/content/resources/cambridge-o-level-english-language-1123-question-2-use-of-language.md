@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "reading-1123"
 description: "How to explain a writer's word choice, imagery and sentence effects for the 9-mark 1123 Paper 1 Question 2 on Text A, with annotated answers and common errors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

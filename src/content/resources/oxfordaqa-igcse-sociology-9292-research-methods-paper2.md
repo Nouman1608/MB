@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "research-methods-paper2-9292"
 description: "Research methods as Paper 2 of OxfordAQA IGCSE Sociology 9292 applies them: researching class, gender, ethnicity, socialisation, social control and crime."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

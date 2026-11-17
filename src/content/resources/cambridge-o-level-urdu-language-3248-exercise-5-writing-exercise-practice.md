@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "sl-paper-1-reading-writing-3248"
 description: "Original register, format and accuracy drills plus two full 14-mark Exercise 5 tasks, an email and a blog review, for 3248 Paper 1 with model Urdu answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check every Urdu drill, faulty example and model answer, including the model email and blog post, on this page."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check every Urdu drill, faulty example and model answer, including the model email and blog post, on this page."
 publishedDate: 2026-11-17
 featured: false
 ---

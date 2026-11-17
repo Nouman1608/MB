@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "reading-1123"
 description: "Writing the 150-word 1123 Paper 1 Question 3a summary of Text B: finding the focus, selecting points, own words, grouping and linking, with a model."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

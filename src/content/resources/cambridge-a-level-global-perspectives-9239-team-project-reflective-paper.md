@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "component-3-team-project-9239"
 description: "How to write the 800-word 9239 Team Project reflective paper: evaluating collaboration with evidence, proposing improvements and reflecting on learning."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

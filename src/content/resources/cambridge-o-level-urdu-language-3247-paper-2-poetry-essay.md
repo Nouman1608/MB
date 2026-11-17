@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "fl-paper-2-texts-3247"
 description: "Writing the 15-mark essay on the prescribed ghazals and nazms in 3247 Paper 2 Part 2: reading the question, ghazal and nazm form, using quotation and planning."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check the Urdu literary terms, the description of ghazal, nazm, musaddas and qita form, and the original illustrative couplet and model paragraph."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check the Urdu literary terms, the description of ghazal, nazm, musaddas and qita form, and the original illustrative couplet and model paragraph."
 publishedDate: 2026-11-17
 featured: false
 ---

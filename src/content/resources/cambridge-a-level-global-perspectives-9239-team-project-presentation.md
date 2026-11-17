@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "component-3-team-project-9239"
 description: "How to build the 30-mark 9239 Team Project presentation: analysing the problem, researching your perspective and justifying a workable solution."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

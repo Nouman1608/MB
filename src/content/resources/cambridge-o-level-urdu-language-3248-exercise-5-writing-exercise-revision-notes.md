@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "sl-paper-1-reading-writing-3248"
 description: "Condensed notes on 3248 Paper 1 Exercise 5: task facts, the writing objectives, purpose-format-audience, register tables, connectives and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check every Urdu greeting, closing, register example and self-test answer on this page."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check every Urdu greeting, closing, register example and self-test answer on this page."
 publishedDate: 2026-11-17
 featured: false
 ---

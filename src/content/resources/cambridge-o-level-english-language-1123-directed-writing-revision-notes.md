@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "writing-1123"
 description: "Condensed notes for 1123 Paper 2 directed writing: task facts, use-develop-evaluate, source questions, the five forms, three purposes, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

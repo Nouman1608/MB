@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "fl-paper-2-texts-3247"
 description: "Original prose and empathic tasks on an illustrative Urdu story, plus full 15-mark questions on the 3247 Paper 2 prescribed prose, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check the original Urdu story extract, the faulty example and every Urdu model answer on this page."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check the original Urdu story extract, the faulty example and every Urdu model answer on this page."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "major-teachings-hadiths-0493"
 description: "Twelve original questions on the set Hadiths for Cambridge IGCSE Islamiyat 0493 Paper 2 Question 1: their teachings and how Muslims act on them, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the explanations of each Hadith and the applications credited in the answers."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the explanations of each Hadith and the applications credited in the answers."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this subtopic. They are **not** reproduced past-paper questions —

@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "fl-paper-2-texts-3247"
 description: "Original unseen Urdu prose extracts with technique questions and a full 20-mark prompted question in the 3247 Paper 2 style, with model answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check that both original Urdu extracts, every question and every model answer on this page are correct and natural."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that both original Urdu extracts, every question and every model answer on this page are correct and natural."
 publishedDate: 2026-11-17
 featured: false
 ---

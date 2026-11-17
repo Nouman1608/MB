@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-prescribed-subjects-2"
 description: "Revision notes for IB History Paper 1 Conquest and its impact: Granada 1482-1492 and Mexico and Peru 1519-1551, key terms, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the context, key events and impact bullet points for both case studies against the current IB History guide, which could not be retrieved while this page was written."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Check the context, key events and impact bullet points for both case studies against the current IB History guide, which could not be retrieved while this page was written."
 publishedDate: 2026-11-17
 featured: false
 ---

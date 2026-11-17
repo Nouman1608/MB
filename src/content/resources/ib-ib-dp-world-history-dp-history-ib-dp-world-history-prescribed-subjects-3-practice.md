@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-prescribed-subjects-3"
 description: "Twelve original IB History practice questions on The move to global war: recall on Germany and Italy, then a Paper 1-style source set on Japan in Manchuria."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

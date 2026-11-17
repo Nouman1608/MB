@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "component-2-essay-9239"
 description: "Recall notes on AO2 in the 9239 Essay: the five-step reflection sequence, ways a view can move, limits of research and relevant further research."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

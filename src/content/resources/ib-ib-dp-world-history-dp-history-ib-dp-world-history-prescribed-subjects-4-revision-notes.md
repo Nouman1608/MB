@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-prescribed-subjects-4"
 description: "Revision notes for IB History Paper 1 Rights and protest: US civil rights and apartheid South Africa, laws, campaigns, key actors, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "major-themes-quran-0493"
 description: "How to read the fifteen set Qur'an passages for 0493 Paper 1 Question 1: finding the theme, using key Arabic words and linking each one to Muslim life."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the Arabic terms, the readings of each passage and the applications given."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the Arabic terms, the readings of each passage and the applications given."
 ---
 
 **Major Themes of the Qur'an is Paper 1 Topic 1 of Cambridge IGCSE Islamiyat 0493, and it is always

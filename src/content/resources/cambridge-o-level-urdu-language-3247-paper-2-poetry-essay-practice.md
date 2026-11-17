@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "fl-paper-2-texts-3247"
 description: "Original form, planning and paragraph tasks plus full 15-mark essays on the prescribed poems for 3247 Paper 2 Part 2, with model Urdu answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check the original illustrative couplet, the faulty example, every Urdu model answer and the form terms on this page."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check the original illustrative couplet, the faulty example, every Urdu model answer and the form terms on this page."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "component-1-written-exam-9239"
 description: "How to plan and write the 15-mark Question 2 in the 9239 Written Exam: mapping the evidence in one source, testing each piece and reaching a judgement."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

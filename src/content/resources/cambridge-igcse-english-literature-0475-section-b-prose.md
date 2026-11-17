@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-prose-0475"
 description: "How to write about a prose set text for 0475 Paper 1 Section B: voice, character, setting, structure and dialogue, with a model on an original passage."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "writing-1123"
 description: "Original plot, opening, dialogue and pacing drills plus a full 25-mark narrative composition for 1123 Paper 2 Section B, with model answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

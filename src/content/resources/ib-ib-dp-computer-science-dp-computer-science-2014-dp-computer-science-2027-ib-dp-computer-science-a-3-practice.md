@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-a-3"
 description: "Twelve original questions on keys, flat files, two-table SQL, updates, and HL aggregates and transactions for IB DP Computer Science A.3, with worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page written from the IB subject brief and the site's Theme A coverage; please check the SQL, the HL labels and the mark allocations against the full DP Computer Science guide."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page written from the IB subject brief and the site's Theme A coverage; please check the SQL, the HL labels and the mark allocations against the full DP Computer Science guide."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

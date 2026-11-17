@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "first-islamic-community-0493"
 description: "Who's who recall notes for 0493 Paper 1 Topic 4: family links, wives, children, Imams, the Ten Blessed, scribes, Emigrants and Helpers, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the names, relationships and life details."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the names, relationships and life details."
 ---
 
 **These notes condense Paper 1 Topic 4 of Cambridge IGCSE Islamiyat 0493, The First Islamic

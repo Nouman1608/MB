@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "component-2-essay-9239"
 description: "How to meet the AO2 demands of the 9239 Essay: reflecting on how other perspectives changed your view, and suggesting specific further research."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

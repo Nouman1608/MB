@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "living-with-physical-environment-9230"
 description: "Original exam-style ecosystem questions for OxfordAQA IGCSE Geography 9230: food webs, nutrient cycling, changing one component and biomes, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

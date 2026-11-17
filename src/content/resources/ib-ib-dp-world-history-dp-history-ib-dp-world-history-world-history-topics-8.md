@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-8"
 description: "Origins, methods, leaders and post-independence challenges of independence movements 1800-2000, using India, Algeria, Ghana and Vietnam for Paper 2 essays."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the content headings described here, including the period after independence that the topic covers, against the IB History guide (first assessment 2017), which could not be retrieved while this page was written."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Check the content headings described here, including the period after independence that the topic covers, against the IB History guide (first assessment 2017), which could not be retrieved while this page was written."
 publishedDate: 2026-11-17
 featured: false
 ---

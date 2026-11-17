@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-9"
 description: "Twelve original IB History practice questions on democratic states 1848-2000, from short recall to a full Paper 2 essay, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check that each question sits within the topic's prescribed content in the IB History guide (first assessment 2017), which could not be retrieved while this page was written."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Check that each question sits within the topic's prescribed content in the IB History guide (first assessment 2017), which could not be retrieved while this page was written."
 publishedDate: 2026-11-17
 featured: false
 ---

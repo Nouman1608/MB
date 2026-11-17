@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "component-3-team-project-9239"
 description: "Recall notes on the 9239 Team Project presentation: the seven assessed skills, analysing the problem, effective and workable solutions, AO3 and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

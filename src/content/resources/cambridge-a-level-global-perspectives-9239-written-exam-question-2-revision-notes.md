@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "component-1-written-exam-9239"
 description: "Recall notes for 9239 Written Exam Question 2: testing evidence by type, the five evidence-claim gaps, suggesting further evidence and a 15-mark plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

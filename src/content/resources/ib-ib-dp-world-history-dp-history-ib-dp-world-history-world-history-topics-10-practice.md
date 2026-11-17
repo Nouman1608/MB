@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-10"
 description: "Twelve original IB History practice questions on 20th-century authoritarian states, from short recall to a full Paper 2 essay, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-2"
 description: "IB History Paper 2 world history topic 2, medieval wars 750-1500: causes, practices and effects of war across regions, with a worked comparative essay plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the topic's prescribed content headings against the current IB History guide, which could not be retrieved while this page was written; the three headings here follow the pattern of the guide's war topics."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Check the topic's prescribed content headings against the current IB History guide, which could not be retrieved while this page was written; the three headings here follow the pattern of the guide's war topics."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-3"
 description: "IB History Paper 2 world history topic 3, Dynasties and rulers 750-1500: legitimacy, gaining and keeping power, religion and decline, with a worked essay plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the topic's prescribed content headings against the current IB History guide, which could not be retrieved while this page was written; the themes here follow the topic's general scope."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Check the topic's prescribed content headings against the current IB History guide, which could not be retrieved while this page was written; the themes here follow the topic's general scope."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kq-1-2-0495"
 description: "Cambridge IGCSE Sociology 0495 key question 1.2: primary and secondary data, qualitative and quantitative evidence, and how to analyse tables and graphs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

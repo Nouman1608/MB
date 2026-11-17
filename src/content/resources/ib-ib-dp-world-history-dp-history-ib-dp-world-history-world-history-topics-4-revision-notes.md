@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-4"
 description: "Revision notes for IB History Paper 2 Societies in transition 1400-1700: timelines, change and continuity grids, key terms, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the topic's prescribed content headings against the current IB History guide, which could not be retrieved while this page was written; the themes here follow the topic's general scope."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Check the topic's prescribed content headings against the current IB History guide, which could not be retrieved while this page was written; the themes here follow the topic's general scope."
 publishedDate: 2026-11-17
 featured: false
 ---

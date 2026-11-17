@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "component-1-written-exam-9239"
 description: "How to write the 25-mark Question 3 essay in the 9239 Written Exam: comparing two sources' arguments by criteria and reaching a reasoned judgement."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

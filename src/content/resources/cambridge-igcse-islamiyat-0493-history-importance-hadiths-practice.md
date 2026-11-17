@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "history-importance-hadiths-0493"
 description: "Twelve original questions on isnad and matn, Hadith grades, al-Bukhari and the Sunni and Shi'a collections for IGCSE Islamiyat 0493 Paper 2, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the compilers, collection features, methods and dates given in the answers."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the compilers, collection features, methods and dates given in the answers."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this subtopic. They are **not** reproduced past-paper questions —

@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "life-prophet-0493"
 description: "Study guide to the Prophet's life in Makka and Madina, his character, his example for individuals and states, and the Seal of the Prophets, for IGCSE 0493."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the dates, names, events and the examples drawn for Muslims today."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the dates, names, events and the examples drawn for Muslims today."
 ---
 
 **The Life and Importance of the Prophet Muhammad (pbuh) is Paper 1 Topic 3 of Cambridge IGCSE

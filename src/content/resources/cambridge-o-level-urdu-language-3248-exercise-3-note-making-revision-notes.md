@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "sl-paper-1-reading-writing-3248"
 description: "Condensed notes on 3248 Paper 1 Exercise 3 Note-making: the task facts, what a good Urdu note looks like, mapping to headings, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check that every Urdu example note and self-test answer on this page is correct and natural."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that every Urdu example note and self-test answer on this page is correct and natural."
 publishedDate: 2026-11-17
 featured: false
 ---

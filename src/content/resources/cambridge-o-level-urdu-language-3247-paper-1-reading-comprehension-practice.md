@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "fl-paper-1-reading-writing-3247"
 description: "Twelve original comprehension questions on a new non-literary Urdu passage in the 3247 Paper 1 Part 1 style, covering R1 to R4, with full marked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check that the original Urdu passage, every question and every model answer on this page is correct and natural."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that the original Urdu passage, every question and every model answer on this page is correct and natural."
 publishedDate: 2026-11-17
 featured: false
 ---

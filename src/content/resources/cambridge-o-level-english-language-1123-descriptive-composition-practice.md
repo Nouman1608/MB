@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "writing-1123"
 description: "Original detail, structure and sentence drills plus a full 25-mark descriptive composition for 1123 Paper 2 Section B, with model answers and marking guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

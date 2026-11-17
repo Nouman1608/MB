@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "sl-paper-2-grammar-writing-translation-3248"
 description: "Condensed notes for 3248 Paper 2 Exercise 4 translation: task facts, English-to-Urdu tense map, word order, articles, gender, idioms, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check every Urdu translation in the tables and the self-test answers on this page."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check every Urdu translation in the tables and the self-test answers on this page."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-9"
 description: "Condensed IB History notes on democratic states 1848-2000: emergence, challenges, responses and policies in Weimar, India and South Africa, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the three content headings and their bullet wording against the IB History guide (first assessment 2017), which could not be retrieved while this page was written."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Check the three content headings and their bullet wording against the IB History guide (first assessment 2017), which could not be retrieved while this page was written."
 publishedDate: 2026-11-17
 featured: false
 ---

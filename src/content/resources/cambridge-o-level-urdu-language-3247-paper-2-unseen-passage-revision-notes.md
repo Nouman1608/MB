@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "fl-paper-2-texts-3247"
 description: "Condensed notes on the 3247 Paper 2 Unseen Passage: the six levels, a reading method, Urdu literary terms and effects, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check that every Urdu literary term, example and self-test answer on this page is correct and natural."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that every Urdu literary term, example and self-test answer on this page is correct and natural."
 publishedDate: 2026-11-17
 featured: false
 ---

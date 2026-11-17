@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-12"
 description: "Twelve original IB History Cold War practice questions on origins, China, leaders, nations, crises and the end of the Cold War, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

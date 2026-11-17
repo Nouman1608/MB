@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "fl-paper-1-reading-writing-3247"
 description: "How to answer the 3247 Paper 1 Part 1 comprehension questions on a 400-word non-literary Urdu text, objective by objective, with an annotated example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check that every Urdu passage, question and model answer on this page is correct and natural."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that every Urdu passage, question and model answer on this page is correct and natural."
 publishedDate: 2026-11-17
 featured: false
 ---

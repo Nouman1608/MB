@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-11"
 description: "Twelve original IB History practice questions on the causes, practices and effects of 20th-century wars, with mark-scheme answers and a full Paper 2 essay."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

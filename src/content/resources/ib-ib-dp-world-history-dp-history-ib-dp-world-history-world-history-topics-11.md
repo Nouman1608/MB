@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-11"
 description: "Causes, practices and effects of 20th-century wars, with the First World War, the Spanish Civil War, the Falklands and Iran-Iraq wars as cases for Paper 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

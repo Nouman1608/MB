@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "component-4-cambridge-research-report-9239"
 description: "How to choose, design and explain research methods for the 9239 Cambridge Research Report, and how methodology shapes what your conclusion can claim."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

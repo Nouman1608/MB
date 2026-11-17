@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-world-history-world-history-topics-10"
 description: "Condensed IB History notes on authoritarian states: emergence, consolidation, policies on women and minorities, four case timelines and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

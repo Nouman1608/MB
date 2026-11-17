@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "sl-paper-2-grammar-writing-translation-3248"
 description: "Original English sentences and a full 150-word passage to translate into Urdu for 3248 Paper 2 Exercise 4, with model translations and the point each one tests."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check every model Urdu translation and the corrected faulty sentence on this page."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check every model Urdu translation and the corrected faulty sentence on this page."
 publishedDate: 2026-11-17
 featured: false
 ---

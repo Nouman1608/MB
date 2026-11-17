@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "geographical-fieldwork-skills-9230"
 description: "Condensed notes for 9230 photograph and sketch skills: photo types, a reading system, map matching, field sketch steps, sketch maps and annotation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

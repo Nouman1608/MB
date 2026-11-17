@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "sl-paper-1-reading-writing-3248"
 description: "How to make brief Urdu notes under supplied headings in 3248 Paper 1 Exercise 3: mapping the text to headings, writing good notes and preparing for the summary."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check that the original Urdu article, the headings and every example note on this page are correct and natural."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that the original Urdu article, the headings and every example note on this page are correct and natural."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "fl-paper-2-texts-3247"
 description: "Condensed notes for the 3247 Paper 2 Poetry essay: set poems, ghazal and nazm form terms, the five levels, paragraph method, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check the Urdu literary terms, the form definitions and the self-test answers on this page."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check the Urdu literary terms, the form definitions and the self-test answers on this page."
 publishedDate: 2026-11-17
 featured: false
 ---

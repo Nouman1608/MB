@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kq-2-1-0495"
 description: "Revision notes for Cambridge IGCSE Sociology 0495 key question 2.1: culture and status, nature and nurture, agencies and processes of socialisation, theories."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

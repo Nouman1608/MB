@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "component-4-cambridge-research-report-9239"
 description: "Original practice on the 9239 research log: labelling record, plan and reflect, writing source, feedback, decision and finding entries, and judging logs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

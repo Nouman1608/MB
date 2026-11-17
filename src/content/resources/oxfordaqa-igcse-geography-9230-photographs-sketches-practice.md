@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "geographical-fieldwork-skills-9230"
 description: "Original 9230 practice on photographs and sketches: describing landscapes, direction of view, field sketches, comparing maps and satellite images."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "first-islamic-community-0493"
 description: "The Prophet's wives, descendants and Imams, the Ten Blessed Companions, scribes, Emigrants, Helpers and the four caliphs, for Cambridge IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the names, relationships, life details and the list of Imams."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the names, relationships, life details and the list of Imams."
 ---
 
 **The First Islamic Community is Paper 1 Topic 4 of Cambridge IGCSE Islamiyat 0493.** It is about

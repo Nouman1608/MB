@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "history-importance-quran-0493"
 description: "Recall notes for 0493 Paper 1 Question 2: stages of revelation, the two compilations, key people, the Qur'an in law and its importance, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the sequence of events, names and verse references."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the sequence of events, names and verse references."
 ---
 
 **These notes condense Paper 1 Topic 2 of Cambridge IGCSE Islamiyat 0493, The History and

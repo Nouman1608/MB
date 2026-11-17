@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kq-3-2-0495"
 description: "Revision notes for Cambridge IGCSE Sociology 0495 key question 3.2: tax, minimum wage, equality laws, welfare, NGOs and the debates about whether they work."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

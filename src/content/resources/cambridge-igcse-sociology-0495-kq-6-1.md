@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kq-6-1-0495"
 description: "Cambridge IGCSE Sociology 0495 key question 6.1: crime and deviance, relativity, formal and informal social control, types of crime and measuring crime."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

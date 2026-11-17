@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "component-4-cambridge-research-report-9239"
 description: "Recall notes on the 9239 research log: syllabus rules, record-plan-reflect, what to log at each stage, entry types, habits, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---
