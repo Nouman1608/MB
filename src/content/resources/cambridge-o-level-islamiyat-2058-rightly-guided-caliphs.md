@@ -40,6 +40,11 @@ models of government.
 
 Their lives during the Prophet's lifetime belong to Paper 1; this topic begins in 632.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--01-caliphs-timeline.webp" width="900" height="517" alt="A scaled bar from 632 to 661 divided into the rules of Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (656–661), with key events for each: Usama's army, the Ridda wars and the collection of the Qur'an; Umar's conquests and administration; Uthman's expansion, navy, standard copies and the siege; and Ali's battles of the Camel, Siffin and Nahrawan." loading="lazy">
+  <figcaption>Four rules in under thirty years; Umar and Uthman ruled longest.</figcaption>
+</figure>
+
 ## Abu Bakr (632–634): holding the community together
 
 **Becoming caliph.** When the Prophet (pbuh) died, the Ansar gathered at the Saqifa of Banu Sa'ida to
@@ -70,6 +75,11 @@ the Prophet.
 
 *Leadership lesson:* firmness on principle combined with humility and accountability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--02-abu-bakr-problems-responses.webp" width="900" height="729" alt="Five problems and Abu Bakr's responses: choosing a leader at the Saqifa; sending Usama's army despite danger at home; the Ridda wars against tribes refusing zakat and false prophets, ending at Yamama; collecting the Qur'an after huffaz died; and nominating Umar after consultation." loading="lazy">
+  <figcaption>Abu Bakr met each crisis firmly and kept the community and the Qur'an intact.</figcaption>
+</figure>
+
 ## Umar (634–644): building a state
 
 - **Title and style.** The first to be called **Amir al-Mu'minin**, "Commander of the Faithful". He
@@ -91,6 +101,11 @@ the Prophet.
 
 *Leadership lesson:* justice applied to the powerful as strictly as to the weak.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--03-umar-building-a-state.webp" width="900" height="581" alt="Umar at the centre with four areas: expansion through Yarmuk, Qadisiyya, Jerusalem, Egypt and Nahawand; administration with governors, separate qadis, the bayt al-mal, the diwan, garrison towns and the Hijri calendar; accountability through checks on governors; and religion, gathering Muslims for tarawih." loading="lazy">
+  <figcaption>Conquest, institutions and accountability: Umar turned a community into a state.</figcaption>
+</figure>
+
 ## Uthman (644–656): growth and division
 
 - **Chosen** by the council of six through Abd al-Rahman ibn Awf, who consulted widely in Madina.
@@ -107,6 +122,11 @@ the Prophet.
 
 *Leadership lesson:* generosity and restraint; but also the danger of appointing relatives, which
 fuelled distrust even where they were capable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--04-uthman-achievements-difficulties.webp" width="900" height="571" alt="Two columns. Achievements: chosen by the council of six, expansion into North Africa, Armenia and Persia, the first navy and Cyprus, standard copies of the Qur'an and the enlarged Prophet's Mosque. Difficulties: relatives appointed as governors, complaints from Egypt, Kufa and Basra, the siege of his house and his killing in 656." loading="lazy">
+  <figcaption>Uthman's rule brought growth and the standard Qur'an, but also division.</figcaption>
+</figure>
 
 ## Ali (656–661): leading through civil conflict
 
@@ -127,6 +147,11 @@ fuelled distrust even where they were capable.
 *Leadership lesson:* keeping to principle in a crisis, and preferring negotiation to further
 bloodshed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--05-ali-civil-conflict.webp" width="900" height="719" alt="Six steps through Ali's rule: chosen in Madinah in 656; the Battle of the Camel over punishing Uthman's killers; the capital moved to Kufa; arbitration at Siffin in 657; the defeat of the Kharijites at Nahrawan in 658; and his death at Kufa in 661." loading="lazy">
+  <figcaption>Camel, Siffin, Nahrawan: three crises in three years, in that order.</figcaption>
+</figure>
+
 ## Comparing approaches to leadership
 
 | Issue | How the caliphs responded | Model for government today |
@@ -137,6 +162,11 @@ bloodshed.
 | Minorities | Umar's guarantee to the Christians of Jerusalem | Protection of the rights and worship of all citizens |
 | Rebellion and dissent | Abu Bakr against the Ridda; Uthman's restraint; Ali against the Kharijites | Uphold the law while avoiding needless bloodshed |
 | Other states | Treaties, terms offered before fighting, rules protecting civilians | International agreements and humane conduct in war |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--06-how-each-was-chosen.webp" width="900" height="567" alt="Four cards: Abu Bakr chosen by discussion at the Saqifa and a public pledge; Umar nominated by Abu Bakr after consultation; Uthman chosen by a council of six through Abd al-Rahman ibn Awf; and Ali chosen in Madinah after Uthman's death. The members of the council of six are listed." loading="lazy">
+  <figcaption>Four different methods, each resting on consultation and consent.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -151,6 +181,11 @@ his house → refusal to allow fighting on his behalf → killed in 656 while re
 
 *Why it scores well:* the difficulties are explained in a chain of cause and effect, and his response
 to each is included.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--07-uthman-difficulties-chain.webp" width="900" height="792" alt="A vertical chain: a large empire with new Muslims; disputes over recitation resolved by standardisation; criticism of relatives as governors; complaints from Egypt, Kufa and Basra; an alleged letter turning the Egyptian delegation back; the siege of his house, where he refused to let others fight for him; and his killing in 656." loading="lazy">
+  <figcaption>Each difficulty led to the next; include Uthman's response at every step.</figcaption>
+</figure>
 
 ## Common mistakes
 

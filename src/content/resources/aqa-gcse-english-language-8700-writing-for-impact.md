@@ -46,6 +46,11 @@ Impact starts before you write a sentence: it depends on what you choose to incl
 In narrative and description (Paper 1), the same principle applies to detail: choose the one image that carries the
 mood, and place it where the reader will feel it most.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-writing-for-impact--01-select-organise-emphasise.webp" width="900" height="510" alt="Three panels. Select: three strong, distinct ideas beat six thin ones. Organise: a climactic order saves the most powerful point for last, while strongest first wins attention; either works if deliberate. Emphasise: the end of a sentence or paragraph, a one-sentence paragraph, a short sentence after long ones and a repeated key word all give weight." loading="lazy">
+  <figcaption>Impact starts with what you include and where you put it.</figcaption>
+</figure>
+
 ## Citing evidence and quotation pertinently
 
 "Pertinently" means relevant and well-timed. Evidence persuades when it is specific and when the writer explains why
@@ -61,6 +66,11 @@ it matters.
 On Paper 2, ideas and details from the Section A sources can feed your argument in Section B, because the two
 sections share a theme. Use them as springboards, rephrased in your own words, not as copied passages.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-writing-for-impact--02-pertinent-evidence.webp" width="900" height="589" alt="A table of four kinds of evidence: an example such as “the bus that stopped running last spring”, an anecdote, an expert view such as “Doctors have long warned that…”, and a quotation, each with how to make it pertinent. Ideas from the Paper 2 sources can feed the Section B argument because the sections share a theme." loading="lazy">
+  <figcaption>Evidence persuades when it is specific and its importance is explained.</figcaption>
+</figure>
+
 ## Creating emotional impact
 
 Emotional impact comes from making the abstract concrete. "Loneliness affects older people" informs; "Mrs Patel has not
@@ -74,6 +84,11 @@ spoken to anyone since Tuesday" makes the reader feel. Useful methods:
 
 Match the emotion to the task. An assembly speech can be passionate; a letter to a council officer is more convincing
 when its feeling is controlled.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-writing-for-impact--03-abstract-to-concrete.webp" width="900" height="724" alt="“Loneliness affects older people” informs, but “Mrs Patel has not spoken to anyone since Tuesday” makes the reader feel. Five methods create emotional impact: a specific human detail, precise emotive vocabulary, direct address, a shift in tone and restraint. An assembly speech can be passionate; a letter to a council officer needs controlled feeling." loading="lazy">
+  <figcaption>A specific human detail moves a reader more than a generalisation.</figcaption>
+</figure>
 
 ## Rhetorical devices
 
@@ -97,6 +112,16 @@ Other devices often used for impact:
 | Irony | "What a triumph of planning: a cycle lane that ends in a wall." |
 | Imperative | "Picture it. Now picture it gone." |
 | Inclusive pronouns | "Together, we can keep it open." |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-writing-for-impact--04-three-named-devices.webp" width="900" height="698" alt="Three devices with examples. Rhetorical question: “Is a few minutes’ convenience really worth a lifetime of litter?” Antithesis: “We built the roads for cars; we must now rebuild them for people,” two contrasting halves in balance. Parenthesis: “announced without any public meeting” inserted between commas to add a pointed aside." loading="lazy">
+  <figcaption>Rhetorical question, antithesis and parenthesis: know each precisely.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-writing-for-impact--05-other-devices.webp" width="900" height="674" alt="A table of six more devices with examples: tricolon (“cheaper, cleaner and kinder”), anaphora (“We need trees. We need shade.”), hyperbole, irony, imperative (“Picture it. Now picture it gone.”) and inclusive pronouns (“Together, we can keep it open.”)." loading="lazy">
+  <figcaption>Use a few devices, each once and for a reason.</figcaption>
+</figure>
 
 ## Using language creatively and imaginatively
 
@@ -126,6 +151,11 @@ familiar ones.
 The revision selects a striking opening image, emphasises loss by placing it last, uses each named device once and
 for a reason, and keeps the register suitable for a public article.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-writing-for-impact--06-library-plain-to-powerful.webp" width="900" height="861" alt="A plain draft (“The library should stay open… People need it.”) is rebuilt in six steps: a concrete opening detail, antithesis and tricolon, the council’s word “non-essential” quoted, anaphora with specific people, parenthesis with end focus on loss, and a single rhetorical question." loading="lazy">
+  <figcaption>Select a striking image, use each device once, and end on loss.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Device-stuffing:** a rhetorical question in every paragraph loses force.
@@ -145,6 +175,11 @@ for a reason, and keeps the register suitable for a public article.
 Related: [Paper 2 study guide](/resources/aqa-gcse-english-language-paper-2/) |
 [Paper 2 practice questions](/resources/gcse-english-language-paper-2-practice/) |
 [clear and coherent writing study guide](/resources/aqa-gcse-english-language-8700-producing-clear-and-coherent-text/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-writing-for-impact--07-plan-the-impact.webp" width="900" height="595" alt="Five paragraph blocks with planned markers: the first line, the most emotional moment in the middle, and the strongest point at the end (one possible climactic plan). A dashed arrow shows the final line can echo the opening. Endings can be an echo of the opening, a call to action or a resonant image." loading="lazy">
+  <figcaption>Mark your strongest point and most emotional moment in the plan.</figcaption>
+</figure>
 
 ## Official syllabus
 

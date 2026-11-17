@@ -38,6 +38,11 @@ answer **one question from a choice of two**. Across the unit you need knowledge
 theories and approaches; skills in data analysis; and skills in academic argument and evaluation of ideas. Any data or
 material a question provides should be used as evidence, not just mentioned.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--01-section-requirements.webp" width="900" height="575" alt="Unit 3 is a 2-hour exam worth 50 marks and 30% of the A-level. Section B, International English, is worth 25 marks; students answer one question from two, each setting out an issue for discussion and building on the Unit 2 essay. Answers need knowledge of theories, use of any material as evidence, and academic argument." loading="lazy">
+  <figcaption>An issue to argue, not a topic to survey: 25 marks, one question from two.</figcaption>
+</figure>
+
 ## Strand 1: established world Englishes
 
 World Englishes are national and regional varieties with their own norms: Indian, Nigerian, Singaporean, Caribbean,
@@ -59,6 +64,16 @@ South African, Australian and many more.
 forward), coined by analogy with "postpone"; the invariant tag "isn't it" used in several varieties; Singapore
 English discourse particles such as "lah"; local vocabulary from contact languages.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--03-models-of-spread.webp" width="900" height="840" alt="Three models and a set of features. Kachru’s inner, outer and expanding circles recognise outer-circle varieties but are nation-based with the inner circle at the centre. McArthur’s wheel puts World Standard English at the hub with regional varieties around it. Modiano puts proficient international users at the centre. Features such as “prepone”, invariant “isn’t it” and “lah” are systematic." loading="lazy">
+  <figcaption>Each model puts a different group at the centre; evaluate the model, do not just describe it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--04-schneider-dynamic-model.webp" width="900" height="560" alt="Schneider’s Dynamic Model as five rising steps: foundation, exonormative stabilisation, nativisation, endonormative stabilisation and differentiation, showing how a postcolonial English becomes an accepted local variety." loading="lazy">
+  <figcaption>Schneider’s five phases explain how a postcolonial English becomes accepted locally.</figcaption>
+</figure>
+
 ## Strand 2: English as a lingua franca (ELF)
 
 A lingua franca is a shared language between people with different first languages. Non-native users of English are widely
@@ -75,6 +90,16 @@ agreed to outnumber native speakers, and many English conversations take place w
 
 The difference between the two strands matters. World Englishes research focuses on **varieties** tied to places and
 communities; ELF research focuses on **communication** between speakers from anywhere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--02-two-strands.webp" width="900" height="608" alt="Two columns. Established world Englishes are long-standing national and regional varieties with their own norms, such as Indian, Nigerian and Singaporean English, studied through models of spread. English as a lingua franca is a shared language between speakers with different first languages, studied through the Lingua Franca Core, the VOICE corpus and accommodation." loading="lazy">
+  <figcaption>World Englishes research studies varieties tied to places; ELF research studies communication between speakers from anywhere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--05-elf-research.webp" width="900" height="705" alt="Jenkins’s Lingua Franca Core: most consonant sounds and vowel length matter most for intelligibility, the “th” sounds matter less. The VOICE corpus shows omitted third-person “-s” and “isn’t it?” as a universal tag rarely impede understanding. Accommodation strategies: repetition, paraphrase, checking understanding, adjusting for the listener." loading="lazy">
+  <figcaption>ELF research measures success by intelligibility and accommodation, not native-like accuracy.</figcaption>
+</figure>
 
 ## The connecting debates
 
@@ -110,6 +135,11 @@ adopting English for their own purposes (Crystal) give opposing frames.
 Will English fragment into separate languages, converge on a global standard, or continue as a family of varieties
 with an international style alongside? Each position can be supported, so evaluation is essential.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--06-connecting-debates.webp" width="900" height="850" alt="Five debates as opposing positions: Quirk’s single standard against Kachru’s legitimate outer-circle norms, with Widdowson on ownership; intelligibility against identity; native, local or ELF teaching models and native-speakerism; Phillipson’s linguistic imperialism against Crystal’s view of speakers adopting English; and whether English will fragment, converge or continue as a family of varieties." loading="lazy">
+  <figcaption>Each debate has a case on both sides, so the essay must weigh them and judge.</figcaption>
+</figure>
+
 ## Worked example
 
 **Issue** (original, written for this guide): *"Non-native speakers should aim to speak English like native speakers."
@@ -137,6 +167,11 @@ Discuss.*
 > the "th" sounds, rarely cause misunderstanding. Indeed, native speakers can be the least intelligible participants
 > in such interactions when they use idioms or fast connected speech without accommodating. If the goal is effective
 > communication, then, the native speaker is not the obvious model.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-9670-section-b-international-english--07-worked-plan.webp" width="900" height="790" alt="A six-part plan for the native-speaker question: a thesis that intelligibility matters more than native-like speech; the case for the view (Quirk); the case against from ELF (Jenkins) and world Englishes (Kachru, Schneider); evaluation of identity, ownership and native-speakerism (Widdowson); and a qualified conclusion." loading="lazy">
+  <figcaption>Test the claim from both sides, using both strands, and end with a qualified judgement.</figcaption>
+</figure>
 
 ## Using any material provided
 

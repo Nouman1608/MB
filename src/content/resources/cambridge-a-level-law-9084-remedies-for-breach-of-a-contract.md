@@ -119,6 +119,21 @@ Wood (1953) the claimant did not have to start uncertain litigation against a th
   is recoverable only in limited categories, remoteness can leave real losses uncompensated, and
   money cannot replace unique property.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-remedies-for-breach-of-a-contract--01-measures-of-damages.webp" width="900" height="498" alt="Three measures of contract damages: expectation loss (difference in value under s51, cost of cure limited by Ruxley, loss of profit), reliance loss for wasted expenditure (Anglia TV v Reed; not to escape a bad bargain, C and P Haulage), and non-pecuniary loss, normally barred by Addis but allowed for pleasure or peace of mind contracts (Jarvis, Jackson, Farley v Skinner, Watts v Morrow)." loading="lazy">
+  <figcaption>Choose one measure: expectation, reliance, or in limited cases disappointment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-remedies-for-breach-of-a-contract--02-ruxley-cost-of-cure.webp" width="900" height="468" alt="Two bars to scale: the £21,560 cost of rebuilding the pool, which was refused as unreasonable, against the £2,500 award for loss of amenity upheld by the House of Lords in Ruxley Electronics v Forsyth." loading="lazy">
+  <figcaption>Rebuilding cost over eight times the award: cost of cure must be reasonable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-remedies-for-breach-of-a-contract--03-limits-on-recovery.webp" width="900" height="736" alt="Three filters on damages: causation (Quinn v Burch Bros), remoteness under Hadley v Baxendale as refined in Victoria Laundry, The Heron II, Parsons v Uttley Ingham and The Achilleas, and mitigation (British Westinghouse; Payzu v Saunders; Pilkington v Wood). Below, the strengths and weaknesses of damages as a remedy." loading="lazy">
+  <figcaption>Loss must be caused by the breach, not too remote, and not avoidable.</figcaption>
+</figure>
+
 ## 3.4.2 Equitable remedies
 
 ### Purpose
@@ -160,6 +175,11 @@ Discretion allows the court to fit the remedy to the case and protect interests 
 but it reduces predictability. Refusal for personal services protects individual liberty, though it
 can leave employers or promoters without an effective remedy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-remedies-for-breach-of-a-contract--04-equitable-remedies.webp" width="900" height="888" alt="Four equitable remedies: specific performance (Falcke v Gray; Beswick), specific restitution, rescission and injunction (Warner Brothers v Nelson). A table lists the limits: adequate damages, personal services (Page One Records), constant supervision (Co-operative Insurance v Argyll), mutuality (Flight v Bolland), conduct, delay and hardship (Patel v Ali), and the bars to rescission (Long v Lloyd; Leaf)." loading="lazy">
+  <figcaption>Equity fills gaps that money leaves, but only at the court’s discretion.</figcaption>
+</figure>
+
 ## Worked example: calculating damages
 
 *Scenario: Bayview Café orders a coffee machine for £4,000 from BrewTech Ltd, delivery 1 May.
@@ -174,6 +194,11 @@ lost while it had no machine, and £10,000 from a lucrative catering contract it
 3. **Catering contract:** like the dyeing contracts in Victoria Laundry, it was not communicated, so
    the £10,000 is too remote.
 4. **Conclusion:** £600 plus normal profits lost for a reasonable replacement period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-remedies-for-breach-of-a-contract--05-bayview-worked-example.webp" width="900" height="647" alt="A price chart: the contract price is £4,000, the market price on 1 May is £4,600 and on 1 July £5,200. Damages are £600 at the delivery date under s51; the further £600 from waiting until July is a failure to mitigate. Normal lost profits are recoverable for a reasonable replacement period, but the £10,000 catering contract is too remote (Victoria Laundry)." loading="lazy">
+  <figcaption>Measure at the delivery date; delay and undisclosed contracts are not recoverable.</figcaption>
+</figure>
 
 ## Common mistakes
 

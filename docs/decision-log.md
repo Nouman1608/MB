@@ -16297,3 +16297,10 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
   - Redrawn figures have new file names, because published images are cached for a year.
 - **Checked, no change needed:** 9699 Paper 2 weighting (50% AS, 25% A Level) is correct; OxfordAQA 9292 sections 3.2.2.3-3.2.2.4 do carry the mismatched titles the guide describes; the GP 9239 written-exam "own pages" line does list its links; the two MYP Design stool examples are separate fictional datasets for different age groups; the IGCSE and O Level Paper 1 descriptions of Makkan surahs differ in emphasis, not in fact; Beck's *Risk Society* (1986, English 1992) is dated correctly.
 - **Not verified here:** MYP Language Acquisition eAssessment marks per criterion (IB guide not public). Left as written.
+
+## D-488 - Topic figures for the 90 new subtopic lessons (17 Nov 2026)
+
+- Owner, 17 Nov 2026: "make figures for the 90 new lessons" (the D-486 subtopic pages that had no figure).
+- **Figures.** 605 new house-style figures plus 50 reused existing ones across 90 lessons in 15 courses (Cambridge 9084 Law; English Language and Literature for AQA, Cambridge, Edexcel and OxfordAQA; OxfordAQA 9218 Psychology; Cambridge 2058 Islamiyat; OxfordAQA 9245 World History), placed at the end of the section each illustrates. The topic-images report again lists 0 lessons and 0 AP guides without a figure.
+- **Correction.** `cambridge-a-level-law-9084-general-defences-and-remedies` listed aggravated damages under "Non-compensatory damages" while describing them as compensation; the heading is now "Other kinds of damages", and figure 04 matches.
+- Reuse was declined wherever an existing figure carried facts the new lesson does not state. Reviewer credits unchanged.

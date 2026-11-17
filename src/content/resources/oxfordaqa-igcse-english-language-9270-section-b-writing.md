@@ -38,6 +38,11 @@ adapt your writing.
 - There is **a choice from two tasks**; students answer one.
 - Writing is assessed against AO2 (W1–W4), worth 20% of the qualification through Paper 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--01-section-b-overview.webp" width="900" height="625" alt="The Section A reading sources feed ideas into Section B, where two tasks are set and one is answered. The writing is aimed at an audience and purpose that could be multiple and diverse, and is marked on W1 to W4. Section B is 40 of the paper’s 80 marks; AO2 is worth 20% of the qualification through Paper 2." loading="lazy">
+  <figcaption>The sources supply ideas; the task sets the audience and purpose; W1 to W4 are the marks.</figcaption>
+</figure>
+
 ## Decoding the task: AFP plus
 
 Underline four things in every task:
@@ -53,6 +58,11 @@ Underline four things in every task:
 must be respectful to a head teacher but also represent students' views) or combine purposes (explain
 a problem, then persuade). Name each in your plan.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--02-decoding-the-task.webp" width="900" height="740" alt="The cycle-lanes speech task broken into four parts: form (a speech for a public meeting), audience (both residents and local business owners), purpose (persuade, and reassure business owners) and content (support for new cycle lanes, using ideas from the sources)." loading="lazy">
+  <figcaption>Underline audience, purpose, form and content in every task before you plan.</figcaption>
+</figure>
+
 ## Using the sources well
 
 Because the writing is linked with Section A, the sources are a store of ideas. Use them without
@@ -63,6 +73,11 @@ copying:
 - **Transform.** A statistic in a report can become a vivid example in a speech; a complaint in a blog
   can become a counter-argument you answer.
 - **Add your own.** Original examples and reasoning show independent thinking.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--03-using-sources.webp" width="900" height="625" alt="Four moves for using the Section A sources: take ideas not sentences, select only what serves the purpose, transform them, and add your own. Examples: a statistic in a report becomes a vivid example in a speech; a complaint in a blog becomes a counter-argument you answer." loading="lazy">
+  <figcaption>Take, select, transform and add: the sources are a store of ideas, not text to copy.</figcaption>
+</figure>
 
 ## Form conventions
 
@@ -91,6 +106,11 @@ Register should match the most important audience and stay consistent:
 When audiences are mixed, choose the register for the reader with most authority and address the
 others directly in places: "Parents may worry that…; students, I know you are thinking…".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--04-register.webp" width="900" height="655" alt="A scale from formal to informal. Formal: no contractions or slang, precise vocabulary, complex sentences, polite tone. Semi-formal: some contractions, friendly but respectful, rhetorical questions. Informal: conversational phrases and humour, but still accurate. For mixed audiences, use the register for the reader with most authority and address the others directly." loading="lazy">
+  <figcaption>Match register to the most important reader, and keep it consistent.</figcaption>
+</figure>
+
 ## Building the writing
 
 1. **Opening:** establish purpose and engage the audience in the first two sentences.
@@ -101,6 +121,11 @@ others directly in places: "Parents may worry that…; students, I know you are 
 Techniques to choose from: direct address; inclusive pronouns ("we", "our community"); rhetorical
 questions; the rule of three; anecdote; contrast; expert or eyewitness views drawn from the sources;
 imperatives in a call to action.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--05-building-the-writing.webp" width="900" height="754" alt="Four stages: an opening that establishes purpose and engages the audience; one paragraph per idea with topic sentence, development, example and link to purpose; a counter-argument acknowledged and answered; and an ending matched to purpose. Below, techniques such as direct address, rhetorical questions and the rule of three." loading="lazy">
+  <figcaption>Open with purpose, build one idea per paragraph, answer the other side, end to match the purpose.</figcaption>
+</figure>
 
 ## Worked example: a plan
 
@@ -125,6 +150,11 @@ Form:      speech -> greet the audience, direct address, signposting, strong clo
 **Why it works:** both audiences are named and addressed; ideas from the sources are transformed into
 the speaker's own reasoning; the form's features are planned, not added at the end.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--06-worked-plan.webp" width="900" height="785" alt="The six-point plan for a speech persuading residents and business owners to support cycle lanes: a greeting and hook, the problem (from the poster), a benefit for residents (from the story), addressing business owners’ parking worry, answering the rain objection, and a rule-of-three close with a call to action." loading="lazy">
+  <figcaption>A good plan names both audiences, reworks the sources and builds in the form’s features.</figcaption>
+</figure>
+
 ## Worked example: two openings compared
 
 Task (original): *Write a letter to your head teacher arguing that students should help to plan the
@@ -138,6 +168,11 @@ school day.*
   motivation and the relationship between staff and students, and we would welcome the chance to
   discuss it with you."
   *Correct form, formal register, a clear purpose and a preview of three points.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-writing--07-two-openings.webp" width="900" height="648" alt="A weak opening (“Hi, I think students should plan the school day…”) is too informal, vague and unstructured. A strong opening (“Dear Mrs Okafor, I am writing on behalf of the Student Council…”) uses correct letter form, a formal register, a clear purpose and a preview of three points." loading="lazy">
+  <figcaption>The strong opening fits the audience, states its purpose and previews its points.</figcaption>
+</figure>
 
 ## Checking against the writing objectives
 

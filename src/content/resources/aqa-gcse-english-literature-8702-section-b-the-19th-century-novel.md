@@ -45,6 +45,11 @@ The wording follows the Shakespeare pattern: "Starting with this extract, explor
 presents..." with one bullet for the extract and one for the novel as a whole. Use the writer's name
 throughout.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-the-19th-century-novel--01-marks-and-time.webp" width="900" height="530" alt="A bar splits the 30 marks into AO1 12, AO2 12 and AO3 6, with no separate AO4 marks. Two linked cards show the two bullets: the printed extract, then the novel as a whole. A second bar shows Paper 1’s 64 marks: 34 for Section A and 30 for Section B, so Section B needs close to half the time." loading="lazy">
+  <figcaption>Thirty marks for one extract-to-whole-novel answer, worth close to half of Paper 1.</figcaption>
+</figure>
+
 ## What makes a novel different
 
 A play is mediated by actors; a novel is mediated by a **narrator**. Every sentence reaches the reader
@@ -64,6 +69,11 @@ A retrospective first-person narrator creates two selves: the younger character 
 and the older narrator telling them. Gaps between the two are rich for analysis, because the narrator
 can foreshadow, regret or correct what the younger self believed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-the-19th-century-novel--03-narrative-voice.webp" width="900" height="617" alt="Four cards give questions for first-person narrators, third-person narrators, free indirect style, and multiple narrators or documents. Below, a younger self who experiences events and an older narrator who tells them are separated by a gap in which the narrator can foreshadow, regret or correct." loading="lazy">
+  <figcaption>Ask who tells the story, what they know and how far to trust them.</figcaption>
+</figure>
+
 ### Language at sentence level
 
 Nineteenth-century prose often uses long sentences built from clauses, lists and qualifications.
@@ -79,6 +89,11 @@ Look at:
 - **Narratorial comment** – direct addresses to the reader or moral judgements, which steer the
   reader's sympathy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-the-19th-century-novel--04-sentence-level.webp" width="900" height="700" alt="A long sentence drawn as a chain of clauses ends in a short gold block labelled lands with force. Below, a table lists features to analyse: semantic fields, pathetic fallacy, contrasts, dialogue and narratorial comment." loading="lazy">
+  <figcaption>Long sentences can overwhelm; a short one after them lands with force.</figcaption>
+</figure>
+
 ### Structure across the novel
 
 Many Victorian novels were first published in instalments, and their structure often shows it:
@@ -86,6 +101,16 @@ chapter endings that create suspense, parallel scenes, and characters who reappe
 situations reversed. Ask where your extract falls and what has just happened. Look for the
 novel's structural patterns: a journey, a rise and fall, a secret slowly revealed, a beginning that
 the ending mirrors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-the-19th-century-novel--05-novel-structure.webp" width="900" height="634" alt="Three effects of publication in instalments: suspenseful chapter endings, parallel scenes and characters who reappear with situations reversed. Below, four structural patterns are sketched: a journey, a rise and fall, a secret slowly revealed, and an ending that mirrors the beginning." loading="lazy">
+  <figcaption>Look for the novel’s overall shape and where your extract sits in it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-the-19th-century-novel--02-play-vs-novel.webp" width="900" height="468" alt="Two panels. In a play, the text reaches the audience through actors. In a novel, it reaches the reader through a narrator. Below, four chips say the narrator’s voice selects, describes, judges and withholds." loading="lazy">
+  <figcaption>A novel is mediated by a narrator, which gives you methods drama does not have.</figcaption>
+</figure>
 
 ## Context that earns credit
 
@@ -122,6 +147,11 @@ a set novel.
 > juxtaposition]**. For readers in an age when respectable thrift was often praised as a virtue, this
 > contrast questions whether such virtue could become cruelty when the powerful practised it at the
 > expense of the poor **[AO3, linked to the line]**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-the-19th-century-novel--06-annotated-passage.webp" width="900" height="755" alt="Five rows link details of the original passage to the model paragraph’s analysis: the personified sun (personification and setting), a rumour of a fire (ironic narrative voice), ledgers like a regiment (simile), the moral failing beside Thomas’s hunger (structure and juxtaposition), and thrift praised as a virtue (context linked to the line)." loading="lazy">
+  <figcaption>Each detail is paired with what it suggests and the method that creates it.</figcaption>
+</figure>
 
 ## Building the extract-to-whole-novel argument
 
@@ -161,6 +191,11 @@ Build a chronological quotation bank: for each chapter group, one short quotatio
 and a character. Practise "zooming out": choose any page, then name one earlier and one later moment
 that it echoes or contrasts with. Summarise each main character's arc in one sentence, and note where
 the narrator's attitude to them is clearest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-1--13-p1-novel-trace.webp" width="900" height="910" alt="A rising line connects five quotation tokens numbered in the order they appear in the novel, from start to end, to show a theme or character developing. One token is ringed with a cross as analysing a single scene in isolation. A note advises ordering the quotation bank in novel order, not by theme alone." loading="lazy">
+  <figcaption>Tracking development across the whole novel outperforms analysing a single scene.</figcaption>
+</figure>
 
 ## Related resources
 

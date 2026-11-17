@@ -54,6 +54,11 @@ technical accuracy.
 | Paper 1 | Narrative or descriptive writing from a choice of scenario, prompt or image | Describe, narrate |
 | Paper 2 | A non-fiction text giving your viewpoint, with audience, purpose and form specified | Argue, explain, persuade, give and respond to information |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-producing-clear-and-coherent-text--01-section-b-both-papers.webp" width="900" height="592" alt="Paper 1 Section B is narrative or descriptive writing from a choice of scenario, prompt or image; Paper 2 Section B is a non-fiction viewpoint text with audience, purpose and form specified. On each paper, Section B gives 24 marks to content and organisation (AO5) and 16 to technical accuracy (AO6)." loading="lazy">
+  <figcaption>Both papers end with a 40-mark writing task: 24 for AO5, 16 for AO6.</figcaption>
+</figure>
+
 ## Purpose shapes everything
 
 Each purpose pulls the writing towards different choices:
@@ -69,6 +74,16 @@ Each purpose pulls the writing towards different choices:
 
 A single text can mix purposes. An article arguing for a later school day may explain research, describe a tired
 morning and narrate a short anecdote, but the controlling purpose stays argument.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-producing-clear-and-coherent-text--02-purpose-choices.webp" width="900" height="585" alt="A table of six purposes and their typical choices: describe (sensory detail, precise nouns and verbs), narrate (sequence, viewpoint character, pace), explain (logical order, causal connectives), instruct (imperatives, ordered steps), give and respond to information (accurate facts, measured register) and argue (position, evidence, counter-argument and rebuttal)." loading="lazy">
+  <figcaption>Each purpose pulls the writing towards different choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-producing-clear-and-coherent-text--03-controlling-purpose.webp" width="900" height="460" alt="A large box labelled “controlling purpose: argue” holds an article arguing for a later school day. Inside it, explaining research, describing a tired morning and narrating a short anecdote each feed the argument." loading="lazy">
+  <figcaption>A text can mix purposes, but one purpose stays in control.</figcaption>
+</figure>
 
 ## Audience, form and register
 
@@ -86,6 +101,11 @@ contractions, pronouns ("you" or "one") and humour all move it.
 and perhaps a subheading; a speech addresses listeners directly and signals structure aloud; a leaflet may use
 subheadings. Use the conventions the form expects, but do not let layout replace content: a headline earns little
 if the article beneath it is disorganised.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-producing-clear-and-coherent-text--04-register-two-openings.webp" width="900" height="553" alt="A formality scale with two openings. To a head teacher, a formal letter: “I am writing to ask you to reconsider the decision to close the library at lunchtime.” To fellow students, an informal speech: “Raise your hand if the library has ever saved your lunchtime. Exactly.” Register also moves with sentence length, contractions, pronouns and humour." loading="lazy">
+  <figcaption>Match the register to the reader named in the task.</figcaption>
+</figure>
 
 ## Coherence and cohesion
 
@@ -106,6 +126,11 @@ Cohesive devices include:
 
 A text can be cohesive but incoherent: every sentence linked with "furthermore" while the ideas jump randomly. Aim
 for both: plan the logic first, then signal it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-producing-clear-and-coherent-text--05-coherence-cohesion.webp" width="900" height="755" alt="Coherence is whether the whole text makes sense as a logical sequence; cohesion is the set of devices that bind it: topic sentences, discourse markers such as “however”, clear pronoun reference, lexical chains such as storm, thunder, drenched, and deliberate repetition. A text can be cohesive but incoherent." loading="lazy">
+  <figcaption>Plan the logic (coherence), then signal it (cohesion).</figcaption>
+</figure>
 
 ## Maintaining a consistent point of view
 
@@ -141,6 +166,11 @@ only what serves your purpose, rewrite it in your register, and integrate it rat
 The revision removes the anecdote that did no work, groups the ideas, uses "however" to show the relationship
 between counter-argument and rebuttal, and ends where the topic sentence began. The comfort point has been saved for
 its own paragraph.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-producing-clear-and-coherent-text--06-uniform-draft-revision.webp" width="900" height="839" alt="The draft paragraph on school uniform is six disconnected sentences: the anecdote about a cousin is cut, the comfort point is saved for its own paragraph. The revision runs topic sentence, development of cost, signposted counter-argument about bullying, rebuttal with “however”, and a final sentence that links back to the topic." loading="lazy">
+  <figcaption>Group the ideas, signal the relationships, end where the topic sentence began.</figcaption>
+</figure>
 
 ## Common mistakes
 

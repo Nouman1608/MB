@@ -58,6 +58,11 @@ or relationship. Both must be **operationalised**: the variables are stated in m
 > Null: "There will be no difference in the number of words recalled between participants who learn in
 > silence and those who learn while music plays."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--01-hypotheses.webp" width="900" height="486" alt="Two boxes. The alternative hypothesis predicts that participants who learn 20 words in silence will recall more words than those who learn while music plays. The null hypothesis predicts no difference in words recalled. The independent variable (silence or music) and the dependent variable (number of words recalled) are highlighted in both." loading="lazy">
+  <figcaption>The alternative predicts an effect, the null predicts none; both name measurable variables.</figcaption>
+</figure>
+
 ## Variables
 
 - **Independent variable (IV):** what the researcher changes (silence versus music).
@@ -66,6 +71,11 @@ or relationship. Both must be **operationalised**: the variables are stated in m
   the room or how familiar the words are. If an extraneous variable changes along with the IV, it
   becomes a confounding variable and the researcher can no longer be sure the IV caused the result.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--02-iv-dv-extraneous.webp" width="900" height="545" alt="The independent variable (silence versus music) is linked by an arrow to the dependent variable (number of words recalled). Extraneous variables such as time of day, noise outside and familiarity of the words can also affect the dependent variable; one that changes along with the IV becomes a confounding variable." loading="lazy">
+  <figcaption>Change the IV, measure the DV, and keep everything else from interfering.</figcaption>
+</figure>
+
 ## Types of experiment
 
 | Type | What it is | Strength | Weakness | Paper 1 example |
@@ -73,6 +83,11 @@ or relationship. Both must be **operationalised**: the variables are stated in m
 | **Laboratory** | Controlled setting; IV manipulated by researcher | High control, so cause and effect is clearer; easy to replicate | Artificial; participants may change behaviour because they know they are studied | Testing short-term memory capacity with digit strings |
 | **Field** | Natural setting; IV still manipulated by researcher | More true to life | Less control over extraneous variables; consent may be difficult | Changing the layout of a supermarket sign to test perceptual set |
 | **Natural** | IV varies naturally; researcher only measures the DV | Allows study of variables that could not ethically be manipulated | No random allocation, so other differences between groups may explain results | Comparing perception in people from different cultures |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--03-types-of-experiment.webp" width="900" height="554" alt="Three cards: a laboratory experiment has a controlled setting with the IV manipulated; a field experiment has a natural setting with the IV still manipulated; a natural experiment has an IV that varies naturally. A bar runs from more control to more true to life, and each card has a matching weakness." loading="lazy">
+  <figcaption>Moving from laboratory to natural experiments trades control for realism.</figcaption>
+</figure>
 
 ## Experimental designs
 
@@ -86,6 +101,16 @@ or relationship. Both must be **operationalised**: the variables are stated in m
 practice and fatigue effects are spread evenly across conditions. **Random allocation** (for example,
 drawing names from a hat) means each participant has an equal chance of being in either condition,
 so participant variables should balance out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--04-experimental-designs.webp" width="900" height="694" alt="Three rows. Independent groups: different participants in conditions A and B, controlled by random allocation. Repeated measures: the same participants in both conditions, controlled by counterbalancing. Matched pairs: matched participants split one per condition, using pre-testing to match. Each row gives a strength or weakness." loading="lazy">
+  <figcaption>Different people, the same people, or matched pairs: each design has its own control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--05-counterbalancing-allocation.webp" width="900" height="647" alt="Counterbalancing: half the participants do condition A then B and half do B then A, spreading practice and fatigue effects evenly. Random allocation: names drawn from a hat give each participant an equal chance of either condition so participant variables balance out. A note warns not to confuse random allocation with random sampling." loading="lazy">
+  <figcaption>Counterbalancing fixes order effects; random allocation balances participant variables.</figcaption>
+</figure>
 
 ## Controls that improve validity
 
@@ -113,6 +138,16 @@ is the people actually studied.
 **Worked selection:** a school has 600 students, 360 girls and 240 boys. For a stratified sample of
 50, girls make up 360 ÷ 600 = 60% of the population, so select 60% of 50 = 30 girls and 20 boys,
 then choose each group at random.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--06-sampling-methods.webp" width="900" height="772" alt="Four grids of people, each showing a different selection: random picks scattered across the population; opportunity picks a cluster of whoever is available; systematic picks every nth person; stratified picks from each subgroup in proportion. Each panel lists a strength and a weakness." loading="lazy">
+  <figcaption>Only random and stratified sampling aim for a representative sample; opportunity is quickest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--07-stratified-sample.webp" width="900" height="597" alt="Two proportion bars. The population of 600 is 360 girls (60%) and 240 boys (40%); the sample of 50 keeps the same proportions, 30 girls and 20 boys. Steps: girls are 360 ÷ 600 = 60%, 60% of 50 is 30, then choose each group at random." loading="lazy">
+  <figcaption>A stratified sample copies the population's proportions: 30 girls and 20 boys out of 50.</figcaption>
+</figure>
 
 ## Ethics (BPS guidelines)
 

@@ -57,6 +57,11 @@ ideas) and **AO4** (evaluate texts critically and support this with appropriate 
 Paper 1 Question 4 is the heaviest single test of this subtopic: it is worth as much as the other three Paper 1
 reading questions together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-critical-reading-and-comprehension--01-where-tested.webp" width="900" height="769" alt="A table of the four questions that test critical reading: Paper 1 Question 1 (4 marks), Paper 1 Question 4 (20 marks), Paper 2 Question 1 (4 marks) and Paper 2 Question 2 (8 marks). A bar shows that Paper 1 Question 4 equals the other three Paper 1 reading questions together. AO1 and AO4 carry most of the skill." loading="lazy">
+  <figcaption>Paper 1 Question 4 is the heaviest single test of critical reading.</figcaption>
+</figure>
+
 ## Key idea 1: explicit, implicit and the inference chain
 
 **Explicit** information is stated: "The kitchen was empty." **Implicit** information is suggested: a kettle "still
@@ -70,6 +75,11 @@ Detail (short quotation) -> what it suggests -> why that matters to the focus of
 Use tentative verbs that match the strength of the evidence: *suggests*, *implies*, *hints*, *perhaps*. Save *shows*
 and *proves* for what is stated outright. A single detail can carry more than one inference; offering two possible
 readings of the same detail is one of the clearest signs of critical rather than literal reading.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-critical-reading-and-comprehension--02-inference-chain.webp" width="900" height="769" alt="Explicit information is stated, as in “The kitchen was empty.” Implicit information is suggested: a kettle “still ticking as it cooled” implies someone left in a hurry. An inference chain runs from a detail, to what it suggests, to why it matters to the question. Tentative verbs such as suggests and implies suit weaker evidence; shows and proves are for what is stated." loading="lazy">
+  <figcaption>Detail, then what it suggests, then why it matters, with verbs matched to the evidence.</figcaption>
+</figure>
 
 ## Key idea 2: reading in different ways for different purposes
 
@@ -85,6 +95,11 @@ Judging "usefulness, relevance and presentation" means asking whether a text doe
 19th-century travel letter may be vivid but tell a modern reader little that is reliable about the place; a report may
 be accurate but presented so drily that it fails to persuade.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-critical-reading-and-comprehension--03-three-ways-of-reading.webp" width="900" height="597" alt="Three panels. Scanning stays inside the named lines to pick out exactly what is asked. Skimming gives the overall shape of the text on a first read. Close reading gives slow, line-by-line attention to one section for evaluation." loading="lazy">
+  <figcaption>Scan for short questions, skim for shape, read closely to evaluate.</figcaption>
+</figure>
+
 ## Key idea 3: evaluating a statement
 
 Paper 1 Question 4 gives you a view of part of the extract and asks how far you agree. Evaluation is not the same as
@@ -94,6 +109,11 @@ statement claims, and whether the statement is fair.
 A reliable way to test a statement is to split it into its parts. If it says a character is presented as "lonely and
 frightened", those are two claims. You might find strong evidence for loneliness, weaker evidence for fear, and a hint
 that the character is in fact defiant. That gives you a judgement with a shape: mostly agree, with a qualification.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-critical-reading-and-comprehension--04-split-the-statement.webp" width="900" height="667" alt="Analysis asks how a method creates an effect; evaluation asks how well the writer achieves what a statement claims. The statement “lonely and frightened” is split into two claims: strong evidence for loneliness, weaker evidence for fear, and a hint of defiance, giving the judgement “mostly agree, with a qualification”." loading="lazy">
+  <figcaption>Split the statement into its claims and weigh the evidence for each.</figcaption>
+</figure>
 
 ## Key idea 4: bias, evidence and unsupported claims
 
@@ -108,6 +128,11 @@ supports it? Watch for:
 
 Spotting these is not the same as dismissing the writer. A biased text can still be powerful, and saying *why* a
 writer selected or slanted evidence is a strong critical point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-critical-reading-and-comprehension--05-unsupported-claims.webp" width="900" height="612" alt="Five warning signs: generalisation from one example, such as “every teenager I meet is glued to a screen”; anecdote presented as proof; loaded language such as “so-called experts”; selective evidence; and opinion stated as fact with no source or reason." loading="lazy">
+  <figcaption>Ask of every claim what supports it, then explain why it is slanted.</figcaption>
+</figure>
 
 ## Key idea 5: context, wider reading and different responses
 
@@ -141,6 +166,11 @@ The passage below is original, written for this guide.
 Why this reaches higher levels: it gives a clear judgement in the first words, tests the key word of the statement,
 offers more than one reading of a detail, and evaluates the effect of the writer's choice rather than only naming it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-critical-reading-and-comprehension--06-testing-helpless.webp" width="900" height="647" alt="Five steps of the model paragraph on Mara. It opens with the judgement “I partly agree”, infers she is stranded, gives two readings of the timetable detail, evaluates how the dead phone is withheld to reveal a bluff, and ends that she is frightened rather than helpless." loading="lazy">
+  <figcaption>Test the key word, read a detail two ways, and earn a qualified judgement.</figcaption>
+</figure>
+
 ## Worked example: supported or unsupported?
 
 > *Original extract:* "Our town centre is dying. Three shops on the high street closed last year, and the council's own
@@ -151,6 +181,11 @@ offers more than one reading of a detail, and evaluates the effect of the writer
 - "Nobody under thirty shops locally any more": a sweeping generalisation with no evidence; unsupported.
 - "Our town centre is dying": a conclusion from limited evidence; the metaphor makes it sound more certain than the
   facts allow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-critical-reading-and-comprehension--07-supported-or-unsupported.webp" width="900" height="479" alt="Four claims from the town-centre extract are sorted. The closed shops and the council survey are supported, by checkable fact and a named source. “Nobody under thirty shops locally any more” is an unsupported generalisation, and “Our town centre is dying” is a metaphor that sounds more certain than the evidence allows." loading="lazy">
+  <figcaption>Facts and named sources support a claim; generalisations and metaphors may not.</figcaption>
+</figure>
 
 ## Common mistakes
 

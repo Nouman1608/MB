@@ -80,6 +80,11 @@ whole consignment. The rule gives certainty but can be harsh where almost all th
   essential, as in British Waggon Co v Lea (1880). Where the contract is personal, as in Robson and
   Sharpe v Drummond (1831), it is not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-discharge-of-a-contract--01-performance-exceptions.webp" width="900" height="790" alt="The strict performance rule (Cutter v Powell; Re Moore and Landauer) above seven exceptions, each with its case: substantial performance, voluntary acceptance of part performance, divisible contracts, prevention, tender of performance, time of performance and vicarious performance." loading="lazy">
+  <figcaption>Exact performance is the rule; seven exceptions soften its harshness.</figcaption>
+</figure>
+
 ## 3.3.2 Breach
 
 An **actual breach** occurs when a party fails to perform on time, performs defectively or does not
@@ -98,6 +103,11 @@ said he would not marry the claimant after his father's death. The innocent part
   the claimant waited, the Crimean War broke out and frustrated the contract, and the right to sue was
   lost. In White and Carter v McGregor (1962) a company that affirmed and performed an advertising
   contract recovered the full price, though later cases require a legitimate interest in performing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-discharge-of-a-contract--02-breach-choices.webp" width="900" height="734" alt="Two flows. Actual breach: only a repudiatory breach (breach of a condition, a serious breach of an innominate term, or a refusal to perform) lets the innocent party choose to terminate and claim damages or affirm and continue. Anticipatory breach (Hochster v De la Tour; Frost v Knight): the innocent party may accept and sue at once, or affirm and wait, which is risky (Avery v Bowden); White and Carter v McGregor recovered the full price after affirming." loading="lazy">
+  <figcaption>Only a repudiatory breach allows termination, and the innocent party always chooses.</figcaption>
+</figure>
 
 ## 3.3.3 Frustration
 
@@ -144,6 +154,16 @@ consideration, which left partial failures unremedied.
   court may order a just sum to be paid, not exceeding the value of the benefit. BP Exploration v Hunt
   (No 2) (1979) is the leading example.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-discharge-of-a-contract--03-frustration-types-limits.webp" width="900" height="467" alt="Two columns. Types of frustrating event: impossibility (Taylor v Caldwell; Robinson v Davison; Condor v Baron Knights; Jackson v Union Marine), supervening illegality (Fibrosa) and performance made pointless (Krell v Henry, contrasted with Herne Bay v Hutton). Limitations: a contractual provision, mere inconvenience or expense (Davis Contractors; Tsakiroglou), foreseen or foreseeable events, and self-induced frustration (Maritime National Fish; The Super Servant Two)." loading="lazy">
+  <figcaption>Frustration is narrow: a dearer or slower contract is not a frustrated one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-discharge-of-a-contract--04-money-after-frustration.webp" width="900" height="691" alt="Four steps in the law on money after frustration: Chandler v Webster left the loss where it fell; Fibrosa allowed recovery only on a total failure of consideration; the 1943 Act s1(2) makes money paid recoverable and money payable no longer due, with a discretionary allowance for expenses (Gamerco); s1(3) allows a just sum for a valuable non-money benefit (BP v Hunt)." loading="lazy">
+  <figcaption>The 1943 Act replaced the harsh common law with recovery and a discretion over expenses.</figcaption>
+</figure>
+
 ## Worked example
 
 *Scenario: Lena hires Marquee Masters to supply a marquee for her outdoor festival on 20 July for
@@ -158,6 +178,11 @@ because of a disease outbreak. Marquee Masters has spent £700 preparing the mar
    expenses, because that is within the sum paid before the event. If it allows the full amount, Lena
    recovers £2,000 − £700 = £1,300.
 5. **Conclusion.** Lena recovers between £1,300 and £2,000, depending on the court's view of what is just.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-discharge-of-a-contract--05-lena-worked-example.webp" width="900" height="550" alt="A bar to scale shows the £8,000 price split into the £2,000 deposit paid and the £6,000 balance, which ceases to be payable under s1(2). The deposit is then split into up to £700 kept for Marquee Masters’ expenses and £1,300 returned to Lena. Lena recovers between £1,300 and £2,000." loading="lazy">
+  <figcaption>Deposit back, balance cancelled, with up to £700 kept for expenses.</figcaption>
+</figure>
 
 ## Common mistakes
 

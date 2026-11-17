@@ -38,6 +38,11 @@ teacher. The commentary lets you "consider and evaluate the style model, the wri
 of the final piece of writing". The folder contains the original writing, an **annotated style model**, the
 **reflective commentary** and **references**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-language-in-action--11-nea-writing-process.webp" width="900" height="1020" alt="Three steps: study a range of style models, analyse one in detail, write the 750-word piece. A 750-word commentary follows and evaluates the style model, the writing process and the effectiveness of the final piece. A dashed arrow shows the style-model analysis feeding the commentary. The submitted folder holds the writing, an annotated style model, the commentary and references." loading="lazy">
+  <figcaption>Style-model analysis feeds the writing and the 750-word commentary.</figcaption>
+</figure>
+
 ## What each "power" asks of a writer
 
 | Area | What the writing must do | Language choices that typically matter |
@@ -50,12 +55,22 @@ Choose a form you can realise in 750 words: a speech, a short story, a feature a
 piece, a dramatic monologue. Define the **audience** and **purpose** precisely ("readers of a regional magazine who
 walk but have never visited the coast path"), because every later choice depends on them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-original-writing--02-three-powers.webp" width="900" height="740" alt="Three columns for the Power of Persuasion, Storytelling and Information, each with what the writing must do and the language choices that typically matter, from modality and calls to action, to narrative voice and pace, to signposting and layout. A note stresses defining audience and purpose precisely." loading="lazy">
+  <figcaption>Each area sets a different job, and audience and purpose decide the choices.</figcaption>
+</figure>
+
 ## Choosing a style model
 
 A good style model is a **published text in the same form and area** as your planned piece, short enough to analyse
 closely, and rich enough to teach you techniques. Read several first, then select the one that best matches your
 audience and purpose. Your style model should not be one whose content you plan to borrow: you borrow technique, not
 material.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-original-writing--03-choosing-style-model.webp" width="900" height="580" alt="A checklist for a style model: a published text in the same form and area as the planned piece, short enough to analyse closely, rich enough to teach techniques, and the best match for audience and purpose. Beside it: borrow technique, not content or phrasing." loading="lazy">
+  <figcaption>Pick a style model to learn technique from, not material to borrow.</figcaption>
+</figure>
 
 ## Annotating the style model at the language levels
 
@@ -69,6 +84,11 @@ Annotation is analysis, not highlighting. For each feature, note what it is and 
 | Grammar | What sentence types and lengths, tenses, voices and clause patterns recur, and where? |
 | Pragmatics | What does it assume the reader knows? How does it handle politeness and implication? |
 | Discourse | How is it structured: opening hook, development, turning point, close? How is cohesion created? |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-original-writing--04-annotating-style-model.webp" width="900" height="660" alt="Annotation that names a feature and what it does is contrasted with highlighting that only labels. Six language levels follow, each with the question to ask of the style model, from how graphology guides the reader to how discourse structure and cohesion work." loading="lazy">
+  <figcaption>Ask each level's question of the style model, and note what each feature does.</figcaption>
+</figure>
 
 ## From analysis to writing
 
@@ -87,12 +107,22 @@ final third                             before the call to action
 Then **adapt**: your audience and purpose are not identical to the style model's, so some features must change. The
 commentary rewards explaining these adaptations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-original-writing--05-analysis-to-writing.webp" width="900" height="650" alt="Three style-model features become decisions for a speech: a present-tense one-line anecdote becomes a 2-sentence anecdote about a grandfather, triadic structures are saved for the three main turns, and a shift from &quot;I&quot; to &quot;we&quot; moves to collective address before the call to action. A final step says to adapt features to a different audience and purpose." loading="lazy">
+  <figcaption>Turn each annotation into a decision, then adapt it to your own audience and purpose.</figcaption>
+</figure>
+
 ## Drafting and redrafting
 
 The specification's preparation list includes planning, drafting and redrafting. Keep earlier drafts and note *why*
 you changed things, in linguistic terms: "cut three adjectives from the opening noun phrase to quicken pace", "moved
 the statistic from paragraph four to the opening to establish credibility", "changed passive to active to make the
 council responsible". Those notes become commentary material.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-original-writing--06-redrafting-notes.webp" width="900" height="555" alt="Three redrafting notes from the lesson, each pairing a change with a linguistic reason: cutting adjectives from the opening noun phrase to quicken pace, moving a statistic to the opening to establish credibility, and changing passive to active to make the council responsible." loading="lazy">
+  <figcaption>Note each change and its linguistic reason; the notes feed the commentary.</figcaption>
+</figure>
 
 ## Writing the commentary
 
@@ -120,6 +150,11 @@ choice in the piece, although the change of tone in the final paragraph may feel
 The paragraph connects style model and piece, uses terminology, explains choices through audience, records a
 redrafting decision and evaluates effectiveness.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-original-writing--07-commentary-structure.webp" width="900" height="661" alt="Five numbered stages of the commentary: context, the style model, your choices, the writing process, and evaluation. A vertical thread beside them shows connections between the style model and the piece running throughout, and a note warns against narrating the process." loading="lazy">
+  <figcaption>Five stages, with the style model and your piece connected all the way through.</figcaption>
+</figure>
+
 ## How the two parts are assessed
 
 The original writing is assessed on expertise and creativity in using English (AO5): handling the form, controlling
@@ -127,6 +162,11 @@ register, positioning the audience, and writing accurately and cohesively. The c
 assessment objectives, including connections between your writing and the style model (AO4), which is why a
 commentary that discusses only one of the two texts limits its own marks. Write the commentary with both texts in
 view throughout.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-original-writing--08-assessment.webp" width="900" height="580" alt="The original writing, 750 words and 25 marks, is assessed on AO5: handling the form, controlling register, positioning the audience and writing accurately and cohesively. The commentary, also 750 words and 25 marks, draws on all the assessment objectives, including AO4 connections between the writing and the style model." loading="lazy">
+  <figcaption>The writing is judged on AO5; the commentary needs AO4 connections to the style model.</figcaption>
+</figure>
 
 ## Common mistakes
 

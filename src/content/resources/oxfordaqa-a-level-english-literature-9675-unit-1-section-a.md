@@ -50,6 +50,11 @@ The *B text* of *Doctor Faustus* matters: the play survives in two early version
 (printed 1604) and the longer B text (printed 1616), which adds and alters scenes. Learn the
 version the specification names, and check that your edition prints it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-a--01-section-a-plays.webp" width="900" height="804" alt="Five Section A plays grouped by playwright: Othello, King Lear and Hamlet by Shakespeare, Doctor Faustus (B text) by Marlowe, and The Duchess of Malfi by Webster. The passage is printed on the paper; the rest of the play must come from memory. A timeline shows the A text of Doctor Faustus printed in 1604 and the longer B text, the one the specification names, printed in 1616." loading="lazy">
+  <figcaption>One play, one printed passage, and everything else from memory.</figcaption>
+</figure>
+
 ## The aspects of tragedy a passage can open up
 
 The specification gives no fixed checklist but suggests areas worth exploring. For a passage, the
@@ -69,6 +74,11 @@ most productive are:
 The specification also notes that "the absence of an 'aspect' can be as significant as its
 presence". A passage in which the hero has no insight at all, or a villain who seems to act without
 motive, can carry as much tragic weight as a passage that ticks a convention.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-a--02-aspects-of-tragedy.webp" width="900" height="729" alt="A hub labelled the passage links to seven aspects of tragedy suggested by the specification: the protagonist’s journey towards death, the villain or opponent in a contest of power, fate, structure from order to disorder, plots and sub-plots, dramatic language, and the audience moved through pity and fear. A note says the absence of an aspect can be as significant as its presence." loading="lazy">
+  <figcaption>Seven productive aspects, and the absence of one can matter as much.</figcaption>
+</figure>
 
 ## Reading the passage: a four-step method
 
@@ -90,6 +100,16 @@ tragic aspect.
 moment it anticipates, and one it echoes or reverses. This is how you show the significance of the
 passage "in relation to" the tragedy as a whole.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-a--03-place-the-passage.webp" width="900" height="580" alt="A falling curve runs from order through complication to catastrophe. An early passage near the start usually sets up the flaw or the contest of power; a late passage near the end usually shows recognition, suffering or catastrophe." loading="lazy">
+  <figcaption>Where the passage falls in the arc shapes what it is likely to show.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-a--04-four-step-method.webp" width="900" height="744" alt="Four numbered steps: place the passage in the tragic arc, read the dramatic method closely, name the aspect of tragedy at stake, and reach outward to at least two other moments. Below, an observation that Iago speaks in prose becomes analysis when it explains how his plain prose helps the villain win the contest of power." loading="lazy">
+  <figcaption>Name the tragic aspect each method serves, then reach out to the rest of the play.</figcaption>
+</figure>
+
 ## Context the passage can carry
 
 All three assessment objectives are weighted equally in every 9675 question, so context (part of
@@ -108,6 +128,11 @@ Section A passage reads include:
   in female roles, and a bare stage on which language had to create place and darkness.
 
 Use a context only when it explains the effect of a specific line or stage moment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-a--05-context.webp" width="900" height="619" alt="A table of five contexts: revenge tragedy conventions for Hamlet and The Duchess of Malfi, the morality-play tradition for Doctor Faustus, the fall of the great for King Lear and Othello, ideas of order for The Duchess of Malfi and King Lear, and performance conditions such as boy actors and a bare stage." loading="lazy">
+  <figcaption>Each context earns credit only when it changes how a specific line reads.</figcaption>
+</figure>
 
 ## Worked example on an original passage
 
@@ -146,6 +171,11 @@ method (contradictory commands, imagery, an embedded stage direction, a shared l
 the audience's response. With a real set play, the final step would also connect the passage to
 earlier and later moments of the play.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-a--06-worked-example.webp" width="900" height="701" alt="Four details of the original Jacobean-style passage are linked to the model paragraph’s analysis: the contradictory candle orders (insight), the hand that once held a sword but has learned the trick of signing deaths (the fall from prosperity), the embedded stage direction as he studies his hand, and the shared line Let them wait. Below, the paragraph ends on the audience’s pity, and with a real play would also link to other moments." loading="lazy">
+  <figcaption>Two tragic aspects, four methods, and an ending on the audience’s response.</figcaption>
+</figure>
+
 ## Choosing your memory bank by play
 
 Because you cannot predict the passage, revise moments that link easily to any part of the play:
@@ -181,6 +211,11 @@ Questions typically ask you to **explore**, which means following an argument th
 rather than surveying features. Unit 1 lasts 2 hours for two 25-mark answers, so about an hour each
 is proportionate; spend the first five to eight minutes annotating the passage and noting two
 links to the wider play.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-aspects-of-dramatic-tragedy--09-dt-exam.webp" width="900" height="790" alt="The Unit 1 exam lasts 2 hours, is closed book and is worth 50 marks. Section A, 25 marks, is a passage-based question on the chosen Elizabethan or Jacobean tragedy. Section B, 25 marks, is an essay question on the chosen later tragedy. Because two plays are written on, the quotation bank for revision needs equal depth for both plays." loading="lazy">
+  <figcaption>Two plays, two question types, 25 marks each, no books in the room.</figcaption>
+</figure>
 
 ## Related resources
 

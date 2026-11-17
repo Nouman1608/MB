@@ -30,6 +30,11 @@ Subtopic 2.1 sets out the principles of fault that underpin every offence on Pap
 
 *Actus non facit reum nisi mens sit rea*: an act does not make a person guilty unless the mind is also guilty. Liability normally requires a prohibited act, omission or state of affairs, and a blameworthy state of mind. This reflects the idea that the criminal law should punish those who chose to do wrong, not those who caused harm by pure accident.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-criminal-law--13-law3-elements.webp" width="900" height="800" alt="A roof labelled criminal liability sits on two pillars that must coincide. Left pillar, actus reus, the conduct element: the guilty act, omission where a duty to act exists, and causation, actual and legal. Right pillar, mens rea, the mental element: intention, direct or oblique, and recklessness." loading="lazy">
+  <figcaption>Criminal liability generally needs actus reus and mens rea to coincide.</figcaption>
+</figure>
+
 ## 2.1.1 Actus reus
 
 ### Actus reus as the conduct element
@@ -75,6 +80,21 @@ Where the offence requires a result, the prosecution must prove that the defenda
 
 **The thin skull rule.** The defendant must take the victim as they find them, including physical and other characteristics. In *R v Blaue* (1975) a stabbed Jehovah's Witness refused a blood transfusion on religious grounds and died; the refusal did not break the chain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-elements-of-a-crime--01-actus-reus-parts.webp" width="900" height="515" alt="Three cards show the actus reus as conduct, a result or circumstances, with the lesson’s examples. Below, the conduct must be voluntary (Hill v Baxter, the swarm of bees), except in state of affairs offences such as Larsonneur and Winzar, which are criticised as liability without real fault." loading="lazy">
+  <figcaption>Conduct, result and circumstances; voluntary, except in state of affairs cases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-elements-of-a-crime--02-omission-duties.webp" width="900" height="683" alt="The general rule of no liability for omissions, then six legal duties to act with their cases: statute (Road Traffic Act 1988), contract (Pittwood), public office (Dytham), voluntary assumption of care (Stone and Dobinson), special relationship (Gibbins and Proctor) and creating a dangerous situation (Miller, extended in Evans). Bland treats withdrawing treatment as a lawful omission." loading="lazy">
+  <figcaption>An omission is criminal only where the defendant was under a legal duty to act.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-elements-of-a-crime--03-causation-chain.webp" width="900" height="903" alt="Causation as a chain: factual causation by the but for test (White), then legal causation as an operating and substantial cause (Smith). A table shows when intervening acts break the chain: not by a reasonable third-party response (Pagett), negligent treatment (Cheshire) or a foreseeable reaction (Roberts); broken by palpably wrong treatment (Jordan) or a free, deliberate and informed act (Kennedy). The thin skull rule applies (Blaue)." loading="lazy">
+  <figcaption>But for, then operating and substantial, then ask whether anything broke the chain.</figcaption>
+</figure>
+
 ## 2.1.2 Mens rea
 
 ### Mens rea as the mental element
@@ -106,6 +126,21 @@ Recklessness is the unjustified taking of a risk. English law now uses a **subje
 
 Intention is the higher level of fault; recklessness is lower but still requires awareness of risk. Many property offences, such as criminal damage under the Criminal Damage Act 1971, can be committed intentionally or recklessly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-elements-of-a-crime--04-oblique-intention.webp" width="900" height="741" alt="A timeline of oblique intention: Moloney (1985) foresight is only evidence; Hancock and Shankland (1986) probability; Nedrick (1986) the virtual certainty test; Woollin (1998) virtual certainty and the defendant’s appreciation of it; Matthews and Alleyne (2003) a rule of evidence, not of law." loading="lazy">
+  <figcaption>Foresight of virtual certainty lets the jury find intention; it does not make it intention.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-elements-of-a-crime--05-recklessness-tests.webp" width="900" height="539" alt="Three stages in the test for recklessness: subjective in Cunningham, objective in Caldwell, and subjective again when R v G overruled Caldwell. The R v G test asks whether the defendant was aware of a risk and whether taking it was unreasonable in the circumstances known to them." loading="lazy">
+  <figcaption>Since R v G, recklessness again depends on what this defendant foresaw.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-criminal-law--14-law3-mens-rea.webp" width="900" height="970" alt="Three rows. Direct intention: an arrow from the defendant hits a target, the result was the actual purpose. Oblique or indirect intention: the arrow aims at one target while a second result is a virtually certain consequence the defendant foresaw. Recklessness: the defendant is aware of an unjustified risk, shown as a warning sign on the path, and takes it anyway." loading="lazy">
+  <figcaption>Intention is either the aim itself or a foreseen virtually certain result; recklessness is knowingly taking an unjustified risk.</figcaption>
+</figure>
+
 ## Worked example
 
 *Jade throws a brick at Omar's car to frighten him, knowing that Omar is sitting inside with the window down. The brick hits Omar on the head. In hospital a doctor misreads Omar's chart and gives him the wrong drug, which delays his recovery. Discuss the elements of liability for Omar's injury and the damage to the car.*
@@ -116,6 +151,11 @@ Intention is the higher level of fault; recklessness is lower but still requires
 4. **Mens rea – intention:** her aim was to frighten, not injure, so there is no direct intention. Oblique intention requires injury to be a virtual certainty and Jade to appreciate this (*Woollin*); throwing at an open window makes harm likely, but perhaps not virtually certain.
 5. **Mens rea – recklessness:** Jade knew Omar was inside, so she was aware of a risk of injury and damage, and taking that risk was unreasonable (*R v G*). At least recklessness is proved.
 6. **Conclusion:** actus reus and mens rea coincide at the moment of the throw; Jade caused both harms and was at least reckless as to each.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-elements-of-a-crime--06-jade-worked-example.webp" width="900" height="885" alt="The Jade scenario in six steps: voluntary conduct with results; factual causation (White); legal causation unbroken despite the doctor’s error (Smith, Cheshire); no direct intention and doubtful oblique intention (Woollin); recklessness proved (R v G); so actus reus and mens rea coincide at the moment of the throw." loading="lazy">
+  <figcaption>Each element in turn, each with an authority, then a conclusion.</figcaption>
+</figure>
 
 ## Common mistakes
 

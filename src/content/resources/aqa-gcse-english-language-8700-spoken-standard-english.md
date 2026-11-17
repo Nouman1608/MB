@@ -46,6 +46,11 @@ matter as well as grammar. "Generally" means the requirement is about overall co
 single slip. Because the endorsement is graded on a competency basis, these general criteria must be met for any of
 Pass, Merit or Distinction to be awarded.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-spoken-standard-english--01-general-criteria-gate.webp" width="900" height="669" alt="Two general criteria, being intelligible and generally using language appropriate to the formal setting, must both be met before any of Pass, Merit or Distinction can be awarded. AO9 assesses using spoken Standard English effectively in speeches and presentations." loading="lazy">
+  <figcaption>Intelligibility and generally appropriate language are needed for any grade.</figcaption>
+</figure>
+
 ## What Standard English is, and is not
 
 Standard English is one **dialect** of English: the variety used in most published writing, in education and in
@@ -61,6 +66,11 @@ formal public speech. It is defined by its **grammar** and **vocabulary**, not b
 
 This ability to move between varieties is sometimes called **code-switching**. You might use dialect forms with
 friends and Standard English in a presentation; the skill being assessed is knowing when each is appropriate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-spoken-standard-english--02-grammar-vs-register.webp" width="900" height="620" alt="A grid with grammar (standard or non-standard) across and register (formal or informal) down. A formal presentation needs standard grammar and formal register. “I’m knackered” is standard but informal; “We was invited” is non-standard however formally it is delivered. Standard English can be spoken in any accent, and choosing the right variety is code-switching." loading="lazy">
+  <figcaption>A formal talk needs Standard English grammar and a formal register, in any accent.</figcaption>
+</figure>
 
 ## Common non-standard forms in speech
 
@@ -79,6 +89,11 @@ equivalent.
 | Relative pronouns | "the man what helped us" | "the man who helped us" |
 | Tag questions | "It's important, innit?" | "It's important, isn't it?" |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-spoken-standard-english--03-non-standard-to-standard.webp" width="900" height="705" alt="A table of nine areas with non-standard examples and Standard English equivalents, for example “we was” to “we were”, “I was sat” to “I was sitting”, “them results” to “those results”, “the man what helped us” to “the man who helped us” and “innit” to “isn’t it”." loading="lazy">
+  <figcaption>In a formal presentation, use the Standard English form.</figcaption>
+</figure>
+
 ## Hypercorrection: the opposite error
 
 Speakers trying hard to sound formal sometimes overcorrect, producing forms that are not Standard English either:
@@ -90,6 +105,11 @@ Speakers trying hard to sound formal sometimes overcorrect, producing forms that
 
 A quick test for pronouns is to remove the other person: "between... me" is natural; so is "he and I went" once you
 check "I went".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-spoken-standard-english--04-hypercorrection.webp" width="900" height="659" alt="Three overcorrections and their Standard English forms: “between you and I” becomes “between you and me”, “send it to myself” becomes “send it to me”, and “whom is responsible?” becomes “who is responsible?”. A quick test removes the other person: “between… me” and “I went” sound natural." loading="lazy">
+  <figcaption>Overcorrecting to sound formal produces errors too.</figcaption>
+</figure>
 
 ## Dialect vocabulary and slang
 
@@ -109,6 +129,11 @@ Spoken Standard English does not mean speaking like a textbook. Natural features
 
 What undermines AO9 is persistent non-standard grammar, heavy fillers ("like", "basically", "you know") that crowd
 the content, or slang that the formal setting does not suit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-spoken-standard-english--05-still-speech.webp" width="900" height="564" alt="Acceptable in formal speech: contractions in moderation, discourse markers such as “Right, let’s begin”, and occasional self-correction. Undermining AO9: persistent non-standard grammar, heavy fillers such as “like” and “basically”, and slang. To keep control: rehearse aloud, know your habits, pause instead of filling, and slow down." loading="lazy">
+  <figcaption>Sound like a confident speaker, not a textbook.</figcaption>
+</figure>
 
 ## Keeping control under pressure
 
@@ -140,6 +165,11 @@ Most slips happen not in the prepared talk but in the questions afterwards, when
 - "Them benches is all broke" became "the benches are broken" (demonstrative, agreement, past participle);
 - "basically", "yeah", "well", "loads", "innit" were removed or replaced (fillers, slang and a tag question);
 - the speaker's accent, which the transcript cannot show, stays exactly as it was.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-spoken-standard-english--06-revising-transcript.webp" width="900" height="612" alt="A table of changes to the survey transcript: “me and Leah done” becomes “Leah and I carried out”, “we was” becomes “we were”, “don’t never… no more” becomes “no longer… at all”, “Them benches is all broke” becomes “the benches are broken”, and fillers, slang and “innit” are removed. The accent stays the same." loading="lazy">
+  <figcaption>Fix the grammar and vocabulary; keep the accent.</figcaption>
+</figure>
 
 ## Common mistakes
 
