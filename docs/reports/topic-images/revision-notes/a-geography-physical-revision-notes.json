@@ -1,0 +1,8 @@
+{ "page": "a-geography-physical-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--07-phys-drainage-basin.webp", "after": "## Hydrology" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--08-phys-storm-hydrograph.webp", "after": "## Hydrology" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--09-phys-hjulstrom.webp", "after": "## Channel processes and landforms" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--10-phys-meander-oxbow.webp", "after": "## Channel processes and landforms" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--11-phys-three-cell.webp", "after": "## Atmosphere and weather" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--12-phys-precipitation-types.webp", "after": "## Atmosphere and weather" }
+] }

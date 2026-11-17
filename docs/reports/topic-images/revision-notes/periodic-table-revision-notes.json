@@ -1,0 +1,10 @@
+{ "page": "periodic-table-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp", "after": "## How the table is arranged"},
+ {"src": "https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp", "after": "## Group I — the alkali metals"},
+ {"src": "https://img.marlbridge.com/periodic-table-groups-and-trends--03-group-i-water.webp", "after": "## Group I — the alkali metals"},
+ {"src": "https://img.marlbridge.com/periodic-table-groups-and-trends--04-halogens.webp", "after": "## Group VII — the halogens"},
+ {"src": "https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp", "after": "## Group VII — the halogens"},
+ {"src": "https://img.marlbridge.com/periodic-table-groups-and-trends--06-transition-elements.webp", "after": "## Transition elements vs Group I"},
+ {"src": "https://img.marlbridge.com/periodic-table-groups-and-trends--07-iron-ions.webp", "after": "## Transition elements vs Group I"},
+ {"src": "https://img.marlbridge.com/periodic-table-groups-and-trends--08-noble-gases.webp", "after": "## Noble gases"}
+] }

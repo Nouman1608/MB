@@ -1,0 +1,7 @@
+{ "page": "cambridge-igcse-ict-the-systems-life-cycle-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--12-slc-cycle.webp", "after": "## Syllabus coverage"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--13-slc-research-methods.webp", "after": "## 7.1 What happens at the analysis stage?"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--14-slc-test-data.webp", "after": "### Worked example: test data for a range check"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--15-slc-changeover.webp", "after": "## 7.4 Which changeover method should be used?"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--16-slc-documentation.webp", "after": "## 7.5 What goes in technical and user documentation?"}
+] }

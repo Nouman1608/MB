@@ -1,0 +1,8 @@
+{ "page": "fuels-alkanes-and-alkenes-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/petroleum-alkanes-and-alkenes--01-fractional-distillation.webp", "after": "### Fractional distillation of petroleum"},
+ {"src": "https://img.marlbridge.com/petroleum-alkanes-and-alkenes--02-alkane-alkene-structure.webp", "after": "## Alkanes (11.4)"},
+ {"src": "https://img.marlbridge.com/petroleum-alkanes-and-alkenes--04-chlorine-substitution.webp", "after": "## Alkanes (11.4)"},
+ {"src": "https://img.marlbridge.com/petroleum-alkanes-and-alkenes--03-cracking.webp", "after": "### Cracking"},
+ {"src": "https://img.marlbridge.com/petroleum-alkanes-and-alkenes--05-bromine-water-test.webp", "after": "### Test for unsaturation"},
+ {"src": "https://img.marlbridge.com/petroleum-alkanes-and-alkenes--06-alkene-addition.webp", "after": "### Addition reactions *(0620 Extended, 5070 required)*"}
+] }

@@ -1,0 +1,8 @@
+{ "page": "measurement-and-density-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/measurement-mass-weight-and-density--01-micrometer-reading.webp", "after": "## Instruments and their resolution" },
+ { "src": "https://img.marlbridge.com/measurement-mass-weight-and-density--03-pendulum-period.webp", "after": "## Instruments and their resolution" },
+ { "src": "https://img.marlbridge.com/measurement-mass-weight-and-density--04-mass-vs-weight.webp", "after": "## Mass vs weight — learn the distinction" },
+ { "src": "https://img.marlbridge.com/measurement-mass-weight-and-density--05-density-regular-solid.webp", "after": "## Density" },
+ { "src": "https://img.marlbridge.com/measurement-mass-weight-and-density--02-volume-by-displacement.webp", "after": "## Density" },
+ { "src": "https://img.marlbridge.com/measurement-mass-weight-and-density--06-density-liquid.webp", "after": "## Density" }
+] }

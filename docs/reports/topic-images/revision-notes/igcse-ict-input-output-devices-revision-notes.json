@@ -1,0 +1,9 @@
+{ "page": "igcse-ict-input-output-devices-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--01-io-data-journey.webp", "after": "## The three sub-topics as a data journey" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--05-device-scenarios.webp", "after": "## Device-by-scenario, not device-by-definition" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--04-barcode-vs-rfid.webp", "after": "## Device-by-scenario, not device-by-definition" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--02-touch-screen-both.webp", "after": "## Devices that belong in more than one category" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--07-actuator-movement.webp", "after": "## Devices that belong in more than one category" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--03-direct-entry-readers.webp", "after": "## Why direct data entry (2.2) is a distinct group" },
+ { "src": "https://img.marlbridge.com/igcse-cambridge-ict-input-output-devices--06-printer-choice.webp", "after": "## Comparing devices within the same category" }
+] }

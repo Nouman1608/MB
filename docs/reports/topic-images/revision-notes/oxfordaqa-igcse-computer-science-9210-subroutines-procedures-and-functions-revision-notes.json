@@ -1,0 +1,8 @@
+{ "page": "oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions--01-call-jump-return.webp", "after": "## How a call works"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions--02-procedure-vs-function.webp", "after": "## Procedure or function?"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions--06-grade-function.webp", "after": "## Template code"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions--03-parameters-in-order.webp", "after": "## Describing data flow (model wording)"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions--04-return-value.webp", "after": "## Describing data flow (model wording)"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions--05-tracing-calls.webp", "after": "## Mini trace: a function used inside a loop"}
+] }

@@ -1,0 +1,7 @@
+{ "page": "energetics-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/exothermic-and-endothermic-reactions--01-temperature-change.webp", "after": "## The two types"},
+ {"src": "https://img.marlbridge.com/exothermic-and-endothermic-reactions--02-exothermic-profile.webp", "after": "## Reaction pathway diagrams"},
+ {"src": "https://img.marlbridge.com/exothermic-and-endothermic-reactions--03-endothermic-profile.webp", "after": "## Reaction pathway diagrams"},
+ {"src": "https://img.marlbridge.com/exothermic-and-endothermic-reactions--04-bond-energy-calculation.webp", "after": "## Bond energy calculations"},
+ {"src": "https://img.marlbridge.com/exothermic-and-endothermic-reactions--05-bond-energy-ladder.webp", "after": "## Bond energy calculations"}
+] }

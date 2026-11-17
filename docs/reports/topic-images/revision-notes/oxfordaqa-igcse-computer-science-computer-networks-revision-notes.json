@@ -1,0 +1,5 @@
+{ "page": "oxfordaqa-igcse-computer-science-computer-networks-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-networks-study-guide--15-net-lan-wan.webp", "after": "## Networks: definitions and comparisons"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-networks-study-guide--17-net-topologies.webp", "after": "## Topologies"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-networks-study-guide--19-net-packets.webp", "after": "## Protocols"}
+] }

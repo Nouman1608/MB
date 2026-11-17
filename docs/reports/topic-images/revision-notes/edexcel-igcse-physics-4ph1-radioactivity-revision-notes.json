@@ -1,0 +1,10 @@
+{ "page": "edexcel-igcse-physics-4ph1-radioactivity-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--01-nuclide-notation.webp", "after": "## The nucleus" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--02-emissions-a-and-z.webp", "after": "## Four radiations" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--03-balancing-equations.webp", "after": "## Nuclear equations" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--04-penetration-practical.webp", "after": "## Penetration practical (7.6)" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--05-detection-background.webp", "after": "## Detection and background" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--06-half-life-graph.webp", "after": "## Half-life" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--07-uses.webp", "after": "## Uses (7.14)" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-radioactivity--08-irradiation-contamination.webp", "after": "## Safety" }
+] }

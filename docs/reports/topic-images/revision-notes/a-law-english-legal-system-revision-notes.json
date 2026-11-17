@@ -1,0 +1,10 @@
+{ "page": "a-law-english-legal-system-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--01-sources-of-law.webp", "after": "## Sources of law" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--02-legislative-process.webp", "after": "## The legislative process" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--06-precedent-flexibility.webp", "after": "## Judicial precedent" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--03-statutory-interpretation.webp", "after": "## Statutory interpretation" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--04-court-hierarchy.webp", "after": "## Court structure" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-law-english-legal-system--05-offence-classes.webp", "after": "## Court structure" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-law-9084-legal-personnel--03-judicial-independence.webp", "after": "## Legal personnel" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-law-9084-legal-personnel--06-lay-magistrates.webp", "after": "## Legal personnel" }
+] }

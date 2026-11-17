@@ -1,0 +1,8 @@
+{ "page": "oxfordaqa-igcse-computer-science-9210-random-number-generation-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--01-inclusive-ranges.webp", "after": "## The function"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--02-random-index-range.webp", "after": "## Ranges for common tasks"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--03-random-chances.webp", "after": "## Chances"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--04-guessing-game-trace.webp", "after": "## Where to generate the value"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--05-dice-simulation-counts.webp", "after": "## Simulations"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--06-two-dice-not-one.webp", "after": "## Simulations"}
+] }

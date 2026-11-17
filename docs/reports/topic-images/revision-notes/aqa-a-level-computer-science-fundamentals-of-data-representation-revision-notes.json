@@ -1,0 +1,8 @@
+{ "page": "aqa-a-level-computer-science-fundamentals-of-data-representation-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--01-twos-complement.webp", "after": "## Unsigned binary and two's complement" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--02-floating-point.webp", "after": "### Worked example: floating point to decimal" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--03-bitmap-size.webp", "after": "### Worked example: file sizes" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--04-sound-samples.webp", "after": "### Worked example: file sizes" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--05-run-length-encoding.webp", "after": "## Compression and encryption" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--06-vernam-cipher.webp", "after": "## Compression and encryption" }
+] }

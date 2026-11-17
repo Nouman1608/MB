@@ -1,0 +1,9 @@
+{ "page": "aqa-a-level-computer-science-fundamentals-of-algorithms-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--01-alg-bfs-dfs.webp", "after": "## How do breadth-first and depth-first search differ?" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--02-alg-tree-traversal.webp", "after": "## Tree traversal: which order outputs what?" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--03-alg-rpn.webp", "after": "### Worked example" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--04-alg-search.webp", "after": "## Searching: what to say about each" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--05-alg-bubble-sort.webp", "after": "## Sorting: bubble sort versus merge sort" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--06-alg-merge-sort.webp", "after": "## Sorting: bubble sort versus merge sort" },
+ { "src": "https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-algorithms--07-alg-dijkstra.webp", "after": "## Dijkstra's shortest path algorithm" }
+] }

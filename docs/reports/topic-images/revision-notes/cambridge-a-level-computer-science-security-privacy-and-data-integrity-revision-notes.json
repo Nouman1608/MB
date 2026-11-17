@@ -1,0 +1,9 @@
+{ "page": "cambridge-a-level-computer-science-security-privacy-and-data-integrity-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--07-si-three-terms.webp", "after": "## Security, privacy and integrity: what is the difference?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--08-si-phishing-pharming.webp", "after": "## Which threats does the syllabus name?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--09-si-measures.webp", "after": "## How do the security measures work?" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--10-si-validation-checks.webp", "after": "## Validation checks you must know" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--11-si-check-digit.webp", "after": "## Worked example: modulus 11 check digit" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--13-si-parity-block.webp", "after": "## Verification methods" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--12-si-parity.webp", "after": "## Worked example: even parity" }
+] }

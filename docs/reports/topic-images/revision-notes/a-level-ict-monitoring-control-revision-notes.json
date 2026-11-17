@@ -1,0 +1,8 @@
+{ "page": "a-level-ict-monitoring-control-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-monitoring-and-control--01-mc-monitor-vs-control.webp", "after": "## Monitoring vs control — keep them separate" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-monitoring-and-control--03-mc-sensors-uses.webp", "after": "## 3.2 Control: matching sensor to real-world use" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-monitoring-and-control--05-mc-greenhouse-loop.webp", "after": "## Worked example: sensor → microprocessor → actuator chain" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-monitoring-and-control--06-mc-greenhouse-flowchart.webp", "after": "## Worked example: sensor → microprocessor → actuator chain" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-monitoring-and-control--02-mc-calibration.webp", "after": "## Why calibration matters even for a \"correctly working\" sensor" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-monitoring-and-control--04-mc-actuators.webp", "after": "## Exam traps" }
+] }

@@ -1,0 +1,9 @@
+{ "page": "edexcel-igcse-physics-4ph1-fission-and-fusion-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-fission-and-fusion--01-three-nuclear-energy-sources.webp", "after": "## Energy from the nucleus" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-fission-and-fusion--02-fission-of-u235.webp", "after": "## Fission of uranium-235" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-radioactivity-and-particles--04-chain-reaction.webp", "after": "## Chain reaction" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-fission-and-fusion--03-moderator-vs-control-rods.webp", "after": "## Reactor parts" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-radioactivity-and-particles--05-reactor-parts.webp", "after": "## Reactor parts" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-radioactivity-and-particles--06-fusion.webp", "after": "## Why fusion needs high temperature and pressure" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-fission-and-fusion--05-fission-vs-fusion.webp", "after": "## Fission or fusion?" }
+] }

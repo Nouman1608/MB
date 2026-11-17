@@ -1,0 +1,21 @@
+{
+ "page": "aqa-gcse-biology-8461-blood-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp",
+   "after": "## Blood is a tissue"
+  },
+  {
+   "src": "https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp",
+   "after": "## The four components"
+  },
+  {
+   "src": "https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--05-capillary-exchange.webp",
+   "after": "### What plasma carries"
+  },
+  {
+   "src": "https://img.marlbridge.com/aqa-gcse-biology-cell-biology--01-magnification-units.webp",
+   "after": "### Worked reminder: actual size"
+  }
+ ]
+}

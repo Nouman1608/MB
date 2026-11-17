@@ -1,0 +1,8 @@
+{ "page": "cambridge-igcse-physics-0625-radioactivity-cambridge-igcse-physics-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-radioactivity-cambridge-igcse-physics--01-background-and-count-rate.webp", "after": "## 5.2.1 Detection"},
+ {"src": "https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp", "after": "## 5.2.2 The three emissions"},
+ {"src": "https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--06-field-deflection.webp", "after": "## 5.2.2 The three emissions"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-radioactivity-cambridge-igcse-physics--02-decay-equations.webp", "after": "## 5.2.3 Radioactive decay"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-radioactivity-cambridge-igcse-physics--03-half-life-with-background.webp", "after": "## 5.2.4 Half-life"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-radioactivity-cambridge-igcse-physics--04-safety-time-distance-shielding.webp", "after": "## 5.2.5 Safety"}
+] }

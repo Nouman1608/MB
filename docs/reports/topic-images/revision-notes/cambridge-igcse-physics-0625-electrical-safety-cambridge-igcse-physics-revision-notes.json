@@ -1,0 +1,9 @@
+{ "page": "cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--03-overloading.webp", "after": "## Hazards of using a mains supply"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--01-live-neutral-earth.webp", "after": "## The mains circuit"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--02-switch-in-live-wire.webp", "after": "## The mains circuit"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--05-fuse-vs-trip-switch.webp", "after": "## Trip switches"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--06-earthing-chain.webp", "after": "## Earthing and double insulation"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--07-double-insulation.webp", "after": "## Earthing and double insulation"},
+ {"src": "https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--04-choosing-a-fuse.webp", "after": "## Fuse choices at 230 V (calculated)"}
+] }

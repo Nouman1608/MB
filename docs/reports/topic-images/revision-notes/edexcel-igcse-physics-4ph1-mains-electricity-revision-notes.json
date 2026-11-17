@@ -1,0 +1,9 @@
+{ "page": "edexcel-igcse-physics-4ph1-mains-electricity-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--06-energy-worked-example.webp", "after": "## Equations" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--01-live-neutral-earth.webp", "after": "## Key terms" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--02-earthing-in-a-fault.webp", "after": "## Safety features: fault, then result" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--03-fuse-breaker-double-insulation.webp", "after": "## Safety features: fault, then result" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--04-why-current-heats-a-resistor.webp", "after": "## Electrical heating" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--05-fuse-selection.webp", "after": "## Fuse selection steps" },
+ { "src": "https://img.marlbridge.com/edexcel-igcse-physics-4ph1-mains-electricity--07-ac-and-dc.webp", "after": "## a.c. versus d.c." }
+] }

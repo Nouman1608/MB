@@ -1,0 +1,7 @@
+{ "page": "energy-resources-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/energy-resources-and-efficiency--01-renewable-or-not.webp", "after": "## Non-renewable vs renewable"},
+ {"src": "https://img.marlbridge.com/energy-resources-and-efficiency--04-availability.webp", "after": "## Comparison table"},
+ {"src": "https://img.marlbridge.com/energy-resources-and-efficiency--02-steam-power-station.webp", "after": "## How most power stations work"},
+ {"src": "https://img.marlbridge.com/energy-resources-and-efficiency--03-direct-and-solar.webp", "after": "## How most power stations work"},
+ {"src": "https://img.marlbridge.com/energy-resources-and-efficiency--05-efficiency-sankey.webp", "after": "## Efficiency"}
+] }

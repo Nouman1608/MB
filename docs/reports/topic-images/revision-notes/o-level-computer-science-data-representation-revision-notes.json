@@ -1,0 +1,7 @@
+{ "page": "o-level-computer-science-data-representation-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--12-denary-binary-hex.webp", "after": "## Number bases" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--13-overflow-and-shifts.webp", "after": "## Binary addition and overflow" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--15-image-file-size.webp", "after": "## Images" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--16-sound-sampling.webp", "after": "## Sound" },
+ { "src": "https://img.marlbridge.com/o-level-cambridge-computer-science-data-representation--14-run-length-encoding.webp", "after": "## Compression" }
+] }

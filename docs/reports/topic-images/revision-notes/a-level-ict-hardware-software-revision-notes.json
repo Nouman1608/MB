@@ -1,0 +1,10 @@
+{ "page": "a-level-ict-hardware-software-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--01-hs-mainframe-supercomputer.webp", "after": "## 2.1 Mainframes and supercomputers" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--02-hs-ras-fault-tolerance.webp", "after": "## 2.1 Mainframes and supercomputers" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--04-hs-compiler-interpreter.webp", "after": "## 2.2 System software" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--03-hs-system-utility-software.webp", "after": "## 2.3 Utility software" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-utility-software-and-user-interfaces--02-defrag.webp", "after": "## 2.3 Utility software" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-utility-software-and-user-interfaces--03-formatting-levels.webp", "after": "## 2.3 Utility software" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--05-hs-custom-vs-off-the-shelf.webp", "after": "## 2.4 Custom-written vs off-the-shelf software" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-ict-hardware-and-software--06-hs-user-interfaces.webp", "after": "## 2.5 User interfaces" }
+] }

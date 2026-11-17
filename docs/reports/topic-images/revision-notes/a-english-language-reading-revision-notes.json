@@ -1,0 +1,8 @@
+{ "page": "a-english-language-reading-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--09-p1-frameworks.webp", "after": "## The frameworks" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--11-p1-directed-writing.webp", "after": "## Directed writing" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--12-p1-compare.webp", "after": "## Directed writing" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-english-language-9093-skills-and-techniques--02-two-pass-reading.webp", "after": "## Structuring an analysis answer" },
+ { "src": "https://img.marlbridge.com/cambridge-a-level-english-language-9093-skills-and-techniques--04-evidence-process.webp", "after": "## Structuring an analysis answer" },
+ { "src": "https://img.marlbridge.com/a-level-cambridge-english-language-paper-1-reading--10-p1-identify-quote-explain.webp", "after": "## Worked example: analysing a single extract" }
+] }

@@ -1,0 +1,13 @@
+{ "page": "igcse-psychology-cognition-revision-notes", "placements": [
+ { "src": "https://img.marlbridge.com/igcse-oxfordaqa-psychology-cognition-and-behaviour--13-ox-multi-store.webp", "after": "## Memory" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-memory--04-working-memory-model.webp", "after": "## Memory" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-memory--06-war-of-the-ghosts.webp", "after": "## Memory" },
+ { "src": "https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--02-depth-cues.webp", "after": "## Perception" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--03-illusions-explanations.webp", "after": "## Perception" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--05-gibson-vs-gregory.webp", "after": "## Perception" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--01-nervous-system-divisions.webp", "after": "## Biopsychology" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--05-synaptic-transmission.webp", "after": "## Biopsychology" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--07-localisation-of-function.webp", "after": "## Biopsychology" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--03-types-of-experiment.webp", "after": "## Research methods" },
+ { "src": "https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-research-methods--04-experimental-designs.webp", "after": "## Research methods" }
+] }

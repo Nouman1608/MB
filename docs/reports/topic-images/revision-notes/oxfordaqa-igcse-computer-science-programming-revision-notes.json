@@ -1,0 +1,9 @@
+{ "page": "oxfordaqa-igcse-computer-science-programming-revision-notes", "placements": [
+ {"src": "https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--07-five-data-types.webp", "after": "## Data types (3.2.1)"},
+ {"src": "https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--08-three-constructs.webp", "after": "## Programming concepts (3.2.2)"},
+ {"src": "https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--09-div-mod-groups.webp", "after": "## Arithmetic operations (3.2.3)"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--01-relational-truth-grid.webp", "after": "## Relational operations (3.2.4)"},
+ {"src": "https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--11-and-or-truth.webp", "after": "## Boolean operations (3.2.5)"},
+ {"src": "https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--10-nested-while-for-if.webp", "after": "## Worked example: nested iteration and selection"},
+ {"src": "https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--02-words-to-operators.webp", "after": "## Worked example: writing a compound condition"}
+] }
