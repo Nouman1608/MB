@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-nitrogen-compounds"
     subtopic: "a-amides"
-description: "Naming and making amides, acid and alkaline hydrolysis products, LiAlH₄ reduction and why amides are much weaker bases than amines, for Cambridge 9701 Chemistry."
+description: "Naming and making amides, acid and alkaline hydrolysis products, LiAlH₄ reduction and why amides are much weaker bases than amines, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

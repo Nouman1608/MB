@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-analytical-techniques"
     subtopic: "a-gas-liquid-chromatography"
-description: "Gas/liquid chromatography phases, retention time, percentage composition from peak areas and explaining retention times, with worked chromatograms, for Cambridge 9701."
+description: "Gas/liquid chromatography phases, retention time, percentage composition from peak areas and explaining retention times, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

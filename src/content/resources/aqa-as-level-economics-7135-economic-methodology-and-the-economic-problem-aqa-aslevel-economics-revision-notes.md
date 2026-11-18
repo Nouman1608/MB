@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
     subtopic: "economic-methodology-and-the-economic-problem-aqa-aslevel-economics"
-description: "AQA AS Economics 7135 section 3.1.1 revision: social science method, positive and normative tests, factors, scarcity, opportunity cost sums and PPDs, with a self-test."
+description: "AQA AS Economics 7135 section 3.1.1 revision: method, positive and normative tests, factors, opportunity cost sums and PPDs, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -118,6 +118,12 @@ Opportunity cost of 1 unit of good A = units of good B given up ÷ units of A ga
 - Dividing the wrong way round in opportunity cost questions.
 - Showing a temporary rise in unemployment as an inward shift.
 - Assuming every point on the boundary is the best one for society.
+
+## How to write a two-mark classification answer
+
+1. **Quote** the exact words from the extract.
+2. **Classify** them: positive or normative.
+3. **Justify** with the reason: "it can be checked against data" or "'should' expresses a value judgement".
 
 ## Self-test
 

@@ -39,7 +39,7 @@ Worked examples are in the [10.01 study guide](/resources/ocr-gcse-mathematics-j
 | Map scale | The ratio of map length to real length | 1 : 50 000 |
 | Bearing | Angle measured clockwise from north, written with three figures | 072°, 305° |
 | Back bearing | The bearing for the return direction | 072° becomes 252° |
-| Scale drawing | An accurate drawing in which every length is reduced by the same factor | 1 cm to 2 km |
+| Scale drawing | An accurate drawing with every length reduced by the same factor | 1 cm to 2 km |
 
 ## Conversion factors to know
 
@@ -54,7 +54,7 @@ time    1 h = 60 min   1 min = 60 s   1 day = 24 h
 
 - Smaller unit: multiply. Larger unit: divide.
 - Area factor = (length factor)². Volume factor = (length factor)³.
-- Time: hours to minutes × 60; minutes to hours ÷ 60. 0.1 h = 6 min.
+- Time: hours to minutes × 60; minutes to hours ÷ 60.
 - Money: convert both prices to one currency before comparing. If £1 = €1.15, multiply pounds by 1.15 to get euros, and divide euros by 1.15 to get pounds.
 
 ## Compound units: the checklist
@@ -110,9 +110,7 @@ Pressure is force ÷ area. The specification names pressure as an example of a c
 - **Time in minutes:** a speed in km/h needs the time in hours. 45 minutes is 0.75 h.
 - **Mixed area units in pressure:** an area in cm² gives N/cm², not N/m².
 - **Best buys:** compare cost per same unit (per ml, per g), and state the better value in words.
-- **Bearings from the wrong point:** "the bearing of A from B" starts at B.
-- **Two-figure bearings:** write 045°, not 45°.
-- **Missing units:** the final answer needs its unit, especially when the question says "give your answer in".
+- **Bearings:** "the bearing of A from B" starts at B; write 045°, not 45°.
 
 ## Quick self-test
 

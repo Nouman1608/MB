@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "economic-methodology-and-the-economic-problem-aqa-alevel-economics"
-description: "Revision notes for AQA 7136 section 3.1.1: methodology, positive and normative tests, resources, opportunity cost and production possibility diagrams, with a self-test."
+description: "Revision notes for AQA 7136 section 3.1.1: methodology, positive and normative tests, resources, opportunity cost and PPDs, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

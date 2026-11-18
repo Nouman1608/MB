@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "how-the-macroeconomy-works-aqa-alevel-economics"
-description: "Original AQA 7136 practice on section 3.2.2: injections and withdrawals, multiplier sums, the accelerator, AD and AS shifts and economic shocks, with full answers."
+description: "Original AQA 7136 practice on section 3.2.2: injections and withdrawals, multiplier sums, the accelerator, AD and AS shifts and shocks, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-analytical-techniques"
     subtopic: "a-thin-layer-chromatography"
-description: "Thin-layer chromatography terms, calculating and interpreting Rf values, and explaining them through stationary-phase interaction and solubility, for Cambridge 9701."
+description: "TLC terms, calculating and interpreting Rf values, and explaining them through stationary-phase interaction and solubility, for Cambridge 9701 Chemistry."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

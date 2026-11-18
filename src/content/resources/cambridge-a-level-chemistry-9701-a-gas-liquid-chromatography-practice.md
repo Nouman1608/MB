@@ -123,7 +123,7 @@ the detector unchanged [1].
 **4.** 18.0 / 100.0 × 100 = 18.0% [1].
 
 **5. (a)** A: ½ × 0.20 × 9.0 = 0.90; B: ½ × 0.40 × 6.0 = 1.2; C: ½ × 0.30 × 4.0 = 0.60; D: ½ × 0.50 ×
-2.4 = 0.60. All four correct [2]; two or three correct [1].
+2.4 = 0.60. All four correct [2] (one mark if two or three are correct).
 
 **(b)** Total = 3.3, so B = 1.2 / 3.3 × 100 = 36.4% [1].
 

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
     subtopic: "economic-methodology-and-the-economic-problem-aqa-aslevel-economics"
-description: "AQA AS Economics 7135 section 3.1.1: economics as a social science, positive and normative statements, factors of production, opportunity cost and PPDs, with worked data."
+description: "AQA AS Economics 7135 section 3.1.1: economics as a social science, positive and normative statements, factors, opportunity cost and PPDs."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

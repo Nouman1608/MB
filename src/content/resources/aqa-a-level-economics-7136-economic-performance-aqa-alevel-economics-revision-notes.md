@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "economic-performance-aqa-alevel-economics"
-description: "Revision notes for AQA 7136 section 3.2.3: growth, output gaps, cycle phases, unemployment measures and types, inflation, MV = PQ and Phillips curves, with a self-test."
+description: "Revision notes for AQA 7136 section 3.2.3: output gaps, cycle phases, unemployment measures and types, inflation, MV = PQ and Phillips curves."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-alevel-economics"
-description: "Revision notes for AQA 7136 section 3.1.8: price functions, causes of market failure, intervention tools, welfare-loss sums and government failure, with a self-test."
+description: "Revision notes for AQA 7136 section 3.1.8: price functions, market failures, intervention tools, welfare-loss sums and government failure, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "production-costs-and-revenue-aqa-alevel-economics"
-description: "Revision notes for AQA 7136 section 3.1.4: productivity, diminishing returns, cost and revenue formulae, economies of scale, profit and innovation, with a self-test."
+description: "Revision notes for AQA 7136 section 3.1.4: productivity, diminishing returns, cost and revenue formulae, scale economies and profit, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-polymerisation"
     subtopic: "a-degradable-polymers"
-description: "Why poly(alkenes) resist biodegradation, how light degrades some polymers, and the acid and alkaline hydrolysis products of polyesters and polyamides, for Cambridge 9701."
+description: "Why poly(alkenes) resist biodegradation, how light degrades some polymers, and how polyesters and polyamides hydrolyse in acid and alkali, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "fiscal-policy-and-supply-side-policies-aqa-alevel-economics"
-description: "Original AQA 7136 practice on section 3.2.5: tax rate calculations, fiscal multipliers, principles of taxation, deficits and supply-side policy evaluation, with answers."
+description: "Original AQA 7136 practice on section 3.2.5: tax rate sums, fiscal multipliers, principles of taxation and supply-side policy evaluation, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -97,8 +97,8 @@ buying any output in return; they affect AD only when recipients spend them, whi
 reduces their consumption, or a subsidy to apprenticeships raises training in a particular industry [1]. **[2]**
 
 **7. (a)** Income 20,000: tax = 25% × 8,000 = **2,000** [1]; average rate = 2,000 ÷ 20,000 = **10%** [1]. Income
-70,000: tax = (25% × 38,000) + (45% × 20,000) = 9,500 + 9,000 = **18,500** [1]; average rate = 18,500 ÷ 70,000 =
-**26.4%** [1].
+70,000: tax = (25% × 38,000) + (45% × 20,000) = 9,500 + 9,000 = **18,500** [1]; average
+rate = 18,500 ÷ 70,000 = **26.4%** [1].
 
 **(b)** Marginal rates: **25%** at 20,000 and **45%** at 70,000 [1]. The average rate rises with income, so the tax is
 **progressive** [1].

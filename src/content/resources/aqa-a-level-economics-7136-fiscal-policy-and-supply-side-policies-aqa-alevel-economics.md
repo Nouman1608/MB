@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "fiscal-policy-and-supply-side-policies-aqa-alevel-economics"
-description: "AQA 7136 section 3.2.5 in one place: fiscal tools and their effects, tax rate sums, principles of taxation, deficits and debt, and supply-side policy evaluation."
+description: "AQA 7136 section 3.2.5 in one place: fiscal tools and effects, tax rate sums, principles of taxation, deficits and debt, and supply-side policy."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -98,6 +98,18 @@ One stable ion with an incomplete d sub-shell is enough.
 - Changing oxidation state: Fe²⁺ ⇌ Fe³⁺ in the I⁻/S₂O₈²⁻ reaction.
 - Dative bonds through vacant d orbitals: N₂ and H₂ adsorbed on iron in the Haber process.
 
+## Transition metal against Group 2 metal
+
+| Feature | Manganese (transition) | Calcium (Group 2) |
+|---|---|---|
+| Oxidation states | +2, +4, +6, +7 | +2 only |
+| Colour of compounds | often coloured (MnO₄⁻ purple) | white |
+| Complex ions | forms them, e.g. [Mn(H₂O)₆]²⁺ | few |
+| Catalytic activity | Mn²⁺ catalyses MnO₄⁻/C₂O₄²⁻ | not used in this way |
+
+Use this comparison when a question asks you to "contrast" transition and s-block metals: name
+the property, give an example, then explain it with 3d/4s energies or vacant d orbitals.
+
 ## Exam traps
 
 - "Stable **ions** with incomplete d orbitals", not "atoms".

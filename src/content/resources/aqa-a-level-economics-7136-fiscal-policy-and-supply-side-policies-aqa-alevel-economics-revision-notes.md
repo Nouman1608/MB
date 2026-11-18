@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "fiscal-policy-and-supply-side-policies-aqa-alevel-economics"
-description: "Revision notes for AQA 7136 section 3.2.5: fiscal functions, tax types and rates, principles of taxation, deficits, and free-market and interventionist supply-side policy."
+description: "Revision notes for AQA 7136 section 3.2.5: fiscal functions, tax types and rates, principles of taxation, deficits and supply-side policies."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -108,6 +108,21 @@ council tax. Judge their merits against the principles above.
 - Progressive versus regressive.
 - Deficit versus debt; cyclical versus structural.
 - Supply-side policy versus supply-side improvement; free market versus interventionist.
+
+## Evaluation toolkit
+
+- **Effectiveness:** size of the multiplier; how strongly people respond to incentives; spare capacity.
+- **Time lags:** fiscal changes need legislation; supply-side gains from education take years.
+- **Opportunity cost:** what else the money could fund; the effect on the deficit and debt.
+- **Equity:** who gains and who loses, especially from tax cuts and benefit changes.
+- **Side effects:** crowding out, extra imports, inflation near capacity.
+- **Uncertainty:** forecasts of potential output and of behaviour can be wrong.
+
+## Where marks are usually lost
+
+- Applying the top marginal rate to the whole of an income.
+- Calling an indirect tax progressive because richer people pay more in total.
+- Treating every rise in public spending as a supply-side policy.
 
 ## Quick self-test
 

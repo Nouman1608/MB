@@ -56,7 +56,7 @@ Use Aᵣ: H = 1.0, C = 12.0, O = 16.0, Na = 23.0 where needed.
 **(b)** The alkaline mixture is then acidified. Name the organic compound that is formed from the
 sodium salt. **[1]**
 
-**6.** A 1.44 kg batch of poly(lactic acid), –[OCH(CH₃)CO]ₙ–, is hydrolysed completely by NaOH(aq).
+**6.** A 1.44 kg sample of poly(lactic acid), –[OCH(CH₃)CO]ₙ–, is hydrolysed completely by NaOH(aq).
 Calculate the mass of NaOH used. **[3]**
 
 **7.** Nylon-6,6 has the repeat unit –NH(CH₂)₆NHCO(CH₂)₄CO–.

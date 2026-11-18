@@ -160,8 +160,8 @@ CH₃CH₂COOH + SOCl₂ → CH₃CH₂COCl + SO₂ + HCl.
 **(c)** Both by-products, SO₂ and HCl, are gases, so they escape and the acyl chloride is easier to
 separate [1].
 
-**10. (a)** Ethyl ethanoate: ethanoyl chloride and ethanol; methyl propanoate: propanoyl chloride
-and methanol [1 for each correct pair, 2 total].
+**10. (a)** Ethyl ethanoate: ethanoyl chloride and ethanol [1]; methyl propanoate: propanoyl
+chloride and methanol [1].
 
 **(b)** Structural isomers [1]: same molecular formula, different arrangement of atoms (the acyl and
 alkyl parts are swapped in size).

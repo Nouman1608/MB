@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "how-the-macroeconomy-works-aqa-alevel-economics"
-description: "AQA 7136 section 3.2.2 applied: injections and withdrawals, multiplier sums from the MPC, the accelerator, Keynesian and vertical AS, and demand and supply shocks."
+description: "AQA 7136 section 3.2.2 applied: injections and withdrawals, multiplier sums from the MPC, the accelerator, AS curves and demand and supply shocks."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

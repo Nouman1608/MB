@@ -132,8 +132,8 @@ on two different carbons) [1]. CH₂Cl: **triplet** (two neighbouring protons) [
 
 **7. (a)** **Two signals** [1], relative areas **3 : 1** (CH₃ : CHO) [1].
 
-**(b)** CH₃: **doublet** [1], in the **2.2–3.0** region (alkyl next to C=O) [1]. CHO: **quartet** [1], in the
-**9.3–10.5** region [1].
+**(b)** CH₃: **doublet** [1], in the **2.2–3.0** region (alkyl next to C=O) [1]. CHO: **quartet** [1], in
+the **9.3–10.5** region [1].
 
 **8. (a)** A **CH₃CH₂– group** [1]: the CH₃ is split into a triplet by the two CH₂ protons and the CH₂ into a
 quartet by the three CH₃ protons [1].

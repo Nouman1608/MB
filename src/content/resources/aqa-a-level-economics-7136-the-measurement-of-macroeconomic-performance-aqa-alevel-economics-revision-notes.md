@@ -102,6 +102,17 @@ Balance = sum of the four. A negative balance is a **current account deficit**.
 - Current account deficit versus budget deficit.
 - Market exchange rate versus PPP exchange rate.
 
+## Evaluation toolkit for data questions
+
+- **Check the measure:** is the figure nominal or real, total or per capita, a level or a rate of change?
+- **Check the period:** one year of data can mislead; look for a trend across several years.
+- **Check the comparison:** compare with the government's target, with the previous year and with similar
+  economies.
+- **Check the reliability:** GDP and unemployment figures are estimates and are often revised; the informal economy
+  is not fully captured.
+- **Weigh several indicators together:** strong growth with rising inflation and a widening current account deficit
+  may signal overheating rather than success.
+
 ## Quick self-test
 
 1. State the four main objectives of macroeconomic policy.

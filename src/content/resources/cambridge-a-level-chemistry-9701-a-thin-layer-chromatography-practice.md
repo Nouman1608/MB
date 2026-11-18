@@ -127,8 +127,8 @@ distances are measured) [1].
 **4.** Any one: the compound is very strongly adsorbed on the stationary phase; it is insoluble in the
 mobile phase [1].
 
-**5. (a)** 1.8 / 9.0 = 0.20; 4.5 / 9.0 = 0.50; 6.3 / 9.0 = 0.70: all three correct [2]; two correct
-[1].
+**5. (a)** 1.8 / 9.0 = 0.20; 4.5 / 9.0 = 0.50; 6.3 / 9.0 = 0.70: all three correct [2] (one mark if two are
+correct).
 
 **(b)** **S**, **P** and **Q** are probably present [1]; **R** is absent [1].
 

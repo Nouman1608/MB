@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-nitrogen-compounds"
     subtopic: "a-amino-acids"
-description: "Original practice questions with full answers on amino acid charges at different pH, isoelectric points, peptides and electrophoresis, for Cambridge 9701 Chemistry."
+description: "Original practice questions with full answers on amino acid charges at different pH, isoelectric points, peptides and electrophoresis, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
