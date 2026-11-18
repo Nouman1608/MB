@@ -43,7 +43,7 @@ A computer stores and processes **binary**. People and the physical world do not
 2. Software finds the three large corner squares to work out the code's position and angle.
 3. The pattern of small black and white squares is decoded into data, such as a web address or a boarding pass.
 
-QR codes hold more data than barcodes and can be read in any orientation, including from a phone screen.
+QR codes hold more data than barcodes and can be read in any orientation.
 
 **Digital camera**
 1. The lens focuses light onto an image sensor made of millions of light-sensitive elements.
@@ -57,7 +57,7 @@ QR codes hold more data than barcodes and can be read in any orientation, includ
 3. The sensor's readings become a digital image of the page, which can be processed further, for example by text recognition software.
 
 **3D scanner**
-The scanner measures points on the surface of a solid object from many angles, using lasers or light, and software combines the measurements into a digital 3D model. The model can be edited or sent to a 3D printer, for example to reproduce a damaged museum artefact.
+The scanner measures points on the surface of a solid object from many angles, using lasers or light, and software combines the measurements into a digital 3D model. The model can be edited or sent to a 3D printer.
 
 ### Devices people operate directly
 
@@ -87,7 +87,7 @@ The scanner measures points on the surface of a solid object from many angles, u
 5. Heated rollers (the fuser) melt the toner so it bonds to the paper.
 6. The drum is discharged and cleaned for the next page.
 
-It is fast, quiet and economical for large volumes of text.
+It suits large volumes of text.
 
 **3D printer**: reads a digital design that has been split into thin horizontal slices and builds the object one layer at a time, for example by extruding melted plastic or hardening liquid resin, each layer bonding to the one below.
 
@@ -132,8 +132,6 @@ A **sensor** is an input device that measures a physical property and sends the 
 **Question:** A hospital ward uses a computer system to monitor patients. Identify a suitable sensor for each task and explain your choice: (a) checking the rate at which a medicine drips into a patient; (b) raising an alert if a patient gets out of bed at night. [4]
 
 **Model answer:** (a) A **flow** sensor [1], because it measures the rate at which the liquid medicine moves through the tube, so the system can check the patient is receiving the correct dose [1]. (b) A **pressure** sensor in the mattress [1], because when the patient gets out of bed the pressure falls, and the processor can then send an alert to the nurse [1].
-
-Alternatives such as an infra-red sensor for (b) would be credited if justified.
 
 ## Worked example 2: a museum gallery
 

@@ -99,6 +99,8 @@ Writing designed to be **heard once** by a **named audience** on a **particular 
 
 ## Exam traps
 
+- Forgetting the occasion named in the task, such as a meeting or assembly.
+
 - An essay with "Good morning" added.
 - Rhetorical questions in every paragraph.
 - Slang or text-speak.

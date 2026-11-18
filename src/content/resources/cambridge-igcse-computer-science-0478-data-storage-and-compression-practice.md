@@ -76,6 +76,12 @@ W W W W W W W W W W W B B B W W
 **(b)** Recommend a type of compression for each kind of file. Justify each choice. **[4]**
 **(c)** Describe two ways lossy compression could reduce the size of a photograph. **[2]**
 
+**13.** A 3-minute audio clip is recorded at 44 100 Hz with a sample resolution of 16 bits.
+
+**(a)** Calculate the file size in MiB, to two decimal places. **[2]**
+**(b)** Lossy compression reduces the sample resolution to 8 bits. State the new file size and explain the effect on
+the sound. **[2]**
+
 ---
 
 ## Answers
@@ -110,6 +116,10 @@ W W W W W W W W W W W B B B W W
 **(b)** Photographs: lossy [1]; a large reduction in size, and the small loss of detail is unlikely to be noticed by customers [1]; booking records: lossless [1]; every character must be restored exactly, or names, dates or prices could be wrong [1]
 **(c)** Reduce the resolution (fewer pixels) [1]; reduce the colour depth (fewer bits per pixel) [1] **[8]**
 *Examiner insight:* A recommendation without a reason linked to the file type earns only half the marks in (b).
+
+**13. (a)** 44 100 × 16 × 180 = 127 008 000 bits [1]; ÷ 8 ÷ 1024 ÷ 1024 = **15.14 MiB** [1]
+**(b)** Half the bits per sample, so half the size: **7.57 MiB** [1]; each sample is stored less precisely, so the sound is less accurate (lower quality), and the lost data cannot be restored [1] **[4]**
+*Examiner insight:* Proportional reasoning is accepted in (b); there is no need to repeat the whole calculation.
 
 ---
 

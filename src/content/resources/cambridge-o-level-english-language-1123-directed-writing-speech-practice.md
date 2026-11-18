@@ -87,13 +87,13 @@ Read the two texts (original, written for this practice set).
 
 **6.** For example: "Cleaner air, cooler playgrounds and a greener future." **[1]**
 
-**7.** One mark each **[4]**:
+**7.** One mark each:
 - Use: the club teaches three hundred children to swim every year (Text 2) **[1]**.
 - Use: the roof and heating repairs were costly (Text 1) **[1]**.
 - Develop: the bus journey to the neighbouring town would take most of an evening for families without cars, so children from poorer families are most likely to stop swimming **[1]**.
 - Evaluate: the council's claim that visitor numbers have fallen ignores the four-month closure for repairs, which Text 2 says caused the fall **[1]**.
 
-**8.** Model **[3]**:
+**8.** Model:
 
 > Good evening, everyone. Every year, three hundred children in this town learn to swim in a pool that
 > the council now wants to close. Tonight I want to persuade you that this is not a saving at all. It
@@ -101,7 +101,7 @@ Read the two texts (original, written for this practice set).
 
 Marking: greeting and register suited to residents **[1]**; a hook drawn from the sources **[1]**; a clear position **[1]**.
 
-**9.** Model **[3]**:
+**9.** Model:
 
 > The council tells us that fewer people are using the pool. That sounds convincing, until you
 > remember why. For four months last year, the pool was closed for repairs. Of course numbers fell:
@@ -110,7 +110,7 @@ Marking: greeting and register suited to residents **[1]**; a hook drawn from th
 
 Marking: identifies the council's evidence **[1]**; evaluates it using Text 2 **[1]**; spoken register sustained **[1]**.
 
-**10.** Model **[3]**:
+**10.** Model:
 
 > I understand the council's position. Repairs are expensive, and our parks and footpaths do need
 > money. But a footpath cannot teach a child to swim. If the pool closes, the bus fare, the time and

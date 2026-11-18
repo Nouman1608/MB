@@ -12,7 +12,7 @@ order: 2.4
 syllabusTopics:
   - qualification: "o-level"
     topic: "writing-1123"
-description: "How to write the speech form in 1123 Paper 2 directed writing: spoken register, structure, rhetorical devices used with control, and a model built from two sources."
+description: "How to write the speech form in 1123 Paper 2 directed writing: spoken register, structure, controlled rhetorical devices and a model built from two sources."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
