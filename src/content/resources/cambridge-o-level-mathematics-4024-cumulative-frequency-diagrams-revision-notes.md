@@ -86,6 +86,13 @@ Use the median for the average and the IQR for the spread:
 
 "The median for Group 1 (29 marks) is higher than for Group 2 (25 marks), so Group 1 scored better on average. The IQR for Group 1 (16 marks) is larger than for Group 2 (11 marks), so Group 2's marks were more consistent."
 
+## Percentiles and quartiles in words
+
+- The median is the 50th percentile; the lower quartile is the 25th; the upper quartile is the 75th.
+- "The 90th percentile is 43 marks" means about 90% of the students scored 43 or less.
+- "The top 20%" starts at the 80th percentile, read at height 0.8n.
+- The IQR ignores the lowest and highest quarters, so one extreme value does not change it, unlike the range.
+
 ## Exam traps
 
 - Plotting at midpoints instead of upper boundaries.

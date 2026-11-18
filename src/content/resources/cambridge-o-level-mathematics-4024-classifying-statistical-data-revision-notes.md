@@ -91,6 +91,16 @@ Order used: children total 80 − 45 = 35; children coffee 30 − 20 = 10; child
 
 Read the words after "of the" to find the total you divide by.
 
+## Grouping examples
+
+| Data | Good classes | Why |
+|---|---|---|
+| Marks out of 50 (discrete) | 0–9, 10–19, 20–29, 30–39, 40–50 | whole numbers only, so no gaps |
+| Times in seconds (continuous) | 0 ≤ t < 10, 10 ≤ t < 20, ... | every possible time has one class |
+| Heights in cm (continuous) | 150 ≤ h < 155, 155 ≤ h < 160, ... | narrow classes keep the detail |
+
+Too few classes hide the pattern; too many leave most classes nearly empty. A grouped table must still show the total number of items.
+
 ## Exam traps
 
 - Calling age discrete because it is given in whole years.
