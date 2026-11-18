@@ -136,9 +136,9 @@ D: Average revenue is greater than average cost.
 **(c)** 20 to 30: (780 - 660) / 10 = **12** per piece [1]. 30 to 40: (1,100 - 780) / 10 = **32** per piece [1]. The pieces after 30 each cost 32, more than the AC of 26, so they pull the average up [1]. **[8]**
 *Examiner insight:* State the rule (MC above AC raises AC) with the two figures side by side.
 
-**9. (a)** TR: 70, 128, 174, 208, 230, 240. MR: 70, 58, 46, 34, 22, 10 [1 for each row correct]. 
+**9. (a)** TR: 70, 128, 174, 208, 230, 240 [1]. MR: 70, 58, 46, 34, 22, 10 [1].
 
-**(b)** TC: 110, 132, 152, 178, 214, 264. Profit: -40, -4, 22, 30, 16, -24 [1 for each row correct].
+**(b)** TC: 110, 132, 152, 178, 214, 264 [1]. Profit: -40, -4, 22, 30, 16, -24 [1].
 
 **(c)** **4 hires**, with profit of 30 [1]. The fourth hire has MR 34 above MC 26, so it adds 8 to profit; the fifth has MR 22 below MC 36, so it would cut profit by 14 [1]. **[6]**
 *Examiner insight:* Build TC by adding each MC to the previous total, starting from fixed cost of 80.

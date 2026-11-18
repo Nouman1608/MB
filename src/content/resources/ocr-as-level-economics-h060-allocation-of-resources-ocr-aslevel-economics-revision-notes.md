@@ -68,6 +68,12 @@ Deposit example: a 20p deposit lifts bottle returns from 45% to 85%, a rise of 4
 
 **Mixed:** markets for most goods, government for public goods, merit goods, redistribution and regulation; the balance is debated because of the risk of government failure.
 
+## Linking to other topics
+
+- The three functions of price drive the shifts and movements in supply and demand analysis.
+- Price caps and shortages return under government intervention, where maximum prices are evaluated.
+- Weaknesses of market allocation lead into market failure: public goods, externalities and information problems.
+
 ## Exam traps
 
 - Naming the functions without explaining them.

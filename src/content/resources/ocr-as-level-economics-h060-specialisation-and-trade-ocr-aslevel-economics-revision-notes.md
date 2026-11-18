@@ -71,6 +71,12 @@ These notes condense the topic **Specialisation and trade** from the Area of Stu
 - Ana (10 loaves or 4 baskets a day) and Ben (4 loaves or 8 baskets): splitting time gives 7 loaves and 6 baskets in total; specialising gives 10 loaves and 8 baskets.
 - Ten goods under barter: 10 x 9 / 2 = 45 exchange rates.
 
+## Linking to other topics
+
+- Specialisation raises output from scarce resources, which links back to the basic economic problem and the PPC.
+- Specialisation by region creates risk: a town dependent on one employer suffers high unemployment if it closes.
+- Comparative advantage, which explains what countries should specialise in, is developed under international trade.
+
 ## Exam traps
 
 - Using "specialisation" and "division of labour" as if they mean the same thing.

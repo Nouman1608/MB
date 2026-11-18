@@ -72,6 +72,12 @@ These notes condense the topic **The objectives of economic agents** from the Ar
 - Aims to maximise welfare by balancing growth, jobs, stable prices, fairness and the environment.
 - Goals conflict; welfare is hard to measure; politicians face short-run pressures.
 
+## Linking to other topics
+
+- Consumer surplus from utility maximisation reappears in supply and demand diagrams.
+- Profit and revenue figures depend on costs and revenue, a later topic in this Area of Study.
+- Government's welfare objective, and its limits, underpin the evaluation of intervention and government failure.
+
 ## Exam traps
 
 - Confusing revenue maximisation with profit maximisation.

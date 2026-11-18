@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
     subtopic: "policy-conflicts-ocr-aslevel-economics"
-description: "OCR AS Level Economics (H060) guide to policy conflicts: trade-offs between growth, jobs, inflation, the current account and sustainability, and how to judge them."
+description: "OCR AS Level Economics (H060) guide to policy conflicts: trade-offs between growth, jobs, inflation, the current account and sustainability, and judging them."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

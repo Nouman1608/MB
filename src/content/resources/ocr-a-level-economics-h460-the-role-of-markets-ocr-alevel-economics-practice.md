@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "the-role-of-markets-ocr-alevel-economics"
-description: "Original OCR A Level Economics (H460) questions with mark-scheme answers on The role of markets: equilibrium, elasticity, surplus, externalities and intervention."
+description: "Original OCR A Level Economics (H460) questions with mark-scheme answers on markets: equilibrium, elasticity, surplus, externalities and intervention."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
