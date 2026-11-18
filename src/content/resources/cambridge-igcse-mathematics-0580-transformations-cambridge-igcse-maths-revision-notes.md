@@ -85,6 +85,13 @@ Translate by (a, b):                 (x, y) → (x + a, y + b)
 - **Centre of enlargement:** where lines through corresponding vertices meet.
 - **Scale factor:** image length ÷ object length; negative if the image is on the other side of the centre and inverted.
 
+**Worked reminder: centre of enlargement by calculation.** If image = C + k(point − C), then C = (k × point − image) ÷ (k − 1). An enlargement with scale factor 2 maps (3, 2) to (5, 1):
+
+```
+C = (2 × (3, 2) − (5, 1)) ÷ (2 − 1) = (6 − 5, 4 − 1) = (1, 3)
+Check: (1, 3) + 2 × ((3, 2) − (1, 3)) = (1, 3) + (4, −2) = (5, 1) ✓
+```
+
 ## Sizes and areas
 
 | Transformation | Lengths | Area |

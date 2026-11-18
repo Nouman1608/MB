@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "chemistry-of-the-environment"
     subtopic: "fertilisers"
-description: "Revision notes for Cambridge O Level Chemistry 5070 section 10.2: ammonium salts, nitrates, NPK fertilisers, percentage nitrogen and linked tests, with a self-test."
+description: "Revision notes for Cambridge O Level Chemistry 5070 section 10.2: ammonium salts, nitrates, NPK fertilisers and percentage nitrogen, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -59,6 +59,8 @@ Ar values used: H = 1, N = 14, O = 16, P = 31, S = 32, Cl = 35.5, K = 39.
 4. Divide by Mr and multiply by 100.
 
 Reverse use: mass of fertiliser needed = mass of N wanted × Mr ÷ (mass of N in one formula unit).
+
+Quick example: potassium nitrate, KNO₃. Mr = 39 + 14 + (3 × 16) = 101. % K = 39 ÷ 101 × 100 = 38.6%; % N = 14 ÷ 101 × 100 = 13.9%. A 50 kg sack therefore supplies about 19.3 kg of potassium and 6.9 kg of nitrogen. Comparing compounds by percentage, not by Mr, tells you which supplies more of an element per kilogram.
 
 ## Making ammonium salts
 

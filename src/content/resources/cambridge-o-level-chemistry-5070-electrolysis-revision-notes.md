@@ -109,6 +109,8 @@ Check: atoms balance and charges balance on both sides.
 - The anode in electroplating is the plating metal, not the object.
 - In half-equations, electrons are on the left at the cathode and on the right at the anode.
 - Molten lead(II) bromide must be electrolysed in a fume cupboard because bromine is toxic.
+- "Dilute" or "concentrated" in a halide question is a deliberate clue: it decides between halogen and oxygen at the anode.
+- In the external circuit, electrons flow **from** the anode **to** the cathode, through the power supply.
 
 ## Self-test
 

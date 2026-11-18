@@ -107,6 +107,14 @@ C₉H₂₀ → C₆H₁₄ + ...... **[1]**
 
 **13.** A student is given two unlabelled bottles. One contains hexane, the other hex-1-ene. Describe a chemical test that would show which is which, including the result for each. **[3]**
 
+**14.** A sample of decane, C₁₀H₂₂, is cracked in the laboratory by passing its vapour over a heated catalyst. The gas produced is collected over water.
+
+**(a)** One reaction that occurs is C₁₀H₂₂ → C₇H₁₆ + X. Give the molecular formula of X and name the homologous series it belongs to. **[2]**
+
+**(b)** The collected gas is shaken with aqueous bromine. Predict the result and explain it. **[2]**
+
+**(c)** Explain why the delivery tube must be removed from the water before the heating is stopped. **[1]**
+
 ## Answers
 
 **1.** They contain a carbon–carbon double bond / not all carbon–carbon bonds are single bonds [1].
@@ -174,6 +182,13 @@ H — C — C — C — H
 
 **13.** Add aqueous bromine (bromine water) to a sample of each and shake [1]. Hex-1-ene: turns from orange to colourless [1]. Hexane: no change / stays orange [1].
 *Do not credit "goes clear" for the alkene result.*
+
+**14.** **(a)** C₃H₆ [1]; alkenes [1].
+*10 − 7 = 3 C; 22 − 16 = 6 H. C₃H₆ fits CₙH₂ₙ (propene).*
+
+**(b)** The aqueous bromine turns from orange to colourless [1]; the gas contains an alkene, which is unsaturated, so bromine adds across its C=C bond [1].
+
+**(c)** Otherwise, as the apparatus cools, water is sucked back into the hot tube, which could crack the glass [1]. *Accept "to prevent suck-back".*
 
 ---
 

@@ -130,6 +130,8 @@ If the oxide dissolves in water, universal indicator shows the result: acidic ox
 - Calcium hydroxide is Ca(OH)₂, not CaOH.
 - Carbon dioxide gives a **weakly** acidic solution; don't describe it as strongly acidic.
 - For an amphoteric oxide, the product is "salt and water" in **both** reactions.
+- When explaining a classification, give the **reason**: the element is a metal or non-metal, or the oxide's observed reaction with acid or alkali.
+- An insoluble oxide gives no pH reading in water, so it cannot be classified that way; test it with acid and with alkali before deciding.
 
 ## Self-test
 

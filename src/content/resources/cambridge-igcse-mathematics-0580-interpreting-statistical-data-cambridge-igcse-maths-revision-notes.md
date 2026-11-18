@@ -37,7 +37,6 @@ Full explanations and worked examples are in the [interpreting statistical data 
 | Proportion | A part of a group as a fraction, percentage or angle of a pie chart |
 | Sample | The part of a population from which data were collected |
 | Representative | A sample that reflects the whole population fairly |
-| Misleading diagram | A chart whose design gives a false impression of the data |
 
 ## Before you read any table or diagram
 
@@ -48,8 +47,6 @@ Full explanations and worked examples are in the [interpreting statistical data 
 4. Key: what does one symbol or one colour stand for?
 5. Totals: how many items in each group?
 ```
-
-Step 5 matters for every fraction, percentage and comparison.
 
 ## True, false or cannot tell
 
@@ -108,8 +105,6 @@ Compare like with like: mean with mean, median with median, range with range.
 - Percentages, fractions and pie chart angles are **proportions**.
 - To compare **numbers**, multiply each proportion by its own group total.
 
-**Small reminder.** 40% of 150 = 60; 25% of 300 = 75. The smaller percentage gives the bigger number.
-
 ## Restrictions on conclusions: the checklist
 
 | Question to ask | Example of a problem |
@@ -130,7 +125,6 @@ Compare like with like: mean with mean, median with median, range with range.
 - Using the mean as "typical" when one value is extreme.
 - Comparing two pie charts' angles as if they were numbers of people.
 - Not noticing that the vertical axis starts above 0.
-- Reasons like "the data could be wrong", which are not linked to the context.
 
 ## Quick self-test
 

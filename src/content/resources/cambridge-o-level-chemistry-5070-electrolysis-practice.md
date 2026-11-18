@@ -53,7 +53,7 @@ Related: [electrolysis study guide](/resources/cambridge-o-level-chemistry-5070-
 
 **(b)** Describe a test for the gas formed at the anode, giving the result.
 
-**(c)** The solution becomes alkaline during the electrolysis. Explain why. **[5]**
+**(c)** The solution becomes alkaline during the electrolysis. Explain why. **[6]**
 
 **9.** Dilute sulfuric acid is electrolysed using platinum electrodes.
 

@@ -115,9 +115,13 @@ D: The business is easy to set up
 
 **(d)** Debenture holders are lenders, not owners [1]; the debentures must be repaid, so they are a liability, shown under non-current liabilities [1]. **[6]**
 
-**8. (a)** Any two, each developed: Ravi's 15,000 adds capital, so Shilpa can buy equipment or take larger contracts without borrowing [1] [1]; Ravi's skills as a chef widen the menu and improve quality [1] [1]; the workload is shared, so Shilpa can spend time on sales [1] [1]; losses are shared [1] [1].
+**8. (a)** Any two advantages, each stated and developed: Ravi's 15,000 adds capital, so Shilpa can buy equipment or take larger contracts without borrowing; Ravi's skills as a chef widen the menu and improve quality; the workload is shared, so Shilpa can spend time on sales; losses are shared.
 
-**(b)** Any two, each developed: profits must be shared with Ravi, so her share may fall unless the business grows [1] [1]; she has unlimited liability for debts Ravi creates through his decisions [1] [1]; disagreements may slow decisions she now makes alone [1] [1]. **[8]**
+First advantage [1] developed [1]; second advantage [1] developed [1].
+
+**(b)** Any two disadvantages, each stated and developed: profits must be shared with Ravi, so her share may fall unless the business grows; she has unlimited liability for debts Ravi creates through his decisions; disagreements may slow decisions she now makes alone.
+
+First disadvantage [1] developed [1]; second disadvantage [1] developed [1]. **[8]**
 
 **9. (a)** 10% × 200,000 = **20,000** [1].
 

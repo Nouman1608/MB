@@ -104,6 +104,13 @@ Use the frame **figure, comparison, meaning for the owner**:
 - Current assets compared with current liabilities, and how much of current assets is inventory.
 - Long-term loans: no short-term pressure, but a fixed interest cost.
 
+## Order of work in the exam
+
+1. Read every adjustment and mark each trial balance line it affects, writing the adjusted figure beside it.
+2. Calculate depreciation and any provisions before starting the statements.
+3. Write the income statement, then the statement of financial position.
+4. Check that net assets equal closing capital before moving on.
+
 ## Exam traps
 
 - Returns inwards deducted from purchases instead of revenue.

@@ -148,7 +148,7 @@ D: silver **[1]**
 
 **(b)** magnesium + steam → magnesium oxide [1] + hydrogen [1].
 
-**(c)** A metal reacting with steam forms the metal oxide (the high temperature means no hydroxide is formed) [1].
+**(c)** Metals that react with steam form the metal **oxide** (and hydrogen), not the hydroxide [1].
 
 **10. (a)** Z, X, Y [2]. One mark for Z most reactive or Y least reactive.
 

@@ -101,6 +101,14 @@ C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂
 
 **13.** A student writes: "All ethanol is made from a renewable resource." Explain why this is not true for ethanol made by the catalytic addition of steam to ethene. **[2]**
 
+**14.** Ethanol, CH₃CH₂OH, and ethane, CH₃CH₃, both contain two carbon atoms.
+
+**(a)** Draw the displayed formula of ethanol. **[1]**
+
+**(b)** State **one** use of ethanol that depends on its ability to dissolve substances that do not dissolve in water. **[1]**
+
+**(c)** Ethanol made by fermentation is described as a renewable fuel. Explain what *renewable* means here. **[1]**
+
 ## Answers
 
 **1.** Hydroxyl group / –OH [1].
@@ -156,6 +164,22 @@ Ethene method, any two [2]:
 **(b)** CH₃CH(OH)CH₃ [1].
 
 **13.** The ethene used is obtained by cracking alkanes from petroleum [1]; petroleum is a fossil fuel that cannot be replaced once used, so it is non-renewable [1].
+
+**14.** **(a)** Two carbons joined by a single bond, five C–H bonds, one C–O bond and the O–H bond all shown [1]:
+
+```
+    H   H
+    |   |
+H — C — C — O — H
+    |   |
+    H   H
+```
+
+*Do not credit a drawing that ends in "–OH" without showing the O–H bond.*
+
+**(b)** As a solvent (for example in perfumes or medicines) [1].
+
+**(c)** The glucose comes from crops, which can be grown again to replace what is used [1].
 
 ---
 
