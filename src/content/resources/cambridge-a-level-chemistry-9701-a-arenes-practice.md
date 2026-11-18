@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-hydrocarbons"
     subtopic: "a-arenes"
-description: "Original exam-style questions on benzene and methylbenzene reactions, electrophilic substitution mechanisms, directing effects and synthesis order, for Cambridge 9701."
+description: "Original exam-style questions on benzene and methylbenzene reactions, substitution mechanisms, directing effects and synthesis order, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -98,6 +98,8 @@ Relative atomic masses: H = 1.0, C = 12.0, N = 14.0, O = 16.0.
 
 **(c)** Under conditions Y, excess chlorine gives a product of formula C₇H₅Cl₃. Suggest its structure. **[1]**
 
+**13.** Write a balanced equation for the Friedel–Crafts acylation of benzene with ethanoyl chloride, and identify the inorganic by-product. **[2]**
+
 ---
 
 ## Answers
@@ -147,6 +149,8 @@ Relative atomic masses: H = 1.0, C = 12.0, N = 14.0, O = 16.0.
 **(b)** X: 2-chloromethylbenzene or 4-chloromethylbenzene [1]; Y: (chloromethyl)benzene, C₆H₅CH₂Cl [1].
 
 **(c)** C₆H₅CCl₃, all three side-chain hydrogens replaced [1].
+
+**13.** C₆H₆ + CH₃COCl → C₆H₅COCH₃ + HCl [1]; the by-product is hydrogen chloride, formed when H⁺ from the ring combines with AlCl₄⁻, which also regenerates the AlCl₃ catalyst [1].
 
 ---
 

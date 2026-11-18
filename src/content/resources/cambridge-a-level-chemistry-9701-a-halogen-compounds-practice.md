@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-halogen-compounds"
     subtopic: "a-halogen-compounds"
-description: "Original exam-style questions on producing halogenoarenes and comparing chlorobenzene with chloroethane, including applied structures, with answers, for Cambridge 9701."
+description: "Original exam-style questions on making halogenoarenes and comparing chlorobenzene with chloroethane, with mark-scheme answers, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -100,7 +100,7 @@ Relative atomic masses: H = 1.0, C = 12.0, Cl = 35.5, Br = 79.9.
 
 **4.** No: the chlorine is bonded to the sp³ carbon of the side-chain, not to a carbon in the ring [1].
 
-**5.** No precipitate forms (the solution stays clear) [1].
+**5.** No precipitate forms (the solution stays clear) [1]. No chloride ions are released, because the C–Cl bond in chlorobenzene is not broken under these conditions.
 
 **6. (a)** CH₃CH₂Cl + NaOH → CH₃CH₂OH + NaCl [1]; ethanol [1].
 

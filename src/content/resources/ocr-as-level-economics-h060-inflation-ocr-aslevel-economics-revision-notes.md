@@ -43,7 +43,6 @@ These notes condense **Inflation** from Component 02, Macroeconomics, of the OCR
 | Hyperinflation | Extremely rapid, accelerating inflation; one benchmark is over 50% a month |
 | Price index | Cost of a weighted basket relative to a base period set at 100 |
 | Weight | An item's share of household spending, used to scale its price change |
-| Base year | The period in which the index equals 100 |
 | CPI | Consumer Prices Index; the UK target measure, harmonised internationally |
 | RPI | Retail Prices Index; includes mortgage interest and council tax |
 | Nominal value | Value in the prices of the time |
@@ -64,7 +63,7 @@ These notes condense **Inflation** from Component 02, Macroeconomics, of the OCR
 
 **Real value:** nominal value / (price index / 100).
 
-**Exact real change:** (1 + nominal growth) / (1 + inflation) - 1. The shortcut "nominal minus inflation" is fine for small rates but say it is approximate.
+**Exact real change:** (1 + nominal growth) / (1 + inflation) - 1. The shortcut "nominal minus inflation" is approximate.
 
 **Rebasing:** to move the base to a new year, divide every value by the new base year's value and multiply by 100.
 

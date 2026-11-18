@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "indices-and-surds-ocr-gcse-maths"
     subtopic: "standard-form-ocr-gcse-maths"
-description: "Condensed OCR GCSE Maths J560 revision notes on 3.02 Standard form: converting, ordering, and the four operations with and without a calculator, with a self-test."
+description: "Condensed OCR GCSE Maths J560 revision notes on 3.02: converting and ordering standard form, and the four operations with and without a calculator, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -93,6 +93,10 @@ Reminder: 3 × 10⁴ < 30 500 < 0.31 × 10⁵ < 2.9 × 10⁵, because 30 500 = 3
 - "How many times larger" means divide.
 - Convert units before calculating: 1 cm = 1 × 10⁻² m, 1 mm = 1 × 10⁻³ m, 1 km = 1 × 10³ m.
 - When a question says "give your answer in standard form", an ordinary number does not answer it.
+
+## Worked reminder
+
+(4 × 10⁻³) ÷ (8 × 10⁵): divide the A values, 4 ÷ 8 = 0.5; subtract the indices, −3 − 5 = −8; tidy 0.5 × 10⁻⁸ to **5 × 10⁻⁹**. A check by size: a small number divided by a large one must give a very small answer, so a large negative index is expected.
 
 ## Exam traps
 

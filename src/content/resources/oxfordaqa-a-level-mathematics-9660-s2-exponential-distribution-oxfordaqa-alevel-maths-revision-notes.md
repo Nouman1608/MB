@@ -84,6 +84,14 @@ Learn this line: a question may say "by integration", which needs the working, n
 - P(X < 2 × mean) = 1 − e⁻² ≈ 0.865.
 - P(X > s + t given X > s) = P(X > t): time already waited does not change the chance of a further wait.
 
+## Quick worked checks
+
+**Working back from a median.** The median time between arrivals is 3 minutes. Then λ = (ln 2)/3 = 0.231 per minute, and the mean is 3/ln 2 = 4.33 minutes.
+
+**A quartile.** For X ~ Exp(0.1), the upper quartile is (ln 4)/0.1 = 13.9, so a quarter of gaps last longer than 13.9 units.
+
+**Two-step binomial.** For X ~ Exp(0.5), P(X > 2) = e⁻¹. The probability that all 3 of three independent gaps exceed 2 is (e⁻¹)³ = e⁻³ = 0.0498.
+
 ## Checking suitability
 
 | Context | Suitable? | Reason |
