@@ -60,6 +60,8 @@ Learn the methods first in the [section 5.16 study guide](/resources/ib-ib-dp-ma
 **12.** **(a)** Show that ∫ sin(ln x) dx = (x/2)[sin(ln x) − cos(ln x)] + C. **[6]**
 **(b)** Hence find the exact value of ∫₁^(e^π) sin(ln x) dx. **[2]**
 
+**13.** Find the exact value of ∫₀^(π/2) x cos x dx. **[4]**
+
 ## Answers
 
 **1.** u = x, v = −(1/2) cos 2x [1]; −(x/2) cos 2x + ∫ (1/2) cos 2x dx [1]; **−(x/2) cos 2x + (1/4) sin 2x + C** [1] **[3]**
@@ -88,6 +90,9 @@ Learn the methods first in the [section 5.16 study guide](/resources/ib-ib-dp-ma
 
 **12. (a)** Let I = ∫ sin(ln x) dx. u = sin(ln x), dv/dx = 1: I = x sin(ln x) − ∫ cos(ln x) dx [1] [1]; u = cos(ln x), dv/dx = 1: ∫ cos(ln x) dx = x cos(ln x) + I [1] [1]; I = x sin(ln x) − x cos(ln x) − I [1]; 2I = x[sin(ln x) − cos(ln x)], giving the result [1]
 **(b)** At x = e^π: (e^π/2)(0 − (−1)) = e^π/2; at x = 1: (1/2)(0 − 1) = −1/2 [1]; **(e^π + 1)/2** [1] **[8]**
+
+**13.** u = x, v = sin x [1]; [x sin x]₀^(π/2) − ∫₀^(π/2) sin x dx [1]; = π/2 − [−cos x]₀^(π/2) = π/2 − (0 + 1) [1] = **π/2 − 1** [1] **[4]**
+*Examiner insight:* The limits apply to the uv term as well; leaving [x sin x] unevaluated loses the accuracy mark.
 
 ## Where next
 

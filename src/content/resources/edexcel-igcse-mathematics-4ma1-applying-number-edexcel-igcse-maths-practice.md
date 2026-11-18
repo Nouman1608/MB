@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
     subtopic: "applying-number-edexcel-igcse-maths"
-description: "12 original Edexcel IGCSE Maths 4MA1 questions on applying number (section 1.10): metric units, time, overtime, hire charges, materials and currency."
+description: "13 original Edexcel IGCSE Maths 4MA1 questions on applying number (section 1.10): metric units, time, overtime, hire charges, materials and currency."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -72,6 +72,8 @@ Related: [section 1.10 study guide](/resources/edexcel-igcse-mathematics-4ma1-ap
 
 **12.** A shower uses 9.5 litres of water per minute. Each of the 4 people in a family has an 8-minute shower every day. Water costs £1.95 per m³. Work out the cost of the water used for the family's showers in one week. **[4]**
 
+**13.** A taxi fare is £3.50 plus £1.85 per kilometre. Three friends share the fare for a 7.2 km journey equally. How much should each pay so that the whole fare is covered? **[3]**
+
 ## Answers
 
 **1. (a)** **2080 kg** [1]
@@ -105,6 +107,8 @@ Related: [section 1.10 study guide](/resources/edexcel-igcse-mathematics-4ma1-ap
 **11.** 899 ÷ 1.24 [1] = £725.00 [1]; **London is cheaper, by £5.00** [1]
 
 **12.** Water per day: 9.5 × 8 × 4 = 304 litres [1]; per week: 304 × 7 = 2128 litres [1] = 2.128 m³ [1]; cost: 2.128 × 1.95 = 4.1496, so **£4.15** [1]
+
+**13.** Fare = 3.50 + 1.85 × 7.2 = 3.50 + 13.32 [1] = £16.82 [1]; 16.82 ÷ 3 = 5.6066…, so each pays **£5.61** [1]
 
 ## Where marks are usually lost
 

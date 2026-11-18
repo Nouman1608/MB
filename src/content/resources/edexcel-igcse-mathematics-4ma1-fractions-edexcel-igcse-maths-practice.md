@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
     subtopic: "fractions-edexcel-igcse-maths"
-description: "12 original Edexcel IGCSE Maths 4MA1 questions on fractions (section 1.2): simplifying, ordering, mixed-number arithmetic and multi-step problems."
+description: "13 original Edexcel IGCSE Maths 4MA1 questions on fractions (section 1.2): simplifying, ordering, mixed-number arithmetic and multi-step problems."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -90,6 +90,8 @@ Related: [section 1.2 study guide](/resources/edexcel-igcse-mathematics-4ma1-fra
 
 **(b)** Four glasses are filled from a full jug. What fraction of the juice is left in the jug? **[3]**
 
+**13.** Which of the fractions 5/11 and 6/13 is closer to 1/2? Show how you decide. **[3]**
+
 ## Answers
 
 **1.** HCF of 84 and 126 is 42 [1]; **2/3** [1]
@@ -131,6 +133,10 @@ Related: [section 1.2 study guide](/resources/edexcel-igcse-mathematics-4ma1-fra
 **12. (a)** 9/4 ÷ 3/8 = 9/4 × 8/3 [1]; = **6 glasses** [1]
 
 **(b)** Used: 4 × 3/8 = 3/2 litres [1]; left: 9/4 − 6/4 = 3/4 litre [1]; fraction of the jug: (3/4) ÷ (9/4) = **1/3** [1]
+
+**13.** 1/2 − 5/11 = 11/22 − 10/22 = 1/22 [1]; 6/13 is less than 1/2 by 13/26 − 12/26 = 1/26 [1]; 1/26 < 1/22, so **6/13 is closer** [1]
+
+*Examiner insight:* Converting to decimals (0.4545… and 0.4615…) is also valid, but the fraction differences give an exact comparison with no rounding.
 
 ## Where marks are usually lost
 

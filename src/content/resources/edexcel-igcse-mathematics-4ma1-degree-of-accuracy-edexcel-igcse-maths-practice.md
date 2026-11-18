@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
     subtopic: "degree-of-accuracy-edexcel-igcse-maths"
-description: "12 original Edexcel IGCSE Maths 4MA1 questions on degree of accuracy (section 1.8): rounding, significant figures, bounds, estimation and bounds problems."
+description: "13 original Edexcel IGCSE Maths 4MA1 questions on degree of accuracy (section 1.8): rounding, significant figures, bounds, estimation and bounds problems."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -94,6 +94,8 @@ Related: [section 1.8 study guide](/resources/edexcel-igcse-mathematics-4ma1-deg
 
 **(b)** Write down the area to a suitable degree of accuracy. Give a reason. **[1]**
 
+**13.** Ali says, "4.6, correct to 1 decimal place, has an upper bound of 4.649." Explain why the upper bound is 4.65. **[1]**
+
 ## Answers
 
 **1. (a)** **7 296 000** [1]
@@ -126,6 +128,8 @@ Related: [section 1.8 study guide](/resources/edexcel-igcse-mathematics-4ma1-deg
 
 **9. (a)** 455 ÷ 31.5 [1] = **14.44 litres per minute** (2 d.p.) [1]
 
+*Examiner insight:* The largest rate comes from the most water in the least time, so the upper bound of the volume is divided by the lower bound of the time.
+
 **(b)** 445 ÷ 32.5 [1] = **13.69 litres per minute** (2 d.p.) [1]
 
 **(c)** **14 litres per minute**, because both bounds round to 14 to 2 significant figures [1]
@@ -139,6 +143,8 @@ Related: [section 1.8 study guide](/resources/edexcel-igcse-mathematics-4ma1-deg
 **12. (a)** Bounds of radius 7.25 and 7.35 [1]; π × 7.25² = **165.1 cm²** [1]; π × 7.35² = **169.7 cm²** [1]
 
 **(b)** **170 cm²** (2 s.f.), because both bounds round to 170 to 2 s.f. [1]
+
+**13.** Every value up to (but not including) 4.65 rounds to 4.6, including 4.6499…, which is greater than 4.649; the bound is the boundary value 4.65 [1]
 
 ## Where marks are usually lost
 

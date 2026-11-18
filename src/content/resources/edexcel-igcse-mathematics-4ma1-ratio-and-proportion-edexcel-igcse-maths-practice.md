@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
     subtopic: "ratio-and-proportion-edexcel-igcse-maths"
-description: "12 original Edexcel IGCSE Maths 4MA1 questions on ratio and proportion (section 1.7): simplifying, sharing, combining ratios, proportion and map scales."
+description: "13 original Edexcel IGCSE Maths 4MA1 questions on ratio and proportion (section 1.7): simplifying, sharing, combining ratios, proportion and map scales."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -74,6 +74,8 @@ Related: [section 1.7 study guide](/resources/edexcel-igcse-mathematics-4ma1-rat
 
 **12.** A recipe for 8 biscuits uses 120 g of flour, 75 g of butter and 45 g of sugar. Leon has 500 g of flour, 300 g of butter and 200 g of sugar. Work out the greatest number of biscuits he can make. Show your working. **[4]**
 
+**13.** The width and length of a rectangle are in the ratio 2 : 5. Its perimeter is 63 cm. Work out the area of the rectangle. **[4]**
+
 ## Answers
 
 **1.** 3000 : 600 [1] = **5 : 1** [1]
@@ -98,6 +100,8 @@ Related: [section 1.7 study guide](/resources/edexcel-igcse-mathematics-4ma1-rat
 
 **9.** Red = 2k, blue = 3k; (2k + 8) : 3k = 6 : 5, so 5(2k + 8) = 6 × 3k [1]; 10k + 40 = 18k, so k = 5 [1]; **10 red and 15 blue** [1]
 
+*Examiner insight:* Check the answer in the new ratio: 18 : 15 simplifies to 6 : 5. A trial-and-improvement route that reaches the same answer with a check can also earn full marks.
+
 **10. (a)** d ÷ t = 24 ÷ 1.5 = 16 [1]; d = 16 × 4 = **64** [1]
 
 **(b)** t = 56 ÷ 16 = **3.5** [1]
@@ -107,6 +111,10 @@ Related: [section 1.7 study guide](/resources/edexcel-igcse-mathematics-4ma1-rat
 **(b)** 15 km = 1 500 000 cm [1]; 1 500 000 ÷ 125 000 = **12 cm** [1]
 
 **12.** Batches from flour: 500 ÷ 120 = 4.17, so 33.3 biscuits [1]; from butter: 300 ÷ 75 = 4 batches, so 32 biscuits [1]; from sugar: 200 ÷ 45 = 4.44, so 35.6 biscuits [1]; butter runs out first, so the greatest number is **32 biscuits** [1]
+
+**13.** Width + length = 63 ÷ 2 = 31.5 cm [1]; 7 parts = 31.5, so 1 part = 4.5 cm [1]; width = 9 cm and length = 22.5 cm [1]; area = 9 × 22.5 = **202.5 cm²** [1]
+
+*Examiner insight:* The ratio applies to one width and one length, not to the whole perimeter; halving the perimeter first avoids sharing 63 in the ratio 2 : 5 by mistake.
 
 ## Where marks are usually lost
 
