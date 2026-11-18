@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-chemical-energetics"
     subtopic: "as-enthalpy-change"
-description: "Original questions with worked answers on enthalpy definitions, reaction pathway diagrams, bond energy calculations and q = mcΔT experiments, for Cambridge 9701."
+description: "Original questions with worked answers on enthalpy definitions, pathway diagrams, bond energy calculations and q = mcΔT experiments, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

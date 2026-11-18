@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-states-of-matter"
     subtopic: "as-the-gaseous-state"
-description: "Gas pressure from collisions, ideal gas assumptions, real gas deviation and pV = nRT calculations, including finding Mr of a volatile liquid, for Cambridge 9701."
+description: "Gas pressure from collisions, ideal gas assumptions, real gas deviation and pV = nRT calculations, including Mr of a volatile liquid, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

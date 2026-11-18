@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-chemical-energetics"
     subtopic: "as-hess-s-law"
-description: "Original Hess's law questions with worked answers: formation and combustion cycles, combining equations, experimental routes and bond energies, for Cambridge 9701."
+description: "Original Hess's law questions with worked answers on formation and combustion cycles, combining equations and bond energies, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

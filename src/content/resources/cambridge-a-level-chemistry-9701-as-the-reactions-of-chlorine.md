@@ -116,6 +116,16 @@ The position of the second equilibrium depends on the pH of the water. Adding H�
 
 > "Chlorine reacts with water: Cl₂ + H₂O ⇌ HCl + HOCl [1]. HOCl partly dissociates: HOCl ⇌ H⁺ + ClO⁻ [1]. HOCl and ClO⁻ are the active species, which kill bacteria in the water [1]."
 
+## Three disproportionations compared
+
+| Conditions | Products containing Cl | Oxidation numbers of Cl | Ratio reduced : oxidised |
+|---|---|---|---|
+| Water | HCl, HOCl | −1, +1 | 1 : 1 |
+| Cold aqueous NaOH | NaCl, NaClO | −1, +1 | 1 : 1 |
+| Hot aqueous NaOH | NaCl, NaClO₃ | −1, +5 | 5 : 1 |
+
+The cold-alkali reaction is the water reaction with the acids neutralised: HCl and HOCl react with NaOH to give NaCl and NaClO. In every case one product contains chloride, and the other contains chlorine in a positive oxidation state bonded to oxygen.
+
 ## Common mistakes
 
 - **Giving the same products for hot and cold alkali.** Cold: NaCl + NaClO. Hot: NaCl + NaClO₃.

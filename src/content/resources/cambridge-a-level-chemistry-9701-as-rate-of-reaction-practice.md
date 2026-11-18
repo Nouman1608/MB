@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-reaction-kinetics"
     subtopic: "as-rate-of-reaction"
-description: "Original questions with worked answers on effective collisions, concentration and pressure effects, and calculating rates from data and tangents, for Cambridge 9701."
+description: "Original questions with worked answers on effective collisions, concentration and pressure, and rates from data and tangents, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

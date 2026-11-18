@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-states-of-matter"
     subtopic: "as-bonding-and-structure"
-description: "Revision notes for Cambridge 9701 4.2: giant ionic, simple molecular, giant molecular and metallic lattices, their properties, solubility and structure deduction."
+description: "Revision notes for Cambridge 9701 4.2: giant ionic, simple molecular, giant molecular and metallic lattices, their properties and how to deduce structure."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-states-of-matter"
     subtopic: "as-bonding-and-structure"
-description: "Original questions with mark-scheme answers on lattice structures, melting points, conductivity, solubility and deducing structure from data, for Cambridge 9701."
+description: "Original questions with mark-scheme answers on lattice structures, melting points, conductivity, solubility and deducing structure, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

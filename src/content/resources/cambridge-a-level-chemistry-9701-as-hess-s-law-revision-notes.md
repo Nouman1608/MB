@@ -51,6 +51,15 @@ Memory aid: **formation is products minus reactants; combustion is reactants min
 - Add equations → **add** their ΔH values; species on both sides cancel.
 - ΔH_f of an element in its standard state = **0**.
 
+## Cycle-drawing checklist
+
+- Write the **target equation** across the top with state symbols.
+- Put the **intermediate** (elements, combustion products or gaseous atoms) in the right place.
+- Label every arrow with its value **multiplied by the moles** in the equation.
+- Check the **direction** of each arrow before deciding whether to add or subtract.
+- Make sure both routes start and finish with the **same substances in the same states**.
+- Finish with the **sign**, the value and **kJ mol⁻¹**.
+
 ## Typical "cannot be measured directly" examples
 
 | Target | Why not direct | Route used |
