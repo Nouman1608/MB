@@ -94,6 +94,8 @@ figures. **[2]**
 **3.** 7.2 ÷ 1.8 = 4 and 10⁵⁻⁽⁻²⁾ = 10⁷ [1]; **4 × 10⁷** [1] **[2]**
 
 **4.** 8.4 × 10⁶ + 0.5 × 10⁶ [1] = **8.9 × 10⁶** [1] **[2]**
+*Examiner insight:* Converting both numbers to ordinary form (8 400 000 + 500 000) is also valid, but the
+final answer must still be returned to the form a × 10ᵏ.
 
 **5. (a)** 4³ × 10⁹ = 64 × 10⁹ [1] = **6.4 × 10¹⁰** [1]
 **(b)** √(81 × 10⁻⁶) [1] = **9 × 10⁻³** [1]
@@ -114,6 +116,8 @@ can change the third figure in other questions.
 **(b)** (4/3)π(6.371 × 10⁶)³ [1] = **1.08 × 10²¹ m³** [1]
 
 **10.** (9.109 × 10⁻³¹) × (6.022 × 10²³) [1] = 5.4854… × 10⁻⁷ = **5.49 × 10⁻⁷ kg** [1] **[2]**
+*Examiner insight:* A quick size check, 9 × 6 ≈ 54 and 10⁻³¹ × 10²³ = 10⁻⁸, gives about 5 × 10⁻⁷, which
+confirms the GDC answer.
 
 **11. (a)** (2.5 × 10⁻⁶) ÷ (5.0 × 10⁻⁹) [1] = **500** (5.00 × 10²) times [1]
 **(b)** 2.5 ÷ 5 = 0.5 and 10⁻⁶⁻⁽⁻⁹⁾ = 10³, so 0.5 × 10³ = 5 × 10² [1]

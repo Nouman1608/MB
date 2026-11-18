@@ -174,6 +174,16 @@ unrounded FV in the division.
 - Subtracting the inflation rate from the interest rate when the question asks for the real value by
   dividing.
 
+## Frequently asked questions
+
+**Is continuous compounding examined?**
+The guide treats the link between compound interest and continuous compounding as enrichment, so you are not
+expected to use it in section 1.4 questions.
+
+**Do I need the TVM solver?**
+Questions may require technology, including the financial package, but the formula always works too. Use
+whichever you can show clearly.
+
 ## Next steps
 
 - [Section 1.4 revision notes](/resources/ib-ib-dp-mathematics-analysis-and-approaches-dp-mathematics-analysis-and-approaches-ib-dp-mathematics-analysis-and-approaches-1-4-revision-notes/)

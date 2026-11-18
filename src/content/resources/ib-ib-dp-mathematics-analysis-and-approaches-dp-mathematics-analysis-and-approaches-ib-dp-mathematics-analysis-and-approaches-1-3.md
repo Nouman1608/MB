@@ -144,6 +144,13 @@ A salary that falls by 10% a year from £80 000 has r = 0.9. The salary in year 
 £30 993.64, and the total paid over the 10 years is 80 000(1 − 0.9¹⁰)/(1 − 0.9) = £521 057.25. Using the
 (1 − rⁿ)/(1 − r) form when r < 1 keeps both numerator and denominator positive.
 
+## Using technology to display sequences
+
+A GDC table with u_n = u₁r^(n−1) in one column and S_n in the next shows terms and totals side by side.
+This is often the quickest way to answer "first day on which" or "least n" questions, and it gives you the
+values either side of the answer to quote as a check. Plotting u_n against n also shows the exponential shape
+that distinguishes geometric from arithmetic growth.
+
 ## Exam technique
 
 - **Write u₁ and r** before any GDC calculation, as the guide expects.
