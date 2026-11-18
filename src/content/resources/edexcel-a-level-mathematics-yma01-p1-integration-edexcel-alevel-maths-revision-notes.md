@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p1-pure-mathematics-1-edexcel-alevel-maths"
     subtopic: "p1-integration-edexcel-alevel-maths"
-description: "Revision notes for Edexcel IAL Maths P1 integration: reverse differentiation, the constant c, rewriting powers of x and finding curves from f′(x), plus a self-test."
+description: "Revision notes for Edexcel IAL Maths P1 integration: reversing differentiation, the constant c, rewriting powers of x and finding curves, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

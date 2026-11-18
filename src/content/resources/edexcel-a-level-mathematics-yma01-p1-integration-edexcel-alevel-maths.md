@@ -89,7 +89,7 @@ Find ∫ (3x² − 4)/(2√x) dx, x > 0.
 
 ## Finding a curve from its gradient
 
-Integrating a gradient function gives a **family of curves**, y = F(x) + c. They all have the same gradient at any given x, so they are parallel in the sense that each one is the others moved up or down. Knowing a single point on the curve picks out exactly one member of the family.
+Integrating a gradient function gives a **family of curves**, y = F(x) + c. They all have the same gradient at any given x, and each one is a vertical translation of the others. Knowing a single point on the curve picks out exactly one member of the family.
 
 Given f′(x) and a point on the curve:
 

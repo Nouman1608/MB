@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-the-periodic-table-chemical-periodicity"
     subtopic: "as-periodicity-of-chemical-properties-of-the-elements-in-period-3"
-description: "Condensed notes on Period 3 reactions, oxidation numbers, oxide and hydroxide acid-base behaviour and chloride hydrolysis, with a self-test, for Cambridge 9701 9.2."
+description: "Condensed notes on Period 3 reactions, oxidation numbers, acid-base behaviour of oxides and chloride hydrolysis, with a self-test, for Cambridge 9701 9.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

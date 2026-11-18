@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-the-periodic-table-chemical-periodicity"
     subtopic: "as-periodicity-of-physical-properties-of-the-elements-in-period-3"
-description: "Twelve original questions with answers on Period 3 radii, melting points and electrical conductivity explained by structure, for Cambridge 9701 subtopic 9.1."
+description: "Thirteen original questions with answers on Period 3 radii, melting points and electrical conductivity explained by structure, for Cambridge 9701 subtopic 9.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -75,6 +75,14 @@ These questions follow subtopic 9.1 of Cambridge International AS & A Level Chem
 
 **(c)** Explain what is meant by saying that the variation in melting point is *periodic*. **[1]**
 
+**13.** Compare each atom with its ion.
+
+**(a)** Explain why the sodium ion, Na⁺, is much smaller than the sodium atom. **[2]**
+
+**(b)** Explain why the chloride ion, Cl⁻, is larger than the chlorine atom. **[2]**
+
+**(c)** Suggest why argon is usually left out when atomic radii across Period 3 are compared. **[1]**
+
 ---
 
 ## Answers
@@ -113,6 +121,12 @@ These questions follow subtopic 9.1 of Cambridge International AS & A Level Chem
 
 **(c)** The same pattern (rise across the metals, a peak at the Group 14 element, then a sharp fall) repeats in each period [1].
 
+**13. (a)** The sodium atom loses its only third-shell electron, so the ion has one fewer occupied shell [1]. The 11 protons now attract only 10 electrons, so the remaining electrons are held more tightly and closer to the nucleus [1].
+
+**(b)** The chloride ion has one more electron than the atom but the same nuclear charge (17 protons) [1]. The extra electron increases repulsion between the electrons in the outer shell, and each electron is attracted slightly less, so the electron cloud expands [1].
+
+**(c)** Argon does not form bonds, so its radius cannot be measured as half the distance between two bonded nuclei; the value available is measured differently and is not comparable [1].
+
 ---
 
 ## Where marks are usually lost
@@ -122,3 +136,4 @@ These questions follow subtopic 9.1 of Cambridge International AS & A Level Chem
 - Treating ionic radius as one continuous trend.
 - Omitting silicon's semiconductor behaviour from conductivity answers.
 - Giving one factor only when explaining the metallic melting point trend.
+- Forgetting that a cation has lost a whole shell, which is the main reason it is smaller than its atom.
