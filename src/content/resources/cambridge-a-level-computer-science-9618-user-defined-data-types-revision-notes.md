@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-data-representation"
     subtopic: "user-defined-data-types"
-description: "Revision notes for 9618 section 13.1: enumerated, pointer, set, record and class types, their pseudocode, choosing a type for a problem, exam traps and a self-test."
+description: "Revision notes for 9618 section 13.1: enumerated, pointer, set, record and class types, their pseudocode, choosing a type, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -71,6 +71,21 @@ With A = {2, 4, 6, 8} and B = {3, 6, 9}:
 | "Stores the following details about each ..." | Record |
 | "Check whether a value is one of ...", "items common to both" | Set |
 | "Data and the operations on it", "only changed by ..." | Class |
+
+## Mini design
+
+"Each parcel has a tracking code such as "TR00451", a weight in kg and a service level that is Standard, Express or Overnight."
+
+```
+TYPE TService = (Standard, Express, Overnight)
+TYPE TParcel
+   DECLARE TrackingCode : STRING
+   DECLARE Weight : REAL
+   DECLARE Service : TService
+ENDTYPE
+```
+
+Fixed list of options → enumerated; mixed details about one parcel → record; leading zeros and letters → STRING; weight with decimals → REAL.
 
 ## Key terms
 

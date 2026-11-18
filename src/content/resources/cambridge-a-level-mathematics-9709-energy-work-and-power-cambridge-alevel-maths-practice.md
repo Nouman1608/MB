@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-cambridge-alevel-maths"
     subtopic: "energy-work-and-power-cambridge-alevel-maths"
-description: "Twelve original 9709 Paper 4 questions on 4.5 Energy, work and power: angled forces, curved paths, rough slopes, pumps and vehicles at constant power, with mark schemes."
+description: "Twelve original 9709 Paper 4 questions on 4.5: angled forces, curved paths, rough slopes, pumps and vehicles at constant power, with mark schemes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

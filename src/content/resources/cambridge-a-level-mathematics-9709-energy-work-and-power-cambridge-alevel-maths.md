@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-cambridge-alevel-maths"
     subtopic: "energy-work-and-power-cambridge-alevel-maths"
-description: "Cambridge 9709 Mechanics 4.5 in depth: work done by angled forces, the work-energy principle on rough paths, average and instantaneous power, and vehicles on hills."
+description: "Cambridge 9709 Mechanics 4.5 in depth: work done by angled forces, the work-energy principle, average and instantaneous power, and vehicles on hills."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

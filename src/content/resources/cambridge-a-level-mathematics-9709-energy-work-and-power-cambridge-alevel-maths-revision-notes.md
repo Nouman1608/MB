@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-cambridge-alevel-maths"
     subtopic: "energy-work-and-power-cambridge-alevel-maths"
-description: "Condensed 9709 Mechanics 4.5 notes: work done, kinetic and potential energy, the work-energy equation, average power, P = Fv and maximum speed, with a self-test."
+description: "Condensed 9709 Mechanics 4.5 notes: work done, kinetic and potential energy, the work-energy equation, power, P = Fv and maximum speed, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

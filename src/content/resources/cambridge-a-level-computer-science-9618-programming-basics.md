@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "programming"
     subtopic: "programming-basics"
-description: "Study guide to 9618 section 11.1: turning flowcharts and structured English into pseudocode, constants, variables, expressions, input, output and built-in functions."
+description: "Study guide to 9618 section 11.1: turning flowcharts and structured English into pseudocode, constants, variables, expressions and built-in functions."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

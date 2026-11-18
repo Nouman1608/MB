@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "system-software"
     subtopic: "language-translators"
-description: "Original questions with mark-scheme answers on assemblers, compilers, interpreters, Java bytecode and IDE debugging tools for Cambridge AS Computer Science 9618 5.2."
+description: "Original questions with mark-scheme answers on assemblers, compilers, interpreters, bytecode and IDE debugging for Cambridge AS Computer Science 9618."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

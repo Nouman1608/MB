@@ -129,6 +129,10 @@ Subtract:     (2/3)b = 0.2   →   b = 0.3,   a = 0.2
 
 Then check that f(x) ≥ 0 throughout the interval: f(0) = 0.2 and f(2) = 0.8, so f is valid.
 
+## Sketch first
+
+A quick sketch of f over its interval answers several questions before any integration. It shows whether f is ever negative (so not a valid density function), whether the graph is symmetrical (so the mean is the centre of the interval), and on which side of the mean the median should lie. If f is increasing, most of the area is at the upper end and the median should be above the centre of the interval; an answer below it signals an error in the integration or the choice of root.
+
 ## Common mistakes
 
 - Treating f(a) as P(X = a).

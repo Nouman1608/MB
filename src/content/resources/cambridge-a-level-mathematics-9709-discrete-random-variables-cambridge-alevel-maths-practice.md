@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-1-cambridge-alevel"
     subtopic: "discrete-random-variables-cambridge-alevel-maths"
-description: "Twelve original 9709 Paper 5 questions on 5.4: distribution tables, E(X) and Var(X), binomial and geometric probabilities, model conditions and finding n, with answers."
+description: "Twelve original 9709 Paper 5 questions on 5.4: distribution tables, E(X), Var(X), binomial and geometric models and finding n, with mark schemes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

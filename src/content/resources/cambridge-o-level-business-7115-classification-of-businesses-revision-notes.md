@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "understanding-business-activity"
     subtopic: "classification-of-businesses"
-description: "Revision notes for Cambridge O Level Business 7115 subtopic 1.2: the three economic sectors, why their importance changes, private and public sectors, and a self-test."
+description: "Revision notes for Cambridge O Level Business 7115 subtopic 1.2: the three sectors, why their importance changes, private and public sectors, and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

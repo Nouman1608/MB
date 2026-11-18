@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-cambridge-alevel-maths"
     subtopic: "newtons-laws-of-motion-cambridge-alevel-maths"
-description: "Cambridge 9709 Mechanics 4.4 in depth: applying F = ma to vertical motion, slopes, angled pulls, pulleys and tow-bars, including what happens after a string goes slack."
+description: "Cambridge 9709 Mechanics 4.4 in depth: F = ma for vertical motion, slopes, angled pulls, pulleys and tow-bars, and motion after a string goes slack."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

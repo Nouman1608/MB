@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "marketing"
     subtopic: "marketing-competition-and-the-customer"
-description: "Twelve original Cambridge O Level Business 7115 questions with mark-by-mark answers on the role of marketing, market change, niche and mass marketing and segmentation."
+description: "Twelve original Cambridge O Level Business 7115 questions with answers on the role of marketing, market change, niche and mass marketing and segmentation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

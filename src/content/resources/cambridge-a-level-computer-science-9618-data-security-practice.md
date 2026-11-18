@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "security-privacy-and-data-integrity"
     subtopic: "data-security"
-description: "Original questions with mark-scheme answers on security, privacy and integrity, malware, phishing, pharming and protective measures for Cambridge AS Computer Science 9618."
+description: "Original questions with mark-scheme answers on privacy, malware, phishing, pharming and security measures for Cambridge AS Computer Science 9618."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

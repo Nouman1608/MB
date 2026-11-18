@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-1-cambridge-alevel"
     subtopic: "the-normal-distribution-cambridge-alevel-maths"
-description: "Cambridge 9709 Paper 5 subtopic 5.5 in depth: using normal tables, standardising, finding unknown values, mean or standard deviation, and the binomial approximation."
+description: "Cambridge 9709 Paper 5 subtopic 5.5 in depth: normal tables, standardising, finding unknown values, mean or standard deviation, binomial approximation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

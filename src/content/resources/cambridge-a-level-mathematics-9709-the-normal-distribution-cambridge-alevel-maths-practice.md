@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-1-cambridge-alevel"
     subtopic: "the-normal-distribution-cambridge-alevel-maths"
-description: "Twelve original 9709 Paper 5 questions on 5.5: normal probabilities, reverse problems, finding mean and standard deviation, and the binomial approximation, with mark schemes."
+description: "Twelve original 9709 Paper 5 questions on 5.5: normal probabilities, reverse problems, unknown mean and standard deviation, binomial approximation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

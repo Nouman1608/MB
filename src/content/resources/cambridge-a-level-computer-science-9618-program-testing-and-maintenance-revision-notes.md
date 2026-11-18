@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "software-development"
     subtopic: "program-testing-and-maintenance"
-description: "Revision notes for 9618 section 12.3: error types, nine testing methods, test strategy and test plan contents, test data types, maintenance types and a self-test."
+description: "Revision notes for 9618 section 12.3: error types, the nine testing methods, test plan contents, test data, maintenance types and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -79,6 +79,15 @@ Related: [Program Testing and Maintenance study guide](/resources/cambridge-a-le
 2. Identify every path affected, including how loops can now end.
 3. Make the change and rewrite the whole affected section.
 4. Retest the old behaviour and the new behaviour.
+
+## Locating and correcting an error: method
+
+1. Run the test and compare the actual result with the expected one.
+2. Dry run the suspect section with the same data, one row per statement, until a variable first takes a wrong value.
+3. Name the error type and quote the line.
+4. Correct the line, then rerun the failed test and the earlier passing tests.
+
+Example: a loop FOR I ← 1 TO 9 meant to total ten values gives a total missing the last value; the dry run shows I never reaches 10, so this is a logic error, corrected to FOR I ← 1 TO 10.
 
 ## Key terms
 

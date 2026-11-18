@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "marketing"
     subtopic: "market-research"
-description: "Revision notes for Cambridge O Level Business 7115 subtopic 3.2: market orientation, primary and secondary methods, sampling, data accuracy, analysing charts and a self-test."
+description: "Revision notes for Cambridge O Level Business 7115 subtopic 3.2: research methods, sampling, accuracy of data, analysing charts and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -86,6 +86,14 @@ Online sources (competitor websites, reviews); government statistics (population
 ```
 percentage = number giving an answer ÷ total in sample × 100
 ```
+
+## Choosing a method for a case
+
+- **Small budget, existing customers nearby**: short in-store questionnaire or taste test.
+- **Customers mainly online**: online survey.
+- **Need reasons and feelings about a new product**: focus group.
+- **Need market size or population data first**: government statistics, then primary research.
+- **Large firm entering a new market**: commercial report plus primary research.
 
 ## Key terms
 

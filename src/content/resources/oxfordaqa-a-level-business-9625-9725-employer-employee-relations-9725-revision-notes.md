@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "human-resources-oxfordaqa-alevel-business"
     subtopic: "employer-employee-relations-9725"
-description: "Revision notes for 9725 section 3.2.2.5: involvement methods, causes of conflict, industrial action, resolving disputes, technology and HR ethics, with a self-test."
+description: "Revision notes for 9725 section 3.2.2.5: involvement, causes of conflict, industrial action, resolving disputes, technology and HR ethics, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -86,6 +86,17 @@ Then add hidden costs: late orders, penalties, lost customers, damaged trust.
 - **Competitiveness**: well-managed people → higher productivity, quality and service.
 - **Interrelationships**: forecasts from marketing, budgets from finance, productivity and quality in operations.
 - **Ethics**: unsafe conditions and low pay save money short term but risk accidents, legal action, turnover and reputation.
+
+## The chain examiners reward
+
+No consultation → resentment → industrial action (work to rule, overtime ban, strike) → lost output and late orders → lost customers and revenue → pressure to settle. Breaking the chain early, by consulting before the change, is usually cheapest.
+
+## Value of good relations
+
+- Fewer disputes and less lost output.
+- Lower labour turnover and absence.
+- Change is accepted more readily.
+- A better reputation as an employer, which helps recruitment.
 
 ## Exam traps
 

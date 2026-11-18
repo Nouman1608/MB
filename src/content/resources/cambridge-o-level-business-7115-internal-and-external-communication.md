@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "people-in-business"
     subtopic: "internal-and-external-communication"
-description: "Cambridge O Level Business 7115 guide to 2.4: effective communication, choosing methods including IT, recommending a method, and reducing communication barriers."
+description: "Cambridge O Level Business 7115 guide to 2.4: effective communication, methods including IT, recommending a method, and reducing communication barriers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

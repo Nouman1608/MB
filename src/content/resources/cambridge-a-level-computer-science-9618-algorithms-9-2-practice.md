@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "algorithm-design-and-problem-solving"
     subtopic: "algorithms-9-2"
-description: "Original questions with worked answers on identifier tables, pseudocode, trace tables, flowcharts, stepwise refinement and logic statements for Cambridge 9618 section 9.2."
+description: "Original questions with worked answers on pseudocode, trace tables, flowcharts, stepwise refinement and logic statements for Cambridge 9618 section 9.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

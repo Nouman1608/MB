@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-1-cambridge-alevel"
     subtopic: "permutations-and-combinations-cambridge-alevel-maths"
-description: "Twelve original 9709 Paper 5 questions on 5.2: repeated letters, adjacency and gap restrictions, rows, digits, at-least selections and case analysis, with mark schemes."
+description: "Thirteen original 9709 Paper 5 questions on 5.2: repeated letters, adjacency and gaps, rows, digits, at-least selections and cases, with mark schemes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

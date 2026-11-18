@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-2-cambridge-alevel"
     subtopic: "the-poisson-distribution-cambridge-alevel-maths"
-description: "Twelve original 9709 Paper 6 questions on 6.1: Poisson probabilities, rescaled intervals, model conditions, data checks and both approximations, with full mark schemes."
+description: "Twelve original 9709 Paper 6 questions on 6.1: Poisson probabilities, rescaled intervals, model conditions, data checks and both approximations."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

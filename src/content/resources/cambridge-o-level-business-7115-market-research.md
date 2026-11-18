@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "marketing"
     subtopic: "market-research"
-description: "Cambridge O Level Business 7115 guide to 3.2: market orientation, primary and secondary research, sampling, accuracy of data and drawing conclusions from charts."
+description: "Cambridge O Level Business 7115 guide to 3.2: market orientation, primary and secondary research, sampling, data accuracy and conclusions from charts."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -81,7 +81,7 @@ This set tests **3.2.1.3 Inventory and supply chain management** from the Oxford
 
 **(b)** 1,800 − 360 [1] = **1,440 boxes** [1]. **[4]**
 
-**4. (a)** Week 1: 1,000; week 2: 800; week 3: 600; week 4: 400. All four correct [2]; two or three correct [1].
+**4. (a)** Week 1: 1,000; week 2: 800; week 3: 600; week 4: 400. All four correct [2] (two or three correct earns 1 mark).
 
 **(b)** The order is placed at the end of **week 3**, when inventory reaches the re-order level of 600 [1]. It arrives at the end of week 5, when inventory has fallen to 200, so inventory rises to 200 + 1,000 = **1,200 boxes** [1]. **[4]**
 

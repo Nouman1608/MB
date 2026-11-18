@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "programming"
     subtopic: "constructs"
-description: "Study guide to 9618 section 11.2: IF with ELSE, nested IF, CASE with ranges, count-controlled, pre-condition and post-condition loops, and justifying loop choice."
+description: "Study guide to 9618 section 11.2: IF with ELSE, nested IF, CASE with ranges, the three loop types, and how to justify choosing one loop over another."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

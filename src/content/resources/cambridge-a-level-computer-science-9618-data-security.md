@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "security-privacy-and-data-integrity"
     subtopic: "data-security"
-description: "Security, privacy and integrity compared, threats from networks, and how each protective measure works and fails, for Cambridge AS Computer Science 9618 section 6.1."
+description: "Security, privacy and integrity compared, network threats, and how each protective measure works and fails, for Cambridge AS Computer Science 9618 6.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-data-representation"
     subtopic: "file-organisation-and-access"
-description: "Study guide to 9618 section 13.2: serial, sequential and random files, sequential and direct access, choosing a method, and remainder and folding hashing algorithms."
+description: "Study guide to 9618 section 13.2: serial, sequential and random files, sequential and direct access, choosing a method, and hashing algorithms."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -64,7 +64,7 @@ The key question is how the records will be used.
 - **Most records processed in one run, in key order** (payroll, end-of-month bills): a sequential file read by sequential access. The proportion of records used in each run, the **hit rate**, is high, so reading every record in turn wastes little.
 - **Individual records needed quickly, in no predictable order** (a stock record at a till, a passenger booking): a random file with direct access. The hit rate of each request is low, so reading the file from the start would be slow.
 - **Records simply collected as they happen and processed later** (a log of events or sensor readings): a serial file, because adding at the end is the fastest possible write.
-- **Both kinds of use**: a sequential file with an index allows batch processing in key order and direct access to single records.
+- **Both kinds of use**: a sequential file with an index allows every record to be processed in key order and also gives direct access to single records.
 
 ## Hashing algorithms
 

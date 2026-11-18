@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "security-privacy-and-data-integrity"
     subtopic: "data-integrity"
-description: "Original questions with worked answers on validation pseudocode, check digits, double entry, odd parity blocks and checksums for Cambridge AS Computer Science 9618."
+description: "Original questions with worked answers on validation, check digits, double entry, odd parity blocks and checksums for Cambridge AS Computer Science 9618."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "system-software"
     subtopic: "language-translators"
-description: "Condensed notes on assemblers, compilers, interpreters, Java bytecode and the IDE features listed for Cambridge AS Computer Science 9618 section 5.2, with a self-test."
+description: "Condensed notes on assemblers, compilers, interpreters, bytecode and IDE features for Cambridge AS Computer Science 9618 section 5.2, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

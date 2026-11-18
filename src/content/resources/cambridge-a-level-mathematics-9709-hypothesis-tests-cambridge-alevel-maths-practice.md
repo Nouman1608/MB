@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-2-cambridge-alevel"
     subtopic: "hypothesis-tests-cambridge-alevel-maths"
-description: "Twelve original Cambridge 9709 Paper 6 questions with mark-by-mark answers on binomial, Poisson and normal-mean tests, critical regions and Type I and II errors."
+description: "Twelve original Cambridge 9709 Paper 6 questions with mark-by-mark answers on binomial, Poisson and normal-mean tests, critical regions and error types."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

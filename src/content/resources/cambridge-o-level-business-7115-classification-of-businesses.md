@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "understanding-business-activity"
     subtopic: "classification-of-businesses"
-description: "Cambridge O Level Business 7115 guide to 1.2: primary, secondary and tertiary sectors, why their importance changes, and private versus public sector enterprises."
+description: "Cambridge O Level Business 7115 guide to 1.2: primary, secondary and tertiary sectors, why their importance changes, and private versus public enterprises."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

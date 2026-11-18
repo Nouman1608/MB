@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "security-privacy-and-data-integrity"
     subtopic: "data-integrity"
-description: "Validation checks in pseudocode, check digits, visual checks, double entry, parity blocks and checksums worked through for Cambridge AS Computer Science 9618 section 6.2."
+description: "Validation checks in pseudocode, check digits, double entry, parity blocks and checksums worked through for Cambridge AS Computer Science 9618 6.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

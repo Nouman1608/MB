@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "databases"
     subtopic: "database-management-systems-dbms"
-description: "Condensed notes on DBMS features, data dictionary, logical schema, access rights, backups, developer interface and query processor for Cambridge 9618 section 8.2."
+description: "Condensed notes on DBMS features, data dictionary, schema, access rights, backups and DBMS tools for Cambridge AS Computer Science 9618 8.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

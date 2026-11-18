@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "software-development"
     subtopic: "program-design"
-description: "Study guide to 9618 section 12.2: structure charts, parameters between modules, deriving pseudocode from a chart, and state-transition diagrams that document algorithms."
+description: "Study guide to 9618 section 12.2: structure charts, parameters between modules, deriving pseudocode from a chart, and state-transition diagrams."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "security-privacy-and-data-integrity"
     subtopic: "data-integrity"
-description: "Condensed notes on validation checks, check digits, visual checks, double entry, parity and checksums for Cambridge AS Computer Science 9618 section 6.2, with a self-test."
+description: "Condensed notes on validation checks, check digits, verification, parity and checksums for Cambridge AS Computer Science 9618 6.2, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

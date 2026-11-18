@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "the-market-system-edexcel-igcse-economics"
     subtopic: "economic-assumptions-edexcel-igcse-economics"
-description: "Original practice questions with worked answers on benefit and profit maximisation and why agents depart from them, for Edexcel International GCSE Economics 4EC1."
+description: "Original practice questions with worked answers on benefit and profit maximisation and why agents depart from them, for Edexcel IGCSE Economics 4EC1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

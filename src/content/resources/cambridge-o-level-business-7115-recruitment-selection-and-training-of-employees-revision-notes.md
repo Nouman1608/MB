@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "people-in-business"
     subtopic: "recruitment-selection-and-training-of-employees"
-description: "Revision notes for Cambridge O Level Business 7115 subtopic 2.3: recruitment stages, selection, training types, redundancy, dismissal, employment law and a self-test."
+description: "Revision notes for Cambridge O Level Business 7115 subtopic 2.3: recruitment, selection, training, redundancy, dismissal, employment law and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-1-cambridge-alevel"
     subtopic: "probability-cambridge-alevel-maths"
-description: "Twelve original 9709 Paper 5 questions on 5.3 Probability: dice grids, counting, independence tests, tree diagrams, tables and conditional probability, with mark schemes."
+description: "Twelve original 9709 Paper 5 questions on 5.3: dice grids, counting, independence, tree diagrams, tables and conditional probability, with mark schemes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

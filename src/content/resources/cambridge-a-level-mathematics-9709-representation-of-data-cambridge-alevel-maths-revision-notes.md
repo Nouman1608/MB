@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-1-cambridge-alevel"
     subtopic: "representation-of-data-cambridge-alevel-maths"
-description: "Condensed 9709 Paper 5 notes on 5.1 Representation of data: diagrams, boundaries, frequency density, percentiles, coded and combined totals, traps and a self-test."
+description: "Condensed 9709 Paper 5 notes on 5.1: diagrams, class boundaries, frequency density, percentiles, coded and combined totals, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

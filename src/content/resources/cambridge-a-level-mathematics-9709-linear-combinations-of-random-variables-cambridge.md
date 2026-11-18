@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-2-cambridge-alevel"
     subtopic: "linear-combinations-of-random-variables-cambridge"
-description: "Cambridge 9709 Paper 6 subtopic 6.2 in depth: expectation and variance of aX + b and aX + bY, sums versus multiples, normal combinations and sums of Poisson variables."
+description: "Cambridge 9709 Paper 6 subtopic 6.2 in depth: E and Var of aX + b and aX + bY, sums versus multiples, normal combinations and Poisson sums."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

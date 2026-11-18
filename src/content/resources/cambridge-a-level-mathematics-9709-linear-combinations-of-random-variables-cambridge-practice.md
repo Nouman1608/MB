@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-2-cambridge-alevel"
     subtopic: "linear-combinations-of-random-variables-cambridge"
-description: "Twelve original 9709 Paper 6 questions on 6.2: expectation and variance of combinations, normal totals and differences, comparisons and Poisson sums, with mark schemes."
+description: "Twelve original 9709 Paper 6 questions on 6.2: expectation and variance, normal totals and differences, comparisons and Poisson sums, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

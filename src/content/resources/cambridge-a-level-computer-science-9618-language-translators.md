@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "system-software"
     subtopic: "language-translators"
-description: "Assemblers, compilers and interpreters, Java's partial compilation and IDE features for coding and debugging, for Cambridge AS Computer Science 9618 section 5.2."
+description: "Assemblers, compilers, interpreters, Java bytecode and IDE features for coding and debugging, for Cambridge AS Computer Science 9618 section 5.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

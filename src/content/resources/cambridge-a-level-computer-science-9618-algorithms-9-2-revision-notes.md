@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "algorithm-design-and-problem-solving"
     subtopic: "algorithms-9-2"
-description: "Condensed notes on identifier tables, constructs, loop choice, flowchart conversion, stepwise refinement and logic statements for Cambridge AS Computer Science 9618 9.2."
+description: "Condensed notes on identifier tables, loop choice, flowchart conversion, stepwise refinement and logic statements for Cambridge AS 9618 section 9.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

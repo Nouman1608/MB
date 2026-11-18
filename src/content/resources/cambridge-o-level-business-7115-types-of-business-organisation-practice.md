@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "understanding-business-activity"
     subtopic: "types-of-business-organisation"
-description: "Twelve original Cambridge O Level Business 7115 questions with mark-by-mark answers on business forms, liability, franchises, joint ventures and public corporations."
+description: "Twelve original Cambridge O Level Business 7115 questions with answers on business forms, liability, franchises, joint ventures and public corporations."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

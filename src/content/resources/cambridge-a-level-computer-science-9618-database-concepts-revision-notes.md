@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "databases"
     subtopic: "database-concepts"
-description: "Condensed notes on file-based limits, relational keys, relationships, E-R diagrams and 1NF to 3NF for Cambridge AS Computer Science 9618 section 8.1, with a self-test."
+description: "Condensed notes on file-based limits, keys, relationships, E-R diagrams and 1NF to 3NF for Cambridge AS Computer Science 9618 8.1, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

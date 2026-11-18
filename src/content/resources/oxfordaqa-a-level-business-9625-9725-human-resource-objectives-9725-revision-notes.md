@@ -100,6 +100,16 @@ Close the gap by recruiting, training internal staff, redeploying, improving ret
 | On the job | Cheap; relevant | Can pass on bad habits; slows the trainer |
 | Off the job | Wider expertise; qualifications | Costly; output lost while away |
 
+## HR objectives and corporate objectives
+
+| Corporate objective | Likely HR objective | HR planning action |
+|---|---|---|
+| Growth into new markets | Raise numbers and new skills | External recruitment; off-the-job training |
+| Cost reduction | Lower numbers; keep key skills | Redeployment; natural wastage; redundancies as a last resort |
+| Better service quality | Raise engagement and retention | Induction; on-the-job training; permanent contracts |
+
+A plan that recruits heavily while the corporate objective is cost reduction shows the functions are not aligned: examiners reward spotting this.
+
 ## Exam traps
 
 - Job description = **job**; person specification = **person**.

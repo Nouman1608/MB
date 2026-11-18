@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "understanding-business-activity"
     subtopic: "classification-of-businesses"
-description: "Twelve original Cambridge O Level Business 7115 questions with mark-by-mark answers on economic sectors, sector shares, sector change and private or public ownership."
+description: "Twelve original Cambridge O Level Business 7115 questions with answers on economic sectors, sector shares, sector change and private or public ownership."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

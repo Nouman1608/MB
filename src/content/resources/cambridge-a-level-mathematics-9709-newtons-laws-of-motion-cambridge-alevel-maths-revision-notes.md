@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-cambridge-alevel-maths"
     subtopic: "newtons-laws-of-motion-cambridge-alevel-maths"
-description: "Condensed 9709 Mechanics 4.4 notes: F = ma set-ups for lifts, slopes, angled forces, pulleys and tow-bars, with key terms, exam traps and a twelve-question self-test."
+description: "Condensed 9709 Mechanics 4.4 notes: F = ma set-ups for lifts, slopes, angled forces, pulleys and tow-bars, with exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

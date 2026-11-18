@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "software-development"
     subtopic: "program-development-life-cycle"
-description: "Study guide to 9618 section 12.1: why a life cycle is used, the five stages and their outputs, and the principles, benefits and drawbacks of waterfall, iterative and RAD."
+description: "Study guide to 9618 section 12.1: why a life cycle is used, the five stages and their outputs, and waterfall, iterative and RAD compared for scenarios."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

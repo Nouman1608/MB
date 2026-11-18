@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "algorithm-design-and-problem-solving"
     subtopic: "computational-thinking-skills"
-description: "Condensed notes on abstraction, abstract models, decomposition, procedures and functions for Cambridge AS Computer Science 9618 section 9.1, with exam traps and a self-test."
+description: "Condensed notes on abstraction, abstract models, decomposition, procedures and functions for Cambridge AS Computer Science 9618 9.1, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

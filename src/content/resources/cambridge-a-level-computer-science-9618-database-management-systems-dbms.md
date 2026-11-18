@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "databases"
     subtopic: "database-management-systems-dbms"
-description: "Data dictionary, data modelling, logical schema, integrity, security, backups, the developer interface and query processor, for Cambridge AS Computer Science 9618 section 8.2."
+description: "Data dictionary, logical schema, integrity, access rights, backups, developer interface and query processor for Cambridge AS Computer Science 9618 8.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

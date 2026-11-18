@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "software-development"
     subtopic: "program-design"
-description: "Original 9618 section 12.2 questions with answers: structure chart symbols, headers and main programs derived from charts, and state-transition tables and traces."
+description: "Original 9618 section 12.2 questions with answers: structure chart symbols, headers and main programs from charts, and state-transition tables."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-1-cambridge-alevel"
     subtopic: "discrete-random-variables-cambridge-alevel-maths"
-description: "Condensed 9709 Paper 5 notes on 5.4: distribution tables, E(X) and Var(X), binomial and geometric formulae, model conditions, traps and a self-test with answers."
+description: "Condensed 9709 Paper 5 notes on 5.4: distribution tables, E(X) and Var(X), binomial and geometric formulae, model conditions, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -87,6 +87,10 @@ Geometric shortcut: P(a ≤ X ≤ b) = q^(a − 1) − q^b.
 | Variance Var(X) | spread of X about its mean, E(X²) − [E(X)]² |
 | Trial | a single repetition of the experiment |
 | Success | the outcome being counted |
+
+## Mini worked check
+
+Two fair coins are tossed and X is the number of heads. The table is P(0) = 1/4, P(1) = 1/2, P(2) = 1/4, so E(X) = 1 and E(X²) = 1/2 + 1 = 3/2, giving Var(X) = 1/2. This agrees with B(2, 0.5): np = 1 and npq = 0.5. Matching a built table to a known distribution like this is a quick check on both.
 
 ## Exam traps
 

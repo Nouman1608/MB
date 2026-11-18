@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "databases"
     subtopic: "ddl-and-dml"
-description: "Original SQL questions with mark-scheme answers: CREATE TABLE, ALTER TABLE, SELECT with joins and aggregates, INSERT, UPDATE, DELETE, for Cambridge AS Computer Science 9618."
+description: "Original SQL questions with answers on CREATE TABLE, ALTER TABLE, SELECT, joins, aggregates, INSERT, UPDATE and DELETE for Cambridge 9618."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -109,6 +109,8 @@ D: CREATE TABLE FILM ADD Rating VARCHAR(4);
 
 **(c)** State the output. **[1]**
 
+**13.** Write the SQL to create the database Cinema and the table FILM shown above, with FilmID as the primary key. Title can be up to 40 characters and Genre up to 15. **[5]**
+
 ---
 
 ## Answers
@@ -188,6 +190,22 @@ GROUP BY FILM.Genre;
 SELECT Genre and SUM(TicketsSold) [1]; INNER JOIN of FILM and SCREENING [1]; correct ON condition [1]; GROUP BY Genre [1].
 
 **(c)** Action 260; Comedy 75; Drama 185 [1].
+
+**13.**
+
+```sql
+CREATE DATABASE Cinema;
+
+CREATE TABLE FILM(
+   FilmID      CHARACTER(3),
+   Title       VARCHAR(40),
+   Genre       VARCHAR(15),
+   RunningTime INTEGER,
+   PRIMARY KEY (FilmID)
+);
+```
+
+CREATE DATABASE Cinema [1]; CREATE TABLE FILM with the definitions in brackets and separated by commas [1]; FilmID CHARACTER(3) [1]; Title VARCHAR(40), Genre VARCHAR(15) and RunningTime INTEGER [1]; PRIMARY KEY (FilmID) [1].
 
 ---
 

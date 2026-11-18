@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "databases"
     subtopic: "database-concepts"
-description: "File-based limits, relational terms and keys, E-R diagrams and normalisation to 3NF with a new worked example, for Cambridge AS Computer Science 9618 section 8.1."
+description: "File-based limits, relational keys, E-R diagrams and normalisation to 3NF with a new worked example, for Cambridge AS Computer Science 9618 section 8.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

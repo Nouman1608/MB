@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "algorithm-design-and-problem-solving"
     subtopic: "computational-thinking-skills"
-description: "Abstraction and decomposition for Cambridge AS Computer Science 9618 section 9.1: producing an abstract model, and breaking a problem into procedures and functions."
+description: "Abstraction and decomposition for Cambridge AS Computer Science 9618 9.1: producing an abstract model and breaking a problem into modules."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

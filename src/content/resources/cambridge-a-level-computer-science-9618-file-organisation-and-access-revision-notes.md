@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-data-representation"
     subtopic: "file-organisation-and-access"
-description: "Revision notes for 9618 section 13.2: serial, sequential and random files, access methods, hit rate, remainder and folding hashes, collisions, traps and a self-test."
+description: "Revision notes for 9618 section 13.2: file organisations, access methods, hit rate, remainder and folding hashes, collisions, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -48,7 +48,7 @@ Related: [File Organisation and Access study guide](/resources/cambridge-a-level
 - **High hit rate**, records processed in key order → sequential file, sequential access.
 - **Low hit rate**, single records needed quickly → random file, direct access.
 - Records collected and processed later → serial file.
-- Both batch and single-record use → sequential file with an index.
+- Both whole-file processing and single-record look-ups → sequential file with an index.
 
 ## Hashing algorithms
 
@@ -63,6 +63,17 @@ Related: [File Organisation and Access study guide](/resources/cambridge-a-level
 - **Linear probing**: use the next empty address, wrapping from the last to the first. To read: hash, then step forward until the key matches or an empty slot is found.
 - **Overflow area**: colliding records go to a separate area, searched serially.
 - Deleting under linear probing: mark the slot as deleted, or later searches may stop too early.
+
+## Linear probing walk-through
+
+File of 10 addresses (0 to 9), hash = key MOD 10. Keys written in order: 47, 87, 59, 69.
+
+- 47 → 7: stored at 7.
+- 87 → 7: full; 8 empty: stored at 8.
+- 59 → 9: stored at 9.
+- 69 → 9: full; wrap to 0: stored at 0.
+
+Finding 69: read 9 (59), then 0 (69): found in two reads. Finding 97: read 7 (47), 8 (87), 9 (59), 0 (69), then 1 is empty, so 97 is not in the file.
 
 ## Key terms
 

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-data-representation"
     subtopic: "user-defined-data-types"
-description: "Study guide to 9618 section 13.1: why user-defined types are needed, enumerated and pointer types, sets, records and classes, and designing a type for a problem."
+description: "Study guide to 9618 section 13.1: why user-defined types are needed, enumerated and pointer types, sets, records, classes, and designing a type."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

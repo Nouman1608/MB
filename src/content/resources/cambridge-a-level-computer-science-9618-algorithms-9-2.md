@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "algorithm-design-and-problem-solving"
     subtopic: "algorithms-9-2"
-description: "Identifier tables, the three constructs, converting between structured English, flowcharts and pseudocode, stepwise refinement and logic statements for Cambridge 9618 9.2."
+description: "Identifier tables, constructs, structured English, flowcharts, pseudocode, stepwise refinement and logic statements for Cambridge 9618 section 9.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

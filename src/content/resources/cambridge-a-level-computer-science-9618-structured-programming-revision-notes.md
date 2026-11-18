@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "programming"
     subtopic: "structured-programming"
-description: "Revision notes for 9618 section 11.3: procedure and function syntax, BYVAL and BYREF, headers, interfaces and arguments, efficient pseudocode, traps and a self-test."
+description: "Revision notes for 9618 section 11.3: procedure and function syntax, BYVAL and BYREF, module terminology, efficient pseudocode, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

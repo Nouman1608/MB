@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "databases"
     subtopic: "ddl-and-dml"
-description: "SQL DDL and DML for Cambridge AS Computer Science 9618 section 8.3: CREATE, ALTER, keys, SELECT with joins and aggregates, INSERT, UPDATE and DELETE, with results."
+description: "SQL DDL and DML for Cambridge AS Computer Science 9618 8.3: CREATE, ALTER, keys, SELECT with joins and aggregates, INSERT, UPDATE and DELETE."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

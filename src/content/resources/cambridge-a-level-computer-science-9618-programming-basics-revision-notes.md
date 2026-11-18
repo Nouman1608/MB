@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "programming"
     subtopic: "programming-basics"
-description: "Revision notes for 9618 section 11.1: declarations, constants, assignment, operators, input and output, built-in functions, design-to-pseudocode traps and a self-test."
+description: "Revision notes for 9618 section 11.1: declarations, constants, operators, input, output, built-in functions, design-to-pseudocode traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

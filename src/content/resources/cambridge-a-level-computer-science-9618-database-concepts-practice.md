@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "databases"
     subtopic: "database-concepts"
-description: "Original questions with mark-scheme answers on file-based limits, keys, relationships, E-R diagrams and normalising to 3NF for Cambridge AS Computer Science 9618."
+description: "Original questions with mark-scheme answers on keys, relationships, E-R diagrams and normalising to 3NF for Cambridge AS Computer Science 9618."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

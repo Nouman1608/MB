@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-1-cambridge-alevel"
     subtopic: "representation-of-data-cambridge-alevel-maths"
-description: "Cambridge 9709 Paper 5 subtopic 5.1 in depth: choosing diagrams, back-to-back stem-and-leaf, histograms with class boundaries, percentiles, grouped and coded totals."
+description: "Cambridge 9709 Paper 5 subtopic 5.1 in depth: choosing diagrams, back-to-back stem-and-leaf, histograms, percentiles, and grouped and coded totals."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -75,7 +75,7 @@ If P(X = 0) = 0.2, then e^(−λ) = 0.2 and λ = ln 5 = **1.61**. If P(X = 2) = 
 
 When n is large and p is small, B(n, p) is close to Po(np). The syllabus guide is n > 50 and np < 5.
 
-**Worked example.** 0.5% of the items produced by a machine are defective. Use a suitable approximation to find the probability that a batch of 400 items contains at most one defective item.
+**Worked example.** 0.5% of the items produced by a machine are defective. Use a suitable approximation to find the probability that a delivery of 400 items contains at most one defective item.
 
 X ~ B(400, 0.005). Since n = 400 > 50 and np = 2 < 5, use X ≈ Po(2).
 

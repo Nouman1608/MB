@@ -59,7 +59,7 @@ These notes condense section **3.8 Differential equations** of Pure Mathematics 
 
 ## One condensed example with two conditions
 
-x is inversely proportional to x² in its rate of growth: dx/dt = k/x². Given x = 1 at t = 0 and x = 2 at t = 7:
+The rate of increase of x is inversely proportional to x², so dx/dt = k/x². Given x = 1 at t = 0 and x = 2 at t = 7:
 
 ```text
 ∫ x² dx = ∫ k dt   →   x³/3 = kt + c

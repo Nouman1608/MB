@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "data-types-and-structures"
     subtopic: "data-types-and-records"
-description: "Original questions with mark-scheme answers on choosing data types and on defining, writing and reading record structures in pseudocode for Cambridge AS Computer Science 9618."
+description: "Original questions with mark-scheme answers on choosing data types and writing record structures in pseudocode for Cambridge AS Computer Science 9618."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
