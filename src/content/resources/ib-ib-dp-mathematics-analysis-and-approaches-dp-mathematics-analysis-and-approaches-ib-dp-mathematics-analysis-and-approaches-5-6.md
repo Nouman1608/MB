@@ -95,6 +95,10 @@ Before using a rule, check whether **simplifying** removes the need for it. (x²
 x + x⁻¹, so no quotient rule is needed. ln(x³) = 3 ln x, with derivative 3/x. ln(5x) = ln 5 + ln x,
 with derivative 1/x.
 
+A quick check on Paper 2: evaluate your derivative at a convenient x and compare it with the GDC's
+numerical derivative at the same point. If they disagree, look first for a missing inner derivative
+or a reversed quotient-rule numerator.
+
 ## Worked examples
 
 ### Worked example 2: the chain rule

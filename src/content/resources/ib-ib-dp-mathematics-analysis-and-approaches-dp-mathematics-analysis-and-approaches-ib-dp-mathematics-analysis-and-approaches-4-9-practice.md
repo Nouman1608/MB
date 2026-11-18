@@ -126,6 +126,9 @@ that, of 8 seedlings chosen at random, exactly one is taller than 15 cm. **[3]**
 
 **11.** p = P(height > 15) = 0.074307 [1]. Y ~ B(8, 0.074307) [1]; P(Y = 1) = 0.346 [1]. **[3]**
 
+*General marking note:* in Section B, write the probability statement in left-area form before each GDC value,
+for example P(X < k) = 0.85 in question 7(b); it earns the method mark even if the final value is mis-keyed.
+
 ## Where marks are usually lost
 
 - Entering 25 rather than 5 as the standard deviation in question 1.

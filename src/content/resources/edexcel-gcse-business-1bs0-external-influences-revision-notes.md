@@ -97,6 +97,10 @@ Example: price £20, variable cost rises from £12 to £13. Contribution falls f
 - Note that a change can be an opportunity.
 - Evaluate: name a cost, a risk or a condition for the response you suggest.
 
+## Sentence starter
+
+The writer's suggestion: "In response to [change], the business could [response], which would [effect], although this depends on [condition]."
+
 ## Self-test
 
 1. Name the three external influences in 1.5.5.

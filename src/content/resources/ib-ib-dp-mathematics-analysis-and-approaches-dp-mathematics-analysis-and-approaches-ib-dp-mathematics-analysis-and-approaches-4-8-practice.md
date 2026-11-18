@@ -129,6 +129,9 @@ P(X = 3) = 1/216 [2].
 **11.** The gains are −1, 1, 3 and 5 dollars for 0, 1, 2 and 3 sixes, with probabilities 125/216, 75/216,
 15/216 and 1/216 [1]. Expected gain = (−125 + 75 + 45 + 5)/216 = 0, so the game is fair [1]. **[2]**
 
+*General marking note:* in Section B, the probability statement (for example P(X ≥ 18) = 1 − P(X ≤ 17))
+earns the method mark even if the GDC value is mis-keyed, so write it every time.
+
 ## Where marks are usually lost
 
 - Using P(X ≤ 8) for "at least 8" in question 7(c).

@@ -86,6 +86,14 @@ Example: market share falls from £0.6m of a £4m market (15%) to £0.5m of a £
 - Use the figures in the source as evidence of performance.
 - Name a specific internal reason, not just "internal factors".
 
+## Sentence starters
+
+These are the writer's suggestions, not specification wording.
+
+- "Because its profit has fallen for two years, the business is likely to switch its focus from growth to survival..."
+- "The new technology makes a wider market reachable, so the business may set an objective to enter..."
+- "This change would mean reducing the workforce, which could lower costs but may also lower staff motivation..."
+
 ## Self-test
 
 1. List the five reasons why aims and objectives change.

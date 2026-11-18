@@ -85,6 +85,10 @@ Memory aid for the eight groups (the writer's own): **S**hareholders, **E**mploy
 - Conflicts are normal; "keep everyone happy" is not an answer.
 - In Analyse questions use the business and decision in the source.
 
+## Sentence starter
+
+The writer's suggestion: "This decision affects [group] because..., and [group] could respond by..., which would mean the business..."
+
 ## Self-test
 
 1. Define the term stakeholder.

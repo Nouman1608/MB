@@ -93,6 +93,10 @@ These notes condense content item 2.1.1, Business growth, in Topic 2.1 (Growing 
 - Retained profit is not a pile of cash; it may already be invested.
 - Always weigh control, cost and risk when choosing finance.
 
+## Sentence starter
+
+The writer's suggestion: "Growing by [method] would allow the business to..., but it would need finance from..., which means..."
+
 ## Self-test
 
 1. Define organic growth.
