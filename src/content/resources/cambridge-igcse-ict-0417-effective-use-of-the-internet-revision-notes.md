@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "communication-0417"
     subtopic: "effective-use-of-the-internet-0417"
-description: "Condensed notes on effective internet use for Cambridge IGCSE ICT 0417 section 10.2: networks compared, URLs, search engines, judging sources, protocols and controls."
+description: "Condensed notes on internet use for Cambridge IGCSE ICT 0417 10.2: networks compared, URLs, search engines, judging sources, protocols, controls."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

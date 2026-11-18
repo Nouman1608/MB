@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "images"
     subtopic: "file-size-reduction-t12-0417"
-description: "Original exam-style questions with full answers on reducing image file size through resolution and colour depth, with calculations, for Cambridge IGCSE ICT 0417 Topic 12."
+description: "Original exam-style questions with answers on reducing image file size through resolution and colour depth, with calculations, for IGCSE ICT 0417."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "audience"
     subtopic: "copyright-0417"
-description: "Why software needs copyright law, what a software licence allows, forms of piracy and how producers stop illegal copying, for Cambridge IGCSE ICT 0417 section 9.2."
+description: "Why software needs copyright law, what a licence allows, forms of piracy and how producers stop illegal copying, for Cambridge IGCSE ICT 0417 9.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

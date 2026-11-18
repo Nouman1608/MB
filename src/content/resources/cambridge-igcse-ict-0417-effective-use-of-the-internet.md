@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "communication-0417"
     subtopic: "effective-use-of-the-internet-0417"
-description: "Internet, intranet, extranet and WWW, web addresses, search engines, judging online information, protocols and access controls, in depth for Cambridge IGCSE ICT 0417 10.2."
+description: "Internet, intranet, extranet and WWW, URLs, search engines, judging sources, protocols and access controls, for Cambridge IGCSE ICT 0417 10.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

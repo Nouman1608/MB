@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "layout"
     subtopic: "create-or-edit-a-document-0417"
-description: "Original exam-style questions with full answers on accurate data entry, editing techniques, placing objects and text wrapping for Cambridge IGCSE ICT 0417 section 13.1."
+description: "Original exam-style questions with answers on accurate data entry, editing techniques, placing objects and text wrapping for Cambridge IGCSE ICT 0417 13.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

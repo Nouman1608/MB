@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "file-management"
     subtopic: "manage-files-effectively-0417"
-description: "Locating, importing, saving, exporting and printing files, folder structures, application and generic formats and the named file types, for Cambridge IGCSE ICT 0417 11.1."
+description: "Locating, importing, saving, exporting and printing files, folder structures and the named file formats, for Cambridge IGCSE ICT 0417 section 11.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

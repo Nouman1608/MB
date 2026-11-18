@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "communication-0417"
     subtopic: "communication-with-other-ict-users-using-email-0417"
-description: "Email characteristics, uses and constraints, employer rules, security, groups, cc, bcc, forwarding, attachments and spam, in depth for Cambridge IGCSE ICT 0417 section 10.1."
+description: "Email uses and constraints, employer rules, security, groups, cc, bcc, forwarding, attachments and spam, in depth for Cambridge IGCSE ICT 0417 10.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

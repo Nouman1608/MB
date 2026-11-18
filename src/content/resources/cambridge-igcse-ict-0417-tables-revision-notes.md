@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "layout"
     subtopic: "tables-0417"
-description: "Condensed notes for Cambridge IGCSE ICT 0417 section 13.2 Tables: creating, editing, merging, cell alignment, gridlines, wrapping, shading, row height and column width."
+description: "Condensed notes for Cambridge IGCSE ICT 0417 13.2 Tables: creating, editing, merging, cell alignment, gridlines, wrapping, shading, heights and widths."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "styles"
     subtopic: "create-edit-and-apply-styles-t14-0417"
-description: "Original exam-style questions with full answers on creating, modifying, updating and applying styles and their font, spacing and bullet settings for Cambridge IGCSE ICT 0417."
+description: "Original exam-style questions with answers on creating, modifying, updating and applying styles and their settings for Cambridge IGCSE ICT 0417 Topic 14."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

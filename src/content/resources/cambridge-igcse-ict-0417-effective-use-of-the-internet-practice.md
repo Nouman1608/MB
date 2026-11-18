@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "communication-0417"
     subtopic: "effective-use-of-the-internet-0417"
-description: "Original exam-style questions with answers on internet services, URLs, search engines, evaluating sources, protocols and access controls for Cambridge IGCSE ICT 0417."
+description: "Original exam-style questions with answers on internet services, URLs, search engines, evaluating sources and protocols for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

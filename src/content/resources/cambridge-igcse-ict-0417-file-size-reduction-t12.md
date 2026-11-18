@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "images"
     subtopic: "file-size-reduction-t12-0417"
-description: "How reducing image resolution or colour depth reduces file size, the effect on quality and how to calculate the saving, for Cambridge IGCSE ICT 0417 Topic 12 image file size."
+description: "How reducing image resolution or colour depth cuts file size, the effect on quality and how to calculate the saving, for Cambridge IGCSE ICT 0417 Topic 12."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

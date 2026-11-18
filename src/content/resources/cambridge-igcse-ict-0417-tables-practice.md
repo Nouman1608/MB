@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "layout"
     subtopic: "tables-0417"
-description: "Original exam-style questions with full answers on creating, editing and formatting tables, cell alignment, gridlines, wrapping and sizes for Cambridge IGCSE ICT 0417 13.2."
+description: "Original exam-style questions with answers on creating, editing and formatting tables, cell alignment, gridlines and widths for Cambridge IGCSE ICT 0417 13.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

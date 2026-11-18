@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "layout"
     subtopic: "headers-and-footers-0417"
-description: "Condensed notes for Cambridge IGCSE ICT 0417 section 13.3: purpose of headers and footers, margin alignment, automated objects and use across different software packages."
+description: "Condensed notes for Cambridge IGCSE ICT 0417 13.3: purpose of headers and footers, margin alignment, automated objects and use across packages."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

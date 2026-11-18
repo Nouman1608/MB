@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "file-management"
     subtopic: "reduce-file-sizes-for-storage-or-transmission-0417"
-description: "Why file sizes are reduced, how to compress and extract .zip and .rar archives, when compression helps and how to calculate savings, for Cambridge IGCSE ICT 0417 section 11.2."
+description: "Why file sizes are reduced, how to create and extract .zip and .rar archives, and how to calculate savings, for Cambridge IGCSE ICT 0417 section 11.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

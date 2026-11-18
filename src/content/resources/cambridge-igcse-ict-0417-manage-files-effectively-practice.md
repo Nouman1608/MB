@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "file-management"
     subtopic: "manage-files-effectively-0417"
-description: "Original exam-style questions with answers on locating, importing, saving, exporting and printing files and on the named file formats for Cambridge IGCSE ICT 0417 11.1."
+description: "Original exam-style questions with answers on locating, importing, saving and exporting files and the named file formats for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

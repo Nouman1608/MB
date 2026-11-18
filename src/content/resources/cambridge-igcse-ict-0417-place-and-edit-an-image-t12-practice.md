@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "images"
     subtopic: "place-and-edit-an-image-t12-0417"
-description: "Original exam-style questions with answers on placing, resizing, cropping, rotating, flipping, adjusting, grouping and layering images for Cambridge IGCSE ICT 0417 Topic 12."
+description: "Original exam-style questions with answers on placing, resizing, cropping, flipping, grouping and layering images for Cambridge IGCSE ICT 0417 Topic 12."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "communication-0417"
     subtopic: "communication-with-other-ict-users-using-email-0417"
-description: "Original exam-style questions with full answers on email constraints, employer rules, security, groups, cc and bcc, forwarding, attachments and spam for IGCSE ICT 0417."
+description: "Original exam-style questions with answers on email constraints, groups, cc and bcc, forwarding, attachments and spam for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

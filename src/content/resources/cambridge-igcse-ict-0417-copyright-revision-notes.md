@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "audience"
     subtopic: "copyright-0417"
-description: "Condensed notes on software copyright for Cambridge IGCSE ICT 0417 section 9.2: why the law is needed, licence rules, piracy and anti-copying methods, with a self-test."
+description: "Condensed notes on software copyright for Cambridge IGCSE ICT 0417 9.2: the need for the law, licence rules, piracy and anti-copying methods."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -72,6 +72,7 @@ A licence may allow one back-up copy for the purchaser only.
 - Using cracks or key generators to defeat activation.
 
 **Effects on the producer**: lost income, less money for development, job losses, reputational harm.
+
 **Effects on the user of a pirated copy**: no updates or support, malware risk, possible fines or prosecution.
 
 ## Protection methods: what to write

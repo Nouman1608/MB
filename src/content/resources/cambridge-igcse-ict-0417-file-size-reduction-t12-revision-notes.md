@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "images"
     subtopic: "file-size-reduction-t12-0417"
-description: "Condensed notes for Cambridge IGCSE ICT 0417 Topic 12 image file size: resolution, colour depth, their effect on size and quality, the size formula and a self-test."
+description: "Condensed notes on image file size for Cambridge IGCSE ICT 0417 Topic 12: resolution, colour depth, effects on size and quality, and the size formula."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
