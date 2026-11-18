@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "atmosphere-and-weather-9696"
     subtopic: "weather-processes-and-phenomena-9696"
-description: "Study guide to Cambridge 9696 Geography 2.3: moisture processes, humidity, uplift and radiation cooling, fronts, and how cloud, rain, hail, snow, dew and fog form."
+description: "Study guide to Cambridge 9696 Geography 2.3: moisture processes, humidity, uplift, radiation cooling, fronts, and how cloud, rain, hail, snow, dew and fog form."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

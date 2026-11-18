@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "atmosphere-and-weather-9696"
     subtopic: "diurnal-energy-budgets-9696"
-description: "Original practice questions with marked answers on Cambridge 9696 Geography 2.1: albedo, sensible and latent heat, longwave radiation, dew and budget calculations."
+description: "Original practice questions with marked answers on Cambridge 9696 Geography 2.1: albedo, sensible and latent heat, longwave radiation, dew and budget sums."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

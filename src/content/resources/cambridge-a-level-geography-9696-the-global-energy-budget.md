@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "atmosphere-and-weather-9696"
     subtopic: "the-global-energy-budget-9696"
-description: "Study guide to Cambridge 9696 Geography 2.2: latitudinal radiation excess and deficit, wind belts, ocean currents and seasonal shifts in temperature and pressure."
+description: "Study guide to Cambridge 9696 Geography 2.2: radiation surplus and deficit by latitude, wind belts, ocean currents and seasonal shifts in pressure belts."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
