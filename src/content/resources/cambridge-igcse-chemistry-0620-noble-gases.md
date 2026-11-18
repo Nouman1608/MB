@@ -91,7 +91,7 @@ Much of Topic 2 rests on this subtopic. Atoms form ions or covalent bonds so tha
 | Each H atom in H₂ | 2 (shared pair) | Helium |
 | Each Cl atom in Cl₂ | 8 in outer shell (including shared pair) | Argon |
 
-This is why noble gases are often used as a reference point: "the sodium ion has the same electronic configuration as neon".
+This is why noble gases are often used as a reference point: "the sodium ion has the same electronic configuration as neon". Be careful with the reverse: a particle with the configuration 2,8,8 and a charge is an ion (such as Cl⁻ or K⁺), not an argon atom; name the particle from its charge as well as its configuration.
 
 ## Noble gases in the air
 
@@ -111,6 +111,14 @@ The Extended outcome in 8.1 (identify trends in groups, given information) can b
 | Radon | ? |
 
 **Trend:** boiling point increases down the group. **Prediction for radon:** above −108 °C, but radon is still a gas at room temperature (the actual value is about −62 °C). State the direction, quote the values, then predict in the same direction.
+
+## Annotated model answer
+
+*Describe the Group VIII noble gases and explain their properties in terms of electronic configuration.* **[4]**
+
+> The noble gases are unreactive **[1]**, monatomic gases **[1]**. Each atom has a full outer shell of electrons **[1]**, so it has no tendency to lose, gain or share electrons, and so does not react or bond with other atoms **[1]**.
+
+The first two marks are descriptions; the last two are the explanation. An answer that stops at "they have full outer shells" gives the cause but not the consequence, and usually drops the final mark.
 
 ## Common mistakes
 

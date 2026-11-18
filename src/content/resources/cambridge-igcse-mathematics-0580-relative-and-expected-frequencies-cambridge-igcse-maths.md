@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "probability-cambridge-igcse-maths"
     subtopic: "relative-and-expected-frequencies-cambridge-igcse-maths"
-description: "Study guide to 0580 subtopic 8.2: relative frequency as an estimate, judging bias, expected frequencies from probabilities and samples, and fair, bias and random."
+description: "Study guide to 0580 subtopic 8.2: relative frequency as an estimate, testing for bias, expected frequencies, and the meaning of fair, bias and random."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
