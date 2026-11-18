@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "storage-devices-and-media"
     subtopic: "storage-media-0417"
-description: "Condensed notes on magnetic disks and tape, CD, DVD and Blu-ray formats, and SD, xD and CFast memory cards, with a self-test, for Cambridge IGCSE ICT 0417 Topic 3."
+description: "Condensed notes on magnetic disks and tape, CD, DVD and Blu-ray formats, and SD, xD and CFast cards, with a self-test, for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

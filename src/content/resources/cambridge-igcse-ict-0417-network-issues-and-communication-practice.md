@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "networks-and-the-effects-of-using-them"
     subtopic: "network-issues-and-communication-0417"
-description: "Original questions with mark-scheme answers on passwords, zero login, biometrics, tokens, anti-malware and electronic conferencing for Cambridge IGCSE ICT 0417 section 4.2."
+description: "Original questions with mark-scheme answers on passwords, zero login, tokens, anti-malware and electronic conferencing for Cambridge IGCSE ICT 0417 4.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

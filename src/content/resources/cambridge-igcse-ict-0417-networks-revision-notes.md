@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "networks-and-the-effects-of-using-them"
     subtopic: "networks-0417"
-description: "Condensed notes on routers, NICs, hubs, switches and bridges, wi-fi and Bluetooth, cloud computing, intranets and extranets, and LAN, WLAN and WAN for IGCSE ICT 0417 4.1."
+description: "Condensed notes on routers, network devices, wi-fi and Bluetooth, cloud computing, extranets and LAN, WLAN and WAN for Cambridge IGCSE ICT 0417 4.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

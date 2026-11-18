@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "spreadsheets-0417"
     subtopic: "manipulate-data-20-2-0417"
-description: "Sorting and searching spreadsheet data for Cambridge IGCSE ICT 0417 subtopic 20.2: multi-level sorts, filters with AND, OR, NOT, comparison operators and wildcards."
+description: "Sorting and searching spreadsheet data for Cambridge IGCSE ICT 0417 subtopic 20.2: multi-level sorts, filters with AND, OR, NOT, operators and wildcards."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

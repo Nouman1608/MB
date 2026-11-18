@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "types-and-components-of-computer-systems"
     subtopic: "types-of-computer-0417"
-description: "Desktop, laptop, smartphone, tablet and phablet computers: characteristics, uses, portability and expandability compared for Cambridge IGCSE ICT 0417 section 1.4."
+description: "Desktop, laptop, smartphone, tablet and phablet computers: uses, portability and expandability compared for Cambridge IGCSE ICT 0417 section 1.4."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

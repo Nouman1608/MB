@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "types-and-components-of-computer-systems"
     subtopic: "operating-systems-0417"
-description: "Original scenario questions with mark-scheme answers on command line, graphical, dialogue-based and gesture-based interfaces for Cambridge IGCSE ICT 0417 section 1.3."
+description: "Original scenario questions with mark-scheme answers on CLI, GUI, dialogue-based and gesture-based interfaces for Cambridge IGCSE ICT 0417 section 1.3."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -88,6 +88,15 @@ point source:  intensity = P / (4 pi r^2)   (spreading equally in all directions
 - Point source, distance × 2 → intensity ÷ 4 → amplitude ÷ 2.
 - Intensity always measured on an area **perpendicular** to the direction of travel.
 
+**Example — CRO.** Time-base 2.0 ms div⁻¹, y-gain 0.50 V div⁻¹. Four complete cycles span 10 divisions; peak to trough is 6.4 divisions.
+
+```
+period    = (10 / 4) x 2.0 ms = 5.0 ms     f = 1 / 0.0050 = 200 Hz
+amplitude = (6.4 / 2) x 0.50 V = 1.6 V
+```
+
+**Example — intensity and amplitude.** A wave of amplitude 3.0 mm has intensity 0.36 W m⁻². At amplitude 1.0 mm the intensity is 0.36 × (1.0/3.0)² = **0.040 W m⁻²**.
+
 ## Key terms
 
 | Term | Definition to recall |

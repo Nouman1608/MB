@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "storage-devices-and-media"
     subtopic: "storage-devices-0417"
-description: "Condensed notes on magnetic hard and tape drives, optical drives, SSDs and pen drives, with access methods and a self-test, for Cambridge IGCSE ICT 0417 Topic 3."
+description: "Condensed notes on magnetic hard and tape drives, optical drives, SSDs and pen drives, with a self-test, for Cambridge IGCSE ICT 0417 Topic 3."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

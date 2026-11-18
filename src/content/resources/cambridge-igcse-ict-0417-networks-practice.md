@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "networks-and-the-effects-of-using-them"
     subtopic: "networks-0417"
-description: "Original questions with mark-scheme answers on routers, switches, bridges, wi-fi, Bluetooth, cloud storage, extranets and LAN, WLAN and WAN for Cambridge IGCSE ICT 0417 4.1."
+description: "Original questions with mark-scheme answers on routers, switches, wi-fi, Bluetooth, cloud storage, extranets and network types for IGCSE ICT 0417 4.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

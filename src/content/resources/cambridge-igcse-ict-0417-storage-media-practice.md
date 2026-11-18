@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "storage-devices-and-media"
     subtopic: "storage-media-0417"
-description: "Original questions with mark-scheme answers on magnetic disks and tape, CD, DVD and Blu-ray formats, and SD, xD and CFast cards for Cambridge IGCSE ICT 0417 Topic 3."
+description: "Original questions with mark-scheme answers on magnetic disks and tape, optical disc formats and SD, xD and CFast cards for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

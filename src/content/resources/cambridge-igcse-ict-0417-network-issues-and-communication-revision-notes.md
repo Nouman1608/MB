@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "networks-and-the-effects-of-using-them"
     subtopic: "network-issues-and-communication-0417"
-description: "Condensed notes on secure data transfer, strong passwords, zero login, biometrics, tokens, anti-malware and video, audio and web conferencing for IGCSE ICT 0417 section 4.2."
+description: "Condensed notes on secure data transfer, passwords, zero login, tokens, anti-malware and electronic conferencing for Cambridge IGCSE ICT 0417 4.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

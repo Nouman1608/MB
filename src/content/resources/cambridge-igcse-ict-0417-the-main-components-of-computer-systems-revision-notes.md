@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "types-and-components-of-computer-systems"
     subtopic: "the-main-components-of-computer-systems-0417"
-description: "Condensed notes on the role of the CPU, ROM versus RAM, input versus output devices and backing storage versus internal memory for Cambridge IGCSE ICT 0417 section 1.2."
+description: "Condensed notes on the CPU, ROM versus RAM, input versus output devices and backing storage for Cambridge IGCSE ICT 0417 section 1.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

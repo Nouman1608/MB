@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "input-and-output-devices"
     subtopic: "output-devices-and-their-uses-0417"
-description: "Condensed notes on monitors, projectors, the five printer types, speakers and actuators, with exam traps and a self-test, for Cambridge IGCSE ICT 0417 section 2.3."
+description: "Condensed notes on monitors, projectors, the five printer types, speakers and actuators, with a self-test, for Cambridge IGCSE ICT 0417 section 2.3."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

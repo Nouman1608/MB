@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "storage-devices-and-media"
     subtopic: "storage-media-0417"
-description: "Magnetic hard disks and tape, CD, DVD and Blu-ray discs, and SD, xD and CFast memory cards: characteristics, uses and trade-offs for Cambridge IGCSE ICT 0417 Topic 3."
+description: "Magnetic disks and tape, CD, DVD and Blu-ray discs, and SD, xD and CFast memory cards: characteristics and trade-offs for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

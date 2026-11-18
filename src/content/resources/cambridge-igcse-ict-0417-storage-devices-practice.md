@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "storage-devices-and-media"
     subtopic: "storage-devices-0417"
-description: "Original questions with mark-scheme answers on hard disk drives, tape drives, optical drives, SSDs and pen drives for Cambridge IGCSE ICT 0417 Topic 3 storage devices."
+description: "Original questions with mark-scheme answers on hard disk, tape and optical drives, SSDs and pen drives for Cambridge IGCSE ICT 0417 storage devices."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

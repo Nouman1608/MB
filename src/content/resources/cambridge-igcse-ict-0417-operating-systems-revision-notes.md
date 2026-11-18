@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "types-and-components-of-computer-systems"
     subtopic: "operating-systems-0417"
-description: "Condensed notes on CLI, GUI, dialogue-based and gesture-based interfaces, their differences, advantages and disadvantages, for Cambridge IGCSE ICT 0417 section 1.3."
+description: "Condensed notes on CLI, GUI, dialogue-based and gesture-based interfaces, with advantages and disadvantages, for Cambridge IGCSE ICT 0417 section 1.3."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

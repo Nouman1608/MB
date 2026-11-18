@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "storage-devices-and-media"
     subtopic: "storage-devices-0417"
-description: "Magnetic hard and tape drives, CD, DVD and Blu-ray drives, SSDs and pen drives: how they work, uses and trade-offs for Cambridge IGCSE ICT 0417 Topic 3 storage devices."
+description: "Magnetic hard and tape drives, CD, DVD and Blu-ray drives, SSDs and pen drives: how they work and when to use them, for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

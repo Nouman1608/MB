@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "input-and-output-devices"
     subtopic: "output-devices-and-their-uses-0417"
-description: "Original questions with mark-scheme answers on monitors, projectors, laser, inkjet and dot matrix printers, plotters, 3D printers, speakers and actuators for IGCSE ICT 0417."
+description: "Original questions with mark-scheme answers on monitors, projectors, printers, plotters, 3D printers, speakers and actuators for IGCSE ICT 0417 2.3."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

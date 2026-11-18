@@ -81,6 +81,8 @@ Condensed recall for **7.2 Ethical considerations**: the need for an ethical fra
 - **Confidentiality is not absolute.** Proper authority allows disclosure.
 - **Do not stop at the principle.** "Advise" needs an action.
 - **Use the concepts too.** Moving a December bill into next year breaks matching as well as integrity.
+- **Self-interest is not always money.** A promised promotion, a family link or fear of losing a job all threaten objectivity.
+- **Careless is not dishonest.** An unchecked error points to due care; a deliberate false entry points to integrity.
 
 ## Self-test
 

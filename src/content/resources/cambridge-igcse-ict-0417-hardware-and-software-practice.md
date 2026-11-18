@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "types-and-components-of-computer-systems"
     subtopic: "hardware-and-software-0417"
-description: "Original questions with mark-scheme answers on hardware components, compilers, linkers, drivers, utilities and analogue to digital conversion for IGCSE ICT 0417."
+description: "Original questions with mark-scheme answers on hardware, compilers, linkers, drivers, utilities and analogue to digital conversion for IGCSE ICT 0417."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

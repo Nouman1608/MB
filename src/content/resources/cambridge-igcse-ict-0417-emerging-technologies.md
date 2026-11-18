@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "types-and-components-of-computer-systems"
     subtopic: "emerging-technologies-0417"
-description: "The impact of artificial intelligence and extended reality (virtual and augmented) on everyday life, with balanced model answers, for Cambridge IGCSE ICT 0417 section 1.5."
+description: "The impact of AI and extended reality (virtual and augmented) on everyday life, with balanced model answers, for Cambridge IGCSE ICT 0417 section 1.5."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "input-and-output-devices"
     subtopic: "direct-data-entry-and-associated-devices-0417"
-description: "Condensed notes on magnetic stripe, chip and PIN, RFID, OMR, OCR, bar code and QR readers, with key terms and a self-test, for Cambridge IGCSE ICT 0417 section 2.2."
+description: "Condensed notes on magnetic stripe, chip and PIN, RFID, OMR, OCR, bar code and QR readers, with a self-test, for Cambridge IGCSE ICT 0417 2.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
