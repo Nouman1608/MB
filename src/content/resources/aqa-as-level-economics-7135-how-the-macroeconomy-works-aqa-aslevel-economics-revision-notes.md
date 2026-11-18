@@ -91,6 +91,13 @@ Main determinants: the price level and production costs. Shift factors: money wa
 
 Vertical at normal capacity output. Fundamental determinants: technology, productivity, attitudes, enterprise, factor mobility, economic incentives.
 
+## Chains to learn
+
+- Interest rates fall, borrowing is cheaper, C and I rise, AD shifts right, output and the price level rise.
+- World recession, exports fall, AD shifts left, multiplier reduces income further, cyclical unemployment rises.
+- Wages rise faster than productivity, unit labour costs rise, SRAS shifts left, price level rises and output falls.
+- Better training, productivity rises, LRAS shifts right, output can grow without inflationary pressure.
+
 ## Exam traps
 
 - Using an MPC formula when the question gives an injection and an income change.

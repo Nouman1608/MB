@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-s1-statistics-1-edexcel-alevel-maths"
     subtopic: "s1-probability-edexcel-alevel-maths"
-description: "Twelve original Edexcel IAL Maths S1 probability questions with mark-scheme answers: Venn diagrams, conditional probability, independence, trees and replacement."
+description: "Twelve original Edexcel IAL Maths S1 probability questions with mark-scheme answers: Venn diagrams, conditional probability, independence and trees."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

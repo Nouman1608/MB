@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-s1-statistics-1-edexcel-alevel-maths"
     subtopic: "s1-discrete-distributions-edexcel-alevel-maths"
-description: "Edexcel IAL Maths S1 discrete distributions guide: the discrete uniform model, its mean and variance, values in steps, finding n and judging when the model fits."
+description: "Edexcel IAL Maths S1 discrete distributions guide: the discrete uniform model, its mean and variance, stepped values, finding n and judging model fit."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

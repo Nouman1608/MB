@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-s2-statistics-2-edexcel-alevel-maths"
     subtopic: "s2-hypothesis-tests-edexcel-alevel-maths"
-description: "Twelve original Edexcel IAL Maths S2 hypothesis test questions with mark-scheme answers: binomial and Poisson tests, critical regions, two tails and normal approximation."
+description: "Twelve original Edexcel IAL Maths S2 hypothesis test questions with mark-scheme answers: binomial and Poisson tests, critical regions and two tails."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

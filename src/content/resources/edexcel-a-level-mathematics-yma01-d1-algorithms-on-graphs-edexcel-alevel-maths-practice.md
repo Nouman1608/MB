@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-d1-decision-mathematics-1-edexcel-alevel-maths"
     subtopic: "d1-algorithms-on-graphs-edexcel-alevel-maths"
-description: "Twelve original Edexcel IAL Maths D1 questions on algorithms on graphs with full answers: Kruskal, Prim from a matrix, Dijkstra and minimum spanning tree reasoning."
+description: "Twelve original Edexcel IAL Maths D1 questions on algorithms on graphs with full answers: Kruskal, Prim from a matrix, Dijkstra and spanning tree reasoning."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

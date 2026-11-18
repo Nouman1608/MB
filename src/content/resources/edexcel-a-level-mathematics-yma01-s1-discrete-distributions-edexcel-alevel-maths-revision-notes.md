@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-s1-statistics-1-edexcel-alevel-maths"
     subtopic: "s1-discrete-distributions-edexcel-alevel-maths"
-description: "Revision notes for Edexcel IAL Maths S1 discrete distributions: discrete uniform mean and variance, stepped values, counting probabilities, traps and a self-test."
+description: "Revision notes for Edexcel IAL Maths S1 discrete distributions: discrete uniform mean and variance, stepped values, counting probabilities and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

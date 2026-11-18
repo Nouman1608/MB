@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-s1-statistics-1-edexcel-alevel-maths"
     subtopic: "s1-probability-edexcel-alevel-maths"
-description: "Revision notes for Edexcel IAL Maths S1 probability: the laws, conditional probability, independence tests, Venn and tree diagrams, and a self-test with answers."
+description: "Revision notes for Edexcel IAL Maths S1 probability: the laws, conditional probability, independence tests, Venn and tree diagrams, and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

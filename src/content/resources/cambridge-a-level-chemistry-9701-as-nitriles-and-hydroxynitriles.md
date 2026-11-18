@@ -124,9 +124,10 @@ halogen, or HCN adds across a C=O, and the C≡N carbon is new.
 | pentan-3-one, CH₃CH₂COCH₂CH₃ | HCN, KCN catalyst, heat | (CH₃CH₂)₂C(OH)CN | 2-ethyl-2-hydroxybutanenitrile |
 | hexanenitrile | dilute acid, heat | CH₃(CH₂)₄COOH | hexanoic acid |
 
-When a molecule has two functional groups, react only the one that matches the reagent. For example, KCN in
-ethanol substitutes the Br of 3-bromopropanal but HCN with KCN adds to its C=O; read the conditions given to
-decide which reaction the question means.
+The rule works for methanal too: HCHO + HCN → HOCH₂CN, 2-hydroxyethanenitrile. Its C2 carbon carries two
+hydrogen atoms, so unlike the products from other aldehydes it has no chiral centre. Always check the
+product's molecular formula: it should be the carbonyl compound's formula plus HCN, or the halogenoalkane's
+formula with the halogen replaced by CN.
 
 ## Worked example 1: lengthening a chain
 

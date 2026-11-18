@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-s1-statistics-1-edexcel-alevel-maths"
     subtopic: "s1-representation-and-summary-of-data-edexcel-alevel-maths"
-description: "Twelve original Edexcel IAL Maths S1 data questions with full answers: histogram scales, interpolation, percentiles, coding, combined sets, skewness and outliers."
+description: "Twelve original Edexcel IAL Maths S1 data questions with full answers: histogram scales, interpolation, percentiles, coding, skewness and outliers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
