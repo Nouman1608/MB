@@ -231,3 +231,23 @@ To approve a page, the teacher records a result in `teacher-verifications.json` 
 7. **Allow more than one official URL per page** in the ledger, for pages serving two syllabuses.
 8. **Do not pin test fixtures to a record number.** A negative case that planted a hard-stop in QA-0001 stopped working once the page was reassessed, because the gate acts on the newest record. Fixtures should select the newest record for a page.
 9. **Plan for mark schemes.** Practice pages cannot be fully checked for tariffs and level descriptors without them. Decide which the owner can supply before assessing practice sets at scale.
+
+## M. Addendum, 18 November 2026: teacher verification of the two Chemistry guides (D-497)
+
+After this report was written and the corrections were live, the owner, who is the credited Chemistry teacher on the two study guides, stated that he had reviewed the pages and gave the details for a verification record: date 18 November, scope the whole page, and that he holds his own record.
+
+| Page | Verification | State now |
+|---|---|---|
+| 0620 study guide | nouman-ahmed, 2026-11-18, whole page, approved after corrections | **VERIFIED_APPROVED** |
+| AQA mole guide | nouman-ahmed, 2026-11-18, whole page, approved after corrections | **VERIFIED_APPROVED** |
+| Atomic structure practice | none: he is the author and cannot verify it; the named reviewer is Farhat ul Ain Sehgal | ACADEMIC_REVIEW_PENDING |
+| Psychology practice | none: the named reviewer is Kanwal Aslam; score 88 | REVISION_REQUIRED |
+
+What the records say, so nothing is overstated:
+
+- He did not state an approval value in words. `approved-after-corrections` was read from his statement that the pages are reviewed.
+- He said he holds his own record but not where it is kept. The record's evidence field says so.
+- A copy of every finding and the full before/after text of all four pages was saved for him at `Papers 2025/resource check/Review-Records/2026-11-18-academic-qa-pilot-changes.md`.
+- Each verification is tied to the page's content hash. Any later edit makes it stale (lifecycle case V).
+
+Sections A, B and I above describe the position before this addendum.

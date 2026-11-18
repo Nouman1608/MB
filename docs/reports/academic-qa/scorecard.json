@@ -8,8 +8,8 @@
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 1,
-      "ACADEMIC_REVIEW_PENDING": 3,
-      "VERIFIED_APPROVED": 0,
+      "ACADEMIC_REVIEW_PENDING": 1,
+      "VERIFIED_APPROVED": 2,
       "AUTOMATED_CHECK_COMPLETE": 10237,
       "NOT_ASSESSED": 0
     },
@@ -37,8 +37,8 @@
       "accountableTeacherCredited": 10241,
       "aiAssistedAssessmentCurrent": 4,
       "humanAssessmentCurrent": 0,
-      "documentedTeacherVerification": 0,
-      "finalApproval": 0
+      "documentedTeacherVerification": 2,
+      "finalApproval": 2
     },
     "ledgerOutcome": {
       "REPO_PARTIAL_UNVERIFIABLE": 153,
@@ -85,8 +85,8 @@
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
-      "ACADEMIC_REVIEW_PENDING": 1,
-      "VERIFIED_APPROVED": 0,
+      "ACADEMIC_REVIEW_PENDING": 0,
+      "VERIFIED_APPROVED": 1,
       "AUTOMATED_CHECK_COMPLETE": 1534,
       "NOT_ASSESSED": 0,
       "scored": 1
@@ -96,8 +96,8 @@
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 1,
-      "ACADEMIC_REVIEW_PENDING": 2,
-      "VERIFIED_APPROVED": 0,
+      "ACADEMIC_REVIEW_PENDING": 1,
+      "VERIFIED_APPROVED": 1,
       "AUTOMATED_CHECK_COMPLETE": 3305,
       "NOT_ASSESSED": 0,
       "scored": 3
@@ -153,8 +153,8 @@
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 1,
-      "ACADEMIC_REVIEW_PENDING": 1,
-      "VERIFIED_APPROVED": 0,
+      "ACADEMIC_REVIEW_PENDING": 0,
+      "VERIFIED_APPROVED": 1,
       "AUTOMATED_CHECK_COMPLETE": 4549,
       "NOT_ASSESSED": 0,
       "scored": 2
@@ -208,8 +208,8 @@
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
-      "ACADEMIC_REVIEW_PENDING": 2,
-      "VERIFIED_APPROVED": 0,
+      "ACADEMIC_REVIEW_PENDING": 1,
+      "VERIFIED_APPROVED": 1,
       "AUTOMATED_CHECK_COMPLETE": 2616,
       "NOT_ASSESSED": 0,
       "scored": 2
@@ -276,8 +276,8 @@
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
-      "ACADEMIC_REVIEW_PENDING": 2,
-      "VERIFIED_APPROVED": 0,
+      "ACADEMIC_REVIEW_PENDING": 0,
+      "VERIFIED_APPROVED": 2,
       "AUTOMATED_CHECK_COMPLETE": 3271,
       "NOT_ASSESSED": 0,
       "scored": 2
@@ -333,8 +333,8 @@
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
-      "ACADEMIC_REVIEW_PENDING": 3,
-      "VERIFIED_APPROVED": 0,
+      "ACADEMIC_REVIEW_PENDING": 1,
+      "VERIFIED_APPROVED": 2,
       "AUTOMATED_CHECK_COMPLETE": 945,
       "NOT_ASSESSED": 0,
       "scored": 3

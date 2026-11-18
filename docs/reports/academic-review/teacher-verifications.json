@@ -18,5 +18,46 @@
       "contentSha256": "sha256 of the resource as checked: LF line endings, without the reviewNote, featured and order frontmatter lines (npm run qa:review-pack prints it). Added by D-465: a later edit makes the approval stale (REVERIFICATION_REQUIRED in the Academic QA scorecard)."
     }
   },
-  "results": []
+  "results": [
+    {
+      "resource": "igcse-chemistry-0620-elements-atomic-structure-and-isotopes",
+      "reviewer": "nouman-ahmed",
+      "board": "cambridge",
+      "syllabusCode": "0620",
+      "syllabusSeries": "2026-2028",
+      "date": "2026-11-18",
+      "scope": "whole page",
+      "sources": [
+        "https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf"
+      ],
+      "findings": "The reviewer reported no errors. The page had been corrected on 17 Nov 2026 (D-496) before his check; the open advisory findings of the AI-assisted assessment are listed in docs/reports/academic-qa/assessments.json and were not withdrawn by this check.",
+      "corrections": [
+        "f9b6b484f",
+        "acbafb035"
+      ],
+      "approval": "approved-after-corrections",
+      "evidence": "Statement by the reviewer (Nouman Ahmed, project owner and credited Chemistry teacher) in the project working session of 18 Nov 2026: check completed on the 18th, scope \"all of it\", and that he holds his own record. He did not say where that record is kept. A copy of every finding and of the full before/after text of the page is saved for him in the owner's OneDrive: Papers 2025/resource check/Review-Records/2026-11-18-academic-qa-pilot-changes.md (SHA-256 c0f8cc1285150d5bbd1c2768dfc91adedb2dab03d44c252df1ba5c3a9223358e). Recorded at his instruction by the AI system that made the corrections.",
+      "contentSha256": "6c230ea73b24e337dd93ba1770b6f52ce96ae72afdfa4ebb69a1df75f7aac27b"
+    },
+    {
+      "resource": "a-level-aqa-chemistry-relative-mass-and-the-mole",
+      "reviewer": "nouman-ahmed",
+      "board": "aqa",
+      "syllabusCode": "7405",
+      "syllabusSeries": "2015-onwards",
+      "date": "2026-11-18",
+      "scope": "whole page",
+      "sources": [
+        "https://filestore.aqa.org.uk/resources/chemistry/specifications/AQA-7404-7405-SP-2015.PDF"
+      ],
+      "findings": "The reviewer reported no errors. The page had been corrected on 17 Nov 2026 (D-496) before his check; the open advisory findings of the AI-assisted assessment are listed in docs/reports/academic-qa/assessments.json and were not withdrawn by this check.",
+      "corrections": [
+        "f9b6b484f",
+        "acbafb035"
+      ],
+      "approval": "approved-after-corrections",
+      "evidence": "Statement by the reviewer (Nouman Ahmed, project owner and credited Chemistry teacher) in the project working session of 18 Nov 2026: check completed on the 18th, scope \"all of it\", and that he holds his own record. He did not say where that record is kept. A copy of every finding and of the full before/after text of the page is saved for him in the owner's OneDrive: Papers 2025/resource check/Review-Records/2026-11-18-academic-qa-pilot-changes.md (SHA-256 c0f8cc1285150d5bbd1c2768dfc91adedb2dab03d44c252df1ba5c3a9223358e). Recorded at his instruction by the AI system that made the corrections.",
+      "contentSha256": "113b37cdbccfc19a28f36591bf63dda0144d3a24ce0b5aad2e449d681c3f6b43"
+    }
+  ]
 }
