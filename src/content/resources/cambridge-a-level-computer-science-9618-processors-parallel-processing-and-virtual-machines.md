@@ -32,7 +32,7 @@ An instruction set is the set of machine-code instructions a processor can carry
 - **CISC** (Complex Instruction Set Computer) takes the first route. One instruction can, for example, fetch two operands from memory, add them and store the result. Instructions vary in length and in the number of clock cycles they take, and many addressing modes are available. The control unit is usually **microprogrammed**: each complex instruction is carried out as a sequence of simpler micro-instructions.
 - **RISC** (Reduced Instruction Set Computer) takes the second route. Instructions are few, simple and mostly the same length, and most finish in one clock cycle. Only LOAD and STORE instructions access main memory; every other instruction works on registers. The control unit is usually **hardwired**.
 
-The consequence is that the same task needs more RISC instructions, but each one is quicker, and the uniform format makes pipelining efficient. A CISC program is shorter and needs less memory for code, but each instruction does more and takes longer.
+So the same task needs more RISC instructions, but each is quicker and the uniform format pipelines efficiently; a CISC program is shorter, but each instruction takes longer.
 
 ## Registers in RISC processors
 
@@ -135,7 +135,6 @@ A **virtual machine** is software that emulates a computer system, so that progr
 - Forgetting that RISC operands must be in registers, so the importance of registers is not explained.
 - Confusing virtual machines with virtual memory.
 - Giving SIMD for any multi-core processor; multi-core cores run different instructions, so that is MIMD.
-- Describing a massively parallel computer as "a very fast processor".
 
 ## Exam technique
 

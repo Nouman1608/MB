@@ -89,6 +89,14 @@ Standardised processes make problems visible → teams and Kaizen fix them → r
 
 Understand customer needs · improve the customer experience · benchmark · train · reward loyalty · monitor and act on feedback and satisfaction levels.
 
+## Links to other functions
+
+| Function | How it connects to operations competitiveness |
+|---|---|
+| Marketing | Demand forecasts decide capacity; quality and service shape the brand and the price that can be charged |
+| Finance | Funds new capacity, quality systems and training; benefits from lower unit costs and less inventory |
+| Human resources | Recruits flexible labour, trains staff for Kaizen and TQM, and manages resistance to change |
+
 ## Exam traps
 
 - Full utilisation is not automatically good.

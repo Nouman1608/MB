@@ -83,8 +83,6 @@ Brindlecombe made £18,000 profit yet ended the quarter £3,000 overdrawn. Cash 
 
 ## Improving profits and profitability
 
-Each method has an advantage and a challenge, and the best answers say which fits the business.
-
 - **Raise prices**: higher margin per sale, but volume may fall if customers are price sensitive.
 - **Reduce direct costs** by finding cheaper suppliers or cutting waste: gross margin rises, but quality may suffer.
 - **Reduce overheads** such as cheaper premises: operating margin rises, but cuts to marketing or staff can reduce sales.

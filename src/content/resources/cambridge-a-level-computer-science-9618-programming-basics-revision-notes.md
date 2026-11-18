@@ -71,6 +71,21 @@ OUTPUT <value>, <value>, ...
 - Keep the identifiers the design uses. Add DECLARE statements even if the design shows none.
 - Check your code with one set of sample values before moving on.
 
+**Quick conversion.** Structured English: "1. Input the price and the quantity. 2. Multiply them to give the subtotal. 3. Take off a fixed discount of 5%. 4. Output the amount to pay."
+
+```
+CONSTANT Discount = 0.05
+DECLARE Price, Subtotal, ToPay : REAL
+DECLARE Quantity : INTEGER
+INPUT Price
+INPUT Quantity
+Subtotal ← Price * Quantity
+ToPay ← Subtotal * (1 - Discount)
+OUTPUT "Amount to pay: ", ToPay
+```
+
+Check: Price 12.00 and Quantity 3 give a subtotal of 36.00 and 36.00 × 0.95 = 34.20. The fixed 5% is a constant; Quantity is an INTEGER because it counts whole items.
+
 ## Key terms
 
 | Term | Meaning |
