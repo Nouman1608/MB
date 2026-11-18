@@ -127,3 +127,4 @@ Related: [13.3 study guide](/resources/ib-ib-dp-geography-dp-geography-ib-dp-geo
 - Treating resilience as only physical infrastructure.
 - Describing one scale only.
 - Ignoring who is excluded from a resilience measure.
+- Using resilience, adaptation and mitigation as if they meant the same thing, when each describes a different kind of response.

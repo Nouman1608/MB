@@ -94,6 +94,12 @@ When comparing how exposed two places are to a geopolitical or economic risk, as
 | How diversified are its suppliers? | Key imports come from one country or route |
 | How strong are its institutions? | Weak governance and limited policy options |
 
+## Annotated model answer
+
+*Examine why some countries are more exposed than others to global economic risks.* **(sample paragraph)**
+
+"Countries that depend on a single export are exposed because a fall in its price cuts national income at once, as Venezuela found when oil prices fell from 2014 **[first factor, located]**. Exposure grows where debt is owed in foreign currency, since a falling exchange rate raises the cost of every repayment in local money **[mechanism explained]**. Sri Lanka in 2022 combined both weaknesses with reliance on tourism and low reserves, so a series of shocks led to default and shortages **[factors interacting]**. Exposure is therefore greatest where narrow export bases, foreign-currency debt and weak policy choices coincide, not where any one of them exists alone **[examined conclusion]**."
+
 ## Common mistakes
 
 - Describing a crisis without explaining the mechanism that spread it.

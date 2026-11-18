@@ -79,6 +79,10 @@ Two European cases show how governance responds to pollution that crosses border
 
 Both cases show that transboundary risks can be managed when affected states share scientific evidence, accept monitoring and agree enforceable limits. They contrast with issues such as climate change and plastic pollution, where many more states, sources and interests make agreement harder.
 
+## Who carries environmental risk
+
+Environmental risks fall unevenly. Polluting industries, waste sites and informal settlements on flood-prone or unstable land tend to be located where land is cheap and residents have least political influence. Within cities, poorer neighbourhoods often have less green space, more air pollution and fewer flood defences. Between countries, people in places that contributed least to global problems such as climate change often face some of the greatest exposure. The term **environmental justice** describes campaigns to make the distribution of environmental risks and benefits fairer, and it connects this sub-topic to the questions of power and voice raised in Units 4 and 5.
+
 ## Annotated model answer
 
 *Examine why environmental risks are increasingly global.* **(sample paragraph)**
