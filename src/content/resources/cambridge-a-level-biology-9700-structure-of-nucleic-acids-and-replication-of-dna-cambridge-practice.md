@@ -85,6 +85,8 @@ D: Glycosidic bonds between sugars
 
 **13.** Describe the structure of a DNA molecule. **[4]**
 
+**14.** Compare the structure of an RNA nucleotide with the structure of ATP. **[3]**
+
 ## Answers
 
 **1.** **C** [1]. Uracil is the pyrimidine found only in RNA; A and G are purines. **[1]**
@@ -118,6 +120,10 @@ D: Glycosidic bonds between sugars
 **12.** It is single-stranded DNA [1]: it contains thymine, so it is DNA, but A does not equal T and G does not equal C, so the bases are not paired [1]. **[2]**
 
 **13.** Two polynucleotide strands wound into a double helix [1]. Each strand has a sugar–phosphate backbone with nucleotides joined by phosphodiester bonds [1]. The strands are antiparallel [1]. They are held together by hydrogen bonds between complementary bases: A–T with two and C–G with three [1]. **[4]**
+
+**14.** Similarity: both contain the sugar ribose and a nitrogenous base [1]. Differences: an RNA nucleotide has one phosphate group, ATP has three [1]; an RNA nucleotide may contain adenine, uracil, cytosine or guanine, whereas the base in ATP is always adenine [1]. **[3]**
+
+*Examiner insight:* "Compare" needs at least one similarity as well as differences. Giving ATP deoxyribose is a common error.
 
 *Examiner insight:* In question 10, both the antiparallel strands and the 5′ to 3′ rule are needed. Either alone does not explain why one strand is discontinuous.
 

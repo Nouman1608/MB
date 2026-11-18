@@ -89,6 +89,8 @@ D: The nuclear envelope remains intact throughout.
 
 **13.** State three rules to follow when drawing a cell in mitosis from a microscope slide. **[3]**
 
+**14.** A cell has 8 chromosomes in G1. Explain why each daughter nucleus formed by mitosis also has 8 chromosomes, referring to the behaviour of the chromosomes in metaphase and anaphase. **[3]**
+
 ## Answers
 
 **1.** **C** [1]. **[1]**
@@ -128,6 +130,10 @@ D: The nuclear envelope remains intact throughout.
 **12.** In anaphase the centromeres divide and sister chromatids separate [1]; they move to opposite poles, so "sister chromatids are being pulled apart" is correct, not whole chromosomes [1]. **[2]**
 
 **13.** Any three: use a sharp pencil [1]; use single, continuous lines with no shading [1]; draw only what is seen, large enough to show detail [1]; use ruled label lines that do not cross. **[3]**
+
+**14.** After S phase each of the 8 chromosomes consists of two identical sister chromatids [1]. In metaphase all 8 line up on the equator, each attached by its centromere to microtubules from both poles [1]. In anaphase the centromeres divide and one chromatid of each chromosome moves to each pole, so each pole receives 8 chromatids, which become the 8 chromosomes of each daughter nucleus [1]. **[3]**
+
+*Examiner insight:* The key idea is that each pole receives exactly one copy of every chromosome. Saying "the chromosomes split in half" does not explain this.
 
 ## Where marks are usually lost
 

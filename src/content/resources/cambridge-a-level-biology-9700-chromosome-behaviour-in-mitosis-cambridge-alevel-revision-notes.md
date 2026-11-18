@@ -71,6 +71,18 @@ These notes condense sub-topic 5.2, Chromosome behaviour in mitosis, of the Camb
 | Anaphase / telophase | Moving or already at the poles and clumped? |
 | Telophase / interphase | Dense irregular groups or round nuclei with nucleoli? |
 
+### Worked reminder: a described field of view
+
+A slide shows five cells:
+
+- Cell 1: round nucleus, dark nucleolus → interphase (no chromosomes visible).
+- Cell 2: chromosomes in one band across the centre → metaphase (aligned on the equator).
+- Cell 3: two clusters of V-shapes near the middle → early anaphase (chromatids just separating).
+- Cell 4: two dense clusters at opposite ends with a faint dividing line → telophase (cell plate forming).
+- Cell 5: thin threads inside a clear nuclear outline → early prophase (envelope still present).
+
+Order of these dividing cells through mitosis: 5, 2, 3, 4.
+
 ## Root tip squash in steps
 
 1. Cut a growing root tip (garlic or onion); the dividing region lies just behind the tip.
