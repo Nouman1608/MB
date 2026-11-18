@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "inheritance-variation-and-evolution-aqa-gcse-biology"
     subtopic: "variation-and-evolution-aqa-gcse-biology"
-description: "AQA GCSE Biology 8461 section 4.6.2 in depth: variation and mutation, natural selection, selective breeding, genetic engineering and cloning, with model answers."
+description: "AQA GCSE Biology 8461 section 4.6.2 in depth: variation and mutation, natural selection, selective breeding, genetic engineering and cloning."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
