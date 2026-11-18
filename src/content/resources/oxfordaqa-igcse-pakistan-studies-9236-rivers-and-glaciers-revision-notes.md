@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-geography-9236"
     subtopic: "landscape-natural-resources-9236"
-description: "Recall notes on Pakistan's rivers and glaciers for OxfordAQA 9236: the Indus system, erosion and transport processes, landform formation, examples and a self-test."
+description: "Recall notes on Pakistan's rivers and glaciers for OxfordAQA 9236: the Indus system, erosion and transport, landform formation, examples and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

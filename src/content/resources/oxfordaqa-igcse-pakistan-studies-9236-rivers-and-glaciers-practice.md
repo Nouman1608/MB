@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-geography-9236"
     subtopic: "landscape-natural-resources-9236"
-description: "Thirteen original questions on the rivers and glaciers of Pakistan for OxfordAQA 9236, from 1-mark recall to 9-mark judgements, with full mark schemes and levels."
+description: "Thirteen original questions on the rivers and glaciers of Pakistan for OxfordAQA 9236, from 1-mark recall to 9-mark judgements, with mark schemes and levels."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -96,7 +96,7 @@ These questions cover section 3.2 of the OCR GCSE (9-1) Economics specification 
 
 **7.** Before: 1,200,000 × 0.075 = 90,000; after: 1,200,000 × 0.06 = 72,000 [1]. Fall = **18,000** [1]. **[2]**
 
-**8. (a)** Year 1: 0.90 ÷ 20.0 = **4.5%**; Year 2: 1.12 ÷ 20.4 = **5.5%**; Year 3: 1.24 ÷ 20.6 = **6.0%**; Year 4: 1.05 ÷ 21.0 = **5.0%**; Year 5: 1.06 ÷ 21.5 = **4.9%** (three correct [1], four correct [2], all five [3]).
+**8. (a)** Year 1: 0.90 ÷ 20.0 = **4.5%**; Year 2: 1.12 ÷ 20.4 = **5.5%** [1]. Year 3: 1.24 ÷ 20.6 = **6.0%**; Year 4: 1.05 ÷ 21.0 = **5.0%** [1]. Year 5: 1.06 ÷ 21.5 = **4.9%** [1].
 **(b)** Year 3, at 6.0% [1]. The rate rose by 1.5 percentage points from Year 1 to Year 3, then fell to below 5% by Year 5 [1].
 **(c)** The labour force grew by 0.5 million while the number unemployed rose by only 10,000 [1], so the unemployed became a smaller share of the labour force [1].
 **(d)** (1.24 − 0.90) ÷ 0.90 × 100 = **37.8%** [1]. **[8]**
