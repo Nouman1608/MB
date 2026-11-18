@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "number-operations-and-integers-ocr-gcse-maths"
     subtopic: "combining-arithmetic-operations-ocr-gcse-maths"
-description: "Condensed OCR GCSE Maths J560 revision notes on 1.03, the order of operations: hidden brackets, signs and powers, reciprocals, calculator keying and a self-test."
+description: "Condensed OCR GCSE Maths J560 revision notes on 1.03, order of operations: hidden brackets, signs and powers, reciprocals, calculator keying and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
