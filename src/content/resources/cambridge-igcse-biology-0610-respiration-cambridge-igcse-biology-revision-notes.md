@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "respiration-cambridge-igcse-biology"
     subtopic: "respiration-cambridge-igcse-biology"
-description: "Revision notes for Cambridge IGCSE Biology 0610 sub-topic 12.1: the seven uses of energy, the yeast temperature investigation, rate calculations and a self-test."
+description: "Revision notes for Cambridge IGCSE Biology 0610 sub-topic 12.1: the seven uses of energy, the yeast temperature investigation, rates and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

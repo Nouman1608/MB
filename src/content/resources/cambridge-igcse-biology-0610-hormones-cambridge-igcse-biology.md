@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "coordination-and-response-cambridge-igcse-biology"
     subtopic: "hormones-cambridge-igcse-biology"
-description: "Study guide for Cambridge IGCSE Biology 0610 sub-topic 14.3: what a hormone is, four endocrine glands, adrenaline and fight or flight, and nervous vs hormonal control."
+description: "Study guide for Cambridge IGCSE Biology 0610 sub-topic 14.3: hormones, four endocrine glands, adrenaline in fight or flight, and nervous vs hormonal control."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
