@@ -85,6 +85,21 @@ Condensed recall for **9.1 Hazards resulting from tectonic processes** (Cambridg
 - **Hazard maps:** past deposits, faults, ground type, liquefaction zones.
 - **Preparedness:** building codes, base isolation, cross-bracing, drills, tsunami routes and vertical evacuation.
 
+## Mini essay plan
+
+*"Volcanic hazards are easier to manage than earthquake hazards." How far do you agree?*
+
+1. **Define** management: prediction, monitoring, hazard mapping, preparedness.
+2. **For:** volcanoes give warning signs (swarms, swelling, gas), so evacuation is possible; hazard zones can be mapped from past deposits; Montserrat's exclusion zone protected life once enforced.
+3. **Against:** some eruptions give little warning; lahars and ash reach far from the vent; evacuation may last years and destroy livelihoods.
+4. **Earthquakes:** no precise prediction (Parkfield), but building codes and early warning can greatly reduce deaths; L'Aquila shows communication problems.
+5. **Judgement:** volcanoes are easier to forecast, but earthquakes can be mitigated through construction; the answer depends on wealth and governance.
+
+## Must-know distinctions
+
+- **Prediction** gives a time and place; **forecasting** gives probabilities.
+- **Magnitude** measures energy; **intensity** measures shaking at a place.
+
 ## Exam traps
 
 - Magnitude given as the only cause of death toll.

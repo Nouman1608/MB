@@ -84,6 +84,16 @@ Condensed recall for **8.3 Coral reefs** (Cambridge 9696, Paper 3, Coastal envir
 
 Examples to name: Apo Island community sanctuary (Philippines); Great Barrier Reef zoning and the Reef 2050 Plan (Australia).
 
+## Mini essay plan
+
+*"Global warming is the greatest threat to coral reefs." How far do you agree?*
+
+1. **Define** the four threats the syllabus names and the idea of scale (global against local).
+2. **For:** bleaching affects remote reefs far from pollution; acidification slows skeleton growth everywhere; stronger storms break reefs.
+3. **Against:** at a heavily used reef, sediment, nutrients and anchor damage can kill coral before a heatwave arrives; overfishing removes grazers.
+4. **Interaction:** local stress lowers resilience, so reefs recover more slowly after bleaching.
+5. **Judgement:** the greatest threat globally, but not always locally; the most effective strategy reduces both.
+
 ## Exam traps
 
 - Conditions listed without linking to zooxanthellae.
