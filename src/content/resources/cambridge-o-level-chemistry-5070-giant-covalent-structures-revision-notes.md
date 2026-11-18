@@ -69,6 +69,15 @@ Each C has 3 bonds, so 1 electron per atom is delocalised → electrons move alo
 
 SiO₂ ≠ CO₂: silicon(IV) oxide is giant covalent (solid, very high melting point); carbon dioxide is simple molecular (gas at room temperature).
 
+## Giant covalent vs simple molecular
+
+| | Giant covalent (diamond, SiO₂) | Simple molecular (CO₂, CH₄) |
+|---|---|---|
+| Particles | one continuous network | separate small molecules |
+| What melting overcomes | strong covalent bonds | weak forces between molecules |
+| Melting point | very high | low |
+| State at room temperature | solid | often gas or liquid |
+
 ## Key terms
 
 | Term | Meaning |

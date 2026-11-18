@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "chemistry-of-the-environment"
     subtopic: "fertilisers"
-description: "Ammonium salts and nitrates as fertilisers, reading NPK elements from formulae, making and testing fertiliser salts and percentage nitrogen, for Cambridge IGCSE 0620."
+description: "Ammonium salts and nitrates, reading NPK elements from formulae, and making and testing fertiliser salts, for Cambridge IGCSE Chemistry 0620 subtopic 10.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

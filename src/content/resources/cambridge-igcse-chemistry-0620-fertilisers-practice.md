@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "chemistry-of-the-environment"
     subtopic: "fertilisers"
-description: "Twelve original 0620 questions with full answers on ammonium salts, nitrates and NPK fertilisers, reading formulae, salt preparation and ion tests."
+description: "Thirteen original 0620 questions with full answers on ammonium salts, nitrates and NPK fertilisers, reading formulae, salt preparation and ion tests."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -100,6 +100,12 @@ D: ammonium nitrate **[1]**
 
 **(b)** State the effect these ions have on the river. **[2]**
 
+**13.** A bag of fertiliser is labelled "contains ammonium nitrate and potassium chloride".
+
+**(a)** State which of the three NPK elements this fertiliser does **not** provide. **[1]**
+
+**(b)** Suggest a salt that could be added to the mixture to make it a complete NPK fertiliser, and explain your choice. **[2]**
+
 ---
 
 ## Answers
@@ -143,6 +149,10 @@ Ammonium nitrate has the greater percentage of nitrogen.
 **12. (a)** Nitrate [1]; phosphate [1].
 
 **(b)** Deoxygenation of the water [1], damaging aquatic life [1].
+
+**13. (a)** Phosphorus [1].
+
+**(b)** Ammonium phosphate (or another soluble phosphate) [1], because it contains phosphate ions, which provide phosphorus [1].
 
 ---
 
