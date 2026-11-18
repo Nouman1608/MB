@@ -108,6 +108,13 @@ Compliance comes from reward and coercive power; commitment comes from expert an
 | Transactional leadership | Exchanging rewards for performance |
 | Emotional intelligence | Ability to recognise and manage your own and others' emotions |
 
+## Evaluation prompts
+
+- "It depends on the situation": the urgency, the skills of the staff and how structured the task is.
+- "It depends on the source of power": compliance may be enough for safety rules, but change needs commitment.
+- "It depends on one person": transformational success may not survive the leader's departure, so ask who will continue the vision.
+- "It depends on evidence": does the case show the cause, or could pay, workload or competition explain the problem instead?
+
 ## Exam traps
 
 - Confusing styles with theories.

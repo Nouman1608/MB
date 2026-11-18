@@ -114,6 +114,14 @@ gross profit, cost of sales and mark-up. **[3]**
 **12.** Explain why debenture interest is added back to profit for the year when
 calculating return on capital employed. **[2]**
 
+**13.** Elm Ltd's revenue was 150,000, of which 30,000 was cash sales. Trade
+receivables at the year end were 18,000. A student calculated trade receivables
+turnover using total revenue.
+
+**(a)** Calculate the student's answer and the correct answer. **[2]**
+
+**(b)** Explain why the student's answer understates the time customers take to pay. **[1]**
+
 ## Answers
 
 **1.** B [1]. Inventory turnover in days also uses it; the acid test uses closing
@@ -143,8 +151,7 @@ so it is a smaller figure divided by the same revenue [1]. **[2]**
 **(b)** Capital employed = 250,000 + 34,000 + 50,000 = 334,000 [1]. ROCE = 52,600
 ÷ 334,000 × 100 = **15.75%** [1].
 
-**(c)** Current assets 85,000; current liabilities 31,000. Current ratio
-**2.74 : 1** [1]; acid test 49,000 : 31,000 = **1.58 : 1** [1].
+**(c)** Current assets 85,000; current liabilities 31,000. Current ratio **2.74 : 1** [1]; acid test 49,000 : 31,000 = **1.58 : 1** [1].
 
 **(d)** Average inventory 33,000. Rate of turnover 219,000 ÷ 33,000 = **6.64 times** [1];
 inventory turnover 33,000 ÷ 219,000 × 365 = **55.00 days** [1].
@@ -169,6 +176,12 @@ Mark-up = 38,000 ÷ 57,000 × 100 = **66.67%** [1]. **[3]**
 **12.** Capital employed includes non-current liabilities such as debentures [1], so
 the profit must be measured before the return paid to those lenders, otherwise the
 profit and the capital would not match [1]. **[2]**
+
+**13. (a)** Student: 18,000 ÷ 150,000 × 365 = 43.80 days [1]. Correct: credit sales
+120,000; 18,000 ÷ 120,000 × 365 = **54.75 days** [1].
+
+**(b)** Cash customers pay immediately and never become receivables, so including
+cash sales makes the divisor too large and the number of days too small [1]. **[3]**
 
 ## Where marks are usually lost
 
