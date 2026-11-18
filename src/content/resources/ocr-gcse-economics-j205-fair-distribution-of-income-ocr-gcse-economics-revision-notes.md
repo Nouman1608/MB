@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
     subtopic: "fair-distribution-of-income-ocr-gcse-economics"
-description: "Condensed OCR GCSE Economics 3.3 notes on fairness, types of income, income and net wealth, causes and consequences of inequality, with a twelve-question self-test."
+description: "Condensed OCR GCSE Economics 3.3 notes on fairness, types of income, net wealth and the causes and effects of inequality, with a twelve-question self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

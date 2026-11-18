@@ -109,12 +109,12 @@ These questions cover section 3.13.2, Analogue and digital signals, of the AQA A
 **7. (a)** 2 × 150 = 300 Hz is needed, and 500 Hz is greater than this [1]
 **(b)** 500 × 10 × 3 = 15 000 bit s⁻¹ [1]
 **(c)** 15 000 × 24 × 3600 = 1.30 × 10⁹ bits [1]; ÷ 8 = 1.62 × 10⁸ bytes [1]
-**(d)** Any one: data rate and storage rise by 60%; finer resolution than the measurement needs, as the sensor noise exceeds the step size; longer transmission times [1] **[5]**
+**(d)** Any one of: data rate and storage rise by 60%; the extra resolution is finer than the measurement needs; transmission takes longer [1] **[5]**
 *Examiner insight:* In (c), leaving the answer in bits when bytes are asked for loses the final mark.
 
 **8. (a)** 0, 1, 1, 0, 1 [2] (one mark for four correct)
 **(b)** The third pulse was sent as 0 but read as 1 [1]; noise raised its voltage from 0 V to 2.9 V, above the 2.5 V threshold [1]
-**(c)** Any two: place regenerators closer together so noise and attenuation are smaller at each one [1]; increase the voltage difference between the two levels, widening the noise margin [1]; use a medium with less interference, such as optic fibre [1] **[6]**
+**(c)** Any two of: place regenerators closer together, so less noise and attenuation build up before each one; increase the voltage difference between the two levels, widening the noise margin; use a medium with less interference, such as optic fibre [2] **[6]**
 *Examiner insight:* An answer to (c) that says "amplify the signal more" scores nothing: amplification boosts the noise too.
 
 **9. (a)** 8.0/2³ = 1.0 V [1]
@@ -127,20 +127,16 @@ These questions cover section 3.13.2, Analogue and digital signals, of the AQA A
 **(b)** Sampling at 8.0 kHz reproduces frequencies up to about 4 kHz, which carries enough of speech to be understood [1]. Music contains frequencies up to about 20 kHz, and 8 bits gives a coarse step size, so detail and quiet passages would be lost [1]. **[4]**
 *Examiner insight:* Link each setting to its effect: sampling rate to frequency range, bit depth to resolution.
 
-**11.** Indicative marking points, any six:
-- The tapes' noise and hiss is already present and is copied into the digital file; digitising does not remove it [1].
+**11.** Marked by points here for self-checking; in the exam a discussion may be marked by levels. A strong answer covers:
 - Once digital, copies are exact, so quality does not fall with each copy, unlike copying tape [1].
-- Files can be transmitted over noisy links and regenerated without adding noise [1].
-- Files can be stored, indexed, processed (for example filtered) and backed up easily [1].
-- Quantisation error is introduced, so a low bit depth would add audible distortion [1].
-- Detail above half the sampling rate is lost, so the rate must be high enough for the recorded frequencies [1].
-- High rates and bit depths give large files, needing more storage and bandwidth [1].
-- A justified conclusion, for example that digital storage is better if a high enough sampling rate and bit depth are chosen [1].
+- Files can be sent over noisy links and regenerated without adding noise, and can be stored, indexed and backed up easily [1].
+- Hiss already on the tapes is copied into the file; digitising does not remove existing noise [1].
+- Quantisation error is introduced, so a low bit depth adds audible distortion [1].
+- Detail above half the sampling rate is lost, and high rates and bit depths give large files needing more storage and bandwidth [1].
+- A justified conclusion, for example that digital storage is better provided the sampling rate and bit depth are high enough for the recordings [1].
 
 **[6]**
 *Examiner insight:* A balanced answer that names the trade-off between quality and file size scores higher than a list of advantages only.
-
-**11** is marked by points here for self-checking; in the exam a discussion may be marked by levels.
 
 **12. (a)** Fewer than two samples are taken per cycle of the tone [1], so the samples do not capture each oscillation and the reconstructed waveform has a different, lower frequency [1].
 **(b)** 2 × 5.0 = 10 kHz [1] **[3]**

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-4-globalisation-media-religion-9699"
     subtopic: "impact-of-the-new-media-9699"
-description: "Cambridge 9699 section 9.3 in depth: new media and globalisation, challenges to power, digital optimism and pessimism, and effects on identity and relationships."
+description: "Cambridge 9699 section 9.3 in depth: new media and globalisation, challenges to power, digital optimism versus pessimism, identity and relationships."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
