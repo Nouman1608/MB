@@ -94,6 +94,14 @@ D: H₃O⁺ **[1]**
 
 **(b)** Explain the error in the student's reasoning. **[2]**
 
+**13.** Solid phosphorus(V) chloride is made of two ions, PCl₄⁺ and PCl₆⁻, rather than PCl₅ molecules.
+
+**(a)** Calculate the number of lone pairs on phosphorus in each ion. **[2]**
+
+**(b)** Predict the shape and bond angle of each ion. **[2]**
+
+**(c)** State the shape of a PCl₅ molecule in the vapour, and explain why it differs from both ions. **[2]**
+
 ---
 
 ## Answers
@@ -135,6 +143,12 @@ D: H₃O⁺ **[1]**
 **12. (a)** Trigonal planar [1]; 120° [1].
 
 **(b)** The shape depends on the number of electron pairs around the central atom, not on the formula pattern [1]. Carbon in CO₃²⁻ has three bonding regions and no lone pair, whereas nitrogen in NH₃ has a lone pair [1].
+
+**13. (a)** PCl₄⁺: (5 − 4 − 1) ÷ 2 = 0 lone pairs [1]; PCl₆⁻: (5 − 6 + 1) ÷ 2 = 0 lone pairs [1].
+
+**(b)** PCl₄⁺ is tetrahedral, 109.5° [1]; PCl₆⁻ is octahedral, 90° [1].
+
+**(c)** Trigonal bipyramidal (120° and 90°) [1], because phosphorus has five bonding pairs and no lone pairs, compared with four pairs in PCl₄⁺ and six in PCl₆⁻ [1].
 
 ---
 

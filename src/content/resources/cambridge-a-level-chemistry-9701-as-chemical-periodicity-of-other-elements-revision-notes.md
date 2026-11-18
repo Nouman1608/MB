@@ -69,6 +69,14 @@ Always quote the analogy: "like sodium", "like silicon", "like sulfur".
 
 Formula → ionisation energies → oxide → chloride → physical data → reactivity. Write the inference from each line, then give the group, period and identity. If two elements fit, name the group and give an example.
 
+## A worked deduction in three lines
+
+Data: ZCl₃ gives pH 3; Z₂O₃ dissolves in HCl and NaOH; ionisation energy jump after the third value.
+
+- Jump after the third value → three outer electrons → Group 13.
+- Amphoteric oxide and acidic chloride solution → small, highly charged Z³⁺ at the metal/non-metal boundary.
+- Identity: aluminium, consistent with every statement.
+
 ## Key terms
 
 | Term | Meaning |

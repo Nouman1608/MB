@@ -87,6 +87,14 @@ Why basic: O²⁻ accepts protons (O²⁻ + H₂O → 2OH⁻). Why amphoteric: s
 
 Electronegativity of the element rises across the period → difference from O or Cl **falls** → bonding goes **ionic → ionic with covalent character → covalent** → oxides go basic → amphoteric → acidic, and chlorides go dissolving → hydrolysing.
 
+## Observations worth learning
+
+- Na in O₂ or Cl₂: bright yellow-orange flame, white solid.
+- Mg in O₂: brilliant white flame, white powder.
+- P in O₂: dense white smoke of P₄O₁₀.
+- S in O₂: blue flame, colourless choking gas.
+- SiCl₄ or PCl₅ with water: misty fumes of HCl; SiCl₄ also gives a white solid (SiO₂).
+
 ## Bonding from observations
 
 - High melting point, conducts when molten, neutral solution → **ionic**.

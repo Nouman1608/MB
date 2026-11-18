@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-the-periodic-table-chemical-periodicity"
     subtopic: "as-periodicity-of-chemical-properties-of-the-elements-in-period-3"
-description: "Thirteen original questions with answers on Period 3 reactions, oxidation numbers, amphoteric oxides and chloride hydrolysis, for Cambridge 9701 subtopic 9.2."
+description: "Fourteen original questions with answers on Period 3 reactions, oxidation numbers, amphoteric oxides and chloride hydrolysis, for Cambridge 9701 subtopic 9.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -85,6 +85,14 @@ These questions follow subtopic 9.2 of Cambridge International AS & A Level Chem
 
 **(b)** Suggest the identity of X and write an equation for its reaction with water. **[2]**
 
+**14.** Phosphorus(V) oxide and magnesium oxide are both white solids.
+
+**(a)** Describe a test, using water and universal indicator, that would distinguish them, and give the expected result for each. **[2]**
+
+**(b)** Write an equation for the reaction of phosphorus(V) oxide with excess aqueous sodium hydroxide. **[1]**
+
+**(c)** Explain the difference in acid-base behaviour of the two oxides in terms of their bonding. **[2]**
+
 ---
 
 ## Answers
@@ -128,6 +136,12 @@ These questions follow subtopic 9.2 of Cambridge International AS & A Level Chem
 **13. (a)** X: simple molecular covalent [1]. White solid: giant covalent [1].
 
 **(b)** Silicon tetrachloride, SiCl₄ [1]. SiCl₄ + 2H₂O → SiO₂ + 4HCl [1].
+
+**14. (a)** Add each solid to water and test with universal indicator [1]. MgO gives a weakly alkaline solution (about pH 9–10, blue); P₄O₁₀ gives a strongly acidic solution (about pH 0–2, red) [1].
+
+**(b)** P₄O₁₀ + 12NaOH → 4Na₃PO₄ + 6H₂O [1].
+
+**(c)** MgO is ionic; its oxide ions accept protons, so it is basic [1]. P₄O₁₀ is a covalent (simple molecular) oxide of a non-metal that reacts with water to form an acid, so it is acidic [1].
 
 ---
 
