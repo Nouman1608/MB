@@ -101,7 +101,9 @@ The conclusion should do more than repeat both sides. Options:
 - **A conditional view:** "The answer depends on…"
 - **A reframing:** "Perhaps the real question is not whether…, but how…"
 
-Each shows that the discussion has led somewhere.
+Each shows that the discussion has led somewhere. Whichever you choose, the judgement should grow
+from the aspects you have weighed: a conclusion that introduces a brand-new point suggests the plan
+was incomplete, while one that names the deciding factor shows the reader why the balance tipped.
 
 ## Worked example: plan and paragraph
 

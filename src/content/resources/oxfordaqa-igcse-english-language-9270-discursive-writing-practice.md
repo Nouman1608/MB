@@ -107,7 +107,7 @@ undeveloped points ("more jobs", "fresh air") at the end; vary sentence structur
 **7.** Credit up to 6: an engaging opening idea [1]; three distinct aspects [1 each, up to 3], each
 with both sides (for example, independence and health against time and cost; family culture against
 convenience; life skills against school priorities); a concluding judgement that weighs rather than
-summarises [2]. Maximum 6.
+summarises [2].
 
 **8.** Credit up to 5: an engaging hook (an anecdote, image or question) [1]; a statement of the issue
 [1]; acknowledgement that there is more than one view [1]; a measured, formal or semi-formal voice

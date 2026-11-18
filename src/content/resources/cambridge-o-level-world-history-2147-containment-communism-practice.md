@@ -41,7 +41,7 @@ These questions cover key question 2.5 of Cambridge O Level History 2147, the Pa
 
 **2.** Identify **two** turning points in the Korean War between September 1950 and April 1951. **[2]**
 
-**3.** Describe the Bay of Pigs invasion of 1961. **[4]**
+**3.** Describe American reactions to the Cuban Revolution between 1959 and April 1961. **[4]**
 
 **4.** Describe how the Cuban Missile Crisis was resolved in October 1962. **[4]**
 
@@ -53,7 +53,7 @@ These questions cover key question 2.5 of Cambridge O Level History 2147, the Pa
 
 **7.** Why did the United States become involved in Vietnam between 1955 and 1964? Explain your answer. **[6]**
 
-**8.** Why did the United States withdraw from Vietnam? Explain your answer. **[6]**
+**8.** Why did the United States lose public support at home for the Vietnam War after 1967? Explain your answer. **[6]**
 
 **9.** "The Korean War was a success for containment." How far do you agree? Explain your answer. **[10]**
 
@@ -89,10 +89,10 @@ MacArthur (1); most troops were American, but other countries such as Britain al
 1950 (1); Chinese entry into the war, October–November 1950 (1); Seoul falling again, January 1951 (1); MacArthur's
 dismissal, April 1951 (1). **[2]**
 
-**3.** Any four, 1 mark each: planned by the CIA under Eisenhower (1); approved by Kennedy (1); about 1,400 Cuban exiles
-landed at the Bay of Pigs in April 1961 (1); they expected Cubans to rise against Castro, but no rising happened (1);
-Kennedy refused to provide open US air support (1); Castro's forces defeated them within days (1); most were captured
-(1); it humiliated the USA and pushed Castro closer to the USSR (1). **[4]**
+**3.** Any four, 1 mark each: the USA had supported Batista, whom Castro overthrew in January 1959 (1); Castro
+nationalised American-owned businesses and land (1); the USA cut its purchases of Cuban sugar in 1960 (1); it imposed a
+trade embargo (1); it broke off diplomatic relations in January 1961 (1); the CIA trained Cuban exiles (1); about 1,400
+exiles landed at the Bay of Pigs in April 1961 (1); the invasion failed within days (1). **[4]**
 
 **4.** Any four, 1 mark each: Kennedy imposed a naval quarantine around Cuba (1); Soviet ships turned back from the
 quarantine line (1); Khrushchev offered to remove the missiles if the USA promised not to invade Cuba (1); a second
@@ -116,11 +116,11 @@ expected to win; **Cold War credibility** after the communist victory in China a
 insurgency** threatened Diem's government, so Kennedy sent advisers; **the Gulf of Tonkin incident** (1964) gave Johnson
 the authority to escalate. **[6]**
 
-**8.** Levels as Question 7. Indicative content: **Tet Offensive** (1968) persuaded many Americans the war could not be
-won; **public opposition**, protests and events such as Kent State; **media coverage** showing casualties and
-atrocities such as My Lai; **cost** in money and lives and the unequal draft; **failure of tactics**: bombing and search
-and destroy did not defeat a guerrilla enemy; **Nixon's policy** of Vietnamisation and improving relations with China
-and the USSR. **[6]**
+**8.** Levels as Question 7. Indicative content: **the Tet Offensive** (1968) contradicted official claims that the war
+was being won, opening a "credibility gap"; **television and press coverage** brought casualties and atrocities such as
+My Lai into American homes; **rising casualties and cost**, which also took money from social programmes at home;
+**the draft** fell unequally on poorer and Black Americans, fuelling protest; **the anti-war movement** grew on
+campuses, and the shootings at Kent State in 1970 deepened division. **[6]**
 
 **9.** Levels. Level 5 (9–10): explained arguments on both sides and a supported judgement. Level 4 (7–8): explains
 both sides. Level 3 (4–6): explains one side. Level 2 (2–3): describes. Level 1 (1): general points. **Agree:** South

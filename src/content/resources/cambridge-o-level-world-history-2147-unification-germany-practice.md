@@ -37,7 +37,7 @@ Paper 2 prescribed topic for June 2025.
 
 ## Section A
 
-**1.** Describe the Zollverein. **[4]**
+**1.** Describe the German Confederation set up in 1815. **[4]**
 
 **2.** Identify **two** weaknesses of the Frankfurt Parliament. **[2]**
 
@@ -80,10 +80,10 @@ answer. **[7]**
 
 ## Answers
 
-**1.** Any four, 1 mark each: a customs union of German states (1); formed in 1834 (1); led by Prussia (1); it removed
-tariffs on trade between member states (1); Austria was excluded (1); most German states had joined by the 1850s (1);
-it encouraged railway building and industrial growth (1); it made other states economically dependent on Prussia (1).
-**[4]**
+**1.** Any four, 1 mark each: it was created by the Congress of Vienna in 1815 (1); it replaced the Holy Roman Empire
+(1); it was a loose league of 39 states (1); each state kept its own ruler and government (1); its Diet met at
+Frankfurt (1); Austria chaired the Diet (1); it was designed to keep order and resist revolution, not to unite Germany
+(1); Metternich used it to pass the Carlsbad Decrees of 1819 (1). **[4]**
 
 **2.** Any two, 1 mark each: it had no army of its own (1); it had no power to raise taxes (1); members were divided
 over greater or smaller Germany (1); it depended on the princes accepting its decisions (1); it was slow, spending

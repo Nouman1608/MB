@@ -37,13 +37,13 @@ November 2025.
 
 ## Section A
 
-**1.** Describe the remilitarisation of the Rhineland in 1936. **[4]**
+**1.** Describe how Germany rearmed between 1933 and 1936. **[4]**
 
-**2.** Identify **two** ways in which Hitler broke the military terms of the Treaty of Versailles before 1936. **[2]**
+**2.** Identify **two** members of the Anti-Comintern Pact by the end of 1937. **[2]**
 
 **3.** Describe German and Italian involvement in the Spanish Civil War. **[4]**
 
-**4.** Describe the events of the Anschluss in 1938. **[4]**
+**4.** Describe the crisis over the Sudetenland in September 1938. **[4]**
 
 **5.** Identify **two** leaders who signed the Munich Agreement. **[2]**
 
@@ -81,25 +81,23 @@ Why do Sources B and C take such different views of Hitler? Use the sources and 
 
 ## Answers
 
-**1.** Any four, 1 mark each: on 7 March 1936 German troops marched into the Rhineland (1); this broke the Treaty of
-Versailles and the Locarno Treaties (1); the force sent was small and the move was a gamble (1); Britain and
-France protested but did not act (1); France was in the middle of an election campaign and unwilling to act alone (1);
-Britain thought Germany was "going into its own back garden" (1); the League was busy with Abyssinia (1); Hitler
-offered peace proposals at the same time (1). **[4]**
+**1.** Any four, 1 mark each: Germany left the Disarmament Conference and the League in 1933 (1); rearmament began in
+secret at first (1); in March 1935 Hitler announced conscription (1) and an air force, the Luftwaffe (1); the army was
+expanded far beyond 100,000 men (1); the Anglo-German Naval Agreement (1935) allowed a navy up to 35% of Britain's (1);
+arms spending rose and reduced unemployment (1); German troops entered the Rhineland in March 1936 (1). **[4]**
 
-**2.** Any two, 1 mark each: introduced conscription in 1935 (1); built up an air force, announced in 1935 (1);
-expanded the army beyond 100,000 men (1); built warships beyond the limits, approved by the Anglo-German Naval
-Agreement (1). **[2]**
+**2.** Any two, 1 mark each: Germany (1); Japan (1); Italy, which joined in 1937 (1). **[2]**
 
 **3.** Any four, 1 mark each: the war began in July 1936 when Franco's Nationalists rebelled against the Republic (1);
 Germany and Italy supported Franco (1); German aircraft flew Nationalist troops from Morocco (1); the Condor Legion
 fought in Spain (1) and bombed Guernica in 1937 (1); Italy sent tens of thousands of troops (1); both ignored the
 Non-Intervention Committee (1); Germany tested weapons and tactics (1). **[4]**
 
-**4.** Any four, 1 mark each: Austrian Nazis campaigned for union (1); Hitler pressured Chancellor Schuschnigg (1);
-Schuschnigg called a plebiscite on independence (1); Hitler demanded it be cancelled and Schuschnigg resigned (1);
-German troops entered Austria on 12 March 1938 (1); a Nazi-controlled plebiscite in April showed about 99% support for
-union (1); Britain and France protested but did nothing (1); Mussolini did not oppose it this time (1). **[4]**
+**4.** Any four, 1 mark each: Sudeten Germans led by Henlein demanded union with Germany (1); Hitler threatened war (1);
+Chamberlain flew to meet Hitler at Berchtesgaden (1) and agreed in principle to transfer areas with a German majority
+(1); at Bad Godesberg Hitler demanded more and faster (1); war seemed close and Britain prepared defences (1); at
+Munich on 29–30 September Hitler, Chamberlain, Daladier and Mussolini agreed the transfer of the Sudetenland (1);
+Czechoslovakia was not invited (1). **[4]**
 
 **5.** Any two, 1 mark each: Hitler (1); Chamberlain (1); Daladier (1); Mussolini (1). **[2]**
 

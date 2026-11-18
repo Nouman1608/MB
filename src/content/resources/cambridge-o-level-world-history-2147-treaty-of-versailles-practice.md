@@ -37,13 +37,13 @@ Paper 2 prescribed topic for June 2026.
 
 ## Section A
 
-**1.** Describe Clemenceau's aims at the Paris Peace Conference. **[4]**
+**1.** Describe the terms of the Treaty of Versailles concerning the Rhineland and the Saar. **[4]**
 
 **2.** Identify **two** of Wilson's Fourteen Points. **[2]**
 
 **3.** Describe the territorial terms of the Treaty of Versailles in eastern Europe. **[4]**
 
-**4.** Describe the occupation of the Ruhr in 1923. **[4]**
+**4.** Describe the hyperinflation in Germany in 1923. **[4]**
 
 **5.** Identify **two** violent challenges to the Weimar Republic between 1919 and 1923. **[2]**
 
@@ -82,10 +82,9 @@ your answer. **[6]**
 
 ## Answers
 
-**1.** Any four, 1 mark each: security for France against another German attack (1); a very small German army (1); the
-Rhineland separated from Germany or controlled by France (1); the return of Alsace-Lorraine (1); heavy reparations to
-pay for damage in north-east France (1); revenge for the losses of 1914–18 and of 1870–71 (1); a weakened German
-economy, for example through Saar coal (1). **[4]**
+**1.** Any four, 1 mark each: the Rhineland was demilitarised (1); no German troops or fortifications were allowed there
+(1); Allied troops would occupy it (1) for fifteen years (1); the Saar would be run by the League of Nations (1) for
+fifteen years (1); its coal mines went to France (1); a plebiscite would then decide its future (1). **[4]**
 
 **2.** Any two, 1 mark each: open diplomacy without secret treaties (1); freedom of the seas (1); free trade (1);
 disarmament (1); self-determination for the peoples of Europe (1); an independent Poland with access to the sea (1); a
@@ -96,10 +95,11 @@ separating East Prussia from the rest of Germany (1); Danzig became a free city 
 from Germany (1); a plebiscite was to decide Upper Silesia, part of which went to Poland in 1921 (1); union with
 Austria was forbidden (1). **[4]**
 
-**4.** Any four, 1 mark each: Germany fell behind with reparations payments (1); French and Belgian troops occupied the
-Ruhr in January 1923 (1); they took coal and goods as payment (1); the German government ordered passive resistance
-(1); workers went on strike and were paid by the government (1); the government printed money to pay them, causing
-hyperinflation (1); some Germans were killed or expelled by the occupiers (1). **[4]**
+**4.** Any four, 1 mark each: the government printed money to pay striking workers during the Ruhr occupation (1);
+prices rose at a staggering rate (1); by November 1923 the mark was almost worthless (1); workers were paid more than
+once a day and spent wages at once (1); savings were wiped out, hurting the middle classes (1); people with debts or
+mortgages could pay them off cheaply (1); many blamed the Republic and the Treaty (1); Stresemann introduced the
+Rentenmark in November 1923 (1). **[4]**
 
 **5.** Any two, 1 mark each: the Spartacist rising (January 1919) (1); the Kapp Putsch (March 1920) (1); the murders of
 Erzberger (1921) or Rathenau (1922) (1); the Munich Putsch (November 1923) (1). **[2]**

@@ -47,7 +47,7 @@ was the Paper 2 prescribed topic for November 2024.
 
 **5.** Identify **two** Soviet organisations set up to control Eastern Europe in 1947–49. **[2]**
 
-**6.** Describe the Berlin Airlift. **[4]**
+**6.** Describe the occupation and division of Germany between 1945 and 1948. **[4]**
 
 ## Section B
 
@@ -100,10 +100,11 @@ the policy of containment (1). **[4]**
 
 **5.** Any two, 1 mark each: Cominform (1947) (1); Comecon (1949) (1). **[2]**
 
-**6.** Any four, 1 mark each: Stalin cut road, rail and canal routes to West Berlin in June 1948 (1); the USA and
-Britain flew in supplies (1); food, coal and fuel were carried by aircraft (1); planes landed every few minutes at the
-height of the airlift (1); it lasted almost eleven months (1); the Soviets did not shoot down the planes (1); Stalin
-lifted the blockade in May 1949 (1). **[4]**
+**6.** Any four, 1 mark each: Germany was divided into four zones (1), run by the USA, Britain, France and the USSR (1);
+Berlin, inside the Soviet zone, was also divided into four sectors (1); the USSR took reparations from its zone,
+including factories (1); the Western powers wanted German economic recovery (1); the British and American zones merged
+as Bizonia in 1947 (1), later joined by the French zone (1); a new currency, the Deutschmark, was introduced in the
+Western zones in June 1948 (1). **[4]**
 
 **7.** Levels. Level 4 (6): explains two reasons. Level 3 (4–5): explains one reason; 5 for a developed explanation.
 Level 2 (2–3): identifies or describes reasons. Level 1 (1): general comment. Indicative content: **the common enemy

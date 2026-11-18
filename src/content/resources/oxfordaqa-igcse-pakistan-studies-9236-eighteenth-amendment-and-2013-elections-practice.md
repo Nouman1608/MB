@@ -141,8 +141,8 @@ Pakhtunkhwa; devolution under the 18th Amendment. **[4]**
   such as the Lahore metro bus; Punjab elects the largest number of National Assembly seats.
 - *Leadership:* Nawaz Sharif was an experienced former Prime Minister who promised to end
   load-shedding and revive the economy.
-- *Divided opposition:* PTI drew support from younger and urban voters, but outside Khyber
-  Pakhtunkhwa it took votes from several parties rather than winning many seats. **[6]**
+- *Opposition strongest elsewhere:* PTI attracted many younger and urban voters, but most of the
+  seats it won were in Khyber Pakhtunkhwa, so it did not overturn the PML-N's lead in Punjab. **[6]**
 
 **12.** Mark by the Evaluation (9) levels. Indicative content:
 - *Agree:* the 18th Amendment restored parliamentary democracy, removed the President's dissolution

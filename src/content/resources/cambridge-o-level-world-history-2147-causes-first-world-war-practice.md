@@ -36,7 +36,7 @@ These questions cover key question 1.6 of Cambridge O Level History 2147, "What 
 
 ## Section A
 
-**1.** Describe the Anglo-Japanese Alliance of 1902. **[4]**
+**1.** Describe the effects of the 1902 Anglo-Japanese Alliance on Britain and Russia. **[4]**
 
 **2.** Identify **two** members of the Triple Entente. **[2]**
 
@@ -44,13 +44,13 @@ These questions cover key question 1.6 of Cambridge O Level History 2147, "What 
 
 **4.** Describe the Bosnian Crisis of 1908–09. **[4]**
 
-**5.** Identify **two** results of the Balkan Wars of 1912–13. **[2]**
+**5.** Identify **two** members of the Balkan League that fought the Ottoman Empire in 1912. **[2]**
 
-**6.** Describe the events in Sarajevo on 28 June 1914. **[4]**
+**6.** Describe the July Crisis of 1914 from the blank cheque to Austria-Hungary's declaration of war on Serbia. **[4]**
 
 ## Section B
 
-**7.** Why did Britain abandon its policy of isolation between 1902 and 1907? Explain your answer. **[6]**
+**7.** Why did Britain and Russia settle their differences in 1907? Explain your answer. **[6]**
 
 **8.** Why did the naval race increase tension between Britain and Germany? Explain your answer. **[6]**
 
@@ -80,10 +80,11 @@ your knowledge to explain your answer. **[7]**
 
 ## Answers
 
-**1.** Any four, 1 mark each: signed by Britain and Japan in 1902 (1); each would stay neutral if the other fought one
-enemy in East Asia (1); each would help the other if it faced two enemies (1); it was aimed at protecting interests
-against Russia (1); it ended Britain's "splendid isolation" (1); it let Britain bring warships home to European waters
-(1); Japan used it to enter the war in 1914 (1). **[4]**
+**1.** Any four, 1 mark each: Britain was no longer isolated (1); Japan would protect British interests in East Asia
+against Russia (1); Britain could bring warships home to face the German navy (1); Japan felt secure enough to fight
+Russia in 1904–05 (1), knowing Britain would keep other powers out (1); Russia was defeated (1); Russia turned its
+ambitions back towards the Balkans (1); a weakened Russia seemed less of a threat to Britain, which helped the 1907
+entente (1). **[4]**
 
 **2.** Any two, 1 mark each: Britain (1); France (1); Russia (1). **[2]**
 
@@ -97,22 +98,20 @@ provinces since 1878 (1); Serbia was furious because many Serbs lived there (1);
 conference (1); Germany supported Austria-Hungary firmly (1); Russia, weakened after 1905, had to accept the annexation
 (1); Russia resolved not to be humiliated again and rebuilt its army (1). **[4]**
 
-**5.** Any two, 1 mark each: the Ottoman Empire lost nearly all its European land (1); Serbia nearly doubled in size
-(1); an independent Albania was created, blocking Serbia from the sea (1); Bulgaria lost land in the second war and
-resented it (1); Austria-Hungary became more alarmed by Serbia (1). **[2]**
+**5.** Any two, 1 mark each: Serbia (1); Bulgaria (1); Greece (1); Montenegro (1). **[2]**
 
-**6.** Any four, 1 mark each: Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, visited Sarajevo with his
-wife Sophie (1); a bomb was thrown at their car but missed it (1); later the car took a wrong turn (1); Gavrilo
-Princip shot both of them dead (1); Princip was a Bosnian Serb (1); the conspirators had been armed by the Black Hand
-(1). **[4]**
+**6.** Any four, 1 mark each: on 5–6 July Germany promised Austria-Hungary unconditional support, the "blank cheque" (1);
+Austria-Hungary blamed Serbia for the assassination (1); on 23 July it sent Serbia an ultimatum (1) with a 48-hour
+deadline (1); the demands were designed to be rejected, including Austrian involvement in the investigation inside
+Serbia (1); Serbia accepted almost all the terms (1) but not every one (1); Austria-Hungary declared war on Serbia on 28
+July (1). **[4]**
 
 **7.** Levels. Level 4 (6): explains two reasons. Level 3 (4–5): explains one reason; 5 for a developed explanation.
-Level 2 (2–3): identifies or describes reasons. Level 1 (1): general comment. Indicative content: **the Boer War**
-showed Britain had no friends and that most of Europe was hostile; **the threat to British interests in Asia** from
-Russia led to the Japanese alliance in 1902; **the growth of the German navy** after 1898 made Britain look for
-partners so that it could concentrate its fleet; **German behaviour** such as the Kruger telegram and the Tangier visit
-pushed Britain towards France; **settling colonial quarrels** with France (1904) and Russia (1907) removed old rivalries.
-**[6]**
+Level 2 (2–3): identifies or describes reasons. Level 1 (1): general comment. Indicative content: **Russia's defeat by
+Japan** (1904–05) and the 1905 revolution made Russia weaker and less threatening to British India and East Asia;
+**fear of Germany**: both saw the growing German navy and Weltpolitik as a greater danger than each other; **France
+linked them**: France was allied to Russia and had settled with Britain in 1904, so it encouraged agreement; **the
+1907 convention settled old disputes** over Persia, Afghanistan and Tibet, removing the reasons for rivalry. **[6]**
 
 **8.** Levels as Question 7. Indicative content: **Britain's security depended on its navy**, so any rival fleet in the
 North Sea was seen as a direct threat to the island and its trade; **the Navy Laws of 1898 and 1900** suggested Germany

@@ -40,13 +40,13 @@ These questions cover section 3.6.4 Analysing the financial performance of a bus
 
 **4.** Explain the difference between an asset and a liability. **[2]**
 
-**5.** Nanjizal Nurseries has sales revenue of £96,000 and gross profit of £38,400. Calculate its gross profit margin. **[2]**
+**5.** Nanzell Nurseries has sales revenue of £96,000 and gross profit of £38,400. Calculate its gross profit margin. **[2]**
 
 **6.** Explain **one** reason why a supplier might look at a business's financial statements. **[2]**
 
 ### Section B: structured and extended questions
 
-**7.** Penhale Pets has the following figures.
+**7.** Penharrow Pets has the following figures.
 
 | £ | This year | Last year |
 |---|---|---|
@@ -57,24 +57,24 @@ These questions cover section 3.6.4 Analysing the financial performance of a bus
 **(a)** Calculate gross profit and net profit for each year. **[4]**
 **(b)** Calculate the gross profit margin and net profit margin for each year. **[4]**
 
-**8.** Using your answers to Question 7, analyse what has happened to Penhale Pets' financial performance. **[6]**
+**8.** Using your answers to Question 7, analyse what has happened to Penharrow Pets' financial performance. **[6]**
 
 **9.** Classify each of the following as a non-current asset, current asset, current liability or non-current liability: a delivery van; money owed by customers; a ten-year mortgage; an overdraft. **[4]**
 
-**10.** Trewidden Tech's net profit margin is 8%. Its main competitor's is 13%. Explain **one** possible reason for the difference. **[3]**
+**10.** Trewell Tech's net profit margin is 8%. Its main competitor's is 13%. Explain **one** possible reason for the difference. **[3]**
 
 **11.** Explain why a statement of financial position is described as a snapshot. **[2]**
 
-**12.** Lamorna Lighting's figures for the year:
+**12.** Lamorvel Lighting's figures for the year:
 
-| | Lamorna Lighting | Main competitor |
+| | Lamorvel Lighting | Main competitor |
 |---|---|---|
 | Sales revenue | £600,000 | £900,000 |
 | Gross profit margin | 48% | 40% |
 | Net profit margin | 9% | 12% |
 | Net profit last year | £66,000 | £99,000 |
 
-Lamorna's net profit this year is £54,000. The owner wants to apply for a bank loan to open a second shop. Evaluate Lamorna Lighting's financial performance from the bank's point of view. **[9]**
+Lamorvel's net profit this year is £54,000. The owner wants to apply for a bank loan to open a second shop. Evaluate Lamorvel Lighting's financial performance from the bank's point of view. **[9]**
 
 ## Answers
 
@@ -93,18 +93,18 @@ Lamorna's net profit this year is £54,000. The owner wants to apply for a bank 
 **7. (a)** This year: gross profit £250,000 − £162,500 = **£87,500** [1]; net profit £87,500 − £57,500 = **£30,000** [1]. Last year: gross profit £220,000 − £132,000 = **£88,000** [1]; net profit £88,000 − £66,000 = **£22,000** [1]. **[4]**
 **(b)** This year: gross margin £87,500 ÷ £250,000 × 100 = **35%** [1]; net margin £30,000 ÷ £250,000 × 100 = **12%** [1]. Last year: gross margin £88,000 ÷ £220,000 × 100 = **40%** [1]; net margin £22,000 ÷ £220,000 × 100 = **10%** [1]. **[4]**
 
-**8.** Revenue rose by £30,000 [1], but gross margin fell from 40% to 35% [1], so cost of sales grew faster than revenue, perhaps because suppliers raised prices or Penhale cut its own prices [1]. Expenses fell from £66,000 to £57,500 [1], so net profit rose from £22,000 to £30,000 and net margin improved from 10% to 12% [1]. Overall performance improved, but the falling gross margin is a warning: Penhale should look for cheaper supplies, as expenses cannot be cut indefinitely [1]. **[6]**
+**8.** Revenue rose by £30,000 [1], but gross margin fell from 40% to 35% [1], so cost of sales grew faster than revenue, perhaps because suppliers raised prices or Penharrow cut its own prices [1]. Expenses fell from £66,000 to £57,500 [1], so net profit rose from £22,000 to £30,000 and net margin improved from 10% to 12% [1]. Overall performance improved, but the falling gross margin is a warning: Penharrow should look for cheaper supplies, as expenses cannot be cut indefinitely [1]. **[6]**
 
 **9.** Delivery van: non-current asset [1]. Money owed by customers (receivables): current asset [1]. Ten-year mortgage: non-current liability [1]. Overdraft: current liability [1]. **[4]**
 
-**10.** Trewidden's expenses may be higher as a share of sales, for example higher rent or more staff [1], so less of each pound of revenue remains as net profit [1]: 8p in each £1 compared with 13p for the competitor [1]. Also accept higher cost of sales or lower prices, with development. **[3]**
+**10.** Trewell's expenses may be higher as a share of sales, for example higher rent or more staff [1], so less of each pound of revenue remains as net profit [1]: 8p in each £1 compared with 13p for the competitor [1]. Also accept higher cost of sales or lower prices, with development. **[3]**
 
 **11.** It shows the business's assets, liabilities and equity on one particular date [1], rather than over a period like the income statement, so figures such as cash may be different a day later [1]. **[2]**
 
 **12.** Knowledge: a bank wants to know whether a loan can be repaid out of profit [1].
-Application: Lamorna's net profit fell from £66,000 to £54,000 [1], while the competitor's rose from £99,000 to £108,000 (12% of £900,000) [1].
-Analysis: Lamorna's gross margin of 48% is higher than the competitor's 40%, so it earns good profit on each sale before expenses [1]; but its net margin of 9% is lower than the competitor's 12%, so its expenses are high relative to sales [1]; falling net profit means less is available to make loan repayments [1].
-Evaluation: the bank needs the statement of financial position as well, to see existing debts and assets for security [1]; a second shop would add expenses, which are already Lamorna's weakness [1]. Judgement: the bank is likely to be cautious, because profit is falling and expenses are high, although the strong gross margin shows the products sell profitably; it may lend if the owner shows a plan to control expenses [1]. **[9]**
+Application: Lamorvel's net profit fell from £66,000 to £54,000 [1], while the competitor's rose from £99,000 to £108,000 (12% of £900,000) [1].
+Analysis: Lamorvel's gross margin of 48% is higher than the competitor's 40%, so it earns good profit on each sale before expenses [1]; but its net margin of 9% is lower than the competitor's 12%, so its expenses are high relative to sales [1]; falling net profit means less is available to make loan repayments [1].
+Evaluation: the bank needs the statement of financial position as well, to see existing debts and assets for security [1]; a second shop would add expenses, which are already Lamorvel's weakness [1]. Judgement: the bank is likely to be cautious, because profit is falling and expenses are high, although the strong gross margin shows the products sell profitably; it may lend if the owner shows a plan to control expenses [1]. **[9]**
 *Examiner insight:* Using the competitor and last year's figures, and stating the bank's concern about repayment, separates evaluation from description.
 
 ## Where marks are usually lost
