@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "external-influences-on-business-activity"
     subtopic: "business-and-the-international-economy"
-description: "Study guide to globalisation, tariffs and quotas, multinationals and exchange rate changes for Cambridge O Level Business 7115, with reasoning chains and model answers."
+description: "Study guide to globalisation, tariffs and quotas, multinationals and exchange rate changes for Cambridge O Level Business 7115, with model answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

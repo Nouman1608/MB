@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "what-is-business-aqa-alevel-business"
     subtopic: "different-business-forms-aqa-alevel-business"
-description: "Study guide to AQA A-level Business 7132 section 3.1.2: choosing and changing business form, shareholders, market capitalisation, share prices and ownership effects."
+description: "Study guide to AQA A-level Business 7132 section 3.1.2: choosing and changing business form, shareholders, market capitalisation and share prices."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

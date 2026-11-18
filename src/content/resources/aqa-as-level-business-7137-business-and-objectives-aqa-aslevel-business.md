@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "what-is-business-managing-marketing-and-finance-aqa-aslevel-business"
     subtopic: "business-and-objectives-aqa-aslevel-business"
-description: "Study guide to AQA AS Business 7137 section 3.1.1: entrepreneurs, business plans, competitiveness, influences on decisions, ethical dilemmas and SMART objectives."
+description: "Study guide to AQA AS Business 7137 section 3.1.1: entrepreneurs, business plans, competitiveness, decision influences, ethics and SMART objectives."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

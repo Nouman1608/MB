@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "external-influences-on-business-activity"
     subtopic: "environmental-and-ethical-issues"
-description: "Study guide to environmental and ethical issues for Cambridge O Level Business 7115: externalities, sustainability, pressure groups, legal controls and profit versus ethics."
+description: "Study guide to environmental and ethical issues for Cambridge O Level Business 7115: externalities, sustainability, pressure groups and profit versus ethics."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

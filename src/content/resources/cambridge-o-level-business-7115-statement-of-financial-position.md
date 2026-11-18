@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "financial-information-and-decisions"
     subtopic: "statement-of-financial-position"
-description: "Study guide to the statement of financial position for Cambridge O Level Business 7115: classifying items, comparing two years, financing deductions and selling inventories."
+description: "Study guide to the statement of financial position for Cambridge O Level Business 7115: classifying items, comparing years and selling inventories."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

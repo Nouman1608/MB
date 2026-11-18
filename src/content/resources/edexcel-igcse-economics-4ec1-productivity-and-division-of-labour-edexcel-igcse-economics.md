@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "business-economics-edexcel-igcse-economics"
     subtopic: "productivity-and-division-of-labour-edexcel-igcse-economics"
-description: "Study guide to Edexcel IGCSE Economics 4EC1 section 1.2.2: productivity, what raises it for land, labour and capital, and division of labour for workers and firms."
+description: "Study guide to Edexcel IGCSE Economics 4EC1 section 1.2.2: productivity, how land, labour and capital raise it, and division of labour for workers and firms."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

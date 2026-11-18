@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "financial-information-and-decisions"
     subtopic: "statement-of-financial-position"
-description: "Condensed recall for Cambridge O Level Business 7115 section 5.4: classifying assets and liabilities, four deduction questions, selling inventories and a self-test."
+description: "Condensed recall for Cambridge O Level Business 7115 section 5.4: assets and liabilities, four deduction questions, selling inventories and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

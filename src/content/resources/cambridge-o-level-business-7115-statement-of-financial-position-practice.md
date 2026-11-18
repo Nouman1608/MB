@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "financial-information-and-decisions"
     subtopic: "statement-of-financial-position"
-description: "Original practice questions with full answers on classifying assets and liabilities and interpreting statements of financial position for Cambridge O Level Business 7115."
+description: "Original practice questions with full answers on classifying and interpreting statements of financial position for Cambridge O Level Business 7115."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

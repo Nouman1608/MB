@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "what-is-business-aqa-alevel-business"
     subtopic: "different-business-forms-aqa-alevel-business"
-description: "Condensed recall for AQA A-level Business 7132 section 3.1.2: business forms, liability, changing form, shareholders, share prices, ownership effects and a self-test."
+description: "Condensed recall for AQA A-level Business 7132 section 3.1.2: business forms, liability, changing form, shareholders, share prices and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

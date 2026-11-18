@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "external-influences-on-business-activity"
     subtopic: "business-and-the-international-economy"
-description: "Condensed recall for Cambridge O Level Business 7115 section 6.3: globalisation, tariffs and quotas, multinationals, exchange rate effects and a 12-question self-test."
+description: "Condensed recall for Cambridge O Level Business 7115 section 6.3: globalisation, tariffs and quotas, multinationals, exchange rates and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

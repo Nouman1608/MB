@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "operations-management"
     subtopic: "location-decisions"
-description: "Study guide to location and relocation decisions for Cambridge O Level Business 7115: factor weighting, country choice, legal controls and justified recommendations."
+description: "Study guide to location and relocation decisions for Cambridge O Level Business 7115: weighting factors, country choice, legal controls and recommendations."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

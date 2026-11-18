@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "financial-information-and-decisions"
     subtopic: "income-statements"
-description: "Study guide to income statements for Cambridge O Level Business 7115: how profit is made, profit versus cash, reading two years of figures and profit-based decisions."
+description: "Study guide to income statements for Cambridge O Level Business 7115: how profit is made, profit versus cash, comparing years and profit-based decisions."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

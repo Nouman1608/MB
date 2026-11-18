@@ -114,7 +114,7 @@ Related: the [4.1 study guide](/resources/cambridge-a-level-mathematics-9709-for
 
 **10.** cos α = 0.8, sin α = 0.6. Perpendicular: R = 10m(0.8) + 30(0.6) [1] = 8m + 18 [1]. About to slip down, so friction acts up the plane [1]. Along: 30(0.8) + 0.2(8m + 18) = 10m(0.6) [1]. 24 + 1.6m + 3.6 = 6m, so 4.4m = 27.6 [1]. **m = 6.27** [1]
 
-**11.** **(a)** P balances the resultant of the other two: P = √(20² + 15²) = **25 N** [1+1 for method and value: [1] for the method, [1] for 25]. Direction: opposite to the resultant, at tan⁻¹(15/20) = **36.9° below the negative x-direction** [1]
+**11.** **(a)** P balances the resultant of the other two: P = √(20² + 15²) [1] = **25 N** [1]. Direction: opposite to the resultant, at tan⁻¹(15/20) = **36.9° below the negative x-direction** [1]
 
 **(b)** The remaining forces must have the resultant that balanced the 15 N force, so the resultant is **15 N** [1] in the **negative y-direction** [1]
 

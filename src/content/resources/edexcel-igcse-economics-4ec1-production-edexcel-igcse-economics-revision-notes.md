@@ -100,6 +100,14 @@ These notes condense section 1.2.1, Production, of the Pearson Edexcel Internati
 - Read whether the data are for employment or output.
 - Developed economies still have a primary sector; it is just small.
 
+## Command words
+
+- **Define / What is meant by:** two parts, such as "natural resources" and "used in production" for land.
+- **Identify / State:** name the factor or sector exactly; no explanation is needed.
+- **Calculate:** multiply shares by total employment to get numbers; label percentage points.
+- **Explain:** a cause of structural change plus two linked developments.
+- **Assess:** weigh the usual pattern against an exception, using the data, and reach a judgement.
+
 ## Quick self-test
 
 1. Name the four factors of production.
