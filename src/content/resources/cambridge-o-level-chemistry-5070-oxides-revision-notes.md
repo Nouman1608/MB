@@ -80,7 +80,7 @@ Water is the second product every time.
 
 - Group I and Group II metals: basic oxides; their oxides dissolve in water to give alkaline solutions (e.g. Na₂O, CaO).
 - Transition metals: basic oxides, usually insoluble (e.g. CuO).
-- Non-metals in Groups IV to VI: acidic oxides (e.g. CO₂, SiO₂, SO₂).
+- Non-metals in Groups IV to VI: generally acidic oxides (e.g. CO₂, SiO₂, SO₂).
 - Aluminium (Group III) and zinc: amphoteric.
 
 ## Period 3 pattern
@@ -113,6 +113,7 @@ If it dissolves in water, universal indicator gives a quick extra clue: pH above
 - Aluminium oxide is Al₂O₃: reacting with hydrochloric acid needs **6**HCl.
 - Only Al₂O₃ and ZnO are required as amphoteric examples; don't add others.
 - Acidic oxides react with **bases**, not with acids; basic oxides react with **acids**, not with alkalis.
+- Calcium oxide is basic and also forms an alkali in water; copper(II) oxide is basic but forms no alkali. Both are bases.
 - When classifying from test results, use both tests: "dissolves in acid" alone cannot separate basic from amphoteric.
 
 ## Self-test

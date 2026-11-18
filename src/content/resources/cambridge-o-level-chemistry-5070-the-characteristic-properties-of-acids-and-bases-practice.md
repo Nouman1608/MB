@@ -160,4 +160,4 @@ Before moving on from any equation question, run three checks:
 
 1. **Atoms:** count each element on both sides. In Question 7(b), 2Al + 6HCl → 2AlCl₃ + 3H₂ has 2 Al, 6 H and 6 Cl on each side.
 2. **Charges:** in an ionic equation the total charge must match. In Question 7(c), the left has 2+ (from 2H⁺) and the right has 2+ (from Ca²⁺).
-3. **Arrows and states:** a single arrow for a strong acid's dissociation, ⇌ for a weak acid; (aq) for dissolved ions, (s) for solids, (l) for water and (g) for gases.
+3. **Arrows and states:** the arrow type is itself a marking point in dissociation questions. Use a single arrow for a strong acid's dissociation, ⇌ for a weak acid; (aq) for dissolved ions, (s) for solids, (l) for water and (g) for gases.

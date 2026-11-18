@@ -113,6 +113,7 @@ Heat to constant mass to remove all the water.
 - "Evaporate to dryness" loses the mark for a hydrated salt.
 - In titration, repeating without indicator is a separate marking point.
 - Both reagents for precipitation must be soluble: you cannot start from silver chloride.
+- With a metal or carbonate, "until fizzing stops" is the observation that shows the acid has been used up.
 
 ## Self-test
 
