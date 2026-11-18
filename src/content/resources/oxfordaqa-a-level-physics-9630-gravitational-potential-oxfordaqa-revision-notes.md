@@ -74,6 +74,13 @@ Data: G = 6.67 × 10⁻¹¹ N m² kg⁻²; GM(Earth) = 3.98 × 10¹⁴ N m² kg�
 - Equal steps of ΔV are further apart further out, because the field is weaker.
 - Near the surface (uniform field) they are horizontal planes, equally spaced.
 
+## Method: work done between two radii
+
+1. Find V at each radius with V = −GM/r, keeping the minus signs.
+2. ΔV = V(final) − V(initial). Moving outwards, ΔV is positive.
+3. ΔW = mΔV. A positive answer is work done against the field; a negative one is work done by the field.
+4. Check the size: it should be less than mgh calculated with the surface value of g, because g falls with height.
+
 ## Quick reminders with numbers
 
 - V at the Earth's surface: −6.25 × 10⁷ J kg⁻¹.
