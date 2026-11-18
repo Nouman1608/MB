@@ -68,6 +68,13 @@ Adding a constant moves the centre only. Multiplying scales everything, includin
 - New mean when a value v is added: (nx̄ + v)/(n + 1).
 - Unknown frequency or value: write Σfx and Σf in terms of the unknown and solve Σfx/Σf = mean.
 
+## Worked reminder: median of a frequency table
+
+For x = 0, 1, 2, 3 with frequencies 5, 8, 6, 2 (n = 21), the cumulative frequencies are 5, 13, 19, 21. The
+median is the 11th value, which falls in the block of values with cumulative frequency up to 13, so the
+median is 1. The mode is also 1 here, but that is a coincidence: always locate the median's position
+first.
+
 ## Key terms
 
 | Term | Meaning |

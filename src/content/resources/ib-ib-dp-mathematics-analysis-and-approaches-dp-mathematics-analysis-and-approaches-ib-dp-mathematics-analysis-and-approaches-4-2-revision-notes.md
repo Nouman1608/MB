@@ -64,6 +64,12 @@ Linear interpolation (straight segments) for a value inside a class:
 value ≈ lower boundary + (target CF − CF before class) / (class frequency) × class width
 ```
 
+## Worked reminder: interpolation
+
+Sixty values; the class 20 ≤ x < 30 has frequency 18 and the cumulative frequency before it is 24. The
+median (30th value) is about 20 + (30 − 24)/18 × 10 ≈ 23.3. The 50th percentile and the median are the
+same thing, and Q₁ and Q₃ are the 25th and 75th percentiles.
+
 ## Box and whisker diagrams
 
 - Five-number summary: minimum, Q₁, median, Q₃, maximum.
