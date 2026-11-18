@@ -80,6 +80,14 @@ D: Air
 **(a)** Which sample is a mixture? **[1]**
 **(b)** Explain your answer. **[1]**
 
+**13.** State whether each statement is true or false, and give a reason.
+
+**(a)** "All molecules are compounds." **[1]**
+**(b)** "A mixture can contain compounds." **[1]**
+**(c)** "A compound has the same properties as the elements it is made from." **[1]**
+
+**14.** Explain why the composition of sea water is described as variable, while the composition of pure water is fixed. **[2]**
+
 ---
 
 ## Answers
@@ -129,6 +137,16 @@ First reason [1]; second reason [1].
 **12. (a)** Sample B [1].
 
 **(b)** A mixture melts over a range of temperatures, while a pure substance has a sharp melting point [1]. **[2]**
+
+**13. (a)** False: molecules of elements, such as O₂ or N₂, contain only one type of atom, so they are not compounds [1].
+
+**(b)** True: sea water, for example, contains water and dissolved salts, which are compounds that are not chemically combined with each other [1].
+
+**(c)** False: a compound has new properties; sodium chloride is not a reactive metal or a toxic gas [1]. **[3]**
+
+**14.** Sea water is a mixture, so the amount of dissolved salt can differ from one sample to another [1]. Pure water is a compound, so hydrogen and oxygen are always combined in the same ratio, H₂O [1].
+
+*Examiner insight:* in "true or false" questions the mark is for the reason, so always add an example or a property.
 
 ---
 

@@ -110,6 +110,7 @@ The choice in step 2 depends on which product the question asks for.
 - Simple distillation cannot separate two liquids with close boiling points; use **fractional**.
 - Impurities **lower** the melting point and **raise** the boiling point; both become a **range**.
 - "Explain" needs the **property**: solubility, particle size or boiling point.
+- A fraction or distillate collected over a **temperature range** is not a single pure liquid.
 
 ## Self-test
 

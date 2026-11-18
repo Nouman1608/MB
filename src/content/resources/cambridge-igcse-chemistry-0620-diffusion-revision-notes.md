@@ -89,6 +89,8 @@ Fastest at the top, slowest at the bottom.
 
 ## Temperature
 
+Diffusion is an example of kinetic particle theory in action, so the same particle reasoning that explains gas pressure and changes of state also explains why smells and colours spread.
+
 Higher temperature → particles have more kinetic energy → move faster → faster diffusion.
 
 ## Model answer: the tube experiment *(Extended only)*

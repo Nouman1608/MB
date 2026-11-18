@@ -93,6 +93,14 @@ Experiment Y: 22 °C before mixing, 17 °C after.
 
 **13.** *(Supplement)* A student states: "Reactions with a large activation energy are always endothermic." Explain why this is wrong. **[2]**
 
+**14.** *(Supplement)* On a reaction pathway diagram for a reaction, the reactants are at an energy of 50 kJ/mol, the top of the hump is at 180 kJ/mol and the products are at 120 kJ/mol.
+
+**(a)** Calculate the activation energy. **[1]**
+
+**(b)** Calculate ΔH, giving its sign. **[1]**
+
+**(c)** State whether the reaction is exothermic or endothermic. **[1]**
+
 ---
 
 ## Answers
@@ -140,6 +148,14 @@ Experiment Y: 22 °C before mixing, 17 °C after.
 **(b)** The student calculated **bonds made − bonds broken**, reversing the subtraction [1].
 
 **13.** Activation energy is the energy **needed to start** the reaction, and every reaction has one [1]. Whether a reaction is exothermic or endothermic depends on **ΔH** — the energy of the products compared with the reactants — not on Ea [1].
+
+**14.**
+
+**(a)** Ea = 180 − 50 = **130 kJ/mol** (measured from the reactants to the peak) [1].
+
+**(b)** ΔH = 120 − 50 = **+70 kJ/mol** [1].
+
+**(c)** **Endothermic** — the products are higher in energy than the reactants [1].
 
 ---
 

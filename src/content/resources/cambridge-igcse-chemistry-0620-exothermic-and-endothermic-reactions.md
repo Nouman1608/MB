@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "chemical-energetics"
     subtopic: "exothermic-and-endothermic-reactions"
-description: "Energy transfer in reactions for Cambridge IGCSE 0620: temperature changes, reaction pathway diagrams, ΔH and Ea, and multi-bond energy calculations worked through."
+description: "Energy changes for Cambridge IGCSE 0620: temperature changes, reaction pathway diagrams, ΔH, Ea and bond energy calculations with double bonds, worked through."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -179,6 +179,20 @@ water: reversing a reaction reverses the sign of ΔH.
   bonds, and say which is larger.
 - **Calculate**: show the bonds broken and made separately, then the subtraction with the
   sign and units.
+
+## Frequently asked questions
+
+**Do Core candidates need to draw pathway diagrams?**
+Core candidates interpret them: deciding from a given diagram whether a reaction is
+exothermic or endothermic. Drawing and labelling with ΔH and Ea is Supplement.
+
+**Does a reaction that needs heating to start have to be endothermic?**
+No. Many exothermic reactions, such as burning methane, need a flame or spark to supply the
+activation energy, then give out far more energy than they took in. A reaction is
+endothermic only if it keeps taking in energy overall.
+
+**Will bond energies be given in the exam?**
+Bond energy values are supplied in the question; you are not expected to memorise them.
 
 ## Related pages
 

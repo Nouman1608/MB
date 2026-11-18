@@ -107,14 +107,16 @@ Use the same four lines every time:
 4  divide, then round the final answer only
 ```
 
-Example with three isotopes: 92.2% of mass 28, 4.7% of mass 29, 3.1% of mass 30.
+Example with three isotopes of an invented element X: 60% of mass 50, 30% of mass 52, 10% of mass 53.
 
 ```
-1  92.2 + 4.7 + 3.1 = 100
-2  Aᵣ = (28 × 92.2 + 29 × 4.7 + 30 × 3.1) ÷ 100
-3  2581.6 + 136.3 + 93 = 2810.9
-4  2810.9 ÷ 100 = 28.109 = 28.1
+1  60 + 30 + 10 = 100
+2  Aᵣ = (50 × 60 + 52 × 30 + 53 × 10) ÷ 100
+3  3000 + 1560 + 530 = 5090
+4  5090 ÷ 100 = 50.9
 ```
+
+Sense check: 50.9 lies between 50 and 53 and is nearest 50, the most abundant isotope. If your answer falls outside the range of the isotope masses, an abundance or a multiplication has gone wrong.
 
 ## Exam traps
 
