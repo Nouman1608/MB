@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "atomic-structure-aqa-gcse"
     subtopic: "atoms-and-isotopes-aqa"
-description: "AQA GCSE Physics 4.4.1 in depth: atomic size, energy levels, nuclear notation, isotopes and ions, and how the alpha scattering evidence changed the atomic model."
+description: "AQA GCSE Physics 4.4.1 in depth: atomic size, energy levels, nuclear notation, isotopes, ions and how alpha scattering changed the atomic model."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

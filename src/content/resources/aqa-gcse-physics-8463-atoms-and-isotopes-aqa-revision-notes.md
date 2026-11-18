@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "atomic-structure-aqa-gcse"
     subtopic: "atoms-and-isotopes-aqa"
-description: "Condensed AQA GCSE Physics 4.4.1 notes: atom and nucleus sizes, energy levels, nuclear notation, isotopes, ions and the history of the atomic model, with a self-test."
+description: "Condensed AQA GCSE Physics 4.4.1 notes: atom and nucleus sizes, energy levels, nuclear notation, isotopes, ions and the atomic model, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

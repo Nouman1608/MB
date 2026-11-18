@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "particle-model-of-matter-aqa-gcse"
     subtopic: "changes-of-state-and-the-particle-model"
-description: "Twelve original AQA GCSE Physics 4.3.1 questions on density, particle arrangements, required practical 5 and conservation of mass in changes of state, with answers."
+description: "Twelve original AQA GCSE Physics 4.3.1 questions on density, particle arrangements, required practical 5 and conservation of mass, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

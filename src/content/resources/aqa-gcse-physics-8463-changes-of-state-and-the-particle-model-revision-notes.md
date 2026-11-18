@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "particle-model-of-matter-aqa-gcse"
     subtopic: "changes-of-state-and-the-particle-model"
-description: "Condensed AQA GCSE Physics 4.3.1 notes: ρ = m/V, unit conversions, particle diagrams, required practical 5, the six changes of state and a 12-question self-test."
+description: "Condensed AQA GCSE Physics 4.3.1 notes: ρ = m/V, unit conversions, particle diagrams, required practical 5, the six changes of state and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

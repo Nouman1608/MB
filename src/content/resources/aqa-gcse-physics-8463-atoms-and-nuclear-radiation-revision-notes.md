@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "atomic-structure-aqa-gcse"
     subtopic: "atoms-and-nuclear-radiation"
-description: "Condensed AQA GCSE Physics 4.4.2 notes: alpha, beta, gamma and neutrons, activity, nuclear equations, half-life, contamination and irradiation, with a self-test."
+description: "Condensed AQA GCSE Physics 4.4.2 notes: alpha, beta, gamma, neutrons, activity, nuclear equations, half-life, contamination and irradiation, self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

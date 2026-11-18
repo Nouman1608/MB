@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "atomic-structure-aqa-gcse"
     subtopic: "atoms-and-isotopes-aqa"
-description: "Thirteen original AQA GCSE Physics 4.4.1 questions on atomic structure, energy levels, isotopes, ions and the development of the atomic model, with full answers."
+description: "Thirteen original AQA GCSE Physics 4.4.1 questions on atomic structure, energy levels, isotopes, ions and the atomic model's history, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
