@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-price-system-and-the-microeconomy-a-cambridge-alevel-economics"
     subtopic: "efficiency-and-market-failure-cambridge-alevel-economics"
-description: "Condensed notes on Cambridge 9708 section 7.3: productive, allocative and dynamic efficiency, Pareto optimality and the reasons for market failure, with a self-test."
+description: "Condensed notes on Cambridge 9708 section 7.3: productive, allocative and dynamic efficiency, Pareto optimality and why markets fail, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

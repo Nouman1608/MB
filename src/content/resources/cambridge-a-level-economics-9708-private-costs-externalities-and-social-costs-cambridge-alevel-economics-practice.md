@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-price-system-and-the-microeconomy-a-cambridge-alevel-economics"
     subtopic: "private-costs-externalities-and-social-costs-cambridge-alevel-economics"
-description: "Eleven original questions with mark-scheme answers on Cambridge 9708 section 7.4: social costs, externality tables, welfare loss, moral hazard and cost-benefit use."
+description: "Eleven original questions with mark-scheme answers on Cambridge 9708 section 7.4: social costs, externality tables, welfare loss, moral hazard and cost-benefit."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

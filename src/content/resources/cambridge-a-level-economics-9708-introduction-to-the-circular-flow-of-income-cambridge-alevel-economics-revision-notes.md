@@ -66,6 +66,12 @@ Equilibrium:   S + T + M = I + G + X   (open economy)
 
 **Mini example (invented, billion cu).** S 45, T 80, M 65 (leakages 190); I 50, G 85, X 70 (injections 205). Injections exceed leakages by 15, so national income rises.
 
+## Tracing events
+
+- **Export boom:** X rises -> injections > leakages -> firms raise output -> income rises -> S, T and M rise -> new, higher equilibrium.
+- **Tax rise:** T rises -> leakages > injections -> spending falls short -> output and income fall -> leakages fall back -> lower equilibrium.
+- **Higher imports replacing domestic goods:** M rises -> income leaves the domestic flow -> national income falls.
+
 ## Key terms
 
 | Term | Meaning |

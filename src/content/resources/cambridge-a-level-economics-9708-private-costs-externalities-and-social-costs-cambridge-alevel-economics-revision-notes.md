@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-price-system-and-the-microeconomy-a-cambridge-alevel-economics"
     subtopic: "private-costs-externalities-and-social-costs-cambridge-alevel-economics"
-description: "Condensed notes on Cambridge 9708 section 7.4: social costs and benefits, externality types, welfare loss, asymmetric information, moral hazard and cost-benefit use."
+description: "Condensed notes on Cambridge 9708 section 7.4: social costs and benefits, externalities, welfare loss, moral hazard and cost-benefit use, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -71,6 +71,17 @@ Market: MPB = MPC. Optimum: MSB = MSC.
 5. Welfare loss = ½ × gap × difference in quantity (watch the units).
 
 Quick example: market output 50, optimum 40 (thousands); at 50, MSC = 90 and MSB = 60. Loss = ½ × 30 × 10,000 = 150,000.
+
+## Writing an externality chain
+
+Use four steps in every explanation:
+
+1. **Who decides:** the producer or consumer considers only private costs and benefits.
+2. **Who else is affected:** name the third party and the cost or benefit they receive.
+3. **Which curve moves:** MSC above or below MPC, or MSB above or below MPB.
+4. **Result:** market output above or below the optimum, with a welfare-loss triangle.
+
+Example: a nightclub's music keeps residents awake (third party), so MSC lies above MPC, the market supplies too many late-night hours, and a welfare loss results.
 
 ## Over- and under-production
 

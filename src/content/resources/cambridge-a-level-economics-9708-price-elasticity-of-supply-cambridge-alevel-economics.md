@@ -77,11 +77,11 @@ The **size** compares the two percentage changes.
 
 | Value | Term | What the relative percentages show |
 |---|---|---|
-| 0 | Perfectly inelastic | Quantity supplied does not respond at all |
-| Between 0 and 1 | Inelastic | Quantity changes by a smaller percentage than price |
-| 1 | Unitary | Quantity and price change by the same percentage |
-| Greater than 1 | Elastic | Quantity changes by a larger percentage than price |
-| Infinite | Perfectly elastic | Any quantity is supplied at one price; none below it |
+| 0 | Perfectly inelastic | Whatever the price change, output offered stays the same |
+| Between 0 and 1 | Inelastic | A 1% price change brings less than a 1% change in output offered |
+| 1 | Unitary | A 1% price change brings exactly a 1% change in output offered |
+| Greater than 1 | Elastic | A 1% price change brings more than a 1% change in output offered |
+| Infinite | Perfectly elastic | Firms will offer any amount at one price, but nothing below it |
 
 The **sign** is normally **positive**, because a higher price makes supplying more worthwhile, so price and quantity supplied move in the same direction. The positive sign is what separates PES from PED, which is normally negative. If you calculate a negative PES for an ordinary product, check your working first: you may have used the wrong base or swapped the numerator and denominator.
 

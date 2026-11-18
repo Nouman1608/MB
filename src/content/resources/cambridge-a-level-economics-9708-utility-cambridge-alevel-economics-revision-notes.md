@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-price-system-and-the-microeconomy-a-cambridge-alevel-economics"
     subtopic: "utility-cambridge-alevel-economics"
-description: "Condensed notes on Cambridge 9708 section 7.1: total and marginal utility, diminishing marginal utility, the equi-marginal principle and demand, with a self-test."
+description: "Condensed notes on Cambridge 9708 section 7.1: total and marginal utility, diminishing marginal utility, the equi-marginal principle, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

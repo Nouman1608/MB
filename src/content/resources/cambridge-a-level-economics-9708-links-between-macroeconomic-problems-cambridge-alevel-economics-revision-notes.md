@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "government-macroeconomic-intervention-a-cambridge-alevel-economics"
     subtopic: "links-between-macroeconomic-problems-cambridge-alevel-economics"
-description: "Condensed notes on Cambridge 9708 section 10.2: links between inflation, exchange rates, growth and the balance of payments, and the Phillips curves, with a self-test."
+description: "Condensed notes on Cambridge 9708 section 10.2: inflation, exchange rates, growth, the current account and the Phillips curves, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "international-economic-issues-cambridge-alevel-economics"
     subtopic: "policies-to-correct-current-account-imbalances-cambridge-alevel-economics"
-description: "Condensed notes on Cambridge 9708 section 6.5: current account stability and the effects of fiscal, monetary, supply-side and protectionist policies, with a self-test."
+description: "Condensed notes on Cambridge 9708 section 6.5: current account stability and the effects of fiscal, monetary, supply-side and protectionist policies."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

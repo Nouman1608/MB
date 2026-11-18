@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "international-economic-issues-cambridge-alevel-economics"
     subtopic: "current-account-of-the-balance-of-payments-cambridge-alevel-economics"
-description: "Eleven original questions with mark-scheme answers on Cambridge 9708 section 6.3: classifying flows, current account sums, causes and consequences of imbalances."
+description: "Eleven original questions with mark-scheme answers on Cambridge 9708 section 6.3: classifying flows, current account sums, and causes and effects of imbalances."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

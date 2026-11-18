@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-price-system-and-the-microeconomy-a-cambridge-alevel-economics"
     subtopic: "indifference-curves-and-budget-lines-cambridge-alevel-economics"
-description: "Eleven original questions with mark-scheme answers on Cambridge 9708 section 7.2: budget lines, indifference curves, income and substitution effects, Giffen goods."
+description: "Eleven original questions with mark-scheme answers on Cambridge 9708 section 7.2: budget lines, income and substitution effects, and Giffen goods."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

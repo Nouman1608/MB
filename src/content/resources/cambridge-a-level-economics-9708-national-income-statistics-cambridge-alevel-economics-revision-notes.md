@@ -70,6 +70,8 @@ NNI at market prices = 452
 NNI at basic prices  = 452 - 55 + 10 = 407
 ```
 
+**Value added mini example (invented).** A miner sells ore for 20 cu, a smelter sells metal for 50 cu and a factory sells tools for 80 cu. Value added = 20 + 30 + 30 = 80 cu, the value of the final tools. Adding all sales (150 cu) double counts.
+
 ## Key terms
 
 | Term | Meaning |
