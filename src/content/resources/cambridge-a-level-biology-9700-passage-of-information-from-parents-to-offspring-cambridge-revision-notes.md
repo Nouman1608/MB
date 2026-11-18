@@ -84,6 +84,16 @@ These notes condense section **16.1 Passage of information from parents to offsp
 
 Number of gamete combinations from independent assortment alone = 2ⁿ (n = number of homologous pairs).
 
+### Meiosis compared with mitosis
+
+| | Meiosis | Mitosis |
+|---|---|---|
+| Divisions | Two | One |
+| Homologous chromosomes pair | Yes, in prophase I | No |
+| Crossing over | Yes | No |
+| Daughter cells | Four, haploid, genetically different | Two, diploid, genetically identical |
+| Role | Producing gametes | Growth, repair, asexual reproduction |
+
 ## Key terms
 
 | Term | Meaning |

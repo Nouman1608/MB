@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "cell-membranes-and-transport-cambridge-alevel-biology"
     subtopic: "fluid-mosaic-membranes-cambridge-alevel-biology"
-description: "Condensed notes for Cambridge 9700 sub-topic 4.1: bilayer formation, component positions and roles, fluidity, permeability data and cell signalling, with a self-test."
+description: "Condensed notes for Cambridge 9700 sub-topic 4.1: bilayer formation, component positions and roles, fluidity, permeability and signalling, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

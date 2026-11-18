@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-mitotic-cell-cycle-cambridge-alevel-biology"
     subtopic: "replication-and-division-of-nuclei-and-cells-cambridge"
-description: "Condensed notes for Cambridge 9700 sub-topic 5.1: chromosome structure, counting, the cell cycle, telomeres, stem cells and tumours, with a 12-question self-test."
+description: "Condensed notes for Cambridge 9700 sub-topic 5.1: chromosome structure, counting, the cell cycle, telomeres, stem cells and tumours, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

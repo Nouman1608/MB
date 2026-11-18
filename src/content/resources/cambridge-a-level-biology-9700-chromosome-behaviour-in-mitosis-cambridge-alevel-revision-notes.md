@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-mitotic-cell-cycle-cambridge-alevel-biology"
     subtopic: "chromosome-behaviour-in-mitosis-cambridge-alevel"
-description: "Condensed notes for Cambridge 9700 sub-topic 5.2: each structure through prophase to telophase, plant and animal differences and identifying stages, with a self-test."
+description: "Condensed notes for Cambridge 9700 sub-topic 5.2: each structure from prophase to telophase, plant and animal cells and identifying stages, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

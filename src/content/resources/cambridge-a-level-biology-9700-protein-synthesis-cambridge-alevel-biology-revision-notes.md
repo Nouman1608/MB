@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "nucleic-acids-and-protein-synthesis-cambridge-alevel"
     subtopic: "protein-synthesis-cambridge-alevel-biology"
-description: "Condensed notes for Cambridge 9700 sub-topic 6.2: genes, the genetic code, transcription, splicing, translation and gene mutations, with a 12-question self-test."
+description: "Condensed notes for Cambridge 9700 sub-topic 6.2: genes, the genetic code, transcription, splicing, translation and gene mutations, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

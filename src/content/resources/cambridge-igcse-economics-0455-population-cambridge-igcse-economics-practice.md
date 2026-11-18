@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "economic-development-cambridge-igcse-economics"
     subtopic: "population-cambridge-igcse-economics"
-description: "Original practice questions with mark-scheme answers on population growth, optimum population, ageing and population pyramids, for Cambridge IGCSE Economics 0455."
+description: "Original practice questions with mark-scheme answers on population growth, optimum population, ageing and pyramids, for Cambridge IGCSE Economics 0455."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

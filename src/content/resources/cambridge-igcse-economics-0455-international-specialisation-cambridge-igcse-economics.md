@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "international-trade-and-globalisation-cambridge-igcse-economics"
     subtopic: "international-specialisation-cambridge-igcse-economics"
-description: "In-depth guide to international specialisation for Cambridge IGCSE Economics 0455: why countries specialise and the gains and risks for consumers, firms and economies."
+description: "In-depth guide to international specialisation for Cambridge IGCSE Economics 0455: why countries specialise, and the gains and risks for each group."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

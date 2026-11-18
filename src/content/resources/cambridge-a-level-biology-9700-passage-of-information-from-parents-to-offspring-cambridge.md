@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "inheritance-cambridge-alevel-biology"
     subtopic: "passage-of-information-from-parents-to-offspring-cambridge"
-description: "A deep guide to 9700 section 16.1: haploid and diploid, homologous pairs, meiosis stage by stage, identifying stages in images, and sources of genetic variation."
+description: "A deep guide to 9700 section 16.1: haploid and diploid, homologous pairs, meiosis stage by stage, identifying stages in images, and sources of variation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

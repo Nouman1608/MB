@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "nucleic-acids-and-protein-synthesis-cambridge-alevel"
     subtopic: "structure-of-nucleic-acids-and-replication-of-dna-cambridge"
-description: "Condensed notes for Cambridge 9700 sub-topic 6.1: nucleotides, ATP, base pairing, antiparallel strands, replication enzymes and lagging strands, with a self-test."
+description: "Condensed notes for Cambridge 9700 sub-topic 6.1: nucleotides, ATP, base pairing, antiparallel strands and DNA replication, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
