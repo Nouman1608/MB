@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-and-materials-aqa-alevel"
     subtopic: "force-energy-and-momentum"
-description: "Study guide to AQA 7408 section 3.4.1: vectors, moments, suvat, projectiles, Newton's laws, momentum and impulse, work, power and energy, with new worked examples."
+description: "Study guide to AQA 7408 section 3.4.1: vectors, moments, suvat, projectiles, Newton's laws, momentum and impulse, work, power and energy."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-mathematics-assessment-criteria"
     subtopic: "ib-myp-mathematics-assessment-criteria-c-communicating"
-description: "How to communicate mathematics for MYP Criterion C: notation, choosing and linking representations, writing reasoning and structuring work, with before-and-after examples."
+description: "How to communicate mathematics for MYP Criterion C: notation, choosing and linking representations, reasoning and structure, with before-and-after examples."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

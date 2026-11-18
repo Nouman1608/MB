@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "particles-and-radiation-aqa-alevel"
     subtopic: "electromagnetic-radiation-and-quantum-phenomena"
-description: "Condensed AQA 7408 notes on section 3.2.2: photoelectric effect, electron collisions, the fluorescent tube, energy levels and de Broglie wavelength, with a self-test."
+description: "Condensed AQA 7408 notes on section 3.2.2: photoelectric effect, electron collisions, the fluorescent tube, energy levels and de Broglie wavelength."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

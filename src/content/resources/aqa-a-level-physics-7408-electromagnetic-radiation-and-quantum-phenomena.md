@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "particles-and-radiation-aqa-alevel"
     subtopic: "electromagnetic-radiation-and-quantum-phenomena"
-description: "Study guide to AQA 7408 section 3.2.2: photoelectric effect, electron collisions, energy levels, line spectra and wave-particle duality, with worked calculations."
+description: "Study guide to AQA 7408 section 3.2.2: photoelectric effect, electron collisions, energy levels, line spectra and wave-particle duality, with worked examples."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "particles-and-radiation-aqa-alevel"
     subtopic: "particles-aqa-alevel"
-description: "Study guide to AQA 7408 section 3.2.1 Particles: specific charge, nuclear stability, antimatter, exchange particles, classification, quarks and conservation checks."
+description: "Study guide to AQA 7408 section 3.2.1 Particles: specific charge, nuclear stability, antimatter, exchange particles, quarks and conservation law checks."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

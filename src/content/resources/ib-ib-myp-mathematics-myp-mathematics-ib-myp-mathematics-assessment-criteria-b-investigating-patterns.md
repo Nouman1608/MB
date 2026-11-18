@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-mathematics-assessment-criteria"
     subtopic: "ib-myp-mathematics-assessment-criteria-b-investigating-patterns"
-description: "How to run an MYP Mathematics Criterion B investigation: techniques, writing general rules, then verifying, justifying and proving, with three full investigations."
+description: "How to run an MYP Mathematics Criterion B investigation: techniques, writing general rules, and verifying, justifying and proving them, with three examples."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

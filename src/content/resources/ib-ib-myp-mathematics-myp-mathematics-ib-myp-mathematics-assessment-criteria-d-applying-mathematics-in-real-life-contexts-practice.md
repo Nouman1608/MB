@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-mathematics-assessment-criteria"
     subtopic: "ib-myp-mathematics-assessment-criteria-d-applying-mathematics-in-real-life-contexts"
-description: "Original Criterion D practice for IB MYP Mathematics: real-life problems on costs, tiling, savings and heights, with accuracy and sense-checking in every answer."
+description: "Original Criterion D practice for IB MYP Mathematics: real-life problems on costs, tiling, savings and heights, with accuracy and sense checks in each answer."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

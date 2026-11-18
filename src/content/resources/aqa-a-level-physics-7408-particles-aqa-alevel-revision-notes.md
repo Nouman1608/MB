@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "particles-and-radiation-aqa-alevel"
     subtopic: "particles-aqa-alevel"
-description: "Condensed AQA 7408 notes on section 3.2.1 Particles: specific charge, decays, antiparticles, interactions, classification, quarks, conservation laws and a self-test."
+description: "Condensed AQA 7408 notes on section 3.2.1 Particles: specific charge, decays, antiparticles, interactions, quarks, conservation laws and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

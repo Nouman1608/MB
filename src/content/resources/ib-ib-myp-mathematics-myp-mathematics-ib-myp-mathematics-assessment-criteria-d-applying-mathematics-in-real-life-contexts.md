@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-mathematics-assessment-criteria"
     subtopic: "ib-myp-mathematics-assessment-criteria-d-applying-mathematics-in-real-life-contexts"
-description: "How to tackle MYP Mathematics Criterion D real-life tasks: identifying elements, choosing strategies, justifying accuracy and judging whether a solution makes sense."
+description: "How to tackle MYP Mathematics Criterion D real-life tasks: identifying elements, choosing strategies, justifying accuracy and judging if answers make sense."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

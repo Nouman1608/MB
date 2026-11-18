@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "particles-and-radiation-aqa-alevel"
     subtopic: "electromagnetic-radiation-and-quantum-phenomena"
-description: "Original AQA 7408 practice on section 3.2.2: photoelectric calculations and graphs, electron collisions, energy levels, the fluorescent tube and de Broglie wavelength."
+description: "Original AQA 7408 practice on section 3.2.2: photoelectric calculations and graphs, electron collisions, energy levels and the de Broglie wavelength."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

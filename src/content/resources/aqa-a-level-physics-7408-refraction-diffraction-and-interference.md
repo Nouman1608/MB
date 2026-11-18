@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "waves-aqa-alevel"
     subtopic: "refraction-diffraction-and-interference"
-description: "Study guide to AQA 7408 section 3.3.2: path difference, coherence, Young's slits, single-slit diffraction, gratings, refraction, critical angle and optical fibres."
+description: "Study guide to AQA 7408 section 3.3.2: path difference, coherence, Young's slits, single-slit diffraction, gratings, refraction and optical fibres."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

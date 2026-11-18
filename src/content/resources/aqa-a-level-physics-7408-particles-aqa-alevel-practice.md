@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "particles-and-radiation-aqa-alevel"
     subtopic: "particles-aqa-alevel"
-description: "Original AQA 7408 practice on section 3.2.1 Particles: specific charge, decay equations, pair production, exchange particles, quarks and conservation law checks."
+description: "Original AQA 7408 practice on section 3.2.1 Particles: specific charge, decay equations, pair production, exchange particles, quarks and conservation laws."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

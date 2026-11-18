@@ -98,6 +98,8 @@ Also: balances at one date only; no check on whether amounts are reasonable; yea
 | A balance equals half the difference | That balance in the wrong column |
 | Difference divisible by 9 | Transposed digits |
 
+Worked check: a trial balance shows debits 40,600 and credits 41,500. The difference is 900. If wages of 900 are missing from the debit column, adding them makes both totals 41,500. If instead a debit balance of 450 has been placed in the credit column, moving it lowers credits to 41,050 and raises debits to 41,050.
+
 ## Exam traps
 
 - Closing inventory in the trial balance (only opening inventory, unless told otherwise).
