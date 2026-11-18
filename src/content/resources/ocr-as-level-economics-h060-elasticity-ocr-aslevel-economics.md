@@ -149,7 +149,6 @@ PES = % change in quantity supplied ÷ % change in price. It is positive because
 - Using absolute changes instead of percentage changes.
 - Calling a steep curve "inelastic" everywhere, or confusing slope with elasticity.
 - Saying a price rise always increases revenue.
-- Treating revenue as profit.
 
 ## Exam technique for OCR command words
 
