@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-chemistry-of-transition-elements"
     subtopic: "a-stereoisomerism-in-transition-element-complexes"
-description: "Condensed notes on cis/trans and optical isomers of complexes, bidentate ligands, counting stereoisomers and polarity, with a self-test, for Cambridge 9701 28.4."
+description: "Condensed notes on cis/trans and optical isomers of complexes, bidentate ligands, counting stereoisomers and polarity, with a self-test, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -84,6 +84,16 @@ pair of optical isomers and no cis/trans isomers.
 
 A polar isomer can be expected to be more soluble in a polar solvent such as water than its non-polar
 isomer.
+
+## Complexes compared with organic stereoisomers
+
+| | Organic molecules | Transition element complexes |
+|---|---|---|
+| cis/trans origin | restricted rotation about C=C | fixed positions around the metal (square planar or octahedral) |
+| Optical origin | a chiral carbon with four different groups | the whole complex has no plane of symmetry, often from bidentate ligands |
+| Test for chirality | mirror image not superimposable | mirror image not superimposable |
+
+The language (cis, trans, chiral, enantiomer) is the same; what creates the isomerism is different.
 
 ## Drawing checklist
 
