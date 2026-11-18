@@ -78,7 +78,7 @@ D: The price falls and quantity demanded extends
 
 **(a)** At a price of 65, calculate the shortage. **[2]**
 
-**(b)** State the lowest price at which the number of fans wanting tickets equals the number of tickets, and explain why the club might choose it. **[2]**
+**(b)** State the highest price at which all 4 tickets would still be sold, and explain why the club might choose it. **[2]**
 
 **11.** Analyse how changes in factor markets help to move resources between industries. **[4]**
 
@@ -110,7 +110,7 @@ D: The price falls and quantity demanded extends
 
 **10. (a)** Six fans would pay at least 65 [1]; shortage = 6 − 4 = **2 tickets** [1].
 
-**(b)** **80**: at 80, four fans (120, 95, 90, 80) want tickets, matching the 4 tickets [1]. The club earns the highest price at which all tickets still sell, so no tickets are left unsold and no shortage remains [1]. **[4]**
+**(b)** **80**: at 80, four fans (120, 95, 90, 80) still want tickets, matching the 4 tickets; at any higher price only three would buy [1]. The club earns the highest price at which all tickets still sell, so no tickets are left unsold and no shortage remains [1]. **[4]**
 
 **11.** When an industry expands, firms demand more labour, land and capital [1], so wages, rents and interest offered in that industry rise [1]. Higher rewards attract factors from industries where demand is falling and rewards are lower [1]. The movement of factors means output rises where consumers want more and falls where they want less [1]. **[4]**
 
