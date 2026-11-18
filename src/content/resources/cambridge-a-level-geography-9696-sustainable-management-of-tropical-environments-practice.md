@@ -99,7 +99,7 @@ These questions cover **7.4 Sustainable management of tropical environments** fr
 
 *Agree:* where people gain income from conservation, they protect land: payments to landowners give standing forest a value [1]. Ecotourism and conservancy lease fees give savanna wildlife an economic value [1]. Community wildlife schemes made wildlife an asset rather than a pest [1]. Where clearance pays more, as with ranching or soy, laws alone are often broken [1].
 
-*Disagree:* laws and enforcement can cut clearance even when it is profitable [1], for example through satellite monitoring backed by fines [1]. Land rights and secure tenure matter as well as profit [1]. Profit-based schemes are vulnerable to market shocks, such as the collapse of tourism during the pandemic [1]. Some values, such as biodiversity and indigenous culture, are not captured by profit [1].
+*Disagree:* laws and enforcement can cut clearance even when it is profitable [1], for example through satellite monitoring backed by fines [1]. Land rights and secure tenure matter as well as profit [1]. Profit-based schemes are vulnerable to market shocks, such as the collapse of tourism during the pandemic [1]. Some values, such as biodiversity and indigenous culture, are not captured by profit [1]. Payments can reward land that was never at risk, so profit does not always change behaviour [1].
 
 *Evaluation of evidence:* a named scheme where profit-based incentives worked, with evidence [1]; a named scheme where they failed or were limited [1]; recognition that other factors, such as economic change, also explain outcomes [1]. Who benefits from profits: elites or councils may capture them [1].
 
