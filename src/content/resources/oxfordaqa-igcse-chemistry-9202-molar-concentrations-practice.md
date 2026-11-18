@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "quantitative-chemistry-9202"
     subtopic: "molar-concentrations-9202"
-description: "Thirteen original OxfordAQA IGCSE Chemistry (9202) questions on section 3.6.4: concentrations, the titration practical, titration maths and gas volumes, with answers."
+description: "Thirteen original OxfordAQA IGCSE Chemistry (9202) questions on section 3.6.4: concentrations, the titration practical and gas volumes, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

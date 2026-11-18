@@ -62,7 +62,7 @@ Links: [amount of substance practice questions](/resources/oxfordaqa-igcse-chemi
 | CO(NH₂)₂ (urea) | N | 28 ÷ 60 × 100 | 46.7% |
 | NH₄NO₃ | N | 28 ÷ 80 × 100 | 35.0% |
 
-Mass of element in a sample = % by mass × mass of sample ÷ 100.
+Mass of element in a sample = % by mass × mass of sample ÷ 100. Example: 500 g of copper(II) oxide contains (63.5 ÷ 79.5) × 500 = 399 g of copper, to 3 significant figures.
 
 ## Empirical formula ratios that need scaling
 

@@ -110,7 +110,7 @@ D: 0.5 mol of CH₄
 
 **2.** Mᵣ Cl₂ = 71 [1]; 7.1 ÷ 71 = **0.10 mol** [1].
 
-*Examiner insight:* Using 35.5 gives 0.20 mol, the number of chlorine atoms' moles, not molecules.
+*Examiner insight:* Dividing by 35.5 gives 0.20 mol, which is the amount of chlorine atoms, not of Cl₂ molecules.
 
 **3.** Mᵣ MgO = 40 [1]; 0.400 × 40 = **16.0 g** [1].
 
