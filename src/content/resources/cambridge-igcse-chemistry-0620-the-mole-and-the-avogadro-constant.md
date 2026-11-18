@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "stoichiometry"
     subtopic: "the-mole-and-the-avogadro-constant"
-description: "Moles, the Avogadro constant, gas volumes, concentrations, limiting reactants, titrations, empirical formulae and percentage calculations for Cambridge IGCSE 0620."
+description: "Moles, the Avogadro constant, gas volumes, concentrations, limiting reactants, titrations, empirical formulae and percentages for Cambridge IGCSE 0620."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
