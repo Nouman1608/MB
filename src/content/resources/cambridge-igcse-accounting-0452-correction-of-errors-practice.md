@@ -117,9 +117,9 @@ D: 900 credit **[1]**
 
 **(b)** Explain why error (ii) has no effect on profit. **[6]**
 
-**12.** Leila's assistant cannot find the cause of a 270 suspense balance and suggests treating it as an expense so that the financial statements can be finished.
+**12.** The book-keeper at Pinecrest Stores cannot find the cause of a 270 suspense balance and suggests treating it as an expense so that the financial statements can be finished.
 
-**(a)** Evaluate the assistant's suggestion.
+**(a)** Evaluate the book-keeper's suggestion.
 
 **(b)** Explain why the suspense account should have no balance once all errors have been corrected. **[6]**
 
@@ -231,7 +231,7 @@ Loan 5,000 deducted [1]; fittings 1,800 added [1]; depreciation 180 deducted [1]
 
 *Examiner insight:* In error (iv), discount received was reduced by 90 instead of discount allowed being increased by 90. Either way profit is 90 lower, so correcting it changes two accounts but not the profit.
 
-**12. (a)** Writing off the balance would let the statements be finished and the amount is small [1]. However, the balance shows that errors remain, which might be much larger errors that partly cancel [1]; profit and the statement of financial position could be misstated [1]. The assistant's suggestion should be rejected: the errors should be found and corrected, which is also what professional competence and due care require [1].
+**12. (a)** Writing off the balance would let the statements be finished and the amount is small [1]. However, the balance shows that errors remain, which might be much larger errors that partly cancel [1]; profit and the statement of financial position could be misstated [1]. The suggestion should be rejected: the errors should be found and corrected, which is also what professional competence and due care require [1].
 
 **(b)** The suspense balance equals the net effect of the errors that made the trial balance disagree [1]; when each has been corrected through suspense, the entries cancel the opening difference, leaving no balance [1]. Total: 6 marks.
 

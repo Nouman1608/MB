@@ -91,8 +91,8 @@ D: font: heavy; **[1]**
 ```css
 h1 { font-family: Georgia serif; colour: navy; }
 p { font-size 14px; text-align: centre; }
-.box { border: 2px solid; background-color: #EEEEEE }
-``` 
+.box { border: 2px solid #333333; background-color: #EEEEEE; }
+```
 
 **[8]**
 
@@ -143,14 +143,11 @@ td { border: 1px solid #808080; padding: 5px; }
 
 **(c)** `<p class="cancel">No training on Friday</p>` (1). **[5]**
 
-**10.** Any four, 1 mark for each error identified and 1 for the correct line:
-- Missing comma between fonts (1): `font-family: Georgia, serif;` (1).
+**10.** 1 mark for each error identified and 1 for its correction:
+- Missing comma between the fonts (1): `font-family: Georgia, serif;` (1).
 - `colour` should be `color` (1): `color: navy;` (1).
 - Missing colon after font-size (1): `font-size: 14px;` (1).
-- `centre` should be `center` (1): `text-align: center;` (1).
-- Border has no colour (1): `border: 2px solid #000000;` or another colour (1).
-
-Credit also the missing semicolon after the last declaration in .box (good practice, though not required by browsers), if identified with its correction. Maximum 8. **[8]**
+- `centre` should be `center` (1): `text-align: center;` (1). **[8]**
 
 **11. (a)** `body { background-image: url("../images/paper.jpg"); }`: background-image property with url (1); correct relative path from the css folder, ../images/paper.jpg (1).
 
@@ -169,7 +166,7 @@ Credit also the missing semicolon after the last declaration in .box (good pract
 Use the unit the task gives. Pixels (px) are common for screen display; points (pt) are also accepted by browsers.
 
 **Can one element have more than one class?**
-Yes, for example `class="notice large"`, but 0417 tasks normally ask for a single class at a time.
+Yes. Separate the names with a space, for example `class="notice large"`, and both sets of styles apply.
 
 ## Syllabus reference
 

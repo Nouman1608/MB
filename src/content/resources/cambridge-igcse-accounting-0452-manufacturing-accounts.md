@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "preparation-of-financial-statements"
     subtopic: "manufacturing-accounts"
-description: "Cambridge IGCSE Accounting 0452 section 5.4 in depth: classifying costs, splitting shared costs between factory and office, work in progress and three inventories."
+description: "Cambridge IGCSE Accounting 0452 section 5.4 in depth: classifying costs, splitting shared factory and office costs, work in progress and three inventories."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -159,6 +159,16 @@ Current liabilities
 
 Machinery appears under non-current assets at 60,000 less accumulated
 depreciation (including this year's 6,000).
+
+## A manufacturer that also buys finished goods
+
+Some manufacturers buy in finished goods to sell alongside their own products,
+for example a furniture maker that resells imported chairs. The bought-in goods
+were not made in the factory, so they never enter the manufacturing account.
+Their cost is added in cost of sales, after factory cost of production and before
+closing finished goods are deducted. Carriage paid on those purchases is added
+with them. Putting them in the manufacturing account would overstate factory cost
+of production and make the factory look less efficient than it is.
 
 ## How work in progress changes the result
 
