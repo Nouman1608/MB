@@ -110,7 +110,7 @@ Quenching samples: for acid-catalysed iodination, add sodium hydrogencarbonate t
 3. How do you find the rate at a particular time from a curved concentration–time graph?
 4. In a clock reaction, how is the time measured related to the initial rate?
 5. Describe the rate–concentration graph for a first-order reactant.
-6. [X] is tripled and the rate increases nine times. State the order with respect to X.
+6. The concentration of X, [X], is tripled and the rate increases nine times. State the order with respect to X.
 7. A is first order. In two experiments [A] doubles and [B] triples, and the rate increases six times. State the order with respect to B.
 8. Rate = k[A]². What does this show about the rate-determining step?
 9. A reactant is zero order. What does this tell you about when it reacts?
