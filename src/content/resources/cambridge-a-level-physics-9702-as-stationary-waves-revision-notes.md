@@ -87,6 +87,15 @@ n gaps between nodes = n lambda / 2
 
 **Example.** A 0.85 m tube open at both ends; v = 340 m s⁻¹. Lowest frequency: L = λ/2, λ = 1.70 m, f = 340 ÷ 1.70 = **200 Hz**; next: **400 Hz**.
 
+**Example — speed of sound from resonance lengths.** A 680 Hz source above a tube closed by a movable piston gives resonances at 0.125 m and 0.375 m.
+
+```
+lambda / 2 = 0.375 - 0.125 = 0.250 m     lambda = 0.500 m
+v = f lambda = 680 x 0.500 = 340 m/s
+```
+
+**Example — microwaves.** A probe finds nodes at 3.0 cm, 4.5 cm, 6.0 cm and 7.5 cm from a reference mark: node spacing 1.5 cm = λ/2, so λ = 3.0 cm and f = 3.00 × 10⁸ ÷ 0.030 = 1.0 × 10¹⁰ Hz. Measuring 4.5 cm across the three gaps, rather than one gap, gives the smaller percentage uncertainty.
+
 ## Key terms
 
 | Term | Meaning to recall |

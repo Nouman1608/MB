@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-superposition"
     subtopic: "as-stationary-waves"
-description: "Original practice questions with mark-scheme answers on superposition, nodes and antinodes, and microwave, string and air-column experiments for Cambridge AS Physics 9702."
+description: "Original practice questions with mark-scheme answers on nodes, antinodes and microwave, string and air-column experiments for Cambridge AS Physics 9702."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

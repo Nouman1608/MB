@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-superposition"
     subtopic: "as-stationary-waves"
-description: "Subtopic 8.1 of Cambridge AS Physics 9702 in depth: superposition, the graphical formation of stationary waves, and microwave, string and air-column experiments."
+description: "Subtopic 8.1 of Cambridge AS Physics 9702 in depth: superposition, forming stationary waves graphically, and microwave, string and air-column experiments."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

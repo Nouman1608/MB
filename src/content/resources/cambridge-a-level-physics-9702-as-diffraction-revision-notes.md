@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-superposition"
     subtopic: "as-diffraction"
-description: "Condensed recall for Cambridge AS Physics 9702 subtopic 8.2: the meaning of diffraction, ripple tank observations and the gap-to-wavelength rule, with a self-test."
+description: "Condensed recall for Cambridge AS Physics 9702 subtopic 8.2: what diffraction means, ripple tank observations and the gap-to-wavelength rule, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -83,6 +83,13 @@ No diffraction calculations beyond finding a wavelength with v = fλ are needed 
 | Cause | Gap or edge | Change of speed at a boundary between media |
 | Wavelength | Unchanged | Changes |
 | Medium | Same throughout | Changes |
+
+## Drawing diffracted wavefronts
+
+- Keep the spacing beyond the gap **equal** to the incident spacing.
+- Wide gap (several λ): straight wavefronts the width of the gap, curving only at their ends.
+- Gap about λ: wavefronts close to **semicircles** centred on the gap.
+- Round a single edge: wavefronts curve into the region behind the edge, with smaller amplitude there.
 
 ## Why it matters next
 
