@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-education-9699"
     subtopic: "intelligence-educational-attainment-9699"
-description: "Condensed 9699 section 6.1 notes: defining intelligence, social influences on IQ scores, heritability and intelligence as a cause of attainment, with a self-test."
+description: "Condensed 9699 section 6.1 notes: defining intelligence, social influences on IQ scores, heritability and intelligence and attainment, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

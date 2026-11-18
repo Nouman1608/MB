@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "motion-forces-and-energy"
     subtopic: "physical-quantities-and-measurement-techniques"
-description: "Subtopic 1.1 of Cambridge O Level Physics 5054 in depth: choosing and reading instruments, measuring multiples, scalars and vectors, and resultants at right angles."
+description: "Subtopic 1.1 of Cambridge O Level Physics 5054 in depth: choosing and reading instruments, measuring multiples, scalars, vectors and resultants."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

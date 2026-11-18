@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "electricity-and-magnetism"
     subtopic: "simple-magnetism-and-magnetic-fields"
-description: "Magnetic poles, induced magnetism, soft iron and steel, field lines, plotting with a compass and uses of magnets, for Cambridge O Level Physics 5054 subtopic 4.1."
+description: "Magnetic poles, induced magnetism, soft iron and steel, field lines, compass plotting and uses of magnets, for Cambridge O Level Physics 5054 subtopic 4.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

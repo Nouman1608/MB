@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "electricity-and-magnetism"
     subtopic: "simple-magnetism-and-magnetic-fields"
-description: "Quick recall for 5054 subtopic 4.1: poles, induced magnetism, soft iron and steel, field lines, plotting methods and uses of magnets, with traps and a self-test."
+description: "Quick recall for 5054 subtopic 4.1: poles, induced magnetism, soft iron and steel, field lines, plotting and uses of magnets, with exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -100,6 +100,19 @@ magnetism.
 | Door catches and fridge seals | Relay |
 | Loudspeaker | Electric bell, door lock |
 | Motor, generator | Separating iron and steel from waste |
+
+## Answer frames for the common "explain" questions
+
+- **Why is a nail attracted to either pole?** It becomes an induced magnet;
+  the end nearest the magnet is always the opposite pole, and unlike poles
+  attract.
+- **Why does a compass show field direction?** Its needle is a small
+  magnet; the force on its N pole acts along the field, so the needle
+  points in the field direction.
+- **Why a soft-iron core?** Easily magnetised (strong field) and loses its
+  magnetism when the current stops (can be switched off).
+- **Why steel for a permanent magnet?** Once magnetised, it keeps its
+  magnetism.
 
 ## Key terms
 

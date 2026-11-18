@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-education-9699"
     subtopic: "education-and-social-mobility-9699"
-description: "Cambridge 9699 section 5.2 in depth: meritocracy, equality of opportunity, life chances, under-achievement and the evidence linking education to social mobility."
+description: "Cambridge 9699 section 5.2 in depth: meritocracy, equality of opportunity, life chances, under-achievement and evidence on education and social mobility."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

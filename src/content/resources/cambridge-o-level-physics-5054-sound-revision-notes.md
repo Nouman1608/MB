@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "waves"
     subtopic: "sound"
-description: "Quick recall for 5054 subtopic 3.4 Sound: compressions, the audible range, loudness, pitch, timbre, echoes, speed of sound methods and ultrasound, with a self-test."
+description: "Quick recall for 5054 subtopic 3.4 Sound: compressions, audible range, loudness, pitch, timbre, echoes, speed of sound methods and ultrasound, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

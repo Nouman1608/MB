@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-education-9699"
     subtopic: "influences-on-the-curriculum-9699"
-description: "Cambridge 9699 section 5.3 in depth: socially constructed knowledge, what shapes curriculum content, ethnocentric, gendered and hidden curricula, and cultural capital."
+description: "Cambridge 9699 section 5.3 in depth: constructed knowledge, factors shaping the curriculum, ethnocentric, gendered and hidden curricula, and cultural capital."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
