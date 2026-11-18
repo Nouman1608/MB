@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-9236"
     subtopic: "pakistan-movement-9236"
-description: "The Second World War's effects on the subcontinent for OxfordAQA 9236: the Day of Deliverance, the August Offer, the 1942 Cripps Mission and the Quit India movement."
+description: "The Second World War's effects on the subcontinent for OxfordAQA 9236: the Day of Deliverance, the August Offer, the Cripps Mission and Quit India."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -115,6 +115,22 @@ inherit power over the whole of India and that Muslims would be dominated; Leagu
   with Congress's challenge, and British officials took the League's claims more seriously.
 - **Independence came closer.** The scale of the rising showed that Britain could not rule India
   indefinitely against Congress opposition once the war was over.
+
+## Linking forward to 1944-47
+
+The events of 1939-42 set up the final stage of the Pakistan movement.
+
+- **Gandhi's release (1944).** Gandhi was released from prison in 1944 and met Jinnah for talks in
+  September that year. The talks failed, but Gandhi's willingness to negotiate with Jinnah directly
+  showed how far the League's standing had risen.
+- **The Simla Conference (1945).** The new Viceroy, Lord Wavell, called Indian leaders to Simla to
+  form a new Executive Council. It broke down when Jinnah insisted that the League alone should
+  nominate the Muslim members, a claim Congress rejected.
+- **The 1945-46 elections.** The League's strong performance in the Muslim seats tested its claim to
+  speak for Muslims, which it had built during the war years.
+
+When you explain the importance of Quit India or Cripps, a sentence linking them to these later
+events shows the long-term significance examiners reward.
 
 ## Worked example
 

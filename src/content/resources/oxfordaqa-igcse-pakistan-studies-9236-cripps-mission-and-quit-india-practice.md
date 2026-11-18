@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-9236"
     subtopic: "pakistan-movement-9236"
-description: "Thirteen original questions on 1939-42 for OxfordAQA 9236: the war, the Day of Deliverance, the Cripps Mission and Quit India, with full mark schemes and levels."
+description: "Thirteen original questions on 1939-42 for OxfordAQA 9236: the war, Day of Deliverance, Cripps Mission and Quit India, with mark schemes and levels."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

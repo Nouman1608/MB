@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-9236"
     subtopic: "pakistan-21st-century-9236"
-description: "Pakistan 2008-18 for OxfordAQA 9236: changes under Zardari, the 18th and 19th Amendments, the 2013 elections and the policies of the PML-N government that followed."
+description: "Pakistan 2008-18 for OxfordAQA 9236: changes under Zardari, the 18th and 19th Amendments, the 2013 elections and the PML-N government's policies."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -121,6 +121,20 @@ The general election of **11 May 2013** was a landmark:
 **Outcome.** After the Panama Papers revelations in 2016, the Supreme Court disqualified Nawaz Sharif
 in July 2017. **Shahid Khaqan Abbasi** of the PML-N served as Prime Minister until the government
 completed its term in 2018.
+
+## Judging the decade
+
+Extended questions often ask how successful these governments were. Weigh the evidence on both sides.
+
+| Achievements | Limits and problems |
+|---|---|
+| Parliamentary democracy restored by the 18th Amendment | Provinces were slow to build capacity for newly devolved subjects such as health and education |
+| Provinces strengthened through the NFC Award and devolution | Balochistan's grievances were not resolved by the 2009 package |
+| First full-term handover between elected governments (2013) | Two Prime Ministers, Gilani and Sharif, were removed by the Supreme Court |
+| Reduced militant violence after Zarb-e-Azb and the National Action Plan | Military courts raised concerns about rights and due process |
+| More electricity and CPEC investment after 2013 | Rising debt and dependence on IMF programmes |
+
+A good judgement explains which side weighs more and why, rather than listing both.
 
 ## Worked example
 
