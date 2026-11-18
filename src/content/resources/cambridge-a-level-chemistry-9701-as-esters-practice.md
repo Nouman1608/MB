@@ -1,5 +1,5 @@
 ---
-title: "Cambridge A Level Chemistry (9701): Esters -- Practice Questions"
+title: "Cambridge A Level Chemistry (9701): Esters (AS Level) -- Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

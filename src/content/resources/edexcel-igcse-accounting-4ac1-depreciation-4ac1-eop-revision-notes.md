@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE Accounting (4AC1): Depreciation -- Revision Notes"
+title: "Edexcel IGCSE Accounting (4AC1): Depreciation (end-of-period adjustments) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["igcse"]

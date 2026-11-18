@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A-Level Chemistry (9620): Catalysts -- Revision Notes"
+title: "OxfordAQA A-Level Chemistry (9620): Catalysts (kinetics) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "Cambridge A Level Computer Science (9618): Algorithms -- Revision Notes"
+title: "Cambridge A Level Computer Science (9618): Algorithms (19.1) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

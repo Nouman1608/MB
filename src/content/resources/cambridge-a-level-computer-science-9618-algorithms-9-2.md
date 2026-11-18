@@ -1,5 +1,5 @@
 ---
-title: "Cambridge A Level Computer Science (9618): Algorithms"
+title: "Cambridge A Level Computer Science (9618): Algorithms (9.2)"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

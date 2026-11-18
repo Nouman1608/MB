@@ -1,5 +1,5 @@
 ---
-title: "Cambridge A Level Chemistry (9701): Esters -- Revision Notes"
+title: "Cambridge A Level Chemistry (9701): Esters (A Level) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A-Level Chemistry (9620): Catalysts -- Practice Questions"
+title: "OxfordAQA A-Level Chemistry (9620): Catalysts (kinetics) -- Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

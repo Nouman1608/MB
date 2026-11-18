@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A-Level Chemistry (9620): Catalysts"
+title: "OxfordAQA A-Level Chemistry (9620): Catalysts (transition metals)"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

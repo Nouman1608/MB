@@ -1,5 +1,5 @@
 ---
-title: "Cambridge A Level Chemistry (9701): Esters"
+title: "Cambridge A Level Chemistry (9701): Esters (AS Level)"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

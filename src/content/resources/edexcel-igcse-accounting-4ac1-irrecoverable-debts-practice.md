@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE Accounting (4AC1): Irrecoverable debts -- Practice Questions"
+title: "Edexcel IGCSE Accounting (4AC1): Irrecoverable debts (Topic 2) -- Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["igcse"]

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE Accounting (4AC1): Depreciation -- Practice Questions"
+title: "Edexcel IGCSE Accounting (4AC1): Depreciation (Topic 2) -- Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["igcse"]

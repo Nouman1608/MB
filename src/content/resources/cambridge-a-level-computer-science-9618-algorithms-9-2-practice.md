@@ -1,5 +1,5 @@
 ---
-title: "Cambridge A Level Computer Science (9618): Algorithms -- Practice Questions"
+title: "Cambridge A Level Computer Science (9618): Algorithms (9.2) -- Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

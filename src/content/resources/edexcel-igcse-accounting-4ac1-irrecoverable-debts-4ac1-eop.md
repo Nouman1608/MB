@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE Accounting (4AC1): Irrecoverable debts"
+title: "Edexcel IGCSE Accounting (4AC1): Irrecoverable debts (end-of-period adjustments)"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["igcse"]

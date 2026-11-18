@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE Accounting (4AC1): Depreciation"
+title: "Edexcel IGCSE Accounting (4AC1): Depreciation (Topic 2)"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["igcse"]

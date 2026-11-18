@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE Accounting (4AC1): Other receivables and other payables -- Practice Questions"
+title: "Edexcel IGCSE Accounting (4AC1): Other receivables and other payables (end-of-period adjustments) -- Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["igcse"]

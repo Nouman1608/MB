@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE Accounting (4AC1): Irrecoverable debts"
+title: "Edexcel IGCSE Accounting (4AC1): Irrecoverable debts (Topic 2)"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["igcse"]

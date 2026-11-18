@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE Accounting (4AC1): Other receivables and other payables"
+title: "Edexcel IGCSE Accounting (4AC1): Other receivables and other payables (Topic 2)"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["igcse"]

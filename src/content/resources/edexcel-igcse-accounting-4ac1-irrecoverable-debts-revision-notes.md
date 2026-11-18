@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE Accounting (4AC1): Irrecoverable debts -- Revision Notes"
+title: "Edexcel IGCSE Accounting (4AC1): Irrecoverable debts (Topic 2) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["igcse"]
