@@ -70,9 +70,9 @@ D: S–H
 
 **(b)** Predict, with a reason, whether the H–I bond is more or less polar than the H–Cl bond. **[2]**
 
-**9.** The table shows some compounds of Period 3 elements.
+**9.** The table shows some compounds of Period 3 elements with other elements.
 
-| Compound | NaF | MgCl₂ | SiCl₄ | PH₃ |
+| Compound | NaF | MgO | SiCl₄ | PH₃ |
 |---|---|---|---|---|
 | Electronegativity difference | | | | |
 
@@ -120,9 +120,9 @@ D: S–H
 
 **(b)** Less polar [1]: the difference for H–I is 2.7 − 2.2 = 0.5, smaller than 3.2 − 2.2 = 1.0 for H–Cl [1]. *(Total: 5 marks)*
 
-**9. (a)** NaF 3.1; MgCl₂ 1.9; SiCl₄ 1.3; PH₃ 0.0. Two marks for all four; one mark for two or three [2].
+**9. (a)** NaF 3.1; MgO 2.1; SiCl₄ 1.3; PH₃ 0.0. Two marks for all four; one mark for two or three [2].
 
-**(b)** NaF ionic; MgCl₂ ionic (difference close to 2, and Mg is a metal); SiCl₄ polar covalent; PH₃ almost non-polar covalent. Two marks for all four; one mark for two or three [2].
+**(b)** NaF ionic; MgO ionic; SiCl₄ polar covalent; PH₃ almost non-polar covalent. Two marks for all four; one mark for two or three [2].
 
 **(c)** P and H have the same electronegativity (2.2), so the bonding electrons are shared almost equally [1]. *(Total: 5 marks)*
 
