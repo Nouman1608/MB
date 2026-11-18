@@ -117,6 +117,22 @@ The specification asks specifically about religious impact.
 states. The wider spread of Islam in the subcontinent came later, through the Ghaznavids, the Delhi
 Sultanate and, above all, the work of Sufi saints.
 
+## Why the conquest stopped at Multan
+
+Several reasons explain why Umayyad rule did not spread further into the subcontinent at this time.
+
+- **Politics in the caliphate.** The deaths of Hajjaj and al-Walid, and the recall of Muhammad bin
+  Qasim, removed the leaders who had driven the campaign.
+- **Distance and supply.** Sindh lay at the far eastern edge of an empire ruled from Damascus, and
+  armies depended on long routes through Makran or by sea.
+- **Stronger kingdoms beyond.** To the east and north lay powerful Hindu kingdoms with large armies,
+  which later Arab governors were unable to defeat.
+- **Competing frontiers.** The caliphate was also fighting in Central Asia, North Africa and Spain,
+  so resources were spread thinly.
+
+This explains the "limits" side of any judgement about the conquest's importance: Islam gained a
+secure base in the Indus valley, but not yet a path into the rest of the subcontinent.
+
 ## The source problem
 
 Much of the detail comes from the *Chachnama*, a Persian history written in the early thirteenth

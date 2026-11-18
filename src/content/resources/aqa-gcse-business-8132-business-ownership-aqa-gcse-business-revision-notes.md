@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "business-in-the-real-world-aqa-gcse-business"
     subtopic: "business-ownership-aqa-gcse-business"
-description: "Recall notes for AQA GCSE Business 3.1.2: the five legal structures on control, finance, liability and profits, share dilution, dividends and a 12-question self-test."
+description: "Recall notes for AQA GCSE Business 3.1.2: five legal structures compared on control, finance, liability and profits, share dilution, dividends, self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

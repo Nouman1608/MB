@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "business-in-the-real-world-aqa-gcse-business"
     subtopic: "setting-business-aims-and-objectives-aqa-gcse-business"
-description: "Recall notes for AQA GCSE Business 3.1.3: the main objectives and how to measure them, conflicts, why objectives differ and change, success beyond profit, self-test."
+description: "Recall notes for AQA GCSE Business 3.1.3: main objectives and their measures, conflicts, why objectives differ and change, success beyond profit, self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

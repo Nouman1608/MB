@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-9236"
     subtopic: "islam-subcontinent-9236"
-description: "Thirteen original questions on Muhammad bin Qasim and the Umayyad conquest of Sindh for OxfordAQA 9236, from 1-mark recall to 9-mark judgements, with mark schemes."
+description: "Thirteen original questions on Muhammad bin Qasim and the Umayyad conquest of Sindh for OxfordAQA 9236, from recall to 9-mark judgements, with mark schemes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

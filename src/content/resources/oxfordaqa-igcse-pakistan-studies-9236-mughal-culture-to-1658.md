@@ -104,6 +104,20 @@ continued to employ court musicians, and music accompanied festivals such as Nau
   Abu'l Hasan painted portraits and court scenes.
 - **Shah Jahan's** painters illustrated the *Padshahnama* with formal court ceremonies.
 
+## Society and court life
+
+The specification asks about social as well as cultural developments.
+
+- **The emperor in public.** Akbar began the practice of *jharokha darshan*, appearing each morning at
+  a palace window so that subjects could see him; Jahangir and Shah Jahan continued it. Jahangir
+  describes in his memoir a "chain of justice" with bells, which petitioners could ring to reach him.
+- **Festivals.** The Persian new year, **Nauroz**, was celebrated at court, and Akbar also took part in
+  Hindu festivals, a sign of his inclusive policy.
+- **Women at court.** **Nur Jahan**, Jahangir's wife, held real political influence; coins were issued
+  in her name. Royal women commissioned buildings, gardens and books.
+- **Travel and trade.** Roads and *sarais* (rest houses) linked cities, helping merchants, pilgrims and
+  officials, and spreading court fashions in dress, food and language.
+
 ## Architecture
 
 | Reign | Buildings | Features |

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "business-in-the-real-world-aqa-gcse-business"
     subtopic: "purpose-and-nature-of-businesses-aqa-gcse-business"
-description: "Recall notes for AQA GCSE Business 3.1.1: reasons for starting a business, goods and services, factors of production, opportunity cost, sectors and entrepreneurs."
+description: "Recall notes for AQA GCSE Business 3.1.1: reasons for starting, goods and services, factors of production, opportunity cost, sectors and entrepreneurs."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

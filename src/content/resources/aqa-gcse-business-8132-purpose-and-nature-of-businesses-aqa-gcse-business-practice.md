@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "business-in-the-real-world-aqa-gcse-business"
     subtopic: "purpose-and-nature-of-businesses-aqa-gcse-business"
-description: "11 original AQA GCSE Business questions on 3.1.1: reasons for starting, factors of production, opportunity cost, sectors, entrepreneurs and change, with answers."
+description: "11 original AQA GCSE Business questions on 3.1.1: reasons for starting, factors of production, opportunity cost, sectors, entrepreneurs and change."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
