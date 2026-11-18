@@ -987,10 +987,18 @@ withMutation(
   },
 );
 
+/** Adds one synthetic record to teacher-verifications.json, whether it is empty or holds real records. */
+function addVerification(text, record) {
+  const file = JSON.parse(text);
+  file.results.push(record);
+  return `${JSON.stringify(file, null, 2)}\n`;
+}
+
 console.log('\n[AU] D-448 -- a fabricated teacher verification is rejected');
 withMutation(
   'docs/reports/academic-review/teacher-verifications.json',
-  (text) => text.replace('"results": []', '"results": [{ "resource": "igcse-chemistry-0620-elements-atomic-structure-and-isotopes", "reviewer": "hina-mogul", "board": "aqa", "syllabusCode": "0620", "syllabusSeries": "2026-2028", "date": "2099-01-01", "scope": "whole page", "sources": ["https://example.com/0620.pdf"], "findings": "none", "corrections": [], "approval": "signed-off", "evidence": "TODO" }]'),
+  // Appends to whatever the file holds: it was empty until the first real records (D-497).
+  (text) => addVerification(text, { resource: 'igcse-chemistry-0620-elements-atomic-structure-and-isotopes', reviewer: 'hina-mogul', board: 'aqa', syllabusCode: '0620', syllabusSeries: '2026-2028', date: '2099-01-01', scope: 'whole page', sources: ['https://example.com/0620.pdf'], findings: 'none', corrections: [], approval: 'signed-off', evidence: 'TODO' }),
   {
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'is not one of the resource\'s boards',
@@ -1072,7 +1080,7 @@ withMutation(
 console.log('\n[BD] D-465 -- a teacher verification without the content hash of what was checked is rejected');
 withMutation(
   'docs/reports/academic-review/teacher-verifications.json',
-  (text) => text.replace('"results": []', '"results": [{ "resource": "igcse-chemistry-0620-elements-atomic-structure-and-isotopes", "reviewer": "nouman-ahmed", "board": "cambridge", "syllabusCode": "0620", "syllabusSeries": "2026-2028", "date": "2026-11-15", "scope": "whole page", "sources": ["https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf"], "findings": "no errors", "corrections": [], "approval": "approved", "evidence": "signed form ref 0001" }]'),
+  (text) => addVerification(text, { resource: 'igcse-chemistry-0620-elements-atomic-structure-and-isotopes', reviewer: 'nouman-ahmed', board: 'cambridge', syllabusCode: '0620', syllabusSeries: '2026-2028', date: '2026-11-15', scope: 'whole page', sources: ['https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf'], findings: 'no errors', corrections: [], approval: 'approved', evidence: 'signed form ref 0001' }),
   { validatorCmd: 'node scripts/validate-review-integrity.mjs', expectSubstring: 'contentSha256 (sha256 of the resource file as checked) is missing', label: 'approval with no content hash is rejected' },
 );
 
