@@ -92,6 +92,10 @@ Extremely slow: soil creep. Slow: earthflow, some slumps. Rapid: mudflow, debris
 4. **Interaction:** natural triggers act on slopes weakened by people; people also decide exposure.
 5. **Judgement:** nature usually triggers, people usually turn the event into a disaster.
 
+## Data skills
+
+Structured questions often give slope or rainfall data. Calculate a factor of safety as resisting ÷ driving forces, and state whether the value is above or below 1. For rainfall records, express landslide frequency as a percentage for each rainfall band before suggesting a threshold.
+
 ## Exam traps
 
 - "Landslide" used for every movement type.

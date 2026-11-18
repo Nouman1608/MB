@@ -97,6 +97,16 @@ A case study of some of the problems of sustainable management of a hazardous en
 5. **Limits of living with it:** retreat costs land and livelihoods; warnings fail if not trusted.
 6. **Judgement:** most sustainable systems combine both, with emphasis on reducing vulnerability.
 
+## Linking 9.4 to the other subtopics
+
+A 9.4 essay can draw on any hazard type, so reuse evidence from the rest of the option:
+
+- **Tectonic (9.1):** monitoring, zoning and building codes as mitigation; L'Aquila for risk communication.
+- **Mass movement (9.2):** Hong Kong's slope registration and upgrading as long-term mitigation.
+- **Atmospheric (9.3):** Odisha's evacuation before Cyclone Phailin as preparedness.
+
+Whichever case study you use, give the problems first, then at least two solutions with evidence, then a judgement that applies the four tests: effective, affordable, fair and resilient.
+
 ## Exam traps
 
 - Describing the event rather than the management.

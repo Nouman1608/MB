@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "algebraic-manipulation"
-description: "Revision notes for Cambridge O Level Maths 4024 subtopic 2.2: like terms, expanding, the five factorising forms and completing the square, with a 12-question self-test."
+description: "Revision notes for Cambridge O Level Maths 4024 subtopic 2.2: like terms, expanding, factorising forms and completing the square, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

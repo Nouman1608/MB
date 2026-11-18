@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "proportion"
-description: "Cambridge O Level Maths 4024 subtopic 2.8 in depth: direct and inverse proportion with squares, cubes and roots, the ∝ symbol, and scaling questions without k."
+description: "Cambridge O Level Maths 4024 subtopic 2.8 in depth: direct and inverse proportion with squares, cubes and roots, and effect-of-change questions."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

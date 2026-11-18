@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "equations"
-description: "Fourteen original Cambridge O Level Maths 4024 questions on linear, fractional, simultaneous and quadratic equations and changing the subject, with mark schemes."
+description: "Fourteen original Cambridge O Level Maths 4024 questions on linear, fractional, simultaneous and quadratic equations and changing the subject."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

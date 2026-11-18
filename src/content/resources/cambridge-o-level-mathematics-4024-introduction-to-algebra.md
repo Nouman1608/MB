@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "introduction-to-algebra"
-description: "Cambridge O Level Maths 4024 subtopic 2.1: letters as generalised numbers, algebraic notation and substituting into expressions and formulas, with worked examples."
+description: "Cambridge O Level Maths 4024 subtopic 2.1: letters as generalised numbers, algebraic notation and substituting into expressions and formulas."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

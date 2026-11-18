@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "sequences"
-description: "Thirteen original Cambridge O Level Maths 4024 questions on linear, quadratic, cubic, exponential and combined sequences and nth terms, with mark-scheme answers."
+description: "Thirteen original Cambridge O Level Maths 4024 questions on linear, quadratic, cubic, exponential and combined sequences, with mark-scheme answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

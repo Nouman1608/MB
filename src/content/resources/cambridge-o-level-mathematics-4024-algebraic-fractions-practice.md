@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "algebraic-fractions"
-description: "Thirteen original Cambridge O Level Maths 4024 questions on adding, subtracting, multiplying, dividing and simplifying algebraic fractions, with mark-scheme answers."
+description: "Thirteen original Cambridge O Level Maths 4024 questions on adding, subtracting, multiplying, dividing and simplifying algebraic fractions, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "indices-ii"
-description: "Thirteen original Cambridge O Level Maths 4024 questions on zero, negative and fractional indices, simplifying and index equations, with full mark-scheme answers."
+description: "Fourteen original Cambridge O Level Maths 4024 questions on zero, negative and fractional indices, simplifying and index equations, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

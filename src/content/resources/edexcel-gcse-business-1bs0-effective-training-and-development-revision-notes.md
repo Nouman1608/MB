@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "making-human-resource-decisions-1bs0"
     subtopic: "effective-training-and-development-1bs0"
-description: "Revision notes for Edexcel GCSE Business 2.5.3: training methods, targets and reviews, motivation and retention, and retraining for new technology, with a self-test."
+description: "Revision notes for Edexcel GCSE Business 2.5.3: training methods, targets, reviews, retention and retraining for new technology, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

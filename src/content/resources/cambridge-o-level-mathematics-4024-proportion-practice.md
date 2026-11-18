@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "proportion"
-description: "Thirteen original Cambridge O Level Maths 4024 questions on direct and inverse proportion with squares, cubes and roots, and effect-of-change problems, with answers."
+description: "Thirteen original Cambridge O Level Maths 4024 questions on direct and inverse proportion with squares, cubes and roots, with mark-scheme answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

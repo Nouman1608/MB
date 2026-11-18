@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "making-human-resource-decisions-1bs0"
     subtopic: "effective-recruitment-1bs0"
-description: "Revision notes for Edexcel GCSE Business 2.5.2: job roles, job description, person specification, application form, CV and recruitment methods, with a self-test."
+description: "Revision notes for Edexcel GCSE Business 2.5.2: job roles, recruitment documents and internal or external recruitment, with a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

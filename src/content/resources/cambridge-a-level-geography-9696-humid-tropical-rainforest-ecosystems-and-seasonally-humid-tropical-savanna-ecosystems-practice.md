@@ -111,7 +111,7 @@ These questions cover **7.3 Humid tropical (rainforest) and seasonally humid tro
 
 *Disagree:* the wet-dry climate limits tree growth because there is too little water for closed forest in the dry season [1]. In drier savannas, trees do not invade even when fire is excluded [1]. Lightning fires occur naturally, so some savanna is a fire subclimax rather than a plagioclimax [1]. Infertile or seasonally waterlogged soils favour grass, an edaphic subclimax [1]. The catena shows vegetation changing with drainage on a single slope [1]. Savanna existed before humans in some areas [1].
 
-*Interaction:* climate, soils, fire and grazing act together [1]. Human burning may extend savanna into areas that would otherwise be woodland [1].
+*Interaction:* climate, soils, fire and grazing act together [1]. Human burning may extend savanna into areas that would otherwise be woodland [1]. Large wild herbivores such as elephants also open woodland by pushing over and stripping trees, a natural disturbance [1].
 
 *Use of examples:* reference to named savanna regions or fire experiments [1].
 
