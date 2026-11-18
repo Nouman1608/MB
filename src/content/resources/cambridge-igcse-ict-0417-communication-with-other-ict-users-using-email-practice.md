@@ -53,7 +53,7 @@ D: cc **[1]**
 
 **5.** Give **two** rules of netiquette that apply to writing emails. **[2]**
 
-**6.** State what happens to the junk folder when a spam filter wrongly identifies a genuine email. **[1]**
+**6.** State what happens to a genuine email that a spam filter wrongly identifies as spam. **[1]**
 
 ---
 
