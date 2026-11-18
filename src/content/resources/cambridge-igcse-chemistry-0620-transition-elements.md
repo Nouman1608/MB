@@ -122,6 +122,14 @@ Copper is another transition element with more than one oxidation number: copper
 - (b) Transition elements form ions with variable oxidation numbers.
 - (c) Add aqueous sodium hydroxide to a solution of each: A gives a green precipitate; B gives a red-brown precipitate.
 
+## Annotated model answer
+
+*Compare the properties of iron with those of sodium.* **[3]**
+
+> Iron has a much higher melting point than sodium (1538 °C compared with 98 °C) **[1]**. Iron is much denser than sodium, which floats on water **[1]**. Iron forms coloured compounds, such as green iron(II) hydroxide, while sodium compounds such as sodium chloride are white **[1]**.
+
+Each point names a property, states it for **both** metals, and uses a comparative word. Describing iron alone would not answer "compare".
+
 ## Common mistakes
 
 - **Listing "conducts electricity" or "shiny"** as a transition element property. All metals have these; the syllabus properties are high density, high melting point, coloured compounds and catalytic activity.
