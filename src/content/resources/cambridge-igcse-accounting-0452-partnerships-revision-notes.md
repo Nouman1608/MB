@@ -114,11 +114,11 @@ non-current.
 
 ## Worked reminder
 
-Profit 64,000. Interest on drawings 750 in total. Salary 12,000. Interest on capital
-3,200 in total. Equal shares.
+Profit 48,000. Interest on drawings 500 in total. Salary 10,000. Interest on capital
+4,500 in total. Equal shares.
 
 ```
-64,000 + 750 − 12,000 − 3,200 = 49,550, shared 24,775 each
+48,000 + 500 − 10,000 − 4,500 = 34,000, shared 17,000 each
 ```
 
 **Current account reminder.** Opening balance 600 debit; salary 9,000; interest on

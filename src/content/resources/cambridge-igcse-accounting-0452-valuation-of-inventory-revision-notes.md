@@ -94,9 +94,9 @@ Do **not** also list the write-down as an expense.
 - Opening and closing errors in the same year: add their effects on cost of
   sales, taking care with signs.
 
-**Combined reminder.** Opening understated by 900 (profit overstated 900) and
-closing overstated by 1,350 (profit overstated 1,350): profit overstated by
-**2,250**; inventory asset and equity overstated by **1,350**.
+**Combined reminder.** Opening understated by 600 (profit overstated 600) and
+closing overstated by 1,100 (profit overstated 1,100): profit overstated by
+**1,700**; inventory asset and equity overstated by **1,100**.
 
 ## Effects on ratios
 

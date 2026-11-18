@@ -92,7 +92,7 @@ These questions cover **3.1.7 Centre of mass** (P), statements a to c, of the Ox
 
 **5.** Directly below the hook [1]. **[1]**
 
-**6.** Any two [2]: make the base wider; make the base heavier (lowering the centre of mass); make the lamp shorter; keep heavy parts low.
+**6.** Any two [2]: make the base wider; make the base heavier (lowering the centre of mass); make the lamp shorter; keep heavy parts low. **[2]**
 
 **7. (a)** Any two [2]: stand and clamp; pin or nail to hang the card from; plumb line (thread and small weight); pencil and ruler.
 

@@ -114,7 +114,7 @@ These questions cover **3.1.1 Forces and their interactions**, statements a to h
 
 *Examiner insight:* the two forces in a pair act on different objects; the push on the water acts on the water, its partner acts on the swimmer.
 
-**4.** Scalars: time, speed, distance. Vectors: displacement, force, momentum. All six correct [3]; four or five correct [2]; two or three correct [1]. **[3]**
+**4.** Displacement and force are vectors [1]; momentum is a vector and time is a scalar [1]; speed and distance are scalars [1]. **[3]**
 
 **5. (a)** W = m × g = 1500 × 1.6 [1] = **2400 N** [1].
 

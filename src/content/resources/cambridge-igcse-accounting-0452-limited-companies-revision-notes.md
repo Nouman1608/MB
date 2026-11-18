@@ -80,21 +80,21 @@ Amounts are in dollars ($).
 
 ## Worked reminders
 
-**Dividends.** 80,000 of 5% preference shares: 4,000. 400,000 ordinary shares of
-$0.50 with a dividend of $0.04 per share: 400,000 × 0.04 = 16,000. The dividend is per
+**Dividends.** 60,000 of 8% preference shares: 4,800. 250,000 ordinary shares of
+$0.20 with a dividend of $0.06 per share: 250,000 × 0.06 = 15,000. The dividend is per
 **share**, not per dollar of nominal value.
 
-**Issued, called-up, paid-up.** 600,000 shares of $0.50; $0.30 called; calls unpaid
-on 12,000 shares.
+**Issued, called-up, paid-up.** 500,000 shares of $0.40; $0.25 called; calls unpaid
+on 8,000 shares.
 
 ```
-Issued     600,000 × 0.50        = 300,000
-Called-up  600,000 × 0.30        = 180,000
-Paid-up    180,000 − 12,000 × 0.30 = 176,400
+Issued     500,000 × 0.40          = 200,000
+Called-up  500,000 × 0.25          = 125,000
+Paid-up    125,000 − 8,000 × 0.25  = 123,000
 ```
 
-**Debenture interest accrued.** 80,000 of 9% debentures issued on 1 April; year end
-31 December; paid 3,600. Charge = 80,000 × 9% × 9/12 = 5,400; accrued 1,800.
+**Debenture interest accrued.** 50,000 of 6% debentures issued on 1 May; year end
+31 December; paid 1,000. Charge = 50,000 × 6% × 8/12 = 2,000; accrued 1,000.
 
 **Retained earnings column.** Opening 22,000; profit 35,400; dividends 14,000;
 transfer to general reserve 6,000.
