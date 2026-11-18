@@ -63,7 +63,7 @@ Identify the type of interference in each situation and explain your answers. **
 **(b)** Use retrieval failure to explain the result. **[2]**
 **(c)** Identify the experimental design and give **one** limitation of it for this study. **[2]**
 
-**8.** Zara memorises a shopping list by repeating it aloud while tapping a rhythm with her hand. Her friend says it would be easier to remember the list while also tracing a route on a map.
+**8.** Zara keeps a shopping list in mind by repeating it under her breath. Her friend says Zara will find it just as easy to keep doing this while reading street names aloud from a map as while tracing a route on the map with her finger.
 
 Use the working memory model to explain whether her friend is right. **[4]**
 
@@ -91,7 +91,7 @@ Use the working memory model to explain whether her friend is right. **[4]**
 **3.** Information may still be stored in long-term memory but cannot be accessed [1]. Recall depends on cues that were present when the information was encoded (the encoding specificity principle) [1]. If those cues, such as the context or the person's internal state, are absent at recall, retrieval fails [1]. **[3]**
 *Examiner insight:* The idea that the information is available but not accessible distinguishes retrieval failure from decay.
 
-**4.** Peterson and Peterson (1959) gave participants consonant trigrams to remember [1]. Rehearsal was prevented by counting backwards in threes for intervals of up to 18 seconds [1]. Recall fell sharply as the interval increased, to under 10% after 18 seconds, suggesting short-term memory has a duration of about 18 to 30 seconds without rehearsal [1]. **[3]**
+**4.** Peterson and Peterson (1959) gave participants consonant trigrams to remember [1]. Rehearsal was prevented by counting backwards in threes for intervals of up to 18 seconds [1]. Recall fell sharply as the interval increased, to about 10% after 18 seconds, suggesting short-term memory has a duration of about 18 to 30 seconds without rehearsal [1]. **[3]**
 *Examiner insight:* Include the method that prevented rehearsal; without it, the finding does not show duration.
 
 **5.** Leading questions suggest an answer and can change how a witness recalls an event [1]. Loftus and Palmer (1974) showed participants films of car crashes and asked how fast the cars were going when they "hit" or "smashed" each other [1]. Mean estimates were higher with "smashed" (40.5 mph) than with "contacted" (31.8 mph) [1]. In a second experiment, more participants given "smashed" falsely reported seeing broken glass a week later, suggesting the memory itself was altered [1]. **[4]**
@@ -105,7 +105,7 @@ Use the working memory model to explain whether her friend is right. **[4]**
 **(c)** Independent groups design [1]. Limitation: participant variables, such as differences in memory ability, could explain the difference instead of the context [1]. **[6]**
 *Examiner insight:* Divide by the same-context value (18), the condition you are comparing against.
 
-**8.** Repeating the list aloud uses the phonological loop (articulatory process) [1]. Tapping a rhythm is a motor task with little demand on the phonological loop, so the two tasks interfere little [1]. Tracing a route on a map uses the visuo-spatial sketchpad, a separate component, so it should also cause little interference [1]. The friend is partly right that it is not harder, but it will not make the list easier to remember; both tasks still draw on the limited-capacity central executive, which may limit performance if the route is demanding [1]. **[4]**
+**8.** Repeating the list under her breath uses the phonological loop (the articulatory process) [1]. Reading street names aloud also uses the phonological loop, so the two tasks compete for the same limited-capacity component and the list is likely to be displaced [1]. Tracing a route is visual and spatial, so it uses the visuo-spatial sketchpad, a separate component, and should cause little interference [1]. The friend is therefore wrong: the reading task will be much harder to combine with rehearsal than the tracing task [1]. **[4]**
 *Examiner insight:* Name the component each task uses and then decide whether they compete; that is the core applied skill.
 
 **9. (a)** In post-event discussion, witnesses combine misleading information from others with their own memory (memory conformity) [1]. Gabbert et al. (2003) found that 71% of witnesses who discussed a crime with a co-witness reported details they had not seen themselves [1]. The witness who did not see the red jacket may have absorbed the detail from the other, or gone along with them to agree [1].
