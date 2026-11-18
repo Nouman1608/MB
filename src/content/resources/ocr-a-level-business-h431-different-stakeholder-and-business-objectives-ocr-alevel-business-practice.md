@@ -75,7 +75,7 @@ These questions cover the OCR A Level Business (H431) content "Different stakeho
 **1.** An organisational aim is a broad statement of long-term purpose, usually without a number or deadline [1]; a corporate objective is a measurable target for the whole business, such as a profit or revenue figure, that helps achieve the aim [1]. **[2]**
 
 **2. (a)** Corporate [1]. **(b)** Strategic [1]. **(c)** Tactical [1]. **(d)** Operational [1]. **[4]**
-*Examiner-style note:* (b) is strategic because it changes the direction of the whole business and commits large resources for years; (c) belongs to one department over months.
+*Note:* (b) is strategic because it changes the direction of the whole business and commits large resources for years; (c) belongs to one department over months.
 
 **3. (a)** £3.2m × 1.25 = **£4.0 million** [1].
 **(b)** 82% × 1.25 [1] = **102.5%** [1].
