@@ -62,9 +62,9 @@ D: 10 m s⁻¹ **[1]**
 
 ## Section B
 
-**6.** A 1.0 kg ball moving at 5.0 m s⁻¹ collides elastically head-on with a stationary 4.0 kg ball.
+**6.** A 0.50 kg ball moving at 6.0 m s⁻¹ collides elastically head-on with a stationary 1.5 kg ball.
 
-**(a)** Write down an equation for conservation of momentum, using v₁ and v₂ for the final velocities of the 1.0 kg and 4.0 kg balls. **[1]**
+**(a)** Write down an equation for conservation of momentum, using v₁ and v₂ for the final velocities of the 0.50 kg and 1.5 kg balls. **[1]**
 
 **(b)** Write down a second equation using the relative speeds of approach and separation. **[1]**
 
@@ -72,9 +72,9 @@ D: 10 m s⁻¹ **[1]**
 
 **(d)** Show that total kinetic energy is conserved. **[2]**
 
-**7.** A 2.0 kg trolley moving at 3.0 m s⁻¹ hits a stationary 1.0 kg trolley. After the collision the 2.0 kg trolley moves at 1.5 m s⁻¹ in its original direction.
+**7.** A 1.5 kg trolley moving at 4.0 m s⁻¹ hits a stationary 0.50 kg trolley. After the collision the 1.5 kg trolley moves at 2.4 m s⁻¹ in its original direction.
 
-**(a)** Calculate the velocity of the 1.0 kg trolley after the collision. **[2]**
+**(a)** Calculate the velocity of the 0.50 kg trolley after the collision. **[2]**
 
 **(b)** Determine whether the collision is elastic. **[3]**
 
@@ -84,9 +84,9 @@ D: 10 m s⁻¹ **[1]**
 
 **(b)** Calculate the loss of kinetic energy. **[2]**
 
-**9.** A firework of mass 2.4 kg is at rest at the top of its flight when it explodes into two pieces of mass 1.0 kg and 1.4 kg, which move horizontally. The 1.0 kg piece moves at 21 m s⁻¹.
+**9.** A firework of mass 3.0 kg is at rest at the top of its flight when it explodes into two pieces of mass 1.2 kg and 1.8 kg, which move horizontally. The 1.2 kg piece moves at 18 m s⁻¹.
 
-**(a)** Calculate the velocity of the 1.4 kg piece. **[2]**
+**(a)** Calculate the velocity of the 1.8 kg piece. **[2]**
 
 **(b)** Calculate the total kinetic energy of the pieces just after the explosion and state where it came from. **[2]**
 
@@ -118,25 +118,25 @@ D: 10 m s⁻¹ **[1]**
 
 **5.** 0 = 0.010 × 360 + 3.0v [1]; v = −3.6 ÷ 3.0 = **−1.2 m s⁻¹**, that is 1.2 m s⁻¹ opposite to the bullet [1]. **[2]**
 
-**6. (a)** 1.0 × 5.0 = 1.0v₁ + 4.0v₂ [1].
+**6. (a)** 0.50 × 6.0 = 0.50v₁ + 1.5v₂ [1].
 
-**(b)** 5.0 − 0 = v₂ − v₁ [1].
+**(b)** 6.0 − 0 = v₂ − v₁ [1].
 
-**(c)** From (b), v₂ = v₁ + 5.0; substitute: 5.0 = v₁ + 4.0v₁ + 20, so v₁ = **−3.0 m s⁻¹** (rebounds) [1]; v₂ = **2.0 m s⁻¹** forwards [1].
+**(c)** From (b), v₂ = v₁ + 6.0; substitute: 3.0 = 0.50v₁ + 1.5v₁ + 9.0, so v₁ = **−3.0 m s⁻¹** (rebounds) [1]; v₂ = **3.0 m s⁻¹** forwards [1].
 
-**(d)** Before: ½ × 1.0 × 5.0² = 12.5 J [1]. After: ½ × 1.0 × 3.0² + ½ × 4.0 × 2.0² = 4.5 + 8.0 = 12.5 J, so kinetic energy is conserved [1]. **[6]**
+**(d)** Before: ½ × 0.50 × 6.0² = 9.0 J [1]. After: ½ × 0.50 × 3.0² + ½ × 1.5 × 3.0² = 2.25 + 6.75 = 9.0 J, so kinetic energy is conserved [1]. **[6]**
 
-**7. (a)** 2.0 × 3.0 = 2.0 × 1.5 + 1.0v [1]; v = **3.0 m s⁻¹** forwards [1].
+**7. (a)** 1.5 × 4.0 = 1.5 × 2.4 + 0.50v [1]; v = 2.4 ÷ 0.50 = **4.8 m s⁻¹** forwards [1].
 
-**(b)** KE before = ½ × 2.0 × 3.0² = 9.0 J [1]. KE after = ½ × 2.0 × 1.5² + ½ × 1.0 × 3.0² = 2.25 + 4.5 = 6.75 J [1]. KE decreases, so the collision is **inelastic** [1]. **[5]**
+**(b)** KE before = ½ × 1.5 × 4.0² = 12 J [1]. KE after = ½ × 1.5 × 2.4² + ½ × 0.50 × 4.8² = 4.32 + 5.76 = 10.1 J [1]. KE decreases, so the collision is **inelastic** (also, separation speed 2.4 m s⁻¹ is less than approach speed 4.0 m s⁻¹) [1]. **[5]**
 
 **8. (a)** Taking P's direction as positive: 0.40 × 0.50 + 0.60 × (−0.30) = 0.20 − 0.18 = 0.020 kg m s⁻¹ [1]; v = 0.020 ÷ 1.00 [1] = **0.020 m s⁻¹** in P's original direction [1].
 
 **(b)** KE before = ½ × 0.40 × 0.50² + ½ × 0.60 × 0.30² = 0.050 + 0.027 = 0.077 J; KE after = ½ × 1.00 × 0.020² = 0.0002 J [1]; loss = **0.077 J** (0.0768 J) [1]. **[5]**
 
-**9. (a)** 0 = 1.0 × 21 + 1.4v [1]; v = **−15 m s⁻¹**, that is 15 m s⁻¹ in the opposite direction [1].
+**9. (a)** 0 = 1.2 × 18 + 1.8v [1]; v = **−12 m s⁻¹**, that is 12 m s⁻¹ in the opposite direction [1].
 
-**(b)** KE = ½ × 1.0 × 21² + ½ × 1.4 × 15² = 220.5 + 157.5 = **378 J** [1]; from chemical energy stored in the explosive [1]. **[4]**
+**(b)** KE = ½ × 1.2 × 18² + ½ × 1.8 × 12² = 194.4 + 129.6 = **324 J** [1]; from chemical energy stored in the explosive [1]. **[4]**
 
 **10. (a)** East: 2.0 × 3.0 = 6.0 kg m s⁻¹; north: 1.0 × 4.0 = 4.0 kg m s⁻¹ [1].
 

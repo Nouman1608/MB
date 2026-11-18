@@ -105,7 +105,7 @@ Describe **six** features the report should have to meet the manager's needs and
 
 **1.** B: detail. **[1]**
 
-**2.** The report header. **[1]**
+**2.** The report header (1). **[1]**
 
 **3.** Any two, 1 mark each: tabular shows one record per row, columnar shows each record as a block (1); in tabular the labels appear once as column headings, in columnar the labels are repeated beside the values for every record (1); tabular suits many records with few fields, columnar suits records with many fields (1); tabular uses fewer pages (1). **[2]**
 

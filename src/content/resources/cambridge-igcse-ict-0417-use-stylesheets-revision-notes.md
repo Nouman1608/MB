@@ -58,6 +58,19 @@ These notes condense Cambridge IGCSE ICT 0417 subtopic 21.3 Use stylesheets: cre
 | Padding | `padding` (gap inside a cell, between content and border) |
 | Borders | `border-collapse: collapse`; `border: 2px solid #333333` (thickness, style, colour); `border: none` (invisible) |
 
+## From task wording to CSS
+
+| Instruction (invented) | Rule |
+|---|---|
+| "All paragraphs 12 point Tahoma, or a sans-serif font if Tahoma is unavailable" | `p { font-family: Tahoma, sans-serif; font-size: 12pt; }` |
+| "Level 1 headings centred and bold" | `h1 { text-align: center; font-weight: bold; }` |
+| "Table data cells with a 3 pixel dark red border" | `td { border: 3px solid #8B0000; }` |
+| "Leave 10 pixels between cell contents and the border" | `td { padding: 10px; }` |
+| "List items in italic" | `li { font-style: italic; }` |
+| "A class called note with a light grey background" | `.note { background-color: #D3D3D3; }` |
+
+Read each instruction for the **element** (selector), the **property** and the **value**, then check spelling and punctuation.
+
 ## Style vs class
 
 | | Style | Class |
