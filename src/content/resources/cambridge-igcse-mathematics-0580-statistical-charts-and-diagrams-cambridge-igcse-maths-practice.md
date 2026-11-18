@@ -155,17 +155,17 @@ Key: ● = 8 visitors; part symbols are quarters
 
 **2. (a)** 2.75 × 12 = **33** [1]
 
-**(b)** Monday = 3.5 × 12 = 42, so 42 − 33 = **9** [1]
+**(b)** Monday = 3.5 × 12 = 42, so 42 − 33 = **9** [1] **[2]**
 
 **3.** Stems 3, 4, 5, 6 with leaves [1]; leaves in order: 3 | 6 8, 4 | 0 5 7 9, 5 | 2 2 5 9, 6 | 1 3 [1]; key, for example **3 | 6 means 36** [1]
 
 **4. (a)** 44 − 30 = **14** [1]
 
-**(b)** **44** (the top of the full bar) [1]
+**(b)** **44** (the top of the full bar) [1] **[2]**
 
 **5. (a)** 72° is one fifth of 360°, so 18 × 5 = **90** people [1]
 
-**(b)** 120° is one third of 360°: 90 ÷ 3 = **30** people [1]
+**(b)** 120° is one third of 360°: 90 ÷ 3 = **30** people [1] **[2]**
 
 **6.** 80 + x + 2x + 3x + 40 = 360, so 6x = 240 and **x = 40°** [1]; angles 80°, 40°, 80°, 160°, so the largest is **160°** [1]
 
@@ -173,13 +173,13 @@ Key: ● = 8 visitors; part symbols are quarters
 
 **(b)** Increases: vanilla 20 ÷ 40 = 50%, chocolate 15 ÷ 55 = 27.3%, strawberry 5 ÷ 25 = 20% [1]; **vanilla** [1]
 
-**(c)** **Dual**: both chocolate bars start at 0, so their heights can be compared directly [1]
+**(c)** **Dual**: both chocolate bars start at 0, so their heights can be compared directly [1] **[5]**
 
 **8. (a)** 360 ÷ 120 = 3° per student [1]; walk **114°**, bus **135°** [1]; car **66°**, cycle **45°** [1]
 
 **(b)** 81 ÷ 360 × 200 [1] = **45** students [1]
 
-**(c)** Leo is wrong: **45 students travel by bus at each school**; School A's sector is bigger only because School A has fewer students in total [1]
+**(c)** Leo is wrong: **45 students travel by bus at each school**; School A's sector is bigger only because School A has fewer students in total [1] **[6]**
 
 **9. (a)** The 8th value: **44 seconds** [1]
 
@@ -187,23 +187,23 @@ Key: ● = 8 visitors; part symbols are quarters
 
 **(c)** **52 seconds** [1]
 
-**(d)** 52, 52, 52, 58, 64: **5/15 = 1/3** [1]
+**(d)** 52, 52, 52, 58, 64: **5/15 = 1/3** [1] **[4]**
 
 **10. (a)** 3¾ × 8 = **30** [1]
 
 **(b)** Thursday 24, Sunday 4½ × 8 = 36; 24 + 30 + 36 = 90 [1]; 150 − 90 = **60** [1]
 
-**(c)** 60 ÷ 8 = **7½ symbols** [1]
+**(c)** 60 ÷ 8 = **7½ symbols** [1] **[4]**
 
 **11. (a)** Scores 1 to 6 listed [1]; frequencies 1: **2**, 2: **3**, 3: **3**, 4: **5**, 5: **3**, 6: **4** (total 20) [1]
 
 **(b)** 1 × 2 + 2 × 3 + 3 × 3 + 4 × 5 + 5 × 3 + 6 × 4 [1] = 2 + 6 + 9 + 20 + 15 + 24 = **76** [1]
 
-**(c)** 3 + 4 = 7, so **7/20** [1]
+**(c)** 3 + 4 = 7, so **7/20** [1] **[5]**
 
 **12. (a)** Any two [1] [1]: the leaves are **not in order** (should be 1 | 1 4 9 and 2 | 2 5 7); there is **no key**
 
-**(b)** 150 + 120 + 80 = 350°, but the angles of a pie chart must add up to **360°** [1]
+**(b)** 150 + 120 + 80 = 350°, but the angles of a pie chart must add up to **360°** [1] **[3]**
 
 ## Where marks are usually lost
 

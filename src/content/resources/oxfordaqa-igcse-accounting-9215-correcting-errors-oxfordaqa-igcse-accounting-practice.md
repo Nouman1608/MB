@@ -121,7 +121,7 @@ D: a cash purchase of stationery debited to the furniture account
 
 **(d)** Debit **Drawings 200** [1]; credit **Purchases 200** [1]
 
-**(e)** Debit **Suspense 130** [1]; credit **Interest received 130** [1]
+**(e)** Debit **Suspense 130** [1]; credit **Interest received 130** [1] **[10]**
 
 **8. (a)** 1: Dr Suspense 250, Cr Purchases returns 250 [1]
 
@@ -146,7 +146,7 @@ Dr                       Suspense                             Cr
 
 Opening debit of 720 [1]; corrections on the correct sides [1]; totals 1,100 with no balance remaining [1]
 
-**(c)** It is an error of commission: the debit and credit were equal, so it did not cause the trial balance difference [1]
+**(c)** It is an error of commission: the debit and credit were equal, so it did not cause the trial balance difference [1] **[9]**
 
 **9.** Credit **M Okafor 270** (1,520 − 1,250) [1]; credit **Sales 45** (1,250 − 1,205) [1]; debit **Suspense 315** [1]
 
@@ -158,7 +158,7 @@ Opening debit of 720 [1]; corrections on the correct sides [1]; totals 1,100 wit
 
 **(b)** Debit **G Bello 180**, credit **Sales 180** [1]
 
-**(c)** In both cases the debit and credit entries were for the same amount, so the trial balance totals agreed and there was no difference to place in suspense [1]
+**(c)** In both cases the debit and credit entries were for the same amount, so the trial balance totals agreed and there was no difference to place in suspense [1] **[4]**
 
 **12.** The customer accounts were posted from the individual invoices, so they are already correct [1]; only the total posted to the sales account was wrong, so debiting the customers would make their accounts wrong [1]; correct journal: debit **Suspense 600**, credit **Sales 600** [1]
 

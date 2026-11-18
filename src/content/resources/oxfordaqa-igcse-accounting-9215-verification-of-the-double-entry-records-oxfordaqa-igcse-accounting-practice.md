@@ -124,19 +124,19 @@ D: a credit purchase of 420 entered as 240 in both the purchases account and the
 
 **(b)** **Trial balance** (debits 270 too high), and the **receivables control account** locates it [1]; the control account uses the correct journal total of 1,360 but the customer's account shows 1,630, so the list of balances is 270 higher than the control account [1]
 
-**(c)** **None** of the four [1]; this is an error of commission, so debits equal credits, the control account total is unchanged, and the cash book agrees with the bank [1]
+**(c)** **None** of the four [1]; this is an error of commission, so debits equal credits, the control account total is unchanged, and the cash book agrees with the bank [1] **[6]**
 
 **8. (a)** 31,820 − 31,460 = **360** (the list is higher) [1]
 
 **(b)** Any two [1] [1], for example: a sales invoice posted to a customer's account at 360 more than its correct amount (such as 4,630 instead of 4,270); sales returns of 180 debited instead of credited to a customer's account; a credit note for 360 entered in the sales returns journal but never posted to the customer's account
 
-**(c)** In each case one side of the double entry in the ledger was wrong (the customer account) while the other side was correct, so total debits exceed total credits by 360 [1]
+**(c)** In each case one side of the double entry in the ledger was wrong (the customer account) while the other side was correct, so total debits exceed total credits by 360 [1] **[4]**
 
 **9. (a)** 5,320 − 160 + 240 [1]; − 270 (960 − 690) [1]; updated balance = **5,130** [1]
 
 **(b)** 4,980 − 1,100 + takings = 5,130 [1]; takings = **1,250** [1]
 
-**(c)** The **direct debit of 160** (or credit transfer of 240) was not recorded anywhere in the ledger, so there was nothing to make the totals disagree [1]; the **cheque entered as 690** was recorded at the same wrong amount in the cash book and the supplier's account, so debits still equalled credits [1]
+**(c)** The **direct debit of 160** (or credit transfer of 240) was not recorded anywhere in the ledger, so there was nothing to make the totals disagree [1]; the **cheque entered as 690** was recorded at the same wrong amount in the cash book and the supplier's account, so debits still equalled credits [1] **[7]**
 
 **10.** Agreement does show that debits equal credits and that the cash book matches the bank statement after timing differences [1]; but the trial balance cannot reveal errors such as omission, commission, principle or compensating errors [1]; and the bank reconciliation checks only the bank columns of the cash book, not the other accounts [1]; so the records are more likely to be accurate, but the owner cannot conclude they are free from error [1]
 

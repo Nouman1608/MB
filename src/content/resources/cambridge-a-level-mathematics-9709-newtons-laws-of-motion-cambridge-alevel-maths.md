@@ -3,7 +3,7 @@ title: "Cambridge A Level Mathematics (9709): Newton's laws of motion"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]
-topic: "Mechanics"
+topic: "Topic 4 – Mechanics"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9709"]

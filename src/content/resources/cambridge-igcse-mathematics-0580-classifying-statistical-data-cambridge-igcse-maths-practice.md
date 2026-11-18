@@ -161,7 +161,7 @@ MD  MP  AP  AD  AD  MP  AP  MD
 
 **(c)** **Qualitative** [1]
 
-**(d)** **Continuous** (time is measured) [1]
+**(d)** **Continuous** (time is measured) [1] **[4]**
 
 *Examiner insight:* "quantitative" alone is not enough when the question offers discrete and continuous as choices.
 
@@ -171,11 +171,11 @@ MD  MP  AP  AD  AD  MP  AP  MD
 
 **3. (a)** 5 is the end of the first class **and** the start of the second, so it could go in either class (the classes overlap) [1]
 
-**(b)** **0 ≤ h < 5, 5 ≤ h < 10, 10 ≤ h < 15** (or 0 < h ≤ 5, 5 < h ≤ 10, 10 < h ≤ 15) [1]
+**(b)** **0 ≤ h < 5, 5 ≤ h < 10, 10 ≤ h < 15** (or 0 < h ≤ 5, 5 < h ≤ 10, 10 < h ≤ 15) [1] **[2]**
 
 **4. (a)** Fruit **7**, crisps **11** [1]; biscuits **4** [1]
 
-**(b)** 7 + 11 + 4 = **22** children [1]
+**(b)** 7 + 11 + 4 = **22** children [1] **[3]**
 
 **5.** 9 is in **1–9** and 10 is in **10–19** [1]; 19 is in **10–19** and 20 is in **20–29** [1]
 
@@ -185,7 +185,7 @@ MD  MP  AP  AD  AD  MP  AP  MD
 
 **(b)** **4/25** [1]
 
-**(c)** 4 + 2 + 1 = **7** matches [1]
+**(c)** 4 + 2 + 1 = **7** matches [1] **[5]**
 
 *Examiner insight:* the frequencies must add to 25; if your total is 24 or 26, go through the list again before moving on.
 
@@ -193,7 +193,7 @@ MD  MP  AP  AD  AD  MP  AP  MD
 
 **(b)** 5 + 3 = **8** [1]
 
-**(c)** Grouping puts 2.0 kg in the class 2 ≤ m < 3 with the other masses in that class, so the individual values are lost [1]
+**(c)** Grouping puts 2.0 kg in the class 2 ≤ m < 3 with the other masses in that class, so the individual values are lost [1] **[5]**
 
 *Examiner insight:* the values 1.0, 2.0 and 3.0 sit on boundaries; each goes in the class that starts at that value, not the one that ends there.
 
@@ -210,7 +210,7 @@ Morning row correct [1]; afternoon row correct [1]; all totals correct [1]
 
 **(b)** **5/9** [1]
 
-**(c)** 4/8 × 100 = **50%** [1]
+**(c)** 4/8 × 100 = **50%** [1] **[5]**
 
 **10. (a)** Year 11 = 200 − 110 = 90; Year 10 French = 30% of 110 = 33; Year 11 Mandarin = 1/3 of 90 = 30 [1]
 
@@ -229,7 +229,7 @@ All totals correct [1]
 
 **(b)** 35/90 = **7/18** [1]
 
-**(c)** 22/200 × 100 = **11%** [1]
+**(c)** 22/200 × 100 = **11%** [1] **[6]**
 
 *Examiner insight:* "30% of the Year 10 students" means 30% of 110, not of 200; using 200 gives 60, which cannot fit in a row of 110 with the other values.
 
@@ -246,13 +246,13 @@ Total         33      30      27      90
 
 Petrol other = 75 − 27 − 26 = 22 and all totals correct [1]
 
-**(b)** 4/30 = **2/15** [1]
+**(b)** 4/30 = **2/15** [1] **[5]**
 
 **12. (a)** For example **0 ≤ m < 6, 6 ≤ m < 12, 12 ≤ m < 18, 18 ≤ m < 24, 24 ≤ m < 30**. Five classes of equal width with no gaps or overlaps [1]; the classes include both 3.2 and 27.8 [1]
 
 **(b)** You cannot tell how heavy the dogs in that class are, because it has no upper limit; it also groups very different masses, such as 21 kg and 27 kg, together [1]
 
-**(c)** **Two masses have been missed** (40 dogs but only 38 tallies), so the tally must be checked [1]
+**(c)** **Two masses have been missed** (40 dogs but only 38 tallies), so the tally must be checked [1] **[4]**
 
 ## Where marks are usually lost
 

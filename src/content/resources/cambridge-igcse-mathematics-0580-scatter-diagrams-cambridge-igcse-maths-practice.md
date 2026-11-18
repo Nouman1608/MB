@@ -135,7 +135,7 @@ Arm span   146  151  156  157  161  138  166  171  172  179
 
 **(b)** **Positive** [1]
 
-**(c)** **Zero** (no correlation) [1]
+**(c)** **Zero** (no correlation) [1] **[3]**
 
 **2.** **B** [1]
 
@@ -143,7 +143,7 @@ Arm span   146  151  156  157  161  138  166  171  172  179
 
 **4. (a)** Gradient = 50 ÷ 20 = 2.5; y = 20 + 2.5 × 8 = **40** [1]
 
-**(b)** (55 − 20) ÷ 2.5 = 14; x = 5 + 14 = **19** [1]
+**(b)** (55 − 20) ÷ 2.5 = 14; x = 5 + 14 = **19** [1] **[2]**
 
 **5.** **(5, 4)** [1]
 
@@ -157,7 +157,7 @@ Arm span   146  151  156  157  161  138  166  171  172  179
 
 **(d)** About **15.7 °C** (accept 15 °C to 16.5 °C, consistent with your line) [1]
 
-**(e)** 35 °C is **outside the range** of the data (8 °C to 25 °C); the pattern may not continue, so the estimate is unreliable [1]
+**(e)** 35 °C is **outside the range** of the data (8 °C to 25 °C); the pattern may not continue, so the estimate is unreliable [1] **[6]**
 
 *Examiner insight:* reading lines drawn on the graph show the examiner where your estimate came from; an estimate that does not match your own line loses the mark.
 
@@ -165,7 +165,7 @@ Arm span   146  151  156  157  161  138  166  171  172  179
 
 **(b)** Height **163 cm**, arm span **138 cm** [1]; for example, the arm span was measured or recorded wrongly [1]
 
-**(c)** Line drawn through the main pattern, not pulled towards (163, 138) [1]; estimate about **168 cm** (accept 165 to 171 cm, consistent with your line) [1]
+**(c)** Line drawn through the main pattern, not pulled towards (163, 138) [1]; estimate about **168 cm** (accept 165 to 171 cm, consistent with your line) [1] **[5]**
 
 **9.** Any three [1] [1] [1]:
 
@@ -177,17 +177,17 @@ Arm span   146  151  156  157  161  138  166  171  172  179
 
 **(b)** 86 + 6.5 × (40 − 2) = 86 + 247 = **333 cm** [1]
 
-**(c)** Extrapolating far beyond the data (ages 2 to 10) gives an **impossible** height; children stop growing, so the pattern does not continue [1]
+**(c)** Extrapolating far beyond the data (ages 2 to 10) gives an **impossible** height; children stop growing, so the pattern does not continue [1] **[3]**
 
 **11. (a)** **Diagram P's line** [1]; the points are close to the line, so values read from it are close to the real data [1]
 
-**(b)** **No**: with zero correlation there is no linear trend for a line to show [1]
+**(b)** **No**: with zero correlation there is no linear trend for a line to show [1] **[3]**
 
 **12. (a)** **Negative** [1]
 
 **(b)** Gradient = (170 − 410) ÷ 8 = −30 visitors per hour [1]; 410 − 30 × 5 = **260 visitors** [1]
 
-**(c)** (410 − 320) ÷ 30 = 3; 2 + 3 = **5 hours** [1]
+**(c)** (410 − 320) ÷ 30 = 3; 2 + 3 = **5 hours** [1] **[4]**
 
 ## Where marks are usually lost
 

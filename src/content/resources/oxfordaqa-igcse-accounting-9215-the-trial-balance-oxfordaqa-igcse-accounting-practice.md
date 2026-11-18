@@ -117,7 +117,7 @@ Totals                   92,800     92,000
 
 **2. (a)** Credits 3,550 − debits 2,040 = **1,510** (carried down on the debit side) [1]
 
-**(b)** **Credit balance b/d of 1,510**: the amount the business owes the supplier [1]
+**(b)** **Credit balance b/d of 1,510**: the amount the business owes the supplier [1] **[2]**
 
 **3.** **C** [1]
 
@@ -125,7 +125,7 @@ Totals                   92,800     92,000
 
 **5. (a)** The **credit** column [1]
 
-**(b)** 2 × 450 = **900** [1]
+**(b)** 2 × 450 = **900** [1] **[2]**
 
 **6.** Any two [1] [1]: it checks that total debits equal total credits; it provides a list of balances for preparing the financial statements; a disagreement warns that errors exist before the financial statements are prepared
 
@@ -153,15 +153,15 @@ Dr                    T Ndlovu                          Cr
 
 Entries on the correct sides [1]; balance c/d 1,400 and totals 3,650 [1]; balance b/d 1,400 on the debit side on 1 June [1]
 
-**(b)** **Debit** column (T Ndlovu owes the business, so it is part of trade receivables) [1]
+**(b)** **Debit** column (T Ndlovu owes the business, so it is part of trade receivables) [1] **[4]**
 
 **9. (a)** Four balances are in the wrong column: discount received and bank overdraft (credit balances) are in the debit column, and carriage outwards and sales returns (debit balances) are in the credit column [1]; the net effect, 2 × (350 + 1,150 − 480 − 620) = 800, is the difference between the totals [1]
 
-**(b)** Debit column: equipment, inventory, trade receivables, purchases, wages, rent paid, drawings as before [1]; carriage outwards 480 and sales returns 620 in the debit column [1]; discount received 350 and bank overdraft 1,150 in the credit column [1]; totals **92,400** on both sides [1]
+**(b)** Debit column: equipment, inventory, trade receivables, purchases, wages, rent paid, drawings as before [1]; carriage outwards 480 and sales returns 620 in the debit column [1]; discount received 350 and bank overdraft 1,150 in the credit column [1]; totals **92,400** on both sides [1] **[6]**
 
 **10. (a)** Debits = 45,000 + 12,000 + 4,300 + 3,800 + 26,500 + 9,100 + 6,200 + 700 = 107,600; credits = 61,400 + 2,900 + 3,700 + 5,000 = 73,000 [1]; capital = **34,600** [1]
 
-**(b)** Debits 111,300 − credits 69,300 = **42,000** [1]
+**(b)** Debits 111,300 − credits 69,300 = **42,000** [1] **[3]**
 
 *Examiner insight:* misplacing the overdraft changes the capital by twice 3,700, which is why the overdraft is so often tested.
 

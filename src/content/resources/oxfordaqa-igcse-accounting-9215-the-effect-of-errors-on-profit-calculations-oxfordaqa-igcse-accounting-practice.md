@@ -148,7 +148,7 @@ Corrected profit for the year             9,080
 
 +600 [1]; +200 [1]; −150 [1]; −320 [1]; corrected profit **9,080**, with error 3 shown as no effect [1]
 
-**(b)** Errors **1, 2, 3 and 4** [1]
+**(b)** Errors **1, 2, 3 and 4** [1] **[6]**
 
 *Examiner insight:* error 5 had equal debit and credit entries (the debit was just in the wrong account), so it did not cause the trial balance difference.
 
@@ -156,7 +156,7 @@ Corrected profit for the year             9,080
 
 **(b)** A non-current asset was treated as an expense, so expenses were overstated and profit understated [1]; the correction **increases profit by 9,000** [1]
 
-**(c)** Both are income accounts, so total income was correct [1]; **no effect** on profit [1]
+**(c)** Both are income accounts, so total income was correct [1]; **no effect** on profit [1] **[6]**
 
 **10.** An error in a trading item (sales, purchases, returns, carriage inwards or inventory) changes cost of sales or revenue, so it changes **gross profit and profit for the year** by the same amount [1]; example: purchases overcast by 200 [1]; an error in other income or an expense is shown below gross profit, so it changes **profit for the year only** [1]; example: rent paid not recorded [1]
 
@@ -168,7 +168,7 @@ Corrected profit for the year             9,080
 
 **(c)** **No effect** [1]
 
-**(d)** **Increases** by 180 [1]
+**(d)** **Increases** by 180 [1] **[4]**
 
 ## Where marks are usually lost
 

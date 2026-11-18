@@ -162,25 +162,25 @@ Frequency (f)   2    4    5    3    1
 
 **(c)** 9 − 2 = **7** [1]
 
-**(d)** 45 ÷ 9 = **5** [1]
+**(d)** 45 ÷ 9 = **5** [1] **[4]**
 
 **2.** Total of eight = 8 × 7 = 56 and total of seven = 7 × 6 = 42 [1]; removed number = 56 − 42 = **14** [1]
 
 **3. (a)** Position 6.5: (9 + 11) ÷ 2 = **10** [1]
 
-**(b)** 20 − 3 = **17** [1]
+**(b)** 20 − 3 = **17** [1] **[2]**
 
 **4. (a)** **Mode**: the data are qualitative (colours), so no other average is possible [1]
 
 **(b)** **Median**: the walking runner's time is an extreme value that would pull the mean up [1]
 
-**(c)** **Mean**: there are no extreme values, so the mean uses every height fairly [1]
+**(c)** **Mean**: there are no extreme values, so the mean uses every height fairly [1] **[3]**
 
 **5.** LQ = 2nd value = **18** and UQ = 6th value = **30** [1]; IQR = 30 − 18 = **12** [1]
 
 **6. (a)** **11–20** [1]
 
-**(b)** (11 + 20) ÷ 2 = **15.5** [1]
+**(b)** (11 + 20) ÷ 2 = **15.5** [1] **[2]**
 
 **7. (a)** **2** [1]
 
@@ -188,37 +188,37 @@ Frequency (f)   2    4    5    3    1
 
 **(c)** Σfx = 0 + 7 + 20 + 24 + 8 + 5 = 64 [1]; mean = 64 ÷ 30 = **2.13** (3 s.f.) [1]
 
-**(d)** 5 − 0 = **5** [1]
+**(d)** 5 − 0 = **5** [1] **[6]**
 
 *Examiner insight:* 10 is the frequency of the mode, not the mode; and the mean is divided by 30 students, not by the 6 columns.
 
 **8. (a)** Σfx = 6 + 2k + 24 + 16 = 46 + 2k and Σf = 18 + k [1]; (46 + 2k) ÷ (18 + k) = 2.5, so 46 + 2k = 45 + 2.5k [1]; **k = 2** [1]
 
-**(b)** First group: 20 families with total 50 children; second group: 30 × 3.1 = 93 [1]; mean = (50 + 93) ÷ 50 = **2.86** [1]
+**(b)** First group: 20 families with total 50 children; second group: 30 × 3.1 = 93 [1]; mean = (50 + 93) ÷ 50 = **2.86** [1] **[5]**
 
 *Examiner insight:* (2.5 + 3.1) ÷ 2 = 2.8 is wrong because the groups have different numbers of families.
 
 **9. (a)** Total = 10 × 68 + 90 = 770 [1]; new mean = 770 ÷ 11 = **70 points** [1]
 
-**(b)** Highest of the first 10 = 55 + 25 = 80, so 90 is the new highest [1]; range = 90 − 55 = **35** [1]
+**(b)** Highest of the first 10 = 55 + 25 = 80, so 90 is the new highest [1]; range = 90 − 55 = **35** [1] **[4]**
 
 **10. (a)** Total = 271 000 [1]; mean = 271 000 ÷ 8 = **$33 875** [1]; median = (25 000 + 26 000) ÷ 2 = **$25 500** [1]; mode = **$23 000** [1]
 
 **(b)** The mean is pulled up by the one salary of $95 000; seven of the eight people earn $30 000 or less, so a typical salary is well under $33 000 [1]
 
-**(c)** 176 000 ÷ 7 = **$25 142.86** (or $25 100 to 3 s.f.) [1]
+**(c)** 176 000 ÷ 7 = **$25 142.86** (or $25 100 to 3 s.f.) [1] **[6]**
 
 **11. (a)** **2 < m ≤ 4** [1]
 
 **(b)** Midpoints 1, 3, 5, 7, 9 [1]; Σf × midpoint = 8 + 51 + 70 + 49 + 36 = 214 [1]; 214 ÷ 50 = **4.28 kg** [1]
 
-**(c)** The actual masses are not known; each is assumed to be at the midpoint of its class [1]
+**(c)** The actual masses are not known; each is assumed to be at the midpoint of its class [1] **[5]**
 
 **12. (a)** Running totals 2, 6, 11, 14, 15; the median is the 8th value = **3** [1]
 
 **(b)** LQ = 4th value = **2** [1]; UQ = 12th value = **4** [1]
 
-**(c)** 4 − 2 = **2** [1]
+**(c)** 4 − 2 = **2** [1] **[4]**
 
 *Examiner insight:* with n = 15, the positions are (15 + 1) ÷ 4 = 4, (15 + 1) ÷ 2 = 8 and 3 × 16 ÷ 4 = 12; use the running totals to find which score is in each position.
 

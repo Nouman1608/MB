@@ -141,7 +141,7 @@ All heights are more than 140 cm.
 
 **3. (a)** 200 ÷ 4 = **50** and 3 × 200 ÷ 4 = **150** [1]
 
-**(b)** 0.8 × 200 = **160** [1]
+**(b)** 0.8 × 200 = **160** [1] **[2]**
 
 **4.** 52 − 34 = **18** [1]
 
@@ -157,33 +157,33 @@ All heights are more than 140 cm.
 
 **(d)** LQ: across at 25, about **18 minutes** (accept 17 to 19) [1]; UQ: across at 75, about **37 minutes** (accept 36 to 38) [1]; IQR ≈ 37 − 18 = **19 minutes** (accept 17 to 21, consistent with your readings) [1]
 
-**(e)** 100 − 85 = **15** [1]
+**(e)** 100 − 85 = **15** [1] **[9]**
 
 *Examiner insight:* the LQ height 25 lies between the points (10, 8) and (20, 30), so the LQ must be between 10 and 20 minutes; a reading outside that class is a misread scale.
 
 **8. (a)** Group A: 0.47 − 0.37 = **0.10 s** [1]; Group B: 0.45 − 0.30 = **0.15 s** [1]
 
-**(b)** Group B's median (0.38 s) is lower, so Group B typically reacted faster [1]; Group A's IQR (0.10 s) is smaller, so Group A's reaction times were more consistent [1]
+**(b)** Group B's median (0.38 s) is lower, so Group B typically reacted faster [1]; Group A's IQR (0.10 s) is smaller, so Group A's reaction times were more consistent [1] **[4]**
 
 **9. (a)** 0.1 × 160 = **16** [1]; 0.9 × 160 = **144** [1]
 
 **(b)** 77 − 41 = **36 marks** [1]
 
-**(c)** About **90% of the students scored 77 marks or less** (10% scored more) [1]
+**(c)** About **90% of the students scored 77 marks or less** (10% scored more) [1] **[4]**
 
 **10. (a)** 48 students scored 35 or less, so 120 − 48 = 72 passed [1]; 72 ÷ 120 × 100 = **60%** [1]
 
-**(b)** The lowest merit mark is the upper quartile: read across at 0.75 × 120 = **90** [1]
+**(b)** The lowest merit mark is the upper quartile: read across at 0.75 × 120 = **90** [1] **[3]**
 
 **11. (a)** 6, 20 − 6 = 14, 47 − 20 = 27 [1]; 66 − 47 = 19, 72 − 66 = 6 [1]
 
 **(b)** 72 − 47 = **25** [1]
 
-**(c)** Median height 72 ÷ 2 = 36, between 20 and 47, so **160 < h ≤ 170** [1]
+**(c)** Median height 72 ÷ 2 = 36, between 20 and 47, so **160 < h ≤ 170** [1] **[4]**
 
 **12. (a)** A cumulative frequency counts everything **up to the end of the class**, so it must be plotted at the **upper class boundary** (25, 30, 35, ...) [1]
 
-**(b)** The curve is moved 2.5 minutes to the left, so his median is about **2.5 minutes too small** [1]
+**(b)** The curve is moved 2.5 minutes to the left, so his median is about **2.5 minutes too small** [1] **[2]**
 
 ## Where marks are usually lost
 

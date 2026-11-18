@@ -141,7 +141,7 @@ Class          Frequency   Bar height (frequency density)
 
 **4. (a)** 10 ÷ 4 = **2.5**, 9 ÷ 2 = **4.5**, 24 ÷ 6 = **4** [1]
 
-**(b)** **4 < l ≤ 6** (highest frequency density) [1]
+**(b)** **4 < l ≤ 6** (highest frequency density) [1] **[2]**
 
 *Examiner insight:* 6 < l ≤ 12 has the highest frequency, but it is three times as wide; the modal class is the tallest bar.
 
@@ -153,29 +153,29 @@ Class          Frequency   Bar height (frequency density)
 
 **(b)** **15 < a ≤ 20** [1]
 
-**(c)** From 40 to 50 is half of the class 30 < a ≤ 50: 0.9 × 10 = 9 [1]; 9 + 6 = **15** people [1]
+**(c)** From 40 to 50 is half of the class 30 < a ≤ 50: 0.9 × 10 = 9 [1]; 9 + 6 = **15** people [1] **[6]**
 
 **8. (a)** 1.5 × 10 = **15** and 4.8 × 5 = **24** [1]; 6 × 5 = **30** and 2.2 × 10 = **22** [1]; 0.45 × 20 = **9** [1]
 
 **(b)** 15 + 24 + 30 + 22 + 9 = **100** [1]
 
-**(c)** Midpoints 5, 12.5, 17.5, 25, 40 [1]; Σf × midpoint = 75 + 300 + 525 + 550 + 360 = 1810 [1]; 1810 ÷ 100 = **18.1 minutes** [1]
+**(c)** Midpoints 5, 12.5, 17.5, 25, 40 [1]; Σf × midpoint = 75 + 300 + 525 + 550 + 360 = 1810 [1]; 1810 ÷ 100 = **18.1 minutes** [1] **[7]**
 
 **9. (a)** Density of the known bar = 35 ÷ 10 = 3.5, shown by 7 cm, so 1 cm = **0.5** [1]
 
-**(b)** 0 < m ≤ 20: 2 × 0.5 = 1, 1 × 20 = **20** [1]; 30 < m ≤ 35: 8 × 0.5 = 4, 4 × 5 = **20** [1]; 35 < m ≤ 50: 4 × 0.5 = 2, 2 × 15 = **30** [1]
+**(b)** 0 < m ≤ 20: 2 × 0.5 = 1, 1 × 20 = **20** [1]; 30 < m ≤ 35: 8 × 0.5 = 4, 4 × 5 = **20** [1]; 35 < m ≤ 50: 4 × 0.5 = 2, 2 × 15 = **30** [1] **[4]**
 
 **10. (a)** 12 ÷ 4 = **3** [1]; 20 ÷ 4 = **5** [1]
 
-**(b)** 8 × 2 = **16** [1]; 0.9 × 10 = **9** [1]
+**(b)** 8 × 2 = **16** [1]; 0.9 × 10 = **9** [1] **[4]**
 
 **11. (a)** The classes have **different widths**, so bar height (or area) does not show how crowded each class is; wide classes look too important [1]
 
-**(b)** On Zara's diagram the 30 < a ≤ 50 bar (height 18, width 20) covers more area than the 20 < a ≤ 30 bar (height 26, width 10), suggesting more people, although it has fewer (18 against 26) and its frequency density (0.9) is about a third of 2.6 [1]
+**(b)** On Zara's diagram the 30 < a ≤ 50 bar (height 18, width 20) covers more area than the 20 < a ≤ 30 bar (height 26, width 10), suggesting more people, although it has fewer (18 against 26) and its frequency density (0.9) is about a third of 2.6 [1] **[2]**
 
 **12. (a)** 25 to 30: 3 × 5 = 15 [1]; 30 to 40: 1.2 × 10 = 12; total **27** [1]
 
-**(b)** 1.2 is the **frequency density**; the frequency is 1.2 × 10 = **12** [1]
+**(b)** 1.2 is the **frequency density**; the frequency is 1.2 × 10 = **12** [1] **[3]**
 
 ## Where marks are usually lost
 

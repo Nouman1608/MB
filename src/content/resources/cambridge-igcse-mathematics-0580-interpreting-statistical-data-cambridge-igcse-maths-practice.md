@@ -141,7 +141,7 @@ Give three different reasons why her conclusion may not be reliable. **[3]**
 
 **(b)** Cannot tell: the last column is "4 or more", so the 2 students could have more than 4 [1]
 
-**(c)** True: 8 + 3 + 2 = 13, and 13/30 is more than 10/30 [1]
+**(c)** True: 8 + 3 + 2 = 13, and 13/30 is more than 10/30 [1] **[3]**
 
 *Examiner insight:* "cannot tell" earns the mark only with the reason; here the reason is the open-ended last class.
 
@@ -149,11 +149,11 @@ Give three different reasons why her conclusion may not be reliable. **[3]**
 
 **3. (a)** Mean = 1735 ÷ 5 = **347** thousand dollars [1]; median = **200** thousand dollars [1]
 
-**(b)** The **median**, because the mean is pulled up by the one extreme price of 950 thousand dollars; four of the five houses cost less than the mean [1]
+**(b)** The **median**, because the mean is pulled up by the one extreme price of 950 thousand dollars; four of the five houses cost less than the mean [1] **[3]**
 
 **4. (a)** Bars are 75 − 50 = 25 and 60 − 50 = 10 units tall, so the week 2 bar appears **2.5 times** as tall [1]
 
-**(b)** Increase = 15 [1]; 15 ÷ 60 × 100 = **25%** [1]
+**(b)** Increase = 15 [1]; 15 ÷ 60 × 100 = **25%** [1] **[3]**
 
 **5.** Town A: 0.35 × 260 = 91; Town B: 0.20 × 480 = 96 [1]; **No**, more people in Town B cycle (96 > 91), although a higher percentage cycle in Town A [1]
 
@@ -163,7 +163,7 @@ Give three different reasons why her conclusion may not be reliable. **[3]**
 
 **7. (a)** Clinic 1: mean = 98 ÷ 7 = **14 minutes** [1]; Clinic 2: mean = 105 ÷ 7 = **15 minutes** [1]; ranges: Clinic 1 = 20 − 9 = **11 minutes**, Clinic 2 = 30 − 6 = **24 minutes** [1]
 
-**(b)** Clinic 1 has the lower mean, so patients there wait slightly less on average [1]; Clinic 1 has the smaller range, so its waiting times are more consistent [1]
+**(b)** Clinic 1 has the lower mean, so patients there wait slightly less on average [1]; Clinic 1 has the smaller range, so its waiting times are more consistent [1] **[5]**
 
 **8. (a)** Athlete B ordered: 4.9, 5.1, 5.6, 6.0, 6.1, 6.2, 6.3, 6.4, 6.7, 6.8, 7.0
 
@@ -173,7 +173,7 @@ Athlete B: median **6.2 m** [1]; LQ **5.6 m**, UQ **6.7 m** [1]
 
 **(b)** A: 6.2 − 5.6 = **0.6 m**; B: 6.7 − 5.6 = **1.1 m** [1]
 
-**(c)** Athlete B has the higher median (6.2 m against 6.0 m), so B typically jumps further [1]; Athlete A has the smaller IQR (0.6 m against 1.1 m), so A's jumps are more consistent [1]
+**(c)** Athlete B has the higher median (6.2 m against 6.0 m), so B typically jumps further [1]; Athlete A has the smaller IQR (0.6 m against 1.1 m), so A's jumps are more consistent [1] **[6]**
 
 *Examiner insight:* Athlete B's data must be put in order first; the 6th value of the unordered list (6.8) is not the median.
 
@@ -183,17 +183,17 @@ Athlete B: median **6.2 m** [1]; LQ **5.6 m**, UQ **6.7 m** [1]
 
 **(c)** The groups are different sizes (55 and 30 people) [1]; 20 ÷ 55 = 36.4% of the 30 to 59 group prefer TV, but 18 ÷ 30 = 60% of the 60 and over group do [1]; so a greater **proportion** of the 60 and over group prefer TV, and TV is more popular with them [1]
 
-**(d)** Everyone surveyed uses the internet, so people who prefer online news are likely to be over-represented (the sample is not representative) [1]
+**(d)** Everyone surveyed uses the internet, so people who prefer online news are likely to be over-represented (the sample is not representative) [1] **[7]**
 
 **10. (a)** The number of members **increases by 30 each year** [1]
 
-**(b)** Any two different reasons [1] [1], for example: the prediction goes 10 years beyond the data; only four years of data are used; the increase may slow or stop (the club may have a limited capacity or lose members)
+**(b)** Any two different reasons [1] [1], for example: the prediction goes 10 years beyond the data; only four years of data are used; the increase may slow or stop (the club may have a limited capacity or lose members) **[3]**
 
 **11. (a)** He has at least one **very high score** that pulls the mean up; most of his scores are lower than the mean [1]
 
 **(b)** **Player Y**, with two reasons: Y's range (40) is much smaller than X's (95), so Y's scores are more consistent [1]; Y's median (29) is higher than X's (22), so Y's typical innings is better [1]
 
-**(c)** A mean and a median are different measures, so a difference between them may come from the choice of average, not from the players' scores [1]
+**(c)** A mean and a median are different measures, so a difference between them may come from the choice of average, not from the players' scores [1] **[4]**
 
 **12.** Any three different reasons [1] [1] [1], for example:
 
