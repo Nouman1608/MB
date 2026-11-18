@@ -89,6 +89,16 @@ Escapes are comic when narrow, undignified or overtaken by discovery.
 - **Respectability**: Wilde's double lives satirise Victorian earnestness and the need to appear
   respectable.
 
+## Linking to other comic aspects
+
+- **Folly and gullibility**: disguise works only on characters foolish or vain enough to be fooled
+  (Orsino and Olivia, Marlow, Malvolio).
+- **The comic villain or rival**: concealment can let a rival disrupt the mood until discovery
+  curtails their power.
+- **Structure**: disguise creates the period of confusion; discovery begins the move to order.
+- **Marriage**: most discoveries end in, or make possible, the marriages AQA calls "a focal point".
+- **Self-awareness**: Wilde's absurd recognition token shows comedy drawing attention to itself.
+
 ## Exam traps
 
 - Listing disguises without explaining the gap they open.

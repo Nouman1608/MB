@@ -46,16 +46,16 @@ These questions cover section 3.4.3 Motivating employees of the AQA GCSE Busines
 
 ### Section B: structured and extended questions
 
-**7.** Ottery Cars pays each salesperson £1,600 a month plus 2% commission on the value of cars sold. In March, Jess sold £64,000 of cars and Sam sold £28,000.
+**7.** Otterwell Cars pays each salesperson £1,600 a month plus 2% commission on the value of cars sold. In March, Jess sold £64,000 of cars and Sam sold £28,000.
 
 **(a)** Calculate Jess's total pay for March. **[2]**
 **(b)** Calculate how much more Jess earned than Sam in March. **[2]**
-**(c)** Analyse **one** risk to Ottery Cars of relying on commission to motivate sales staff. **[4]**
+**(c)** Analyse **one** risk to Otterwell Cars of relying on commission to motivate sales staff. **[4]**
 
-**8.** Brennan Builders made a profit of £140,000 last year. It shared 6% of the profit equally between its 28 employees.
+**8.** Brenmoor Builders made a profit of £140,000 last year. It shared 6% of the profit equally between its 28 employees.
 
 **(a)** Calculate the amount each employee received. **[2]**
-**(b)** Explain **one** benefit to Brennan Builders of profit sharing. **[3]**
+**(b)** Explain **one** benefit to Brenmoor Builders of profit sharing. **[3]**
 
 **9.** Penlow Call Centre has 40 advisers who handle 9,600 calls a week between them. After a change in management style, the same 40 advisers handle 10,560 calls a week.
 
@@ -86,10 +86,10 @@ These questions cover section 3.4.3 Motivating employees of the AQA GCSE Busines
 
 **7. (a)** Commission: 0.02 × £64,000 = £1,280 [1]; total pay £1,600 + £1,280 = **£2,880** [1]. **[2]**
 **(b)** Sam's commission: 0.02 × £28,000 = £560, so total pay £2,160 [1]; difference £2,880 − £2,160 = **£720** [1]. **[2]**
-**(c)** Salespeople may push customers into cars they cannot afford or do not need [1] to raise their own pay [1]. Customers who feel pressured may complain or leave poor reviews [1], damaging Ottery Cars' reputation and future sales [1]. Also accept: staff competing rather than cooperating, or neglecting after-sales service, with a developed chain. **[4]**
+**(c)** Salespeople may push customers into cars they cannot afford or do not need [1] to raise their own pay [1]. Customers who feel pressured may complain or leave poor reviews [1], damaging Otterwell Cars' reputation and future sales [1]. Also accept: staff competing rather than cooperating, or neglecting after-sales service, with a developed chain. **[4]**
 
 **8. (a)** 0.06 × £140,000 = £8,400 [1]; £8,400 ÷ 28 = **£300** each [1]. **[2]**
-**(b)** All employees benefit when the business does well [1], so builders have a reason to reduce waste and finish jobs efficiently [1], which can raise profit and cut costs for Brennan Builders [1]. **[3]**
+**(b)** All employees benefit when the business does well [1], so builders have a reason to reduce waste and finish jobs efficiently [1], which can raise profit and cut costs for Brenmoor Builders [1]. **[3]**
 
 **9. (a)** Before: 9,600 ÷ 40 = **240** calls [1]. After: 10,560 ÷ 40 = **264** calls [1]. **[2]**
 **(b)** (264 − 240) ÷ 240 × 100 [1] = **10%** [1]. **[2]**

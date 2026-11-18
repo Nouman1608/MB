@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "natural-hazards-5014-2027"
     subtopic: "earthquakes-and-volcanoes-5014-2027"
-description: "Study guide to 5014 sub-topic 6.1: Earth structure, plate boundaries, earthquake and eruption features, impacts, management before, during and after, and benefits."
+description: "Study guide to 5014 sub-topic 6.1: Earth structure, plate boundaries, earthquake and eruption features, impacts, management and the benefits of volcanoes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

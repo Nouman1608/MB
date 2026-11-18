@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies: 7.1 Natural resources -- uses and management -- Revision Notes"
+title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Natural resources -- uses and management -- Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

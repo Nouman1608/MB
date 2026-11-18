@@ -117,7 +117,7 @@ When no passage is printed:
 10. A candidate quotes accurately but from a different story in the selection. Which assessment
     objective suffers most?
 11. Why should you refer to a story's ending even when the printed passage comes earlier?
-12. In the original line "She folded the letter twice and put it back in the drawer, unread", what
+12. In the original line "He set two plates on the table, then put one back in the cupboard", what
     does the writer imply, and how?
 
 **Answers:** 1. One set text. 2. No; relevant passages are printed on the paper. 3. The moment at
@@ -129,9 +129,9 @@ to an opening image. 7. It often names the central object or idea, and its meani
 end. 8. Voice; situation; shape (opening, turning point, ending); setting; central idea; five short
 quotations. 9. Whether it comes before, at or after the turning point, and what the reader knows at
 that moment. 10. AO1, knowledge of the content of the text. 11. Because the ending shapes the meaning
-of the whole story, so it explains why the earlier moment matters. 12. That she cannot face what the
-letter contains, or already knows; the writer implies it through the careful action of folding and
-the single final word "unread", which leaves her feelings unspoken.
+of the whole story, so it explains why the earlier moment matters. 12. That someone he used to eat with
+is gone, and that he forgot for a moment; the writer implies it through a small action and its
+reversal, leaving his grief unspoken.
 
 ## Related pages
 

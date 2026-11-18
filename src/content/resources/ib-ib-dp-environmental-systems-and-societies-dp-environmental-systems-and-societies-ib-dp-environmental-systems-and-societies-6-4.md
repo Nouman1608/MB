@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies: 6.4 Stratospheric ozone"
+title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Stratospheric ozone"
 resourceType: "study-guides"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

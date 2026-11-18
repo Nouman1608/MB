@@ -74,7 +74,7 @@ A share of the business's profit paid to employees, often as a yearly bonus. It 
 
 ### Worked example: choosing a pay system for sales staff
 
-Carrick Kitchens sells fitted kitchens. A designer currently earns a salary of £2,400 a month. The owner proposes a lower basic salary of £1,700 plus 3% commission on sales.
+Carrow Kitchens sells fitted kitchens. A designer currently earns a salary of £2,400 a month. The owner proposes a lower basic salary of £1,700 plus 3% commission on sales.
 
 | Monthly sales by designer | Commission (3%) | Total pay | Change on current £2,400 |
 |---|---|---|---|

@@ -43,7 +43,7 @@ Related: [Earthquakes and volcanoes study guide](/resources/cambridge-o-level-en
 
 **3.** State what is meant by a *volcanic bomb*. **[1]**
 
-**4.** Name **two** continents that lie entirely in the Southern Hemisphere. **[2]**
+**4.** Name the **two** continents that border the western side of the Atlantic Ocean. **[2]**
 
 ## Section B
 
@@ -91,8 +91,7 @@ view. **[6]**
 
 **3.** A lump of lava thrown out during an eruption that cools and hardens in the air before landing. **[1]**
 
-**4.** Any two of: Antarctica; Oceania (Australia); South America is mostly but not entirely southern, so
-not accepted. Accept Antarctica **[1]** and Oceania **[1]**.
+**4.** North America **[1]**; South America **[1]**.
 
 **5.** (a) Convergent (destructive) boundary. **[1]**
 (b) Oceanic crust is denser than continental crust **[1]**, so it sinks beneath the continental plate as the

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "magnetism-and-electromagnetism-aqa-gcse"
     subtopic: "the-motor-effect"
-description: "AQA GCSE Physics 8463 section 4.7.2 in depth: electromagnets and devices, Fleming's left-hand rule, F = BIl, electric motors and loudspeakers, with worked examples."
+description: "AQA GCSE Physics 8463 section 4.7.2 in depth: electromagnets and devices, Fleming's left-hand rule, F = BIl, motors and loudspeakers, worked through."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

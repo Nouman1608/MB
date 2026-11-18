@@ -51,10 +51,10 @@ These questions cover section 3.4.4 Training of the AQA GCSE Business (8132) spe
 **(a)** Explain **one** benefit to Hollin Fitness of induction training. **[3]**
 **(b)** Explain **one** reason why a poor induction could increase Hollin Fitness's costs. **[3]**
 
-**8.** Cresswell Foods trains new packers on the job. A supervisor normally packs £900 of orders a day. While training a new packer, she packs only £600 of orders a day. Training lasts 5 days.
+**8.** Cresswold Foods trains new packers on the job. A supervisor normally packs £900 of orders a day. While training a new packer, she packs only £600 of orders a day. Training lasts 5 days.
 
 **(a)** Calculate the value of output lost while the supervisor trains one new packer. **[2]**
-**(b)** Analyse **one** other disadvantage of on-the-job training for Cresswell Foods. **[4]**
+**(b)** Analyse **one** other disadvantage of on-the-job training for Cresswold Foods. **[4]**
 
 **9.** Explain how training can improve customer service in a mobile phone shop. **[3]**
 
@@ -63,9 +63,9 @@ These questions cover section 3.4.4 Training of the AQA GCSE Business (8132) spe
 **(a)** Calculate how many months it will take for the savings to cover the cost of the training. **[2]**
 **(b)** Explain **one** reason why the training might not pay for itself in this time. **[2]**
 
-**11.** Ashby Pharmacy needs its counter assistants to learn about new medicines rules. Option A: the pharmacist trains them on the job during quiet periods. Option B: they attend a two-day off-the-job course run by specialist trainers. Analyse **one** advantage of each option for Ashby Pharmacy. **[6]**
+**11.** Ashwold Pharmacy needs its counter assistants to learn about new medicines rules. Option A: the pharmacist trains them on the job during quiet periods. Option B: they attend a two-day off-the-job course run by specialist trainers. Analyse **one** advantage of each option for Ashwold Pharmacy. **[6]**
 
-**12.** Kilnsey Coffee is a chain of eight coffee shops. It is introducing a new ordering app that customers will use on their phones, linked to new screens behind the counter. The finance director wants staff trained on the job by shop managers to save money. The operations manager wants all staff to attend an off-the-job session run by the app's supplier. Evaluate which approach Kilnsey Coffee should take. **[9]**
+**12.** Kilnmere Coffee is a chain of eight coffee shops. It is introducing a new ordering app that customers will use on their phones, linked to new screens behind the counter. The finance director wants staff trained on the job by shop managers to save money. The operations manager wants all staff to attend an off-the-job session run by the app's supplier. Evaluate which approach Kilnmere Coffee should take. **[9]**
 
 ## Answers
 
@@ -85,14 +85,14 @@ These questions cover section 3.4.4 Training of the AQA GCSE Business (8132) spe
 **(b)** New staff who feel unsupported may leave in their first weeks [1], so Hollin must recruit again [1], paying again for advertising, interviews and training [1]. **[3]**
 
 **8. (a)** £900 − £600 = £300 a day [1]; £300 × 5 = **£1,500** [1]. **[2]**
-**(b)** The supervisor may not be a skilled teacher, or may pass on shortcuts [1], so the new packer learns bad habits [1], leading to packing errors such as wrong items sent [1], which cause returns and complaints and cost Cresswell money [1]. **[4]**
+**(b)** The supervisor may not be a skilled teacher, or may pass on shortcuts [1], so the new packer learns bad habits [1], leading to packing errors such as wrong items sent [1], which cause returns and complaints and cost Cresswold money [1]. **[4]**
 
 **9.** Training gives staff detailed knowledge of the phones and contracts [1], so they can answer questions and match customers to the right product [1], making customers more satisfied and more likely to return or recommend the shop [1]. **[3]**
 
 **10. (a)** £7,500 ÷ £1,250 [1] = **6 months** [1]. **[2]**
 **(b)** Welders might leave after being trained [1], so the business loses the skills before the savings are made [1]. Also accept: the fall in faults may be smaller than forecast. **[2]**
 
-**11.** Option A: there are no course fees and the assistants stay at the pharmacy [1], so the counter remains staffed for customers [1], and training can be fitted to Ashby's own products and customers [1]. Option B: specialist trainers know the new rules in detail [1], so assistants are less likely to make mistakes when advising customers [1], which matters because errors with medicines could harm customers and the pharmacy's reputation [1]. **[6]**
+**11.** Option A: there are no course fees and the assistants stay at the pharmacy [1], so the counter remains staffed for customers [1], and training can be fitted to Ashwold's own products and customers [1]. Option B: specialist trainers know the new rules in detail [1], so assistants are less likely to make mistakes when advising customers [1], which matters because errors with medicines could harm customers and the pharmacy's reputation [1]. **[6]**
 
 **12.** Knowledge: on-the-job training is at work, often by a manager; off-the-job is away from the workplace, here by the supplier [1].
 Application: eight shops, so on-the-job training relies on eight different managers [1]; the app is new, so managers have no experience of it either [1].

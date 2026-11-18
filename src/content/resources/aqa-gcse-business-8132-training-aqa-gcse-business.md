@@ -128,7 +128,7 @@ Often the best answer is a combination: off-the-job training for the specialist 
 
 ## Annotated model answer
 
-*Question: Analyse one benefit to Lowther Care Homes of induction training for new care assistants.*
+*Question: Analyse one benefit to Lowmere Care Homes of induction training for new care assistants.*
 
 "Induction teaches new care assistants the home's health and safety and emergency procedures from their first day. *(benefit applied to a care home)* This matters because residents are vulnerable, so a mistake in moving or feeding them could cause harm. *(why it matters here)* Fewer accidents protect residents and the home's reputation, which affects whether families choose it and whether it passes inspections." *(consequence for the business)*
 

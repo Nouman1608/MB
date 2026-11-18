@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "magnetism-and-electromagnetism-aqa-gcse"
     subtopic: "the-motor-effect"
-description: "Twelve original AQA GCSE Physics 8463 motor effect questions on solenoids, electromagnet devices, Fleming's rule, F = BIl, motors and loudspeakers, with answers."
+description: "Twelve original AQA GCSE Physics 8463 motor effect questions on solenoids, electromagnets, Fleming's rule, F = BIl, motors and loudspeakers, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

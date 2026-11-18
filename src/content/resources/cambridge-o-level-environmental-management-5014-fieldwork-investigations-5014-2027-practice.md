@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "ecosystems-biodiversity-and-fieldwork-5014-2027"
     subtopic: "fieldwork-investigations-5014-2027"
-description: "Original practice questions with mark-scheme answers on planning fieldwork, variables, sampling strategies, techniques and processing data for 5014 sub-topic 5.4."
+description: "Original practice questions with mark-scheme answers on planning fieldwork, variables, sampling strategies, techniques and field data for 5014 sub-topic 5.4."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

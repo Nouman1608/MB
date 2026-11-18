@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "water-5014-2027"
     subtopic: "water-pollution-5014-2027"
-description: "Study guide to 5014 sub-topic 3.2: sources of water pollution, cholera risk, bioaccumulation, biomagnification, eutrophication and ways to improve water quality."
+description: "Study guide to 5014 sub-topic 3.2: sources of water pollution, cholera risk, bioaccumulation, biomagnification, eutrophication and water quality strategies."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

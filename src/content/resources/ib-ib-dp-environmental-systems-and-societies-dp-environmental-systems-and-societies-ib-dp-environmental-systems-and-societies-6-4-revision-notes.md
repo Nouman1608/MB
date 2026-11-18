@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies: 6.4 Stratospheric ozone -- Revision Notes"
+title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Stratospheric ozone -- Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

@@ -92,6 +92,9 @@ records the volume that passes through in 15 minutes.
 **12.** A town plans to drill a well for drinking water. Below the town is a layer of sandstone resting on
 a layer of shale. Explain why ground water can be stored at this site. **[3]**
 
+**13.** Two neighbouring hill areas receive the same heavy rainfall. One is made of granite and the other
+of sandstone. Explain why streams in the granite area rise more quickly after the storm. **[4]**
+
 ## Answers
 
 **1.** Igneous [1].
@@ -151,6 +154,15 @@ same length of time; start with dry samples [1].
 so water cannot drain any further down [1]. Water therefore collects and is stored in the sandstone above
 the shale, forming an aquifer that the well can reach [1].
 
+**13.** Any four:
+
+- Granite is igneous, made of interlocking crystals, so it is impermeable [1].
+- Rain cannot soak into the granite, so most of it flows over the surface as run-off [1].
+- Surface run-off reaches the streams quickly, so they rise soon after the storm [1].
+- Sandstone is permeable: rain passes into its pore spaces [1].
+- Water moving through the rock reaches the streams slowly, so the streams rise later and less
+  sharply [1].
+
 ## Where marks are usually lost
 
 - Saying granite cools slowly because it is "in the sea" or "on the surface".
@@ -158,3 +170,4 @@ the shale, forming an aquifer that the well can reach [1].
 - Naming the rock type instead of the process for a labelled arrow.
 - In 10(a), dividing by 84 or by 100 instead of the 200 cm³ poured in.
 - Saying marble forms when limestone melts.
+- In 13, describing the rocks without linking permeability to how fast water reaches the streams.

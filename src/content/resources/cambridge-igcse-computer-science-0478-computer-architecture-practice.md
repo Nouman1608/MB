@@ -116,3 +116,5 @@ Working: LOAD 70 puts 15 in the ACC. SUBTRACT 71 fetches 6 and the ALU calculate
 - Question 8: putting the instruction address (42) in the MAR at the end. After execution the MAR holds the data address used by STORE.
 - Questions 10 and 11: writing "faster" without saying what happens inside the CPU.
 - Question 13: arguing about size. The deciding idea is a dedicated function versus a general purpose.
+- Question 5: writing "it controls the computer". Name a specific task, such as decoding instructions or sending read and write signals.
+- Question 9: describing what each register holds without saying why both are needed: one holds where to look, the other what was found there.

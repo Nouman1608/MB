@@ -107,3 +107,6 @@ Related: [Data storage study guide](/resources/cambridge-igcse-computer-science-
 - Question 11: describing virtual memory as storage in the cloud.
 - Question 12: answering "SSDs are faster" when the scenario is about being dropped.
 - Question 6: dividing by 1000 instead of multiplying by 1024.
+- Question 9: describing pits as holes that "let the light through". The laser reflects off the disc; pits reflect less light back to the sensor than lands.
+- Question 13: giving advantages and disadvantages that are not linked to the charity, such as "it is good". Each point should say what the charity gains or risks.
+- Question 4: naming parts of a hard disk (tracks, sectors) instead of the gates inside a flash memory cell.
