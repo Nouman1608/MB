@@ -36,7 +36,7 @@ The more detailed stages of compilation (lexical analysis, syntax analysis and s
 
 ## Why any translator is needed
 
-A processor can execute only **machine code**: binary instructions from its own **instruction set**. Different processor families have different instruction sets, so machine code written for one family will not run on another. People do not write programs in binary, because it is slow to write, hard to read and easy to get wrong. Every program written in another form must therefore be converted into machine code before or while it runs, and the program that does this is a translator. The **source code** is the program as the programmer wrote it; the translated version is called **object code** (or, once it is ready to run, an executable).
+A processor can execute only **machine code**: binary instructions from its own **instruction set**. Different processor families have different instruction sets, so machine code written for one family will not run on another. Every program written in another form must therefore be converted into machine code before or while it runs, and the program that does this is a translator. The **source code** is the program as the programmer wrote it; the translated version is called **object code** (or, once it is ready to run, an executable).
 
 ## The assembler
 
@@ -66,7 +66,7 @@ A program has six statements. Three run once, and three form the body of a loop 
 
 Take a simple model in which an interpreter translates each statement every time it is executed. One run needs 3 + (3 × 1,000) = **3,003** translations. If the program is run 10 times, that is **30,030** translations. A compiler translates the six statements **once**, before the first run, and the ten runs need no further translation.
 
-Real interpreters use techniques that reduce this cost, but the model shows the principle examiners want: interpreted code runs more slowly, and the gap is largest for programs that spend most of their time in loops.
+Real interpreters reduce this cost, but the principle holds: interpreted code runs more slowly, especially in loops.
 
 ## Benefits and drawbacks, from two points of view
 
@@ -135,7 +135,6 @@ OUTPUT Average
 
 3. The loop ends after `Index` reaches 4, so `Marks[5]` is never added. The fix is `FOR Index ← 1 TO 5`.
 
-Notice how each tool has a separate job: the breakpoint gets you to the right place quickly, single stepping shows the order in which statements run, and the report window shows the values.
 
 ## Common mistakes
 
