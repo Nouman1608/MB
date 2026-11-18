@@ -72,7 +72,7 @@ Divide all subscripts by their highest common factor.
 
 C₂H₄ → CH₂ · C₂H₆ → CH₃ · C₆H₁₂O₆ → CH₂O · N₂O₄ → NO₂ · H₂O stays H₂O.
 
-Ionic and giant covalent substances: formula = empirical formula (no molecules).
+Ionic and giant covalent substances: formula = empirical formula (no molecules). Simple molecular substances have both, and the two can be identical (H₂O, CH₄).
 
 ## From models and diagrams
 
