@@ -26,7 +26,7 @@ featured: false
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
-These questions cover subtopic 2.5 Equations of Cambridge O Level Mathematics (Syllabus D) 4024, 2025–2027. A calculator is needed only for Questions 9 and 10. The quadratic formula is given in the List of formulas in the examination: x = [−b ± √(b² − 4ac)] / 2a.
+These questions cover subtopic 2.5 Equations of Cambridge O Level Mathematics (Syllabus D) 4024, 2025–2027. A calculator is needed only for Questions 8 to 10. The quadratic formula is given in the List of formulas in the examination: x = [−b ± √(b² − 4ac)] / 2a.
 
 Related: [equations study guide](/resources/cambridge-o-level-mathematics-4024-equations/) | [equations revision notes](/resources/cambridge-o-level-mathematics-4024-equations-revision-notes/)
 

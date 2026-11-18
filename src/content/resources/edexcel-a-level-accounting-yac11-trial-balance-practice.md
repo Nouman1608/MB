@@ -172,17 +172,17 @@ Non-current assets debit and provision credit [1]; inventory, purchases and sale
 
 Provision for depreciation moved to credit [1]; purchases returns moved to credit [1]; sales returns moved to debit [1]; bank in hand moved to debit [1]; discount received moved to credit [1]; debit total **76,200** [1]; credit total **76,200** [1]; correct heading with business name and "at 30 April 2026" [1].
 
-**9.** Any two limitations, each with an example [1] + [1]:
+**9.** Any two limitations; for each, one mark for the limitation and one for a matching example:
 
 - Errors that put equal amounts on both sides are not revealed [1], e.g. a purchase of a computer for 1,200 debited to office expenses (error of principle) still balances [1].
 - It does not show where an error is [1], e.g. a difference of 90 could be a transposition such as 1,450 posted as 1,540, or a one-sided entry of 90 [1].
 - It is prepared before year-end adjustments [1], e.g. electricity owing at the year end is not in the light and heat balance [1].
 - It is not a financial statement [1], e.g. it lists revenue and expenses separately but does not calculate profit for the year [1].
 
-**10.** For [1]: agreement shows that total debits equal total credits, so there are no one-sided entries or casting errors in the ledger [1].
-Against [1]: some errors leave the trial balance agreeing but change profit, for example an error of principle debiting a new oven to repairs, which overstates expenses and understates profit [1].
-Against [1]: the trial balance is drawn up before adjustments such as accruals, prepayments, depreciation and irrecoverable debts, so profit calculated from its unadjusted balances would be wrong [1].
-Judgement: the statement is not justified; an agreeing trial balance is a useful first check of arithmetic, but profit is only reliable once postings have been reviewed and year-end adjustments made [1]. (Maximum 6.)
+**10.** Agreement shows that total debits equal total credits [1], so there are no one-sided entries or casting errors in the ledger [1].
+However, some errors leave the trial balance agreeing but change profit [1], for example a new oven debited to repairs (error of principle) overstates expenses and understates profit [1].
+The trial balance is also drawn up before accruals, prepayments, depreciation and irrecoverable debts are recorded, so profit from its unadjusted balances would be wrong [1].
+Judgement: the statement is not justified; an agreeing trial balance is a useful first check of arithmetic, but profit is reliable only once postings have been reviewed and year-end adjustments made [1].
 
 **11.** 86,020 − 74,380 [1] = **11,640**, in the **debit** column [1].
 
