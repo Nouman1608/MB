@@ -138,7 +138,7 @@ This set covers **section 2.11, transformations of graphs** (SL and HL), of IB D
 **8. (a)** Translation by the vector (−3, 0) [1]; vertical stretch with scale factor ½ [1]; reflection in the x-axis [1]; translation by the vector (0, 2), applied after the stretch and reflection [1]
 **(b)** (−3, 2) [1]
 **(c)** ½(x + 3)³ = 2, so (x + 3)³ = 4 [1], giving x = ∛4 − 3 [1]
-*Examiner insight:* The translation up must come last; if it is stated before the stretch, the description gives 2 − ½(x + 3)³ only by luck of wording, and the order mark is lost.
+*Examiner insight:* The translation up must come last. Translating up 2 before the stretch and reflection gives −½((x + 3)³ + 2) = −½(x + 3)³ − 1, a different graph, so the order mark is lost.
 
 **9. (a)** (x, y) → (−x, 2y − 1) [1]. P → (1, 7) and Q → (0, 5) [1]; R → (−2, −1) [1]
 **(b)** y = 2(1) − 1, so y = 1 [1]

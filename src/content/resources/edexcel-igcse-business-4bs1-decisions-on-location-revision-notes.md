@@ -62,6 +62,12 @@ The main factors influencing location decisions and relocation of a business:
 - Cost to move inputs to a site near the market against cost to move output from a site near materials.
 - Reminder: 3 tonnes of input per tonne of output, 200 km apart, 0.25 per tonne per km. Near materials: 1 × 200 × 0.25 = 50. Near market: 3 × 200 × 0.25 = 150. Locate near materials.
 
+## Country choice reminder (Paper 2)
+
+- Compare wages plus tariff, not wages alone.
+- Reminder: 500 workers; wages 8,000 outside a bloc, 12,000 inside; output 30 million; tariff 10% on entering the bloc. Outside: 4.0 million wages plus 3.0 million tariff = 7.0 million. Inside: 6.0 million. Inside is 1.0 million cheaper.
+- Then weigh skills, productivity, transport links and political stability.
+
 ## E-commerce and/or fixed premises
 
 - E-commerce only: warehouse anywhere with good transport links; reaches a wide market.
