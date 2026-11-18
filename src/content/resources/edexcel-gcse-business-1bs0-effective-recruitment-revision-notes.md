@@ -92,6 +92,10 @@ Match to need: speed, low cost, loyalty → internal. New skills, many posts, sp
 - Agency fee = fee percentage × salary.
 - Percentage shortlisted = shortlisted ÷ applicants × 100.
 
+## Applying the notes to a case
+
+Read the case for the business need before choosing a method. Ask three questions: does anyone inside already have the skills; how quickly must the post be filled; and how many posts are there? Then check the documents: is there a clear person specification to shortlist against, and will an application form or CV make comparison easier? A Justify answer should quote at least one cost figure for each option and name the condition that would change your choice, such as no internal candidate meeting the essential criteria.
+
 ## Exam traps
 
 - Job description = **job**; person specification = **person**. Do not swap them.

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-geometry-and-trigonometry"
     subtopic: "ib-dp-mathematics-analysis-and-approaches-3-12"
-description: "IB Maths AA HL 3.12 revision notes: vector notation, displacement vectors, magnitude, unit and parallel vectors, collinearity and vector proofs, with a self-test."
+description: "IB Maths AA HL 3.12 revision notes: vector notation, displacement, magnitude, unit and parallel vectors, collinearity and vector proofs, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

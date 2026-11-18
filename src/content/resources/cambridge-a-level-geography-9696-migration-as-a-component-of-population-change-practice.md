@@ -82,19 +82,21 @@ These questions cover **5.1 Migration as a component of population change** from
 
 **3.** Early (pioneer) migrants settle in a destination [1]. They send back information, money for travel or offers of housing and work to relatives and neighbours [1]. This lowers the cost and risk for later migrants, who follow to the same places, so streams grow and cluster [1]. **[3]**
 
-**4.** Any two types, 2 marks each: an economic barrier such as the cost of travel and agents' fees [1], which the poorest households cannot afford [1]; a political barrier such as visas or border controls [1], which limit who can legally enter [1]; a social barrier such as family responsibilities or language [1], which ties some people to the origin [1]; a physical barrier such as mountains or sea [1], which raises the time and cost of a journey [1]. **[4]**
+**4.** An economic barrier, such as the cost of travel and agents' fees [1], which the poorest households cannot afford [1]. A political barrier, such as visas or border controls [1], which limits who can legally enter a country [1]. **[4]**
 
-**5. (a)** Net migration = 600 − 1 500 = −900 [1]; −900 ÷ 45 000 × 1000 = −20.0 per 1000 [1]. **[2]**
+*Examiner insight:* also credit social barriers (family duties, language) or physical barriers (mountains, sea), each with its effect, in place of either type above.
 
-**(b)** Net migration 18 000 − 17 100 = 900; gross migration 18 000 + 17 100 = 35 100 [1]; 900 ÷ 35 100 × 100 = 2.6% [1]. Flows in and out almost cancel: the city has a very high turnover but little net gain [1]. **[3]**
+**5. (a)** Net migration = 600 − 1 500 = −900 [1]; −900 ÷ 45 000 × 1000 = −20.0 per 1000 [1].
 
-**(c)** District A gains (+1 800) because it is next to the capital, so families can move to larger, cheaper homes while still commuting to city jobs [1]. New housing estates on the city edge attract movers [1]. District B loses (−900) because remote farming offers few jobs and low wages, pushing young adults out [1]. Distance from the capital and poor services make it unattractive to in-migrants [1]. **[4]**
+**(b)** Net migration 18 000 − 17 100 = 900; gross migration 18 000 + 17 100 = 35 100 [1]; 900 ÷ 35 100 × 100 = 2.6% [1]. Flows in and out almost cancel: the city has a very high turnover but little net gain [1].
+
+**(c)** District A gains (+1 800) because it is next to the capital, so families can move to larger, cheaper homes while still commuting to city jobs [1]. New housing estates on the city edge attract movers [1]. District B loses (−900) because remote farming offers few jobs and low wages, pushing young adults out [1]. Distance from the capital and poor services make it unattractive to in-migrants [1]. **[9]**
 
 *Examiner insight:* quote the net figures for both districts; "suggest" answers must fit the descriptions in the table.
 
-**6. (a)** Mobility is low among children (6%) and rises to a peak at 20-24 (18%) [1]. It then falls steadily to a low of 4% at 45-59 [1]. There is a small rise to 5% at 60-69 before the lowest figure, 3%, at 70+ [1]. **[3]**
+**6. (a)** Mobility is low among children (6%) and rises to a peak at 20-24 (18%) [1]. It then falls steadily to a low of 4% at 45-59 [1]. There is a small rise to 5% at 60-69 before the lowest figure, 3%, at 70+ [1].
 
-**(b)** People aged 20-29 leave education, start work and form partnerships [1], and have few ties such as owned homes or school-age children [1]. They have a long working life in which to gain from a move [1]. At 60-69 some people move on retirement, for example to cheaper or quieter areas or nearer to family [1]. **[4]**
+**(b)** People aged 20-29 leave education, start work and form partnerships [1], and have few ties such as owned homes or school-age children [1]. They have a long working life in which to gain from a move [1]. At 60-69 some people move on retirement, for example to cheaper or quieter areas or nearer to family [1]. **[7]**
 
 *Examiner insight:* also credit the point that the 0-14 figure (6%) is close to the 30-44 figure (8%) because children move with their parents, in place of any point in (b).
 
