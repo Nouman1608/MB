@@ -122,7 +122,7 @@ D: Weak forces between Na₂ molecules
 
 **9.**
 
-**(a)** Any three of: "atoms" should be positive ions, Mg²⁺ [1]; each atom releases two electrons, not one [1]; the bond is the attraction between the positive ions and the delocalised electrons, not the electrons themselves [1]; the electrons should be described as delocalised [1] (maximum 3)
+**(a)** "Atoms" should be positive ions, Mg²⁺ [1]; each atom releases two electrons, not one [1]; the bond is the attraction between the positive ions and the delocalised electrons, not the electrons themselves [1]
 
 **(b)** Rows of circles labelled 2+ (or Mg²⁺) in a regular lattice [1]; electrons drawn between the ions, two for every ion, labelled as delocalised [1] **[5]**
 
