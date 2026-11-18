@@ -103,6 +103,7 @@ n = 18   (S_17 = 493, S_18 = 549)
 - **Non-integer n.** It shows the value is not a term; it is not an answer to "which term".
 - **Rounding down a least n.** Always round up and check.
 - **Negative roots.** Reject a negative n from a quadratic.
+- **Decreasing sequences.** A negative d is still arithmetic; keep the sign in every substitution.
 - **Technology without set-up.** Write u₁ and d before using a GDC sequence function.
 
 ## Quick self-test

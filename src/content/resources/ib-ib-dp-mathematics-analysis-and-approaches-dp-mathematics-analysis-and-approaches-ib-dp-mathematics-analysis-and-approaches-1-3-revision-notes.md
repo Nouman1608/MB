@@ -109,6 +109,7 @@ Both sequences are valid unless the question restricts the sign of the terms.
 - **Term versus total.** "On day n" is a term; "in the first n days" is a sum.
 - **Rounding r.** Keep 1.035, not 1.04.
 - **Rounding down a least n.**
+- **Percentage as the ratio.** A 6% rise is r = 1.06, not r = 0.06 or r = 6.
 
 ## Quick self-test
 

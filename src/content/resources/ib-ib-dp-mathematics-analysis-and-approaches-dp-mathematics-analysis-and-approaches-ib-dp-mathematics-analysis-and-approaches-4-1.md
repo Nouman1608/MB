@@ -3,7 +3,7 @@ title: "IB DP Mathematics: Analysis and Approaches (AA): 4.1 Concepts of populat
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 4 -- Statistics and probability"
+topic: "Topic 4 – Statistics and probability"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

@@ -126,6 +126,25 @@ For a two-way table of counts, P(A | B) = (number in both A and B)/(number in B)
 the "given" event; that total is the denominator. Independence holds if the proportion in A is the same
 within B as in the whole group.
 
+### Worked example 4: independence from a table of outcomes
+
+A survey of 150 adults records age group and preferred phone brand.
+
+| | Brand A | Brand B | Total |
+|---|---|---|---|
+| Under 40 | 36 | 54 | 90 |
+| 40 and over | 24 | 36 | 60 |
+| Total | 60 | 90 | 150 |
+
+```
+P(A) = 60/150 = 0.4
+P(A | under 40) = 36/90 = 0.4
+P(A ∩ under 40) = 36/150 = 0.24 = P(A) × P(under 40) = 0.4 × 0.6 ✓
+```
+
+Brand preference and age group are independent here: the proportion choosing Brand A is the same in each
+age group as in the whole sample. One matching check is enough, but state the numbers you compared.
+
 ## Common mistakes
 
 - Adding P(A) and P(B) for "or" without subtracting the overlap.

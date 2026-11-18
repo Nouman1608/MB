@@ -118,7 +118,7 @@ Check: at x = 2, dy/dx = 12 − 4/4 = 11. Correct.
 
 ### Worked example 4: rate of change in context
 
-The cost per item, C dollars, of producing a batch of x items is modelled by C = 5x + 2000/x.
+The cost per item, C dollars, of producing an order of x items is modelled by C = 5x + 2000/x.
 (Model invented.) Find dC/dx when x = 10 and x = 20 and interpret both.
 
 ```
@@ -128,8 +128,8 @@ x = 10:  5 − 2000/100 = −15
 x = 20:  5 − 2000/400 = 0
 ```
 
-At a batch size of 10, the cost per item is falling by about 15 dollars for each extra item in the
-batch. At 20 items the rate of change is zero, so increasing the batch size no longer reduces the
+For an order of 10, the cost per item is falling by about 15 dollars for each extra item in the
+order. At 20 items the rate of change is zero, so increasing the order size no longer reduces the
 cost per item at that instant; beyond 20 it starts to rise. (Section 5.8 would confirm this is a
 minimum.)
 
@@ -144,6 +144,19 @@ f'(−2) = 1 + 6/4 = 5/2
 ```
 
 A negative x does not change the sign of x⁻², because (−2)² = 4.
+
+### Worked example 6: the gradient as a check on a sketch
+
+The curve y = x⁴ − 4x passes through (0, 0) and (1, −3). Without plotting, decide whether it is
+rising or falling at each point.
+
+```
+dy/dx = 4x³ − 4
+x = 0: dy/dx = −4, so the curve is falling through the origin
+x = 1: dy/dx = 0, so the tangent at (1, −3) is horizontal
+```
+
+A quick gradient check like this is how you test a sketch, or a GDC graph, against the algebra.
 
 ## Common mistakes
 

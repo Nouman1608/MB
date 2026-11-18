@@ -139,6 +139,11 @@ Tangent: y + 0.403 = 3.07(x − 1.3)  →  y = 3.07x − 4.39 (3 s.f.)
 
 Keep the unrounded values in the calculator until the final line.
 
+For the normal at the same point, the gradient is −1/3.07 = −0.326 (3 s.f.), so
+y + 0.403 = −0.326(x − 1.3), giving y = −0.326x + 0.0205 (3 s.f.). Using the rounded gradient 3.07
+rather than the stored value changes nothing at three significant figures here, but on steeper curves
+it can.
+
 ## Common mistakes
 
 - Using f(x₁) instead of f′(x₁) as the gradient.

@@ -86,6 +86,15 @@ y = 2x² − 3x + C
 y = 2x² − 3x + 3
 ```
 
+## Reading the wording of a context question
+
+| Wording | Meaning |
+|---|---|
+| "the rate of change of V is…" | you are given dV/dt; integrate to find V |
+| "initially", "at the start" | a value at t = 0, used to find C |
+| "starts from rest" | velocity 0 at t = 0 |
+| "passes through (a, b)" | y = b when x = a |
+
 ## Exam traps
 
 - **Trap: missing +C.** On an indefinite integral it usually costs a mark.

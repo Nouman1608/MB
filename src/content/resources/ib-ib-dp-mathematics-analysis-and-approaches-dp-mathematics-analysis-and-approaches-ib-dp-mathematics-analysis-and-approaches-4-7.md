@@ -121,6 +121,25 @@ to make 500 × 0.40 = $200. For a fair game the stake should equal the expected 
 Notice the gain, not the prize, goes in the table. Forgetting to subtract the stake from each prize is the
 most common error in game questions.
 
+### Worked example 4: expected profit
+
+A stall sells umbrellas for a profit of $8 each. Daily demand D has the distribution below, and the stall
+always has enough stock.
+
+| d | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| P(D = d) | 0.3 | 0.4 | 0.2 | 0.1 |
+
+```
+E(D) = 0 + 0.4 + 0.4 + 0.3 = 1.1 umbrellas per day
+Profit values: 0, 8, 16, 24 with the same probabilities
+E(profit) = 0 + 3.2 + 3.2 + 2.4 = $8.80 per day
+Expected profit over 30 days = 30 × 8.80 = $264
+```
+
+Writing a second table for the profit keeps the method within 4.7: each profit value is paired with the
+probability of the demand that produces it.
+
 ## Applications
 
 Expected value appears wherever a quantity depends on chance: average profit of a business, insurance

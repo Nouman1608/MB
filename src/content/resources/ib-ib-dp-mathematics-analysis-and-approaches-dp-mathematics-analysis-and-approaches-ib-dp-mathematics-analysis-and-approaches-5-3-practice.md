@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-3"
-description: "Twelve original IB DP Maths AA questions on section 5.3: differentiating integer powers, rewriting expressions and using gradients to find points and constants."
+description: "Thirteen original IB DP Maths AA questions on section 5.3: differentiating integer powers, rewriting expressions and using gradients to find points and constants."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -85,6 +85,12 @@ and the
 **12.** The curve y = x³ + px + q passes through (1, 3), and its gradient at that point is 5. Find p
 and q. **[4]**
 
+**13.** f(x) = (x² + 1)(x − 2).
+
+**(a)** Expand f(x) and hence find f′(x). **[3]**
+
+**(b)** Find the values of x at which the gradient of the curve is 1. **[3]**
+
 ## Answers
 
 **1.** dy/dx = 30x⁴ − 12x² + 1 [2: 1 for the first two terms, 1 for the rest including no constant].
@@ -131,12 +137,18 @@ b = −3a; then 3a + 6a = 9 [1], so a = 1 and b = −3 [1]. **[5]**
 **12.** dy/dx = 3x² + p; at x = 1: 3 + p = 5 [1], so p = 2 [1]. Through (1, 3): 1 + 2 + q = 3 [1], so
 q = 0 [1]. **[4]**
 
+**13. (a)** f(x) = x³ − 2x² + x − 2 [1]; f′(x) = 3x² − 4x + 1 [2].
+
+**(b)** 3x² − 4x + 1 = 1, so 3x² − 4x = x(3x − 4) = 0 [1]. x = 0 or x = 4/3 [1]. Both are needed; a
+common error is dividing by x and losing x = 0 [1]. **[6]**
+
 ## How this set builds
 
 Questions 1 to 6 practise rewriting and the power rule on polynomials, reciprocals, products and
 quotients. Questions 7 to 9 and 12 use the derivative to find points and unknown constants, the
 forms Paper 1 most often takes. Question 10 interprets the derivative as a rate of change, and
-question 11 is a short "show that" about the sign of a gradient.
+question 11 is a short "show that" about the sign of a gradient. Question 13 practises
+expanding a product before differentiating, then solving a gradient equation without losing a root.
 
 ## Official syllabus
 

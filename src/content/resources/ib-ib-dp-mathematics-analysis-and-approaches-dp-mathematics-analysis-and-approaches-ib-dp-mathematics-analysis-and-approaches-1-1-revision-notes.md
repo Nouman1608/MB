@@ -57,6 +57,11 @@ Then **adjust**: if a ≥ 10, divide a by 10 and add 1 to k; if a < 1, multiply 
 - Number between 1 and 10 → k = 0: 7.4 = 7.4 × 10⁰.
 - Decimal point moves left in a → k goes up; moves right → k goes down.
 
+## Worked reminder
+
+(9.6 × 10⁻²) ÷ (3.2 × 10⁴): 9.6 ÷ 3.2 = 3 and 10⁻²⁻⁴ = 10⁻⁶, so the answer is **3 × 10⁻⁶**. No adjustment is
+needed because 3 already lies between 1 and 10.
+
 ## Ordering
 
 1. Compare k: larger k means larger number (for positive numbers).

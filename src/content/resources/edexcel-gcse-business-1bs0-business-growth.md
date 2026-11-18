@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "growing-the-business-1bs0"
     subtopic: "business-growth-1bs0"
-description: "Study guide to organic and external growth, the public limited company and sources of finance for growing businesses, for Edexcel GCSE Business 1BS0, item 2.1.1."
+description: "Study guide to organic and external growth, the public limited company and finance for growing businesses, for Edexcel GCSE Business 1BS0, item 2.1.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

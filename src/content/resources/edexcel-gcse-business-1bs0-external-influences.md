@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "understanding-external-influences-on-business-1bs0"
     subtopic: "external-influences-1bs0"
-description: "Study guide to why external influences matter and how a business can respond to changes in technology, legislation and the economy, for Edexcel GCSE Business 1BS0."
+description: "Study guide to why external influences matter and how a firm can respond to changes in technology, legislation and the economy, for Edexcel GCSE 1BS0."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

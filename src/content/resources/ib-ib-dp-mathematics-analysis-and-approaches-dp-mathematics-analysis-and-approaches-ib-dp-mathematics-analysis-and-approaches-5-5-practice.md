@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-5"
-description: "Twelve original IB DP Maths AA questions on section 5.5: anti-derivatives of integer powers, boundary conditions, rates of change and areas by GDC, with answers."
+description: "Thirteen original IB DP Maths AA questions on section 5.5: anti-derivatives of integer powers, boundary conditions, rates of change and areas by GDC."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -86,6 +86,14 @@ displacement is s = 5 m when t = 1.
 
 **(b)** Find the displacement when t = 3. **[1]**
 
+**13.** The curves y = F(x) satisfy F′(x) = 2x − 6x⁻³.
+
+**(a)** Find F(x) in terms of x and an arbitrary constant. **[2]**
+
+**(b)** One of the curves passes through (1, 0). Find its equation. **[2]**
+
+**(c)** Find the value of this F at x = −1. **[1]**
+
 ## Answers
 
 **1.** 3x³ − 3x² + 5x + C [1 for any two correct terms, 1 for all correct with +C]. **[2]**
@@ -126,6 +134,12 @@ f(x) = x³/3 + 4x + 1 [1]. **[4]**
 **12. (a)** s = t³ − 12t + C [1]. At t = 1: 1 − 12 + C = 5 [1], so C = 16 and s = t³ − 12t + 16 [1].
 
 **(b)** s(3) = 27 − 36 + 16 = 7 m [1]. **[4]**
+
+**13. (a)** F(x) = x² − 6x⁻²/(−2) + C [1] = x² + 3x⁻² + C = x² + 3/x² + C [1].
+
+**(b)** 0 = 1 + 3 + C, so C = −4 [1] and F(x) = x² + 3/x² − 4 [1].
+
+**(c)** F(−1) = 1 + 3 − 4 = 0 [1]. **[5]**
 
 ## How this set builds
 

@@ -79,6 +79,16 @@ normal gradient −1/3
 y − 2 = −(1/3)(x − 1)  →  3y − 6 = −x + 1  →  x + 3y − 7 = 0
 ```
 
+## Mini-example: tangent through an external point
+
+Find the tangents to y = x² + 4 that pass through the origin.
+
+```
+Tangent at (a, a² + 4) has gradient 2a:  y − (a² + 4) = 2a(x − a)
+Through (0, 0):  −a² − 4 = −2a²  →  a² = 4  →  a = ±2
+a = 2:  y = 4x        a = −2:  y = −4x
+```
+
 ## Exam traps
 
 - **Trap: the gradient function in the line.** Writing y − y₁ = (2x − 4)(x − x₁) gives a curve, not a

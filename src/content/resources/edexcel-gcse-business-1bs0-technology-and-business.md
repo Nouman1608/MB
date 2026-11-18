@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "understanding-external-influences-on-business-1bs0"
     subtopic: "technology-and-business-1bs0"
-description: "Study guide to e-commerce, social media, digital communication and payment systems and their effect on sales, costs and the marketing mix, for Edexcel GCSE 1BS0."
+description: "Study guide to e-commerce, social media, digital communication and payment systems and their effect on sales, costs and the mix, for Edexcel GCSE 1BS0."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

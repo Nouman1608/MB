@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-4"
-description: "Eleven original IB DP Maths AA questions on section 5.4: equations of tangents and normals, parallel and perpendicular conditions and intersections, with answers."
+description: "Eleven original IB DP Maths AA questions on section 5.4: tangent and normal equations, parallel and perpendicular conditions and intersections."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

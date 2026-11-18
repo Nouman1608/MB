@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "understanding-external-influences-on-business-1bs0"
     subtopic: "external-influences-1bs0"
-description: "Original practice questions with mark-scheme answers on responding to changes in technology, legislation and the economy for Edexcel GCSE Business 1BS0, item 1.5.5."
+description: "Original practice questions with full answers on responding to changes in technology, legislation and the economy for Edexcel GCSE Business 1BS0."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "understanding-external-influences-on-business-1bs0"
     subtopic: "external-influences-1bs0"
-description: "Revision notes on responses to changes in technology, legislation and the economic climate, with judgement tests and a self-test, for Edexcel GCSE Business 1BS0."
+description: "Revision notes on responses to changes in technology, legislation and the economic climate, with a self-test, for Edexcel GCSE Business 1BS0 item 1.5.5."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

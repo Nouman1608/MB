@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "understanding-external-influences-on-business-1bs0"
     subtopic: "legislation-and-business-1bs0"
-description: "Study guide to the purpose of consumer and employment law and the costs and consequences of meeting legal obligations, for Edexcel GCSE Business 1BS0, item 1.5.3."
+description: "Study guide to the purpose of consumer and employment law and the cost and consequences of legal obligations, for Edexcel GCSE Business 1BS0, item 1.5.3."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
