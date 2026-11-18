@@ -69,13 +69,13 @@ These questions cover section 3.1.8 Inorganic ions of the AQA AS and A-level Bio
 
 **(b)** DNA moves towards the positive electrode when an electric current is applied to it in a gel. Use your knowledge of phosphate ions to explain why. **[2]**
 
-**12.** For each process, name the inorganic ion involved and describe its role. **[6]**
+**12.** For each process, name the inorganic ion involved and describe its role.
 
-(a) Haemoglobin unloads oxygen in a respiring muscle.
+**(a)** Haemoglobin unloads oxygen in a respiring muscle. **[2]**
 
-(b) Glucose is absorbed from the ileum against its concentration gradient.
+**(b)** Glucose is absorbed from the ileum against its concentration gradient. **[2]**
 
-(c) An enzyme loses activity when acid is added.
+**(c)** An enzyme loses activity when acid is added. **[2]**
 
 ## Answers
 
@@ -105,17 +105,17 @@ These questions cover section 3.1.8 Inorganic ions of the AQA AS and A-level Bio
 
 **(b)** Glucose leaves the cell by facilitated diffusion, which does not depend on the sodium gradient, so glucose already in the cell can still move into the blood down its concentration gradient [1]. **[4]**
 
-**11. (a)** Phosphate is needed to make nucleotides for DNA (and RNA) [1], so DNA replication before cell division is limited and fewer new cells are produced [1]. Phosphate is needed for ATP [1], so less energy is available for energy-requiring processes such as active transport and building polymers [1]. Also accept phospholipids for new membranes. **[6]**
+**11. (a)** Phosphate is needed to make nucleotides for DNA (and RNA) [1], so DNA replication before cell division is limited and fewer new cells are produced [1]. Phosphate is needed for ATP [1], so less energy is available for energy-requiring processes such as active transport and building polymers [1]. Also accept phospholipids for new membranes.
 
-**(b)** Each nucleotide contains a negatively charged phosphate group [1], so the DNA backbone carries an overall negative charge and is attracted to the positive electrode [1].
+**(b)** Each nucleotide contains a negatively charged phosphate group [1], so the DNA backbone carries an overall negative charge and is attracted to the positive electrode [1]. **[6]**
 
 *Examiner insight:* Part (b) applies 3.1.8 to an unfamiliar context. Naming the phosphate in the backbone and its charge is enough.
 
-**12.** (a) Hydrogen ions [1]; carbon dioxide from respiration raises the hydrogen ion concentration, lowering haemoglobin's affinity for oxygen so more is unloaded [1].
+**12. (a)** Hydrogen ions [1]; carbon dioxide from respiration raises the hydrogen ion concentration, lowering haemoglobin's affinity for oxygen so more is unloaded [1].
 
-(b) Sodium ions [1]; their concentration gradient, maintained by active transport, drives co-transport of glucose into the epithelial cell [1].
+**(b)** Sodium ions [1]; their concentration gradient, maintained by active transport, drives co-transport of glucose into the epithelial cell [1].
 
-(c) Hydrogen ions [1]; a rise in their concentration disrupts ionic and hydrogen bonds in the enzyme's tertiary structure, changing the active site [1]. **[6]**
+**(c)** Hydrogen ions [1]; a rise in their concentration disrupts ionic and hydrogen bonds in the enzyme's tertiary structure, changing the active site [1]. **[6]**
 
 ## Where marks are usually lost
 
