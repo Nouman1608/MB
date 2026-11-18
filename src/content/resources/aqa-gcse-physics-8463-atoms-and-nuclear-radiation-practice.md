@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover **4.4.2 Atoms and nuclear radiation** (4.4.2.1 to 4.4.2.4) of AQA GCSE Physics (8463),
-assessed on Paper 1. Question 10 is **Higher tier only**.
+assessed on Paper 1. Part 10(b) is **Higher tier only**.
 
 Revise first with the [atoms and nuclear radiation study guide](/resources/aqa-gcse-physics-8463-atoms-and-nuclear-radiation/)
 and the [atoms and nuclear radiation revision notes](/resources/aqa-gcse-physics-8463-atoms-and-nuclear-radiation-revision-notes/).
@@ -70,10 +70,10 @@ and the [atoms and nuclear radiation revision notes](/resources/aqa-gcse-physics
 **(a)** Use the data to determine the half-life of the sample. **[2]**
 **(b)** Explain why the half-life of a large sample can be predicted even though radioactive decay is random. **[2]**
 
-**10.** (Higher tier only) A radioactive source has an initial activity of 6400 Bq and a half-life of 3 days.
+**10.** A radioactive source has an initial activity of 6400 Bq and a half-life of 3 days.
 
 **(a)** Calculate the activity after 18 days. **[2]**
-**(b)** Express the net decline in activity over 18 days as a ratio. **[1]**
+**(b)** (Higher tier only) Express the net decline in activity over 18 days as a ratio. **[1]**
 
 **11.** A hospital worker uses an irradiation source, and a separate laboratory has a spill of a liquid containing an alpha-emitting isotope.
 

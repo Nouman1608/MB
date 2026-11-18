@@ -86,12 +86,12 @@ moment it emits radiation at 540 W.
 **(b)** Describe and explain how the temperature of the panel changes over the following minutes. Your answer
 should say what happens to the emission rate. **[4]**
 
-**11.** (Higher tier only) The average temperature of the Earth depends on the balance of radiation.
+**11.** The average temperature of the Earth depends on the balance of radiation.
 
-**(a)** Give three factors that determine the temperature of the Earth. **[3]**
+**(a)** (Higher tier only) Give three factors that determine the temperature of the Earth. **[3]**
 **(b)** Explain why the radiation emitted by the Earth's surface has longer wavelengths than most of the radiation
 arriving from the Sun. **[2]**
-**(c)** The amount of cloud and ice covering the Earth increases, while everything else stays the same. Explain the
+**(c)** (Higher tier only) The amount of cloud and ice covering the Earth increases, while everything else stays the same. Explain the
 effect on the Earth's temperature. **[3]**
 
 **12.** (Higher tier only) Some gases in the atmosphere absorb infrared radiation emitted by the Earth's surface.

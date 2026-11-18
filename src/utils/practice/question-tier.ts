@@ -202,6 +202,34 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   // 8461 specification, so every question in these two files is both tiers.
   'aqa-gcse-biology-8461-health-lifestyle-and-cancer-practice',  // 2026-11-08
   'aqa-gcse-biology-8461-plant-tissues-and-organ-system-practice',  // 2026-11-08
+  // 2026-11-18 (D-500): new subtopic files, each checked question by question against the 8461 specification.
+  'aqa-gcse-biology-8461-adaptations-interdependence-and-competition-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-biodiversity-and-the-effect-of-human-interaction-on-ecosystems-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-blood-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-cancer-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-classification-of-living-organisms-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-communicable-diseases-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-coronary-heart-disease-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-food-production-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-health-issues-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-homeostasis-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-hormonal-coordination-in-humans-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-monoclonal-antibodies-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-organisation-of-an-ecosystem-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-photosynthesis-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-plant-disease-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-plant-hormones-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-plant-organ-system-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-plant-tissues-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-principles-of-organisation-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-reproduction-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-respiration-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-the-development-of-understanding-of-genetics-and-evolution-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-the-effect-of-lifestyle-on-some-non-communicable-diseases-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-the-heart-and-blood-vessels-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-the-human-nervous-system-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-trophic-levels-in-an-ecosystem-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-variation-and-evolution-aqa-gcse-biology-practice',  // 2026-11-18
   // 8462
   'aqa-gcse-chemistry-8462-chemical-analysis-practice',
   'aqa-gcse-chemistry-8462-chemical-changes-practice',
@@ -219,6 +247,11 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   'aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-practice',  // 2026-10-04
   'aqa-gcse-chemistry-8462-properties-of-transition-metals-practice',  // 2026-10-04
   'aqa-gcse-chemistry-8462-the-periodic-table-practice',  // 2026-10-04
+  // 2026-11-18 (D-500): new subtopic files checked against the 8462 specification.
+  'aqa-gcse-chemistry-8462-chemical-bonds-practice',  // 2026-11-18
+  'aqa-gcse-chemistry-8462-covalent-bonding-practice',  // 2026-11-18
+  'aqa-gcse-chemistry-8462-ionic-compounds-practice',  // 2026-11-18
+  'aqa-gcse-chemistry-8462-metallic-bonding-practice',  // 2026-11-18
   // 8463
   'aqa-gcse-physics-8463-atomic-structure-practice',
   'aqa-gcse-physics-8463-electricity-practice',
@@ -230,6 +263,35 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   'aqa-gcse-physics-energy-changes-practice',
   'aqa-gcse-physics-energy-practice',
   'aqa-gcse-physics-national-and-global-energy-resources-practice',
+  // 2026-11-18 (D-500): new subtopic files checked against the 8463 specification; momentum and
+  // induced-potential labels added, five whole-question labels moved onto their Higher parts.
+  'aqa-gcse-physics-8463-atoms-and-isotopes-aqa-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-atoms-and-nuclear-radiation-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-black-body-radiation-aqa-gcse-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-changes-of-state-and-the-particle-model-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-current-potential-difference-and-resistance-aqa-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-domestic-uses-and-safety-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-electromagnetic-waves-aqa-gcse-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-energy-transfers-aqa-electricity-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-forces-and-elasticity-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-forces-and-motion-aqa-gcse-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-forces-and-their-interactions-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-hazards-and-uses-of-radioactive-emissions-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-induced-potential-transformers-and-the-national-grid-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-internal-energy-and-energy-transfers-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-moments-levers-and-gears-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-momentum-aqa-gcse-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-nuclear-fission-and-fusion-aqa-gcse-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-particle-model-and-pressure-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-permanent-and-induced-magnetism-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-pressure-and-pressure-differences-in-fluids-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-red-shift-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-series-and-parallel-circuits-aqa-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-solar-system-orbital-motions-satellites-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-static-electricity-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-the-motor-effect-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-waves-in-air-fluids-and-solids-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-work-done-and-energy-transfer-aqa-practice',  // 2026-11-18
 ]);
 
 /**

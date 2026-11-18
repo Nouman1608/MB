@@ -35,21 +35,21 @@ the [momentum revision notes](/resources/aqa-gcse-physics-8463-momentum-aqa-gcse
 
 ## Section A
 
-**1.** State the unit of momentum. **[1]**
+**1.** (Higher tier only) State the unit of momentum. **[1]**
 
-**2.** Calculate the momentum of a 0.16 kg cricket ball moving at 25 m/s. **[2]**
+**2.** (Higher tier only) Calculate the momentum of a 0.16 kg cricket ball moving at 25 m/s. **[2]**
 
-**3.** A car of mass 900 kg has a momentum of 18 000 kg m/s. Calculate its velocity. **[2]**
+**3.** (Higher tier only) A car of mass 900 kg has a momentum of 18 000 kg m/s. Calculate its velocity. **[2]**
 
-**4.** State what is meant by a closed system. **[1]**
+**4.** (Higher tier only) State what is meant by a closed system. **[1]**
 
-**5.** State the principle of conservation of momentum. **[1]**
+**5.** (Higher tier only) State the principle of conservation of momentum. **[1]**
 
-**6.** Name two safety features whose action is explained using the rate of change of momentum. **[2]**
+**6.** (Higher tier only) Name two safety features whose action is explained using the rate of change of momentum. **[2]**
 
 ## Section B
 
-**7.** A railway truck of mass 12 000 kg moves at 3.0 m/s along a level track. It collides with a stationary
+**7.** (Higher tier only) A railway truck of mass 12 000 kg moves at 3.0 m/s along a level track. It collides with a stationary
 truck of mass 8000 kg, and the two trucks couple together.
 
 **(a)** Calculate the total momentum before the collision. **[2]**
@@ -57,24 +57,24 @@ truck of mass 8000 kg, and the two trucks couple together.
 **(c)** The measured velocity just after the collision is slightly less than your answer to (b). Suggest
 why. **[1]**
 
-**8.** Trolley P (mass 1.5 kg) moves to the right at 2.0 m/s. Trolley Q (mass 1.0 kg) moves to the left at
+**8.** (Higher tier only) Trolley P (mass 1.5 kg) moves to the right at 2.0 m/s. Trolley Q (mass 1.0 kg) moves to the left at
 3.0 m/s. They collide head-on and stick together.
 
 **(a)** Calculate the total momentum before the collision. Take right as positive. **[2]**
 **(b)** State the velocity of the trolleys after the collision. **[1]**
 **(c)** Explain your answer to (b). **[1]**
 
-**9.** A cue ball of mass 0.17 kg moving at 2.0 m/s hits a stationary ball of mass 0.16 kg head-on. After the
+**9.** (Higher tier only) A cue ball of mass 0.17 kg moving at 2.0 m/s hits a stationary ball of mass 0.16 kg head-on. After the
 collision, the cue ball moves at 0.20 m/s in its original direction. Calculate the velocity of the other
 ball. **[3]**
 
-**10.** An astronaut of total mass 90 kg floats at rest in space. She throws a 3.0 kg tool away from her at
+**10.** (Higher tier only) An astronaut of total mass 90 kg floats at rest in space. She throws a 3.0 kg tool away from her at
 6.0 m/s.
 
 **(a)** Explain why the astronaut starts to move. **[2]**
 **(b)** Calculate her velocity. **[2]**
 
-**11.** A car driver of mass 75 kg is travelling at 14 m/s when the car crashes. An air bag brings the driver
+**11.** (Higher tier only) A car driver of mass 75 kg is travelling at 14 m/s when the car crashes. An air bag brings the driver
 to rest in 0.12 s.
 
 **(a)** Calculate the driver's change in momentum. **[2]**
@@ -83,13 +83,13 @@ to rest in 0.12 s.
 in this case. **[1]**
 **(d)** Explain how the air bag reduces the force on the driver. **[2]**
 
-**12.** A football of mass 0.45 kg hits a wall at 12 m/s and rebounds along the same line at 8.0 m/s. It is
+**12.** (Higher tier only) A football of mass 0.45 kg hits a wall at 12 m/s and rebounds along the same line at 8.0 m/s. It is
 in contact with the wall for 0.025 s. Calculate the average force of the wall on the ball. **[4]**
 
-**13.** Explain how a thick crash mat in a gymnasium reduces the risk of injury when a gymnast lands on it.
+**13.** (Higher tier only) Explain how a thick crash mat in a gymnasium reduces the risk of injury when a gymnast lands on it.
 **[4]**
 
-**14.** Describe how light gates and two trolleys on a track can be used to test whether momentum is
+**14.** (Higher tier only) Describe how light gates and two trolleys on a track can be used to test whether momentum is
 conserved in a collision. **[4]**
 
 ## Answers

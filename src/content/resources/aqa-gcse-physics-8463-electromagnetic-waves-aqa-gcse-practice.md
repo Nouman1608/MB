@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **4.6.2 Electromagnetic waves** of the AQA GCSE Physics (8463) specification,
-examined on Paper 2 at both tiers. Questions 8, 10 and 11 test content marked (HT only) and are labelled
+examined on Paper 2 at both tiers. Questions 8 and 10 and parts 11(a) and 11(b) test content marked (HT only) and are labelled
 **Higher tier only**. Take the speed of electromagnetic waves as 3.0 × 10⁸ m/s. All dose figures are invented
 for practice. A calculator is allowed throughout.
 
@@ -80,10 +80,10 @@ substances absorb and transmit electromagnetic waves differently. **[3]**
 **(b)** Gamma rays for treating cancer. **[2]**
 **(c)** Infrared for cameras that show people in the dark. **[2]**
 
-**11.** (Higher tier only) A local radio station transmits at a frequency of 90 MHz.
+**11.** A local radio station transmits at a frequency of 90 MHz.
 
-**(a)** State what produces the radio waves in the transmitter. **[1]**
-**(b)** The radio waves are absorbed by a receiver's aerial. State the frequency of the current produced in
+**(a)** (Higher tier only) State what produces the radio waves in the transmitter. **[1]**
+**(b)** (Higher tier only) The radio waves are absorbed by a receiver's aerial. State the frequency of the current produced in
 the aerial. **[1]**
 **(c)** Calculate the wavelength of the radio waves. **[2]**
 

@@ -27,8 +27,9 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **4.7.3 Induced potential, transformers and the National Grid** of the AQA GCSE
-Physics (8463) specification, for first teaching 2016, examined on Paper 2. **Every question is Higher tier only**,
-because the whole section is. A calculator is allowed. All numerical data are invented.
+Physics (8463) specification, for first teaching 2016, examined on Paper 2. The whole section is Higher tier only, so
+questions on it are labelled **Higher tier only**. Questions 6 and 12 test only the National Grid content of
+section 4.2.4.3, which is examined at both tiers. A calculator is allowed. All numerical data are invented.
 
 Learn the content first in the
 [Induced potential, transformers and the National Grid study guide](/resources/aqa-gcse-physics-8463-induced-potential-transformers-and-the-national-grid/)
@@ -38,23 +39,23 @@ and the [revision notes](/resources/aqa-gcse-physics-8463-induced-potential-tran
 
 ### Section A: short questions
 
-**1.** Name the effect in which a potential difference is induced across a conductor moving relative to a magnetic
+**1.** (Higher tier only) Name the effect in which a potential difference is induced across a conductor moving relative to a magnetic
 field. **[1]**
 
-**2.** A wire is moved parallel to the field lines between two magnetic poles. State the induced p.d. and explain
+**2.** (Higher tier only) A wire is moved parallel to the field lines between two magnetic poles. State the induced p.d. and explain
 your answer. **[2]**
 
-**3.** State the part of a generator that makes it produce direct current. **[1]**
+**3.** (Higher tier only) State the part of a generator that makes it produce direct current. **[1]**
 
-**4.** Explain why a transformer will not work from a battery. **[2]**
+**4.** (Higher tier only) Explain why a transformer will not work from a battery. **[2]**
 
-**5.** Give the reason a transformer core is made of iron. **[1]**
+**5.** (Higher tier only) Give the reason a transformer core is made of iron. **[1]**
 
 **6.** State what is meant by a step-down transformer. **[1]**
 
 ### Section B: structured questions
 
-**7.** A bar magnet is pushed, S pole first, into a coil connected to a sensitive ammeter. The needle moves to the
+**7.** (Higher tier only) A bar magnet is pushed, S pole first, into a coil connected to a sensitive ammeter. The needle moves to the
 right.
 
 **(a)** Describe what the ammeter shows while the magnet is held still inside the coil. **[1]**
@@ -63,22 +64,22 @@ right.
 **(d)** State the magnetic pole formed at the end of the coil nearest the magnet as it is pushed in, and explain
 why. **[2]**
 
-**8.** An alternator's p.d.–time graph shows one complete cycle every 0.020 s, with a peak p.d. of 6.0 V.
+**8.** (Higher tier only) An alternator's p.d.–time graph shows one complete cycle every 0.020 s, with a peak p.d. of 6.0 V.
 
 **(a)** Calculate the number of rotations the coil makes each second. **[1]**
 **(b)** The coil is turned more slowly. Describe two changes to the graph. **[2]**
 **(c)** The alternator is converted to a dynamo. Describe how the graph would look, and name the part that is
 changed. **[2]**
 
-**9.** Explain how a moving-coil microphone produces an electrical signal from sound. **[4]**
+**9.** (Higher tier only) Explain how a moving-coil microphone produces an electrical signal from sound. **[4]**
 
-**10.** A laptop charger contains a transformer that steps 230 V mains down to 19 V. The primary coil has 920 turns.
+**10.** (Higher tier only) A laptop charger contains a transformer that steps 230 V mains down to 19 V. The primary coil has 920 turns.
 
 **(a)** Calculate the number of turns on the secondary coil. **[2]**
 **(b)** The laptop draws 3.0 A at 19 V. Calculate the current drawn from the mains, assuming the transformer is 100%
 efficient. Give your answer to 2 significant figures. **[3]**
 
-**11.** A step-up transformer at a power station raises the p.d. from 25 000 V to 400 000 V. The primary coil has 500
+**11.** (Higher tier only) A step-up transformer at a power station raises the p.d. from 25 000 V to 400 000 V. The primary coil has 500
 turns. Calculate the number of turns on the secondary coil. **[2]**
 
 **12.** A power station transmits 5.0 MW through cables with a total resistance of 8.0 Ω.

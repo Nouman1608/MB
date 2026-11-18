@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover **4.3.3 Particle model and pressure** (4.3.3.1 to 4.3.3.3) of AQA GCSE Physics (8463),
-assessed on Paper 1. Questions 11 and 12 are on 4.3.3.3, which is **Higher tier only**. pV = constant is given on
+assessed on Paper 1. Part 11(b) and Question 12 test 4.3.3.3, which is **Higher tier only**. pV = constant is given on
 the equation sheet.
 
 Revise first with the [particle model and pressure study guide](/resources/aqa-gcse-physics-8463-particle-model-and-pressure/)
@@ -70,10 +70,10 @@ and the [particle model and pressure revision notes](/resources/aqa-gcse-physics
 
 **10.** A diver's air tank has a volume of 0.010 m³ and holds air at 2.0 × 10⁷ Pa. Calculate the volume this air would occupy at 1.0 × 10⁵ Pa, at the same temperature. **[3]**
 
-**11.** (Higher tier only) A student pumps up a bicycle tyre quickly and notices the pump barrel becomes warm.
+**11.** A student pumps up a bicycle tyre quickly and notices the pump barrel becomes warm.
 
 **(a)** State what is meant by work. **[1]**
-**(b)** Explain why the air in the pump becomes warmer. **[3]**
+**(b)** (Higher tier only) Explain why the air in the pump becomes warmer. **[3]**
 
 **12.** (Higher tier only) A gas is compressed quickly in a sealed cylinder. Explain why its pressure rises by more than pV = constant predicts. **[3]**
 

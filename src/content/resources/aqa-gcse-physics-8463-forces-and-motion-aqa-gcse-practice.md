@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **4.5.6 Forces and motion** of the AQA GCSE Physics (8463) specification,
-examined on Paper 2 at both tiers. Part 8(b) and Question 13 test content marked (HT only) and are labelled
+examined on Paper 2 at both tiers. Parts 8(b), 13(b) and 13(c) test content marked (HT only) and are labelled
 **Higher tier only**. Take g = 9.8 N/kg. A calculator is allowed throughout.
 
 Learn the content first in the
@@ -101,11 +101,11 @@ time. **[3]**
 **(b)** Describe how the students could test whether a distraction, such as a phone conversation, affects
 reaction time. **[2]**
 
-**13.** (Higher tier only) A loaded lorry of mass 32 000 kg brakes uniformly from 20 m/s to rest in 80 m.
+**13.** A loaded lorry of mass 32 000 kg brakes uniformly from 20 m/s to rest in 80 m.
 
 **(a)** Calculate the deceleration of the lorry. **[2]**
-**(b)** Estimate the braking force. **[2]**
-**(c)** Use the idea of inertial mass to explain why the lorry needs a much larger braking force than a car to
+**(b)** (Higher tier only) Estimate the braking force. **[2]**
+**(c)** (Higher tier only) Use the idea of inertial mass to explain why the lorry needs a much larger braking force than a car to
 stop in the same distance from the same speed. **[2]**
 
 **14.** A swimmer pushes the water backwards with her hands and moves forwards. Explain this using Newton's
