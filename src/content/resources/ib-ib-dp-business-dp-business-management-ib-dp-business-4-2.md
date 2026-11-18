@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-business-unit-4"
     subtopic: "ib-dp-business-4-2"
-description: "Study guide to IB DP Business Management 4.2 Marketing planning: the plan's role, segmentation, targeting and positioning, niche and mass markets, USP and differentiation."
+description: "Study guide to IB DP Business Management 4.2 Marketing planning: segmentation, targeting, position maps, niche and mass markets, USP and differentiation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

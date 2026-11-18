@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-business-unit-2"
     subtopic: "ib-dp-business-2-7"
-description: "Study guide to IB DP Business Management 2.7 (HL only): sources of workplace conflict, employee and employer approaches, bargaining power and resolution methods."
+description: "Study guide to IB DP Business Management 2.7 (HL only): sources of workplace conflict, employee and employer approaches, bargaining power and resolution."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

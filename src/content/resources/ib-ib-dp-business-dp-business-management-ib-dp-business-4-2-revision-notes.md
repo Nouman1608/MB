@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-business-unit-4"
     subtopic: "ib-dp-business-4-2"
-description: "Condensed IB DP Business Management 4.2 notes: marketing plans, segmentation, targeting, position maps, niche and mass markets, USP, differentiation and a self-test."
+description: "Condensed IB DP Business Management 4.2 notes: marketing plans, segmentation, targeting, position maps, niche and mass markets, USP and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

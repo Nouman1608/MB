@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-business-unit-4"
     subtopic: "ib-dp-business-4-1"
-description: "Original IB DP Business Management practice questions on 4.1: market and product orientation, market share, market growth and HL market leadership, with answers."
+description: "Original IB DP Business Management practice questions on 4.1: market and product orientation, market share and growth, and HL market leadership, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

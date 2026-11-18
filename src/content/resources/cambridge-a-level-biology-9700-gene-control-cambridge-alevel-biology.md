@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "inheritance-cambridge-alevel-biology"
     subtopic: "gene-control-cambridge-alevel-biology"
-description: "A deep guide to 9700 section 16.3: structural and regulatory genes, inducible and repressible enzymes, the lac operon, transcription factors and DELLA proteins."
+description: "A deep guide to 9700 section 16.3: structural and regulatory genes, inducible and repressible enzymes, the lac operon, transcription factors and DELLA."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
