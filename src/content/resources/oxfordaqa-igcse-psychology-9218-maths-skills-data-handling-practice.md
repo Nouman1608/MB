@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-cognition-and-behaviour-9218"
     subtopic: "research-methods-9218"
-description: "Original data-handling questions for OxfordAQA IGCSE Psychology 9218 on fractions, ratios, percentages, estimation, means and significant figures, with worked answers."
+description: "Original 9218 data-handling questions on fractions, ratios, percentages, estimation, means and significant figures for OxfordAQA IGCSE Psychology, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -131,6 +131,16 @@ figures implies a precision the data cannot support [1]; two or three significan
 29% or 29.4%) would be more appropriate [1].
 
 ---
+
+## Exam-style working layout
+
+For any calculation question, set out your answer in three lines so every mark is visible:
+
+```
+Calculation:  66 ÷ 240 × 100
+Answer:       27.5
+Final:        27.5% (3 s.f.)
+```
 
 ## Where marks are usually lost
 

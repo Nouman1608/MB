@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-cognition-and-behaviour-9218"
     subtopic: "research-methods-9218"
-description: "Study guide to the maths skills in 9218 data handling: decimals, fractions, ratios, percentages, estimation, means and significant figures, with psychology examples."
+description: "Study guide to 9218 data-handling maths skills: decimals, fractions, ratios, percentages, estimation, means and significant figures, with psychology examples."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

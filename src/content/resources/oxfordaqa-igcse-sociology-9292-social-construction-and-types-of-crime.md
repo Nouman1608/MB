@@ -84,6 +84,17 @@ deviance seem larger and more organised than it was, and could increase it, a pr
 Moral panics show social construction in action: a society's reaction shapes what is seen as a
 serious problem.
 
+### Who constructs crime?
+
+- **Functionalists** see laws as reflecting a society's shared values, so changes in law follow
+  changes in values.
+- **Marxists** argue that the ruling class has most influence over law-making, so laws protecting
+  property are many and strictly enforced, while harms caused by the powerful are less often made
+  criminal.
+- **Feminists** point out that some harms to women, such as rape within marriage, were not treated as
+  crimes until values and laws changed.
+- **Interactionists** focus on labelling and on moral entrepreneurs who campaign for new rules.
+
 ## The eight types of crime
 
 | Type | Definition | Examples |

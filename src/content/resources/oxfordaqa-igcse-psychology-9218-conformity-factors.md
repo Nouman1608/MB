@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-social-context-and-behaviour-9218"
     subtopic: "social-influences-9218"
-description: "Study guide to group size, anonymity, task difficulty, personality and expertise as factors in conformity for OxfordAQA IGCSE Psychology 9218, with Asch's variations."
+description: "Study guide to group size, anonymity, task difficulty, personality and expertise in conformity for OxfordAQA IGCSE Psychology 9218, with Asch's variations."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

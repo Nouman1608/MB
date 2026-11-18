@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-introducing-sociology-9292"
     subtopic: "education-9292"
-description: "Original practice questions on 9292 section 3.1.2.5 global education: literacy, provision, poverty, gender and digital access, with invented data and full answers."
+description: "Original practice questions on 9292 section 3.1.2.5 global education: literacy, provision, poverty, gender and digital access, with invented data and answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -58,6 +58,10 @@ short sentence may neither deter nor reform.
 - **Foucault,** *Discipline and Punish* (1975): a shift from physical spectacle to **discipline**
   through observation; the **panopticon** (Bentham's design) makes people watch themselves.
 
+- **Interactionist:** punishment depends on who is labelled (Becker); prison can become a master status.
+- **Feminist:** double deviance for women who break gender norms; domestic abuse historically treated
+  less seriously.
+
 ## Types of policing
 
 | Type | Key idea | Main criticism |

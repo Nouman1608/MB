@@ -72,6 +72,12 @@ How crime is measured is condensed in the [research methods (Paper 2) revision n
 - Over-representation in the criminal justice system of England and Wales examined in the **Lammy
   Review** (2017).
 
+## Evaluation points
+
+- Victim surveys and self-report studies can **check** official patterns.
+- Patterns are **real but shaped** by reporting, recording and policing.
+- Explanations often **combine**: class and ethnicity overlap through disadvantage.
+
 ## Key terms
 
 | Term | Definition |

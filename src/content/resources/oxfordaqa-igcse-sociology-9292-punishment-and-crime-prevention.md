@@ -77,6 +77,16 @@ mind through constant observation. He used Jeremy Bentham's design for a **panop
 which inmates can always be watched without knowing when, as a model: people who might be watched at
 any time begin to watch themselves. This idea links punishment to surveillance in wider society.
 
+**Interactionist.** Following **Becker**, interactionists point out that punishment depends on who is
+caught and labelled. Police and courts act on stereotypes, so the same offence may lead to a warning
+for one person and a prosecution for another. Punishment can also deepen a deviant identity: a prison
+sentence may become a master status that makes reoffending more likely.
+
+**Feminist.** Feminists examine how gender shapes punishment. Women who break gender norms may face
+**double deviance**, judged both for the offence and for being "unfeminine". Feminists have also
+criticised justice systems for treating domestic abuse less seriously than violence in public, which
+leaves many women without protection.
+
 ## Crime prevention: types of policing
 
 | Type | Main idea | Points for evaluation |

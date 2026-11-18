@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-exploring-sociology-9292"
     subtopic: "socialisation-and-social-control-9292"
-description: "Original practice questions on 9292 section 3.2.2.3: aims and types of punishment, policing styles and surveillance, with an invented data item and full answers."
+description: "Original practice questions on 9292 section 3.2.2.3: aims and types of punishment, policing styles and surveillance, with an invented data item and answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

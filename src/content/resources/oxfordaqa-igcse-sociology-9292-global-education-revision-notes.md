@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-introducing-sociology-9292"
     subtopic: "education-9292"
-description: "Revision notes for 9292 section 3.1.2.5: literacy definitions and patterns, provision, poverty, gender and other barriers, and the digital divide, with a self-test."
+description: "Revision notes for 9292 section 3.1.2.5: literacy, provision, poverty, gender and other barriers, and the digital divide, with exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

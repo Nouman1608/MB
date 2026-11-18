@@ -96,6 +96,14 @@ Raw numbers can mislead when populations differ in size.
 Town A has more thefts, but the **rate per 1,000 people** is 1,200 ÷ 40,000 × 1,000 = **30** in Town A
 and 900 ÷ 20,000 × 1,000 = **45** in Town B. Relative to its population, Town B has the higher rate.
 
+### Averages
+
+Tables sometimes give, or ask you to work out, an average. The **mean** adds the values and divides by
+how many there are; the **median** is the middle value when they are placed in order. With invented
+weekly incomes of 200, 250, 300, 350 and 2,000, the mean is 3,100 ÷ 5 = **620**, but the median is
+**300**. One very high income pulls the mean up, so the median gives a better picture of a typical
+person. This matters when interpreting data on wealth and income (3.2.1.3).
+
 ### Charts and graphs
 
 - **Bar charts** compare categories: read each bar against the scale, not by eye.
