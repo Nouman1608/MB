@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "databases-0417"
     subtopic: "create-a-database-structure-0417"
-description: "Condensed notes on importing data, field types and display formats, keys, relationships, flat file versus relational and form design, for IGCSE ICT 0417 section 18.1."
+description: "Condensed notes on importing data, field types and formats, keys, relationships, flat file versus relational and form design, for IGCSE ICT 0417 18.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

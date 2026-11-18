@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "databases-0417"
     subtopic: "create-a-database-structure-0417"
-description: "Original questions with mark-scheme answers on importing data, field types, keys, relationships, flat file and relational databases and form design for IGCSE ICT 0417."
+description: "Original questions with mark-scheme answers on importing data, field types, keys, relationships, database types and form design for IGCSE ICT 0417."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
