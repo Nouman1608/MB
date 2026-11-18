@@ -119,6 +119,10 @@ V = π ∫₀¹ (x² − x⁴) dx = π(1/3 − 1/5) = 2π/15
 
 The trap is π ∫ (x − x²)² dx, which squares the difference of the radii instead of subtracting the squares. That expression gives π/30, a different and wrong answer.
 
+## Area or volume: reading the question
+
+Both kinds of question can use the same region, so read the instruction carefully. "The region is rotated through 2π about the y-axis" asks for π ∫ x² dy. "Find the area of the region" asks for ∫ |x| dy or ∫ |y| dx, with no π and no squaring. When a question asks for both, the limits and the rearranged equation found for the area can be reused for the volume, which is why the area part often comes first. Units also differ: an area is in square units and a volume in cubic units, and stating them is a quick check that the right formula has been used.
+
 ## With technology on Paper 2
 
 For y = x e^(−x), 0 ≤ x ≤ 2, rotated about the x-axis:

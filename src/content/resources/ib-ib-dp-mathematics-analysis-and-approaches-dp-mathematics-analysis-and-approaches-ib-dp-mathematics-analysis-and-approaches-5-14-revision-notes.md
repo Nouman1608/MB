@@ -59,6 +59,10 @@ Common linking equations: circle A = πr²; sphere V = (4/3)πr³, S = 4πr²; c
 - An implicit constraint can be used directly: differentiate both, then eliminate dy/dx.
 - State the answer to the question asked, with units.
 
+## A related rates answer, in brief
+
+A balloon rises at 3 m s⁻¹ from a point 100 m from an observer. tan θ = h/100; differentiating, sec²θ dθ/dt = (1/100) dh/dt. At h = 100, θ = π/4 and sec²θ = 2, so dθ/dt = 0.015 rad s⁻¹. Note the order: equation, differentiate, then substitute.
+
 ## Key terms
 
 | Term | Meaning |

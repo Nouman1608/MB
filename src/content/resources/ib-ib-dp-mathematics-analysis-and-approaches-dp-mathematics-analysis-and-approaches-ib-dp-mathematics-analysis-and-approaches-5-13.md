@@ -126,6 +126,18 @@ Divide by x³: (3 − a)/x² − 9/2 + …
 
 For the limit to be finite the 1/x² term must vanish, so **a = 3**, and the limit is **−9/2**. With l'Hôpital's rule the same condition appears as "the first application must still be 0/0": (3 cos 3x − a)/(3x²) is 0/0 at x = 0 only when a = 3.
 
+### Worked example 7: a product in the denominator
+
+Find lim (x→0) (x − sin x)/(x(1 − cos x)).
+
+```
+Series: x − sin x = x³/6 − x⁵/120 + …
+        x(1 − cos x) = x(x²/2 − x⁴/24 + …) = x³/2 − x⁵/24 + …
+Quotient = (1/6 − x²/120 + …)/(1/2 − x²/24 + …) → (1/6)/(1/2) = 1/3
+```
+
+l'Hôpital's rule would need three applications here, with the product rule in every denominator, so the series method is far quicker. The general principle: find the lowest power of x in the numerator and in the denominator. If the powers are equal, the limit is the ratio of their coefficients; if the numerator's power is higher, the limit is 0.
+
 ## Other forms: rewrite first
 
 Products such as x ln x as x → 0⁺ have the form 0 × ∞. Rewrite as a quotient to get ∞/∞:

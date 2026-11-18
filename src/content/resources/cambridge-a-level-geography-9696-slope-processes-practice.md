@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "rocks-and-weathering-9696"
     subtopic: "slope-processes-9696"
-description: "Original practice questions with marked answers on Cambridge 9696 Geography 3.3: heaves, flows, slides, falls, factor of safety, rainsplash, sheetwash and rills."
+description: "Original practice questions with marked answers on Cambridge 9696 Geography 3.3: heaves, flows, slides, falls, factor of safety, rainsplash and surface runoff."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

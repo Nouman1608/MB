@@ -137,6 +137,10 @@ A difference of squares works the same way: 1/(x² − 4) = (1/4)[1/(x − 2) �
 
 **Choosing between arctan and partial fractions.** Test the discriminant of the quadratic denominator. If it factorises (discriminant positive), use partial fractions and logarithms. If it has no real roots, complete the square and use arctan.
 
+## Checking by differentiation
+
+Every integral in this section can be checked in a few seconds by differentiating the answer. For (1/6) arctan(2x/3), the chain rule gives (1/6) × (2/3) × 1/(1 + 4x²/9) = (1/9) × 9/(9 + 4x²) = 1/(9 + 4x²), the original integrand. The check catches the most common slip in arctan and arcsin integrals, a wrong constant in front.
+
 ## A family of curves
 
 ∫ 1/(1 + x²) dx = arctan x + C describes infinitely many curves, all vertical translations of y = arctan x. A point picks one: if f′(x) = 1/(1 + x²) and f(1) = π, then π/4 + C = π, so f(x) = arctan x + 3π/4.

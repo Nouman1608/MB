@@ -60,6 +60,10 @@ Binomial rows to know: (x + h)² → 1, 2, 1; (x + h)³ → 1, 3, 3, 1; (x + h)�
 - x e^(kx) → (kⁿx + nkⁿ⁻¹)e^(kx).
 - A general formula is proved by induction: assume for n = k, differentiate, obtain the n = k + 1 form.
 
+## A full first principles answer, in brief
+
+For f(x) = x³ + 2x²: f(x + h) − f(x) = 3x²h + 3xh² + h³ + 4xh + 2h²; dividing by h gives 3x² + 3xh + h² + 4x + 2h; letting h → 0 gives 3x² + 4x. Four lines, each one a method mark.
+
 ## Key terms
 
 | Term | Meaning |

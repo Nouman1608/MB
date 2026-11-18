@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "rocks-and-weathering-9696"
     subtopic: "plate-tectonics-9696"
-description: "Study guide to Cambridge 9696 Geography 3.1 Plate tectonics: plate nature and patterns, boundary types, sea floor spreading, subduction, ridges, trenches and arcs."
+description: "Study guide to Cambridge 9696 Geography 3.1 Plate tectonics: plates and their patterns, boundaries, sea floor spreading, subduction, ridges, trenches and arcs."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
