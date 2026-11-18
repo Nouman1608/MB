@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import { satteri } from '@astrojs/markdown-satteri';
 import { rtlBlocksPlugin } from './src/utils/markdown/hast-rtl-blocks.mjs';
+import { partBreaksPlugin } from './src/utils/markdown/hast-part-breaks.mjs';
 import tailwindcss from '@tailwindcss/vite';
 import typographicDashes from './src/integrations/typographic-dashes.mjs';
 import { readdirSync, readFileSync } from 'node:fs';
@@ -232,7 +233,7 @@ export default defineConfig({
     // steps look like terminal output, so use a light reading surface.
     syntaxHighlight: { type: 'shiki' },
     shikiConfig: { theme: 'github-light' },
-    processor: satteri({ hastPlugins: [rtlBlocksPlugin] }),
+    processor: satteri({ hastPlugins: [rtlBlocksPlugin, partBreaksPlugin] }),
   },
   integrations: [
     typographicDashes(),
