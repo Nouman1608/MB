@@ -145,6 +145,7 @@ Result: **Pad 1**, then **Pen 7**. Writing out the joined rows first, as in step
 - A group with no rows does not appear in GROUP BY output.
 - INSERT values must be in the same order as the attribute list.
 - Use exactly the table and attribute names the question gives.
+- COUNT counts rows; SUM adds values. For the SALE rows in the reading practice, COUNT(Qty) gives 3 but SUM(Qty) gives 8.
 
 ## Self-test
 
