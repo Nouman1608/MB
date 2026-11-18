@@ -27,7 +27,7 @@ featured: false
 
 Related: [Graphs study guide](/resources/edexcel-igcse-mathematics-4ma1-graphs-edexcel-igcse-maths/), [Graphs revision notes](/resources/edexcel-igcse-mathematics-4ma1-graphs-edexcel-igcse-maths-revision-notes/)
 
-**Tiers:** questions marked **(Higher tier only)** use content that the 4MA1 specification (Issue 2) lists only for the Higher Tier in 3.3: transformations, gradients of curves by tangents, intersections of a line and a curve, and the equations of lines through two points or perpendicular to a given line. Questions 1 to 10 are on Foundation content for both tiers. No graph paper is needed; where a question would normally use a drawn graph, the information is given in words.
+**Tiers:** questions marked **(Higher tier only)** use content that the 4MA1 specification (Issue 2) lists only for the Higher Tier in 3.3: transformations, gradients of curves by tangents, intersections of a line and a curve, and the equations of lines through two points, parallel to a given line or perpendicular to a given line. Questions 1 to 10 are on Foundation content for both tiers, except part 5(a), which is marked **(Higher tier only)** because it uses a line parallel to a given line. Part 12(b), solving a quadratic equation by factorising, is also for both tiers. No graph paper is needed; where a question would normally use a drawn graph, the information is given in words.
 
 ---
 
@@ -45,7 +45,7 @@ Related: [Graphs study guide](/resources/edexcel-igcse-mathematics-4ma1-graphs-e
 
 **4.** Find the coordinates of the points where the line 4x + 5y = 20 crosses the x-axis and the y-axis. **[2]**
 
-**5.** **(a)** Write down the equation of the line parallel to y = 4x − 1 that passes through (0, −3). **[1]**
+**5.** **(a)** **(Higher tier only)** Write down the equation of the line parallel to y = 4x − 1 that passes through (0, −3). **[1]**
 
 **(b)** Write down the equation of the horizontal line through (2, −6). **[1]**
 
@@ -87,9 +87,9 @@ Related: [Graphs study guide](/resources/edexcel-igcse-mathematics-4ma1-graphs-e
 
 **(b)** Find the equation of the line perpendicular to your line in (a) that passes through (6, 2). **[3]**
 
-**12.** **(Higher tier only)** The graph of y = x² − 5x + 2 has been drawn.
+**12.** The graph of y = x² − 5x + 2 has been drawn.
 
-**(a)** Find the equation of the straight line that should be drawn on the same axes to solve x² − 7x + 6 = 0. **[2]**
+**(a)** **(Higher tier only)** Find the equation of the straight line that should be drawn on the same axes to solve x² − 7x + 6 = 0. **[2]**
 
 **(b)** Solve x² − 7x + 6 = 0 algebraically to check where the line meets the curve. **[1]**
 

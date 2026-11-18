@@ -171,6 +171,39 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   'edexcel-igcse-maths-4ma1-set-language-and-notation-practice',  // 2026-10-04
   'edexcel-igcse-maths-4ma1-simultaneous-linear-equations-practice',  // 2026-10-04
   'edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice',  // 2026-10-04
+  // 2026-11-18 (D-500): new subtopic files checked against the 4MA1 specification (Issue 2):
+  // vectors labelled (5.1 is Higher only), four labels added or moved to parts, one removed.
+  'edexcel-igcse-mathematics-4ma1-algebraic-manipulation-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-angles-lines-and-triangles-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-applying-number-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-calculus-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-circle-properties-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-construction-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-decimals-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-degree-of-accuracy-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-electronic-calculators-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-expressions-and-formulae-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-fractions-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-function-notation-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-geometrical-reasoning-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-graphical-representation-of-data-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-graphs-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-integers-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-linear-equations-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-measures-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-percentages-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-polygons-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-powers-and-roots-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-probability-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-ratio-and-proportion-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-sequences-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-standard-form-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-statistical-measures-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-symmetry-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-transformation-geometry-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-trigonometry-and-pythagoras-theorem-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-use-of-symbols-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-vectors-edexcel-igcse-maths-practice',  // 2026-11-18
   // 8300
   'aqa-gcse-mathematics-algebra-practice',
   'aqa-gcse-mathematics-number-practice',

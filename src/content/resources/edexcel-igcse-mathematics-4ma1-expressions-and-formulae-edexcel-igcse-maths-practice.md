@@ -27,7 +27,7 @@ featured: false
 
 Related: [Expressions and formulae study guide](/resources/edexcel-igcse-mathematics-4ma1-expressions-and-formulae-edexcel-igcse-maths/), [Expressions and formulae revision notes](/resources/edexcel-igcse-mathematics-4ma1-expressions-and-formulae-edexcel-igcse-maths-revision-notes/)
 
-**Tiers:** questions marked **(Higher tier only)** need the subject to be collected from two places, or a power or root of the subject to be undone, which the 4MA1 specification (Issue 2) lists only for the Higher Tier. Every other question is on Foundation content for both tiers. All prices are invented.
+**Tiers:** questions marked **(Higher tier only)** need the subject to be collected from two places, which the 4MA1 specification (Issue 2) lists only for the Higher Tier. Every other question is on Foundation content for both tiers, including making a squared letter that appears once the subject (the specification's Foundation example is A = πr²). All prices are invented.
 
 ---
 
@@ -79,7 +79,7 @@ Related: [Expressions and formulae study guide](/resources/edexcel-igcse-mathema
 
 **11.** **(Higher tier only)** Make m the subject of a = (m + 2)/(3 − m). **[4]**
 
-**12.** **(Higher tier only)**
+**12.**
 
 **(a)** The volume of a cone is V = (1/3)πr²h. Make r the subject, where r > 0. **[2]**
 

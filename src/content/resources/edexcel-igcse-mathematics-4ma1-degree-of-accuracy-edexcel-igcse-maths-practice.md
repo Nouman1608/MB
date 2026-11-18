@@ -26,7 +26,7 @@ featured: false
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
-This set covers **section 1.8, Degree of accuracy**, of the Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2. **Tiers:** questions marked **(Higher tier only)** solve problems using upper and lower bounds, which the specification lists for the Higher Tier only. The Foundation Tier includes identifying bounds, so questions 4, 6 and 8 are for both tiers.
+This set covers **section 1.8, Degree of accuracy**, of the Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2. **Tiers:** questions marked **(Higher tier only)** solve problems using upper and lower bounds, which the specification lists for the Higher Tier only. The Foundation Tier includes identifying bounds, so questions 4, 6, 8(a) and 8(b) are for both tiers. Part 8(c) uses a bound in a calculation, so it is marked **(Higher tier only)**.
 
 Related: [section 1.8 study guide](/resources/edexcel-igcse-mathematics-4ma1-degree-of-accuracy-edexcel-igcse-maths/) and [section 1.8 revision notes](/resources/edexcel-igcse-mathematics-4ma1-degree-of-accuracy-edexcel-igcse-maths-revision-notes/).
 
@@ -70,7 +70,7 @@ Related: [section 1.8 study guide](/resources/edexcel-igcse-mathematics-4ma1-deg
 
 **(b)** Write down the largest possible attendance. **[1]**
 
-**(c)** Work out the least possible amount of money taken from ticket sales. **[1]**
+**(c)** **(Higher tier only)** Work out the least possible amount of money taken from ticket sales. **[1]**
 
 **9.** **(Higher tier only)** A tank fills with 450 litres of water, correct to the nearest 10 litres, in 32 minutes, correct to the nearest minute.
 

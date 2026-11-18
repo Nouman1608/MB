@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "vectors-and-transformation-geometry-edexcel-igcse-maths"
     subtopic: "vectors-edexcel-igcse-maths"
-description: "Twelve original Higher tier 4MA1 vector questions on column vectors, modulus, vector equations, routes, ratios and proofs, with mark-scheme answers."
+description: "Twelve original 4MA1 vector questions, eleven Higher only, on column vectors, modulus, vector equations, routes, ratios and proofs, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -27,27 +27,27 @@ featured: false
 
 Related: [Vectors study guide](/resources/edexcel-igcse-mathematics-4ma1-vectors-edexcel-igcse-maths/), [Vectors revision notes](/resources/edexcel-igcse-mathematics-4ma1-vectors-edexcel-igcse-maths-revision-notes/)
 
-**Tiers:** section 5.1 is **Higher tier only**, so every question on this page is Higher tier only. Column vectors are written on one line as (x, y), across component first. Bold letters such as **a** are vectors; →AB is the vector from A to B.
+**Tiers:** section 5.1 is **Higher tier only**, so every question on this page is marked **(Higher tier only)** except question 7, which needs only Foundation coordinate work and Pythagoras' theorem (sections 3.3 and 4.8), so it is for both tiers. Column vectors are written on one line as (x, y), across component first. Bold letters such as **a** are vectors; →AB is the vector from A to B.
 
 ---
 
 ## Section A
 
-**1.** **a** = (3, −2) and **b** = (−1, 4).
+**1.** **(Higher tier only)** **a** = (3, −2) and **b** = (−1, 4).
 
 **(a)** Find 2**a** + **b** as a column vector. **[2]**
 
 **(b)** Find |**a** − 2**b**|, giving your answer to 3 significant figures. **[2]**
 
-**2.** Find the magnitude of the vector (−9, 40). **[2]**
+**2.** **(Higher tier only)** Find the magnitude of the vector (−9, 40). **[2]**
 
-**3.** The vector (k, 8) has magnitude 17. Find the two possible values of k. **[2]**
+**3.** **(Higher tier only)** The vector (k, 8) has magnitude 17. Find the two possible values of k. **[2]**
 
-**4.** A is the point (−3, 2) and B is the point (5, −4). Find →AB as a column vector and find |→AB|. **[2]**
+**4.** **(Higher tier only)** A is the point (−3, 2) and B is the point (5, −4). Find →AB as a column vector and find |→AB|. **[2]**
 
-**5.** Find the values of p and q such that p(2, 3) + q(1, −1) = (8, 7). **[3]**
+**5.** **(Higher tier only)** Find the values of p and q such that p(2, 3) + q(1, −1) = (8, 7). **[3]**
 
-**6.** Show that 4**a** − 6**b** is parallel to 6**a** − 9**b**, and find the ratio of their lengths. **[2]**
+**6.** **(Higher tier only)** Show that 4**a** − 6**b** is parallel to 6**a** − 9**b**, and find the ratio of their lengths. **[2]**
 
 ## Section B
 
@@ -57,13 +57,13 @@ Related: [Vectors study guide](/resources/edexcel-igcse-mathematics-4ma1-vectors
 
 **(b)** Find the length of the diagonal AC. **[2]**
 
-**8.** In a quadrilateral OPQR, →OP = **p**, →PQ = 2**q** and →QR = **p** − **q**.
+**8.** **(Higher tier only)** In a quadrilateral OPQR, →OP = **p**, →PQ = 2**q** and →QR = **p** − **q**.
 
 **(a)** Find →OR in terms of **p** and **q**. **[1]**
 
 **(b)** Find →RP in terms of **p** and **q**. **[2]**
 
-**9.** In triangle OAB, →OA = **a** and →OB = **b**. M is the midpoint of AB. N is the point on OB with ON : NB = 2 : 1.
+**9.** **(Higher tier only)** In triangle OAB, →OA = **a** and →OB = **b**. M is the midpoint of AB. N is the point on OB with ON : NB = 2 : 1.
 
 **(a)** Find →AB. **[1]**
 
@@ -71,15 +71,15 @@ Related: [Vectors study guide](/resources/edexcel-igcse-mathematics-4ma1-vectors
 
 **(c)** Find →MN, simplifying your answer. **[2]**
 
-**10.** In triangle OAB, →OA = 6**a** and →OB = 6**b**. P is on OA with OP : PA = 1 : 2, and Q is on OB with OQ : QB = 1 : 2.
+**10.** **(Higher tier only)** In triangle OAB, →OA = 6**a** and →OB = 6**b**. P is on OA with OP : PA = 1 : 2, and Q is on OB with OQ : QB = 1 : 2.
 
 Show that PQ is parallel to AB and that AB is three times as long as PQ. **[4]**
 
-**11.** Using the triangle in question 10, R is the midpoint of AB and X is the midpoint of PQ.
+**11.** **(Higher tier only)** Using the triangle in question 10, R is the midpoint of AB and X is the midpoint of PQ.
 
 Prove that O, X and R lie on a straight line. **[4]**
 
-**12.** OABC is a quadrilateral with →OA = 4**a**, →OC = **c** and →CB = 2**a**.
+**12.** **(Higher tier only)** OABC is a quadrilateral with →OA = 4**a**, →OC = **c** and →CB = 2**a**.
 
 **(a)** Find →AB in terms of **a** and **c**. **[1]**
 

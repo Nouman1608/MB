@@ -27,7 +27,7 @@ featured: false
 
 Related: [Statistical measures study guide](/resources/edexcel-igcse-mathematics-4ma1-statistical-measures-edexcel-igcse-maths/), [Statistical measures revision notes](/resources/edexcel-igcse-mathematics-4ma1-statistical-measures-edexcel-igcse-maths-revision-notes/)
 
-**Tiers:** questions 1 to 8 use the Foundation Tier content of section 6.2 (averages, range, grouped data and modal class), which both tiers need. Questions marked **(Higher tier only)** use quartiles, the interquartile range and cumulative frequency.
+**Tiers:** questions 1 to 8 use the Foundation Tier content of section 6.2 (averages, range, grouped data and modal class), which both tiers need, and so does part 9(a), the median of a list. Questions and parts marked **(Higher tier only)** use quartiles, the interquartile range and cumulative frequency.
 
 ---
 
@@ -79,13 +79,13 @@ Related: [Statistical measures study guide](/resources/edexcel-igcse-mathematics
 
 **8.** In a game, the scores 1, 2, 3 and 4 have frequencies 4, k, 6 and 2. The mean score is 2.4. Find the value of k. **[3]**
 
-**9.** **(Higher tier only)** Here are 19 values, in order:
+**9.** Here are 19 values, in order:
 
 11, 13, 14, 16, 17, 18, 20, 21, 23, 24, 25, 27, 28, 30, 31, 33, 35, 38, 42
 
 **(a)** Find the median. **[1]**
 
-**(b)** Find the interquartile range. **[2]**
+**(b)** **(Higher tier only)** Find the interquartile range. **[2]**
 
 **10.** **(Higher tier only)** The cumulative frequency table gives the times, t seconds, of 80 runners.
 

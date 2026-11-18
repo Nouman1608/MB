@@ -27,7 +27,7 @@ featured: false
 
 Related: [Electronic calculators study guide](/resources/edexcel-igcse-mathematics-4ma1-electronic-calculators-edexcel-igcse-maths/), [Electronic calculators revision notes](/resources/edexcel-igcse-mathematics-4ma1-electronic-calculators-edexcel-igcse-maths-revision-notes/)
 
-**Tiers:** section 1.11 is Foundation Tier content that the Higher Tier also covers ("See Foundation Tier"), so every question here is for both tiers. A calculator is needed throughout.
+**Tiers:** section 1.11 is Foundation Tier content that the Higher Tier also covers ("See Foundation Tier"), so every question here is for both tiers except part 3(b), marked **(Higher tier only)**: fractional powers are listed for the Higher Tier only (Higher 1.4C and 2.1A). A calculator is needed throughout.
 
 ---
 
@@ -47,7 +47,7 @@ Related: [Electronic calculators study guide](/resources/edexcel-igcse-mathemati
 
 **(a)** 3.2⁻², giving your answer as a decimal **[1]**
 
-**(b)** 125^(2/3) **[1]**
+**(b)** **(Higher tier only)** 125^(2/3) **[1]**
 
 **(c)** the fifth root of 0.00032. **[1]**
 
