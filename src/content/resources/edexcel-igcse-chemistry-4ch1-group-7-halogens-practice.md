@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "inorganic-chemistry-4ch1"
     subtopic: "group-7-halogens-4ch1"
-description: "Twelve original 4CH1 Group 7 questions on halogen properties, predictions, displacement reactions and equations, and the reactivity trend, with answers."
+description: "Thirteen original 4CH1 Group 7 questions on halogen properties, predictions, displacement reactions and equations, and the reactivity trend, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -95,6 +95,8 @@ These questions cover sub-topic 2(b) Group 7 (halogens) of the Pearson Edexcel I
 **(a)** State how a halogen atom reacts to form a halide ion. **[1]**
 **(b)** Explain why fluorine is more reactive than chlorine. **[4]**
 
+**13.** A student has three unlabelled colourless solutions: sodium chloride, sodium bromide and sodium iodide. She also has chlorine water and bromine water. Describe how she could identify each solution using displacement reactions, giving the expected result for each. **[4]**
+
 ## Answers
 
 **1.** Pale yellow-green (green) [1]; gas [1].
@@ -131,6 +133,13 @@ These questions cover sub-topic 2(b) Group 7 (halogens) of the Pearson Edexcel I
 **12. (a)** It gains one electron [1].
 **(b)** Fluorine has fewer occupied shells (two compared with three), so its outer shell is closer to the nucleus [1]. There is less shielding by inner electrons [1]. So the attraction between the nucleus and an incoming electron is stronger [1], and fluorine gains an electron more easily [1].
 *Marking note:* An answer about losing electrons scores zero in (b): halogens react by gaining an electron.
+
+**13.** One mark per point, up to 4:
+- Add bromine water to a sample of each solution: the one that turns brown is sodium iodide [1].
+- Add chlorine water to fresh samples of the other two: the one that turns orange is sodium bromide [1].
+- The solution that shows no colour change with chlorine water is sodium chloride [1].
+- Use small volumes in a fume cupboard, because chlorine and bromine are toxic [1].
+*Marking note:* Adding chlorine water to all three first also works (orange = bromide, brown = iodide, no change = chloride), and scores the same if every result is given.
 
 ## Where marks are usually lost
 
