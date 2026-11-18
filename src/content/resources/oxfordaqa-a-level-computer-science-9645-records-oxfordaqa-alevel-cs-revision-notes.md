@@ -100,6 +100,21 @@ class Pupil:
 | Sort by a field | `pupils.sort(key=lambda p: p.mark)` |
 | Count matches | Loop with an `if` on a field and a counter |
 
+## Worked reminder: counting matches
+
+Count the pupils in form "12B" whose mark is at least 60:
+
+```python
+def count_passes(pupils, form):
+    count = 0
+    for p in pupils:
+        if p.form == form and p.mark >= 60:
+            count = count + 1
+    return count
+```
+
+Two fields are tested in one condition, and the whole list of records is passed as a single parameter.
+
 ## Records versus arrays
 
 | | Record | Array |

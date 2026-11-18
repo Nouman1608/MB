@@ -66,6 +66,20 @@ them is done by hand.
 5. Solve, using simultaneous equations if both μ and σ are unknown.
 6. Check signs and re-calculate the original probability.
 
+## Mini-example: two unknowns
+
+Times are normally distributed; 5% are under 20 minutes and 20% are over 35 minutes.
+
+```
+Area 0.05:  z₁ = −1.6449     20 = μ − 1.6449σ
+Area 0.80:  z₂ =  0.8416     35 = μ + 0.8416σ
+Subtract:   15 = 2.4865σ  →  σ = 6.03 minutes
+μ = 20 + 1.6449 × 6.0326 = 29.9 minutes (3 s.f.)
+```
+
+Check: μ = 29.9 sits between 20 and 35, closer to 35 because the upper tail (20%) is larger than the
+lower tail (5%).
+
 ## Key terms
 
 | Term | Meaning |

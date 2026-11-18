@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-geometry-and-trigonometry"
     subtopic: "ib-dp-mathematics-analysis-and-approaches-3-8"
-description: "IB Maths AA 3.8 revision notes: partner solutions, changing the interval, quadratics in sin, cos or tan, GDC solving and exam traps, with a 12-question self-test."
+description: "IB Maths AA 3.8 revision notes: partner solutions, changing the interval, quadratics in sin, cos or tan, GDC solving and exam traps, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -141,14 +141,13 @@ photosynthesise less, and fewer can grow or survive [1]
 **(d)** Any one: temperature; moisture level; wind intensity; soil pH or mineral content [1]
 *Examiner insight:* In (c), the answer must link light to photosynthesis; "plants need light" alone is not enough.
 
-**9.** Any three features, each with the feature identified and explained, 2 marks each [6]:
-- white fur in winter matches the snow, so it is camouflaged [1]; it is less likely to be seen and eaten by
-  predators [1]
-- brown fur in summer matches the ground and plants [1]; so it is camouflaged when there is no snow [1]
-- thick fur traps air, which insulates [1]; reducing heat loss in the cold [1]
-- large furry hind feet spread its weight [1]; so it does not sink into snow and can escape predators (fur also
-  insulates the feet) [1]
-- sheltering in snow hollows is a behavioural adaptation [1]; that reduces heat loss from wind [1]
+**9.** Any three features, each identified and explained, 2 marks each [6]:
+- white fur in winter matches the snow, so it is camouflaged and less likely to be seen and eaten by predators
+- brown fur in summer matches the ground and plants, so it is camouflaged when there is no snow
+- thick fur traps air, which insulates and reduces heat loss in the cold
+- large furry hind feet spread its weight so it does not sink into snow and can escape predators
+- sheltering in snow hollows is a behavioural adaptation that reduces heat loss in the wind
+(For each feature: 1 mark for what it does, 1 mark for how that helps survival.)
 
 **10.** Any four of the following, 1 mark each [4]: insects that feed only on ash leaves lose their food, so
 their populations decrease; animals that eat those insects, such as birds, have less food and may decrease; dead

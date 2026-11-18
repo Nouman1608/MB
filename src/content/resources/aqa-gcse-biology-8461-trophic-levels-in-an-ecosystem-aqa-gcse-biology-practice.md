@@ -116,8 +116,8 @@ the body, such as urea in urine or carbon dioxide from respiration [1]
 **6.** The trophic level depends on what the fox eats in that food chain [1]; if it eats fruit (a producer) it is
 a primary consumer at level 2, but if it eats a herbivore such as a rabbit it is at level 3 [1]
 
-**7. (a)** Level 1: 1500 ÷ 15 = **100 mm** [1]; level 2: 135 ÷ 15 = **9 mm** [1]; level 3: 12 ÷ 15 =
-**0.8 mm** [1]
+**7. (a)** Level 1: 1500 ÷ 15 = **100 mm** [1]; level 2: 135 ÷ 15 = **9 mm** [1];
+level 3: 12 ÷ 15 = **0.8 mm** [1]
 **(b)** A pyramid: each bar is much narrower than the one below, with level 1 widest at the bottom [1]
 *Examiner insight:* A 0.8 mm bar is correct; widening it to be "visible" makes the pyramid inaccurate.
 

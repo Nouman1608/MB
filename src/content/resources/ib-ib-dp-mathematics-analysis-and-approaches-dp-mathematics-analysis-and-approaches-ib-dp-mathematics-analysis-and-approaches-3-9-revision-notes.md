@@ -86,6 +86,9 @@ Each graph is the reflection of the restricted sin, cos or tan graph in y = x.
 - arcsin(sin(2π/3)) = π/3.
 - y = arctan(x) + π/2 has range 0 < y < π.
 - sec x = 2 for 0 ≤ x ≤ 2π: cos x = 1/2, so x = π/3, 5π/3.
+- cot x = −1 for 0 ≤ x ≤ π: tan x = −1, so x = 3π/4. (cot x = 0 would need cos x = 0, at x = π/2.)
+- 2 arcsin x = π/3: arcsin x = π/6, so x = 1/2; always check the value lies in [−1, 1].
+- Sketching y = arccos x: plot (−1, π), (0, π/2) and (1, 0); the curve is steepest at the endpoints.
 
 ## Exam traps
 

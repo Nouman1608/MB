@@ -164,6 +164,23 @@ wrong titles. A list of records keeps each book's fields together, so sorting mo
 library.sort(key=lambda bk: bk.price)
 ```
 
+## Passing and returning whole records
+
+Because a record is one entity, a subroutine can take or give back all its fields at once. This keeps
+parameter lists short and makes the subroutine's job clear.
+
+```python
+def apply_discount(book, percent):
+    book.price = round(book.price * (1 - percent / 100), 2)
+
+def make_book(isbn, title):
+    return Book(isbn, title, 0.0, False)
+```
+
+`apply_discount(library[0], 10)` changes the price inside the record stored in the list, because the
+function receives a reference to that record, not a copy. `make_book` returns a complete new record with
+safe defaults for the fields it was not given.
+
 ## Worked example: copying versus referencing
 
 *Trace this Python code, which uses the data class above.*

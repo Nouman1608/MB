@@ -103,8 +103,8 @@ Both gradients are positive, which matches a positive r.
   equations rearrange into each other exactly, you have not swapped.
 - **Trap: the meaning of c.** In x = cy + d, c is the estimated change in x for each increase of 1
   in y. Interpret it in that direction, with units of x per unit of y.
-- **Trap: rounding.** A coefficient rounded to 3 s.f. and then multiplied by a large y value can
-  change the third figure of the answer. Use stored values.
+- **Trap: rounding.** Rounded coefficients can change the third figure of an answer. Use stored
+  values.
 - **Trap: reliability comments.** "r is high" alone is incomplete if the y value is outside the data
   range. Mention both strength and range.
 

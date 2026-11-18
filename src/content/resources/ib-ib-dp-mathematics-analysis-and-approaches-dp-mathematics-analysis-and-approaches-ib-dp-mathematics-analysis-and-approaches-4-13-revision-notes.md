@@ -87,6 +87,9 @@ P(correct) = 0.7
 P(knew | correct) = 0.6/0.7 = 6/7
 ```
 
+The prior was 0.6; a correct answer raises it to 6/7 because a correct answer is four times as likely
+when she knows it (1) as when she guesses (0.25).
+
 ## Exam traps
 
 - **Trap: the reversed conditional.** "A test is positive for 95% of people with the condition" is

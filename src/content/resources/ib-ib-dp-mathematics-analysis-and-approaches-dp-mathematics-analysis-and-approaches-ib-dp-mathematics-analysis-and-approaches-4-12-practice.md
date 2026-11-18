@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-statistics-and-probability"
     subtopic: "ib-dp-mathematics-analysis-and-approaches-4-12"
-description: "Twelve original IB DP Maths AA questions on section 4.12: z-values, comparisons and inverse normal problems with unknown mean or standard deviation, with answers."
+description: "Twelve original IB DP Maths AA questions on section 4.12: z-values, comparisons and inverse normal problems with an unknown mean or standard deviation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
