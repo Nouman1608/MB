@@ -105,6 +105,12 @@ D: reactivity
 
 **13.** A student says: "Elements in the same period have similar properties because they have the same number of shells." Explain what is wrong with this statement. **[2]**
 
+**14.** Element 9 is fluorine and element 17 is chlorine.
+
+**(a)** Give the electronic structure of each element. **[2]**
+
+**(b)** Explain why fluorine and chlorine are placed in the same group. **[2]**
+
 ## Answers
 
 **1.** B [1]. **[1]**
@@ -162,6 +168,12 @@ D: reactivity
 **[5]**
 
 **13.** Elements with similar properties are in the same **group**, not the same period [1]; the properties depend on the number of **outer electrons**, which is the same within a group, not on the number of shells [1]. **[2]**
+
+**14. (a)** Fluorine 2,7 [1]; chlorine 2,8,7 [1]
+
+**(b)** Both have seven electrons in their outer energy level [1], so they have similar chemical properties, and elements with similar properties are placed in the same group (Group 7) [1].
+
+**[4]**
 
 ## Where marks are usually lost
 

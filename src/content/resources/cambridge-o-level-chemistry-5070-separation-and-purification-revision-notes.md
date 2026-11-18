@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "experimental-techniques-and-chemical-analysis"
     subtopic: "separation-and-purification"
-description: "Revision notes for Cambridge O Level Chemistry 5070 section 12.4: five separation methods, choosing a method, purity from melting and boiling points, and a self-test."
+description: "Revision notes for Cambridge O Level Chemistry 5070 section 12.4: five separation methods, choosing a method, purity from melting points, and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

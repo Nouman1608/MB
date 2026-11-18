@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "experimental-techniques-and-chemical-analysis"
     subtopic: "acid-base-titrations"
-description: "Study guide to Cambridge O Level Chemistry 5070 section 12.2: carrying out an acid–base titration with burette, pipette and indicator, and finding the end-point."
+description: "Study guide to Cambridge O Level Chemistry 5070 section 12.2: doing an acid–base titration with burette, pipette and indicator, and finding the end-point."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

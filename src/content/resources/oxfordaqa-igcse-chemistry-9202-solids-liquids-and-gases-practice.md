@@ -123,7 +123,7 @@ D: melting
 
 **6.** It stays constant (at 0 °C) until all the ice has melted [1]. **[1]**
 
-**7. (a)** Chlorine and methane: gas; mercury: liquid; sulfur: solid. All four correct [2]; two or three correct [1].
+**7. (a)** Chlorine and methane: gas; mercury: liquid; sulfur: solid [2] (all four correct for two marks; two or three correct for one mark).
 
 **(b)** Mercury (liquid from −39 °C to 357 °C, a range of 396 °C) [1].
 

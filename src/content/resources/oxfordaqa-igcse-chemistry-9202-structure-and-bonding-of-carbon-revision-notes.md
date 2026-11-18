@@ -88,6 +88,14 @@ melting breaks strong covalent bonds in a giant structure → much energy needed
 | Silicon dioxide | yes | no | 3D network; no free electrons |
 | Graphite | no | yes | layers slide; delocalised electrons |
 
+## Uses linked to properties
+
+| Use | Property needed | Structural reason |
+|---|---|---|
+| Diamond drill tips | very hard | 4 strong bonds per atom in a 3D lattice |
+| Graphite in pencils | soft; layers rub off | weak forces between layers |
+| Graphite electrodes | conducts; high melting point | delocalised electrons; strong bonds in layers |
+
 ## Key terms
 
 | Term | Meaning |
