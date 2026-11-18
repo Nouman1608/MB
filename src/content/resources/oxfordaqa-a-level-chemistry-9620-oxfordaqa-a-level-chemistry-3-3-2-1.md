@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-alkanes"
     subtopic: "oxfordaqa-a-level-chemistry-3-3-2-1"
-description: "OxfordAQA 9620 subtopic 3.3.2.1 in depth: alkanes as saturated hydrocarbons, petroleum as a mixture, and how boiling points let fractional distillation separate it."
+description: "OxfordAQA 9620 subtopic 3.3.2.1 in depth: alkanes as saturated hydrocarbons, petroleum as a mixture, and how fractional distillation separates it."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-alkanes"
     subtopic: "oxfordaqa-a-level-chemistry-3-3-2-3"
-description: "Original practice questions on OxfordAQA 9620 subtopic 3.3.2.3: combustion equations, gas volumes and masses, catalytic converters and removing SO₂, with answers."
+description: "Original practice questions on OxfordAQA 9620 subtopic 3.3.2.3: combustion equations, gas volumes, catalytic converters and removing SO₂, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

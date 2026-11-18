@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-alkanes"
     subtopic: "oxfordaqa-a-level-chemistry-3-3-2-2"
-description: "Original practice questions on OxfordAQA 9620 subtopic 3.3.2.2: cracking conditions, products, balanced equations, masses and the economic case, with full answers."
+description: "Original practice questions on OxfordAQA 9620 subtopic 3.3.2.2: cracking conditions, products, equations, masses and the economic case, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

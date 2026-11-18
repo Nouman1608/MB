@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-alkanes"
     subtopic: "oxfordaqa-a-level-chemistry-3-3-2-1"
-description: "Condensed notes on OxfordAQA 9620 subtopic 3.3.2.1: saturated hydrocarbons, petroleum fractions, boiling point and van der Waals forces, column steps and a self-test."
+description: "Condensed notes on OxfordAQA 9620 subtopic 3.3.2.1: saturated hydrocarbons, fractions, boiling points and van der Waals forces, plus a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

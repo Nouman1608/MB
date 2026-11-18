@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-transition-metals"
     subtopic: "oxfordaqa-a-level-chemistry-3-2-5-5"
-description: "Original practice questions on OxfordAQA 9620 subtopic 3.2.5.5: vanadium and E⦵ values, pH and ligand effects, Tollens' reagent and redox titrations, with answers."
+description: "Original practice questions on OxfordAQA 9620 subtopic 3.2.5.5: vanadium and E⦵ values, pH and ligand effects, Tollens' reagent and redox titrations."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry"
     subtopic: "oxfordaqa-a-level-chemistry-3-3-1-2"
-description: "OxfordAQA 9620 subtopic 3.3.1.2 in depth: radical steps written with dots, curly-arrow rules, bond fission, and how to outline an ionic mechanism for full marks."
+description: "OxfordAQA 9620 subtopic 3.3.1.2 in depth: radical steps written with dots, curly-arrow rules, bond fission, and how to outline an ionic mechanism fully."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

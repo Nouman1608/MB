@@ -50,7 +50,7 @@ Factors come in pairs that multiply to the number. Start at 1 and work upwards u
 next would be 12 × 8, a repeat, so stop
 ```
 
-The factors are **1, 2, 3, 4, 6, 8, 12, 16, 24, 32, 48, 96**: twelve of them. Pairing guarantees none is missed.
+The factors are **1, 2, 3, 4, 6, 8, 12, 16, 24, 32, 48, 96**: twelve of them.
 
 A square number has an odd number of factors, because one pair is a number times itself. The factors of 36 are 1, 2, 3, 4, 6, 9, 12, 18, 36: nine factors, with 6 × 6 counted once.
 
@@ -157,7 +157,7 @@ HCF: lowest power of each shared prime   = 2² × 3          = 12
 LCM: highest power of every prime        = 2⁴ × 3³ × 5 × 7 = 15 120
 ```
 
-Leaving the LCM as 2⁴ × 3³ × 5 × 7 is acceptable when the question asks for the answer "as a product of prime factors".
+Leave the LCM as 2⁴ × 3³ × 5 × 7 if the question asks for a product of primes.
 
 ## Problems: choosing HCF or LCM
 
@@ -201,8 +201,6 @@ Given 47 × 23 = 1 081:
 470 × 2 300 = 1 081 000    (×10 and ×100, so ×1 000 overall)
 10 810 ÷ 23 = 470
 ```
-
-Each factor of 10 moves every digit one column to the left.
 
 ## Common mistakes
 

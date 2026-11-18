@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-and-materials-oxfordaqa-alevel"
     subtopic: "work-energy-and-power-oxfordaqa"
-description: "Twelve original OxfordAQA 9630 questions on 3.2.7: work at an angle, force–displacement areas, P = Fv and top speed, escalators and pump efficiency, with answers."
+description: "Twelve original OxfordAQA 9630 questions on 3.2.7: work at an angle, force–displacement areas, P = Fv and top speed, escalators and pump efficiency, answered."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

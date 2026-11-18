@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-alkanes"
     subtopic: "oxfordaqa-a-level-chemistry-3-3-2-4"
-description: "OxfordAQA 9620 subtopic 3.3.2.4 in depth: methane and chlorine by free-radical substitution, initiation, propagation and termination, product mixtures and yields."
+description: "OxfordAQA 9620 subtopic 3.3.2.4 in depth: methane and chlorine by free-radical substitution, the three types of step, product mixtures and yields."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
