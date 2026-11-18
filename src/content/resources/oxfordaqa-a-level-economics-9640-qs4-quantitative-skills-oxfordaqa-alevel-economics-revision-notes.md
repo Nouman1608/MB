@@ -51,6 +51,14 @@ gradient = change in vertical variable / change in horizontal variable
 
 Choose two points far apart on a straight line. Keep the units: a consumption function rising 80 cu billion for each 100 cu billion of income has gradient 0.8, the MPC.
 
+## Quick worked checks
+
+**Opportunity cost from a table.** Moving from 20 to 30 thousand units of food cuts machines from 42 to 30 thousand: 12/10 = 1.2 machines per unit of food. A larger figure than for earlier moves means the boundary is getting steeper.
+
+**Lorenz points.** Shares of 5%, 10%, 15%, 25% and 45% plot as (20, 5), (40, 15), (60, 30), (80, 55) and (100, 100), starting from (0, 0).
+
+**Where a line meets C = Y.** For C = 40 + 0.8Y, consumption equals income where Y = 40 + 0.8Y, so Y = 200.
+
 ## Shapes and what they mean
 
 | Shape | Meaning |
