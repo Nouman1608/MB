@@ -28,7 +28,7 @@ featured: false
 
 This practice set covers syllabus section 1.1 of IB Diploma Programme Mathematics: Applications and Interpretation (first assessment 2021), operations with numbers in the form a × 10ᵏ, where 1 ≤ a < 10 and k ∈ ℤ. It is common content for SL and HL. Every paper in this course allows a GDC, so every question is labelled "(calculator allowed)". Unless told otherwise, give answers exactly or correct to 3 significant figures, and write "in the form a × 10ᵏ" answers with 1 ≤ a < 10 and k ∈ ℤ. Contextual figures marked as invented are for practice only.
 
-Learn the methods first in the [study guide for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation-/) and the [revision notes for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation--revision-notes/).
+Learn the methods first in the [study guide for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation-1-1/) and the [revision notes for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation-1-1-revision-notes/).
 
 ## Section A
 
@@ -171,7 +171,7 @@ Learn the methods first in the [study guide for section 1.1](/resources/ib-ib-dp
 
 ## Next steps
 
-- Revisit any rule you missed in the [revision notes for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation--revision-notes/).
+- Revisit any rule you missed in the [revision notes for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation-1-1-revision-notes/).
 - Extend to sequences, approximation and finance with the [number and financial mathematics practice questions](/resources/ib-dp-mathematics-ai-number-approximation-financial-practice/).
 
 ## Frequently asked questions

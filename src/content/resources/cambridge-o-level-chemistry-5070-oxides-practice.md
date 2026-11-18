@@ -82,6 +82,12 @@ Classify each oxide as acidic, basic or amphoteric. **[4]**
 
 **13.** Element X is a metal in Group II. Predict the type of oxide it forms, and construct a general equation for its oxide, XO, reacting with hydrochloric acid. **[3]**
 
+**14.** Sulfur dioxide from burning fuels dissolves in rainwater.
+
+**(a)** State the effect of dissolved sulfur dioxide on the pH of rainwater.
+
+**(b)** Use the type of oxide to explain your answer. **[2]**
+
 ---
 
 ## Answers

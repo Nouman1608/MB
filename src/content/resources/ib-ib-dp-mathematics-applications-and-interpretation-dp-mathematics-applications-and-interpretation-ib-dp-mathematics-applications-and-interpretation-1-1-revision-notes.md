@@ -20,7 +20,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-Condensed recall for syllabus section 1.1 of IB DP Mathematics: Applications and Interpretation (first assessment 2021), common to SL and HL. For full explanations and contextual worked examples, use the [study guide for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation-/); to test yourself, use the [practice questions for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation--practice/).
+Condensed recall for syllabus section 1.1 of IB DP Mathematics: Applications and Interpretation (first assessment 2021), common to SL and HL. For full explanations and contextual worked examples, use the [study guide for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation-1-1/); to test yourself, use the [practice questions for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation-1-1-practice/).
 
 ## Definitions
 
@@ -142,8 +142,8 @@ Order: 9.9 × 10^-4, 1.1 × 10^-3, 4.2 × 10^-3
 
 ## Links
 
-- [Study guide for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation-/)
-- [Practice questions for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation--practice/)
+- [Study guide for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation-1-1/)
+- [Practice questions for section 1.1](/resources/ib-ib-dp-mathematics-applications-and-interpretation-dp-mathematics-applications-and-interpretation-ib-dp-mathematics-applications-and-interpretation-1-1-practice/)
 - [Number, sequences and financial mathematics revision notes](/resources/ib-dp-mathematics-ai-number-approximation-financial-revision-notes/)
 
 ## Frequently asked questions

@@ -89,6 +89,8 @@ Outcome 12 adds **universal indicator paper**, which gives a range of colours ma
 
 A single indicator such as litmus only tells you acid or alkali; universal indicator lets you **compare** solutions, which is what outcome 12 asks for.
 
+To compare solutions in practice, dip a clean glass rod into each solution in turn, touch it onto a fresh piece of universal indicator paper, and match the colour against the pH colour chart straight away. Rinse the rod with distilled water between solutions so that one does not contaminate the next. A solution of pH 2 has a higher H⁺ concentration than one of pH 4, so it is more acidic; a solution of pH 13 is more alkaline than one of pH 9.
+
 ## Strong and weak acids
 
 Outcome 9 defines a **strong acid** as one that is **completely dissociated** in aqueous solution, and a **weak acid** as one that is **partially dissociated**.
