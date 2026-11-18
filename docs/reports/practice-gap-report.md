@@ -1,6 +1,6 @@
 # Practice-question gap report
 
-Generated 2026-11-08T14:12:36.975Z. Section 13 scope: practice-question coverage gaps for the
+Generated 2026-11-18T15:07:31.192Z. Section 13 scope: practice-question coverage gaps for the
 five flagship specifications only -- see src/utils/practice/gap-report.ts for the full
 rationale and docs/decision-log.md D-108 for what this deliberately does not attempt.
 
@@ -8,13 +8,13 @@ rationale and docs/decision-log.md D-108 for what this deliberately does not att
 
 ## Cambridge IGCSE Chemistry (0620, 2026-2028)
 
-203 questions · 49/49 subtopics covered (100%)
+854 questions · 49/49 subtopics covered (100%)
 
 No zero-question subtopics.
 
 ## Cambridge IGCSE Physics (0625, For examination in 2026, 2027 and 2028)
 
-108 questions · 24/24 subtopics covered (100%)
+408 questions · 24/24 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -27,7 +27,7 @@ subtopic -- excluded from both the gap list and the coverage count above.
 
 ## Cambridge IGCSE Mathematics (0580, 2025-2027)
 
-179 questions · 72/72 subtopics covered (100%)
+1080 questions · 72/72 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -42,19 +42,19 @@ subtopic -- excluded from both the gap list and the coverage count above.
 
 ## Cambridge A Level Chemistry (9701, 2025-2027)
 
-392 questions · 90/90 subtopics covered (100%)
+1369 questions · 90/90 subtopics covered (100%)
 
 No zero-question subtopics.
 
 ## Cambridge A Level Physics (9702, 2025-2027)
 
-245 questions · 76/76 subtopics covered (100%)
+1150 questions · 76/76 subtopics covered (100%)
 
 No zero-question subtopics.
 
 ## Pearson Edexcel IGCSE Chemistry (4CH1, Issue 3, September 2024)
 
-123 questions · 17/17 subtopics covered (100%)
+280 questions · 17/17 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -82,13 +82,13 @@ measure a subtopic-level gap against yet.
 
 ## Pearson Edexcel IGCSE Physics (4PH1, Issue 4)
 
-81 questions · 30/30 subtopics covered (100%)
+456 questions · 30/30 subtopics covered (100%)
 
 No zero-question subtopics.
 
 ## Cambridge A Level Economics (9708, For examination in 2026, 2027 and 2028)
 
-619 questions · 53/53 subtopics covered (100%)
+921 questions · 53/53 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -108,7 +108,7 @@ subtopic -- excluded from both the gap list and the coverage count above.
 
 ## Cambridge A Level Business (9609, For examination in 2026, 2027 and 2028)
 
-322 questions · 34/34 subtopics covered (100%)
+565 questions · 34/34 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -128,7 +128,7 @@ subtopic -- excluded from both the gap list and the coverage count above.
 
 ## Cambridge A Level Computer Science (9618, 2026)
 
-233 questions · 44/44 subtopics covered (100%)
+675 questions · 44/44 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -160,13 +160,13 @@ subtopic -- excluded from both the gap list and the coverage count above.
 
 ## Cambridge O Level Chemistry (5070, 2026-2028)
 
-203 questions · 49/49 subtopics covered (100%)
+848 questions · 49/49 subtopics covered (100%)
 
 No zero-question subtopics.
 
 ## Cambridge A Level Mathematics (9709, 2026-2027)
 
-232 questions · 38/38 subtopics covered (100%)
+512 questions · 38/38 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -200,7 +200,7 @@ subtopic -- excluded from both the gap list and the coverage count above.
 
 ## Cambridge O Level Mathematics (4024, 2025-2027)
 
-210 questions · 23/23 subtopics covered (100%)
+437 questions · 23/23 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -230,7 +230,7 @@ measure a subtopic-level gap against yet.
 
 ## Cambridge IGCSE Biology (0610, For examination in 2026, 2027 and 2028)
 
-230 questions · 61/61 subtopics covered (100%)
+875 questions · 61/61 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -255,7 +255,7 @@ subtopic -- excluded from both the gap list and the coverage count above.
 
 ## Cambridge A Level Biology (9700, For examination in 2025, 2026 and 2027)
 
-349 questions · 44/44 subtopics covered (100%)
+777 questions · 44/44 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -302,13 +302,13 @@ subtopic -- excluded from both the gap list and the coverage count above.
 
 ## Cambridge O Level Physics (5054, 2026-2028)
 
-145 questions · 25/25 subtopics covered (100%)
+392 questions · 25/25 subtopics covered (100%)
 
 No zero-question subtopics.
 
 ## Cambridge O Level Economics (2281, 2026)
 
-380 questions · 39/39 subtopics covered (100%)
+584 questions · 39/39 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -325,7 +325,7 @@ subtopic -- excluded from both the gap list and the coverage count above.
 
 ## Cambridge O Level Business (7115, 2026)
 
-241 questions · 25/25 subtopics covered (100%)
+409 questions · 25/25 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -342,7 +342,7 @@ subtopic -- excluded from both the gap list and the coverage count above.
 
 ## Cambridge O Level Computer Science (2210, 2026-2028)
 
-80 questions · 7/7 subtopics covered (100%)
+161 questions · 7/7 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -378,7 +378,7 @@ measure a subtopic-level gap against yet.
 
 ## Pearson Edexcel IGCSE Mathematics (4MA1, Specification Issue 2, November 2017)
 
-202 questions · 36/36 subtopics covered (100%)
+596 questions · 36/36 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -408,7 +408,7 @@ subtopic -- excluded from both the gap list and the coverage count above.
 
 ## AQA GCSE Biology (8461, For first teaching 2016)
 
-159 questions · 31/31 subtopics covered (100%)
+480 questions · 31/31 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -440,7 +440,7 @@ measure a subtopic-level gap against yet.
 
 ## AQA GCSE Chemistry (8462, For teaching from September 2016)
 
-180 questions · 8/8 subtopics covered (100%)
+228 questions · 8/8 subtopics covered (100%)
 
 No zero-question subtopics.
 
@@ -482,7 +482,7 @@ measure a subtopic-level gap against yet.
 
 ## AQA GCSE Physics (8463, For first teaching 2016)
 
-108 questions · 30/30 subtopics covered (100%)
+447 questions · 30/30 subtopics covered (100%)
 
 No zero-question subtopics.
 
