@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "magnetic-fields-oxfordaqa-alevel"
     subtopic: "magnetic-flux-density-oxfordaqa-alevel-physics"
-description: "Original practice questions with mark-scheme answers on F = BIL, Fleming's left-hand rule, the tesla, coils and graph methods for OxfordAQA A-level Physics 9630."
+description: "Original practice questions with mark-scheme answers on F = BIL, Fleming's left-hand rule, the tesla, coils and graph methods for OxfordAQA Physics 9630."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "magnetic-fields-oxfordaqa-alevel"
     subtopic: "the-operation-of-a-transformer-oxfordaqa-alevel-physics"
-description: "Revision notes for OxfordAQA 9630 section 3.10.6: how a transformer works, turns ratio, efficiency, losses, line losses and Required practical 7, with a self-test."
+description: "Revision notes for OxfordAQA 9630 section 3.10.6: transformer action, turns ratio, efficiency, losses, line losses and Required practical 7, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -72,6 +72,14 @@ Coil heating grows with load current squared. Eddy currents and hysteresis arise
 - Power lost I²R falls by n²; p.d. lost IR falls by n.
 - Step-up at the power station, step-down near the user. Transformers need ac.
 - Overall efficiency of a chain = product of the separate efficiencies.
+
+## Method box: line-loss calculation
+
+1. Line current: I = P/V, using the power sent and the transmission voltage.
+2. Power lost: I²R, with R the total resistance of both cables.
+3. Percentage lost: I²R ÷ P × 100.
+4. P.d. lost: IR; the voltage reaching the user is V − IR.
+5. Never put the transmission voltage into V²/R with the line resistance: that p.d. is not across the line.
 
 ## Required practical 7
 

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "magnetic-fields-oxfordaqa-alevel"
     subtopic: "the-operation-of-a-transformer-oxfordaqa-alevel-physics"
-description: "Original practice questions with mark-scheme answers on transformer action, turns ratio, efficiency, losses, line losses and Required practical 7 for OxfordAQA 9630."
+description: "Original practice questions with mark-scheme answers on transformer action, turns ratio, efficiency, losses, line losses and Required practical 7 for 9630."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "thermal-physics-oxfordaqa-alevel"
     subtopic: "energy-transfer-by-heating-and-doing-work-oxfordaqa-alevel-physics"
-description: "Revision notes for OxfordAQA 9630 section 3.11.1: internal energy, ΔU = Q + W, change of state, mcΔθ, ml, flow systems and Required practical 8, with a self-test."
+description: "Revision notes for OxfordAQA 9630 section 3.11.1: internal energy, ΔU = Q + W, change of state, mcΔθ, ml, flow and Required practical 8, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
