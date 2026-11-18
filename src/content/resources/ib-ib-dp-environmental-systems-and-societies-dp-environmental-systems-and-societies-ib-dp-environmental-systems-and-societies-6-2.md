@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-atmosphere-and-climate-change"
     subtopic: "ib-dp-environmental-systems-and-societies-6-2"
-description: "IB ESS 6.2 study guide: natural and human forcings, attribution evidence, carbon sinks, gas lifetimes, emissions per person, tipping elements, ocean acidification and impacts."
+description: "IB ESS 6.2 study guide: natural and human forcings, attribution evidence, carbon sinks, gas lifetimes, per-person emissions, tipping elements and impacts."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

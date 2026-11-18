@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "hardware-0478"
     subtopic: "input-and-output-devices-0478"
-description: "Revision notes for Cambridge IGCSE Computer Science 0478 section 3.2: how each named input and output device works, the fourteen sensors, exam traps and a self-test."
+description: "Revision notes for Cambridge IGCSE Computer Science 0478 section 3.2: how the named input and output devices work, the fourteen sensors and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

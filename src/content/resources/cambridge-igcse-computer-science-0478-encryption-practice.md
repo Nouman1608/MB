@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "data-transmission"
     subtopic: "encryption-0478"
-description: "Original practice questions with mark-scheme answers on Cambridge IGCSE Computer Science 0478 section 2.3: the purpose of encryption, symmetric and asymmetric keys."
+description: "Original questions with answers on Cambridge IGCSE Computer Science 0478 section 2.3: the purpose of encryption, and symmetric and asymmetric keys."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

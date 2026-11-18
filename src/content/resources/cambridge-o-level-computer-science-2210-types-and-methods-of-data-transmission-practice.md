@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "data-transmission-2210"
     subtopic: "types-and-methods-of-data-transmission"
-description: "Original practice questions with mark-scheme answers on Cambridge O Level Computer Science 2210 section 2.1: packets, packet switching, transmission methods and USB."
+description: "Original questions with answers on Cambridge O Level Computer Science 2210 section 2.1: packets, packet switching, transmission methods and USB."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

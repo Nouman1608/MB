@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-water"
     subtopic: "ib-dp-environmental-systems-and-societies-4-1"
-description: "IB ESS 4.1 study guide: water budgets, storm hydrographs, ocean gyres and thermohaline circulation, upwelling, lake stratification and turnover, with worked examples."
+description: "IB ESS 4.1 study guide: water budgets, storm hydrographs, gyres and thermohaline circulation, upwelling, El Niño and lake stratification."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

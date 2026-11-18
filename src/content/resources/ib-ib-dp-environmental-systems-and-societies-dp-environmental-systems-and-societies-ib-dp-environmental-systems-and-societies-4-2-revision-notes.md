@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-water"
     subtopic: "ib-dp-environmental-systems-and-societies-4-2"
-description: "IB ESS 4.2 revision notes: withdrawal versus consumption, stress ratio, water footprints, virtual water, the right to water, Nile and Aral Sea cases and a self-test."
+description: "IB ESS 4.2 revision notes: withdrawal and consumption, stress ratio, water footprints, virtual water, the right to water, Nile and Aral Sea cases."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
@@ -94,6 +94,14 @@ Short reminder: withdrawals of 18 km³ from 45 km³ of renewable supply give 18 
 - Virtual water imports are not cost-free: mention food security and exporting regions.
 - The Aral Sea shrank because of irrigation diversions, not natural climate change.
 - One-size-fits-all strategies: desalination needs energy and money; rainwater harvesting needs rain.
+
+## Links to other topics
+
+- **Topic 1 (sustainability)**: an aquifer pumped faster than it recharges is natural capital being used beyond its natural income.
+- **4.1 (water systems)**: long residence times in deep aquifers mean over-abstraction is effectively non-renewable.
+- **4.4 (pollution)**: the grey water footprint connects quantity to quality; polluted water reduces usable supply.
+- **5.2 (agriculture)**: irrigation efficiency and diet choices are the largest levers on national water demand.
+- **HL lenses**: transboundary agreements (law), pricing and tariffs (economics), water as a right (ethics).
 
 ## Self-test
 

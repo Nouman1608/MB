@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "hardware-2210"
     subtopic: "computer-architecture-2210"
-description: "Original questions with mark-scheme answers on Cambridge O Level Computer Science 2210 section 3.1: CPU components, the FDE cycle, cores, cache, clock and embedded systems."
+description: "Original questions with answers on Cambridge O Level Computer Science 2210 section 3.1: the CPU, the FDE cycle, cores, cache, clock and embedded systems."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

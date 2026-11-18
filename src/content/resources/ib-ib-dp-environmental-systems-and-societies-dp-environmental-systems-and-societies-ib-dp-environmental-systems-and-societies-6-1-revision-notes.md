@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-atmosphere-and-climate-change"
     subtopic: "ib-dp-environmental-systems-and-societies-6-1"
-description: "IB ESS 6.1 revision notes: evolution of the atmosphere, variable gases and aerosols, layers and their temperature trends, lapse rate, pressure, albedo and a self-test."
+description: "IB ESS 6.1 revision notes: evolution of the atmosphere, aerosols, layers and temperature trends, lapse rate, pressure, albedo and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

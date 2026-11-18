@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "data-transmission-2210"
     subtopic: "encryption"
-description: "Original questions with mark-scheme answers on Cambridge O Level Computer Science 2210 section 2.3: the need for encryption, symmetric keys, public and private keys."
+description: "Original questions with answers on Cambridge O Level Computer Science 2210 section 2.3: the need for encryption, symmetric keys, public and private keys."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

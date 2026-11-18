@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "hardware-2210"
     subtopic: "computer-architecture-2210"
-description: "Study guide to Cambridge O Level Computer Science 2210 section 3.1: the CPU, Von Neumann components, the fetch-decode-execute cycle, cores, cache, clock and embedded systems."
+description: "Study guide to Cambridge O Level Computer Science 2210 section 3.1: Von Neumann components, the FDE cycle, cores, cache, clock and embedded systems."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

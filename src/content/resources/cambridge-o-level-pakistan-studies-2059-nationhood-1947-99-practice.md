@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-history-culture-2059"
     subtopic: "nationhood-1947-99-2059"
-description: "Original 4, 7 and 14-mark questions with answers on Cambridge O Level Pakistan Studies 2059 Paper 1 Section 3, Pakistan's nationhood and foreign policy, 1947–99."
+description: "Original 4, 7 and 14-mark questions with answers on Cambridge O Level Pakistan Studies 2059 Paper 1 Section 3: Pakistan's nationhood from 1947 to 1999."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

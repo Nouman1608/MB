@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-land"
     subtopic: "ib-dp-environmental-systems-and-societies-5-2"
-description: "IB ESS 5.2 study guide: food systems, nitrogen use efficiency, yield and land use, the Green Revolution, GM crops, pollinators, food sovereignty and sustainable farming."
+description: "IB ESS 5.2 study guide: food systems, nitrogen use efficiency, yield and land, the Green Revolution, GM crops, pollinators and sustainable farming models."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

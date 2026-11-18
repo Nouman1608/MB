@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "hardware-0478"
     subtopic: "data-storage-0478"
-description: "Revision notes for Cambridge IGCSE Computer Science 0478 section 3.3: RAM and ROM, HDD, optical and flash storage, virtual memory, cloud storage and a self-test."
+description: "Revision notes for Cambridge IGCSE Computer Science 0478 section 3.3: RAM and ROM, HDD, optical and flash storage, virtual memory and the cloud."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

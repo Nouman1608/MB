@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-biodiversity-and-conservation"
     subtopic: "ib-dp-environmental-systems-and-societies-3-2"
-description: "IB ESS 3.2 study guide: direct and indirect drivers of biodiversity loss, extinction rates, vulnerability, case studies and how to answer explain and evaluate questions."
+description: "IB ESS 3.2 study guide: direct and indirect drivers of biodiversity loss, extinction rates, vulnerable ecosystems, case studies and exam technique."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

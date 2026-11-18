@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "hardware-2210"
     subtopic: "input-and-output-devices-2210"
-description: "Revision notes for Cambridge O Level Computer Science 2210 section 3.2: named input and output devices, how they work, sensors and their data, traps and a self-test."
+description: "Revision notes for Cambridge O Level Computer Science 2210 section 3.2: how the named input and output devices work, sensors, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

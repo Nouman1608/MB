@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-water"
     subtopic: "ib-dp-environmental-systems-and-societies-4-4"
-description: "IB ESS 4.4 study guide: persistent and degradable pollutants, BOD and nutrient-load calculations, limiting nutrients, dead zones, plastics, mercury and recovery cases."
+description: "IB ESS 4.4 study guide: pollutant behaviour, BOD and nutrient-load calculations, limiting nutrients, dead zones, plastics, mercury and recovery cases."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

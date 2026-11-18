@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "data-transmission-2210"
     subtopic: "encryption"
-description: "Study guide to Cambridge O Level Computer Science 2210 section 2.3: the need for encryption in transmission, and how symmetric and asymmetric encryption keys are used."
+description: "Study guide to Cambridge O Level Computer Science 2210 section 2.3: why data is encrypted in transmission, and how symmetric and asymmetric keys are used."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

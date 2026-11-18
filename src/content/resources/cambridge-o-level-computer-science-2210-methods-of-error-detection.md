@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "data-transmission-2210"
     subtopic: "methods-of-error-detection"
-description: "Study guide to Cambridge O Level Computer Science 2210 section 2.2: parity checks and parity blocks, checksums, echo checks, check digits and ARQ, with worked examples."
+description: "Study guide to Cambridge O Level Computer Science 2210 section 2.2: parity checks and blocks, checksums, echo checks, check digits and ARQ, worked through."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

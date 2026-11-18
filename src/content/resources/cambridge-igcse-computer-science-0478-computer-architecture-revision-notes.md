@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "hardware-0478"
     subtopic: "computer-architecture-0478"
-description: "Revision notes for Cambridge IGCSE Computer Science 0478 section 3.1: CPU registers, buses, the FDE cycle, cores, cache, clock, instruction sets and embedded systems."
+description: "Revision notes for Cambridge IGCSE Computer Science 0478 section 3.1: registers, buses, the FDE cycle, cores, cache, clock and embedded systems."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

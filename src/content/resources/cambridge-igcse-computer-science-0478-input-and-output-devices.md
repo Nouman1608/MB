@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "hardware-0478"
     subtopic: "input-and-output-devices-0478"
-description: "Study guide to Cambridge IGCSE Computer Science 0478 section 3.2: how the named input devices, output devices and sensors work and how to choose one for a context."
+description: "Study guide to Cambridge IGCSE Computer Science 0478 section 3.2: how the named input and output devices and sensors work, and choosing one for a context."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "data-transmission-2210"
     subtopic: "types-and-methods-of-data-transmission"
-description: "Study guide to Cambridge O Level Computer Science 2210 section 2.1: packet structure, packet switching, serial, parallel, simplex, half and full duplex, and USB."
+description: "Study guide to Cambridge O Level Computer Science 2210 section 2.1: packets, packet switching, serial, parallel, simplex and duplex methods, and USB."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "data-transmission-2210"
     subtopic: "encryption"
-description: "Revision notes for Cambridge O Level Computer Science 2210 section 2.3: why data is encrypted, symmetric and asymmetric keys compared, exam traps and a self-test."
+description: "Revision notes for Cambridge O Level Computer Science 2210 section 2.3: why data is encrypted, symmetric and asymmetric keys, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-water"
     subtopic: "ib-dp-environmental-systems-and-societies-4-3"
-description: "IB ESS 4.3 study guide: ocean productivity, the logistic basis of MSY, fishing down food webs, the Grand Banks cod collapse, catch shares and sustainable aquaculture."
+description: "IB ESS 4.3 study guide: ocean productivity, surplus yield and MSY, fishing down food webs, the Grand Banks cod collapse, catch shares and aquaculture."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

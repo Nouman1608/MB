@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-water"
     subtopic: "ib-dp-environmental-systems-and-societies-4-4"
-description: "IB ESS 4.4 revision notes: pollutant behaviour, BOD and load methods, limiting nutrients, dead zones, plastics, Minamata and Lake Erie, key terms and a self-test."
+description: "IB ESS 4.4 revision notes: pollutant behaviour, BOD and load methods, limiting nutrients, dead zones, plastics, Minamata and Lake Erie, and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

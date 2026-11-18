@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-land"
     subtopic: "ib-dp-environmental-systems-and-societies-5-1"
-description: "IB ESS 5.1 revision notes: weathering, profile processes, soil organisms, texture triangle, structure, pH, soil carbon, infiltration and the Dust Bowl, with a self-test."
+description: "IB ESS 5.1 revision notes: weathering, profile processes, soil organisms, texture triangle, structure, pH, soil carbon and infiltration, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
@@ -113,6 +113,14 @@ These notes condense ESS subtopic 5.1, Soil. Explanations and worked examples ar
 - Dust Bowl: drought was the trigger; ploughing the grassland was the cause.
 - Infiltration rates need units and a fair-test statement.
 - Ploughing releases soil carbon; do not treat soil only as a growing medium in climate answers.
+
+## Links to other topics
+
+- **Topic 2 (ecology)**: decomposition, nitrogen fixation and nutrient cycling all happen largely in soil.
+- **4.4 (pollution)**: leached nitrate and eroded, phosphate-bearing soil are major non-point pollutants of rivers and lakes.
+- **5.2 (agriculture)**: farming practices control compaction, organic matter and erosion rates.
+- **6.3 (mitigation)**: no-till, cover crops and peat restoration store carbon in soil.
+- **Systems language**: weathering and humification are transformations; leaching, eluviation and illuviation are transfers.
 
 ## Self-test
 

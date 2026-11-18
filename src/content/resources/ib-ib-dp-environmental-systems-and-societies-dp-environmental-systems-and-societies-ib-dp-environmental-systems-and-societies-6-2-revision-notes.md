@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-atmosphere-and-climate-change"
     subtopic: "ib-dp-environmental-systems-and-societies-6-2"
-description: "IB ESS 6.2 revision notes: forcings, evidence for human causes, sinks, gas lifetimes, per-person emissions, tipping elements, acidification, impacts and a self-test."
+description: "IB ESS 6.2 revision notes: forcings, evidence of human cause, sinks, gas lifetimes, per-person emissions, tipping elements and acidification, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

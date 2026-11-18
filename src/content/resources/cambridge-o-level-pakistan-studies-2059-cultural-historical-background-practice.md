@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-history-culture-2059"
     subtopic: "cultural-historical-background-2059"
-description: "Original 4, 7 and 14-mark questions with answers on Cambridge O Level Pakistan Studies 2059 Paper 1 Section 1, from Shah Waliullah to Urdu and regional languages."
+description: "Original 4, 7 and 14-mark questions with answers on Cambridge O Level Pakistan Studies 2059 Paper 1 Section 1, from Shah Waliullah to the Urdu language."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

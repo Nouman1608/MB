@@ -77,10 +77,12 @@ soil fails the second test; protecting the soil while people go hungry fails the
 
 ### Supplying water
 
-- **Improved methods of irrigation.** **Trickle/drip irrigation** delivers water through pipes with small
-  holes directly to each plant's roots, so little is lost to evaporation or run-off. **Rainwater
-  harvesting** collects and stores rain, for example from roofs or in ponds, for use in dry periods.
-  **Automated watering systems** use timers or soil moisture sensors to water only when needed.
+- **Improved methods of irrigation.** In **trickle/drip irrigation**, narrow perforated tubes laid along
+  the rows release water slowly at the base of each plant, so the soil surface stays mostly dry and far
+  less water evaporates or runs off than when a field is flooded. **Rainwater harvesting** captures rain
+  from roofs, slopes or small dams and stores it in tanks or ponds until the dry season. **Automated
+  watering systems** switch water on by timer, or when a sensor shows the soil is dry, so crops are not
+  over- or under-watered.
 
 ### Protecting the crop
 
