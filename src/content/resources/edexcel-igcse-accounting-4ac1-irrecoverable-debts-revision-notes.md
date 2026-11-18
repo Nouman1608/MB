@@ -88,6 +88,16 @@ Less provision for irrecoverable debts      (880)
                                           21,120
 ```
 
+## Effect on profit: a three-year pattern
+
+| Year | Receivables after write-offs (rate 5%) | Required provision | Change | Effect on profit |
+|---|---:|---:|---|---|
+| 1 (first provision) | 16,000 | 800 | Increase 800 | Reduced by 800 |
+| 2 | 19,000 | 950 | Increase 150 | Reduced by 150 |
+| 3 | 17,400 | 870 | Decrease 80 | Increased by 80 |
+
+Write-offs in each year reduce profit separately, in full.
+
 ## Exam traps
 
 - Percentage applied before deducting write-offs.

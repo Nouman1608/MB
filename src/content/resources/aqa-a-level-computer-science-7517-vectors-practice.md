@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-data-structures"
     subtopic: "vectors-7517"
-description: "Original AQA A-Level Computer Science 7517 vector questions: notation, representations, translation, scaling, convex combinations and dot products, with answers."
+description: "Original AQA A-Level Computer Science 7517 vector questions on notation, representations, translation, scaling, convex combinations and dot products."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

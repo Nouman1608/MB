@@ -88,7 +88,7 @@ Revise first with the [Earthquakes and Volcanoes study guide](/resources/igcse-g
 **6.** At a conservative boundary two plates slide past each other [1]. Friction makes them stick, so pressure builds up over time [1]. When the pressure is released suddenly, the plates jerk past each other and the energy is released as seismic waves, causing an earthquake [1]. **[3]**
 
 **7. (a)** D [1]. **[1]**
-**(b)** Earthquake A caused 8,900 deaths, whereas B caused only 65, about 137 times fewer [1], even though B had a slightly higher magnitude (7.9 compared with 7.8) [1]. **[2]**
+**(b)** Earthquake A caused 8,900 deaths, whereas B caused only 65, so A caused about 137 times as many deaths [1], even though B had a slightly higher magnitude (7.9 compared with 7.8) [1]. **[2]**
 **(c)** C had a very shallow focus (10 km), so strong shaking reached the surface, whereas D's focus was 600 km deep, so much energy was lost before reaching the surface [1]. C occurred in a low-income country, where buildings are less likely to be earthquake-resistant [1], and emergency services and healthcare may be less able to rescue and treat injured people [1]. **[3]**
 *Examiner insight:* The best answers use evidence from more than one column of the table, here both depth and income level.
 
