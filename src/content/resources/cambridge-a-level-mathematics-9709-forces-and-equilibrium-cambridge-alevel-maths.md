@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-cambridge-alevel-maths"
     subtopic: "forces-and-equilibrium-cambridge-alevel-maths"
-description: "Study guide to Cambridge 9709 Paper 4 section 4.1: force diagrams, resultants, resolving, friction and limiting equilibrium, smooth contact and Newton's third law."
+description: "Study guide to Cambridge 9709 Paper 4 section 4.1: force diagrams, resultants, resolving, friction, limiting equilibrium, smooth contact and Newton's third law."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

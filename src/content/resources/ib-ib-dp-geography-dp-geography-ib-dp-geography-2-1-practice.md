@@ -69,9 +69,17 @@ Related: [2.1 study guide](/resources/ib-ib-dp-geography-dp-geography-ib-dp-geog
 
 **9.** Explain why ocean warming may reduce the ocean's uptake of carbon dioxide. **[4]**
 
+**10.** In one month, air pressure at Tahiti is 1.5 hPa below its long-term average and air pressure at Darwin is 1.0 hPa above its average.
+
+**(a)** State whether the Southern Oscillation Index is likely to be positive or negative. **[1]**
+
+**(b)** Explain what this suggests about the trade winds and sea surface temperatures in the eastern Pacific. **[3]**
+
+**11.** Explain what is meant by the thermal inertia of the oceans and why it matters for future climate. **[3]**
+
 ## Section C
 
-**10.** Examine the role of the oceans in regulating global climate. **[10]**
+**12.** Examine the role of the oceans in regulating global climate. **[10]**
 
 ## Answers
 
@@ -97,7 +105,13 @@ Related: [2.1 study guide](/resources/ib-ib-dp-geography-dp-geography-ib-dp-geog
 
 **9.** Carbon dioxide is less soluble in warmer water [1], so a warmer surface absorbs less of it [1]. Warming also strengthens stratification of the upper ocean [1], reducing the mixing that carries dissolved carbon downward, so the sink weakens and more carbon dioxide stays in the atmosphere [1]. **[4]**
 
-**10.** Indicative content:
+**10. (a)** Negative [1].
+
+**(b)** A smaller than usual pressure difference between Tahiti and Darwin means weaker trade winds [1]. Weaker trade winds let warm surface water spread east across the Pacific [1], so sea surface temperatures in the eastern Pacific are likely to be above average, with reduced upwelling, as in El Nino conditions [1]. **[4]**
+
+**11.** The oceans warm slowly because of their high heat capacity and the large volume of water mixed by currents [1], so they delay the full surface warming caused by greenhouse gases already emitted [1]. Some further warming is therefore expected even if emissions stopped rising, which affects how quickly climate targets can be met [1]. **[3]**
+
+**12.** Indicative content:
 
 - **Heat storage:** high specific heat capacity lets oceans store vast amounts of energy and smooth seasonal and daily temperature changes [1]; they have absorbed most of the extra heat from global warming, giving thermal inertia [1].
 - **Heat transfer:** surface currents such as the Gulf Stream and North Atlantic Drift move heat poleward [1]; thermohaline circulation redistributes heat and carbon through the deep ocean [1].

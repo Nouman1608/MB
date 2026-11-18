@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-3-cambridge-alevel"
     subtopic: "integration-cambridge-alevel-maths-3"
-description: "Revision notes for Cambridge 9709 Paper 3 section 3.5 Integration: standard integrals, identities, ln forms, partial fractions, parts, substitution and a self-test."
+description: "Revision notes for Cambridge 9709 Paper 3 section 3.5 Integration: standard integrals, identities, ln forms, partial fractions, parts and substitution."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

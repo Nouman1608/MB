@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-3-cambridge-alevel"
     subtopic: "vectors-cambridge-alevel-maths"
-description: "Revision notes for Cambridge 9709 Paper 3 section 3.7 Vectors: notation, magnitude, lines, parallel, intersecting and skew tests, scalar product and a self-test."
+description: "Revision notes for Cambridge 9709 Paper 3 section 3.7 Vectors: notation, magnitude, lines, parallel and skew tests, scalar product and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
