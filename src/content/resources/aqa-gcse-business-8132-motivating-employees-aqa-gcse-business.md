@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "human-resources-aqa-gcse-business"
     subtopic: "motivating-employees-aqa-gcse-business"
-description: "Study guide to AQA GCSE Business 3.4.3: why motivation matters, salary, wages, commission and profit sharing, and non-financial methods, with worked pay examples."
+description: "Study guide to AQA GCSE Business 3.4.3: why motivation matters, salary, wages, commission, profit sharing and non-financial methods, with pay examples."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

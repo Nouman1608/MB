@@ -121,6 +121,12 @@ A conclusion that only says "there are good points on both sides" does not judge
 | Reframing | Restating the question in a more precise or interesting way |
 | Measured tone | Calm, reasonable and controlled voice |
 
+## Voice check
+
+- Formal or semi-formal; first person allowed, especially in the conclusion.
+- Rhetorical questions to pose the issue, not to bully the reader.
+- Emotive language used sparingly, if at all.
+
 ## Exam traps
 
 - Writing a one-sided argument for a "discuss" task.

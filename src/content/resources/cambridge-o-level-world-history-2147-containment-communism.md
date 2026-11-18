@@ -59,8 +59,9 @@ Using the same criteria for each case makes comparison easy and gives your concl
 
 ## Korea, 1950–53
 
-**Background.** Korea was divided at the 38th parallel in 1945: a communist North under Kim Il Sung, backed by the
-USSR, and a South under Syngman Rhee, backed by the USA. In 1949 the communists won the Chinese Civil War, and the USSR
+**Background.** Soviet and American forces accepted the Japanese surrender in Korea in 1945 on either side of the
+38th parallel. By 1948 there were two states: a communist North under Kim Il Sung, backed by Moscow, and a South under
+Syngman Rhee, backed by Washington. In 1949 the communists won the Chinese Civil War, and the USSR
 tested its first atomic bomb. A US policy paper, NSC-68 (April 1950), called for a large military build-up to contain
 communism worldwide.
 
@@ -101,11 +102,12 @@ refused to send US air support. The failure humiliated the USA and pushed Castro
 - Soviet ships approaching the quarantine line turned back on 24 October.
 - Khrushchev sent two letters: the first offered to remove the missiles if the USA promised not to invade Cuba; the
   second added a demand for removal of US missiles from Turkey. On 27 October a U-2 was shot down over Cuba.
-- On 28 October Khrushchev agreed to remove the missiles in return for a public US pledge not to invade Cuba; the USA
-  also secretly agreed to remove its Jupiter missiles from Turkey.
+- Kennedy answered the first letter and ignored the second in public, while his brother Robert told the Soviet
+  ambassador privately that the Jupiter missiles in Turkey would go. On 28 October Khrushchev announced that the Cuban
+  sites would be dismantled.
 
-**Aftermath.** A telephone "hotline" between Washington and Moscow was set up (1963), and the Partial Test Ban Treaty
-was signed in August 1963. Castro remained in power, and Cuba stayed communist.
+**Aftermath.** Both leaders wanted to avoid another near miss: a direct communication link, the "hotline", opened in
+1963, and the Partial Test Ban Treaty followed in August 1963. Castro remained in power, and Cuba stayed communist.
 
 **Judgement on effectiveness.** The USA failed to prevent a communist state 90 miles from Florida and failed to
 overthrow it in 1961. But in 1962 it forced the removal of Soviet missiles without war, which was a major success of
@@ -113,9 +115,9 @@ containment in its narrower military sense. The secret Turkish deal shows the su
 
 ## Vietnam, 1955–75
 
-**Reasons for involvement.** After the French defeat at Dien Bien Phu, the **Geneva Accords (1954)** divided Vietnam at
-the 17th parallel, with elections planned for 1956. The USA backed Ngo Dinh Diem's government in the South and the
-elections were not held, partly because Ho Chi Minh was expected to win. Eisenhower's **domino theory** argued that if
+**Reasons for involvement.** France's defeat at Dien Bien Phu ended its rule in Indochina. The **Geneva Accords
+(1954)** drew a temporary line at the 17th parallel and promised national elections in 1956. Washington supported Ngo
+Dinh Diem in the South, and the vote never took place, partly because Ho Chi Minh was expected to win it. Eisenhower's **domino theory** argued that if
 one country fell to communism, its neighbours would follow. Kennedy increased the number of US military advisers to
 about 16,000. In August 1964 the **Gulf of Tonkin incident** led Congress to pass a resolution giving President
 Johnson wide powers to use force.
