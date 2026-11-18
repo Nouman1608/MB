@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-physical-quantities-and-units"
     subtopic: "as-physical-quantities"
-description: "Original practice questions with mark-scheme answers on magnitude and unit, table headings, unit conversion and estimation for Cambridge AS Physics 9702 subtopic 1.1."
+description: "Original practice questions with mark-scheme answers on magnitude and unit, table headings and estimation for Cambridge AS Physics 9702 subtopic 1.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

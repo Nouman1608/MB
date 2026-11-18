@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dynamics"
     subtopic: "as-linear-momentum-and-its-conservation"
-description: "Subtopic 3.3 of Cambridge AS Physics 9702 in depth: conservation of momentum, elastic and inelastic collisions, relative speeds, explosions and two-dimensional collisions."
+description: "Subtopic 3.3 of Cambridge AS Physics 9702 in depth: conservation of momentum, elastic and inelastic collisions, explosions and 2D collisions."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

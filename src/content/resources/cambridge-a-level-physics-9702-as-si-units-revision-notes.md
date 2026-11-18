@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-physical-quantities-and-units"
     subtopic: "as-si-units"
-description: "Condensed recall for Cambridge AS Physics 9702 subtopic 1.2: five base units, derived units in base form, homogeneity, units of constants, prefixes and a self-test."
+description: "Condensed recall for Cambridge AS Physics 9702 subtopic 1.2: base units, derived units in base form, homogeneity, units of constants and prefixes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

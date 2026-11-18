@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-forces-density-and-pressure"
     subtopic: "as-turning-effects-of-forces"
-description: "Condensed recall for Cambridge AS Physics 9702 subtopic 4.1: centre of gravity, moment of a force, forces at angles, couples, torque and toppling, with a self-test."
+description: "Condensed recall for Cambridge AS Physics 9702 subtopic 4.1: centre of gravity, moments of forces at angles, couples, torque and toppling."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

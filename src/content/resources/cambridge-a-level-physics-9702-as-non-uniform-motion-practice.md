@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dynamics"
     subtopic: "as-non-uniform-motion"
-description: "Original practice questions with mark-scheme answers on friction, drag, falling with air resistance and terminal velocity for Cambridge AS Physics 9702 subtopic 3.2."
+description: "Original practice questions with mark-scheme answers on drag, air resistance and terminal velocity for Cambridge AS Physics 9702 subtopic 3.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

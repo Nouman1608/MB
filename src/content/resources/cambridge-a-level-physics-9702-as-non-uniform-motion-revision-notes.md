@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dynamics"
     subtopic: "as-non-uniform-motion"
-description: "Condensed recall for Cambridge AS Physics 9702 subtopic 3.2: friction and drag, falling with air resistance, velocity-time graphs, parachutes and terminal velocity."
+description: "Condensed recall for Cambridge AS Physics 9702 subtopic 3.2: friction and drag, falling with air resistance, parachutes and terminal velocity."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

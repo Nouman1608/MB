@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-physical-quantities-and-units"
     subtopic: "as-errors-and-uncertainties"
-description: "Original practice questions with mark-scheme answers on systematic and random errors, precision, accuracy and combining uncertainties for Cambridge AS Physics 9702 1.3."
+description: "Original practice questions with mark-scheme answers on errors, precision, accuracy and combining uncertainties for Cambridge AS Physics 9702 1.3."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

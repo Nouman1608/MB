@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-physical-quantities-and-units"
     subtopic: "as-scalars-and-vectors"
-description: "Subtopic 1.4 of Cambridge AS Physics 9702 in depth: scalar and vector examples, adding and subtracting coplanar vectors, and resolving into perpendicular components."
+description: "Subtopic 1.4 of Cambridge AS Physics 9702 in depth: scalars and vectors, adding and subtracting coplanar vectors, and perpendicular components."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

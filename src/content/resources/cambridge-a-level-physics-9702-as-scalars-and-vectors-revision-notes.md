@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-physical-quantities-and-units"
     subtopic: "as-scalars-and-vectors"
-description: "Condensed recall for Cambridge AS Physics 9702 subtopic 1.4: scalar and vector examples, vector addition and subtraction, the cosine rule and resolving into components."
+description: "Condensed recall for Cambridge AS Physics 9702 subtopic 1.4: scalar and vector examples, adding and subtracting vectors, and resolving components."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

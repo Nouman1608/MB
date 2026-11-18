@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-forces-density-and-pressure"
     subtopic: "as-turning-effects-of-forces"
-description: "Subtopic 4.1 of Cambridge AS Physics 9702 in depth: centre of gravity, the moment of a force at an angle, couples and the torque of a couple, with worked examples."
+description: "Subtopic 4.1 of Cambridge AS Physics 9702 in depth: centre of gravity, the moment of a force at an angle, couples and the torque of a couple."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

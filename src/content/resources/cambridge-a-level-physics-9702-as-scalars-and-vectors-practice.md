@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-physical-quantities-and-units"
     subtopic: "as-scalars-and-vectors"
-description: "Original practice questions with mark-scheme answers on scalars, vectors, vector addition and subtraction and resolving components for Cambridge AS Physics 9702 1.4."
+description: "Original practice questions with mark-scheme answers on vector addition, subtraction and resolving components for Cambridge AS Physics 9702 1.4."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

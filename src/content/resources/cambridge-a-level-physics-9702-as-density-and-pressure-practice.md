@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-forces-density-and-pressure"
     subtopic: "as-density-and-pressure"
-description: "Original practice questions with mark-scheme answers on density, pressure, Δp = ρgΔh, upthrust and Archimedes' principle for Cambridge AS Physics 9702 subtopic 4.3."
+description: "Original practice questions with mark-scheme answers on density, pressure, Δp = ρgΔh and upthrust for Cambridge AS Physics 9702 subtopic 4.3."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

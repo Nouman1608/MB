@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dynamics"
     subtopic: "as-momentum-and-newtons-laws-of-motion"
-description: "Original practice questions with mark-scheme answers on F = ma, momentum, force as rate of change of momentum, Newton's laws and weight for Cambridge AS Physics 9702 3.1."
+description: "Original practice questions with mark-scheme answers on F = ma, momentum, Newton's laws and weight for Cambridge AS Physics 9702 subtopic 3.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

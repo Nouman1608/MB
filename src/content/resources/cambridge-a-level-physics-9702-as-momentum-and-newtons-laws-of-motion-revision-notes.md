@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dynamics"
     subtopic: "as-momentum-and-newtons-laws-of-motion"
-description: "Condensed recall for Cambridge AS Physics 9702 subtopic 3.1: inertia, F = ma and direction, momentum, force as rate of change of momentum, Newton's laws and weight."
+description: "Condensed recall for Cambridge AS Physics 9702 subtopic 3.1: inertia, F = ma, momentum, force as rate of change of momentum, Newton's laws, weight."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

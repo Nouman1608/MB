@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dynamics"
     subtopic: "as-linear-momentum-and-its-conservation"
-description: "Original practice questions with mark-scheme answers on momentum conservation, elastic and inelastic collisions, explosions and 2D collisions for Cambridge AS Physics 9702."
+description: "Original practice questions with mark-scheme answers on momentum conservation, collisions and explosions for Cambridge AS Physics 9702 subtopic 3.3."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

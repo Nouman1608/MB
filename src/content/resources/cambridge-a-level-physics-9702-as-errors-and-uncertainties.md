@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-physical-quantities-and-units"
     subtopic: "as-errors-and-uncertainties"
-description: "Subtopic 1.3 of Cambridge AS Physics 9702 in depth: systematic and zero errors, random errors, precision and accuracy, and combining uncertainties, with worked examples."
+description: "Subtopic 1.3 of Cambridge AS Physics 9702 in depth: systematic, zero and random errors, precision and accuracy, and combining uncertainties."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

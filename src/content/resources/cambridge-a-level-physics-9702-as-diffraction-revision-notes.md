@@ -70,7 +70,7 @@ No diffraction calculations beyond finding a wavelength with v = fλ are needed 
 
 | Wave | Typical λ | Gap needed for clear diffraction | Everyday consequence |
 |---|---|---|---|
-| Sound | about 0.1 m to a few m | Doorways, gaps between buildings | Heard round corners |
+| Sound (everyday) | about 0.1 m to a few m | Doorways, gaps between buildings | Heard round corners |
 | Microwaves (lab) | a few cm | Gaps of a few cm between metal plates | Receiver detects signal off-axis |
 | Visible light | 4–7 × 10⁻⁷ m | Very narrow slits (fraction of a mm) | Sharp shadows from ordinary objects |
 

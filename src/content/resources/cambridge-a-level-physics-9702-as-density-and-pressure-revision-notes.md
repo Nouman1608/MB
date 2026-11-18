@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-forces-density-and-pressure"
     subtopic: "as-density-and-pressure"
-description: "Condensed recall for Cambridge AS Physics 9702 subtopic 4.3: density, pressure, the derivation of Δp = ρgΔh, total pressure, upthrust and F = ρgV, with a self-test."
+description: "Condensed recall for Cambridge AS Physics 9702 subtopic 4.3: density, pressure, deriving Δp = ρgΔh, total pressure, upthrust and F = ρgV."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

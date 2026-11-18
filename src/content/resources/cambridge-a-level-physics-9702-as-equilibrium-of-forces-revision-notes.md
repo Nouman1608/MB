@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-forces-density-and-pressure"
     subtopic: "as-equilibrium-of-forces"
-description: "Condensed recall for Cambridge AS Physics 9702 subtopic 4.2: principle of moments, the two equilibrium conditions, tipping, ladders and vector triangles, with a self-test."
+description: "Condensed recall for Cambridge AS Physics 9702 subtopic 4.2: principle of moments, the two equilibrium conditions, tipping and vector triangles."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

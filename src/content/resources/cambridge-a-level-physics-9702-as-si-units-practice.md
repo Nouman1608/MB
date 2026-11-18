@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-physical-quantities-and-units"
     subtopic: "as-si-units"
-description: "Original practice questions with mark-scheme answers on base units, derived units, homogeneity, units of constants and prefixes for Cambridge AS Physics 9702 subtopic 1.2."
+description: "Original practice questions with mark-scheme answers on base units, derived units, homogeneity and prefixes for Cambridge AS Physics 9702 subtopic 1.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

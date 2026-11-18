@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-forces-density-and-pressure"
     subtopic: "as-density-and-pressure"
-description: "Subtopic 4.3 of Cambridge AS Physics 9702 in depth: density, pressure, deriving and using Δp = ρgΔh, upthrust from a pressure difference and F = ρgV, with worked examples."
+description: "Subtopic 4.3 of Cambridge AS Physics 9702 in depth: density, pressure, deriving and using Δp = ρgΔh, and upthrust from a pressure difference."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
