@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-periodicity"
     subtopic: "oxfordaqa-a-level-chemistry-3-2-1-2"
-description: "OxfordAQA 9620 study guide to 3.2.1.2: building full explanations of atomic radius, first ionisation energy and melting point across Na to Ar, with model answers."
+description: "OxfordAQA 9620 study guide to 3.2.1.2: full explanations of atomic radius, first ionisation energy and melting point across Na to Ar, with model answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-energetics"
     subtopic: "oxfordaqa-a-level-chemistry-3-1-4-4"
-description: "OxfordAQA 9620 guide to 3.1.4.4: defining mean bond enthalpy, estimating ΔH for gas-phase reactions, finding an unknown bond value, and why results differ from Hess."
+description: "OxfordAQA 9620 guide to 3.1.4.4: mean bond enthalpy, estimating ΔH for gas-phase reactions, finding unknown bond values, and why results differ from Hess."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

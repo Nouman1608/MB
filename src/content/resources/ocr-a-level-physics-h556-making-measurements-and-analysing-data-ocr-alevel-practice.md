@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "foundations-of-physics-ocr-alevel"
     subtopic: "making-measurements-and-analysing-data-ocr-alevel"
-description: "Original practice questions with answers on errors, precision, accuracy, combining uncertainties, gradients and percentage difference for OCR A Level Physics A 2.2."
+description: "Original practice questions with answers on errors, precision, accuracy, combining uncertainties, gradients and percentage difference for OCR A Level Physics."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

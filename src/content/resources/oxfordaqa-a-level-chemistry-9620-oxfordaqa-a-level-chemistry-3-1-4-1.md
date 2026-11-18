@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-energetics"
     subtopic: "oxfordaqa-a-level-chemistry-3-1-4-1"
-description: "OxfordAQA 9620 guide to 3.1.4.1: exothermic and endothermic change, ΔH at constant pressure, standard conditions and states, and enthalpies of combustion and formation."
+description: "OxfordAQA 9620 guide to 3.1.4.1: exothermic and endothermic change, ΔH, standard conditions and states, and enthalpies of combustion and formation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-kinetics"
     subtopic: "oxfordaqa-a-level-chemistry-3-1-6-2"
-description: "OxfordAQA 9620 guide to 3.1.6.2: what the Maxwell–Boltzmann curve shows, drawing it correctly, and reading curves for different temperatures and areas beyond Ea."
+description: "OxfordAQA 9620 guide to 3.1.6.2: what the Maxwell–Boltzmann curve shows, drawing it correctly, and reading curves at different temperatures."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

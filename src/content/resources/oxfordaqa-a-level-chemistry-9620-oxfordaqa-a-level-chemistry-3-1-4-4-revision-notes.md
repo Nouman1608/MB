@@ -85,6 +85,18 @@ x = 568 kJ mol⁻¹ (H–F)
 | C₂H₄ + H₂ → C₂H₆ | −125 kJ mol⁻¹ | −137 kJ mol⁻¹ |
 | ½N₂ + 1½H₂ → NH₃ | −46.5 kJ mol⁻¹ | −46 kJ mol⁻¹ |
 
+## Counting bonds in common molecules
+
+| Molecule | Bonds |
+|---|---|
+| CH₄ | 4 C–H |
+| C₂H₆ | 6 C–H, 1 C–C |
+| C₂H₄ | 4 C–H, 1 C=C |
+| C₂H₅OH | 5 C–H, 1 C–C, 1 C–O, 1 O–H |
+| CO₂ | 2 C=O |
+| H₂O | 2 O–H |
+| NH₃ | 3 N–H |
+
 ## Exam traps
 
 - Formed − broken (wrong sign).

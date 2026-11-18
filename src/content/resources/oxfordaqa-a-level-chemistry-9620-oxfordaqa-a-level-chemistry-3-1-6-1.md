@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-kinetics"
     subtopic: "oxfordaqa-a-level-chemistry-3-1-6-1"
-description: "OxfordAQA 9620 guide to 3.1.6.1: collision theory, defining activation energy, reading Ea from enthalpy profiles, and why most collisions do not lead to reaction."
+description: "OxfordAQA 9620 guide to 3.1.6.1: collision theory, activation energy, reading Ea from enthalpy profiles, and why most collisions do not lead to reaction."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

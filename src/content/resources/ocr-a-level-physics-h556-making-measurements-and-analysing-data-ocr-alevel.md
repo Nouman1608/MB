@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "foundations-of-physics-ocr-alevel"
     subtopic: "making-measurements-and-analysing-data-ocr-alevel"
-description: "Study guide to OCR A Level Physics A 2.2: systematic and random errors, precision and accuracy, combining uncertainties, error bars, worst lines and percentage difference."
+description: "Study guide to OCR A Level Physics A 2.2: systematic and random errors, precision, accuracy, combining uncertainties, worst lines and percentage difference."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

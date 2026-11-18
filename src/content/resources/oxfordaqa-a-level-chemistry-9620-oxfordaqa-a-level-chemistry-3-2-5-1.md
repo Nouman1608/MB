@@ -66,6 +66,8 @@ Each property is studied in more detail later in section 3.2.5. Here you need to
 
 All four follow from the d electrons. Partly filled d orbitals allow electrons to move between d energy levels (colour), the similar energies of the 4s and 3d electrons allow different numbers to be lost (variable oxidation state), and the ability to change oxidation state or to bond to other species underlies catalysis.
 
+Each property has its own point later in the section: [shapes of complex ions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-3/), [formation of coloured ions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-4/), [variable oxidation states](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-5/) and [catalysts](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-5-6/).
+
 ## Ligands, complexes and co-ordination number
 
 The specification's definitions are worth learning word for word.
@@ -132,6 +134,17 @@ Fe³⁺: [Ar] 3d⁵
 - **"Explain why copper is a transition metal"**: refer to the Cu²⁺ ion, 3d⁹, not the atom.
 - **"Deduce the oxidation state"**: show the sum of charges, including any counter-ions outside the square brackets.
 - **"Give the co-ordination number"**: count bonds to the metal.
+
+## Frequently asked questions
+
+**Is scandium a transition metal in OxfordAQA 9620?**
+The specification describes transition metal characteristics for Ti to Cu, so scandium is not one of the elements you are asked about. Questions on this point use titanium to copper.
+
+**Do I need to learn the colours of every ion now?**
+Not for this point. Here you need to know that coloured ions are a characteristic property; the explanation of colour and the use of colour to identify ions belong to 3.2.5.4.
+
+**Can a neutral molecule be a ligand?**
+Yes. H₂O and NH₃ are neutral ligands; what every ligand needs is a lone pair it can donate to form a co-ordinate bond.
 
 ## Next steps
 
