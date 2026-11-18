@@ -125,6 +125,8 @@ D: 4
 
 **(c)** 117.0 + 121.1 − 18.0 = **220.1** [1]
 
+*Examiner insight:* in acid hydrolysis the cysteine side chain keeps its –SH group; only the amino groups gain H⁺.
+
 **8.** In each peptide link the N–H hydrogen is δ+ and the C=O oxygen is δ− with lone pairs [1]; the C=O of one peptide link forms a hydrogen bond with the N–H of a peptide link a few residues further along the same chain [1]; many such hydrogen bonds, roughly parallel to the axis of the coil, hold the helix in shape [1]
 
 **9. (a)** Cysteine [1]; –CH₂–SH + HS–CH₂– + [O] → –CH₂–S–S–CH₂– + H₂O [1]

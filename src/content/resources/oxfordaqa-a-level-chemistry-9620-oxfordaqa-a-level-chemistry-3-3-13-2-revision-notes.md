@@ -97,6 +97,13 @@ Example: Gly–Ala–Ser = H₂N–CH₂–CO–NH–CH(CH₃)–CO–NH–CH(CH
 | 7.2 | 3.6 | 0.50 |
 | 7.2 | 5.4 | 0.75 |
 
+## Identifying amino acids from a chromatogram
+
+1. Measure from the baseline to the centre of each spot, and from the baseline to the solvent front.
+2. Divide to get each Rf.
+3. Match each value to a standard run on the same plate.
+4. Report which amino acids are present; TLC does not give their order.
+
 ## Exam traps
 
 - Peptide drawn with C–C or N–O link.

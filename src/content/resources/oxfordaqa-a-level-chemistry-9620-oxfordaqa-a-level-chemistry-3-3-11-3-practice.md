@@ -133,6 +133,8 @@ D: CH₃NH₂
 
 **7. (a)** CH₃NH₂; (CH₃)₂NH; (CH₃)₃N; (CH₃)₄N⁺Cl⁻. All four [2]; two or three [1]
 
+*Examiner insight:* the quaternary product is a salt, so its formula must show both ions; writing (CH₃)₄N without the charge and the chloride is not credited.
+
 **(b)** Tetramethylammonium chloride, (CH₃)₄N⁺Cl⁻ (C₄H₁₂NCl = 109.5) [1]
 
 **(c)** Use a large excess of ammonia [1]

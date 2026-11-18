@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-amines"
     subtopic: "oxfordaqa-a-level-chemistry-3-3-11-3"
-description: "OxfordAQA 9620 subtopic 3.3.11.3 in depth: amines as nucleophiles, repeated substitution, quaternary salt surfactants and addition-elimination with acyl compounds."
+description: "OxfordAQA 9620 subtopic 3.3.11.3 in depth: amines as nucleophiles, repeated substitution, quaternary surfactants and amide formation from acyl compounds."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

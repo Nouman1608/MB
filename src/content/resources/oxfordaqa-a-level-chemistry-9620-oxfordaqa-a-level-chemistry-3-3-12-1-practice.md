@@ -153,6 +153,8 @@ D: nylon 6,6
 
 **10. (a)** C₁₂H₂₂N₂O₂ + 2H₂O − C₆H₁₆N₂ = C₆H₁₀O₄ [1]; hexanedioic acid [1]
 
+*Examiner insight:* add back the two water molecules lost per repeating unit before subtracting the known monomer; forgetting them gives C₆H₆O₂, which is not a dicarboxylic acid.
+
 **(b)** Nylon 6,6 [1]
 
 **11. (a)** n H₂N–(CH₂)₅–COOH → –[NH–(CH₂)₅–CO]ₙ– + n H₂O [1]
