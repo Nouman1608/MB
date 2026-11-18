@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "transport-in-plants-cambridge-igcse-biology"
     subtopic: "xylem-and-phloem-cambridge-igcse-biology"
-description: "Twelve original questions on 0610 sub-topic 8.1 Xylem and phloem: functions, positions in roots, stems and leaves, and (Extended) xylem structure, with mark schemes."
+description: "Twelve original questions on 0610 sub-topic 8.1 Xylem and phloem: functions, positions in roots, stems and leaves, and xylem structure, with mark schemes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

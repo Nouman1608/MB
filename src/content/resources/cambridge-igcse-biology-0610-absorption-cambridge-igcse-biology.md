@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "human-nutrition-cambridge-igcse-biology"
     subtopic: "absorption-cambridge-igcse-biology"
-description: "Study guide to 0610 sub-topic 7.5 Absorption: where nutrients and water are absorbed, and (Extended) villi, microvilli, villus structure, capillaries and lacteals."
+description: "Study guide to 0610 sub-topic 7.5 Absorption: where nutrients and water are absorbed, and (Extended) villi, microvilli, capillaries and lacteals."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

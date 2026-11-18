@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "transport-in-plants-cambridge-igcse-biology"
     subtopic: "xylem-and-phloem-cambridge-igcse-biology"
-description: "Study guide to 0610 sub-topic 8.1 Xylem and phloem: their functions, finding them in root, stem and leaf sections, and (Extended) how xylem structure fits its function."
+description: "Study guide to 0610 sub-topic 8.1 Xylem and phloem: functions, finding them in root, stem and leaf sections, and (Extended) xylem vessel structure."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

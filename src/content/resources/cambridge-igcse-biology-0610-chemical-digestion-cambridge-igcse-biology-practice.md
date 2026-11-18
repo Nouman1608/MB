@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "human-nutrition-cambridge-igcse-biology"
     subtopic: "chemical-digestion-cambridge-igcse-biology"
-description: "Twelve original questions on 0610 sub-topic 7.4 Chemical digestion: enzymes, secretion sites, stomach acid, pH data and (Extended) pepsin, trypsin, maltase and bile."
+description: "Twelve original questions on 0610 sub-topic 7.4 Chemical digestion: enzymes, secretion sites, stomach acid, pH data, pepsin, trypsin and bile."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

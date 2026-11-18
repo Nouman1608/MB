@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "transport-in-plants-cambridge-igcse-biology"
     subtopic: "transpiration-cambridge-igcse-biology"
-description: "Study guide to 0610 sub-topic 8.3 Transpiration: how water vapour leaves leaves, potometer practicals, and (Extended) stomata, transpiration pull, factors and wilting."
+description: "Study guide to 0610 sub-topic 8.3 Transpiration: how water vapour leaves leaves, potometer work, and (Extended) stomata, transpiration pull and wilting."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

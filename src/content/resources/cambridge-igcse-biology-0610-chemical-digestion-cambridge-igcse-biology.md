@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "human-nutrition-cambridge-igcse-biology"
     subtopic: "chemical-digestion-cambridge-igcse-biology"
-description: "Study guide to 0610 sub-topic 7.4 Chemical digestion: amylase, protease and lipase, where they act, stomach acid and (Extended) maltase, pepsin, trypsin and bile."
+description: "Study guide to 0610 sub-topic 7.4 Chemical digestion: amylase, protease and lipase, where they act, stomach acid, and (Extended) pepsin, trypsin and bile."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

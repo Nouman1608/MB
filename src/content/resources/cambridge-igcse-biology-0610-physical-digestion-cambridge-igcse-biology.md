@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "human-nutrition-cambridge-igcse-biology"
     subtopic: "physical-digestion-cambridge-igcse-biology"
-description: "Study guide to 0610 sub-topic 7.3 Physical digestion: surface area, the four tooth types, tooth structure, churning in the stomach and (Extended) bile emulsifying fats."
+description: "Study guide to 0610 sub-topic 7.3 Physical digestion: surface area, the four tooth types, tooth structure, churning and (Extended) bile emulsifying fats."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

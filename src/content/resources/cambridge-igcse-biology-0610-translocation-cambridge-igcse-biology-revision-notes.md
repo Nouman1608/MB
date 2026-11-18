@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "transport-in-plants-cambridge-igcse-biology"
     subtopic: "translocation-cambridge-igcse-biology"
-description: "Revision notes for 0610 sub-topic 8.4 Translocation (Extended only): definition, sources and sinks, direction of flow, role switching and a 12-question self-test."
+description: "Revision notes for 0610 sub-topic 8.4 Translocation (Extended only): definition, sources and sinks, flow direction, role switching and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

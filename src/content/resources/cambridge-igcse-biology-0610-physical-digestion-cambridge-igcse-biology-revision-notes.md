@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "human-nutrition-cambridge-igcse-biology"
     subtopic: "physical-digestion-cambridge-igcse-biology"
-description: "Revision notes for 0610 sub-topic 7.3 Physical digestion: surface area, tooth types and structure, churning and (Extended) emulsification by bile, with a self-test."
+description: "Revision notes for 0610 sub-topic 7.3 Physical digestion: surface area, tooth types and structure, churning and (Extended) bile, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

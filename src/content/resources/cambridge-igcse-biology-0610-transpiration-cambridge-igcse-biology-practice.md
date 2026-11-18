@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "transport-in-plants-cambridge-igcse-biology"
     subtopic: "transpiration-cambridge-igcse-biology"
-description: "Twelve original questions on 0610 sub-topic 8.3 Transpiration: water vapour loss, potometer data, and (Extended) stomata, transpiration pull, factors and wilting."
+description: "Twelve original questions on 0610 sub-topic 8.3 Transpiration: water vapour loss, potometer data, stomata, transpiration pull, factors and wilting."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

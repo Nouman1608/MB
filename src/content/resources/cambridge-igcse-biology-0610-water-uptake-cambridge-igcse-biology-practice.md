@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "transport-in-plants-cambridge-igcse-biology"
     subtopic: "water-uptake-cambridge-igcse-biology"
-description: "Twelve original questions on 0610 sub-topic 8.2 Water uptake: root hair cells, surface area, the pathway of water and the stain investigation, with mark schemes."
+description: "Twelve original questions on 0610 sub-topic 8.2 Water uptake: root hair cells, surface area, the pathway of water and the stain investigation, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

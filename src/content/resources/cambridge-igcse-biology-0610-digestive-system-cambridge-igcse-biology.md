@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "human-nutrition-cambridge-igcse-biology"
     subtopic: "digestive-system-cambridge-igcse-biology"
-description: "Study guide to 0610 sub-topic 7.2 Digestive system: identifying the organs on diagrams and linking each to ingestion, digestion, absorption, assimilation, egestion."
+description: "Study guide to 0610 sub-topic 7.2 Digestive system: finding the organs on diagrams and linking each to the five processes from ingestion to egestion."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

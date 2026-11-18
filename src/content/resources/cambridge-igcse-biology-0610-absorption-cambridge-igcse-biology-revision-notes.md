@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "human-nutrition-cambridge-igcse-biology"
     subtopic: "absorption-cambridge-igcse-biology"
-description: "Revision notes for 0610 sub-topic 7.5 Absorption: the small intestine, water absorption and (Extended) villi, microvilli, capillaries and lacteals, with a self-test."
+description: "Revision notes for 0610 sub-topic 7.5 Absorption: the small intestine, water and (Extended) villi, microvilli, capillaries and lacteals, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

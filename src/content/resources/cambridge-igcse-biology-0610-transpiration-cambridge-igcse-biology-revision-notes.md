@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "transport-in-plants-cambridge-igcse-biology"
     subtopic: "transpiration-cambridge-igcse-biology"
-description: "Revision notes for 0610 sub-topic 8.3 Transpiration: evaporation and diffusion, potometer method, factors, (Extended) transpiration pull and wilting, plus a self-test."
+description: "Revision notes for 0610 sub-topic 8.3 Transpiration: evaporation and diffusion, potometers, factors, (Extended) transpiration pull and wilting."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
