@@ -109,7 +109,7 @@ D: paying farm workers more
 
 **(b)** Drainage removes excess water from the soil [1]; so crops can grow better, giving more output per hectare [1]. **[4]**
 
-**8.** Skilled immigrants can fill shortages in jobs such as engineering or healthcare [1]; they bring human capital that raises output per worker [1]; so average labour productivity in the country rises. (Also accept: lower-skilled immigrants may reduce average output per worker at first; emigration of skilled workers lowers productivity in the country they leave.) [1] **[3]**
+**8.** Skilled immigrants can fill shortages in jobs such as engineering or healthcare [1]; they bring human capital that raises output per worker [1]; so average labour productivity in the country rises [1]. (Also accept: lower-skilled immigrants may reduce average output per worker at first; emigration of skilled workers lowers productivity in the country they leave.) **[3]**
 
 **9. (a)** Each worker repeats one task and becomes skilled and quick at it [1]; so output per worker rises [1]; which lowers the cost of each toy, so the business can cut prices or earn more profit [1].
 
