@@ -91,6 +91,10 @@ a ≠ 1:    ax² + bx + c = a[(x + b/2a)² − (b/2a)²] + c
 
 Reading the form a(x + p)² + q: if a > 0 the least value is q at x = −p; if a < 0 the greatest value is q at x = −p.
 
+## Checking an answer
+
+Substitute x = 1 (or another small value) into both forms. For (x − 3)(x + 2)(x + 1) at x = 1: (−2)(3)(2) = −12, and 1 − 7 − 6 = −12. ✓ A completed square form can be checked by expanding it back out.
+
 ## Exam traps
 
 - −2(x − 4) = −2x + 8, not −2x − 8.

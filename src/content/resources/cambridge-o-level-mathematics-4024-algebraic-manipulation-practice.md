@@ -92,6 +92,8 @@ Related: [algebraic manipulation study guide](/resources/cambridge-o-level-mathe
 
 **5.** 2p(q − 3) + 1(q − 3) [1] = **(2p + 1)(q − 3)** [1] **[2]**
 
+*Examiner insight:* Writing the second pair as 1(q − 3) makes the matching bracket visible. Without the 1, candidates often lose a term in the final answer.
+
 **6.** ac = −30, sum −7 → −10 and 3; 2x² − 10x + 3x − 15 = 2x(x − 5) + 3(x − 5) [1] = **(2x + 3)(x − 5)** [1] **[2]**
 
 **7.** (x − 2)(x − 1) = x² − 3x + 2 [1]; (x² − 3x + 2)(x + 4) = x³ + 4x² − 3x² − 12x + 2x + 8 [1] = **x³ + x² − 10x + 8** [1] **[3]**

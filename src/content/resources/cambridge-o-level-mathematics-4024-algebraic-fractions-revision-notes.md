@@ -102,6 +102,10 @@ x/2 + (x + 1)/5          = [5x + 2(x + 1)]/10 = (7x + 2)/10
 
 **Sign switch:** (a − b) = −(b − a). Use it when factors look reversed.
 
+## Checking an answer
+
+Substitute a convenient value into the original and your answer; avoid values that make a denominator zero. For 4/(x − 3) + 1/(x + 2) at x = 0: −4/3 + 1/2 = −5/6, and 5(1)/[(−3)(2)] = −5/6. ✓
+
 ## Exam traps
 
 - Never cancel terms: (x + 3)/x is not 3, and (x² + 4)/(x + 2) does not simplify.

@@ -98,6 +98,14 @@ One country's **industrial policy** for manufacturing, and the **consequent chan
 - **Uncertain detail.** Leave out a figure you cannot recall accurately.
 - **Location explained by policy alone.** Use 11.3 factors (ports, labour, agglomeration) as well.
 
+## Linking 11.4 to 11.3
+
+- **Transport:** the 1970s complexes sit on the coast because steel and shipbuilding import bulky materials and export heavy products (break-of-bulk advantage).
+- **Agglomeration:** once a cluster forms, as in Gyeonggi for semiconductors, localisation economies hold it in place against regional policy.
+- **Labour:** rising wages after 1987 reduced the pull of cheap labour, so labour-intensive work moved abroad.
+- **Inertia:** older industrial cities such as Ulsan keep industry despite downturns, because of sunk investment and skills.
+- **Government:** policy is decisive where it creates a new site with real location advantages, weaker where it fights them.
+
 ## Self-test
 
 1. What three aspects of manufacturing must the 11.4 case study cover?

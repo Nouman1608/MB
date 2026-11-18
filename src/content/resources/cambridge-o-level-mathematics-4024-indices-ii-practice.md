@@ -96,7 +96,7 @@ Related: [Indices II study guide](/resources/cambridge-o-level-mathematics-4024-
 
 **4.** 3 + 4 − 1 [1] = **6** [1] **[2]**
 
-*Examiner insight:* 4⁰ = 1, not 0 and not 4.
+*Examiner insight:* 4⁰ = 1, not 0 and not 4. Work out each power separately before adding: 9^(1/2) = 3 and 8^(2/3) = (∛8)² = 4.
 
 **5. (a)** **6x** [1]
 
