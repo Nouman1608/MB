@@ -98,7 +98,7 @@ Condensed for revision. For full explanations and annotated model answers, read 
 7. Name two ions in the table above that are isoelectronic with Ar.
 8. Explain why Mg²⁺ is smaller than Na⁺.
 9. Explain why magnesium oxide has a much higher melting point than sodium chloride.
-10. Pauling values: K 0.8, Br 3.0. Predict the bonding in potassium bromide and justify your answer.
+10. Pauling values: K 0.8, Br 2.6. Predict the bonding in potassium bromide and justify your answer.
 11. A student writes "NaCl molecules are held together by ionic bonds." Correct the statement.
 12. Describe the bonding in potassium sulfide, K₂S.
 
@@ -113,7 +113,7 @@ Condensed for revision. For full explanations and annotated model answers, read 
 7. Two of Ca²⁺, Cl⁻ and S²⁻ (K⁺ also).
 8. Both have 10 electrons, but Mg²⁺ has 12 protons compared with 11, so its electrons are pulled closer to the nucleus.
 9. Mg²⁺ and O²⁻ have double charges and are smaller than Na⁺ and Cl⁻, so the electrostatic attraction between the ions is stronger and more energy is needed to overcome it.
-10. Difference = 2.2, which is large, so the bonding is ionic: K⁺ and Br⁻ ions.
+10. Difference = 1.8, which is large, so the bonding is ionic: K⁺ and Br⁻ ions.
 11. Sodium chloride is a giant ionic lattice of Na⁺ and Cl⁻ ions; there are no molecules. The ions are held by electrostatic attraction in all directions.
 12. Each of two K atoms (…4s¹) loses one electron to the same S atom (1s² 2s² 2p⁶ 3s² 3p⁴), giving two K⁺ and one S²⁻ (both with the argon configuration), held by electrostatic attraction in a giant lattice.
 

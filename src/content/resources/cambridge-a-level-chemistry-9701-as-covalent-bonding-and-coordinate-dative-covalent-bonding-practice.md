@@ -84,7 +84,7 @@ D: CH₄ **[1]**
 
 **(b)** State the hybridisation of the carbonyl carbon atom and of each of the other three carbon atoms. **[2]**
 
-**11.** Approximate bond energies are: C–Cl 340 kJ mol⁻¹, C–Br 280 kJ mol⁻¹, C–I 240 kJ mol⁻¹.
+**11.** Average bond energies from the data booklet are: C–Cl 340 kJ mol⁻¹, C–Br 280 kJ mol⁻¹, C–I 240 kJ mol⁻¹.
 
 **(a)** Predict the order of rates of hydrolysis of 1-chlorobutane, 1-bromobutane and 1-iodobutane, fastest first. **[1]**
 

@@ -96,6 +96,10 @@ A large population has values 1, 2 and 3, each equally likely. For samples of si
 P(L = 1) = 1/27      P(L = 2) = 8/27 − 1/27 = 7/27      P(L = 3) = 1 − 8/27 = 19/27
 ```
 
+## Writing a full answer in context
+
+"A sample survey is more appropriate, because the factory makes 20 000 bolts a day and testing each one for strength destroys it." One method word (sample), one reason tied to the context (size, destruction): that is the pattern for a two-mark answer.
+
 ## Exam traps
 
 - Giving the population when asked for the sampling frame.

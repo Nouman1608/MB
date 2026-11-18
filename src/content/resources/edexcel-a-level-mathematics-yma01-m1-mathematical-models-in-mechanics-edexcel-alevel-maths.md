@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-m1-mechanics-1-edexcel-alevel-maths"
     subtopic: "m1-mathematical-models-in-mechanics-edexcel-alevel-maths"
-description: "Edexcel IAL Maths M1 modelling: particles, rods, laminas, strings, pulleys, pegs and beads, where each assumption enters your working, and how to criticise a model."
+description: "Edexcel IAL Maths M1 modelling: particles, rods, laminas, strings, pulleys, pegs and beads, where each assumption enters your working, and judging a model."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

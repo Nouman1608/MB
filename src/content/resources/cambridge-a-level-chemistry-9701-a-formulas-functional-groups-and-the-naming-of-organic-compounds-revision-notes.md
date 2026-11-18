@@ -107,6 +107,12 @@ alcohol / phenol > amine.
 **Ring attached to a chain:** phenylethanone C₆H₅COCH₃; methyl benzoate C₆H₅COOCH₃; phenyl ethanoate
 CH₃COOC₆H₅; N-phenylethanamide CH₃CONHC₆H₅.
 
+## Isomers: same molecular formula, different names
+
+C₃H₆O₂ esters and acid: CH₃COOCH₃ (methyl ethanoate), HCOOCH₂CH₃ (ethyl methanoate) and the acid
+CH₃CH₂COOH (propanoic acid). C₃H₇NO amides: CH₃CH₂CONH₂ (propanamide, primary), CH₃CONHCH₃
+(N-methylethanamide, secondary) and HCON(CH₃)₂ (N,N-dimethylmethanamide, tertiary).
+
 ## Cyclic naming
 
 - Carbon carrying the principal group = C1; number to give lowest locants: 2-methylcyclohexanol.

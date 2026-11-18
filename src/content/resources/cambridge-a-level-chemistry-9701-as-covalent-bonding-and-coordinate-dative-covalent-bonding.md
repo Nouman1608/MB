@@ -128,13 +128,13 @@ More shared pairs between the same two atoms gives a **shorter, stronger** bond:
 
 **Using these to compare reactivity.** A molecule reacts more readily when the bond that must break is weaker.
 
-- **Nitrogen** is unreactive because the N≡N triple bond has a very high bond energy (around 945 kJ mol⁻¹ in many data sources).
+- **Nitrogen** is unreactive because the N≡N triple bond has a very high bond energy (944 kJ mol⁻¹ in the data booklet, compared with 158 kJ mol⁻¹ for F–F and 242 kJ mol⁻¹ for Cl–Cl).
 - **Hydrogen halides**: bond energy falls H–Cl > H–Br > H–I as the halogen atom gets larger and the bond longer. HI is the easiest to break into its elements on heating.
 - **Halogenoalkanes**: C–Cl > C–Br > C–I in bond energy, so iodoalkanes are hydrolysed fastest, even though the C–I bond is the least polar. Bond energy outweighs polarity here.
 
 ### Worked example: explaining reactivity from data
 
-**Question.** Approximate bond energies are H–Cl 431 kJ mol⁻¹ and H–I 299 kJ mol⁻¹. Explain which hydrogen halide is more easily decomposed by heat. [2]
+**Question.** Bond energies from the data booklet are H–Cl 431 kJ mol⁻¹ and H–I 299 kJ mol⁻¹. Explain which hydrogen halide is more easily decomposed by heat. [2]
 
 HI is decomposed more easily [1] because less energy is needed to break the H–I bond, which is longer and weaker than H–Cl [1].
 

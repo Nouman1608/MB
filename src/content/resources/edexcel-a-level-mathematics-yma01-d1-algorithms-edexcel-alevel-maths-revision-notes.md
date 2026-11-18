@@ -102,6 +102,10 @@ first-fit:            (8, 2) (5, 4, 1) (9) (7, 3) (6) (5)        6 bins
 first-fit decreasing: (9, 1) (8, 2) (7, 3) (6, 4) (5, 5)         5 bins, optimal
 ```
 
+## Mini example: binary search
+
+Ordered list of 9 values: 3, 8, 11, 15, 19, 24, 27, 31, 36. Search for 27: middle 5 (19), keep 6–9; middle 8 (31), keep 6–7; middle 7 (27): found in 3 iterations.
+
 ## Exam traps
 
 - Rounding a middle position down.

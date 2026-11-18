@@ -104,6 +104,14 @@ When a question gives a mixture of probabilities:
 
 **Finding an unknown with independence:** if P(A) = x, P(B) = 0.5, P(A ∪ B) = 0.65 and A, B are independent, then 0.65 = x + 0.5 − 0.5x, so x = 0.3.
 
+## Sample spaces worth recognising
+
+- **Two dice:** 36 equally likely ordered pairs; a 6 × 6 grid makes "given that" questions quick, because the condition picks out a set of cells.
+- **Three coins:** 8 equally likely outcomes, from HHH to TTT.
+- **Two draws without replacement from n items:** n(n − 1) equally likely ordered pairs.
+
+For a conditional probability from a grid, count the cells meeting the condition (denominator), then the cells inside those that also meet the event (numerator).
+
 ## Exam traps
 
 - Assuming independence without being told it or showing it.

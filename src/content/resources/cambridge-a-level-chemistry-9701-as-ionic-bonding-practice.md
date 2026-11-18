@@ -62,7 +62,7 @@ Related: [ionic bonding study guide](/resources/cambridge-a-level-chemistry-9701
 
 **(b)** A student writes: "Magnesium oxide has stronger intermolecular forces than sodium chloride." Identify two errors in this statement. **[2]**
 
-**9.** Pauling electronegativity values for some elements are: Li 1.0, Mg 1.3, C 2.6, N 3.0, O 3.4, F 4.0.
+**9.** Pauling electronegativity values for some elements are: Li 1.0, Mg 1.3, C 2.5, N 3.0, O 3.5, F 4.0.
 
 **(a)** Use the values to predict whether the bonding in lithium fluoride is ionic or covalent. Explain your answer. **[2]**
 
@@ -120,7 +120,7 @@ Related: [ionic bonding study guide](/resources/cambridge-a-level-chemistry-9701
 
 **9. (a)** The difference is 4.0 − 1.0 = 3.0, which is large [1], so fluorine attracts the electron almost completely and the bonding is ionic (Li⁺ and F⁻) [1].
 
-**(b)** Mg–O: its electronegativity difference (2.1) is much larger than for C–O (0.8) [1].
+**(b)** Mg–O: its electronegativity difference (2.2) is much larger than for C–O (1.0) [1].
 
 **10. (a)** 1s² 2s² 2p⁶ [1].
 

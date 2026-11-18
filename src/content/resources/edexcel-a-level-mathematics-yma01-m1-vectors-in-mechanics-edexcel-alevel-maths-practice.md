@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-m1-mechanics-1-edexcel-alevel-maths"
     subtopic: "m1-vectors-in-mechanics-edexcel-alevel-maths"
-description: "Original Edexcel IAL Maths M1 vectors questions with mark schemes: bearings, resultants, parallel forces, constant velocity and acceleration, and two moving boats."
+description: "Original Edexcel IAL Maths M1 vectors questions with mark schemes: bearings, resultants, parallel forces, constant velocity and acceleration, and two boats."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
