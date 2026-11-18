@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-core-human-geography-9696"
     subtopic: "populationresource-relationships-9696"
-description: "Study guide to Cambridge 9696 Geography 4.3: food security, food shortages, technology and constraints, carrying capacity and optimum population, with worked data."
+description: "Study guide to Cambridge 9696 Geography 4.3: food security, food shortages, technology, constraints, carrying capacity and optimum population, with worked data."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

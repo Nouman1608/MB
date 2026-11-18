@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "hot-arid-and-semi-arid-environments-9696"
     subtopic: "soils-and-vegetation-9696"
-description: "Revision notes for Cambridge 9696 Geography 10.3: desert productivity, nutrient cycling, fragility, plant adaptations, drought types, salinisation and desertification."
+description: "Revision notes for Cambridge 9696 Geography 10.3: desert productivity, nutrient cycling, plant adaptations, drought types, salinisation and desertification."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-core-human-geography-9696"
     subtopic: "demographic-transition-9696"
-description: "Original practice questions with marked answers on Cambridge 9696 Geography 4.2: DTM stages, critical appreciation, youthful and ageing populations and development."
+description: "Original practice questions with marked answers on Cambridge 9696 Geography 4.2: DTM stages, critical appraisal, youthful and ageing populations, development."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
