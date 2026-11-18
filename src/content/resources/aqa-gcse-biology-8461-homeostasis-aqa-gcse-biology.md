@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "homeostasis-and-response-aqa-gcse-biology"
     subtopic: "homeostasis-aqa-gcse-biology"
-description: "AQA GCSE Biology 8461 section 4.5.1 Homeostasis in depth: optimum conditions, receptors, coordination centres and effectors, applied to three controlled conditions."
+description: "AQA GCSE Biology 8461 section 4.5.1 Homeostasis in depth: optimum conditions, receptors, coordination centres and effectors, with worked examples."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
