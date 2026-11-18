@@ -143,15 +143,15 @@ Check with an estimate: 4.83 ÷ 0.3 is about 5 ÷ 0.3, which is more than 15, so
 
 ## Worked example 4: a practical fraction problem
 
-A recipe needs 2¼ cups of flour for one batch. Mina has 10 cups. How many complete batches can she make, and how much flour is left?
+A recipe needs 2¼ cups of flour for one cake. Mina has 10 cups. How many complete cakes can she make, and how much flour is left?
 
 ```
 10 ÷ 2¼ = 10 ÷ 9/4 = 10 × 4/9 = 40/9 = 4 4/9
-Complete batches: 4
+Complete cakes: 4
 Flour used: 4 × 2¼ = 9 cups; left: 10 − 9 = 1 cup
 ```
 
-"Complete batches" means rounding down, whatever the fraction.
+"Complete cakes" means rounding down, whatever the fraction.
 
 ## Common errors
 

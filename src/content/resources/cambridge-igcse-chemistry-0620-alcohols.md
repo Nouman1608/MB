@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "organic-chemistry"
     subtopic: "alcohols"
-description: "Making ethanol by fermentation and from ethene, the reasons for each condition, combustion equations, uses and comparing the two methods for Cambridge IGCSE 0620."
+description: "Making ethanol by fermentation and from ethene, reasons for each condition, combustion equations, uses and comparing the two methods for Cambridge IGCSE 0620."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

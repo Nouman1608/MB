@@ -125,6 +125,7 @@ D: zinc
 **(c)** The slag is molten and less dense than molten iron, so it floats on top [1]; it is run off / tapped separately [1].
 
 **9.** Mr of Fe₂O₃ = 160 [1]; mass of iron in 160 kg = 112 kg [1]; 4000 × 112 ÷ 160 = 2800 kg [1].
+*Marking note:* a mole method is equally valid: 4 000 000 g ÷ 160 = 25 000 mol of Fe₂O₃, giving 50 000 mol of Fe, which is 50 000 × 56 = 2 800 000 g = 2800 kg. A common error is to use 56 instead of 2 × 56 = 112 for the iron in one formula, which halves the answer.
 
 **10. (a)** Aluminium is more reactive than carbon [1].
 
@@ -137,6 +138,7 @@ D: zinc
 **11. (a)** Oxygen is produced at the anode [1]; it reacts with the hot carbon: C + O₂ → CO₂ [1]; so the anode is gradually used up / burns away [1].
 
 **(b)** Aluminium, not oxygen, forms at the cathode, so the carbon there does not react [1].
+*Marking note:* in (a), "the anode dissolves" or "the anode is used up by electricity" does not score the second mark; the answer must name the reaction of oxygen with carbon.
 
 **12.** Mr of Al₂O₃ = 102; mass of aluminium in 102 kg = 54 kg [1]; 510 × 54 ÷ 102 = 270 kg [1].
 

@@ -125,6 +125,8 @@ The number of OH⁻ ions equals the charge on the metal ion.
 - **Lilac**, not purple, for potassium.
 - **Lighted** splint for hydrogen; **glowing** splint for oxygen.
 - Litmus for ammonia and chlorine must be **damp**.
+- Limewater turns **milky** with carbon dioxide; describing a gas as "fizzing" is not a test.
+- Sulfite (anion) and sulfur dioxide (gas) both turn acidified potassium manganate(VII) colourless: read which is being tested.
 
 ## Self-test
 

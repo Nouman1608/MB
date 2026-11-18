@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "experimental-techniques-and-chemical-analysis"
     subtopic: "experimental-design"
-description: "Choosing apparatus for time, temperature, mass and volume, judging methods, and the solution and separation terms in Cambridge IGCSE Chemistry 0620 subtopic 12.1."
+description: "Choosing apparatus for time, temperature, mass and volume, judging methods, and the solution and separation terms in Cambridge IGCSE Chemistry 0620 (12.1)."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

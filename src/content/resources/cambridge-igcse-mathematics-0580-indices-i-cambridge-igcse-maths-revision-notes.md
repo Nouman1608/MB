@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "indices-i-cambridge-igcse-maths"
-description: "Revision notes for 0580 subtopic 1.7 Indices I: zero and negative indices, index rules with numbers, base rewriting, Extended fractional indices and a self-test."
+description: "Revision notes for 0580 subtopic 1.7 Indices I: zero and negative indices, index rules, rewriting bases, Extended fractional indices and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

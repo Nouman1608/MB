@@ -154,9 +154,8 @@ Describe a test that distinguishes them, giving the result for each. **[3]**
 - zinc: white precipitate; dissolves in excess to give a colourless solution;
 - calcium: white precipitate; insoluble in excess.
 
-**9.** Add aqueous ammonia, a little at a time and then in excess [1].
+**9.** Add aqueous ammonia, a little at a time and then in excess [1]. Zn²⁺: white precipitate that dissolves in excess to give a colourless solution [1]. Al³⁺: white precipitate that does not dissolve in excess [1].
 *Excess sodium hydroxide cannot be the deciding test, because both precipitates dissolve in it.*
- Zn²⁺: white precipitate that dissolves in excess to give a colourless solution [1]. Al³⁺: white precipitate that does not dissolve in excess [1].
 
 **10.** Dissolve the solid in water and add aqueous sodium hydroxide [1]; add aluminium foil and warm carefully [1]; ammonia is given off, which turns damp red litmus paper blue [1].
 
