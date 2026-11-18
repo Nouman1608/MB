@@ -108,6 +108,8 @@ Related: [section 1.3 study guide](/resources/edexcel-igcse-mathematics-4ma1-dec
 
 **6.** Recognises the largest size is the smallest number [1]; **−0.405, −0.4, −0.35, −0.04** [1]
 
+*Examiner insight:* Picture a number line: −0.405 is furthest left of zero, so it is the smallest, and −0.04 is closest to zero, so it is the largest.
+
 **7. (a)** **23.68** [1]
 
 **(b)** 0.37 × 640 = 37 × 6.4 = **236.8** [1]
@@ -129,6 +131,8 @@ Related: [section 1.3 study guide](/resources/edexcel-igcse-mathematics-4ma1-dec
 *Examiner insight:* Subtracting x from 10x gives 9x = 7.5, which also works, but leaves a decimal to clear; choosing two multiples whose tails both start right after the point keeps the arithmetic whole.
 
 **11.** x = 0.234234…, 1000x = 234.234… [1]; 999x = 234 [1]; x = 234/999 = **26/111** [1]
+
+*Examiner insight:* The dots over 2 and 4 mean the whole block 234 repeats, so the multiplier is 1000. Cancel by 9 (since 2 + 3 + 4 = 9), giving 26/111.
 
 **12. (a)** x = 0.999…, 10x = 9.999… [1]; 9x = 9, so x = 1 [1]
 

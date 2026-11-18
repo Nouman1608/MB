@@ -102,6 +102,8 @@ Related: [section 1.2 study guide](/resources/edexcel-igcse-mathematics-4ma1-fra
 
 **3.** Decimals: 0.6, 0.571…, 0.555…, 0.583… [1]; **5/9, 4/7, 7/12, 3/5** [1]
 
+*Examiner insight:* A common denominator of 1260 also works but is slow; decimals to 3 places are enough to separate these four fractions.
+
 **4.** 345 ÷ 15 = 23 [1]; 23 × 7 = **161 kg** [1]
 
 **5.** 2 hours = 120 minutes, so 35/120 [1]; = **7/24** [1]
@@ -127,6 +129,8 @@ Related: [section 1.2 study guide](/resources/edexcel-igcse-mathematics-4ma1-fra
 **(b)** Not juniors: 112 − 42 = 70 [1]; 2/7 of 70 = **20** [1]
 
 **11. (a)** Rest after patio = 3/4 [1]; lawn = 2/3 × 3/4 = 1/2 [1]; flower beds = 1 − 1/4 − 1/2 = **1/4** [1]
+
+*Examiner insight:* "2/3 of the rest" means 2/3 of the 3/4 left after the patio, so multiply; taking 2/3 of the whole garden leaves a negative fraction for the flower beds, a sign that the method is wrong.
 
 **(b)** 1/4 of the garden = 18 m² [1]; total = **72 m²** [1]
 

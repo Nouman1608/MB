@@ -78,7 +78,7 @@ Replace x by kx and include the powers: sin 3x = 3x − (27/6)x³ + …; e^(x²)
 
 **Product form.** x ln x as x → 0⁺: write (ln x)/(1/x), ∞/∞ → −x → 0.
 
-**Not indeterminate.** (cos x)/(x + 1) at x = 0 is 1 by substitution; the rule must not be used.
+**Not indeterminate.** (cos x)/(x + 1) at x = 0 is 1 by substitution; the rule must not be used. Applying it anyway gives −sin x → 0, a wrong answer.
 
 **Lowest powers.** By series, compare the lowest powers of x top and bottom: equal powers give the ratio of coefficients; a higher power on top gives 0.
 

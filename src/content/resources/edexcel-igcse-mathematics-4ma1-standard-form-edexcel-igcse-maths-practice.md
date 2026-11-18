@@ -104,6 +104,8 @@ Related: [section 1.9 study guide](/resources/edexcel-igcse-mathematics-4ma1-sta
 
 **7. (a)** 8 100 000 + 740 000 = 8 840 000 [1] = **8.84 × 10⁶** [1]
 
+*Examiner insight:* Writing 7.4 × 10⁵ as 0.74 × 10⁶ and adding 8.1 + 0.74 gives the same result without writing out the zeros.
+
 **(b)** 0.0023 − 0.0006 = 0.0017 [1] = **1.7 × 10⁻³** [1]
 
 **8.** 8.836 × 10¹⁹ [1] = **8.84 × 10¹⁹** (3 s.f.) [1]

@@ -64,6 +64,12 @@ For the smallest result, swap every choice: LB + LB, LB − UB, LB × LB, LB ÷ 
 - **Suitable accuracy:** round both bounds; the answer is the most accurate rounding at which they agree, with that reason stated.
 - **"Will definitely fit / be enough":** use the worst case for every value.
 
+## Worked recall
+
+**Bounds from significant figures.** A distance of 0.0730 km, correct to 3 s.f., has unit 0.0001 and half-unit 0.00005, so 0.07295 ≤ d < 0.07305.
+
+**Estimating a square root.** √(0.0083) ≈ ? Round to 1 s.f.: 0.008, which has no simple root; use the nearby square 0.0081 = 0.09², so the estimate is 0.09.
+
 ## Key terms
 
 | Term | Meaning |
