@@ -88,6 +88,8 @@ Example: rent rises from £9,600 to £11,040 a year. Change = £1,440. Percentag
 - Comparing sites on cost alone ignores the revenue each site could bring.
 - A forecast of customers at a new site is only a forecast; say so in Evaluate answers.
 - Use the figures in the source; a generic list of factors earns little in Analyse questions.
+- "Proximity to labour" is about the right skills as well as the number of workers; a site near many people may still lack the specialists a business needs.
+- A cheaper site is not automatically better: lower rent can come with lower footfall, so compare revenue as well as cost.
 
 ## Self-test
 

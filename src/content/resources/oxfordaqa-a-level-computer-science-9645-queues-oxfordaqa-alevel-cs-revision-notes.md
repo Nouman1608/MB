@@ -73,6 +73,18 @@ Size 5: 3 → 4 → 0 → 1. Without MOD, the pointer runs off the end of the ar
 Logical contents of a circular queue: start at `front`, move forward with wrap, stop before `rear` (or after
 `count` items). Values left in the array outside that range are **not** in the queue.
 
+## Worked reminder: a count-based trace
+
+Size 3, front = 0, rear = −1, count = 0. Enqueue X, Y, Z; dequeue; enqueue W.
+
+| After | Array | front | rear | count |
+|---|---|---|---|---|
+| enqueue X, Y, Z | X, Y, Z | 0 | 2 | 3 (full) |
+| dequeue (returns X) | X, Y, Z | 1 | 2 | 2 |
+| enqueue W | W, Y, Z | 1 | 0 | 3 (full) |
+
+Logical queue at the end: Y, Z, W.
+
 ## When a queue fits
 
 | Situation | Why FIFO matters |
