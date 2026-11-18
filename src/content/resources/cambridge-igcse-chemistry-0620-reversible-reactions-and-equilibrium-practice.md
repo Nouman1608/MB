@@ -95,6 +95,8 @@ The forward reaction is exothermic.
 
 **12.** *(Extended)* A student says: "At equilibrium nothing is happening because the amounts do not change." Explain why the student is wrong. **[2]**
 
+**13.** Describe an experiment to show that the dehydration of hydrated cobalt(II) chloride is reversible. Include what you would see at each stage. **[4]**
+
 ## Answers
 
 **1.** The reaction is reversible / can go in both the forward and reverse directions [1].
@@ -132,6 +134,8 @@ The forward reaction is exothermic.
 **11.** Burning sulfur [1]; roasting sulfide ores [1].
 
 **12.** Equilibrium is dynamic: the forward and reverse reactions are both still happening [1]; they happen at equal rates, so the concentrations stay constant [1].
+
+**13.** Heat pink hydrated cobalt(II) chloride crystals in a test tube [1]; the solid turns blue (and water vapour is given off) [1]; allow to cool, then add a few drops of water [1]; the solid turns back to pink (and warms up), showing the reaction goes in the reverse direction [1].
 
 ---
 

@@ -69,6 +69,8 @@ Concentrations are **constant**, not equal. Reactions have **not** stopped.
 
 Equal moles of gas on each side → pressure has no effect on position.
 
+**Quick worked shift.** For 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), forward exothermic: cooling → shifts right, more SO₃; raising pressure → shifts right (3 mol gas → 2 mol), more SO₃; adding extra O₂ → shifts right, more SO₃; removing SO₃ → shifts right to replace it.
+
 **Four-step method:** identify the change → find the information (ΔH sign, gas moles) → apply the rule → state the effect on yield or colour.
 
 ## Haber process *(Extended)*
