@@ -101,7 +101,7 @@ What you would see: a fast, often vigorous reaction, with **steamy fumes of HCl*
 
 | Term | Meaning |
 |---|---|
-| ester | compound containing the –COO– group joining an acyl group to an alkyl or aryl group |
+| ester | RCOOR′: an acyl group RCO– bonded through oxygen to an alkyl or aryl group R′ |
 | acyl chloride | compound containing –COCl; very reactive towards nucleophiles |
 | acyl group | R–C=O part of the molecule |
 | aryl ester | ester whose oxygen is bonded to a benzene ring, such as phenyl benzoate |

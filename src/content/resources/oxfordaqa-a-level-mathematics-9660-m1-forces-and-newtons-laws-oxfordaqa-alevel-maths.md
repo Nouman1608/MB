@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-psm1-m1-mechanics-oxfordaqa-alevel-maths"
     subtopic: "m1-forces-and-newtons-laws-oxfordaqa-alevel-maths"
-description: "OxfordAQA 9660 M1.3 in depth: equilibrium, finding friction coefficients, lifts in stages, trains of three bodies, slack ropes and pulley problems with a second stage."
+description: "OxfordAQA 9660 M1.3 in depth: equilibrium, finding friction coefficients, lifts in stages, three-body trains, slack ropes and two-stage pulley problems."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "introduction-to-microeconomics-ocr-alevel-economics"
-description: "Original OCR A Level Economics (H460) questions with mark-scheme answers on scarcity, rationality, incentives, economic systems, efficiency and opportunity cost."
+description: "Original OCR A Level Economics (H460) questions with mark-scheme answers on scarcity, rationality, incentives, systems, efficiency and opportunity cost."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

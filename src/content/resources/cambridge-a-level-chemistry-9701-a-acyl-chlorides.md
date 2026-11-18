@@ -128,9 +128,10 @@ C–Cl bond is broken.
 - **Alkyl chloride.** The carbon is δ+ only because of chlorine. It is sp³ and tetrahedral, with no
   π bond to accept electrons, so the nucleophile has to displace Cl⁻ directly (SN1 or SN2). The
   activation energy is higher.
-- **Aryl chloride.** A lone pair on chlorine overlaps with the delocalised π system of the ring,
-  giving the C–Cl bond partial double-bond character, so it is shorter and stronger. The electron-rich
-  ring also repels an approaching nucleophile. Hydrolysis does not happen under these conditions.
+- **Aryl chloride.** One chlorine lone pair is drawn into the delocalised π system of the ring. The
+  C–Cl bond therefore has some double-bond character and needs more energy to break. The cloud of
+  π electrons also repels an approaching nucleophile. Hydrolysis does not happen under these
+  conditions.
 
 ## Worked example 1: an annotated mechanism answer
 

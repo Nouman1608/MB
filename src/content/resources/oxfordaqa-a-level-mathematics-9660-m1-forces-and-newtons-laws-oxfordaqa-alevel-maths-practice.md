@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-psm1-m1-mechanics-oxfordaqa-alevel-maths"
     subtopic: "m1-forces-and-newtons-laws-oxfordaqa-alevel-maths"
-description: "OxfordAQA 9660 M1.3 practice questions with worked answers: friction, lifts, vertical strings, pulleys with a second stage, trains, tow bars and Newton's third law."
+description: "OxfordAQA 9660 M1.3 practice questions with worked answers: friction, lifts, vertical strings, two-stage pulleys, trains, tow bars and the third law."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

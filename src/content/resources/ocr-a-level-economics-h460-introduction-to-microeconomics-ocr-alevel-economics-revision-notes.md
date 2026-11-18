@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "introduction-to-microeconomics-ocr-alevel-economics"
-description: "Condensed OCR A Level Economics (H460) notes on Introduction to microeconomics: the economic problem, resource allocation and opportunity cost, with a self-test."
+description: "Condensed OCR A Level Economics (H460) notes on Introduction to microeconomics: the economic problem, resource allocation and opportunity cost, plus self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
