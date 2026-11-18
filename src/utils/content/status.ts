@@ -24,7 +24,7 @@
  *                          enrolment path exists (see WS3 — today there is
  *                          no automated enrolment, only an enquiry route)
  */
-import { getCollection } from 'astro:content';
+import { allResourceEntries } from './collections';
 import { MATRIX } from '../../data/academic/matrix';
 import { SUBJECTS as CANONICAL_SUBJECTS } from '../../data/academic/subjects';
 
@@ -77,7 +77,7 @@ export async function resourcesAvailableFor(subjectContentId: string): Promise<{
   // QIGT programme -- exclude draft resources from the count so a subject's
   // advertised resource count never includes a page that getStaticPaths
   // doesn't actually build (see src/utils/content/collections.ts).
-  const resources = (await getCollection('resources')).filter((r) => r.data.reviewStatus !== 'draft');
+  const resources = (await allResourceEntries()).filter((r) => r.data.reviewStatus !== 'draft');
   const count = resources.filter((r) => r.data.subject.id === subjectContentId).length;
   return { count, available: count > 0 };
 }

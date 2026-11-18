@@ -1,4 +1,5 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
+import { allResourceEntries } from './collections';
 import { sameCourse } from '../academic/combination-resources';
 import { PAGE_TWO_RESOURCES } from '../../data/search-boost';
 
@@ -13,6 +14,41 @@ import { PAGE_TWO_RESOURCES } from '../../data/search-boost';
  */
 const isPublishedResource = (r: CollectionEntry<'resources'>) => r.data.reviewStatus !== 'draft';
 const isPublishedArticle = (a: CollectionEntry<'articles'>) => !a.data.draft && a.data.reviewStatus !== 'draft';
+
+/**
+ * D-501 -- shared, build-cached views of the published resources (see
+ * allResourceEntries() in collections.ts). A resource page used to re-read the
+ * collection, filter it, and sort it by id on every call; that per-page work
+ * grew with the collection and dominated the build. These views are made once:
+ * the published list, an id map, and per-subject lists in collection order
+ * and in id order.
+ * sameCourse() requires the same subject, so filtering a subject's list gives
+ * exactly the same course list, in the same order, as filtering everything.
+ */
+interface PublishedViews {
+  published: CollectionEntry<'resources'>[];
+  byId: Map<string, CollectionEntry<'resources'>>;
+  bySubject: Map<string, CollectionEntry<'resources'>[]>;
+  bySubjectSorted: Map<string, CollectionEntry<'resources'>[]>;
+}
+let views: Promise<PublishedViews> | undefined;
+async function buildViews(): Promise<PublishedViews> {
+  const published = (await allResourceEntries()).filter(isPublishedResource);
+  const byId = new Map(published.map((r) => [r.id, r]));
+  const group = (list: readonly CollectionEntry<'resources'>[]) => {
+    const m = new Map<string, CollectionEntry<'resources'>[]>();
+    for (const r of list) {
+      const l = m.get(r.data.subject.id) ?? [];
+      l.push(r);
+      m.set(r.data.subject.id, l);
+    }
+    return m;
+  };
+  const bySubject = group(published);
+  const bySubjectSorted = group([...published].sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0)));
+  return { published, byId, bySubject, bySubjectSorted };
+}
+const publishedViews = (): Promise<PublishedViews> => (import.meta.env.DEV ? buildViews() : (views ??= buildViews()));
 
 /**
  * Merges hand-picked relations with derived ones (same subject, level or topic),
@@ -48,9 +84,11 @@ export async function relatedResources(
   },
 ): Promise<CollectionEntry<'resources'>[]> {
   const { subject, level, topic, boards, picked = [], excludeId, limit = 3, sameCourseAs } = opts;
-  const published = (await getCollection('resources')).filter(isPublishedResource);
-  const eligible = sameCourseAs ? published.filter((r) => sameCourse(sameCourseAs, r)) : published;
-  const byId = new Map(published.map((r) => [r.id, r]));
+  const { published, byId, bySubjectSorted } = await publishedViews();
+  // Course pages come from the subject's id-ordered list, so they are already sorted.
+  const eligible = sameCourseAs
+    ? (bySubjectSorted.get(sameCourseAs.data.subject.id) ?? []).filter((r) => sameCourse(sameCourseAs, r))
+    : published;
   /**
    * D-322 -- spread related links evenly. Each tier used to be walked in
    * collection order, so every page on a subject picked the same first
@@ -63,7 +101,7 @@ export async function relatedResources(
    * link to each other in a ring and every resource is linked by its
    * nearest siblings. Callers without excludeId keep the old order.
    */
-  const sortedIds = excludeId ? [...eligible].sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0)) : eligible;
+  const sortedIds = excludeId && !sameCourseAs ? [...eligible].sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0)) : eligible;
   const start = excludeId ? sortedIds.findIndex((r) => r.id === excludeId) : -1;
   const all = start >= 0 ? [...sortedIds.slice(start + 1), ...sortedIds.slice(0, start + 1)] : sortedIds;
 
@@ -125,7 +163,7 @@ export async function relatedArticles(
 
 /** Resources belonging to one subject, optionally filtered by category. */
 export async function resourcesForSubject(subjectId: string, resourceType?: string) {
-  const all = (await getCollection('resources')).filter(isPublishedResource);
+  const { published: all } = await publishedViews();
   return all
     .filter((r) => r.data.subject.id === subjectId && (!resourceType || r.data.resourceType === resourceType))
     .sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
@@ -139,8 +177,10 @@ export async function resourcesForSubject(subjectId: string, resourceType?: stri
  */
 export async function topicSiblings(entry: CollectionEntry<'resources'>) {
   if (!entry.data.topic) return { prev: null, next: null };
-  const siblings = (await getCollection('resources'))
-    .filter((r) => isPublishedResource(r) && r.data.topic === entry.data.topic && sameCourse(entry, r))
+  // Collection order (not id order), so ties on `order` resolve as before.
+  const { bySubject } = await publishedViews();
+  const siblings = (bySubject.get(entry.data.subject.id) ?? [])
+    .filter((r) => r.data.topic === entry.data.topic && sameCourse(entry, r))
     .sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
   const i = siblings.findIndex((r) => r.id === entry.id);
   return {
@@ -159,7 +199,7 @@ export async function articlesByAuthor(authorId: string) {
 
 /** Published resources authored by one author, most recent first. */
 export async function resourcesByAuthor(authorId: string) {
-  const all = (await getCollection('resources')).filter(isPublishedResource);
+  const { published: all } = await publishedViews();
   return all
     .filter((r) => r.data.author?.id === authorId)
     .sort((a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf());

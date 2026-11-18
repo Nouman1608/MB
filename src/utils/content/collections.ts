@@ -21,10 +21,39 @@ export const getSubjects = async (): Promise<CollectionEntry<'subjects'>[]> =>
  */
 export const getResources = async (
   { includeDrafts = false } = {},
-): Promise<CollectionEntry<'resources'>[]> =>
-  (await getCollection('resources'))
+): Promise<CollectionEntry<'resources'>[]> => {
+  const key = includeDrafts ? 'all' : 'published';
+  const cached = BUILD_CACHE && sortedResources.get(key);
+  if (cached) return [...cached];
+  const sorted = (await allResourceEntries())
     .filter((r) => includeDrafts || r.data.reviewStatus !== 'draft')
     .sort((a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf());
+  if (BUILD_CACHE) sortedResources.set(key, sorted);
+  return [...sorted];
+};
+
+/**
+ * D-501 -- build-time cache for the resources collection. Astro's
+ * getCollection() rebuilds every entry object on each call, and a resource
+ * page called it (directly or through getResources()) about five times, each
+ * time also re-sorting. With 16,000+ resources that per-page work grew with
+ * the collection and took about 65% of the build's CPU time, pushing the
+ * Cloudflare build past its 20-minute limit. The collection cannot change
+ * during a production build, so it is read once and shared. Dev keeps reading
+ * fresh so edits show up without a restart. Callers get a fresh array (the
+ * entries are shared), so sorting or filtering the result is safe; mutating an
+ * entry is not, and no caller does.
+ */
+const BUILD_CACHE = !import.meta.env.DEV;
+let resourceEntries: Promise<CollectionEntry<'resources'>[]> | undefined;
+const sortedResources = new Map<string, CollectionEntry<'resources'>[]>();
+
+/** Every resource entry, drafts included, in collection order (cached for the build). */
+export async function allResourceEntries(): Promise<CollectionEntry<'resources'>[]> {
+  if (!BUILD_CACHE) return getCollection('resources');
+  resourceEntries ??= getCollection('resources');
+  return [...(await resourceEntries)];
+}
 
 /**
  * QIGT programme -- articles carry TWO separate draft signals: the

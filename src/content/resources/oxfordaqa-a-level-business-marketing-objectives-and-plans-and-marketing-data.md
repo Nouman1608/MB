@@ -24,6 +24,7 @@ reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
+updatedDate: 2026-11-18
 featured: false
 reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
@@ -32,7 +33,7 @@ This guide covers sections 3.1.2.1 Marketing objectives and plans and 3.1.2.2 Ma
 
 Related pages: the [Marketing overview study guide](/resources/a-level-oxfordaqa-business-marketing/), the [revision notes for this unit](/resources/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data-revision-notes/), the [practice questions for this unit](/resources/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data-practice/), the [course hub](/boards/oxfordaqa/a-level/business/) and the [printable checklist](/checklists/oxfordaqa/a-level/business/). To find weak spots first, try the [free diagnostics](/diagnostics/).
 
-Neither specification prints formulas for the calculations, so the formulas below are the standard forms.
+The 9725 specification prints the formulas for these calculations in its appendix, Formulae and Key data; the 9625 specification does not print formulas. The formulas below match the 9725 appendix.
 
 ## The importance of marketing (9625 only)
 
@@ -57,9 +58,9 @@ A marketing objective is a measurable, time-limited target for the marketing fun
 - **Brand loyalty (9725 only)**: customers choosing the same brand again, often over rivals.
 - **Sales per product, employee, region, store or customer**: sales divided by the count.
 
-Standard forms:
+Formulas:
 
-| Measure | Standard form |
+| Measure | Formula |
 |---|---|
 | Market share | business sales / total market sales x 100 |
 | Customer retention rate | (customers at end - new customers gained) / customers at start x 100 |
@@ -118,21 +119,24 @@ Value of a plan: it turns an aim into actions, ties spending to objectives, lets
 
 ### Return on marketing spending (9725 only)
 
-Use the standard form and state what you are measuring:
+The 9725 specification's appendix gives:
 
-Return on marketing spending (%) = (extra profit gained from the marketing - marketing spend) / marketing spend x 100
+Return on marketing spending (%) = profit from marketing activities / marketing spend x 100
+
+Some textbooks subtract the marketing spend from the profit first, which gives a lower figure. Use the specification's version unless a question tells you otherwise, and state what you are measuring.
 
 **Worked example: Peppermill café group.** Peppermill had a marketing budget of 18,000 (social media 40%, local press 20%, loyalty cards 30%, menus 10%). It estimated the campaign produced 90,000 of extra sales revenue. Its gross profit margin is 40%.
 
 - Extra gross profit = 90,000 x 0.40 = 36,000.
-- Return = (36,000 - 18,000) / 18,000 x 100 = **100%**.
+- Return = 36,000 / 18,000 x 100 = **200%**.
+- With the spend subtracted first, as some textbooks do: (36,000 - 18,000) / 18,000 x 100 = 100%.
 - Revenue ratio = 5 to 1 looks better than the profit measure, which is why profit is preferred.
 
 Limit: not all extra sales may come from the campaign.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--06-return-on-marketing-spend.webp" width="900" height="910" alt="Bars show extra revenue 90,000, extra gross profit 36,000 and spend 18,000; the gain of 18,000 divided by the spend gives a 100 percent return." loading="lazy">
-  <figcaption>Return on marketing spend uses extra profit, not revenue: here (36,000 - 18,000) / 18,000 = 100%.</figcaption>
+  <figcaption>Return on marketing spend uses extra profit, not revenue. The 9725 formula gives 36,000 / 18,000 x 100 = 200%; the figure shows the textbook version that subtracts the spend first, (36,000 - 18,000) / 18,000 = 100%.</figcaption>
 </figure>
 
 <figure class="topic-figure">

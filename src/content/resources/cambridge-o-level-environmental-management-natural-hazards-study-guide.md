@@ -32,6 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 reviewNote: "Check how deeply the 2027-2029 syllabus expects plate tectonics, hazard scales and named case studies to be covered for sub-topics 6.1 to 6.4; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
+updatedDate: 2026-11-18
 featured: false
 ---
 
@@ -69,15 +70,15 @@ The Earth's crust is broken into **tectonic plates** that move slowly on the man
 
 A tropical cyclone (also called a hurricane or typhoon, depending on region) is a large, rotating storm with very low pressure and strong winds.
 
-**Formation needs:** sea surface temperature of about 26 to 27 degrees Celsius or more, a large area of warm ocean, and a location away from the equator so the Earth's rotation can spin the system. Warm, moist air rises, condenses, and releases heat that powers the storm. When it moves over land or cold water it loses its energy supply and weakens.
+**Formation needs:** a sea surface temperature of at least 27 °C, a large area of warm ocean, and a location away from the equator so the Earth's rotation can spin the system. Warm, moist air rises, condenses, and releases heat that powers the storm. When it moves over land or cold water it loses its energy supply and weakens.
 
 **Effects:** strong winds that destroy buildings and crops, heavy rain causing flooding and landslides, and **storm surge** (a rise in sea level driven by wind and low pressure) that floods coastal areas and causes most deaths.
 
 **Management:** satellite tracking and forecasts, early warnings, evacuation, cyclone shelters, strengthened buildings, coastal defences such as mangroves and sea walls, and insurance and aid for recovery. Compare the death tolls in richer and poorer countries to show how preparation changes outcomes.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--03-cyclone-formation.webp" width="900" height="900" alt="Cross-section of a tropical cyclone over warm ocean. Sea surface temperature of about 26 to 27 degrees Celsius or more heats the air. Warm moist air rises in two cloud walls either side of a clear eye, condenses and releases heat that powers the storm, then flows out at the top. Earth's rotation spins the system, so the storm must be away from the equator. When the storm moves over land it loses its supply of warm water and weakens." loading="lazy">
-  <figcaption>A tropical cyclone needs warm ocean of about 26 to 27 degrees Celsius or more and distance from the equator; it weakens over land.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--03-cyclone-formation.webp" width="900" height="900" alt="Cross-section of a tropical cyclone over warm ocean. Sea surface temperature of at least 27 degrees Celsius heats the air. Warm moist air rises in two cloud walls either side of a clear eye, condenses and releases heat that powers the storm, then flows out at the top. Earth's rotation spins the system, so the storm must be away from the equator. When the storm moves over land it loses its supply of warm water and weakens." loading="lazy">
+  <figcaption>A tropical cyclone needs warm ocean of at least 27 °C (the figure the syllabus gives) and distance from the equator; it weakens over land.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -152,7 +153,7 @@ Questions with **explain why** need a reason chain: cause, process, consequence.
 ## Check your understanding
 
 1. Define the epicentre of an earthquake. *The point on the Earth's surface directly above the focus.*
-2. Give two conditions needed for a tropical cyclone to form. *Sea temperature of about 26 to 27 degrees Celsius or more, and a location away from the equator.*
+2. Give two conditions needed for a tropical cyclone to form. *Sea temperature of at least 27 °C, and a location away from the equator.*
 3. Why is storm surge so dangerous? *It floods low-lying coasts with sea water, and it causes most cyclone deaths.*
 4. Rainfall peaks at 09:15 and the river peaks at 13:45. State the lag time. *4 hours 30 minutes.*
 5. Name one hard and one soft engineering flood strategy. *Hard: a dam or levee. Soft: afforestation or floodplain zoning.*
@@ -166,7 +167,7 @@ Questions with **explain why** need a reason chain: cause, process, consequence.
 A hazard is the natural event; a disaster happens when a hazard seriously damages a vulnerable community. Calling a hazard a disaster without mentioning vulnerability is a common mistake.
 
 **What sea temperature is needed for a tropical cyclone to form?**
-Tropical cyclones need a sea surface temperature of about 26 to 27 degrees Celsius or more over a large area of warm ocean. They do not form over just any warm area.
+Tropical cyclones need a sea surface temperature of at least 27 °C over a large area of warm ocean. They do not form over just any warm area.
 
 **How do humans increase flood risk?**
 Deforestation reduces interception of rainfall, and urbanisation covers the ground with concrete and tarmac that stop infiltration, so water runs quickly into drains and rivers. Building on floodplains and poorly maintained drainage add to the risk.

@@ -24,6 +24,7 @@ reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
+updatedDate: 2026-11-18
 featured: false
 reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
@@ -73,7 +74,7 @@ These questions cover sections 3.1.2.1 Marketing objectives and plans and 3.1.2.
 **3.** North: 540,000 / 9 = 60,000 [1]. South: 462,000 / 7 = 66,000 [1]. East: 288,000 / 6 = 48,000 [1]. East is weakest. A suitable question: is the lower figure due to a smaller market in East, weaker promotion there, or too many staff for its sales? [1] **[4]**
 *Examiner insight:* A question that follows from the data tends to be stronger than one that ignores the figures; link it to demand, promotion or staffing.
 
-**4.** Extra gross profit = 62,500 x 0.36 = 22,500 [1]. Return = (extra profit - spend) / spend x 100 [1] = (22,500 - 12,500) / 12,500 x 100 [1] = **80%** [1]. **[4]**
+**4.** Extra gross profit = 62,500 x 0.36 = 22,500 [1]. Return = profit from marketing activities / marketing spend x 100 [1] = 22,500 / 12,500 x 100 [1] = **180%** [1]. **[4]** (Some textbooks subtract the spend first, giving (22,500 - 12,500) / 12,500 x 100 = 80%; the 9725 specification's formula does not.)
 *Examiner insight:* The question asks for extra profit, so a revenue-based ratio of 5 to 1 would not answer it. Stating the formula you use makes your method clear.
 
 **5.** In 9625 the elements are marketing objectives, strategy, tactics and the budget [1]. A budget sets a limit on spending [1] so managers must choose between activities and can compare the results with the money spent [1]. **[3]**
@@ -97,7 +98,7 @@ These questions cover sections 3.1.2.1 Marketing objectives and plans and 3.1.2.
 **11.** Option A gives numerical data from a large sample [1] but takes three weeks, leaving only a week to analyse, and loyalty-card members may not represent all customers [1]. Option B explains reasons and reactions [1] but covers few people, so findings may not be reliable, and it uses most of the budget [1]. Option C is free and fast [1] but is general and not specific to the new range, and social media views may not be typical [1]. Judgement: use C first, as it is cheap and quick, then A, since 2,400 and three weeks fit within the budget and time limit [1]. Option A costs 2,400, well within 5,000, and tests the actual range with a sample large enough to count [1]. B is left out because it would cost most of the budget and add less reliable evidence; if the survey shows an unexpected result, focus groups could be added to explain it. Reasoned recommendation that weighs cost, time and reliability [1]. **[9]**
 *Examiner insight:* Evaluation tends to gain credit when a conclusion is reached and justified against the stated limits (budget, four weeks), rather than listing the three options evenly.
 
-**12.** Extra demand is 6,000 x 0.30 = 1,800 units [1], but capacity is only 900 extra units [1]. Extra revenue = 900 x 700 = 630,000 [1]. Extra gross profit = 630,000 x 0.20 = 126,000 [1]. Return = (126,000 - 40,000) / 40,000 x 100 = 215% [1]. For going ahead: return is positive even when capped [1]. Against: 900 units of demand cannot be met, so customers may be lost or delayed and the brand harmed, and the demand estimate may be wrong [1]. A fairer comparison would also consider the cost of raising capacity [1]. Judgement: go ahead, but only with the supply limit managed, for example by adding capacity or advertising within what can be supplied [1]. **[9]**
+**12.** Extra demand is 6,000 x 0.30 = 1,800 units [1], but capacity is only 900 extra units [1]. Extra revenue = 900 x 700 = 630,000 [1]. Extra gross profit = 630,000 x 0.20 = 126,000 [1]. Return = 126,000 / 40,000 x 100 = 315% [1]. For going ahead: extra gross profit is well above the 40,000 cost even when capped [1]. Against: 900 units of demand cannot be met, so customers may be lost or delayed and the brand harmed, and the demand estimate may be wrong [1]. A fairer comparison would also consider the cost of raising capacity [1]. Judgement: go ahead, but only with the supply limit managed, for example by adding capacity or advertising within what can be supplied [1]. **[9]**
 *Examiner insight:* Capacity is a resource named in the specification, and good answers use it to adjust the numbers rather than quote the demand estimate without checking supply.
 
 ## Where marks are usually lost

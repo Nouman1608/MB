@@ -24,6 +24,7 @@ reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
+updatedDate: 2026-11-18
 featured: false
 reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
@@ -32,9 +33,9 @@ Condensed notes for sections 3.1.2.1 Marketing objectives and plans and 3.1.2.2 
 
 ## Marketing objectives: the list and the calculations
 
-Both versions list five of these; brand loyalty is 9725 only. The formulas are the standard forms (the specification does not print them).
+Both versions list five of these; brand loyalty is 9725 only. The formulas match the 9725 specification's appendix, Formulae and Key data (the 9625 specification does not print formulas).
 
-| Objective | What it tells you | Standard form |
+| Objective | What it tells you | Formula |
 |---|---|---|
 | Sales volume | Units sold | Count of units |
 | Sales value | Sales revenue | Price x quantity |
@@ -99,17 +100,19 @@ Elements: 9625 has marketing objectives, strategy (overall approach), tactics (s
 
 Purpose of a plan: turns aims into actions, coordinates departments, lets managers monitor results. Limit: depends on the quality of data and can be slow to change.
 
-**Return on marketing spending (9725 only)**, standard form:
+**Return on marketing spending (9725 only)**, as the 9725 appendix gives it:
 
-Return (%) = (extra profit from the marketing - marketing spend) / marketing spend x 100
+Return (%) = profit from marketing activities / marketing spend x 100
 
-Worked reminder: spend 10,000 produces 30,000 extra revenue at a 50% gross margin. Extra gross profit is 15,000. Return = (15,000 - 10,000) / 10,000 x 100 = 50%. The revenue ratio is 3 to 1, which flatters the campaign. Always say which measure you use.
+Some textbooks subtract the spend from the profit first; use the specification's version unless a question says otherwise.
+
+Worked reminder: spend 10,000 produces 30,000 extra revenue at a 50% gross margin. Extra gross profit is 15,000. Return = 15,000 / 10,000 x 100 = 150% (with the spend subtracted first, as some textbooks do: 50%). The revenue ratio is 3 to 1, which flatters the campaign. Always say which measure you use.
 
 Caution: extra sales may not all come from the campaign.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--06-return-on-marketing-spend.webp" width="900" height="910" alt="Bars show extra revenue 90,000, extra gross profit 36,000 and spend 18,000; the gain of 18,000 divided by the spend gives a 100 percent return." loading="lazy">
-  <figcaption>Return on marketing spend uses extra profit, not revenue: here (36,000 - 18,000) / 18,000 = 100%.</figcaption>
+  <figcaption>Return on marketing spend uses extra profit, not revenue. The 9725 formula gives 36,000 / 18,000 x 100 = 200%; the figure shows the textbook version that subtracts the spend first, (36,000 - 18,000) / 18,000 = 100%.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -235,7 +238,7 @@ Stratified method in steps: split the population into groups, work out each grou
 2. 9 / 75 x 100 = 12%.
 3. 560 / 700 x 100 = 80%.
 4. 450,000 / 15 = 30,000 per employee.
-5. (Extra profit gained - marketing spend) divided by marketing spend, times 100.
+5. Profit from marketing activities divided by marketing spend, times 100.
 6. 9625: objectives, strategy, tactics, budget. 9725: objectives, marketing mix, budget.
 7. Budget, skills of employees, capacity.
 8. 15, 10 and 5.
@@ -280,7 +283,7 @@ Stratified method in steps: split the population into groups, work out each grou
 The objectives are sales volume, sales value, market share, customer retention and repeat sales, sales per product, employee, region, store or customer, and brand loyalty. Both specifications list the first five; brand loyalty is in 9725 only.
 
 **How do you calculate return on marketing spending?**
-Return on marketing spending is the extra profit gained from the marketing minus the marketing spend, divided by the marketing spend, multiplied by 100. It appears in 9725 only, and not all extra sales may come from the campaign.
+Return on marketing spending is the profit from marketing activities divided by the marketing spend, multiplied by 100, as the 9725 specification's formulae appendix gives it; some textbooks subtract the spend from the profit first. It appears in 9725 only, and not all extra sales may come from the campaign.
 
 **Can sales volume rise while sales value falls?**
 Yes. If a business cuts its prices, it may sell more units while its total revenue falls. Equally, value can rise while volume falls if prices go up.
