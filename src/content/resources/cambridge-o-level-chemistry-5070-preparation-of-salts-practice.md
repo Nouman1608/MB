@@ -135,3 +135,5 @@ Calculate the percentage yield. **[3]**
 - Question 10: saying the acid "ran out". Both reactants remain; the insoluble coating is the cause.
 - Question 11: dividing 1.80 by 1.06 directly. Convert both masses to moles first.
 - Question 12: using the Mr of anhydrous CuSO₄ (160) when the product is the hydrated salt.
+- Question 9(a): writing "because it is quicker". The reason is solubility: with two solutions there is no excess solid to remove.
+- Question 13: saying the copper(II) sulfate "decomposed" or "burned". Only the water of crystallisation has been lost; adding water turns the powder blue again.

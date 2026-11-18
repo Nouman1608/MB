@@ -122,6 +122,10 @@ Classify each oxide as acidic, basic or amphoteric. **[4]**
 
 **13.** Basic oxide, because X is a metal [1]. XO + 2HCl → XCl₂ + H₂O: correct products [1]; balanced [1].
 
+**14. (a)** The pH falls / goes below 7 [1].
+
+**(b)** Sulfur is a non-metal, so sulfur dioxide is an acidic oxide, which forms an acidic solution in water [1].
+
 ---
 
 ## Where marks are usually lost
@@ -134,3 +138,5 @@ Classify each oxide as acidic, basic or amphoteric. **[4]**
 - Question 9: describing the pattern without explaining it using metallic and non-metallic character.
 - Question 10(c): saying calcium oxide "absorbs" sulfur dioxide without explaining the acid–base reaction.
 - Question 13: writing XCl for the chloride. A Group II metal forms X²⁺ ions, so the formula is XCl₂.
+- Question 14(a): writing "the pH rises" because the rain "becomes more acidic". More acidic means a lower pH.
+- Question 12: suggesting a stronger indicator or more water. No amount of water dissolves aluminium oxide; the acid and alkali tests are needed.

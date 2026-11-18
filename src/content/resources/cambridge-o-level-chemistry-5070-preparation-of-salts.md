@@ -76,7 +76,7 @@ For a soluble salt from two solutions, such as sodium sulfate from sodium hydrox
 3. **Repeat without the indicator**, mixing the same volumes. *Reason: the indicator would contaminate the salt.*
 4. Evaporate to the point of crystallisation, cool, filter and dry as above.
 
-There is no excess to filter off: the exact volumes ensure that neither acid nor alkali is left over.
+There is no excess to filter off: the exact volumes ensure that neither acid nor alkali is left over. The pipette and burette matter because the method depends on reproducing exactly the volumes found in the first run; a measuring cylinder is not precise enough.
 
 ## Precipitation for insoluble salts
 
