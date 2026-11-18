@@ -176,7 +176,8 @@ The four pages were corrected and reassessed. The records above are kept as hist
 |---|---|---:|---|---|
 | QA-0006 | QA-0001 | 95.5 | VERIFIED_APPROVED (18 Nov 2026, D-497) | One image label |
 | QA-0007 | QA-0002 | 91.5 | VERIFIED_APPROVED (18 Nov 2026, D-497) | One image rounds an intermediate value |
-| QA-0008 | QA-0003 | 88.0 | REVISION_REQUIRED | Level descriptors for the 10-mark answer; one study procedure unchecked; the 9990 series ends at 2026 |
+| QA-0008 | QA-0003 | 88.0 | Replaced by QA-0010 (18 Nov 2026) | — |
+| QA-0010 | QA-0008 | 90.5 | ACADEMIC_REVIEW_PENDING | Teacher verification, including the Marlbridge level guide for the 10-mark answer; Freeman et al. (2003) checked against the abstract only; the 9990 series ends at 2026 |
 | QA-0009 | QA-0005 | 92.0 | ACADEMIC_REVIEW_PENDING | Teacher verification |
 
 Details: `docs/reports/academic-qa/pilot-closure-report.md`. Assessment dates use the UTC date, the one the validator compares against.

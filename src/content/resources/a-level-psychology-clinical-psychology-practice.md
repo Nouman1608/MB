@@ -36,7 +36,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-08
-updatedDate: 2026-11-17
+updatedDate: 2026-11-18
 featured: false
 ---
 
@@ -96,7 +96,7 @@ In the exam, Paper 4 Section A has two structured questions on each option, wort
 
 **1. (a)** One mark each for any two, briefly outlined: avolition (lack of motivation to start or keep up activities); alogia or poverty of speech (very little speech or empty replies); flat or blunted affect (reduced emotional expression); social withdrawal or asociality; anhedonia (loss of pleasure).
 
-**1. (b)** Up to 4 marks. Twenty-four non-clinical participants (1). They entered a virtual reality library scene containing computer-generated characters that behaved neutrally (1). They also completed questionnaire assessments of psychiatric symptoms such as anxiety and interpersonal sensitivity (1). They then reported their thoughts about the virtual characters, which were assessed for persecutory content (1). Credit any accurate detail of the standardised environment.
+**1. (b)** Up to 4 marks. Twenty-four non-clinical participants (1). They entered a virtual reality library scene containing computer-generated characters that behaved neutrally (1). They also completed assessments of psychiatric symptoms, such as anxiety and interpersonal sensitivity (1). They then reported their thoughts about the virtual characters, which were assessed for persecutory content (1). Credit any accurate detail of the standardised environment.
 
 **2. (a)** Up to 3 marks. Beck proposed that depressed people hold negative views of three things (1): the **self** (e.g. "I am worthless") (1), the **world** or their experiences (e.g. "nobody cares about me") and the **future** (e.g. "things will never improve") (1). These are automatic and maintained by cognitive errors.
 
@@ -106,7 +106,15 @@ In the exam, Paper 4 Section A has two structured questions on each option, wort
 
 **4. (a)** Up to 6 marks for a clear, detailed description. Based on classical conditioning and reciprocal inhibition: relaxation and fear cannot occur at the same time (1). The client is taught relaxation techniques such as deep breathing or progressive muscle relaxation (1). Client and therapist build an anxiety hierarchy from least to most feared situations (1). The client is exposed to each step while relaxed, starting at the bottom (1). They move up only when calm at the current step (1). Exposure can be imagined (in vitro) or real (in vivo), and the end point is the most feared situation with no fear response (1).
 
-**4. (b)** Marked by levels of response. An answer at the top of the range (9–10 marks) gives detailed, balanced evaluation, develops the named issue and reaches a conclusion; an answer that lists points without developing them, or leaves out the named issue, earns fewer marks. This page does not reproduce Cambridge's level descriptors: use a published Cambridge mark scheme to place an answer in a lower level. Indicative content:
+**4. (b)** Marked as a whole answer against levels, not as separate points. The 9990 syllabus does not publish level descriptors for this question, so the levels below are Marlbridge's own guide, not Cambridge's published mark scheme. They are based on the syllabus's description of assessment objective AO3, Analysis and evaluation: explaining strengths and weaknesses, using a range of evidence, and reaching a conclusion from that evidence. Choose the level that fits the answer best, then the mark within it. If you have a Cambridge mark scheme for a real paper, use its level descriptors instead.
+
+- **Level 4 (9–10 marks):** a detailed, balanced evaluation with a range of points, each explained and supported with evidence; idiographic versus nomothetic is developed and applied to systematic desensitisation; a reasoned conclusion follows from the points made.
+- **Level 3 (6–8 marks):** a range of points, most of them explained, but less detailed or less balanced; idiographic versus nomothetic is discussed but not fully developed, or is missing from an otherwise strong answer; any conclusion is brief or only partly supported.
+- **Level 2 (3–5 marks):** a few relevant points that are listed or only partly explained, or an answer that is mostly one-sided; idiographic versus nomothetic may be named but is not applied to the treatment.
+- **Level 1 (1–2 marks):** one or two basic points with little explanation, or an answer that mostly describes the treatment instead of evaluating it.
+- **0 marks:** nothing creditworthy.
+
+Under this guide, an answer that does not discuss idiographic versus nomothetic cannot reach Level 4, however strong the rest of it is. Indicative content:
 
 - *Effectiveness*: well supported for specific phobias, and the client controls the pace, so dropout is low compared with flooding.
 - *Limits*: less useful where a disorder has no clear trigger, such as generalised anxiety disorder; for blood-injection-injury phobia, relaxation can lower blood pressure further, which is why applied tension is preferred (Chapman and DeLapp, 2013).
