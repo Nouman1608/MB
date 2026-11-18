@@ -179,7 +179,9 @@ export function buildPracticeBank(): PracticeQuestion[] {
     if (qItems.some((q, i) => q.number !== aItems[i].number)) continue;
 
     for (let i = 0; i < qItems.length; i++) {
-      const marksFound = [...qItems[i].text.matchAll(/\[(\d+)\]/g)].map((m) => Number(m[1]));
+      // A bracketed number straight after an identifier or closing bracket is code
+      // (an array index such as team[3]), not a mark tariff.
+      const marksFound = [...qItems[i].text.matchAll(/(?<![A-Za-z0-9_)\]])\[(\d+)\]/g)].map((m) => Number(m[1]));
       const marks = marksFound.reduce((sum, n) => sum + n, 0);
       questions.push({
         id: `${resourceSlug}-q${qItems[i].number}`,
