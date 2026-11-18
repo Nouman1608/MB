@@ -119,6 +119,7 @@ isolation into a warning about losing green space."
 - Treating a chart as neutral.
 - Inventing details.
 - Writing too little because the text is short.
+- Analysing only colour: salience, composition and gaze usually give stronger points.
 
 ## Self-test
 
