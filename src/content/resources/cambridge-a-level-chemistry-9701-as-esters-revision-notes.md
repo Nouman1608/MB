@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-carboxylic-acids-and-derivatives"
     subtopic: "as-esters"
-description: "Condensed 9701 notes on naming esters, esterification conditions, acid versus alkaline hydrolysis, equations, isomers and exam traps, with a self-test and answers."
+description: "Condensed 9701 notes on naming esters, esterification conditions, acid versus alkaline hydrolysis, equations, isomers and exam traps, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

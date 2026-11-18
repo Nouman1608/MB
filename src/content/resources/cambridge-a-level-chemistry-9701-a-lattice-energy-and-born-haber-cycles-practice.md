@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-chemical-energetics"
     subtopic: "a-lattice-energy-and-born-haber-cycles"
-description: "Original 9701 A Level questions with mark-scheme answers on definitions, electron affinity trends, Born-Haber calculations and charge and radius effects on lattice energy."
+description: "Original 9701 A Level questions with mark-scheme answers on electron affinity trends, Born-Haber calculations and charge and radius effects."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

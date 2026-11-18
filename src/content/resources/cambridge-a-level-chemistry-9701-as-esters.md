@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-carboxylic-acids-and-derivatives"
     subtopic: "as-esters"
-description: "Naming esters, making them by condensation with concentrated H2SO4, acid and alkaline hydrolysis, yield and product calculations, for Cambridge 9701 AS Chemistry."
+description: "Naming esters, making them by condensation with concentrated H2SO4, acid and alkaline hydrolysis, and yield calculations, for Cambridge 9701 AS Chemistry."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

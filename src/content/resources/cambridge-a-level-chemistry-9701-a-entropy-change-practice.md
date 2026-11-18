@@ -173,7 +173,7 @@ change [1].
 possible arrangements is small [1].
 
 **11.** 25.0 = 2S⦵(NO) − (191.6 + 205.0) [1], so 2S⦵(NO) = 421.6 and S⦵(NO) =
-**210.8 J K⁻¹ mol⁻¹** [1].
+giving **210.8 J K⁻¹ mol⁻¹** [1].
 
 **12. (a)** 245.5 − 152.2 = **+93.3 J K⁻¹ mol⁻¹** [1].
 

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-analytical-techniques"
     subtopic: "as-mass-spectrometry"
-description: "Relative atomic mass from isotope peaks, molecular ions, fragment ions, carbon counting with [M+1]+ and Cl and Br patterns from [M+2]+, for Cambridge 9701 AS Chemistry."
+description: "Ar from isotope peaks, molecular and fragment ions, carbon counting with the [M+1]+ peak and Cl and Br [M+2]+ patterns, for Cambridge 9701 AS Chemistry."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

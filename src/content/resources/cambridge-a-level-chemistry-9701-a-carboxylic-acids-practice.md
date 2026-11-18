@@ -100,7 +100,7 @@ Relative atomic masses: H = 1.0, C = 12.0, O = 16.0. Ka values in question 11 ar
 
 **3.** Sulfur dioxide and hydrogen chloride [1].
 
-**4.** Tollens' reagent, warm: silver mirror (or Fehling's reagent, warm: red-brown precipitate) [1 for reagent, 1 for matching observation].
+**4.** Tollens' reagent, warm [1]: silver mirror [1]. (Or Fehling's reagent, warm: red-brown precipitate.)
 
 **5.** Inductive (electron-withdrawing) effect of the chlorine atom [1].
 

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-nitrogen-compounds"
     subtopic: "as-nitriles-and-hydroxynitriles"
-description: "Making nitriles with KCN, hydroxynitriles with HCN and KCN, naming them, hydrolysis to carboxylic acids and chain-lengthening routes, for Cambridge 9701 AS Chemistry."
+description: "Making nitriles with KCN and hydroxynitriles with HCN and KCN, naming them, hydrolysis and chain-lengthening routes, for Cambridge 9701 AS Chemistry."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

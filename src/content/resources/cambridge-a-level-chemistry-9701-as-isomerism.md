@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-an-introduction-to-as-level-organic-chemistry"
     subtopic: "as-isomerism"
-description: "Chain, positional and functional group isomers, cis/trans isomerism, chiral centres and how to deduce every isomer of a formula, for Cambridge 9701 AS Chemistry."
+description: "Chain, positional and functional group isomers, cis/trans isomerism, chiral centres and deducing every isomer of a formula, for Cambridge 9701 AS."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -113,7 +113,7 @@ D: Both molecules contain only ¹⁴N.
 
 **1.** B [1]. Each daughter molecule keeps one parental ¹⁵N strand and gains one new ¹⁴N strand. *(Total: 1 mark)*
 
-**2.** Any two from: growth, because every new cell made by mitosis needs a full set of genes [1]; tissue replacement or repair, because replacement cells need the full genome [1]; reproduction, because offspring need a full copy of the genome [1]. *(Total: 2 marks)*
+**2.** Growth: every new cell made by mitosis needs a full set of genes [1]. Tissue replacement or repair: replacement cells also need the full genome (reproduction, because offspring need a full copy, is also accepted) [1]. *(Total: 2 marks)*
 
 **3.** Helicase breaks hydrogen bonds between complementary bases [1]. DNA polymerase forms covalent bonds between the sugar and phosphate of adjacent nucleotides [1]. *(Total: 2 marks)*
 

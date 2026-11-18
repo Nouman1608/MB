@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-hydrocarbons"
     subtopic: "as-alkenes"
-description: "Condensed 9701 notes on making alkenes, addition reactions and conditions, the two mechanisms, Markovnikov addition, KMnO4 oxidation and polymers, with a self-test."
+description: "Condensed 9701 notes on making alkenes, addition reactions, the two mechanisms, Markovnikov addition, KMnO4 oxidation and polymers, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

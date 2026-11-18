@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-nitrogen-compounds"
     subtopic: "as-primary-amines"
-description: "Condensed 9701 notes on making primary amines from halogenoalkanes and ammonia: conditions, two-step mechanism, equations, naming and exam traps, with a self-test."
+description: "Condensed 9701 notes on making primary amines from halogenoalkanes and ammonia: conditions, mechanism, equations and exam traps, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -139,7 +139,7 @@ pH = **11.96** [1].
 **(b)** pKa = −log(1.4 × 10⁻⁴) = **3.85** [1].
 
 **9. (a)** [H⁺] = 10⁻³·¹² = 7.59 × 10⁻⁴ mol dm⁻³ [1]; Ka = (7.59 × 10⁻⁴)² ÷ 0.0400 =
-**1.4 × 10⁻⁵ mol dm⁻³** [1].
+giving **1.4 × 10⁻⁵ mol dm⁻³** [1].
 
 **(b)** 7.59 × 10⁻⁴ ÷ 0.0400 × 100 = **1.9%**, so [HA] is almost unchanged and the approximation
 is justified [1].

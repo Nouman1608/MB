@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-nitrogen-compounds"
     subtopic: "as-primary-amines"
-description: "Making primary amines from halogenoalkanes and ammonia in ethanol under pressure: conditions, mechanism, equations, naming, yields and synthesis routes, for Cambridge 9701."
+description: "Making primary amines from halogenoalkanes and ammonia in ethanol under pressure: conditions, mechanism, equations, yields and routes, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

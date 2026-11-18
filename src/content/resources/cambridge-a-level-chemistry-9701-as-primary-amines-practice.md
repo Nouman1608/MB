@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-nitrogen-compounds"
     subtopic: "as-primary-amines"
-description: "Original 9701 AS questions with mark-scheme answers on making primary amines from halogenoalkanes and ammonia: conditions, mechanism, yields and synthesis routes."
+description: "Original 9701 AS questions with mark-scheme answers on making primary amines from halogenoalkanes: conditions, mechanism, yields and synthesis routes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

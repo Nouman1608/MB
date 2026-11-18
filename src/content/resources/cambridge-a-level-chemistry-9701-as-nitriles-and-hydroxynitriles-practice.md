@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-nitrogen-compounds"
     subtopic: "as-nitriles-and-hydroxynitriles"
-description: "Original 9701 AS questions with mark-scheme answers on nitriles from KCN, hydroxynitriles from HCN, nucleophilic addition, hydrolysis and chain-lengthening routes."
+description: "Original 9701 AS questions with mark-scheme answers on nitriles, hydroxynitriles, nucleophilic addition, hydrolysis and chain-lengthening routes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

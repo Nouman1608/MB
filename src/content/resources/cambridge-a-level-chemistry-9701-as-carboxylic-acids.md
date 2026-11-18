@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-carboxylic-acids-and-derivatives"
     subtopic: "as-carboxylic-acids"
-description: "Three routes to carboxylic acids and their reactions with metals, alkalis, carbonates, alcohols and LiAlH4, with equations and calculations, for Cambridge 9701 AS."
+description: "Three routes to carboxylic acids and their reactions with metals, alkalis, carbonates, alcohols and LiAlH4, with calculations, for Cambridge 9701 AS."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

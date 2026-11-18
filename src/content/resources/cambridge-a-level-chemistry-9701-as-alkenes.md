@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-hydrocarbons"
     subtopic: "as-alkenes"
-description: "Making alkenes, electrophilic addition with mechanisms, Markovnikov addition, KMnO4 oxidation to locate a C=C, polymerisation and the bromine test, for Cambridge 9701."
+description: "Making alkenes, electrophilic addition mechanisms, Markovnikov addition, KMnO4 oxidation, polymerisation and the bromine test, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

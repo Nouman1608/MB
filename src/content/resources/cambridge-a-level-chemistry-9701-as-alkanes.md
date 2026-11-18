@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-hydrocarbons"
     subtopic: "as-alkanes"
-description: "Making alkanes by hydrogenation and cracking, combustion equations, why alkanes are unreactive, free-radical substitution and engine pollutants, for Cambridge 9701."
+description: "Making alkanes by hydrogenation and cracking, combustion, why alkanes are unreactive, free-radical substitution and engine pollutants, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

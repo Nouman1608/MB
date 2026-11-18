@@ -130,7 +130,7 @@ Relative atomic masses: H = 1.0, C = 12.0, O = 16.0, Cl = 35.5. Molar gas volume
 
 **(d)** 1.98 / 2.20 × 100 = 90.0% [1].
 
-**10. (a)** HOCH₂CH₂CH₂OH + 2CH₃COCl → CH₃COOCH₂CH₂CH₂OOCCH₃ + 2HCl [1 for the correct diester, 1 for balancing with 2CH₃COCl and 2HCl].
+**10. (a)** HOCH₂CH₂CH₂OH + 2CH₃COCl → CH₃COOCH₂CH₂CH₂OOCCH₃ + 2HCl: the correct diester [1]; balanced with 2CH₃COCl and 2HCl [1].
 
 **(b)** 2 × 0.0100 = 0.0200 mol of CH₃COCl [1]; Mr = 78.5, so mass = 0.0200 × 78.5 = 1.57 g [1].
 

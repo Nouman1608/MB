@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-analytical-techniques"
     subtopic: "as-infrared-spectroscopy"
-description: "How to read an infrared spectrum region by region, tell alcohols, acids, carbonyls, esters, nitriles and amines apart, and follow a reaction by IR, for Cambridge 9701."
+description: "How to read an infrared spectrum region by region, tell alcohols, acids, carbonyls, esters and nitriles apart, and follow reactions by IR, for 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

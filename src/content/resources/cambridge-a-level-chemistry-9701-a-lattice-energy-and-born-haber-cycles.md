@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-chemical-energetics"
     subtopic: "a-lattice-energy-and-born-haber-cycles"
-description: "Definitions of atomisation, electron affinity and lattice energy, electron affinity trends, Born-Haber cycles for 1+ and 2+ ions, and charge and radius effects, for 9701."
+description: "Atomisation, electron affinity and lattice energy definitions, electron affinity trends, Born-Haber cycles and charge and radius effects, for 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

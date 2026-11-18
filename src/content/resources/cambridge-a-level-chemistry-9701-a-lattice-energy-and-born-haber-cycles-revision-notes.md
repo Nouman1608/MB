@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-chemical-energetics"
     subtopic: "a-lattice-energy-and-born-haber-cycles"
-description: "Condensed 9701 notes on atomisation, electron affinity and lattice energy definitions, electron affinity trends, Born-Haber cycle steps and calculations, with a self-test."
+description: "Condensed 9701 notes on atomisation, electron affinity and lattice energy, electron affinity trends and Born-Haber calculations, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

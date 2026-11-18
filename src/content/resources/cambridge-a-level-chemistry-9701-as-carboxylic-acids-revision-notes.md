@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-carboxylic-acids-and-derivatives"
     subtopic: "as-carboxylic-acids"
-description: "Condensed 9701 notes on making carboxylic acids, their reactions with metals, alkalis, carbonates, alcohols and LiAlH4, naming salts and exam traps, with a self-test."
+description: "Condensed 9701 notes on making carboxylic acids, their reactions with metals, alkalis, carbonates, alcohols and LiAlH4, and exam traps, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
