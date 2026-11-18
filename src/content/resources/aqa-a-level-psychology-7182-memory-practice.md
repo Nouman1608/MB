@@ -150,7 +150,7 @@ Use the working memory model to explain whether her friend is right. **[4]**
 
 *AO3 (evaluation and application)*
 
-- Köhnken et al. (1999) combined the results of 53 studies and found an average 41% increase in correct information compared with standard interviews [1].
+- Köhnken et al. (1999), a meta-analysis of many studies, found an average 41% increase in correct information compared with standard interviews [1].
 - The same review found an increase in incorrect information as well, so police must treat extra detail with care [1].
 - Not all four techniques are equally useful; some research suggests reporting everything and reinstating context are the most effective [1].
 - The interview takes longer and needs trained officers, so Harbridge Police would face training costs and time pressures [1].
