@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-medical-physics"
     subtopic: "a-pet-scanning"
-description: "A focused guide to 24.3 PET scanning in Cambridge A Level Physics 9702: tracers, β+ decay, annihilation, gamma-photon energy and locating events from arrival times."
+description: "A focused guide to 24.3 PET scanning in Cambridge A Level Physics 9702: tracers, β+ decay, annihilation, gamma-photon energy and arrival-time imaging."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

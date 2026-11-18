@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-medical-physics"
     subtopic: "a-pet-scanning"
-description: "Revision notes for Cambridge A Level Physics 9702 24.3 PET scanning: tracers, β+ decay, annihilation, photon energy mₑc² and arrival-time imaging, with a self-test."
+description: "Revision notes for Cambridge A Level Physics 9702 24.3 PET scanning: tracers, β+ decay, annihilation, photon energy and arrival-time imaging."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

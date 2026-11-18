@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-medical-physics"
     subtopic: "a-production-and-use-of-x-rays"
-description: "A focused guide to 24.2 X-rays in Cambridge A Level Physics 9702: the X-ray tube, minimum wavelength, contrast, attenuation calculations and how CT builds a 3D image."
+description: "A focused guide to 24.2 X-rays in Cambridge A Level Physics 9702: the X-ray tube, minimum wavelength, contrast, attenuation and how CT builds a 3D image."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

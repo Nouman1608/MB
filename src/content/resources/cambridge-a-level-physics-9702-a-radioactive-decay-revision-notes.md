@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-nuclear-physics"
     subtopic: "a-radioactive-decay"
-description: "Revision notes for Cambridge A Level Physics 9702 23.2 Radioactive decay: random and spontaneous decay, A = λN, half-life, exponential decay, traps and a self-test."
+description: "Revision notes for Cambridge A Level Physics 9702 23.2 Radioactive decay: randomness, A = λN, half-life, exponential decay, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

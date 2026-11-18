@@ -128,7 +128,7 @@ D: HIV is destroyed by the immune system before antibiotics can act **[1]**
 
 **(b)** As antibiotic use increased from year 1 to year 5, the percentage resistant increased (positive correlation) [1]; when use fell in year 7, resistance fell [1].
 
-**(c)** Any one: resistant bacteria are still present and continue to reproduce and spread; other antibiotics may also select for the same resistance genes; resistance genes on plasmids remain in the population; there is no strong disadvantage to carrying the resistance gene, so it is not quickly lost [2 for a suggestion with explanation]. Total: 6 marks.
+**(c)** Any two from: resistant bacteria are still present and continue to reproduce and spread; other antibiotics may also select for the same resistance genes; resistance genes on plasmids remain in the population; carrying the resistance gene may be of little disadvantage, so it is not quickly lost [2]. Total: 6 marks.
 
 **10.** Any four, each linked to its significance: infections harder or impossible to treat, so more deaths; longer hospital stays, increasing cost and spread; need for newer drugs, which are more expensive or have more side effects; surgery, cancer treatment or care of premature babies become riskier; TB and other diseases harder to control [4]. Total: 4 marks.
 

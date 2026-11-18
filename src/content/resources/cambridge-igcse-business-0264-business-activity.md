@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "understanding-business-activity-0264"
     subtopic: "business-activity-0264"
-description: "A focused guide to 1.1 Business activity in Cambridge IGCSE Business 0264: factors of production, added value and how to raise it, and opportunity cost in decisions."
+description: "A focused guide to 1.1 Business activity in Cambridge IGCSE Business 0264: factors of production, added value and raising it, and opportunity cost."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

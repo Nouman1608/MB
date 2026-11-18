@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-medical-physics"
     subtopic: "a-production-and-use-of-ultrasound"
-description: "A focused guide to 24.1 Ultrasound in Cambridge A Level Physics 9702: piezo-electric transducers, pulse-echo imaging, acoustic impedance, reflection and attenuation."
+description: "A focused guide to 24.1 Ultrasound in Cambridge A Level Physics 9702: piezo-electric transducers, pulse-echo imaging, acoustic impedance and attenuation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

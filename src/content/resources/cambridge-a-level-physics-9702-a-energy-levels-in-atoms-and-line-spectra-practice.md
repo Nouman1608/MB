@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-quantum-physics"
     subtopic: "a-energy-levels-in-atoms-and-line-spectra"
-description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 22.4: energy level diagrams, emission and absorption spectra, hf = E₁ − E₂."
+description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 22.4: energy levels, emission and absorption spectra, hf = E₁ − E₂."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

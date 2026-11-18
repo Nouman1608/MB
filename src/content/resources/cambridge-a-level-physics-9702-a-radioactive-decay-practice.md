@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-nuclear-physics"
     subtopic: "a-radioactive-decay"
-description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 23.2 Radioactive decay: activity, decay constant, half-life and log graphs."
+description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 23.2 Radioactive decay: activity, decay constant and half-life."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

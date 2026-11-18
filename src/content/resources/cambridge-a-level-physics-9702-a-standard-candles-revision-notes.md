@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-astronomy-and-cosmology"
     subtopic: "a-standard-candles"
-description: "Revision notes for Cambridge A Level Physics 9702 25.1 Standard candles: luminosity, radiant flux intensity, the inverse square law, distances, traps and a self-test."
+description: "Revision notes for Cambridge A Level Physics 9702 25.1 Standard candles: luminosity, flux, the inverse square law, distances, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

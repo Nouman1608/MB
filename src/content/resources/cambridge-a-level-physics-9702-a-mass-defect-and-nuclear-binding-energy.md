@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-nuclear-physics"
     subtopic: "a-mass-defect-and-nuclear-binding-energy"
-description: "A focused guide to 23.1 Mass defect and binding energy in Cambridge A Level Physics 9702: E = mc², nuclear equations, the binding energy curve, fission and fusion."
+description: "A focused guide to 23.1 Mass defect and binding energy in Cambridge A Level Physics 9702: E = mc², nuclear equations, binding energy curve, fission, fusion."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

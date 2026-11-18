@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-medical-physics"
     subtopic: "a-production-and-use-of-ultrasound"
-description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 24.1 Ultrasound: transducers, pulse-echo depth, impedance and attenuation."
+description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 24.1 Ultrasound: transducers, echo depth, impedance, attenuation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-medical-physics"
     subtopic: "a-production-and-use-of-ultrasound"
-description: "Revision notes for Cambridge A Level Physics 9702 24.1 Ultrasound: piezo-electric transducers, pulse-echo, Z = ρc, reflection coefficient and attenuation, with a self-test."
+description: "Revision notes for Cambridge A Level Physics 9702 24.1 Ultrasound: piezo-electric transducers, Z = ρc, reflection, attenuation, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

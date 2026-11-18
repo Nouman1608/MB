@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-medical-physics"
     subtopic: "a-production-and-use-of-x-rays"
-description: "Revision notes for Cambridge A Level Physics 9702 24.2 X-rays: the X-ray tube, λ_min = hc/eV, contrast, attenuation and CT scanning, with exam traps and a self-test."
+description: "Revision notes for Cambridge A Level Physics 9702 24.2 X-rays: the X-ray tube, λ_min = hc/eV, contrast, attenuation and CT, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
