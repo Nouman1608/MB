@@ -32,6 +32,10 @@ Condensed for the final weeks. For the full explanation and worked examples, use
 | Hydrostatic pressure difference | Derived from the two definitions | Δp = ρgΔh | Pa |
 | Upthrust (Archimedes) | Weight of fluid displaced | F = ρgV | N |
 
+**Pressure under solids:** same force, smaller area, larger pressure. A 600 N person on one heel of area 1.0 × 10⁻⁴ m² exerts 6.0 × 10⁶ Pa; standing flat on two shoes of total area 0.050 m², only 1.2 × 10⁴ Pa.
+
+**Unit conversion:** 1 g cm⁻³ = 1000 kg m⁻³; 1 cm² = 10⁻⁴ m².
+
 ## The derivation in five lines
 
 1. Column of liquid: area A, height Δh, so volume V = AΔh.

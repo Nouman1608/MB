@@ -54,7 +54,7 @@ D: the mass of the object and the depth of the liquid **[1]**
 
 **3.** Define pressure. **[1]**
 
-**4.** A person of weight 600 N balances on one shoe heel of area 1.0 × 10⁻⁴ m². Calculate the pressure on the floor. **[2]**
+**4.** A person of weight 550 N balances on one shoe heel of area 1.2 × 10⁻⁴ m². Calculate the pressure on the floor. **[2]**
 
 **5.** A water storage tank has its surface 32 m above a tap. Calculate the difference in water pressure between the tank surface and the tap. **[2]**
 
@@ -110,7 +110,7 @@ D: the mass of the object and the depth of the liquid **[1]**
 
 **3.** The normal (perpendicular) force per unit area [1]. **[1]**
 
-**4.** p = 600 ÷ 1.0 × 10⁻⁴ [1] = **6.0 × 10⁶ Pa** [1]. **[2]**
+**4.** p = 550 ÷ 1.2 × 10⁻⁴ [1] = **4.6 × 10⁶ Pa** [1]. **[2]**
 
 **5.** Δp = 1000 × 9.81 × 32 [1] = **3.1 × 10⁵ Pa** (3.14 × 10⁵ Pa) [1]. **[2]**
 
