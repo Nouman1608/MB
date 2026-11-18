@@ -28,11 +28,11 @@ for exam-style questions, use the
 
 ## Order of the regions
 
-| Increasing frequency → | | | | | | |
-|---|---|---|---|---|---|---|
-| Radio | Microwaves | Infrared | Visible | Ultraviolet | X-rays | Gamma rays |
+Increasing frequency (decreasing wavelength):
 
-Increasing wavelength: the same table read from right to left.
+**radio → microwaves → infrared → visible → ultraviolet → X-rays → gamma rays**
+
+Increasing wavelength: the same list read from right to left.
 
 Memory hook: infrared sits just below red, ultraviolet just beyond violet.
 

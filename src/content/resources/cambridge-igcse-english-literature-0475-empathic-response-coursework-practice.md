@@ -23,7 +23,7 @@ featured: false
 > past-paper questions. Coursework titles are set by your centre; use these to
 > practise the skills, and follow your teacher's guidance for your portfolio.
 
-Related: [Empathic response assignment: study guide](/resources/cambridge-igcse-english-literature-0475-empathic-response-coursework/) and [revision notes](/resources/cambridge-igcse-english-literature-0475-empathic-response-coursework-revision-notes/).
+Related: [Empathic response assignment: study guide](/resources/cambridge-igcse-english-literature-0475-empathic-response-coursework/) and [revision notes](/resources/cambridge-igcse-english-literature-0475-empathic-response-coursework-revision-notes/). For broader practice, see the [Component 5 coursework practice questions](/resources/igcse-english-literature-component-5-coursework-practice/).
 
 ---
 

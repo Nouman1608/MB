@@ -26,7 +26,7 @@ featured: false
 > a new qualification (first examined May/June 2028) with no live past papers
 > yet, so use these alongside OxfordAQA's own specimen assessment materials.
 
-Related: [Stigmatised identities and othering study guide](/resources/oxfordaqa-igcse-sociology-9292-stigmatised-identities-and-othering/) · [revision notes](/resources/oxfordaqa-igcse-sociology-9292-stigmatised-identities-and-othering-revision-notes/) · [Formal and informal social control practice questions](/resources/oxfordaqa-igcse-sociology-9292-formal-and-informal-social-control-practice/)
+Related: [Stigmatised identities and othering study guide](/resources/oxfordaqa-igcse-sociology-9292-stigmatised-identities-and-othering/) · [revision notes](/resources/oxfordaqa-igcse-sociology-9292-stigmatised-identities-and-othering-revision-notes/) · [Formal and informal social control practice questions](/resources/oxfordaqa-igcse-sociology-9292-formal-and-informal-social-control-practice/) · [Socialisation practice questions](/resources/igcse-oxfordaqa-sociology-socialisation-practice/)
 
 These questions cover "Stigmatised identities; othering" in 3.2.2.3, part of Section B of Paper 2.
 

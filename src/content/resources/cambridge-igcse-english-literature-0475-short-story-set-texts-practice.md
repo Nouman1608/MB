@@ -26,7 +26,7 @@ featured: false
 > these alongside the official past papers available free from your board,
 > and apply the same skills to the stories set for your own series.
 
-Related: [Short stories as a set text: study guide](/resources/cambridge-igcse-english-literature-0475-short-story-set-texts/) and [revision notes](/resources/cambridge-igcse-english-literature-0475-short-story-set-texts-revision-notes/).
+Related: [Short stories as a set text: study guide](/resources/cambridge-igcse-english-literature-0475-short-story-set-texts/) and [revision notes](/resources/cambridge-igcse-english-literature-0475-short-story-set-texts-revision-notes/). For broader practice, see the [Section B: Prose practice questions](/resources/cambridge-igcse-english-literature-0475-section-b-prose-practice/).
 
 ---
 

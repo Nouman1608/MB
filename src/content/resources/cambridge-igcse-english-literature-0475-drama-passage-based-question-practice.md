@@ -25,7 +25,7 @@ featured: false
 > these alongside the official past papers available free from your board,
 > and apply the same skills to the plays set for your own series.
 
-Related: [Drama passage-based question: study guide](/resources/cambridge-igcse-english-literature-0475-drama-passage-based-question/) and [revision notes](/resources/cambridge-igcse-english-literature-0475-drama-passage-based-question-revision-notes/).
+Related: [Drama passage-based question: study guide](/resources/cambridge-igcse-english-literature-0475-drama-passage-based-question/) and [revision notes](/resources/cambridge-igcse-english-literature-0475-drama-passage-based-question-revision-notes/). For broader practice, see the [Paper 2 Drama practice questions](/resources/igcse-english-literature-paper-2-drama-practice/).
 
 ---
 

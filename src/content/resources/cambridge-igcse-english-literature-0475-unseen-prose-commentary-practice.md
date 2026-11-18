@@ -24,7 +24,7 @@ featured: false
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
-Related: [Unseen prose commentary: study guide](/resources/cambridge-igcse-english-literature-0475-unseen-prose-commentary/) and [revision notes](/resources/cambridge-igcse-english-literature-0475-unseen-prose-commentary-revision-notes/).
+Related: [Unseen prose commentary: study guide](/resources/cambridge-igcse-english-literature-0475-unseen-prose-commentary/) and [revision notes](/resources/cambridge-igcse-english-literature-0475-unseen-prose-commentary-revision-notes/). For broader practice, see the [Paper 4 Unseen practice questions](/resources/igcse-english-literature-paper-4-unseen-practice/).
 
 ---
 
