@@ -78,6 +78,14 @@ These notes condense **3.2.8 Conservation of energy** from the OxfordAQA Interna
 - **Rebound.** 2.0 m drop, 1.4 m rebound: 70% kept, 30% transferred.
 - **Resistance.** An 80 kg cyclist freewheels down a vertical drop of 8.0 m, speeding up from 3.0 to 10 m s⁻¹. Ep lost = 6280 J; Ek gained = ½ × 80 × (10² − 3.0²) = 3640 J; work against resistance = 2.6 kJ.
 
+## Energy or forces?
+
+| Use energy when | Use forces and SUVAT when |
+|---|---|
+| The path is curved (pendulum, roller coaster) | Acceleration is uniform and time is needed |
+| Only speeds and heights are asked for | A direction of motion is asked for |
+| Forces vary but total work is known | Forces are constant and given individually |
+
 ## Exam traps
 
 - Slope length used for Δh.

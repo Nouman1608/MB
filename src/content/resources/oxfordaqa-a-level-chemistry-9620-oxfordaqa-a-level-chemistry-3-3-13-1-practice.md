@@ -117,6 +117,8 @@ D: H₂N–CH₂–COOH
 
 **4.** Amino acids exist as zwitterions in the solid [1]; there are strong ionic attractions between the opposite charges on neighbouring zwitterions, which need a lot of energy to overcome [1]
 
+*Examiner insight:* "hydrogen bonding" alone is not enough here; the mark depends on naming the zwitterion and the ionic attraction between zwitterions.
+
 **5.** H₂N–CH(CH₃)–COOH + HCl → ⁺H₃N–CH(CH₃)–COOH Cl⁻ [1]
 
 **6. (a)** ⁺H₃N–CH(CH(OH)CH₃)–COO⁻ [1]
@@ -148,6 +150,8 @@ D: H₂N–CH₂–COOH
 **11. (a)** Two –COOH groups and one –NH₂ group [1]
 
 **(b)** HOOC–CH₂CH₂–CH(NH₂)–COOH [1]; C₅H₉NO₄: 60.0 + 9.0 + 14.0 + 64.0 = 147.0 [1]
+
+*Examiner insight:* in (b) many candidates draw the correct structure but do not show it fits the Mr; the arithmetic is the second mark.
 
 **12.** Glycine exists as zwitterions, which are strongly attracted to polar water molecules (ion–dipole attractions and hydrogen bonds) [1]; hexane is non-polar and cannot form strong attractions to the ionic groups, so it cannot overcome the attractions between zwitterions [1]
 

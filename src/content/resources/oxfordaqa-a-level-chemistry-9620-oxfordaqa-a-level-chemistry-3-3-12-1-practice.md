@@ -143,6 +143,8 @@ D: nylon 6,6
 
 **8.** Nylon 6,10 chains are held together by hydrogen bonds [1]; between the δ+ H of N–H groups and lone pairs on the δ− O of C=O groups on neighbouring chains [1]; polyester chains have no H bonded to O or N, so only permanent dipole–dipole forces act between C=O groups [1]; hydrogen bonds are stronger, so more energy is needed to separate nylon chains [1]
 
+*Examiner insight:* an answer that compares "bond strength" without saying the forces act between chains confuses intermolecular forces with the covalent links inside each chain and loses the final mark.
+
 **9. (a)** –[CO–C₆H₄–CO–NH–C₆H₄–NH]–, with 1,4-substituted rings [1]
 
 **(b)** The benzene rings make the chains flat and rigid [1]; the chains line up parallel to each other [1]; so many N–H and C=O groups on neighbouring chains form hydrogen bonds [1]

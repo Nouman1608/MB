@@ -117,6 +117,8 @@ Calculate the Mr of the nylon 6,10 repeating unit, its percentage of nitrogen by
 
 A full answer names the force, identifies the groups involved on **neighbouring chains**, and says why those groups are polar.
 
+These forces explain properties. Stronger forces between chains mean more energy is needed to separate them, so polyamides generally have higher melting points and greater tensile strength than polyesters of similar chain length. Melting separates chains; it does not break the covalent ester or amide links inside them.
+
 ## Typical uses
 
 | Polymer | Typical uses |

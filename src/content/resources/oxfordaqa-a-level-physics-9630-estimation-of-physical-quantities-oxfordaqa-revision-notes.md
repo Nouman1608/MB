@@ -78,6 +78,16 @@ Any value in a sensible range is credited; an absurd value is not.
 | Momentum of a sprinter | p = mv | 70 × 10 = 700 kg m s⁻¹, order 10³ |
 | Mass of air in a room 5 m × 4 m × 3 m | m = ρV | 60 kg, order 10² kg |
 
+## Choosing the physics for a derived estimate
+
+| Asked to estimate | Equation to start from | Values to assume |
+|---|---|---|
+| Energy of something moving | Ek = ½mv² | mass, speed |
+| Energy to lift something | ΔEp = mgΔh | mass, height |
+| Average force in an impact | F = Δ(mv)/Δt | mass, speed change, contact time |
+| Power of a person or machine | P = W/t | energy transferred, time taken |
+| Mass of a substance | m = ρV | density, dimensions |
+
 ## Exam traps
 
 - No assumptions stated: few or no method marks.

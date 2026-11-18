@@ -87,6 +87,15 @@ Branching (same formula): more compact → fewer contacts → weaker van der Waa
 | Viscosity | increases | molecules held together more strongly |
 | Ease of ignition | decreases | less vapour forms |
 
+## Answer frame for "explain the difference in boiling point"
+
+1. Compare the molecules: longer chain (more electrons) or more branched (fewer contacts).
+2. Name the force: van der Waals forces between molecules.
+3. Compare its strength: stronger or weaker.
+4. Link to energy: more or less energy is needed to separate the molecules.
+
+Example: "Octane has a longer chain than pentane, so it has more electrons and more surface contact; the van der Waals forces between octane molecules are stronger, so more energy is needed to separate them."
+
 ## Exam traps
 
 - "Saturated" means single C–C bonds only, not "contains lots of hydrogen".

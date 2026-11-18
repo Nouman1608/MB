@@ -132,6 +132,23 @@ atom economy     = Mr(CH₃Cl) ÷ total Mr of reactants × 100
 
 The yield is low because other chlorinated products and termination products form. The atom economy is low because HCl is a by-product of every substitution step.
 
+## Checking a student's mechanism
+
+Examiners often give a mechanism with errors to find. Run four checks on every line:
+
+1. **Atoms**: count C, H and Cl on each side.
+2. **Radicals**: initiation 0 → 2, propagation 1 → 1, termination 2 → 0.
+3. **Dots**: on the atom with the unpaired electron (Cl•, •CH₃, •CH₂Cl), never on a hydrogen.
+4. **Products**: the first propagation step gives HCl; the second gives the chloroalkane and regenerates Cl•.
+
+### Worked example 4: finding the errors
+
+*A student writes: (1) Cl₂ → Cl• + Cl⁻; (2) CH₄ + Cl• → CH₃Cl + H•; (3) CH₃• + Cl• → CH₃Cl + Cl•. Identify the errors.*
+
+- Line 1 shows heterolytic fission (an ion forms). UV light breaks Cl–Cl homolytically: Cl₂ → 2Cl•.
+- Line 2 makes H•. The correct step is CH₄ + Cl• → •CH₃ + HCl.
+- Line 3 has two radicals on the left and one on the right, so it is neither termination nor propagation. The termination step is •CH₃ + Cl• → CH₃Cl, with no radical produced.
+
 ## Common mistakes
 
 - Leaving out UV light, or calling it a catalyst. It provides the energy for initiation.
