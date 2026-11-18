@@ -99,6 +99,11 @@ Always **load → mask → store**. Writing a whole new value with LDM would ove
 - One byte can hold eight on/off states, such as sensors or switches.
 - Each device can be read or changed on its own without affecting the others.
 - Bitwise instructions are fast: one instruction acts on all eight bits at once.
+- Monitoring code can check a sensor bit repeatedly in a loop, and react the moment it changes, by jumping to the routine that handles it.
+
+## Choosing the right operation
+
+Ask what must happen to the **target** bit and what must happen to the **others**. Others unchanged and target forced to 1: OR. Others unchanged and target forced to 0: AND with a 0 at the target. Others unchanged and target flipped: XOR. Others removed so only the target remains for testing: AND with a 1 at the target.
 
 ## Exam traps
 

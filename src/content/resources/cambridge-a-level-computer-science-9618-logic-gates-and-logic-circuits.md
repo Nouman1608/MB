@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "hardware"
     subtopic: "logic-gates-and-logic-circuits"
-description: "Study guide to Cambridge 9618 section 3.2: the six gates, and moving between problem statements, logic expressions, truth tables and circuits, with worked examples."
+description: "Study guide to Cambridge 9618 section 3.2: the six gates, and moving between problem statements, logic expressions, truth tables and circuits."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "processor-fundamentals"
     subtopic: "cpu-architecture"
-description: "Study guide to Cambridge 9618 section 4.1: Von Neumann model, registers, buses, performance factors, ports, the fetch-execute cycle in register transfer notation."
+description: "Study guide to Cambridge 9618 section 4.1: Von Neumann model, registers, buses, performance, ports, interrupts and the fetch-execute cycle in RTN."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
