@@ -101,6 +101,8 @@ Option 2: parent-and-baby classes for children under 5 on weekday mornings.
 
 Use your answers to question 7 and the information above. Justify which option Bronwen should choose. **[9]**
 
+**10.** Explain **one** disadvantage to a small business of targeting a very narrow market segment. **[3]**
+
 ## Answers
 
 **1.** B: Lifestyle [1]. **[1]**
@@ -134,6 +136,8 @@ Option 2: the under-5 segment is worth £12,960 a month [1], and 20% of families
 
 Judgement: Bronwen should choose Option 2. Although adults have a higher estimated value, the parent-and-baby classes use spare pool time, rest on stronger interest and feed her existing children's classes, so the overall risk is lower [1]. **[9]**
 *Examiner insight:* A recommendation of Option 1 can also earn full marks if it is supported by the higher value and addresses the weaker interest figure.
+
+**10.** A narrow segment contains fewer potential customers [1], so even if the business wins many of them, total sales may be too low [1] to cover its fixed costs, putting its survival at risk if the segment's tastes change [1]. **[3]**
 
 ## Where marks are usually lost
 

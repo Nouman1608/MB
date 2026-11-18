@@ -138,6 +138,7 @@ x^(−1/2) = 1/3 →  x^(1/2) = 3, x = 9
 - Subtracting a negative index: x³ ÷ x^(−2) = x⁵.
 - Bases must match before indices are compared.
 - Root before power keeps numbers manageable: 64^(5/6) = 2⁵ = 32.
+- (a + b)^n is not a^n + b^n: the index rules apply to products, not sums, so (x + 1)² must be expanded as a bracket.
 
 ## Self-test
 

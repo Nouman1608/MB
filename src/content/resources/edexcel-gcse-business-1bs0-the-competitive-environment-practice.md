@@ -90,6 +90,8 @@ Justify which option Hartwell should choose. **[9]**
 
 **9.** *Oakmere Books* is an independent bookshop. A large chain bookshop has opened two streets away, selling many titles at lower prices. Outline **one** way Oakmere Books could respond to this competition. **[2]**
 
+**10.** Explain **one** reason why a business might choose to locate close to its competitors. **[3]**
+
 ## Answers
 
 **1.** A: Product range [1]. **[1]**
@@ -121,6 +123,8 @@ Judgement: Hartwell should choose Option 2, because it brings in more money for 
 *Examiner insight:* Comparing the revenue of each option shows why a price cut can leave a business no better off, which supports the judgement.
 
 **9.** Oakmere could offer services the chain does not, such as ordering rare books or holding author events [1], giving customers a reason to visit even though prices are higher, so it competes on customer service and range rather than price [1]. **[2]**
+
+**10.** Customers often go to an area where several similar businesses are found so that they can compare them [1]. Locating there means many potential customers pass the business without it paying for extra promotion [1], so it can win sales if it is strong on another factor, such as price or customer service [1]. **[3]**
 
 ## Where marks are usually lost
 

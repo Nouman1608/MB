@@ -83,6 +83,12 @@ These are suggested sentence starters, not specification wording.
 - "To compete, the business could ..., which would ... sales but raise costs because ..."
 - "Rival X may respond by ..., so the business should ..."
 
+## Links to other items
+
+- **Market research (1.2.2):** reviews, mystery shopping and market reports supply the evidence for a competitor grid.
+- **Market segmentation (1.2.3):** a market map shows where rivals cluster and where the gaps are.
+- **Customer needs (1.2.1):** a rival's weakness matters only if it concerns a need customers value.
+
 ## Exam traps
 
 - Describing a factor without comparing rivals.

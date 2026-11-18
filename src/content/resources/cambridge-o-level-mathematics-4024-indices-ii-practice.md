@@ -114,6 +114,8 @@ Related: [Indices II study guide](/resources/cambridge-o-level-mathematics-4024-
 
 **9.** 2x^(1/2) × x^(3/2) = 2x² [1]; 2x^(1/2) × 3x^(−1/2) = 6x⁰ = 6 [1]; answer **2x² + 6** [1] **[3]**
 
+*Examiner insight:* Multiply the outside term by each term in the bracket, adding indices each time: 1/2 + 3/2 = 2 and 1/2 + (−1/2) = 0.
+
 **10.** 2^(2x) = 2^(−3) [1]; 2x = −3 [1]; **x = −3/2** [1] **[3]**
 
 *Examiner insight:* 4 and 8 are not powers of each other with whole-number indices, but both are powers of 2. Choosing base 2 is the first mark.

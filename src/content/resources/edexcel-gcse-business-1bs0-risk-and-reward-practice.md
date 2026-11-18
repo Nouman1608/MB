@@ -89,6 +89,8 @@ Analyse the risks and rewards to Femi of accepting the contract. **[6]**
 
 **(b)** Evaluate whether Nadia should leave her job to open Oriel Climbing Centre. **[12]**
 
+**10.** Explain **one** way market research could reduce the risk of starting a business. **[3]**
+
 ## Answers
 
 **1.** B: Independence [1]. **[1]**
@@ -124,6 +126,8 @@ Risks: £16,400 is £12,600 less than her £29,000 salary [1], so even in the ex
 
 Judgement: Nadia should only leave her job if she has strong evidence that the expected 5,200 visits are realistic, such as market research [1], because the gap between the expected and poor outcomes turns a profit into a loss with her savings and a loan at stake [1]. A lower-risk alternative is to open part-time or keep some coaching work while the centre builds up [1]. **[14]**
 *Examiner insight:* Evaluate needs a supported conclusion. Using both forecasts, the salary and the savings figure gives the judgement weight; the condition at the end shows what would change it.
+
+**10.** Market research shows whether customers actually want the product and at what price [1]. The entrepreneur can then change the idea, or decide not to go ahead, before spending savings or taking a loan [1], which lowers the chance of financial loss or business failure, although it cannot remove the risk completely [1]. **[3]**
 
 ## Where marks are usually lost
 

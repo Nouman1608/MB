@@ -94,6 +94,12 @@ Plan B: raise the price to £50 a hamper, with sales forecast to fall to 360 a m
 
 Justify which plan the owner should choose. **[9]**
 
+**10.** A break even diagram for *Mossgiel Mugs* shows the total costs line meeting the vertical axis at £1,500. The total revenue line passes through £3,000 at an output of 250 mugs.
+
+**(a)** State the fixed costs. **[1]**
+
+**(b)** Calculate the selling price of one mug. **[1]**
+
 ## Answers
 
 **1.** B: Timber used in each table [1]. **[1]**
@@ -128,6 +134,10 @@ Plan B: contribution = £50 − £27 = £23 [1]. Break even = £5,400 ÷ £23 = 
 
 Judgement: the owner should choose Plan B, because it gives £1,080 more profit and a much wider margin of safety, with no extra fixed costs; the risk is that sales fall below the forecast of 360 at the higher price, so the owner should test the price first [1]. **[9]**
 *Examiner insight:* Calculating profit, break even and margin of safety for both plans gives the judgement solid support. Plan A only makes sense if growth beyond 400 hampers is expected, because the bigger unit adds capacity.
+
+**10. (a)** **£1,500**, where the total costs line meets the vertical axis at zero output [1].
+
+**(b)** £3,000 ÷ 250 = **£12** [1]. **[2]**
 
 ## Where marks are usually lost
 

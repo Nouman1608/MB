@@ -103,6 +103,8 @@ Justify which option Kestle Farm Shop should choose. **[9]**
 
 **9.** Analyse why a cash-flow forecast is important for a business that is starting up. **[6]**
 
+**10.** Explain **one** reason why a bank loan received is a cash inflow but does not increase profit. **[3]**
+
 ## Answers
 
 **1.** C: Payment of wages [1]. **[1]**
@@ -133,6 +135,8 @@ Option 2: if restaurants paid in the month of delivery, February's receipts woul
 Judgement: Kestle Farm Shop should choose Option 1. The cash problem is temporary and caused by growth, and by March net cash flow is already positive, so a short-term overdraft is cheaper than giving up 5% of all future sales [1]. If the shop expected to keep growing quickly for many months, faster payment from customers might be worth more [1]. **[15]**
 
 **9.** A start-up usually spends heavily before it has regular customers, for example on equipment and stock [1]. A forecast shows the months when outflows are expected to exceed inflows and the balance could become negative [1], so the owner can arrange finance, such as an overdraft, before the problem happens [1]. This helps the business pay its suppliers, overheads and employees on time [1], avoiding insolvency, which is a major cause of new businesses closing [1]. A forecast can also be shown to a bank as evidence that the owner has planned, making a loan more likely to be offered, although its figures are only estimates [1]. **[6]**
+
+**10.** A loan brings cash into the business's bank account, so it is recorded as an inflow on a cash-flow forecast [1]. However, it is not money earned from selling goods or services, so it is not revenue [1]. It must be repaid with interest, so it adds to the business's costs rather than to its profit [1]. **[3]**
 
 ## Where marks are usually lost
 

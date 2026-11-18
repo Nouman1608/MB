@@ -90,6 +90,8 @@ Justify which option Owain should choose. **[9]**
 
 **9.** *Sable and Pine* makes wooden toys. Its toys are more expensive than most rivals' because they are made from sustainably sourced timber and are designed to be passed between generations. Analyse how quality and design add value for Sable and Pine. **[6]**
 
+**10.** *Brookfield Laundry Lockers* places lockers at a railway station. Commuters leave their washing in the morning and collect it cleaned and folded in the evening. Outline **one** way Brookfield adds value through convenience. **[2]**
+
 ## Answers
 
 **1.** B: Organising resources [1]. **[1]**
@@ -121,6 +123,8 @@ Judgement: Owain should choose Option 1, because it brings the larger weekly gai
 *Examiner insight:* A Justify answer can recommend either option. The judgement is supported when it compares the calculated gains and names the uncertain forecast behind each.
 
 **9.** Sable and Pine uses sustainably sourced timber, which gives the toys a higher quality than mass-produced rivals [1]. Customers who care about the environment may be willing to pay more for this [1], so the business can charge a higher price than its rivals [1]. The toys are designed to last and be passed down between generations [1], which makes them suitable as special gifts, for example for grandparents buying for grandchildren [1]. Because the design and quality are hard to match cheaply, the higher price is accepted, increasing added value per toy even though timber costs are higher [1]. **[6]**
+
+**10.** Commuters do not have to visit a laundrette during its opening hours, because they drop off and collect at the station they already pass through [1]. This saves them time, so they are willing to pay more than they would for a self-service laundrette, raising Brookfield's added value [1]. **[2]**
 
 ## Where marks are usually lost
 

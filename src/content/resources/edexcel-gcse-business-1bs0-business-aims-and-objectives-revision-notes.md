@@ -83,6 +83,13 @@ Ines opened Foxglove Florist a year ago after leaving an office job. Her aim is 
 - **Conflict:** local flowers cost more, so meeting objective 2 may cut her profit on each wedding.
 - **Why her objectives differ from a supermarket's flower section:** she is a sole trader who left a job for independence and personal satisfaction, and she competes on quality and local sourcing rather than low price.
 
+## Answer frame for "why objectives differ"
+
+These are suggested sentence starters, not specification wording.
+
+- "Business A is a ... owned by ..., so it is likely to put ... first because ..."
+- "Business B is at a different stage / has different owners, so it aims for ... instead."
+
 ## Exam traps
 
 - Calling an aim an objective (no number or deadline).

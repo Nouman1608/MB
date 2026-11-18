@@ -95,6 +95,8 @@ Velvet Comb currently gives 1,100 standard cuts a year.
 
 **9.** *Elmstead Garden Centre* has seen sales fall since a large DIY store opened nearby selling cheaper plants. Elmstead's customers often say its staff give excellent advice. Analyse how understanding customer needs could help Elmstead Garden Centre generate sales. **[6]**
 
+**10.** Explain **one** reason why a business's customer needs may change over time. **[3]**
+
 ## Answers
 
 **1.** C: Convenience [1]. **[1]**
@@ -128,6 +130,8 @@ Judgement: Priya should choose Option 2, because her own survey shows convenienc
 *Examiner insight:* Strong Justify answers use the information given: here the survey percentages, the office hours and the revenue figures.
 
 **9.** The DIY store attracts customers who mainly want a low price [1], and Elmstead is unlikely to win them by price because it cannot match a large store's costs [1]. Customers praise Elmstead's expert advice, so its customers value quality of service [1]. By focusing on this need, for example running free planting talks or offering a plant guarantee, it gives customers a reason to choose it over the cheaper store [1]. Satisfied customers are more likely to return and recommend Elmstead to friends [1], so sales can rise even without cutting prices, helping it recover from the fall in sales [1]. **[6]**
+
+**10.** Customers' circumstances change, for example more people working from home [1]. Their needs change with them, such as wanting delivery rather than visiting a shop (convenience) [1], so a business that does not keep checking may offer what customers used to want and lose sales to rivals that adapt [1]. **[3]**
 
 ## Where marks are usually lost
 
