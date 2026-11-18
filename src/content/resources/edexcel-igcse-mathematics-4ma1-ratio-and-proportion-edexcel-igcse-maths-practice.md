@@ -110,7 +110,7 @@ Related: [section 1.7 study guide](/resources/edexcel-igcse-mathematics-4ma1-rat
 
 **(b)** 15 km = 1 500 000 cm [1]; 1 500 000 ÷ 125 000 = **12 cm** [1]
 
-**12.** Batches from flour: 500 ÷ 120 = 4.17, so 33.3 biscuits [1]; from butter: 300 ÷ 75 = 4 batches, so 32 biscuits [1]; from sugar: 200 ÷ 45 = 4.44, so 35.6 biscuits [1]; butter runs out first, so the greatest number is **32 biscuits** [1]
+**12.** From flour: 500 ÷ 120 = 4.17 recipes, so 33.3 biscuits [1]; from butter: 300 ÷ 75 = 4 recipes, so 32 biscuits [1]; from sugar: 200 ÷ 45 = 4.44 recipes, so 35.6 biscuits [1]; butter runs out first, so the greatest number is **32 biscuits** [1]
 
 **13.** Width + length = 63 ÷ 2 = 31.5 cm [1]; 7 parts = 31.5, so 1 part = 4.5 cm [1]; width = 9 cm and length = 22.5 cm [1]; area = 9 × 22.5 = **202.5 cm²** [1]
 

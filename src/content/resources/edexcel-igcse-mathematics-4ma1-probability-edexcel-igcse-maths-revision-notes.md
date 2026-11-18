@@ -85,6 +85,14 @@ Unknown probabilities: set the total equal to 1. If P(C) = x and P(D) = 3x with 
 - More trials → more reliable estimate.
 - Fair or biased? Compare relative frequency with the theoretical probability, over many trials.
 
+## Mini example: two successive events (both tiers)
+
+A fair coin is tossed and a fair spinner numbered 1, 2, 3 is spun. Systematic list: H1, H2, H3, T1, T2, T3, so 6 equally likely outcomes.
+
+- P(head and an odd number) = 2/6 = 1/3 (H1, H3).
+- P(not getting H3) = 1 − 1/6 = 5/6 (complement).
+- Expected number of H3 results in 90 goes = 1/6 × 90 = 15.
+
 ## Higher tier only: tree diagrams
 
 - Each pair of branches from one point adds to 1.

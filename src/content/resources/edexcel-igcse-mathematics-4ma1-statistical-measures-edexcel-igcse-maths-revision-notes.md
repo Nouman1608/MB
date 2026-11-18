@@ -78,6 +78,8 @@ Mini example: mean of 4 numbers is 10; a fifth number makes the mean 11. Fifth n
 - Median: running totals of f find the value in the middle position.
 - Mean: add an fx column.
 
+Mini example: values 1, 2, 3 with frequencies 5, 8, 7 (Σf = 20). Running totals 5, 13, 20, so the 10th and 11th values are both 2 and the median is 2. Σfx = 5 + 16 + 21 = 42, so the mean is 42 ÷ 20 = 2.1. The mode is 2.
+
 ## Grouped data
 
 - Midpoint = (lower boundary + upper boundary) ÷ 2. Work it out for each class: unequal classes have different midpoints.

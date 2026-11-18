@@ -127,7 +127,7 @@ t = 7.5:  s = 3.4 × 7.5 = 25.5
 s = 51:   t = 51 ÷ 3.4 = 15
 ```
 
-**Best buys and recipes** are proportion problems too. In a recipe, the ingredient that runs out first limits how much you can make: divide what you have by what one batch needs, for each ingredient, and take the smallest result.
+**Best buys and recipes** are proportion problems too. In a recipe, the ingredient that runs out first limits how much you can make: divide what you have by the amount one recipe needs, for each ingredient, and take the smallest result.
 
 ## Maps and scale diagrams (1.7 E)
 

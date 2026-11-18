@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "statistics-and-probability-edexcel-igcse-maths"
     subtopic: "probability-edexcel-igcse-maths"
-description: "Study guide for Edexcel IGCSE Maths 4MA1 section 6.3: probability language, sample spaces, Venn diagrams, expected frequency, tree diagrams and dependent events."
+description: "Study guide for Edexcel IGCSE Maths 4MA1 section 6.3: probability language, sample spaces, Venn diagrams, expected frequency and tree diagrams."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
