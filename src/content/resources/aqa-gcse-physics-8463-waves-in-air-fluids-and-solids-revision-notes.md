@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "waves-aqa-gcse"
     subtopic: "waves-in-air-fluids-and-solids"
-description: "Condensed AQA GCSE Physics 8463 notes on 4.6.1: wave types, properties, v = fλ, speed methods, reflection, hearing, ultrasound and seismic waves, with a self-test."
+description: "Condensed AQA GCSE Physics 8463 notes on 4.6.1: wave types, v = fλ, speed methods, reflection, hearing, ultrasound and seismic waves, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

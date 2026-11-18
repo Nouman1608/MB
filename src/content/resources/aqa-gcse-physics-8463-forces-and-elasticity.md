@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-aqa-gcse"
     subtopic: "forces-and-elasticity"
-description: "AQA GCSE Physics 8463 section 4.5.3 in depth: deforming forces, elastic and inelastic change, F = ke, linear and non-linear graphs, stored energy and required practical 6."
+description: "AQA GCSE Physics 8463 section 4.5.3 in depth: deforming forces, elastic and inelastic change, F = ke, graphs, stored energy and required practical 6."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

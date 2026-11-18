@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-aqa-gcse"
     subtopic: "momentum-aqa-gcse"
-description: "AQA GCSE Physics 8463 section 4.5.7 in depth (Higher tier): p = mv with direction, conservation in collisions and explosions, F = mΔv/Δt and safety features explained."
+description: "AQA GCSE Physics 8463 section 4.5.7 in depth (Higher tier): p = mv with direction, collisions and pushing apart, F = mΔv/Δt and safety features."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

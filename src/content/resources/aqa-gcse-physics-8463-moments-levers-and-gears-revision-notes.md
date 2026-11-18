@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-aqa-gcse"
     subtopic: "moments-levers-and-gears"
-description: "Condensed AQA GCSE Physics 8463 notes on 4.5.4: M = Fd, perpendicular distance, the principle of moments, levers as force multipliers and gears, with a self-test."
+description: "Condensed AQA GCSE Physics 8463 notes on 4.5.4: M = Fd, perpendicular distance, the principle of moments, levers and gears, with a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

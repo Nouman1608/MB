@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-aqa-gcse"
     subtopic: "pressure-and-pressure-differences-in-fluids"
-description: "AQA GCSE Physics 8463 section 4.5.5 in depth: p = F/A, pressure in liquids with p = hρg, upthrust from pressure differences, floating and sinking, and atmospheric pressure."
+description: "AQA GCSE Physics 8463 section 4.5.5 in depth: p = F/A, liquid pressure with p = hρg, upthrust, floating and sinking, and atmospheric pressure."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

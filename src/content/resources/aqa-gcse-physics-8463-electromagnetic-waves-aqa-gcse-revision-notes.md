@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "waves-aqa-gcse"
     subtopic: "electromagnetic-waves-aqa-gcse"
-description: "Condensed AQA GCSE Physics 8463 notes on 4.6.2: spectrum order, refraction, hazards and dose, uses, lenses, magnification and colour, with a 12-question self-test."
+description: "Condensed AQA GCSE Physics 8463 notes on 4.6.2: spectrum order, refraction, hazards, uses, lenses, magnification and colour, with a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

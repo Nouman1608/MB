@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-aqa-gcse"
     subtopic: "forces-and-elasticity"
-description: "Thirteen original AQA GCSE Physics 8463 questions on 4.5.3: deforming forces, F = ke, graph gradients, stored energy and required practical 6, with marked answers."
+description: "Thirteen original AQA GCSE Physics 8463 questions on 4.5.3: deforming forces, F = ke, gradients, stored energy and required practical 6, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

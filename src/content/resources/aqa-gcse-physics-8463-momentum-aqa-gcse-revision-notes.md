@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-aqa-gcse"
     subtopic: "momentum-aqa-gcse"
-description: "Condensed AQA GCSE Physics 8463 notes on 4.5.7 (Higher tier): p = mv, signs for direction, conservation calculations, F = mΔv/Δt and safety features, with a self-test."
+description: "Condensed AQA GCSE Physics 8463 Higher tier notes on 4.5.7: p = mv, signs, conservation sums, F = mΔv/Δt and safety features, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

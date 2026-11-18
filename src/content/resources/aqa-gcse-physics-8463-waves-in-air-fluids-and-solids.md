@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "waves-aqa-gcse"
     subtopic: "waves-in-air-fluids-and-solids"
-description: "AQA GCSE Physics 8463 section 4.6.1 in depth: wave graphs, v = fλ, measuring wave speeds, sound changing medium, reflection, hearing, ultrasound and seismic waves."
+description: "AQA GCSE Physics 8463 section 4.6.1 in depth: wave graphs, v = fλ, measuring wave speeds, sound in new media, hearing, ultrasound and seismic waves."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-aqa-gcse"
     subtopic: "moments-levers-and-gears"
-description: "AQA GCSE Physics 8463 section 4.5.4 in depth: M = Fd with perpendicular distance, the principle of moments, uniform beams, and how levers and gears transmit turning effects."
+description: "AQA GCSE Physics 8463 section 4.5.4 in depth: M = Fd with perpendicular distance, the principle of moments, beams, and how levers and gears work."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

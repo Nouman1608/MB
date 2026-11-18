@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-aqa-gcse"
     subtopic: "forces-and-motion-aqa-gcse"
-description: "Condensed AQA GCSE Physics 8463 notes on 4.5.6: motion equations, graph rules, terminal velocity, Newton's laws and stopping distances, with a 12-question self-test."
+description: "Condensed AQA GCSE Physics 8463 notes on 4.5.6: motion equations, graph rules, terminal velocity, Newton's laws and stopping distances, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

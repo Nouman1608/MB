@@ -88,7 +88,7 @@ These questions cover sub-topic 2(b) Group 7 (halogens) of the Pearson Edexcel I
 
 **(a)** Predict the colour and state of astatine at room temperature. **[2]**
 **(b)** Predict whether astatine reacts with sodium bromide solution. Explain your answer. **[2]**
-**(c)** Iodine reacts with sodium astatide, NaAt. Write the balanced equation. **[1]**
+**(c)** Chlorine reacts with astatide ions, At⁻. Write the ionic equation. **[1]**
 
 **12.** **(Paper 2 only)** Chlorine has the electronic configuration 2,8,7. Fluorine has the configuration 2,7.
 
@@ -126,7 +126,7 @@ These questions cover sub-topic 2(b) Group 7 (halogens) of the Pearson Edexcel I
 
 **11. (a)** Black [1]; solid [1].
 **(b)** No [1]: astatine is less reactive than bromine, so it cannot displace bromine from bromide [1].
-**(c)** I₂ + 2NaAt → 2NaI + At₂ [1].
+**(c)** Cl₂ + 2At⁻ → 2Cl⁻ + At₂ [1].
 
 **12. (a)** It gains one electron [1].
 **(b)** Fluorine has fewer occupied shells (two compared with three), so its outer shell is closer to the nucleus [1]. There is less shielding by inner electrons [1]. So the attraction between the nucleus and an incoming electron is stronger [1], and fluorine gains an electron more easily [1].

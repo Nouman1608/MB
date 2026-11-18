@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-aqa-gcse"
     subtopic: "forces-and-elasticity"
-description: "Condensed AQA GCSE Physics 8463 notes on 4.5.3: deforming forces, elastic vs inelastic, F = ke, graph rules, Ee = ½ke² and required practical 6, with a self-test."
+description: "Condensed AQA GCSE Physics 8463 notes on 4.5.3: deforming forces, elastic vs inelastic, F = ke, graph rules, Ee = ½ke² and practical 6, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

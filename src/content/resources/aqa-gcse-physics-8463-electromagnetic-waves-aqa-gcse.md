@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "waves-aqa-gcse"
     subtopic: "electromagnetic-waves-aqa-gcse"
-description: "AQA GCSE Physics 8463 section 4.6.2 in depth: the EM spectrum, refraction and wave fronts, hazards and dose, why each wave suits its use, lens ray diagrams and colour."
+description: "AQA GCSE Physics 8463 section 4.6.2 in depth: the EM spectrum, refraction, hazards and dose, why each wave suits its use, lenses and colour."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

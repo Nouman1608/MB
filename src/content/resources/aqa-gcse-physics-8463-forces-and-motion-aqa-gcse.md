@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-aqa-gcse"
     subtopic: "forces-and-motion-aqa-gcse"
-description: "AQA GCSE Physics 8463 section 4.5.6 in depth: motion graphs, v² − u² = 2as, terminal velocity, Newton's laws, inertial mass and how stopping distance varies with speed."
+description: "AQA GCSE Physics 8463 section 4.5.6 in depth: motion graphs, v² − u² = 2as, terminal velocity, Newton's laws, inertial mass and stopping distances."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

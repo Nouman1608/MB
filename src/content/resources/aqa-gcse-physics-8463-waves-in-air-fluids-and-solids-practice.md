@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "waves-aqa-gcse"
     subtopic: "waves-in-air-fluids-and-solids"
-description: "Fourteen original AQA GCSE Physics 8463 questions on 4.6.1: wave properties, v = fλ, speed of sound, reflection, hearing, ultrasound and seismic waves, with answers."
+description: "Fourteen original AQA GCSE Physics 8463 questions on 4.6.1: wave properties, v = fλ, sound speed, reflection, ultrasound and seismic waves, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
