@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "b-algebra-and-functions-aqa-alevel-maths"
     subtopic: "b8-composite-and-inverse-functions-aqa-alevel-maths"
-description: "Condensed AQA A-level Maths 7357 B8 notes on composite and inverse functions: domains, self-inverse functions, (gf)⁻¹, inverse graphs and a 12-question self-test."
+description: "Condensed AQA A-level Maths 7357 B8 notes on composite and inverse functions: domains, self-inverse functions, (gf)⁻¹, inverse graphs, self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

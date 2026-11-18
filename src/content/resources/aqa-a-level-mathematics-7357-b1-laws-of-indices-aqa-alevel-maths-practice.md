@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "b-algebra-and-functions-aqa-alevel-maths"
     subtopic: "b1-laws-of-indices-aqa-alevel-maths"
-description: "Original AQA A-level Maths 7357 B1 practice questions on rational indices, kxⁿ form, fractional-power factorising and index equations, with mark-by-mark answers."
+description: "Original AQA A-level Maths 7357 B1 practice on rational indices, kxⁿ form, fractional-power factorising and index equations, with mark-by-mark answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

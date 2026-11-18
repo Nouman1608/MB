@@ -71,7 +71,7 @@ D: (CH₃)₂CHC⁺H₂ **[1]**
 
 **(b)** Explain why this product is the major one. **[2]**
 
-**9.** 3-Methylbut-1-ene, CH₂=CHCH(CH₃)₂, reacts with HBr. Give the structures of the major and minor products and explain which is major. **[4]**
+**9.** Hex-1-ene, CH₂=CHCH₂CH₂CH₂CH₃, reacts with HBr. Give the structures of the major and minor products and explain which is major. **[4]**
 
 **10.** Two different alkenes with formula C₅H₁₀ both give 2-bromo-2-methylbutane, (CH₃)₂CBrCH₂CH₃, as the major product with HBr. Name both alkenes and give the structure of the minor product formed from each. **[4]**
 
@@ -80,6 +80,12 @@ D: (CH₃)₂CHC⁺H₂ **[1]**
 **12.** 1.64 g of cyclohexene, C₆H₁₀, reacts completely with bromine. Calculate the maximum mass of 1,2-dibromocyclohexane, C₆H₁₀Br₂, that can form. **[2]**
 
 **13.** A student's mechanism for ethene with bromine shows: no dipole on Br₂; a curly arrow from one carbon atom of ethene to a bromine atom; and the product drawn as CH₃CHBr₂. Identify **three** errors. **[3]**
+
+**14.** Cyclohexene reacts with hydrogen bromide.
+
+**(a)** Outline the mechanism for this reaction. **[3]**
+
+**(b)** Explain why only one product forms. **[1]**
 
 ## Answers
 
@@ -107,7 +113,7 @@ D: (CH₃)₂CHC⁺H₂ **[1]**
 
 **(b)** The alternative carbocation, CH₃CH₂C⁺H₂, is primary [1]; the secondary carbocation is more stable because it has two electron-releasing alkyl groups, so it forms more readily [1]
 
-**9.** Major: **CH₃CHBrCH(CH₃)₂** (2-bromo-3-methylbutane) [1]; minor: **BrCH₂CH₂CH(CH₃)₂** (1-bromo-3-methylbutane) [1]; the major product comes from the secondary carbocation CH₃C⁺HCH(CH₃)₂ [1]; which is more stable than the primary carbocation ⁺CH₂CH₂CH(CH₃)₂ because more alkyl groups release electrons towards C⁺ [1] **[4]**
+**9.** Major: **CH₃CHBrCH₂CH₂CH₂CH₃** (2-bromohexane) [1]; minor: **BrCH₂CH₂CH₂CH₂CH₂CH₃** (1-bromohexane) [1]; the major product comes from the secondary carbocation CH₃C⁺HCH₂CH₂CH₂CH₃ [1]; which is more stable than the primary carbocation ⁺CH₂CH₂CH₂CH₂CH₂CH₃ because more alkyl groups release electrons towards C⁺, so it forms more readily [1] **[4]**
 
 **10.** **2-Methylbut-1-ene**, CH₂=C(CH₃)CH₂CH₃ [1]; its minor product is BrCH₂CH(CH₃)CH₂CH₃ [1]; **2-methylbut-2-ene**, (CH₃)₂C=CHCH₃ [1]; its minor product is (CH₃)₂CHCHBrCH₃ [1] **[4]**
 *Examiner insight:* Both alkenes give the same tertiary carbocation, so the same major product; only the minor products differ.
@@ -117,6 +123,11 @@ D: (CH₃)₂CHC⁺H₂ **[1]**
 **12.** n(C₆H₁₀) = 1.64 ÷ 82.0 = 0.0200 mol [1]; mass = 0.0200 × 241.8 = **4.84 g** [1]
 
 **13.** No induced dipole (δ+/δ−) shown on Br₂ [1]; the first arrow must start from the C=C bond, not from a carbon atom [1]; the product should be CH₂BrCH₂Br (1,2-dibromoethane), with one Br on each carbon [1] **[3]**
+
+**14. (a)** Dipole Hδ+–Brδ− and an arrow from the C=C bond to H [1]; arrow from the H–Br bond to Br, giving the secondary cyclohexyl carbocation C₆H₁₁⁺ and Br⁻ [1]; arrow from a lone pair on Br⁻ to C⁺, giving bromocyclohexane, C₆H₁₁Br [1]
+
+**(b)** Cyclohexene is symmetrical, so H adding to either alkene carbon gives the same secondary carbocation and the same product [1]
+*Examiner insight:* Symmetry arguments need the reason (same carbocation), not just the word "symmetrical".
 
 ## Where marks are usually lost
 

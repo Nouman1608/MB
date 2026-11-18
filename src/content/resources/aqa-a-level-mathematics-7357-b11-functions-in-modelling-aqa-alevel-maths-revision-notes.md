@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "b-algebra-and-functions-aqa-alevel-maths"
     subtopic: "b11-functions-in-modelling-aqa-alevel-maths"
-description: "Condensed AQA A-level Maths 7357 B11 notes: modelling vocabulary, choosing and fitting functions, judging fit, limitations, refinements and a 12-question self-test."
+description: "Condensed AQA A-level Maths 7357 B11 notes: modelling terms, choosing and fitting functions, judging fit, limitations, refinements and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

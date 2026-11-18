@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-technology-cambridge-alevel-biology"
     subtopic: "principles-of-genetic-technology-cambridge-alevel"
-description: "Study guide to 9700 section 19.1: recombinant DNA, gene sources, enzymes and vectors, promoters, markers, gene editing, PCR, electrophoresis, microarrays and databases."
+description: "Study guide to 9700 section 19.1: recombinant DNA, gene sources, enzymes, vectors, promoters, markers, gene editing, PCR, electrophoresis and microarrays."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

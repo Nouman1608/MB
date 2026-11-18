@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-technology-cambridge-alevel-biology"
     subtopic: "genetically-modified-organisms-in-agriculture-cambridge"
-description: "Study guide to 9700 section 19.3: GM salmon, herbicide-resistant soybean and insect-resistant cotton, how each works, and the ethical and social issues of GM food."
+description: "Study guide to 9700 section 19.3: GM salmon, herbicide-resistant soybean and insect-resistant cotton, how each works, and the ethics of GM food production."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

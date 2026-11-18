@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-physics-topic-c"
     subtopic: "ib-dp-physics-c-2"
-description: "Study guide to IB DP Physics C.2 Wave model: reading wave graphs, v = fλ across media, sound and EM waves, particle motion and EM wavelength orders of magnitude."
+description: "Study guide to IB DP Physics C.2 Wave model: reading wave graphs, v = fλ across media, sound and EM waves, particle motion and EM wavelength magnitudes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

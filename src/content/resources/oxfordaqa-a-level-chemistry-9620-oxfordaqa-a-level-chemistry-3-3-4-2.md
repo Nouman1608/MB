@@ -99,6 +99,17 @@ The secondary carbocation has two electron-releasing alkyl groups on the positiv
 
 A quick check for any unsymmetrical alkene: work out both carbocations, classify each, and give the product from the more substituted one as major. If both carbocations are the same class (as in pent-2-ene, where both are secondary), neither product dominates by this argument.
 
+### Worked example 4: working backwards from a product
+
+*An alkene with formula C₅H₁₀ reacts with HBr. The major product is 2-bromopentane and the minor product is 1-bromopentane. Identify the alkene.*
+
+- Both products have an unbranched five-carbon chain, so the alkene is a pentene, not a methylbutene.
+- The bromine ends up on C1 or C2, so H and Br were added across C1 and C2: the C=C was between C1 and C2.
+- The alkene is **pent-1-ene**, CH₂=CHCH₂CH₂CH₃.
+- Check: H on C1 gives a secondary carbocation on C2 (major); H on C2 gives a primary carbocation on C1 (minor). The prediction matches the data.
+
+The other unbranched isomer, pent-2-ene, would give 2-bromopentane and 3-bromopentane, both from secondary carbocations, and no 1-bromopentane, so it does not fit.
+
 ## The bromine test for unsaturation
 
 Shake the substance with **bromine water** (orange). A compound containing C=C turns it **colourless** because the bromine adds across the double bond and is used up. A saturated compound leaves the solution **orange**.
@@ -109,7 +120,7 @@ Points that earn the observation mark:
 - Use "colourless", not "clear". Clear means transparent and can still be coloured.
 - The test shows unsaturation; it does not tell you **where** the double bond is or how many there are.
 
-### Worked example 4: bromine and a mixture
+### Worked example 5: bromine and a mixture
 
 *A 2.00 g sample contains cyclohexene, C₆H₁₀ (Mr 82.0), mixed with cyclohexane. It reacts with exactly 16.0 cm³ of a 0.500 mol dm⁻³ solution of bromine in an inert solvent. Calculate the percentage by mass of cyclohexene.*
 

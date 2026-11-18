@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "b-algebra-and-functions-aqa-alevel-maths"
     subtopic: "b10-partial-fractions-aqa-alevel-maths"
-description: "AQA A-level Maths 7357 B10 in depth: why partial fraction forms work, identities, factorising tricky denominators, comparing coefficients and fractional constants."
+description: "AQA A-level Maths 7357 B10 in depth: why partial fraction forms work, identities, tricky denominators, comparing coefficients and fractional constants."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

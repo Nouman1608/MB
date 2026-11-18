@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-technology-cambridge-alevel-biology"
     subtopic: "genetically-modified-organisms-in-agriculture-cambridge"
-description: "Condensed recall for 9700 section 19.3: GM salmon, herbicide-resistant soybean, Bt cotton, resistance by natural selection, and the ethics of GM food production."
+description: "Condensed recall for 9700 section 19.3: GM salmon, herbicide-resistant soybean, Bt cotton, resistance by natural selection, and the ethics of GM food."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "b-algebra-and-functions-aqa-alevel-maths"
     subtopic: "b7-graphs-of-functions-aqa-alevel-maths"
-description: "Condensed AQA A-level Maths 7357 B7 notes: root multiplicity, modulus graphs, a/x and a/x² asymptotes, intersections, proportion tests and a 12-question self-test."
+description: "Condensed AQA A-level Maths 7357 B7 notes: root multiplicity, modulus graphs, a/x and a/x² asymptotes, intersections, proportion tests, self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

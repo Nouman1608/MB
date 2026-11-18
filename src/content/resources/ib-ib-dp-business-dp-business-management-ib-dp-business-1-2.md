@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-business-unit-1"
     subtopic: "ib-dp-business-1-2"
-description: "IB DP Business Management 1.2 in depth: liability in numbers, choosing a legal form, takeover risk, social enterprise trade-offs and evaluating NGOs and cooperatives."
+description: "IB DP Business Management 1.2 in depth: liability in numbers, choosing a legal form, takeover risk, and the trade-offs of social enterprises and NGOs."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

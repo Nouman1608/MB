@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "classification-biodiversity-and-conservation-cambridge"
     subtopic: "biodiversity-cambridge-alevel-biology"
-description: "Study guide to 9700 section 18.2: ecosystems and niches, levels of biodiversity, random sampling, quadrats, transects, Lincoln index, correlation and Simpson's index."
+description: "Study guide to 9700 section 18.2: ecosystem and niche, levels of biodiversity, random sampling, quadrats, transects, Lincoln index, correlation and Simpson's D."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

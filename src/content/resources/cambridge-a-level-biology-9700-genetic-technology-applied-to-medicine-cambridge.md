@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-technology-cambridge-alevel-biology"
     subtopic: "genetic-technology-applied-to-medicine-cambridge"
-description: "Study guide to 9700 section 19.2: recombinant insulin, factor VIII and ADA, screening for BRCA, Huntington's and cystic fibrosis, gene therapy, and the ethical issues."
+description: "Study guide to 9700 section 19.2: recombinant insulin, factor VIII and ADA, genetic screening, gene therapy for SCID and eye disease, and the ethical issues."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
