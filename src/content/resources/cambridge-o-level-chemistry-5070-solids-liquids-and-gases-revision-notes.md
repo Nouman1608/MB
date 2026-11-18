@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "states-of-matter"
     subtopic: "solids-liquids-and-gases"
-description: "Revision notes for Cambridge O Level Chemistry 5070 section 1.1: the three states, changes of state, heating and cooling curves, and gas volume, with a self-test."
+description: "Revision notes for Cambridge O Level Chemistry 5070 section 1.1: the three states, changes of state, heating and cooling curves and gas volume, with self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

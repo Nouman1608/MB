@@ -122,7 +122,7 @@ Identify **two** errors in the student's statement and correct each one. **[4]**
 
 **5. (a)** Magnesium oxide [1].
 
-**(b)** Mg + H₂O → MgO + H₂: correct formulae [1]; correct products, no balancing numbers needed [1].
+**(b)** Mg + H₂O → MgO + H₂: correct formulae of the reactants [1]; correct formulae of the products [1]. No balancing numbers are needed.
 
 **6.** Copper base: metals are good thermal conductors, so heat passes quickly to the food [1]. Plastic handle: non-metals (and plastics) are poor thermal conductors, so the handle stays cool enough to hold [1].
 
@@ -148,7 +148,7 @@ Identify **two** errors in the student's statement and correct each one. **[4]**
 
 **(c)** Sodium conducts electricity and is malleable / forms an alkaline (basic) oxide [1]; melting point is only a general trend, and sodium is a known exception with a low melting point [1].
 
-**11.** Error 1: metals and dilute acids give a salt and **hydrogen**, not water [1]; also, not all metals react (copper, silver and gold do not) [1]. Error 2: not all metals react with cold water; some, such as magnesium, react quickly only with steam [1], and a metal reacting with steam forms an **oxide**, not a hydroxide [1]. Any four of these points, at least one from each error, [4].
+**11.** Error 1: metals and dilute acids give a salt and **hydrogen**, not water [1]; also, not all metals react (copper, silver and gold do not) [1]. Error 2: not all metals react with cold water; some, such as magnesium, react quickly only with steam [1], and a metal reacting with steam forms an **oxide**, not a hydroxide [1]. Two marks for each error, identified and corrected [4].
 
 **12.** One mark per correctly paired comparison, maximum [4]:
 

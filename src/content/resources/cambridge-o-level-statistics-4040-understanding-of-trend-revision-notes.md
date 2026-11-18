@@ -100,6 +100,13 @@ For example, 12 quarterly values give 9 four-point averages and 8 centred values
 - Describe direction, rate per period with units, consistency, and context.
 - Rate: (last moving average − first) ÷ (number of periods between them).
 
+## Sense checks
+
+- Moving averages should vary much less than the data; if they still zigzag, the order is probably wrong.
+- Each moving average lies between the smallest and largest values in its block.
+- Consecutive running totals differ only by (value joining − value leaving).
+- A centred value lies between the two averages it came from.
+
 ## Exam traps
 
 - Order of moving average not equal to the cycle length.
