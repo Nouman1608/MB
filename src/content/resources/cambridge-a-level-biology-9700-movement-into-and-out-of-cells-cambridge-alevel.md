@@ -107,7 +107,7 @@ Cubes of alkaline agar containing a pH indicator are placed in acid, and the tim
 | 2 | 3 : 1 | 950 | 1.05 |
 | 3 | 2 : 1 | 2 150 | 0.47 |
 
-Doubling the side halves SA:V but increases the time about four-fold, because acid must also travel twice as far to the centre. Larger blocks have less surface per unit volume **and** a longer diffusion distance. Control acid concentration and volume, temperature and agar batch; judge the end point against a white background, and repeat to calculate means.
+Doubling the side halves SA:V but increases the time about four-fold, because acid must also travel twice as far to the centre. Larger blocks have less surface per unit volume **and** a longer diffusion distance. Control acid concentration and volume, temperature and the agar mixture; judge the end point against a white background, and repeat to calculate means.
 
 ## 4.2.2 Visking tubing as a model cell
 

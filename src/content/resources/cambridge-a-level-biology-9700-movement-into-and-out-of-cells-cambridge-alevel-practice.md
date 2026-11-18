@@ -140,7 +140,7 @@ D: −600 kPa
 
 **(b)** Doubling the side halves SA:V, so there is less surface for acid to enter per unit volume [1]. The distance from the surface to the centre also doubles [1], so acid takes much longer to reach the middle; the time rises about four-fold each time the side doubles [1].
 
-**(c)** Any two: repeat each size and calculate a mean [1]; judge the end point against a white tile [1]; use cubes from the same agar batch; keep the acid temperature constant with a water bath. **[7]**
+**(c)** Any two: repeat each size and calculate a mean [1]; judge the end point against a white tile [1]; cut all cubes from the same agar mixture; keep the acid temperature constant with a water bath. **[7]**
 
 **10. (a)** 50% lies halfway between 30% and 70% [1], so 0.40 + 0.5 × 0.10 = **0.45 mol dm⁻³** [1].
 
