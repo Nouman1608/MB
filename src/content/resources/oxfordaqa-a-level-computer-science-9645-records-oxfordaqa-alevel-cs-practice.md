@@ -86,11 +86,12 @@ the first one.
 
 ```python
 team = [Plant("Aloe", 10.0), Plant("Basil", 20.0)]
-x = team[1]
+i = 1
+x = team[i]
 y = Plant(x.name, x.height)
 x.height = 25.0
 y.height = 30.0
-print(team[1].height, y.height, x is team[1])
+print(team[i].height, y.height, x is team[i])
 ```
 
 **[4]**
@@ -108,8 +109,9 @@ programmer sorts the scores list into descending order to produce a leaderboard.
 
 ```python
 row = [Sensor()] * 3
-row[0].sensor_id = "S9"
-print(row[2].sensor_id)
+start, middle, end = row
+start.sensor_id = "S9"
+print(end.sensor_id)
 ```
 
 **(a)** State the output. **[1]**
@@ -175,8 +177,8 @@ def average_active(sensors):
 *Examiner insight:* Dividing by `len(sensors)` instead of the count of active sensors gives the wrong mean
 and loses the accumulation mark.
 
-**8.** Output: `25.0 30.0 True` [1] [1] [1] (one mark for each value). `team[1].height` is 25.0 because `x`
-refers to the **same record** as `team[1]`, while `y` is a **new** record, so changing `y` does not affect
+**8.** Output: `25.0 30.0 True` [1] [1] [1] (one mark for each value). `team[i].height` is 25.0 because `x`
+refers to the **same record** as `team[i]`, while `y` is a **new** record, so changing `y` does not affect
 the list [1]. **[4]**
 
 **9. (a)** The scores move to new positions but the names do not [1], so names are now matched with the
