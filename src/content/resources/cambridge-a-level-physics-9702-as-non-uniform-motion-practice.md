@@ -78,7 +78,7 @@ D: The drag is still increasing. **[1]**
 
 **(b)** Describe how the velocity changes after the parachute opens until the skydiver lands. **[3]**
 
-**9.** Sketch a velocity-time graph for the whole descent in Questions 7 and 8, from leaving the balloon until just before landing. Label **three** key features. **[4]**
+**9.** Sketch a velocity-time graph for the whole descent in Questions 7 and 8, from leaving the balloon until just before landing. Label **four** key features. **[4]**
 
 **10.** A ball of mass 0.20 kg is thrown vertically upwards. At a certain speed the air resistance on it is 0.50 N.
 
@@ -126,12 +126,11 @@ D: The drag is still increasing. **[1]**
 
 **(b)** The skydiver keeps moving downwards but slows down [1]; as the speed falls, the drag falls, so the deceleration decreases [1]; a new, lower terminal velocity is reached when drag again equals 883 N, and the skydiver falls at that constant speed until landing [1]. **[5]**
 
-**9.** Any three labelled features, with a curve of correct shape:
-Initial gradient equal to g (straight-ish start through the origin) [1].
+**9.** One mark for each correctly drawn and labelled feature:
+Starts at the origin with an initial gradient equal to g [1].
 Curve with decreasing gradient levelling off at the first terminal velocity [1].
 Sharp but continuous fall in velocity when the parachute opens [1].
-Second, lower horizontal section labelled as the new terminal velocity [1].
-*(Award the fourth mark only for a correct overall shape with the three features labelled.)* **[4]**
+Second, lower horizontal section labelled as the new terminal velocity [1]. **[4]**
 
 **10. (a)** W = 0.20 × 9.81 = 1.96 N; rising, drag acts downwards: resultant = 1.96 + 0.50 = 2.46 N [1]; a = 2.46 ÷ 0.20 = **12.3 m s⁻² downwards** [1].
 
