@@ -101,7 +101,7 @@ To estimate ∫ₐᵇ y dx with n strips of equal width h = (b − a)/n:
 
 ∫ₐᵇ y dx ≈ (h/2)[y₀ + yₙ + 2(y₁ + y₂ + ... + yₙ₋₁)]
 
-The formula is in the formulae booklet; the skills are building the table of values accurately and judging the result.
+Know the structure of the formula (end values once, middle values twice); the skills that earn most of the marks are building the table of values accurately and judging the result.
 
 ### Worked example 4: estimate, error and improvement
 
