@@ -70,7 +70,7 @@ D: ¹⁴₆C and ¹⁴₇N
 
 **(b)** Identify the lightest and heaviest molecules. **[1]**
 
-**(c)** Calculate the density at room conditions of the heaviest molecule as a gas, to 3 significant figures. **[2]**
+**(c)** Calculate the density at room conditions of the lightest molecule as a gas, to 3 significant figures. **[2]**
 
 **8.** Water containing ordinary hydrogen, H₂O, has a density of 1.00 g cm⁻³ at room temperature.
 
@@ -132,7 +132,7 @@ D: ¹⁴₆C and ¹⁴₇N
 
 **(b)** Lightest ¹H³⁵Cl (36), heaviest ²H³⁷Cl (39) [1].
 
-**(c)** 39 ÷ 24.0 [1] = 1.63 g dm⁻³ [1]. *(Total: 5 marks)*
+**(c)** 36 ÷ 24.0 [1] = 1.50 g dm⁻³ [1]. *(Total: 5 marks)*
 
 **8. (a)** Density is proportional to molecular mass if volume per molecule is the same [1]: 1.00 × 20 ÷ 18 = 1.11 g cm⁻³ [1].
 
