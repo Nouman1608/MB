@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-magnetic-fields"
     subtopic: "a-electromagnetic-induction"
-description: "Revision notes for Cambridge A Level Physics 9702 20.5 Electromagnetic induction: flux, flux linkage, Faraday's and Lenz's laws, experiments, traps and a self-test."
+description: "Revision notes for Cambridge A Level Physics 9702 20.5 Electromagnetic induction: flux, flux linkage, Faraday and Lenz, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

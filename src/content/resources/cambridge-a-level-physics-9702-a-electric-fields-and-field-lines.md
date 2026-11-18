@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-electric-fields"
     subtopic: "a-electric-fields-and-field-lines"
-description: "A focused guide to 18.1 in Cambridge A Level Physics 9702: electric field as a field of force, E as force per unit positive charge, F = qE and drawing field-line patterns."
+description: "Cambridge A Level Physics 9702 subtopic 18.1: electric field as a field of force, force per unit positive charge, F = qE and field-line patterns."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

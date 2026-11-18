@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-thermodynamics"
     subtopic: "a-internal-energy"
-description: "A focused guide to 16.1 Internal energy in Cambridge A Level Physics 9702: random kinetic and potential energies, state dependence and why temperature rise means more energy."
+description: "Cambridge A Level Physics 9702 subtopic 16.1: internal energy as random molecular kinetic and potential energy, a function of state linked to temperature."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

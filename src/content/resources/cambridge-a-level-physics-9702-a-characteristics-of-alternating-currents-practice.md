@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-alternating-currents"
     subtopic: "a-characteristics-of-alternating-currents"
-description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 21.1 Characteristics of alternating currents: x = x₀ sin ωt, r.m.s. and mean power."
+description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 21.1 Characteristics of alternating currents: r.m.s. and mean power."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

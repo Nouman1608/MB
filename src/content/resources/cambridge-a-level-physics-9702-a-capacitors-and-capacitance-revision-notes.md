@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-capacitance"
     subtopic: "a-capacitors-and-capacitance"
-description: "Condensed notes on 19.1 for Cambridge A Level Physics 9702: capacitance of spheres and parallel plates, C = Q/V, series and parallel derivations, networks and a self-test."
+description: "Revision notes on 19.1 for Cambridge A Level Physics 9702: C = Q/V, isolated spheres, series and parallel derivations, networks and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

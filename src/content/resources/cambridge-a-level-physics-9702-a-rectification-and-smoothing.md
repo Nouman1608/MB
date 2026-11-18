@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-alternating-currents"
     subtopic: "a-rectification-and-smoothing"
-description: "A focused guide to 21.2 Rectification and smoothing in Cambridge A Level Physics 9702: half-wave and bridge rectifiers, current paths, and how C and R control the ripple."
+description: "A focused guide to 21.2 Rectification and smoothing in Cambridge A Level Physics 9702: half-wave and bridge rectifiers, and how C and R set the ripple."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

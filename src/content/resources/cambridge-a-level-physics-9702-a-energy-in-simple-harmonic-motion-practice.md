@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-oscillations"
     subtopic: "a-energy-in-simple-harmonic-motion"
-description: "Original practice questions with full mark-scheme answers on energy interchange, E = ½mω²x₀² and energy graphs in SHM for Cambridge A Level Physics 9702 subtopic 17.2."
+description: "Original practice questions with mark-scheme answers on energy interchange and E = ½mω²x₀² for Cambridge A Level Physics 9702 subtopic 17.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

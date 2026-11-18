@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-oscillations"
     subtopic: "a-simple-harmonic-oscillations"
-description: "Condensed notes on 17.1 for Cambridge A Level Physics 9702: SHM vocabulary, a = −ω²x, x = x₀ sin ωt, velocity equations, graph shapes, traps and a 12-question self-test."
+description: "Revision notes on 17.1 for Cambridge A Level Physics 9702: SHM terms, a = −ω²x, displacement and velocity equations, graphs and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

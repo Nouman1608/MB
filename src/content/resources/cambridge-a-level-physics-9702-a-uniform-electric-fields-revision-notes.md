@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-electric-fields"
     subtopic: "a-uniform-electric-fields"
-description: "Condensed notes on 18.2 for Cambridge A Level Physics 9702: E = ΔV/Δd, potential between plates, acceleration and parabolic deflection of charged particles, and a self-test."
+description: "Revision notes on 18.2 for Cambridge A Level Physics 9702: E = ΔV/Δd, potential between plates, particle acceleration and deflection, self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

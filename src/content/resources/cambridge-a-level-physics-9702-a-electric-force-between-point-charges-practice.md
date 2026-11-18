@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-electric-fields"
     subtopic: "a-electric-force-between-point-charges"
-description: "Original practice questions with full mark-scheme answers on Coulomb's law, charged spheres, charge sharing and vector forces for Cambridge A Level Physics 9702 subtopic 18.3."
+description: "Original practice questions with mark-scheme answers on Coulomb's law and charged spheres for Cambridge A Level Physics 9702 subtopic 18.3."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

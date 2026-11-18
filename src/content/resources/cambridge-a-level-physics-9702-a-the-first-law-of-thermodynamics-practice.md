@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-thermodynamics"
     subtopic: "a-the-first-law-of-thermodynamics"
-description: "Original practice questions with full mark-scheme answers on W = pΔV, work by and on a gas, ΔU = q + W and cycle tables for Cambridge A Level Physics 9702 subtopic 16.2."
+description: "Original practice questions with mark-scheme answers on W = pΔV, ΔU = q + W and cycle tables for Cambridge A Level Physics 9702 subtopic 16.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

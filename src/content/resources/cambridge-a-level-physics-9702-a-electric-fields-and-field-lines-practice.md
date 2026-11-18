@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-electric-fields"
     subtopic: "a-electric-fields-and-field-lines"
-description: "Original practice questions with full mark-scheme answers on electric field strength, F = qE and field-line patterns for Cambridge A Level Physics 9702 subtopic 18.1."
+description: "Original practice questions with mark-scheme answers on field strength, F = qE and field lines for Cambridge A Level Physics 9702 subtopic 18.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

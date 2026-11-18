@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-magnetic-fields"
     subtopic: "a-concept-of-a-magnetic-field"
-description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 20.1 Concept of a magnetic field: sources, fields of force and field lines."
+description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 20.1 Concept of a magnetic field: sources and field lines."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

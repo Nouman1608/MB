@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-oscillations"
     subtopic: "a-simple-harmonic-oscillations"
-description: "Original practice questions with full mark-scheme answers on SHM terms, a = −ω²x, x = x₀ sin ωt, velocity and graphs for Cambridge A Level Physics 9702 subtopic 17.1."
+description: "Original practice questions with mark-scheme answers on SHM terms, equations and graphs for Cambridge A Level Physics 9702 subtopic 17.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

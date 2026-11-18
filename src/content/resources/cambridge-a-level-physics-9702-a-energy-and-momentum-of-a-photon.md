@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-quantum-physics"
     subtopic: "a-energy-and-momentum-of-a-photon"
-description: "A focused guide to 22.1 Energy and momentum of a photon in Cambridge A Level Physics 9702: photons as quanta, E = hf, the electronvolt, p = E/c and photon flow rates."
+description: "A focused guide to 22.1 Energy and momentum of a photon in Cambridge A Level Physics 9702: photons, E = hf, the electronvolt and p = E/c."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

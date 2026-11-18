@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-electric-fields"
     subtopic: "a-electric-force-between-point-charges"
-description: "Condensed notes on 18.3 for Cambridge A Level Physics 9702: Coulomb's law, spheres as point charges, scaling, charge sharing, vector sums, key terms and a self-test."
+description: "Revision notes on 18.3 for Cambridge A Level Physics 9702: Coulomb's law, spheres as point charges, scaling, charge sharing and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

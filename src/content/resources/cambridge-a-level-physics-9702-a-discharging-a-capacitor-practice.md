@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-capacitance"
     subtopic: "a-discharging-a-capacitor"
-description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 19.3 Discharging a capacitor: τ = RC, exponential decay and graph analysis."
+description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 19.3 Discharging a capacitor: τ = RC and exponential decay."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

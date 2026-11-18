@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-magnetic-fields"
     subtopic: "a-electromagnetic-induction"
-description: "A focused guide to 20.5 Electromagnetic induction in Cambridge A Level Physics 9702: flux Φ = BA, flux linkage, Faraday's and Lenz's laws, graphs and moving conductors."
+description: "A focused guide to 20.5 Electromagnetic induction in Cambridge A Level Physics 9702: flux, flux linkage, Faraday's and Lenz's laws, and moving rods."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-electric-fields"
     subtopic: "a-electric-force-between-point-charges"
-description: "A focused guide to 18.3 in Cambridge A Level Physics 9702: Coulomb's law, treating charged spheres as point charges, scaling, adding forces as vectors and worked examples."
+description: "Cambridge A Level Physics 9702 subtopic 18.3: Coulomb's law, charged spheres as point charges, charge sharing and adding forces as vectors."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

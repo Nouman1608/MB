@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-capacitance"
     subtopic: "a-capacitors-and-capacitance"
-description: "Original practice questions with full mark-scheme answers on C = Q/V, capacitance of spheres and series and parallel networks for Cambridge A Level Physics 9702 subtopic 19.1."
+description: "Original practice questions with mark-scheme answers on C = Q/V, spheres and capacitor networks for Cambridge A Level Physics 9702 subtopic 19.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

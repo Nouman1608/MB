@@ -89,6 +89,16 @@ Receptor (conformational change) → G-protein → adenylyl cyclase → cAMP (se
 - Test strip: colour compared with chart.
 - Biosensor: immobilised glucose oxidase on electrode → current → digital reading.
 
+### Structure to function, in one line each
+
+| Structure | Feature | Function it serves |
+|---|---|---|
+| Glomerulus | Many capillaries; wide afferent, narrow efferent arteriole | Large area and high pressure for ultrafiltration |
+| Bowman's capsule | Podocytes with filtration slits | Filtrate passes easily into the capsule |
+| PCT | Microvilli and basal infoldings | Large area for transporters and pumps |
+| PCT | Many mitochondria | ATP for Na⁺/K⁺ pumps |
+| Collecting duct | Cells with ADH receptors and aquaporin vesicles | Variable water reabsorption |
+
 ## Key terms
 
 | Term | Meaning |

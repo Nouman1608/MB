@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-oscillations"
     subtopic: "a-damped-and-forced-oscillations-resonance"
-description: "A focused guide to 17.3 in Cambridge A Level Physics 9702: how resistive forces damp oscillations, sketching light, critical and heavy damping, and resonance explained."
+description: "Cambridge A Level Physics 9702 subtopic 17.3: how resistive forces damp oscillations, light, critical and heavy damping sketches, and resonance."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

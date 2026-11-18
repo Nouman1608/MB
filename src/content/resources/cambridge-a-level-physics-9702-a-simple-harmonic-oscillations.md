@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-oscillations"
     subtopic: "a-simple-harmonic-oscillations"
-description: "A focused guide to 17.1 Simple harmonic oscillations in Cambridge A Level Physics 9702: the vocabulary, a = −ω²x, x = x₀ sin ωt, velocity equations and graph analysis."
+description: "Cambridge A Level Physics 9702 subtopic 17.1: SHM vocabulary, a = −ω²x, x = x₀ sin ωt, the velocity equations and reading SHM graphs."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

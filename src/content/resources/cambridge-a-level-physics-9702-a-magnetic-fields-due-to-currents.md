@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-magnetic-fields"
     subtopic: "a-magnetic-fields-due-to-currents"
-description: "A focused guide to 20.4 Magnetic fields due to currents in Cambridge A Level Physics 9702: wire, coil and solenoid patterns, ferrous cores, and forces between conductors."
+description: "A focused guide to 20.4 Magnetic fields due to currents in Cambridge A Level Physics 9702: wire, coil and solenoid fields, and forces between wires."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

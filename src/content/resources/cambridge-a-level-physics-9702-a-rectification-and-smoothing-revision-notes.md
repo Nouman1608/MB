@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-alternating-currents"
     subtopic: "a-rectification-and-smoothing"
-description: "Revision notes for Cambridge A Level Physics 9702 21.2 Rectification and smoothing: half-wave and bridge rectifiers, smoothing, ripple, exam traps and a self-test."
+description: "Revision notes for Cambridge A Level Physics 9702 21.2 Rectification and smoothing: half-wave and bridge rectifiers, ripple, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -84,6 +84,14 @@ ripple ≈ V₀ − V_min ≈ V₀ t / (RC)   when RC ≫ t
 ```
 
 Example: V₀ = 15 V, 50 Hz full-wave, R = 2.2 kΩ, C = 220 μF → RC = 0.48 s, ripple ≈ 0.31 V.
+
+## Sketch checklist
+
+- Draw the input (dashed) and output on the same time axis.
+- Half-wave: humps in alternate half-periods, flat zero between them.
+- Full-wave: a hump in every half-period, all on the same side of the axis.
+- Smoothed: output rises with the input to the peak, then falls gently (nearly straight when RC is large) until it meets the rising edge of the next pulse; label the ripple.
+- Larger C or larger R: draw a shallower fall and a smaller ripple.
 
 ## Key terms
 

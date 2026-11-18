@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-electric-fields"
     subtopic: "a-electric-field-of-a-point-charge"
-description: "A focused guide to 18.4 in Cambridge A Level Physics 9702: E = Q/(4πε₀r²), radial fields, charged spheres, combining fields from two charges and zero-field points."
+description: "Cambridge A Level Physics 9702 subtopic 18.4: E = Q/(4πε₀r²), radial fields, charged spheres and combining the fields of two charges."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

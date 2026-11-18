@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-thermodynamics"
     subtopic: "a-internal-energy"
-description: "Condensed notes on 16.1 Internal energy for Cambridge A Level Physics 9702: the definition word by word, state dependence, temperature links, key terms and a self-test."
+description: "Revision notes on 16.1 Internal energy for Cambridge A Level Physics 9702: the definition word by word, phases, ideal gases and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

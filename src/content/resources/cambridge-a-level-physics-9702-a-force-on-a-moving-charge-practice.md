@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-magnetic-fields"
     subtopic: "a-force-on-a-moving-charge"
-description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 20.3 Force on a moving charge: F = BQv, circular paths, Hall effect and selectors."
+description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 20.3 Force on a moving charge: F = BQv, Hall effect, selectors."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

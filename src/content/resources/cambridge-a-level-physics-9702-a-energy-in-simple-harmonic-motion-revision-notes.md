@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-oscillations"
     subtopic: "a-energy-in-simple-harmonic-motion"
-description: "Condensed notes on 17.2 for Cambridge A Level Physics 9702: energy interchange in SHM, E = ½mω²x₀², energy–displacement and energy–time graphs, traps and a self-test."
+description: "Revision notes on 17.2 for Cambridge A Level Physics 9702: energy interchange in SHM, E = ½mω²x₀², energy graphs, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

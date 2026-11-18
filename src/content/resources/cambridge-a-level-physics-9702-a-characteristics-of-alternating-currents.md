@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-alternating-currents"
     subtopic: "a-characteristics-of-alternating-currents"
-description: "A focused guide to 21.1 Characteristics of alternating currents in Cambridge A Level Physics 9702: period, frequency, peak, x = x₀ sin ωt, mean power and r.m.s. values."
+description: "A focused guide to 21.1 Characteristics of alternating currents in Cambridge A Level Physics 9702: period, peak, x = x₀ sin ωt, mean power and r.m.s."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

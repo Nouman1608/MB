@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-electric-fields"
     subtopic: "a-electric-field-of-a-point-charge"
-description: "Original practice questions with full mark-scheme answers on E = Q/(4πε₀r²), charged spheres and combined fields for Cambridge A Level Physics 9702 subtopic 18.4."
+description: "Original practice questions with mark-scheme answers on E = Q/(4πε₀r²) and combined fields for Cambridge A Level Physics 9702 subtopic 18.4."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-magnetic-fields"
     subtopic: "a-concept-of-a-magnetic-field"
-description: "A focused guide to 20.1 Concept of a magnetic field in Cambridge A Level Physics 9702: fields of force from moving charges and magnets, and drawing field lines well."
+description: "A focused guide to 20.1 Concept of a magnetic field in Cambridge A Level Physics 9702: fields of force from moving charges and magnets, and field lines."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-magnetic-fields"
     subtopic: "a-electromagnetic-induction"
-description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 20.5 Electromagnetic induction: flux, flux linkage, Faraday's and Lenz's laws."
+description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 20.5 Electromagnetic induction: flux linkage, Faraday and Lenz."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

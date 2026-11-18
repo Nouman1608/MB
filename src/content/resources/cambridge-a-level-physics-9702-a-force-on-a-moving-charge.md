@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-magnetic-fields"
     subtopic: "a-force-on-a-moving-charge"
-description: "A focused guide to 20.3 Force on a moving charge in Cambridge A Level Physics 9702: F = BQv sin θ, circular paths, the Hall voltage, Hall probes and velocity selection."
+description: "A focused guide to 20.3 Force on a moving charge in Cambridge A Level Physics 9702: F = BQv sin θ, circular paths, Hall probes and velocity selection."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

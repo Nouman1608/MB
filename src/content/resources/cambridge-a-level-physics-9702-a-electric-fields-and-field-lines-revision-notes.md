@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-electric-fields"
     subtopic: "a-electric-fields-and-field-lines"
-description: "Condensed notes on 18.1 for Cambridge A Level Physics 9702: field of force, E as force per unit positive charge, F = qE, field-line rules and patterns, with a self-test."
+description: "Revision notes on 18.1 for Cambridge A Level Physics 9702: field strength definition, F = qE, field-line rules and patterns, and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

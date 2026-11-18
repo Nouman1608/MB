@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-magnetic-fields"
     subtopic: "a-force-on-a-current-carrying-conductor"
-description: "Revision notes for Cambridge A Level Physics 9702 20.2 Force on a current-carrying conductor: F = BIL sin θ, the left-hand rule, the tesla, traps and a self-test."
+description: "Revision notes for Cambridge A Level Physics 9702 20.2 Force on a current-carrying conductor: F = BIL sin θ, the tesla, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

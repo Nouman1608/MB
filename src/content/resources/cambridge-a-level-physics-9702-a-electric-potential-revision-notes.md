@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-electric-fields"
     subtopic: "a-electric-potential"
-description: "Condensed notes on 18.5 for Cambridge A Level Physics 9702: definition of potential, E as negative potential gradient, V = Q/(4πε₀r), potential energy and a self-test."
+description: "Revision notes on 18.5 for Cambridge A Level Physics 9702: potential, potential gradient, V = Q/(4πε₀r), potential energy and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-electric-fields"
     subtopic: "a-electric-field-of-a-point-charge"
-description: "Condensed notes on 18.4 for Cambridge A Level Physics 9702: E = Q/(4πε₀r²), inverse-square scaling, charged spheres, zero-field points, key terms and a self-test."
+description: "Revision notes on 18.4 for Cambridge A Level Physics 9702: E = Q/(4πε₀r²), inverse-square scaling, spheres, zero-field points and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

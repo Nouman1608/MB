@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-capacitance"
     subtopic: "a-discharging-a-capacitor"
-description: "A focused guide to 19.3 Discharging a capacitor in Cambridge A Level Physics 9702: V, Q and I against time graphs, τ = RC, x = x₀e^(−t/RC) and finding τ from data."
+description: "A focused guide to 19.3 Discharging a capacitor in Cambridge A Level Physics 9702: decay graphs, τ = RC, x = x₀e^(−t/RC) and finding τ from data."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
