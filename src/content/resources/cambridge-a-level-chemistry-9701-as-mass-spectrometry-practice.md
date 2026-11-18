@@ -144,8 +144,7 @@ ways, so the ratio is 1 : 2 : 1 [1].
 
 **10. (a)** m/e 60 [1].
 
-**(b)** Propan-1-ol gives m/e 31, CH₂OH⁺; propan-2-ol gives m/e 45, CH₃CHOH⁺ [1 for each isomer correctly
-matched with its ion, maximum 2].
+**(b)** Propan-1-ol gives m/e 31, CH₂OH⁺ [1]; propan-2-ol gives m/e 45, CH₃CHOH⁺ [1].
 
 **11. (a)** Both are molecular ions, M⁺ [1]: m/e 78 contains ³⁵Cl and m/e 80 contains ³⁷Cl, and the 3 : 1
 ratio reflects the natural abundance of the two chlorine isotopes [1].
