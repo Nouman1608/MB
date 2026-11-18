@@ -73,7 +73,7 @@ D: proceeds from the sale of a van **[1]**
 
 **(b)** Vans are depreciated at 20% of cost per year, with a full year's charge in the year of purchase. Calculate the depreciation for the first year.
 
-**(c)** The signwriting and the roof rack were wrongly debited to motor expenses. Calculate the effect of this error on the profit for the year and on non-current assets. **[9]**
+**(c)** The signwriting and the roof rack were wrongly debited to motor expenses. Calculate the effect of this error on the profit for the year and on non-current assets. **[8]**
 
 **8.** For each receipt of Hollybank Couriers, state whether it is a capital receipt or a revenue receipt, and name the account credited.
 
@@ -131,7 +131,7 @@ D: proceeds from the sale of a van **[1]**
 
 **(b)** 25,430 x 20% = **5,086** [1].
 
-**(c)** Expensed 650 + 380 = 1,030; depreciation not charged 1,030 x 20% = 206 [1]. Profit for the year understated by 1,030 - 206 = **824** [1]. Non-current assets understated by **824** [1]. Total: 9 marks.
+**(c)** Expensed 650 + 380 = 1,030; depreciation not charged 1,030 x 20% = 206 [1]. Profit for the year understated by 1,030 - 206 = **824** [1]. Non-current assets understated by **824** [1]. Total: 8 marks.
 
 *Examiner insight:* Signwriting and the roof rack are made before the van is used, so they are part of its cost. Fuel, insurance and servicing are running costs.
 

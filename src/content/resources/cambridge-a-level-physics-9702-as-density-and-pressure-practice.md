@@ -56,7 +56,7 @@ D: the mass of the object and the depth of the liquid **[1]**
 
 **4.** A person of weight 600 N balances on one shoe heel of area 1.0 × 10⁻⁴ m². Calculate the pressure on the floor. **[2]**
 
-**5.** A water storage tank has its surface 25 m above a tap. Calculate the difference in water pressure between the tank surface and the tap. **[2]**
+**5.** A water storage tank has its surface 32 m above a tap. Calculate the difference in water pressure between the tank surface and the tap. **[2]**
 
 **6.** Explain why the pressure at the bottom of a tall narrow jar of water is the same as at the bottom of a wide bowl of water of the same depth. **[2]**
 
@@ -84,7 +84,7 @@ D: the mass of the object and the depth of the liquid **[1]**
 
 **(d)** Explain why atmospheric pressure can be ignored in this calculation. **[1]**
 
-**10.** A stone of mass 0.60 kg and volume 2.4 × 10⁻⁴ m³ hangs from a spring balance and is fully submerged in water.
+**10.** A stone of mass 0.75 kg and volume 3.0 × 10⁻⁴ m³ hangs from a spring balance and is fully submerged in water.
 
 **(a)** Calculate the density of the stone. **[1]**
 
@@ -94,11 +94,11 @@ D: the mass of the object and the depth of the liquid **[1]**
 
 **(d)** The stone is lowered further, staying fully submerged. State and explain what happens to the reading. **[2]**
 
-**11.** An iceberg of density 920 kg m⁻³ floats in seawater of density 1030 kg m⁻³.
+**11.** A block of wax of density 900 kg m⁻³ floats in a salt solution of density 1150 kg m⁻³.
 
-**(a)** Explain, using upthrust, why the iceberg floats with part of it above the surface. **[2]**
+**(a)** Explain, using upthrust, why the block floats with part of it above the surface. **[2]**
 
-**(b)** Calculate the percentage of the iceberg's volume below the surface. **[2]**
+**(b)** Calculate the percentage of the block's volume below the surface. **[2]**
 
 ---
 
@@ -112,7 +112,7 @@ D: the mass of the object and the depth of the liquid **[1]**
 
 **4.** p = 600 ÷ 1.0 × 10⁻⁴ [1] = **6.0 × 10⁶ Pa** [1]. **[2]**
 
-**5.** Δp = 1000 × 9.81 × 25 [1] = **2.5 × 10⁵ Pa** (2.45 × 10⁵ Pa) [1]. **[2]**
+**5.** Δp = 1000 × 9.81 × 32 [1] = **3.1 × 10⁵ Pa** (3.14 × 10⁵ Pa) [1]. **[2]**
 
 **6.** The pressure depends only on ρ, g and the vertical depth, Δp = ρgΔh [1]. A wider container has more water above the base, but the weight is spread over a proportionally larger area, so the pressure is unchanged [1]. **[2]**
 
@@ -132,17 +132,17 @@ D: the mass of the object and the depth of the liquid **[1]**
 
 **(d)** It adds the same pressure to the top and the bottom, so the extra forces are equal and opposite and cancel [1]. **[5]**
 
-**10. (a)** ρ = 0.60 ÷ 2.4 × 10⁻⁴ = **2500 kg m⁻³** [1].
+**10. (a)** ρ = 0.75 ÷ 3.0 × 10⁻⁴ = **2500 kg m⁻³** [1].
 
-**(b)** W = 0.60 × 9.81 = 5.89 N [1]; upthrust = 1000 × 9.81 × 2.4 × 10⁻⁴ = 2.35 N [1].
+**(b)** W = 0.75 × 9.81 = 7.36 N [1]; upthrust = 1000 × 9.81 × 3.0 × 10⁻⁴ = 2.94 N [1].
 
-**(c)** Reading = 5.89 − 2.35 = **3.53 N** [1].
+**(c)** Reading = 7.36 − 2.94 = **4.4 N** [1].
 
 **(d)** The reading does not change [1], because the stone still displaces the same volume of water, so the upthrust is unchanged (the pressure difference between top and bottom stays the same) [1]. **[6]**
 
-**11. (a)** When fully submerged, the upthrust would exceed the iceberg's weight because ice is less dense than seawater [1]. It rises until the volume below the surface displaces seawater of weight equal to its own weight, so upthrust equals weight with part above the surface [1].
+**11. (a)** When fully submerged, the upthrust would exceed the block's weight because wax is less dense than the solution [1]. It rises until the volume below the surface displaces seawater of weight equal to its own weight, so upthrust equals weight with part above the surface [1].
 
-**(b)** Fraction submerged = 920 ÷ 1030 [1] = 0.893, so **89%** [1]. **[4]**
+**(b)** Fraction submerged = 900 ÷ 1150 [1] = 0.783, so **78%** [1]. **[4]**
 
 ---
 
