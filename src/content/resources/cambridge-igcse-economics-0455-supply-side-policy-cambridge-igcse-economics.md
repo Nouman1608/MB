@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "government-and-the-macroeconomy-cambridge-igcse-economics"
     subtopic: "supply-side-policy-cambridge-igcse-economics"
-description: "Study guide to supply-side policy for Cambridge IGCSE Economics 0455 section 4.5: the six named measures, worked examples, and effects on the macroeconomic aims."
+description: "Study guide to supply-side policy for Cambridge IGCSE Economics 0455 section 4.5: the six named measures, worked examples and effects on the aims."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
