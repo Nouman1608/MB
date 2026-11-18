@@ -282,3 +282,13 @@ The project owner reported that the teacher re-checked the page after the D-500 
 QA-0012 is a data-change reassessment of QA-0011, with the page text unchanged. F10 (teacher check of the new version) is fixed, so editorial completeness goes from 4 to 5 and the total from 89.5 to 90.5. The scorecard now shows the page as VERIFIED_APPROVED. F9 (the level guide has not been compared with an official 9990 Paper 3 mark scheme) and the advisory F3 (Freeman et al. procedure not checked against the paper) stay open: a teacher's approval does not stand in for those two source checks.
 
 Sections A, B, I, M, N and O above describe earlier positions.
+
+## Q. Addendum, 18 November 2026: F3 and F9 checked against their sources (D-503)
+
+**F3 (Freeman et al. procedure).** The 2003 paper is closed access. Answer 1(b) was checked against the PubMed abstract (24 nonclinical participants, a neutral virtual environment with computer-generated people, assessments of psychiatric-symptom items and of thoughts about the virtual characters). The library setting was checked against a 2025 systematic review (PMC12671307, citing the 2003 paper) and Freeman (2008, PMC2830058). Every marking point is supported. F3 is fixed; the full text was not read.
+
+**F9 (the 4(b) level guide).** Compared with Table B in Cambridge's 2024 specimen Paper 3 mark scheme and the June 2024 Paper 31 mark scheme. The guide was wrong. The official table has five levels (9–10, 7–8, 5–6, 3–4, 1–2), and Levels 3 to 5 require the named issue, so an answer without idiographic versus nomothetic gets at most 4 marks. The old four-level guide allowed up to 8. Answer 4(b) now summarises Table B and links the specimen mark scheme. F9 is fixed.
+
+**Effect.** QA-0013 scores the page 91.5. Because 4(b) changed, the teacher verification recorded earlier the same day (D-502) no longer matches the page, so the scorecard shows REVERIFICATION_REQUIRED and F11 is open. The review pack (`review-packs/a-level-psychology-clinical-psychology-practice.md`) is regenerated for the teacher. Only 4(b) changed.
+
+Sections A, B, I, M, N, O and P above describe earlier positions.

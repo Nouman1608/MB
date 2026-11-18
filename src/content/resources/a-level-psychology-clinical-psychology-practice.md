@@ -106,15 +106,16 @@ In the exam, Paper 4 Section A has two structured questions on each option, wort
 
 **4. (a)** Up to 6 marks for a clear, detailed description. Based on classical conditioning and reciprocal inhibition: relaxation and fear cannot occur at the same time (1). The client is taught relaxation techniques such as deep breathing or progressive muscle relaxation (1). Client and therapist build an anxiety hierarchy from least to most feared situations (1). The client is exposed to each step while relaxed, starting at the bottom (1). They move up only when calm at the current step (1). Exposure can be imagined (in vitro) or real (in vivo), and the end point is the most feared situation with no fear response (1).
 
-**4. (b)** Marked as a whole answer against levels, not as separate points. The 9990 syllabus does not publish level descriptors for this question, so the levels below are Marlbridge's own guide, not Cambridge's published mark scheme. They are based on the syllabus's description of assessment objective AO3, Analysis and evaluation: explaining strengths and weaknesses, using a range of evidence, and reaching a conclusion from that evidence. Choose the level that fits the answer best, then the mark within it. If you have a Cambridge mark scheme for a real paper, use its level descriptors instead.
+**4. (b)** Marked as a whole answer against levels, not as separate points. Cambridge marks the 10-mark evaluate questions on Paper 3 with a five-level table for assessment objective AO3, Analysis and evaluation (Table B in the [2024 specimen Paper 3 mark scheme](https://www.cambridgeinternational.org/Images/634528-2024-specimen-mark-scheme-paper-3.pdf) and in the June 2024 Paper 31 mark scheme). It is summarised below; the published table has the exact wording. Choose the level that fits the answer best, then the mark within it.
 
-- **Level 4 (9–10 marks):** a detailed, balanced evaluation with a range of points, each explained and supported with evidence; idiographic versus nomothetic is developed and applied to systematic desensitisation; a reasoned conclusion follows from the points made.
-- **Level 3 (6–8 marks):** a range of points, most of them explained, but less detailed or less balanced; idiographic versus nomothetic is discussed but not fully developed, or is missing from an otherwise strong answer; any conclusion is brief or only partly supported.
-- **Level 2 (3–5 marks):** a few relevant points that are listed or only partly explained, or an answer that is mostly one-sided; idiographic versus nomothetic may be named but is not applied to the treatment.
-- **Level 1 (1–2 marks):** one or two basic points with little explanation, or an answer that mostly describes the treatment instead of evaluating it.
-- **0 marks:** nothing creditworthy.
+- **Level 5 (9–10 marks):** detailed evaluation of the treatment, applied to it throughout; analysis throughout; a good range of issues, including the named issue (idiographic versus nomothetic); very thorough and effective use of evidence.
+- **Level 4 (7–8 marks):** detailed evaluation, mostly applied to the treatment; analysis often evident; a range of issues, including the named issue; thorough and effective use of evidence.
+- **Level 3 (5–6 marks):** some detailed evaluation, with an attempt to apply it; limited analysis; a limited range of issues, including the named issue; evidence mostly used effectively.
+- **Level 2 (3–4 marks):** superficial evaluation; little analysis; a limited number of issues, which may not include the named issue; evidence sometimes used effectively.
+- **Level 1 (1–2 marks):** basic evaluation with little or no analysis; limited use of evidence.
+- **0 marks:** no creditable response.
 
-Under this guide, an answer that does not discuss idiographic versus nomothetic cannot reach Level 4, however strong the rest of it is. Indicative content:
+Levels 3 to 5 all require the named issue, so an answer that does not discuss idiographic versus nomothetic cannot score more than 4 marks, however strong the rest of it is. Indicative content:
 
 - *Effectiveness*: well supported for specific phobias, and the client controls the pace, so dropout is low compared with flooding.
 - *Limits*: less useful where a disorder has no clear trigger, such as generalised anxiety disorder; for blood-injection-injury phobia, relaxation can lower blood pressure further, which is why applied tension is preferred (Chapman and DeLapp, 2013).
