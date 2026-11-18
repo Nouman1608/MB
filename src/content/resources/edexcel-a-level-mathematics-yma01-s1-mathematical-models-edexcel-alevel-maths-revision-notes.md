@@ -59,7 +59,7 @@ Memory hook: **problem, assume, predict, collect, compare, refine**. In a six-st
 | Assumption | Ask yourself |
 |---|---|
 | Outcomes are equally likely | Is there anything physical or human that could favour some outcomes? |
-| Trials are independent | Do items share a cause (same batch of soil, same bus, same machine)? |
+| Trials are independent | Do items share a cause (same bag of soil, same bus, same machine)? |
 | Probability is constant | Could it change over time, with fatigue, wear or the season? |
 | The variable is continuous | Is it really measured to the nearest unit? Is that close enough? |
 | The distribution is symmetric | Do the data show skew? Are mean, median and mode close? |
