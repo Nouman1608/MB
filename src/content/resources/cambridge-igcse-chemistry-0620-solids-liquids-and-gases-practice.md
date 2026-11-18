@@ -60,7 +60,9 @@ State the physical state of each substance at 25 °C. **[4]**
 **3.** For each of the following, name the change of state and state whether energy is taken in or given out:
 
 **(a)** droplets of water form on a cold window **[1]**
+
 **(b)** molten candle wax turns solid **[1]**
+
 **(c)** wet clothes dry on a washing line. **[1]**
 
 **4.** Explain why a liquid can be poured but a solid cannot. **[2]**
@@ -68,6 +70,7 @@ State the physical state of each substance at 25 °C. **[4]**
 **5.** A sealed syringe contains air. The plunger is pushed in at constant temperature.
 
 **(a)** Describe what happens to the volume of the air. **[1]**
+
 **(b)** The syringe is refilled with water and sealed. Explain why the plunger can hardly be pushed in. **[2]**
 
 **6.** State **two** differences between evaporation and boiling. **[2]**
@@ -77,13 +80,17 @@ State the physical state of each substance at 25 °C. **[4]**
 **7.** *(Extended only)* Liquid Z is cooled from 120 °C. Its temperature falls to 54 °C, stays at 54 °C for 6 minutes, then falls to 20 °C.
 
 **(a)** State the physical state or states of Z at 80 °C, at 54 °C and at 30 °C. **[3]**
+
 **(b)** State the melting point of Z. **[1]**
+
 **(c)** Explain why the temperature stays at 54 °C for 6 minutes even though energy is being lost to the surroundings. **[2]**
 
 **8.** Use the table in Question 2.
 
 **(a)** Which substance is a liquid over the widest range of temperature? Show your working. **[2]**
+
 **(b)** Which substance or substances are gases at 0 °C? **[1]**
+
 **(c)** Substance F is heated from 25 °C to 150 °C. Name the change of state that takes place. **[1]**
 
 **9.** *(Extended only)* A balloon filled with air is moved from a cold room into a warm room and becomes larger. Explain this in terms of the particles. **[3]**
@@ -95,6 +102,7 @@ State the physical state of each substance at 25 °C. **[4]**
 **12.** A fixed mass of gas is kept at constant pressure.
 
 **(a)** Describe what happens to its volume when it is cooled. **[1]**
+
 **(b)** The gas is then kept at constant temperature and the pressure on it is increased. Describe what happens to its volume. **[1]**
 
 ---

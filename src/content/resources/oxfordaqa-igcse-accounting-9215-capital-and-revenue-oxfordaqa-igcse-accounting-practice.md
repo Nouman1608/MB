@@ -64,13 +64,17 @@ D: Architect's fees for designing an extension
 - 1,400 to replace the bakery's worn floor tiles with identical tiles.
 
 **(a)** Calculate the amount of capital expenditure. **[2]**
+
 **(b)** Calculate the amount of revenue expenditure. **[2]**
+
 **(c)** Explain why the maintenance contract is revenue expenditure even though it relates to a new asset. **[2]**
 
 **8.** Prepare journal entries, without narratives, to correct each error.
 
 **(a)** Installation costs of 720 for new equipment were debited to general expenses. **[2]**
+
 **(b)** A repair to a van of 460 was debited to the van account. **[2]**
+
 **(c)** Capital introduced of 3,000 was credited to sales. **[2]**
 
 **9.** Halden Garage's draft profit for the year was 27,800. The following errors were then found:
@@ -81,6 +85,7 @@ D: Architect's fees for designing an extension
 Equipment and vehicles are depreciated at 15% of cost a year, with a full year charged in the year of purchase. The truck was bought several years ago, and the draft depreciation on it was based on the incorrect account balance.
 
 **(a)** Calculate the corrected profit for the year. Show your workings. **[5]**
+
 **(b)** State the overall effect of the corrections on the net book value of non-current assets. **[2]**
 
 **10.** Explain the effect on the financial statements if the proceeds of 2,500 from selling an old machine are credited to the sales account. **[4]**
@@ -88,7 +93,9 @@ Equipment and vehicles are depreciated at 15% of cost a year, with a full year c
 **11.** Lindiwe Dube's draft statements show opening capital of 42,000, profit for the year of 33,000 and drawings of 15,000. It is later found that 6,000 she paid into the business from her savings was credited to sales.
 
 **(a)** Calculate the corrected profit for the year. **[1]**
+
 **(b)** Calculate closing capital before and after the correction. **[3]**
+
 **(c)** Explain why the error matters even though one of your answers in **(b)** does not change. **[2]**
 
 **12.** A shop owner says: "Anything we spend money on that lasts more than a year should be capitalised." Assess this view. **[4]**

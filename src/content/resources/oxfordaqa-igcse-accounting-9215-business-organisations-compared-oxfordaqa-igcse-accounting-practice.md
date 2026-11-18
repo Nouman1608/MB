@@ -53,7 +53,9 @@ D: The business is easy to set up
 **5.** Identify the type of business organisation whose statement of financial position shows:
 
 **(a)** capital accounts and current accounts **[1]**
+
 **(b)** ordinary share capital and retained earnings **[1]**
+
 **(c)** a single capital account, increased by profit and reduced by drawings. **[1]**
 
 **6.** Explain why debenture interest is an expense in a company's income statement but dividends are not. **[2]**
@@ -63,24 +65,31 @@ D: The business is easy to set up
 **7.** Marlow Pumps Ltd has 120,000 ordinary shares of 1 each and 7% debentures of 40,000. Retained earnings at the start of the year were 35,000. Profit for the year, after debenture interest, was 22,000, and dividends of 9,000 were paid.
 
 **(a)** Calculate the annual debenture interest. **[1]**
+
 **(b)** Calculate retained earnings at the end of the year. **[2]**
+
 **(c)** Calculate total equity at the end of the year. **[1]**
+
 **(d)** Explain why the debentures are not included in equity. **[2]**
 
 **8.** Shilpa runs a catering business as a sole trader. Ravi, an experienced chef, has offered to join her as a partner and invest 15,000.
 
 **(a)** Explain **two** advantages to Shilpa of forming the partnership. **[4]**
+
 **(b)** Explain **two** disadvantages to Shilpa of forming the partnership. **[4]**
 
 **9.** The directors of Hollins Glass Ltd need 200,000 for a new furnace. They can either issue 200,000 ordinary shares of 1 each or issue 10% debentures of 200,000. Profit from operations is expected to be 60,000 a year after the furnace is installed. The three founders currently own all the shares.
 
 **(a)** Calculate the annual interest if debentures are issued. **[1]**
+
 **(b)** Calculate the expected profit after interest if debentures are issued. **[1]**
+
 **(c)** Assess which source of finance the directors should choose. **[6]**
 
 **10.** Kemi Adeyemi is a sole trader. Her capital at the start of the year was 25,000. Her profit for the year was 14,200 and her drawings were 16,000.
 
 **(a)** Calculate her capital at the end of the year. **[2]**
+
 **(b)** Comment on the result. **[2]**
 
 **11.** Explain why a bank may ask for security before lending to a small limited company. **[2]**

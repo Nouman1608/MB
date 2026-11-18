@@ -53,6 +53,7 @@ D: Sodium chloride particles in a crystal
 **4.** A small purple crystal of potassium manganate(VII) is placed at the bottom of a beaker of still water and left for several hours.
 
 **(a)** Describe what you would see. **[1]**
+
 **(b)** Explain your answer in terms of particles. **[2]**
 
 **5.** In a bromine vapour demonstration, the brown colour spreads upwards into a jar of air, although bromine is denser than air. State what this shows about the motion of the particles. **[1]**
@@ -66,13 +67,17 @@ D: Sodium chloride particles in a crystal
 **8.** *(Extended only)* A long glass tube has cotton wool soaked in concentrated ammonia solution at one end and cotton wool soaked in concentrated hydrobromic acid, giving hydrogen bromide gas, at the other end. A white solid, ammonium bromide, forms inside the tube.
 
 **(a)** Calculate the relative molecular masses of ammonia, NH₃, and hydrogen bromide, HBr. **[2]**
+
 **(b)** Predict where in the tube the white solid forms. **[1]**
+
 **(c)** Explain your prediction. **[2]**
+
 **(d)** Write the equation for the reaction, with state symbols. **[1]**
 
 **9.** Two identical sealed tubes each have a piece of damp red litmus paper at one end. At the same moment, ammonia gas is released at the other end of each tube. Tube 1 is at 20 °C and tube 2 is at 40 °C.
 
 **(a)** Predict which litmus paper turns blue first. **[1]**
+
 **(b)** Explain your prediction. **[2]**
 
 **10.** Explain why diffusion is slower in liquids than in gases. **[2]**

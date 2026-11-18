@@ -80,6 +80,16 @@ Always finish with what is **observed** (colour, amount of gas) if the question 
 - Conditions: **450 °C; 200 kPa / 2 atm; vanadium(V) oxide catalyst**.
 - Forward reaction exothermic; 3 gas molecules → 2.
 
+## Haber and Contact side by side
+
+| | Haber | Contact |
+|---|---|---|
+| Product | Ammonia | Sulfur trioxide |
+| Temperature | 450 °C | 450 °C |
+| Pressure | 200 atm (high) | 2 atm (low) |
+| Catalyst | Iron | Vanadium(V) oxide |
+| Why that pressure | Yield needs high pressure | Yield already high at low pressure |
+
 ## Why these conditions
 
 | Condition | Effect on yield | Effect on rate | Other factors |

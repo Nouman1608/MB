@@ -52,6 +52,12 @@ Memory aid: **OIL RIG**, Oxidation Is Loss, Reduction Is Gain (of electrons).
 
 Usual values: O = −2, H = +1, Group I = +1, Group II = +2, halide ions = −1.
 
+## Roman numerals in names
+
+- The numeral is the oxidation number of the element just before it: iron(II) sulfate = FeSO₄; iron(III) sulfate = Fe₂(SO₄)₃.
+- Use it to write formulae: copper(I) oxide has Cu at +1, so two Cu balance one O: Cu₂O.
+- In an anion, the numeral belongs to the central element: manganate(VII) means Mn is +7.
+
 ## Quick reference values
 
 | Species | Oxidation number |

@@ -84,6 +84,7 @@ D: Capital
 Additional information: closing inventory is 8,200; electricity of 260 is owing; equipment is depreciated at 20% by the reducing balance method.
 
 **(a)** Prepare the income statement for the year ended 31 December 2025. **[8]**
+
 **(b)** Prepare the statement of financial position at 31 December 2025. **[7]**
 
 **9.** Using your answers to Question 8, comment on Bryony's profitability and liquidity. **[4]**

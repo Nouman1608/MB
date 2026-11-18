@@ -147,7 +147,7 @@ Calculate the concentration of the sulfuric acid. **[3]**
 - stop when the indicator changes colour permanently (e.g. thymolphthalein blue to colourless) and record the final reading;
 - repeat until concordant titres are obtained and calculate the mean.
 
-**9.** **(a)** Run 1: 20.75; Run 2: 20.75; Run 3: 20.70. All three correct [2]; two correct [1].
+**9.** **(a)** Run 1: 20.75; Run 2: 20.75; Run 3: 20.70 [2]. Award one mark if only two titres are correct.
 *Run 1: 21.10 − 0.35; Run 2: 41.85 − 21.10; Run 3: 21.40 − 0.70.*
 
 **(b)** All three accurate titres are concordant (within 0.10 cm³) [1]. Mean = (20.75 + 20.75 + 20.70) ÷ 3 = 20.73 cm³ [1].

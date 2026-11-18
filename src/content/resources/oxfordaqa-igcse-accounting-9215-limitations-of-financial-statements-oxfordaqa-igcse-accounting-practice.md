@@ -59,28 +59,35 @@ D: Payable days are understated
 **7.** Corran Supplies made credit sales of 182,500 and cash sales of 73,000 in the year. Trade receivables at the year end were 25,000. It allows customers 30 days' credit.
 
 **(a)** Calculate trade receivable days using credit sales. **[2]**
+
 **(b)** Calculate trade receivable days using total revenue. **[2]**
+
 **(c)** Comment on the difference between your answers. **[2]**
 
 **8.** Two printing businesses each made profit from operations of 45,000. Inkwell's capital employed is 150,000; most of its machines are ten years old. Pressfirst's capital employed is 300,000; its machines were bought last year.
 
 **(a)** Calculate the return on capital employed of each business. **[2]**
+
 **(b)** Explain why this comparison may mislead an investor. **[3]**
 
 **9.** Halvergate Hardware's revenue was 400,000 in Year 1 and 432,000 in Year 3. Over the same two years, prices of the goods it sells rose by 12%.
 
 **(a)** Calculate the percentage increase in revenue. **[1]**
+
 **(b)** Calculate Year 3 revenue at Year 1 prices. **[2]**
+
 **(c)** Explain what this shows about the business's performance. **[2]**
 
 **10.** A shop sells two product ranges. Range A always earns a gross profit margin of 40% and Range B always earns 20%. In Year 1 it sold 60,000 of A and 40,000 of B. In Year 2 it sold 40,000 of A and 60,000 of B.
 
 **(a)** Calculate the overall gross profit margin for each year. **[4]**
+
 **(b)** Explain why the change in margin should not be blamed on price cuts or higher purchase costs. **[2]**
 
 **11.** Reyna is a sole trader with revenue of 120,000 and profit for the year of 27,000. Brightway Ltd, a similar business, also has revenue of 120,000; it pays its only director a salary of 21,000 and its profit for the year is 6,000.
 
 **(a)** Calculate profit in relation to revenue for each business. **[2]**
+
 **(b)** Explain why the comparison is misleading, and show an adjusted figure for Reyna. **[3]**
 
 **12.** Malik is thinking of buying a share in a café. He has been given the café's ratios for the last two years. Evaluate the usefulness of these ratios to Malik. **[6]**

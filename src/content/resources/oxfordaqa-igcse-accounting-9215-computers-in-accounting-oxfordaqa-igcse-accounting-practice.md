@@ -55,7 +55,9 @@ D: The cost of a new van is entered as motor expenses
 **6.** Name the type of error in each case:
 
 **(a)** a clerk selects the account of the wrong customer **[1]**
+
 **(b)** a sale of 450 is keyed in as 540 **[1]**
+
 **(c)** a new printer is coded to office expenses. **[1]**
 
 ## Section B
@@ -63,7 +65,9 @@ D: The cost of a new van is entered as motor expenses
 **7.** Pellar Electrical is considering accounting software with an annual subscription of 2,400 and one-off training costing 900. The owner expects to save 6 hours of bookkeeping a week for 48 weeks a year. Bookkeeping time costs 15 an hour.
 
 **(a)** Calculate the annual value of the time saved. **[2]**
+
 **(b)** Calculate the net saving in the first year and in each later year. **[2]**
+
 **(c)** Give **two** non-financial factors the owner should consider before deciding. **[2]**
 
 **8.** Explain **two** controls a business can use to reduce the security risks of computerised accounting records. **[4]**

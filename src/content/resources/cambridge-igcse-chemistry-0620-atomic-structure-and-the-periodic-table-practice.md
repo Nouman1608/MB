@@ -51,7 +51,9 @@ D: Nucleus
 **4.** State the numbers of protons, neutrons and electrons in each of the following:
 
 **(a)** ³¹₁₅P **[3]**
+
 **(b)** ⁷₃Li⁺ **[3]**
+
 **(c)** ³²₁₆S²⁻ **[3]**
 
 **5.** Write the electronic configuration of **(a)** a calcium atom (proton number 20), **(b)** an aluminium ion, Al³⁺ (proton number 13), **(c)** a nitride ion, N³⁻ (proton number 7). **[3]**
@@ -63,8 +65,11 @@ D: Nucleus
 **7.** The electronic configuration of an atom of element X is 2,8,6.
 
 **(a)** State the group and the period of X. **[2]**
+
 **(b)** State the proton number of X and name the element. **[2]**
+
 **(c)** X forms an ion with a 2− charge. Write the electronic configuration of this ion. **[1]**
+
 **(d)** An atom of X has 16 neutrons. Calculate its mass number. **[1]**
 
 **8.** The aluminium ion, Al³⁺, and the oxide ion, O²⁻, both have the electronic configuration 2,8. Explain why they are different ions even though their configurations are the same. **[3]**
@@ -76,7 +81,9 @@ D: Nucleus
 **11.** A particle contains 19 protons, 20 neutrons and 18 electrons.
 
 **(a)** Explain whether the particle is an atom or an ion, and give its charge. **[2]**
+
 **(b)** State its mass number. **[1]**
+
 **(c)** Write its electronic configuration. **[1]**
 
 **12.** A student says: "Helium has two outer-shell electrons, so it should be in Group II." Explain why helium is placed in Group VIII. **[2]**
@@ -84,12 +91,15 @@ D: Nucleus
 **13.** An element has the electronic configuration 2,8,1.
 
 **(a)** Name the element. **[1]**
+
 **(b)** The atom loses one electron to form an ion. Write the symbol and the electronic configuration of the ion. **[2]**
+
 **(c)** Name the noble gas with the same electronic configuration as this ion. **[1]**
 
 **14.** Oxygen (proton number 8) and sulfur (proton number 16) are both in Group VI.
 
 **(a)** Write the electronic configuration of each atom. **[2]**
+
 **(b)** Use your answers to explain why they are in the same group but different periods. **[2]**
 
 ---

@@ -51,6 +51,7 @@ D: ¹⁴₆C and ¹⁴₇N
 **3.** State the numbers of protons, neutrons and electrons in:
 
 **(a)** an atom of ³²₁₆S **[3]**
+
 **(b)** an atom of ³⁴₁₆S. **[3]**
 
 **4.** A particle has 12 protons, 13 neutrons and 10 electrons. Write its symbol, showing its mass number, proton number and charge. Magnesium has proton number 12. **[2]**
@@ -66,6 +67,7 @@ D: ¹⁴₆C and ¹⁴₇N
 **8.** *(Extended only)* Sulfur is approximately 95.0% sulfur-32, 0.8% sulfur-33 and 4.2% sulfur-34.
 
 **(a)** Show that the percentages add up to 100. **[1]**
+
 **(b)** Calculate the relative atomic mass of sulfur to one decimal place. **[2]**
 
 **9.** *(Extended only)* A sample of element Q contains 250 atoms: 190 atoms of Q-120 and 60 atoms of Q-122. Calculate the relative atomic mass of Q to one decimal place. **[3]**
@@ -80,12 +82,15 @@ D: ¹⁴₆C and ¹⁴₇N
 | D | 9 | 10 | 9 |
 
 **(a)** Which two particles are atoms that are isotopes of each other? Explain your answer. **[2]**
+
 **(b)** Which particle is an ion? Give its charge. **[2]**
+
 **(c)** State the mass number of D. **[1]**
 
 **11.** *(Extended only)* Potassium is approximately 93.3% potassium-39 and 6.7% potassium-41. A student calculates its relative atomic mass as (39 + 41) ÷ 2 = 40.0.
 
 **(a)** Explain the student's mistake. **[1]**
+
 **(b)** Calculate the correct relative atomic mass to one decimal place. **[2]**
 
 **12.** A student says: "⁴⁰₁₈Ar and ⁴⁰₂₀Ca are isotopes because they have the same mass number." Explain why the student is wrong. **[2]**

@@ -108,7 +108,7 @@ These questions cover subtopic E7.2, Vectors in two dimensions, in the Cambridge
 
 **(b)** **(18, −27)** [1]
 
-**4.** **(4, −6) = 2(2, −3)**, **(−2, 3) = −1(2, −3)** and **(−10, 15) = −5(2, −3)** [1 for any two correct with reasons, 2 for all three and no wrong choice]; (6, 9) is not parallel because 6 ÷ 2 = 3 but 9 ÷ (−3) = −3
+**4.** **(4, −6) = 2(2, −3)** and **(−2, 3) = −1(2, −3)** [1]; **(−10, 15) = −5(2, −3)**, while (6, 9) is not parallel because 6 ÷ 2 = 3 but 9 ÷ (−3) = −3 [1]
 
 *Examiner insight:* a negative multiplier still means parallel; the vector simply points the opposite way.
 

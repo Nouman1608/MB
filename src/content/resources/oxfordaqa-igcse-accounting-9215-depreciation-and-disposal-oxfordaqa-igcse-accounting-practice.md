@@ -59,12 +59,15 @@ D: Debit depreciation, credit bank
 **7.** Ashby Lettings buys office furniture for 12,000. It expects to use it for 5 years and then sell it for 2,000.
 
 **(a)** Calculate the straight line charge and the net book value at the end of Year 2. **[2]**
+
 **(b)** Calculate the charges for Years 1 and 2 if reducing balance at 30% were used instead. **[2]**
+
 **(c)** Evaluate which method is more suitable for the furniture. **[3]**
 
 **8.** Pryor Engineering bought a machine on 1 April Year 1 for 18,000. It charges straight line depreciation at 20% of cost a year on a time basis. Its year ends on 31 December. The machine was sold on 31 August Year 3 for 9,000, received by bank transfer.
 
 **(a)** Calculate the provision for depreciation on the machine at the date of sale. **[3]**
+
 **(b)** Prepare the disposal account. **[4]**
 
 **9.** Quayside Couriers depreciates vehicles at 20% a year on the cost of vehicles held at the year end, with a full year's charge in the year of purchase and none in the year of sale. Its year ends on 31 December.
@@ -74,13 +77,17 @@ At 1 January Year 4: vehicles at cost 80,000; provision for depreciation 31,000.
 During Year 4 a van bought on 1 January Year 1 for 20,000 was sold for 7,000 by bank transfer, and a new van was bought for 26,000 by bank transfer.
 
 **(a)** Prepare the vehicles account for Year 4. **[3]**
+
 **(b)** Prepare the provision for depreciation account for Year 4. **[4]**
+
 **(c)** Prepare the disposal of vehicles account. **[3]**
+
 **(d)** Show the statement of financial position extract for vehicles at 31 December Year 4. **[2]**
 
 **10.** A trader's draft profit is 30,000. Depreciation of 4,500 on equipment has been omitted.
 
 **(a)** Calculate the corrected profit. **[1]**
+
 **(b)** Explain the effect of the omission on the statement of financial position. **[2]**
 
 **11.** The owner of a shop says: "Because we charge depreciation every year, we will have the cash to replace our equipment when it wears out." Assess this statement. **[3]**

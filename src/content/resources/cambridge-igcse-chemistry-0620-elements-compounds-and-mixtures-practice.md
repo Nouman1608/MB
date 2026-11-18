@@ -59,8 +59,11 @@ D: Air
 **7.** Four boxes of particles are described below. Identify each as an element, a compound, a mixture of elements, or a mixture of an element and a compound.
 
 **(a)** Box P: identical single atoms, all of the same kind. **[1]**
+
 **(b)** Box Q: some pairs of identical joined atoms, and some single atoms of a different kind. **[1]**
+
 **(c)** Box R: identical particles, each made of three atoms of two different kinds joined together. **[1]**
+
 **(d)** Box S: some particles like those in Box R, and some pairs of identical joined atoms. **[1]**
 
 **8.** Describe **three** differences between a mixture of hydrogen gas and oxygen gas and the compound water. **[3]**
@@ -68,7 +71,9 @@ D: Air
 **9.** A student heats some pink-brown copper powder strongly in air. It slowly turns black, and the mass of the solid increases.
 
 **(a)** Name the black substance formed. **[1]**
+
 **(b)** Give **two** pieces of evidence that a compound has formed rather than a mixture. **[2]**
+
 **(c)** Explain why the mass of the solid increases. **[1]**
 
 **10.** Give **two** reasons why air is classified as a mixture, not a compound. **[2]**
@@ -78,12 +83,15 @@ D: Air
 **12.** Sample A melts sharply at 63 °C. Sample B melts gradually between 55 °C and 60 °C.
 
 **(a)** Which sample is a mixture? **[1]**
+
 **(b)** Explain your answer. **[1]**
 
 **13.** State whether each statement is true or false, and give a reason.
 
 **(a)** "All molecules are compounds." **[1]**
+
 **(b)** "A mixture can contain compounds." **[1]**
+
 **(c)** "A compound has the same properties as the elements it is made from." **[1]**
 
 **14.** Explain why the composition of sea water is described as variable, while the composition of pure water is fixed. **[2]**
