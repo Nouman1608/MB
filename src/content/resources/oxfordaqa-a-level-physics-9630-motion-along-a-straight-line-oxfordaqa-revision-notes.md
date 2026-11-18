@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-and-materials-oxfordaqa-alevel"
     subtopic: "motion-along-a-straight-line-oxfordaqa"
-description: "Condensed OxfordAQA 9630 notes on 3.2.3: gradients and areas of motion graphs, signed SUVAT, the bouncing ball, Required practical 1 and a 12-question self-test."
+description: "Condensed OxfordAQA 9630 notes on 3.2.3: gradients and areas of motion graphs, signed SUVAT, the bouncing ball, Required practical 1 and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
