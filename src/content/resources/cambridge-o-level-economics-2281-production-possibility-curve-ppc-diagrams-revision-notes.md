@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "the-basic-economic-problem"
     subtopic: "production-possibility-curve-ppc-diagrams"
-description: "Condensed notes on PPC definition and shape, points under, on and beyond, opportunity cost, and causes of shifts, with a self-test, for Cambridge O Level Economics 2281."
+description: "Condensed notes on PPC shape, points under, on and beyond, opportunity cost and causes of shifts, with a self-test, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

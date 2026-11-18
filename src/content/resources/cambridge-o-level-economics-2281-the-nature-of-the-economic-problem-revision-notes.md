@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "the-basic-economic-problem"
     subtopic: "the-nature-of-the-economic-problem"
-description: "Condensed notes on scarcity, finite resources and unlimited wants, the four decision makers, and economic versus free goods for Cambridge O Level Economics 2281."
+description: "Condensed notes on scarcity, finite resources and unlimited wants, the four decision makers and economic versus free goods, for Cambridge O Level 2281."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

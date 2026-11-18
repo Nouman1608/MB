@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-aqa-alevel-biology"
     subtopic: "carbohydrates-aqa-alevel-biology"
-description: "Original AQA A-level Biology 3.1.2 practice questions: glucose isomers, glycosidic bonds, polysaccharide function and semi-quantitative sugar tests, with answers."
+description: "Original AQA A-level Biology 3.1.2 practice questions: glucose isomers, glycosidic bonds, polysaccharide function and semi-quantitative sugar tests."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

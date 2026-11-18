@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-oxfordaqa-igcse-maths"
     subtopic: "fractions-decimal-and-percentages-oxfordaqa-igcse-maths"
-description: "Converting, ordering and calculating with fractions, decimals and percentages, including recurring decimals and operators, for OxfordAQA International GCSE Maths 9260."
+description: "Converting, ordering and calculating with fractions, decimals and percentages, including recurring decimals, for OxfordAQA International GCSE Maths 9260."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

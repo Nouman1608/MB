@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-oxfordaqa-igcse-maths"
     subtopic: "fractions-decimal-and-percentages-oxfordaqa-igcse-maths"
-description: "Recall notes on equivalents, ordering, recurring decimals, operators and one quantity as a percentage of another, with a self-test, for OxfordAQA IGCSE Maths 9260."
+description: "Recall notes on equivalents, ordering, recurring decimals, operators and one quantity as a percentage of another, for OxfordAQA IGCSE Maths 9260."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

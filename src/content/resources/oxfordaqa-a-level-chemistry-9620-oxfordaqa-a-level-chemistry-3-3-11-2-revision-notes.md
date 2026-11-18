@@ -86,6 +86,14 @@ Five-mark recipe:
 | C₆H₁₁NH₂ | non-aromatic ring carbon | aliphatic | stronger |
 | CH₃C₆H₄NH₂ (N on ring) | ring carbon | aromatic | weaker |
 
+## Amines with acids in practice
+
+- An amine that is barely soluble in water, such as phenylamine, dissolves in dilute HCl because it forms an ionic salt.
+- Adding excess NaOH to the salt solution releases the amine again, which separates out.
+- This acid–alkali sequence separates a basic amine from neutral organic impurities.
+- The final step of the Sn/HCl reduction of a nitro compound uses the same idea.
+- An amine also reacts with a weak acid such as ethanoic acid, giving a salt such as propylammonium ethanoate, CH₃CH₂CH₂NH₃⁺ CH₃COO⁻.
+
 ## Titration facts
 
 - Amine : HCl = 1 : 1 for one –NH₂ group; amine : H₂SO₄ = 2 : 1.

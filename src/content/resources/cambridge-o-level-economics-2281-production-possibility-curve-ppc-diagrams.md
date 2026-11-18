@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "the-basic-economic-problem"
     subtopic: "production-possibility-curve-ppc-diagrams"
-description: "Drawing and reading PPC diagrams: points under, on and beyond the curve, movements and opportunity cost, and shifts and growth, for Cambridge O Level Economics 2281."
+description: "Drawing and reading PPC diagrams: points under, on and beyond, movements and opportunity cost, and shifts and growth, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -76,7 +76,7 @@ Consumer goods (thousands)
 
 ### Why the curve bows outwards
 
-The curve is concave to the origin (it bends outwards) because resources are not equally good at producing both goods. When Talvia makes only a few machines, it uses the resources best suited to machines, giving up few consumer goods. As it makes more machines, it has to switch resources that are much better at making consumer goods, so each extra batch of machines costs more consumer goods. This is **increasing opportunity cost**.
+The curve is concave to the origin (it bends outwards) because resources are not equally good at producing both goods. When Talvia makes only a few machines, it uses the resources best suited to machines, giving up few consumer goods. As it makes more machines, it has to switch resources that are much better at making consumer goods, so each extra 10 thousand machines costs more consumer goods. This is **increasing opportunity cost**.
 
 If resources were equally suited to both goods, the opportunity cost would be constant and the PPC would be a **straight line**.
 

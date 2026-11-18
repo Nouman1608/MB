@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-aqa-alevel-biology"
     subtopic: "monomers-and-polymers-aqa-alevel-biology"
-description: "AQA A-level Biology 3.1.1 study guide: monomers, polymers, condensation and hydrolysis across sugars, proteins and nucleic acids, with bond and mass calculations."
+description: "AQA A-level Biology 3.1.1 study guide: monomers, polymers, condensation and hydrolysis across sugars, proteins and nucleic acids, with bond calculations."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

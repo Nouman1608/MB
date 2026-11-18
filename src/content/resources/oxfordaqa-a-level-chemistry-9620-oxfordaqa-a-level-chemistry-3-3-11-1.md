@@ -42,6 +42,8 @@ Heat the halogenoalkane with an **excess of ammonia dissolved in ethanol**, in a
 
 Why two ammonia molecules? The first acts as the nucleophile: its lone pair attacks the δ+ carbon and bromide leaves, giving CH₃CH₂CH₂NH₃⁺. The second acts as a base and removes H⁺ from that ion, releasing the free amine.
 
+Each condition has a reason you may be asked for. Ethanol is the solvent because it dissolves both the halogenoalkane and ammonia, whereas water would allow some hydroxide substitution to give an alcohol. The tube is sealed because ammonia is a gas at the reaction temperature and would otherwise escape before it could react.
+
 The weakness of this route is that the primary amine also has a lone pair, so it competes with ammonia for the halogenoalkane. Secondary and tertiary amines and a quaternary ammonium salt also form. A large excess of ammonia makes it more likely that each halogenoalkane molecule meets ammonia, so the primary amine is the main product, but the mixture still needs separating. The carbon chain stays the same length.
 
 ## Route 2: reducing a nitrile

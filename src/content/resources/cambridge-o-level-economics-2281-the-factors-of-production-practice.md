@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "the-basic-economic-problem"
     subtopic: "the-factors-of-production"
-description: "Original practice questions with mark-scheme answers on factors of production, rewards, mobility and quantity and quality changes for Cambridge O Level Economics 2281."
+description: "Original practice questions with mark-scheme answers on factors of production, rewards, mobility, quantity and quality, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

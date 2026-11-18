@@ -67,6 +67,8 @@ Values vary slightly between data sources. Always use the figures printed in the
 
 From mean bond enthalpies: ΔH per C=C = [E(C=C) + E(H–H)] − [E(C–C) + 2E(C–H)].
 
+**Bond enthalpy version, with typical data** (C=C 612, C–C 348, H–H 436, C–H 412 kJ mol⁻¹): per C=C, 1048 − 1172 = −124 kJ mol⁻¹; for the triene, −372 kJ mol⁻¹; against −208 kJ mol⁻¹ for benzene, the extra stability is 164 kJ mol⁻¹. It differs from the hydrogenation-data value because mean bond enthalpies are averages over many compounds.
+
 ## Energy level diagram in words
 
 - Bottom level: cyclohexane.

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-aqa-alevel-biology"
     subtopic: "water-aqa-alevel-biology"
-description: "AQA A-level Biology 3.1.7 study guide: tracing each property of water to hydrogen bonding, water in reactions across the course, and interpreting temperature data."
+description: "AQA A-level Biology 3.1.7 study guide: tracing each property of water to hydrogen bonding, water in reactions across the course, and temperature data."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -109,6 +109,8 @@ A 0.590 g sample of a primary aliphatic amine, RNH₂, is dissolved in water and
 4. –NH₂ contributes 16.0, so R has mass 43.0: C₃H₇. Formula C₃H₉N.
 5. Two primary amines fit: **propylamine**, CH₃CH₂CH₂NH₂, and **propan-2-amine**, (CH₃)₂CHNH₂.
 
+With sulfuric acid the ratio changes. If 25.0 cm³ of an amine solution needs 12.5 cm³ of 0.100 mol dm⁻³ H₂SO₄, then n(H₂SO₄) = 1.25 × 10⁻³ mol, n(amine) = 2 × 1.25 × 10⁻³ = 2.50 × 10⁻³ mol, and the amine concentration is 2.50 × 10⁻³ ÷ 0.0250 = 0.100 mol dm⁻³. Writing the equation first, 2RNH₂ + H₂SO₄ → (RNH₃⁺)₂SO₄²⁻, prevents the 1 : 1 slip.
+
 This is a weak base titrated with a strong acid, so the equivalence point is below pH 7. Choose an indicator that changes colour in the acidic range, such as methyl orange; phenolphthalein would change too early. The pH curve reasoning is in the [9620 acids and bases guide](/resources/oxfordaqa-a-level-chemistry-acids-and-bases/).
 
 ## Common mistakes

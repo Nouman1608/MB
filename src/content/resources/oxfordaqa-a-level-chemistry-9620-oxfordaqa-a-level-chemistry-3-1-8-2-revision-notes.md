@@ -59,6 +59,14 @@ For worked examples and graph work, use the [3.1.8.2 study guide](/resources/oxf
 - Example: +285 J K⁻¹ mol⁻¹ = +0.285 kJ K⁻¹ mol⁻¹.
 - Temperatures: K = °C + 273.
 
+### Worked reminder
+
+For 2Mg(s) + O₂(g) → 2MgO(s), with S values (J K⁻¹ mol⁻¹) Mg 33, O₂ 205 and MgO 27:
+
+- ∆S = 2(27) − [2(33) + 205] = 54 − 271 = **−217 J K⁻¹ mol⁻¹**.
+- The sign is negative, as predicted: a mole of gas is used up and only solids form.
+- The oxygen term is included even though O₂ is an element; leaving it out gives −12, a common wrong answer.
+
 ## The four sign combinations
 
 | ∆H | ∆S | Feasible? | Feasibility temperature |

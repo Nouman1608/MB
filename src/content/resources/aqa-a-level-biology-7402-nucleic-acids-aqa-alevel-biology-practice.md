@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-aqa-alevel-biology"
     subtopic: "nucleic-acids-aqa-alevel-biology"
-description: "Original AQA A-level Biology 3.1.5 practice questions on DNA and RNA structure, complementary sequences, replication enzymes and density-band evidence, with answers."
+description: "Original AQA A-level Biology 3.1.5 practice questions on DNA and RNA structure, complementary sequences, replication enzymes and density-band evidence."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

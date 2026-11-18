@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-control-of-gene-expression-aqa-alevel-biology"
     subtopic: "gene-technologies-aqa-alevel-biology"
-description: "Original practice questions with mark-scheme answers on recombinant DNA, PCR, marker genes, gene therapy, screening and fingerprints for AQA A-level Biology 7402 3.8.4."
+description: "Original questions with mark-scheme answers on recombinant DNA, PCR, marker genes, gene therapy, screening and fingerprints for AQA A-level Biology 7402 3.8.4."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

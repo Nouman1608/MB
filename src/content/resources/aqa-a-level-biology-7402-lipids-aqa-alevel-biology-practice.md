@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-aqa-alevel-biology"
     subtopic: "lipids-aqa-alevel-biology"
-description: "Original AQA A-level Biology 3.1.3 practice questions on triglycerides, phospholipids, saturated and unsaturated fatty acids and the emulsion test, with answers."
+description: "Original AQA A-level Biology 3.1.3 practice questions on triglycerides, phospholipids, saturated and unsaturated fatty acids and the emulsion test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "the-allocation-of-resources"
     subtopic: "microeconomics-and-macroeconomics"
-description: "The difference between microeconomics and macroeconomics, the decision makers in each and how they connect, with classification practice, for Cambridge O Level Economics 2281."
+description: "The difference between microeconomics and macroeconomics, the decision makers in each and how they connect, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

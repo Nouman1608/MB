@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "the-basic-economic-problem"
     subtopic: "the-factors-of-production"
-description: "Land, labour, capital and enterprise with their rewards, factor mobility, and causes of changes in factor quantity and quality, for Cambridge O Level Economics 2281."
+description: "Land, labour, capital and enterprise with their rewards, factor mobility and changes in factor quantity and quality, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

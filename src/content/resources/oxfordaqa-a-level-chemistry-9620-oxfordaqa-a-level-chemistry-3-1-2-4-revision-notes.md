@@ -77,6 +77,10 @@ Treat the salt and the water as two "components": divide the mass of anhydrous s
 - Molecular ion peak in a mass spectrum.
 - Gas data with pV = nRT.
 
+## Checking an answer
+
+Reverse the calculation: work out the percentage by mass of one element from your formula and compare it with the data. For C₄H₈, carbon is 48.0 ÷ 56.0 × 100 = 85.7%, matching the question, so the formula is consistent.
+
 ## Exam traps
 
 - Divide by Ar, not by atomic number or by the Mr of O₂.

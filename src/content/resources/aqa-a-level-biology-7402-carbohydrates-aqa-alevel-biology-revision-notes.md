@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-aqa-alevel-biology"
     subtopic: "carbohydrates-aqa-alevel-biology"
-description: "Revision notes for AQA A-level Biology 3.1.2 carbohydrates: sugars, glucose isomers, bond types, polysaccharide structure and function, tests, traps and a self-test."
+description: "Revision notes for AQA A-level Biology 3.1.2 carbohydrates: sugars, glucose isomers, bonds, polysaccharides, food tests, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

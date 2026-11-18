@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-control-of-gene-expression-aqa-alevel-biology"
     subtopic: "alteration-of-the-base-sequence-can-alter-protein-structure-aqa-alevel-biology"
-description: "Original practice questions with mark-scheme answers on gene mutations, frame shifts and their effect on polypeptides, for AQA A-level Biology 7402 section 3.8.1."
+description: "Original practice questions with mark-scheme answers on gene mutations, frame shifts and effects on polypeptides, for AQA A-level Biology 7402 section 3.8.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "the-allocation-of-resources"
     subtopic: "microeconomics-and-macroeconomics"
-description: "Original practice questions with mark-scheme answers on micro versus macro issues, their decision makers and the links between them, for Cambridge O Level Economics 2281."
+description: "Original practice questions with mark-scheme answers on micro and macro issues, decision makers and the links between them, for Cambridge O Level 2281."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

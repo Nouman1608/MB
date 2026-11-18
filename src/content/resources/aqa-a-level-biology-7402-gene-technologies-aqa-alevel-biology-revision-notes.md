@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-control-of-gene-expression-aqa-alevel-biology"
     subtopic: "gene-technologies-aqa-alevel-biology"
-description: "Condensed notes on recombinant DNA, PCR, vectors, marker genes, gene therapy, probes and genetic fingerprinting, with a self-test, for AQA A-level Biology 7402 3.8.4."
+description: "Condensed notes on recombinant DNA, PCR, vectors, marker genes, gene therapy, probes and fingerprinting, with a self-test, for AQA A-level Biology 7402 3.8.4."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
