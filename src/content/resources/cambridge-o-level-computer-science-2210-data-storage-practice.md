@@ -53,7 +53,8 @@ Related: [data storage study guide](/resources/cambridge-o-level-computer-scienc
 
 ## Section B
 
-**6.** Explain why a computer needs both RAM and ROM. **[4]**
+**6.** A student says a computer could manage with RAM only. Explain why it also needs ROM, and why
+ROM could not replace RAM. **[4]**
 
 **7.** Describe how data is written to and read from a hard disk drive. **[4]**
 

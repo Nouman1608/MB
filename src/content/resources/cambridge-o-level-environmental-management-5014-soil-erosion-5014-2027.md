@@ -68,9 +68,9 @@ the soil itself, or increasing the speed of water or wind across it.
 
 | Cause | How it leads to erosion |
 |---|---|
-| Unsustainable agricultural practices | Overgrazing strips grass; overcultivation and monoculture exhaust organic matter so soil crumbles; ploughing up and down slopes creates channels for run-off |
+| Unsustainable agricultural practices | Overgrazing strips grass; overcultivation and monoculture exhaust organic matter so soil crumbles; furrows ploughed downhill guide water straight down the slope |
 | Deforestation | Removes roots that bind soil and the canopy that breaks the force of rain, so more rain hits the ground directly |
-| Farming on steep slopes | Gravity speeds up run-off, giving it more energy to carry soil |
+| Farming on steep slopes | Water flowing down a steep gradient moves faster and carries more soil |
 | Bare soil | Between crops, after harvest or after burning, nothing shields the soil from rain or wind |
 | Wind and water erosion | The agents themselves: strong winds on dry land, heavy rain on bare ground |
 
@@ -101,7 +101,7 @@ The syllabus states what each strategy does; your job is to explain **how**.
   It turns steep land into farmland, but takes great effort to build and maintain.
 - **Contour ploughing** ploughs furrows across the slope, following the contour lines, rather than up and
   down it. Each furrow acts as a small barrier that traps water, so it **reduces surface run-off**.
-- **Bunds** are low banks of earth or stones built along the contours of a field. They hold back water so
+- **Bunds** are low ridges of soil or lines of stones laid across a field along its contours. They hold back water so
   it soaks in, **reducing surface run-off**, and on open land they also **reduce wind speed and wind
   erosion** at ground level.
 - **Wind breaks** are rows of trees, shrubs or hedges planted across the direction of the wind. They **protect

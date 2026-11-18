@@ -75,7 +75,7 @@ Whole-topic overview: [Topic 3 Hardware revision notes](/resources/o-level-compu
 |---|---|---|
 | Bits | 32 | 128 |
 | Format | Four denary numbers 0-255, separated by full stops | Eight groups of four hex digits, separated by colons |
-| Example | `192.168.0.12` | `2001:db8::ff00:42:8329` (shortened) |
+| Example | `172.20.9.140` | `2001:db8:85a3::370:b2c` (shortened) |
 | Possible addresses | 2^32 (about 4.3 billion) | 2^128 |
 | Why it exists | Original format | IPv4 addresses are running out as more devices connect |
 

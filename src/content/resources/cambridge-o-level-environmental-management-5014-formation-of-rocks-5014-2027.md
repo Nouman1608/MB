@@ -107,14 +107,16 @@ the eight named processes in order:
 
 **weathering → erosion → transportation → deposition → sedimentation → compaction → cementation**
 
-- **Weathering** breaks rock down where it is, by physical, chemical or biological action.
-- **Erosion** removes the broken material.
-- **Transportation** carries it away by rivers, wind, ice or the sea.
-- **Deposition** drops it when the transporting agent loses energy.
+- **Weathering**: rock at the surface is broken into fragments without being moved, for example by
+  frost, rain water or plant roots.
+- **Erosion**: the fragments are picked up and taken away from where they formed.
+- **Transportation**: a river, the wind, a glacier or the sea moves them, often a long distance.
+- **Deposition**: the moving water, wind or ice slows down and can no longer carry its load, so it drops
+  it.
 
-The eighth process, **crystallisation**, makes igneous rock from magma or lava. Any rock exposed at the
-surface can be weathered, and any rock buried deeply enough can be changed by heat and pressure or melted,
-so arrows in a rock cycle diagram can branch in several directions.
+The eighth process, **crystallisation**, makes igneous rock from magma or lava. Rock of any type can be
+weathered once it is exposed, and rock of any type can be metamorphosed or melted if it is buried deep
+enough, so a rock cycle diagram has arrows branching in several directions.
 
 ### Interpreting a rock cycle diagram
 

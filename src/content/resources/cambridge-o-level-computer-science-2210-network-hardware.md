@@ -43,8 +43,8 @@ The 2210 syllabus lists four learning outcomes for 3.4:
 
 A NIC is the hardware component that lets a device connect to a network. It prepares data to be sent
 over the network medium and receives data arriving for the device. A NIC can be wired, with a socket for
-a network cable, or wireless, using radio waves. In most modern computers the NIC is built into the main
-circuit board rather than being a separate card, but it is still called a NIC. Without one, a device
+a network cable, or wireless, using radio waves. Many computers now have the NIC built in as a chip on the
+motherboard; it does the same job and keeps the name. Without one, a device
 cannot join a network at all, which is why the syllabus starts here.
 
 ## MAC addresses
@@ -56,8 +56,8 @@ stored on the NIC and does not normally change for the life of the device.
 reaches the right piece of hardware. Because it belongs to the hardware, it identifies the device itself,
 not where the device is.
 
-**Structure.** A MAC address is 48 bits long. It is usually written as **12 hexadecimal digits**, in six
-pairs separated by hyphens or colons. It has two halves:
+**Structure.** A MAC address contains 48 bits. People normally see it as **12 hexadecimal digits**, grouped
+into six two-digit pairs with hyphens or colons between them. It has two halves:
 
 ```
 00:1A:2B : 3C:4D:5E
@@ -96,7 +96,7 @@ address, it is **allocated by the network** the device joins, not by the manufac
 
 | | Static IP address | Dynamic IP address |
 |---|---|---|
-| Changes? | Stays the same every time the device connects | Can change each time the device connects |
+| Changes? | Never changes, however often the device reconnects | May be different on every new connection |
 | How given | Permanently assigned to the device | Allocated automatically from a pool when the device joins |
 | Suits | Servers and shared printers that others must always find at the same address | Phones and laptops that join and leave the network |
 | Benefit | Reliable to find and connect to | Addresses are reused, so fewer are needed; no manual setting up |
@@ -107,7 +107,7 @@ address, it is **allocated by the network** the device joins, not by the manufac
 |---|---|---|
 | Length | 32 bits | 128 bits |
 | Written as | Four groups of denary numbers, each 0 to 255, separated by full stops | Eight groups of four hexadecimal digits, separated by colons |
-| Example | `192.168.1.20` | `2001:0db8:0000:0000:0000:ff00:0042:8329` |
+| Example | `10.24.130.7` | `2001:0db8:85a3:0000:0000:0000:0370:0b2c` |
 | Number of possible addresses | 2^32, about 4.3 billion | 2^128, vastly more |
 
 **Why IPv6 was introduced.** The number of devices connected to the internet has grown so large that the
@@ -116,7 +116,7 @@ gives enough addresses for far more devices.
 
 **Shortening IPv6.** Leading zeros in a group can be left out, and one run of groups that are all zero
 can be replaced by `::`, used only once in an address. So the example above can also be written
-`2001:db8::ff00:42:8329`.
+`2001:db8:85a3::370:b2c`.
 
 ### Worked example: checking an IPv4 address
 
