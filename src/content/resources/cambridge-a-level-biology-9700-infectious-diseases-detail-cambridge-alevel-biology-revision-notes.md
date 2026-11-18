@@ -71,6 +71,20 @@ Write the genus with a capital, species lower case; underline when handwritten.
 - Protoctist → antimalarial drugs; vaccines difficult (inside cells).
 - Virus → no antibiotics; antivirals slow replication.
 
+## Must-know distinctions
+
+- **Pathogen vs vector**: *Plasmodium* causes malaria; the mosquito only carries it.
+- **Latent vs active TB**: latent has no symptoms and is not infectious; active TB in the lungs spreads in droplets.
+- **HIV vs AIDS**: HIV is the virus; AIDS is the condition that develops when T-helper cells are so reduced that opportunistic infections take hold.
+- **Infection vs disease**: a carrier is infected but shows no disease, yet can still transmit cholera.
+
+### Worked reminder: rate per 1000 people
+
+```
+rate = cases ÷ population × 1000
+240 cases in 160 000 people → 240 ÷ 160 000 × 1000 = 1.5 per 1000
+```
+
 ## Key terms
 
 | Term | Meaning |
