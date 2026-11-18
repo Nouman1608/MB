@@ -4374,11 +4374,60 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   {
     boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'psychology',
     syllabusCode: '9990', syllabusSeries: '2024-2026',
-    effectiveFrom: '2024', effectiveTo: '2026', status: 'current',
+    effectiveFrom: '2024', effectiveTo: '2026', status: 'superseded',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Rebuilt 2026-09-17 (round 43, E939 (2)) from section 3 Subject content of the 2024-2026 syllabus (Version 1; 62 pages, read to the Cambridge address block). AS Level content (3.1): the 12 compulsory core studies of 3.1.1, grouped in the syllabus under four unnumbered approaches (Biological, Cognitive, Learning, Social; three studies each, named in the syllabus), and 3.1.2 Research methodology (research methods and methodological concepts); the AS issues and debates apply across the core studies and are not a separate topic. A Level content (3.2): the four specialist options, of which candidates study two, with each option\'s five numbered topics as the syllabus numbers them (1.1-1.5 Clinical, 2.1-2.5 Consumer, 3.1-3.5 Health, 4.1-4.5 Organisational). The syllabus numbers neither the approaches nor the research-methodology headings, so those carry no number here. Papers 1-4 are assessment components, not content, and are not listed as topics. Topic slugs paper-1-approaches-issues-and-debates-9990, paper-2-research-methods-9990 and paper-3-specialist-options-1-9990 are older slugs kept because resources link them.',
+    notes: 'Rebuilt 2026-09-17 (round 43, E939 (2)) from section 3 Subject content of the 2024-2026 syllabus (Version 1; 62 pages, read to the Cambridge address block). AS Level content (3.1): the 12 compulsory core studies of 3.1.1, grouped in the syllabus under four unnumbered approaches (Biological, Cognitive, Learning, Social; three studies each, named in the syllabus), and 3.1.2 Research methodology (research methods and methodological concepts); the AS issues and debates apply across the core studies and are not a separate topic. A Level content (3.2): the four specialist options, of which candidates study two, with each option\'s five numbered topics as the syllabus numbers them (1.1-1.5 Clinical, 2.1-2.5 Consumer, 3.1-3.5 Health, 4.1-4.5 Organisational). The syllabus numbers neither the approaches nor the research-methodology headings, so those carry no number here. Papers 1-4 are assessment components, not content, and are not listed as topics. Topic slugs paper-1-approaches-issues-and-debates-9990, paper-2-research-methods-9990 and paper-3-specialist-options-1-9990 are older slugs kept because resources link them. Superseded on 2026-11-18 (D-498) by the 2027 record, which has the same topics and slugs: the 2024-2026 syllabus was examined for the last time in the November 2026 series. The 101 resources that cite series 2024-2026 resolve to this record and remain valid for 2027.',
+    topics: [
+      { number: 1, name: 'The core studies', slug: 'paper-1-approaches-issues-and-debates-9990', stage: 'AS', subtopics: [
+        { number: '', name: 'Biological approach', slug: 'biological-approach-9990' },
+        { number: '', name: 'Cognitive approach', slug: 'cognitive-approach-9990' },
+        { number: '', name: 'Learning approach', slug: 'learning-approach-9990' },
+        { number: '', name: 'Social approach', slug: 'social-approach-9990' },
+      ] },
+      { number: 2, name: 'Research methodology', slug: 'paper-2-research-methods-9990', stage: 'AS', subtopics: [
+        { number: '', name: 'Research methods', slug: 'research-methods-as-9990' },
+        { number: '', name: 'Methodological concepts', slug: 'methodological-concepts-as-9990' },
+      ] },
+      { number: 3, name: 'Specialist Option 1: Clinical Psychology', slug: 'paper-3-specialist-options-1-9990', stage: 'A', subtopics: [
+        { number: '1.1', name: 'Schizophrenia', slug: 'schizophrenia-9990' },
+        { number: '1.2', name: 'Mood (affective) disorders: depressive disorder (unipolar) and bipolar disorder', slug: 'mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder-9990' },
+        { number: '1.3', name: 'Impulse control disorders', slug: 'impulse-control-disorders-9990' },
+        { number: '1.4', name: 'Anxiety disorders and fear-related disorders', slug: 'anxiety-disorders-and-fear-related-disorders-9990' },
+        { number: '1.5', name: 'Obsessive-compulsive disorder (OCD)', slug: 'obsessive-compulsive-disorder-ocd-9990' },
+      ] },
+      { number: 4, name: 'Specialist Option 2: Consumer Psychology', slug: 'consumer-psychology-9990', stage: 'A', subtopics: [
+        { number: '2.1', name: 'The physical environment', slug: 'the-physical-environment-9990' },
+        { number: '2.2', name: 'The psychological environment', slug: 'the-psychological-environment-9990' },
+        { number: '2.3', name: 'Consumer decision-making', slug: 'consumer-decision-making-9990' },
+        { number: '2.4', name: 'The product', slug: 'the-product-9990' },
+        { number: '2.5', name: 'Advertising', slug: 'advertising-9990' },
+      ] },
+      { number: 5, name: 'Specialist Option 3: Health Psychology', slug: 'health-psychology-9990', stage: 'A', subtopics: [
+        { number: '3.1', name: 'The patient–practitioner relationship', slug: 'the-patientpractitioner-relationship-9990' },
+        { number: '3.2', name: 'Adherence to medical advice', slug: 'adherence-to-medical-advice-9990' },
+        { number: '3.3', name: 'Pain', slug: 'pain-9990' },
+        { number: '3.4', name: 'Stress', slug: 'stress-9990' },
+        { number: '3.5', name: 'Health promotion', slug: 'health-promotion-9990' },
+      ] },
+      { number: 6, name: 'Specialist Option 4: Organisational Psychology', slug: 'organisational-psychology-9990', stage: 'A', subtopics: [
+        { number: '4.1', name: 'Motivation to work', slug: 'motivation-to-work-9990' },
+        { number: '4.2', name: 'Leadership and management', slug: 'leadership-and-management-9990' },
+        { number: '4.3', name: 'Group behaviour in organisations', slug: 'group-behaviour-in-organisations-9990' },
+        { number: '4.4', name: 'Organisational work conditions', slug: 'organisational-work-conditions-9990' },
+        { number: '4.5', name: 'Satisfaction at work', slug: 'satisfaction-at-work-9990' },
+      ] },
+    ],
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'psychology',
+    syllabusCode: '9990', syllabusSeries: '2027',
+    effectiveFrom: '2027', effectiveTo: '2027', status: 'current',
+    tiered: false,
+    source: 'Cambridge Assessment International Education — official syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/721433-2027-syllabus.pdf', verifiedDate: '2026-11-18',
+    notes: 'Syllabus for examination in 2027 (Version 1, published September 2024). Compared word by word on 2026-11-18 with the 2024-2026 syllabus: subject content (3.1 AS Level, 3.2 A Level with the four specialist options) and the details of the assessment (Papers 1 to 4: durations, marks, sections, weightings, command words) are unchanged in meaning. The one addition is a general note on ICD-11 terms in the introduction to section 3, which repeats the note already at the start of Specialist Option 1. Topic and sub-topic numbers, titles and slugs are therefore the same as in the 2024-2026 record, and the resources filed under 2024-2026 stay valid. The 2028-2030 syllabus is recorded in KNOWN_OTHER_SERIES with the differences found.',
     topics: [
       { number: 1, name: 'The core studies', slug: 'paper-1-approaches-issues-and-debates-9990', stage: 'AS', subtopics: [
         { number: '', name: 'Biological approach', slug: 'biological-approach-9990' },
@@ -7215,6 +7264,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
  * so the content validator's slug union is unchanged.
  */
 export const KNOWN_OTHER_SERIES = [
+  { syllabusCode: '9990', syllabusSeries: '2028-2030', status: 'future' as const,
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/744686-2028-2030-syllabus.pdf',
+    notes: 'Version 1, published September 2025. Compared with 2024-2026 on 2026-11-18: topics, sub-topic numbers, core studies and Papers 1 to 4 are unchanged. Changes: five sub-section titles (3.1.1 Practitioner interpersonal skills; 3.1.2 Practitioner diagnosis and style; 3.4.3 Preventing and managing stress; 3.5.1 Strategies for improving health; 4.5.2 Measuring job satisfaction); issues-and-debates lists (generalisations from findings becomes generalisations; use of children in research removed from 1.1.1; case studies removed from 1.3.1); and wording of some study items. REVIEW REQUIRED before the 2028 series: see docs/content-review/syllabus-changes-9990-2027-2030.md.' },
   { syllabusCode: '9701', syllabusSeries: '2028-2030', status: 'future' as const,
     sourceUrl: 'https://www.cambridgeinternational.org/Images/744624-2028-2030-syllabus.pdf',
     notes: 'Published by Cambridge. REVIEW REQUIRED before the 2028 series: 9701 content must be re-verified against it.' },

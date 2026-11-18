@@ -1220,8 +1220,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '9990',
     boardSummary:
       'Cambridge International AS and A Level Psychology gives learners an insight into the scientific study of the human mind and behaviour, encouraging them to consider how psychology can help us understand the world.',
-    officialUrl: 'https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf',
-    verifiedOn: '2026-08-19',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/721433-2027-syllabus.pdf',
+    verifiedOn: '2026-11-18',
     notes: 'AS content covers four core approaches (Biological, Cognitive, Learning, Social), each built around 12 named core studies, assessed via Paper 1 (Approaches, Issues and Debates) and Paper 2 (Research Methods). A Level adds 2 of 4 specialist options (Clinical, Consumer, Health, Organisational Psychology), assessed via Paper 3 and Paper 4.',
   },
   {
