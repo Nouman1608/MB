@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "energy-oxfordaqa-igcse"
     subtopic: "energy-transfers-conservation-and-dissipation"
-description: "A deeper guide to OxfordAQA IGCSE Physics 3.2.2: tracing energy through systems, the pendulum, conservation calculations, dissipation, efficiency and Sankey diagrams."
+description: "A deeper guide to OxfordAQA IGCSE Physics 3.2.2: tracing energy through systems, the pendulum, conservation, dissipation, efficiency and Sankey diagrams."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

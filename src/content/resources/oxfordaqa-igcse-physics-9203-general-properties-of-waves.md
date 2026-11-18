@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves-oxfordaqa-igcse"
     subtopic: "general-properties-of-waves"
-description: "A deeper guide to OxfordAQA IGCSE Physics 3.3.1: wave evidence, transverse and longitudinal waves, wave terms, v = fλ, and diffraction in its named applications."
+description: "A deeper guide to OxfordAQA IGCSE Physics 3.3.1: wave evidence, transverse and longitudinal waves, wave terms, v = fλ and diffraction in named applications."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
