@@ -3,7 +3,7 @@ title: "IB DP Mathematics: Analysis and Approaches (AA): 3.17 Vector equations o
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 3 – Geometry and trigonometry"
+topic: "Geometry and trigonometry"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

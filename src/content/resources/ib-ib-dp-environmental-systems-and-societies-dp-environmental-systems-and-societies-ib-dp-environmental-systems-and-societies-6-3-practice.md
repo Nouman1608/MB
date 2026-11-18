@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Climate change -- mitigation and adaptation -- Practice Questions"
+title: "IB DP Environmental Systems and Societies (ESS): 6.3 Climate change -- mitigation and adaptation -- Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

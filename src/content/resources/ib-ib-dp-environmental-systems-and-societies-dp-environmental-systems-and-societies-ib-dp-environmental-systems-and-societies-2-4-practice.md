@@ -109,8 +109,7 @@ matter accumulates faster than it is broken down, building a large store in the 
 layer [1]. Coral reefs are much more productive per area [1] because shallow, clear, warm water gives
 plenty of light and nutrients are recycled tightly within the reef community [1]. **[3]**
 
-**8. (a)** Height difference = 2.2 km; temperature fall = 2.2 × 6.5 = 14.3 °C [1]; 18 − 14.3 =
-**3.7 °C** [1]
+**8. (a)** Height difference = 2.2 km; temperature fall = 2.2 × 6.5 = 14.3 °C [1]; 18 − 14.3 = **3.7 °C** [1]
 **(b)** (18 − 6) / 6.5 × 1000 = 1846 m above the valley [1]; tree line ≈ 400 + 1846 = **2,250 m**
 (to 3 s.f.) [1]
 **(c)** 1.0 / 6.5 × 1000 = 154 m higher, so about **2,400 m** [1] **[5]**

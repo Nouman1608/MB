@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Local maximum and minimum points, optimization and points of inflexion"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 5.8 Local maximum and minimum points, optimization and points of inflexion"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

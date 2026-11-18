@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A-Level Chemistry (9620): Base properties -- Practice Questions"
+title: "OxfordAQA A-Level Chemistry (9620): Base properties of amines -- Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

@@ -1,9 +1,9 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Solving trigonometric equations -- Revision Notes"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 3.8 Solving trigonometric equations -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 3 -- Geometry and trigonometry"
+topic: "Geometry and trigonometry"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Laws of exponents and laws of logarithms -- Revision Notes"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.7 Laws of exponents and laws of logarithms -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

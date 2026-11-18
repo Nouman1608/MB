@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Implicit differentiation, related rates of change and optimisation (AHL only) -- Revision Notes"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 5.14 Implicit differentiation, related rates of change and optimisation (AHL only) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

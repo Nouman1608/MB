@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Natural resources -- uses and management"
+title: "IB DP Environmental Systems and Societies (ESS): 7.1 Natural resources -- uses and management"
 resourceType: "study-guides"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

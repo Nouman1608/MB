@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Continuity, differentiability and derivative from first principles (AHL only) -- Revision Notes"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 5.12 Continuity, differentiability and derivative from first principles (AHL only) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

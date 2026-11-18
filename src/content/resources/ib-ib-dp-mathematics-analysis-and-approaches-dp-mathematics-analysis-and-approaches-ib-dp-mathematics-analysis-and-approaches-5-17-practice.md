@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Areas enclosed with the y-axis and volumes of revolution (AHL only) -- Practice Questions"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 5.17 Areas enclosed with the y-axis and volumes of revolution (AHL only) -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

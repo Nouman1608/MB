@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A-Level Chemistry (9620): Base properties"
+title: "OxfordAQA A-Level Chemistry (9620): Base properties of amines"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

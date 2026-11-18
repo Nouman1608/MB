@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Sum of infinite convergent geometric sequences"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.8 Sum of infinite convergent geometric sequences"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

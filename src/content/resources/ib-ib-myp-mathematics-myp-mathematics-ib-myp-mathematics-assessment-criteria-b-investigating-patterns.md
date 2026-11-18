@@ -16,6 +16,8 @@ syllabusTopics:
 description: "How to run an MYP Mathematics Criterion B investigation: techniques, writing general rules, and verifying, justifying and proving them, with three examples."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "The Year 5 strand wording was written from memory, so a teacher should check it against the MYP Mathematics guide."
 publishedDate: 2026-11-18
 featured: false
 ---

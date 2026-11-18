@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Introduction to the atmosphere"
+title: "IB DP Environmental Systems and Societies (ESS): 6.1 Introduction to the atmosphere"
 resourceType: "study-guides"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A-Level Chemistry (9620): Bonding -- Revision Notes"
+title: "OxfordAQA A-Level Chemistry (9620): Bonding in benzene -- Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

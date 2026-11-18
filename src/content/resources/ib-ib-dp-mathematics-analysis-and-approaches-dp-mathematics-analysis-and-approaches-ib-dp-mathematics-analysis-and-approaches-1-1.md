@@ -1,9 +1,9 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (1.1): Operations with numbers in the form a × 10ᵏ"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.1 Operations with numbers in the form a × 10ᵏ"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 1 – Number and algebra"
+topic: "Number and algebra"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

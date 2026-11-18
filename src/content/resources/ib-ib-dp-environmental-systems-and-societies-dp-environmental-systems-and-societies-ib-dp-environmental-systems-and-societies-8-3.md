@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Urban air pollution"
+title: "IB DP Environmental Systems and Societies (ESS): 8.3 Urban air pollution"
 resourceType: "study-guides"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Integration by substitution and by parts (AHL only) -- Practice Questions"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 5.16 Integration by substitution and by parts (AHL only) -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

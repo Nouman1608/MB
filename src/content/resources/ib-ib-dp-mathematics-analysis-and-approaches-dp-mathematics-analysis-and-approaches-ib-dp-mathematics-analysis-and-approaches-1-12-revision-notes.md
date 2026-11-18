@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Complex numbers: Cartesian form and the complex plane (AHL only) -- Revision Notes"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.12 Complex numbers: Cartesian form and the complex plane (AHL only) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

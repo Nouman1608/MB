@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A-Level Chemistry (9620): Preparation"
+title: "OxfordAQA A-Level Chemistry (9620): Preparation of amines"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Human impact on biodiversity -- Revision Notes"
+title: "IB DP Environmental Systems and Societies (ESS): 3.2 Human impact on biodiversity -- Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

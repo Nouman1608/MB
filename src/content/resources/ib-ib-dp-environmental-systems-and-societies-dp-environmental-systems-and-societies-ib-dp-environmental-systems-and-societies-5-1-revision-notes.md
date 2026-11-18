@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Soil -- Revision Notes"
+title: "IB DP Environmental Systems and Societies (ESS): 5.1 Soil -- Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

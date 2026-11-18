@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Evaluation of limits using l’Hôpital’s rule or Maclaurin series (AHL only)"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 5.13 Evaluation of limits using l’Hôpital’s rule or Maclaurin series (AHL only)"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

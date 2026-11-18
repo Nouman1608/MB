@@ -1,9 +1,9 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Transformations of graphs -- Practice Questions"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 2.11 Transformations of graphs -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 2 – Functions"
+topic: "Functions"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

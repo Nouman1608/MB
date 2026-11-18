@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Urban systems and urban planning -- Revision Notes"
+title: "IB DP Environmental Systems and Societies (ESS): 8.2 Urban systems and urban planning -- Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

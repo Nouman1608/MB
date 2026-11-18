@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Energy sources -- uses and management -- Revision Notes"
+title: "IB DP Environmental Systems and Societies (ESS): 7.2 Energy sources -- uses and management -- Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

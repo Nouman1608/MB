@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Water access, use and security -- Revision Notes"
+title: "IB DP Environmental Systems and Societies (ESS): 4.2 Water access, use and security -- Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

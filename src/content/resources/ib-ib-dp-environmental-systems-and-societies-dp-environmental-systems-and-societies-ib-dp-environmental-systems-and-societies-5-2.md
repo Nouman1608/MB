@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Agriculture and food"
+title: "IB DP Environmental Systems and Societies (ESS): 5.2 Agriculture and food"
 resourceType: "study-guides"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

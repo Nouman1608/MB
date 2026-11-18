@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Water systems"
+title: "IB DP Environmental Systems and Societies (ESS): 4.1 Water systems"
 resourceType: "study-guides"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

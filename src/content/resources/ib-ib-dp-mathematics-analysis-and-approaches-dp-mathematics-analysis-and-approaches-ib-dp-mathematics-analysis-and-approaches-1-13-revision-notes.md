@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Complex numbers: modulus-argument (polar) and Euler form (AHL only) -- Revision Notes"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.13 Complex numbers: modulus-argument (polar) and Euler form (AHL only) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

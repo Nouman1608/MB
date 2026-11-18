@@ -1,9 +1,9 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Odd and even functions; self-inverse functions (AHL only) -- Revision Notes"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 2.14 Odd and even functions; self-inverse functions (AHL only) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 2 – Functions"
+topic: "Functions"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

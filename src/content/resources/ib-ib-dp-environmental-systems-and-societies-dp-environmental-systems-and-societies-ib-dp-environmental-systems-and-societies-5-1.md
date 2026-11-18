@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Soil"
+title: "IB DP Environmental Systems and Societies (ESS): 5.1 Soil"
 resourceType: "study-guides"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

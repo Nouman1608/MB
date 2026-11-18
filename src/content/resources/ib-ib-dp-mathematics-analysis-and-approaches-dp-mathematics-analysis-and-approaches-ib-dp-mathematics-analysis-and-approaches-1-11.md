@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Partial fractions (AHL only)"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.11 Partial fractions (AHL only)"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

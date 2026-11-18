@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Human populations"
+title: "IB DP Environmental Systems and Societies (ESS): 8.1 Human populations"
 resourceType: "study-guides"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

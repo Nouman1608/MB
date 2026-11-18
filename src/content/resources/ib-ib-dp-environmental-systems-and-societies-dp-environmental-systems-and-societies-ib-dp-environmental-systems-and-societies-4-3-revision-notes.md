@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Aquatic food production systems -- Revision Notes"
+title: "IB DP Environmental Systems and Societies (ESS): 4.3 Aquatic food production systems -- Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

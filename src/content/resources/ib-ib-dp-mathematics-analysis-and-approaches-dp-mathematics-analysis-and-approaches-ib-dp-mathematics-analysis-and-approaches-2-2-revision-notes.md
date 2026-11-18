@@ -3,7 +3,7 @@ title: "IB DP Mathematics: Analysis and Approaches (AA): 2.2 Concept of a functi
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 2 -- Functions"
+topic: "Functions"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

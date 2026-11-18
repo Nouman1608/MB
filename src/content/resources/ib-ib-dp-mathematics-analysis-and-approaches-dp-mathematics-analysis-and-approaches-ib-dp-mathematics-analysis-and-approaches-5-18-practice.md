@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): First order differential equations (AHL only) -- Practice Questions"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 5.18 First order differential equations (AHL only) -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

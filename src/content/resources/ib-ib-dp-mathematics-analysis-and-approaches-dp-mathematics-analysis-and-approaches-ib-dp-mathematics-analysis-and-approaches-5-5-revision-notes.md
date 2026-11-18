@@ -3,7 +3,7 @@ title: "IB DP Mathematics: Analysis and Approaches (AA): 5.5 Introduction to int
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 5 – Calculus"
+topic: "Calculus"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

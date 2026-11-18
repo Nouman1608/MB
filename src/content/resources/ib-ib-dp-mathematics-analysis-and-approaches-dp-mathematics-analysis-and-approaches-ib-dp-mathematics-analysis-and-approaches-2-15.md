@@ -1,9 +1,9 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Solutions of inequalities g(x) ≥ f(x) (AHL only)"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 2.15 Solutions of inequalities g(x) ≥ f(x) (AHL only)"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 2 – Functions"
+topic: "Functions"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

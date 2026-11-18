@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Human impact on biodiversity -- Practice Questions"
+title: "IB DP Environmental Systems and Societies (ESS): 3.2 Human impact on biodiversity -- Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

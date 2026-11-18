@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): The binomial theorem"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.9 The binomial theorem"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

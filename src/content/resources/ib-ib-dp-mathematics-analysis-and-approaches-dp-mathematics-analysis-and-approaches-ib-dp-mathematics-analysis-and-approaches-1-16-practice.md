@@ -3,7 +3,7 @@ title: "IB DP Mathematics: Analysis and Approaches (AA): 1.16 Systems of linear 
 resourceType: "practice-questions"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 1 -- Number and algebra"
+topic: "Number and algebra"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A-Level Chemistry (9620): Base properties -- Revision Notes"
+title: "OxfordAQA A-Level Chemistry (9620): Base properties of amines -- Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

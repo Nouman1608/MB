@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Solid waste -- Practice Questions"
+title: "IB DP Environmental Systems and Societies (ESS): 7.3 Solid waste -- Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

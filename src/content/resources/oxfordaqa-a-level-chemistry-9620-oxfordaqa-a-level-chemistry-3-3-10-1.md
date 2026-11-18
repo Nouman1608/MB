@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A-Level Chemistry (9620): Bonding"
+title: "OxfordAQA A-Level Chemistry (9620): Bonding in benzene"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

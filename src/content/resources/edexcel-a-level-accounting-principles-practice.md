@@ -21,6 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-08-22
+updatedDate: 2026-11-18
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
@@ -31,7 +32,7 @@ featured: false
 
 Related: [Principles and Double Entry Bookkeeping revision notes](/resources/edexcel-a-level-accounting-principles-revision-notes/)
 
-> This unit's live paper is split into exactly two compulsory sections —
+> This unit's live paper is split into exactly two sections — a compulsory
 > Section A (two large multi-part questions based on given data) and
 > Section B (a choice of optional multi-part questions), accompanied by
 > a resource booklet. The questions below are numbered continuously
@@ -129,7 +130,7 @@ Debits correctly entered [1]; credits correctly entered [1] [1]; totals agree [1
 No. They are original questions written for revision on Pearson Edexcel International A Level Accounting (YAC11). They do not replicate the exam's structure, question count or mark tariffs, so use them alongside the official past papers.
 
 **How is the Edexcel IAL Accounting Unit 1 paper structured?**
-The paper has two compulsory sections: Section A has large multi-part questions based on given data, and Section B offers a choice of optional multi-part questions, with a resource booklet.
+The paper has two sections: compulsory Section A has large multi-part questions based on given data, and Section B offers a choice of optional multi-part questions, with a resource booklet.
 
 **Is bank reconciliation assessed in Edexcel YAC11?**
 Bank reconciliation is not a content statement of either unit of the specification. These pages include it only as supporting background because it consolidates cash book and error-checking skills.

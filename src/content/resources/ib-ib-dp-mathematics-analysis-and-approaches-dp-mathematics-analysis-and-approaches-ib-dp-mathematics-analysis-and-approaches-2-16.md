@@ -1,9 +1,9 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Graphs of |f(x)|, f(|x|) and related functions; modulus equations (AHL only)"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 2.16 Graphs of |f(x)|, f(|x|) and related functions; modulus equations (AHL only)"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 2 – Functions"
+topic: "Functions"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

@@ -1,9 +1,9 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (1.2): Arithmetic sequences and series -- Practice Questions"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.2 Arithmetic sequences and series -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 1 – Number and algebra"
+topic: "Number and algebra"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

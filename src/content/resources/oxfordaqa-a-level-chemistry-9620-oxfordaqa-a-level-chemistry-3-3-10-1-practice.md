@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A-Level Chemistry (9620): Bonding -- Practice Questions"
+title: "OxfordAQA A-Level Chemistry (9620): Bonding in benzene -- Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

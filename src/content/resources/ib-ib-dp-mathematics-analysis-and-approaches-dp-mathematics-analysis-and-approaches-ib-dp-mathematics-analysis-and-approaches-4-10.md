@@ -3,7 +3,7 @@ title: "IB DP Mathematics: Analysis and Approaches (AA): 4.10 The regression lin
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 4 – Statistics and probability"
+topic: "Statistics and probability"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

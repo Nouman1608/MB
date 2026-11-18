@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Counting principles and extension of the binomial theorem (AHL only) -- Practice Questions"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.10 Counting principles and extension of the binomial theorem (AHL only) -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

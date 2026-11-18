@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Simple deductive proof -- Practice Questions"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.6 Simple deductive proof -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

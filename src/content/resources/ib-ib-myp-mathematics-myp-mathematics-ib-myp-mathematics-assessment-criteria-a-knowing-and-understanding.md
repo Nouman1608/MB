@@ -16,6 +16,8 @@ syllabusTopics:
 description: "How to select, apply and solve for MYP Mathematics Criterion A, with annotated solutions to familiar and unfamiliar problems and the errors that cost levels."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "The Year 5 strand wording was written from memory, so a teacher should check it against the MYP Mathematics guide."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -24,7 +26,7 @@ This guide goes deep on one criterion: Criterion A, knowing and understanding, i
 
 ## What Criterion A assesses
 
-Criterion A is marked out of 8 and has three strands. In the guide's words, you should be able to:
+Criterion A is marked out of 8 and has three strands. In Year 5 they ask you to:
 
 | Strand | What it asks | What a teacher looks for on the page |
 |---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Conservation and regeneration -- Revision Notes"
+title: "IB DP Environmental Systems and Societies (ESS): 3.3 Conservation and regeneration -- Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

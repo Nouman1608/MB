@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Aquatic food production systems"
+title: "IB DP Environmental Systems and Societies (ESS): 4.3 Aquatic food production systems"
 resourceType: "study-guides"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Indefinite integration by inspection or substitution -- Practice Questions"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 5.10 Indefinite integration by inspection or substitution -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

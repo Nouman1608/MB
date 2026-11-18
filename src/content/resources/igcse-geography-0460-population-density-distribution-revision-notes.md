@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
-updatedDate: 2026-11-16
+updatedDate: 2026-11-18
 featured: false
 ---
 
@@ -127,10 +127,11 @@ town in the north, where density is higher than the surrounding area."
   <figcaption>A regional average of 75 hides densities of 1,200, 30 and 3.</figcaption>
 </figure>
 
-## Case study: the population distribution of a country
+## Case studies: densely and sparsely populated areas
 
-The syllabus asks for a case study of the population distribution of a country. Two well-documented
-choices:
+The syllabus asks for two case studies: a densely populated country or area and a sparsely populated
+country or area, at any scale from local to regional. Each of these countries supplies both, a
+densely populated area and a sparsely populated one:
 
 **Egypt.** The overwhelming majority of Egyptians -- often quoted as about 95 per cent -- live on
 only a small fraction of the land, in the **Nile valley and delta**. The river provides water for

@@ -1,9 +1,9 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Definitions of cosθ, sinθ and tanθ using the unit circle"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 3.5 Definitions of cosθ, sinθ and tanθ using the unit circle"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 3 – Geometry and trigonometry"
+topic: "Geometry and trigonometry"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

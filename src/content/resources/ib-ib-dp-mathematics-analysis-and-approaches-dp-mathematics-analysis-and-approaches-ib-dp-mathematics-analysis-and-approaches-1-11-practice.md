@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Partial fractions (AHL only) -- Practice Questions"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.11 Partial fractions (AHL only) -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

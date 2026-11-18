@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Water pollution -- Revision Notes"
+title: "IB DP Environmental Systems and Societies (ESS): 4.4 Water pollution -- Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

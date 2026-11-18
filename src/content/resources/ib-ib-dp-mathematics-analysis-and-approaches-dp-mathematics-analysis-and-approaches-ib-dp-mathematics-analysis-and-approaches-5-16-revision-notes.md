@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Integration by substitution and by parts (AHL only) -- Revision Notes"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 5.16 Integration by substitution and by parts (AHL only) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Simple deductive proof -- Revision Notes"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.6 Simple deductive proof -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

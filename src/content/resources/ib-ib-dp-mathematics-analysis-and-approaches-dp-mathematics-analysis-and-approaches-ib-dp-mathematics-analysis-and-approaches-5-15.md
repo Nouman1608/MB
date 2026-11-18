@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Derivatives and indefinite integrals of further functions (AHL only)"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 5.15 Derivatives and indefinite integrals of further functions (AHL only)"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

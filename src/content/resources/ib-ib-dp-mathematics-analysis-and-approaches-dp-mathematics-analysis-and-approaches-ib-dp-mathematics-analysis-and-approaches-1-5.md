@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Laws of exponents and introduction to logarithms"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.5 Laws of exponents and introduction to logarithms"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

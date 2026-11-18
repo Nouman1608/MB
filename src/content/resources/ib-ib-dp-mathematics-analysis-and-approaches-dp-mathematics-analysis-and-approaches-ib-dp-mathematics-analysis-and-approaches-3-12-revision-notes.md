@@ -1,9 +1,9 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Vectors: concept, components and algebraic/geometric operations (AHL only) -- Revision Notes"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 3.12 Vectors: concept, components and algebraic/geometric operations (AHL only) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 3 -- Geometry and trigonometry"
+topic: "Geometry and trigonometry"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

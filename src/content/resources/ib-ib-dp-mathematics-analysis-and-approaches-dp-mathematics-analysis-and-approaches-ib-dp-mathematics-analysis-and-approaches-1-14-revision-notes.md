@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Complex conjugate roots and De Moivre’s theorem (AHL only) -- Revision Notes"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.14 Complex conjugate roots and De Moivre’s theorem (AHL only) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Kinematic problems: displacement, velocity, acceleration and distance"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 5.9 Kinematic problems: displacement, velocity, acceleration and distance"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

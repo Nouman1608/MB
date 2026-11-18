@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Laws of exponents and introduction to logarithms -- Practice Questions"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.5 Laws of exponents and introduction to logarithms -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

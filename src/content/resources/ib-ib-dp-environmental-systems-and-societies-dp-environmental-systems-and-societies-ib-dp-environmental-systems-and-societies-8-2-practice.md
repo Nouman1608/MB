@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Urban systems and urban planning -- Practice Questions"
+title: "IB DP Environmental Systems and Societies (ESS): 8.2 Urban systems and urban planning -- Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

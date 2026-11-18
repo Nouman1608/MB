@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Definite integrals and areas between curves"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 5.11 Definite integrals and areas between curves"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

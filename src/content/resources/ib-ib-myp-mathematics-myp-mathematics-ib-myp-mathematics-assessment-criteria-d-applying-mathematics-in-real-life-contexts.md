@@ -16,6 +16,8 @@ syllabusTopics:
 description: "How to tackle MYP Mathematics Criterion D real-life tasks: identifying elements, choosing strategies, justifying accuracy and judging if answers make sense."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "The Year 5 strand wording was written from memory, so a teacher should check it against the MYP Mathematics guide."
 publishedDate: 2026-11-18
 featured: false
 ---

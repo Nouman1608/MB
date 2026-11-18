@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Climate change -- causes and impacts -- Practice Questions"
+title: "IB DP Environmental Systems and Societies (ESS): 6.2 Climate change -- causes and impacts -- Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

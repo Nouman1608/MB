@@ -1,9 +1,9 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): The vector product of two vectors (AHL only) -- Practice Questions"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 3.16 The vector product of two vectors (AHL only) -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]
-topic: "Topic 3 -- Geometry and trigonometry"
+topic: "Geometry and trigonometry"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]

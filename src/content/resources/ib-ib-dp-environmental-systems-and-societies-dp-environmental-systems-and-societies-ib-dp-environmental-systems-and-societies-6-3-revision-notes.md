@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Climate change -- mitigation and adaptation -- Revision Notes"
+title: "IB DP Environmental Systems and Societies (ESS): 6.3 Climate change -- mitigation and adaptation -- Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

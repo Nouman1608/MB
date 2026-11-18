@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Solid waste -- Revision Notes"
+title: "IB DP Environmental Systems and Societies (ESS): 7.3 Solid waste -- Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

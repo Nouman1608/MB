@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): The second derivative and graphical behaviour of functions"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 5.7 The second derivative and graphical behaviour of functions"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

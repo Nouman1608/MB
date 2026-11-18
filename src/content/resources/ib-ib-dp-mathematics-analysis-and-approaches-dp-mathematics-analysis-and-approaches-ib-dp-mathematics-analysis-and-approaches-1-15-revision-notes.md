@@ -1,5 +1,5 @@
 ---
-title: "IB DP Mathematics: Analysis and Approaches (DP Mathematics: Analysis and Approaches): Proof by mathematical induction, contradiction and counterexample (AHL only) -- Revision Notes"
+title: "IB DP Mathematics: Analysis and Approaches (AA): 1.15 Proof by mathematical induction, contradiction and counterexample (AHL only) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Stratospheric ozone -- Practice Questions"
+title: "IB DP Environmental Systems and Societies (ESS): 6.4 Stratospheric ozone -- Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

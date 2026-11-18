@@ -1,5 +1,5 @@
 ---
-title: "IB DP Environmental Systems and Societies (DP Environmental Systems and Societies): Introduction to the atmosphere -- Practice Questions"
+title: "IB DP Environmental Systems and Societies (ESS): 6.1 Introduction to the atmosphere -- Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-systems-and-societies"
 level: ["ib"]
