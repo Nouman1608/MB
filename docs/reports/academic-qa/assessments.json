@@ -2005,6 +2005,210 @@
       "limitations": "AI-assisted, not a teacher review, and not an approval. Official documents read as extracted text from the PDFs in the owner's \"resource check\" folder (SHA-256 in source-manifest.json). The June 2025 Paper 43 paper, mark scheme and examiner report were read from the owner's existing copies; the cited URL is the syllabus page, because those documents are not publicly linked there. Tariffs other than the relative atomic mass items were not compared with mark schemes. No images on this page.",
       "reassessmentOf": "QA-0005",
       "assessedFileCommit": "acbafb035"
+    },
+    {
+      "id": "QA-0010",
+      "resource": "a-level-psychology-clinical-psychology-practice",
+      "rubricVersion": "1.0.0",
+      "method": "ai-assisted",
+      "assessor": "AI-assisted (claude-fable-5-2)",
+      "date": "2026-11-18",
+      "contentSha256": "843ab38d07bbab98076410bc315f98f2bbd52d516a4ea910e4fe424c8415f30f",
+      "syllabus": {
+        "board": "cambridge",
+        "code": "9990",
+        "series": "2024-2026"
+      },
+      "sources": [
+        {
+          "title": "Cambridge International AS & A Level Psychology 9990 syllabus for 2024, 2025 and 2026, version 1",
+          "url": "https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf",
+          "localRef": "Cambridge/AS-A-Level/Cambridge-AS-A-Level-Psychology-9990-syllabus-2024-2026.pdf",
+          "pagesRead": "10, 26-32, 51"
+        },
+        {
+          "title": "Cambridge International AS & A Level Psychology 9990 syllabus for 2027, version 1",
+          "url": "https://www.cambridgeinternational.org/Images/721433-2027-syllabus.pdf",
+          "localRef": "Cambridge/AS-A-Level/Cambridge-AS-A-Level-Psychology-9990-syllabus-2027.pdf",
+          "pagesRead": "10, 26-32, 50-54 (compared line by line with 2024-2026)"
+        },
+        {
+          "title": "Cambridge International AS & A Level Psychology 9990 syllabus for 2028, 2029 and 2030, version 1",
+          "url": "https://www.cambridgeinternational.org/Images/744686-2028-2030-syllabus.pdf",
+          "localRef": "Cambridge/AS-A-Level/Cambridge-AS-A-Level-Psychology-9990-syllabus-2028-2030.pdf",
+          "pagesRead": "Specialist Option 1 and Paper 3/4 details (compared with 2024-2026)"
+        }
+      ],
+      "categories": {
+        "syllabus-alignment": {
+          "points": 19.5,
+          "evidence": "Unchanged from QA-0008 for the page text: every named item is in Option 1 (2024-2026 pp.26-32; 2027 pp.26-32, compared line by line); Paper 3 30 marks and Paper 4 18 marks per option (p.10). New: the taxonomy (src/data/academic/syllabus-topics.ts) now has a current 2027 record reusing the 2024-2026 topics and slugs, the 2024-2026 record is superseded, and 2028-2030 is recorded as a known future series with its differences (D-498; docs/content-review/syllabus-changes-9990-2027-2030.md). The page still says it is filed under 2024-2026 and tells 2027 candidates in its opening that the content and paper format are the same.",
+          "reasoning": "The lifecycle gap in QA-0008 F8 is closed in the data. Half a point still held: the page's own syllabusSeries field says 2024-2026, which is accurate for the syllabus it was written for and valid for 2027, but a student reading the field alone is not told 2027."
+        },
+        "factual-accuracy": {
+          "points": 18,
+          "evidence": "Negative symptoms, negative triad, tricyclic and SSRI mechanisms, variable-ratio reinforcement, systematic desensitisation, applied tension, negative reinforcement, Y-BOCS (10 items, 0-4, total 0-40), random allocation in Lovell et al. (2006): unchanged and correct. Answer 7(a) now says sequential drugs risk carry-over and mean changing a patient's medication for the study, not that a patient \"cannot\" take both. Answer 1(b) no longer states when the symptom assessments were completed.",
+          "reasoning": "No material error. Two points held: details of the key studies beyond their syllabus titles are still checked from subject knowledge, and the Freeman et al. procedure was not checked against the paper (F3)."
+        },
+        "worked-answers-exam-alignment": {
+          "points": 16.5,
+          "evidence": "Section A: 2+4, 3+2, 3 = 14; 6+10 = 16; total 30, matching p.51 (\"three questions ... 14 marks\"; essay 6 + 10) and p.10. Section B: 9+4+6+3 = 22; the page now states that Paper 4 Section A has two structured questions per option worth 18 marks and that this section is longer and reuses two Section A topics. Answer 4(b) now says it is marked by levels and that Cambridge's level descriptors are not reproduced.",
+          "reasoning": "Tariffs and answers accurate, and the page no longer implies that Section B mirrors Paper 4. Deductions remain because a student still cannot place a 4(b) answer below the top level from this page (F1) and Section B is practice, not a paper-format section (F2)."
+        },
+        "depth-teaching-value": {
+          "points": 12.5,
+          "evidence": "Indicative content for 4(b); five concrete \"where marks are lost\" points; scenario and research-methods items; FAQ on paper structure. The opening now says the set is a sample of the option and names items it does not test.",
+          "reasoning": "Good exam-focused value, and honest about being a sample. Coverage itself is unchanged."
+        },
+        "source-traceability": {
+          "points": 9,
+          "evidence": "Official syllabus section links the 2024-2026 PDF with descriptive link text and now the 2027 PDF. Studies cited by author and year as in the syllabus key-study list. Disclaimer: original questions, not from a past paper.",
+          "reasoning": "Traceable. One point held: originality was judged by inspection, not against a past-paper archive."
+        },
+        "clarity-accessibility": {
+          "points": 9,
+          "evidence": "Clear sections; bold question numbers with tariffs; numbered answers; no images. The two new notes are short and placed where a student needs them (opening; head of Section B).",
+          "reasoning": "Well organised. One point held: mark points still sit inline as \"(1)\" inside dense paragraphs."
+        },
+        "editorial-completeness": {
+          "points": 4.5,
+          "evidence": "author marlbridge-academic-team; reviewer kanwal-aslam (credit, D-379); a documented verification now exists in teacher-verifications.json (2026-11-18, whole page, approved-after-corrections, tied to this page hash). Its evidence is the project owner's report that the teacher checked the live page; the teacher's own note was not seen by the AI system and was not asked for, at the owner's instruction.",
+          "reasoning": "A documented check now exists, so the QA-0008 shortfall is closed. Half a point held because the evidence is reported by the owner, not the teacher's own dated record."
+        }
+      },
+      "checks": {
+        "1": {
+          "result": "pass",
+          "note": "All named items are in Option 1 (pp.26-32); Paper 3/4 marks match pp.10, 51."
+        },
+        "2": {
+          "result": "issues-found",
+          "note": "7(a) corrected (F4 fixed); Freeman et al. procedure not verified against the paper (F3)."
+        },
+        "3": {
+          "result": "issues-found",
+          "note": "Section A tariffs correct; 4(b) gives no lower levels (F1); Section B is not in Paper 4 format, now stated (F2)."
+        },
+        "4": {
+          "result": "pass",
+          "note": "Coverage now described as a sample (F6 fixed)."
+        },
+        "5": {
+          "result": "pass",
+          "note": "Official 2024-2026 and 2027 syllabuses linked."
+        },
+        "6": {
+          "result": "pass",
+          "note": "Logical headings, tariffs shown, links resolve."
+        },
+        "7": {
+          "result": "pass",
+          "note": "Original-looking questions with disclaimer (not compared with an archive)."
+        },
+        "8": {
+          "result": "pass",
+          "note": "Documented teacher verification recorded (owner-reported evidence; see the editorial category)."
+        },
+        "9": {
+          "result": "pass",
+          "note": "Taxonomy now has the 2027 record and the 2028-2030 series (D-498); the page states the 2027 position."
+        },
+        "10": {
+          "result": "pass",
+          "note": "Scope, exam-year note, related links and next steps present."
+        }
+      },
+      "findings": [
+        {
+          "id": "F1",
+          "check": 3,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Answers, 4(b)",
+          "description": "The 10-mark evaluate answer describes only the top level, so a student cannot place a weaker answer.",
+          "evidence": "Page: \"An answer at the top of the range (9-10 marks) ... This page does not reproduce Cambridge's level descriptors\". No official 9990 Paper 3 mark scheme was available for this programme.",
+          "status": "open"
+        },
+        {
+          "id": "F2",
+          "check": 3,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Section B (\"Paper 4 style\")",
+          "description": "Section B has four questions worth 22 marks and repeats two Section A topics; Paper 4 Section A has two structured questions worth 18 marks per option.",
+          "evidence": "Syllabus p.10, p.51. Page Q5-Q8: 9+4+6+3 = 22.",
+          "status": "wont-fix",
+          "resolution": "Accepted with documented justification, 17 Nov 2026: the section is kept as extra practice, and the page now states the real format and both differences at the head of Section B. Rebuilding it as an 18-mark, two-question section is a content decision for the subject teacher."
+        },
+        {
+          "id": "F3",
+          "check": 2,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Answers, 1(b)",
+          "description": "The Freeman et al. (2003) procedure answer has not been checked against the published paper.",
+          "evidence": "The author-hosted copy of the paper refused automated download (HTTP 403) on 17 Nov 2026 and was not worked around. The unverifiable phrase \"Before or after the VR experience\" was removed; sample size and setting agree with a UCL news release.",
+          "status": "open"
+        },
+        {
+          "id": "F4",
+          "check": 2,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Answers, 7(a)",
+          "description": "\"A patient cannot take both drugs in sequence\" overstated the case: crossover trials with a washout period exist.",
+          "evidence": "QA-0003 F4.",
+          "status": "fixed",
+          "resolution": "Corrected and verified: the justification now rests on carry-over effects and on changing an ill patient's medication for the study."
+        },
+        {
+          "id": "F5",
+          "check": 9,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Opening paragraph; Official syllabus section",
+          "description": "The page said nothing to students sitting in 2027 or later.",
+          "evidence": "QA-0003 F5. 2027 syllabus cover: \"Use this syllabus for exams in 2027.\" Option 1 and Paper 3/4 text identical to 2024-2026 after removing headers and page numbers. 2028-2030 syllabus: Paper 3/4 details identical; Option 1 wording changes only in the issues-and-debates lists and one heading.",
+          "status": "fixed",
+          "resolution": "Corrected and verified: a note for 2027 candidates with a link to the 2027 syllabus, and a pointer to the 2028-2030 syllabus."
+        },
+        {
+          "id": "F6",
+          "check": 4,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Opening paragraph",
+          "description": "\"Covers all five topics\" could be read as full coverage of the option.",
+          "evidence": "QA-0003 F6.",
+          "status": "fixed",
+          "resolution": "Corrected and verified: \"at least one question on each of the five topics ... a sample of the option, not full coverage\", with examples of untested items."
+        },
+        {
+          "id": "F7",
+          "check": 8,
+          "severity": "advisory",
+          "hardStop": null,
+          "location": "Frontmatter reviewer; teacher-verifications.json",
+          "description": "An accountable teacher is now credited, but no documented check against the syllabus exists. This AI-assisted assessment is not that check.",
+          "evidence": "reviewer kanwal-aslam, reviewNote \"2026-11-16: credited to kanwal-aslam (accountable teacher, D-379).\"; teacher-verifications.json results: [].",
+          "status": "fixed",
+          "resolution": "Documented teacher verification recorded on 18 Nov 2026 (D-499): kanwal-aslam, whole page, approved-after-corrections, on the owner's report. The teacher's own note was not seen. The check is therefore documented but second-hand."
+        },
+        {
+          "id": "F8",
+          "check": 9,
+          "severity": "minor",
+          "hardStop": null,
+          "location": "Frontmatter syllabusSeries; src/data/academic/syllabus-topics.ts",
+          "description": "The page is filed under the 2024-2026 series, whose last examination series was November 2026, and the taxonomy has no 9990 record for 2027 or 2028-2030. Students now preparing are 2027 candidates.",
+          "evidence": "syllabusSeries: \"2024-2026\"; syllabus-topics.ts has one 9990 record with syllabusSeries 2024-2026. Changing either affects every 9990 page, so it was not changed in this programme.",
+          "status": "fixed",
+          "resolution": "Corrected in the data, 18 Nov 2026 (D-498): the taxonomy has a current 2027 record with the same topics and slugs, the 2024-2026 record is superseded, and 2028-2030 is recorded as a known future series. The page's own series field was deliberately not changed: its content is valid for 2027, the page says so, and editing it would change the hash that the teacher approval is tied to."
+        }
+      ],
+      "limitations": "AI-assisted, not a teacher review, and not an approval. Official documents read as extracted text from the PDFs in the owner's \"resource check\" folder (SHA-256 in source-manifest.json). Key-study details beyond their syllabus titles checked from subject knowledge, not the primary papers. No official mark scheme or past-paper archive consulted. The 2028-2030 comparison covered Specialist Option 1 and the Paper 3/4 details only. This record is not a human check of the page. Reassessment of QA-0008 after a data change, not a re-read of the page: the page text is byte-identical to QA-0008 (same SHA-256), so categories other than syllabus alignment and editorial completeness are carried over. F1 (no lower levels for 4(b)) and F3 (Freeman et al. procedure) remain open; if the teacher who verified the page can supply the level descriptors and the check against the paper, they should be added in a new record.",
+      "reassessmentOf": "QA-0008",
+      "assessedFileCommit": "6630a9670"
     }
   ]
 }

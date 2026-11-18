@@ -113,7 +113,7 @@ for (const { slug, original } of PILOT) {
   ok('C', 'the synthetic record is gone and the gate passes again', restored.code === 0 && !register().some((a) => a.id === 'QA-9999'), '');
 }
 
-// ---- D: no approval without evidence (on a pilot page that has no teacher verification)
+// ---- D: no approval without evidence (synthetic records added to, and removed from, the real file)
 {
   const slug = PILOT[3].slug;
   const verificationBytes = readFileSync(TEACHER_VERIFICATIONS_FILE);
@@ -133,12 +133,12 @@ for (const { slug, original } of PILOT) {
   ok('D', 'an approval with no hash never yields VERIFIED_APPROVED', stateNoHash.state === 'REVERIFICATION_REQUIRED', stateNoHash.state);
   const stale = stateOf(slug, { verifications: [{ ...base, evidence: 'x', contentSha256: contentSha256('something else') }] });
   ok('D', 'an approval of different content never yields VERIFIED_APPROVED', stale.state === 'REVERIFICATION_REQUIRED', stale.state);
-  const noApproval = stateOf(slug);
-  ok('D', 'a score of 90 or more with no approval is ACADEMIC_REVIEW_PENDING, not approved', noApproval.state === 'ACADEMIC_REVIEW_PENDING', `${noApproval.state}: ${noApproval.reasons.join('; ')}`);
+  const noApproval = stateOf(slug, { verifications: [] });
+  ok('D', 'a score of 90 or more with no teacher verification is ACADEMIC_REVIEW_PENDING, not approved', noApproval.state === 'ACADEMIC_REVIEW_PENDING', `${noApproval.state}: ${noApproval.reasons.join('; ')}`);
   let asHuman;
   withFile(ASSESSMENTS_FILE, (t) => { const reg = JSON.parse(t); const a = latest(reg.results.filter((r) => r.resource === slug)); a.method = 'human'; a.assessor = 'nouman-ahmed'; return `${JSON.stringify(reg, null, 2)}\n`; }, () => { asHuman = gate(); });
   ok('D', 'an AI-assisted record relabelled as human is rejected', asHuman.code !== 0 && asHuman.out.includes('humanEvidence'), '');
-  ok('D', 'teacher-verifications.json is byte-identical afterwards (no record created by the test)', readFileSync(TEACHER_VERIFICATIONS_FILE).equals(verificationBytes), `${verified().length} record(s), unchanged`);
+  ok('D', 'teacher-verifications.json is byte-identical afterwards (no record left behind by the test)', readFileSync(TEACHER_VERIFICATIONS_FILE).equals(verificationBytes), `${verified().length} record(s), unchanged`);
 }
 
 // ---- V: a documented teacher verification holds only for the content it names

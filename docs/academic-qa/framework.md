@@ -176,8 +176,9 @@ The four pages were corrected and reassessed. The records above are kept as hist
 |---|---|---:|---|---|
 | QA-0006 | QA-0001 | 95.5 | VERIFIED_APPROVED (18 Nov 2026, D-497) | One image label |
 | QA-0007 | QA-0002 | 91.5 | VERIFIED_APPROVED (18 Nov 2026, D-497) | One image rounds an intermediate value |
-| QA-0008 | QA-0003 | 88.0 | REVISION_REQUIRED | Level descriptors for the 10-mark answer; one study procedure unchecked; the 9990 series ends at 2026 |
-| QA-0009 | QA-0005 | 92.0 | ACADEMIC_REVIEW_PENDING | Teacher verification |
+| QA-0008 | QA-0003 | 88.0 | replaced by QA-0010 | |
+| QA-0010 | QA-0008 | 89.0 | REVISION_REQUIRED (teacher verification recorded 18 Nov 2026, D-499; score below 90) | Level descriptors for the 10-mark answer; one study procedure unchecked |
+| QA-0009 | QA-0005 | 92.0 | VERIFIED_APPROVED (18 Nov 2026, D-499; owner-reported) | |
 
 Details: `docs/reports/academic-qa/pilot-closure-report.md`. Assessment dates use the UTC date, the one the validator compares against.
 
@@ -205,4 +206,4 @@ Assessments made under an older version stay valid as history but are not curren
 
 ## 14. What this framework does not claim
 
-It does not claim 100% academic accuracy, any search-ranking or AI-citation effect, or that the library has been teacher-verified (0 documented teacher verifications existed on 15 Nov 2026; 2 of 10,241 pages have one on 18 Nov 2026, D-497). It does not claim that the automated checks prove accuracy. Technical implementation can be complete while the academic review backlog remains open; the two are reported separately.
+It does not claim 100% academic accuracy, any search-ranking or AI-citation effect, or that the library has been teacher-verified (0 documented teacher verifications existed on 15 Nov 2026; 4 of 10,241 pages have one on 18 Nov 2026, D-497 and D-499). It does not claim that the automated checks prove accuracy. Technical implementation can be complete while the academic review backlog remains open; the two are reported separately.

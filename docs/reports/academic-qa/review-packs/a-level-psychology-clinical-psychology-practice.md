@@ -37,13 +37,12 @@ Eligibility is not assignment: nobody has accepted this page until a record exis
 
 - QA-0003 (2026-11-15, ai-assisted, AI-assisted (claude-opus-5-5)) — **stale: the page has changed since**
 - QA-0008 (2026-11-17, ai-assisted, AI-assisted (claude-fable-5-2))
+- QA-0010 (2026-11-18, ai-assisted, AI-assisted (claude-fable-5-2))
 
-Open findings in QA-0008 (an AI-assisted finding is a lead to check, not a conclusion):
+Open findings in QA-0010 (an AI-assisted finding is a lead to check, not a conclusion):
 
 - **F1** check 3, minor — Answers, 4(b): The 10-mark evaluate answer describes only the top level, so a student cannot place a weaker answer. _Evidence:_ Page: "An answer at the top of the range (9-10 marks) ... This page does not reproduce Cambridge's level descriptors". No official 9990 Paper 3 mark scheme was available for this programme.
 - **F3** check 2, advisory — Answers, 1(b): The Freeman et al. (2003) procedure answer has not been checked against the published paper. _Evidence:_ The author-hosted copy of the paper refused automated download (HTTP 403) on 17 Nov 2026 and was not worked around. The unverifiable phrase "Before or after the VR experience" was removed; sample size and setting agree with a UCL news release.
-- **F7** check 8, advisory — Frontmatter reviewer; teacher-verifications.json: An accountable teacher is now credited, but no documented check against the syllabus exists. This AI-assisted assessment is not that check. _Evidence:_ reviewer kanwal-aslam, reviewNote "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."; teacher-verifications.json results: [].
-- **F8** check 9, minor — Frontmatter syllabusSeries; src/data/academic/syllabus-topics.ts: The page is filed under the 2024-2026 series, whose last examination series was November 2026, and the taxonomy has no 9990 record for 2027 or 2028-2030. Students now preparing are 2027 candidates. _Evidence:_ syllabusSeries: "2024-2026"; syllabus-topics.ts has one 9990 record with syllabusSeries 2024-2026. Changing either affects every 9990 page, so it was not changed in this programme.
 
 ## Checklist — the ten checks
 
