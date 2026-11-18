@@ -16387,6 +16387,7 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **Not changed.** The 101 Psychology resources keep `syllabusSeries: "2024-2026"`. Their content is valid for 2027, they resolve to the superseded record as the 0452 and 5014 pages do, and editing them would change their content hashes and make any teacher approval of them stale. The clinical practice set already tells 2027 candidates this (D-496).
 - **What students see.** The Psychology course hub, checklist, flashcards and syllabus-points labels now show 2027.
 - **Left for a teacher before the 2028 series.** Re-reading the specialist-option pages against the 2028-2030 syllabus (list in the review note). Nothing public depends on it yet.
+- **Correction, same day.** After the change went live, the 9990 assessment note on the course hub still said "This is the 2024-2026 syllabus edition ... final examination year is 2026" ahead of the appended sentence about 2027. I had appended to the note instead of rewriting it, so the hub contradicted itself. The note now says it is the syllabus for examination in 2027, that 2024-2026 has the same papers and marks (final year 2026), and that a separate syllabus applies to 2028-2030.
 
 ## D-499 - Teacher verifications for the Atomic Structure and Psychology practice sets (18 Nov 2026)
 
