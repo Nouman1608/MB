@@ -274,3 +274,11 @@ Finding F1 (the 10-mark evaluate answer gave only the top level) is fixed: answe
 This edit came after the D-499 teacher verification, which is tied to the previous page hash, so the verification no longer covers the live text. The scorecard now puts the page in REVERIFICATION_REQUIRED (it was REVISION_REQUIRED). QA-0011 scores it 89.5 (worked answers up from 16.5 to 17.5, editorial completeness down from 4.5 to 4 because the verification is now stale). QA-0011 (AI-assisted, append-only, reassessing QA-0010) records F1 as fixed and opens two findings: F9 (the level guide has not been compared with an official 9990 mark scheme) and F10 (the new text has not been teacher-checked). A teacher check of answer 4(b) would renew the verification.
 
 Sections A, B, I, M and N above describe earlier positions.
+
+## P. Addendum, 18 November 2026: the Psychology practice set re-verified (D-502)
+
+The project owner reported that the teacher re-checked the page after the D-500 edit and approved it ("the teacher have rechecked everything again. mark all as reviewed"). A second record for kanwal-aslam is in `docs/reports/academic-review/teacher-verifications.json`, tied to the current page hash (eb9f2a2e...). The earlier record stays as history. The teacher's own note was not seen, so the check is documented but second-hand, as before.
+
+QA-0012 is a data-change reassessment of QA-0011, with the page text unchanged. F10 (teacher check of the new version) is fixed, so editorial completeness goes from 4 to 5 and the total from 89.5 to 90.5. The scorecard now shows the page as VERIFIED_APPROVED. F9 (the level guide has not been compared with an official 9990 Paper 3 mark scheme) and the advisory F3 (Freeman et al. procedure not checked against the paper) stay open: a teacher's approval does not stand in for those two source checks.
+
+Sections A, B, I, M, N and O above describe earlier positions.

@@ -135,8 +135,8 @@ Some textbooks subtract the marketing spend from the profit first, which gives a
 Limit: not all extra sales may come from the campaign.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--06-return-on-marketing-spend.webp" width="900" height="910" alt="Bars show extra revenue 90,000, extra gross profit 36,000 and spend 18,000; the gain of 18,000 divided by the spend gives a 100 percent return." loading="lazy">
-  <figcaption>Return on marketing spend uses extra profit, not revenue. The 9725 formula gives 36,000 / 18,000 x 100 = 200%; the figure shows the textbook version that subtracts the spend first, (36,000 - 18,000) / 18,000 = 100%.</figcaption>
+  <img src="/images/learning/business/oxfordaqa-9725-return-on-marketing-spend.svg" width="900" height="910" alt="Bars show extra revenue 90,000, extra gross profit 36,000 and spend 18,000. The 9725 formula divides the profit from marketing by the spend: 36,000 divided by 18,000 times 100 gives a 200 percent return; subtracting the spend first, as some textbooks do, gives 100 percent." loading="lazy">
+  <figcaption>Return on marketing spend uses extra profit, not revenue. The 9725 formula gives 36,000 / 18,000 x 100 = 200%; some textbooks subtract the spend first, (36,000 - 18,000) / 18,000 x 100 = 100%.</figcaption>
 </figure>
 
 <figure class="topic-figure">

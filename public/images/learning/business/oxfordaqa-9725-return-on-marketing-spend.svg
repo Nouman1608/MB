@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="910" viewBox="0 0 900 910" role="img" aria-labelledby="title desc" font-family="Arial, Helvetica, sans-serif"><title id="title">Return on marketing spend</title><desc id="desc">Bars show extra sales revenue 90,000, extra gross profit 36,000 and marketing spend 18,000. The OxfordAQA 9725 formula divides the profit from marketing by the spend: 36,000 divided by 18,000 times 100 gives a 200 percent return. Some textbooks subtract the spend first, which gives 100 percent. The revenue ratio of 5 to 1 looks better, so use profit.</desc>
+<rect width="900" height="910" fill="#f4f6f6"/>
+<text x="450" y="60" font-size="34" font-weight="700" fill="#1c2d4b" text-anchor="middle">Return on marketing spend</text>
+<text x="450" y="98" font-size="21" fill="#4a5a72" text-anchor="middle">Peppermill café group (dollars)</text>
+<rect x="340" y="113" width="220" height="44" rx="22" fill="#f2e7b8" stroke="#1c2d4b" stroke-width="2.5"/>
+<text x="450" y="143" font-size="20" font-weight="700" fill="#8a6d0b" text-anchor="middle">OxfordAQA 9725 only</text>
+<text x="60" y="190" font-size="22" font-weight="700" fill="#1c2d4b">Extra sales revenue</text>
+<rect x="60" y="202" width="640" height="78" fill="#b5d4cf" stroke="#1c2d4b" stroke-width="3"/>
+<text x="715" y="253" font-size="27" font-weight="700" fill="#1c2d4b">90,000</text>
+<text x="60" y="340" font-size="22" font-weight="700" fill="#1c2d4b">Extra gross profit (40%)</text>
+<rect x="60" y="352" width="256" height="78" fill="#2f6e66" stroke="#1c2d4b" stroke-width="3"/>
+<text x="330" y="403" font-size="27" font-weight="700" fill="#1c2d4b">36,000</text>
+<text x="60" y="490" font-size="22" font-weight="700" fill="#1c2d4b">Marketing spend</text>
+<rect x="60" y="502" width="128" height="78" fill="#b5652f" stroke="#1c2d4b" stroke-width="3"/>
+<text x="202" y="553" font-size="27" font-weight="700" fill="#1c2d4b">18,000</text>
+<rect x="60" y="625" width="780" height="170" rx="14" fill="#f2e7b8" stroke="#1c2d4b" stroke-width="3"/>
+<text x="450" y="672" font-size="20" fill="#1c2d4b" text-anchor="middle">Profit from marketing ÷ marketing spend × 100</text>
+<text x="450" y="715" font-size="28" font-weight="700" fill="#1c2d4b" text-anchor="middle">36,000 ÷ 18,000 × 100</text>
+<text x="450" y="770" font-size="38" font-weight="700" fill="#2f6e66" text-anchor="middle">= 200% return</text>
+<text x="450" y="835" font-size="19" fill="#4a5a72" text-anchor="middle">Some textbooks subtract the spend first: (36,000 − 18,000) ÷ 18,000 × 100 = 100%</text>
+<text x="450" y="882" font-size="22" font-weight="700" fill="#b5652f" text-anchor="middle">Revenue ratio 5 to 1 looks better: use profit</text>
+</svg>
