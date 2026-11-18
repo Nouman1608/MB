@@ -78,7 +78,9 @@ These questions cover the OCR A Level Business (H431) content "Different stakeho
 *Note:* (b) is strategic because it changes the direction of the whole business and commits large resources for years; (c) belongs to one department over months.
 
 **3. (a)** £3.2m × 1.25 = **£4.0 million** [1].
+
 **(b)** 82% × 1.25 [1] = **102.5%** [1].
+
 **(c)** Achievable (or realistic) [1]: the business cannot produce more than 100% of capacity without investment. **[4]**
 
 **4.** The bank can measure the business's progress against clear figures and dates [1], so it can judge whether the business is likely to generate the cash to repay the loan, and act early if targets are missed [1]. **[2]**
