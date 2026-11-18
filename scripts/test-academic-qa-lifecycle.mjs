@@ -15,6 +15,8 @@
  *   C  an open critical hard-stop on current content fails the gate
  *   D  an approval without evidence is rejected, and never yields
  *      VERIFIED_APPROVED
+ *   V  a documented teacher verification holds only for the content it
+ *      names: an edit makes it stale; without a rubric score it approves nothing
  *   E  the pilot's original records are unchanged since origin/main
  *   F  a wrong board or syllabus code on a pilot page fails validate:academic
  *   G  (with --dist) canonical URL, indexability and breadcrumb of the four
@@ -43,7 +45,8 @@ const run = (args) => { const r = spawnSync(process.execPath, args, { encoding: 
 const gate = () => run(['--experimental-strip-types', 'scripts/validate-academic-qa.mjs']);
 const register = () => loadJson(ASSESSMENTS_FILE, { results: [] }).results;
 const ledger = new Map(readCsv(LEDGER_CSV).map((r) => [r.slug, r]));
-const stateOf = (slug, { assessments = register(), verifications = [] } = {}) => deriveQaState({
+const verified = () => loadJson(TEACHER_VERIFICATIONS_FILE, { results: [] }).results;
+const stateOf = (slug, { assessments = register(), verifications = verified() } = {}) => deriveQaState({
   ledger: ledger.get(slug) ?? null,
   currentSha256: fileSha256(file(slug)),
   assessments: assessments.filter((a) => a.resource === slug),
@@ -110,11 +113,12 @@ for (const { slug, original } of PILOT) {
   ok('C', 'the synthetic record is gone and the gate passes again', restored.code === 0 && !register().some((a) => a.id === 'QA-9999'), '');
 }
 
-// ---- D: no approval without evidence
+// ---- D: no approval without evidence (on a pilot page that has no teacher verification)
 {
-  const slug = PILOT[0].slug;
+  const slug = PILOT[3].slug;
+  const verificationBytes = readFileSync(TEACHER_VERIFICATIONS_FILE);
   const sha = fileSha256(file(slug));
-  const base = { resource: slug, reviewer: 'nouman-ahmed', board: 'cambridge', syllabusCode: '0620', syllabusSeries: '2026-2028', date: '2026-11-17', scope: 'whole page', sources: ['https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf'], findings: 'no errors', corrections: [], approval: 'approved' };
+  const base = { resource: slug, reviewer: 'farhat-ul-ain-sehgal', board: 'cambridge', syllabusCode: '0620', syllabusSeries: '2026-2028', date: '2026-11-17', scope: 'whole page', sources: ['https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf'], findings: 'no errors', corrections: [], approval: 'approved' };
   const integrity = () => run(['scripts/validate-review-integrity.mjs']);
   const clean = integrity();
   const withVerification = (v) => { let r; withFile(TEACHER_VERIFICATIONS_FILE, (t) => { const j = JSON.parse(t); j.results.push(v); return `${JSON.stringify(j, null, 2)}\n`; }, () => { r = integrity(); }); return r; };
@@ -122,9 +126,9 @@ for (const { slug, original } of PILOT) {
   const placeholder = withVerification({ ...base, evidence: 'TODO', contentSha256: sha });
   const noHash = withVerification({ ...base, evidence: 'signed form 2026-11-17' });
   ok('D', 'the committed verification file passes review integrity', clean.code === 0, '');
-  ok('D', 'an approval with no evidence is rejected', noEvidence.code !== 0 && /\[13\]/.test(noEvidence.out), (noEvidence.out.match(/\[13\][^\n]*/) || [''])[0].slice(0, 160));
-  ok('D', 'an approval with placeholder evidence is rejected', placeholder.code !== 0 && /\[13\]/.test(placeholder.out), (placeholder.out.match(/\[13\][^\n]*/) || [''])[0].slice(0, 160));
-  ok('D', 'an approval with no content hash is rejected', noHash.code !== 0 && /\[13\]/.test(noHash.out), (noHash.out.match(/\[13\][^\n]*/) || [''])[0].slice(0, 160));
+  ok('D', 'an approval with no evidence is rejected', noEvidence.code !== 0 && /\[13\]/.test(noEvidence.out), (noEvidence.out.match(/\[13\][^\n]*evidence[^\n]*/) || [''])[0].slice(0, 160));
+  ok('D', 'an approval with placeholder evidence is rejected', placeholder.code !== 0 && /\[13\]/.test(placeholder.out), (placeholder.out.match(/\[13\][^\n]*evidence[^\n]*/) || [''])[0].slice(0, 160));
+  ok('D', 'an approval with no content hash is rejected', noHash.code !== 0 && /\[13\]/.test(noHash.out), (noHash.out.match(/\[13\][^\n]*contentSha256[^\n]*/) || [''])[0].slice(0, 160));
   const stateNoHash = stateOf(slug, { verifications: [{ ...base, evidence: 'x' }] });
   ok('D', 'an approval with no hash never yields VERIFIED_APPROVED', stateNoHash.state === 'REVERIFICATION_REQUIRED', stateNoHash.state);
   const stale = stateOf(slug, { verifications: [{ ...base, evidence: 'x', contentSha256: contentSha256('something else') }] });
@@ -134,7 +138,20 @@ for (const { slug, original } of PILOT) {
   let asHuman;
   withFile(ASSESSMENTS_FILE, (t) => { const reg = JSON.parse(t); const a = latest(reg.results.filter((r) => r.resource === slug)); a.method = 'human'; a.assessor = 'nouman-ahmed'; return `${JSON.stringify(reg, null, 2)}\n`; }, () => { asHuman = gate(); });
   ok('D', 'an AI-assisted record relabelled as human is rejected', asHuman.code !== 0 && asHuman.out.includes('humanEvidence'), '');
-  ok('D', 'teacher-verifications.json is unchanged (no record created)', loadJson(TEACHER_VERIFICATIONS_FILE, { results: [] }).results.length === 0, 'results: []');
+  ok('D', 'teacher-verifications.json is byte-identical afterwards (no record created by the test)', readFileSync(TEACHER_VERIFICATIONS_FILE).equals(verificationBytes), `${verified().length} record(s), unchanged`);
+}
+
+// ---- V: a documented teacher verification holds only for the content it names
+for (const v of verified()) {
+  const slug = v.resource;
+  const before = stateOf(slug);
+  ok('V', `${slug}: verification matches the page as it is now`, v.contentSha256 === fileSha256(file(slug)), `${v.reviewer}, ${v.date}, ${v.approval}`);
+  let during;
+  withFile(file(slug), (t) => t.replace(/\n## /, '\n(lifecycle test edit)\n\n## '), () => { during = stateOf(slug); });
+  ok('V', `${slug}: editing the page makes the approval stale`, during.state === 'REVERIFICATION_REQUIRED' && during.reasons.some((r) => r.includes('teacher verification')), `${before.state} -> ${during.state}: ${during.reasons.join('; ')}`);
+  ok('V', `${slug}: restoring the page restores the state`, stateOf(slug).state === before.state, stateOf(slug).state);
+  const withoutScore = stateOf(slug, { assessments: [] });
+  ok('V', `${slug}: the approval alone, with no rubric score, is not VERIFIED_APPROVED`, withoutScore.state !== 'VERIFIED_APPROVED', withoutScore.state);
 }
 
 // ---- E: history preserved
@@ -146,7 +163,7 @@ for (const { slug, original } of PILOT) {
     const now = new Map(register().map((a) => [a.id, a]));
     const changed = then.filter((a) => JSON.stringify(a) !== JSON.stringify(now.get(a.id))).map((a) => a.id);
     ok('E', `all ${then.length} records on origin/main are still present and identical`, changed.length === 0, changed.length ? `changed or missing: ${changed.join(', ')}` : `${then.map((a) => a.id).join(', ')}`);
-    ok('E', 'new records were added after them, not in place of them', register().length > then.length && register().slice(0, then.length).every((a, i) => a.id === then[i].id), `${then.length} -> ${register().length} records`);
+    ok('E', 'records are only ever added after them, never in place of them', register().length >= then.length && register().slice(0, then.length).every((a, i) => a.id === then[i].id), `${then.length} -> ${register().length} records`);
   }
 }
 
