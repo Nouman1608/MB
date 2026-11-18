@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "fields-and-their-consequences"
     subtopic: "magnetic-fields-aqa-alevel"
-description: "Condensed AQA A-Level Physics 7408 magnetic fields notes: F = BIl, F = BQv, flux linkage, induction laws, rms values, oscilloscopes, transformers and a self-test."
+description: "Condensed AQA A-Level Physics 7408 magnetic fields notes: F = BIl, F = BQv, flux linkage, induction, rms values, oscilloscopes, transformers and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -49,7 +49,7 @@ Condensed notes for sub-section 3.7.5 Magnetic fields of the AQA AS and A-level 
 - Electrons: point the second finger **opposite** to their motion.
 - BQv is perpendicular to v → no work → constant speed → circular path.
 - Faster particle → larger radius, **same period**.
-- **Cyclotron**: two D-shaped electrodes in a uniform B; fixed-frequency alternating p.d. accelerates particles at each gap crossing; they spiral outwards.
+- **Cyclotron**: two hollow semicircular electrodes in a uniform B; fixed-frequency alternating p.d. accelerates particles at each gap crossing; they spiral outwards.
 
 ## 3.7.5.3 Flux and flux linkage: recall
 

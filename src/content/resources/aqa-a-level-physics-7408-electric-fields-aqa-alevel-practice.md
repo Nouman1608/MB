@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "fields-and-their-consequences"
     subtopic: "electric-fields-aqa-alevel"
-description: "Original AQA A-Level Physics 7408 electric fields practice: Coulomb's law, uniform fields, deflection, radial potential, neutral points and graphs, with answers."
+description: "Original AQA A-Level Physics 7408 electric fields practice: Coulomb's law, uniform fields, deflection, radial potential, neutral points and graphs."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

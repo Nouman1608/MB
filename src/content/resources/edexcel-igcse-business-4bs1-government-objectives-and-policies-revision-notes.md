@@ -65,6 +65,11 @@ Every answer should land on at least one of these: **costs**, **revenue or deman
 - Loan 80,000; rate rises from 5% to 7%: interest rises from 4,000 to 5,600, up 1,600 (a 40% rise).
 - Imported part 50; tariff 10%: 55.
 
+## Tariff winners and losers
+
+- Win: domestic producers that compete with imports; the government (revenue).
+- Lose: businesses importing materials or parts; consumers paying higher prices; exporters if other countries respond with tariffs.
+
 ## Constraints on public spending
 
 1. Tax revenue is limited and falls when the economy weakens.

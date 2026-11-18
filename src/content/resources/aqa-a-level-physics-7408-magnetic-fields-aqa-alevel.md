@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "fields-and-their-consequences"
     subtopic: "magnetic-fields-aqa-alevel"
-description: "AQA A-Level Physics 7408 magnetic fields in depth: F = BIl, charged particles in fields, flux linkage, Faraday and Lenz, ac values, oscilloscopes and transformers."
+description: "AQA A-Level Physics 7408 magnetic fields in depth: F = BIl, charged particles, flux linkage, Faraday and Lenz, ac values, oscilloscopes and transformers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -63,7 +63,7 @@ r = mv/BQ = 9.11 × 10⁻³¹ × 4.0 × 10⁶/(2.0 × 10⁻³ × 1.60 × 10⁻¹
 T = 2πr/v = 2πm/BQ = 1.8 × 10⁻⁸ s
 ```
 
-The period does not depend on speed: a faster particle travels a larger circle in the same time. That is the principle of the **cyclotron**. Two hollow D-shaped electrodes sit in a uniform field; an alternating p.d. between them, at the fixed frequency BQ/2πm, accelerates the particles each time they cross the gap, so they spiral outwards with increasing speed.
+The period does not depend on speed: a faster particle travels a larger circle in the same time. That is the principle of the **cyclotron**. Two hollow semicircular electrodes sit in a uniform field; an alternating p.d. between them, at the fixed frequency BQ/2πm, accelerates the particles each time they cross the gap, so they spiral outwards with increasing speed.
 
 ## Flux and flux linkage
 

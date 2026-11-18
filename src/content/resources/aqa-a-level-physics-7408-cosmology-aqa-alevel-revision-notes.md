@@ -69,6 +69,23 @@ Condensed notes for sub-section 3.9.3 Cosmology of the AQA AS and A-level Physic
 - **Typical light curve**: flat → falls → flat-bottomed dip → rises → flat; repeats every orbit.
 - Deeper dip → larger planet; dip interval → orbital period. Orbit must be nearly edge-on.
 
+## Methods in steps
+
+**Distance to a galaxy from its spectrum**
+1. z = Δλ/λ (use the rest wavelength on the bottom).
+2. v = zc, then convert to km s⁻¹.
+3. d = v/H gives d in Mpc; multiply by 3.08 × 10²² for metres.
+
+**Power of a quasar**
+1. Find d in metres as above.
+2. P = 4πd²I.
+3. Compare with the Sun's 3.9 × 10²⁶ W to show how extreme it is.
+
+**Binary star orbit**
+1. v = cΔλ_max/λ.
+2. Read the period from one full cycle of the shift; convert to seconds.
+3. r = vT/2π.
+
 ## Key terms
 
 | Term | Meaning |

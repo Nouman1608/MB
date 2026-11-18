@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "astrophysics-aqa-alevel"
     subtopic: "classification-of-stars-aqa-alevel"
-description: "Condensed AQA A-Level Physics 7408 classification of stars notes: magnitudes, black bodies, spectral classes, HR diagram, supernovae, black holes and a self-test."
+description: "Condensed AQA A-Level Physics 7408 classification of stars notes: magnitudes, black bodies, spectral classes, the HR diagram, supernovae and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

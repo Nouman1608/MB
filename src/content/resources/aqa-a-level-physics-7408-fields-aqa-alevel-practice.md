@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "fields-and-their-consequences"
     subtopic: "fields-aqa-alevel"
-description: "Original AQA A-Level Physics 7408 Fields practice: force fields, resultant fields, neutral points, equipotentials and gravity versus electrostatics, with answers."
+description: "Original AQA A-Level Physics 7408 Fields practice: force fields, resultant fields, neutral points, equipotentials and gravity versus electrostatics."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

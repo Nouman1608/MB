@@ -105,7 +105,7 @@ animals, so biodiversity falls.
 
 | | Shoot | Root |
 |---|---|---|
-| Response to light from one side | Grows towards light | Not required at GCSE |
+| Response to light from one side | Grows towards light | Not covered in this specification |
 | Response to gravity | Grows upwards (against gravity) | Grows downwards (with gravity) |
 | Auxin's effect | Stimulates growth | Inhibits growth |
 | Benefit | More light for photosynthesis | Water, mineral ions, anchorage |
