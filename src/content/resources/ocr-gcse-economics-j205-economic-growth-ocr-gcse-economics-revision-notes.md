@@ -56,6 +56,14 @@ Recall notes for section 3.1 of OCR GCSE (9-1) Economics (J205, Version 2.0, Jun
 
 Remember: rising population means GDP per capita grows **more slowly** than GDP.
 
+## Worked reminders
+
+**Real growth.** Nominal GDP rises from £720bn to £756bn (5.0%) while the price index rises from 100 to 103. Real GDP = 756 ÷ 103 × 100 = £734.0bn, so real growth = 14.0 ÷ 720 × 100 = **1.9%**. Most of the nominal rise was inflation.
+
+**Per capita.** Real GDP grows from £734bn to £749bn (2.0%) while population grows from 36.7 million to 37.8 million (3.0%). GDP per capita goes from £20,000 to about £19,815, a **fall of about 0.9%**. A bigger economy, but less output per person.
+
+**Compounding.** Growth of 2% a year for five years: 1.02⁵ = 1.104, so output is **10.4%** higher, not 10%.
+
 ## Reading GDP data: five moves
 
 1. Quote the highest and lowest growth figures with dates.

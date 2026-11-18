@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "the-role-of-markets-and-money-ocr-gcse-economics"
     subtopic: "the-role-of-money-and-financial-markets-ocr-gcse-economics"
-description: "Study guide to OCR GCSE Economics 2.8: money as a medium of exchange, banks, building societies and insurers, and how interest rates change saving and borrowing."
+description: "Study guide to OCR GCSE Economics 2.8: money as a medium of exchange, banks, building societies, insurers, and how interest rates change saving and borrowing."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

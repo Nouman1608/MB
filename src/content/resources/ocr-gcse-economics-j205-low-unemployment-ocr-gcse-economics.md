@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "economic-objectives-and-the-role-of-government-ocr-gcse-economics"
     subtopic: "low-unemployment-ocr-gcse-economics"
-description: "Study guide to OCR GCSE Economics 3.2: employment, the Claimant Count, the unemployment rate, four types of unemployment and its costs to people, regions and government."
+description: "Study guide to OCR GCSE Economics 3.2: the Claimant Count, the unemployment rate, four types of unemployment and the costs to people, regions and government."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
