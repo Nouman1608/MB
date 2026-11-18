@@ -59,6 +59,17 @@ OABC parallelogram  ⇔  OB = OA + OC
 - **Tetrahedron or pyramid**: the apex often lies above the midpoint or centre of the base; find that point as a position vector first.
 - Edges meeting at right angles give zero scalar products: a quick check on your coordinates.
 
+## One condensed example
+
+Find the point on l: r = (3i + j + 2k) + t(i − j) closest to the origin.
+
+```text
+F = (3 + t, 1 − t, 2);  OF.(1, −1, 0) = 3 + t − 1 + t = 2 + 2t = 0  →  t = −1
+F = (2, 2, 2),  distance from O = √12 = 2√3
+```
+
+The closest point is the foot of the perpendicular from O, so the same scalar-product condition applies with P at the origin.
+
 ## Key terms
 
 | Term | Meaning |

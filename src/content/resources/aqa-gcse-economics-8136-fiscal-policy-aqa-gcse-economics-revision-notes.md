@@ -96,7 +96,7 @@ These notes cover **section 3.2.3.1 Fiscal policy** of the AQA GCSE Economics (8
 
 ## Self-test
 
-1. Define fiscal policy.
+1. State the two tools of fiscal policy.
 2. Give one example each of current and capital government spending.
 3. What is a transfer payment?
 4. Distinguish between a budget deficit and the national debt.
@@ -111,7 +111,7 @@ These notes cover **section 3.2.3.1 Fiscal policy** of the AQA GCSE Economics (8
 
 ### Answers
 
-1. The use of government spending and taxation to influence the economy.
+1. Government spending and taxation.
 2. Current: teachers' salaries or medicines for hospitals. Capital: building a new road or school.
 3. A payment such as a benefit or pension that moves income from taxpayers to recipients without buying output.
 4. The deficit is the gap between spending and revenue in one year; the debt is the total owed from all past borrowing.

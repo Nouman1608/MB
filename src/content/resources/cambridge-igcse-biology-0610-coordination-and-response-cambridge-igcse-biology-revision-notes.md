@@ -93,6 +93,20 @@ Add stimulus at the start and response at the end when applying it.
 
 **Answering "suggest why reflexes are useful".** They protect the body by responding before harm builds up, for example withdrawing a hand before a burn becomes severe.
 
+## Must-know distinctions
+
+- **Neurone vs nerve:** one cell compared with a bundle of many neurones.
+- **Receptor vs effector:** detects the stimulus compared with carries out the response.
+- **Sensory vs motor neurone:** towards the CNS compared with away from the CNS.
+- **Synapse vs neurone (Extended):** an impulse travels electrically along a neurone, but a chemical carries the signal across the synapse.
+
+## Command words
+
+- **Identify** a neurone: name it; if asked how, say where it connects.
+- **Describe** a reflex arc: five parts in order, applied to the named example.
+- **Explain** why an action is a reflex: automatic and rapid, no conscious decision.
+- **Describe** synapse events (Extended): four steps with "release", "diffuse", "bind", "stimulated".
+
 ## Key terms
 
 | Term | Meaning |

@@ -52,7 +52,7 @@ C: Households save more
 
 D: Business investment rises
 
-**3.** Define monetary policy. **[1]**
+**3.** State **one** reason why the UK government leaves decisions on the Bank Rate to the Bank of England. **[1]**
 
 **4.** A household has an interest-only mortgage of £210,000. Its interest rate rises from 2% to 4.5%.
 
@@ -96,7 +96,7 @@ D: Business investment rises
 
 **2.** **C** [1]. Saving becomes more rewarding; borrowing and investment fall and the pound tends to strengthen. **[1]**
 
-**3.** The use of interest rates and the supply of money to influence spending in the economy [1]. **[1]**
+**3.** Decisions are less likely to be influenced by short-term political pressures, such as a wish to cut rates before an election, which makes the inflation target more believable [1]. **[1]**
 
 **4. (a)** At 2%: 0.02 × 210,000 = **£4,200** [1]. At 4.5%: 0.045 × 210,000 = **£9,450** [1].
 

@@ -99,6 +99,8 @@ Each mark = feature + effect. "Hollow" or "dead" alone does not score.
 - The stain investigation in water uptake shows where xylem is: dye appears in the xylem only.
 - The continuous tube allows the column of water pulled up by transpiration.
 - Phloem carries sucrose from leaves, where it is made from glucose in photosynthesis.
+- Phloem also carries amino acids, which the plant makes using nitrate ions absorbed by the roots.
+- In a leaf, xylem brings water as a raw material for photosynthesis, and phloem removes the sucrose made.
 
 ## Exam traps
 

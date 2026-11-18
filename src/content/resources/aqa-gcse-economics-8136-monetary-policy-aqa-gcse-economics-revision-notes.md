@@ -96,9 +96,9 @@ These notes cover **section 3.2.3.2 Monetary policy** of the AQA GCSE Economics 
 
 ## Self-test
 
-1. Define monetary policy.
-2. Who sets the Bank Rate in the UK?
-3. What inflation target has the government set?
+1. What is the Bank Rate?
+2. Why does the government set the inflation target but leave interest-rate decisions to the Bank of England?
+3. Distinguish between a fixed-rate and a variable-rate mortgage.
 4. Give two channels through which a rise in interest rates reduces spending.
 5. Why does a rise in UK interest rates tend to strengthen the pound?
 6. Why might a rate rise take a long time to affect households with fixed-rate mortgages?
@@ -111,9 +111,9 @@ These notes cover **section 3.2.3.2 Monetary policy** of the AQA GCSE Economics 
 
 ### Answers
 
-1. The use of interest rates and the money supply to influence spending and the economy.
-2. The Monetary Policy Committee of the Bank of England.
-3. 2% inflation measured by the CPI.
+1. The Bank of England's main interest rate, which influences the rates banks charge on loans and pay on savings.
+2. So that decisions are less likely to be shaped by short-term political pressures, such as cutting rates before an election.
+3. A fixed rate stays the same for a set period; a variable rate moves with market interest rates.
 4. Any two: borrowing costs more; saving is more rewarding; investment becomes less profitable; house prices and confidence fall; a stronger pound.
 5. Higher returns attract savers from abroad, who buy pounds to deposit in the UK, raising demand for the currency.
 6. Their rate stays the same until the fixed deal ends.
