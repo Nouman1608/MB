@@ -89,7 +89,7 @@ Related: [Transformation geometry study guide](/resources/edexcel-igcse-mathemat
 
 **(b)** **(3, −4)** [1].
 
-**3.** (x, y) → (10 − x, y): **(9, 2), (6, 2), (6, 3)**. All three correct [2]; two correct [1].
+**3.** (x, y) → (10 − x, y): **(9, 2), (6, 2), (6, 3)**. All three correct [2] (1 mark for two correct).
 
 **4.** **(−2, 3)** [1].
 

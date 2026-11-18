@@ -100,6 +100,10 @@ AB = √(50² + 81.39...²) = 95.5 m
 
 The diagram here has three triangles: AFT and BFT are vertical, and AFB is horizontal. Pythagoras's theorem on level ground is the final step.
 
+## Choosing the first triangle
+
+When a diagram contains several triangles, start with the one that has **three known pieces**, including at least one side. Solve it, then look for a triangle that now has three known pieces. In worked example 3, triangle AFT is complete first (a side, a right angle and an angle), which gives the height; that height then completes triangle BFT, and only then can the horizontal triangle AFB be solved. If no triangle has three known pieces, introduce a letter for one length, as in worked example 1, and write two equations.
+
 ## Pythagoras's theorem and its converse
 
 Pythagoras's theorem appears inside almost every application, either for a direct length or to check a right angle. Its converse is useful for interpreting data: if the three distances between towns satisfy a² + b² = c², the angle opposite c is 90°, which tells you two directions are perpendicular.

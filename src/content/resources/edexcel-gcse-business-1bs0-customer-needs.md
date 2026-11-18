@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "spotting-a-business-opportunity-1bs0"
     subtopic: "customer-needs-1bs0"
-description: "Deeper guide to Edexcel GCSE Business 1BS0 item 1.2.1: the four customer needs, trade-offs between them, reading needs data, and why understanding customers matters."
+description: "Deeper guide to Edexcel GCSE Business 1BS0 item 1.2.1: the four customer needs, trade-offs between them, reading needs data, and why customers matter."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

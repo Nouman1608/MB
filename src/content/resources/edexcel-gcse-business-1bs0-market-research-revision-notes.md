@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "spotting-a-business-opportunity-1bs0"
     subtopic: "market-research-1bs0"
-description: "Condensed notes for Edexcel GCSE Business 1BS0 item 1.2.2: research purposes, primary and secondary methods, data types, social media, reliability and a self-test."
+description: "Condensed notes for Edexcel GCSE Business 1BS0 item 1.2.2: purposes, primary and secondary methods, data, social media, reliability and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -81,6 +81,17 @@ These notes condense content item 1.2.2, Market research, from Topic 1.2 Spottin
 - **Scaling up:** percentage who would buy × number of people in the market. Treat the answer as an estimate, not a forecast you can rely on.
 
 Mini example: 90 people rate a menu out of 5. Twenty give 3, fifty give 4 and twenty give 5. Mean = (60 + 200 + 100) ÷ 90 = 360 ÷ 90 = 4.0.
+
+## Choosing a method: quick matches
+
+| What the owner needs to know | Best fit |
+|---|---|
+| How many people live in the area | Government reports |
+| Trends across a whole industry | Market reports, internet |
+| Whether local people would buy the idea | Survey using a questionnaire |
+| Why customers feel as they do | Focus group, open questions |
+| What customers really do in a shop | Observation |
+| A quick reaction to two designs | Social media poll |
 
 ## Exam traps
 

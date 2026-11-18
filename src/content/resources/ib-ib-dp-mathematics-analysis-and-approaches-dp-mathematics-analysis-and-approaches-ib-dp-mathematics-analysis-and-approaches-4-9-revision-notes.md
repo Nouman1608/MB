@@ -137,6 +137,14 @@ as the sketch requires.
 11. 1000 × 0.0478 ≈ 47.8.
 12. Rounding p changes the binomial probabilities; keep the GDC's full value.
 
+## Frequently asked questions
+
+**Does N(50, 16) have standard deviation 16?**
+No. The second parameter is the variance, so σ = 4.
+
+**Can I find an unknown mean or standard deviation in 4.9?**
+No. That uses standardisation (z-values), which is section 4.12.
+
 ## Where to go next
 
 Practise with the [4.9 practice questions](/resources/ib-ib-dp-mathematics-analysis-and-approaches-dp-mathematics-analysis-and-approaches-ib-dp-mathematics-analysis-and-approaches-4-9-practice/),

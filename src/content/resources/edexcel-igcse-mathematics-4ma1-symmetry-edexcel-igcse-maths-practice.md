@@ -121,7 +121,7 @@ Give an example to show that Sam is wrong, and explain your answer. **[2]**
 
 **(c)** Midpoint of a diagonal, e.g. PR: ((0 + 5)/2, (0 + 3)/2) [1] = **(2.5, 1.5)** [1]. (QS gives ((4 + 1)/2, (0 + 3)/2), the same point.)
 
-**8. (a)** Images in x = 5 use (x, y) → (10 − x, y): (2, 0) → **(8, 0)**, (2, 2) → **(8, 2)**, (3, 4) → **(7, 4)**. All three correct [2]; two correct [1].
+**8. (a)** Images in x = 5 use (x, y) → (10 − x, y): (2, 0) → **(8, 0)**, (2, 2) → **(8, 2)**, (3, 4) → **(7, 4)**. All three correct [2] (1 mark for two correct).
 
 **(b)** Order **1** [1]. A half turn about the centre (5, 2) would send (2, 0) to (8, 4), which is not a vertex, so the shape does not fit onto itself before a full turn [1].
 

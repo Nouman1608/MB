@@ -131,6 +131,14 @@ y ≈ −1.48x + 19.4 from a GDC.
 11. Outliers and curves can make r misleading; the diagram shows whether a linear model is sensible.
 12. −0.416 × 3.5 + 9.03 ≈ 7.57.
 
+## Frequently asked questions
+
+**Do I need to calculate r by hand?**
+No. The guide expects r and the regression line from technology; your job is to interpret them in context.
+
+**Can I rearrange y = ax + b to predict x?**
+No. Predicting x from y needs the regression line of x on y (section 4.10).
+
 ## Where to go next
 
 Practise with the [4.4 practice questions](/resources/ib-ib-dp-mathematics-analysis-and-approaches-dp-mathematics-analysis-and-approaches-ib-dp-mathematics-analysis-and-approaches-4-4-practice/)

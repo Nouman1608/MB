@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "spotting-a-business-opportunity-1bs0"
     subtopic: "market-segmentation-1bs0"
-description: "Deeper guide to Edexcel GCSE Business 1BS0 item 1.2.3: segmenting by location, demographics, lifestyle, income and age, valuing segments, and reading market maps."
+description: "Deeper guide to Edexcel GCSE Business 1BS0 item 1.2.3: the five segmentation bases, valuing segments, and building and reading market maps."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

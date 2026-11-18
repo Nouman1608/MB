@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "spotting-a-business-opportunity-1bs0"
     subtopic: "market-research-1bs0"
-description: "Original practice questions with mark-scheme answers on market research purposes, methods, data, social media and reliability for Edexcel GCSE Business 1BS0 item 1.2.2."
+description: "Original practice questions with mark-scheme answers on market research methods, data and reliability for Edexcel GCSE Business 1BS0 item 1.2.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

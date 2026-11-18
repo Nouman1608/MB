@@ -64,6 +64,7 @@ Quotient:  y = u/v       dy/dx = (v u′ − u v′)/v²
 - **Factorise the answer.** Common factors such as eˣ, x² or a bracket make dy/dx = 0 easy to solve.
 - **Exponentials are never zero.** In f′(x) = eˣ(x − 3), only x − 3 = 0 gives a stationary point.
 - **Radians.** sin and cos derivatives require radians.
+- **Domain of ln.** ln x and its derivative 1/x apply for x > 0; ln(f(x)) needs f(x) > 0.
 
 ## Key terms
 
@@ -112,7 +113,8 @@ dy/dx = [(2x − 1)(2x) − (x² + 1)(2)]/(2x − 1)²
       = 2(x² − x − 1)/(2x − 1)²
 ```
 
-Expand the numerator carefully: the minus sign applies to every term of (x² + 1)(2).
+Expand the numerator carefully: the minus sign applies to every term of (x² + 1)(2). Leave the
+denominator as (2x − 1)²; expanding it gains nothing and makes the answer harder to check.
 
 ## Exam traps
 

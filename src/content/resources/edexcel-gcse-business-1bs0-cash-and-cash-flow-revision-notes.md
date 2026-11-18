@@ -88,6 +88,13 @@ Reading it: two negative months shrink the balance to £500 in August, close to 
 - Delay large purchases.
 - Cut or postpone non-essential outflows.
 
+## Reading a forecast: four questions
+
+1. Which months have a negative closing balance, and how large is the worst one?
+2. What causes the fall: lower inflows, a one-off outflow, or customers paying late?
+3. Is the problem temporary or does it keep recurring?
+4. Which action fits: short-term finance, faster collection from customers, delaying a purchase, or cutting costs?
+
 ## Exam traps
 
 - Using sales made instead of cash received when customers pay later.

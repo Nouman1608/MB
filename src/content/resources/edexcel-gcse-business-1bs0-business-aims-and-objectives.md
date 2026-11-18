@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "putting-a-business-idea-into-practice-1bs0"
     subtopic: "business-aims-and-objectives-1bs0"
-description: "Deeper guide to Edexcel GCSE Business 1BS0 item 1.3.1: turning aims into measurable objectives, checking progress with figures, conflicts, and why objectives differ."
+description: "Deeper guide to Edexcel GCSE Business 1BS0 item 1.3.1: turning aims into measurable objectives, checking progress, conflicts and why objectives differ."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

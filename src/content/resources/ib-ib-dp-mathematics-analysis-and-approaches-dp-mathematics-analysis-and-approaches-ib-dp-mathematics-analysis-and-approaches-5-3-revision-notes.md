@@ -107,6 +107,9 @@ second equation by 4) avoids arithmetic slips.
 4. Substitute each x into the original y, not into dy/dx.
 5. State the points as coordinates.
 
+If dy/dx = m has no real solutions (for example, 3x² + 2 = 1), say so: no point on the curve has that
+gradient. That is a complete answer, not a dead end.
+
 ## Exam traps
 
 - **Trap: dividing the derivative.** The derivative of 5/x³ is not 5/(3x²). Rewrite as 5x⁻³ first.

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "spotting-a-business-opportunity-1bs0"
     subtopic: "the-competitive-environment-1bs0"
-description: "Original practice questions with mark-scheme answers on competitor strengths, market share and responses to competition for Edexcel GCSE Business 1BS0 item 1.2.4."
+description: "Original practice questions with mark-scheme answers on competitor strengths, market share and responses to rivals for Edexcel GCSE Business 1BS0 item 1.2.4."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

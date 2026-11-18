@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-6"
-description: "Fourteen original IB DP Maths AA questions on section 5.6: standard derivatives and the chain, product and quotient rules, singly and combined, with full answers."
+description: "Fourteen original IB DP Maths AA questions on section 5.6: standard derivatives and the chain, product and quotient rules, singly and combined."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

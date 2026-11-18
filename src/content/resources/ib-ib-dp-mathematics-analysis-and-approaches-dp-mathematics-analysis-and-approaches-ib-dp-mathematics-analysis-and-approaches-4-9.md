@@ -159,6 +159,12 @@ P(Y ≥ 2) = 1 − P(Y ≤ 1) = 0.115
 - **"Find the expected number"**: n × probability, unrounded.
 - **"Hence"**: reuse the probability you have just found, often as p in a binomial model.
 
+## Frequently asked questions
+
+**Do I need z-values for section 4.9?**
+No. In 4.9 the mean and standard deviation are known and a GDC does the calculation directly.
+Standardisation is section 4.12.
+
 ## Where to go next
 
 Use the [4.9 revision notes](/resources/ib-ib-dp-mathematics-analysis-and-approaches-dp-mathematics-analysis-and-approaches-ib-dp-mathematics-analysis-and-approaches-4-9-revision-notes/)

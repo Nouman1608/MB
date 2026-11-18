@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "putting-a-business-idea-into-practice-1bs0"
     subtopic: "business-revenues-costs-and-profits-1bs0"
-description: "Deeper guide to Edexcel GCSE Business 1BS0 item 1.3.2: classifying costs, profit, interest, break even, margin of safety, working backwards and combined changes."
+description: "Deeper guide to Edexcel GCSE Business 1BS0 item 1.3.2: classifying costs, profit, interest, break even, margin of safety and combined changes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

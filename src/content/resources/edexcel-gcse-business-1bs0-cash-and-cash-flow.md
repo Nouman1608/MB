@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "putting-a-business-idea-into-practice-1bs0"
     subtopic: "cash-and-cash-flow-1bs0"
-description: "Deeper guide to Edexcel GCSE Business 1BS0 item 1.3.3: why cash matters, cash against profit, credit sales in forecasts, missing values and interpreting forecasts."
+description: "Deeper guide to Edexcel GCSE Business 1BS0 item 1.3.3: why cash matters, cash against profit, credit sales in forecasts and missing values."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -55,6 +55,14 @@ These notes condense **section 3.3** of IB DP Mathematics: Analysis and Approach
 - Co-interior angles between north lines add to 180°; alternate angles are equal.
 - Interior angle at a turning point: compare the back bearing with the new bearing.
 
+**Method: a two-leg bearings problem**
+
+1. Draw north lines at the start and at the turning point.
+2. At the turning point, write the back bearing to the start (bearing ± 180°).
+3. The interior angle is the difference between the back bearing and the new bearing (or 360° minus it).
+4. Use the cosine rule for the direct distance, then the sine rule for the angle at the start.
+5. Add or subtract that angle from the first bearing, checking on the sketch which way it turns.
+
 **Pythagoras's theorem**
 
 - Right-angled triangles: c² = a² + b².

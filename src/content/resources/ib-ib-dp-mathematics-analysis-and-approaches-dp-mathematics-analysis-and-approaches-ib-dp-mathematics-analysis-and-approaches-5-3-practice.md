@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-3"
-description: "Thirteen original IB DP Maths AA questions on section 5.3: differentiating integer powers, rewriting expressions and using gradients to find points and constants."
+description: "Thirteen original IB DP Maths AA questions on section 5.3: differentiating integer powers, rewriting and using gradients to find points and constants."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

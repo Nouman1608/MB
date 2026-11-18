@@ -137,6 +137,15 @@ P(good) = 0.83521. Then the number of good weeks out of 10 is B(10, 0.83521).
 11. 3 × 1/6 = 0.5.
 12. Rounding p changes the final probability, often in the third significant figure.
 
+## Frequently asked questions
+
+**Do I need the binomial formula in the exam?**
+Probabilities are found with technology, but the formula explains them and handles small cases such as
+P(X = 2) for n = 4 by hand.
+
+**What is the standard deviation of B(n, p)?**
+√(np(1 − p)), the square root of the variance.
+
 ## Where to go next
 
 Practise with the [4.8 practice questions](/resources/ib-ib-dp-mathematics-analysis-and-approaches-dp-mathematics-analysis-and-approaches-ib-dp-mathematics-analysis-and-approaches-4-8-practice/),

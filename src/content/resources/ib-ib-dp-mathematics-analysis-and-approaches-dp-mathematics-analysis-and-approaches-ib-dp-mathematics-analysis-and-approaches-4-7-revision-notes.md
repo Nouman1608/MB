@@ -133,6 +133,14 @@ and p + 2q + 0.6 = 1.7, so q = 0.4 and p = 0.3.
 11. P(X = 0) = 1/4, P(X = 1) = 1/2, P(X = 2) = 1/4.
 12. Σ P(X = x) = 1 and Σ x P(X = x) = the given mean.
 
+## Frequently asked questions
+
+**Is the variance of a discrete random variable in 4.7?**
+No. Variance of discrete random variables is HL section 4.14.
+
+**Can E(X) be negative?**
+Yes, when X can take negative values, such as a player's gain in a game that favours the organiser.
+
 ## Where to go next
 
 Practise with the [4.7 practice questions](/resources/ib-ib-dp-mathematics-analysis-and-approaches-dp-mathematics-analysis-and-approaches-ib-dp-mathematics-analysis-and-approaches-4-7-practice/),
