@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "international-trade-and-the-global-economy-ocr-gcse-economics"
     subtopic: "importance-of-international-trade-ocr-gcse-economics"
-description: "Study guide to OCR GCSE Economics 4.1: why countries import and export, gains from specialisation, benefits to consumers and producers, trade agreements and the EU."
+description: "Study guide to OCR GCSE Economics 4.1: why countries trade, gains from specialisation, benefits to consumers and producers, and trade agreements and the EU."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

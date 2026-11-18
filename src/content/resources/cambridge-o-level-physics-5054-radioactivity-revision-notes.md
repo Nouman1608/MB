@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "nuclear-physics"
     subtopic: "radioactivity"
-description: "Quick recall for 5054 subtopic 5.2: detectors, background, alpha, beta and gamma, decay equations, fission, fusion, half-life, uses and safety, with a self-test."
+description: "Quick recall for 5054 subtopic 5.2: detectors, background, alpha, beta and gamma, decay equations, fission, fusion, half-life, uses and safety, and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
