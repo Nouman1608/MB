@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "money-cambridge-igcse-maths"
-description: "Revision notes for 0580 subtopic 1.16 Money: writing amounts, bills, offers, rounding in context and currency conversion both ways, with a 12-question self-test."
+description: "Revision notes for 0580 subtopic 1.16 Money: writing amounts, bills, offers, rounding in context and currency conversion both ways, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -87,6 +87,16 @@ B -> A:  divide by r
 **Fees:** subtract a fee in the currency it is charged in, then convert what is left.
 
 **Sense check:** if 1 unit of A buys more than 1 unit of B, an amount in B must be a **bigger** number than the same amount in A.
+
+## Worked reminder: comparing two offers
+
+A shop sells cans at $0.85 each with "buy 4, get 2 free". Another sells the same cans at $0.80 each with no offer. For 12 cans:
+
+```
+Offer shop: 12 cans = 2 groups of 6, pay for 8: 8 × 0.85 = $6.80
+Other shop: 12 × 0.80 = $9.60
+The offer shop is cheaper by $2.80.
+```
 
 ## Exam traps
 

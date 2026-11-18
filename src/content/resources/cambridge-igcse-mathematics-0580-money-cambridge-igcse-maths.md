@@ -135,6 +135,13 @@ Amount exchanged = 400 - 5 = $395
 
 Take off the fee in the currency in which it is charged, before converting.
 
+## Quick checks on a money answer
+
+- **Size:** is the answer sensible? A bill for a month of electricity is unlikely to be $1.05 or $10 545.
+- **Direction of conversion:** compare the size of the two amounts with the exchange rate, as in the sense check above.
+- **Form:** two decimal places, a currency sign, and rounding in the direction the context needs.
+- **Reverse check:** convert your answer back, or add the parts of a bill again, to see that you reach the starting figure.
+
 ## Common mistakes
 
 - Writing $6.5 or $12.0 instead of $6.50 or $12.00.

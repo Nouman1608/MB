@@ -96,6 +96,18 @@ original   = new amount ÷ multiplier
 - After a 28% profit the selling price is 128% of cost: divide by 1.28.
 - Check by applying the change to your answer.
 
+## Choosing the method from the wording
+
+| The question says | Method |
+|---|---|
+| "find 15% of ..." | × 0.15 |
+| "increase ... by 15%" or "after a 15% rise" | × 1.15 |
+| "what percentage of ... is ..." | part ÷ whole × 100 |
+| "percentage profit / loss / change" | change ÷ original × 100 |
+| "simple interest" | P × r × n, interest the same each year |
+| "compound interest" or "each year on the new amount" | P × multiplierⁿ |
+| (Extended) "before the increase / original price / cost price" | ÷ multiplier |
+
 ## Exam traps
 
 - Percentage change divided by the new value.

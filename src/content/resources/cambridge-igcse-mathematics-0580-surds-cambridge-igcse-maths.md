@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "surds-cambridge-igcse-maths"
-description: "Study guide to Extended 0580 subtopic 1.18 Surds: simplifying, collecting, expanding, comparing sizes, exact answers and rationalising one- and two-term denominators."
+description: "Study guide to Extended 0580 subtopic 1.18 Surds: simplifying, collecting, expanding, comparing, exact answers and rationalising two-term denominators."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

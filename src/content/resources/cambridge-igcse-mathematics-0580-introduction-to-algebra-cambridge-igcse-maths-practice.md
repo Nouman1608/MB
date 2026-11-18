@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"
     subtopic: "introduction-to-algebra-cambridge-igcse-maths"
-description: "Twelve original 0580 questions on subtopic 2.1: writing expressions and formulas, generalised numbers and substitution with negatives and decimals, with mark schemes."
+description: "Twelve original 0580 questions on subtopic 2.1: writing expressions and formulas, generalised numbers and substitution, with mark-scheme answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -126,7 +126,7 @@ Related: [introduction to algebra study guide](/resources/cambridge-igcse-mathem
 
 **5. (a)** **2n + 2** [1]
 
-**(b)** (2n + 1) + (2n + 3) = 4n + 4 [1]; = 4(n + 1), which is 4 times an integer, so it is a multiple of 4 [1] **[2]**
+**(b)** (2n + 1) + (2n + 3) = 4n + 4 [1]; = 4(n + 1), which is 4 times an integer, so it is a multiple of 4 [1] **[3]**
 
 *Examiner insight:* testing one pair, such as 5 + 7 = 12, is not enough. The algebra shows the result for every integer n.
 

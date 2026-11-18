@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "trigonometry-cambridge-igcse-maths"
     subtopic: "right-angled-triangles-cambridge-igcse-maths"
-description: "Thirteen original 0580 trigonometry questions on sides and angles of right-angled triangles, bearings, elevation, depression and shortest distance, with answers."
+description: "Thirteen original 0580 trigonometry questions on right-angled triangles, bearings, elevation, depression and shortest distance, with marked answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

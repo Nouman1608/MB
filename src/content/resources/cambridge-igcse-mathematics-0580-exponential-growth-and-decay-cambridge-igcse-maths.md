@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "exponential-growth-and-decay-cambridge-igcse-maths"
-description: "Study guide to Extended 0580 subtopic 1.17: multipliers from words, doubling and halving periods, finding n by trial, and comparing a growing and a shrinking quantity."
+description: "Study guide to Extended 0580 subtopic 1.17: multipliers from words, doubling and halving periods, finding n by trial, and comparing two changing quantities."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -115,6 +115,10 @@ Answer: after 5 years
 ```
 
 Use the multipliers with the same n for both towns, and compare row by row. A quick estimate helps you choose where to start: the gap is 12 000 and closes by about 2600 a year at first (1440 + 1200), so try n = 4 or 5.
+
+## What the graph looks like
+
+Plotting the value against the number of periods gives a curve, not a straight line. A growth curve starts at the starting value on the vertical axis and gets steeper and steeper, because each period adds a percentage of a bigger amount. A decay curve also starts at the starting value but flattens out: it keeps falling towards zero without ever reaching it, because a percentage of a positive number is never the whole number. A straight-line graph would show linear change instead.
 
 ## Reading the formula in reverse
 

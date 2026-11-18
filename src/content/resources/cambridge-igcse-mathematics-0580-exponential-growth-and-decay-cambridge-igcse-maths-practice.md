@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "exponential-growth-and-decay-cambridge-igcse-maths"
-description: "Twelve original Extended 0580 questions on subtopic 1.17: depreciation, doubling and halving, trial tables and linear versus exponential models, with mark schemes."
+description: "Twelve original Extended 0580 questions on subtopic 1.17: depreciation, doubling, halving, trial tables and linear versus exponential models, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

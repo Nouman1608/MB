@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "using-a-calculator-cambridge-igcse-maths"
-description: "Study guide to 0580 subtopic 1.14: keying multi-step calculations, fractions, negatives and time, carrying full values, and reading money, time and standard form."
+description: "Study guide to 0580 subtopic 1.14: keying long calculations, fractions, negatives and time, carrying full values, and reading money, time and standard form."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "exponential-growth-and-decay-cambridge-igcse-maths"
-description: "Revision notes for Extended 0580 subtopic 1.17: the multiplier model, counting periods, trial tables, reading formulas, linear versus exponential, and a self-test."
+description: "Revision notes for Extended 0580 subtopic 1.17: the multiplier model, counting periods, trial tables, reading formulas, graphs and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -81,6 +81,12 @@ Two 15% increases: 1.15² = 1.3225, an overall increase of **32.25%**, not 30%.
 4. Answer the question asked ("after how many years", "in which year").
 
 Example: 1800 × 1.12ⁿ passes 3000 between n = 4 (2832) and n = 5 (3172), so **5 years**.
+
+## Graph features
+
+- The graph of V = A × mⁿ crosses the vertical axis at the starting value A.
+- Growth (m > 1): the curve gets steeper as n increases.
+- Decay (0 < m < 1): the curve gets less steep and approaches zero but never reaches it.
 
 ## Linear or exponential?
 

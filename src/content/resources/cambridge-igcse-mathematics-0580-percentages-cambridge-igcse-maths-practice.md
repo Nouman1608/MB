@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "percentages-cambridge-igcse-maths"
-description: "Twelve original 0580 questions on subtopic 1.13 Percentages: change, profit and loss, deposits, interest, and Extended repeated and reverse percentages, with answers."
+description: "Twelve original 0580 questions on subtopic 1.13 Percentages: change, profit, deposits, interest, and Extended repeated and reverse percentages, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

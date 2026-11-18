@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"
     subtopic: "introduction-to-algebra-cambridge-igcse-maths"
-description: "Study guide to 0580 subtopic 2.1: writing expressions from words, generalised numbers, algebra vocabulary, and substituting negatives and decimals into formulas."
+description: "Study guide to 0580 subtopic 2.1: expressions from words, generalised numbers, algebra vocabulary, and substituting negatives and decimals into formulas."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

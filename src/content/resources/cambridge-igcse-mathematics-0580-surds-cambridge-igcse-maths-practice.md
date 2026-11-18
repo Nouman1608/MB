@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "surds-cambridge-igcse-maths"
-description: "Twelve original Extended 0580 questions on subtopic 1.18 Surds: simplifying, expanding, ordering, exact geometry and rationalising denominators, with mark schemes."
+description: "Twelve original Extended 0580 questions on subtopic 1.18 Surds: simplifying, expanding, ordering, exact geometry and rationalising, with mark schemes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -136,6 +136,9 @@ No. Subtopic 1.18 Surds is Extended only in Cambridge IGCSE Mathematics 0580.
 
 **When must I rationalise the denominator?**
 When the question asks you to, or asks for an answer in a form with a whole-number denominator, as in Questions 8 and 9.
+
+**Can a rationalised answer have a negative denominator?**
+Not in its final form. If the denominator works out negative, such as −1, divide every term in the numerator by it so that the answer has a positive denominator or none at all.
 
 **How do I check a surd answer without a calculator in the exam?**
 Square it or multiply it back. For example, multiplying the width in Question 11 by the length should give the area.

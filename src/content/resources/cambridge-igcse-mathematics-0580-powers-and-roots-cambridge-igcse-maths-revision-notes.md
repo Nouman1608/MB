@@ -71,12 +71,12 @@ These notes condense subtopic **1.3 Powers and roots** of the Cambridge IGCSE Ma
 
 ## Which papers test this
 
-| Paper | Tier | Calculator | What to expect |
+| Paper | Tier | Calculator | Content that can appear |
 |---|---|---|---|
-| Paper 1 | Core | not allowed | Recall values, simple combinations, decimals and fractions |
-| Paper 2 | Extended | not allowed | The same, often inside longer questions |
-| Paper 3 | Core | required | Other powers and roots, answers to 3 significant figures |
-| Paper 4 | Extended | required | The same, often as one step in a longer problem |
+| Paper 1 | Core | not allowed | Recalled squares, cubes and roots; decimals and fractions worked by hand |
+| Paper 2 | Extended | not allowed | The same content as Paper 1 |
+| Paper 3 | Core | required | Other powers and roots, with answers rounded as instructed |
+| Paper 4 | Extended | required | The same content as Paper 3 |
 
 ## Worked reminders
 

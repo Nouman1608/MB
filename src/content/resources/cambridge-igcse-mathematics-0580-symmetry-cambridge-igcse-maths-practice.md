@@ -140,7 +140,7 @@ For explanations, read the [symmetry study guide](/resources/igcse-mathematics-0
 
 **7. (a)** Each side is √(3² + 3²) = √18, so all four sides are equal [1]; the diagonals PR and QS are both 6 units long (or PQ has gradient 1 and QR has gradient −1, so angle PQR = 90°), so PQRS is a square [1]
 
-**(b)** The diagonals: **y = 2** and **x = 4**; the lines through midpoints of opposite sides: **y = x − 2** and **y = −x + 6**. All four correct [2]; two or three correct [1]
+**(b)** The diagonals: **y = 2** and **x = 4**; the lines through midpoints of opposite sides: **y = x − 2** and **y = −x + 6**. All four correct [2] (one mark for two or three correct)
 
 **(c)** Order **4** [1]; centre **(4, 2)** [1]
 

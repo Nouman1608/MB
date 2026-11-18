@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "estimation-cambridge-igcse-maths"
-description: "Revision notes for 0580 subtopic 1.9 Estimation: rounding with carries, 1 s.f. estimates, over- and underestimates, sensible accuracy and an 11-question self-test."
+description: "Revision notes for 0580 subtopic 1.9 Estimation: rounding with carries, 1 s.f. estimates, over- and underestimates, sensible accuracy and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
