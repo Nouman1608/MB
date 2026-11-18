@@ -82,6 +82,20 @@ Electron vs proton at the same speed: opposite directions; electron's accelerati
 | Path: parabola | Path: circular arc |
 | Speed changes | Speed constant |
 
+## One deflection in five lines
+
+Electron at 2.0 × 10⁷ m s⁻¹ entering plates 0.040 m long with E = 5.0 × 10³ V m⁻¹:
+
+```
+a = eE/m = 1.60 × 10⁻¹⁹ × 5.0 × 10³ / 9.11 × 10⁻³¹ = 8.8 × 10¹⁴ m s⁻²
+t = L/v = 0.040 / 2.0 × 10⁷ = 2.0 × 10⁻⁹ s
+y = ½at² = 1.8 × 10⁻³ m
+v_y = at = 1.8 × 10⁶ m s⁻¹
+tan θ = v_y / v  →  θ = 5.0°
+```
+
+Always find t from the direction with no force; then use it in the direction with the force.
+
 ## Key terms
 
 | Term | Meaning |

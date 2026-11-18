@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-temperature"
     subtopic: "a-specific-heat-capacity-and-specific-latent-heat"
-description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 14.3: specific heat capacity, latent heat, heating curves and energy losses."
+description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 14.3: specific heat capacity, latent heat, heating curves, energy losses."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

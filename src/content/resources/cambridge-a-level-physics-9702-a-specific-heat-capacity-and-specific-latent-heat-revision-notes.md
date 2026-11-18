@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-temperature"
     subtopic: "a-specific-heat-capacity-and-specific-latent-heat"
-description: "Revision notes for Cambridge A Level Physics 9702 14.3: definitions of c and L, fusion and vaporisation, heating curves, multi-stage sums, traps and a self-test."
+description: "Revision notes for Cambridge A Level Physics 9702 14.3: definitions of c and L, fusion and vaporisation, heating curves, multi-stage sums and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
