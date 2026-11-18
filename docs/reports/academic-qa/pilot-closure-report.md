@@ -252,16 +252,25 @@ What the records say, so nothing is overstated:
 
 Sections A, B and I above describe the position before this addendum.
 
-## N. Addendum, 18 November 2026: the Psychology practice set corrected again (QA-0010)
+## N. Addendum, 18 November 2026: the other two verifications and the 9990 update (D-498, D-499)
 
-The open findings of QA-0008 were worked on the page; the result is recorded as QA-0010 (AI-assisted, rubric 1.0.0, replaces QA-0008, which is kept).
+The owner reported that Farhat ul Ain Sehgal approved the Atomic Structure practice set and that Kanwal Aslam verified the Psychology practice set. Both are recorded as `approved-after-corrections`, on the live page of 18 Nov, with the evidence marked as reported by the owner (the teachers' own notes were not seen).
 
-| Finding | Severity | Disposition | What was done |
-|---|---|---|---|
-| F1 4(b) gives only the top level | minor | Corrected | The 9990 syllabus publishes no level descriptors (AO3 p.12, Paper 3 p.51; grade descriptions p.59 "will be published after the first assessment"), and no official Paper 3 mark scheme was available. Answer 4(b) now has four levels with mark ranges (9-10, 6-8, 3-5, 1-2, and 0), labelled on the page as Marlbridge's own guide, not Cambridge's mark scheme, and based on the syllabus's AO3 description |
-| F3 Freeman et al. procedure | advisory | **Open** | Checked against the published abstract (PubMed 12972853): all four mark points agree. The full paper is behind a subscription; the library setting and the order of assessments are unconfirmed. The unverified word "questionnaire" was removed |
-| F7 no documented human check | advisory | **Open** | Unchanged: only the named teacher can supply it |
-| F8 series field and taxonomy end at 2026 | minor | **Open** | The three syllabuses were downloaded again (SHA-256 identical to the manifest). Sections 3 and 4 of the 2027 syllabus match 2024-2026 word for word apart from line breaks and a repeated ICD-11 note; the 2028-2030 syllabus rewords parts of Option 1. No data was changed: moving 9990 to a 2027 record affects every 9990 page and the course hub (question K1) |
-| F9 (new) the level guide is unconfirmed | advisory | **Open** | The bands are Marlbridge's own and AI-written; a teacher should confirm them, or replace them with an official mark scheme's |
+| Page | State now |
+|---|---|
+| 0620 study guide | VERIFIED_APPROVED (D-497) |
+| AQA mole guide | VERIFIED_APPROVED (D-497) |
+| Atomic structure practice | VERIFIED_APPROVED (D-499) |
+| Psychology practice | REVISION_REQUIRED: documented verification, but score 89 (QA-0010) |
 
-F2, F4, F5 and F6 are as in QA-0008. Score 90.5 (19, 18.5, 18, 13, 9, 9, 4). The page is now ACADEMIC_REVIEW_PENDING: it still needs a documented verification by its named teacher, Kanwal Aslam, before it can be VERIFIED_APPROVED. `updatedDate` is 2026-11-18.
+The 9990 data were brought up to date (D-498): the 2027 syllabus is the current record, 2028-2030 is a known future series with its differences listed in `docs/content-review/syllabus-changes-9990-2027-2030.md`. The 101 Psychology pages were not edited, so the Psychology verification still matches the live text.
+
+Sections A, B, I and M above describe earlier positions.
+
+## O. Addendum, 18 November 2026: the Psychology practice set's 10-mark level guide (D-500)
+
+Finding F1 (the 10-mark evaluate answer gave only the top level) is fixed: answer 4(b) now gives a four-level guide with mark ranges, labelled as Marlbridge's own and based on the syllabus description of AO3. Answer 1(b) was reworded so it makes no claim about the form or timing of the symptom assessments.
+
+This edit came after the D-499 teacher verification, which is tied to the previous page hash. The verification therefore no longer covers the live text, and the page is no longer VERIFIED_APPROVED. QA-0011 (AI-assisted, append-only, reassessing QA-0010) records F1 as fixed and opens two findings: F9 (the level guide has not been compared with an official 9990 mark scheme) and F10 (the new text has not been teacher-checked). A teacher check of answer 4(b) would renew the verification.
+
+Sections A, B, I, M and N above describe earlier positions.
