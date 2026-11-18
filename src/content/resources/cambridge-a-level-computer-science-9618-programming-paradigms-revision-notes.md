@@ -87,6 +87,15 @@ Variables and constants · assignment · sequence, selection, iteration · proce
 
 **Writing from supplied information**: one fact per statement; choose a predicate name and keep argument order consistent throughout.
 
+## Matching a paradigm to a task
+
+| Task | Suitable paradigm | Reason |
+|---|---|---|
+| Controlling a device register bit by bit | Low-level | Direct access to memory addresses and registers |
+| A short calculation script | Imperative | Clear step-by-step method |
+| A large system with many kinds of related item | Object-oriented | Encapsulation, inheritance and reuse |
+| Answering questions from a set of known relationships | Declarative | Facts and rules queried with goals |
+
 ## Exam traps
 
 - Indirect and direct addressing swapped.
