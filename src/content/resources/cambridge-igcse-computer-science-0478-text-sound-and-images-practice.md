@@ -105,21 +105,21 @@ Explain the effect on the image and on the file. **[3]**
 *Examiner insight:* "How clear the image is" describes an effect of resolution, not what it is, and earns no mark.
 
 **7. (a)** ASCII can only represent 128 (or 256) characters, mainly English letters and symbols [1]; Unicode represents a much greater range, including characters from many languages and emojis, which worldwide users need [1]
-**(b)** Unicode uses more bits per character, so messages take more storage (or more data to transmit) [1]
+**(b)** Unicode uses more bits per character, so messages take more storage (or more data to transmit) [1] **[3]**
 
 **8. (a)** B = 66 = **1000010** [1]; A = **1000001** [1]; D = 68 = **1000100** [1]
-**(b)** **Hi** [1]
+**(b)** **Hi** [1] **[4]**
 
 **9.** Sound is an analogue wave [1]; the amplitude of the wave is measured (sampled) [1]; at regular intervals, set by the sample rate [1]; each measurement is stored as a binary number with a set number of bits (the sample resolution) [1]
 
 **10. (a)** 4 bits: 2⁴ = **16** [1]; 8 bits: 2⁸ = **256** [1]
-**(b)** The 8-bit recording is more accurate, because each sample can be stored closer to the true amplitude [1]; its file size is larger (twice as large for the same number of samples) [1]
+**(b)** The 8-bit recording is more accurate, because each sample can be stored closer to the true amplitude [1]; its file size is larger (twice as large for the same number of samples) [1] **[4]**
 
 **11. (a)** Fewer samples are taken each second [1]; so the digital version follows the original wave less closely and the sound quality (accuracy) is lower [1]
-**(b)** Fewer samples are stored, so the file size decreases [1]
+**(b)** Fewer samples are stored, so the file size decreases [1] **[3]**
 
 **12. (a)** 2⁹ = 512, which is too few [1]; 2¹⁰ = 1024, so **10 bits** [1]
-**(b)** More colours can be represented, so the image is more realistic, with smoother shading [1]; more bits are stored for each pixel, so the file size increases [1]
+**(b)** More colours can be represented, so the image is more realistic, with smoother shading [1]; more bits are stored for each pixel, so the file size increases [1] **[4]**
 *Examiner insight:* An answer of 9 bits in (a) shows the student found the nearest power of 2, not the smallest one that is large enough.
 
 **13.** The image has fewer pixels, so it shows less detail [1]; it may look pixelated (blocky) if it is enlarged [1]; fewer pixels are stored, so the file is much smaller and quicker to email [1]

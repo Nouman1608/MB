@@ -109,6 +109,14 @@ These notes condense ESS subtopic 6.3, Climate change -- mitigation and adaptati
 - Carbon tax fixes price; cap-and-trade fixes quantity.
 - Evaluations need cost, speed, equity and a judgement.
 
+## Links to other topics
+
+- **3.3 (conservation)**: mangrove and peatland restoration store carbon and protect biodiversity at once.
+- **5.1 and 5.2 (land)**: soil carbon, fertiliser efficiency and lower food waste are agricultural mitigation.
+- **7.2 (energy)**: the switch to renewable and low-carbon energy is the largest single source of emission cuts.
+- **8.2 (urban systems)**: compact cities, public transport and green infrastructure combine mitigation and adaptation.
+- **HL lenses**: treaties and stocktakes (law), carbon pricing and external costs (economics), fair shares and loss and damage (ethics).
+
 ## Self-test
 
 1. Why must net CO₂ emissions reach about zero for warming to stop?

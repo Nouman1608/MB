@@ -101,24 +101,24 @@ of the original value. **[2]**
 **6.** A computer processes data with logic gates and stores it in registers that can only hold two states, 0 and 1 [1]
 
 **7. (a)** 9000 = 8192 + 512 + 256 + 32 + 8 [1]; = **0010 0011 0010 1000** [1]
-**(b)** **2328** [1]
+**(b)** **2328** [1] **[3]**
 *Examiner insight:* A 16-bit answer must have 16 digits; dropping the leading zeros can lose the mark.
 
 **8. (a)** 45 + 86 = 131 [1]; **10000011** [1]
-**(b)** 225 + 63 = 288, which needs 9 bits (100100000) [1]; the stored 8-bit result is **00100000** (32) [1]; overflow has occurred: the result is greater than 255, so the ninth bit is lost and the stored value is wrong [1]
+**(b)** 225 + 63 = 288, which needs 9 bits (100100000) [1]; the stored 8-bit result is **00100000** (32) [1]; overflow has occurred: the result is greater than 255, so the ninth bit is lost and the stored value is wrong [1] **[5]**
 *Examiner insight:* "It overflowed" with no reason earns only one of the explanation marks; say why (greater than 255) and what happens (bit lost).
 
 **9. (a)** **11010000** [1]; the value is multiplied by 8 (26 becomes 208) [1]
 **(b)** **00011010** (26) [1]; the two right-hand bits (11) are shifted out and lost, so the remainder is lost: 107 ÷ 4 = 26.75, but only 26 is stored [1]
-**(c)** The leftmost 1 bit is shifted out and lost [1]; 113 × 4 = 452 is too large for 8 bits, so the result, 11000100 (196), is wrong [1]
+**(c)** The leftmost 1 bit is shifted out and lost [1]; 113 × 4 = 452 is too large for 8 bits, so the result, 11000100 (196), is wrong [1] **[6]**
 
 **10. (a)** 73 = 01001001; flip the bits: 10110110 [1]; add 1: **10110111** [1]
 **(b)** −128 + 64 + 32 + 8 + 4 = **−20** [1]
-**(c)** The largest positive value in 8-bit two's complement is 127, and 200 is greater than this [1]
+**(c)** The largest positive value in 8-bit two's complement is 127, and 200 is greater than this [1] **[4]**
 *Examiner insight:* In (a), stopping at 10110110 gives one's complement and earns only the first mark.
 
 **11. (a)** Red 1E = **30** [1]; green 90 = **144** [1]; blue FF = **255** [1]
-**(b)** Any two from: it is shorter than binary (each hex digit represents four bits) [1]; it is easier for people to read and remember [1]; fewer mistakes are made when copying or entering it [1]; it converts easily to binary [1]
+**(b)** Any two from: it is shorter than binary (each hex digit represents four bits) [1]; it is easier for people to read and remember [1]; fewer mistakes are made when copying or entering it [1]; it converts easily to binary [1] **[5]**
 
 **12.** Any two from: error codes [1]; MAC addresses [1]; IPv6 addresses [1]; memory dumps or addresses when debugging [1]
 

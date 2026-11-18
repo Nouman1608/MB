@@ -71,7 +71,7 @@ and the [Bajrangi Bhaijaan revision notes](/resources/edexcel-a-level-urdu-langu
 
 ## Answers
 
-**1.** Model: «فلم میں پون کی ایمان داری مزاح اور تناؤ دونوں پیدا کرتی ہے۔» Marking (one mark per section): فلم میں = in the film [1]; پون کی ایمان داری = Pawan's honesty [1]; مزاح اور تناؤ = humour and tension (accept مزاح اور کشمکش) [1]; دونوں = both [1]; پیدا کرتی ہے = creates, with the feminine form agreeing with ایمان داری [1]. *Examiner insight:* پیدا کرتا ہے is a verb-ending error, which is not treated as a tolerable spelling slip.
+**1.** Model: «فلم میں پون کی ایمان داری مزاح اور تناؤ دونوں پیدا کرتی ہے۔» Marking (one mark per section): فلم میں = in the film [1]; پون کی ایمان داری = Pawan's honesty [1]; مزاح اور تناؤ = humour and tension (accept مزاح اور کشمکش) [1]; دونوں = both [1]; پیدا کرتی ہے = creates, with the feminine form agreeing with ایمان داری [1]. *Examiner insight:* پیدا کرتا ہے would be a verb-ending error; as in Paper 2's translation marking, a wrong ending is a grammatical error, not a tolerable spelling slip.
 
 **2.** (a) کلوز اپ or قریبی شاٹ [1]; (b) پس منظر موسیقی [1]; (c) نقطۂ عروج [1]; (d) کردار نگاری [1]
 
@@ -79,7 +79,7 @@ and the [Bajrangi Bhaijaan revision notes](/resources/edexcel-a-level-urdu-langu
 
 **4.** کرتا ہے → **کرتی ہے** [1], because فلم is feminine and the verb must agree with it [1]; اس کی پیغام → **اس کا پیغام** [1], because پیغام is masculine, so the possessive takes the masculine form [1]. Corrected: «یہ فلم ناظرین کو بہت متاثر کرتی ہے اور اس کا پیغام آج بھی اہم ہے۔»
 
-**5.** «اگرچہ فلم کا انجام حقیقت سے کچھ دور ہے، پھر بھی وہ ناظرین کو گہرا تاثر دیتا ہے۔» The conjunction pair is placed correctly, with اگرچہ opening the first clause and پھر بھی the second [1]; the repeated subject is replaced by a pronoun (وہ, or اس کا انجام is not needed) and the verb دیتا ہے agrees with the masculine انجام [1]
+**5.** «اگرچہ فلم کا انجام حقیقت سے کچھ دور ہے، پھر بھی وہ ناظرین کو گہرا تاثر دیتا ہے۔» The conjunction pair is placed correctly, with اگرچہ opening the first clause and پھر بھی the second [1]; the repeated subject is replaced by the pronoun وہ, and the verb دیتا ہے agrees with the masculine انجام [1]
 
 **6.** Past perfect (pluperfect), formed with چکی تھی [1]; the specification counts conceptually challenging tenses such as the pluperfect as complex language, which the range grid rewards [1]
 
@@ -110,7 +110,7 @@ and the [Bajrangi Bhaijaan revision notes](/resources/edexcel-a-level-urdu-langu
 - **Language:** precise cinematic terms in Urdu (پس منظر موسیقی، کلوز اپ، منظر، نقطۂ عروج) used to explain effect, not just named.
 
 **12.** AO4 critical and analytical response [20]; AO3 range of grammatical structures and vocabulary [15]; AO3 accuracy of language [10]. Indicative content:
-- **The case for "not realistic":** large crowds gathering at the border because of one video, and officials yielding to them, can be seen as idealised.
+- **The case for "not realistic":** large crowds gathering at the border because of one video, and the stand-off there being resolved through them, can be seen as idealised.
 - **The case for its truth:** the ending reflects the film's view that ordinary people on both sides share humanity; the power of shared video is a real feature of modern media.
 - **Shahida finding her voice:** a symbolic climax; consider whether symbolism matters more here than realism.
 - **Genre:** a popular feature film uses emotion and spectacle; judge the ending by what it aims to achieve as well as by realism.
