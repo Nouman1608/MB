@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "exchange-and-transport-ocr-alevel-biology"
     subtopic: "transport-in-animals-ocr-alevel-biology"
-description: "Condensed notes on circulatory systems, vessels, tissue fluid, the heart, cardiac cycle, ECGs and haemoglobin for OCR A Level Biology A H420 3.1.2, with a self-test."
+description: "Condensed notes on circulatory systems, vessels, tissue fluid, the heart, cardiac cycle, ECGs and haemoglobin for OCR A Level Biology A 3.1.2, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

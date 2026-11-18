@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "exchange-and-transport-ocr-alevel-biology"
     subtopic: "exchange-surfaces-ocr-alevel-biology"
-description: "Condensed notes on SA:V, efficient exchange surfaces, airway tissues, ventilation, spirometry, fish gills and insect tracheae for OCR A Level Biology A H420 3.1.1."
+description: "Condensed notes on SA:V, efficient exchange surfaces, airway tissues, ventilation, spirometry, fish gills and insect tracheae for OCR A Level Biology A 3.1.1."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "exchange-and-transport-ocr-alevel-biology"
     subtopic: "exchange-surfaces-ocr-alevel-biology"
-description: "OCR A Level Biology A (H420) 3.1.1 study guide: SA:V, efficient exchange surfaces, mammalian airways, ventilation, spirometry, and gas exchange in fish and insects."
+description: "OCR A Level Biology A (H420) 3.1.1 study guide: SA:V, efficient exchange surfaces, airways, ventilation, spirometry, and gas exchange in fish and insects."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

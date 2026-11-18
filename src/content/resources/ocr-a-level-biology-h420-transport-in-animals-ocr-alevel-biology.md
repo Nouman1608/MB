@@ -41,7 +41,7 @@ This guide covers learning outcomes 3.1.2(a) to (j) of the OCR A Level Biology A
 
 ## Why transport systems are needed (a)
 
-Diffusion is only fast over very short distances. A large animal has a small SA:V, most cells are far from any exchange surface, and an active animal with a high metabolic rate needs oxygen and glucose quickly. A circulatory system moves blood by **mass flow**, so substances are carried quickly between exchange surfaces and every tissue.
+Diffusion is fast only over very short distances. A large animal has a small SA:V and most cells are far from an exchange surface; an active animal also has a high metabolic rate. A circulatory system moves blood by **mass flow**, so substances are carried quickly between exchange surfaces and every tissue.
 
 ## Types of circulatory system (b)
 
@@ -85,7 +85,7 @@ The outward push is larger than the inward pull, which is why some fluid is left
 
 ## The mammalian heart (e)
 
-Externally: coronary arteries on the surface supply the heart muscle; the aorta and pulmonary artery leave from the top, and the vena cava and pulmonary vein bring blood in. Internally: the right atrium and ventricle receive and pump deoxygenated blood to the lungs; the left side pumps oxygenated blood to the body. The **septum** separates the two sides. The **left ventricle wall is thickest** because it pumps blood all round the body against high resistance. **Atrioventricular valves** (tricuspid on the right, bicuspid on the left) are held by tendinous cords so they cannot turn inside out; **semilunar valves** sit at the bases of the aorta and pulmonary artery. In a dissection (PAG2), identify the vessels by their walls (arteries thicker), and cut to compare ventricle wall thickness.
+Externally: coronary arteries on the surface supply the heart muscle; the aorta and pulmonary artery leave from the top, and the vena cava and pulmonary vein bring blood in. Internally: the right atrium and ventricle receive and pump deoxygenated blood to the lungs; the left side pumps oxygenated blood to the body. The **septum** separates the two sides. The **left ventricle wall is thickest** because it pumps blood all round the body against high resistance. **Atrioventricular valves** (tricuspid on the right, bicuspid on the left) are held by tendinous cords so they cannot turn inside out; **semilunar valves** sit at the bases of the aorta and pulmonary artery. In a dissection (PAG2), identify vessels by their walls (arteries thicker) and compare the ventricle walls.
 
 ## The cardiac cycle (f)
 

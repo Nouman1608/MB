@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "exchange-and-transport-ocr-alevel-biology"
     subtopic: "transport-in-plants-ocr-alevel-biology"
-description: "Condensed notes on xylem and phloem, transpiration, potometers, water pathways, xerophytes and translocation for OCR A Level Biology A H420 3.1.3, with a self-test."
+description: "Condensed notes on xylem and phloem, transpiration, potometers, water pathways, xerophytes and translocation for OCR A Level Biology A 3.1.3, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -28,11 +28,11 @@ Recall the key points with the [D1.1 revision notes](/resources/ib-ib-dp-biology
 
 Replication produces two DNA molecules whose base sequences are identical to the original. The guide asks you to link this to three needs:
 
-- **Reproduction.** A prokaryote dividing by binary fission, or a eukaryote producing offspring, must pass on a complete genome.
-- **Growth.** A multicellular organism grows by mitosis, and each daughter cell needs every gene, even the ones it will never express.
-- **Tissue replacement.** Skin, gut lining and blood cells are replaced throughout life, and each replacement cell needs a full copy.
+- **Reproduction:** offspring, or a prokaryote's daughter cells, need a complete genome.
+- **Growth:** each cell made by mitosis needs every gene, even ones it never expresses.
+- **Tissue replacement:** replacement skin, gut and blood cells each need a full copy.
 
-Replication happens before division (in the S phase of interphase in eukaryotes), so the chromosome consists of two identical sister chromatids when mitosis starts.
+Replication happens before division (S phase in eukaryotes), giving two identical sister chromatids.
 
 ## Semi-conservative replication and its evidence (D1.1.2)
 
@@ -58,7 +58,7 @@ Matthew Meselson and Franklin Stahl grew *E. coli* for many generations in ¹⁵
 
 The general rule: after *n* rounds there are 2ⁿ molecules, and the two original strands are always in exactly two hybrid molecules. After 3 rounds, 2 of 8 molecules are intermediate (25 %) and 6 are light.
 
-Notice the method: the experiment was designed so that each hypothesis predicted a different, observable result. A strong answer names which observation rules out which model.
+A strong answer names which observation rules out which model.
 
 ## Helicase and DNA polymerase (D1.1.3)
 
@@ -67,7 +67,7 @@ Keep your SL description to two roles:
 - **Helicase** moves along the double helix, unwinding it and breaking the hydrogen bonds between complementary bases, so that the two strands separate and expose their bases.
 - **DNA polymerase** links free nucleotides, each paired with its complementary base on the template, into a new strand by forming covalent bonds between the sugar of one nucleotide and the phosphate of the next.
 
-Hydrogen bonds hold the two strands together and are broken by helicase. Covalent bonds hold each strand together and are made by DNA polymerase. Examiners often see these two bond types confused.
+Do not confuse the bonds: helicase breaks hydrogen bonds between strands; polymerase makes covalent bonds within a strand.
 
 ## PCR in more detail (D1.1.4)
 
@@ -112,9 +112,8 @@ Fragment sizes in base pairs at three regions:
 | 3 | 201, 213 | 201, 213 | 201, 213 |
 
 1. Suspect B differs at regions 1 and 2, so B is excluded as the source. One mismatch is enough to exclude.
-2. Suspect A matches at all three regions. This is consistent with A being the source, but it is not proof, because unrelated people can share profiles at a few regions.
+2. Suspect A matches at all three regions. This is consistent with A being the source, but it is not proof, because unrelated people can match at a few regions; each extra region tested makes that less likely.
 3. Region 2 shows one band for the scene sample: the person inherited fragments of the same length from both parents.
-4. Reliability rises with the number of regions tested, because the chance of a coincidental match multiplies down with each independent region.
 
 In a **paternity** test, every band in the child must come from the mother or the father. Identify the child's bands shared with the mother first; any band left over must be present in the father.
 
@@ -137,24 +136,23 @@ In a **paternity** test, every band in the child must come from the mother or th
 4. **DNA polymerase I** removes the RNA primer nucleotides of that previous fragment and replaces them with DNA.
 5. **DNA ligase** makes the final covalent bond in the sugar-phosphate backbone, sealing the nick between fragments.
 
-**Proofreading.** If DNA polymerase III adds a nucleotide whose base does not pair correctly with the template, the mismatch distorts the 3' end. The enzyme removes the nucleotide from the 3' terminal and then adds a correctly paired one before continuing. This is why the guide limits proofreading to the 3' end: that is the only place the polymerase is working.
+**Proofreading.** If DNA polymerase III adds a nucleotide whose base does not pair correctly with the template, it removes that nucleotide from the 3' terminal and adds a correctly paired one before continuing. The 3' end is the only place the polymerase is working.
 
 ## Common mistakes
 
 - Stating that Meselson and Stahl's first-generation result proved semi-conservative replication. It only ruled out the conservative model; the second generation was needed to rule out dispersive replication.
 - Saying gel electrophoresis separates by charge. All fragments have the same charge per unit length.
 - Writing that heat "breaks the DNA" in PCR. Only hydrogen bonds break at 95 °C.
-- Claiming one matching profile proves guilt. A match is evidence of a common source, with a probability of coincidence.
+- Claiming a matching profile proves guilt.
 - (HL) Saying the lagging strand is made 3' to 5'. Both new strands are made 5' to 3'.
 - (HL) Giving ligase the job of removing primers. That is DNA polymerase I.
 
 ## Exam technique
 
-- **Outline** the role of an enzyme: one or two sentences with the bond type it acts on.
-- **Explain** semi-conservative replication: link template strands, base pairing and identical sequences.
-- **Evaluate** a profile or a hypothesis: say what the data support, what they rule out, and what they cannot show.
-- **Deduce** a strand or primer sequence: write both 5' and 3' labels on every sequence you give.
-- **Calculate** copies or fractions: show 2ⁿ and the fraction before giving a percentage.
+- **Outline** an enzyme's role: one or two sentences naming the bond it acts on.
+- **Evaluate** a profile or hypothesis: what the data support, rule out and cannot show.
+- **Deduce** a strand or primer: label 5' and 3' on every sequence.
+- **Calculate** copies or fractions: show 2ⁿ before any percentage.
 
 ## Official syllabus
 

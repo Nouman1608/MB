@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "exchange-and-transport-ocr-alevel-biology"
     subtopic: "transport-in-plants-ocr-alevel-biology"
-description: "Original OCR A Level Biology A (H420) 3.1.3 questions with answers on xylem, phloem, transpiration, potometer data, water pathways, xerophytes and translocation."
+description: "Original OCR A Level Biology A (H420) 3.1.3 questions with answers on xylem, phloem, transpiration, potometer data, water pathways and translocation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

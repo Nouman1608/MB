@@ -163,7 +163,7 @@ These questions cover section 3.11.4, Kinetic theory of gases, of OxfordAQA Inte
 
 **(c)** With random motion of many molecules, no direction is preferred, so the mean of c_x², c_y² and c_z² is equal [1]; since c² = c_x² + c_y² + c_z², the mean of c_x² is ⅓ of the mean of c² [1]
 
-**(d)** The volume of the molecules is no longer negligible compared with the container [1]; the molecules are close enough for attractive forces between them to matter, so there are forces outside collisions [1] **[5]**
+**(d)** The volume of the molecules is no longer negligible compared with the container [1]; the molecules are close enough for attractive forces between them to matter, so there are forces outside collisions [1] **[6]**
 
 *Examiner insight:* Each reason must be tied to the assumption that fails, as the question asks.
 
