@@ -67,13 +67,12 @@ Speed: v = λ/T = fλ, using values from the correct graphs.
 
 ```
 lambda / 2 = 0.55 - 0.30 = 0.25 m      lambda = 0.50 m
-particle at x = 0.40 m: between crest (behind) and trough (ahead) -> moving DOWN
-particle at x = 0.20 m: on the front slope of the crest at 0.30 m? No - it is
-behind the crest, on the back slope... check: the crest is ahead of it, so 0.20 m
-is on the side of the crest facing the source -> moving UP
+x = 0.40 m: crest just behind it (front slope of the crest)  -> moving UP
+x = 0.20 m: crest just ahead of it (back slope of the crest) -> moving DOWN
+x = 0.30 m: at the crest                                     -> momentarily at rest
 ```
 
-Rule of thumb that avoids the muddle: a particle with a crest just **behind** it (source side) is about to rise.
+Rule of thumb: a particle with a crest just **behind** it (on the source side) is about to rise; a particle with a trough just behind it is about to fall.
 
 ## Longitudinal snapshot rules
 

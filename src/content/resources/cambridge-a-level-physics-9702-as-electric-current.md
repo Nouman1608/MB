@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-electricity"
     subtopic: "as-electric-current"
-description: "A focused guide to 9.1 Electric current in Cambridge AS Physics 9702: charge carriers, quantised charge, Q = It, charge from I–t graphs and I = Anvq drift speed."
+description: "A focused guide to 9.1 Electric current in Cambridge AS Physics 9702: charge carriers, quantised charge, Q = It, I–t graph areas and I = Anvq drift speed."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

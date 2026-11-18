@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "the-fundamentals-of-accounting"
     subtopic: "the-purpose-of-accounting"
-description: "Twelve original questions with mark-scheme answers on book-keeping and accounting, measuring profit and using accounts for decisions, for O Level Accounting 7707."
+description: "Twelve original questions with mark-scheme answers on book-keeping, accounting, measuring profit and using accounts for decisions, for O Level 7707."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

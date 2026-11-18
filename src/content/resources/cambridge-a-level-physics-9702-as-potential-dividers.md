@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dc-circuits"
     subtopic: "as-potential-dividers"
-description: "A focused guide to 10.3 Potential dividers in Cambridge AS Physics 9702: the divider equation, potentiometer comparison of p.d.s, null methods and sensor circuits."
+description: "A focused guide to 10.3 Potential dividers in Cambridge AS Physics 9702: the divider equation, comparing p.d.s with a potentiometer, null methods and sensors."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

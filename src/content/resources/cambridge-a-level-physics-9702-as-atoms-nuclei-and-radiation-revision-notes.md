@@ -94,6 +94,8 @@ nucleus mass ≈ A u
 electron mass ≈ 5.5 × 10⁻⁴ u
 ```
 
+Example: a carbon-14 nucleus (A = 14, Z = 6) has mass ≈ 14 × 1.66 × 10⁻²⁷ = 2.32 × 10⁻²⁶ kg and charge 6 × 1.60 × 10⁻¹⁹ = 9.6 × 10⁻¹⁹ C. Its 8 neutrons add mass but no charge.
+
 ## Key terms
 
 | Term | Meaning |

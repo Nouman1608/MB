@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-electricity"
     subtopic: "as-potential-difference-and-power"
-description: "Revision notes for Cambridge AS Physics 9702 9.2: p.d. as energy per unit charge, V = W/Q, the three power equations, series and parallel power, traps and a self-test."
+description: "Revision notes for Cambridge AS Physics 9702 9.2: p.d. as energy per unit charge, V = W/Q, three power equations, series and parallel, and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

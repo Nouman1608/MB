@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dc-circuits"
     subtopic: "as-practical-circuits"
-description: "Revision notes for Cambridge AS Physics 9702 10.1 Practical circuits: diagram rules, e.m.f. versus p.d., internal resistance, terminal p.d., traps and a self-test."
+description: "Revision notes for Cambridge AS Physics 9702 10.1 Practical circuits: diagram rules, e.m.f. versus p.d., internal resistance, terminal p.d. and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dc-circuits"
     subtopic: "as-potential-dividers"
-description: "Revision notes for Cambridge AS Physics 9702 10.3 Potential dividers: divider equation, loading, potentiometer balance, galvanometer null method, sensors and a self-test."
+description: "Revision notes for Cambridge AS Physics 9702 10.3 Potential dividers: divider equation, loading, potentiometer balance, null methods, sensors and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

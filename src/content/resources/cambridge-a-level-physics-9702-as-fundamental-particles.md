@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-particle-physics"
     subtopic: "as-fundamental-particles"
-description: "A focused guide to 11.2 Fundamental particles in Cambridge AS Physics 9702: six quark flavours and charges, baryons and mesons, β decay at quark level and leptons."
+description: "A focused guide to 11.2 Fundamental particles in Cambridge AS Physics 9702: six quark flavours and charges, baryons, mesons, β decay and leptons."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

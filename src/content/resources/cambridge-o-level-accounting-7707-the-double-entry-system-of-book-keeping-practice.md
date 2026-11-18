@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "sources-and-recording-of-data"
     subtopic: "the-double-entry-system-of-book-keeping"
-description: "Twelve original questions with mark-scheme answers on posting, balancing, running balances, year-end transfers and ledger divisions, for O Level Accounting 7707."
+description: "Twelve original questions with mark-scheme answers on posting, balancing, running balances, year-end transfers and ledger divisions, for O Level 7707."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

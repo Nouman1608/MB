@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-electricity"
     subtopic: "as-resistance-and-resistivity"
-description: "A focused guide to 9.3 Resistance and resistivity in Cambridge AS Physics 9702: defining R, Ohm's law, I–V curves, R = ρL/A, the resistivity method, LDRs and thermistors."
+description: "A focused guide to 9.3 Resistance and resistivity in Cambridge AS Physics 9702: Ohm's law, I–V curves, R = ρL/A, measuring resistivity, LDRs and thermistors."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

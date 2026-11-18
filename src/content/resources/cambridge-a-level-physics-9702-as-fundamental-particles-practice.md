@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-particle-physics"
     subtopic: "as-fundamental-particles"
-description: "Original practice questions with full answers on Cambridge AS Physics 9702 11.2: quark charges, baryons and mesons, antiparticles, quark-level β decay and leptons."
+description: "Original practice questions with full answers on Cambridge AS Physics 9702 11.2: quark charges, baryons, mesons, antiparticles, β decay and leptons."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -144,3 +144,5 @@ Related: [Fundamental particles study guide](/resources/cambridge-a-level-physic
 - Omitting the antineutrino or neutrino from a quark-level equation.
 - Calling the proton fundamental, or the electron a hadron.
 - Forgetting to reverse every quark when writing an antiparticle.
+- Showing a charge sum without writing each quark's charge first, so a single sign slip cannot earn a method mark.
+- Describing β decay only in terms of nucleons when the question asks for the change in quark composition.

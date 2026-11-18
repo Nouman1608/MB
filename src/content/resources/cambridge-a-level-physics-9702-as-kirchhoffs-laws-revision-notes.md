@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dc-circuits"
     subtopic: "as-kirchhoffs-laws"
-description: "Revision notes for Cambridge AS Physics 9702 10.2 Kirchhoff's laws: both laws and their conservation basis, series and parallel derivations, signs, traps and a self-test."
+description: "Revision notes for Cambridge AS Physics 9702 10.2 Kirchhoff's laws: conservation basis, series and parallel derivations, sign rules, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

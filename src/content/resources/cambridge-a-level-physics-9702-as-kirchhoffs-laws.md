@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dc-circuits"
     subtopic: "as-kirchhoffs-laws"
-description: "A focused guide to 10.2 Kirchhoff's laws in Cambridge AS Physics 9702: conservation of charge and energy, series and parallel derivations, and two-loop circuits."
+description: "A focused guide to 10.2 Kirchhoff's laws in Cambridge AS Physics 9702: conservation of charge and energy, resistor derivations and two-loop circuits."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

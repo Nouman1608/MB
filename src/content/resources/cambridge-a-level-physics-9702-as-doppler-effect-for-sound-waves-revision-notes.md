@@ -85,6 +85,16 @@ receding:    fo = 450 x 340 / 370 = 414 Hz
 fs = 660 x (340 - 16.2) / 340 = 629 Hz
 ```
 
+**Example — whirled source.** A 900 Hz buzzer moves in a circle of radius 0.60 m, making 3.0 revolutions per second; v = 340 m s⁻¹.
+
+```
+vs = 2 pi r x 3.0 = 2 pi x 0.60 x 3.0 = 11.3 m/s
+maximum fo = 900 x 340 / (340 - 11.3) = 931 Hz
+minimum fo = 900 x 340 / (340 + 11.3) = 871 Hz
+```
+
+The observed frequency cycles between these values three times per second.
+
 ## Key terms
 
 | Term | Meaning to recall |
