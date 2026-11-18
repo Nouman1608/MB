@@ -66,6 +66,8 @@ and the [Paper 2 Writing practice questions](/resources/o-level-english-language
 > as a result, the council says it will save money. But is a small saving worth the lose of a quiet
 > place to work. **[8]**
 
+**13.** Each sentence uses a colon or semicolon incorrectly. Explain the error and correct it: (a) "We needed: bread, milk and eggs." (b) "Because it was raining; the match was cancelled." **[4]**
+
 ## Answers
 
 **1.** Any two correct methods for each sentence, one mark each:
@@ -115,6 +117,9 @@ One mark per correction:
 - "loss" (noun, not the verb "lose") **[1]**;
 - question mark at the end of the final sentence **[1]**.
 ("The council have decided" is acceptable in British English, where a collective noun can take a plural verb; "The council has decided" is also correct.)
+
+**13.** (a) The words before a colon should form a complete sentence, and "We needed" cannot stand alone **[1]**; correct: "We needed bread, milk and eggs." or "We needed three things: bread, milk and eggs." **[1]**
+(b) A semicolon must join two main clauses, but "Because it was raining" is a subordinate clause **[1]**; correct: "Because it was raining, the match was cancelled." **[1]**
 
 ## Where marks are usually lost
 
