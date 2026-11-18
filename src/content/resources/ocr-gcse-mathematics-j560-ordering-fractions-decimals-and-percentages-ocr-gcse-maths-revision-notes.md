@@ -77,6 +77,8 @@ the value furthest from 0 is the smallest
 
 Order the sizes, then reverse.
 
+**Integers in a mixed list.** Integers need no conversion, but place them carefully among the others: in −2, −1.5, −3/2 and 1, the values −1.5 and −3/2 are equal, and both lie between −2 and 1.
+
 ## Between two values
 
 - Convert both to a common denominator; if there is no gap, double the denominator.
