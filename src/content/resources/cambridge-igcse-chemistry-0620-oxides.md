@@ -113,6 +113,16 @@ Al2O3(s) + 2NaOH(aq) → 2NaAlO2(aq) + H2O(l)      sodium aluminate
 
 Zinc and aluminium are metals, so you might expect basic oxides; their amphoteric behaviour is the exception you must learn. In an exam it is usually enough to state the products as "a salt and water". The word equations above show what those salts are called.
 
+## Balancing oxide equations
+
+Every oxide ion, O²⁻, combines with two H⁺ ions to make one water molecule. Count the oxide ions in the formula first, and the rest follows.
+
+- **Na₂O + nitric acid.** One oxide ion needs 2H⁺, so 2HNO₃: Na₂O + 2HNO₃ → 2NaNO₃ + H₂O.
+- **MgO + hydrochloric acid.** One oxide ion needs 2H⁺, so 2HCl: MgO + 2HCl → MgCl₂ + H₂O.
+- **Al₂O₃ + sulfuric acid (Extended).** Three oxide ions need 6H⁺, which is 3H₂SO₄, giving 3H₂O: Al₂O₃ + 3H₂SO₄ → Al₂(SO₄)₃ + 3H₂O.
+
+Then check the metal: the salt formula must match the metal ion's charge (Al³⁺ with SO₄²⁻ gives Al₂(SO₄)₃).
+
 ## Deciding the type of an unknown oxide
 
 Add a sample of the oxide to dilute hydrochloric acid in one test tube and to aqueous sodium hydroxide in another, warming gently. A reaction is shown by the solid dissolving or the mixture warming.

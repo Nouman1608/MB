@@ -109,6 +109,14 @@ D: It is an acidic oxide because it forms a salt with sulfur dioxide. **[1]**
 
 **12.** *(Extended)* The elements sodium, aluminium and sulfur are in the same period. Describe and explain how the type of oxide changes from sodium to sulfur. **[3]**
 
+**13.** Carbon dioxide is bubbled through limewater (aqueous calcium hydroxide).
+
+**(a)** State what is seen. **[1]**
+
+**(b)** Write the balanced equation for the reaction. **[2]**
+
+**(c)** Identify which reactant behaves as an acid in this reaction and explain why. **[2]**
+
 ## Answers
 
 **1. (a)** Acidic [1].
@@ -156,6 +164,12 @@ D: It is an acidic oxide because it forms a salt with sulfur dioxide. **[1]**
 **(b)** Zinc oxide or aluminium oxide [1].
 
 **12.** Sodium oxide is basic and sulfur dioxide is acidic, with aluminium oxide amphoteric in between [1]; across the period the elements change from metals to non-metals [1]; metal oxides are basic and non-metal oxides are acidic, so the oxide type follows the element's character [1].
+
+**13. (a)** The limewater turns milky / cloudy (a white precipitate forms) [1].
+
+**(b)** CO₂ + Ca(OH)₂ → CaCO₃ + H₂O: correct formulae [1]; balanced, with CaCO₃ as the precipitate [1].
+
+**(c)** Carbon dioxide [1]; it is an acidic oxide (of a non-metal) that reacts with a base/alkali to form a salt and water [1].
 
 ---
 
