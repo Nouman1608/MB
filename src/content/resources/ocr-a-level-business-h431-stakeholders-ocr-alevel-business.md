@@ -28,7 +28,7 @@ The combined guide lists the stakeholder groups and their usual objectives. This
 
 ## Stakeholders in the grey areas
 
-A **stakeholder** is any individual or group with an interest in, or affected by, the activities of a business. Most groups sort easily into internal (owners, directors, managers, employees) and external (customers, suppliers, lenders, government, the local community, pressure groups, competitors). Examiners reward students who handle the awkward cases:
+A **stakeholder** is any individual or group with an interest in, or affected by, the activities of a business. Most groups sort easily into internal (owners, directors, managers, employees) and external (customers, suppliers, lenders, government, the local community, pressure groups, competitors). Strong answers also handle the awkward cases:
 
 - **Shareholders of a large public limited company** are owners, so they are usually classed as internal, yet most never enter the business and act more like outside investors. Say which view you are taking.
 - **Employees who own shares** through a share scheme have two sets of interests: pay and job security, and dividends and share price. Their reaction to a cost-cutting plan may be divided.
