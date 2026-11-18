@@ -78,6 +78,16 @@ Dissolved coloured substances?   ──► chromatography
 
 To identify an unknown: compare a sharp measured value with data-book values.
 
+## Worked mini-example: reading purity data
+
+Pure compound N melts at 96 °C (value invented). Three samples give: A melts sharply at 96 °C; B melts from 88 °C to 93 °C; C melts sharply at 63 °C.
+
+- A: pure N (sharp, matches).
+- B: impure N (range, below 96 °C).
+- C: a different substance (sharp, but does not match).
+
+Two questions to ask every time: **is it sharp?** and **does it match?**
+
 ## Key terms
 
 | Term | Meaning |

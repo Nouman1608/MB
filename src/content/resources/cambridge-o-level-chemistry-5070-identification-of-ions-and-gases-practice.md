@@ -111,6 +111,14 @@ D: sulfate
 
 **13.** Iron(II) ions and iron(III) ions are both present in different bottles of old laboratory solution. Describe how aqueous sodium hydroxide distinguishes them, including what happens to the iron(II) precipitate on standing. **[3]**
 
+**14.** Ammonium carbonate is a white solid. A student carries out two tests on it.
+
+**(a)** Describe a test that shows the presence of ammonium ions, including the test for the gas produced. **[2]**
+
+**(b)** Describe a test that shows the presence of carbonate ions, including the test for the gas produced. **[2]**
+
+**(c)** The student also warms the solid with aqueous sodium hydroxide and aluminium foil and finds that ammonia is produced. Explain why this does **not** show that nitrate ions are present. **[1]**
+
 ## Answers
 
 **1. (a)** Lighted splint: pops [1]
@@ -176,6 +184,14 @@ D: sulfate
 **[3]**
 
 **13.** Add aqueous sodium hydroxide: iron(II) gives a green precipitate [1]; iron(III) gives a red-brown precipitate [1]. Both are insoluble in excess; the iron(II) precipitate turns brown near the surface on standing [1]. **[3]**
+
+**14. (a)** Warm the solid with aqueous sodium hydroxide [1]; ammonia is given off, which turns damp red litmus paper blue [1].
+
+**(b)** Add dilute acid: effervescence [1]; the gas turns limewater milky, showing carbon dioxide [1].
+
+**(c)** The ammonium ions in the solid give ammonia with sodium hydroxide on warming, whether or not nitrate is present [1].
+
+**[5]**
 
 ## Where marks are usually lost
 

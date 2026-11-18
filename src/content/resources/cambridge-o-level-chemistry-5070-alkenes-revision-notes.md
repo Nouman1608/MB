@@ -115,6 +115,8 @@ One of the two bonds in C=C breaks, leaving each of the two carbons with a spare
 - Catalysts: **nickel** for hydrogen; **acid** for steam; cracking uses a catalyst too, with high temperature.
 - Cracking equations must balance hydrogen as well as carbon.
 - An alkane does not decolourise aqueous bromine: that is the whole point of the test.
+- When asked for conditions, give both for cracking: high temperature **and** a catalyst.
+- Propene and but-1-ene give two possible alcohols with steam; ethene and but-2-ene give one.
 
 ## Self-test
 

@@ -77,6 +77,19 @@ Rf = distance travelled by substance ÷ distance travelled by solvent
 
 Quick check: solvent front 9.0 cm, spot 3.6 cm → Rf = 0.40.
 
+## Quick interpretation drill
+
+A sample, U, and three references are run in the same solvent. The solvent front is 5.0 cm from the baseline.
+
+| Sample | Spots (cm from baseline) | Rf |
+|---|---|---|
+| U | 1.5 and 4.0 | 0.30 and 0.80 |
+| V | 1.5 | 0.30 |
+| W | 2.5 | 0.50 |
+| X | 4.0 | 0.80 |
+
+U is impure (two spots) and contains V and X but not W. Work across the row: count spots, match heights, then calculate Rf if asked.
+
 ## Key terms
 
 | Term | Meaning |
