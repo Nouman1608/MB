@@ -109,6 +109,12 @@ D: sodium
 
 **13.** *(Supplement)* Write the half-equation for the formation of oxygen at the anode from hydroxide ions, and show that the charges balance. **[2]**
 
+**14.** A student tests three substances in the same circuit with carbon electrodes: solid sodium chloride, molten sodium chloride and an aqueous solution of glucose (a covalent compound).
+
+**(a)** State which substance undergoes electrolysis. **[1]**
+
+**(b)** Explain why each of the other two substances does not. **[2]**
+
 ---
 
 ## Answers
@@ -166,6 +172,12 @@ D: sodium
 **(c)** Copper ions **enter the solution at the anode** at the same rate [1] as copper ions are **removed at the cathode**, so the **concentration of Cu²⁺ stays constant** [1].
 
 **13.** **4OH⁻ → O₂ + 2H₂O + 4e⁻** [1]. Left: 4 × (1−) = 4−. Right: O₂ and H₂O are neutral, plus 4e⁻ = 4−, so the charges balance [1].
+
+**14.**
+
+**(a)** **Molten sodium chloride** [1].
+
+**(b)** Solid sodium chloride: its **ions are fixed** in the lattice and cannot move [1]. Glucose solution: glucose is covalent, so it contains **no ions** to carry the current [1].
 
 ---
 

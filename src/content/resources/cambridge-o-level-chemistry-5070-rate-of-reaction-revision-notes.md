@@ -70,6 +70,17 @@ Control variables: volume and concentration of solutions, mass and size of solid
 - Half the amount of limiting reactant: half the final level.
 - Mass-loss graphs fall and level off; gas-volume graphs rise and level off.
 
+## Sketching a new curve: decide two things
+
+1. **Starting gradient:** steeper if the change makes the reaction faster, shallower if slower.
+2. **Final level:** set only by the amount of limiting reactant.
+
+Example with acid limiting (excess marble chips, 50 cm³ of 1.0 mol/dm³ HCl, 600 cm³ CO₂):
+
+- powdered marble: steeper, still 600 cm³
+- 50 cm³ of 0.50 mol/dm³ acid: shallower, 300 cm³
+- 100 cm³ of 0.50 mol/dm³ acid: shallower, 600 cm³ (same moles of HCl)
+
 ## Calculating mean rate
 
 Mean rate = change in volume (or mass) ÷ time interval. Units: cm³/s or g/s. Example: 36 cm³ collected between 20 s and 50 s gives 36 ÷ 30 = 1.2 cm³/s.

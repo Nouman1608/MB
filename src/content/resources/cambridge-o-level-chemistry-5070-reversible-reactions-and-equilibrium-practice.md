@@ -136,3 +136,5 @@ pale yellow   colourless   deep red
 - Question 10(a): explaining only the yield. Rate is the reason a lower temperature is not chosen.
 - Question 10(b): ignoring safety and cost, which the syllabus asks you to include.
 - Question 12: describing the colour change the wrong way round. Anhydrous cobalt(II) chloride is blue and turns pink.
+- Question 13: correcting only one error. "Stopped" and "equal amounts" are both wrong, and each correction earns a separate mark.
+- Question 11(a): saying high pressure "would not increase the yield". It would, slightly; the point is that the gain is too small to justify the cost.

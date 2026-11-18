@@ -56,6 +56,8 @@ Condensed for revision. For the full explanation and worked examples, use the [f
 
 **NPK fertiliser:** a mixture of salts that provides all three, for example ammonium phosphate + potassium chloride.
 
+**Choosing a mixture:** match the salts to the elements the soil lacks. A soil already rich in nitrogen needs a phosphorus salt and a potassium salt, not more ammonium nitrate. Any extra element supplied is not harmful to the crop, but unused fertiliser can be washed away.
+
 ## Solubility link
 
 - Fertilisers must be **soluble** so plants can absorb them.
