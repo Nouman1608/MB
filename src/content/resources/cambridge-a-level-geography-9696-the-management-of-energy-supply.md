@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "environmental-management-9696"
     subtopic: "the-management-of-energy-supply-9696"
-description: "Study guide for Cambridge 9696 Geography 12.2: the two energy case studies, with the UK's electricity strategy and Hinkley Point C worked through and evaluated."
+description: "Study guide for Cambridge 9696 Geography 12.2: the two energy case studies, with the UK electricity strategy and Hinkley Point C worked through and evaluated."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
