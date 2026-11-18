@@ -108,11 +108,11 @@ Give the smallest set of test data that would test every path in a white-box tes
 
 **10.** Explain why a program needs continuing maintenance after it has been released. **[3]**
 
-**11.** This code outputs the highest of 30 scores held in Scores[1:30].
+**11.** This code outputs the highest of 30 scores held in Scores[1:30]. Every score is 0 or more.
 
 ```
-Highest ← Scores[1]
-FOR I ← 2 TO 30
+Highest ← -1
+FOR I ← 1 TO 30
    IF Scores[I] > Highest THEN
       Highest ← Scores[I]
    ENDIF
@@ -174,8 +174,8 @@ Amend the code so that it also outputs the position of the highest score and the
 **11.** Model answer:
 
 ```
-Highest ← Scores[1]
-Position ← 1
+Highest ← -1
+Position ← 0
 AboveFifty ← 0
 FOR I ← 1 TO 30
    IF Scores[I] > Highest THEN
@@ -190,7 +190,7 @@ OUTPUT "Highest: ", Highest, " at position ", Position
 OUTPUT "Scores above 50: ", AboveFifty
 ```
 
-Position initialised to 1 [1]; Position updated with I when a new highest is found [1]; counter initialised to 0 [1]; counter increased for each score greater than 50, including Scores[1] (hence the loop from 1) [1]; both new values output [1].
+Position initialised before the loop [1]; Position updated with I when a new highest is found [1]; counter initialised to 0 [1]; counter increased for each score greater than 50, checked for all 30 scores [1]; both new values output [1].
 
 ---
 

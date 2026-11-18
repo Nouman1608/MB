@@ -61,7 +61,7 @@ Related: [ADT study guide](/resources/cambridge-a-level-computer-science-9618-in
 
 **(c)** A further push 19 is attempted. Explain what happens. **[2]**
 
-**8.** A circular queue is held in the array Queue[1:5] with FrontPointer, RearPointer and NumberInQueue. Queue[3] holds P, Queue[4] holds Q and Queue[5] holds R. FrontPointer = 3, RearPointer = 5 and NumberInQueue = 3.
+**8.** A circular queue is held in the array Queue[1:5] with FrontPointer, RearPointer and NumberInQueue. Slots 3, 4 and 5 of the array hold P, Q and R respectively. FrontPointer = 3, RearPointer = 5 and NumberInQueue = 3.
 
 **(a)** Describe the steps taken to add S to the queue, giving the new values of the pointer and the count. **[3]**
 
@@ -86,7 +86,7 @@ Related: [ADT study guide](/resources/cambridge-a-level-computer-science-9618-in
 
 **(c)** Pear is then deleted from the list. Describe the changes to the table and the pointers. **[3]**
 
-**10.** The list is now in the state left after Question 9(c). Fig is to be changed to Plum. Explain why overwriting the data in Data[3] is not enough, and describe how the change should be made. **[3]**
+**10.** The list is now in the state left after Question 9(c). Fig is to be changed to Plum. Explain why overwriting the data stored at index 3 is not enough, and describe how the change should be made. **[3]**
 
 **11.** Describe how a linked list can be implemented using arrays. **[4]**
 
