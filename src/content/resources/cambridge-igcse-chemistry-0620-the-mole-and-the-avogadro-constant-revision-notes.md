@@ -117,6 +117,7 @@ moles: 0.050 × 24 = **1.2 dm³** (1200 cm³).
 - **Limiting reactant** is decided by moles divided by coefficient, not by the smaller mass.
 - **Ratios of 1 : 1.5** in empirical formulae must be doubled to 2 : 3, not rounded.
 - **Significant figures:** usually three, matching the data.
+- **Units:** molar mass is in g/mol, but Mr has no units; give concentration units every time.
 
 ## Self-test
 
