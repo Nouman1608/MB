@@ -72,6 +72,8 @@ Related: [algebraic fractions study guide](/resources/cambridge-o-level-mathemat
 
 **4.** 36x²/(24x³) [1] = **3/(2x)** [1] **[2]**
 
+*Examiner insight:* x² divided by x³ leaves one x in the denominator, so the answer is 3/(2x), not 3x/2.
+
 **5.** 12ab/5 × 10/(3a²) [1] = 120ab/(15a²) = **8b/a** [1] **[2]**
 
 *Examiner insight:* Cancel before multiplying: 12 with 3 leaves 4, 10 with 5 leaves 2, and a with a² leaves a in the denominator, so 4 × 2 × b / a = 8b/a.
@@ -93,6 +95,8 @@ Related: [algebraic fractions study guide](/resources/cambridge-o-level-mathemat
 **10.** Numerator: ac = 6, sum 7 → 6 and 1, so 3x² + 6x + x + 2 = (3x + 1)(x + 2) [1]; denominator (3x − 1)(3x + 1) [1]; = **(x + 2)/(3x − 1)** [1] **[3]**
 
 **11.** Numerator 5(2 − x) = −5(x − 2) [1]; denominator (x + 3)(x − 2) [1]; = **−5/(x + 3)** [1] **[3]**
+
+*Examiner insight:* Check with x = 0: the original gives 10/(−6) = −5/3, and −5/3 matches the answer. A sign error would show up as +5/3.
 
 **12.** x² − 9 = (x − 3)(x + 3), so the common denominator is (x − 3)(x + 3) [1]. Numerator = 2(x − 3) − 12 [1] = 2x − 18 = 2(x − 9) [1]. Answer **2(x − 9)/[(x − 3)(x + 3)]** [1] **[4]**
 
