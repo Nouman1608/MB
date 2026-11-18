@@ -78,11 +78,6 @@ Earthquakes cannot be reliably predicted, so measures concentrate on preparation
   <figcaption>The focus is underground; the epicentre is directly above it on the surface.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--17-h-cyclone-formation-v2.webp" width="900" height="760" alt="A side view of a tropical cyclone over warm sea with a calm eye. Warm moist air from sea that is at least 27 degrees Celsius and at least 60 metres deep rises, cools and condenses, releasing heat that drives the storm. A spiral from above shows the spin that needs distance from the equator. Over land the storm loses its energy supply and weakens." loading="lazy">
-  <figcaption>A cyclone feeds on warm sea water and weakens over land or colder water.</figcaption>
-</figure>
-
 
 ## Tropical cyclones
 
@@ -100,7 +95,7 @@ Tropical cyclones, also called hurricanes or typhoons depending on the region, f
 Satellites and radar track storms, giving days of warning. Preparation includes evacuation plans, cyclone shelters, strengthened buildings, mangrove protection and coastal defences, and education so that people respond to warnings. Wealthier countries can invest in forecasting and sturdier infrastructure, while poorer countries often rely on community preparedness.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--17-h-cyclone-formation.webp" width="900" height="760" alt="A side view of a tropical cyclone over warm sea with a calm eye. Warm moist air from the sea (labelled at least 26.5 degrees Celsius, the textbook figure; the 0680 syllabus gives at least 27 degrees Celsius) rises, cools and condenses, releasing heat that drives the storm. A spiral from above shows the spin that needs distance from the equator. Over land the storm loses its energy supply and weakens." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--17-h-cyclone-formation-v2.webp" width="900" height="760" alt="A side view of a tropical cyclone over warm sea with a calm eye. Warm moist air from sea that is at least 27 degrees Celsius and at least 60 metres deep rises, cools and condenses, releasing heat that drives the storm. A spiral from above shows the spin that needs distance from the equator. Over land the storm loses its energy supply and weakens." loading="lazy">
   <figcaption>A cyclone feeds on warm sea water and weakens over land or colder water.</figcaption>
 </figure>
 
