@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "homeostasis-and-response-aqa-gcse-biology"
     subtopic: "plant-hormones-aqa-gcse-biology"
-description: "AQA GCSE Biology 8461 section 4.5.4 Plant hormones (Biology only): auxin in phototropism and gravitropism, required practical 8, gibberellins, ethene and their uses."
+description: "AQA GCSE Biology 8461 section 4.5.4 Plant hormones (Biology only): auxin and tropisms, required practical 8, gibberellins, ethene and their uses."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -115,6 +115,19 @@ a few days.
 The one-sided light shoots bend because auxin moved to the shaded side. Shoots in darkness are longest because
 they elongate rapidly when there is no light. A good **biological drawing** uses clear single lines, no shading,
 labels with ruled lines, and shows the angle of bending accurately.
+
+## Applying the auxin rules to unfamiliar data
+
+Examiners often describe an experiment you have not seen and ask you to explain it with the auxin rules.
+
+**Worked example** (invented data). Scientists measure the auxin in the two halves of a shoot tip lit from one
+side. The shaded half contains 65% of the auxin and the lit half 35%.
+
+> Auxin is unevenly distributed, with more on the shaded side [1]. In shoots auxin stimulates cell elongation, so
+> the shaded side grows faster [1]. The shoot therefore bends towards the light [1].
+
+If the same measurement were made with light from above, you would predict roughly equal amounts on each side and
+a straight shoot. Using the data first, then the rule, then the result, keeps the explanation in the right order.
 
 ## 4.5.4.2 Use of plant hormones (Higher tier only)
 

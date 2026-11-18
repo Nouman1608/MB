@@ -90,7 +90,7 @@ guard cell, leaf, shoot system, chloroplast, lower epidermis
 
 **6.** The organism is made of only one cell [1], so there are no groups of similar cells to form tissues, and so no tissues to form organs; the one cell carries out all life processes [1]. **[2]**
 
-**7. (a)** chloroplast → guard cell → lower epidermis → leaf → shoot system. All five correct [2]; one pair reversed [1]. **[2]** for (a).
+**7. (a)** chloroplast → guard cell → lower epidermis → leaf → shoot system [2] (one mark if a single pair is reversed).
 **(b)** Tissue [1], because it is a layer of similar cells working together to protect the leaf and allow gas exchange through its stomata [1]. **[4]**
 
 **8. (a)** It contains several different tissues [1] working together to carry out one function, digestion of food [1].
@@ -107,7 +107,7 @@ guard cell, leaf, shoot system, chloroplast, lower epidermis
 **11.** In a large organism most cells are far from the surface or from food and oxygen [1], so one cell type cannot carry out every life process efficiently [1]. Cells become specialised, with structures suited to one function [1], and grouping them into tissues, organs and systems lets each life process, such as transport or gas exchange, be carried out by structures adapted to it [1]. **[4]**
 
 **12. (a)** Any two: epidermis, xylem, phloem [1] [1].
-**(b)** Root hair cell [1]; mitochondrion [1], which releases energy by respiration for active transport of mineral ions; or nucleus, which controls the cell's activities [1].
+**(b)** Root hair cell [1]; mitochondrion, or nucleus [1]; the mitochondrion releases energy by respiration for active transport of mineral ions, or the nucleus controls the cell's activities [1].
 **(c)** The root system [1]. **[6]**
 
 ## Where marks are usually lost
