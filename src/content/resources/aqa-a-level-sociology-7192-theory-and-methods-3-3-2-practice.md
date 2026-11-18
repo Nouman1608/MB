@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-crime-deviance-theory-methods-7192"
     subtopic: "theory-and-methods-3-3-2-7192"
-description: "Twelve original AQA A-level Sociology 7192 questions on 3.3.2 Theory and Methods for Paper 3: theories, late modernity, science, values and policy, with answers."
+description: "Twelve original AQA A-level Sociology 7192 questions on 3.3.2 Theory and Methods for Paper 3: theories, late modernity, science, values and policy."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

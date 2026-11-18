@@ -101,3 +101,5 @@ Marking: راوی [1]؛ ایک معمولی واقعے کو [1]؛ کسی سنج�
 - **Evaluation:** a strong answer may agree that the humour carries real observation, while noting that some essays are closer to pure comedy; the conclusion should state how far the statement is true.
 
 At the top of the AO4 range, essays are compared rather than summarised one after another, and each claim is justified with appropriately selected evidence.
+
+**Model-answer outline (in Urdu):** opening that agrees in part and names the two or three essays to be discussed; paragraph 1 on the school-book parodies and their comment on education; paragraph 2 on **مُرید پُور کا پیر** and public life; paragraph 3 on the self-mocking narrator, arguing that his weaknesses are human as well as social; conclusion: **پطرس کا مزاح ہنساتا بھی ہے اور سوچنے پر مجبور بھی کرتا ہے، اگرچہ ہر مضمون میں طنز کی شدت ایک جیسی نہیں**.

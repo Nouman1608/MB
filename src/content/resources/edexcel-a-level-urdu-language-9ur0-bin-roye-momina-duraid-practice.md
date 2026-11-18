@@ -102,3 +102,5 @@ Marking: فلم سازوں نے [1]؛ جشن کے مناظر کو (accept خوش
 - **Conclusion:** a judgement on how far the film delivers the message in the statement.
 
 At the top of the AO4 range, each point is supported by a specific scene; at the top of the range grid, cinematic terms are used frequently and accurately.
+
+**Model-answer outline (in Urdu):** opening that states a qualified position on the statement; paragraph 1 on how Saba's silence creates the conflict, with a close-up or performance moment from your scene log; paragraph 2 on songs and the contrast between celebration and loss as the film's way of voicing hidden feeling; paragraph 3 on growth through grief, which qualifies the word **توڑ دیتا ہے**; conclusion: **فلم دکھاتی ہے کہ چھپائے ہوئے جذبات دکھ دیتے ہیں، مگر انسان اسی دکھ سے مضبوط بھی ہو سکتا ہے**.

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-biodiversity-and-conservation"
     subtopic: "ib-dp-environmental-systems-and-societies-3-1"
-description: "Study guide to IB DP ESS 3.1: sources of variation, natural selection in action, isolation mechanisms, adaptive radiation, plate tectonics and the five mass extinctions."
+description: "Study guide to IB DP ESS 3.1: sources of variation, natural selection in action, isolation, adaptive radiation, plate tectonics and mass extinctions."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

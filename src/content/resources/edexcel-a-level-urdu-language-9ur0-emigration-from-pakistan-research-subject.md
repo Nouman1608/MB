@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "theme-3-immigration-multicultural-society-9ur0"
     subtopic: "emigration-from-pakistan-research-subject-9ur0"
-description: "9UR0 research subject 3.3: political and economic causes, emigration of the highly educated and returnees' positive effects, with a Section C plan and model paragraph."
+description: "9UR0 research subject 3.3: causes of emigration, the highly educated who leave and returnees' positive effects, with a Section C plan and model paragraph."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

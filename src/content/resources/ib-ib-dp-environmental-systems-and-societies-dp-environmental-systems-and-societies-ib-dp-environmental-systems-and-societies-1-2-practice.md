@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-foundation"
     subtopic: "ib-dp-environmental-systems-and-societies-1-2"
-description: "Twelve original IB DP ESS questions on 1.2 Systems: Sankey diagrams, residence time, feedback chains, tipping points, resilience and models, with marked answers."
+description: "Twelve original IB DP ESS questions on 1.2 Systems: Sankey diagrams, residence time, feedback, tipping points, resilience and models, with marked answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

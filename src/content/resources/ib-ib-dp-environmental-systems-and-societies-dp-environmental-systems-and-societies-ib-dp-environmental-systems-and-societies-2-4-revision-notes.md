@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-ecology"
     subtopic: "ib-dp-environmental-systems-and-societies-2-4"
-description: "Condensed IB DP ESS 2.4 notes: climate graph method, biome diagrams, limiting factors and adaptations, aquatic biomes, lapse rate and biome shifts, with a self-test."
+description: "Condensed IB DP ESS 2.4 notes: climate graph method, limiting factors and adaptations, aquatic biomes, lapse rate and biome shifts, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

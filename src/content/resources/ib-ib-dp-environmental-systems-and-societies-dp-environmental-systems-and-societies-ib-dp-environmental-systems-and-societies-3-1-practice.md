@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-biodiversity-and-conservation"
     subtopic: "ib-dp-environmental-systems-and-societies-3-1"
-description: "Twelve original IB DP ESS questions on 3.1: variation, natural selection data, resistance, isolation, adaptive radiation and mass extinctions, with marked answers."
+description: "Twelve original IB DP ESS questions on 3.1: variation, natural selection data, resistance, isolation and mass extinctions, with marked answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

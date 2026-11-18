@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-biodiversity-and-conservation"
     subtopic: "ib-dp-environmental-systems-and-societies-3-1"
-description: "Condensed IB DP ESS 3.1 notes: genetic diversity, variation, natural selection examples, isolation, adaptive radiation, plate tectonics and mass extinctions, with a self-test."
+description: "Condensed IB DP ESS 3.1 notes: genetic diversity, natural selection examples, isolation, adaptive radiation and mass extinctions, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -104,6 +104,17 @@ separate species, without any physical barrier: sympatric speciation.
 | Gondwana | Southern supercontinent that broke apart |
 | Mass extinction | Loss of a large share of species in a geologically short time |
 | Background extinction rate | Normal rate of extinction between mass extinctions |
+
+## Must-know distinctions
+
+- **Variation vs adaptation:** differences between individuals vs an inherited feature that improves
+  survival in a particular environment.
+- **Geographical vs reproductive isolation:** a physical barrier vs differences in timing, behaviour
+  or anatomy within one area.
+- **Speciation vs adaptive radiation:** formation of any new species vs rapid diversification of one
+  ancestor into many species filling different niches.
+- **Background extinction vs mass extinction:** the normal low rate of loss vs a large share of
+  species lost in a geologically short time.
 
 ## Exam traps
 

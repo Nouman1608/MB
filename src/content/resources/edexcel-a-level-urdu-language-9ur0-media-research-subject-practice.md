@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "theme-2-art-and-culture-urdu-speaking-world-9ur0"
     subtopic: "media-research-subject-9ur0"
-description: "Eleven original 9UR0 practice questions on the media research subject, from the one-area rule and vocabulary to a full Section C task with a general unseen text."
+description: "Eleven original 9UR0 practice questions on the media research subject, from the one-area rule to a full Section C task with a general unseen text."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

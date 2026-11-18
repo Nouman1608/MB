@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-ecology"
     subtopic: "ib-dp-environmental-systems-and-societies-2-3"
-description: "Condensed IB DP ESS 2.3 notes: fast and slow carbon, ocean pumps, peat and permafrost, sink or source budgets, nitrogen processes and management, with a self-test."
+description: "Condensed IB DP ESS 2.3 notes: fast and slow carbon, ocean pumps, peat and permafrost, carbon budgets, nitrogen processes and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -102,6 +102,18 @@ hectare each year.
 | Denitrification | Conversion of nitrate back to nitrogen gas |
 | Leaching | Removal of soluble nutrients from soil by water |
 | Buffer strip | Vegetated strip that intercepts run-off before it reaches water |
+
+## Must-know distinctions
+
+- **Storage vs flow:** a stock of an element (atmosphere, biomass) vs its movement between stocks
+  (photosynthesis, combustion).
+- **Sink vs source:** net uptake vs net release over a stated period.
+- **Solubility pump vs biological pump:** physical dissolving and sinking of cold water vs carbon
+  fixed by phytoplankton sinking as organic matter.
+- **Nitrification vs denitrification:** ammonium to nitrate in aerated soil vs nitrate to nitrogen
+  gas in waterlogged soil.
+- **Fixation vs assimilation:** N₂ made usable by bacteria or industry vs nitrate and ammonium taken
+  up by plants to build proteins.
 
 ## Exam traps
 

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "prescribed-literary-texts-and-films-9ur0"
     subtopic: "bin-roye-momina-duraid-9ur0"
-description: "9UR0 study guide to the film Bin Roye (بن روئے): analysing film technique in Urdu, a scene log for revision, and an annotated plan for a 45-mark Section C essay."
+description: "9UR0 study guide to the film Bin Roye (بن روئے): analysing film technique in Urdu, a scene log for revision and an annotated 45-mark Section C plan."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

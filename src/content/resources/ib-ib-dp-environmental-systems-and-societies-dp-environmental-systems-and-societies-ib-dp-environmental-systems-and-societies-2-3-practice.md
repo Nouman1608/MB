@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-ecology"
     subtopic: "ib-dp-environmental-systems-and-societies-2-3"
-description: "Twelve original IB DP ESS questions on 2.3: ocean uptake, acidification, carbon and nitrogen budgets, residence time and managing the cycles, with marked answers."
+description: "Twelve original IB DP ESS questions on 2.3: ocean uptake, acidification, carbon and nitrogen budgets and residence time, with marked answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

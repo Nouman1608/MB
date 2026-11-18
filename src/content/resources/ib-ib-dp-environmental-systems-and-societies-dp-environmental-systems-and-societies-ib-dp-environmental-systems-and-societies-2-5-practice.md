@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-ecology"
     subtopic: "ib-dp-environmental-systems-and-societies-2-5"
-description: "Twelve original IB DP ESS questions on 2.5: transects, altitudinal zonation, dune succession, old-field change and disturbance and diversity, with marked answers."
+description: "Twelve original IB DP ESS questions on 2.5: transects, altitudinal zonation, dune succession, old-field change and disturbance, with marked answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

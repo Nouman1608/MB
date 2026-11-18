@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "theme-4-aspects-of-pakistani-politics-9ur0"
     subtopic: "environmental-issues-pakistan-research-subject-9ur0"
-description: "9UR0 research subject 4.3: government action on climate and pollution, disaster measures and foreign aid agencies, with research planning and Section C technique."
+description: "9UR0 research subject 4.3: government action on climate and pollution, disaster measures and foreign aid agencies, with Section C research planning."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

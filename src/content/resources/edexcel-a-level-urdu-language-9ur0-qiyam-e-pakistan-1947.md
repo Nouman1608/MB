@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "theme-4-aspects-of-pakistani-politics-9ur0"
     subtopic: "qiyam-e-pakistan-1947-9ur0"
-description: "9UR0 sub-theme 4.1 study guide: political effects of 1947, social effects of partition and the evolution of democracy, with dated timelines and translation work."
+description: "9UR0 sub-theme 4.1 study guide: political effects of 1947, social effects of partition and the evolution of democracy, with a timeline and translation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

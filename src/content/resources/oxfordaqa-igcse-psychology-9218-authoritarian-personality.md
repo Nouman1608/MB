@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-social-context-and-behaviour-9218"
     subtopic: "social-influences-9218"
-description: "Study guide to dispositional explanations of obedience and Adorno's Authoritarian Personality for OxfordAQA IGCSE Psychology 9218, with evaluation and a model answer."
+description: "Study guide to dispositional obedience and Adorno's Authoritarian Personality for OxfordAQA IGCSE Psychology 9218, with evaluation and a model answer."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

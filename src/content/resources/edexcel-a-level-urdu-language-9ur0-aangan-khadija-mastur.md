@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "prescribed-literary-texts-and-films-9ur0"
     subtopic: "aangan-khadija-mastur-9ur0"
-description: "9UR0 study guide to Aangan (آنگن): the five features examiners reward, the essay grids, an annotated model introduction and a plan for a 45-mark Section B essay."
+description: "9UR0 study guide to Aangan (آنگن): the five features examiners reward, the essay grids, an annotated model introduction and a 45-mark Section B plan."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

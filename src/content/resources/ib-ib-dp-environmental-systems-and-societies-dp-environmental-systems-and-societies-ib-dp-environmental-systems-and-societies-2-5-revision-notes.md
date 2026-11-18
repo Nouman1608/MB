@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-ecology"
     subtopic: "ib-dp-environmental-systems-and-societies-2-5"
-description: "Condensed IB DP ESS 2.5 notes: zonation gradients, transects and kite diagrams, psammosere and hydrosere stages, succession mechanisms and disturbance, with a self-test."
+description: "Condensed IB DP ESS 2.5 notes: zonation gradients, transects and kite diagrams, dune and hydrosere stages, succession and disturbance, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -106,6 +106,15 @@ by drying and below by competition from seaweeds and predation.
 | Edaphic climax | Stable end community set by local soil or drainage |
 | Plagioclimax | Community held below climax by human activity |
 | Intermediate disturbance hypothesis | Diversity is highest at moderate levels of disturbance |
+
+## Must-know distinctions
+
+- **Primary vs secondary succession:** begins with no soil vs begins where soil remains.
+- **Pioneer vs climax species:** tolerant, fast-colonising r-strategists vs long-lived, competitive
+  K-strategists.
+- **Line vs belt transect:** species touching the tape vs abundance in adjacent quadrats along it.
+- **Climatic vs edaphic climax vs plagioclimax:** set by climate vs set by soil or drainage vs held by
+  human activity.
 
 ## Exam traps
 

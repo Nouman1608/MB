@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-ecology"
     subtopic: "ib-dp-environmental-systems-and-societies-2-3"
-description: "Study guide to IB DP ESS 2.3: ocean carbon pumps, peat and permafrost, ecosystem carbon budgets, a farm nitrogen budget and managing human impacts on both cycles."
+description: "Study guide to IB DP ESS 2.3: ocean carbon pumps, peat and permafrost, carbon sink budgets, a farm nitrogen budget and managing human impacts."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

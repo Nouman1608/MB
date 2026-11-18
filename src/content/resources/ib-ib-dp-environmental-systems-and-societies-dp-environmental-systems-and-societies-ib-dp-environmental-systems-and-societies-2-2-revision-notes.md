@@ -105,6 +105,15 @@ transfer is 48 ÷ 640 × 100 = **7.5%**.
 | Bioaccumulation | Build-up of a substance in an organism over time |
 | Biomagnification | Increasing concentration of a substance up a food chain |
 
+## Must-know distinctions
+
+- **GPP vs NPP:** all energy fixed by producers vs what remains after their own respiration.
+- **GSP vs NSP:** energy assimilated by consumers vs what remains as new consumer biomass.
+- **Egestion vs excretion:** undigested food leaving as faeces vs metabolic waste such as urea.
+- **Pyramid of biomass vs productivity:** standing stock at one moment, which can be inverted, vs
+  energy flow over time, which never is.
+- **Bioaccumulation vs biomagnification:** build-up within one organism vs increase up a food chain.
+
 ## Exam traps
 
 - **Energy is not used up.** Write "transformed to heat" or "lost as heat".

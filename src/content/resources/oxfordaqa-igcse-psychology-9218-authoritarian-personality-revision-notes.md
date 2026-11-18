@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-social-context-and-behaviour-9218"
     subtopic: "social-influences-9218"
-description: "Condensed notes on Adorno's Authoritarian Personality and dispositional obedience for OxfordAQA IGCSE Psychology 9218: traits, upbringing, evaluation and a self-test."
+description: "Condensed notes on Adorno's Authoritarian Personality for OxfordAQA IGCSE Psychology 9218: traits, upbringing, evaluation, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

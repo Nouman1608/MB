@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "prescribed-literary-texts-and-films-9ur0"
     subtopic: "bisaat-basir-kazmi-9ur0"
-description: "Eleven original 9UR0 practice questions on the play Bisaat: drama terms, the title, scene analysis, analytical Urdu and a 45-mark essay with indicative approach."
+description: "Eleven original 9UR0 practice questions on the play Bisaat: drama terms, the title, scene analysis, analytical Urdu and a 45-mark essay approach."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

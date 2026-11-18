@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-social-context-and-behaviour-9218"
     subtopic: "social-influences-9218"
-description: "Condensed notes on crowd behaviour for OxfordAQA IGCSE Psychology 9218: social loafing, deindividuation, culture, personality, morality, exam traps and a self-test."
+description: "Condensed notes on crowd behaviour for OxfordAQA IGCSE Psychology 9218: social loafing, deindividuation, culture, personality, morality and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
@@ -84,6 +84,16 @@ for conformity and obedience, see the
 - Reduce **arousal**: limit alcohol; manage noise and crowding.
 - Build a **shared prosocial identity**: clear positive norms set by organisers or community leaders.
 - Make individual **contributions visible** in group tasks to reduce loafing.
+
+## Prosocial or antisocial? Reading a scenario
+
+| Scenario detail | Factor | Likely direction |
+|---|---|---|
+| Masks, hoods, darkness, huge crowd | Deindividuation (anonymity) | Antisocial, unless norms are prosocial |
+| Loud music, alcohol, excitement | Deindividuation (arousal) | Antisocial |
+| "Everyone assumed someone else would help" | Social loafing | Less prosocial action |
+| A charity event with shared positive aims | Culture / group norms | Prosocial |
+| One person refuses to join in | Personality or morality | Resists the crowd |
 
 ## Evaluation points
 

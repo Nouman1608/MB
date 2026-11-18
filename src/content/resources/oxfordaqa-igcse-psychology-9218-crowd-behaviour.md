@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-social-context-and-behaviour-9218"
     subtopic: "social-influences-9218"
-description: "Study guide to crowd behaviour in OxfordAQA IGCSE Psychology 9218: social loafing, deindividuation, culture, personality and morality, with research and a model answer."
+description: "Study guide to crowd behaviour for OxfordAQA IGCSE Psychology 9218: social loafing, deindividuation, culture, personality and morality, with a model answer."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

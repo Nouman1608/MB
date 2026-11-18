@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "theme-4-aspects-of-pakistani-politics-9ur0"
     subtopic: "jagirdari-nizam-feudal-system-9ur0"
-description: "9UR0 sub-theme 4.2 study guide: the feudal system's political and social effects in rural Pakistan and urban-rural political contrasts, with comparison language."
+description: "9UR0 sub-theme 4.2 study guide: the feudal system's political and social effects in rural Pakistan and urban-rural contrasts, with comparison language."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

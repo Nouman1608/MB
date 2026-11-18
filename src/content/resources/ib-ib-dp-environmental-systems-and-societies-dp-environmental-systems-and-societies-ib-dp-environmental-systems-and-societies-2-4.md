@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-ecology"
     subtopic: "ib-dp-environmental-systems-and-societies-2-4"
-description: "Study guide to IB DP ESS 2.4: reading climate graphs, limiting factors and adaptations in each biome, aquatic biomes, altitude and lapse rate, and shifting biomes."
+description: "Study guide to IB DP ESS 2.4: reading climate graphs, limiting factors and adaptations by biome, aquatic biomes, lapse rate and shifting biomes."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

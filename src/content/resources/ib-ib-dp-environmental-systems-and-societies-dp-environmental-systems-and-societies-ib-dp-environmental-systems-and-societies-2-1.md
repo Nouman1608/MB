@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-ecology"
     subtopic: "ib-dp-environmental-systems-and-societies-2-1"
-description: "Study guide to IB DP ESS 2.1: identifying species, tolerance and limiting factors, population regulation, r and K strategies and sampling design, with worked data."
+description: "Study guide to IB DP ESS 2.1: identifying species, tolerance and limiting factors, population regulation, r and K strategies and sampling design."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
