@@ -183,9 +183,9 @@ Marks: heading and opening balances with total $195,500 [1]; shares issued $50,0
 
 *Examiner insight:* Deducting only the $1,750 paid gives $54,650 and loses the finance-cost mark; the charge is always the full year's interest.
 
-**9. (a)** Any two, each explained: limited liability [1], so the partners would not risk their homes if the expansion failed [1]; more capital can be raised by issuing shares to other investors [1], which could provide the $200,000 without relying only on their savings [1]; continuity, as the company carries on if a shareholder dies or leaves [1], giving lenders and customers more confidence [1].
+**9. (a)** Any two, each explained: limited liability [1], so the partners would not risk their homes if the expansion failed [1]; more capital can be raised by issuing shares to other investors [1], which could provide the $200,000 without relying only on their savings [1]; continuity, as the company carries on if a shareholder dies or leaves, giving lenders and customers more confidence.
 
-**(b)** Any two, each explained: setting up costs more and needs legal formalities [1], which uses money they need for the workshop [1]; accounts must follow legal rules and may be available to the public [1], so competitors could see their results [1]; if new shareholders join, profit is shared more widely [1] and Selina and Tariq could lose some control [1].
+**(b)** Any two, each explained: setting up costs more and needs legal formalities [1], which uses money they need for the workshop [1]; accounts must follow legal rules and may be available to the public [1], so competitors could see their results [1]; if new shareholders join, profit is shared more widely and Selina and Tariq could lose some control.
 
 **(c)** A justified decision, for example: they should convert [1], because borrowing or investing $200,000 is a large risk and limited liability protects their personal assets, which outweighs the extra cost [1]. Also credit a reasoned decision not to convert, for example if they wish to keep full control and can fund the expansion themselves. **[10]**
 

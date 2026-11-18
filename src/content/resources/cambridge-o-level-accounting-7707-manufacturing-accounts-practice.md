@@ -228,4 +228,4 @@ Marks: three inventories at closing values [1]; allowance $1,120 [1]; net trade 
 
 **12. (a)** The factory cost of production rises by the office share, 27,000 x 1/3 = $9,000 [1], so cost of sales rises and gross profit falls by $9,000 [1]. Office expenses fall by the same $9,000, so the profit for the year is unchanged [1].
 
-**(b)** Any one, explained: the factory cost of production would overstate the cost of making the bread [1], so decisions based on it, such as setting selling prices, would be wrong [1]; the gross profit margin would be understated [1], misleading users comparing it with other years or bakeries [1]. **[5]**
+**(b)** Any one, explained: the factory cost of production would overstate the cost of making the bread [1], so decisions based on it, such as setting selling prices, would be wrong [1]; the gross profit margin would be understated, misleading users comparing it with other years or bakeries. **[5]**

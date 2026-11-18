@@ -81,6 +81,13 @@ Less expenses (adjusted for accruals and prepayments; depreciation;
 **Service business:** no cost of sales; start with fees or income
 earned, add other income, deduct expenses.
 
+**Combination business:** a phone shop that also repairs phones shows
+phone sales in the revenue and cost of sales section to reach gross profit,
+then adds repair fees as other income before deducting expenses.
+
+**Manufacturing business:** the cost of production from the manufacturing
+account takes the place of purchases in cost of sales.
+
 ## Statement of financial position skeleton
 
 ```

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "operations-management-0264"
     subtopic: "sustainable-production-of-goods-and-services-0264"
-description: "Study guide to section 4.3 of Cambridge IGCSE Business 0264: six ways to produce more sustainably, applied to goods and services, with costs weighed against gains."
+description: "Study guide to section 4.3 of Cambridge IGCSE Business 0264: six ways to produce more sustainably, applied to goods and services, with costs and gains."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

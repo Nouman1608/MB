@@ -129,11 +129,11 @@ Suppliers allow Thornbury 45 days' credit.
 
 **(b)** Subscriptions = 12,800 x 1.2 = $15,360 [1]. Result = 15,360 + 2,100 - 17,300 = **surplus of $160** [1].
 
-**(c)** Any two, each explained: the accumulated fund and bank balance [1], to see whether reserves can cover a deficit without a rise [1]; the breakdown of expenditure [1], to see whether any costs, such as boat repairs, could be cut instead [1]; whether membership numbers might fall if fees rise [1], which would reduce the expected income [1]; previous years' results [1], to see whether the deficit is a one-off [1]. **[7]**
+**(c)** Any two, each explained: the accumulated fund and bank balance [1], to see whether reserves can cover a deficit without a rise [1]; the breakdown of expenditure [1], to see whether any costs, such as boat repairs, could be cut instead [1]; whether membership numbers might fall if fees rise, which would reduce the expected income; previous years' results, to see whether the deficit is a one-off. **[7]**
 
 **10. (a)** It uses the profit shown to calculate or check the tax the company must pay [1], and checks that income has not been left out of the records [1].
 
-**(b)** Any one, explained: to judge whether the company is likely to continue [1], so that local jobs and the town's economy are secure [1]; for national statistics on output and wages [1], which help in setting policy [1].
+**(b)** Any one, explained: to judge whether the company is likely to continue [1], so that local jobs and the town's economy are secure [1]; for national statistics on output and wages, which help in setting policy.
 
 **(c)** Any one: spending on pollution control or waste disposal; environmental fines; plans to close or expand the mill [1]. **[5]**
 

@@ -215,6 +215,6 @@ Total accumulated fund and liabilities                   6,830
 
 Marks: equipment $4,200 [1]; current assets $2,630 [1]; accumulated fund heading and opening balance [1]; surplus added, $6,630 [1]; hall hire owing as a current liability [1]; both totals $6,830 [1]. **[7]**
 
-**12. (a)** Any two, each explained: depreciation is expenditure that involves no payment [1], so it creates part of the deficit without reducing the bank [1]; expenses owing at the year end are charged but not yet paid [1], so the cash has not yet left [1]; subscriptions received in advance for next year increase the bank [1] but are not this year's income [1]; a loan was received [1], which increases the bank but is a liability, not income [1].
+**12. (a)** Any two, each explained: depreciation is expenditure that involves no payment [1], so it creates part of the deficit without reducing the bank [1]; expenses owing at the year end are charged but not yet paid [1], so the cash has not yet left [1]; subscriptions received in advance for next year increase the bank but are not this year's income; a loan was received, which increases the bank but is a liability, not income.
 
-**(b)** Any two: raise the subscription [1]; increase café or event prices, or hold more fund-raising events [1]; reduce running costs, such as hall hire [1]. **[6]**
+**(b)** Any two: raise the subscription [1]; increase café or event prices, or hold more fund-raising events [1]; reduce running costs, such as hall hire. **[6]**

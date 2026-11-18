@@ -52,6 +52,16 @@ These notes condense section **6.4 Interested parties** of the Cambridge O Level
 
 **Party + decision + figure + reason.** "A bank deciding on an overdraft would look at the acid test ratio, because a ratio below 1 : 1 suggests the business may struggle to repay on time."
 
+## One set of figures, read three ways
+
+A company's acid test ratio falls from 1.10 : 1 to 0.60 : 1 while its dividend doubles.
+
+- **A supplier** reads the acid test and its payables days and may cut the credit limit.
+- **A bank** reads the same fall as a risk to repayment and may ask for security or refuse an overdraft.
+- **A shareholder** welcomes the higher dividend but should note that paying it used cash the company was short of.
+
+The figures are the same; the decision each party makes is different. Name the party, the figure and the decision every time.
+
 ## Conflicts of interest
 
 - Shareholders want dividends; lenders want cash kept for repayment.

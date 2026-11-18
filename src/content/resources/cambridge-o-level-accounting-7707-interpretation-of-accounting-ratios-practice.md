@@ -153,7 +153,7 @@ Marks: gross profit both years [1]; profit both years [1]; dollar changes [1]; p
 
 **9. (a)** In 2028 the café has only $0.60 of liquid assets for each $1 of current liabilities, down from $1.20 [1], so it may not be able to pay its current liabilities on time without selling inventory [1].
 
-**(b)** Any two, each explained: inventory increased, shown by inventory days rising from 18 to 31 [1], so money is tied up in food and drink that may spoil [1]; cash was used to buy non-current assets such as kitchen equipment [1], reducing liquid assets [1]; current liabilities rose, for example a bank overdraft or more owed to suppliers [1], which lowers both ratios [1].
+**(b)** Any two, each explained: inventory increased, shown by inventory days rising from 18 to 31 [1], so money is tied up in food and drink that may spoil [1]; cash was used to buy non-current assets such as kitchen equipment [1], reducing liquid assets [1]; current liabilities rose, for example a bank overdraft or more owed to suppliers, which lowers both ratios.
 
 **(c)** Any two: order inventory in smaller amounts more often [1]; reduce drawings [1]; arrange a long-term loan instead of an overdraft; sell unused equipment. **[8]**
 

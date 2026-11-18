@@ -179,6 +179,6 @@ Marks: assets including the prepayment [1]; total assets $18,490 [1]; liabilitie
 
 **(c)** 14,000 / 105,000 x 365 [1] = **48.67 days** [1]. **[5]**
 
-**12. (a)** Any two, each explained: a trial balance can be drawn up [1], so errors are found before the statements are prepared [1]; a full statement of profit or loss and statement of financial position can be prepared [1], which the bank needs before it will lend [1]; better control of receivables and payables [1], so Leon can chase slow customers and avoid missing supplier payments [1]; inventory and cash losses are noticed sooner [1] because the records show what should be held [1].
+**12. (a)** Any two, each explained: a trial balance can be drawn up [1], so errors are found before the statements are prepared [1]; a full statement of profit or loss and statement of financial position can be prepared [1], which the bank needs before it will lend [1]; better control of receivables and payables, so Leon can chase slow customers and avoid missing supplier payments; inventory and cash losses are noticed sooner because the records show what should be held.
 
 **(b)** Leon should change, or employ a book-keeper [1], because the $15,000 loan depends on full statements and the extra time or cost is small against the benefit of the loan (also credit a justified case for rebuilding one year's statements through an accountant instead) [1]. **[6]**
