@@ -3,7 +3,7 @@ title: "Cambridge International AS & A Level Biology (9700): Evolution -- Practi
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]
-topic: "Selection and evolution"
+topic: "Topic 17 – Selection and evolution"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9700"]

@@ -84,6 +84,8 @@ Use σ = 5.67 × 10⁻⁸ W m⁻² K⁻⁴ and λ_max T = 2.9 × 10⁻³ m K whe
 
 **13.** The luminosity of a star is known exactly, but its surface temperature is found with an uncertainty of ±4 %. Determine the percentage uncertainty in the calculated radius. **[2]**
 
+**14.** Star P appears red and star Q appears blue-white. The two stars have the same radius. State and explain which star has the greater luminosity. **[2]**
+
 ---
 
 ## Answers
@@ -125,6 +127,8 @@ Use σ = 5.67 × 10⁻⁸ W m⁻² K⁻⁴ and λ_max T = 2.9 × 10⁻³ m K whe
 **12.** The intensity increases at every wavelength (the curve lies higher everywhere) [1]; the peak moves to a shorter wavelength, halving from about 725 nm to about 363 nm [1]; the total power (area under the curve) increases by a factor of 2⁴ = 16 [1].
 
 **13.** r ∝ T⁻² when L is fixed [1], so the percentage uncertainty in r is 2 × 4 % = ±8 % [1].
+
+**14.** Star Q is more luminous [1]: its spectrum peaks at a shorter wavelength, so by Wien's law its surface temperature is higher, and with equal radii L ∝ T⁴ [1].
 
 ---
 

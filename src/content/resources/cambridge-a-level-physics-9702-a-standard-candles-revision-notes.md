@@ -74,6 +74,10 @@ same L:  F₁/F₂ = (d₂/d₁)²    so    d₂ = d₁ √(F₁/F₂)
 - Cepheid calibrated at 1.5 × 10¹⁹ m with F = 3.0 × 10⁻¹¹ W m⁻²; same-period Cepheid with F = 1.2 × 10⁻¹⁷ W m⁻² is at 2.4 × 10²² m.
 - 20 % of the radiation absorbed: calculated distance is 1/√0.80 = 1.12 times the true value (12 % too large).
 
+## Ratio method in one line
+
+Two objects of the same luminosity: the one with 100 times less flux is 10 times farther away, because d ∝ 1/√F. Write d₂ = d₁√(F₁/F₂) with the brighter object as object 1, so the square root is greater than 1.
+
 ## Key terms
 
 | Term | Meaning |

@@ -73,6 +73,13 @@ d = v / H₀        v = c Δλ / λ
 | d = 3.0 × 10²⁴ m, 656.3 nm line | v = 6.9 × 10⁶ m s⁻¹; observed at 671.4 nm |
 | f falls from 4.57 to 4.48 × 10¹⁴ Hz | v = 5.9 × 10⁶ m s⁻¹, receding |
 
+## Method for redshift-distance questions
+
+1. Δλ = observed − laboratory wavelength (positive: receding).
+2. v = c × Δλ/λ, dividing by the laboratory wavelength.
+3. d = v/H₀ with v in m s⁻¹ and H₀ in s⁻¹, giving d in metres.
+4. To predict another line, multiply its laboratory wavelength by (1 + Δλ/λ).
+
 ## Key terms
 
 | Term | Meaning |

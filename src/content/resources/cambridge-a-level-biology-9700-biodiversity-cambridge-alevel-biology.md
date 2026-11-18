@@ -3,7 +3,7 @@ title: "Cambridge International AS & A Level Biology (9700): Biodiversity"
 resourceType: "study-guides"
 subject: "biology"
 level: ["a-levels"]
-topic: "Classification, biodiversity and conservation"
+topic: "Topic 18 – Classification, biodiversity and conservation"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9700"]
@@ -40,8 +40,6 @@ The [Classification, biodiversity and conservation study guide](/resources/a-lev
 
 - An **ecosystem** is a relatively self-contained, interacting community of organisms, together with the environment in which they live and with which they interact. A rock pool, a lake and a forest are all ecosystems.
 - A **niche** is the role of a species in an ecosystem: where it lives, what it feeds on, what feeds on it, when it is active, and how it interacts with other organisms and with abiotic factors.
-
-Two species cannot occupy exactly the same niche in the same place for long; one will out-compete the other. This links niche to competition in section 18.3.
 
 ## Three levels of biodiversity (18.2.2)
 
@@ -151,8 +149,6 @@ A strong negative correlation: bare ground decreases with distance from the path
 - **Close to 0**: low diversity: few species, or one or two species dominate.
 
 Evenness matters as well as richness. Two ponds each have two species of 50 individuals in total. Pond A has 25 and 25: D = 1 − (0.25 + 0.25) = **0.50**. Pond B has 45 and 5: D = 1 − (0.81 + 0.01) = **0.18**. Same richness, different diversity.
-
-Comparisons of D are only fair when samples are taken by the same method, with similar effort, at the same time of year.
 
 ## Common mistakes
 

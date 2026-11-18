@@ -83,6 +83,14 @@ Fraction transmitted = 1 − I_R/I₀.
 - Echo fraction = (reflection coefficient) × (attenuation factor): **multiply**, do not add.
 - Thickness that halves the intensity: x = ln 2 / μ (for μ = 23 m⁻¹, about 3.0 cm).
 
+## Calculation chain for an echo
+
+1. Z = ρc for each tissue (if not given).
+2. Reflection coefficient at the boundary from the two Z values.
+3. Attenuation factor e^(−μ × 2x) for the journey there and back.
+4. Echo intensity = I₀ × reflection coefficient × attenuation factor.
+5. Depth from the echo time: d = ct/2.
+
 ## Key terms
 
 | Term | Meaning |

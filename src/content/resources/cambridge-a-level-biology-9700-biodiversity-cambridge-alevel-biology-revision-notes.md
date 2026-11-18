@@ -3,7 +3,7 @@ title: "Cambridge International AS & A Level Biology (9700): Biodiversity -- Rev
 resourceType: "revision-notes"
 subject: "biology"
 level: ["a-levels"]
-topic: "Classification, biodiversity and conservation"
+topic: "Topic 18 – Classification, biodiversity and conservation"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9700"]
