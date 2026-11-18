@@ -100,7 +100,7 @@ This set covers section 3.1 (The nature of marketing) only. All businesses and f
 
 **11.** **(a)** Benefit = 400 × 90 = $36 000 [1]. Net gain = 36 000 − 30 000 = $6 000 [1].
 
-**(b)** Any one, explained. The forecast of 400 retained customers may be optimistic [1], and if only 300 stay the scheme would make a loss of $3 000. Allow data protection duties, customers belonging to rival schemes, or extra benefits such as customer data used for promotions [1].
+**(b)** Any one, explained. The forecast of 400 retained customers may be optimistic [1]; if only 300 stay, the benefit is $27 000 and the app makes a loss of $3 000 [1]. Allow data protection duties, customers belonging to rival schemes, or extra benefits such as customer data used for promotions.
 
 **12.** For the move: the mass market offers far higher sales volume [1], which could bring economies of scale and lower unit costs [1]; dependence on a small group of enthusiasts is risky if their tastes change [1].
 Against the move: mass-market wireless speakers face intense competition from large brands with big promotion budgets [1]; prices and margins are much lower, so Lindqvist would need high volumes to make the same contribution [1]; its brand reputation for high-end quality could be damaged by cheaper products [1]; it may lack the production capacity and distribution needed [1].
