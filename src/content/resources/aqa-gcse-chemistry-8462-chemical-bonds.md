@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "chemical-bonds-8462"
 description: "AQA GCSE Chemistry 8462 section 4.2.1.1 in depth: choosing ionic, covalent or metallic bonding and explaining each with electrostatic forces."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

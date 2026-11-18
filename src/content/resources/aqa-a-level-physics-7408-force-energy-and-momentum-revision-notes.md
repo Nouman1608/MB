@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "force-energy-and-momentum"
 description: "Condensed AQA 7408 notes on section 3.4.1: vectors, moments, suvat and graphs, projectiles, Newton's laws, momentum, work, power and energy, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

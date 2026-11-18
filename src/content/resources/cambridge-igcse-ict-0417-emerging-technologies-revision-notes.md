@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "emerging-technologies-0417"
 description: "Condensed notes on the everyday impact of AI, virtual reality and augmented reality, with exam traps, for Cambridge IGCSE ICT 0417 section 1.5."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "theory-and-methods-3-1-3-7192"
 description: "Study guide to AQA A-level Sociology 7192 section 3.1.3 for Paper 1: research design, sampling, each method in depth, PET factors and the 10-mark question."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

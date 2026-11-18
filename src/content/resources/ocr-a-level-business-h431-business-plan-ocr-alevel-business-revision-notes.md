@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-plan-ocr-alevel-business"
 description: "Revision notes on the business plan for OCR A Level Business H431: purposes, contents by reader, Plan-Do-Review, strategic review and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

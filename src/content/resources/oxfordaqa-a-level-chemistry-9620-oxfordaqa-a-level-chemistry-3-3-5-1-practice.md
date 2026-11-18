@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-3-5-1"
 description: "Original OxfordAQA 9620 questions on oxidising alcohols: classification, [O] and redox equations, distil or reflux, carbonyl tests and deductions, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

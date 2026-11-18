@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-energy-levels-in-atoms-and-line-spectra"
 description: "A focused guide to 22.4 Energy levels and line spectra in Cambridge A Level Physics 9702: discrete levels, emission and absorption spectra and hf = E₁ − E₂."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

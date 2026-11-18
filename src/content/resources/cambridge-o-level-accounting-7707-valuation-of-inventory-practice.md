@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "valuation-of-inventory"
 description: "Original practice questions with full answers on cost, net realisable value, count adjustments and inventory errors for Cambridge O Level Accounting 7707."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "costs-and-revenue-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to costs and revenue: fixed, variable and average costs, total and average revenue, profit and PED."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification names PED and a firm's total revenue but lists cost, revenue and profit calculation as an A Level (H460) skill, so a teacher should confirm how much of this subtopic the AS course examines."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "The current H060 specification names PED and a firm's total revenue but lists cost, revenue and profit calculation as an A Level (H460) skill, so a teacher should confirm how much of this subtopic the AS course examines."
 ---
 
 This guide covers **Costs and revenue** for the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 01, Microeconomics. Check the scope with your teacher: in the current version of the specification the AS content names "the relationship between PED and a firm's total revenue" in the Elasticity topic and asks you to explain productive efficiency, which depends on average cost, while the full treatment of cost and revenue calculation sits in the A Level (H460) topics on costs and on revenue and profit. This guide teaches the cost and revenue ideas that the AS topics rely on. All firms and figures are invented.

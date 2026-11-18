@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "direct-and-inverse-proportion-ocr-gcse-maths"
 description: "Condensed OCR GCSE Maths J560 revision notes on 5.02: direct and inverse proportion, best buys, y = kx, y = k/x and Higher power laws, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

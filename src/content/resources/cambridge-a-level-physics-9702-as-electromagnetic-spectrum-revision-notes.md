@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-electromagnetic-spectrum"
 description: "Condensed recall for Cambridge AS Physics 9702 subtopic 7.4: shared EM wave properties, approximate wavelength ranges, 400-700 nm and c = fλ, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

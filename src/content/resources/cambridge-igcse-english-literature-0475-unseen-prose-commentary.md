@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "paper-4-unseen-0475"
 description: "How to write a critical commentary on an unseen prose passage for 0475 Paper 4: orientation, tracking shifts, narrative methods and an original worked extract."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

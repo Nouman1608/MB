@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "traditional-media-and-new-media-9699"
 description: "Twelve original Cambridge 9699 questions on section 9.1: integration, convergence, platforms, who controls the media and old versus new media, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

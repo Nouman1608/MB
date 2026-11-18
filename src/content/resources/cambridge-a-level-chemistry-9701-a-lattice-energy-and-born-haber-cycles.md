@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-lattice-energy-and-born-haber-cycles"
 description: "Atomisation, electron affinity and lattice energy definitions, electron affinity trends, Born-Haber cycles and charge and radius effects, for 9701."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-plan-ocr-alevel-business"
 description: "Study guide to the business plan for OCR A Level Business H431: how readers use a plan, testing its cash forecast, Plan-Do-Review and strategic review."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

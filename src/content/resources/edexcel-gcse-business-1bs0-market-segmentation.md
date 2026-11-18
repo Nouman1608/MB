@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "market-segmentation-1bs0"
 description: "Deeper guide to Edexcel GCSE Business 1BS0 item 1.2.3: the five segmentation bases, valuing segments, and building and reading market maps."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

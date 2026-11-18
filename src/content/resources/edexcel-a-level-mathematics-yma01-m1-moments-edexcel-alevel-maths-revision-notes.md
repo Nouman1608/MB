@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m1-moments-edexcel-alevel-maths"
 description: "Revision notes for Edexcel IAL Maths M1 moments: moment of a force, equilibrium conditions, uniform and non-uniform rods, tilting, strings and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p3-exponentials-and-logarithms-edexcel-alevel-maths"
 description: "Original practice questions with full answers on e^x, ln x, exponential equations and logarithmic graphs for Edexcel IAL Maths Unit P3 (YMA01)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

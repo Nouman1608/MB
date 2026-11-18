@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-2-1-1"
 description: "Twelve original OCR H432 2.1.1 questions with marked answers: particles in ions, the carbon-12 definitions, mass spectrum calculations and Mr."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

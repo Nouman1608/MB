@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "government-intervention-edexcel-igcse-economics"
 description: "Study guide to Edexcel IGCSE Economics 4EC1 section 1.2.6: policies for externalities, regulation of competition and the minimum wage, with worked cases."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "size-of-business-cambridge-alevel-business"
 description: "Original 9609 practice questions with full answers on 1.3 Size of business: measuring size, small and family firms, growth, takeovers and alliances."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

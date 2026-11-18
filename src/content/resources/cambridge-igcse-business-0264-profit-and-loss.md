@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "profit-and-loss-0264"
 description: "Study guide to section 5.3 of Cambridge IGCSE Business 0264: what profit is, why it matters, and using a statement of profit or loss to calculate and decide."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "other-payables-and-other-receivables"
 description: "Study guide to 7707 section 4.3: matching, accrued and prepaid expenses and incomes, year-end journal entries and ledger accounts with opening balances."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

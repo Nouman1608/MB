@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-location-aqa-gcse-business"
 description: "A focused guide to section 3.1.5 of AQA GCSE Business: the five location factors, how they pull in different directions, and how to justify a site choice."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

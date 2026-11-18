@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "b8-composite-and-inverse-functions-aqa-alevel-maths"
 description: "Original AQA A-level Maths 7357 B8 practice on composites, ff(x) domains, unknown functions, self-inverse functions and inverse graphs, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

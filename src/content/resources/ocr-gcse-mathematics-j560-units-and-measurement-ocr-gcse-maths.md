@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "units-and-measurement-ocr-gcse-maths"
 description: "OCR GCSE Maths J560 section 10.01 in depth: converting units, compound measures, algebraic unit work, map scales, bearings and scale drawings."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

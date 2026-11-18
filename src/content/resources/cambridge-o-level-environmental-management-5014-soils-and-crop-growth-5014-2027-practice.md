@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "soils-and-crop-growth-5014-2027"
 description: "Original 5014 practice questions with mark-scheme answers on soil composition, ions, pH, loam, weather, wet and dry seasons and climate data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

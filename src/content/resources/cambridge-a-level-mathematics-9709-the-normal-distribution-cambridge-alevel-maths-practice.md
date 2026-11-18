@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-normal-distribution-cambridge-alevel-maths"
 description: "Twelve original 9709 Paper 5 questions on 5.5: normal probabilities, reverse problems, unknown mean and standard deviation, binomial approximation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

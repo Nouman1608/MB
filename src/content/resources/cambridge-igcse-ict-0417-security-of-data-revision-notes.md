@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "security-of-data-0417"
 description: "Revision notes for Cambridge IGCSE ICT 0417 8.3: threats from hacking to card fraud, protection from biometrics to two-factor authentication, and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

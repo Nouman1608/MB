@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-energy-stored-in-a-capacitor"
 description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 19.2 Energy stored in a capacitor: V–Q areas and W = ½CV²."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-transverse-and-longitudinal-waves"
 description: "Subtopic 7.2 of Cambridge AS Physics 9702 in depth: comparing transverse and longitudinal waves and reading displacement-distance and displacement-time graphs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

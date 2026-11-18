@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "health-issues-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on 4.2.2.5 Health issues: health, disease interactions, incidence, charts, correlation and sampling, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

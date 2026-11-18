@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "balance-of-payments-ocr-gcse-economics"
 description: "Condensed OCR GCSE Economics 4.2 notes on the current account, its parts, calculations, causes of deficits and why they matter, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

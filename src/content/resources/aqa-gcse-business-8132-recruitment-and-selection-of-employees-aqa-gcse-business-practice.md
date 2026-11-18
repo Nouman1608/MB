@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "recruitment-and-selection-of-employees-aqa-gcse-business"
 description: "Original AQA GCSE Business 3.4.2 questions with mark-scheme answers on recruitment routes, job documents, selection methods and contracts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

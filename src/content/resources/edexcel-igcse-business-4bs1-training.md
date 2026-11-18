@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "training-4bs1"
 description: "In-depth study guide to section 2.3 Training for Edexcel IGCSE Business 4BS1: induction, on-the-job, off-the-job, health and safety, benefits and limits."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-shapes-of-molecules"
 description: "Revision notes on VSEPR for Cambridge 9701: the seven named shapes and angles, counting lone pairs in ions, predicting analogous shapes and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

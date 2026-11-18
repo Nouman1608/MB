@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "capacitors-oxfordaqa-alevel"
 description: "Study guide to OxfordAQA 9630 section 3.8.4: capacitance, C = Aε₀εr/d, relative permittivity, polar-molecule dielectric action and energy from Q–V graphs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "sustainable-energy-supplies-9696"
 description: "Revision notes for Cambridge 9696 Geography 12.1: resource types, capacity factor, energy ladder, trilemma, trends by income group, impacts and self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "non-right-angled-triangles-cambridge-igcse-maths"
 description: "Study guide to 0580 subtopic E6.5: choosing the sine or cosine rule, obtuse angles, the ambiguous case and area = ½ab sin C, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

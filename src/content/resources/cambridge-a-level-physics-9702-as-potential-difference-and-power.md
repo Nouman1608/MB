@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-potential-difference-and-power"
 description: "A focused guide to 9.2 Potential difference and power in Cambridge AS Physics 9702: defining p.d., V = W/Q, and choosing between P = VI, I²R and V²/R."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

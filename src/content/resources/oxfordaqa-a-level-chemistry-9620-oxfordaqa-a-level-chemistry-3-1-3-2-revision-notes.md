@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-3-2"
 description: "Revision notes for OxfordAQA 9620 subtopic 3.1.3.2: shared pairs, multiple bonds, co-ordinate bonds, lines and arrows, exam traps and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

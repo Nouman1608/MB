@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "evaluation-0417"
 description: "Judging a new system's efficiency, ease of use and appropriateness against its requirements, with limitations and improvements, for IGCSE ICT 0417 7.6."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

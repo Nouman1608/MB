@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "attachment-7182"
 description: "Condensed AQA A-level Psychology 7182 attachment notes: key terms, studies at a glance, Strange Situation behaviours, exam traps, an essay plan and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

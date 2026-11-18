@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "nuclear-fission-and-fusion-aqa-gcse"
 description: "Thirteen original AQA GCSE Physics 8463 questions on 4.4.4: fission steps, fission equations, chain reaction diagrams and fusion, with marked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

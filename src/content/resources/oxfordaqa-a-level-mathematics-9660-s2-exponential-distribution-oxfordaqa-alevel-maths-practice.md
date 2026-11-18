@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "s2-exponential-distribution-oxfordaqa-alevel-maths"
 description: "Thirteen original OxfordAQA 9660 S2.3 practice questions on exponential conditions, probabilities, quartiles and the Poisson link, with full worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "custom-written-and-off-the-shelf-software"
 description: "Cambridge 9626 IT section 2.4 study guide: custom-written versus off-the-shelf software on testing, support, cost and adaptability; proprietary and open-source."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

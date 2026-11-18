@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "product-1bs0"
 description: "Original practice questions with mark-scheme answers on the design mix, product life cycle, extension strategies and differentiation for Edexcel GCSE 1BS0."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

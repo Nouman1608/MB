@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "using-genome-projects-aqa-alevel-biology"
 description: "Original practice questions with mark-scheme answers on genome projects, proteomes, vaccine antigens and genome data for AQA A-level Biology 7402 section 3.8.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

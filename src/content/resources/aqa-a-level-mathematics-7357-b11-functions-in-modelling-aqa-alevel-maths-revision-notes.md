@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "b11-functions-in-modelling-aqa-alevel-maths"
 description: "Condensed AQA A-level Maths 7357 B11 notes: modelling terms, choosing and fitting functions, judging fit, limitations, refinements and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

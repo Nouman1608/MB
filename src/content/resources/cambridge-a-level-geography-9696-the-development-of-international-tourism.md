@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-development-of-international-tourism-9696"
 description: "Study guide for Cambridge 9696 Geography 13.3: growth of tourism, its impacts, carrying capacity, the multiplier, new types of tourism and Butler's model."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

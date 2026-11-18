@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-shapes-of-molecules"
 description: "Original VSEPR practice questions with mark-scheme answers: shapes and bond angles of named and analogous molecules and ions, for Cambridge 9701 subtopic 3.5."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

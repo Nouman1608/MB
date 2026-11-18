@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "pakistan-movement-9236"
 description: "Recall notes for OxfordAQA 9236 on 1939-42: the Congress resignations, Day of Deliverance, August Offer, Cripps Mission, Quit India and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

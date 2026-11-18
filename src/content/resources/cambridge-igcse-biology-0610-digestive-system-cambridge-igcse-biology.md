@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "digestive-system-cambridge-igcse-biology"
 description: "Study guide to 0610 sub-topic 7.2 Digestive system: finding the organs on diagrams and linking each to the five processes from ingestion to egestion."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

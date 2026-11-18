@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-3-7"
 description: "OxfordAQA 9620 guide to 3.1.3.7: van der Waals, permanent dipole–dipole forces and hydrogen bonding, boiling-point comparisons and the low density of ice."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

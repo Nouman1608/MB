@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "supply-ocr-gcse-economics"
 description: "Twelve original OCR GCSE Economics J205 supply questions: market supply, conditions of supply, shifts, PES calculations and evaluation, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

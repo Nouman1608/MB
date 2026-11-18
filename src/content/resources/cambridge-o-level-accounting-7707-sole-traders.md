@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "sole-traders"
 description: "Study guide to 7707 section 5.1: sole trader features, statement layouts, every year-end adjustment including drawings, and a full worked set of statements."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

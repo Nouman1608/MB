@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m1-motion-constant-acceleration-oxfordaqa-alevel-maths"
 description: "OxfordAQA 9660 M1.1 revision notes: suvat choices, sign rules, graph facts, two-particle and multi-stage methods, vertical motion and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

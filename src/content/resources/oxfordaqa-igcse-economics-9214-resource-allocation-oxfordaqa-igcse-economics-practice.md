@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "resource-allocation-oxfordaqa-igcse-economics"
 description: "Twelve original 9214 questions on 3.1.2 Resource allocation: markets and price, factor and product markets, sector data and specialisation, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

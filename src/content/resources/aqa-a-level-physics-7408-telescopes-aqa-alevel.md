@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "telescopes-aqa-alevel"
 description: "AQA A-Level Physics 7408 telescopes in depth: refractor ray diagrams, Cassegrain reflectors, aberrations, non-optical telescopes, Rayleigh criterion and CCDs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

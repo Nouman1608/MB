@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-1"
 description: "Study guide to IB DP Maths AA section 5.1: estimating limits from tables and graphs, gradients as limits of chords, and derivatives as rates of change."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

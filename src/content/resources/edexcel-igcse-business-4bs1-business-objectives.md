@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-objectives-4bs1"
 description: "Study guide to business objectives for Edexcel IGCSE Business 4BS1: objectives by size and stage, measuring them, conflicts and why objectives change."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

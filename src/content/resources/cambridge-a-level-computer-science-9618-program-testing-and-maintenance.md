@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "program-testing-and-maintenance"
 description: "Study guide to 9618 section 12.3: avoiding and finding faults, error types, testing methods, test plans, test data and the three types of maintenance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

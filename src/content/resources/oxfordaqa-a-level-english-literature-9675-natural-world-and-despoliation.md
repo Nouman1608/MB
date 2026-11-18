@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-2-section-b-9675"
 description: "How the Wordsworth, Frost, Hardy and Heaney selections for 9675 Unit 2 present nature's beauty and its spoiling, with pairings and a model paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

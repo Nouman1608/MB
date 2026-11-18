@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "digital-ethical-legal-and-environmental-factors-ocr-alevel-business"
 description: "Twelve original OCR A Level Business H431 questions on the digital revolution and ethical, legal and environmental factors, with full mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

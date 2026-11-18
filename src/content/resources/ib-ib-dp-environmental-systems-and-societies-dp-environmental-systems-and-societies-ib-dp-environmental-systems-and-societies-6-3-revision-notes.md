@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-6-3"
 description: "IB ESS 6.3 revision notes: net zero, abatement-cost ranking, carbon pricing, carbon removal, geoengineering risks, adaptation and finance, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Written against a provisional subtopic title that the IB subject brief does not print, so a teacher should confirm the content against the full ESS guide."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Written against a provisional subtopic title that the IB subject brief does not print, so a teacher should confirm the content against the full ESS guide."
 publishedDate: 2026-11-18
 featured: false
 ---

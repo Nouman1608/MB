@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "representation-pictorial-diagrammatic-4040"
 description: "Revision notes on constructing every diagram named in 4040 section 2.2, with key formulae, construction checklists, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

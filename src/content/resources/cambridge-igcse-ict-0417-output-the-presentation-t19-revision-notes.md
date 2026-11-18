@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "output-the-presentation-t19-0417"
 description: "Revision notes on presentation output for 0417 Topic 19: looped carousels, presenter-controlled shows, full page slides, presenter notes and handout layouts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

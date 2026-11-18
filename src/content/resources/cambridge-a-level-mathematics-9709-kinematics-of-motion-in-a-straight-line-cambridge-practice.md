@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kinematics-of-motion-in-a-straight-line-cambridge"
 description: "Twelve original Cambridge 9709 Paper 4 kinematics questions with marked answers on graphs, calculus in time, constant acceleration and two moving particles."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

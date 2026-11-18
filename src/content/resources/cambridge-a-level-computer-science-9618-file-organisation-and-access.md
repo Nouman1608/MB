@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "file-organisation-and-access"
 description: "Study guide to 9618 section 13.2: serial, sequential and random files, sequential and direct access, choosing a method, and hashing algorithms."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the short paragraph on using a hash with a sequential file (locating a block of records), and confirm that the folding method is an acceptable example of a second hashing algorithm for 9618."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the short paragraph on using a hash with a sequential file (locating a block of records), and confirm that the folding method is an acceptable example of a second hashing algorithm for 9618."
 ---
 
 Section 13.2 File organisation and access of Cambridge International AS & A Level Computer Science 9618 asks you to understand serial, sequential (using a key field) and random (using a record key) file organisation, to select an appropriate organisation and access method for a problem, to understand sequential access (for serial and sequential files) and direct access (for sequential and random files), and to "describe and use different hashing algorithms to read from and write data to a random / sequential file". It is A Level content, examined in Paper 3.

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "cash-flow-forecasting-4bs1"
 description: "Study guide to 4BS1 section 3.2 cash flow forecasting: why cash matters, cash versus profit, credit sales timing, completing forecasts and judging them."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

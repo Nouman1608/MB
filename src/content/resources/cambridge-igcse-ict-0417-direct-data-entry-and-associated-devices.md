@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "direct-data-entry-and-associated-devices-0417"
 description: "Magnetic stripe, chip and PIN, RFID, OMR, OCR, bar code and QR readers: uses, advantages and disadvantages for Cambridge IGCSE ICT 0417 section 2.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

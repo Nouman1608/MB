@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "income-statements"
 description: "Condensed recall for Cambridge O Level Business 7115 section 5.3: profit, profit versus cash, income statement lines, decision traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

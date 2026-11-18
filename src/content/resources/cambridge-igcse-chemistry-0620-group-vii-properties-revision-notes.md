@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "group-vii-properties"
 description: "Condensed recall for Cambridge IGCSE Chemistry 0620 subtopic 8.3: halogen appearance, density and reactivity trends, displacement reactions and predictions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

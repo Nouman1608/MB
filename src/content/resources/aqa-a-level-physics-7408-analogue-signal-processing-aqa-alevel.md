@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "analogue-signal-processing-aqa-alevel"
 description: "Study guide to AQA A-Level Physics 7408 section 3.13.3: parallel LC resonance filters, Q factor, the mass-spring analogy, the ideal op-amp and comparators."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

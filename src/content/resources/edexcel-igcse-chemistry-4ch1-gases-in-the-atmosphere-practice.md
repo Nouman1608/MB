@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "gases-in-the-atmosphere-4ch1"
 description: "Thirteen original 4CH1 questions on dry air, the oxygen-in-air practical, combustion, carbonate decomposition and carbon dioxide, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

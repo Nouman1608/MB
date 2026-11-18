@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "supply-cambridge-igcse-economics"
 description: "Study guide to supply for Cambridge IGCSE Economics 0455: definition, supply curves, extensions and contractions, market supply and the conditions of supply."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

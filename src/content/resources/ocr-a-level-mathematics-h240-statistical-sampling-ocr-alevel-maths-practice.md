@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "statistical-sampling-ocr-alevel-maths"
 description: "Original OCR H240 sampling questions with mark-scheme answers: populations and frames, informal inference, simple random and opportunity samples, critiquing methods."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-2-5-2"
 description: "Condensed OxfordAQA 9620 notes on 3.2.5.2: ligand substitution equations and colours, chelating ligands, haem, CO and the chelate effect, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

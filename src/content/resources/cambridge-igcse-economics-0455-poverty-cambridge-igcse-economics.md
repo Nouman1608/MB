@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "poverty-cambridge-igcse-economics"
 description: "In-depth guide to poverty for Cambridge IGCSE Economics 0455: absolute and relative poverty, its causes, and policies to reduce poverty and redistribute income."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

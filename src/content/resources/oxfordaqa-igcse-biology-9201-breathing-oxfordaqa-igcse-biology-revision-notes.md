@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "breathing-oxfordaqa-igcse-biology"
 description: "Condensed OxfordAQA IGCSE Biology 9201 notes on 3.2.5 breathing: the system, inhaling and exhaling, alveoli and ventilators, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

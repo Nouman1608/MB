@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "sequences-edexcel-igcse-maths"
 description: "Thirteen original 4MA1 section 3.1 questions on sequence rules, nth terms, patterns, and Higher a, d and arithmetic series sums, with full worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

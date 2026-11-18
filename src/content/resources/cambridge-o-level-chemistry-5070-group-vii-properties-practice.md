@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "group-vii-properties"
 description: "Thirteen original 5070 halogen questions on appearance, trends, displacement, ionic and half-equations, and predicting fluorine and astatine, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

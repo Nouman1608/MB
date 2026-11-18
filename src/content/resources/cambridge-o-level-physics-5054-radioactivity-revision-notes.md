@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "radioactivity"
 description: "Quick recall for 5054 subtopic 5.2: detectors, background, alpha, beta and gamma, decay equations, fission, fusion, half-life, uses and safety, and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "area-and-perimeter-cambridge-igcse-maths"
 description: "Study guide to Cambridge IGCSE Maths 0580 subtopic 5.2: why the area formulas work, choosing base and height, grid and algebra problems, and perimeter costs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

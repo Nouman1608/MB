@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-3-14"
 description: "IB Maths AA HL 3.14 revision notes: vector, parametric and Cartesian forms of a line, angles between lines, closest points and kinematics, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "chemical-digestion-cambridge-igcse-biology"
 description: "Twelve original questions on 0610 sub-topic 7.4 Chemical digestion: enzymes, secretion sites, stomach acid, pH data, pepsin, trypsin and bile."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

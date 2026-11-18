@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-prose-0475"
 description: "How to study a selection of short stories for 0475 Paper 1 Section B: story form, openings, turning points and endings, with an original worked passage."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

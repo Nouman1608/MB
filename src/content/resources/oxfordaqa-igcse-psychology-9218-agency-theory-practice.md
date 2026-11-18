@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "social-influences-9218"
 description: "Original questions on Milgram's obedience research and Agency theory for OxfordAQA IGCSE Psychology 9218: agency, authority, culture, proximity."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the Milgram variation figures and other study details used in the answers against the course textbook."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the Milgram variation figures and other study details used in the answers against the course textbook."
 publishedDate: 2026-11-18
 featured: false
 ---

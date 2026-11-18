@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-homogeneous-and-heterogeneous-catalysts"
 description: "Condensed notes on catalysis as a lower-Ea route, Boltzmann and pathway diagrams, and the phase test, with a self-test, for Cambridge 9701 AS subtopic 8.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

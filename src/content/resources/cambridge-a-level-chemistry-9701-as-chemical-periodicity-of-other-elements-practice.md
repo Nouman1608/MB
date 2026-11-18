@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-chemical-periodicity-of-other-elements"
 description: "Twelve original prediction and deduction questions with full answers on the periodicity of unfamiliar elements, for Cambridge 9701 AS subtopic 9.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

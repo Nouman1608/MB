@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "economic-performance-aqa-aslevel-economics"
 description: "AQA AS Economics 7135 section 3.2.3: growth and the cycle, output gaps, unemployment, inflation and deflation, the current account and policy conflicts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

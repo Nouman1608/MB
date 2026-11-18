@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-ionisation-energy"
 description: "Cambridge 9701 subtopic 1.4 in depth: ionisation equations, Period 3 data explained, the shifted second ionisation pattern, and deducing groups from data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

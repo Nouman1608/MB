@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-2-16"
 description: "12 original HL questions on IB Maths AA 2.16: features of |f(x)|, f(|x|), 1/f(x), f(ax + b) and [f(x)]², plus modulus equations and inequalities."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

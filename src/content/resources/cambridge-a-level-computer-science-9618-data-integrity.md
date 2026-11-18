@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "data-integrity"
 description: "Validation checks in pseudocode, check digits, double entry, parity blocks and checksums worked through for Cambridge AS Computer Science 9618 6.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

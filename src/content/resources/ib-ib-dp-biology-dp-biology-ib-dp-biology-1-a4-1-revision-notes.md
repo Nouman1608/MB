@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a4-1"
 description: "Condensed IB DP Biology A4.1 notes: evolution defined, three lines of evidence, homology and analogy, speciation steps, HL mechanisms and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-4-3"
 description: "IB Maths AA study guide to section 4.3: mean, median, mode, grouped estimates, quartiles of discrete data, standard deviation, variance and constant changes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

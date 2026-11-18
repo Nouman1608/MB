@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-costs-and-revenue-aqa-alevel-economics"
 description: "Original AQA 7136 practice on section 3.1.4: product and cost tables, revenue curves, profit, economies of scale and technological change, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

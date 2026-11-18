@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-stellar-radii"
 description: "Revision notes for Cambridge A Level Physics 9702 25.2 Stellar radii: Wien's law, the Stefan-Boltzmann law, radius and ratio methods, and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

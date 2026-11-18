@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "social-influences-9218"
 description: "Original questions on prosocial and antisocial crowd behaviour for OxfordAQA IGCSE Psychology 9218: loafing, deindividuation, culture, personality, morality."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the supporting studies used in the questions and answers against the course textbook's treatment of crowd behaviour."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the supporting studies used in the questions and answers against the course textbook's treatment of crowd behaviour."
 publishedDate: 2026-11-18
 featured: false
 ---

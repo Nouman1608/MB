@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "fiscal-policy-aqa-gcse-economics"
 description: "Twelve original questions with full answers for AQA GCSE Economics 8136 section 3.2.3.1: fiscal policy chains, objectives, budget balances and the debt."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

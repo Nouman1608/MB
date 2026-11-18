@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "queues-oxfordaqa-alevel-cs"
 description: "Twelve original OxfordAQA 9645 questions on sub-topic 3.2.3 Queues: linear and circular traces, empty and full tests and library queues, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

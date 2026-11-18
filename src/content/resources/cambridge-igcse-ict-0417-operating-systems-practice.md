@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "operating-systems-0417"
 description: "Original scenario questions with mark-scheme answers on CLI, GUI, dialogue-based and gesture-based interfaces for Cambridge IGCSE ICT 0417 section 1.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

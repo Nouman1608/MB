@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "firms-and-production"
 description: "Study guide to section 3.6 Firms and production in Cambridge O Level Economics 2281: demand for factors, labour- and capital-intensive methods and productivity."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

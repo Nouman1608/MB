@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "globalisation-and-identity-9699"
 description: "Original 9699 section 7.2 practice on revitalisation, cultural defence, hybridity, convergence and Westernisation, with concept checks and essay guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

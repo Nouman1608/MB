@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-1-2"
 description: "Original IB DP Business Management 1.2 practice questions on liability, legal forms, takeovers, cooperatives, public sector companies and NGOs, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

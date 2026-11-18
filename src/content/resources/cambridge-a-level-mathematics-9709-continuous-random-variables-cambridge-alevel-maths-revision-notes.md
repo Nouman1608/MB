@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "continuous-random-variables-cambridge-alevel-maths"
 description: "Condensed 9709 Paper 6 notes on 6.3: density function properties, areas as probabilities, mean, variance, medians, infinite domains and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

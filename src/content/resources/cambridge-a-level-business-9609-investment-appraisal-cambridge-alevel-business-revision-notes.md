@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "investment-appraisal-cambridge-alevel-business"
 description: "Condensed revision notes for Cambridge A Level Business 9609 section 10.3: payback, ARR, NPV methods, interpreting results and qualitative factors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

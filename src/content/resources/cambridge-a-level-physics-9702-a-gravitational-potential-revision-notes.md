@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-gravitational-potential"
 description: "Revision notes for Cambridge A Level Physics 9702 13.4 Gravitational potential: definition, ϕ = –GM/r, E_P = –GMm/r, energy changes, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

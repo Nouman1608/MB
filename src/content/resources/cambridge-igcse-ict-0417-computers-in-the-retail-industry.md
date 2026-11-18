@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "computers-in-the-retail-industry-0417"
 description: "How POS terminals update and reorder stock, how EFTPOS card, contactless and NFC payments are checked, and internet shopping, for Cambridge IGCSE ICT 0417 6.9."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

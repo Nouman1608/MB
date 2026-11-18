@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "market-failure-cambridge-igcse-economics"
 description: "Revision notes on market failure for Cambridge IGCSE Economics 0455: key terms, causes, the direction of misallocation, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-the-mole-and-the-avogadro-constant"
 description: "Twelve original Cambridge 9701 subtopic 2.2 questions on the mole and on counting molecules, atoms, ions and electrons with the Avogadro constant, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

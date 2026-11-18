@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "constructs"
 description: "Revision notes for 9618 section 11.2: IF, nested IF and CASE syntax, the three loop types, how to justify a loop choice, exam traps and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

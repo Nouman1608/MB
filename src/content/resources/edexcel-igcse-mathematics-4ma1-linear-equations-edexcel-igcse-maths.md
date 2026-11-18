@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "linear-equations-edexcel-igcse-maths"
 description: "Study guide to 4MA1 section 2.4: solving linear equations with brackets, unknowns on both sides and fractional coefficients, and setting up equations from data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

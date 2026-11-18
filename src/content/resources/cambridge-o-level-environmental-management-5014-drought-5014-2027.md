@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "drought-5014-2027"
 description: "Study guide to 5014 sub-topic 6.4: the syllabus definition of drought, its causes and ten impacts, and how strategies before, during and after compare."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

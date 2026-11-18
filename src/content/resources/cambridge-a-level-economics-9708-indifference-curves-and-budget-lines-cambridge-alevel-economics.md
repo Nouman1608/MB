@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "indifference-curves-and-budget-lines-cambridge-alevel-economics"
 description: "Deep dive into Cambridge 9708 section 7.2: indifference curve properties, budget line shifts, and splitting a price rise into income and substitution effects."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

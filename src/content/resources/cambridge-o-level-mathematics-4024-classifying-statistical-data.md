@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "classifying-statistical-data-4024"
 description: "Study guide to 4024 section 9.1: classifying data as categorical, discrete or continuous, and tabulating it in tally, grouped frequency and two-way tables."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

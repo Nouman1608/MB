@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "paper-4-unseen-0475"
 description: "Condensed notes for the 0475 Paper 4 unseen prose passage: orientation, sectioning the extract, prose methods and effects, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

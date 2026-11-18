@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-equilibrium-of-forces"
 description: "Original practice questions with mark-scheme answers on the principle of moments and vector triangles for Cambridge AS Physics 9702 subtopic 4.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

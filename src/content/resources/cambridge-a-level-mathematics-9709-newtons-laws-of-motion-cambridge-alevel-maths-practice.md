@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "newtons-laws-of-motion-cambridge-alevel-maths"
 description: "Twelve original 9709 Paper 4 questions on 4.4 Newton's laws: lifts, angled pulls, rough slopes, pulleys, tow-bars and two-phase motion, with full mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

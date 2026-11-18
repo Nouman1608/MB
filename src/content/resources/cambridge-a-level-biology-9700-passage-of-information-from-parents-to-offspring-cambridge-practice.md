@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "passage-of-information-from-parents-to-offspring-cambridge"
 description: "Twelve original questions with full answers on 9700 section 16.1: homologous pairs, meiosis stages, chromosome and DNA counts, and sources of variation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

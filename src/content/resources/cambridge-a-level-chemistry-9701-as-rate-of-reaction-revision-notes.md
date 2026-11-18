@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-rate-of-reaction"
 description: "Revision notes for Cambridge 9701 8.1: rate and collision terms, concentration and pressure effects, mean and initial rates, tangents and unit conversions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

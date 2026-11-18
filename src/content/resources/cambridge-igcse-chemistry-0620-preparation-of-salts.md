@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "preparation-of-salts"
 description: "Cambridge IGCSE Chemistry 0620 subtopic 7.3 in depth: the four soluble-salt methods, crystallisation, precipitation, solubility rules and hydrated salts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

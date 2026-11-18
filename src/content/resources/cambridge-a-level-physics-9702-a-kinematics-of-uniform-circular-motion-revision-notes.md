@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-kinematics-of-uniform-circular-motion"
 description: "Revision notes for Cambridge A Level Physics 9702 12.1: the radian, angular displacement, angular speed, ω = 2π/T, v = rω, belts and rpm, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

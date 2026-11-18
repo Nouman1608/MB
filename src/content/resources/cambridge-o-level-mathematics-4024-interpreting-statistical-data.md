@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "interpreting-statistical-data-4024"
 description: "Study guide to 4024 section 9.2: reading tables and diagrams, drawing inferences, comparing data sets with averages and spread, and limits on conclusions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

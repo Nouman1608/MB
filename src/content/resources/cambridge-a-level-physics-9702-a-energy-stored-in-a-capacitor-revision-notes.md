@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-energy-stored-in-a-capacitor"
 description: "Revision notes for Cambridge A Level Physics 9702 19.2 Energy stored in a capacitor: area under the V–Q graph, W = ½QV = ½CV², exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

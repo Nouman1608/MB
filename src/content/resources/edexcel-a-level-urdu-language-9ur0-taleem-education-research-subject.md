@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "taleem-education-research-subject-9ur0"
 description: "9UR0 research subject 1.3: the three education aspects, building a research file, and planning a Section C answer that uses the unseen text and research."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

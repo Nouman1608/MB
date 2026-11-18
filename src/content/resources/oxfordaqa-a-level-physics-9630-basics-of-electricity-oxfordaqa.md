@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "basics-of-electricity-oxfordaqa"
 description: "Study guide to OxfordAQA 9630 section 3.4.1: current as rate of flow of charge, potential difference as work per unit charge, resistance and graph skills."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

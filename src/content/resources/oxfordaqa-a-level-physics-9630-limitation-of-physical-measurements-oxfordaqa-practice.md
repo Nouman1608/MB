@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "limitation-of-physical-measurements-oxfordaqa"
 description: "Twelve original OxfordAQA 9630 questions on 3.1.2: error types, repeat readings, combined uncertainties and gradient and intercept limits, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

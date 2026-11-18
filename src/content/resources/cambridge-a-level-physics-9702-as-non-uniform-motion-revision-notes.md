@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-non-uniform-motion"
 description: "Condensed recall for Cambridge AS Physics 9702 subtopic 3.2: friction and drag, falling with air resistance, parachutes and terminal velocity."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

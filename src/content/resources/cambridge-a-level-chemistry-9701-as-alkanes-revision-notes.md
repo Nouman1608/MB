@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-alkanes"
 description: "Condensed 9701 notes on alkanes: hydrogenation, cracking, combustion, unreactivity, free-radical substitution steps and exhaust pollutants, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

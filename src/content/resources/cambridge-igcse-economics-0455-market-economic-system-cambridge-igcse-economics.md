@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "market-economic-system-cambridge-igcse-economics"
 description: "Study guide to the market economic system for Cambridge IGCSE Economics 0455: definition, key features, advantages, disadvantages and how to judge it."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

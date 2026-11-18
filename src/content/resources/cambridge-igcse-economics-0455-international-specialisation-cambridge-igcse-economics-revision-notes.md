@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "international-specialisation-cambridge-igcse-economics"
 description: "Revision notes on national specialisation, its two bases and its gains and risks for consumers, firms and the economy, with a self-test, for IGCSE 0455."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "cholera-oxfordaqa-alevel-biology"
 description: "A focused guide to cholera for OxfordAQA International A-level Biology 9610: the toxin, water potential, oral rehydration design and the ethics of trials."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

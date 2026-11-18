@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "current-account-of-the-balance-of-payments-cambridge-alevel-economics"
 description: "Condensed notes on Cambridge 9708 section 6.3: current account components, signs, the four balances, causes and consequences of imbalances, plus a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

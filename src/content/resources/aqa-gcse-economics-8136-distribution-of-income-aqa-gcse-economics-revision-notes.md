@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "distribution-of-income-aqa-gcse-economics"
 description: "Revision notes for AQA GCSE Economics 8136 section 3.2.2.6: income stages, tax types, causes of income and wealth inequality, and redistribution policies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ions-and-ionic-bonds"
 description: "How cations and anions form, ionic dot-and-cross diagrams, the giant ionic lattice and why ionic compounds behave as they do, for Cambridge IGCSE 0620."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

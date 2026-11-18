@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "mass-and-weight"
 description: "Subtopic 1.3 of Cambridge O Level Physics 5054 in depth: mass and inertia, balances and force meters, gravitational field strength and W = mg calculations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

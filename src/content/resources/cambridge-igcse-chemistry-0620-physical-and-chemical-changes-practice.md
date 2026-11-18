@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "physical-and-chemical-changes"
 description: "Original 0620 Core practice on identifying physical and chemical changes and describing their differences, using processes from across the course, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

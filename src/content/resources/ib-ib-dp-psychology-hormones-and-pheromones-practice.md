@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-biological-approach"
 description: "Original IB DP Psychology practice on hormones and pheromones: recall, applied study questions, a 9-mark short answer and an essay plan, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

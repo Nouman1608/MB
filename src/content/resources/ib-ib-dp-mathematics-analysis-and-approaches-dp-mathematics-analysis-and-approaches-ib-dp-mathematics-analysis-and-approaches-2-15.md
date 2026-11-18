@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-2-15"
 description: "HL study guide to IB Maths AA 2.15: solving g(x) ≥ f(x) with sign tables and graphs, cubics by hand, double roots and GDC methods for other functions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

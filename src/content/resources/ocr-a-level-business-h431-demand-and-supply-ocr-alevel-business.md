@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "demand-and-supply-ocr-alevel-business"
 description: "Deep-dive study guide to demand, supply and equilibrium for OCR A Level Business H431: shifts, double shifts, shortages, excesses and price decisions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

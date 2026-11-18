@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "alloys-and-their-properties"
 description: "Condensed recall for 0620 subtopic 9.3: alloy definition, brass and stainless steel, structure diagrams, the layers explanation and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

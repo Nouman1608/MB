@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "globalisation-and-migration-9699"
 description: "Cambridge 9699 section 8.2 in depth: measuring migration, push-pull and structural causes, labour and tourism flows, consequences and who benefits."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

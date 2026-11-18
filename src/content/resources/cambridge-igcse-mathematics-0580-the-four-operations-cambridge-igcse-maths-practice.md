@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-four-operations-cambridge-igcse-maths"
 description: "Fourteen original non-calculator 0580 questions on order of operations, negatives, fractions, mixed numbers, decimals and practical contexts, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "stakeholders-aqa-gcse-business"
 description: "AQA GCSE Business 3.1.4 in depth: stakeholders versus shareholders, one decision's impact on each group, conflicts in pounds, and how each group has influence."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

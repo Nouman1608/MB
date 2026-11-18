@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-polarisation"
 description: "Subtopic 7.5 of Cambridge AS Physics 9702 in depth: polarisation as a transverse-wave effect, Malus's law from amplitudes, and series of polarising filters."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

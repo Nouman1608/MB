@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "electrical-quantities"
 description: "Original 5054 questions with full answers on charging by friction, electric fields, current, e.m.f., p.d., resistance of wires and I–V graphs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

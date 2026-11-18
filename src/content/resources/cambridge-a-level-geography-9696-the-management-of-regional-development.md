@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "the-management-of-regional-development-9696"
 description: "How to build and evaluate the 9696 regional development policy case study: policy tools, difficulties, evaluation criteria and Italy's Mezzogiorno policy."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the Mezzogiorno details (Cassa per il Mezzogiorno 1950 to 1984, growth poles, Taranto steelworks and the 2012 court order) against a current source."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the Mezzogiorno details (Cassa per il Mezzogiorno 1950 to 1984, growth poles, Taranto steelworks and the 2012 court order) against a current source."
 publishedDate: 2026-11-18
 featured: false
 ---

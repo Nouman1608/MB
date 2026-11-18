@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-prose-0475"
 description: "Twelve original questions on short original story passages, practising openings, turning points, implication and endings for 0475 Section B, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "population-cambridge-igcse-economics"
 description: "In-depth guide to population for Cambridge IGCSE Economics 0455: growth rates, why they differ, optimum population, age and gender structure and pyramids."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

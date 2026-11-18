@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-possibility-curve-ppc-diagrams"
 description: "Drawing and reading PPC diagrams: points under, on and beyond, movements and opportunity cost, and shifts and growth, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

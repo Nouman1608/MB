@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "using-a-calculator-cambridge-igcse-maths"
 description: "Study guide to 0580 subtopic 1.14: keying long calculations, fractions, negatives and time, carrying full values, and reading money, time and standard form."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

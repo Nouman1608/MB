@@ -18,7 +18,10 @@ syllabusTopics:
     subtopic: "research-methods-paper2-9292"
 description: "Revision notes for 9292 section 3.1.3.4: reading tables and graphs, percentage points and rates, limitations, and interpreting field notes and interviews."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

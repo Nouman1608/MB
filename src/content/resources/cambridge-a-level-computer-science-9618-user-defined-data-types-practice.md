@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "user-defined-data-types"
 description: "Original 9618 section 13.1 questions with answers on enumerated, pointer, set, record and class types, pointer traces, set operations and designing types."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the pseudocode for set definitions, pointer dereferencing and class declarations against the current 9618 pseudocode guide."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the pseudocode for set definitions, pointer dereferencing and class declarations against the current 9618 pseudocode guide."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

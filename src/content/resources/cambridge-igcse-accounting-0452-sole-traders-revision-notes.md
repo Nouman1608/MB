@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "sole-traders"
 description: "Revision notes for Cambridge IGCSE Accounting 0452 section 5.1: sole trader statements, layouts, every year-end adjustment, drawings, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

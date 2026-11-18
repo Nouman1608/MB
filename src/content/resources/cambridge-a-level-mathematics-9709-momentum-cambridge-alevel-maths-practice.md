@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "momentum-cambridge-alevel-maths"
 description: "Twelve original 9709 Paper 4 questions on subtopic 4.3 Momentum: direct impacts, coalescence, further collisions and multi-stage problems, with mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "algebraic-manipulation-edexcel-igcse-maths"
 description: "Condensed 4MA1 section 2.2 notes: expanding, factorising, algebraic fractions, completing the square and proof, with method checklists, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

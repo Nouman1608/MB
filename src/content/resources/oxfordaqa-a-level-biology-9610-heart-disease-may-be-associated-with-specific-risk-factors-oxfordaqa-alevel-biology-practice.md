@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "heart-disease-may-be-associated-with-specific-risk-factors-oxfordaqa-alevel-biology"
 description: "Original practice questions with answers on atheroma, thrombosis, heart attacks and CHD risk-factor data for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

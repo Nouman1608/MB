@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "unit-3-elements-of-crime-and-mystery-9675"
 description: "Twelve original questions on victims of crime and suffering for 9675 Unit 3, with an invented crime-fiction extract, essay plans and mark-scheme-style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

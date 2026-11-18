@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m1-forces-and-newtons-laws-oxfordaqa-alevel-maths"
 description: "OxfordAQA 9660 M1.3 in depth: equilibrium, finding friction coefficients, lifts in stages, three-body trains, slack ropes and two-stage pulley problems."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "writing-1123"
 description: "How to write the letter form in 1123 directed writing: salutations, sign-offs, purpose, polite firmness, letters to editors and a model from two sources."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

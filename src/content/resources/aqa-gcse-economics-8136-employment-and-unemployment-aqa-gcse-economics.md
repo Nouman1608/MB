@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "employment-and-unemployment-aqa-gcse-economics"
 description: "Deep-dive guide to AQA GCSE Economics 8136 section 3.2.2.3: measuring unemployment, its four types and causes, effects on different groups, and policies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

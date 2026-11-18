@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "maqbool-culture-popular-culture-9ur0"
 description: "9UR0 sub-theme 2.2 study guide: cinema movements and genres, changes in what cinema can show, and the effects of television culture, with exam technique."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "investigating-diversity-aqa-alevel-biology"
 description: "Condensed revision notes on comparing genetic diversity, sequence data, random sampling, means and standard deviations for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

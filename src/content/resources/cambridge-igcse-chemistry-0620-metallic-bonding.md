@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "metallic-bonding"
 description: "The giant metallic lattice and sea of delocalised electrons, and how it explains conductivity, malleability and ductility, for Cambridge IGCSE 0620 Extended."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "qiyam-e-pakistan-1947-9ur0"
 description: "Twelve original 9UR0 practice questions on the effects of 1947, partition's social impact and Pakistan's democracy, with translation and full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

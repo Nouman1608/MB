@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "economies-and-diseconomies-of-scale-4bs1"
 description: "Revision notes on 4BS1 section 5.1: average total cost, internal and external economies, diseconomies, limits of growth, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

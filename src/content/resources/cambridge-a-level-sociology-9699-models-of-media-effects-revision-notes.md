@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "models-of-media-effects-9699"
 description: "Condensed 9699 notes on section 10.2: direct and indirect media effects models, key studies, strengths and limitations, and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check that the description of the normative model matches the way the board's endorsed resources define it, as textbook definitions vary."
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check that the description of the normative model matches the way the board's endorsed resources define it, as textbook definitions vary."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "leadership-cambridge-alevel-business"
 description: "In-depth guide to section 7.3 Leadership in Cambridge A Level Business 9609: roles, qualities, the five theory types and Goleman's EQ, applied to cases."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "clinical-psychology-and-mental-health-7182"
 description: "Original AQA A-level Psychology 7182 clinical psychology practice questions with marked answers on definitions, phobias, depression, OCD and their treatments."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

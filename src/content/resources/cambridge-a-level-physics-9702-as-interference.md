@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-interference"
 description: "A focused guide to 8.3 Interference in Cambridge AS Physics 9702: coherence, path and phase difference, fringe conditions and λ = ax/D with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

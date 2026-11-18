@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "trade-unions-cambridge-igcse-economics"
 description: "Original practice questions with full answers on trade unions for Cambridge IGCSE Economics 0455: bargaining, union strength and effects on workers and firms."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

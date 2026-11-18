@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-9"
 description: "IB Business Management 5.9 (HL only) study guide: data to decisions, cyber risk, AI, loyalty schemes, employee monitoring, data mining and ethical evaluation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

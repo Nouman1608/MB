@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-approaches-to-researching-behaviour"
 description: "Condensed IB DP Psychology notes on research bias: participant and researcher bias types, matching strategies, reflexivity, Paper 3 traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

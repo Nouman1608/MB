@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ot2-mathematical-problem-solving-aqa-alevel-maths"
 description: "Condensed recall for AQA A-level Maths 7357 OT2: structure spotting, planning unstructured problems, interpreting, numerical accuracy, the cycle and diagrams."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

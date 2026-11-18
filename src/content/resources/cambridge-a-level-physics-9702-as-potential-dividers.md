@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-potential-dividers"
 description: "A focused guide to 10.3 Potential dividers in Cambridge AS Physics 9702: the divider equation, comparing p.d.s with a potentiometer, null methods and sensors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

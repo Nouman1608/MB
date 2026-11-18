@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "control-accounts-4ac1"
 description: "Twelve original 4AC1 questions on preparing receivables and payables control accounts, contras, credit balances and reconciling with ledger lists."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

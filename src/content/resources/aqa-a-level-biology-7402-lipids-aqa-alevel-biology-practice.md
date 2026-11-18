@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "lipids-aqa-alevel-biology"
 description: "Original AQA A-level Biology 3.1.3 practice questions on triglycerides, phospholipids, saturated and unsaturated fatty acids and the emulsion test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

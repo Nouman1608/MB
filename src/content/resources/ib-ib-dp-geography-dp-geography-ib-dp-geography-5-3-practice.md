@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-5-3"
 description: "Original practice questions with full answers on tourism balances, dependency, enclave and cruise tourism, sport diffusion and the legacy of international events."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The IB Geography guide could not be opened while this page was written, so a teacher should check the questions against the guide's wording for sub-topic 5.3."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB Geography guide could not be opened while this page was written, so a teacher should check the questions against the guide's wording for sub-topic 5.3."
 publishedDate: 2026-11-18
 featured: false
 ---

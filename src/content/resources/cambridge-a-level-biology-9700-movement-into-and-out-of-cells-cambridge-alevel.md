@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "movement-into-and-out-of-cells-cambridge-alevel"
 description: "Subtopic 4.2 of Cambridge 9700 in depth: the six transport processes, rate data, SA:V calculations, agar and plasmolysis investigations and water potential."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "aggregate-supply-edexcel-alevel-economics"
 description: "Edexcel International A Level Economics 2.3.3 in depth: why SRAS slopes up, what shifts SRAS and LRAS, Keynesian and classical LRAS, and a model answer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

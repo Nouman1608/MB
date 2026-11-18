@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-esters"
 description: "Naming esters, making them by condensation with concentrated H2SO4, acid and alkaline hydrolysis, and yield calculations, for Cambridge 9701 AS Chemistry."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

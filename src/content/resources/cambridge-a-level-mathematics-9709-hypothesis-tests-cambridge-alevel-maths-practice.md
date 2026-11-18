@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "hypothesis-tests-cambridge-alevel-maths"
 description: "Twelve original Cambridge 9709 Paper 6 questions with mark-by-mark answers on binomial, Poisson and normal-mean tests, critical regions and error types."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

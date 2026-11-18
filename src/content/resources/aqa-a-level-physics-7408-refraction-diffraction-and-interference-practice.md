@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "refraction-diffraction-and-interference"
 description: "Original AQA 7408 practice on section 3.3.2: path difference, Young's slits, gratings, Snell's law, critical angles and optical fibre dispersion."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

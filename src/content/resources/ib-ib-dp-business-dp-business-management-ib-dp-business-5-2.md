@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-2"
 description: "IB Business Management 5.2 study guide: choosing between job, batch, mass/flow production and mass customization, switching methods and AO3 evaluation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

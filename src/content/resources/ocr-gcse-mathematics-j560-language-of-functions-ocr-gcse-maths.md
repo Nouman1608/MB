@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "language-of-functions-ocr-gcse-maths"
 description: "OCR GCSE Maths J560 section 6.05 in depth: expressions as function machines with inputs and outputs, inverse functions and composite functions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "verification-of-the-double-entry-records-oxfordaqa-igcse-accounting"
 description: "Study guide to verifying double entry records for OxfordAQA IGCSE Accounting 9215: what each of the four techniques checks, what it finds and what it misses."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

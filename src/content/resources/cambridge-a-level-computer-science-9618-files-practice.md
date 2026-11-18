@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "files"
 description: "Original questions with mark-scheme answers on reading, writing, appending and searching text files in pseudocode for Cambridge AS Computer Science 9618."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

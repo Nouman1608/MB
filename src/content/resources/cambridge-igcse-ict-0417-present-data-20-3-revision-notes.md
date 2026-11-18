@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "present-data-20-3-0417"
 description: "Revision notes for 0417 subtopic 20.3: formulae and values views, visible data, wrapping and hiding, number formats, conditional formatting and page layout."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

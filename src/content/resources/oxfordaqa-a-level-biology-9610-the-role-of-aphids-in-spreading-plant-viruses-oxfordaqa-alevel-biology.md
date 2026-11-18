@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-role-of-aphids-in-spreading-plant-viruses-oxfordaqa-alevel-biology"
 description: "A focused guide to plant virus diseases and aphid vectors for OxfordAQA International A-level Biology 9610: symptoms, stylets, phloem pressure and data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

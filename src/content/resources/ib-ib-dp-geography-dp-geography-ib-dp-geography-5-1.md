@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-5-1"
 description: "IB DP Geography Leisure, tourism and sport 5.1 in depth: how leisure is measured, why participation varies between and within countries, and how to read leisure data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The IB Geography guide could not be opened while this page was written, so a teacher should check its content against the guide's wording for sub-topic 5.1."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB Geography guide could not be opened while this page was written, so a teacher should check its content against the guide's wording for sub-topic 5.1."
 publishedDate: 2026-11-18
 featured: false
 ---

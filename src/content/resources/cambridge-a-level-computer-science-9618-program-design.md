@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "program-design"
 description: "Study guide to 9618 section 12.2: structure charts, parameters between modules, deriving pseudocode from a chart, and state-transition diagrams."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm the structure chart symbols described in words (data and flag couples, diamond for selection, curved arrow for iteration) match the notation Cambridge uses in current 9618 papers."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm the structure chart symbols described in words (data and flag couples, diamond for selection, curved arrow for iteration) match the notation Cambridge uses in current 9618 papers."
 ---
 
 Section 12.2 Program Design of Cambridge International AS & A Level Computer Science 9618 covers two design tools. You must "use a structure chart to decompose a problem into sub-tasks and express the parameters passed between the various modules / procedures / functions", which includes describing its purpose, constructing one for a given problem and deriving equivalent pseudocode from one. You must also show understanding of the purpose of state-transition diagrams to document an algorithm. It is AS content, examined in Paper 2.

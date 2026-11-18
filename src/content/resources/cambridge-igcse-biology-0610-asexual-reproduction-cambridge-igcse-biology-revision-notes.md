@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "asexual-reproduction-cambridge-igcse-biology"
 description: "Revision notes for Cambridge IGCSE Biology 0610 asexual reproduction: definition, spotting examples, pros and cons in the wild and for crops, and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "capital-and-revenue-expenditure-yac11"
 description: "Revision notes on outcomes 1.1.11-1.1.12 of Edexcel IAL Accounting: asset cost, repairs and improvements, error effects and corrections, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

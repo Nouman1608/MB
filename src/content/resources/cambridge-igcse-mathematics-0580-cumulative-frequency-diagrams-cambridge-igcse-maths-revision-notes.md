@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "cumulative-frequency-diagrams-cambridge-igcse-maths"
 description: "Revision notes for Cambridge IGCSE Maths 0580 section 9.6 (Extended): cumulative frequency tables and curves, median, quartiles, IQR and percentiles."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

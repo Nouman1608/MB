@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "organisation-of-an-ecosystem-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 section 4.7.2 in depth: food chains, transects and quadrats, predator-prey cycles, carbon and water cycles, decay and change."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

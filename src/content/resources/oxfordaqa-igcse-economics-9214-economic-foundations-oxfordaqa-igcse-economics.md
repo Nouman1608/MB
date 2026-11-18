@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "economic-foundations-oxfordaqa-igcse-economics"
 description: "Study guide to 9214 section 3.1.1 Economic foundations: needs and wants, key decisions, economic groups, factors of production and opportunity cost."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "non-current-asset-depreciation-yac11"
 description: "Study guide to outcomes 1.1.13-1.1.20 of Edexcel IAL Accounting: part-year policies, revaluation, change of method, part-exchange disposals and the schedule."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

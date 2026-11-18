@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "group-1-alkali-metals-4ch1"
 description: "4CH1 Group 1 revision notes: reactions of lithium, sodium and potassium with water and air, predictions and the electronic explanation, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

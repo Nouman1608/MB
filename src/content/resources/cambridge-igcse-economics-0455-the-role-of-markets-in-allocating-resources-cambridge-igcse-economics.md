@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-role-of-markets-in-allocating-resources-cambridge-igcse-economics"
 description: "Study guide to how markets allocate scarce resources for Cambridge IGCSE Economics 0455: the market system, the three key questions and the price mechanism."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

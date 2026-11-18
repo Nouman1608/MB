@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "demand-and-supply-curves-cambridge-alevel-economics"
 description: "Revision notes for 9708 section 2.1: effective demand, market curves, determinants of demand and supply, shifts versus movements, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

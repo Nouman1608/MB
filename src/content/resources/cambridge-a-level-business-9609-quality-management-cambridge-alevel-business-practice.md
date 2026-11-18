@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "quality-management-cambridge-alevel-business"
 description: "Original practice questions with mark-scheme answers on quality control, quality assurance, TQM and benchmarking for Cambridge A Level Business 9609 9.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

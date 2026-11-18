@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-accounting-equation"
 description: "Twelve original questions on 0452 sub-topic 1.2: classifying items, transaction effects, missing figures and profit from changes in equity, with mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

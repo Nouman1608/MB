@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ion-and-ionic-bonds"
 description: "Original practice questions and mark-scheme answers on Cambridge O Level Chemistry 5070 section 2.4: ion formation, ionic lattices and dot-and-cross diagrams."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

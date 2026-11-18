@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "air-quality-and-climate"
 description: "Condensed recall for 0620 subtopic 10.3: air composition, pollutant sources and effects, strategies, photosynthesis and the greenhouse effect, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

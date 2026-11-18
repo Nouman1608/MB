@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-motor-effect-oxfordaqa-igcse"
 description: "Condensed notes on the motor effect, factors affecting the force, Fleming's left-hand rule and why a coil rotates, for OxfordAQA International GCSE Physics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

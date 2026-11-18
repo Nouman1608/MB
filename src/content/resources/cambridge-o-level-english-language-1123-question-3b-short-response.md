@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "reading-1123"
 description: "How to answer the 5-mark Question 3b short response on 1123 Paper 1: reading implicit meanings and attitudes in Text B, naming them precisely and proving them."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

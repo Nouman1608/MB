@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "correction-of-errors-yac11"
 description: "Eleven original correction of errors questions for Edexcel IAL Accounting (YAC11) on journals, suspense, revised profit and control accounts, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

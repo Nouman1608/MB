@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "allocation-of-resources-ocr-aslevel-economics"
 description: "OCR AS Economics (H060) guide to resource allocation: the price mechanism's functions, incentives, and how market, planned and mixed economies compare."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

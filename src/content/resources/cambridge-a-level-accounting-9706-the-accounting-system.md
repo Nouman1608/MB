@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-accounting-system"
 description: "Study guide to Cambridge 9706 topic 1.2: double entry, the accounting equation, books of prime entry, ledger accounts, the trial balance and accounting concepts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

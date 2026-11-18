@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "implementation-and-measurements-unit-6-yph11"
 description: "Twelve original questions on judging partial experiment details, units, rounding and anomalies, with answers, for Edexcel IAL Physics Unit 6 section 6.4."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

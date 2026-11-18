@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p2-trigonometry-edexcel-alevel-maths"
 description: "Using tan θ = sin θ/cos θ and sin²θ + cos²θ = 1, and solving trigonometric equations in a given interval, for Edexcel IAL Maths Unit P2, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

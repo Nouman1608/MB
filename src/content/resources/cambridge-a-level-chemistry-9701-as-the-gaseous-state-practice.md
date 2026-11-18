@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-the-gaseous-state"
 description: "Original questions with worked answers on gas pressure, ideal and real gases, pV = nRT calculations and determining Mr from gas data, for Cambridge 9701."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

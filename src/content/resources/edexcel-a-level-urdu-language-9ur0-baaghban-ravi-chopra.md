@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "baaghban-ravi-chopra-9ur0"
 description: "9UR0 study guide to the film Baaghban (باغبان): evaluating melodrama, songs and structure, comparing characters, and planning a 45-mark Section C essay."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

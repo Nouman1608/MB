@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "bin-roye-momina-duraid-9ur0"
 description: "9UR0 study guide to the film Bin Roye (بن روئے): analysing film technique in Urdu, a scene log for revision and an annotated 45-mark Section C plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

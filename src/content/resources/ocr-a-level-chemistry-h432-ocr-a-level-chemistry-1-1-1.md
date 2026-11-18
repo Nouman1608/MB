@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-1-1-1"
 description: "OCR H432 1.1.1 in depth: writing a full experimental plan, sizing quantities to fit apparatus, controlling variables and judging whether a method will work."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

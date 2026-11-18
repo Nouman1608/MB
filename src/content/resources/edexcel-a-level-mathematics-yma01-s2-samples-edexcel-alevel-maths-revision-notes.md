@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "s2-samples-edexcel-alevel-maths"
 description: "Revision notes for Edexcel IAL Maths S2 samples: census versus sample, sampling units and frames, statistics, sampling distributions, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

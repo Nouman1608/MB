@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "size-of-business-cambridge-alevel-business"
 description: "Condensed 9609 notes for 1.3 Size of business: size measures, small and family firms, growth types, takeover outcomes, alliances, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

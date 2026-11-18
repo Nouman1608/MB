@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "bisaat-basir-kazmi-9ur0"
 description: "9UR0 study guide to the play Bisaat (بساط): writing about drama, the essay grids, a scene-analysis method and an annotated plan for a Section B answer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu literature teacher who knows Bisaat should check that the method, title discussion and question advice fit the play; this page deliberately gives no plot details, which students must take from the text."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: An Urdu literature teacher who knows Bisaat should check that the method, title discussion and question advice fit the play; this page deliberately gives no plot details, which students must take from the text."
 publishedDate: 2026-11-18
 featured: false
 ---

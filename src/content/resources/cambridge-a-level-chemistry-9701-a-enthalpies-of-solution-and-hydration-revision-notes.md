@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-enthalpies-of-solution-and-hydration"
 description: "Revision notes on hydration and solution enthalpies: exact definitions, the solution energy cycle, multi-ion calculations and charge-density reasoning for 9701."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

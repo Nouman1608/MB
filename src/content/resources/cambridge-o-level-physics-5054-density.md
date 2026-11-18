@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "density"
 description: "Subtopic 1.4 of Cambridge O Level Physics 5054 in depth: ρ = m/V, unit conversions, and measuring the density of liquids and of regular and irregular solids."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

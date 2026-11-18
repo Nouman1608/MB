@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "mass-number-and-isotopes-7405"
 description: "AQA 7405 mass number and isotopes in depth: counting particles in ions, why isotopes exist, time-of-flight calculations and reading element spectra."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm that the electron impact and electrospray detail and the flight-time calculations sit within 3.1.1.2, since the specification text names only the ionisation stage."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm that the electron impact and electrospray detail and the flight-time calculations sit within 3.1.1.2, since the specification text names only the ionisation stage."
 publishedDate: 2026-11-18
 featured: false
 ---

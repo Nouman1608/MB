@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "digital-signal-processing-aqa-alevel"
 description: "Revision notes for AQA A-Level Physics 7408 section 3.13.5: gate truth tables, Boolean notation, counter sequences, modulo-n resets and astable timing, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

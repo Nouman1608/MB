@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p1-differentiation-edexcel-alevel-maths"
 description: "Study guide to Edexcel IAL Maths Pure 1 differentiation: the gradient as a limit, first principles, powers of x, second derivatives, tangents and normals."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

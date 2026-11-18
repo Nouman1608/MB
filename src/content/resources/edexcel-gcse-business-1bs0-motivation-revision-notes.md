@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "motivation-1bs0"
 description: "Revision notes for Edexcel GCSE Business 2.5.4: why motivation matters and the financial and non-financial methods, with pay calculations and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

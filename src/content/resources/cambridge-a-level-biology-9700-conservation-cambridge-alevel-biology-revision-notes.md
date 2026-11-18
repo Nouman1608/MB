@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "conservation-cambridge-alevel-biology"
 description: "Condensed recall for 9700 section 18.3: extinction causes, reasons for biodiversity, conservation methods, assisted reproduction, invasive species, IUCN, CITES."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

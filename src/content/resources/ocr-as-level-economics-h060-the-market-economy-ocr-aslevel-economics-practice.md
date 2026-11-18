@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "the-market-economy-ocr-aslevel-economics"
 description: "Twelve original OCR AS Economics (H060) questions on the market economy, from multiple choice to a 10-mark essay, each with a full worked answer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm that the concept of the margin and rationality sit within The market economy in the H060 specification, as questions 3, 7 and 10 assume."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm that the concept of the margin and rationality sit within The market economy in the H060 specification, as questions 3, 7 and 10 assume."
 publishedDate: 2026-11-18
 featured: false
 ---

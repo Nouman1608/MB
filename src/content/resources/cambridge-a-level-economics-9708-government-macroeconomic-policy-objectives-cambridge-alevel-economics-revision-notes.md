@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "government-macroeconomic-policy-objectives-cambridge-alevel-economics"
 description: "Revision notes for 9708 section 5.1: price stability, low unemployment and economic growth, why each matters, the policies used, data reading and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

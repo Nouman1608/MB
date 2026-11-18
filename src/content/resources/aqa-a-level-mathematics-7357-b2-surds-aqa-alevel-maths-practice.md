@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "b2-surds-aqa-alevel-maths"
 description: "Original AQA A-level Maths 7357 B2 surds practice: ordering, rationalising, surd equations, equating parts and exact lengths, with mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

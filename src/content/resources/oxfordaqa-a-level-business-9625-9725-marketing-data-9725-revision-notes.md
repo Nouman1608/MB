@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "marketing-data-9725"
 description: "Revision notes for 9725 section 3.1.2.2: research methods, samples, cost-time-reliability trade-offs, correlation and confidence intervals, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

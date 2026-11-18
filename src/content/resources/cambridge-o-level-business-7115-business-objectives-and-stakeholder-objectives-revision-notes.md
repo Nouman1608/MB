@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-objectives-and-stakeholder-objectives"
 description: "Revision notes for Cambridge O Level Business 7115 subtopic 1.5: objectives, market share, social enterprises, stakeholder aims and conflicts, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

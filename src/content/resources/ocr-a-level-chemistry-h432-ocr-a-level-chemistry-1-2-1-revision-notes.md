@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-1-2-1"
 description: "Condensed OCR H432 1.2.1 revision notes: the ten practical skills, CPAC links, hazards and risks, lab records, software and citing sources, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

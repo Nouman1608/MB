@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-1-1"
 description: "IB DP Maths AI section 1.1 study guide: writing numbers as a × 10^k, calculating with them by hand and on a GDC, contextual problems and common errors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

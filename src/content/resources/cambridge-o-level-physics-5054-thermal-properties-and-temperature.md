@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "thermal-properties-and-temperature"
 description: "Subtopic 2.2 of Cambridge O Level Physics 5054 in depth: thermal expansion, kelvin, specific heat capacity and its experiments, and changes of state."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

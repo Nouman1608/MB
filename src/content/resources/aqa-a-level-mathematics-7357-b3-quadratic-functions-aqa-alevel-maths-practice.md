@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "b3-quadratic-functions-aqa-alevel-maths"
 description: "Original AQA A-level Maths 7357 B3 practice: completing the square, turning points, discriminant conditions and quadratics in a function of x, fully answered."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

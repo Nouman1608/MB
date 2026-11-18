@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p2-coordinate-geometry-oxfordaqa-alevel-maths"
 description: "OxfordAQA 9660 P2.3 study guide: converting between parametric and Cartesian equations, choosing an elimination method, and the restrictions a parameter brings."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

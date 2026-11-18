@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "fieldwork-investigations-5014-2027"
 description: "Revision notes for 5014 sub-topic 5.4: investigation steps, variables, sampling strategies and the seven techniques, data rules, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

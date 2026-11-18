@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-formulas-functional-groups-and-the-naming-of-organic-compounds"
 description: "Original questions with full answers on functional groups, formula types, systematic naming and empirical formulas, for Cambridge 9701 subtopic 13.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

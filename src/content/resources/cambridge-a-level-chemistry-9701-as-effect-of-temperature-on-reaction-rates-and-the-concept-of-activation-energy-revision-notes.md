@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-effect-of-temperature-on-reaction-rates-and-the-concept-of-activation-energy"
 description: "Condensed notes on activation energy, Boltzmann curve features, two-temperature sketches and 1/t rate data, with a self-test, for Cambridge 9701 subtopic 8.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-mole-concept-9202"
 description: "Condensed OxfordAQA IGCSE Chemistry (9202) notes on section 3.6.3: the mole, mass and Mr, Avogadro's constant and atoms versus molecules, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

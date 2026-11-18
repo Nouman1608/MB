@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-formulas-functional-groups-and-the-naming-of-organic-compounds"
 description: "Original exam-style questions on naming and drawing acyl chlorides, amides, amino acids, cyclic and aromatic compounds, with answers, for Cambridge 9701."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

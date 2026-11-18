@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "dna-genes-and-chromosomes-aqa-alevel-biology"
 description: "Original practice questions with mark-scheme answers on DNA in different cells, genes, loci, the genetic code, exons and introns for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

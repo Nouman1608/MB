@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p2-exponentials-and-logarithms-oxfordaqa-alevel-maths"
 description: "Revision notes for OxfordAQA 9660 P2.5: graphs of e^x and ln x, inverse rules, solving exponential and log equations, growth and decay models and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

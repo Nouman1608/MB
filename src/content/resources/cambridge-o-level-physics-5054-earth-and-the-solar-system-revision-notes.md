@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "earth-and-the-solar-system"
 description: "Condensed 5054 section 6.1 recall: the five Earth facts, orbital speed method, Solar System bodies, field strength trends, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

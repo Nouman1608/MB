@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-1-1"
 description: "Condensed IB DP Business Management 1.1 notes: business functions, value added, sectors and sectoral change, entrepreneurship, start-up risks and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

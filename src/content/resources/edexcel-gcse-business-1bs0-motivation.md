@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "motivation-1bs0"
 description: "Edexcel GCSE Business 2.5.4 in depth: why motivation matters and how to choose financial and non-financial methods for a business, with worked pay examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

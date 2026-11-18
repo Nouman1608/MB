@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "structure-of-prokaryotic-cells-and-viruses-aqa-alevel-biology"
 description: "A focused study guide to AQA A-level Biology 7402 section 3.2.1.2: how prokaryotic cells differ from eukaryotic cells, and the structure of viruses."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

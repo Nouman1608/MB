@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "emigration-from-pakistan-research-subject-9ur0"
 description: "9UR0 research subject 3.3: causes of emigration, the highly educated who leave and returnees' positive effects, with a Section C plan and model paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

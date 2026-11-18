@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-4-2"
 description: "Original IB DP Business Management practice questions on 4.2 Marketing planning: segmentation, targeting, position maps, niche markets and USP, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

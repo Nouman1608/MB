@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "component-5-coursework-0475"
 description: "How to write the optional empathic response assignment for 0475 Component 5: choosing a moment, building a convincing voice and weaving in textual detail."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

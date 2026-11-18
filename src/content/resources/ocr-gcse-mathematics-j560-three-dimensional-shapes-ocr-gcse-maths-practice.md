@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "three-dimensional-shapes-ocr-gcse-maths"
 description: "Original OCR GCSE Maths J560 8.06 practice questions with full answers on properties of 3D solids, plans, elevations, cube stacks and isometric drawing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

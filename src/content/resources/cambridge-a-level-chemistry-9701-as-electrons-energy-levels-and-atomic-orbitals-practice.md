@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-electrons-energy-levels-and-atomic-orbitals"
 description: "Twelve original Cambridge 9701 subtopic 1.3 questions on configurations of atoms and ions, Cr and Cu, electrons in boxes and orbital shapes, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

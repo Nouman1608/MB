@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "percentages-cambridge-igcse-maths"
 description: "Revision notes for 0580 subtopic 1.13 Percentages: multipliers, percentage change, interest, Extended repeated change and reverse percentages, plus a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

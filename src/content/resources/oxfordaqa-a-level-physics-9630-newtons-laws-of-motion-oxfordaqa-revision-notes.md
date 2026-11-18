@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "newtons-laws-of-motion-oxfordaqa"
 description: "Condensed OxfordAQA 9630 notes on 3.2.5: the three laws in exam wording, free-body diagrams, F = ma for linked objects, third-law pairs and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

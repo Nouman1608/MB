@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "option-1b-aspects-of-comedy-7717"
 description: "Revision notes on disguise, escapes, discovery and the supernatural in AQA English Literature B (7717) Aspects of Comedy: examples, key terms and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

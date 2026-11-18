@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "data-integrity"
 description: "Original questions with worked answers on validation, check digits, double entry, odd parity blocks and checksums for Cambridge AS Computer Science 9618."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

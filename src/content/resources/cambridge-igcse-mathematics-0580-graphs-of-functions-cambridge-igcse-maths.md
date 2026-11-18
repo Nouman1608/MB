@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "graphs-of-functions-cambridge-igcse-maths"
 description: "Study guide to 0580 subtopic 2.10 Graphs of functions: tables of values, drawing curves, graphical solutions and exponential growth and decay graphs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

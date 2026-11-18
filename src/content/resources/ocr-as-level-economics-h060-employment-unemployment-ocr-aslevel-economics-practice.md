@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "employment-unemployment-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) practice questions on unemployment measures, types, consequences and full employment, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "emigration-from-pakistan-research-subject-9ur0"
 description: "Eleven original 9UR0 practice questions on emigration from Pakistan, covering causes, brain drain and returnees, ending with a full Section C style task."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "externalities-edexcel-igcse-economics"
 description: "Original practice questions with worked answers on external costs, external benefits and social cost and benefit for Edexcel International GCSE Economics 4EC1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

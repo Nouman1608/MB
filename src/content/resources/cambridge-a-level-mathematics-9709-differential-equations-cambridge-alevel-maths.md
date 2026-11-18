@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "differential-equations-cambridge-alevel-maths"
 description: "Study guide to Cambridge 9709 Paper 3 section 3.8: forming rate equations, separating variables, particular solutions and interpreting models in context."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "photoelectric-effect-oxfordaqa"
 description: "Deeper study guide to 9630 section 3.5.10: photons and E = hf, photon rates, threshold frequency, work function, stopping potential and hf = ϕ + Ek(max)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

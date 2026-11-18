@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-standard-candles"
 description: "A focused guide to 25.1 Standard candles in Cambridge A Level Physics 9702: luminosity, radiant flux intensity, F = L/4πd² and finding distances to galaxies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

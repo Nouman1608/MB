@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "expressions-and-formulae-edexcel-igcse-maths"
 description: "Study guide to 4MA1 section 2.3: notation, substituting into formulae, writing formulae from words and diagrams, and changing the subject, with Higher cases."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

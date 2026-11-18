@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "use-stylesheets-0417"
 description: "Original questions with full answers on CSS for 0417 subtopic 21.3: table and font properties, classes, inline styles, comments, hierarchy and relative paths."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

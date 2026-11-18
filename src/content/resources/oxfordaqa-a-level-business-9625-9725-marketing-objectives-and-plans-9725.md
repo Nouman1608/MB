@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "marketing-objectives-and-plans-9725"
 description: "Study guide to 9725 section 3.1.2.1: calculating and interpreting marketing objectives, building a marketing plan and return on marketing spending."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Return on marketing spending follows the 9725 Formulae appendix (profit from marketing activities divided by marketing spend); a teacher should confirm how mark schemes define that profit figure."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Return on marketing spending follows the 9725 Formulae appendix (profit from marketing activities divided by marketing spend); a teacher should confirm how mark schemes define that profit figure."
 publishedDate: 2026-11-18
 featured: false
 ---

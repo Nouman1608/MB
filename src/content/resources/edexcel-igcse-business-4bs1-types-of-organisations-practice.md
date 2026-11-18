@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "types-of-organisations-4bs1"
 description: "Twelve original Edexcel IGCSE Business 4BS1 questions on types of organisations, liability, control, franchising and public ownership, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

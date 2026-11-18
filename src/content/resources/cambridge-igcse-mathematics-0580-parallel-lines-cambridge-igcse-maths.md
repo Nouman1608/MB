@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "parallel-lines-cambridge-igcse-maths"
 description: "Study guide to 0580 subtopic 3.6 Parallel lines: equal gradients, equations through a point, lines parallel to the axes, ax + by = c and shape proofs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "b7-graphs-of-functions-aqa-alevel-maths"
 description: "Original AQA A-level Maths 7357 B7 practice on polynomial sketches, modulus equations, hyperbola intersections, tangency and proportion, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

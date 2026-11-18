@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "component-5-coursework-0475"
 description: "Twelve original tasks on 0475 coursework using two or more poems or stories: rules, titles, structure, linking and analysis of original poems, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

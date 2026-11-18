@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "accounting-concepts-4ac1"
 description: "Why consistency, prudence, accruals, materiality, money measurement and business entity matter, with bookkeeping examples, for Edexcel IGCSE Accounting 1.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

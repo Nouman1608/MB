@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-some-reactions-of-the-halide-ions"
 description: "Original questions with mark-scheme answers on halide reducing power, silver nitrate and ammonia, and sulfuric acid equations, for Cambridge 9701 11.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

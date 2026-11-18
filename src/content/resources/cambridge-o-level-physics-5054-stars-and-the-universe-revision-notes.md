@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "stars-and-the-universe"
 description: "Condensed 5054 section 6.2 recall: the Sun, fusion, light-years, the star life cycle by mass, redshift and the Big Bang chain, with traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

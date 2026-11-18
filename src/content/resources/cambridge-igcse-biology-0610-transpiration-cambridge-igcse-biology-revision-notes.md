@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "transpiration-cambridge-igcse-biology"
 description: "Revision notes for 0610 sub-topic 8.3 Transpiration: evaporation and diffusion, potometers, factors, (Extended) transpiration pull and wilting."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

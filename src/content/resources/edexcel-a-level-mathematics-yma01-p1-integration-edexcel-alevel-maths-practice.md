@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p1-integration-edexcel-alevel-maths"
 description: "Edexcel IAL Maths P1 integration practice with worked answers: integrating powers of x, rewriting expressions, the constant c and finding curves from f′(x)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

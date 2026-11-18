@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "paper-2-drama-0475"
 description: "Twelve original questions on decoding, planning and writing the 0475 Paper 2 drama essay, using an invented play summary, with full mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

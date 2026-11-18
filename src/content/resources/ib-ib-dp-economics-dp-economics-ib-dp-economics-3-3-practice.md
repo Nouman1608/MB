@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-3"
 description: "Original IB DP Economics 3.3 practice questions with answers on unemployment, inflation, an HL weighted price index, the Phillips curve and debt."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The IB Economics guide could not be downloaded while this page was written. A teacher should check the questions against the guide's wording for sub-topic 3.3, including whether the Phillips curve and debt questions should be labelled HL only."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB Economics guide could not be downloaded while this page was written. A teacher should check the questions against the guide's wording for sub-topic 3.3, including whether the Phillips curve and debt questions should be labelled HL only."
 publishedDate: 2026-11-18
 featured: false
 ---

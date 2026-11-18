@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "biotechnology-and-genetic-modification-cambridge-igcse-biology"
 description: "Original practice questions with mark-scheme answers on why bacteria are useful in biotechnology and GM, Cambridge IGCSE Biology 0610 section 21.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

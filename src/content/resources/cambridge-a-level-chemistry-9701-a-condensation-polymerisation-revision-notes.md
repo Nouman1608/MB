@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-condensation-polymerisation"
 description: "Revision notes on polyesters and polyamides from five monomer types, repeat units, monomers from chains and repeat-unit counts, for Cambridge 9701 A Level."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

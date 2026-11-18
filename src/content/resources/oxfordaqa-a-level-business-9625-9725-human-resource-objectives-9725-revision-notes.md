@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "human-resource-objectives-9725"
 description: "Revision notes for 9725 section 3.2.2.1: HR objectives, workforce planning, recruitment stages, selection, contracts and training, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

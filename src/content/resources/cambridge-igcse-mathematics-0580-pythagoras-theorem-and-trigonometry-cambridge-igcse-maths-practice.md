@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "pythagoras-theorem-and-trigonometry-cambridge-igcse-maths"
 description: "Original 0580 E6.6 questions with marked answers: lengths and angles in cuboids, pyramids, cones and prisms, and the angle between a line and a plane."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

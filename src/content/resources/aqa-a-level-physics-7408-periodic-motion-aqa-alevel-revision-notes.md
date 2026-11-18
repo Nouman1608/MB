@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "periodic-motion-aqa-alevel"
 description: "Condensed AQA A-Level Physics 7408 periodic motion notes: circular motion, SHM equations and phase, oscillator energy, damping, resonance and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

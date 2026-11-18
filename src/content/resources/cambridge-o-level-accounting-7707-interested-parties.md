@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "interested-parties"
 description: "Study guide to O Level Accounting 7707 section 6.4: how owners, managers, lenders, suppliers, governments, club members and others use accounts for decisions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "trigonometry-cambridge-alevel-maths-3"
 description: "Thirteen original Cambridge 9709 Paper 3 trigonometry questions with marked answers on reciprocal functions, compound and double angles and the R-form."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

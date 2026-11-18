@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p3-exponentials-and-logarithms-edexcel-alevel-maths"
 description: "Condensed notes on e^x, ln x, solving e^(ax+b) = p and ln(ax+b) = q, and logarithmic graphs for Edexcel IAL Maths Unit P3, with exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

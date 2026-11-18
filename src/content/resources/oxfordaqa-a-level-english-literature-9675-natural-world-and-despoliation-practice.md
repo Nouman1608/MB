@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-2-section-b-9675"
 description: "Twelve original questions on the natural world and its despoliation for the 9675 Unit 2 poetry essay, with an invented poem, plans and point-by-point answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

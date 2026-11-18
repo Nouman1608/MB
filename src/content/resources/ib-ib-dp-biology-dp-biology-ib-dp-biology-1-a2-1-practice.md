@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a2-1"
 description: "Twelve original IB DP Biology A2.1 (HL) questions with marked answers: early Earth, the four requirements, Miller-Urey, vesicles, RNA and LUCA."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

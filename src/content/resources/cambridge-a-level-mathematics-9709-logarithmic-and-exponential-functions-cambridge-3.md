@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "logarithmic-and-exponential-functions-cambridge-3"
 description: "Study guide to Cambridge 9709 Paper 3 section 3.2: log laws, e^x and ln x as inverses, index equations and inequalities, and reducing laws to linear form."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

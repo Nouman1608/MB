@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "bisaat-basir-kazmi-9ur0"
 description: "Eleven original 9UR0 practice questions on the play Bisaat: drama terms, the title, scene analysis, analytical Urdu and a 45-mark essay approach."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "An Urdu literature teacher who knows Bisaat should check the essay questions and indicative content against the play; answers deliberately describe the evidence required rather than giving plot details."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: An Urdu literature teacher who knows Bisaat should check the essay questions and indicative content against the play; answers deliberately describe the evidence required rather than giving plot details."
 publishedDate: 2026-11-18
 featured: false
 ---

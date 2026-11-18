@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-macroeconomic-aims-of-government"
 description: "Study guide to section 4.2 of Cambridge O Level Economics 2281: the five macroeconomic aims, why they are chosen, their criteria and conflicts between them."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

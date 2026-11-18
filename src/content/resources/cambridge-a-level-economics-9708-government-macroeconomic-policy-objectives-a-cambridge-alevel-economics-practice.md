@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "government-macroeconomic-policy-objectives-a-cambridge-alevel-economics"
 description: "Eleven original questions with mark-scheme answers on Cambridge 9708 section 10.1: the seven macroeconomic objectives, data diagnosis and ranking priorities."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "probability-edexcel-igcse-maths"
 description: "Twelve original 4MA1 probability questions on sample spaces, tables, Venn diagrams, relative frequency, tree diagrams and dependent events, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "pakistan-movement-9236"
 description: "The Khilafat movement (1919-24) for OxfordAQA 9236: causes, leaders, Non-Cooperation, the Hijrat, its collapse and its effect on Muslim-Hindu relations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

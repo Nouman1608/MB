@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "supply-side-policy-as-cambridge-alevel-economics"
 description: "Condensed notes on Cambridge 9708 section 5.4: supply-side policy, LRAS shifts, productivity, unit labour cost and the named tools, with traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

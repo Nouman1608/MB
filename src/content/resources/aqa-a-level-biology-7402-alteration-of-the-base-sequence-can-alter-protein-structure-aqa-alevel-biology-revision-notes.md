@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "alteration-of-the-base-sequence-can-alter-protein-structure-aqa-alevel-biology"
 description: "Condensed notes on gene mutation types, mutagenic agents, degenerate code and frame shifts, with a self-test, for AQA A-level Biology 7402 section 3.8.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

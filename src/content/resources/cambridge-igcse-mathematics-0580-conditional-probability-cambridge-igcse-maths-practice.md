@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "conditional-probability-cambridge-igcse-maths"
 description: "Original 0580 E8.4 questions with marked answers: conditional probability from two-way tables, Venn diagrams, sample spaces and tree diagrams."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

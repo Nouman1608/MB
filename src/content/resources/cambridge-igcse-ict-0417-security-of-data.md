@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "security-of-data-0417"
 description: "How hacking, phishing, pharming, malware and card fraud work, and how biometrics, SSL, encryption, firewalls and 2FA protect data, for IGCSE ICT 0417 8.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

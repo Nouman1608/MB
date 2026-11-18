@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "wave-particle-duality-aqa-alevel"
 description: "AQA A-level Physics 7408 section 3.12.2 in depth: Newton and Huygens, Young, Maxwell, Hertz and Fizeau, photoelectricity, de Broglie, TEM and STM."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

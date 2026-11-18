@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "option-2b-elements-of-political-and-social-protest-writing-7717"
 description: "How protest texts connect the smaller world to the larger world, from homes to governments, for AQA English Literature B (7717), with a model paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

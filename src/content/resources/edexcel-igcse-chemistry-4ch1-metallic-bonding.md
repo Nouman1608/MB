@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "metallic-bonding-4ch1"
 description: "Study guide for 4CH1 sub-topic 1(h), Paper 2 only: the 2-D metallic lattice, metallic bonding as electrostatic attraction, and why metals conduct and bend."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "standard-form-ocr-gcse-maths"
 description: "OCR GCSE Maths J560 section 3.02 in depth: converting, interpreting and ordering standard form, and calculating with it with and without a calculator."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

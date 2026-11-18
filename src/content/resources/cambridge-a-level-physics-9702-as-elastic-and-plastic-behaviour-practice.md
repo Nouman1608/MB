@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-elastic-and-plastic-behaviour"
 description: "Original practice questions with mark-scheme answers on elastic and plastic deformation, work done from F-x graphs and Ep = ½kx² for Cambridge AS Physics 9702."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

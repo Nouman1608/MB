@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "transfer-of-thermal-energy"
 description: "Subtopic 2.3 of Cambridge O Level Physics 5054 in depth: conduction, convection and infrared radiation, the named experiments and everyday applications."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

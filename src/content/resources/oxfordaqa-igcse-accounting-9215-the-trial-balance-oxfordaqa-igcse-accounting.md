@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-trial-balance-oxfordaqa-igcse-accounting"
 description: "Study guide to the trial balance for OxfordAQA IGCSE Accounting 9215: balancing accounts, placing awkward balances, finding capital and redrafting a wrong trial balance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-metallic-bonding"
 description: "Revision notes on metallic bonding for Cambridge 9701: the exact definition, delocalised electrons, factors affecting strength, conductivity and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

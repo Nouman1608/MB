@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p2-proof-edexcel-alevel-maths"
 description: "How to structure a proof, choose a complete set of cases for proof by exhaustion and disprove a claim by counter-example in Edexcel IAL Maths Unit P2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

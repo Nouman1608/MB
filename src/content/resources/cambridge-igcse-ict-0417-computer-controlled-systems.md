@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "computer-controlled-systems-0417"
 description: "How robots in manufacture, production line control and autonomous vehicles work, and their pros and cons compared with humans, for Cambridge IGCSE ICT 0417 6.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

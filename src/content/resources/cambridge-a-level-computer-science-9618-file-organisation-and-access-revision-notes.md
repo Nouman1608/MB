@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "file-organisation-and-access"
 description: "Revision notes for 9618 section 13.2: file organisations, access methods, hit rate, remainder and folding hashes, collisions, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm that the folding method is an acceptable example of a second hashing algorithm for 9618, and check the note on hashing with a sequential file."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm that the folding method is an acceptable example of a second hashing algorithm for 9618, and check the note on hashing with a sequential file."
 ---
 
 Condensed notes for 13.2 File organisation and access, A Level content in Cambridge International AS & A Level Computer Science 9618, examined in Paper 3. You need the three organisations (serial, sequential, random), the two access methods (sequential, direct), how to choose between them for a problem, and how hashing algorithms are used to write and read records.

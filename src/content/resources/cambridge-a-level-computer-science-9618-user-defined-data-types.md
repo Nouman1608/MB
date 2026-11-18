@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "user-defined-data-types"
 description: "Study guide to 9618 section 13.1: why user-defined types are needed, enumerated and pointer types, sets, records, classes, and designing a type."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the pseudocode for set definitions, pointer dereferencing and class declarations against the current 9618 pseudocode guide."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the pseudocode for set definitions, pointer dereferencing and class declarations against the current 9618 pseudocode guide."
 ---
 
 Section 13.1 User-defined data types of Cambridge International AS & A Level Computer Science 9618 asks you to show understanding of why user-defined types are necessary, to define and use non-composite types (including enumerated and pointer), to define and use composite types (including set, record and class/object), and to "choose and design an appropriate user-defined data type for a given problem". It is A Level content, examined in Paper 3.

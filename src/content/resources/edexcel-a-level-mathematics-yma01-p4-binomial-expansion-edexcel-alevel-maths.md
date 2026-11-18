@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p4-binomial-expansion-edexcel-alevel-maths"
 description: "Edexcel IAL Maths P4 binomial series for rational n: expanding (a + bx)^n, validity, approximations, unknown constants and partial fraction expansions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

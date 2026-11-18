@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p2-integration-edexcel-alevel-maths"
 description: "Condensed notes on definite integrals, areas with curves and lines, regions below the axis and the trapezium rule for Edexcel IAL Maths P2, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

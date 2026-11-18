@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "hitlers-foreign-policy-2147"
 description: "O Level History 2147 key question 2.3: Hitler's aims and steps from 1933, appeasement weighed, the Nazi-Soviet Pact, and why Britain and France went to war."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

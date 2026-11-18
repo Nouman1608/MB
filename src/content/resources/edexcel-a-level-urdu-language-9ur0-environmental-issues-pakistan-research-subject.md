@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "environmental-issues-pakistan-research-subject-9ur0"
 description: "9UR0 research subject 4.3: government action on climate and pollution, disaster measures and foreign aid agencies, with Section C research planning."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

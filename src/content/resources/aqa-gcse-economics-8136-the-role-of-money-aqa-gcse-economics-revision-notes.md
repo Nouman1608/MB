@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-role-of-money-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics 8136 notes for 3.2.5.1: the four functions of money, barter, why deposits count as money, inflation effects and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

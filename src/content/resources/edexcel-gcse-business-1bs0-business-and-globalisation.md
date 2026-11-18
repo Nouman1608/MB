@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-and-globalisation-1bs0"
 description: "Study guide to Edexcel GCSE Business 1BS0 item 2.1.3: imports, exports, relocation, multinationals, tariffs, trade blocs and competing internationally."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ratio-and-proportion-cambridge-igcse-maths"
 description: "Study guide to 0580 subtopic 1.11: simplifying ratios, sharing by total or difference, recipes, map scales and best value, with worked examples for both tiers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

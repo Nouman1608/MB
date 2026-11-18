@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "gravitational-field-strength-oxfordaqa"
 description: "Deeper study guide to 9630 section 3.7.2: force fields, field lines, g = F/m, g = GM/r², fields of two bodies, the neutral point and g with height."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

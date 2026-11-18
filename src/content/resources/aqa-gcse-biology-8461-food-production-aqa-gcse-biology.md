@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "food-production-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 section 4.7.5 in depth: food security, intensive farming, sustainable fisheries, mycoprotein, GM bacteria and GM crops."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

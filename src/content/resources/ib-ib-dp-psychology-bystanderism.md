@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-psychology-of-human-relationships"
 description: "Bystanderism for the IB DP human relationships option: the decision model, pluralistic ignorance, social identity, dangerous emergencies and real CCTV evidence."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

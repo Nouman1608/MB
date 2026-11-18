@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "communication-and-homeostasis-ocr-alevel-biology"
 description: "Original OCR A Level Biology A (H420) 5.1.1 questions with answers on communication, cell signalling, feedback and temperature control in animals."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

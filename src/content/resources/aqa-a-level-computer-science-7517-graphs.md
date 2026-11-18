@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "graphs-7517"
 description: "Deeper guide to AQA 7517 section 4.2.4 Graphs: terms, typical uses, building adjacency matrices and lists for directed and weighted graphs, and comparing them."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

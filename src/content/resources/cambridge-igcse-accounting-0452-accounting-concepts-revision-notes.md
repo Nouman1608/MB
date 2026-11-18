@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "accounting-concepts"
 description: "Condensed notes on the ten accounting concepts, their effects on profit and balances, look-alike pairs and a self-test, for Cambridge IGCSE Accounting 0452."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

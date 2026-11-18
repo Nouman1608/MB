@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "general-ideas-of-sampling-4040"
 description: "Study guide to section 1.1 of O Level Statistics 4040: populations, census or sample, what makes a sample representative, and estimating from a sample."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

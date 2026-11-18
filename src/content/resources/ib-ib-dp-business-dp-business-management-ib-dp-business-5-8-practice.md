@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-8"
 description: "Original IB Business Management practice questions on 5.8 Research and development (HL only): pipelines, unmet needs, IP and innovation, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

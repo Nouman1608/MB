@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "capital-expenditure-and-revenue-expenditure-4ac1"
 description: "Twelve original 4AC1 questions on classifying capital and revenue expenditure and correcting misclassification errors, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

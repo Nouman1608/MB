@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "input-devices-and-their-uses-0417"
 description: "Every input device named in Cambridge IGCSE ICT 0417 section 2.1, from keyboards to sensors and light pens, with uses, pros, cons and model answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

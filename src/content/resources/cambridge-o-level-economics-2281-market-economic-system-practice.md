@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "market-economic-system"
 description: "Original practice questions with full answers on the market economic system for Cambridge O Level Economics 2281: features, price signals and evaluation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

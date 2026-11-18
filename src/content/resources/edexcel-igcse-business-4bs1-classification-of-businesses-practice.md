@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "classification-of-businesses-4bs1"
 description: "Twelve original Edexcel IGCSE Business 4BS1 questions on primary, secondary and tertiary activities, chains of production and sector data, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

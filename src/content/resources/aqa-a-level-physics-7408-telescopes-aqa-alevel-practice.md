@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "telescopes-aqa-alevel"
 description: "Original AQA A-Level Physics 7408 telescopes practice: magnification, Cassegrain and aberrations, radio to X-ray telescopes, resolution and CCDs, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

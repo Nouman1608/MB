@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-costs-and-revenue-aqa-alevel-economics"
 description: "Revision notes for AQA 7136 section 3.1.4: productivity, diminishing returns, cost and revenue formulae, scale economies and profit, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

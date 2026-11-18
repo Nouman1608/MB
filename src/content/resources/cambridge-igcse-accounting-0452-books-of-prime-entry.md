@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "books-of-prime-entry"
 description: "Study guide to 0452 sub-topic 2.3: the seven books of prime entry, posting, a three-column cash book, the imprest system, cash on site and digital entry."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

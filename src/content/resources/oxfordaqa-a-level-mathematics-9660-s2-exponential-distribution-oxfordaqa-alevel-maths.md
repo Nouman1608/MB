@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "s2-exponential-distribution-oxfordaqa-alevel-maths"
 description: "OxfordAQA 9660 S2.3 study guide: when the exponential model applies, the cdf by integration, medians and quartiles, finding the rate, and multi-step questions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

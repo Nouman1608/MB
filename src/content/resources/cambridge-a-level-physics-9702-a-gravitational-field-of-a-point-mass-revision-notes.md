@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-gravitational-field-of-a-point-mass"
 description: "Revision notes for Cambridge A Level Physics 9702 13.3: deriving g = GM/r², inverse square ratios, g nearly constant near the surface, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

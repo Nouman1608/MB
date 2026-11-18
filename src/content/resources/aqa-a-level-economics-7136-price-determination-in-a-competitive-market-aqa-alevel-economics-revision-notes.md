@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "price-determination-in-a-competitive-market-aqa-alevel-economics"
 description: "Revision notes for AQA 7136 section 3.1.3: demand and supply shifts, PED, YED, XED and PES formulae, equilibrium, related markets and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

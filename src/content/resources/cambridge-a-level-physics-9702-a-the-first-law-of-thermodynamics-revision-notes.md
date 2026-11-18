@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-the-first-law-of-thermodynamics"
 description: "Condensed notes on 16.2 for Cambridge A Level Physics 9702: W = pΔV, work by and on a gas, ΔU = q + W sign rules, special cases, key terms and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

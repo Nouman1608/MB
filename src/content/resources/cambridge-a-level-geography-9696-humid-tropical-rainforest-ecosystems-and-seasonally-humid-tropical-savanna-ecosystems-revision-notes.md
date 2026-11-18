@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "humid-tropical-rainforest-ecosystems-and-seasonally-humid-tropical-savanna-ecosystems-9696"
 description: "Revision notes for Cambridge 9696 Geography 7.3: succession, vegetation, Gersmehl cycles, soil fertility, trophic levels and tropical soils, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

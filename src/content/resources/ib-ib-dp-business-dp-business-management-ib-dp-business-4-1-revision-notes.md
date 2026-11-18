@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-4-1"
 description: "Condensed IB DP Business Management 4.1 notes: market and product orientation, market share and growth, HL market leadership, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "introduction-to-algebra"
 description: "Cambridge O Level Maths 4024 subtopic 2.1: letters as generalised numbers, algebraic notation and substituting into expressions and formulas."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

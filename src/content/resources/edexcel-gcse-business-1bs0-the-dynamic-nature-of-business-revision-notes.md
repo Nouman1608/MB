@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-dynamic-nature-of-business-1bs0"
 description: "Condensed notes for Edexcel GCSE Business 1BS0 item 1.1.1: triggers for new ideas, original versus adapted ideas, key terms, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

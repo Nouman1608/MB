@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-physics-c-5"
 description: "Twelve original IB DP Physics C.5 questions with worked answers: wavefronts, redshift, binary stars, galaxy spectra and HL moving-source and observer sound."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

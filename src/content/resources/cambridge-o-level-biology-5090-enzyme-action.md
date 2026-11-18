@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "enzyme-action"
 description: "Deeper guide to 5090 subtopic 5.1: catalysts, enzymes in metabolism, the steps of enzyme action, specificity, and model answers that earn every mark."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

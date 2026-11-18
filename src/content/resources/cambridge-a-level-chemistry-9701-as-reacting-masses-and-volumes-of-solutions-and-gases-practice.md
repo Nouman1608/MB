@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-reacting-masses-and-volumes-of-solutions-and-gases"
 description: "Thirteen original Cambridge 9701 subtopic 2.4 questions on reacting masses, yield, gas volumes, titrations, limiting reagents and equations, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "hitlers-foreign-policy-2147"
 description: "Recall notes for O Level History 2147 key question 2.3: Hitler's aims, the steps of 1933-39, appeasement, the Nazi-Soviet Pact, key terms and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

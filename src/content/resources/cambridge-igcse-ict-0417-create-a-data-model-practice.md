@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "create-a-data-model-0417"
 description: "Original questions with full answers on spreadsheet models for 0417 subtopic 20.1: operators, replication, named cells, HLOOKUP, XLOOKUP, IF and nesting."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

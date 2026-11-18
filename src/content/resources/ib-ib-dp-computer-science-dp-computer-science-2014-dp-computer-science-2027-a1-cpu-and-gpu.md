@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-a-1"
 description: "HL study guide to how CPUs and GPUs differ in IB DP Computer Science A.1: cores, design aims, memory, suitable tasks and how the two processors work together."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Written from the public subject brief and the A1.1.3 label (CPU and GPU differences, HL only); please check the depth and wording against the full DP Computer Science guide."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Written from the public subject brief and the A1.1.3 label (CPU and GPU differences, HL only); please check the depth and wording against the full DP Computer Science guide."
 publishedDate: 2026-11-18
 featured: false
 ---

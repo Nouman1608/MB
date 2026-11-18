@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "methods-of-error-detection"
 description: "Study guide to Cambridge O Level Computer Science 2210 section 2.2: parity checks and blocks, checksums, echo checks, check digits and ARQ, worked through."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

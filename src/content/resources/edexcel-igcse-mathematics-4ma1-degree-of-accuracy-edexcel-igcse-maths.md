@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "degree-of-accuracy-edexcel-igcse-maths"
 description: "Edexcel IGCSE Maths 4MA1 section 1.8 study guide: rounding, significant figures, upper and lower bounds, estimation and bounds problems for Higher tier."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b2-2"
 description: "Condensed IB DP Biology B2.2 notes: organelles, fractionation, nucleus and cytoplasm, compartment advantages, HL organelle adaptations and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

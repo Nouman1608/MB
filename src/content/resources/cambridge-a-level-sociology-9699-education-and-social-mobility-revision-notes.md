@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "education-and-social-mobility-9699"
 description: "Condensed 9699 section 5.2 notes: meritocracy, kinds of equality, life chances, under-achievement and mobility explanations, with exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

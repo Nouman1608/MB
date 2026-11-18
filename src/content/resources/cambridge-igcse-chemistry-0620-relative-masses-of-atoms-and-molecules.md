@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "relative-masses-of-atoms-and-molecules"
 description: "Relative atomic mass, relative molecular and formula mass, and reacting masses by simple proportion without moles, worked through for Cambridge IGCSE 0620."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

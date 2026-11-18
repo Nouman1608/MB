@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "correction-of-errors-4ac1"
 description: "Study guide to 4AC1 section 3.3: identifying errors that do and do not affect the trial balance, correcting them by journal and clearing a suspense account."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

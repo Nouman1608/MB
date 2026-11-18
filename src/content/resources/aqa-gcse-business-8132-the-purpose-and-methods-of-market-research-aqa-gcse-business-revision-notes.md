@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-purpose-and-methods-of-market-research-aqa-gcse-business"
 description: "Revision notes for AQA GCSE Business 3.5.3: research purposes, six named methods, qualitative versus quantitative, market size and share formulas."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

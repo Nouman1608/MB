@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "manage-files-effectively-0417"
 description: "Original exam-style questions with answers on locating, importing, saving and exporting files and the named file formats for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm the software types given for the .sdc (spreadsheet) and .sdb (database) formats listed in the 0417 syllabus."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm the software types given for the .sdc (spreadsheet) and .sdb (database) formats listed in the 0417 syllabus."
 ---
 
 These questions cover section 11.1 of Cambridge IGCSE ICT 0417: locating, opening and importing files, planned folder structures, file names, saving and printing evidence, application and generic formats, and the characteristics of the named file types.

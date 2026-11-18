@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "energy-transfer-by-heating-and-doing-work-oxfordaqa-alevel-physics"
 description: "Study guide to OxfordAQA 9630 section 3.11.1: internal energy, the first law, change of state, multi-stage, mixing and flow problems, and Required practical 8."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

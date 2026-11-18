@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "respiration-cambridge-alevel-biology"
 description: "Study guide to 9700 sub-topic 12.2: the four stages of aerobic respiration, oxidative phosphorylation, fermentation, rice adaptations and rate investigations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

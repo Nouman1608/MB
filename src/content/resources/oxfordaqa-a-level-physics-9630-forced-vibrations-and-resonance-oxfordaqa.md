@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "forced-vibrations-and-resonance-oxfordaqa"
 description: "Study guide to OxfordAQA 9630 section 3.5.2: free and forced vibrations, resonance, how damping changes the resonance peak, and mechanical and wave examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

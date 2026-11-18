@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "parallel-lines-cambridge-igcse-maths"
 description: "Thirteen original 0580 questions on 3.6 Parallel lines: equal gradients, equations through a point, axis-parallel lines and trapezium proofs, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

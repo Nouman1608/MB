@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-energy-and-momentum-of-a-photon"
 description: "A focused guide to 22.1 Energy and momentum of a photon in Cambridge A Level Physics 9702: photons, E = hf, the electronvolt and p = E/c."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

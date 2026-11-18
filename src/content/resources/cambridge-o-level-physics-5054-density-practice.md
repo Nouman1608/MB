@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "density"
 description: "Original 5054 subtopic 1.4 questions on density calculations, unit conversion, measuring liquids and solids, and displacement errors, with worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

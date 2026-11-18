@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "microprocessor-controlled-devices-0417"
 description: "How smart devices in the home and in transport work, and their positive and negative effects on people, data and safety, for Cambridge IGCSE ICT 0417 5.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

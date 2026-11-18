@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "social-influences-9218"
 description: "Condensed notes on crowd behaviour for OxfordAQA IGCSE Psychology 9218: social loafing, deindividuation, culture, personality, morality and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The specification names no studies for crowd behaviour; please check that the supporting studies cited match the course textbook's treatment."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The specification names no studies for crowd behaviour; please check that the supporting studies cited match the course textbook's treatment."
 publishedDate: 2026-11-18
 featured: false
 ---

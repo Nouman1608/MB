@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "business-structure-cambridge-alevel-business"
 description: "In-depth guide to 9609 section 1.2 Business structure: sector change in data, choosing and changing ownership, liability in practice and exam technique."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

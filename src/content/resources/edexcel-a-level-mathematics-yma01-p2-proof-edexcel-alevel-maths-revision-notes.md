@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p2-proof-edexcel-alevel-maths"
 description: "Condensed notes on proof structure, proof by exhaustion and disproof by counter-example for Edexcel IAL Maths Unit P2, with key terms, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

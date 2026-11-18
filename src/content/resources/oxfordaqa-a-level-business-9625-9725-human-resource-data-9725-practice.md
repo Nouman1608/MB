@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "human-resource-data-9725"
 description: "Original practice questions with worked answers on labour turnover, retention, productivity and labour cost per unit for OxfordAQA 9725 Business."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The employee retention rate formula is given exactly as printed in the 9725 Formulae appendix, which can exceed 100% on raw headcounts; a teacher should confirm how mark schemes apply it."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The employee retention rate formula is given exactly as printed in the 9725 Formulae appendix, which can exceed 100% on raw headcounts; a teacher should confirm how mark schemes apply it."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "homeostasis-in-plants-cambridge-alevel-biology"
 description: "A focused guide to 9700 section 14.2: the stomatal trade-off, daily rhythms, guard cell structure, ion movements and abscisic acid with calcium signalling."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

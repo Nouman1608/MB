@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "expert-systems-0417"
 description: "The components of an expert system, how it reaches possible solutions, how one is built, and its named uses and limits, for Cambridge IGCSE ICT 0417 6.8."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

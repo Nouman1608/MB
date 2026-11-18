@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "lok-rasoom-o-riwayat-folklore-9ur0"
 description: "9UR0 sub-theme 2.1 study guide: folk music, the emerging Western influence and national and religious festivals, with translation and evaluation practice."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

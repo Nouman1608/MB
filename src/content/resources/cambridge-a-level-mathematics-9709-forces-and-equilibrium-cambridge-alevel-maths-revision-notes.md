@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "forces-and-equilibrium-cambridge-alevel-maths"
 description: "Revision notes for Cambridge 9709 Paper 4 section 4.1: resolving, resultants, equilibrium, friction and μ, limiting equilibrium, contact forces and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

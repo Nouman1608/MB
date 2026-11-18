@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "qs1-quantitative-skills-oxfordaqa-alevel-economics"
 description: "Twelve original OxfordAQA 9640 QS1 questions on ratios and fractions in concentration ratios, trade, the multiplier and productivity, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

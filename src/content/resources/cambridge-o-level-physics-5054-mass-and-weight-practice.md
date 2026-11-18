@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "mass-and-weight"
 description: "Original 5054 subtopic 1.3 questions on mass, inertia, balances, force meters, gravitational fields and W = mg calculations, with full worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

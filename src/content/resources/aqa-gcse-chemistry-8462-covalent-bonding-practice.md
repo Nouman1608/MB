@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "covalent-bonding-8462"
 description: "Twelve original AQA GCSE Chemistry 8462 questions on section 4.2.1.4: shared pairs, dot and cross checks, structure types and molecular formulae, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "unification-italy-2147"
 description: "O Level History 2147 key question 1.2: the rival plans for Italy, the failure of 1848-49, Cavour and Garibaldi weighed, and Italy's effect on Europe."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

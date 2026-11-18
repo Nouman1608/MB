@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "program-testing-and-maintenance"
 description: "Original 9618 section 12.3 questions with answers on error types, dry runs, white-box paths, stubs, test plans, maintenance types and amending existing code."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

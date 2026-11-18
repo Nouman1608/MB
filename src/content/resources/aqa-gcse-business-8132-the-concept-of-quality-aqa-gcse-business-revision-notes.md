@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-concept-of-quality-aqa-gcse-business"
 description: "Condensed recall for AQA GCSE Business section 3.3.3: quality expectations, quality measures, TQM, the listed costs and benefits, growth risks and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

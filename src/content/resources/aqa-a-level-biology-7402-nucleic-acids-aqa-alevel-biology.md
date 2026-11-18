@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "nucleic-acids-aqa-alevel-biology"
 description: "AQA A-level Biology 3.1.5 study guide: DNA and RNA compared, complementary sequences, the four-base code, replication enzyme roles and predicting density bands."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

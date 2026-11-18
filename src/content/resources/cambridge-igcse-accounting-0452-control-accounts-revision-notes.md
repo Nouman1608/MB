@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "control-accounts"
 description: "Revision notes for 0452 sub-topic 3.4: control account purposes, sources, the side for every item, items to exclude, digital recording and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

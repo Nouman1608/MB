@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "decision-making-ocr-alevel-business"
 description: "Original OCR A Level Business H431 decision making questions with full answers: decision types, the five factors, bias, scoring matrices and judging success."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-carboxylic-acids"
 description: "Benzoic acid from alkylbenzenes, acyl chlorides from PCl₃, PCl₅ or SOCl₂, oxidising methanoic and ethanedioic acids, and acid strength, for Cambridge 9701 33.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "water-related-diseases-5014-2027"
 description: "Original 5014 questions with mark schemes on malaria transmission and seasonal data, net trials, vector control, cholera control and discussing strategies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

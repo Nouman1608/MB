@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-objectives-4bs1"
 description: "Condensed Edexcel IGCSE Business 4BS1 revision notes on business objectives: the nine objectives, measures, conflicts, reasons for change and exam traps."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

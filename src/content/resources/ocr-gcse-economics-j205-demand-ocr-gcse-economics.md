@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "demand-ocr-gcse-economics"
 description: "OCR GCSE Economics J205 section 2.2 in depth: drawing demand curves from data, shifts and movements, consequences, price elasticity of demand and revenue."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

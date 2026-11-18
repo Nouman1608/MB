@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "flooding-5014-2027"
 description: "Study guide to 5014 sub-topic 6.3: the named causes and impacts of flooding, management strategies before, during and after, and the opportunities floods bring."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

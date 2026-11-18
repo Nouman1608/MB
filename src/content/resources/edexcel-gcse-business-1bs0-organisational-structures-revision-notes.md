@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "organisational-structures-1bs0"
 description: "Revision notes for Edexcel GCSE Business 2.5.1: structures, communication problems and barriers, hours, contracts and technology, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "quality-of-goods-and-services-0264"
 description: "Revision notes for Cambridge IGCSE Business 0264 section 4.5: meaning of quality, quality control versus quality assurance, choosing one, and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

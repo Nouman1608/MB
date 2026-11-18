@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "internal-and-external-communication-4bs1"
 description: "Condensed Edexcel IGCSE Business 4BS1 revision notes on communication: the process, choosing methods, IT, problems of poor communication and barriers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

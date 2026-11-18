@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-kinetic-theory-of-gases"
 description: "A focused guide to 15.3 in Cambridge A Level Physics 9702: kinetic theory assumptions, deriving pV = ⅓Nm⟨c²⟩, r.m.s. speed and mean kinetic energy ³⁄₂kT."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

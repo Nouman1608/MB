@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "d1-algorithms-on-graphs-edexcel-alevel-maths"
 description: "Revision notes for Edexcel IAL Maths D1 algorithms on graphs: graph terms, Kruskal, Prim with matrices, Dijkstra labelling, route tracing and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

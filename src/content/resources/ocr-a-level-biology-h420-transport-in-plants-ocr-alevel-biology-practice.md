@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "transport-in-plants-ocr-alevel-biology"
 description: "Original OCR A Level Biology A (H420) 3.1.3 questions with answers on xylem, phloem, transpiration, potometer data, water pathways and translocation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

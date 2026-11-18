@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "custom-written-and-off-the-shelf-software"
 description: "Twelve original Cambridge 9626 IT section 2.4 questions with answers on custom-written and off-the-shelf software, cost comparisons and open-source licensing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

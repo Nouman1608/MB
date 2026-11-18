@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "transport-of-oxygen-and-carbon-dioxide-cambridge"
 description: "Study guide to 9700 sub-topic 8.2: haemoglobin, carbonic anhydrase, the chloride shift, the oxygen dissociation curve and the Bohr shift, with worked data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

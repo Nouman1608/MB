@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "depreciation-and-disposal-oxfordaqa-igcse-accounting"
 description: "Choosing a depreciation method, running a provision account for a group of assets, and recording a disposal part way through the year, with full ledgers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

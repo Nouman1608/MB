@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "isotopes"
 description: "Sub-topic 2.3 in depth: defining isotopes, reading symbols for atoms and ions, why isotopes react alike, and relative atomic mass from abundance data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

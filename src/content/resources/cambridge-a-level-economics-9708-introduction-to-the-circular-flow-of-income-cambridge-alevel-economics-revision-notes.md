@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "introduction-to-the-circular-flow-of-income-cambridge-alevel-economics"
 description: "Revision notes for 9708 section 4.2: sectors and flows, closed and open economies, injections and leakages, equilibrium and disequilibrium, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

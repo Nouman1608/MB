@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "elimination-alcohols-7405"
 description: "Condensed AQA 7405 notes on eliminating water from alcohols: conditions, mechanism, counting alkenes and E/Z isomers, the cyclohexene practical and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

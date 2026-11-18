@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ethical-and-environmental-considerations-aqa-gcse-business"
 description: "A focused guide to AQA GCSE Business section 3.2.2: ethical behaviour, environmental impacts, sustainability and how to analyse trade-offs with profit."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "boolean-algebra-and-logic-circuits"
 description: "Condensed 9618 notes on adders, SR and JK flip-flops, Boolean laws, De Morgan's laws and Karnaugh map rules, with exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

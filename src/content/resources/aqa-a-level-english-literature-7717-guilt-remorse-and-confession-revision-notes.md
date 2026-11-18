@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "option-2a-elements-of-crime-writing-7717"
 description: "Revision notes on guilt, remorse and confession in AQA English Literature B (7717) crime writing: a text grid, key terms, unseen signals and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

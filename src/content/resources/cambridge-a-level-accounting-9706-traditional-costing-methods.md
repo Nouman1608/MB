@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "traditional-costing-methods"
 description: "Job costing for services, choosing absorption bases, profit statements with opening inventory, CVP and special orders, for Cambridge 9706 section 2.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

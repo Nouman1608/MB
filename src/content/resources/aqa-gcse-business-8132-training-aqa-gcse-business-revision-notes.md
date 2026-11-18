@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "training-aqa-gcse-business"
 description: "Revision notes for AQA GCSE Business 3.4.4: six reasons to train, induction benefits, on-the-job versus off-the-job training and matching method to business."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

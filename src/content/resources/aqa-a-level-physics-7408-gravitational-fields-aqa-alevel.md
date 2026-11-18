@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "gravitational-fields-aqa-alevel"
 description: "AQA A-Level Physics 7408 gravitational fields in depth: Newton's law, g and potential, graphs, orbital energy, escape velocity and synchronous orbits."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

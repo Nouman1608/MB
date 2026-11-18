@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "b2-surds-aqa-alevel-maths"
 description: "Condensed AQA A-level Maths 7357 B2 surds notes: key terms, conjugates, surd equations, equating parts, exam traps and a 12-question self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

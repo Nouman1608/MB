@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "factors-affecting-equilibrium-9202"
 description: "Condensed OxfordAQA IGCSE Chemistry (9202) notes on section 3.8.2: dynamic equilibrium, temperature and pressure rules, yield data and compromise conditions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

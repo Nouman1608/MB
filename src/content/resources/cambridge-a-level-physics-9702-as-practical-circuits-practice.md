@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-practical-circuits"
 description: "Original practice questions with full answers on Cambridge AS Physics 9702 10.1: circuit diagrams, e.m.f. and p.d., internal resistance and terminal p.d."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

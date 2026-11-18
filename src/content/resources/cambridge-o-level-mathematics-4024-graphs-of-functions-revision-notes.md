@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "graphs-of-functions"
 description: "Quick-recall notes on 4024 section 2.10: allowed powers, tables of values, graphical solutions, exponential models and tangents, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

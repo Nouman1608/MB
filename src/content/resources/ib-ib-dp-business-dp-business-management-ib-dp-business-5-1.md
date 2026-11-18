@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-1"
 description: "Study guide to IB DP Business Management 5.1: the role of operations management in goods and services, value added, trade-offs and links to other functions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The guide lists one content point for 5.1 (the role of operations management); a teacher should confirm that the goods-versus-services and performance-objective framing used here fits the 2024 wording."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The guide lists one content point for 5.1 (the role of operations management); a teacher should confirm that the goods-versus-services and performance-objective framing used here fits the 2024 wording."
 publishedDate: 2026-11-18
 featured: false
 ---

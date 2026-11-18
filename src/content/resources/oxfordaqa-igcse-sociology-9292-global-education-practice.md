@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "education-9292"
 description: "Original practice questions on 9292 section 3.1.2.5 global education: literacy, provision, poverty, gender and digital access, with invented data and answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

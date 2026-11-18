@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kinematics-of-motion-in-a-straight-line-cambridge"
 description: "Revision notes for Cambridge 9709 Paper 4 section 4.2 Kinematics: scalars and vectors, graphs, calculus in t, constant acceleration formulae and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

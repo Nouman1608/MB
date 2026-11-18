@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "economic-foundations-oxfordaqa-igcse-economics"
 description: "Condensed 9214 notes on 3.1.1 Economic foundations: needs, wants, key decisions, economic groups, resources, rewards and opportunity cost, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

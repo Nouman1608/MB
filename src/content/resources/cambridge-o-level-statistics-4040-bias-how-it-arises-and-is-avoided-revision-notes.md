@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "bias-how-it-arises-and-is-avoided-4040"
 description: "Condensed notes on sources of bias, matching remedies, bias versus sampling variation, exam traps and a self-test for Cambridge O Level Statistics 4040."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

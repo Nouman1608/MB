@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "types-of-data-and-variable-4040"
 description: "Revision notes on qualitative, quantitative, discrete and continuous data, with a decision chart, rounding intervals, exam traps and a self-test for 4040."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

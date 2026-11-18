@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-periodicity-of-physical-properties-of-the-elements-in-period-3"
 description: "Atomic and ionic radius, melting point and electrical conductivity across Period 3, explained by structure and bonding, for Cambridge 9701 AS subtopic 9.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

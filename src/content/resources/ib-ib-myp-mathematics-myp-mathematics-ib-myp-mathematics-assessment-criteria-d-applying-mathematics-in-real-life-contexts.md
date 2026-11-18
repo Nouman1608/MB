@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-myp-mathematics-assessment-criteria-d-applying-mathematics-in-real-life-contexts"
 description: "How to tackle MYP Mathematics Criterion D real-life tasks: identifying elements, choosing strategies, justifying accuracy and judging if answers make sense."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The Year 5 strand wording was written from memory, so a teacher should check it against the MYP Mathematics guide."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The Year 5 strand wording was written from memory, so a teacher should check it against the MYP Mathematics guide."
 publishedDate: 2026-11-18
 featured: false
 ---

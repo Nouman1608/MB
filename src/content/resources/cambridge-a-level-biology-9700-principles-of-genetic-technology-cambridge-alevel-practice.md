@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "principles-of-genetic-technology-cambridge-alevel"
 description: "Twelve original questions with mark schemes on 9700 section 19.1: enzymes, sticky ends, promoters, markers, gene editing, PCR, gels, microarrays and databases."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

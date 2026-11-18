@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d1-1"
 description: "IB DP Biology D1.1 revision notes: replication models, base pairing, PCR steps, gel and profile reading, HL fork enzymes, key terms and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

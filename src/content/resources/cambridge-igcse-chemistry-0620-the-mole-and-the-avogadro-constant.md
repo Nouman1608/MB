@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-mole-and-the-avogadro-constant"
 description: "Moles, the Avogadro constant, gas volumes, concentrations, limiting reactants, titrations, empirical formulae and percentages for Cambridge IGCSE 0620."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

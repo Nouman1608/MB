@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "decision-making-ocr-alevel-business"
 description: "Study guide to decision making for OCR A Level Business H431: the process, the five factors, types of bias, a weighted scoring matrix and judging success."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

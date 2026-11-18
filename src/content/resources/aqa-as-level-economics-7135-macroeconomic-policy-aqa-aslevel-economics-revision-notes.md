@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "macroeconomic-policy-aqa-aslevel-economics"
 description: "Condensed AQA AS Economics 7135 notes on 3.2.4: bank rate and the MPC, exchange rate effects, fiscal policy and tax types, and supply-side policies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

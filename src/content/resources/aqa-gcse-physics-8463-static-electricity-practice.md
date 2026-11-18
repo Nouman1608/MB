@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "static-electricity"
 description: "Eleven original AQA GCSE Physics 4.2.5 questions on charging by rubbing, forces between charges, electric fields and sparking, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

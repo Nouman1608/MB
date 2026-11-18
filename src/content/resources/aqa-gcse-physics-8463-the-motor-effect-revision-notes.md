@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-motor-effect"
 description: "Condensed AQA GCSE Physics 8463 motor effect notes: solenoids, electromagnet devices, Fleming's left-hand rule, F = BIl, motors, loudspeakers and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

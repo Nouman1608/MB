@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "program-design"
 description: "Original 9618 section 12.2 questions with answers: structure chart symbols, headers and main programs from charts, and state-transition tables."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm the structure chart symbols described in words (data and flag couples, diamond for selection, curved arrow for iteration) match the notation Cambridge uses in current 9618 papers."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm the structure chart symbols described in words (data and flag couples, diamond for selection, curved arrow for iteration) match the notation Cambridge uses in current 9618 papers."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

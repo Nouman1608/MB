@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "other-receivables-and-other-payables-4ac1-eop"
 description: "Twelve original Edexcel IGCSE Accounting 4AC1 questions on other receivables and other payables at the year end, with ledgers and worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

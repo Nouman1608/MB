@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "transition-elements"
 description: "Condensed 5070 notes on transition elements: the five properties, oxidation numbers, compound colours, catalyst examples, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

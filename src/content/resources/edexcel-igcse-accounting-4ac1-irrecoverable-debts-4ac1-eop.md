@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "irrecoverable-debts-4ac1-eop"
 description: "Study guide to irrecoverable debts and the provision as year-end adjustments for Edexcel IGCSE Accounting 4AC1, from trial balance notes to final figures."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

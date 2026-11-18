@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-density-and-pressure"
 description: "Condensed recall for Cambridge AS Physics 9702 subtopic 4.3: density, pressure, deriving Δp = ρgΔh, total pressure, upthrust and F = ρgV."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

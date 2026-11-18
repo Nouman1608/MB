@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "text-selection-7717"
 description: "Twelve original questions on the NEA rule on interpretations over time in AQA English Literature B (7717), with sample sentences to judge and full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

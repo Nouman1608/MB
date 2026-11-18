@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "electronic-calculators-edexcel-igcse-maths"
 description: "Study guide to 4MA1 section 1.11: entering fractions, powers, roots, negatives, standard form, trigonometry and Σfx correctly on a scientific calculator."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

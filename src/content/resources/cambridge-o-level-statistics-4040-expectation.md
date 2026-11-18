@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "expectation-4040"
 description: "Expectation of a discrete variable, expected profit and loss in simple games, fair games and finding a fair stake or prize, for Cambridge O Level Statistics 4040."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

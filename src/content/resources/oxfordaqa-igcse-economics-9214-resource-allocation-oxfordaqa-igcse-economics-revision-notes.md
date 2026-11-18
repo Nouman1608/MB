@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "resource-allocation-oxfordaqa-igcse-economics"
 description: "Condensed 9214 notes on 3.1.2 Resource allocation: price signals, factor and product markets, sectors, specialisation and exchange, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

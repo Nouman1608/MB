@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "macroeconomic-equilibrium-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) macroeconomic equilibrium revision notes: adjustment, short and long run, effects on indicators, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The specification has one topic, The interaction of aggregate demand and supply; these notes take equilibrium and the effects of AD and AS changes on indicators, leaving assumptions and combined shifts to the aggregate demand and supply notes, so please confirm the split."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The specification has one topic, The interaction of aggregate demand and supply; these notes take equilibrium and the effects of AD and AS changes on indicators, leaving assumptions and combined shifts to the aggregate demand and supply notes, so please confirm the split."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "correcting-errors-oxfordaqa-igcse-accounting"
 description: "Revision notes on correcting errors for OxfordAQA IGCSE Accounting 9215: journal layout, a three-line method, correction patterns, suspense rules and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

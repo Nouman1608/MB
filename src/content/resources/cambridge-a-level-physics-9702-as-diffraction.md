@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-diffraction"
 description: "Subtopic 8.2 of Cambridge AS Physics 9702 in depth: what diffraction is, the ripple tank experiment and how gap width relative to wavelength controls spreading."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

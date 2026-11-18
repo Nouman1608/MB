@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "s1-discrete-distributions-edexcel-alevel-maths"
 description: "Edexcel IAL Maths S1 discrete distributions guide: the discrete uniform model, its mean and variance, stepped values, finding n and judging model fit."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The S1 unit description lists 'discrete distributions' but the content table names only 5.4 'The discrete uniform distribution', so this page treats that statement as the subtopic; please confirm the mapping."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The S1 unit description lists 'discrete distributions' but the content table names only 5.4 'The discrete uniform distribution', so this page treats that statement as the subtopic; please confirm the mapping."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "option-1b-aspects-of-comedy-7717"
 description: "Revision notes on comic structure for AQA English Literature B (7717): rule and misrule, competition, plotting and resolution by text, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

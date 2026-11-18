@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "books-of-prime-entry"
 description: "Revision notes for 0452 sub-topic 2.3: the seven books, posting rules, cash book columns and discounts, imprest petty cash, cash on site and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

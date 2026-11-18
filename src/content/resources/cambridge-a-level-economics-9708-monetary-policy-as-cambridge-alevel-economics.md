@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "monetary-policy-as-cambridge-alevel-economics"
 description: "Deep dive into Cambridge 9708 section 5.3: how interest rates, the money supply and credit rules reach AD, with AD/AS analysis and model answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

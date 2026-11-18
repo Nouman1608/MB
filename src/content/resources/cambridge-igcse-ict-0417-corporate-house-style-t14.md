@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "corporate-house-style-t14-0417"
 description: "The purpose and uses of a corporate house style for Cambridge IGCSE ICT 0417 Topic 14, with an audit of a draft letter and an annotated model answer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

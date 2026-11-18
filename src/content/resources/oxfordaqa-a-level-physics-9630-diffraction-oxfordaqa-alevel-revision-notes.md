@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "diffraction-oxfordaqa-alevel"
 description: "Revision notes for 9630 section 3.5.7 diffraction: single-slit patterns, central maximum trends, d sin θ = nλ, maximum order, white-light spectra and uses."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

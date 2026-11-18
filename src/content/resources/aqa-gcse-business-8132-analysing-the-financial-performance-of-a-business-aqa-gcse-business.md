@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "analysing-the-financial-performance-of-a-business-aqa-gcse-business"
 description: "Study guide to AQA GCSE Business 3.6.4: income statements, statements of financial position, gross and net profit margins, and judging performance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

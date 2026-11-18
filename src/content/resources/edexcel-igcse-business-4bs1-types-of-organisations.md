@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "types-of-organisations-4bs1"
 description: "Study guide to types of organisations for Edexcel IGCSE Business 4BS1: ownership forms, liability, control, public corporations, franchises and more."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "stakeholders-in-a-business-cambridge-alevel-business"
 description: "In-depth guide to 9609 section 1.5 Stakeholders: sources of influence, mapping, reactions, accountability and how to judge stakeholder conflict."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

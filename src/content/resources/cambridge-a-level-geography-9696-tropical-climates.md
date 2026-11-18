@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "tropical-climates-9696"
 description: "Study guide for Cambridge 9696 Geography 7.1: the Hadley cell, ITCZ, subtropical highs and monsoons, and annual and diurnal climate patterns in the tropics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

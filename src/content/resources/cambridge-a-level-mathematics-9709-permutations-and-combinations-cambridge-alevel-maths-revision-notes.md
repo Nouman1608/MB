@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "permutations-and-combinations-cambridge-alevel-maths"
 description: "Condensed 9709 Paper 5 notes on 5.2: counting formulae, repeated letters, together, apart and position restrictions, rows, at-least selections and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "atomic-structure-oxfordaqa-igcse"
 description: "Condensed notes on atom size, the nuclear model, alpha scattering, particle properties, ions, isotopes and nuclide notation for OxfordAQA IGCSE Physics 9203."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

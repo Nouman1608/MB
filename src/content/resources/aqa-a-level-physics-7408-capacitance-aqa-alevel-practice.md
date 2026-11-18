@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "capacitance-aqa-alevel"
 description: "Original AQA A-Level Physics 7408 capacitance practice: C = Q/V, dielectrics, stored energy, charge and discharge, time constants and RP9, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

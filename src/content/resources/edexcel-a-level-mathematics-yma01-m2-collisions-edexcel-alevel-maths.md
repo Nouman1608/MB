@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m2-collisions-edexcel-alevel-maths"
 description: "Edexcel IAL Maths M2 collisions: impulse as a vector, Newton's law of restitution, kinetic energy lost, using 0 ≤ e ≤ 1, and conditions for a second impact."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

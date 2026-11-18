@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-possibility-curve-diagrams-cambridge-igcse-economics"
 description: "Study guide to drawing and reading PPC diagrams for Cambridge IGCSE Economics 0455: points, movements, opportunity cost, shifts and their causes and effects."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

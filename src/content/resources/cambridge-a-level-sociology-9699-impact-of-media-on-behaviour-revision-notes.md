@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "impact-of-media-on-behaviour-9699"
 description: "Condensed 9699 notes on section 10.3: violent media evidence, crime news values, deviance amplification, positive effects, sensationalism and stereotyping."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

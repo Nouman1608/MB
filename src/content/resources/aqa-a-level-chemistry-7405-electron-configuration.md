@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "electron-configuration-7405"
 description: "AQA 7405 electron configuration in depth: orbitals and spin, atoms and ions to Z = 36, successive ionisation equations, and Period 3 and Group 2 evidence."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

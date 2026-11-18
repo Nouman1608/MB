@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "work-done-and-energy-transfer-aqa"
 description: "AQA GCSE Physics 8463 section 4.5.2 in depth: W = Fs along the line of action, joules and newton-metres, energy transfers and friction heating."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

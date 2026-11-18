@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "indices-ii"
 description: "Cambridge O Level Maths 4024 subtopic 2.4 in depth: zero, negative and fractional indices, the index rules, simplifying and solving equations with powers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

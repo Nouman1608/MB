@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "capacitance-aqa-alevel"
 description: "AQA A-Level Physics 7408 capacitance in depth: C = Q/V, dielectrics, stored energy, charging and discharging graphs, time constants and Required practical 9."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

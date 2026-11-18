@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "atomic-structure-4ch1"
 description: "Twelve original 4CH1 atomic structure questions on particles, ions, isotopes and relative atomic mass, including reverse Ar calculations, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

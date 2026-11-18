@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "changes-of-state-and-the-particle-model"
 description: "AQA GCSE Physics 4.3.1 in depth: density and ρ = m/V, particle diagrams, required practical 5, unit conversions and why changes of state conserve mass."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "paper-2-drama-0475"
 description: "Condensed notes on the 0475 Paper 2 passage-based question: placing a printed extract, dramatic methods, the extract's shape, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

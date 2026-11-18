@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "homeostasis-in-mammals-cambridge-alevel-biology"
 description: "Condensed recall for 9700 section 14.1: feedback loops, nephron function, ADH, glucagon signalling, insulin, test strips and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-kinematics-of-uniform-circular-motion"
 description: "A focused guide to 12.1 Kinematics of uniform circular motion in Cambridge A Level Physics 9702: radians, angular speed, ω = 2π/T and v = rω."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

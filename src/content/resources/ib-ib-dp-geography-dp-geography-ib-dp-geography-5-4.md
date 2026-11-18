@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-5-4"
 description: "IB DP Geography Leisure, tourism and sport 5.4 in depth: measuring sustainability, judging visitor management tools, tourism and climate, and future sport events."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The IB Geography guide could not be opened while this page was written, so a teacher should check its content against the guide's wording for sub-topic 5.4."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB Geography guide could not be opened while this page was written, so a teacher should check its content against the guide's wording for sub-topic 5.4."
 publishedDate: 2026-11-18
 featured: false
 ---

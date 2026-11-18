@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "active-transport-cambridge-igcse-biology"
 description: "Twelve original questions with marked answers on Cambridge IGCSE Biology 0610 sub-topic 3.3: active transport, uptake data, root hairs and carriers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

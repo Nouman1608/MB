@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "price-elasticity-of-supply-cambridge-alevel-economics"
 description: "Study guide to 9708 section 2.3: defining and calculating PES, reading its size and sign, factors that affect it and what it means for how firms react."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

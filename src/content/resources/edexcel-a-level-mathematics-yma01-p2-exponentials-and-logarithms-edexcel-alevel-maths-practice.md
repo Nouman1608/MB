@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p2-exponentials-and-logarithms-edexcel-alevel-maths"
 description: "Original practice questions with full answers on y = a^x, the laws of logarithms and solving a^x = b for Edexcel IAL Maths Unit P2 (YMA01)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "market-structure"
 description: "Revision notes for Cambridge O Level Economics 2281 section 3.8: competitive markets, monopoly characteristics, barriers to entry, evaluation and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

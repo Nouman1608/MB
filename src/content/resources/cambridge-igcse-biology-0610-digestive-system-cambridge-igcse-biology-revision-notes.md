@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "digestive-system-cambridge-igcse-biology"
 description: "Revision notes for 0610 sub-topic 7.2 Digestive system: organ order, diagram clues, the five process definitions, organ functions and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

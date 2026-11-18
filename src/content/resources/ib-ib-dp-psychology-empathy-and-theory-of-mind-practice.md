@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-developmental-psychology"
 description: "Original IB DP developmental practice on empathy and theory of mind: false-belief logic, an invented task to analyse, empathy stages and a 22-mark essay plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

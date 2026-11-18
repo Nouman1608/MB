@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "role-and-purpose-of-accounting-yac11"
 description: "Twelve original questions with mark-scheme answers on users, recording, analysing and communicating, and accounting as an aid to management, for YAC11."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

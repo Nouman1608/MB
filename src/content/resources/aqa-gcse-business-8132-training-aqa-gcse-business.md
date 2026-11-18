@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "training-aqa-gcse-business"
 description: "Study guide to AQA GCSE Business 3.4.4: why businesses train, induction, on-the-job and off-the-job training, costed comparisons and choosing a method."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

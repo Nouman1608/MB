@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-fundamental-particles"
 description: "Original practice questions with full answers on Cambridge AS Physics 9702 11.2: quark charges, baryons, mesons, antiparticles, β decay and leptons."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

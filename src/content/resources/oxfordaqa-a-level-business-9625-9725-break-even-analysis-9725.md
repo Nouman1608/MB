@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "break-even-analysis-9725"
 description: "Study guide to section 3.2.3.2 Break-even analysis in OxfordAQA AS Business 9725: contribution, profit at any output, what-if changes and judging the results."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

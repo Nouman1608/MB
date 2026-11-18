@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "planning-unit-3-yph11"
 description: "How to write a full-mark plan for Edexcel IAL Physics Unit 3 section 3.3: instruments, calibration, controls, safety, data use, uncertainty and context."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

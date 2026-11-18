@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "theories-role-of-education-9699"
 description: "Cambridge 9699 section 5.1 in depth: functionalist, Marxist, New Right and social democratic theories of what education does, with Paper 3 exam technique."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "trade-unions-cambridge-igcse-economics"
 description: "Revision notes on trade unions for Cambridge IGCSE Economics 0455: definition, collective bargaining, union strength, three viewpoints, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "physical-quantities-and-measurement-techniques"
 description: "Subtopic 1.1 of Cambridge O Level Physics 5054 in depth: choosing and reading instruments, measuring multiples, scalars, vectors and resultants."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

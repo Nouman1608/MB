@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "analogue-signal-processing-aqa-alevel"
 description: "Revision notes for AQA A-Level Physics 7408 section 3.13.3: LC resonance, Q factor and bandwidth, the ideal op-amp, open-loop gain and comparators, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

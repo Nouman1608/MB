@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "social-influences-9218"
 description: "Study guide to group size, anonymity, task difficulty, personality and expertise in conformity for OxfordAQA IGCSE Psychology 9218, with Asch's variations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the figures given for Asch's variations and the Perrin and Spencer example against the course textbook."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the figures given for Asch's variations and the Perrin and Spencer example against the course textbook."
 publishedDate: 2026-11-18
 featured: false
 ---

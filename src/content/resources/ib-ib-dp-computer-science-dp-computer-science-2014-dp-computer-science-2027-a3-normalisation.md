@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-a-3"
 description: "Study guide to normalisation in IB DP Computer Science A.3: anomalies, dependencies, first, second and third normal form, with a full worked example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Written from the public subject brief and the A3.2.5-A3.2.7 label (normalisation); the exact learning outcomes were not available, so please check the normal forms required and their wording against the full DP Computer Science guide."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Written from the public subject brief and the A3.2.5-A3.2.7 label (normalisation); the exact learning outcomes were not available, so please check the normal forms required and their wording against the full DP Computer Science guide."
 publishedDate: 2026-11-18
 featured: false
 ---

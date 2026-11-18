@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "gradient-of-linear-graphs-cambridge-igcse-maths"
 description: "Revision notes for 0580 subtopic 3.3 Gradient of linear graphs: rise over run, signs, unequal grid scales, the two-point formula, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

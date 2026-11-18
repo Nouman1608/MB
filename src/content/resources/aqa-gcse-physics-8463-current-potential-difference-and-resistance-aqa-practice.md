@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "current-potential-difference-and-resistance-aqa"
 description: "Twelve original AQA GCSE Physics 4.2.1 questions on charge, current, V = IR, I–V graphs, sensors and required practicals 3 and 4, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

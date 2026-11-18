@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "numerical-solution-of-equations-cambridge-3"
 description: "Study guide to Cambridge 9709 Paper 3 section 3.6: locating roots by graphs and sign change, fixed-point iteration, convergence, failure and stated accuracy."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

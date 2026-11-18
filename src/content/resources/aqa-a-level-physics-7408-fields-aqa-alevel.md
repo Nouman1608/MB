@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "fields-aqa-alevel"
 description: "AQA A-Level Physics 7408 section 3.7.1 Fields in depth: force fields as vectors, field lines, equipotentials, neutral points and gravity versus electrostatics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

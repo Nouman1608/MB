@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-alevel-economics"
 description: "Revision notes for AQA 7136 section 3.2.1: policy objectives, indicators, index-number and real GDP formulae, current account items and PPP, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "language-of-functions-ocr-gcse-maths"
 description: "Condensed OCR GCSE Maths J560 6.05 revision notes: function machines, inputs and outputs, inverse and composite functions, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

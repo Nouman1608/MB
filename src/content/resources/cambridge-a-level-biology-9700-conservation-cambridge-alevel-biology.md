@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "conservation-cambridge-alevel-biology"
 description: "Study guide to 9700 section 18.3: causes of extinction, why biodiversity matters, zoos and seed banks, assisted reproduction, invasive species, IUCN and CITES."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

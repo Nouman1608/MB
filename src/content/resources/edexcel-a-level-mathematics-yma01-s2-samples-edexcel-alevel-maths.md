@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "s2-samples-edexcel-alevel-maths"
 description: "Edexcel IAL Maths S2 guide to samples: populations, censuses, sampling units and frames, statistics and finding a sampling distribution, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

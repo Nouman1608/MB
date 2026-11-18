@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "business-communication-cambridge-alevel-business"
 description: "Original practice questions with mark-scheme answers on methods, channels, barriers and management of communication for Cambridge A Level Business 9609 7.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

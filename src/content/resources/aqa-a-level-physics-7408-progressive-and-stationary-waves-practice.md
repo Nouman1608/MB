@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "progressive-and-stationary-waves"
 description: "Original AQA 7408 practice on section 3.3.1: wave equations, phase difference, polarisation, stationary waves and Required practical 1, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

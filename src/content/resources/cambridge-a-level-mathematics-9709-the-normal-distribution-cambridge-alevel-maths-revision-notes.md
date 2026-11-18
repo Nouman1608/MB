@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-normal-distribution-cambridge-alevel-maths"
 description: "Condensed 9709 Paper 5 notes on 5.5: standardising, symmetry rules, reverse problems, the normal approximation to the binomial and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

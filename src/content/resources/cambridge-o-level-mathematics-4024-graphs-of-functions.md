@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "graphs-of-functions"
 description: "Study guide to section 2.10 of Cambridge O Level Mathematics 4024: tables of values, plotting axⁿ and abˣ + c curves, graphical solutions and tangents."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "reading-1123"
 description: "Condensed notes for the 1123 Question 3b short response: task facts, attitude signals, precise attitude words, a four-step method, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

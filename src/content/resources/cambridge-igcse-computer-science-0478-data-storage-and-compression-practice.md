@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "data-storage-and-compression-0478"
 description: "Thirteen original Cambridge IGCSE Computer Science 0478 questions on storage units, file sizes, compression and run length encoding, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

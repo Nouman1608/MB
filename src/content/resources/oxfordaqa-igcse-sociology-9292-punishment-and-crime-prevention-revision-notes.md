@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "socialisation-and-social-control-9292"
 description: "Revision notes for 9292 section 3.2.2.3: six aims of punishment, types of punishment, policing styles and surveillance, with Durkheim, Foucault and Zuboff."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "different-stakeholder-and-business-objectives-ocr-alevel-business"
 description: "Condensed OCR H431 notes on classifying objectives, testing SMART targets, the hierarchy, sector, communication, change and recommending aims, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

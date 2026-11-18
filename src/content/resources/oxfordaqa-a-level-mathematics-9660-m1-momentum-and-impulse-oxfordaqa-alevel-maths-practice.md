@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m1-momentum-and-impulse-oxfordaqa-alevel-maths"
 description: "Thirteen original OxfordAQA 9660 M1.4 practice questions on momentum, conservation for two particles, impulse and bounces, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

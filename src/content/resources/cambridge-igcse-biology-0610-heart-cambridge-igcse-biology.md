@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "heart-cambridge-igcse-biology"
 description: "Study guide for Cambridge IGCSE Biology 0610 sub-topic 9.2: heart structure, valves, monitoring, heart rate and exercise, and coronary heart disease."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

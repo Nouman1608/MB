@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "secularisation-debate-9699"
 description: "Condensed 9699 section 12.1 notes: the secularisation thesis, measuring decline, rationalisation, social significance, exam traps and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

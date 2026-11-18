@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "calculations-with-integers-ocr-gcse-maths"
 description: "Original OCR GCSE Maths J560 practice on 1.01: non-calculator sums, differences, products and quotients of positive and negative integers, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

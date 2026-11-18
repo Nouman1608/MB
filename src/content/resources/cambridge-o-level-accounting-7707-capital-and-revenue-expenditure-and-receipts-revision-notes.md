@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "capital-and-revenue-expenditure-and-receipts"
 description: "Revision notes for 7707 section 4.1: classifying capital and revenue items, recording each, and calculating the effect of wrong treatment on profit and assets."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

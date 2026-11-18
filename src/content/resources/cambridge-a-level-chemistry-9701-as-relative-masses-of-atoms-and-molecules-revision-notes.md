@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-relative-masses-of-atoms-and-molecules"
 description: "Revision notes for Cambridge 9701 subtopic 2.1: atomic mass unit, the four relative mass definitions, weighted-mean and formula mass methods, and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

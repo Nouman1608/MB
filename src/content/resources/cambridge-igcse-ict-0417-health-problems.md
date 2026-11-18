@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "health-problems-0417"
 description: "The causes of RSI, back problems, eye problems and headaches from long IT use, and how to prevent each one, for Cambridge IGCSE ICT 0417 subtopic 5.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

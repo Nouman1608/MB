@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "hormones-cambridge-igcse-biology"
 description: "Study guide for Cambridge IGCSE Biology 0610 sub-topic 14.3: hormones, four endocrine glands, adrenaline in fight or flight, and nervous vs hormonal control."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

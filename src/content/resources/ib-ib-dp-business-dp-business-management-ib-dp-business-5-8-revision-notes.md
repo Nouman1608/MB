@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-8"
 description: "Revision notes for IB Business Management 5.8 (HL only): R&D pipeline, spending drivers, unmet needs, IP choices, innovation types, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

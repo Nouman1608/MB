@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "consumer-and-producer-surplus-cambridge-alevel-economics"
 description: "Original 9708 practice on section 2.5: calculating consumer and producer surplus, explaining changes and the role of PED and PES, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

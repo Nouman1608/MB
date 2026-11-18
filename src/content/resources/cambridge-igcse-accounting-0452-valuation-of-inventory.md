@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "valuation-of-inventory"
 description: "Cambridge IGCSE Accounting 0452 section 4.5 in depth: write-downs to NRV, their effect on cost of sales, and errors in opening and closing inventory."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

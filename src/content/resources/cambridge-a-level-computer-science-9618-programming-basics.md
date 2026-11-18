@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "programming-basics"
 description: "Study guide to 9618 section 11.1: turning flowcharts and structured English into pseudocode, constants, variables, expressions and built-in functions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the constant declaration syntax and the built-in function names (TO_UPPER, TO_LOWER, UCASE, LCASE, IS_NUM) against the current 9618 pseudocode guide and insert."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the constant declaration syntax and the built-in function names (TO_UPPER, TO_LOWER, UCASE, LCASE, IS_NUM) against the current 9618 pseudocode guide and insert."
 ---
 
 Section 11.1 Programming Basics of Cambridge International AS & A Level Computer Science 9618 is about writing correct individual statements: declaring constants and variables, assigning values, building expressions, taking input from the keyboard, sending output to the console and calling built-in functions. It also asks you to "implement and write pseudocode from a given design presented as either a program flowchart or structured English". It is AS content, examined in Paper 2.

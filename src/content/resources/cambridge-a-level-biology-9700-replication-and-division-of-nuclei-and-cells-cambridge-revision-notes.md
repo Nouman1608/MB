@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "replication-and-division-of-nuclei-and-cells-cambridge"
 description: "Condensed notes for Cambridge 9700 sub-topic 5.1: chromosome structure, counting, the cell cycle, telomeres, stem cells and tumours, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

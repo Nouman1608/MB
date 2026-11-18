@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "b8-composite-and-inverse-functions-aqa-alevel-maths"
 description: "AQA A-level Maths 7357 B8 in depth: unknown functions in composites, ff(x), self-inverse functions, inverses of composites and where f meets its inverse."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "bin-roye-momina-duraid-9ur0"
 description: "Eleven original 9UR0 practice questions on the film Bin Roye: film terms, technique and effect, scene logs, analytical Urdu and a full 45-mark Section C essay."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

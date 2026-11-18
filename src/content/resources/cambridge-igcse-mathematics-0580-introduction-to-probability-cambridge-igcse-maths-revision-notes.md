@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "introduction-to-probability-cambridge-igcse-maths"
 description: "Revision notes for 0580 subtopic 8.1: the probability scale, single-event probabilities, P(A) and P(A′) notation, complements, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

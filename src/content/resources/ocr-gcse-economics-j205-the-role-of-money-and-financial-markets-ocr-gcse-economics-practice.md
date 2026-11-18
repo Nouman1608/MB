@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-role-of-money-and-financial-markets-ocr-gcse-economics"
 description: "Thirteen original OCR GCSE Economics 2.8 questions on money, the financial sector and interest rate calculations, each with a full mark-scheme answer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

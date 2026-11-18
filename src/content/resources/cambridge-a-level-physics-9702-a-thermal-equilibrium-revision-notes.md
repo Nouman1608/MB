@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-thermal-equilibrium"
 description: "Revision notes for Cambridge A Level Physics 9702 14.1 Thermal equilibrium: direction of energy flow, dynamic equilibrium, thermometers, mixing and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

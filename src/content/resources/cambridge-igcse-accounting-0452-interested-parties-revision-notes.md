@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "interested-parties"
 description: "Condensed notes on the ten interested parties, the decisions each makes and the figures each uses, with a self-test, for Cambridge IGCSE Accounting 0452."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-objectives-and-stakeholder-objectives"
 description: "Cambridge O Level Business 7115 guide to 1.5: why objectives change, social enterprise aims, stakeholder conflict, and private versus public sector aims."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

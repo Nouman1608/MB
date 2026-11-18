@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-primary-and-secondary-amines"
 description: "Four routes to primary and secondary amines, amide formation from acyl chlorides and why aqueous amines are basic, with worked routes for Cambridge 9701."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

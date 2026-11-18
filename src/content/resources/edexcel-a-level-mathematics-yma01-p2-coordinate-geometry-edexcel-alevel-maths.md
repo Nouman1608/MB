@@ -15,7 +15,10 @@ syllabusSeries: "Specification Issue 3, April 2019"
 order: 2.3
 description: "The equation of a circle, the three circle properties, tangents, chords and tangent lengths for Edexcel IAL Maths Unit P2, with fully worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

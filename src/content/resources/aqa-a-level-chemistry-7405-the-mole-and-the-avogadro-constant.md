@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-mole-and-the-avogadro-constant-7405"
 description: "AQA 7405 mole and Avogadro constant in depth: moles of atoms, ions and electrons, mass of one particle, mixed solutions and significant figures."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

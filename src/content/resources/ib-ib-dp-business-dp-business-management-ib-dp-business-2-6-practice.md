@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-2-6"
 description: "Original IB DP Business Management practice questions on 2.6 Communication: formal and informal methods, choosing a method and barriers, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

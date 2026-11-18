@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-costs-and-revenue-aqa-alevel-economics"
 description: "AQA 7136 section 3.1.4 as one chain: productivity, diminishing returns and cost curves, scale economies, revenue, profit and technological change, with data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

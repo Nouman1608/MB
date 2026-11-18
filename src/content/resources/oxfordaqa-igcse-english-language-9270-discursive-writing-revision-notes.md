@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-composition-9270"
 description: "Revision notes on discursive writing for OxfordAQA International GCSE English Language 9270 Paper 1 Section B: structures, weighing language and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

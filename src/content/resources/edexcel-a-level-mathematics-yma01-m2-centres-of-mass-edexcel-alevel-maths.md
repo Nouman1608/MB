@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m2-centres-of-mass-edexcel-alevel-maths"
 description: "Edexcel IAL Maths M2 centres of mass: particles, standard laminae, frameworks, composite shapes with parts removed, and laminae hanging, pivoted or on a slope."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

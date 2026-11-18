@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "s2-hypothesis-tests-edexcel-alevel-maths"
 description: "Revision notes for Edexcel IAL Maths S2 hypothesis tests: hypotheses, critical regions, tails, binomial and Poisson tests, normal approximation and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

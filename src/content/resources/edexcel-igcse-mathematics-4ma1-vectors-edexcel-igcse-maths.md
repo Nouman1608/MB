@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "vectors-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths 4MA1 section 5.1 (Higher): column vectors, modulus, vector equations, routes through diagrams and vector proofs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

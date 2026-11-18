@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "graphical-representation-of-data-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths 4MA1 section 6.1: pictograms, bar and pie charts, two-way tables, grouped tables, histograms and cumulative frequency."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "market-research-4bs1"
 description: "Twelve original 4BS1 market research questions with full answers: methods, analysing results, social media data, reliability and choosing a method."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

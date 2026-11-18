@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "language-of-functions-ocr-gcse-maths"
 description: "Original OCR GCSE Maths J560 6.05 practice questions with full answers on function machines, inputs and outputs, inverse and composite functions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

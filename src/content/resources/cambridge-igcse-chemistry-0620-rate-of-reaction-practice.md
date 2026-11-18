@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "rate-of-reaction"
 description: "Original practice questions with mark-scheme answers on Cambridge IGCSE Chemistry 0620 subtopic 6.2: rate factors, collision theory and rate experiments."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

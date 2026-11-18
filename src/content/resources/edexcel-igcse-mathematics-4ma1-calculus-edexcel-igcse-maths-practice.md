@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "calculus-edexcel-igcse-maths"
 description: "Thirteen original Higher tier 4MA1 section 3.4 questions on differentiation, tangents, turning points, kinematics and optimisation, with full worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

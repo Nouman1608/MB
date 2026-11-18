@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "social-influences-9218"
 description: "Study guide to Milgram's obedience study and Agency theory for OxfordAQA IGCSE Psychology 9218: agency, authority, culture and proximity, with evaluation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the procedural details and variation figures given for Milgram's research, and the culture and Hofling examples, against the course textbook."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the procedural details and variation figures given for Milgram's research, and the culture and Hofling examples, against the course textbook."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "research-methods-9218"
 description: "Original 9218 data-handling questions on fractions, ratios, percentages, estimation, means and significant figures for OxfordAQA IGCSE Psychology, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

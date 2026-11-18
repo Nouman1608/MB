@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "linear-transformation-to-given-mean-and-sd-4040"
 description: "Twelve original questions with mark-scheme answers on rescaling data to a given mean and standard deviation, comparing tests and reverse problems, for 4040."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

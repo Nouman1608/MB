@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "atoms-and-nuclear-radiation"
 description: "Twelve original AQA GCSE Physics 4.4.2 questions on nuclear radiation, choosing sources, nuclear equations, half-life and contamination, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

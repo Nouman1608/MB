@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "linear-transformation-to-given-mean-and-sd-4040"
 description: "How to rescale data to a required mean and standard deviation with y = a + bx, compare scores on different tests and work backwards, for O Level Statistics 4040."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

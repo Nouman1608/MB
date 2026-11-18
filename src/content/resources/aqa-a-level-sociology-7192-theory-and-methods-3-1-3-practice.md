@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "theory-and-methods-3-1-3-7192"
 description: "Twelve original AQA A-level Sociology 7192 questions on 3.1.3 Theory and Methods for Paper 1: sampling, research design, methods and PET, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

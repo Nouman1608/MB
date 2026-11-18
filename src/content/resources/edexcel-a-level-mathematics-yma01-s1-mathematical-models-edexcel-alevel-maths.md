@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "s1-mathematical-models-edexcel-alevel-maths"
 description: "Edexcel IAL Maths S1 guide to mathematical models in probability and statistics: the modelling cycle, assumptions, testing a model against data and refining it."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

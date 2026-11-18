@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "create-or-edit-a-document-0417"
 description: "Condensed notes for Cambridge IGCSE ICT 0417 13.1: total accuracy, cut, copy, paste, drag and drop, placing objects from other sources and text wrapping."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

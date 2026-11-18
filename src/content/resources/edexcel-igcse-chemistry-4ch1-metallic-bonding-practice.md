@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "metallic-bonding-4ch1"
 description: "Eleven original 4CH1 metallic bonding questions (Paper 2 only) on lattice diagrams, electrostatic attraction, conductivity and malleability, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

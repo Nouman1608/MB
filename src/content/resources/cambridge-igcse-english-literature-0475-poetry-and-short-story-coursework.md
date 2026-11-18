@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "component-5-coursework-0475"
 description: "How to write a 0475 Component 5 assignment on two or more poems or short stories: choosing pieces, framing a title, structure and referencing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

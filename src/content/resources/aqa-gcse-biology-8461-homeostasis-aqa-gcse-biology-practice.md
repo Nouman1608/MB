@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "homeostasis-aqa-gcse-biology"
 description: "Original AQA GCSE Biology 8461 questions on 4.5.1 Homeostasis: control system parts, optimum conditions, temperature data and models, with mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

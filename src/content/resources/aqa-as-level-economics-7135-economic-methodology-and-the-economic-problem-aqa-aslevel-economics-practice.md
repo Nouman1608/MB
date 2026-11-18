@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "economic-methodology-and-the-economic-problem-aqa-aslevel-economics"
 description: "Original AQA AS Economics 7135 practice on section 3.1.1: extract-based positive and normative tasks, factors, opportunity cost and PPDs, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

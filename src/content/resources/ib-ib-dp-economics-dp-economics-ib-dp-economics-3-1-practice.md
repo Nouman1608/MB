@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-1"
 description: "Original IB DP Economics 3.1 practice questions with worked answers on GDP, GNI, real and per capita growth, PPP, the business cycle and well-being."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The IB Economics guide could not be downloaded while this page was written, so a teacher should check the questions against the guide's wording for sub-topic 3.1."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB Economics guide could not be downloaded while this page was written, so a teacher should check the questions against the guide's wording for sub-topic 3.1."
 publishedDate: 2026-11-18
 featured: false
 ---

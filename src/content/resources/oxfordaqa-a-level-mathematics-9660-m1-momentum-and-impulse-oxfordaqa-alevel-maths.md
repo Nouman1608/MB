@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m1-momentum-and-impulse-oxfordaqa-alevel-maths"
 description: "Study guide to OxfordAQA 9660 M1.4: momentum as a signed vector, conservation for two particles, impulse, and direct impact with a fixed smooth surface."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

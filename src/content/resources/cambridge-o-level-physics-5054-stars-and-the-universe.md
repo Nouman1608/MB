@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "stars-and-the-universe"
 description: "Deeper guide to 5054 section 6.2: the Sun as a star, light-year calculations, the forces in a star's life cycle, redshift and the Big Bang evidence."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "price-changes-cambridge-igcse-economics"
 description: "Study guide to price changes for Cambridge IGCSE Economics 0455: how changing market conditions shift demand or supply and change equilibrium price and sales."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

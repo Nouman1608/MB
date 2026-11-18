@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-effect-of-lifestyle-on-some-non-communicable-diseases-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 study guide to 4.2.2.6: risk factors, causal mechanisms, the six named lifestyle links, costs of disease and interpreting risk data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

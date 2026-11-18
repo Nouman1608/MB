@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "supply-side-policy-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) supply side policy guide: each named measure, how it shifts LRAS, worked examples on work incentives and costs, and evaluation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

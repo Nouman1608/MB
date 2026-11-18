@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "clubs-and-societies"
 description: "Study guide to O Level Accounting 7707 section 5.5: receipts and payments, subscriptions, refreshments, income and expenditure and the accumulated fund."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

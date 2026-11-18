@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "representation-of-data-cambridge-alevel-maths"
 description: "Cambridge 9709 Paper 5 subtopic 5.1 in depth: choosing diagrams, back-to-back stem-and-leaf, histograms, percentiles, and grouped and coded totals."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

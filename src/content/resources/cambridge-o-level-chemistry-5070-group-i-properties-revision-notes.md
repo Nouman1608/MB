@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "group-i-properties"
 description: "Condensed 5070 notes on the alkali metals: softness, the three trends, water reactions, equations, prediction rules and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

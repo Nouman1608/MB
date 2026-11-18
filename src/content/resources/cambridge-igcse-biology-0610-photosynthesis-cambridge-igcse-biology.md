@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "photosynthesis-cambridge-igcse-biology"
 description: "Deeper study guide to 0610 sub-topic 6.1 Photosynthesis: energy transfer, carbohydrate uses, mineral ions, planning investigations and limiting factors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

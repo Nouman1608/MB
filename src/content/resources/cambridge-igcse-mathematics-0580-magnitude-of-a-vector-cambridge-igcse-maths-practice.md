@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "magnitude-of-a-vector-cambridge-igcse-maths"
 description: "Original 0580 E7.3 questions with marked answers: magnitudes of column vectors, exact surds, combinations, unknown entries and displacement problems."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

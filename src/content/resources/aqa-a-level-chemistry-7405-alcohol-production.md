@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "alcohol-production-7405"
 description: "AQA 7405 alcohol production in depth: hydration of unsymmetrical alkenes, comparing hydration with fermentation, justifying conditions and writing biofuel answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

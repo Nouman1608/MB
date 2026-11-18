@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "social-identity-and-change-9699"
 description: "Cambridge 9699 section 1.3 in depth: how class, gender, ethnicity and age build identity, and whether globalisation and choice create new, hybrid identities."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

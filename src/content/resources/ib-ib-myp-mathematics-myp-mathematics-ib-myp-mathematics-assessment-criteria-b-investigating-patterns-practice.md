@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-myp-mathematics-assessment-criteria-b-investigating-patterns"
 description: "Original Criterion B practice for IB MYP Mathematics: finding, verifying, justifying and proving rules for linear, cubic, exponential and rational patterns."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

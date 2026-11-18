@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "cumulative-frequency-graphical-form-4040"
 description: "Revision notes on drawing and reading cumulative frequency curves and polygons, interpreting shape and comparing groups, with a self-test, for 4040."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

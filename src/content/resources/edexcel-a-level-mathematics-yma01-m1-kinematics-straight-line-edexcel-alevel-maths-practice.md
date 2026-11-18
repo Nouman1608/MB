@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m1-kinematics-straight-line-edexcel-alevel-maths"
 description: "Original Edexcel IAL Maths M1 kinematics questions with mark schemes: suvat, motion graphs, two-interval problems, vertical motion and objects that meet."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

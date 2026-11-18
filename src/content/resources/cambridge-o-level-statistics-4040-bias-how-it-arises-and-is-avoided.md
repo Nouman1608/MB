@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "bias-how-it-arises-and-is-avoided-4040"
 description: "How bias enters sampling, questions, interviews and measurement, how each cause is removed, and how to answer bias questions in O Level Statistics 4040."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

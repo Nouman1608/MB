@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "islam-subcontinent-9236"
 description: "Recall notes on Muhammad bin Qasim for OxfordAQA 9236: causes of the invasion, campaign timeline, government of Sindh, religious impact, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

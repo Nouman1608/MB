@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "socialisation-and-social-control-9292"
 description: "Section 3.2.2.4 of OxfordAQA IGCSE Sociology 9292: patterns of offending and victimisation by gender, social class, age and ethnicity, and explanations of each."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

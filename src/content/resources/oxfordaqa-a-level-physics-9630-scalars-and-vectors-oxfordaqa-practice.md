@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "scalars-and-vectors-oxfordaqa"
 description: "Twelve original OxfordAQA 9630 questions on 3.2.1: scalars versus vectors, resultants, resolving, river crossings and three-force equilibrium, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

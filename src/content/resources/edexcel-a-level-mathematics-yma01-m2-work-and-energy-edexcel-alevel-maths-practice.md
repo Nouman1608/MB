@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m2-work-and-energy-edexcel-alevel-maths"
 description: "Original Edexcel IAL Maths M2 work and energy questions with mark schemes: work done, the work-energy principle on rough slopes, conservation and power."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

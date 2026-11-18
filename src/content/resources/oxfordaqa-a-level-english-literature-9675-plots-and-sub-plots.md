@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-1-section-a-9675"
 description: "How sub-plots mirror, parody and feed the main tragic plot in the five 9675 Section A plays, and how to use them when you write about a printed passage."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

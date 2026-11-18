@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "writing-1123"
 description: "How to write the speech form in 1123 Paper 2 directed writing: spoken register, structure, controlled rhetorical devices and a model built from two sources."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

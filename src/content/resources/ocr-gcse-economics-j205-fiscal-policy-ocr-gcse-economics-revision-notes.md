@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "fiscal-policy-ocr-gcse-economics"
 description: "Condensed OCR GCSE Economics 3.5 notes on taxes, budgets, deficits, debt, fiscal policy and redistribution, with a twelve-question self-test and answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

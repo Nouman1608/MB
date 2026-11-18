@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "tropical-climates-9696"
 description: "Original practice questions with marked answers on Cambridge 9696 Geography 7.1: the ITCZ, trade winds, monsoons and tropical climate data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

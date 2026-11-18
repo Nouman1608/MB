@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-arenes"
 description: "Reactions of benzene and methylbenzene, the bromination mechanism, ring versus side-chain attack and directing effects in synthesis, for Cambridge 9701 30.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

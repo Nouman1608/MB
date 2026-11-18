@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "option-1a-aspects-of-tragedy-7717"
 description: "Revision notes on tragic structure and sub-plots for AQA English Literature B (7717): structural shapes by text, key terms, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

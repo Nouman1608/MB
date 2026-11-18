@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "a-homogeneous-and-heterogeneous-catalysts"
 description: "Revision notes on catalysts for Cambridge 9701: phase-based classification, the three heterogeneous stages, used-and-reformed homogeneous steps and E⦵ checks."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

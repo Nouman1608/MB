@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-poisson-distribution-cambridge-alevel-maths"
 description: "Twelve original 9709 Paper 6 questions on 6.1: Poisson probabilities, rescaled intervals, model conditions, data checks and both approximations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-damped-and-forced-oscillations-resonance"
 description: "Cambridge A Level Physics 9702 subtopic 17.3: how resistive forces damp oscillations, light, critical and heavy damping sketches, and resonance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "transition-elements"
 description: "Original practice questions with mark-scheme answers on Cambridge IGCSE Chemistry 0620 subtopic 8.4: transition metal properties, catalysts and iron ions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-competitive-environment-1bs0"
 description: "Deeper guide to Edexcel GCSE Business 1BS0 item 1.2.4: judging competitors on five factors, competitor grids, market share and how competition shapes decisions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

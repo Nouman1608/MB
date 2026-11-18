@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "social-influences-9218"
 description: "Condensed notes on Adorno's Authoritarian Personality for OxfordAQA IGCSE Psychology 9218: traits, upbringing, evaluation, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the research details given (Adorno and colleagues' sample and method; Elms and Milgram's follow-up) against the course textbook."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the research details given (Adorno and colleagues' sample and method; Elms and Milgram's follow-up) against the course textbook."
 publishedDate: 2026-11-18
 featured: false
 ---

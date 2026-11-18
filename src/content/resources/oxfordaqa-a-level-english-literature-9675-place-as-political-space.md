@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-2-section-a-9675"
 description: "How the six 9675 Unit 2 novels present place as a political space shaped by power, ownership, borders and empire, with a method and a model paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

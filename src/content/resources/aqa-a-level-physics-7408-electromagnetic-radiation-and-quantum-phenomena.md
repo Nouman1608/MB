@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "electromagnetic-radiation-and-quantum-phenomena"
 description: "Study guide to AQA 7408 section 3.2.2: photoelectric effect, electron collisions, energy levels, line spectra and wave-particle duality, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

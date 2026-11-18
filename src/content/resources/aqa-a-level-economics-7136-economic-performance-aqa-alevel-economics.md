@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "economic-performance-aqa-alevel-economics"
 description: "AQA 7136 section 3.2.3 joined up: growth and output gaps, the cycle from indicators, unemployment types, MV = PQ sums, inflation and the two Phillips curves."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

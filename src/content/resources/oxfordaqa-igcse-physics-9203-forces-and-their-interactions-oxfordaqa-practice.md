@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "forces-and-their-interactions-oxfordaqa"
 description: "Original practice questions with mark-scheme answers on OxfordAQA IGCSE Physics 3.1.1: force pairs, free-body diagrams, weight and Hooke's law."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

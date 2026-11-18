@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "reproduction-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 section 4.6.1 Reproduction in depth: meiosis, sexual and asexual reproduction, DNA and protein synthesis, genetic crosses and disorders."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

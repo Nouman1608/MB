@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "special-relativity-aqa-alevel"
 description: "Original AQA A-level Physics 7408 special relativity practice: Michelson-Morley, postulates, time dilation, length contraction, mass-energy and Bertozzi."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

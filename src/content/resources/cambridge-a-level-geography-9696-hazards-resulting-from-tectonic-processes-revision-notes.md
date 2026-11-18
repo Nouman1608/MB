@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "hazards-resulting-from-tectonic-processes-9696"
 description: "Revision notes for Cambridge 9696 Geography 9.1: tectonic hazard distribution, earthquake and volcanic hazards, impacts, monitoring and perception of risk."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

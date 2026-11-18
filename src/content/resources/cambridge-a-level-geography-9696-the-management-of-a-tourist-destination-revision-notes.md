@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "the-management-of-a-tourist-destination-9696"
 description: "Condensed recall for the 9696 tourist destination case study: the four syllabus demands, visitor management tools, stakeholders and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm that the Maya Bay management details (2018 closure, January 2022 reopening, timed visits and swimming ban) are still current."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm that the Maya Bay management details (2018 closure, January 2022 reopening, timed visits and swimming ban) are still current."
 publishedDate: 2026-11-18
 featured: false
 ---

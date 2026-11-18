@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "materials-aqa-alevel"
 description: "Condensed AQA 7408 notes on section 3.4.2 Materials: density, Hooke's law, stress, strain, strain energy, graph features, the Young modulus and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

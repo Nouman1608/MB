@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "classification-of-goods-and-services-cambridge-alevel-economics"
 description: "Revision notes for 9708 section 1.6: free, private, public, merit and demerit goods, a sorting test, key terms, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

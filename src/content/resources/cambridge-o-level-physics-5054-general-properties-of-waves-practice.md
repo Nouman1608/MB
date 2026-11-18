@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "general-properties-of-waves"
 description: "Original 5054 subtopic 3.1 questions on wave features, v = fλ, transverse and longitudinal waves, refraction and diffraction, with full worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

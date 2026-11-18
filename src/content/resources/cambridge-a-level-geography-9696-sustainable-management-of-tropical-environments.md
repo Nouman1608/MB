@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "sustainable-management-of-tropical-environments-9696"
 description: "Study guide for Cambridge 9696 Geography 7.4: threats to rainforest and savanna, problems of sustainable management, and evaluating solutions in a case study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the Costa Rica forest-cover figures (about a fifth in the 1980s, over half now) and the CAMPFIRE and Maasai Mara conservancy details against current sources."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the Costa Rica forest-cover figures (about a fifth in the 1980s, over half now) and the CAMPFIRE and Maasai Mara conservancy details against current sources."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ethical-considerations"
 description: "Original O Level Accounting 7707 practice on ethics: identifying the five principles in cases, measuring effects on figures and explaining stakeholder impact."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

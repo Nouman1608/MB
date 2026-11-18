@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "uses-of-an-oscilloscope"
 description: "Displaying waveforms and measuring p.d., period, frequency and short time intervals with the Y-gain and timebase, for Cambridge O Level Physics 5054."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

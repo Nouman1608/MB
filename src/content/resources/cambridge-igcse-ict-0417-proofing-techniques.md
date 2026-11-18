@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "proofing-techniques-0417"
 description: "Visual verification, proofreading for layout faults, double data entry and the need for both validation and verification, for IGCSE ICT 0417 section 15.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "esafety-0417"
 description: "Data protection principles, personal and sensitive data, and staying safe online, by email, on social media and in games, for Cambridge IGCSE ICT 0417 8.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "option-2b-elements-of-political-and-social-protest-writing-7717"
 description: "Revision notes on connecting the smaller and larger worlds in AQA English Literature B (7717) protest writing: levels, methods, a text grid and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

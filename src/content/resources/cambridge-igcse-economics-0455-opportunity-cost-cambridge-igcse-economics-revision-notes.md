@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "opportunity-cost-cambridge-igcse-economics"
 description: "Revision notes on opportunity cost for Cambridge IGCSE Economics 0455: definition, calculations, decisions by four groups, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

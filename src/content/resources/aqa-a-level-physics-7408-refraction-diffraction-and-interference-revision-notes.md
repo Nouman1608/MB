@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "refraction-diffraction-and-interference"
 description: "Condensed AQA 7408 notes on section 3.3.2: interference conditions, Young's slits, single-slit and grating diffraction, Snell's law, fibres and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

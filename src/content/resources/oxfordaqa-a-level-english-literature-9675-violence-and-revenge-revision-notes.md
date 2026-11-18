@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-1-section-b-9675"
 description: "Condensed notes on violence and revenge in the five 9675 Section B plays: forms of violence, offstage events, what replaces revenge, key terms and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

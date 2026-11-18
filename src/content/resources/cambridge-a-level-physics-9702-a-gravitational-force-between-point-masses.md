@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-gravitational-force-between-point-masses"
 description: "A focused guide to 13.2 in Cambridge A Level Physics 9702: spheres as point masses, Newton's law of gravitation, circular orbits and geostationary satellites."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "effects-of-temperature-and-ph"
 description: "Original practice questions with full answers on 5090 subtopic 5.2: following enzyme reactions, planning investigations, rate data and explanations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

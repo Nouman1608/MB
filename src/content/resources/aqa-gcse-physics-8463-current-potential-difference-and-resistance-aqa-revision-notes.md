@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "current-potential-difference-and-resistance-aqa"
 description: "Condensed AQA GCSE Physics 4.2.1 notes: Q = It, V = IR, meter placement, I–V graph shapes, sensors, practicals 3 and 4, exam traps and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

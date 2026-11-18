@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "probability-cambridge-alevel-maths"
 description: "Cambridge 9709 Paper 5 subtopic 5.3 in depth: sample spaces, counting methods, exclusive and independent events, tree diagrams and conditional probability."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

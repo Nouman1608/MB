@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "refraction-and-total-internal-reflection-oxfordaqa"
 description: "Condensed notes on refraction, refractive index, critical angle, total internal reflection, dispersion and optical fibres for OxfordAQA IGCSE Physics 9203."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

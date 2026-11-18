@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "marketing-competition-and-the-customer"
 description: "Cambridge O Level Business 7115 guide to 3.1: the role of marketing, changing spending patterns, competition, niche and mass marketing and market segmentation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

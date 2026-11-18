@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "energy-transfers-and-particle-motion"
 description: "Condensed notes on conduction, convection, evaporation, surface area to volume ratio and expansion for OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

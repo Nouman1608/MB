@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "biotechnology-and-genetic-modification-cambridge-igcse-biology"
 description: "Study guide to Cambridge IGCSE Biology 0610 section 21.1: why bacteria are useful in biotechnology and GM, from rapid reproduction to plasmids and ethics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

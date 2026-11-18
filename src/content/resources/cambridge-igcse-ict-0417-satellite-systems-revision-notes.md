@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "satellite-systems-0417"
 description: "Condensed recall for Cambridge IGCSE ICT 0417 section 6.11: GPS, sat nav, GIS, satellite TV and satellite phones, key terms, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

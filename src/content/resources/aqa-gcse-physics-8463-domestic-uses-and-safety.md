@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "domestic-uses-and-safety"
 description: "AQA GCSE Physics 4.2.3 in depth: ac and dc, the 50 Hz 230 V mains supply, three-core cable, why a live wire is dangerous and why live-to-earth faults matter."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

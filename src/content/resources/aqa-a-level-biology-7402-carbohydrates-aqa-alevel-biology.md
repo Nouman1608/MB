@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "carbohydrates-aqa-alevel-biology"
 description: "AQA A-level Biology 3.1.2 study guide: drawing glucose isomers, structure-to-function explanations, osmotic reasoning and semi-quantitative sugar tests."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

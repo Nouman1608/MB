@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "bank-reconciliation"
 description: "Study guide to 0452 sub-topic 3.3: the bank statement, updating the cash book, an overdrawn bank reconciliation with a bank error, and digital transactions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

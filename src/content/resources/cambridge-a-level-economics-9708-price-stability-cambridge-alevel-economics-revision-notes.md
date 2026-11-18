@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "price-stability-cambridge-alevel-economics"
 description: "Revision notes for 9708 section 4.6: inflation terms, the CPI and its limits, nominal and real data, cost-push and demand-pull, consequences and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

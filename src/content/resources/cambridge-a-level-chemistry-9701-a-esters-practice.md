@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-esters"
 description: "Original practice questions with mark-scheme answers on making esters from acyl chlorides, naming, phenyl esters and yield calculations, for Cambridge 9701."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

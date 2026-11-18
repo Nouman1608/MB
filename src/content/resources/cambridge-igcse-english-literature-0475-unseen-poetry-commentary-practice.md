@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "paper-4-unseen-0475"
 description: "Twelve original questions on two unseen original poems, practising reading, planning and commentary writing for 0475 Paper 4, with full marking points."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

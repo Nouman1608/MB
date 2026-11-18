@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "manipulate-data-0417"
 description: "Quick recall of calculated fields and controls, summary functions, sorting, query operators and wildcards, with a self-test, for IGCSE ICT 0417 section 18.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

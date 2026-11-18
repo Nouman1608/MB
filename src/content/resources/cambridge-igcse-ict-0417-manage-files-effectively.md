@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "manage-files-effectively-0417"
 description: "Locating, importing, saving, exporting and printing files, folder structures and the named file formats, for Cambridge IGCSE ICT 0417 section 11.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm the software types given for the .sdc (spreadsheet) and .sdb (database) formats listed in the 0417 syllabus."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm the software types given for the .sdc (spreadsheet) and .sdb (database) formats listed in the 0417 syllabus."
 ---
 
 Section 11.1 of Cambridge IGCSE ICT 0417, "Manage files effectively", is both a practical skill and theory content. You must be able to "locate stored files", "open and import files of different types", "save files in a planned hierarchical directory/folder structure", "save files using appropriate file names", save and print in a variety of formats, and save and export in application and generic formats. You must also know the "characteristics and uses of file formats including css, csv, gif, htm, jpg, pdf, png, rtf, txt, zip, rar" and "the need for generic file formats".

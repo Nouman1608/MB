@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "calculation-and-understanding-of-accounting-ratios"
 description: "Original O Level Accounting 7707 practice on the ten syllabus ratios: profitability, liquidity and efficiency calculations, missing figures and error spotting."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

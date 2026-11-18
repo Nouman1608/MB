@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "alcohols"
 description: "Original 0620 practice questions with full answers on fermentation, steam addition to ethene, ethanol combustion and uses, and comparing the two methods."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "electric-circuits"
 description: "Original 5054 questions with full answers on series and parallel rules, combined resistance, circuit calculations, and LDR and thermistor potential dividers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

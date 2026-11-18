@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "particle-model-and-pressure"
 description: "Condensed AQA GCSE Physics 4.3.3 notes: gas molecules, temperature and pressure, pV = constant, the Higher-tier bicycle pump idea, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

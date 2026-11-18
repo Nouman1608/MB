@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "control-and-coordination-in-plants-cambridge"
 description: "Twelve original questions with full answers on 9700 section 15.2: the Venus fly trap, auxin and acid growth, and gibberellin in barley germination."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

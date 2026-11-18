@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-costs-and-revenue-aqa-aslevel-economics"
 description: "AQA AS Economics 7135 section 3.1.3: productivity, specialisation and money, cost and revenue calculations, profit and economies of scale, at AS depth."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

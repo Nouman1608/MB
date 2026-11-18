@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-characteristic-properties-of-acids-and-bases"
 description: "Original practice questions with answers on Cambridge IGCSE Chemistry 0620 subtopic 7.1: acid and base reactions, indicators, pH and strong and weak acids."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

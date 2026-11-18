@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "implementation-and-measurements-unit-6-yph11"
 description: "Recall notes for Edexcel IAL Physics Unit 6 section 6.4: improvements, readings, range, rounding tables, amending units and anomalies, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

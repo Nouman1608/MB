@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "nanoparticles-9202"
 description: "Study guide to OxfordAQA IGCSE Chemistry 9202 section 3.2.4: nanoscience, the 1–100 nm scale, surface area to volume ratio and applying given information."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

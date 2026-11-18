@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "digital-signal-processing-aqa-alevel"
 description: "Study guide to AQA A-Level Physics 7408 section 3.13.5: Boolean algebra, logic gates and truth tables, binary, BCD and Johnson counters, modulo-n and astables."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "redox"
 description: "Study guide to O Level Chemistry 5070 subtopic 6.4: oxidation and reduction three ways, oxidation numbers, redox colour tests and oxidising and reducing agents."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

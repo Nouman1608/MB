@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "passage-of-information-from-parents-to-offspring-cambridge"
 description: "A deep guide to 9700 section 16.1: haploid and diploid, homologous pairs, meiosis stage by stage, identifying stages in images, and sources of variation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

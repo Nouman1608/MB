@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kinetic-particle-model-of-matter"
 description: "Subtopic 2.1 of Cambridge O Level Physics 5054 in depth: states of matter, the particle model, absolute zero, gas pressure and the three gas relationships."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

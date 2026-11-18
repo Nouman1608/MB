@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "aggregate-supply-edexcel-alevel-economics"
 description: "Condensed recall for Edexcel International A Level Economics 2.3.3: SRAS and LRAS factors, Keynesian and classical shapes, traps and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

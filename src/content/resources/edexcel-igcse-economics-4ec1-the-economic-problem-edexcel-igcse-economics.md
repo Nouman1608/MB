@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-economic-problem-edexcel-igcse-economics"
 description: "Study guide to Edexcel IGCSE Economics 4EC1 section 1.1.1: scarcity, opportunity cost for economic agents, drawing and reading the PPF, and causes of growth."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "variation-cambridge-alevel-biology"
 description: "Condensed recall for 9700 section 17.1: causes of variation, continuous and discontinuous variation, polygenes, the t-test method and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "find-and-replace-text-t17-0417"
 description: "Find, replace and replace all with match case and whole words options for Cambridge IGCSE ICT 0417 Topic 17, with counted examples of what each option matches."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

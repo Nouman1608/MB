@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "use-of-technology-in-accounting-4ac1"
 description: "Revision notes on accounting software, spreadsheets, data loss, access, confidentiality and protection methods, with a self-test, Edexcel IGCSE Accounting 1.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

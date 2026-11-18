@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "s2-hypothesis-tests-edexcel-alevel-maths"
 description: "Twelve original Edexcel IAL Maths S2 hypothesis test questions with mark-scheme answers: binomial and Poisson tests, critical regions and two tails."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

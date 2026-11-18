@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "assembly-language"
 description: "Revision notes for Cambridge 9618 section 4.2: instruction set by group, addressing modes, the two-pass assembler, tracing rules, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

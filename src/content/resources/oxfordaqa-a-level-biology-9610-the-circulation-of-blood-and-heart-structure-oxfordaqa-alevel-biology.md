@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-circulation-of-blood-and-heart-structure-oxfordaqa-alevel-biology"
 description: "A focused guide to blood vessels, tissue fluid, heart structure and the cardiac cycle for OxfordAQA International A-level Biology 9610, with worked data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

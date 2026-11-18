@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "energy-flow-cambridge-igcse-biology"
 description: "Revision notes for Cambridge IGCSE Biology 0610 sub-topic 19.1: the Sun as energy source, light to chemical energy, heat loss and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

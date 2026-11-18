@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "unit-3-elements-of-crime-and-mystery-9675"
 description: "How the 9675 Unit 3 set texts handle punishment, justice, retribution and the law, from divine and private justice to failing courts, with a model paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

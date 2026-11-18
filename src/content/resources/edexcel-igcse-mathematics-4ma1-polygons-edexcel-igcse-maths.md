@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "polygons-edexcel-igcse-maths"
 description: "Study guide to 4MA1 section 4.2: naming polygons, quadrilateral properties and angle sum, regular polygon angles, polygon angle sums and congruence."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

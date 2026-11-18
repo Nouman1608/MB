@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "energy-transfer-by-conduction-oxfordaqa-alevel-physics"
 description: "Revision notes for OxfordAQA 9630 section 3.11.2: conduction equation, k and U units, parallel-surface heat loss, exam traps and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

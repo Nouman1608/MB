@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "transfer-of-thermal-energy"
 description: "Original 5054 subtopic 2.3 questions on conduction, convection, infrared radiation, the named experiments and everyday applications, with full worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

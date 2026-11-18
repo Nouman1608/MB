@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "antibiotics-cambridge-alevel-biology"
 description: "Study guide to 9700 sub-topic 10.2: how penicillin acts on bacteria, why antibiotics do not affect viruses, and the consequences and control of resistance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

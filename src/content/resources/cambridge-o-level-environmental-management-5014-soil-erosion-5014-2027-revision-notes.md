@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "soil-erosion-5014-2027"
 description: "Recall notes for 5014 sub-topic 2.3 (2027-2029): five causes of soil erosion, seven impacts, and how terracing, bunds, wind breaks and other strategies work."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

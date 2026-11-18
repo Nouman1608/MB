@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-physics-c-2"
 description: "Condensed recall for IB DP Physics C.2 Wave model: wave quantities, graph reading, v = fλ across media, sound, EM waves and spectrum orders of magnitude."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

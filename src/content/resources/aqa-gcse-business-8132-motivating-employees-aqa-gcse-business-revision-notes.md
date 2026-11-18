@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "motivating-employees-aqa-gcse-business"
 description: "Revision notes for AQA GCSE Business 3.4.3: benefits of motivation, the four pay methods with calculations, and four non-financial methods compared."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

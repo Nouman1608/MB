@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-the-diffraction-grating"
 description: "Original practice questions with full answers on Cambridge AS Physics 9702 8.4: d sin θ = nλ, highest order, overlapping spectra and finding a wavelength."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

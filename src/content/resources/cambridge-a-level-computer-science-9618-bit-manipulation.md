@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "bit-manipulation"
 description: "Study guide to Cambridge 9618 section 4.3: logical, arithmetic and cyclic shifts, and AND, OR and XOR masks to test, set, clear and toggle bits for a device."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the description of an arithmetic left shift against the course textbook in use; conventions on whether the sign bit is held fixed differ between sources."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the description of an arithmetic left shift against the course textbook in use; conventions on whether the sign bit is held fixed differ between sources."
 publishedDate: 2026-11-18
 featured: false
 ---

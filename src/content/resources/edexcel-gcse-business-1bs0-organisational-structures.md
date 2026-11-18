@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "organisational-structures-1bs0"
 description: "Edexcel GCSE Business 2.5.1 in depth: choosing a structure, fixing communication problems and matching hours, contracts and technology to a business."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

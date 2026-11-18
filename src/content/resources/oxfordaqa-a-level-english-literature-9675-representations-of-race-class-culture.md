@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "unit-4-literary-representations-9675"
 description: "How to analyse representations of race, class and culture in 9675 Unit 4 unseen texts and NEA essays: viewpoint, markers, voice and a model paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

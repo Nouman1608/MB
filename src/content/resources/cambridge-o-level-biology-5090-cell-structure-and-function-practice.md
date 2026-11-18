@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "cell-structure-and-function"
 description: "Original practice questions with full answers on 5090 subtopic 1.1: identifying cell structures, their functions, bacterial cells and the staining practical."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

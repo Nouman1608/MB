@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "partnerships"
 description: "Study guide to 7707 section 5.2: partnership agreements, appropriation accounts, partners' loans, capital and current accounts, and the financial position."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

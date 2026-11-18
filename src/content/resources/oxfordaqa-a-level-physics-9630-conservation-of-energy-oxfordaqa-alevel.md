@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "conservation-of-energy-oxfordaqa-alevel"
 description: "OxfordAQA 9630 subtopic 3.2.8 in depth: energy accounts with ΔEp = mgΔh and Ek = ½mv², work against resistive forces, springs and bouncing balls."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

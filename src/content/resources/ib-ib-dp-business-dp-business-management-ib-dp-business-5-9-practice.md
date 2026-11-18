@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-5-9"
 description: "Original IB Business Management practice questions on 5.9 Management information systems (HL only): data, cyber risk, AI, monitoring and ethics, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

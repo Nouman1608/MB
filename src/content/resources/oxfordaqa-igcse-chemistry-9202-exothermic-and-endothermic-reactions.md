@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "exothermic-and-endothermic-reactions-9202"
 description: "OxfordAQA IGCSE Chemistry (9202) section 3.9.1 in depth: energy transfer, ΔH signs, classifying reactions from data, uses and reversible reactions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

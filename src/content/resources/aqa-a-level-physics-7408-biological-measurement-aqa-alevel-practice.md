@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "biological-measurement-aqa-alevel"
 description: "Original AQA A-level Physics 7408 ECG practice questions: obtaining the waveform, electrodes and amplifiers, P, QRS and T waves, and heart-rate calculations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

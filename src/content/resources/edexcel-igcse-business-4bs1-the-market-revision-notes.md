@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-market-4bs1"
 description: "Revision notes on 4BS1 section 4.2 the market: loyalty, orientation, market share, niche and mass, responding to change, segmentation, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

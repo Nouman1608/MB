@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "introduction-to-probability-cambridge-igcse-maths"
 description: "Original 0580 subtopic 8.1 questions with marked answers: single events from lists, charts, tables, spinners and Venn diagrams, complements and unknowns."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

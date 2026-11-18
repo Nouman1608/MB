@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-the-mole"
 description: "A focused guide to 15.1 The mole in Cambridge A Level Physics 9702: amount of substance as a base quantity, the Avogadro constant and particle counts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

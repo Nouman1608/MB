@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "perpendicular-lines-cambridge-igcse-maths"
 description: "Thirteen original Extended 0580 questions on E3.7 Perpendicular lines: gradients, bisectors, right angles, tangents and rhombus tests, with mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

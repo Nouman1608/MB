@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "types-of-data-methods-research-design-9699"
 description: "Cambridge 9699 section 2.1 in depth: types of data, secondary sources, quantitative and qualitative methods, and every stage of research design worked through."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

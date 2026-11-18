@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m1-motion-variable-acceleration-oxfordaqa-alevel-maths"
 description: "OxfordAQA 9660 M1.2 practice questions with worked answers: v = ds/dt, a = dv/dt, integrating with constants, direction changes, distance and fractional powers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

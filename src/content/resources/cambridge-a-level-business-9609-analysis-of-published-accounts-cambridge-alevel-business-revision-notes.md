@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "analysis-of-published-accounts-cambridge-alevel-business"
 description: "Revision notes for Cambridge A Level Business 9609 section 10.2: ratio formulas, units, meaning, interpretation and methods of improvement with trade-offs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

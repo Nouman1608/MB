@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "indices-i-cambridge-igcse-maths"
 description: "Fourteen original 0580 Indices I questions: zero and negative indices, index rules with numbers, common bases and Extended fractional indices, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

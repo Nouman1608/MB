@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "price-elasticity-of-supply-cambridge-alevel-economics"
 description: "Revision notes for 9708 section 2.3: the PES formula and rearrangements, values and their meaning, factors affecting PES, firms' reactions and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

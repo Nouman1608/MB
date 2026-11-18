@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-a-1"
 description: "HL study guide to control systems in IB DP Computer Science A.1: sensors, controllers, actuators, feedback, open and closed loops, with worked scenarios."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Written from the public subject brief and the A1.3.6-A1.3.7 label (control systems, HL only); the exact learning outcomes were not available, so please check scope and depth against the full DP Computer Science guide."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Written from the public subject brief and the A1.3.6-A1.3.7 label (control systems, HL only); the exact learning outcomes were not available, so please check scope and depth against the full DP Computer Science guide."
 publishedDate: 2026-11-18
 featured: false
 ---

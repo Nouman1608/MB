@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "workers-cambridge-igcse-economics"
 description: "Study guide to workers for Cambridge IGCSE Economics 0455 section 3.3: occupation choice, wage determination, earnings differences and division of labour."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

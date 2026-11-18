@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-finance-sources-4bs1"
 description: "Twelve original 4BS1 practice questions with full answers on sources of finance: needs, loans, shares, venture capital, crowdfunding and choosing a source."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

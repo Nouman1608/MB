@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "forces-and-their-interactions"
 description: "Fourteen original AQA GCSE Physics 8463 questions on 4.5.1: vectors, force types, interaction pairs, weight, resultants and scale drawings, with marked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "aangan-khadija-mastur-9ur0"
 description: "9UR0 study guide to Aangan (آنگن): the five features examiners reward, the essay grids, an annotated model introduction and a 45-mark Section B plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

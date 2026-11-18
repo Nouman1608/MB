@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "standard-form-edexcel-igcse-maths"
 description: "Edexcel IGCSE Maths 4MA1 section 1.9 study guide: writing and ordering numbers in standard form, the four operations, calculator use and Higher problems."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

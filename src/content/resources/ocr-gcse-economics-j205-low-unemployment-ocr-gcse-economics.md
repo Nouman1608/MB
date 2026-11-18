@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "low-unemployment-ocr-gcse-economics"
 description: "Study guide to OCR GCSE Economics 3.2: the Claimant Count, the unemployment rate, four types of unemployment and the costs to people, regions and government."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

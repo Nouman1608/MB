@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "electric-field-strength-oxfordaqa"
 description: "Study guide to OxfordAQA 9630 section 3.8.2: field lines, E = F/Q, E = V/d, radial fields, adding fields and charged particles crossing uniform fields."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

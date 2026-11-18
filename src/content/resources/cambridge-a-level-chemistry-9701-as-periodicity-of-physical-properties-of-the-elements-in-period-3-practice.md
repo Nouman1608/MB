@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-periodicity-of-physical-properties-of-the-elements-in-period-3"
 description: "Thirteen original questions with answers on Period 3 radii, melting points and electrical conductivity explained by structure, for Cambridge 9701 subtopic 9.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

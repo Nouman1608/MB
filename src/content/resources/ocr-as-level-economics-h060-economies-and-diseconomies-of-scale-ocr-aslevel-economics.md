@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "economies-and-diseconomies-of-scale-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to economies and diseconomies of scale: internal and external types, long-run average cost and significance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification does not name economies or diseconomies of scale, which appear in the A Level (H460) costs topic, so a teacher should confirm whether this subtopic is examined at AS."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "The current H060 specification does not name economies or diseconomies of scale, which appear in the A Level (H460) costs topic, so a teacher should confirm whether this subtopic is examined at AS."
 ---
 
 This guide covers **Economies and diseconomies of scale** for the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 01, Microeconomics. Confirm the scope with your teacher: in the current version of the specification, economies of scale, diseconomies of scale and minimum efficient scale are named in the A Level (H460) topic on costs and economies of scale, while the AS content uses the related ideas of "specialisation and the division of labour" and productive efficiency. All firms and figures below are invented.

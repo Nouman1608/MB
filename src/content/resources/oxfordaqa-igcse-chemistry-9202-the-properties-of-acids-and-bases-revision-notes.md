@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-properties-of-acids-and-bases-9202"
 description: "Condensed notes on OxfordAQA IGCSE Chemistry (9202) section 3.5.1: bases, alkalis, salt formulae, ionic equations, ammonia, limewater and pH, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

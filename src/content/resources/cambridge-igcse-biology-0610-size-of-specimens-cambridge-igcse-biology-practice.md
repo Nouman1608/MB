@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "size-of-specimens-cambridge-igcse-biology"
 description: "Fourteen original questions with worked answers on Cambridge IGCSE Biology 0610 sub-topic 2.2: magnification, actual size, scale bars and unit conversion."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

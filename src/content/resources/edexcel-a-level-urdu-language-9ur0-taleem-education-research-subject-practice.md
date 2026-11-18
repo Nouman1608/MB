@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "taleem-education-research-subject-9ur0"
 description: "Eleven original 9UR0 practice questions on equal access to education, from research rules and vocabulary to a full Section C style task with an unseen text."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

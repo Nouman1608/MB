@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "naming-organic-compounds"
 description: "Condensed recall for 0620 subtopic 11.2: stems, endings, locants, every compound up to four carbons, reaction products and ester names, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

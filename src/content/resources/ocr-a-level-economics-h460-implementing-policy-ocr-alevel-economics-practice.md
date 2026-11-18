@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "implementing-policy-ocr-alevel-economics"
 description: "Original OCR A Level Economics (H460) questions with mark-scheme answers on fiscal, monetary and supply-side policy, tax rates, deficits and policy conflicts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

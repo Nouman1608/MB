@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "wind-energy-oxfordaqa-alevel-physics"
 description: "Original practice questions with mark-scheme answers on OxfordAQA 9630 section 3.13.2: turbine power ½πr²ρv³, variable winds, wind shadows and site choice."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

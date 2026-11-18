@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "whole-number-theory-ocr-gcse-maths"
 description: "OCR GCSE Maths J560 section 1.02 in depth: factors, primes, prime factorisation in power notation, square and cube tests, and HCF and LCM problems."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

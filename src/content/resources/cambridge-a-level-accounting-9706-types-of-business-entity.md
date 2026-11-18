@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "types-of-business-entity"
 description: "Study guide to Cambridge 9706 topic 1.1: sole traders, partnerships and limited companies, their liability and control, and how each can raise finance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

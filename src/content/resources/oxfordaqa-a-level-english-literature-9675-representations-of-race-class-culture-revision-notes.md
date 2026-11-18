@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "unit-4-literary-representations-9675"
 description: "Condensed notes on representations of race, class and culture for 9675 Unit 4: six things to look for, methods, key terms, traps for 4a and 4b, and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

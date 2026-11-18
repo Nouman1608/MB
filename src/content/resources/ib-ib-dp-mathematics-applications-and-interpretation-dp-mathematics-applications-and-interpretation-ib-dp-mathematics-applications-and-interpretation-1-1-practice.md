@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-1-1"
 description: "12 original IB DP Maths AI section 1.1 questions on numbers in the form a × 10^k, from conversions to contextual problems, with marked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "standard-form-cambridge-igcse-maths"
 description: "Study guide to 0580 subtopic 1.8 Standard form: the A × 10^n rule, converting both ways, ordering, calculating by hand and by calculator, and context problems."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "create-a-web-page-0417"
 description: "Original questions with full answers on HTML for 0417 subtopic 21.2: metatags, default targets, spanning cells, media attributes, divs, links and file paths."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

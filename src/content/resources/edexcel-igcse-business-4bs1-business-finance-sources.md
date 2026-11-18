@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-finance-sources-4bs1"
 description: "Study guide to 4BS1 section 3.1 sources of finance: matching sources to needs, internal and external options, costs, control and how to justify a choice."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

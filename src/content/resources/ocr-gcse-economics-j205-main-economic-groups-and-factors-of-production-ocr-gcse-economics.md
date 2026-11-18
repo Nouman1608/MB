@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "main-economic-groups-and-factors-of-production-ocr-gcse-economics"
 description: "OCR GCSE Economics J205 section 1.1 in depth: roles of consumers, producers and government, interdependence, and classifying and combining the four factors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

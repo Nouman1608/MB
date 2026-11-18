@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-gas-liquid-chromatography"
 description: "Original practice questions with full answers on GLC phases, retention times, peak-area percentages and explaining elution order, for Cambridge 9701 Chemistry."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "qs8-quantitative-skills-oxfordaqa-alevel-economics"
 description: "QS8 study guide for OxfordAQA 9640 Economics: rearranging elasticity formulas to forecast demand, revenue and supply, and interpreting results with care."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

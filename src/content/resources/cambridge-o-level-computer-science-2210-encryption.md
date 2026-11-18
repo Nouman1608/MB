@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "encryption"
 description: "Study guide to Cambridge O Level Computer Science 2210 section 2.3: why data is encrypted in transmission, and how symmetric and asymmetric keys are used."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

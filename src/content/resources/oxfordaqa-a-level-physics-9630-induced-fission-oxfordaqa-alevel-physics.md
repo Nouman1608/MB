@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "induced-fission-oxfordaqa-alevel-physics"
 description: "Study guide to OxfordAQA 9630 section 3.12.3: thermal-neutron fission, chain reactions, critical mass, moderator, control rods, coolant and collisions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

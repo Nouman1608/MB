@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "partnerships"
 description: "Cambridge IGCSE Accounting 0452 section 5.2 in depth: partnership agreements, loan interest, the appropriation account and capital and current accounts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "photosynthesis-as-an-energy-transfer-process-cambridge"
 description: "A deep guide to 9700 section 13.1: tracing energy from light to ATP, reduced NADP and triose phosphate, with spectra, Rf values and prediction questions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

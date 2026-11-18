@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-3-2"
 description: "Original IB DP Business Management practice questions on 3.2 Sources of finance: internal and external sources, costings and recommendations, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

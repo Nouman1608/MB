@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-literary-non-fiction-9270"
 description: "How to answer the whole-text question in OxfordAQA International GCSE English Language 9270 Paper 1 Section A: tracking, structure, judgement and a model."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

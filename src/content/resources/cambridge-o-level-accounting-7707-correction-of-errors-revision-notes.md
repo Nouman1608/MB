@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "correction-of-errors"
 description: "Revision notes for 7707 section 3.2: correcting journal entries, suspense accounts, corrected profit and the effect on the statement of financial position."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

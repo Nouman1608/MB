@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "s1-mathematical-models-edexcel-alevel-maths"
 description: "Revision notes for Edexcel IAL Maths S1 mathematical models: the six-step modelling cycle, assumptions, advantages, limitations and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

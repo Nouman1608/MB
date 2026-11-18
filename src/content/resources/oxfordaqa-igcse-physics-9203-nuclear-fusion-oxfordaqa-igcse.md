@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "nuclear-fusion-oxfordaqa-igcse"
 description: "A focused guide to nuclear fusion for OxfordAQA International GCSE Physics 9203: balancing fusion equations, mass into energy, conditions and stars."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

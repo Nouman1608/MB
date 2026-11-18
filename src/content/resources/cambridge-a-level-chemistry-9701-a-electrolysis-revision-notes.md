@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-electrolysis"
 description: "Revision notes on electrolysis for Cambridge 9701: product rules at each electrode, F = Le, Q = It, mass and gas volume calculations and the Avogadro experiment."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

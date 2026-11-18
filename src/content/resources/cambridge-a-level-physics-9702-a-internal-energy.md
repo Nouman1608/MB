@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-internal-energy"
 description: "Cambridge A Level Physics 9702 subtopic 16.1: internal energy as random molecular kinetic and potential energy, a function of state linked to temperature."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

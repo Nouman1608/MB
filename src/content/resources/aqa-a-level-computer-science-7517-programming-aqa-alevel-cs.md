@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "programming-aqa-alevel-cs"
 description: "Deeper guide to AQA 7517 section 4.1.1 Programming: data types, iteration, operators, strings, exceptions, subroutines, stack frames and recursion."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

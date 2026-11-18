@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p2-exponentials-and-logarithms-oxfordaqa-alevel-maths"
 description: "Thirteen original OxfordAQA 9660 P2.5 practice questions on e^x and ln x graphs, inverse functions, equations and growth and decay models, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

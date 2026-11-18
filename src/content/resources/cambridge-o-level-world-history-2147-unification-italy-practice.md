@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "unification-italy-2147"
 description: "Twelve original O Level History 2147 questions with mark-scheme answers on Italian unification, 1848-70, including invented sources for Paper 2 practice."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

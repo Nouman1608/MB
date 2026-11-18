@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "stakeholders-in-a-business-cambridge-alevel-business"
 description: "Twelve original practice questions with mark-scheme answers on 9609 section 1.5 Stakeholders: influence, reactions, accountability and conflict."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-sociocultural-approach"
 description: "The HL sociocultural extension on globalisation for IB DP Psychology: bicultural identity, the Fiji television study, global cooperation and how to evaluate it."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the summaries of Chen, Benet-Martinez and Bond (2008) and Buchan et al. (2009) against the original papers before sign-off."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Check the summaries of Chen, Benet-Martinez and Bond (2008) and Buchan et al. (2009) against the original papers before sign-off."
 publishedDate: 2026-11-18
 featured: false
 ---

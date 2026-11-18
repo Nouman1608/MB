@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "fundamental-particles-7405"
 description: "Condensed AQA 7405 notes on fundamental particles: relative charge and mass, the nuclear atom, changing atomic models, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

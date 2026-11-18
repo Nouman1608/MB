@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "demand"
 description: "Condensed notes on demand, extensions and contractions, aggregation and the conditions of demand, with a self-test, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

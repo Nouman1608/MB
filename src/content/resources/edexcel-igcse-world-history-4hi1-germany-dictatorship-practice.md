@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "germany-dictatorship-4hi1"
 description: "Original Edexcel IGCSE History 4HI1 practice on Germany 1918–45: Stresemann, the Munich Putsch, Nazi society, persecution, war and opposition, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

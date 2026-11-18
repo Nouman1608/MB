@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-effect-of-errors-on-profit-calculations-oxfordaqa-igcse-accounting"
 description: "Twelve original questions with marked answers on how errors and their corrections change gross profit and profit for the year in OxfordAQA IGCSE Accounting 9215."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

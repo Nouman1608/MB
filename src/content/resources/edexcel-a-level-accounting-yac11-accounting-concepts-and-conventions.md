@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "accounting-concepts-and-conventions-yac11"
 description: "Study guide to outcomes 1.1.8-1.1.10 of Edexcel IAL Accounting: applying nine concepts, correcting draft profit, concepts in conflict and the role of IAS."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

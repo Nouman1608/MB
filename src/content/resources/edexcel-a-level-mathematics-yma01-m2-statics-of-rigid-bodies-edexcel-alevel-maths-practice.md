@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m2-statics-of-rigid-bodies-edexcel-alevel-maths"
 description: "Twelve original Edexcel IAL Maths M2 statics questions with mark-scheme answers: moments, hinged rods, pegs, tilting planks and ladders on rough ground."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

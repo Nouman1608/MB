@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-energy-in-simple-harmonic-motion"
 description: "A focused guide to 17.2 in Cambridge A Level Physics 9702: kinetic–potential energy interchange, deriving E = ½mω²x₀², energy graphs and worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

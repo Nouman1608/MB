@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-1-1"
 description: "IB DP Business Management 1.1 in depth: inputs and functions, value added along a chain of production, sectoral change, entrepreneurship and start-up cash risk."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

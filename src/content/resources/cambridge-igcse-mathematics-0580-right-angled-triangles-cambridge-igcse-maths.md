@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "right-angled-triangles-cambridge-igcse-maths"
 description: "Study guide to Cambridge IGCSE Maths 0580 subtopic 6.2: sine, cosine and tangent in right-angled triangles, bearings, and Extended elevation and depression."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

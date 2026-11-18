@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ions-and-ionic-bonds"
 description: "Condensed recall for 0620 subtopic 2.4: ion charges, ionic bond definition, dot-and-cross rules, lattice wording, property explanations and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

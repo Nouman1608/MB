@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "depreciation-4ac1-eop"
 description: "Study guide to depreciation as a year-end adjustment for Edexcel IGCSE Accounting 4AC1: trial balance notes, part-year charges, disposals and errors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "exchange-and-transport-in-plants-oxfordaqa-igcse-biology"
 description: "OxfordAQA IGCSE Biology 9201 section 3.2.2 in depth: stomata and guard cells, root hairs, water loss experiments, transpiration stream and translocation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

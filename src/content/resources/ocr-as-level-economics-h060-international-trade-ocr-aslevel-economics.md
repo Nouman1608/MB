@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "international-trade-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) guide to international trade: why countries trade, changing patterns of trade, and gains and costs for different economies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "use-a-master-slide-t19-0417"
 description: "Using a master slide for Cambridge IGCSE ICT 0417 Topic 19: logos, shapes, footers and slide numbers, placeholder position, headings and bullets."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

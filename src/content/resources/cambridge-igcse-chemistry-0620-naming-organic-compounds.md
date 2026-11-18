@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "naming-organic-compounds"
 description: "Stems, endings and locants for naming alkanes, alkenes, alcohols, acids and esters up to four carbons, with displayed formulae, for Cambridge IGCSE 0620."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

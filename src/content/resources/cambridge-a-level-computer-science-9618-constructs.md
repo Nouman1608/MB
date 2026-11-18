@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "constructs"
 description: "Study guide to 9618 section 11.2: IF with ELSE, nested IF, CASE with ranges, the three loop types, and how to justify choosing one loop over another."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

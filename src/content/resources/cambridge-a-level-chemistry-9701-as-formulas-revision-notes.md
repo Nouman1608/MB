@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-formulas"
 description: "Revision notes for Cambridge 9701 subtopic 2.3: ions to recall, ionic formulas, ionic equations, state symbols, and empirical, molecular and hydrate formulas."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

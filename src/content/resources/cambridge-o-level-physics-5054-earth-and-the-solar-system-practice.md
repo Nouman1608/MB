@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "earth-and-the-solar-system"
 description: "Original 5054 section 6.1 questions with full answers: Earth facts, orbital speed calculations, classifying Solar System bodies and planetary data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

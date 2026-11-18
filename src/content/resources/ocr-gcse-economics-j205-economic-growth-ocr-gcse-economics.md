@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "economic-growth-ocr-gcse-economics"
 description: "Study guide to OCR GCSE Economics 3.1: measuring growth with real GDP and GDP per capita, reading GDP data, the determinants of growth and its sustainability."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "text-sound-and-images-0478"
 description: "Cambridge IGCSE Computer Science 0478 text, sound and images in depth: character sets, ASCII and Unicode, sampling sound, pixels, resolution and colour depth."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

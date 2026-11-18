@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "sustainable-management-of-coasts-9696"
 description: "Revision notes for Cambridge 9696 Geography 8.4: coastal problems, hard and soft engineering, shoreline policies, evaluation tests and case study examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

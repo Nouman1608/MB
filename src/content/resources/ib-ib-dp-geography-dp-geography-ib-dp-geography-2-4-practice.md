@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-2-4"
 description: "Original practice questions with full answers on sustainable yield, fishing quotas, aquaculture, ocean treaties and offshore energy for IB DP Geography."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The IB Geography guide could not be opened while this page was written, so a teacher should check the questions against the guide's wording for sub-topic 2.4."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB Geography guide could not be opened while this page was written, so a teacher should check the questions against the guide's wording for sub-topic 2.4."
 publishedDate: 2026-11-18
 featured: false
 ---

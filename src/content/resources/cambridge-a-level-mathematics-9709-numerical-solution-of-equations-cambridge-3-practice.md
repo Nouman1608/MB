@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "numerical-solution-of-equations-cambridge-3"
 description: "Eleven original Cambridge 9709 Paper 3 questions on numerical methods, with marked answers on sign change, iteration, divergence and roots in context."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

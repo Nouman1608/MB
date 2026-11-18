@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "length-and-midpoint-cambridge-igcse-maths"
 description: "Study guide to 0580 subtopic E3.4 (Extended only): length of a line segment, midpoints, missing endpoints, unknown coordinates and exact surd answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "promotion-1bs0"
 description: "Original practice questions with mark-scheme answers on promotion strategies for segments and technology in promotion for Edexcel GCSE Business 1BS0."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

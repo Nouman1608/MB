@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "size-of-business-cambridge-alevel-business"
 description: "In-depth guide to 9609 section 1.3 Size of business: judging size measures, small and family firms, organic and external growth, and takeover maths."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

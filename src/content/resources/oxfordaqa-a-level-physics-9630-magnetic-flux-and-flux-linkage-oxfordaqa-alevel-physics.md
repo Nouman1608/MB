@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "magnetic-flux-and-flux-linkage-oxfordaqa-alevel-physics"
 description: "Study guide to OxfordAQA 9630 section 3.10.3: Φ = BA, flux linkage NΦ, rotated coils with BANcosθ, reversals and flux linkage graphs for moving coils."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

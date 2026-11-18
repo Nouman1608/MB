@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "option-2a-elements-of-crime-writing-7717"
 description: "Guilt, remorse, confession and the desire for forgiveness across the Elements of Crime Writing texts for AQA English Literature B (7717), with a model essay."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

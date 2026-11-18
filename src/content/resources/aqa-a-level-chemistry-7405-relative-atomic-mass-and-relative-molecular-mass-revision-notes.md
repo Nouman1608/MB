@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "relative-atomic-mass-and-relative-molecular-mass-7405"
 description: "Condensed AQA 7405 notes on relative atomic, molecular and formula mass: carbon-12 definitions, formula masses, hydrates, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

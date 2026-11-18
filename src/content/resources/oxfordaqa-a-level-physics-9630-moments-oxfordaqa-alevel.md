@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "moments-oxfordaqa-alevel"
 description: "OxfordAQA 9630 subtopic 3.2.2 in depth: moments with perpendicular distances, couples, the principle of moments, hinged beams and finding a centre of mass."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

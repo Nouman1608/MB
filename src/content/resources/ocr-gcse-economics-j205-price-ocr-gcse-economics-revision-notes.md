@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "price-ocr-gcse-economics"
 description: "Revision notes for OCR GCSE Economics J205 section 2.4: price and worth, equilibrium, shortages and surpluses, the price mechanism and shifting curves."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

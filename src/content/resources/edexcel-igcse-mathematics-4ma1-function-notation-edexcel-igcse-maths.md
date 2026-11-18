@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "function-notation-edexcel-igcse-maths"
 description: "Study guide to Higher tier 4MA1 section 3.2: functions as mappings, f(x) and f : x ↦ notation, domain and range, composite functions and inverse functions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

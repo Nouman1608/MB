@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m1-statics-of-a-particle-edexcel-alevel-maths"
 description: "Edexcel IAL Maths M1 statics: resolving forces, equilibrium on slopes, F ≤ μR, limiting friction, the range of a holding force and triangles of forces."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

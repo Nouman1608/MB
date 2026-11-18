@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "limits-of-accuracy-cambridge-igcse-maths"
 description: "Twelve original 0580 questions on subtopic 1.10 Limits of accuracy: Core bounds and error intervals, then Extended bounds of calculations, with mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

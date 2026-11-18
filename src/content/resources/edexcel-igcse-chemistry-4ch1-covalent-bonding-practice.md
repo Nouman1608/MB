@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "covalent-bonding-4ch1"
 description: "Twelve original 4CH1 covalent bonding questions on dot-and-cross diagrams, simple molecular and giant covalent structures and carbon, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

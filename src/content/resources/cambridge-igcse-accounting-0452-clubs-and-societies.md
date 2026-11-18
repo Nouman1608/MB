@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "clubs-and-societies"
 description: "Cambridge IGCSE Accounting 0452 section 5.5 in depth: one club's full year, from receipts and payments to subscriptions, café, income and expenditure and fund."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

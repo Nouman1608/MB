@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "market-structure-cambridge-igcse-economics"
 description: "Study guide to market structure for Cambridge IGCSE Economics 0455 section 3.8: how many firms affect price, quality, choice and profit, and monopoly weighed."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

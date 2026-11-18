@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "other-payables-and-other-receivables"
 description: "Revision notes for 7707 section 4.3: matching, the four accrual and prepayment adjustments, journal entries, balance sides and effects of omitting them."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

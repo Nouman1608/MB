@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "number-systems-0478"
 description: "Cambridge IGCSE Computer Science 0478 number systems in depth: binary, denary and hex conversions, hex uses, addition, overflow, shifts and two's complement."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

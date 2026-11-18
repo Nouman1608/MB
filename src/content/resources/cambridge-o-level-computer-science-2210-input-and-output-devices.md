@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "input-and-output-devices-2210"
 description: "Study guide to Cambridge O Level Computer Science 2210 section 3.2: how each named input and output device and sensor works, and choosing one for a scenario."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

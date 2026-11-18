@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "network-hardware-0478"
 description: "Revision notes for Cambridge IGCSE Computer Science 0478 section 3.4: NICs, MAC address structure, static and dynamic IP, IPv4 against IPv6, and routers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "computational-thinking-skills"
 description: "Abstraction and decomposition for Cambridge AS Computer Science 9618 9.1: producing an abstract model and breaking a problem into modules."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

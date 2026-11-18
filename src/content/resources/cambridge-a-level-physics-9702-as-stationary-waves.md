@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-stationary-waves"
 description: "Subtopic 8.1 of Cambridge AS Physics 9702 in depth: superposition, forming stationary waves graphically, and microwave, string and air-column experiments."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

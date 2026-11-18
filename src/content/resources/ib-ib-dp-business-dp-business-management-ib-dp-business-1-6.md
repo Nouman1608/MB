@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-1-6"
 description: "IB DP Business Management 1.6 in depth: MNC impacts on host countries by stakeholder, spillovers, crowding out, money flows and how to evaluate them."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

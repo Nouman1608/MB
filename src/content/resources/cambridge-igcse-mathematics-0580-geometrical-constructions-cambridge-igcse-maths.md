@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "geometrical-constructions-cambridge-igcse-maths"
 description: "Study guide to 0580 subtopic 4.2: measuring and drawing reflex angles, triangles from three sides, kites from two triangles, and nets for area and volume."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

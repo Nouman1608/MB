@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-growth-1bs0"
 description: "Original practice questions with full answers on organic and external growth, plcs and finance for growth for Edexcel GCSE Business 1BS0, content item 2.1.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

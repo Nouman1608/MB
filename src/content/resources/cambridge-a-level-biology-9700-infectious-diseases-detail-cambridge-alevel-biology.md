@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "infectious-diseases-detail-cambridge-alevel-biology"
 description: "Study guide to 9700 sub-topic 10.1: pathogens of cholera, malaria, TB and HIV/AIDS, chains of transmission, and how to discuss prevention and control factors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

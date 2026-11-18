@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "revolutions-1848-2147"
 description: "Original Paper 1 style questions with mark-scheme answers on the 1848 revolutions in France, Italy, Germany and the Austrian Empire for Cambridge O Level 2147."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

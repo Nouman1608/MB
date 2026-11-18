@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "sound"
 description: "Sound waves for Cambridge O Level Physics 5054: compressions, audible range, loudness, pitch and timbre, echoes, measuring the speed of sound, and ultrasound."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

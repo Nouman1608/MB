@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-4bs1"
 description: "Twelve original 4BS1 production questions with full answers: job, batch and flow, productivity, unit costs, JIT, Kaizen and weighing up robotics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

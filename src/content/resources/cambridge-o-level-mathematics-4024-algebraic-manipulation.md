@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "algebraic-manipulation"
 description: "Cambridge O Level Maths 4024 subtopic 2.2 in depth: simplifying, expanding, all five factorising forms and completing the square, with harder worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

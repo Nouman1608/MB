@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "alternative-methods-of-government-intervention-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to government intervention: taxes, subsidies, price controls, buffer stocks, permits and regulation, with figures."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

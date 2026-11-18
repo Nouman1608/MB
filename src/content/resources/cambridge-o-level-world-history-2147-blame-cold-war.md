@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "blame-cold-war-2147"
 description: "O Level History 2147 key question 2.4: the 1945 summits, Soviet control of Eastern Europe, US responses, the Berlin Blockade, NATO and the Warsaw Pact."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

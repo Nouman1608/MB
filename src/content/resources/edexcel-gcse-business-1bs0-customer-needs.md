@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "customer-needs-1bs0"
 description: "Deeper guide to Edexcel GCSE Business 1BS0 item 1.2.1: the four customer needs, trade-offs between them, reading needs data, and why customers matter."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

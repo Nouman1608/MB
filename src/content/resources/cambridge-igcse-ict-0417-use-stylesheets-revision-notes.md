@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "use-stylesheets-0417"
 description: "Revision notes for 0417 subtopic 21.3: CSS syntax, generic styles, classes, inline styles, font, background and table properties, comments and hierarchy."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

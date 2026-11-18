@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-gravitational-potential"
 description: "A focused guide to 13.4 Gravitational potential in Cambridge A Level Physics 9702: the definition, ϕ = –GM/r, E_P = –GMm/r, energy changes and orbit examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "social-influence-7182"
 description: "Original AQA A-level Psychology 7182 social influence practice questions with marked answers: multiple choice, data tasks, scenarios and essay plans for Paper 1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

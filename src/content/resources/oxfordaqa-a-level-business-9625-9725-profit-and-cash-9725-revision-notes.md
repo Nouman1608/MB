@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "profit-and-cash-9725"
 description: "Revision notes for OxfordAQA AS Business 9725 section 3.2.3.3: profit margins, profit versus cash, variances, cash flow forecasts, timing and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

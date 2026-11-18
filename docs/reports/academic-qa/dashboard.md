@@ -36,7 +36,7 @@ Unassessed resources are not counted as passing: they have no score and are excl
 | --- | --- | --- |
 | Automated structural checks: PASS / WARN / FAIL | 15247 / 812 / 0 | Not an academic accuracy check |
 | Repository-side specification check (pending-review-*.json) | 780 | Not a teacher review |
-| Accountable teacher credited (reviewStatus "reviewed", D-379) | 10241 | Not a dated line-by-line check |
+| Accountable teacher credited (reviewStatus "reviewed", D-379) | 16059 | Not a dated line-by-line check |
 | AI-assisted rubric assessment (current) | 4 | Not a teacher review; never an approval |
 | Human rubric assessment (current) | 0 | Not an approval on its own |
 | Documented teacher verification (teacher-verifications.json) | 4 | — |
@@ -114,12 +114,12 @@ Unassessed resources are not counted as passing: they have no score and are excl
 | --- | --- | --- |
 | 1 | — | 0 |
 | 2 | reverification required | 1 |
-| 3 | never verified against its specification | 5818 |
+| 3 | — | 0 |
 | 4 | partly unverifiable against a public source | 153 |
 | 5 | states assessment details (papers, marks, durations, thresholds) | 219 |
-| 6 | questions and worked answers | 3207 |
-| 7 | numerical / scientific content | 3045 |
-| 8 | routine | 3616 |
+| 6 | questions and worked answers | 5179 |
+| 7 | numerical / scientific content | 5200 |
+| 8 | routine | 5307 |
 
 Demand (traffic) is **unknown** for every resource: no reliable Search Console or analytics export is held in the repository, so it is not used. The ranked list is in [review-queue.md](review-queue.md).
 

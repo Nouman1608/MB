@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-potential-difference-and-power"
 description: "Original practice questions with full answers on Cambridge AS Physics 9702 9.2: defining p.d., V = W/Q, P = VI, I²R and V²/R in series, parallel and motors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

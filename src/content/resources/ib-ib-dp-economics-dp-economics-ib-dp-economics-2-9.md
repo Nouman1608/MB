@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-economics-2-9"
 description: "Deeper IB DP Economics 2.9 guide: rivalry and excludability tests, the free rider problem in numbers, and evaluating direct provision and contracting out."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The IB Economics guide could not be downloaded while this page was written, so a teacher should check the content against the guide's wording for sub-topic 2.9."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB Economics guide could not be downloaded while this page was written, so a teacher should check the content against the guide's wording for sub-topic 2.9."
 publishedDate: 2026-11-18
 featured: false
 ---

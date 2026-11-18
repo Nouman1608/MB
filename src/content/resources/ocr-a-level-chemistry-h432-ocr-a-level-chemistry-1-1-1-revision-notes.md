@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-1-1-1"
 description: "Condensed OCR H432 1.1.1 revision notes: the parts of a plan, apparatus choice, sizing quantities, controlled variables and method checks, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

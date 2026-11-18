@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "asexual-reproduction-cambridge-igcse-biology"
 description: "Study guide to Cambridge IGCSE Biology 0610 sub-topic 16.1: defining asexual reproduction, identifying examples, and its pros and cons in the wild and in crops."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

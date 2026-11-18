@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "states-of-matter-4ch1"
 description: "4CH1 states of matter revision notes: particle model, changes of state, dilution, diffusion, solution terms and solubility curves, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

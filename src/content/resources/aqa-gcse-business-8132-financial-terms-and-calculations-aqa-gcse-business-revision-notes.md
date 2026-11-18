@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "financial-terms-and-calculations-aqa-gcse-business"
 description: "Revision notes for AQA GCSE Business 3.6.3: cost and profit formulas, ARR step by step, break-even charts, margin of safety and the limits of break-even."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

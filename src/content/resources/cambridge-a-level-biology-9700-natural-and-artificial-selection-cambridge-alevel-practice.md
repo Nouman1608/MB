@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "natural-and-artificial-selection-cambridge-alevel"
 description: "Twelve original questions with full answers on 9700 section 17.2: natural selection, forces of selection, drift, Hardy–Weinberg and selective breeding."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

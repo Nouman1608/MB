@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-production-and-use-of-ultrasound"
 description: "Revision notes for Cambridge A Level Physics 9702 24.1 Ultrasound: piezo-electric transducers, Z = ρc, reflection, attenuation, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

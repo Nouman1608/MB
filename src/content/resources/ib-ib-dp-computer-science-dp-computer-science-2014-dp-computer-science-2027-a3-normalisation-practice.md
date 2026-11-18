@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-a-3"
 description: "Twelve original questions on normalisation for IB DP Computer Science A.3: anomalies, dependencies and designs in 1NF, 2NF and 3NF, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Written from the public subject brief and the A3.2.5-A3.2.7 label (normalisation); please check the questions and mark allocations against the full DP Computer Science guide."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Written from the public subject brief and the A3.2.5-A3.2.7 label (normalisation); please check the questions and mark allocations against the full DP Computer Science guide."
 publishedDate: 2026-11-18
 featured: false
 ---

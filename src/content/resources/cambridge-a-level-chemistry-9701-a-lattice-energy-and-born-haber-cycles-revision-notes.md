@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-lattice-energy-and-born-haber-cycles"
 description: "Condensed 9701 notes on atomisation, electron affinity and lattice energy, electron affinity trends and Born-Haber calculations, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

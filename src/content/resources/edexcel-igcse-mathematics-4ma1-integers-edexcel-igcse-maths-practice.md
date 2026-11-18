@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "integers-edexcel-igcse-maths"
 description: "12 original Edexcel IGCSE Maths 4MA1 questions on integers (section 1.1): place value, directed numbers, order of operations, primes and multiples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

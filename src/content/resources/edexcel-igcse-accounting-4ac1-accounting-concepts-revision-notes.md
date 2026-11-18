@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "accounting-concepts-4ac1"
 description: "Revision notes on the significance of the six accounting concepts, with double entries, traps and a self-test, for Edexcel IGCSE Accounting 4AC1 section 1.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "religion-and-social-order-9699"
 description: "Twelve original Cambridge 9699 questions on section 11.2: Durkheim, functionalism, Marx and neo-Marxists on religion and order, and limitations, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

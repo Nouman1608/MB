@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "trial-balance-yac11"
 description: "Revision notes on the trial balance for Edexcel IAL Accounting (YAC11) 1.2.1-1.2.2: column rules, missing figures, limitations, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "electromotive-force-and-internal-resistance-oxfordaqa"
 description: "Study guide to OxfordAQA 9630 section 3.4.6: emf, terminal pd and lost volts, internal resistance calculations, cell combinations and Required practical 3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

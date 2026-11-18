@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "non-exam-assessment-9270"
 description: "Revision notes on the Candidate record form and commentary for the OxfordAQA IGCSE English Language 9270 NEA: four requirements, key terms and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "education-and-social-mobility-9699"
 description: "Original 9699 section 5.2 practice on meritocracy, life chances, under-achievement and education and mobility, with point-by-point and levels mark guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

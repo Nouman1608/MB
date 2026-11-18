@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "costs-and-cost-behaviour"
 description: "Twelve original questions with worked answers on cost elements, high-low, stepped costs, labour pay, FIFO and AVCO, and JIT, for Cambridge 9706 section 2.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

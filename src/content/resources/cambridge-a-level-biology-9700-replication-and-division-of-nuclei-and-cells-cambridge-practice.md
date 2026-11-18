@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "replication-and-division-of-nuclei-and-cells-cambridge"
 description: "Original questions with mark-scheme answers on Cambridge 9700 sub-topic 5.1: chromosomes, the cell cycle, telomeres, stem cells and tumour formation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "design-0417"
 description: "Designing file structures, data types, coding, validation routines, data capture forms and screen and report layouts for Cambridge IGCSE ICT 0417 section 7.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

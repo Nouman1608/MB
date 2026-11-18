@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "applying-number-edexcel-igcse-maths"
 description: "Edexcel IGCSE Maths 4MA1 section 1.10 revision notes: metric units, time, timetables, wages, bills and currency conversion, with exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

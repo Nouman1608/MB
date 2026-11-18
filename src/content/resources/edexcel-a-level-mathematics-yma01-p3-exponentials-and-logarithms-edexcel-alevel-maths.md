@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "p3-exponentials-and-logarithms-edexcel-alevel-maths"
 description: "The graphs of e^x and ln x, solving exponential and log equations, and using log graphs to find a, n, k and b for Edexcel IAL Maths Unit P3, with examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "correction-of-errors"
 description: "Revision notes for 0452 sub-topic 3.2: correcting journals, when to use suspense, adjusting profit, effects on financial position and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

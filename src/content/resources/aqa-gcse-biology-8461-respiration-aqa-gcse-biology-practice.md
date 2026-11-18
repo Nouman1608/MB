@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "respiration-aqa-gcse-biology"
 description: "Original AQA GCSE Biology 8461 questions on 4.4.2 Respiration: fermentation data, lactic acid, oxygen debt and metabolism, with full mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

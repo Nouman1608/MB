@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-phenol"
 description: "Making phenol, its five reactions, acidity versus water and ethanol, and predicting ring substitution in other phenols and naphthol, for Cambridge 9701 32.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "using-electricity-in-the-home-oxfordaqa"
 description: "Condensed notes on dc and ac, reading oscilloscope traces, mains supply, earthing, fuses, circuit breakers and double insulation for OxfordAQA IGCSE Physics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "moments-levers-and-gears"
 description: "Condensed AQA GCSE Physics 8463 notes on 4.5.4: M = Fd, perpendicular distance, the principle of moments, levers and gears, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

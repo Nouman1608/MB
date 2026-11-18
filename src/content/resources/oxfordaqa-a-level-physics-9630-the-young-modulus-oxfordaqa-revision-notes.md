@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-young-modulus-oxfordaqa"
 description: "Revision notes for OxfordAQA 9630 section 3.2.10: Young modulus equation, rearrangements, graph gradients, Required practical 2 and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "uses-of-an-oscilloscope"
 description: "Quick recall for 5054 subtopic 4.6: reading traces with the Y-gain and timebase, p.d., period, frequency and short time intervals, with traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

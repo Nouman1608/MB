@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "scarcity-choice-and-opportunity-cost-cambridge-alevel-economics"
 description: "Study guide to 9708 sub-topic 1.1: scarcity, choices by individuals, firms and governments, opportunity cost at the margin, and what, how and for whom."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "magnetic-flux-density-oxfordaqa-alevel-physics"
 description: "Revision notes for OxfordAQA 9630 section 3.10.1: F = BIL, Fleming's left-hand rule, defining the tesla, coils and graph methods, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

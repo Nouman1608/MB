@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-damped-and-forced-oscillations-resonance"
 description: "Original practice questions with mark-scheme answers on damping, damping sketches and resonance for Cambridge A Level Physics 9702 subtopic 17.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

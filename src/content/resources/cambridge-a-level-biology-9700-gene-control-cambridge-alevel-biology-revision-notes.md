@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "gene-control-cambridge-alevel-biology"
 description: "Condensed recall for 9700 section 16.3: structural and regulatory genes, inducible and repressible enzymes, the lac operon, DELLA proteins and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

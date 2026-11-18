@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "arrangement-of-elements"
 description: "Condensed 5070 notes on how the Periodic Table is arranged: position and configuration, ion charges by group, period trends and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

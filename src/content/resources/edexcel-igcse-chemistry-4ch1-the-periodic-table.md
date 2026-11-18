@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-periodic-table-4ch1"
 description: "Study guide for 4CH1 sub-topic 1(d): how the Periodic Table is arranged, electron configurations, metals and non-metals, groups and noble gases."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

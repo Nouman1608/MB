@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "capital-and-revenue-oxfordaqa-igcse-accounting"
 description: "How to classify borderline spending and receipts as capital or revenue, correct misclassifications and measure their effect on profit and assets."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

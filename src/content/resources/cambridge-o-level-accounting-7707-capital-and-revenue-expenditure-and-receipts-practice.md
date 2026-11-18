@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "capital-and-revenue-expenditure-and-receipts"
 description: "Original practice questions with answers on capital and revenue items and the effect of wrong treatment on profit for Cambridge O Level Accounting 7707."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "networks-0417"
 description: "Original questions with mark-scheme answers on routers, switches, wi-fi, Bluetooth, cloud storage, extranets and network types for IGCSE ICT 0417 4.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

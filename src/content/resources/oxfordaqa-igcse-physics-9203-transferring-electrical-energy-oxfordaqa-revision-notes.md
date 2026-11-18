@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "transferring-electrical-energy-oxfordaqa"
 description: "Condensed notes on power, P = IV, fuse choice, E = VQ, kilowatt-hours, meter readings and the cost of electricity for OxfordAQA International GCSE Physics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

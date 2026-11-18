@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "factors-of-production-4bs1"
 description: "Study guide to 4BS1 section 5.3 factors of production: how the mix of enterprise, capital, land and labour changes, and capital- versus labour-intensive work."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

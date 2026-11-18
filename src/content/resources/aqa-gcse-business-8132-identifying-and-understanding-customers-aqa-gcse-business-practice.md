@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "identifying-and-understanding-customers-aqa-gcse-business"
 description: "Original AQA GCSE Business 3.5.1 questions with full answers on customer needs, the five reasons for meeting them and their effect on sales and costs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

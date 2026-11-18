@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "nationhood-1947-99-2059"
 description: "Original 4, 7 and 14-mark questions with answers on Cambridge O Level Pakistan Studies 2059 Paper 1 Section 3: Pakistan's nationhood from 1947 to 1999."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

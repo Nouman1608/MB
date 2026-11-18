@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "output-the-presentation-t19-0417"
 description: "Original questions with full answers on presentation output for 0417 Topic 19: carousels, presenter-controlled shows, slides, notes pages, handouts and timings."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

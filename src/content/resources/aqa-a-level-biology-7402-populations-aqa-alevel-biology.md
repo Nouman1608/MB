@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "populations-aqa-alevel-biology"
 description: "Study guide to AQA A-level Biology 7402 section 3.7.2: populations, gene pools, allele frequency and Hardy-Weinberg calculations, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

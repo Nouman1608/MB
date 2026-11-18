@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "economic-growth-ocr-gcse-economics"
 description: "Condensed OCR GCSE Economics 3.1 notes on GDP, real growth, GDP per capita, determinants of growth and sustainability, with a twelve-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

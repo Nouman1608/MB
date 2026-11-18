@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "program-design"
 description: "Revision notes for 9618 section 12.2: structure chart purpose and symbols, chart-to-pseudocode rules, state-transition diagrams, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm the structure chart symbols described in words (data and flag couples, diamond for selection, curved arrow for iteration) match the notation Cambridge uses in current 9618 papers."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm the structure chart symbols described in words (data and flag couples, diamond for selection, curved arrow for iteration) match the notation Cambridge uses in current 9618 papers."
 ---
 
 Condensed notes for 12.2 Program Design, AS content in Cambridge International AS & A Level Computer Science 9618, examined in Paper 2. You must describe the purpose of a structure chart, construct one that decomposes a problem and shows the parameters passed between modules, derive pseudocode from one, and explain the purpose of state-transition diagrams in documenting an algorithm.

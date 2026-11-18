@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "records-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.2.2 in depth: designing records, Python classes and data classes, structs, arrays of records and copying versus referencing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

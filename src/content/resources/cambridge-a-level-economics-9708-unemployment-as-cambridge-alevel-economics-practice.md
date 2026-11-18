@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unemployment-as-cambridge-alevel-economics"
 description: "Original 9708 practice on section 4.5: unemployment rates, the two measures and their problems, diagnosing the five types and consequences, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-temperature-scales"
 description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 14.2 Temperature scales: thermometric properties and absolute zero."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

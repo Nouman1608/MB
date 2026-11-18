@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "qiyam-e-pakistan-1947-9ur0"
 description: "9UR0 sub-theme 4.1 study guide: political effects of 1947, social effects of partition and the evolution of democracy, with a timeline and translation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

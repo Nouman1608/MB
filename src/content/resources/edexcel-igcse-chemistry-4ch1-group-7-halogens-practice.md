@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "group-7-halogens-4ch1"
 description: "Thirteen original 4CH1 Group 7 questions on halogen properties, predictions, displacement reactions and equations, and the reactivity trend, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

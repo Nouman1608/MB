@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "incomplete-records"
 description: "Cambridge IGCSE Accounting 0452 section 5.6 in depth: statements of affairs, rebuilt sales and purchases, both profit methods, mark-up, margin and turnover."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

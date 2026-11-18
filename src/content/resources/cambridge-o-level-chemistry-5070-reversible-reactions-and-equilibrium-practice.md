@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "reversible-reactions-and-equilibrium"
 description: "Original O Level Chemistry 5070 equilibrium questions with full answers: hydrated salts, predicting shifts, and Haber and Contact process conditions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

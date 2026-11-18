@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "physics-of-the-eye-aqa-alevel"
 description: "Condensed AQA A-Level Physics 7408 physics of the eye notes: lens equations, rods and cones, resolution, myopia, hypermetropia, astigmatism and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

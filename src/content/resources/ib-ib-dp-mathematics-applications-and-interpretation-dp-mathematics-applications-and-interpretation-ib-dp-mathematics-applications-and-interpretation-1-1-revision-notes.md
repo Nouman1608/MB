@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-1-1"
 description: "IB DP Maths AI 1.1 revision notes: the a × 10^k form, conversion steps, operation rules, GDC entry, distinctions to know and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

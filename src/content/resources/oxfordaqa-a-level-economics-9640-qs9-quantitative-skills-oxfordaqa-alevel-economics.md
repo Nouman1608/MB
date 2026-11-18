@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "qs9-quantitative-skills-oxfordaqa-alevel-economics"
 description: "QS9 study guide for OxfordAQA 9640 Economics: describing trends, combining an extract with a table, reading diagrams and judging how strong evidence is."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

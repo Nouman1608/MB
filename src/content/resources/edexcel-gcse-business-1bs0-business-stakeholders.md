@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-stakeholders-1bs0"
 description: "Study guide to stakeholder groups, their objectives, how they affect and are affected by business, and stakeholder conflict, for Edexcel GCSE Business 1BS0."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

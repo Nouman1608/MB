@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "sequences-edexcel-igcse-maths"
 description: "Condensed 4MA1 section 3.1 notes: sequence rules, nth terms, testing whether a number is a term, and Higher a, d and Sₙ, with exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

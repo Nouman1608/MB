@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "tropic-responses-cambridge-igcse-biology"
 description: "Twelve original Cambridge IGCSE Biology 0610 questions on phototropism, gravitropism, tropism investigations and auxin in shoots, with marked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

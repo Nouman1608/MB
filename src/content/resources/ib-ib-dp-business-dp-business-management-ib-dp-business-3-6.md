@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-3-6"
 description: "Study guide to IB DP Business Management 3.6 (HL only): stock turnover, debtor and creditor days, gearing, costed strategies, and insolvency versus bankruptcy."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "communication-with-other-ict-users-using-email-0417"
 description: "Email uses and constraints, employer rules, security, groups, cc, bcc, forwarding, attachments and spam, in depth for Cambridge IGCSE ICT 0417 10.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

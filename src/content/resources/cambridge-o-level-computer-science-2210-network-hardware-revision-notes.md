@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "network-hardware-2210"
 description: "Recall notes for 2210 sub-topic 3.4: the NIC, MAC address structure in hexadecimal, static and dynamic IP addresses, IPv4 v IPv6 and what a router does."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

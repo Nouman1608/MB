@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-resistance-and-resistivity"
 description: "Revision notes for Cambridge AS Physics 9702 9.3: defining resistance, Ohm's law, I–V characteristics, R = ρL/A, LDRs and thermistors, and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

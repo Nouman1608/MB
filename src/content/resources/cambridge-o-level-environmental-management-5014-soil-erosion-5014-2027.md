@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "soil-erosion-5014-2027"
 description: "Sub-topic 2.3 of O Level Environmental Management 5014 (2027-2029): causes of soil erosion, its impacts on land and people, and six strategies to reduce it."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

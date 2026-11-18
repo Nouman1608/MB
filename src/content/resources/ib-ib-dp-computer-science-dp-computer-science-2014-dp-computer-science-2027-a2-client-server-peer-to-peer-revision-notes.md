@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-a-2"
 description: "Condensed notes on server functions (HL) and client-server versus peer-to-peer networks for IB DP Computer Science A.2, with exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Written from the public subject brief and the A2.2.2 (function of servers, HL only) and A2.2.3 (client-server and peer-to-peer, SL and HL) labels; please check the server types and depth against the full DP Computer Science guide."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Written from the public subject brief and the A2.2.2 (function of servers, HL only) and A2.2.3 (client-server and peer-to-peer, SL and HL) labels; please check the server types and depth against the full DP Computer Science guide."
 publishedDate: 2026-11-18
 featured: false
 ---

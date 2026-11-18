@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "social-influences-9218"
 description: "Condensed notes on conformity factors for OxfordAQA IGCSE Psychology 9218: group size, anonymity, task difficulty, personality, expertise and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the figures given for Asch's variations against the course textbook."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the figures given for Asch's variations against the course textbook."
 publishedDate: 2026-11-18
 featured: false
 ---

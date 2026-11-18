@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-discharging-a-capacitor"
 description: "A focused guide to 19.3 Discharging a capacitor in Cambridge A Level Physics 9702: decay graphs, τ = RC, x = x₀e^(−t/RC) and finding τ from data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

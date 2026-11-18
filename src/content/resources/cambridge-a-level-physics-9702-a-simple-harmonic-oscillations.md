@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-simple-harmonic-oscillations"
 description: "Cambridge A Level Physics 9702 subtopic 17.1: SHM vocabulary, a = −ω²x, x = x₀ sin ωt, the velocity equations and reading SHM graphs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

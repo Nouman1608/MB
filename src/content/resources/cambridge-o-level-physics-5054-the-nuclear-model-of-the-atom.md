@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-nuclear-model-of-the-atom"
 description: "Atomic structure, alpha-particle scattering evidence, Z and A, nuclide notation, ions and isotopes, for Cambridge O Level Physics 5054 subtopic 5.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

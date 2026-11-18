@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "environmental-and-ethical-issues"
 description: "Study guide to environmental and ethical issues for Cambridge O Level Business 7115: externalities, sustainability, pressure groups and profit versus ethics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "programming-paradigms-aqa-alevel-cs"
 description: "Condensed AQA 7517 section 4.1.2 recall: structured approach, hierarchy charts, OOP terms, method types, specifiers, UML diamonds, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "hardware-and-software-0417"
 description: "Original questions with mark-scheme answers on hardware, compilers, linkers, drivers, utilities and analogue to digital conversion for IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

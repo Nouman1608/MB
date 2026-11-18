@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "management-cambridge-alevel-business"
 description: "In-depth guide to 9609 section 2.3 Management: applying manager functions, Fayol and Mintzberg, choosing a style, McGregor and judging managers' impact."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

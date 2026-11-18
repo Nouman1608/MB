@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "radionuclide-imaging-and-therapy-aqa-alevel"
 description: "Condensed AQA A-level Physics 7408 notes on radionuclides (3.10.6): tracer choice, Mo-Tc generator, PET, half-lives, gamma camera, therapy and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "floating-point-numbers-representation-and-manipulation"
 description: "Study guide to 9618 section 13.3: floating-point format, converting to and from denary, normalisation, bit allocation, rounding, overflow and underflow."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

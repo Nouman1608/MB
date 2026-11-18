@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-elastic-and-plastic-behaviour"
 description: "Subtopic 6.2 of Cambridge AS Physics 9702 in depth: elastic and plastic deformation, the elastic limit, work as area under F-x graphs and Ep = ½kx²."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

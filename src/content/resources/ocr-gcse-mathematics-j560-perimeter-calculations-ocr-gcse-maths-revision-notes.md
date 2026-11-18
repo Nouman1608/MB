@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "perimeter-calculations-ocr-gcse-maths"
 description: "Condensed OCR GCSE Maths J560 revision notes on 10.02: rectilinear perimeters, circumference, arc length and composite shapes, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

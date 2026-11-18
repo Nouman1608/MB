@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-4"
 description: "Twelve original IB DP Maths AA questions on section 1.4: compound interest, depreciation, TVM and real value, by hand and with a GDC, with worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please confirm that the real value of an investment after inflation (question 10) sits within the AA guide's section 1.4 guidance; it is included as on the existing unit pages."
+reviewer: "muhammad-ghazali-siddiqui"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please confirm that the real value of an investment after inflation (question 10) sits within the AA guide's section 1.4 guidance; it is included as on the existing unit pages."
 publishedDate: 2026-11-18
 featured: false
 ---

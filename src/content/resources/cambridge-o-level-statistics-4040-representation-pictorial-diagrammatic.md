@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "representation-pictorial-diagrammatic-4040"
 description: "Drawing the diagrams named in 4040 section 2.2 accurately: choosing keys and scales, awkward pie angles, comparative pie radii, Venn unknowns and box plots."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

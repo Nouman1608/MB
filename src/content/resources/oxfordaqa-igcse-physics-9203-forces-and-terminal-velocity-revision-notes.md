@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "forces-and-terminal-velocity"
 description: "Revision notes for OxfordAQA IGCSE Physics 3.1.6: drag, terminal velocity, parachutes, velocity-time graph stages and streamlining, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

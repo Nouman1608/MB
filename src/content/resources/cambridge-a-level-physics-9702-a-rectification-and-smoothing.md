@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-rectification-and-smoothing"
 description: "A focused guide to 21.2 Rectification and smoothing in Cambridge A Level Physics 9702: half-wave and bridge rectifiers, and how C and R set the ripple."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

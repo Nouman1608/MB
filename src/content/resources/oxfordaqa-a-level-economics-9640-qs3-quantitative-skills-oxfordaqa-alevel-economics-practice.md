@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "qs3-quantitative-skills-oxfordaqa-alevel-economics"
 description: "Twelve original OxfordAQA 9640 QS3 questions on means, medians, grouped quartiles, percentile ratios and quintile shares of income, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

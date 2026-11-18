@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "communication-and-homeostasis-ocr-alevel-biology"
 description: "Condensed notes on communication, cell signalling, receptors, effectors, negative and positive feedback and thermoregulation for OCR A Level Biology A 5.1.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "symmetry-edexcel-igcse-maths"
 description: "Revision notes for Edexcel IGCSE Maths 4MA1 section 4.3: symmetry facts for every standard shape, grid tasks, exam traps and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

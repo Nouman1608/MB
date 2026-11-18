@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "atomic-structure-and-the-periodic-table"
 description: "Twelve original questions with full answers on subatomic particles, proton and mass numbers, configurations of atoms and ions, and group and period."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

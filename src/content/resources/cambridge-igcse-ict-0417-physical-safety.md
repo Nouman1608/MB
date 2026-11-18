@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "physical-safety-0417"
 description: "Electrocution, fire, tripping and falling equipment: causes and prevention explained in depth, with scenario answers, for Cambridge IGCSE ICT 0417 8.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

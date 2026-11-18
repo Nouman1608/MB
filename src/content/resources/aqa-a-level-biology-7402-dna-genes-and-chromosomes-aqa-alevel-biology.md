@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "dna-genes-and-chromosomes-aqa-alevel-biology"
 description: "Study guide to AQA A-level Biology 7402 section 3.4.1: DNA in prokaryotes, eukaryotes and organelles, genes, loci, the triplet code, exons and introns."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

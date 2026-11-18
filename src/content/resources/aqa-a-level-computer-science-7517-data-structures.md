@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "data-structures-7517"
 description: "Deeper guide to AQA 7517 section 4.2.1.1: what a data structure is, how structures differ, and how to choose and justify one for a practical problem."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

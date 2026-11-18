@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "electromagnetic-spectrum"
 description: "Quick recall for 5054 subtopic 3.3: spectrum order, the 3.0 × 10⁸ m/s speed, every listed use with its reason, radiation damage, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

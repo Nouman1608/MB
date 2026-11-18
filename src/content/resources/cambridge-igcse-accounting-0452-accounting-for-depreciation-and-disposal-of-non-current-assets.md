@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "accounting-for-depreciation-and-disposal-of-non-current-assets"
 description: "Study guide to 0452 sub-topic 4.2: three depreciation methods, part-year charges, journals and the asset, provision and disposal accounts for a profitable sale."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

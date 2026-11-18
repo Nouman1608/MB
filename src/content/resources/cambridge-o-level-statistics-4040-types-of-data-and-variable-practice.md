@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "types-of-data-and-variable-4040"
 description: "Original practice questions with full answers on classifying qualitative, quantitative, discrete and continuous data for Cambridge O Level Statistics 4040."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

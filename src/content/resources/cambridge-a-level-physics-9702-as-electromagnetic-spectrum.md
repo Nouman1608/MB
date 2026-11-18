@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-electromagnetic-spectrum"
 description: "Subtopic 7.4 of Cambridge AS Physics 9702 in depth: shared properties of EM waves, approximate wavelength ranges, the visible band and c = fλ calculations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

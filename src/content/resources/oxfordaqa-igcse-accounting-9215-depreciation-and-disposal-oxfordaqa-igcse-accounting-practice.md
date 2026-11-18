@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "depreciation-and-disposal-oxfordaqa-igcse-accounting"
 description: "Twelve original questions with worked answers on straight line and reducing balance depreciation, provision accounts and disposal accounts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

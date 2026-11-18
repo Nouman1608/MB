@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-interaction-of-demand-and-supply-cambridge-alevel-economics"
 description: "Original 9708 practice on section 2.4: equilibrium calculations, single and combined shifts, related markets and the functions of price, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

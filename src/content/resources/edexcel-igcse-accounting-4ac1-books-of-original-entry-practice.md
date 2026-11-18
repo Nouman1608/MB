@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "books-of-original-entry-4ac1"
 description: "Twelve original 4AC1 questions on day books, the three-column cash book, petty cash book and journal entries, with full mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kinetic-particle-model-of-matter"
 description: "Original 5054 subtopic 2.1 questions on states of matter, particle structure, absolute zero, gas pressure and p1V1 = p2V2, with full worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

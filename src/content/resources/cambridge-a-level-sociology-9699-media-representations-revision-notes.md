@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "media-representations-9699"
 description: "Condensed 9699 notes on section 10.1: representation concepts, class, gender, ethnicity and age, gender socialisation, moral panic criteria and popular culture."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

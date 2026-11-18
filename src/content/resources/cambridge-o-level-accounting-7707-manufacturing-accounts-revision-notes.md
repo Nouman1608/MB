@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "manufacturing-accounts"
 description: "Revision notes for O Level Accounting 7707 section 5.4: cost classification, the manufacturing account layout, work in progress, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

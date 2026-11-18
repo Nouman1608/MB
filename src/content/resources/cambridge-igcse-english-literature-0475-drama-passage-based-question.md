@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "paper-2-drama-0475"
 description: "How to answer the 0475 Paper 2 passage-based drama question: placing the extract, stagecraft, dialogue and tension, with an original scene and model paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

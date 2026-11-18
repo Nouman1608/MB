@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "solar-system-and-orbital-motion-oxfordaqa"
 description: "Original practice questions with full answers on the solar system, orbits and satellite placing for OxfordAQA International GCSE Physics 9203."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

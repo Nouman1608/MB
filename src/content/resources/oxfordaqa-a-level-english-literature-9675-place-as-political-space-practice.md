@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-2-section-a-9675"
 description: "Twelve original questions on place as a political space for the 9675 Unit 2 prose essay, with an invented passage, plans and mark-scheme-style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

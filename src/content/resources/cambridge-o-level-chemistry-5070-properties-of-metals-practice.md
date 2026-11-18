@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "properties-of-metals"
 description: "Twelve original 5070 questions comparing metals and non-metals and on metal reactions with acids, cold water, steam and oxygen, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

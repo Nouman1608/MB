@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-health-psychology"
 description: "Risk and protective factors for the IB DP health psychology option: childhood adversity, stress and infection, social ties and the buffering hypothesis."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "price-elasticity-of-supply-cambridge-alevel-economics"
 description: "Original 9708 practice on section 2.3: PES calculations and rearrangements, size and sign, factors affecting PES and how fast firms react, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

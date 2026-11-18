@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m1-vectors-in-mechanics-edexcel-alevel-maths"
 description: "Edexcel IAL Maths M1 vectors: bearings from components, resultants by diagram, parallel vectors, velocity and acceleration in i, j form, and two moving objects."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

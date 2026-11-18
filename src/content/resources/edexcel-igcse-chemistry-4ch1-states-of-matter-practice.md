@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "states-of-matter-4ch1"
 description: "Twelve original 4CH1 states of matter questions on particles, cooling curves, diffusion, dilution and solubility curves, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

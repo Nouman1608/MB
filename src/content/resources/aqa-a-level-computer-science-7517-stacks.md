@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "stacks-7517"
 description: "Deeper guide to AQA 7517 section 4.2.3 Stacks: push, pop, peek, empty and full tests as array algorithms, with traces and stack-based problem solving."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

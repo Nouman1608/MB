@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "profit-and-cash-9725"
 description: "Original questions with mark-scheme answers for OxfordAQA AS Business 9725 profit and cash: margins, variances, cash flow forecasts and payables days."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

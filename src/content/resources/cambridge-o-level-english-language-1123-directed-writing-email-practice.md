@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "writing-1123"
 description: "Original email practice for 1123 directed writing: register drills, opening lines, model paragraphs and a full 25-mark email to a head teacher on two new texts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

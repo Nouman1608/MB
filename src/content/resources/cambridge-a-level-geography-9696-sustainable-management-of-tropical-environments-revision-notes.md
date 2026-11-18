@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "sustainable-management-of-tropical-environments-9696"
 description: "Revision notes for Cambridge 9696 Geography 7.4: threats, management problems, solution types, case study summaries, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the Costa Rica forest-cover figures and the CAMPFIRE and Maasai Mara conservancy details against current sources."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the Costa Rica forest-cover figures and the CAMPFIRE and Maasai Mara conservancy details against current sources."
 publishedDate: 2026-11-18
 featured: false
 ---

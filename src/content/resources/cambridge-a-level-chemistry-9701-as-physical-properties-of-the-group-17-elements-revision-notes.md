@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-physical-properties-of-the-group-17-elements"
 description: "Condensed notes on halogen colours, volatility and id-id forces, and X-X bond strength, with key terms, traps and a self-test, for Cambridge 9701 subtopic 11.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

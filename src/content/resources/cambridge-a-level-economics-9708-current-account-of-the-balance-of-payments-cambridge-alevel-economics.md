@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "current-account-of-the-balance-of-payments-cambridge-alevel-economics"
 description: "Deep dive into Cambridge 9708 section 6.3: classifying current account transactions, the four balances, missing-value sums, causes and consequences."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

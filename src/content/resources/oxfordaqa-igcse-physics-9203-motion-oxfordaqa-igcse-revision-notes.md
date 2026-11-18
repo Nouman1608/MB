@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "motion-oxfordaqa-igcse"
 description: "Revision notes for OxfordAQA IGCSE Physics 3.1.2 Motion: distance-time graph shapes, gradients, tangents, v = s/t, average speed and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

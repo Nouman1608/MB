@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "purpose-use-representation-advantages-disadvantages-4040"
 description: "Revision notes on what each 4040 table and diagram is for, its main advantage and disadvantage, misleading displays, exam traps and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

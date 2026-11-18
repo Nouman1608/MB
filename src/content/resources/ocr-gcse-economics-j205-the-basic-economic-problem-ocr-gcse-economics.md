@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-basic-economic-problem-ocr-gcse-economics"
 description: "OCR GCSE Economics J205 section 1.2 in depth: scarcity, the what, how and for whom questions, opportunity cost and evaluating choices for sustainability."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

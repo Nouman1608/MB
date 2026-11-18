@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "red-shift-and-the-expanding-universe"
 description: "Revision notes on the Doppler effect, red shift, CMBR and Big Bang evidence for OxfordAQA International GCSE Physics 9203, with traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

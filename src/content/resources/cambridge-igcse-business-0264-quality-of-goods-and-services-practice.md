@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "quality-of-goods-and-services-0264"
 description: "Twelve original questions with mark-scheme answers on quality, quality control and quality assurance for Cambridge IGCSE Business 0264, section 4.5."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

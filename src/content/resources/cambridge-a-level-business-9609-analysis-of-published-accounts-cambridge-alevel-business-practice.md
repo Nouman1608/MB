@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "analysis-of-published-accounts-cambridge-alevel-business"
 description: "Original practice questions with answers on calculating and interpreting liquidity, profitability, efficiency, gearing and investment ratios (9609 10.2)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

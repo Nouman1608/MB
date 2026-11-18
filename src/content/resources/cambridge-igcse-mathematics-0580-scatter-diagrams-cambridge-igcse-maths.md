@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "scatter-diagrams-cambridge-igcse-maths"
 description: "Study guide to Cambridge IGCSE Maths 0580 section 9.5: plotting scatter diagrams, describing correlation, drawing a line of best fit by eye and judging estimates."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

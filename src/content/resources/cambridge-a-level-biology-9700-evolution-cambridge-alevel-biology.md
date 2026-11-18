@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "evolution-cambridge-alevel-biology"
 description: "Study guide to 9700 section 17.3: evolution as gene pool change, reading DNA sequence data and distance tables, and allopatric and sympatric speciation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

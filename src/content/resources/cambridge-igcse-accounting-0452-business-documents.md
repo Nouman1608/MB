@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-documents"
 description: "Study guide to 0452 sub-topic 2.2: the eight business documents, who issues each, the entries they support, invoice calculations and digital documents."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

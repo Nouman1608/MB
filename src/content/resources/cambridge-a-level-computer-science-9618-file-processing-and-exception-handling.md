@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "file-processing-and-exception-handling"
 description: "Study guide to 9618 section 20.2: file modes, serial, sequential and random file operations in pseudocode, and when and how to write exception handling."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "interpretation-of-accounting-ratios"
 description: "Original O Level Accounting 7707 practice on interpreting ratios: comparison statements, margin analysis, liquidity comments, cash versus profit and advice."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "socialisation-and-social-control-9292"
 description: "Section 3.2.2.4 of OxfordAQA IGCSE Sociology 9292: how crime and deviance are socially constructed, moral panics, and the eight named types of crime."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

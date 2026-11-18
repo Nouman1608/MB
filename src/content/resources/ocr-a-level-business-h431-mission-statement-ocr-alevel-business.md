@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "mission-statement-ocr-alevel-business"
 description: "Study guide to the OCR A Level Business H431 mission statement content: its parts, testing a draft, recommending one and judging the impact of a change."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

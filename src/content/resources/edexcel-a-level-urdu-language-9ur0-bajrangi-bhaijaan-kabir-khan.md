@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "bajrangi-bhaijaan-kabir-khan-9ur0"
 description: "How to study and write about the 9UR0 prescribed film Bajrangi Bhaijaan in Urdu: scene banks, film terminology, complex language and a model essay paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Ask an Urdu specialist who knows the film to check the Urdu sentences, the film terminology and each scene reference against the film itself."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Ask an Urdu specialist who knows the film to check the Urdu sentences, the film terminology and each scene reference against the film itself."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "photosynthesis-oxfordaqa-igcse-biology"
 description: "Condensed OxfordAQA IGCSE Biology 9201 notes on 3.2.1: equations, limiting factors, greenhouses, uses of glucose and the practical, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

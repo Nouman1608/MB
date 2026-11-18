@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "sequences"
 description: "Revision notes for Cambridge O Level Maths 4024 subtopic 2.7: term-to-term rules and nth terms of linear, quadratic, cubic, exponential and combined sequences."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

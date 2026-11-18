@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "research-issues-9699"
 description: "Cambridge 9699 section 2.3 in depth: theoretical, practical and ethical influences on research, sources of bias, and five concepts for judging methods."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

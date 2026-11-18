@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "opportunity-cost-ocr-aslevel-economics"
 description: "Condensed OCR AS Economics (H060) notes on opportunity cost and the PPC: key terms, reading and shifting the curve, exam traps and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

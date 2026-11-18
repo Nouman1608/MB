@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "manipulate-data-20-2-0417"
 description: "Original questions with full answers on sorting and filtering spreadsheet data for 0417 subtopic 20.2: multi-level sorts, AND, OR, NOT, operators and wildcards."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

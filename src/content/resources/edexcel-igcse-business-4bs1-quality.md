@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "quality-4bs1"
 description: "Study guide to 4BS1 section 5.4 Quality: measuring quality, the cost of poor quality, quality control, TQM and quality as a competitive advantage."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

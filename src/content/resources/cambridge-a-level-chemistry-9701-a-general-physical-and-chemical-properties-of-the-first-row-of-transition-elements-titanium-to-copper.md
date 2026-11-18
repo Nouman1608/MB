@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "a-general-physical-and-chemical-properties-of-the-first-row-of-transition-elements-titanium-to-copper"
 description: "Defining a transition element, 3dxy and 3dz² orbital shapes, the four characteristic properties and why 3d and 4s energies explain them, for Cambridge 9701."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

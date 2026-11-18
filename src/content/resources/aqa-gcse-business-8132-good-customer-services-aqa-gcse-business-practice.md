@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "good-customer-services-aqa-gcse-business"
 description: "Twelve original questions with mark-scheme answers on AQA GCSE Business section 3.3.4: service methods, benefits, dangers of poor service and ICT."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

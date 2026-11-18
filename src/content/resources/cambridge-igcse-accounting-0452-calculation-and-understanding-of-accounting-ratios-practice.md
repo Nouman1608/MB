@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "calculation-and-understanding-of-accounting-ratios"
 description: "Twelve original Cambridge IGCSE Accounting 0452 questions calculating the ten syllabus ratios and finding missing figures from them, with full worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

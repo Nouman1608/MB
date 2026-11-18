@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "structure-of-nucleic-acids-and-replication-of-dna-cambridge"
 description: "Subtopic 6.1 of Cambridge 9700 in depth: nucleotides and ATP, base pairing, antiparallel strands, semi-conservative replication and leading and lagging strands."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

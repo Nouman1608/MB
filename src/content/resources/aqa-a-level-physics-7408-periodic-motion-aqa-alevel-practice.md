@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "periodic-motion-aqa-alevel"
 description: "Original AQA A-Level Physics 7408 periodic motion practice: circular motion, SHM timing and speeds, springs, pendulums, energy and resonance, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

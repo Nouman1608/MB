@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "sexual-reproduction-in-plants-cambridge-igcse-biology"
 description: "Study guide to Cambridge IGCSE Biology 0610 sub-topic 16.3: flower structure, insect and wind pollination, the pollen tube, fertilisation and germination."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-shapes-of-organic-molecules"
 description: "Condensed 9701 notes on sp, sp2 and sp3 carbon, bond angles, sigma and pi bonds, planar molecules and chain types, with a self-test and answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

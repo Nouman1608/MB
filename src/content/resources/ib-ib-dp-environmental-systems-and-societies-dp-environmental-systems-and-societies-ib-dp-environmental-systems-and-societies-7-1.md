@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-7-1"
 description: "IB DP ESS 7.1 in depth: natural capital, ecosystem services, logistic growth and maximum sustainable yield, reserves, valuation and managing the commons."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The public IB subject brief names subtopic 7.1 but not its understandings, so a teacher should check this page against the full ESS guide."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 7.1 but not its understandings, so a teacher should check this page against the full ESS guide."
 publishedDate: 2026-11-18
 featured: false
 ---

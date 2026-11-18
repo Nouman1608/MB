@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "elements-compounds-and-mixtures"
 description: "Revision notes for Cambridge O Level Chemistry 5070 section 2.1: definitions, the key differences, particle-diagram rules, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

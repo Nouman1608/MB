@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-shapes-of-organic-molecules"
 description: "How sp, sp2 and sp3 hybridisation fixes bond angles, how to count sigma and pi bonds, and when an organic molecule is planar, for Cambridge 9701 AS Chemistry."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

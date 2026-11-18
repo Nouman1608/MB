@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "relative-and-expected-frequencies-cambridge-igcse-maths"
 description: "Original 0580 subtopic 8.2 questions with marked answers: relative frequency, reliability, expected frequency, population estimates and judging bias."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

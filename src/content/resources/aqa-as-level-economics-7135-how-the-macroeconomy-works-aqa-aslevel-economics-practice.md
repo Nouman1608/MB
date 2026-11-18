@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "how-the-macroeconomy-works-aqa-aslevel-economics"
 description: "Original AQA AS Economics 7135 practice questions with answers on the circular flow, AD components, the accelerator, the multiplier and AD/AS shocks."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

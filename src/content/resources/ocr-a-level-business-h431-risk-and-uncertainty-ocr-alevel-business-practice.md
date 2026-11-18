@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "risk-and-uncertainty-ocr-alevel-business"
 description: "Original OCR A Level Business H431 questions with full answers on risk and reward, expected value, risk matrices, entrepreneurs' risks and uncertainty."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

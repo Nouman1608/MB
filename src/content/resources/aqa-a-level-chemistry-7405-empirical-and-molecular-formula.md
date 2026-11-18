@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "empirical-and-molecular-formula-7405"
 description: "AQA 7405 empirical and molecular formula in depth: awkward ratios such as 1 : 1.5 and 1 : 1.33, oxygen by difference, mass data and finding molecular formulae."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

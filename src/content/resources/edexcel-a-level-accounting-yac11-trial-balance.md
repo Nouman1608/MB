@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "trial-balance-yac11"
 description: "Study guide to the trial balance for Edexcel IAL Accounting (YAC11): balancing accounts, column rules, redrafting a wrong trial balance and its limitations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

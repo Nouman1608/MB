@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "external-factors-4bs1"
 description: "Study guide to social, technological, environmental and political factors for Edexcel IGCSE Business 4BS1: effects on decisions, costings and judgement."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "digestion-and-absorption-aqa-alevel-biology"
 description: "Condensed revision notes on digestive enzymes, bile salts, co-transport of glucose and amino acids, and micelles for AQA A-level Biology 7402 section 3.3.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "audience-appreciation-0417"
 description: "Revision notes for Cambridge IGCSE ICT 0417 9.1: audience and purpose, analysing needs, responsive and respectful design, accessibility, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

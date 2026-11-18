@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "reversible-reactions-and-equilibrium"
 description: "Cambridge IGCSE Chemistry 0620 subtopic 6.3 in depth: hydrated salts, dynamic equilibrium, predicting shifts, and the Haber and Contact process conditions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

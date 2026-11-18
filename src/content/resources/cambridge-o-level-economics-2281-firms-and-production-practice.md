@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "firms-and-production"
 description: "Original practice questions with full answers on firms and production for Cambridge O Level Economics 2281: factor demand, production methods and productivity."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

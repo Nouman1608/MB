@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "organisational-design-9725"
 description: "Study guide to 9725 section 3.2.2.3: span of control, hierarchy, tall and flat structures, delegation, centralisation, representation and delayering."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The specification lists 'employee representation rates' without a definition; this page uses the proportion of employees represented by a trade union or other employee body, which a teacher should confirm."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The specification lists 'employee representation rates' without a definition; this page uses the proportion of employees represented by a trade union or other employee body, which a teacher should confirm."
 publishedDate: 2026-11-18
 featured: false
 ---

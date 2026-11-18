@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "patras-ke-mazameen-ahmed-shah-patras-bukhari-9ur0"
 description: "9UR0 study guide to the five prescribed Patras essays: analysing humour technique by technique, comparing essays, and planning a 45-mark Section B answer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

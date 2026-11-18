@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "purpose-use-representation-advantages-disadvantages-4040"
 description: "Original practice questions with model answers on choosing tables and diagrams, their advantages and disadvantages, and misleading displays, for 4040."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "pressure-and-pressure-differences-in-fluids"
 description: "Thirteen original AQA GCSE Physics 8463 questions on 4.5.5: p = F/A, p = hρg, upthrust, floating and sinking, and atmospheric pressure, with marked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

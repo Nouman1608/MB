@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-covalent-bonding-and-coordinate-dative-covalent-bonding"
 description: "Original questions with mark-scheme answers on covalent and coordinate bonds, σ and π bonds, hybridisation, expanded octets and bond energy, for Cambridge 9701."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

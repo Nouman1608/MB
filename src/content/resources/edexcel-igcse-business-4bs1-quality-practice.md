@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "quality-4bs1"
 description: "Twelve original 4BS1 questions on section 5.4 Quality: defect and complaint rates, quality control, TQM and competitive advantage, with mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

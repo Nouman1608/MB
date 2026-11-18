@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "methods-of-error-detection-0478"
 description: "Twelve original Cambridge IGCSE Computer Science 0478 questions on parity checks and blocks, checksums, echo checks, check digits and ARQ, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

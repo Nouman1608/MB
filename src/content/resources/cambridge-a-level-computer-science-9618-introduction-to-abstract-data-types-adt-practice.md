@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "introduction-to-abstract-data-types-adt"
 description: "Original 9618 section 10.4 questions with mark-scheme answers on stacks, circular queues and linked lists held in arrays, pointer tables and justifying ADTs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

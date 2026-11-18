@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "exchange-rates-aqa-gcse-economics"
 description: "Revision notes for AQA GCSE Economics 8136 section 3.2.4.2: the market for pounds, which curve shifts, conversions, and effects on consumers and producers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

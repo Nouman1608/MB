@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "monetary-policy-as-cambridge-alevel-economics"
 description: "Condensed notes on Cambridge 9708 section 5.3: monetary policy tools, transmission routes, policy stance and AD/AS effects, with traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

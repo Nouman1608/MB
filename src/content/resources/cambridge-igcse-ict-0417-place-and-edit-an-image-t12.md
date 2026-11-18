@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "place-and-edit-an-image-t12-0417"
 description: "Placing images precisely, resizing with or without the aspect ratio, cropping, flipping, brightness, contrast and layers, for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

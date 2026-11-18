@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "ideal-gases-oxfordaqa-alevel-physics"
 description: "Original practice questions with mark-scheme answers on OxfordAQA 9630 section 3.11.3: gas laws, absolute zero, pV = nRT, work done and Required practical 9."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

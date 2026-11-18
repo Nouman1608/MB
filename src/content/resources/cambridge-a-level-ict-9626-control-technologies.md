@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "control-technologies"
 description: "Cambridge 9626 IT section 3.2 study guide: control sensors, the nine actuator types, named control systems, trade-offs and control algorithms traced."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

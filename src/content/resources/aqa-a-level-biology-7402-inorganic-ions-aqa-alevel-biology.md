@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "inorganic-ions-aqa-alevel-biology"
 description: "AQA A-level Biology 3.1.8 study guide: why each ion's role follows from its properties, pH calculations, iron in haemoglobin, sodium co-transport and phosphate."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

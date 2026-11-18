@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a4-2"
 description: "Condensed IB DP Biology A4.2 notes: levels of biodiversity, extinction and ecosystem case studies, crisis evidence, causes, conservation and EDGE."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The IB guide could not be downloaded when this page was written; please check the named examples and the mass-extinction material against statements A4.2.2 to A4.2.8."
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB guide could not be downloaded when this page was written; please check the named examples and the mass-extinction material against statements A4.2.2 to A4.2.8."
 publishedDate: 2026-11-18
 featured: false
 ---

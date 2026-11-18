@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "the-management-of-natural-increase-9696"
 description: "Study guide to Cambridge 9696 Geography 4.4: preparing and evaluating a population policy case study, with policy types and a worked Singapore outline."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the Singapore outline (Stop at Two in the 1970s, the 1987 change of slogan, the Baby Bonus from 2001 and fertility below 1.0) against a current source."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the Singapore outline (Stop at Two in the 1970s, the 1987 change of slogan, the Baby Bonus from 2001 and fertility below 1.0) against a current source."
 publishedDate: 2026-11-18
 featured: false
 ---

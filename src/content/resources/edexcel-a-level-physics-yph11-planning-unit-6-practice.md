@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "planning-unit-6-yph11"
 description: "Twelve original Unit 6 planning questions with mark-scheme answers on capacitors, gases, latent heat, thermistors and radiation, for Edexcel IAL Physics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

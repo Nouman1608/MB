@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-ownership-aqa-gcse-business"
 description: "12 original AQA GCSE Business ownership questions: liability, profit shares, share dilution, dividends, choosing a structure and a 9-mark evaluation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

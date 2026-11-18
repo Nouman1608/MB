@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "b10-partial-fractions-aqa-alevel-maths"
 description: "Original AQA A-level Maths 7357 B10 partial fractions practice: two and three linear factors, repeated factors, unknown constants and fractional answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

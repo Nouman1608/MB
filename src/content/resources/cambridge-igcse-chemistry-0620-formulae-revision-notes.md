@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "formulae"
 description: "Condensed 0620 notes on formulae: definitions, ion charges, compound ions, state symbols, balancing and ionic equations, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

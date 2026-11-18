@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-labour-market-edexcel-igcse-economics"
 description: "Original practice questions with worked answers on labour demand and supply, human capital, diagrams and trade unions for Edexcel IGCSE Economics 4EC1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

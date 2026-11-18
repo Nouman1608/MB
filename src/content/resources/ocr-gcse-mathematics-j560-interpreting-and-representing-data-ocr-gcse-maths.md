@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "interpreting-and-representing-data-ocr-gcse-maths"
 description: "OCR GCSE Maths J560 section 12.02 in depth: choosing charts, reading pie and composite charts, two-way tables, time series, cumulative frequency and histograms."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

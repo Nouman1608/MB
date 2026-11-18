@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-poisson-distribution-cambridge-alevel-maths"
 description: "Condensed 9709 Paper 6 notes on 6.1: the Poisson formula, mean equals variance, model conditions, both approximations, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

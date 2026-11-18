@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "social-control-conformity-resistance-9699"
 description: "Original Cambridge 9699 Paper 1 style questions on structure and agency, conformity, social order and deviance, with mark-scheme answers and essay guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

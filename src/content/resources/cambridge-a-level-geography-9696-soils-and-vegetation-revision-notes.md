@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "soils-and-vegetation-9696"
 description: "Revision notes for Cambridge 9696 Geography 10.3: desert productivity, nutrient cycling, plant adaptations, drought types, salinisation and desertification."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

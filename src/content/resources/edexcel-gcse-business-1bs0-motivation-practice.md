@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "motivation-1bs0"
 description: "Twelve original Edexcel GCSE Business questions on 2.5.4 Motivation: financial and non-financial methods, pay and productivity, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

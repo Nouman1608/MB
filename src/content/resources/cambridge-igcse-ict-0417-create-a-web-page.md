@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "create-a-web-page-0417"
 description: "Building the HTML content layer for Cambridge IGCSE ICT 0417 subtopic 21.2: head elements, metatags, tables, media, divs, bookmarks, links and file paths."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

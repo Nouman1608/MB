@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "cash-and-cash-flow-1bs0"
 description: "Condensed notes for Edexcel GCSE Business 1BS0 item 1.3.3: why cash matters, cash against profit, forecast formulae, missing values, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "finance-and-accounting-strategy-cambridge-alevel-business"
 description: "Condensed revision notes for Cambridge A Level Business 9609 section 10.4: annual reports, strategy effects on ratios, debt versus equity, dividends and limits."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

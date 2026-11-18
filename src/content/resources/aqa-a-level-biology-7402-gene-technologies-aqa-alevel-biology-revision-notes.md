@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "gene-technologies-aqa-alevel-biology"
 description: "Condensed notes on recombinant DNA, PCR, vectors, marker genes, gene therapy, probes and fingerprinting, with a self-test, for AQA A-level Biology 7402 3.8.4."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-activity"
 description: "Revision notes for Cambridge O Level Business 7115 subtopic 1.1: scarcity, opportunity cost, specialisation, added value, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

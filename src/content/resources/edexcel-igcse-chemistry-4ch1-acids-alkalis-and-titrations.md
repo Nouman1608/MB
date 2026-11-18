@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "acids-alkalis-and-titrations-4ch1"
 description: "Study guide for 4CH1 sub-topic 2(f): indicators, the pH scale bands, universal indicator, H+ and OH- ions, neutralisation and how to carry out a titration."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

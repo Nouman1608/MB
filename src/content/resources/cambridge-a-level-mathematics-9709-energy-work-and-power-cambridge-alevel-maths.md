@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "energy-work-and-power-cambridge-alevel-maths"
 description: "Cambridge 9709 Mechanics 4.5 in depth: work done by angled forces, the work-energy principle, average and instantaneous power, and vehicles on hills."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

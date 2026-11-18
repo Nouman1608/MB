@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-acyl-chlorides"
 description: "Making acyl chlorides, their five room-temperature reactions, the addition-elimination mechanism step by step and hydrolysis rates compared, for Cambridge 9701."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

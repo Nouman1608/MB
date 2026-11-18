@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "economic-growth-aqa-gcse-economics"
 description: "Twelve original AQA GCSE Economics 8136 section 3.2.2.2 questions with answers: GDP, real GDP and per capita calculations, causes, costs and policies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

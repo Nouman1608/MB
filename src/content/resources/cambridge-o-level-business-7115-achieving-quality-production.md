@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "achieving-quality-production"
 description: "Cambridge O Level Business 7115 guide to 4.3: what quality means, why it matters to all businesses, and how quality control and quality assurance work."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

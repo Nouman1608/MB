@@ -17,7 +17,10 @@ syllabusTopics:
     subtopic: "a-simple-rate-equations-orders-of-reaction-and-rate-constants"
 description: "Revision notes for 9701 subtopic 26.1: kinetics terms, graph shapes, initial rates, half-life, units of k, mechanisms, intermediates and temperature effects."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

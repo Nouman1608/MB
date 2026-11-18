@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "price-determination"
 description: "Study guide to section 2.5 Price determination in Cambridge O Level Economics 2281: equilibrium price and sales, shortages, surpluses and market adjustment."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

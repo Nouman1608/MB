@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "general-ideas-of-sampling-4040"
 description: "Condensed revision notes on population, census, sample and representative sample for Cambridge O Level Statistics 4040, with a self-test and answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

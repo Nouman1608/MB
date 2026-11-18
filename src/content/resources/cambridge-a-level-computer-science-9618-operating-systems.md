@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "operating-systems"
 description: "Study guide to Cambridge 9618 section 5.1: why an OS is needed, its five management tasks, the named utility programs, and program libraries including DLLs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

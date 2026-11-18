@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-fundamental-particles"
 description: "Revision notes for Cambridge AS Physics 9702 11.2: quark flavours and charges, baryons and mesons, quark-level β decay, leptons, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

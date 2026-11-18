@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "physical-and-chemical-changes"
 description: "Identifying physical and chemical changes across the 0620 course, with particle-level differences, two-stage processes and model answers for Cambridge IGCSE."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

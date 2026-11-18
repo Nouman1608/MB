@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "elements-compounds-and-mixtures"
 description: "Recall notes for 0620 sub-topic 2.1: definitions, a five-point comparison, formulas and particle diagrams, everyday examples, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

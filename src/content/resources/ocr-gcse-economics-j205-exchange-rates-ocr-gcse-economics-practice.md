@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "exchange-rates-ocr-gcse-economics"
 description: "Original OCR GCSE Economics J205 exchange rate questions with worked answers: conversions, diagrams, rate data, and effects on exporters and consumers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

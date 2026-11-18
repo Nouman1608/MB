@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "create-edit-and-apply-styles-t14-0417"
 description: "Creating, modifying, updating and applying styles with font, alignment, enhancement, spacing and bullet settings, for Cambridge IGCSE ICT 0417 Topic 14."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

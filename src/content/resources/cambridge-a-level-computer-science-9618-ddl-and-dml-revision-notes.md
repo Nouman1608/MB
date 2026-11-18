@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "ddl-and-dml"
 description: "Condensed SQL notes on data types, CREATE, ALTER, keys, SELECT, joins, aggregates and data maintenance for Cambridge AS Computer Science 9618 8.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

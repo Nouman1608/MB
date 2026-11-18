@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "recruitment-selection-and-training-of-employees"
 description: "Twelve original Cambridge O Level Business 7115 questions with mark-by-mark answers on recruitment, selection, training, redundancy and employment law."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

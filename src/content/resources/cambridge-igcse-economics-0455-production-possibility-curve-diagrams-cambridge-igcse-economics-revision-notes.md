@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-possibility-curve-diagrams-cambridge-igcse-economics"
 description: "Revision notes on PPC diagrams for Cambridge IGCSE Economics 0455: drawing rules, points, movements, opportunity cost, shifts, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

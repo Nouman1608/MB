@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-role-of-markets-in-allocating-resources-cambridge-igcse-economics"
 description: "Revision notes on how markets allocate resources for Cambridge IGCSE Economics 0455: market system, what, how and for whom, price mechanism and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

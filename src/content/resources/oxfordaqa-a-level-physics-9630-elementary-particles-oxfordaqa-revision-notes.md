@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "elementary-particles-oxfordaqa"
 description: "Revision notes for OxfordAQA 9630 section 3.3.2: antiparticle pairs, rest energies, annihilation and pair production energy rules, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The specification's 'Classification of particles' heading lists only the antiparticle statements beneath it; a teacher should confirm no hadron or lepton classification is expected."
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The specification's 'Classification of particles' heading lists only the antiparticle statements beneath it; a teacher should confirm no hadron or lepton classification is expected."
 publishedDate: 2026-11-18
 featured: false
 ---

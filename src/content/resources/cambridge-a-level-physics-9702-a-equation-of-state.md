@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-equation-of-state"
 description: "A focused guide to 15.2 Equation of state in Cambridge A Level Physics 9702: what makes a gas ideal, pV = nRT, pV = NkT, k = R/N_A, graphs and worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-formulas"
 description: "Twelve original Cambridge 9701 subtopic 2.3 questions on ionic formulas, ionic equations, empirical and molecular formulas and hydrates, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

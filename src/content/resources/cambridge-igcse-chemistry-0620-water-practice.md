@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "water"
 description: "Fourteen original 0620 questions with mark-scheme answers on tests for water, purity data, distilled water, natural water contents and water treatment."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

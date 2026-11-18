@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "qs6-quantitative-skills-oxfordaqa-alevel-economics"
 description: "Twelve original QS6 questions with worked answers for OxfordAQA 9640 Economics: cost tables, profit per unit, normal profit and A2 marginal values."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

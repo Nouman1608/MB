@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "limitation-of-physical-measurements-oxfordaqa"
 description: "Condensed OxfordAQA 9630 notes on 3.1.2: error types, five precise measurement terms, uncertainty rules, worst-fit lines and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

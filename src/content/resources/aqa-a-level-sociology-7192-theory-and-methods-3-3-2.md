@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "theory-and-methods-3-3-2-7192"
 description: "Study guide to AQA A-level Sociology 7192 section 3.3.2 for Paper 3: theories, post-modernity, science, value freedom and policy, with crime-based examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

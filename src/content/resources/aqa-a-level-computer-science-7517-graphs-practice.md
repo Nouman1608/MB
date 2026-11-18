@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "graphs-7517"
 description: "Original AQA 7517 section 4.2.4 questions with mark-scheme answers: graph terms, uses, adjacency matrices and lists, and choosing a representation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

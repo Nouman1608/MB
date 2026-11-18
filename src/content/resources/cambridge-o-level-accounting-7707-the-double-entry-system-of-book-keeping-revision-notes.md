@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-double-entry-system-of-book-keeping"
 description: "Condensed notes on double entry rules, balancing, year-end transfers, running balances and the three ledgers, with a self-test, for O Level Accounting 7707."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

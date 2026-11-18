@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "non-right-angled-triangles-cambridge-igcse-maths"
 description: "Revision notes for 0580 subtopic E6.5: sine rule, cosine rule and ½ab sin C, a rule-choice table, obtuse angles, the ambiguous case and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

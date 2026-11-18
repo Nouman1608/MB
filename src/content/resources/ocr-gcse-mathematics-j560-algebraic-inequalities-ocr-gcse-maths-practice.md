@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "algebraic-inequalities-ocr-gcse-maths"
 description: "Original OCR GCSE Maths J560 6.04 practice questions with full answers on linear and quadratic inequalities, number lines, set notation and regions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

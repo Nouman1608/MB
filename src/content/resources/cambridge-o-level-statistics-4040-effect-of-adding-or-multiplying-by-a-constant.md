@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "effect-of-adding-or-multiplying-by-a-constant-4040"
 description: "Why adding a constant moves the mean but not the standard deviation, why multiplying scales both, and how to use these rules to simplify 4040 calculations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

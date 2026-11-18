@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-role-of-government-cambridge-igcse-economics"
 description: "Original practice questions with full answers on the role of government for Cambridge IGCSE Economics 0455 at local, national and international level."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

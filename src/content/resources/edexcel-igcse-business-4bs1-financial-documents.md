@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "financial-documents-4bs1"
 description: "Study guide to 4BS1 section 3.4 financial documents: reading the statement of comprehensive income and statement of financial position, IAS terms and decisions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "unification-italy-2147"
 description: "Recall notes for O Level History 2147 key question 1.2: Italy's states, the 1848-49 failures, Plombières, 1859, the Thousand, Venetia, Rome and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

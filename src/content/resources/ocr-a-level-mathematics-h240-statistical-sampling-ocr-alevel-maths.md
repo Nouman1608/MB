@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "statistical-sampling-ocr-alevel-maths"
 description: "OCR H240 statistical sampling in depth: populations and frames, informal inference, bias versus variability, carrying out samples and critiquing methods in context."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

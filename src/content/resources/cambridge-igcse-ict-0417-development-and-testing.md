@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "development-and-testing-0417"
 description: "Test designs, test strategies, test plans with remedial action, normal, abnormal and extreme test data and live data, for Cambridge IGCSE ICT 0417 section 7.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

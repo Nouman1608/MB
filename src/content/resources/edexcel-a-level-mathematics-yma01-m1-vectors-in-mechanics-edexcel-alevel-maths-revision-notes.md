@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "m1-vectors-in-mechanics-edexcel-alevel-maths"
 description: "Revision notes for Edexcel IAL Maths M1 vectors: magnitude, bearings, resultants, parallel vectors, r = r0 + vt, a = (v - u)/t and two moving objects."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

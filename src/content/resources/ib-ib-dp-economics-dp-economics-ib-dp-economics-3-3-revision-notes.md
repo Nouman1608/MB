@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-3"
 description: "IB DP Economics 3.3 revision notes: unemployment, inflation, HL weighted price index, Phillips curve, government debt, objective conflicts and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The IB Economics guide could not be downloaded while this page was written. A teacher should check the content against the guide's wording for sub-topic 3.3, in particular whether the Phillips curve and the government debt objective are SL and HL or HL only; this page labels only the weighted price index as HL only."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB Economics guide could not be downloaded while this page was written. A teacher should check the content against the guide's wording for sub-topic 3.3, in particular whether the Phillips curve and the government debt objective are SL and HL or HL only; this page labels only the weighted price index as HL only."
 publishedDate: 2026-11-18
 featured: false
 ---

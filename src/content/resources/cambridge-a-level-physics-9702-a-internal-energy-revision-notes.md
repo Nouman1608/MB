@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-internal-energy"
 description: "Revision notes on 16.1 Internal energy for Cambridge A Level Physics 9702: the definition word by word, phases, ideal gases and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

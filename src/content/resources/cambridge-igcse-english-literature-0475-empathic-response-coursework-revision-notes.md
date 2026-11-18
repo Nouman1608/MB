@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "component-5-coursework-0475"
 description: "Condensed notes on the 0475 Component 5 empathic assignment: the rules, how the levels describe voice and detail, a planning routine, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

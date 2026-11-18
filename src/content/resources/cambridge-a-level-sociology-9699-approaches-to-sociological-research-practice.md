@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "approaches-to-sociological-research-9699"
 description: "Original Cambridge 9699 Paper 1 style questions on case studies, surveys, ethnography, mixed methods, positivism, interpretivism and values, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

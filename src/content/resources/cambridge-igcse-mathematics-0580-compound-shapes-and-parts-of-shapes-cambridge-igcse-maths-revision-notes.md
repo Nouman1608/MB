@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "compound-shapes-and-parts-of-shapes-cambridge-igcse-maths"
 description: "Revision notes for Cambridge IGCSE Maths 0580 subtopic 5.5: add-or-subtract methods, perimeters, segments, hemispheres, frustums, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

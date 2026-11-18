@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-literary-non-fiction-9270"
 description: "An original sequence of three letters with 12 questions on audience, conventions, language and perspective for OxfordAQA IGCSE English Language 9270."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

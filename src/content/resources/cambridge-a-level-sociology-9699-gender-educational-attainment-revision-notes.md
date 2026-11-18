@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "gender-educational-attainment-9699"
 description: "Condensed 9699 section 6.4 notes: gender socialisation, changing expectations, crisis of masculinity, subcultures and teacher expectations, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

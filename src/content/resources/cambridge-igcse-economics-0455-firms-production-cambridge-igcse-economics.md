@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "firms-production-cambridge-igcse-economics"
 description: "Study guide to firms' production for Cambridge IGCSE Economics 0455 section 3.6: factor demand, labour- or capital-intensive methods, and productivity."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

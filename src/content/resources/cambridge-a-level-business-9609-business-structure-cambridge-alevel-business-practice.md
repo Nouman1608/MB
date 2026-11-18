@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "business-structure-cambridge-alevel-business"
 description: "Original 9609 practice questions with full answers on 1.2 Business structure: sector change, ownership forms, liability, franchising and changing form."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

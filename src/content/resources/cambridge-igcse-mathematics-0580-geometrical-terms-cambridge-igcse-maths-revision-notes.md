@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "geometrical-terms-cambridge-igcse-maths"
 description: "Revision notes for Cambridge IGCSE Maths 0580 subtopic 4.1 Geometrical terms: angles, triangles, quadrilaterals, polygons, solids, circles and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

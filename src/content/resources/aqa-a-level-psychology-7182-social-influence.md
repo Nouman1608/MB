@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "social-influence-7182"
 description: "Study guide to AQA A-level Psychology 7182 social influence: conformity, Asch's variables, obedience, Milgram, authoritarian personality, resistance and minority influence."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

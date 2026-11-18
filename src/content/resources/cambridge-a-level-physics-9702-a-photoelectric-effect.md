@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-photoelectric-effect"
 description: "A focused guide to 22.2 Photoelectric effect in Cambridge A Level Physics 9702: threshold frequency, work function, hf = Φ + ½mv²max and intensity."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "computers-and-their-components"
 description: "Study guide to Cambridge 9618 section 3.1: storage needs, embedded systems, how named devices work, buffers, RAM and ROM types, and monitoring and control."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

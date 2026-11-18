@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "antibiotics-cambridge-alevel-biology"
 description: "Revision notes for 9700 sub-topic 10.2: penicillin's action, why viruses are unaffected, how resistance arises and spreads, and steps to reduce its impact."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

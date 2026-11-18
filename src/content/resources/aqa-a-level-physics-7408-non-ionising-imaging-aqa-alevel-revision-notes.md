@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "non-ionising-imaging-aqa-alevel"
 description: "Condensed AQA A-level Physics 7408 notes on non-ionising imaging (3.10.4): impedance, A- and B-scans, endoscope fibre bundles, MR steps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

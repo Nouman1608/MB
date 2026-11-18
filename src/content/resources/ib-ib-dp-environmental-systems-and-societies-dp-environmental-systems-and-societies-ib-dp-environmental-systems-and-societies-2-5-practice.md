@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-2-5"
 description: "Twelve original IB DP ESS questions on 2.5: transects, altitudinal zonation, dune succession, old-field change and disturbance, with marked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Written against a provisional subtopic title that the IB subject brief does not print; please check the title, scope and any HL-only content against the full ESS guide."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "Written against a provisional subtopic title that the IB subject brief does not print; please check the title, scope and any HL-only content against the full ESS guide."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

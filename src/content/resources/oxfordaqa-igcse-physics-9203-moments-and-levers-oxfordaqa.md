@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "moments-and-levers-oxfordaqa"
 description: "A deeper guide to OxfordAQA IGCSE Physics 3.1.8 Moments and levers: M = Fd, multi-force balance, beams with weight, toppling and levers as force multipliers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "metallic-bonding"
 description: "Original 0620 Extended practice on metallic bonding: describing the lattice, explaining conductivity, malleability and ductility, with full mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

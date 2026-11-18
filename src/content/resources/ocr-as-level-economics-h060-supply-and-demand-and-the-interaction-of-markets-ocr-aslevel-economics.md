@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics"
 description: "OCR AS Economics (H060) guide to supply and demand: shifts and movements, equilibrium from equations, surplus calculations and links between markets."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

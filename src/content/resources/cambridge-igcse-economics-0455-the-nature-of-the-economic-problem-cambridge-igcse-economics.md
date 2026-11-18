@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-nature-of-the-economic-problem-cambridge-igcse-economics"
 description: "Guide to section 1.1 of Cambridge IGCSE Economics 0455: finite resources, unlimited wants, the problem for four decision makers, economic and free goods."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

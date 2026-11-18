@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "probability-distribution-of-a-discrete-variable-4040"
 description: "Forming a discrete probability distribution from sample spaces, tree diagrams, selections and rules, finding unknowns and reading probabilities, for O Level Statistics 4040."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

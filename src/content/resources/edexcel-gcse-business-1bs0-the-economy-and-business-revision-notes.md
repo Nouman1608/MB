@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-economy-and-business-1bs0"
 description: "Revision notes on unemployment, income, inflation, interest rates, taxation and exchange rates, with calculations and a self-test, for Edexcel GCSE 1BS0."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

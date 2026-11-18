@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "free-trade-agreements-including-the-european-union-aqa-gcse-economics"
 description: "Study guide to AQA GCSE Economics 8136 section 3.2.4.3: arguments for and against free trade, types of trade agreement, and why the EU matters to the UK."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

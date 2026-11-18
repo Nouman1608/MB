@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "sole-traders"
 description: "Revision notes for 7707 section 5.1: sole trader pros and cons, statement skeletons, statement of financial position headings, adjustments and drawings."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

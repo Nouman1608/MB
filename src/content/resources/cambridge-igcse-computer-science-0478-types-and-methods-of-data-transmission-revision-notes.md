@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "types-and-methods-of-data-transmission-0478"
 description: "Condensed Cambridge IGCSE Computer Science 0478 notes on packets, packet switching, serial, parallel, simplex and duplex methods and USB, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

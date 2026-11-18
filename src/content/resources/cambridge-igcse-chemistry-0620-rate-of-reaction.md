@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "rate-of-reaction"
 description: "Cambridge IGCSE Chemistry 0620 subtopic 6.2 in depth: the five factors, collision theory, rate experiments and reading rate graphs, Core and Extended."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

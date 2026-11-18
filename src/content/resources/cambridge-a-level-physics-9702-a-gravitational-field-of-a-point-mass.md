@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-gravitational-field-of-a-point-mass"
 description: "A focused guide to 13.3 in Cambridge A Level Physics 9702: deriving g = GM/r², how g falls with height, why g is nearly constant near the ground, null points."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

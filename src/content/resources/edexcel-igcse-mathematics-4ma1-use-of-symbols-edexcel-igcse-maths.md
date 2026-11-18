@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "use-of-symbols-edexcel-igcse-maths"
 description: "Study guide to 4MA1 section 2.1: letters as unknowns and variables, algebra as generalised arithmetic, integer, zero and fractional indices, and index laws."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

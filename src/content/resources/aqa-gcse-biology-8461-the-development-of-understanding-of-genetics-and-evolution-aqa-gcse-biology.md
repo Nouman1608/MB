@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-development-of-understanding-of-genetics-and-evolution-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 section 4.6.3 in depth: Darwin, Wallace, Lamarck and Mendel, speciation, fossils, extinction and antibiotic-resistant bacteria."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

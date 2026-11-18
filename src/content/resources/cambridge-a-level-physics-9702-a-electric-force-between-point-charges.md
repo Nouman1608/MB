@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-electric-force-between-point-charges"
 description: "Cambridge A Level Physics 9702 subtopic 18.3: Coulomb's law, charged spheres as point charges, charge sharing and adding forces as vectors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

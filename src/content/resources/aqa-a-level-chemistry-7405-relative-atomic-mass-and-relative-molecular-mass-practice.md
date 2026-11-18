@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "relative-atomic-mass-and-relative-molecular-mass-7405"
 description: "Original AQA 7405 questions with marked answers on defining Ar and Mr, relative formula mass, hydrates, percentage by mass and finding unknown elements."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

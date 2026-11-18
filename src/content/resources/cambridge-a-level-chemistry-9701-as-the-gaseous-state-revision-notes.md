@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-the-gaseous-state"
 description: "Revision notes for Cambridge 9701 4.1: origin of gas pressure, ideal gas assumptions, real gas behaviour, pV = nRT unit conversions and Mr calculations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

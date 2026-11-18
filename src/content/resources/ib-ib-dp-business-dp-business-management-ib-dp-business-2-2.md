@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-2-2"
 description: "Study guide to IB DP Business Management 2.2 Organizational structure: key terms, calculating from charts, choosing structures and the HL Shamrock model."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

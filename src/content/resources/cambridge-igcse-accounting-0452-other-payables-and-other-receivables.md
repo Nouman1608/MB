@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "other-payables-and-other-receivables"
 description: "Cambridge IGCSE Accounting 0452 section 4.3 in depth: matching, accrued and prepaid expenses and incomes, running balance ledgers and missing cash figures."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

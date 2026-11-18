@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "noble-gases"
 description: "Cambridge IGCSE Chemistry 0620 subtopic 8.5 in depth: why Group VIII noble gases are unreactive and monatomic, explained through electronic configuration."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

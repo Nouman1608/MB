@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-4-3"
 description: "IB DP Geography Geophysical hazards 4.3 in depth: who is most vulnerable, measuring vulnerability, losses relative to GDP and two contrasting 2010 eruptions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The IB Geography guide could not be opened while this page was written, so a teacher should check its content against the guide's wording for sub-topic 4.3."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB Geography guide could not be opened while this page was written, so a teacher should check its content against the guide's wording for sub-topic 4.3."
 publishedDate: 2026-11-18
 featured: false
 ---

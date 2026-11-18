@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-human-impact-1-4-9696"
 description: "Study guide to Cambridge 9696 Geography 1.4: land use, abstraction and storage, flood causes, recurrence intervals, flood management and the flood case study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

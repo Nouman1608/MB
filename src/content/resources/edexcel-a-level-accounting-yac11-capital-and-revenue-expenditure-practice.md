@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "capital-and-revenue-expenditure-yac11"
 description: "Twelve original questions with mark-scheme answers on classifying spending, asset cost, error effects on profit and assets, and correcting journals, for YAC11."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

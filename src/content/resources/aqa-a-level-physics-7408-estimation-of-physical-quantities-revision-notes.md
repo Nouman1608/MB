@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "estimation-of-physical-quantities"
 description: "Revision notes for AQA 7408 section 3.1.3: a method for setting out estimates, anchor values, worked derived estimates across topics, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

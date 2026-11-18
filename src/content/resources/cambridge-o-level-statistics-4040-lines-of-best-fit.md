@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "lines-of-best-fit-4040"
 description: "Lines of best fit by eye and by semi-averages, finding y = mx + c, interpreting gradient and intercept, and judging predictions, for Cambridge O Level Statistics 4040."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

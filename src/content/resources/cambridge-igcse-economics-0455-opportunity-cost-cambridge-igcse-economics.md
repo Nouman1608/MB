@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "opportunity-cost-cambridge-igcse-economics"
 description: "In-depth study guide to opportunity cost for Cambridge IGCSE Economics 0455: the definition, measuring it in different contexts and how it shapes decisions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

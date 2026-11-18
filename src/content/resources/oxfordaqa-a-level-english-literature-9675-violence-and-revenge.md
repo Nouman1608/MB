@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-1-section-b-9675"
 description: "How the five 9675 Section B plays use violence and revenge, often offstage or turned inward, and how to build an essay on this aspect of tragedy."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-1-1"
 description: "Twelve original IB DP ESS questions on 1.1 Perspectives: EVS labels from evidence, values, worldviews and events that changed attitudes, with marked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB subject brief names subtopic 1.1 Perspectives but prints no learning outcomes; please check the scope of this page against the full ESS guide."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "The IB subject brief names subtopic 1.1 Perspectives but prints no learning outcomes; please check the scope of this page against the full ESS guide."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

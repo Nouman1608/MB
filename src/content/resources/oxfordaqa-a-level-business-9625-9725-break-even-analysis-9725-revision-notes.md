@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "break-even-analysis-9725"
 description: "Revision notes for OxfordAQA AS Business 9725 section 3.2.3.2: break-even formulas, chart reading, what-if changes, exam traps and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

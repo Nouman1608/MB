@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "reversible-reactions-and-equilibrium"
 description: "Study guide to O Level Chemistry 5070 subtopic 6.3: reversible reactions, dynamic equilibrium, predicting shifts, and the Haber and Contact process conditions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

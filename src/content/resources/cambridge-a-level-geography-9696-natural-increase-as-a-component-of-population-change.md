@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "natural-increase-as-a-component-of-population-change-9696"
 description: "Study guide to Cambridge 9696 Geography 4.1: birth, death, fertility and infant mortality rates, their causes, age/sex diagrams and dependency ratios."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "electric-potential-oxfordaqa"
 description: "Study guide to OxfordAQA 9630 section 3.8.3: absolute potential, ΔW = QΔV, equipotential spacing, closest approach, and E and V graphs against r."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

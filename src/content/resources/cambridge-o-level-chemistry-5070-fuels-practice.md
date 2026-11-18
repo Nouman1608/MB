@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "fuels"
 description: "Original practice questions with mark-scheme answers on Cambridge O Level Chemistry 5070 section 11.3: fossil fuels, fractional distillation and fractions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

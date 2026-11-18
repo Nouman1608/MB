@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "social-influences-9218"
 description: "Condensed notes on Piliavin's subway study, Latané and Darley's smoke study and Levine's football study for OxfordAQA IGCSE Psychology 9218, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the procedural details and figures given for the three bystander studies (particularly Levine's) against the course textbook."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the procedural details and figures given for the three bystander studies (particularly Levine's) against the course textbook."
 publishedDate: 2026-11-18
 featured: false
 ---

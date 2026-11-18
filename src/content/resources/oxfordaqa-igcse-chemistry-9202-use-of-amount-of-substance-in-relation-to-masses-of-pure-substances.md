@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "use-of-amount-of-substance-in-relation-to-masses-of-pure-substances-9202"
 description: "OxfordAQA IGCSE Chemistry (9202) section 3.6.2 in depth: relative formula mass, percentage by mass, and empirical and molecular formulae, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

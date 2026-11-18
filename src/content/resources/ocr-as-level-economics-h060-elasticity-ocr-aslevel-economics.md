@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "elasticity-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to elasticity: calculating PED, YED, XED and PES, PED and total revenue, determinants and usefulness."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

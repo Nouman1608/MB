@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "algorithms-19-1"
 description: "Condensed 9618 notes on searches, bubble and insertion sorts, ADT operations and implementations, graphs and Big O time and space, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

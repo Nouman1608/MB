@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-periodic-table-4ch1"
 description: "4CH1 Periodic Table revision notes: arrangement, configurations of the first 20 elements, metal and non-metal tests, groups and noble gases, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

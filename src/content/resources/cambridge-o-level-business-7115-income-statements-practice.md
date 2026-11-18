@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "income-statements"
 description: "Original practice questions with full answers on profit, profit versus cash and using income statements in decisions for Cambridge O Level Business 7115."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

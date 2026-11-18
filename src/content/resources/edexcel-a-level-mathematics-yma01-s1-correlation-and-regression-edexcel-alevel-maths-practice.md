@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "s1-correlation-and-regression-edexcel-alevel-maths"
 description: "Twelve original Edexcel IAL Maths S1 correlation and regression questions with answers: PMCC, least squares lines, coding, interpretation and extrapolation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

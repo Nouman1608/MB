@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "national-income-statistics-cambridge-alevel-economics"
 description: "Study guide to 9708 section 4.1: the meaning of national income, GDP, GNI and NNI, and adjusting from market to basic prices and from gross to net values."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

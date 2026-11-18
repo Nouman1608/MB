@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "control-and-coordination-in-plants-cambridge"
 description: "A focused guide to 9700 section 15.2: the Venus fly trap's rapid closure, auxin and acid growth, and gibberellin in barley germination, with data examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the Venus fly trap timing and closure mechanism wording against the current Cambridge coursebook, as published accounts of the mechanism differ."
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the Venus fly trap timing and closure mechanism wording against the current Cambridge coursebook, as published accounts of the mechanism differ."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-possibility-curve-ppc-diagrams"
 description: "Condensed notes on PPC shape, points under, on and beyond, opportunity cost and causes of shifts, with a self-test, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

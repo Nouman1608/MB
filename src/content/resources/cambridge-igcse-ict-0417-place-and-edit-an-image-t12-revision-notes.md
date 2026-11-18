@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "place-and-edit-an-image-t12-0417"
 description: "Condensed notes on placing and editing images for Cambridge IGCSE ICT 0417: aspect ratio, crop, rotate, flip, brightness, contrast, groups and layers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

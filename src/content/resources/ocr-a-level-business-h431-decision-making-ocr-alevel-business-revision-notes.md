@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "decision-making-ocr-alevel-business"
 description: "Revision notes on decision making for OCR A Level Business H431: stages, the five factors, bias, decision types, tools, judging success and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

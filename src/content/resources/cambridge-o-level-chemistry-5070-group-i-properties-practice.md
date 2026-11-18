@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "group-i-properties"
 description: "Twelve original 5070 questions on the alkali metals: trends in melting point, density and reactivity, water reactions and predicting rubidium and caesium."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

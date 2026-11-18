@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-ionic-bonding"
 description: "Ionic bonding as electrostatic attraction, with full electron configurations for NaCl, MgO and CaF₂, ion ratios and lattice strength, for Cambridge 9701."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "protocols"
 description: "Study guide to 9618 section 14.1: why protocols are essential, layered stacks, the four TCP/IP layers in action, and the six named protocols in depth."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

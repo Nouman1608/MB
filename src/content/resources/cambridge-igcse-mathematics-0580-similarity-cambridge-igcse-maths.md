@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "similarity-cambridge-igcse-maths"
 description: "Study guide to 0580 subtopic 4.4 Similarity: lengths in nested and crossed triangles, proving similarity with reasons, and area and volume scale factors."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

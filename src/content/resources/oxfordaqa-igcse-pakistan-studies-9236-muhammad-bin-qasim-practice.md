@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "islam-subcontinent-9236"
 description: "Thirteen original questions on Muhammad bin Qasim and the Umayyad conquest of Sindh for OxfordAQA 9236, from recall to 9-mark judgements, with mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-trial-balance-oxfordaqa-igcse-accounting"
 description: "Revision notes on the trial balance for OxfordAQA IGCSE Accounting 9215: balancing off, debit or credit placement, missing capital, redrafting, uses and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

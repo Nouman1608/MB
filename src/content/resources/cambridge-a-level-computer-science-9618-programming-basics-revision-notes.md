@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "programming-basics"
 description: "Revision notes for 9618 section 11.1: declarations, constants, operators, input, output, built-in functions, design-to-pseudocode traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the constant declaration syntax and the built-in function names (TO_UPPER, TO_LOWER, IS_NUM) against the current 9618 pseudocode guide and insert."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the constant declaration syntax and the built-in function names (TO_UPPER, TO_LOWER, IS_NUM) against the current 9618 pseudocode guide and insert."
 ---
 
 Condensed notes for 11.1 Programming Basics, AS content in Cambridge International AS & A Level Computer Science 9618, examined in Paper 2. You must turn a flowchart or structured English design into pseudocode, and write statements that declare and initialise constants and variables, assign values, evaluate arithmetic and logical expressions, read input, write output and call built-in functions.

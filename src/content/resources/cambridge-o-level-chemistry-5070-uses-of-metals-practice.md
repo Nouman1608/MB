@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "uses-of-metals"
 description: "Twelve original 5070 questions linking uses of aluminium and copper to density, conductivity, ductility and corrosion resistance, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

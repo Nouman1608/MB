@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "managing-stock-and-working-with-suppliers-1bs0"
 description: "Revision notes for Edexcel GCSE Business 1BS0 item 2.3.2: bar gate graph labels, JIT, supplier factors, logistics, key terms and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

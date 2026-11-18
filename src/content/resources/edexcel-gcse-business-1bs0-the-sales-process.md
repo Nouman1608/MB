@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-sales-process-1bs0"
 description: "Study guide to Edexcel GCSE Business 1BS0 item 2.3.4: the five parts of the sales process and why good customer service matters to a business."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

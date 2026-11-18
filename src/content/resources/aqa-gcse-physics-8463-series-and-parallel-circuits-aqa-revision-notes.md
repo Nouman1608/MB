@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "series-and-parallel-circuits-aqa"
 description: "Condensed AQA GCSE Physics 4.2.2 notes: series and parallel rules, why resistance rises or falls, equivalent resistance, sensor circuits and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

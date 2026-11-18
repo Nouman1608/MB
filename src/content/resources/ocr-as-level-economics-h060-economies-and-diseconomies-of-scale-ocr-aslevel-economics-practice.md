@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "economies-and-diseconomies-of-scale-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) practice questions on economies and diseconomies of scale, LRAC and minimum efficient scale, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification does not name economies or diseconomies of scale, which appear in the A Level (H460) costs topic, so a teacher should confirm whether this subtopic is examined at AS."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "The current H060 specification does not name economies or diseconomies of scale, which appear in the A Level (H460) costs topic, so a teacher should confirm whether this subtopic is examined at AS."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "equations-of-linear-graphs-cambridge-igcse-maths"
 description: "Thirteen original 0580 questions on 3.5 Equations of linear graphs: m and c, x = k, equations from graphs and points, ax + by = c and context, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

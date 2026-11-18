@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "landscape-natural-resources-9236"
 description: "Recall notes on water in Pakistan for OxfordAQA 9236: sources, uses, the 1960 treaty and 1991 accord, problems, strategies, implications and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

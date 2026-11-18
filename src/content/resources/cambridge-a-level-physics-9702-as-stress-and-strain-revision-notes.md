@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-stress-and-strain"
 description: "Condensed recall for Cambridge AS Physics 9702 subtopic 6.1: Hooke's law, k = F/x, stress, strain, the Young modulus and the wire experiment."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

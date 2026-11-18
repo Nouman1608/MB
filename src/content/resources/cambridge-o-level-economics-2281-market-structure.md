@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "market-structure"
 description: "Study guide to section 3.8 Market structure in Cambridge O Level Economics 2281: competitive markets, monopoly, barriers to entry and effects on consumers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

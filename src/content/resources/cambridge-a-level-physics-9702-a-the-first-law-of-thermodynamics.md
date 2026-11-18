@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-the-first-law-of-thermodynamics"
 description: "A focused guide to 16.2 in Cambridge A Level Physics 9702: deriving W = pΔV, work done by and on a gas, ΔU = q + W, sign tables for cycles and worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

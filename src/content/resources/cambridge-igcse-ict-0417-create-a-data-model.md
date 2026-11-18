@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "create-a-data-model-0417"
 description: "Building a spreadsheet model for Cambridge IGCSE ICT 0417 subtopic 20.1: structure, operators, replication, named ranges, lookups, IF and nested functions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

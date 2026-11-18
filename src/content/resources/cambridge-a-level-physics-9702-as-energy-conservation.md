@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-energy-conservation"
 description: "Subtopic 5.1 of Cambridge AS Physics 9702 in depth: the sign of work done, energy accounts, efficiency of chains, power and deriving P = Fv."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

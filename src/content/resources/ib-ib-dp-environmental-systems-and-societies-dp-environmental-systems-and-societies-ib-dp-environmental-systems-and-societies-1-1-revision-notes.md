@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-1-1"
 description: "Condensed IB DP ESS 1.1 Perspectives notes: values and worldviews, the EVS spectrum, events that changed attitudes, exam traps and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB subject brief names subtopic 1.1 Perspectives but prints no learning outcomes; please check the scope of this page against the full ESS guide."
 publishedDate: 2026-11-18
 featured: false
-reviewNeeded: true
-reviewNote: "The IB subject brief names subtopic 1.1 Perspectives but prints no learning outcomes; please check the scope of this page against the full ESS guide."
 ---
 
 These notes condense subtopic 1.1 Perspectives of IB DP Environmental Systems and Societies (first

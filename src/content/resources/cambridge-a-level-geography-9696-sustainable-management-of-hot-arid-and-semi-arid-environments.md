@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "sustainable-management-of-hot-arid-and-semi-arid-environments-9696"
 description: "Study guide to Cambridge 9696 Geography 10.4: problems of managing drylands sustainably, with the Thar Desert of Rajasthan as a case study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

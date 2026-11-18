@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "discrete-random-variables-cambridge-alevel-maths"
 description: "Cambridge 9709 Paper 5 subtopic 5.4 in depth: building probability distribution tables, E(X) and Var(X), binomial and geometric models, and finding n or p."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

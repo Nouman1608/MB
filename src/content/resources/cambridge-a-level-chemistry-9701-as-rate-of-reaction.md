@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-rate-of-reaction"
 description: "Rate of reaction for Cambridge 9701 8.1: collision terms, the effect of concentration and pressure, and calculating rates from tables, graphs and tangents."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

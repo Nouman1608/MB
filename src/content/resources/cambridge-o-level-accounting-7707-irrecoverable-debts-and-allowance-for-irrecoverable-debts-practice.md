@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "irrecoverable-debts-and-allowance-for-irrecoverable-debts"
 description: "Original practice questions with full answers on writing off and recovering debts and adjusting the allowance, for Cambridge O Level Accounting 7707."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "strategy-and-implementation-ocr-alevel-business"
 description: "Study guide to strategy and implementation for OCR A Level Business H431: functional strategies, three tests of a strategy, implementation plans and change."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

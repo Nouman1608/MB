@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-a-2"
 description: "Twelve original HL questions on network vulnerabilities and countermeasures for IB DP Computer Science A.2, with full mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Written from the public subject brief and the A2.4.2-A2.4.3 label (network vulnerabilities and countermeasures, HL only); please check the questions and mark allocations against the full DP Computer Science guide."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Written from the public subject brief and the A2.4.2-A2.4.3 label (network vulnerabilities and countermeasures, HL only); please check the questions and mark allocations against the full DP Computer Science guide."
 publishedDate: 2026-11-18
 featured: false
 ---

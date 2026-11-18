@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-formulas-functional-groups-and-the-naming-of-organic-compounds"
 description: "Condensed notes on AS functional groups, formula types, naming rules and empirical formulas, with traps and a self-test, for Cambridge 9701 AS subtopic 13.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

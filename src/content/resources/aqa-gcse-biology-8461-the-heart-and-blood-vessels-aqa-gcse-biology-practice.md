@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-heart-and-blood-vessels-aqa-gcse-biology"
 description: "Twelve original AQA GCSE Biology 8461 questions on 4.2.2.2: heartbeat, double circulation, lungs, vessel pressure and blood-flow rates, with marked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

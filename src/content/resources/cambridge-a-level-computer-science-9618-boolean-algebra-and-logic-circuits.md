@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "boolean-algebra-and-logic-circuits"
 description: "Study guide to 9618 section 15.2: truth tables, adders, SR and JK flip-flops, Boolean laws, De Morgan's laws and four-variable Karnaugh maps, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

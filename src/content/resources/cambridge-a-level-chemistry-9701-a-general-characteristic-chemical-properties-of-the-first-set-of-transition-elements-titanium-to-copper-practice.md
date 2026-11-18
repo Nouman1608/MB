@@ -17,9 +17,10 @@ syllabusTopics:
     subtopic: "a-general-characteristic-chemical-properties-of-the-first-set-of-transition-elements-titanium-to-copper"
 description: "Thirteen original questions with full answers on ligands, complex formulae and shapes, Cu(II) and Co(II) ligand exchange and transition-metal redox titrations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the colours given for cobalt(II) hydroxide and the hexaamminecobalt(II) ion against the descriptions Cambridge mark schemes accept."
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the colours given for cobalt(II) hydroxide and the hexaamminecobalt(II) ion against the descriptions Cambridge mark schemes accept."
 publishedDate: 2026-11-18
 featured: false
 ---

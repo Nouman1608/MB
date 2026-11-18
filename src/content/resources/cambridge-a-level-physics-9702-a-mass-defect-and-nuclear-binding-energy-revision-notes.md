@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-mass-defect-and-nuclear-binding-energy"
 description: "Revision notes for Cambridge A Level Physics 9702 23.1: E = mc², nuclear equations, mass defect, binding energy per nucleon, fission and fusion."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

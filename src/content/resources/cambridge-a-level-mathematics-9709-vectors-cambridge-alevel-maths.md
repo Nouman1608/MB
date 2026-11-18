@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "vectors-cambridge-alevel-maths"
 description: "Study guide to Cambridge 9709 Paper 3 section 3.7 Vectors: position vectors, lines r = a + tb, skew lines, scalar product, feet of perpendiculars and 3D solids."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

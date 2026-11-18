@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "wave-particle-duality-oxfordaqa"
 description: "Twelve original questions with full answers on 9630 section 3.5.11: evidence for duality, de Broglie wavelengths, accelerated electrons and changing models."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

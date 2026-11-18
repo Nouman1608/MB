@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "trade-flows-and-trading-patterns-9696"
 description: "Study guide for Cambridge 9696 Geography 13.1: visible and invisible trade, terms of trade, factors in trade patterns, the WTO, free trade and Fairtrade."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

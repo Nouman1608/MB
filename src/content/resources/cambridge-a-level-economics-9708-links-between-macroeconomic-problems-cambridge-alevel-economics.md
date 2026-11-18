@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "links-between-macroeconomic-problems-cambridge-alevel-economics"
 description: "Deep dive into Cambridge 9708 section 10.2: two-way links between inflation, exchange rates, growth and the balance of payments, and the cost of disinflation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

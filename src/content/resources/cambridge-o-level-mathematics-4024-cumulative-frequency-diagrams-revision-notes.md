@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "cumulative-frequency-diagrams-4024"
 description: "Revision notes for 4024 section 9.6: cumulative frequency tables, plotting at upper boundaries, median, quartiles, percentiles and IQR, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

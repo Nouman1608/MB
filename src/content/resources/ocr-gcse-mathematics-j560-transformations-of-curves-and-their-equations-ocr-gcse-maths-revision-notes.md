@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "transformations-of-curves-and-their-equations-ocr-gcse-maths"
 description: "Condensed OCR GCSE Maths J560 7.03 revision notes (Higher tier): translating and reflecting curves, key points, asymptotes and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

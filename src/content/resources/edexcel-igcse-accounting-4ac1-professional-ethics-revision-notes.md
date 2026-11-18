@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "professional-ethics-4ac1"
 description: "Condensed 4AC1 revision notes on the five ethics principles, applying them to accounting roles, the public interest, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The specification does not list the principles by name; a teacher should confirm that the five principles of the international code used here match centre teaching."
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The specification does not list the principles by name; a teacher should confirm that the five principles of the international code used here match centre teaching."
 publishedDate: 2026-11-18
 featured: false
 ---

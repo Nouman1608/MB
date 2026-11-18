@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "partnerships"
 description: "Revision notes for 7707 section 5.2: partnership pros and cons, agreement contents, appropriation layout, loan interest, and capital versus current accounts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

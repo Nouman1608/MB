@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "quantities-and-units-in-mechanics-ocr-alevel-maths"
 description: "Original practice questions with full answers on SI units, conversions, weight, the unit of moment and checking formulae by units for OCR A Level Maths H240."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-processes-aqa-gcse-business"
 description: "A focused guide to AQA GCSE Business section 3.3.1: job and flow production, when each suits a business, and how lean production and JIT improve efficiency."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

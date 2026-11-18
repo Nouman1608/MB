@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-writing-9270"
 description: "How to write for multiple and diverse audiences and purposes in OxfordAQA International GCSE English Language 9270 Paper 2 Section B, with a plan and a model."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "graphical-representation-of-data-edexcel-igcse-maths"
 description: "Eleven original 4MA1 questions on pictograms, pie charts, two-way and grouped tables, histograms and cumulative frequency, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

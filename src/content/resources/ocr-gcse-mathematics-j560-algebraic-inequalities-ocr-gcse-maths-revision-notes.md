@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "algebraic-inequalities-ocr-gcse-maths"
 description: "Condensed OCR GCSE Maths J560 6.04 revision notes: inequality symbols, number lines, linear and quadratic inequalities, set notation and regions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

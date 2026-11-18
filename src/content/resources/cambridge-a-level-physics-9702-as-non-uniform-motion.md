@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-non-uniform-motion"
 description: "Subtopic 3.2 of Cambridge AS Physics 9702 in depth: friction and drag, falling with air resistance, velocity-time graphs and terminal velocity."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

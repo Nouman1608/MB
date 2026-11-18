@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-ownership-aqa-gcse-business"
 description: "AQA GCSE Business 3.1.2 in depth: how ownership changes as a firm grows, partners' liability, share dilution and control, dividends and choosing a structure."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

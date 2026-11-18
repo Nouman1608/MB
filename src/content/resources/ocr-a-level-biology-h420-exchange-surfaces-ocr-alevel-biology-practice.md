@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "exchange-surfaces-ocr-alevel-biology"
 description: "Original OCR A Level Biology A (H420) 3.1.1 questions with answers on SA:V, airway tissues, ventilation, spirometer data, fish gills and insect gas exchange."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

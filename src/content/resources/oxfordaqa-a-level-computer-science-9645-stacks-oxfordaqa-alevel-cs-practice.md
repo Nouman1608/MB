@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "stacks-oxfordaqa-alevel-cs"
 description: "Twelve original OxfordAQA 9645 questions on sub-topic 3.2.4 Stacks: push, pop and peek traces, array code, bracket matching and stack uses, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

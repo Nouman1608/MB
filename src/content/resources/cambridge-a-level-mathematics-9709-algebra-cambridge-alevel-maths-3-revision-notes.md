@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "algebra-cambridge-alevel-maths-3"
 description: "Revision notes for Cambridge 9709 Paper 3 section 3.1 Algebra: modulus rules, division, factor theorem, partial fractions, binomial series and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

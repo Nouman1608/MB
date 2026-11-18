@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "economic-objectives-of-the-government-aqa-gcse-economics"
 description: "Twelve original AQA GCSE Economics 8136 questions on section 3.2.2.1 government objectives, conflicts and effects on groups, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

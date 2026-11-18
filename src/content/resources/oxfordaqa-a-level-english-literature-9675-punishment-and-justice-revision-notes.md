@@ -15,7 +15,10 @@ syllabusTopics:
     topic: "unit-3-elements-of-crime-and-mystery-9675"
 description: "Condensed notes on punishment, justice, retribution and the law in the 9675 Unit 3 set texts: four kinds of justice, endings, key terms, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

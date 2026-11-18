@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-biology-4-d1-3"
 description: "IB DP Biology D1.3 in depth: sickle cell and cystic fibrosis mutations, how mutagens act, evidence for randomness, and HL knockout and CRISPR-Cas9 editing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

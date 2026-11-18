@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "trophic-levels-in-an-ecosystem-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 section 4.7.4 in depth: trophic levels, decomposers, drawing pyramids of biomass and calculating biomass transfer efficiency."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

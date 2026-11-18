@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-effect-of-errors-on-profit-calculations-oxfordaqa-igcse-accounting"
 description: "Revision notes on the effect of errors on profit for OxfordAQA IGCSE Accounting 9215: gross profit or profit for the year, direction rules, inventory errors and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

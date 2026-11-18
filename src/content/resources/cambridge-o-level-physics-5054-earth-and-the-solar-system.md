@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "earth-and-the-solar-system"
 description: "Deeper guide to 5054 section 6.1: Earth facts, v = 2πr/T with unit conversions, Solar System bodies, field strength and reading planetary data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

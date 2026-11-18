@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "potential-divider-oxfordaqa"
 description: "Study guide to OxfordAQA 9630 section 3.4.5: potential dividers for fixed and variable pd, loading, and sensor circuits with thermistors and LDRs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-main-components-of-computer-systems-0417"
 description: "The CPU, RAM and ROM, input and output devices, and backing storage compared with internal memory, explained in depth for Cambridge IGCSE ICT 0417 section 1.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

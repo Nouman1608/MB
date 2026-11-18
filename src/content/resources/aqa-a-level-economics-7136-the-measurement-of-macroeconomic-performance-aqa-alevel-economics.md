@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-alevel-economics"
 description: "AQA 7136 section 3.2.1 worked through with data: weighted and rebased index numbers, real and per capita GDP, unemployment rates, the current account and PPP."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

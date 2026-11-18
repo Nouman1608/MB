@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-double-entry-system-of-book-keeping"
 description: "Study guide to O Level Accounting 7707 section 2.1: posting and balancing ledger accounts, running balances, year-end transfers and the division of the ledger."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

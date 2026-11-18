@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "population-structure-0460"
 description: "Original IGCSE Geography 0460 Population Structure questions with marked answers: pyramid data, dependency ratios, bulges and notches, and case studies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

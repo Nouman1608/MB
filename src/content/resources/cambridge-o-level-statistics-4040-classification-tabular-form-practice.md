@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "classification-tabular-form-4040"
 description: "Original practice questions with worked answers on classes, table design and completing and using two-way tables, for Cambridge O Level Statistics 4040."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

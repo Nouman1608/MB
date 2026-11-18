@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "compression"
 description: "Study guide to Cambridge 9618 section 1.3: why files are compressed, lossy versus lossless, run-length encoding worked through, and methods for each file type."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

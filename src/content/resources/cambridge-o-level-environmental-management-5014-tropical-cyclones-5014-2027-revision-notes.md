@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "tropical-cyclones-5014-2027"
 description: "Revision notes for 5014 sub-topic 6.2: the 5-30 degree, 27 °C and 60 m formation rules, ten impacts, seven strategies, key terms, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-a-2"
 description: "HL study guide to network vulnerabilities and countermeasures in IB DP Computer Science A.2: malware, interception, denial of service, and how to defend."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Written from the public subject brief and the A2.4.2-A2.4.3 label (network vulnerabilities and countermeasures, HL only); the exact learning outcomes were not available, so please check the threats and countermeasures named against the full DP Computer Science guide."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Written from the public subject brief and the A2.4.2-A2.4.3 label (network vulnerabilities and countermeasures, HL only); the exact learning outcomes were not available, so please check the threats and countermeasures named against the full DP Computer Science guide."
 publishedDate: 2026-11-18
 featured: false
 ---

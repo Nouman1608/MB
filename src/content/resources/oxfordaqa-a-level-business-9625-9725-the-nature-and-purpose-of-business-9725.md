@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-nature-and-purpose-of-business-9725"
 description: "Study guide to OxfordAQA 9725 section 3.1.1.1: entrepreneurs, typical objectives and SMART targets, the elements of a business plan and competitiveness."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

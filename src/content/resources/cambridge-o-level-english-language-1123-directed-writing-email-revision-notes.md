@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "writing-1123"
 description: "Condensed notes on the email form for 1123 directed writing: email versus letter, register by recipient, opening lines, paragraph jobs, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

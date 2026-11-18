@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "chromosomes-genes-and-proteins-cambridge-igcse-biology"
 description: "Revision notes for Cambridge IGCSE Biology 0610 chromosomes, genes and proteins: definitions, sex inheritance, protein synthesis and gene expression."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

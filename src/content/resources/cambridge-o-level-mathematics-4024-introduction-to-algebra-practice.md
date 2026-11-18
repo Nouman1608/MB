@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "introduction-to-algebra"
 description: "Thirteen original Cambridge O Level Maths 4024 questions on generalised numbers and substitution into expressions and formulas, with full mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

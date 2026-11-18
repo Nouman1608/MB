@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "books-of-prime-entry"
 description: "Twelve original questions on 0452 sub-topic 2.3: choosing the book, journals and postings, a three-column cash book, imprest petty cash and digital entry."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "electromagnetic-spectrum"
 description: "The order of the electromagnetic spectrum, wave speed calculations, why each region suits its uses, and radiation damage, for Cambridge O Level Physics 5054."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

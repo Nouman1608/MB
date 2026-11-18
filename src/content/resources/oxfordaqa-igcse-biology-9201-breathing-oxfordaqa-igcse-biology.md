@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "breathing-oxfordaqa-igcse-biology"
 description: "OxfordAQA IGCSE Biology 9201 section 3.2.5 in depth: the breathing system, pressure and volume, the bell-jar model, alveoli and mechanical ventilators."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "create-a-database-structure-0417"
 description: "Condensed notes on importing data, field types and formats, keys, relationships, flat file versus relational and form design, for IGCSE ICT 0417 18.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

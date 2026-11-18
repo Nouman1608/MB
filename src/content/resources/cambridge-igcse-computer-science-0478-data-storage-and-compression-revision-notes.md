@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "data-storage-and-compression-0478"
 description: "Condensed Cambridge IGCSE Computer Science 0478 notes on storage units, file-size formulas, why we compress, lossy, lossless and RLE, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

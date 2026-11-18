@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "powers-and-roots-cambridge-igcse-maths"
 description: "Fourteen original 0580 powers and roots questions: recall, decimals, fractions, negative cubes, estimating roots and calculator work, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

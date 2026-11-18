@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "gender-educational-attainment-9699"
 description: "Cambridge 9699 section 6.4 in depth: gender socialisation, changing female expectations, crisis of masculinity, subcultures and teacher expectations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

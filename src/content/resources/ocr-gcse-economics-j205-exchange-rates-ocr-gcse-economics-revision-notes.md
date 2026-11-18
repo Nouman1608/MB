@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "exchange-rates-ocr-gcse-economics"
 description: "Condensed revision notes for OCR GCSE Economics J205 section 4.3: currency demand and supply, conversions, rate data and who gains or loses when rates move."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

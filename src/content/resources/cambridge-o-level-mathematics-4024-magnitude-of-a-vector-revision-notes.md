@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "magnitude-of-a-vector-4024"
 description: "Revision notes for 4024 section 7.3: the magnitude formula, modulus notation, surd answers, unknown components and magnitudes of sums, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

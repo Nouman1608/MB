@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "internal-energy-and-energy-transfers"
 description: "AQA GCSE Physics 4.3.2 in depth: internal energy, specific heat capacity, specific latent heat, heating and cooling graphs and measuring latent heat of fusion."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

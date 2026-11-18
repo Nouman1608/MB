@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "preparation-of-salts"
 description: "Revision notes for O Level Chemistry 5070 subtopic 7.3: solubility rules, choosing a method, steps with reasons, hydrated salts and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

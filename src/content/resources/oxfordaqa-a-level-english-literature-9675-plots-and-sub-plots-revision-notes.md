@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-1-section-a-9675"
 description: "Condensed notes on plots and sub-plots in the 9675 Section A tragedies: five jobs a sub-plot does, play-by-play parallels, key terms, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

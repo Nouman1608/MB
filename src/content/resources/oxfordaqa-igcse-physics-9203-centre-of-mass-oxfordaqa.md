@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "centre-of-mass-oxfordaqa"
 description: "A deeper guide to OxfordAQA IGCSE Physics 3.1.7 Centre of mass: symmetry, suspended objects, the irregular lamina method, its errors, and stability."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

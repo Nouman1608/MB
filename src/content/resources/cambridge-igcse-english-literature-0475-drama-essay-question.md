@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "paper-2-drama-0475"
 description: "How to plan and write the 0475 Paper 2 drama essay question from memory: decoding the title, choosing moments, building an argument and using dramatic methods."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

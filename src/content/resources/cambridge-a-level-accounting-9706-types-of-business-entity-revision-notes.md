@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "types-of-business-entity"
 description: "Condensed notes on Cambridge 9706 topic 1.1: entity features, liability, stakeholder views, the named sources of finance, matching, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

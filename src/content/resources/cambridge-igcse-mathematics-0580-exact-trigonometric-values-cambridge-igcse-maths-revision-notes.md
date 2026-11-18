@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "exact-trigonometric-values-cambridge-igcse-maths"
 description: "Revision notes for Cambridge IGCSE Maths 0580 E6.3 (Extended only): exact sin, cos and tan values, special-triangle side ratios, surd traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

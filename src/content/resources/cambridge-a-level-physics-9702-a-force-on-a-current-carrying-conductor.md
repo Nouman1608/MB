@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-force-on-a-current-carrying-conductor"
 description: "A focused guide to 20.2 Force on a current-carrying conductor in Cambridge A Level Physics 9702: F = BIL sin θ, Fleming's left-hand rule and defining the tesla."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

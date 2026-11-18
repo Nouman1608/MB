@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "aggregate-demand-and-supply-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) guide to using AD and AS together: the model's assumptions, single and simultaneous shifts, and why curve slopes matter."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The specification has one topic, The interaction of aggregate demand and supply; this page takes its assumptions and combined-shift analysis, and the macroeconomic equilibrium page takes equilibrium and the effects on indicators, so please confirm the split."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The specification has one topic, The interaction of aggregate demand and supply; this page takes its assumptions and combined-shift analysis, and the macroeconomic equilibrium page takes equilibrium and the effects on indicators, so please confirm the split."
 publishedDate: 2026-11-18
 featured: false
 ---

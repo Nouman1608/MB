@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-electronegativity-and-bonding"
 description: "Cambridge 9701 subtopic 3.1 in depth: defining electronegativity, explaining period and group trends with Pauling data, and predicting ionic or covalent bonds."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

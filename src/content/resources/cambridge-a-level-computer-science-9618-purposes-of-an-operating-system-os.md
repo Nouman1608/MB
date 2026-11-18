@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "purposes-of-an-operating-system-os"
 description: "Study guide to 9618 section 16.1: resource use, hiding hardware, process states, scheduling traces, the kernel and interrupts, paging, page replacement and thrashing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

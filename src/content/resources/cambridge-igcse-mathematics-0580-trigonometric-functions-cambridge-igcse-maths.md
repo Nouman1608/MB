@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "trigonometric-functions-cambridge-igcse-maths"
 description: "Study guide to 0580 subtopic E6.4: reading the sine, cosine and tangent graphs, related angles, and solving trig equations that need rearranging first."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

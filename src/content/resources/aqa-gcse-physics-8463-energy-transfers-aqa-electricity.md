@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "energy-transfers-aqa-electricity"
 description: "AQA GCSE Physics 4.2.4 in depth: P = VI, P = I²R, E = Pt, E = QV, energy transfers in appliances, power ratings and why the National Grid is efficient."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

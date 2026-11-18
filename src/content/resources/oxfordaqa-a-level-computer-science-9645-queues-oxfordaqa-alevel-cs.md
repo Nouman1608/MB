@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "queues-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.2.3 in depth: FIFO queues, shuffling and circular array queues, empty and full tests, traces and Python and C# libraries."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "sustainable-management-of-hot-arid-and-semi-arid-environments-9696"
 description: "Revision notes for Cambridge 9696 Geography 10.4: dryland management problems, the Thar Desert case study, johads, canals, dune stabilisation and fossil water."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

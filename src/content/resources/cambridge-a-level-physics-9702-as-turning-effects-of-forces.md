@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-turning-effects-of-forces"
 description: "Subtopic 4.1 of Cambridge AS Physics 9702 in depth: centre of gravity, the moment of a force at an angle, couples and the torque of a couple."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

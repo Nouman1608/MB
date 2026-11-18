@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "applying-number-edexcel-igcse-maths"
 description: "13 original Edexcel IGCSE Maths 4MA1 questions on applying number (section 1.10): metric units, time, overtime, hire charges, materials and currency."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

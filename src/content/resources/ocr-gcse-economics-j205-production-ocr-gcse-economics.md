@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-ocr-gcse-economics"
 description: "OCR GCSE Economics J205 section 2.6 in depth: producers, productivity, cost, revenue, profit and loss calculations, effects on supply, and economies of scale."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

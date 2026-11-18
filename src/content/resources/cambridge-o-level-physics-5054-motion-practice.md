@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "motion"
 description: "Original 5054 subtopic 1.2 questions on speed, average speed, acceleration, distance–time and speed–time graphs and free fall, with full worked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

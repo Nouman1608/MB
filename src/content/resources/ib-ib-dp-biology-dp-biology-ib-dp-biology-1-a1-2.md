@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a1-2"
 description: "IB DP Biology A1.2 Nucleic acids in depth: nucleotide carbons, backbones, base pairing in use, base-composition data and the HL evidence for DNA."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "angles-ocr-gcse-maths"
 description: "Condensed OCR GCSE Maths J560 8.03 revision notes: angle facts, parallel lines, polygon angle sums, regular polygons, reasons and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

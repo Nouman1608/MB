@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "clinical-psychology-and-mental-health-7182"
 description: "Condensed AQA A-level Psychology 7182 clinical psychology notes: definitions, characteristics, explanations and treatments of phobias, depression and OCD, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

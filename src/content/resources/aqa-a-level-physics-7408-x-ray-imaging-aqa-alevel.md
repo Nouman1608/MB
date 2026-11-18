@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "x-ray-imaging-aqa-alevel"
 description: "AQA A-level Physics 7408 section 3.10.5 in depth: X-ray production and spectra, controlling the beam, detectors and enhancement, attenuation and CT scans."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

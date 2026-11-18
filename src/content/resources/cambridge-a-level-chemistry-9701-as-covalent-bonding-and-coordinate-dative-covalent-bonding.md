@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-covalent-bonding-and-coordinate-dative-covalent-bonding"
 description: "Covalent and coordinate bonds, expanded octets, σ and π bonds, sp, sp² and sp³ hybridisation, and bond energy and length, for Cambridge 9701 subtopic 3.4."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

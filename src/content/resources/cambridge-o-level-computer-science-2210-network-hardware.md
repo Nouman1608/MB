@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "network-hardware-2210"
 description: "Sub-topic 3.4 of Cambridge O Level Computer Science 2210: network interface cards, MAC address structure, static and dynamic IP, IPv4, IPv6 and routers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

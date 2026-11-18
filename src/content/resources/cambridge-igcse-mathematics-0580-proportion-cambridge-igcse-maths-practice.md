@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "proportion-cambridge-igcse-maths"
 description: "Fourteen original Extended questions with marked answers on 0580 subtopic 2.8: direct and inverse proportion, finding k, unknowns and the effect of a change."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

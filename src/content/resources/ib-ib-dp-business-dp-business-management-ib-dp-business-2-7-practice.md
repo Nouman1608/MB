@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-2-7"
 description: "Original IB DP Business Management practice questions on 2.7 Industrial/employee relations (HL only): conflict, approaches and resolution, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

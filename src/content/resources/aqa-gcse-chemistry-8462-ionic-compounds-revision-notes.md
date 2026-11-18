@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ionic-compounds-8462"
 description: "Revision notes for AQA GCSE Chemistry 8462 section 4.2.1.3: giant ionic lattices, sodium chloride models, diagram limits, empirical formulae and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

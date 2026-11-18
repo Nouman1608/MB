@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "pakistan-21st-century-9236"
 description: "Recall notes for OxfordAQA 9236 on 2008-18: Zardari's presidency, the 18th, 19th and 20th Amendments, the 2013 elections, PML-N policies and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

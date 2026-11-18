@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "production-of-ammonia-and-sulfuric-acid-9202"
 description: "OxfordAQA IGCSE Chemistry (9202) section 3.8.3 in depth: the Haber process loop, fertilisers, the contact process and linked mass and gas calculations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-marketing-mix-aqa-gcse-business"
 description: "Revision notes for AQA GCSE Business 3.5.4: pricing methods and factors, product life cycle, Boston Matrix, promotion, place and the integrated mix."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

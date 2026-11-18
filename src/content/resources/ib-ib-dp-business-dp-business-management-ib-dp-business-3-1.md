@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-business-3-1"
 description: "Study guide to IB DP Business Management 3.1 Introduction to finance: the role of finance, and capital versus revenue expenditure with borderline cases."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

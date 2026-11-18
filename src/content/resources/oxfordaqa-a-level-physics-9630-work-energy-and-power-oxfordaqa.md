@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "work-energy-and-power-oxfordaqa"
 description: "OxfordAQA 9630 subtopic 3.2.7 in depth: W = Fs cos θ, areas under force–displacement graphs, P = Fv and top speed, and efficiency calculations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

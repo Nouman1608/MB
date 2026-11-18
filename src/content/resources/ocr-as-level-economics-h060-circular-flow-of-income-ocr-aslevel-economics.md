@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "circular-flow-of-income-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) guide to the circular flow of income: injections and leakages, equilibrium income and the three ways to measure it."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

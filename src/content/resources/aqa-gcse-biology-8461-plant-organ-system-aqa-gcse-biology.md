@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "plant-organ-system-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 study guide to 4.2.3.2 Plant organ system: root hair cells, xylem, phloem, transpiration, translocation, stomata and rate calculations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

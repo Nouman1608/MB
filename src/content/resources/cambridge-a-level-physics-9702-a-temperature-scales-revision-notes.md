@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-temperature-scales"
 description: "Revision notes for Cambridge A Level Physics 9702 14.2 Temperature scales: thermometric properties, empirical and thermodynamic scales, conversions, self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "international-trade-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) international trade revision notes: reasons for trade, changing patterns, gains and costs by economy type, and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

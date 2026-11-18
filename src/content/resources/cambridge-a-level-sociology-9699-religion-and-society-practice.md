@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "religion-and-society-9699"
 description: "Twelve original Cambridge 9699 questions on section 11.1: defining religion, measuring belief, religiosity by group, other belief systems, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "introduction-to-the-circular-flow-of-income-cambridge-alevel-economics"
 description: "Study guide to 9708 section 4.2: the circular flow in closed and open economies, classifying injections and leakages, and how equilibrium and disequilibrium arise."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

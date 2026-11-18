@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "logic-gates-and-logic-circuits"
 description: "Study guide to Cambridge 9618 section 3.2: the six gates, and moving between problem statements, logic expressions, truth tables and circuits."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "accounting-concepts"
 description: "Revision notes for O Level Accounting 7707 section 7.1: the ten concepts, the procedures they explain, how to spot each one, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

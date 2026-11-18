@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-energy-conservation"
 description: "Condensed recall for Cambridge AS Physics 9702 subtopic 5.1: signed work done, energy accounts, efficiency, P = W/t and P = Fv, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

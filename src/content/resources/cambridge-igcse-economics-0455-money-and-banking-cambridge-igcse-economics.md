@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "money-and-banking-cambridge-igcse-economics"
 description: "Study guide to money and banking for Cambridge IGCSE Economics 0455 3.1: testing items as money, its functions, and why central and commercial banks matter."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

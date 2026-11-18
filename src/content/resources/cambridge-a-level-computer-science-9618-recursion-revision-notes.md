@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "recursion"
 description: "Condensed 9618 notes on recursion: base and general cases, tracing winding and unwinding, stack frames, compiler translation and when recursion helps."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

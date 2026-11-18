@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "hydrogen-oxygen-fuel-cells"
 description: "How a hydrogen–oxygen fuel cell produces electricity with water as its only product, and how to weigh it against a petrol engine, for Cambridge IGCSE 0620."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

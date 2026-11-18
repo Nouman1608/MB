@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "sequences-cambridge-igcse-maths"
 description: "Study guide to 0580 subtopic 2.7 Sequences: term-to-term rules, linking sequences, and nth terms of linear, quadratic, cubic and exponential sequences."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "motion-along-a-straight-line-oxfordaqa"
 description: "Twelve original OxfordAQA 9630 questions on 3.2.3: motion graphs, signed SUVAT, vertical throws, a catch-up problem and Required practical 1 data, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

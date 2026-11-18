@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-poisson-distribution-cambridge-alevel-maths"
 description: "Cambridge 9709 Paper 6 subtopic 6.1 in depth: Poisson probabilities, rescaling the mean, modelling conditions, and the Poisson and normal approximations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "option-1a-aspects-of-tragedy-7717"
 description: "How tragic structure and sub-plots work in the Aspects of Tragedy texts for AQA English Literature B (7717), with a model paragraph on Lear and Gloucester."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

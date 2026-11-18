@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-the-diffraction-grating"
 description: "A focused guide to 8.4 The diffraction grating in Cambridge AS Physics 9702: d sin θ = nλ, highest order, white-light spectra and measuring a wavelength."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "properties-of-metals"
 description: "Comparing the physical properties of metals and non-metals, and the reactions of metals with dilute acids, water, steam and oxygen, for Cambridge IGCSE 0620."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

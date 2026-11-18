@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "circuit-switching-packet-switching"
 description: "Study guide to 9618 section 14.2: how circuit and packet switching work, their benefits and drawbacks, router functions and how messages cross the internet."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

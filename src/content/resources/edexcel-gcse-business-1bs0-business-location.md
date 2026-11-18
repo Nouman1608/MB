@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "business-location-1bs0"
 description: "Study guide to location factors, the nature of the business activity and the internet's impact on location decisions for Edexcel GCSE Business 1BS0, item 1.4.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

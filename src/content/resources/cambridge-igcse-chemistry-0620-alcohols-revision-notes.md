@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "alcohols"
 description: "Condensed recall for 0620 subtopic 11.6: fermentation and steam-ethene conditions with reasons, ethanol combustion, uses and comparing the two methods."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

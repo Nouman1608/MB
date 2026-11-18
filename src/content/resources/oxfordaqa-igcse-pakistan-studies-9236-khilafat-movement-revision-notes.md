@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "pakistan-movement-9236"
 description: "Recall notes on the Khilafat movement for OxfordAQA 9236: timeline, leaders and aims, Non-Cooperation, the Hijrat, Chauri Chaura, effects and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

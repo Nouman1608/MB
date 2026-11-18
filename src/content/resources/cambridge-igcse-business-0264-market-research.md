@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "market-research-0264"
 description: "Study guide to section 3.2 of Cambridge IGCSE Business 0264: choosing primary and secondary research, sampling, question design, accuracy and analysing data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

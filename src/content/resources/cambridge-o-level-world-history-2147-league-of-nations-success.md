@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "league-of-nations-success-2147"
 description: "O Level History 2147 key question 2.2: the League's structure and membership, four 1920s disputes, its humanitarian work, and Manchuria and Abyssinia."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

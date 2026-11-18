@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "giant-covalent-structures"
 description: "Original 0620 practice on diamond, graphite and silicon(IV) oxide: structures, properties, uses and comparisons, with full mark-scheme-style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "nuclear-fission-and-fusion-aqa-gcse"
 description: "AQA GCSE Physics 8463 section 4.4.4 in depth: the steps of fission, reading fission equations, chain reaction diagrams, and fusion compared with fission."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

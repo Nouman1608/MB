@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "human-resource-objectives-9725"
 description: "Original practice questions with full answers on HR objectives, workforce planning, recruitment, selection, contracts and training for OxfordAQA 9725 Business."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

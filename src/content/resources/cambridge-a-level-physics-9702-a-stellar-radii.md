@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-stellar-radii"
 description: "A focused guide to 25.2 Stellar radii in Cambridge A Level Physics 9702: Wien's displacement law, the Stefan-Boltzmann law and estimating the radius of a star."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "database-management-systems-dbms"
 description: "Condensed notes on DBMS features, data dictionary, schema, access rights, backups and DBMS tools for Cambridge AS Computer Science 9618 8.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

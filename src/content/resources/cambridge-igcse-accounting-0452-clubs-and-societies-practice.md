@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "clubs-and-societies"
 description: "Twelve original Cambridge IGCSE Accounting 0452 questions on club accounts: receipts and payments, subscriptions, refreshments and income and expenditure."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

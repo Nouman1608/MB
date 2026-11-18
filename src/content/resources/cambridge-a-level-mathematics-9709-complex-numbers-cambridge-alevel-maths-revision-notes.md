@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "complex-numbers-cambridge-alevel-maths"
 description: "Revision notes for Cambridge 9709 Paper 3 section 3.9 Complex numbers: arithmetic, modulus and argument, conjugate roots, square roots, loci and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "different-stakeholder-and-business-objectives-ocr-alevel-business"
 description: "Study guide to the OCR H431 content on business objectives: classifying levels, SMART targets with figures, sector, communication, change and recommending aims."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "effects-of-temperature-and-ph"
 description: "Condensed recall for 5090 subtopic 5.2: measuring enzyme reactions, controlling variables, calculating rate, and explaining temperature and pH effects."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

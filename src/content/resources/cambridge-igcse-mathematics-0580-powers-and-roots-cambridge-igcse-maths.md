@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "powers-and-roots-cambridge-igcse-maths"
 description: "Study guide to 0580 subtopic 1.3 Powers and roots: the squares and cubes to recall, roots of decimals and fractions, estimating roots and calculator work."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

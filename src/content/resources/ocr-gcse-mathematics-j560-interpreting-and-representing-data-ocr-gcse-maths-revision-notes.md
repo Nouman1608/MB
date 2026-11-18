@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "interpreting-and-representing-data-ocr-gcse-maths"
 description: "Condensed OCR GCSE Maths J560 revision notes on 12.02: charts by data type, two-way tables, time series, cumulative frequency and histograms, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "specialised-cells-tissues-and-organs"
 description: "Condensed recall for 5090 subtopic 1.2: specialised cells and their features, levels of organisation, magnification with scale bars and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

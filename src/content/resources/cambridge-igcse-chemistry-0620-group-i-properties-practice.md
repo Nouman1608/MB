@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "group-i-properties"
 description: "Original practice questions with mark-scheme answers on Cambridge IGCSE Chemistry 0620 subtopic 8.2: alkali metal trends, water reactions and predictions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

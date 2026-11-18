@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "inverse-operations-ocr-gcse-maths"
 description: "OCR GCSE Maths J560 section 1.04 in depth: using inverse operations to simplify and check sums, solve number puzzles, find missing numbers and digits."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

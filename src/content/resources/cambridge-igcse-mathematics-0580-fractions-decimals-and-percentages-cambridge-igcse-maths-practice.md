@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "fractions-decimals-and-percentages-cambridge-igcse-maths"
 description: "Fourteen original 0580 questions converting fractions, decimals and percentages, with Extended recurring decimal proofs and mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

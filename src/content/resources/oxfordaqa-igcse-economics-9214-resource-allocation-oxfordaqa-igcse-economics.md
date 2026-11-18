@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "resource-allocation-oxfordaqa-igcse-economics"
 description: "Study guide to 9214 section 3.1.2 Resource allocation: how markets allocate scarce resources, factor and product markets, sectors and specialisation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

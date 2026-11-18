@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "statistical-charts-and-diagrams-4024"
 description: "Original practice questions with worked answers on 4024 section 9.4: pie chart angles, composite and dual bar charts, pictograms and frequency distributions."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

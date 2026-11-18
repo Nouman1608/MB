@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "making-measurements-and-analysing-data-ocr-alevel"
 description: "Original practice questions with answers on errors, precision, accuracy, combining uncertainties, gradients and percentage difference for OCR A Level Physics."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

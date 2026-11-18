@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "alteration-of-the-base-sequence-can-alter-protein-structure-aqa-alevel-biology"
 description: "How gene mutations arise and how each type changes the encoded polypeptide and protein shape, for AQA A-level Biology 7402 section 3.8.1, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

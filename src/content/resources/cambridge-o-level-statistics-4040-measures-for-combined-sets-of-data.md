@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "measures-for-combined-sets-of-data-4040"
 description: "Combined mean and standard deviation for 4040: three or more groups, summary totals, a missing standard deviation, corrections and which measures combine."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

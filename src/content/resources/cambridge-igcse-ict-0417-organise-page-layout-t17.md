@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "organise-page-layout-t17-0417"
 description: "Page size, orientation, margins, columns, column width and spacing, and setting and removing breaks for Cambridge IGCSE ICT 0417, with worked calculations."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

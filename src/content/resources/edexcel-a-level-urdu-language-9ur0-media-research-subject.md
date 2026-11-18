@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "media-research-subject-9ur0"
 description: "9UR0 research subject 2.3: freedom of expression, print media and politics, and social media awareness, with a one-area research plan and Section C technique."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

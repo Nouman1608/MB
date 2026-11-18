@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "gravitational-fields-aqa-alevel"
 description: "Original AQA A-Level Physics 7408 gravitational fields practice: g, potential, area under graphs, orbits, satellite energy and escape velocity, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

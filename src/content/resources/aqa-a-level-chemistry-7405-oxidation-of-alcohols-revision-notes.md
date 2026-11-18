@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "oxidation-of-alcohols-7405"
 description: "Condensed AQA 7405 notes on oxidising alcohols: classification, [O] equations, distillation or reflux, Tollens' and Fehling's tests, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "the-heart-cambridge-alevel-biology"
 description: "Study guide to 9700 sub-topic 8.3: heart structure, wall thickness, pressure changes and valves in the cardiac cycle, and the SAN, AVN and Purkyne tissue."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

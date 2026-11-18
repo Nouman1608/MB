@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "powers-and-roots-edexcel-igcse-maths"
 description: "Edexcel IGCSE Maths 4MA1 section 1.4 revision notes: squares and cubes, index laws, prime factors, HCF and LCM, surds and fractional powers, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-biology-2-b2-3"
 description: "IB DP Biology B2.3 Cell specialization in depth: differentiation, stem cells and potency, cell size, surface area to volume, and HL specialized cells."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The IB guide could not be downloaded when this page was written; please confirm whether B2.3.7 is SL and HL (as shown here) or additional higher level, as the broader B2.2-B2.3 page states."
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB guide could not be downloaded when this page was written; please confirm whether B2.3.7 is SL and HL (as shown here) or additional higher level, as the broader B2.2-B2.3 page states."
 publishedDate: 2026-11-18
 featured: false
 ---

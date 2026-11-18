@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "coral-reefs-9696"
 description: "Study guide to Cambridge 9696 Geography 8.3: coral biology, reef zones, the three reef types and their origins, growth conditions, threats and management."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

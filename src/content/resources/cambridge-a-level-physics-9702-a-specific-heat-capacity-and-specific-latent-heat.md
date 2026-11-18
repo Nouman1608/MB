@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "a-specific-heat-capacity-and-specific-latent-heat"
 description: "A focused guide to 14.3 in Cambridge A Level Physics 9702: defining and using c and L, fusion versus vaporisation, heating curves and multi-stage examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "water-sources-and-supply-5014-2027"
 description: "Study guide to 5014 sub-topic 3.1: water cycle stores and transfers, fresh water sources, treatment, global access, desalination and multipurpose dams."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

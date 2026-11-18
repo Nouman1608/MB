@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "direct-data-entry-and-associated-devices-0417"
 description: "Original scenario questions with mark-scheme answers on magnetic stripe, chip and PIN, RFID, OMR, OCR, bar code and QR readers for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

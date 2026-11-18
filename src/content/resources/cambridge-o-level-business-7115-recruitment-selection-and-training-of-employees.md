@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "recruitment-selection-and-training-of-employees"
 description: "Cambridge O Level Business 7115 guide to 2.3: recruitment stages, choosing candidates, training types, redundancy and legal controls on employment."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

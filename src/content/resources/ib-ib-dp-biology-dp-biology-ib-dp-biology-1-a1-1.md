@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-biology-1-a1-1"
 description: "IB DP Biology A1.1 Water in depth: hydrogen bonding, cohesion and adhesion, water as solvent and transport medium, aquatic habitats and the HL Goldilocks zone."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

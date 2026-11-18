@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "landscape-natural-resources-9236"
 description: "Thirteen original questions on the causes and impacts of tropical cyclones in Pakistan for OxfordAQA 9236, from recall to 9-mark judgements, with mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the dates, places and impacts given for the 1999, Yemyin (2007) and Biparjoy (2023) cyclone examples against Pakistan Meteorological Department or NDMA records."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the dates, places and impacts given for the 1999, Yemyin (2007) and Biparjoy (2023) cyclone examples against Pakistan Meteorological Department or NDMA records."
 publishedDate: 2026-11-18
 featured: false
 ---

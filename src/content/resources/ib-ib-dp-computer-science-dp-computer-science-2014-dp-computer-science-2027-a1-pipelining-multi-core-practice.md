@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-a-1"
 description: "Twelve original HL questions on pipelining and multi-core processors for IB DP Computer Science A.1: diagrams, cycle counts, hazards and evaluation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Written from the public subject brief and the A1.1.6 label (pipelining in multi-core architectures, HL only); please check the questions and mark allocations against the full DP Computer Science guide."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Written from the public subject brief and the A1.1.6 label (pipelining in multi-core architectures, HL only); please check the questions and mark allocations against the full DP Computer Science guide."
 publishedDate: 2026-11-18
 featured: false
 ---

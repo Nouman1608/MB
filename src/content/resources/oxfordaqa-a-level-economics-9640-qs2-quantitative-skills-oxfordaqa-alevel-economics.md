@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "qs2-quantitative-skills-oxfordaqa-alevel-economics"
 description: "OxfordAQA 9640 QS2 study guide: percentage changes in rates and ratios, per capita and average growth, revenue changes and contributions to GDP growth."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

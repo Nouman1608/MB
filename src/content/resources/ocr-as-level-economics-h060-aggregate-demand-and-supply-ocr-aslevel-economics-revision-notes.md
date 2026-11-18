@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "aggregate-demand-and-supply-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) revision notes on combining AD and AS: model assumptions, single and simultaneous shifts, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The specification has one topic, The interaction of aggregate demand and supply; these notes take its assumptions and combined-shift analysis, leaving equilibrium and indicator effects to the macroeconomic equilibrium notes, so please confirm the split."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The specification has one topic, The interaction of aggregate demand and supply; these notes take its assumptions and combined-shift analysis, leaving equilibrium and indicator effects to the macroeconomic equilibrium notes, so please confirm the split."
 publishedDate: 2026-11-18
 featured: false
 ---

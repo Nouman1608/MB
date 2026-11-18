@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "selection-cambridge-igcse-biology"
 description: "Study guide for Cambridge IGCSE Biology 0610 sub-topic 18.3: natural selection, selective breeding in new contexts, adaptation and antibiotic resistance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

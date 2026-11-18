@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "elements-compounds-and-mixtures"
 description: "Twelve original questions with full answers on telling elements, compounds and mixtures apart from formulas, particle diagrams and experimental evidence."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "differences-in-economic-development-between-countries-cambridge-igcse-economics"
 description: "Condensed revision notes on causes and impacts of development differences between countries, with chains, key terms, traps and a self-test, for IGCSE 0455."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

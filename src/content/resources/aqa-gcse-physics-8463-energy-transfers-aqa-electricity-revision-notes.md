@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "energy-transfers-aqa-electricity"
 description: "Condensed AQA GCSE Physics 4.2.4 notes: power and energy equations, choosing between them, appliance transfers, the National Grid, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

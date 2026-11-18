@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "as-periodicity-of-physical-properties-of-the-elements-in-period-3"
 description: "Condensed notes on Period 3 atomic and ionic radius, melting point and conductivity, with key terms, traps and a self-test, for Cambridge 9701 subtopic 9.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---

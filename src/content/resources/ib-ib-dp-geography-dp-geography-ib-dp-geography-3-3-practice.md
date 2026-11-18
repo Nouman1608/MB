@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-3-3"
 description: "Original practice questions with answers on mining, desert farming, tourism management and the cost of remoteness in extreme environments, IB DP Geography."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The IB Geography guide could not be opened while this page was written, so a teacher should check the questions against the guide's wording for sub-topic 3.3."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The IB Geography guide could not be opened while this page was written, so a teacher should check the questions against the guide's wording for sub-topic 3.3."
 publishedDate: 2026-11-18
 featured: false
 ---

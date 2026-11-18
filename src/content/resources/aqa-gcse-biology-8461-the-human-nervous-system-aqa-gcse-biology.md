@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-human-nervous-system-aqa-gcse-biology"
 description: "AQA GCSE Biology 8461 section 4.5.2 in depth: reflex arcs, required practical 7, the brain, the eye and control of body temperature, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-18
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-18
 featured: false
 ---
