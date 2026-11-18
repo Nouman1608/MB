@@ -251,3 +251,18 @@ What the records say, so nothing is overstated:
 - Each verification is tied to the page's content hash. Any later edit makes it stale (lifecycle case V).
 
 Sections A, B and I above describe the position before this addendum.
+
+## N. Addendum, 18 November 2026: the other two verifications and the 9990 update (D-498, D-499)
+
+The owner reported that Farhat ul Ain Sehgal approved the Atomic Structure practice set and that Kanwal Aslam verified the Psychology practice set. Both are recorded as `approved-after-corrections`, on the live page of 18 Nov, with the evidence marked as reported by the owner (the teachers' own notes were not seen).
+
+| Page | State now |
+|---|---|
+| 0620 study guide | VERIFIED_APPROVED (D-497) |
+| AQA mole guide | VERIFIED_APPROVED (D-497) |
+| Atomic structure practice | VERIFIED_APPROVED (D-499) |
+| Psychology practice | REVISION_REQUIRED: documented verification, but score 89 (QA-0010) |
+
+The 9990 data were brought up to date (D-498): the 2027 syllabus is the current record, 2028-2030 is a known future series with its differences listed in `docs/content-review/syllabus-changes-9990-2027-2030.md`. The 101 Psychology pages were not edited, so the Psychology verification still matches the live text.
+
+Sections A, B, I and M above describe earlier positions.

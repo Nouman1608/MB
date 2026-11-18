@@ -48,9 +48,9 @@ export const DECK_CAMBRIDGE_A_LEVEL_PSYCHOLOGY: FlashcardDeck = {
   // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'kanwal-aslam', reviewedOn: '2026-11-16' },
   syllabusCode: '9990',
-  syllabusSeries: '2024-2026',
+  syllabusSeries: '2027',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-08',
+  updated: '2026-11-18',
   cards: [
     // 1 The core studies
     ...sub(CORE, 'biological-approach-9990', '', [

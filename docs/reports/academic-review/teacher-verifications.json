@@ -58,6 +58,48 @@
       "approval": "approved-after-corrections",
       "evidence": "Statement by the reviewer (Nouman Ahmed, project owner and credited Chemistry teacher) in the project working session of 18 Nov 2026: check completed on the 18th, scope \"all of it\", and that he holds his own record. He did not say where that record is kept. A copy of every finding and of the full before/after text of the page is saved for him in the owner's OneDrive: Papers 2025/resource check/Review-Records/2026-11-18-academic-qa-pilot-changes.md (SHA-256 c0f8cc1285150d5bbd1c2768dfc91adedb2dab03d44c252df1ba5c3a9223358e). Recorded at his instruction by the AI system that made the corrections.",
       "contentSha256": "113b37cdbccfc19a28f36591bf63dda0144d3a24ce0b5aad2e449d681c3f6b43"
+    },
+    {
+      "resource": "atomic-structure-practice",
+      "reviewer": "farhat-ul-ain-sehgal",
+      "board": "cambridge",
+      "syllabusCode": "0620",
+      "syllabusSeries": "2026-2028",
+      "date": "2026-11-18",
+      "scope": "whole page",
+      "sources": [
+        "https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf",
+        "https://www.cambridgeinternational.org/Images/697326-2026-2028-syllabus.pdf"
+      ],
+      "findings": "No error was reported to the AI system. The open findings of the latest AI-assisted assessment stay open in docs/reports/academic-qa/assessments.json unless a later assessment closes them; this check does not withdraw them.",
+      "corrections": [
+        "f9b6b484f",
+        "acbafb035"
+      ],
+      "approval": "approved-after-corrections",
+      "evidence": "Reported by the project owner (Nouman Ahmed) in the project working session of 18 Nov 2026: Farhat ul Ain Sehgal checked the page as it is live (corrected on 17 Nov 2026, D-496), finished on 18 Nov 2026, and approved it. The owner holds the record. The AI system that recorded this did not see Farhat ul Ain Sehgal's own note and did not ask for it, at the owner's instruction (\"that is enough\"). If a dated note from the teacher is later produced, cite it here by replacing this record with a new one.",
+      "contentSha256": "7904a9229b86514d70155614265bbe1907a04a378690311c72e558931797d76e"
+    },
+    {
+      "resource": "a-level-psychology-clinical-psychology-practice",
+      "reviewer": "kanwal-aslam",
+      "board": "cambridge",
+      "syllabusCode": "9990",
+      "syllabusSeries": "2024-2026",
+      "date": "2026-11-18",
+      "scope": "whole page",
+      "sources": [
+        "https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf",
+        "https://www.cambridgeinternational.org/Images/721433-2027-syllabus.pdf"
+      ],
+      "findings": "No error was reported to the AI system. The open findings of the latest AI-assisted assessment stay open in docs/reports/academic-qa/assessments.json unless a later assessment closes them; this check does not withdraw them.",
+      "corrections": [
+        "f9b6b484f",
+        "acbafb035"
+      ],
+      "approval": "approved-after-corrections",
+      "evidence": "Reported by the project owner (Nouman Ahmed) in the project working session of 18 Nov 2026: Kanwal Aslam checked the page as it is live (corrected on 17 Nov 2026, D-496), finished on 18 Nov 2026, and approved it. The owner holds the record. The AI system that recorded this did not see Kanwal Aslam's own note and did not ask for it, at the owner's instruction (\"that is enough\"). If a dated note from the teacher is later produced, cite it here by replacing this record with a new one.",
+      "contentSha256": "843ab38d07bbab98076410bc315f98f2bbd52d516a4ea910e4fe424c8415f30f"
     }
   ]
 }
