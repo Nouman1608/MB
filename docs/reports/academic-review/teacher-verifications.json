@@ -87,40 +87,17 @@
       "syllabusCode": "9990",
       "syllabusSeries": "2024-2026",
       "date": "2026-11-18",
-      "scope": "whole page",
+      "scope": "answer 4(b) mark guidance, re-check after the D-503 edit (rest of the page unchanged since the D-502 check)",
       "sources": [
         "https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf",
-        "https://www.cambridgeinternational.org/Images/721433-2027-syllabus.pdf"
+        "https://www.cambridgeinternational.org/Images/721433-2027-syllabus.pdf",
+        "https://www.cambridgeinternational.org/Images/634528-2024-specimen-mark-scheme-paper-3.pdf"
       ],
-      "findings": "No error was reported to the AI system. The open findings of the latest AI-assisted assessment stay open in docs/reports/academic-qa/assessments.json unless a later assessment closes them; this check does not withdraw them.",
-      "corrections": [
-        "f9b6b484f",
-        "acbafb035"
-      ],
-      "approval": "approved-after-corrections",
-      "evidence": "Reported by the project owner (Nouman Ahmed) in the project working session of 18 Nov 2026: Kanwal Aslam checked the page as it is live (corrected on 17 Nov 2026, D-496), finished on 18 Nov 2026, and approved it. The owner holds the record. The AI system that recorded this did not see Kanwal Aslam's own note and did not ask for it, at the owner's instruction (\"that is enough\"). If a dated note from the teacher is later produced, cite it here by replacing this record with a new one.",
-      "contentSha256": "843ab38d07bbab98076410bc315f98f2bbd52d516a4ea910e4fe424c8415f30f"
-    },
-    {
-      "resource": "a-level-psychology-clinical-psychology-practice",
-      "reviewer": "kanwal-aslam",
-      "board": "cambridge",
-      "syllabusCode": "9990",
-      "syllabusSeries": "2024-2026",
-      "date": "2026-11-18",
-      "scope": "whole page (re-check after the D-500 edit: 4(b) level guide added, 1(b) reworded)",
-      "sources": [
-        "https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf",
-        "https://www.cambridgeinternational.org/Images/721433-2027-syllabus.pdf"
-      ],
-      "findings": "No error was reported to the AI system. The open findings of the latest AI-assisted assessment (QA-0011) stay open in docs/reports/academic-qa/assessments.json unless a later assessment closes them; this check does not withdraw them.",
-      "corrections": [
-        "f9b6b484f",
-        "acbafb035"
-      ],
+      "findings": "No error was reported to the AI system. Open findings of the latest AI-assisted assessment stay open in docs/reports/academic-qa/assessments.json unless a later assessment closes them; this check does not withdraw them.",
+      "corrections": [],
       "approval": "approved",
-      "evidence": "Reported by the project owner (Nouman Ahmed) in the project working session of 18 Nov 2026, after PR 202 merged: \"the teacher have rechecked everything again. mark all as reviewed\". Kanwal Aslam, the teacher who verified the earlier version (record above), re-checked the page as changed by D-500. The AI system that recorded this did not see the teacher's own note. If a dated note from the teacher is later produced, cite it here by replacing this record with a new one.",
-      "contentSha256": "eb9f2a2e56b8a9b09cd997b29af3a2deece6c00004dac9b9fe2cf598d95230ef"
+      "evidence": "Reported by the project owner (Nouman Ahmed) in the project working session of 18 Nov 2026, after PR 204 merged: \"the teacher has rechecked 4(b), mark it reviewed\". Kanwal Aslam re-checked the replaced 4(b) mark guidance (a summary of Cambridge Table B); the rest of the page is byte-identical to the version she approved under D-502. The AI system that recorded this did not see the teacher's own note. If a dated note from the teacher is later produced, cite it here by replacing this record with a new one.",
+      "contentSha256": "6ba404edf47d64d2a2bea90560bb8cc024f25942a699cfeefeb7436967ad2f1c"
     }
   ]
 }
