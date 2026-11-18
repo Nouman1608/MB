@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-geography-extreme-environments"
     subtopic: "ib-dp-geography-3-2"
-description: "IB DP Geography Extreme environments 3.2 in depth: how glaciers move, smaller erosion features, ice wedges and thermokarst, desert water landforms and equifinality."
+description: "IB DP Geography Extreme environments 3.2 in depth: glacier movement, small erosion features, ice wedges, thermokarst, desert water landforms, equifinality."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

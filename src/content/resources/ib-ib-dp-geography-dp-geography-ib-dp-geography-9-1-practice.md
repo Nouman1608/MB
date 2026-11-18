@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-geography-global-climate"
     subtopic: "ib-dp-geography-9-1"
-description: "Original practice questions with full answers on the energy balance, greenhouse gases, feedback loops, ocean heat transfer and national emissions for IB DP Geography."
+description: "Original practice questions with full answers on the energy balance, greenhouse gases, feedbacks, ocean heat transfer and emissions for IB DP Geography."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
@@ -81,7 +81,7 @@ Related: [9.1 study guide](/resources/ib-ib-dp-geography-dp-geography-ib-dp-geog
 
 **1.** Shortwave radiation is the high-energy, short-wavelength radiation emitted by the very hot Sun, arriving as incoming solar energy [1]; longwave radiation is the infrared energy emitted by the much cooler Earth's surface and atmosphere, leaving towards space [1]. **[2]**
 
-**2.** Any two from: variations in solar output, for example over the sunspot cycle [1]; volcanic aerosols causing global dimming [1]; changes in the Earth's orbit and tilt [1]; natural changes in albedo, such as snow cover [1]. **[2]**
+**2.** Variations in solar output, for example over the sunspot cycle [1]; volcanic aerosols causing global dimming [1]. (Also credit changes in the Earth's orbit and tilt, or natural changes in albedo such as snow cover.) **[2]**
 
 **3.** The eruption injects sulphur dioxide into the stratosphere, where it forms sulphate aerosols that reflect incoming sunlight [1]. The aerosols gradually fall out of the atmosphere, so the reflection, and the cooling, fades within one to two years [1]. **[2]**
 

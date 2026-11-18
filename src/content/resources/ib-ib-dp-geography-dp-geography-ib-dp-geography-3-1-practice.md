@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-geography-extreme-environments"
     subtopic: "ib-dp-geography-3-1"
-description: "Original practice questions with full answers on inaccessibility, altitude and heat limits, populations and classifying extreme environments for IB DP Geography."
+description: "Original practice questions with answers on inaccessibility, altitude and heat limits, populations and classifying extreme environments for IB DP Geography."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

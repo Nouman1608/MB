@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-geography-global-climate"
     subtopic: "ib-dp-geography-9-2"
-description: "Original practice questions with full answers on sea-level rise, relative sea-level change, glacier retreat, cascading impacts and uneven consequences for IB DP Geography."
+description: "Original practice questions with full answers on sea-level rise, glacier retreat, cascading impacts and uneven consequences for IB DP Geography 9.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

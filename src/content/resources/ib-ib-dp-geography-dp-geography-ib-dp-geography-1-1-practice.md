@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-geography-freshwater"
     subtopic: "ib-dp-geography-1-1"
-description: "Original practice questions with full answers on drainage basin systems, soil water budgets, discharge, channel efficiency and river landforms for IB DP Geography."
+description: "Original practice questions with answers on drainage basin systems, soil water budgets, discharge, channel efficiency and river landforms for IB DP Geography."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
