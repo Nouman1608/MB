@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "indices-and-surds-ocr-gcse-maths"
     subtopic: "standard-form-ocr-gcse-maths"
-description: "Condensed OCR GCSE Maths J560 revision notes on 3.02: converting and ordering standard form, and the four operations with and without a calculator, with a self-test."
+description: "Condensed OCR GCSE Maths J560 revision notes on 3.02: converting and ordering standard form, and calculating with and without a calculator."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

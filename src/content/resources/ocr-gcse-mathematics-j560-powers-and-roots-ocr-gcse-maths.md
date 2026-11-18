@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "indices-and-surds-ocr-gcse-maths"
     subtopic: "powers-and-roots-ocr-gcse-maths"
-description: "OCR GCSE Maths J560 section 3.01 in depth: index notation, negative and zero indices, roots, the laws of indices with numbers, fractional powers and estimation."
+description: "OCR GCSE Maths J560 section 3.01 in depth: index notation, negative and zero indices, roots, index laws with numbers, fractional powers and estimation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

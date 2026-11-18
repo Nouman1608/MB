@@ -147,7 +147,7 @@ Revise first with the [3.02 study guide](/resources/ocr-gcse-mathematics-j560-st
 
 **(b)** 80 000 [1]; **8 × 10⁴** [1] **[4]**
 
-*Examiner insight:* A display such as 2.4E16 must be written as 2.4 × 10¹⁶.
+*Examiner insight:* A calculator display that shows 2.4 with a small 16 beside it must be written as 2.4 × 10¹⁶.
 
 **11. (a)** 6.7 × 3 = 20.1 and 10⁻⁷ × 10⁹ = 10² [1]; 20.1 × 10² = **2.01 × 10³ kg** [1]
 
