@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "accounting-procedures"
     subtopic: "accounting-for-depreciation-and-disposal-of-non-current-assets"
-description: "Study guide to 7707 section 4.2: depreciation methods and choices, time-based charges, journal entries, the three ledger accounts and profit or loss on disposal."
+description: "Study guide to 7707 section 4.2: depreciation methods and choices, part-year charges, journal entries, the three ledger accounts and disposal profit or loss."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

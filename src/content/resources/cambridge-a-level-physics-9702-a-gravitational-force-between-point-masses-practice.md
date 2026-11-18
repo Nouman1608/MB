@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-gravitational-fields"
     subtopic: "a-gravitational-force-between-point-masses"
-description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 13.2: Newton's law of gravitation, orbit analysis and geostationary orbits."
+description: "Original practice questions with mark-scheme answers on Cambridge A Level Physics 9702 13.2: Newton's law of gravitation, orbits and geostationary orbits."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

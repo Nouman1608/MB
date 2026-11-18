@@ -104,6 +104,15 @@ Dr  Asset (cost)                      Cr  Provision for depreciation
 
 Profit or loss on disposal = proceeds − net book value.
 
+**Five-line disposal check.** A printer cost ,400; accumulated
+depreciation ,750; sold for 00 cash.
+
+1. Net book value = ,400 − ,750 = 50.
+2. Proceeds 00 are less than 50: loss of 50.
+3. Disposal account debit: printer ,400.
+4. Disposal account credits: provision ,750, cash 00, loss 50.
+5. Both sides total ,400, so the account closes.
+
 ## Statement presentation
 
 - Statement of profit or loss: depreciation charge and loss on disposal as

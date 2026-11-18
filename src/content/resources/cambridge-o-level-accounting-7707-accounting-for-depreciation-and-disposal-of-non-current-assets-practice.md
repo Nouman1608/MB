@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "accounting-procedures"
     subtopic: "accounting-for-depreciation-and-disposal-of-non-current-assets"
-description: "Original practice questions with full answers on depreciation methods, ledger accounts and disposals of non-current assets for Cambridge O Level Accounting 7707."
+description: "Original practice questions with full answers on depreciation methods, ledger accounts and asset disposals for Cambridge O Level Accounting 7707."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
