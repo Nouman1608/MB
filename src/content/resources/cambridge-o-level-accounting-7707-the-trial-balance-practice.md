@@ -161,7 +161,7 @@ Closing inventory at 31 March 2028 was $5,900.
 
 **(d)** Debit [1] **[4]**
 
-**3.** Any two purposes, each identified [1] and explained [1]. It checks the arithmetical accuracy of the double entry [1]: every debit should have an equal credit, so equal totals suggest the postings are arithmetically correct [1]. It shows that errors exist [1], so they can be found and corrected before statements are prepared [1]. It provides a summary of balances [1] from which the statement of profit or loss and statement of financial position are prepared [1]. **[4]**
+**3.** It checks the arithmetical accuracy of the double entry [1]: every debit should have an equal credit, so equal totals suggest the postings are arithmetically correct [1]. It provides a summary of balances [1] from which the statement of profit or loss and statement of financial position are prepared [1]. Also accept, as either purpose: it shows that errors exist, so they can be found and corrected before the statements are prepared. **[4]**
 
 **4.** Some errors involve an equal debit and an equal credit [1], for example an error of omission or of principle, so the totals still agree even though accounts are wrong [1]. **[2]**
 
@@ -250,7 +250,7 @@ Heading [1]; the five items in the correct columns [2]; both totals $81,790 [1].
 
 **(d)** It affects the trial balance [1]: two debits and no credit make the debit total higher by $830 × 2 = $1,660 [1]. **[7]**
 
-**11.** **(a)** Any two named errors, each named [1] with a correct example [1]. Error of omission [1]: a credit purchase of $700 is never recorded, so neither account includes it [1]. Error of principle [1]: $2,000 spent on a vehicle repair is debited to the motor vehicles account, so profit and assets are both overstated [1]. Other acceptable answers: commission, complete reversal, original entry, compensating, each with a correct example.
+**11.** **(a)** Two named errors, each with a correct example. Error of omission [1]: a credit purchase of $700 is never recorded, so neither account includes it [1]. Error of principle [1]: $2,000 spent on a vehicle repair is debited to the motor vehicles account, so profit and assets are both overstated [1]. Other acceptable answers: commission, complete reversal, original entry, compensating, each with a correct example.
 
 **(b)** Commission is an entry in the wrong account of the **same** class, such as the wrong customer's account [1]. Principle is an entry in the wrong **class** of account, such as an expense recorded as a non-current asset [1]. **[6]**
 

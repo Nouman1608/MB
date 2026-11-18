@@ -79,6 +79,13 @@ pd is a maximum when the coil sides cut field lines fastest (coil plane parallel
 - Period = 1 ÷ frequency.
 - Doubling the speed of rotation halves the period and increases the peak pd.
 
+## Answer templates
+
+- **How a current is induced:** "The magnet moves relative to the coil, so field lines are cut and a pd is induced. The circuit is complete, so a current flows."
+- **Why the reading is bigger:** "The field lines are cut faster (or there are more turns, or the field is stronger), so a larger pd is induced."
+- **Why the reading reverses:** "The direction of motion (or the polarity) has been reversed, so the induced pd reverses."
+- **Why it is zero:** "There is no relative movement, so no field lines are cut."
+
 ## Exam traps
 
 - A stationary magnet inside a coil induces nothing.

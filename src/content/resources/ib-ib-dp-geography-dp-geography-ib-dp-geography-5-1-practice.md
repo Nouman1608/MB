@@ -127,7 +127,7 @@ Related: [5.1 study guide](/resources/ib-ib-dp-geography-dp-geography-ib-dp-geog
 - **Counter-argument, income:** without rising disposable income, technology would not translate into more travel or paid leisure [1].
 - **Counter-argument, time:** laws on working hours and paid holidays created the time for leisure [1].
 - **Counter-argument, demographics:** ageing and a growing middle class in emerging economies reshape demand [1].
-- **Shocks:** the COVID-19 pandemic changed patterns abruptly, regardless of technology [1].
+- **Shocks:** the coronavirus pandemic of 2020 changed patterns abruptly, regardless of technology [1].
 - **Uneven effects:** access to technology depends on income and connection, so its influence varies between groups [1].
 - **Judgement:** for example, technology has been the most visible influence on how leisure is organised, but income and time determine whether people can take part, so it is one factor among several [1]. **[10]**
 
