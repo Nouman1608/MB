@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
     subtopic: "expressions-and-formulae-edexcel-igcse-maths"
-description: "Condensed 4MA1 section 2.3 notes: notation rules, substitution, writing and deriving formulae, and changing the subject, including Higher cases, with a self-test."
+description: "Condensed 4MA1 section 2.3 notes: notation rules, substitution, writing and deriving formulae, and changing the subject, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

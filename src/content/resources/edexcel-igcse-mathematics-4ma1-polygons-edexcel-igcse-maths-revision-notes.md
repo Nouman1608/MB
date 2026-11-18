@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-and-trigonometry-edexcel-igcse-maths"
     subtopic: "polygons-edexcel-igcse-maths"
-description: "Condensed 4MA1 section 4.2 notes: polygon names, quadrilateral properties, interior and exterior angles, regular polygons and congruence, with a 12-question self-test."
+description: "Condensed 4MA1 section 4.2 notes: polygon names, quadrilateral properties, interior and exterior angles, regular polygons and congruence, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

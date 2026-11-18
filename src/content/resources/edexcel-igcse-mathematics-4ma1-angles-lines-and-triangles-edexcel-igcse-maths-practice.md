@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-and-trigonometry-edexcel-igcse-maths"
     subtopic: "angles-lines-and-triangles-edexcel-igcse-maths"
-description: "Thirteen original 4MA1 section 4.1 questions on angle types, parallel lines, triangle sums, exterior angles and isosceles triangles, with reasons in the answers."
+description: "Thirteen original 4MA1 section 4.1 questions on angle types, parallel lines, triangle sums, exterior angles and isosceles triangles, with reasoned answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

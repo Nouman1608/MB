@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-and-trigonometry-edexcel-igcse-maths"
     subtopic: "angles-lines-and-triangles-edexcel-igcse-maths"
-description: "Condensed 4MA1 section 4.1 notes: angle types, line and parallel-line angle facts, triangle sums, exterior angles, special triangles and exam reasons, with a self-test."
+description: "Condensed 4MA1 section 4.1 notes: angle types, line and parallel-line facts, triangle sums, exterior angles, special triangles and reasons, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

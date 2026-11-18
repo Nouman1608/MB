@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "sequences-functions-and-graphs-edexcel-igcse-maths"
     subtopic: "sequences-edexcel-igcse-maths"
-description: "Study guide to 4MA1 section 3.1: term-to-term and position-to-term rules, nth terms of arithmetic sequences, and Higher a, d and the sum of an arithmetic series."
+description: "Study guide to 4MA1 section 3.1: term-to-term and position-to-term rules, arithmetic nth terms, and Higher a, d and the sum of an arithmetic series."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

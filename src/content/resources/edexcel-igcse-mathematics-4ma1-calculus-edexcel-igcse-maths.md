@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "sequences-functions-and-graphs-edexcel-igcse-maths"
     subtopic: "calculus-edexcel-igcse-maths"
-description: "Study guide to Higher tier 4MA1 section 3.4: rates of change, differentiating integer powers, gradients, tangents, turning points, kinematics and maximum problems."
+description: "Study guide to Higher tier 4MA1 section 3.4: rates of change, differentiating integer powers, gradients, tangents, turning points, kinematics and maxima."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
