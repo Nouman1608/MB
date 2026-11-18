@@ -77,6 +77,19 @@ I_max = √(P_rated / R)       V_max = √(P_rated × R)
 - Useful output (for example, rate of gain of gravitational potential energy) = input power − losses.
 - Efficiency = useful output ÷ total input.
 
+## Condensed worked example
+
+A 2.0 kW heater runs from 250 V for 5.0 minutes.
+
+```
+I = P / V = 2000 / 250 = 8.0 A
+R = V / I = 250 / 8.0 = 31 Ω       (or V² / P = 62 500 / 2000 = 31.25 Ω)
+W = Pt = 2000 × 300 = 6.0 × 10⁵ J
+Q = It = 8.0 × 300 = 2400 C         (check: W / V = 6.0 × 10⁵ / 250 = 2400 C)
+```
+
+Two independent routes to the same charge are a quick way to catch an arithmetic slip under exam conditions.
+
 ## Key terms
 
 | Term | Meaning |

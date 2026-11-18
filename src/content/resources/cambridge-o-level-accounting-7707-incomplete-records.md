@@ -108,6 +108,14 @@ Both methods give $18,350. If they did not agree, a figure has been missed: ofte
 
 The statement of financial position is the closing statement of affairs, with the capital section set out in full: opening capital 21,250 + capital introduced 2,000 + profit 18,350 - drawings 18,600 = $23,000.
 
+## Other missing figures: a cash summary
+
+Some traders spend cash takings before banking them, so the bank statement does not show every sale or payment. A cash summary finds the gap. Joy's opening cash was $300 and closing cash $450. Cash takings were $52,000; she banked $41,500, paid wages of $6,200 in cash and paid $900 of cash expenses. The rest was taken for private use:
+
+Drawings = 300 + 52,000 - 41,500 - 6,200 - 900 - 450 = **$3,250**.
+
+The full $52,000 is cash sales in the statement of profit or loss, not the $41,500 banked.
+
 ## Mark-up, margin and inventory turnover
 
 When records are lost, these relationships fill the gaps.

@@ -58,6 +58,12 @@ The mole (amount of substance) is added in Topic 15. The kilogram is the only ba
 
 **Two routes, one answer:** V = W/Q and V = P/I both give kg m² s⁻³ A⁻¹. Use a second route to check.
 
+**Later AS topics use the same method:**
+
+- Young modulus = stress ÷ strain; strain has no unit, so the unit is Pa = kg m⁻¹ s⁻².
+- Electric field strength = F/Q = kg m s⁻² ÷ A s = kg m s⁻³ A⁻¹ (the same as V m⁻¹).
+- Resistivity = RA/L = Ω m = kg m³ s⁻³ A⁻².
+
 ## Homogeneity
 
 - **Homogeneous**: every term (each side, and each added or subtracted term) has the same base units.

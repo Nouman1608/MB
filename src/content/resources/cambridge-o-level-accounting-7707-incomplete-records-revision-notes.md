@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "preparation-of-financial-statements"
     subtopic: "incomplete-records"
-description: "Revision notes for O Level Accounting 7707 section 5.6: statements of affairs, the capital formula, missing-figure workings, mark-up and margin, and a self-test."
+description: "Revision notes for O Level Accounting 7707 section 5.6: statements of affairs, the capital formula, missing figures, mark-up and margin, and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -56,6 +56,8 @@ These notes condense section **5.6 Incomplete records** of the Cambridge O Level
 
 **Depreciation (no additions or disposals) = opening book value - closing book value.**
 
+**Missing cash drawings = opening cash + cash takings - cash banked - cash payments - closing cash.** Use the full cash takings, not the amount banked, as cash sales.
+
 ## Mark-up and margin
 
 | Mark-up | Margin | Revenue : cost : gross profit |
@@ -79,6 +81,7 @@ These notes condense section **5.6 Incomplete records** of the Cambridge O Level
 - Goods taken by the owner are drawings and are deducted from purchases.
 - Mark-up is on cost; margin is on revenue. Write the 100-based ratio before calculating.
 - Check the profit from the capital method against the rebuilt statement of profit or loss when both are possible.
+- A missing figure in a cash or bank summary is usually drawings; check the question before assuming it.
 - Questions are set on sole traders only, so there is no share capital or appropriation account.
 
 ## Self-test
