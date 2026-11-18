@@ -271,6 +271,6 @@ Sections A, B, I and M above describe earlier positions.
 
 Finding F1 (the 10-mark evaluate answer gave only the top level) is fixed: answer 4(b) now gives a four-level guide with mark ranges, labelled as Marlbridge's own and based on the syllabus description of AO3. Answer 1(b) was reworded so it makes no claim about the form or timing of the symptom assessments.
 
-This edit came after the D-499 teacher verification, which is tied to the previous page hash. The verification therefore no longer covers the live text, and the page is no longer VERIFIED_APPROVED. QA-0011 (AI-assisted, append-only, reassessing QA-0010) records F1 as fixed and opens two findings: F9 (the level guide has not been compared with an official 9990 mark scheme) and F10 (the new text has not been teacher-checked). A teacher check of answer 4(b) would renew the verification.
+This edit came after the D-499 teacher verification, which is tied to the previous page hash, so the verification no longer covers the live text. The page stays REVISION_REQUIRED: QA-0011 scores it 89.5 (worked answers up from 16.5 to 17.5, editorial completeness down from 4.5 to 4 because the verification is now stale). QA-0011 (AI-assisted, append-only, reassessing QA-0010) records F1 as fixed and opens two findings: F9 (the level guide has not been compared with an official 9990 mark scheme) and F10 (the new text has not been teacher-checked). A teacher check of answer 4(b) would renew the verification.
 
 Sections A, B, I, M and N above describe earlier positions.
