@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-group-17"
     subtopic: "as-the-chemical-properties-of-the-halogen-elements-and-the-hydrogen-halides"
-description: "Halogens as oxidising agents, displacement, reactions with hydrogen and the thermal stability of HCl, HBr and HI by bond energy, for Cambridge 9701 subtopic 11.2."
+description: "Halogens as oxidising agents, displacement, reactions with hydrogen and HX thermal stability by bond energy, for Cambridge 9701 subtopic 11.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

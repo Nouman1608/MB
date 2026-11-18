@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-group-17"
     subtopic: "as-the-chemical-properties-of-the-halogen-elements-and-the-hydrogen-halides"
-description: "Twelve original questions with answers on halogen oxidising power, displacement, reactions with hydrogen and HX thermal stability, for Cambridge 9701 subtopic 11.2."
+description: "Original questions with answers on halogen oxidising power, displacement, reactions with hydrogen and HX stability, for Cambridge 9701 subtopic 11.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -83,6 +83,12 @@ Bond energies (kJ mol⁻¹): H–H 436; Cl–Cl 242; Br–Br 193; I–I 151; H�
 
 **(b)** Predict, with a reason, how the thermal stability of hydrogen fluoride compares with that of hydrogen chloride. **[2]**
 
+**13.** Astatine is below iodine in Group 17.
+
+**(a)** Predict whether iodine would displace astatine from a solution of astatide ions, At⁻. Write an ionic equation if a reaction occurs. **[2]**
+
+**(b)** Predict, with a reason, how the thermal stability of hydrogen astatide, HAt, compares with that of HI. **[2]**
+
 ---
 
 ## Answers
@@ -124,6 +130,10 @@ Bond energies (kJ mol⁻¹): H–H 436; Cl–Cl 242; Br–Br 193; I–I 151; H�
 **12. (a)** Thermal decomposition involves breaking the H–X bond, so the explanation must be based on bond strength (bond energy), not polarity [1].
 
 **(b)** HF is more thermally stable than HCl [1], because the H–F bond is shorter and stronger (higher bond energy) than H–Cl, so more energy is needed to break it [1].
+
+**13. (a)** Yes: iodine is a stronger oxidising agent than astatine, so it would oxidise astatide ions [1]. I₂ + 2At⁻ → 2I⁻ + At₂ [1].
+
+**(b)** HAt is predicted to be less thermally stable than HI [1], because the astatine atom is larger, so the H–At bond is longer and weaker and less energy is needed to break it [1].
 
 ---
 

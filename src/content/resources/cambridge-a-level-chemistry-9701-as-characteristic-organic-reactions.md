@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-an-introduction-to-as-level-organic-chemistry"
     subtopic: "as-characteristic-organic-reactions"
-description: "Organic reaction vocabulary, bond fission, radicals, nucleophiles and electrophiles, [O] and [H], and naming mechanism types, for Cambridge 9701 AS subtopic 13.2."
+description: "Organic reaction terms, bond fission, radicals, nucleophiles and electrophiles, [O] and [H], and the four mechanism types, for Cambridge 9701 13.2."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-group-17"
     subtopic: "as-some-reactions-of-the-halide-ions"
-description: "Halide ions as reducing agents, the silver nitrate and ammonia test, and balanced equations for halides with concentrated sulfuric acid, for Cambridge 9701 11.3."
+description: "Halide ions as reducing agents, the silver nitrate and ammonia test, and balanced equations with concentrated sulfuric acid, for Cambridge 9701 11.3."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

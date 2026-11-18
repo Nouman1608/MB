@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-group-17"
     subtopic: "as-the-reactions-of-chlorine"
-description: "Chlorine with cold and hot sodium hydroxide as disproportionation, balanced by oxidation numbers, and HOCl and ClO- in water purification, for Cambridge 9701 11.4."
+description: "Chlorine with cold and hot NaOH as disproportionation, balanced by oxidation numbers, and HOCl and ClO- in water purification, for Cambridge 9701 11.4."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
