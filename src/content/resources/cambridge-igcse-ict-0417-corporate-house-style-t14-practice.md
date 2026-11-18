@@ -116,7 +116,7 @@ Explain how a consistent house style across its letters, website and emails coul
 
 **(b)** Create an external stylesheet holding the fonts, colours and layout rules (1); attach the same stylesheet to every page, so a change to the stylesheet updates all pages (1). **[2]**
 
-**8. (a)** Any three, 1 mark each: headings are black and not dark green (1); body text is fully justified and not left aligned (1); logo is aligned left and not right (1). **[3]**
+**8. (a)** 1 mark each: headings are black and not dark green (1); body text is fully justified and not left aligned (1); logo is aligned left and not right (1). **[3]**
 
 **(b)** Editing the style changes every heading at once (1), so no heading is missed and all are guaranteed to be the same colour (1). **[2]**
 

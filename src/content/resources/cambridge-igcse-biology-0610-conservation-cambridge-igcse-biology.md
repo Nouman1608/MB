@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "human-influences-on-ecosystems-cambridge-igcse-biology"
     subtopic: "conservation-cambridge-igcse-biology"
-description: "Study guide for Cambridge IGCSE Biology 0610 sub-topic 20.4: sustainable resources, endangered species, conserving forests and fish, AI, IVF and genetic variation."
+description: "Study guide for Cambridge IGCSE Biology 0610 sub-topic 20.4: sustainable resources, endangered species, forest and fish conservation, AI, IVF and variation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -22,7 +22,7 @@ featured: false
 
 This guide goes deeper into one sub-topic of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028: **20.4 Conservation**, the last part of topic 20, Human influences on ecosystems. It has nine learning outcomes. Outcomes 1 to 4 are Core. Outcomes 5 to 9, on conserving forests and fish stocks, reasons for conservation, AI and IVF, and the risks of low genetic variation, are Supplement content, so they are **Extended only** (Papers 2 and 4).
 
-The [human influences on ecosystems study guide](/resources/igcse-biology-0610-human-influences-on-ecosystems/) lists each method. This page explains **why** each method works, applies the ideas to data and builds full answers for the "explain" outcomes. Afterwards, use the [conservation revision notes](/resources/cambridge-igcse-biology-0610-conservation-cambridge-igcse-biology-revision-notes/) and the [conservation practice questions](/resources/cambridge-igcse-biology-0610-conservation-cambridge-igcse-biology-practice/).
+The [human influences on ecosystems study guide](/resources/igcse-biology-0610-human-influences-on-ecosystems/) lists each method. This page explains why each method works and builds full answers for the "explain" outcomes. Afterwards, use the [conservation revision notes](/resources/cambridge-igcse-biology-0610-conservation-cambridge-igcse-biology-revision-notes/) and the [conservation practice questions](/resources/cambridge-igcse-biology-0610-conservation-cambridge-igcse-biology-practice/).
 
 ## What sub-topic 20.4 asks you to do
 
@@ -49,8 +49,6 @@ A fish stock contains 400 000 tonnes of fish. Each year, reproduction and growth
 
 - If boats catch **50 000 tonnes** a year, less is removed than is produced: the stock is **sustainable** and can grow slightly.
 - If boats catch **90 000 tonnes** a year, 30 000 tonnes more is removed than is produced each year. The stock falls; after one year it is 400 000 − 30 000 = **370 000 tonnes**, and it keeps shrinking. The catch is **not sustainable**.
-
-Fewer adults then means fewer offspring, so the decline speeds up.
 
 ## 20.4.3 Why organisms become endangered or extinct
 
@@ -100,8 +98,6 @@ In an answer, always add the consequence: "so the death rate becomes higher than
 
 **Answer:** During a closed season no fishing is allowed in the breeding season (1), so adult fish can reproduce and replace those caught (1). A larger mesh size allows young, small fish to escape through the net (1), so they survive to become adults and breed (1).
 
-**Why it scores:** each method is followed by what it protects and how that keeps the stock replacing itself.
-
 ## 20.4.7 Reasons for conservation programmes (Extended only)
 
 The syllabus limits these to four:
@@ -112,8 +108,6 @@ The syllabus limits these to four:
 4. **Maintaining ecosystem functions:** **nutrient cycling** (decomposers and plants recycle carbon and nitrogen) and **resource provision**, including **food**, **drugs** (many medicines were first found in plants), **fuel** (wood) and **genes** (wild relatives of crops may carry alleles for disease resistance useful in breeding).
 
 ## 20.4.8 AI and IVF in captive breeding (Extended only)
-
-Animals in captivity often do not breed readily, and zoos have few individuals of each species.
 
 - **Artificial insemination (AI):** sperm is collected from a male and inserted into a female's reproductive tract. Sperm can be frozen and transported between zoos or countries, so the animals themselves need not be moved, and a male in one country can father offspring in another.
 - **In vitro fertilisation (IVF):** eggs are collected from a female and fertilised by sperm in a dish in a laboratory. The resulting embryos are placed in the uterus of a female to develop; this can be a different female from the one that produced the eggs.
@@ -138,7 +132,6 @@ A wild cat species falls to 40 individuals, all descended from a few survivors. 
 
 - Defining a sustainable resource as one that "will not run out" without "produced as rapidly as it is removed".
 - Listing causes of endangerment without saying how each reduces the population.
-- Describing captive breeding without release into the wild or protection of the habitat.
 - (Extended) Saying a larger mesh "catches fewer fish" without explaining that young fish escape to breed.
 - (Extended) Mixing up AI (sperm placed in a female) and IVF (fertilisation outside the body).
 - (Extended) Writing that a small population "cannot reproduce". It can, but its lack of variation makes it vulnerable.
@@ -147,7 +140,6 @@ A wild cat species falls to 40 individuals, all descended from a few survivors. 
 
 - **Describe** a sustainable resource: both parts of the syllabus wording.
 - **Explain** endangerment: cause → effect on births or deaths.
-- **Describe** conservation methods: what is done and what it protects.
 - **Explain** forest and fish methods (Extended): method → how removal stays below production.
 - **Explain** risks of small populations (Extended): low variation → fewer helpful alleles → extinction risk.
 
@@ -162,9 +154,6 @@ A wild cat species falls to 40 individuals, all descended from a few survivors. 
 
 **Are AI and IVF Core or Extended in Cambridge IGCSE Biology 0610?**
 Describing the use of AI and IVF in captive breeding programmes is Supplement content, so it is Extended only. Captive breeding programmes themselves are Core.
-
-**Which resources does the syllabus say can be managed sustainably?**
-Forests and fish stocks.
 
 **Why is low genetic variation a risk to an endangered species?**
 With fewer alleles in the population, it is less likely that any individuals can survive a new disease or a change in the environment, so the species is more likely to become extinct.

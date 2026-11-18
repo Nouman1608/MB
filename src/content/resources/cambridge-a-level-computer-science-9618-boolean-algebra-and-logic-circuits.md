@@ -160,7 +160,7 @@ F = B̄.D̄ + B.D. All eight 1s are covered by two terms, compared with eight fo
 ## Exam technique
 
 - **Complete** a truth table: include every intermediate column, then check the output against one row by hand.
-- **Simplify**: name the law at each step; examiners give marks for each valid step.
+- **Simplify**: name the law at each step, so that each valid step can earn method marks.
 - **Draw** a circuit from an expression: one gate per operator, inputs on the left, output on the right; use multi-input gates where the expression allows.
 - **Explain** a flip-flop: describe the effect of each input pair and the role of feedback, and say it stores one bit.
 - **Solve** with a K-map: draw the map with labelled rows and columns, ring the groups, then write one term per group.

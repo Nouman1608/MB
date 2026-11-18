@@ -31,7 +31,7 @@ A network has many links joined at switching points (exchanges or routers). **Sw
 
 ## Circuit switching in three phases
 
-Describe circuit switching as three phases. Examiners reward the sequence, not just the phrase "dedicated path".
+Describe circuit switching as three phases: the sequence carries more marks than the phrase "dedicated path" on its own.
 
 1. **Circuit establishment.** Before any data is sent, a complete end-to-end path is set up through the switching nodes. Each node on the path reserves capacity for this communication only.
 2. **Data transfer.** All data travels along the same reserved path, so it arrives in the order it was sent, with a constant delay. No other communication can use the reserved capacity.
@@ -144,4 +144,4 @@ Each method earns one mark for the choice and one for a reason tied to the scena
 - **Justify** (choice of method): name the method, then the feature that matters for this use, then why it matters here.
 - **State** the function of a router: reads destination address, uses routing table, forwards to next hop. Three short points.
 
-When a question gives a scenario, use its words in every point. "The video call" or "the downloaded file" in your sentence shows the examiner you are applying the idea, not reciting it.
+When a question gives a scenario, use its words in every point. "The video call" or "the downloaded file" in your sentence shows you are applying the idea, not reciting it.

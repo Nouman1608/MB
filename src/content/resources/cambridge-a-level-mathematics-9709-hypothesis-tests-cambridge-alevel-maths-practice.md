@@ -62,7 +62,7 @@ Related: the [6.5 Hypothesis tests study guide](/resources/cambridge-a-level-mat
 
 **(a)** Justify the use of a normal approximation.
 
-**(b)** Use a normal approximation to test the researcher's suspicion at the 5% significance level. **[6]**
+**(b)** Use a normal approximation to test the researcher's suspicion at the 5% significance level. **[7]**
 
 **8.** Emergency calls to a small fire station arrive at random at a mean rate of 3 per day. Over a 10-day period of hot weather there were 41 calls. Use a suitable approximation to test, at the 1% significance level, whether the mean rate has increased. **[6]**
 
