@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atoms-molecules-and-stoichiometry"
     subtopic: "as-reacting-masses-and-volumes-of-solutions-and-gases"
-description: "Cambridge 9701 subtopic 2.4 in depth: reacting masses and yield, gas volumes in hydrocarbon combustion, titrations, limiting reagents and deducing stoichiometry."
+description: "Cambridge 9701 subtopic 2.4 in depth: reacting masses and yield, gas volumes in hydrocarbon combustion, titrations, limiting reagents and deducing equations."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

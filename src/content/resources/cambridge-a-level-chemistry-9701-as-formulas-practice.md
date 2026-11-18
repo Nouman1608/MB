@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atoms-molecules-and-stoichiometry"
     subtopic: "as-formulas"
-description: "Twelve original Cambridge 9701 subtopic 2.3 questions on ionic formulas, ionic equations, state symbols, empirical and molecular formulas and hydrates, with answers."
+description: "Twelve original Cambridge 9701 subtopic 2.3 questions on ionic formulas, ionic equations, empirical and molecular formulas and hydrates, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

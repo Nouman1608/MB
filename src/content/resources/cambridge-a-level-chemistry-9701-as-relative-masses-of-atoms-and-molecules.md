@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atoms-molecules-and-stoichiometry"
     subtopic: "as-relative-masses-of-atoms-and-molecules"
-description: "Cambridge 9701 subtopic 2.1 in depth: the unified atomic mass unit, precise definitions of the four relative masses, and weighted-mean and formula mass worked examples."
+description: "Cambridge 9701 subtopic 2.1 in depth: the unified atomic mass unit, the four relative mass definitions, and weighted-mean and formula mass worked examples."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

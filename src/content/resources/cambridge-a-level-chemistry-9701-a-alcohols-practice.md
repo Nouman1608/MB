@@ -90,6 +90,12 @@ Relative atomic masses: H = 1.0, C = 12.0, O = 16.0, Cl = 35.5. Molar gas volume
 
 **12.** Explain why ethanoyl chloride is attacked by the oxygen atom of ethanol, referring to the structure of both molecules. **[3]**
 
+**13.** A student wants to make methyl benzoate, C₆H₅COOCH₃, by the acyl chloride method.
+
+**(a)** Name the two reagents the student should use. **[2]**
+
+**(b)** Write the equation for the reaction. **[1]**
+
 ---
 
 ## Answers
@@ -135,6 +141,10 @@ Relative atomic masses: H = 1.0, C = 12.0, O = 16.0, Cl = 35.5. Molar gas volume
 **(c)** The fumes are HCl, formed from the H of the –OH group and the Cl of the acyl chloride, so H must have contained an –OH group [1].
 
 **12.** In ethanoyl chloride the carbonyl carbon is bonded to two electronegative atoms, O and Cl, so it carries a large δ+ charge [1]. The oxygen atom of ethanol has lone pairs of electrons [1], so it acts as a nucleophile, donating a lone pair to the δ+ carbonyl carbon (the C=O π bond accepting the pair) [1].
+
+**13. (a)** Benzoyl chloride, C₆H₅COCl [1], and methanol, CH₃OH [1]. The C=O side of the ester comes from the acyl chloride and the side on the single-bonded O comes from the alcohol.
+
+**(b)** C₆H₅COCl + CH₃OH → C₆H₅COOCH₃ + HCl [1].
 
 ---
 

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-biology-continuity-change"
     subtopic: "ib-dp-biology-4-d1-3"
-description: "IB DP Biology D1.3 revision notes: mutation types, SNPs, named examples, mutagens, randomness, HL knockout, CRISPR-Cas9 and conserved sequences, with a self-test."
+description: "IB DP Biology D1.3 revision notes: mutation types, SNPs, examples, mutagens, randomness, HL knockout, CRISPR-Cas9 and conserved sequences, with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

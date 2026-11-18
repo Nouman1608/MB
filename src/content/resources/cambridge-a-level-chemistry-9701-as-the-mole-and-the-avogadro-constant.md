@@ -108,6 +108,14 @@ How many electrons are in 3.40 g of ammonia, NH₃ (Mr 17.0)?
 
 This kind of question tests whether you can apply the mole to any particle, as the definition says.
 
+### Worked example: elements made of molecules
+
+Sulfur exists as S₈ molecules (Mr 256.8) and white phosphorus as P₄ molecules (Mr 124.0). How many molecules and atoms are in 8.02 g of sulfur?
+
+1. Moles of molecules: n(S₈) = 8.02 ÷ 256.8 = 0.0312 mol, giving 0.0312 × 6.022 × 10²³ = **1.88 × 10²² molecules**.
+2. Moles of atoms: 8 × 0.0312 = 0.250 mol, giving **1.50 × 10²³ atoms**.
+3. Check: 8.02 g ÷ 32.1 g mol⁻¹ (Ar of S) also gives 0.250 mol of atoms. The number of atoms in a mass of an element does not depend on how the atoms are grouped.
+
 ## Comparing amounts
 
 Equal masses of different substances do not contain equal numbers of particles; equal amounts in moles do.

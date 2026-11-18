@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-hydroxy-compounds"
     subtopic: "a-phenol"
-description: "Original exam-style questions on making phenol, its reactions and acidity, and predicting products for substituted phenols and naphthol, with answers, for Cambridge 9701."
+description: "Original exam-style questions on making phenol, its reactions and acidity, and predicting products for substituted phenols and naphthol, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -98,7 +98,7 @@ Relative atomic masses: H = 1.0, C = 12.0, N = 14.0, O = 16.0, Br = 79.9. Molar 
 
 **3.** The orange bromine water is decolourised [1]; a white precipitate forms [1].
 
-**4.** Ethanol < water < phenol [1].
+**4.** Ethanol < water < phenol [1]. Phenol is the strongest because its anion is stabilised by delocalisation; ethanol is the weakest because its ethyl group destabilises the ethoxide ion.
 
 **5.** 2-, 4- and 6-positions [1].
 

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atomic-structure"
     subtopic: "as-electrons-energy-levels-and-atomic-orbitals"
-description: "Cambridge 9701 subtopic 1.3 in depth: writing configurations for atoms and ions to krypton, chromium and copper, electrons in boxes, orbital shapes and radicals."
+description: "Cambridge 9701 subtopic 1.3 in depth: configurations of atoms and ions to krypton, chromium and copper, electrons in boxes, orbital shapes and radicals."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

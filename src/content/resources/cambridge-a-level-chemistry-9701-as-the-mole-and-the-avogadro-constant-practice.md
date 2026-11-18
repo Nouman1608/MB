@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atoms-molecules-and-stoichiometry"
     subtopic: "as-the-mole-and-the-avogadro-constant"
-description: "Twelve original Cambridge 9701 subtopic 2.2 questions on defining the mole and counting molecules, atoms, ions and electrons with the Avogadro constant, with answers."
+description: "Twelve original Cambridge 9701 subtopic 2.2 questions on the mole and on counting molecules, atoms, ions and electrons with the Avogadro constant, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

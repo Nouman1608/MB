@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atomic-structure"
     subtopic: "as-particles-in-the-atom-and-atomic-radius"
-description: "Twelve original Cambridge 9701 subtopic 1.1 questions on particle counts, beam deflection, atomic radius and isoelectronic ions, with worked mark-scheme answers."
+description: "Twelve original Cambridge 9701 subtopic 1.1 questions on particle counts, beam deflection, atomic radius and isoelectronic ions, with worked answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atomic-structure"
     subtopic: "as-electrons-energy-levels-and-atomic-orbitals"
-description: "Twelve original Cambridge 9701 subtopic 1.3 questions on configurations of atoms and ions, Cr and Cu, electrons in boxes, orbital shapes and radicals, with answers."
+description: "Twelve original Cambridge 9701 subtopic 1.3 questions on configurations of atoms and ions, Cr and Cu, electrons in boxes and orbital shapes, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

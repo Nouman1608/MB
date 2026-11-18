@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atoms-molecules-and-stoichiometry"
     subtopic: "as-formulas"
-description: "Revision notes for Cambridge 9701 subtopic 2.3: ion formulas to recall, ionic formulas, ionic equations and state symbols, empirical, molecular and hydrate formulas."
+description: "Revision notes for Cambridge 9701 subtopic 2.3: ions to recall, ionic formulas, ionic equations, state symbols, and empirical, molecular and hydrate formulas."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

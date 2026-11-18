@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-chemical-bonding"
     subtopic: "as-electronegativity-and-bonding"
-description: "Cambridge 9701 subtopic 3.1 in depth: defining electronegativity, explaining period and group trends with Pauling data, and predicting ionic or covalent bonding."
+description: "Cambridge 9701 subtopic 3.1 in depth: defining electronegativity, explaining period and group trends with Pauling data, and predicting ionic or covalent bonds."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

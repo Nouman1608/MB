@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atoms-molecules-and-stoichiometry"
     subtopic: "as-reacting-masses-and-volumes-of-solutions-and-gases"
-description: "Revision notes for Cambridge 9701 subtopic 2.4: mole conversions, percentage yield, gas volumes, titrations, limiting reagent, deducing equations and a self-test."
+description: "Revision notes for Cambridge 9701 subtopic 2.4: mole conversions, yield, gas volumes, titrations, limiting reagent, deducing equations and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-hydroxy-compounds"
     subtopic: "a-phenol"
-description: "Condensed notes on making phenol, its five reactions, acidity order, activated-ring conditions and predicting products for other phenols, with a self-test, for Cambridge 9701."
+description: "Condensed notes on making phenol, its reactions, acidity order, activated-ring conditions and products for other phenols, with a self-test, for Cambridge 9701."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
@@ -100,6 +100,9 @@ polarises Br₂ itself and reacts with a weaker nitrating mixture.
 | 4-nitrophenol | 2 | 2,6-dibromo-4-nitrophenol |
 | 2,4,6-trimethylphenol | 0 | no substitution |
 | 2,6-dimethylphenol | 1 | 4-bromo-2,6-dimethylphenol |
+
+**Nitration of substituted phenols:** dilute HNO₃ puts one –NO₂ at a free 2- or 4-position. 4-methylphenol gives
+4-methyl-2-nitrophenol only, because its 4-position is taken.
 
 **Naphthol:** reacts with NaOH, Na and diazonium salts like phenol; gives intensely coloured azo dyes. Check
 the actual ring positions, not phenol's numbering (2-naphthol couples at position 1).

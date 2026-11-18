@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-chemical-bonding"
     subtopic: "as-electronegativity-and-bonding"
-description: "Eleven original Cambridge 9701 subtopic 3.1 questions on electronegativity, its factors and trends, and predicting ionic or covalent bonds from Pauling values, with answers."
+description: "Eleven original Cambridge 9701 subtopic 3.1 questions on electronegativity trends and predicting ionic or covalent bonds from Pauling values, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

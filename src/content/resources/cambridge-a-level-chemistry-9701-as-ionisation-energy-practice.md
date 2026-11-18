@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atomic-structure"
     subtopic: "as-ionisation-energy"
-description: "Twelve original Cambridge 9701 subtopic 1.4 questions on ionisation equations, Period 2 and 3 trends, second ionisation energies and successive data, with answers."
+description: "Twelve original Cambridge 9701 subtopic 1.4 questions on ionisation equations, period trends, second ionisation energies and successive data, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
