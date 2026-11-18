@@ -33,17 +33,17 @@ For full explanations and worked examples, read the [progressive waves study gui
 - The pattern moves forward one wavelength in each period, so c = λ/T = fλ.
 - The source fixes the frequency. If the speed changes, the wavelength changes in the same ratio; f and T do not change.
 - Particles at a crest or trough are momentarily at rest. Particles passing through equilibrium move fastest.
-- Electromagnetic waves need no medium: what oscillates is the electric and magnetic field.
+- Electromagnetic waves travel without a medium; the oscillating quantities are electric and magnetic fields.
 
 ## Key terms
 
 | Term | Definition to learn | Unit |
 |---|---|---|
-| Displacement | Distance of a particle from its equilibrium position in a stated direction | m |
-| Amplitude | Maximum displacement from the equilibrium position | m |
+| Displacement | How far a particle is from its equilibrium position, with a direction | m |
+| Amplitude | Largest displacement reached, measured from equilibrium | m |
 | Wavelength λ | Distance between two adjacent points oscillating in phase | m |
-| Period T | Time for one complete oscillation of a particle | s |
-| Frequency f | Number of complete oscillations per unit time | Hz |
+| Period T | Time taken by one particle to complete one full cycle | s |
+| Frequency f | Cycles completed by a particle each second | Hz |
 | Wave speed c | Distance travelled by the wave pattern per unit time | m s⁻¹ |
 | Phase | The stage a particle has reached in its cycle of oscillation | rad, degrees or cycles |
 | Phase difference | How far one oscillation is ahead of or behind another of the same frequency, as a fraction of a cycle or an angle | rad, degrees or cycles |
