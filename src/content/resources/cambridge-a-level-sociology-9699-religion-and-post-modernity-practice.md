@@ -66,8 +66,8 @@ view. **[35]**
 **11.** "New religious movements and New Age ideas are of little significance for understanding
 religion today." Evaluate this view. **[35]**
 
-**12.** "Marginality is the main reason for the growth of fundamentalist religions." Evaluate this
-view. **[35]**
+**12.** "The growth of fundamentalist religions is best explained as a response to
+globalisation." Evaluate this view. **[35]**
 
 ---
 
@@ -162,18 +162,29 @@ not a universal feature.
 **12.** *Indicative content.*
 
 **Supporting the view:**
-- Weber's theodicy of disprivilege; support among deprived urban populations; Castells'
-  resistance identity among excluded groups.
+- Giddens: fundamentalism is "tradition defended in the traditional way", a reaction to the
+  uncertainty globalisation brings.
+- Castells (1997): resistance identity among groups who feel excluded or threatened by global
+  change.
+- Bruce: outside the West, fundamentalism often reacts to change imposed from outside, which
+  links to cultural defence.
+- Fundamentalist movements use global media to spread their message, showing they are shaped by
+  globalisation as well as opposing it.
 
-**Against the view:**
-- Cultural defence: support across classes in threatened groups (Bruce).
-- Cultural transition: migrants who are not necessarily poor.
-- Disengagement: educated believers withdrawing by choice.
-- Religious revival and post-modern uncertainty (Bauman, Giddens).
+**Against the view, using the syllabus explanations:**
+- Cultural transition: migration is part of globalisation, but the need it meets is local (coping
+  in a new community).
+- Marginality: deprivation and exclusion can drive support with or without global change
+  (theodicy of disprivilege).
+- Disengagement: withdrawal from a society seen as corrupt can respond to internal secular
+  culture rather than to globalisation.
+- Religious revival: renewal movements recur throughout history, long before contemporary
+  globalisation.
+- Bauman: the anxiety of post-modern choice, not globalisation as such.
 
-**Evaluation:** the explanations overlap; marginality explains part of the appeal, but movements
-recruiting across classes show identity and uncertainty matter as much as deprivation. Define
-fundamentalism and use specific cases.
+**Evaluation:** globalisation is a strong framing explanation because it connects several of the
+syllabus explanations, but "best" needs testing against specific cases; define fundamentalism
+and judge which explanation fits which movement.
 
 ---
 

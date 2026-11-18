@@ -102,6 +102,12 @@ feminists read them as a patriarchal core; liberal and within-faith feminists as
 - No separate paragraph on "benefits to women", which the syllabus names explicitly.
 - Forgetting the key concept *Power, control and resistance*: ask who holds authority.
 
+## Building an evaluation paragraph
+
+Point (one perspective or explanation) → evidence (a named study or reform) → interpretation
+(what it shows about power or agency) → counter-view (a contrasting feminist position) →
+mini-judgement (for which women, which faith and which aspect of inequality the point holds).
+
 ## Linking to other sub-topics
 
 - **11.1:** gender and religiosity, useful context on women's participation.

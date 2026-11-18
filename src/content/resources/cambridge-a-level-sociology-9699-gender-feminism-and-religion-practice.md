@@ -65,6 +65,9 @@ that religion benefits women." Evaluate this view. **[35]**
 **11.** "Women who practise religion are victims of patriarchy rather than active agents."
 Evaluate this view. **[35]**
 
+**12.** "Feminist perspectives on religion rest on Western assumptions about freedom." Evaluate
+this view. **[35]**
+
 ---
 
 ## Answers
@@ -157,6 +160,28 @@ direction.
 **Evaluation:** a structure and agency debate; agency operates within constraints. Strong answers
 avoid treating religious women as a single group and recognise that judgements about "freedom"
 can reflect Western assumptions.
+
+**12.** *Indicative content.*
+
+**Supporting the view:**
+- Mahmood (2005): liberal feminism equates agency with resisting religious norms, so it misreads
+  women in the Cairo mosque movement who cultivated piety by choice.
+- Watson (1994): veiling can express identity and protect women from objectification, contrary to
+  the assumption that it always signals oppression.
+- De Beauvoir and Daly wrote mainly from Western Christian contexts, and their claims may not
+  transfer to other faiths.
+
+**Against the view:**
+- Feminists within faith traditions, such as El Saadawi, criticise patriarchal interpretation from
+  inside non-Western societies.
+- Evidence of male-only leadership, purity rules and unequal family law exists across many
+  societies, so criticism of it is not simply Western.
+- Brusco's study shows benefits to women, but within a structure that still placed men at the
+  head of the family, which supports feminist analysis of power.
+
+**Evaluation:** separate the claim that some feminist *theories* carry Western assumptions (well
+supported) from the claim that gender inequality in religion is a Western invention (not
+supported). Strong answers compare evidence from more than one faith and society.
 
 ---
 
