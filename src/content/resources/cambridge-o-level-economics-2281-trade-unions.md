@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "microeconomic-decision-makers"
     subtopic: "trade-unions"
-description: "Study guide to section 3.4 Trade unions in Cambridge O Level Economics 2281: collective bargaining, protecting jobs, union strength and effects on workers and firms."
+description: "Study guide to section 3.4 Trade unions in Cambridge O Level Economics 2281: collective bargaining, protecting jobs, union strength and viewpoints."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

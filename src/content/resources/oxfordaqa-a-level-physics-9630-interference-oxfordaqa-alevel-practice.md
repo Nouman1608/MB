@@ -143,7 +143,7 @@ D: It quadruples. **[1]**
 
 **(c)** It relies on a small-angle approximation, which needs the slit separation to be many wavelengths; here s is only two wavelengths, so the angles are large [1].
 
-**11.** Any three precautions, one mark each, from: never look directly into the beam [1]; remove or avoid reflective surfaces such as rings and watches [1]; stop the beam with a matt, non-reflecting screen [1]; keep the beam below eye level [1]; use a low-power laser [1]. Hazard: the narrow, intense beam can be focused by the eye onto a small spot on the retina and damage it permanently [1]. Maximum 4: three precautions and the hazard.
+**11.** Never look directly into the beam [1]; remove or avoid reflective surfaces such as rings and watches, and stop the beam with a matt, non-reflecting screen [1]; keep the beam below eye level [1]. Also accept using a low-power laser as one of the precautions. Hazard: the narrow, intense beam can be focused by the eye onto a small spot on the retina and damage it permanently [1].
 
 **12.**
 

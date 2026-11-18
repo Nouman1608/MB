@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-ocr-alevel-maths"
     subtopic: "quantities-and-units-in-mechanics-ocr-alevel-maths"
-description: "Revision notes on SI base units, derived units, weight, the newton metre, unit conversion and unit checks for OCR A Level Mathematics A (H240), with a self-test."
+description: "Revision notes on SI base units, derived units, weight, the newton metre, unit conversion and unit checks for OCR A Level Maths A (H240), with a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
     subtopic: "investigating-diversity-aqa-alevel-biology"
-description: "Study guide to AQA A-level Biology 7402 section 3.4.7: comparing characteristics, DNA, mRNA and amino acid sequences, random sampling, means and standard deviations."
+description: "Study guide to AQA A-level Biology 7402 section 3.4.7: comparing characteristics and sequences, random sampling, means and standard deviations."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

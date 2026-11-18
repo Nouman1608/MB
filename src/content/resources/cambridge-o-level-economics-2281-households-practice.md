@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "microeconomic-decision-makers"
     subtopic: "households"
-description: "Original practice questions with full answers on household spending, saving and borrowing for Cambridge O Level Economics 2281, with calculations and evaluation."
+description: "Original practice questions with full answers on household spending, saving and borrowing for Cambridge O Level Economics 2281, with calculations."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

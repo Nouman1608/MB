@@ -151,7 +151,7 @@ D: becomes zero **[1]**
 
 **(a)** A grating gives much sharper, brighter maxima [1], at larger angles, so the angles and therefore the wavelengths can be measured far more precisely [1].
 
-**(b)** Any two, one mark each: measuring the wavelength of light [1]; identifying elements from their line spectra, in the laboratory or in starlight [1]; X-ray diffraction to study the arrangement of atoms in crystals [1].
+**(b)** Measuring the wavelength of light [1]; identifying elements from their line spectra, in the laboratory or in starlight [1]. Also accept X-ray diffraction to study the arrangement of atoms in crystals.
 
 ## Where marks are usually lost
 

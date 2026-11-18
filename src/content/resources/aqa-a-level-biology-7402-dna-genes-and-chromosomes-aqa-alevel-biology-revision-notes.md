@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
     subtopic: "dna-genes-and-chromosomes-aqa-alevel-biology"
-description: "Condensed revision notes on DNA in different cells, genes, loci, the triplet code and its properties, exons and introns for AQA A-level Biology 7402 section 3.4.1."
+description: "Condensed revision notes on DNA in different cells, genes, loci, the triplet code and its properties, exons and introns for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "organisms-exchange-substances-with-their-environment-aqa-alevel-biology"
     subtopic: "mass-transport-aqa-alevel-biology"
-description: "Condensed revision notes on haemoglobin, the cardiac cycle, blood vessels, tissue fluid, cohesion-tension and mass flow for AQA A-level Biology 7402 section 3.3.4."
+description: "Condensed revision notes on haemoglobin, the cardiac cycle, blood vessels, tissue fluid, cohesion-tension and mass flow for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

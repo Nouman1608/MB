@@ -107,7 +107,7 @@ D: equal to half the amplitude **[1]**
 
 **3.** λ = c/f = 3.00 × 10⁸/2.45 × 10⁹ [1] = **0.122 m** [1]
 
-**4.** Any two from: sound is longitudinal but light is transverse [1]; sound needs a medium but light can travel through a vacuum [1]; light can be polarised but sound cannot [1]. Maximum 2.
+**4.** Sound is longitudinal but light is transverse [1]; sound needs a medium but light can travel through a vacuum [1]. Also accept: light can be polarised but sound cannot.
 
 **5.** **C** [1]
 

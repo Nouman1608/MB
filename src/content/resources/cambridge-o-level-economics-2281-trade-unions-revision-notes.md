@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "microeconomic-decision-makers"
     subtopic: "trade-unions"
-description: "Revision notes for Cambridge O Level Economics 2281 section 3.4 Trade unions: collective bargaining, industrial action, union strength, viewpoints and a self-test."
+description: "Revision notes for Cambridge O Level Economics 2281 section 3.4 Trade unions: bargaining, industrial action, union strength, viewpoints and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

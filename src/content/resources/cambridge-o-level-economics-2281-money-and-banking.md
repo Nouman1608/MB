@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "microeconomic-decision-makers"
     subtopic: "money-and-banking"
-description: "Study guide to section 3.1 Money and banking in Cambridge O Level Economics 2281: forms, functions and characteristics of money, and central and commercial banks."
+description: "Study guide to section 3.1 Money and banking in Cambridge O Level Economics 2281: forms, functions and characteristics of money, central and commercial banks."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

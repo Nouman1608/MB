@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology"
     subtopic: "species-and-taxonomy-aqa-alevel-biology"
-description: "Original practice questions with mark-scheme answers on species, courtship, classification, binomials and molecular evidence for AQA A-level Biology 7402 section 3.4.5."
+description: "Original practice questions with mark-scheme answers on species, courtship, classification, binomials and molecular evidence for AQA A-level Biology 7402."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

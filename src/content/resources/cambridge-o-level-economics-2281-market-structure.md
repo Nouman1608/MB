@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "microeconomic-decision-makers"
     subtopic: "market-structure"
-description: "Study guide to section 3.8 Market structure in Cambridge O Level Economics 2281: competitive markets, monopoly, barriers to entry and their effects on consumers."
+description: "Study guide to section 3.8 Market structure in Cambridge O Level Economics 2281: competitive markets, monopoly, barriers to entry and effects on consumers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18
