@@ -77,7 +77,7 @@ A tropical cyclone (also called a hurricane or typhoon, depending on region) is 
 **Management:** satellite tracking and forecasts, early warnings, evacuation, cyclone shelters, strengthened buildings, coastal defences such as mangroves and sea walls, and insurance and aid for recovery. Compare the death tolls in richer and poorer countries to show how preparation changes outcomes.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--03-cyclone-formation.webp" width="900" height="900" alt="Cross-section of a tropical cyclone over warm ocean. Sea surface temperature of at least 27 degrees Celsius heats the air. Warm moist air rises in two cloud walls either side of a clear eye, condenses and releases heat that powers the storm, then flows out at the top. Earth's rotation spins the system, so the storm must be away from the equator. When the storm moves over land it loses its supply of warm water and weakens." loading="lazy">
+  <img src="/images/learning/geography/em-5014-cyclone-formation-27c.svg" width="900" height="900" alt="Cross-section of a tropical cyclone over warm ocean. Sea surface temperature of at least 27 degrees Celsius heats the air. Warm moist air rises in two cloud walls either side of a clear eye, condenses and releases heat that powers the storm, then flows out at the top. Earth's rotation spins the system, so the storm must be away from the equator. When the storm moves over land it loses its supply of warm water and weakens." loading="lazy">
   <figcaption>A tropical cyclone needs warm ocean of at least 27 °C (the figure the syllabus gives) and distance from the equator; it weakens over land.</figcaption>
 </figure>
 
