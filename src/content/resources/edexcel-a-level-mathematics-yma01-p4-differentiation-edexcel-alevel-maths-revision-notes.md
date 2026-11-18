@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p4-pure-mathematics-4-edexcel-alevel-maths"
     subtopic: "p4-differentiation-edexcel-alevel-maths"
-description: "Revision notes for Edexcel IAL Maths P4 differentiation: implicit and parametric dy/dx, tangents and normals, forming differential equations and rates of change."
+description: "Revision notes for Edexcel IAL Maths P4 differentiation: implicit and parametric dy/dx, tangents and normals, differential equations and rates of change."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

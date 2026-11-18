@@ -65,7 +65,7 @@ Learn it first: [3.1.10.3 study guide](/resources/oxfordaqa-a-level-chemistry-96
 
 **(c)** State whether pure water at 60 °C is acidic, neutral or alkaline, and give a reason. **[1]**
 
-**9.** This question uses the data in Question 8.
+**9.** At 0 °C, Kw = 1.14 × 10⁻¹⁵ mol² dm⁻⁶.
 
 **(a)** Calculate the pH of 0.0200 mol dm⁻³ NaOH at 0 °C. **[2]**
 

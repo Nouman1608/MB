@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p4-pure-mathematics-4-edexcel-alevel-maths"
     subtopic: "p4-coordinate-geometry-edexcel-alevel-maths"
-description: "Original Edexcel IAL Maths P4 parametric equations questions with full answers: eliminating the parameter, domain and range, circles, ellipses and intersections."
+description: "Original Edexcel IAL Maths P4 parametric equations questions with full answers: eliminating the parameter, domain and range, ellipses and intersections."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-18

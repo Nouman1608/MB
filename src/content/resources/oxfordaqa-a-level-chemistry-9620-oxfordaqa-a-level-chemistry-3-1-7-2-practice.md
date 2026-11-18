@@ -77,7 +77,7 @@ At equilibrium, 0.300 mol of ethyl ethanoate is present. No water was present at
 
 **(b)** For a reaction D(g) + 2E(g) ⇌ F(g), Kc is 0.45 mol⁻² dm⁶ at 300 K and 1.8 mol⁻² dm⁶ at 400 K (invented values). Deduce whether the forward reaction is exothermic or endothermic, explaining your answer. **[2]**
 
-**12.** The equilibrium in Question 9 contains 0.0500 mol dm⁻³ H₂, 0.0500 mol dm⁻³ I₂ and 0.300 mol dm⁻³ HI. Extra iodine is injected so that [I₂] instantly becomes 0.150 mol dm⁻³, at the same temperature.
+**12.** For H₂(g) + I₂(g) ⇌ 2HI(g), Kc = 36.0 at a certain temperature. An equilibrium mixture at this temperature contains 0.0500 mol dm⁻³ H₂, 0.0500 mol dm⁻³ I₂ and 0.300 mol dm⁻³ HI. Extra iodine is injected so that [I₂] instantly becomes 0.150 mol dm⁻³, at the same temperature.
 
 **(a)** Calculate the value of [HI]² / ([H₂][I₂]) immediately after the injection. **[1]**
 

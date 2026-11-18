@@ -61,7 +61,7 @@ Use these standard electrode potentials throughout:
 
 ## Section B
 
-**6.** A cell is made from a zinc half-cell and a lead half-cell under standard conditions.
+**6.** A cell is made from a zinc half-cell (E⦵ = −0.76 V) and a lead half-cell (E⦵ = −0.13 V) under standard conditions.
 
 **(a)** Write the conventional representation of the cell. **[2]**
 
@@ -71,9 +71,9 @@ Use these standard electrode potentials throughout:
 
 **(d)** State the direction of electron flow in the external circuit. **[1]**
 
-**7.** A standard half-cell of metal M (forming M²⁺ ions) is connected to a standard copper half-cell. The EMF is 0.48 V and the copper electrode is positive. Calculate E⦵(M²⁺/M) and identify M from the table. **[2]**
+**7.** A standard half-cell of metal M (forming M²⁺ ions) is connected to a standard copper half-cell. The EMF is 0.48 V and the copper electrode is positive. E⦵(Cu²⁺/Cu) = +0.34 V. Calculate E⦵(M²⁺/M) and identify M from: zinc (−0.76 V), tin (−0.14 V) or lead (−0.13 V). **[2]**
 
-**8.** A cell is made from an Fe³⁺/Fe²⁺ half-cell and an acidified Cr₂O₇²⁻/Cr³⁺ half-cell under standard conditions.
+**8.** A cell is made from an Fe³⁺/Fe²⁺ half-cell (E⦵ = +0.77 V) and an acidified Cr₂O₇²⁻/Cr³⁺ half-cell (E⦵ = +1.33 V; Cr₂O₇²⁻ + 14H⁺ + 6e⁻ ⇌ 2Cr³⁺ + 7H₂O) under standard conditions.
 
 **(a)** Write the conventional representation of the cell. **[2]**
 
@@ -81,7 +81,7 @@ Use these standard electrode potentials throughout:
 
 **(c)** Write the overall equation for the cell reaction. **[2]**
 
-**9.** Use the table to predict whether each reaction is feasible under standard conditions.
+**9.** Use these values to predict whether each reaction is feasible under standard conditions: Fe³⁺/Fe²⁺ +0.77 V; Ag⁺/Ag +0.80 V; Br₂/Br⁻ +1.09 V; Cr₂O₇²⁻/Cr³⁺ +1.33 V; Cl₂/Cl⁻ +1.36 V.
 
 **(a)** Silver ions oxidising iron(II) ions. Comment on the reliability of your prediction. **[2]**
 
@@ -91,13 +91,13 @@ Use these standard electrode potentials throughout:
 
 **(d)** Suggest why acidified dichromate(VI) does not oxidise chloride ions under standard conditions. **[1]**
 
-**10.** In a standard zinc–copper cell, the concentration of Zn²⁺(aq) is increased. Explain the effect on the EMF of the cell. **[3]**
+**10.** In a standard zinc–copper cell (Zn²⁺/Zn −0.76 V; Cu²⁺/Cu +0.34 V), the concentration of Zn²⁺(aq) is increased. Explain the effect on the EMF of the cell. **[3]**
 
 **11.** In required practical 6, a student measures the EMF of a zinc–copper cell as 0.98 V instead of the expected 1.10 V. Suggest **two** reasons for the difference. **[2]**
 
-**12.** From the table, identify the strongest oxidising agent and the strongest reducing agent. **[2]**
+**12.** From the table of standard electrode potentials at the top of this page (Mg²⁺/Mg −2.37 V to Cl₂/Cl⁻ +1.36 V), identify the strongest oxidising agent and the strongest reducing agent. **[2]**
 
-**13.** A standard copper half-cell is connected to the standard hydrogen electrode. Write the conventional representation of the cell and state its EMF. **[2]**
+**13.** A standard copper half-cell (E⦵ = +0.34 V) is connected to the standard hydrogen electrode. Write the conventional representation of the cell and state its EMF. **[2]**
 
 ## Answers
 
