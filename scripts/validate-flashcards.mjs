@@ -161,6 +161,27 @@ for (const deck of FLASHCARD_DECKS) {
     else fronts.set(f, card.id);
   }
 
+  // D-505: a card-id migration must land every old id on a real card, and on a
+  // different card each time, or saved progress would be merged or lost.
+  if (deck.idMigration !== undefined) {
+    const mig = deck.idMigration;
+    const m = `${at} idMigration`;
+    if (typeof mig.id !== 'string' || !mig.id.trim()) problems.push(`${m}: id must be a non-empty string`);
+    const realDate = typeof mig.before === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(mig.before)
+      && new Date(`${mig.before}T00:00:00Z`).toISOString().slice(0, 10) === mig.before;
+    if (!realDate) problems.push(`${m}: before '${mig.before}' must be a real ISO date (YYYY-MM-DD)`);
+    else if (mig.before > today) problems.push(`${m}: before '${mig.before}' is in the future`);
+    if (!mig.map || typeof mig.map !== 'object') problems.push(`${m}: map must be an object of old id -> new id`);
+    else {
+      const targets = new Map();
+      for (const [oldId, newId] of Object.entries(mig.map)) {
+        if (!ids.has(newId)) problems.push(`${m}: '${oldId}' maps to '${newId}', which is not a card id in the deck`);
+        if (targets.has(newId)) problems.push(`${m}: '${oldId}' and '${targets.get(newId)}' both map to '${newId}'`);
+        else targets.set(newId, oldId);
+      }
+    }
+  }
+
   const missing = version.topics.flatMap((t) => (t.subtopics.length ? t.subtopics.map((s) => ({ scope: `${t.slug}/${s.slug}`, label: `${s.number} ${s.name}` })) : [{ scope: `${t.slug}/`, label: `${t.number} ${t.name}` }]))
     .filter((x) => !perSubtopic.has(x.scope));
   notes.push(`${at}: ${deck.cards.length} cards, ${missing.length === 0 ? 'every subtopic covered' : `${missing.length} subtopic(s) with no card: ${missing.map((m) => m.label).join('; ')}`}`);

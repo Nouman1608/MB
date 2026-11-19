@@ -17,6 +17,8 @@
  * Storage, in this browser only (listed on /legal/cookies/):
  *   mb-flashcards-{code} -- { v: 1, cards: { [cardId]: { k: 1, t: 'YYYY-MM-DD' } } }
  *                           k = 1 means the card was last marked "Got it".
+ *                           Optional m: ids of the card-id migrations already
+ *                           applied (flashcard-migrate.ts, D-505).
  *                           "Reset my progress" removes the record.
  *
  * Analytics: `flashcards_start` and `flashcards_complete`, with the course
@@ -25,11 +27,11 @@
  * (docs/growth/measurement-guide.md).
  */
 import { track } from './catalogue-client';
+import { migrateStore, type IdMigration, type Store } from './flashcard-migrate';
 
 interface Card { id: string; f: string; b: string; g: string; sup: boolean }
 interface Group { key: string; label: string }
-interface Data { code: string; scope: 'course' | 'topic' | 'unit'; badge: string; groupNoun: string; groups: Group[]; cards: Card[] }
-interface Store { v: 1; cards: Record<string, { k: 0 | 1; t: string }> }
+interface Data { code: string; scope: 'course' | 'topic' | 'unit'; badge: string; groupNoun: string; groups: Group[]; cards: Card[]; idMigration?: IdMigration }
 
 const dataEl = document.getElementById('fc-data');
 if (dataEl) init(JSON.parse(dataEl.textContent ?? '{}') as Data);
@@ -107,6 +109,14 @@ function init(d: Data): void {
   const endBtn = $<HTMLButtonElement>('fc-end');
 
   let store = loadStore(storeKey);
+  // D-505: move marks saved under a deck's old card ids. Saved only when there
+  // were marks to move; on an empty store the migration id is kept in memory
+  // and written with the first mark.
+  const migrated = migrateStore(store, d.idMigration);
+  if (migrated !== store) {
+    if (Object.keys(store.cards).length > 0) saveStore(storeKey, migrated);
+    store = migrated;
+  }
   let queue: string[] = [];
   let current: string | null = null;
   let revealed = false;
@@ -231,7 +241,7 @@ function init(d: Data): void {
   resetBtn.addEventListener('click', () => {
     if (!window.confirm('Clear your saved “Got it” marks for every card in this deck, in this browser?')) return;
     try { window.localStorage.removeItem(storeKey); } catch { /* ignore */ }
-    store = { v: 1, cards: {} };
+    store = { v: 1, cards: {}, ...(store.m ? { m: store.m } : {}) };
     refreshSetup();
   });
   revealBtn.addEventListener('click', reveal);
