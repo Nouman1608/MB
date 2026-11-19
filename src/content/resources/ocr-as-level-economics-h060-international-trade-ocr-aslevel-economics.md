@@ -7,8 +7,8 @@ topic: "The global context"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 7.1
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 6.1
 syllabusTopics:
   - qualification: "as-level"
     topic: "the-global-context-ocr-aslevel-economics"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers **International trade** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The specification asks you to explain "international trade" and "patterns of international trade over time", and to evaluate the "advantages and disadvantages of international trade to developed, emerging and developing countries". Worked examples use invented countries and figures; the account of real trends is broad-brush, so check exact figures against current sources such as the Office for National Statistics or the World Trade Organization.
+This guide covers topic 4.1 **International trade** in The global context, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The specification asks you to explain "international trade" and "patterns of international trade over time", and to evaluate the "advantages and disadvantages of international trade to developed, emerging and developing countries". Worked examples use invented countries and figures; the account of real trends is broad-brush, so check exact figures against current sources such as the Office for National Statistics or the World Trade Organization.
 
 Use it with the [international trade revision notes](/resources/ocr-as-level-economics-h060-international-trade-ocr-aslevel-economics-revision-notes/) and the [international trade practice questions](/resources/ocr-as-level-economics-h060-international-trade-ocr-aslevel-economics-practice/). The A Level treatment, including comparative advantage and the terms of trade, is in [international trade, comparative advantage and the terms of trade](/resources/ocr-a-level-economics-international-trade-comparative-advantage-and-the/).
 

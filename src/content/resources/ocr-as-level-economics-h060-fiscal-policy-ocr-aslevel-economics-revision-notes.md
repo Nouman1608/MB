@@ -7,11 +7,11 @@ topic: "The application of policy instruments"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 6.1
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 5.1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "fiscal-policy-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) fiscal policy revision notes: tax classifications, ATR and MTR, deficits and debt, stabilisers, crowding out and a self-test."
 author: "marlbridge-academic-team"
@@ -23,22 +23,22 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense **Fiscal policy** from Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The [fiscal policy study guide](/resources/ocr-as-level-economics-h060-fiscal-policy-ocr-aslevel-economics/) has the full explanations and worked examples, and the [fiscal policy practice questions](/resources/ocr-as-level-economics-h060-fiscal-policy-ocr-aslevel-economics-practice/) give exam-style work. All tax systems and figures are invented.
+These notes condense topic 3.1 **Fiscal policy** from Implementing policy in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The [fiscal policy study guide](/resources/ocr-as-level-economics-h060-fiscal-policy-ocr-aslevel-economics/) has the full explanations and worked examples, and the [fiscal policy practice questions](/resources/ocr-as-level-economics-h060-fiscal-policy-ocr-aslevel-economics-practice/) give exam-style work. All tax systems and figures are invented.
 
 ## What you must be able to do
 
 | Specification wording | In one line |
 |---|---|
-| Government budget; current and capital expenditure | The yearly plan of revenue and spending; day-to-day versus long-lasting assets |
-| Direct, indirect, progressive, proportional and regressive taxation | Who pays and how the average rate changes with income |
-| Budget surplus, deficit and balanced budget | Revenue above, below or equal to spending |
-| Cyclical and structural budget position | The part due to the cycle and the part that remains at normal output |
-| National and government debt | The stock of debt built up from past deficits |
-| Discretionary fiscal policy and automatic stabilisers | Deliberate changes versus built-in responses to the cycle |
-| Crowding out | Public spending displacing private spending |
-| The Laffer curve | Tax revenue first rises, then falls, as the tax rate rises |
+| Explain the government budget; current and capital government expenditure | The yearly plan of revenue and spending; day-to-day versus long-lasting assets |
+| Explain direct, indirect, progressive, proportional and regressive taxation | Who pays and how the average rate changes with income |
+| Explain budget surplus, deficit and balanced budget | Revenue above, below or equal to spending |
+| Explain the cyclical and structural budget position | The part due to the cycle and the part that remains at normal output |
+| Explain national and government debt | The stock of debt built up from past deficits |
+| Explain discretionary fiscal policy and automatic stabilisers | Deliberate changes versus built-in responses to the cycle |
+| Explain crowding out | Public spending displacing private spending |
+| Explain the Laffer curve | Tax revenue first rises, then falls, as the tax rate rises |
 | Explain and calculate average and marginal tax rates | Total tax over total income; extra tax over extra income |
-| Evaluate the effectiveness of fiscal policy | Lags, spare capacity, crowding out, debt, conflicts, supply-side gains |
+| Evaluate the effectiveness of using fiscal policy to achieve the government's macroeconomic objectives | Lags, spare capacity, crowding out, debt, conflicts, supply-side gains |
 
 ## Key terms
 

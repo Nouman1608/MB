@@ -7,12 +7,12 @@ topic: "Aggregate demand and aggregate supply"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 5.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 3.2
 syllabusTopics:
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "aggregate-demand-ad-ocr-aslevel-economics"
+    subtopic: "aggregate-demand-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) guide to aggregate demand: its components, the slope of the AD curve, shifts, the income-consumption link and expectations."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers **Aggregate demand (AD)** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The specification asks you to explain aggregate demand and its components; to explain, with the aid of a diagram, the relationship between aggregate demand and the price level and shifts in the AD curve; and to evaluate the relationship between changes in income and consumption and the role of expectations. All figures are invented.
+This guide covers **Aggregate demand (AD)**, topic 1.2 in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The specification asks you to explain aggregate demand and its components; to explain, with the aid of a diagram, the relationship between aggregate demand and the price level and shifts in the AD curve; and to evaluate the relationship between changes in income and consumption and the role of expectations. All figures are invented.
 
 Use it with the [aggregate demand revision notes](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics-revision-notes/) and the [aggregate demand practice questions](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics-practice/). It builds on the [circular flow of income](/resources/ocr-as-level-economics-h060-circular-flow-of-income-ocr-aslevel-economics/) and leads into [aggregate supply](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics/).
 

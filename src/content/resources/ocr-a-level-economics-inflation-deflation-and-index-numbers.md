@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "economic-policy-objectives-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "inflation-ocr-aslevel-economics"
 description: "Study guide to inflation, deflation, CPI and RPI, index number calculations and real values for OCR A Level Economics (H460), with worked examples."
 author: "marlbridge-academic-team"

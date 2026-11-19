@@ -7,11 +7,11 @@ topic: "Scarcity and choice"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 1.3
 syllabusTopics:
   - qualification: "as-level"
-    topic: "scarcity-and-choice-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
     subtopic: "opportunity-cost-ocr-aslevel-economics"
 description: "Condensed OCR AS Economics (H060) notes on opportunity cost and the PPC: key terms, reading and shifting the curve, exam traps and a 12-question self-test."
 author: "marlbridge-academic-team"

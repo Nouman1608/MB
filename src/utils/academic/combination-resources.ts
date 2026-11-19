@@ -43,6 +43,9 @@ export function resourcesForCombination(
   const codes = courseCodes(c);
   return allResources.filter(
     (r) =>
+      // D-505: an archived resource keeps its page (noindexed, old links
+      // still work) but is no longer listed on any course hub.
+      r.data.reviewStatus !== 'archived' &&
       r.data.subject.id === hubSlug &&
       r.data.level.includes(levelKey as never) &&
       (r.data.boards.length === 0 || r.data.boards.includes(c.boardSlug as never)) &&

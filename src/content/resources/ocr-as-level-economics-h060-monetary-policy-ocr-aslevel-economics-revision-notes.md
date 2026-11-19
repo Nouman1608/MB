@@ -7,11 +7,11 @@ topic: "The application of policy instruments"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 6.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 5.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "monetary-policy-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) monetary policy revision notes: transmission channels, money supply, the 2% target, QE, exchange rates and a self-test."
 author: "marlbridge-academic-team"
@@ -23,18 +23,18 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense **Monetary policy** from Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. Full explanations are in the [monetary policy study guide](/resources/ocr-as-level-economics-h060-monetary-policy-ocr-aslevel-economics/); exam-style work is in the [monetary policy practice questions](/resources/ocr-as-level-economics-h060-monetary-policy-ocr-aslevel-economics-practice/). Worked figures are invented.
+These notes condense topic 3.2 **Monetary policy** from Implementing policy in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). Full explanations are in the [monetary policy study guide](/resources/ocr-as-level-economics-h060-monetary-policy-ocr-aslevel-economics/); exam-style work is in the [monetary policy practice questions](/resources/ocr-as-level-economics-h060-monetary-policy-ocr-aslevel-economics-practice/). Worked figures are invented.
 
 ## What you must be able to do
 
 | Specification wording | In one line |
 |---|---|
-| Explain, with a diagram, changes in interest rates | Bank Rate changes feed through borrowing, saving, asset prices and the exchange rate to AD |
-| Explain, with a diagram, changes in money supply | More money lowers interest rates and raises AD; persistent excess growth raises inflation |
-| Explain, with a diagram, inflation rate targets | UK: 2% CPI, set by the government and pursued by the independent Bank of England |
-| Explain, with a diagram, quantitative easing | New central bank money buys bonds, lowering long-term rates and raising asset prices |
-| Explain, with a diagram, the influence of exchange rates | Higher rates tend to raise the currency, cutting net exports and import prices |
-| Evaluate the effectiveness of monetary policy | Speed and credibility against lags, the lower limit, cost-push shocks and side effects |
+| Explain, with the aid of a diagram, changes in interest rates | Bank Rate changes feed through borrowing, saving, asset prices and the exchange rate to AD |
+| Explain, with the aid of a diagram, changes in money supply | More money lowers interest rates and raises AD; persistent excess growth raises inflation |
+| Explain, with the aid of a diagram, inflation rate targets | UK: 2% CPI, set by the government and pursued by the independent Bank of England |
+| Explain, with the aid of a diagram, quantitative easing | New central bank money buys bonds, lowering long-term rates and raising asset prices |
+| Explain, with the aid of a diagram, the influence of exchange rates | Higher rates tend to raise the currency, cutting net exports and import prices |
+| Evaluate the effectiveness of using monetary policy to achieve the government's macroeconomic objectives | Speed and credibility against lags, the lower limit, cost-push shocks and side effects |
 
 ## Key facts about the UK framework
 

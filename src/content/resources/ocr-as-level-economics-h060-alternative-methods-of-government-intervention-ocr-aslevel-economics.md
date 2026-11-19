@@ -7,12 +7,12 @@ topic: "Alternative methods of government intervention"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 3.4
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.8
 syllabusTopics:
   - qualification: "as-level"
-    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
-    subtopic: "alternative-methods-of-government-intervention-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "government-intervention-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to government intervention: taxes, subsidies, price controls, buffer stocks, permits and regulation, with figures."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 01, Microeconomics. The specification lists the methods you must be able to explain: "taxation, subsidies, government expenditure, price controls, buffer stock systems, public/private partnerships, legislation, regulation, tradable pollution permits, information provision, competition policy". It also asks you to evaluate "the effectiveness of government intervention". Every market and figure below is invented.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026), Component 01, Microeconomics. It covers the methods of intervention in topic 2.8 **Government intervention**; government failure, the rest of topic 2.8, has its own guide. The specification lists the methods you must be able to explain: "taxation, subsidies, government expenditure, price controls, buffer stock systems, public/private partnerships, legislation, regulation, tradable pollution permits, information provision, competition policy". It also asks you to evaluate "the effectiveness of government intervention". Every market and figure below is invented.
 
 Use it with the [government intervention revision notes](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics-revision-notes/) and the [government intervention practice questions](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics-practice/). Related AS pages: [market failure](/resources/ocr-as-level-economics-h060-market-failure-ocr-aslevel-economics/), [externalities](/resources/ocr-as-level-economics-h060-externalities-ocr-aslevel-economics/) and [government failure](/resources/ocr-as-level-economics-h060-government-failure-ocr-aslevel-economics/). See also the [OCR AS Economics hub](/boards/ocr/as-level/economics/).
 

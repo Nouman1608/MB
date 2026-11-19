@@ -7,11 +7,11 @@ topic: "Economic policy objectives and indicators of macroeconomic performance"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 4.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 4.4
 syllabusTopics:
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "inflation-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) inflation revision notes: key terms, index-number methods, CPI versus RPI, real values, exam traps and a self-test."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense **Inflation** from Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The full explanations and worked examples are in the [inflation study guide](/resources/ocr-as-level-economics-h060-inflation-ocr-aslevel-economics/), and the [inflation practice questions](/resources/ocr-as-level-economics-h060-inflation-ocr-aslevel-economics-practice/) give exam-style work with mark schemes. All numbers below are invented.
+These notes condense topic 2.4 **Inflation** from Economic policy objectives in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The full explanations and worked examples are in the [inflation study guide](/resources/ocr-as-level-economics-h060-inflation-ocr-aslevel-economics/), and the [inflation practice questions](/resources/ocr-as-level-economics-h060-inflation-ocr-aslevel-economics-practice/) give exam-style work with mark schemes. All numbers below are invented.
 
 ## What you must be able to do
 

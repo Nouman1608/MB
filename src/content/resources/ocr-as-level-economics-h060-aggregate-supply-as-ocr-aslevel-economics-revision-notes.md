@@ -7,12 +7,12 @@ topic: "Aggregate demand and aggregate supply"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 5.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 3.3
 syllabusTopics:
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "aggregate-supply-as-ocr-aslevel-economics"
+    subtopic: "aggregate-supply-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) aggregate supply revision notes: SRAS and LRAS shapes, causes of shifts, unit labour costs, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,15 +23,15 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense **Aggregate supply (AS)** from Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. For full explanations and worked examples use the [aggregate supply study guide](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics/); for exam-style work use the [aggregate supply practice questions](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics-practice/). All figures are invented.
+These notes condense **Aggregate supply (AS)**, topic 1.3 in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). For full explanations and worked examples use the [aggregate supply study guide](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics/); for exam-style work use the [aggregate supply practice questions](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics-practice/). All figures are invented.
 
 ## What you must be able to do
 
 | Specification wording | In one line |
 |---|---|
 | Explain aggregate supply | Total planned output at each price level |
-| Explain, with a diagram, the AS-price level relationship in the short run and long run | SRAS slopes up; LRAS is vertical (neo-classical) or flat, rising, then vertical (Keynesian) |
-| Explain, with a diagram, shifts in AS in the short run and long run | SRAS shifts with costs; LRAS shifts with the quantity and quality of factors and technology |
+| Explain, with the aid of a diagram, the relationship between aggregate supply and price level in the short run and long run | SRAS slopes up; LRAS is vertical (neo-classical) or flat, rising, then vertical (Keynesian) |
+| Explain, with the aid of a diagram, shifts in the aggregate supply curve in the short run and long run | SRAS shifts with costs; LRAS shifts with the quantity and quality of factors and technology |
 
 ## Key terms
 

@@ -7,11 +7,11 @@ topic: "The global context"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 7.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 4.5
 syllabusTopics:
   - qualification: "as-level"
-    topic: "the-global-context-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "balance-of-payments-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) balance of payments questions with mark-scheme answers: classifying flows, calculating balances and imbalances."
 author: "marlbridge-academic-team"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **Balance of payments** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. All countries and data are invented. Revise first with the [balance of payments study guide](/resources/ocr-as-level-economics-h060-balance-of-payments-ocr-aslevel-economics/) and the [balance of payments revision notes](/resources/ocr-as-level-economics-h060-balance-of-payments-ocr-aslevel-economics-revision-notes/).
+These questions cover topic 2.5 **Balance of payments** in Economic policy objectives, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). All countries and data are invented. Revise first with the [balance of payments study guide](/resources/ocr-as-level-economics-h060-balance-of-payments-ocr-aslevel-economics/) and the [balance of payments revision notes](/resources/ocr-as-level-economics-h060-balance-of-payments-ocr-aslevel-economics-revision-notes/).
 
 ## Section A: Short questions
 

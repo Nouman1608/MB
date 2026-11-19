@@ -7,12 +7,12 @@ topic: "Aggregate demand and aggregate supply"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 5.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 3.3
 syllabusTopics:
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "aggregate-supply-as-ocr-aslevel-economics"
+    subtopic: "aggregate-supply-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) guide to aggregate supply: SRAS and LRAS shapes, Keynesian and neo-classical views, unit labour costs and the causes of shifts."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers **Aggregate supply (AS)** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The specification asks you to explain aggregate supply and, with the aid of a diagram, "the relationship between aggregate supply and price level in the short run and long run" and "shifts in the aggregate supply curve in the short run and long run". All figures are invented.
+This guide covers **Aggregate supply (AS)**, topic 1.3 in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The specification asks you to explain aggregate supply and, with the aid of a diagram, "the relationship between aggregate supply and price level in the short run and long run" and "shifts in the aggregate supply curve in the short run and long run". All figures are invented.
 
 Use it with the [aggregate supply revision notes](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics-revision-notes/) and the [aggregate supply practice questions](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics-practice/). The demand side is in [aggregate demand](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics/), and the two are combined in [aggregate demand and supply](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics/). For the A Level treatment see [aggregate supply and the AD/AS model](/resources/ocr-a-level-economics-aggregate-supply-and-the-ad-as-model/).
 
@@ -44,7 +44,7 @@ The SRAS curve is drawn for a given set of input costs. If those costs change, t
 
 ## 3. Long-run aggregate supply (LRAS)
 
-Economists disagree about the shape of the long-run curve, and the specification expects you to know both views.
+Economists disagree about the shape of the long-run curve. The specification does not name either school, but you should know both views, because they give different answers about the long run.
 
 ### The neo-classical (free-market) view
 

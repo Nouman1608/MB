@@ -12,7 +12,7 @@ syllabusSeries: "For first assessment in 2016"
 order: 940
 syllabusTopics:
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "trends-in-macroeconomic-indicators-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to trends in macroeconomic indicators: reading data, UK phases, and comparing economies."
 author: "marlbridge-academic-team"

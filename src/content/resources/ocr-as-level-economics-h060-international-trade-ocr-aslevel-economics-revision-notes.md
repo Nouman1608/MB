@@ -7,8 +7,8 @@ topic: "The global context"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 7.1
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 6.1
 syllabusTopics:
   - qualification: "as-level"
     topic: "the-global-context-ocr-aslevel-economics"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense **International trade** from Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The [international trade study guide](/resources/ocr-as-level-economics-h060-international-trade-ocr-aslevel-economics/) has the full explanations and worked examples, and the [international trade practice questions](/resources/ocr-as-level-economics-h060-international-trade-ocr-aslevel-economics-practice/) give exam-style work. Worked figures are invented; real trends are summarised broadly, so check exact data against current sources.
+These notes condense topic 4.1 **International trade** from The global context in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The [international trade study guide](/resources/ocr-as-level-economics-h060-international-trade-ocr-aslevel-economics/) has the full explanations and worked examples, and the [international trade practice questions](/resources/ocr-as-level-economics-h060-international-trade-ocr-aslevel-economics-practice/) give exam-style work. Worked figures are invented; real trends are summarised broadly, so check exact data against current sources.
 
 ## What you must be able to do
 
@@ -31,7 +31,7 @@ These notes condense **International trade** from Component 02, Macroeconomics, 
 |---|---|
 | Explain international trade | Exchange of goods and services across borders, driven by differences in resources and the gains from specialisation |
 | Explain patterns of international trade over time | Trade outgrowing output, the rise of emerging economies, supply chains, services, trade blocs |
-| Evaluate advantages and disadvantages of trade to developed, emerging and developing countries | Gains and costs differ by type of economy and by group within each economy |
+| Evaluate advantages and disadvantages of international trade to developed, emerging and developing countries | Gains and costs differ by type of economy and by group within each economy |
 
 ## Key terms
 

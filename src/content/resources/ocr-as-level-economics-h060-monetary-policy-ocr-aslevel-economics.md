@@ -7,11 +7,11 @@ topic: "The application of policy instruments"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 6.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 5.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "monetary-policy-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) monetary policy guide: interest rate changes, money supply, inflation targets, quantitative easing and the exchange rate."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers **Monetary policy** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The specification asks you to explain, with the aid of a diagram, changes in interest rates, changes in the money supply, inflation rate targets, quantitative easing and the influence of exchange rates, and to evaluate the effectiveness of using monetary policy to achieve the government's macroeconomic objectives. Examples with households, firms and currencies use invented figures.
+This guide covers topic 3.2 **Monetary policy** in Implementing policy, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The specification asks you to explain, with the aid of a diagram, changes in interest rates, changes in the money supply, inflation rate targets, quantitative easing and the influence of exchange rates, and to evaluate the effectiveness of using monetary policy to achieve the government's macroeconomic objectives. Examples with households, firms and currencies use invented figures.
 
 Use it with the [monetary policy revision notes](/resources/ocr-as-level-economics-h060-monetary-policy-ocr-aslevel-economics-revision-notes/) and the [monetary policy practice questions](/resources/ocr-as-level-economics-h060-monetary-policy-ocr-aslevel-economics-practice/). The A Level treatment is in [monetary policy and inflation targeting](/resources/ocr-a-level-economics-monetary-policy-and-inflation-targeting/), and the alternative demand-side tool is in [fiscal policy](/resources/ocr-as-level-economics-h060-fiscal-policy-ocr-aslevel-economics/).
 

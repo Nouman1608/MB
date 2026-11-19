@@ -7,12 +7,12 @@ topic: "How competitive markets work"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 2.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 1.1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
-    subtopic: "the-objectives-of-economic-agents-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
+    subtopic: "the-economic-problem-ocr-aslevel-economics"
 description: "OCR AS Economics (H060) guide to the objectives of consumers, workers, firms and government: maximisation, satisficing and alternative firm objectives."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

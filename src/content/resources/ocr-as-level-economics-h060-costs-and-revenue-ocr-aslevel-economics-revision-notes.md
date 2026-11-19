@@ -7,21 +7,23 @@ topic: "Costs and revenue"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 2.6
 syllabusTopics:
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
-    subtopic: "costs-and-revenue-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "elasticity-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) revision notes on costs and revenue: fixed and variable costs, average cost, TR and AR, PED, profit, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "archived"
 reviewedDate: 2026-11-18
 reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification names PED and a firm's total revenue but lists cost, revenue and profit calculation as an A Level (H460) skill, so a teacher should confirm how much of this subtopic the AS course examines. Rechecked 2026-11-18: the owner reports that the teacher re-checked this page against the current H060 specification after the flag above and approved it as it stands."
 publishedDate: 2026-11-18
 featured: false
 ---
+
+> **Archived page.** OCR's current AS Level Economics (H060) specification, Version 3.0 (June 2026), does not include costs and revenue at AS Level; the topic is A Level (H460) content. This page is kept so existing links still work, but it is no longer part of the AS course. For the A Level topic, use the [OCR A Level costs revision notes](/resources/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-revision-notes/).
 
 These notes condense **Costs and revenue** for the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 01, Microeconomics. In the current specification the AS content names "the relationship between PED and a firm's total revenue" and productive efficiency, while detailed cost and revenue calculation is A Level (H460) content, so confirm the scope with your teacher. For full explanations and the Harbour Kayaks example, read the [costs and revenue study guide](/resources/ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics/), then try the [costs and revenue practice questions](/resources/ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics-practice/). All figures are invented.
 

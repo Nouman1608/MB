@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "implementing-policy-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "policy-conflicts-ocr-aslevel-economics"
 description: "Twelve original practice questions with worked answers on policy trade-offs, expectations, wage flexibility and policy history for OCR A Level Economics."
 author: "marlbridge-academic-team"

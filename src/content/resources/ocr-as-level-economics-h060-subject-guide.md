@@ -6,9 +6,9 @@ level: ["a-levels"]
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 0
-description: "How OCR AS Level Economics (H060) is organised: seven topics across microeconomics and macroeconomics, assessed by two synoptic 60-mark papers."
+description: "How OCR AS Level Economics (H060) is organised: six content areas across microeconomics and macroeconomics, assessed by two synoptic 60-mark papers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
@@ -23,37 +23,34 @@ of microeconomics and macroeconomics. It suits students who want a grounding in
 economics alongside other subjects, and it shares a course family with OCR's full
 A Level, H460. The AS is assessed entirely by external examination: two compulsory
 written papers, Microeconomics and Macroeconomics, each lasting 1 hour 30 minutes,
-carrying 60 marks and worth 50%. The specification text this page follows is headed
-"For first assessment in 2016", so check with your teacher that it matches the version
-your school is teaching.
+carrying 60 marks and worth 50%. This page follows the current specification, Version 3.0
+(June 2026), for first assessment in 2020.
 
 ## How the course is organised
 
-The content is arranged in seven topics. The first three are microeconomic and the
-remaining four macroeconomic, matching the titles of the two papers.
+The content is arranged in six areas, two for Component 1 (Microeconomics) and four for
+Component 2 (Macroeconomics), matching the titles of the two papers. The specification
+numbers each component's areas from 1; the site numbers them 1 to 6.
 
-**Microeconomics**
+**Component 1: Microeconomics**
 
-1. *Scarcity and choice*: the basic economic problem, the market economy, opportunity
-   cost, and specialisation and trade.
-2. *How competitive markets work*: allocation of resources, the objectives of economic
-   agents, supply and demand and the interaction of markets, elasticity, productive and
-   allocative efficiency, costs and revenue, and economies and diseconomies of scale.
-3. *Market failure and government intervention*: market failure, externalities,
-   information asymmetries, alternative methods of government intervention, and
-   government failure.
+1. *Introduction to microeconomics*: the economic problem, the allocation of resources
+   (including productive and allocative efficiency), and opportunity cost.
+2. *The role of markets*: specialisation and trade, demand, supply, consumer and producer
+   surplus, the interaction of markets, elasticity, market failure and externalities, and
+   government intervention (including government failure).
 
-**Macroeconomics**
+**Component 2: Macroeconomics**
 
-4. *Economic policy objectives and indicators of macroeconomic performance*: economic
-   growth, employment and unemployment, inflation, and trends in macroeconomic
-   indicators.
-5. *Aggregate demand and aggregate supply*: the circular flow of income, aggregate
-   demand, aggregate supply, how the two interact, and macroeconomic equilibrium.
-6. *The application of policy instruments*: fiscal, monetary and supply-side policy, and
-   conflicts between policies.
-7. *The global context*: international trade, the balance of payments and exchange
-   rates.
+3. *Aggregate demand and aggregate supply*: the circular flow of income, aggregate
+   demand, aggregate supply, and the interaction of aggregate demand and supply.
+4. *Economic policy objectives*: economic growth, development, employment, inflation, the
+   balance of payments, and trends in macroeconomic indicators.
+5. *Implementing policy*: fiscal, monetary and supply side policy, and policy conflicts.
+6. *The global context*: international trade and exchange rates.
+
+Costs and revenue, economies of scale and information asymmetries are A Level (H460)
+content, not part of the AS.
 
 ## How it's assessed
 
@@ -75,11 +72,11 @@ May/June examination series each year.
 ## How the parts fit together
 
 The two papers divide the content between micro and macro, but the course is built so
-that ideas cross over. Supply and demand, introduced in Topic 2, is the model behind
-aggregate demand and aggregate supply in Topic 5. Market failure and government failure
-in Topic 3 prepare you to judge the effectiveness of policy instruments in Topic 6.
-Specialisation and trade in Topic 1 is developed in international trade and exchange
-rates in Topic 7.
+that ideas cross over. Supply and demand, in area 2, is the model behind aggregate demand
+and aggregate supply in area 3. Market failure and government failure, also in area 2,
+prepare you to judge the effectiveness of the policies in area 5. Specialisation and
+trade, at the start of area 2, is developed in international trade and exchange rates in
+area 6.
 
 The paper format shapes the skills you need. Section A rewards accurate, precise
 knowledge across the whole of each half of the course. Section B tests your ability to
@@ -94,9 +91,9 @@ A common approach is to teach the microeconomics topics first, in order, and the
 macroeconomics topics, since macro builds on several micro ideas. Some schools teach the
 two halves side by side. Over the course, a sensible plan is:
 
-- **First part of the course:** Topics 1 to 3, with regular multiple-choice and data
+- **First part of the course:** areas 1 and 2, with regular multiple-choice and data
   questions as each topic finishes.
-- **Second part of the course:** Topics 4 to 7, continuing the same pattern of short
+- **Second part of the course:** areas 3 to 6, continuing the same pattern of short
   practice.
 - **Final weeks:** full timed papers, with particular attention to the 20-mark extended
   writing question and to quantitative questions.
@@ -143,4 +140,4 @@ There is one examination series a year, in May/June, and both papers are taken a
 
 ## Source
 
-[OCR, AS and A Level Economics specification at a glance](https://www.ocr.org.uk/qualifications/as-and-a-level/economics-h060-h460-from-2019/specification-at-a-glance/)
+[OCR AS Level Economics (H060) specification, Version 3.0 (June 2026)](https://www.ocr.org.uk/Images/536454-specification-accredited-as-level-gce-economics-h060.pdf)

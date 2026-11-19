@@ -7,12 +7,12 @@ topic: "Scarcity and choice"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 1.1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "scarcity-and-choice-ocr-aslevel-economics"
-    subtopic: "the-basic-economic-problem-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
+    subtopic: "the-economic-problem-ocr-aslevel-economics"
 description: "Twelve original OCR AS Economics (H060) questions on the basic economic problem, with multiple choice, data response, an essay and full answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

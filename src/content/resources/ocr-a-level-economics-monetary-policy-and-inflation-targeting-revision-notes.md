@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "implementing-policy-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "monetary-policy-ocr-aslevel-economics"
 description: "Condensed OCR A Level Economics (H460) notes on monetary policy tools, the liquidity trap, inflation targeting and evaluating effectiveness."
 author: "marlbridge-academic-team"

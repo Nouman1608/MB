@@ -7,11 +7,11 @@ topic: "Economic growth"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 4.1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "economic-growth-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) practice questions on real and nominal GDP, growth rates, GDP per capita and the economic cycle, with answers."
 author: "marlbridge-academic-team"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the topic Economic growth in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The mark totals are our own and all countries and data are invented. Explanations are in the [economic growth study guide](/resources/ocr-as-level-economics-h060-economic-growth-ocr-aslevel-economics/) and the [economic growth revision notes](/resources/ocr-as-level-economics-h060-economic-growth-ocr-aslevel-economics-revision-notes/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/).
+These questions cover topic 2.1 Economic growth in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The mark totals are our own and all countries and data are invented. Explanations are in the [economic growth study guide](/resources/ocr-as-level-economics-h060-economic-growth-ocr-aslevel-economics/) and the [economic growth revision notes](/resources/ocr-as-level-economics-h060-economic-growth-ocr-aslevel-economics-revision-notes/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/).
 
 ## Questions
 

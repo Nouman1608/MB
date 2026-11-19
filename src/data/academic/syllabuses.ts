@@ -315,8 +315,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     boardSummary:
       'OCR AS Level Economics gives a grounding in both microeconomics and macroeconomics, applied to local, national and global contexts, and is co-teachable with OCR A Level Economics (H460).',
     officialUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/economics-h060-h460-from-2019/',
-    verifiedOn: '2026-10-27',
-    notes: 'For first assessment in 2016 (specification published 2014 and co-taught with A Level Economics H460). Two components, Microeconomics (H060/01) and Macroeconomics (H060/02), each 1 hour 30 minutes, 60 marks and 50% of the AS.',
+    verifiedOn: '2026-11-19',
+    notes: 'Version 3.0 (June 2026), for first assessment in 2020 (first teaching 2019; co-taught with A Level Economics H460). Two components, Microeconomics (H060/01) and Macroeconomics (H060/02), each 1 hour 30 minutes, 60 marks and 50% of the AS. Content: Introduction to microeconomics and The role of markets (Component 1); Aggregate demand and aggregate supply, Economic policy objectives, Implementing policy and The global context (Component 2). D-505.',
   },
 
   // ===========================================================================

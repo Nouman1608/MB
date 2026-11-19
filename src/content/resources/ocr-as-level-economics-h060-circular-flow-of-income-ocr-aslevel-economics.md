@@ -7,8 +7,8 @@ topic: "Aggregate demand and aggregate supply"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 5.1
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 3.1
 syllabusTopics:
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers the **Circular flow of income** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The specification asks you to explain "the circular flow of income, with injections and leakages" and "the methods of measuring national income, output and expenditure". It is the starting point for the whole aggregate demand and aggregate supply topic, because it shows why spending, income and output are three views of the same activity. All figures are invented.
+This guide covers the **Circular flow of income**, topic 1.1 in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The specification asks you to explain "the circular flow of income, with injections and leakages" and "the methods of measuring national income, output and expenditure". It is the starting point for the whole of area 1, Aggregate demand and aggregate supply, because it shows why spending, income and output are three views of the same activity. All figures are invented.
 
 Use it with the [circular flow revision notes](/resources/ocr-as-level-economics-h060-circular-flow-of-income-ocr-aslevel-economics-revision-notes/) and the [circular flow practice questions](/resources/ocr-as-level-economics-h060-circular-flow-of-income-ocr-aslevel-economics-practice/). The next subtopic is [aggregate demand](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics/). The A Level extension, including propensities, is in [the circular flow of income, propensities and aggregate demand](/resources/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate/).
 

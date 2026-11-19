@@ -19,7 +19,7 @@ syllabusTopics:
     subtopic: "circular-flow-of-income-ocr-aslevel-economics"
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "aggregate-demand-ad-ocr-aslevel-economics"
+    subtopic: "aggregate-demand-ocr-aslevel-economics"
 description: "Condensed OCR A Level Economics revision notes on national income measures, the circular flow, propensities and aggregate demand, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

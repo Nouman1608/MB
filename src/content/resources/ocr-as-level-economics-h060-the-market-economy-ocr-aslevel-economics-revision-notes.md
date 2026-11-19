@@ -7,12 +7,12 @@ topic: "Scarcity and choice"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 1.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "scarcity-and-choice-ocr-aslevel-economics"
-    subtopic: "the-market-economy-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
+    subtopic: "allocation-of-resources-ocr-aslevel-economics"
 description: "Condensed OCR AS Economics (H060) notes on the market economy: features, strengths, weaknesses, government's role, the margin and a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

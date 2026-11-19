@@ -7,11 +7,11 @@ topic: "The application of policy instruments"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 6.4
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 5.4
 syllabusTopics:
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "policy-conflicts-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) policy conflicts revision notes: the main trade-offs, when they are strong or weak, how to manage them, and a self-test."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense **Policy conflicts** from Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, which asks you to evaluate "conflicts and trade-offs between policy objectives". The [policy conflicts study guide](/resources/ocr-as-level-economics-h060-policy-conflicts-ocr-aslevel-economics/) has the full explanations and worked examples, and the [policy conflicts practice questions](/resources/ocr-as-level-economics-h060-policy-conflicts-ocr-aslevel-economics-practice/) give exam-style work. All data is invented.
+These notes condense topic 3.4 **Policy conflicts** from Implementing policy in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026), which asks you to evaluate "conflicts and trade-offs between policy objectives". The [policy conflicts study guide](/resources/ocr-as-level-economics-h060-policy-conflicts-ocr-aslevel-economics/) has the full explanations and worked examples, and the [policy conflicts practice questions](/resources/ocr-as-level-economics-h060-policy-conflicts-ocr-aslevel-economics-practice/) give exam-style work. All data is invented.
 
 ## The objectives
 

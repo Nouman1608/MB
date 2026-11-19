@@ -19,7 +19,7 @@ syllabusTopics:
     subtopic: "circular-flow-of-income-ocr-aslevel-economics"
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "aggregate-demand-ad-ocr-aslevel-economics"
+    subtopic: "aggregate-demand-ocr-aslevel-economics"
 description: "Study guide to the circular flow, propensities to consume, save and withdraw, and aggregate demand for OCR A Level Economics, with worked calculations."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

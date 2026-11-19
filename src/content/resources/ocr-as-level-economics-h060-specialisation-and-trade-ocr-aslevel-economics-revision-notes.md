@@ -7,11 +7,11 @@ topic: "Scarcity and choice"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 1.4
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "scarcity-and-choice-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
     subtopic: "specialisation-and-trade-ocr-aslevel-economics"
 description: "Condensed OCR AS Economics (H060) notes on specialisation, the division of labour, exchange, barter and the functions of money, with a 12-question self-test."
 author: "marlbridge-academic-team"

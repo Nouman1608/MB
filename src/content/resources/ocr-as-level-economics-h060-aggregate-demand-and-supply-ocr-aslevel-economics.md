@@ -7,12 +7,12 @@ topic: "Aggregate demand and aggregate supply"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 5.4
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 3.4
 syllabusTopics:
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "aggregate-demand-and-supply-ocr-aslevel-economics"
+    subtopic: "the-interaction-of-aggregate-demand-and-supply-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) guide to using AD and AS together: the model's assumptions, single and simultaneous shifts, and why curve slopes matter."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers **Aggregate demand and supply** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The specification topic "The interaction of aggregate demand and supply" asks you to explain "the assumptions underlying the aggregate demand and aggregate supply models" and "equilibrium in the macroeconomy", and to evaluate the "effects of changes in aggregate demand and aggregate supply on macroeconomic indicators". This page deals with the assumptions and with the method of analysing changes when AD and AS are used together, including changes in both curves at once. Equilibrium itself and the effects on each indicator are taken further in [macroeconomic equilibrium](/resources/ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics/). All figures are invented.
+This guide covers **Aggregate demand and supply** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). It is part of topic 1.4 The interaction of aggregate demand and supply, which asks you to explain "the assumptions underlying the aggregate demand and aggregate supply models" and "equilibrium in the macroeconomy", and to evaluate the "effects of changes in aggregate demand and aggregate supply on macroeconomic indicators". This page deals with the assumptions and with the method of analysing changes when AD and AS are used together, including changes in both curves at once. Equilibrium itself and the effects on each indicator are taken further in [macroeconomic equilibrium](/resources/ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics/). All figures are invented.
 
 Use it with the [aggregate demand and supply revision notes](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics-revision-notes/) and the [aggregate demand and supply practice questions](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics-practice/). The two curves are built separately in [aggregate demand](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics/) and [aggregate supply](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics/).
 
@@ -35,7 +35,7 @@ That is why a statement such as "higher government spending raises output" is in
 
 ## 2. The assumptions underlying the AD and AS models
 
-Every model simplifies. The specification asks you to know the assumptions so that you can judge when the conclusions are safe.
+Every model simplifies. The specification asks you to explain the assumptions so that you can judge when the conclusions are safe.
 
 | Assumption | What it means | Why it matters |
 |---|---|---|

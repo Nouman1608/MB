@@ -7,12 +7,12 @@ topic: "Government failure"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 3.5
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.8
 syllabusTopics:
   - qualification: "as-level"
-    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
-    subtopic: "government-failure-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "government-intervention-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) practice questions on the causes and consequences of government failure, with full mark-scheme-style answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover "Government failure" and the evaluation of its "Causes and consequences", in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The mark totals are our own and every market and figure is invented. Explanations are in the [government failure study guide](/resources/ocr-as-level-economics-h060-government-failure-ocr-aslevel-economics/) and the [government failure revision notes](/resources/ocr-as-level-economics-h060-government-failure-ocr-aslevel-economics-revision-notes/).
+These questions cover "Government failure" and the evaluation of its "Causes and consequences", part of topic 2.8 Government intervention in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The mark totals are our own and every market and figure is invented. Explanations are in the [government failure study guide](/resources/ocr-as-level-economics-h060-government-failure-ocr-aslevel-economics/) and the [government failure revision notes](/resources/ocr-as-level-economics-h060-government-failure-ocr-aslevel-economics-revision-notes/).
 
 ## Questions
 

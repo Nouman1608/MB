@@ -7,12 +7,12 @@ topic: "Aggregate demand and aggregate supply"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 5.5
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 3.4
 syllabusTopics:
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "macroeconomic-equilibrium-ocr-aslevel-economics"
+    subtopic: "the-interaction-of-aggregate-demand-and-supply-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) guide to macroeconomic equilibrium: short and long run, adjustment, and effects on growth, jobs, inflation and trade."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers **Macroeconomic equilibrium** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. Within the topic "The interaction of aggregate demand and supply", the specification asks you to explain "equilibrium in the macroeconomy" and to evaluate the "effects of changes in aggregate demand and aggregate supply on macroeconomic indicators". This page explains what equilibrium is, how the economy moves towards it, how short-run and long-run equilibrium differ, and how changes in equilibrium show up in growth, unemployment, inflation and the current account. The model's assumptions and the method for analysing combined shifts are in [aggregate demand and supply](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics/). All figures are invented.
+This guide covers **Macroeconomic equilibrium** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). Within topic 1.4 The interaction of aggregate demand and supply, the specification asks you to explain "equilibrium in the macroeconomy" and to evaluate the "effects of changes in aggregate demand and aggregate supply on macroeconomic indicators". This page explains what equilibrium is, how the economy moves towards it, how short-run and long-run equilibrium differ, and how changes in equilibrium show up in growth, unemployment, inflation and the current account. The model's assumptions and the method for analysing combined shifts are in [aggregate demand and supply](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics/). All figures are invented.
 
 Use it with the [macroeconomic equilibrium revision notes](/resources/ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics-revision-notes/) and the [macroeconomic equilibrium practice questions](/resources/ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics-practice/). The underlying curves are in [aggregate demand](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics/) and [aggregate supply](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics/).
 

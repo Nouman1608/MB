@@ -7,12 +7,12 @@ topic: "Aggregate demand and aggregate supply"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 5.5
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 3.4
 syllabusTopics:
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "macroeconomic-equilibrium-ocr-aslevel-economics"
+    subtopic: "the-interaction-of-aggregate-demand-and-supply-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) macroeconomic equilibrium revision notes: adjustment, short and long run, effects on indicators, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense **Macroeconomic equilibrium** from Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification: equilibrium in the macroeconomy and the effects of changes in AD and AS on macroeconomic indicators. The [macroeconomic equilibrium study guide](/resources/ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics/) has the full worked examples, and the [macroeconomic equilibrium practice questions](/resources/ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics-practice/) give exam-style work. Assumptions and combined shifts are in the [aggregate demand and supply revision notes](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics-revision-notes/). All figures are invented.
+These notes condense **Macroeconomic equilibrium**, part of topic 1.4 The interaction of aggregate demand and supply in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026): equilibrium in the macroeconomy and the effects of changes in AD and AS on macroeconomic indicators. The [macroeconomic equilibrium study guide](/resources/ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics/) has the full worked examples, and the [macroeconomic equilibrium practice questions](/resources/ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics-practice/) give exam-style work. Assumptions and combined shifts are in the [aggregate demand and supply revision notes](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics-revision-notes/). All figures are invented.
 
 ## What you must be able to do
 

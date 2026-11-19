@@ -7,12 +7,12 @@ topic: "Aggregate demand and aggregate supply"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 5.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 3.2
 syllabusTopics:
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "aggregate-demand-ad-ocr-aslevel-economics"
+    subtopic: "aggregate-demand-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) aggregate demand questions with answers: AD components, slope and shifts, consumption and expectations."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **Aggregate demand (AD)** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. All countries and data are invented. Revise first with the [aggregate demand study guide](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics/) and the [aggregate demand revision notes](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics-revision-notes/).
+These questions cover **Aggregate demand (AD)**, topic 1.2 in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). All countries and data are invented. Revise first with the [aggregate demand study guide](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics/) and the [aggregate demand revision notes](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics-revision-notes/).
 
 ## Section A: Short questions
 

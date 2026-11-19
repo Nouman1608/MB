@@ -7,12 +7,12 @@ topic: "Aggregate demand and aggregate supply"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 5.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 3.2
 syllabusTopics:
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "aggregate-demand-ad-ocr-aslevel-economics"
+    subtopic: "aggregate-demand-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) aggregate demand revision notes: AD components, why the curve slopes down, shifts, consumption and expectations, plus a self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,15 +23,15 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense **Aggregate demand (AD)** from Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The [aggregate demand study guide](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics/) has the full explanations, and the [aggregate demand practice questions](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics-practice/) give exam-style work. All figures are invented.
+These notes condense **Aggregate demand (AD)**, topic 1.2 in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The [aggregate demand study guide](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics/) has the full explanations, and the [aggregate demand practice questions](/resources/ocr-as-level-economics-h060-aggregate-demand-ad-ocr-aslevel-economics-practice/) give exam-style work. All figures are invented.
 
 ## What you must be able to do
 
 | Specification wording | In one line |
 |---|---|
 | Explain aggregate demand and its components | AD = C + I + G + (X - M), total planned spending at each price level |
-| Explain, with a diagram, the relationship between AD and the price level | Downward slope: wealth, interest rate and international trade effects |
-| Explain, with a diagram, shifts in the AD curve | Any change in a component not caused by the price level |
+| Explain, with the aid of a diagram, the relationship between aggregate demand and price level | Downward slope: wealth, interest rate and international trade effects |
+| Explain, with the aid of a diagram, shifts in the aggregate demand curve | Any change in a component not caused by the price level |
 | Evaluate the relationship between changes in income and consumption | Income matters most, but the effect depends on permanence, wealth, credit, distribution and confidence |
 | Evaluate the role of expectations | Confidence and expected prices or policy can move AD on their own |
 

@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "implementing-policy-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "policy-conflicts-ocr-aslevel-economics"
 description: "Study guide to trade-offs between macroeconomic objectives, how to resolve them, and why policy approaches changed, for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"

@@ -7,8 +7,8 @@ topic: "The global context"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 7.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 6.2
 syllabusTopics:
   - qualification: "as-level"
     topic: "the-global-context-ocr-aslevel-economics"
@@ -23,18 +23,18 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense **Exchange rates** from The global context in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The full explanations and worked examples are in the [exchange rates study guide](/resources/ocr-as-level-economics-h060-exchange-rates-ocr-aslevel-economics/), and the [exchange rates practice questions](/resources/ocr-as-level-economics-h060-exchange-rates-ocr-aslevel-economics-practice/) give exam-style work with mark schemes. All rates and figures are invented.
+These notes condense topic 4.2 **Exchange rates** from The global context in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The full explanations and worked examples are in the [exchange rates study guide](/resources/ocr-as-level-economics-h060-exchange-rates-ocr-aslevel-economics/), and the [exchange rates practice questions](/resources/ocr-as-level-economics-h060-exchange-rates-ocr-aslevel-economics-practice/) give exam-style work with mark schemes. All rates and figures are invented.
 
 ## What you must be able to do
 
 | Specification wording | In one line |
 |---|---|
 | Explain and calculate exchange rates | The price of one currency in another; convert prices and find percentage changes |
-| Explain, with a diagram, determination in a floating system | Demand for and supply of the currency set the rate |
-| Explain, with a diagram, determination in a fixed system | The authorities hold a target using reserves and interest rates |
+| Explain, with the aid of a diagram, determination of exchange rates in a floating exchange rate system | Demand for and supply of the currency set the rate |
+| Explain, with the aid of a diagram, determination of exchange rates in a fixed exchange rate system | The authorities hold a target using reserves and interest rates |
 | Evaluate causes of exchange rate changes | Interest rates, inflation, trade, investment, speculation, confidence |
 | Evaluate consequences of exchange rate changes | Current account, inflation, growth, jobs; depends on elasticity and spare capacity |
-| Evaluate advantages and disadvantages of systems | Floating gives flexibility; fixed gives certainty |
+| Evaluate advantages and disadvantages of different exchange rate systems | Floating gives flexibility; fixed gives certainty |
 
 ## Key terms
 

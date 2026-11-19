@@ -7,11 +7,11 @@ topic: "How competitive markets work"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 2.1
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 1.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
     subtopic: "allocation-of-resources-ocr-aslevel-economics"
 description: "Condensed OCR AS Economics (H060) notes on resource allocation: functions of price, incentives, comparing economic systems, traps and a 12-question self-test."
 author: "marlbridge-academic-team"

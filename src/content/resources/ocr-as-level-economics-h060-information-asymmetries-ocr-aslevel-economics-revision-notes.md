@@ -7,21 +7,23 @@ topic: "Information asymmetries"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 3.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.7
 syllabusTopics:
   - qualification: "as-level"
-    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
-    subtopic: "information-asymmetries-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "market-failure-and-externalities-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) revision notes on information asymmetries: information failure, moral hazard, diagrams, remedies, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "archived"
 reviewedDate: 2026-11-18
 reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification names information provision as an intervention but lists asymmetric information and moral hazard only in the A Level (H460) information failure topic, so a teacher should confirm the AS scope. Rechecked 2026-11-18: the owner reports that the teacher re-checked this page against the current H060 specification after the flag above and approved it as it stands."
 publishedDate: 2026-11-18
 featured: false
 ---
+
+> **Archived page.** OCR's current AS Level Economics (H060) specification, Version 3.0 (June 2026), does not include information asymmetries (asymmetric information) at AS Level; the topic is A Level (H460) content. This page is kept so existing links still work, but it is no longer part of the AS course. For the A Level topic, use the [OCR A Level information failure revision notes](/resources/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public-revision-notes/).
 
 These notes condense **Information asymmetries** for the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 01, Microeconomics. The current specification names "information provision" as an AS intervention, while asymmetric information and moral hazard are named in the A Level (H460) content, so confirm the scope with your teacher. Full explanations, including the scooter and phone insurance examples, are in the [information asymmetries study guide](/resources/ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics/). Practise with the [information asymmetries practice questions](/resources/ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics-practice/). All figures are invented.
 

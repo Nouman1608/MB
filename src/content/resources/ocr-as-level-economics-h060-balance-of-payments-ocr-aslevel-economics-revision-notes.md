@@ -7,11 +7,11 @@ topic: "The global context"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 7.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 4.5
 syllabusTopics:
   - qualification: "as-level"
-    topic: "the-global-context-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "balance-of-payments-ocr-aslevel-economics"
 description: "Condensed OCR AS Level Economics (H060) notes on the balance of payments: current account components, balances, sustainability, with a self-test."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense **Balance of payments** from Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. Full explanations and worked examples are in the [balance of payments study guide](/resources/ocr-as-level-economics-h060-balance-of-payments-ocr-aslevel-economics/), and the [balance of payments practice questions](/resources/ocr-as-level-economics-h060-balance-of-payments-ocr-aslevel-economics-practice/) give exam-style work with mark schemes. All numbers below are invented.
+These notes condense topic 2.5 **Balance of payments** from Economic policy objectives in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). Full explanations and worked examples are in the [balance of payments study guide](/resources/ocr-as-level-economics-h060-balance-of-payments-ocr-aslevel-economics/), and the [balance of payments practice questions](/resources/ocr-as-level-economics-h060-balance-of-payments-ocr-aslevel-economics-practice/) give exam-style work with mark schemes. All numbers below are invented.
 
 ## What you must be able to do
 
@@ -31,10 +31,10 @@ These notes condense **Balance of payments** from Component 02, Macroeconomics, 
 |---|---|
 | Explain the balance of payments | A record of all transactions between residents and the rest of the world |
 | Explain the components of the current account | Goods, services, primary income, secondary income |
-| Explain the objective of a sustainable position | A balance the country can keep without a forced, painful correction |
+| Explain the policy objective of a sustainable balance of payments position | A balance the country can keep without a forced, painful correction |
 | Explain imbalances | Large or persistent current account deficits or surpluses |
-| Explain and calculate balances | Credits minus debits, component by component |
-| Evaluate causes and consequences of imbalances | Cyclical or structural causes; effects on AD, the exchange rate and future income |
+| Explain and calculate balances of the different components on the balance of payments | Credits minus debits, component by component |
+| Evaluate causes and consequences of imbalances on the balance of payments | Cyclical or structural causes; effects on AD, the exchange rate and future income |
 
 ## Key terms
 

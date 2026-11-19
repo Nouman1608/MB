@@ -7,12 +7,12 @@ topic: "Productive and allocative efficiency"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 2.5
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 1.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
-    subtopic: "productive-and-allocative-efficiency-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
+    subtopic: "allocation-of-resources-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) practice questions on productive and allocative efficiency, PPCs, surplus and economic systems, with answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

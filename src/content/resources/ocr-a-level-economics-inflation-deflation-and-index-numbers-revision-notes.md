@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "economic-policy-objectives-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "inflation-ocr-aslevel-economics"
 description: "Condensed revision notes on inflation, CPI and RPI, index number and real value calculations, and causes and effects of inflation and deflation, OCR H460."
 author: "marlbridge-academic-team"

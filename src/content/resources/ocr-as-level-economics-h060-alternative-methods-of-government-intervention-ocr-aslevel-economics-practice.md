@@ -7,12 +7,12 @@ topic: "Alternative methods of government intervention"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 3.4
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.8
 syllabusTopics:
   - qualification: "as-level"
-    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
-    subtopic: "alternative-methods-of-government-intervention-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "government-intervention-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) practice questions on taxes, subsidies, price controls, buffer stocks and pollution permits, with full answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the methods of government intervention listed in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, and the evaluation of their effectiveness. The mark totals are our own and every market and figure is invented. Explanations are in the [government intervention study guide](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics/) and the [government intervention revision notes](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics-revision-notes/).
+These questions cover the methods of government intervention listed in topic 2.8 Government intervention (Component 01, Microeconomics) of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026), and the evaluation of their effectiveness. The mark totals are our own and every market and figure is invented. Explanations are in the [government intervention study guide](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics/) and the [government intervention revision notes](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics-revision-notes/).
 
 Questions 3, 4, 7 and 8 use an invented market with demand Qd = 500 − 20P and supply Qs = 30P − 100, where P is in pounds and Q in thousand units. The free market equilibrium is P = £12 and Q = 260.
 

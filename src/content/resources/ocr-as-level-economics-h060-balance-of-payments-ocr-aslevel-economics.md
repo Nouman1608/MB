@@ -7,11 +7,11 @@ topic: "The global context"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 7.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 4.5
 syllabusTopics:
   - qualification: "as-level"
-    topic: "the-global-context-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "balance-of-payments-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) guide to the balance of payments: current account components, calculating balances, sustainability and imbalances."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers **Balance of payments** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The specification asks you to explain the balance of payments; the components of the current account (trade in goods, trade in services, primary income and secondary income); the policy objective of a sustainable balance of payments position; and imbalances. You must also calculate the balances on the different components and evaluate the causes and consequences of imbalances. Every country and figure below is invented.
+This guide covers topic 2.5 **Balance of payments** in Economic policy objectives, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The specification asks you to explain the balance of payments; the components of the current account (trade in goods, trade in services, primary income and secondary income); the policy objective of a sustainable balance of payments position; and imbalances. You must also calculate the balances on the different components and evaluate the causes and consequences of imbalances. Every country and figure below is invented.
 
 Condensed recall is in the [balance of payments revision notes](/resources/ocr-as-level-economics-h060-balance-of-payments-ocr-aslevel-economics-revision-notes/), and exam-style work with mark schemes is in the [balance of payments practice questions](/resources/ocr-as-level-economics-h060-balance-of-payments-ocr-aslevel-economics-practice/). The A Level version of the topic, which adds policies to correct imbalances, is in [the balance of payments for OCR A Level](/resources/ocr-a-level-economics-the-balance-of-payments/).
 
@@ -33,8 +33,8 @@ Condensed recall is in the [balance of payments revision notes](/resources/ocr-a
 |---|---|
 | Explain the balance of payments | 1 |
 | Explain the components of the current account | 2 |
-| Explain and calculate balances of the different components | 3 |
-| Explain the policy objective of a sustainable position | 4 |
+| Explain and calculate balances of the different components on the balance of payments | 3 |
+| Explain the policy objective of a sustainable balance of payments position | 4 |
 | Explain imbalances | 4 |
 | Evaluate causes of imbalances | 5 |
 | Evaluate consequences of imbalances | 6 |

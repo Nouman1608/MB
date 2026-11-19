@@ -7,11 +7,11 @@ topic: "The application of policy instruments"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 6.4
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 5.4
 syllabusTopics:
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "policy-conflicts-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) guide to policy conflicts: trade-offs between growth, jobs, inflation, the current account and sustainability, and judging them."
 author: "marlbridge-academic-team"
@@ -23,13 +23,13 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers **Policy conflicts** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The specification asks you to evaluate "conflicts and trade-offs between policy objectives". It is a purely evaluative topic: there are no new definitions, but you must use what you know about AD, AS and the three types of policy to show when objectives clash, why, and how governments can choose between them. All countries and data are invented.
+This guide covers topic 3.4 **Policy conflicts** in Implementing policy, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The specification asks you to evaluate "conflicts and trade-offs between policy objectives". It is a purely evaluative topic: there are no new definitions, but you must use what you know about AD, AS and the three types of policy to show when objectives clash, why, and how governments can choose between them. All countries and data are invented.
 
 Use it with the [policy conflicts revision notes](/resources/ocr-as-level-economics-h060-policy-conflicts-ocr-aslevel-economics-revision-notes/) and the [policy conflicts practice questions](/resources/ocr-as-level-economics-h060-policy-conflicts-ocr-aslevel-economics-practice/). The policies involved are in [fiscal policy](/resources/ocr-as-level-economics-h060-fiscal-policy-ocr-aslevel-economics/), [monetary policy](/resources/ocr-as-level-economics-h060-monetary-policy-ocr-aslevel-economics/) and [supply side policy](/resources/ocr-as-level-economics-h060-supply-side-policy-ocr-aslevel-economics/). The A Level extension is in [policy conflicts and the evolution of macroeconomic policy](/resources/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic/).
 
 ## 1. The objectives, and why they can clash
 
-The AS course names these macroeconomic objectives:
+Component 02 sets out these macroeconomic objectives in Economic policy objectives, topics 2.1 to 2.5:
 
 - **Economic growth**, ideally steady and sustainable.
 - **Full employment**, or low unemployment.

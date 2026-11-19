@@ -7,21 +7,23 @@ topic: "Costs and revenue"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 2.6
 syllabusTopics:
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
-    subtopic: "costs-and-revenue-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "elasticity-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to costs and revenue: fixed, variable and average costs, total and average revenue, profit and PED."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "archived"
 reviewedDate: 2026-11-18
 reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification names PED and a firm's total revenue but lists cost, revenue and profit calculation as an A Level (H460) skill, so a teacher should confirm how much of this subtopic the AS course examines. Rechecked 2026-11-18: the owner reports that the teacher re-checked this page against the current H060 specification after the flag above and approved it as it stands."
 publishedDate: 2026-11-18
 featured: false
 ---
+
+> **Archived page.** OCR's current AS Level Economics (H060) specification, Version 3.0 (June 2026), does not include costs and revenue at AS Level; the topic is A Level (H460) content. This page is kept so existing links still work, but it is no longer part of the AS course. For the A Level topic, use the [OCR A Level costs study guide](/resources/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves/).
 
 This guide covers **Costs and revenue** for the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 01, Microeconomics. Check the scope with your teacher: in the current version of the specification the AS content names "the relationship between PED and a firm's total revenue" in the Elasticity topic and asks you to explain productive efficiency, which depends on average cost, while the full treatment of cost and revenue calculation sits in the A Level (H460) topics on costs and on revenue and profit. This guide teaches the cost and revenue ideas that the AS topics rely on. All firms and figures are invented.
 

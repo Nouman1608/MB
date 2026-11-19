@@ -7,12 +7,12 @@ topic: "Employment/unemployment"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 4.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 4.3
 syllabusTopics:
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
-    subtopic: "employment-unemployment-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
+    subtopic: "employment-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) revision notes on unemployment: measures, LFS and claimant count, types, consequences, full employment and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense the topic **Employment** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The topic covers employment and unemployment, the objective of full employment, the Labour Force Survey and claimant count, the causes and consequences of unemployment and the effects of full employment. Full explanations and worked examples are in the [employment and unemployment study guide](/resources/ocr-as-level-economics-h060-employment-unemployment-ocr-aslevel-economics/). Practise with the [employment and unemployment practice questions](/resources/ocr-as-level-economics-h060-employment-unemployment-ocr-aslevel-economics-practice/). All figures are invented.
+These notes condense topic 2.3 **Employment** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The topic covers employment and unemployment, the objective of full employment, the Labour Force Survey and claimant count, the causes and consequences of unemployment and the effects of full employment. Full explanations and worked examples are in the [employment and unemployment study guide](/resources/ocr-as-level-economics-h060-employment-unemployment-ocr-aslevel-economics/). Practise with the [employment and unemployment practice questions](/resources/ocr-as-level-economics-h060-employment-unemployment-ocr-aslevel-economics-practice/). All figures are invented.
 
 ## Key terms
 

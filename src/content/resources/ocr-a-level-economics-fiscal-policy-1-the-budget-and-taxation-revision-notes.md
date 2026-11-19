@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "implementing-policy-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "fiscal-policy-ocr-aslevel-economics"
 description: "Revision notes on the budget, tax types, average and marginal rates, the Laffer Curve and budget positions for OCR A Level Economics, with a self-test."
 author: "marlbridge-academic-team"
