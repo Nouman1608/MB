@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1010" viewBox="0 0 1800 2020" role="img" aria-labelledby="title desc"><title id="title">The menstrual cycle (Edexcel International GCSE Biology)</title><desc id="desc">Top: the lining of the uterus over a 28-day cycle. It breaks down during days 1 to 5, then thickens; ovulation, when an egg is released, is at day 14; the lining stays thick until about day 26, then starts to break down. Bottom: a sketch of hormone levels. FSH peaks early in the cycle, oestrogen peaks just before ovulation, LH surges sharply at ovulation and progesterone peaks around day 21. A label marks FSH and LH as Paper 2 only (4BI1 3.10B); oestrogen and progesterone are statement 3.9, on both papers.</desc><rect width="1800" height="2020" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">The menstrual cycle</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">A 28-day cycle</text>
+<text x="60" y="294" font-size="50" font-weight="700" fill="#1E2B47">Lining of the uterus</text>
+<rect x="262" y="410" width="258" height="410" fill="#F2D4C6"/>
+<text x="296" y="474" font-size="42" font-weight="700" fill="#9C4A1F">days 1-5</text>
+<line x1="258" y1="380" x2="258" y2="822" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<line x1="258" y1="822" x2="1720" y2="822" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<line x1="258" y1="822" x2="258" y2="838" stroke="#1E2B47" stroke-width="5"/>
+<text x="258" y="896" font-size="40" fill="#1E2B47" text-anchor="middle">0</text>
+<line x1="623.47" y1="822" x2="623.47" y2="838" stroke="#1E2B47" stroke-width="5"/>
+<text x="623.47" y="896" font-size="40" fill="#1E2B47" text-anchor="middle">7</text>
+<line x1="988.94" y1="822" x2="988.94" y2="838" stroke="#1E2B47" stroke-width="5"/>
+<text x="988.94" y="896" font-size="40" fill="#1E2B47" text-anchor="middle">14</text>
+<line x1="1354.41" y1="822" x2="1354.41" y2="838" stroke="#1E2B47" stroke-width="5"/>
+<text x="1354.41" y="896" font-size="40" fill="#1E2B47" text-anchor="middle">21</text>
+<line x1="1719.88" y1="822" x2="1719.88" y2="838" stroke="#1E2B47" stroke-width="5"/>
+<text x="1719.88" y="896" font-size="40" fill="#1E2B47" text-anchor="middle">28</text>
+<text x="236" y="830" font-size="40" fill="#1E2B47" text-anchor="end">thin</text>
+<text x="236" y="442" font-size="40" fill="#1E2B47" text-anchor="end">thick</text>
+<text x="990" y="986" font-size="42" fill="#4B5B72" text-anchor="middle">Day of cycle</text>
+<line x1="990" y1="370" x2="990" y2="822" stroke="#4B5B72" stroke-width="4" stroke-dasharray="12 10"/>
+<text x="962" y="460" font-size="42" font-weight="700" fill="#4B5B72" text-anchor="end">ovulation</text>
+<text x="962" y="516" font-size="42" fill="#4B5B72" text-anchor="end">egg released</text>
+<path d="M258 588 C340 588 420 790 520 790 C700 790 860 640 990 552 C1100 480 1180 428 1280 428 H1620 C1660 428 1680 560 1720 590" fill="none" stroke="#2F6B63" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="60" y="1101" width="498" height="54" rx="27" fill="#8A6A0C"/><text x="309" y="1140.24" font-size="34" font-weight="700" fill="#FFFFFF" text-anchor="middle">FSH and LH: Paper 2 only</text>
+<text x="600" y="1144" font-size="52" font-weight="700" fill="#1E2B47">Hormone levels (sketch)</text>
+<line x1="258" y1="1270" x2="258" y2="1824" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<line x1="258" y1="1824" x2="1720" y2="1824" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<line x1="258" y1="1824" x2="258" y2="1840" stroke="#1E2B47" stroke-width="5"/>
+<text x="258" y="1898" font-size="40" fill="#1E2B47" text-anchor="middle">0</text>
+<line x1="623.47" y1="1824" x2="623.47" y2="1840" stroke="#1E2B47" stroke-width="5"/>
+<text x="623.47" y="1898" font-size="40" fill="#1E2B47" text-anchor="middle">7</text>
+<line x1="988.94" y1="1824" x2="988.94" y2="1840" stroke="#1E2B47" stroke-width="5"/>
+<text x="988.94" y="1898" font-size="40" fill="#1E2B47" text-anchor="middle">14</text>
+<line x1="1354.41" y1="1824" x2="1354.41" y2="1840" stroke="#1E2B47" stroke-width="5"/>
+<text x="1354.41" y="1898" font-size="40" fill="#1E2B47" text-anchor="middle">21</text>
+<line x1="1719.88" y1="1824" x2="1719.88" y2="1840" stroke="#1E2B47" stroke-width="5"/>
+<text x="1719.88" y="1898" font-size="40" fill="#1E2B47" text-anchor="middle">28</text>
+<text x="236" y="1832" font-size="40" fill="#1E2B47" text-anchor="end">low</text>
+<text x="236" y="1332" font-size="40" fill="#1E2B47" text-anchor="end">high</text>
+<text x="990" y="1988" font-size="42" fill="#4B5B72" text-anchor="middle">Day of cycle</text>
+<line x1="990" y1="1272" x2="990" y2="1824" stroke="#4B5B72" stroke-width="4" stroke-dasharray="12 10"/>
+<path d="M258 1690 C380 1520 440 1456 520 1456 C640 1456 760 1680 990 1770 C1150 1790 1400 1782 1720 1782" fill="none" stroke="#8A6A0C" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="28 18"/>
+<path d="M258 1796 L560 1796 C680 1796 760 1336 884 1336 C980 1336 1040 1672 1146 1672 C1230 1672 1270 1568 1354 1568 C1460 1568 1560 1760 1720 1784" fill="none" stroke="#2F6B63" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M258 1792 H820 C880 1792 900 1350 960 1350 C1010 1350 1030 1780 1100 1792 H1720" fill="none" stroke="#B9632F" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M258 1816 C700 1816 900 1810 990 1770 C1100 1720 1220 1372 1356 1372 C1500 1372 1620 1700 1720 1776" fill="none" stroke="#1E2B47" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="2 16"/>
+<text x="520" y="1414" font-size="44" font-weight="700" fill="#8A6A0C" text-anchor="middle">FSH</text>
+<text x="690" y="1360" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">Oestrogen</text>
+<text x="1056" y="1362" font-size="44" font-weight="700" fill="#B9632F" text-anchor="middle">LH</text>
+<text x="1350" y="1332" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">Progesterone</text></g></svg>

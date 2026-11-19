@@ -38,7 +38,7 @@ These notes condense sections 3.2.5 (Breathing) and 3.2.6 (Respiration) of the O
 - Recognise on a diagram: ribs, intercostal muscles, diaphragm, lungs, trachea, bronchi, bronchioles, alveoli.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--01-breathing-system.webp" width="900" height="900" alt="Front view of the chest. Air enters at the nose or mouth and passes in order through the larynx (1), trachea (2), bronchi (3) and bronchioles (4) to the alveoli (5) in the lungs. Ribs, intercostal muscles and the diaphragm surround and sit under the lungs. Extended: the trachea has rings of cartilage." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-breathing-system.svg" width="900" height="900" alt="Front view of the chest. Air enters at the nose or mouth and passes in order through the larynx (1), trachea (2), bronchi (3) and bronchioles (4) to the alveoli (5) in the lungs. Ribs, intercostal muscles and the diaphragm surround and sit under the lungs. The trachea has rings of cartilage. The larynx and cartilage rings are greyed as not required." loading="lazy">
   <figcaption>Follow the numbers 1 to 5 to trace the route air takes into the lungs.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ Method in steps for a 4-mark explanation:
 4. State which way the air moves.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--03-ventilation.webp" width="900" height="960" alt="Extended. Two chest sketches side by side. Breathing in: external intercostals contract and internal relax, ribs move up and out, the diaphragm contracts and flattens, thorax volume increases and pressure falls, so air flows in. Breathing out: external relax and internal contract, ribs down and in, diaphragm domes up, volume decreases and pressure rises, so air is forced out." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-ventilation.svg" width="900" height="960" alt="Two chest sketches side by side. Breathing in: external intercostals contract and internal relax, ribs move up and out, the diaphragm contracts and flattens, thorax volume increases and pressure falls, so air flows in. Breathing out: external relax and internal contract, ribs down and in, diaphragm domes up, volume decreases and pressure rises, so air is forced out. The external and internal intercostal lines are greyed as not required." loading="lazy">
   <figcaption>Volume up means pressure down, so air flows in; volume down means pressure up, so air flows out.</figcaption>
 </figure>
 
@@ -125,7 +125,7 @@ Method in steps for a 4-mark explanation:
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--08-heart-rate-exercise.webp" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Extended panel: active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-heart-rate-exercise.svg" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
   <figcaption>After exercise the mean heart rate rose from 74 to 118 beats per minute, a 59% increase.</figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ Method in steps for a 4-mark explanation:
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--05-oxygen-debt.webp" width="900" height="1290" alt="Extended. Lactic acid built up in the muscles is carried by the blood, driven by a fast heart rate, to the liver, where it is broken down by aerobic respiration using extra oxygen supplied by deeper, faster breathing. Charts of the cyclist example show heart rate 64, 172, 118, 66 and breathing rate 14, 40, 26, 15 at rest, end of sprint, 5 and 15 minutes after." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-oxygen-debt.svg" width="900" height="1290" alt="Lactic acid built up in the muscles is carried by the blood, driven by a fast heart rate, to the liver, where it is broken down by aerobic respiration using extra oxygen supplied by deeper, faster breathing. Charts of the cyclist example show heart rate 64, 172, 118, 66 and breathing rate 14, 40, 26, 15 at rest, end of sprint, 5 and 15 minutes after. A note says the liver's role is not required by OxfordAQA." loading="lazy">
   <figcaption>Fast heart rate moves lactic acid to the liver and fast breathing supplies the oxygen to break it down.</figcaption>
 </figure>
 

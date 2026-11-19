@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1260" viewBox="0 0 1800 2520" role="img" aria-labelledby="title desc"><title id="title">Genetic modification: six steps (Edexcel International GCSE Biology)</title><desc id="desc">Six steps: a, restriction enzymes cut the human gene out of DNA, leaving sticky ends; b, the same enzymes cut a plasmid open, leaving matching sticky ends; c, DNA ligase joins the gene into the plasmid, giving a recombinant plasmid; d, plasmids are put into bacteria; e, the bacteria multiply, for example in a fermenter; f, the bacteria make the human protein. No tier labels: 4BI1 statements 5.12 to 5.14 are on both papers.</desc><rect width="1800" height="2520" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Genetic modification: six steps</text>
+<circle cx="660" cy="178" r="26" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<text x="705" y="194" font-size="44" fill="#1E2B47">= human gene</text>
+<rect x="60" y="236" width="1680" height="458" rx="26" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="130" cy="316" r="34" fill="#1E2B47"/>
+<text x="130" y="332" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="middle">a</text>
+<text x="210" y="330" font-size="48" font-weight="700" fill="#1E2B47">Cut out the</text>
+<text x="210" y="398" font-size="48" font-weight="700" fill="#1E2B47">human gene</text>
+<text x="210" y="468" font-size="42" fill="#4B5B72">restriction enzymes</text>
+<text x="1170" y="300" font-size="42" fill="#1E2B47" text-anchor="middle">gene</text>
+<line x1="876" y1="362" x2="1704" y2="362" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/>
+<line x1="876" y1="390" x2="1704" y2="390" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/>
+<line x1="1040" y1="362" x2="1300" y2="362" stroke="#D6B22F" stroke-width="8"/>
+<line x1="1040" y1="390" x2="1300" y2="390" stroke="#D6B22F" stroke-width="8"/>
+<line x1="1040" y1="326" x2="1040" y2="424" stroke="#B9632F" stroke-width="5" stroke-dasharray="10 8"/>
+<line x1="1300" y1="326" x2="1300" y2="424" stroke="#B9632F" stroke-width="5" stroke-dasharray="10 8"/>
+<line x1="1170" y1="436" x2="1170" y2="522" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/><polygon points="1170,556 1148.4,520 1191.6,520" fill="#1E2B47"/>
+<line x1="1016" y1="572" x2="1076" y2="572" stroke="#B9632F" stroke-width="8" stroke-linecap="round"/>
+<line x1="1076" y1="572" x2="1302" y2="572" stroke="#D6B22F" stroke-width="8" stroke-linecap="round"/>
+<line x1="1076" y1="600" x2="1296" y2="600" stroke="#D6B22F" stroke-width="8" stroke-linecap="round"/>
+<line x1="1296" y1="600" x2="1362" y2="600" stroke="#B9632F" stroke-width="8" stroke-linecap="round"/>
+<line x1="1388" y1="588" x2="1416" y2="588" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<text x="1432" y="604" font-size="46" font-weight="700" fill="#B9632F">sticky ends</text>
+<rect x="60" y="716" width="1680" height="398" rx="26" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="130" cy="796" r="34" fill="#1E2B47"/>
+<text x="130" y="812" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="middle">b</text>
+<text x="210" y="810" font-size="48" font-weight="700" fill="#1E2B47">Cut the plasmid</text>
+<text x="210" y="878" font-size="48" font-weight="700" fill="#1E2B47">with the same</text>
+<text x="210" y="946" font-size="48" font-weight="700" fill="#1E2B47">enzymes</text>
+<path d="M1159.3 822.3 A122 122 0 1 1 1076.6 810.7" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1167.6 857.2 A98 98 0 1 1 1105.4 832.1" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1159.3 822.3 A122 122 0 0 1 1183.6 839.3" fill="none" stroke="#B9632F" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1081.6 834.1 A98 98 0 0 1 1105.4 832.1" fill="none" stroke="#B9632F" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1180" y1="806" x2="1310" y2="826" stroke="#1E2B47" stroke-width="4" stroke-linecap="round" stroke-dasharray="6 8"/>
+<text x="1320" y="840" font-size="46" font-weight="700" fill="#B9632F">sticky ends</text>
+<rect x="60" y="1136" width="1680" height="398" rx="26" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="130" cy="1216" r="34" fill="#1E2B47"/>
+<text x="130" y="1232" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="middle">c</text>
+<text x="210" y="1230" font-size="48" font-weight="700" fill="#1E2B47">Join the gene in</text>
+<text x="210" y="1298" font-size="48" font-weight="700" fill="#1E2B47">with DNA ligase</text>
+<circle cx="1102" cy="1340" r="122" fill="none" stroke="#1E2B47" stroke-width="6"/><circle cx="1102" cy="1340" r="100" fill="none" stroke="#1E2B47" stroke-width="6"/><path d="M1027.2 1233.2 A130.4 130.4 0 0 1 1176.8 1233.2" fill="none" stroke="#D6B22F" stroke-width="10.2" stroke-linejoin="round" stroke-linecap="round"/><path d="M1055.1 1239.4 A111 111 0 0 1 1148.9 1239.4" fill="none" stroke="#D6B22F" stroke-width="8.399999999999999" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1230" y1="1340" x2="1310" y2="1340" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<text x="1342" y="1326" font-size="46" font-weight="700" fill="#1E2B47">recombinant</text>
+<text x="1342" y="1390" font-size="46" font-weight="700" fill="#1E2B47">plasmid</text>
+<rect x="60" y="1556" width="1680" height="318" rx="26" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="130" cy="1636" r="34" fill="#1E2B47"/>
+<text x="130" y="1652" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="middle">d</text>
+<text x="210" y="1650" font-size="48" font-weight="700" fill="#1E2B47">Put plasmids</text>
+<text x="210" y="1718" font-size="48" font-weight="700" fill="#1E2B47">into bacteria</text>
+<circle cx="980" cy="1720" r="50" fill="none" stroke="#1E2B47" stroke-width="5"/><circle cx="980" cy="1720" r="36" fill="none" stroke="#1E2B47" stroke-width="5"/><path d="M947.3 1673.3 A57 57 0 0 1 1012.7 1673.3" fill="none" stroke="#D6B22F" stroke-width="8.5" stroke-linejoin="round" stroke-linecap="round"/><path d="M961.8 1681.0 A43 43 0 0 1 998.2 1681.0" fill="none" stroke="#D6B22F" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1056" y1="1720" x2="1142" y2="1720" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="1180,1720 1140,1744 1140,1696" fill="#1E2B47"/>
+<rect x="1196" y="1612" width="484" height="224" rx="112" fill="#B5D4CF" stroke="#2F6B63" stroke-width="6"/>
+<circle cx="1320" cy="1722" r="64" fill="none" stroke="#1E2B47" stroke-width="8"/>
+<circle cx="1530" cy="1722" r="50" fill="none" stroke="#1E2B47" stroke-width="5"/><circle cx="1530" cy="1722" r="36" fill="none" stroke="#1E2B47" stroke-width="5"/><path d="M1497.3 1675.3 A57 57 0 0 1 1562.7 1675.3" fill="none" stroke="#D6B22F" stroke-width="8.5" stroke-linejoin="round" stroke-linecap="round"/><path d="M1511.8 1683.0 A43 43 0 0 1 1548.2 1683.0" fill="none" stroke="#D6B22F" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="60" y="1896" width="1680" height="318" rx="26" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="130" cy="1976" r="34" fill="#1E2B47"/>
+<text x="130" y="1992" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="middle">e</text>
+<text x="210" y="1990" font-size="48" font-weight="700" fill="#1E2B47">Bacteria multiply</text>
+<text x="210" y="2128" font-size="42" fill="#4B5B72">e.g. in a fermenter</text>
+<rect x="853" y="2029" width="134" height="56" rx="28" fill="#B5D4CF" stroke="#2F6B63" stroke-width="5"/><circle cx="920" cy="2057" r="10" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<line x1="1000" y1="2057" x2="1062" y2="2057" stroke="#2F6B63" stroke-width="8" stroke-linecap="round"/><polygon points="1100,2057 1060,2081 1060,2033" fill="#2F6B63"/>
+<rect x="1133" y="1976" width="134" height="56" rx="28" fill="#B5D4CF" stroke="#2F6B63" stroke-width="5"/><circle cx="1200" cy="2004" r="10" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<rect x="1133" y="2070" width="134" height="56" rx="28" fill="#B5D4CF" stroke="#2F6B63" stroke-width="5"/><circle cx="1200" cy="2098" r="10" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<line x1="1280" y1="2057" x2="1348" y2="2057" stroke="#2F6B63" stroke-width="8" stroke-linecap="round"/><polygon points="1386,2057 1346,2081 1346,2033" fill="#2F6B63"/>
+<rect x="1405" y="1976" width="134" height="56" rx="28" fill="#B5D4CF" stroke="#2F6B63" stroke-width="5"/><circle cx="1472" cy="2004" r="10" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<rect x="1545" y="1976" width="134" height="56" rx="28" fill="#B5D4CF" stroke="#2F6B63" stroke-width="5"/><circle cx="1612" cy="2004" r="10" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<rect x="1405" y="2070" width="134" height="56" rx="28" fill="#B5D4CF" stroke="#2F6B63" stroke-width="5"/><circle cx="1472" cy="2098" r="10" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<rect x="1545" y="2070" width="134" height="56" rx="28" fill="#B5D4CF" stroke="#2F6B63" stroke-width="5"/><circle cx="1612" cy="2098" r="10" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<rect x="60" y="2236" width="1680" height="258" rx="26" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="130" cy="2316" r="34" fill="#1E2B47"/>
+<text x="130" y="2332" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="middle">f</text>
+<text x="210" y="2330" font-size="48" font-weight="700" fill="#1E2B47">Bacteria make</text>
+<text x="210" y="2398" font-size="48" font-weight="700" fill="#1E2B47">the human protein</text>
+<rect x="836" y="2276" width="408" height="160" rx="80" fill="#B5D4CF" stroke="#2F6B63" stroke-width="6"/>
+<circle cx="1032" cy="2356" r="42" fill="none" stroke="#1E2B47" stroke-width="5"/><circle cx="1032" cy="2356" r="28" fill="none" stroke="#1E2B47" stroke-width="5"/><path d="M1003.9 2315.9 A49 49 0 0 1 1060.1 2315.9" fill="none" stroke="#D6B22F" stroke-width="8.5" stroke-linejoin="round" stroke-linecap="round"/><path d="M1017.2 2324.3 A35 35 0 0 1 1046.8 2324.3" fill="none" stroke="#D6B22F" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1268" y1="2356" x2="1362" y2="2356" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="1400,2356 1360,2380 1360,2332" fill="#1E2B47"/>
+<line x1="1428" y1="2356" x2="1684" y2="2356" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1428" cy="2356" r="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1492" cy="2356" r="22" fill="#B9632F" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1556" cy="2356" r="22" fill="#8A6A0C" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1620" cy="2356" r="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1684" cy="2356" r="22" fill="#B9632F" stroke="#1E2B47" stroke-width="4"/></g></svg>

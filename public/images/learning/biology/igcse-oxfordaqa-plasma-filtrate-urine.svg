@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1160" viewBox="0 0 1800 2320" role="img" aria-labelledby="title desc"><title id="title">Plasma, filtrate and urine (OxfordAQA International GCSE Biology)</title><desc id="desc">Bar charts in g per dm3, each panel with its own scale. Protein: plasma 75, filtrate 0, urine 0, because protein is too large to be filtered. Glucose: plasma 1.0, filtrate 1.0, urine 0, because it is filtered and then all reabsorbed. Urea: plasma 0.30, filtrate 0.30, urine 18, so urine has 60 times the plasma concentration. This follows 9201 3.4.3d: the blood is filtered, all the glucose is reabsorbed and urea is released in the urine. No tier labels.</desc><rect width="1800" height="2320" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Plasma, filtrate and urine</text>
+<text x="900" y="166" font-size="44" fill="#4B5B72" text-anchor="middle" xml:space="preserve"><tspan>g per dm</tspan><tspan dy="-16.7" font-size="29.9">3</tspan><tspan dy="16.7">; each panel has its own scale</tspan></text>
+<rect x="60" y="360" width="1680" height="598" rx="28" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<text x="122" y="448" font-size="56" font-weight="700" fill="#1E2B47">Protein</text>
+<text x="1680" y="448" font-size="42" fill="#4B5B72" text-anchor="end">too large to be filtered</text>
+<text x="122" y="586" font-size="44" fill="#1E2B47">Plasma</text>
+<rect x="380" y="524" width="920" height="92" fill="#B9632F" stroke="#1E2B47" stroke-width="4"/>
+<text x="1328" y="586" font-size="46" font-weight="700" fill="#1E2B47">75</text>
+<text x="122" y="734" font-size="44" fill="#1E2B47">Filtrate</text>
+<line x1="380" y1="672" x2="380" y2="764" stroke="#1E2B47" stroke-width="8"/>
+<text x="408" y="734" font-size="46" font-weight="700" fill="#1E2B47">0</text>
+<text x="122" y="882" font-size="44" fill="#1E2B47">Urine</text>
+<line x1="380" y1="820" x2="380" y2="912" stroke="#1E2B47" stroke-width="8"/>
+<text x="408" y="882" font-size="46" font-weight="700" fill="#1E2B47">0</text>
+<rect x="60" y="1020" width="1680" height="598" rx="28" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<text x="122" y="1108" font-size="56" font-weight="700" fill="#1E2B47">Glucose</text>
+<text x="1680" y="1108" font-size="42" fill="#4B5B72" text-anchor="end">filtered, then all reabsorbed</text>
+<text x="122" y="1246" font-size="44" fill="#1E2B47">Plasma</text>
+<rect x="380" y="1184" width="920" height="92" fill="#B9632F" stroke="#1E2B47" stroke-width="4"/>
+<text x="1328" y="1246" font-size="46" font-weight="700" fill="#1E2B47">1.0</text>
+<text x="122" y="1394" font-size="44" fill="#1E2B47">Filtrate</text>
+<rect x="380" y="1332" width="920" height="92" fill="#2F6B63" stroke="#1E2B47" stroke-width="4"/>
+<text x="1328" y="1394" font-size="46" font-weight="700" fill="#1E2B47">1.0</text>
+<text x="122" y="1542" font-size="44" fill="#1E2B47">Urine</text>
+<line x1="380" y1="1480" x2="380" y2="1572" stroke="#1E2B47" stroke-width="8"/>
+<text x="408" y="1542" font-size="46" font-weight="700" fill="#1E2B47">0</text>
+<rect x="60" y="1680" width="1680" height="598" rx="28" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<text x="122" y="1768" font-size="56" font-weight="700" fill="#1E2B47">Urea</text>
+<text x="1680" y="1768" font-size="42" fill="#4B5B72" text-anchor="end">urine 60 times plasma</text>
+<text x="122" y="1906" font-size="44" fill="#1E2B47">Plasma</text>
+<rect x="380" y="1844" width="15.333333333333334" height="92" fill="#B9632F" stroke="#1E2B47" stroke-width="4"/>
+<text x="423.3333333333333" y="1906" font-size="46" font-weight="700" fill="#1E2B47">0.30</text>
+<text x="122" y="2054" font-size="44" fill="#1E2B47">Filtrate</text>
+<rect x="380" y="1992" width="15.333333333333334" height="92" fill="#2F6B63" stroke="#1E2B47" stroke-width="4"/>
+<text x="423.3333333333333" y="2054" font-size="46" font-weight="700" fill="#1E2B47">0.30</text>
+<text x="122" y="2202" font-size="44" fill="#1E2B47">Urine</text>
+<rect x="380" y="2140" width="920" height="92" fill="#8A6A0C" stroke="#1E2B47" stroke-width="4"/>
+<text x="1328" y="2202" font-size="46" font-weight="700" fill="#1E2B47">18</text></g></svg>

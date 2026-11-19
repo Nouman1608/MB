@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="780" viewBox="0 0 1800 1560" role="img" aria-labelledby="title desc"><title id="title">Why each enzyme is specific (Edexcel International GCSE Biology)</title><desc id="desc">Top: fat has a shape complementary to the active site of lipase, so it fits, a complex forms and the reaction happens. Bottom: starch does not fit the active site of lipase, so no complex forms and there is no reaction. The words about the complex are greyed with a note that the term enzyme-substrate complex is not required by Edexcel; the active site is in 4BI1 statements 2.11 and 2.13, on both papers. No tier labels.</desc><rect width="1800" height="1560" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Why each enzyme is specific</text>
+<text x="900" y="172" font-size="44" fill="#4B5B72" text-anchor="middle">Only a complementary shape fits</text>
+<rect x="60" y="340" width="1680" height="560" rx="28" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="60" y="960" width="1680" height="540" rx="28" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<path d="M208 628 H344 L370 712 H422 L448 628 H584 Q614 628 614 658 V830 Q614 860 584 860 H208 Q178 860 178 830 V658 Q178 628 208 628 Z" fill="#B5D4CF" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="300,576 492,576 448,628 422,712 370,712 344,628" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5" stroke-linejoin="round"/>
+<text x="396" y="548" font-size="44" font-weight="700" fill="#8A6A0C" text-anchor="middle">fat</text>
+<text x="396" y="796" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">lipase</text>
+<circle cx="1140" cy="560" r="56" fill="none" stroke="#2F6B63" stroke-width="6"/>
+<path d="M1114 562 L1134 584 L1168 538" fill="none" stroke="#2F6B63" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1240" y="538" font-size="46" font-weight="700" fill="#2F6B63">fat fits</text>
+<text x="1240" y="604" font-size="46" fill="#6B7785">complex forms*</text>
+<text x="1240" y="670" font-size="46" fill="#1E2B47">reaction happens</text>
+<text x="1100" y="772" font-size="32" fill="#6B7785">*the term enzyme-substrate complex</text>
+<text x="1100" y="812" font-size="32" fill="#6B7785">is not required by Edexcel</text>
+<circle cx="264" cy="1100" r="32" fill="#E3D5EC" stroke="#6E4C8C" stroke-width="5"/>
+<circle cx="332" cy="1072" r="32" fill="#E3D5EC" stroke="#6E4C8C" stroke-width="5"/>
+<circle cx="396" cy="1104" r="32" fill="#E3D5EC" stroke="#6E4C8C" stroke-width="5"/>
+<circle cx="462" cy="1068" r="32" fill="#E3D5EC" stroke="#6E4C8C" stroke-width="5"/>
+<circle cx="526" cy="1108" r="32" fill="#E3D5EC" stroke="#6E4C8C" stroke-width="5"/>
+<text x="636" y="1100" font-size="44" font-weight="700" fill="#6E4C8C">starch</text>
+<line x1="432" y1="1150" x2="432" y2="1184" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="432,1218 412.2,1182 451.8,1182" fill="#1E2B47"/>
+<path d="M208 1248 H344 L370 1332 H422 L448 1248 H584 Q614 1248 614 1278 V1450 Q614 1480 584 1480 H208 Q178 1480 178 1450 V1278 Q178 1248 208 1248 Z" fill="#B5D4CF" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="396" y="1416" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">lipase</text>
+<circle cx="1140" cy="1180" r="56" fill="none" stroke="#A33B2B" stroke-width="6"/>
+<line x1="1118" y1="1158" x2="1162" y2="1202" stroke="#A33B2B" stroke-width="8" stroke-linecap="round"/>
+<line x1="1162" y1="1158" x2="1118" y2="1202" stroke="#A33B2B" stroke-width="8" stroke-linecap="round"/>
+<text x="1240" y="1156" font-size="46" font-weight="700" fill="#A33B2B">starch does not fit</text>
+<text x="1240" y="1224" font-size="46" fill="#6B7785">no complex forms*</text>
+<text x="1240" y="1290" font-size="46" fill="#1E2B47">no reaction</text></g></svg>

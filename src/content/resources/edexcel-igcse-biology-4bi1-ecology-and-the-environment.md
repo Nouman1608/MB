@@ -196,7 +196,7 @@ Primary → secondary: (216 ÷ 2160) × 100 = 10.0%
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--05-energy-efficiency.webp" width="900" height="1060" alt="Extended. A pyramid of energy with bar widths to scale: grass 21 000, rabbits 1 470, foxes 126 kJ per square metre per year. Efficiencies are 7.0 % and 8.6 %. Energy is lost as heat from respiration, uneaten parts, faeces and urea, so chains rarely reach five levels." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-energy-efficiency.svg" width="900" height="1060" alt="A pyramid of energy with bar widths to scale: grass 21 000, rabbits 1 470, foxes 126 kJ per square metre per year. Efficiencies are 7.0 % and 8.6 %. Energy is lost as heat from respiration, uneaten parts, faeces and urea, so chains rarely reach five levels." loading="lazy">
   <figcaption>Only about 7 to 9 % passes to the next level here, so energy pyramids narrow quickly.</figcaption>
 </figure>
 
@@ -241,7 +241,7 @@ Plants absorb nitrogen as **nitrate ions** to make proteins. You need the roles 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--07-nitrogen-cycle.webp" width="900" height="1090" alt="Extended. Nitrogen fixation (lightning, bacteria) converts nitrogen gas to nitrogen compounds in the soil. Decomposers form ammonium ions from dead matter; nitrifying bacteria make nitrate ions; plants absorb nitrate and make amino acids and proteins; animals eat plants; deamination produces urea returned to soil; denitrifying bacteria return nitrogen gas to the air." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-nitrogen-cycle.svg" width="900" height="1090" alt="Nitrogen fixation (lightning, bacteria) converts nitrogen gas to nitrogen compounds in the soil. Decomposers form ammonium ions from dead matter; nitrifying bacteria make nitrate ions; plants absorb nitrate and make amino acids and proteins; animals eat plants; deamination produces urea returned to soil; denitrifying bacteria return nitrogen gas to the air. The whole figure is marked Paper 2 only; the deamination label is greyed as not required." loading="lazy">
   <figcaption>Bacteria drive four steps: decomposition, nitrification, fixation and denitrification.</figcaption>
 </figure>
 
@@ -316,7 +316,7 @@ The Sun's radiation passes through the atmosphere and warms the Earth's surface.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--04-eutrophication-steps.webp" width="900" height="1200" alt="Extended. Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-eutrophication.svg" width="900" height="1200" alt="Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
   <figcaption>It is the decomposers aerobic respiration, not the algae, that uses up the oxygen.</figcaption>
 </figure>
 

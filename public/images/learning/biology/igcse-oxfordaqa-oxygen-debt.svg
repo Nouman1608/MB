@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1290" viewBox="0 0 1800 2580" role="img" aria-labelledby="title desc"><title id="title">Repaying the oxygen debt (OxfordAQA International GCSE Biology)</title><desc id="desc">After vigorous exercise, lactic acid from the muscles is carried by the blood: (1) the heart rate stays fast, so lactic acid goes to the liver; (2) breathing stays deeper and faster, bringing extra oxygen; (3) the liver breaks lactic acid down by aerobic respiration. A grey note says the liver's role is not required by OxfordAQA, whose 9201 3.2.6j says only that the oxygen debt is repaid to oxidise lactic acid to carbon dioxide and water. Two line graphs: heart rate 64 at rest, 172 at the end of a sprint, 118 after 5 minutes and 66 after 15 minutes; breathing rate 14, 40, 26 and 15 breaths per minute. Dashed lines show resting values. No tier labels.</desc><rect width="1800" height="2580" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Repaying the oxygen debt</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">After vigorous exercise</text>
+<ellipse cx="250" cy="500" rx="166" ry="82" fill="#B5D4CF" stroke="#1E2B47" stroke-width="5"/>
+<text x="250" y="516" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Muscle</text>
+<polygon points="180,368 202,390 180,412 158,390" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="250,344 272,366 250,388 228,366" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="316,368 338,390 316,412 294,390" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<line x1="416" y1="500" x2="728" y2="500" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/><polygon points="770,500 726,522 726,478" fill="#8A6A0C"/>
+<polygon points="540,478 562,500 540,522 518,500" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="660,478 682,500 660,522 638,500" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<path d="M900 566 C820 506 800 446 810 414 C822 372 882 372 900 422 C918 372 978 372 990 414 C1000 446 980 506 900 566 Z" fill="#E3B49A" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="900" cy="336" r="38" fill="#1E2B47"/><text x="900" y="351" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="900" y="654" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Heart</text>
+<line x1="1030" y1="500" x2="1328" y2="500" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/><polygon points="1370,500 1326,522 1326,478" fill="#8A6A0C"/>
+<polygon points="1150,478 1172,500 1150,522 1128,500" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="1260,478 1282,500 1260,522 1238,500" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<path d="M1400 450 C1460 400 1680 400 1716 450 C1740 500 1720 590 1660 600 C1560 610 1460 590 1400 560 C1370 530 1370 480 1400 450 Z" fill="#E3B49A" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1560" y="514" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Liver</text>
+<circle cx="1698" cy="384" r="38" fill="#1E2B47"/><text x="1698" y="399" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<polygon points="100,670 122,692 100,714 78,692" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<text x="150" y="708" font-size="42" fill="#1E2B47">lactic acid</text>
+<line x1="900" y1="756" x2="900" y2="860" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/>
+<ellipse cx="822" cy="920" rx="62" ry="124" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<ellipse cx="978" cy="920" rx="62" ry="124" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="740" cy="800" r="38" fill="#2F6B63"/>
+<text x="740" y="815" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="900" y="1096" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Lungs</text>
+<path d="M1050 898 C1300 880 1500 820 1540 700" fill="none" stroke="#2F6B63" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1552,652 1520,700 1562,710" fill="#2F6B63"/>
+<text x="1380" y="976" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">extra oxygen</text>
+<circle cx="100" cy="1208" r="38" fill="#1E2B47"/>
+<text x="100" y="1223" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="180" y="1224" font-size="44" fill="#1E2B47">Heart rate stays fast: lactic acid goes to the liver</text>
+<circle cx="100" cy="1312" r="38" fill="#2F6B63"/>
+<text x="100" y="1327" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="180" y="1328" font-size="44" fill="#1E2B47">Breathing stays deeper and faster: more oxygen</text>
+<circle cx="100" cy="1416" r="38" fill="#1E2B47"/>
+<text x="100" y="1431" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="180" y="1432" font-size="44" fill="#1E2B47">Liver breaks lactic acid down by aerobic respiration</text>
+<text x="180" y="1474" font-size="32" fill="#6B7785">Note: the liver's role is not required by OxfordAQA</text>
+<text x="60" y="1564" font-size="44" font-weight="700" fill="#1E2B47">Heart rate (beats per minute)</text>
+<line x1="258" y1="1630" x2="258" y2="1910" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<line x1="258" y1="1910" x2="1664" y2="1910" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<line x1="244" y1="1910" x2="258" y2="1910" stroke="#1E2B47" stroke-width="4"/>
+<text x="230" y="1924" font-size="40" fill="#1E2B47" text-anchor="end">0</text>
+<line x1="244" y1="1780" x2="258" y2="1780" stroke="#1E2B47" stroke-width="4"/>
+<text x="230" y="1794" font-size="40" fill="#1E2B47" text-anchor="end">100</text>
+<line x1="244" y1="1650" x2="258" y2="1650" stroke="#1E2B47" stroke-width="4"/>
+<text x="230" y="1664" font-size="40" fill="#1E2B47" text-anchor="end">200</text>
+<line x1="258" y1="1826.8" x2="1650" y2="1826.8" stroke="#4B5B72" stroke-width="4" stroke-dasharray="16 12"/>
+<path d="M340 1826.8 L752 1686.4 L1166 1756.6 L1580 1824.2" fill="none" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="340" cy="1826.8" r="24" fill="#1E2B47"/>
+<text x="340" y="1782.8" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">64</text>
+<circle cx="752" cy="1686.4" r="24" fill="#1E2B47"/>
+<text x="752" y="1642.4" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">172</text>
+<circle cx="1166" cy="1756.6" r="24" fill="#1E2B47"/>
+<text x="1166" y="1712.6" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">118</text>
+<circle cx="1580" cy="1824.2" r="24" fill="#1E2B47"/>
+<text x="1580" y="1780.2" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">66</text>
+<text x="60" y="1976" font-size="44" font-weight="700" fill="#1E2B47">Breathing rate (breaths per minute)</text>
+<line x1="258" y1="2040" x2="258" y2="2320" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<line x1="258" y1="2320" x2="1664" y2="2320" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<line x1="244" y1="2320" x2="258" y2="2320" stroke="#1E2B47" stroke-width="4"/>
+<text x="230" y="2334" font-size="40" fill="#1E2B47" text-anchor="end">0</text>
+<line x1="244" y1="2190" x2="258" y2="2190" stroke="#1E2B47" stroke-width="4"/>
+<text x="230" y="2204" font-size="40" fill="#1E2B47" text-anchor="end">25</text>
+<line x1="244" y1="2060" x2="258" y2="2060" stroke="#1E2B47" stroke-width="4"/>
+<text x="230" y="2074" font-size="40" fill="#1E2B47" text-anchor="end">50</text>
+<line x1="258" y1="2247.2" x2="1650" y2="2247.2" stroke="#4B5B72" stroke-width="4" stroke-dasharray="16 12"/>
+<path d="M340 2247.2 L752 2112.0 L1166 2184.8 L1580 2242.0" fill="none" stroke="#2F6B63" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="320" y="2227.2" width="40" height="40" fill="#2F6B63" stroke="#1E2B47" stroke-width="4"/>
+<text x="340" y="2203.2" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">14</text>
+<rect x="732" y="2092" width="40" height="40" fill="#2F6B63" stroke="#1E2B47" stroke-width="4"/>
+<text x="752" y="2068" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">40</text>
+<rect x="1146" y="2164.8" width="40" height="40" fill="#2F6B63" stroke="#1E2B47" stroke-width="4"/>
+<text x="1166" y="2140.8" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">26</text>
+<rect x="1560" y="2222" width="40" height="40" fill="#2F6B63" stroke="#1E2B47" stroke-width="4"/>
+<text x="1580" y="2198" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">15</text>
+<text x="340" y="2392" font-size="42" fill="#1E2B47" text-anchor="middle">Rest</text>
+<text x="752" y="2392" font-size="42" fill="#1E2B47" text-anchor="middle">End of</text>
+<text x="752" y="2446" font-size="42" fill="#1E2B47" text-anchor="middle">sprint</text>
+<text x="1166" y="2392" font-size="42" fill="#1E2B47" text-anchor="middle">5 min</text>
+<text x="1166" y="2446" font-size="42" fill="#1E2B47" text-anchor="middle">after</text>
+<text x="1580" y="2392" font-size="42" fill="#1E2B47" text-anchor="middle">15 min</text>
+<text x="1580" y="2446" font-size="42" fill="#1E2B47" text-anchor="middle">after</text>
+<text x="900" y="2540" font-size="42" fill="#4B5B72" text-anchor="middle">Dashed line = resting value. Example from the lesson</text></g></svg>

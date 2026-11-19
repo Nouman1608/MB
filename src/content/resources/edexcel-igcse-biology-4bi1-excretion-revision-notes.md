@@ -70,7 +70,7 @@ Respiration never stops. In bright light its carbon dioxide is used in photosynt
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--07-liver-urea-route.webp" width="900" height="1100" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-liver-urea-route.svg" width="900" height="1100" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine. The liver step is marked not required by Edexcel and the kidney step Paper 2 only." loading="lazy">
   <figcaption>The liver makes proteins and urea from amino acids; the kidney excretes the urea.</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Memory hook: the ureter comes first (kidney to bladder); the urethra is the exit
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--03-kidney-section.webp" width="900" height="1000" alt="A kidney cut lengthways: the cortex is the darker outer layer and the medulla is made of cone-shaped inner regions. The ureter leaves from the central, concave inner side." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-kidney-section.svg" width="900" height="1000" alt="A kidney cut lengthways: the cortex is the darker outer layer and the medulla is made of cone-shaped inner regions. The ureter leaves from the central, concave inner side. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Cortex is the outer layer, medulla the inner cone-shaped regions.</figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ Memory hook: the ureter comes first (kidney to bladder); the urethra is the exit
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--04-nephron.webp" width="900" height="1270" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-nephron.svg" width="900" height="1270" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Filtration at the glomerulus, reabsorption along the tubule, urine in the collecting duct.</figcaption>
 </figure>
 

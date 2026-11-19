@@ -136,7 +136,7 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 - **Pleural membranes** with fluid between them reduce friction during breathing.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--01-breathing-system.webp" width="900" height="900" alt="Front view of the chest. Air enters at the nose or mouth and passes in order through the larynx (1), trachea (2), bronchi (3) and bronchioles (4) to the alveoli (5) in the lungs. Ribs, intercostal muscles and the diaphragm surround and sit under the lungs. Extended: the trachea has rings of cartilage." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-breathing-system.svg" width="900" height="900" alt="Front view of the chest. Air enters at the nose or mouth and passes in order through the larynx (1), trachea (2), bronchi (3) and bronchioles (4) to the alveoli (5) in the lungs. Ribs, intercostal muscles and the diaphragm surround and sit under the lungs. The trachea has rings of cartilage. The larynx and cartilage rings are greyed as not required." loading="lazy">
   <figcaption>Follow the numbers 1 to 5 to trace the route air takes into the lungs.</figcaption>
 </figure>
 
@@ -160,7 +160,7 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 5. Air flows out.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--03-ventilation.webp" width="900" height="960" alt="Extended. Two chest sketches side by side. Breathing in: external intercostals contract and internal relax, ribs move up and out, the diaphragm contracts and flattens, thorax volume increases and pressure falls, so air flows in. Breathing out: external relax and internal contract, ribs down and in, diaphragm domes up, volume decreases and pressure rises, so air is forced out." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-ventilation.svg" width="900" height="960" alt="Two chest sketches side by side. Breathing in: external intercostals contract and internal relax, ribs move up and out, the diaphragm contracts and flattens, thorax volume increases and pressure falls, so air flows in. Breathing out: external relax and internal contract, ribs down and in, diaphragm domes up, volume decreases and pressure rises, so air is forced out. The external and internal intercostal lines are greyed as not required." loading="lazy">
   <figcaption>Volume up means pressure down, so air flows in; volume down means pressure up, so air flows out.</figcaption>
 </figure>
 
@@ -209,7 +209,7 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--08-airway-protection.webp" width="900" height="900" alt="Extended. Goblet cells make mucus that forms a layer on the airway lining and traps dust and bacteria from the air. Ciliated cells have cilia that beat and move the mucus to the throat, where it is swallowed. The mucus traps; the cilia move the mucus." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-airway-protection.svg" width="900" height="900" alt="Goblet cells make mucus that forms a layer on the airway lining and traps dust and bacteria from the air. Ciliated cells have cilia that beat and move the mucus to the throat, where it is swallowed. The mucus traps; the cilia move the mucus. The figure is marked not required by Edexcel." loading="lazy">
   <figcaption>Goblet cells make mucus to trap particles and ciliated cells move it to the throat.</figcaption>
 </figure>
 

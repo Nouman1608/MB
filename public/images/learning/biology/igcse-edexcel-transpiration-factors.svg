@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1290" viewBox="0 0 1800 2580" role="img" aria-labelledby="title desc"><title id="title">What changes transpiration? (Edexcel International GCSE Biology: Paper 2 only)</title><desc id="desc">The whole figure is marked Paper 2 only: how humidity, wind speed and temperature affect the rate of transpiration is statement 2.57B of 4BI1. Leaves with arrows for water loss; more arrows mean faster water loss. Temperature: warm air gives more arrows than cool, because evaporation and diffusion are faster. Wind speed: windy air gives more than still air, because vapour is swept away and the gradient stays steep. Humidity: dry air gives more than humid air, because with more vapour in the air the gradient is less steep.</desc><rect width="1800" height="2580" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">What changes transpiration?</text>
+<text x="900" y="176" font-size="44" font-weight="700" fill="#B9632F" text-anchor="middle">More arrows = faster water loss</text>
+<rect x="1423" y="218" width="317" height="64" rx="32" fill="#8A6A0C"/><text x="1581.5" y="264.4" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">Paper 2 only</text>
+<text x="80" y="330" font-size="56" font-weight="700" fill="#2F6B63">Temperature</text>
+<rect x="50" y="372" width="820" height="418" rx="24" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<path d="M200 738 Q460 650 720 738 Q460 770 200 738 Z" fill="#C2E0B8" stroke="#3E8E41" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="318" y1="672" x2="318" y2="606" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="318,558 338,608 298,608" fill="#B9632F"/>
+<line x1="640" y1="672" x2="640" y2="606" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="640,558 660,608 620,608" fill="#B9632F"/>
+<circle cx="340" cy="416" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="480" cy="434" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="620" cy="416" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<rect x="930" y="372" width="820" height="418" rx="24" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<path d="M1080 738 Q1340 650 1600 738 Q1340 770 1080 738 Z" fill="#C2E0B8" stroke="#3E8E41" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1198" y1="672" x2="1198" y2="606" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="1198,558 1218,608 1178,608" fill="#B9632F"/>
+<line x1="1306" y1="672" x2="1306" y2="606" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="1306,558 1326,608 1286,608" fill="#B9632F"/>
+<line x1="1414" y1="672" x2="1414" y2="606" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="1414,558 1434,608 1394,608" fill="#B9632F"/>
+<line x1="1522" y1="672" x2="1522" y2="606" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="1522,558 1542,608 1502,608" fill="#B9632F"/>
+<circle cx="1220" cy="416" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="1360" cy="434" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="1500" cy="416" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<line x1="880" y1="580" x2="934" y2="580" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="966,580 932,598.7 932,561.3" fill="#1E2B47"/>
+<text x="460" y="846" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">Cool</text>
+<text x="1340" y="846" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">Warm</text>
+<text x="80" y="948" font-size="42" fill="#4B5B72">Faster evaporation and diffusion</text>
+<rect x="96" y="412" width="40" height="250" rx="20" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="108" y="592" width="16" height="70" fill="#4A90D9"/>
+<circle cx="116" cy="664" r="30" fill="#4A90D9" stroke="#1E2B47" stroke-width="5"/>
+<rect x="976" y="412" width="40" height="250" rx="20" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="988" y="448" width="16" height="214" fill="#D9573B"/>
+<circle cx="996" cy="664" r="30" fill="#D9573B" stroke="#1E2B47" stroke-width="5"/>
+<text x="80" y="1100" font-size="56" font-weight="700" fill="#2F6B63">Wind speed</text>
+<rect x="50" y="1142" width="820" height="418" rx="24" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<path d="M200 1508 Q460 1420 720 1508 Q460 1540 200 1508 Z" fill="#C2E0B8" stroke="#3E8E41" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="318" y1="1442" x2="318" y2="1376" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="318,1328 338,1378 298,1378" fill="#B9632F"/>
+<line x1="640" y1="1442" x2="640" y2="1376" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="640,1328 660,1378 620,1378" fill="#B9632F"/>
+<circle cx="340" cy="1184" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="400" cy="1254" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="480" cy="1204" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="540" cy="1254" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="620" cy="1184" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="680" cy="1244" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<rect x="930" y="1142" width="820" height="418" rx="24" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<path d="M1080 1508 Q1340 1420 1600 1508 Q1340 1540 1080 1508 Z" fill="#C2E0B8" stroke="#3E8E41" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1198" y1="1442" x2="1198" y2="1376" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="1198,1328 1218,1378 1178,1378" fill="#B9632F"/>
+<line x1="1306" y1="1442" x2="1306" y2="1376" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="1306,1328 1326,1378 1286,1378" fill="#B9632F"/>
+<line x1="1414" y1="1442" x2="1414" y2="1376" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="1414,1328 1434,1378 1394,1378" fill="#B9632F"/>
+<line x1="1522" y1="1442" x2="1522" y2="1376" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="1522,1328 1542,1378 1502,1378" fill="#B9632F"/>
+<circle cx="1640" cy="1214" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<line x1="880" y1="1350" x2="934" y2="1350" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="966,1350 932,1368.7 932,1331.3" fill="#1E2B47"/>
+<text x="460" y="1616" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">Still air</text>
+<text x="1340" y="1616" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">Windy</text>
+<text x="80" y="1718" font-size="42" fill="#4B5B72">Vapour swept away, gradient stays steep</text>
+<line x1="960" y1="1158" x2="1142" y2="1158" stroke="#4B5B72" stroke-width="6" stroke-linecap="round"/><polygon points="1170,1158 1140,1174.5 1140,1141.5" fill="#4B5B72"/>
+<line x1="960" y1="1218" x2="1142" y2="1218" stroke="#4B5B72" stroke-width="6" stroke-linecap="round"/><polygon points="1170,1218 1140,1234.5 1140,1201.5" fill="#4B5B72"/>
+<line x1="960" y1="1278" x2="1142" y2="1278" stroke="#4B5B72" stroke-width="6" stroke-linecap="round"/><polygon points="1170,1278 1140,1294.5 1140,1261.5" fill="#4B5B72"/>
+<text x="80" y="1868" font-size="56" font-weight="700" fill="#2F6B63">Humidity</text>
+<rect x="50" y="1912" width="820" height="418" rx="24" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<path d="M200 2278 Q460 2190 720 2278 Q460 2310 200 2278 Z" fill="#C2E0B8" stroke="#3E8E41" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="318" y1="2212" x2="318" y2="2146" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="318,2098 338,2148 298,2148" fill="#B9632F"/>
+<line x1="426" y1="2212" x2="426" y2="2146" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="426,2098 446,2148 406,2148" fill="#B9632F"/>
+<line x1="534" y1="2212" x2="534" y2="2146" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="534,2098 554,2148 514,2148" fill="#B9632F"/>
+<line x1="642" y1="2212" x2="642" y2="2146" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="642,2098 662,2148 622,2148" fill="#B9632F"/>
+<circle cx="340" cy="1954" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="480" cy="1974" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<rect x="930" y="1912" width="820" height="418" rx="24" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<path d="M1080 2278 Q1340 2190 1600 2278 Q1340 2310 1080 2278 Z" fill="#C2E0B8" stroke="#3E8E41" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1198" y1="2212" x2="1198" y2="2146" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="1198,2098 1218,2148 1178,2148" fill="#B9632F"/>
+<line x1="1520" y1="2212" x2="1520" y2="2146" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="1520,2098 1540,2148 1500,2148" fill="#B9632F"/>
+<circle cx="1156" cy="2014" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="1216" cy="1954" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="1276" cy="2024" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="1326" cy="1934" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="1356" cy="1974" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="1416" cy="2024" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="1456" cy="1994" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="1496" cy="1954" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="1556" cy="2014" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<circle cx="1596" cy="1968" r="14" fill="#A9D0E4" stroke="#2A6F97" stroke-width="5"/>
+<line x1="880" y1="2120" x2="934" y2="2120" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="966,2120 932,2138.7 932,2101.3" fill="#1E2B47"/>
+<text x="460" y="2386" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">Dry air</text>
+<text x="1340" y="2386" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">Humid air</text>
+<text x="80" y="2490" font-size="42" fill="#4B5B72">More vapour in air: gradient less steep</text></g></svg>

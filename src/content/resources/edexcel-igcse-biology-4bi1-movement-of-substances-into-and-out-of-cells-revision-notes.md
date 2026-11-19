@@ -56,7 +56,7 @@ Other pages for this topic: [practice questions](/resources/edexcel-igcse-biolog
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-active-transport.svg" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. An example is ion uptake by root hairs. The protein carrier line is greyed as not required." loading="lazy">
   <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
 </figure>
 
@@ -199,12 +199,12 @@ For a plant cell that lost water, add the state: flaccid, or plasmolysed if the 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-osmosis.svg" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. A card gives the water potential wording: higher on the dilute side, lower on the concentrated side. The water potential labels are greyed as not required." loading="lazy">
   <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--04-plant-cell-osmosis.webp" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms are Extended." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-plant-cell-osmosis.svg" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms turgor pressure and plasmolysed are greyed as not required by Edexcel." loading="lazy">
   <figcaption>A turgid cell is firm because water pressure pushes on the wall; in a concentrated solution the cell loses water and is plasmolysed.</figcaption>
 </figure>
 

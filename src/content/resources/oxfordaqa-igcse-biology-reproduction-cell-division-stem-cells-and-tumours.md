@@ -55,7 +55,7 @@ The matching [revision notes](/resources/oxfordaqa-igcse-biology-reproduction-ce
 Two clones can still look different if they grow in different conditions. A plant cutting given less light than its parent may grow smaller. That difference is environmental, not genetic.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-asexual-sexual.svg" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
   <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
 </figure>
 
@@ -145,7 +145,7 @@ The last row goes slightly beyond the wording of the specification, but it follo
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-mitosis-meiosis.svg" width="900" height="1260" alt="A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46. The terms diploid and haploid are greyed as not required by OxfordAQA." loading="lazy">
   <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
 </figure>
 

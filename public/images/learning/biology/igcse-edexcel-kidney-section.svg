@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1000" viewBox="0 0 1800 2000" role="img" aria-labelledby="title desc"><title id="title">Inside a kidney (Edexcel International GCSE Biology: Paper 2 only)</title><desc id="desc">The whole figure is marked Paper 2 only: the structure of the urinary system is statement 2.73B of 4BI1. A kidney cut lengthways shows the cortex, the darker outer layer; the medulla, inner cone-shaped regions; and the ureter, which leaves the inner side and carries urine away.</desc><rect width="1800" height="2000" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Inside a kidney</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Cut lengthways</text>
+<rect x="60" y="224" width="317" height="64" rx="32" fill="#8A6A0C"/><text x="218.5" y="270.4" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">Paper 2 only</text>
+<path d="M972 1036 H1340 Q1400 1036 1400 1096 V1860" fill="none" stroke="#1E2B47" stroke-width="44" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M972 1036 H1340 Q1400 1036 1400 1096 V1860" fill="none" stroke="#F2E6B7" stroke-width="30" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1400,1500 1386,1460 1414,1460" fill="#1E2B47"/>
+<polygon points="1400,1846 1386,1790 1414,1790" fill="#1E2B47"/>
+<path d="M1030 432 C900 440 700 560 610 760 C540 920 520 1180 600 1380 C680 1580 860 1640 1010 1630 C1140 1620 1190 1500 1180 1380 C1172 1280 1100 1230 1060 1170 C1030 1110 1036 1030 1070 970 C1110 900 1170 830 1180 660 C1190 520 1140 420 1030 432 Z" fill="#C7916F" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M909.7 933.3 L758.0 640.2 A430 430 0 0 1 963.5 607.6 Z" fill="#FBF1EE" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M845.6 961.0 L666.2 886.0 A300 300 0 0 1 758.2 787.3 Z" fill="#FBF1EE" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M824.1 1041.3 L683.4 1096.5 A250 250 0 0 1 678.4 1001.2 Z" fill="#FBF1EE" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M844.5 1106.9 L759.7 1273.6 A290 290 0 0 1 667.6 1167.7 Z" fill="#FBF1EE" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M909.7 1138.7 L962.6 1454.4 A420 420 0 0 1 761.9 1422.6 Z" fill="#FBF1EE" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M981.0 940.7 L986.6 824.5 A220 220 0 0 1 1078.8 877.7 Z" fill="#FBF1EE" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M981.0 1131.3 L1078.8 1194.3 A220 220 0 0 1 986.6 1247.5 Z" fill="#FBF1EE" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="926" cy="1036" r="58" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="80" y="464" font-size="52" font-weight="700" fill="#1E2B47">Cortex</text>
+<text x="80" y="530" font-size="44" fill="#1E2B47">darker outer layer</text>
+<line x1="498" y1="512" x2="676" y2="604" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="680" cy="606" r="9" fill="#1E2B47"/>
+<text x="80" y="1518" font-size="52" font-weight="700" fill="#1E2B47">Medulla</text>
+<text x="80" y="1584" font-size="44" fill="#1E2B47">inner cone-shaped</text>
+<text x="80" y="1640" font-size="44" fill="#1E2B47">regions</text>
+<line x1="262" y1="1474" x2="742" y2="1196" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="746" cy="1194" r="9" fill="#1E2B47"/>
+<text x="1340" y="1756" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="end">Ureter</text>
+<text x="1340" y="1822" font-size="44" fill="#1E2B47" text-anchor="end">leaves the inner side</text></g></svg>

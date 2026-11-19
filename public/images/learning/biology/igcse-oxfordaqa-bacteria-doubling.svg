@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="890" viewBox="0 0 1800 1780" role="img" aria-labelledby="title desc"><title id="title">One bacterium becomes 256 (OxfordAQA International GCSE Biology)</title><desc id="desc">Graph of number of bacteria against time in hours. One bacterium divides every 30 minutes and all offspring survive, so the number doubles each half hour: 1, 2, 4, 8, 16, 32, 64, 128, 256. After 4 hours, 8 divisions give 2 to the power 8 = 256 bacteria. This illustrates 9201 3.4.7b: bacteria may reproduce rapidly inside the body. No tier labels.</desc><rect width="1800" height="1780" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">One bacterium becomes 256</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Divides every 30 minutes; all offspring survive</text>
+<line x1="340" y1="1248" x2="1660" y2="1248" stroke="#C6D3D0" stroke-width="3"/>
+<line x1="340" y1="978" x2="1660" y2="978" stroke="#C6D3D0" stroke-width="3"/>
+<line x1="340" y1="708" x2="1660" y2="708" stroke="#C6D3D0" stroke-width="3"/>
+<line x1="340" y1="438" x2="1660" y2="438" stroke="#C6D3D0" stroke-width="3"/>
+<text x="306" y="1532" font-size="40" fill="#1E2B47" text-anchor="end">0</text>
+<text x="306" y="1262" font-size="40" fill="#1E2B47" text-anchor="end">64</text>
+<text x="306" y="992" font-size="40" fill="#1E2B47" text-anchor="end">128</text>
+<text x="306" y="722" font-size="40" fill="#1E2B47" text-anchor="end">192</text>
+<text x="306" y="452" font-size="40" fill="#1E2B47" text-anchor="end">256</text>
+<line x1="340" y1="1518" x2="1660" y2="1518" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<line x1="340" y1="1518" x2="340" y2="1540" stroke="#1E2B47" stroke-width="5"/>
+<text x="340" y="1612" font-size="40" fill="#1E2B47" text-anchor="middle">0</text>
+<line x1="669.5" y1="1518" x2="669.5" y2="1540" stroke="#1E2B47" stroke-width="5"/>
+<text x="669.5" y="1612" font-size="40" fill="#1E2B47" text-anchor="middle">1</text>
+<line x1="999" y1="1518" x2="999" y2="1540" stroke="#1E2B47" stroke-width="5"/>
+<text x="999" y="1612" font-size="40" fill="#1E2B47" text-anchor="middle">2</text>
+<line x1="1328.5" y1="1518" x2="1328.5" y2="1540" stroke="#1E2B47" stroke-width="5"/>
+<text x="1328.5" y="1612" font-size="40" fill="#1E2B47" text-anchor="middle">3</text>
+<line x1="1658" y1="1518" x2="1658" y2="1540" stroke="#1E2B47" stroke-width="5"/>
+<text x="1658" y="1612" font-size="40" fill="#1E2B47" text-anchor="middle">4</text>
+<text x="90" y="980" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle" transform="rotate(-90 90 980)">Number of bacteria</text>
+<text x="1000" y="1688" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Time (hours)</text>
+<path d="M340.0 1513.8 L504.8 1509.6 L669.5 1501.1 L834.3 1484.3 L999.0 1450.5 L1163.8 1383.0 L1328.5 1248.0 L1493.3 978.0 L1658.0 438.0" fill="none" stroke="#2F6B63" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1658" cy="438" r="30" fill="none" stroke="#8A6A0C" stroke-width="8"/>
+<circle cx="340" cy="1513.78125" r="16" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="504.75" cy="1509.5625" r="16" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="669.5" cy="1501.125" r="16" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="834.25" cy="1484.25" r="16" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="999" cy="1450.5" r="16" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1163.75" cy="1383" r="16" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1328.5" cy="1248" r="16" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1493.25" cy="978" r="16" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1658" cy="438" r="16" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/>
+<text x="1610" y="372" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="end">256 after 4 h</text>
+<text x="368" y="520" font-size="46" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>8 divisions: 2</tspan><tspan dy="-17.5" font-size="31.3">8</tspan><tspan dy="17.5"> = 256</tspan></text></g></svg>

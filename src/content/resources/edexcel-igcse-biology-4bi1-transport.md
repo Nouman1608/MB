@@ -85,7 +85,7 @@ The cell's ratio is **100 times larger**, and the organism's centre is 1000 µm 
 Phloem carries **sucrose and amino acids** from sources—commonly mature leaves, but also stores when reserves are mobilised—to sinks such as growing shoot and root tips, developing fruits and seeds, and storage organs. Translocation moves sap from source to sink. Different sieve tubes can carry it **up or down** the plant at the same time, depending on their sources and sinks.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-sources-and-sinks.svg" width="900" height="1290" alt="A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature. The terms source and sink and the bottom panel are noted as not required by Edexcel." loading="lazy">
   <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Phloem carries **sucrose and amino acids** from sources—commonly mature leaves
 Xylem carries **water and mineral ions** from roots towards stems and leaves in the usual transpiration stream. Xylem vessels are formed from dead vessel elements with lignified walls; their end walls are perforated or largely lost to make a continuous water pathway, rather than every end wall being universally absent. The transpiration stream normally moves upwards.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1130" alt="Extended. A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-xylem-structure.svg" width="900" height="1130" alt="A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf. The structure is marked not required by Edexcel." loading="lazy">
   <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
 </figure>
 
@@ -129,7 +129,7 @@ Root hair cells have long, thin extensions that provide a **large surface area**
 **Transpiration is the evaporation of water from the surface of a plant.** Most of it happens in the leaves: water evaporates from the surfaces of mesophyll cells into the air spaces, then water vapour **diffuses out through the stomata**. Losing water from the leaves pulls more water up the xylem from the roots, forming the transpiration stream that also carries mineral ions.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-transpiration-in-leaf.svg" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Step 3: water lost from the leaf is pulled up the xylem. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
 </figure>
 
@@ -146,7 +146,7 @@ Root hair cells have long, thin extensions that provide a **large surface area**
 These are usual trends under otherwise suitable conditions. In particular, drought or very high evaporative demand can trigger stomatal closure and change the response.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations (kinetic energy, concentration gradient) are Extended; humidity is Extended." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-transpiration-factors.svg" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
 </figure>
 
@@ -215,7 +215,7 @@ Blood is made of **red blood cells**, **white blood cells**, **platelets** and *
 - **heat energy** from active organs such as muscles and the liver to the rest of the body and the skin.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-blood-components.svg" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
   <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
 </figure>
 
@@ -254,7 +254,7 @@ Mature mammalian red blood cells carry oxygen. Their adaptations have a reason:
 - **B lymphocytes** can develop into plasma cells that secrete **antibodies**; some become memory cells. Each antibody binds a particular antigen **epitope**. A pathogen can carry many different antigens, and a shared epitope can occur on more than one pathogen. Antibody binding can clump pathogens or mark them for destruction by phagocytes.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="Extended. A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-antigen-antibody.svg" width="900" height="1090" alt="A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
   <figcaption>An antibody binds only the antigen whose shape is complementary to it.</figcaption>
 </figure>
 
@@ -271,7 +271,7 @@ Mature mammalian red blood cells carry oxygen. Their adaptations have a reason:
 Vaccines may contain an inactivated pathogen, selected antigens, or a live attenuated (weakened) pathogen. They are designed to expose the immune system to antigen without causing the full disease in most suitable recipients; live vaccines are not appropriate for some immunocompromised people. Lymphocytes respond by producing antibodies and memory cells. If the pathogen is encountered later, memory cells can produce a faster, larger secondary response. Vaccination reduces the risk or severity of illness but does not guarantee that infection or symptoms will be prevented.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-vaccination-memory.svg" width="900" height="1130" alt="Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Memory cells make the second response faster and larger.</figcaption>
 </figure>
 
@@ -288,7 +288,7 @@ Vaccines may contain an inactivated pathogen, selected antigens, or a live atten
 Platelets are fragments of cells. At a cut, they trigger a chain of reactions that turns the soluble plasma protein fibrinogen into insoluble **fibrin** threads. The threads form a mesh that traps red blood cells, forming a **clot**, which can dry into a scab. The clot helps reduce blood loss and limits microorganism entry; it does not guarantee that all bleeding or infection is prevented.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--07-clotting.webp" width="900" height="1130" alt="Extended. A damaged vessel lets blood escape and pathogens enter. Soluble fibrinogen in the plasma is converted into insoluble fibrin fibres. The fibrin mesh traps blood cells and forms a clot, stopping blood loss and keeping pathogens out." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-clotting.svg" width="900" height="1130" alt="A damaged vessel lets blood escape and pathogens enter. Soluble fibrinogen in the plasma is converted into insoluble fibrin fibres. The fibrin mesh traps blood cells and forms a clot, stopping blood loss and keeping pathogens out. The whole figure is marked Paper 2 only; the names fibrinogen and fibrin are greyed as not required." loading="lazy">
   <figcaption>A fibrin mesh traps blood cells to seal a wound.</figcaption>
 </figure>
 
@@ -313,12 +313,12 @@ Route of blood: vena cava → right atrium → right ventricle → pulmonary art
 - **Coronary arteries** supply the heart muscle itself with oxygen and glucose.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
-  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+  <img src="/images/learning/biology/igcse-edexcel-heart-structure.svg" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Labels also show the atrioventricular valves, semilunar valves and thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--03-heart-pump.webp" width="900" height="1300" alt="Extended. Three simplified stages of one heartbeat. 1: atria contract and push blood through open AV valves into the ventricles. 2: ventricles contract, AV valves close, semilunar valves open and blood leaves in the arteries. 3: ventricles relax and semilunar valves close, stopping back-flow into the ventricles. Closing valves make the heart sounds." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-heart-pump.svg" width="900" height="1300" alt="Three simplified stages of one heartbeat. 1: atria contract and push blood through open AV valves into the ventricles. 2: ventricles contract, AV valves close, semilunar valves open and blood leaves in the arteries. 3: ventricles relax and semilunar valves close, stopping back-flow into the ventricles. Closing valves make the heart sounds. A note says heart sounds are not required by Edexcel." loading="lazy">
   <figcaption>Valves open and close in turn so blood only moves one way.</figcaption>
 </figure>
 
@@ -355,7 +355,7 @@ Fatty deposits can narrow coronary arteries and reduce blood flow. Moderate narr
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--08-heart-rate-exercise.webp" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Extended panel: active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-heart-rate-exercise.svg" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
   <figcaption>After exercise the mean heart rate rose from 74 to 118 beats per minute, a 59% increase.</figcaption>
 </figure>
 
@@ -407,12 +407,12 @@ These wall/lumen comparisons describe typical systemic vessels. Vessel names des
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-blood-vessels.svg" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Notes link structure to pressure and function." loading="lazy">
   <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Extended. Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-circulation.svg" width="900" height="1290" alt="Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right. The fish panel is greyed as not required." loading="lazy">
   <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
 </figure>
 

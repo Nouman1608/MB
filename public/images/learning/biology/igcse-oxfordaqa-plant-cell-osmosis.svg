@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1190" viewBox="0 0 1800 2380" role="img" aria-labelledby="title desc"><title id="title">Plant cells and water (OxfordAQA International GCSE Biology)</title><desc id="desc">Turgid: in a dilute solution water moves in, the vacuole pushes out with turgor pressure and the cell is firm. Flaccid: at the same concentration there is no net water movement and the cell is limp. Plasmolysed: in a concentrated solution water moves out and the membrane pulls away from the cell wall. A key names the cell wall, cytoplasm and membrane, and vacuole. No tier labels: 9201 3.1.5e asks students to be familiar with the terms turgor and plasmolysis.</desc><rect width="1800" height="2380" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Plant cells and water</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Cross-section of one cell, schematic</text>
+<rect x="796" y="316" width="924" height="424" rx="48" fill="#DDEBE8" stroke="#2E6B63" stroke-width="22"/>
+<rect x="872" y="392" width="776" height="272" rx="24" fill="#D2E5EC" stroke="#1E2B47" stroke-width="4"/>
+<line x1="960" y1="468" x2="960" y2="446" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><polygon points="960,426 973.2,448 946.8,448" fill="#B9632F"/>
+<line x1="1560" y1="468" x2="1560" y2="446" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><polygon points="1560,426 1573.2,448 1546.8,448" fill="#B9632F"/>
+<line x1="960" y1="594" x2="960" y2="616" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><polygon points="960,636 946.8,614 973.2,614" fill="#B9632F"/>
+<line x1="1560" y1="594" x2="1560" y2="616" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><polygon points="1560,636 1546.8,614 1573.2,614" fill="#B9632F"/>
+<text x="1260" y="544" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">turgor pressure</text>
+<line x1="664" y1="410" x2="750" y2="410" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="784,410 748,428 748,392" fill="#8A6A0C"/>
+<line x1="664" y1="530" x2="750" y2="530" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="784,530 748,548 748,512" fill="#8A6A0C"/>
+<line x1="664" y1="650" x2="750" y2="650" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="784,650 748,668 748,632" fill="#8A6A0C"/>
+<text x="80" y="376" font-size="62" font-weight="700" fill="#1E2B47">Turgid</text>
+<text x="80" y="476" font-size="44" fill="#1E2B47">Dilute solution outside</text>
+<text x="80" y="548" font-size="44" fill="#1E2B47">Water moves in</text>
+<text x="80" y="620" font-size="44" fill="#1E2B47">Cell is firm</text>
+<rect x="796" y="916" width="924" height="424" rx="48" fill="#DDEBE8" stroke="#2E6B63" stroke-width="22"/>
+<rect x="944" y="1064" width="632" height="132" rx="24" fill="#D2E5EC" stroke="#1E2B47" stroke-width="4"/>
+<line x1="664" y1="1086" x2="750" y2="1086" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="784,1086 748,1104 748,1068" fill="#8A6A0C"/>
+<line x1="790" y1="1174" x2="704" y2="1174" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="670,1174 706,1156 706,1192" fill="#8A6A0C"/>
+<text x="80" y="976" font-size="62" font-weight="700" fill="#1E2B47">Flaccid</text>
+<text x="80" y="1076" font-size="44" fill="#1E2B47">Same concentration</text>
+<text x="80" y="1148" font-size="44" fill="#1E2B47">No net water movement</text>
+<text x="80" y="1220" font-size="44" fill="#1E2B47">Cell is limp</text>
+<rect x="796" y="1516" width="924" height="424" rx="48" fill="#F5EDD2" stroke="#2E6B63" stroke-width="22"/>
+<rect x="940" y="1622" width="640" height="214" rx="70" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<rect x="1036" y="1672" width="448" height="116" rx="40" fill="#D2E5EC" stroke="#1E2B47" stroke-width="4"/>
+<line x1="790" y1="1608" x2="704" y2="1608" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="670,1608 706,1590 706,1626" fill="#8A6A0C"/>
+<line x1="790" y1="1728" x2="704" y2="1728" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="670,1728 706,1710 706,1746" fill="#8A6A0C"/>
+<line x1="790" y1="1848" x2="704" y2="1848" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="670,1848 706,1830 706,1866" fill="#8A6A0C"/>
+<text x="80" y="1574" font-size="62" font-weight="700" fill="#1E2B47">Plasmolysed</text>
+<text x="80" y="1674" font-size="44" fill="#1E2B47">Concentrated solution</text>
+<text x="80" y="1746" font-size="44" fill="#1E2B47">Water moves out</text>
+<text x="80" y="1818" font-size="44" fill="#1E2B47">Membrane leaves wall</text>
+<rect x="80" y="2172" width="104" height="68" rx="18" fill="#FFFFFF" stroke="#2E6B63" stroke-width="14"/>
+<text x="204" y="2224" font-size="42" fill="#1E2B47">cell wall</text>
+<rect x="520" y="2172" width="104" height="68" rx="18" fill="#DDEBE8" stroke="#1E2B47" stroke-width="4"/>
+<text x="644" y="2224" font-size="42" fill="#1E2B47">cytoplasm, membrane</text>
+<rect x="80" y="2276" width="104" height="64" rx="14" fill="#D2E5EC" stroke="#1E2B47" stroke-width="4"/>
+<text x="204" y="2324" font-size="42" fill="#1E2B47">vacuole</text></g></svg>
