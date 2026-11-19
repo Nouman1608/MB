@@ -7,7 +7,7 @@ level: ["ib"]
 topic: "Exchange rates"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: []
+syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 320
 syllabusTopics:

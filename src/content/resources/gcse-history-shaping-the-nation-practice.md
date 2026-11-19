@@ -7,6 +7,7 @@ topic: "Shaping the Nation"
 boards: ["aqa"]
 qualifications: ["gcse"]
 syllabusCodes: ["8145"]
+syllabusSeries: "first teaching 2016"
 order: 4
 syllabusTopics:
   - qualification: "gcse"

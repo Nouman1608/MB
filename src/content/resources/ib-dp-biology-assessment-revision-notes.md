@@ -6,6 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Biology"]
+syllabusSeries: "First assessment 2025"
 order: 1
 description: "Condensed recall notes on the assessment structure -- papers, weightings and the internal assessment -- for IB Diploma Programme Biology."
 author: "marlbridge-academic-team"

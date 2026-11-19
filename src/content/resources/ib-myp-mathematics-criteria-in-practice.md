@@ -7,6 +7,7 @@ topic: "Criteria A-D applied to real coursework tasks"
 boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
+syllabusSeries: "From 2020, first assessment 2022"
 order: 4
 syllabusTopics:
   - qualification: "ib-myp"

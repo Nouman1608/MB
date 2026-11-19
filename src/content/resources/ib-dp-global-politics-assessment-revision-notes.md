@@ -6,6 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Global Politics"]
+syllabusSeries: "First assessment 2026"
 order: 1
 description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings and the engagement project -- for IB Diploma Programme Global Politics."
 author: "marlbridge-academic-team"

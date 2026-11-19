@@ -9,6 +9,23 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Psychology"]
 syllabusSeries: "First assessment 2019"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-biological-approach"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-cognitive-approach"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-sociocultural-approach"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-approaches-to-researching-behaviour"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-abnormal-psychology"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-developmental-psychology"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-health-psychology"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-psychology-of-human-relationships"
 description: "Syllabus guide to IB DP Psychology (first assessment 2019): the core approaches, research methods and four options, with SL and HL teaching hours."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

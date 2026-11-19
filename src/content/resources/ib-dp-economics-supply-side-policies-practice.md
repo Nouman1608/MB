@@ -7,7 +7,7 @@ level: ["ib"]
 topic: "Supply-side policies"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: []
+syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 315
 syllabusTopics:

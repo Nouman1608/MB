@@ -6,6 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Business Management"]
+syllabusSeries: "First assessment 2024"
 order: 1
 description: "Condensed recall notes on how IB Diploma Business Management is assessed at SL and HL: the papers, their weightings and the internal assessment project."
 author: "marlbridge-academic-team"

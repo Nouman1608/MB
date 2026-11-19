@@ -10,6 +10,9 @@ qualifications: ["a-level"]
 syllabusCodes: ["9UR0"]
 syllabusSeries: "2018"
 order: 2
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "prescribed-literary-texts-and-films-9ur0"
 description: "Original practice questions with full worked answers: a full translation-into-Urdu exercise like Section A, plus questions on the paper's structure, marking rules and timing for the Section B/C essays, for Pearson Edexcel A-Level Urdu (9UR0) Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

@@ -6,7 +6,13 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Sciences"]
+syllabusSeries: "From 2014"
 order: 1
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-sciences-assessment-criteria"
+  - qualification: "ib-myp"
+    topic: "ib-myp-sciences-eassessment-structure"
 description: "Condensed recall notes on the four assessment criteria and the eAssessment task structure for IB Middle Years Programme Sciences."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"

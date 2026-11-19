@@ -10,6 +10,17 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Language Acquisition"]
 syllabusSeries: "From 2020"
 order: 2
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-key-concepts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-related-concepts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-global-contexts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-assessment-criteria"
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-eassessment-structure"
 description: "The IB MYP Language Acquisition framework from 2020: key concepts, four criteria, six teaching phases, three proficiency levels and the eAssessment structure."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

@@ -11,6 +11,19 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Individuals and Societies"]
 syllabusSeries: "From 2014"
 order: 2
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-individuals-and-societies-constituent-disciplines"
+  - qualification: "ib-myp"
+    topic: "ib-myp-individuals-and-societies-key-concepts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-individuals-and-societies-related-concepts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-individuals-and-societies-global-contexts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-individuals-and-societies-assessment-criteria"
+  - qualification: "ib-myp"
+    topic: "ib-myp-individuals-and-societies-eassessment-topics"
 description: "The IB MYP Individuals and Societies framework: discipline options, key and related concepts, the four criteria A to D, teaching hours and on-screen exam tasks."
 author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"

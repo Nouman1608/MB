@@ -6,7 +6,7 @@ level: ["ib"]
 topic: "Unit 1 – Introduction to economics"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: []
+syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 1.02
 syllabusTopics:

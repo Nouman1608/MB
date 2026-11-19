@@ -7,7 +7,7 @@ level: ["ib"]
 topic: "Balance of payments"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: []
+syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 321
 syllabusTopics:

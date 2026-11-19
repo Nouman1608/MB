@@ -7,7 +7,7 @@ level: ["ib"]
 topic: "Unit 3 – Macroeconomics (3.1–3.3)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: []
+syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 2
 syllabusTopics:

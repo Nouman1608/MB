@@ -9,6 +9,17 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Business Management"]
 syllabusSeries: "First assessment 2024"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-business-unit-1"
+  - qualification: "ib-dp"
+    topic: "ib-dp-business-unit-2"
+  - qualification: "ib-dp"
+    topic: "ib-dp-business-unit-3"
+  - qualification: "ib-dp"
+    topic: "ib-dp-business-unit-4"
+  - qualification: "ib-dp"
+    topic: "ib-dp-business-unit-5"
 description: "The five units of IB DP Business Management, first assessment 2024, with every sub-topic, HL-only content marked and recommended teaching hours at SL and HL."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
