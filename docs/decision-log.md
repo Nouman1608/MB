@@ -16626,8 +16626,24 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 
 ## D-509 - Owner's answers on the D-508 open points, and the next gap round (19 Nov 2026)
 
-- **IB DP Language A records.** The owner shared the files in `C:\Users\nouma\Downloads\New folder (2)` on his computer. This cloud session cannot reach that folder: no computer folder is shared with it, and the files are not in OneDrive. The two records stay `VERIFIED_PARTIAL` until the files can be read.
+- **IB DP Language A records: completed.**
+  - The owner uploaded the two IB subject guides:
+    - Language A: language and literature guide, SHA-256 d8d62319...;
+    - Language A: literature guide, SHA-256 67c292fd...;
+    - both first assessment 2021, published February 2019, updated May 2023.
+  - From the guides' assessment outlines:
+    - the Individual Oral is 40 marks and 15 minutes (a 10-minute prepared response and 5 minutes of questions), on both tiers;
+    - the HL Essay is 20 marks (1,200-1,500 words);
+    - Paper 1 is 20 marks at SL and 40 at HL;
+    - durations and weightings are unchanged.
+  - **Paper 2.** The guides print 30 marks, but the Literature record's 25 came from IB specimen papers for the exams from May 2026. The owner chose 25 for both courses (AskUserQuestion, 19 Nov 2026), and both guides give identical Paper 2 criteria.
+  - The records' notes give both figures. Both records are now `VERIFIED_COMPLETE`: all 166 combinations are complete.
+  - No IB Language A page states a Paper 2 total, so no page changed.
 - **4MA1 duplicate practice sets: merged** on the owner's instruction ("merge them"). The smaller set's distinct questions move into `edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice`, and the old slug redirects to it.
 - **Figure rulings.** The owner reports that the teacher confirmed the "not required by <board>" rulings in the D-508 redraws, including the two AQA 8461 Higher-only rulings.
 - **Urdu notes.** The owner says the two open Urdu points on the 0539 speaking practice page "are fine". They are closed in `pending-review-2026-11-19.json`, and the text is unchanged.
 - **Teacher review of the five new pages.** The owner reports the teachers reviewed them. They are credited under D-379, each to the reviewer most credited for its course and never the author: the three H060 Development pages to salman-ahmad, 0539 speaking practice to farheen-zehra, and IB Geography fieldwork practice to azam-siddique. No page is review-pending now.
+- **4MA1 merge (done).**
+  - The smaller set held 6 questions, not 12 (the larger held 12). One distinct question, on the zero index and x^(1/2) as a root, moved in as Q13; the other five duplicated larger-set questions and were dropped.
+  - The bank total is now 591 (was 596) and the Higher-only count 176 (was 181); both are re-pinned.
+  - The old slug redirects (`CONSOLIDATED_RESOURCES`), and 11 pages' links were updated.

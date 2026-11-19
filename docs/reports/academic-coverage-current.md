@@ -12,7 +12,7 @@ written, so an unchanged repository regenerates identical files).
 
 | Measure | Value |
 | --- | --- |
-| Source resources | 16064 |
+| Source resources | 16063 |
 | Active board × qualification × subject combinations | 166 |
 | Combinations with an official-source record | 166/166 |
 | Combinations with a topic map | 166/166 |
@@ -29,8 +29,8 @@ written, so an unchanged repository regenerates identical files).
 
 | Completeness | Combinations |
 | --- | --- |
-| VERIFIED_COMPLETE | 164 |
-| VERIFIED_PARTIAL | 2 |
+| VERIFIED_COMPLETE | 166 |
+| VERIFIED_PARTIAL | 0 |
 | NO_ASSESSMENT_RECORD | 0 |
 
 A combination is `VERIFIED_COMPLETE` when every assessment record for it has an official
@@ -41,8 +41,7 @@ source, a verification date, components with marks and durations, and an assessm
 | reviewStatus | Resources |
 | --- | --- |
 | archived | 9 |
-| review-pending | 5 |
-| reviewed | 16050 |
+| reviewed | 16054 |
 
 `reviewed` means a named Marlbridge subject teacher is credited as accountable for the page
 (owner decision D-379); it is not a record of a dated, line-by-line check. `review-pending`
@@ -56,7 +55,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | study-guides | 5238 |
 | revision-notes | 5210 |
 | past-papers | 59 |
-| practice-questions | 5227 |
+| practice-questions | 5226 |
 | exam-preparation | 165 |
 | subject-guides | 165 |
 | learning-articles | 0 |
@@ -67,7 +66,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | --- | --- |
 | aqa | 2187 |
 | cambridge | 6148 |
-| edexcel | 1842 |
+| edexcel | 1841 |
 | ib | 1791 |
 | ocr | 1495 |
 | oxfordaqa | 2601 |
@@ -77,10 +76,10 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | Board | Combinations | Official source record | Topic map | Resources | Under 8 resources | Assessment complete | Reviewed | Review-pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AQA | 26 | 26 | 26 | 2448 | 0 | 26 | 2448 | 0 |
-| Cambridge | 55 | 55 | 55 | 6300 | 0 | 55 | 6299 | 1 |
-| Pearson Edexcel | 21 | 21 | 21 | 1842 | 0 | 21 | 1842 | 0 |
-| International Baccalaureate | 21 | 21 | 21 | 1791 | 0 | 19 | 1790 | 1 |
-| OCR | 13 | 13 | 13 | 1737 | 0 | 13 | 1731 | 6 |
+| Cambridge | 55 | 55 | 55 | 6300 | 0 | 55 | 6300 | 0 |
+| Pearson Edexcel | 21 | 21 | 21 | 1841 | 0 | 21 | 1841 | 0 |
+| International Baccalaureate | 21 | 21 | 21 | 1791 | 0 | 21 | 1791 | 0 |
+| OCR | 13 | 13 | 13 | 1737 | 0 | 13 | 1737 | 0 |
 | OxfordAQA | 30 | 30 | 30 | 2601 | 0 | 30 | 2601 | 0 |
 
 ## By qualification
@@ -90,7 +89,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | GCSE | 18 | 1606 |
 | A Level | 59 | 7027 |
 | AS Level | 3 | 512 |
-| IGCSE | 47 | 4148 |
+| IGCSE | 47 | 4147 |
 | O Level | 18 | 1635 |
 | IB Diploma Programme | 16 | 1585 |
 | IB Middle Years Programme | 5 | 206 |
@@ -100,7 +99,6 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | Risk | Combinations |
 | --- | --- |
 | evidence-is-blanket-authorization-not-subject-specific-confirmation | 80 |
-| assessment-verified_partial | 2 |
 
 ## Zero-resource combinations
 
@@ -120,20 +118,15 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 ## Missing reviewer
 
-- Cambridge IGCSE Urdu Language (0539): 1 review-pending resource(s) with no reviewer
-- International Baccalaureate IB Diploma Programme Geography (DP Geography): 1 review-pending resource(s) with no reviewer
-- OCR AS Level Economics (H060): 3 review-pending resource(s) with no reviewer
-- OCR A Level Economics (H460): 3 review-pending resource(s) with no reviewer
+- None.
 
 ## Recommended next action
 
 | Next action | Combinations |
 | --- | --- |
-| None. | 160 |
-| Named-reviewer sign-off of review-pending resources. | 4 |
-| Complete the assessment record from the official specification. | 2 |
+| None. | 166 |
 
-Overall: the largest outstanding item is human sign-off: 5 review-pending resources need a named, authorised reviewer (queue: [academic-review/signoff-queue.md](academic-review/signoff-queue.md)).
+Overall: no review-pending resources.
 
 ## Every combination
 
@@ -213,7 +206,7 @@ Overall: the largest outstanding item is human sign-off: 5 review-pending resour
 | Cambridge | A Level | Global Perspectives | 9239 | 41 | 41 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
 | Cambridge | IGCSE | Environmental Management | 0680 | 117 | 117 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | O Level | Environmental Management | 5014 | 124 | 124 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| Cambridge | IGCSE | Urdu Language | 0539 | 41 | 40 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| Cambridge | IGCSE | Urdu Language | 0539 | 41 | 41 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | O Level | Urdu Language | 3247 / 3248 | 38 | 38 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | IGCSE | Statistics | 0479 | 44 | 44 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | IGCSE | Commerce | 0715 | 53 | 53 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
@@ -234,7 +227,7 @@ Overall: the largest outstanding item is human sign-off: 5 review-pending resour
 | Pearson Edexcel | IGCSE | Economics | 4EC1 | 96 | 96 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | English Language | 4EA1 | 32 | 32 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | Pearson Edexcel | IGCSE | World History | 4HI1 | 71 | 71 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| Pearson Edexcel | IGCSE | Mathematics | 4MA1 | 149 | 149 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| Pearson Edexcel | IGCSE | Mathematics | 4MA1 | 148 | 148 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | Physics | 4PH1 | 116 | 116 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | Accounting | 4AC1 | 98 | 98 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | Business | 4BS1 | 107 | 107 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
@@ -242,14 +235,14 @@ Overall: the largest outstanding item is human sign-off: 5 review-pending resour
 | Pearson Edexcel | IGCSE | English Literature | 4ET1 | 32 | 32 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | Pearson Edexcel | A Level | English Literature | YET01 | 32 | 32 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Business | DP Business Management | 148 | 148 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
-| International Baccalaureate | IB Diploma Programme | Language A: Language and Literature | DP Language A: Language and Literature | 34 | 34 / 0 | VERIFIED_PARTIAL (component-based) | 0 | Complete the assessment record from the official specification. |
-| International Baccalaureate | IB Diploma Programme | Language A: Literature | DP Language A: Literature | 34 | 34 / 0 | VERIFIED_PARTIAL (component-based) | 0 | Complete the assessment record from the official specification. |
+| International Baccalaureate | IB Diploma Programme | Language A: Language and Literature | DP Language A: Language and Literature | 34 | 34 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
+| International Baccalaureate | IB Diploma Programme | Language A: Literature | DP Language A: Literature | 34 | 34 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Computer Science | DP Computer Science (2014) / DP Computer Science (2027) | 55 | 55 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Psychology | DP Psychology (2019) / DP Psychology (2027) | 52 | 52 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Biology | DP Biology | 157 | 157 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Chemistry | DP Chemistry | 94 | 94 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Economics | DP Economics | 112 | 112 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
-| International Baccalaureate | IB Diploma Programme | Geography | DP Geography | 162 | 161 / 1 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
+| International Baccalaureate | IB Diploma Programme | Geography | DP Geography | 162 | 162 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | World History | DP History | 82 | 82 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Language B | DP Language B | 34 | 34 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Mathematics: Analysis and Approaches | DP Mathematics: Analysis and Approaches | 304 | 304 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
@@ -262,7 +255,7 @@ Overall: the largest outstanding item is human sign-off: 5 review-pending resour
 | International Baccalaureate | IB Middle Years Programme | Sciences (MYP) | MYP Sciences | 40 | 40 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
 | International Baccalaureate | IB Middle Years Programme | Design (MYP) | MYP Design | 34 | 34 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
 | International Baccalaureate | IB Middle Years Programme | Individuals and Societies (MYP) | MYP Individuals and Societies | 40 | 40 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
-| OCR | AS Level | Economics | H060 | 251 | 248 / 3 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | AS Level | Economics | H060 | 251 | 251 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | GCSE | Chemistry | J248 | 54 | 54 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | GCSE | Physics | J249 | 114 | 114 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | GCSE | Biology | J247 | 102 | 102 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
@@ -274,7 +267,7 @@ Overall: the largest outstanding item is human sign-off: 5 review-pending resour
 | OCR | A Level | Biology | H420 | 126 | 126 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | A Level | Mathematics | H240 | 117 | 117 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | A Level | Business | H431 | 114 | 114 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | A Level | Economics | H460 | 251 | 248 / 3 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | A Level | Economics | H460 | 251 | 251 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Accounting | 9215 | 92 | 92 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Business | 9225 | 47 | 47 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Computer Science | 9210 | 68 | 68 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
