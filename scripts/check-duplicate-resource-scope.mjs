@@ -3746,6 +3746,90 @@ const REVIEWED_LEGITIMATE = [
     files: ["oxfordaqa-igcse-sociology-9292-interpreting-data.md","oxfordaqa-igcse-sociology-9292-research-methods.md"],
     evidence: "Skill units for one of the ten thinnest courses (18 Nov 2026, D-500), study-guides. They share the topic or subtopic tag with the existing page(s) oxfordaqa-igcse-sociology-9292-research-methods.md. Each unit teaches one part the specification names, quoted on its own opening line, with its own worked examples and questions: oxfordaqa-igcse-sociology-9292-interpreting-data.md: 9292 3.1.3.4 interpreting quantitative and qualitative data only.",
   },
+  {
+    files: ["ocr-a-level-economics-business-objectives-and-the-principal-agent-problem-practice.md", "ocr-a-level-economics-economies-of-scale-revenue-and-profit-practice.md", "ocr-a-level-economics-h460-business-objectives-ocr-alevel-economics-practice.md", "ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-practice.md"],
+    evidence: "OCR A Level Economics H460 business objectives units (practice-questions). D-505 (19 Nov 2026) removed the AS tags from three of them, since Version 3.0 has no AS topic on costs, economies of scale or firms' objectives, so they now share the H460 business objectives scope. Different content: short-run costs and diminishing returns; economies of scale, revenue and profit; objectives and the principal-agent problem as concepts; and the H460 subtopic page, which links costs, revenue and profit to each objective through one firm's data table. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-a-level-economics-business-objectives-and-the-principal-agent-problem-revision-notes.md", "ocr-a-level-economics-economies-of-scale-revenue-and-profit-revision-notes.md", "ocr-a-level-economics-h460-business-objectives-ocr-alevel-economics-revision-notes.md", "ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-revision-notes.md"],
+    evidence: "OCR A Level Economics H460 business objectives units (revision-notes). D-505 (19 Nov 2026) removed the AS tags from three of them, since Version 3.0 has no AS topic on costs, economies of scale or firms' objectives, so they now share the H460 business objectives scope. Different content: short-run costs and diminishing returns; economies of scale, revenue and profit; objectives and the principal-agent problem as concepts; and the H460 subtopic page, which links costs, revenue and profit to each objective through one firm's data table. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-a-level-economics-business-objectives-and-the-principal-agent-problem.md", "ocr-a-level-economics-economies-of-scale-revenue-and-profit.md", "ocr-a-level-economics-h460-business-objectives-ocr-alevel-economics.md", "ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves.md"],
+    evidence: "OCR A Level Economics H460 business objectives units (study-guides). D-505 (19 Nov 2026) removed the AS tags from three of them, since Version 3.0 has no AS topic on costs, economies of scale or firms' objectives, so they now share the H460 business objectives scope. Different content: short-run costs and diminishing returns; economies of scale, revenue and profit; objectives and the principal-agent problem as concepts; and the H460 subtopic page, which links costs, revenue and profit to each objective through one firm's data table. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-a-level-economics-information-failure-merit-and-demerit-goods-public-practice.md", "ocr-a-level-economics-the-environment-and-market-failure-practice.md"],
+    evidence: "OCR H460 and H060 market failure units (practice-questions). D-505 (19 Nov 2026) removed the information-asymmetries AS tag, so the two now share the same H460 and AS 2.7 scope. Different content: information failure, merit and demerit goods and public goods, against environmental market failure and its policies. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-a-level-economics-information-failure-merit-and-demerit-goods-public-revision-notes.md", "ocr-a-level-economics-the-environment-and-market-failure-revision-notes.md"],
+    evidence: "OCR H460 and H060 market failure units (revision-notes). D-505 (19 Nov 2026) removed the information-asymmetries AS tag, so the two now share the same H460 and AS 2.7 scope. Different content: information failure, merit and demerit goods and public goods, against environmental market failure and its policies. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-a-level-economics-information-failure-merit-and-demerit-goods-public.md", "ocr-a-level-economics-the-environment-and-market-failure.md"],
+    evidence: "OCR H460 and H060 market failure units (study-guides). D-505 (19 Nov 2026) removed the information-asymmetries AS tag, so the two now share the same H460 and AS 2.7 scope. Different content: information failure, merit and demerit goods and public goods, against environmental market failure and its policies. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics-practice.md", "ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics-practice.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 3.4, so these sibling practice-questions now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: aggregate demand and supply; macroeconomic equilibrium. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics-revision-notes.md", "ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics-revision-notes.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 3.4, so these sibling revision-notes now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: aggregate demand and supply; macroeconomic equilibrium. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics.md", "ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 3.4, so these sibling study-guides now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: aggregate demand and supply; macroeconomic equilibrium. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics-practice.md", "ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics-practice.md", "ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics-practice.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 1.2, so these sibling practice-questions now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: allocation of resources; productive and allocative efficiency; the market economy. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics-revision-notes.md", "ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics-revision-notes.md", "ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics-revision-notes.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 1.2, so these sibling revision-notes now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: allocation of resources; productive and allocative efficiency; the market economy. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics.md", "ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics.md", "ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 1.2, so these sibling study-guides now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: allocation of resources; productive and allocative efficiency; the market economy. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics-practice.md", "ocr-as-level-economics-h060-government-failure-ocr-aslevel-economics-practice.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 2.8, so these sibling practice-questions now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: alternative methods of government intervention; government failure. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics-revision-notes.md", "ocr-as-level-economics-h060-government-failure-ocr-aslevel-economics-revision-notes.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 2.8, so these sibling revision-notes now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: alternative methods of government intervention; government failure. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics.md", "ocr-as-level-economics-h060-government-failure-ocr-aslevel-economics.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 2.8, so these sibling study-guides now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: alternative methods of government intervention; government failure. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-externalities-ocr-aslevel-economics-practice.md", "ocr-as-level-economics-h060-market-failure-ocr-aslevel-economics-practice.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 2.7, so these sibling practice-questions now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: externalities; market failure. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-externalities-ocr-aslevel-economics-revision-notes.md", "ocr-as-level-economics-h060-market-failure-ocr-aslevel-economics-revision-notes.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 2.7, so these sibling revision-notes now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: externalities; market failure. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-externalities-ocr-aslevel-economics.md", "ocr-as-level-economics-h060-market-failure-ocr-aslevel-economics.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 2.7, so these sibling study-guides now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: externalities; market failure. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics-practice.md", "ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics-practice.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 1.1, so these sibling practice-questions now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: the basic economic problem; the objectives of economic agents. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics-revision-notes.md", "ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics-revision-notes.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 1.1, so these sibling revision-notes now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: the basic economic problem; the objectives of economic agents. Reviewed 19 Nov 2026 (D-507).",
+  },
+  {
+    files: ["ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics.md", "ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics.md"],
+    evidence: "H060 moved to the Version 3.0 specification (19 Nov 2026, D-505), which merges several of the earlier specification's topics into topic 1.1, so these sibling study-guides now share one subtopic tag. Each set still teaches a different part of that topic, named in its file: the basic economic problem; the objectives of economic agents. Reviewed 19 Nov 2026 (D-507).",
+  },
 ];
 const legitimateKeyOf = (fs) => [...fs].sort().join('|');
 const REVIEWED_KEYS = new Map(
@@ -3783,6 +3867,9 @@ for (const fname of files) {
   const fmMatch = text.match(/^---\n([\s\S]*?)\n---\n/);
   if (!fmMatch) continue;
   const fm = fmMatch[1];
+  // D-507: an archived resource is off every course hub and noindexed
+  // (D-505), so it no longer competes for its scope.
+  if (field(fm, 'reviewStatus') === 'archived') continue;
 
   const subject = field(fm, 'subject');
   const boards = arrayField(fm, 'boards');

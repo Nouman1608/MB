@@ -219,6 +219,14 @@ export const DECK_OCR_AS_LEVEL_ECONOMICS: FlashcardDeck = {
       { n: 5, f: 'Sustained vs sustainable growth', b: 'Sustained: continues over a long period without being cut short by instability.\nSustainable: does not damage the environment or deplete resources future generations need.' },
       { n: 6, f: 'Primary, secondary and tertiary sectors', b: 'Primary: extracting or harvesting natural resources.\nSecondary: manufacturing and construction.\nTertiary: services.' },
     ]),
+    ...sub(T4, 'development-ocr-aslevel-economics', '4.2', [
+      { n: 1, f: 'How the structure of an economy usually changes as it develops', b: 'Output and jobs move from the primary sector to the secondary sector (industrialisation), then to the tertiary sector (deindustrialisation). Farm productivity releases labour, and demand for services rises faster than income.' },
+      { n: 2, f: 'Sustainable development', b: 'Development that meets the needs of the present without compromising the ability of future generations to meet their own needs. It has economic, social and environmental strands.' },
+      { n: 3, f: 'Does economic growth help or harm sustainable development?', b: 'Helps: funds health, education and cleaner technology, and cuts poverty.\nHarms: growth that depletes natural resources or raises pollution lifts GDP now but cuts future capacity.\nIt depends on the type of growth and on policy.' },
+      { n: 4, f: 'The three dimensions of the Human Development Index (HDI)', b: 'Health: life expectancy at birth.\nEducation: mean and expected years of schooling.\nStandard of living: GNI per head at purchasing power parity.\nThe score runs from 0 to 1.' },
+      { n: 5, f: 'Limitations of the HDI', b: 'It leaves out inequality, the environment, freedom and political rights; its equal weights are a choice; years of schooling ignore quality; and data can be weak in poorer countries.' },
+      { n: 6, f: 'Alternative social and cultural indicators', b: 'Measures beyond GDP and the HDI, such as infant mortality, literacy, access to clean water, the Gini coefficient, life satisfaction surveys and cultural participation. They show what income misses but are hard to combine.' },
+    ]),
     ...sub(T4, 'employment-ocr-aslevel-economics', '4.3', [
       { n: 1, f: 'Unemployed vs economically inactive', b: 'Unemployed: without a job, actively seeking work and available to start.\nInactive: outside the labour force, neither in a job nor searching (students, carers, retired people).' },
       { n: 2, f: 'Population 16+ 30.0m, employed 19.2m, unemployed 0.8m. Unemployment rate?', b: 'Labour force = 19.2 + 0.8 = 20.0m. Unemployment rate = 0.8 ÷ 20.0 × 100 = 4.0%.' },

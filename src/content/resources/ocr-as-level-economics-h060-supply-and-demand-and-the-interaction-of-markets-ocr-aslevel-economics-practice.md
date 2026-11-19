@@ -22,7 +22,7 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "the-role-of-markets-ocr-aslevel-economics"
     subtopic: "the-interaction-of-markets-ocr-aslevel-economics"
-description: "Twelve original OCR AS Economics (H060) questions on supply, demand, equilibrium, surplus and related markets, with full worked answers."
+description: "Fourteen original OCR AS Economics (H060) questions on supply, demand, market curves, equilibrium, surplus and related markets, with full worked answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
@@ -108,6 +108,22 @@ D: Wheat and barley.
 
 **12.** Evaluate the usefulness of the supply and demand model for predicting changes in the prices of farm products. **[10]**
 
+**13.** The table shows the weekly demand for loaves of bread from three households in a small invented village, and the market supply.
+
+| Price (£) | Household 1 | Household 2 | Household 3 | Market supply |
+|---|---|---|---|---|
+| 1 | 5 | 4 | 6 | 6 |
+| 2 | 3 | 3 | 4 | 10 |
+| 3 | 2 | 1 | 3 | 14 |
+
+**(a)** Calculate market demand at each price. **[1]**
+
+**(b)** Identify the equilibrium price and explain why the market would not stay at a price of £1. **[2]**
+
+**(c)** Explain why the ceteris paribus assumption is needed when the market demand curve is drawn from this table. **[2]**
+
+**14.** A cut in the number of trains reduces the supply of rail travel, and the price of commuter tickets rises. Evaluate the impact of the price rise on consumer and producer surplus. **[6]**
+
 ## Answers
 
 **1.** **B** [1]. A change in the good's own price causes a movement along the curve. **[1]**
@@ -140,6 +156,21 @@ D: Wheat and barley.
 
 **12.** Useful: the model predicts the direction of price changes after a shock, such as a poor harvest shifting supply left and raising price [1]; with estimates of the curves, it can show the size of changes, as in question 7 [1]; it explains why farm prices are volatile, because supply shifts with weather while demand for food is fairly stable [1]; and it traces effects on related markets such as substitutes and inputs [1]. Limits: it assumes other things are equal, but many factors change at once [1]; the curves are hard to estimate accurately [1]; farm supply responds with long lags because crops take a season to grow, so the market may not reach equilibrium quickly [1]; government schemes such as price support or buffer stocks override market prices [1]. Judgement: the model is very good at predicting the direction of change and explaining volatility [1], but less reliable for exact prices, so it works best combined with data and knowledge of the specific market [1]. **[10]**
 *Examiner insight:* Weigh what the model predicts well (direction) against what it predicts poorly (exact size and timing).
+
+**13. (a)** Adding the quantities at each price: **15** at £1, **10** at £2 and **6** at £3 [1].
+
+**(b)** Equilibrium is **£2**, where market demand and market supply are both 10 [1]. At £1 there is a shortage of 15 − 6 = 9 loaves, so buyers bid the price up, supply extends and demand contracts until the market reaches £2 [1].
+
+**(c)** The table holds incomes, the prices of other goods, tastes and the number of households constant, so it shows the effect of price alone [1]. If any of these changed, the quantities in the table would change and the market demand curve would shift rather than stay as drawn [1]. **[5]**
+
+**14.** Award up to 6 marks.
+- Commuters pay more on every ticket they still buy, so part of consumer surplus is transferred to the rail operator [1].
+- Fewer journeys are made, so the surplus on the lost journeys disappears for both sides, and consumer surplus clearly falls [1].
+- Producer surplus may rise or fall: the operator gains from the higher price but loses on the journeys no longer sold [1].
+- Commuter demand is price inelastic in the short run, as there are few substitutes for getting to work, so few journeys are lost and most of the effect is a transfer from commuters to the operator [1].
+- Surplus is a limited measure: it does not show that the loss falls hardest on low-income commuters, and it leaves out external effects such as more traffic if some commuters switch to driving [1].
+- Judgement: in the short run commuters bear most of the loss, but demand becomes more elastic over time as people move home, change jobs or work from home, so the transfer to the operator shrinks in the long run [1]. **[6]**
+*Examiner insight:* Separate the transfer on units still bought from the surplus lost on units no longer bought, then use elasticity to say which is larger.
 
 ## Where marks are usually lost
 

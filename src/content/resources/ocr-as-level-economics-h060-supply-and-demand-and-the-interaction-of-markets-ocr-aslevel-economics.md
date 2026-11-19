@@ -32,18 +32,18 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). It covers topics 2.2 **Demand**, 2.3 **Supply** and 2.5 **The interaction of markets** in The role of markets, within Component 01, Microeconomics, with consumer and producer surplus from topic 2.4. It brings together demand, supply, equilibrium, consumer and producer surplus, and the ways in which a change in one market spreads to others. All markets and figures below are invented.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). It covers topics 2.2 **Demand**, 2.3 **Supply** and 2.5 **The interaction of markets** in The role of markets, within Component 01, Microeconomics, with consumer and producer surplus from topic 2.4. It brings together demand, supply, individual and market curves, the ceteris paribus assumption, equilibrium, consumer and producer surplus, and the ways in which a change in one market spreads to others. All markets and figures below are invented.
 
-The H460 A Level pages on [demand, supply and consumer and producer surplus](/resources/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus/) and on [market equilibrium and price volatility](/resources/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the/) treat the content in more depth for the full A Level. This page gives one connected worked example and the AS exam technique for diagrams. Use the [supply and demand revision notes](/resources/ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes/) for recall and the [supply and demand practice questions](/resources/ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-practice/) to test yourself. The price mechanism behind it is in the [allocation of resources guide](/resources/ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/).
+The H460 A Level pages on [demand, supply and consumer and producer surplus](/resources/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus/) and on [market equilibrium and price volatility](/resources/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the/) treat the content in more depth for the full A Level. This page gives one connected worked example, a short example of adding individual curves, and the AS exam technique for diagrams. Use the [supply and demand revision notes](/resources/ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes/) for recall and the [supply and demand practice questions](/resources/ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-practice/) to test yourself. The price mechanism behind it is in the [allocation of resources guide](/resources/ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/).
 
 ## What this topic covers
 
 | Topic | What you must be able to do |
 |---|---|
-| 2.2 Demand | Explain why demand curves slope down; distinguish movements along the curve (extension/contraction) from shifts (increase/decrease); explain the causes of shifts; explain joint, competitive and composite demand |
-| 2.3 Supply | Explain why supply curves slope up; distinguish movements from shifts; explain the causes of shifts; explain joint and competitive supply |
-| 2.4 Consumer and producer surplus | Show them on a diagram and explain the effects of changes in price on each |
-| 2.5 The interaction of markets | Find equilibrium, explain how a market moves to it from disequilibrium, and evaluate the impact of a change in one market on related markets |
+| 2.2 Demand | Explain why demand curves slope down; add individual demand curves to find market demand; distinguish movements along the curve (extension/contraction) from shifts (increase/decrease); explain the causes of shifts; explain joint, competitive and composite demand |
+| 2.3 Supply | Explain why supply curves slope up; add individual supply curves to find market supply; distinguish movements from shifts; explain the causes of shifts; explain joint and competitive supply |
+| 2.4 Consumer and producer surplus | Show them on a diagram, explain the effects of changes in price on each, and evaluate the impact of changes in price on both |
+| 2.5 The interaction of markets | Explain ceteris paribus; find equilibrium, explain how a market moves to it from disequilibrium, and evaluate the impact of a change in one market on related markets |
 
 ## Demand and supply: movements and shifts
 
@@ -57,6 +57,35 @@ The H460 A Level pages on [demand, supply and consumer and producer surplus](/re
 | Anything else changes | Shift: income, prices of substitutes and complements, tastes, advertising, population | Shift: costs of production, technology, indirect taxes and subsidies, number of firms, weather |
 
 The rule that saves most marks: **a change in the good's own price never shifts its own demand or supply curve.**
+
+## Individual and market demand and supply
+
+An **individual** demand curve shows how much one buyer wants at each price; an individual supply curve shows how much one seller offers. The **market** curve is the **horizontal sum** of the individual curves: at each price, add the quantities. Never add the prices.
+
+**Worked example (invented local market, punnets per week).**
+
+| Price (£) | Buyer A | Buyer B | Buyer C | **Market demand** | Grower X | Grower Y | **Market supply** |
+|---|---|---|---|---|---|---|---|
+| 2 | 6 | 4 | 5 | **15** | 1 | 0 | **1** |
+| 4 | 4 | 3 | 3 | **10** | 3 | 2 | **5** |
+| 6 | 2 | 2 | 1 | **5** | 5 | 5 | **10** |
+| 8 | 0 | 1 | 0 | **1** | 7 | 8 | **15** |
+
+- At £4, market demand is 4 + 3 + 3 = 10 and market supply is 3 + 2 = 5: a shortage of 5.
+- At £6, demand is 5 and supply 10: a surplus of 5.
+- So equilibrium lies between £4 and £6. If the curves are straight lines between those prices, it is at **£5** and **7.5** punnets, where both lines meet.
+
+On a diagram, the market curve lies to the right of every individual curve. More buyers or more sellers add more quantities at each price, which is why population growth shifts market demand right and the entry of new firms shifts market supply right.
+
+## Ceteris paribus: other things being equal
+
+**Ceteris paribus** means "other things being equal". Each demand curve is drawn holding constant everything except the good's own price: income, the prices of other goods, tastes and population. Each supply curve holds costs, technology, taxes and the number of firms constant.
+
+Why it matters when reading diagrams:
+
+- It is the reason for the movement and shift rule. A change in the good's own price moves along the curve because everything else is held equal; a change in anything else breaks that assumption, so the curve shifts.
+- It lets you isolate one cause and predict its effect, which is how every diagram in this guide is built.
+- Real data rarely holds other things equal. If price and quantity both rise, that is not evidence that demand slopes upwards: more likely demand has shifted right. Observed prices and quantities are usually points on different curves, so predictions from one diagram should be stated as "ceteris paribus" and then evaluated.
 
 ## Worked example: the market for strawberries
 
@@ -78,6 +107,24 @@ P is the price in pounds per punnet; Q is in thousand punnets.
 **3. A supply shock.** A wet summer raises growers' costs, and supply becomes Qs = 120P - 360. At the old price of £6, quantity supplied is only 360 thousand while 540 thousand are demanded: a **shortage of 180 thousand**. The shortage pushes up the price, which contracts demand and extends supply, until 900 - 60P = 120P - 360 gives **P = £7** and **Q = 480 thousand**.
 
 **4. Who loses?** Consumer surplus falls to 0.5 x (15 - 7) x 480 = £1,920 thousand, a loss of £510 thousand. Producer surplus becomes 0.5 x (7 - 3) x 480 = £960 thousand, also lower: the higher price does not make up for the higher costs and smaller sales. The diagram shows supply shifting left, price rising from £6 to £7 and quantity falling from 540 to 480.
+
+## Evaluating the impact of price changes on surplus
+
+**Who gains and who loses.** When the price rises, buyers pay more on every unit they still buy: that part of consumer surplus is **transferred** to producers. Units that are no longer bought lose their surplus altogether, for both sides. So consumer surplus always falls when price rises along a given demand curve, while producer surplus may rise or fall depending on why the price rose. If demand shifts right, producers gain. If supply shifts left because costs rise, as with the strawberries above, producers can lose too. A price fall reverses these effects.
+
+**Elasticity decides the split.**
+
+- With **price inelastic demand**, buyers keep buying, so most of a price rise is a transfer from consumers to producers and little trade is lost.
+- With **price elastic demand**, buyers switch to substitutes, quantity falls a lot and producers gain little from the higher price.
+- With **price inelastic supply**, a rise in demand mostly raises the price, so existing producers gain much of the extra surplus; with elastic supply, quantity rises instead and the price changes little.
+
+**Limits of surplus as a measure of welfare.**
+
+- Willingness to pay depends on income, so the preferences of richer buyers count for more.
+- A pound of surplus counts the same for a poor household as for a rich one, so surplus says nothing about fairness.
+- It leaves out external costs and benefits to third parties.
+- It assumes buyers are well informed and act in their own interest.
+- The curves are estimates, and elasticities are higher in the long run, so the size of any gain or loss is uncertain.
 
 ## Disequilibrium and how markets adjust
 
