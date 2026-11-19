@@ -16573,3 +16573,24 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **Not filled.**
   - **IB DP Language A records (2).** Language and Literature and Literature stay `VERIFIED_PARTIAL`. ibo.org refused automated access (a browser challenge), and the missing mark totals for the HL essay, individual oral and Paper 2 are probably only in the licensed subject guide. Nothing was invented.
   - **Reused IGCSE figures.** About 25 figures on the 37 tier pages still have "Core"/"Extended" badges drawn into them. The text now gives the right tier, but each image needs an AQA/OCR version.
+- **Filled after the first round.**
+  - **Practice-bank subtopics.**
+    - 180 flagship practice pages were counted as "topic-tagged only".
+      - 135 already listed the right subtopics plus a spare topic-only entry, which is removed.
+      - 44 were tagged from their questions.
+    - Question totals are unchanged (14,451 across 24 codes). The pinned tier and bank tests still pass.
+    - Four pages also carry a subtopic from another topic where one whole question tests it: 9708 basic ideas (3.2), 9708 government macro (9.1), 2281 economic development (3.3), 7115 marketing (1.5).
+    - 30 pages stay topic-only because their courses' records list topics without subtopics: 4CH1 Topics 3-4, 4024, 2210, 8461 Key ideas, 8462 Topics 3-11, 8300 Topics 3-6.
+    - Seven new 9700 sibling pairs were reviewed (outcome-by-outcome sets against sets built on the June 2024 papers) and recorded.
+  - **Figures.**
+    - The 22 badged figures on AQA and OCR GCSE pages are redrawn as site-served SVGs in `public/images/learning/{biology,chemistry,physics}/gcse-*.svg`, with tiers per the board's specification. 64 pages and 113 images now point to them.
+    - Cambridge pages keep the originals.
+    - Two AQA tier rulings were made without a precedent and are for a teacher to confirm: 8461 protein synthesis Higher only, and 8461 interacting limiting factors Higher only.
+  - **Second repository-side check.**
+    - The two new practice pages are recorded in `pending-review-2026-11-19.json`.
+      - 0539 speaking: verified after correction. Q3's item list made its answer false; it now has six items. A verb agreement in answer 11 and a heading count in answer 2 were also corrected.
+      - IB fieldwork: partial, because ibo.org cannot be read; the Spearman's rank and chi-squared values were recomputed from exact distributions.
+    - Two Urdu notes stay open for a specialist reader.
+- **Left as decisions, not filled.**
+  - `edexcel-igcse-mathematics-algebraic-manipulation-practice` (12 questions) covers the same scope as `edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice` (24 questions). The questions differ. Merging would delete original questions and change the pinned 4MA1 totals, so it stays topic-tagged until the owner decides.
+  - The same Cambridge-badged figures are still used on about 23 Edexcel International GCSE and 27 OxfordAQA International GCSE science pages. Those courses do not use Core/Extended either.
