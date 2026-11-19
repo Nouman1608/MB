@@ -16513,3 +16513,5 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **Checks.**
   - `validate-flashcards.mjs` checks the migration: values are real card ids and unique, `before` is a valid past date, and `id` is non-empty.
   - 11 new tests in `src/scripts/__tests__/flashcard-migrate.test.mjs` run under `test:tools`.
+- **Coverage report.** `academic-coverage-report-v2.mjs` now leaves archived resources out, as course hubs do (D-505). Before this, the 9 archived H060 pages showed as "review-pending with no reviewer" under H060 and H460.
+- **Not fixed here.** `scripts/test-academic-reports.mjs` (not part of `audit:all`) fails 7 of 44 checks on main. Its fixtures assume some resources are still `review-pending`. Since D-500 credited every page, none are, so cases N2 and N4 find no file and the pending-row checks fail. Its `check:review-ledger` step also fails inside the test, though the same command passes on its own. The likely cause is a missing heap setting.

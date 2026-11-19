@@ -175,7 +175,11 @@ const rows = activeRows.map((c) => {
   const assessmentCompleteness = assessmentCompletenessFor(assessmentRecords);
   const currentAssessment = assessmentRecords.find((a) => a.specStatus === 'current') ?? assessmentRecords[0];
 
+  // D-506: archived resources keep their page but are off every course hub
+  // (resourcesForCombination), so they are not counted here either, and are
+  // never "review-pending".
   const eligible = resources.filter((r) =>
+    r.reviewStatus !== 'archived' &&
     r.subject === hubId &&
     r.levels.includes(level) &&
     (r.boards.length === 0 || r.boards.includes(c.boardSlug)));

@@ -79,7 +79,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | Cambridge | 55 | 55 | 55 | 6299 | 0 | 55 | 6299 | 0 |
 | Pearson Edexcel | 21 | 21 | 21 | 1842 | 0 | 21 | 1842 | 0 |
 | International Baccalaureate | 21 | 21 | 21 | 1790 | 0 | 19 | 1790 | 0 |
-| OCR | 13 | 13 | 13 | 1749 | 0 | 13 | 1731 | 18 |
+| OCR | 13 | 13 | 13 | 1731 | 0 | 13 | 1731 | 0 |
 | OxfordAQA | 30 | 30 | 30 | 2601 | 0 | 30 | 2601 | 0 |
 
 ## By qualification
@@ -87,8 +87,8 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | Qualification | Combinations | Resources (per-combination count, a resource can count for more than one) |
 | --- | --- | --- |
 | GCSE | 18 | 1606 |
-| A Level | 59 | 7033 |
-| AS Level | 3 | 518 |
+| A Level | 59 | 7024 |
+| AS Level | 3 | 509 |
 | IGCSE | 47 | 4147 |
 | O Level | 18 | 1635 |
 | IB Diploma Programme | 16 | 1584 |
@@ -119,16 +119,14 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 ## Missing reviewer
 
-- OCR AS Level Economics (H060): 9 review-pending resource(s) with no reviewer
-- OCR A Level Economics (H460): 9 review-pending resource(s) with no reviewer
+- None.
 
 ## Recommended next action
 
 | Next action | Combinations |
 | --- | --- |
-| None. | 162 |
+| None. | 164 |
 | Complete the assessment record from the official specification. | 2 |
-| Named-reviewer sign-off of review-pending resources. | 2 |
 
 Overall: no review-pending resources.
 
@@ -259,7 +257,7 @@ Overall: no review-pending resources.
 | International Baccalaureate | IB Middle Years Programme | Sciences (MYP) | MYP Sciences | 40 | 40 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
 | International Baccalaureate | IB Middle Years Programme | Design (MYP) | MYP Design | 34 | 34 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
 | International Baccalaureate | IB Middle Years Programme | Individuals and Societies (MYP) | MYP Individuals and Societies | 40 | 40 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
-| OCR | AS Level | Economics | H060 | 257 | 248 / 9 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | AS Level | Economics | H060 | 248 | 248 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | GCSE | Chemistry | J248 | 54 | 54 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | GCSE | Physics | J249 | 114 | 114 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | GCSE | Biology | J247 | 102 | 102 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
@@ -271,7 +269,7 @@ Overall: no review-pending resources.
 | OCR | A Level | Biology | H420 | 126 | 126 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | A Level | Mathematics | H240 | 117 | 117 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | A Level | Business | H431 | 114 | 114 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | A Level | Economics | H460 | 257 | 248 / 9 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | A Level | Economics | H460 | 248 | 248 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Accounting | 9215 | 92 | 92 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Business | 9225 | 47 | 47 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Computer Science | 9210 | 68 | 68 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
