@@ -33,7 +33,7 @@ This study guide teaches sections **2.1 Use of symbols** and **2.2 Algebraic man
 
 When you have worked through this guide, test your recall with the [revision notes](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-revision-notes/) and then try the [practice questions](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice/). The [Edexcel IGCSE Mathematics course hub](/boards/edexcel/igcse/mathematics/) links the rest of the course, and the [printable checklist](/checklists/edexcel/igcse/mathematics/) lists every specification statement.
 
-There is also an earlier topic-level [guide to use of symbols and algebraic manipulation](/resources/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation/), with its own [revision notes](/resources/edexcel-igcse-mathematics-algebraic-manipulation-revision-notes/) and [practice set](/resources/edexcel-igcse-mathematics-algebraic-manipulation-practice/). The examples here are different from theirs.
+There is also an earlier topic-level [guide to use of symbols and algebraic manipulation](/resources/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation/), with its own [revision notes](/resources/edexcel-igcse-mathematics-algebraic-manipulation-revision-notes/). The examples here are different from theirs.
 
 ## What this unit covers
 

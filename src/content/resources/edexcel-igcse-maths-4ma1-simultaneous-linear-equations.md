@@ -314,7 +314,7 @@ A calculator may be used on every 4MA1 paper, but calculators with built-in symb
 
 - Fix the methods in memory: [simultaneous linear equations revision notes](/resources/edexcel-igcse-maths-4ma1-simultaneous-linear-equations-revision-notes/)
 - Test yourself with marked answers: [simultaneous linear equations practice questions](/resources/edexcel-igcse-maths-4ma1-simultaneous-linear-equations-practice/)
-- Earlier in Topic 2: [use of symbols and algebraic manipulation](/resources/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation/) and its [practice questions](/resources/edexcel-igcse-mathematics-algebraic-manipulation-practice/)
+- Earlier in Topic 2: [use of symbols and algebraic manipulation](/resources/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation/) and its [practice questions](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice/)
 - Find your weaker topics: [free 10-minute diagnostics](/diagnostics/)
 
 ## Frequently asked questions

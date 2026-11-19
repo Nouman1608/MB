@@ -153,7 +153,6 @@ export function explicitHigherTierFromLabel(questionMarkdown: string): ExplicitT
  */
 export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   // 4MA1
-  'edexcel-igcse-mathematics-algebraic-manipulation-practice',
   'edexcel-igcse-mathematics-number-practice',
   'edexcel-igcse-maths-4ma1-geometry-and-trigonometry-practice',
   'edexcel-igcse-maths-4ma1-sequences-functions-and-graphs-practice',

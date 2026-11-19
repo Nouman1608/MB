@@ -126,7 +126,7 @@ themselves.
 - **Revision notes** summarise an area for review, for example the
   [numbers and the number system revision notes](/resources/edexcel-igcse-mathematics-number-revision-notes/).
 - **Practice questions** provide targeted exercises, such as the
-  [use of symbols and algebraic manipulation practice questions](/resources/edexcel-igcse-mathematics-algebraic-manipulation-practice/).
+  [use of symbols and algebraic manipulation practice questions](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice/).
 - **Exam preparation** covers tier choice and the two papers:
   [tier choice and two-paper exam preparation](/resources/edexcel-igcse-mathematics-exam-preparation/).
 

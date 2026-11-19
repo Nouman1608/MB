@@ -159,7 +159,7 @@ Multiplying the left-hand side by a number but forgetting the right-hand side. E
 
 - Refresh the methods: [revision notes](/resources/edexcel-igcse-maths-4ma1-simultaneous-linear-equations-revision-notes/)
 - Re-learn anything you missed: [study guide](/resources/edexcel-igcse-maths-4ma1-simultaneous-linear-equations/)
-- More Topic 2 practice: [algebraic manipulation practice questions](/resources/edexcel-igcse-mathematics-algebraic-manipulation-practice/)
+- More Topic 2 practice: [algebraic manipulation practice questions](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice/)
 - Course hub: [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/)
 - Track coverage: [printable checklist](/checklists/edexcel/igcse/mathematics/)
 - Check other topics: [all free 10-minute diagnostics](/diagnostics/)

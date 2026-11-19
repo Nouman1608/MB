@@ -168,7 +168,11 @@ test('real banks: every checked file is a practice file in a Foundation/Higher b
   // Re-pinned 8 Nov 2026: 8300 +1 Higher (algebra practice Q13, inverse function, A7 HT).
   // Re-pinned 18 Nov 2026 (D-500): 89 new subtopic practice files (4MA1 31, 8461 27,
   // 8462 4, 8463 27) checked question by question against the specifications.
-  assert.deepEqual(counts, { '4MA1': 181, '8461': 40, '8462': 12, '8463': 62, '8300': 35 });
+  // Re-pinned 19 Nov 2026 (D-509): the 4MA1 algebraic manipulation practice set (6
+  // questions, 5 Higher-only) merged into the use of symbols and algebraic manipulation
+  // set. Its Q1 moved as Q13 (mixed: only part (c) is Higher, so not Higher-only); the
+  // five Higher-only duplicates were dropped. 4MA1: 181 − 5 + 0 = 176.
+  assert.deepEqual(counts, { '4MA1': 176, '8461': 40, '8462': 12, '8463': 62, '8300': 35 });
   // Review fix (28 Sep 2026): total questions per bank, pinned. Every file in these
   // banks is in HIGHER_LABELS_CHECKED, so a new question without a Higher label would
   // silently count as 'both'. A changed total fails here until the new or removed
@@ -178,7 +182,10 @@ test('real banks: every checked file is a practice file in a Foundation/Higher b
   // 8300 +3 (algebra practice: expanding, linear equations, functions), Higher labels checked.
   // Re-pinned 18 Nov 2026 (D-500): 4MA1 +394, 8461 +321, 8462 +48, 8463 +339, from the
   // 89 new subtopic files above, all checked and listed in HIGHER_LABELS_CHECKED.
-  assert.deepEqual(totals, { '4MA1': 596, '8461': 480, '8462': 228, '8463': 447, '8300': 150 });
+  // Re-pinned 19 Nov 2026 (D-509): 4MA1 596 − 6 (algebraic manipulation practice file
+  // retired) + 1 (its Q1 moved into the use of symbols set as Q13; Q2–Q6 dropped as
+  // duplicates of that set's Q7(a), Q6, Q9(c), Q8(b) and Q8(a)) = 591.
+  assert.deepEqual(totals, { '4MA1': 591, '8461': 480, '8462': 228, '8463': 447, '8300': 150 });
 });
 
 /**

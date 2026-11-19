@@ -32,7 +32,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 These questions cover section **2.5 Proportion** of Topic 2 (Equations, formulae and identities) in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Section 2.5 is **Higher tier only**, so every question here is labelled (Higher). A calculator may be used on every 4MA1 paper, but show your working: most marks are for method.
 
-Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1-proportion/) and the [revision notes](/resources/edexcel-igcse-maths-4ma1-proportion-revision-notes/). The course hub is [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/) and the [printable checklist](/checklists/edexcel/igcse/mathematics/) lists every statement. For rearranging practice, use the [algebraic manipulation practice](/resources/edexcel-igcse-mathematics-algebraic-manipulation-practice/).
+Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1-proportion/) and the [revision notes](/resources/edexcel-igcse-maths-4ma1-proportion-revision-notes/). The course hub is [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/) and the [printable checklist](/checklists/edexcel/igcse/mathematics/) lists every statement. For rearranging practice, use the [algebraic manipulation practice](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice/).
 
 ## Questions
 
