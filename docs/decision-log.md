@@ -16594,3 +16594,13 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **Left as decisions, not filled.**
   - `edexcel-igcse-mathematics-algebraic-manipulation-practice` (12 questions) covers the same scope as `edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice` (24 questions). The questions differ. Merging would delete original questions and change the pinned 4MA1 totals, so it stays topic-tagged until the owner decides.
   - The same Cambridge-badged figures are still used on about 23 Edexcel International GCSE and 27 OxfordAQA International GCSE science pages. Those courses do not use Core/Extended either.
+- **Edexcel and OxfordAQA International GCSE figures (second batch).**
+  - The 20 badged figures from the first list are redrawn for the 55 Edexcel and OxfordAQA pages that use them: 93 images, 22 new SVGs (`igcse-edexcel-*`, `igcse-oxfordaqa-*`, `igcse-shared-intl-*`), and 7 reused `gcse-shared-*` SVGs.
+  - Rulings follow each specification:
+    - Edexcel 4BI1/4CH1 Issue 3 and 4PH1 Issue 4: bold B/C/P statements are Paper 2 only.
+    - OxfordAQA 9201/9202/9203: untiered, with any content on either paper.
+  - Parts outside a specification are marked "not required by <board>". Examples: the OxfordAQA gene-to-protein mRNA steps, and the locating-agent step in chromatography.
+  - Five redraws with Paper 2 banners are taller than the originals and show slightly letterboxed at the original size.
+- **Still open.**
+  - A visual check of all 329 shared figures on these boards found 158 with Cambridge tier badges. 138 of them, on about 70 Edexcel and 100 OxfordAQA pages, are not yet redrawn.
+  - The OxfordAQA gene-to-protein pages still teach the mRNA steps that the figure now marks as not required.
