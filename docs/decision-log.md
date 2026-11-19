@@ -16604,3 +16604,22 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **Still open.**
   - A visual check of all 329 shared figures on these boards found 158 with Cambridge tier badges. 138 of them, on about 70 Edexcel and 100 OxfordAQA pages, are not yet redrawn.
   - The OxfordAQA gene-to-protein pages still teach the mRNA steps that the figure now marks as not required.
+- **Third round: the remaining 138 badged figures on Edexcel and OxfordAQA pages.** Three agents worked by subject.
+  - Physics: 35 figures, 45 SVGs, 48 pages.
+  - Chemistry: 50 figures, 68 SVGs, 60 pages.
+  - Biology: 53 figures, 69 SVGs, 56 pages.
+  - All are site-served SVGs under `public/images/learning/{physics,chemistry,biology}/igcse-{edexcel,oxfordaqa,shared-intl}-*.svg`. Each SVG's `<desc>` cites the specification statements it follows. No Edexcel or OxfordAQA science page now has a Cambridge tier word in figure alt text or captions.
+  - Corrections made while redrawing:
+    - solid CO2 sublimes, so the simple-molecules figure no longer shows it melting to a liquid;
+    - the star life-cycle uses "main sequence star";
+    - the terminal velocity curve has the drag shape;
+    - the balanced see-saw states that the plank's weight is ignored;
+    - lithium was added to the Edexcel reactivity order;
+    - fermentation runs at 20-35 °C for OxfordAQA;
+    - "Group I" is now "Group 1".
+- **For a teacher to confirm.**
+  - The redraws mark some content "not required by <board>" where the specification does not list it. For example:
+    - Edexcel: stability, the spring constant, thermal expansion, the Hubble constant, deamination, xylem structure, airway protection and blast-furnace detail;
+    - OxfordAQA: nephron part names, lymphocyte and memory cell, and commutator detail.
+  - These rulings rest on what the specification leaves out, and each is cited in the SVG's description.
+  - The page text was not changed, so some pages still teach content their figure now marks as not required. For example, cilia and mucus on the Edexcel gas-exchange notes, and mRNA on the OxfordAQA gene-to-protein pages.
