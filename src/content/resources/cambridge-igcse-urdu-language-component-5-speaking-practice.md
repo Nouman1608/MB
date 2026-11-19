@@ -79,7 +79,8 @@ it breaks the rules for the card, and rewrite it so that it would be allowed. **
 - (ii) a map showing where qawwali began;
 - (iii) a printed sheet with the words of a famous qawwali and his own notes on what to say about it;
 - (iv) a simple chart of the instruments used;
-- (v) a second photograph of a well-known qawwal.
+- (v) a second photograph of a well-known qawwal;
+- (vi) a simple table of statistics on qawwali festivals.
 
 Which item is not allowed, and why? What else must he change about the set of items? **[3]**
 
@@ -164,7 +165,7 @@ community outside South Asia counts [1].\
 **(e)** Linked to the culture, but far too broad for 2-3 minutes; narrow it, for example to one
 event or one city [1].
 
-**2.** The two problems: the card has seven headings, but no more than **five** are allowed [1]; the first line
+**2.** The two problems: the card has seven lines, six headings and a sentence, but no more than **five** headings are allowed [1]; the first line
 is a full sentence, which acts as a script rather than a heading [1]. A rewrite with five short
 headings earns the third mark [1], for example:
 
@@ -177,8 +178,8 @@ headings earns the third mark [1], for example:
 ```
 
 **3.** Item (iii) is not allowed [1]: illustrative material must not give extra **written** support, and
-lyrics plus notes on what to say do exactly that [1]. He has also planned five items, and no more
-than three or four are allowed, so he must drop at least one more [1].
+lyrics plus notes on what to say do exactly that [1]. He has also planned six items, and no more
+than three or four are allowed, so even without (iii) he must drop at least one more [1].
 
 **4. Model presentation** (about 250 words, roughly 2.5 minutes at a natural pace; a female speaker,
 so a boy would say چاہتا ہوں and کھینچی تھی stays the same, because it agrees with تصویر):
@@ -310,7 +311,7 @@ second uses a condition and reported speech. Mark with the Parts 2 and 3 guidanc
 
 - **کیا ایک عام شہری ماحول کو بچانے میں کوئی کردار ادا کر سکتا ہے؟**\
   جی ہاں، میرا خیال ہے کہ ہر شہری اپنا کردار ادا کر سکتا ہے، اگرچہ ایک اکیلا شخص سب کچھ نہیں بدل
-  سکتا۔ مثال کے طور پر، ہمارے گھر میں ہم نے پلاسٹک کے تھیلے استعمال کرنا چھوڑ دیے ہیں اور اب کپڑے
+  سکتا۔ مثال کے طور پر، ہمارے گھر میں ہم نے پلاسٹک کے تھیلے استعمال کرنا چھوڑ دیا ہے اور اب کپڑے
   کے تھیلے لے کر بازار جاتے ہیں۔ اگر ہر خاندان ایسا کرے تو کچرا بہت کم ہو جائے گا۔ لیکن بڑی کمپنیوں
   اور حکومت کی ذمہ داری اس سے بھی زیادہ ہے۔\
   ("Yes, I think every citizen can play a part, although one person alone cannot change everything.
