@@ -331,6 +331,9 @@ for (const d of docs) {
     && boards.every((b) => a.boards.includes(b)) && subject && subjectCovered(a.subjects, subject)).map(([slug]) => slug).sort();
   const v = verification.get(d.slug);
   const isReviewed = reviewStatus === 'reviewed';
+  // D-507: archived pages (D-505) keep their URL but are off every course hub
+  // and noindexed. They are neither credited nor awaiting sign-off.
+  const isArchived = reviewStatus === 'archived';
 
   let outcome, blocker, academic, qaResult, calc, terminology, crossBoard;
   if (v) {
@@ -338,10 +341,14 @@ for (const d of docs) {
     academic = v.academicContent; qaResult = v.questionsAnswers; calc = v.calculations;
     terminology = v.terminology; crossBoard = v.crossBoardIsolation;
     const parts = [];
-    if (!isReviewed) parts.push('Named-reviewer sign-off required under the editorial policy (no reviewer assigned)');
+    if (!isReviewed && !isArchived) parts.push('Named-reviewer sign-off required under the editorial policy (no reviewer assigned)');
     if (v.outcome === 'PARTIAL_UNVERIFIABLE') parts.push(`${(v.unverifiable ?? []).length} claim(s) not checkable against a public official source`);
     if (v.outcome === 'ISSUES_OPEN') parts.push('Open error recorded in the verification file');
     blocker = parts.join('; ');
+  } else if (isArchived) {
+    outcome = 'ARCHIVED';
+    academic = qaResult = calc = terminology = crossBoard = 'NOT_APPLICABLE_ARCHIVED';
+    blocker = 'None: archived (kept for old links, off course hubs, noindexed)';
   } else if (isReviewed) {
     outcome = 'TEACHER_CREDITED';
     academic = qaResult = calc = terminology = crossBoard = 'NOT_RECHECKED_THIS_PROGRAMME';
@@ -369,7 +376,7 @@ for (const d of docs) {
     reviewer,
     reviewStatus,
     reviewedDate,
-    eligibleReviewers: reviewStatus === 'reviewed' ? [] : eligible,
+    eligibleReviewers: reviewStatus === 'review-pending' ? eligible : [],
     specCheck,
     officialSourceUrl: v?.specSourceUsed || combos.map((c) => sourceByCombo.get(c)).find(Boolean) || '',
     structuralValidation: structural,
@@ -409,10 +416,11 @@ const totals = {
   withVerificationRecord: rows.filter((r) => r.verificationRecord).length,
   withSpecCheck: rows.filter((r) => r.specCheck).length,
   correctedInThisProgramme: rows.filter((r) => r.correctiveCommit.length).length,
-  pendingWithoutReviewer: rows.filter((r) => r.reviewStatus !== 'reviewed' && !r.reviewer).length,
+  pendingWithoutReviewer: rows.filter((r) => r.reviewStatus === 'review-pending' && !r.reviewer).length,
 };
 const meaning = {
   reviewed: 'A named Marlbridge subject teacher (reviewer, different from the author, designated isReviewer) is credited as accountable for the page. Owner decision D-379 (1 Oct 2026): this is not a record of a dated, line-by-line check.',
+  archived: 'Kept so existing links work, but off every course hub, noindexed and out of the sitemap (D-505). Neither credited nor awaiting sign-off.',
   'review-pending': 'No accountable teacher is credited yet. Accuracy rests on the page\'s own citation of the official specification and the corrections process.',
   reviewer: 'The credited accountable teacher (an author profile with isReviewer: true).',
   reviewedDate: 'The date the reviewer credit was applied to the page; not the date of a review.',
@@ -429,7 +437,7 @@ const COLUMNS = ['filename', 'slug', 'title', 'board', 'qualification', 'subject
 const json = JSON.stringify({ meaning, totals, integrity, rowsFile: `${OUT_DIR}/ledger.csv`, rowCount: rows.length, columns: COLUMNS }, null, 2) + '\n';
 const csv = [COLUMNS.join(','), ...rows.map((r) => COLUMNS.map((c) => csvCell(r[c])).join(','))].join('\n') + '\n';
 
-const pending = rows.filter((r) => r.reviewStatus !== 'reviewed');
+const pending = rows.filter((r) => r.reviewStatus === 'review-pending');
 const queueGroups = new Map();
 for (const r of pending) {
   const k = `${r.board.join('/')} · ${r.qualification.join('/')} · ${r.subject} (${r.specificationCode.join('/') || 'no code'})`;
@@ -449,6 +457,7 @@ timestamp: rerunning it on the same repository produces the same file.
 
 - **reviewed** — ${meaning.reviewed}
 - **review-pending** — ${meaning['review-pending']}
+- **archived** — ${meaning.archived}
 - **reviewer** — ${meaning.reviewer}
 - **reviewedDate** — ${meaning.reviewedDate}
 - **specCheck** — ${meaning.specCheck}
@@ -482,9 +491,11 @@ ${tableOf(totals.outcome)}
 - \`TEACHER_CREDITED\` — marked reviewed (accountable-teacher credit). Metadata
   validated here; content not re-checked in this programme.
 - \`REPO_VERIFIED\` / \`REPO_VERIFIED_AFTER_CORRECTION\` — checked against the official
-  specification, no error remaining. Still review-pending: awaiting sign-off.
+  specification, no error remaining. On a review-pending page, sign-off is still
+  outstanding; on a reviewed page, it records the check made before the credit.
 - \`REPO_PARTIAL_UNVERIFIABLE\` — no error found, but some claims could not be checked
   against a public official source (mostly licensed IB guide content).
+- \`ARCHIVED\` — archived page: not on any course, not awaiting sign-off.
 - \`UNVERIFIED\` — review-pending and not yet checked (should be 0 after a review pass;
   new resources appear here until checked).
 

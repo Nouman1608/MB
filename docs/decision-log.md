@@ -16515,3 +16515,29 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
   - 11 new tests in `src/scripts/__tests__/flashcard-migrate.test.mjs` run under `test:tools`.
 - **Coverage report.** `academic-coverage-report-v2.mjs` now leaves archived resources out, as course hubs do (D-505). Before this, the 9 archived H060 pages showed as "review-pending with no reviewer" under H060 and H460.
 - **Not fixed here.** `scripts/test-academic-reports.mjs` (not part of `audit:all`) fails 7 of 44 checks on main. Its fixtures assume some resources are still `review-pending`. Since D-500 credited every page, none are, so cases N2 and N4 find no file and the pending-row checks fail. Its `check:review-ledger` step also fails inside the test, though the same command passes on its own. The likely cause is a missing heap setting.
+
+## D-507 - Follow-up after D-506: H060 Development set, report tests, source comments (19 Nov 2026)
+
+- **Owner's instruction.** "merge it and spawn agents for 2 and 4"; "the teacher has reviewed" (the content beyond Version 3.0 at AS listed in D-505 stays as extension material, as reviewed); "resolve the minor issue in 5" (decision-log IDs in page source).
+- **H060 4.2 Development (gap from D-505).**
+  - New study guide, revision notes and practice set. They are `review-pending` with no reviewer, because the teacher review predates them.
+  - A repository-side specification check is recorded in `docs/reports/academic-review/pending-review-2026-11-19.json`, made by an agent independent of the writer; every number was recomputed.
+  - Six flashcards (4.2-1 to 4.2-6). The deck has 141 cards and every Version 3.0 subtopic has cards. The `idMigration` map is unchanged; new ids are never remapped, because new marks are dated after its cutoff.
+- **Thin coverage (D-505).** The supply and demand set now teaches individual and market demand and supply (summed horizontally), ceteris paribus, and an evaluation of price changes on consumer and producer surplus. Practice Q13 and Q14 were added.
+- **Missed in D-505.** The trends in macroeconomic indicators set (file names without `h060-`) still named the 2016 edition and the old Area of Study. It now has the Version 3.0 edition, order 4.6, the "Economic policy objectives" label and corrected text.
+- **Duplicate-scope check.**
+  - `check-duplicate-resource-scope.mjs` skips archived resources.
+  - Version 3.0 merges several earlier topics, so 21 groups of sibling sets now share one tag. Each is recorded as reviewed, with the evidence for what each set teaches differently.
+  - The H460 business objectives group (short-run costs; economies of scale, revenue and profit; objectives and the principal-agent problem; the H460 subtopic page) was checked by section headings and is distinct.
+- **Report test suite.** `scripts/test-academic-reports.mjs` failed 7 of 44 checks.
+  - Its fixtures assumed some pages were still review-pending, which stopped being true after D-500. They now create a temporary pending page inside the existing restore helper.
+  - Its ledger child processes ran out of memory at Node's default heap. They now get 6144 MB, as the build uses.
+  - Archived is treated as its own status.
+  - The check "reviewed means TEACHER_CREDITED" was rewritten, not dropped: pages verified while pending and credited later correctly show REPO_* outcomes.
+- **Review ledger.**
+  - Archived pages have their own outcome, `ARCHIVED`. They no longer appear in the sign-off queue or the per-teacher sign-off lists, or in the review-pending count.
+  - The summary no longer describes REPO_* pages as "still review-pending", because most are now reviewed.
+- **Decision-log IDs in page source.**
+  - Comments inside inline scripts are readable with "view source". The consent script carried a D-280 comment on every page; the practice pages (D-104) and search pages (D-301, D-341, D-344) also had them.
+  - The IDs are removed and the explanations kept.
+  - `audit-content-integrity.mjs` has a new check, [7b]: no D-NNN in any inline script (other than JSON data) or HTML comment.

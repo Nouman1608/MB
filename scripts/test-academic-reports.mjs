@@ -23,6 +23,11 @@
  *   [N4] a reviewer credit added to a resource -> the regenerated report
  *        names that reviewer and takes lastTeacherCredit from its
  *        reviewedDate, while a later publishedDate does not move it.
+ * Since D-500 every resource is reviewed (and D-505 added "archived", a
+ * third status that is neither reviewed nor pending), so N2 and N4 first turn
+ * a credited page into a temporary review-pending page inside withRestore.
+ * Child processes get the build's heap (--max-old-space-size=6144): the
+ * ledger runs out of memory at Node's default.
  */
 import { readFileSync, writeFileSync, readdirSync, existsSync, unlinkSync } from 'node:fs';
 import { execSync } from 'node:child_process';
@@ -33,8 +38,13 @@ let failed = 0;
 const ok = (m) => { console.log(`  ✓ ${m}`); passed++; };
 const bad = (m) => { console.log(`  ✗ ${m}`); failed++; };
 const check = (cond, m) => (cond ? ok(m) : bad(m));
+// The ledger reads all ~16,000 resources and compares their shingles; at
+// Node's default heap (~2 GB) it aborts with "JavaScript heap out of memory"
+// before printing anything. Give the child processes the heap the build uses
+// (package.json: --max-old-space-size=6144), keeping any NODE_OPTIONS already set.
+const CHILD_ENV = { ...process.env, NODE_OPTIONS: `${process.env.NODE_OPTIONS ?? ''} --max-old-space-size=6144`.trim() };
 const run = (cmd) => {
-  try { return { code: 0, out: execSync(cmd, { stdio: 'pipe', encoding: 'utf8', maxBuffer: 1024 * 1024 * 64 }) }; }
+  try { return { code: 0, out: execSync(cmd, { stdio: 'pipe', encoding: 'utf8', maxBuffer: 1024 * 1024 * 64, env: CHILD_ENV }) }; }
   catch (e) { return { code: e.status ?? 1, out: (e.stdout ?? '') + (e.stderr ?? '') }; }
 };
 const sha = (p) => createHash('sha256').update(readFileSync(p)).digest('hex');
@@ -145,10 +155,33 @@ const fileSlugs = resourceFiles.map((f) => f.replace(/\.md$/, ''));
 check(ledger.length === fileSlugs.length, `ledger rows (${ledger.length}) equal resource files (${fileSlugs.length})`);
 check(dupes.length === 0, `no duplicate ledger rows (${dupes.length})`);
 check(fileSlugs.every((s) => ledgerSlugs.includes(s)), 'every resource file has a ledger row');
-const pendingRows = ledger.filter((r) => r.reviewStatus !== 'reviewed');
-check(pendingRows.every((r) => r.verificationRecord && r.outcome.startsWith('REPO_')), 'every review-pending resource has a repository-side verification result');
-check(ledger.filter((r) => r.reviewStatus === 'reviewed').every((r) => r.outcome === 'TEACHER_CREDITED'), 'every reviewed resource is reported as a teacher credit, not as a line-by-line review');
-check(pendingRows.every((r) => !r.reviewer && !r.reviewedDate), 'no review-pending resource carries a reviewer or a review date');
+// Three statuses, kept apart: reviewed (accountable-teacher credit, D-379),
+// review-pending, and archived (D-505: off course hubs, neither credited nor
+// awaiting credit).
+const STATUSES = ['reviewed', 'review-pending', 'archived'];
+check(ledger.every((r) => STATUSES.includes(r.reviewStatus)), `every ledger row has a known review status (${STATUSES.join(', ')})`);
+const pendingRows = ledger.filter((r) => r.reviewStatus === 'review-pending');
+const reviewedRows = ledger.filter((r) => r.reviewStatus === 'reviewed');
+const archivedRows = ledger.filter((r) => r.reviewStatus === 'archived');
+check(pendingRows.every((r) => r.verificationRecord && r.outcome.startsWith('REPO_')), `every review-pending resource has a repository-side verification result (${pendingRows.length} pending)`);
+// A reviewed page is a teacher credit. When it also has a repository-side
+// verification record (pages verified while pending on 4 Oct 2026 and credited
+// later, D-477/D-500), the ledger reports that record's REPO_* outcome; the
+// record is a check against the specification, kept separate from the credit
+// (D-448, D-465), and neither is a line-by-line teacher review.
+const verifiedSlugs = new Set();
+for (const f of readdirSync('docs/reports/academic-review').filter((x) => /^pending-review-\d{4}-\d{2}-\d{2}\.json$/.test(x))) {
+  for (const r of JSON.parse(readFileSync(`docs/reports/academic-review/${f}`, 'utf8')).results) verifiedSlugs.add(r.slug);
+}
+const creditOnly = reviewedRows.filter((r) => !verifiedSlugs.has(r.slug));
+const creditPlusRecord = reviewedRows.filter((r) => verifiedSlugs.has(r.slug));
+check(creditOnly.every((r) => r.outcome === 'TEACHER_CREDITED' && !r.verificationRecord && /no dated line-by-line review is on record/.test(r.remainingBlocker))
+  && creditPlusRecord.every((r) => r.outcome.startsWith('REPO_') && r.verificationRecord.startsWith('docs/reports/academic-review/pending-review-'))
+  && reviewedRows.every((r) => !/sign-off required/i.test(r.remainingBlocker)),
+  `every reviewed resource is reported as a teacher credit, not as a line-by-line review (${creditOnly.length} TEACHER_CREDITED, ${creditPlusRecord.length} with a separate repository verification record)`);
+check(pendingRows.every((r) => !r.reviewer && !r.reviewedDate), `no review-pending resource carries a reviewer or a review date (${pendingRows.length} pending)`);
+check(archivedRows.length === (diskStatus.archived ?? 0) && archivedRows.every((r) => !r.reviewer && !r.reviewedDate && r.outcome !== 'TEACHER_CREDITED'),
+  `archived resources are their own status: no reviewer, no review date, no teacher credit (${archivedRows.length} archived)`);
 // Eligible reviewers obey the rules validate-review-integrity.mjs enforces.
 const authorProfiles = new Map(readdirSync('src/content/authors').filter((f) => f.endsWith('.md')).map((f) => {
   const fm = fmOf(readFileSync(`src/content/authors/${f}`, 'utf8'));
@@ -169,7 +202,7 @@ check(existsSync('docs/reports/academic-review/signoff-by-teacher.md'), 'per-tea
 // D-388 -- "Checked by Marlbridge Academic Team" only on pending pages with no
 // eligible teacher whose verification read an official source.
 const specRows = ledger.filter((r) => r.specCheck);
-check(specRows.every((r) => r.reviewStatus !== 'reviewed' && !r.reviewer && !r.eligibleReviewers && !r.officialSourceUrl.startsWith('NOT READ')),
+check(specRows.every((r) => r.reviewStatus === 'review-pending' && !r.reviewer && !r.eligibleReviewers && !r.officialSourceUrl.startsWith('NOT READ')),
   `specCheck appears only on review-pending pages with no eligible teacher and a read official source (${specRows.length} pages)`);
 const specFiles = resourceFiles.filter((f) => /^specCheck:/m.test(fmOf(readFileSync(`src/content/resources/${f}`, 'utf8')))).length;
 check(specFiles === specRows.length, `ledger specCheck column matches frontmatter (${specFiles} files)`);
@@ -201,10 +234,19 @@ withRestore([tmpRes], 'N1', () => {
 
 // --------------------------------------------------------------------- N2
 console.log('\n[N2] Missing reviewer on a "reviewed" resource is caught');
-const pendingFile = resourceFiles.find((f) => !/^reviewStatus:/m.test(fmOf(readFileSync(`${RES}/${f}`, 'utf8'))));
+// Since D-500 every page is credited, so there is no review-pending page to
+// start from. Make one: strip a credited page's review fields (leaving a page
+// with no reviewStatus, i.e. review-pending, and no reviewer), then mark it
+// "reviewed" without a reviewer or date, as this fixture always has.
+const pendingFile = resourceFiles.find((f) => {
+  const fm = fmOf(readFileSync(`${RES}/${f}`, 'utf8'));
+  return /^reviewStatus:\s*"reviewed"/m.test(fm) && /^reviewer:/m.test(fm) && /^reviewedDate:/m.test(fm) && /^publishedDate:/m.test(fm) && !/^specCheck:/m.test(fm);
+});
 withRestore([`${RES}/${pendingFile}`], 'N2', () => {
   const raw = readFileSync(`${RES}/${pendingFile}`, 'utf8');
-  writeFileSync(`${RES}/${pendingFile}`, raw.replace(/^(publishedDate:.*)$/m, '$1\nreviewStatus: "reviewed"'));
+  const asPending = raw.replace(/^(?:reviewStatus|reviewer|reviewedDate):.*\n/gm, '');
+  if (/^(?:reviewStatus|reviewer|reviewedDate):/m.test(fmOf(asPending))) throw new Error(`could not make ${pendingFile} review-pending`);
+  writeFileSync(`${RES}/${pendingFile}`, asPending.replace(/^(publishedDate:.*)$/m, '$1\nreviewStatus: "reviewed"'));
   const l = run(`${LEDGER_CMD} --check`);
   check(l.code !== 0 && l.out.includes('reviewed-without-reviewer'), 'ledger reports reviewed-without-reviewer as a structural FAIL');
   check(l.out.includes('reviewed-without-date'), 'and reviewed-without-date');
@@ -226,27 +268,43 @@ withRestore([recPath], 'N3', () => {
 console.log('\n[N4] Reviewer credit is derived from frontmatter; publication dates never become review dates');
 const authors = readdirSync('src/content/authors').filter((f) => f.endsWith('.md')).map((f) => ({ slug: f.replace(/\.md$/, ''), fm: fmOf(readFileSync(`src/content/authors/${f}`, 'utf8')) }));
 const designated = authors.find((a) => /^isReviewer:\s*true/m.test(a.fm));
-const target = covJson.rows.find((r) => r.reviewPendingCount > 0 && r.lastTeacherCredit !== 'NO_DATA' && r.lastTeacherCredit < '2026-10-04');
-const targetFile = resourceFiles.find((f) => {
-  const fm = fmOf(readFileSync(`${RES}/${f}`, 'utf8'));
-  const boards = (fm.match(/^boards:\s*\[(.*)\]/m) || [])[1] ?? '';
-  // A page with no review fields, or a review-pending page with no reviewer (most pages carry an explicit status since 2026-11-08).
-  const unreviewed = !/^reviewStatus:/m.test(fm) || (/^reviewStatus:\s*"review-pending"/m.test(fm) && !/^reviewer:/m.test(fm) && !/^specCheck:/m.test(fm));
-  return unreviewed && scalar(fm, 'subject') === (hubOf.get(target.subjectSlug) ?? target.subjectSlug) && boards.includes(target.boardSlug) && fm.includes(`"${LEVEL[target.qualificationSlug]}"`);
-});
+// Since D-500 no page is review-pending, so the fixture first turns a credited
+// page into a review-pending page with no reviewer (and regenerates, giving the
+// "before" row), then adds the reviewer credit (the "after" row). The credit
+// date is later than every date in the data, so it must become the
+// combination's lastTeacherCredit; the publication date is later still, so it
+// would show if publication dates leaked into the review date.
+const target = covJson.rows.find((r) => r.reviewedCount > 1 && r.lastTeacherCredit !== 'NO_DATA');
+const targetIdx = res.findIndex((r, i) => r.status === 'reviewed' && r.reviewer && r.subject === (hubOf.get(target.subjectSlug) ?? target.subjectSlug)
+  && r.boards.includes(target.boardSlug) && r.levels.includes(LEVEL[target.qualificationSlug])
+  && !/^specCheck:/m.test(fmOf(readFileSync(`${RES}/${resourceFiles[i]}`, 'utf8'))));
+const targetFile = resourceFiles[targetIdx];
+const dayAfter = (d, n) => new Date(Date.parse(d) + n * 86400000).toISOString().slice(0, 10);
+const latestDate = res.flatMap((r) => [r.reviewedDate, r.published]).filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d)).sort().pop();
+const CREDIT = dayAfter(latestDate, 1);
+const LATER_PUB = dayAfter(latestDate, 30);
+const rowOf = () => JSON.parse(readFileSync(COV.json, 'utf8')).rows.find((r) => r.boardSlug === target.boardSlug && r.qualificationSlug === target.qualificationSlug && r.subjectSlug === target.subjectSlug);
+const creditsFor = (row, slug) => Number((row.namedReviewers === 'NO_DATA' ? [] : row.namedReviewers.split('; ')).map((x) => x.match(/^(.*) \((\d+)\)$/)).find((m) => m && m[1] === slug)?.[2] ?? 0);
 withRestore([`${RES}/${targetFile}`, COV.md, COV.json, COV.csv], 'N4', () => {
   const raw = readFileSync(`${RES}/${targetFile}`, 'utf8');
-  // A reviewer credit dated 2026-10-04, and a much later publication date.
-  writeFileSync(`${RES}/${targetFile}`, raw
-    .replace(/^(?:reviewStatus|reviewNeeded|updatedDate):.*\n/gm, '')
-    .replace(/^publishedDate:.*$/m, 'publishedDate: 2026-10-04\nupdatedDate: 2026-12-31')
-    .replace(/^(author:.*)$/m, `$1\nreviewer: "${designated.slug}"\nreviewStatus: "reviewed"\nreviewedDate: 2026-10-04`));
-  run(COV_CMD);
-  const after = JSON.parse(readFileSync(COV.json, 'utf8')).rows.find((r) => r.boardSlug === target.boardSlug && r.qualificationSlug === target.qualificationSlug && r.subjectSlug === target.subjectSlug);
-  check(after.namedReviewers.includes(designated.slug), `report names the added reviewer (${designated.slug})`);
-  check(after.reviewedCount === target.reviewedCount + 1 && after.reviewPendingCount === target.reviewPendingCount - 1, 'reviewed and pending counts move by one');
-  check(after.lastTeacherCredit === '2026-10-04', `lastTeacherCredit comes from reviewedDate (got ${after.lastTeacherCredit})`);
-  check(after.lastPublishedOrUpdated === '2026-12-31' && after.lastTeacherCredit !== '2026-12-31', 'a later updatedDate does not become the review date');
+  const stripped = raw.replace(/^(?:reviewStatus|reviewer|reviewedDate|reviewNeeded|updatedDate):.*\n/gm, '');
+  // Step 1: a review-pending page with no reviewer.
+  writeFileSync(`${RES}/${targetFile}`, stripped.replace(/^(author:.*)$/m, '$1\nreviewStatus: "review-pending"'));
+  if (run(COV_CMD).code !== 0) throw new Error('coverage generator failed on the review-pending fixture');
+  const before = rowOf();
+  check(before.reviewPendingCount === target.reviewPendingCount + 1 && before.reviewedCount === target.reviewedCount - 1,
+    `the temporary review-pending page (${targetFile}) is counted as pending (${before.reviewPendingCount}), not reviewed`);
+  check(before.lastTeacherCredit < CREDIT && before.lastPublishedOrUpdated < LATER_PUB, 'fixture dates are later than every date already in the combination');
+  // Step 2: a reviewer credit dated CREDIT, and a much later publication date.
+  writeFileSync(`${RES}/${targetFile}`, stripped
+    .replace(/^publishedDate:.*$/m, `publishedDate: ${CREDIT}\nupdatedDate: ${LATER_PUB}`)
+    .replace(/^(author:.*)$/m, `$1\nreviewer: "${designated.slug}"\nreviewStatus: "reviewed"\nreviewedDate: ${CREDIT}`));
+  if (run(COV_CMD).code !== 0) throw new Error('coverage generator failed on the credited fixture');
+  const after = rowOf();
+  check(creditsFor(after, designated.slug) === creditsFor(before, designated.slug) + 1, `report names the added reviewer (${designated.slug}: ${creditsFor(before, designated.slug)} -> ${creditsFor(after, designated.slug)} credits)`);
+  check(after.reviewedCount === before.reviewedCount + 1 && after.reviewPendingCount === before.reviewPendingCount - 1, 'reviewed and pending counts move by one');
+  check(after.lastTeacherCredit === CREDIT, `lastTeacherCredit comes from reviewedDate (expected ${CREDIT}, got ${after.lastTeacherCredit})`);
+  check(after.lastPublishedOrUpdated === LATER_PUB && after.lastTeacherCredit !== LATER_PUB, 'a later updatedDate does not become the review date');
 });
 
 console.log(`\n==============================================================================`);
