@@ -25,7 +25,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-19 (D-509): one examiner-insight sentence reworded so it no longer follows the June 2024 examiner report's wording; no question, answer or mark changed."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -101,7 +101,7 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 
 **5.** *(Extended)* Any four of: both are found in the **retina** [1]; the **fovea** contains mainly **cones** and no rods [1]; there are **no rods or cones at the blind spot** [1]; **rods** are sensitive to **dim light** and give black-and-white vision [1]; **cones** work in **bright light** and give **colour vision**, with different cones absorbing different wavelengths of light [1]. Max [4].
 
-*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 2(c)):* Only a few candidates mentioned that there are no rods or cones at the blind spot. Some said cones "are red, green or blue" instead of absorbing different wavelengths, or said receptors "see" light rather than detect it.
+*Examiner insight (Cambridge 0610 June 2024 examiner report, Paper 42, Question 2(c)):* Most answers left out the blind spot, where there are no rods or cones. Some said cones "are red, green or blue" instead of absorbing different wavelengths, or said receptors "see" light rather than detect it.
 
 *Try the real question next:* Cambridge IGCSE Biology 0610, June 2024, Paper 42, Question 2(c).
 

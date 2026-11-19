@@ -28,7 +28,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-19 (D-509): one examiner-insight sentence reworded so it no longer follows the June 2024 examiner report's wording; no question, answer or mark changed."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -83,7 +83,7 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 
 **4.** The site must have a **reliable supply of water and electricity** [1], because a bottling plant needs large volumes of water for its drinks and power for its machines [1]; without them **production would stop** [1]. (Also credit: **enough space** for the plant and future expansion; the **cost of the land or rent**, which raises fixed costs; **good transport links** for deliveries.)
 
-*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 4(d)):* Good answers mentioned factors such as rent, space or electricity and their effect on costs or production. Saying the land "needs to be suitable" with no development gained nothing, and points about access to customers were not credited, because this is not a significant factor for a manufacturer.
+*Examiner insight (Cambridge 7115 June 2024 examiner report, Paper 12, Question 4(d)):* Good answers mentioned factors such as rent, space or electricity and their effect on costs or production. Saying the land "needs to be suitable" with no development gained nothing. Nearness to customers earned no credit either: for a factory, examiners did not treat it as a major location factor.
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 4(d).
 
